@@ -25,7 +25,7 @@ sources:
 - **Species:** L. inflata L.
 
 The genus *Lobelia* comprises approximately 415 species distributed worldwide, with centers of diversity in tropical Africa, the Americas, and Australasia.
-The genus is named in honor of Matthias de l'Obel (1538–1616), the Flemish botanist and physician who was one of the first botanists to classify plants based on natural relationships rather than [[sacramental-ayahuasca-legal-battles-united-states]] to Georgia, Alabama, and eastern Texas, and westward to Kansas and Minnesota.
+The genus is named in honor of Matthias de l"Obel (1538–1616), the Flemish botanist and physician who was one of the first botanists to classify plants based on natural relationships rather than [[sacramental-ayahuasca-legal-battles-united-states]] to Georgia, Alabama, and eastern Texas, and westward to Kansas and Minnesota.
 The species is most abundant in the Appalachian region, the Ohio River Valley, and the Great Lakes region, where it occurs in a wide range of open, disturbed habitats.
 
 Typical habitats include dry to mesic open woods, woodland margins, fields, pastures, roadsides, railroad rights-of-way, waste places, and recently disturbed ground.

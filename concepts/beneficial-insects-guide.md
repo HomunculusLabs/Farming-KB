@@ -105,7 +105,7 @@ A large group of tiny wasps that lay their eggs inside or on pest insects. The w
 - **Braconid wasps**: Parasitize tomato hornworms, cabbage worms, and other caterpillars. Visible as white silk cocoons on the backs of parasitized caterpillars. Leave parasitized caterpillars alone — the wasps will emerge and continue the cycle.
 
 **How to Attract:**
-- Plant umbelliferous flowers (dill, fennel, parsley, cilantro, yarrow, Queen Anne's lace) — the shallow flowers provide nectar for adult wasps
+- Plant umbelliferous flowers (dill, fennel, parsley, cilantro, yarrow, Queen Anne"s lace) — the shallow flowers provide nectar for adult wasps
 - Plant composite flowers (cosmos, zinnias, sunflowers, asters) for additional nectar sources
 - Avoid insecticides — parasitic wasps are extremely sensitive to even organic sprays
 - See [[insectary-plantings]] for detailed plant recommendations

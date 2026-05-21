@@ -12,7 +12,7 @@ type: concept
 ## Tupa (Lobelia tupa)
 
 Tupa, known scientifically as Lobelia tupa, is a tall, variable plant of
-the high Andes, also called tabaco del diablo ("devil's tobacco") in
+the high Andes, also called tabaco del diablo ("devil"s tobacco") in
 reference to its use as a smoking mixture. In Chile, the Mapuche Indians
 smoke the dried leaves of this beautiful red-flowered plant for their
 narcotic effects. Whether these effects are truly hallucinogenic has not yet

@@ -6,7 +6,7 @@ type: concept
 
 ## Mushroom Cultivation Requirements: Food, Water, Gas Exchange, and Light
 
-From [[tradd-cotter]]'s *Organic Mushroom Farming and [[mycoremediation]]*, the four essential requirements for prolific mushroom production are food, water, gas exchange, and light. "If any one of these variables is missing or neglected, the mycelium and mushroom biomass suffers greatly."
+From [[tradd-cotter]]"s *Organic Mushroom Farming and [[mycoremediation]]*, the four essential requirements for prolific mushroom production are food, water, gas exchange, and light. "If any one of these variables is missing or neglected, the mycelium and mushroom biomass suffers greatly."
 
 ## Food
 
@@ -68,7 +68,7 @@ The entire biomass uses the outer edges of the mycelium for oxygen transport, ch
 
 ### Temperature Triggers
 - Lower temperature a few degrees after colonization simulates seasonal fluctuation
-- **Cool weather species** (lion's mane, maitake, enoki): Cold shock at 40-50°F (4.5-10°C) for 1-several days
+- **Cool weather species** (lion"s mane, maitake, enoki): Cold shock at 40-50°F (4.5-10°C) for 1-several days
 - **Blewits and morels**: Require near-freezing to freezing periods
 
 ### Humidity for Pinning
@@ -83,7 +83,7 @@ The entire biomass uses the outer edges of the mycelium for oxygen transport, ch
 - Hands sprayed with 70% [[isopropyl-alcohol]] or half-strength bleach
 - Clean rake (designated solely for [[accessible-mushroom-cultivation-for-disabilities]]) dunked in diluted bleach
 - Spread media 3-4 inches deep; break spawn into smallest fragments; broadcast evenly
-- Tools don't need cleaning until after container filling if they stay in the mixing area
+- Tools don"t need cleaning until after container filling if they stay in the mixing area
 
 ### Automation Warning
 "Automation can also complicate your process, not only by magnifying your production volume, but also by magnifying your problems, such as low-yielding formulas, strain degeneration, and possible contamination."

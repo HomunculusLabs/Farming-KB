@@ -14,7 +14,7 @@ type: concept
 
 In the chemical studies on fungi, the age of the studied specimens is an important variable which needs to be taken into consideration. Active compounds in psilocybian mushrooms are not stable over time, and their concentration decreases significantly as specimens age. This fact has profound implications for both the ethnographic study of indigenous mushroom use and the reliability of published [[stamets-psi-psilocybe-baeocystis-knobby-tops]] and [[challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification]] of freshly collected specimens is surprisingly narrow. Researchers working with field-collected material must either analyze specimens immediately or employ preservation methods that arrest degradation. The loss of baeocystin, a compound closely related to psilocybin, served as a marker for the broader instability of tryptamine alkaloids in fungal tissue.
 
-## Ohenoja's Herbarium Specimen Decline Data
+## Ohenoja"s Herbarium Specimen Decline Data
 
 Ohenoja et al. (1987) provided compelling evidence for long-term psilocybin degradation by analyzing [[albert-hofmann-eleusinian-potion-analysis]], in his work with Roger Heim and R. Gordon Wasson (1958), did not find any indoles present in specimens of Cordyceps capitata and C. ophioglossoides. These specimens had been gathered by Wasson in a popular market in Mexico as sacred fungi and had been preserved for a long time before chemical analysis.
 

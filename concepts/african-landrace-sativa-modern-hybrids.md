@@ -6,7 +6,7 @@ tags:
 
 ## Overview
 
-Africa is home to some of the world's most distinctive and potent cannabis sativa landraces. From the equatorial highlands of East Africa to the savannas of the south, African [[query-how-does-no-till-cannabis-cultivation-work]], primarily for hashish production. Moroccan genetics, in particular, have been influential in European breeding programs, though many of these are technically indica-influenced or hybrid populations rather than pure sativas.
+Africa is home to some of the world"s most distinctive and potent cannabis sativa landraces. From the equatorial highlands of East Africa to the savannas of the south, African [[query-how-does-no-till-cannabis-cultivation-work]], primarily for hashish production. Moroccan genetics, in particular, have been influential in European breeding programs, though many of these are technically indica-influenced or hybrid populations rather than pure sativas.
 
 ## Key African Landrace Strains
 
@@ -18,7 +18,7 @@ This early-finishing trait is genetically dominant and passes reliably to offspr
 ### Malawi Gold
 Malawi Gold is a legendary East African sativa that has been cultivated in the Lake Malawi region for generations. Known for its exceptional potency and extended flowering time, Malawi Gold produces large, resinous buds with a complex sweet-sour aroma. The Rev describes it as producing "sweet coffee" flavors. Traditional Malawi cultivation involves extended curing processes, with the finished product sometimes referred to as Malawi "Gold" for the golden color that develops during these extended cures.
 
-In modern breeding, Malawi genetics contribute potency and resin production but require careful management of flowering time. Doobie's Malawi, a cross of Malawi Gold with a Massachusetts SuperSkunk × Sour Bubble hybrid, represents one approach to taming the Malawi's extreme characteristics while preserving its unique qualities. The resulting sativa-dominant strain flowers in approximately 90 days and produces exceptionally resinous, sticky buds.
+In modern breeding, Malawi genetics contribute potency and resin production but require careful management of flowering time. Doobie"s Malawi, a cross of Malawi Gold with a Massachusetts SuperSkunk × Sour Bubble hybrid, represents one approach to taming the Malawi's extreme characteristics while preserving its unique qualities. The resulting sativa-dominant strain flowers in approximately 90 days and produces exceptionally resinous, sticky buds.
 
 ### Congolese (Congo)
 Congolese landrace sativas are among the most potent African varieties. King Congo, bred by Tropical Seeds Company, represents a modern expression of Congolese genetics. These strains are known for their tall growth, vigorous branching, and powerful psychoactive effects. Congolese genetics contribute energy and creativity to hybrid offspring, with some phenotypes producing effects described as bordering on hallucinogenic.

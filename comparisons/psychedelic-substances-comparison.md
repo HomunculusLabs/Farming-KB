@@ -4,7 +4,7 @@ created: 2026-04-13
 updated: 2026-04-13
 type: comparison
 tags: [psychedelics, comparison]
-sources: ['raw/papers/leary-t-the-psychedelic-experience.md']
+sources: ["raw/papers/leary-t-the-psychedelic-experience.md']
 ---
 ## Psychedelic Substances Comparison
 

@@ -1,5 +1,5 @@
 ---
-title: Fukuoka's Seed Ball Technique
+title: Fukuoka"s Seed Ball Technique
 created: 2026-04-20
 updated: 2026-04-20
 type: concept
@@ -8,7 +8,7 @@ sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
-## Fukuoka's Seed Ball Technique
+## Fukuoka"s Seed Ball Technique
 
 **Updated:** 2026-04-18
 

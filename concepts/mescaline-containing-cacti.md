@@ -21,7 +21,7 @@ properties.
 ### Botany and Distribution
 
 Peyote grows within a narrow strip of desert along the Texas-Mexico border,
-extending deeply into Mexico's Chihuahuan Desert. It is a spineless, slow-
+extending deeply into Mexico"s Chihuahuan Desert. It is a spineless, slow-
 growing cactus with a small crown (the "button") visible above ground and a
 tuberous, carrot-like root extending below. When properly harvested, the
 crown is cut from the plant leaving the root intact, allowing regrowth.

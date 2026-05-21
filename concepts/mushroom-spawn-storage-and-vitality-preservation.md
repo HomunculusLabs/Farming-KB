@@ -56,7 +56,7 @@ Stored spawn should be kept in a well-drained, ventilated room or cellar. Stagna
 
 ### Protection from Contamination
 
-Spawn should be protected from contact with contaminated materials, soil, or other potential sources of competitive organisms. The cotton plugs of pure culture tubes serve this purpose in the laboratory; commercial brick spawn's dried, compact exterior provides a degree of natural protection.
+Spawn should be protected from contact with contaminated materials, soil, or other potential sources of competitive organisms. The cotton plugs of pure culture tubes serve this purpose in the laboratory; commercial brick spawn"s dried, compact exterior provides a degree of natural protection.
 
 ## The Deterioration Process
 

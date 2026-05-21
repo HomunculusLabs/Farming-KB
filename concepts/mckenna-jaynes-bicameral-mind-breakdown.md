@@ -13,13 +13,13 @@ type: concept
 
 ## Overview
 
-Julian Jaynes's controversial 1976 book *The Origin of Consciousness in the Breakdown of the Bicameral Mind* proposed that human consciousness — as we understand it today — did not exist until relatively recently in history.
+Julian Jaynes"s controversial 1976 book *The Origin of Consciousness in the Breakdown of the Bicameral Mind* proposed that human consciousness — as we understand it today — did not exist until relatively recently in history.
 
 According to Jaynes, the people of Homeric Greece and earlier civilizations operated with a fundamentally different psychic organization in which an internal "voice of the gods" directed behavior during moments of stress or decision.
 
 [[dosage-unpredictability-psilocybin-subjective-experience]] in the modern sense.
 
-The term "bicameral" (literally "two-chambered") refers to Jaynes's proposal that the two hemispheres of the brain functioned as separate chambers: the right hemisphere as an oracle or god-chamber, and the left hemisphere as the obedient recipient of its commands.
+The term "bicameral" (literally "two-chambered") refers to Jaynes"s proposal that the two hemispheres of the brain functioned as separate chambers: the right hemisphere as an oracle or god-chamber, and the left hemisphere as the obedient recipient of its commands.
 
 ## The Breakdown and the Birth of Consciousness
 

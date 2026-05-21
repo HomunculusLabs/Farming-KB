@@ -44,7 +44,7 @@ Psilocybin mushrooms occupy a unique position in drug policy discussions:
 
 **Santa Cruz, California (January 2020)**
 - City council unanimously decriminalized entheogenic plants and fungi
-- Followed Oakland's broader model
+- Followed Oakland"s broader model
 
 ### 2020–2022: The Movement Accelerates
 

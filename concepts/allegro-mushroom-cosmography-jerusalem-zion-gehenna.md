@@ -11,20 +11,20 @@ In [[allegro-fertility-philosophy-of-the-ancient-near-east]] Eastern cosmography
 
 ## Jerusalem Topography as Fertility Geography
 
-Every feature of Jerusalem's landscape encodes sexual-fertility symbolism rooted in the mushroom model:
+Every feature of Jerusalem"s landscape encodes sexual-fertility symbolism rooted in the mushroom model:
 
 The **Temple site** stands on the "threshing floor of Araunah" (II Samuel 24:15ff). The Hebrew word
 for threshing floor (*gōren*) means "seed-container." **Araunah** is Sumerian for "pounder of the
 womb" — the phallus grinding grain in the uterine mortar. The Temple is built where insemination and
-cultivation converge, where the mushroom's spores are released.
+cultivation converge, where the mushroom"s spores are released.
 
 **Zion** is the *mons veneris* — the mount of the vulva rising above surrounding valleys. The **Pool
 of Siloam** is the "place of washing," the ritual ablution site. The **Gihon spring** provides sacred
-water — the amniotic flow nourishing the holy place, the life-giving moisture of the mushroom's volva.
+water — the amniotic flow nourishing the holy place, the life-giving moisture of the mushroom"s volva.
 
 The **Valley of Hinnom** (Gehenna) derives from Sumerian *\*B&J_ERuM* "penis-sheath" — the vagina.
 It was the site of the **Molech** cult, where children were passed through fire in rites Allegro reads
-as corrupted fertility ceremonies originally tied to the mushroom's generative power.
+as corrupted fertility ceremonies originally tied to the mushroom"s generative power.
 
 The **Kidron valley** cuts the city off to the east, separating it from the Mount of Olives. Combined
 with the Hinnom valley, the gorge system runs to the Dead Sea, forming the vulvar cleft of sacred
@@ -35,14 +35,14 @@ topography — the passage through which the initiate descends to the underworld
 but tools of the midwife, steering the initiate through rebirth. Death and birth are the same
 threshold; the valley of the shadow of death is simultaneously the way of birth.
 
-**Gehenna** (the Wady of Fire) combines the valley's blistering heat with proximity to the Dead Sea
+**Gehenna** (the Wady of Fire) combines the valley"s blistering heat with proximity to the Dead Sea
 — the "bowels of the earth." Later theologians transformed this landscape of subterranean fertility
 into a site of eternal hell-fire, but originally it was the womb-tomb where the mushroom initiate
 descended for regeneration. The fire was purifying, not punitive.
 
 The identification of **Delphi** as the "navel of earth" (omphalos) and the siting of the **Church
 of the Holy Sepulchre** at Jerusalem reflect the same concept: each marks the sacred centre where
-heaven penetrates earth and the mushroom's axis mundi stands.
+heaven penetrates earth and the mushroom"s axis mundi stands.
 
 ## Jacob's Ladder
 
@@ -64,7 +64,7 @@ in smoke...like the smoke of a kiln" — the fiery summit of the smoking mushroo
 — thunder, fire, smoke, quaking — is a description of the mushroom experience.
 
 When Moses descends, his face **glows** (Exodus 34:29, Hebrew *qāran* "horned" or "radiant") — the
-radiance of the initiate who has consumed the fiery fungus. The "horns of light" are the cap's glow,
+radiance of the initiate who has consumed the fiery fungus. The "horns of light" are the cap"s glow,
 the Amanita's red-and-white brilliance transferred to the prophet's skin.
 
 The **tablets of stone** Allegro reads as *\*TAB_BA_LI* "twin-cone" — the two halves of the split

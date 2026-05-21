@@ -8,17 +8,17 @@ type: concept
 
 The biblical **Manna** — the miraculous food that sustained the Israelites in the wilderness — is identified through linguistic, botanical, and symbolic analysis as the **[[allegro-dead-sea-scrolls]], made numerous connections in his controversial 1970 book *[[soma]]** (Greek = "Body") — the Hindu divine substance
 - **Manna** (Sumerian = "Mushroom") — the biblical miraculous food
-- **Jesus, James, and John** — names Allegro argued were synonyms and wordplay for the mushroom's hidden identity
+- **Jesus, James, and John** — names Allegro argued were synonyms and wordplay for the mushroom"s hidden identity
 - **The Fruit of the [[forbidden-fruit-cannabis]]
 - **The symbol of the Cross** — connected to [[allegro-colour-and-consistency-of-the-amanita-muscaria]] precisely:
 
 1. **"A small round thing"** — Manna appeared on the ground after dew had fallen (Exodus 16:14). Mushrooms grow from moisture; they appear after dew.
 2. **Miraculous (seedless) birth** — Manna was thought to be produced without seed. Mushrooms grow from microscopic spores invisible to the naked eye, appearing to materialize miraculously and disappear just as mysteriously.
-3. **Rapid spoilage** — When the Israelites left Manna till morning against Moses's instructions, "it bred worms, and stank" (Exodus 16:20). Mushrooms left in the sun or to their natural process rot, breed worms, and stink.
+3. **Rapid spoilage** — When the Israelites left Manna till morning against Moses"s instructions, "it bred worms, and stank" (Exodus 16:20). Mushrooms left in the sun or to their natural process rot, breed worms, and stink.
 
 ## The Two Mannas
 
-According to the Book of Revelation and Jesus's own teachings in the Gospel of John, there are **two distinct kinds of Manna**:
+According to the Book of Revelation and Jesus"s own teachings in the Gospel of John, there are **two distinct kinds of Manna**:
 
 - **The Manna of the wilderness** — the ordinary sustenance that perished, which the Israelites ate in the desert
 - **The "Hidden Manna"** — the Manna that bestows immortality, described in Revelation 2:17 as the reward for those who overcome
@@ -33,7 +33,7 @@ A 13th-century French fresco explicitly depicts the Amanita muscaria as the Frui
 
 The concept of **literally ingesting the body of God** is central to Christian practice but highly downplayed by modern scholars. The interpretation becomes straightforward when the "body" (Soma) is understood as the fleshy mushroom — far more palatable than literal cannibalism or the magical transformation of ordinary substances.
 
-Jesus's words at the Last Supper — "Take and eat, this is my body" and "He that eateth my flesh, and drinketh my blood, dwelleth in me, and I in him" (John 6:56) — take on concrete meaning as instructions for sacramental mushroom ingestion.
+Jesus"s words at the Last Supper — "Take and eat, this is my body" and "He that eateth my flesh, and drinketh my blood, dwelleth in me, and I in him" (John 6:56) — take on concrete meaning as instructions for sacramental mushroom ingestion.
 
 ## The Doctrine of Transubstantiation
 

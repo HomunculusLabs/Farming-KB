@@ -21,7 +21,7 @@ Scientific agriculture proceeds primarily through inductive experimentation: con
 
 However, Fukuoka distinguishes between ordinary deduction and what he calls "true deduction." Ordinary deduction is merely the inverse of induction, defined in relation to it. True deduction originates "at a point beyond the world of phenomena" and arises from philosophical understanding of the natural world.
 
-The creative roots of natural farming lie in true intuitive understanding. The departure point must be a grasp of nature gained by fixing one's gaze on the natural world that extends beyond immediate surroundings. An infinitude of yield-improving possibilities lie hidden in this broader view.
+The creative roots of natural farming lie in true intuitive understanding. The departure point must be a grasp of nature gained by fixing one"s gaze on the natural world that extends beyond immediate surroundings. An infinitude of yield-improving possibilities lie hidden in this broader view.
 
 ## The Mountain Climbing Analogy
 
@@ -47,7 +47,7 @@ Fukuoka describes this undivided and inseparable unity as the "nothingness" that
 To illustrate why inductive analysis of individual factors fails, Fukuoka uses the analogy of a hotel:
 
 - The building sits on a rock foundation representing nature. Floors and rooms represent cultivation conditions and factors.
-- **Yield** is determined by the building's total capacity and how fully each room is occupied.
+- **Yield** is determined by the building"s total capacity and how fully each room is occupied.
 - The **upper limit** of yield is set by the natural environment, the rock foundation and the building site. This maximum yield may be called the natural yield and is the best and highest yield attainable.
 - **Actual harvest** is lower because some rooms remain vacant, representing weaknesses in cultivation factors.
 

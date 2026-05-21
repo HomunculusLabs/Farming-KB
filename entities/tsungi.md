@@ -37,7 +37,7 @@ to be accessing the same power that Tsungi first possessed.
 The auditory phenomenon of rushing water is the key sign that
 a shaman has achieved the Tsungi state. In [[jivaro-shamanic-apprenticeship]]
 ideology:
-- The sound of rushing water fills the shaman's ears
+- The sound of rushing water fills the shaman"s ears
 - Listening to its roar confirms possession of Tsungi's power
 - This power enables true vision (supernatural perception)
 - The shaman can then "find the truth" — seeing the real
@@ -49,7 +49,7 @@ shamanic activation.
 
 ### Connection to Natemä Experience
 
-Tsungi's power is accessible only through the hallucinogenic
+Tsungi"s power is accessible only through the hallucinogenic
 *natemä* brew. The progression of the Jivaro trance experience
 illustrates the activation of Tsungi's power:
 
@@ -73,7 +73,7 @@ Tsungi's power is specifically invoked for diagnostic vision:
 the ability to see through the illusion of ordinary reality to
 perceive the true supernatural causes of illness. When a
 shaman "possesses the power of Tsungi," he can make the sick
-person's body transparent "like a shallow mountain stream" and
+person"s body transparent "like a shallow mountain stream" and
 see the intrusive spirit (e.g., the poisonous serpent sent by
 an enemy shaman) coiling within.
 
@@ -85,7 +85,7 @@ cultures globally. Tsungi parallels:
 - Cultural heroes in other Amazonian traditions who first
   mediated between human and spirit worlds
 
-The Jivaro emphasis on Tsungi's power being confirmed by a
+The Jivaro emphasis on Tsungi"s power being confirmed by a
 specific auditory phenomenon (rushing water) is distinctive
 and may reflect the particular phenomenology of the
 Banisteriopsis [[trans-cultural-hallucinogenic-experience-biochemical-reinforcement]].
@@ -97,7 +97,7 @@ mythological frameworks that structure the user's experience.
 The entire diagnostic system of [[harner-jivaro-shamanism-yage]]—from the
 auditory confirmation of shamanic power to the "transparent
 body" vision—is mediated through the *natemä* experience and
-attributed to Tsungi's primordial gift. This demonstrates how
+attributed to Tsungi"s primordial gift. This demonstrates how
 psychedelic plants serve as the foundation for complex
 religious and medical systems, with cultural heroes like
 Tsungi encoding the phenomenological signature of the drug

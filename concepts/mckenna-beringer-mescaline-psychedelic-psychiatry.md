@@ -11,7 +11,7 @@ type: concept
 ## Kurt Beringer, Mescaline, and the Birth of Psychedelic Psychiatry
 
 In *Food of the Gods*, [[banisteriopsis-caapi]]*, the woody liana
-encountered by Richard Spruce in the Amazon nearly eighty years before. Lewin's last
+encountered by Richard Spruce in the Amazon nearly eighty years before. Lewin"s last
 published work, *Banisteria Caapi, ein neues Rauschgift und Heilmittel* (1929), reflected
 his new fascination with the Amazonian vine.
 

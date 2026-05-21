@@ -13,7 +13,7 @@ type: concept
 The soil lives of its own accord and plows itself. It needs no help from man.
 Farmers often talk of "taming the soil" and of a field becoming "mature," but
 why is it that trees in mountain forests grow to such magnificent heights
-without the benefit of hoe or fertilizer, while the farmer's fields can grow
+without the benefit of hoe or fertilizer, while the farmer"s fields can grow
 only puny crops?
 
 ## The Wisdom of Forests
@@ -34,7 +34,7 @@ lies at the heart of [[dighton-fungal-decomposition-leaf-litter-dynamics]] decom
 bringing minerals from below. [[arbuscule-isolation-and-nutrient-exchange-mechanisms]]. No onesoil-food-weblizes,
 or sprays the forest, yet it produces enormous biomasdecompositionyear.
 
-The farmer's field, by contrast, is stripped of its natural vegetation,
+The farmer"s field, by contrast, is stripped of its natural vegetation,
 compacted by machinery, and depleted of [[ozier-pdc-composting-and-soil-building]] is disrupted by chemical inputs, and the
 natural cycles of decomposition and renewal are broken. Then the farmer
 wonders why the soil "needs" plowing and fertilization, not realizing that

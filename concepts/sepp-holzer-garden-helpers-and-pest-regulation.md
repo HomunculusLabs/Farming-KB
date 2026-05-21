@@ -10,13 +10,13 @@ sources:
 
 Updated: 2026-04-18
 
-Source: Sepp Holzer, *Sepp Holzer's Permaculture* (2010)
+Source: Sepp Holzer, *Sepp Holzer"s Permaculture* (2010)
 
 Sepp Holzer's approach to [[fukuoka-ecological-balance-principles]] keep potential problems in check.
 
 ## Core Philosophy
 
-"It is not a question of what can I do to fight the 'pests', but what can I do for them, so that they will not cause damage and even work to my benefit."
+"It is not a question of what can I do to fight the "pests', but what can I do for them, so that they will not cause damage and even work to my benefit."
 
 ## Voles and Decoy Plants
 
@@ -27,7 +27,7 @@ Voles can cause significant damage by eating plant roots. Rather than using pois
 
 ## Slugs and Snails
 
-The non-indigenous Spanish slug (Arion vulgaris) breeds prolifically -- up to 15 per square metre in affected areas. Holzer's [[solomon-insects-and-diseases-integrated-approach]]:
+The non-indigenous Spanish slug (Arion vulgaris) breeds prolifically -- up to 15 per square metre in affected areas. Holzer"s [[solomon-insects-and-diseases-integrated-approach]]:
 
 ### Sawdust Barrier Method
 1. Mix very dry fine sawdust (from untreated natural wood, ideally from a carpenter's workshop) with wood ash (1:10 ratio) or quicklime powder (1:20)

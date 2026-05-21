@@ -11,7 +11,7 @@ The cultivation of mushrooms has a documented history stretching back over three
 
 ## Early Cultivation in France
 
-The earliest reliable records of deliberate mushroom cultivation place its origin in France during the reign of Louis XIV (1643–1715), though the mushroom was already considered a luxury food item a century or two before that period. The French aristocracy's appreciation for cultivated mushrooms helped establish the foundations of what would become a major agricultural industry.
+The earliest reliable records of deliberate mushroom cultivation place its origin in France during the reign of Louis XIV (1643–1715), though the mushroom was already considered a luxury food item a century or two before that period. The French aristocracy"s appreciation for cultivated mushrooms helped establish the foundations of what would become a major agricultural industry.
 
 Joseph Pitton de Tournefort, the renowned French botanist, left a detailed account of mushroom cultural operations dating from 1707. His observations, later reproduced in "La culture des champignons comestibles" (June 1885, pp. 159–143), reveal that while little was understood about the actual biology and life relations of the mushroom organism, the practical conditions required for successful cultivation were clearly appreciated. Growers of Tournefort's era had already identified the critical importance of temperature, moisture, and appropriate substrata, even though they lacked any understanding of spore germination, mycelial growth, or the fungal life cycle.
 

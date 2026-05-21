@@ -43,7 +43,7 @@ Acid rain affects fungi through both direct and indirect pathways. Direct effect
 
 ## Historical Context
 
-The acid rain issue peaked in Europe during the 1970s–1990s, with Scandinavian and Central European forests suffering the most severe impacts. The research documented in Dighton's "Fungi in Ecosystem Processes" reflects this period of intensive investigation into air pollution effects on fungal ecology, with extensive studies from The Netherlands, Sweden, Germany (Solling), and the United Kingdom.
+The acid rain issue peaked in Europe during the 1970s–1990s, with Scandinavian and Central European forests suffering the most severe impacts. The research documented in Dighton"s "Fungi in Ecosystem Processes" reflects this period of intensive investigation into air pollution effects on fungal ecology, with extensive studies from The Netherlands, Sweden, Germany (Solling), and the United Kingdom.
 ## Key Characteristics
 
 Several defining features distinguish this subject from related topics. These characteristics inform both practical applications and theoretical understanding.

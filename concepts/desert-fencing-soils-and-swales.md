@@ -6,7 +6,7 @@ type: concept
 
 ## Desert Fencing, Soils, and Swales
 
-Over much of the world's drylands, the great impediment to home garden production of food is the presence of wild, feral, and domestic browsing animals. Fencing, soil management, and water harvesting through swales form the three pillars of productive desert agriculture.
+Over much of the world"s drylands, the great impediment to home garden production of food is the presence of wild, feral, and domestic browsing animals. Fencing, soil management, and water harvesting through swales form the three pillars of productive desert agriculture.
 
 ## Fencing as a Primary Requisite
 

@@ -36,7 +36,7 @@ The commercial microorganism industry selects and sells a tiny fraction of micro
 
 ## The Sea Salt Example
 
-Even sea salt, one of JADAM's most recommended inputs, must be used correctly. "Good and bad are one. If a good were excessive, it will turn bad." Sea water must be diluted at least 30 times or the salinity will be too strong and damage crops. One must not sprinkle salt directly onto soil or spray undiluted sea water.
+Even sea salt, one of JADAM"s most recommended inputs, must be used correctly. "Good and bad are one. If a good were excessive, it will turn bad." Sea water must be diluted at least 30 times or the salinity will be too strong and damage crops. One must not sprinkle salt directly onto soil or spray undiluted sea water.
 
 ## The Broader Philosophical Context
 

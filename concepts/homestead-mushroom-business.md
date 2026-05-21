@@ -9,7 +9,7 @@ sources: []
 
 # Homestead Mushroom Business
 
-Growing and selling mushrooms on a homestead scale offers high returns on low capital investment. Gourmet mushrooms (shiitake, oyster, lion's mane, [[wine-cap]]) command $8-20/lb retail and can be produced in small spaces using low-tech methods. This guide covers production, pricing, licensing, and scaling.
+Growing and selling mushrooms on a homestead scale offers high returns on low capital investment. Gourmet mushrooms (shiitake, oyster, lion"s mane, [[wine-cap]]) command $8-20/lb retail and can be produced in small spaces using low-tech methods. This guide covers production, pricing, licensing, and scaling.
 
 ## Species Selection for Beginners
 
@@ -88,7 +88,7 @@ Fruiting:
 ### Farmers Market Pricing
 - Oyster: $10-12/lb
 - Shiitake: $12-16/lb
-- Lion's Mane: $16-20/lb
+- Lion"s Mane: $16-20/lb
 - Mixed boxes: $12-15/lb (variety pack)
 
 ### Wholesale Pricing

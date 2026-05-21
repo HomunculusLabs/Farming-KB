@@ -3,7 +3,7 @@ title: "What Is Phytophthora and How Do I Manage It Organically?"
 tags: [query, plant-pathology, soil-borne-disease, organic-growing, oomycete]
 date: 2026-05-19
 updated: 2026-05-19
-sources: ['raw/papers/what-a-plant-knows-daniel-chamovitz.md']
+sources: ["raw/papers/what-a-plant-knows-daniel-chamovitz.md']
 ---
 
 ## What Is Phytophthora and How Do I Manage It Organically?

@@ -67,7 +67,7 @@ Club surveys identified a typical user profile:
 
 ### Dormant Period (Late 1950s - Late 1990s)
 
-Following the initial wave of interest in hallucinogenic mushrooms during the 1950s-1970s (catalyzed by Wasson's publications and the counterculture movement), use of mushrooms lay **relatively dormant** for several decades. During this period, mushrooms were largely overshadowed by synthetic psychedelics (LSD) and other recreational drugs.
+Following the initial wave of interest in hallucinogenic mushrooms during the 1950s-1970s (catalyzed by Wasson"s publications and the counterculture movement), use of mushrooms lay **relatively dormant** for several decades. During this period, mushrooms were largely overshadowed by synthetic psychedelics (LSD) and other recreational drugs.
 
 ### Reemergence (Late 1990s - Early 2000s)
 

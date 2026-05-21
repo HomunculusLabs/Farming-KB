@@ -8,7 +8,7 @@ type: concept
 
 ## Evaluating Diversity — Preliminary Planning
 
-A clear definition of habitats and an efficient sampling design are foundational to any soil fungal inventory. The investigator must explore the magnitude of species diversity and determine the minimum sample sizes needed to achieve the inventory's objectives. The scale of sampling is determined by the inventory goals: a comprehensive evaluation of a park or reserve requires a network of sites, whereas assessing land management impacts may call for more limited sampling with experimentally introduced variables.
+A clear definition of habitats and an efficient sampling design are foundational to any soil fungal inventory. The investigator must explore the magnitude of species diversity and determine the minimum sample sizes needed to achieve the inventory"s objectives. The scale of sampling is determined by the inventory goals: a comprehensive evaluation of a park or reserve requires a network of sites, whereas assessing land management impacts may call for more limited sampling with experimentally introduced variables.
 
 If no prior data exist for a region, preliminary sampling is necessary to determine the effort level required for detecting fine-scale patterns. This preliminary phase helps calibrate the intensity and spatial arrangement of the full inventory.
 
@@ -117,7 +117,7 @@ Finely pulverized soil (0.2–5.0 mg) is placed in a Petri dish and cooled agar 
 
 Despite this limitation, Warcup plates are widely used in soil mycology and remain a standard method for comparative studies.
 
-### Drechsler's Method
+### Drechsler"s Method
 
 Fresh soil or humus is placed directly on water agar or dilute cornmeal agar, creating microcosms in which fungi develop in situ. This method is particularly effective for isolating fast-growing oomycetes and cellular slime molds that may be lost or overgrown in other methods.
 

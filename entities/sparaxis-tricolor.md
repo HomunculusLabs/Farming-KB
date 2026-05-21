@@ -56,7 +56,7 @@ It occurs in renosterveld and fynbos vegetation types at elevations of 100–600
 
 Like other Cape bulbs, it follows a winter-growing, summer-dormant lifecycle adapted to the Mediterranean climate. Rainfall in its native habitat occurs primarily from May through August, totaling 300–500 mm annually.
 
-Populations are fragmented due to extensive agricultural conversion of lowland renosterveld. Less than 5% of the original renosterveld in the species' range remains intact.
+Populations are fragmented due to extensive agricultural conversion of lowland renosterveld. Less than 5% of the original renosterveld in the species" range remains intact.
 
 The species is classified as Vulnerable on the IUCN Red List due to ongoing habitat loss. Climate change and invasive alien plants pose additional threats to remaining wild populations.
 

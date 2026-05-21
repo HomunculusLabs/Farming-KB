@@ -13,7 +13,7 @@ cannabinoids into more potent forms). Together, these processes form the core of
 what [[ben-lemon]] calls "Cannabis Alchemy" — the art and science of transmuting
 raw plant material into a refined psychoactive essence. These techniques can
 increase the potency of cannabis oil by two to six times, depending on the
-starting material's cannabinoid profile.
+starting material"s cannabinoid profile.
 
 ## Overview of the Process Pipeline
 

@@ -29,7 +29,7 @@ The design philosophy emerges from a stark assessment of the modern condition:
 - Our consumptive lifestyle has led us to the very brink of annihilation
 - We have expanded our right to live on the earth to an entitlement to conquer the earth
 - "Conquerors" of nature always lose
-- To accumulate wealth, power, or land beyond one's needs in a limited world is truly immoral
+- To accumulate wealth, power, or land beyond one"s needs in a limited world is truly immoral
 - The wage-slave, peasant, landlord, and industrialist alike are deprived of the leisure and life spirit possible in a cooperative society
 
 Mollison's writing is deliberately direct and personal: "The sad reality is that we are in danger of perishing from our own stupidity and lack of personal responsibility to life." He insists that if we create a mess in which we perish by our own inaction, it makes nonsense of our claims to consciousness and morality.

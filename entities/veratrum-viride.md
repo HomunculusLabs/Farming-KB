@@ -20,7 +20,6 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - USDA, NRCS. "Veratrum viride." PLANTS Database. https://plants.usda.gov/---
----
 
 ## Overview
 

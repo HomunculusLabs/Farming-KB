@@ -17,7 +17,7 @@ it is intensely design-oriented and proactive. Rather than stepping back, the
 permaculture designer actively maps zones, sectors, edges, and patterns to create
 systems where "the outputs of one element become the inputs of another." Permaculture
 embraces a wide toolkit including food forests, swales, [[mollison-animal-integration-permaculture-design]], and [[water-management]], animal integration,
-and energy systems. Permaculture's [[permaculture-plants-food-forest-ground-covers-bamboos]] without tilling. Natural farming's "do nothing"
+and energy systems. Permaculture"s [[permaculture-plants-food-forest-ground-covers-bamboos]] without tilling. Natural farming's "do nothing"
 philosophy can temper the tendency toward over-design in permaculture, reminding
 practitioners that observation is more valuable than intervention. [[comparison-biodynamic-vs-permaculture]]
 - [[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also

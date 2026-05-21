@@ -115,7 +115,7 @@ The event model operates at all scales: a single germinating seed, a garden bed,
 
 ## Form vs. Substance
 
-Mollison cautions: "We should not confuse the comprehension of FORM with the knowledge of SUBSTANCE — 'the map is not the territory'." However, understanding form gives us better comprehension of function and suggests appropriate strategies for design. The pattern model is a tool for thinking, not a substitute for direct observation and experience with real materials and conditions on real sites.
+Mollison cautions: "We should not confuse the comprehension of FORM with the knowledge of SUBSTANCE — "the map is not the territory'." However, understanding form gives us better comprehension of function and suggests appropriate strategies for design. The pattern model is a tool for thinking, not a substitute for direct observation and experience with real materials and conditions on real sites.
 
 ## See Also
 

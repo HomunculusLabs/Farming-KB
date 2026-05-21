@@ -1,5 +1,5 @@
 ---
-title: Preface to the Japanese Edition - A Farmer's Confession
+title: Preface to the Japanese Edition - A Farmer"s Confession
 created: 2026-04-28
 tags: [philosophy, confession, god, natural-farming, autobiography]
 date: 2026-04-28

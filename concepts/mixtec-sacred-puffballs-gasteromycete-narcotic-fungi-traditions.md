@@ -63,7 +63,7 @@ Gasteromycetes occupy an uncertain position in the taxonomy of neurotropic fungi
 
 However, the chemical diversity of fungi is vast and poorly characterized. New [[cordyceps-cancer-bioactive-compounds]] continue to be discovered in unexpected fungal groups, and it is possible that some gasteromycete species produce [[cultural-evolution-and-psychoactive-substances]] that have not yet been identified through modern analytical methods.
 
-### Guzmán's Classification
+### Guzmán"s Classification
 Guzmán, Allen, and Gartz (1998) listed 216 species, varieties, and forms of neurotropic fungi in their worldwide distribution study. The vast majority of these were agarics, but their work acknowledged the possibility that gasteromycetes and other non-agaric fungi may have been used traditionally as sacred or narcotic substances, even if their active compounds have not been characterized.
 
 ### The Puffball-Psilocybe Connection

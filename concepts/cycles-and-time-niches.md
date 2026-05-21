@@ -28,7 +28,7 @@ Australian studies show that old dune forests lose the battle to mobilize nutrie
 
 ## Time as Rehabilitative Resource
 
-Time can work as a rehabilitative resource. Active intervention in successions enables us to analyze and supply key nutrients and soil treatments if needed, to assist maximum forest rejuvenation. The designer's role is not to force outcomes but to read the direction of natural succession and assist it.
+Time can work as a rehabilitative resource. Active intervention in successions enables us to analyze and supply key nutrients and soil treatments if needed, to assist maximum forest rejuvenation. The designer"s role is not to force outcomes but to read the direction of natural succession and assist it.
 
 ## The Erosion of Lifetime
 

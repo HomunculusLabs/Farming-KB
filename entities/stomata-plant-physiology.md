@@ -24,7 +24,7 @@ Stomata are microscopic pore structures found primarily on leaf surfaces that re
 - Chelation neutralizes charge on minerals, allowing more rapid passage through stomata
 - Stomata are generally easier pathways for material entry than individual cell membranes
 - As weather becomes drier, microbial respiration decreases, and stomata close — a self-regulating biological feedback system
-- This mechanism allows plants to "pump nutrients in when it's appropriate to do so"
+- This mechanism allows plants to "pump nutrients in when it"s appropriate to do so"
 - [[foliar-nutrient-uptake-plant-control]] depends heavily on stomatal function, which depends on beneficial microbial presence
 
 ## Relevance to Cultivation and Mycology

@@ -13,7 +13,7 @@ forming stable, water-soluble complexes that keep minerals available for plant
 and microbial uptake. [[elaine-ingham]] discusses chelation extensively in her
 field guide, covering chelated minerals, chelating agents, and the role of
 chelation in plant physiology [[mollison-designers-fish-pond-fertiliser-and-nutrient-cycling]]. Understanding chelation is
-central to Ingham's approach because [[soil-food-web]] naturally produces
+central to Ingham"s approach because [[soil-food-web]] naturally produces
 chelating compounds that make minerals available to plants without synthetic
 fertilizers.
 

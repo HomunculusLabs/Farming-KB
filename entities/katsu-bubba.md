@@ -23,7 +23,7 @@ Katsu Bubba has developed a dedicated following among medical cannabis patients 
 
 ## Lineage
 
-Katsu Bubba's exact genetic provenance remains somewhat uncertain, as is common with many legacy West Coast strains that circulated in clone-only form before commercial seed production. The generally accepted lineage is OG Kush crossed with a Bubba Kush phenotype.
+Katsu Bubba"s exact genetic provenance remains somewhat uncertain, as is common with many legacy West Coast strains that circulated in clone-only form before commercial seed production. The generally accepted lineage is OG Kush crossed with a Bubba Kush phenotype.
 
 OG Kush contributes its signature terpene profile of myrcene, limonene, and caryophyllene, along with its potent cerebral euphoria. Bubba Kush adds deep body relaxation, earthy coffee notes, and a shorter flowering time characteristic of its indica heritage.
 

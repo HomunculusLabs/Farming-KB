@@ -66,7 +66,7 @@ A **microbial casing soil is required** — when the substrate surface is a cont
 
 ### Description and Ecology
 
-The parasol is one of the world's most recognizable mushrooms and a prized edible in Europe and Russia. The tallest and most regal of the gilled mushrooms, it is widespread [[query-how-to-grow-and-use-oca-in-temperate-climates]] at lower elevations. An **interface species**, it prefers to grow where different environments meet — such as at the edges of grassy fields, near tree drip lines, or at meadow-woodland borders.
+The parasol is one of the world"s most recognizable mushrooms and a prized edible in Europe and Russia. The tallest and most regal of the gilled mushrooms, it is widespread [[query-how-to-grow-and-use-oca-in-temperate-climates]] at lower elevations. An **interface species**, it prefers to grow where different environments meet — such as at the edges of grassy fields, near tree drip lines, or at meadow-woodland borders.
 
 Parasol mycelium has superior speed, allowing it to colonize early-phase composting biomass when it is still green and just beginning to lower its antifungal defenses. The mycelium races through this premature substrate well ahead of competitors using specialized "infantry cells" to maximize territory.
 

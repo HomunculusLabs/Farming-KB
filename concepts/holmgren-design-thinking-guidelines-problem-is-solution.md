@@ -34,7 +34,7 @@ falling back into dualistic thinking:
   biological balance invisible to the eye.
 - **Failure is useful so long as we learn** — the [[holmgren-action-learning-loop]] allows
   starting from limited knowledge and broadening perspective incrementally.
-  Don't assume you caused any success; conduct small trials and consider
+  Don"t assume you caused any success; conduct small trials and consider
   alternative explanations.
 - **Elegant solutions are simple, even invisible** — enormous complexity often
   indicates poor design. Self-organizing living systems may do most of the work.

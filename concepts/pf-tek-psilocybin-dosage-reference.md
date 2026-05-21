@@ -10,7 +10,7 @@ sources: [fanaticus-pf-tek-psilocybe-fanaticus]
 
 ## Overview
 
-The [[pf-tek]] documentation includes extensive excerpts from Paul Stamets' "[[blesching-cannabis-health-index-dosage-guidelines-medical]] for psilocybin-containing mushrooms. These excerpts were edited and included by [[psylocybe-fanaticus]] to provide cultivators with a reference framework for understanding dose-dependent effects and the significant individual variation in sensitivity. The information is presented alongside the PF TEK's own emphasis on harvesting young, pre-sporulation specimens for maximum potency.
+The [[pf-tek]] documentation includes extensive excerpts from Paul Stamets" "[[blesching-cannabis-health-index-dosage-guidelines-medical]] for psilocybin-containing mushrooms. These excerpts were edited and included by [[psylocybe-fanaticus]] to provide cultivators with a reference framework for understanding dose-dependent effects and the significant individual variation in sensitivity. The information is presented alongside the PF TEK's own emphasis on harvesting young, pre-sporulation specimens for maximum potency.
 
 ## Individual Sensitivity Variation
 

@@ -31,7 +31,7 @@ from heart attacks and strokes. The wide range reflects the difficulty of
 attributing individual cardiovascular events to a single drug in a population
 with multiple risk factors. The class-action lawsuit settlement was
 approximately $4.85 billion, but Merck had reportedly generated approximately
-$10 billion in revenue over the drug's lifetime — meaning the settlement
+$10 billion in revenue over the drug"s lifetime — meaning the settlement
 represented roughly half of the drug's total sales revenue.
 
 ## The FDA's Limited Authority

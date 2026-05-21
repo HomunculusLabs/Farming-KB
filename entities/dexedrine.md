@@ -8,7 +8,7 @@ type: entity
 
 ## Description
 
-Dexedrine (dextroamphetamine) is a central nervous system stimulant of the amphetamine class. In the context of Leary's "The [[leary-psychedelic-experience-bardo-mapping]]," Dexedrine is mentioned as an optional adjunct that can be used to "break the set" if a person becomes trapped in a repetitive game-routine during a [[psychedelic-session-instructions]]. A dose of 25 mg is cited as potentially sufficient to interrupt a stuck pattern, though Leary emphasizes such additional dosages should only be given with the person's own knowledge and consent.
+Dexedrine (dextroamphetamine) is a central nervous system stimulant of the amphetamine class. In the context of Leary"s "The [[leary-psychedelic-experience-bardo-mapping]]," Dexedrine is mentioned as an optional adjunct that can be used to "break the set" if a person becomes trapped in a repetitive game-routine during a [[psychedelic-session-instructions]]. A dose of 25 mg is cited as potentially sufficient to interrupt a stuck pattern, though Leary emphasizes such additional dosages should only be given with the person"s own knowledge and consent.
 
 ## Classification
 

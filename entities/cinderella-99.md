@@ -24,7 +24,7 @@ sources:
 
 ## Genetic Lineage
 
-Cinderella 99's origin story begins with a remarkable stroke of luck. Mr. Soul of Brothers Grimm found three seeds in a batch of Jack Herer purchased in Amsterdam. One of the resulting female plants, designated "Princess," exhibited exceptional qualities and became the foundation of the entire Cinderella 99 line.
+Cinderella 99"s origin story begins with a remarkable stroke of luck. Mr. Soul of Brothers Grimm found three seeds in a batch of Jack Herer purchased in Amsterdam. One of the resulting female plants, designated "Princess," exhibited exceptional qualities and became the foundation of the entire Cinderella 99 line.
 
 | Attribute | Detail |
 |-----------|--------|

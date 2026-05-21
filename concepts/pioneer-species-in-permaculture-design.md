@@ -5,7 +5,7 @@ tags:
 ---
 
 Pioneer species are the first plants to colonize disturbed, degraded, or bare land in
-nature's process of [[permaculture-design]], designers
+nature"s process of [[permaculture-design]], designers
 deliberately harness these hardy, fast-growing species to accelerate the recovery of
 damaged landscapes, build soil fertility, and create the conditions under which more
 demanding, longer-lived plants can eventually thrive. Understanding the role of pioneer

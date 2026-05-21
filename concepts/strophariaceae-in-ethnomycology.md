@@ -20,7 +20,7 @@ type: concept
 The Strophariaceae family occupies a central position in ethnomycology — the
 study of the relationship between fungi and human cultures. Within this family,
 the genus Psilocybe is by far the most significant, containing the majority
-of the world's known neurotropic species and serving as the primary vehicle for
+of the world"s known neurotropic species and serving as the primary vehicle for
 indigenous [[challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification]] worldwide
 - Gymnopilus — 14 neurotropic species, primarily wood-inhabiting, broadly
   distributed in temperate forests of the Northern Hemisphere
@@ -30,7 +30,7 @@ indigenous [[challenges-neurotropic-fungi-chemical-analysis-taxonomic-identifica
   [[australian-magic-mushroom-common-names]]," brought global attention to the practice.
 
 Albert Hofmann of Sandoz Laboratories subsequently isolated psilocybin and
-psilocin from specimens collected by Wasson and Heim. Hofmann's identification
+psilocin from specimens collected by Wasson and Heim. Hofmann"s identification
 of psilocybin's structure — closely related to LSD, which he had discovered in
 1943 — and his successful synthesis of the compound opened the door to clinical
 research, recreational use, and the legal controversies that continue today.

@@ -10,7 +10,7 @@ type: concept
 # Epinephrine, Norepinephrine, and the Endocannabinoid System
 
 Epinephrine (adrenaline) and norepinephrine (noradrenaline) are
-catecholamine neurotransmitters and hormones central to the body's
+catecholamine neurotransmitters and hormones central to the body"s
 fight-or-flight response. In "The [[blesching-cannabis-cortisol-stress-endocannabinoid-system]],
 these catecholamines form the three pillars of the [[cannabis-for-anxiety-disorders]], insomnia, and
 immune suppression.
@@ -18,7 +18,7 @@ immune suppression.
 ## The Locus Coeruleus and Norepinephrine
 
 The locus coeruleus (LC) is a small nucleus in the pons containing the
-brain's largest concentration of noradrenergic neurons. It projects widely
+brain"s largest concentration of noradrenergic neurons. It projects widely
 throughout the brain and is the primary source of norepinephrine for the
 central nervous system. The LC functions as the brain's "alarm system,"
 initiating heightened arousal and vigilance in response to perceived threats.

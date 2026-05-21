@@ -29,7 +29,7 @@ Communities were tighter, economies more localized, and connections to land and
 people closer.
 ### The DIY Ethic
 Skills learned in food growing never become outdated. No one gets downsized
-or replaced by a machine when they know how to grow food. The practitioner's
+or replaced by a machine when they know how to grow food. The practitioner"s
 daily routine revolves around food: sowing it, tending to it, studying it,
 harvesting it, processing it, and eating it. These skills include T-bud grafting
 fruit trees, rooting semi-hardwood cuttings, [[comparison-drip-irrigation-vs-passive-irrigation]], biofertilizers, and plant

@@ -8,7 +8,7 @@ type: entity
 
 ## Description
 
-The Psychedelic Guide (also called "sitter" or "facilitator" in modern terminology) is the person who supports and assists an individual through a psychedelic experience. In Leary's "The Psychedelic Experience," the guide role is extensively elaborated based on the Tibetan tradition of a lama reading the [[bardo-thodol]] to the dying person. Leary describes the guide as having "enormous power to shape the experience" and draws an extended analogy to an airport ground control operator assisting high-flying pilots.
+The Psychedelic Guide (also called "sitter" or "facilitator" in modern terminology) is the person who supports and assists an individual through a psychedelic experience. In Leary"s "The Psychedelic Experience," the guide role is extensively elaborated based on the Tibetan tradition of a lama reading the [[bardo-thodol]] to the dying person. Leary describes the guide as having "enormous power to shape the experience" and draws an extended analogy to an airport ground control operator assisting high-flying pilots.
 
 ## Classification
 
@@ -18,7 +18,7 @@ The Psychedelic Guide (also called "sitter" or "facilitator" in modern terminolo
 
 ## Key Facts
 
-- For initial sessions, the guide's attitude and behavior are "critical factors" with "enormous power to shape the experience"
+- For initial sessions, the guide"s attitude and behavior are "critical factors" with "enormous power to shape the experience"
 - With the cognitive mind suspended, the subject is in a heightened state of suggestibility — "the guide can move consciousness with the slightest gesture or reaction"
 - The guide must turn off his own ego and social games, "in particular, to muffle his own power needs and his fears"
 - The ideal state: "relaxed, solid, accepting, secure. The Tao wisdom of creative quietism"
@@ -26,7 +26,7 @@ The Psychedelic Guide (also called "sitter" or "facilitator" in modern terminolo
 
 ## The Ground Control Analogy
 
-Leary's central metaphor for the guide role:
+Leary"s central metaphor for the guide role:
 
 - "He is the ground control in the airport tower. Always there to receive messages and queries from high-flying aircraft"
 - "Always ready to help navigate their course, to help them reach their destination"
@@ -34,13 +34,13 @@ Leary's central metaphor for the guide role:
 - "The pilots have their own flight plan, their own goals, and ground control is there, ever waiting to be of service"
 - The pilot is reassured by knowing "an expert who has guided thousands of flights is down there, available for help"
 
-## Guide's Own Psychedelic Use
+## Guide"s Own Psychedelic Use
 
 Leary recommends a specific protocol for guide preparation:
 
 - "The most certain way to achieve [alert quietism] is for the guide to take a low dose of the psychedelic with the subject"
 - Routine procedure: one trained person participates in the experience, one staff member present without psychedelic aid
-- Not recommended that guides take large doses during sessions for new subjects (risk of being pulled into subject's hallucinatory field)
+- Not recommended that guides take large doses during sessions for new subjects (risk of being pulled into subject"s hallucinatory field)
 - "To administer psychedelics without personal experience is unethical and dangerous"
 
 ## Fear as the Central Problem

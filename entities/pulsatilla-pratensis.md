@@ -17,7 +17,7 @@ Like other Pulsatilla species, it contains ranunculin-derived protoanemonin comp
 
 The plant is valued ornamentally for its early spring blooms and decorative seed heads. Conservation status is vulnerable or endangered across much of its western range due to habitat loss.
 
-In horticulture, it is prized for alpine and rock gardens. The species has received the Royal Horticultural Society's Award of Garden Merit for its ornamental value and reliability in cultivation.
+In horticulture, it is prized for alpine and rock gardens. The species has received the Royal Horticultural Society"s Award of Garden Merit for its ornamental value and reliability in cultivation.
 
 ## Taxonomy and Morphology
 

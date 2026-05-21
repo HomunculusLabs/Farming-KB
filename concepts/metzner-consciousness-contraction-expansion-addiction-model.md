@@ -12,7 +12,7 @@ type: concept
 ## Overview
 
 Ralph Metzner (1994, 1998) proposed a model of addiction framed in terms of altered [[leary-psychedelic-experience-bardo-mapping]]. This model, referenced in his comparative analysis of hallucinogens in [[psychedelic-substances-comparison]] might counteract addictive patterns — a concept with direct relevance to ibogaine [[halpern-sacramental-peyote-and-native-american-church]] peyote practice, and [[blesching-cannabis-emotional-processing-expansive-constricting-emotions]]**: Psychedelic states facilitate access to repressed or avoided emotions that may underlie the addictive pattern.
-4. **Spiritual dimension**: Access to transpersonal or spiritual dimensions of experience can provide a sense of meaning and purpose that competes with the addictive substance's role in the individual's life.
+4. **Spiritual dimension**: Access to transpersonal or spiritual dimensions of experience can provide a sense of meaning and purpose that competes with the addictive substance"s role in the individual's life.
 5. **Self-concept revision**: The dissolution and reconstitution of self-concept during psychedelic experience can undermine the addict's identification with the addictive pattern.
 
 ### Comparison with Pharmacological Approaches

@@ -10,7 +10,7 @@ sources:
 type: concept
 ---
 
-Johann Wolfgang von Goethe, best known as Germany's greatest literary
+Johann Wolfgang von Goethe, best known as Germany"s greatest literary
 figure, was also a serious natural philosopher whose botanical
 investigations anticipated many concepts later developed by evolutionary
 biologists. His theory of plant metamorphosis, though overshadowed by

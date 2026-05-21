@@ -9,7 +9,7 @@ tags: [identification, spore-print, amanita, safety, technique]
 
 ## Description
 
-The spore print is a mycological identification technique in which a mushroom cap is placed gill-side down on paper to collect the spores that fall from the gills, revealing the spore color. For *Amanita* identification specifically, Palmer described placing the mushroom on blue paper for several hours to observe the "white deposit of the spores" that would "resemble delicate shading with an artist's pencil." The pure white spore print is a key diagnostic characteristic of the deadly *Amanita* genus.
+The spore print is a mycological identification technique in which a mushroom cap is placed gill-side down on paper to collect the spores that fall from the gills, revealing the spore color. For *Amanita* identification specifically, Palmer described placing the mushroom on blue paper for several hours to observe the "white deposit of the spores" that would "resemble delicate shading with an artist"s pencil." The pure white spore print is a key diagnostic characteristic of the deadly *Amanita* genus.
 
 ## Classification
 
@@ -34,7 +34,7 @@ The spore print is a mycological identification technique in which a mushroom ca
 
 ### Step 3: Wait
 
-- Leave the cap undisturbed for **several hours** (Palmer's recommendation)
+- Leave the cap undisturbed for **several hours** (Palmer"s recommendation)
 - Cover with a bowl or container to prevent air currents from disturbing spore fall
 - A typical spore print requires 2–8 hours depending on specimen freshness
 
@@ -42,7 +42,7 @@ The spore print is a mycological identification technique in which a mushroom ca
 
 For *Amanita* species:
 - The spore deposit will be **pure white**
-- On blue paper, the white deposit "resemble[s] delicate shading with an artist's pencil"
+- On blue paper, the white deposit "resemble[s] delicate shading with an artist"s pencil"
 - This white spore print is consistent across all *Amanita* species
 
 ## Diagnostic Significance

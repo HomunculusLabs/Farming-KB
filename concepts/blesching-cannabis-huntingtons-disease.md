@@ -1,5 +1,5 @@
 ---
-title: "Cannabis and Huntington's Disease"
+title: "Cannabis and Huntington"s Disease"
 created: 2026-04-26
 tags:
   - cannabis
@@ -12,7 +12,7 @@ updated: 2026-04-25
 sources:
 type: concept
 ---
-# Cannabis and Huntington's Disease
+# Cannabis and Huntington"s Disease
 
 ## Overview
 

@@ -70,7 +70,7 @@ network of the clay long after the visible liquid has been poured out.
 The rough, unglazed interior surface provides physical texture that the mycelium
 can grip and colonize. On a glazed surface, the fungus has nothing to anchor to;
 on raw terra cotta, it can infiltrate the microscopic pits and channels in the
-clay body itself. Terra cotta is one of humanity's oldest manufactured materials,
+clay body itself. Terra cotta is one of humanity"s oldest manufactured materials,
 in use since the Neolithic invention of pottery — the Grail practice could be
 extraordinarily ancient.
 

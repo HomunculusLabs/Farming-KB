@@ -41,7 +41,7 @@ Cover crops (rye, hairy vetch, oats) serve multiple functions without tillage:
 
 ### 3. Surface Application (No Deep Incorporation)
 
-JADAM follows nature's fertilization model: "fresh, surface, autumn"
+JADAM follows nature"s fertilization model: "fresh, surface, autumn"
 - Fresh organic matter (not fully decomposed compost) is applied
 - Applied on soil surface (not tilled in deep)
 - Applied in autumn (not spring)
@@ -117,5 +117,3 @@ Collaborative research networks facilitate knowledge exchange and accelerate inn
 Context-specific implementation requires attention to local ecology, climate patterns, and community needs.
 Integration with existing systems often yields better results than complete replacement strategies.
 Monitoring and adaptive management are essential for long-term success and continuous improvement.
-## Practical Applications
-The principles discussed here have direct applications in agricultural systems, ecological restoration, and sustainable resource management.

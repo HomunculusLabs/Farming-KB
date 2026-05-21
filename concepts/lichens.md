@@ -49,7 +49,7 @@ The traditional view of lichens as "mutualism" (both partners benefit) has been 
 - Branched, three-dimensional structures
 - Either upright (standing off the substrate) or hanging (pendulous)
 - Single point of attachment or no attachment at all
-- Examples: Usnea (old man's beard — hanging from trees), Cladonia (British soldiers, reindeer moss — upright), Evernia
+- Examples: Usnea (old man"s beard — hanging from trees), Cladonia (British soldiers, reindeer moss — upright), Evernia
 - Most three-dimensionally complex form
 - Often found in clean-air environments — sensitive to pollution
 

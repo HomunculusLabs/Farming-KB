@@ -12,7 +12,6 @@ date: 2026-05-10
 updated: 2026-05-10
 sources:
   - Bloom, A. (1978). "ground-cover-plants." Faber & Faber.---
----
 
 ## Overview
 

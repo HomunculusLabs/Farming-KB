@@ -29,7 +29,7 @@ Cupuaçu is considered one of the most economically important native Amazonian f
 
 The species was first described by Willdenow and later reclassified by Karl Moritz Schumann in 1886.
 
-The specific epithet *grandiflorum* refers to the tree's large flowers, the largest in the genus.
+The specific epithet *grandiflorum* refers to the tree"s large flowers, the largest in the genus.
 
 **Tree:** An evergreen, shade-tolerant tree reaching 5–15 meters in height under cultivation.
 

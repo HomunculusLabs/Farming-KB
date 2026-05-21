@@ -6,11 +6,11 @@ type: concept
 
 ## New United Nations and Alternatives to Political Systems
 
-[[bill-mollison]]'s permaculture framework extends beyond land design into social and political restructuring. Two central concepts emerge: a reimagined "United Nations" based on shared ethics rather than nation-state representation, and a fundamental critique of existing political systems that calls for decentralised, life-centred alternatives.
+[[bill-mollison]]"s permaculture framework extends beyond land design into social and political restructuring. Two central concepts emerge: a reimagined "United Nations" based on shared ethics rather than nation-state representation, and a fundamental critique of existing political systems that calls for decentralised, life-centred alternatives.
 
 ## Critique of the Existing United Nations
 
-The existing United Nations is characterised as neither united nor representative of true nations. Many genuine nations — such as the Iroquois confederation, Basques, Tartars, Kurds, Palestinians, Hawaiians, Hopi, Tibetans, Pitjatjantjara, Misquito, Aranda, Basarwa, and Herrero — are not represented. Most nations within the UN are described as repressing a majority of the world's peoples.
+The existing United Nations is characterised as neither united nor representative of true nations. Many genuine nations — such as the Iroquois confederation, Basques, Tartars, Kurds, Palestinians, Hawaiians, Hopi, Tibetans, Pitjatjantjara, Misquito, Aranda, Basarwa, and Herrero — are not represented. Most nations within the UN are described as repressing a majority of the world"s peoples.
 
 ## Redefining "Nation"
 
@@ -56,7 +56,7 @@ The real cause of lack of shelter in any country is not finance but restrictive 
 
 ### Personal Action Over Political Theory
 
-"The argument for simplicity is never a political argument... when people practice it in their lives... they don't even need any politics." Changes in people come about by education and information, and when enough people change, political systems may follow — or become irrelevant. The place to start change is first with the individual, and second in one's region or neighbourhood.
+"The argument for simplicity is never a political argument... when people practice it in their lives... they don"t even need any politics." Changes in people come about by education and information, and when enough people change, political systems may follow — or become irrelevant. The place to start change is first with the individual, and second in one's region or neighbourhood.
 
 ## Practical Implications for Permaculture Design
 

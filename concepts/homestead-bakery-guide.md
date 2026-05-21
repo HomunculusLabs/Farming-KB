@@ -15,7 +15,7 @@ A homestead bakery transforms home-milled or purchased grains into bread and bak
 
 ### What Is Sourdough
 
-Sourdough is bread leavened by wild lactobacilli and wild yeast (naturally occurring in flour and the environment) rather than commercial baker's yeast. The symbiotic relationship between these microorganisms produces:
+Sourdough is bread leavened by wild lactobacilli and wild yeast (naturally occurring in flour and the environment) rather than commercial baker"s yeast. The symbiotic relationship between these microorganisms produces:
 
 - **Carbon dioxide** — Leavens the bread (from wild yeast)
 - **Lactic and acetic acid** — Flavor and preservation (from lactobacilli)

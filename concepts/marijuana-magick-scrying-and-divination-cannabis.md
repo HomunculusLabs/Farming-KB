@@ -12,7 +12,7 @@ tags: [cannabis]
 
 ## Overview
 
-"A Practitioner's Guide to [[weil-the-natural-mind-altered-states-normalcy]]) rather than decoded rationally.
+"A Practitioner"s Guide to [[weil-the-natural-mind-altered-states-normalcy]]) rather than decoded rationally.
 
 ### Phase Five: Vocal Release and Banishing
 

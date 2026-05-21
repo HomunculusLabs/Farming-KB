@@ -48,7 +48,7 @@ and fully priestly religious organization.
 
 ### Evolutionary Theory
 
-Weiss's key theoretical contribution concerns the evolution
+Weiss"s key theoretical contribution concerns the evolution
 of religious specialists. He proposed that:
 
 1. The Campa ayahuasca ceremony shows a transitional form
@@ -79,7 +79,7 @@ hallucinogen use in hierarchical religious contexts:
 
 ## Relevance to Cultivation and Mycology
 
-Weiss's work provides an anthropological framework for
+Weiss"s work provides an anthropological framework for
 understanding how hallucinogenic plant use evolves from
 individual shamanic practice to institutionalized religion.
 His theory that hallucinogens served as enabling technologies

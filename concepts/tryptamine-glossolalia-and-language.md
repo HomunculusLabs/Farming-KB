@@ -20,7 +20,7 @@ communication that demands interpretation.
 
 ## Translinguistic Objects
 
-Central to McKenna's description is the concept of "translinguistic objects" —
+Central to McKenna"s description is the concept of "translinguistic objects" —
 feeling-toned, meaning-toned, three-dimensional rotating complexes of
 transforming light and color that convey information through a modality that
 exists somewhere between language, music, and visual art. These objects cannot be
@@ -56,7 +56,7 @@ multiple traditions:
 
 McKenna suggested that under tryptamines, "one discovers one can make the
 extra-dimensional objects — the feeling-toned, meaning-toned, three-dimensional
-rotating complexes of transforming light and color" through one's own voice,
+rotating complexes of transforming light and color" through one"s own voice,
 suggesting that these objects and the language to describe them are latent human
 capacities revealed by the altered state.
 

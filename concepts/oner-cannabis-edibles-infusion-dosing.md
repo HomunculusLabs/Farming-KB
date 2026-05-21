@@ -11,7 +11,7 @@ sources:
 ## Cannabis Edibles - Infusion Methods and Dosing
 
 Cannabis edibles represent a smoke-free consumption method with distinct pharmacokinetic
-properties compared to inhalation. While Oner's [[mushroom-strain-evaluation]] rather than edible preparation, it provides important context about
+properties compared to inhalation. While Oner"s [[mushroom-strain-evaluation]] rather than edible preparation, it provides important context about
 which strains are best suited for edible production and how different cannabis profiles
 affect the edible experience.
 

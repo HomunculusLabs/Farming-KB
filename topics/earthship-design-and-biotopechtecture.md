@@ -58,7 +58,7 @@ Earthships treat all wastewater on-site through biological systems that mimic na
 
 Blackwater from toilets follows a separate path. It flows into an outdoor septic tank for initial anaerobic decomposition, then into a lined, outdoor botanical cell where larger plants and trees process the remaining nutrients. This system, essentially a [[energy-efficiency-farming-systems-comparison]].
 
-The food production capacity of an earthship varies with climate, design, and the skill of the occupant, but it can meaningfully supplement a household's food needs. Some earthship residents report growing a significant portion of their annual vegetable consumption indoors, particularly in cold climates where outdoor growing seasons are short.
+The food production capacity of an earthship varies with climate, design, and the skill of the occupant, but it can meaningfully supplement a household"s food needs. Some earthship residents report growing a significant portion of their annual vegetable consumption indoors, particularly in cold climates where outdoor growing seasons are short.
 
 ### Building with Recycled and Natural Materials
 

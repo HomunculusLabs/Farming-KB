@@ -1,5 +1,5 @@
 ---
-title: "DMT, Alienated Soul, and the Body of Osiris: McKenna's Eschatological Mythology"
+title: "DMT, Alienated Soul, and the Body of Osiris: McKenna"s Eschatological Mythology"
 source: mckenna_t-tryptamines_consciousness.md
 tags: [mckenna, osiris, eros, dmt, soul, eschatology, nag-hammadi, hibernation, christianity, mushroom-cult]
 ---

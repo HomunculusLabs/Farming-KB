@@ -10,7 +10,7 @@ updated: 2026-04-26
 
 ## DMT and the Tryptamine Dimension
 
-DMT (N,N-dimethyltryptamine) occupies a unique and central place in McKenna's pharmacological cosmology. He called it "the most powerful of all hallucinogens" and argued that the shamanism and the human brain form one of the key pillars of McKenna's argument in *Food of the Gods*.
+DMT (N,N-dimethyltryptamine) occupies a unique and central place in McKenna"s pharmacological cosmology. He called it "the most powerful of all hallucinogens" and argued that the shamanism and the human brain form one of the key pillars of McKenna"s argument in *Food of the Gods*.
 
 ## Pharmacology and History
 
@@ -28,13 +28,13 @@ He distinguished tryptamines from other psychoactive compounds by several criter
 - **Evolutionary co-adaptation** — compounds that have been used in shamanic contexts for thousands of years represent "a smooth hand-in-glove fit with the human user"
 - **[[dmt-containing-plants-united-states-halpern]] — a classification reserved for drugs deemed to have "no proven medical application whatsoever." McKenna noted the irony that "not even cocaine rates a Schedule I classification," and that psilocybin and DMT were made Schedule I "without any scientific evidence at all being presented for or against their use." In the paranoid atmosphere of the late 1960s, "the mere fact that these compounds cause hallucinations was sufficient grounds for their placement in a category so restrictive that even medical research is discouraged."
 
-McKenna compared the prohibition of DMT research to the Church's prohibition of dissection: "Modern anatomy was created by medical students who visited battlefields or who stole corpses from the gallows. To advance their knowledge of the human body, they risked arrest and imprisonment. Should we be any less courageous in attempting to push back the frontiers of the known and the possible?"
+McKenna compared the prohibition of DMT research to the Church"s prohibition of dissection: "Modern anatomy was created by medical students who visited battlefields or who stole corpses from the gallows. To advance their knowledge of the human body, they risked arrest and imprisonment. Should we be any less courageous in attempting to push back the frontiers of the known and the possible?"
 
 ## Meetings with a Remarkable Overmind
 
-McKenna's most speculative claims concern the ontological status of the DMT dimension. He proposed several hypotheses:
+McKenna"s most speculative claims concern the ontological status of the DMT dimension. He proposed several hypotheses:
 
-1. **The Overmind of the species** — "a kind of 'mind of the planet'" accessed through indole hallucinogens with a long history of human usage
+1. **The Overmind of the species** — "a kind of "mind of the planet'" accessed through indole hallucinogens with a long history of human usage
 2. **Interdimensional nexus** — "some kind of interdimensional nexus that is gained most reliably and directly through the use of indole hallucinogens"
 3. **Nonhuman intelligence** — "another minded, but radically different, intelligent species shares the earth with us"
 4. **Regulators of cultural change** — these compounds are "apparently functioning as regulators of cultural change and can be a means of obtaining access to the intentionality of some very large self-regulating system"

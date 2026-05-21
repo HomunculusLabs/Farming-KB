@@ -7,7 +7,7 @@ tags: [person, design, appropriate-technology, sustainability, industrial-design
 
 ## Overview
 
-Victor Papanek (1923–1998) was an Austrian-American designer and author referenced on page 14 of David Holmgren's *Permaculture: Principles and Pathways Beyond Sustainability*. Papanek was one of the most influential voices in **responsible design** and **appropriate technology**.
+Victor Papanek (1923–1998) was an Austrian-American designer and author referenced on page 14 of David Holmgren"s *Permaculture: Principles and Pathways Beyond Sustainability*. Papanek was one of the most influential voices in **responsible design** and **appropriate technology**.
 
 ## Background
 
@@ -19,7 +19,7 @@ His most influential work, *Design for the Real World* (1971), argued that desig
 
 ## Connection to Permaculture
 
-- Permaculture is fundamentally a design system; Papanek helped establish ecological design's legitimacy
+- Permaculture is fundamentally a design system; Papanek helped establish ecological design"s legitimacy
 - His advocacy for appropriate technology parallels permaculture's approach to tools and techniques
 - His ethical design philosophy aligns with permaculture's ethic of "Care of the Earth, Care of People"
 - His systems approach and emphasis on observation mirror permaculture methodology

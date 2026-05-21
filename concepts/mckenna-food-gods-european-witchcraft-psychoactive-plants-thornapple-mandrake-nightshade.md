@@ -13,7 +13,7 @@ argued that it represented, in part, the systematic suppression of an older
 folk tradition of psychoactive plant use — a tradition rooted in the
 knowledge of solanaceous herbs with powerful tropane alkaloid properties.
 
-## The Solanaceous Witches' Herbs
+## The Solanaceous Witches" Herbs
 
 The plants most consistently associated with European witchcraft — *Datura
 stramonium* (thornapple or jimsonweed), *Atropa belladonna* (deadly nightshade),

@@ -33,7 +33,7 @@ The Bible distinguishes between two kinds of manna: the ordinary manna eaten in 
 ## Names from Mythology and Legend
 
 ### The Holy Grail
-The **Holy Grail** — the vessel containing the blood of God — directly parallels the shape of the fully-grown Amanita muscaria with its inverted cap. The cup/fountain imagery is one of the most pronounced symbols used to encode the true nature of the sacrament. In Arthurian legend, the quest for the Grail is interpreted as the quest for knowledge of the mushroom. The Parcival myth describes paths (traditions) to be explored but not adhered to — one must ultimately blaze one's own trail to reach the Grail.
+The **Holy Grail** — the vessel containing the blood of God — directly parallels the shape of the fully-grown Amanita muscaria with its inverted cap. The cup/fountain imagery is one of the most pronounced symbols used to encode the true nature of the sacrament. In Arthurian legend, the quest for the Grail is interpreted as the quest for knowledge of the mushroom. The Parcival myth describes paths (traditions) to be explored but not adhered to — one must ultimately blaze one"s own trail to reach the Grail.
 
 ### The Golden Fleece
 In Greek mythology, Jason and the Argonauts sought the Golden Fleece. The golden-yellow varieties of Amanita muscaria may underlie this symbolism, with the fleece representing the mushroom's appearance.
@@ -52,7 +52,7 @@ The life cycle of the Amanita muscaria mirrors the feathered serpent motif found
 The mushroom is notably flesh-like in its texture and appearance. The phrase "Flesh of the God" (or "Flesh of Jesus") connects directly to the sacramental language: "Take and eat, this is my body [Greek: SOMA]."
 
 ### The Hammer of Thor
-Thor's hammer is mushroom-shaped in Norse iconography. The mythology describes Thor throwing his hammer to the ground in a bolt of lightning with a mighty thunderous crack — lightning being the mythical creator of mushrooms, which appear after thunderstorms.
+Thor"s hammer is mushroom-shaped in Norse iconography. The mythology describes Thor throwing his hammer to the ground in a bolt of lightning with a mighty thunderous crack — lightning being the mythical creator of mushrooms, which appear after thunderstorms.
 
 ### The Small White Stone
 In its infant button state, the [[allegro-biblical-references-to-mushrooms-and-fungi]] "living waters" flowing from the belly of the believer (John 7:38).

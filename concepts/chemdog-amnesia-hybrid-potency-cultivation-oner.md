@@ -5,7 +5,7 @@ tags:
 ---
 ## Flowering Time and Yield
 
-Chemdog × Amnesia has a medium-long flowering period of approximately 10 weeks (70 days) when cultivated indoors. This flowering time reflects the compromise between the Chemdog parent's more moderate flowering cycle and the Amnesia side's longer sativa-influenced maturation.
+Chemdog × Amnesia has a medium-long flowering period of approximately 10 weeks (70 days) when cultivated indoors. This flowering time reflects the compromise between the Chemdog parent"s more moderate flowering cycle and the Amnesia side's longer sativa-influenced maturation.
 
 The yield is described as above average, though the breeder makes it clear that this strain is "more about quality than it is about quantity." The buds [[chemdog]]
 - [[amnesia-haze-genetics-cultivation-potency-oner]]

@@ -19,7 +19,7 @@ tags:
 
 ## The Fossil Gap Problem
 
-One of the most provocative claims in McKenna's 1983 Esalen lecture concerns the
+One of the most provocative claims in McKenna"s 1983 Esalen lecture concerns the
 complete absence of fungi from the fossil record prior to approximately forty
 million years ago. This is a striking anomaly given that fungi are among the
 oldest and most widespread organisms on Earth, occupying virtually every

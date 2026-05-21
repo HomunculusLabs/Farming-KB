@@ -20,7 +20,7 @@ sources:
 
 From the coining of "permanent agriculture" in 1978
 to a global design movement spanning every continent.
-Draws from [[bill-mollison]], [[david-holmgren]], and key practitioners' entity pages.
+Draws from [[bill-mollison]], [[david-holmgren]], and key practitioners" entity pages.
 Complements [[permaculture-design]] and [[permaculture-principles]] with historical detail.
 
 ## Precursors and Influences (pre-1978)
@@ -35,7 +35,7 @@ Complements [[permaculture-design]] and [[permaculture-principles]] with histori
   His work directly influences Mollison and Holmgren.
   See [[natural-farming-fukuoka]] and [[one-straw-revolution-guide]].
 
-- **1940 — Albert Howard's organic principles:**
+- **1940 — Albert Howard"s organic principles:**
   Howard's An Agricultural Testament articulates the Law of Return,
   the importance of mycorrhizal associations,
   and the concept that soil health determines
@@ -47,7 +47,7 @@ Complements [[permaculture-design]] and [[permaculture-principles]] with histori
   for landscape water management on his farm "Yobarnie" in NSW.
   Key concepts: keypoints, keylines,
   and cultivation patterns that spread water across the landscape.
-  Directly informs permaculture's water design and earthworks.
+  Directly informs permaculture"s water design and earthworks.
   See [[keyline-design]].
 
 - **1962 — Rachel Carson's Silent Spring:**
@@ -80,7 +80,7 @@ Complements [[permaculture-design]] and [[permaculture-principles]] with histori
   "an integrated, evolving system of perennial or self-perpetuating
   plant and animal species useful to man."
   Introduces the core concept: designing agricultural systems
-  that mimic natural ecosystems' stability, resilience, and productivity.
+  that mimic natural ecosystems" stability, resilience, and productivity.
 
 - **1979 — Permaculture Two published:**
   Mollison publishes Permaculture Two,
@@ -110,7 +110,7 @@ Complements [[permaculture-design]] and [[permaculture-principles]] with histori
   Movement diversifies to address drylands,
   urban environments, and social systems.
 
-- **1988 — Permaculture: A Designer's Manual published:**
+- **1988 — Permaculture: A Designer"s Manual published:**
   Mollison publishes the definitive reference text
   (often called "the Big Black Book"),
   covering climate zones, water management, soils, aquaculture,
@@ -120,7 +120,7 @@ Complements [[permaculture-design]] and [[permaculture-principles]] with histori
 
 ## Key Developers and Regional Adaptations (1980s-2000s)
 
-- **1970s-2000s — Sepp Holzer's practical permaculture:**
+- **1970s-2000s — Sepp Holzer"s practical permaculture:**
   [[sepp-holzer]] (born 1942) develops his methods independently
   on his 45-hectare farm Krameterhof in Lungau, Salzburg, Austria,
   at 1,100-1,500m elevation.

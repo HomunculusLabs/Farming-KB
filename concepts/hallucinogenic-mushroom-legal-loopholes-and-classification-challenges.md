@@ -38,7 +38,7 @@ A separate but related legal challenge arises from the biological classification
 
 These countries have laws with catch all terms prohibiting cultivation of plants from which narcotic substances can be extracted. The question of whether a mushroom qualifies as a "plant" under these laws remained legally ambiguous.
 
-### Germany's Amendment
+### Germany"s Amendment
 
 Germany addressed this directly in March 2005 by changing its definition of controlled substance from "plant" to "organism." This legislative innovation closed the fungal loophole by recognising that mushrooms, as living organisms capable of producing controlled substances, fall within the scope of drug control legislation regardless of their biological kingdom.
 

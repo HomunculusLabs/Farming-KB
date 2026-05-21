@@ -20,7 +20,7 @@ type: concept
 
 Mulch gardening — the practice of covering soil with a thick layer of organic material (straw, hay, leaves, grass clippings) and [[dry-gardening-unirrigated-vegetable-production-solomon]] in most conditions.
 
-This critique does not dismiss mulch entirely. Solomon acknowledges specific situations where mulching makes sense, while arguing that the method's limitations are substantial and frequently glossed over by its promoters.
+This critique does not dismiss mulch entirely. Solomon acknowledges specific situations where mulching makes sense, while arguing that the method"s limitations are substantial and frequently glossed over by its promoters.
 
 ## The Origin of the Mulch Movement
 

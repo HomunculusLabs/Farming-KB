@@ -25,7 +25,7 @@ The Shulgin Rating Scale is a five-level system devised by Alexander Shulgin for
 
 The +/- level represents the bare minimum detectable effect — a hint that something is happening, but insufficient to confirm pharmacological activity without further testing.
 
-This level is particularly important in the [[psychedelic-dose-response]]. For compounds with steep dose-response characteristics, this transition can occur with a very small increase in dosage. Shulgin's careful documentation of this transition for each compound was a key contribution to the field of [[psilocybin-and-mystical-experience]], which distinguishes between ordinary [[shulgin-dosage-guidelines]].
+This level is particularly important in the [[psychedelic-dose-response]]. For compounds with steep dose-response characteristics, this transition can occur with a very small increase in dosage. Shulgin"s careful documentation of this transition for each compound was a key contribution to the field of [[psilocybin-and-mystical-experience]], which distinguishes between ordinary [[shulgin-dosage-guidelines]].
 
 The scale also appears in TiHKAL (tryptamine entries) and has been widely adopted by the broader [[adverse-effects-and-harm-reduction-psilocybin]] communities as a standard communication tool.
 

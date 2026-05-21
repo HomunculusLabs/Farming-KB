@@ -19,9 +19,9 @@ The potency of hallucinogenic mushrooms — measured by their psilocybin and psi
 
 ## The Gartz 1% Baseline Study
 
-Jochen Gartz's research demonstrated that [[psilocybe-semilanceata]] (liberty caps), long considered one of the most potent naturally occurring species. This finding was significant because cubensis had previously been regarded as a "weak" species compared to semilanceata, azurescens, and bohemica.
+Jochen Gartz"s research demonstrated that [[psilocybe-semilanceata]] (liberty caps), long considered one of the most potent naturally occurring species. This finding was significant because cubensis had previously been regarded as a "weak" species compared to semilanceata, azurescens, and bohemica.
 
-The 1% figure represents a baseline achievable through careful cultivation, not a maximum. Gartz's work showed that cubensis potency is not fundamentally limited by species genetics but is primarily determined by the controllable factors discussed below. This insight transformed the understanding of home cultivation from "produce mushrooms" to "produce potent mushrooms."
+The 1% figure represents a baseline achievable through careful cultivation, not a maximum. Gartz"s work showed that cubensis potency is not fundamentally limited by species genetics but is primarily determined by the controllable factors discussed below. This insight transformed the understanding of home cultivation from "produce mushrooms" to "produce potent mushrooms."
 
 ## Factor 1: Substrate Composition
 
@@ -35,7 +35,7 @@ These values are used for initial orientation only. Actual potency within any sp
 
 Given the typical psychoactive dose range of 45-315 µg psilocybin per kg body weight (Hasler et al, 2004), a 70 kg person requires 3.15-22.05 mg of pure psilocybin for a threshold-to-strong experience. At 1% potency, this translates to approximately 0.3-2.2g dried mushrooms — a remarkably small amount that underscores the importance of potency optimization.
 
-The standard recreational dose of 1-3.5g dried mushrooms assumes approximately 0.5-0.6% potency for cubensis. Mushrooms grown under Gartz's optimal conditions at 1% potency would be approximately twice as strong per gram, meaning a "standard" 3.5g dose would deliver approximately 35mg psilocybin — approaching the upper end of the recreational range and potentially overwhelming for inexperienced users.
+The standard recreational dose of 1-3.5g dried mushrooms assumes approximately 0.5-0.6% potency for cubensis. Mushrooms grown under Gartz"s optimal conditions at 1% potency would be approximately twice as strong per gram, meaning a "standard" 3.5g dose would deliver approximately 35mg psilocybin — approaching the upper end of the recreational range and potentially overwhelming for inexperienced users.
 
 ## Overview
 

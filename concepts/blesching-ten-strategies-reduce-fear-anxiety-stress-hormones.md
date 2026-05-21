@@ -6,7 +6,7 @@ tags:
 
 ## Strategy 1: Accept Your Fear and Make It Bigger
 
-This paradoxical technique diminishes fear's stranglehold by embracing it rather than resisting:
+This paradoxical technique diminishes fear"s stranglehold by embracing it rather than resisting:
 
 1. Retreat to a quiet place, get comfortable, close your eyes, breathe deeply
 2. Notice where in your body you experience fear

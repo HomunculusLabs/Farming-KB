@@ -15,7 +15,7 @@ updated: 2026-04-26
 
 ## Tools for the Small Farm
 
-Eliot Coleman's philosophy on farm tools is rooted in the belief
+Eliot Coleman"s philosophy on farm tools is rooted in the belief
 that everyone who grows plants has a favorite tool, and given the
 number and ingenuity of gardeners, there is no end to the many
 simple solutions for making almost any garden task easier. Tools

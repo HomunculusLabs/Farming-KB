@@ -35,7 +35,7 @@ Peyote use was acquired from personal contact with **power that approached peopl
 
 There was a fundamental conflict between ordinary Mescalero shamanistic practices and peyote rites:
 
-- **Ordinary practice**: A single shaman is the principal figure; religious ecstasy, visions, and communications with supernaturals are the shaman's **privatives**
+- **Ordinary practice**: A single shaman is the principal figure; religious ecstasy, visions, and communications with supernaturals are the shaman"s **privatives**
 - **Peyote meetings**: Multiple shamans and participants all experienced peyote's effects simultaneously, making its psychological [[emcdda-psilocybin-mushroom-somatic-health-risks-and-physiological-effects]] **common**
 
 The uniqueness of the shaman's experiences disappeared. The peyote meetings became places where **shamanistic rivalries and witchcraft flourished**. Disruption resulted rather than cohesiveness.

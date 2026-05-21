@@ -13,7 +13,6 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - A. K. Pandey et al. (2018). "Mulberry: A potential source of query-what-are-the-main-bioactive-compounds-in-medicinal-plants." Journal of Integrative Medicine, 16(5), 367–376.---
----
 
 ## Overview
 

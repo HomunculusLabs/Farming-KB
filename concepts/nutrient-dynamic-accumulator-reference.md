@@ -17,7 +17,7 @@ All [[dynamic-accumulator-bracken-fern-potash]]** (Pteridium aquifolium) -- aver
 - Comfrey (Symphytum officinale) -- widely used in permaculture for compost tea and mulch
 - Nettles (Urtica urens) -- excellent liquid feed when fermented
 - Yarrow (Achillea millefolium)
-- Lamb's quarters (Chenopodium album)
+- Lamb"s quarters (Chenopodium album)
 - Pigweed, red root (Amaranthus retroflexus)
 
 ### Calcium (Ca) Accumulators

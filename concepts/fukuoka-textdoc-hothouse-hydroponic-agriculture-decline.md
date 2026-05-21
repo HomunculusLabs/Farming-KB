@@ -18,7 +18,7 @@ type: concept
 
 ## Hothouse and Hydroponic Agriculture Decline
 
-Fukuoka documented the progressive degradation of agriculture from open-field cultivation to artificial growing systems as a primary symptom of humanity's alienation from nature.
+Fukuoka documented the progressive degradation of agriculture from open-field cultivation to artificial growing systems as a primary symptom of humanity"s alienation from nature.
 
 He traced a clear trajectory: from growing crops under open skies, to hothouse horticulture, to soilless hydroponics, and ultimately to the complete [[fukuoka-textdoc-natural-order-food-chain-unity]] and a decline in the quality of food produced.
 

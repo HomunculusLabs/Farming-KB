@@ -34,7 +34,7 @@ TIHKAL entry #3. A psychedelic tryptamine active by multiple routes including or
 ## Qualitative Comments
 
 - **75 mg, orally**: "Onset at 40 minutes. An absolutely profound, enriching experience with both Brahms (G-minor piano quartet) and Verdi (requiem) contributing mightily. All over in 3.5–4.5 hours and a delightful afterglow."
-- **150 mg, orally**: "There was a slow onset. It was more than an hour before something started, which I didn't believe at first but which became completely undeniable."
+- **150 mg, orally**: "There was a slow onset. It was more than an hour before something started, which I didn"t believe at first but which became completely undeniable."
 - **60 mg, i.m.**: "The mask-like faces of persons, the dream-like mysteriousness of the objects in the room gave me the feeling that I had arrived in another world... I knew where I was, but I was inclined to accept this strange world as a reality, too."
 - **60 mg, i.v.**: "I was seeing the leaves of a tree, the color of the grass, people walking to and fro utterly without thinking, like a small child staring at things. I felt as if I were discovering the world anew."
 

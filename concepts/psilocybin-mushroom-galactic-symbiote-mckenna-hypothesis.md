@@ -10,7 +10,7 @@ created: 2026-05-09
 
 ## Overview
 
-In his 1983 Esalen lecture, [[mckenna-stropharia-cubensis-extraterrestrial-hypothesis-spore-dispersal]]* (now *[[australian-magic-mushroom-common-names]] Grower's Guide*, represents one of
+In his 1983 Esalen lecture, [[mckenna-stropharia-cubensis-extraterrestrial-hypothesis-spore-dispersal]]* (now *[[australian-magic-mushroom-common-names]] Grower"s Guide*, represents one of
 McKenna's most controversial and philosophically provocative claims,
 blending mycology, information theory, and speculative cosmology.
 
@@ -18,7 +18,7 @@ blending mycology, information theory, and speculative cosmology.
 
 McKenna reports that within the mushroom trance, he was "informed"
 that once a culture achieves complete understanding of its genetic
-information, it re-engineers itself for survival. The mushroom's
+information, it re-engineers itself for survival. The mushroom"s
 version of re-engineering involves a dual strategy:
 
 1. **[[fukuoka-road-critique-of-modern-science]] itself:
@@ -27,7 +27,7 @@ at the center that apparently no one knows anything with certitude."
 
 This move—using the limitations of scientific epistemology to create
 space for accepting tryptamine-derived information—is characteristic
-of McKenna's philosophical method. He does not claim that the
+of McKenna"s philosophical method. He does not claim that the
 information is verifiable in conventional terms but argues that
 conventional terms are themselves inadequate to the phenomena
 being investigated.

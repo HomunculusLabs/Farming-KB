@@ -29,7 +29,7 @@ When transplanted, seedlings go into shock:
 - Roots are damaged or constrained
 - Leaves and stems get bruised by wind (if grown indoors without air movement)
 - Unfiltered sun shocks greenhouse-grown plants
-- Pot-bound seedlings won't grow for a week to ten days after setting out
+- Pot-bound seedlings won"t grow for a week to ten days after setting out
 - Seedlings that are too young to be sold may have their root ball crumble during transplanting, causing severe root hair damage
 
 Even properly hardened-off transplants lose growing time. Solomon calculates that if you figure a ten-day growth loss from setting out transplants versus the seed not even germinating for a week after sowing, there is almost no gain from using transplants at all.

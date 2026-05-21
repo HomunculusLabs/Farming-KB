@@ -6,7 +6,7 @@ tags: [mckenna, dominator-culture, partnership-culture, patriarchy, shamanism, e
 created: 2026-05-11
 ---
 
-## McKenna's Dominator vs Partnership Culture Model
+## McKenna"s Dominator vs Partnership Culture Model
 
 [[terence-mckenna]]'s *Food of the Gods* proposes a grand historical thesis: that human culture can be divided into two fundamentally different social organizational patterns — the **partnership model** and the **dominator model** — and that the transition from one to the other was catalyzed by changes in humanity's relationship with psychoactive plants. This framework, influenced by Riane Eisler's *The Chalice and the Blade*, provides the organizing principle for McKenna's entire narrative of human cultural evolution.
 
@@ -47,7 +47,7 @@ McKenna argues that the transition from partnership to dominator culture was not
 - **Rise of the "king":** The emergence of hereditary rulership concentrated power in the hands of individuals who used religion to legitimize their authority
 - **Replacement of entheogens by alcohol**: Alcohol, which is easier to produce and control than psychedelic mushrooms, became the dominant psychoactive substance
 
-The crucial turning point, in McKenna's narrative, was the **fall of Çatalhöyük** — the Anatolian settlement that represents for him the apex of partnership culture — and the rise of the "Age of Kingship" that followed. Çatalhöyük's elaborate art, absence of defensive fortifications, and apparent gender equality stand in sharp contrast to the fortified, hierarchical societies that succeeded it.
+The crucial turning point, in McKenna"s narrative, was the **fall of Çatalhöyük** — the Anatolian settlement that represents for him the apex of partnership culture — and the rise of the "Age of Kingship" that followed. Çatalhöyük"s elaborate art, absence of defensive fortifications, and apparent gender equality stand in sharp contrast to the fortified, hierarchical societies that succeeded it.
 
 ## Alcohol as the Dominator Drug
 
@@ -77,7 +77,7 @@ The Tassili paintings, which also depict elaborate communal rituals, dancing, an
 
 ## Gender and the Dominator Model
 
-McKenna's analysis of gender is one of the more compelling aspects of his framework. He argues that the suppression of entheogenic religion was closely linked to the suppression of feminine power:
+McKenna"s analysis of gender is one of the more compelling aspects of his framework. He argues that the suppression of entheogenic religion was closely linked to the suppression of feminine power:
 
 - Early goddess-worshipping cultures (like those at Çatalhöyük) used psychoactive plants in rituals that celebrated fertility, nature, and the feminine principle
 - The rise of sky-god religions (which McKenna associates with pastoral nomadism and dominator culture) replaced earth-centered spirituality with hierarchical, male-dominated theologies
@@ -89,9 +89,9 @@ This analysis parallels but extends Riane Eisler's work, adding the dimension of
 
 McKenna examines the use of **iboga** (*Tabernanthe iboga*) among the Fang people of Central Africa as a surviving example of partnership culture. Iboga, a powerful psychedelic root bark, is used in the **Bwiti** religion in all-night ceremonies that involve communal dancing, singing, and visionary experience.
 
-What distinguishes Bwiti from dominator religious practices, in McKenna's analysis, is its egalitarian structure and its integration of the feminine principle. Both men and women participate in ceremonies; the visionary experience is considered accessible to all; and the plant itself is treated as a teacher and ally rather than a commodity to be controlled by a priestly caste.
+What distinguishes Bwiti from dominator religious practices, in McKenna"s analysis, is its egalitarian structure and its integration of the feminine principle. Both men and women participate in ceremonies; the visionary experience is considered accessible to all; and the plant itself is treated as a teacher and ally rather than a commodity to be controlled by a priestly caste.
 
-McKenna sees the survival of Bwiti as evidence that partnership culture has not been entirely extinguished, and that the entheogenic connection to the "transcendent Other" can persist even under the pressure of dominator cultural forces. The contrast between Bwiti's egalitarian, nature-revering spirituality and the hierarchical, nature-exploiting religions of dominator culture encapsulates the choice that McKenna believes humanity faces.
+McKenna sees the survival of Bwiti as evidence that partnership culture has not been entirely extinguished, and that the entheogenic connection to the "transcendent Other" can persist even under the pressure of dominator cultural forces. The contrast between Bwiti"s egalitarian, nature-revering spirituality and the hierarchical, nature-exploiting religions of dominator culture encapsulates the choice that McKenna believes humanity faces.
 
 ## The Archaic Revival as Return to Partnership
 

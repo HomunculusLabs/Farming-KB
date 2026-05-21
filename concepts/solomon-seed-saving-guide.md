@@ -11,7 +11,7 @@ type: concept
 
 ## Overview
 
-Saving your own seed is one of the most important skills for the self-reliant gardener. [[steve-solomon]]'s "Gardening When It Counts" provides practical guidance on seed saving, with particular emphasis on understanding the genetics involved and avoiding common pitfalls. See also [[solomon-crop-rotation-and-garden-planning]] for spacing seed-saving plants
+Saving your own seed is one of the most important skills for the self-reliant gardener. [[steve-solomon]]"s "Gardening When It Counts" provides practical guidance on seed saving, with particular emphasis on understanding the genetics involved and avoiding common pitfalls. See also [[solomon-crop-rotation-and-garden-planning]] for spacing seed-saving plants
 - [[solomon-gardening-when-it-counts-index]]
 - [[home-garden-seed-saving]]
 ## Background and Context

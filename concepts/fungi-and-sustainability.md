@@ -65,7 +65,7 @@ The key virtue: mushrooms transform agricultural and organic waste into nutritio
 
 - 90% of all plants have symbiotic relationships with fungi via [[mycorrhizal-fungi]]
 - **Vesicular-arbuscular mycorrhizal fungi (VAM)** — invisible to naked eye but more important as symbionts than many mushroom-forming species; Glomus is a well-known genus; VAMs account for considerable soil fungal biodiversity (Van der Heijden et al., 1998)
-- The [[soil-food-web-nutrient-cycling]]'s fungal hyphae form vast networks in the [[soil-food-web-nutrient-cycling]] in complex relationships with bacteria, nematodes, and arthropods
+- The [[soil-food-web-nutrient-cycling]]"s fungal hyphae form vast networks in the [[soil-food-web-nutrient-cycling]] in complex relationships with bacteria, nematodes, and arthropods
 
 ### The Rhizosphere as Living Network
 

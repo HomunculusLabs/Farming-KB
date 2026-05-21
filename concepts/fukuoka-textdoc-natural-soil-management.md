@@ -10,7 +10,7 @@ type: concept
 
 ## Natural Soil Management Without Chemical Inputs
 
-Fukuoka's approach to soil management challenges the entire premise of
+Fukuoka"s approach to soil management challenges the entire premise of
 modern soil science. Rather than analyzing soil chemistry and applying
 corrective amendments, [[hamilton-composting-and-organic-matter-management]] in constant dynamic exchange. When this
 community is healthy, fertility is maintained and improved continuously.
@@ -20,7 +20,7 @@ naturally.
 
 Fukuoka identifies the key agents of natural soil building:
 
-- **Microorganisms and small animals**: These act as "nature's tillers,"
+- **Microorganisms and small animals**: These act as "nature"s tillers,"
   creating soil structure, aerating the ground, and processing organic
   matter far more effectively than any plow.
 - **Green manure plants**: Clover and other [[fukuoka-textdoc-clover-decline-and-weed-succession-orchard]]**: Different weeds emerge as soil conditions change,
@@ -28,7 +28,7 @@ Fukuoka identifies the key agents of natural soil building:
 
 ## Cover Crop Systems
 
-Fukuoka's primary tool for soil building is the managed cover crop. White
+Fukuoka"s primary tool for soil building is the managed cover crop. White
 clover ([[fukuoka-natural-weed-management]] from a battle into a productive partnership.
 
 ## Black Wattle for Soil Improvement

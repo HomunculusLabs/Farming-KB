@@ -8,7 +8,7 @@ sources: [mckenna_t-food_of_the_gods.md]
 type: concept
 ---
 
-## Wasson's Amanita Theory and Objections to Fly Agaric as Soma
+## Wasson"s Amanita Theory and Objections to Fly Agaric as Soma
 
 Gordon and [[allegro-amanita-muscaria-properties-and-pharmacology]], an extremely ancient
 shamanic intoxicant until recently used by the Tungusic tribes of
@@ -36,7 +36,7 @@ Archaic shamanism and that fly agaric had long been used in Siberia to
 induce shamanic journeys and initiate neophyte shamans into the
 fullness of their heritage.
 
-As a result of Wasson's own discoveries in Mexico, it was known that
+As a result of Wasson"s own discoveries in Mexico, it was known that
 mushrooms other than fly agaric could contain visionary intoxicants,
 but [[allegro-colour-and-consistency-of-the-amanita-muscaria]] has haunted efforts to
 understand Soma ever since.

@@ -70,7 +70,7 @@ Left to nature, most soils are not ideal for [[coleman-french-historical-winter-
 
 We choose which varieties to grow based on taste, yield, disease resistance, and suitability to our climate. Over generations, gardeners and farmers have continuously selected the best plants for seed saving — a process called plant breeding or selection.
 
-## The Plant's Perspective
+## The Plant"s Perspective
 
 Solomon offers an elegant way to understand gardening: from the plant's point of view, humans are simply carrying on their progeny. Plants "allow" us to eat them because they are confident we will save their seeds and plant them again next year. This mutualistic relationship — we provide care, they provide food — is the foundation of all agriculture.
 

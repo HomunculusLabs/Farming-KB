@@ -16,7 +16,7 @@ Moroccan T. melanosporum is harvested from both wild sources and cultivated orch
 
 ### Kalaharituber pfeilii
 
-Kalaharituber pfeilii is the most important truffle species of southern Africa. Known as "N'abba" in the Tswana language, it is found in the sandy soils of the Kalahari Desert spanning Botswana, Namibia, and South Africa.
+Kalaharituber pfeilii is the most important truffle species of southern Africa. Known as "N"abba" in the Tswana language, it is found in the sandy soils of the Kalahari Desert spanning Botswana, Namibia, and South Africa.
 
 This species associates with Boscia albitrunca (the shepherd's tree) and various Acacia species. The fruiting bodies are large (up to 15 cm diameter) with a rough brown exterior and pale interior. Fruiting is triggered by heavy summer rains, typically from January through March.
 

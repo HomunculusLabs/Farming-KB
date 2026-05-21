@@ -39,7 +39,7 @@ The species has gained significant attention in recent years as a natural nootro
 
 The genus Polygala contains approximately 700 species distributed worldwide, with the greatest diversity in tropical and subtropical regions. The family Polygalaceae is distinct from Fabaceae despite being placed in the same order (Fabales).
 
-The specific epithet "tenuifolia" derives from the Latin "tenuis" (slender) and "folium" (leaf), referring to the plant's narrow, grass-like leaves. This morphological feature distinguishes it from many other Polygala species that have broader foliage.
+The specific epithet "tenuifolia" derives from the Latin "tenuis" (slender) and "folium" (leaf), referring to the plant"s narrow, grass-like leaves. This morphological feature distinguishes it from many other Polygala species that have broader foliage.
 
 The Chinese name Yuan Zhi (远志) translates roughly as "high aspirations" or "far-reaching will," reflecting the traditional belief that the herb strengthens resolve, determination, and mental fortitude. This name has been used in Chinese medical texts since at least the Han Dynasty (206 BCE to 220 CE).
 

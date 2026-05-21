@@ -20,7 +20,7 @@ sources:
 
 # Asian Psilocybin Mushroom Guide
 
-Regional distribution guide for psilocybin-containing mushrooms across Asia, covering species, habitats, seasonal patterns, and cultural use. Based on [[jochen-gartz]]'s global survey and [[john-allen]]'s Southeast Asian research. See also [[psilocybin-mushroom-chemistry]] for the worldwide overview and [[mushroom-species-guide]] for species profiles.
+Regional distribution guide for psilocybin-containing mushrooms across Asia, covering species, habitats, seasonal patterns, and cultural use. Based on [[jochen-gartz]]"s global survey and [[john-allen]]'s Southeast Asian research. See also [[psilocybin-mushroom-chemistry]] for the worldwide overview and [[mushroom-species-guide]] for species profiles.
 
 ## Southeast Asia
 
@@ -76,7 +76,7 @@ Southeast Asia is one of the world's richest regions for psilocybin mushroom bio
 
 Japan has a surprisingly diverse psychoactive mushroom flora given its temperate climate:
 
-- **Psilocybe subcaerulipes:** Small woodland species found on decomposing wood and leaf litter. Known from Honshu, Shikoku, and Kyushu. One of Japan's most common psychoactive species.
+- **Psilocybe subcaerulipes:** Small woodland species found on decomposing wood and leaf litter. Known from Honshu, Shikoku, and Kyushu. One of Japan"s most common psychoactive species.
 - **Psilocybe argentipes:** Found on forest floor in deciduous and coniferous forests. Known from Honshu. Produces moderate bluing reaction.
 - **Psilocybe venenata:** Formerly classified as Stropharia venenata Imai. Found in grassy areas and fields. Known from Honshu.
 - **Psilocybe subaeruginascens:** Found in grassy areas and on disturbed ground. Known from southern Japan (Kyushu, Ryukyu Islands).

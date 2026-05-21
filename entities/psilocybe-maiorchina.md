@@ -10,7 +10,7 @@ tags:
   - staggers-syndrome
 date: 2026-04-28
 updated: 2026-04-28
-sources: ['raw/papers/gartz-growth-promoting-effect-of-brassinosteroid-psilocybe-cubensis.md']
+sources: ["raw/papers/gartz-growth-promoting-effect-of-brassinosteroid-psilocybe-cubensis.md']
 ---
 
 ## Psilocybe maiorchina

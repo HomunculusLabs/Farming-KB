@@ -42,7 +42,7 @@ Growing grains on a homestead scale provides food security, animal feed, soil bu
 
 #### Winter Wheat (Triticum aestivum)
 - **Plant**: Sep 15–Oct 30; 1.5-2" deep; ~2 oz per 100 sq ft
-- **Varieties**: 'Turkey Red' (heritage hard red), 'Wrens Abruzzi' (heritage soft red), 'Norstar' (cold hardy)
+- **Varieties**: "Turkey Red' (heritage hard red), 'Wrens Abruzzi' (heritage soft red), 'Norstar' (cold hardy)
 - **Yield**: 30-60 bu/acre home scale; 1 bu = 60 lbs
 - **Harvest**: Late Jun–Jul (kernels hard, straw golden); bite-test — should crack, not dent
 - **Uses**: Bread flour (hard red), pastry flour (soft red), cracked wheat, bulgur
@@ -70,7 +70,7 @@ Growing grains on a homestead scale provides food security, animal feed, soil bu
 
 #### Corn / Maize (Zea mays)
 - **Plant**: After last frost (Apr 15–May 15); soil 55°F+; 1-2" deep
-- **Types**: Dent/flint corn for grinding ('Floriani Red Flint', 'Bloody Butcher', 'Hopi Blue'), popcorn ('Japanese Hulless')
+- **Types**: Dent/flint corn for grinding ("Floriani Red Flint', 'Bloody Butcher', 'Hopi Blue'), popcorn ('Japanese Hulless')
 - **Yield**: 50-150 bu/acre; 1 bu = 56 lbs shelled
 - **Harvest**: Sep–Oct; husks dry/papery; kernels hard
 - **Integration**: Cornstalks → [[duck-keeping]] bedding; ground corn → goat/duck feed; [[companion-planting-reference]] Three Sisters (corn + beans + squash)

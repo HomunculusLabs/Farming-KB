@@ -42,7 +42,7 @@ The smell was very strong, quickly noticed on the opposite side of the way. This
 
 A piece of this vine transplanted would continue to ramify, and in time show the result in the form of mushrooms. Just as a cutting of the grape-vine placed in conditions favorable to growth will shoot up, put forth branches and bear fruit.
 
-Palmer used this observation to disprove the popular belief that toadstools spring up overnight in unforeseen places. He demonstrated that the entire earth beneath one's feet is alive with fungal vegetation to a great depth.
+Palmer used this observation to disprove the popular belief that toadstools spring up overnight in unforeseen places. He demonstrated that the entire earth beneath one"s feet is alive with fungal vegetation to a great depth.
 
 The [[fungal-mycelial-networks-nutrient-translocation]] (spawn) are just as distinct from one another as visible plants like hop-vines and woodbine, the ivy and the virgin's bower that twine their tendrils above.
 

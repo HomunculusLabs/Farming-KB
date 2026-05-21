@@ -7,7 +7,7 @@ tags: [person, botany, mycology, hungary, history, renaissance]
 
 ## Description
 
-Carolus Clusius (1525–1609), also known as Charles de l'Écluse, was a Flemish physician, botanist, and one of the most influential figures in Renaissance botany. He is significant in mycological history for documenting the **"[[bolond-gomba]]"** ("fool's mushroom") in Hungary during the late 16th century — one of the earliest written records of psychoactive mushroom use in Europe.
+Carolus Clusius (1525–1609), also known as Charles de l"Écluse, was a Flemish physician, botanist, and one of the most influential figures in Renaissance botany. He is significant in mycological history for documenting the **"[[bolond-gomba]]"** ("fool"s mushroom") in Hungary during the late 16th century — one of the earliest written records of psychoactive mushroom use in Europe.
 
 ## Biographical Overview
 
@@ -20,16 +20,16 @@ Carolus Clusius (1525–1609), also known as Charles de l'Écluse, was a Flemish
 
 ### Discovery of Bolond Gomba
 
-Clusius discovered the "bolond gomba" (Hungarian for "fool's mushroom") during his time in Hungary. The mushroom was:
+Clusius discovered the "bolond gomba" (Hungarian for "fool"s mushroom") during his time in Hungary. The mushroom was:
 
-- Known under the German name "Narrenschwamm" ("fool's mushroom")
+- Known under the German name "Narrenschwamm" ("fool"s mushroom")
 - Used in rural areas for preparation of **love potions** by wise men known as "javas asszony"
 - Most likely **[[psilocybe-semilanceata]]** or **[[psilocybe-bohemica]]**, based on geographic distribution and descriptions of effects
 - Also documented in Slovakia around the same time
 
 ### Broader Significance
 
-Clusius's documentation represents a critical piece of evidence that psychoactive mushroom knowledge existed in Europe centuries before the isolation of [[psilocybin]] by [[albert-hofmann]] in 1958. As a trained physician and systematic botanist, his observations carry particular scientific credibility.
+Clusius"s documentation represents a critical piece of evidence that psychoactive mushroom knowledge existed in Europe centuries before the isolation of [[psilocybin]] by [[albert-hofmann]] in 1958. As a trained physician and systematic botanist, his observations carry particular scientific credibility.
 
 ## Classification
 
@@ -46,7 +46,7 @@ Clusius's work demonstrates that systematic observation of psychoactive mushroom
 
 - Flemish physician and botanist (1525–1609)
 - Director of the Imperial Botanical Garden in Vienna
-- Documented the "bolond gomba" ("fool's mushroom") in Hungary
+- Documented the "bolond gomba" ("fool"s mushroom") in Hungary
 - One of the earliest written records of psychoactive mushroom use in Europe
 - Also credited with introducing the tulip to the Netherlands
 - The documented species was most likely *Psilocybe semilanceata*

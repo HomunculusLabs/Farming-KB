@@ -17,7 +17,7 @@ Aeruginascin is a previously unknown alkaloid discovered by [[jochen-gartz]] in 
 
 ## Discovery
 
-Aeruginascin was discovered during Gartz's investigation of *Inocybe aeruginascens* extracts in the 1980s. His analyses of more than 100 mushrooms collected in Hungary and Germany from 1967 to 1990 revealed not only the expected psilocybin and baeocystin, but also a previously unknown compound. The presence of this compound was confirmed using thin-layer chromatography, where it appeared as a distinct spot that did not match any known reference standards.
+Aeruginascin was discovered during Gartz"s investigation of *Inocybe aeruginascens* extracts in the 1980s. His analyses of more than 100 mushrooms collected in Hungary and Germany from 1967 to 1990 revealed not only the expected psilocybin and baeocystin, but also a previously unknown compound. The presence of this compound was confirmed using thin-layer chromatography, where it appeared as a distinct spot that did not match any known reference standards.
 
 ## Chemical Properties
 

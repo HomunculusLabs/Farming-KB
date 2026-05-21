@@ -44,7 +44,7 @@ Lower leaf litter resource quality (higher C:N, lignin:N) under elevated CO₂ r
 
 ### Inconsistent Decomposition Rates
 
-Despite changed litter chemistry, decomposition rates don't always respond predictably:
+Despite changed litter chemistry, decomposition rates don"t always respond predictably:
 
 - Beech twig decomposition rates and N/lignin dynamics were unchanged despite significant C:N and lignin:N increases.
 - Gorisen and Cotrufo (2000) cautioned that leaf chemistry changes may not correlate with decomposition rates.

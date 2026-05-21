@@ -12,7 +12,7 @@ sources:
 
 ## Understanding Weeds Ecologically
 
-Weeds are pioneer plants, moulded by millions of years of evolution to quickly cover disturbed, open ground. They will relentlessly cover the bare ground of a garden. As [[toby-hemenway]] writes: "nature abhors bare soil, large blocks of a single plant type, and vegetation that's all the same height and root depth." Most gardens are showcases of all these unnatural methods.
+Weeds are pioneer plants, moulded by millions of years of evolution to quickly cover disturbed, open ground. They will relentlessly cover the bare ground of a garden. As [[toby-hemenway]] writes: "nature abhors bare soil, large blocks of a single plant type, and vegetation that"s all the same height and root depth." Most gardens are showcases of all these unnatural methods.
 
 ## The Root Cause
 

@@ -24,7 +24,7 @@ Specialized earth-shaping techniques serve different crops:
 - **Ridges** benefit cassava and sweet potato production
 - **Pits** suit taro, arrowroot, and mulch grasses
 
-Each technique creates a micro-environment optimized for the specific crop's root structure and water needs.
+Each technique creates a micro-environment optimized for the specific crop"s root structure and water needs.
 
 ## Wet Terrace Systems (Padi Culture)
 

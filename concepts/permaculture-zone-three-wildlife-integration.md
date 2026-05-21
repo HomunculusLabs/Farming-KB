@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-Zone Three in [[permaculture-design]] represents the unmanaged or minimally managed agricultural landscape. It is the domain of unpruned fruit and nut production, seedling orchards, and self-harvesting systems that require only infrequent human intervention. [[bill-mollison]]'s treatment of Zone Three extends well beyond horticulture into the philosophy of wildlife integration, extrinsic energy management, and the temporal evolution of designed systems. This concept page synthesizes Mollison's key principles for Zone Three design as presented in the [[permaculture]] Design Course.
+Zone Three in [[permaculture-design]] represents the unmanaged or minimally managed agricultural landscape. It is the domain of unpruned fruit and nut production, seedling orchards, and self-harvesting systems that require only infrequent human intervention. [[bill-mollison]]"s treatment of Zone Three extends well beyond horticulture into the philosophy of wildlife integration, extrinsic energy management, and the temporal evolution of designed systems. This concept page synthesizes Mollison's key principles for Zone Three design as presented in the [[permaculture]] Design Course.
 
 ## Zone Three Characteristics
 
@@ -23,7 +23,7 @@ The design goal is to establish systems that yield reliably without the energy i
 
 ## Economic Viability on Small Acreages
 
-Mollison illustrates the productive potential of small landholdings through several case studies. A notable example is the "flower farmer" — a city clerk who purchased an eight-acre farm and discovered that the previous owner had operated a flower-cutting business generating $150 per weekend. This finding underscores Mollison's argument that intensive, well-designed small acreages can outperform extensive broadscale agriculture in economic returns.
+Mollison illustrates the productive potential of small landholdings through several case studies. A notable example is the "flower farmer" — a city clerk who purchased an eight-acre farm and discovered that the previous owner had operated a flower-cutting business generating $150 per weekend. This finding underscores Mollison"s argument that intensive, well-designed small acreages can outperform extensive broadscale agriculture in economic returns.
 
 The principle here is what Mollison calls the **nuclear approach**: developing small areas intensively rather than spreading effort thinly across large properties. On half an acre, a skilled designer can produce more usable yield than on ten acres managed conventionally. The eight-acre flower farm represents an intermediate scale where multiple income streams — flowers, fruit, nuts, livestock — can be stacked within Zone Three management intensity.
 

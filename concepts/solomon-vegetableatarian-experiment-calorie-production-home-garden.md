@@ -21,7 +21,7 @@ created: 2026-05-09
 
 ### Not Vegetarian
 
-Solomon explicitly states: "You have to be a pacifist or a vegan? It's not an absolute thing. There's no halfway." His own dietary evolution was gradual and pragmatic rather than ideological:
+Solomon explicitly states: "You have to be a pacifist or a vegan? It"s not an absolute thing. There's no halfway." His own dietary evolution was gradual and pragmatic rather than ideological:
 
 - **Youth:** "Meat and potatoes man"
 - **Age 31:** Began shifting toward vegetable-heavy diet
@@ -30,7 +30,7 @@ Solomon explicitly states: "You have to be a pacifist or a vegan? It's not an ab
 
 ### Caloric Adequacy
 
-A critical question for any vegetable-based diet is whether it can meet caloric needs. Solomon's data suggests:
+A critical question for any vegetable-based diet is whether it can meet caloric needs. Solomon"s data suggests:
 
 - **Garden area:** ~2,000 square feet of growing beds (later doubled to 4,000+ with [[solomon-garden-ley-rotation-soil-restoration]])
 - **Household size:** Two adults

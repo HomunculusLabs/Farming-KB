@@ -14,11 +14,11 @@ sources:
 
 ## Overview
 
-MMDA (3-methoxy-4,5-methylenedioxyamphetamine) occupies a unique position in PiHKAL's pharmacological landscape. Derived from nutmeg's myristicin, it produced a distinctive profile of effects that centered on what subjects repeatedly described as "brain movies" -- rich, vivid closed-eye imagery that Shulgin's group analyzed with unusual phenomenological precision.
+MMDA (3-methoxy-4,5-methylenedioxyamphetamine) occupies a unique position in PiHKAL"s pharmacological landscape. Derived from nutmeg's myristicin, it produced a distinctive profile of effects that centered on what subjects repeatedly described as "brain movies" -- rich, vivid closed-eye imagery that Shulgin"s group analyzed with unusual phenomenological precision.
 
 ## The "Brain Movies" Phenomenon
 
-The phrase "brain movies" emerged spontaneously from multiple subjects during early MMDA trials. The richest effects occurred with eyes closed, leading to detailed phenomenological analysis of the visual experience. One subject's report distinguished two distinct types of hallucination:
+The phrase "brain movies" emerged spontaneously from multiple subjects during early MMDA trials. The richest effects occurred with eyes closed, leading to detailed phenomenological analysis of the visual experience. One subject"s report distinguished two distinct types of hallucination:
 
 "There are hallucinations of two types: those which are strictly retinal and more minute and small and influenced by light and focused on the light ahead on the retina or lids; and the other, those deep in the visual tract and occiput which are larger and more global and dream-like and, when solid, are quite dramatic and unforgettable as in meditation."
 
@@ -52,7 +52,7 @@ The compound produced relaxation, passivity, and "compassion of an impersonal so
 
 ## Origin from Nutmeg
 
-MMDA's derivation from myristicin in nutmeg connects it to one of the oldest known psychoactive plant materials. The conversion pathway (myristicin to isomyristicin to myristicinaldehyde to nitrostyrene to MMDA) demonstrates how a naturally occurring [[psilocybin-default-mode-network-ego-dissolution]] network and the neurobiology of visual imagery.
+MMDA"s derivation from myristicin in nutmeg connects it to one of the oldest known psychoactive plant materials. The conversion pathway (myristicin to isomyristicin to myristicinaldehyde to nitrostyrene to MMDA) demonstrates how a naturally occurring [[psilocybin-default-mode-network-ego-dissolution]] network and the neurobiology of visual imagery.
 
 ## Historical Note
 

@@ -26,12 +26,12 @@ Mexican mycologist, world authority on the genus Psilocybe, and author of the de
 
 ## Overview
 
-Gaston Guzman is a Mexican mycologist widely regarded as the world's foremost authority on Psilocybe taxonomy. He has described dozens of new species and conducted extensive fieldwork across Mexico and Latin America. His monograph "The Genus Psilocybe" (1983) remains the taxonomic foundation for the genus.
+Gaston Guzman is a Mexican mycologist widely regarded as the world"s foremost authority on Psilocybe taxonomy. He has described dozens of new species and conducted extensive fieldwork across Mexico and Latin America. His monograph "The Genus Psilocybe" (1983) remains the taxonomic foundation for the genus.
 
 ## Key Contributions
 
 - **Psilocybe monograph:** Author of "The Genus Psilocybe: A Systematic Revision of the Known Species" (1983, revised), the definitive taxonomic treatment of the genus.
-- **Mexican neurotropic species:** Mexico has the highest number of neurotropic fungal species (76 species, 44 Psilocybe = 39% of world total), largely documented through Guzman's decades of fieldwork in Oaxaca and other states.
+- **Mexican neurotropic species:** Mexico has the highest number of neurotropic fungal species (76 species, 44 Psilocybe = 39% of world total), largely documented through Guzman"s decades of fieldwork in Oaxaca and other states.
 - **Sacred mushroom documentation:** Catalogued more than 200 common names for hallucinogenic fungi in Mexican Indian languages, including Nahuatl names like "teonanacatl" (divine mushroom), "apipiltzin" (little boy), and "teotlaquilnanacatl" (divine fungus).
 - **Voluntary intoxication experience:** In 1958, while sleeping in a room filled with freshly collected neurotropic Psilocybe specimens in Oaxaca, he experienced colored hallucinations from airborne psilocybin exposure — a remarkable account of passive intoxication.
 - **Co-authored worldwide distribution study:** With [[john-allen]] and [[jochen-gartz]], published the comprehensive 1998 study covering 216 neurotropic species.
@@ -53,7 +53,7 @@ Guzman has described numerous Psilocybe species including:
 
 ## Taxonomic Philosophy
 
-Guzman emphasized that wherever researchers study neurotropic species, they find new species — reflecting both the richness of tropical mycobiota and the incomplete state of fungal taxonomy. He maintained that Mexico's extraordinary diversity of neurotropic fungi (76 species, 44 Psilocybe = 39% of world total) is primarily due to its varied climate zones and the depth of ethnographic documentation of indigenous mushroom use.
+Guzman emphasized that wherever researchers study neurotropic species, they find new species — reflecting both the richness of tropical mycobiota and the incomplete state of fungal taxonomy. He maintained that Mexico"s extraordinary diversity of neurotropic fungi (76 species, 44 Psilocybe = 39% of world total) is primarily due to its varied climate zones and the depth of ethnographic documentation of indigenous mushroom use.
 
 ## Institutional Affiliations
 

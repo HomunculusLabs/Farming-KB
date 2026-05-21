@@ -7,7 +7,7 @@ topics: [permaculture, energy-descent, culture, scavenging, modernity, industria
 
 ## Energy Descent Culture — Scavenging, Modernity, and the Rubbish Tip of History
 
-Holmgren's concept of energy descent goes beyond resource depletion scenarios to
+Holmgren"s concept of energy descent goes beyond resource depletion scenarios to
 encompass a fundamental cultural transformation. In his most provocative
 formulation, the energy [[holmgren-fossil-fuel-pulse-and-energy-descent-cycle]]-fueled civilization — including the radical possibility of
 deriving sustenance from what that civilization discards.

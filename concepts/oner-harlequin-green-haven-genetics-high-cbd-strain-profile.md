@@ -1,6 +1,6 @@
 ---
 title: Harlequin Strain Profile (Green Haven Genetics)
-source: S.T. Oner, Cannabis Sativa Volume 3: The Essential Guide to the World's Finest Marijuana Strains
+source: S.T. Oner, Cannabis Sativa Volume 3: The Essential Guide to the World"s Finest Marijuana Strains
 source_path: raw/papers/s-t-oner-the-rev-cannabis-sativa-volume-3_-the-essential-gu.md
 extracted: 2026-05-10
 type: concept

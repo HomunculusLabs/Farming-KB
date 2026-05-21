@@ -11,7 +11,6 @@ date: 2026-05-08
 updated: 2026-05-08
 sources:
   - Bello J et al. (1998). "Eryngium foetidum: A traditional herb with multiple uses." Economic Botany 52(4): 392–403.---
----
 
 ## Overview
 

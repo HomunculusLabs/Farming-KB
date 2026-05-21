@@ -8,7 +8,7 @@ type: entity
 
 ## Description
 
-Chief Seattle (also Sealth, Si'ahl; c. 1786–1866) was a Suquamish and Duwamish leader whose 1854 speech responding to a U.S. government offer to buy tribal land is quoted in Mollison's *Permaculture: A Designer's Manual*. The passage cited — "Man did not weave the web of life, he is merely a strand in it. Whatever he does to the web, he does to himself" — encapsulates the interconnectedness ethic that forms a philosophical foundation for permaculture's earthcare principles.
+Chief Seattle (also Sealth, Si"ahl; c. 1786–1866) was a Suquamish and Duwamish leader whose 1854 speech responding to a U.S. government offer to buy tribal land is quoted in Mollison's *Permaculture: A Designer's Manual*. The passage cited — "Man did not weave the web of life, he is merely a strand in it. Whatever he does to the web, he does to himself" — encapsulates the interconnectedness ethic that forms a philosophical foundation for permaculture"s earthcare principles.
 
 ## Classification
 

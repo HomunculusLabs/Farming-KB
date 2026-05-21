@@ -19,7 +19,7 @@ sources:
 
 Physostegia virginiana, commonly called obedient plant or false dragonhead, is a rhizomatous perennial in the family Lamiaceae. It is native to [[green-cannabis-grow-bible-cloning-and-seed-propagation]] is straightforward with fresh seed sown in autumn or stratified seed sown in spring. Germination occurs within 14 to 21 days at 20 to 25°C.
 
-Several cultivars are available in the nursery trade. 'Vivid' has deep pink flowers on compact plants 45 to 60 cm tall.
+Several cultivars are available in the nursery trade. "Vivid' has deep pink flowers on compact plants 45 to 60 cm tall.
 
 'Rosea' bears soft pink flowers, while 'Alba' produces pure white blooms. 'Variegata' features creamy white leaf margins but is less vigorous than the species.
 

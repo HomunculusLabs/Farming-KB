@@ -21,7 +21,7 @@ mechanism identified in 1990 that operates like a lock-and-key system. The ECS
 balances and strengthens the nervous and immune systems, initiates pain control,
 calms inflammation, and supports [[blesching-cannabis-health-index-cannabinoid-terpene-synergy]]* is that
 emotions and molecules exist in a **two-way street**: generating specific
-emotional content changes our body's chemistry, partly modulated via the ECS.
+emotional content changes our body"s chemistry, partly modulated via the ECS.
 This creates a powerful opportunity for conscious self-healing.
 ## Molecules and Emotions: The Two-Way Street
 Every emotion corresponds to endogenous molecules. The relationship is
@@ -43,7 +43,7 @@ associate with insomnia and impaired creativity; excess may fuel anxiety.
 An endogenous cannabinoid named from Sanskrit *ananda* (bliss). Produced in
 cell membranes containing CB1 and CB2, it closely resembles THC. May reduce
 hypertension, depression, fear, and anxiety while contributing to social play
-behavior. High-intensity exercise significantly boosts anandamide ("runner's
+behavior. High-intensity exercise significantly boosts anandamide ("runner"s
 high"). Anandamide also inhibits norepinephrine, linking the two systems.
 ### Endogenous Opioids — "It Feels So Good When the Pain Stops"
 Five groups: beta-endorphins, enkephalins, dynorphins, endomorphins, and
@@ -51,7 +51,7 @@ nociceptin. Produced by the CNS and pituitary (contain CB1). THC induces
 release of dynorphin A and B. Endorphins produce euphoria and elation beyond
 [[reactive-oxygen-species-and-oxidative-stress]]; enhances wound healing. The ECS is
 involved in oxytocin production—anandamide modulates oxytocin levels, and CB1
-enables oxytocin's pain reduction. Its short half-life requires ongoing
+enables oxytocin"s pain reduction. Its short half-life requires ongoing
 engagement to sustain benefits.
 ### Serotonin — "I Am Happy"
 Made primarily in the digestive tract (contains CB2). Direct correlation exists

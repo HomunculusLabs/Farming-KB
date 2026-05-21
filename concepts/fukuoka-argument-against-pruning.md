@@ -1,5 +1,5 @@
 ---
-title: "Fukuoka's Argument Against Pruning — fukuoka-natural-tree-form-argument Form"
+title: "Fukuoka"s Argument Against Pruning — fukuoka-natural-tree-form-argument Form"
 type: concept
 created: 2026-04-20
 updated: 2026-05-06
@@ -10,7 +10,7 @@ sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
-## Fukuoka's Argument Against Pruning — Natural Tree Form
+## Fukuoka"s Argument Against Pruning — Natural Tree Form
 
 **Updated:** 2026-04-18
 
@@ -22,7 +22,7 @@ Fukuoka's central insight: "Once the pruning shears have been taken to the tree 
 
 ### The Chain Reaction
 
-1. The first pruning cut (even nipping one bud on a sapling) alters the tree's [[fukuoka-mandarin-orange-citrus]], orange, and cherry tree branches is always located directly above the first leaf
+1. The first pruning cut (even nipping one bud on a sapling) alters the tree"s [[fukuoka-mandarin-orange-citrus]], orange, and cherry tree branches is always located directly above the first leaf
 - The eleventh leaf is always directly above the sixth
 - When the distance between consecutive buds is one inch, the distance from one leaf to the next leaf directly above it is always five inches
 - Two leaves will not overlap, or two branches emerge, within any five-inch length along the branch

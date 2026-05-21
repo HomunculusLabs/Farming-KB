@@ -13,7 +13,7 @@ topologies influence forest regeneration and stability.
 ## Environmental Responses
 
 ECM fungi are sensitive to environmental change. Atmospheric nitrogen
-deposition, a consequence of industrial pollution, reduces the plant's
+deposition, a consequence of industrial pollution, reduces the plant"s
 dependence on fungal nitrogen supply and can shift [[dighton-fungi-climate-change-feedback]] poses additional threats. Drought stress reduces carbon flow
 to fungal partners, potentially collapsing networks during extended dry
 periods. However, ECM fungi also improve host [[mollison-designers-food-forest-succession-design]]. Early-successional species

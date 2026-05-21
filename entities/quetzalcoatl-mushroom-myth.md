@@ -22,13 +22,13 @@ Quetzalcoatl is the feathered serpent deity of Mesoamerican mythology whose lege
 
 - The Mazatec legend holds that Christ walked through their mountains of light and rain
 - This narrative is identified by Henry Munn as "a transformation of the legend of Quetzalcoatl"
-- From where Christ's blood dropped — "the essence of his life" — the holy mushrooms grew
+- From where Christ"s blood dropped — "the essence of his life" — the holy mushrooms grew
 - The mushrooms are thereby understood as the "Blood of Christ" and the "Flesh of God"
 - This origin myth sanctifies the mushrooms as divinely created substances
 - The syncretism demonstrates the Mazatec capacity to incorporate Catholic elements while preserving indigenous cosmological structures
 - Quetzalcoatl was the Aztec god of wind, learning, and the morning star, associated with fertility and creation
 - The feathered serpent is one of the oldest and most widely shared deities across Mesoamerican civilizations
-- In the Mazatec version, the deity's creative act (shedding blood) directly produces the mushrooms used in healing
+- In the Mazatec version, the deity"s creative act (shedding blood) directly produces the mushrooms used in healing
 - The myth connects mushroom use to both divine creation and sacrificial redemption
 
 ## Relevance to Cultivation and Mycology

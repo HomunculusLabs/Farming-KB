@@ -9,7 +9,7 @@ tags: [person, chemist, laboratory-assistant, sandoz, psilocybin, ololiuhqui]
 
 ## Description
 
-Hans Tscherter was Albert Hofmann's capable laboratory assistant at Sandoz Pharmaceuticals in Basel, Switzerland, who participated in two of Hofmann's most important discoveries: the isolation of the active principles of the sacred mushroom teonanacatl (psilocybin and psilocin) and the isolation of the active principles of the Mexican magic morning glory ololiuhqui (lysergic acid amides). Tscherter's skilled laboratory work was essential to the success of both investigations, and Hofmann specifically acknowledged his contribution in LSD: My Problem Child.
+Hans Tscherter was Albert Hofmann"s capable laboratory assistant at Sandoz Pharmaceuticals in Basel, Switzerland, who participated in two of Hofmann's most important discoveries: the isolation of the active principles of the sacred mushroom teonanacatl (psilocybin and psilocin) and the isolation of the active principles of the Mexican magic morning glory ololiuhqui (lysergic acid amides). Tscherter's skilled laboratory work was essential to the success of both investigations, and Hofmann specifically acknowledged his contribution in LSD: My Problem Child.
 
 ## Classification
 

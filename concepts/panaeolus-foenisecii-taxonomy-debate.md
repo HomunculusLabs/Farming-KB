@@ -7,7 +7,7 @@ sources: magic-mushrooms-around-the-world-gartz.md
 tags: [reference]
 ---
 
-## Panaeolus Foenisecii: The Mower's [[query-what-is-the-difference-between-psilocybin-and-psilocin]]
+## Panaeolus Foenisecii: The Mower"s [[query-what-is-the-difference-between-psilocybin-and-psilocin]]
 - Some recreational users report mild effects from large quantities
 - Its close relationship to definitively psychoactive Panaeolus species (P. cyanescens, P. subbalteatus) makes it plausible
 

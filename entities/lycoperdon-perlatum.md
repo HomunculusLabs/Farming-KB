@@ -9,7 +9,7 @@ tags: [fungi, basidiomycete, puffball, bioindicator, radionuclide]
 
 ## Description
 
-Lycoperdon perlatum, commonly known as the common puffball, gem-studded puffball, or devil's snuff-box, is a saprotrophic basidiomycete fungus in the family Agaricaceae. It is one of the most widely recognized and abundant puffball species in temperate regions worldwide. Beyond its ecological role as a decomposer, L. perlatum has gained scientific attention as a bioaccumulator of heavy metals and radionuclides, making it an important indicator species for environmental contamination monitoring.
+Lycoperdon perlatum, commonly known as the common puffball, gem-studded puffball, or devil"s snuff-box, is a saprotrophic basidiomycete fungus in the family Agaricaceae. It is one of the most widely recognized and abundant puffball species in temperate regions worldwide. Beyond its ecological role as a decomposer, L. perlatum has gained scientific attention as a bioaccumulator of heavy metals and radionuclides, making it an important indicator species for environmental contamination monitoring.
 
 ## Classification
 

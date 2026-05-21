@@ -16,7 +16,7 @@ The loss of this dietary system was, for Fukuoka, a loss of cultural identity. W
 
 ## Gratitude and Reverence
 
-At the heart of Fukuoka's philosophy of eating is gratitude. The traditional Japanese farmer made offerings of ripened rice to the gods to celebrate the fruits of autumn. This was not superstition but a genuine expression of reverence for the gifts of nature.
+At the heart of Fukuoka"s philosophy of eating is gratitude. The traditional Japanese farmer made offerings of ripened rice to the gods to celebrate the fruits of autumn. This was not superstition but a genuine expression of reverence for the gifts of nature.
 
 Modern people have lost this sense of gratitude. Food is a commodity, purchased in supermarkets, consumed without thought for its origin. This ingratitude is, for Fukuoka, both a cause and a consequence of our separation from nature.
 

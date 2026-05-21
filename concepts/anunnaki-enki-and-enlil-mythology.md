@@ -17,7 +17,7 @@ The cuneiform tablets, unearthed in the late 19th century, preserve stories that
 - **Enlil/Ilu-kur-gal**: Son of Anu, a storm-god associated with vengeance, jealousy, and control
 - **[[amanita-muscaria]] through multiple symbolic correspondences:
 
-- **Fire**: The mushroom's association with fire (both its red color and the requirement of heat processing)
+- **Fire**: The mushroom"s association with fire (both its red color and the requirement of heat processing)
 - **Gold**: The color of the dried mushroom cap
 - **Red**: The color of the fresh mushroom and its juice
 - **Female organ**: The cap's anthropomorphic representation

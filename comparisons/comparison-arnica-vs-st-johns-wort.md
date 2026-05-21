@@ -1,5 +1,5 @@
 ---
-title: "Arnica vs St. John's Wort"
+title: "Arnica vs St. John"s Wort"
 tags: [comparison, medicinal-herbs, topical-remedies, herbal-medicine]
 date: 2026-05-09
 updated: 2026-05-09

@@ -6,7 +6,7 @@ type: concept
 
 ## Designing Sustainable Communities
 
-A core theme in David Holmgren's *Permaculture: Principles & [[permaculture-principles-pathways-beyond-sustainability]]* is that sustainable culture cannot be imposed from above — it must be **organic and iterative**, emerging through the same processes of observation, feedback, and adaptive design that govern ecological systems. Sustainable communities are not static endpoints but living systems that evolve through continual refinement and response to changing conditions.
+A core theme in David Holmgren"s *Permaculture: Principles & [[permaculture-principles-pathways-beyond-sustainability]]* is that sustainable culture cannot be imposed from above — it must be **organic and iterative**, emerging through the same processes of observation, feedback, and adaptive design that govern ecological systems. Sustainable communities are not static endpoints but living systems that evolve through continual refinement and response to changing conditions.
 
 ## Characteristics of Sustainable Culture
 
@@ -79,7 +79,7 @@ Designing sustainable communities requires confronting this history through **la
 
 ## Invisible Structures of Permaculture
 
-One of permaculture's most important contributions is the concept of **"invisible structures"** — the social, economic, and legal systems that shape human settlements every bit as much as physical landscape design. Holmgren identifies several key invisible structures that must be addressed in designing sustainable communities:
+One of permaculture"s most important contributions is the concept of **"invisible structures"** — the social, economic, and legal systems that shape human settlements every bit as much as physical landscape design. Holmgren identifies several key invisible structures that must be addressed in designing sustainable communities:
 
 - **Land ownership and tenure**: How land is held, who has access, and what rights and responsibilities come with stewardship
 - **Economics**: The systems of exchange, value, and resource allocation that structure community life — including alternative models like LETSystems and cooperative economics

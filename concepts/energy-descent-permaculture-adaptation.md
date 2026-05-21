@@ -6,7 +6,7 @@ type: concept
 
 ## Energy Descent and Permaculture Adaptation
 
-Energy descent is the foundational context for David Holmgren's permaculture framework. In *Permaculture: Principles and Pathways Beyond Sustainability*, Holmgren argues that humanity stands at a unique moment in history — at the peak of global oil production, at the beginning of the end of cheap fossil energy. Rather than viewing this as a catastrophe to be avoided through technological innovation, Holmgren presents energy descent as an inevitable transition that permaculture design principles can help navigate creatively and productively.
+Energy descent is the foundational context for David Holmgren"s permaculture framework. In *Permaculture: Principles and Pathways Beyond Sustainability*, Holmgren argues that humanity stands at a unique moment in history — at the peak of global oil production, at the beginning of the end of cheap fossil energy. Rather than viewing this as a catastrophe to be avoided through technological innovation, Holmgren presents energy descent as an inevitable transition that permaculture design principles can help navigate creatively and productively.
 
 ## The Energy Descent Concept
 
@@ -34,7 +34,7 @@ The book's thesis directly inspired the **Transition Movement**, co-founded by R
 
 ### Design for Descent
 
-Permaculture's design principles, originally developed for sustainable land use, prove remarkably applicable to the challenge of energy descent. Key principles include:
+Permaculture"s design principles, originally developed for sustainable land use, prove remarkably applicable to the challenge of energy descent. Key principles include:
 
 - **Catch and store energy**: Maximise capture of renewable energy (solar, wind, biological) at every scale.
 - **Use small and slow solutions**: Prioritise low-energy, human-scale approaches over high-energy, industrial ones.
@@ -49,11 +49,11 @@ Holmgren frames permaculture as fundamentally a bottom-up approach to social cha
 
 Holmgren identifies a productive paradox at the heart of permaculture: the most radical environmental actions often appear deeply conservative. Preserving genetic diversity in heritage food varieties, maintaining traditional building techniques, protecting mature forests, and reviving local food systems are all "radical" in their implications for industrial capitalism but "conservative" in their impulse to conserve what works.
 
-## Living Within Nature's Limits
+## Living Within Nature"s Limits
 
 ### Ethical Foundations
 
-The question Holmgren poses is both practical and ethical: "Are there ways to live within nature's limits while providing a secure future for our children and justice for everyone?" This question frames energy descent not merely as a technical challenge but as a moral imperative that requires rethinking fundamental assumptions about progress, growth, and quality of life.
+The question Holmgren poses is both practical and ethical: "Are there ways to live within nature"s limits while providing a secure future for our children and justice for everyone?" This question frames energy descent not merely as a technical challenge but as a moral imperative that requires rethinking fundamental assumptions about progress, growth, and quality of life.
 
 ### The Hedonic Treadmill
 

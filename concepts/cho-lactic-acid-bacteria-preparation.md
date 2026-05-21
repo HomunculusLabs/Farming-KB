@@ -1,5 +1,5 @@
 ---
-title: Lactic lactic-acid-bacteria-knf Preparation (Cho's Method)
+title: Lactic lactic-acid-bacteria-knf Preparation (Cho"s Method)
 created: 2026-04-28
 tags: [knf, input-preparation, microorganisms]
 date: 2026-04-28

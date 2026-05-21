@@ -3,7 +3,7 @@ title: "How Do I Make Jam and Jelly at Home?"
 tags: [query, jam, jelly, food-preservation, home-canning, fruit]
 date: 2026-05-19
 updated: 2026-05-19
-sources: ['raw/papers/working-with-agar.md']
+sources: ["raw/papers/working-with-agar.md']
 ---
 
 # How Do I Make Jam and Jelly at Home?

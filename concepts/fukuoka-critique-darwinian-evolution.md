@@ -10,29 +10,29 @@ sources:
 
 ## Fukuoka Critique of Darwinian Evolution
 
-Masanobu Fukuoka presents a thorough critique of Darwin's theory of evolution in "The Road Back to Nature," arguing that it reflects a biased Western European worldview that misreads the true state of the natural world. His critique extends from biology into politics, economics, and human civilization.
+Masanobu Fukuoka presents a thorough critique of Darwin"s theory of evolution in "The Road Back to Nature," arguing that it reflects a biased Western European worldview that misreads the true state of the natural world. His critique extends from biology into politics, economics, and human civilization.
 
 ## The Missing Fossils
 
-Fukuoka begins with the empirical weakness of Darwin's theory: "Since no fossils have ever been found showing, for example, how one species evolved from the giraffe from the horse, fossils of the 'missing link' species have never been found. The lack of any evidence in support of evolution virtually negates Darwin's theory of evolution."
+Fukuoka begins with the empirical weakness of Darwin"s theory: "Since no fossils have ever been found showing, for example, how one species evolved from the giraffe from the horse, fossils of the "missing link' species have never been found. The lack of any evidence in support of evolution virtually negates Darwin's theory of evolution."
 
 ## The Intermediate Species Sink-or-Float Hypothesis
 
 Fukuoka proposes an alternative explanation for why intermediate fossils are missing. When two different organisms cross, they create tens and hundreds of offspring, each differing slightly but forming a "discontinuous continuity." Most intermediate species disappear -- either before establishing themselves, or later falling out of sorts with the environment, or from lack of fertility.
 
-His analogy: "All organisms are continuous on the ocean floor, but these are not visible to man, who sees only islands floating above the waters." Another analogy: a heavy snowfall buries all but the largest rocks and trees. "The grasses and bushes out of sight beneath the snow never come within the purview of the scientist's research."
+His analogy: "All organisms are continuous on the ocean floor, but these are not visible to man, who sees only islands floating above the waters." Another analogy: a heavy snowfall buries all but the largest rocks and trees. "The grasses and bushes out of sight beneath the snow never come within the purview of the scientist"s research."
 
 ## Against Natural Selection
 
-Fukuoka directly challenges the core of Darwinism: "Arguments that posit concepts such as natural selection through adaptation, dominance of the strong over the weak, and survival of the fittest -- which form the framework of Darwin's thought -- as being the true image of nature are mistaken."
+Fukuoka directly challenges the core of Darwinism: "Arguments that posit concepts such as natural selection through adaptation, dominance of the strong over the weak, and survival of the fittest -- which form the framework of Darwin"s thought -- as being the true image of nature are mistaken."
 
 His reasoning: "To the human observer, the lion appears stronger than the rabbit, but nature most likely sees no such difference in strength." When acacia seeds fall thickly to the ground, which will survive? "The intellect cannot tell whether it is the organism that selects nature or nature that winnows the organisms."
 
 ## The Relativistic Trap
 
-Fukuoka argues that Darwin's entire framework is a product of human relativism: "In his myopic relativistic view, man discerns superiority and inferiority and observes the process of natural selection, accepting these as facts of life in the natural world. But these 'facts' are based on standards set arbitrarily by man."
+Fukuoka argues that Darwin"s entire framework is a product of human relativism: "In his myopic relativistic view, man discerns superiority and inferiority and observes the process of natural selection, accepting these as facts of life in the natural world. But these "facts' are based on standards set arbitrarily by man."
 
-From nature's transcendent perspective, "nothing is in conflict. No distinctions are made, such as between insect pests and [[fukuoka-natural-upland-rice-minor-grains]] and [[fukuoka-critique-modern-livestock]] and [[fukuoka-critique-organic-certification]]
+From nature"s transcendent perspective, "nothing is in conflict. No distinctions are made, such as between insect pests and [[fukuoka-natural-upland-rice-minor-grains]] and [[fukuoka-critique-modern-livestock]] and [[fukuoka-critique-organic-certification]]
 
 - [[masanobu-fukuoka]]
 - [[acacia]]

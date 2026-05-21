@@ -51,7 +51,7 @@ universal dimensions of human consciousness.
 ## The Birth of Religious Awe
 
 Powell traces the numinous experience induced by psilocybin back to the
-very origins of religious consciousness. He suggests that our ancestors'
+very origins of religious consciousness. He suggests that our ancestors"
 primeval encounters with entheogenic species were the original source of
 religious awe and wonder. The medieval witches who used psychoactive
 fungi to induce numinous states of awareness, the Aztec priests who

@@ -33,7 +33,7 @@ The lack of clinical safety data makes 2-FDCK riskier than well-characterized di
 
 The compound is structurally identical to ketamine except for the 2-fluoro substitution replacing the 2-chloro group. This seemingly minor change produces meaningful differences in pharmacokinetics and [[methoxetamine]]. By blocking NMDA-mediated glutamate signaling, it produces dissociation, analgesia, and perceptual distortions.
 
-The fluorine substitution may affect the compound's metabolic stability compared to ketamine. Preliminary evidence suggests 2-FDCK has a longer duration of action, potentially due to slower hepatic metabolism.
+The fluorine substitution may affect the compound"s metabolic stability compared to ketamine. Preliminary evidence suggests 2-FDCK has a longer duration of action, potentially due to slower hepatic metabolism.
 
 Onset of effects is typically 5–15 minutes via insufflation and 20–40 minutes orally. Total duration ranges from 2–5 hours, significantly longer than ketamine's typical 45–90 minute duration.
 

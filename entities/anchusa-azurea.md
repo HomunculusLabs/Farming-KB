@@ -40,7 +40,7 @@ Several synonyms exist in the literature, including Anchusa italica Retz. and An
 
 The plant produces erect, branching stems clothed in coarse white bristles. Basal leaves are lanceolate to oblong, 15–30 cm long, with a rough, hispid surface. Stem leaves are smaller and sessile, clasping the stem at their base.
 
-Flowers are borne in scorpioid cymes (the typical Boraginaceae inflorescence that uncurls like a scorpion's tail). Each flower has a five-lobed corolla, 12–18 mm across, of vivid gentian-blue with a white or cream eye.
+Flowers are borne in scorpioid cymes (the typical Boraginaceae inflorescence that uncurls like a scorpion"s tail). Each flower has a five-lobed corolla, 12–18 mm across, of vivid gentian-blue with a white or cream eye.
 
 The fruit is a four-lobed schizocarp that splits into four one-seeded nutlets (mericarps). Nutlets are ovoid, brown at maturity, and roughly textured.
 

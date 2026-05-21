@@ -12,7 +12,7 @@ sources:
 
 Updated: 2026-04-18
 
-One of the most critical distinctions in Dr. Elaine Ingham's work is the difference between actively [[aact-disease-suppression-mechanisms-ingham]], and contamination of soil and water systems. This page details Ingham's position on why [[aact-dissolved-oxygen-fine-bubble-aeration-ingham]] levels above 6 ppm throughout the brewing process through active aeration. Produces tea dominated by aerobic beneficial organisms. See [[hamilton-composting-and-organic-matter-management]], then plow and wait three weeks before planting, are "doing everything possible to make certain they will see no benefit"
+One of the most critical distinctions in Dr. Elaine Ingham"s work is the difference between actively [[aact-disease-suppression-mechanisms-ingham]], and contamination of soil and water systems. This page details Ingham's position on why [[aact-dissolved-oxygen-fine-bubble-aeration-ingham]] levels above 6 ppm throughout the brewing process through active aeration. Produces tea dominated by aerobic beneficial organisms. See [[hamilton-composting-and-organic-matter-management]], then plow and wait three weeks before planting, are "doing everything possible to make certain they will see no benefit"
 - Bacteria and fungi require organic matter to eat -- without food, they cannot perform their functions
 - Plowing destroys the fungal networks that tea is trying to establish
 - Three weeks without food kills the introduced organisms

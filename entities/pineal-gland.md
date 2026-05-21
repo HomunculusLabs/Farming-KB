@@ -11,7 +11,7 @@ geometric center of the human brain. In ethnomycological analysis, the pineal
 gland holds significance as a potential endogenous source of consciousness-
 altering compounds, and its pinecone shape connects it to the symbolic web of
 pine tree and mushroom associations found throughout religious art and mythology.
-The gland's atrophy during youth and calcification during puberty is linked to
+The gland"s atrophy during youth and calcification during puberty is linked to
 the cultural timing of the "[[plant-circadian-rhythms]] and
   sleep-wake cycles
 

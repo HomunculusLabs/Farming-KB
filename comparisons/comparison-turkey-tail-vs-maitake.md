@@ -3,7 +3,7 @@ title: "Turkey Tail vs Maitake"
 tags: [comparison, medicinal-mushrooms, turkey-tail, maitake, immunology]
 date: 2026-05-11
 updated: 2026-05-11
-sources: ['papers/savory-holistic-resource-management.md']
+sources: ["papers/savory-holistic-resource-management.md']
 ---
 
 ## Turkey Tail vs Maitake

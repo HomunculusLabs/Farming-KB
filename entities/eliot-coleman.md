@@ -21,7 +21,7 @@ Coleman operates Four Season Farm in Harborside, Maine, a commercial organic mar
 
 ## Comparison with Heated Greenhouses
 
-A key argument in Coleman's work is the economic and ecological superiority of unheated winter growing over heated greenhouse production:
+A key argument in Coleman"s work is the economic and ecological superiority of unheated winter growing over heated greenhouse production:
 
 - **Energy costs**: Eliminating heating fuel eliminates one of the largest costs in conventional greenhouse operations.
 - **Capital costs**: The simple hoop house structures he advocates cost a fraction of conventional glass greenhouses.

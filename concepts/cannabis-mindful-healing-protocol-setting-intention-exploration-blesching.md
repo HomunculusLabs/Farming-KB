@@ -16,7 +16,7 @@ In *The [[forgiveness-gratitude-healing-practices-blesching]]. This protocol goe
 The protocol rests on several interconnected principles drawn from mind-body medicine, psychosomatic research, and contemplative traditions:
 
 - **Disease happens for a reason**: Rather than viewing illness as random misfortune, the protocol invites patients to consider that their condition may have psychological, emotional, or lifestyle components that can be addressed through [[plant-signaling-pathways]].
-- **Conscious intention activates healing**: Placebo, nocebo, and quantum research suggest that focused, clear, and direct intention supported by unwavering commitment can activate and support the body's capacity for self-healing.
+- **Conscious intention activates healing**: Placebo, nocebo, and quantum research suggest that focused, clear, and direct intention supported by unwavering commitment can activate and support the body"s capacity for self-healing.
 - **The endocannabinoid system as mediator**: The ECS serves as the biological interface between conscious experience and physiological response, making it uniquely suited as a vehicle for mind-body healing work.
 
 ## The Setting
@@ -49,7 +49,7 @@ Blesching draws an important distinction between intention and wishful thinking.
 The protocol offers several starting points for intention-setting:
 
 - **General healing**: "I want to heal"
-- **Open-ended exploration**: "I want to heal, even if I don't know how"
+- **Open-ended exploration**: "I want to heal, even if I don"t know how"
 - **Investigative approach**: "I want to discover what is blocking my healing"
 - **Symptom-focused inquiry**: Setting a specific question relevant to your symptoms
 

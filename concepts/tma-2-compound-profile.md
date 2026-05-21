@@ -15,7 +15,7 @@ TMA-2 (PIHKAL #158) is one of the most significant discoveries in the history of
 
 ## The Asarone Connection
 
-TMA-2's natural precursor, asarone, occurs in three isomeric forms found in [[sweet-flag-acorus-calamus-ethnobotany]], sweet flag):
+TMA-2"s natural precursor, asarone, occurs in three isomeric forms found in [[sweet-flag-acorus-calamus-ethnobotany]], sweet flag):
 
 - **Alpha-asarone** — the trans-propenyl isomer
 - **Beta-asarone** — the cis-propenyl isomer

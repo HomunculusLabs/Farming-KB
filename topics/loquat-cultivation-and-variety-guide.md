@@ -12,19 +12,19 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-- "Lin, S.Q., & Sharpe, R.H. (2002). 'Loquat: Botany, Production and Uses.' CABI
+- "Lin, S.Q., & Sharpe, R.H. (2002). "Loquat: Botany, Production and Uses.' CABI
   Publishing."
-- "Shaw, P.E., & Chan, H.T. (1995). 'Loquat (Eriobotrya japonica Lindl.).' In:
+- "Shaw, P.E., & Chan, H.T. (1995). "Loquat (Eriobotrya japonica Lindl.).' In:
   Tropical and Subtropical Fruits. AgScience."
-- "Gisbert, A.D., et al. (2009). 'Loquat: a crop with potential for the
+- "Gisbert, A.D., et al. (2009). "Loquat: a crop with potential for the
   improvement of horticulture.' Fruits, 64(3), 157–176."
-- "Ferreres, F., et al. (2009). 'New approach to the flavonoid profile of loquat
+- "Ferreres, F., et al. (2009). "New approach to the flavonoid profile of loquat
   (Eriobotrya japonica) fruits.' J. Agric. Food Chem., 57(18), 8522–8528."
-- "Ercisli, S., & Orhan, E. (2007). 'chemical-composition-of-hallucinogens white (Morus alba)
+- "Ercisli, S., & Orhan, E. (2007). "chemical-composition-of-hallucinogens white (Morus alba)
   and dark (Morus nigra) mulberry fruits.' Food Chemistry, 100(3), 984–988."
-- "Polat, A.A., et al. (2005). 'Loquat growing in Turkey.' Acta Horticulturae,
+- "Polat, A.A., et al. (2005). "Loquat growing in Turkey.' Acta Horticulturae,
   673, 45–51."
-- "Liu, Y., et al. (2016). 'Loquat: An emerging fruit crop with medicinal and
+- "Liu, Y., et al. (2016). "Loquat: An emerging fruit crop with medicinal and
   nutritional values.' Journal of Food and Drug Analysis, 24(1), 1–10."
 - "U.S. Department of Agriculture — Natural Resources Conservation Service:
   Eriobotrya japonica Plant Profile"

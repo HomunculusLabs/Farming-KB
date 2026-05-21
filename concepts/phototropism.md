@@ -23,7 +23,7 @@ direct consequence of photosynthesis or whether it represented a separate,
 dedicated light-sensing system. This distinction was crucial for understanding
 whether plants had true sensory capabilities beyond mere energy harvesting.
 
-## Darwin's Pioneering Experiments
+## Darwin"s Pioneering Experiments
 
 For the twenty years following his publication of *On the Origin of Species*,
 Charles Darwin conducted experiments on plant movement that still influence

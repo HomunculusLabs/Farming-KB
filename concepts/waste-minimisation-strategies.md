@@ -8,7 +8,7 @@ type: concept
 
 ## Waste as Potential Abundance
 
-In natural systems, waste does not truly exist as a dead end. Over time, any unused resource becomes an energy source for something else through the processes of co-evolution, limits on available energy, biodiversity, and competitive pressure. What one organism discards, another organism or process transforms into fuel for growth. This principle underpins [[permaculture]]'s approach to waste: it is not an inevitable byproduct of living but a sign of broken or incomplete systems thinking.
+In natural systems, waste does not truly exist as a dead end. Over time, any unused resource becomes an energy source for something else through the processes of co-evolution, limits on available energy, biodiversity, and competitive pressure. What one organism discards, another organism or process transforms into fuel for growth. This principle underpins [[permaculture]]"s approach to waste: it is not an inevitable byproduct of living but a sign of broken or incomplete systems thinking.
 
 Traditional pre-industrial societies operated with minimal waste. Materials, food scraps, and organic matter cycled continuously through household and community systems. The industrial era's abundance of cheap energy broke these cycles, making it economically rational — in the short term — to discard materials rather than find further uses for them. As energy descent progresses, the economic calculus shifts back toward reuse, making waste minimisation not merely an ethical stance but a practical necessity.
 

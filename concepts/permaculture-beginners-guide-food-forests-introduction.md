@@ -12,7 +12,7 @@ sources: ["raw/papers/permaculture-beginners-guide.md"]
 
 Burnett introduces forest gardens through the principle of stacking — the observation that nature does not neatly compartmentalize landscapes. Unlike conventional gardens where ornamentals, vegetables, and fruit trees each occupy separate areas, natural woodland layers multiple plant types in the same space.
 
-> "In woodland several plants such as standard and half standard trees, shrubs, climbers and ground cover occupy the same area of space, each 'stacked' to find its own requirements within its particular 'level' in the system. The Forest Garden is an attempt to replicate this 'layering', replacing the wild plants of the woodland with fruits, herbs, vegetables and other plants that are useful to peoplekind."
+> "In woodland several plants such as standard and half standard trees, shrubs, climbers and ground cover occupy the same area of space, each "stacked' to find its own requirements within its particular 'level' in the system. The Forest Garden is an attempt to replicate this 'layering', replacing the wild plants of the woodland with fruits, herbs, vegetables and other plants that are useful to peoplekind."
 
 ## Why Forest Gardens Work
 
@@ -45,7 +45,7 @@ This substitution maintains the ecosystem structure and functions while redirect
 
 Burnett contrasts monoculture and polyculture through the lens of resilience:
 
-> "If we give all of our land over to one crop (a monoculture) and it fails, we starve... but if we grow as wide and diverse a range of edible plants as possible (a polyculture), we still get to eat if some of them don't make it to harvest."
+> "If we give all of our land over to one crop (a monoculture) and it fails, we starve... but if we grow as wide and diverse a range of edible plants as possible (a polyculture), we still get to eat if some of them don"t make it to harvest."
 
 A forest garden is the ultimate polyculture — dozens or hundreds of species growing together, each with different requirements, different pest vulnerabilities, different harvest times, and different responses to weather conditions. If one species fails in a given year, the others compensate.
 

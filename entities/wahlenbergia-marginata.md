@@ -47,7 +47,7 @@ Wahlenbergia marginata has an exceptionally wide distribution spanning eastern a
 
 The species grows in a variety of habitats including grasslands, open woodlands, rocky outcrops, cliff faces, and disturbed sites. It tolerates a range of soil types from sandy loams to heavy clays.
 
-Elevational range extends from near sea level to approximately 2000 m in montane areas of Southeast Asia. This broad altitudinal tolerance reflects the species' adaptability to diverse climatic conditions.
+Elevational range extends from near sea level to approximately 2000 m in montane areas of Southeast Asia. This broad altitudinal tolerance reflects the species" adaptability to diverse climatic conditions.
 
 In Australia, it is particularly common in the southeastern highlands and along the Great Dividing Range. Populations in tropical northern Australia are more scattered and associated with higher-elevation refugia.
 

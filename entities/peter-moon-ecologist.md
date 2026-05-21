@@ -9,7 +9,7 @@ tags: [people, ecologist, biodiversity, permaculture]
 
 ## Description
 
-Peter Moon is an ecological researcher cited by [[permaculture]]: A Designers' Manual*. Moon published work in *New Scientist* (28 February 1985) differentiating key measures of ecological community structure: richness, diversity, and evenness. His framework provides permaculture designers with a more nuanced understanding of how species composition relates to ecosystem function, challenging the simplistic assumption that "more species equals better stability."
+Peter Moon is an ecological researcher cited by [[permaculture]]: A Designers" Manual*. Moon published work in *New Scientist* (28 February 1985) differentiating key measures of ecological community structure: richness, diversity, and evenness. His framework provides permaculture designers with a more nuanced understanding of how species composition relates to ecosystem function, challenging the simplistic assumption that "more species equals better stability."
 
 ## Classification
 

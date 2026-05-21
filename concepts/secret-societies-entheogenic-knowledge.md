@@ -18,7 +18,7 @@ Secret societies operate on a principle of tiered knowledge access. Information 
 
 ### Oaths of Secrecy
 
-The binding nature of oaths prevents even willing initiates from discussing what they know. High Priests and Bishops (identified as Secret Society Initiates) have reportedly confirmed knowledge of entheogenic sacraments but refused to discuss them further due to vows of secrecy. The reaction described when a layman demonstrates knowledge of these secrets is one of shock and fear — not because the information is wrong, but because it threatens the deepest foundations of the initiate's spiritually conditioned identity.
+The binding nature of oaths prevents even willing initiates from discussing what they know. High Priests and Bishops (identified as Secret Society Initiates) have reportedly confirmed knowledge of entheogenic sacraments but refused to discuss them further due to vows of secrecy. The reaction described when a layman demonstrates knowledge of these secrets is one of shock and fear — not because the information is wrong, but because it threatens the deepest foundations of the initiate"s spiritually conditioned identity.
 
 ### The Catch-22 of Revelation
 
@@ -61,7 +61,7 @@ The increasing preaching of "morality" by politicians is interpreted as evidence
 
 The control of human sexuality is identified as a foundational mechanism of social control:
 
-- "If you can control a person's sexuality you can get them to believe anything"
+- "If you can control a person"s sexuality you can get them to believe anything"
 - Government enforces [[eleusinian-mysteries-psychoactive-fungi-western-civilization]]**
 
 ### Characteristics of Patriarchal Control

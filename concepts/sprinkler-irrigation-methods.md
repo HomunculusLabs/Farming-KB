@@ -12,7 +12,7 @@ For gardens that depend on regular irrigation — whether intensively planted be
 
 Many gardeners wet down their gardens almost daily with a hose nozzle because they want to make sure the beds seem moist. What actually happens is that the surface inches stay damp but the gardener never discovers that, deeper down, the soil has become increasingly dry. Under these conditions, vegetables will not wilt because they are finding water in the surface layer, but they will become severely stunted due to lack of root development.
 
-## John Jeavons' "Sparkle Test"
+## John Jeavons" "Sparkle Test"
 
 [[john-jeavons]], the popularizer of intensive gardening in North America, recommends using a fan nozzle daily, continuing on each bed until the entire surface "sparkles" (becomes shiny wet).
 

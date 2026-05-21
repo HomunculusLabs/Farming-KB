@@ -11,7 +11,7 @@ sources: ["papers/mckenna_t-food_of_the_gods.md"]
 
 ## The Archaic Techniques of Ecstasy
 
-Shamanism was beautifully defined by Mircea Eliade as "the archaic techniques of ecstasy." Eliade's use of the term "archaic" is important because it alerts us to the role that shamanism must play in any authentic revival of vital Archaic forms of being, living, and understanding.
+Shamanism was beautifully defined by Mircea Eliade as "the archaic techniques of ecstasy." Eliade"s use of the term "archaic" is important because it alerts us to the role that shamanism must play in any authentic revival of vital Archaic forms of being, living, and understanding.
 
 The shaman gains entrance into a world that is hidden from those who dwell in ordinary reality. In this other dimension lurk powers both helpful and malevolent. Its rules are not the rules of our world; they are more like the rules that operate in myth and dream.
 

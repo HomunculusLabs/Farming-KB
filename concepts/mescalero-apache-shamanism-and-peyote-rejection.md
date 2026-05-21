@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-The [[mescalero-apache]] of New Mexico present a unique and instructive case in the anthropological study of [[hallucinogenic-drugs]] and shamanism: they are a society that **adopted peyote** for use in shamanistic rituals and subsequently **abandoned and proscribed it** after it produced serious social conflict. This case demonstrates that the adoption of a hallucinogenic substance into religious practice is not irreversible, and that the social consequences of such adoption depend critically on the interaction between the drug's pharmacological effects and the pre-existing personality structure and cultural dynamics of the adopting society.
+The [[mescalero-apache]] of New Mexico present a unique and instructive case in the anthropological study of [[hallucinogenic-drugs]] and shamanism: they are a society that **adopted peyote** for use in shamanistic rituals and subsequently **abandoned and proscribed it** after it produced serious social conflict. This case demonstrates that the adoption of a hallucinogenic substance into religious practice is not irreversible, and that the social consequences of such adoption depend critically on the interaction between the drug"s pharmacological effects and the pre-existing personality structure and cultural dynamics of the adopting society.
 
 ## Historical Background
 
@@ -49,7 +49,7 @@ A critical factor in the failure of peyote among the Mescalero was a **fundament
 **In ordinary shamanistic practice:**
 - A single shaman is the central figure
 - The experiences of attendants are subordinate
-- Religious ecstasy, visions, and communications with supernaturals are the **shaman's exclusive prerogatives**
+- Religious ecstasy, visions, and communications with supernaturals are the **shaman"s exclusive prerogatives**
 - These experiences validate the shaman's unique power and efficacy
 
 **In peyote ceremonies:**
@@ -73,7 +73,7 @@ This outcome stands in stark contrast to the usual pattern of "amiable, harmonio
 
 The antagonisms became so severe that the peyote gatherings were ultimately abandoned. Peyote itself was identified as the cause of the disruption, and its ingestion became equated with the potential for witchcraft. Unlike many other Native American groups, the Mescaleros never became involved in the Peyote Religion (the [[native-american-church]]), and the use of peyote was not accompanied by the acceptance of Christian beliefs and practices.
 
-**Peyote power is unique among the Mescaleros** in that it is uniformly considered to be **bad** — an exception to the general Apache principle that power has no intrinsic moral quality. Some Mescaleros believe that one other power, the owl, is also intrinsically evil, but opinions on the owl vary (it may be a witch, a ghost-inhabited creature, or the bearer of a human witch's power).
+**Peyote power is unique among the Mescaleros** in that it is uniformly considered to be **bad** — an exception to the general Apache principle that power has no intrinsic moral quality. Some Mescaleros believe that one other power, the owl, is also intrinsically evil, but opinions on the owl vary (it may be a witch, a ghost-inhabited creature, or the bearer of a human witch"s power).
 
 ### Post-Peyote Shamanism
 
@@ -87,7 +87,7 @@ The consequences of continued peyote use were understood to be punitive: while t
 
 The Boyer research team identified a pattern of child-rearing practices that profoundly shapes Apache personality:
 
-**Maternal inconsistency**: Gross inconsistency characterizes the care of young children. The baby of the family may receive tender, loving care, but the mother periodically and impulsively abandons the infant to the supervision of others — sometimes children as young as four or five — for hours or days while she pursues narcissistic activities, commonly involving drinking. The husband's attention is no more constant.
+**Maternal inconsistency**: Gross inconsistency characterizes the care of young children. The baby of the family may receive tender, loving care, but the mother periodically and impulsively abandons the infant to the supervision of others — sometimes children as young as four or five — for hours or days while she pursues narcissistic activities, commonly involving drinking. The husband"s attention is no more constant.
 
 **Abrupt weaning and displacement**: With the birth of a new baby (typically when the previous child is 18-24 months old), the older child is abruptly and often brutally displaced. The resultant sibling rivalry is intense but strongly culturally disapproved, leading to insecure repression.
 

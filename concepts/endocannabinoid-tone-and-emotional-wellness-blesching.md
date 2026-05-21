@@ -11,7 +11,7 @@ tags:
 Blesching identifies **Clinical Endocannabinoid Deficiency (CED)** as an
 underlying factor in several chronic conditions. Low tone manifests as:
 
-- **Anxiety** — diminished anandamide reduces the brain's ability to dampen
+- **Anxiety** — diminished anandamide reduces the brain"s ability to dampen
   fear responses in the amygdala.
 - **Depression** — blunted signaling correlates with reduced hedonic capacity
   and motivational drive.

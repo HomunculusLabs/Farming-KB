@@ -7,7 +7,7 @@ tags: [person, physician, researcher, amanita-mappa, alkaloid, france]
 
 ## Overview
 
-Dr. Currie was a 19th-century French physician who, along with Dr. Vigier in 1868, worked to isolate the toxic alkaloid from [[amanita-mappa]] (now Amanita citrina, the false death cap). He also proposed [[psilocybin-therapeutic-applications]] for Amanita alkaloids and was preparing to publish results of his therapeutic research at the time of Palmer's writing.
+Dr. Currie was a 19th-century French physician who, along with Dr. Vigier in 1868, worked to isolate the toxic alkaloid from [[amanita-mappa]] (now Amanita citrina, the false death cap). He also proposed [[psilocybin-therapeutic-applications]] for Amanita alkaloids and was preparing to publish results of his therapeutic research at the time of Palmer"s writing.
 
 ## Key Work
 

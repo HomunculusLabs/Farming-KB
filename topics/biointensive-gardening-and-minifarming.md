@@ -97,7 +97,7 @@ demonstrated that deep cultivation, intensive composting, and close
 plant spacing could produce extraordinary results. His passionate
 advocacy inspired a generation of gardeners.
 
-John Jeavons encountered Chadwick's work at Santa Cruz in the early
+John Jeavons encountered Chadwick"s work at Santa Cruz in the early
 1970s and began systematically researching and quantifying the
 approach. He founded Ecology Action in 1972 and established a research
 farm in Willits, California, to determine the minimum land and

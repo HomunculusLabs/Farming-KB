@@ -53,7 +53,7 @@ Several observations complicate straightforward brix interpretation:
 
 **Scenario 1 — The plant is already healthy:** A plant with adequate nutrients may not show elevated brix simply because it does not need additional sugars mobilized. In this case, normal brix could indicate optimal health, not deficiency.
 
-**Scenario 2 — The immune response hypothesis:** Elevated sugar might represent the plant's "immune reaction" to something applied to it. The sugar increase shows the plant is capable of responding, not necessarily that it is healthier. A non-sick plant that can't respond would show no brix change.
+**Scenario 2 — The immune response hypothesis:** Elevated sugar might represent the plant"s "immune reaction" to something applied to it. The sugar increase shows the plant is capable of responding, not necessarily that it is healthier. A non-sick plant that can't respond would show no brix change.
 
 **Scenario 3 — Sugar conversion:** If brix drops, it could indicate the plant is converting sugars to other needed materials (proteins, structural compounds, defensive compounds). The drop might mean the plant is actively metabolizing, not declining.
 

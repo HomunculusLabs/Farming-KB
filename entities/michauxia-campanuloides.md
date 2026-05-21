@@ -6,7 +6,7 @@ category: species
 family: Campanulaceae
 genus: Michauxia
 common_names:
-  - Michaux's bellflower
+  - Michaux"s bellflower
   - Rough bellflower
   - Syrian bellflower
 native_range:

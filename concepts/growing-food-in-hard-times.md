@@ -29,7 +29,7 @@ During the fat years (1980s-2000s), intensive raised-bed gardening became the st
 - They rely on abundant water for irrigation
 - They waste money building soil fertility to excessive levels, which actually lowers the nutritional quality of vegetables
 
-## Solomon's Alternative Approach
+## Solomon"s Alternative Approach
 
 The method Solomon advocates is based on his experience running Territorial Seed Company and conducting variety trials, where he discovered:
 

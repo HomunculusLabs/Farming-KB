@@ -45,7 +45,7 @@ The Trikaya (Sanskrit: "Three Bodies") doctrine is a fundamental teaching of Mah
 
 ### Esoteric Correspondences
 - The Tri-Kaya corresponds to the exoteric trinity of: Buddha, Scriptures, and Priesthood
-- In Leary's psychedelic context: your own divinity, this manual, and your companions
+- In Leary"s psychedelic context: your own divinity, this manual, and your companions
 - Lama Kazi Dawa-Samdup held that the Adi-Buddha and all Dharma-Kaya deities are not personal deities but personifications of primordial universal forces and spiritual influences
 
 ## Relevance to Cultivation and Mycology

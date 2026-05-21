@@ -14,13 +14,13 @@ sources:
 
 ## Overview
 
-The qualitative reports for MDMA in PiHKAL are among the most extensive and carefully documented in the entire book, reflecting MDMA's central importance in Shulgin's work. These reports reveal a distinctive phenomenological profile that differs markedly from both classical psychedelics and simple stimulants.
+The qualitative reports for MDMA in PiHKAL are among the most extensive and carefully documented in the entire book, reflecting MDMA"s central importance in Shulgin's work. These reports reveal a distinctive phenomenological profile that differs markedly from both classical psychedelics and simple stimulants.
 
 ## The Defining Paradox: "Nothing Happened"
 
-The most frequently cited qualitative observation about MDMA is paradoxical. When asked what MDMA was like, users consistently answered: "I don't know" and "Nothing." Shulgin captured this:
+The most frequently cited qualitative observation about MDMA is paradoxical. When asked what MDMA was like, users consistently answered: "I don"t know" and "Nothing." Shulgin captured this:
 
-"MDMA intrigued me because everyone I asked, who had used it, answered the question, 'What's it like?' in the same way: 'I don't know.' 'What happened?' 'Nothing.' And now I understand those answers. I too think nothing happened. But something seemed changed."
+"MDMA intrigued me because everyone I asked, who had used it, answered the question, "What's it like?' in the same way: 'I don't know.' 'What happened?' 'Nothing.' And now I understand those answers. I too think nothing happened. But something seemed changed."
 
 This "nothing happened" quality reflects MDMA's unique profile: it typically does not produce dramatic visual effects, perceptual distortions, or cognitive alterations obvious enough to describe. Instead, the effects are primarily in the realm of [[mdma-in-pihkal-context]]
 - [[phenethylamine-set-and-setting]]

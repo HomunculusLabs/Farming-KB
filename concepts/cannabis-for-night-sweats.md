@@ -18,7 +18,7 @@ Night sweats may reflect subconscious processes that "heat up" during sleep when
 - Unprocessed emotions or trauma that surface during sleep
 - Anxiety about health, mortality, or life circumstances
 - Grief processing that occurs during the vulnerable sleep state
-- "Night sweats" can represent the body's attempt to "cool down" emotional intensity
+- "Night sweats" can represent the body"s attempt to "cool down" emotional intensity
 
 Addressing underlying emotional distress through therapy, meditation, or other mind-body approaches may complement cannabinoid therapy.
 

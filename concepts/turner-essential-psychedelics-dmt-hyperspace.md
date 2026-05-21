@@ -10,7 +10,7 @@ tags: [dmt, psychedelics]
 
 ## DMT Hyperspace
 
-D.M. Turner's chapter "DMT -- Candy for the Mind" provides one of the most vivid
+D.M. Turner"s chapter "DMT -- Candy for the Mind" provides one of the most vivid
 first-person accounts of the [[mckenna-tryptamine-endogenous-dmt-pineal-gland-theory]] -- correlated to
 the "3rd eye" or Ajna Chakra. Turner suggests that meditative states attained by
 yogis concentrating on the 3rd eye may result from increased DMT levels. DMT
@@ -23,7 +23,7 @@ The [[extraterrestrial-contact-and-dmt-experience]] comes on within about 30 sec
 mcg acid trip. At this point one is typically completely out of body and unaware
 of physical surroundings. The intense peak lasts only 2-5 minutes, with total
 return to normal consciousness in about 30 minutes for N,N-DMT. In the 1960s,
-DMT was called "The businessman's lunch trip."
+DMT was called "The businessman"s lunch trip."
 
 ## The Hyperspace Experience
 
@@ -103,7 +103,7 @@ else. The detail and intricacy of the patterns and brilliance of the colors is
 unsurpassable. The visuals are a mixture of kaleidoscopic-geometric forms,
 archetypal symbols, and outlandish images of people, places, and things. The
 images "move" and are arranged in a manner different from traditional
-psychedelics, in keeping with N,N-DMT's enchanting nature.
+psychedelics, in keeping with N,N-DMT"s enchanting nature.
 
 A friend's description of 20 mg doses: "Brilliantly changing latticework becomes
 apparent within. A gooey liquid of phosphorescent brilliance knits itself into
@@ -111,7 +111,7 @@ neon lattices of emerald green and iridescent blue against a molten gold
 background. Always changing, always new, always novel, these geometric storms of
 shape and color never cease to amaze me."
 
-Another friend on a full dose: "Millions of brilliantly colored little 'skull
+Another friend on a full dose: "Millions of brilliantly colored little "skull
 clowns' swarmed me... laughing most musically as I died in the light... to a
 place of jeweled coiling roots and capillaries, swaying endlessly in a gem lit
 sea... a Creative, God-Thing with a trillion jeweled eyes that dissolves into

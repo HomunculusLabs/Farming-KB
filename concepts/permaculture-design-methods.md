@@ -62,7 +62,7 @@ Execute the design in priority order. Document the process — what was planted 
 Regular care of the system: pruning, mulching, harvesting, feeding animals, managing water systems.
 
 ### Evaluate and Tweak
-Periodically review the system's performance. Are yields meeting expectations? Are problems emerging? Adjust the design based on feedback. This closes the loop and connects back to observation.
+Periodically review the system"s performance. Are yields meeting expectations? Are problems emerging? Adjust the design based on feedback. This closes the loop and connects back to observation.
 
 ## Random Assembly
 

@@ -22,7 +22,7 @@ People care recognizes that sustainable systems must also meet human needs — p
 ### Fair Share (Return of Surplus)
 Also called "limits to growth and redistribution of surplus," this ethic completes the triad. Once earth and people are cared for, surplus should be shared. This reinvests energy back into the system: sharing seeds, knowledge, food, and resources with the community. It also implies setting limits on personal consumption so others — including future generations — have enough.
 
-## Holmgren's 12 Design Principles
+## Holmgren"s 12 Design Principles
 
 David Holmgren articulated 12 principles that function as thinking tools for design. They are not rigid rules but lenses through which to evaluate and refine any system.
 

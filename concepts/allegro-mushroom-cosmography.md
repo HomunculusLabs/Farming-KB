@@ -12,7 +12,7 @@ sources:
 
 Allegro reveals that [[allegro-dead-sea-scrolls-and-early-christian-sects]] basin, the bowels of the earth.
 
-This gorge was the original "valley of the shadow of death" (Psalm 23:4). The real meaning of the Sumerian original is "way of birth" — "birth canal." The Psalmist's concern that his shepherd-god should guide him by "rod and staff" through the valley takes on new meaning: as a baby needs the midwife's firm hand pressed through the vagina, so the mystic needed God's guidance through the experience of re-birth.
+This gorge was the original "valley of the shadow of death" (Psalm 23:4). The real meaning of the Sumerian original is "way of birth" — "birth canal." The Psalmist"s concern that his shepherd-god should guide him by "rod and staff" through the valley takes on new meaning: as a baby needs the midwife"s firm hand pressed through the vagina, so the mystic needed God's guidance through the experience of re-birth.
 
 The Arabs call the valley the Wady of Fire. It debouches onto the Dead Sea, the nearest point on the world's surface to the generative furnaces of mother earth's womb. Later theologians identified this with hell-fire, having little to do with the original fertility concept.
 

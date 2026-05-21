@@ -7,7 +7,7 @@ tags: [planting, calendar, succession, winter-harvest, scheduling, coleman, fall
 
 ## Multi-Site Fall Sowing Schedule for Winter Harvest
 
-Eliot Coleman's winter harvest system relies on precise, staggered sowings across multiple growing environments. The core principle is that as daylight diminishes after the autumn equinox, plant growth slows dramatically. By the winter solstice (around December 21), most cold-hardy vegetables enter a state of semi-hibernation, only to resume growth as days lengthen again in late January. This means **everything harvested between November and March must reach harvestable size before the Persephone Period begins**.
+Eliot Coleman"s winter harvest system relies on precise, staggered sowings across multiple growing environments. The core principle is that as daylight diminishes after the autumn equinox, plant growth slows dramatically. By the winter solstice (around December 21), most cold-hardy vegetables enter a state of semi-hibernation, only to resume growth as days lengthen again in late January. This means **everything harvested between November and March must reach harvestable size before the Persephone Period begins**.
 
 ## The Four Growing Sites
 

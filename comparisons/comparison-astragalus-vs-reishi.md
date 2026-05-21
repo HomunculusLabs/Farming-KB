@@ -3,7 +3,7 @@ title: "Astragalus vs Reishi"
 tags: [comparison, adaptogen, immunomodulator, medicinal-herbs, traditional-medicine]
 date: 2026-05-10
 updated: 2026-05-10
-sources: ['papers/cancer-medicinal-mushrooms-immune-modulation-beta-glucans|cancer-treatments-medicinal-mushrooms.md']
+sources: ["papers/cancer-medicinal-mushrooms-immune-modulation-beta-glucans|cancer-treatments-medicinal-mushrooms.md']
 ---
 
 ## Astragalus vs Reishi

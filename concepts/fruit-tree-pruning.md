@@ -113,7 +113,7 @@ Performed during the active growing season when trees are in full leaf.
 - Thinning crowded growth to improve light penetration
 - Controlling tree size and vigor
 - Training espalier and cordons
-- Directing growth for next year's fruit production
+- Directing growth for next year"s fruit production
 
 **Advantages**:
 - Slows growth of pruned branches (unlike dormant pruning, which stimulates growth)

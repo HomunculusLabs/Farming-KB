@@ -39,7 +39,7 @@ E. purpureum is native to [[hamilton-vegetative-propagation]] method for maintai
 
 Plants should be spaced 90–120 cm apart to accommodate their mature spread of 90–150 cm. They require consistent moisture during establishment but become moderately drought-tolerant once the deep root system develops.
 
-Popular cultivars include 'Little Red' (compact, 120 cm), 'Little Joe' (dwarf, 90 cm), and 'Gateway' (robust, deep pink flowers). These selections are valued for their improved garden performance compared to the wild-type species.
+Popular cultivars include "Little Red' (compact, 120 cm), 'Little Joe' (dwarf, 90 cm), and 'Gateway' (robust, deep pink flowers). These selections are valued for their improved garden performance compared to the wild-type species.
 
 The plant is largely pest-free and unpalatable to deer and rabbits. [[query-how-to-read-cannabis-trichomes-for-the-perfect-harvest-time]], location, and plant part.
 

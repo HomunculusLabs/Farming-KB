@@ -1,5 +1,5 @@
 ---
-title: "Endogenous DMT and Pineal Gland Theory - McKenna's Tryptamine Hypothesis"
+title: "Endogenous DMT and Pineal Gland Theory - McKenna"s Tryptamine Hypothesis"
 created: 2026-04-26
 updated: "2026-04-24"
 sources:
@@ -10,13 +10,13 @@ tags: [dmt, tryptamine]
 
 ## Endogenous DMT and Pineal Gland Theory
 
-McKenna's discussion of endogenous DMT in "[[mckenna-archaic-revival-four-part-structure-paradise-paradise-lost-hell-regained]], 1992) provides a critical pharmacological argument: that DMT is not foreign to the human body but is naturally produced within it. This observation underpins much of his broader argument about the relationship between tryptamine hallucinogens and the fundamental nature of consciousness. The essay was delivered at the Lilly/Goswami Conference on Consciousness and Quantum Physics, linking McKenna's experiential pharmacology to the frontier of theoretical physics.
+McKenna"s discussion of endogenous DMT in "[[mckenna-archaic-revival-four-part-structure-paradise-paradise-lost-hell-regained]], 1992) provides a critical pharmacological argument: that DMT is not foreign to the human body but is naturally produced within it. This observation underpins much of his broader argument about the relationship between tryptamine hallucinogens and the fundamental nature of consciousness. The essay was delivered at the Lilly/Goswami Conference on Consciousness and Quantum Physics, linking McKenna"s experiential pharmacology to the frontier of theoretical physics.
 
 ## DMT as Endogenous Compound
 
-McKenna states directly: "DMT is an endogenous hallucinogen. It is present in small amounts in the human brain." This claim, supported by the research of several investigators in the 1970s and 1980s, forms the basis for McKenna's argument that the brain is "absolutely at home with this compound." The extremely rapid onset of smoked DMT (approximately forty-five seconds to full effect) and its brief duration (approximately five minutes) are presented as evidence that the brain possesses native metabolic machinery for processing DMT -- that DMT is not an intruder but a substance the brain already knows how to handle.
+McKenna states directly: "DMT is an endogenous hallucinogen. It is present in small amounts in the human brain." This claim, supported by the research of several investigators in the 1970s and 1980s, forms the basis for McKenna"s argument that the brain is "absolutely at home with this compound." The extremely rapid onset of smoked DMT (approximately forty-five seconds to full effect) and its brief duration (approximately five minutes) are presented as evidence that the brain possesses native metabolic machinery for processing DMT -- that DMT is not an intruder but a substance the brain already knows how to handle.
 
-McKenna contrasts this with LSD, which "is retained in the body for some time," suggesting that DMT's pharmacokinetic profile reflects an endogenous role rather than an exogenous intrusion. The implication is that the DMT experience, however extraordinary its content, represents an amplification of processes that are already occurring naturally within the brain. The brain does not merely tolerate DMT; it has evolved specific mechanisms for processing it.
+McKenna contrasts this with LSD, which "is retained in the body for some time," suggesting that DMT"s pharmacokinetic profile reflects an endogenous role rather than an exogenous intrusion. The implication is that the DMT experience, however extraordinary its content, represents an amplification of processes that are already occurring naturally within the brain. The brain does not merely tolerate DMT; it has evolved specific mechanisms for processing it.
 
 ## Tryptophan Derivation and Serotonin Relationship
 
@@ -26,7 +26,7 @@ McKenna frames DMT within the broader family of tryptophan-derived compounds, es
 
 McKenna proposes a biological basis for individual variation in psychedelic sensitivity: "shamanic ability is to some degree determined by how many active receptor sites occur in the brain, thus facilitating these experiences." This receptor density hypothesis connects neurochemistry to the cross-cultural phenomenon of shamanic calling. Some people, he notes, "claim to have these experiences naturally," though McKenna adds that he is "underwhelmed by the evidence that this is so."
 
-The receptor site argument also illuminates McKenna's description of the DMT experience, where "all available bond sites are being occupied" at the synaptic level, producing the complete mode shift into what he calls the "merry go raum" -- a domed, insulated space where one feels one has "come out somewhere in eternity." The density of available receptor sites would determine how readily an individual can access these states, whether through endogenous processes or exogenous compounds.
+The receptor site argument also illuminates McKenna"s description of the DMT experience, where "all available bond sites are being occupied" at the synaptic level, producing the complete mode shift into what he calls the "merry go raum" -- a domed, insulated space where one feels one has "come out somewhere in eternity." The density of available receptor sites would determine how readily an individual can access these states, whether through endogenous processes or exogenous compounds.
 
 ## Implications for Consciousness Studies
 
@@ -40,19 +40,19 @@ Third, the rapid onset and [[metzner-transpersonal-dimensions-psychedelic-therap
 
 ## Consciousness as State Vector Collapse
 
-McKenna connects endogenous tryptamine experience to quantum physics through the concept of state vector collapse: "Consciousness is somehow able to collapse the state vector and thereby cause the stuff of being to undergo what Alfred North Whitehead called 'the formality of actually occurring.'" This formulation suggests that consciousness is not merely an epiphenomenon of brain activity but an active participant in the creation of reality -- a position that the quantum mechanical correlates of hallucinogenesis seem to support.
+McKenna connects endogenous tryptamine experience to quantum physics through the concept of state vector collapse: "Consciousness is somehow able to collapse the state vector and thereby cause the stuff of being to undergo what Alfred North Whitehead called "the formality of actually occurring.'" This formulation suggests that consciousness is not merely an epiphenomenon of brain activity but an active participant in the creation of reality -- a position that the quantum mechanical correlates of hallucinogenesis seem to support.
 
-If moving a single atom on a molecular ring can transform an inert compound into one that produces experiences of overwhelming intelligence and beauty, then the relationship between matter and consciousness is far more intimate than the materialist paradigm allows. Endogenous DMT, for McKenna, is the key piece of evidence: the proof that the brain's own chemistry can open onto dimensions of experience that the ordinary materialist framework cannot accommodate.
+If moving a single atom on a molecular ring can transform an inert compound into one that produces experiences of overwhelming intelligence and beauty, then the relationship between matter and consciousness is far more intimate than the materialist paradigm allows. Endogenous DMT, for McKenna, is the key piece of evidence: the proof that the brain"s own chemistry can open onto dimensions of experience that the ordinary materialist framework cannot accommodate.
 
 ## Language and Self-Replicating Information
 
 McKenna extends the argument about endogenous neurochemistry to the nature of language itself. "Other intelligent monkeys have walked this planet," he notes. "We exterminated them and so now we are unique, but what is loose on this planet is language, self-replicating information systems that reflect functions of DNA: learning, coding, templating, recording, testing, re-testing, re-coding against DNA functions." This parallel between genetic and linguistic information suggests that the tryptamine experience of a translinguistic dimension may reflect a deeper reality about the nature of information itself -- that language and DNA are expressions of the same fundamental process, and that the tryptamine state provides access to this deeper level.
 
-"Whatever language is," McKenna writes, "it is in us monkeys now and moving through us and moving out of our hands and into the noosphere with which we have surrounded ourselves." The noosphere -- Teilhard de Chardin's concept of a planetary sphere of thought -- is for McKenna not a metaphor but a description of the actual state of human civilization, increasingly mediated by self-replicating information systems that operate according to principles first established at the molecular level.
+"Whatever language is," McKenna writes, "it is in us monkeys now and moving through us and moving out of our hands and into the noosphere with which we have surrounded ourselves." The noosphere -- Teilhard de Chardin"s concept of a planetary sphere of thought -- is for McKenna not a metaphor but a description of the actual state of human civilization, increasingly mediated by self-replicating information systems that operate according to principles first established at the molecular level.
 
 ## Herbert Guenther and Human Uniqueness
 
-McKenna references the Buddhist scholar Herbert Guenther's work on human uniqueness, noting that "one must come to terms with one's uniqueness." He argues that we are "naive about the role of language and being as the primary facts of experience." The endogenous tryptamine hypothesis reinforces this point: if the human brain produces compounds that open onto transpersonal dimensions, then human uniqueness is not merely a matter of cognitive capacity but of neurochemical endowment. The human brain is unique not only in its complexity but in the specific compounds it produces and the specific experiences those compounds enable.
+McKenna references the Buddhist scholar Herbert Guenther's work on human uniqueness, noting that "one must come to terms with one"s uniqueness." He argues that we are "naive about the role of language and being as the primary facts of experience." The endogenous tryptamine hypothesis reinforces this point: if the human brain produces compounds that open onto transpersonal dimensions, then human uniqueness is not merely a matter of cognitive capacity but of neurochemical endowment. The human brain is unique not only in its complexity but in the specific compounds it produces and the specific experiences those compounds enable.
 
 ## Overview
 

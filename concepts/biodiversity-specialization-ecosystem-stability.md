@@ -6,17 +6,17 @@ type: concept
 
 ## Biodiversity, Specialization, and Ecosystem Stability
 
-Biodiversity — the variety of life at all levels from genes to ecosystems — is one of the most important yet misunderstood concepts in both ecology and [[permaculture-design]]. Holmgren's [[permaculture]] Principle 10, "Use and Value Diversity," requires a nuanced understanding that goes beyond simply counting species. True diversity must be understood in dynamic balance with productivity, as a source of systemic resilience, and as a result of the interplay between specialization and generalization in nature.
+Biodiversity — the variety of life at all levels from genes to ecosystems — is one of the most important yet misunderstood concepts in both ecology and [[permaculture-design]]. Holmgren"s [[permaculture]] Principle 10, "Use and Value Diversity," requires a nuanced understanding that goes beyond simply counting species. True diversity must be understood in dynamic balance with productivity, as a source of systemic resilience, and as a result of the interplay between specialization and generalization in nature.
 
 ## The Nature of Diversity
 
 The great diversity of forms, functions, and interactions in nature and humanity is the source of evolved systemic complexity. Diversity is not simply a good in itself; it is the result of a balance and tension between **variety and possibility** on one hand, and **productivity and power** on the other.
 
-The proverb "don't put all your eggs in one basket" captures the common-sense understanding that diversity provides insurance against the vagaries of nature and everyday life. However, the permaculture understanding of diversity is richer and more dynamic than this simple risk-spreading model.
+The proverb "don"t put all your eggs in one basket" captures the common-sense understanding that diversity provides insurance against the vagaries of nature and everyday life. However, the permaculture understanding of diversity is richer and more dynamic than this simple risk-spreading model.
 
 ## Balancing Productivity and Diversity
 
-A common but limited view of environmental issues frames them as a conflict between nature's drive for diversity and human demand for productivity. Permaculture rejects this framing. The Maximum Power Law (discussed under Principle 3: Obtain a Yield) shows that systems effectively using available energy for survival tend to prevail — and nature is equally concerned with diversity and with power.
+A common but limited view of environmental issues frames them as a conflict between nature"s drive for diversity and human demand for productivity. Permaculture rejects this framing. The Maximum Power Law (discussed under Principle 3: Obtain a Yield) shows that systems effectively using available energy for survival tend to prevail — and nature is equally concerned with diversity and with power.
 
 Environmental science and popular culture often overemphasize diversity while ignoring nature's own drives for productivity and efficiency. This creates a distorted view. Permaculture seeks instead a more fundamental redesign so that **biodiversity becomes a valued and functional part** of human systems, not an external constraint.
 
@@ -51,7 +51,7 @@ Different species occupy different physical locations based on their adaptations
 ### Temporal Differentiation
 Different species or individuals occupy the same space at different times of day or season. This is especially important in Mediterranean and monsoonal climates with strong seasonal patterns.
 
-Beyond mere absence of competition, **mutual and symbiotic relationships** can develop because different species have different needs and outputs — one species' waste becomes another's resource.
+Beyond mere absence of competition, **mutual and symbiotic relationships** can develop because different species have different needs and outputs — one species" waste becomes another's resource.
 
 ## Does Diversity Create Stability?
 

@@ -36,7 +36,7 @@ mushrooms and made important observations about fungal [[bloomfield-fungal-repro
 ## Paul Stamets (b. 1955)
 
 A contemporary American mycologist and entrepreneur who has done more than
-anyone to bring mycology to public attention. Stamets's books, including
+anyone to bring mycology to public attention. Stamets"s books, including
 *[[comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive]]*, have
 inspired a new generation of citizen scientists. He has pioneered research
 into medicinal mushrooms (particularly for immune support and antiviral

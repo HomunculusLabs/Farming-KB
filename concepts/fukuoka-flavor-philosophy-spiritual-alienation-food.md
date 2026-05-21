@@ -4,7 +4,7 @@ tags:
   - concept
 ---
 
-Fukuoka's philosophy of flavor goes far beyond the simple
+Fukuoka"s philosophy of flavor goes far beyond the simple
 question of what tastes good. He argues that modern man has
 become spiritually alienated from food, eating with his
 mind rather than his body, and that this alienation is the

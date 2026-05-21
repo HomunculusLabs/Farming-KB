@@ -14,7 +14,7 @@ Allegro argues that the religion of Canaan — so vigorously condemned by the He
 
 ## El: The Ancient Mushroom God
 
-The supreme Canaanite god El was the "father of years," the "creator of creation," and the "bull El" — a patriarchal fertility deity whose attributes map onto the mushroom. El's title "father of the gods" parallels the mushroom's role as the progenitor of all life. His association with the bull (a widespread fertility symbol) connects to the mushroom's phallic nature.
+The supreme Canaanite god El was the "father of years," the "creator of creation," and the "bull El" — a patriarchal fertility deity whose attributes map onto the mushroom. El"s title "father of the gods" parallels the mushroom"s role as the progenitor of all life. His association with the bull (a widespread fertility symbol) connects to the mushroom's phallic nature.
 
 At Ugarit (modern Ras Shamra), El was depicted as an aged patriarch seated on a throne, sometimes wearing a bull-mask. Allegro reads this iconography as mushroom imagery: the seated posture represents the mushroom's volva-base; the throne is the earth from which it springs; the bull-mask is the mushroom's cap.
 
@@ -30,7 +30,7 @@ The Ugaritic texts describe Baal's palace as having a window through which he se
 
 Asherah was the Canaanite mother goddess, associated with trees, fertility, and the sea. The Hebrew prophets repeatedly condemned the "Asherah poles" — wooden poles set up near altars (Deut 16:21, 2 Kgs 23:6). These poles, Allegro argues, were mushroom representations: carved wooden stems, sometimes with cap-like tops, representing the sacred fungus in its phallic aspect.
 
-Asherah's connection to trees is significant: the [[african-mushroom-cult-history]] with both male (phallus/stem) and female (womb/volva) aspects.
+Asherah"s connection to trees is significant: the [[african-mushroom-cult-history]] with both male (phallus/stem) and female (womb/volva) aspects.
 
 ## Anat: The Warrior Virgin
 
@@ -43,8 +43,8 @@ Allegro connects Anat to the mushroom's virgin birth: the mushroom appears to sp
 The Ugaritic texts, discovered at Ras Shamra in 1929, provide the most detailed picture of Canaanite religion. Allegro argues that these texts, when read with the Sumerian cryptographic key, reveal mushroom references throughout:
 
 - The word "mountain" (Canaanite tsûr) is also the word for "rock" — and encodes a mushroom name
-- The "cloud-rider" epithet of Baal connects to the mushroom's association with the storm
-- The "skillful one" (khasîs) who builds Baal's palace encodes a mushroom-harvester title
+- The "cloud-rider" epithet of Baal connects to the mushroom"s association with the storm
+- The "skillful one" (khasîs) who builds Baal"s palace encodes a mushroom-harvester title
 - The seven-headed serpent Lotan (cf. Leviathan) is the mushroom seen from above — the cap with its seven (symbolic) gill-plates
 
 ## The Hebrew Prophets' Suppression

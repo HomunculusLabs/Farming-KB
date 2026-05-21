@@ -10,7 +10,7 @@ Agaricus bulbosus is an obsolete binomial name used in 19th-century mycological 
 
 [[julius-auboineau-palmer]], writing in the 1870s-1880s, cited this name from the work of French mycologist Dr. F. S. Cordier. The name reflects the historical taxonomic practice of placing many gilled mushrooms under the broad genus Agaricus before modern reclassification.
 
-Based on Palmer's and Cordier's descriptions, this species corresponds to a bulbous-based Amanita. The "bulbosus" epithet refers to the swollen, bulbous base of the stem, a characteristic feature of many dangerous Amanita species.
+Based on Palmer"s and Cordier's descriptions, this species corresponds to a bulbous-based Amanita. The "bulbosus" epithet refers to the swollen, bulbous base of the stem, a characteristic feature of many dangerous Amanita species.
 
 ## Classification
 
@@ -42,7 +42,7 @@ Palmer described the identifying characteristics of Amanita species including A.
 
 Palmer emphasized that all three marks — volva, annulus, and cap warts — must be present together to identify the sub-genus Amanita with confidence.
 
-## Cordier's Testing
+## Cordier"s Testing
 
 Dr. Cordier specifically used A. bulbosus to test the widely-believed [[silver-spoon-test]] method for detecting mushroom poison.
 
@@ -67,7 +67,7 @@ The only known treatment mentioned was hypodermic injection of atropia or some o
 
 The name "Agaricus bulbosus" reflects pre-modern taxonomic conventions. As mycology developed, the genus Amanita was separated from Agaricus to accommodate species with volva and annulus characteristics.
 
-Palmer's reference to "Agaricus bulbosus" as "a variety of the Amanita family" shows the transitional state of [[fungal-taxonomy]] in the late 19th century.
+Palmer"s reference to "Agaricus bulbosus" as "a variety of the Amanita family" shows the transitional state of [[fungal-taxonomy]] in the late 19th century.
 
 Modern equivalents of the name may refer to several Amanita species, including those in the [[amanita-phalloides]] group ([[amanita-phalloides-death-cap]] relatives).
 

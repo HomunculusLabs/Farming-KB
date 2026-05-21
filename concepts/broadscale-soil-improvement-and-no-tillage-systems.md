@@ -28,8 +28,8 @@ Both P.A. Yeomans and [[geoff-wallace]] independently evolved broadscale soil ma
 
 Both systems use implements that lift compacted soil gently without turning it over or reversing it:
 
-- **Yeomans' "Bunyip Slipper Imp Shakaerator"**: A chisel-plough type implement
-- **Wallace's Soil Conditioner**: Similar deep-ripping approach
+- **Yeomans" "Bunyip Slipper Imp Shakaerator"**: A chisel-plough type implement
+- **Wallace"s Soil Conditioner**: Similar deep-ripping approach
 
 The results are consistent:
 1. Compacted soil is aerated and loosened
@@ -47,7 +47,7 @@ The results are consistent:
 
 "Apart from an initial top-dressing of phosphate or grossly deficient [[soil-micronutrients-sulphur-potassium-calcium-trace-elements]], no further top-dressing is used." When black soil has redeveloped to 9 inches deep, trees and crops can be planted with assured success. For tree crops, the treatment gives permanent rehabilitation.
 
-## Fukuoka's Alternative: Biological Soil Conditioning
+## Fukuoka"s Alternative: Biological Soil Conditioning
 
 Where Yeomans and Wallace achieve soil restoration with mechanical implements, [[masanobu-fukuoka]] achieves the same results biologically using deep-rooted plants such as Japanese radish and daikon. His system has not been compacted by [[jadam-soil-compaction-heavy-machinery]] or domestic stock, so biological aeration suffices.
 
@@ -62,7 +62,7 @@ Where Yeomans and Wallace achieve soil restoration with mechanical implements, [
 
 ## The Chinese Desert Reclamation Model
 
-The initial step in China's desert reclamation is to mat dunes with willow and straw. Trees follow, weaving mats of roots and leaves that stop water and wind erosion. Bamboo root "rafts" even moderate the effects of earthquakes on dwellings. This demonstrates that even the most degraded landscapes can be restored through systematic biological intervention.
+The initial step in China"s desert reclamation is to mat dunes with willow and straw. Trees follow, weaving mats of roots and leaves that stop water and wind erosion. Bamboo root "rafts" even moderate the effects of earthquakes on dwellings. This demonstrates that even the most degraded landscapes can be restored through systematic biological intervention.
 
 ## Sheet Mulch for Home Gardens
 
@@ -85,10 +85,10 @@ Mollison distinguishes three approaches to permanence in agriculture:
 As described by King for old China: "Man hauled nutrients from canals, cesspits, pathways and forests to an annual grain culture." Man bound to landscape by unremitting toil in service to a landlord. "This leads eventually to famine and revolution."
 
 ### Baronial Permanence
-Large holdings and few people creating vast grazing leases for single species. "Best described as 'baronial permanence' with near-regal properties of immense extent, working at the lowest possible level of land use; for pasture is the least productive use of land we can devise." Mechanized versions "destroy whole landscapes and soil complexes."
+Large holdings and few people creating vast grazing leases for single species. "Best described as "baronial permanence' with near-regal properties of immense extent, working at the lowest possible level of land use; for pasture is the least productive use of land we can devise." Mechanized versions "destroy whole landscapes and soil complexes."
 
 ### Communal Permanence
-Forests needing generations of care and knowledge, requiring tribal or communal reverence found only in stable communities. "To be able to plant a pecan or citrus when we are old, and to know it will not be cut down by our children's children."
+Forests needing generations of care and knowledge, requiring tribal or communal reverence found only in stable communities. "To be able to plant a pecan or citrus when we are old, and to know it will not be cut down by our children"s children."
 
 ## The Energy Characteristic
 

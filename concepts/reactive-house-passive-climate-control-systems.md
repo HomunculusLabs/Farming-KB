@@ -49,7 +49,7 @@ Both shadehouse (small fruit, brassicas) and glasshouse (spices, tropicals) yiel
 "Even the dripping of water helps, as does the sight of ferns in a droughted landscape." A school designed with Sweetnam and Godfrey showed that a shade area allows cool air to be drawn into all courtyard buildings and gives refuge in extreme summer heat.
 
 ### Water Tanks in Shadehouse
-Water tanks, vine-covered in the shadehouse, serve as cool air/water blocks. (A Perth farmer kept his tank against snooty residents' petition—they got water restrictions and salted soil; he kept his tank.)
+Water tanks, vine-covered in the shadehouse, serve as cool air/water blocks. (A Perth farmer kept his tank against snooty residents" petition—they got water restrictions and salted soil; he kept his tank.)
 
 ## Sun Trap Design
 
@@ -58,7 +58,7 @@ Structures breasting the wind should be like a vessel breasting the sea:
 - Permeable like a raft
 - Or both
 
-A 'U'-shaped suntrap, curved and permeable back to cold winds, facing N. The 'U' shape should be adjusted:
+A "U'-shaped suntrap, curved and permeable back to cold winds, facing N. The 'U' shape should be adjusted:
 - If strong easterlies: higher and longer to E than W
 - If sunny mornings and early sunsets behind western hill: swung towards NE
 - On hostile shoreline or cold sites: whole series of interlinked sun traps
@@ -75,7 +75,7 @@ Designed for bleak, cold, windswept, hostile areas. Mollison evolved the idea af
 - Cost: less than $1,000 plus floor slab and roof trusses
 
 ### Desert Dwellings
-"Desert dwellings need be of similar 'underground' construction." The Pioneer Australian dairy is a very cool, below-ground storage and fire refuge.
+"Desert dwellings need be of similar "underground' construction." The Pioneer Australian dairy is a very cool, below-ground storage and fire refuge.
 
 ## Grown Structures
 

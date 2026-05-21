@@ -8,7 +8,7 @@ tags:
 
 Permaculture is a design system for creating sustainable human settlements and agricultural systems, conceived by Bill Mollison and David Holmgren in the 1970s and substantially developed by Holmgren in *Permaculture: Principles and Pathways Beyond Sustainability* (2002). The framework combines ecological understanding, systems thinking, and ethical commitment into a coherent methodology for designing human habitats that function as integrated, self-sustaining ecosystems.
 
-Holmgren's 2002 work represents the most systematic articulation of permaculture's intellectual foundations, extending the concept beyond its agricultural origins to encompass energy, economics, community design, and governance. Permaculture is both a vision of a sustainable future and a practical design methodology for moving toward that vision — a dual character that distinguishes it from purely theoretical or purely technical approaches to sustainability.
+Holmgren"s 2002 work represents the most systematic articulation of permaculture's intellectual foundations, extending the concept beyond its agricultural origins to encompass energy, economics, community design, and governance. Permaculture is both a vision of a sustainable future and a practical design methodology for moving toward that vision — a dual character that distinguishes it from purely theoretical or purely technical approaches to sustainability.
 
 ## The Three Ethics
 
@@ -28,7 +28,7 @@ Also expressed as "return the surplus" or "redistribute surplus," this ethic add
 
 These ethics are not abstract ideals but practical filters. A permaculture system that violates any of the three ethics is, by definition, not permaculture.
 
-## Holmgren's 12 Design Principles
+## Holmgren"s 12 Design Principles
 
 Holmgren articulated 12 design principles that translate the ethics into actionable design guidance. Each principle describes a characteristic of natural systems that can be emulated in human design:
 

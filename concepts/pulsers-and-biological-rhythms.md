@@ -43,7 +43,7 @@ The sun itself "pulses" approximately every 11 years, affecting ozone and climat
 
 ## The Growth Question
 
-Mollison relates a telling anecdote: when his four-year-old son pointed to his toes in the bath and asked "Why do these toes stop at being toes? Why don't they get bigger and bigger or longer and longer?" — the question goes to the heart of what limits size and growth.
+Mollison relates a telling anecdote: when his four-year-old son pointed to his toes in the bath and asked "Why do these toes stop at being toes? Why don"t they get bigger and bigger or longer and longer?" — the question goes to the heart of what limits size and growth.
 
 The answer lies in the interaction of pulsers and patterns:
 1. **Pulsers limit duration**: Growth proceeds for a predetermined period then stops

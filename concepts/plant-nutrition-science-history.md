@@ -16,7 +16,7 @@ Ancient Greeks engaged in debates about what should be used as fertilizers that 
 
 ## Jethro Tull and the Soil Particle Theory
 
-In the seventeenth century, [[jean-baptiste-van-helmont]] famously proved (incorrectly) that plants needed only water to grow, not fertilizers. A century later, the Englishman Jethro Tull promoted the idea that the carbon in plants came from organic particles in the soil that entered through the roots. Based on this erroneous premise, Tull reasoned that pulverizing soil particles would make them more "edible" to roots — and thus the practice of rototilling was born. Tull's influence persisted for decades despite his fundamentally flawed understanding of plant nutrition.
+In the seventeenth century, [[jean-baptiste-van-helmont]] famously proved (incorrectly) that plants needed only water to grow, not fertilizers. A century later, the Englishman Jethro Tull promoted the idea that the carbon in plants came from organic particles in the soil that entered through the roots. Based on this erroneous premise, Tull reasoned that pulverizing soil particles would make them more "edible" to roots — and thus the practice of rototilling was born. Tull"s influence persisted for decades despite his fundamentally flawed understanding of plant nutrition.
 
 ## Justus Von Liebig and the Mineral Theory
 
@@ -35,7 +35,7 @@ The results were so impressive that Von Liebig made a famous prediction: "A time
 
 ### The Agricultural Revolution
 
-Von Liebig's experiments led to the birth and growth of the chemical fertilizer industry. The first such fertilizers were sold in 1845. This created a fundamental shift in human society: for the first time in history, farmers were not dependent on animals for manures. They could spread inorganic chemicals on their fields — chemicals made in factories or mined from the earth.
+Von Liebig"s experiments led to the birth and growth of the chemical fertilizer industry. The first such fertilizers were sold in 1845. This created a fundamental shift in human society: for the first time in history, farmers were not dependent on animals for manures. They could spread inorganic chemicals on their fields — chemicals made in factories or mined from the earth.
 
 The implications were enormous. Animals require costly feeding, time-consuming care, and valuable land. The invention of artificial manures meant farming without livestock became possible. Before the 1850s, exhausted farmland required either expensive animal manures or the acquisition of fresh land. The settlement of the American West was driven in part by the need for new soil, as early farmers lacked sufficient animals to produce enough manure.
 
@@ -51,7 +51,7 @@ Application of the Law of the Minimum revealed that nitrogen (N), phosphorus (P)
 
 The NPK system spawned an entire industry of simplified fertilizer recommendations. Modern gardeners can simply look at pictures of tomatoes, annuals, or orchids on a fertilizer package and make their selection. While convenient, this oversimplification obscures the complexity of plant nutrition and the seventeen essential elements plants require.
 
-## Von Liebig's Late-Life Reversal
+## Von Liebig"s Late-Life Reversal
 
 What is less known about Von Liebig is that he later recognized the negative impacts of artificial fertilizers on soil life. In his own vegetable garden, he observed the deterioration caused by inorganic chemicals and thereafter preferred organic matter to the inorganic fertilizers he had invented. He spent a good part of his later life arguing that the British should use their sewage as fertilizer, despite having created the very inorganic fertilizer industry.
 

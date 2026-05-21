@@ -36,7 +36,7 @@ Foliar feeding is not a replacement for good soil fertility, but it serves impor
 - **Rapid correction of deficiencies** when soil minerals are insufficient
 - **Stress recovery** during drought, transplant shock, or pest damage
 - **Growth boost** during critical growth stages
-- **Low-water situations** when fertigation (fertilizer through irrigation) isn't possible
+- **Low-water situations** when fertigation (fertilizer through irrigation) isn"t possible
 
 ## Effective Foliar Sprays
 

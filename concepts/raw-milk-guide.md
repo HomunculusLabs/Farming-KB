@@ -84,7 +84,7 @@ Risk is minimized (not eliminated) by:
 -  **Ice bath method** — Place the milk container in a larger container filled with ice water. Stir occasionally for even cooling.
 -  **Refrigerator** — Store at 0-4 C (32-40 F) immediately after chilling.
 -  **Shelf life** — Properly handled raw goat milk lasts 7-10 days refrigerated. Raw cow milk lasts 7-14 days. Quality declines over time as naturally occurring bacteria multiply.
--  **Do not mix batches** — Keep milk from each milking separate until it has been tested or you are confident in your herd's health status.
+-  **Do not mix batches** — Keep milk from each milking separate until it has been tested or you are confident in your herd"s health status.
 
 ### Equipment
 

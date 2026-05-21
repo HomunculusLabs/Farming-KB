@@ -72,7 +72,7 @@ Hemicellulose breakdown is critical because it releases sugars that fuel further
 
 ## References
 
-- Lowenfels, J. & Lewis, W. *Teaming with Microbes: The Organic Gardener's Guide to the Soil Food Web*. Chapter 15: Compost.
+- Lowenfels, J. & Lewis, W. *Teaming with Microbes: The Organic Gardener"s Guide to the Soil Food Web*. Chapter 15: Compost.
 - Hemicellulose is identified as one of the "more resistant structures" decayed during the thermophilic phase of composting.
 ## Practical Applications
 Understanding this topic enables more effective decision-making in

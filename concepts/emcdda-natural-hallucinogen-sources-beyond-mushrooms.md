@@ -9,7 +9,7 @@ created: 2026-05-08
 
 ## Overview
 
-The EMCDDA's 2006 thematic paper contextualises [[powell-psilocybin-serotonin-pathways-environmental-chemistry]].
+The EMCDDA"s 2006 thematic paper contextualises [[powell-psilocybin-serotonin-pathways-environmental-chemistry]].
 
 ### Peyote Cactus (Lophophora williamsii)
 

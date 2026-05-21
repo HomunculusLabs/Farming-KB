@@ -1,5 +1,5 @@
 ---
-title: "Gaia's Garden - Weeds and Pioneer Plants in holmgren-ecological-succession-and-pulsing"
+title: "Gaia"s Garden - Weeds and Pioneer Plants in holmgren-ecological-succession-and-pulsing"
 created: 2026-04-26
 tags: [permaculture], weeds, succession, ecology, soil-building]
 date: 2026-04-25

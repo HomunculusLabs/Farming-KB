@@ -1,5 +1,5 @@
 ---
-title: 'Ectomycorrhizal Community Responses to Environmental Stress'
+title: "Ectomycorrhizal Community Responses to Environmental Stress'
 source: 'john-dighton-fungi-in-ecosystem-processes.md'
 type: concept
 ---
@@ -58,7 +58,7 @@ A landmark finding in mycorrhizal ecology was the demonstration of reciprocal ca
 
 EMF communities exist within complex soil food webs, and environmental stress that alters fungal communities cascades to higher trophic levels. Shaw (1988, 1992) documented consistent feeding hierarchies among collembola species on fungal food resources, demonstrating that the springtail *Onychiurus armatus* exhibited clear preferences among fungal taxa. These selective feeding patterns mean that shifts in EMF community composition under pollution can alter the availability of preferred food resources for fungivorous microarthropods, potentially destabilizing [[soil-food-web-structure]].
 
-The implications of selective collembola grazing extend beyond simple trophic transfer. By preferentially consuming certain fungal species, collembola can exert top-down control on EMF community composition, potentially amplifying or dampening the effects of pollution-driven shifts. If pollution eliminates the preferred food species of a dominant collembola species, the resulting trophic mismatch may reduce collembola populations, with further cascading effects on predatory mites and other higher consumers. Shaw's work on fungal food webs emphasized that the structure and stability of these belowground communities depends on maintaining diverse fungal resources—a condition that pollution frequently disrupts.
+The implications of selective collembola grazing extend beyond simple trophic transfer. By preferentially consuming certain fungal species, collembola can exert top-down control on EMF community composition, potentially amplifying or dampening the effects of pollution-driven shifts. If pollution eliminates the preferred food species of a dominant collembola species, the resulting trophic mismatch may reduce collembola populations, with further cascading effects on predatory mites and other higher consumers. Shaw"s work on fungal food webs emphasized that the structure and stability of these belowground communities depends on maintaining diverse fungal resources—a condition that pollution frequently disrupts.
 
 Ruess et al. (1993, 1996) demonstrated that experimental acidification affected nematodes, bacteria, and fungi simultaneously, illustrating the integrated nature of soil community responses to pollution stress. Their combined microcosm and field experiments revealed that acidification reduced fungal biomass and mycorrhizal colonization while altering nematode community structure, providing direct evidence that pollution effects propagate through multiple trophic levels of [[soil-food-web]].
 

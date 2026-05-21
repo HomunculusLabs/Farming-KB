@@ -8,7 +8,7 @@ type: concept
 
 ## Mediterranean Climates on Desert Borders
 
-Large areas of Mediterranean climate exist on the borders of the world's great deserts. These transition zones receive more precipitation than the arid interior, yet they function as effectively "arid" landscapes when underlain by deep sands with poor water retention.
+Large areas of Mediterranean climate exist on the borders of the world"s great deserts. These transition zones receive more precipitation than the arid interior, yet they function as effectively "arid" landscapes when underlain by deep sands with poor water retention.
 
 In such soils, even moderate rainfall drains rapidly beyond the reach of plant roots, leaving the surface parched within days of a storm. The Mediterranean pattern of wet winters and long dry summers compounds the problem, as winter rains are followed by months of intense evapotranspiration that strip moisture before plants can fully utilise it.
 

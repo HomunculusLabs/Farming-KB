@@ -11,7 +11,7 @@ sources:
 
 ## Overview
 
-One of JADAM's most radical departures from conventional farming advice is its insistence that crop residues (branches, leaves, stems, and any remaining plant parts after harvest) must be returned to the soil rather than removed or destroyed. JADAM views crop residue as the perfect fertilizer -- with the ideal [[cervantes-powdery-mildew-prevention-treatment]] organisms are so common and prolific (one spore can propagate into one billion in 10 hours) that eliminating crop residues cannot possibly control them. They are everywhere in the soil.
+One of JADAM"s most radical departures from conventional farming advice is its insistence that crop residues (branches, leaves, stems, and any remaining plant parts after harvest) must be returned to the soil rather than removed or destroyed. JADAM views crop residue as the perfect fertilizer -- with the ideal [[cervantes-powdery-mildew-prevention-treatment]] organisms are so common and prolific (one spore can propagate into one billion in 10 hours) that eliminating crop residues cannot possibly control them. They are everywhere in the soil.
 
 ## The Athlete's Foot Analogy
 

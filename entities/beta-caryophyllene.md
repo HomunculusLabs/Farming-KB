@@ -13,7 +13,6 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Russo, E.B. (2011). "Taming THC." British Journal of Pharmacology, 163(7), 1344-1364.---
----
 # β-Caryophyllene
 
 **(−)-β-Caryophyllene** · **BCP** · C₁₅H₂₄ · MW 204.35 g/mol

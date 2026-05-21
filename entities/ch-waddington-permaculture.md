@@ -9,7 +9,7 @@ tags: [people, biologist, systems-thinker, epigenetics]
 
 ## Description
 
-Conrad Hal Waddington (1905–1975) was a British developmental biologist, geneticist, and systems thinker. He is cited in the references of [[permaculture]]: A Designers' Manual* for his book *Tools for Thought* (Paladin, UK, 1977). Waddington's work on epigenetics, complex systems, and interdisciplinary thinking influenced the conceptual foundations of [[deduction-from-nature]]
+Conrad Hal Waddington (1905–1975) was a British developmental biologist, geneticist, and systems thinker. He is cited in the references of [[permaculture]]: A Designers" Manual* for his book *Tools for Thought* (Paladin, UK, 1977). Waddington's work on epigenetics, complex systems, and interdisciplinary thinking influenced the conceptual foundations of [[deduction-from-nature]]
 - The epigenetic landscape concept parallels permaculture's "pattern understanding" approach to design
 - Related to other systems thinkers cited by Mollison including Birch, Odum, and Prigogine
 - His interdisciplinary approach resonates with permaculture's integration of multiple knowledge domains

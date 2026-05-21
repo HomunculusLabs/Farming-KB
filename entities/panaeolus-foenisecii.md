@@ -6,7 +6,7 @@ type: entity
 
 ## Overview
 
-*Panaeolus foenisecii* (Pers.:Fr.) Kühn., commonly known as the "haymaker's mushroom" or "brown hay mushroom," is a small, dark-spored mushroom that grows in grassy areas, particularly lawns and fields after the hay harvest. It is one of the most commonly encountered mushrooms in the genus *Panaeolus* and has been the subject of considerable taxonomic and pharmacological controversy regarding its [[psilocybin]] content.
+*Panaeolus foenisecii* (Pers.:Fr.) Kühn., commonly known as the "haymaker"s mushroom" or "brown hay mushroom," is a small, dark-spored mushroom that grows in grassy areas, particularly lawns and fields after the hay harvest. It is one of the most commonly encountered mushrooms in the genus *Panaeolus* and has been the subject of considerable taxonomic and pharmacological controversy regarding its [[psilocybin]] content.
 
 ## Classification
 
@@ -48,7 +48,7 @@ The psychoactive status of *Panaeolus foenisecii* remains one of the most contro
 
 ### Evidence Against Psilocybin Content
 - Stijve collected and tested samples from eight countries across three continents (America, Europe, and Australia) and consistently failed to find psilocybin
-- Gartz's own analyses of 100 mushrooms from a wide variety of locations across Germany also failed to confirm the presence of psilocybin or its derivatives
+- Gartz"s own analyses of 100 mushrooms from a wide variety of locations across Germany also failed to confirm the presence of psilocybin or its derivatives
 - The species does produce 5-substituted indole compounds including serotonin and its biochemical precursor 5-hydroxytryptophan, which are completely inactive when taken orally but can easily be mistaken for psilocin during paper or thin-layer chromatography
 - Ola'h's world monograph of *Panaeolus* (1960s) described many species as "latent psilocybin-producers," including *P. foenisecii*, but these findings have not been reliably replicated
 

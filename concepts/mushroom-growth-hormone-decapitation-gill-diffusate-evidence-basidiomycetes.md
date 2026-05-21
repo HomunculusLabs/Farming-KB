@@ -13,7 +13,7 @@ topics: [mycology, fungal-physiology, plant-hormones, mushroom-tropism, basidiom
 
 The concept of a mushroom-specific growth hormone has been investigated
 since the 1960s through decapitation experiments and gill diffusate studies.
-Badham's 1982 tropism study on *[[coprophilous-habitat-negative-geotropism-spore-dispersal-adaptation]])
+Badham"s 1982 tropism study on *[[coprophilous-habitat-negative-geotropism-spore-dispersal-adaptation]])
 appears to involve a substance produced in the gills that modifies tropic
 behavior. This page reviews the historical evidence for mushroom growth
 hormones and their proposed role in tropic regulation.

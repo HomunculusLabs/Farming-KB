@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-Water is the scarcest and most critical resource in most landscapes, yet its management is often neglected in favor of above-ground systems. [[bill-mollison]]'s approach to water in [[permaculture]] treats every water body as a highly productive system, not merely a storage or livestock watering facility. Aquatic plants are described as "a neglected part of aquaculture" that can yield more productive output than animals. The design of ponds, bogs, marshes, and water edges integrates food production, [[amphibian-habitat-creation]], water purification, and [[tree-temperature-effects-and-microclimate-modification]] into a single system.
+Water is the scarcest and most critical resource in most landscapes, yet its management is often neglected in favor of above-ground systems. [[bill-mollison]]"s approach to water in [[permaculture]] treats every water body as a highly productive system, not merely a storage or livestock watering facility. Aquatic plants are described as "a neglected part of aquaculture" that can yield more productive output than animals. The design of ponds, bogs, marshes, and water edges integrates food production, [[amphibian-habitat-creation]], water purification, and [[tree-temperature-effects-and-microclimate-modification]] into a single system.
 
 ## Global Water Context
 

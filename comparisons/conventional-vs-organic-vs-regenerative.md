@@ -97,7 +97,7 @@ A homestead is the ideal scale for regenerative agriculture because the diversit
 
 For a homestead focused on self-sufficiency and long-term resilience, regenerative agriculture is the clear winner. It requires more knowledge upfront but delivers decreasing costs, increasing yields, and genuine ecological restoration. Organic is a useful intermediate step but still focuses on substitution (organic product for synthetic product) rather than systemic design. Conventional agriculture works in the short term but creates dependencies and degrades the very resource base (soil) it depends on.
 
-The real question is not "conventional vs organic vs regenerative" but "how far along the spectrum from extractive to regenerative am I, and what's my next step?" Every homestead can improve its soil biology, reduce tillage, and close nutrient loops — these are not all-or-nothing choices.
+The real question is not "conventional vs organic vs regenerative" but "how far along the spectrum from extractive to regenerative am I, and what"s my next step?" Every homestead can improve its soil biology, reduce tillage, and close nutrient loops — these are not all-or-nothing choices.
 
 ## See Also
 

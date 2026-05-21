@@ -8,7 +8,7 @@ tags: mycology, poisonous-mushrooms, amanita, amanitine, fungal-toxins, death-ca
 related: [palmer-mushroom-hunting-field-identification, query-how-do-i-identify-the-most-common-edible-wild-mushrooms -- Deadly Species and Look-alikes
 ---
 
-Palmer's *About Mushrooms* (1894) represents a landmark in mycological toxicology: it was the first work to **segregate the Amanita family** as the sole source of fatal mushroom poisoning, distinguishing its deadly alkaloid (amanitine/muscarine) from the merely disagreeable properties of other non-esculent fungi. This conclusion, published in the *Moniteur Scientifique* of Paris in 1879, was independently confirmed by Charles McIlvaine in 1885.
+Palmer"s *About Mushrooms* (1894) represents a landmark in mycological toxicology: it was the first work to **segregate the Amanita family** as the sole source of fatal mushroom poisoning, distinguishing its deadly alkaloid (amanitine/muscarine) from the merely disagreeable properties of other non-esculent fungi. This conclusion, published in the *Moniteur Scientifique* of Paris in 1879, was independently confirmed by Charles McIlvaine in 1885.
 
 ## Three Classes of Mushroom Poisoning
 

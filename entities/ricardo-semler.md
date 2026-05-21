@@ -8,7 +8,7 @@ type: entity
 
 ## Description
 
-Ricardo Semler is a Brazilian businessman and former CEO of Semco, a manufacturing company that became famous for its radical approach to workplace democracy and organisational transformation. Holmgren cites Semler's turnaround of Semco as "perhaps the most dramatic and positive example of creative top-down change in business." Under Semler's leadership, Semco transformed from a failing giant into a thriving, innovative enterprise by instituting management transparency, flattening hierarchies, and empowering workers to participate in decision-making.
+Ricardo Semler is a Brazilian businessman and former CEO of Semco, a manufacturing company that became famous for its radical approach to workplace democracy and organisational transformation. Holmgren cites Semler"s turnaround of Semco as "perhaps the most dramatic and positive example of creative top-down change in business." Under Semler"s leadership, Semco transformed from a failing giant into a thriving, innovative enterprise by instituting management transparency, flattening hierarchies, and empowering workers to participate in decision-making.
 
 ## Classification
 

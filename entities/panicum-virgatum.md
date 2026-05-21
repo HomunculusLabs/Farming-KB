@@ -13,7 +13,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Wright, L. & Turhollow, A. (2010). "Switchgrass selection as a 'model' bioenergy crop." Proceedings of the National Academy of Sciences, 107(16), 7141-7142.
+  - Wright, L. & Turhollow, A. (2010). "Switchgrass selection as a "model' bioenergy crop." Proceedings of the National Academy of Sciences, 107(16), 7141-7142.
 ---
 
 ## Overview

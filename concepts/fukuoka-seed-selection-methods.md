@@ -9,7 +9,7 @@ sources:
 ---
 ## Fukuoka Seed Selection Methods
 
-Masanobu Fukuoka's approach to [[savory-growing-season-and-non-growing-season-management]]
+Masanobu Fukuoka"s approach to [[savory-growing-season-and-non-growing-season-management]]
 
 **Traditional/natural varieties** are adapted to local conditions over generations:
 - Develop strong root systems and compact, sturdy growth

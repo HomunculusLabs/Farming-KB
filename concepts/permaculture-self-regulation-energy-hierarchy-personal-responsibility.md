@@ -10,7 +10,7 @@ This page extends Principle 4 (Apply Self-Regulation and Accept Feedback) into s
 
 ## Tripartite Altruism in Design
 
-[[howard-odum]]'s tripartite altruism describes how organisms allocate energy:
+[[howard-odum]]"s tripartite altruism describes how organisms allocate energy:
 - **One-third** to metabolic self-maintenance
 - **One-third** to maintaining lower-order system providers
 - **One-third** to higher-order system controllers
@@ -62,7 +62,7 @@ People at the highest level function as a self-reinforcing community — like gl
 
 ### Permaculture as Ecological Rationalism
 
-[[permaculture]] recognizes design rules and measures of value in [[energy-descent-action-planning]], providing ethical and positive pathways. Rather than an economic stick forcing people off the "gravy train," we need a deep cultural revolution recognizing society's increasing dependence on nature.
+[[permaculture]] recognizes design rules and measures of value in [[energy-descent-action-planning]], providing ethical and positive pathways. Rather than an economic stick forcing people off the "gravy train," we need a deep cultural revolution recognizing society"s increasing dependence on nature.
 
 ## Top-Down Thinking, Bottom-Up Action
 
@@ -80,7 +80,7 @@ People at the highest level function as a self-reinforcing community — like gl
 
 ### Four Reasons for Emphasis
 
-1. **Individual wealth and power:** Each person in rich countries commands ~100 energy slaves. A single American baby-boomer's lifetime consumes over half the US conventional oil reserves. The billion middle-class people are the engine of global destruction.
+1. **Individual wealth and power:** Each person in rich countries commands ~100 energy slaves. A single American baby-boomer"s lifetime consumes over half the US conventional oil reserves. The billion middle-class people are the engine of global destruction.
 
 2. **Institutional decay:** Churches, parliamentary democracy, legal systems fail due to cultural decay and change too fast to adapt. When they fail, individuals and small groups carry culture forward. Average life expectancy of great corporations is less than a human lifetime. William Irwin Thompson's historical examples: Pythagoras taking knowledge from decaying [[egyptian-mystery-schools-and-pyramid-initiation]], Lindisfarne monks converting Britain before the institutional church gained hold.
 

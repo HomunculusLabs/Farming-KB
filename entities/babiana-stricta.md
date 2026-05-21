@@ -36,7 +36,7 @@ Several horticultural selections have been made, including white-flowered and de
 
 The species was first described as Ixia stricta by Aiton in 1789. It was transferred to Babiana by Sims in 1801.
 
-The genus name Babiana comes from the Dutch word "baviaan" (baboon), referencing baboons' fondness for the corms. The species epithet "stricta" means upright or erect, describing the growth habit.
+The genus name Babiana comes from the Dutch word "baviaan" (baboon), referencing baboons" fondness for the corms. The species epithet "stricta" means upright or erect, describing the growth habit.
 
 Babiana comprises approximately 90 species, almost all endemic to the Cape Floristic Region. B. stricta belongs to section Babiana, the largest section of the genus.
 

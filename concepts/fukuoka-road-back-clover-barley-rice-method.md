@@ -1,5 +1,5 @@
 ---
-title: Fukuoka's comparison-natural-farming-vs-permaculture Method: Clover, Barley, and Rice
+title: Fukuoka"s comparison-natural-farming-vs-permaculture Method: Clover, Barley, and Rice
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
@@ -7,7 +7,7 @@ tags: [regenerative, farming, cover-crop, farming]
 sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
-## Fukuoka's Natural Farming Method: Clover, Barley, and Rice
+## Fukuoka"s Natural Farming Method: Clover, Barley, and Rice
 
 updated: 2026-04-21
 

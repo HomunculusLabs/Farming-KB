@@ -60,7 +60,7 @@ Two short periods of relative calm or shifting wind systems occur between the tr
 
 ### Reading Wind History from the Landscape
 
-Wind-flagging and wind-pruning of older trees reveal the site's summed total wind effects over time—a living record of prevailing wind direction and intensity that every landscape designer should learn to read.
+Wind-flagging and wind-pruning of older trees reveal the site"s summed total wind effects over time—a living record of prevailing wind direction and intensity that every landscape designer should learn to read.
 
 ## Wind Harmonics
 

@@ -2,7 +2,7 @@
 title: "Phenibut"
 type: entity
 tags: []
-sources: ['papers/savory-holistic-resource-management.md']
+sources: ["papers/savory-holistic-resource-management.md']
 ---
 
 ## Chemical Identity

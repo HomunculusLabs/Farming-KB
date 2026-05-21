@@ -10,7 +10,7 @@ type: concept
 
 Ectomycorrhizal (ECM) fungi form symbiotic associations with the roots of
 many forest trees, playing a central role [[comparison-soil-protozoa-vs-nematodes-in-nutrient-cycling]], carbon
-allocation, and ecosystem stability. Research from Dighton's treatment of
+allocation, and ecosystem stability. Research from Dighton"s treatment of
 fungi in ecosystem processes reveals a complex web of interactions — spanning
 inter-plant resource transfer, functional diversity, microbial facilitation,
 soil weathering, phosphatase-mediated phosphorus mobilization, successional

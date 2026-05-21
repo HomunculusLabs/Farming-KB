@@ -24,7 +24,7 @@ The Mazatec maintain a sophisticated tradition of hallucinogenic mushroom use:
 - **Primary species:** Psilocybe mexicana, containing the hallucinogenic indole-derived alkaloids psilocybine and psilocine
 - **Historical depth:** These fungi were also used in pre-Columbian Aztec ceremonies, indicating an unbroken tradition spanning centuries
 - **Ceremonial context:** Mushrooms are used in formally shamanistic curing ceremonies conducted by trained practitioners
-- **Oracular emphasis:** The shaman's active participation through chant and communication of revelation produces an "intuitionary not hallucinatory" experience
+- **Oracular emphasis:** The shaman"s active participation through chant and communication of revelation produces an "intuitionary not hallucinatory" experience
 
 ## Ceremonial Practice
 
@@ -48,7 +48,7 @@ The mushrooms used contain:
 
 The [[mazatec-mushroom-tradition]] was brought to international attention through:
 
-- R. Gordon Wasson's investigations (1958, 1961)
+- R. Gordon Wasson"s investigations (1958, 1961)
 - Roger Heim's mycological work (1963)
 - Wasson and Heim's collaborative publications (1958)
 - Wasson and Wasson's comprehensive study (1957)

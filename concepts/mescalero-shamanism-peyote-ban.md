@@ -14,7 +14,7 @@ The Mescalero Apache of southern New Mexico represent a historically significant
 
 Psychological research conducted by Boyer, Klopfer, and colleagues among the Mescalero Apache distinguished sharply between genuine shamans and pseudoshamans based on Rorschach testing and clinical observation:
 
-- **Shamans** displayed creative characteristics, a high degree of reality testing potential, and the capacity to regress in the service of the ego. They were found to be less hysterical than their culture-mates and approached normality more closely when viewed heteroculturally within Devereux's framework.
+- **Shamans** displayed creative characteristics, a high degree of reality testing potential, and the capacity to regress in the service of the ego. They were found to be less hysterical than their culture-mates and approached normality more closely when viewed heteroculturally within Devereux"s framework.
 - **Pseudoshamans**, by contrast, had impoverished personalities, variable reality testing, and were generally scorned by the community. They were employed only by the most suggestible individuals.
 
 Shamans were able to use imposture convincingly whereas pseudoshamans could not. Both genuine shamans and pseudoshamans were considered by Devereux to be neurotic or psychotic relative to a hypothetical psychological normal, but Boyer clarified that they were not autocultural deviants — they fulfilled normative roles within Apache society.

@@ -6,7 +6,7 @@ topics: cultural evolution, patriarchy, anthropology, gender, history
 
 ## Partnership vs Dominator Culture (McKenna)
 
-Terence McKenna adopted Riane Eisler's framework of "partnership" and
+Terence McKenna adopted Riane Eisler"s framework of "partnership" and
 "dominator" cultural models from her work "The Chalice and the Blade" as
 a central analytical tool in "Food of the Gods." This framework
 organizes human [[partnership-and-dominator-cultures-in-human-history]] are hierarchical, paternalistic, materialistic, and
@@ -23,7 +23,7 @@ promoting substances that reinforce social hierarchy and compliance
 (alcohol, tobacco, sugar, coffee).
 
 The transition from [[allegro-the-sacred-mushroom-amanita-identification]] use to alcohol consumption, in
-McKenna's historical narrative, represents the transition from
+McKenna"s historical narrative, represents the transition from
 partnership to dominator culture. Alcohol, unlike psilocybin, reinforces
 ego boundaries, promotes aggression, and supports male dominance
 patterns. The shift from a mushroom-eating, goddess-worshipping culture

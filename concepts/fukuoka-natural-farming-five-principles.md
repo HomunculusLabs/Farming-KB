@@ -1,5 +1,5 @@
 ---
-title: Fukuoka's Five four-principles-of-natural-farming Farming
+title: Fukuoka"s Five four-principles-of-natural-farming Farming
 source: administrator-microsoft-word-fukuoka-textdoc.md
 tags: [agriculture, natural-farming, permaculture, philosophy, soil-health]
 created: 2026-05-09
@@ -18,7 +18,7 @@ Nature maintains balance among thousands of plant diseases without human interve
 - **First application**: Tens of thousands of young spiders per square yard vanish; swarms of fireflies disappear at once.
 - **Second application**: Chalcid wasps—important natural predators—are killed; dragonfly larvae, tadpoles, and loaches are left victimized.
 
-Yet insect damage in sprayed fields remains largely the same as in unsprayed fields. In Fukuoka's fields, whenever leafhopper outbreaks occurred, spider populations multiplied in response. As long as natural enemies are also present, a natural balance asserts itself. Fukuoka noted that pesticides ruin the soil and create pollution problems, while the blanket application of poisons kills beneficial organisms far more effectively than pests.
+Yet insect damage in sprayed fields remains largely the same as in unsprayed fields. In Fukuoka"s fields, whenever leafhopper outbreaks occurred, spider populations multiplied in response. As long as natural enemies are also present, a natural balance asserts itself. Fukuoka noted that pesticides ruin the soil and create pollution problems, while the blanket application of poisons kills beneficial organisms far more effectively than pests.
 
 ### 4. No Weeding
 

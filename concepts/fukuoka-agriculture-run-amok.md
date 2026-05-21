@@ -14,7 +14,7 @@ In *The Road Back to Nature*, [[fukuoka-natural-fertility-cycle]]
 
 ## Reversal of Expectations
 
-Before visiting America, Fukuoka intended to ask American farmers to stop exporting grain to Japan. Instead, he discovered that American farmers suffer even greater hardships than Japanese farmers, fundamentally undermining his expectations about which country's agriculture was more "advanced."
+Before visiting America, Fukuoka intended to ask American farmers to stop exporting grain to Japan. Instead, he discovered that American farmers suffer even greater hardships than Japanese farmers, fundamentally undermining his expectations about which country"s agriculture was more "advanced."
 
 See also: [[fukuoka-critique-modern-agriculture]]
 

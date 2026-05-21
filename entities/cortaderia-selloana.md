@@ -10,7 +10,7 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Bossard, C.C. et al. (2000). "Invasive Plants of California's Wildlands." University of California Press.
+  - Bossard, C.C. et al. (2000). "Invasive Plants of California"s Wildlands." University of California Press.
 ---
 
 ## Overview

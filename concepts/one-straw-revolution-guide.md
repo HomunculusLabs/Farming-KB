@@ -43,7 +43,7 @@ Fukuoka opens by showing his fields: rye and barley yielding ~22 bushels (1,300 
 
 ### The Awakening (Nothing At All)
 
-Fukuoka's transformation at age 25 (May 15th, ~1933). Working as a plant pathologist at Yokohama Customs Bureau under Professor [[eiichi-kurosawa]] (who first isolated gibberellin), he contracted acute pneumonia. After hospital release, he wandered nightly in existential crisis, finally collapsing against a tree overlooking Yokohama harbor at dawn:
+Fukuoka"s transformation at age 25 (May 15th, ~1933). Working as a plant pathologist at Yokohama Customs Bureau under Professor [[eiichi-kurosawa]] (who first isolated gibberellin), he contracted acute pneumonia. After hospital release, he wandered nightly in existential crisis, finally collapsing against a tree overlooking Yokohama harbor at dawn:
 
 "In this world there is nothing at all."
 
@@ -51,7 +51,7 @@ He felt "true nature" revealed. A night heron appeared, cried, and flew away. He
 
 ### Returning to the Country
 
-He returned to his father's citrus farm, moved to a mountain hut, and began "do-nothing" farming in 1938. His first orchard was a disaster — his father had already pruned the trees to "sake cup shape"; when Fukuoka abandoned them, branches tangled, insects attacked, and the entire orchard withered: "This is abandonment, not natural farming."
+He returned to his father"s citrus farm, moved to a mountain hut, and began "do-nothing" farming in 1938. His first orchard was a disaster — his father had already pruned the trees to "sake cup shape"; when Fukuoka abandoned them, branches tangled, insects attacked, and the entire orchard withered: "This is abandonment, not natural farming."
 
 He spent 8 years at the Kochi Prefecture Testing Station as Head Researcher of Disease and Insect Control, pondering scientific vs. natural agriculture while managing wartime food production.
 
@@ -59,7 +59,7 @@ He spent 8 years at the Kochi Prefecture Testing Station as Head Researcher of D
 
 ### The Balanced Ecosystem
 
-Fukuoka walks visitors through his fields: dragonflies, moths, honeybees, spiders, frogs, lizards, moles, earthworms — "a balanced rice field ecosystem." Contrast with the neighbor's field: weeds wiped out by herbicides, soil animals exterminated by poison, soil burned clean of organic matter by chemical fertilizers. "These rice fields, farmed continuously for over 1,500 years, have now been laid waste by the exploitive farming practices of a single generation."
+Fukuoka walks visitors through his fields: dragonflies, moths, honeybees, spiders, frogs, lizards, moles, earthworms — "a balanced rice field ecosystem." Contrast with the neighbor"s field: weeds wiped out by herbicides, soil animals exterminated by poison, soil burned clean of organic matter by chemical fertilizers. "These rice fields, farmed continuously for over 1,500 years, have now been laid waste by the exploitive farming practices of a single generation."
 
 ### The Four Principles
 
@@ -128,9 +128,9 @@ From tree to market: 5-6 chemicals applied (fertilizers, sprays during growth, c
 
 Distinguishes between discriminating knowledge (analytic, wilful intellect) and non-discriminating knowledge (accepting experience as it is). "Nature as grasped by scientific knowledge is a nature that has been destroyed; it is a ghost possessing a skeleton, but no soul."
 
-### Nature's Food Mandala
+### Nature"s Food Mandala
 
-Fukuoka's food mandala maps seasonal eating: seven herbs in early spring, mountain vegetables in March, bamboo shoots with rock cod in season, brown rice and vegetables as staples. "A natural diet lies right at one's feet."
+Fukuoka's food mandala maps seasonal eating: seven herbs in early spring, mountain vegetables in March, bamboo shoots with rock cod in season, brown rice and vegetables as staples. "A natural diet lies right at one"s feet."
 
 ## Book V: Foolishness Comes Out Looking Smart
 
@@ -142,7 +142,7 @@ Young people from cities, researchers, students, poets, wanderers gathered at th
 
 "People study because they think they do not understand, but studying is not going to help one to understand. They study hard only to find out in the end that people cannot know anything." The path: abandon discriminating knowledge, and "non-discriminating knowledge of itself arises within him."
 
-"The more people do, the more society develops, and the more problems arise. The increasing desolation of nature, the exhaustion of resources, the uneasiness and disintegration of the human spirit, all have been brought about by humanity's trying to accomplish something."
+"The more people do, the more society develops, and the more problems arise. The increasing desolation of nature, the exhaustion of resources, the uneasiness and disintegration of the human spirit, all have been brought about by humanity"s trying to accomplish something."
 
 ## Key Quotes
 

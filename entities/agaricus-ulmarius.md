@@ -22,7 +22,7 @@ in the same spot, especially in clefts or where limbs have been sawn off.
 - **Class:** Agaricomycetes
 - **Order:** Agaricales
 - **Family:** Lyophyllaceae (modern) / Agaricaceae (historical)
-- **Genus:** Hypsizygus (modern) / Agaricus (historical, Palmer's usage)
+- **Genus:** Hypsizygus (modern) / Agaricus (historical, Palmer"s usage)
 - **Species:** Hypsizygus ulmarius
 
 ## Key Facts

@@ -26,7 +26,7 @@ describing intention as "focused, clear, and direct" and supported by
 "unwavering commitment." Examples include "I want to heal" or "I want to
 discover what is blocking my healing." The framework draws on placebo,
 nocebo, and quantum research to suggest that conscious intention can
-"activate and support the body's capacity for self-healing."
+"activate and support the body"s capacity for self-healing."
 
 **The Exploration:** After entering a relaxed state with an appropriately
 dosed amount of cannabis, the practitioner focuses on the tension,
@@ -45,7 +45,7 @@ integration:
    compassion, forgiveness).
 
 3. **Power of Choice** — Consciously choosing new responses rather than
-   automatic reactions, leveraging the ECS's role in neuroplasticity to
+   automatic reactions, leveraging the ECS"s role in neuroplasticity to
    establish new neural pathways.
 
 4. **Belief Reprogramming** — Identifying and transforming limiting beliefs

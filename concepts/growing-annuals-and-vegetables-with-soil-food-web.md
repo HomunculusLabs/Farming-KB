@@ -56,7 +56,7 @@ Turning soil every spring is one of the most destructive gardening practices:
    compaction. Without fungal glues or worm tunnels, soil collapses and
    hardens, leading gardeners to till again — a vicious cycle.
 
-### Historical Note: Jethro Tull's Mistake
+### Historical Note: Jethro Tull"s Mistake
 
 The practice traces back to **Jethro Tull** (1674–1741), who invented the seed
 drill. Tull mistakenly believed roots "ate" soil particles and that finer

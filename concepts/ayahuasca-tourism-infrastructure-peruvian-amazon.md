@@ -13,7 +13,7 @@ type: concept
 Ayahuasca [[western-spiritual-tourism-chronology]] seeking.
 The infrastructure supporting this tourism has developed organically across
 several Amazonian regions, with varying degrees of commercialisation and
-cultural authenticity. R. Stuart's 2002 field observations in the Ucayali
+cultural authenticity. R. Stuart"s 2002 field observations in the Ucayali
 region provide a detailed ground-level view of this phenomenon.
 
 ## Major Ayahuasca Tourism Hubs

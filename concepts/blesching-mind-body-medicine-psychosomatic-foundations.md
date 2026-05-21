@@ -16,7 +16,7 @@ The modern field of psychosomatic medicine was established by two key figures wh
 
 **Psychology** provides therapeutic support through structured interactions between patient and therapist. An initial interview identifies problem areas including underlying causes, and the therapist employs specific techniques to collaboratively produce desired changes. The therapist is typically viewed as the expert, and the approach values the therapeutic relationship as a vehicle for healing. This method allows deeper exploration of emotional contributors to illness than pharmacotherapy alone.
 
-**Transpersonal Psychology** incorporates Eastern-influenced psycho-spiritual approaches where the patient embarks on a therapeutic journey emphasizing self-responsibility for problem discovery, origins, and self-guided treatments. Mindfulness and spiritual practices are common modalities. A therapist, if employed, acts primarily as a catalyst for the patient's own process of uncovering their truth about what ails them and how to address it.
+**Transpersonal Psychology** incorporates Eastern-influenced psycho-spiritual approaches where the patient embarks on a therapeutic journey emphasizing self-responsibility for problem discovery, origins, and self-guided treatments. Mindfulness and spiritual practices are common modalities. A therapist, if employed, acts primarily as a catalyst for the patient"s own process of uncovering their truth about what ails them and how to address it.
 
 **Shamanic Approach** engages the assistance of a plant ally such as cannabis to find and make conscious that which is in the way of healing, and to explore ways of replacing it with patterns that support health and well-being. The plant ally serves as a facilitator of [[oner-cannabis-phenotypes-genetic-expression]] via a direct pathway into the cellular nucleus, without changing the DNA sequence itself. Three mechanistic components are involved:
 
@@ -30,7 +30,7 @@ Mouse studies have demonstrated that emotional material from traumatic experienc
 
 Mind-body medicine modalities carry risks for a small percentage of practitioners. Observations from long-term mindfulness practitioners, psychotherapists, meditation teachers, and shamanic practitioners suggest disturbances may occur including confusion, feeling lost, psychotic episodes, relationship dissolution, or difficulty concentrating.
 
-In Christian spiritual traditions this disturbance is called "the dark night of the soul" and reflects a spiritual crisis on the person's way to union with God. In meditation circles it may be called "enlightenment's evil twin," often related to irreversible insights such as staring into "emptiness" or experiencing "no-sel stanislav grof Grof, MD, who researched extraordinary [[blesching-molecules-emotions-endocannabinoid-bridge]]
+In Christian spiritual traditions this disturbance is called "the dark night of the soul" and reflects a spiritual crisis on the person"s way to union with God. In meditation circles it may be called "enlightenment"s evil twin," often related to irreversible insights such as staring into "emptiness" or experiencing "no-sel stanislav grof Grof, MD, who researched extraordinary [[blesching-molecules-emotions-endocannabinoid-bridge]]
 - [[doc]]
 - [[soma]]
 - [[endocannabinoid-system]]

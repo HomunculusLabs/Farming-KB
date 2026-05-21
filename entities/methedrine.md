@@ -10,7 +10,7 @@ type: entity
 
 Methedrine is a brand name for methamphetamine, a powerful central nervous system (CNS) stimulant of the phenethylamine and amphetamine classes. Originally developed in the early 20th century, methamphetamine produces pronounced effects including euphoria, increased alertness, elevated energy, enhanced focus, and elevated mood. It has been used medically for conditions including narcolepsy, attention deficit hyperactivity disorder (ADHD), and obesity, though its medical use is now severely restricted due to its high abuse potential.
 
-In *The [[leary-psychedelic-experience-bardo-mapping]]*, Leary references Methedrine in two distinct contexts: as a pre-session mood enhancer to establish a pleasant euphoric baseline, and as a "set-breaker" during sessions to interrupt repetitive game-routines. Critically, Leary specifies that its use must always be with the person's full knowledge and consent.
+In *The [[leary-psychedelic-experience-bardo-mapping]]*, Leary references Methedrine in two distinct contexts: as a pre-session mood enhancer to establish a pleasant euphoric baseline, and as a "set-breaker" during sessions to interrupt repetitive game-routines. Critically, Leary specifies that its use must always be with the person"s full knowledge and consent.
 
 ## Classification
 
@@ -50,7 +50,7 @@ These doses are consistent with the lower therapeutic range for methamphetamine,
 
 ## Relevance to Psychedelic Studies
 
-Leary's inclusion of Methedrine in *The Psychedelic Experience* reflects a pragmatic, pharmacologically sophisticated approach to managing the set and trajectory of psychedelic sessions. Two distinct applications are described:
+Leary"s inclusion of Methedrine in *The Psychedelic Experience* reflects a pragmatic, pharmacologically sophisticated approach to managing the set and trajectory of psychedelic sessions. Two distinct applications are described:
 
 ### Pre-Session Mood Enhancement
 

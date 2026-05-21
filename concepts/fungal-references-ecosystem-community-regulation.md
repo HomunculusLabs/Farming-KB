@@ -6,7 +6,7 @@ type: concept
 
 ## Key References on Fungi and Population/Community Regulation
 
-This page catalogs the foundational references cited in Chapter 5 of Dighton's *Fungi in Ecosystem Processes*, covering fungal roles in population dynamics and community structure regulation. These references span mycorrhizal ecology, biological control, endophyte-plant interactions, and fungal-mediated succession.
+This page catalogs the foundational references cited in Chapter 5 of Dighton"s *Fungi in Ecosystem Processes*, covering fungal roles in population dynamics and community structure regulation. These references span mycorrhizal ecology, biological control, endophyte-plant interactions, and fungal-mediated succession.
 
 ## Mycorrhizal Contributions to Community Structure
 

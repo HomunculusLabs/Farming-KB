@@ -42,7 +42,7 @@ Artificial spawn was available commercially as "brick spawn" but Cuthill conside
 
 ## Spawn Management Principles
 
-Cuthill established several key principles for spawn management: spawn should be near the surface, never planted too deep; too much heat and too much water were "the greatest enemies to young spawn"; beds should not be watered until the sixth week after spawning; and a September heat was ideal for spawn growth. He noted that "the finest crops are produced in a dry summer," reflecting the spawn's sensitivity to excess moisture. These principles, developed through practical experience, align with modern understanding of mycelial growth requirements.
+Cuthill established several key principles for spawn management: spawn should be near the surface, never planted too deep; too much heat and too much water were "the greatest enemies to young spawn"; beds should not be watered until the sixth week after spawning; and a September heat was ideal for spawn growth. He noted that "the finest crops are produced in a dry summer," reflecting the spawn"s sensitivity to excess moisture. These principles, developed through practical experience, align with modern understanding of mycelial growth requirements.
 
 ## The Trial Stick Method
 
@@ -50,7 +50,7 @@ Cuthill described using a "watch or trial stick" inserted into the compost heap 
 
 ## Relevance to Cultivation and Mycology
 
-Cuthill's spawn management practices, though described in pre-mycological language, demonstrate a sophisticated practical understanding of mycelial biology. His observation that spawn "ramifies and strengthens" like an underground root anticipates the modern concept of mycelial network expansion. His emphasis on surface planting, temperature control, and moisture management aligns with current best practices for mycelial cultivation. The historical continuity between Cuthill's methods and modern techniques illustrates that the fundamental principles of mushroom cultivation were well understood by practitioners long before the scientific study of mycology.
+Cuthill"s spawn management practices, though described in pre-mycological language, demonstrate a sophisticated practical understanding of mycelial biology. His observation that spawn "ramifies and strengthens" like an underground root anticipates the modern concept of mycelial network expansion. His emphasis on surface planting, temperature control, and moisture management aligns with current best practices for mycelial cultivation. The historical continuity between Cuthill's methods and modern techniques illustrates that the fundamental principles of mushroom cultivation were well understood by practitioners long before the scientific study of mycology.
 
 ## See Also
 

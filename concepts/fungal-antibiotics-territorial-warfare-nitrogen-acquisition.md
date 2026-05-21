@@ -21,7 +21,7 @@ Second, they obtain an extra shot of nutrients from the dead bacteria
 whose cells rupture and leak their contents after antibiotic exposure.
 
 Mushroom-forming basidiomycetes — the group that includes ink-caps,
-puffballs, and bird's nest fungi — are all adept predators of soil
+puffballs, and bird"s nest fungi — are all adept predators of soil
 bacteria.
 They secrete antibiotics into the soil around their hyphae, killing
 bacteria in the immediate vicinity and then absorbing the nutrients

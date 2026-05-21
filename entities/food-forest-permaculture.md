@@ -14,7 +14,6 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - "Shepard, M. (2013). Restoration Agriculture. Acres USA."---
----
 
 ## Food Forest (Permaculture System)
 

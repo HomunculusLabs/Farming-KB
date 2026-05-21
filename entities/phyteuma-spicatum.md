@@ -68,7 +68,7 @@ Young leaves are also edible as a cooked green, though they are somewhat bitter.
 
 Plants flower from May through July and set seed in August. The cream-white flower spikes are attractive but not showy, making the species more suited to naturalistic plantings than formal display borders.
 
-Rampion root appears in the Brothers Grimm fairy tale "Rapunzel," in which a pregnant woman craves rampion from a witch's garden. While the story refers to several possible Phyteuma or Campanula species, Phyteuma spicatum is one of the candidates for the plant in question.
+Rampion root appears in the Brothers Grimm fairy tale "Rapunzel," in which a pregnant woman craves rampion from a witch"s garden. While the story refers to several possible Phyteuma or Campanula species, Phyteuma spicatum is one of the candidates for the plant in question.
 
 ## Ecological Role
 

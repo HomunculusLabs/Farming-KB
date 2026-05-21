@@ -1,5 +1,5 @@
 ---
-title: Maxwell's Equations of Electromagnetism
+title: Maxwell"s Equations of Electromagnetism
 type: concept
 aliases: [Maxwell equations, Maxwell's equations, electromagnetic field equations]
 tags: [physics, electromagnetism, classical-electrodynamics, wave-equation]

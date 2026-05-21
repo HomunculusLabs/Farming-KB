@@ -20,7 +20,7 @@ Iquitos has served as the most popular destination for ayahuasca tourists in Per
 
 As the largest city in the Peruvian Amazon accessible only by air or river, Iquitos functions as the primary gateway for international visitors seeking ayahuasca experiences.
 
-The city's tourism infrastructure has developed substantially around this demand, with numerous lodges, guides, and facilitators catering specifically to foreign visitors.
+The city"s tourism infrastructure has developed substantially around this demand, with numerous lodges, guides, and facilitators catering specifically to foreign visitors.
 
 Its relative accessibility compared to deeper jungle locations makes it the default entry point for most first-time ayahuasca tourists.
 

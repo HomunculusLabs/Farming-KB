@@ -14,7 +14,7 @@ sources:
 
 ## Overview
 
-Aeonium haworthii, commonly called "pinwheel desert rose" or "Haworth's aeonium," is a branched succulent shrub in the family Crassulaceae.
+Aeonium haworthii, commonly called "pinwheel desert rose" or "Haworth"s aeonium," is a branched succulent shrub in the family Crassulaceae.
 
 It is native to the Canary Islands, specifically Tenerife, where it grows on coastal cliffs and rocky hillsides.
 

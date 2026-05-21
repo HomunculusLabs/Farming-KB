@@ -29,7 +29,7 @@ The orchard included chickens, geese, a few goats, rabbits, and bee hives. The c
 
 ### Vertical Diversity
 
-The most important principle in Fukuoka's orchard design is the use of multiple vertical layers. In a natural forest, plants occupy every available niche from the forest floor to the canopy. By replicating this vertical diversity, Fukuoka maximized the productivity of each unit of land area while creating habitat for a wide range of beneficial organisms.
+The most important principle in Fukuoka"s orchard design is the use of multiple vertical layers. In a natural forest, plants occupy every available niche from the forest floor to the canopy. By replicating this vertical diversity, Fukuoka maximized the productivity of each unit of land area while creating habitat for a wide range of beneficial organisms.
 
 ### Self-Seeding and Naturalization
 

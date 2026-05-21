@@ -12,7 +12,7 @@ sources:
 
 ## Overview
 
-One of the most consistently reported effects of psilocybin mushrooms is a profound sense of connection to the natural world. Simon G. Powell and other thinkers have argued that this "nature connectedness" is not merely a subjective feeling but reflects a genuine ecological insight -- that the psilocybin experience can reveal the interconnected nature of biological systems and humanity's place within them.
+One of the most consistently reported effects of psilocybin mushrooms is a profound sense of connection to the natural world. Simon G. Powell and other thinkers have argued that this "nature connectedness" is not merely a subjective feeling but reflects a genuine ecological insight -- that the psilocybin experience can reveal the interconnected nature of biological systems and humanity"s place within them.
 
 ## The Ecological Argument
 
@@ -28,7 +28,7 @@ Psychedelic mushrooms represent "a facet of the environment still wild and free"
 
 ## Indigenous Ecological Knowledge
 
-The Aztec relationship with mushrooms provides what Powell calls "testimony to the Aztec's sacred links to the natural environment, with its varied potent botanical resources." Mesoamerican codices show gods clutching mushrooms, suggesting a worldview in which psychoactive plants were understood as integral to the spiritual ecology of the world.
+The Aztec relationship with mushrooms provides what Powell calls "testimony to the Aztec"s sacred links to the natural environment, with its varied potent botanical resources." Mesoamerican codices show gods clutching mushrooms, suggesting a worldview in which psychoactive plants were understood as integral to the spiritual ecology of the world.
 
 ## The Mushroom as Environmental Teacher
 

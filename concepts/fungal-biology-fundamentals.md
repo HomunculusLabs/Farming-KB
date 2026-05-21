@@ -9,7 +9,7 @@ sources: [raw/papers/unknown-mr-bloomfields-orchard-mysterious-world-of-mushroom
 
 # Fungal Biology Fundamentals
 
-Core biology of fungi as revealed through Nicholas Money's "Mr. Bloomfield's Orchard" and Julius Palmer's "About Mushrooms" (1894).
+Core biology of fungi as revealed through Nicholas Money"s "Mr. Bloomfield"s Orchard" and Julius Palmer"s "About Mushrooms" (1894).
 
 ## The Fungal Kingdom
 

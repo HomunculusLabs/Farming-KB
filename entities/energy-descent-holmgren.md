@@ -7,7 +7,7 @@ tags: [concept, permaculture, energy, sustainability]
 
 ## Description
 
-Energy Descent is a foundational concept in David Holmgren's permaculture framework, describing the anticipated period following the peak of global fossil fuel production. It refers to the progressive decline in net energy available to industrial societies as cheap fossil energy becomes scarce. Holmgren uses this concept as a lens through which to reimagine human settlement, agriculture, and social organization.
+Energy Descent is a foundational concept in David Holmgren"s permaculture framework, describing the anticipated period following the peak of global fossil fuel production. It refers to the progressive decline in net energy available to industrial societies as cheap fossil energy becomes scarce. Holmgren uses this concept as a lens through which to reimagine human settlement, agriculture, and social organization.
 
 ## Classification
 
@@ -22,7 +22,7 @@ Energy Descent is a foundational concept in David Holmgren's permaculture framew
 - The concept emphasizes that energy descent is not simply collapse but can be a managed, intentional transition.
 - It contrasts with "techno-optimism" — the belief that technology will always substitute for declining fossil fuel energy.
 - Holmgren argues that mass-consumer societies must shift toward diverse, localized solutions during energy descent.
-- The concept draws on Howard Odum's Maximum Power Law and systems ecology, applying thermodynamic principles to cultural evolution.
+- The concept draws on Howard Odum"s Maximum Power Law and systems ecology, applying thermodynamic principles to cultural evolution.
 - Energy descent is linked to Holmgren's broader idea of "cultures of place" — rebuilding local identity and self-reliance.
 - The "Energy Hierarchy" (reduce, reuse, recycle, recover) is a practical tool within this framework.
 - Holmgren connects energy descent to "pulsing" models of ecosystem change, where systems reorganize after disturbance.

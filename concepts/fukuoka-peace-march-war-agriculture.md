@@ -1,5 +1,5 @@
 ---
-title: Fukuoka's fukuoka-paris-peace-march-nature-university and the Connection Between War and Agriculture
+title: Fukuoka"s fukuoka-paris-peace-march-nature-university and the Connection Between War and Agriculture
 created: 2026-04-16
 updated: 2026-04-16
 type: concept

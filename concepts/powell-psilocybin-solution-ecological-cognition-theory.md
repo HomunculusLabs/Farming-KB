@@ -12,7 +12,7 @@ tags: [ecology, psilocybin]
 
 Simon G. Powell develops an ecological cognition framework in which knowledge, meaning, and intelligence are not properties of isolated minds but emergent features of the entire biospheric system. Consciousness is one informational pattern within a nested hierarchy of language-like formal systems -- from particle physics through chemistry, DNA, and finally to mind -- all embedded within what he calls the Universal Computation.
 
-Powell's central claim is that cognition is fundamentally ecological: the environment is not a passive backdrop against which thinking occurs but an active participant in informational exchanges that constitute thought itself. This reframes the relationship between mind and Nature as one of continuity rather than separation.
+Powell"s central claim is that cognition is fundamentally ecological: the environment is not a passive backdrop against which thinking occurs but an active participant in informational exchanges that constitute thought itself. This reframes the relationship between mind and Nature as one of continuity rather than separation.
 
 ## The Informational Continuum
 
@@ -29,7 +29,7 @@ Each level "begets" the next through self-organization, and each operates accord
 
 ## Language-Like Nature of Reality
 
-Powell's ecological cognition theory rests on the claim that information in Nature flows "in a language-like way." He argues that "the elements in informational systems like that of DNA uttered their informative content in response to specific contexts, as if natural dialogues were unfolding." Language, in whatever mode, is "a formal, and hence informational, system" -- and the Universe itself is a meta-formal system of nested languages.
+Powell"s ecological cognition theory rests on the claim that information in Nature flows "in a language-like way." He argues that "the elements in informational systems like that of DNA uttered their informative content in response to specific contexts, as if natural dialogues were unfolding." Language, in whatever mode, is "a formal, and hence informational, system" -- and the Universe itself is a meta-formal system of nested languages.
 
 This has a specific implication for ecological cognition: the environment is not a passive backdrop for cognitive agents but an active participant in informational dialogues. Organisms "make sense" only because Nature is already sensible and can be made sense of. The dialogue between organism and environment, Powell argues, extends to inorganic matter: even hydrogen atoms can be understood as "words" in the language of physics.
 
@@ -39,7 +39,7 @@ Powell extends the language metaphor to describe [[fukuoka-view-of-nature-and-hu
 
 ## Gaia as Self-Stimulational System
 
-Powell extends [[james-lovelock]]'s [[gaia-hypothesis]] into explicitly cognitive territory. Gaia, he argues, is "a self-stimulational informational system able to achieve highly integrated forms of information (organisms) because all the information needed for this process was written into previous states of the Gaian system." Evolution is not merely adaptation but an autocatalytic process in which:
+Powell extends [[james-lovelock]]"s [[gaia-hypothesis]] into explicitly cognitive territory. Gaia, he argues, is "a self-stimulational informational system able to achieve highly integrated forms of information (organisms) because all the information needed for this process was written into previous states of the Gaian system." Evolution is not merely adaptation but an autocatalytic process in which:
 
 - The environment provides contextual feedback that "highlights the sensibility" of genetic variants
 - Organisms and their environment form "one interconnected system in which evolution occurs"
@@ -49,11 +49,11 @@ Powell extends [[james-lovelock]]'s [[gaia-hypothesis]] into explicitly cognitiv
 
 ## Shamanic Cognition as Ecological Process
 
-Powell's most distinctive contribution is his treatment of [[powell-natural-intelligence-and-the-universal-computation]] upon its refined surface."
+Powell"s most distinctive contribution is his treatment of [[powell-natural-intelligence-and-the-universal-computation]] upon its refined surface."
 
 ## Natural Selection as Natural Intelligence
 
-Powell reinterprets Darwinian natural selection through the lens of ecological cognition. He argues that "the 'natural' component of natural selection represents a natural intelligence (hereby Natural Intelligence) as opposed to, say, human intelligence." Just as artificial selection by humans governs selective breeding, Natural Intelligence governs the evolutionary process through the meaningful configuration of environmental contexts.
+Powell reinterprets Darwinian natural selection through the lens of ecological cognition. He argues that "the "natural' component of natural selection represents a natural intelligence (hereby Natural Intelligence) as opposed to, say, human intelligence." Just as artificial selection by humans governs selective breeding, Natural Intelligence governs the evolutionary process through the meaningful configuration of environmental contexts.
 
 Natural selection thus becomes Natural Intelligence "at work, quite literally a response of Nature to its own significant contextual configuration." This is not creationism but a reframing: the intelligent properties of the environment ensure that a fraction of genetic variants will be favoured through reproductive advantage. Evolution is "the manifestation of an immense intelligence" that has built up forms of integrated information to the level we observe today.
 
@@ -67,7 +67,7 @@ The critical insight is that genetic algorithms only work because the computatio
 
 Powell explicitly contrasts his ecological cognition theory with what he calls the "null hypothesis" -- the view that the Universe is accidental, one of an infinity, and that the psilocybin experience is "no more than a trap-like aberration distracting us from more pressing concerns." Against this, he proposes the "fantastic hypothesis": that reality is "a meaningful and intelligent system as opposed to some mindless accident going nowhere."
 
-Under the fantastic hypothesis, "we are woven into an orchestrational tide of information, interconnected throughout, whose glorious and spectacular purpose awaits us." If the natural tendency of the Universe is to foster the integration of more and more information, then "as with gravity in the 'physical' realm drawing together atoms and elements, the result of this tendency in the realm of human consciousness might be to draw some kind of 'truthful solution' into being like an ultimate pattern falling into place."
+Under the fantastic hypothesis, "we are woven into an orchestrational tide of information, interconnected throughout, whose glorious and spectacular purpose awaits us." If the natural tendency of the Universe is to foster the integration of more and more information, then "as with gravity in the "physical' realm drawing together atoms and elements, the result of this tendency in the realm of human consciousness might be to draw some kind of 'truthful solution' into being like an ultimate pattern falling into place."
 
 ## Consciousness as Environmental Awareness
 

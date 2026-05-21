@@ -5,7 +5,7 @@ tags:
 ---
 
 **Source:** [[slime-molds]], and yeasts —
-perform the essential work of decomposition that keeps the earth's surface clean and
+perform the essential work of decomposition that keeps the earth"s surface clean and
 fertile, and that human attempts to improve upon or accelerate these natural processes
 through composting, [[lactic-acid-bacteria-knf]], a person vanishes as a sweet,
 acrid aroma through lactic fermentation.

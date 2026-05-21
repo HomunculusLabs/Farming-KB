@@ -8,7 +8,7 @@ type: concept
 
 ## The Design Science Revolution
 
-[[arthur-koestler]]'s insight that all living organisms are "open systems" is foundational to permaculture thinking. Living organisms maintain their complex forms and functions through continuous exchanges of energies and materials with their environment. Unlike mechanical clocks that dissipate energy through friction, living organisms constantly build up more complex substances, more complex forms of energies, and more complex patterns of information from the inputs of their receptor organs.
+[[arthur-koestler]]"s insight that all living organisms are "open systems" is foundational to permaculture thinking. Living organisms maintain their complex forms and functions through continuous exchanges of energies and materials with their environment. Unlike mechanical clocks that dissipate energy through friction, living organisms constantly build up more complex substances, more complex forms of energies, and more complex patterns of information from the inputs of their receptor organs.
 
 This distinction between closed systems (where reactions take place in confinement and can be reversed, as in thermodynamics) and open systems (where energy is gained or lost irreversibly, changing both the system and its environment) is critical. The second law of thermodynamics states that energy tends to dissipate and organized systems drift inevitably towards entropy or chaos. Yet biological systems, in seeming violation, tend to become increasingly complex and efficient.
 
@@ -16,7 +16,7 @@ This distinction between closed systems (where reactions take place in confineme
 
 [[gaia-hypothesis]] provides another foundational concept. Edward Goldsmith summarises it: the biosphere actually created those conditions required for its own support and systematically builds up the stock of materials it requires to move toward increasing complexity, diversity, and stability. The earth less and less appears to behave like a material assembly and more and more appears to act as a thought process.
 
-The practical implication for designers is that if we maltreat, overload, deform, or deflect natural systems and processes, we will get a reaction, and this reaction may have long-term consequences. The directive is simple but profound: "Don't do anything unless you've thought out all its consequences and advantages."
+The practical implication for designers is that if we maltreat, overload, deform, or deflect natural systems and processes, we will get a reaction, and this reaction may have long-term consequences. The directive is simple but profound: "Don"t do anything unless you've thought out all its consequences and advantages."
 
 ## Myth as Design Directive
 
@@ -35,7 +35,7 @@ A key principle in permaculture: the role of beneficial authority is to return f
 
 ## Self-Reliance and Open-System Energy
 
-Within a self-regulated system on earth, energy from the sun can be trapped and stored in any number of ways. While the sun burns, we are in an open system. If we don't destroy the earth, open-system energy saving will support human evolution as conscious beings in a conscious universe.
+Within a self-regulated system on earth, energy from the sun can be trapped and stored in any number of ways. While the sun burns, we are in an open system. If we don"t destroy the earth, open-system energy saving will support human evolution as conscious beings in a conscious universe.
 
 This leads to a core design philosophy: we must accept that immutable rules will not apply in life and design. Instead, we should be guided on our continuing exploration by flexible principles and directives. The book emphasises self-reliance, responsibility, and the functions of living things over rigid prescriptions.
 

@@ -20,7 +20,7 @@ The first form of shamanic healing involves the extraction of a toxin that may
 have been implanted by means of sorcery. In many indigenous shamanic traditions,
 illness is understood not merely as a biological malfunction but as the result
 of a spiritual intrusion—a foreign object or energy that has been introduced
-into the patient's body or energy field by a sorcerer, by malevolent spirits,
+into the patient"s body or energy field by a sorcerer, by malevolent spirits,
 or through exposure to polluted or dangerous places. The shaman, using
 entheogenic plants or other methods of entering [[metzner-metaphysical-realms-nonordinary-reality-shamanic-cosmology]], perceives
 the location and nature of the intrusion and performs an extraction to remove
@@ -62,7 +62,7 @@ the soul fragment is believed to reside. This may be in the "lower world" (a
 realm accessed through a hole in the earth), the "upper world" (reached by
 climbing a cosmic tree or mountain), or some other nonordinary landscape. The
 shaman negotiates with the beings who hold the soul fragment and brings it back
-to the patient, reintegrating it into the patient's being.
+to the patient, reintegrating it into the patient"s being.
 
 ### Modern Applications
 Soul retrieval has been adapted into various contemporary [[metzner-psychedelic-psychotherapy-clinical-history]] tradition, called "perinatal

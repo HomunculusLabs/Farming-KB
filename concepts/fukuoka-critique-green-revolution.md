@@ -1,5 +1,5 @@
 ---
-title: Fukuoka's Critique of the Green Revolution
+title: Fukuoka"s Critique of the Green Revolution
 created: 2026-04-16
 updated: 2026-04-16
 type: concept

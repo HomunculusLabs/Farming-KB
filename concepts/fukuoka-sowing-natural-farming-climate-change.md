@@ -1,5 +1,5 @@
 ---
-title: "Natural biointensive-carbon-farming Change — Fukuoka's Analysis"
+title: "Natural biointensive-carbon-farming Change — Fukuoka"s Analysis"
 created: 2026-04-26
 updated: 2026-04-24
 sources: "masanobu-fukuoka, Sowing Seeds in the Desert (Chelsea Green, 2012)"
@@ -8,7 +8,7 @@ type: concept
 tags: [climate, fukuoka, natural-farming]
 ---
 
-## Natural Farming and Climate Change — Fukuoka's Analysis
+## Natural Farming and Climate Change — Fukuoka"s Analysis
 
 *Fukuoka's analysis of desertification, climate change, and environmental
 degradation, and [[natural-farming-methods-comparison]] were swallowed by
@@ -56,7 +56,7 @@ agricultural drainage water.
 
 Fukuoka proposed a revolutionary understanding of the water cycle. His
 conjecture was that deforestation and the change from perennial bunchgrasses to
-annuals contributed directly to decreased rainfall. "Rain doesn't only fall from
+annuals contributed directly to decreased rainfall. "Rain doesn"t only fall from
 the sky," he suggested. "It also falls up from below." The vegetation,
 especially trees, actually causes rain to fall.
 

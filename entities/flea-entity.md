@@ -29,7 +29,7 @@ Effective oral dosage: 100 - 160 mg.
 
 Duration of effects: 4 - 8 hours.
 
-The dosage is nearly identical to that of mdma-entity|MDMA, consistent with Shulgin's broader hypothesis about N-hydroxy [[query-what-are-the-different-fruit-tree-training-systems-and-which-should-i-use]] juice that has stayed in the can too long."
+The dosage is nearly identical to that of mdma-entity|MDMA, consistent with Shulgin"s broader hypothesis about N-hydroxy [[query-what-are-the-different-fruit-tree-training-systems-and-which-should-i-use]] juice that has stayed in the can too long."
 
 No nausea or difficulty swallowing was noted.
 

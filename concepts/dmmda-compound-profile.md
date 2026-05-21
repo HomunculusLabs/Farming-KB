@@ -21,7 +21,7 @@ DMMDA holds historical significance as the first tetraoxygenated amphetamine eve
 
 ## The Ten Essential Amphetamines
 
-DMMDA occupies a special position in Shulgin's body of work as "one of the ten essential amphetamines." These ten compounds are each derived from one of ten [[dmt-botanical-sources-pharmacology]] that bridge the worlds of natural products chemistry and synthetic psychopharmacology.
+DMMDA occupies a special position in Shulgin"s body of work as "one of the ten essential amphetamines." These ten compounds are each derived from one of ten [[dmt-botanical-sources-pharmacology]] that bridge the worlds of natural products chemistry and synthetic psychopharmacology.
 
 The natural precursor for DMMDA is apiole, isolated from commercial Oil of Parsley by [[holzer-medicinal-and-culinary-herbs-compendium]] and synthetic psychedelics. The concept of "essential amphetamines" parallels and extends the classical "essential oils" of perfumery and herbalism, reframing botanical chemistry through the lens of psychopharmacology.
 

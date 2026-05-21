@@ -9,7 +9,7 @@ sources: [raw/papers/sepp-holzer-practical-guide-to-small-scale-integrative.md]
 
 # Fruit Forest Establishment
 
-Using seedlings as rootstocks for fruit trees is Sepp Holzer's very simple, economical, and practically risk-free method of cultivating a lush fruit forest or orchard.
+Using seedlings as rootstocks for fruit trees is Sepp Holzer"s very simple, economical, and practically risk-free method of cultivating a lush fruit forest or orchard.
 
 ## Soil Preparation
 

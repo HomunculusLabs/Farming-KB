@@ -22,11 +22,11 @@ sources:
 
 # Sarah C. Watkinson
 
-Research Lecturer in the Department of Plant Sciences and Tutor in Biology at St Hilda's College, University of Oxford. Co-editor of "Fungi in the Environment" (2007, Cambridge University Press) with [[geoffrey-gadd]] and Paul S. Dyer, a British Mycological Society symposium volume examining fungal roles in terrestrial and aquatic ecosystems.
+Research Lecturer in the Department of Plant Sciences and Tutor in Biology at St Hilda"s College, University of Oxford. Co-editor of "Fungi in the Environment" (2007, Cambridge University Press) with [[geoffrey-gadd]] and Paul S. Dyer, a British Mycological Society symposium volume examining fungal roles in terrestrial and aquatic ecosystems.
 
 ## Research Focus
 
-Watkinson's research spans fungal ecology, decomposition, and environmental microbiology:
+Watkinson"s research spans fungal ecology, decomposition, and environmental microbiology:
 
 - **Fungal community dynamics:** Investigated how fungal communities assemble, compete, and succeed one another in different environments
 - **Decomposition processes:** Studied fungal breakdown of organic matter, particularly wood and leaf litter, contributing to understanding of [[fungal-decomposition]] and [[fungal-ecosystem-roles]]
@@ -37,7 +37,7 @@ Watkinson's research spans fungal ecology, decomposition, and environmental micr
 
 - **"Fungi in the Environment" (2007):** Co-edited this Cambridge University Press volume in the British Mycological Society symposium series. The book draws together microbiologists, mycologists, and environmental scientists and emphasizes molecular/genomic approaches, cell imaging, and modern environmental mycology. Fungi are described as "of fundamental importance in the terrestrial environment" with roles as decomposers, plant pathogens, and symbionts
 - **Cross-disciplinary collaboration:** Her work bridges mycology, plant sciences, and environmental science, making fungal ecology accessible to researchers across disciplines
-- **Oxford academic role:** As a tutor at St Hilda's College, she contributes to training the next generation of mycologists and plant scientists
+- **Oxford academic role:** As a tutor at St Hilda"s College, she contributes to training the next generation of mycologists and plant scientists
 
 ## Context Within British Mycology
 

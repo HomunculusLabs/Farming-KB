@@ -1,5 +1,5 @@
 ---
-title: "Stamets' Species Sequencing: Substrate Recycling and Cascade Cultivation"
+title: "Stamets" Species Sequencing: Substrate Recycling and Cascade Cultivation"
 source: "Growing Gourmet and Medicinal Mushrooms, Paul Stamets, Chapter 22"
 tags:
   - mushroom-cultivation

@@ -10,7 +10,7 @@ tags: [design]
 
 ## Holmgren Site Design as Cellular Design
 
-The cellular design model is David Holmgren's framework for understanding permaculture site development as an organic process analogous to cellular growth and reproduction in [[holmgren-pattern-thinking-and-pattern-language]] in permaculture.
+The cellular design model is David Holmgren"s framework for understanding permaculture site development as an organic process analogous to cellular growth and reproduction in [[holmgren-pattern-thinking-and-pattern-language]] in permaculture.
 
 ## The Site as a Living Cell
 

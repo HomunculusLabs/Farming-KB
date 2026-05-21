@@ -35,7 +35,7 @@ San Francisco exists within a broader network of Shipibo [[ayahuasca-tourism-in-
 - San Francisco is smaller, more intimate, and more authentically Shipibo
 - Iquitos has more developed tourist infrastructure but more commercialized ceremonies
 - San Francisco lacks hotels, while Iquitos has numerous lodges and retreats
-- San Francisco's community-based practice contrasts with Iquitos's more individual shaman-centered model
+- San Francisco"s community-based practice contrasts with Iquitos's more individual shaman-centered model
 - Pricing in San Francisco tends to be lower than in Iquitos's more established tourism market
 
 For tourists seeking a more grounded, community-integrated experience, San Francisco may offer advantages over the more polished but potentially less authentic Iquitos scene.

@@ -11,7 +11,7 @@ sources:
 
 ## Overview
 
-JADAM's pesticide philosophy centers on a radical simplification: instead of developing separate pesticides for each of the 1,000+ pest species, JADAM uses a single formula that works universally by targeting the "size" of the organism rather than its species.
+JADAM"s pesticide philosophy centers on a radical simplification: instead of developing separate pesticides for each of the 1,000+ pest species, JADAM uses a single formula that works universally by targeting the "size" of the organism rather than its species.
 
 ## The Key Insight: Size, Not Species
 

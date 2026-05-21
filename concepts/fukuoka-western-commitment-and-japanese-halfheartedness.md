@@ -23,17 +23,17 @@ In "The Road Back to Nature," Masanobu Fukuoka draws a striking contrast between
 
 ## The Western Approach to Zen and Natural Living
 
-Fukuoka observed that many young Westerners who visited his farm had first stopped at Zen temples such as Eihei-ji or practiced zazen meditation elsewhere. A critical difference emerged in their attitudes. Westerners were willing to say clearly and unequivocally, "I don't understand." They would acknowledge that "nothing came of it and I don't understand it all, but since I do see that I've been traveling the wrong road up until now, I guess that, for better or worse, all I can do is to go on meditating."
+Fukuoka observed that many young Westerners who visited his farm had first stopped at Zen temples such as Eihei-ji or practiced zazen meditation elsewhere. A critical difference emerged in their attitudes. Westerners were willing to say clearly and unequivocally, "I don"t understand." They would acknowledge that "nothing came of it and I don"t understand it all, but since I do see that I've been traveling the wrong road up until now, I guess that, for better or worse, all I can do is to go on meditating."
 
 The persistence of this admission is remarkable. Rather than claiming enlightenment or understanding after a brief exposure, Western practitioners maintained their humility and continued the practice. Fukuoka describes this as a "very small distinction" but identifies it as "where the big difference with the Japanese lies."
 
 The Japanese, by contrast, after a short period of zazen, would put on "a knowing air and say that they understand Zen." Having arrived at a point where they felt they understood, they would stop meditating. Fukuoka identifies this as a fundamental difference: Westerners are "not afraid to admit that they do not understand," while Japanese people cannot tolerate the discomfort of acknowledged ignorance.
 
-This distinction has deep roots in Japanese social culture, where maintaining face and projecting competence are paramount. Admitting ignorance carries social cost in Japan that it does not carry in Western individualist cultures. The Westerner's willingness to say "I don't know" is, paradoxically, a form of courage that the Japanese social structure actively discourages.
+This distinction has deep roots in Japanese social culture, where maintaining face and projecting competence are paramount. Admitting ignorance carries social cost in Japan that it does not carry in Western individualist cultures. The Westerner"s willingness to say "I don"t know" is, paradoxically, a form of courage that the Japanese social structure actively discourages.
 
 ## The Japanese Tendency Toward Compromise
 
-The Japanese approach to decision-making, as Fukuoka describes it, involves a characteristic pattern of hedging and compromise. "If A doesn't work out, then I'll try B next. When they discover that B too has its advantages and disadvantages, they arrive at a decision that is a compromise of both and, relying on their own judgment, elect to follow a third road." Unable to commit fully to either path, they "get lost on a different road altogether." The result is that "everything ends up half-baked."
+The Japanese approach to decision-making, as Fukuoka describes it, involves a characteristic pattern of hedging and compromise. "If A doesn"t work out, then I'll try B next. When they discover that B too has its advantages and disadvantages, they arrive at a decision that is a compromise of both and, relying on their own judgment, elect to follow a third road." Unable to commit fully to either path, they "get lost on a different road altogether." The result is that "everything ends up half-baked."
 
 This pattern extends beyond spiritual practice into all areas of Japanese life, including agriculture, diet, and cultural identity. The Japanese "have lost their simplicity and reason with their minds" rather than acting from conviction. Their decisions are always qualified, always hedged, always subject to revision based on the next piece of information or the next social pressure.
 

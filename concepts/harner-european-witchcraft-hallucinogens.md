@@ -24,7 +24,7 @@ A prevalent attitude among historians is that late medieval and Renaissance witc
 
 The single most important group of plants used by mankind to contact the supernatural belongs to the **order Solanaceae** (the potato family). Hallucinogenic members include:
 
-- **Datura** (Jimson weed, devil's apple, thorn apple, mad apple, devil's weed, Gabriel's trumpet, angel's trumpet) -- used widely in shamanism, witchcraft, and vision quest in Europe, Asia, Africa, and among [[belladonna-atropa-belladonna-ethnobotany]]*)
+- **Datura** (Jimson weed, devil"s apple, thorn apple, mad apple, devil's weed, Gabriel's trumpet, angel's trumpet) -- used widely in shamanism, witchcraft, and vision quest in Europe, Asia, Africa, and among [[belladonna-atropa-belladonna-ethnobotany]]*)
 
 ## Pharmacology
 
@@ -64,11 +64,11 @@ She put one foot into a basket after smearing it with ointment. Francis Fellet u
 ### Johannes Nider (1692)
 A priest witnessed a woman step into a bowl, rub ointment on herself, and fall asleep -- then cry out, strike her hands, and injure herself falling, having dreamed so vividly of flying with Diana.
 
-## Lewin's Account
+## Lewin"s Account
 
 The famous pharmacologist Lewin (1964 [orig. 1924]) writes:
 
-> "Magic ointments or witches' philtres procured for some reason and applied with or without intention produced effects which the subjects themselves believed in, even stating that they had intercourse with evil spirits, had been on the Brocken and danced at the Sabbat with their lovers, or caused damage to others by witchcraft."
+> "Magic ointments or witches" philtres procured for some reason and applied with or without intention produced effects which the subjects themselves believed in, even stating that they had intercourse with evil spirits, had been on the Brocken and danced at the Sabbat with their lovers, or caused damage to others by witchcraft."
 
 ## The Sabbat as Drug-Induced Experience
 

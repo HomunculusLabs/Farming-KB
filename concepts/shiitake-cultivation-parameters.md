@@ -9,7 +9,7 @@ created: 2026-05-11
 
 ## Overview
 
-Shiitake (*Lentinula edodes*) is the second most cultivated mushroom worldwide after the button mushroom, and one of the most thoroughly documented species in Paul Stamets' *Growing Gourmet and Medicinal Mushrooms*. Native to East Asia, where it has been cultivated for over a thousand years, shiitake is prized both for its rich umami flavor and its well-documented medicinal properties, including [[fungal-fruiting-body-formation-environmental-triggers]] for fruiting that make its cultivation both rewarding and technically demanding.
+Shiitake (*Lentinula edodes*) is the second most cultivated mushroom worldwide after the button mushroom, and one of the most thoroughly documented species in Paul Stamets" *Growing Gourmet and Medicinal Mushrooms*. Native to East Asia, where it has been cultivated for over a thousand years, shiitake is prized both for its rich umami flavor and its well-documented medicinal properties, including [[fungal-fruiting-body-formation-environmental-triggers]] for fruiting that make its cultivation both rewarding and technically demanding.
 
 Shiitake cultivation can be pursued through two primary methods: traditional log cultivation and modern indoor sawdust bag cultivation. Each approach has distinct advantages, and many commercial operations employ both. Log-grown shiitake are generally considered superior in flavor and texture, commanding premium prices, while sawdust-grown shiitake offer faster yields and more consistent production cycles.
 
@@ -75,7 +75,7 @@ Drying is an excellent preservation method for shiitake and actually enhances th
 
 ## Medicinal Properties
 
-Shiitake's medicinal reputation extends back centuries in traditional Chinese and Japanese medicine. Modern research has validated several pharmacological properties:
+Shiitake"s medicinal reputation extends back centuries in traditional Chinese and Japanese medicine. Modern research has validated several pharmacological properties:
 
 - **Immune modulation**: Lentinan, a polysaccharide isolated from shiitake, is an approved cancer adjuvant therapy in Japan. It stimulates the immune system by activating macrophages, T-cells, and natural killer cells without directly attacking tumor cells.
 

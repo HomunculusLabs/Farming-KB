@@ -9,7 +9,7 @@ tags: [person, researcher, psychedelic-research, psychologist]
 
 ## Description
 
-Gary M. Fisher was a psychological researcher active in the early 1960s who contributed to the literature on psychedelic drug dosage and psychotherapeutic applications. He is cited by [[timothy-leary]] in *The Psychedelic Experience* as the author of a key paper on dosage levels for psychedelic compounds used in psychotherapeutic contexts. Fisher's 1963 paper in *Psychedelic Review* provided detailed guidance on dose-response relationships for LSD, mescaline, and psilocybin, helping establish the empirical foundation for the dosage recommendations in Leary's manual.
+Gary M. Fisher was a psychological researcher active in the early 1960s who contributed to the literature on psychedelic drug dosage and psychotherapeutic applications. He is cited by [[timothy-leary]] in *The Psychedelic Experience* as the author of a key paper on dosage levels for psychedelic compounds used in psychotherapeutic contexts. Fisher"s 1963 paper in *Psychedelic Review* provided detailed guidance on dose-response relationships for LSD, mescaline, and psilocybin, helping establish the empirical foundation for the dosage recommendations in Leary's manual.
 
 ## Classification
 
@@ -21,10 +21,10 @@ Gary M. Fisher was a psychological researcher active in the early 1960s who cont
 ## Key Facts
 
 - Published "Some Comments Concerning Dosage Levels of Psychedelic Compounds for Psychotherapeutic Experiences" in *Psychedelic Review*, Volume I, Number 2, pages 208-218, 1963.
-- Fisher's paper is cited by Leary as a source for "further, more detailed suggestions concerning dosage" beyond the basic recommendations in the manual.
+- Fisher"s paper is cited by Leary as a source for "further, more detailed suggestions concerning dosage" beyond the basic recommendations in the manual.
 - His work contributed to the standardization of psychedelic dosage protocols used in psychotherapeutic research of the era.
 - The *Psychedelic Review* was a journal published by the International Federation for Internal Freedom (IFIF), an organization co-founded by Leary.
-- Fisher's research operated within the pre-prohibition framework when psychedelic research was still legally and academically sanctioned.
+- Fisher"s research operated within the pre-prohibition framework when psychedelic research was still legally and academically sanctioned.
 - His dosage recommendations informed the practical aspects of conducting therapeutic psychedelic sessions, complementing the philosophical and spiritual framework of the [[bardo-thodol]]-based manual.
 
 ## Context in Psychedelic Research History

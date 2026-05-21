@@ -9,7 +9,7 @@ type: concept
 ## Overview
 
 [[actively-aerated-compost-tea]] (AACT) is the third essential tool in the soil food
-web gardener's toolkit, alongside [[using-accumulators-in-compost-and-mulch]]. Its primary purpose is to
+web gardener"s toolkit, alongside [[using-accumulators-in-compost-and-mulch]]. Its primary purpose is to
 put microbiology back into soils and onto plant surfaces, restoring the living
 ecosystems that healthy plants depend on. While compost and mulch are invaluable,
 AACT offers unique advantages in speed, coverage, and application flexibility.

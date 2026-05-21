@@ -12,7 +12,7 @@ sources:
 
 ## Overview
 
-D.M. Turner's "turner multiple combinations cosmic synergism" chapter documents his experiments combining three or more [[mao-inhibitors-and-psychedelics]] are involved.
+D.M. Turner"s "turner multiple combinations cosmic synergism" chapter documents his experiments combining three or more [[mao-inhibitors-and-psychedelics]] are involved.
 
 ## Safety Considerations
 
@@ -25,7 +25,7 @@ D.M. Turner's "turner multiple combinations cosmic synergism" chapter documents 
 ## LSD + Ketamine + N,N-DMT
 
 - Started with 200 mcg LSD; two hours later, after the acid high stabilized, injected 100 mg ketamine
-- Produced one of Turner's best ketamine journeys, lasting about 1.5 hours
+- Produced one of Turner"s best ketamine journeys, lasting about 1.5 hours
 - Smoking N,N-DMT a couple of times after the ketamine journey: DMT produced its usual effects but seemed diminished in intensity by the lingering ketamine
 - The same amounts of N,N-DMT taken on LSD alone would have produced much more intense experiences
 - Drawback: the ketamine recovery period was extended by another 1-2 hours while on acid, which "pretty much blew the rest of the acid trip"
@@ -41,7 +41,7 @@ This six-substance combination was described as "absolutely beautiful":
 - The experience felt infused with a spiritual quality compared to a typical LSD trip
 - See also: [[dmt-containing-plants-united-states-halpern]]
 - Felt becoming part of the earth, penetrating to levels deep within the "mind" of planetary consciousness
-- Becoming part of the earth's spirit is frequently experienced on ketamine
+- Becoming part of the earth"s spirit is frequently experienced on ketamine
 
 ## 2C-B + Mushrooms (+ Ketamine)
 
@@ -53,7 +53,7 @@ This six-substance combination was described as "absolutely beautiful":
 ### Second Experiment (50 mg 2C-B + 10 grams mushrooms)
 - Strongly negative experience at sufficient dosage
 - A "mesh of interference patterns" placed before awareness, obscuring all thought and perception
-- 2C-B and mushrooms seemed to alter consciousness in opposing directions, frustrating each other's efforts
+- 2C-B and mushrooms seemed to alter consciousness in opposing directions, frustrating each other"s efforts
 - Feeling of being "hexed" or that some force prevented venturing into expanded awareness
 - Produced the longest lasting and most unpleasant psychedelic trip Turner had in years
 - Ketamine temporarily released the negative state through ego death, but negativity spread into the ketamine domain upon return to self-awareness

@@ -1,5 +1,5 @@
 ---
-title: "Fukuoka's Color Philosophy of Food: Seven Prismatic Colors and Natural Diet"
+title: "Fukuoka"s Color Philosophy of Food: Seven Prismatic Colors and Natural Diet"
 source: "The One-Straw Revolution / masanobu-fukuoka"
 topics: ["fukuoka-seasonal-eating-natural-food-calendar", "color theory"]
 ---

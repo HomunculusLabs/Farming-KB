@@ -9,7 +9,7 @@ topics: [casing soil, sterilization, pasteurization, microbial ecology, substrat
 ## Overview
 
 The grass seed cultivation guide for *Psilocybe* species takes an unambiguous position
-on [[forest-and-bamboo-beneficial-microorganisms]]. The guide's authors
+on [[forest-and-bamboo-beneficial-microorganisms]]. The guide"s authors
 acknowledge this debate explicitly, noting "we know that some authors advise against
 sterilisation of casing soil because it would kill all the beneficial organisms" but
 concluding "we however have had only bad experiences with untreated or pasteurised
@@ -39,7 +39,7 @@ bacteria.
 
 ## The Sterilization Argument
 
-The guide's position in favor of sterilization is supported by several practical
+The guide"s position in favor of sterilization is supported by several practical
 considerations:
 
 ### Elimination of Competitors

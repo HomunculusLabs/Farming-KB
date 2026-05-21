@@ -14,7 +14,7 @@ George Washington Carver (c. 1864-1943) was an agricultural chemist
 who overcame the handicap of his slave descent to become one of the
 most remarkable figures in [[comparison-cassava-vs-taro-vs-sweet-potato-vs-yam]] into
 hundreds of products, ranging from cosmetics and axle grease to
-printer's ink and coffee.
+printer"s ink and coffee.
 
 ## Early Connection with Plants
 
@@ -29,7 +29,7 @@ other stray material.
 
 When asked what he was doing alone so far from the farmyard, Carver
 replied firmly: "I go to my garden hospital and take care of hundreds
-of sick plants." Farmers' wives from all over the countryside brought
+of sick plants." Farmers" wives from all over the countryside brought
 him their ailing house plants. Gently caring for them, Carver often
 sang to them in the same squeaky voice that characterized him in
 manhood, put them in tin cans with special soil of his own concoction,

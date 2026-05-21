@@ -9,14 +9,14 @@ sources:
 ---
 ## Fukuoka Vegetable Growing Natural Method
 
-Fukuoka's method of [[fukuoka-citrus-orchard-ground-cover-cultivation]] cover or field margins, allowing them to find their niche within a living plant community. This "semi-wild" approach produces strong, healthy vegetables with minimal labor and no chemical inputs.
+Fukuoka"s method of [[fukuoka-citrus-orchard-ground-cover-cultivation]] cover or field margins, allowing them to find their niche within a living plant community. This "semi-wild" approach produces strong, healthy vegetables with minimal labor and no chemical inputs.
 
 ## The Natural Garden Vision
 
 The ideal [[fukuoka-textdoc-animal-manure-human-waste-natural-cycle-heretic]] -- "the cleanest and most wholesome of all" -- are considered dirty.
 
 ### The Semi-Wild Method
-For open, unused land, riverbanks, or vacant lots, Fukuoka's approach is to "just toss out the seeds and let the vegetables grow up with the weeds." He grows his vegetables on the mountainside in the spaces between the citrus trees of his [[fukuoka-natural-orchard-management]] -- the orchard as template for vegetable growing
+For open, unused land, riverbanks, or vacant lots, Fukuoka"s approach is to "just toss out the seeds and let the vegetables grow up with the weeds." He grows his vegetables on the mountainside in the spaces between the citrus trees of his [[fukuoka-natural-orchard-management]] -- the orchard as template for vegetable growing
 - [[comparison-seed-starting-indoors-vs-direct-seeding-techniques]]
 - [[natural-farming-soil-building]] -- soil health without inputs
 - [[fukuoka-semi-wild-vegetable-growing-natural-method]]

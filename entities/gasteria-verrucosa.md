@@ -11,7 +11,6 @@ date: 2026-05-10
 updated: 2026-05-10
 sources:
   - Zonneveld, B.J.M. & Van Jaarsveld, E.J. (2005). "Taxonomic implications of genome size in Gasteria." Plant Systematics and Evolution, 251(2-4), 217-227.---
----
 # Overview
 
 **Gasteria verrucosa** (Aiton) Duval, commonly known as **ox tongue** or **warty gasteria**, is a stemless succulent in the family Asphodelaceae. It is native to the Eastern Cape province of [[table-mountain-south-africa-mollison]].

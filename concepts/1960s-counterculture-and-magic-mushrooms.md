@@ -24,7 +24,7 @@ sensual encounters and the feeling that he was being dragged backwards through h
 ## The Harvard Psilocybin Project
 
 Leary returned to Harvard reinvigorated and determined to abandon all his previous research. Learning from
-Aldous Huxley that the mushrooms' chemical ingredients were readily available from Sandoz,
+Aldous Huxley that the mushrooms" chemical ingredients were readily available from Sandoz,
 he initiated the Harvard Psilocybin Project. In a crucial session he rejected the clinical, quantitative
 approach in favour of one that was subjective and qualitative. He assembled an ever-expanding team of willing
 volunteers -- academics, poets, artists, musicians, graduate students -- and, breaking all academic rules,
@@ -33,13 +33,13 @@ whatever way they felt appropriate.
 
 Over the years that the project ran, from 1960 to 1963, some two hundred doses were administered. Increasing
 numbers of subjects returned with reports of religious, spiritual, or [[psilocybin-mystical-experiences-personality-change]]. The project became
-cliquey, with furtive nods and winks between those that "had" and those that "hadn't." After attracting too
+cliquey, with furtive nods and winks between those that "had" and those that "hadn"t." After attracting too
 much unwelcome press attention -- particularly over the issue of giving psilocybin to graduate students -- the
 project was forcibly closed. Harvard gave Leary his marching orders.
 
 ## The Psychedelic Ideology
 
-Leary's famous motto, "turn on, tune in, drop out," was also a statement of scientific belief rooted in
+Leary"s famous motto, "turn on, tune in, drop out," was also a statement of scientific belief rooted in
 behaviourism. Leary believed that we come into the world as blank canvases and that our personalities are
 determined by our physical and social environment -- society as one giant "human-sized Skinner Box."
 Psychedelics, he maintained, allowed us momentarily to recognise our conditioning for what it was and gave
@@ -56,7 +56,7 @@ greater claim than that psilocybin might produce a shift in painting style.
 
 Leary moved into Millbrook, a rambling mansion set in a four-thousand-acre estate in upstate New York, which
 became the prototypical hippy commune. Together with Richard Alpert and Ralph Metzner, he authored The
-Psychedelic Experience, a tripper's manual loosely based on the Tibetan Buddhist text The Book of the Dead.
+Psychedelic Experience, a tripper"s manual loosely based on the Tibetan Buddhist text The Book of the Dead.
 He published two autobiographies, gave an infamous Playboy interview, and appeared on radio and TV
 extolling LSD. His notoriety at a peak, he stood as a candidate for Governor of California against the
 eventually victorious Ronald Reagan.
@@ -68,7 +68,7 @@ crime in America in 1966, and overnight many hundreds of research projects were 
 
 ## The Mushroom Trail to Mexico
 
-[Wasson's Life article had revealed [Maria Sabina's name and whereabouts, and the trickle of visitors to Oaxaca became a flood. Hippy culture arrived
+[Wasson"s Life article had revealed [Maria Sabina's name and whereabouts, and the trickle of visitors to Oaxaca became a flood. Hippy culture arrived
 with a fundamentally different set of ideas from traditional indigenous practices. For hippies, mushrooms were
 "psychedelic" -- bound up with notions of authenticity, freedom, individualism, bohemianism, and rebellion.
 Used to seeing [[three-pillars-mushroom-cultivation-spawn-substrate-environment]]

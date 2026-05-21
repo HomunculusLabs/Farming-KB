@@ -16,7 +16,7 @@ represent two fundamentally different approaches to mushroom growing.
 Reishi (Ganoderma lucidum) is cultivated almost exclusively for its
 medicinal compounds, yielding woody, bitter conks that are extracted
 into teas and tinctures. Oyster mushrooms (Pleurotus ostreatus) are the
-world's most versatile culinary species, prized for their mild flavor,
+world"s most versatile culinary species, prized for their mild flavor,
 rapid growth, and unmatched substrate range. Comparing them reveals the
 spectrum between medicinal-only and dual-purpose mushroom cultivation.
 

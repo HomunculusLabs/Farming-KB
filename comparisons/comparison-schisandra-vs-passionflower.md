@@ -3,7 +3,7 @@ title: "Schisandra vs Passionflower"
 tags: [comparison, schisandra, passionflower, adaptogens, nervines, medicinal-herbs]
 date: 2026-05-13
 updated: 2026-05-13
-sources: ['raw/papers/laminar-flow-hood-construction-1.md']
+sources: ["raw/papers/laminar-flow-hood-construction-1.md']
 ---
 
 ## Schisandra vs Passionflower
@@ -27,7 +27,7 @@ is a deciduous woody vine native to the temperate forests of northeastern
 China, Korea, Japan, and the Russian Far East. Its red berries are one of
 the 50 fundamental herbs in Traditional Chinese Medicine (TCM), classified
 as a superior herb in the Shennong Bencao Jing (~200 CE). The name reflects
-the berry's remarkable taste profile: sour, sweet, bitter, acrid, and salty.
+the berry"s remarkable taste profile: sour, sweet, bitter, acrid, and salty.
 
 Schisandra is primarily classified as an adaptogen. It helps the body
 resist stress, improves physical endurance, enhances mental clarity, and

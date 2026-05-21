@@ -63,7 +63,7 @@ After a raised bed has grown a crop, the restoration procedure is straightforwar
 1. **Remove vegetation**: Clear all crop remnants to the compost area
 2. **Fertilize**: For medium- or high-demand crops, spread 4-6 quarts of Complete Organic Fertilizer (COF) per 100 sq ft (10 sq m), or cover with about 1/8 inch (3 mm) of strong chicken manure. For low-demand crops, apply manure or compost at 1/8 inch depth.
 3. **Scrape the paths**: Use a shovel to scoop about 1 inch (2.5 cm) of soil from paths onto the bed. If paths are weedy, the shovel cuts weeds as it lifts soil. Otherwise, hoe first, then shovel.
-4. **Turn the bed**: Roughly turn the bed over to the shovel blade's depth. This mixing need not be thorough. It is acceptable to stand on the undug portion while turning.
+4. **Turn the bed**: Roughly turn the bed over to the shovel blade"s depth. This mixing need not be thorough. It is acceptable to stand on the undug portion while turning.
 5. **Return spilled soil**: Toss any soil that ended up back in the paths onto the bed again.
 6. **Level**: Roughly level the bed with a rake.
 7. **Prepare seedbed**: If sowing small seeds, cover with 1/4 inch (6 mm) of fine, well-decomposed manure or fine compost. Sieve compost if necessary for direct-seeded crops. Rake level and pull clods to the edges.

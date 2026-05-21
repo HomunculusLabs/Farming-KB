@@ -23,13 +23,13 @@ sources:
 
 # Fukuoka No-Prune Fruit Tree Method
 
-[[masanobu-fukuoka]]'s most radical orchard claim: **fruit trees do not need pruning if grown in their natural form from the start**. This runs counter to virtually all commercial fruit growing, which considers pruning the most essential orchard skill. Fukuoka argues that pruning creates the very problems it claims to solve — tangled branches, poor ventilation, alternate bearing — because it forces trees into unnatural shapes that then require constant maintenance.
+[[masanobu-fukuoka]]"s most radical orchard claim: **fruit trees do not need pruning if grown in their natural form from the start**. This runs counter to virtually all commercial fruit growing, which considers pruning the most essential orchard skill. Fukuoka argues that pruning creates the very problems it claims to solve — tangled branches, poor ventilation, alternate bearing — because it forces trees into unnatural shapes that then require constant maintenance.
 
 ## The Natural Form of a Tree
 
 Fukuoka's observation of natural forests: "The trunks of these trees never branch or twist as long as they are not cut or harmed. The branches on the right and left sides of the tree do not run up against each other or cross. There are no dense lower branches that die back."
 
-### Phyllotaxy — Nature's Ordering Principle
+### Phyllotaxy — Nature"s Ordering Principle
 
 Every plant follows a fixed law called phyllotaxy:
 - Leaves always grow alternately or oppositely
@@ -94,7 +94,7 @@ Fukuoka acknowledges that pruning developed for legitimate reasons — but only 
 
 ### Morishima Acacia (Black Wattle)
 
-Fukuoka's key companion tree, planted 5-6 per quarter-acre:
+Fukuoka"s key companion tree, planted 5-6 per quarter-acre:
 
 **Benefits**:
 - Nitrogen fixation via [[rhizobium]] bacteria (deep soil strata)
@@ -145,5 +145,5 @@ Fukuoka provides a resistance guide (from Natural Way of Farming):
 - Was one of three major citrus pests before vedalia ladybug release (~40 years prior)
 - Disappeared naturally with biological control
 - Post-WWII: organophosphate spraying killed vedalia ladybugs → severe outbreaks
-- In Fukuoka's unsprayed orchard: "almost no damage"
+- In Fukuoka"s unsprayed orchard: "almost no damage"
 ## See Also

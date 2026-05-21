@@ -80,7 +80,7 @@ scientific investigation for well over a century. Despite decades of study, elem
 remain incompletely understood, and the phenomenon continues to attract researchers from fields as
 diverse as fluid dynamics, bioengineering, and nanotechnology.
 
-What is established is extraordinary. At the junction between the spore and the basidium's sterigma, a
+What is established is extraordinary. At the junction between the spore and the basidium"s sterigma, a
 microscopic droplet of fluid — often described as an oily gas bubble — forms and gradually inflates.
 This droplet, known as Buller's drop after the pioneering mycologist A.H.R. Buller, swells until it
 reaches a critical size, at which point it explosively ruptures and ejects the spore with a force that

@@ -89,6 +89,6 @@ While *P. gigantissima* has no direct relevance to cultivation or [[mycology]], 
 
 ## References and Further Reading
 
-- Lowenfels, J. & Lewis, W. (2010). *Teaming with Microbes: The Organic Gardener's Guide to the Soil Food Web*. Timber Press.
+- Lowenfels, J. & Lewis, W. (2010). *Teaming with Microbes: The Organic Gardener"s Guide to the Soil Food Web*. Timber Press.
 - Gubanov, N.M. (1951). "Gigantic nematode from the placenta of the sperm whale." *Doklady Akademii Nauk SSSR* 77: 1133-1135. (Original description)
 - Hodda, M. (2011). "Phylum Nematoda Cobb, 1932." In *Animal Biodiversity*, Zootaxa 3148: 63-95.

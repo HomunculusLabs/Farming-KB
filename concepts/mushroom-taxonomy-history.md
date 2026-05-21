@@ -46,7 +46,7 @@ Friesian system structure:
 - **Gasteromycetes**: Fungi with enclosed spore-bearing surfaces (puffballs, earthstars)
 - **Coniomycetes**: Fungi that produce spores in pycnidia or similar structures
 
-The Friesian system dominated mycology for over 150 years and still influences field identification guides today. Many of Fries's genus concepts survive, though their boundaries have been significantly revised.
+The Friesian system dominated mycology for over 150 years and still influences field identification guides today. Many of Fries"s genus concepts survive, though their boundaries have been significantly revised.
 
 ## The Microscope Revolution (Late 1800s-Early 1900s)
 

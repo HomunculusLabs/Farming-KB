@@ -74,7 +74,7 @@ You need two compatible varieties for pollination, so plan your planting accordi
 ## Designing Native Shrubs into Your Food Forest
 
 The shrub layer sits between the canopy and herbaceous layers in a [[forest-gardening-and-food-forests|forest garden]].
-Space shrubs 4–8 feet apart depending on the species' mature width and your harvest access needs.
+Space shrubs 4–8 feet apart depending on the species" mature width and your harvest access needs.
 Group plants with similar soil and water requirements together, following [[permaculture-plant-guilds|guild design]] principles.
 Use native shrubs as [[windbreaks-hedgerows-and-shelterbelts|windbreak elements]] along food-forest edges for dual-purpose protection and production.
 [[nitrogen-fixing-trees-and-shrubs|Nitrogen-fixing companions]] like autumn olive or Siberian pea shrub can fertilize nearby fruiting shrubs.

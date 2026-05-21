@@ -23,7 +23,7 @@ Boletus cyanescens (also known as [[gyroporus-cyanescens]] in modern taxonomy) i
 
 ## Key Facts
 
-- The species epithet "cyanescens" means "becoming blue," directly referencing the mushroom's defining characteristic.
+- The species epithet "cyanescens" means "becoming blue," directly referencing the mushroom"s defining characteristic.
 - When bruised, cut, or handled, the flesh rapidly turns an intense blue due to oxidation of variegatic acid (a pulvinic [[lsd-25-synthesis-twenty-fifth-lysergic-acid-derivative]]). This is a chemical reaction, not an indicator of toxicity.
 - Palmer specifically cited this species as evidence against the folk myth that color change indicates poison: "Nothing could be more false." He noted that the dangerous [[amanita]] remains "the purest white under all conditions" while this edible bolete turns brilliant blue.
 - The mushroom has a dry, fibrillose cap typically buff to yellowish-brown in color, a hollow stipe, and a pale yellow pore surface that also blues when bruised.
@@ -32,7 +32,7 @@ Boletus cyanescens (also known as [[gyroporus-cyanescens]] in modern taxonomy) i
 
 ## Relevance to Cultivation and Mycology
 
-Boletus cyanescens (Gyroporus cyanescens) serves as an important case study in [[palmer-mushroom-charts-american-mycological-education]]. Its dramatic bluing reaction is frequently confused by novice foragers with the bluing of psilocybin-active species, leading to both false positives (assuming psychoactive content) and false negatives (assuming toxicity). Understanding the different biochemical pathways that produce blue coloration in fungi is essential for both foragers and cultivators. Palmer's 19th-century advocacy against the "color-change = poison" myth remains relevant in modern [[mycology]] education.
+Boletus cyanescens (Gyroporus cyanescens) serves as an important case study in [[palmer-mushroom-charts-american-mycological-education]]. Its dramatic bluing reaction is frequently confused by novice foragers with the bluing of psilocybin-active species, leading to both false positives (assuming psychoactive content) and false negatives (assuming toxicity). Understanding the different biochemical pathways that produce blue coloration in fungi is essential for both foragers and cultivators. Palmer"s 19th-century advocacy against the "color-change = poison" myth remains relevant in modern [[mycology]] education.
 
 ## Sources and References
 

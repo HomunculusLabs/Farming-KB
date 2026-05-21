@@ -9,7 +9,7 @@ sources:
 ---
 ## Psychedelic Plants and Civilization
 
-The central thesis of Terence McKenna's *Food of the Gods* is that Psychedelic Plants and Civilization are not peripheral curiosities in human history but are foundational to the emergence of civilization, consciousness, and culture itself. McKenna argues that human history can be read as a series of relationships with plants—relationships made and broken—and that the suppression of mycorrhizal-plant-signaling. Drawing on examples from nature—clown fish and anemones, leafcutter ants and their cultivated fungi, mitochondria joining with cells—he argued that plants and humans have coevolved in relationships of mutual benefit over millions of years.
+The central thesis of Terence McKenna"s *Food of the Gods* is that Psychedelic Plants and Civilization are not peripheral curiosities in human history but are foundational to the emergence of civilization, consciousness, and culture itself. McKenna argues that human history can be read as a series of relationships with plants—relationships made and broken—and that the suppression of mycorrhizal-plant-signaling. Drawing on examples from nature—clown fish and anemones, leafcutter ants and their cultivated fungi, mitochondria joining with cells—he argued that plants and humans have coevolved in relationships of mutual benefit over millions of years.
 
 The key insight is that psychoactive compounds in plants may function as "exopheromones"—chemical messengers that act across species lines. Where plant hallucinogens occur, cultures are "quickly introduced to ever more novel information, sensory input, and behavior and thus are bootstrapped to higher and higher states of self-reflection." This is the Transcendent-Other: the encounter with nature as alive and intelligent, "Nature without her cheerfully reassuring mask of ordinary space, time, and causality."
 
@@ -28,7 +28,7 @@ McKenna argued that the distinction between legal and illegal drugs has nothing 
 - McKenna on sugar, coffee, tea, and chocolate (Ch.11)
 
 - psychedelic plants and civilization — The evolutionary origins of psychedelic consciousness
-- [[permaculture-designers-manual-sugar-crops]]. This process culminates in Sartre's declaration that "nature is mute." McKenna responds: "Nature is not mute, but modern man is deaf." Sugar and caffeine drugs reinforce industrial civilization's emphasis on efficiency at the price of Archaic values — a theme explored more broadly in [[mckenna-diet-symbiosis-human-evolution]] - [[mckenna-archaic-revival]] — The call to reclaim partnership with nature - McKenna, Terence.
+- [[permaculture-designers-manual-sugar-crops]]. This process culminates in Sartre"s declaration that "nature is mute." McKenna responds: "Nature is not mute, but modern man is deaf." Sugar and caffeine drugs reinforce industrial civilization's emphasis on efficiency at the price of Archaic values — a theme explored more broadly in [[mckenna-diet-symbiosis-human-evolution]] - [[mckenna-archaic-revival]] — The call to reclaim partnership with nature - McKenna, Terence.
 ## Practical Considerations
 
 Successful implementation of Psychedelic Plants and Civilization requires attention to

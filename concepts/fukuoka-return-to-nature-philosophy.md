@@ -10,7 +10,7 @@ sources:
 
 ## Return to Nature Philosophy
 
-The title of Masanobu Fukuoka's second major work, "The Road Back to Nature," encapsulates his deepest conviction: that human civilization has wandered far from its natural origins and must find its way back. This [[comparison-seed-starting-indoors-vs-direct-seeding-techniques]], without tillage."
+The title of Masanobu Fukuoka"s second major work, "The Road Back to Nature," encapsulates his deepest conviction: that human civilization has wandered far from its natural origins and must find its way back. This [[comparison-seed-starting-indoors-vs-direct-seeding-techniques]], without tillage."
 
 He was candid about the limitations of even [[fukuoka-critique-scientific-agriculture-civilization]]." This is not defeatism but realism -- the recognition that the return to nature must be a change of consciousness, not merely a change of technique.
 
@@ -30,7 +30,7 @@ In practical terms, the road back to nature means:
 
 For Fukuoka, the return to nature was ultimately a spiritual journey. He believed that nature is not just the physical world but the manifestation of an absolute reality that transcends human understanding. The [[fukuoka-natures-self-organizing-principles]] is what humanity must learn from and return to.
 
-Even the disposal of death demonstrates nature's perfect system. Countless microbes and small animals in the soil engage in an assembly-line operation of decomposition, returning every living thing to the earth. Man, by contrast, disrupts this cycle with cremation and burial practices that prevent nature from completing its work. The return to nature means trusting these ancient processes rather than replacing them with human inventions.
+Even the disposal of death demonstrates nature"s perfect system. Countless microbes and small animals in the soil engage in an assembly-line operation of decomposition, returning every living thing to the earth. Man, by contrast, disrupts this cycle with cremation and burial practices that prevent nature from completing its work. The return to nature means trusting these ancient processes rather than replacing them with human inventions.
 
 ## Beyond Organic Farming
 

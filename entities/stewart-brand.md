@@ -12,7 +12,7 @@ Stewart Brand (born 1938) is an American writer, environmentalist, and cultural
 icon best known as the creator and editor of the *Whole Earth Catalog* (1968-1972),
 a counterculture compendium of tools, ideas, and resources that won the National
 Book Award and influenced a generation of environmentalists, designers, and
-entrepreneurs. Brand is also the founder of The WELL (Whole Earth 'Lectronic Link),
+entrepreneurs. Brand is also the founder of The WELL (Whole Earth "Lectronic Link),
 one of the earliest online communities, and the Long Now Foundation.
 
 In the context of Holmgren's permaculture text, Brand is referenced specifically
@@ -40,12 +40,12 @@ maintenance in the built environment.
 - *How Buildings Learn* (1994) used archival and current photography to document
   how buildings change over time through occupation, modification, weathering,
   and maintenance.
-- Brand's key insight in *How Buildings Learn* is that maintenance — or the lack
+- Brand"s key insight in *How Buildings Learn* is that maintenance — or the lack
   of it — is one of the critical factors in the evolution and survival of
   buildings over time.
 - He cites the [[pompidou-centre]] (1979) in Paris as a "maintenance nightmare,"
   contrasting it with the Eiffel Tower (1889), whose exposed iron structure
-  withstands the elements far better than the Centre's brightly painted
+  withstands the elements far better than the Centre"s brightly painted
   external ducts and pipes.
 - Brand's work bridges the gap between environmentalism and pragmatism,
   emphasising long-term thinking and adaptation over ideology.

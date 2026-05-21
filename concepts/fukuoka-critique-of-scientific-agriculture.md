@@ -4,7 +4,7 @@ source: administrator-microsoft-word-fukuoka-textdoc.md
 topics: philosophy of science, agriculture, reductionism, ecology
 ---
 
-## Fukuoka's Critique of Scientific Agriculture
+## Fukuoka"s Critique of Scientific Agriculture
 
 [[fukuoka-illusions-scientific-farming-centrifugal-centripetal-model]] graphically. The
 objective of [[emcdda-return-to-nature-megatrend-mushroom-appeal]] — it is
@@ -65,10 +65,10 @@ food. The farmer has become a hired hand of industrialized society. He
 tries to make money at farming with synthetic chemicals, a feat that
 would tax even the powers of a thousand-handed deity.
 
-Scientists are always saying "Let's try this, let's try that."
+Scientists are always saying "Let"s try this, let's try that."
 Agriculture becomes swept up in fiddling around; new methods requiring
 additional expenditures and effort are constantly introduced. Fukuoka
-took the opposite tack: "I don't need to do this, I don't need to do
+took the opposite tack: "I don"t need to do this, I don't need to do
 that." After thirty years, he reduced his labor to essentially just
 [[critique-of-scientific-agriculture]]
 - [[natural-farming]]

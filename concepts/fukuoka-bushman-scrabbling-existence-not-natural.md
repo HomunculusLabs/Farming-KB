@@ -10,7 +10,7 @@ created: 2026-05-08
 
 ## Overview
 
-Masanobu Fukuoka used the example of the African Bushman to challenge the romantic notion that primitive peoples live in harmony with nature. While praising the Bushman's character and spirit, Fukuoka argued that the barren environment they inhabit is evidence not of [[comparison-natural-farming-vs-permaculture]] aspires.
+Masanobu Fukuoka used the example of the African Bushman to challenge the romantic notion that primitive peoples live in harmony with nature. While praising the Bushman"s character and spirit, Fukuoka argued that the barren environment they inhabit is evidence not of [[comparison-natural-farming-vs-permaculture]] aspires.
 
 ## The Bushman's Character
 
@@ -18,7 +18,7 @@ Fukuoka was unequivocally impressed by the Bushman as a person:
 
 > "The Bushman himself is fine. That dazzlingly bright, cheerful face says it all. I felt as if I knew where it came from. Civilized society may mock and make fun of him, but all that is of no concern to him. This is the face of a natural man able to immerse himself in his own joy."
 
-The Bushman's cheerfulness and authenticity stood in stark contrast to what Fukuoka had observed in New York City, where affluent people wore "tragic, cornered" expressions. The Bushman, despite material poverty, displayed a spiritual wealth that civilized society had lost.
+The Bushman"s cheerfulness and authenticity stood in stark contrast to what Fukuoka had observed in New York City, where affluent people wore "tragic, cornered" expressions. The Bushman, despite material poverty, displayed a spiritual wealth that civilized society had lost.
 
 ## The Problem: Barren Environment
 

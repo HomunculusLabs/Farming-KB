@@ -23,7 +23,7 @@ seeking radical alternatives to mainstream society.
 
 ## From Mexico to the Mainstream
 
-Wasson's 1957 Life article "Seeking the Magic Mushroom" played a
+Wasson"s 1957 Life article "Seeking the Magic Mushroom" played a
 pivotal role in kick-starting [[powell-paradigm-shifting-and-the-psychedelic-revolution]]. Key figures
 of that movement, including [[andrew-weil]], Scott Chilton,
 [[shroom-prohibition]] -- [[shroom-cultural-history-hippie-revolution-and-counterculture]] of the Magic Mushroom.

@@ -37,7 +37,7 @@ are far from conclusive. He was, however, able to produce both triploid
 and tetraploid strains of Cannabis with up to twice the potency of
 diploid strains (in their ability to kill small aquatic organisms).
 
-The aim of Warmke's research was to "produce a strain of hemp with
+The aim of Warmke"s research was to "produce a strain of hemp with
 materially reduced marijuana content" and his results indicated that
 polyploidy raised the potency of Cannabis without any apparent increase
 in fiber quality or yield. Warmke's work with polyploids also shed light

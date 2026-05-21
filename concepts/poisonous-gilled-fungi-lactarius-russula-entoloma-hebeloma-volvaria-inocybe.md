@@ -9,7 +9,7 @@ type: concept
 > Based on *Poisonous Fungi* by [[john-ramsbottom]] (1945), Keeper of Botany at the British Museum
 > ([[stropharia-cubensis-identification-and-natural-history]]). Dimensions are given as cap diameter, stem height, stem width.
 
-This page covers the non-Amanita poisonous or suspect gilled fungi described in Ramsbottom's
+This page covers the non-Amanita poisonous or suspect gilled fungi described in Ramsbottom"s
 survey. While the deadly *Amanita* species account for the vast majority of fatal poisonings,
 several other genera contain species that cause significant illness and deserve attention from
 foragers and mycologists alike. A recurring theme across these genera is the distinction between
@@ -37,7 +37,7 @@ when eaten raw — the epithet *torminosus* means "griping" — but cooking dest
 In Finland it is a favourite toadstool, boiled and eaten at once or salted down for winter storage.
 It is also consumed in neighbouring Scandinavian and Baltic countries. In Norway it is strongly
 roasted and added to coffee, a testament to the cultural acceptance of species that British
-mycological tradition has wrongly condemned. This discrepancy underscores Ramsbottom's point that
+mycological tradition has wrongly condemned. This discrepancy underscores Ramsbottom"s point that
 edibility data from continental Europe were often ignored in Britain due to excessive caution.
 
 ## Russula — Genus Overview
@@ -70,7 +70,7 @@ that this character has no bearing on toxicity (since *[[amanita-phalloides]]* a
 are shining white, more or less free and somewhat crowded; the stem is rigid, white, sometimes
 pink-tinged. The flesh is firm and white, pink under the cap skin. The taste is very acrid after
 a few seconds and persistent — this delayed onset of acridity is characteristic and distinguishes
-it from *R. fragilis*; the odour is pleasant, which further illustrates Ramsbottom's dictum that
+it from *R. fragilis*; the odour is pleasant, which further illustrates Ramsbottom"s dictum that
 smell is no guide to safety. It grows in woods through summer and autumn, with different forms
 associated with beeches and conifers.
 
@@ -118,14 +118,14 @@ It grows in grassy places in autumn, especially near deciduous woods. It is a **
 dangerous mushroom**, causing violent sickness and diarrhoea, with occasional fatalities. Unlike
 the acrid russulas, its poisonous effects are not mitigated by cooking — Ramsbottom attributes
 this to "definite resinoid substances which act on the mucous lining of the intestine." Near Dijon
-it is known as *le grand empoisonneur de la Côte d'Or* — "the great poisoner of the Côte d'Or" —
+it is known as *le grand empoisonneur de la Côte d"Or* — "the great poisoner of the Côte d"Or" —
 a local name that speaks volumes about its reputation in a region with a long mycological tradition.
 
 ## Hebeloma crustuliniforme — Crustlike Hebeloma
 
 **Dimensions:** Cap up to 4.25", stem 2.25", width 1"
 
-The genus *Hebeloma* has brown spores and typically sinuate gills. *H. crustuliniforme* has a convex then spreading cap with a flattened central boss, pale yellow to brown or reddish, darker at the centre, viscid when young. The gills are crowded with an uneven edge, progressing from white through clay-coloured to date-brown; in wet weather they characteristically exude drops from their edges. The short whitish stem is stuffed then hollow, thickened at the base, with white squamules at the apex turning brownish from spores. The flesh is white and firm with a distinctive radish-like smell and taste. It grows in rings in grassy woods in autumn, resembling "rolls from a baker's oven." It is very indigestible; the radish taste persists even after cooking.
+The genus *Hebeloma* has brown spores and typically sinuate gills. *H. crustuliniforme* has a convex then spreading cap with a flattened central boss, pale yellow to brown or reddish, darker at the centre, viscid when young. The gills are crowded with an uneven edge, progressing from white through clay-coloured to date-brown; in wet weather they characteristically exude drops from their edges. The short whitish stem is stuffed then hollow, thickened at the base, with white squamules at the apex turning brownish from spores. The flesh is white and firm with a distinctive radish-like smell and taste. It grows in rings in grassy woods in autumn, resembling "rolls from a baker"s oven." It is very indigestible; the radish taste persists even after cooking.
 
 ## Volvaria gloiocephala — Sticky Volvaria
 

@@ -3,7 +3,7 @@ title: Fungal Fruiting Body Biology
 aliases: [mushroom anatomy, fungal fruiting structures, basidiocarp, ascocarp]
 tags: [mycology, fungi, biology, ecology, reproduction]
 created: 2026-05-10
-source: Nicholas P. Money - Mr. Bloomfield's Orchard
+source: Nicholas P. Money - Mr. Bloomfield"s Orchard
 ---
 
 ## Fungal Fruiting Body Biology
@@ -47,7 +47,7 @@ spore-bearing surfaces.
 
 Dispersal mechanisms are remarkably diverse. Most mushrooms rely on wind
 dispersal, and the physics of spore release has been extensively studied.
-Terence Ingold's pioneering work in the 1930s and 1940s revealed that
+Terence Ingold"s pioneering work in the 1930s and 1940s revealed that
 basidiomycete fungi use a remarkable mechanism called the "drop discharge"
 system. A tiny droplet of liquid (Buller's drop) forms at the base of each
 spore; when it reaches a critical size, it fuses with the spore and the

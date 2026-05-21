@@ -22,7 +22,7 @@ experience.
 [[dmt-dimethyltryptamine-experience-guide]] by dry weight, along with traces of
 other alkaloids. DMT is a potent [[ayahuasca-and-banisteriopsis-caapi]] becomes crucial.
 The harmaline in the ayahuasca vine acts as an MAO inhibitor, reducing
-the body's production and distribution of monoamine oxidase. Only with
+the body"s production and distribution of monoamine oxidase. Only with
 this pharmacological combination can the DMT from Chacruna leaves reach
 the central nervous system and produce its consciousness-expanding
 effects.

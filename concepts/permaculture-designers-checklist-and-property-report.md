@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-## Permaculture Designer's Checklist and Property Design Report
+## Permaculture Designer"s Checklist and Property Design Report
 
 The transition from understanding [[permaculture-principles]] to applying them on real properties requires a structured approach. A designer's checklist ensures that critical factors are not overlooked, while a property design report provides a systematic format for documenting site analysis, design decisions, and implementation plans. This concept presents both the practical checklist for site design and the recommended format for producing professional property design reports, grounded in the philosophy that design works best when it is collaborative, educational, and responsive to the people who will live with the results.
 

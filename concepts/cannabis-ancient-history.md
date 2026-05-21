@@ -10,7 +10,7 @@ tags: [cannabis, history]
 
 ## Cannabis Ancient History in Plants of the Gods
 
-Schultes and Hofmann document cannabis as one of humanity's oldest cultivars,
+Schultes and Hofmann document cannabis as one of humanity"s oldest cultivars,
 with a partnership between Cannabis and man existing for approximately ten
 thousand years -- since the discovery of agriculture in the [[cannabis-spiritual-ritual-use]] and man has existed
 probably for ten thousand years. Cannabis has been a five-purpose plant: as a
@@ -22,7 +22,7 @@ The Pen Tsao Ching, written in AD 100 but going back to the legendary
 emperor Shen-Nung (c. 2700 BC), may be taken as evidence that the Chinese
 knew and probably used the psychoactive properties at very early dates. It
 stated that Ma-fen ("Hemp fruit") "if taken to excess, will produce
-hallucinations [literally, 'seeing devils']. If taken over a long term, it
+hallucinations [literally, "seeing devils']. If taken over a long term, it
 makes one communicate with spirits and lightens one's body."
 
 A Taoist priest wrote in the fifth century BC that Cannabis was employed by

@@ -6,7 +6,7 @@ type: concept
 
 ## Post-Darwinian Evolution and Species Change
 
-Post-Darwinian evolution encompasses the developments in evolutionary theory since Darwin's *Origin of Species* that challenge the classical model of gradual, incremental change driven solely by natural selection acting on random mutations. [[david-holmgren]] explores these ideas within the [[preface-and-author-context-of-permaculture-designers-manual]]'s twelfth principle — Creatively Use and [[creatively-use-and-respond-to-change]] — connecting evolutionary theory to [[ecological-succession]], chaos theory, and the practical work of plant and animal breeding.
+Post-Darwinian evolution encompasses the developments in evolutionary theory since Darwin"s *Origin of Species* that challenge the classical model of gradual, incremental change driven solely by natural selection acting on random mutations. [[david-holmgren]] explores these ideas within the [[preface-and-author-context-of-permaculture-designers-manual]]'s twelfth principle — Creatively Use and [[creatively-use-and-respond-to-change]] — connecting evolutionary theory to [[ecological-succession]], chaos theory, and the practical work of plant and animal breeding.
 
 ## Plant and Animal Selection in Permaculture
 
@@ -82,7 +82,7 @@ Each species can be thought of as representing a **design solution** — an arch
 ### Depressions and Balls
 
 These design solutions can be visualized as depressions in a flat table (billiard table analogy). Evolving species are balls rolling around on the table until captured in a design solution depression. The range of possibly viable design solutions is limited by:
-- **Physical and metabolic limits**: An elephant with legs as thin as a horse's is not possible
+- **Physical and metabolic limits**: An elephant with legs as thin as a horse"s is not possible
 - **Organizational and ecological limits**: Ecosystem self-organization provides niches into which species are constrained to fit
 
 ### Getting Out of the Depression
@@ -95,7 +95,7 @@ A compelling example of ecological constraint on design solutions: in most tempe
 
 ## The Current Planetary Situation as Evolutionary Stimulus
 
-The extensive extinction of specialized species and their replacement by hardy generalist species has led many biologists to believe we are witnessing the "McDonaldisation of the world's biota." However, the catastrophic changes causing species extinctions also create novel conditions that may stimulate or accelerate mechanisms leading to new species.
+The extensive extinction of specialized species and their replacement by hardy generalist species has led many biologists to believe we are witnessing the "McDonaldisation of the world"s biota." However, the catastrophic changes causing species extinctions also create novel conditions that may stimulate or accelerate mechanisms leading to new species.
 
 ### Factors Driving Potential Speciation
 

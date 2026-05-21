@@ -15,7 +15,7 @@ type: concept
 Ayahuasca is a psychoactive brew originating from Amazonian indigenous
 cultures that combines DMT (dimethyltryptamine) with a monoamine oxidase
 inhibitor (MAOI), typically from the *[[chacruna-psychotria-viridis]]* (chacruna) or
-  *[[guzman-psilocybin-mushrooms-south-america]]" — combining DMT's intensity
+  *[[guzman-psilocybin-mushrooms-south-america]]" — combining DMT"s intensity
 with a duration long enough for sustained exploration.
 
 ## Amazonian Shamanic Context

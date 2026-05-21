@@ -28,7 +28,7 @@ Even the plants developed by the Papago and Hopi Indians are being lost as store
 
 Several hardy seeds were stored by indigenous peoples to extend the staple over more than one season:
 
-- In Nevada, Shoshone Indians gathered, in about 6 days, a year's supply of **piñon pine** ([[permaculture]] designers, small intensive trial systems within and around settlements are the essential precursors to wider Zone 2 and 3 trials along favourable corridors of better soils and water. The strategy involves:
+- In Nevada, Shoshone Indians gathered, in about 6 days, a year"s supply of **piñon pine** ([[permaculture]] designers, small intensive trial systems within and around settlements are the essential precursors to wider Zone 2 and 3 trials along favourable corridors of better soils and water. The strategy involves:
 
 1. **Selection of existing plants** adapted to local conditions
 2. **Addition of new species** for the area

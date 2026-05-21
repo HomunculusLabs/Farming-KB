@@ -11,7 +11,7 @@ sources: [raw/papers/variation-of-psilocybin-and-psilocin-levels-bigwood-beug.md
 
 ## Overview
 
-The relationship between psilocybin (the phosphorylated, storage form) and psilocin (the dephosphorylated, active form) in *Psilocybe* mushrooms reveals a sophisticated biosynthetic pathway that changes over the fruiting cycle. Bigwood and Beug's 1982 finding that psilocin is absent in early flushes and peaks by the fourth flush suggests a developmental regulation of the phosphatase enzymes responsible for converting psilocybin to psilocin. Understanding this pathway has implications for both [[fungal-hyphae]]
+The relationship between psilocybin (the phosphorylated, storage form) and psilocin (the dephosphorylated, active form) in *Psilocybe* mushrooms reveals a sophisticated biosynthetic pathway that changes over the fruiting cycle. Bigwood and Beug"s 1982 finding that psilocin is absent in early flushes and peaks by the fourth flush suggests a developmental regulation of the phosphatase enzymes responsible for converting psilocybin to psilocin. Understanding this pathway has implications for both [[fungal-hyphae]]
 3. **Bioavailability regulation**: The phosphorylated form is inactive until dephosphorylated, allowing the fungus to control when and where the active compound is released
 4. **Reduced self-toxicity**: Psilocybin is less pharmacologically active than psilocin, reducing any potential autotoxicity to the fungus itself
 

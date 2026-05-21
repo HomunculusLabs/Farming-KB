@@ -24,7 +24,7 @@ Denmark became the **first EU member state** to specifically regulate hallucinog
 
 ### Netherlands (2002)
 
-The **Netherlands' 2002 restrictions** were particularly significant given the country's role as the epicenter of the European mushroom trade. The Dutch action did not constitute a full criminalization but imposed restrictions on the smartshop sale of mushrooms:
+The **Netherlands" 2002 restrictions** were particularly significant given the country's role as the epicenter of the European mushroom trade. The Dutch action did not constitute a full criminalization but imposed restrictions on the smartshop sale of mushrooms:
 
 - Smartshops were prohibited from selling fresh [[psilocybin-mushrooms]]
 - The legislation targeted the retail trade rather than individual possession

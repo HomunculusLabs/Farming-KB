@@ -35,7 +35,7 @@ Other Indians fell the tree, strip off and gently heat the bark, collect the res
 
 A snuff-taking ceremony is conducted annually by many Waika tribes to memorialize those who have died the previous year. Endocannibalism comprises part of the rite: the ashes of calcined bones of the departed are mixed into a fermented banana drink and swallowed with the beverage.
 
-The ceremony takes place in a large round house. Following initial chanting by a master of ceremony, the men and older boys form groups and blow huge amounts of snuff through long tubes into each other's nostrils. They then begin to dance and to run wildly, shouting, brandishing weapons, and making gestures of bravado.
+The ceremony takes place in a large round house. Following initial chanting by a master of ceremony, the men and older boys form groups and blow huge amounts of snuff through long tubes into each other"s nostrils. They then begin to dance and to run wildly, shouting, brandishing weapons, and making gestures of bravado.
 
 A distinctive feature of the ceremony involves pairs or groups engaging in a strange ritual in which one participant thrusts out his chest and is pounded forcefully with fists, clubs, or rocks by a companion, who then offers his own chest for reciprocation. Although this punishment often draws blood, the effects of the narcotic are so strong that the men do not flinch or show signs of pain. The opponents then squat, throw their arms about each other, and shout into one another's ears. All begin hopping and crawling across the floor in imitation of animals. Eventually all succumb to the drug, losing consciousness for up to half an hour.
 
@@ -55,7 +55,7 @@ Interestingly, although the arrows are tipped while the hallucinogenic snuff is 
 
 Other ways of taking Virola resin besides snuffing it are sometimes employed. The primitive nomadic Maku of Colombia often merely scrape resin from the bark of the tree and lick it in crude form. The Witoto, Bora, and Muinane of Colombia prepare little pellets from the resin, and these are eaten when medicine men wish to "talk with the spirit people" to practice witchcraft or diagnose disease. The intoxication begins five minutes after ingestion.
 
-There is some vague evidence that certain Venezuelan natives may smoke the bark to get the intoxicating effects. This smoking method would represent yet another [[mushroom-taste-route-of-administration-and-consumption-barriers]] for Virola's tryptamine alkaloids, paralleling the smoking of DMT-containing plants in other Amazonian traditions.
+There is some vague evidence that certain Venezuelan natives may smoke the bark to get the intoxicating effects. This smoking method would represent yet another [[mushroom-taste-route-of-administration-and-consumption-barriers]] for Virola"s tryptamine alkaloids, paralleling the smoking of DMT-containing plants in other Amazonian traditions.
 
 ## Significance in Amazonian Ethnopharmacology
 

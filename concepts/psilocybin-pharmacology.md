@@ -14,7 +14,7 @@ aliases: [psilocybin effects, set-and-setting
 - Anxiety and panic attacks, particularly at higher doses or in unfamiliar
   settings ("bad trips")
 - Confusion and disorientation
-- Fear of losing one's mind or of death
+- Fear of losing one"s mind or of death
 
 ## Acute Physiological Effects
 

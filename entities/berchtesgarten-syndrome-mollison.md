@@ -7,13 +7,13 @@ tags: [permaculture, design-error, site-selection, type-one-error, housing-place
 
 ## Description
 
-The Berchtesgarten Syndrome is a term coined by Bill Mollison to describe a specific Type One Error in permaculture design: the urge to site a dwelling on the highest point of a landscape — a ridge top or hill summit. The name references Adolf Hitler's Berchtesgaden, a massive concrete blockhouse built on top of a crag where, as Mollison quipped, the occupant "could have perished of thirst." It represents the human desire to climb high and look out upon the landscape, which leads to multiple compounding design problems.
+The Berchtesgarten Syndrome is a term coined by Bill Mollison to describe a specific Type One Error in permaculture design: the urge to site a dwelling on the highest point of a landscape — a ridge top or hill summit. The name references Adolf Hitler"s Berchtesgaden, a massive concrete blockhouse built on top of a crag where, as Mollison quipped, the occupant "could have perished of thirst." It represents the human desire to climb high and look out upon the landscape, which leads to multiple compounding design problems.
 
 ## Classification
 
 - **Category**: Permaculture design principle / Type One Error
 - **Originator**: Bill Mollison
-- **Named after**: Berchtesgaden (Hitler's mountain retreat)
+- **Named after**: Berchtesgaden (Hitler"s mountain retreat)
 - **Error type**: Site selection / Dwelling placement
 
 ## The Problems of Ridge-Top Siting

@@ -8,7 +8,7 @@ type: entity
 
 ## Description
 
-Max Planck (1858-1947) was a German theoretical physicist and Nobel laureate considered the father of quantum theory. Coleman quotes Planck's famous observation about how scientific paradigms shift -- not through conversion of opponents but through generational replacement -- to explain the resistance of agricultural scientists to organic farming evidence.
+Max Planck (1858-1947) was a German theoretical physicist and Nobel laureate considered the father of quantum theory. Coleman quotes Planck"s famous observation about how scientific paradigms shift -- not through conversion of opponents but through generational replacement -- to explain the resistance of agricultural scientists to organic farming evidence.
 
 ## Classification
 
@@ -27,7 +27,7 @@ Max Planck (1858-1947) was a German theoretical physicist and Nobel laureate con
 
 ## Relevance to Cultivation
 
-The Planck quote provides a framework for understanding why scientifically validated organic farming practices faced decades of institutional resistance from agricultural universities, the USDA, and the agrochemical industry. For cultivators, this is relevant context: the agricultural establishment's dismissal of organic methods was never about evidence -- it was about institutional inertia and economic interests. Understanding this helps growers maintain confidence in biological farming methods even when conventional agricultural authorities dismiss them.
+The Planck quote provides a framework for understanding why scientifically validated organic farming practices faced decades of institutional resistance from agricultural universities, the USDA, and the agrochemical industry. For cultivators, this is relevant context: the agricultural establishment"s dismissal of organic methods was never about evidence -- it was about institutional inertia and economic interests. Understanding this helps growers maintain confidence in biological farming methods even when conventional agricultural authorities dismiss them.
 
 ## Source Context
 

@@ -36,7 +36,7 @@ The critical considerations when designing an application strategy:
 
 ## The Whole Food Web: Why Bacteria Alone Are Not Enough
 
-A recurring theme in Ingham's work is that **the entire [[soil-food-web]] is required for genuine, lasting disease suppression**. Bacteria contribute important disease-prevention mechanisms, but they account for only a fraction of the full defensive capacity that a healthy soil ecosystem provides.
+A recurring theme in Ingham"s work is that **the entire [[soil-food-web]] is required for genuine, lasting disease suppression**. Bacteria contribute important disease-prevention mechanisms, but they account for only a fraction of the full defensive capacity that a healthy soil ecosystem provides.
 
 ### The Stall Effect
 

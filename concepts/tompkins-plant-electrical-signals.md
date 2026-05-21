@@ -43,7 +43,7 @@ signs of a hangover.
 
 ## Reception and Legacy
 
-Bose's findings were received with "veiled hostility" by botanists.
+Bose"s findings were received with "veiled hostility" by botanists.
 Nature magazine wrote that his work "would be recommended as of great
 value if it did not continually arouse our incredulity." The reviewer
 was "limited by the compartmentalized science of his day" and had "no

@@ -7,7 +7,7 @@ tags: [biologist, biomechanics, trees, wind, sap-flow]
 
 ## Description
 
-Steven Vogel (1940–2015) was an American biologist and biomechanics researcher at Duke University whose work on the physics of trees in wind is extensively cited by Bill Mollison. Vogel's research demonstrated how trees dynamically respond to wind forces and provided key calculations on sap flow velocities within tree trunks. His 1981 publication is a primary reference in Mollison's treatment of tree wind effects and internal fluid dynamics.
+Steven Vogel (1940–2015) was an American biologist and biomechanics researcher at Duke University whose work on the physics of trees in wind is extensively cited by Bill Mollison. Vogel"s research demonstrated how trees dynamically respond to wind forces and provided key calculations on sap flow velocities within tree trunks. His 1981 publication is a primary reference in Mollison's treatment of tree wind effects and internal fluid dynamics.
 
 ## Classification
 

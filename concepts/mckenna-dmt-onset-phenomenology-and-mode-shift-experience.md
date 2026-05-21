@@ -6,7 +6,7 @@ tags:
 
 ## Overview
 
-Terence McKenna's 1983 Esalen lecture provides one of the most detailed
+Terence McKenna"s 1983 Esalen lecture provides one of the most detailed
 first-person accounts of DMT's onset phenomenology—the sequence of
 subjective events in the first 30-60 seconds after inhalation. His
 description of the "mode shift" from ordinary waking consciousness to
@@ -23,7 +23,7 @@ McKenna, T. (1983/1992). [[mckenna-archaic-revival-four-part-structure-paradise-
 
 ## Pharmacokinetic Context
 
-McKenna notes that DMT's onset profile is pharmacologically significant.
+McKenna notes that DMT"s onset profile is pharmacologically significant.
 Onset begins approximately 15 seconds after smoking, with the
 experience falling immediately into a trance state. The brain is
 "absolutely at home with this compound"—the rapid onset (45 seconds)

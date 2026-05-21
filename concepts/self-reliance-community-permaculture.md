@@ -6,7 +6,7 @@ type: concept
 
 ## Self-Reliance and Community in Permaculture
 
-Self-reliance and community rebuilding are central themes in David Holmgren's permaculture framework. Rather than promoting isolationist self-sufficiency, permaculture advocates for a layered approach to resilience that begins at the household level and radiates outward through community, bioregion, and beyond. This concept explores how permaculture thinking applies to social organisation, economic diversification, waste management, and the practical pathways toward more sustainable human settlements.
+Self-reliance and community rebuilding are central themes in David Holmgren"s permaculture framework. Rather than promoting isolationist self-sufficiency, permaculture advocates for a layered approach to resilience that begins at the household level and radiates outward through community, bioregion, and beyond. This concept explores how permaculture thinking applies to social organisation, economic diversification, waste management, and the practical pathways toward more sustainable human settlements.
 
 ## Self-Reliance as a Design Strategy
 
@@ -68,7 +68,7 @@ Social capital — the networks, norms, and trust that facilitate cooperation �
 
 ### The Waste Problem
 
-Industrial society generates enormous quantities of waste because its systems are linear (extract → produce → consume → discard). Natural systems are circular — one organism's waste is another's food. Holmgren argues that waste is not an inevitable byproduct of human activity but a design failure.
+Industrial society generates enormous quantities of waste because its systems are linear (extract → produce → consume → discard). Natural systems are circular — one organism"s waste is another's food. Holmgren argues that waste is not an inevitable byproduct of human activity but a design failure.
 
 ### Waste Minimisation Strategies
 

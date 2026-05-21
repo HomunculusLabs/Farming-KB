@@ -7,7 +7,7 @@ objects of sustained personal and philosophical inquiry.
 
 ## The Confessions
 
-De Quincey's Confessions appeared in two parts in the London Magazine. They
+De Quincey"s Confessions appeared in two parts in the London Magazine. They
 were immediately controversial and enormously popular. The work described, with
 unprecedented literary skill, the pleasures and horrors of opium addiction,
 drawing on De Quincey's own years of habitual use.
@@ -21,7 +21,7 @@ than from the external perspective of moral or medical authority.
 
 ## The Architecture of Opium Dreams
 
-De Quincey's descriptions of opium dreams remain among the most powerful
+De Quincey"s descriptions of opium dreams remain among the most powerful
 evocations of altered consciousness in the English language. He described
 vast architectural spaces — endless staircases spiraling inward, immense Gothic
 halls stretching beyond comprehension, cities built on scales that dwarfed
@@ -29,7 +29,7 @@ human experience. These were not hallucinations in the clinical sense but
 "reveries" — elaborate, self-consistent inner landscapes that unfolded with
 the inexorable logic of dreams.
 
-McKenna noted that De Quincey's opium dreams anticipated the visual vocabulary
+McKenna noted that De Quincey"s opium dreams anticipated the visual vocabulary
 of [[mycophobia-in-western-culture]]. It embedded the assumption that drug use inevitably
 follows a trajectory from pleasure to pain, from enlightenment to
 enslavement — an assumption that McKenna challenged when applied to
@@ -40,7 +40,7 @@ psychedelics.
 De Quincey was part of the Romantic movement, and his Confessions must be
 understood in that context. The Romantics were obsessed with the relationship
 between consciousness, imagination, and the sublime. Coleridge had already
-written about opium (in "Kubla Khan" and elsewhere), and Wordsworth's poetry
+written about opium (in "Kubla Khan" and elsewhere), and Wordsworth"s poetry
 explored states of heightened perception.
 
 But where Coleridge treated opium as inspiration and Wordsworth treated
@@ -57,7 +57,7 @@ De Quincey's influence on subsequent drug literature is immense:
   Paradis Artificiels" (1860), which treated hashish and opium as parallel
   paths to altered consciousness.
 - **Jean Cocteau** documented his own opium addiction in "Opium: The Diary
-  of a Cure" (1930), following De Quincey's confessional model.
+  of a Cure" (1930), following De Quincey"s confessional model.
 - **William S. Burroughs** acknowledged De Quincey as a predecessor, though
   "Junky" (1953) approached heroin with a clinical detachment foreign to
   De Quincey's Romantic sensibility.

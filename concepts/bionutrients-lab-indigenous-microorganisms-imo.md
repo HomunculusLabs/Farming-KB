@@ -16,7 +16,7 @@ Indigenous Microorganisms (IMO) are beneficial microorganisms collected from loc
 
 The philosophy behind IMO is rooted in self-reliance and ecological adaptation:
 
-- Starter cultures of beneficial microorganisms have been available commercially, but they remain purchased inputs under someone else's control
+- Starter cultures of beneficial microorganisms have been available commercially, but they remain purchased inputs under someone else"s control
 - Local, indigenous microorganisms are already adapted to the specific environment
 - Farmers can collect, culture, and multiply these microbes themselves, eliminating dependence on purchased biological inputs
 - Greater microbial diversity from multiple local sources creates more resilient soil ecologies

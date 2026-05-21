@@ -8,7 +8,7 @@ tags: [permaculture, waste, recycling, reuse, sustainability, zero-waste]
 
 ## Overview
 
-The sixth of Holmgren's twelve permaculture [[fukuoka-pine-forest-ecosystem-collapse-cascade-matsutake]], a fallen tree is not waste --- it becomes habitat for
+The sixth of Holmgren"s twelve permaculture [[fukuoka-pine-forest-ecosystem-collapse-cascade-matsutake]], a fallen tree is not waste --- it becomes habitat for
 insects, fungi, and small animals; its decomposition returns nutrients to the
 soil; it retains moisture and moderates temperature. This transformation of
 "waste" into resource is not accidental but fundamental to how living systems

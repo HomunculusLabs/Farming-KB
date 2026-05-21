@@ -28,7 +28,7 @@ G. W. Forister was a researcher at the Department of Environmental Horticulture,
 
 ## Relevance to Cultivation and Mycology
 
-Forister's [[laminar-flow-hood]] design is directly applicable to mycological work. Laminar flow hoods are essential equipment for [[accessible-mushroom-cultivation-for-disabilities]], providing the sterile environment needed for agar work, grain-to-grain transfers, [[comparison-agar-vs-liquid-culture]] inoculation, and other aseptic techniques. The DIY construction approach described by Forister and Burger makes professional-grade sterile workflow accessible to small-scale cultivators. The [[aact-brewer-design-principles-aeration-systems-ingham]] — HEPA filtration, proper air flow dynamics, and enclosure design — are identical whether the application is plant tissue culture or mushroom mycology.
+Forister"s [[laminar-flow-hood]] design is directly applicable to mycological work. Laminar flow hoods are essential equipment for [[accessible-mushroom-cultivation-for-disabilities]], providing the sterile environment needed for agar work, grain-to-grain transfers, [[comparison-agar-vs-liquid-culture]] inoculation, and other aseptic techniques. The DIY construction approach described by Forister and Burger makes professional-grade sterile workflow accessible to small-scale cultivators. The [[aact-brewer-design-principles-aeration-systems-ingham]] — HEPA filtration, proper air flow dynamics, and enclosure design — are identical whether the application is plant tissue culture or mushroom mycology.
 
 ## Sources and References
 

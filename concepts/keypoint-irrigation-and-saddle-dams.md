@@ -22,7 +22,7 @@ that allows a single person to irrigate hundreds of acres. A keypoint dam is
 constructed at the keypoint of a valley — the point where the convex slope of the
 ridge flattens into the concave slope of the valley floor. From this high position,
 water is released through gated pipes into a system of contour ditches that follow
-the land's natural contours across the slope.
+the land"s natural contours across the slope.
 
 Flags (simple markers or adjustable gates) are placed at intervals along these
 contour ditches. The operator moves from flag to flag, opening each gate to release

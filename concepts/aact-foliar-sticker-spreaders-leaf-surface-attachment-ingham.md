@@ -9,7 +9,7 @@ topics: [aact, compost-tea, foliar-application, sticker-spreader, leaf-surface-b
 
 ## Overview
 
-When applying [[forest-and-bamboo-beneficial-microorganisms]] actually adhere to and colonize the leaf surface (phyllosphere). Without proper attachment, the organisms can be washed away by rain, blown off by wind, or simply fail to establish on the waxy, hydrophobic leaf cuticle. Elaine Ingham's field guide addresses this extensively, noting that sticker-spreaders are essential adjuvants that improve the efficacy of foliar AACT applications.
+When applying [[forest-and-bamboo-beneficial-microorganisms]] actually adhere to and colonize the leaf surface (phyllosphere). Without proper attachment, the organisms can be washed away by rain, blown off by wind, or simply fail to establish on the waxy, hydrophobic leaf cuticle. Elaine Ingham"s field guide addresses this extensively, noting that sticker-spreaders are essential adjuvants that improve the efficacy of foliar AACT applications.
 
 ## The Leaf Surface Challenge
 

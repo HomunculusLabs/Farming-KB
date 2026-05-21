@@ -23,7 +23,7 @@ The mushroom market has grown from a niche agricultural sector into a multi-bill
 
 ### Early American Market (Late 1800s)
 
-William Falconer's 1891 observations paint a vivid picture of the early American mushroom market:
+William Falconer"s 1891 observations paint a vivid picture of the early American mushroom market:
 
 - America had "the best market in the world for fresh mushrooms; the demand for them is increasing, and the supply has always been inadequate"
 - The price in America was "more than double that paid in Europe," making mushroom growing "one of the simplest and most remunerative of employments"
@@ -32,7 +32,7 @@ William Falconer's 1891 observations paint a vivid picture of the early American
 
 ### The Manure Economy
 
-In Falconer's time, the economics of mushroom cultivation were intimately tied to the manure economy:
+In Falconer"s time, the economics of mushroom cultivation were intimately tied to the manure economy:
 
 - Market gardeners already had the horse manure needed for mushroom substrate
 - After bearing a crop of mushrooms, the spent manure was "thoroughly rotted and in good condition for early spring crops; and for seed beds of tomatoes, lettuces, cabbages, cauliflowers, and other vegetables, it is the best kind of manure"

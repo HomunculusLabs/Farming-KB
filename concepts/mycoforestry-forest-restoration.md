@@ -17,7 +17,7 @@ In old-growth forests, mycelial networks form a "mycelial mat" -- a vast undergr
 
 ## Mycorrhizal Inoculation
 
-Mycorrhizal fungi form symbiotic associations with plant roots, extending the root system's reach and enabling the plant to access nutrients and water that would otherwise be unavailable. [[mycorrhizal-inoculation]] of seedlings involves:
+Mycorrhizal fungi form symbiotic associations with plant roots, extending the root system"s reach and enabling the plant to access nutrients and water that would otherwise be unavailable. [[mycorrhizal-inoculation]] of seedlings involves:
 
 1. Applying mycorrhizal inoculum (such as MycoGrow) to seedling roots at planting time
 2. Ensuring the inoculum contacts the root zone directly

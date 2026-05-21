@@ -58,7 +58,7 @@ When the footprint test shows the soil is too dry:
 
 Never water immediately before sowing if you can avoid it — the cold water will lower soil temperature right when the seeds need warmth most.
 
-## The Seed's Water Strategy
+## The Seed"s Water Strategy
 
 ### Root First, Shoot Second
 

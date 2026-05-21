@@ -36,7 +36,7 @@ The bags are made from a heat-resistant polymer film that maintains structural i
 
 ## Role in the Boil-A-Bag Technique
 
-In Jarrold's Boil-A-Bag technique, these bags serve as the primary cultivation container. The workflow involves packing the bags with prepared straw substrate, fitting a filter can into the top, securing with masking tape, sterilizing in a pressure cooker, inoculating through the bag wall or filter can, allowing colonization in a warm location, and finally transferring to a humidity chamber for fruiting. After fruiting, the bags can be disposed of, eliminating cleaning and re-sterilization requirements.
+In Jarrold"s Boil-A-Bag technique, these bags serve as the primary cultivation container. The workflow involves packing the bags with prepared straw substrate, fitting a filter can into the top, securing with masking tape, sterilizing in a pressure cooker, inoculating through the bag wall or filter can, allowing colonization in a warm location, and finally transferring to a humidity chamber for fruiting. After fruiting, the bags can be disposed of, eliminating cleaning and re-sterilization requirements.
 
 ## Advantages for Amateur Cultivation
 

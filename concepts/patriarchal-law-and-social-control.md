@@ -10,13 +10,13 @@ The analysis of patriarchal law as an instrument of social control forms a centr
 
 ## The Code of Hammurabi Connection
 
-The Babylonian king Hammurabi's legal code contains an earlier version of the Biblical Ten Commandments. While some laws appear based upon the philosophy of the Golden Rule, many others are described as "completely absurd" — geared toward totalitarian control rather than genuine moral guidance. The text argues that Hammurabi could not have invented these patriarchal laws independently; they must have been adopted from an older source — the [[enki]]) and framing them as evil. The control of spiritual authority is the foundation upon which all other forms of control rest — if one controls the population's understanding of the divine, one controls their entire moral framework.
+The Babylonian king Hammurabi"s legal code contains an earlier version of the Biblical Ten Commandments. While some laws appear based upon the philosophy of the Golden Rule, many others are described as "completely absurd" — geared toward totalitarian control rather than genuine moral guidance. The text argues that Hammurabi could not have invented these patriarchal laws independently; they must have been adopted from an older source — the [[enki]]) and framing them as evil. The control of spiritual authority is the foundation upon which all other forms of control rest — if one controls the population"s understanding of the divine, one controls their entire moral framework.
 
 ## The Golden Rule as Sufficient Law
 
 The text suggests that the Golden Rule — treating others as one wishes to be treated — answers the genuine need for social order more than adequately. All laws that go beyond this principle, particularly those regulating private behavior (sexuality, desire, worship), are characterized as instruments of control rather than genuine moral guidance.
 
-This position aligns with a broader argument that human societies functioned well — even flourished — with far fewer restrictive laws. Indigenous societies are cited as examples of "highly cultured societies in which sexual suppression is non-existent and whose members enjoy completely free sexual lives," directly contradicting Freud's thesis that cultural achievement requires sexual repression.
+This position aligns with a broader argument that human societies functioned well — even flourished — with far fewer restrictive laws. Indigenous societies are cited as examples of "highly cultured societies in which sexual suppression is non-existent and whose members enjoy completely free sexual lives," directly contradicting Freud"s thesis that cultural achievement requires sexual repression.
 
 ## Secret Societies and the Engineering of Consent
 
@@ -53,7 +53,7 @@ The text identifies a recurring pattern that spans millennia of human civilizati
 
 - **Knowledge acquisition**: Ruling powers acquire or develop knowledge of entheogenic substances, spiritual practices, and expanded consciousness
 - **Knowledge hoarding**: This knowledge is restricted to an elite class, with severe penalties for unauthorized access or distribution
-- **Public destruction**: Public remnants of the knowledge are systematically destroyed — from the burning of libraries in [[wilhelm-reich]]'s books by the FDA in 20th-century New York
+- **Public destruction**: Public remnants of the knowledge are systematically destroyed — from the burning of libraries in [[wilhelm-reich]]"s books by the FDA in 20th-century New York
 - **Substitute provision**: Inert symbols replace active substances, maintaining the ritual form while eliminating the transformative content
 - **Moral enforcement**: Laws and religious doctrines are established to make the desire for the original knowledge itself a sin
 

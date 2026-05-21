@@ -28,7 +28,7 @@ Selman Abraham Waksman (1888-1973) was a Ukrainian-American biochemist and micro
 
 ## Relevance to Cultivation
 
-Waksman's research on soil microorganisms underpins the biological understanding of soil fertility that organic farming depends upon. His documentation of how microbial communities decompose organic matter and make nutrients available to plants provides the scientific basis for practices like composting, green manuring, and avoiding chemical fertilizers that harm soil biology.
+Waksman"s research on soil microorganisms underpins the biological understanding of soil fertility that organic farming depends upon. His documentation of how microbial communities decompose organic matter and make nutrients available to plants provides the scientific basis for practices like composting, green manuring, and avoiding chemical fertilizers that harm soil biology.
 
 ## Source Context
 

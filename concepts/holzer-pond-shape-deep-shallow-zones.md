@@ -11,7 +11,7 @@ type: concept
 ## Holzer Pond Shape - Deep and Shallow Zones, Fridge Effect, and Wind
 
 The correct shape of a pond or lake is essential for creating a self-regulating
-aquatic ecosystem. Holzer's approach to pond shaping creates the "fridge
+aquatic ecosystem. Holzer"s approach to pond shaping creates the "fridge
 effect," ensures proper water circulation through wind alignment, and
 establishes diverse bank zones that support both aquatic and terrestrial life.
 

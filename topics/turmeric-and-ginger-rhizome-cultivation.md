@@ -9,7 +9,7 @@ sources:
 
 ## Overview
 
-Turmeric (*Curcuma longa*) and ginger (*Zingiber officinale*) are two of the world's most important spice crops, both belonging to the family Zingiberaceae. Cultivated for their underground rhizomes — swollen, starch-rich stems that serve as storage organs — these tropical perennials have been grown for millennia across South and Southeast Asia. Both crops are increasingly valued not only as culinary spices but as medicinal plants with significant pharmacological properties. Turmeric's bioactive compound curcumin and ginger's gingerols and shogaols are the subjects of extensive [[season-extension-techniques-and-protected-culture]], container cultivation, or greenhouse production. This guide covers the complete cultivation cycle from planting to harvest, with attention to organic and permaculture-integrated approaches.
+Turmeric (*Curcuma longa*) and ginger (*Zingiber officinale*) are two of the world"s most important spice crops, both belonging to the family Zingiberaceae. Cultivated for their underground rhizomes — swollen, starch-rich stems that serve as storage organs — these tropical perennials have been grown for millennia across South and Southeast Asia. Both crops are increasingly valued not only as culinary spices but as medicinal plants with significant pharmacological properties. Turmeric's bioactive compound curcumin and ginger's gingerols and shogaols are the subjects of extensive [[season-extension-techniques-and-protected-culture]], container cultivation, or greenhouse production. This guide covers the complete cultivation cycle from planting to harvest, with attention to organic and permaculture-integrated approaches.
 
 ## Botanical Background
 

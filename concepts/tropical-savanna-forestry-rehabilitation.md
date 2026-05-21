@@ -93,7 +93,7 @@ For long-term forage and forest systems, additional species complement the pione
 
 On man-made or natural landslide areas and volcanic terrain in the tropics, initial establishment requires pocketing the area with soil-mulch mixtures. Coconut and macadamia nut husks are excellent materials for creating these initial planting pockets. Pioneer species then prepare the area for palms, figs, and useful fruit trees by providing shelter and mulch.
 
-On volcanic terrain, a heavy spiked roller can crush soft lava (a'a), making it accessible and easily weathered to soil. Soil pockets should be amended with trace elements (boron, manganese, zinc, copper, molybdenum) if analysis shows deficiencies.
+On volcanic terrain, a heavy spiked roller can crush soft lava (a"a), making it accessible and easily weathered to soil. Soil pockets should be amended with trace elements (boron, manganese, zinc, copper, molybdenum) if analysis shows deficiencies.
 
 ## Moisture Harvesting on Coastal Ranges
 

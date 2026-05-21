@@ -28,7 +28,7 @@ Savory identified four insights that conventional resource management had overlo
 
 3. **The Role of Herding Animals**: In brittle environments, large herding animals concentrated by predators are essential to soil health. Their hooves break capped surfaces, trample old material into mulch, and create conditions for new seedlings.
 
-4. **The Time Dimension**: Overgrazing is not a function of animal numbers but of the time plants are exposed to animals and the time allowed for recovery. This insight, drawn from André Voisin's work, revolutionizes grazing management.
+4. **The Time Dimension**: Overgrazing is not a function of animal numbers but of the time plants are exposed to animals and the time allowed for recovery. This insight, drawn from André Voisin"s work, revolutionizes grazing management.
 
 ## Plan-Monitor-Control-Replan
 

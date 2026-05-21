@@ -15,7 +15,7 @@ sources:
 
 ## Overview
 
-**Gasteria bicolor** Haw., commonly called the lawyer's tongue or ox-tongue, is a small succulent in the family Asphodelaceae. It is native to the Eastern Cape and Western Cape provinces of South Africa.
+**Gasteria bicolor** Haw., commonly called the lawyer"s tongue or ox-tongue, is a small succulent in the family Asphodelaceae. It is native to the Eastern Cape and Western Cape provinces of South Africa.
 
 The species is distinguished by its two-toned leaf coloration, with dark green surfaces marked by lighter spots or bands. This bicolor pattern gives the plant its specific epithet and makes it easy to identify.
 

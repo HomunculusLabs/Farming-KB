@@ -18,7 +18,7 @@ Basehart examines peyote use among the Apache of the Mescalero
 adopted for shamanistic purposes around 1870, used for
 approximately forty years, and then deliberately abandoned. The
 analysis explores the religious concepts and personality
-structures that led to peyote's rejection and why subsequent
+structures that led to peyote"s rejection and why subsequent
 shamanistic practices excluded hallucinogen use.
 
 ## The Apache Tribes of Mescalero

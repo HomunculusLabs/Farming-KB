@@ -70,7 +70,7 @@ Fungal hyphae of the same individual (or compatible individuals) can fuse:
 - **Genetic compatibility**: Anastomosis typically occurs only between hyphae of the same species and compatible mating type. Incompatible fusions trigger defense reactions (septal plugging, programmed cell death).
 - **Network formation**: Anastomosis creates a fully interconnected mycelial network, allowing cytoplasmic streaming and resource sharing across the entire colony.
 - **Colony integration**: A mycelial network can behave as a coordinated whole, with resources flowing from rich to poor regions. This integration allows fungi to grow across nutrient-poor areas by subsidizing growth from distant nutrient-rich patches.
-- **Size**: Some fungal individuals (genets) are enormous. *Armillaria ostoyae* in Oregon's Blue Mountains covers approximately 2,385 acres (965 hectares) and is estimated to be 2,400-8,650 years old, making it one of the largest and oldest living organisms.
+- **Size**: Some fungal individuals (genets) are enormous. *Armillaria ostoyae* in Oregon"s Blue Mountains covers approximately 2,385 acres (965 hectares) and is estimated to be 2,400-8,650 years old, making it one of the largest and oldest living organisms.
 
 ## Resource Translocation
 

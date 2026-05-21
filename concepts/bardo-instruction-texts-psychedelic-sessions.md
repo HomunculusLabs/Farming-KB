@@ -49,7 +49,7 @@ The voyager is reminded that they experience three Bardos: first the Clear Light
 The voyager is told they will experience a glimpse of pure truth — "Subtle, sparkling, bright, dazzling, glorious, and radiantly awesome, in appearance like a mirage moving across a landscape in springtime. One continuous stream of vibrations." This is the radiance of their own true nature.
 
 ### The Natural Sound of Reality
-"From the midst of that radiance comes the natural sound of reality, reverberating like a thousand thunders simultaneously sounding." This is the natural sound of one's own life process.
+"From the midst of that radiance comes the natural sound of reality, reverberating like a thousand thunders simultaneously sounding." This is the natural sound of one"s own life process.
 
 ### The Central Key
 "It is sufficient for you to know that these apparitions are your own thought-forms. If you do not recognize your own thought forms, if you forget your preparation, the lights will daunt you, the sounds will awe you, the rays will terrify you, the people around you will confuse you."
@@ -66,13 +66,13 @@ The voyager encounters the "Radiant Energy of the Seed" from which all living fo
 "An endless parade of pure forms and sounds, dazzlingly brilliant, ever-changing." The voyager is taught the great lessons of evolution, creation, and reproduction. "Avoid game interpretations. Avoid thinking, talking and doing. Keep faith in the life flow."
 
 ### Vision 3: The Fire-Flow of Internal Unity (Emotional Aspects)
-"The ecstasy of organic fire glows in every cell. The hard, dry, brittle husks of your ego are washing out to the endless sea of creation." The instruction emphasizes releasing attachment and recognizing the wisdom of one's own blood. "Let your heart burst in love for all life."
+"The ecstasy of organic fire glows in every cell. The hard, dry, brittle husks of your ego are washing out to the endless sea of creation." The instruction emphasizes releasing attachment and recognizing the wisdom of one"s own blood. "Let your heart burst in love for all life."
 
 ### Vision 4: The Wave-Vibration Structure of External Forms (Eyes Open, Intellectual)
 "Everything you see dissolves into energy vibrations. There are no longer things and persons but only the direct flow of particles." The voyager is told to let their brain become a receiving set for the radiance. "All interpretations are the products of your own mind. Dispel them."
 
 ### Vision 5: The Vibratory Waves of External Unity (Eyes Open, Emotional)
-"You are experiencing the unity of all living forms." If people seem rubbery and lifeless, like plastic puppets, this is only the ego's attempt to maintain separate identity. "Allow yourself to relax and feel the ecstatic energy-vibrations pulsing through you."
+"You are experiencing the unity of all living forms." If people seem rubbery and lifeless, like plastic puppets, this is only the ego"s attempt to maintain separate identity. "Allow yourself to relax and feel the ecstatic energy-vibrations pulsing through you."
 
 ### Vision 6: The Retinal Circus
 "Ecstatic kaleidoscopic patterns explode around you. All possible shapes come to life before your eyes." The instruction: "Do not become attached to any vision or revelation. Let everything flow through you. If unpleasant experiences come, let them flit by with the rest." This is described as "the great lesson in the creativity and power of the brain, freed from its learned structures."
@@ -92,14 +92,14 @@ The key passage: "None of the peaceful or wrathful visions, blood-drinking demon
 
 Read when the voyager is entering the re-entry period:
 
-### The Ego's Return
+### The Ego"s Return
 "Your former ego has started to operate again. Do not struggle to figure things out. If through weakness you are attracted to action and thinking, you will have to wander amidst the world of game existence, and suffer pain. Relax your restless mind."
 
 ### Supernormal Powers
 "You may now feel the power to perform miraculous feats... These feelings come to you naturally, not through any merit on your part. **Do not desire them. Do not attempt to exercise them.** Recognize them as signs that you are in the Third Bardo."
 
 ### Paranoid Nightmares
-"Frightening visions may come. Gusts of wind and icy blasts, humming and clicking of the controlling machinery, mocking laughter. You may imagine terror-producing remarks: 'Guilty,' 'stupid,' 'inadequate,' 'nasty.' Such imagined taunts and paranoid nightmares are the residues of selfish, ego-dominated game-playing. **Fear them not. They are your own mental products.**"
+"Frightening visions may come. Gusts of wind and icy blasts, humming and clicking of the controlling machinery, mocking laughter. You may imagine terror-producing remarks: "Guilty,' 'stupid,' 'inadequate,' 'nasty.' Such imagined taunts and paranoid nightmares are the residues of selfish, ego-dominated game-playing. **Fear them not. They are your own mental products.**"
 
 ### The Re-Entry Instruction
 "You are struggling to re-enter the denser atmosphere of routine game existence. Let this re-entry be smooth and slow. Do not attempt to use force of will-power."

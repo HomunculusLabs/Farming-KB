@@ -66,7 +66,7 @@ Shiitake is the second most cultivated mushroom worldwide. Traditional log metho
 
 **Medicinal**: Contains lentinan (beta-glucan, FDA-approved adjuvant cancer therapy in Japan), eritadenine (cholesterol-lowering), ergothioneine (antioxidant). Enhances NK cell activity and macrophage function. Anti-viral activity against HIV and hepatitis. Always cook thoroughly — raw shiitake can cause "shiitake dermatitis." See [[medicinal-mushroom-guide]].
 
-## Lion's Mane — Hericium erinaceus
+## Lion"s Mane — Hericium erinaceus
 
 | Parameter | Value |
 |-----------|-------|

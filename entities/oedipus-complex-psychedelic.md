@@ -8,7 +8,7 @@ type: entity
 
 ## Description
 
-The Oedipus Complex as it manifests in psychedelic experience refers to the emergence of primal psychosexual material — specifically visions of parental sexual intercourse — during the Third Bardo (re-entry) phase described in *The Psychedelic Experience*. Leary explicitly connects this to Freudian psychoanalysis and Carl Jung's commentary on the Tibetan Book of the Dead, noting the convergence between the Tibetan Sidpa Bardo vision of parental copulation and the Western psychoanalytic concept of the "primal scene."
+The Oedipus Complex as it manifests in psychedelic experience refers to the emergence of primal psychosexual material — specifically visions of parental sexual intercourse — during the Third Bardo (re-entry) phase described in *The Psychedelic Experience*. Leary explicitly connects this to Freudian psychoanalysis and Carl Jung"s commentary on the Tibetan Book of the Dead, noting the convergence between the Tibetan Sidpa Bardo vision of parental copulation and the Western psychoanalytic concept of the "primal scene."
 
 ## Classification
 
@@ -29,11 +29,11 @@ The Oedipus Complex as it manifests in psychedelic experience refers to the emer
 - Consciousness of "femaleness" produces hatred of the mother with attraction and fondness toward the father
 - This self-centered sexuality is distinguished from the "sexuality of transpersonal experiences"
 
-### Jung's Commentary
+### Jung"s Commentary
 
 Leary cites Carl Jung's "Psychological Commentary" to the Evans-Wentz edition of the Tibetan Book of the Dead:
 
-> "Freud's theory is the first attempt made in the West to investigate, as if from below, from the animal sphere of instinct the psychic territory that corresponds in Tantric Lamaism to the Sidpa Bardo."
+> "Freud"s theory is the first attempt made in the West to investigate, as if from below, from the animal sphere of instinct the psychic territory that corresponds in Tantric Lamaism to the Sidpa Bardo."
 
 Jung identified the Sidpa Bardo as the Tibetan equivalent of the deepest instinctual layers explored by Freudian psychoanalysis.
 

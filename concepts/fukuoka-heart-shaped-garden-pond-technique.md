@@ -18,7 +18,7 @@ The Japanese character for heart, when used as a template for a garden pond, nat
 
 > "If you dig a garden in this shape, then the pond is wider at certain points, leaving some areas floating free like islands. What you have then is water flowing downstream, a pool, a sea, and islands."
 
-The heart shape creates natural variation: some areas are shallow like streams, others are deeper like pools, and the surrounding earth forms hills and valleys at different heights. This microtopography is the key to the technique's success.
+The heart shape creates natural variation: some areas are shallow like streams, others are deeper like pools, and the surrounding earth forms hills and valleys at different heights. This microtopography is the key to the technique"s success.
 
 ## Creating the Garden
 

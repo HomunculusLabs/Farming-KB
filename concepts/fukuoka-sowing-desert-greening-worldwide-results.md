@@ -10,14 +10,14 @@ tags: [fukuoka]
 
 ## Desert Greening Projects — Worldwide Results
 
-*Documented results of Masanobu Fukuoka's [[dmt-containing-plants-united-states-halpern]], Europe, and Asia, as described in "Sowing
+*Documented results of Masanobu Fukuoka"s [[dmt-containing-plants-united-states-halpern]], Europe, and Asia, as described in "Sowing
 Seeds in the Desert."*
 
 ## California, United States
 
 Fukuoka first saw the desert in 1979 when he flew to the United States for the
 first time. He expected the American continent to be a vast, fertile green plain
-but found it a brown, desolate semi-desert. He gave a talk at California's
+but found it a brown, desolate semi-desert. He gave a talk at California"s
 Department of Conservation warning that careless agricultural practices, poor
 water management, overgrazing, and overlogging were creating a "Great California
 Desert."

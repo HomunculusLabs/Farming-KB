@@ -12,7 +12,7 @@ The Cannabis Health Index (CHI) is an evidence-based rating system developed by 
 
 ## Purpose and Context
 
-The CHI was developed to address a critical gap in medical cannabis: while the scientific literature on cannabis had grown to more than 15,000 entries at the U.S. National Library of Health, no systematic evidence-based model existed for evaluating the plant's [[cancer-medicinal-mushrooms-schizophyllan-spg-clinical-trials]] supporting therapeutic use |
+The CHI was developed to address a critical gap in medical cannabis: while the scientific literature on cannabis had grown to more than 15,000 entries at the U.S. National Library of Health, no systematic evidence-based model existed for evaluating the plant"s [[cancer-medicinal-mushrooms-schizophyllan-spg-clinical-trials]] supporting therapeutic use |
 | **Actual** | Strong clinical evidence | Controlled human trials, systematic reviews, or meta-analyses confirming therapeutic efficacy |
 
 This three-tier system allows users to quickly assess the strength of evidence supporting cannabis use for any given condition, from preliminary laboratory findings to well-established clinical results.

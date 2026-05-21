@@ -18,7 +18,7 @@ followed in the 1960s.
 
 ## The Trail Begins: Fly Agaric and Soma
 
-The Wassons' journey into ethnomycology began with the fly agaric
+The Wassons" journey into ethnomycology began with the fly agaric
 mushroom ([[allegro-colour-and-consistency-of-the-amanita-muscaria]] led them to propose that
 it was the legendary Soma of ancient India. Of the 1,000 hymns in the
 Rig Veda, over 100 are dedicated solely to the divine plant Soma and

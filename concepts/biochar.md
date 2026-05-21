@@ -45,7 +45,7 @@ Continuous feed reactors capable of processing tons per hour. Produce consistent
 
 ### Cation Exchange Capacity (CEC) Improvement
 
-Biochar has an extremely high surface area (100-500 m2/g) with a negative charge that attracts and holds positively charged nutrients (Ca2+, Mg2+, K+, NH4+). This reduces leaching losses and keeps nutrients available in the root zone. Over time, biochar's CEC increases as it weathers and develops more oxidation sites on its surface.
+Biochar has an extremely high surface area (100-500 m2/g) with a negative charge that attracts and holds positively charged nutrients (Ca2+, Mg2+, K+, NH4+). This reduces leaching losses and keeps nutrients available in the root zone. Over time, biochar"s CEC increases as it weathers and develops more oxidation sites on its surface.
 
 ### Water Retention
 

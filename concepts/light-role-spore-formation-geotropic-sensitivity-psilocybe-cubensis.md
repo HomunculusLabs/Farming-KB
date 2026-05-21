@@ -11,7 +11,7 @@ type: concept
 
 ## Overview
 
-Badham's (1982) wind tunnel experiments on [[evaporative-demand-hypothesis-mushroom-growth]] and orientation. The
+Badham"s (1982) wind tunnel experiments on [[evaporative-demand-hypothesis-mushroom-growth]] and orientation. The
 experiments provided evidence that light is necessary but not sufficient for
 the negative geotropic response, and that this requirement may be indirect
 — mediated through light's effect on [[bloomfield-asterophora-and-mycoparasites-of-fruiting-bodies]], while those exposed to light

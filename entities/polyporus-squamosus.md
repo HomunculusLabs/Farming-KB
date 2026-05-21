@@ -9,7 +9,7 @@ tags: [species, fungi, polypore, bracket-fungi, bitter]
 
 ## Description
 
-*Polyporus squamosus* (commonly known as **Dryad's Saddle**) is a large bracket fungus noted for its bitter taste. It is mentioned by [[julius-auboineau-palmer]] as an example of a fungus that is bitter and tastes of "leaves and grass," rendering it unfit for culinary use despite not being dangerously poisonous. It belongs to the [[polyporei]] group of fungi, which are characterized by a sponge-like layer of tubes under the cap rather than gills.
+*Polyporus squamosus* (commonly known as **Dryad"s Saddle**) is a large bracket fungus noted for its bitter taste. It is mentioned by [[julius-auboineau-palmer]] as an example of a fungus that is bitter and tastes of "leaves and grass," rendering it unfit for culinary use despite not being dangerously poisonous. It belongs to the [[polyporei]] group of fungi, which are characterized by a sponge-like layer of tubes under the cap rather than gills.
 
 ## Classification
 
@@ -20,7 +20,7 @@ tags: [species, fungi, polypore, bracket-fungi, bitter]
 - **Family:** Polyporaceae
 - **Genus:** *Polyporus* (historical classification)
 - **Species:** *P. squamosus*
-- **Common name:** Dryad's Saddle
+- **Common name:** Dryad"s Saddle
 
 ## Key Facts
 

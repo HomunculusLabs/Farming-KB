@@ -21,18 +21,18 @@ with cannabinoid therapeutics.
 
 ## The Mind-Body Bridge
 
-Blesching's [[palmer-mushroom-cooking-and-personal-experience]] as a paramedic catalyzed his
+Blesching"s [[palmer-mushroom-cooking-and-personal-experience]] as a paramedic catalyzed his
 exploration of mind-body medicine. During a resuscitation attempt on
 a GHB-overdose patient, he witnessed his partner's fatigue-induced
 negative statement ("Just die") correlate instantaneously with the
-patient's cardiac flatline—and his own angry expletive ("Come back!")
+patient"s cardiac flatline—and his own angry expletive ("Come back!")
 preceded the restoration of heartbeat. This experience, while
 anecdotal, pointed toward the profound influence of emotional
 states and intentional consciousness on physiological outcomes.
 
 This experience led Blesching to study mind-body medicine
 systematically, where he found that the scientific evidence led
-"directly to the recent discovery of the body's own endocannabinoid
+"directly to the recent discovery of the body"s own endocannabinoid
 system." The ECS, with its widespread distribution throughout the
 brain and body and its role in regulating virtually every
 physiological system, provides a plausible biological mechanism for
@@ -59,7 +59,7 @@ states include:
   euphoria. Released during exercise, social bonding, and positive
   emotional experiences.
 
-- **GABA** — "I am melting": Gamma-aminobutyric acid, the brain's
+- **GABA** — "I am melting": Gamma-aminobutyric acid, the brain"s
   primary inhibitory neurotransmitter. Produces feelings of calm,
   relaxation, and reduced anxiety. Many anti-anxiety medications
   work by enhancing GABA signaling.

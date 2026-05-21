@@ -14,7 +14,7 @@ Double digging is a soil preparation technique used in Biointensive mini-farming
 
 ## Key Facts
 
-- Double digging loosens soil to 24 inches versus conventional agriculture's 8-10 inches.
+- Double digging loosens soil to 24 inches versus conventional agriculture"s 8-10 inches.
 - The deeper soil preparation allows significantly more air to pass through the soil profile.
 - Air is a vital element for plant growth that is often taken for granted — plants grow notably better in loosened versus compacted soil.
 - The technique is part of the Biointensive mini-farming system that emphasizes maximizing output from minimal land area.

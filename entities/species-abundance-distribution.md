@@ -17,11 +17,11 @@ A species-abundance distribution (SAD) is a mathematical and graphical represent
 
 ## Historical Development
 
-The study of species-abundance distributions began with R.A. Fisher's seminal 1943 paper introducing the logarithmic series model to describe moth trap data. Fisher, Corbet, and Williams observed that most species in a sample were represented by few individuals while a small number of species were very abundant, and they formalized this pattern mathematically using the parameter α (alpha), now known as [[fishers-log-series-alpha]].
+The study of species-abundance distributions began with R.A. Fisher"s seminal 1943 paper introducing the logarithmic series model to describe moth trap data. Fisher, Corbet, and Williams observed that most species in a sample were represented by few individuals while a small number of species were very abundant, and they formalized this pattern mathematically using the parameter α (alpha), now known as [[fishers-log-series-alpha]].
 
 In 1948, Frank Preston proposed the lognormal distribution as an alternative, arguing that species abundances in large, diverse communities tend to follow a bell-shaped curve when plotted on a logarithmic scale. Preston introduced the concept of "octaves" — doubling abundance classes — and noted the "veil line" effect where sampling incompleteness truncates the full distribution.
 
-Motomura (1932) had earlier described the geometric series (also called the niche preemption model) in lake communities, though this work gained broader recognition through Whittaker's studies of plant communities in the 1960s and 1970s. Whittaker also popularized rank-abundance (Whittaker) plots as a standard graphical tool, and his framework of [[whittaker-beta-diversity]] is conceptually linked to SAD analysis.
+Motomura (1932) had earlier described the geometric series (also called the niche preemption model) in lake communities, though this work gained broader recognition through Whittaker"s studies of plant communities in the 1960s and 1970s. Whittaker also popularized rank-abundance (Whittaker) plots as a standard graphical tool, and his framework of [[whittaker-beta-diversity]] is conceptually linked to SAD analysis.
 
 The broken-stick model was formalized by MacArthur (1957) as a null model assuming random niche division. May (1975, 1981) and Southwood (1978) later advocated SADs as the most rigorous foundation for examining species diversity, arguing that single-number indices inevitably lose important information about community structure.
 
@@ -53,7 +53,7 @@ Preston's lognormal model emerges when many independent factors influence specie
 - **Ecological interpretation**: Many interacting niche factors in equilibrial communities
 - **Typical habitats**: Mature forests, species-rich tropical communities, well-established soil ecosystems
 - **Key parameters**: Mean and standard deviation of log abundances; the "canonical" form predicts a fixed relationship between these
-- **Characteristics**: Symmetric distribution on log scale; Preston's "canonical lognormal" predicts S/A ratio patterns
+- **Characteristics**: Symmetric distribution on log scale; Preston"s "canonical lognormal" predicts S/A ratio patterns
 - **Truncation effect**: The "veil line" — undersampled rare species are hidden behind a sampling veil
 
 ### Broken-Stick Model

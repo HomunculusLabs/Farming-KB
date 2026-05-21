@@ -10,12 +10,12 @@ tags: [cannabis, dosage]
 
 ## Dosage Guidelines for Medical Cannabis
 
-Comprehensive dosage and administration guidance from Blesching's "The Cannabis Health Index" (2015), covering the [[cannabis-health-methods-of-administration]], dose titration, [[blesching-cannabis-safety-adverse-effects-evidence]] are directly related to using cannabis in excess of the subjective therapeutic window. Key principles:
+Comprehensive dosage and administration guidance from Blesching"s "The Cannabis Health Index" (2015), covering the [[cannabis-health-methods-of-administration]], dose titration, [[blesching-cannabis-safety-adverse-effects-evidence]] are directly related to using cannabis in excess of the subjective therapeutic window. Key principles:
 
 - **Too little**: sub-optimal therapeutic effect
 - **Too much**: can actually increase the very symptoms you are attempting to treat (e.g., using cannabis to reduce anxiety but taking too much rapidly can multiply anxiety)
 - The window is **governed by three factors**:
-  1. The body's present endocannabinoid state (relative balance or deficiency)
+  1. The body"s present endocannabinoid state (relative balance or deficiency)
   2. The cannabinoid profile in the medicine to be taken
   3. The form in which it is consumed
 

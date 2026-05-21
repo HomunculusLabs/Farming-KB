@@ -41,7 +41,7 @@ Phytochromes regulate an enormous range of plant processes:
 - **De-etiolation**: When a seedling emerges from soil, phytochrome detects light and switches from etiolated (pale, elongated) to green, photosynthetically competent growth
 - **Shade avoidance**: Low red:far-red ratio (caused by canopy filtering) triggers stem elongation and leaf hyponasty
 - **Photoperiodic flowering**: Pfr reversion during the night measures dark period length
-- **Circadian clock entrainment**: Phytochrome signals help synchronize the plant's [[psilocybin-serotonin-structural-homology-endogenous-familiarity-argument]] with DNA photolyases (enzymes that repair UV-damaged DNA) but have lost DNA repair function and instead serve as photoreceptors.
+- **Circadian clock entrainment**: Phytochrome signals help synchronize the plant"s [[psilocybin-serotonin-structural-homology-endogenous-familiarity-argument]] with DNA photolyases (enzymes that repair UV-damaged DNA) but have lost DNA repair function and instead serve as photoreceptors.
 
 The chromophore is **flavin adenine dinucleotide (FAD)**, the same cofactor used in many metabolic enzymes. In Arabidopsis, two cryptochromes have been well characterized:
 

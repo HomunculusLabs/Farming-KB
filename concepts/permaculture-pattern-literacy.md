@@ -114,7 +114,7 @@ Understanding these patterns helps design more effective communities, economies,
 
 ## Pattern Language
 
-Christopher Alexander's concept of a "pattern language" -- a vocabulary of design patterns that can be combined -- heavily influenced permaculture. Permaculture patterns are like a grammar that allows designers to compose effective solutions:
+Christopher Alexander"s concept of a "pattern language" -- a vocabulary of design patterns that can be combined -- heavily influenced permaculture. Permaculture patterns are like a grammar that allows designers to compose effective solutions:
 
 - Each pattern describes a problem, its context, and a solution
 - Patterns connect to and build upon each other

@@ -64,7 +64,7 @@ The core philosophy rests on several principles:
 
 ## Cannabis as Sacrament vs. Abuse
 
-A critical distinction in Sativus's framework is between sacramental use and
+A critical distinction in Sativus"s framework is between sacramental use and
 substance abuse. While acknowledging that drugs "can certainly cause declines
 in quality of life," the author maintains they "can also cause great increase
 in the joys of life as well as the ability of the witch or warlock to improve

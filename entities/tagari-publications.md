@@ -9,7 +9,7 @@ categories: [organizations, publishing, permaculture]
 
 ## Description
 
-Tagari Publications is an Australian publishing house based in Tyalgum, New South Wales, established in 1979 as the publishing arm of the [[bill-mollison]]'s permaculture works and has operated continuously as a specialist publisher dedicated to sustainable design literature. The name "Tagari" was chosen by Mollison and reflects the organization's connection to Australian landscape and culture.
+Tagari Publications is an Australian publishing house based in Tyalgum, New South Wales, established in 1979 as the publishing arm of the [[bill-mollison]]"s permaculture works and has operated continuously as a specialist publisher dedicated to sustainable design literature. The name "Tagari" was chosen by Mollison and reflects the organization"s connection to Australian landscape and culture.
 
 ## Classification
 
@@ -22,7 +22,7 @@ Tagari Publications is an Australian publishing house based in Tyalgum, New Sout
 ## Key Facts
 
 - Described as "Publishers for the Permaculture Institute since 1979" on all publications.
-- Published *Permaculture: A Designers' Manual* (1988), the definitive permaculture textbook, with over 156,000 copies in print as of September 2002.
+- Published *Permaculture: A Designers" Manual* (1988), the definitive permaculture textbook, with over 156,000 copies in print as of September 2002.
 - Also published *Permaculture One* (1978) and *Permaculture Two* (1979), the foundational texts of the permaculture movement.
 - Each volume carries a surcharge of 50¢ (AUD) paid to the Permaculture Institute, held in trust for tree-planting initiatives and released to groups active in permanent reafforestation.
 - Operated as a small, mission-driven publisher rather than a commercial enterprise, prioritizing dissemination of permaculture knowledge over profit.

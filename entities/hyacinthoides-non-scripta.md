@@ -34,7 +34,7 @@ tags: [plant, asparagaceae, arbuscular-mycorrhizal, geophyte]
 
 ## Mycorrhizal Ecology
 
-Merryweather and Fitter's research program revealed that the bluebell's relationship with AM fungi is dynamic and age-dependent:
+Merryweather and Fitter"s research program revealed that the bluebell's relationship with AM fungi is dynamic and age-dependent:
 
 - **Young plants**: Shallower rooting, lower mycorrhizal colonization, higher phosphorus availability in surrounding soil.
 - **Mature plants**: Deeper rooting (bulbs descend), higher mycorrhizal colonization, lower phosphorus availability, but mycorrhizae compensate to maintain nutrient uptake.

@@ -27,7 +27,7 @@ According to the Second Law of Thermodynamics, no system can be
 sustained indefinitely. However, GROW BIOINTENSIVE aims to
 maintain soils close to complete sustainability rather than close
 to complete insustainability. The goal is to grow all compost
-materials within the mini-farm's boundaries and maintain nutrient
+materials within the mini-farm"s boundaries and maintain nutrient
 sustainability so the food-raising area becomes a source—rather
 than a sink—of carbon, nutrients, and fertility.
 

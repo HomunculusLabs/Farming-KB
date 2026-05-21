@@ -17,7 +17,7 @@ Both forms were completely permeated with mushroom [[antimicrobial-compounds-mus
 
 The choice between them was a matter of ongoing debate among growers.
 
-Falconer's 1891 treatise discussed both types in considerable detail, reflecting their importance to the [[dmt-containing-plants-united-states-halpern]] was made in England, mostly around London.
+Falconer"s 1891 treatise discussed both types in considerable detail, reflecting their importance to the [[dmt-containing-plants-united-states-halpern]] was made in England, mostly around London.
 
 The bricks made by different manufacturers varied somewhat in size and weight.
 

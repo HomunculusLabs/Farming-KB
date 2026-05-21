@@ -9,7 +9,7 @@ sources:
 ---
 ## Psychedelic Therapy Set and Setting
 
-The concept of "[[lsd-set-and-setting-framework]]" — first articulated by [[ralph-metzner]], and [[leary-psychedelic-experience-bardo-mapping]]" (1964) — is the foundational principle for safe and productive psychedelic use. Set refers to the user's mindset; setting refers to the physical and social environment. Together, they are more important than the specific substance or dose in determining the quality of the experience.
+The concept of "[[lsd-set-and-setting-framework]]" — first articulated by [[ralph-metzner]], and [[leary-psychedelic-experience-bardo-mapping]]" (1964) — is the foundational principle for safe and productive psychedelic use. Set refers to the user"s mindset; setting refers to the physical and social environment. Together, they are more important than the specific substance or dose in determining the quality of the experience.
 
 ## Set (Mindset)
 
@@ -62,7 +62,7 @@ The concept of "[[lsd-set-and-setting-framework]]" — first articulated by [[ra
 ### Phase 3: The Peak (30 minutes to several hours)
 - Dissolution of ordinary reality
 - May encounter ego death, mystical states, difficult memories
-- Guide's role: minimal intervention, reassurance if needed ("you're safe," "let go," "breathe")
+- Guide's role: minimal intervention, reassurance if needed ("you"re safe," "let go," "breathe")
 - Trust the process — resistance causes suffering
 - Eye mask recommended for inward journey
 
@@ -77,7 +77,7 @@ The concept of "[[lsd-set-and-setting-framework]]" — first articulated by [[ra
 - Daily reflection: meditation, journaling
 - Implement insights: behavioral changes, creative projects
 - Discuss with therapist or integration circle
-- Allow time for processing — don't rush back to normal life
+- Allow time for processing — don"t rush back to normal life
 - Second session (if planned) after full integration of first
 
 ## The Guide's Role

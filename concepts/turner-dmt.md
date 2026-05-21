@@ -27,7 +27,7 @@ N,N-DMT and 5-MeO-DMT are also manufactured synthetically and sold on the underg
 DMT is not active if taken orally - it must be smoked or snorted for psychoactive effects. To obtain a full-strength experience, the entire dose must be consumed in a short period.
 
 ### Snuff Sources
-Two sources - **[[virola-theiodora]]** - are made into snuffs known as **Yopo** and **Epena**. Amazon natives use ingenious methods including paired snorting devices where one person blows the DMT snuff into the other's nose.
+Two sources - **[[virola-theiodora]]** - are made into snuffs known as **Yopo** and **Epena**. Amazon natives use ingenious methods including paired snorting devices where one person blows the DMT snuff into the other"s nose.
 
 ### Ayahuasca
 Elsewhere in the Amazon, DMT-containing plants like **Psychotria veridis** are included in brews known as **Ayahuasca** or **Yage**, combined with **[[turner-harmala-alkaloids-preparation-and-dosage]]). The [[mao-inhibitors-and-psychedelics]]) intensify the [[mckenna-dmt-experience-and-hyperspace]] and allow it to be active orally. The healers claim that plant spirits tell them which plants to use in their brews.
@@ -48,7 +48,7 @@ Smaller amounts produce perceptual changes but won't reach the unique dimensions
 - The slower the vaporization, the more one gets out of it
 - Place a small amount of ash in the bowl bottom to hold melted DMT
 
-The smoke has a harsh, plastic-like taste. It doesn't expand like cannabis and cools quickly.
+The smoke has a harsh, plastic-like taste. It doesn"t expand like cannabis and cools quickly.
 
 ## The High
 
@@ -58,7 +58,7 @@ The smoke has a harsh, plastic-like taste. It doesn't expand like cannabis and c
 - Generally completely out of body and unaware of physical surroundings
 - Intense part lasts only **2 to 5 minutes** (seeming timeless while in it)
 - Back to baseline: **20 minutes** on 5-MeO, **30 minutes** on N,N-DMT
-- Called "The businessman's lunch trip" in the Sixties
+- Called "The businessman"s lunch trip" in the Sixties
 
 ### Unpredictability
 Experiences range from heaven to hell, cyberspace to jeweled palaces, fear or personified evil, visions of jungle animals, contacts with extraterrestrials, links with ancient spirits, or adventures with fairies and elves. On a full dose, one cannot guide the trip with the mind - only by the "intent of the soul" or will.

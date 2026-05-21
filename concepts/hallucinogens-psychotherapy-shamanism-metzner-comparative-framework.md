@@ -6,7 +6,7 @@ type: concept
 
 ## Hallucinogens in Psychotherapy and Shamanism — A Comparative Framework
 
-Ralph Metzner's 1998 paper "Hallucinogenic Drugs and Plants in Psychotherapy and Shamanism" (published in the *Journal of Psychoactive Drugs*) provides the most systematic comparison of Western psychedelic-assisted psychotherapy with indigenous shamanic healing practices. Metzner identifies four paradigms of hallucinogen use and highlights two radical differences between shamanic and Western worldviews.
+Ralph Metzner"s 1998 paper "Hallucinogenic Drugs and Plants in Psychotherapy and Shamanism" (published in the *Journal of Psychoactive Drugs*) provides the most systematic comparison of Western psychedelic-assisted psychotherapy with indigenous shamanic healing practices. Metzner identifies four paradigms of hallucinogen use and highlights two radical differences between shamanic and Western worldviews.
 
 ## Four Paradigms of Hallucinogen Use
 
@@ -31,7 +31,7 @@ Two sub-models emerged in the 1950s–1960s:
 1. Profoundly expanded state of consciousness — goes beyond therapeutic insight into questioning fundamental reality concepts
 2. **[[lsd-set-and-setting-framework]]** are the primary determinants; the drug is a catalyst (Leary, Litwin & Metzner 1963)
 3. Two metaphors: **amplifier** (nonspecific psychic amplifier) and **microscope** (opens hidden realms of mind to direct observation)
-4. Therapist's personal experience with psychedelics is essential — without it, communication with the patient in an altered state is severely limited
+4. Therapist"s personal experience with psychedelics is essential — without it, communication with the patient in an altered state is severely limited
 5. Access to transcendent, [[metzner-transpersonal-dimensions-psychedelic-therapy]] of consciousness (Grof's "holotropic" states)
 
 ### 2. Shamanic Rituals of Healing and Divination
@@ -60,7 +60,7 @@ Large-group ceremonial forms bridging shamanism and organized religion:
 
 ### 4. Hybrid Shamanic-Therapeutic Rituals
 
-Metzner's "[[metzner-neoshamanic-medicine-circles]]" blend Western and indigenous approaches:
+Metzner"s "[[metzner-neoshamanic-medicine-circles]]" blend Western and indigenous approaches:
 
 - Circle structure with altar or fire
 - Experienced elder/guide with assistants

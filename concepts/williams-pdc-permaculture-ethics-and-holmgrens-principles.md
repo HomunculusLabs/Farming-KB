@@ -1,5 +1,5 @@
 ---
-title: williams pdc permaculture ethics and holmgrens principles and Holmgren's 12 Principles
+title: williams pdc permaculture ethics and holmgrens principles and Holmgren"s 12 Principles
 created: 2026-04-28
 tags: [permaculture, holmgren, principles, ethics, design-framework]
 date: 2026-04-28

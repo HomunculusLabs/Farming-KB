@@ -15,7 +15,7 @@ growing movement of people seeking to return to the land and the obstacles
 that block this path. His analysis is both philosophical and practical,
 connecting to his broader [[fukuoka-farming-for-all-quarter-acre-vision]].
 
-## The Earth as God's Garden
+## The Earth as God"s Garden
 
 The earth is not merely soil, and the blue sky is more than just empty space.
 The earth is the garden of God, and the sky is where He sits. The farmer who,

@@ -69,7 +69,7 @@ This is one quality issue the buyer can actually see before purchasing. The spec
 - Leaves hardly grow for a week to ten days after transplanting
 - The seedling wilts easily until it starts putting roots into surrounding soil
 
-**How to check**: Place the stem of the plant between your fingers, palm against the soil, cup your hand around the pot, and tap gently on the side. If the root ball slides out intact with visible root tips at the edges, it is properly rooted. If roots are circling densely, it is pot-bound. Don't buy it.
+**How to check**: Place the stem of the plant between your fingers, palm against the soil, cup your hand around the pot, and tap gently on the side. If the root ball slides out intact with visible root tips at the edges, it is properly rooted. If roots are circling densely, it is pot-bound. Don"t buy it.
 
 ## Soft Seedlings
 

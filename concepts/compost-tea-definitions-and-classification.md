@@ -6,7 +6,7 @@ type: concept
 
 ## Overview
 
-Compost tea is broadly defined as a water extract of compost that is brewed — typically with nutrients added to enhance beneficial microbial growth. However, the term has been applied inconsistently over time to a wide range of preparations with very different properties. Elaine Ingham's work with the [[soil-foodweb-institute]] (SFI) provides a rigorous taxonomy that distinguishes the various production methods, clarifies what qualifies as true compost tea, and highlights the dangers of misapplied terminology.
+Compost tea is broadly defined as a water extract of compost that is brewed — typically with nutrients added to enhance beneficial microbial growth. However, the term has been applied inconsistently over time to a wide range of preparations with very different properties. Elaine Ingham"s work with the [[soil-foodweb-institute]] (SFI) provides a rigorous taxonomy that distinguishes the various production methods, clarifies what qualifies as true compost tea, and highlights the dangers of misapplied terminology.
 
 ## Four Production Methods
 

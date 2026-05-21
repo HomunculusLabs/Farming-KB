@@ -20,9 +20,9 @@ JADAM holds up pre-industrial farming as evidence that effective agriculture doe
 
 ### Against Growth Stage Fertilization
 
-"Fertilizer experts will tell you that in the early stage of plant growth (nutritional growth cycle), the plant needs a lot of nitrogen... When the plant flowers and fruits, it needs a lot of phosphorus... Learn all this, and farmer's brain will overload."
+"Fertilizer experts will tell you that in the early stage of plant growth (nutritional growth cycle), the plant needs a lot of nitrogen... When the plant flowers and fruits, it needs a lot of phosphorus... Learn all this, and farmer"s brain will overload."
 
-Cho critiques the increasingly complex growth-stage fertilization programs promoted by agricultural advisors. While scientifically sound in principle, these programs create dependency on purchased inputs and require expertise that most farmers don't have.
+Cho critiques the increasingly complex growth-stage fertilization programs promoted by agricultural advisors. While scientifically sound in principle, these programs create dependency on purchased inputs and require expertise that most farmers don"t have.
 
 ## The Nutrient Loop
 
@@ -36,7 +36,7 @@ This is a key concession from JADAM: unlike natural ecosystems, which recycle nu
 
 "Fertilizer is to bring back the nutrients taken out of the soil from harvest. What you have emptied, you need to fill back in. When filling it back, you have to fill it up with something similar to the thing that has been taken out."
 
-This principle guides JADAM's approach to fertilizer selection: the best fertilizer is one that resembles the composition of the harvested crop. If you harvest grain (high carbon), return carbon-rich materials; if you harvest fruit (high mineral content), return mineral-rich materials.
+This principle guides JADAM"s approach to fertilizer selection: the best fertilizer is one that resembles the composition of the harvested crop. If you harvest grain (high carbon), return carbon-rich materials; if you harvest fruit (high mineral content), return mineral-rich materials.
 
 ### Against Conventional Organic Fertilizing
 

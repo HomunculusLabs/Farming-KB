@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-The holistic approach to gardening and farming draws from a rich body of literature spanning soil science, composting, cover cropping, and sustainable agriculture. Steve Solomon's *Gardening When It Counts* references numerous foundational texts that form a recommended reading curriculum for serious students of organic and sustainable food production. These works, many available through free online libraries, provide the theoretical and practical underpinnings for growing nutrient-dense food with minimal external inputs.
+The holistic approach to gardening and farming draws from a rich body of literature spanning soil science, composting, cover cropping, and sustainable agriculture. Steve Solomon"s *Gardening When It Counts* references numerous foundational texts that form a recommended reading curriculum for serious students of organic and sustainable food production. These works, many available through free online libraries, provide the theoretical and practical underpinnings for growing nutrient-dense food with minimal external inputs.
 
 ## Foundational Texts on Composting and Soil Fertility
 
@@ -36,7 +36,7 @@ Cover cropping is presented not as an optional enhancement but as a fundamental 
 
 Leandre and Gretchen Poisson's *Solar Gardening: Growing Vegetables Year-Round the American Intensive Way* (1994) introduces structure-based season extenders for cold climates. While Solomon notes significant disagreements with the book's intensive spacing recommendations and its characterization of extensive growing systems as "non-productive," he acknowledges the value of its designs for solar-powered growing structures.
 
-The critique is instructive: intensive spacing that maximizes yield per square foot often requires dramatically more water, fertilizer, and labor than wider spacing, and the resulting plants may be less nutritious. The book's season-extension structures, however, remain useful for gardeners in regions with short growing seasons.
+The critique is instructive: intensive spacing that maximizes yield per square foot often requires dramatically more water, fertilizer, and labor than wider spacing, and the resulting plants may be less nutritious. The book"s season-extension structures, however, remain useful for gardeners in regions with short growing seasons.
 
 ## Steve Solomon's Own Works
 

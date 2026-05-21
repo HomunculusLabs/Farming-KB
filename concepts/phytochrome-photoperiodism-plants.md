@@ -16,7 +16,7 @@ The story of photoperiodism begins with a mutant tobacco strain discovered in so
 - A **short-day plant** (like soybean) would not flower in naturally short autumn days if a light was turned on for just a few minutes in the middle of the night.
 - A **long-day plant** (like iris or barley) would flower in the middle of winter if given a brief flash of light during the night.
 
-This proved that plants measure the **length of the continuous dark period**, not the day length. A brief interruption of darkness resets the plant's night-length counter.
+This proved that plants measure the **length of the continuous dark period**, not the day length. A brief interruption of darkness resets the plant"s night-length counter.
 
 ## The Red/Far-Red Light Switch
 
@@ -49,7 +49,7 @@ Phytochrome exists in two interconvertible forms:
 The red/far-red system has deep ecological logic:
 
 - **End of day:** The last light a plant sees at sunset is enriched in far-red (because red light is scattered more by the atmosphere at low sun angles). This converts Pfr to Pr, signaling the plant to "wind down" for the night.
-- **Beginning of day:** Morning light is enriched in red light. This converts Pr to Pfr, "waking up" the plant's metabolic systems.
+- **Beginning of day:** Morning light is enriched in red light. This converts Pr to Pfr, "waking up" the plant"s metabolic systems.
 - **[[phototropism-darwin-plant-light-sensing]] (where Darwin showed the "eye" is at the shoot tip), phytochrome-mediated photoperiodism is sensed primarily in the **leaves**:
 
 - Illuminating any single leaf with red light during the night is sufficient to regulate flowering in the entire plant.

@@ -8,7 +8,7 @@ tags: [reference]
 ---
 ## Brain Neuroscience and Psychedelic Mechanism
 
-Simon G. Powell dedicates Chapter 5 of "The [[leary-psychedelic-experience-bardo-mapping]]. Titled "The Mushroom and the Synapse," the chapter investigates the neuronal architecture of the brain to comprehend the nature and potential dynamics of consciousness, examining how psilocybin and related compounds interact with the brain's information-processing systems.
+Simon G. Powell dedicates Chapter 5 of "The [[leary-psychedelic-experience-bardo-mapping]]. Titled "The Mushroom and the Synapse," the chapter investigates the neuronal architecture of the brain to comprehend the nature and potential dynamics of consciousness, examining how psilocybin and related compounds interact with the brain"s information-processing systems.
 
 ## The Neuron and the Nervous System
 
@@ -30,9 +30,9 @@ Serotonin is employed in several brain structures controlling functions like sle
 
 According to neuroscientist G.K. Aghajanian, the serotonin-using raphe system has a homeostatic function with two primary effects. In the waking state, it enhances the activity of motor neurons governing muscular movement. More significantly, during the waking state this same serotonergic system suppresses sensory systems — those systems relaying information about the external world.
 
-This second effect serves to screen out distracting sensory cues. Aghajanian's homeostatic model suggests that this screening function maintains a kind of "balance" of consciousness in which we perceive reality in a "steady" way, almost as if the serotonergic raphe system were a balancing stick enabling us to walk the "tightrope" of normal perceptual awareness.
+This second effect serves to screen out distracting sensory cues. Aghajanian"s homeostatic model suggests that this screening function maintains a kind of "balance" of consciousness in which we perceive reality in a "steady" way, almost as if the serotonergic raphe system were a balancing stick enabling us to walk the "tightrope" of normal perceptual awareness.
 
-## Psilocybin's Action on the Raphe System
+## Psilocybin"s Action on the Raphe System
 
 Research conducted primarily in the 1960s, using rat brains, cat brains, and isolated rat neurons, revealed that LSD and psilocybin depress the action of serotonin neurons in precisely the raphe system — a neuronal system shared by rats, cats, and humans.
 

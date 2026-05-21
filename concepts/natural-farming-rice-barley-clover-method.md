@@ -10,7 +10,7 @@ created: 2026-05-09
 
 ## Overview
 
-Fukuoka's "direct-seeded, no-tillage, [[cervantes-chemical-fertilizers-guide]],
+Fukuoka"s "direct-seeded, no-tillage, [[cervantes-chemical-fertilizers-guide]],
 compost, pesticides, or any of the practices conventional farmers consider
 essential. Fukuoka describes growing grain this way as very easy and
 straightforward — the labor of one or two people is more than enough to grow

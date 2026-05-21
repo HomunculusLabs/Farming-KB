@@ -9,7 +9,7 @@ sources: ["Shulgin - PIHKAL"]
 ## B
 
 [[mescaline]],
-> after the first hour or two. Mental effects didn't develop in any
+> after the first hour or two. Mental effects didn"t develop in any
 > interesting way. I was aware of brief heart arrhythmia. Tummy was
 > uncomfortable, off and on, and there was light diarrhea. Even as late
 > as the fifth hour, my feet were cold, and the whole thing left me with
@@ -20,7 +20,7 @@ sources: ["Shulgin - PIHKAL"]
 
 There is a jingle heard occasionally in
 chemical circles, concerning the homologues of methyl. It goes,
-"There's ethyl and propyl, but butyl is futile." And to a large
+"There"s ethyl and propyl, but butyl is futile." And to a large
 
 measure this is true with the 4-position homologues of mescaline.
 This butyl compound, B or Buscaline, had originally been patented in

@@ -59,7 +59,7 @@ Spores of this genus germinate rapidly and outcompete most mold spores on agar, 
 
 *Agrocybe* is a **hardwood omnivore** — it can be grown on any type of non-coniferous wood but is not well-suited to agricultural waste (wheat straw, cotton hulls, dried vegetable matter). Growing on agricultural waste would require heavy grain spawn inoculation, which is not economically viable.
 
-**Indoor:** Sterilized, supplemented sawdust is ideal, closely matching the mushroom's native substrate in nutrition and density.
+**Indoor:** Sterilized, supplemented sawdust is ideal, closely matching the mushroom"s native substrate in nutrition and density.
 
 ## Outdoor Cultivation
 

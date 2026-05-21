@@ -16,7 +16,7 @@ The specific reaction to a psychedelic substance has little to do with the chemi
 
 ### Long-Range Set
 
-The long-range set encompasses the person's enduring psychological characteristics and life history. It includes:
+The long-range set encompasses the person"s enduring psychological characteristics and life history. It includes:
 
 - **Personal history** — the accumulated experiences, traumas, and formative events that shape identity.
 - **Enduring personality traits** — the stable patterns of thought, feeling, and behavior that define the individual.
@@ -61,7 +61,7 @@ The authors offer concrete recommendations for preparing a psychedelic session:
 
 - **Set aside three days** — one day for preparation, one for the session itself, and one for integration and reflection. This three-day rhythm allows the experience to unfold without the pressure of immediate return to ordinary life.
 - **Talk to experienced persons** — those who have undergone [[bardo-instruction-texts-psychedelic-sessions]] can provide invaluable practical guidance and help calibrate expectations.
-- **Observe a session** — watching another person's session (with their consent) provides a sense of the terrain before entering it oneself.
+- **Observe a session** — watching another person"s session (with their consent) provides a sense of the terrain before entering it oneself.
 - **Read books about [[mystical-experience]]** — recommended authors include [[aldous-huxley]], Alan Watts, and R. Gordon Wasson. These works help familiarize the subject with the phenomenology of expanded states.
 - **Meditation as the best preparation** — regular meditation practice develops exactly the capacities most needed in a psychedelic session: the ability to observe without grasping, to remain present with discomfort, and to let go of the ego's demands for control.
 

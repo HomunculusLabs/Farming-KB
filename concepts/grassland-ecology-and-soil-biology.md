@@ -6,7 +6,7 @@ type: concept
 
 ## Grassland Ecology and Soil Biology
 
-Grasslands are among the most ecologically significant biomes on Earth, occupying approximately 24% of the planet's land surface. Bill Mollison's *Permaculture: A
+Grasslands are among the most ecologically significant biomes on Earth, occupying approximately 24% of the planet"s land surface. Bill Mollison's *Permaculture: A
 Designer's Manual* frames them as critical intermediaries between forests and deserts — systems profoundly misunderstood and degraded by modern agricultural practice.
 
 ## Perennial Grassland Types

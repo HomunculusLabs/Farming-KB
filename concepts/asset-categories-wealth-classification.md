@@ -24,7 +24,7 @@ Time and money are, in this framework, interchangeable resources. Controlling th
 
 ### Category 1: Degenerative Assets
 
-Degenerative assets are those that inevitably decay, wear out, or depreciate over time. They represent a net draw on a region's resources and, when accumulated in excess, impoverish the community in the long term.
+Degenerative assets are those that inevitably decay, wear out, or depreciate over time. They represent a net draw on a region"s resources and, when accumulated in excess, impoverish the community in the long term.
 
 Examples include:
 

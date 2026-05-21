@@ -9,7 +9,7 @@ sources: [raw/papers/william-ozier-williams-pdc_-a-permaculture-design-cours.md,
 
 # Permaculture Zone and Sector Analysis
 
-Zones and sectors are analytical graphic tools used in [[permaculture-design-process|permaculture design]] to understand a site and make design decisions. From William Ozier's PDC course and "Permaculture Plants: A Selection."
+Zones and sectors are analytical graphic tools used in [[permaculture-design-process|permaculture design]] to understand a site and make design decisions. From William Ozier"s PDC course and "Permaculture Plants: A Selection."
 
 ## Zones: What Is a Zone?
 

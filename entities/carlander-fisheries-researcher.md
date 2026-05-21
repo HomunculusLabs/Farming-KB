@@ -17,7 +17,7 @@ Carlander is a fisheries researcher cited by [[permaculture-design]] Theory, Aqu
 - Demonstrated that standing fish crop in reservoirs increases as a function of species number
 - The relationship is described as an "increasing function" — not merely positive correlation but a scaling effect where more species consistently yield more total biomass
 - His findings parallel observations in wild terrestrial ecosystems where complexity and standing crop exceed those of simplified cultivated systems
-- Cited by Mollison alongside Watt's work on energy and resource categories
+- Cited by Mollison alongside Watt"s work on energy and resource categories
 - Research supports the general ecological principle that polyculture outproduces monoculture on a per-area basis when measured by total biomass
 - The mechanism is niche complementarity — different fish species occupy different feeding niches, allowing more complete use of available food resources
 

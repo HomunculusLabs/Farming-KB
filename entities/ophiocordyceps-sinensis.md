@@ -39,7 +39,7 @@ The stroma is the above-ground reproductive structure, club-shaped and slightly 
 
 **Host larva:** 3–5 cm long, yellowish-brown mummified caterpillar of *Thitarodes* spp. (ghost moths), with 20–30 visible abdominal segments.
 
-The fungus completely colonizes the larva's hemocoel, replacing internal tissue with a dense mycelial mat while preserving the external exoskeleton.
+The fungus completely colonizes the larva"s hemocoel, replacing internal tissue with a dense mycelial mat while preserving the external exoskeleton.
 
 **Perithecia:** Embedded in the stroma surface, flask-shaped, producing filiform ascospores 120–230 × 4–5 µm.
 

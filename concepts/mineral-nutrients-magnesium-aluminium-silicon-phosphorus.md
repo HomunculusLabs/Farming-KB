@@ -45,7 +45,7 @@ Aluminium is a "Jekyll and Hyde" element — it forms a large part of soils and 
 
 ## Silicon (Si)
 
-Silicon is an important part of cell walls in many grasses and bamboo, and is essential to soil [[mollison-designers-humus-building-and-soil-organic-matter|Mollison]]'s Warning
+Silicon is an important part of cell walls in many grasses and bamboo, and is essential to soil [[mollison-designers-humus-building-and-soil-organic-matter|Mollison]]"s Warning
 
 > "Next to clean water, phosphorus will be one of the inexorable limits to human occupancy on this planet. We must not defer solving these problems or conserving our resources any longer, or we betray our own children."
 

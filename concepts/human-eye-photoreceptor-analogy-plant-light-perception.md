@@ -35,7 +35,7 @@ The key insight from human photoreception that applies to plants is that differe
 - **Red photopsin**: Optimally absorbs long-wavelength red light (~560 nm)
 - **Green photopsin**: Optimally absorbs medium-wavelength green light (~530 nm)
 
-The specificity comes from the protein's three-dimensional conformation — the arrangement of amino acids creates a pocket that optimally accommodates certain wavelengths while reflecting or transmitting others. This is analogous to how a radio antenna is physically tuned to specific frequencies.
+The specificity comes from the protein"s three-dimensional conformation — the arrangement of amino acids creates a pocket that optimally accommodates certain wavelengths while reflecting or transmitting others. This is analogous to how a radio antenna is physically tuned to specific frequencies.
 
 ## The Analogy Applied to Plants
 

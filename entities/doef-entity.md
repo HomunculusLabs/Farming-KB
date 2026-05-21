@@ -29,7 +29,7 @@ sources:
 The qualitative reports from [[2c-family-compounds-overview]]
 - [[shulgin-dosage-guidelines]]
 
-## Shulgin's Assessment
+## Shulgin"s Assessment
 
 Shulgin's description of DOEF -- "all systems intact, body, mind and emotion. Gentle. Good for writing. No dark corners apparent at all" -- places it among the more favorable compound evaluations in PiHKAL. This contrasts sharply with compounds like [[dobu-entity]]|DOBU (described as potentially dangerous due to slow onset) or don-entity|DON (noted for anxiety and physical discomfort). The favorable profile likely reflects both the specific [[lsd-discovery-aftermath-pharmacological-properties]] of the fluoroethyl group and the dose range at which it was tested.
 

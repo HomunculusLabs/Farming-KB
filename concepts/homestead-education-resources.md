@@ -20,7 +20,7 @@ Homesteading requires knowledge across dozens of disciplines: agriculture, anima
 - Homesteading: A Back to Basics Guide (Abigail Gehring) — broad overview with practical projects.
 
 ### Gardening and Growing
-- The Vegetable Gardener's Bible (Edward C. Smith) — W-O-R-D system (Wide rows, Organic methods, Raised beds, Deep soil). Excellent for beginners.
+- The Vegetable Gardener"s Bible (Edward C. Smith) — W-O-R-D system (Wide rows, Organic methods, Raised beds, Deep soil). Excellent for beginners.
 - Gaia's Garden (Toby Hemenway) — the most accessible introduction to [[permaculture-principles]] for home scale.
 - The New Organic Grower (Eliot Coleman) — market gardening techniques applicable to homestead-scale production. Focus on soil health and efficient systems.
 - Seed to Seed (Suzanne Ashworth) — comprehensive seed saving guide for 160+ vegetable crops. Essential for [[seed-saving-techniques]] sovereignty.
@@ -111,7 +111,7 @@ Book learning has limits. Some skills must be learned hands-on:
 ### Farm Internships
 - Many farms offer seasonal internships (March-October)
 - Some are paid, most offer room and board plus education
-- Check ATTRA's internship listings and local farming networks
+- Check ATTRA"s internship listings and local farming networks
 
 ### Skill-Specific Workshops
 - Butchering workshops (often offered by local farmers or butcher shops)

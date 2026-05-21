@@ -44,7 +44,7 @@ The pharmacokinetic profile of Librium is significant in the pre-session context
 
 1. Chlordiazepoxide was the first benzodiazepine discovered, synthesized by Leo Sternbach in 1957 and marketed by Roche as Librium beginning in 1960.
 2. Its discovery was serendipitous — Sternbach was actually researching quinazolines when he noticed the unexpected properties of a byproduct compound.
-3. Librium's success led directly to the development of diazepam (Valium) in 1963, which became one of the most prescribed drugs in history.
+3. Librium"s success led directly to the development of diazepam (Valium) in 1963, which became one of the most prescribed drugs in history.
 4. Benzodiazepines act by enhancing the effect of gamma-aminobutyric acid (GABA), the brain's primary inhibitory neurotransmitter, at GABA-A receptors.
 5. Unlike barbiturates, benzodiazepines have a much wider [[cannabis-therapeutic-index-overview]], making accidental overdose significantly less likely.
 6. Librium remains a standard treatment for alcohol withdrawal syndrome, where it helps manage anxiety, tremors, and seizure risk.
@@ -63,7 +63,7 @@ By recommending Librium (30–40 mg) for anxious persons before the session, Lea
 
 ## Important Distinctions
 
-Librium's role in Leary's framework differs fundamentally from Thorazine's:
+Librium"s role in Leary's framework differs fundamentally from Thorazine's:
 
 - **Librium** is used *before* the session, proactively, to establish optimal conditions. It does not terminate or diminish the psychedelic experience itself.
 - **Thorazine** is used *during* the session, reactively, only in emergencies, to abort the experience entirely.

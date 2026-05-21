@@ -15,7 +15,7 @@ sources:
 
 ## Overview
 
-Symphyandra wanneri (Rochel) A.DC. is a rare perennial herb in the family Campanulaceae. It is commonly known as Wanner's ring bellflower and is endemic to the Dinaric Alps of the western Balkans.
+Symphyandra wanneri (Rochel) A.DC. is a rare perennial herb in the family Campanulaceae. It is commonly known as Wanner"s ring bellflower and is endemic to the Dinaric Alps of the western Balkans.
 
 The species is distinguished by its large, nodding, creamy-white flowers arranged in a distinctive ring-like whorl. It grows on limestone cliffs and rocky crevices in montane and alpine zones.
 
@@ -35,7 +35,7 @@ The plant develops a thick taproot that penetrates deeply into limestone crevice
 
 Basal leaves are ovate to cordate, long-petiolate, crenate-dentate, and moderately hairy. Stem leaves are smaller, sessile, and decrease in size toward the apex.
 
-The inflorescence is a distinctive verticillate whorl of 5–15 large, pendulous flowers. This ring-like arrangement at the top of the stem is the species' most recognizable feature.
+The inflorescence is a distinctive verticillate whorl of 5–15 large, pendulous flowers. This ring-like arrangement at the top of the stem is the species" most recognizable feature.
 
 Flowers are campanulate, creamy-white to pale yellow, 2.5–4 cm long. The corolla is deeply divided into five narrow, pointed lobes that curve outward.
 

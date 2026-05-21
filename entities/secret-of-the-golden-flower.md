@@ -8,7 +8,7 @@ tags: [text, chinese, taoism, alchemy, meditation]
 ## The Secret of the Golden Flower
 
 ## Description
-*The Secret of the Golden Flower* (Chinese: 太乙金華宗旨, "The Secret of the Golden Flower of the Great One") is a Chinese Taoist meditation text that became influential in the West through Carl Jung's psychological commentary on the Richard Wilhelm translation (1929). In *The Psychedelic Experience*, it is listed among the eastern texts that Jung engaged with, writing "perceptive brilliant forewords."
+*The Secret of the Golden Flower* (Chinese: 太乙金華宗旨, "The Secret of the Golden Flower of the Great One") is a Chinese Taoist meditation text that became influential in the West through Carl Jung"s psychological commentary on the Richard Wilhelm translation (1929). In *The Psychedelic Experience*, it is listed among the eastern texts that Jung engaged with, writing "perceptive brilliant forewords."
 
 ## Classification
 - **Category:** Sacred Text / Meditation Manual
@@ -20,12 +20,12 @@ tags: [text, chinese, taoism, alchemy, meditation]
 - Belongs to the tradition of Chinese inner alchemy (Neidan)
 - The "Golden Flower" refers to the blossoming of consciousness or spiritual awareness
 - Central technique: "turning the light around" — redirecting attention from external objects back to the source of awareness itself
-- Jung's commentary interpreted the text through his concept of individuation and the mandala
+- Jung"s commentary interpreted the text through his concept of individuation and the mandala
 - The Wilhelm/Jung edition (1929) made the text widely known in the West
 - Jung saw the "golden flower" mandala imagery as evidence of the self-organizing tendency of the psyche
 
 ## Connection to the Psychedelic Framework
-Jung's engagement with *The Secret of the Golden Flower* represents his exploration of eastern methods for achieving altered states of consciousness through disciplined internal practice. The text's central technique — "turning the light around" — parallels the psychedelic experience of redirecting awareness from external game-reality to internal processes. In the Bardo framework, this corresponds to the transition from external stimuli (Visions 4-5) back to internal awareness (Visions 1-3), and ultimately to the Clear Light of the First Bardo.
+Jung"s engagement with *The Secret of the Golden Flower* represents his exploration of eastern methods for achieving altered states of consciousness through disciplined internal practice. The text's central technique — "turning the light around" — parallels the psychedelic experience of redirecting awareness from external game-reality to internal processes. In the Bardo framework, this corresponds to the transition from external stimuli (Visions 4-5) back to internal awareness (Visions 1-3), and ultimately to the Clear Light of the First Bardo.
 
 ## Relevance to Cultivation and Mycology
 The meditative techniques described in *The Secret of the Golden Flower* provide a framework for understanding the introspective states that psilocybin can facilitate. The concept of "turning the light around" — shifting awareness from external concerns to internal experience — is essentially what happens when a psilocybin subject closes their eyes and enters visionary states. This text offers language and conceptual frameworks useful for psychedelic session preparation.

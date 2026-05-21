@@ -21,7 +21,7 @@ The species is among the most popular garden succulents in temperate regions wor
 
 Common names include showy stonecrop, butterfly stonecrop, and ice plant. The name "ice plant" is shared with Delosperma species and can cause confusion in the nursery trade.
 
-It has received the Royal Horticultural Society's Award of Garden Merit. The genus was reclassified from Sedum to Hylotelephium by Ohba in 1977, though Sedum spectabile remains in common horticultural use.
+It has received the Royal Horticultural Society"s Award of Garden Merit. The genus was reclassified from Sedum to Hylotelephium by Ohba in 1977, though Sedum spectabile remains in common horticultural use.
 
 Despite the taxonomic revision, most nurseries and garden catalogs continue to use the name Sedum spectabile. This reflects the horticultural industry's slow adoption of reclassified names.
 

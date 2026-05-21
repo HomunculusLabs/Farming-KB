@@ -16,7 +16,7 @@ title: "Permaculture Chicken Tractor System"
 
 # Permaculture Chicken Tractor System
 
-The chicken tractor is a foundational tool in permaculture design that integrates poultry into the garden and landscape in a mutually beneficial way. Toby Hemenway describes chicken tractors in Gaia's Garden as a key example of "stacking functions" -- getting multiple useful outputs from a single element.
+The chicken tractor is a foundational tool in permaculture design that integrates poultry into the garden and landscape in a mutually beneficial way. Toby Hemenway describes chicken tractors in Gaia"s Garden as a key example of "stacking functions" -- getting multiple useful outputs from a single element.
 
 ## What Is a Chicken Tractor?
 
@@ -34,7 +34,7 @@ Chickens enthusiastically eat weeds, weed seeds, and insect pests. When placed i
 
 ### Soil Cultivation
 
-Chickens' scratching behavior lightly tills the top layer of soil, incorporating their manure and any mulch or organic material into the ground. This aeration improves soil structure without the destructive effects of mechanical tilling.
+Chickens" scratching behavior lightly tills the top layer of soil, incorporating their manure and any mulch or organic material into the ground. This aeration improves soil structure without the destructive effects of mechanical tilling.
 
 ### Insect Management
 

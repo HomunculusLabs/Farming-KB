@@ -10,7 +10,7 @@ tags: [cannabis]
 
 ## Cannabis Perpetual Grow Cycle
 
-Greg Green's "The Cannabis Grow Bible" describes the perpetual grow cycle as a method for maintaining continuous harvests by keeping separate vegetative and flowering zones operating simultaneously within the same grow space. This approach maximises productivity and ensures a regular supply of cured bud.
+Greg Green"s "The Cannabis Grow Bible" describes the perpetual grow cycle as a method for maintaining continuous harvests by keeping separate vegetative and flowering zones operating simultaneously within the same grow space. This approach maximises productivity and ensures a regular supply of cured bud.
 
 ## The Perpetual Grow Concept
 

@@ -16,7 +16,7 @@ sources:
 
 **Corchorus olitorius** L., commonly known as jute mallow, bush okra, molokhia, or ewedu, is an annual herbaceous plant in the family Malvaceae (formerly Tiliaceae). It is one of two principal species cultivated for jute fiber production and is widely consumed as a leafy green vegetable across Africa, the Middle East, and South Asia.
 
-The species is among the most important leafy vegetables in tropical Africa and Egypt, where it forms a dietary staple. Its young leaves are rich in protein, minerals, and [[plant-nutrient-uptake-mechanisms]], contributing to the species' fast [[cannabis-leaf-morphology-and-phyllotaxy]] varies considerably among cultivars, with some landraces producing broader, more deeply serrated leaves selected for [[vegetable-storage-conditions-by-temperature-and-humidity]].
+The species is among the most important leafy vegetables in tropical Africa and Egypt, where it forms a dietary staple. Its young leaves are rich in protein, minerals, and [[plant-nutrient-uptake-mechanisms]], contributing to the species" fast [[cannabis-leaf-morphology-and-phyllotaxy]] varies considerably among cultivars, with some landraces producing broader, more deeply serrated leaves selected for [[vegetable-storage-conditions-by-temperature-and-humidity]].
 
 ## Distribution and Habitat
 

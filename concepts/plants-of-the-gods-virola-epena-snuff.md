@@ -15,7 +15,7 @@ type: concept
 Virola is a genus of approximately sixty species of trees in the
 Myristicaceae (Nutmeg Family) distributed throughout [[entheogen-virola-snuff-ethnobotany-chemistry]]
 preparation, ceremonial use, and [[entheogen-virola-snuff-ethnobotany-chemistry]]: at the beginning of time, Father Sun practiced incest
-with his daughter, who acquired Viho by scratching her father's penis.
+with his daughter, who acquired Viho by scratching her father"s penis.
 Thus the Tukano received this sacred snuff from the sun's semen, and
 since it is still hallowed, it is kept in containers called
 muhipu-nuri, or "penis of the sun." This hallucinogen enables the

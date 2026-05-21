@@ -94,7 +94,7 @@ With good aerobic teas, you should be able to **reduce and eventually stop spray
 
 ### Pathogen Load in Compost
 
-The cut-off level's practical impact depends on how many pathogens and harmful organisms survived the composting process. The more pathogens killed during composting — through:
+The cut-off level"s practical impact depends on how many pathogens and harmful organisms survived the composting process. The more pathogens killed during composting — through:
 
 - **Proper heating regime** in thermal composting, or
 - **Sufficient passes through earthworm guts**

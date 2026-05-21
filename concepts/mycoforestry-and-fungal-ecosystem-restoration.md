@@ -10,7 +10,7 @@ type: concept
 
 Mycoforestry is the application of fungal biology to sustainable forestry practices, a concept championed extensively by Paul Stamets in *Mycelium Running*. It encompasses the use of fungi in forest management, soil building, erosion control, and ecosystem recovery. The approach recognizes that fungi are not merely decomposers but are **primary governors of ecological equilibrium** in terrestrial ecosystems.
 
-## Paul Stamets's Vision of Mycoforestry
+## Paul Stamets"s Vision of Mycoforestry
 
 Stamets advocates for a fundamental shift in how forests are managed, centering fungal networks as active participants in forest health. His approach includes several core principles:
 

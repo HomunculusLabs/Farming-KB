@@ -1,5 +1,5 @@
 ---
-title: LSD, Consciousness, and Hofmann's Philosophical Views
+title: LSD, Consciousness, and Hofmann"s Philosophical Views
 created: 2026-04-26
 updated: 2026-04-24
 sources: "albert-hofmann, LSD - My Problem Child"
@@ -8,7 +8,7 @@ type: concept
 tags: [lsd]
 ---
 
-## LSD, Consciousness, and Hofmann's Philosophical Views
+## LSD, Consciousness, and Hofmann"s Philosophical Views
 
 ## Childhood Visionary Experiences
 
@@ -30,7 +30,7 @@ discovery of LSD.
 
 Of greatest significance to Hofmann was the insight attained as a fundamental
 understanding from all his LSD experiments: what one commonly takes as "the
-reality," including the reality of one's own individual person, is not
+reality," including the reality of one"s own individual person, is not
 something fixed but rather something ambiguous. There is not only one, but many
 realities, each comprising also a different consciousness of the ego.
 This is not merely a philosophical proposition but an existential insight. The

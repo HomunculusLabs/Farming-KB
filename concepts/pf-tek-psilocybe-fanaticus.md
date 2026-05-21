@@ -52,7 +52,7 @@ The bubble could not last. Following investigation by federal agents, the
 Seattle-based company was busted. McPherson was charged with, and pleaded
 guilty to, distribution of a controlled substance and conspiracy to
 manufacture psilocybin, an offence with a maximum sentence of life
-imprisonment. In the end, he received six months' house arrest and three
+imprisonment. In the end, he received six months" house arrest and three
 years' probation, since which time he has vanished from the public gaze.
 
 His infamy and the PF Tek live on, however. The method remains available in

@@ -23,7 +23,7 @@ sources:
 
 # Amanita Muscaria Preparation Methods
 
-Practical preparation techniques for Amanita muscaria, drawn primarily from Donald E. Teeter's "Amanita Muscaria: Herb of Immortality" (2007) and Siberian ethnographic records. Proper preparation is critical: raw Amanita contains ibotenic acid (nauseating, agitating) which must be converted to muscimol (sedative, psychoactive) through drying and/or heating.
+Practical preparation techniques for Amanita muscaria, drawn primarily from Donald E. Teeter"s "Amanita Muscaria: Herb of Immortality" (2007) and Siberian ethnographic records. Proper preparation is critical: raw Amanita contains ibotenic acid (nauseating, agitating) which must be converted to muscimol (sedative, psychoactive) through drying and/or heating.
 
 Related: [[amanita-muscaria-guide]], [[soma-hypothesis]]
 
@@ -51,7 +51,7 @@ The simplest preparation. Place dried cap pieces upside-down in a jar; break ste
 
 Substitute grape juice for water in the ambrosia method (~28g dried per quart juice). Soak 8-12 hours, strain and press. Add a few drops of vinegar per cup to increase potency. Dilute 2-4 parts water to 1 part wine before drinking.
 
-**The dilution paradox**: Adding water to Amanita wine extract paradoxically increases potency and transforms the effect from sedative/dissociative to purely psychedelic (similar to psilocybin or LSD). Teeter theorizes muscimol's polar molecules form chains in concentrated solution that produce the sedative effect; water breaks these chains into individual psychoactive units. This matches ancient practice: Greek and Roman texts describe diluting wine 3:1 to 20:1 with water.
+**The dilution paradox**: Adding water to Amanita wine extract paradoxically increases potency and transforms the effect from sedative/dissociative to purely psychedelic (similar to psilocybin or LSD). Teeter theorizes muscimol"s polar molecules form chains in concentrated solution that produce the sedative effect; water breaks these chains into individual psychoactive units. This matches ancient practice: Greek and Roman texts describe diluting wine 3:1 to 20:1 with water.
 
 ## Seer's Milk (Milk Fermentation)
 

@@ -15,7 +15,7 @@ sources:
 
 ## Overview
 
-Dierama pulcherrimum, commonly known as angel's fishing rod or wandflower, is a graceful cormous perennial from southern Africa. It is celebrated for its arching wands of pendulous, bell-shaped pink to magenta flowers.
+Dierama pulcherrimum, commonly known as angel"s fishing rod or wandflower, is a graceful cormous perennial from southern Africa. It is celebrated for its arching wands of pendulous, bell-shaped pink to magenta flowers.
 
 The long, slender flowering stems bend under the weight of the blooms, creating a fountain-like display. This distinctive growth habit makes it one of the most recognizable ornamental grassland plants.
 

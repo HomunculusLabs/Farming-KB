@@ -22,7 +22,7 @@ The structural similarity between DMT, psilocybin, and serotonin is significant 
 
 The [[lsd]], which is retained in the body for a considerably longer period.
 
-DMT's status as an endogenous compound may explain this metabolic familiarity and the brain's apparent readiness to process it.
+DMT"s status as an endogenous compound may explain this metabolic familiarity and the brain's apparent readiness to process it.
 
 ## Phenomenology: The Arc of the Experience
 
@@ -32,7 +32,7 @@ The DMT experience follows a characteristic and remarkably consistent arc across
 
 A sound described as "ripping cellophane" or crumpling plastic film, accompanied by an ascending tone and shifting geometric surfaces of colored forms.
 
-McKenna's companion suggested this sound represents the "[[ayahuasca]], a combination of DMT-containing plants with a monoamine oxidase inhibitor (MAOI) that allows the compound to be active orally.
+McKenna"s companion suggested this sound represents the "[[ayahuasca]], a combination of DMT-containing plants with a monoamine oxidase inhibitor (MAOI) that allows the compound to be active orally.
 
 Unlike smoked DMT, which lasts five minutes, ayahuasca produces an experience lasting several hours. This preparation has been used by indigenous cultures for millennia, though typically by nomadic hunter-gatherer societies rather than settled civilizations.
 

@@ -40,13 +40,13 @@ interaction.
 
 ### The Centrality of Singing
 
-Singing, or more specifically the shaman's singing, is "invariably considered essential to
+Singing, or more specifically the shaman"s singing, is "invariably considered essential to
 the success of the healing or divinatory process" across all documented shamanic traditions
 that use entheogenic plants. This universality is remarkable: from the Amazon to the Andes,
 from Mesoamerica to Central Africa, the shaman sings. The shamanic songs serve multiple
 simultaneous functions. The rhythmic pulse of the singing provides a "support for moving
 through the flow of visions," preventing the voyager from becoming stuck in frightening or
-seductive experiences. The shaman's singing "profoundly shapes the quality and content of
+seductive experiences. The shaman"s singing "profoundly shapes the quality and content of
 the experience" — this is not mere accompaniment but active co-creation of the visionary
 landscape. In [[harner-shamanic-journey-and-altered-states]].
 

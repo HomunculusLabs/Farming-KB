@@ -13,7 +13,7 @@ sources:
 
 - At 24 mg: slow buildup to a ++ or more over about three hours. "Extremely tranquil, and no hint of any body toxicity whatsoever." Completely at peace, in a beautiful, benign, and placid place. Something residual extended into sleep and possibly the next morning
 
-- At 32 mg: rapid and full development. Eyes-closed visuals were "quite something" while lying down with music. Difficulty keeping visual/somatic/cognitive worlds in their proper places. Back spasm occurred but didn't matter. Visual enhancement was wonderful when looking at photographs. A "rolling +++"
+- At 32 mg: rapid and full development. Eyes-closed visuals were "quite something" while lying down with music. Difficulty keeping visual/somatic/cognitive worlds in their proper places. Back spasm occurred but didn"t matter. Visual enhancement was wonderful when looking at photographs. A "rolling +++"
 
 - At 32 mg (another report): the first two hours were great, the second 16 hours were "a bit of a drag -- just twice as long as it ought to be"
 
@@ -25,11 +25,11 @@ GANESHA (with methyls at both the 3 and 4 positions) and its phenethylamine coun
 
 ## Pharmacological Discussion
 
-GANESHA's tranquil, placid character distinguishes it from the more stimulating DOM. The "extremely tranquil" quality with "no hint of body toxicity" suggests a pharmacological profile with less sympathetic nervous system activation than many psychedelic amphetamines. This could reflect a different balance of receptor activities, possibly with less alpha-adrenergic or dopaminergic contribution relative to 5-HT2A agonism.
+GANESHA"s tranquil, placid character distinguishes it from the more stimulating DOM. The "extremely tranquil" quality with "no hint of body toxicity" suggests a pharmacological profile with less sympathetic nervous system activation than many psychedelic amphetamines. This could reflect a different balance of receptor activities, possibly with less alpha-adrenergic or dopaminergic contribution relative to 5-HT2A agonism.
 
 The 3-position hydrogen hypothesis proposed by Shulgin is pharmacologically intriguing. If the 3-position hydrogen participates in a metabolic transformation that converts DOM to an active metabolite (perhaps through aromatic hydroxylation), then replacing this hydrogen with a methyl group would block this [[gluconeogenesis-biochemistry-metabolic-pathway]], reducing the effective concentration of the active species.
 
-Alternatively, the 3-position methyl may alter the molecule's binding conformation at the 5-HT2A receptor, reducing intrinsic efficacy while maintaining affinity. This would be consistent with the compound's continued activity (it is not inactive, merely less potent than DOM) but with different qualitative characteristics.
+Alternatively, the 3-position methyl may alter the molecule"s binding conformation at the 5-HT2A receptor, reducing intrinsic efficacy while maintaining affinity. This would be consistent with the compound's continued activity (it is not inactive, merely less potent than DOM) but with different qualitative characteristics.
 
 ## Comparison to Related Compounds
 

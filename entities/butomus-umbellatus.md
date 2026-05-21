@@ -38,7 +38,7 @@ North American populations of *B. umbellatus* are predominantly triploid (2n=3x=
 
 Diploid (2n=2x=26) populations occur in the native European range and reproduce both sexually and vegetatively. European populations show greater genetic diversity, consistent with the presence of sexual recombination and a longer evolutionary history in the region.
 
-Bulbil production rates in North American clones are remarkably high, with individual plants producing dozens to hundreds of bulbils per growing season. Each bulbil can develop into an independent plant, making clonal spread extremely efficient and contributing to the species' invasiveness.
+Bulbil production rates in North American clones are remarkably high, with individual plants producing dozens to hundreds of bulbils per growing season. Each bulbil can develop into an independent plant, making clonal spread extremely efficient and contributing to the species" invasiveness.
 
 ## Cultural and Historical Significance
 

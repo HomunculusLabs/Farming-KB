@@ -7,7 +7,7 @@ created: 2026-05-11
 
 ## Energy Descent and Permaculture
 
-[[david-holmgren]]'s energy descent framework positions permaculture as a design
+[[david-holmgren]]"s energy descent framework positions permaculture as a design
 response to the inevitable decline in fossil fuel availability and the
 resulting transformation of industrial society. This framework, developed
 extensively in "Permaculture: Principles & Pathways Beyond Sustainability,"
@@ -21,7 +21,7 @@ a grounded, evidence-based pathway for adapting to a lower-energy future.
 ## The Energy Foundation of Modern Society
 
 Permaculture was founded on several core assumptions about energy and society
-that remain central to Holmgren's framework. The tapping of fossil fuels
+that remain central to Holmgren"s framework. The tapping of fossil fuels
 during the industrial era was identified as the primary cause of the
 spectacular explosion in human numbers, technology, and every novel feature
 of modern society. Humans, although unusual within the natural world, are
@@ -60,7 +60,7 @@ The permaculture concept and movement have changed the lives of thousands of
 people and affected perhaps millions in myriad ways, all without substantial
 support from powerful institutions, corporations, or governments. The
 persistence, evolution, and influence of permaculture must be attributed to
-its relevance to people's lives and situations rather than to institutional
+its relevance to people"s lives and situations rather than to institutional
 backing. This organic spread demonstrates that complex, abstract, and
 revolutionary ideas can exercise influence through positive grassroots
 processes—an alternative to top-down policy approaches exemplified by the
@@ -103,7 +103,7 @@ while introducing new insights and challenges. Each wave also throws up new
 insights that challenge the assumptions of the previous wave, creating an
 evolutionary progression in environmental thinking.
 
-## Odum's Influence
+## Odum"s Influence
 
 Howard T. Odum's influence on Holmgren's thinking pervades the book and the
 permaculture framework. Odum's concepts of energy hierarchy, [[maximum-power-law]]

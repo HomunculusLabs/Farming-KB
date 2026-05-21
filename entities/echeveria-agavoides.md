@@ -16,7 +16,7 @@ sources:
 
 Echeveria agavoides is a compact stemless succulent in the family Crassulaceae, native to the semi-arid highlands of central Mexico. It is widely known as the "lipstick echeveria" or "Molded Wax Plant" for its sharply pointed, glossy green leaves tipped with red.
 
-The species is among the most popular ornamental Echeveria in global horticulture, prized for its symmetrical rosette form and minimal maintenance needs. It has earned the Royal Horticultural Society's Award of Garden Merit for reliable garden performance.
+The species is among the most popular ornamental Echeveria in global horticulture, prized for its symmetrical rosette form and minimal maintenance needs. It has earned the Royal Horticultural Society"s Award of Garden Merit for reliable garden performance.
 
 Echeveria agavoides was introduced to European horticulture in the mid-nineteenth century and has remained in continuous cultivation since. Its durability and ease of propagation have made it one of the most widely grown succulents worldwide.
 

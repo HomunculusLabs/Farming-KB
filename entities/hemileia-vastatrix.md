@@ -70,7 +70,7 @@ Phakopsoraceae, while others assign it to its own monogeneric family.
 
 - **1869:** First confirmed outbreak in Sri Lanka (Ceylon)
 - **1870s–1880s:** Destroyed virtually all coffee plantations in
-  Sri Lanka, transforming the island's economy from coffee to tea
+  Sri Lanka, transforming the island"s economy from coffee to tea
   production
 - **1950s onward:** Spread throughout Africa and into Asia
 - **1970:** First detected in the Western Hemisphere (Brazil)

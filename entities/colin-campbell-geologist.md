@@ -8,7 +8,7 @@ type: entity
 
 ## Description
 
-Colin J. Campbell (1931–2022) was a British petroleum geologist who became one of the most authoritative voices on global oil peak (peak oil) theory. His book *The Coming Oil Crisis* (1997) provided a rigorous geological analysis of the finite nature of petroleum resources and the implications of reaching global production maximum. His work directly informed David Holmgren's permaculture framework around energy descent.
+Colin J. Campbell (1931–2022) was a British petroleum geologist who became one of the most authoritative voices on global oil peak (peak oil) theory. His book *The Coming Oil Crisis* (1997) provided a rigorous geological analysis of the finite nature of petroleum resources and the implications of reaching global production maximum. His work directly informed David Holmgren"s permaculture framework around energy descent.
 
 ## Classification
 

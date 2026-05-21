@@ -52,7 +52,7 @@ become entwined with patriarchal violence.
 ## The Loss of the Natural Soul
 
 Distilled alcohol, for McKenna, lost its "natural soul." Fermented
-beverages retained some connection to the earth's vitality — the
+beverages retained some connection to the earth"s vitality — the
 yeast, the fruit, the grain, the seasonal cycle of fermentation. But
 distilled spirits stripped away this living context, leaving behind
 something "raw, untamed, and ultimately set against the human grain."

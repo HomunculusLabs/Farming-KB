@@ -15,7 +15,7 @@ State College in Olympia, Washington, brought together three of the most
 influential figures in alternative agriculture: Bill Mollison, Wes Jackson, and
 Masanobu Fukuoka. The event represented a historic convergence of permaculture,
 land institute ecology, and [[dmt-containing-plants-united-states-halpern]], and
-internationally. Mollison's approach shared significant common ground with
+internationally. Mollison"s approach shared significant common ground with
 Fukuoka's methods, particularly in its emphasis on no-tillage, perennial
 polyculture, and self-sustaining systems.
 
@@ -27,7 +27,7 @@ fossil fuel use, there would be no future for agriculture. Jackson was working
 to develop native perennial grasses into food crops that would eliminate the
 need for plowing. While he fundamentally accepted the scientific approach,
 Fukuoka recognized that Jackson was searching for "the beginnings of a new
-agriculture." Jackson's work addressed the same problem of soil destruction
+agriculture." Jackson"s work addressed the same problem of soil destruction
 that Fukuoka identified in his [[emcdda-return-to-nature-megatrend-mushroom-appeal]],
 were trying to stop the donkey from rushing toward the brink of disaster, but
 it seemed hopeless. When someone asked what would happen, Fukuoka drew

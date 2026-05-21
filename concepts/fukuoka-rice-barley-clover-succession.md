@@ -1,5 +1,5 @@
 ---
-title: "Fukuoka's Rice-Barley-Clover Succession: No-Tillage Direct-Seeding Method"
+title: "Fukuoka"s Rice-Barley-Clover Succession: No-Tillage Direct-Seeding Method"
 source: "The Natural Way of Farming — masanobu-fukuoka-natural-farming-philosophy on his farm in Ehime Prefecture,
 Japan, is what he called "direct-seeded, no-tillage, winter grain/rice succession in a clover
 cover." This system allows for the continuous production of both a summer rice crop and a
@@ -65,7 +65,7 @@ insect pests present, as long as their natural enemies were also present, a [[ja
 to low-ridge to level-field cultivation of barley, and from drilling to broadcasting of
 seed. The critical breakthrough came when he decided to stop tilling entirely. At a time
 when conventional wisdom held deep plowing to be necessary and indispensable for producing
-high yields, it took, in Fukuoka's words, incredible resolve to propose a method of
+high yields, it took, in Fukuoka"s words, incredible resolve to propose a method of
 cultivation without any plowing or tilling whatsoever. After more than twenty years of
 continuous no-tillage farming, he never observed any sign of a decline in yields due to
 reduced soil fertility, an experience that sealed his conviction in the soundness of the

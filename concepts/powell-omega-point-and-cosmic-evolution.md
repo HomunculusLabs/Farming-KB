@@ -13,9 +13,9 @@ type: concept
 Simon G. Powell explores the concept of the Omega Point, originally proposed
 by the Jesuit priest and palaeontologist Pierre Teilhard de Chardin, as a
 framework for understanding the ultimate direction of cosmic evolution. Powell
-argues that the [[psychedelic-mushroom-set-and-setting]] echoed Teilhard's mystical claims, assuming the role of
-"psychedelic prophet" by consistently predicting that [[mckenna-new-world-mushroom-rediscovery]]'s "transcendental object" or eschaton,
-like Teilhard's Omega Point, "sheds reflections of itself into the past,"
+argues that the [[psychedelic-mushroom-set-and-setting]] echoed Teilhard"s mystical claims, assuming the role of
+"psychedelic prophet" by consistently predicting that [[mckenna-new-world-mushroom-rediscovery]]"s "transcendental object" or eschaton,
+like Teilhard"s Omega Point, "sheds reflections of itself into the past,"
 reflections which inspire saints, mystics, and visionary shamans. He also
 used the term "attractor" to describe this final eschatological state.
 
@@ -23,7 +23,7 @@ used the term "attractor" to describe this final eschatological state.
 
 Teilhard wrote at a time when the second law of thermodynamics, which states
 that the Universe is running down toward heat death, was seen as a threat to
-life's long-term prospects. Powell argues that shamanism and organic psilocybin, the
+life"s long-term prospects. Powell argues that shamanism and organic psilocybin, the
 "illuminations caused by the Omega Point are on the increase." The rapid
 evolution of the hominid cortex, the speedy development of human culture, and
 the yearly evolution of digital technology may all reflect the increasing pull

@@ -6,9 +6,9 @@ tags: [fukuoka, natural-farming, do-nothing, no-till, direct-seeding, rice-barle
 created: 2026-05-11
 ---
 
-## Fukuoka's Do-Nothing Farming Methodology
+## Fukuoka"s Do-Nothing Farming Methodology
 
-Masanobu Fukuoka's "do-nothing farming" (*mu* 無 agriculture) represents one of the most rigorously developed systems of natural cultivation ever practiced. Over more than thirty years on his farm in Ehime Prefecture, Japan, Fukuoka refined a method that consistently produced yields matching or exceeding conventional agriculture while eliminating plowing, fertilizing, pesticide application, weeding, and pruning. The system he called "direct-seeded, no-tillage, winter grain/rice succession in a clover cover" is both a practical farming technique and a philosophical statement about humanity's relationship with nature.
+Masanobu Fukuoka's "do-nothing farming" (*mu* 無 agriculture) represents one of the most rigorously developed systems of natural cultivation ever practiced. Over more than thirty years on his farm in Ehime Prefecture, Japan, Fukuoka refined a method that consistently produced yields matching or exceeding conventional agriculture while eliminating plowing, fertilizing, pesticide application, weeding, and pruning. The system he called "direct-seeded, no-tillage, winter grain/rice succession in a clover cover" is both a practical farming technique and a philosophical statement about humanity"s relationship with nature.
 
 ## The Five Principles
 
@@ -57,7 +57,7 @@ Fukuoka reported consistent yields of approximately **22 bushels (1,300 pounds) 
 
 ## The Clover Ecosystem
 
-White clover (*Trifolium repens*) is the keystone species in Fukuoka's system. It serves multiple critical functions simultaneously:
+White clover (*Trifolium repens*) is the keystone species in Fukuoka"s system. It serves multiple critical functions simultaneously:
 
 - **Nitrogen fixation**: Clover's symbiotic relationship with *Rhizobium* bacteria converts atmospheric nitrogen into plant-available forms, eliminating the need for any nitrogen fertilizer
 - **Living mulch**: The dense clover cover suppresses weed growth through competition for light and space

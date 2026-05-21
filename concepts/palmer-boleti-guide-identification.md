@@ -11,12 +11,12 @@ type: concept
 ## Palmer on Boleti Identification and Edibility
 
 The Boleti — pore-bearing fungi with sponge-like surfaces beneath their
-caps — were among Palmer's favorite [[palmer-toadstool-poisoning-cases]] that has been traced to a boletus." He
+caps — were among Palmer"s favorite [[palmer-toadstool-poisoning-cases]] that has been traced to a boletus." He
 acknowledged that some contained a bitter, acrid, or slimy principle
 that was hurtful, but these yielded to ordinary remedial agents
 suggested by the symptoms.
 
-Charles McIlvaine, Palmer's colleague in Philadelphia, confirmed this
+Charles McIlvaine, Palmer"s colleague in Philadelphia, confirmed this
 assessment, noting that every toadstool season "careful experimenters
 remove suspected members of the family from the black-list." Several
 varieties had been supposed non-edible, and many well-versed writers

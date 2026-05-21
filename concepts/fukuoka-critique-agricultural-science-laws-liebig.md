@@ -12,7 +12,7 @@ This is not merely a philosophical objection. It has practical consequences. A s
 
 ## Scientific Laws Cannot Improve Yields
 
-Fukuoka's most practical criticism is that these fragmentary laws, extracted from a single unnamed law, can never be reassembled into the great source principle. [[cho-loess-powder-in-natural-farming]], which observes the basic principle directly.
+Fukuoka"s most practical criticism is that these fragmentary laws, extracted from a single unnamed law, can never be reassembled into the great source principle. [[cho-loess-powder-in-natural-farming]], which observes the basic principle directly.
 
 The six laws are useful only in examining the status quo and preventing reduced yields. They cannot be used to develop better [[four-principles-of-natural-farming]].
 
@@ -28,11 +28,11 @@ Yield is determined by *all* conditions and factors acting together, not by any 
 
 The "column" holding the barrel is not vertical. The angle or tilt of the barrel affects the amount of water it can hold far more than the height of any individual stave. A barrel tilted at a steep angle will hold very little water regardless of how tall its staves are. The metaphor breaks down because it assumes a stable, upright container — but in nature, the "container" itself is constantly shifting.
 
-Fukuoka's conclusion is devastating:
+Fukuoka"s conclusion is devastating:
 
 > "Because the tilt of the barrel exerts a greater influence on the amount of water held by the barrel than the height of the staves, the level of individual nutrients is often of no real significance."
 
-Liebig's barrel, he says, is "a concept floating in the air" — a neat illustration that bears no meaningful relationship to the actual complexity of natural systems. It persists not because it is true but because it is useful to those who sell fertilizer. The barrel looks convincing in a textbook diagram, but in the field, where the "barrel" is leaning, wobbling, and made of living materials that change from moment to moment, the metaphor collapses entirely.
+Liebig"s barrel, he says, is "a concept floating in the air" — a neat illustration that bears no meaningful relationship to the actual complexity of natural systems. It persists not because it is true but because it is useful to those who sell fertilizer. The barrel looks convincing in a textbook diagram, but in the field, where the "barrel" is leaning, wobbling, and made of living materials that change from moment to moment, the metaphor collapses entirely.
 
 ## Summary
 

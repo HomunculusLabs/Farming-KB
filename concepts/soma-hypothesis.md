@@ -31,7 +31,7 @@ The theory that Amanita muscaria (fly-agaric) was the identity of Soma, the divi
 
 The hypothesis was most prominently advanced by R. Gordon Wasson in "Soma: Divine Mushroom of Immortality" (1968). Wasson proposed that the mysterious Soma plant described in the Rig Veda (c. 1500 BCE), whose identity had been debated by scholars for over a century, was in fact the fly-agaric mushroom. The Rig Veda contains over 1,000 hymns, approximately 120 of which are dedicated to Soma, making it central to Vedic ritual and cosmology.
 
-## Wasson's Arguments
+## Wasson"s Arguments
 
 Wasson based his identification on several lines of evidence:
 - The Vedic description of Soma as growing in the mountains (consistent with Amanita habitat)
@@ -64,10 +64,10 @@ Donald Wasson (a different researcher from R. Gordon Wasson) extends the Soma hy
 ### The Mithraic Connection
 - Mithraism was widespread throughout the late Roman Empire
 - The Mithraic sacramental banquet was derived from the Yasna ceremony
-- Mithra's birthday (Dec 25) and day of worship (Sunday) were adopted by Christianity
+- Mithra"s birthday (Dec 25) and day of worship (Sunday) were adopted by Christianity
 - The "sacred wine" of Mithra was originally a Haoma-type preparation, not alcoholic wine
 
-## Letcher's Critical Assessment
+## Letcher"s Critical Assessment
 
 Andy Letcher, in "Shroom: A Cultural History of the Magic Mushroom" (2006), dedicates a full chapter (Chapter 8: "Soma") to examining the hypothesis and finds it wanting on multiple grounds:
 
@@ -108,7 +108,7 @@ Teeter traces the word "magic" to Proto-Indo-European *Maga* ("the Great Gift"),
 | Amrita | Sanskrit | Related to Ambrosia | Death-overcomer |
 | Nectar | Greek/Latin | "Death overcomer" | Divine drink |
 | Maga | PIE | "The Great Gift" | Root of "magic" |
-| Andhas | Rig Vedic | "The flower" | The dried herb's fragrance |
+| Andhas | Rig Vedic | "The flower" | The dried herb"s fragrance |
 
 ## Beaker Culture Archaeology
 
@@ -135,7 +135,7 @@ Teeter compiled a 14-point comparison of healing and supernatural attributes acr
 | Immortality | X | X | X |
 | Psychoactive urine | X | X | X |
 
-The near-perfect correspondence across three separate religious traditions spanning 2000+ years is cited as strong evidence for a common entheogenic origin. The Haoma column's imperfections are attributed to the destruction of Yasna texts by Alexander the Great's invasion of Persia.
+The near-perfect correspondence across three separate religious traditions spanning 2000+ years is cited as strong evidence for a common entheogenic origin. The Haoma column"s imperfections are attributed to the destruction of Yasna texts by Alexander the Great's invasion of Persia.
 
 ## The "Living Bread" and "Holy Grail"
 

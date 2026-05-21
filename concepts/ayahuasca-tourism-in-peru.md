@@ -29,7 +29,7 @@ Peru occupies a unique position regarding ayahuasca. Unlike the [[ayahuasca-cere
 However, Peru is not without its own drug conflicts. Television portrays
 marijuana as a dangerous substance, cocaine traffickers regularly close roads
 connecting Lima to outlying provinces, and corruption among politicians and
-military officials is acknowledged. The apparent contradiction between Peru's
+military officials is acknowledged. The apparent contradiction between Peru"s
 persecution of coca and cocaine and its embrace of ayahuasca reflects the
 deep cultural integration of the brew in Peruvian society.
 

@@ -1,5 +1,5 @@
 ---
-title: Cannabis and Huntington's Disease Research
+title: Cannabis and Huntington"s Disease Research
 created: 2026-04-18
 updated: 2026-04-19
 type: concept

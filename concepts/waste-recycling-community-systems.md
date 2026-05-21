@@ -8,7 +8,7 @@ type: concept
 
 Waste recycling at the community level is a foundational principle in [[permaculture-design]],
 transforming what conventional society discards into streams of income, resources, and social
-cohesion. In *[[permaculture]]: A Designers' Manual*, [[bill-mollison]] presents a model for how
+cohesion. In *[[permaculture]]: A Designers" Manual*, [[bill-mollison]] presents a model for how
 communities—whether boroughs, villages, or regional coalitions—can build financially
 self-reliant recycling systems that generate meaningful revenue and catalyze broader economic
 independence.

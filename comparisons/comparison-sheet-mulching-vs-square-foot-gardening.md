@@ -4,7 +4,7 @@ created: 2026-04-28
 tags: [comparison, gardening-methods, soil-building, permaculture]
 date: 2026-04-25
 updated: 2026-04-25
-sources: ['raw/papers/lowenfels-jeff-teaming-with-nutrients_-the-organic-garden.md']
+sources: ["raw/papers/lowenfels-jeff-teaming-with-nutrients_-the-organic-garden.md']
 type: comparison
 ---
 
@@ -24,7 +24,7 @@ crop. The system's six core principles define the method: use permanent
 grids that never walk on, plant one crop type per square, space plants
 by size category (extra-large one per square, large four per square,
 medium nine per square, small sixteen per square), never compact the
-soil, use "Mel's Mix" as the growing medium, and replant each square
+soil, use "Mel"s Mix" as the growing medium, and replant each square
 immediately after harvest.
 
 Mel's Mix is a specific soil blend of one-third vermiculite, one-third

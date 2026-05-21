@@ -16,11 +16,11 @@ type: concept
 
 "I would like to point out that water landscapes are economically sound. People can actually make more money from them than by cultivating the land, and it is also less work."
 
-Holzer's claim is counterintuitive: water retention landscapes, which allocate significant land area to water features, produce more food than conventional agriculture on the same total land area. The explanation lies in the multiplier effect of water: by saturating the surrounding land with moisture, a water feature increases the productivity of all the land around it, more than compensating for the area it occupies.
+Holzer"s claim is counterintuitive: water retention landscapes, which allocate significant land area to water features, produce more food than conventional agriculture on the same total land area. The explanation lies in the multiplier effect of water: by saturating the surrounding land with moisture, a water feature increases the productivity of all the land around it, more than compensating for the area it occupies.
 
 ### The Krameterhof Example
 
-"The Krameterhof shows just how productive a water landscape is. The fiscal authorities have determined the assessed tax value of the land to be ten times higher than what it used to be." The Austrian tax authorities' independent assessment provides objective evidence of the economic value created by water retention.
+"The Krameterhof shows just how productive a water landscape is. The fiscal authorities have determined the assessed tax value of the land to be ten times higher than what it used to be." The Austrian tax authorities" independent assessment provides objective evidence of the economic value created by water retention.
 
 ### Spanish and Portuguese Projects
 
@@ -64,7 +64,7 @@ Holzer proposes a "Ring Water Feeder" model for supplying cities and communities
 
 ### Living Water
 
-"Fresh, running, living water is our most important food, not only to drink, but also to wash. Skin is the biggest organ of the human body." Holzer's emphasis on "living water"—water that has not been chemically treated or stored in sterile containers—reflects his broader philosophy that natural processes produce superior results to artificial ones.
+"Fresh, running, living water is our most important food, not only to drink, but also to wash. Skin is the biggest organ of the human body." Holzer"s emphasis on "living water"—water that has not been chemically treated or stored in sterile containers—reflects his broader philosophy that natural processes produce superior results to artificial ones.
 
 ## Dam Construction Technical Details
 
@@ -74,7 +74,7 @@ Holzer describes his technical innovation for dam outlet pipes: "At the lowest p
 
 ### Natural Waterproofing
 
-"To make the connection watertight I shovel some sawdust or horse manure around the pipes. The fibrous particles get sucked into the gaps." This technique—using natural organic materials to seal pipe connections—exemplifies Holzer's approach of working [[building-with-natural-materials]] rather than relying on industrial products.
+"To make the connection watertight I shovel some sawdust or horse manure around the pipes. The fibrous particles get sucked into the gaps." This technique—using natural organic materials to seal pipe connections—exemplifies Holzer"s approach of working [[building-with-natural-materials]] rather than relying on industrial products.
 
 ## Independence from Subsidies
 

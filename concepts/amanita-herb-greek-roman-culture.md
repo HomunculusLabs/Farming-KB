@@ -14,10 +14,10 @@ In "Amanita Muscaria: [[amanita-muscaria-drying-and-preparation]].
 
 ## Ambrosia and Nectar: "Not Mortal" and "Death-Overcomer"
 
-The ancient Indo-Europeans called the Amanita muscaria mushroom "Maga" (The Great Gift). The Greeks called it "Ambrosia" (Not Mortal) and "Nectar" (Death-overcomer) -- the food and drink of the Gods. According to Homer in the Iliad, the Ambrosia/Nectar plant could spring up instantly at the command of the gods, a property consistent with Amanita muscaria's rapid fruiting after rain.
+The ancient Indo-Europeans called the Amanita muscaria mushroom "Maga" (The Great Gift). The Greeks called it "Ambrosia" (Not Mortal) and "Nectar" (Death-overcomer) -- the food and drink of the Gods. According to Homer in the Iliad, the Ambrosia/Nectar plant could spring up instantly at the command of the gods, a property consistent with Amanita muscaria"s rapid fruiting after rain.
 
 Teeter demonstrates that these are Indo-European words sharing a common root with Sanskrit Amrita (not-death) and Persian Amarta (not-death), all naming a "deathless plant" that produced a living [[leary-psychedelic-experience-bardo-mapping]]. See [[rig-veda-soma-hymns-amanita-muscaria]]
-- [[psilocybin]] or LSD) rather than the usual Amanita effects -- the opposite of every other drug extract on the planet. He theorizes that muscimol's polar molecular chains are broken into individual dissolved units by the addition of water, producing a more purely psychedelic experience.
+- [[psilocybin]] or LSD) rather than the usual Amanita effects -- the opposite of every other drug extract on the planet. He theorizes that muscimol"s polar molecular chains are broken into individual dissolved units by the addition of water, producing a more purely psychedelic experience.
 
 ## The Ancient World View of Gods
 

@@ -18,7 +18,7 @@ millennia.
 
 ## The Three-Day Resurrection
 
-The "three days" motif that pervades Christian texts — most notably Jesus Christ's
+The "three days" motif that pervades Christian texts — most notably Jesus Christ"s
 three days in the tomb before rising — may encode a specific, practical formula
 for [[cannabis-nutrient-solution-preparation]], whereas hastily dried
 specimens may have lost this capacity.

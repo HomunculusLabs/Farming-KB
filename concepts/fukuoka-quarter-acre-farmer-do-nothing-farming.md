@@ -12,7 +12,7 @@ sources:
 
 updated: 2026-18
 
-Fukuoka's vision of the "quarter-acre farmer" represents the practical application of his [[direct-seeded-no-tillage-rice-winter-grain-succession]] harvest
+Fukuoka"s vision of the "quarter-acre farmer" represents the practical application of his [[direct-seeded-no-tillage-rice-winter-grain-succession]] harvest
 
 The labor of one or two people is more than enough for a quarter-acre.
 

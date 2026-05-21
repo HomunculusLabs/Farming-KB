@@ -53,7 +53,7 @@ Where agriculture provides for household subsistence needs rather than serving m
 
 3. **Regular supply** — different crops mature at different times, providing continuous harvests rather than seasonal glut and scarcity.
 
-When central markets redistribute food, they provide for diverse human needs through marketplace variety rather than on-farm diversity. This makes monocultural specialization possible but damages the agricultural ecosystem's ability to provide for people's needs independently of global supply chains.
+When central markets redistribute food, they provide for diverse human needs through marketplace variety rather than on-farm diversity. This makes monocultural specialization possible but damages the agricultural ecosystem"s ability to provide for people's needs independently of global supply chains.
 
 ### Security from Diversity
 
@@ -65,7 +65,7 @@ Crop diversity provides **insurance against failure**:
 
 ### Cultural Maintenance
 
-A third reason for crop diversity transcends practicality: people grow varieties for **aesthetic, sentimental, cultural, and spiritual reasons**. Growing Grandpa's special bean, or maintaining a variety that represents cultural heritage, celebrates lineage and acknowledges that not everything of value must be "productive." This commitment to diversity functions as homage or a symbolic tithe to nature's abundance, acknowledging the importance of things beyond immediate material needs.
+A third reason for crop diversity transcends practicality: people grow varieties for **aesthetic, sentimental, cultural, and spiritual reasons**. Growing Grandpa's special bean, or maintaining a variety that represents cultural heritage, celebrates lineage and acknowledges that not everything of value must be "productive." This commitment to diversity functions as homage or a symbolic tithe to nature"s abundance, acknowledging the importance of things beyond immediate material needs.
 
 ## The Green Revolution and Lost Diversity
 
@@ -85,7 +85,7 @@ The concept of "improving" already highly bred traditional crops through modern 
 
 ### The Australian CSIRO Example
 
-The early history of [[csiro]]'s scientific crop improvement gave priority to hardiness and natural disease resistance, establishing low-input farming as the norm in Australia long before current environmental concerns. However, diminishing returns from traditional breeding, combined with a shift from public to corporate funding, drove CSIRO toward genetic engineering and corporate objectives.
+The early history of [[csiro]]"s scientific crop improvement gave priority to hardiness and natural disease resistance, establishing low-input farming as the norm in Australia long before current environmental concerns. However, diminishing returns from traditional breeding, combined with a shift from public to corporate funding, drove CSIRO toward genetic engineering and corporate objectives.
 
 ## Animal Breeding and Diversity
 
@@ -124,7 +124,7 @@ This paradox parallels debates over functionalism and aesthetics in horticulture
 
 ## Food Fermentation Cultures
 
-A subtle, invisible example of lost cultural food diversity is **microbiological diversity in food fermentation cultures**. The continuously maintained sourdough culture of a traditional European bakery was a co-evolved ecosystem of many different yeasts and microorganisms, reflecting local grain varieties, baking methods, and the microbial environment of often-ancient bakery buildings. Each village's bread was unique.
+A subtle, invisible example of lost cultural food diversity is **microbiological diversity in food fermentation cultures**. The continuously maintained sourdough culture of a traditional European bakery was a co-evolved ecosystem of many different yeasts and microorganisms, reflecting local grain varieties, baking methods, and the microbial environment of often-ancient bakery buildings. Each village"s bread was unique.
 
 In the 1920s, Japanese food scientists began "purifying" the culture for miso production in the interests of efficiency. Today, virtually all the world's fermented foods are produced with pure (monocultural) starter cultures. The diversity and complexity of what has been lost is incalculable, and recreating such co-evolved microbial ecosystems may take centuries of stable conditions.
 

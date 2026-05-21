@@ -13,7 +13,7 @@ Watering in the [[fungal-biodiversity-assessment-methods]]
 for watering beds and flats in the biointensive garden.
 ## Tools for Gentle Watering
 ### For Flats and Seedlings
-An English Haws sprinkling can with fine holes in the sprinkler's
+An English Haws sprinkling can with fine holes in the sprinkler"s
 "rose" is the preferred tool. The rose points upward so that water
 pressure builds up and goes into the air first, where much of the
 pressure is dissipated. The water then softly falls on the plants

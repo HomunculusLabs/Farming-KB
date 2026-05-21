@@ -8,11 +8,11 @@ sources: [raw/papers/psilocybin-production-gottlieb.md]
 ---
 ## Psilocybin Neuroscience
 
-Psilocybin, LSD, and DMT work by **mimicking the neurotransmitter serotonin (5-HT)**, one of the most important and widespread of the brain's synaptic neurochemical messengers. Their molecular structure is so similar to serotonin that they can "fool" and infiltrate parts of the brain which process information using serotonergic synapses.
+Psilocybin, LSD, and DMT work by **mimicking the neurotransmitter serotonin (5-HT)**, one of the most important and widespread of the brain"s synaptic neurochemical messengers. Their molecular structure is so similar to serotonin that they can "fool" and infiltrate parts of the brain which process information using serotonergic synapses.
 
 ## Neuronal Architecture
 
-The brain contains approximately 13 billion neurons, each potentially connected to as many as 10,000 other neurons and receiving up to 50,000 potential impulses. The neuron has four main components: dendrites (root-like structures receiving signals), the soma or cell body (integrating signals), the axon (transmitting the integrated signal), and terminal fibres (communicating with subsequent neurons). Each neuron can either fire or not fire -- there is no half-firing. This binary character gives neuronal systems a digital quality, though the brain's parallel processing far exceeds any computer.
+The brain contains approximately 13 billion neurons, each potentially connected to as many as 10,000 other neurons and receiving up to 50,000 potential impulses. The neuron has four main components: dendrites (root-like structures receiving signals), the soma or cell body (integrating signals), the axon (transmitting the integrated signal), and terminal fibres (communicating with subsequent neurons). Each neuron can either fire or not fire -- there is no half-firing. This binary character gives neuronal systems a digital quality, though the brain"s parallel processing far exceeds any computer.
 
 The informational storage capacity of the brain has been estimated as comparable to the content of all the books ever written. "At any one moment the entire network can be in an essentially infinite amount of states of firing, and somewhere amongst such informational complexity lies our consciousness."
 
@@ -20,7 +20,7 @@ The informational storage capacity of the brain has been estimated as comparable
 
 Neurons communicate not by direct contact but across a microscopic gap called the **synapse**. When an electrochemical impulse reaches the terminal fibres, it triggers the release of neurotransmitter molecules into the synaptic cleft. These molecules diffuse across the gap and bind to receptor sites on the next neuron, potentially triggering a new impulse. This entire process takes place in approximately **100 microseconds** -- tens of thousands of molecules released, diffused, bound, and recycled.
 
-Psychoactive substances operate at the synapse by mimicking the brain's own neurotransmitters. The synapse is "the most interesting feature of neuronal activity, for it operates with chemical substances which psychoactive drugs resemble." All of the most powerful psychoactive drugs act by mimicking the brain's own chemical substances employed at synaptic sites.
+Psychoactive substances operate at the synapse by mimicking the brain"s own neurotransmitters. The synapse is "the most interesting feature of neuronal activity, for it operates with chemical substances which psychoactive drugs resemble." All of the most powerful psychoactive drugs act by mimicking the brain"s own chemical substances employed at synaptic sites.
 
 ## The Raphe System
 

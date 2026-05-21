@@ -20,7 +20,7 @@ sources:
 
 ## Valis and the Hibernation of the Logos
 
-Terence McKenna drew on Philip K. Dick's novel Valis to develop a theory about the
+Terence McKenna drew on Philip K. Dick"s novel Valis to develop a theory about the
 hibernation and reawakening of the Logos — a cosmic principle of pure information that
 was buried in human history and has been progressively reactivating through the
 translation of ancient texts and the use of [[dmt-black-hole-effect-and-ineffability-of-tryptamine-experience]].

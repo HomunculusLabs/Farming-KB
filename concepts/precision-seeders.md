@@ -63,7 +63,7 @@ Proper operating technique is essential to realizing the full potential of a pre
 
 **Depth control** is achieved by adjusting the handle angle relative to the ground. Raising the handle sows seeds more shallowly; lowering it sows more deeply. With practice this becomes second nature, but the operator must consciously think about whether a new depth is required each time a different seed variety is loaded.
 
-**Soil preparation** must be meticulous. Rocks, undecomposed compost chunks, stringy weeds, or root residues will disrupt the seeder's operation and give the operator "fits." The extra production per square foot gained through precision seeding more than justifies the additional care taken in seedbed preparation. Beds should be finely raked smooth before seeding.
+**Soil preparation** must be meticulous. Rocks, undecomposed compost chunks, stringy weeds, or root residues will disrupt the seeder"s operation and give the operator "fits." The extra production per square foot gained through precision seeding more than justifies the additional care taken in seedbed preparation. Beds should be finely raked smooth before seeding.
 
 **Bed rolling** is critical for proper seeder function. A lightweight mesh-surfaced roller (preferred over smooth-surface rollers to avoid glazing the soil) is run over freshly prepared beds to create a firm, even surface. This prevents the seeder wheels from sinking too far into loose soil, which would cause the axle to bog down and stop turning.
 

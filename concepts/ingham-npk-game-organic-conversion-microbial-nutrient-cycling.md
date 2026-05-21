@@ -10,7 +10,7 @@ created: 2026-05-10
 
 ## Overview
 
-Dr. Elaine Ingham's field guide devotes significant attention to "the NPK game"
+Dr. Elaine Ingham"s field guide devotes significant attention to "the NPK game"
 — the conventional approach of managing soil nutrition through applied
 nitrogen, phosphorus, and potassium. Ingham contrasts this with the biological
 approach enabled by [[teaming-with-nutrients-natural-vs-synthetic-fertilizers]] to correct deficiencies. This treats soil as

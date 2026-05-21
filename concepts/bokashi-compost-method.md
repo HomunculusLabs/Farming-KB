@@ -13,7 +13,7 @@ Bokashi is a naturally fortified compost enriched with macro and micro nutrients
 
 ## Japanese Origins
 
-The concept of bokashi originated in Japan, where the term literally means "fermented [[lactic-acid-bacteria-knf]], yeast, and photosynthetic bacteria could accelerate the decomposition of organic matter while suppressing pathogens. Traditional Japanese farmers had long practiced variations of fermented composting, but Higa's work systematized the inoculation process and made it reproducible. In Korean [[compost-building-guide]] and [[jadam-rice-bran-problems]] — 10 kg
+The concept of bokashi originated in Japan, where the term literally means "fermented [[lactic-acid-bacteria-knf]], yeast, and photosynthetic bacteria could accelerate the decomposition of organic matter while suppressing pathogens. Traditional Japanese farmers had long practiced variations of fermented composting, but Higa"s work systematized the inoculation process and made it reproducible. In Korean [[compost-building-guide]] and [[jadam-rice-bran-problems]] — 10 kg
 
 - Copra Meal — 20 kg
 

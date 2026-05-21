@@ -49,7 +49,7 @@ pathway modulation, and mitochondrial function enhancement.
 ## The HPA Axis and Stress Physiology
 
 Chronic stress dysregulates the hypothalamic-pituitary-adrenal (HPA) axis,
-the body's central stress-response system. Persistent cortisol elevation
+the body"s central stress-response system. Persistent cortisol elevation
 leads to adrenal fatigue, immune suppression, disrupted sleep, and metabolic
 dysfunction.
 

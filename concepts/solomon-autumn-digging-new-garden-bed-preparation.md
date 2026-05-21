@@ -8,7 +8,7 @@ tags: [garden-preparation, autumn-digging, sod-removal, soil-preparation, solomo
 
 ## Overview
 
-Steve Solomon's *Gardening When It Counts* provides detailed practical guidance for converting raw land into productive garden beds, with a strong emphasis on **autumn digging** as the optimal timing strategy. Solomon draws on 33 years of gardening experience to compare hand-digging versus mechanical tilling, and makes a compelling case that autumn bed preparation offers multiple advantages over spring preparation—especially for new gardens being broken from sod.
+Steve Solomon"s *Gardening When It Counts* provides detailed practical guidance for converting raw land into productive garden beds, with a strong emphasis on **autumn digging** as the optimal timing strategy. Solomon draws on 33 years of gardening experience to compare hand-digging versus mechanical tilling, and makes a compelling case that autumn bed preparation offers multiple advantages over spring preparation—especially for new gardens being broken from sod.
 
 ## The Case for Autumn Preparation
 
@@ -24,7 +24,7 @@ This two-pass approach dramatically reduces the weed seed bank. A single spring 
 
 ### Resistant Sod Elimination
 
-When digging in autumn, there is always "the odd bit of grass that isn't killed." The advantage:
+When digging in autumn, there is always "the odd bit of grass that isn"t killed." The advantage:
 - When preparing autumn-dug beds for spring sowing, you dig again
 - At this point you can identify and yank out any resistant clump of still-living sod
 - Toss these survivors onto the compost heap
@@ -53,7 +53,7 @@ Solomon emphasizes that digging should only occur when soil moisture is correct:
 **Interpreting results**:
 - Ball **falls apart and crumbles easily**: Perfect moisture—ready to work
 - Ball is **plastic and gooey**, thumb makes a dent: Too wet—wait
-- Soil **won't form a ball at all**: Too dry—irrigate or wait for rain; OR the soil has no clay (won't clod regardless, work anytime)
+- Soil **won"t form a ball at all**: Too dry—irrigate or wait for rain; OR the soil has no clay (won't clod regardless, work anytime)
 
 ### Timing by Season
 

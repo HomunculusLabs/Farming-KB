@@ -9,7 +9,7 @@ sources: []
 
 # Biochar Soil Amendment
 
-> Note: This page is compiled from general knowledge, not sourced from a specific file in the wiki's raw/ directory. See also [[biochar]] for the existing wiki page on biochar fundamentals.
+> Note: This page is compiled from general knowledge, not sourced from a specific file in the wiki"s raw/ directory. See also [[biochar]] for the existing wiki page on biochar fundamentals.
 
 Biochar as a soil amendment is the practice of incorporating pyrolyzed biomass into agricultural soils to improve fertility, water retention, nutrient cycling, and long-term carbon storage. The concept is inspired by terra preta (Amazonian dark earth), anthropogenic soils created by indigenous peoples in the Amazon basin that remain fertile thousands of years after their creation.
 
@@ -38,7 +38,7 @@ This "charging" process is why biochar is best inoculated with compost, compost 
 
 ### Water Retention
 
-Biochar's porous structure (especially at higher pyrolysis temperatures of 500-700C) creates a vast internal surface area (150-400 m2/g). This acts like a sponge:
+Biochar"s porous structure (especially at higher pyrolysis temperatures of 500-700C) creates a vast internal surface area (150-400 m2/g). This acts like a sponge:
 
 - Holds 3-5x its weight in water
 - Reduces irrigation needs by 10-30% in sandy soils

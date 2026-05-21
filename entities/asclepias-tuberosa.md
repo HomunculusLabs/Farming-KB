@@ -28,7 +28,7 @@ The root system consists of a large, fleshy tuberous taproot that can extend 30+
 
 Unlike most *Asclepias* species, *A. tuberosa* produces little to no milky latex when stems or leaves are cut. The absence of copious latex is a diagnostic field character that distinguishes it from sympatric milkweeds.
 
-Several cultivars have been selected for ornamental use, including 'Hello Yellow' (yellow-flowered), 'Gay Butterflies' (mixed orange-red tones), and 'Orange Marmalade' (deep orange). These selections are widely available in the native plant nursery trade.
+Several cultivars have been selected for ornamental use, including "Hello Yellow' (yellow-flowered), 'Gay Butterflies' (mixed orange-red tones), and 'Orange Marmalade' (deep orange). These selections are widely available in the native plant nursery trade.
 
 ## Distribution and Habitat
 

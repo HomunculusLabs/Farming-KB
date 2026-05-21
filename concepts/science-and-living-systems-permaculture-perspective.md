@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-[[gaia-hypothesis]]** ([[edward-goldsmith]]'s work ("Thermodynamics or Ecodynamics," The Ecologist, 1981) is cited to support the argument that many scientists refuse to consider the function of life in the systems they study. When natural self-regulating processes are removed, the State or farmer must take over those functions — becoming the "father of the orphaned child" or the "father of the orphaned chicken." Stability can only evolve by returning self-regulating function and responsibility to living things.
+[[gaia-hypothesis]]** ([[edward-goldsmith]]"s work ("Thermodynamics or Ecodynamics," The Ecologist, 1981) is cited to support the argument that many scientists refuse to consider the function of life in the systems they study. When natural self-regulating processes are removed, the State or farmer must take over those functions — becoming the "father of the orphaned child" or the "father of the orphaned chicken." Stability can only evolve by returning self-regulating function and responsibility to living things.
 
 ## Approaches That Work in Design Science
 
@@ -17,7 +17,7 @@ Despite these critiques, Mollison identifies several approaches that produce use
 1. **Improving tools**: Inventing or refining tools for specific jobs
 2. **Collecting large observation sets**: Sorting phenomena by likeness and unlikeness, establishing systems, boundaries, categories, and keys — this often reveals common characteristics of diverse elements and suggests design strategies by analogy
 3. **Insight**: The "Aha!" or "Eureka!" response, likely the endpoint of extensive observation
-4. **Trials**: Empirical "give it a try and see if it works" approach that eliminates what doesn't work, though it may not establish how or why something works
+4. **Trials**: Empirical "give it a try and see if it works" approach that eliminates what doesn"t work, though it may not establish how or why something works
 5. **Guessing**: Best guesses based on trials already known to work
 6. **Observing unique events**: Taking note of unexpected discoveries (e.g., the discovery of penicillin)
 7. **Accident**: Trials set up for one purpose working in unpredicted ways

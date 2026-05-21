@@ -53,7 +53,7 @@ Through skilled use of space, fruit, vegetables, herbs, and mushrooms can be cul
 
 ## Children and Nature
 
-Children who grow up around nature learn from it through intensive observation. Give children the chance to sow radishes or carrots in the garden or a window box. Rather than saying "Come away, that's horrible," ask "Oh, what have you found there?" and look through a book on insects together. These memories stay with them for their whole lives.
+Children who grow up around nature learn from it through intensive observation. Give children the chance to sow radishes or carrots in the garden or a window box. Rather than saying "Come away, that"s horrible," ask "Oh, what have you found there?" and look through a book on insects together. These memories stay with them for their whole lives.
 
 ## Related
 

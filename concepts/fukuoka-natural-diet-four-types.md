@@ -12,7 +12,7 @@ sources:
 
 Updated: 2026-04-19
 
-Masanobu Fukuoka identifies four major types of diet in *The Natural Way of Farming*, presenting a hierarchy from most degenerate to most enlightened. These four categories provide a framework for understanding humanity's progressive alienation from nature through food, and the path back toward wholeness.
+Masanobu Fukuoka identifies four major types of diet in *The Natural Way of Farming*, presenting a hierarchy from most degenerate to most enlightened. These four categories provide a framework for understanding humanity"s progressive alienation from nature through food, and the path back toward wholeness.
 
 ## Type 1: Empty, Self-Indulgent Diet
 

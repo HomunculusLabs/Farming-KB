@@ -13,7 +13,7 @@ sources:
 ---
 
 The species is easily recognized by its brilliant orange-red cap, white gills, prominent
-volva at the base, and overall resemblance to the genus's toxic members. Its reputation
+volva at the base, and overall resemblance to the genus"s toxic members. Its reputation
 as a delicacy dates back to Roman times.
 
 Caesar's mushroom is mycorrhizal, forming obligate associations with oak, chestnut, and

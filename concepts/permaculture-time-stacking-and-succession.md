@@ -8,7 +8,7 @@ type: concept
 
 Time stacking and succession are among the most powerful design tools in
 [[permaculture]]. They compress productive cycles, increase yields per unit area,
-and work with nature's temporal patterns rather than against them — a shift
+and work with nature"s temporal patterns rather than against them — a shift
 from sequential thinking to **layered, overlapping systems** where multiple
 yields flow from the same space across multiple temporal frames.
 

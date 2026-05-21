@@ -18,7 +18,7 @@ family, which includes [[cannabis-terpene-profile]], uplifting sativa effect |
 | Florida OG (rumored) | Maternal grandparent | Potency, [[cannabis-glandular-trichome-types-resin-production-clarke]], OG [[terpene-profile-chemotaxonomy]] |
 | [[granddaddy-purple]] (rumored) | Paternal grandparent | Coloration, berry notes, indica relaxation |
 
-The exact genetics have been debated since the strain's commercial
+The exact genetics have been debated since the strain"s commercial
 debut. The breeder, known by the pseudonym "Jigga," initially worked
 within the Cookie Fam collective in [[san-francisco-yarina-shipibo-ayahuasca-ceremonial-center]]. Multiple phenotypes
 were released under the GSC umbrella, with Thin Mint, Forum Cut, and
@@ -45,7 +45,7 @@ commercial breeding.
 | Myrcene | 0.2-0.5% | Herbal, musky, sedative |
 | Pinene | Trace | Pine, mental clarity |
 
-The combined terpene profile produces the strain's signature aroma:
+The combined terpene profile produces the strain"s signature aroma:
 sweet, earthy, and slightly minty with underlying notes of fuel and
 forest floor. The name "Cookies" derives from the sweet, doughy quality
 of the bouquet, particularly in the Thin Mint phenotype.

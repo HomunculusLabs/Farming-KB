@@ -28,7 +28,7 @@ When these MAO inhibitors are consumed (typically as a decoction), they temporar
 
 ### Harmaline — Effects in Isolation
 
-From Shulgin's TIHKAL data on harmaline alone (without DMT):
+From Shulgin"s TIHKAL data on harmaline alone (without DMT):
 
 - **Dose**: 300-500 mg orally
 - **Onset**: Slow, 1-3 hours

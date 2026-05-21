@@ -7,7 +7,7 @@ tags: [person, sustainability, ecovillages, community-design]
 
 ## Overview
 
-Robert Gilman is an American sustainability researcher and editor best known as the founder of **In Context magazine**, referenced on page xxiii of David Holmgren's *Permaculture: Principles and Pathways Beyond Sustainability*. Gilman was pivotal in articulating the intellectual foundations of the ecovillage movement.
+Robert Gilman is an American sustainability researcher and editor best known as the founder of **In Context magazine**, referenced on page xxiii of David Holmgren"s *Permaculture: Principles and Pathways Beyond Sustainability*. Gilman was pivotal in articulating the intellectual foundations of the ecovillage movement.
 
 ## In Context Magazine
 
@@ -19,7 +19,7 @@ Robert and Diane Gilman played a central role in defining ecovillages. Their 199
 
 ## Contributions to Sustainability Thinking
 
-Gilman's work bridged systems thinking, sustainable economics, community governance, technology assessment, and cultural change. His emphasis on "humane sustainable culture" complemented permaculture's design focus.
+Gilman"s work bridged systems thinking, sustainable economics, community governance, technology assessment, and cultural change. His emphasis on "humane sustainable culture" complemented permaculture's design focus.
 
 ## Connection to Permaculture
 

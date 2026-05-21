@@ -12,7 +12,7 @@ sources:
 
 Soil temperature is one of the most fundamental yet underappreciated factors governing plant growth rate. While air temperature and sunlight receive most gardener attention, it is the soil temperature that directly determines root growth, [[root-anatomy-structure-and-nutrient-uptake]].
 
-The speed at which roots grow is determined by the soil's temperature just as much as (and sometimes more than) the speed of above-ground growth. When soil is cold, root development lags even if air temperatures are warm. This creates an imbalance where the top growth outpaces the root system's ability to supply water and nutrients, leading to stunted development or wilting during hot periods despite adequate soil moisture.
+The speed at which roots grow is determined by the soil"s temperature just as much as (and sometimes more than) the speed of above-ground growth. When soil is cold, root development lags even if air temperatures are warm. This creates an imbalance where the top growth outpaces the root system's ability to supply water and nutrients, leading to stunted development or wilting during hot periods despite adequate soil moisture.
 
 ## Practical Applications
 

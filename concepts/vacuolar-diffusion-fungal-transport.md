@@ -20,7 +20,7 @@ The fungal vacuolar system is not a static storage compartment but a dynamic, in
 
 The organization of these vacuolar components directly determines the capacity and range of intracellular transport. The vacuolar system is interconnected across septal pores via the **Woronin body**-bypassed or septal pore-associated connections, allowing continuity between adjacent hyphal cells.
 
-## Diffusion Physics: Fick's First Law Applied to Hyphae
+## Diffusion Physics: Fick"s First Law Applied to Hyphae
 
 Nutrient transport through the vacuolar system is governed by **Fick's first law of diffusion**:
 

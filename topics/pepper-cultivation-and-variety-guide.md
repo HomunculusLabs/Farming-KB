@@ -33,7 +33,7 @@ produces both the mildest bell pepper and some of the hottest jalapeño
 variants. Understanding this genetic relationship helps gardeners
 appreciate why cross-pollination between sweet and hot peppers planted
 near each other can produce unexpected results in the next generation of
-saved seed, though the current season's fruit is unaffected.
+saved seed, though the current season"s fruit is unaffected.
 
 ## Botanical Background and Species
 

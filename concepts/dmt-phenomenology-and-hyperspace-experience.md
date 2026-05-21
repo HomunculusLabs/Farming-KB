@@ -45,11 +45,11 @@ After the transition, one arrives in what McKenna calls a space that:
 
 - Has a feeling of being "underground" or "somehow insulated and domed"
 - Is reminiscent of the "merry go raum" (from German *raum*, "space")
-  described in Joyce's *Finnegans Wake* — "The room is actually going
+  described in Joyce"s *Finnegans Wake* — "The room is actually going
   around"
 - Produces a feeling of being "like a child, though one has come out
   somewhere in eternity"
-- Invokes Heraclitus's 24th fragment: "The Aeon is a child at play
+- Invokes Heraclitus"s 24th fragment: "The Aeon is a child at play
   with colored balls"
 
 ### Entity Encounters
@@ -60,10 +60,10 @@ describes as:
 - **Self-transforming machine elves**: Dynamically contorting topological
   modules distinct from the continuously transforming background
 - **Fractal reflections** of a "previously hidden and suddenly autonomous
-  part of one's own psyche"
+  part of one"s own psyche"
 - **Hyperdimensional beings** that "bathe one in love" — "not erotic but
   open-hearted"
-- Speaking entities that say "Don't be alarmed. Remember, and do what
+- Speaking entities that say "Don"t be alarmed. Remember, and do what
   we are doing"
 
 ### The Language Phenomenon
@@ -115,5 +115,3 @@ Collaborative research networks facilitate knowledge exchange and accelerate inn
 Context-specific implementation requires attention to local ecology, climate patterns, and community needs.
 Integration with existing systems often yields better results than complete replacement strategies.
 Monitoring and adaptive management are essential for long-term success and continuous improvement.
-## Practical Applications
-The principles discussed here have direct applications in agricultural systems, ecological restoration, and sustainable resource management.

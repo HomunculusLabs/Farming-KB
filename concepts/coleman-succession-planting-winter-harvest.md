@@ -11,7 +11,7 @@ tags: [winter-farming, succession-planting, sowing-schedule, season-extension, c
 
 ## Overview
 
-Succession planting is one of the three foundational components of Coleman's winter harvest system, alongside cold-hardy vegetables and [[coleman-beet-greens-cold-house-winter-production]] is fundamentally different from spring and summer succession planting. Understanding these differences is essential for anyone adapting Coleman's system to their own climate and operation. (see [[coleman-weed-control]]).
+Succession planting is one of the three foundational components of Coleman"s winter harvest system, alongside cold-hardy vegetables and [[coleman-beet-greens-cold-house-winter-production]] is fundamentally different from spring and summer succession planting. Understanding these differences is essential for anyone adapting Coleman's system to their own climate and operation. (see [[coleman-weed-control]]).
 
 ### The Winter Difference
 

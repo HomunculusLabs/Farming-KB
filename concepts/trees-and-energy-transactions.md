@@ -51,7 +51,7 @@ The cooling effect of canopy shade is compounded by the reduction in wind speed 
 
 ### Snow Melt Retardation
 
-In cold climates, woodlands retard the melting of snow. The canopy shades snowpack from direct sunlight, and the forest's calm microclimate reduces wind-driven sublimation. Snow under forest cover melts gradually over an extended period, feeding streams steadily through spring rather than producing sudden, erosive melt pulses that occur in open terrain.
+In cold climates, woodlands retard the melting of snow. The canopy shades snowpack from direct sunlight, and the forest"s calm microclimate reduces wind-driven sublimation. Snow under forest cover melts gradually over an extended period, feeding streams steadily through spring rather than producing sudden, erosive melt pulses that occur in open terrain.
 
 The implications for downstream water management are substantial. In regions dependent on snowmelt for irrigation and water supply, forested upper catchments provide a natural regulation service: they extend the period over which meltwater is released, reducing the risk of both spring flooding and summer water shortages. Removing forest cover from such catchments has repeatedly been shown to advance and concentrate snowmelt runoff, creating management problems that are expensive and sometimes impossible to engineer around.
 

@@ -22,7 +22,7 @@ Ron Spinosa is a mycology writer and advocate based in St. Paul, Minnesota, who 
 
 ## Key Facts
 
-- Authored "Fungi and Sustainability" in the inaugural issue of *Fungi Magazine* (Spring 2008), one of the earliest comprehensive treatments of fungi's role in sustainable development.
+- Authored "Fungi and Sustainability" in the inaugural issue of *Fungi Magazine* (Spring 2008), one of the earliest comprehensive treatments of fungi"s role in sustainable development.
 - Provided a historical overview of the sustainability movement, tracing it from the 1987 UN Brundtland Report through the Earth Summits of 1992 and 2002.
 - Highlighted the work of Gunter Pauli and ZERI (Zero Emissions Research and Initiatives) in demonstrating how mushroom cultivation can transform agricultural waste into valuable products.
 - Described the ZERI brewery project in Tsumeb, Namibia, as a model of integrated zero-emissions design using fungi, bacteria, algae, plants, and animals.
@@ -33,7 +33,7 @@ Ron Spinosa is a mycology writer and advocate based in St. Paul, Minnesota, who 
 
 ## Relevance to Cultivation and Mycology
 
-Ron Spinosa's work is significant for several reasons relevant to cultivation and mycology:
+Ron Spinosa"s work is significant for several reasons relevant to cultivation and mycology:
 
 1. **Advocacy for mushroom cultivation as a sustainability tool** — He argued that mushroom growing can be integrated into waste recycling systems, providing nutrition, income, and environmental benefits, especially in developing nations.
 

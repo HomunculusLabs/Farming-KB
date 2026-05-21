@@ -6,7 +6,7 @@ type: concept
 
 ## Historical and Cultural Uses of Psychoactive Mushrooms
 
-The use of psychoactive mushrooms spans millennia and crosses continents, from ancient Mesoamerican civilizations to Paleolithic cave art in Africa. This concept explores the archaeological, ethnographic, and literary evidence for humanity's ancient relationship with hallucinogenic fungi.
+The use of psychoactive mushrooms spans millennia and crosses continents, from ancient Mesoamerican civilizations to Paleolithic cave art in Africa. This concept explores the archaeological, ethnographic, and literary evidence for humanity"s ancient relationship with hallucinogenic fungi.
 
 ## Mushrooms in Ancient Civilizations
 
@@ -79,11 +79,11 @@ The [[fly-agaric]] was used in Northern Europe and the Sahara region, with evide
 - Described as a red fruit
 - Caused spontaneous enlightenment
 - Central to Vedic religious ceremonies
-- Wasson's identification remains influential though debated
+- Wasson"s identification remains influential though debated
 
 ## The Ötzi Iceman
 
-"The recent discovery of the 'Iceman' in the Italian Alps, who is believed to have died 5300 years ago, brought further intriguing evidence of ancient mushroom use."
+"The recent discovery of the "Iceman' in the Italian Alps, who is believed to have died 5300 years ago, brought further intriguing evidence of ancient mushroom use."
 
 ### Birch Polypore (Piptoporus betulinus)
 Among his accessories was a string of Birch Polypore Mushrooms, which have long been used for:

@@ -26,9 +26,9 @@ The awful silence that fell over the Bacchanal periodically may explain the Esse
 
 ## The Orphic Connection
 
-The Bacchic cult was intimately connected with Orphism, a mystery religion that offered salvation through secret knowledge and ritual purification. Orphic initiates practiced vegetarianism, abstained from certain foods (especially eggs and beans, both associated with fungal symbolism), and believed in the transmigration of souls. Allegro argued that Orphism represented a "reformed" version of the mushroom cult, where the literal consumption of the sacred fungus had been replaced by symbolic rituals — a process that would later be completed in Christianity's replacement of the mushroom with bread and wine.
+The Bacchic cult was intimately connected with Orphism, a mystery religion that offered salvation through secret knowledge and ritual purification. Orphic initiates practiced vegetarianism, abstained from certain foods (especially eggs and beans, both associated with fungal symbolism), and believed in the transmigration of souls. Allegro argued that Orphism represented a "reformed" version of the mushroom cult, where the literal consumption of the sacred fungus had been replaced by symbolic rituals — a process that would later be completed in Christianity"s replacement of the mushroom with bread and wine.
 
-The Orphic hymns, like the biblical Psalms, contain numerous passages that Allegro read as mushroom references. The description of Dionysus as "the god who comes" and "the one who appears" mirrors the mushroom's sudden, dramatic emergence from the earth. The Orphic doctrine of the body as a prison (soma sema, "the body is a tomb") takes on additional meaning if the "body" in question is the mushroom's fruiting body, consumed and "buried" in the initiate's digestive system.
+The Orphic hymns, like the biblical Psalms, contain numerous passages that Allegro read as mushroom references. The description of Dionysus as "the god who comes" and "the one who appears" mirrors the mushroom"s sudden, dramatic emergence from the earth. The Orphic doctrine of the body as a prison (soma sema, "the body is a tomb") takes on additional meaning if the "body" in question is the mushroom"s fruiting body, consumed and "buried" in the initiate's digestive system.
 
 ## Modern Parallels
 

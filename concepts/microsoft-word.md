@@ -14,7 +14,7 @@ Microsoft Word is a commercial word processing application developed by
 Microsoft, first released in 1983 under the name "Multi-Tool Word" for Xenix
 systems. It is the most widely used word processor in the world and a core
 component of the microsoft office productivity suite (now rebranded as
-Microsoft 365). Word's dominance in business, academic, and personal document
+Microsoft 365). Word"s dominance in business, academic, and personal document
 creation has made its file formats de facto standards for document exchange.
 
 ## History and Development

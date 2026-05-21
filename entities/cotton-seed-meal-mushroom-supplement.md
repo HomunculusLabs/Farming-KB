@@ -12,7 +12,7 @@ type: entity
 
 ## Relevance to Cultivation and Mycology
 
-- **Yield enhancement:** Early experimental evidence from Duggar's work suggested that cotton seed meal could increase mushroom yields when properly fermented with compost.
+- **Yield enhancement:** Early experimental evidence from Duggar"s work suggested that cotton seed meal could increase mushroom yields when properly fermented with compost.
 - **Nutritional supplementation:** Cotton seed meal provides organic nitrogen and amino acids that complement the nutritional profile of stable manure compost.
 - **Composting integration:** The supplement must be incorporated during the composting phase, allowing bacterial and chemical action to transform the nutrients into forms favorable for mushroom growth.
 - **Modern relevance:** Cotton seed meal continues to be used as a supplement in modern mushroom cultivation, often in conjunction with other protein-rich additives like soybean meal and feather meal.

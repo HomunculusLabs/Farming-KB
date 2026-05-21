@@ -21,7 +21,7 @@ sources:
 
 # KNF Soap Water and Hot Pepper Spray
 
-Soap water and hot pepper water are KNF's direct pest control methods for aphids and mites. Unlike most KNF inputs that focus on plant nutrition, these are physical/mechanical controls. Soap water kills aphids through evaporation-induced rupture, while hot pepper repels them with capsaicin.
+Soap water and hot pepper water are KNF"s direct pest control methods for aphids and mites. Unlike most KNF inputs that focus on plant nutrition, these are physical/mechanical controls. Soap water kills aphids through evaporation-induced rupture, while hot pepper repels them with capsaicin.
 
 ## Soap Water
 
@@ -53,7 +53,7 @@ Capsaicin in hot peppers repels aphids through its irritating taste/smell. Aphid
 
 ## Important Philosophy
 
-Cho emphasizes: it is more important to grow plants that do not attract aphids and mites than to control the insects after they appear. Aphids and mites appear because plants become unhealthy from excessive nitrogen and nutrient imbalance. The plant's "body constitution" changes to favor pests.
+Cho emphasizes: it is more important to grow plants that do not attract aphids and mites than to control the insects after they appear. Aphids and mites appear because plants become unhealthy from excessive nitrogen and nutrient imbalance. The plant"s "body constitution" changes to favor pests.
 
 **Prevention over cure**: Manage nutrition and plant health from the start to avoid pest pressure.
 

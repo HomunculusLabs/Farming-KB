@@ -11,7 +11,6 @@ date: 2026-05-08
 updated: 2026-05-08
 sources:
   - Kay, D.E. (1987). Crop and Product Digest No. 2: Root Crops. Tropical Development and Research Institute.---
----
 
 ## Overview
 

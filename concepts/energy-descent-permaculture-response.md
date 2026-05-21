@@ -1,5 +1,5 @@
 ---
-title: "Energy Descent and Permaculture's Response"
+title: "Energy Descent and Permaculture"s Response"
 tags:
   - concept
 ---
@@ -10,7 +10,7 @@ tags:
 
 ## The Core Thesis: Fossil Fuel Depletion and Energy Descent
 
-Holmgren's central argument is straightforward but radical: industrial civilization is fundamentally dependent on fossil fuels, and fossil fuels are finite. The assumption that technological innovation and market forces will seamlessly replace fossil fuels with renewable alternatives is, in Holmgren's view, dangerously optimistic. Instead, he argues that society should prepare for a future in which less energy is available per capita, requiring fundamental restructuring of how we produce food, build shelter, and organize communities.
+Holmgren"s central argument is straightforward but radical: industrial civilization is fundamentally dependent on fossil fuels, and fossil fuels are finite. The assumption that technological innovation and market forces will seamlessly replace fossil fuels with renewable alternatives is, in Holmgren's view, dangerously optimistic. Instead, he argues that society should prepare for a future in which less energy is available per capita, requiring fundamental restructuring of how we produce food, build shelter, and organize communities.
 
 ### The Energy Descent Trajectory
 
@@ -39,7 +39,7 @@ A major intellectual influence on Holmgren's thinking is **Howard T. Odum** (192
 - **EMERGY analysis:** A method of accounting for all the energy that has gone into producing a good or service, including the solar energy embodied in natural resources. This analysis reveals that many "renewable" energy sources require enormous fossil fuel inputs that are not captured by conventional energy accounting.
 - **Energy hierarchy:** Energy quality varies, with more concentrated and controllable forms of energy (electricity, fossil fuels) being capable of doing more work than diffuse forms (sunlight, wind). The transition to lower-quality energy sources necessarily means doing less work—unless efficiency improves dramatically.
 
-Odum's work taught Holmgren to think in terms of **energy budgets** for ecosystems and human societies. Every agricultural system, building, or technology has an energy cost that must be paid from somewhere. Permaculture design aims to minimize these costs by working with natural energy flows rather than against them.
+Odum"s work taught Holmgren to think in terms of **energy budgets** for ecosystems and human societies. Every agricultural system, building, or technology has an energy cost that must be paid from somewhere. Permaculture design aims to minimize these costs by working with natural energy flows rather than against them.
 
 ## Green Tech Optimists vs. Permaculture's Radical Preparation
 

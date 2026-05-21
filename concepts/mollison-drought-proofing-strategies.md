@@ -34,7 +34,7 @@ availability.
 
 ## Keyline Systems for Drought-Proofing
 
-P.A. Yeomans' "Keyline" system provides drought-proofing for farms by
+P.A. Yeomans" "Keyline" system provides drought-proofing for farms by
 using gravity-fed water distribution across the landscape. The Keyline
 plan, written in 1954, is the pioneering modern text on [[fukuoka-textdoc-shelterbelt-design-environmental-tree-planting]], soil treatment, and fencing alignment, making
 it the first book on functional landscape design in modern times.

@@ -4,7 +4,7 @@ source: mckenna_t-food_of_the_gods.md
 type: concept
 ---
 
-## McKenna's Archaic Revival and Dominator Culture Theory
+## McKenna"s Archaic Revival and Dominator Culture Theory
 
 In *Food of the Gods*, [[terence-mckenna]] presents a sweeping theory of human cultural evolution organized around a central dichotomy: the **partnership society** (Archaic, goddess-worshipping, plant-using) versus the **dominator society** (patriarchal, hierarchical, alcohol-fueled). This framework explains the historical suppression of visionary plants and the rise of what McKenna called "pathological monotheism."
 
@@ -47,7 +47,7 @@ As the Sahara dried and grasslands expanded, nomadic pastoralism replaced settle
 Fermentation of grain and grapes produced alcohol, which McKenna argues became the psychoactive substance of dominator culture. Unlike psilocybin:
 - Alcohol **reinforces ego boundaries** rather than dissolving them
 - Alcohol promotes **aggression, dominance displays, and territoriality**
-- Alcohol is **compatible with hierarchy** — it enhances the individual's sense of separateness
+- Alcohol is **compatible with hierarchy** — it enhances the individual"s sense of separateness
 - Alcohol became associated with **male-dominated ritual** (the symposium, the mead hall)
 
 ### 3. The Rise of Kingship and the Male God
@@ -75,7 +75,7 @@ McKenna's most provocative argument is that **monotheism** became the psychologi
 - The abstract male god becomes a narcissistic mirror for the dominator ego
 - Science inherits both the explanatory power and the moral bankruptcy of this model
 
-## The Four Stages of McKenna's History
+## The Four Stages of McKenna"s History
 
 McKenna organizes human drug-using history into four epochs:
 
@@ -102,7 +102,7 @@ McKenna organizes human drug-using history into four epochs:
 
 ## The Archaic Revival
 
-McKenna's proposed solution is the "Archaic Revival" — a conscious return to partnership values:
+McKenna"s proposed solution is the "Archaic Revival" — a conscious return to partnership values:
 - Reintegration of visionary plant experiences into culture
 - Recovery of the "lost feminine" — valuing emotion, nature, and community
 - Rejection of dominator hierarchy in favor of egalitarian partnership

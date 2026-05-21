@@ -36,7 +36,7 @@ most neoshamanic medicine circles:
   typically holds objects of personal and spiritual significance.
 
 - **Experienced guidance**: An experienced elder or guide presides, sometimes
-  with one or more assistants. The guide's role combines elements of the
+  with one or more assistants. The guide"s role combines elements of the
   traditional shaman (ceremony leader, singer) and the Western therapist
   (facilitator, holder of space).
 

@@ -23,7 +23,7 @@ through a language that cannot be translated into ordinary speech.
 
 This translinguistic matter operates at a level prior to and more
 fundamental than ordinary language. McKenna described it as "the assembly
-language that lies behind language," comparable to [[mckenna-glossolalia-and-primal-language-tryptamine-states]] in The [[mckenna-philo-judaeus-logos-hearing-to-beholding]]'s description of the Logos: a transition
+language that lies behind language," comparable to [[mckenna-glossolalia-and-primal-language-tryptamine-states]] in The [[mckenna-philo-judaeus-logos-hearing-to-beholding]]"s description of the Logos: a transition
 "from things heard to things beheld." In the tryptamine state, language
 becomes visible. One does not merely hear the Logos; one sees it
 manifesting as three-dimensional forms, as evolving surfaces, as

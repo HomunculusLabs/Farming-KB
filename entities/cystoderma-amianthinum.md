@@ -10,7 +10,7 @@ tags:
   - edible-mushroom
   - saprotrophic
 sources:
-  - Bon M. (1988). "Guide des champignons d'Europe." Delachaux et Niestlé.
+  - Bon M. (1988). "Guide des champignons d"Europe." Delachaux et Niestlé.
 ---
 
 ## Cystoderma amianthinum

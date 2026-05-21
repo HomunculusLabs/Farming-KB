@@ -10,7 +10,7 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Aplin, D. (2002). "Fritillaries: A Grower's Guide." Bentham-Moxham Trust.
+  - Aplin, D. (2002). "Fritillaries: A Grower"s Guide." Bentham-Moxham Trust.
 ---
 
 ## Overview

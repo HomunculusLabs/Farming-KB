@@ -46,7 +46,7 @@ When a plant is attacked by caterpillars, it releases VOCs that:
 2. **Attract parasitic wasps** that lay eggs in the caterpillars
 3. **Signal mycorrhizal networks** to share resources with stressed plants
 
-This is why companion planting partially works — nearby plants can "eavesdrop" on each other's alarm signals.
+This is why companion planting partially works — nearby plants can "eavesdrop" on each other"s alarm signals.
 
 ## Biological Defenses
 

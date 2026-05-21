@@ -10,7 +10,7 @@ sources: [raw/papers/working-with-agar.md]
 
 ## Overview
 
-Bioisosteres are atoms, functional groups, rings, or fragments that can replace one another while preserving or improving a molecule's biological behavior. The replacement is not merely decorative; it is a deliberate [[md-family-structure-activity]] relationship medicinal chemistry strategy for changing potency, selectivity, solubility, permeability, metabolism, or toxicity.
+Bioisosteres are atoms, functional groups, rings, or fragments that can replace one another while preserving or improving a molecule"s biological behavior. The replacement is not merely decorative; it is a deliberate [[md-family-structure-activity]] relationship medicinal chemistry strategy for changing potency, selectivity, solubility, permeability, metabolism, or toxicity.
 
 A successful bioisosteric substitution keeps the interactions needed for target recognition while altering liabilities that prevent a lead compound from becoming a useful drug. Bioisosterism sits at the boundary of mollison-soil-elements-periodic-table rule.
 

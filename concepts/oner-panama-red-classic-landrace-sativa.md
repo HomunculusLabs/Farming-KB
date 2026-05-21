@@ -18,11 +18,11 @@ the gold standard of classic sativa experiences. The strain represents a
 bygone era of [[neurotropic-fungi-in-central-america]] that
 gained legendary status during the 1960s and 1970s. It was one of the most
 sought-after imported cannabis varieties of its era, commonly available
-through distribution networks that brought Central and [[growing-gourmet-north-american-reishi-species]] consumers. The Rev describes it as "everyone's
+through distribution networks that brought Central and [[growing-gourmet-north-american-reishi-species]] consumers. The Rev describes it as "everyone"s
 favorite when it was available" among the outdoor growers and breeders who
 were working with landrace genetics in the 1970s and 1980s.
 
-## DJ Short's Assessment
+## DJ Short"s Assessment
 
 The Rev quotes legendary breeder DJ Short's description of Panama Red as "the
 tequila of weed." This comparison captures several key characteristics:
@@ -38,7 +38,7 @@ tequila of weed." This comparison captures several key characteristics:
   only partial genetic contribution from the original landrace, crossed with
   faster-flowering varieties to make them commercially viable.
 - **Irreplaceable genetics**: The Rev states that "if you ever smoked a real
-  deal Panama Red, you wouldn't forget it for the rest of your life." This
+  deal Panama Red, you wouldn"t forget it for the rest of your life." This
   suggests the original genetics possessed qualities that have not been
   successfully replicated in modern hybrids.
 

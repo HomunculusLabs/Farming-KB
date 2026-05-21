@@ -26,7 +26,7 @@ sources:
 
 # Fertilizer NPK Decoded
 
-Understanding NPK numbers, what each macronutrient does, common organic and synthetic fertilizer values, and how to calculate application rates for your garden. See [[soil-fertility-management]] for Solomon's COF recipe and [[cannabis-plant-nutrition]] for cannabis-specific needs.
+Understanding NPK numbers, what each macronutrient does, common organic and synthetic fertilizer values, and how to calculate application rates for your garden. See [[soil-fertility-management]] for Solomon"s COF recipe and [[cannabis-plant-nutrition]] for cannabis-specific needs.
 
 ---
 

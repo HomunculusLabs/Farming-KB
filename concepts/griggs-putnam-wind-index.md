@@ -10,7 +10,7 @@ type: concept
 
 The **[[griggs-and-putnam-index]]** (G) is a field-based scale that assesses wind speed by observing the physical deformation of trees. Because trees permanently record the effects of prevailing winds in their growth form, they serve as living anemometers — providing reliable site-level wind data without instruments.
 
-The index was developed from work by Wade and Hewson (1979) at Oregon State University's Department of Atmospheric Sciences, and correlates tree deformation with annual mean wind speed with approximately **17% accuracy**.
+The index was developed from work by Wade and Hewson (1979) at Oregon State University"s Department of Atmospheric Sciences, and correlates tree deformation with annual mean wind speed with approximately **17% accuracy**.
 
 ## The Scale
 

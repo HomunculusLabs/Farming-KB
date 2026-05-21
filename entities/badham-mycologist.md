@@ -10,7 +10,7 @@ type: entity
 
 Badham was an English mycologist and author of the 19th century, listed by [[julius-auboineau-palmer]] as one of the few English authorities on fungi. Palmer names Badham alongside Cooke, Berkeley, Smith, and Hussey as the principal English experts on this "[[neglected-science-of-mycology]]" of mycology.
 
-Badham's inclusion in this select group indicates that his published works were considered essential references by American mycologists studying [[fungal-identification-and-biodiversity-assessment]] classification.
+Badham"s inclusion in this select group indicates that his published works were considered essential references by American mycologists studying [[fungal-identification-and-biodiversity-assessment]] classification.
 
 ## Classification
 

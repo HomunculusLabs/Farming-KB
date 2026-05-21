@@ -9,7 +9,7 @@ tags: [herb, resource-crop, distillation, licorice, permaculture, high-value]
 
 ## Description
 
-Fennel is a perennial herb in the carrot family, often considered a rampant weed on neglected agricultural land. In Mollison's [[permaculture-design]] Course, fennel is presented as a paradigmatic example of unrecognized on-site wealth—he recounts a client with an 18-acre city farm covered in fennel, which the client planned to clear for orchard establishment. Mollison's insight was that steam distillation of fennel produces a fraction that is the basis for licorice flavoring, transforming a "weed problem" into the farm's most valuable asset that could finance development of the rest of the property.
+Fennel is a perennial herb in the carrot family, often considered a rampant weed on neglected agricultural land. In Mollison"s [[permaculture-design]] Course, fennel is presented as a paradigmatic example of unrecognized on-site wealth—he recounts a client with an 18-acre city farm covered in fennel, which the client planned to clear for orchard establishment. Mollison's insight was that steam distillation of fennel produces a fraction that is the basis for licorice flavoring, transforming a "weed problem" into the farm's most valuable asset that could finance development of the rest of the property.
 
 ## Classification
 

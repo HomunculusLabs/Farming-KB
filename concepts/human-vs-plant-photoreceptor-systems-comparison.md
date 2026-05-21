@@ -10,8 +10,8 @@ created: 2026-05-09
 
 ## Defining Vision
 
-Daniel Chamovitz's "What a Plant Knows" opens with a provocative claim: "plants
-see you." While plants don't see in pictures the way humans do, they possess
+Daniel Chamovitz"s "What a Plant Knows" opens with a provocative claim: "plants
+see you." While plants don"t see in pictures the way humans do, they possess
 sophisticated light-sensing systems that merit the term "vision." Chamovitz
 constructs an analogy: imagine a person born totally blind being given first the
 ability to discriminate between light and shadow, then colour. Each step would

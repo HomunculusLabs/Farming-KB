@@ -23,7 +23,7 @@ Liquid fertiliser is made by steeping plants (often considered weeds) in water u
 
 Almost all locally growing plants are suitable. Select plants containing certain substances -- essential oils, bitter substances, and poisons. It makes no sense to import plants from far away.
 
-### Holzer's Preferred Mixture
+### Holzer"s Preferred Mixture
 
 - **Nettles** (*[[urtica-dioica]]*, *Urtica urens*) -- provides nitrogen; strengthens plants; effective against aphids (the smell and burning effect of the nettle's poison deters them). Good for vigorous vegetables like courgettes, cucumbers, and cabbage. Do not use on low-nutrient plants like peas and beans (risk of overfertilising).
 - **Comfrey** (*[[symphytum-officinale]]*, *Symphytum x uplandicum*) -- provides potash

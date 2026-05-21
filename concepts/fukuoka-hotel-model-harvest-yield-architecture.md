@@ -1,11 +1,11 @@
 ---
-title: "Fukuoka's Hotel Model of Harvest Yields"
+title: "Fukuoka"s Hotel Model of Harvest Yields"
 tags:
   - concept
 ---
 
 ## Source
-*[[fukuoka-illusions-scientific-farming-centrifugal-centripetal-model]]'s
+*[[fukuoka-illusions-scientific-farming-centrifugal-centripetal-model]]"s
 attempts to boost crop yields through isolated factor improvements are fundamentally
 misguided. In his "hotel model," the maximum possible yield is represented by a building
 whose size and foundation are determined by the natural environment. Individual cultivation

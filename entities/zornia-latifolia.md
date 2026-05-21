@@ -10,7 +10,7 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Lewis, W.H. & Elvin-Lewis, M.P.F. (1977). "Medical Botany: Plants Affecting Man's Health." John Wiley & Sons.
+  - Lewis, W.H. & Elvin-Lewis, M.P.F. (1977). "Medical Botany: Plants Affecting Man"s Health." John Wiley & Sons.
 ---
 
 ## Overview

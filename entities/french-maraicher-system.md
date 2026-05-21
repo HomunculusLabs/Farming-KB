@@ -8,7 +8,7 @@ created: 2026-05-13
 
 ## Description
 
-The French *maraîcher* system was an [[french-intensive-market-gardening]] tradition practiced in and around Paris from approximately 1850 to 1900, with surviving practitioners continuing into the late 20th century. The system achieved remarkable levels of year-round vegetable production on very small land areas (typically 1–2 acres per grower) using hotbeds heated by decomposing horse manure, glass cold frames, cloches (bell jars), and meticulous hand-labor techniques. It is considered one of the most productive and sustainable agricultural systems ever devised and served as a primary inspiration for Eliot Coleman's winter-harvest methods.
+The French *maraîcher* system was an [[french-intensive-market-gardening]] tradition practiced in and around Paris from approximately 1850 to 1900, with surviving practitioners continuing into the late 20th century. The system achieved remarkable levels of year-round vegetable production on very small land areas (typically 1–2 acres per grower) using hotbeds heated by decomposing horse manure, glass cold frames, cloches (bell jars), and meticulous hand-labor techniques. It is considered one of the most productive and sustainable agricultural systems ever devised and served as a primary inspiration for Eliot Coleman"s winter-harvest methods.
 
 ## Classification
 

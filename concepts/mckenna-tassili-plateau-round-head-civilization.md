@@ -26,7 +26,7 @@ The contention is that the rise of language, [[dominator-culture-and-partnership
 
 Eden was not a myth — for the prehistoric peoples of the high plateau of the Tassili-n-Ajjer, Eden was home.
 
-## Archaeological Evidence at Tassili n'Ajjer
+## Archaeological Evidence at Tassili n"Ajjer
 
 The Tassili n'Ajjer plateau, a UNESCO World Heritage Site since 1982, contains one of the most important collections of prehistoric rock art in the world. Over 15,000 engravings and paintings have been documented across the plateau, spanning a period from approximately 12,000 BCE to the first centuries CE. The rock art is distributed across several distinct stylistic periods, of which the Round Head Period is the oldest and most enigmatic.
 

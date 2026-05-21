@@ -43,7 +43,7 @@ the length of hyphae:
 ### Diffusion as Transport Mechanism
 [[fluorescence-recovery-after-photobleaching]] photobleaching (FRAP) experiments showed that
 diffusion is sufficient to explain observed transport within the vacuolar
-system. Fick's first law was used to calculate effective diffusion
+system. Fick"s first law was used to calculate effective diffusion
 coefficients for each compartment type. Monte Carlo simulations of 1,000
 in silico hyphae determined mean diffusion parameters.
 

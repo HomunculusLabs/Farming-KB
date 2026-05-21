@@ -9,7 +9,7 @@ tags: [ecosystem, coastal, permaculture, marine-ecology, biodiversity, mangrove]
 
 ## Description
 
-Mangrove ecology is discussed by [[permaculture]]: A Designers' Manual* as an example of how even apparently simple plant associations can support extraordinarily productive and complex animal communities. Mollison uses mangroves to illustrate the principles of [[decomposition]].
+Mangrove ecology is discussed by [[permaculture]]: A Designers" Manual* as an example of how even apparently simple plant associations can support extraordinarily productive and complex animal communities. Mollison uses mangroves to illustrate the principles of [[decomposition]].
 - Mobile species occupy "a great variety of niches in one mangrove tree or swamp stand, from underground to canopy, and of schedules from low to high tide."
 - Mangroves are regularly "obliterated and re-established by a world-wide change due to sea level fluctuation," limiting time for species to develop complex stands.
 - Mangrove leaf decomposition drives a detrital food web that supports fish, crustaceans, molluscs, and birds.

@@ -14,7 +14,7 @@ tags:
 
 ## Description
 
-New Zealand flax is a perennial rush-like plant native to New Zealand that produces high-quality fibre suitable for fabric production. In [[david-holmgren]]'s *[[permaculture]]: Principles and Pathways Beyond Sustainability*, it is highlighted as a prime example of a slow-growing perennial crop that can substitute for environmentally damaging annual fibre crops, particularly cotton. It was grown in Tasmania during World War II and is widely adaptable to seasonally wet bottomland in high-rainfall southern Australian regions.
+New Zealand flax is a perennial rush-like plant native to New Zealand that produces high-quality fibre suitable for fabric production. In [[david-holmgren]]"s *[[permaculture]]: Principles and Pathways Beyond Sustainability*, it is highlighted as a prime example of a slow-growing perennial crop that can substitute for environmentally damaging annual fibre crops, particularly cotton. It was grown in Tasmania during World War II and is widely adaptable to seasonally wet bottomland in high-rainfall southern Australian regions.
 
 ## Classification
 

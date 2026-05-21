@@ -3,7 +3,7 @@ title: "How Do I Grow and Use Dandelion in My Garden?"
 tags: [query, dandelion, edible-weeds, medicinal-herbs, permaculture]
 date: 2026-05-19
 updated: 2026-05-19
-sources: ['raw/papers/what-a-plant-knows-daniel-chamovitz.md']
+sources: ["raw/papers/what-a-plant-knows-daniel-chamovitz.md']
 ---
 
 # How Do I Grow and Use Dandelion in My Garden?
@@ -53,7 +53,7 @@ Dandelion petals mixed into pancake batter or sprinkled over rice dishes add col
 Dandelion has a long history in herbal medicine as a liver tonic, diuretic, and digestive aid.
 The leaves are rich in vitamins A, C, and K plus significant amounts of iron, calcium, and potassium.
 Root preparations support liver function and gallbladder health, often prepared as tinctures or decoctions.
-The plant's diuretic properties help with water retention while simultaneously replenishing potassium lost through increased urination.
+The plant"s diuretic properties help with water retention while simultaneously replenishing potassium lost through increased urination.
 Dandelion also contains potent antioxidants including luteolin and chicoric acid that combat inflammation.
 
 ### Dandelions in Permaculture Design

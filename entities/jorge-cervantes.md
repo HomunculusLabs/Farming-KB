@@ -8,7 +8,7 @@ subtype: horticulture author
 aliases:
   - George Van Patten
   - Jorge Cervantes
-  - Jorge's Rx
+  - Jorge"s Rx
 born: 1953
 nationality: American
 fields:
@@ -39,7 +39,7 @@ tags:
 Jorge Cervantes is the pen name of George Van Patten, an American horticulturist, publisher, photographer, and writer best known for cannabis cultivation manuals.
 He became influential because his books translated practical indoor, outdoor, greenhouse, and guerrilla-garden experience into repeatable horticultural instructions.
 His work is frequently cited in cultivation pages on [[cervantes-perpetual-harvest-cycle]] scheduling.
-Cervantes is especially associated with *Marijuana Horticulture: The Indoor/Outdoor Medical Grower's Bible*, a book that helped standardize cannabis grower vocabulary in the late twentieth and early twenty-first centuries.
+Cervantes is especially associated with *Marijuana Horticulture: The Indoor/Outdoor Medical Grower"s Bible*, a book that helped standardize cannabis grower vocabulary in the late twentieth and early twenty-first centuries.
 The name "Jorge Cervantes" functions as both an author identity and a brand for instructional cannabis horticulture.
 Because he wrote for growers rather than only for botanists, his importance is practical: lighting, air movement, substrate, pruning, propagation, harvest, drying, and troubleshooting.
 
@@ -50,7 +50,7 @@ As a young person he worked for *The Argus Observer*, where he learned photograp
 Those publishing skills later mattered because his early books depended on self-printing, visual explanation, and distribution outside conventional horticultural publishing channels.
 He studied abroad at the University of Valencia in Spain and at the University of the Americas in Puebla, Mexico.
 His time in Mexico contributed to a long-standing interest in [[query-how-to-set-up-an-indoor-cannabis-grow-on-a-budget]] cultivation was scarce.
-The book became known among growers as the "Indoor Grower's Bible" and was later expanded into *Marijuana Horticulture*.
+The book became known among growers as the "Indoor Grower"s Bible" and was later expanded into *Marijuana Horticulture*.
 Its appeal came from concrete instructions: light placement, ventilation, soil and hydroponic media, propagation, pruning, pest management, [[cannabis-hid-lighting-specifications]], [[growing-gourmet-growing-room-ventilation-air-exchange]], odor, temperature, humidity, and cleanliness as central design variables rather than afterthoughts.
 Many concept pages derived from his work discuss pest identification and control, including spider mites, fungus gnats, thrips, and biological controls.
 

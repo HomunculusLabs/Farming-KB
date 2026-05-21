@@ -10,7 +10,7 @@ sources:
 
 # White Clover Ground Cover
 
-## Fukuoka's Clover Revolution
+## Fukuoka"s Clover Revolution
 
 [[masanobu-fukuoka]] called his no-till rice and barley system the "clover revolution" because it enabled farming without any pesticides or chemical fertilizers. White clover (ladino clover) serves as a permanent living ground cover in his direct-seeding, no-tillage rice/barley succession system.
 
@@ -39,7 +39,7 @@ sources:
 
 Broadcasting directly over the maturing heads of rice requires less work and is beneficial for germination, seedling growth, and weed control. When seeded this way, clover and barley readily germinate because of the high soil moisture, and winter weeds have not yet appeared.
 
-## Hemenway's Perspective
+## Hemenway"s Perspective
 
 [[toby-hemenway]] describes Fukuoka's method as "a great example of stacking functions":
 - Greenery suppresses weeds

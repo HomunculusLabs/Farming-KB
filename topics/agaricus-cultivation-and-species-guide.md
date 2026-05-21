@@ -1,7 +1,7 @@
 ---
 title: "Agaricus Cultivation and Species Guide"
 ---
-subtitle: "Comprehensive guide to the biology, composting, cultivation methods, and species diversity of the world's most important cultivated mushroom genus"
+subtitle: "Comprehensive guide to the biology, composting, cultivation methods, and species diversity of the world"s most important cultivated mushroom genus"
 tags: [mushrooms, cultivation, composting, mycology, agaricus, medicinal-fungi, species-guide]
 date: 2026-05-08
 updated: 2026-05-08

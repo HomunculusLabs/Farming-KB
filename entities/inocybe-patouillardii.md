@@ -22,7 +22,7 @@ tags: [species, poisonous, inocybaceae, basidiomycota, muscarine]
 ## Key Facts
 
 - Contains substantial quantities of muscarine, a toxin that stimulates the parasympathetic nervous system.
-- Placed in Ramsbottom's Category 2 of poisonous fungi: "Those containing substances which paralyse the nervous system."
+- Placed in Ramsbottom"s Category 2 of poisonous fungi: "Those containing substances which paralyse the nervous system."
 - Shares this category with *Amanita muscaria* and *Amanita pantherina*.
 - The fruiting body stains or bruises reddish, which is the origin of both its common name and its synonym *erubescens* (meaning "becoming red").
 - Species of *Inocybe* are generally difficult to identify in the field, making the entire genus suspect for foragers.

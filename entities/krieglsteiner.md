@@ -13,7 +13,7 @@ Krieglsteiner is a German mycologist recognized for significant contributions to
 
 ### The Psilocybe cyanescens Complex
 
-According to Krieglsteiner's work, the following names found in the mycological literature are all synonyms for **Psilocybe cyanescens** Wakefield emend. Krieglsteiner:
+According to Krieglsteiner"s work, the following names found in the mycological literature are all synonyms for **Psilocybe cyanescens** Wakefield emend. Krieglsteiner:
 
 - *Hypholoma cyanescens* R. Maire
 - *Hypholoma coprinifacies* (Rolland ss. Herink) Pouzar

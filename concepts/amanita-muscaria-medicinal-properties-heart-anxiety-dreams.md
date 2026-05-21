@@ -24,7 +24,7 @@ calcification and blockage.
 
 Beyond direct antimicrobial action, stress reduction is itself profoundly
 cardioprotective. Chronic stress elevates cortisol, raises blood pressure, promotes
-inflammation, and accelerates arterial damage. AM's calming, de-stressing effects would
+inflammation, and accelerates arterial damage. AM"s calming, de-stressing effects would
 therefore confer secondary cardiovascular benefits simply by reducing the physiological
 wear of chronic stress on the heart and vascular system. The combination of direct
 anti-nanobacterial action and systemic stress reduction positions AM as a uniquely
@@ -66,7 +66,7 @@ The mechanism behind this anti-anxiety effect is likely rooted in GABA-A recepto
 agonism. Muscimol, the primary psychoactive compound in properly prepared AM, is a
 potent GABA-A receptor agonist. This is the same receptor system targeted by
 benzodiazepine drugs such as diazepam (Valium) and alprazolam (Xanax), which are among
-the most widely prescribed anti-anxiety medications in modern medicine. Muscimol's
+the most widely prescribed anti-anxiety medications in modern medicine. Muscimol"s
 action at this receptor explains AM's calming, sedative, and anxiolytic effects through
 a well-understood neurological pathway.
 
@@ -78,7 +78,7 @@ states during waking consciousness. This dream-enhancing property connects AM to
 its most ancient and culturally significant uses.
 
 Ancient "seers" and prophets across many traditions may have used AM to induce
-prophetic or divinatory dreams. The mushroom's ability to produce visionary experiences
+prophetic or divinatory dreams. The mushroom"s ability to produce visionary experiences
 [[shamanic-entheogenic-healing-rituals]]. The [[harner-shamanic-journey-and-altered-states]], conducted in altered states induced
 by AM, was understood as travel to other realms where knowledge, healing, and prophecy
 could be obtained — experiences mediated by the mushroom's dream-promoting properties.
@@ -113,7 +113,7 @@ infections, relieve pain, calm the mind, reduce inflammation, improve sleep, and
 facilitate visionary experiences — all with a single medicine.
 
 Ancient healers using AM would appear to perform miracles across many different
-conditions precisely because the mushroom's effects are so diverse. An infection that
+conditions precisely because the mushroom"s effects are so diverse. An infection that
 seemed incurable would respond to AM's [[amanita-muscaria-antibiotic-properties-nanobacteria-fungal-medicine]]. A patient in agony
 would find relief from its analgesic action. A person consumed by anxiety or spiritual
 distress would be calmed and transported to a peaceful state. A heart weakened by

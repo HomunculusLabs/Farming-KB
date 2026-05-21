@@ -9,7 +9,7 @@ tags: [person, psychiatrist, ayahuasca, yage, hallucinogen-research]
 
 ## Description
 
-Claudio Naranjo is a Chilean-American psychiatrist and psychotherapist known for his pioneering research on the psychological effects of hallucinogenic substances, particularly yagé ([[ayahuasca]]) and other psychedelics. In Harner's *[[hallucinogens-and-shamanism]]* (1973), he contributes a chapter on the psychological aspects of the yagé experience in an experimental setting.
+Claudio Naranjo is a Chilean-American psychiatrist and psychotherapist known for his pioneering research on the psychological effects of hallucinogenic substances, particularly yagé ([[ayahuasca]]) and other psychedelics. In Harner"s *[[hallucinogens-and-shamanism]]* (1973), he contributes a chapter on the psychological aspects of the yagé experience in an experimental setting.
 
 ## Classification
 
@@ -23,8 +23,8 @@ Claudio Naranjo is a Chilean-American psychiatrist and psychotherapist known for
 - Author of "Psychological Aspects of the Yagé Experience in an Experimental Setting" — Chapter 10 of Harner (1973).
 - Collected sketches and ethnographic materials from his research, some of which are reproduced in *Hallucinogens and [[shamanism]]* (pages 186–87).
 - His work represents one of the earliest attempts to study the **psychological dimensions** of the ayahuasca/yagé experience under controlled, experimental conditions.
-- Naranjo's research bridged **traditional indigenous use** with modern clinical and psychological investigation of hallucinogens.
-- His contribution is positioned in the volume's final section, "Hallucinogens and Shamanism: The Question of a Trans-Cultural Experience," alongside Harner's chapter on common themes in South American Indian yagé experiences.
+- Naranjo"s research bridged **traditional indigenous use** with modern clinical and psychological investigation of hallucinogens.
+- His contribution is positioned in the volume's final section, "Hallucinogens and Shamanism: The Question of a Trans-Cultural Experience," alongside Harner"s chapter on common themes in South American Indian yagé experiences.
 
 ## Research Significance
 

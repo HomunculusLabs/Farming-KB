@@ -8,14 +8,14 @@ type: concept
 
 ## Overview
 
-The nutritional quality of vegetables is directly determined by the mineral balance and biological activity of the soil in which they grow. This relationship, explored by researchers like [[william-albrecht]] and Krasil'nikov, reveals that simply adding organic matter is not sufficient — the specific mineral balance matters enormously for producing truly nutritious food.
+The nutritional quality of vegetables is directly determined by the mineral balance and biological activity of the soil in which they grow. This relationship, explored by researchers like [[william-albrecht]] and Krasil"nikov, reveals that simply adding organic matter is not sufficient — the specific mineral balance matters enormously for producing truly nutritious food.
 
 ## How Plants Absorb Nutrients
 
 Plants absorb nutrients primarily through two mechanisms:
 
 1. **Root interception**: Roots grow through soil and directly contact mineral particles
-2. **Soil ecology (mycorrhizal "vitamins")**: A complex community of soil microorganisms — bacteria, fungi, actinomycetes — decompose organic matter and mineral particles, making nutrients available in forms plants can absorb. Russian researcher Krasil'nikov called these microbial exudates "vitamins" for plants
+2. **Soil ecology (mycorrhizal "vitamins")**: A complex community of soil microorganisms — bacteria, fungi, actinomycetes — decompose organic matter and mineral particles, making nutrients available in forms plants can absorb. Russian researcher Krasil"nikov called these microbial exudates "vitamins" for plants
 
 [[soil-food-web]] is therefore essential. Chemical fertilizers that bypass this biology may produce bulk growth but often result in nutritionally inferior crops.
 

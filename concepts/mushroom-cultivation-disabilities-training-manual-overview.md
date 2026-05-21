@@ -10,7 +10,7 @@ tags: [cultivation, mushroom-cultivation]
 
 ## Mushroom Cultivation for Disabilities Training Manual - Overview
 
-The FAO Regional Office for Asia and the Pacific published RAP Publication 2001/12: "Mushroom Cultivation for People with Disabilities -- A Training Manual," written by Johanne Hanko with technical cultivation procedures developed by Thai mushroom expert Satit Thaithatgoon and Prasert Wuthikamphee of the Ministry of Agriculture and Cooperatives, Thailand. The manual documents a pilot training programme carried out in Ubon Ratchathani province, northeastern Thailand, under FAO's Technical Cooperation Programme (TCP/THA/8821(A)).
+The FAO Regional Office for Asia and the Pacific published RAP Publication 2001/12: "Mushroom Cultivation for People with Disabilities -- A Training Manual," written by Johanne Hanko with technical cultivation procedures developed by Thai mushroom expert Satit Thaithatgoon and Prasert Wuthikamphee of the Ministry of Agriculture and Cooperatives, Thailand. The manual documents a pilot training programme carried out in Ubon Ratchathani province, northeastern Thailand, under FAO"s Technical Cooperation Programme (TCP/THA/8821(A)).
 
 ## Purpose and Context
 

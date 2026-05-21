@@ -9,7 +9,7 @@ tags: [person, translator, mazatec, huautla, linguist, ethnographic-collaborator
 
 ## Description
 
-Eloina Estrada de Gonzalez was a bilingual Mazatec woman from Huautla de Jiménez who served as the translator for Henry Munn's ethnographic research on Mazatec mushroom shamanism. She was the niece of the shaman Roman Estrada and translated the recorded shamanic discourses from the native Mazatec language (a tonal language) into Spanish, phrase by phrase, enabling Munn's analysis. She also served as the questioner during the interview with her uncle about his shamanic vocation and practices, making her a pivotal figure in the documentation of Mazatec mushroom traditions.
+Eloina Estrada de Gonzalez was a bilingual Mazatec woman from Huautla de Jiménez who served as the translator for Henry Munn"s ethnographic research on Mazatec mushroom shamanism. She was the niece of the shaman Roman Estrada and translated the recorded shamanic discourses from the native Mazatec language (a tonal language) into Spanish, phrase by phrase, enabling Munn's analysis. She also served as the questioner during the interview with her uncle about his shamanic vocation and practices, making her a pivotal figure in the documentation of Mazatec mushroom traditions.
 
 ## Classification
 
@@ -38,7 +38,7 @@ Eloina Estrada de Gonzalez represents a critical but often overlooked figure in 
 
 ## Linguistic Significance
 
-The Mazatec language is tonal, meaning that pitch contours carry lexical and grammatical meaning. Translating shamanic discourse from a tonal language into Spanish involves not merely linguistic conversion but cultural interpretation. The rhythmic, chanted quality of the original — with its characteristic repetition of "tzo" (says) as a rhythmic punctuation — cannot be fully captured in translation. Estrada de Gonzalez's work preserved the content of the discourses while necessarily sacrificing some of their musical and prosodic qualities. The Mazatec language belongs to the Otomanguean language family, one of the oldest and most diverse language families in Mesoamerica.
+The Mazatec language is tonal, meaning that pitch contours carry lexical and grammatical meaning. Translating shamanic discourse from a tonal language into Spanish involves not merely linguistic conversion but cultural interpretation. The rhythmic, chanted quality of the original — with its characteristic repetition of "tzo" (says) as a rhythmic punctuation — cannot be fully captured in translation. Estrada de Gonzalez"s work preserved the content of the discourses while necessarily sacrificing some of their musical and prosodic qualities. The Mazatec language belongs to the Otomanguean language family, one of the oldest and most diverse language families in Mesoamerica.
 
 ## References
 

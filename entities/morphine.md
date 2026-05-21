@@ -69,7 +69,7 @@ Friedrich Sertürner isolated morphine in 1804 and named it after Morpheus, the 
 
 The invention of the hypodermic syringe in the 1850s enabled parenteral morphine administration, dramatically increasing its therapeutic utility and abuse potential.
 
-Morphine addiction became widespread during and after the American Civil War, known as "soldier's disease."
+Morphine addiction became widespread during and after the American Civil War, known as "soldier"s disease."
 
 ## Overview
 

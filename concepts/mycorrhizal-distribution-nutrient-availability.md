@@ -10,7 +10,7 @@ type: concept
 and their distribution across global ecosystems is closely tied to soil nutrient conditions.
 Understanding which [[mycorrhizal-types]] dominate in which environments provides fundamental
 insight into ecosystem function, nutrient cycling, and plant community structure. This
-concept is anchored by Read's (1991) influential geographic framework, which linked
+concept is anchored by Read"s (1991) influential geographic framework, which linked
 mycorrhizal type distribution to a latitudinal gradient of soil nutrient availability and
 organic matter accumulation.
 
@@ -63,7 +63,7 @@ the plant for improved nutrient acquisition. This complicates experimental asses
 as studies relying solely on visible colonization markers may systematically underestimate
 mycorrhizal benefits.
 
-## Read's (1991) Geographic Distribution Framework
+## Read"s (1991) Geographic Distribution Framework
 
 David Read's 1991 framework proposes that the dominant mycorrhizal type in an ecosystem
 reflects the predominant form of soil nutrients available:

@@ -8,7 +8,7 @@ type: concept
 
 The tension between chemical and biological approaches to gardening represents one of the most significant paradigm shifts in modern horticulture. As described in the preface of *Teaming with Microbes* by [[jeff-lowenfels]] and [[wayne-lewis]], many gardeners — including the authors themselves — began as conventional chemical gardeners before discovering the transformative power of soil biology. Their personal journey from chemical dependency to biological gardening illustrates a broader shift that is reshaping how we think about soil, plants, and the relationship between them.
 
-## The Chemical Gardener's Routine
+## The Chemical Gardener"s Routine
 
 The typical suburban gardening routine, as the authors confess from personal experience, involves a predictable annual cycle that mirrors industrial agriculture on a smaller scale:
 - **Carpet-bombing lawns** with water-soluble, high-nitrogen fertilizer at the start of the growing season
@@ -22,7 +22,7 @@ This routine was not unique to the authors — it was and remains the standard p
 
 ## The Central Misconception
 
-Central to the chemical gardening paradigm is a widespread but mistaken assumption: **that nitrogen from an organic source is the same as nitrogen from an inorganic one**. The reasoning is seductively simple: since plants absorb nitrogen as ions (nitrate or ammonium) regardless of the source, the origin of those ions — whether from a blue powder mixed with water or from aged manure — shouldn't matter to the plant.
+Central to the chemical gardening paradigm is a widespread but mistaken assumption: **that nitrogen from an organic source is the same as nitrogen from an inorganic one**. The reasoning is seductively simple: since plants absorb nitrogen as ions (nitrate or ammonium) regardless of the source, the origin of those ions — whether from a blue powder mixed with water or from aged manure — shouldn"t matter to the plant.
 
 This reductionist view ignores several critical differences between chemical and organic nutrient sources:
 - **Release rate**: Synthetic fertilizers dissolve immediately, creating nutrient spikes that can exceed plant absorption capacity, while organic sources release nutrients gradually through biological decomposition
@@ -39,7 +39,7 @@ The authors' conversion from chemical to biological gardening was triggered not 
 
 2. **An unprotected nematode entering a tomato root** — without the protective fungal barrier, the nematode was free to penetrate the root and feed on plant tissue.
 
-These images led to a cascade of questions that ultimately transformed the authors' understanding of gardening: How did the fungus kill the nematode? What attracted the blind nematode to the fungal rings? Why was one nematode killed while another was unimpeded? Most importantly: **what killed the protective fungus in the second photo?**
+These images led to a cascade of questions that ultimately transformed the authors" understanding of gardening: How did the fungus kill the nematode? What attracted the blind nematode to the fungal rings? Why was one nematode killed while another was unimpeded? Most importantly: **what killed the protective fungus in the second photo?**
 
 The answer, they discovered through the work of Dr. [[elaine-ingham]], was their own gardening practices. The synthetic fertilizers and pesticides they had been applying were destroying the very soil organisms that protect plants — the fungal hyphae, beneficial bacteria, and predatory nematodes that form the front line of plant defense.
 
@@ -56,13 +56,13 @@ Water-soluble synthetic fertilizers create osmotic shock that kills soil microor
 
 ### Pesticide Damage
 Pesticides are often non-selective — they kill beneficial organisms along with target pests. When a pesticide application wipes out soil biology, the consequences are predictable and well-documented:
-- **Beneficial organisms recover more slowly** than pests, creating an ecological vacuum that opportunistic harmful organisms fill first. As Ingham's foreword asks: "who would come back faster if your neighborhood was turned into a chemical war zone? Opportunistic marauders and looters, that's who."
+- **Beneficial organisms recover more slowly** than pests, creating an ecological vacuum that opportunistic harmful organisms fill first. As Ingham's foreword asks: "who would come back faster if your neighborhood was turned into a chemical war zone? Opportunistic marauders and looters, that"s who."
 - **Plant defenses are stripped away** — the "National Guard" of the soil (predatory nematodes, competing bacteria, protective fungi) is eliminated along with the target pests
 - **Disease suppression is lost** — the competition and predation that kept pathogens in check is removed, leaving plants vulnerable
 - **Nutrient cycling slows dramatically** — without decomposers, organic matter accumulates without releasing its nutrients, and plants become dependent on external inputs
 
 ### The Compounding Problem
-Perhaps most damaging is the compounding nature of chemical inputs. A single pesticide application might kill thousands of beneficial organisms. But in conventional gardening, chemicals are applied repeatedly throughout the season and year after year. The first application removes the soil's "National Guard"; subsequent applications prevent their recovery. The soil food web never has a chance to rebuild.
+Perhaps most damaging is the compounding nature of chemical inputs. A single pesticide application might kill thousands of beneficial organisms. But in conventional gardening, chemicals are applied repeatedly throughout the season and year after year. The first application removes the soil"s "National Guard"; subsequent applications prevent their recovery. The soil food web never has a chance to rebuild.
 
 ## The Biological Alternative
 

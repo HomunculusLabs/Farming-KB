@@ -17,7 +17,7 @@ sources: ["domain-knowledge"]
 - Lifespan: Long-lived; specimens exceeding 500 years documented in Europe
 - Primary importance: Ornamental landscaping, medicinal flower harvest, beekeeping forage
 - Medicinal part: Dried flowers and bracts (Tiliae flos), harvested in early summer at peak bloom
-- Cultivars: 'Greenspire', 'Chancellor', 'Euclid', 'Norlin' widely planted
+- Cultivars: "Greenspire', 'Chancellor', 'Euclid', 'Norlin' widely planted
 - Historical significance: Sacred tree in Germanic and Slavic folklore; associated with justice and community gatherings
 - Monofloral honey: Produces prized pale, aromatic linden honey valued across Europe and [[soil-temperature-plant-growth-rate-doubling-rule]]: Moderate; 30–60 cm/year under good conditions
 ### Leaves

@@ -9,7 +9,7 @@ sources: [raw/papers/gardening-when-it-counts-steve-solomon.md]
 
 # Vegetable Growing Guide
 
-General principles for growing vegetables, from Steve Solomon's *Gardening When It Counts* Chapter 9, "What to Grow... and How to Grow It."
+General principles for growing vegetables, from Steve Solomon"s *Gardening When It Counts* Chapter 9, "What to Grow... and How to Grow It."
 
 ## Organization
 
@@ -26,7 +26,7 @@ After sowing fine seeds, press the earth down gently with your hand or the back 
 
 ## Understanding Root Systems
 
-Solomon emphasizes that the root growth you cannot see is as important as what you can see. Key insights from Weaver's root development studies:
+Solomon emphasizes that the root growth you cannot see is as important as what you can see. Key insights from Weaver"s root development studies:
 
 - A root can efficiently assimilate moisture and nutrients for only a fraction of an inch behind its tip
 - A few days after formation, the root tip becomes covered with bark-like tissue that reduces its ability to absorb
@@ -50,7 +50,7 @@ Generally trouble-free and low-demand in soil fertility:
 
 The most vigorous and cold-hardy of all garden brassicas. Kale produces when other coles fail. Has been observed resuming growth after thawing from 6°F (-14°C).
 
-- **Two kale species**: Siberian (B. napus, rosette pattern) and regular (B. oleracea, tall central stalk). Some prefer Siberian's flavor raw in salads.
+- **Two kale species**: Siberian (B. napus, rosette pattern) and regular (B. oleracea, tall central stalk). Some prefer Siberian"s flavor raw in salads.
 - **Calcium need**: All brassicas need more calcium than most vegetables. Broadcast 5 lbs of agricultural lime per 100 sq ft on rain-leached soils before sowing.
 - **Spacing**: 24 x 30 inch (60 x 75 cm) stations for full-size kale
 - **Timing**: Start about 6 weeks before first frost for autumn/winter crops
@@ -94,8 +94,8 @@ Need very fertile soil: tomatoes, peppers, eggplant, broccoli, cauliflower, cele
 ## General Growing Tips
 
 - **New gardeners**: Should not bet the ranch on difficult vegetables. Start with the easy ones.
-- **Fertility**: Don't forget that minimum fertility levels are just that — minimums. All vegetables grow much better with soil more fertile than the bare minimum.
-- **Regional data**: Precise planting dates and best varieties are best obtained from your local agricultural extension office. "You're probably paying the taxes to support it; make use of it."
+- **Fertility**: Don"t forget that minimum fertility levels are just that — minimums. All vegetables grow much better with soil more fertile than the bare minimum.
+- **Regional data**: Precise planting dates and best varieties are best obtained from your local agricultural extension office. "You"re probably paying the taxes to support it; make use of it."
 - **Root exudates and rotation**: Because roots secrete chemicals that persist in soil and can affect the next crop, rotation is important. A species may do poorly in a spot where another species recently grew.
 
 ## Related

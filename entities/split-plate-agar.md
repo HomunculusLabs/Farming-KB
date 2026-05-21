@@ -25,7 +25,7 @@ A split plate, also known as a behavioral gallery, is an agar cultivation techni
 - The technique allows observation of how fungi react to changes in medium composition, revealing whether they thrive, stall, or adapt their growth patterns.
 - Concentration of challenging additives can be increased with each consecutive transfer, testing the limits of what a particular mycelial strain can handle.
 - Dyes can be added to mark zones on the plates, making it easier to observe mycelial behavior and growth in response to different formulas.
-- Colored agar backgrounds are also used for photographing or observing species that produce faint mycelium, such as lion's mane ([[hericium-erinaceus]]).
+- Colored agar backgrounds are also used for photographing or observing species that produce faint mycelium, such as lion"s mane ([[hericium-erinaceus]]).
 
 ## Relevance to Cultivation and Mycology
 

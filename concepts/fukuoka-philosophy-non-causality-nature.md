@@ -1,5 +1,5 @@
 ---
-title: Fukuoka's Philosophy of Non-Causality in Nature
+title: Fukuoka"s Philosophy of Non-Causality in Nature
 created: 2026-04-28
 tags:
   - philosophy-of-nature
@@ -23,13 +23,13 @@ At the core of Fukuoka's [[fukuoka-textdoc-no-cause-and-effect-in-nature]] do no
 
 Each cause is itself the effect of a prior cause, and the chain extends without end. Behind each identifiable cause lie basic causes, remote causes, [[cannabis-vegetative-growth-stage]] and restore equilibrium between the above-ground and below-ground portions of the plant. It might prevent overly dense growth that would impede photosynthesis. It might even ensure full seed production by thinning the stand.
 
-From this perspective, the "cause" of the disease is also its "effect," and both are merely stages in the constant flux of nature. When viewed from a broad spatial and temporal perspective, causal relationships dissolve into what Fukuoka called a "tangled confusion." The rice plant itself may see blast disease as a protective mechanism — nature's way of preventing the overly dense growth of rice plants, thus aiding photosynthesis and assuring full seed production.
+From this perspective, the "cause" of the disease is also its "effect," and both are merely stages in the constant flux of nature. When viewed from a broad spatial and temporal perspective, causal relationships dissolve into what Fukuoka called a "tangled confusion." The rice plant itself may see blast disease as a protective mechanism — nature"s way of preventing the overly dense growth of rice plants, thus aiding photosynthesis and assuring full seed production.
 
 ## The Relative Nature of Scientific Truth
 
 Fukuoka drew an analogy with the blind men and the elephant. Each scientific discipline grasps one part of nature — soil chemistry studies minerals, entomology studies insects, plant pathology studies diseases, meteorology studies weather — and each declares its findings to be the truth. But the assembled fragments can never constitute the whole, because dissecting nature destroys the organic connections between parts.
 
-Scientific knowledge is always "circumstantial truth" — valid only within specific conditions of time, place, and prior assumptions. When conditions change (as they always do), yesterday's scientific truth becomes today's error. [[fukuoka-scalpel-beautiful-woman-science-nature]] and revealing a bloody mass of tissue — "What a miserable, wasted effort." Nature is a living, organic whole that cannot be divided. When broken down, it dies. Those who break off a piece of nature lay hold of something dead, and, unaware that what they are examining is no longer what they think it to be, claim to understand nature.
+Scientific knowledge is always "circumstantial truth" — valid only within specific conditions of time, place, and prior assumptions. When conditions change (as they always do), yesterday"s scientific truth becomes today's error. [[fukuoka-scalpel-beautiful-woman-science-nature]] and revealing a bloody mass of tissue — "What a miserable, wasted effort." Nature is a living, organic whole that cannot be divided. When broken down, it dies. Those who break off a piece of nature lay hold of something dead, and, unaware that what they are examining is no longer what they think it to be, claim to understand nature.
 
 ## Practical Implications for Farming
 

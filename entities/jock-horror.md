@@ -20,7 +20,7 @@ Jock Horror is a refined, stabilized version of the classic **NL#5 × Haze** cro
 - **Northern Lights #5 (NL#5):** A pure indica strain originating from Afghanistan, Northern Lights #5 is one of the most important breeding lines in cannabis history. First developed in the [[psilocybin-north-america-pacific-northwest]] of the United States in the 1970s before being popularized in the Netherlands, NL#5 contributed exceptional resin production, compact flowering structure, and a deeply relaxing physical effect. It won the Cannabis Cup multiple times and has served as a parent to hundreds of subsequent hybrids.
 - **Haze:** A sativa landrace hybrid combining Colombian, Mexican, Thai, and South Indian genetics, Haze was developed in California in the 1960s and 1970s by the "Haze Brothers." It is characterized by extremely long flowering times (12–14 weeks), tall stature, and intensely psychoactive, uplifting cerebral effects. Haze contributed soaring, creative, and sometimes overwhelming sativa effects to the cross.
 
-Nirvana Seeds' [[cannabis-training-techniques-comparison]] such as low-stress training (LST), screen of green (ScrOG), and super cropping. The flexible branches make the plant adaptable to various training methods.
+Nirvana Seeds" [[cannabis-training-techniques-comparison]] such as low-stress training (LST), screen of green (ScrOG), and super cropping. The flexible branches make the plant adaptable to various training methods.
 - **Leaves:** Long, narrow, fingered sativa leaves that are lighter green than typical indica-dominant strains. The leaf structure is less dense than pure indica varieties, allowing better light penetration to lower bud sites.
 - **Buds:** Medium to large in size, elongated and somewhat airy compared to dense indica buds. The calyxes are moderately sized and covered in a dense layer of trichomes that gives the mature buds a frosty, crystalline appearance. Pistils are typically orange to amber in color.
 - **Resin production:** Heavy resin production is one of Jock Horror's most notable features. The abundant trichome coverage contributes to both high THC content and a rich terpene profile.
@@ -52,7 +52,7 @@ Jock Horror typically tests in the range of 15–20% THC, with some phenotypes r
 
 Jock Horror was developed and popularized by Nirvana Seeds, a Dutch seed bank founded in the 1990s that has been influential in making high-quality cannabis genetics accessible to home growers worldwide. The strain is available as regular (non-feminized) and feminized seeds, and is widely distributed through seed banks and online retailers in jurisdictions where cannabis seed sales are legal.
 
-The strain's name — "Jock Horror" — is a play on words combining "Jock" (a reference to the strain's energetic, athletic qualities and potentially to its association with sports-focused users) with "Horror" (a nod to the intense, sometimes overwhelming nature of its sativa effects at high doses). The name reflects a common convention in cannabis breeding of using evocative, memorable names that hint at the strain's character.
+The strain's name — "Jock Horror" — is a play on words combining "Jock" (a reference to the strain"s energetic, athletic qualities and potentially to its association with sports-focused users) with "Horror" (a nod to the intense, sometimes overwhelming nature of its sativa effects at high doses). The name reflects a common convention in cannabis breeding of using evocative, memorable names that hint at the strain's character.
 
 ## Breeding History and Genetic Stability
 

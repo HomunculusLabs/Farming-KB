@@ -107,6 +107,6 @@ Oribatid mites participate in numerous ecological interactions:
 
 ## References and Further Reading
 
-- Lowenfels, J. & Lewis, W. (2010). *Teaming with Microbes: The Organic Gardener's Guide to the Soil Food Web*. Timber Press.
+- Lowenfels, J. & Lewis, W. (2010). *Teaming with Microbes: The Organic Gardener"s Guide to the Soil Food Web*. Timber Press.
 - Norton, R.A. (1990). "Ecology of oribatid mites: their role in soil decomposition processes." *Acarologia* 31: 91-104.
 - Schneider, K. et al. (2004). "Trophic niche differentiation in soil microarthropods (Oribatida, Collembola): stable isotope analysis using 15N/14N." *Soil Biology and Biochemistry* 36: 1769-1774.

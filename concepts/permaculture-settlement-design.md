@@ -38,7 +38,7 @@ Mollison outlines the elements of a village complex including:
 - Community finance (credit union, land trusts, leasehold systems)
 - Building services (plumber-builder-mechanic, woodworking)
 - Medical and pharmaceutical services
-- Education (children's schooling, adult workshops, design courses)
+- Education (children"s schooling, adult workshops, design courses)
 - Small business support services
 
 ## Village Economics and Livelihoods

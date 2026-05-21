@@ -25,7 +25,7 @@ This dual-hood design with a shared blower offers cost efficiency — one powerf
 
 ### Materials and Frame
 
-The fan housing is constructed from a single 3/4" thick 4' × 8' sheet of plywood (A/B grade interior), cut into pieces as specified in the parts layout. All rabbet joints are cut 3/4" wide and 1/2" deep. Construction proceeds as follows:
+The fan housing is constructed from a single 3/4" thick 4" × 8' sheet of plywood (A/B grade interior), cut into pieces as specified in the parts layout. All rabbet joints are cut 3/4" wide and 1/2" deep. Construction proceeds as follows:
 
 1. The sides, ends, and bottom are glued together and secured with screws or nails to form a perfectly square open-top box
 2. Air passages are cut into the end pieces for airflow management
@@ -74,7 +74,7 @@ The enclosure around the HEPA filter is made from 1" × 12" pine, dadoed (groove
 
 ### Transparent Hood
 
-A clear plexiglass hood (1/4" thick, 4' × 8' sheet) provides visibility and contamination protection. The frame is made from 1" angle aluminum (1/16" thick), formed from one continuous piece. The 90-degree bends at corners are made by cutting triangles from the top side of the angle at each corner, then bending. The frame ends fit inside 1/2" aluminum channel which secures them.
+A clear plexiglass hood (1/4" thick, 4" × 8' sheet) provides visibility and contamination protection. The frame is made from 1" angle aluminum (1/16" thick), formed from one continuous piece. The 90-degree bends at corners are made by cutting triangles from the top side of the angle at each corner, then bending. The frame ends fit inside 1/2" aluminum channel which secures them.
 
 ## Blower Specifications
 

@@ -11,7 +11,7 @@ created: 2026-05-11
 
 ## Overview
 
-Zone and sector analysis is the core spatial planning methodology in permaculture design, presented in Chapter 3 of Bill Mollison's *Permaculture: A Designers' Manual*. These two complementary frameworks — zones for frequency-of-use intensity, and sectors for incoming wild energies — allow designers to place every element in the landscape where it functions most efficiently with the least energy input.
+Zone and sector analysis is the core spatial planning methodology in permaculture design, presented in Chapter 3 of Bill Mollison"s *Permaculture: A Designers' Manual*. These two complementary frameworks — zones for frequency-of-use intensity, and sectors for incoming wild energies — allow designers to place every element in the landscape where it functions most efficiently with the least energy input.
 
 Whereas the house is the center (ground zero) for zones, it is the through-point for sectors. Energies from outside arrive as arrows carrying both destructive and beneficial forces; the designer erects shields, deflectors, or collectors to manage them. The combination of zone and sector overlays produces what Mollison calls a "spiderweb" of optimal placements.
 
@@ -43,7 +43,7 @@ The sun sector changes with the seasons. In the [[nitrogen-fixing-trees-and-shru
 
 ## Combining Zones and Sectors
 
-The power of zone-and-sector design lies in combining both analyses. Mollison's metaphor is "revolving" the zones until each element sits in its correct zone AND is positioned to manage sector energies. The result is a "spiderweb" of optimal placements.
+The power of zone-and-sector design lies in combining both analyses. Mollison"s metaphor is "revolving" the zones until each element sits in its correct zone AND is positioned to manage sector energies. The result is a "spiderweb" of optimal placements.
 
 ### Examples
 

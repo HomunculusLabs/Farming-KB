@@ -44,7 +44,7 @@ In short, while prevention should always be the starting point, the reality of m
 
 ## Trapping: The Primary Control Method
 
-With prevention imperfect, trapping becomes the primary method of vole control. Coleman relies on snap traps and uses a large number of them. His records show that in one year he trapped over fifty voles in the vicinity of the greenhouses during August and September alone, and a neighbor's cat probably caught almost that many. Even this level of mortality did not seem to make a noticeable dent in the population by winter.
+With prevention imperfect, trapping becomes the primary method of vole control. Coleman relies on snap traps and uses a large number of them. His records show that in one year he trapped over fifty voles in the vicinity of the greenhouses during August and September alone, and a neighbor"s cat probably caught almost that many. Even this level of mortality did not seem to make a noticeable dent in the population by winter.
 
 The only effective strategy that has been found is to keep trapping year-round. Seasonal trapping, no matter how intensive, cannot overcome the voles' reproductive capacity. Continuous pressure is necessary to keep populations at manageable levels. This means maintaining traps even during the summer months when voles are less noticeable, preventing the population buildup that would otherwise occur before winter.
 
@@ -70,7 +70,7 @@ This bait avoidance behavior means that baits must be changed regularly. No sing
 
 ### Strategic Trap Placement
 
-Based on the key principle described above — that placement matters more than bait — the next strategic development was to move beyond baited trapping altogether. By focusing trap placement on the voles' natural lines of travel, the grower can intercept voles without relying on any attractant at all. This approach eliminates the bait-avoidance problem entirely.
+Based on the key principle described above — that placement matters more than bait — the next strategic development was to move beyond baited trapping altogether. By focusing trap placement on the voles" natural lines of travel, the grower can intercept voles without relying on any attractant at all. This approach eliminates the bait-avoidance problem entirely.
 
 Effective placement locations include:
 
@@ -82,7 +82,7 @@ When successful, these strategically placed traps seemed to catch voles because 
 
 ### The Homemade Vole Trap
 
-Based on the understanding that placement matters more than bait, Coleman developed a homemade vole trap design that is described as "surefire." While the exact design details are best understood from the original source, the key principle is that the trap is placed directly in the vole's path of travel, where the animal will encounter it during its normal movements regardless of any attraction to bait.
+Based on the understanding that placement matters more than bait, Coleman developed a homemade vole trap design that is described as "surefire." While the exact design details are best understood from the original source, the key principle is that the trap is placed directly in the vole"s path of travel, where the animal will encounter it during its normal movements regardless of any attraction to bait.
 
 ## The Bigger Picture: Integrated Vole Management
 

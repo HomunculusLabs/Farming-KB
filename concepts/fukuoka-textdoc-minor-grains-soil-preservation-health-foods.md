@@ -11,7 +11,7 @@ type: concept
 ## Minor Grains as Soil Preservation Crops and Health Foods
 
 Masanobu Fukuoka advocated strongly for the revival of minor grains including
-millet, corn, buckwheat, and Job's tears, arguing that these crops play vital
+millet, corn, buckwheat, and Job"s tears, arguing that these crops play vital
 roles both as prototypic health foods essential for human well-being and as coarse
 [[fukuoka-no-till-grain-production-method]]. This exclusion is itself a product of
 modern agricultural economics and taste preferences rather than any inherent

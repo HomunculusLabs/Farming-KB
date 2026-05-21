@@ -24,7 +24,7 @@ A central challenge in discussing psychedelics is epistemological: what is the o
 
 Later in his career, McKenna became increasingly concerned that language, while the greatest achievement of the human species, also functions as a prison that constrains consciousness. He argued that the categories and distinctions embedded in language shape — and limit — what we can think and perceive. Psychedelics, by temporarily dissolving the linguistic structures of ordinary thought, offer a way to step outside this prison and encounter reality in a more direct, pre-linguistic form.
 
-This idea echoes the philosopher Ludwig Wittgenstein's observation that "the limits of my language mean the limits of my world," but McKenna pushed it further, suggesting that the linguistic prison can be escaped — if only briefly — through the judicious use of [[query-how-do-plants-use-chemical-signals-to-defend-against-insects]], and that humans can learn to understand this speech through [[mckenna-dmt-experience-and-hyperspace]]
+This idea echoes the philosopher Ludwig Wittgenstein"s observation that "the limits of my language mean the limits of my world," but McKenna pushed it further, suggesting that the linguistic prison can be escaped — if only briefly — through the judicious use of [[query-how-do-plants-use-chemical-signals-to-defend-against-insects]], and that humans can learn to understand this speech through [[mckenna-dmt-experience-and-hyperspace]]
 - mckenna philosophy and cosmology
 - [[mckenna-dominator-culture-and-suppression-of-ecstasy]] draws on both anthropological evidence and contemporary political analysis
 - The [[mckenna-dissolution-of-the-dominator-culture]] and the [[psilocybin-default-mode-network-ego-dissolution]] network

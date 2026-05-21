@@ -2,7 +2,7 @@
 title: "Alchemilla vulgaris"
 created: 2026-04-28
 type: species
-tags: [species, plant, herbal, permaculture, dynamic-accumulator, rosaceae, medicinal, lady's-mantle, alpine]
+tags: [species, plant, herbal, permaculture, dynamic-accumulator, rosaceae, medicinal, lady"s-mantle, alpine]
 date: 2026-04-28
 updated: 2026-04-28
 sources:

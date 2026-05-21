@@ -34,7 +34,7 @@ included 2 bulls and 5 cows, along with other domesticated farm animals. By
 1803, the government owned approximately 1,800 cattle, most of which were
 imported from the Cape, Calcutta, and the west coast of America. It was during
 this early colonial period that the visionary mushrooms described in John W.
-Allen's [[kanna-sceletium-south-african-narcotic]] dung beetle may have played a critical
+Allen"s [[kanna-sceletium-south-african-narcotic]] dung beetle may have played a critical
 role in the actual dispersal of psychoactive fungal spores across the
 Australian landscape. These beetles, which likely accompanied imported cattle,
 would have buried dung containing [[panaeolus-cyanescens-bali-omelette]] (known locally as "blue meanies") -- found in the

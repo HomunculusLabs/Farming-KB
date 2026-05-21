@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-[[amanitine]] (also known as muscarine, named by Schmiedeberg and Koppe) is the deadly alkaloid found in mushrooms of the *Amanita* genus. It is one of the most powerful and insidious poisons in the natural world — tasteless, odorless, and capable of killing hours after ingestion, long after the victim believes they have escaped harm. Palmer's 1879 documentation of this poison represents some of the earliest systematic study of fungal toxicology in English.
+[[amanitine]] (also known as muscarine, named by Schmiedeberg and Koppe) is the deadly alkaloid found in mushrooms of the *Amanita* genus. It is one of the most powerful and insidious poisons in the natural world — tasteless, odorless, and capable of killing hours after ingestion, long after the victim believes they have escaped harm. Palmer"s 1879 documentation of this poison represents some of the earliest systematic study of fungal toxicology in English.
 
 ## Nomenclature of the Poison
 
@@ -36,10 +36,10 @@ The third and most dangerous category involves the subtle alkaloid found in the 
 ## Case Reports
 
 ### Case 1: Sautry, France
-Two persons made a meal from *Amanita bulbosa* (under which the French include *A. verna*, *A. phalloides*, and *A. mappa*). Beyond initial vertigo in one case, no ill effects were felt until three and eight o'clock the following morning. One patient even slept calmly after the vertigo passed. Once attacked, the usual symptoms followed, and within three days both were dead. The physician tried coffee, tea, antimony, ether, whites of eggs, laudanum, milk, leeches, ice, and emollient fomentations. He reported: "None of the remedies were followed by the least sign of amelioration." Only ice internally and emollients externally provided any simple alleviation.
+Two persons made a meal from *Amanita bulbosa* (under which the French include *A. verna*, *A. phalloides*, and *A. mappa*). Beyond initial vertigo in one case, no ill effects were felt until three and eight o"clock the following morning. One patient even slept calmly after the vertigo passed. Once attacked, the usual symptoms followed, and within three days both were dead. The physician tried coffee, tea, antimony, ether, whites of eggs, laudanum, milk, leeches, ice, and emollient fomentations. He reported: "None of the remedies were followed by the least sign of amelioration." Only ice internally and emollients externally provided any simple alleviation.
 
 ### Case 2: October 1876
-Four persons ate the fatal meal at four o'clock in the afternoon. About midnight, all who had partaken were attacked. The first death occurred Thursday at ten a.m.; the second on Friday morning. One woman recovered, experiencing only severe diarrhea — she had put vinegar on the toadstool before eating, which may have neutralized the alkaloid.
+Four persons ate the fatal meal at four o"clock in the afternoon. About midnight, all who had partaken were attacked. The first death occurred Thursday at ten a.m.; the second on Friday morning. One woman recovered, experiencing only severe diarrhea — she had put vinegar on the toadstool before eating, which may have neutralized the alkaloid.
 
 ### Case 3: Recent Case with Children
 Two children died within thirty-six hours. The father experienced severe delirium, jumping from a second-story window. The attack came on about eight hours after ingestion. In all cases, up to the actual attack, no person felt the worse for the fatal meal.

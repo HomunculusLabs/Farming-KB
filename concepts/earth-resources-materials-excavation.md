@@ -41,7 +41,7 @@ Excavation in marshes, bogs, or lowlands may reveal **1-9 m (3-30 feet)** of sem
 
 - **Soil amendment** — mixing with sands and loams creates additional topsoil
 - **Nursery [[cervantes-green-algae-growing-medium]]** — an excellent fine growing medium for [[permaculture-plant-propagation-guide]]
-- **Building insulation** — peat's insulating properties serve in construction
+- **Building insulation** — peat"s insulating properties serve in construction
 - **Fuel** — only in desperation, as those who burn peat are "near the base of life on earth; the next step is into barrens and rocks"
 
 ### Ecological Importance

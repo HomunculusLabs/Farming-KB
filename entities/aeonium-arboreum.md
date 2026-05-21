@@ -16,7 +16,7 @@ sources:
 
 Aeonium arboreum, the tree aeonium or Irish rose, is a branching succulent shrub in the family Crassulaceae. Native to the Canary Islands, particularly Tenerife, it develops woody stems topped with rosettes of glossy, dark green to purplish-black leaves.
 
-The species is widely cultivated in Mediterranean climates worldwide as a structural succulent. The dark-leaved cultivar 'Zwartkop' (syn. 'Schwarzkopf') is one of the most distinctive and sought-after succulents in horticulture, with near-black rosettes that provide dramatic contrast.
+The species is widely cultivated in Mediterranean climates worldwide as a structural succulent. The dark-leaved cultivar "Zwartkop' (syn. 'Schwarzkopf') is one of the most distinctive and sought-after succulents in horticulture, with near-black rosettes that provide dramatic contrast.
 
 It produces large, conical panicles of bright yellow star-shaped flowers in late spring, after which the flowering rosette dies. First described by Philip Miller in 1768, the species name "arboreum" refers to its tree-like growth habit.
 

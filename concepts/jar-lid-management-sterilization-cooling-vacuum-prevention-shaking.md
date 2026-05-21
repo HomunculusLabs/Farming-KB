@@ -24,7 +24,7 @@ The primary reason for loose lids during pressure cooking is pressure equalizati
 The guide specifies a "[[brassinosteroid-dung-grain-substrate-fruiting-enhancement]], potentially reducing the air spaces that mycelium needs for colonization
 - **Jar stress** — the external atmospheric pressure pushing inward on the cooled jar (approximately 14.7 psi at sea level) creates mechanical stress that can crack weakened jars
 
-### The Guide's Instruction
+### The Guide"s Instruction
 
 The guide explicitly states: "As the jars are cooling down the lids should remain loose or else they will pull a vacuum." This clear causal explanation helps cultivators understand not just what to do but why it matters, reducing the likelihood of the mistake being made.
 

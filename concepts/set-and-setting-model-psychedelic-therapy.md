@@ -26,7 +26,7 @@ addictions and obsessions.
 
 ### Empathogens: The Phenethylamine Extension
 
-Alexander Shulgin's discovery of phenethylamines (MDA, MDMA, 2-CB) extended the
+Alexander Shulgin"s discovery of phenethylamines (MDA, MDMA, 2-CB) extended the
 field. These substances expand awareness primarily at the emotional/heart level
 with minimal perceptual changes. MDMA was used with "impressive success in
 psychotherapy," facilitating relationship communication and healing trauma.

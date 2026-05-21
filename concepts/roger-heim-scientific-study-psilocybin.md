@@ -11,11 +11,11 @@ sources: ["raw/papers/shroom-a-cultural-history-of-the-magic-mushroom.md"]
 
 The scientific investigation of magic mushrooms in the late 1950s was led by Roger Heim (1900-1979), the eminent French mycologist and director of the National Museum of Natural History in Paris, working in collaboration with Albert Hofmann at Sandoz Laboratories in Switzerland.
 
-## Heim's Background
+## Heim"s Background
 
 [Gordon Wasson chose Heim for his glittering academic credentials. Unknown to Wasson, Heim had personal experience with the fly-agaric dating back to 1923 — whether accidental or experimental remains unclear. Years later he wrote that consumed fresh and in sufficient quantities, the fly-agaric "can produce an agreeable sensation that lends itself to a feeling of contemplative well-being."
 
-Heim's dual identity — as both a rigorous academic mycologist and an experienced psychonaut — made him uniquely suited to bridge the gap between indigenous knowledge and Western science. His reputation lent scientific credibility to what might otherwise have been dismissed as a curiosity of ethnobotany.
+Heim"s dual identity — as both a rigorous academic mycologist and an experienced psychonaut — made him uniquely suited to bridge the gap between indigenous knowledge and Western science. His reputation lent scientific credibility to what might otherwise have been dismissed as a curiosity of ethnobotany.
 
 ## The Paris Research Program
 

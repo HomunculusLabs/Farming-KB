@@ -20,7 +20,7 @@ are food for grazing animals, connecting decomposition to higher trophic
 levels.
 
 Reindeer and moose in boreal ecosystems depend on arboreal lichen
-("old man's beard") as winter food. Caribou and reindeer rely on
+("old man"s beard") as winter food. Caribou and reindeer rely on
 terrestrial lichens that are resistant to trampling effects. In
 Svalbard, lichen biomass may become severely depleted due to intense
 [[mycena-galopus]] and Marasmius androcaceous in a

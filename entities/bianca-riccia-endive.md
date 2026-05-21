@@ -7,7 +7,7 @@ tags: [cultivar, endive, salad-crop, winter-harvest, johnnys-seeds]
 
 ## Description
 
-'Bianca Riccia' is an Italian endive cultivar (*Cichorium endivia*) grown for baby-leaf salad production. Its full Italian name is 'Indivia Bianca Riccia da Taglio', meaning "white curly endive for cutting." Sold by Johnny's Selected Seeds, it produces light-colored, frilly leaves ideal for [[mesclun]] mixes during the winter harvest season.
+"Bianca Riccia' is an Italian endive cultivar (*Cichorium endivia*) grown for baby-leaf salad production. Its full Italian name is 'Indivia Bianca Riccia da Taglio', meaning "white curly endive for cutting." Sold by Johnny"s Selected Seeds, it produces light-colored, frilly leaves ideal for [[mesclun]] mixes during the winter harvest season.
 
 ## Classification
 

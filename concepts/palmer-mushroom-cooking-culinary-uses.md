@@ -29,7 +29,7 @@ expands again the moment it is put in water"
 
 ## Nutritional Character
 
-Palmer's nutritional observations reflect the limited scientific
+Palmer"s nutritional observations reflect the limited scientific
 understanding of his era but capture genuine insights:
 
 - Mushrooms "furnish a natural alkali which in some systems is greatly
@@ -50,7 +50,7 @@ These observations presage modern [[duggar-mushroom-culinary-preparation-and-coo
 - The Clavaria family was described as "more delicate food than
   cauliflower, nicer in soup or stew than vermicelli"
 
-This cross-cultural comparison was central to Palmer's mission of
+This cross-cultural comparison was central to Palmer"s mission of
 convincing Americans that mushrooms were not poisonous curiosities but
 valuable, delicious food worthy of culinary attention.
 

@@ -36,7 +36,7 @@ Plants are in control of the soil food web. Studies indicate that individual pla
 - **The numbers** of fungi and bacteria attracted to the rhizosphere
 - **The types** of fungi and bacteria attracted (different exudate compositions select for different organisms)
 
-During different times of the growing season, populations of rhizosphere bacteria and fungi wax and wane depending on the plant's nutrient needs and the exudates it produces. This is why different plants growing side by side support completely different soil food webs.
+During different times of the growing season, populations of rhizosphere bacteria and fungi wax and wane depending on the plant"s nutrient needs and the exudates it produces. This is why different plants growing side by side support completely different soil food webs.
 
 ## The Nutrient Cycling Cycle
 

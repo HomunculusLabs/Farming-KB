@@ -29,7 +29,7 @@ The severity of the response demonstrates how seriously the Athenians regarded t
 
 ## Other Historical Evidence
 
-### Aristophanes' References
+### Aristophanes" References
 
 The comic playwright Aristophanes (c. 446-386 BC) made multiple references to the Mysteries in his plays. While comedic, his references assume audience familiarity with the ceremonies and suggest knowledge of their psychoactive nature.
 

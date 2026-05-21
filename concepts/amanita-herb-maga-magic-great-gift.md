@@ -92,7 +92,7 @@ hypothesis with modern analytical tools:
 
 The revival of scholarly interest in the Herb Maga concept has bridged gaps
 between mycological science and religious studies, creating new frameworks
-for understanding humanity's relationship with psychoactive fungi.
+for understanding humanity"s relationship with psychoactive fungi.
 
 ## Cross-Cultural Parallels
 

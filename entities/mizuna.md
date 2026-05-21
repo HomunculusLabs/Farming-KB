@@ -8,7 +8,7 @@ created: 2026-05-13
 
 ## Description
 
-Mizuna (*[[brassica-rapa]]* var. *japonica*), also known as Japanese mustard greens or spider mustard, is a cold-hardy Asian green with deeply cut, feathery leaves and a mild, slightly peppery flavor. It is one of the key winter-harvest crops in Eliot Coleman's four-season production system. Mizuna is prized for its vigorous growth, attractive leaf shape, and exceptional cold tolerance, making it a productive and visually appealing addition to winter salad mixes and braising greens.
+Mizuna (*[[brassica-rapa]]* var. *japonica*), also known as Japanese mustard greens or spider mustard, is a cold-hardy Asian green with deeply cut, feathery leaves and a mild, slightly peppery flavor. It is one of the key winter-harvest crops in Eliot Coleman"s four-season production system. Mizuna is prized for its vigorous growth, attractive leaf shape, and exceptional cold tolerance, making it a productive and visually appealing addition to winter salad mixes and braising greens.
 
 ## Classification
 

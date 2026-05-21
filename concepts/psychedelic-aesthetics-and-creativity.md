@@ -15,7 +15,7 @@ Our need to feel part of the world seems to demand that we express ourselves thr
 
 The ultimate wellsprings of this creativity are hidden in the mystery of language.
 
-The movement that Gordon Wasson's discovery of [[psychedelic-mushroom-art-and-iconography]]
+The movement that Gordon Wasson"s discovery of [[psychedelic-mushroom-art-and-iconography]]
 
 See Also: [[psilocybin-and-mystical-experience]]
 

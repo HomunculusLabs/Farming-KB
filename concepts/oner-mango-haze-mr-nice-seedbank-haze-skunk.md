@@ -37,12 +37,12 @@ yield potential is impressive: around 500 grams per square yard under standard c
 Experienced growers who optimize their lighting layout and nutrient programs can extract
 significantly more from each grow cycle. The breeder specifically recommends pruning lower
 branches to redirect energy to the upper canopy and encourage greater overall yields. Mold
-resistance is notable — the breeder states it "won't pose a threat to your crop," a
+resistance is notable — the breeder states it "won"t pose a threat to your crop," a
 significant advantage for humid environments.
 
 ## Cultivation Versatility
 
-One of Mango Haze's strengths is its adaptability to different [[green-cannabis-nutrient-schedules]] are sufficient; the
+One of Mango Haze"s strengths is its adaptability to different [[green-cannabis-nutrient-schedules]] are sufficient; the
   strain is not particularly demanding or finicky
 
 ## Effects Profile

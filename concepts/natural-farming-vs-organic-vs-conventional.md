@@ -49,15 +49,15 @@ Understanding the philosophical and practical differences between three major ap
 
 ## Key Distinctions
 
-### Natural vs Organic (Fukuoka's View)
+### Natural vs Organic (Fukuoka"s View)
 
 Fukuoka was explicit: "Even organic farming, which everyone is making such a big fuss over lately, is just another type of scientific farming." Organic farming moves in the right direction but still follows an interventionist paradigm -- substituting approved inputs for prohibited ones. Natural farming asks whether *any* input is needed. The spectrum runs from scientific farming (centrifugal expansion toward complexity) through organic farming to natural farming (centripetal convergence toward nothingness/Mu).
 
 ### KNF as a Bridge
 
-Korean Natural Farming (Cho Han-Kyu) occupies a unique position: it creates specific fermented inputs (IMO, FPJ, OHN, WCA) from on-farm materials, but unlike organic farming, these are biological activators rather than nutrient substitutes. The goal is to culture beneficial microorganisms that make soil nutrients available. This aligns philosophically with Fukuoka's emphasis on soil biology while being more prescriptive than his "do nothing" approach.
+Korean Natural Farming (Cho Han-Kyu) occupies a unique position: it creates specific fermented inputs (IMO, FPJ, OHN, WCA) from on-farm materials, but unlike organic farming, these are biological activators rather than nutrient substitutes. The goal is to culture beneficial microorganisms that make soil nutrients available. This aligns philosophically with Fukuoka"s emphasis on soil biology while being more prescriptive than his "do nothing" approach.
 
-### Conventional's Hidden Costs
+### Conventional"s Hidden Costs
 
 Fukuoka calculated that scientific agriculture requires an energy expenditure per unit of food produced up to 50 times that of natural farming. When you factor in soil erosion (estimated at 5.6 tons/acre/year on US cropland), water pollution, health costs, and fossil fuel dependency, conventional farming's "efficiency" is an illusion maintained by externalizing costs.
 

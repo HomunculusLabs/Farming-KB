@@ -24,7 +24,7 @@ sources:
 
 Detailed pharmacokinetics, route of administration, toxicity data, psychological risks, and legal status for [[psilocybin-mushrooms]]. See [[psilocybin-mushroom-chemistry]] for dosage guidelines, subjective effects, and acute incidents.
 
-## Gartz's Aeruginascin Hypothesis
+## Gartz"s Aeruginascin Hypothesis
 
 In a fascinating observation, [[jochen-gartz]] noted that users of [[inocybe-aeruginascens]] (which contains aeruginascin alongside psilocybin and baeocystin) reported predominantly positive experiences with very few "bad trips" compared to users of other species. Gartz hypothesized that aeruginascin might act as a euphoriant, counteracting anxiety-producing aspects of the psilocybin experience. This hypothesis remains untested in formal clinical settings but represents one of the few examples of a naturally occurring mushroom alkaloid potentially modulating the quality of the psychedelic experience.
 
@@ -73,7 +73,7 @@ In a fascinating observation, [[jochen-gartz]] noted that users of [[inocybe-aer
 - Sense of unreality or depersonalization
 - Delusions and altered perception of real events
 - Paranoia and confusion
-- Lack of sociable effects (compared to ecstasy's entactogenic properties)
+- Lack of sociable effects (compared to ecstasy"s entactogenic properties)
 
 ### EMCDDA Potency Reference
 - Most potent species (P. semilanceata): up to ~1% psilocybin

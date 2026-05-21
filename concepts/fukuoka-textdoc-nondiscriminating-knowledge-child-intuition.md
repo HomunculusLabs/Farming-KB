@@ -1,5 +1,5 @@
 ---
-title: Non-Discriminating Knowledge and the Child's Intuitive Grasp of Nature
+title: Non-Discriminating Knowledge and the Child"s Intuitive Grasp of Nature
 created: 2026-04-28
 tags: [natural-farming, philosophy, epistemology, buddhism, mu, fukuoka]
 date: 2026-04-28
@@ -13,7 +13,7 @@ type: concept
 Masanobu Fukuoka's philosophy of [[fukuoka-critique-scientific-agriculture-civilization]] and his justification for the "do-nothing"
 approach to farming.
 
-## The Infant's Original Vision
+## The Infant"s Original Vision
 
 Fukuoka begins his argument with a striking image: an infant seeing things
 intuitively. When nature is observed without intellectual discrimination, it

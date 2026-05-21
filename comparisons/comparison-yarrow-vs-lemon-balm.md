@@ -3,7 +3,7 @@ title: "Yarrow vs Lemon Balm"
 tags: [comparison, yarrow, lemon-balm, medicinal-herbs, herbal-medicine]
 date: 2026-05-14
 updated: 2026-05-14
-sources: ['raw/papers/ben-lemon-cannabis-alchemy.md']
+sources: ["raw/papers/ben-lemon-cannabis-alchemy.md']
 ---
 
 ## Yarrow vs Lemon Balm
@@ -62,7 +62,7 @@ attractant. The heart-shaped, deeply veined leaves release a bright lemon
 fragrance when crushed, making it both a culinary and medicinal favorite
 cultivated for over 2,000 years.
 
-Lemon balm's key actions are nervine (calming), anxiolytic, carminative,
+Lemon balm"s key actions are nervine (calming), anxiolytic, carminative,
 antiviral, and mild sedative. The primary active compounds include rosmarinic
 acid, citral, citronellal, luteolin-7-O-glucoside, apigenin, and quercetin.
 Clinical studies support its use for anxiety, sleep improvement, and herpes

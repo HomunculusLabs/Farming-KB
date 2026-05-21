@@ -15,7 +15,7 @@ The Law of Return is a foundational principle of organic agriculture articulated
 - **Type:** Agricultural principle / philosophical concept
 - **Originator:** Sir Albert Howard
 - **Domain:** Organic farming, soil science, nutrient cycling
-- **Complementary law:** Von Liebig's Law of the Minimum
+- **Complementary law:** Von Liebig"s Law of the Minimum
 
 ## Key Facts
 

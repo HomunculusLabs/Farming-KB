@@ -1,5 +1,5 @@
 ---
-title: "metzner Leary's metzner leary bardo thodol and tao te ching adaptation and Tao Te Ching Adaptation"
+title: "metzner Leary"s metzner leary bardo thodol and tao te ching adaptation and Tao Te Ching Adaptation"
 created: 2026-05-08
 updated: 2026-05-08
 type: concept
@@ -7,7 +7,7 @@ tags: [leary, bardo-thodol, tao-te-ching, psychedelic-therapy, tibetan-buddhism,
 sources: [raw/papers/metzner_r-hallucinogenic_drugs_in_psychotherapyshamanism.md]
 ---
 
-## Leary's Adaptation of the Bardo Thodol and Tao Te Ching
+## Leary"s Adaptation of the Bardo Thodol and Tao Te Ching
 
 [[timothy-leary]]'s pioneering work
 in adapting Eastern spiritual texts as practical guidebooks for

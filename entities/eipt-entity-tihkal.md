@@ -35,7 +35,7 @@ EIPT is a member of the mixed N-alkyl [[metzner-shamanic-ceremony-versus-psychot
 allows clean interpretation of the relationship between molecular structure
 and pharmacological effect.
 
-EIPT's role as a negative control -- demonstrating that one isopropyl group
+EIPT"s role as a negative control -- demonstrating that one isopropyl group
 is insufficient for auditory effects -- is scientifically valuable despite
 the compound's unremarkable subjective profile.
 

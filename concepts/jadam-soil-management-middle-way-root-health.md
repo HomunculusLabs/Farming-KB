@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-JADAM's approach to soil management combines philosophical principles with practical techniques. The Middle Way—the Buddhist concept of balanced moderation—guides decisions about inputs, while careful attention to root health provides direct feedback on soil conditions.
+JADAM"s approach to soil management combines philosophical principles with practical techniques. The Middle Way—the Buddhist concept of balanced moderation—guides decisions about inputs, while careful attention to root health provides direct feedback on soil conditions.
 
 ## The Middle Way in Farming
 
@@ -30,21 +30,21 @@ The Middle Way farmer:
 
 ### The Danger of Good Things
 
-"When s/he comes across a new fertilizer that everybody hails as full of nutrients, s/he will not lose caution of the potential danger of overusing it. This wise farmer is aware that too much of any 'good' thing will be 'bad.'"
+"When s/he comes across a new fertilizer that everybody hails as full of nutrients, s/he will not lose caution of the potential danger of overusing it. This wise farmer is aware that too much of any "good' thing will be 'bad.'"
 
 ## Empathy with Plants
 
-### Put Yourself in the Crop's Shoes
+### Put Yourself in the Crop"s Shoes
 
-"Look at the fields with a loving eye and think with common sense. What do you expect from crop growth when the roots are tortured with heat? Put yourself in the crops' shoes (or roots, should I say). Remember that 'I and others are one.'"
+"Look at the fields with a loving eye and think with common sense. What do you expect from crop growth when the roots are tortured with heat? Put yourself in the crops" shoes (or roots, should I say). Remember that 'I and others are one.'"
 
-JADAM advocates for a radical empathy with cultivated plants: the farmer should imagine the plant's experience of its growing conditions and adjust management accordingly.
+JADAM advocates for a radical empathy with cultivated plants: the farmer should imagine the plant"s experience of its growing conditions and adjust management accordingly.
 
 ### The Desperate Struggle of Plants
 
 "Do you not see the desperate struggle of plants? Farming has lost its direction. Soil is suffering from compaction, suffocation and contamination. Roots are left to grow in hideous conditions."
 
-The language of suffering and desperation reflects JADAM's view that modern farming practices—compaction from heavy machinery, suffocation from chemical inputs, contamination from pesticides—create conditions in which plants struggle to survive.
+The language of suffering and desperation reflects JADAM"s view that modern farming practices—compaction from heavy machinery, suffocation from chemical inputs, contamination from pesticides—create conditions in which plants struggle to survive.
 
 ### The Inviting Disease Paradox
 
@@ -54,7 +54,7 @@ The language of suffering and desperation reflects JADAM's view that modern farm
 
 ### The Root Principle
 
-"Roots represent the soil condition." This is JADAM's key diagnostic principle: by observing root growth, the farmer can assess soil health without laboratory tests.
+"Roots represent the soil condition." This is JADAM"s key diagnostic principle: by observing root growth, the farmer can assess soil health without laboratory tests.
 
 ### Early Root Settlement
 
@@ -76,7 +76,7 @@ JADAM highlights a hidden risk of conventional livestock manure: antibiotics adm
 
 "Food going into my mouth determines my health; manure going into the soil determines the health of the crops. Eat whole foods for your body and apply wholesome fertilizers for the crops."
 
-The parallel between human nutrition and crop nutrition encapsulates JADAM's holistic approach: the quality of inputs determines the quality of outputs, whether for humans or plants.
+The parallel between human nutrition and crop nutrition encapsulates JADAM"s holistic approach: the quality of inputs determines the quality of outputs, whether for humans or plants.
 
 ## The Commercialization Critique
 

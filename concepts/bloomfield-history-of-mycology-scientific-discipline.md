@@ -8,7 +8,7 @@ created: 2026-05-11
 
 ## History of Mycology as a Scientific Discipline
 
-The scientific study of fungi — mycology — has followed a peculiar trajectory within the biological sciences, alternately neglected and celebrated, marginalized and central. [[nicholas-money]]'s *Mr. Bloomfield's Orchard* is both a popular introduction to fungal biology and a personal memoir of the author's twenty-year journey through the field, paying tribute to the mentors and institutions that shaped modern mycology. The history of the discipline reveals much about how science decides what counts as worth studying.
+The scientific study of fungi — mycology — has followed a peculiar trajectory within the biological sciences, alternately neglected and celebrated, marginalized and central. [[nicholas-money]]"s *Mr. Bloomfield's Orchard* is both a popular introduction to fungal biology and a personal memoir of the author's twenty-year journey through the field, paying tribute to the mentors and institutions that shaped modern mycology. The history of the discipline reveals much about how science decides what counts as worth studying.
 
 ## Early Mycology: The Despised Family
 
@@ -23,7 +23,7 @@ Several factors contributed to this neglect:
 
 ## The British Mycological Tradition
 
-Britain played an outsized role in the development of mycology, and Money's book is deeply rooted in this tradition. Several key figures and institutions shaped the field:
+Britain played an outsized role in the development of mycology, and Money"s book is deeply rooted in this tradition. Several key figures and institutions shaped the field:
 
 ### The Rev. Miles Joseph Berkeley (1803-1889)
 
@@ -35,13 +35,13 @@ Mordecai Cubitt Cooke was a prolific mycological writer and illustrator whose po
 
 ### Terence Ingold (1905-2010)
 
-Terence Ingold is one of the most important mycologists of the 20th century, and *Mr. Bloomfield's Orchard* is dedicated to him and "his jewels" — the spore-producing structures that Ingold studied with such insight. Ingold's work on **spore liberation mechanisms** revolutionized understanding of how fungi disperse their reproductive cells. He described the intricate structures — the "jewels" — that fungi use to launch spores into the air, including:
+Terence Ingold is one of the most important mycologists of the 20th century, and *Mr. Bloomfield"s Orchard* is dedicated to him and "his jewels" — the spore-producing structures that Ingold studied with such insight. Ingold"s work on **spore liberation mechanisms** revolutionized understanding of how fungi disperse their reproductive cells. He described the intricate structures — the "jewels" — that fungi use to launch spores into the air, including:
 
 - **Ballistospores**: Spores that are actively discharged by a surface tension catapult mechanism
 - **Conidial apparatus**: The specialized structures that produce and release asexual spores
 - **Hyphal traps**: Structures in predatory fungi that capture nematodes
 
-Ingold's approach was characteristically elegant: using simple microscopy and time-lapse observation, he revealed mechanisms of extraordinary sophistication. His work demonstrated that the fungal kingdom contained engineering solutions of a refinement that rivaled anything in the animal or plant kingdoms.
+Ingold"s approach was characteristically elegant: using simple microscopy and time-lapse observation, he revealed mechanisms of extraordinary sophistication. His work demonstrated that the fungal kingdom contained engineering solutions of a refinement that rivaled anything in the animal or plant kingdoms.
 
 ### John Webster
 
@@ -49,7 +49,7 @@ John Webster, who appears in the opening chapter of *Mr. Bloomfield's Orchard* l
 
 ### The Lloyd Library
 
-The Lloyd Library in Cincinnati receives special mention as "the world's supreme archive of mycological publications." Money describes it as a "sanctuary" without which "this book would not have been possible." The Lloyd Library holds an unparalleled collection of mycological literature, including rare early works and the personal libraries of prominent mycologists. It represents the accumulated knowledge of centuries of fungal study, much of it inaccessible elsewhere.
+The Lloyd Library in Cincinnati receives special mention as "the world"s supreme archive of mycological publications." Money describes it as a "sanctuary" without which "this book would not have been possible." The Lloyd Library holds an unparalleled collection of mycological literature, including rare early works and the personal libraries of prominent mycologists. It represents the accumulated knowledge of centuries of fungal study, much of it inaccessible elsewhere.
 
 ## The Molecular Revolution
 

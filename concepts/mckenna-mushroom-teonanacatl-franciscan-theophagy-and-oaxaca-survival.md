@@ -24,7 +24,7 @@ tags:
 
 Theophagy — from the Greek *theos* (god) and *phagein* (to eat) — is the consumption of a substance understood to be, or to contain, the divine. It is one of the oldest and most widespread religious practices in human history, found across cultures from the [[amanita-muscaria-eucharist-wafer-preparation]].
 
-## The Inquisition's Campaign of Suppression
+## The Inquisition"s Campaign of Suppression
 
 The classic mushroom cults of Mexico were methodically destroyed. The Spanish campaign against indigenous religion was totalizing: temples razed, idols smashed, sacred texts burned, practitioners subjected to torture, execution, and forced conversion. The Inquisition's efficiency in eradicating the open practice of mushroom rites was near-complete.
 

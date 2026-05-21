@@ -21,7 +21,7 @@ Traditional preparation involves dietary restrictions (no salt, sugar, fat, alco
 
 ### Preparation Protocol
 
-The preparation of ayahuasca follows a strict ritual protocol observed by Amaringo's vegetalista informants:
+The preparation of ayahuasca follows a strict ritual protocol observed by Amaringo"s vegetalista informants:
 
 1. **Discipline before harvesting**: The vegetalista must not be with his wife for three days, have no contact with ill-tempered people, eat no salty, sweet, or bitter food, and not get drunk.
 
@@ -45,7 +45,7 @@ Only through years of dieta (dietary fasting) can one become a vegetalista. Thre
 
 - **Mothers** (Madres) — Protective plant spirits, each with specific healing domains. For example, the puka-lupuna tree (*Cavanillesia hylogeiton*) has a spirit described as a woman of dark complexion with cat eyes and a gold chain.
 - **Doctors** — Spirits invoked for diagnosis and treatment
-- **Guardians** — Spirits that protect ceremonial space, including the vegetalista's dog which has "spiritual vision" to detect approaching enemies
+- **Guardians** — Spirits that protect ceremonial space, including the vegetalista"s dog which has "spiritual vision" to detect approaching enemies
 - **Demons** — Dangerous spirits that can cause illness or madness
 
 ## Dieta (Dietary Regime)

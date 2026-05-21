@@ -20,7 +20,7 @@ A plow pan (also called a "plow sole" or "hardpan") is a dense, compacted layer 
 
 ## Key Facts
 
-- **Formation by moldboard plow:** The plow's "sole" (bottom) slides across unplowed soil ~7 inches down, pressing heavily at the same depth every pass. Repeated over decades, this creates a hard layer several inches thick.
+- **Formation by moldboard plow:** The plow"s "sole" (bottom) slides across unplowed soil ~7 inches down, pressing heavily at the same depth every pass. Repeated over decades, this creates a hard layer several inches thick.
 - **Formation by rototiller:** The bent-over ends of rotating tines compress soil at the maximum tillage depth, creating a thinner but still significant compacted layer. Walk-behind tillers typically create plow pans at ~5 inches (12 cm); tractor tillers at ~7 inches (18 cm).
 - **Detection:** Visible as a shiny, polished layer ("plow pan") when soil is brushed away immediately after tilling. The compressed layer is harder than the original undisturbed soil.
 - **Root restriction:** Effectively limits crop root systems to the soil above the pan, even though the crop may ideally need 4+ feet (120 cm) of root depth.

@@ -10,7 +10,7 @@ tags: [neurotropic-fungi, classification, taxonomy, chemistry, psilocybin, ibote
 
 ## Overview
 
-Guzmán, Allen & Gartz (2000) organized the world's known neurotropic (psychoactive) fungi into four distinct groups based on their chemistry [[serotonin-receptor-interference-psychedelic-mechanism]] agonism of the indole alkaloids.
+Guzmán, Allen & Gartz (2000) organized the world"s known neurotropic (psychoactive) fungi into four distinct groups based on their chemistry [[serotonin-receptor-interference-psychedelic-mechanism]] agonism of the indole alkaloids.
 
 ### Species Included
 - **Amanita muscaria** — The "fly agaric," the most widely known species in this group. Contains ibotenic acid, muscimol, and muscarine (though muscarine is not the primary psychoactive compound). Its distinctive red cap with white spots makes it one of the most recognizable mushrooms in the world.

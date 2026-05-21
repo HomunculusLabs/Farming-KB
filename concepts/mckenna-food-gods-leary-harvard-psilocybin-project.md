@@ -21,7 +21,7 @@ type: concept
 
 In , the Harvard years
 of the early 1960s represent a pivotal and paradoxical moment in the history of
-[[richard-evans-schultes]] was, in McKenna's telling, "the reticent Brahmin, scholar, and
+[[richard-evans-schultes]] was, in McKenna"s telling, "the reticent Brahmin, scholar, and
 botanist/scientist" — a man of traditional academic disposition who had spent years in
 the Amazon documenting indigenous uses of psychoactive plants with painstaking precision.
 His work was characterised by taxonomic rigour, extensive field notes, and a deep respect
@@ -35,7 +35,7 @@ that either Leary or Schultes saw much to like in the other," a tension that mir
 the broader cultural fault line between scientific caution and psychedelic enthusiasm.
 
 This contrast is not merely biographical for McKenna; it is emblematic of the fundamental
-choice facing anyone who encounters the [[gartz-wasson-mexican-mushroom-cult-rediscovery]] tradition. Leary's earliest psychedelic experience was not with LSD
+choice facing anyone who encounters the [[gartz-wasson-mexican-mushroom-cult-rediscovery]] tradition. Leary"s earliest psychedelic experience was not with LSD
 but with [[stamets-psi-mazatec-mushroom-ceremonies-ethnobotany]] in Oaxaca, established the direction of what became the Harvard
 Psilocybin Project. The project was, in its original conception, an attempt to study the
 therapeutic and consciousness-expanding potential of psilocybin in controlled settings.
@@ -51,7 +51,7 @@ Hollingshead. But it was only a matter of time before they too sampled the conte
 the mayonnaise jar. Hollingshead gave the drug to the members of the psilocybin project
 and from then on LSD was part of their research repertoire."
 
-This passage captures several themes important to McKenna's broader argument. The image
+This passage captures several themes important to McKenna"s broader argument. The image
 of Leary — the self-appointed prophet of psychedelic consciousness — following
 Hollingshead "around for days on end" subverts the conventional narrative of Leary as the
 autonomous agent of the psychedelic revolution. The mayonnaise jar itself becomes a

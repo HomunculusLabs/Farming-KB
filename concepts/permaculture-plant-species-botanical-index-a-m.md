@@ -8,13 +8,13 @@ type: concept
 
 ## Why Botanical Nomenclature Matters in Permaculture
 
-Bill Mollison's *Permaculture: A Designer's Manual* organizes its extensive species appendix by scientific (botanical) name rather than common name. This is not mere academic formality — it is a practical necessity. Common names vary wildly across regions, languages, and cultures: "macadamia" means nothing to a Brazilian farmer, while "nogueira" tells a Portuguese speaker exactly which tree is meant. Botanical names provide a universal, stable reference that transcends these barriers, ensuring that designers worldwide can communicate unambiguously about the species they deploy.
+Bill Mollison"s *Permaculture: A Designer's Manual* organizes its extensive species appendix by scientific (botanical) name rather than common name. This is not mere academic formality — it is a practical necessity. Common names vary wildly across regions, languages, and cultures: "macadamia" means nothing to a Brazilian farmer, while "nogueira" tells a Portuguese speaker exactly which tree is meant. Botanical names provide a universal, stable reference that transcends these barriers, ensuring that designers worldwide can communicate unambiguously about the species they deploy.
 
 Beyond clarity, botanical nomenclature encodes **evolutionary relationships**. The genus name groups species that share fundamental traits — growth habit, root structure, flower morphology, and ecological role. When a permaculture designer learns that *Acacia* species are nitrogen-fixing legumes, that knowledge transfers to every member of the genus. Understanding these family-level relationships is essential for guild design, succession planning, and predicting how plants will interact in polycultures.
 
 ## Major Plant Families Represented (A–M)
 
-The first half of Mollison's index spans an enormous range of functional groups. The most heavily represented families include:
+The first half of Mollison"s index spans an enormous range of functional groups. The most heavily represented families include:
 
 ### Fabaceae (Legume Family)
 

@@ -23,7 +23,7 @@ sources:
 
 # Mycotoxins and Human Health
 
-Mycotoxins are poisonous compounds produced by fungi that contaminate food, indoor environments, and agricultural products. While most people are familiar with poisonous mushrooms, the more pervasive threats come from mold-produced toxins that operate invisibly in food chains and buildings. This page draws extensively from [[nicholas-money]]'s Mr. Bloomfield's Orchard.
+Mycotoxins are poisonous compounds produced by fungi that contaminate food, indoor environments, and agricultural products. While most people are familiar with poisonous mushrooms, the more pervasive threats come from mold-produced toxins that operate invisibly in food chains and buildings. This page draws extensively from [[nicholas-money]]"s Mr. Bloomfield's Orchard.
 
 ## Major Mycotoxin Categories
 
@@ -65,7 +65,7 @@ Produced by **Stachybotrys chartarum** (black mold) and Fusarium species:
 
 Produced by **Claviceps purpurea** (ergot fungus) on cereal grains:
 
-- Historical "St. Anthony's Fire" epidemics caused mass hallucinations, gangrene, and death
+- Historical "St. Anthony"s Fire" epidemics caused mass hallucinations, gangrene, and death
 - Led to the Salem witch trials and other episodes of mass hysteria
 - Modern ergotism is rare due to grain cleaning procedures
 - See [[entheogen-culture]] for the connection to the Eleusinian Mysteries
@@ -78,7 +78,7 @@ Produced by **Claviceps purpurea** (ergot fungus) on cereal grains:
 - Associated with water-damaged homes — burst pipes, flooded basements, wet drywall
 - **Not all strains produce toxins** — only some strains produce trichothecenes
 - Several other black molds (Cladosporium, Penicillium, Aspergillus, Alternaria) are far more prevalent in water-damaged homes but do NOT generate toxins
-- Susan Kaminskyj's advice: "If this mold didn't kill you yesterday, it's unlikely that you'll die today"
+- Susan Kaminskyj"s advice: "If this mold didn"t kill you yesterday, it's unlikely that you'll die today"
 - Treat isolated patches with diluted bleach, but address the moisture source
 
 ### Modern Housing and Mold Problems
@@ -109,7 +109,7 @@ Produced by **Claviceps purpurea** (ergot fungus) on cereal grains:
 Fungi secrete antibiotics to:
 - Remove competing microorganisms from their territory
 - Obtain nitrogen from dead bacteria (plant tissues are sugar-rich but protein-poor)
-- Species that form ink-caps, puffballs, and bird's nest fungi are adept bacterial predators
+- Species that form ink-caps, puffballs, and bird"s nest fungi are adept bacterial predators
 - See [[fungal-symbiosis-types]] and [[soil-food-web-nutrient-cycling]] for ecological context
 
 ## Nematode-Trapping Fungi

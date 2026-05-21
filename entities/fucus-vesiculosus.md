@@ -12,7 +12,6 @@ date: 2026-05-08
 updated: 2026-05-08
 sources:
   - Amsler, C.D. & Fairhead, V.A. (2006). "Defensive and sensory plant-volatile-communication-chemical-ecology of brown algae." Advances in Botanical Research, 43, 1–91.---
----
 
 ## Overview
 

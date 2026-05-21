@@ -29,7 +29,7 @@ The tree form portrays the movement of energy and particles in time and space, m
 
 ## Anatomy of the Core Model
 
-The general core model spirals out of a plane (P) that separates two media (M1 and M2). In the case of a real tree, this plane is the earth's surface separating atmosphere from soil.
+The general core model spirals out of a plane (P) that separates two media (M1 and M2). In the case of a real tree, this plane is the earth"s surface separating atmosphere from soil.
 
 ### Key Structural Elements
 

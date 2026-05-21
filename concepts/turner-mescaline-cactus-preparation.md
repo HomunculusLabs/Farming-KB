@@ -35,7 +35,7 @@ sand mixture with good drainage.
 
 ## Preparation Method
 
-Turner's preparation method for [[mescaline-peyote-and-san-pedro-guide]]:
+Turner"s preparation method for [[mescaline-peyote-and-san-pedro-guide]]:
 
 1. Cut out the spines, which is fairly easy on most Trichocereus
    species.

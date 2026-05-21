@@ -7,7 +7,7 @@ tags: [technique, chemical-process, cannabis, cannabinoid, isomerization]
 
 ## Description
 
-Isomerization in the context of cannabis processing refers to the chemical conversion of cannabidiol (CBD) into tetrahydrocannabinol (THC) and the simultaneous conversion of lower-potency "low-rotating" THC isomers into higher-potency "high-rotating" THC isomers. This process is a core technique described in Ben Lemon's *Cannabis Alchemy* (Chapter Two) and can dramatically increase the potency of cannabis oil — doubling it at minimum, and in some cases increasing it five to six times.
+Isomerization in the context of cannabis processing refers to the chemical conversion of cannabidiol (CBD) into tetrahydrocannabinol (THC) and the simultaneous conversion of lower-potency "low-rotating" THC isomers into higher-potency "high-rotating" THC isomers. This process is a core technique described in Ben Lemon"s *Cannabis Alchemy* (Chapter Two) and can dramatically increase the potency of cannabis oil — doubling it at minimum, and in some cases increasing it five to six times.
 
 ## Classification
 

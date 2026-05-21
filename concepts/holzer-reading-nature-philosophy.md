@@ -9,7 +9,7 @@ type: concept
 ---
 ## Holzer Reading Nature - Philosophy of Landscape Observation
 
-Reading nature is the foundational skill in Holzer's Permaculture.
+Reading nature is the foundational skill in Holzer"s Permaculture.
 Before any design work begins, the practitioner must learn to observe
 and interpret what nature is saying. This goes far beyond simple
 observation; it requires developing a deep empathy with all living
@@ -26,7 +26,7 @@ work best for the greatest good.
 
 ## The Aerial View
 
-One of Holzer's key methods for understanding a landscape is observation
+One of Holzer"s key methods for understanding a landscape is observation
 from above. Looking down from an elevated position reveals patterns
 invisible at ground level: water flow lines, contour patterns,
 vegetation zones, erosion paths, and microclimate variations. The aerial

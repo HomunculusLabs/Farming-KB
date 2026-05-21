@@ -10,7 +10,7 @@ sources:
 
 ## The Kykeon Potion and Ergot Hypothesis at Eleusis
 
-The central ritual of the [[bloomfield-ergot-claviceps-purpurea-ergotism]]) growing on barley -- Demeter's sacred grain.
+The central ritual of the [[bloomfield-ergot-claviceps-purpurea-ergotism]]) growing on barley -- Demeter"s sacred grain.
 
 ## The Kykeon Formula
 
@@ -30,7 +30,7 @@ The hierophant raised his voice in ancient measures: "The Terrible Queen has giv
 
 ### Why Barley Ergot
 
-Barley was Demeter's sacred grain, grown in the Rarian plain adjacent to Eleusis (which may explain the site choice). Barley was thought particularly susceptible to ergot infection. The arguments for ergot as the kykeon's active ingredient:
+Barley was Demeter"s sacred grain, grown in the Rarian plain adjacent to Eleusis (which may explain the site choice). Barley was thought particularly susceptible to ergot infection. The arguments for ergot as the kykeon's active ingredient:
 
 - **Symbiotic symbolism**: Ergot and barley growing together represented the union of death and rebirth
 - **Purple color**: Ergot's distinctive purple-brown matched Demeter's robe

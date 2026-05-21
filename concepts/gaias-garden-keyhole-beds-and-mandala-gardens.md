@@ -1,5 +1,5 @@
 ---
-title: Gaia's gaias garden keyhole beds and mandala gardens Beds and Mandala Gardens
+title: Gaia"s gaias garden keyhole beds and mandala gardens Beds and Mandala Gardens
 created: 2026-04-18
 updated: 2026-04-18
 type: concept

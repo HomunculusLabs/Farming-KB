@@ -46,7 +46,7 @@ Fungal parasitism spans the full spectrum of host organisms:
 - **Global crop losses**: Fungal pathogens destroy 20-30% of global crop production annually. Estimated losses: $200-300 billion per year
 - **Historical impact**: Irish Potato Famine (P. infestans), American chestnut blight (Cryphonectria parasitica — eliminated 3.5 billion chestnut trees from eastern North American forests), Dutch elm disease (Ophiostoma)
 - **Emerging threats**: Wheat stem rust Ug99 (Puccinia graminis f. sp. tritici) threatens global wheat production. First identified in Uganda (1999), has spread across Africa and the Middle East
-- **Banana**: Panama disease (Fusarium oxysporum f. sp. cubense Tropical Race 4) threatens the Cavendish banana — the world's most consumed banana variety. No effective control; could cause a global banana supply crisis
+- **Banana**: Panama disease (Fusarium oxysporum f. sp. cubense Tropical Race 4) threatens the Cavendish banana — the world"s most consumed banana variety. No effective control; could cause a global banana supply crisis
 
 ### Plant Defense Against Fungi
 

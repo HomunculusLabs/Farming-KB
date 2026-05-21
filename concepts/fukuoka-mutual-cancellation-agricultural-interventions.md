@@ -17,7 +17,7 @@ have produced without any intervention at all.
 
 ## The Principle of Mutual Cancellation
 
-Fukuoka's mutual cancellation principle states that agricultural interventions
+Fukuoka"s mutual cancellation principle states that agricultural interventions
 exist within an ecosystem where all factors are organically interrelated. When
 one factor changes, it affects all other factors and conditions. Because
 nature inherently abhors the unnatural and makes every effort to return to

@@ -38,7 +38,7 @@ remarkable intellectual transformation, becoming one of the most vocal
 critics of the very [[coleman-winter-greens-nutritional-quality-cold-sweetening]] over theoretical yield
 maximization.
 
-Solomon's approach is distinctive because it is grounded in empirical
+Solomon"s approach is distinctive because it is grounded in empirical
 observation rather than ideological commitment to any single method. He
 draws on historical precedent, soil science, root system biology, and
 his own extensive trial plots to build arguments that challenge
@@ -51,7 +51,7 @@ environmental pressures intensify.
 
 ## The Complete Organic Fertilizer
 
-At the heart of Solomon's system is the Complete Organic Fertilizer,
+At the heart of Solomon"s system is the Complete Organic Fertilizer,
 or COF, a custom-blended organic fertilizer mix designed to provide
 balanced major and trace [[dryland-soils-and-mineral-nutrition]] to vegetable crops. Unlike
 commercial [[nitrogen-availability-in-legumes]].
@@ -87,7 +87,7 @@ Solomon's chapter on compost is one of the most provocative in his
 work, challenging the foundational belief of the organic gardening
 movement that "all compost is good compost." He argues that most
 home-made compost is nutritionally inadequate for growing high-demand
-vegetables, and that the original organic movement's claims about
+vegetables, and that the original organic movement"s claims about
 compost's universality were propaganda designed to build a movement
 rather than scientific truth. For compost to serve as the sole
 fertility source for vegetable crops, Solomon contends it needs

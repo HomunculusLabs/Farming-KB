@@ -4,7 +4,7 @@ created: 2026-04-28
 tags: [syntropic-farming, permaculture, agroforestry, regenerative-agriculture, soil-health]
 date: 2026-04-28
 updated: 2026-04-28
-sources: ['raw/papers/working-with-agar.md']
+sources: ["raw/papers/working-with-agar.md']
 type: query
 ---
 
@@ -25,7 +25,7 @@ Syntropic systems are organized into vertical strata that mirror a natural fores
 
 ## Resources for Learning More
 
-- **Ernst Götsch's work** — search for "Life in Syntropy" documentary (free online)
+- **Ernst Götsch"s work** — search for "Life in Syntropy" documentary (free online)
 - **Felipe Pasini and Dayana Andrade** — Brazilian practitioners who teach syntropic methods internationally
 - **Project Wadi Attir** — syntropic principles applied in arid Middle Eastern conditions
 - **Lincoln Smith** — applies syntropic methods in temperate [[query-what-is-agroforestry-and-how-can-i-start]]

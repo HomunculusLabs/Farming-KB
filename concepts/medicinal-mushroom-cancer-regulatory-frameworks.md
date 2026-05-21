@@ -53,7 +53,7 @@ The Japanese system allows for approval based on a combination of traditional us
 
 ## China: Integration with Traditional Medicine
 
-China's regulatory approach is unique in formally integrating mushroom-derived products within the traditional Chinese medicine (TCM) framework:
+China"s regulatory approach is unique in formally integrating mushroom-derived products within the traditional Chinese medicine (TCM) framework:
 
 - **Chinese Pharmacopoeia:** Multiple mushroom species are listed as official medicines, including *[[ganoderma-lucidum]]* (lingzhi/reishi), *Trametes versicolor* (yunzhi), and *[[chaga-inonotus-obliquus]]* (chaga)
 - **Drug approval classes:** China has a tiered drug approval system that allows faster approval for products with strong traditional use evidence combined with modern pharmacological validation

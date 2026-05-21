@@ -35,8 +35,8 @@ experiments. Although carried out in psychiatric clinics and
 universities, these were reported not in scientific journals but in
 magazines and daily papers. Sidney Katz participated in an LSD
 experiment at Saskatchewan Hospital in Canada and described his
-experiences in MacLean's Canada National Magazine as "My Twelve Hours as
-a Madman." The German magazine Quick reported painter Wilfried Zeller's
+experiences in MacLean"s Canada National Magazine as "My Twelve Hours as
+a Madman." The German magazine Quick reported painter Wilfried Zeller"s
 LSD experiment at the Viennese University Psychiatric Clinic.
 
 The most influential publication was a large illustrated article in
@@ -48,12 +48,12 @@ him after three frustrating marriages.
 
 ## Bestsellers Fuel Public Interest
 
-Books appeared on the U.S. market describing LSD's fantastic effects.
+Books appeared on the U.S. market describing LSD"s fantastic effects.
 Jane Dunlap's Exploring Inner Space (Harcourt Brace and World, 1961)
 and Constance A. Newland's My Self and I (NAL Signet Books, 1963)
 became bestsellers. Newland described how she was cured of frigidity,
 with the subtitle "The Intimate and Completely Frank Record of One
-Woman's Courageous Experiment with Psychiatry's Newest Drug, LSD 25."
+Woman"s Courageous Experiment with Psychiatry's Newest Drug, LSD 25."
 The mistaken opinion that simply taking LSD could accomplish miraculous
 transformations led to broad diffusion of self-experimentation.
 

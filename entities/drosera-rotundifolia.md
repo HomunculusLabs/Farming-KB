@@ -13,7 +13,6 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Gibson TC (1991). "Field observations on nutrition of the sundew Drosera rotundifolia." Oecologia 85(3): 383-388.---
----
 
 ## Overview
 

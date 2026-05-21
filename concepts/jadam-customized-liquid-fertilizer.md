@@ -11,7 +11,7 @@ sources:
 
 ## Overview
 
-One of JADAM's most innovative concepts is crop-specific liquid fertilizer: making [[comparison-leaf-mold-composting-vs-hot-composting-method]] is sufficient regardless of container size
+One of JADAM"s most innovative concepts is crop-specific liquid fertilizer: making [[comparison-leaf-mold-composting-vs-hot-composting-method]] is sufficient regardless of container size
 - The older the fertilizer, the better (like soy sauce)
 - You can make next year's fertilizer as you go through this year's farming
 
@@ -53,7 +53,7 @@ A household can produce approximately 2,000L of food waste JLF per year. Use wil
 
 ## Human Excreta JLF
 
-JADAM advocates returning to the traditional use of human manure, which was treasured in Korean farming history. Human urine JLF is 30 times richer in nitrogen than wild grass JLF. One day's urine from an adult contains 30g of urea plus amino acids and inorganic salts. A family of four can produce: 1 ton human manure JLF, 2+ tons urine JLF, and 2 tons food waste JLF annually.
+JADAM advocates returning to the traditional use of human manure, which was treasured in Korean farming history. Human urine JLF is 30 times richer in nitrogen than wild grass JLF. One day"s urine from an adult contains 30g of urea plus amino acids and inorganic salts. A family of four can produce: 1 ton human manure JLF, 2+ tons urine JLF, and 2 tons food waste JLF annually.
 
 The Soil Association's 2010 report "Peak Phosphorus" warned that phosphate rock will peak in 2033, making human manure vital for future food security.
 

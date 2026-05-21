@@ -40,7 +40,7 @@ When the pines die from the combined effects of nematodes, weakened mycorrhizal 
 - **Predator decline**: As mice vanish, weasels and snakes that feed on them decline.
 - **Absurd intervention**: To protect the weasels, man begins raising mice to restore the rodent population.
 
-Fukuoka's devastating conclusion: "Isn't this the stuff of crazed dreams?"
+Fukuoka"s devastating conclusion: "Isn"t this the stuff of crazed dreams?"
 
 ## The Matsutake-Mycorrhizal Connection
 

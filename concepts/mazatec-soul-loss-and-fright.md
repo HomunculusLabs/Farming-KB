@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-Among the Mazatec Indians of Oaxaca, Mexico, one of the most important categories of illness is *fright*—a condition known in Spanish as *susto* (fright/soul loss). This concept, shared with many indigenous cultures of the Americas and with Siberian traditions, holds that traumatic experiences can cause the soul or spirit to become separated from the body. The resulting condition manifests as depression, apathy, loss of vitality, and—in severe cases—a will to live so diminished that the person appears to be dying. The Mazatec shaman's primary therapeutic function for this condition is to locate the wandering spirit, retrieve it, and reintegrate the personality of the afflicted person.
+Among the Mazatec Indians of Oaxaca, Mexico, one of the most important categories of illness is *fright*—a condition known in Spanish as *susto* (fright/soul loss). This concept, shared with many indigenous cultures of the Americas and with Siberian traditions, holds that traumatic experiences can cause the soul or spirit to become separated from the body. The resulting condition manifests as depression, apathy, loss of vitality, and—in severe cases—a will to live so diminished that the person appears to be dying. The Mazatec shaman"s primary therapeutic function for this condition is to locate the wandering spirit, retrieve it, and reintegrate the personality of the afflicted person.
 
 ## The Geography of Fright
 
@@ -28,7 +28,7 @@ The Mazatecs walk through their mountains on arduous paths at different elevatio
 
 ### The Siberian Connection
 
-The Mazatecs' beliefs about soul loss follow those of their ancestors, with connections to Siberian shamanic traditions. The core concept is that the soul can be "frightened from one"—the spirit goes, and the person is alienated from themselves or possessed by another. In the Mazatec understanding:
+The Mazatecs" beliefs about soul loss follow those of their ancestors, with connections to Siberian shamanic traditions. The core concept is that the soul can be "frightened from one"—the spirit goes, and the person is alienated from themselves or possessed by another. In the Mazatec understanding:
 
 1. A traumatic event occurs (accident, illness, surgery, encounter with supernatural forces)
 2. The shock causes the spirit to flee the body
@@ -43,7 +43,7 @@ The condition presents with symptoms recognizable across cultures as a form of p
 - Apathy and unresponsiveness
 - Loss of will to live
 - Depression
-- Feeling that one's life is over
+- Feeling that one"s life is over
 - Sense of failure and worthlessness
 - Physical debilitation without organic cause
 - Dissociation—a feeling of not being oneself
@@ -70,7 +70,7 @@ The mushrooms (*Psilocybe* species) serve as the primary tool for diagnosing and
 
 ### Locating the Wandering Spirit
 
-The shaman's first task is to locate where the spirit has gone. Through mushroom-induced vision, he divines the place of fright—the location where the traumatic event caused the spirit to separate. As the medicine woman implores: "Let her spirit come back from where it got lost, from where it stayed, from where it was left behind, from wherever it is that her spirit is wandering lost."
+The shaman"s first task is to locate where the spirit has gone. Through mushroom-induced vision, he divines the place of fright—the location where the traumatic event caused the spirit to separate. As the medicine woman implores: "Let her spirit come back from where it got lost, from where it stayed, from where it was left behind, from wherever it is that her spirit is wandering lost."
 
 ### Payment to the Powers
 
@@ -78,7 +78,7 @@ If the spirit has been appropriated by spiritual forces, the shaman must negotia
 
 ### Retrieval and Reintegration
 
-The core therapeutic act is the retrieval of the spirit and its reintegration into the patient's personality. This is accomplished through:
+The core therapeutic act is the retrieval of the spirit and its reintegration into the patient"s personality. This is accomplished through:
 
 1. **The shaman's mushroom-induced journey**: He travels in visionary consciousness to the location of the lost spirit
 2. **Verbal invocation**: He calls the spirit back through chanting and prayer

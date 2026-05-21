@@ -21,7 +21,7 @@ The species produces dense clusters of tubular, yellowish-green flowers during t
 
 Like all members of the genus, it is winter-growing and summer-dormant, shedding its leaves as it enters flower. Tylecodon wallichii is popular in specialist succulent collections but requires careful handling due to its toxicity.
 
-In cultivation, it is sometimes referred to by the common name "Wallich's butter bush," though this name is not widely used. Its compact size and attractive caudex make it a favorite among caudiciform enthusiasts.
+In cultivation, it is sometimes referred to by the common name "Wallich"s butter bush," though this name is not widely used. Its compact size and attractive caudex make it a favorite among caudiciform enthusiasts.
 
 The species is easily distinguished from other Tylecodon by its very slender stems and small, narrow leaves. In the wild, plants may form low, spreading mats rather than the more upright habit seen in cultivation.
 

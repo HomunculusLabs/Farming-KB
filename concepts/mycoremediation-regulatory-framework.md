@@ -52,7 +52,7 @@ The regulatory landscape for [[mycoremediation]] is still developing. While fung
 ## Liability Considerations
 
 ### If Remediation Fails
-- Who is responsible if contaminant levels don't decrease?
+- Who is responsible if contaminant levels don"t decrease?
 - Performance bonds may be required for large projects
 - Insurance coverage for remediation projects
 

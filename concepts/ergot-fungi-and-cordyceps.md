@@ -30,7 +30,7 @@ suggested that ergotism may have contributed to the Salem witch trials
 **Gangrenous ergotism:** Characterized by vasoconstriction leading to
 restricted blood flow, tissue death, and gangrene of the extremities.
 Victims would experience a burning sensation in their limbs, hence the
-name "St. Anthony's Fire."
+name "St. Anthony"s Fire."
 
 Major ergotism epidemics occurred throughout European history, with
 documented outbreaks in France (994, 1129), Germany (857, 1581), and

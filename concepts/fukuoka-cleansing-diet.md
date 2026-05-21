@@ -14,7 +14,7 @@ Masanobu Fukuoka advocated a cleansing diet based on [[fukuoka-natural-food-phil
 
 ## Seasonal Vegetables
 
-Seasonal vegetables provided the variety and micronutrients that complemented the brown rice. Fukuoka emphasized eating vegetables that grew naturally in the local environment during each season. This ensured that the food was fresh, vital, and appropriate for the body's needs at that time of year.
+Seasonal vegetables provided the variety and micronutrients that complemented the brown rice. Fukuoka emphasized eating vegetables that grew naturally in the local environment during each season. This ensured that the food was fresh, vital, and appropriate for the body"s needs at that time of year.
 
 In the spring, tender green shoots and leaves. In the summer, a profusion of fruits and vegetables. In the fall, [[permaculture-plants-root-crops-and-tubers]] and preserved foods. Each season provided its own medicine.
 

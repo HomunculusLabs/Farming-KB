@@ -8,11 +8,11 @@ type: concept
 
 The Law of the Minimum, formulated by Justus Von Liebig in 1863, is one of the most enduring principles in agricultural science. Along with the identification of nitrogen, phosphorus, and potassium as the primary limiting nutrients, it gave rise to the NPK fertilizer system that dominates modern gardening and farming. Understanding this law is essential for anyone seeking to optimize plant nutrition, whether through organic or conventional means.
 
-## Von Liebig's Law of the Minimum
+## Von Liebig"s Law of the Minimum
 
 Von Liebig stated the law as follows: "A manure containing several ingredients acts in this wise: the effect of all of them in the soil accommodates itself to that one among them which, in comparison to the wants of the plant, is present in the smallest quantity."
 
-The principle is elegantly illustrated by the **barrel analogy**: imagine a wooden barrel where each stave represents a different essential nutrient. The barrel can only hold water up to the height of the shortest stave, regardless of how tall the others may be. Similarly, plant growth is limited by the nutrient that is least available relative to the plant's needs. Adding more of an already-abundant nutrient provides no benefit whatsoever if another nutrient remains deficient.
+The principle is elegantly illustrated by the **barrel analogy**: imagine a wooden barrel where each stave represents a different essential nutrient. The barrel can only hold water up to the height of the shortest stave, regardless of how tall the others may be. Similarly, plant growth is limited by the nutrient that is least available relative to the plant"s needs. Adding more of an already-abundant nutrient provides no benefit whatsoever if another nutrient remains deficient.
 
 Some historians credit Carl Sprinkle as an earlier originator of the concept, but Von Liebig's formulation and popularization ensured its place in agricultural science.
 

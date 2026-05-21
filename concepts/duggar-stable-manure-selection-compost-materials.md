@@ -5,7 +5,7 @@ tags:
 ---
 ## B.M. Duggar (1915) — Compost Raw Materials, Quality Criteria, and Substitutes
 
-Duggar's 1915 USDA bulletin establishes stable manure as the irreplaceable foundation of
+Duggar"s 1915 USDA bulletin establishes stable manure as the irreplaceable foundation of
 commercial [[manure-quality-and-soil-fertility]], bedding materials,
 fermentation requirements, and substitute possibilities remains a reference point for
 understanding the biological basis of [[history-of-commercial-mushroom-cultivation]] production." Wherever [[fao-spent-mushroom-substrate-composting-recycling]].

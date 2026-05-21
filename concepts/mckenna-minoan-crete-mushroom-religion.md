@@ -12,7 +12,7 @@ sources:
 
 ## Refugees from Catal Huyuk
 
-The story of Minoan civilization begins around 6000 B.C., when a small colony of immigrants, probably from Anatolia, first arrived on the island's shores. These immigrants brought the Goddess with them, as well as an agrarian technology that classifies these first new settlers as Neolithic. For the next four thousand years there was slow and steady technological progress in pottery, weaving, metallurgy, engraving, architecture, and other crafts, as well as increasing trade and the gradual evolution of the lively and joyful artistic style so characteristic of Crete.
+The story of Minoan civilization begins around 6000 B.C., when a small colony of immigrants, probably from Anatolia, first arrived on the island"s shores. These immigrants brought the Goddess with them, as well as an agrarian technology that classifies these first new settlers as Neolithic. For the next four thousand years there was slow and steady technological progress in pottery, weaving, metallurgy, engraving, architecture, and other crafts, as well as increasing trade and the gradual evolution of the lively and joyful artistic style so characteristic of Crete.
 
 On the island of Crete where the Goddess was still supreme there are no signs of war. Here the economy prospered and the arts flourished. And even when in the fifteenth century B.C. the island finally came under Achaean dominion, the Goddess and the way of thinking and living she symbolized still appear to have held fast.
 

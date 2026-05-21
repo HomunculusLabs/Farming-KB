@@ -34,7 +34,7 @@ Each genus is rated for both indoor and outdoor cultivation, since the same spec
 | *Fomes/Fomitopsis/Laricifomes* | Iceman polypore | 4 | 3 |
 | *Ganoderma* | Reishi | 2 | 1 |
 | *Grifola* | Maitake, hen of the woods | 4 | 2 |
-| *Hericium* | Lion's mane | 2 | 2 |
+| *Hericium* | Lion"s mane | 2 | 2 |
 | *Hypholoma* | Brick top | 2 | 1 |
 | *Hypsizygus* | Elm oyster, shimeji | 1 | 1 |
 | *Laetiporus* | Chicken of the woods | 5 | 3 |

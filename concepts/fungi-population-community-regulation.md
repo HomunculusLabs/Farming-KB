@@ -16,7 +16,7 @@ Fungi influence populations and communities through diverse mechanisms. [[mycorr
 
 ### The Role of Mycorrhizal Inoculum in Primary Succession
 
-One of the major determinants of success for early colonizing plants during seral succession is nutrient availability. Mycorrhizal associations enhance a plant's ability to sequester nutrients from limited resources, providing a competitive advantage in nutrient-poor successional environments. The dispersal of hypogeous fungal spores by rodents is an important mechanism for delivering mycorrhizal inoculum to plants establishing on bare ground.
+One of the major determinants of success for early colonizing plants during seral succession is nutrient availability. Mycorrhizal associations enhance a plant"s ability to sequester nutrients from limited resources, providing a competitive advantage in nutrient-poor successional environments. The dispersal of hypogeous fungal spores by rodents is an important mechanism for delivering mycorrhizal inoculum to plants establishing on bare ground.
 
 Spore deposition by small mammals is not random — animals defecate in middens and deposit more spores at active feeding sites than elsewhere. This creates patchy distributions of mycorrhizal inoculum potential across the landscape, which in turn influences which plant species can successfully establish in each microhabitat.
 

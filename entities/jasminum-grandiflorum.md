@@ -31,7 +31,7 @@ The genus *Jasminum* contains approximately 200 species distributed across tropi
 
 *J. grandiflorum* is a vigorous, scrambling, deciduous shrub or weak climber, typically reaching 2–4 meters in height with support. Stems are slender, angular, and trailing, with opposite, pinnate leaves composed of 5–7 leaflets.
 
-Leaflets are ovate to elliptic, 2–5 cm long and 1–2 cm wide, dark green above and paler below. The foliage is relatively inconspicuous compared to the flowers, which are the plant's primary ornamental and commercial feature.
+Leaflets are ovate to elliptic, 2–5 cm long and 1–2 cm wide, dark green above and paler below. The foliage is relatively inconspicuous compared to the flowers, which are the plant"s primary ornamental and commercial feature.
 
 Flowers are borne in terminal or axillary cymes of 5–10 blooms. Individual flowers are 2–3 cm in diameter, with a slender tubular corolla 1.5–2 cm long and 5–6 spreading, elliptic lobes. Petals are pure white, turning pinkish with age.
 

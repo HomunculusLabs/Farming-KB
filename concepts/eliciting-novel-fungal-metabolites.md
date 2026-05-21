@@ -32,7 +32,7 @@ The most practical method for producing harvestable volumes of metabolites invol
 
 The [[gourmet-medicinal-mushroom-casing-layer-techniques]] Fomes fomentarius (iceman polypore) has demonstrated notable activity against E. coli and other bacterial pathogens using this method. In controlled experiments, blocks of F. fomentarius that were dosed with E. coli each produced over 100 ml of metabolite-rich fluid over several days, while control blocks dosed with water produced only baseline metabolites.
 
-The significance of this approach extends beyond simple antimicrobial production. The process can create novel chemical cocktails specific to individual needs—whether an anticancer compound or an antibiotic for a rare infection. The fungus tailors its metabolic response to the specific strain or ecotype of the pathogen it encounters, potentially producing compounds customized to pathogens that have adapted to a particular host's immune system.
+The significance of this approach extends beyond simple antimicrobial production. The process can create novel chemical cocktails specific to individual needs—whether an anticancer compound or an antibiotic for a rare infection. The fungus tailors its metabolic response to the specific strain or ecotype of the pathogen it encounters, potentially producing compounds customized to pathogens that have adapted to a particular host"s immune system.
 
 This method has also been used successfully to elicit metabolites from several mushroom species that typically do not produce any notable metabolites at all in standard culture conditions, dramatically expanding the range of fungi available for metabolite discovery.
 

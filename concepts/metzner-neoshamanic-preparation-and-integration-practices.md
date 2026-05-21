@@ -36,7 +36,7 @@ Participants gather before the ceremony to share their intentions and purposes
 with the group. This communal practice creates accountability and builds trust
 among participants by revealing vulnerability and shared human concerns.
 
-It allows the guide or facilitator to understand each person's specific needs,
+It allows the guide or facilitator to understand each person"s specific needs,
 fears, and aspirations, enabling more responsive guidance during the ceremony.
 The act of articulating an intention verbally transforms a private hope into a
 shared commitment.

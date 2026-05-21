@@ -10,7 +10,7 @@ one of the most powerful mechanical [[fungal-biomechanical-biochemical-weatherin
 
 ## Rice Blast Disease
 Rice ranks as the second largest crop on Earth and is a staple food for more than
-half the world's population. A rice field infected by Magnaporthe looks as if it
+half the world"s population. A rice field infected by Magnaporthe looks as if it
 has been struck by a bomb, which accounts for the common name "rice blast." The
 fungus usually infects the leaves and spreads as an invasive mycelium, consuming
 plant tissues and starving the developing grain. Sometimes the neck or panicle is

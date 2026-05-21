@@ -11,19 +11,19 @@ created: 2026-05-08
 
 The Ucayali region of Peru, centered around the city of Pucallpa and the nearby town of Yarina, is home to a significant concentration of ayahuasca practitioners known as ayahuasqueros. These practitioners range from deeply respected community healers to opportunistic entrepreneurs catering to the tourist trade. The variation in character, motivation, and ethical conduct among ayahuasqueros presents a complex landscape for anyone seeking authentic ceremonial experiences.
 
-R. Stuart's firsthand observations during a visit to the Ucayali region in November 2001 provide rare detailed portraits of individual practitioners and their practices. These profiles reveal the wide spectrum of integrity and competence that exists among ayahuasca practitioners serving the tourist market.
+R. Stuart"s firsthand observations during a visit to the Ucayali region in November 2001 provide rare detailed portraits of individual practitioners and their practices. These profiles reveal the wide spectrum of integrity and competence that exists among ayahuasca practitioners serving the tourist market.
 
 ## Practitioner "B": The Elderly Shaman of Yarina
 
 ### Background and Practice
 
-Practitioner "B" was an elderly shaman based in Yarina, a town near Pucallpa. His son served as the director of the family's religious practice and was giving workshops in the United States at the time of observation. During the son's absence, "B" assumed leadership of the nightly [[amazonian-boa-spirits-and-water-beings-in-shamanic-practice]].
+Practitioner "B" was an elderly shaman based in Yarina, a town near Pucallpa. His son served as the director of the family"s religious practice and was giving workshops in the United States at the time of observation. During the son's absence, "B" assumed leadership of the nightly [[amazonian-boa-spirits-and-water-beings-in-shamanic-practice]].
 
 The observation that "B" was a habitual liar raises questions about the authenticity of his ceremonial practice and the trustworthiness of any guidance he might offer during ceremonies. It also illustrates a fundamental challenge of [[metzner-shamanic-singing-icaros-rhythm-and-entrainment]] in the darkness of his home at night. This practice of holding private family ceremonies alongside any tourist services suggests that his ayahuasca practice was rooted in genuine community and family tradition rather than being exclusively oriented toward commercial exploitation.
 
 His pricing was relatively modest — about ten dollars to give ayahuasca to a tourist — compared to the thirty dollars charged by some other practitioners in the region. This lower price point, combined with his reputation for honor, suggests a practitioner whose primary commitment was to the ceremonial tradition rather than to maximizing revenue.
 
-## B's Nephew: The Enterprising Shaman
+## B"s Nephew: The Enterprising Shaman
 
 ### Economic Success
 

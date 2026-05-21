@@ -18,7 +18,7 @@ Edge is the **interface between different media or systems**. Examples include:
 - Frost and non-frost zones on a slope
 - Cultivated land meeting wild land
 
-Wherever two different states or systems meet, an edge is created. [[bill-mollison]] recounts that the concept of edge was revealed to him through the [[pattern-applications-and-tribal-pattern-knowledge]] of **Pitjantjatjara Aboriginal women** in the Australian desert. Their intricate pattern systems functioned as ecological maps, encoding deep understanding of how edges operate in landscape systems. Aboriginal women's pattern knowledge — traditionally dismissed by Western science as decorative — is in fact a sophisticated cartographic and ecological language that maps water sources, food resources, animal movements, and seasonal changes through geometric patterns rooted in edge dynamics.
+Wherever two different states or systems meet, an edge is created. [[bill-mollison]] recounts that the concept of edge was revealed to him through the [[pattern-applications-and-tribal-pattern-knowledge]] of **Pitjantjatjara Aboriginal women** in the Australian desert. Their intricate pattern systems functioned as ecological maps, encoding deep understanding of how edges operate in landscape systems. Aboriginal women"s pattern knowledge — traditionally dismissed by Western science as decorative — is in fact a sophisticated cartographic and ecological language that maps water sources, food resources, animal movements, and seasonal changes through geometric patterns rooted in edge dynamics.
 
 ## Why Edge Matters
 
@@ -42,7 +42,7 @@ A classic illustration of applied edge design: blueberries naturally thrive at t
 - Creates harvests from both the crop and the forest system simultaneously
 - Builds soil health through the natural cycling of pine needles and berry plant residues
 
-The key insight is that **arranging elements to maximize their shared edge** produces more total output than any element managed in isolation. The designer's role is to find and intensify these productive interfaces.
+The key insight is that **arranging elements to maximize their shared edge** produces more total output than any element managed in isolation. The designer"s role is to find and intensify these productive interfaces.
 
 ## Edge Harmonics and Dennis McCarthy
 
@@ -81,7 +81,7 @@ Each level supports different species suited to its particular conditions — he
 
 ## Time Stacking
 
-**Time stacking** is the temporal analogue of spatial edge design. Rather than folding space to increase edge, the designer **layers crops in time** so that multiple species occupy the same space across seasons. Masanobu **Fukuoka's** natural farming approach is the canonical example: he layered successive crops — rice, barley, clover, winter grain — so that the ground was never bare and multiple harvests were obtained from a single plot each year. Each crop's residue became the next crop's mulch and nutrient source.
+**Time stacking** is the temporal analogue of spatial edge design. Rather than folding space to increase edge, the designer **layers crops in time** so that multiple species occupy the same space across seasons. Masanobu **Fukuoka"s** natural farming approach is the canonical example: he layered successive crops — rice, barley, clover, winter grain — so that the ground was never bare and multiple harvests were obtained from a single plot each year. Each crop's residue became the next crop's mulch and nutrient source.
 
 ### The British High Farming Rotation
 

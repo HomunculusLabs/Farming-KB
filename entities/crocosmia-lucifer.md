@@ -1,5 +1,5 @@
 ---
-title: "Crocosmia 'Lucifer'"
+title: "Crocosmia "Lucifer'"
 type: species
 tags:
   - iridaceae

@@ -15,7 +15,7 @@ The Haze lineage represents one of the most influential genetic families in [[qu
 
 Haze was developed by a group of brothers known as the "Haze Brothers" in the Santa Cruz area of Northern California during the late 1960s and early 1970s. The original Haze was created by crossing landrace sativas from Colombia, Mexico, Thailand, and possibly South India. The goal was to produce a purely sativa strain that combined the best traits of these diverse equatorial and subtropical genetics.
 
-The [[cannabis-sativa]] Volume 3 is Tom Hill's Original Haze, a pure sativa variety that represents one of the most faithful expressions of the original Haze genetics. Hill, a legendary American breeder, preserved and worked with Haze genetics for decades, maintaining lines that traced directly back to the original Haze Brothers' stock.
+The [[cannabis-sativa]] Volume 3 is Tom Hill"s Original Haze, a pure sativa variety that represents one of the most faithful expressions of the original Haze genetics. Hill, a legendary American breeder, preserved and worked with Haze genetics for decades, maintaining lines that traced directly back to the original Haze Brothers' stock.
 
 Tom Hill's Original Haze is characterized by its tall stature, open branching structure, and exceptionally long flowering period. The high is described as profoundly cerebral and psychedelic, with the kind of energetic, mind-expanding effects that made Haze famous. For dedicated sativa enthusiasts, Tom Hill's work represents the gold standard of Haze preservation.
 
@@ -43,7 +43,7 @@ The long flowering period is the most significant obstacle. While modern Haze hy
 
 ## Cultural Significance
 
-Haze occupies a unique place in cannabis culture. During the 1970s and 1980s, Haze was considered the pinnacle of cannabis quality, and its name became synonymous with premium sativa. The strain's association with the counterculture movement and its reputation for producing intense psychedelic effects made it legendary among cannabis enthusiasts.
+Haze occupies a unique place in cannabis culture. During the 1970s and 1980s, Haze was considered the pinnacle of cannabis quality, and its name became synonymous with premium sativa. The strain"s association with the counterculture movement and its reputation for producing intense psychedelic effects made it legendary among cannabis enthusiasts.
 
 The Jimi Hendrix song "Purple Haze," while not directly named after the cannabis strain, became permanently linked to it in popular culture. The strain's mystique was further enhanced by its relative scarcity -- true Haze was difficult to grow and even harder to find, making it a prized commodity among those who knew about it.
 

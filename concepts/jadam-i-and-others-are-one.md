@@ -9,7 +9,7 @@ tags: [jadam]
 
 ## Philosophical Depth
 
-This principle has roots in Laozi's Dao De Jing (Chapter 41): "I see the world without going out the door." It means that by deeply understanding one thing (yourself), you understand everything (the world).
+This principle has roots in Laozi"s Dao De Jing (Chapter 41): "I see the world without going out the door." It means that by deeply understanding one thing (yourself), you understand everything (the world).
 
 In farming, this means: deeply understand your own body's health, and you will understand your soil's health, your crops' health, and the health of your entire farming ecosystem.
 

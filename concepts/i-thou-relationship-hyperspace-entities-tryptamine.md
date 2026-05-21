@@ -11,12 +11,12 @@ created: 2026-05-09
 
 ## Overview
 
-In his 1983 Esalen lecture, ketamine, you'll find, stutter often and are blind.'" This
+In his 1983 Esalen lecture, ketamine, you"ll find, stutter often and are blind.'" This
 suggests that the entities encountered across different psychedelic
 states are not uniform but vary in character, coherence, and
 reliability according to the compound used to access them.
 
-The ketamine entities, in McKenna's playful taxonomy, are
+The ketamine entities, in McKenna"s playful taxonomy, are
 distinguished by stuttering communication and blindness—suggesting
 a less coherent, more fragmentary intelligence than the tryptamine
 entities. This differential characterization implies that the nature
@@ -29,7 +29,7 @@ of specific neural states, or some combination of both.
 
 McKenna uses the story of Dorothy's first encounter with the Wizard
 of Oz as a cautionary metaphor: "There is no dignity in the universe
-unless we meet these things on our feet." Dorothy's initial response
+unless we meet these things on our feet." Dorothy"s initial response
 to Oz is genuflection—falling to her knees before an impressive but
 ultimately deceptive display. McKenna argues that the same pattern
 repeats in psychedelic experiences: the overwhelming phenomenological
@@ -37,9 +37,9 @@ power of the entity encounter naturally produces a submissive
 response that must be consciously resisted.
 
 "Magicians, people who invoke these things, have always understood
-that one must go into such encounters with one's wits about oneself."
+that one must go into such encounters with one"s wits about oneself."
 This principle echoes across magical traditions, from the Golden
-Dawn's banishing rituals to the shamanic practices described in
+Dawn"s banishing rituals to the shamanic practices described in
 comparative anthropological work. The common thread is that engagement
 with non-ordinary intelligences requires preparation, boundaries,
 and critical discernment.

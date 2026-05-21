@@ -13,7 +13,7 @@ MDOH (N-Hydroxy-MDA; 3,4-methylenedioxy-N-hydroxyamphetamine) is a psychedelic a
 
 Duration of effects: 3 - 6 hours.
 
-The dosage and duration are remarkably similar to those of mda-entity|MDA itself, a coincidence that led to an important discovery in Shulgin's research.
+The dosage and duration are remarkably similar to those of mda-entity|MDA itself, a coincidence that led to an important discovery in Shulgin"s research.
 
 ## Qualitative Effects
 

@@ -9,7 +9,7 @@ type: entity
 ## Description
 
 David Hoye is the author of *[[cannabis-oil-extraction-basics]], cannabinoid isolation, and isomerization of CBD to THC.
-- The book cited and adapted peer-reviewed scientific procedures, including Roger Adams' isomerization method from the Journal of the American Chemical Society (vol. 63, p. 2211) and the Lloydia Journal of Natural Products (vol. 33, no. 4, p. 456) cannabinoid isolation procedure.
+- The book cited and adapted peer-reviewed scientific procedures, including Roger Adams" isomerization method from the Journal of the American Chemical Society (vol. 63, p. 2211) and the Lloydia Journal of Natural Products (vol. 33, no. 4, p. 456) cannabinoid isolation procedure.
 - Hoye's work was referenced by Isomerizer users who visited college medical libraries to verify the chemical procedures described in the book. One correspondent noted looking up "the formula reference given by David Hoye in Cannabis Alchemy."
 - The book covered advanced topics including chromatography using Florisil, isolation of pure cannabidiol via cannabidiol-bis-3,5-dinitrobenzoate intermediate, and conversion of pure cannabidiol to pure THC.
 - *Cannabis Alchemy* served as a primary reference text for the community of Isomerizer and ISO-2 users, with Thai Power and its IsoNews newsletter building upon the procedures Hoye documented.

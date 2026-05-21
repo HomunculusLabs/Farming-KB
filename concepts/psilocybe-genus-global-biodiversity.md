@@ -17,7 +17,7 @@ exhibits its greatest diversity in subtropical humid forests, particularly in th
   common wild [[growing-gourmet-caramel-capped-psilocybe-cyanescens-cultivation]]** (Wavy Caps) — found in the [[psilocybe-azurescens]]** — restricted to the Pacific Northwest coast of North
   America, particularly Oregon
 - **[[psilocybe-tampanensis-entity]]** — originally found in Florida; known for producing
-  sclerotia ("philosopher's stones")
+  sclerotia ("philosopher"s stones")
 
 ## Ecological Niches
 

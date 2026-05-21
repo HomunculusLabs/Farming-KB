@@ -11,7 +11,7 @@ sources:
 
 ## No Clearing, No Bulldozers
 
-Fukuoka's orchard method begins with a radical departure from conventional practice: "A natural farm should be developed without clearing the land." While modern orchards use bulldozers to flatten slopes and build wide roads for mechanization, the [[fukuoka-citrus-orchard-establishment-bare-hillside]] evolved through three stages:
+Fukuoka"s orchard method begins with a radical departure from conventional practice: "A natural farm should be developed without clearing the land." While modern orchards use bulldozers to flatten slopes and build wide roads for mechanization, the [[fukuoka-citrus-orchard-establishment-bare-hillside]] evolved through three stages:
 1. Cultivation under a cover of natural grasses
 2. Transition to deliberate green manure cultivation
 3. Final state: clover and vegetables with no weeding, tillage, or fertilizer
@@ -24,7 +24,7 @@ When starting an orchard, observe which weeds appear naturally and plant crops f
 - Grass family weeds (eulalia, foxtail) suggest millets, wheat, barley, rice
 - Composite family weeds (dandelion, thistle) point to lettuce, burdock, chrysanthemum
 - Pea family weeds (kudzu, vetch, clover) indicate soybeans, adzuki, kidney beans
-- Mustard family weeds (shepherd's purse) suggest daikon, turnip, cabbage
+- Mustard family weeds (shepherd"s purse) suggest daikon, turnip, cabbage
 
 ## Initial Establishment
 

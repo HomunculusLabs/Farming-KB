@@ -16,7 +16,7 @@ In *The Natural Way of Farming*, Masanobu Fukuoka elevated the humble task of bu
 - **Rain and intermittent irrigation**: Fissures develop in the levee, causing leakage
 - **Poor repairs**: Makeshift repairs lead to eventual crumbling of the levee
 
-The challenge is especially acute for farmers using Fukuoka's direct-seeding methods, since they irrigate at different times than neighboring transplant farmers, which can cause disputes over communally controlled irrigation canals.
+The challenge is especially acute for farmers using Fukuoka"s direct-seeding methods, since they irrigate at different times than neighboring transplant farmers, which can cause disputes over communally controlled irrigation canals.
 
 ## The Modern Approach and Its Failures
 
@@ -41,7 +41,7 @@ This was not mere nostalgia. Fukuoka had spent decades as a trained agricultural
 
 ## The Levee as Art and Religion
 
-Fukuoka's most provocative claim went beyond technical assessment:
+Fukuoka"s most provocative claim went beyond technical assessment:
 
 > "Erecting a well-built levee in a paddy field is akin to making a work of art. Modern man sees the mud-coated farmer plastering his levees and transplanting his rice as a throwback to a crude, prescientific age. The mission of [[fukuoka-textdoc-traditional-farmer-philosophy-mu-nothingness]] is not a backward laborer but a skilled artisan
 - **Connection to nature**: Physical work [[masanobu-fukuoka]]

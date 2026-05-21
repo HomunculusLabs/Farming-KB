@@ -6,7 +6,7 @@ type: concept
 
 ## Bioregional Resource Index — Shelter, Livelihoods, and Community Services
 
-This concept covers Categories B through H of the [[bioregional-resource-index]], a comprehensive inventory system for regional self-reliance developed within [[permaculture]]'s social design framework. While Category A addresses food systems, these categories address the full spectrum of shelter, economic livelihood, information, community security, social life, and health services needed for a functioning bioregion.
+This concept covers Categories B through H of the [[bioregional-resource-index]], a comprehensive inventory system for regional self-reliance developed within [[permaculture]]"s social design framework. While Category A addresses food systems, these categories address the full spectrum of shelter, economic livelihood, information, community security, social life, and health services needed for a functioning bioregion.
 
 ## Category B: Shelter and Buildings
 

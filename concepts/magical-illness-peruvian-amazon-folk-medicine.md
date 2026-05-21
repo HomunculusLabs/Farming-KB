@@ -34,7 +34,7 @@ Drug-healing in the Peruvian Amazon represents a very old and time-honored tradi
 - Profound alteration of metabolism or nervous disorder
 - Intense psychic trauma provoked by an emotion of fear
 - Lack of appetite and energy
-- Caused by the **loss of the sick person's soul**
+- Caused by the **loss of the sick person"s soul**
 
 Susto is one of the most frequent types of illness treated by Peruvian folk healers (Sal y Rosas, 1958). The concept of soul loss as a disease etiology is widespread across indigenous and mestizo communities throughout the Americas.
 
@@ -82,7 +82,7 @@ Some witches as well as ayahuasqueros are believed to control special spirits or
 - Insomnia
 - Sadness
 
-In popular belief, the cause is the **magical action of one person's glance upon the other**, not necessarily with evil intentions in mind. However, mal de ojo can be motivated by envy. This illness is quite frequent among **children** whose personal attraction may catch the evil eye. Mothers often place charms or amulets on their children's wrists or necks, or exorcise them daily with tobacco smoke, believing they can ward off this disaster.
+In popular belief, the cause is the **magical action of one person"s glance upon the other**, not necessarily with evil intentions in mind. However, mal de ojo can be motivated by envy. This illness is quite frequent among **children** whose personal attraction may catch the evil eye. Mothers often place charms or amulets on their children's wrists or necks, or exorcise them daily with tobacco smoke, believing they can ward off this disaster.
 
 ## The Social Context of Magical Illness
 

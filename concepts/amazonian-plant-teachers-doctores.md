@@ -21,7 +21,7 @@ The concept of plant teachers is central to Amazonian ethnobotany: plants are no
 ### Major Visionary Plants (Bejucos y Chacrunas)
 
 - **[[ayahuasca]] ([[banisteriopsis-caapi]])** — The primary vine teacher; "vine of the dead/vine of souls." Its spirit appears as a black snake with yellow, orange, and blue spots. Contains [[harmine]], harmaline, and tetrahydroharmine (MAO inhibitors). The foundational plant for Amazonian shamanism.
-- **Chacruna ([[psychotria-viridis]])** — The DMT-containing leaf that activates ayahuasca's visionary effects. Its spirit appears as a brightly colored snake with violet radiation. Must be harvested while fasting and placed sun-side-down with "spurs" upward during brewing.
+- **Chacruna ([[psychotria-viridis]])** — The DMT-containing leaf that activates ayahuasca"s visionary effects. Its spirit appears as a brightly colored snake with violet radiation. Must be harvested while fasting and placed sun-side-down with "spurs" upward during brewing.
 - **Chaliponga (Diplopterys cabrerana)** — Alternative DMT source used in some traditions, especially Colombian and Ecuadorian.
 
 ### Tree Teachers (Arboles Maestros)
@@ -30,12 +30,12 @@ The concept of plant teachers is central to Amazonian ethnobotany: plants are no
 - **Lupuna (Cavanillesia hylogeiton, C. umbellata)** — The "puka-lupuna" is a towering canopy tree; its spirit appears as a giant figure. Puka-lupuna and other lupuna varieties are teacher trees for deep spiritual work.
 - **Remocaspi (Aspidosperma spp.)** — A tree whose bark is used medicinally; its spirit teaches about cleansing and purification.
 - **Chiri-caspi** — A tree teacher; "chiri" means cold in Quechua, suggesting its cooling/calmative properties.
-- **Chullachaki-caspi** — Named after Chullachaki, the one-legged forest guardian spirit. This tree's spirit is associated with the protector of the forest.
+- **Chullachaki-caspi** — Named after Chullachaki, the one-legged forest guardian spirit. This tree"s spirit is associated with the protector of the forest.
 - **Capirona (Calycophyllum spruceanum)** — A tree whose bark naturally sheds, symbolizing renewal. Appears in visions near the chicua bird that serves as an omen during ayahuasca collection.
 
 ### Vine Teachers (Bejucos)
 
-- **Motelo huasca (Bauhinia guianensis)** — A vine teacher added to ayahuasca preparations. "Motelo" refers to the tortoise; the vine's pattern resembles tortoise shell.
+- **Motelo huasca (Bauhinia guianensis)** — A vine teacher added to ayahuasca preparations. "Motelo" refers to the tortoise; the vine"s pattern resembles tortoise shell.
 - **Clavohuasca (Tynanthus panurensis)** — A vine used for strength and vitality; also used as an aphrodisiac in Amazonian folk medicine. Added to ayahuasca in some preparations.
 - **Shillinto (Mascagnia psilophylla)** — A vine teacher used in some ayahuasca admixtures.
 

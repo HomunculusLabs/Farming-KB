@@ -10,7 +10,7 @@ topics: chemdawg, cannabis strain, sativa, lineage, genetics, cannabis-microbiom
 The genetic lineage of the original bagseed that produced Chemdawg has never been definitively established. Various theories have been proposed:
 
 - Some speculate the genetics included an unknown indica, possibly of Afghan origin given the era and region
-- Others have suggested Nepalese and Thai sativa parentage, which would account for the strain's cerebral effects and relatively tall growth pattern
+- Others have suggested Nepalese and Thai sativa parentage, which would account for the strain"s cerebral effects and relatively tall growth pattern
 - The distinctive "chemical" aroma has led some to hypothesize that the strain represents a unique combination of genetics not commonly found in commercial seed stock of the era
 
 The true parentage may never be known with certainty, as the original source material cannot be traced through any documented [[mckenna-cannabis-culture-history]].

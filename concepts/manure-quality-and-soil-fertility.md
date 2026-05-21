@@ -11,7 +11,7 @@ created: 2026-05-10
 
 ## Overview
 
-Animal manure is one of the oldest and most widely used soil amendments in agriculture, but its value varies enormously depending on the source animal's diet, the presence of bedding material, [[seaweed-and-marine-macroalgae-in-agriculture]]).
+Animal manure is one of the oldest and most widely used soil amendments in agriculture, but its value varies enormously depending on the source animal"s diet, the presence of bedding material, [[seaweed-and-marine-macroalgae-in-agriculture]]).
 
 ## The Enormous Variability of Manure
 
@@ -30,7 +30,7 @@ Manure nutrient content varies dramatically between sources. Published NPK value
 
 Note: These figures represent compiled data from numerous sources. The extraordinary range within each type makes generalizations unreliable. (see [[dynamic-accumulator-plants-trace-minerals]]. This manure produces excellent garden results.
 
-**Low-quality manure source**: Another neighbor keeps horses in a back pasture where the vegetation is "pathetic despite all the horse urine." The grass is of such low quality that a knowledgeable horse owner "wouldn't use it for anything but bedding straw." The manure barely supports rose bushes, which are low-demand plants.
+**Low-quality manure source**: Another neighbor keeps horses in a back pasture where the vegetation is "pathetic despite all the horse urine." The grass is of such low quality that a knowledgeable horse owner "wouldn"t use it for anything but bedding straw." The manure barely supports rose bushes, which are low-demand plants.
 
 The same principle applies to all livestock. Poultry raised on pasture with access to diverse forage and supplemented with quality feed produces far superior manure to confined birds fed only grain. Cattle on diverse pastures produce better manure than feedlot animals.
 

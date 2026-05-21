@@ -67,11 +67,11 @@ A vegetalista must always keep a dog. The dog serves as a physical guardian agai
 
 ## Origin Myth of Ayahuasca
 
-Amaringo's vision describes the origin of ayahuasca from a mythic king named Sinchihuyacui of the Shins tribe. After being defeated in battle, the king died in sorrow near trees he had planted. He appeared to his wife Queen Ganmacuina in a dream, instructing her to visit his grave with his weapons. The king emerged from the grave radiating light, and revealed that a vine had grown from his hair — this was ayahuasca ("aya" = dead person, "huasca" = vine, "bitter"). He instructed her to mix it with chacruna to see "fantastic colours and sounds" and "develop your psyche and acquire deep knowledge from past cultures."
+Amaringo"s vision describes the origin of ayahuasca from a mythic king named Sinchihuyacui of the Shins tribe. After being defeated in battle, the king died in sorrow near trees he had planted. He appeared to his wife Queen Ganmacuina in a dream, instructing her to visit his grave with his weapons. The king emerged from the grave radiating light, and revealed that a vine had grown from his hair — this was ayahuasca ("aya" = dead person, "huasca" = vine, "bitter"). He instructed her to mix it with chacruna to see "fantastic colours and sounds" and "develop your psyche and acquire deep knowledge from past cultures."
 
 ## Key Visionary Themes
 
-Amaringo's paintings depict:
+Amaringo"s paintings depict:
 - Plant spirits (mothers/conservers of vegetation) who take care of plants and give visions only to those who comply with all requirements
 - The interconnection between physical and spiritual worlds
 - Protective defenses (arkanas) used by vegetalistas

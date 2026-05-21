@@ -24,7 +24,7 @@ Fukuoka diagnoses modern civilization as suffering from a cultural disease: the 
 
 ## The Symptoms of Cultural Disease
 
-Advances in modern civilization appear to have made life easier and more convenient. Life in Japan's large cities has reached about the same level of material affluence as in advanced Western countries, and the youth who glorify freedom seem to be easy at heart. But all that has really grown is the economy. The inner life of people has become stunted, and natural joy has been lost.
+Advances in modern civilization appear to have made life easier and more convenient. Life in Japan"s large cities has reached about the same level of material affluence as in advanced Western countries, and the youth who glorify freedom seem to be easy at heart. But all that has really grown is the economy. The inner life of people has become stunted, and natural joy has been lost.
 
 People have turned to standardized forms of recreation — television, the pachinko parlor, and mahjong — or seek temporary solace through drinking and sex. These substitutes for genuine engagement with life reflect a deep spiritual impoverishment that material wealth cannot address. The tragedy is that people no longer recognize what they have lost because the cultural disease itself prevents them from perceiving the absence.
 

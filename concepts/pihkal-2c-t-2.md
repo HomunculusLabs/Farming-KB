@@ -31,7 +31,7 @@ length generally increases both potency and duration within this series.
 
 ## Dosage and Administration
 
-Shulgin's recommended oral dosage is 12 to 25 milligrams, with 15 to 20 mg
+Shulgin"s recommended oral dosage is 12 to 25 milligrams, with 15 to 20 mg
 considered standard. The compound has a moderately steep dose-response
 curve, and users are advised to start at the lower end. Onset occurs within
 45 to 90 minutes, peaking for 3 to 5 hours, with total duration of 6 to 8
@@ -48,7 +48,7 @@ distortions. Visual intensity falls between 2C-B and 2C-E.
 Cognitive effects include enhanced creativity, philosophical thinking, and a
 positive, contemplative mental state. The headspace is manageable and clear,
 though less "clean" than 2C-B. Some users note a dreamy quality distinguishing
-it from 2C-I's analytical headspace or 2C-E's intense introspection.
+it from 2C-I"s analytical headspace or 2C-E's intense introspection.
 
 Emotional effects tend toward euphoria, emotional openness, and well-being.
 Physical effects include moderate body load (mild muscle tension, stomach

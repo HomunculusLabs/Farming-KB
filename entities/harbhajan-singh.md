@@ -35,7 +35,7 @@ Harbhajan Singh is a researcher who produced one of the most comprehensive techn
 
 ## Key Contributions to Mycoremediation Science
 
-Singh's book systematically catalogs the degradative capabilities of fungi across a remarkable range of materials:
+Singh"s book systematically catalogs the degradative capabilities of fungi across a remarkable range of materials:
 
 - **Polymer degradation:** Documented that Penicillium simplicissimum can degrade polyethylene, that Mucor rouxii and Aspergillus flavus enzymes can alter the mechanical properties of disposable polyethylene bags, and that white-rot fungi are efficient in polyethylene degradation. Phanerochaete chrysosporium was shown to reduce 50% of polyamide-6 polymer molar mass after 3 months.
 - **Wood and material decay:** Comprehensive treatment of how white-rot and brown-rot fungi decompose lignin, cellulose, and other complex materials — the same capabilities that make them candidates for bioremediation.

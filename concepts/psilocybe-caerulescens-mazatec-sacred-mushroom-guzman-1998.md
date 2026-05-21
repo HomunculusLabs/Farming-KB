@@ -28,7 +28,7 @@ Roger Heim described multiple varieties based on collections from different Maza
 
 ## Mazatec Ethnobotanical Significance
 
-Among the Mazatec people of Oaxaca, P. caerulescens is one of the most important sacred mushrooms, known locally as **"derrumbes"** (meaning "landslides"). This common name refers to the species' preferred habitat — it fruits prolifically on disturbed ground, particularly along landslide scars, road cuts, and earthen embankments in the mountainous terrain of the Sierra Mazateca.
+Among the Mazatec people of Oaxaca, P. caerulescens is one of the most important sacred mushrooms, known locally as **"derrumbes"** (meaning "landslides"). This common name refers to the species" preferred habitat — it fruits prolifically on disturbed ground, particularly along landslide scars, road cuts, and earthen embankments in the mountainous terrain of the Sierra Mazateca.
 
 The species occupies a central role alongside [[entheogenic-folk-religious-ceremonies]]. Wasson and Wasson (1957) documented its use during their famous 1955 velada with curandera María Sabina in Huautla de Jiménez, Oaxaca, though their initial investigations focused primarily on P. mexicana.
 

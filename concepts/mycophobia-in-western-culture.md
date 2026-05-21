@@ -17,7 +17,7 @@ prohibitions placed upon the eating of mushrooms. Andy Letcher subjects this inf
 and devastating critique in Shroom, demonstrating that it rests upon discredited intellectual foundations and
 contradicts empirical evidence.
 
-## Wasson's Mycophobia-Mycophilia Thesis
+## Wasson"s Mycophobia-Mycophilia Thesis
 
 The Wassons noticed striking differences between cultures in their relationship with fungi. The paucity of
 names for mushrooms in the English language compared to Russian was one marker. They divided the nations of

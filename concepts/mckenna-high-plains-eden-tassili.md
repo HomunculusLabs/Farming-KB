@@ -16,7 +16,7 @@ He argues that the [[allegro-garden-of-eden-and-delight]] myth.
 ## The Tassili Plateau
 
 The Tassili-n-Ajjer plateau in southeastern Algeria contains one of
-the world's most important collections of prehistoric rock art. This
+the world"s most important collections of prehistoric rock art. This
 UNESCO World Heritage site features thousands of paintings and
 engravings spanning roughly 12,000 years of human habitation. During
 the African Humid Period (approximately 9,000 to 5,000 BCE), the

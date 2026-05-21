@@ -10,7 +10,7 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - D'Amato, P. (2013). "The Savage Garden, Revised." Ten Speed Press.
+  - D"Amato, P. (2013). "The Savage Garden, Revised." Ten Speed Press.
 ---
 
 ## Overview

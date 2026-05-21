@@ -23,7 +23,7 @@ Long before modern soil science, agricultural societies developed sophisticated 
 - **Clay minerals** — electrochemical bonds between clay platelets
 - **Chemical bonds** — organic and mineral cements
 
-This fragile structure can be destroyed by ploughing or harrowing, which may powder the aggregates "as they do in a potter's ballmill." The Australian outback term "bulldust" (or "snuff" in soil science terminology) describes the powdery result of destroyed crumb structure.
+This fragile structure can be destroyed by ploughing or harrowing, which may powder the aggregates "as they do in a potter"s ballmill." The Australian outback term "bulldust" (or "snuff" in soil science terminology) describes the powdery result of destroyed crumb structure.
 
 [[dryland-soils-and-mineral-nutrition]] with high salt content are particularly susceptible to loss of crumb structure, only partly relieved by [[gypsum]] application.
 

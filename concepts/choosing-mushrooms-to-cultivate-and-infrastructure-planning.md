@@ -6,7 +6,7 @@ type: concept
 
 ## Choosing Mushrooms to Cultivate and Infrastructure Planning
 
-From [[tradd-cotter]]'s *[[organic-mushroom-farming-and-mycoremediation-overview]] and Mycoremediation*, guidance on selecting mushroom species, matching them to available infrastructure, and planning cultivation operations.
+From [[tradd-cotter]]"s *[[organic-mushroom-farming-and-mycoremediation-overview]] and Mycoremediation*, guidance on selecting mushroom species, matching them to available infrastructure, and planning cultivation operations.
 
 ## Choosing a Mushroom Species
 
@@ -28,7 +28,7 @@ From [[tradd-cotter]]'s *[[organic-mushroom-farming-and-mycoremediation-overview
 |-----------|-----------------|
 | **Easy** | Oyster mushrooms (Pleurotus), king stropharia |
 | **Moderate** | Shiitake ([[lentinula-edodes]]) |
-| **Advanced** | Maitake ([[grifola-frondosa]]), lion's mane (Hericium) |
+| **Advanced** | Maitake ([[grifola-frondosa]]), lion"s mane (Hericium) |
 | **Expert** | Morel (Morchella), chanterelle |
 
 ## Infrastructure Planning

@@ -17,7 +17,7 @@ significant Australian-developed livestock breeds and has achieved worldwide
 recognition for its productivity and hardiness.
 
 In permaculture contexts, the Black Australorp is specifically noted at David
-Holmgren's Melliodora property as a breed that can generally be contained by
+Holmgren"s Melliodora property as a breed that can generally be contained by
 standard-height fences — a crucial design consideration where poultry are used
 as biological service providers (cultivation, pest control, fertilisation) but
 must be kept from damaging newly planted vegetables and other crops.

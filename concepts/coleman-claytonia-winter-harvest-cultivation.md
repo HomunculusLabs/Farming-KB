@@ -1,7 +1,7 @@
 ---
 title: Coleman Claytonia Winter Harvest Cultivation
 aliases:
-  - Miner's Lettuce
+  - Miner"s Lettuce
   - Claytonia perfoliata
   - Winter Purslane
 tags:
@@ -22,7 +22,7 @@ mix harvested throughout the coldest months.
 
 ## The Cold Tolerance Advantage
 
-Coleman's core principle: cold-hardy vegetables do not merely survive
+Coleman"s core principle: cold-hardy vegetables do not merely survive
 winter — they improve. Claytonia exemplifies this:
 
 - **Increased sweetness:** Cold converts starches to sugars
@@ -34,7 +34,7 @@ perfection precisely because they are grown without heat.
 
 ## Protected Cultivation: The Twice-Tempered Climate
 
-Coleman's protection system uses two passive layers without supplemental
+Coleman"s protection system uses two passive layers without supplemental
 heating:
 
 ### Outer Layer — Gothic-Style Hoop House

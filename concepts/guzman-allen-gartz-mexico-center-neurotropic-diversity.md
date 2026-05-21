@@ -13,7 +13,7 @@ Mexico as the global center of neurotropic fungal diversity. Of the approximatel
 180+ known species of *Psilocybe* and related neurotropic genera documented in
 their catalog, a disproportionate number are either endemic to Mexico or were
 first described from Mexican collections. No other country or region approaches
-Mexico's concentration of neurotropic [[mexican-neurotropic-fungi-diversity]] mycoflora includes some of the most culturally and
+Mexico"s concentration of neurotropic [[mexican-neurotropic-fungi-diversity]] mycoflora includes some of the most culturally and
 scientifically significant species in the genus.
 
 ### Psilocybe mexicana

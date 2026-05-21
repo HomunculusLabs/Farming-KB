@@ -9,7 +9,7 @@ tags: [person, anthropologist, researcher, ayahuasca, shipibo-conibo, ethnograph
 
 ## Description
 
-Gerhard Baer is a Swiss anthropologist cited in the index of Harner's Hallucinogens and Shamanism in connection with the study of ayahuasca use among indigenous peoples of the Peruvian Amazon, particularly the Shipibo-Conibo. His ethnographic research contributed to the documentation of how ayahuasca visions and shamanic practice function within specific cultural contexts in the Upper Amazon basin. Baer's work is part of the network of researchers whose findings are synthesized and referenced throughout the Harner volume.
+Gerhard Baer is a Swiss anthropologist cited in the index of Harner"s Hallucinogens and Shamanism in connection with the study of ayahuasca use among indigenous peoples of the Peruvian Amazon, particularly the Shipibo-Conibo. His ethnographic research contributed to the documentation of how ayahuasca visions and shamanic practice function within specific cultural contexts in the Upper Amazon basin. Baer's work is part of the network of researchers whose findings are synthesized and referenced throughout the Harner volume.
 
 ## Classification
 

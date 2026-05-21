@@ -8,7 +8,7 @@ created: 2026-05-09
 
 ## Psilocin Synthesis from 4-Hydroxyindole
 
-Osamu Shirota, Wataru Hakamata, and Yukihiro Goda at Japan's National Institute of
+Osamu Shirota, Wataru Hakamata, and Yukihiro Goda at Japan"s National Institute of
 Health Sciences developed a concise, large-scale synthesis of psilocin (1) and
 psilocybin (2)—the principal hallucinogenic constituents of "[[shirota-glyoxalylamide-formation-oxalyl-chloride-indole]] in anhydrous
 [[diethyl-ether]] at 0°C. After stirring for fifteen minutes, n-hexane is added and

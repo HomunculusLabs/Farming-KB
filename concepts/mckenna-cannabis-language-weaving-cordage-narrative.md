@@ -25,7 +25,7 @@ The architectural styles and design motifs of Mughal Delhi or tenth-century Isfa
 
 Outpourings of style and aesthetically managed personal display are usually anathema to the nuts-and-bolts mentality of [[query-how-to-store-cannabis-seeds-for-long-term-viability]] on heated stones in enclosed tents and inhaled the resulting vapors. Herodotus wrote that the Scythians "become intoxicated by the odor, just as the Greeks do by wine."
 
-Archaeological excavations in the Altai Mountains have confirmed this account. In 2013, a team found gold vessels containing cannabis residue in a Scythian burial mound dating to the fifth century B.C., perfectly matching Herodotus's description. This physical evidence validates the Greek historian's account and pushes confirmed ritual cannabis use back further than textual records alone would suggest.
+Archaeological excavations in the Altai Mountains have confirmed this account. In 2013, a team found gold vessels containing cannabis residue in a Scythian burial mound dating to the fifth century B.C., perfectly matching Herodotus"s description. This physical evidence validates the Greek historian's account and pushes confirmed ritual cannabis use back further than textual records alone would suggest.
 
 The Scythians had discovered that inhaling the smoke of cannabis was the most effective way to enjoy it. Yet they were unable to make the creative leap to the invention of the pipe. The Greek herbalist Dioscorides also described cannabis, but until effective smoking practices were adopted, hemp made no real inroads into European cultures.
 
@@ -41,13 +41,13 @@ The saddhus, India's wandering holy men, have used cannabis in three forms: bhan
 
 ## The Club des Hachischins in Paris
 
-By the early 1840s, a group of French writers had formed the famous "Club des Hachischins." The club held weekly meetings in damask-hung rooms of the Hotel Luzan in Paris. Members included Theophile Gautier, Baudelaire, Gerard de Nerval, Dumas, and Balzac, along with sculptors, painters, and other Bohemians. Their writings about the experience would later influence the Symbolist movement and the broader European avant-garde's engagement with [[lsd-model-psychosis-research]], making it a valuable tool for understanding the nature of insanity. Only a few years later, during the Paris uprising of 1848, student firebrands carried banners demanding free availability of cannabis and ether.
+By the early 1840s, a group of French writers had formed the famous "Club des Hachischins." The club held weekly meetings in damask-hung rooms of the Hotel Luzan in Paris. Members included Theophile Gautier, Baudelaire, Gerard de Nerval, Dumas, and Balzac, along with sculptors, painters, and other Bohemians. Their writings about the experience would later influence the Symbolist movement and the broader European avant-garde"s engagement with [[lsd-model-psychosis-research]], making it a valuable tool for understanding the nature of insanity. Only a few years later, during the Paris uprising of 1848, student firebrands carried banners demanding free availability of cannabis and ether.
 
 ## Bayard Taylor and Fitz Hugh Ludlow
 
 In America, Bayard Taylor published the first exploratory journey into the "teeming cosmos of cannabis" in Atlantic Monthly in 1854. His account described visions of the Great Pyramid, desert journeys in a mother-of-pearl barque, and vistas of rainbows.
 
-His approach was not hedonistic but knowledge-seeking. Taylor's literary sensibility made the cannabis experience legible to a broad American audience that had little context for such explorations.
+His approach was not hedonistic but knowledge-seeking. Taylor"s literary sensibility made the cannabis experience legible to a broad American audience that had little context for such explorations.
 
 Fitz Hugh Ludlow followed as the next great commentator, beginning a tradition of pharmo-picaresque literature. Ludlow created a literary persona that lies halfway between Captain Ahab and P.T. Barnum. His cannabis reportage distills everything zany in the Yankee transcendentalist approach.
 

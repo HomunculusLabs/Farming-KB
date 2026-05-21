@@ -10,13 +10,13 @@ type: concept
 
 [[mushrooms-and-mankind]]* presents a comprehensive critique of patriarchal religious and political systems as mechanisms of [[singh-genetically-engineered-fungi-bioremediation]] servant species:
 
-**"You will have no other God but Me"** — Enki's viewpoints, especially regarding knowledge and freedom, were explicitly condemned. Control of the populace was the priority; independent thought and intelligence were treated as crimes.
+**"You will have no other God but Me"** — Enki"s viewpoints, especially regarding knowledge and freedom, were explicitly condemned. Control of the populace was the priority; independent thought and intelligence were treated as crimes.
 
 **"You will work for six days and then rest"** — Ritual and ceremony were mandated, with worship as compulsory. Refusal was punishable by death. The technologically advanced Anunnaki maintained compliance through displays of power and fear.
 
 **"You will not have sex without permission"** — In a genetic experiment, reproduction was controlled. The psychological damage from sexual repression was either unknown or disregarded by the non-human gods.
 
-**"You will not covet"** — Desire itself was made sinful, including desire for freedom. Acceptance of one's present conditions was elevated as a virtue, suppressing aspiration.
+**"You will not covet"** — Desire itself was made sinful, including desire for freedom. Acceptance of one"s present conditions was elevated as a virtue, suppressing aspiration.
 
 ## The Star-Fire and Alchemical Gold
 
@@ -33,7 +33,7 @@ The supplementary nourishment known as **Star-Fire** was produced from the "luna
 
 The phrase "putting gold to the fire" is interpreted as the process of **decarboxylation** — a chemical transformation required to prepare [[pineal-gland]], the tree of life, manna (*shem-an-na* — "made from Highward-fire-stone"), Greek **ambrosia**, Egyptian **scheffa-food**, and Vedic **Soma**.
 
-### The Pharaoh's Question
+### The Pharaoh"s Question
 
 In the Egyptian Book of the Dead, the pharaoh searching for the ultimate food of the gods continuously repeats **"What is it?"** at every step. This question is the literal definition of the enigmatic **Manna** in Jewish records — a substance whose identity was deliberately obscured.
 

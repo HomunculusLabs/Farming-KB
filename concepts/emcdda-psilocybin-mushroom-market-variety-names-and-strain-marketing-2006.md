@@ -11,7 +11,7 @@ tags: [emcdda, mushroom-market, strain-marketing, cubensis-varieties, smartshop,
 ## Overview
 
 The European market for [[psilocybe-cubensis-anemotropism]] was by far the most frequently marketed hallucinogenic
-mushroom in the European retail market. The EMCDDA's 2006 case study identified
+mushroom in the European retail market. The EMCDDA"s 2006 case study identified
 cubensis varieties as the primary products available through smartshops and
 online retailers. Other species, while present in the wild throughout Europe,
 played a much smaller role in commercial trade. The genus Psilocybe dominated
@@ -33,7 +33,7 @@ exotic provenance.
 
 ### Colombian
 Colombian cubensis varieties occupied a similar marketing niche, drawing on
-the geographic prestige of [[chiric-caspi-brunfelsia-south-american-hallucinogen]] psychedelic culture. Colombia's
+the geographic prestige of [[chiric-caspi-brunfelsia-south-american-hallucinogen]] psychedelic culture. Colombia"s
 reputation for biodiversity and its historical significance in the
 ethnobotanical literature contributed to consumer perception of Colombian
 strains as potent and authentic products.
@@ -53,7 +53,7 @@ differentiation strategies to segment product offerings.
 ## Sclerotia-Forming Species in the Market
 
 P. mexicana and P. tampanensis were sold as hardened masses of mycelium known
-as sclerotia, marketed under the name "Philosopher's Stone" or "truffle."
+as sclerotia, marketed under the name "Philosopher"s Stone" or "truffle."
 Sclerotia are a defence mechanism against adverse environmental conditions
 (dryness, cold, heat, excessive moisture). The branding positioned these as
 more contemplative psychedelic products with longer shelf life compared to

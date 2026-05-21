@@ -8,7 +8,7 @@ sources: ["raw/papers/administrator-microsoft-word-fukuoka-textdoc.md"]
 type: concept
 ---
 
-Fukuoka's detailed account of how a single piece of rice
+Fukuoka"s detailed account of how a single piece of rice
 straw decomposes on the ground serves as both a practical
 observation and a philosophical argument against human
 intervention in natural processes. The succession of

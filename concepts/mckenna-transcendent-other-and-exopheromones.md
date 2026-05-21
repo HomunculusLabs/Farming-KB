@@ -50,7 +50,7 @@ See also:
 
 ## Related McKenna Topics
 
-McKenna's analysis fits within his broader framework of the [[mckenna-plants-and-primates-coevolution]]
+McKenna"s analysis fits within his broader framework of the [[mckenna-plants-and-primates-coevolution]]
 - [[psychedelic-consciousness-models]]
 - [[mckenna-stropharia-cubensis-extraterrestrial-hypothesis-spore-dispersal]] / [[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]]) in the diet of early hominids in the African grasslands was the primary catalyst for the rapid expansion of brain size, the emergence of language, and the development of human self-reflection. The theory addresses one of the central puzzles of paleoanthropology: how the human brain tripled in size in under three million years, a rate Lumsden and Wilson called "perhaps the fastest advance recorded for any complex organ in the whole history of life."
 
@@ -58,7 +58,7 @@ McKenna's analysis fits within his broader framework of the [[mckenna-plants-and
 
 Between Homo habilis (brain weight ~770g, 27.5 oz) and Homo erectus (brain weight 900-1100g), and continuing through to Homo sapiens (~1400g), the human brain underwent an expansion without clear precedent in evolutionary biology. Conventional explanations (bipedalism, tool use, social organization, hunting) have all been proposed as selective pressures, but none satisfactorily accounts for the extraordinary speed of this transformation.
 
-McKenna's core argument: mutation-causing, psychoactive chemical compounds in the early human diet directly influenced the rapid reorganization of the brain's information-processing capacities. The alkaloids in plants, specifically the hallucinogenic compounds psilocybin, DMT, and harmaline, could be the chemical factors that catalyzed the emergence of human self-reflection.
+McKenna"s core argument: mutation-causing, psychoactive chemical compounds in the early human diet directly influenced the rapid reorganization of the brain's information-processing capacities. The alkaloids in plants, specifically the hallucinogenic compounds psilocybin, DMT, and harmaline, could be the chemical factors that catalyzed the emergence of human self-reflection.
 
 ## The Three Levels of Psilocybin Use
 

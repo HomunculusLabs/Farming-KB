@@ -9,7 +9,7 @@ sources: [raw/papers/gardening-when-it-counts-steve-solomon.md]
 
 # Garden Disease Identification
 
-Common vegetable plant diseases as described in Steve Solomon's *Gardening When It Counts*. Solomon notes that the Sanitary System (belief that vegetables must be cosmetically perfect) gives gardeners the wrong idea — many disease problems can be tolerated or avoided through proper cultural practices rather than chemical intervention.
+Common vegetable plant diseases as described in Steve Solomon"s *Gardening When It Counts*. Solomon notes that the Sanitary System (belief that vegetables must be cosmetically perfect) gives gardeners the wrong idea — many disease problems can be tolerated or avoided through proper cultural practices rather than chemical intervention.
 
 ## Solomon's Disease Management Philosophy
 

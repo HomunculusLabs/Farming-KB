@@ -23,7 +23,7 @@ Fungal growth occurs at the tip of the hypha — the thread-like filament that m
 - A structure called the **Spitzenkörper** (German for "apex body") appears as a dark spot at the hyphal tip and acts as the control center, directing all growth activity.
 - New cells are continuously pushed into the tip and sidewalls, elongating the hyphal tube.
 - Cytoplasm streams through the hypha, transporting vesicles packed with construction materials — enzymes, cell wall components, and proteins — to the growing front.
-- Powerful enzymes are released at the tip, converting lignin and cellulose into simple sugars and amino acids. Remarkably, this digestion occurs without decaying the fungus's own chitin cell walls.
+- Powerful enzymes are released at the tip, converting lignin and cellulose into simple sugars and amino acids. Remarkably, this digestion occurs without decaying the fungus"s own chitin cell walls.
 
 ### Growth Speed
 

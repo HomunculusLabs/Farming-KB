@@ -24,7 +24,7 @@ Northern Lights is one of the most legendary and foundational cannabis strains i
 - **Genetic stability:** One of the most genetically stable and true-breeding cannabis lines in existence; seeds produce remarkably uniform offspring
 - **Breeder:** Originally developed by an American breeder known only as "The Indian" on the Pacific Northwest scene; later stabilized and popularized by Nevil Schoenmakers of The Seed Bank (later Sensi Seeds) in the Netherlands
 
-The strain's genetic purity is a major factor in its ubiquity as a breeding parent. Unlike many modern hybrids with complex and sometimes disputed pedigrees, Northern Lights has a straightforward and well-documented lineage.
+The strain"s genetic purity is a major factor in its ubiquity as a breeding parent. Unlike many modern hybrids with complex and sometimes disputed pedigrees, Northern Lights has a straightforward and well-documented lineage.
 
 ## Effects Profile
 

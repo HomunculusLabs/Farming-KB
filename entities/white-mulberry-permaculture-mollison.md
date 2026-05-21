@@ -8,7 +8,7 @@ type: entity
 
 ## Description
 
-White mulberry ([[morus-alba]]) is a fast-growing deciduous tree renowned in permaculture as one of the highest-value chicken forage plants. [[bill-mollison]] rates it as "as good as a double crop of grain" at 17% protein content. The mulberry's extended fruiting season provides sustained forage for poultry well beyond the harvest period, as chickens continue finding dropped fruit and seed long after the main crop.
+White mulberry ([[morus-alba]]) is a fast-growing deciduous tree renowned in permaculture as one of the highest-value chicken forage plants. [[bill-mollison]] rates it as "as good as a double crop of grain" at 17% protein content. The mulberry"s extended fruiting season provides sustained forage for poultry well beyond the harvest period, as chickens continue finding dropped fruit and seed long after the main crop.
 
 ## Classification
 

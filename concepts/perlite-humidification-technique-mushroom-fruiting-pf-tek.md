@@ -15,7 +15,7 @@ sources:
 
 ## Perlite Humidification Technique for Mushroom Fruiting
 
-The perlite humidification technique is a passive, low-tech method for maintaining high humidity in [[pf-tek-psilocybe-fanaticus]]'s [[pf-tek]] documentation, this method uses the physical properties of expanded perlite to create sustained humidity without electric humidifiers or automated systems. It became one of the most widely adopted humidification approaches for home [[crystal-structure-and-crystal-defects]]. It retains moisture but releases it slowly through evaporation from internal surfaces
+The perlite humidification technique is a passive, low-tech method for maintaining high humidity in [[pf-tek-psilocybe-fanaticus]]"s [[pf-tek]] documentation, this method uses the physical properties of expanded perlite to create sustained humidity without electric humidifiers or automated systems. It became one of the most widely adopted humidification approaches for home [[crystal-structure-and-crystal-defects]]. It retains moisture but releases it slowly through evaporation from internal surfaces
 - **Perlite**: Does not absorb water into its structure. Instead, water clings to the extensive external surface area of its porous granules through capillary action and [[bloomfield-buller-drop-surface-tension-spore-catapult-basidiospore-discharge]]. This external water is readily available for evaporation
 
 This distinction means perlite acts as a high-surface-area evaporative medium rather than a water reservoir. The "Rice Krispies" effect — the audible crackling when dry perlite is handled — becomes silent when wetted, indicating that the pore spaces are filled with water that evaporates into the surrounding air.
@@ -49,7 +49,7 @@ Psilocybe Fanaticus documented a direct comparison between perlite humidificatio
 
 The superior performance of perlite over electric humidification for this application likely results from:
 - **More uniform humidity distribution**: The perlite layer provides evaporation across the entire chamber floor rather than from a single point source
-- **No temperature fluctuation**: Electric humidifiers can create localized cooling as water evaporates, while perlite's passive evaporation is thermally neutral
+- **No temperature fluctuation**: Electric humidifiers can create localized cooling as water evaporates, while perlite"s passive evaporation is thermally neutral
 - **Lower contamination risk**: Electric systems with water reservoirs and tubing can harbor bacterial biofilms; perlite's open structure dries quickly if disturbed and is inhospitable to most contaminants
 
 ## Synergy with Air Exchange

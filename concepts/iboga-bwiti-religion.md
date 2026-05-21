@@ -33,9 +33,9 @@ The Bwiti tradition represents a living example of what McKenna calls "[[archaic
 
 *Tabernanthe iboga* is a medium-sized bush with yellow flowers, native to the tropical forest rather than the grasslands, and rarely found growing outside of cultivation.
 
-The plant belongs to the Apocynaceae family, which also includes many species known for their potent alkaloids. The root bark contains the psychoactive portion, with the highest concentrations found in the root's inner layer. Roots are harvested, scraped, and ground into a coarse powder consumed directly during ceremonies or prepared as an infusion.
+The plant belongs to the Apocynaceae family, which also includes many species known for their potent alkaloids. The root bark contains the psychoactive portion, with the highest concentrations found in the root"s inner layer. Roots are harvested, scraped, and ground into a coarse powder consumed directly during ceremonies or prepared as an infusion.
 
-According to the Fang, many grams of this root material must be eaten in order to "open one's head." Once this initiatory dose has been taken, lesser amounts are then effective for the remainder of a person's life. The Fang's phrase "open one's head" vividly captures the Bwiti understanding of iboga's function: not merely to intoxicate but to literally open the mind to dimensions of reality ordinarily closed to everyday perception.
+According to the Fang, many grams of this root material must be eaten in order to "open one"s head." Once this initiatory dose has been taken, lesser amounts are then effective for the remainder of a person"s life. The Fang's phrase "open one"s head" vividly captures the Bwiti understanding of iboga"s function: not merely to intoxicate but to literally open the mind to dimensions of reality ordinarily closed to everyday perception.
 
 This notion of a permanent opening — a one-time transformation that alters all subsequent experience — distinguishes iboga from most other psychoactive plants used in traditional contexts, where repeated use is the norm rather than the exception.
 

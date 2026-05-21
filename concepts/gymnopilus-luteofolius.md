@@ -27,7 +27,7 @@ Adolf Karsten in 1879; the name derives from Greek *gymnos* (naked) and *pilus*
 *luteofolius* combines *luteus* (yellow) and *folium* (leaf), describing the
 characteristic yellow tones of the basidiocarp. Cortinariaceae also includes
 *Cortinarius* and *Galerina*, the latter of which contains several neurotropic
-species, underscoring the family's outsized role in [[guzman-psilocybin-mushrooms-south-america]], collections
+species, underscoring the family"s outsized role in [[guzman-psilocybin-mushrooms-south-america]], collections
 come from Colombia, Brazil, and other tropical and subtropical regions. The
 full range remains incompletely understood; the species is likely
 under-reported due to its resemblance to other orange *Gymnopilus* species.

@@ -30,7 +30,7 @@ sources: ["Shulgin - PIHKAL"]
 >
 > (with 700 mg i.v.) [When one of these patients was reinjected at a
 > later date with approximately 0.04 mM/Kg of 3,4-DMA a definite
-> `mescaline-like' state was induced. The symptoms included colored
+> `mescaline-like" state was induced. The symptoms included colored
 > hallucinations of geometric figures and occasional structured forms.
 > The other individual experienced visual distortions, notable
 > after-imagery, feelings of unreality, and paranoid ideas. Marked

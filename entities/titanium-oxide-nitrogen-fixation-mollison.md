@@ -5,11 +5,11 @@ type: entity
 tags: [permaculture, nitrogen-fixation, catalysis, soil-fertility, desert-agriculture]
 ---
 
-## Titanium Oxide Nitrogen Fixation (Mollison's System)
+## Titanium Oxide Nitrogen Fixation (Mollison"s System)
 
 ## Description
 
-A catalytic nitrogen fixation system described by [[bill-mollison]] in which titanium oxide (TiO2), a common white paint pigment, catalyzes the conversion of atmospheric nitrogen into ammonia in the presence of sunlight. Mollison presents this as "Mollison's third world endless nitrogen fertilizer supply system" — a low-cost, low-technology method for producing nitrogen fertilizer without industrial processes.
+A catalytic nitrogen fixation system described by [[bill-mollison]] in which titanium oxide (TiO2), a common white paint pigment, catalyzes the conversion of atmospheric nitrogen into ammonia in the presence of sunlight. Mollison presents this as "Mollison"s third world endless nitrogen fertilizer supply system" — a low-cost, low-technology method for producing nitrogen fertilizer without industrial processes.
 
 ## Classification
 
@@ -23,7 +23,7 @@ A catalytic nitrogen fixation system described by [[bill-mollison]] in which tit
 - **Water solubility**: The resulting ammonia is highly water-soluble and can be flushed from the system with water to fertilize gardens directly.
 - **Scale**: Three acres of desert under this system would supply as much nitrogen as a commercial fertilizer plant. Practically, three square feet in a small garden suffices.
 - **Desert relevance**: In desert environments, the nitrogen naturally evaporates into the atmosphere, which is why deserts can support plant growth after rain — rain carries the ammonia back down.
-- **Scientific basis**: Noted in Chemical Abstracts circa 1977, with implications for [[global-atmospheric-circulation-patterns]]. The atmosphere's excess of ammonia was partly accounted for by this catalytic process.
+- **Scientific basis**: Noted in Chemical Abstracts circa 1977, with implications for [[global-atmospheric-circulation-patterns]]. The atmosphere"s excess of ammonia was partly accounted for by this catalytic process.
 
 ## System Design (Mollison's Instructions)
 

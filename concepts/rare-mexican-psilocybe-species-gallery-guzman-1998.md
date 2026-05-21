@@ -20,7 +20,7 @@ distinctively narrow pleurocystidia. This morphological feature distinguishes
 it from closely related species in the same section. The species was included
 in the 1998 worldwide checklist and was illustrated among the published
 figure plates. It is known only from Mexico and represents an endemic element
-of the country's neurotropic fungal flora.
+of the country"s neurotropic fungal flora.
 
 The discovery and description of species like P. angustipleurocystidiata
 illustrates the pattern observed by Guzman that new species of neurotropic

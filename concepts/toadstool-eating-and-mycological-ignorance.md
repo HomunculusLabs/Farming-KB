@@ -8,13 +8,13 @@ type: concept
 
 ## Overview
 
-In the late 19th century, public knowledge of mushrooms and toadstools was profoundly limited. Julius A. Palmer Jr., a pioneering American mycologist, documented the widespread ignorance surrounding fungi in his 1894 work "About Mushrooms." His writings reveal a society in which even educated professionals — physicians, chemists, and botanists — possessed little practical understanding of which fungi were edible and which were poisonous. Palmer's work was among the first serious American attempts to dispel dangerous myths and provide reliable guidance on mycophagy (the eating of fungi).
+In the late 19th century, public knowledge of mushrooms and toadstools was profoundly limited. Julius A. Palmer Jr., a pioneering American mycologist, documented the widespread ignorance surrounding fungi in his 1894 work "About Mushrooms." His writings reveal a society in which even educated professionals — physicians, chemists, and botanists — possessed little practical understanding of which fungi were edible and which were poisonous. Palmer"s work was among the first serious American attempts to dispel dangerous myths and provide reliable guidance on mycophagy (the eating of fungi).
 
 ## The State of 19th-Century Mycological Knowledge
 
 ### Public Misconceptions
 
-The general public regarded toadstools with a mixture of fear and superstition. As Palmer recounted, a typical sentiment expressed in his audiences was: "Toadstools are nasty things; nobody knows anything about 'em. Let 'em alone, and they'll never hurt you." Children who discovered puff-balls were told simply to throw them away as poison. This blanket condemnation of all wild fungi meant that enormous quantities of nutritious, perfectly safe food were wasted in forests across America.
+The general public regarded toadstools with a mixture of fear and superstition. As Palmer recounted, a typical sentiment expressed in his audiences was: "Toadstools are nasty things; nobody knows anything about "em. Let 'em alone, and they'll never hurt you." Children who discovered puff-balls were told simply to throw them away as poison. This blanket condemnation of all wild fungi meant that enormous quantities of nutritious, perfectly safe food were wasted in forests across America.
 
 ### Magazine Literature and Traditional Lore
 
@@ -24,7 +24,7 @@ Popular publications offered little useful information. The few articles that ap
 
 Even encyclopedias propagated falsehoods. They listed Latin names for edibles and poisons but then added that the common [[classification-of-cultivated-mushroom-species]] (*[[agaricus-bisporus]]*) "might be noxious under certain unknown conditions" and was "so esteemed in Italy" — claims Palmer called "utter falsehoods." Such contradictory and inaccurate information only deepened public confusion.
 
-### Chemistry's Failure
+### Chemistry"s Failure
 
 Palmer carried a vial of black liquid — the deliquescent product of a fungus — to S. Dana Hayes, a prominent assayer. Hayes initially declared that nothing in nature could produce such liquefaction, suggesting Palmer had been deceived. Only upon witnessing the process firsthand did the chemist acknowledge his error. This anecdote illustrates how even the physical sciences of the era were ill-equipped to address fungal biology.
 
@@ -32,7 +32,7 @@ Palmer carried a vial of black liquid — the deliquescent product of a fungus �
 
 The medical profession was equally uninformed. In 1877, a prominent physician wrote to Palmer: "If you can give me the name of an author treating of the subject, or refer me to an article, you will confer a great favor and receive my heartiest thanks. I must plead to a lamentable ignorance, which I regret to find I share with all medical men with whom I have conversed on the subject."
 
-Dr. D. G. Brinton of Philadelphia, when copying one of Palmer's articles into his publication, introduced it by noting: "The subject is so important, and the information on it in the text-books so vague, that this cannot fail to be welcome to many readers."
+Dr. D. G. Brinton of Philadelphia, when copying one of Palmer"s articles into his publication, introduced it by noting: "The subject is so important, and the information on it in the text-books so vague, that this cannot fail to be welcome to many readers."
 
 ### Botanical Limitations
 
@@ -40,7 +40,7 @@ Even professional botanists offered limited practical help. Dr. Curtis of North 
 
 Foreign textbooks compounded the problem by indiscriminately labeling any unpleasant-tasting mushroom as "poisonous." Members of the Boleti, Lactarii, Russula, and Amanita families were all marked as poisonous, despite vast differences in actual toxicity — the Amanita being deadly, while the others were merely acrid or disagreeable, with their unpleasant qualities often subdued by cooking.
 
-## Palmer's Contributions
+## Palmer"s Contributions
 
 ### Early Publications
 
@@ -63,11 +63,11 @@ Palmer insisted on a fundamental axiom: "Every mushroom is a toadstool and every
 
 ### The Peeling Test
 
-The most widespread folk test was that an edible mushroom would peel easily. Palmer dismissed this as worthless and dangerous. A well-meaning adviser once warned him: "If you are going to feed your friends on those things you'd better invite the undertaker, and tell him to bring along as many coffins as there are seats at the table."
+The most widespread folk test was that an edible mushroom would peel easily. Palmer dismissed this as worthless and dangerous. A well-meaning adviser once warned him: "If you are going to feed your friends on those things you"d better invite the undertaker, and tell him to bring along as many coffins as there are seats at the table."
 
 ### Timing of Appearance
 
-Another common belief held that mushrooms appeared only in the morning, like the biblical manna. Palmer's afternoon foraging baskets full of fungi demonstrated the falsity of this notion.
+Another common belief held that mushrooms appeared only in the morning, like the biblical manna. Palmer"s afternoon foraging baskets full of fungi demonstrated the falsity of this notion.
 
 ### The Danger of Folk Wisdom
 
@@ -75,7 +75,7 @@ Palmer observed that mycologists of his era had "a strange jealousy of tearing a
 
 ## Historical Significance
 
-Palmer's work represents a pivotal moment in [[early-american-mycology-and-palmer]]. He conducted all his research "in the moments of forest recreation at intervals in a busy life," yet his contributions laid groundwork for the popularization of mycophagy in the United States. His greatest satisfaction was in the growing number of people interested in fungi compared with those who cared about the subject fifteen years earlier.
+Palmer"s work represents a pivotal moment in [[early-american-mycology-and-palmer]]. He conducted all his research "in the moments of forest recreation at intervals in a busy life," yet his contributions laid groundwork for the popularization of mycophagy in the United States. His greatest satisfaction was in the growing number of people interested in fungi compared with those who cared about the subject fifteen years earlier.
 
 His collaboration with Paul Casamajor — head chemist of the Havemeyer sugar refineries, described by associates as "one of the most distinguished chemists in the world" and a correspondent of Pasteur — lent scientific credibility to his practical approach. Casamajor's testing methodology, following Palmer's guidance, confirmed the safety of multiple edible species that textbooks had labeled as dangerous.
 ## Applications and Practical Uses

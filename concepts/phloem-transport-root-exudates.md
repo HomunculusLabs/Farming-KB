@@ -6,7 +6,7 @@ type: concept
 
 ## Phloem Transport and Root Exudates
 
-The [[phloem]] is the plant's bidirectional distribution system for organic compounds—sugars, proteins, amino acids, hormones, and signaling molecules—moving them from sites of production (sources) to sites of utilization or storage (sinks). Closely linked to phloem function is the phenomenon of **root exudation**, by which plants release specialized carbon-based compounds into the soil to recruit microbial partners and acquire nutrients. Together, these systems represent the plant's ability to actively manage its internal resource economy and external soil relationships.
+The [[phloem]] is the plant"s bidirectional distribution system for organic compounds—sugars, proteins, amino acids, hormones, and signaling molecules—moving them from sites of production (sources) to sites of utilization or storage (sinks). Closely linked to phloem function is the phenomenon of **root exudation**, by which plants release specialized carbon-based compounds into the soil to recruit microbial partners and acquire nutrients. Together, these systems represent the plant's ability to actively manage its internal resource economy and external soil relationships.
 
 ## Xylem-Phloem Interactions
 

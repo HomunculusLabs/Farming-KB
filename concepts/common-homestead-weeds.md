@@ -39,7 +39,7 @@ Detailed profiles of the most common weeds found on a regenerative homestead. Co
 
 **Ecological role**: Deep taproot (6-15 feet) mines calcium, potassium, and trace minerals — a key [[dynamic-accumulators]]. Early spring nectar source for bees and pollinators.
 
-**Management**: Don't fight it — harvest regularly. Use as accumulator mulch. Remove from intensive garden beds if desired; allow in lawns and pathways.
+**Management**: Don"t fight it — harvest regularly. Use as accumulator mulch. Remove from intensive garden beds if desired; allow in lawns and pathways.
 
 ### Purslane (*Portulaca oleracea*)
 
@@ -67,7 +67,7 @@ Detailed profiles of the most common weeds found on a regenerative homestead. Co
 
 **Edible**: Young leaves (salads, cooked — older leaves are fibrous). Seeds contain psyllium mucilage — can be ground as fiber supplement.
 
-**Medicinal**: "Nature's bandage" — crush fresh leaves and apply to insect bites, stings, cuts, splinters (drawing action). Leaf tea for coughs and digestive issues. Traditional poultice herb worldwide.
+**Medicinal**: "Nature"s bandage" — crush fresh leaves and apply to insect bites, stings, cuts, splinters (drawing action). Leaf tea for coughs and digestive issues. Traditional poultice herb worldwide.
 
 **Ecological role**: Dynamic accumulator of calcium, magnesium, sulfur, potassium. Tolerates foot traffic — good pathway plant.
 

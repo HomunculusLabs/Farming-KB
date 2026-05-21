@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-During Mazatec mushroom ceremonies, the shaman periodically enters a state that [[henry-munn]] calls the "shamanistic fit"—a dramatic alteration of consciousness marked by voice change, personality shift, and the channeling of ancestral spirits. This phenomenon, documented in Roman Estrada's ceremonies, represents one of the most striking features of Mazatec shamanic practice and provides insight into the mechanisms of therapeutic performance in indigenous healing traditions.
+During Mazatec mushroom ceremonies, the shaman periodically enters a state that [[henry-munn]] calls the "shamanistic fit"—a dramatic alteration of consciousness marked by voice change, personality shift, and the channeling of ancestral spirits. This phenomenon, documented in Roman Estrada"s ceremonies, represents one of the most striking features of Mazatec shamanic practice and provides insight into the mechanisms of therapeutic performance in indigenous healing traditions.
 
 ## The Phenomenology of the Fit
 
@@ -18,17 +18,17 @@ Before entering the fit, Estrada works himself into a state of increasing exalta
 
 "How beautiful I sing," he exclaims. "How beautiful I sing. How many good pleasures concedes to us the Lord of the World." He dances about, working himself up to a further pitch. "How beautiful I dance. How beautiful I dance."
 
-The repetition serves both to deepen the trance state and to build the performative energy that will carry him into the fit. The self-praise is not vanity but invocation—an affirmation of the shaman's power that simultaneously summons the ancestral forces he will channel.
+The repetition serves both to deepen the trance state and to build the performative energy that will carry him into the fit. The self-praise is not vanity but invocation—an affirmation of the shaman"s power that simultaneously summons the ancestral forces he will channel.
 
 ### Rhythm and Repetition
 
-Repetition is identified as "one of the aspects of the discourse as it is of the pulsation of energy waves." The shaman's chanting, dancing, and clapping create a rhythmic pattern that synchronizes with the physiological effects of the mushrooms, amplifying their impact and directing it toward therapeutic ends.
+Repetition is identified as "one of the aspects of the discourse as it is of the pulsation of energy waves." The shaman"s chanting, dancing, and clapping create a rhythmic pattern that synchronizes with the physiological effects of the mushrooms, amplifying their impact and directing it toward therapeutic ends.
 
 ### The Voice Change
 
 At the critical moment, Estrada "flips out." He throws himself into the shamanistic fit, and his voice changes—"becomes that of another, rougher, more guttural." This voice change is the hallmark of the fit and marks the transition from ordinary shamanic discourse to ancestral channeling.
 
-The altered voice represents the emergence of a different personality—a spirit or ancestor speaking through the shaman's body. The rougher, more guttural quality suggests an older, more primal mode of being, connected to the deep past of the Mazatec people.
+The altered voice represents the emergence of a different personality—a spirit or ancestor speaking through the shaman"s body. The rougher, more guttural quality suggests an older, more primal mode of being, connected to the deep past of the Mazatec people.
 
 ## Channeling the Ancestor from San Lucas
 
@@ -56,7 +56,7 @@ The "whirlwind of the interior" echoes the central metaphor of the mushroom expe
 
 ## Vestiges of Ancient Shamanism
 
-From Estrada's account of the old shaman, Munn identifies "vestiges of the days when the shaman of the People of the Deer, intermediary between man, nature, and the divine was a thaumaturge who presided over fertility and the hunt."
+From Estrada"s account of the old shaman, Munn identifies "vestiges of the days when the shaman of the People of the Deer, intermediary between man, nature, and the divine was a thaumaturge who presided over fertility and the hunt."
 
 ### The Egg Offering
 
@@ -66,13 +66,13 @@ The offering of an egg to the mountain before a hunt reveals an older layer of s
 
 ### The Thaumaturgic Function
 
-A thaumaturge is a miracle-worker, and the ancient shaman's role extended beyond healing to include control over natural forces: fertility of crops, success in hunting, regulation of weather. The mushroom ceremonies, as documented by Munn, represent a survival of this older, more comprehensive shamanic function—though narrowed by the pressures of modernization to focus primarily on healing.
+A thaumaturge is a miracle-worker, and the ancient shaman"s role extended beyond healing to include control over natural forces: fertility of crops, success in hunting, regulation of weather. The mushroom ceremonies, as documented by Munn, represent a survival of this older, more comprehensive shamanic function—though narrowed by the pressures of modernization to focus primarily on healing.
 
 ## The Sound of Consciousness
 
 A notable passage describes Estrada's awareness of his own consciousness as sound: "He is hearing the ringing and the buzzing and the humming of his effervescent consciousness and finding analogies for the sounds he hears in the echo chambers of his eardrums: the soughing of the wind through the trees, the clinking of stones, the creaking of baskets."
 
-This synesthetic experience—consciousness becoming audible, inner experience finding analogies in external sounds—reflects the mushroom's action on sensory processing. The mind's activity is perceived not as abstract thought but as concrete sensation: buzzing, humming, ringing. The external world provides a vocabulary of sounds through which inner states can be described and communicated.
+This synesthetic experience—consciousness becoming audible, inner experience finding analogies in external sounds—reflects the mushroom"s action on sensory processing. The mind's activity is perceived not as abstract thought but as concrete sensation: buzzing, humming, ringing. The external world provides a vocabulary of sounds through which inner states can be described and communicated.
 
 ## Self-Identification as Warrior
 

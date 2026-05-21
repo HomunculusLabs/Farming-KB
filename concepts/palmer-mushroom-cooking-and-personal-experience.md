@@ -6,7 +6,7 @@ type: concept
 
 ## Mushroom Cooking Methods and Personal Poisoning Experience
 
-A detailed account of [[julius-auboineau-palmer]]'s personal methodology for testing mushroom edibility, his preferred cooking techniques, a firsthand poisoning incident, and his observations on how environmental conditions affect the edibility and flavor of fungi.
+A detailed account of [[julius-auboineau-palmer]]"s personal methodology for testing mushroom edibility, his preferred cooking techniques, a firsthand poisoning incident, and his observations on how environmental conditions affect the edibility and flavor of fungi.
 
 ## Overview
 
@@ -50,7 +50,7 @@ Palmer also described the practice of drying mushrooms for winter consumption, n
 
 ## The Coprinus Deliquescens Poisoning Incident
 
-Palmer's most serious encounter with mushroom poisoning occurred not from eating a toxic species directly but through **cross-contamination**. He had purchased common mushrooms that were shipped in a box containing a large number of *[[coprinus-deliquescens]]* (inky cap) specimens. These deliquescent fungi were in a state of advanced decomposition.
+Palmer"s most serious encounter with mushroom poisoning occurred not from eating a toxic species directly but through **cross-contamination**. He had purchased common mushrooms that were shipped in a box containing a large number of *[[coprinus-deliquescens]]* (inky cap) specimens. These deliquescent fungi were in a state of advanced decomposition.
 
 ### Symptoms
 

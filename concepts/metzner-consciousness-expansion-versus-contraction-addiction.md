@@ -14,7 +14,7 @@ recovery based on the contrast between **consciousness-expanding**
 hallucinogens and **consciousness-contracting** addictive substances.
 This framework connects [[metzner-variations-traditional-entheogenic-ceremonies-peyote-huichol-san-pedro-mazatec-amazonian-bwiti]] in reducing addiction.
 
-## Leary's Consciousness Expansion Concept
+## Leary"s Consciousness Expansion Concept
 
 The concept of "consciousness expansion" was introduced by Timothy
 Leary and the Harvard research project. It described psychedelic
@@ -25,7 +25,7 @@ obsessions and compulsions in general."
 In this framework, addiction is understood not merely as chemical
 dependence but as a narrowing of consciousness — a contraction of
 awareness to a single, repetitive pattern of thought and behavior.
-The addict's world shrinks to encompass only the substance and the
+The addict"s world shrinks to encompass only the substance and the
 rituals surrounding its use; everything else — relationships,
 creative pursuits, spiritual life — recedes into the background.
 
@@ -41,7 +41,7 @@ new perspective.
 Metzner extends this model to explain why consciousness-expanding
 substances can counteract addiction:
 
-"All the 'consciousness-expanding' hallucinogens, including LSD, peyote,
+"All the "consciousness-expanding' hallucinogens, including LSD, peyote,
 ayahuasca and others, can serve to counteract the consciousness-
 contracting and fixating effect of the addictive narcotics or stimulants."
 

@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-[[sepp-holzer]]'s water retention landscape design represents a fundamentally different approach to [[water-management]] compared to conventional dam and reservoir construction. This concept page details the principles, construction methods, and ecological rationale behind Holzer's decentralized water storage systems.
+[[sepp-holzer]]"s water retention landscape design represents a fundamentally different approach to [[water-management]] compared to conventional dam and reservoir construction. This concept page details the principles, construction methods, and ecological rationale behind Holzer's decentralized water storage systems.
 
 ## Three Ways of Water Movement
 
@@ -16,12 +16,12 @@ type: concept
 
 "A lake should be built to enable three ways of water movement: with curved banks to allow a constant flow, aligned with the wind to allow wave movements, and deep and shallow zones to make the water move because of differences in temperature."
 
-Holzer's design ensures that water never stagnates by incorporating:
+Holzer"s design ensures that water never stagnates by incorporating:
 1. **Curved banks**: Creating continuous circulation patterns
 2. **Wind alignment**: Harnessing natural wind energy for wave action and aeration
 3. **Depth variation**: Thermal convection between warm surface water and cool deep water
 
-"The water would become stagnant without this natural design, but water needs to live." This principle—that water must be in motion to maintain its life-giving properties—is central to Holzer's philosophy.
+"The water would become stagnant without this natural design, but water needs to live." This principle—that water must be in motion to maintain its life-giving properties—is central to Holzer"s philosophy.
 
 ## Biodiversity as Design Goal
 
@@ -29,7 +29,7 @@ Holzer's design ensures that water never stagnates by incorporating:
 
 "A water retention space needs to promote biodiversity, terraces, different depths, a rich plant life and many different living beings. The more diverse, the more stable."
 
-Holzer's water features are not just storage containers but ecosystems. Terraces provide different growing conditions, depth variation creates different aquatic habitats, and the resulting biodiversity creates a self-regulating system that maintains water quality and ecological health.
+Holzer"s water features are not just storage containers but ecosystems. Terraces provide different growing conditions, depth variation creates different aquatic habitats, and the resulting biodiversity creates a self-regulating system that maintains water quality and ecological health.
 
 ### Self-Maintenance
 
@@ -67,7 +67,7 @@ Conventional dams create large, uniform bodies of water that:
 
 "I want to remind you that the body of the earth has a network of veins supplying all organs, just like humans, plants and animals do. When I draw all the water from one place and lead it to another I create an imbalance."
 
-Holzer's metaphor of the earth's "vein network" captures the essence of his critique: water belongs distributed throughout the landscape, not concentrated in artificial reservoirs. Centralized water storage creates local abundance and regional scarcity—a fundamentally unstable arrangement.
+Holzer"s metaphor of the earth's "vein network" captures the essence of his critique: water belongs distributed throughout the landscape, not concentrated in artificial reservoirs. Centralized water storage creates local abundance and regional scarcity—a fundamentally unstable arrangement.
 
 ### The Ecological Comparison
 
@@ -97,7 +97,7 @@ The Valdepajares project demonstrates that even apparently unsuitable soils can 
 
 ### Scale
 
-"The biggest lake is 700m long × 400m wide × 10m deep. They call it Holzer's ocean." Despite the scale, the lake was built using natural materials and methods, without concrete or plastic liners.
+"The biggest lake is 700m long × 400m wide × 10m deep. They call it Holzer"s ocean." Despite the scale, the lake was built using natural materials and methods, without concrete or plastic liners.
 
 ### Underground Storage
 

@@ -4,7 +4,7 @@ tags:
   - concept
 ---
 
-Paul Stamets' concept of "mycopermaculture" represents a framework for
+Paul Stamets" concept of "mycopermaculture" represents a framework for
 integrating mushroom mycelium into permaculture design and ecological land
 management. Rather than treating mushrooms solely as crops to be grown in
 isolation, mycopermaculture positions fungi as essential partners in landscape

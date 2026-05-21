@@ -26,7 +26,7 @@ Uwe Blesching, Ph.D. (born 1958) is an American author and researcher who compil
 
 ## The Cannabis Health Index
 
-The full title — "The Cannabis Health Index: Combining the Science of Medical Marijuana with Mindfulness Techniques to Heal 100 Chronic Symptoms and Diseases" — captures Blesching's integrative approach. The book combines hard pharmacological science with mind-body medicine perspectives, organizing its content around:
+The full title — "The Cannabis Health Index: Combining the Science of Medical Marijuana with Mindfulness Techniques to Heal 100 Chronic Symptoms and Diseases" — captures Blesching"s integrative approach. The book combines hard pharmacological science with mind-body medicine perspectives, organizing its content around:
 
 - **The endocannabinoid system:** A detailed introduction to cannabinoid receptors (CB1, CB2), the four prime cannabinoids (anandamide/AEA, THC, CBD, (E)-beta-caryophyllene), and how they interact with the body's own signaling systems
 - **Mind-body medicine connections:** Blesching explores the relationship between molecules and emotions, presenting a framework connecting neurotransmitters and emotional states — acetylcholine ("I remember"), anandamide ("I am at ease"), serotonin ("I am happy"), cortisol ("I am stressed"), etc.
@@ -36,14 +36,14 @@ The full title — "The Cannabis Health Index: Combining the Science of Medical 
 
 ## Other Works
 
-Blesching's bibliography extends beyond cannabis:
+Blesching"s bibliography extends beyond cannabis:
 - "Spicy Healing: A Global Guide to Growing and Using Spices for Food and Medicine" — connecting culinary spices to their medicinal properties
-- "Cuba's Carnival: Origins of the Biggest Party on Earth" — cultural history
+- "Cuba"s Carnival: Origins of the Biggest Party on Earth" — cultural history
 - "How the Old Man Learned to Smile" — fiction
 
 ## Approach
 
-Blesching's work is notable for bridging the gap between clinical pharmacology and holistic health practice. He advocates for what he calls a "subjective therapeutic window" — the idea that optimal cannabis dosing is highly individual and must be determined through careful self-observation. His inclusion of mindfulness techniques alongside cannabinoid science reflects an integrative medicine perspective that considers both the biochemical and psychological dimensions of healing.
+Blesching"s work is notable for bridging the gap between clinical pharmacology and holistic health practice. He advocates for what he calls a "subjective therapeutic window" — the idea that optimal cannabis dosing is highly individual and must be determined through careful self-observation. His inclusion of mindfulness techniques alongside cannabinoid science reflects an integrative medicine perspective that considers both the biochemical and psychological dimensions of healing.
 
 ## See Also
 

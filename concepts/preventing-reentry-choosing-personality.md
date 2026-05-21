@@ -6,7 +6,7 @@ type: concept
 
 ## Preventing Re-Entry and Choosing the Post-Session Personality
 
-This concept covers the critical transitional phases described in the [[bardo-thodol]] as adapted by Leary, Metzner, and Alpert in *The [[leary-psychedelic-experience-bardo-mapping]]*. It addresses two key concerns: (1) how to prevent premature re-entry into ego-consciousness during a [[psychedelic-session-instructions]], and (2) how to consciously choose one's post-session personality upon returning. Together these teachings form the culmination of [[the-second-bardo-and-hallucinatory-visions]] instructions and the general conclusion of the manual.
+This concept covers the critical transitional phases described in the [[bardo-thodol]] as adapted by Leary, Metzner, and Alpert in *The [[leary-psychedelic-experience-bardo-mapping]]*. It addresses two key concerns: (1) how to prevent premature re-entry into ego-consciousness during a [[psychedelic-session-instructions]], and (2) how to consciously choose one"s post-session personality upon returning. Together these teachings form the culmination of [[the-second-bardo-and-hallucinatory-visions]] instructions and the general conclusion of the manual.
 
 ## Four Meditative Methods for Preventing Re-Entry
 
@@ -36,7 +36,7 @@ This is why the manual stresses the importance of preparation and setting: whate
 
 ## Methods of Choosing the Post-Session Personality
 
-As the session moves toward its conclusion and re-entry becomes imminent, the voyager faces what the Bardo Thodol describes as the art of choosing one's post-session personality — the specific life-form or level of existence into which consciousness will re crystallize. In the original Tibetan context, this refers to literal rebirth; in the psychedelic adaptation, it refers to the psychological pattern or ego-structure that will dominate consciousness as the session ends.
+As the session moves toward its conclusion and re-entry becomes imminent, the voyager faces what the Bardo Thodol describes as the art of choosing one"s post-session personality — the specific life-form or level of existence into which consciousness will re crystallize. In the original Tibetan context, this refers to literal rebirth; in the psychedelic adaptation, it refers to the psychological pattern or ego-structure that will dominate consciousness as the session ends.
 
 ### Choosing as a Profound Art
 

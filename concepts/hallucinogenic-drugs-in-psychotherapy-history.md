@@ -12,7 +12,7 @@ sources:
 
 ## Overview
 
-The use of hallucinogenic drugs in psychotherapy spans several distinct eras, paradigms, and cultural traditions. Ralph Metzner's comparative overview identifies four paradigms: (1) standard Western psychedelic psychotherapy, (2) shamanic rituals of healing and divination, (3) syncretic folk religious ceremonies, and (4) hybrid shamanic-therapeutic rituals.
+The use of hallucinogenic drugs in psychotherapy spans several distinct eras, paradigms, and cultural traditions. Ralph Metzner"s comparative overview identifies four paradigms: (1) standard Western psychedelic psychotherapy, (2) shamanic rituals of healing and divination, (3) syncretic folk religious ceremonies, and (4) hybrid shamanic-therapeutic rituals.
 
 ## Western Paradigm: Psycholytic Therapy
 
@@ -28,11 +28,11 @@ More or less simultaneously, the psychedelic model became preferred in Anglo-Ame
 
 ## Military Interest
 
-Considerable research was devoted for about ten years to determining effective surreptitious delivery systems for LSD as a weapon of war or espionage. Ironically, LSD's capacity to tap into "awesome worlds of cosmic consciousness" -- rather than making subjects predictably submissive -- ruined its applicability as a weapon.
+Considerable research was devoted for about ten years to determining effective surreptitious delivery systems for LSD as a weapon of war or espionage. Ironically, LSD"s capacity to tap into "awesome worlds of cosmic consciousness" -- rather than making subjects predictably submissive -- ruined its applicability as a weapon.
 
 ## The Empathogen Revolution
 
-A significant extension occurred with **Alexander Shulgin's** discovery of phenethylamines such as MDA, MDMA, and 2-CB, which bring about expansion and centering of awareness primarily on the emotional or heart level, with minimal perceptual changes. MDMA (Ecstasy) became widely used both recreationally and in therapeutic contexts, leading to the modern renaissance of psychedelic-assisted psychotherapy.
+A significant extension occurred with **Alexander Shulgin"s** discovery of phenethylamines such as MDA, MDMA, and 2-CB, which bring about expansion and centering of awareness primarily on the emotional or heart level, with minimal perceptual changes. MDMA (Ecstasy) became widely used both recreationally and in therapeutic contexts, leading to the modern renaissance of psychedelic-assisted psychotherapy.
 
 ## Shamanic Healing
 
@@ -42,7 +42,7 @@ Indigenous people are known to have "profound knowledge of plants and herbs and 
 
 ## Terminology
 
-Metzner uses "psychedelic," "hallucinogenic," and "entheogenic" interchangeably. "Hallucinogen" deserves rehabilitation -- the Latin alucinare means to "wander in one's mind," and "traveling or journeying in inner space are actually quite appropriate descriptive metaphors." "Entheogen," proposed by Wasson and Ott, means "releasing or expressing the divine within."
+Metzner uses "psychedelic," "hallucinogenic," and "entheogenic" interchangeably. "Hallucinogen" deserves rehabilitation -- the Latin alucinare means to "wander in one"s mind," and "traveling or journeying in inner space are actually quite appropriate descriptive metaphors." "Entheogen," proposed by Wasson and Ott, means "releasing or expressing the divine within."
 
 ## Related Concepts
 

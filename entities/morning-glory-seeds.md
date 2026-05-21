@@ -27,7 +27,7 @@ Morning glory seeds, particularly from the species [[ipomoea-violacea]] (syn. I.
 - Common garden morning glory varieties (Heavenly Blue, Pearly Gates, Flying Saucers) contain the highest concentrations of active alkaloids
 - Seeds are often treated with fungicides by commercial suppliers, making them potentially toxic unless properly sourced
 
-## In Leary's Framework
+## In Leary"s Framework
 
 Leary mentions morning glory seeds specifically regarding side effects:
 

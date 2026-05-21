@@ -12,7 +12,7 @@ sources:
 
 Updated: 2026-04-18
 
-The forest garden is the most mature expression of the ecological garden concept: a food-producing landscape modeled on the structure and function of a natural forest. By stacking plants in multiple vertical layers, the forest garden produces three dimensions of fruit, berries, vegetables, and herbs while minimizing the gardener's work through nature's self-maintaining systems. This page synthesizes the key design principles from Gaia's Garden and related permaculture sources.
+The forest garden is the most mature expression of the ecological garden concept: a food-producing landscape modeled on the structure and function of a natural forest. By stacking plants in multiple vertical layers, the forest garden produces three dimensions of fruit, berries, vegetables, and herbs while minimizing the gardener"s work through nature's self-maintaining systems. This page synthesizes the key design principles from Gaia's Garden and related permaculture sources.
 
 ## The Seven Layers
 

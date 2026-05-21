@@ -28,7 +28,7 @@ Key enzymes and corresponding genes:
 - **Vermelone reductase** (*vr1*): vermelone → DHN
 - **PKS** (*pks1* or *alb1* in *Aspergillus*): initiates the polyketide chain
 
-Inhibition of DHN melanin synthesis (e.g., with tricyclazole, which inhibits reductases) produces albino mutants that are dramatically more sensitive to environmental stresses, demonstrating melanin's protective role.
+Inhibition of DHN melanin synthesis (e.g., with tricyclazole, which inhibits reductases) produces albino mutants that are dramatically more sensitive to environmental stresses, demonstrating melanin"s protective role.
 
 ### DOPA Melanin
 

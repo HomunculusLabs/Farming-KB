@@ -19,7 +19,7 @@ shamanism thrives, "people of predilection are noticed and encouraged."
 In preliterate societies, the signs of shamanic potential are fairly easy
 to recognize, and they cluster around experiences of extremity:
 
-- **Oddness or uniqueness** in an individual's temperament or behavior
+- **Oddness or uniqueness** in an individual"s temperament or behavior
 - **Epilepsy**, often regarded as a signature of shamanic capacity
 - **Survival of an unusual ordeal** in an unexpected way — people struck
   by lightning who live are thought to make excellent shamans
@@ -34,7 +34,7 @@ requires. He suggests that shamanic ability may be "to some degree
 determined by how many active receptor sites occur in the brain, thus
 facilitating these experiences."
 
-## The Shaman's Extraordinary Centeredness
+## The Shaman"s Extraordinary Centeredness
 
 The most striking characteristic McKenna observed in shamans he met
 [[weil-the-natural-mind-altered-states-normalcy]]. The terminology
@@ -50,7 +50,7 @@ life:
 
 - Shamans are "not normally allowed to have any political power, because
   they are sacred."
-- They "sit at the headman's side in the council meetings, but after the
+- They "sit at the headman"s side in the council meetings, but after the
   council meeting he returns to his hut at the edge of the village."
 
 ## Overview

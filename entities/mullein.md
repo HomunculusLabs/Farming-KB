@@ -14,12 +14,12 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "PFAF. 'Verbascum thapsus — Plants For A Future.' https://pfaf.org/user/Plant.aspx?LatinName=Verbascum+thapsus"
+  - "PFAF. "Verbascum thapsus — Plants For A Future.' https://pfaf.org/user/Plant.aspx?LatinName=Verbascum+thapsus"
 ---
 
 ## Mullein
 
-**Great Mullein** | **Common Mullein** | **Aaron's Rod** | **Flannel Plant** | **Cowboy Toilet Paper** | **Velvet Dock** | **Woolly Mullein**
+**Great Mullein** | **Common Mullein** | **Aaron"s Rod** | **Flannel Plant** | **Cowboy Toilet Paper** | **Velvet Dock** | **Woolly Mullein**
 
 *[[guzman-psilocybin-mushrooms-north-america]] and other [[cannabis-respiratory-conditions]], and permaculture design sign it serves as a dynamic mineral accumulator, habitat plant, and pioneer species.
 
@@ -33,7 +33,7 @@ sources:
 - **Species:** *V. thapsus* L.
 - **First described:** Carl Linnaeus, *Species Plantarum*, 1753
 
-The genus *Verbascum* contains approximately 360 species distributed across Europe, Asia, and North Africa. The specific epithet *thapsus* refers to the ancient Greek colony of Thapsos in Sicily. The plant's tall, unbranched flower stalk inspired the biblical name "Aaron's Rod."
+The genus *Verbascum* contains approximately 360 species distributed across Europe, Asia, and North Africa. The specific epithet *thapsus* refers to the ancient Greek colony of Thapsos in Sicily. The plant's tall, unbranched flower stalk inspired the biblical name "Aaron"s Rod."
 
 ## Botanical Description
 

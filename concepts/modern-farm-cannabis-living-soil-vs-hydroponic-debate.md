@@ -42,7 +42,7 @@ Hexanoic acid (Hx) is a potent natural priming agent of plant immune responses:
 - Induces both salicylic acid (SA) and jasmonic acid (JA) signaling pathways
 - Primes redox-related genes for antioxidant protection
 - Priming is effective against a wide range of host plants and pathogens
-- Later primes pathogen-specific responses according to the pathogen's lifestyle
+- Later primes pathogen-specific responses according to the pathogen"s lifestyle
 - Antioxidant protective effect may be critical for limiting necrotrophic infection
 - Plant defense activation correlates with increased trichome production
 - Trichomes are defensive structures that also produce cannabinoids and terpenes

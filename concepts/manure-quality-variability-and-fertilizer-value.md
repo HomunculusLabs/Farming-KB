@@ -17,7 +17,7 @@ type: concept
 
 Solomon uses horse manure as a case study to illustrate nutrient dilution. Horse owners routinely add substantial quantities of sawdust, shavings, or straw to stalls and paddocks to absorb urine and manure. The resulting mix is primarily carbon-rich bedding material with relatively small amounts of nitrogen-rich manure interspersed.
 
-When gardeners spread this mixture, they are mostly applying organic carbon matter, not concentrated fertilizer. The nitrogen content is so diluted that most of the soil's available nitrogen will be consumed by soil microorganisms decomposing the carbon-rich bedding rather than being made available to plants. This phenomenon, known as **nitrogen immobilization**, can create actual nitrogen deficiency in crops following fresh manure application.
+When gardeners spread this mixture, they are mostly applying organic carbon matter, not concentrated fertilizer. The nitrogen content is so diluted that most of the soil"s available nitrogen will be consumed by soil microorganisms decomposing the carbon-rich bedding rather than being made available to plants. This phenomenon, known as **nitrogen immobilization**, can create actual nitrogen deficiency in crops following fresh manure application.
 
 ## Species-Based Nutrient Differences
 

@@ -6,16 +6,16 @@ type: concept
 tags: [mycology, mushrooms]
 sources: - "raw/papers/allegro-j-the-sacred-mushroomcross.md"
 ---
-## Sumerian Mushroom Nomenclature in Allegro's Theory
+## Sumerian Mushroom Nomenclature in Allegro"s Theory
 Central to [[allegro-star-of-the-morning-venus-and-the-sacred-mushroom]] and
 the Cross was his claim that the [[magic-mushroom-preparation-and-consumption-methods]] in cultic ritual.
 **John**: Allegro derived this from the Sumerian GAN-NU,
-meaning "red dye," referencing the mushroom's distinctive
+meaning "red dye," referencing the mushroom"s distinctive
 red cap.
 **Bartholomew**: From TAB BA-R/LI, which Allegro translated
 as "mushroom" (specifically the fly-agaric).
 **Peter**: Interpreted through Sumerian components relating to
-the mushroom's physical characteristics, particularly its role
+the mushroom"s physical characteristics, particularly its role
 as a "stone" or "rock" (the word "Peter" means "rock" in Greek).
 ## The Sumerian Religious Context
 Allegro placed [[allegro-death-and-resurrection-in-the-mushroom-cult]] within the broader context of

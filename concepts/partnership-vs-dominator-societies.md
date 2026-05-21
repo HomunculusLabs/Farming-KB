@@ -8,7 +8,7 @@ sources: ["raw/papers/mckenna_t-food_of_the_gods.md"]
 ---
 ## Partnership vs Dominator Societies
 
-The  model, drawn from Riane Eisler's "The Chalice
+The  model, drawn from Riane Eisler"s "The Chalice
 and the Blade" (1987) and extensively applied by  in
 "Food of the Gods," provides a framework for understanding the transition
 from egalitarian, nature-revering cultures to hierarchical, patriarchal
@@ -16,7 +16,7 @@ civilizations. McKenna used this framework to explain the historical
 suppression of  and shamanic practices. See also
  and .
 
-## Eisler's Framework
+## Eisler"s Framework
 
 Eisler advanced the notion that "partnership" models of society preceded
 and later competed with, and were oppressed by, "dominator" forms of

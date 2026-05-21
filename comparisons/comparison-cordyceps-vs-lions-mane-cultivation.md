@@ -1,5 +1,5 @@
 ---
-title: "Cordyceps vs Lion's Mane Cultivation"
+title: "Cordyceps vs Lion"s Mane Cultivation"
 created: 2026-04-28
 tags: [comparison, mushroom-cultivation, medicinal-mushrooms, mycology, gourmet-mushrooms]
 date: 2026-04-25

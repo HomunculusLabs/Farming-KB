@@ -20,7 +20,7 @@ Casing is a fundamental technique in [[accessible-mushroom-cultivation-for-disab
 
 ## Casing Layer Specifications
 
-Duggar's recommended parameters for the casing layer:
+Duggar"s recommended parameters for the casing layer:
 
 - **Depth**: 1 to 1.25 inches of soil covering the entire bed surface
 - **Timing**: Applied only after spawn is visibly running well through the compost

@@ -7,7 +7,7 @@ tags: [person, botanist, boston, city-forester, 19th-century]
 
 ## Description
 
-**John Galvin** was the city forester of Boston during Palmer's period of mycological study. He granted Palmer permission to collect mushroom specimens from city grounds during a time when Palmer was unable to leave the city, enabling his research into [[classification-of-edible-and-poisonous-mushroom-families]] fungi.
+**John Galvin** was the city forester of Boston during Palmer"s period of mycological study. He granted Palmer permission to collect mushroom specimens from city grounds during a time when Palmer was unable to leave the city, enabling his research into [[classification-of-edible-and-poisonous-mushroom-families]] fungi.
 
 ## Biography
 
@@ -24,7 +24,7 @@ Palmer credits Galvin with enabling a critical phase of his mycological research
 
 ### Character and Professional Conduct
 
-Palmer makes a point of praising Galvin's public service ethic, drawing a broader moral observation:
+Palmer makes a point of praising Galvin"s public service ethic, drawing a broader moral observation:
 
 > "Some men, holding office, seem anxious to show their power by manners disagreeable to their fellow-citizens; others do not forget that no official is less respected because he continues to be a perfect gentleman."
 
@@ -32,7 +32,7 @@ Palmer emphasizes this acknowledgment specifically because Galvin was "a total s
 
 ## Historical Context
 
-Galvin's role as city forester indicates that Boston maintained managed public green spaces during this period, producing what Palmer describes as "rich lawns and well-kept gardens" that yield "the finest mushrooms." The city grounds served as an unexpected but productive site for mycological observation and [[fungal-specimen-collection-herbarium-management]].
+Galvin"s role as city forester indicates that Boston maintained managed public green spaces during this period, producing what Palmer describes as "rich lawns and well-kept gardens" that yield "the finest mushrooms." The city grounds served as an unexpected but productive site for mycological observation and [[fungal-specimen-collection-herbarium-management]].
 
 ## Relevance to Cultivation and Mycology
 

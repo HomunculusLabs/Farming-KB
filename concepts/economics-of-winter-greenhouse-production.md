@@ -6,7 +6,7 @@ type: concept
 
 ## Economics of Winter Greenhouse Production
 
-Understanding the economics of winter greenhouse vegetable production is essential for making informed crop choices, setting realistic income targets, and building a sustainable small-farm business. Eliot Coleman's financial framework at [[four-season-farm]] provides concrete benchmarks for unheated and cool greenhouse production.
+Understanding the economics of winter greenhouse vegetable production is essential for making informed crop choices, setting realistic income targets, and building a sustainable small-farm business. Eliot Coleman"s financial framework at [[four-season-farm]] provides concrete benchmarks for unheated and cool greenhouse production.
 
 ## Revenue Targets Per Square Foot
 

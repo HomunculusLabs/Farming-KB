@@ -1,5 +1,5 @@
 ---
-title: Fukuoka's Vision for Decentralized Self-Sufficient Communities
+title: Fukuoka"s Vision for Decentralized Self-Sufficient Communities
 created: 2026-04-16
 updated: 2026-04-16
 type: concept
@@ -27,7 +27,7 @@ Fukuoka saw centralized systems -- whether political, economic, or agricultural 
 
 ## Natural Farming Transcends Past and Future
 
-A striking phrase from this section is Fukuoka's claim that [[fukuoka-natural-farming-in-arid-regions]] these hills and demonstrating just how enjoyable life can be without electrical energy." These experiments demonstrated that communities could produce abundant food without purchased inputs, machinery, or specialized knowledge.
+A striking phrase from this section is Fukuoka"s claim that [[fukuoka-natural-farming-in-arid-regions]] these hills and demonstrating just how enjoyable life can be without electrical energy." These experiments demonstrated that communities could produce abundant food without purchased inputs, machinery, or specialized knowledge.
 
 ## The Role of Education
 

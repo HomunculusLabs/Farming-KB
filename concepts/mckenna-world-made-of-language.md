@@ -1,5 +1,5 @@
 ---
-title: McKenna's World Made of Language and the Linguistic Foundations of Shamanism
+title: McKenna"s World Made of Language and the Linguistic Foundations of Shamanism
 source: mckenna_t-food_of_the_gods.md
 author: Terence McKenna
 topics: shamanism, language, consciousness, psychedelic, linguistics, ecstacy, ayahuasca
@@ -21,7 +21,7 @@ academic discourse. Landau wrote:
 > "The twentieth-century linguistic revolution is the recognition that language is not
 > merely a device for communicating ideas about the world, but rather a tool for
 > bringing the world into existence in the first place. Reality is not simply
-> 'experienced' or 'reflected' in language, but instead is actually produced by
+> "experienced' or 'reflected' in language, but instead is actually produced by
 > language."
 
 This reframing moves language from the periphery of human experience to its very center.

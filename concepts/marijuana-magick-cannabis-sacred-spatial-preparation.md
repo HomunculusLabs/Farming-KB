@@ -8,7 +8,7 @@ type: concept
 tags: [cannabis, religion]
 ---
 
-## [[marijuana-magick-scrying-and-divination-cannabis]]," sacred space functions as a prerequisite for effective ritual. The guide describes multiple methods for creating, configuring, and closing ritual spaces, each adapted to the specific working being performed. Cannabis plays a dual role in spatial preparation: it is both prepared within the sacred space and consumed to deepen the practitioner's connection to the consecrated environment.
+## [[marijuana-magick-scrying-and-divination-cannabis]]," sacred space functions as a prerequisite for effective ritual. The guide describes multiple methods for creating, configuring, and closing ritual spaces, each adapted to the specific working being performed. Cannabis plays a dual role in spatial preparation: it is both prepared within the sacred space and consumed to deepen the practitioner"s connection to the consecrated environment.
 
 ## Drawing the Circle
 
@@ -16,9 +16,9 @@ The circle is the foundational spatial element across all rituals in the text. I
 
 ### Salt Circles
 
-Salt is the primary material for drawing protective and sacred boundaries. In the "Harnessing of the Earth's Energy" ritual, the practitioner draws a salt circle on the ground -- preferably outdoors, though indoor use is explicitly permitted. The circle need only be "large enough to comfortably surround you," prioritizing practitioner comfort over rigid measurements.
+Salt is the primary material for drawing protective and sacred boundaries. In the "Harnessing of the Earth"s Energy" ritual, the practitioner draws a salt circle on the ground -- preferably outdoors, though indoor use is explicitly permitted. The circle need only be "large enough to comfortably surround you," prioritizing practitioner comfort over rigid measurements.
 
-Salt carries traditional associations with purification and protection in Western occult practice. Its use here connects the guide's methods to centuries of folk magic tradition in which salt was believed to ward off malevolent spirits and create clean spiritual space. The text's preference for "a large container" of salt suggests [[natural-farming-guide-permaculture-design-for-small-holdings]] object (stick) to draw the boundary makes the act of creating sacred space itself a gesture of communion with the natural world.
+Salt carries traditional associations with purification and protection in Western occult practice. Its use here connects the guide"s methods to centuries of folk magic tradition in which salt was believed to ward off malevolent spirits and create clean spiritual space. The text's preference for "a large container" of salt suggests [[natural-farming-guide-permaculture-design-for-small-holdings]] object (stick) to draw the boundary makes the act of creating sacred space itself a gesture of communion with the natural world.
 
 ### Salt Without the Pentagram
 

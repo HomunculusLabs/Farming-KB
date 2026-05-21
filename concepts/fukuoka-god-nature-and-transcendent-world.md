@@ -14,7 +14,7 @@ In the closing chapters of "The Road Back to Nature," Masanobu Fukuoka explores 
 
 ## God and Nature Are One
 
-"In a world beyond words, where language is of no consequence, 'God' and 'nature' are one and the same. When I say 'nature is God,' what I mean is that the essence of nature and the essence of God are like opposite sides of a reality."
+"In a world beyond words, where language is of no consequence, "God' and 'nature' are one and the same. When I say 'nature is God,' what I mean is that the essence of nature and the essence of God are like opposite sides of a reality."
 
 "What appears on the surface is the physical form of nature; God lies concealed behind nature." When one speaks of "inner and outer," people "conjure up images of two different things" and "are unable to see nature on the outside and God on the inside as a single entity."
 
@@ -34,7 +34,7 @@ Fukuoka uses the metaphor of climbing a mountain: "If a drop of [[fukuoka-descar
 
 ## "My Way" of Natural Farming
 
-A young man leaving the farm announced: "I'm going to set up my own method of farming naturally." Fukuoka's response: "There is no X or Y school of natural farming. Although this young fellow came here to shed his ego and [[fukuoka-nature-god-transcendent-world]]
+A young man leaving the farm announced: "I"m going to set up my own method of farming naturally." Fukuoka"s response: "There is no X or Y school of natural farming. Although this young fellow came here to shed his ego and [[fukuoka-nature-god-transcendent-world]]
 
 ## Practical Applications
 

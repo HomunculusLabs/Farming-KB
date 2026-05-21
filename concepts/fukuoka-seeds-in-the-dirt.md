@@ -11,11 +11,11 @@ sources:
 
 ## The Philosophy of Scattering Seed
 
-Fukuoka's approach to revegetation and farming begins with an act of faith: scattering seed and waiting. "Everything begins by sowing seed." This is not merely a technique but a philosophical stance — an acknowledgment that human knowledge is insufficient to determine what will grow, where, and when. Instead of analyzing soil chemistry, testing conditions, and selecting crops scientifically, the natural farmer "sounds out the earth, asking it questions, and the earth will answer back."
+Fukuoka"s approach to revegetation and farming begins with an act of faith: scattering seed and waiting. "Everything begins by sowing seed." This is not merely a technique but a philosophical stance — an acknowledgment that human knowledge is insufficient to determine what will grow, where, and when. Instead of analyzing soil chemistry, testing conditions, and selecting crops scientifically, the natural farmer "sounds out the earth, asking it questions, and the earth will answer back."
 
 ### Anyone Can Be a Quarter-Acre Farmer
 
-Fukuoka's hilltop orchard overlooking the Inland Sea demonstrated that this philosophy is accessible to anyone. Young people from the cities — some from other lands — came to live a crude, simple life growing crops. They lived self-sufficiently on brown rice and vegetables, without electricity or running water. These young fugitives, disaffected with the cities, learned how to become quarter-acre farmers.
+Fukuoka"s hilltop orchard overlooking the Inland Sea demonstrated that this philosophy is accessible to anyone. Young people from the cities — some from other lands — came to live a crude, simple life growing crops. They lived self-sufficiently on brown rice and vegetables, without electricity or running water. These young fugitives, disaffected with the cities, learned how to become quarter-acre farmers.
 
 The method itself is disarmingly simple: "direct-seeded, no-tillage, winter grain/rice succession in a clover cover." Fukuoka consistently harvested close to 22 bushels of winter grain and 22 bushels of rice per quarter-acre — without plowing, [[fukuoka-rice-barley-dual-culture]] for the full grain production cycle.
 
@@ -27,7 +27,7 @@ A bamboo grove may serve equally well as the reserve. A bamboo shoot grows to fu
 
 ## The Three-Year Plan
 
-Fukuoka's practical strategy for any degraded land:
+Fukuoka"s practical strategy for any degraded land:
 
 1. **Year One**: Sow a wide collection of seeds over a large area. Expect 99% failure. Observe what survives — even minimal survival "will give us precious clues."
 2. **Year Two**: Reseed heavily with whatever showed any survival. Expect continued high failure. "Anything that shows even the slightest survival rate should be seeded again."

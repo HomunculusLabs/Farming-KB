@@ -10,7 +10,7 @@ sources:
 
 Updated: 2026-04-18
 
-Source: Sepp Holzer, *Sepp Holzer's Permaculture* (2010)
+Source: Sepp Holzer, *Sepp Holzer"s Permaculture* (2010)
 
 Beyond pigs, Sepp Holzer integrates [[palmer-poisonous-mushrooms-deadly-species]]
 - Animals with lush, diverse flora including poisonous mushrooms stay healthy and no longer need worming

@@ -3,7 +3,7 @@ title: Eleusinian Mysteries Ethnomycology
 aliases: [eleusinian mysteries, ethnomycology, mushroom cults, ancient mushroom use, soma]
 tags: [mycology, history, ethnobotany, ancient-greece, religion, ethnomycology]
 created: 2026-05-10
-source: "Growing Gourmet and plutarch-and-cicero-on-the-eleusinian-mysteries were the most sacred bloomfield-ergot-claviceps-purpurea-ergotism*), which contains alkaloids related to LSD. This hypothesis, detailed in *The Road to Eleusis* (1978), fundamentally transformed the field of ethnomycology and our understanding of fungi's role in shaping human consciousness and civilization.
+source: "Growing Gourmet and plutarch-and-cicero-on-the-eleusinian-mysteries were the most sacred bloomfield-ergot-claviceps-purpurea-ergotism*), which contains alkaloids related to LSD. This hypothesis, detailed in *The Road to Eleusis* (1978), fundamentally transformed the field of ethnomycology and our understanding of fungi"s role in shaping human consciousness and civilization.
 ---
 
 ## The Eleusinian Ceremony
@@ -15,7 +15,7 @@ The mysteries were held at Eleusis, fourteen miles from Athens, and followed a p
 - **The telestrion**: Upon arriving at the temple, pilgrims gathered in rows that descended step-wise to a hidden central chamber called the telestrion. An array of columns beyond any apparent structural need stood within the pavilion.
 - **The kykeon**: A fungal concoction was served from the central chamber. This potion, called kykeon, was the central element of the ceremony.
 - **The experience**: Pilgrims spent the night together and reportedly came away "forever changed," having undergone a profound transformative experience.
-- **Secrecy**: No revelation of the ceremony's secrets could be mentioned under the punishment of imprisonment or death. This absolute secrecy kept the mysteries intact for nearly 2,000 years, from approximately 1500 BCE until they were suppressed in the early centuries of the Christian era.
+- **Secrecy**: No revelation of the ceremony"s secrets could be mentioned under the punishment of imprisonment or death. This absolute secrecy kept the mysteries intact for nearly 2,000 years, from approximately 1500 BCE until they were suppressed in the early centuries of the Christian era.
 
 ## Participants in the Mysteries
 
@@ -50,12 +50,12 @@ R. Gordon Wasson (1898–1986) was an investment banker whose passion for fungi 
 
 ## The Soma Question
 
-One of Wasson's most provocative findings concerns the identity of **Soma** — the mysterious divine substance of Vedic literature:
+One of Wasson"s most provocative findings concerns the identity of **Soma** — the mysterious divine substance of Vedic literature:
 
 - The Rig Veda describes Soma as a red fruit that confers spontaneous enlightenment, immortality, and divine visions upon those who ingest it.
 - Wasson postulated in *Soma: Divine Mushroom of Immortality* (1976) that Soma was actually **Amanita muscaria**, the hallucinogenic Fly Agaric mushroom.
 - The Vedic symbolism carefully disguised Soma's true identity: descriptions of a "red fruit without leaves or branches" and "filtered juice" are consistent with preparing Amanita muscaria for consumption.
-- Many cultures portray Amanita muscaria as the archetypal mushroom — the iconic red-capped, white-spotted fungus that appears in children's books and fairy tales worldwide.
+- Many cultures portray Amanita muscaria as the archetypal mushroom — the iconic red-capped, white-spotted fungus that appears in children"s books and fairy tales worldwide.
 - Some Vedic scholars disagree with Wasson's interpretation, but his exhaustive research continues to stand as the most comprehensive treatment of the Soma question.
 
 ## Mesoamerican Mushroom Cultures
@@ -67,7 +67,7 @@ Mesoamerican cultures maintained active mushroom traditions at the time of Europ
 - **The [[powell-mayan-civilisation-and-psilocybin-mushroom-use]] for divination and healing, documented by Wasson and Heim in the 1950s.
 - **Mayan mushroom stones**: Similar [[piptoporus-betulinus]]*): Strung on a cord, this polypore can be used as tinder for starting fires and as medicine for treating wounds. A tea with immuno-enhancing properties can be prepared by boiling these mushrooms.
 - **An unidentified mushroom**: A second mushroom species has not been conclusively identified but may have served additional medicinal or ritual purposes.
-- The Iceman's mushroom kit demonstrates that practical knowledge of fungi was essential for survival in prehistoric Europe.
+- The Iceman"s mushroom kit demonstrates that practical knowledge of fungi was essential for survival in prehistoric Europe.
 
 ## Modern Legacy
 

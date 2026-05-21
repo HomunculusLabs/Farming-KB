@@ -8,7 +8,7 @@ sources:
   - "raw/papers/the-modern-farm-why-cannabis-grown-with-lab-might-produce.md"
 ---
 
-## Darwin's Phototropism Experiments
+## Darwin"s Phototropism Experiments
 
 ## Overview
 
@@ -38,7 +38,7 @@ The pattern was clear: if the tip could "see" the light, the plant bent. If the 
 
 These five conditions led Darwin to a crucial distinction: the site of [[julius-von-sachs-blue-light-phototropism-discovery]] [[chamovitz-julius-von-sachs-blue-light-phototropism]] Sachs.
 
-In 1864, Sachs made an important discovery that complemented Darwin's findings: he determined that blue light is the primary wavelength responsible for inducing phototropic bending.
+In 1864, Sachs made an important discovery that complemented Darwin"s findings: he determined that blue light is the primary wavelength responsible for inducing phototropic bending.
 
 Sachs demonstrated that when plants were exposed to different colors of light, only blue light triggered the bending response. Other colors — including red and green — had little or no effect.
 

@@ -58,7 +58,7 @@ Forest regrowth rebuilds soil fertility over approximately 20 years before anoth
 
 - **Scale and ratio:** The small ratio of garden to total land area provides a fundamental design principle for permaculture systems: productive zones must be balanced with regenerative zones.
 
-- **Energy descent model:** The system's remarkable energy efficiency makes it relevant as a model for post-fossil-fuel agriculture and permaculture design.
+- **Energy descent model:** The system"s remarkable energy efficiency makes it relevant as a model for post-fossil-fuel agriculture and permaculture design.
 
 ## Connections
 

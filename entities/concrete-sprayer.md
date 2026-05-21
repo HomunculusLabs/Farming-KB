@@ -22,7 +22,7 @@ A concrete sprayer is a type of hand pump sprayer designed for applying concrete
 - Resembles standard home garden pump sprayers in appearance but with critical design differences.
 - Fewer bends in the internal plumbing reduce clogging by compost particles.
 - Larger orifices and nozzles allow compost particles, [[fungal-hyphae]], and nematodes to pass through without damage.
-- Available at builders' supply stores, concrete contractors, concrete supply stores, and sand and gravel companies.
+- Available at builders" supply stores, concrete contractors, concrete supply stores, and sand and gravel companies.
 - Avoids the problem of standard garden sprayers clogging with compost particulate matter.
 - Must still be operated at pressures below 70 PSI to avoid killing microbes through shear forces.
 - An affordable alternative to commercial compost tea spraying equipment for small to medium applications.

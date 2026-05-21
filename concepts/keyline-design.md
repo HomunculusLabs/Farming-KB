@@ -59,7 +59,7 @@ The core technique of keyline design is a specific cultivation pattern that move
 
 ### Cultivation Depth
 
-Keyline cultivation is done with a chisel plow or subsoiler (Yeomans' original "Keyline Plow") that fractures the soil without inverting it. This is a form of deep ripping:
+Keyline cultivation is done with a chisel plow or subsoiler (Yeomans" original "Keyline Plow") that fractures the soil without inverting it. This is a form of deep ripping:
 
 - Cultivate to a depth of 4-8 inches on first pass
 - Subsequent passes can go deeper (up to 12-16 inches) as soil structure improves

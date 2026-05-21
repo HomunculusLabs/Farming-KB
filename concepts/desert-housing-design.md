@@ -12,7 +12,7 @@ Desert housing must achieve the twin qualities of **summer cooling** and **winte
 
 ### Clustered Housing
 
-The "colony of swallows' nests" appearance of many arid-area settlements is not coincidental. Close-clustered dwellings with their long axis aligned **east-west** and common or close-spaced walls ensure that neither wind nor heat easily penetrates the settlement fabric. Key principles:
+The "colony of swallows" nests" appearance of many arid-area settlements is not coincidental. Close-clustered dwellings with their long axis aligned **east-west** and common or close-spaced walls ensure that neither wind nor heat easily penetrates the settlement fabric. Key principles:
 
 - **Narrow east-west streets maximised**; broad north-south streets minimised
 - Multiple storeys create shaded narrow "wells" of cool air in courtyards and streets

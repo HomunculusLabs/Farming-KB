@@ -12,7 +12,7 @@ type: concept
 
 Maitake is a **highly aerobic** basidiomycete that naturally forms **enormous fruiting bodies**, sometimes exceeding 20 kg in the wild. Its morphology is distinctive: short, chunky, branched stems support **numerous overlapping caps** arranged in dense rosette-like clusters. The species is native to **temperate climates** and typically **fruits in the fall**, responding to cooler temperatures and fluctuating moisture conditions in its forest habitat.
 
-These natural characteristics have important implications for cultivation. The organism's demand for abundant fresh air exchange, its sensitivity to environmental parameters, and its tendency toward large-scale fruiting all must be accounted for in a synthetic grow system. Growers who underestimate these requirements often encounter poor yields or complete crop failure.
+These natural characteristics have important implications for cultivation. The organism"s demand for abundant fresh air exchange, its sensitivity to environmental parameters, and its tendency toward large-scale fruiting all must be accounted for in a synthetic grow system. Growers who underestimate these requirements often encounter poor yields or complete crop failure.
 
 ## The Critical Importance of Strain Selection
 

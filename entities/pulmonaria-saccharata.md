@@ -64,7 +64,7 @@ It has become naturalized in parts of the UK, Germany, and the northeastern Unit
 
 **Ornamental value:** The silver-spotted evergreen foliage provides year-round interest in shade gardens. Flowers in March–May offer early nectar for emerging pollinators.
 
-**Cultivars:** Numerous cultivars exist, with selections for leaf spotting intensity, flower color, and plant vigor. Notable cultivars include 'Mrs. Moon' (pink-blue flowers, heavy spotting) and 'Sissinghurst White' (pure white flowers).
+**Cultivars:** Numerous cultivars exist, with selections for leaf spotting intensity, flower color, and plant vigor. Notable cultivars include "Mrs. Moon' (pink-blue flowers, heavy spotting) and 'Sissinghurst White' (pure white flowers).
 
 **Growing conditions:** Prefers moist, well-drained, humus-rich soil in partial to full shade. Tolerates clay soils if not waterlogged. Avoid hot afternoon sun, which scorches the foliage.
 

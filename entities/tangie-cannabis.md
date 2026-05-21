@@ -19,7 +19,7 @@ Tangie is a sativa-dominant cannabis strain renowned for its vivid tangerine cit
 
 ## Terpene Profile
 
-Tangie's terpene profile is dominated by citrus-forward compounds that produce its signature tangerine aroma:
+Tangie"s terpene profile is dominated by citrus-forward compounds that produce its signature tangerine aroma:
 
 - **[[linalool]]:** Present in smaller quantities, adding floral sweetness and promoting relaxation that tempers the otherwise energetic sativa effects.
 - **Ocimene:** Trace amounts add sweet, woody notes and may contribute to the uplifting quality.

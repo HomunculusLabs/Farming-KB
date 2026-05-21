@@ -10,7 +10,7 @@ sources:
 
 Updated: 2026-04-18
 
-Source: Sepp Holzer, *Sepp Holzer's Permaculture* (2010)
+Source: Sepp Holzer, *Sepp Holzer"s Permaculture* (2010)
 
 ## Composting Without a Compost Heap
 

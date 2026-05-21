@@ -21,11 +21,11 @@ Oswald Schmiedeberg (1838-1921) was a pioneering German pharmacologist and chemi
 ## Key Facts
 
 - Schmiedeberg and Koppe extracted their alkaloid from *Amanita muscaria* specifically and gave it the name "Muscarine," after the source species (muscaria = fly agaric).
-- They advocated the use of **atropine** (the active principle of *[[atropa-belladonna]]*) administered via subcutaneous injection as an antidote to Amanita poisoning. This recommendation was based on the observation that atropine could restore a frog's heart stopped by muscarine.
+- They advocated the use of **atropine** (the active principle of *[[atropa-belladonna]]*) administered via subcutaneous injection as an antidote to Amanita poisoning. This recommendation was based on the observation that atropine could restore a frog"s heart stopped by muscarine.
 - Their research demonstrated that animals injected with atropine could survive otherwise fatal doses of muscarine -- a key finding in the history of antagonistic drug interactions and receptor pharmacology.
 - Palmer noted that an American consulting physician independently arrived at the same treatment (belladonna/atropine) without knowledge of Schmiedeberg and Koppe's work, suggesting the pharmacological logic was sound and cross-culturally validated.
 - The classic demonstration: "The throbbing heart of a frog is silenced by a drop of muscarine; action is restored by a drop of atropine." This experiment became a foundational demonstration in pharmacology education.
-- Schmiedeberg's broader contributions to pharmacology were extensive; he established the first major pharmacological institute at the University of Strasbourg.
+- Schmiedeberg"s broader contributions to pharmacology were extensive; he established the first major pharmacological institute at the University of Strasbourg.
 
 ## Pharmacological Contributions
 
@@ -56,7 +56,7 @@ Schmiedeberg's work has lasting significance for:
 - **Modern treatment:** While atropine is effective against muscarine poisoning, modern medicine recognizes its limitations against the amatoxins that cause most fatal Amanita poisonings.
 - **Species specificity:** Schmiedeberg's choice of *A. muscaria* as his source species was significant, as this species contains primarily muscarine and [[ibotenic-acid]] rather than the amatoxins found in the more lethal *A. phalloides*.
 
-The naming conflict between his "Muscarine" and Letellier's "Amanitine" reflects the incomplete state of alkaloid chemistry in the 19th century, when different researchers likely isolated different compounds or mixtures from different source species. The resolution came only with modern analytical chemistry, which identified the distinct toxin families within Amanita.
+The naming conflict between his "Muscarine" and Letellier"s "Amanitine" reflects the incomplete state of alkaloid chemistry in the 19th century, when different researchers likely isolated different compounds or mixtures from different source species. The resolution came only with modern analytical chemistry, which identified the distinct toxin families within Amanita.
 ## Historical Context
 
 This topic has been studied and referenced across multiple traditions and academic disciplines. Understanding the historical development provides important context for current perspectives and applications.

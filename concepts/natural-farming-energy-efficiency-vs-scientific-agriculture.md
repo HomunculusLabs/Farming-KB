@@ -23,7 +23,7 @@ and the fundamental relationship between human civilization and the natural worl
 
 ## The Energy Arithmetic of Natural Farming
 
-Fukuoka's own farm on Shikoku Island served as the empirical baseline. Working
+Fukuoka"s own farm on Shikoku Island served as the empirical baseline. Working
 with his natural [[comparison-seed-starting-indoors-vs-direct-seeding-techniques]], no-tillage, no chemical
 fertilizers, no pesticides — he achieved a production rate of approximately **130
 pounds of rice per man-day of labor**. Converting this to energy terms, this
@@ -71,7 +71,7 @@ achieves.
 
 ## The Economic Paradox of Modern Farming
 
-Fukuoka's [[fukuoka-energy-analysis-rice-production-natural-vs-mechanized]] reveals a bitter economic irony. As farming has become
+Fukuoka"s [[fukuoka-energy-analysis-rice-production-natural-vs-mechanized]] reveals a bitter economic irony. As farming has become
 more energy-intensive and more heavily capitalized, the farmer's economic position
 has deteriorated. Modern farmers must work additional hours at outside jobs — in
 factories, on construction sites, in service industries — simply to earn enough

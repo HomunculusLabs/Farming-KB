@@ -15,7 +15,7 @@ type: query
 
 ## What Are Bioactive Compounds and Why Do Plants Produce Them?
 
-Bioactive compounds are naturally occurring chemical substances in plants that have a measurable effect on living organisms. They're the reason herbs work as medicine — these molecules interact with our cells, enzymes, and receptors to produce therapeutic (and sometimes toxic) effects. Scientists estimate that there are over 200,000 known [[cannabis-for-bacterial-infections-and-mrsa]], attract pollinators, and compete with neighboring plants. What's poison to an insect can be medicine to a human. This evolutionary arms race is precisely why medicinal plants are so pharmacologically rich.
+Bioactive compounds are naturally occurring chemical substances in plants that have a measurable effect on living organisms. They"re the reason herbs work as medicine — these molecules interact with our cells, enzymes, and receptors to produce therapeutic (and sometimes toxic) effects. Scientists estimate that there are over 200,000 known [[cannabis-for-bacterial-infections-and-mrsa]], attract pollinators, and compete with neighboring plants. What's poison to an insect can be medicine to a human. This evolutionary arms race is precisely why medicinal plants are so pharmacologically rich.
 
 ## What Are the Major Classes of Plant Bioactive Compounds?
 

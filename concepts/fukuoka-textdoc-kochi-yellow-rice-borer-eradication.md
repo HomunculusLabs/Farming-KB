@@ -19,7 +19,7 @@ type: concept
 
 ## Kochi Yellow Rice Borer Eradication Campaign
 
-The yellow rice borer eradication campaign in Kochi Prefecture was a pivotal experience in Fukuoka's career as an agricultural scientist and a turning point in his journey toward [[fukuoka-critique-scientific-agriculture-civilization]].
+The yellow rice borer eradication campaign in Kochi Prefecture was a pivotal experience in Fukuoka"s career as an agricultural scientist and a turning point in his journey toward [[fukuoka-critique-scientific-agriculture-civilization]].
 
 ## Background: Low Rice Yields in Kochi
 
@@ -37,7 +37,7 @@ Farmers in designated districts were forbidden from planting rice until July 8 o
 
 The program was to be carried out in phases, covering a different part of the prefecture during each of three successive years.
 
-Fukuoka remembered agonizing over which day in July to set as the end of the rice borer's first emergence period.
+Fukuoka remembered agonizing over which day in July to set as the end of the rice borer"s first emergence period.
 
 "A mistake would have been a very serious matter."
 

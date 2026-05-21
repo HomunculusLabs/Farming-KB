@@ -21,7 +21,7 @@ To achieve the best eating quality, lettuce must grow rapidly. The root stores w
 ## Growing Details
 
 1. **Fertile soil** is the most important requirement besides proper thinning.
-2. **Competition slows growth** -- don't let it happen.
+2. **Competition slows growth** -- don"t let it happen.
 3. **Thin progressively, carefully, and relentlessly.**
 4. Most varieties don't tolerate much heat -- some won't even germinate in hot soil, much less grow.
 

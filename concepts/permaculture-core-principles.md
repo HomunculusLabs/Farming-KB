@@ -58,7 +58,7 @@ The **Basic Law of Thermodynamics** (as restated by Watt): All energy entering a
 
 As stated by Asimov (1970): The total energy of the universe is constant and the total entropy is increasing. These physical constraints underpin all permaculture design — energy efficiency is not optional but obligatory.
 
-## Birch's Six Principles of Natural Systems
+## Birch"s Six Principles of Natural Systems
 
 1. **Nothing in nature grows forever.** There is a constant cycle of decay and rebirth.
 2. **Continuation of life depends** on the maintenance of global biogeochemical cycles of essential elements (carbon, oxygen, nitrogen, sulphur, phosphorus).

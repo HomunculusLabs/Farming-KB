@@ -36,7 +36,7 @@ PF distributed spores "for scientific and entheogenic research only" and wrote t
 
 ## Key Innovation
 
-PF's primary innovation was the substrate formula using brown rice powder and vermiculite instead of grain. The critical insight was the dry vermiculite barrier layer at the top of each jar, which PF described as "a Psylocybe Fanaticus original discovery." This dry layer protects the wet substrate from airborne contaminants and regulates moisture transpiration, eliminating the need for a pressure cooker or complex sterile procedures.
+PF"s primary innovation was the substrate formula using brown rice powder and vermiculite instead of grain. The critical insight was the dry vermiculite barrier layer at the top of each jar, which PF described as "a Psylocybe Fanaticus original discovery." This dry layer protects the wet substrate from airborne contaminants and regulates moisture transpiration, eliminating the need for a pressure cooker or complex sterile procedures.
 
 The PF TEK substrate formula for half-pint jars: 1/8 cup brown rice powder, 1/2 to 2/3 cup horticultural vermiculite (medium grade), and 40-45 cc water. A "maximum fruiting" variant used 1/4 cup brown rice powder, 1/2 cup vermiculite, and 60 cc water. PF noted that vermiculite coarseness varies considerably between brands, affecting water-holding capacity.
 
@@ -44,7 +44,7 @@ PF also advocated mass spore inoculation directly to the fruiting substrate rath
 
 ## Cultural Impact
 
-The PF TEK was "copied worldwide" according to PF's own documentation, appearing in forms including:
+The PF TEK was "copied worldwide" according to PF"s own documentation, appearing in forms including:
 - Hemp BC (Vancouver, Canada)
 - Hemp Nation (Canada)
 - Florida Mycology Research Center

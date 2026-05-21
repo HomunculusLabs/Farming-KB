@@ -14,7 +14,7 @@ The identification of "magic mushrooms" (fungi containing [[palmer-poisonous-mus
 3. **Lack of expert availability** — Accurate morphological identification requires specialized mycological training that most law enforcement and health personnel do not possess
 4. **Dried specimens** — Drying alters morphology significantly, making identification even more difficult
 
-Shirota et al. state the problem directly: "The identification of the 'magic mushroom' using morphologic and microscopic analyses is quite difficult without experts."
+Shirota et al. state the problem directly: "The identification of the "magic mushroom' using morphologic and microscopic analyses is quite difficult without experts."
 
 ### Regulatory Context
 

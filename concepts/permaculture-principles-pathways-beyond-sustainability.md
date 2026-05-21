@@ -6,7 +6,7 @@ type: concept
 
 ## Permaculture: Principles & Pathways Beyond Sustainability
 
-*Permaculture: Principles & Pathways Beyond Sustainability* by David Holmgren, published by Permanent Publications (ISBN 978-1-85623-052-0), is a foundational text in permaculture literature. Co-originated by Holmgren alongside Bill Mollison in the 1970s, permaculture has evolved from a set of agricultural techniques into a comprehensive design system for sustainable human settlements. This book, written three decades after *Permaculture One*, represents Holmgren's mature synthesis of permaculture principles as a framework for navigating energy descent.
+*Permaculture: Principles & Pathways Beyond Sustainability* by David Holmgren, published by Permanent Publications (ISBN 978-1-85623-052-0), is a foundational text in permaculture literature. Co-originated by Holmgren alongside Bill Mollison in the 1970s, permaculture has evolved from a set of agricultural techniques into a comprehensive design system for sustainable human settlements. This book, written three decades after *Permaculture One*, represents Holmgren"s mature synthesis of permaculture principles as a framework for navigating energy descent.
 
 ## The Book's Central Thesis
 
@@ -18,7 +18,7 @@ The book uses permaculture principles as a framework for an "empowering and chal
 
 A key argument of the book is that mainstream concepts of sustainability dodge the critical issue of global energy peak. The term "sustainable development," popularized in environmental discourse, often means maintaining current patterns of consumption through efficiency improvements and technological substitution. Holmgren contends this is fundamentally inadequate because it fails to address the thermodynamic reality that fossil fuels enabled a brief, extraordinary period of energy surplus that cannot be sustained by any combination of renewables.
 
-The question Holmgren poses is not how to sustain the present but whether there are "ways to live within nature's limits while providing a secure future for our children and justice for everyone." This reframing moves beyond sustainability (maintaining the status quo) toward resilience and adaptation (thriving through change).
+The question Holmgren poses is not how to sustain the present but whether there are "ways to live within nature"s limits while providing a secure future for our children and justice for everyone." This reframing moves beyond sustainability (maintaining the status quo) toward resilience and adaptation (thriving through change).
 
 ## Permaculture as Design Science
 
@@ -34,7 +34,7 @@ In three decades since its inception, permaculture became a global movement prov
 
 ## The Transition Movement Connection
 
-Rob Hopkins, co-founder of the Transition Movement, wrote the book's endorsement, calling it "the book which first suggested what a collective response to peak oil and climate change rooted in Permaculture design principles might look like in practice." Hopkins describes the experience of reading it as life-changing: "you will thereafter think of your life in two halves: before you read *Permaculture: Principles & Pathways* and after."
+Rob Hopkins, co-founder of the Transition Movement, wrote the book"s endorsement, calling it "the book which first suggested what a collective response to peak oil and climate change rooted in Permaculture design principles might look like in practice." Hopkins describes the experience of reading it as life-changing: "you will thereafter think of your life in two halves: before you read *Permaculture: Principles & Pathways* and after."
 
 This connection between permaculture principles and the Transition Towns movement illustrates how the book bridged permaculture's land-based design tradition with community-scale social and economic organizing. The Transition Movement adopted permaculture's emphasis on local resilience, bottom-up organizing, and creative adaptation to energy constraints.
 

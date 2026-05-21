@@ -26,7 +26,7 @@ type: concept
 - **Turnips**: Quick-growing; can be harvested at golf-ball size or left to mature. In regions with root maggot pressure (particularly Cascadia), growing can be nearly impossible without protection.
 
 ### Legumes
-- **Beans** (all types): All beans are low-demand crops. They fix atmospheric nitrogen through symbiotic soil bacteria in root nodules, but this nitrogen goes primarily into their own leaves and seeds, not into the soil for companion crops. Beans need substantial levels of calcium (lime) and phosphorus, plus the presence of nitrate-forming bacteria. The old farmer's adage applies: "Feed your phosphate to your clover, feed your clover to your corn (plow it in), and you can't go wrong."
+- **Beans** (all types): All beans are low-demand crops. They fix atmospheric nitrogen through symbiotic soil bacteria in root nodules, but this nitrogen goes primarily into their own leaves and seeds, not into the soil for companion crops. Beans need substantial levels of calcium (lime) and phosphorus, plus the presence of nitrate-forming bacteria. The old farmer"s adage applies: "Feed your phosphate to your clover, feed your clover to your corn (plow it in), and you can"t go wrong."
 - **Peas**: Like beans, peas are nitrogen-fixing legumes. They are frost-hardy and do not require thinning unless severely overcrowded. Direct-seeding in spring is straightforward.
 
 ### Other Low-Demand Crops

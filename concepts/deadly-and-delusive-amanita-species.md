@@ -6,7 +6,7 @@ type: concept
 
 ## Deadly and Delusive Amanita Species
 
-## Amanita Verna — Fool's Mushroom
+## Amanita Verna — Fool"s Mushroom
 
 | Feature | Description |
 |---------|-------------|
@@ -18,7 +18,7 @@ type: concept
 
 *Amanita verna* is closely allied to *A. phalloides* and often regarded as a variety or subspecies. It is equally poisonous and probably **more dangerous** because, being white, it is more readily mistaken for edible mushrooms. The specific epithet *verna* (spring) is misleading — it rarely appears in spring despite what the name suggests.
 
-J. Bauhin called it *Fungus stultorum* — "the fungus of fools" — presumably because in its young egg-like stage it was mistaken for *Amanita caesarea*, the prized Caesar's Mushroom of the Continent. The white colouration makes it particularly insidious: gatherers accustomed to the greenish tinge of *A. phalloides* may not recognize this all-white relative as equally deadly.
+J. Bauhin called it *Fungus stultorum* — "the fungus of fools" — presumably because in its young egg-like stage it was mistaken for *Amanita caesarea*, the prized Caesar"s Mushroom of the Continent. The white colouration makes it particularly insidious: gatherers accustomed to the greenish tinge of *A. phalloides* may not recognize this all-white relative as equally deadly.
 
 Distinguishing features from the Field Mushroom include the persistently white gills (the Field Mushroom's gills turn pink, then brown) and the membranous volva at the stem base — though this critical identifying feature may be left in the ground if the specimen is gathered carelessly.
 
@@ -69,7 +69,7 @@ The fancied resemblance of the volval patches on the cap to a map accounts for t
 
 ### Cultural Significance
 
-The Fly Agaric is one of the most recognizable fungi in the world, figuring in nursery pictures, table decorations, films (such as Disney's *Fantasia*), and children's toys. Its specific epithet *muscaria* refers to the observation by Albertus Magnus in the 13th century that the fungus, broken up in milk, kills flies. The method is still used in country districts on the Continent — in Poland and Czechoslovakia, sugar solution replaces milk. In Romania, the fungus is placed on window-sills to discourage flies. It was formerly employed in Britain and Sweden for getting rid of bugs, accounting for the alternative name "Bug Agaric."
+The Fly Agaric is one of the most recognizable fungi in the world, figuring in nursery pictures, table decorations, films (such as Disney"s *Fantasia*), and children's toys. Its specific epithet *muscaria* refers to the observation by Albertus Magnus in the 13th century that the fungus, broken up in milk, kills flies. The method is still used in country districts on the Continent — in Poland and Czechoslovakia, sugar solution replaces milk. In Romania, the fungus is placed on window-sills to discourage flies. It was formerly employed in Britain and Sweden for getting rid of bugs, accounting for the alternative name "Bug Agaric."
 
 Among the Koryak tribes of northeast Siberia, the fungus is eaten deliberately to produce a state of excessive emotion. The stimulant is eliminated by the kidneys, allowing the effects to be recycled — urine containing the active compounds is consumed to prolong the intoxication. According to Scandinavian tradition, Viking berserkers ate *Amanita muscaria* before battle. It also figures in homeopathy as *Agaricus* or *Aga*, formerly classified among the antipsorics.
 

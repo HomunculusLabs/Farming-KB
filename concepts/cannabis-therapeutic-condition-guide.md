@@ -21,7 +21,7 @@ sources:
 
 # Cannabis Therapeutic Condition Guide
 
-Detailed cannabinoid, terpene, delivery method, evidence, and dosing recommendations for specific conditions. Based on Blesching's Cannabis Health Index. For ECS overview, cannabinoid/terpene profiles, delivery method comparison, and dosing principles, see [[cannabis-health-therapeutics]].
+Detailed cannabinoid, terpene, delivery method, evidence, and dosing recommendations for specific conditions. Based on Blesching"s Cannabis Health Index. For ECS overview, cannabinoid/terpene profiles, delivery method comparison, and dosing principles, see [[cannabis-health-therapeutics]].
 
 ## Chronic Pain
 

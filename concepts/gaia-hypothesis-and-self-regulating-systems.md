@@ -12,7 +12,7 @@ The [[james-lovelock]], proposes that Earth behaves not as a material assembly b
 
 ## The Gaia Hypothesis
 
-Lovelock's Gaia hypothesis states that the biosphere created those conditions required for its support and systematically builds up the stock of materials it needs to move toward increasing complexity, diversity, and stability. Earth less and less appears to behave like a material assembly and more and more appears to act as a thought process. Even in the inanimate world, Mollison argues, we are dealing with a life force.
+Lovelock"s Gaia hypothesis states that the biosphere created those conditions required for its support and systematically builds up the stock of materials it needs to move toward increasing complexity, diversity, and stability. Earth less and less appears to behave like a material assembly and more and more appears to act as a thought process. Even in the inanimate world, Mollison argues, we are dealing with a life force.
 
 ### Key Implications
 

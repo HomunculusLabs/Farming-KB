@@ -42,7 +42,7 @@ building and maintaining a diverse soil ecosystem to supply plant nutrition, rat
 than feeding plants directly with water-soluble salt-based fertilizers. Rooted in the
 principles of soil ecology articulated by researchers such as Elaine Ingham and
 popularized in the cannabis community through growers like Subcool, this approach
-treats the container or raised bed as a functioning micro-ecosystem. The grower's
+treats the container or raised bed as a functioning micro-ecosystem. The grower"s
 role shifts from precision-feeding a plant to stewarding a community of bacteria,
 fungi, protozoa, nematodes, arthropods, and earthworms that collectively cycle
 organic matter into plant-available nutrients.

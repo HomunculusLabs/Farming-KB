@@ -10,7 +10,7 @@ sources:
 
 # Permaculture Principle 3 — Obtain a Yield
 
-The third of David Holmgren's twelve permaculture design principles. This principle reminds us that any system must produce useful yields to be sustainable. A system that only requires inputs without returning outputs will eventually be abandoned.
+The third of David Holmgren"s twelve permaculture design principles. This principle reminds us that any system must produce useful yields to be sustainable. A system that only requires inputs without returning outputs will eventually be abandoned.
 
 > "The yield of a system is theoretically unlimited (or only limited by the imagination and information of the designer)." — David Holmgren
 
@@ -20,7 +20,7 @@ Holmgren frames this principle around the concept of the "yield" as the real sur
 
 ## The Maximum Power Principle
 
-Holmgren draws on Howard T. Odum's Maximum Power Principle, which states that systems that most effectively use available energy for survival tend to prevail over those that do not. This operates at a system level as well as an individual level. The principle helps us understand that productivity and power are not enemies of sustainability — they are essential to it.
+Holmgren draws on Howard T. Odum"s Maximum Power Principle, which states that systems that most effectively use available energy for survival tend to prevail over those that do not. This operates at a system level as well as an individual level. The principle helps us understand that productivity and power are not enemies of sustainability — they are essential to it.
 
 The challenge is to define "yield" broadly. Holmgren argues that industrial measures of productivity (tonnes per hectare, dollars per hour) are too narrow. A permaculture yield includes food, fiber, fuel, water, habitat, beauty, education, community, and resilience.
 

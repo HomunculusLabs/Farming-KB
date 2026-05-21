@@ -1,5 +1,5 @@
 ---
-title: Krameterhof - comparison-sepp-holzer-vs-biodynamic's Model Farm
+title: Krameterhof - comparison-sepp-holzer-vs-biodynamic"s Model Farm
 created: 2026-04-18
 updated: 2026-04-18
 type: concept

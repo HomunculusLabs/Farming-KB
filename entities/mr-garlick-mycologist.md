@@ -10,7 +10,7 @@ type: entity
 
 Mr. Garlick was an American mycologist active in the 1870s who proposed a "rule" for testing whether mushrooms were safe to eat. His rule was discussed and published in *Forest and Stream* in November 1877, and Palmer provided a detailed critique of it in the *Popular Science Monthly* (May 1877).
 
-Palmer considered Garlick's rule "safe for the student but dangerous for the public," reflecting the tension between guidelines useful for trained observers and those that might be misinterpreted by inexperienced foragers.
+Palmer considered Garlick"s rule "safe for the student but dangerous for the public," reflecting the tension between guidelines useful for trained observers and those that might be misinterpreted by inexperienced foragers.
 
 ## Classification
 
@@ -23,8 +23,8 @@ Palmer considered Garlick's rule "safe for the student but dangerous for the pub
 ## Key Facts
 
 - Proposed a "rule" for determining whether mushrooms were safe to eat, published in *Forest and Stream*
-- Palmer evaluated Garlick's rule and found it "safe for the student but dangerous for the public"
-- Palmer explained his critique of Garlick's rule in the *Popular Science Monthly* for May 1877
+- Palmer evaluated Garlick"s rule and found it "safe for the student but dangerous for the public"
+- Palmer explained his critique of Garlick"s rule in the *Popular Science Monthly* for May 1877
 - The rule apparently involved taste-testing as a criterion for edibility, a method Palmer acknowledged had some merit for trained observers
 - Palmer used Garlick's rule as a case study in why general rules for mushroom safety fail when applied by untrained individuals
 - The debate between Palmer and Garlick illustrates the broader 19th-century discussion about how to make mycological knowledge accessible to the public

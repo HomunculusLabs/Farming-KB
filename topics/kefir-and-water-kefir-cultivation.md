@@ -10,7 +10,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "Hertzler, S.R. & Clancy, S.M. (2003). 'Kefir improves lactose digestion.' Journal of the American Dietetic Association, 103(5), 582-587."
+  - "Hertzler, S.R. & Clancy, S.M. (2003). "Kefir improves lactose digestion.' Journal of the American Dietetic Association, 103(5), 582-587."
 ---
 
 ## Kefir and Water Kefir Cultivation

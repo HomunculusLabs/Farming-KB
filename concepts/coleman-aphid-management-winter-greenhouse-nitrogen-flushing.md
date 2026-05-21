@@ -55,7 +55,7 @@ The nitrogen-flushing method works because it addresses the ecological relations
 
 > "The organic cultivator has evolved practices which will one day be recognized as far more scientific than those which at present pass under that name."
 
-Balfour's insight was that modern agricultural improvements have been "improvements to the pump — not to the well." They address symptoms rather than the underlying fertility and biological balance that determine plant health and [[fukuoka-pest-ecology]] leads to better solutions than reaching for sprays
+Balfour"s insight was that modern agricultural improvements have been "improvements to the pump — not to the well." They address symptoms rather than the underlying fertility and biological balance that determine plant health and [[fukuoka-pest-ecology]] leads to better solutions than reaching for sprays
 3. **Simple solutions often work best**: Weekly watering is simpler, cheaper, and more effective than any [[coleman-lady-eve-balfour-organic-farming-philosophy]]
 - [[coleman-mobile-greenhouse-mechanical-systems-skids-rails-runners-anchors]]
 - [[coleman-sunlight-geometry-winter-greenhouse-daylength]]

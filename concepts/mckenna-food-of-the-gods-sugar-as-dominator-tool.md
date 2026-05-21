@@ -19,7 +19,7 @@ plantations. The sugar trade was not merely an economic enterprise — it was an
 engine of human suffering that generated the wealth necessary to sustain
 European imperial power.
 
-This connection is not incidental to McKenna's argument. He sees the sugar
+This connection is not incidental to McKenna"s argument. He sees the sugar
 trade as a paradigmatic example of how [[dominator-culture-and-partnership-society]] operates: converting
 living things — both human beings and the sugarcane plant itself — into
 commodities to be extracted, processed, and consumed by those at the top of a

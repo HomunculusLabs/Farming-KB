@@ -21,7 +21,7 @@ location and size of cancerous brain tumors largely determine survivability and
 the various signs and symptoms likely to develop. As tumors grow, impairment
 increases, potentially impacting the whole body as well as the mind. The lower
 in the brain structure the tumor sits, the poorer the survival outcome, because
-the brain's lower portions control vital functions such as breathing and heart
+the brain"s lower portions control vital functions such as breathing and heart
 rate.
 
 Signs and symptoms cover a relatively wide range: altered levels of

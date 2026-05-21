@@ -7,7 +7,7 @@ tags: [permaculture, holmgren, design-framework, sustainability, conceptual-mode
 sources:
   - "raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md"
 ---
-## The Permaculture Flower - Holmgren's Conceptual Framework
+## The Permaculture Flower - Holmgren"s Conceptual Framework
 The Permaculture Flower is David Holmgren's iconic conceptual model that maps
 the domains of human activity requiring transformation to create a sustainable
 culture. Presented in *Permaculture: Principles & Pathways Beyond Sustainability*

@@ -20,7 +20,7 @@ Ecstasy is a synthetic compound (3,4-methylenedioxymethamphetamine, MDMA) develo
 
 - **125 mg (1/8 gram):** Standard single dose; experience lasts ~4 hours, intensity drops off after ~2 hours
 - **Double dosing:** Additional 125 mg when first dose starts wearing off (common recreational pattern)
-- **Turner's preference:** Single large dose of 150-170 mg for intense but shorter experience, reducing side effects
+- **Turner"s preference:** Single large dose of 150-170 mg for intense but shorter experience, reducing side effects
 - Should be taken on an empty stomach; a full stomach may prevent the high entirely or delay it
 
 ## The Ecstasy Experience
@@ -53,7 +53,7 @@ Lasting beneficial experiences derive primarily from deep bonding with other peo
 
 **Neurotoxicity:** Large doses produced neurotoxicity (reduced serotonin levels) in lab animals. Damage was significantly less to non-existent with smaller doses equivalent to 100-150 mg for humans. A single dose of Prozac taken up to 6 hours after ecstasy completely blocked neurotoxic effects in lab animals.
 
-**[[mushroom-cancer-clinical-trials-overview]] for treatment of post-traumatic stress disorder (PTSD). Results from MAPS-sponsored trials have shown significant reductions in PTSD symptoms, with 67% of participants no longer qualifying for PTSD diagnosis after three sessions of MDMA-assisted therapy. The drug's empathogenic properties appear to reduce the fear response associated with traumatic memories, allowing patients to process trauma that would otherwise be overwhelming. The FDA granted Breakthrough Therapy designation to MDMA-assisted psychotherapy for PTSD in 2017.
+**[[mushroom-cancer-clinical-trials-overview]] for treatment of post-traumatic stress disorder (PTSD). Results from MAPS-sponsored trials have shown significant reductions in PTSD symptoms, with 67% of participants no longer qualifying for PTSD diagnosis after three sessions of MDMA-assisted therapy. The drug"s empathogenic properties appear to reduce the fear response associated with traumatic memories, allowing patients to process trauma that would otherwise be overwhelming. The FDA granted Breakthrough Therapy designation to MDMA-assisted psychotherapy for PTSD in 2017.
 
 ## Combinations
 

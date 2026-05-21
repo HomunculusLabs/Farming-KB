@@ -17,12 +17,12 @@ that McKenna found profoundly suggestive.
 
 ## The Reassurance Dialogue
 
-Upon encountering these entities, they speak, saying: "Don't be alarmed. Remember,
+Upon encountering these entities, they speak, saying: "Don"t be alarmed. Remember,
 and do what we are doing." This reassurance is necessary because the experience
 inspires genuine fear in many experiencers. McKenna regarded this fear as a marker
 of [[mckenna-cognitive-dissonance-translinguistic-object]], a cognitive dissonance is set up in the hindbrain. The
 brain tries to pour language over the experience and it sheds it like water off a
-duck's back. One tries again and fails again, and this "wow" or "flutter" builds
+duck"s back. One tries again and fails again, and this "wow" or "flutter" builds
 off the object, causing wonder, astonishment, and awe at the brink of terror.
 
 One must control that. And the way to control it is to do what the entities are

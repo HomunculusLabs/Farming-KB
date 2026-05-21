@@ -24,7 +24,7 @@ tags: [species, genus, chenopodiaceae, salt-tolerant, halophyte, samphire, dryla
 
 *Salicornia* is one of the most salt-tolerant vascular plants known:
 
-- Survives in soils with **>0.4% sodium chloride** (Mollison's threshold for salt-tolerant plants)
+- Survives in soils with **>0.4% sodium chloride** (Mollison"s threshold for salt-tolerant plants)
 - Many species tolerate seawater salinity (33,000 ppm) and above
 - Succulent stems dilute internal salt concentrations through water storage
 - Vacuolar compartmentalization isolates toxic ions from metabolic processes

@@ -14,7 +14,7 @@ of the permaculture concept. The settlement demonstrates integrated permaculture
 design at the community scale, combining residential living with productive forest
 management, sustainable timber harvesting, and ecological restoration. The eco-village
 is situated within a native eucalypt forest dominated by Box species (Eucalyptus
-species), which forms the foundation of the property's productive and ecological
+species), which forms the foundation of the property"s productive and ecological
 systems.
 
 The project serves as a living demonstration of permaculture Principle 5 — "Use and

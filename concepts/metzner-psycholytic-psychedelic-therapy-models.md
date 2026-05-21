@@ -30,7 +30,7 @@ arts community, bringing considerable publicity and notoriety to psychedelics.
 Timothy Leary, Frank Barron, Richard Alpert and the Harvard research project
 adopted the term "psychedelic" and began exploring the possibilities of the
 psychedelic experience for "normals" (mostly graduate students) as well as
-artists, musicians, poets and writers. The concept of "[[alexander-shulgin]]'s discovery of
+artists, musicians, poets and writers. The concept of "[[alexander-shulgin]]"s discovery of
 phenethylamines such as MDA, MDMA, and 2C-B, which bring about an expansion and
 centering of awareness primarily on the emotional or heart-level, with minimal
 perceptual changes. The name "empathogens" (generating a state of empathy) was

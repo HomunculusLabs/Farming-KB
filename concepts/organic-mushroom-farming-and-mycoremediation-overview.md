@@ -6,7 +6,7 @@ type: concept
 
 ## Organic Mushroom Farming and Mycoremediation: Overview and Philosophy
 
-[[tradd-cotter]]'s *Organic Mushroom Farming and Mycoremediation* (2014, [[chelsea-green-publishing]]) is a comprehensive guide covering indoor and [[outdoor-mushroom-cultivation]] from simple to advanced techniques, with emphasis on organic methods, ecological integration, and [[mycoremediation-applications]].
+[[tradd-cotter]]"s *Organic Mushroom Farming and Mycoremediation* (2014, [[chelsea-green-publishing]]) is a comprehensive guide covering indoor and [[outdoor-mushroom-cultivation]] from simple to advanced techniques, with emphasis on organic methods, ecological integration, and [[mycoremediation-applications]].
 
 ## Author's Journey
 
@@ -24,7 +24,7 @@ Tradd Cotter's introduction to mushrooms came unexpectedly during a visit to a s
 - Passive energy or seasonal production to minimize energy use
 
 ### Holistic Approach
-"Rather than simply focusing on yield as an end goal, I've strived for a more holistic approach, one that pays careful attention to the [[mushroom-life-cycle]], to ecology, to fungi's relationships with the other kingdoms of life."
+"Rather than simply focusing on yield as an end goal, I"ve strived for a more holistic approach, one that pays careful attention to the [[mushroom-life-cycle]], to ecology, to fungi's relationships with the other kingdoms of life."
 
 ### Intuition Development
 "Part skill, part art, part intuition, mushroom cultivation will give you a lifelong relationship with this incredible kingdom of life."
@@ -38,7 +38,7 @@ Tradd Cotter's introduction to mushrooms came unexpectedly during a visit to a s
 - Making nutrients available for other organisms (bacteria, plants)
 
 ### Specialization vs. Generalization
-**Maitake ([[grifola-frondosa]])**: Can break down only very particular types of wood — mostly oak, and certain species/densities. This limits cultivation if those resources aren't locally available.
+**Maitake ([[grifola-frondosa]])**: Can break down only very particular types of wood — mostly oak, and certain species/densities. This limits cultivation if those resources aren"t locally available.
 
 ### Brown Rot vs. White Rot Fungi
 
@@ -50,7 +50,7 @@ Tradd Cotter's introduction to mushrooms came unexpectedly during a visit to a s
 "[[white-rot-fungi]] make excellent candidates for biobleaching and for breaking down very complex man-made molecules in a process called mycoremediation."
 
 ### Strain Senescence Warning
-"If you get to the point of expanding spawn, you'll want to adjust the fruiting formulas slightly every now and then." Consistent overuse of the same substrate causes strain weakening as fungi "overproduce and overuse a particular combination of enzymes."
+"If you get to the point of expanding spawn, you"ll want to adjust the fruiting formulas slightly every now and then." Consistent overuse of the same substrate causes strain weakening as fungi "overproduce and overuse a particular combination of enzymes."
 
 "How would you like it if I fed you nothing but oatmeal for a few years?" — reducing microflora to a monoculture-type ecosystem.
 
@@ -74,7 +74,7 @@ Spores are produced through meiosis — each carries only **half the genetic inf
 
 ## Mushroom Rescue Modules
 
-Cotter's work includes creating mushroom rescue modules for:
+Cotter"s work includes creating mushroom rescue modules for:
 - Regions struggling with poverty
 - Areas devastated by natural disaster
 - "Shattered habitats and cultures struggle to recover"

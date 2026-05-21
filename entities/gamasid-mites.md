@@ -38,7 +38,7 @@ Thousands of gamasid mite species have been described, with the order Mesostigma
 Gamasid mites are primarily predators, employing a feeding strategy that Lowenfels and Lewis describe as reminiscent of spiders:
 
 - **Enzyme injection** — they inject their victims with digestive enzymes that dissolve internal tissues
-- **Liquid feeding** — after the enzymes liquefy the prey's innards, gamasid mites suck out the resulting nutrient-rich fluid
+- **Liquid feeding** — after the enzymes liquefy the prey"s innards, gamasid mites suck out the resulting nutrient-rich fluid
 - **Prey range** — collembolans (springtails), insect larvae, insect eggs, nematodes, and fungi (for soil-dwelling species)
 - Some species also feed on fungi and decaying organic matter, exhibiting omnivorous tendencies
 

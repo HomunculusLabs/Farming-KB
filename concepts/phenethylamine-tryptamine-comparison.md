@@ -11,7 +11,7 @@ sources: [raw/papers/shulgin-a-pihkal.md]
 
 ## Overview
 
-Shulgin documented his exploration of two major families of psychedelic compounds: phenethylamines (in PIHKAL) and tryptamines (in TIHKAL — Tryptamines I Have Known and Loved). Understanding the differences and similarities between these families is essential to appreciating Shulgin's contribution to psychopharmacology.
+Shulgin documented his exploration of two major families of psychedelic compounds: phenethylamines (in PIHKAL) and tryptamines (in TIHKAL — Tryptamines I Have Known and Loved). Understanding the differences and similarities between these families is essential to appreciating Shulgin"s contribution to psychopharmacology.
 
 ## Structural Comparison
 

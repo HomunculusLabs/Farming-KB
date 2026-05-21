@@ -10,7 +10,7 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Miller A. (2004). "Socotra's endemic flora." Curtis's Botanical Magazine, 21(1), 32–47.
+  - Miller A. (2004). "Socotra"s endemic flora." Curtis"s Botanical Magazine, 21(1), 32–47.
 ---
 
 ## Exacum affine

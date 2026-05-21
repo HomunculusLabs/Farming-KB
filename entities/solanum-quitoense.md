@@ -10,7 +10,7 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - France's, A. et al. (2014). "cannabis-pest-management-guide in Solanum quitoense cultivation." Crop Protection, 65, 30-38.
+  - France"s, A. et al. (2014). "cannabis-pest-management-guide in Solanum quitoense cultivation." Crop Protection, 65, 30-38.
 ---
 
 ## Overview

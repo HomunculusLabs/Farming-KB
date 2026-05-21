@@ -13,7 +13,7 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - S.T. Oner, The Rev's cannabis-african-indian-strain-descriptions-clarke
+  - S.T. Oner, The Rev"s cannabis-african-indian-strain-descriptions-clarke
 ---
 
 ## Kali Mist

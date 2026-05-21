@@ -1,6 +1,6 @@
 ---
 title: "Bloomfield Ingold Spore Discharge Ballistics"
-source: Mr. Bloomfield's Orchard - Nicholas P. Money
+source: Mr. Bloomfield"s Orchard - Nicholas P. Money
 tags: [mycology, fungi, bloomfield, spore-discharge, ballistospore, bullers-drop, ingold, basidiomycota, ascomycota, fungal-biomechanics]
 created: 2026-05-11
 ---
@@ -16,7 +16,7 @@ C. [[bloomfield-mushroom-evaporative-cooling-and-thermal-regulation]] promotes
 the buildup of water on the spore surface by slowing the movement of water
 molecules, encouraging them to occupy a condensed liquid state rather than
 remaining as vapor. If the mushroom warmed, even slightly, water would
-evaporate from the spore surface, Buller's drops would never expand, and the
+evaporate from the spore surface, Buller"s drops would never expand, and the
 spores would remain trapped on the gills. The spore surface is sugary and
 hygroscopic—comparable, Money suggests, to a cube of bath-salts in a steamy
 bathroom. This counterintuitive finding—that the coldest organisms on the

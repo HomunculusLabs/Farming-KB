@@ -10,7 +10,7 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Zheng, Q. et al. (2013). "chemical-studies-neurotropic-fungi-reliability-and-challenges on the Chinese crude drug 'Zhi-zi'." Chemical & Pharmaceutical Bulletin, 29(10), 2881-2886.
+  - Zheng, Q. et al. (2013). "chemical-studies-neurotropic-fungi-reliability-and-challenges on the Chinese crude drug "Zhi-zi'." Chemical & Pharmaceutical Bulletin, 29(10), 2881-2886.
 ---
 
 ## Overview

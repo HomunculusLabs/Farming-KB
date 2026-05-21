@@ -5,7 +5,6 @@ tags: [mycology, cultivation, fungi, substrate]
 date: 2026-04-28
 updated: 2026-04-28
 sources: ["raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md"] type: concept ---
----
 ## Mushroom Growing Substrates
 
 A substrate is the material on which [[bloomfield-asterophora-and-mycoparasites-of-fruiting-bodies]]. Selecting and preparing the right

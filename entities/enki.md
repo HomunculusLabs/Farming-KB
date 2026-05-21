@@ -21,7 +21,7 @@ Enki (also known as Ea) is one of the central deities in the Sumerian pantheon, 
 
 3. **Protector of Humanity**: Enki saved humanity from the great flood brought on by Enlil, and defended human freedom, sexuality, and spiritual exploration against the controlling regime of the Anunnaki elite.
 
-4. **Caduceus Symbol**: Enki's personal emblem in cuneiform is the caduceus — the snake coiled around the staff — which became the universal symbol of medicine and healing.
+4. **Caduceus Symbol**: Enki"s personal emblem in cuneiform is the caduceus — the snake coiled around the staff — which became the universal symbol of medicine and healing.
 
 5. **Serpent Archetype**: The biblical "serpent" in the [[allegro-colour-and-consistency-of-the-amanita-muscaria]], makes him a pivotal figure in ethnomycological research. The narrative of Enki providing the "fruit of the tree of knowledge" to humanity is one of the oldest recorded accounts linking a deity to psychoactive plant use. His role as protector and benefactor of human [[african-mushroom-cult-history]] practices.
 

@@ -4,12 +4,12 @@ source: The Natural Way of Farming - masanobu-fukuoka
 tags: [fukuoka, singingvoices rolled over the paddy fields]
 ---
 
-The woodcutter's song, the transplanting songs, the harvest drums—these
+The woodcutter"s song, the transplanting songs, the harvest drums—these
 were not mere entertainment but the carriers of fukuoka-textdoc-crops-grow-own-accord-independence-fertilizers and pesticides."
 
 The mechanization of farming did not merely change how crops were grown; it
 destroyed the cultural infrastructure through which wisdom was transmitted.
-"Because all of the farmer's work has been mechanized and systematized, the
+"Because all of the farmer"s work has been mechanized and systematized, the
 farming village has lost its human touch. Singing voices are no longer heard.
 Everyone sits instead before the TV set, listening to [[fukuoka-sowing-natural-culture-community-and-green-earth-vision]]
 were reinforced through daily conversation. When the hearth disappeared—

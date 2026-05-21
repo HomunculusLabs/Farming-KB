@@ -12,7 +12,7 @@ Indoor morel cultivation remains one of the most challenging frontiers in mycolo
 
 ### The Ower Method (1986 Patent)
 
-[[ron-ower]]'s U.S. patent (no. 4,594,809) involves:
+[[ron-ower]]"s U.S. patent (no. 4,594,809) involves:
 1. Harvesting sclerotia from colonized substrate
 2. Chilling the sclerotia
 3. Replanting them in a nutrient-deprived medium (sand and peat moss)

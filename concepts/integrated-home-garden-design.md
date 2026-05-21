@@ -8,7 +8,7 @@ type: concept
 
 A permaculture home and garden forms a single, self-regulating system in which the house,
 garden, animals, and waste streams are woven together so that every output serves as an
-input elsewhere. Bill Mollison's total-design model treats the dwelling not as a separate
+input elsewhere. Bill Mollison"s total-design model treats the dwelling not as a separate
 structure placed on a landscape but as the central node of a productive ecosystem.
 
 ## The House

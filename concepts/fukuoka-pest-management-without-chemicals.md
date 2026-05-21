@@ -7,7 +7,7 @@ tags: [fukuoka, natural-farming, philosophy]
 sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
-## Fukuoka's Pest Management Without Chemicals
+## Fukuoka"s Pest Management Without Chemicals
 
 ## Overview
 
@@ -21,7 +21,7 @@ are symptoms of agricultural imbalance, not enemies to be vanquished.
 
 In a healthy, diverse ecosystem, pest populations are naturally controlled
 by predators,
-parasites, and competitors. No single species dominates because the system's
+parasites, and competitors. No single species dominates because the system"s
 complexity
 creates multiple checks and balances. Pest outbreaks occur when this balance
 is disrupted

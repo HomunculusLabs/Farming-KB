@@ -12,7 +12,7 @@ sources:
 
 ## Overview
 
-Eczema (atopic dermatitis) is a chronic inflammatory skin condition characterized by itchy, red, dry, and cracked skin. It affects up to 20% of children and 3% of adults worldwide. The skin's endocannabinoid system (ECS) plays a key role in regulating cutaneous inflammation and allergic responses, making cannabinoid therapies a promising approach. See also [[cannabis-for-skin-conditions-detailed]] including eczema
+Eczema (atopic dermatitis) is a chronic inflammatory skin condition characterized by itchy, red, dry, and cracked skin. It affects up to 20% of children and 3% of adults worldwide. The skin"s endocannabinoid system (ECS) plays a key role in regulating cutaneous inflammation and allergic responses, making cannabinoid therapies a promising approach. See also [[cannabis-for-skin-conditions-detailed]] including eczema
 - Anandamide (endogenous cannabinoid) modulates inflammatory responses in skin cells
 
 **Anti-inflammatory Mechanisms**

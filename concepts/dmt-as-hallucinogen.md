@@ -15,7 +15,7 @@ occurs endogenously in the human brain and throughout the natural world. It is
 one of the most potent known hallucinogens, producing extraordinary [[serotonin-psilocybin-structural-relationship-hallucinogenic-mechanism]] between DMT and serotonin means that the brain
 is "absolutely at home with this compound," as McKenna put it. The extraordinarily
 rapid onset of DMT effects — approximately 15 seconds when smoked — and the
-brief duration of action (approximately 5 minutes) reflect the brain's native
+brief duration of action (approximately 5 minutes) reflect the brain"s native
 familiarity with the molecule. This contrasts sharply with LSD, which is retained
 in the body for a much longer period.
 
@@ -53,7 +53,7 @@ DMT can be administered through several routes, each producing different effects
 
 McKenna proposed that the presence of fear in the DMT experience is not a
 defect but a mark of authenticity. "A touch of terror gives the stamp of
-validity to the experience because it means 'This is real.'" He argued that
+validity to the experience because it means "This is real.'" He argued that
 if one is not terrified, one is either a fool or has taken a compound that
 paralyzes the ability to be terrified. The experience must deal with the
 issues of life and death to be meaningful — it must move one to fear, tears,

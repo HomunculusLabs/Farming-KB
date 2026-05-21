@@ -69,7 +69,7 @@ There is likely no shortage of any mineral or element anywhere on Earth, because
 
 ### Water Content of Forests
 
-Eighty-six percent of a forest's mass is water. Ninety-six percent of its leaves and twigs are water. This represents an enormous weight on the Earth — effectively, the forest is a collection of vertical water tanks. The implications of this mass are profound:
+Eighty-six percent of a forest"s mass is water. Ninety-six percent of its leaves and twigs are water. This represents an enormous weight on the Earth — effectively, the forest is a collection of vertical water tanks. The implications of this mass are profound:
 
 - **Geological effects**: Loading and unloading the crust of the Earth through forest removal can cause Earth movements, similar to how modest dams cause local earthquakes
 - **Branch failure**: On still, misty nights when trees cannot transpire, the enormous weight of leaf water can smash branches down without warning
@@ -125,7 +125,7 @@ The quality of air moving through forests changes markedly:
 
 ## Root Systems and Soil
 
-At least 40% of a tree's mass is below the surface. Foresters' estimates of forest weight typically account for wood volume but neglect roots, which are:
+At least 40% of a tree"s mass is below the surface. Foresters' estimates of forest weight typically account for wood volume but neglect roots, which are:
 - **Enormous storage organs**: Busy performing many soil functions
 - **Dynamic**: Roots throw masses toward the surface and pull them back, while sending others deeper; they live and die within the soil, leaving channels and pathways
 - **Rock-breakers**: Tree roots break down primary rock material
@@ -137,7 +137,7 @@ Mollison stated with certainty:
 
 > "By the removal of ridge forests alone, we can produce deserts in any climate. By the removal of forests alone, we can remove soils."
 
-> "I am certain that the removal of the forest has been the main cause of the collapse of nations. Because when the forests go, they just haven't the water, the soil, or the climate quality to sustain human life thereafter."
+> "I am certain that the removal of the forest has been the main cause of the collapse of nations. Because when the forests go, they just haven"t the water, the soil, or the climate quality to sustain human life thereafter."
 
 These statements reflect the integrated understanding that forests govern water, soil, climate, and atmosphere in ways that are interconnected and self-reinforcing. Removing forests sets in motion cascading failures across all these systems simultaneously. The lesson is not how to live without forests, but how to live with them.
 

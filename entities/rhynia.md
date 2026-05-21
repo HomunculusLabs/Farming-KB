@@ -38,7 +38,7 @@ The genus is known exclusively from the Rhynie Chert, a remarkably preserved hot
 
 - Rhynia provides the earliest direct fossil evidence for the co-evolution of plants and fungi, supporting the hypothesis that [[mycorrhizal-symbiosis]] was essential for plant colonization of land.
 - The Pirozynski-Malloch hypothesis (1975) posits that the fungal partner may have been essential for nutrient uptake by the plant in the nutrient-poor terrestrial environment of the Early Devonian.
-- The simplicity of Rhynia's anatomy — no true roots or leaves — makes it an ideal model for studying how fungal associations may have compensated for the plant's limited capacity for resource acquisition.
+- The simplicity of Rhynia"s anatomy — no true roots or leaves — makes it an ideal model for studying how fungal associations may have compensated for the plant's limited capacity for resource acquisition.
 - The Rhynie Chert fungi are among the oldest fossil fungi known, predating most other fungal fossils by millions of years.
 - The association suggests that the evolution of land plants and terrestrial fungi was deeply intertwined from the very beginning, not a case of plants colonizing land first and fungi following.
 

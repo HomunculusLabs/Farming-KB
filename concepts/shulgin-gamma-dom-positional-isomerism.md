@@ -44,7 +44,7 @@ The 2,5-dimethoxy configuration appears to be optimal for 5-HT2A [[scythian-cann
 
 The nitrostyrene was reduced with lithium aluminum hydride (LAH) in refluxing tetrahydrofuran (THF) under helium atmosphere for 48 hours — a notably longer reaction time than the standard 4-hour LAH reduction used for other compounds. This extended reduction time may reflect the steric hindrance imposed by the 2,6-dimethoxy arrangement, which places both methoxyl groups adjacent to the propene chain.
 
-After workup and purification, the product was obtained as 2,6-dimethoxy-4-methylamphetamine hydrochloride with a sharp melting point of 203°C — notably higher than DOM's 190.5-191.5°C, suggesting a different crystal packing arrangement due to the altered substitution pattern.
+After workup and purification, the product was obtained as 2,6-dimethoxy-4-methylamphetamine hydrochloride with a sharp melting point of 203°C — notably higher than DOM"s 190.5-191.5°C, suggesting a different crystal packing arrangement due to the altered substitution pattern.
 
 ## Qualitative Effects
 
@@ -58,7 +58,7 @@ Effects included lightheadedness, a "starry-eyed stoned state," no [[lsd-dark-ex
 
 ### At 25 mg
 
-The subject reached a +++ for approximately three hours, describing it as "a very weird place." Visual phenomena were present but disproportionately mild compared to the overall degree of intoxication. The erotic component and music appreciation did not integrate well — described as things that "don't knit." The subject offered a vivid metaphor: "as if you were going down some totally unknown street in a completely familiar city. You know the territory, but yet it is strangely all new."
+The subject reached a +++ for approximately three hours, describing it as "a very weird place." Visual phenomena were present but disproportionately mild compared to the overall degree of intoxication. The erotic component and music appreciation did not integrate well — described as things that "don"t knit." The subject offered a vivid metaphor: "as if you were going down some totally unknown street in a completely familiar city. You know the territory, but yet it is strangely all new."
 
 Closed-eye fantasy and shaped imagery were described as "quite remarkable." However, physical side effects were significant: heart arrhythmias and persistent diarrhea. Sleep quality was good with pleasant dreams.
 

@@ -48,7 +48,7 @@ and [[conventional-vs-organic-vs-regenerative]] for paradigm comparisons.
   maintains soil fertility.
   Animals graze on fallow land, returning manure.
 
-- **1701 — Jethro Tull's seed drill:**
+- **1701 — Jethro Tull"s seed drill:**
   Enables more precise sowing; crop rotation experiments by Lord Townshend
   introduce turnips and clover as fodder crops, reducing fallow periods.
 
@@ -65,7 +65,7 @@ and [[conventional-vs-organic-vs-regenerative]] for paradigm comparisons.
   John Bennet Lawes patents superphosphate by treating phosphate rock
   with sulfuric acid.
   Lawes founds Rothamsted Experimental Station (1843),
-  the world's oldest agricultural research station.
+  the world"s oldest agricultural research station.
 
 - **Late 1800s — Guano and nitrate mining:**
   Intensive mining of Peruvian guano and Chilean nitrate deposits
@@ -105,7 +105,7 @@ and [[conventional-vs-organic-vs-regenerative]] for paradigm comparisons.
   The "Law of Return" — returning all organic wastes to soil —
   becomes foundational.
 
-- **1940 — Lady Eve Balfour's The Living Soil:**
+- **1940 — Lady Eve Balfour"s The Living Soil:**
   Balfour publishes The Living Soil, presenting scientific evidence
   for the benefits of organic farming over chemical methods.
   Establishes the Haughley Experiment (1939-1969),
@@ -133,7 +133,7 @@ and [[conventional-vs-organic-vs-regenerative]] for paradigm comparisons.
   See [[natural-farming-fukuoka]] and [[one-straw-revolution-guide]].
 
 - **1975 — The One-Straw Revolution:**
-  Fukuoka's seminal work published, translated into 25+ languages.
+  Fukuoka"s seminal work published, translated into 25+ languages.
   Influences [[bill-mollison]] and [[david-holmgren]] in developing permaculture.
 
 - **1960s-1980s — Korean Natural Farming (KNF) develops:**

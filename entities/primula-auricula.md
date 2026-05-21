@@ -16,7 +16,7 @@ sources:
 
 ## Overview
 
-**Primula auricula**, commonly known as the bear's ear auricula, is a perennial flowering plant in the family Primulaceae. It is native to the European Alps, Jura Mountains, Carpathians, and Apennines, where it grows on limestone cliffs at elevations of 300 to 2,500 meters.
+**Primula auricula**, commonly known as the bear"s ear auricula, is a perennial flowering plant in the family Primulaceae. It is native to the European Alps, Jura Mountains, Carpathians, and Apennines, where it grows on limestone cliffs at elevations of 300 to 2,500 meters.
 
 The species has been cultivated since the mid-16th century and is the progenitor of show auriculas, a celebrated group of florist's flowers with a dedicated horticultural tradition. Hundreds of cultivars exist, prized for their farina-coated foliage and bicolored petals.
 
@@ -52,7 +52,7 @@ Dried leaves and roots of **Primula auricula** have a history in European folk m
 
 The farina on leaves was collected and applied externally as a drying agent for minor skin wounds. This practice was documented in Tyrolean and Swiss folk pharmacopoeias of the 18th and 19th centuries.
 
-In 17th-century England, auriculas became a status symbol among the middle class. Florists' societies organized competitive shows, and dedicated auricula theaters were built to showcase prized collections.
+In 17th-century England, auriculas became a status symbol among the middle class. Florists" societies organized competitive shows, and dedicated auricula theaters were built to showcase prized collections.
 
 The plant appears in Dutch Golden Age still-life paintings and was referenced by writers including Jane Austen in her correspondence. The "auricula mania" of the early 19th century established an enthusiast community that continues today.
 

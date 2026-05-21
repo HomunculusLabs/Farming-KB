@@ -43,7 +43,7 @@ competitor organisms equally.
 
 ## Primary Substrate Materials
 
-Hardwood sawdust is the backbone of commercial shiitake, oyster, lion's mane, and
+Hardwood sawdust is the backbone of commercial shiitake, oyster, lion"s mane, and
 reishi cultivation. Oak, maple, beech, and alder are excellent choices. Softwoods
 like pine and cedar contain resins [[terpenes-and-phenolic-compounds-soil]] inhibitory to most
 cultivated species. Sawdust should come from recently cut trees and be stored dry.

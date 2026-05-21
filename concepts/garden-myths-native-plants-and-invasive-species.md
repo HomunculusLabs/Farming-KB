@@ -17,7 +17,7 @@ The claim that native plants require less maintenance, water, and pest managemen
 - **Some native plants are difficult**: Many native plants have specific germination requirements (stratification, scarification, smoke treatment), narrow soil preferences, or sensitivity to competition that makes them more challenging than commonly available ornamentals
 - **"Low maintenance" does not mean "no maintenance"**: Native meadows, rain gardens, and prairie plantings require significant maintenance during establishment and ongoing management to prevent succession to shrubland and forest
 ### The Balanced View
-Native plants are an excellent choice for many garden situations and provide critical ecological services (pollinator support, wildlife habitat, regional character). However, plant selection should be based on matching the plant's requirements to the site conditions, not solely on nativity. A well-adapted non-native plant in the right conditions will outperform a poorly matched native plant every time.
+Native plants are an excellent choice for many garden situations and provide critical ecological services (pollinator support, wildlife habitat, regional character). However, plant selection should be based on matching the plant"s requirements to the site conditions, not solely on nativity. A well-adapted non-native plant in the right conditions will outperform a poorly matched native plant every time.
 ### See Also
 - hemenway-nurse-plants-and-chaperone-species
 - [[query-how-to-manage-pests-and-diseases-in-mushroom-cultivation]]

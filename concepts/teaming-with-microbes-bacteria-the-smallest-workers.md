@@ -10,7 +10,7 @@ sources:
 
 ## Bacteria — The Smallest Workers
 
-Bacteria are the most numerous organisms in soil and among the earth's primary decomposers, second only to [[teaming-with-microbes-overview]] (genus Streptomyces) produce enzymes that include volatile chemicals giving soil its clean, fresh, earthy aroma — the smell of "good soil" that every gardener recognizes.
+Bacteria are the most numerous organisms in soil and among the earth"s primary decomposers, second only to [[teaming-with-microbes-overview]] (genus Streptomyces) produce enzymes that include volatile chemicals giving soil its clean, fresh, earthy aroma — the smell of "good soil" that every gardener recognizes.
 
 Actinomycetes are different from other soil bacteria: they actually grow filaments almost like fungal hyphae. Scientists believe Streptomyces species use their branching filaments to connect soil particles, making them too big for their natural predators (protozoan ciliates) to engulf. Actinomycetes are particularly adept at decaying cellulose and chitin — two difficult-to-digest carbon compounds found in plant cell walls and fungal cell walls respectively. They are adapted to live in a wider pH range than other bacteria, from acidic to alkaline.
 

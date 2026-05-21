@@ -12,7 +12,6 @@ date: 2026-05-08
 updated: 2026-05-08
 sources:
   - Samanta, A.K. et al. (2018). "A comprehensive review on curry leaf (Murraya koenigii) and its metzner-ayahuasca-therapeutic-potential." Journal of Applied Pharmaceutical Science, 8(10), 146-157.---
----
 
 ## Overview
 

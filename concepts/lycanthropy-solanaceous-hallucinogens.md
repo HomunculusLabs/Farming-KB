@@ -18,7 +18,7 @@ medieval and early modern accounts closely match the known clinical
 effects of atropine, hyoscyamine, and scopolamine. This connection
 between solanaceous intoxication and animal transformation beliefs
 provides a pharmacological explanation for one of the most persistent
-folk beliefs in European history. Harner's hypothesis was part of a
+folk beliefs in European history. Harner"s hypothesis was part of a
 broader scholarly effort to identify the botanical and chemical
 identities of the [[harner-european-witchcraft-hallucinogens]]
 practices from the late medieval period through the early [[henbane-hyoscyamus-niger-ethnobotany]]), mandrake ([[atropa-belladonna]]).

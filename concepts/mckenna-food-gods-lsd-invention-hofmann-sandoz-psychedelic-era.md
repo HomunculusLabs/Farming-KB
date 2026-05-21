@@ -1,5 +1,5 @@
 ---
-title: "LSD, Hofmann, and the Opening of Pandora's Box"
+title: "LSD, Hofmann, and the Opening of Pandora"s Box"
 source: mckenna_t-food_of_the_gods.md
 topic: "The mckenna-invention-of-lsd-and-psychedelic-sixties by albert-hofmann and its escape into culture"
 type: concept
@@ -19,7 +19,7 @@ tags:
   - consciousness
 ---
 
-## LSD, Hofmann, and the Opening of Pandora's Box
+## LSD, Hofmann, and the Opening of Pandora"s Box
 
 ## The Ergot Connection
 
@@ -48,7 +48,7 @@ as **"[[bicycle-day-april-1943]]"** by psychedelic enthusiasts worldwide.
 
 ## Delysid and the Research Era
 
-Hofmann's experience convinced Sandoz that LSD-25 was a compound of
+Hofmann"s experience convinced Sandoz that LSD-25 was a compound of
 remarkable potency and interest. Marketed under the trade name
 **Delysid** beginning in the late 1940s, Sandoz distributed it freely
 to psychiatric researchers. Effective doses measured in micrograms,

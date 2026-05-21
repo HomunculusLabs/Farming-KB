@@ -29,7 +29,7 @@ Chicory grows from sea level to 2,000 meters elevation. It is a common constitue
 
 **Leaf production:** Non-forcing cultivars are grown as [[cut-and-come-again]] salad greens. Successional sowing every 2–3 weeks provides continuous harvest from spring through autumn. Leaves become increasingly bitter with maturity and heat.
 
-**Forage:** Chicory is included in pasture mixes for its high digestibility (70–80% DMD), mineral content, and drought resilience. Persistent varieties like 'Puna' and 'Grasslands Choice' maintain productivity for 4–7 years under [[solanaceous-hallucinogens-of-medieval-european-witchcraft]] traditions. Dioscorides prescribed it for liver ailments, digestive complaints, and as a diuretic. European folk medicine employed chicory root tea as a remedy for jaundice, gout, and rheumatism.
+**Forage:** Chicory is included in pasture mixes for its high digestibility (70–80% DMD), mineral content, and drought resilience. Persistent varieties like "Puna' and 'Grasslands Choice' maintain productivity for 4–7 years under [[solanaceous-hallucinogens-of-medieval-european-witchcraft]] traditions. Dioscorides prescribed it for liver ailments, digestive complaints, and as a diuretic. European folk medicine employed chicory root tea as a remedy for jaundice, gout, and rheumatism.
 
 Modern research supports several traditional applications. Inulin supplementation from chicory root improves bowel regularity, increases mineral absorption (particularly calcium), and modulates lipid metabolism in [[dmt-containing-plants-united-states-halpern]].
 

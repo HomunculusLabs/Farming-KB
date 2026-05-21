@@ -7,7 +7,6 @@ updated: 2026-04-28
 sources:
   - "Shepherd J (2015) — Restoration Agriculture"
 type: query---
----
 
 ## What Is Ecological Succession and How Can Farmers Use It?
 

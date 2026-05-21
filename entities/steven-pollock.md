@@ -20,7 +20,7 @@ As a physician, Pollock brought a clinical perspective to mycology that was rela
 
 ### Psilocybe tampanensis
 
-Pollock's most notable contribution was the co-discovery of *Psilocybe tampanensis*, found during a mushroom hunt near Tampa, Florida during a taxonomic conference. The species is notable for being one of the few psilocybin mushrooms known to produce sclerotia (truffle-like underground masses), which have become significant in cultivation. The species was named after its type locality near Tampa and formally described by Guzmán & Pollock.
+Pollock"s most notable contribution was the co-discovery of *Psilocybe tampanensis*, found during a mushroom hunt near Tampa, Florida during a taxonomic conference. The species is notable for being one of the few psilocybin mushrooms known to produce sclerotia (truffle-like underground masses), which have become significant in cultivation. The species was named after its type locality near Tampa and formally described by Guzmán & Pollock.
 
 *P. tampanensis* sclerotia form after three to twelve weeks, preferably in the dark, on a substrate of rye grass seeds. All known strains of the species originate from the single original collection — it has never been found in the wild again since Pollock's initial discovery. See [[sclerotia-cultivation]] for cultivation methods.
 

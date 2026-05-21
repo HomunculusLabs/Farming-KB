@@ -26,7 +26,7 @@ The most well-documented ethnic groups using neurotropic fungi reside in
 the subtropical humid forests of Mexico. Key groups include:
 
 **Mazatec** (Oaxaca): Perhaps the most famous practitioners. María
-Sabina, a Mazatec curandera, became internationally known after Wasson's
+Sabina, a Mazatec curandera, became internationally known after Wasson"s
 participation in a velada (night ceremony) in 1955. The Mazatec use
 *[[lycoperdon-mixtecorum]]* and
 *L. marginatum* (now classified as *Vascellum qudenii* and *L.

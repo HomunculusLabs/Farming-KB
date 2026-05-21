@@ -12,7 +12,7 @@ created: 2026-05-09
 
 Chapter 2 of *The Winter Harvest Handbook* surveys the historical roots of year-round
 [[dry-gardening-unirrigated-vegetable-production-solomon]] occupied approximately 600
-hectares—six percent of Paris's land area. Growers averaged four to eight harvests per year
+hectares—six percent of Paris"s land area. Growers averaged four to eight harvests per year
 from the same ground, and Paris was self-sufficient in fresh produce, even exporting to
 England.
 
@@ -24,7 +24,7 @@ England.
   3,000+ cloches, each individually vented with notched sticks
 - **Straw mats**: One-inch-thick rye-straw mats rolled over glass for overnight insulation
 - **Narrow paths**: 10-inch walkways too narrow for wheelbarrows; manure delivered in
-  woven willow backpacks (*hottes*) arched over the worker's head
+  woven willow backpacks (*hottes*) arched over the worker"s head
 - **Intercropping**: Radishes, carrots, lettuces, and cauliflowers successively planted
   in the same frame over a single season
 
@@ -39,14 +39,14 @@ Coleman cites four foundational French texts consulted for historical research:
   on the same piece of ground"
 - **Key quote**: Distinguishes professional intensive culture (with irrigation and
   compost) from ordinary [[cannabis-chemical-fertilizers]] and
-  for compost-based [[cervantes-chemical-fertilizers-guide]] don't do all that one wants; they stimulate the
+  for compost-based [[cervantes-chemical-fertilizers-guide]] don"t do all that one wants; they stimulate the
   plant and produce quantity, but to the detriment of quality... Insect pests only attack
   weak, sickly plant specimens lacking proper nutrition"
 
 ### Moreau, J. G., and J. J. Daverne — *Manuel pratique de la culture maraîchère de Paris* (1845)
 - **Publisher**: Libraire de la Société, Paris
 - **Significance**: Mid-19th-century comprehensive guide to Parisian techniques during
-  the system's peak period
+  the system"s peak period
 
 ## English-Language Historical Sources
 

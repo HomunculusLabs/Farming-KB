@@ -12,7 +12,7 @@ The permaculture principle "Use Edges and Value the Marginal" extends beyond phy
 
 ### The Urban-Rural Fringe
 
-The urban sprawl, lamented by generations of urban planners, is driven by the constant search for the edge between town and country, between the human and natural worlds. The edge of suburbia, with its open paddocks and abandoned spaces, has been a great place to grow up for generations of Australians, but it is inevitably destroyed as the suburban monoculture takes over. Suburban landscapes like Sydney's North Shore have always been attractive real estate because topographic constraints retained a network of escarpment bush and harbour inlets through the suburban fabric.
+The urban sprawl, lamented by generations of urban planners, is driven by the constant search for the edge between town and country, between the human and natural worlds. The edge of suburbia, with its open paddocks and abandoned spaces, has been a great place to grow up for generations of Australians, but it is inevitably destroyed as the suburban monoculture takes over. Suburban landscapes like Sydney"s North Shore have always been attractive real estate because topographic constraints retained a network of escarpment bush and harbour inlets through the suburban fabric.
 
 ### The Shopfront as Edge
 
@@ -64,7 +64,7 @@ For thousands of years, the city and its institutions distinguished civilisation
 
 Small regional economies and all small towns are deemed non-viable by economic orthodoxy. On a global scale, the relationship between rich and poor countries has led to hinterlands being seen as dispensable. However, the inspiration, examples and wisdom for dealing with the environmental crisis come not from the centre but from the margins, where people live at the edge between culture and nature, between modernity and the past.
 
-## Permaculture's Origins at the Margin
+## Permaculture"s Origins at the Margin
 
 Permaculture emerged from Tasmania — a place where modernity and nature are in close proximity, far enough from dominant paradigms to allow independent thinking, yet with the benefits of modern education and relative affluence. From the property on Mount Wellington's footslopes where the Permaculture concept was born in the mid-1970s, one could travel 5 kilometres to the city centre or university in one direction, or 5 kilometres on walking tracks to the alpine southwest face with nothing manmade between you and the great wilderness.
 

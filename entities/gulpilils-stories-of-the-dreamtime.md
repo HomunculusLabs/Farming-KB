@@ -1,5 +1,5 @@
 ---
-title: Gulpilil's Stories of the Dreamtime
+title: Gulpilil"s Stories of the Dreamtime
 source: bill-mollison-permaculture-a-designers-manual
 type: entity
 categories: [books, indigenous, culture, australia]
@@ -26,7 +26,7 @@ categories: [books, indigenous, culture, australia]
 - Published in 1979, the same year as *Permaculture Two* and the founding of [[permaculture-institute]].
 - Compiled by Hugh Rule and Stuart Goodman from stories told by David Gulpilil, a Yolngu man from Arnhem Land in the Northern Territory of Australia.
 - Published by William Collins (now HarperCollins Australia) in Sydney.
-- Contains the Rainbow Serpent legend that Mollison quotes extensively in the "Cover Story" section of the Designers' Manual (between the preface and Chapter 1).
+- Contains the Rainbow Serpent legend that Mollison quotes extensively in the "Cover Story" section of the Designers" Manual (between the preface and Chapter 1).
 - The Rainbow Serpent story from this collection provides the symbolic foundation for the Designers' Manual's cover artwork, which depicts the Serpent coiled within the egg of life.
 
 ## The Rainbow Serpent Story (as retold)
@@ -34,7 +34,7 @@ categories: [books, indigenous, culture, australia]
 The version of the Rainbow Serpent legend from this collection, as quoted by Mollison, tells of:
 
 1. **Creation**: In the beginning, the earth was flat — "a vast grey plain."
-2. **Earth-Shaping**: The Rainbow Serpent's movement across the land "heaped up the mountains and dug troughs for the rivers" — each thrust of its body creating new landforms.
+2. **Earth-Shaping**: The Rainbow Serpent"s movement across the land "heaped up the mountains and dug troughs for the rivers" — each thrust of its body creating new landforms.
 3. **Rest**: After shaping the earth, the Serpent crawled into a waterhole to rest, cooled and soothed by the water.
 4. **Invisible Presence**: Animals visiting the waterhole were careful not to disturb the Serpent, knowing it was there even though they could not see it.
 5. **Revelation**: After a huge rainstorm, the animals saw the Serpent — "his huge coloured body was arching from the waterhole, over the tree tops, up through the clouds, across the plain to another waterhole."
@@ -44,7 +44,7 @@ The version of the Rainbow Serpent legend from this collection, as quoted by Mol
 
 David Gulpilil Ridjimiraril Dalaithgut AM (c. 1953–2021) was:
 - A Yolngu man of the Mandhalpingu clan from Arnhem Land, Northern Territory
-- One of Australia's most celebrated actors, known for films including *Walkabout* (1971), *Storm Boy* (1976), *Crocodile Dundee* (1986), *Rabbit-Proof Fence* (2002), and *The Tracker* (2002)
+- One of Australia"s most celebrated actors, known for films including *Walkabout* (1971), *Storm Boy* (1976), *Crocodile Dundee* (1986), *Rabbit-Proof Fence* (2002), and *The Tracker* (2002)
 - A traditional dancer and storyteller who bridged Aboriginal and Western cultures
 - Appointed Member of the Order of Australia (AM) in 1987 for services to the arts
 - His storytelling in this book preserves and shares dreaming narratives that might otherwise have remained within specific cultural contexts

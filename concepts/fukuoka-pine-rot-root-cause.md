@@ -10,7 +10,7 @@ sources:
 
 ## gaias-garden-forest-garden-installation-phased-design Rot Research
 
-Masanobu Fukuoka conducted a three-year investigation into the pine rot epidemic devastating Japan's forests, setting up a makeshift laboratory in his [[emcdda-hallucinogenic-mushroom-contributing-factors-megatrends]]:
+Masanobu Fukuoka conducted a three-year investigation into the pine rot epidemic devastating Japan"s forests, setting up a makeshift laboratory in his [[emcdda-hallucinogenic-mushroom-contributing-factors-megatrends]]:
 - Soil pH was extremely acidic (3.2-4.8) in affected areas
 - Air pollution and pesticides provoked pine rot by killing beneficial microbes
 - Imported lumber introduced non-native pathogens
@@ -34,7 +34,7 @@ During his 1979 visit to America, Fukuoka ascertained the presence of both the p
 
 ## Pine Rot as Portent of Desertification
 
-Fukuoka framed pine rot as "an early sign of desertification brought about by a destruction in the balance between plants, animals, and microorganisms in Japan." The question of protecting the pine "really boils down to whether we are able to protect Japan's natural environment. The Japanese as a people cannot survive the loss of Japan's natural environment."
+Fukuoka framed pine rot as "an early sign of desertification brought about by a destruction in the balance between plants, animals, and microorganisms in Japan." The question of protecting the pine "really boils down to whether we are able to protect Japan"s natural environment. The Japanese as a people cannot survive the loss of Japan's natural environment."
 
 ## Source
 

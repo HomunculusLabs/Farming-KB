@@ -54,8 +54,8 @@ fungal networks, and releases stored carbon. Instead, they favor mulching,
 cover cropping, and surface application of inputs to build soil organic matter 
 and biological activity over time.
 
-The influence of Masanobu Fukuoka's philosophy of "do-nothing farming" is 
-evident in both systems. Fukuoka's four [[cho-han-kyu-life-and-philosophy]]
+The influence of Masanobu Fukuoka"s philosophy of "do-nothing farming" is 
+evident in both systems. Fukuoka"s four [[cho-han-kyu-life-and-philosophy]]
 [[cho-imo-collection-bamboo-stump-and-paddy-field]]
 [[fukuoka-four-principles-natural-farming]]
 [[jadam-compost-free-approach]]
@@ -83,7 +83,7 @@ evident in both systems. Fukuoka's four [[cho-han-kyu-life-and-philosophy]]
 
 ## Four Principles of Natural Farming
 
-## Four Principles of Natural Farming Masanobu Fukuoka's natural farming system is built upon four foundational principles that, when practiced together, create a self-sustaining agricultural ecosystem. These principles emerged from decades of observation and experimentation on his family farm in Shikoku, Japan, and represent a radical departure from both conventional and organic agriculture. ## First Principle: No Cultivation The first principle rejects all plowing, tilling, and soil disturbance. Fukuoka observed that the earth cultivates itself naturally through the activity of plant roots, soil organisms, and weather. Tilling disrupts soil structure, destroys mycorrhizal networks, and exposes organic matter to rapid oxidation. ...
+## Four Principles of Natural Farming Masanobu Fukuoka"s natural farming system is built upon four foundational principles that, when practiced together, create a self-sustaining agricultural ecosystem. These principles emerged from decades of observation and experimentation on his family farm in Shikoku, Japan, and represent a radical departure from both conventional and organic agriculture. ## First Principle: No Cultivation The first principle rejects all plowing, tilling, and soil disturbance. Fukuoka observed that the earth cultivates itself naturally through the activity of plant roots, soil organisms, and weather. Tilling disrupts soil structure, destroys mycorrhizal networks, and exposes organic matter to rapid oxidation. ...
 
 ## Natural Order and Microbial Ecology
 

@@ -39,7 +39,7 @@ Industrial production exceeds one million tons annually worldwide. Major manufac
 
 GBL serves as a precursor in the manufacture of N-methyl-2-pyrrolidone (NMP) and polyvinylpyrrolidone (PVP). These industrial applications provide cover for illicit diversion of the chemical.
 
-The compound's miscibility with both water and organic solvents makes it useful in [[blesching-cannabis-safety-profile-adverse-effects-and-overdose-risk]].
+The compound"s miscibility with both water and organic solvents makes it useful in [[blesching-cannabis-safety-profile-adverse-effects-and-overdose-risk]].
 
 Dose equivalency is approximately 1 mL of pure GBL equating to roughly 1.6 grams of GHB. This conversion ratio is critical for understanding dose-response relationships.
 

@@ -1,5 +1,5 @@
 ---
-title: Gaia's Garden ozier-pdc-design-process-analysis-frameworks
+title: Gaia"s Garden ozier-pdc-design-process-analysis-frameworks
 created: 2026-04-18
 updated: 2026-04-18
 type: concept

@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-The soil's ability to hold and supply nutrients depends heavily on electrochemical processes at the root–soil interface. Two key mechanisms — **[[cation-exchange-capacity]] (CEC)** and **anion exchange** — govern how plants access essential mineral ions. At the same time, nonessential and potentially toxic elements can enter plants through the same transport pathways, prompting an array of biological defense strategies. Water movement through the plant then carries these dissolved nutrients from roots to shoots, driven largely by transpiration.
+The soil"s ability to hold and supply nutrients depends heavily on electrochemical processes at the root–soil interface. Two key mechanisms — **[[cation-exchange-capacity]] (CEC)** and **anion exchange** — govern how plants access essential mineral ions. At the same time, nonessential and potentially toxic elements can enter plants through the same transport pathways, prompting an array of biological defense strategies. Water movement through the plant then carries these dissolved nutrients from roots to shoots, driven largely by transpiration.
 
 ## Cation Exchange Capacity (CEC)
 

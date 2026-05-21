@@ -21,7 +21,7 @@ Certain bacteria convert atmospheric nitrogen into plant-available forms:
 - **Free-living bacteria**: Azotobacter, Azospirillum, and Clostridium live free in the soil and fix nitrogen independently
 - **Symbiotic bacteria**: Rhizobium species live in root tissues of legumes, forming visible nodules where they fix nitrogen in exchange for carbohydrates from the plant
 
-These processes are biological, not just chemical. The nitrogen-fixing bacteria operate best at warmer temperatures and at a pH above 7, with their numbers diminishing as soil becomes more acidic. Up to 50 percent of a plant's nitrogen can come directly from nitrogen-fixing bacteria.
+These processes are biological, not just chemical. The nitrogen-fixing bacteria operate best at warmer temperatures and at a pH above 7, with their numbers diminishing as soil becomes more acidic. Up to 50 percent of a plant"s nitrogen can come directly from nitrogen-fixing bacteria.
 
 ## Mineralization and Ammonification
 

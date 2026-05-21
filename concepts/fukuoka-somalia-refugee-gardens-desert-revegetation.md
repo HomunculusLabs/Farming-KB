@@ -11,7 +11,7 @@ created: 2026-04-28
 
 ## Somalia Refugee Camp Gardens and Desert Revegetation by Hand
 
-Fukuoka's 1985-1986 mission to Somali refugee camps near Ethiopia
+Fukuoka"s 1985-1986 mission to Somali refugee camps near Ethiopia
 demonstrated that vegetable gardens could be established directly
 in desert conditions with the simplest possible methods. His
 experience revealed both the extraordinary potential for grassroots

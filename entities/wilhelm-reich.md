@@ -9,7 +9,7 @@ tags: [person, psychologist, philosopher, sex-politics]
 
 ## Description
 
-Wilhelm Reich (1897–1957) was an Austrian psychoanalyst, a member of Sigmund Freud's inner circle, and a radical thinker who developed the concept of "orgone energy" and advocated for sexual liberation as essential to human freedom. In entheogenic discourse, Reich is cited as a key figure who recognized the connection between sexual repression and the suppression of indigenous spirituality.
+Wilhelm Reich (1897–1957) was an Austrian psychoanalyst, a member of Sigmund Freud"s inner circle, and a radical thinker who developed the concept of "orgone energy" and advocated for sexual liberation as essential to human freedom. In entheogenic discourse, Reich is cited as a key figure who recognized the connection between sexual repression and the suppression of indigenous spirituality.
 
 ## Classification
 
@@ -21,7 +21,7 @@ Wilhelm Reich (1897–1957) was an Austrian psychoanalyst, a member of Sigmund F
 
 ## Key Facts
 
-1. **Freud's Inner Circle**: Reich was a prominent member of Freud's psychoanalytic movement. He expanded on Freud's thesis that "cultural achievements result from sublimated sexual energy" but diverged by arguing that sexual suppression was not necessary for civilization — pointing to highly cultured societies where sexual suppression was non-existent.
+1. **Freud"s Inner Circle**: Reich was a prominent member of Freud's psychoanalytic movement. He expanded on Freud's thesis that "cultural achievements result from sublimated sexual energy" but diverged by arguing that sexual suppression was not necessary for civilization — pointing to highly cultured societies where sexual suppression was non-existent.
 
 2. **Sex-Political Criticism**: Reich developed a "sex-political criticism of culture" that identified the systematic repression of human sexuality as a tool of patriarchal control — the same mechanism used to suppress entheogenic plant use and indigenous spiritual practices.
 

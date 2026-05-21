@@ -6,7 +6,7 @@ type: concept
 
 ## The Only Future for Man: Three Stages of Collapse and the Necessity of Natural Farming
 
-[[critique-of-scientific-agriculture]] civilization and its trajectory toward self-destruction. His argument is not merely agricultural but cosmological: humanity's departure from nature follows a predictable pattern of expansion, rupture, and collapse, and the only viable path forward is a return [[fukuoka-microbes-soil-health-discriminating-knowledge]]" — the fragmented, analytical intellect that separates subject from object, man from nature. Because humanity has no way of recognizing that its accumulated knowledge is fundamentally unknowable and mistaken, it founders ever deeper:
+[[critique-of-scientific-agriculture]] civilization and its trajectory toward self-destruction. His argument is not merely agricultural but cosmological: humanity"s departure from nature follows a predictable pattern of expansion, rupture, and collapse, and the only viable path forward is a return [[fukuoka-microbes-soil-health-discriminating-knowledge]]" — the fragmented, analytical intellect that separates subject from object, man from nature. Because humanity has no way of recognizing that its accumulated knowledge is fundamentally unknowable and mistaken, it founders ever deeper:
 
 > "Human knowledge is merely discriminating knowledge. Having no way of knowing that this knowledge is really unknowable, man founders ever deeper into confusion through the collection and advancement of unknowable and mistaken knowledge."
 
@@ -44,7 +44,7 @@ Even technologies celebrated as clean solutions — solar panels, wind turbines 
 
 ## Only Natural Farming Lies in the Future
 
-Fukuoka's prognosis is severe, but it is not nihilistic. He identifies a clear path of survival — though it requires a fundamental inversion of values:
+Fukuoka"s prognosis is severe, but it is not nihilistic. He identifies a clear path of survival — though it requires a fundamental inversion of values:
 
 > "Until man notices that scientific truth is not the same as absolute truth and turns his system of values on its head, he will continue to rush blindly onward toward self-destruction."
 
@@ -54,7 +54,7 @@ The inversion required is this: doing nothing becomes the highest form of action
 
 Life will simplify radically:
 
-> "Man's only work then will consist of the barest of farming essential for sustaining life."
+> "Man"s only work then will consist of the barest of farming essential for sustaining life."
 
 Fukuoka ranks [[fukuoka-textdoc-three-stages-of-human-collapse-and-natural-farming-future]] — which requires no external inputs, no plowing, no chemicals, no machinery beyond the human body — achieves the highest energy efficiency of all.
 

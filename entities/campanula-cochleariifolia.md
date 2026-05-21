@@ -15,13 +15,13 @@ sources:
 
 ## Overview
 
-Campanula cochleariifolia, commonly called fairy's thimble or dwarf harebell, is a petite alpine perennial in the family Campanulaceae. It is native to the calcareous mountains of central and southern Europe, primarily the Alps and the Carpathians.
+Campanula cochleariifolia, commonly called fairy"s thimble or dwarf harebell, is a petite alpine perennial in the family Campanulaceae. It is native to the calcareous mountains of central and southern Europe, primarily the Alps and the Carpathians.
 
 The species is one of the smallest bellflowers in cultivation, forming low mats of tiny rounded basal leaves surmounted by nodding lavender-blue flowers. It is highly prized in rock gardens and alpine troughs for its delicate appearance and reliability in well-drained sites.
 
 In the wild it is a characteristic species of high-altitude limestone landscapes, often growing in crevices where few other plants can establish. Despite its diminutive size, it is a resilient pioneer capable of surviving freeze-thaw cycles and intense UV exposure.
 
-The specific epithet cochleariifolia means "spoon-leaved," referring to the concave shape of the basal leaves. The common name "fairy's thimble" alludes to the tiny bell-shaped flowers that barely cover a fingertip.
+The specific epithet cochleariifolia means "spoon-leaved," referring to the concave shape of the basal leaves. The common name "fairy"s thimble" alludes to the tiny bell-shaped flowers that barely cover a fingertip.
 
 ## Taxonomy and Morphology
 

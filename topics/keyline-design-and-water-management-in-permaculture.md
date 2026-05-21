@@ -27,7 +27,7 @@ The Yeomans family continued developing and promoting keyline principles through
 
 ### Understanding Land Shape
 
-Keyline design begins with careful observation of the land's topography. Every valley has a characteristic shape that, once understood, reveals optimal patterns for water management.
+Keyline design begins with careful observation of the land"s topography. Every valley has a characteristic shape that, once understood, reveals optimal patterns for water management.
 
 #### Keypoint
 

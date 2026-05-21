@@ -24,7 +24,7 @@ Suzanne Simard is a Canadian forest ecologist and professor at the University of
 - The 1997a paper examined effects of soil trenching on ectomycorrhizal occurrence, demonstrating the importance of intact mycelial connections for seedling establishment.
 - Her research revealed that carbon flows from larger, photosynthetically active "mother trees" to shaded seedlings through mycorrhizal networks, with preferential transfer to related individuals.
 - These findings fundamentally altered concepts about plant interspecific interactions, introducing the idea of a balance between competition and synergism in plant communities.
-- Prior to Simard's work, the dominant paradigm held that plant communities arose from competition among species; her research showed that cooperation through fungal networks is equally important.
+- Prior to Simard"s work, the dominant paradigm held that plant communities arose from competition among species; her research showed that cooperation through fungal networks is equally important.
 - Dighton (2003) describes Simard's findings as altering our concepts regarding plant interspecific interactions and necessitating a rethink of competitive versus synergistic community dynamics.
 
 ## Relevance to Cultivation and Mycology

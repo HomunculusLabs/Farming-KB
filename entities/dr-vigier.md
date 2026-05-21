@@ -27,7 +27,7 @@ Dr. Currie was reported to be preparing publication of the therapeutic results f
 
 ## Significance to Cultivation and Mycology
 
-Dr. Vigier's work represents an early chapter in the pharmacological investigation of Amanita toxins. His approach — extracting the active principle into pharmaceutical forms for therapeutic application — paralleled contemporaneous work by [[schmiedeberg]] and Koppe (who isolated [[muscarine]] from A. muscaria) and Boudier (who extracted bulbosine from A. bulbosa).
+Dr. Vigier"s work represents an early chapter in the pharmacological investigation of Amanita toxins. His approach — extracting the active principle into pharmaceutical forms for therapeutic application — paralleled contemporaneous work by [[schmiedeberg]] and Koppe (who isolated [[muscarine]] from A. muscaria) and Boudier (who extracted bulbosine from A. bulbosa).
 
 While his [[psilocybin-therapeutic-applications]] (treating catarrhal affections) did not survive into modern medicine, his methodology for alkaloid extraction from fresh mushroom tissue using alcohol maceration was a standard pharmacognostic technique of the period.
 
@@ -39,7 +39,7 @@ While his [[psilocybin-therapeutic-applications]] (treating catarrhal affections
 
 ## Historical Context of 19th-Century Alkaloid Extraction
 
-Dr. Vigier's work occurred during the golden age of alkaloid chemistry (1850s-1880s), when physicians and pharmacists across Europe were systematically extracting active principles from natural sources. The isolation of morphine (1806), quinine (1820), caffeine (1820), and nicotine (1828) had demonstrated that plant and fungal materials contained powerful, isolable active compounds.
+Dr. Vigier"s work occurred during the golden age of alkaloid chemistry (1850s-1880s), when physicians and pharmacists across Europe were systematically extracting active principles from natural sources. The isolation of morphine (1806), quinine (1820), caffeine (1820), and nicotine (1828) had demonstrated that plant and fungal materials contained powerful, isolable active compounds.
 
 The 14-day alcohol maceration technique used by Vigier was standard pharmacognostic practice, relying on ethanol's ability to dissolve alkaloidal bases and their salts. The subsequent filtration and concentration steps produced tinctures and extracts of reproducible potency — an essential requirement for therapeutic dosing.
 

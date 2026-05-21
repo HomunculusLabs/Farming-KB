@@ -5,7 +5,7 @@ author: masanobu-fukuoka
 topics: [natural-farming, tree-care, pruning, fruit-trees, orchard-management]
 ---
 
-## Fukuoka's Argument Against Pruning: Trees Grow Best Without Human Intervention
+## Fukuoka"s Argument Against Pruning: Trees Grow Best Without Human Intervention
 
 [[masanobu-fukuoka]]'s philosophy [[comparison-pruning-fruit-trees-vs-grafting-fruit-trees]] is unnecessary, harmful, and rooted in
 a fundamental misunderstanding of how trees naturally grow.

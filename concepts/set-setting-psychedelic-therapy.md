@@ -62,7 +62,7 @@ The subject should set aside at least **three days**: a day before, the session 
 ## The Setting
 
 ### Privacy and Freedom from Intrusion
-The most important consideration: provide a setting removed from one's usual social and interpersonal games, as free as possible from unforeseen distractions and intrusions. The voyager must ensure they will not be disturbed by visitors or telephone calls, since these jar one into hallucinatory activity. Trust in the surroundings and privacy are necessary.
+The most important consideration: provide a setting removed from one"s usual social and interpersonal games, as free as possible from unforeseen distractions and intrusions. The voyager must ensure they will not be disturbed by visitors or telephone calls, since these jar one into hallucinatory activity. Trust in the surroundings and privacy are necessary.
 
 ### Time Scheduling
 A period of at least three days should be set aside for the experience to run its natural course with sufficient time for reflection and meditation. A too-hasty return to game-involvements blurs the clarity of the vision and reduces the potential for learning. If the experience was with a group, staying together afterward to share and exchange experiences is very useful.

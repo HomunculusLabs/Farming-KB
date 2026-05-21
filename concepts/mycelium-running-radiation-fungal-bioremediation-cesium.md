@@ -27,7 +27,7 @@ Similar cold-extremophile species should be tested for their bioremediation pote
 
 ## Mycorrhizal vs. Saprophytic Uptake Differences
 
-A clear pattern emerges regarding cesium accumulation: mycorrhizal species tend to accumulate far more radioactive cesium than saprophytic species. This is consistent with Stamets' broader observation that mycorrhizal fungi penetrate deeper below the surface over time and can reside on a site for decades, giving them extended contact with contaminated soil layers.
+A clear pattern emerges regarding cesium accumulation: mycorrhizal species tend to accumulate far more radioactive cesium than saprophytic species. This is consistent with Stamets" broader observation that mycorrhizal fungi penetrate deeper below the surface over time and can reside on a site for decades, giving them extended contact with contaminated soil layers.
 
 Mycorrhizal species like Gomphidius glutinosus, Paxillus atrotomentosus, Suillus tomentosus, and Rozites caperata serve as transport systems for cesium from areas deeper underground. Their extensive mycelial networks interface with tree roots and access contamination that surface-dwelling saprophytes cannot reach. The deeper mycelial penetration over decades of growth means that older mycorrhizal colonies will have accumulated substantially more contamination than younger ones.
 

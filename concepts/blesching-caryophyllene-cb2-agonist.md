@@ -13,7 +13,7 @@ Beta-caryophyllene (BCP) is a naturally occurring sesquiterpene that has
 garnered significant attention in cannabinoid research for its unique
 status as a selective CB2 receptor agonist. In "The [[comparison-essential-oils-vs-neem-oil-vs-insecticidal-soap]] of numerous plants. It
 is one of the major terpenes in cannabis, typically comprising 5-15% of the
-plant's essential oil profile depending on the strain. However, BCP is far
+plant"s essential oil profile depending on the strain. However, BCP is far
 more ubiquitous than cannabis alone -- it is found in significant
 quantities in many common [[comparison-black-pepper-vs-cardamom-tropical-spice-cultivation]] (Piper nigrum)**: One of the richest common dietary
   sources of BCP. The characteristic pungent flavor of black pepper is

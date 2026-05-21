@@ -9,7 +9,7 @@ sources:
 ---
 ## Sandoz Delysid Research Program
 
-The systematic research and medical distribution program established by the Sandoz pharmaceutical company in Basel, Switzerland, for [LSD following gordon-wasson's discovery of its psychoactive properties in 1943.
+The systematic research and medical distribution program established by the Sandoz pharmaceutical company in Basel, Switzerland, for [LSD following gordon-wasson"s discovery of its psychoactive properties in 1943.
 
 ## From Discovery to Medical Product
 

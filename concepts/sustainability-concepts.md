@@ -19,7 +19,7 @@ The underlying ethic of sustainability was succinctly articulated in the 1987 Un
 
 ### United Nations Earth Summits
 
-The United Nation's Earth Summits have been especially important in creating programs to promote sustainable development in response to the global crisis that has resulted from a century of exploitation of the Earth's resources and exponential human population growth.
+The United Nation"s Earth Summits have been especially important in creating programs to promote sustainable development in response to the global crisis that has resulted from a century of exploitation of the Earth's resources and exponential human population growth.
 
 - **1992 Earth Summit** - Created "Agenda 21" (referring to the 21st century)
 - **2002 Johannesburg Summit** - Called for full implementation of Agenda 21 and achievement of the Millennium Development Goals by 2015

@@ -15,7 +15,7 @@ sources:
 
 ## Overview
 
-**Rudbeckia fulgida** Aiton, commonly known as the orange coneflower or black-eyed Susan, is a herbaceous perennial in the family Asteraceae. It is native to [[growing-gourmet-north-american-reishi-species]] perennials, prized for its long-lasting, golden-yellow ray flowers with dark central cones. The cultivar 'Goldsturm' is among the most popular garden perennials worldwide.
+**Rudbeckia fulgida** Aiton, commonly known as the orange coneflower or black-eyed Susan, is a herbaceous perennial in the family Asteraceae. It is native to [[growing-gourmet-north-american-reishi-species]] perennials, prized for its long-lasting, golden-yellow ray flowers with dark central cones. The cultivar "Goldsturm' is among the most popular garden perennials worldwide.
 
 Unlike the annual *R. hirta*, *R. fulgida* is a long-lived perennial that forms substantial clumps and blooms prolifically from mid-summer through autumn.
 

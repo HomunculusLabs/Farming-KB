@@ -26,7 +26,7 @@ It forms robust clumps of leathery, dark green foliage with divided leaflets. Pl
 
 Flowers appear from February to April, typically in shades of greenish-yellow to pale chartreuse. The combination of fragrance and early bloom time makes it a valued garden plant.
 
-The specific epithet *odorus* (Latin for "fragrant") directly references this species' most distinctive characteristic. Few other *Helleborus* species produce scented flowers, making this trait taxonomically significant.
+The specific epithet *odorus* (Latin for "fragrant") directly references this species" most distinctive characteristic. Few other *Helleborus* species produce scented flowers, making this trait taxonomically significant.
 
 Like all hellebores, all parts of the plant contain toxic cardiac glycosides and protoanemonin. Handling requires care, but the plant poses minimal risk when grown as an ornamental.
 

@@ -12,7 +12,7 @@ sources:
 
 ## Overview
 
-[[icaros]] are sacred healing songs used by Amazonian vegetalistas (plant healers) during [[ayahuasca]] ceremonies. They are received directly from plant spirits during dieta (plant dieting) and serve multiple functions: calling protective spirits, directing the visionary experience, extracting illness, and defending against hostile entities. Pablo Amaringo's paintings frequently depict icaros as visible, luminous energies — ribbons, waves, or geometric patterns that radiate from the mouth of the singing vegetalista.
+[[icaros]] are sacred healing songs used by Amazonian vegetalistas (plant healers) during [[ayahuasca]] ceremonies. They are received directly from plant spirits during dieta (plant dieting) and serve multiple functions: calling protective spirits, directing the visionary experience, extracting illness, and defending against hostile entities. Pablo Amaringo"s paintings frequently depict icaros as visible, luminous energies — ribbons, waves, or geometric patterns that radiate from the mouth of the singing vegetalista.
 
 ## Nature and Origin of Icaros
 
@@ -29,11 +29,11 @@ sources:
 **Protective/Defensive Icaros (Arkanas)**
 - Create energetic shields around the ceremony space
 - Used to ward off evil spirits, sorcerers (brujos), and hostile entities
-- Depicted in Amaringo's paintings as colorful geometric arcs, nets, or barriers
+- Depicted in Amaringo"s paintings as colorful geometric arcs, nets, or barriers
 - Some form visible "[[arkana]]" defenses — luminous walls of light
 
 **Healing Icaros**
-- Used to extract illness from a patient's body
+- Used to extract illness from a patient"s body
 - Can be directed at specific organs or spiritual blockages
 - The vegetalista sings while blowing tobacco smoke or sucking at the affected area
 - Some icaros restore the patient's protective spirit
@@ -77,7 +77,7 @@ Each plant teacher has a unique musical signature:
 
 ## Icaros and the Visual Arts
 
-Amaringo's paintings represent a visual translation of icaros — the patterns, colors, and forms he painted correspond to what he "saw" while singing or hearing icaros during ceremonies. This suggests a synesthetic dimension to the icaro experience where sound becomes visible form:
+Amaringo"s paintings represent a visual translation of icaros — the patterns, colors, and forms he painted correspond to what he "saw" while singing or hearing icaros during ceremonies. This suggests a synesthetic dimension to the icaro experience where sound becomes visible form:
 - Geometric patterns (especially Shipibo kené designs)
 - Flowing ribbons of colored light
 - Radiating waves from the singer's mouth

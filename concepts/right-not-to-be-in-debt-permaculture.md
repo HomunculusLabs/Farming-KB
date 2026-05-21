@@ -6,7 +6,7 @@ type: concept
 
 ## Right Not to Be in Debt — Permaculture Perspectives on Shelter and Self-Reliance
 
-In Chapter 14 of Permaculture: A Designers' Manual, [[bill-mollison]] mounts a provocative argument that the fundamental barriers to adequate shelter and food security are not financial but regulatory. He uses the example of self-built housing without debt to illustrate how existing political and economic systems deny people basic rights to provide for themselves.
+In Chapter 14 of Permaculture: A Designers" Manual, [[bill-mollison]] mounts a provocative argument that the fundamental barriers to adequate shelter and food security are not financial but regulatory. He uses the example of self-built housing without debt to illustrate how existing political and economic systems deny people basic rights to provide for themselves.
 
 ## Self-Built Housing Without Debt
 
@@ -60,7 +60,7 @@ Mollison argues that existing political systems—whether self-described as comm
 
 ### The Power of Personal Action
 
-Mollison quotes Manas (17 Oct 1984): "The argument for simplicity is never a political argument... when people practice it in their lives... they don't even need any politics."
+Mollison quotes Manas (17 Oct 1984): "The argument for simplicity is never a political argument... when people practice it in their lives... they don"t even need any politics."
 
 People can act independently of political theory—which rarely addresses ethics, simplicity, local autonomy, or life-oriented action. Such changes come about through education and information. When enough people change their practices, political systems either follow or become irrelevant.
 
@@ -69,7 +69,7 @@ People can act independently of political theory—which rarely addresses ethics
 For this reason, Mollison identifies the correct sequence for change:
 
 1. Start with the individual (oneself)
-2. Then work in one's region or neighbourhood
+2. Then work in one"s region or neighbourhood
 
 ## Natural Law vs. the Laws of Power
 

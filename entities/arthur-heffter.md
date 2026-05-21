@@ -18,7 +18,7 @@ Heffter was born in Leipzig, Germany. He studied medicine and chemistry at the U
 
 ## The Mescaline Discovery
 
-Heffter's most significant contribution came from his systematic investigation of peyote (*[[lophophora-williamsii]]*), the small spineless cactus used as a sacrament by indigenous peoples of Mexico and the southwestern [[leary-psychedelic-experience-bardo-mapping]] in the scientific literature.
+Heffter"s most significant contribution came from his systematic investigation of peyote (*[[lophophora-williamsii]]*), the small spineless cactus used as a sacrament by indigenous peoples of Mexico and the southwestern [[leary-psychedelic-experience-bardo-mapping]] in the scientific literature.
 
 Heffter published his findings in 1898 in a landmark paper titled "Über Pellote" (On Peyote), which established the principle that the psychoactive effects of psychoactive plants are attributable to specific chemical compounds rather than mystical plant essences.
 

@@ -11,7 +11,7 @@ The selection and construction of appropriate growing facilities is one of the m
 
 ## The Fundamental Requirements
 
-The situations favorable for mushroom growing are best understood by specifying the conditions necessary for growth. After all, the main factors requiring regulation are those of temperature and moisture, and consequently any situation in which these conditions may be controlled to accord with the organism's requirements should prove satisfactory. The mushroom grower must therefore evaluate potential facilities primarily on their ability to maintain stable temperatures in the optimal range and to sustain adequate humidity without promoting excessive condensation or waterlogging.
+The situations favorable for mushroom growing are best understood by specifying the conditions necessary for growth. After all, the main factors requiring regulation are those of temperature and moisture, and consequently any situation in which these conditions may be controlled to accord with the organism"s requirements should prove satisfactory. The mushroom grower must therefore evaluate potential facilities primarily on their ability to maintain stable temperatures in the optimal range and to sustain adequate humidity without promoting excessive condensation or waterlogging.
 
 ## French Cave Cultivation: The Champignonière
 

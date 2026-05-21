@@ -24,7 +24,7 @@ One of the most remarkable examples of pattern encoding is the [[anasazi-spiral]
 
 - **19 intercepts** on its horizontal axis mark the points at which moon-shadows are cast by gnomons onto the spiral
 - **Three carefully balanced rock slabs** serve as gnomons, casting moon-shadows or directing vertical daggers of sunlight to specific points
-- The spiral records the **18.6-year lunar cycle** (the sway of Earth's axis), regulating planting and ceremony timing
+- The spiral records the **18.6-year lunar cycle** (the sway of Earth"s axis), regulating planting and ceremony timing
 - It also serves as a **drought and flood prediction calendar** for this same 19-year cycle
 
 This single, simple spiral encodes what would require a small library in our clumsy alphabetical and numerical systems. The knowledge was available to all people living nearby. Only persistent investigation by [[anna-soaer]] (an artist with intuitive observational skills) revealed its significance — scientists had doubted tribal capacity for such long-term pattern encoding.

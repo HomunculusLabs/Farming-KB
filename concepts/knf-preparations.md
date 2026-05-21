@@ -62,7 +62,7 @@ JADAM (Youngsang Cho, Korea) extends KNF toward zero-budget agriculture. Key inn
 - **Pesticide combos**: JNP (JWA+JS+JHS), JMS-JHS (JMS+JHS+JWA), JS-JHS. Combine wetting agent with sulfur/herb solution.
 - **Philosophy**: "Bring farming back to farmers" — no patents, all knowledge shared openly.
 
-Based on Cho's Nutritive Cycle Theory — see [[nutritive-cycle-theory]] for full explanation.
+Based on Cho"s Nutritive Cycle Theory — see [[nutritive-cycle-theory]] for full explanation.
 
 ### Vegetative Growth Stage
 - FPJ (from fast-growing plants like mugwort, bamboo shoots, arrowroot) at 1:800-1000

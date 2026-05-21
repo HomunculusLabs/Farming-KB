@@ -22,7 +22,7 @@ Echium fastuosum (syn. *[[echium-candicans]]*), commonly known as pride of Madei
 
 ## Key Facts
 
-- **Coastal windbreak role**: Classified as a low-shrub component in Mollison's Type C compound windbreak, positioned between ground covers (Convolvulus, Phyla, Mesembryanthemum) and taller shrub and tree layers (Coprosma repens, Lycium, Cedrus, Cupressus).
+- **Coastal windbreak role**: Classified as a low-shrub component in Mollison"s Type C compound windbreak, positioned between ground covers (Convolvulus, Phyla, Mesembryanthemum) and taller shrub and tree layers (Coprosma repens, Lycium, Cedrus, Cupressus).
 - **Salt and wind tolerance**: Moderately tolerant of salt spray and persistent coastal winds, making it suitable for second-line coastal plantings behind the most exposed frontline species.
 - **Drought adaptation**: Once established, requires no supplemental irrigation in Mediterranean and arid climates. Deep taproot system accesses subsoil moisture.
 - **Rapid growth**: Establishes quickly from seed or cuttings, providing windbreak function within 1–2 growing seasons — important for rapid site protection.

@@ -16,14 +16,14 @@ sources:
 
 ## Overview
 
-Mahayana natural farming is Masanobu Fukuoka's term for the highest form
+Mahayana natural farming is Masanobu Fukuoka"s term for the highest form
 of agricultural practice, in which the farmer becomes one with nature and
 abandons all purposeful human intervention. The name derives from the
 Buddhist concept of the Mahayana ("Great Vehicle"), the path of universal
 compassion that transcends individual effort.
 
 Fukuoka distinguished Mahayana natural farming from both [[fukuoka-mahayana-and-hinayana-natural-farming]] farming. Together, these three
-approaches form a philosophical spectrum for understanding humanity's
+approaches form a philosophical spectrum for understanding humanity"s
 relationship to the natural world through agriculture.
 
 ## The Three Ways of Farming

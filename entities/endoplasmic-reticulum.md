@@ -9,7 +9,7 @@ tags: [organelle, cell-biology, protein-transport, lipid-synthesis, plant-cell]
 
 ## Description
 
-The endoplasmic reticulum (ER) is an extensive network of folded membranes that extends from the nucleus throughout the cell to the plasmalemma. It serves as the cell's internal highway system, providing an easier path for molecular transport than navigating through the jelly-like cytosol. The ER is divided into two functional zones: the rough ER, studded with ribosomes for protein processing, and the smooth ER, responsible for lipid synthesis and detoxification.
+The endoplasmic reticulum (ER) is an extensive network of folded membranes that extends from the nucleus throughout the cell to the plasmalemma. It serves as the cell"s internal highway system, providing an easier path for molecular transport than navigating through the jelly-like cytosol. The ER is divided into two functional zones: the rough ER, studded with ribosomes for protein processing, and the smooth ER, responsible for lipid synthesis and detoxification.
 
 ## Classification
 

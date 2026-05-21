@@ -104,7 +104,7 @@ The standard for food processing sanitation:
 3.  **Sanitize** — Sanitizer solution at recommended concentration:
     -  Bleach: 100-200 ppm (1 tablespoon per gallon of water)
     - Quaternary ammonia: 200 ppm
-    - Peroxyacetic acid: Follow manufacturer's dilution
+    - Peroxyacetic acid: Follow manufacturer"s dilution
 
 ### Additional Sanitation
 

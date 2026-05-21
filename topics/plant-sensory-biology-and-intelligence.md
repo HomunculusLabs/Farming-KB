@@ -25,7 +25,7 @@ future responses. The study of plant sensory biology has moved from the
 margins of speculative philosophy into the mainstream of molecular biology.
 This research reveals sophisticated information-processing systems that
 challenge traditional boundaries between the perceived passivity of
-vegetation and the apparent agency of animals. Daniel Chamovitz's *What
+vegetation and the apparent agency of animals. Daniel Chamovitz"s *What
 a Plant Knows* (2012) systematically explored these capabilities, while
 decades of research on volatile signaling, mycorrhizal networks, and
 plant electrophysiology have built a compelling picture of organisms that
@@ -46,7 +46,7 @@ recovery from anaesthesia, and accelerated growth under certain
 electromagnetic frequencies. His findings, initially dismissed by Western
 scientists, have been largely vindicated by modern electrophysiology.
 
-In the 1960s, Cleve Backster's polygraph experiments on plants generated
+In the 1960s, Cleve Backster"s polygraph experiments on plants generated
 enormous public interest but failed to meet scientific standards of
 repeatability. Marcel Vogel, an IBM research chemist, claimed to
 demonstrate plant-human bioelectric communication but faced similar

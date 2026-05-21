@@ -10,7 +10,7 @@ created: 2026-05-14
 
 ## Description
 
-The apoplastic pathway is one of three routes by which water and dissolved substances move through plants. It consists of the interconnected network of porous cell walls that surround every plant cell, through which water molecules can travel without ever entering any cell's interior or crossing any cell membrane. This pathway provides a low-resistance, high-speed route for water movement through root tissues until it encounters the waterproof Casparian strip at the endodermis. The apoplast — the collective term for all cell wall space in a plant — is essentially the "outside" of the cell membrane system, continuous from root surface to leaf surface.
+The apoplastic pathway is one of three routes by which water and dissolved substances move through plants. It consists of the interconnected network of porous cell walls that surround every plant cell, through which water molecules can travel without ever entering any cell"s interior or crossing any cell membrane. This pathway provides a low-resistance, high-speed route for water movement through root tissues until it encounters the waterproof Casparian strip at the endodermis. The apoplast — the collective term for all cell wall space in a plant — is essentially the "outside" of the cell membrane system, continuous from root surface to leaf surface.
 
 ## Classification
 

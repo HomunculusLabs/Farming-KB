@@ -1,5 +1,5 @@
 ---
-title: St. John's Wort Growing Guide
+title: St. John"s Wort Growing Guide
 created: 2026-04-12
 updated: 2026-04-12
 type: concept

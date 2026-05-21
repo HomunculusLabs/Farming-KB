@@ -1,5 +1,5 @@
 ---
-title: "Fukuoka's fukuoka world travels global influence and Global Influence"
+title: "Fukuoka"s fukuoka world travels global influence and Global Influence"
 created: 2026-04-20
 updated: 2026-04-20
 type: concept
@@ -8,7 +8,7 @@ sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
-## Fukuoka's World Travels and Global Influence
+## Fukuoka"s World Travels and Global Influence
 
 **Updated:** 2026-04-18
 

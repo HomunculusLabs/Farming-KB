@@ -11,7 +11,7 @@ WA S.A.L.T. (Whittington Interceptor Salt-Affected Land Treatment Society) is a 
 
 ## Core Theory: Soil Collapse Explanation
 
-Whittington's theory, which Mollison credits as convincing after extensive field inspection, differs from the standard "groundwater rising" theory of dryland salting:
+Whittington"s theory, which Mollison credits as convincing after extensive field inspection, differs from the standard "groundwater rising" theory of dryland salting:
 
 1. **Primary cause**: Clearing, cultivation, and hoofed animal compaction destroy soil structure.
 2. **Chemical cascade**: Sodium from surface salt deposits displaces calcium on clay particles, causing deflocculation.
@@ -32,7 +32,7 @@ The practical remediation developed by WA S.A.L.T. involves carefully engineered
 
 - **Farmer-led science**: WA S.A.L.T. demonstrates that practical, observation-based knowledge from working farmers can challenge and improve upon academic theories.
 - **Systems thinking**: The [[soil-collapse]] explanation integrates chemical, physical, and hydrological processes — a genuinely holistic understanding of landscape function.
-- **Mollison's endorsement**: Mollison states that Whittington is "yet another unrecognised 'great Australian' with a love of land and good husbandry" and that WA S.A.L.T.'s efforts are "worthy of international recognition."
+- **Mollison"s endorsement**: Mollison states that Whittington is "yet another unrecognised "great Australian' with a love of land and good husbandry" and that WA S.A.L.T."s efforts are "worthy of international recognition."
 - **Design implication**: The interceptor bank approach shows that successful dryland restoration requires precise earthworks design, not just tree planting.
 
 ## Contact (Historical)

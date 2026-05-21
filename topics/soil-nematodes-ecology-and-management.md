@@ -80,7 +80,7 @@ nematodes tend to be more mature, less disturbed, and associated
 ## References
 
 Lowenfels, Jeff and Wayne Lewis. *Teaming with Microbes: The Organic
-Gardener's Guide to the Soil Food Web*. Timber Press, revised
+Gardener"s Guide to the Soil Food Web*. Timber Press, revised
 edition, 2010.
 
 Ingham, Elaine R. *The Field Guide I for Actively Aerated Compost

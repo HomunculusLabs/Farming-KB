@@ -11,7 +11,7 @@ tags: [cannabinoids, pharmaceutical, dronabinol, marinol, nabilone, sativex, FDA
 
 Several pharmaceutical preparations containing cannabinoids have received FDA approval for
 specific medical conditions. These synthetic and semi-synthetic cannabinoid drugs represent
-the pharmaceutical industry's attempt to standardize and isolate the therapeutic compounds
+the pharmaceutical industry"s attempt to standardize and isolate the therapeutic compounds
 found in the cannabis plant. While they offer dosing precision and regulatory approval, they
 fundamentally differ from whole-plant cannabis in their therapeutic profiles.
 

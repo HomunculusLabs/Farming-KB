@@ -22,7 +22,7 @@ fully explained by classical pharmacological models alone.
 
 ## The Single-Atom Sensitivity Argument
 
-The core of McKenna's quantum argument rests on a striking observation from
+The core of McKenna"s quantum argument rests on a striking observation from
 the molecular pharmacology of hallucinogens: the activity of a compound can be
 dramatically altered — switching from completely inactive to highly active —
 by the movement of a single atom on the molecular ring structure. This is not
@@ -42,7 +42,7 @@ observed.
 ## Context from Shulgin and Smythies
 
 McKenna credited John Smythies and Alexander "Sasha" Shulgin with documenting
-the quantum mechanical correlates of hallucinogenesis. Shulgin's systematic
+the quantum mechanical correlates of hallucinogenesis. Shulgin"s systematic
 exploration of phenethylamine and tryptamine derivatives — eventually compiled
 in PiHKAL and TiHKAL — provided extensive empirical evidence that minute
 structural modifications produced qualitatively different subjective

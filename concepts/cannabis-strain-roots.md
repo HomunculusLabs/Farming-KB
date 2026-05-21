@@ -16,7 +16,7 @@ type: concept
 ## Roots
 
 Roots is a sativa-dominant hybrid [[blue-city-diesel-west-coast-blueberry-nyc-diesel-hybrid-oner]] influence likely contributes to the
-strain's complex aroma profile, while the Blue Heaven genetics may play a
+strain"s complex aroma profile, while the Blue Heaven genetics may play a
 role in the attractive coloration observed during flowering. The undisclosed
 sativa parent adds an element of mystery and likely enhances the cerebral
 effects.

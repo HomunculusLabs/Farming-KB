@@ -18,7 +18,7 @@ type: concept
 
 Low islands present a special arid condition due to very limited water
 catchment and finite water storage. Mollison states that "the demand for
-designers in the atoll marine islands is very, very high. We can't begin
+designers in the atoll marine islands is very, very high. We can"t begin
 to fill that demand."
 
 ## The Fresh Water Lens

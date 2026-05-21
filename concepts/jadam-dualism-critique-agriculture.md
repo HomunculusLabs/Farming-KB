@@ -18,7 +18,7 @@ In nature, all microorganisms serve a function. Even Bacillus anthracis (canker 
 
 ### Nutrients
 
-The same principle applies to nutrients. It is tempting to label certain elements as "good" (calcium, phosphate, germanium, selenium, silicate) and add them to soil. But "organic farming is not this simple. You will never succeed in farming with this method of 'selecting the good and putting it in.'"
+The same principle applies to nutrients. It is tempting to label certain elements as "good" (calcium, phosphate, germanium, selenium, silicate) and add them to soil. But "organic farming is not this simple. You will never succeed in farming with this method of "selecting the good and putting it in.'"
 
 ### Beneficial Insects
 

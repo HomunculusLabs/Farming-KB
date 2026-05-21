@@ -17,7 +17,7 @@ sources:
 ---
 # Lambs Bread
 
-**Lambs Bread** (also spelled **Lamb's Bread**, and sometimes called **Lamb's Breath**) is a legendary sativa-dominant [[cannabis-microbiome-otu-abundance-vs-presence-cannabis-strains]] in the world, it is deeply intertwined with Rastafarian spiritual practice and Jamaican musical heritage. Bob Marley famously referenced it in his music, and it remains a touchstone strain for cannabis historians and landrace preservationists.
+**Lambs Bread** (also spelled **Lamb"s Bread**, and sometimes called **Lamb's Breath**) is a legendary sativa-dominant [[cannabis-microbiome-otu-abundance-vs-presence-cannabis-strains]] in the world, it is deeply intertwined with Rastafarian spiritual practice and Jamaican musical heritage. Bob Marley famously referenced it in his music, and it remains a touchstone strain for cannabis historians and landrace preservationists.
 
 The strain is often confused with or conflated with **Lamb's Breath**, which may represent a distinct but closely related Jamaican lineage. The naming is debated — some assert "bread" and "breath" refer to the same population, while others maintain they are separate accessions with subtle phenotypic differences.
 

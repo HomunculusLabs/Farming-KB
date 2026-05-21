@@ -22,7 +22,7 @@ tags:
 Qatal Huyuk (Çatalhöyük) was a major Neolithic settlement on the Anatolian
 plateau in modern Turkey, dating to approximately 6500 BCE. Excavated
 primarily by James Mellaart, it stands as one of the earliest known urban
-centers and represents a critical chapter in humanity's transition from
+centers and represents a critical chapter in humanity"s transition from
 hunter-gathering to agriculture. [[terence-mckenna]], in *Food of the Gods*
 (Chapter 6: "The High Plains of Eden"), presents Qatal Huyuk as the last
 great flowering of the partnership model of society — a civilization built
@@ -32,7 +32,7 @@ mushroom use — before its destruction by Indo-European [[dominator-culture-and
 ## The Mother Goddess Cult
 
 Female symbolism overwhelmingly predominates in the shrines of Qatal Huyuk.
-The settlement's religious life centered on a cult of the Mother Goddess,
+The settlement"s religious life centered on a cult of the Mother Goddess,
 with clay figurines, wall reliefs, and ritual architecture all pointing to
 a goddess-centered worldview. McKenna argues this was not mere fertility
 symbolism but the organizing principle of an entire social order — a
@@ -87,7 +87,7 @@ grasslands and Sahara.
 McKenna proposes that the mushroom was recognized at Qatal Huyuk as the
 "third and hidden member" of a shamanic trinity, alongside the more
 obvious products of cattle: milk, meat, and manure. Cattle were central
-to the settlement's economy, art, and religion, but McKenna argues that
+to the settlement"s economy, art, and religion, but McKenna argues that
 the [[gartz-conocybe-cyanopus-rare-psychoactive-mushroom]] — likely growing in the dung of these same
 cattle — was the secret animating force behind the culture's spiritual
 life. Built-in "recliners" found in some shrines suggest curing or

@@ -20,7 +20,7 @@ alkaloids: hyoscyamine, scopolamine, and atropine. Unlike the classic
 psychedelics, these compounds produce true delirium rather than lucid
 hallucinations, often accompanied by dangerous physical effects.
 
-## Medieval European Witches' Brews
+## Medieval European Witches" Brews
 
 The several solanaceous ingredients of medieval witches' brews, henbane,
 nightshade, belladonna, and mandrake, greatly influenced European folklore.

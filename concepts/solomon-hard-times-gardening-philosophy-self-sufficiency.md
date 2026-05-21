@@ -10,7 +10,7 @@ tags: [gardening, self-sufficiency, hard-times, land-requirements, food-security
 
 ## Overview
 
-Steve Solomon's *[[gardening-when-it-counts]]* is written explicitly
+Steve Solomon"s *[[gardening-when-it-counts]]* is written explicitly
 for gardeners facing economic hardship, resource scarcity, or
 societal disruption. Drawing from decades of [[palmer-mushroom-cooking-and-personal-experience]] —
 including years of near-total food self-sufficiency in the 1980s

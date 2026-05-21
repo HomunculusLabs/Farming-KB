@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-Shamanism represents humanity's oldest and most indigenous form of spiritual practice, centered on the direct experience of [[mushrooms-and-mankind]]*, shamanism is not merely the precursor to organized religion but its foundational cornerstone — a tradition from which all subsequent religious systems ultimately derive, even as they have systematically suppressed and obscured their entheogenic roots.
+Shamanism represents humanity"s oldest and most indigenous form of spiritual practice, centered on the direct experience of [[mushrooms-and-mankind]]*, shamanism is not merely the precursor to organized religion but its foundational cornerstone — a tradition from which all subsequent religious systems ultimately derive, even as they have systematically suppressed and obscured their entheogenic roots.
 
 ## The Shamanic Paradigm
 
@@ -26,7 +26,7 @@ Before the development of writing or organized religion, early humans who encoun
 The shamanic death-rebirth experience involves several stages:
 
 1. **Dissolution of the self**: Every atom of the self is described as being "dashed to pieces" during the plunge into the underworld vortex.
-2. **Life review**: Each event of one's life surfaces into consciousness for examination — nothing remains hidden.
+2. **Life review**: Each event of one"s life surfaces into consciousness for examination — nothing remains hidden.
 3. **Confrontation with conditioned beliefs**: Culturally embedded belief systems are recognized and, often painfully, rejected when they contradict directly experienced indigenous spiritual nature.
 4. **Encounter with heaven and hell**: The practitioner experiences the full spectrum of spiritual realms, from transcendent heights to abyssal depths.
 5. **Rebirth and reintegration**: The practitioner emerges transformed, having confronted and processed the fundamental fears and attachments that bind consciousness.
@@ -46,7 +46,7 @@ Shamanism recognizes five fundamental human drives that patriarchal religious sy
 
 Replacing these natural drives with moral judgments, condemning them as universal sins, and usurping authority over them is characterized as "an absolute atrocity against mankind."
 
-## The [[allegro-amanita-muscaria-properties-and-pharmacology]]** is identified as the cornerstone of shamanic practice, producing what is described as the quintessential death and rebirth experience. Despite shamanism's rejection of patriarchal religious structures, the text argues that shamanism is itself the cornerstone of all religions — though modern religion has "completely lost the natural indigenous freedom it professes to impart."
+## The [[allegro-amanita-muscaria-properties-and-pharmacology]]** is identified as the cornerstone of shamanic practice, producing what is described as the quintessential death and rebirth experience. Despite shamanism"s rejection of patriarchal religious structures, the text argues that shamanism is itself the cornerstone of all religions — though modern religion has "completely lost the natural indigenous freedom it professes to impart."
 
 The stages of the Amanita experience are described as operating like an elevator:
 - **Ascent**: Reaching indefinable realms of the heavens

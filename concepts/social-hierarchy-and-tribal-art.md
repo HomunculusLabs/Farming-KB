@@ -52,13 +52,13 @@ The hierarchy seldom exceeds **seven major occupational levels**, even in rigoro
 
 ## Tribal Art as Functional Mnemonic
 
-### Art's Primary Purpose: Information Storage
+### Art"s Primary Purpose: Information Storage
 
 Tribal art in the forms of song, dance, sculptural or painted objects, and designs served quite specific ends. Most (if not all) tribal art was a **public and ever-renewed mnemonic** — a memory aid for the community. Apparently simple spiral or linear designs could combine thousands of bits of information in a single, deceptively simple pattern.
 
 The decorative function was **incidental** to the educational and sacred information function. "Decoration" is the trivial aspect of such art.
 
-### Modern Art's Divergence
+### Modern Art"s Divergence
 
 Much modern art is individualistic and decorative; some "motif" art is plagiarized from ancient origins but no longer carries educational or sacred function. Entertainment and decoration are valid but minor functions. Social comment in theatre and song, and spirited dances that uplift, represent meaningful modern applications, but Mollison laments the monoculture of his own society — based on advertising jingles and purely decorative patterns, with education divorced from relevant long-term observations of the natural world.
 

@@ -63,7 +63,7 @@ against UV radiation (its original evolutionary purpose) and potentially
 harnessing ionizing radiation through a process analogous to radiosynthesis,
 where melanin converts radiation energy into chemical energy. This hypothesis
 remains controversial but has significant implications for understanding
-life's adaptability.
+life"s adaptability.
 
 ## Bioweathering Mechanisms
 

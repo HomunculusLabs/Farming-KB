@@ -8,7 +8,7 @@ type: concept
 
 Lawn culture represents one of the most resource-intensive and ecologically
 destructive land uses in modern civilization. [[bill-mollison]], in *Permaculture: A
-Designer's Manual*, presents a comprehensive critique of lawn agriculture and
+Designer"s Manual*, presents a comprehensive critique of lawn agriculture and
 argues that resources devoted to ornamental grass could meaningfully address
 global food insecurity.
 
@@ -63,7 +63,7 @@ with no productive or ecological return.
 
 ## Case Studies in Lawn Excess
 
-**Moloka'i, Hawai'i:** Golf courses consume approximately **$400,000 per year** in maintenance — money extracted from a fragile local economy for recreational turf. Equivalent acreage in food gardens could produce significant fresh food at a fraction of the cost.
+**Moloka"i, Hawai'i:** Golf courses consume approximately **$400,000 per year** in maintenance — money extracted from a fragile local economy for recreational turf. Equivalent acreage in food gardens could produce significant fresh food at a fraction of the cost.
 
 **Perth, Western Australia:** Lawns require approximately **254 cm of water per year** — extraordinary in a Mediterranean-climate region where freshwater is limited and seasonal drought is the norm. English-style lawns represent a colonial aesthetic imposed on an unsuitable landscape.
 

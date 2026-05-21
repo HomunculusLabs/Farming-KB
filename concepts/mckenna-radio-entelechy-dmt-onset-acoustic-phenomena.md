@@ -4,7 +4,7 @@ aliases: ["radio entelechy DMT", "DMT mckenna-dmt-onset-phenomenology-ripping-ce
 tags: [dmt, tryptamines, phenomenology, auditory, mckenna, onset]
 ---
 
-## McKenna's Radio Entelechy and DMT Onset Acoustic Phenomena
+## McKenna"s Radio Entelechy and DMT Onset Acoustic Phenomena
 
 ## Overview
 
@@ -18,7 +18,7 @@ These auditory phenomena, occurring alongside the more widely discussed visual t
 
 ## The Onset Sequence
 
-McKenna's account of DMT onset is remarkably precise and has been corroborated by numerous subsequent reports.
+McKenna"s account of DMT onset is remarkably precise and has been corroborated by numerous subsequent reports.
 
 Once smoked, the onset begins in approximately fifteen seconds. The experiencer falls immediately into a trance state with eyes closed. The auditory phenomena begin first: the ripping cellophane sound and the ascending tone.
 

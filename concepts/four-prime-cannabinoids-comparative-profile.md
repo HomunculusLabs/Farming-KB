@@ -4,7 +4,7 @@ tags:
   - concept
 ---
 
-Uwe Blesching's [[beta-caryophyllene-dietary-cannabinoid]] found in common spices). Each
+Uwe Blesching"s [[beta-caryophyllene-dietary-cannabinoid]] found in common spices). Each
 interacts with the endocannabinoid system through distinct receptor mechanisms,
 producing overlapping yet differentiated [[cultivator-strain-selection-and-stock-culture]]
 personalized cannabis therapy.
@@ -14,7 +14,7 @@ personalized cannabis therapy.
 Anandamide—named from the Sanskrit word *ananda*, meaning "bliss"—is an
 endogenous cannabinoid and neurotransmitter produced in human cell membranes.
 It binds at both CB1 and CB2 receptor sites, producing effects very similar to
-THC at the proper therapeutic dose. Anandamide serves as the body's natural
+THC at the proper therapeutic dose. Anandamide serves as the body"s natural
 modulator of mood, pain, and social behavior.
 
 **Receptor affinity**: Binds CB1 and CB2 (partial agonist).
@@ -29,14 +29,14 @@ characterized by impaired social behavior, including autism.
 **Modulation**: Anandamide is produced on demand and rapidly degraded by the
 enzyme FAAH (fatty acid amide hydrolase). Exercise—particularly high-intensity
 endurance running—significantly increases anandamide levels, contributing to the
-"runner's high." Meaningful social interactions, meditation, and the presence
+"runner"s high." Meaningful social interactions, meditation, and the presence
 of corticosteroids (released during exercise) also boost anandamide production.
 Anandamide inhibits norepinephrine, contributing to its calming effects.
 
 **Unique feature**: Unlike plant cannabinoids that must be ingested or inhaled,
 anandamide is continuously produced and degraded by the body as part of normal
 endocannabinoid tone. FAAH inhibitors are being investigated as therapeutic
-agents to extend anandamide's natural effects.
+agents to extend anandamide"s natural effects.
 
 ## Tetrahydrocannabinol (THC): The Primary Psychoactive Cannabinoid
 

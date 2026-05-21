@@ -67,7 +67,7 @@ Fresh mushrooms are often considered slightly different in character — some us
 
 ### Heroic Dose: 5.0g+
 
-- Full [[mystical-experience]] in the "hero's journey" framework (as described by [[terence-mckenna]])
+- Full [[mystical-experience]] in the "hero"s journey" framework (as described by [[terence-mckenna]])
 - Complete ego dissolution probable
 - Extreme vulnerability; requires expert guidance or extensive personal experience
 - Minimum 8 hours with no responsibilities; ideally a full day with nothing scheduled the following day
@@ -101,7 +101,7 @@ Potency varies dramatically between species. The following conversion factors ad
 | Species | Potency Factor | Notes |
 |---------|---------------|-------|
 | Psilocybe mexicana | 2.0-3.0x | Requires 2-3x cubensis dose for equivalent effects |
-| Psilocybe tampanensis | 2.0-3.0x | Also cultivated as "philosopher's stones" (sclerotia) |
+| Psilocybe tampanensis | 2.0-3.0x | Also cultivated as "philosopher"s stones" (sclerotia) |
 | Amanita muscaria | Not comparable | Different active compounds (muscimol, ibotenic acid); see [[fungal-toxins-reference]] |
 
 ## Dosage by Body Weight

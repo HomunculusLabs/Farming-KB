@@ -17,7 +17,7 @@ sources:
 
 - A constituent of [[serotonin]] receptors.
 
-## Hofmann's Personal Reflections
+## Hofmann"s Personal Reflections
 
 Hofmann's self-experiment report reveals a scientist approaching his own body as an instrument of pharmacological inquiry. His careful, hour-by-hour documentation of subjective effects follows the methodology he established during his original [LSD discovery in 1943, when he first recognized the psychoactive properties of that compound through self-experimentation.
 

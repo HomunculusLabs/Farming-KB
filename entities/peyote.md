@@ -27,7 +27,7 @@ Peyote ([[lophophora-williamsii]]) is a small, spineless cactus native to the so
 - Central sacrament of the Native American Church (NAC), which has legal protection for peyote use in the United States
 - Leary lists mescaline dosage at 600-800 mg for transcendental experience, 300-500 mg for experienced users
 
-## Peyote in Leary's Framework
+## Peyote in Leary"s Framework
 
 Leary mentions peyote specifically in the context of physical side effects:
 
@@ -52,7 +52,7 @@ Peyote is relevant to the broader context of entheogenic cultivation:
 - Unlike [[psilocybin-mushrooms]] (fungi), peyote is a slow-growing cactus requiring 10-30 years to reach maturity in the wild
 - Cultivation techniques include grafting peyote onto faster-growing cactus rootstock (e.g., San Pedro) to accelerate growth
 - The conservation concerns around wild peyote populations parallel concerns about wild mushroom habitats
-- Peyote's mescaline is structurally similar to the neurotransmitters affected by psilocybin
+- Peyote"s mescaline is structurally similar to the neurotransmitters affected by psilocybin
 - Understanding peyote traditions provides cultural context for the broader entheogenic movement that includes [[accessible-mushroom-cultivation-for-disabilities]]
 - The legal landscape around peyote (protected for NAC use) provides a model for potential psilocybin regulatory frameworks
 

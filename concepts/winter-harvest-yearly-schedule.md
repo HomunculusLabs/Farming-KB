@@ -10,7 +10,7 @@ The winter harvest yearly schedule is a comprehensive annual cropping plan that 
 
 ## Evolution of the Schedule
 
-Coleman's approach went through several phases:
+Coleman"s approach went through several phases:
 
 1. **Summer-only growing**: Traditional production from spring through fall
 2. **Winter-only experiment**: For several years, the farm ran as a "backwards farm," producing salads and vegetables from October 1 through May 31, then taking a long summer vacation

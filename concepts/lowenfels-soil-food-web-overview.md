@@ -20,7 +20,7 @@ and thus a different soil food web. The concept was popularized by Dr. Elaine
 Ingham at Oregon State University, who wrote the foreword to "Teaming with
 Microbes."
 
-## The Web's Members
+## The Web"s Members
 
 A mere teaspoon of good garden soil contains staggering numbers of organisms: a
 billion invisible bacteria, several yards of [[comparison-biointensive-vs-square-foot-gardening]]), centipedes, springtails, ants, slugs, beetle larvae, and

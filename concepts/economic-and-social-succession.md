@@ -56,7 +56,7 @@ Cultural succession occurs within families through a classic pattern that rides 
 
 ### Limits of Affluence as Climax
 
-Like rapid succession of gentrification, evidence suggests the transition to affluence is not a final stable climax state but a **pulse of consumption** not sustained over generations. The common maxim — "the first generation creates the wealth, the second spends it, and the third loses it" — reflects widespread understanding of affluence's limits.
+Like rapid succession of gentrification, evidence suggests the transition to affluence is not a final stable climax state but a **pulse of consumption** not sustained over generations. The common maxim — "the first generation creates the wealth, the second spends it, and the third loses it" — reflects widespread understanding of affluence"s limits.
 
 While aristocracy and the rich have maintained affluent lineages for many generations, this has been achieved in contexts where their distinction from the masses and small numbers help maintain their culture. If everyone were equally rich, elites could not maintain distinctive culture.
 

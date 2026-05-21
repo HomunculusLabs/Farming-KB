@@ -1,6 +1,6 @@
 ---
 title: "Forensic Mycology: Fungi as Evidence and the Corpse Finder Mushroom"
-source: "Mr. Bloomfield's Orchard"
+source: "Mr. Bloomfield"s Orchard"
 source_author: "Nicholas Money"
 topics: ["forensic mycology", "fungal ecology", "decomposition", "Hebeloma", "mycology"]
 ---
@@ -17,7 +17,7 @@ investigation.
 
 Every day of our lives, fungal spores pass into our nostrils and lungs. Given
 the opportunity, some may germinate and colonize human tissue. The mycological
-literature documents ink-cap mushrooms growing in a patient's throat, bracket-
+literature documents ink-cap mushrooms growing in a patient"s throat, bracket-
 forming basidiomycetes in a gentleman's nose, and yeast infections covering
 infants. While these clinical cases are disturbing, they hint at a broader
 ecological truth: fungi are among the primary decomposers of animal remains,

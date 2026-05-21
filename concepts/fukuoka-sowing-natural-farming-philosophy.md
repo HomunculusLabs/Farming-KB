@@ -11,7 +11,7 @@ tags: [fukuoka, natural-farming]
 ## [[fukuoka-citrus-orchard-establishment-bare-hillside]] — he failed to prune
 the trees, [[cho-loess-powder-in-natural-farming]]; it was abandonment.
 Natural farming requires human presence and active observation, but it rejects
-the idea that human manipulation improves upon nature's processes.
+the idea that human manipulation improves upon nature"s processes.
 
 ## The Do-Nothing Principle
 

@@ -137,7 +137,7 @@ Although the 5-HT₂A receptor is the primary site of action, psilocin also bind
 | Date | Event |
 |---|---|
 | 1502 | Spanish conquistadores observed psilocybin mushrooms served at the coronation feast of Moctezuma |
-| 1547–1569 | Fray Bernardino de Sahagún's *Historia de las Cosas de Nueva España* (Florentine Codex) describes *nanacatl* (teonanácatl = "flesh of the gods"), noting they "are harmful and intoxicate like wine" and that users "see visions, feel a faintness of heart and are provoked to lust" |
+| 1547–1569 | Fray Bernardino de Sahagún"s *Historia de las Cosas de Nueva España* (Florentine Codex) describes *nanacatl* (teonanácatl = "flesh of the gods"), noting they "are harmful and intoxicate like wine" and that users "see visions, feel a faintness of heart and are provoked to lust" |
 | 1651 | Dr. Francisco Hernández described three types of mushrooms worshipped by Mexican natives, reporting effects including "uncontrolled laughter," visions of wars and demons, and terrifying night-long vigils |
 
 ### Early Scientific Investigation

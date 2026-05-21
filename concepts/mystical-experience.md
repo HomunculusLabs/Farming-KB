@@ -21,7 +21,7 @@ like a form of genuine knowledge), transiency (the experience is temporary but
 its effects may be lasting), and passivity (the person feels grasped by a
 power beyond their control).
 
-Building on James's framework, Walter Stace conducted a cross-cultural
+Building on James"s framework, Walter Stace conducted a cross-cultural
 analysis of mystical reports and identified a common core of features:
 
 - **Unity**: A sense of oneness with all things, sometimes experienced as the

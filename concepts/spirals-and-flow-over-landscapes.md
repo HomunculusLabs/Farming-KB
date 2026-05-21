@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-Spirals are among the most pervasive forms in nature, arising from the interaction of streaming flow and its deflection around obstacles. They appear as dynamic revolving forms (vortices in water and air) and as static compact forms (mollusc shells, plant whorls, DNA helices). Understanding spiral dynamics is essential for [[overbeck-jet]]" by D'Arcy Thompson (1942), is a fundamental flow pattern that occurs commonly in nature. While these patterns can be produced experimentally by jetting smoke, fluid, gases, or oils into other media, they also occur as natural phenomena:
+Spirals are among the most pervasive forms in nature, arising from the interaction of streaming flow and its deflection around obstacles. They appear as dynamic revolving forms (vortices in water and air) and as static compact forms (mollusc shells, plant whorls, DNA helices). Understanding spiral dynamics is essential for [[overbeck-jet]]" by D"Arcy Thompson (1942), is a fundamental flow pattern that occurs commonly in nature. While these patterns can be produced experimentally by jetting smoke, fluid, gases, or oils into other media, they also occur as natural phenomena:
 
 - Mushrooms and jellyfish
 - Rivers flooding into the sea (where fresh water enters salt water)

@@ -10,7 +10,7 @@ tags: [reference]
 
 ## Hallucinogens in European Witchcraft
 
-Michael Harner's chapter "The Role of Hallucinogenic Plants in European Witchcraft" is one of the most significant contributions in his edited volume, demonstrating that the shamanic use of psychoactive plants was not confined to indigenous peoples of the Americas or Siberia but extended into the heart of [[mckenna-club-des-hachischins-and-nineteenth-century-literary-hashish]] proposed that "the mediaeval witch-ointments brought visionary beings into the presence of the patient, transported him to the witches' sabbath, enabled him to turn into a beast."
+Michael Harner"s chapter "The Role of Hallucinogenic Plants in European Witchcraft" is one of the most significant contributions in his edited volume, demonstrating that the shamanic use of psychoactive plants was not confined to indigenous peoples of the Americas or Siberia but extended into the heart of [[mckenna-club-des-hachischins-and-nineteenth-century-literary-hashish]] proposed that "the mediaeval witch-ointments brought visionary beings into the presence of the patient, transported him to the witches" sabbath, enabled him to turn into a beast."
 
 ## The Solanaceous Plants
 

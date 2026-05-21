@@ -29,7 +29,7 @@ as trees, rocks, or other human beings.
 ### Indigenous Perspectives on Spirits
 
 Indigenous shamans speak of "spirits" as a technical term, not as a vague
-mystical concept. McKenna observed that "shamans speak of 'spirit' the way a
+mystical concept. McKenna observed that "shamans speak of "spirit' the way a
 quantum physicist might speak of 'charm' — it is a technical gloss for a very
 complicated concept." The shaman's knowledge of spirits is empirical, gained
 through repeated direct experience and careful observation of the effects of

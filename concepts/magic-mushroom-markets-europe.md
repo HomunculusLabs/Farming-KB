@@ -38,12 +38,12 @@ Marketed mushrooms came in several forms with various brand/trade names:
 | Fresh mushrooms | Whole fruiting bodies, sold refrigerated |
 | Dried mushrooms | Dehydrated, longer shelf life |
 | Mushroom chocolate | Dried mushrooms incorporated into chocolate |
-| Truffles/sclerotia | *P. mexicana* and *P. tampanensis* sclerotia marketed as "philosopher's stones" |
+| Truffles/sclerotia | *P. mexicana* and *P. tampanensis* sclerotia marketed as "philosopher"s stones" |
 | Grow kits | Pre-inoculated substrate for home cultivation |
 | Spore syringes | For inoculating substrate (legal in most jurisdictions) |
 
 Common varieties marketed included *P. cubensis* strains: Mexican, Thai,
-Colombian, Amazonian, Hawaiian, and others. The "Philosopher's Stone"
+Colombian, Amazonian, Hawaiian, and others. The "Philosopher"s Stone"
 (truffles from *P. mexicana* and *P. tampanensis*) were marketed as a more
 potent and discreet alternative.
 

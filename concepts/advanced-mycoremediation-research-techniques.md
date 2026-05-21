@@ -34,7 +34,7 @@ Promising native or lab-trained strains can undergo further improvement through 
 
 Bacterial contact can stimulate fungi to release various metabolites through complex signaling pathways. These metabolites may encourage or limit bacterial growth depending on the fungal species and the bacterial partner involved. Researchers study these interactions using "behavioral galleries" or "behavioral plates"—petri dishes subplated with two or more species with space between them.
 
-Classic examples include studying penicillin's inhibitory effect on gram-positive bacteria such as *Streptococcus* or *Staphylococcus*. The inhibition zone around the fungal colony reveals the diffusion radius and effective concentration of the antibiotic compound.
+Classic examples include studying penicillin"s inhibitory effect on gram-positive bacteria such as *Streptococcus* or *Staphylococcus*. The inhibition zone around the fungal colony reveals the diffusion radius and effective concentration of the antibiotic compound.
 
 ### Metabolite Isolation and Characterization
 

@@ -43,7 +43,7 @@ Octenol (1-octen-3-ol) is a volatile organic compound produced by mushrooms and 
 
 ## Relevance to Cultivation and Mycology
 
-Octenol bridges the fields of mycology and public health by connecting mushroom biology with vector-borne disease prevention. For mushroom cultivators, understanding octenol production is important for two reasons: first, it explains why mushroom operations attract mosquitoes and fungus gnats, requiring [[forest-management-strategies]]; second, it provides a biological tool for mosquito control that can be integrated into cultivation systems, particularly in tropical regions where malaria, dengue fever, and yellow fever are endemic. Cotter's insight that oyster mushrooms naturally produce this commercially valuable attractant transforms a cultivation "pest problem" into a public health intervention.
+Octenol bridges the fields of mycology and public health by connecting mushroom biology with vector-borne disease prevention. For mushroom cultivators, understanding octenol production is important for two reasons: first, it explains why mushroom operations attract mosquitoes and fungus gnats, requiring [[forest-management-strategies]]; second, it provides a biological tool for mosquito control that can be integrated into cultivation systems, particularly in tropical regions where malaria, dengue fever, and yellow fever are endemic. Cotter"s insight that oyster mushrooms naturally produce this commercially valuable attractant transforms a cultivation "pest problem" into a public health intervention.
 
 ## Environmental Significance
 

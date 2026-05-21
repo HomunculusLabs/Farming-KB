@@ -6,7 +6,7 @@ type: concept
 
 ## Fall and Winter Planting Schedules
 
-Planning fall and winter planting schedules is one of the most critical and nuanced aspects of year-round vegetable production. [[eliot-coleman]]'s system relies on precise timing across multiple growing environments — outdoor fields, early greenhouses, later greenhouses, and cool greenhouses — to ensure continuous harvests through the coldest months.
+Planning fall and winter planting schedules is one of the most critical and nuanced aspects of year-round vegetable production. [[eliot-coleman]]"s system relies on precise timing across multiple growing environments — outdoor fields, early greenhouses, later greenhouses, and cool greenhouses — to ensure continuous harvests through the coldest months.
 
 ## The Four Planting Sites
 
@@ -39,7 +39,7 @@ This underscores that planting schedules are inherently local and must be adapte
 
 ### Arugula
 
-Arugula is one of the most cold-hardy salad greens and tolerates repeated cutting. Coleman's schedule reflects its versatility:
+Arugula is one of the most cold-hardy salad greens and tolerates repeated cutting. Coleman"s schedule reflects its versatility:
 
 | Site | Sowing Dates |
 |------|-------------|
@@ -100,7 +100,7 @@ Spinach thrives in cold conditions and is a cornerstone of winter production:
 
 ### Latitude Adjustments
 
-Coleman's farm is at approximately 44°N latitude. The timing of the Persephone period (10-hour day) varies by latitude:
+Coleman"s farm is at approximately 44°N latitude. The timing of the Persephone period (10-hour day) varies by latitude:
 
 - **Further south** (35°N): Persephone period is shorter and later; sowings can be later
 - **Further north** (50°N+): Persephone period is longer and earlier; sowings must be earlier
@@ -120,7 +120,7 @@ Local conditions — elevation, proximity to water bodies, wind exposure, and ur
 Coleman's planting philosophy draws on a rich tradition of intensive vegetable cultivation, particularly the French *maraîcher* (market gardener) system. Key historical references include:
 
 - **Aguatias (1913)** — Identified "manure, water, and labor" as the backbone of intensive culture
-- **Henderson's *Gardening for Profit* (1867)** — The first American book on market gardening
+- **Henderson"s *Gardening for Profit* (1867)** — The first American book on market gardening
 - **Smith's *French Gardening* (1909)** — Clear presentation of intensive production systems funded by [[joseph-fels]]
 - **Macself's *French Intensive Gardening* (1932)** — Hard data with excellent illustrations from a competent practitioner
 - **Kropotkin's *Fields, Factories and Workshops* (1901)** — Perceptive observations called "one of the canonical texts of the ecological tradition" by *The Ecologist*

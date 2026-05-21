@@ -53,7 +53,7 @@ Nitrogen fixation by legumes per acre:
 | Sweet white clover | 160 | Sweet potatoes and above |
 | Alfalfa | 250 | Corn, beans, tomatoes and all above |
 
-**Critical timing**: Before flowering, up to 60% of a legume's nitrogen is in its leaves (only half from root nodules). After seed pods form, 70% has moved to seeds and only 8% remains in leaves. The roots and nodules retain only 3-6%. **Till in or cut before flowering** for maximum nitrogen release.
+**Critical timing**: Before flowering, up to 60% of a legume"s nitrogen is in its leaves (only half from root nodules). After seed pods form, 70% has moved to seeds and only 8% remains in leaves. The roots and nodules retain only 3-6%. **Till in or cut before flowering** for maximum nitrogen release.
 
 **Myth: Beans Feed Corn** — The idea that beans share nitrogen with corn in the same season is largely false. Legumes bank nitrogen for their seeds, not for neighboring plants. However, when legumes die and nodules decompose, nitrogen becomes available to subsequent crops. Rotation, not interplanting, is the effective strategy.
 

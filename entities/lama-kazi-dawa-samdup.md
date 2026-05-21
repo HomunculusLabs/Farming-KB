@@ -34,7 +34,7 @@ Dawa-Samdup held that Adi-Buddha and [[dharma-kaya]] deities are personification
 
 4. His translation of the Bardo Thodol was the first complete English version of this foundational text.
 
-5. The translation was edited and published by W.Y. Evans-Wentz after Dawa-Samdup's death in 1922.
+5. The translation was edited and published by W.Y. Evans-Wentz after Dawa-Samdup"s death in 1922.
 
 6. He held that Adi-Buddha and Dharma-Kaya deities are personifications of primordial universal forces.
 

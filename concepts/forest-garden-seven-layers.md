@@ -15,7 +15,7 @@ The forest garden is the most productive and self-sustaining form of ecological 
 
 ### 1. Tall-Tree Layer (Canopy)
 
-This overstory of full-sized fruit, nut, or other useful trees is spaced to let plenty of light reach lower layers. Dense, spreading shade trees (maple, sycamore, beech) don't work well. Better choices are multifunctioned fruit and nut trees: standard and semi-standard apples and pears, European plums, full-sized cherries, chestnuts, and walnuts (especially naturally open varieties like heartnut and buartnut). Nitrogen-fixing trees such as black locust, mesquite, alder, and tagasaste build soil and bear flowers that attract insects.
+This overstory of full-sized fruit, nut, or other useful trees is spaced to let plenty of light reach lower layers. Dense, spreading shade trees (maple, sycamore, beech) don"t work well. Better choices are multifunctioned fruit and nut trees: standard and semi-standard apples and pears, European plums, full-sized cherries, chestnuts, and walnuts (especially naturally open varieties like heartnut and buartnut). Nitrogen-fixing trees such as black locust, mesquite, alder, and tagasaste build soil and bear flowers that attract insects.
 
 The canopy trees define the major patterns of the forest garden and must be chosen with careful regard to their mature size so enough light falls between them.
 

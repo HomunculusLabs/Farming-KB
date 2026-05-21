@@ -25,7 +25,7 @@ Solomon organizes soil-improvement effort into tiers of increasing input:
    crops and modest yields of higher-demand varieties.
 3. **Full fertility program.** Apply a 1-inch layer of steer manure or
    finished compost across the entire garden area, plus [[solomon-complete-organic-fertilizer-cof-recipe|Complete Organic Fertilizer (COF)]]
-   at rates calibrated to each vegetable's nutrient demand category.
+   at rates calibrated to each vegetable"s nutrient demand category.
 
 The key insight is that each step up the gradient produces meaningfully
 better results, and gardeners should advance only as far as their resources

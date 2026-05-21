@@ -16,7 +16,7 @@ A palliative, derived from the Latin *pallium* (a cloak), is an action that less
 
 ## The First Rule of Biological Agriculture
 
-The first rule is simple yet profound: **"Nature makes sense."** If something is not working in your farming system, it is the farmer's error, not Nature's fault. This requires faith in the rational design of the natural world and an expectation that success is achievable when working with, rather than against, natural processes. A plant troubled by pests becomes a coworker rather than an adversary—it is communicating that conditions need improvement.
+The first rule is simple yet profound: **"Nature makes sense."** If something is not working in your farming system, it is the farmer"s error, not Nature's fault. This requires faith in the rational design of the natural world and an expectation that success is achievable when working with, rather than against, natural processes. A plant troubled by pests becomes a coworker rather than an adversary—it is communicating that conditions need improvement.
 
 ## Diagnostic Questions for the Farmer
 

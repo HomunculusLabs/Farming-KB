@@ -2,7 +2,7 @@
 title: "Podophyllum Peltatum"
 type: entity
 tags: []
-sources: ['raw/papers/what-a-plant-knows-daniel-chamovitz.md']
+sources: ["raw/papers/what-a-plant-knows-daniel-chamovitz.md']
 ---
 
 The species is immediately recognizable by its single large, umbrella-like leaf (two leaves in mature, fruiting plants) and the single waxy white flower that nodds beneath the leaf canopy. The common name "mayapple" reflects its emergence in spring and the apple-like fruit that ripens in late summer.

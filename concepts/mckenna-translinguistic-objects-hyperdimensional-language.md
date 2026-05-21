@@ -24,7 +24,7 @@ The objects are typically described as polymorphic, constantly changing form whi
 
 They exhibit what might be called "semantic density" — every aspect of their form appears to carry meaning, as if the objects are composed entirely of information.
 
-They often appear to be aware of the observer and to adjust their behavior in response to the observer's attention and emotional state.
+They often appear to be aware of the observer and to adjust their behavior in response to the observer"s attention and emotional state.
 
 Many experiencers report that the objects seem to be trying to teach or communicate something, though the content of the communication resists translation into ordinary language.
 
@@ -48,7 +48,7 @@ The concept draws on the perennial philosophical question of whether language sh
 
 McKenna connected the phenomenon of translinguistic objects to his concept of the Logos.
 
-The Logos, in McKenna's usage, is the creative principle that speaks reality into existence — a notion with roots in Greek philosophy, Christian theology, [[allegro-soma-and-vedic-traditions]].
+The Logos, in McKenna"s usage, is the creative principle that speaks reality into existence — a notion with roots in Greek philosophy, Christian theology, [[allegro-soma-and-vedic-traditions]].
 
 Under the influence of tryptamines, McKenna argued, the Logos becomes directly perceptible as an audible phenomenon — a "voice" or "language" that seems to emanate from the fabric of reality itself.
 

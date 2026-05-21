@@ -23,7 +23,7 @@ cheap by 1980 that it would be "too cheap to meter." This prediction
 proved spectacularly wrong. Nuclear electricity remains among the most
 expensive forms of power generation when all costs are accounted for.
 
-Holmgren frames Permaculture's relevance within a future of declining
+Holmgren frames Permaculture"s relevance within a future of declining
 energy, but considers what its relevance might be in "some brave new
 world of abundant energy and resources (nuclear, [[holmgren-biomass-fuels-and-energy-yield-ratios]] provides far greater real energy return than
 any nuclear or high-tech alternative. Trees, as

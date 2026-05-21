@@ -8,7 +8,7 @@ sources:
   - "raw/papers/masanobu-fukuoka-the-road-back-to-nature.md"
 ---
 
-## Fukuoka's Desert Greening and Plant Irrigation Method
+## Fukuoka"s Desert Greening and Plant Irrigation Method
 
 **Updated:** 2026-04-18
 

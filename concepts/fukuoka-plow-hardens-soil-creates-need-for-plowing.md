@@ -16,7 +16,7 @@ field and stirring it with a plow makes the ground set hard as plaster, which th
 more plowing to soften. This creates a vicious cycle where killing soil with plows and chemical
 fertilizers produces weak, diseased rice that demands yet more chemical intervention. Fukuoka
 insists that no plant is so weak as to germinate only in plowed soil, and that microorganisms
-and small animals serve as nature's own tillers, making human plowing entirely unnecessary.
+and small animals serve as nature"s own tillers, making human plowing entirely unnecessary.
 
 ## Key Concepts
 
@@ -24,7 +24,7 @@ Fukuoka's critique of the plow begins with a simple, undeniable physical observa
 field with water, stir it up with a plow and the ground will set as hard as plaster." This is
 not a gradual degradation that happens over decades of abuse. It is an immediate, predictable
 consequence of the act of plowing itself. The very tool that farmers believe they need to
-"soften" the soil is the direct cause of the soil's hardness. "If the soil dies and hardens,
+"soften" the soil is the direct cause of the soil"s hardness. "If the soil dies and hardens,
 then it must be plowed each year to soften it. All we are doing is creating the conditions that
 make a plow useful, then rejoicing at the utility of our tool."
 
@@ -32,7 +32,7 @@ This passage reveals what Fukuoka sees as one of the fundamental delusions of mo
 the confusion of a problem with its solution. The plow does not solve the problem of hard soil;
 it creates that problem. Yet because the plow temporarily breaks up the hardened surface it
 created, farmers experience a cycle in which the tool appears necessary. Each year the soil
-hardens from the previous year's plowing and flooding, and each year the farmer must plow again
+hardens from the previous year"s plowing and flooding, and each year the farmer must plow again
 to undo the damage. The solution perpetuates the problem it claims to solve, and the farmer
 never notices because the cycle is so deeply ingrained in agricultural practice that it appears
 to be a natural and inevitable part of farming.

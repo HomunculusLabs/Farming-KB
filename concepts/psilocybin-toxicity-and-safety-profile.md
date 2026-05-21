@@ -70,7 +70,7 @@ Most researchers, including gordon-wasson, strongly advised against usage of hal
 - Numerous internal conflicts arise during this period that need to be dealt with and integrated
 - [Hallucinogenic substances, including psilocybin, are bound to release a stream of new emotions and conflicts
 - Such experiences often serve to confuse teenaged users and compound existing areas of conflict
-- The escapist aspect of psychedelic use, portrayed against a backdrop of political upheaval, has historically fueled reactionary [[timothy-leary]]'s supporters, later disparaged by critics as "excessively glamorous"
+- The escapist aspect of psychedelic use, portrayed against a backdrop of political upheaval, has historically fueled reactionary [[timothy-leary]]"s supporters, later disparaged by critics as "excessively glamorous"
 - **Psychoesthetica** -- Used for low-dose experiences involving magical transformation of surroundings with heightened color perception
 - **Psycholytics** -- Used in therapeutic contexts emphasizing dissolution of psychological defenses
 - **Psychomimetics** -- Emphasizes similarity to psychosis (a characterization rejected by most experienced clinicians)

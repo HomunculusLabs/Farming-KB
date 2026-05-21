@@ -67,7 +67,7 @@ Commercial Ganoderma cultivation employs several distinct approaches:
 
 - **G. lucidum / G. lingzhi:** The classic "reishi" — lacquered, kidney-shaped conks
 - **G. tsugae:** Found on hemlock trees in North America
-- **G. applanatum:** "Artist's conk" — non-lacquered, woody bracket
+- **G. applanatum:** "Artist"s conk" — non-lacquered, woody bracket
 - **G. curtisii:** Yellow-tinted, southeastern North America
 - **G. oregonense:** Large species native to Pacific Northwest
 

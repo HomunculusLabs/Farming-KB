@@ -28,7 +28,7 @@ Charas is a traditional form of hand-pressed cannabis concentrate originating fr
 
 ## Relevance to Cultivation and Processing
 
-Charas represents the traditional endpoint of cannabis resin collection — a technique that relies on the natural stickiness of mature trichomes rather than chemical extraction. In the context of *Cannabis Alchemy*, charas serves as the gold standard for hashish texture. The book's method for preparing hashish from cannabis oil involves mixing purified (and optionally isomerized/acetylated) oil with finely powdered marijuana to achieve a product with the consistency and appearance of charas, but with dramatically higher and more controllable potency. The traditional charas-making regions of Nepal and India remain culturally significant centers of [[lemon-cannabis-alchemy-hashish-preparation]] |
+Charas represents the traditional endpoint of cannabis resin collection — a technique that relies on the natural stickiness of mature trichomes rather than chemical extraction. In the context of *Cannabis Alchemy*, charas serves as the gold standard for hashish texture. The book"s method for preparing hashish from cannabis oil involves mixing purified (and optionally isomerized/acetylated) oil with finely powdered marijuana to achieve a product with the consistency and appearance of charas, but with dramatically higher and more controllable potency. The traditional charas-making regions of Nepal and India remain culturally significant centers of [[lemon-cannabis-alchemy-hashish-preparation]] |
 |---|---|---|
 | Method | Hand-rubbing live flowers | Oil + powdered plant mixing |
 | Potency | Variable (8–25% THC) | Controllable (up to 60%+ oil) |

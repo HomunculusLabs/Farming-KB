@@ -19,7 +19,7 @@ The Mescalero Indian Reservation is a Native American reservation in south-centr
 
 ## Tribal History
 
-The reservation's population reflects a complex history of Apache consolidation:
+The reservation"s population reflects a complex history of Apache consolidation:
 
 - **Mescaleros:** The original tribe for whom the reservation was established in 1873
 - **Chiricahuas:** Taken as prisoners of war in 1886 after Geronimo's capitulation; when freed in 1913, the majority chose to move to the Mescalero Reservation and merge with the Mescalero tribe

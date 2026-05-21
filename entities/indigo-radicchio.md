@@ -8,7 +8,7 @@ type: entity
 
 ## Description
 
-'Indigo' is a radicchio variety (chicory, Cichorium intybus) grown on Eliot Coleman's farm as part of the diverse selection of cold-hardy winter vegetables. Radicchio is a bitter leafy vegetable in the chicory family that performs exceptionally well in unheated winter greenhouse environments, developing deeper color and improved flavor in cool conditions.
+"Indigo' is a radicchio variety (chicory, Cichorium intybus) grown on Eliot Coleman's farm as part of the diverse selection of cold-hardy winter vegetables. Radicchio is a bitter leafy vegetable in the chicory family that performs exceptionally well in unheated winter greenhouse environments, developing deeper color and improved flavor in cool conditions.
 
 ## Classification
 

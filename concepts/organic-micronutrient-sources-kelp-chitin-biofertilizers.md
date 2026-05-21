@@ -23,7 +23,7 @@ Bat guano (feces and urine of cave-dwelling bats) comes in high-nitrogen and hig
 
 ### Colloidal Rock Phosphate (N–P–K 0–2.5–0)
 
-Also called soft rock phosphate, this material consists of clay particles surrounded by phosphate. The clay component improves the soil's cation and anion exchange capacities. Colloidal rock phosphate releases phosphorus slowly over years — some gardeners report it works better in the second and third years after application. It remains available for 3 to 5 years depending on rainfall and watering patterns. Placement is critical: rock phosphates perform best when positioned where roots will directly intercept the particles, as they rely on mycorrhizal hyphae or diffusion to reach root surfaces.
+Also called soft rock phosphate, this material consists of clay particles surrounded by phosphate. The clay component improves the soil"s cation and anion exchange capacities. Colloidal rock phosphate releases phosphorus slowly over years — some gardeners report it works better in the second and third years after application. It remains available for 3 to 5 years depending on rainfall and watering patterns. Placement is critical: rock phosphates perform best when positioned where roots will directly intercept the particles, as they rely on mycorrhizal hyphae or diffusion to reach root surfaces.
 
 ### Crab Shell Meal (N–P–K 2–3–0)
 
@@ -41,7 +41,7 @@ Used for centuries as a potassium source (historically called "pot ash"), wood a
 
 ### Sulfate of Potash (N–P–K 0–0–2)
 
-Often labeled Sul-Po-Mag, this mineral salt is highly water-soluble and contains 23% sulfur, 22% potash, and 11% magnesium. Some organic gardeners consider it borderline because it doesn't add organic bulk to soils. Its solubility makes it fast-acting but short-lived (approximately 2 months).
+Often labeled Sul-Po-Mag, this mineral salt is highly water-soluble and contains 23% sulfur, 22% potash, and 11% magnesium. Some organic gardeners consider it borderline because it doesn"t add organic bulk to soils. Its solubility makes it fast-acting but short-lived (approximately 2 months).
 
 ## Calcium Sources
 

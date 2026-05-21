@@ -6,7 +6,7 @@ type: concept
 
 ## Wasted Human Resources and Traditional Knowledge
 
-The ingenuity and skill of traditional, mostly rural people — predominantly in poorer countries — represents one of the most underutilised resources on the planet. [[david-holmgren]] argues that the global economy systematically devalues these skills, destroys people's capacity to apply knowledge productively, and at best treats them as uneducated factory fodder. This devaluation occurs at the precise historical moment when this knowledge base represents humanity's greatest asset in the transition to reduced energy availability.
+The ingenuity and skill of traditional, mostly rural people — predominantly in poorer countries — represents one of the most underutilised resources on the planet. [[david-holmgren]] argues that the global economy systematically devalues these skills, destroys people"s capacity to apply knowledge productively, and at best treats them as uneducated factory fodder. This devaluation occurs at the precise historical moment when this knowledge base represents humanity's greatest asset in the transition to reduced energy availability.
 
 ## The Loss of Traditional Skills
 
@@ -55,7 +55,7 @@ EMERGY evaluations provide a more realistic measure of real wealth:
 
 *(× 10¹⁵ solar emjoules/year)*
 
-The surprisingly high EMERGY per person for Brazil and the extraordinary figure for Australia reflect the very high free services of nature, as well as mining of non-renewable resources and, in Australia's case, low population density.
+The surprisingly high EMERGY per person for Brazil and the extraordinary figure for Australia reflect the very high free services of nature, as well as mining of non-renewable resources and, in Australia"s case, low population density.
 
 ## Self-Reliance as the Most Powerful Action
 

@@ -13,7 +13,7 @@ tags:
 
 ## The Harvest Schedule
 
-[[eliot-coleman]]'s winter harvest operation runs on a strict twice-weekly schedule:
+[[eliot-coleman]]"s winter harvest operation runs on a strict twice-weekly schedule:
 Mondays and Thursdays. This rhythm provides customers with fresh produce at
 regular intervals, gives greenhouse crops adequate recovery time between
 harvests, and structures the farm crew's work week around a predictable cadence.
@@ -83,7 +83,7 @@ handled according to its specific needs.
 
 ## The "Pac Man" Salad Mixer
 
-The centerpiece of Coleman's wash/pack operation is a custom-built salad mixer
+The centerpiece of Coleman"s wash/pack operation is a custom-built salad mixer
 known as the "Pac Man." This device consists of a barrel measuring 48 by 36
 inches, mounted on a rotating frame. Greens are loaded along with a small
 amount of water, and the barrel is rotated 10 revolutions in one direction,

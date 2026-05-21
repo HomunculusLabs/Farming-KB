@@ -12,7 +12,7 @@ type: concept
 
 The species has a complex taxonomic history:
 
-- **1799:** First described indirectly by J. Sowerby as *Agaricus glutinosus* Curtis, following E. Brande's famous account of a family's intoxication in London's St. James's Green Park
+- **1799:** First described indirectly by J. Sowerby as *Agaricus glutinosus* Curtis, following E. Brande"s famous account of a family's intoxication in London's St. James's Green Park
 - **1818:** E. Fries formally described it as *Agaricus semilanceatus* in *Observationes Mycologicae*
 - **1870:** Kummer and Quélet classified it within the genus *Psilocybe*
 
@@ -24,7 +24,7 @@ The common name "liberty cap" refers to the distinctive conical shape of the cap
 
 ## The 1799 Brande Incident
 
-The earliest well-documented case of *P. semilanceata* intoxication occurred on October 3, 1799, in London. A poverty-stricken family collected mushrooms in St. James's Green Park, prepared them in a tinned iron saucepan, and ate them for breakfast. Symptoms appeared within an hour:
+The earliest well-documented case of *P. semilanceata* intoxication occurred on October 3, 1799, in London. A poverty-stricken family collected mushrooms in St. James"s Green Park, prepared them in a tinned iron saucepan, and ate them for breakfast. Symptoms appeared within an hour:
 
 - The 8-year-old son (who had eaten the largest portion) experienced **fits of immoderate laughter** that could not be restrained by threats
 - This progressed to vertigo and stupor, with periods of being roused only to relapse
@@ -132,11 +132,11 @@ The species does not favor specific areas of marked abundance but can produce hu
 Gartz hypothesizes that early European cultures likely knew about the psychoactive properties of *P. semilanceata* and related species, but this knowledge was lost during the aggressive repression of pre-Christian customs. Evidence includes:
 
 - **[[bwyd-ellylon]]** ("Feast of Fairies"): A Welsh legend describing a poisonous mushroom considered a delicacy by fairies, likely referring to *P. semilanceata* which grows abundantly in the Welsh countryside during fall
-- **Bolond gomba** ("fool's mushroom"): Documented by Clusius (1525–1609) in Hungary, used in love potions by wise women; also documented in Slovakia at the same time
-- **Witch trials in the Italian Alps:** The Inquisition was unusually active in the Valcamonica, Valtrompia, and Valtellina valleys at ~2,000 m altitude — where nightshade plants ("witching herbs") don't grow, fly agaric is rare, but *P. semilanceata* abounds during fall
+- **Bolond gomba** ("fool"s mushroom"): Documented by Clusius (1525–1609) in Hungary, used in love potions by wise women; also documented in Slovakia at the same time
+- **Witch trials in the Italian Alps:** The Inquisition was unusually active in the Valcamonica, Valtrompia, and Valtellina valleys at ~2,000 m altitude — where nightshade plants ("witching herbs") don"t grow, fly agaric is rare, but *P. semilanceata* abounds during fall
 - **Ancient rock drawings:** Northern European rock art depicting mushroom themes and zoomorphic entities predates accounts of the Berserkers by over 2,000 years
 - **Swedish summer solstice custom:** A poisonous mushroom ("Baran") was ritually cast into bonfires to destroy the powers of evil spirits, suggesting ancient knowledge of psychoactive mushrooms as links to the spirit world
 
 ### Mycophobia vs. Mycophilia
 
-The Wassons' concept of mycophilia (mushroom-loving cultures) vs. mycophobia (mushroom-fearing cultures) helps explain why knowledge of psychoactive mushrooms was preserved in Mexico but lost in Europe. In Mexico, mushroom knowledge was integrated into religion and daily life; in Europe, mushrooms were demonized and associated with poison, insanity, and devil worship — a bias that persists in colloquial expressions like the Austrian "He ate those madness-inducing mushrooms."
+The Wassons" concept of mycophilia (mushroom-loving cultures) vs. mycophobia (mushroom-fearing cultures) helps explain why knowledge of psychoactive mushrooms was preserved in Mexico but lost in Europe. In Mexico, mushroom knowledge was integrated into religion and daily life; in Europe, mushrooms were demonized and associated with poison, insanity, and devil worship — a bias that persists in colloquial expressions like the Austrian "He ate those madness-inducing mushrooms."

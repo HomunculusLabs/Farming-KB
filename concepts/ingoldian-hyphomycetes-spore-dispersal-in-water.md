@@ -83,7 +83,7 @@ The interplay between the specific topic discussed here and wider themes in scie
 
 ## The Lloyd Connection
 
-In February 1920, Buller spent a day with [[bloomfield-fungal-spore-discharge-and-dispersal]] studies established fundamental principles that continue to influence research on fungal dispersal biology. His name remains attached to "Buller's drop" and "Buller's phenomenon," ensuring his place in the permanent vocabulary of mycology.
+In February 1920, Buller spent a day with [[bloomfield-fungal-spore-discharge-and-dispersal]] studies established fundamental principles that continue to influence research on fungal dispersal biology. His name remains attached to "Buller"s drop" and "Buller"s phenomenon," ensuring his place in the permanent vocabulary of mycology.
 
 ## Practical Applications
 

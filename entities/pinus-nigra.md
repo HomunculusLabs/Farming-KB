@@ -21,7 +21,7 @@ The species reaches heights of 30–45 meters with a trunk diameter up to 2 mete
 
 European black pine has been widely planted outside its native range as a timber tree, windbreak, and ornamental specimen. Its tolerance of poor soils and drought conditions contributes to its popularity in forestry and urban landscaping.
 
-Several subspecies are recognized, reflecting the species' broad [[geographic-distribution-of-psilocybe-species]] across disjunct populations. These subspecies vary in needle length, cone size, and growth form.
+Several subspecies are recognized, reflecting the species" broad [[geographic-distribution-of-psilocybe-species]] across disjunct populations. These subspecies vary in needle length, cone size, and growth form.
 
 ## Taxonomy and Morphology
 

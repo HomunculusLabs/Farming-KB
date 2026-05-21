@@ -13,7 +13,6 @@ tags:
   - companion-planting
 sources:
   - "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:186896-1"---
----
 
 ## Tanacetum Vulgare
 

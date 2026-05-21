@@ -15,7 +15,7 @@ sources:
 
 ## Overview
 
-Dracaena draco, the dragon blood tree, is an iconic monocot tree in the family Asparagaceae. It is named for the deep red resin (dragon's blood) exuded when the bark or leaves are cut.
+Dracaena draco, the dragon blood tree, is an iconic monocot tree in the family Asparagaceae. It is named for the deep red resin (dragon"s blood) exuded when the bark or leaves are cut.
 
 The species is native to the Canary Islands, with additional populations in Madeira, the Cape Verde archipelago, and a disjunct population in western Morocco. It is the symbol of Tenerife and a flagship species for island conservation.
 

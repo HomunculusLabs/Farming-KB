@@ -5,7 +5,7 @@ type: species
 tags: [psilocybin-mushroom, agaricales, strophariaceae, subtropical, mexico]
 date: 2026-04-28
 updated: 2026-04-28
-sources: ['raw/papers/gartz-growth-promoting-effect-of-brassinosteroid-psilocybe-cubensis.md']
+sources: ["raw/papers/gartz-growth-promoting-effect-of-brassinosteroid-psilocybe-cubensis.md']
 ---
 
 ## Psilocybe galindoi
@@ -18,7 +18,7 @@ sources: ['raw/papers/gartz-growth-promoting-effect-of-brassinosteroid-psilocybe
 - **Species:** P. galindoi
 - **Authority:** Guzmán (1978)
 - **Synonyms:** Often discussed in relation to [[psilocybe-mexicana]] species complex, which shares similar alkaloid profiles
-- The truffle or sclerotium form of this species, often sold as "Philosopher's Stones" or "Atlantis truffles," has gained popularity in European smart shops
+- The truffle or sclerotium form of this species, often sold as "Philosopher"s Stones" or "Atlantis truffles," has gained popularity in European smart shops
 - The sclerotia contain lower concentrations of psilocybin per gram compared to dried fruitbodies but can be produced in greater biomass
 
 ## Cultural Significance

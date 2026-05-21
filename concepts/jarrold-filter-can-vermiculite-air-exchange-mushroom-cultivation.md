@@ -22,7 +22,7 @@ source:
 
 ## Overview
 
-During mushroom mycelial colonisation, the growing fungus requires oxygen for respiration and produ [[allegro-christianity-as-a-fertility-cult]] as a metabolic waste product. However, the colonisation environment must also be protected from airborne contaminant spores. Jarrold's "Indo [[boil-a-bag-pressure-sterilization-technique]] l a Bag" describes a simple but effective solution: a **vermiculite filter [[boil-a-bag-filter-can-construction]]-patch bags that have a built-in microporous membrane. Home growers need an accessible, low-cost alternative.
+During mushroom mycelial colonisation, the growing fungus requires oxygen for respiration and produ [[allegro-christianity-as-a-fertility-cult]] as a metabolic waste product. However, the colonisation environment must also be protected from airborne contaminant spores. Jarrold"s "Indo [[boil-a-bag-pressure-sterilization-technique]] l a Bag" describes a simple but effective solution: a **vermiculite filter [[boil-a-bag-filter-can-construction]]-patch bags that have a built-in microporous membrane. Home growers need an accessible, low-cost alternative.
 
 ## Vermiculite as a Filter Medium
 

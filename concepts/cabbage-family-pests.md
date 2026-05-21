@@ -52,7 +52,7 @@ Plants collapse, die, become stunted, or barely grow. Radishes, turnips, and Chi
 - **Parasitic nematodes**: Certain species effectively attack root maggots in the soil. They also control wireworms, onion maggots, carrot weevils, cutworms, and cucumber beetle larvae
 - **Hilling**: Careful and persistent hilling of soil around plant stems increases seedling survival by burying the root system deeper
 
-### What Doesn't Work
+### What Doesn"t Work
 
 Wood ashes or lime dustings — once widely recommended — actually attract cabbage flies. They may help in acidic, calcium-deficient soils by boosting brassica growth enough to compensate for increased predation.
 

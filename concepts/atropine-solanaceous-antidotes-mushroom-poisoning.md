@@ -15,7 +15,7 @@ Amanita mushroom poisoning represents one of the most important advances in
 convergent lines of evidence in *About Mushrooms* (1894), drawing on
 experimental physiology, clinical observation, and his own published research.
 
-## Dr. Isaac Ott's Frog Experiments
+## Dr. Isaac Ott"s Frog Experiments
 
 The experimental foundation came from Dr. [[isaac-ott]], Demonstrator of
 Physiology at the University of Pennsylvania. Ott administered muscarine
@@ -84,7 +84,7 @@ certain fungi. Letellier named it so because it was found most particularly
 in the genus *Amanita*. Descourtilz confirmed this, and Boudier, in his
 1864 Orfila prize essay, stated that "the amanitine of Dr. Letellier must
 be considered the poisonous principle of the false orange mushroom."
-Webster's Dictionary likewise defined amanitine as "the poisonous principle
+Webster"s Dictionary likewise defined amanitine as "the poisonous principle
 of some fungi."
 
 Dr. Ott, however, used amanitine for a *non-poisonous* base coexisting
@@ -93,7 +93,7 @@ with fifty years of established meaning to a different substance could
 only add to "the almost hopeless confusion already existing in this
 branch of science."
 
-## Dr. Ott's Conclusions and Palmer's Rebuttal
+## Dr. Ott"s Conclusions and Palmer's Rebuttal
 
 Ott published three conclusions alongside his experiments. Palmer contested the
 first two:
@@ -123,7 +123,7 @@ from the same plant."
 
 ## The Curse of Tradition in Mycology
 
-Palmer closed with a sharp critique of his era's mycological knowledge.
+Palmer closed with a sharp critique of his era"s mycological knowledge.
 "The curse of the [[neglected-science-of-mycology]] has been tradition," he wrote. "Men
 have written on it without personal acquaintance with a single toadstool."
 Leading magazines published articles by writers who condensed mycological

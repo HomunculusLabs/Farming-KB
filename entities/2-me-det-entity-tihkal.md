@@ -31,7 +31,7 @@ TIHKAL entry #33. 2-Me-DET is a [[synthetic-tryptamine-methods]] combining the d
 
 - **70 mg, orally**: "A very subtle onset characterized most notably as a mild stomach ache that lasted a short while. There was a sort of vague unreal feeling at an hour, but my thought pattern seemed to be quite clear. In another hour I noticed that higher pitches of the music on the radio were being muffled and the tones seemed to be shifting to lower frequency. I phoned a friend, and first the dial tone, and then her voice sounded wrong. The sense of touch (the phone receiver) was normal and my conversation flowed easily. Television seems amusing, but perhaps it really was amusing. Soup tasted fine, and there was no appetite suppression. No GI problems, no next-day negatives."
 
-- **120 mg, orally**: "My thoughts became quite cloudy, increasingly so for several hours. And somehow slower than usual. Reading didn't seem to connect, and I had to turn the radio off as it was lousy. Texture, not content. I could type OK, and did, so my body was OK, but things came to me slowly. I wasn't very hungry but food tasted OK. The 'cloudy' was pretty much gone after six hours. I don't particularly want to repeat this, as there isn't much here that I enjoy."
+- **120 mg, orally**: "My thoughts became quite cloudy, increasingly so for several hours. And somehow slower than usual. Reading didn"t seem to connect, and I had to turn the radio off as it was lousy. Texture, not content. I could type OK, and did, so my body was OK, but things came to me slowly. I wasn't very hungry but food tasted OK. The 'cloudy' was pretty much gone after six hours. I don't particularly want to repeat this, as there isn't much here that I enjoy."
 
 ## Synthesis
 

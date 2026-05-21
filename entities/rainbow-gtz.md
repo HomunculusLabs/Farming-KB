@@ -28,7 +28,7 @@ created: 2026-04-28
 
 Rainbow GTZ is a modern [[cannabis-terpene-profile]].
 
-Released in the early 2020s, Rainbow GTZ quickly gained traction in California's premium flower market for its exotic bag appeal and complex aroma. It represents the convergence of the "Zkittlez era" fruit-forward breeding philosophy with the classic potency of Triangle Kush and OG Triple OG genetics.
+Released in the early 2020s, Rainbow GTZ quickly gained traction in California"s premium flower market for its exotic bag appeal and complex aroma. It represents the convergence of the "Zkittlez era" fruit-forward breeding philosophy with the classic potency of Triangle Kush and OG Triple OG genetics.
 
 The strain has become a staple among extract artists and hash makers due to its generous trichome production and favorable washability characteristics for ice [[cannabis-minor-cannabinoids]] present in trace amounts include CBC, CBG, and THCV. The overall cannabinoid profile is THC-dominant with minimal CBD contribution, placing effects firmly in the psychoactive category.
 

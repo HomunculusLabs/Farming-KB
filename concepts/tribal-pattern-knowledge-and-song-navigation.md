@@ -10,7 +10,7 @@ Indigenous peoples worldwide have developed sophisticated systems of encoding va
 
 ## Song as Navigational Technology
 
-Among the Nootka Indians of British Columbia, as documented by Anne Cameron in *Daughters of Copper Woman* (1981), there existed specific songs for every destination: "There was a song for goin' to China, and a song for goin' to Japan, a song for the big island and a song for the smaller one. All she [the navigator] had to know was the song and she knew where she was."
+Among the Nootka Indians of British Columbia, as documented by Anne Cameron in *Daughters of Copper Woman* (1981), there existed specific songs for every destination: "There was a song for goin" to China, and a song for goin' to Japan, a song for the big island and a song for the smaller one. All she [the navigator] had to know was the song and she knew where she was."
 
 The navigation songs of canoe voyages recorded multiple layers of information simultaneously:
 

@@ -5,7 +5,6 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Soulé, M.E. et al. (2003). "Ecological Effectiveness: Conservation Goals for Interactive Species." mycelium-running-conservation-biology-and-fungi, 17(5), 1238-1250.---
----
 
 ## Keystone Species and Trophic Cascades
 
@@ -17,7 +16,7 @@ The closely related concept of trophic cascades describes the indirect ecologica
 
 ## Origin of the Keystone Concept
 
-### Robert Paine's Intertidal Experiments
+### Robert Paine"s Intertidal Experiments
 
 The keystone species concept originated from a series of field experiments conducted by Robert T. Paine in the rocky intertidal zone of the [[psilocybin-north-america-pacific-northwest]]. Between 1963 and 1969, Paine studied the food web at Mukkaw Bay, Washington, where the predatory starfish *Pisaster ochraceus* fed on mussels (*Mytilus californianus*), barnacles, and other sessile invertebrates.
 

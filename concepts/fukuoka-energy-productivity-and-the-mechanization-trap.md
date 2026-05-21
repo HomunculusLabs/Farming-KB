@@ -28,7 +28,7 @@ Fukuoka described this as exchanging the joy of working in open fields for drear
 
 ### The Tiller as Turning Point
 
-Fukuoka traced the beginning of the end for Japanese village agriculture to the arrival of the **motorized transport-tiller**, which he called a major turning point. This was rapidly followed by three-wheeled vehicles and trucks. Before long, paved roads stretched to the furthest corners of every village, completely altering the farmer's notions of time and space. The tiller replaced the horse-drawn plow, motorized sprayers replaced hand application, and helicopter spraying replaced ground-level work. Each step increased efficiency in the narrowest sense while reducing the farmer's autonomy, self-sufficiency, and connection to the land.
+Fukuoka traced the beginning of the end for Japanese village agriculture to the arrival of the **motorized transport-tiller**, which he called a major turning point. This was rapidly followed by three-wheeled vehicles and trucks. Before long, paved roads stretched to the furthest corners of every village, completely altering the farmer"s notions of time and space. The tiller replaced the horse-drawn plow, motorized sprayers replaced hand application, and helicopter spraying replaced ground-level work. Each step increased efficiency in the narrowest sense while reducing the farmer's autonomy, self-sufficiency, and connection to the land.
 
 ### The Commodification of Farming Time
 
@@ -57,7 +57,7 @@ This table captures the geometric decline in energy productivity that Fukuoka id
 
 ## The Self-Sufficiency Question
 
-Fukuoka noted that Japan's food self-sufficiency had dropped below thirty percent, yet farmers were unable to speak up because the public was under the illusion that farmland reduction policy served consumer interests. Somewhere along the way, the farmer lost both land and the freedom to choose crops. The statistics told a misleading story: the average American farmer was said to feed one hundred people versus ten for the Japanese farmer, but Japanese farmers actually achieved higher productivity per unit of land. The apparent gap reflected the vastly better growing conditions in America, not any deficiency in Japanese farming skill.
+Fukuoka noted that Japan"s food self-sufficiency had dropped below thirty percent, yet farmers were unable to speak up because the public was under the illusion that farmland reduction policy served consumer interests. Somewhere along the way, the farmer lost both land and the freedom to choose crops. The statistics told a misleading story: the average American farmer was said to feed one hundred people versus ten for the Japanese farmer, but Japanese farmers actually achieved higher productivity per unit of land. The apparent gap reflected the vastly better growing conditions in America, not any deficiency in Japanese farming skill.
 
 ## The Spiritual Dimension of Energy Waste
 

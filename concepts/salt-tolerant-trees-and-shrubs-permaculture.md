@@ -26,7 +26,7 @@ Melaleuca species (family Myrtaceae) are among the most valuable salt-tolerant A
 - **Melaleuca bracteata** (white cloud tree): A small spreading evergreen tree to 7 meters, native to all mainland states except Victoria. Drought and frost tolerant, preferring heavy to medium soils.
 - **Melaleuca lanceolata** (moonah): Produces light amber honey in summer. Very hardy in coastal conditions.
 - **Melaleuca thyroides**: An evergreen shrub to 2 meters from Western Australia, frost and [[maintaining-organic-matter-in-vegetable-gardens]] sand and stabilises heavy soils such as dam walls.
-- **Carpobrotus spp** (pigface): Native to southern Australia with thick fleshy triangular leaves and purplish-red fruits described as "one of Australia's tastiest fruits, tasting somewhat like salty apples." The mucilaginous juice treats midge bites and jellyfish stings.
+- **Carpobrotus spp** (pigface): Native to southern Australia with thick fleshy triangular leaves and purplish-red fruits described as "one of Australia"s tastiest fruits, tasting somewhat like salty apples." The mucilaginous juice treats midge bites and jellyfish stings.
 - **[[fungi-in-the-environment-symbiotic-relationships]] with nitrogen-fixing organisms:
 
 - **[[query-how-does-rock-dust-improve-soil-fertility]] in saline sites.

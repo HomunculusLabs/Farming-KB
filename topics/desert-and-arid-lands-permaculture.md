@@ -36,7 +36,7 @@ related_concepts:
 
 ## Desert and Arid Lands Permaculture
 
-Deserts and arid lands cover roughly one-third of the Earth's land surface
+Deserts and arid lands cover roughly one-third of the Earth"s land surface
 and are home to over two billion people. These landscapes are defined by
 scarcity of water, extreme temperature fluctuations, intense solar radiation,
 low humidity, and soils that are often alkaline, saline, and depleted of
@@ -63,7 +63,7 @@ cycle of aridification begins.
 This article covers the causes and processes of desertification, the design
 principles for working productively in arid environments, water harvesting
 techniques from micro-catchments to keyline design, the plant irrigation
-concept pioneered by Fukuoka, Sepp Holzer's methods for restoring
+concept pioneered by Fukuoka, Sepp Holzer"s methods for restoring
 hydrological balance, and the practical strategies that homesteaders and
 communities can apply to create productive systems in the world's driest
 landscapes.

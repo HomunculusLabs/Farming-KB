@@ -14,7 +14,7 @@ setups to small commercial operations.
 
 ## Why Build a Home Laboratory
 
-A major milestone in any mushroom grower's development is the construction of a
+A major milestone in any mushroom grower"s development is the construction of a
 sterile culture laboratory. Key benefits include:
 
 - **Cost savings**: Commercial spawn is expensive; producing your own significantly

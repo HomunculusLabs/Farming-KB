@@ -18,7 +18,7 @@ Mollison identifies four complementary attitudes that the observer can adopt whe
 A sense of wonder and open curiosity, where "I wonder why..." precedes actual observation. This attitude suspends preconceptions and allows genuinely unexpected patterns to register. Children notice things that trained adults filter out because they have not yet learned what "[[query-what-are-the-different-fruit-tree-training-systems-and-which-should-i-use]] heights, light reflection from tree canopies, soil moisture at various depths, or the rate of water infiltration. Instrumental data complements sensory observation with precision.
 
 ### 4. Experiential Approach
-Using all the senses as instruments — feeling the soil for moisture, listening to wind patterns, noting temperature differences between sunny and shaded areas, observing the smell of healthy versus compacted soil. This approach cultivates a holistic awareness of the site's total character and ambience.
+Using all the senses as instruments — feeling the soil for moisture, listening to wind patterns, noting temperature differences between sunny and shaded areas, observing the smell of healthy versus compacted soil. This approach cultivates a holistic awareness of the site"s total character and ambience.
 
 ## The Five-Stage Observation Process
 

@@ -38,7 +38,7 @@ PSK acts through **both direct and indirect** mechanisms:
 "When taken with traditional chemotherapy or radiotherapy there have been significant increases in patient longevity." PSK has been approved as a cancer drug in Japan and is covered by national health insurance.
 
 ### Market Impact
-PSK's commercial success demonstrated the pharmaceutical viability of mushroom-derived compounds and paved the way for investigation of other mushroom polysaccharides.
+PSK"s commercial success demonstrated the pharmaceutical viability of mushroom-derived compounds and paved the way for investigation of other mushroom polysaccharides.
 
 ## PSP from Trametes versicolor
 
@@ -73,7 +73,7 @@ First isolated in **1983** from cultured deep-layer [[mycelium]] of the **COU-1 
 "PSP is rapidly gaining recognition with many successful human cancer trials." It can be easily delivered by oral route, making it more practical for widespread use than intravenous alternatives.
 
 ### Intellectual Property
-"Up to now at least 10 kinds of 'protein bound' polysaccharides have been isolated, e.g. coriolan I and II—most are covered by US and Japanese patents." However, only PSK and PSP have been used in clinical trials.
+"Up to now at least 10 kinds of "protein bound' polysaccharides have been isolated, e.g. coriolan I and II—most are covered by US and Japanese patents." However, only PSK and PSP have been used in clinical trials.
 
 ## AHCC (Active Hexose Correlated Compounds)
 

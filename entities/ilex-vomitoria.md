@@ -48,7 +48,7 @@ Yaupon is native to the southeastern [[comparison-caffeine-plants-yerba-mate-vs-
 
 Caffeine content ranges from 0.8–1.5% dry weight, comparable to commercial tea (*[[cannabis-harvest-timing-visual-cues]], leaf age, and processing method. Young leaves and apical shoots contain the highest concentrations.
 
-The leaves also contain polyphenolic compounds including chlorogenic acid, rutin, and various flavonoids. These contribute antioxidant activity and are responsible for the tea's astringent flavor.
+The leaves also contain polyphenolic compounds including chlorogenic acid, rutin, and various flavonoids. These contribute antioxidant activity and are responsible for the tea"s astringent flavor.
 
 Unlike many caffeine-containing plants, yaupon contains no detectable theacrine or other novel purine alkaloids. Its alkaloid profile is among the simplest of the caffeinated hollies.
 

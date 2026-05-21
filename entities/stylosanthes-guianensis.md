@@ -8,7 +8,7 @@ type: entity
 
 ## Description
 
-Stylosanthes guianensis, commonly referred to as stylo or Townsville stylo, is a perennial tropical legume widely used as a pasture and forage species in the tropics and subtropics. In [[bill-mollison]]'s *Permaculture: A Designer's Manual*, it appears in the plant species listing as "Stylo, Townsville," recognizing its importance as a tropical forage legume in designed agricultural systems.
+Stylosanthes guianensis, commonly referred to as stylo or Townsville stylo, is a perennial tropical legume widely used as a pasture and forage species in the tropics and subtropics. In [[bill-mollison]]"s *Permaculture: A Designer's Manual*, it appears in the plant species listing as "Stylo, Townsville," recognizing its importance as a tropical forage legume in designed agricultural systems.
 
 ## Classification
 

@@ -18,7 +18,7 @@ The psychedelic experience is described as a journey to new realms of consciousn
 
 A central premise is that the drug dose does not *produce* the experience. Rather, it acts as a chemical key that temporarily frees the nervous system from its ordinary perceptual and cognitive patterns. The nature and quality of the experience depend on two primary variables:
 
-- **Set** — the individual's preparation, personality structure, and current mood
+- **Set** — the individual"s preparation, personality structure, and current mood
 - **Setting** — the physical environment, social dynamics, [[ayahuasca-pharmacology-and-cultural-context]]
 
 ## The Tibetan Book of the Dead (Bardo Thodol)
@@ -37,7 +37,7 @@ The initial phase involves complete transcendence beyond words, space-time, and 
 
 ### Second Bardo — Chonyid Bardo (Hallucinatory Visions)
 
-The longest phase for most people, the Second Bardo involves the return of self/external game reality. Experiences here range from sharp, brilliant clarity to complex hallucinations described as karmic apparitions — projections of the mind's own contents. The quality of these visions is shaped by the individual's set and preparation.
+The longest phase for most people, the Second Bardo involves the return of self/external game reality. Experiences here range from sharp, brilliant clarity to complex hallucinations described as karmic apparitions — projections of the mind"s own contents. The quality of these visions is shaped by the individual's set and preparation.
 
 ### Third Bardo — Sidpa Bardo (Return to Routine Reality)
 
@@ -54,7 +54,7 @@ The framework rests on several core assumptions:
 - The range of human awareness extends far beyond the ego, learned knowledge, and the constraints of space and time
 - Millions of people throughout history have undertaken this voyage of consciousness
 - The experience is fundamentally safe — at worst, one returns as the same person
-- Perceived dangers are understood as productions of one's own mind
+- Perceived dangers are understood as productions of one"s own mind
 - Practitioners are encouraged to trust their brain, their companions, and a sense of divinity
 
 ## Structure of the Manual

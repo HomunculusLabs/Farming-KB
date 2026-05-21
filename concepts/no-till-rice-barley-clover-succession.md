@@ -17,7 +17,7 @@ tags:
 
 ## No-Till Rice-Barley-Clover Succession
 
-The **direct-seeded, no-tillage, winter grain/rice succession in a clover cover** is the core agricultural method developed by Masanobu Fukuoka on his farm in Ehime Prefecture, Japan. This method produces roughly 22 bushels of rice and 22 bushels of winter grain (barley or wheat) per quarter-acre annually, without plowing, [[query-how-to-protect-plants-from-frost-and-extend-the-growing-season]]. This careful balance — suppressing the clover without killing it — is characteristic of Fukuoka's approach: work with natural processes, don't destroy them.
+The **direct-seeded, no-tillage, winter grain/rice succession in a clover cover** is the core agricultural method developed by Masanobu Fukuoka on his farm in Ehime Prefecture, Japan. This method produces roughly 22 bushels of rice and 22 bushels of winter grain (barley or wheat) per quarter-acre annually, without plowing, [[query-how-to-protect-plants-from-frost-and-extend-the-growing-season]]. This careful balance — suppressing the clover without killing it — is characteristic of Fukuoka"s approach: work with natural processes, don't destroy them.
 
 ### Summer: Minimal Irrigation
 
@@ -32,7 +32,7 @@ White clover (*Trifolium repens*) is the keystone species in this system. It ser
 
 ## Results and Yields
 
-With approximately 250 heads of grain per square yard and an average of 200 grains per head, this method produces a harvest of some 33 bushels for every quarter-acre. Those who observe the sturdy heads of rice rising from the field marvel at the strength and vigor of the plants. The labor of one or two people is more than enough to grow crops on a quarter-acre. Were Fukuoka to say that all his method of farming boils down to is the symbiosis of rice and barley in clover, he would be reproached — "If that's all there is to growing rice, then farmers wouldn't be out there working so hard." Yet, that is all there is to it.
+With approximately 250 heads of grain per square yard and an average of 200 grains per head, this method produces a harvest of some 33 bushels for every quarter-acre. Those who observe the sturdy heads of rice rising from the field marvel at the strength and vigor of the plants. The labor of one or two people is more than enough to grow crops on a quarter-acre. Were Fukuoka to say that all his method of farming boils down to is the symbiosis of rice and barley in clover, he would be reproached — "If that"s all there is to growing rice, then farmers wouldn't be out there working so hard." Yet, that is all there is to it.
 
 The yields achieved through this method are consistently better than average. The only conclusion possible, Fukuoka argued, is that there must be something drastically wrong with farming practices that require so much unnecessary labor. The superior yields are not achieved despite the absence of intervention but because of it — because the natural processes of soil building, nutrient cycling, and pest control are allowed to function without disruption.
 

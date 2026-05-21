@@ -21,7 +21,7 @@ The Great Pyramid at Gizeh is characterized as a permanent record and physical r
 
 The surface of this enigma, the text argues, is "barely being scratched upon even after thousands of years of wonder."
 
-## The Central Chamber (King's Chamber)
+## The Central Chamber (King"s Chamber)
 
 The King's Chamber is the focal point of the initiation rite. Several physical features are noted:
 
@@ -34,20 +34,20 @@ A tub in the central chamber, known to have played a ceremonial role, is linked 
 - **Directional guidance** — the portals may have been intended to direct the spirit of the initiate toward specific celestial destinations
 
 ### The Sarcophagus
-The granite sarcophagus in the King's Chamber is central to the rite. The word **sarcophagus** literally translates as **"flesh-eating"** — a designation connected to the mushroom, which is referred to as "flesh" in most [[allegro-colour-and-consistency-of-the-amanita-muscaria]] within the sealed central chamber. This state involved:
+The granite sarcophagus in the King"s Chamber is central to the rite. The word **sarcophagus** literally translates as **"flesh-eating"** — a designation connected to the mushroom, which is referred to as "flesh" in most [[allegro-colour-and-consistency-of-the-amanita-muscaria]] within the sealed central chamber. This state involved:
 
 - Complete physical stillness in the sarcophagus
 - Profound alteration of consciousness
 - Descent into the underworld (Amenta — linguistically connected to Amanita)
 - "Ministering to those in Hades" — performing charity and good deeds in the visionary realm
 - Complete self-introspection and judgment — "every atom of the self is dashed to pieces"
-- A life review in which "every event of one's life surfaces into consciousness"
+- A life review in which "every event of one"s life surfaces into consciousness"
 
 ### The Descent into Amenta
 The underworld experience is described in visceral terms:
 
 - **Self-annihilation** — A downward spiral to the complete dissolution of self
-- **Life review** — The "flash of one's life before one's eyes" with no stone unturned
+- **Life review** — The "flash of one"s life before one's eyes" with no stone unturned
 - **Humility of the adept** — Learning the "infallibility of perfection and the inevitability of error"
 - **"Judge not that ye be not judged"** — This biblical injunction becomes experientially clear during the judgment phase
 - **The heart as feather** — The Egyptian concept of the "heart light as a feather" (from the Book of the Dead weighing of the heart ceremony) becomes "the most valuable element in the universe"
@@ -62,17 +62,17 @@ At the close of the third night, the initiate was taken to the entrance of a gal
 - **"Born into the Light"** — The sunlight produces a transformative experience where "each atom of the body can be felt to change"
 
 ### The Slingshot Effect
-The pyramid initiation is described as functioning like a slingshot: the further back (down) the projectile (initiate) is pulled during the death experience, the further (higher) they are launched during the ascent. The guided three-day descent, followed by deliberate movement into sunlight at the precise astronomical moment, creates an amplified version of the mushroom's natural up-and-down cycling.
+The pyramid initiation is described as functioning like a slingshot: the further back (down) the projectile (initiate) is pulled during the death experience, the further (higher) they are launched during the ascent. The guided three-day descent, followed by deliberate movement into sunlight at the precise astronomical moment, creates an amplified version of the mushroom"s natural up-and-down cycling.
 
 ## The Priest as Water-Bearer
 
 The hieroglyphic symbol for the Egyptian priest is described as resembling the astronomical sign for **Aquarius** — a figure pouring water from a vessel. The priest is characterized as the "water-bearer," the one who "knows fully and understands the true nature of the waters of life" and can dispense this knowledge to worthy recipients. This connects the Egyptian priesthood directly to the "[[biblical-living-waters-sacramental-substitution]]" tradition and the entheogenic sacraments.
 
-## Manley P. Hall's Account
+## Manley P. Hall"s Account
 
 The text quotes Manley P. Hall (echoed by Peter Tompkins) describing the rite:
 
-> "The candidate passed through the mystic passageways and chambers of the great pyramid, entering its portals as men and coming forth as Gods. The candidate was laid in the great stone coffin and for three days his spirit — freed from its mortal coil — wandered at the gateways of eternity. His 'KA' (as a bird) flew through the spiritual spheres of space. He discovered that the entire universe is life, the entire universe is progress, the entire universe is eternal growth. Realizing that his body was a house that he could slip out of and return to without death, he achieved actual immortality."
+> "The candidate passed through the mystic passageways and chambers of the great pyramid, entering its portals as men and coming forth as Gods. The candidate was laid in the great stone coffin and for three days his spirit — freed from its mortal coil — wandered at the gateways of eternity. His "KA' (as a bird) flew through the spiritual spheres of space. He discovered that the entire universe is life, the entire universe is progress, the entire universe is eternal growth. Realizing that his body was a house that he could slip out of and return to without death, he achieved actual immortality."
 
 This account emphasizes several key elements:
 

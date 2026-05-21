@@ -21,7 +21,7 @@ sources:
 
 ## Overview
 
-Rubroboletus satanas, commonly known as the Devil's bolete, is a
+Rubroboletus satanas, commonly known as the Devil"s bolete, is a
 basidiomycete fungus in the family Boletaceae. Despite its sinister name, the
 mushroom is not lethally poisonous but causes severe gastrointestinal
 toxicity when consumed raw or undercooked. It is native to southern and

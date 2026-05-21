@@ -22,7 +22,7 @@ When you irrigate or when it rains, each soil particle attracts to itself all th
 
 ## The Wilting Point
 
-The opposite of soil at field capacity is totally dry soil — something rarely if ever seen on this planet. As soil particles dry, the moisture they hold becomes an ever-thinner film on their surfaces. The thinner the film, the more tightly it is held, until moisture clings so tenaciously that vegetable roots can't extract it.
+The opposite of soil at field capacity is totally dry soil — something rarely if ever seen on this planet. As soil particles dry, the moisture they hold becomes an ever-thinner film on their surfaces. The thinner the film, the more tightly it is held, until moisture clings so tenaciously that vegetable roots can"t extract it.
 
 ### Three Levels of Wilting
 

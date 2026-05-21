@@ -103,10 +103,10 @@ of the *nama yuxin* (dream spirit).
 
 Nixi pae provides one of the clearest ethnographic examples
 of the Banisteriopsis + Psychotria combination with explicit
-indigenous recognition of each plant's role. The Cashinahua
+indigenous recognition of each plant"s role. The Cashinahua
 understand that without Psychotria, hallucinations are "less
 vivid and of shorter duration"—a precise folk-pharmacological
-observation matching modern understanding of DMT's contribution.
+observation matching modern understanding of DMT"s contribution.
 The preparation method (decoction rather than cold water
 extraction) and [[blesching-cannabis-health-index-dosage-guidelines-medical]] (1–2 pints) offer practical
 data for understanding traditional [[ayahuasca-pharmacology]].

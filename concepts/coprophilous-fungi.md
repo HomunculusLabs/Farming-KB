@@ -104,7 +104,7 @@ Relatively few genera are coprophilous:
 - Coprinus species are classic "inkcaps" that rapidly deliquesce
 
 **Nidulariales**:
-- Crucibulum, Cyathus ("bird's nest fungi") - splash-cup dispersal mechanism
+- Crucibulum, Cyathus ("bird"s nest fungi") - splash-cup dispersal mechanism
 
 **Other orders**:
 - Sphaerobolus (gastrointestinal basidiomycete with explosive spore release)

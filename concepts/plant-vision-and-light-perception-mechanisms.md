@@ -6,7 +6,7 @@ title: "Plant what-a-plant-knows-plant-vision-and-light-perception Perception Me
 
 ## Overview
 
-Daniel Chamovitz's "What a Plant Knows" presents a compelling case that plants
+Daniel Chamovitz"s "What a Plant Knows" presents a compelling case that plants
 perceive light in ways that constitute a legitimate form of vision. While plants
 lack eyes and brains, they possess sophisticated photoreceptor systems that allow
 them to detect light intensity, direction, color, duration, and even ultraviolet

@@ -13,7 +13,7 @@ John Ramsbottom (Keeper of Botany, British Museum Natural History) published "Po
 
 ### Entoloma lividum (Leaden Entoloma)
 
-Known around Dijon as "le grand empoisonneur de la Cote d'Or." Causes violent sickness, diarrhoea, and occasional death. The symptoms are very severe and may be fatal, attributed to definite resinoid substances acting on the mucous lining of the intestine.
+Known around Dijon as "le grand empoisonneur de la Cote d"Or." Causes violent sickness, diarrhoea, and occasional death. The symptoms are very severe and may be fatal, attributed to definite resinoid substances acting on the mucous lining of the intestine.
 
 ### Gyromitra esculenta
 

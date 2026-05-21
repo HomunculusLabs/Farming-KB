@@ -10,7 +10,7 @@ type: entity
 
 Cedar apple rust is a fungal disease caused by the basidiomycete fungus Gymnosporangium juniperi-virginianae that requires two unrelated host plants to complete its life cycle: Eastern red cedar ([[juniperus-virginiana]]) and apple or crabapple (Malus spp.).
 The disease produces distinctive orange, gelatinous galls on cedar trees during wet spring weather and bright orange-yellow spots on apple leaves and fruit.
-Elaine Ingham's field guide includes cedar apple rust among the diseases that can be managed using [[actively-aerated-compost-tea]] (AACT), highlighting the role of biological foliar protection in organic [[fruit-tree-care-and-orchard-management]].
+Elaine Ingham"s field guide includes cedar apple rust among the diseases that can be managed using [[actively-aerated-compost-tea]] (AACT), highlighting the role of biological foliar protection in organic [[fruit-tree-care-and-orchard-management]].
 
 ## Classification
 

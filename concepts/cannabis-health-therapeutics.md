@@ -21,7 +21,7 @@ sources:
 
 # Cannabis Health Therapeutics
 
-Medical cannabis applications organized by condition, with cannabinoid/terpene profiles, delivery methods, evidence levels, and dosing considerations. Based on Blesching's Cannabis Health Index.
+Medical cannabis applications organized by condition, with cannabinoid/terpene profiles, delivery methods, evidence levels, and dosing considerations. Based on Blesching"s Cannabis Health Index.
 
 Related: [[cannabis-plant-nutrition]], [[herbal-medicine]], [[cannabis-genetics-and-breeding]]
 
@@ -110,7 +110,7 @@ When selecting strains for specific therapeutic goals, consider the full cannabi
 - **Start low, go slow**: Begin with 1-2.5 mg THC. Wait 2+ hours (edibles) or 15 min (vaporized) before redosing.
 - **Microdosing**: 0.5-2.5 mg THC for subtle therapeutic effects without intoxication. Effective for anxiety, inflammation, daytime pain management.
 - **Therapeutic window**: Most conditions respond to 5-30 mg THC/day. Exceeding personal tolerance increases side effects without proportional benefit.
-- **CBD moderates THC**: Adding CBD reduces THC's psychoactive and anxiogenic effects. 1:1 to 4:1 CBD:THC ratios provide medical benefits with minimal intoxication.
+- **CBD moderates THC**: Adding CBD reduces THC"s psychoactive and anxiogenic effects. 1:1 to 4:1 CBD:THC ratios provide medical benefits with minimal intoxication.
 - **Tolerance management**: Tolerance to THC develops in 1-2 weeks of daily use. Strategies: take 2-day breaks weekly, "strain hop" between different cannabinoid profiles, use CBD-dominant preparations on tolerance breaks.
 - **Cannabinoid ratio**: More important than absolute dose. Document your ratio (THC:CBD) and total dose for each effective session.
 

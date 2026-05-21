@@ -36,7 +36,7 @@ Platycodin D is considered the primary pharmacologically active compound. It has
 
 Seeds are sown in spring, with germination requiring 2–3 weeks at 15–20°C. Transplanting is done at the 2–3 leaf stage with 30–40 cm spacing. Root harvest occurs 2–3 years after planting for maximum saponin content.
 
-Ornamental cultivars include 'Mariesii' (compact, blue), 'Fuji White', 'Astra Blue', and 'Sentimental Blue'. The balloon-shaped buds make it popular in perennial borders and cottage gardens, and it is widely sold as a nursery ornamental.
+Ornamental cultivars include "Mariesii' (compact, blue), 'Fuji White', 'Astra Blue', and 'Sentimental Blue'. The balloon-shaped buds make it popular in perennial borders and cottage gardens, and it is widely sold as a nursery ornamental.
 
 ## Traditional Medicine
 

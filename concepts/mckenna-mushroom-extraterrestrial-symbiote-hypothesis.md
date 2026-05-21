@@ -5,7 +5,7 @@ tags: [mckenna, mushroom, extraterrestrial, symbiote, stropharia-cubensis]
 created: 2026-05-08
 ---
 
-## McKenna's Mushroom Extraterrestrial Symbiote Hypothesis
+## McKenna"s Mushroom Extraterrestrial Symbiote Hypothesis
 
 ## Overview
 
@@ -22,7 +22,7 @@ For Stropharia cubensis, this re-engineering takes the form of a dual strategy: 
 He notes several properties of mushroom spores that make them theoretically suitable for space travel.
 The spores are described as "deep, deep purple"—the color they would need to absorb the deep ultraviolet end of the spectrum, the primary radiation hazard in interstellar space.
 The casing of a spore is described as "one of the hardest organic substances known," with an [[mckenna-fungal-fossil-gap-spore-electron-density-and-metal-hardness]] approaching that of a metal.
-McKenna proposes that global currents may form on the outside of the spore, and that by Brownian motion, spores are capable of percolation to the edge of a planet's atmosphere.
+McKenna proposes that global currents may form on the outside of the spore, and that by Brownian motion, spores are capable of percolation to the edge of a planet"s atmosphere.
 Through interaction with energetic particles, a small number could actually escape into space.
 This is described as an evolutionary strategy where only one in many billions of spores makes the transition between the stars.
 It is a biological strategy for radiating throughout the galaxy without a technology of any kind.
@@ -48,7 +48,7 @@ There are no fungi in the fossil record older than forty million years.
 The orthodox explanation is that fungi are soft-bodied and do not fossilize well.
 McKenna counters by pointing out that fossilized soft-bodied worms and other benthic marine invertebrates have been found in South African gunflint chert dated to over a billion years.
 This gap in the fossil record, while not conclusive, is presented as consistent with the possibility that major fungal lineages arrived on Earth from elsewhere rather than evolving in situ over geological time.
-The absence of ancient fungal fossils remains an open question in paleontology, and McKenna's interpretation, while speculative, highlights the limitations of the fossil record as a complete record of biological history.
+The absence of ancient fungal fossils remains an open question in paleontology, and McKenna"s interpretation, while speculative, highlights the limitations of the fossil record as a complete record of biological history.
 
 ## The Cattle Symbiosis and Human Co-Evolution
 
@@ -56,15 +56,15 @@ McKenna describes the mechanism by which he believes the mushroom established it
 The mushroom "achieved symbiosis with human society early by associating itself with domesticated cattle and through them human nomads."
 Like the plants that humans grew and the animals they husbanded, the mushroom was able to "inculcate itself into the human family, so that where human genes went these other genes would be carried."
 This model of co-evolution through domestication parallels the known history of other human-plant symbioses such as wheat, maize, and the various psychoactive plants used in indigenous shamanism.
-The mushroom's case is unique in that the benefit it provides is psychoactive rather than nutritional.
+The mushroom"s case is unique in that the benefit it provides is psychoactive rather than nutritional.
 The association with cattle is significant because Psilocybe cubensis is a coprophilic species that naturally grows on bovine dung, creating a natural vector for transmission through pastoral human societies.
 
 ## Dialogue with the Mushroom
 
 McKenna frames his engagement with the mushroom's self-description as a dialogue rather than uncritical acceptance.
-He states: "I don't necessarily believe what the mushroom tells me; rather we have a dialogue. It is a very strange person and has many bizarre opinions."
-He compares entertaining the mushroom's claims to humoring "any eccentric friend," saying "Well, so that's what you think."
-This epistemological posture—neither wholesale acceptance nor dismissal, but sustained engaged dialogue—is characteristic of McKenna's approach to tryptamine phenomenology.
+He states: "I don"t necessarily believe what the mushroom tells me; rather we have a dialogue. It is a very strange person and has many bizarre opinions."
+He compares entertaining the mushroom"s claims to humoring "any eccentric friend," saying "Well, so that"s what you think."
+This epistemological posture—neither wholesale acceptance nor dismissal, but sustained engaged dialogue—is characteristic of McKenna"s approach to tryptamine phenomenology.
 The stance reflects a broader methodological principle: that the phenomenology of these experiences constitutes primary data that must be engaged with on its own terms before being either accepted or rejected.
 This posture distinguishes McKenna from both naive believers and reflexive skeptics, positioning him as a phenomenological explorer rather than a propagandist for any particular interpretation.
 

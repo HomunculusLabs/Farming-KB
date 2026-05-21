@@ -26,7 +26,7 @@ Fungal melanins are dark brown to black pigments produced by many fungal species
 ### Relationship to Other Pigments
 - Solhaug and Gauslaa (1996) demonstrated that removal of the orange pigment parietin in the lichen Xanthoria parietina increased damage from excessive light penetration.
 - Multiple pigment systems (melanins, parietin, usnic acid, etc.) work together to regulate light exposure in lichens.
-- The evolution of melanin-containing fungal symbionts in surface-colonizing lichens is likely an adaptation for protecting the algal photobiont's photosynthetic function.
+- The evolution of melanin-containing fungal symbionts in surface-colonizing lichens is likely an adaptation for protecting the algal photobiont"s photosynthetic function.
 
 ### Broader Functions of Fungal Melanin
 - **Metal binding**: Melanins chelate heavy metals (Fe, Cu, Zn), contributing to metal tolerance in fungi.

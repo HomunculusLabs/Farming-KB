@@ -13,7 +13,7 @@ tags: [person, mycologist, american, vermont, 19th-century]
 
 - **Residence:** Vermont
 - **Expertise:** Mycology, specifically the study of fungi
-- **Era:** Late 19th century (active during Palmer's writing period)
+- **Era:** Late 19th century (active during Palmer"s writing period)
 - **Status:** Described as a "living authority" — still actively practicing at time of publication
 
 ## Context Among American Mycologists
@@ -24,7 +24,7 @@ Palmer names Charles Frost as one of a very small number of American authorities
 - **Mr. Ravenal** of South Carolina
 - **Mr. [[charles-james-sprague]]** of Boston
 
-Palmer notes that "with an occasional exception, American literature shows the ingenuity of professional writers in weaving the web of other men's thoughts and researches on this subject into diverse forms for the magazines" — suggesting Frost was among the rare genuine original researchers rather than a compiler of others' work.
+Palmer notes that "with an occasional exception, American literature shows the ingenuity of professional writers in weaving the web of other men"s thoughts and researches on this subject into diverse forms for the magazines" — suggesting Frost was among the rare genuine original researchers rather than a compiler of others" work.
 
 ## Contributions
 

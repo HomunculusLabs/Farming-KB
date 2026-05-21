@@ -25,7 +25,7 @@ quality was essential to partnership societies.
 
 ## The Rise of Monotheism
 
-McKenna traces monotheism's emergence to the decline of the partnership
+McKenna traces monotheism"s emergence to the decline of the partnership
 model and the rise of the dominator model — a shift from a worldview
 where the divine was immanent in nature to one where the divine was
 remote, transcendent, and mediated exclusively through a male priesthood.

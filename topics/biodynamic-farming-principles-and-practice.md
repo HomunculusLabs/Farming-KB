@@ -1,6 +1,6 @@
 ---
 title: "comparison-biodynamic-farming-vs-organic-farming: Principles and Practice"
-subtitle: "Rudolf Steiner's holistic approach to agriculture as a living organism"
+subtitle: "Rudolf Steiner"s holistic approach to agriculture as a living organism"
 tags: [biodynamic, steiner, organic-farming, compost-preparations, cosmic-influences]
 date: 2026-04-28
 updated: 2026-04-28

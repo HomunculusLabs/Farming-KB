@@ -13,7 +13,7 @@ sources: []
 
 Maitake, meaning "dancing mushroom" in Japanese, is a large [[polypore]] mushroom that grows at the base of oak trees and other hardwoods in temperate forests of North America, Europe, and Japan. The name reportedly comes from people dancing with joy upon finding it, given its excellent culinary qualities and medicinal value.
 
-Also known as "hen of the woods" due to its resemblance to a fluffed hen's feathers, maitake forms large, overlapping clusters of brownish-gray, fan-shaped caps that can weigh up to 50 pounds. It is both a prized edible and a potent medicinal mushroom.
+Also known as "hen of the woods" due to its resemblance to a fluffed hen"s feathers, maitake forms large, overlapping clusters of brownish-gray, fan-shaped caps that can weigh up to 50 pounds. It is both a prized edible and a potent medicinal mushroom.
 
 ## Key Compounds
 

@@ -6,7 +6,7 @@ type: concept
 
 ## Sustainable Wild Harvesting
 
-Sustainable wild harvesting represents one of permaculture's most foundational design principles: the careful, measured use of natural systems to yield ongoing productivity without degrading the resource base. Drawing from both traditional ecological knowledge and modern design thinking, it encompasses forestry, hunting, foraging, and the broader concept of harvesting renewable services from nature.
+Sustainable wild harvesting represents one of permaculture"s most foundational design principles: the careful, measured use of natural systems to yield ongoing productivity without degrading the resource base. Drawing from both traditional ecological knowledge and modern design thinking, it encompasses forestry, hunting, foraging, and the broader concept of harvesting renewable services from nature.
 
 The principle rests on a deceptively simple insight: living systems produce surpluses, and those surpluses can be harvested indefinitely — provided the harvest never exceeds the system's capacity to regenerate. When this balance is maintained, the yield becomes a permanent feature of the landscape rather than a one-time extraction.
 
@@ -20,7 +20,7 @@ The management of common resources — forests, fisheries, grazing lands — was
 
 ### The Seven-Generation Principle
 
-Native American cultures codified long-term thinking into their governance through the **seven-generation principle**: decisions affecting natural resources should be considered for their impact on seven generations into the future. This principle stands in stark contrast to modern short-term economic thinking and serves as a [[permaculture-design]] ethic in its own right. It embeds intergenerational responsibility directly into the decision-making process, ensuring that today's harvest does not compromise tomorrow's abundance.
+Native American cultures codified long-term thinking into their governance through the **seven-generation principle**: decisions affecting natural resources should be considered for their impact on seven generations into the future. This principle stands in stark contrast to modern short-term economic thinking and serves as a [[permaculture-design]] ethic in its own right. It embeds intergenerational responsibility directly into the decision-making process, ensuring that today"s harvest does not compromise tomorrow's abundance.
 
 ### The Goose That Laid the Golden Egg
 

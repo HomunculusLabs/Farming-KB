@@ -11,7 +11,7 @@ type: entity
 The Araucana is a distinctive breed of domestic chicken originating from South
 America, specifically the Araucanía region of Chile. It is most famous for
 laying eggs with blue or green-tinted shells, a trait that has earned it and
-its derivatives the popular nickname "Easter Egg chicken." The breed's origins
+its derivatives the popular nickname "Easter Egg chicken." The breed"s origins
 are linked to the indigenous Mapuche people of Chile, who kept these birds for
 centuries before they were introduced to the wider world in the early twentieth
 century.

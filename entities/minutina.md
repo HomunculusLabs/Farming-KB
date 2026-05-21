@@ -7,7 +7,7 @@ tags: [species, vegetable, cold-hardy, winter-crop, plantaginaceae]
 
 ## Overview
 
-Minutina (Plantago coronopus), also known as buckshorn plantain, erba stella, or starweed, is a cold-hardy annual or biennial leaf vegetable in the family Plantaginaceae. It is one of the "novel" cold-hardy salad crops featured in Eliot Coleman's winter-harvest system at Four Season Farm, valued for its unique texture and ability to produce through the coldest months.
+Minutina (Plantago coronopus), also known as buckshorn plantain, erba stella, or starweed, is a cold-hardy annual or biennial leaf vegetable in the family Plantaginaceae. It is one of the "novel" cold-hardy salad crops featured in Eliot Coleman"s winter-harvest system at Four Season Farm, valued for its unique texture and ability to produce through the coldest months.
 
 ## Classification
 
@@ -27,7 +27,7 @@ Minutina forms a low rosette of narrow, strap-shaped leaves with slightly toothe
 - Excellent cold tolerance, surviving temperatures well below freezing under protection
 - Continues slow growth through the shortest winter days
 - Plants maintain quality through repeated freeze-thaw cycles
-- Performs reliably in both cold houses and cool houses in Coleman's system
+- Performs reliably in both cold houses and cool houses in Coleman"s system
 
 ## Role in the Winter-Harvest System
 
@@ -40,7 +40,7 @@ Minutina is grouped with mâche and claytonia as one of the three "novel" cold-h
 
 ## Harvest Season
 
-Based on Coleman's harvest charts for Zone 5:
+Based on Coleman"s harvest charts for Zone 5:
 
 | Structure | Harvest Period |
 |-----------|---------------|

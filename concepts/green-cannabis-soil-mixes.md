@@ -1,5 +1,5 @@
 ---
-title: Cannabis Soil Mixes - Greg Green's green-cannabis-grow-bible-breeding-genetics-and-true-breeding Bible
+title: Cannabis Soil Mixes - Greg Green"s green-cannabis-grow-bible-breeding-genetics-and-true-breeding Bible
 created: 2026-04-26
 updated: 2026-04-25
 sources:

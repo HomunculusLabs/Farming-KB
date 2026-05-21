@@ -17,7 +17,6 @@ sources:
     in Natural Swimming Pools." Journal of Applied Phycology, vol. 30, 2018.
   - "Pool and Spa Maintenance Guidelines." CDC, 2023.
 type: comparison---
----
 
 ## Overview
 

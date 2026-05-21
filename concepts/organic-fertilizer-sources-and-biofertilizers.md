@@ -20,7 +20,7 @@ Guano — the feces and urine of cave-dwelling bats — comes in both high-nitro
 
 ### Colloidal Rock Phosphate (N–P–K 0–2.5–0)
 
-Also called soft rock phosphate, this material consists of clay particles surrounded by phosphate. The clay component improves the soil's cation and anion exchange capacities (CEC and AEC). This is a very slow-release source — it remains available for 3 to 5 years depending on rainfall and watering. Some gardeners report that colloidal rock phosphate actually performs better in its second and third years as the phosphorus gradually becomes available. Placement is critical: rock phosphates work best when positioned where plant roots will directly intercept the particles.
+Also called soft rock phosphate, this material consists of clay particles surrounded by phosphate. The clay component improves the soil"s cation and anion exchange capacities (CEC and AEC). This is a very slow-release source — it remains available for 3 to 5 years depending on rainfall and watering. Some gardeners report that colloidal rock phosphate actually performs better in its second and third years as the phosphorus gradually becomes available. Placement is critical: rock phosphates work best when positioned where plant roots will directly intercept the particles.
 
 ### Crab Shell Meal (N–P–K 2–3–0)
 

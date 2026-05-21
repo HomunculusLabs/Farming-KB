@@ -6,7 +6,7 @@ type: concept
 
 ## Mushroom Education Curriculum
 
-Mushroom education provides a powerful, hands-on vehicle for teaching biological and ecological concepts across age groups. From elementary school fruiting cup experiments to college-level mycoremediation research, fungi offer accessible entry points into microbiology, ecology, chemistry, and environmental science. Curriculum activities can be organized along several thematic tracks—[[fungal-ecology]], cultivation, recycling and composting, mycoremediation, and research/science projects—each scaled appropriately for the students' age and skill level.
+Mushroom education provides a powerful, hands-on vehicle for teaching biological and ecological concepts across age groups. From elementary school fruiting cup experiments to college-level mycoremediation research, fungi offer accessible entry points into microbiology, ecology, chemistry, and environmental science. Curriculum activities can be organized along several thematic tracks—[[fungal-ecology]], cultivation, recycling and composting, mycoremediation, and research/science projects—each scaled appropriately for the students" age and skill level.
 
 ## Grades 5–8 (Ages 10–13)
 
@@ -14,7 +14,7 @@ Mushroom education provides a powerful, hands-on vehicle for teaching biological
 
 Gas exchange is one of the most visually demonstrable aspects of fungal biology. Building on the "fruiting cups" lesson used with younger students, educators can create a controlled comparison by placing half of the colonized cups in an empty aquarium and the other half in an aquarium containing low-growing plants. Covering both aquariums with plastic or a solid lid and placing them side by side under equal lighting creates a clear experimental setup. Mushrooms in the plant-free aquarium produce elongated stems as they stretch toward fresh air, since carbon dioxide pools like invisible water at the bottom of the covered container. Mushrooms in the planted aquarium develop considerably shorter, thicker stems because the plants scrub carbon dioxide and exchange it for oxygen. Students can measure and graph stem length and cap width, form hypotheses about the observed differences, and design follow-up experiments to test those hypotheses.
 
-This experiment elegantly demonstrates the symbiotic gas-exchange relationship between plants and fungi—plants produce oxygen through photosynthesis while fungi produce carbon dioxide through respiration, and each organism benefits from the other's waste product.
+This experiment elegantly demonstrates the symbiotic gas-exchange relationship between plants and fungi—plants produce oxygen through photosynthesis while fungi produce carbon dioxide through respiration, and each organism benefits from the other"s waste product.
 
 ### Gravitropism Studies
 

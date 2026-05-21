@@ -10,7 +10,7 @@ Actively Aerated Compost Tea (AACT) is a liquid extract produced by aerating hig
 
 ## Background and Origins
 
-Dr. Elaine Ingham is one of the world's foremost soil microbiologists. As President of the Sustainable Studies Institute, President of the Soil Foodweb Institute, and Director of Research at Soil Foodweb Inc., she has spent her career elucidating the critical role that soil microorganisms play in plant health, nutrient cycling, and disease suppression. Her work has been instrumental in shifting the paradigm of soil management from chemical inputs to biological approaches.
+Dr. Elaine Ingham is one of the world"s foremost soil microbiologists. As President of the Sustainable Studies Institute, President of the Soil Foodweb Institute, and Director of Research at Soil Foodweb Inc., she has spent her career elucidating the critical role that soil microorganisms play in plant health, nutrient cycling, and disease suppression. Her work has been instrumental in shifting the paradigm of soil management from chemical inputs to biological approaches.
 
 The Field Guide for Actively Aerated Compost Tea, compiled and edited by Dr. Carole Ann Rollins from Ingham's extensive internet correspondence between April 2001 and June 2003, represents a foundational reference for the AACT community. Published by the Sustainable Studies Institute and Nature Technologies International LLC, it consolidates practical knowledge about tea production, application, and testing that was previously scattered across email threads and online forums.
 
@@ -125,7 +125,7 @@ The Field Guide includes one-sheet application rate guidelines for each of these
 
 Ingham emphasises the importance of monitoring soil and tea biology over time. The primary methods include:
 
-- **Direct microscopy**: Examining soil or tea samples under a microscope to identify and quantify different groups of organisms. This is Ingham's preferred method because it reveals the living, active community.
+- **Direct microscopy**: Examining soil or tea samples under a microscope to identify and quantify different groups of organisms. This is Ingham"s preferred method because it reveals the living, active community.
 - **Plate counts**: Growing microorganisms on agar plates and counting colonies. This method is widely used but has significant limitations — most soil organisms cannot be cultured on plates, so plate counts dramatically underestimate total microbial diversity and activity.
 
 ### Establishing Baselines

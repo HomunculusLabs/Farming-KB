@@ -6,13 +6,13 @@ type: concept
 
 ## Mushroom Poisoning and Safe Foraging Practices
 
-## Palmer's Theory of Taste as a Toxicity Indicator
+## Palmer"s Theory of Taste as a Toxicity Indicator
 
 Palmer advanced what he called his "theory: namely, that no fungus which, unspiced, being plainly cooked with dry heat, commends itself to the taste, can be, in the least, dangerous to human life." He proposed this with hesitation, acknowledging that "many people have so little sense in such matters."
 
 The core argument was that [[cancer-medicinal-mushrooms-mixed-extracts-synergism]] with gravies, fried in batter, simmered in fat, or seasoned with black pepper and parsley have their "delicate flavor destroyed by compounding them with other food." The cook thereby "disguises the very alarm which Nature has placed at the gateway." One of the most common signs of a harmful fungus was a stinging sensation affecting not just the tongue but also the throat and tonsils, with effects on the stomach and bowels.
 
-## Palmer's Personal Testing Protocol
+## Palmer"s Personal Testing Protocol
 
 Palmer described a careful, incremental approach to testing new mushroom species:
 
@@ -28,11 +28,11 @@ Palmer claimed to have tested "perhaps forty varieties of toadstools" and ate re
 
 ## The Coprinus Deliquescens Poisoning Incident
 
-Palmer's own most serious poisoning occurred not from eating a toxic species but from cross-contamination. He had purchased common mushrooms that were shipped in a box containing a large number of *[[coprinus-deliquescens]]* specimens. These deliquescent fungi were in a state of decomposition — they "eventually turn to ink, independent of contact with any fluid substance."
+Palmer"s own most serious poisoning occurred not from eating a toxic species but from cross-contamination. He had purchased common mushrooms that were shipped in a box containing a large number of *[[coprinus-deliquescens]]* specimens. These deliquescent fungi were in a state of decomposition — they "eventually turn to ink, independent of contact with any fluid substance."
 
 The symptoms appeared almost immediately after swallowing the [[palmer-edible-mushrooms-north-america]]: "Dizziness, nausea, purging, perspiration, with alternate cold spells, all passed over me within an hour, so rapid is the effect of the mushroom-virus." Palmer noted that "my engines refused to reverse action" — the poisoning could not be stopped once begun.
 
-## Palmer's Antidote: Sweet Oil and Whiskey
+## Palmer"s Antidote: Sweet Oil and Whiskey
 
 The remedy that neutralized the poison consisted of "two wineglasses of whiskey and sweet-oil (equal parts)." Palmer prescribed this remedy in all cases rather than emetics, noting that one could "omit the whiskey, if you please, or substitute vinegar for spirits, but take sweet-oil liberally in case of mistake."
 
@@ -56,7 +56,7 @@ The maned mushroom (*[[coprinus-comatus]]*) was "delicious eating" when found in
 
 ## The Honey-Colored Mushroom (Agaricus melleus) Case
 
-Palmer's experience with the honey-colored mushroom illustrated the confusion in mycological literature. After eating plentifully of this species, he consulted Greville, a well-known Scotch authority, and found a dire warning: the species was "said to be freely eaten on the Continent" according to Fries, but Person and Paulet gave it a bad character, with Paulet reporting that "the poor animal died twelve hours after receiving the poisonous fungus" in a dog-feeding experiment.
+Palmer"s experience with the honey-colored mushroom illustrated the confusion in mycological literature. After eating plentifully of this species, he consulted Greville, a well-known Scotch authority, and found a dire warning: the species was "said to be freely eaten on the Continent" according to Fries, but Person and Paulet gave it a bad character, with Paulet reporting that "the poor animal died twelve hours after receiving the poisonous fungus" in a dog-feeding experiment.
 
 Palmer concluded: "I think it may be noxious raw, but that the heat kills the virus." He noted it "continues to be a favorite article of diet to this day."
 

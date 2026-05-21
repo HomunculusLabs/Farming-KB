@@ -11,7 +11,6 @@ date: 2026-05-08
 updated: 2026-05-08
 sources:
   - Yadav DK et al. (2017). "Shikonin and its derivatives: A comprehensive review." European Journal of Medicinal Chemistry, 136, 36-48.---
----
 
 ## Overview
 

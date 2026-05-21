@@ -5,7 +5,7 @@ sources:
   - "raw/papers/bill-mollison-permaculture-design-course.md"
 ---
 
-# Bill Mollison's Permaculture: A Designers' Manual
+# Bill Mollison"s Permaculture: A Designers' Manual
 
 *[[permaculture]]: A Designers' Manual* (1988) is the foundational text of the
 permaculture movement, written by Bill Mollison and published by Tagari
@@ -91,7 +91,7 @@ designer reframes obstacles as resources through creative placement.
 
 ## Pattern Understanding in Design
 
-One of the manual's most distinctive contributions is its treatment of natural
+One of the manual"s most distinctive contributions is its treatment of natural
 patterns as design templates. Mollison argued that conventional design is
 "pattern-illiterate" — it imposes straight lines, grids, and uniformity on
 landscapes that naturally express complex, efficient patterns evolved over

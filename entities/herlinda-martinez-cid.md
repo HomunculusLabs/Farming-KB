@@ -25,7 +25,7 @@ Dona Herlinda Martinez Cid was a teacher from Huautla de Jimenez who served as t
 - Served as the critical linguistic bridge between the German-speaking/Spanish-speaking visitors and the Mazatec-speaking curanderas and curanderos
 - Had numerous relatives scattered throughout the Sierra Mazateca who helped establish contacts with local healers
 - Was acquainted with the dangers of the region and had been apprehensive about the expedition party when they were delayed
-- Translated Consuela Garcia's instructions and ceremony from Mazatec into Spanish during the hojas de la Pastora ceremony at San Jose Tenango
+- Translated Consuela Garcia"s instructions and ceremony from Mazatec into Spanish during the hojas de la Pastora ceremony at San Jose Tenango
 - Translated Maria Sabina's words during the mushroom ceremony with synthetic psilocybin pills at Huautla de Jimenez
 - Hosted the Hofmann-Wasson party in her house in Huautla de Jimenez for the mushroom ceremony with Maria Sabina
 - Her home served as the venue for the historic ceremony where Maria Sabina confirmed that synthetic psilocybin pills had the same power as the mushrooms

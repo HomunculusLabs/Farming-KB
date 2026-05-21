@@ -1,6 +1,6 @@
 ---
 title: "Anamorph-Telomorph Duality: Cryptococcus and Filobasidiella as One Organism"
-source: "Mr. Bloomfield's Orchard, Nicholas P. Money (2002)"
+source: "Mr. Bloomfield"s Orchard, Nicholas P. Money (2002)"
 topic: "Anamorph, telomorph, fungal-taxonomy"
 type: concept
 tags:
@@ -28,7 +28,7 @@ the filamentous basidiomycete *Filobasidiella neoformans*, which produces
 sexual spores on hyphal structures, are not two different species. They are
 the **same organism**, expressing different developmental programs encoded by
 a single genome. This duality—the **anamorph-telomorph** system—is a
-fundamental feature of [[nicholas-money]]'s *Mr. Bloomfield's Orchard*. Her finding resolved a long-
+fundamental feature of [[nicholas-money]]"s *Mr. Bloomfield's Orchard*. Her finding resolved a long-
 standing mystery about the [[bloomfield-cryptococcus-neoformans-opportunistic-mycoses-aids]]* and opened
 new avenues for understanding its pathogenicity, genetics, and epidemiology.
 

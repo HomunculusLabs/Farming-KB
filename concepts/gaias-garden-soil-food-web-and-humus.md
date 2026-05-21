@@ -1,5 +1,5 @@
 ---
-title: Gaia's Garden Soil Food Web and lowenfels-humus-formation-benefits
+title: Gaia"s Garden Soil Food Web and lowenfels-humus-formation-benefits
 created: 2026-04-18
 updated: 2026-04-18
 type: concept
@@ -11,7 +11,7 @@ sources:
 
 ## Soil Food Web and Humus Formation
 
-Toby Hemenway's detailed explanation of how soil organisms decompose [[comparison-predatory-mites-vs-ladybugs-biocontrol]], ants, and spiders feed on secondary and primary decomposers. The hierarchy is not strictly linear — it is a set of nested cycles with extensive interconnections.
+Toby Hemenway"s detailed explanation of how soil organisms decompose [[comparison-predatory-mites-vs-ladybugs-biocontrol]], ants, and spiders feed on secondary and primary decomposers. The hierarchy is not strictly linear — it is a set of nested cycles with extensive interconnections.
 
 ## How Humus Is Made
 

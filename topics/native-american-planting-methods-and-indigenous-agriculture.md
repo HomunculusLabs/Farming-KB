@@ -4,7 +4,7 @@ tags: [agriculture, indigenous, permaculture, history, polyculture, three-sister
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "White, R. (2023). 'Raised field agriculture at Lake Titicaca: ancient technology for modern food security.' Agriculture and Human Values, 40(2), 311-328."
+  - "White, R. (2023). "Raised field agriculture at Lake Titicaca: ancient technology for modern food security.' Agriculture and Human Values, 40(2), 311-328."
 ---
 
 ## Native American Planting Methods and Indigenous Agriculture
@@ -13,7 +13,7 @@ Indigenous peoples of the Americas developed sophisticated agricultural systems 
 
 ## Overview and Historical Context
 
-Agriculture in the Americas developed independently from Old World systems, with domestication centers in Mesoamerica (corn, beans, squash, chocolate, tomatoes, peppers), the Andes (potatoes, quinoa, oca), the eastern woodlands (sunflowers, sumpweed, goosefoot), and the Amazon basin (manioc, peach palm, Brazil nut). By the time of European contact, indigenous peoples managed an estimated 50-70% of the [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]]. It represents one of the world's oldest and most successful examples of [[nitrogen-fixing-bacteria-and-biological-nitrogen-fixation]].
+Agriculture in the Americas developed independently from Old World systems, with domestication centers in Mesoamerica (corn, beans, squash, chocolate, tomatoes, peppers), the Andes (potatoes, quinoa, oca), the eastern woodlands (sunflowers, sumpweed, goosefoot), and the Amazon basin (manioc, peach palm, Brazil nut). By the time of European contact, indigenous peoples managed an estimated 50-70% of the [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]]. It represents one of the world"s oldest and most successful examples of [[nitrogen-fixing-bacteria-and-biological-nitrogen-fixation]].
 - **Squash (Cucurbita spp.) provides a living mulch** — its broad leaves shade the soil surface, reducing soil temperature by 5-10°C, suppressing weeds, and reducing evaporation by up to 50%. The spiny vines also deter mammalian pests like raccoons and deer.
 
 ### Root Zone Stratification
@@ -41,7 +41,7 @@ Three Sisters plantings consistently outperform monocultures in total caloric ou
 
 Indigenous peoples developed hundreds of regionally adapted varieties:
 
-- **Northeastern Iroquois varieties**: 'Haudenosaunee' flint corn (8-10 row), 'Seneca Pinto' beans, 'Algonquin' squash
+- **Northeastern Iroquois varieties**: "Haudenosaunee' flint corn (8-10 row), 'Seneca Pinto' beans, 'Algonquin' squash
 - **Southwest Hopi varieties**: 'Hopi Blue' corn (drought-tolerant, 12-16 row), tepary beans (Phaseolus acutifolius, extremely drought-hardy), 'Hopi Black' squash
 - **Southeastern varieties**: 'Cherokee White Eagle' corn, 'Cherokee Trail of Tears' beans, cushaw squash (Cucurbita argyrosperma)
 - **Mesoamerican varieties**: The Three Sisters originated in Mesoamerica with distinct pod corn, runner beans (Phaseolus coccineus), and pumpkin-like squashes
@@ -76,7 +76,7 @@ The Zuni typically lined their waffle gardens with a layer of gravel or clay to 
 
 Traditional Zuni waffle gardens concentrated high-value crops that required consistent moisture:
 
-- **Zuni waffle garden corn** (*Hek'alo:we*) — a short-season flour corn
+- **Zuni waffle garden corn** (*Hek"alo:we*) — a short-season flour corn
 - **Melons** (*Hattso*) — the most prized waffle garden crop
 - **Squash** and beans as secondary crops
 - **Chiles** and herbs around the edges

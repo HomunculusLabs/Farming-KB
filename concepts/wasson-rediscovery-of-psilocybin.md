@@ -16,7 +16,7 @@ led him to become the first Westerner to participate intentionally in a [mushroo
 
 ## Origins: The Honeymoon Incident
 
-Wasson's fascination with mushrooms was supposedly sparked during his honeymoon in the Catskill Mountains
+Wasson"s fascination with mushrooms was supposedly sparked during his honeymoon in the Catskill Mountains
 in 1926. He and his bride, [[valentina-pavlovna-wasson]], a Russian-born
 paediatrician-in-training, encountered wild mushrooms on a walk through the beautiful autumn forests. Wasson
 reacted with horror and revulsion while Valentina gathered them with evident delight, stuffing as many as
@@ -40,7 +40,7 @@ the other. They published their findings in a massive, privately printed two-vol
 [Mushrooms, Russia and History (1957), which had itself mushroomed from its
 original conception as a Russian cookbook.
 
-## The Academic Pre-History: Safford's Denial
+## The Academic Pre-History: Safford"s Denial
 
 The Western rediscovery of Mexican mushrooming practice began, ironically, with a vigorous scholarly denial
 that they had ever existed. In 1915, the American botanist William Safford published a paper stating that
@@ -64,7 +64,7 @@ only Carreras consumed mushrooms.
 
 ## Meeting Maria Sabina
 
-Wasson's third trip, in 1955, with society photographer Allan Richardson, proved far more momentous. They
+Wasson"s third trip, in 1955, with society photographer Allan Richardson, proved far more momentous. They
 met the curandera [Maria Sabina, who agreed to let both Wasson
 and Richardson consume the [[mexican-sacred-mushrooms-indigenous-use-and-ethnobotany]]. They became the first Westerners ever intentionally to do so.
 
@@ -73,9 +73,9 @@ patterns giving way to "architectural structures, with colonnades and architrave
 the stone-work glowing with preternatural light." He felt himself a "disembodied eye" hovering above strange,
 new landscapes. He sensed he understood the true, awful meaning of "ecstasy" -- standing outside oneself.
 
-Wasson was already convinced that the mushroom's effects were benign and spiritual. He had, as Letcher
+Wasson was already convinced that the mushroom"s effects were benign and spiritual. He had, as Letcher
 notes, "already abandoned the classical framework in favour of the psychedelic discourse, and went to Mexico
-convinced that the mushroom's effects were benign and spiritual." He was perhaps the first Westerner to
+convinced that the mushroom"s effects were benign and spiritual." He was perhaps the first Westerner to
 believe as much.
 
 ## The Life Article and Its Consequences

@@ -1,11 +1,11 @@
 ---
-title: "Fukuoka's Critique of Human Intellect vs. Nature"
+title: "Fukuoka"s Critique of Human Intellect vs. Nature"
 source: "The Road Back to Nature (1987) — Masanobu Fukuoka"
 source_file: masanobu-fukuoka-the-road-back-to-nature.md
 topics: [natural-farming, fukuoka, philosophy-of-science, environmental-ethics]
 created: 2026-05-10
 ---
-## Fukuoka's Critique of Human Intellect vs. Nature
+## Fukuoka"s Critique of Human Intellect vs. Nature
 
 In *The [[fukuoka-road-back-to-nature-overview]]*, domains, becomes
 destructive when applied to the management of living systems. Reason operates by
@@ -21,7 +21,7 @@ flower — classifying its species, measuring its petals, extracting its DNA —
 lose access to the experience of the flower as it actually is. The analytical
 mind replaces the living reality with an abstraction.
 
-## Science's Wild Rampage
+## Science"s Wild Rampage
 
 Fukuoka extends this critique to the entire enterprise [[fukuoka-road-critique-of-modern-science]]. He
 describes a world in which "the fragmented and diffusive development of knowledge
@@ -32,7 +32,7 @@ one indivisible — and leaving only a legacy of incoherent chaos."
 He is particularly critical of genetic engineering, which he saw as the ultimate
 expression of the scientific delusion that life can be understood and improved by
 manipulating its component parts. He writes that "geneticists extract and synthesize
-the genes present in the cells of living things. But nature's soul does not lie
+the genes present in the cells of living things. But nature"s soul does not lie
 hidden within DNA. Nor is this where God resides."
 
 This critique, written in the mid-1980s, anticipated many of the concerns that have
@@ -44,7 +44,7 @@ cell, the organism, the ecosystem — and this context cannot be captured by ana
 
 ## Reason and Understanding Are Mutually Antagonistic
 
-One of Fukuoka's most striking claims is that reason and understanding are mutually
+One of Fukuoka"s most striking claims is that reason and understanding are mutually
 antagonistic. He writes: "Reason and understanding play opposing roles. The intellect
 attempts to open up nature but succeeds only in closing it down because human
 knowledge is in fact nothing more than a cumulation of judgment by the human

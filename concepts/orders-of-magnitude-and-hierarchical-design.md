@@ -10,7 +10,7 @@ type: concept
 
 In [[permaculture]] position is to **refute the concept of status and assert that of function**: "It is not what you are; it is what you do in relation to the society you choose to live in. We need each other, and it is a reciprocal need wherever we have a function in relation to each other."
 
-This reframing has profound implications for how we design human systems. Rather than creating hierarchies of status, permaculture seeks to create networks of function where every element serves and is served by the whole—exactly as a tree's roots, trunk, branches, and leaves each serve essential functions without any one being "higher" or "more important" than the others.
+This reframing has profound implications for how we design human systems. Rather than creating hierarchies of status, permaculture seeks to create networks of function where every element serves and is served by the whole—exactly as a tree"s roots, trunk, branches, and leaves each serve essential functions without any one being "higher" or "more important" than the others.
 
 ## Building Appropriate Systems
 

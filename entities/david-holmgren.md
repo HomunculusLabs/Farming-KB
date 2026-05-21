@@ -29,7 +29,7 @@ David Holmgren (born 1955) is an Australian ecologist, ecological design enginee
 
 ## Key Contributions
 
-- **Co-founded Permaculture (1978):** As Mollison's student at the University of Tasmania, Holmgren co-authored "Permaculture One" — the foundational text of the movement.
+- **Co-founded Permaculture (1978):** As Mollison"s student at the University of Tasmania, Holmgren co-authored "Permaculture One" — the foundational text of the movement.
 - **12 Permaculture Design Principles:** Articulated the canonical 12 principles that serve as the thinking tools for permaculture design: observe and interact, catch and store energy, obtain a yield, apply self-regulation and accept feedback, use and value renewable resources, produce no waste, design from patterns to details, integrate rather than segregate, use small and slow solutions, use and value diversity, use edges and value the marginal, creatively use and respond to change.
 - **Energy Descent Action Planning (EDAP):** Developed frameworks for communities to plan proactively for energy scarcity and climate change.
 - **RetroSuburbia:** Advocated for transforming existing suburban landscapes into productive, resilient food systems — making permaculture accessible to non-rural populations.

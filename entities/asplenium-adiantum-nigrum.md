@@ -89,7 +89,7 @@ Propagation is by spores or careful division. Spores germinate readily on steril
 
 No widely available cultivars exist, though selected forms with particularly dark rachises or compact growth have been distributed among fern enthusiasts.
 
-The species has received the Royal Horticultural Society's Award of Garden Merit, confirming its reliability and ornamental value in British garden conditions.
+The species has received the Royal Horticultural Society"s Award of Garden Merit, confirming its reliability and ornamental value in British garden conditions.
 
 ## Ethnobotany
 

@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-Albert Hofmann (1906-2008) was a Swiss chemist whose work on ergot alkaloids at Sandoz Pharmaceuticals led to the discovery of LSD-25 in 1938 and its extraordinary psychoactive properties in 1943. This concept page covers Hofmann's early scientific training, his approach to pharmaceutical chemistry at Sandoz, and the ergot research program that set the stage for the most accidental and consequential discovery in the history of psychopharmacology.
+Albert Hofmann (1906-2008) was a Swiss chemist whose work on ergot alkaloids at Sandoz Pharmaceuticals led to the discovery of LSD-25 in 1938 and its extraordinary psychoactive properties in 1943. This concept page covers Hofmann"s early scientific training, his approach to pharmaceutical chemistry at Sandoz, and the ergot research program that set the stage for the most accidental and consequential discovery in the history of psychopharmacology.
 
 ## Education and Training
 
@@ -24,10 +24,10 @@ This approach was revolutionary for its time. Most medicinal plants were used as
 
 ### Target Plants
 
-Stoll's laboratory focused on plants of "recognized value" that were difficult to use in their crude form:
+Stoll"s laboratory focused on plants of "recognized value" that were difficult to use in their crude form:
 - **Foxglove (Digitalis)**: Cardiac glycosides for heart conditions
 - **Mediterranean squill (Scilla maritima)**: Cardiac stimulants and diuretics
-- **Ergot of rye (Claviceps purpurea)**: The fungus that would become Hofmann's life's work
+- **Ergot of rye (Claviceps purpurea)**: The fungus that would become Hofmann"s life's work
 
 ## Mediterranean Squill Research
 
@@ -73,7 +73,7 @@ During initial testing, LSD-25 showed some activity but nothing remarkable enoug
 
 ## The Methodological Significance
 
-Hofmann's approach exemplifies the classical pharmaceutical chemistry paradigm: systematic modification of natural product scaffolds to create new compounds with improved or novel pharmacological properties. This approach, which produced aspirin from salicylic acid and methergine from ergobasine, also produced LSD from lysergic acid. The difference is that LSD's "pharmacological properties" turned out to be far more profound and far less medically controllable than anyone had imagined.
+Hofmann"s approach exemplifies the classical pharmaceutical chemistry paradigm: systematic modification of natural product scaffolds to create new compounds with improved or novel pharmacological properties. This approach, which produced aspirin from salicylic acid and methergine from ergobasine, also produced LSD from lysergic acid. The difference is that LSD's "pharmacological properties" turned out to be far more profound and far less medically controllable than anyone had imagined.
 
 ## See Also
 - [[hofmann-lsd-sandoz-research-program]]

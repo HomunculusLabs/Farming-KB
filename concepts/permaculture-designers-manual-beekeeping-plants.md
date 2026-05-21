@@ -7,7 +7,7 @@ tags: [permaculture, animals, plant-systems, pollination]
 sources: [raw/papers/bill-mollison-permaculture-a-designers-manual.md]
 ---
 ## Beekeeping Plants
-**Source:** Permaculture: A Designers' Manual, Bill Mollison (1988)
+**Source:** Permaculture: A Designers" Manual, Bill Mollison (1988)
 ## Overview
 Mollison treats bee fodder plants as an essential component of integrated
 [[dry-gardening-unirrigated-vegetable-production-solomon]]

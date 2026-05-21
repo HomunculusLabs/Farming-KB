@@ -10,7 +10,7 @@ type: concept
 
 ## Water Storage Principles
 
-Global water statistics frame the urgency of intelligent water design: 75% of fresh water is locked in glaciers and ice caps and unavailable for use, while less than 1% of the world's water is actively moving through accessible cycles. Permaculture addresses this through multiple storage strategies working in concert:
+Global water statistics frame the urgency of intelligent water design: 75% of fresh water is locked in glaciers and ice caps and unavailable for use, while less than 1% of the world"s water is actively moving through accessible cycles. Permaculture addresses this through multiple storage strategies working in concert:
 
 - **Surface storage**: Ponds, dams, and tanks capture runoff for direct use and productive aquaculture.
 - **Swales**: On-contour earthworks that intercept water flow, allowing infiltration into the soil profile and slow downslope release.
@@ -39,7 +39,7 @@ The most productive zone in terms of biomass and species diversity. Edge plants 
 - **Arrowheads (Sagittaria spp.)**: Edible tubers, also known as "wapato," valued by indigenous peoples as a staple carbohydrate source.
 - **Duck potatoes (Sagittaria latifolia)**: Related to arrowheads, producing nutritious tubers in the soft mud of shallow waters.
 - **Wild rice (Zizania spp.)**: A native grain crop thriving in shallow standing water, providing high-protein seed for human and animal consumption.
-- **Mint (Mentha spp.)**: Excellent pond-edge crop, thriving in the moist soils at the water's margin with aromatic culinary and medicinal harvests.
+- **Mint (Mentha spp.)**: Excellent pond-edge crop, thriving in the moist soils at the water"s margin with aromatic culinary and medicinal harvests.
 
 ### Shallow Water Zone (15–50 cm depth)
 

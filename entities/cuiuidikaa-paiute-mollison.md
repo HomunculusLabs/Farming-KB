@@ -1,5 +1,5 @@
 ---
-title: Cuiuidika'a (Paiute)
+title: Cuiuidika"a (Paiute)
 source: bill-mollison-permaculture-a-designers-manual.md
 type: entity
 tags: [people, indigenous, nevada, environmental-history, water-loss]
@@ -7,7 +7,7 @@ tags: [people, indigenous, nevada, environmental-history, water-loss]
 
 ## Description
 
-The Cuiuidika'a are a band of the Northern Paiute people whose traditional territory encompasses the Pyramid Lake area in Nevada, USA. Their name means "Cui-ui eaters," referring to the endemic cui-ui fish (Chasmistes cujus) that was a staple of their diet. Mollison cites their story as a case study in how deforestation and water diversion destroyed an indigenous people's resource base within a single century.
+The Cuiuidika'a are a band of the Northern Paiute people whose traditional territory encompasses the Pyramid Lake area in Nevada, USA. Their name means "Cui-ui eaters," referring to the endemic cui-ui fish (Chasmistes cujus) that was a staple of their diet. Mollison cites their story as a case study in how deforestation and water diversion destroyed an indigenous people"s resource base within a single century.
 
 ## Classification
 

@@ -3,7 +3,7 @@ title: "Schisandra vs Chamomile"
 tags: [comparison, schisandra, chamomile, adaptogen, medicinal-herbs, herbal-medicine]
 date: 2026-05-14
 updated: 2026-05-14
-sources: ['raw/papers/amanita-muscaria-herb-of-immortality.md']
+sources: ["raw/papers/amanita-muscaria-herb-of-immortality.md']
 ---
 
 ## Schisandra vs Chamomile
@@ -32,7 +32,7 @@ theory to the five major organ systems.
 
 As an adaptogen, schisandra works primarily through its lignan compounds
 (schisandrin A and B, gomisin, and others) that modulate the hypothalamic-
-pituitary-adrenal (HPA) axis. Regular use enhances the body's resistance to
+pituitary-adrenal (HPA) axis. Regular use enhances the body"s resistance to
 physical, chemical, and biological stressors. Clinical research supports its
 use for improving endurance, reducing fatigue, and increasing mental clarity
 under pressure.

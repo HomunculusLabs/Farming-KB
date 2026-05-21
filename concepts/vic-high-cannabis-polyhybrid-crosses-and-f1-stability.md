@@ -11,7 +11,7 @@ tags: [cannabis]
 
 ## Cannabis Polyhybrid Crosses and F1 Stability
 
-[[vic-high]]'s breeding text addresses the genetics underlying hybrid crosses and the challenges of maintaining stability when traits are controlled by multiple genes. While the term "polyhybrid" is not used explicitly, the principles governing complex multi-gene inheritance are central to the text's practical breeding advice and directly explain why complex crosses are difficult to stabilise.
+[[vic-high]]"s breeding text addresses the genetics underlying hybrid crosses and the challenges of maintaining stability when traits are controlled by multiple genes. While the term "polyhybrid" is not used explicitly, the principles governing complex multi-gene inheritance are central to the text"s practical breeding advice and directly explain why complex crosses are difficult to stabilise.
 
 ## F1 Hybrids: Uniform but Not True Breeding
 
@@ -53,7 +53,7 @@ Each additional gene pair multiplies the probabilities together. This is why Vic
 
 ## Choosing Between Cubing and Generational Inbreeding
 
-For complex polygenic traits, Vic High's models consistently show that generational inbreeding with full-sib selection outperforms cubing.
+For complex polygenic traits, Vic High"s models consistently show that generational inbreeding with full-sib selection outperforms cubing.
 
 ### Single Recessive Gene Comparison
 
@@ -67,7 +67,7 @@ When the parent being preserved carries heterozygous dominant traits (common wit
 - Cubing: gene frequency caps at 50% for each heterozygous dominant gene, regardless of how many backcrosses are performed. This means 25% true breeding maximum.
 - Generational inbreeding: requires more generations but benefits enormously from full-sib selection, reaching 96% phenotypic uniformity by F5.
 
-Vic High states bluntly: "as long as the cubed source is heterozygous, it doesn't matter how many backcrosses you do, you will never achieve a true breeding strain." This makes generational inbreeding with selection the only viable path for complex trait stabilization.
+Vic High states bluntly: "as long as the cubed source is heterozygous, it doesn"t matter how many backcrosses you do, you will never achieve a true breeding strain." This makes generational inbreeding with selection the only viable path for complex trait stabilization.
 
 ## Hybrid Vigour and Genetic Stability
 

@@ -16,7 +16,7 @@ Ice water extraction (also called water hash, Ice-O-Lator hash, ice hash, THC cr
 
 ## Scientific Principle
 
-The process relies on simple physics described as "Sadu Sam's Secret" in [[query-how-do-i-prevent-mold-and-mildew-in-my-cannabis-grow]]:
+The process relies on simple physics described as "Sadu Sam"s Secret" in [[query-how-do-i-prevent-mold-and-mildew-in-my-cannabis-grow]]:
 
 ## Practical Applications
 

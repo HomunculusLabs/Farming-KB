@@ -35,7 +35,7 @@ as we call it, is but one special type of consciousness, whilst all about it,
 parted from it by the filmiest of screens, there lie potential forms of
 consciousness entirely different."
 
-James's radical empiricism held that all forms of conscious experience deserve
+James"s radical empiricism held that all forms of conscious experience deserve
 equal epistemic respect—that no form of consciousness should be privileged a
 priori as more "real" or "valid" than another. This was a radical departure
 from both the materialist assumption that ordinary waking consciousness is the
@@ -44,7 +44,7 @@ certain approved forms of religious experience are valid.
 
 ## Connection to Shamanic Worldview
 
-Metzner used James's framework to bridge the gap between Western psychotherapy
+Metzner used James"s framework to bridge the gap between Western psychotherapy
 and indigenous shamanism. The shamanic worldview, which recognizes "multiple
 worlds" accessible in expanded states of consciousness and affirms the reality
 of "[[shamanic-vs-western-psychedelic-healing]] therapy tradition, despite
@@ -53,7 +53,7 @@ conclusions that support the shamanic worldview. The discovery of transpersonal
 re [[lsd-set-and-setting-framework]] and setting are more
 important than pharmacology, and the consistent reports of encounters with
 apparently independent intelligences under psychedelics all point toward a
-reality that James's radical empiricism had anticipated.
+reality that James"s radical empiricism had anticipated.
 
 ## The Two Radical Challenges to Western Worldview
 

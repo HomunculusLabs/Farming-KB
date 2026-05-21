@@ -7,7 +7,7 @@ tags: [taxonomy, mushrooms, polypores, boleti, classification]
 
 ## Description
 
-The Polyporei are a historical taxonomic grouping of fungi characterized by having a sponge-like mass of pores or tubes beneath the cap, rather than the thin gills (lamellae) seen in the Agaricini. In Palmer's 19th-century classification, the Polyporei included both the Boleti (with well-defined stems and distinct, separable pores) and the shelf-like polypores (often stemless, growing on wood). The modern taxonomic equivalents span multiple orders, primarily the Polyporales and parts of the Boletales. This group contains some of the most important edible and medicinal fungi known to humanity.
+The Polyporei are a historical taxonomic grouping of fungi characterized by having a sponge-like mass of pores or tubes beneath the cap, rather than the thin gills (lamellae) seen in the Agaricini. In Palmer"s 19th-century classification, the Polyporei included both the Boleti (with well-defined stems and distinct, separable pores) and the shelf-like polypores (often stemless, growing on wood). The modern taxonomic equivalents span multiple orders, primarily the Polyporales and parts of the Boletales. This group contains some of the most important edible and medicinal fungi known to humanity.
 
 ## Classification
 
@@ -26,7 +26,7 @@ The Polyporei are a historical taxonomic grouping of fungi characterized by havi
 - Palmer considered the Boleti "probably free from danger to human life," noting that no student would likely eat one of the nauseous varieties, and that mild-tasting, modest-colored Boleti are "delicious eating."
 - The highly colored Boleti had "the reputation of being poisonous," though Palmer noted this was a generalization.
 - Many polypore species are bitter, slimy, or tough -- qualities that naturally discourage consumption.
-- The Polyporei were classified as the second of three major groups in Palmer's identification framework.
+- The Polyporei were classified as the second of three major groups in Palmer"s identification framework.
 
 ## Sub-groups
 
@@ -42,7 +42,7 @@ The Polyporei are a historical taxonomic grouping of fungi characterized by havi
 - Often stemless, growing as brackets or shelves on living or dead trees
 - Many species bitter, tough, or woody in texture
 - Generally not eaten directly due to texture, but some have significant medicinal value
-- *Polyporus squamosus* (dryad's saddle) mentioned as bitter-tasting
+- *Polyporus squamosus* (dryad"s saddle) mentioned as bitter-tasting
 - Major decomposers of dead wood in forest ecosystems
 
 ## Comparison with Other Groups

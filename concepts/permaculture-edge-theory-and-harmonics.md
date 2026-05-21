@@ -47,7 +47,7 @@ Not all edges are productive. The **compatibility** of the adjoining systems det
 - **Non-beneficent**: Planting tomatoes against a pine forest — the allelopathic chemicals from pine needles suppress tomato growth, and the shade and root competition create hostile conditions
 - **Beneficent**: Planting blueberries against a pine forest — the acidic leaf litter from pines creates ideal [[soil-ph]] for blueberries, the dappled shade reduces heat stress, and the two systems reinforce each other
 
-The designer's task is to identify which system combinations create mutual benefit and which create antagonism.
+The designer"s task is to identify which system combinations create mutual benefit and which create antagonism.
 
 ## Aboriginal Patterns and Landscape Recognition
 

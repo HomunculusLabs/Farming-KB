@@ -20,7 +20,7 @@ type: concept
 
 ## Overview
 
-Following World War II, [[fukuoka-citrus-orchard-establishment-bare-hillside]] by applying large quantities of sawdust and wood chips to the soil surface. This practice directly contradicted the advice of soil experts of the time, who warned that the organic acids produced during wood decomposition would inevitably acidify the soil and necessitate heavy lime applications. The actual outcome became a cornerstone of Fukuoka's natural [[fukuoka-textdoc-nature-must-not-be-dissected-limits-scientific-analysis]] often fails to predict.
+Following World War II, [[fukuoka-citrus-orchard-establishment-bare-hillside]] by applying large quantities of sawdust and wood chips to the soil surface. This practice directly contradicted the advice of soil experts of the time, who warned that the organic acids produced during wood decomposition would inevitably acidify the soil and necessitate heavy lime applications. The actual outcome became a cornerstone of Fukuoka"s natural [[fukuoka-textdoc-nature-must-not-be-dissected-limits-scientific-analysis]] often fails to predict.
 
 ## The Conventional Scientific Warning
 

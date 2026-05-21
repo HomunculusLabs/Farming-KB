@@ -7,7 +7,7 @@ tags:
 ## Overview
 
 White clover (*[[fungal-melanin-biosynthesis-ecological-functions]] simultaneously that replace the need for fertilizers, herbicides,
-and intensive soil management. Fukuoka's use of clover exemplifies his broader principle
+and intensive soil management. Fukuoka"s use of clover exemplifies his broader principle
 of working with natural biological systems rather than substituting human labor and
 chemical inputs for ecological services.
 

@@ -21,7 +21,7 @@ Forms an unbranched tall central stalk with leaves growing from nodes. The most 
 
 Forms a rosette pattern — all leaves come out of a central point close to the ground, similar to a lettuce or spinach plant. Siberian kale crosses only with rutabaga (swede) and is essentially a rutabaga bred for tasty leaves instead of a bulbous root.
 
-**Flavor note**: Some prefer Siberian's flavor when kale is used raw in salads.
+**Flavor note**: Some prefer Siberian"s flavor when kale is used raw in salads.
 
 ## The Refinement Spectrum
 

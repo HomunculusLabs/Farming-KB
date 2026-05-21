@@ -23,7 +23,7 @@ Lama Anagarika Govinda (1898-1985), born Ernst Lothar Hoffmann, was a German-bor
 - Born Ernst Lothar Hoffmann in Waldheim, Germany (1898)
 - Founded the Order of the Arya Maitreya Mandala in 1933
 - Lived and studied in Tibetan Buddhist monasteries in Sri Lanka and India
-- His interpretation of the wrathful deities was central to Leary's adaptation of the Bardo Thodol
+- His interpretation of the wrathful deities was central to Leary"s adaptation of the Bardo Thodol
 
 ### Key Quotations Cited by Leary
 
@@ -31,10 +31,10 @@ On the peaceful vs. wrathful deities:
 > "The peaceful forms of Dhyani-Buddhas represent the highest ideal of Buddhahood in its completed, final, static condition of ultimate attainment or perfection, seen retrospectively as it were, as a state of complete rest and harmony."
 
 On the Herukas (wrathful deities):
-> "The Herukas, which are described as 'blood-drinking,' angry or 'terrifying' deities — are merely the dynamic aspect of enlightenment, the process of becoming a Buddha, of attaining illumination, as symbolized by the Buddha's struggle with the Hosts of Mara."
+> "The Herukas, which are described as "blood-drinking,' angry or 'terrifying' deities — are merely the dynamic aspect of enlightenment, the process of becoming a Buddha, of attaining illumination, as symbolized by the Buddha's struggle with the Hosts of Mara."
 
 On the breakthrough:
-> "The ecstatic figures, heroic and terrifying, express the act of breaking through towards the unthinkable, the intellectually 'Unattainable.' They represent the leap over the chasm, which yawns between an intellectual surface consciousness and the intuitive supra-personal depth-consciousness."
+> "The ecstatic figures, heroic and terrifying, express the act of breaking through towards the unthinkable, the intellectually "Unattainable.' They represent the leap over the chasm, which yawns between an intellectual surface consciousness and the intuitive supra-personal depth-consciousness."
 
 ### Chakra Assignments (per Govinda)
 
@@ -44,10 +44,10 @@ On the breakthrough:
 
 ## Relevance to Cultivation and Mycology
 
-- Govinda's distinction between static (peaceful) and dynamic (wrathful) modes of consciousness-expansion provides a useful framework for understanding why psilocybin sessions can alternate between blissful unity and terrifying dissolution
+- Govinda"s distinction between static (peaceful) and dynamic (wrathful) modes of consciousness-expansion provides a useful framework for understanding why psilocybin sessions can alternate between blissful unity and terrifying dissolution
 - His chakra assignment of wrathful visions to the "Brain chakra" (intellectual center) supports the clinical observation that intellectually rigid individuals tend to have more difficult psychedelic experiences
 - The concept of "breaking through toward the unthinkable" directly describes the psilocybin experience of encountering states that resist verbal description — the "ineffability" noted in mystical experience research
-- Govinda's framework of the "leap over the chasm" between surface and depth consciousness parallels the modern concept of psilocybin's action in disrupting default mode network activity to allow access to deeper unconscious material
+- Govinda"s framework of the "leap over the chasm" between surface and depth consciousness parallels the modern concept of psilocybin's action in disrupting default mode network activity to allow access to deeper unconscious material
 - His influence on Leary's adaptation of the Bardo Thodol makes him an indirect but significant figure in the history of psychedelic therapy
 
 ## Sources

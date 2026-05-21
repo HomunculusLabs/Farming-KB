@@ -10,7 +10,7 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - D. J. Mabberley (2017). "Mabberley's Plant-Book." Cambridge University Press.
+  - D. J. Mabberley (2017). "Mabberley"s Plant-Book." Cambridge University Press.
 ---
 
 ## Overview
@@ -45,7 +45,7 @@ The species reaches its greatest abundance in the southern Appalachians, where e
 
 Forest ecologists have documented a "rhododendron gap dynamics" pattern in southern Appalachian coves. Dense R. maximum thickets suppress tree seedling establishment for decades, creating arrested successional stages. When drought or disturbance kills rhododendron, rapid tree recruitment follows.
 
-This gap-phase dynamics cycle can take 50–100 years to complete, making R. maximum one of the longest-lived successional inhibitors in eastern forests. The species' ability to maintain arrested succession has important implications for [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] rates in the forest floor.
+This gap-phase dynamics cycle can take 50–100 years to complete, making R. maximum one of the longest-lived successional inhibitors in eastern forests. The species" ability to maintain arrested succession has important implications for [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] rates in the forest floor.
 
 The combination of light interception, allelopathy, and slow [[hamilton-ornamental-shrub-care]] in [[hamilton-vegetative-propagation]] method that achieves higher success rates in garden settings.
 

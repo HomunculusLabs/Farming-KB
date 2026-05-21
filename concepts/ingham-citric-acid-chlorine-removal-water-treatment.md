@@ -25,7 +25,7 @@ aerobic bacteria, fungi, protozoa, and nematodes that chlorine targets. (see [[c
 
 ## Citric Acid as a Chlorine Neutralizer
 
-Ingham addresses citric acid directly: "I'm going to agree that citric
+Ingham addresses citric acid directly: "I"m going to agree that citric
 acid is not your best choice, or most effective method, of removing
 chlorine." She explains the fundamental problem: "Citric acid works only
 if you know how much chlorine you are working with in your water, and
@@ -34,7 +34,7 @@ quite variable."
 
 Chlorine levels in municipal water fluctuate significantly by season,
 time of day, and location. Ingham cites Las Vegas as having "some of the
-highest chlorine levels in their water that I've ever experienced," and
+highest chlorine levels in their water that I"ve ever experienced," and
 notes that water in Toowoomba and Brisbane, Australia is "even more
 chlorinated." Because the concentration is variable, it is nearly
 impossible to dose citric acid accurately without testing each batch of

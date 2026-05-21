@@ -63,7 +63,7 @@ Just as the stem of a tree encapsulates its history as smaller and smaller growt
 
 ### The Buddhist Connection
 
-This is the basis of the Buddhist belief that all time is enfolded or implicate in the present — that current events are part of a total sequence, all of which are enfolded in the present tree as ancestors or siblings. David Bohm's concept of the "implicate order" expresses this same idea in physics.
+This is the basis of the Buddhist belief that all time is enfolded or implicate in the present — that current events are part of a total sequence, all of which are enfolded in the present tree as ancestors or siblings. David Bohm"s concept of the "implicate order" expresses this same idea in physics.
 
 ### The Present as Origin
 

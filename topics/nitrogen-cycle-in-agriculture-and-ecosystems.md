@@ -9,7 +9,7 @@ sources:
 
 ## Nitrogen Cycle in Agriculture and Ecosystems
 
-Nitrogen (N) is the element most frequently limiting to plant growth in terrestrial ecosystems. Despite comprising 78% of Earth's atmosphere as diatomic nitrogen (N₂), this form is chemically inert and unavailable to most organisms. The nitrogen cycle — the suite of biological, chemical, and physical processes that convert N₂ into biologically reactive forms and back again — is arguably the most anthropogenically disrupted of all elemental cycles. Understanding its dynamics is essential for sustainable agriculture, ecosystem management, and climate mitigation.
+Nitrogen (N) is the element most frequently limiting to plant growth in terrestrial ecosystems. Despite comprising 78% of Earth"s atmosphere as diatomic nitrogen (N₂), this form is chemically inert and unavailable to most organisms. The nitrogen cycle — the suite of biological, chemical, and physical processes that convert N₂ into biologically reactive forms and back again — is arguably the most anthropogenically disrupted of all elemental cycles. Understanding its dynamics is essential for sustainable agriculture, ecosystem management, and climate mitigation.
 
 ## The Core Nitrogen Cycle: Major Transformations
 

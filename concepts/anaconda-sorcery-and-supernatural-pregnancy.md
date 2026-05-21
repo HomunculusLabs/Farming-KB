@@ -10,13 +10,13 @@ type: concept
 
 Anaconda sorcery and supernatural pregnancy constitute a significant class of spiritual illness within the Shipibo-Conibo and broader [[pablo-amaringo]] in *Ayahuasca Visions*. The central phenomenon—**boa chichuchishca** (literally "begot by a boa")—describes a condition in which a woman is supernaturally impregnated by an anaconda through sorcerous means. This malady sits at the intersection of [[icaros]] (healing songs).
 
-Amaringo's Visions 32, 33, and 34—titled "Pregnant by an Anaconda," "Campana Ayahuasca," and "Maituch Iscami" respectively—form a triptych that explores sorcery, healing, and the restoration of magical power from complementary angles. Together they reveal a cosmological framework in which serpent spirits operate as both agents of illness and catalysts for the healer's development of mastery.
+Amaringo"s Visions 32, 33, and 34—titled "Pregnant by an Anaconda," "Campana Ayahuasca," and "Maituch Iscami" respectively—form a triptych that explores sorcery, healing, and the restoration of magical power from complementary angles. Together they reveal a cosmological framework in which serpent spirits operate as both agents of illness and catalysts for the healer"s development of mastery.
 
 ## Boa Chichuchishca: The Phenomenon
 
 ### Etiology and Mechanism
 
-The term *boa chichuchishca* derives from the Quechua-influenced Amazonian Spanish, meaning "begot by a boa" or "conceived by a boa," and belongs to a wider complex of [[genipa-americana]]*)**: The fruit is cut in halves, scraped slightly, and prepared with warm water. Jagua is one of the most important plants in Amazonian healing, widely used for its antimicrobial and protective properties. The remedy is prepared while the healer sings numerous icaros over it, blowing on the preparation (*sopladura*) and imbuing it with *arkanas* (spiritual defenses or shields). The jagua preparation serves both as a physical purgative and as a spiritually charged vehicle for the healer's intention.
+The term *boa chichuchishca* derives from the Quechua-influenced Amazonian Spanish, meaning "begot by a boa" or "conceived by a boa," and belongs to a wider complex of [[genipa-americana]]*)**: The fruit is cut in halves, scraped slightly, and prepared with warm water. Jagua is one of the most important plants in Amazonian healing, widely used for its antimicrobial and protective properties. The remedy is prepared while the healer sings numerous icaros over it, blowing on the preparation (*sopladura*) and imbuing it with *arkanas* (spiritual defenses or shields). The jagua preparation serves both as a physical purgative and as a spiritually charged vehicle for the healer"s intention.
 
 2. **Pucunucho (*Capsicum* sp.) and Rocoto**: These fiery pepper plants are used to stun or disorient the boa, exploiting the serpent's presumed sensitivity to intense botanical energies. Their application represents a principle common to many healing traditions—the use of opposing forces to neutralize a harmful entity. The capsaicin-containing plants create an internal environment hostile to the serpent spirit.
 
@@ -56,7 +56,7 @@ Vision 33 also reveals armed beings with four faces who inhabit subaquatic citie
 
 ### The Condition
 
-Vision 34 addresses **Maituch Iscami**, derived from the Quechua *maytuy* ("to twist") with the suffix *-shcami* indicating a completed or inflicted action. *Maituchishcami* thus means "one's magic powers are twisted"—a condition in which a practitioner's or patient's spiritual energy has been distorted, knotted, or inverted through sorcery. Unlike boa chichuchishca, which targets the physical body through reproductive invasion, maituch iscami attacks the subtle body, compromising the victim's capacity for healing, protection, and spiritual perception. This condition can afflict not only laypeople but also vegetalistas themselves, making it one of the most insidious forms of sorcery.
+Vision 34 addresses **Maituch Iscami**, derived from the Quechua *maytuy* ("to twist") with the suffix *-shcami* indicating a completed or inflicted action. *Maituchishcami* thus means "one"s magic powers are twisted"—a condition in which a practitioner"s or patient's spiritual energy has been distorted, knotted, or inverted through sorcery. Unlike boa chichuchishca, which targets the physical body through reproductive invasion, maituch iscami attacks the subtle body, compromising the victim's capacity for healing, protection, and spiritual perception. This condition can afflict not only laypeople but also vegetalistas themselves, making it one of the most insidious forms of sorcery.
 
 ### The Sumiruna's Intervention
 

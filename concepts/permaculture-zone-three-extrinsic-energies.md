@@ -16,7 +16,7 @@ type: concept
 - **Wide-spaced plantings** — larger trees with understory grazing, functioning as integrated polycultures
 - **Occasional mulching, pruning, and harvesting** — management tasks measured in weeks or months, not days
 
-Zone three is where you transition from garden to farm. It is still domesticated but operates at a lower intensity, relying on natural systems to carry much of the maintenance burden. The designer's role shifts from active management to **observation and strategic intervention** — visiting weekly or monthly rather than daily.
+Zone three is where you transition from garden to farm. It is still domesticated but operates at a lower intensity, relying on natural systems to carry much of the maintenance burden. The designer"s role shifts from active management to **observation and strategic intervention** — visiting weekly or monthly rather than daily.
 
 ## Semi-Domesticated Animals in Zone Three
 

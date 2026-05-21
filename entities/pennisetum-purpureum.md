@@ -8,7 +8,7 @@ type: entity
 
 ## Description
 
-Pennisetum purpureum, commonly known as Napier grass or elephant grass, is a large, perennial tropical grass species native to the grasslands of Africa. It is one of the highest-yielding forage grasses in the world, capable of producing enormous volumes of biomass per hectare. In Bill Mollison's *Permaculture: A Designer's Manual*, it is listed among the important grass species used in permaculture systems.
+Pennisetum purpureum, commonly known as Napier grass or elephant grass, is a large, perennial tropical grass species native to the grasslands of Africa. It is one of the highest-yielding forage grasses in the world, capable of producing enormous volumes of biomass per hectare. In Bill Mollison"s *Permaculture: A Designer's Manual*, it is listed among the important grass species used in permaculture systems.
 
 ## Classification
 
@@ -59,7 +59,7 @@ Napier grass requires regular cutting (every 6–8 weeks) to maintain palatabili
 
 ## References
 
-- Mollison, B. (1988). *Permaculture: A Designer's Manual*. Tagari Publications. — Plant species listing, pp. 597–600.
+- Mollison, B. (1988). *Permaculture: A Designer"s Manual*. Tagari Publications. — Plant species listing, pp. 597–600.
 
 ### Riparian Buffer Strips
 

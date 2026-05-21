@@ -16,7 +16,7 @@ type: concept
 [[basidiocarp-four-stage-development-classification-psilocybe-cubensis-badham-1982]]*), a psilocybin-containing mushroom that grows on
 cow dung in tropical and subtropical grasslands, may have been the real
 "Tree of Knowledge" referenced in the Genesis account of Eden. This
-hypothesis forms a central pillar of McKenna's argument that
+hypothesis forms a central pillar of McKenna"s argument that
 [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]]
 could have produced significant effects on early hominid brain development
 and social organization:

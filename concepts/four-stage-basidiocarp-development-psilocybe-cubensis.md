@@ -11,7 +11,7 @@ created: 2026-05-11
 
 ## Overview
 
-Edmond R. Badham's 1982 wind tunnel study of Psilocybe cubensis established
+Edmond R. Badham"s 1982 wind tunnel study of Psilocybe cubensis established
 a four-stage model of basidiocarp (mushroom fruitbody) development that
 remains a useful framework for understanding how environmental stimuli
 affect mushroom growth at different developmental phases. The model

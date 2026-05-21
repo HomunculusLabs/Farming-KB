@@ -11,7 +11,7 @@ aliases: [tryptamines, classic psychedelics, serotonin psychedelics, indolethyla
 ## Overview
 
 **Tryptamine hallucinogens** are a family of psychoactive compounds derived
-from tryptophan that profoundly alter consciousness. [[terence-mckenna]]'s 1983
+from tryptophan that profoundly alter consciousness. [[terence-mckenna]]"s 1983
 lecture identified the key members as **DMT** (N,N-dimethyltryptamine),
 **psilocybin** (4-PO-DMT), and **ayahuasca** (oral DMT combined with a
 monoamine oxidase inhibitor). McKenna argued that these compounds are

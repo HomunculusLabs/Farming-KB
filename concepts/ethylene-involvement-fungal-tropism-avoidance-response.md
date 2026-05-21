@@ -24,7 +24,7 @@ and Gallori (1977) demonstrated that ethylene is involved in the autochemotropic
 (avoidance) response of *Phycomyces*, providing the first direct evidence that this
 gaseous hormone functions as a tropic signal in the fungal kingdom.
 
-Key observations supporting ethylene's role in fungal tropism include:
+Key observations supporting ethylene"s role in fungal tropism include:
 
 - **Autochemotropism**: *Phycomyces* sporangiophores bend away from obstacles and
   from each other. This avoidance response depends on the redistribution of gases

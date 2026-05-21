@@ -9,7 +9,7 @@ sources:
 ---
 ## Sacred Road Pilgrimage to Eleusis
 
-**Source:** The [[demeter-and-persephone-the-homeric-hymn-and-eleusinian-foundation-myth]] and the initiate's own journey toward visionary death and rebirth.
+**Source:** The [[demeter-and-persephone-the-homeric-hymn-and-eleusinian-foundation-myth]] and the initiate"s own journey toward visionary death and rebirth.
 
 ## The Route and Its Symbolism
 
@@ -23,9 +23,9 @@ This crossing symbolized the frontier between the world of the living and the re
 
 The territory of Eleusis was "a region sacred for its special affinity with the realm of departed spirits, who were thought to insure the fertility of the adjacent plain of grain." The pilgrimage physically enacted the movement from the civilized world of Athens into the chthonic (underworld) zone.
 
-### The Maiden's Well
+### The Maiden"s Well
 
-Upon arrival at Eleusis, "they danced far into the night beside the well where originally the mother had mourned for her lost Persephone." This reenactment connected the initiates to Demeter's original grief and set the emotional stage for the transformative experience.
+Upon arrival at Eleusis, "they danced far into the night beside the well where originally the mother had mourned for her lost Persephone." This reenactment connected the initiates to Demeter"s original grief and set the emotional stage for the transformative experience.
 
 ## Participants
 

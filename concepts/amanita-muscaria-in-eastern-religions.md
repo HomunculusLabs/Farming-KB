@@ -20,7 +20,7 @@ The [[amanita-muscaria-fly-agaric-history-and-pharmacology]] theory, first propo
 
 The [[amanita-muscaria-feathered-serpent-phoenix]] (Quetzalcoatl in Mesoamerica) is connected by the author to Amanita muscaria through:
 
-- The serpent's association with transformation and rebirth
+- The serpent"s association with transformation and rebirth
 - The feathered appearance (resembling the white spots on the red cap)
 - The association with knowledge and civilization
 - The promise of return (the mushroom's ability to resurrect)

@@ -51,7 +51,7 @@ alcohol, minimal social contact, and purification through tobacco and
 bathing. The dieta typically lasts weeks or months.
 
 During this period, the plant spirit appears in dreams and ayahuasca
-visions, teaching the practitioner the plant's [[fukuoka-eastern-western-medicine-healing-world-crisis]]. They exchange stories
+visions, teaching the practitioner the plant"s [[fukuoka-eastern-western-medicine-healing-world-crisis]]. They exchange stories
 about supernatural encounters. The vegetalista advises on dietary
 requirements for the ceremony.
 

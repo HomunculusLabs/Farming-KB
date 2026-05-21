@@ -60,7 +60,7 @@ Wiggle wire (also known as wire-lock, springlock, or poly-lock) is a greenhouse 
 ## Installation Notes
 
 - Channel should be deep enough for at least one zigzag wire; two is preferable
-- The wire must be the correct width for the channel — too loose and it won't grip; too tight and insertion is difficult
+- The wire must be the correct width for the channel — too loose and it won"t grip; too tight and insertion is difficult
 - In cold weather, plastic becomes less pliable; careful insertion avoids tearing
 - Channels can be mounted on wooden or metal greenhouse frames
 

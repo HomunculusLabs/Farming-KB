@@ -12,7 +12,7 @@ tags: [history, mazatec]
 
 ## From "Shroom: A Cultural History of the Magic Mushroom" by [[mexican-sacred-mushrooms-indigenous-use-and-ethnobotany]] — they became "the first Westerners ever intentionally to do so."
 
-Wasson's account of his experience is vivid: visions of "brilliant colours, gold and onyx and ebony, all most harmoniously and ingeniously contrived, in richest magnificence." He felt himself a "disembodied eye" hovering above strange landscapes, then a witness to the Platonic realm of forms. He felt he understood "the true, awful meaning of the word 'ecstasy'."
+Wasson"s account of his experience is vivid: visions of "brilliant colours, gold and onyx and ebony, all most harmoniously and ingeniously contrived, in richest magnificence." He felt himself a "disembodied eye" hovering above strange landscapes, then a witness to the Platonic realm of forms. He felt he understood "the true, awful meaning of the word "ecstasy'."
 
 ## The Aftermath: Celebrity and Consequences
 
@@ -22,13 +22,13 @@ Wasson published his famous article "Seeking the Magic Mushroom" in Life magazin
 
 ### The Hippie Invasion
 
-Within months, seekers were knocking on Sabina's door. The trickle of visitors in the early 1960s "became a flood, until Oaxaca was awash with hippies on the magic mushroom trail." Rock stars — Pete Townshend, John Lennon, and Bob Dylan among others — were rumoured to have made the pilgrimage, making Huautla "an essential destination."
+Within months, seekers were knocking on Sabina"s door. The trickle of visitors in the early 1960s "became a flood, until Oaxaca was awash with hippies on the magic mushroom trail." Rock stars — Pete Townshend, John Lennon, and Bob Dylan among others — were rumoured to have made the pilgrimage, making Huautla "an essential destination."
 
 ### Cultural Collision
 
 Hippie culture arrived with fundamentally different ideas. For hippies, mushrooms were "psychedelic" — bound up with authenticity, freedom, individualism, bohemianism, and rebellion. They expected to buy and consume mushrooms as commodities, not deities. "They certainly did not want to be bound to the curandero-led velada, or to the archaic mores and values of an animist peasant culture."
 
-### Sabina's Lament
+### Sabina"s Lament
 
 In later life, Sabina lamented that the power of the mushrooms had been corrupted and was dwindling away. Letcher suggests this may have expressed "the guilt she felt at what she had unwittingly helped to set in motion."
 

@@ -14,7 +14,7 @@ One of the most provocative aspects of the JADAM system is its complete
 [[coleman-deep-organic-farming-philosophy]] inputs. JADAM argues that the modern
 organic farming industry has been misled by myths about fermentation
 that serve primarily to make farmers dependent on purchased products.
-This page explores JADAM's critique and presents the sugar-free,
+This page explores JADAM"s critique and presents the sugar-free,
 water-and-leaf-mold alternative.
 
 ## The Sugar and Molasses Problem

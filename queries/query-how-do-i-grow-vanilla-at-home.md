@@ -1,5 +1,5 @@
 ---
-title: 'How Do I query how do i grow vanilla at home at Home?'
+title: "How Do I query how do i grow vanilla at home at Home?'
 tags: [vanilla, orchid, home-growing, greenhouse, tropical-plants, indoor-gardening, curing, FAQ]
 created: 2026-05-03
 updated: 2026-05-03

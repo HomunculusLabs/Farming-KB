@@ -16,7 +16,7 @@ Mexico possesses the highest number of neurotropic fungal species of any
 country, with 76 species catalogued by Guzmán, Allen, and Gartz (2000).
 Of these, 44 belong to the genus *Psilocybe*, representing 39% of all
 known *Psilocybe* species worldwide. This extraordinary concentration
-of diversity reflects Mexico's unique combination of geographic, climatic,
+of diversity reflects Mexico"s unique combination of geographic, climatic,
 and cultural factors, as well as the intensity of mycological research
 conducted in the country. The indigenous peoples of Mexico maintain the
 most well-documented traditions of neurotropic mushroom use in the world.
@@ -49,14 +49,14 @@ neurotropic *Psilocybe*:
 
 - **[[psilocybe-zapotecorum-section-zapotecorum-americas-pacific-distribution-guzman-1998]]**: Including *P. zapotecorum*, known to Indians
   as "derrumbes" (landslides), found in muddy habitats in Oaxaca
-- **Section Cubensies**: *P. cubensis* is common in Mexico's tropical
+- **Section Cubensies**: *P. cubensis* is common in Mexico"s tropical
   lowlands, known as "san isidros" or "pajaritos" by indigenous peoples
 - **Section Cordisporae**: Several species endemic to Mexican forests
 
 ### Endemic Species
 
 Many [[hypholoma-naematoliformis-endemic-mexican-neurotropic-fungi-guzman-1998]] species are endemic, found nowhere else. The
-country's complex topography — spanning tropical lowlands, temperate
+country"s complex topography — spanning tropical lowlands, temperate
 highlands, subtropical forests, and alpine environments — creates
 numerous microhabitats that support speciation. The Sierra Madre
 mountain ranges, the Trans-Mexican Volcanic Belt, and the diverse

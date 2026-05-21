@@ -38,7 +38,7 @@ distribution or receptor subtype selectivity.
 ## Effects
 
 **Subjective effects profile** (based on limited reports, primarily
-Shulgin's TIHKAL entry):
+Shulgin"s TIHKAL entry):
 
 - **Auditory distortions** — the most notable and distinctive effect;
   sounds perceived as lower in pitch, shifted in timbre, or

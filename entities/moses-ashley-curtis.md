@@ -22,7 +22,7 @@ Rev. Moses Ashley Curtis was an American clergyman and botanist recognized as on
 
 - Curtis was educated at Williams College and was ordained as an Episcopal clergyman, serving parishes in South Carolina and North Carolina throughout his career.
 - His mycological work focused primarily on the fungi of the southeastern United States, a region whose fungal diversity had been largely undocumented before his efforts.
-- Curtis sent thousands of fungal specimens to Berkeley in England, who described and named many new species from Curtis's collections. Their collaboration produced one of the most important bodies of early [[palmer-mushroom-charts-american-mycological-education]] literature.
+- Curtis sent thousands of fungal specimens to Berkeley in England, who described and named many new species from Curtis"s collections. Their collaboration produced one of the most important bodies of early [[palmer-mushroom-charts-american-mycological-education]] literature.
 - He was among the first to document the immense fungal diversity of the [[bolete-fungi-appalachian-region]] and the southeastern coastal plain.
 - Curtis's correspondence with Berkeley, deposited in part at the Boston Society of Natural History, was referenced by Palmer as a key historical resource.
 
@@ -32,7 +32,7 @@ Palmer mentioned Curtis in several significant contexts:
 
 1. **Original American contribution**: Palmer stated that "excepting the writings of Dr. Curtis, of South Carolina, I have yet to meet with an original contribution to American literature on this obscure topic." This underscored the paucity of indigenous American mycological scholarship in the mid-19th century.
 
-2. **Microscope focus**: Palmer noted that Curtis's "very interesting correspondence with [[charles-james-sprague]], deposited at the rooms of the Boston Society of Natural History, gives very little information regarding toadstools, devoting most of his letters to the revelations made by the microscope." Curtis was more interested in microfungi and spore morphology than in the macrofungi that concerned Palmer's culinary studies.
+2. **Microscope focus**: Palmer noted that Curtis"s "very interesting correspondence with [[charles-james-sprague]], deposited at the rooms of the Boston Society of Natural History, gives very little information regarding toadstools, devoting most of his letters to the revelations made by the microscope." Curtis was more interested in microfungi and spore morphology than in the macrofungi that concerned Palmer"s culinary studies.
 
 3. **[[coprinus-comatus]] reclassification**: Palmer observed that Berkeley and Curtis both considered the maned mushroom ([[coprinus-comatus-cultivation]]) to be poisonous — a conclusion later proven incorrect. This shared error by the two leading authorities demonstrated the still-primitive state of fungal edibility knowledge.
 
@@ -40,7 +40,7 @@ Palmer mentioned Curtis in several significant contexts:
 
 ## Relevance to Cultivation and Mycology
 
-1. **Specimen legacy**: Curtis's collections, many of which survive in herbaria today, provided the type specimens for numerous North American fungal species. These remain essential for modern taxonomic work.
+1. **Specimen legacy**: Curtis"s collections, many of which survive in herbaria today, provided the type specimens for numerous North American fungal species. These remain essential for modern taxonomic work.
 
 2. **Biogeographic baseline**: His documentation of southeastern U.S. fungal diversity established a baseline that modern mycologists continue to use for studying changes in fungal distributions over time.
 

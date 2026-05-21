@@ -1,5 +1,5 @@
 ---
-title: Phototropism — Darwin's Plant Vision Experiments
+title: Phototropism — Darwin"s Plant Vision Experiments
 ---
 aliases:
   - phototropism
@@ -30,7 +30,7 @@ source:
 
 Phototropism is the directional growth response of a plant toward or away from a light source. It is one of the most fundamental and widely observed phenomena in plant biology, and it served as the key experimental system through which scientists first demonstrated that plants possess sophisticated light-sensing capabilities. The pioneering work of Charles Darwin and his son Francis in the 1880s established that the tip of a plant shoot is the site [[plant-sensory-biology]] and challenged the longstanding assumption that only animals possessed differentiated sensory organs.
 
-Phototropism is a directional growth response, meaning that the plant does not merely grow more in the presence of light (that is photomorphogenesis), but specifically changes its growth direction to orient toward or away from the light source. Stems typically exhibit positive phototropism (growing toward light), while roots often exhibit negative phototropism (growing away from light and deeper into the soil). This dual response allows the plant to optimize both photosynthesis in its shoots and water and [[mckenna-club-des-hachischins-and-nineteenth-century-literary-hashish]], several naturalists had documented it in various plant species. However, the underlying mechanism was entirely unknown. Most scientists assumed that the bending was a passive mechanical response — perhaps caused by the heating effect of light on one side of the stem, or by some uniform sensitivity distributed across the plant's tissues.
+Phototropism is a directional growth response, meaning that the plant does not merely grow more in the presence of light (that is photomorphogenesis), but specifically changes its growth direction to orient toward or away from the light source. Stems typically exhibit positive phototropism (growing toward light), while roots often exhibit negative phototropism (growing away from light and deeper into the soil). This dual response allows the plant to optimize both photosynthesis in its shoots and water and [[mckenna-club-des-hachischins-and-nineteenth-century-literary-hashish]], several naturalists had documented it in various plant species. However, the underlying mechanism was entirely unknown. Most scientists assumed that the bending was a passive mechanical response — perhaps caused by the heating effect of light on one side of the stem, or by some uniform sensitivity distributed across the plant"s tissues.
 
 The idea that a plant might have a specific sensory organ dedicated to light detection, functionally analogous to an animal eye, was not seriously considered before Darwin's work. Plants were widely regarded as simple organisms that responded to their environment through crude, undifferentiated mechanisms. Darwin's experiments fundamentally changed this view by demonstrating a clear separation between perception and response in plant tissues — a principle that is now recognized as one of the hallmarks of sophisticated sensory systems in all living organisms.
 

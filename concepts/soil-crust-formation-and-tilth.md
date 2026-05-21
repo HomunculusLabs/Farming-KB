@@ -16,7 +16,7 @@ Crust formation works in exactly the same way a finisher puts a smooth surface o
 
 - **Concrete** is a mixture of gravel, coarse sand, and cement. While still wet, the finisher rubs the surface with a trowel, causing gravel to sink and the finest sand and cement to rise to the top. A thin skin of nearly pure cement blended with the finest sand forms on the surface, creating a smooth, hard layer when dry.
 - **Soil** contains sand, silt, and clay particles that blend in much the same way. The sand is like gravel, silt is like coarse sand, and clay is like cement.
-- **Rain or sprinkler droplets** hitting bare soil act exactly like the finisher's trowel. The impact separates clay and silt from the sand. The sand settles a fraction of an inch, leaving clay and silt on top.
+- **Rain or sprinkler droplets** hitting bare soil act exactly like the finisher"s trowel. The impact separates clay and silt from the sand. The sand settles a fraction of an inch, leaving clay and silt on top.
 - **When this thin layer dries**, it forms a tough, impenetrable skin — a soil crust.
 
 ### When Crusts Cause Problems
@@ -75,7 +75,7 @@ Once the bed is covered with 1/4 inch of well-rotted manure or compost, use a bo
 
 1. **Level the surface** precisely for uniform planting depth
 2. **Uniformly blend** the amendment into the top inch through repeated raking action
-3. **Break up** less solidly cemented clods with the rake's teeth
+3. **Break up** less solidly cemented clods with the rake"s teeth
 4. **Comb out lumps** from the surface, pulling resistant lumps to the edge of the bed where they roll down the side and are harmlessly crushed underfoot in the paths over subsequent months
 
 ## Long-Term Tilth Improvement

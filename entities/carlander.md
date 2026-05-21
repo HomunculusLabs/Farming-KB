@@ -10,7 +10,7 @@ tags: [person, ecologist, fisheries, species-diversity, reservoir-ecology, aquac
 ## Description
 
 Carlander is a researcher cited by Bill Mollison in *[[permaculture-design]] and directly contradicts the monoculture paradigm of industrial agriculture.
-- **Aquaculture design:** For permaculture systems incorporating ponds and aquaculture, Carlander's work suggests stocking multiple compatible fish species rather than single-species monocultures to maximize protein yield per unit area. Include surface feeders, mid-water fish, and bottom feeders.
+- **Aquaculture design:** For permaculture systems incorporating ponds and aquaculture, Carlander"s work suggests stocking multiple compatible fish species rather than single-species monocultures to maximize protein yield per unit area. Include surface feeders, mid-water fish, and bottom feeders.
 - **Against simplification:** The finding validates the permaculture critique of replacing complex natural systems (African veld, Australian savannah) with simplified pasture or monoculture plantation — such replacement "grossly decreases total yields" while requiring enormous energy inputs.
 - **Energy accounting:** The energy cost of simplifying complex ecosystems far exceeds the value of the simplified replacement system when measured by total energy return rather than monetary return.
 - **Pond design principle:** Design ponds with multiple niches (deep water, shallows, margins, submerged vegetation, rock piles) to support diverse fish communities and maximize protein production per unit area.

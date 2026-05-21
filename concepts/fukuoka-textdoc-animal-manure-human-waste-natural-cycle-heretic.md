@@ -1,5 +1,5 @@
 ---
-title: "Man as Nature's Heretic and the Natural Waste Cycle"
+title: "Man as Nature"s Heretic and the Natural Waste Cycle"
 created: 2026-04-28
 tags: [fukuoka, ecology, man-and-nature, nutrient-cycling, manure, soil-ecology, natural-philosophy]
 date: 2026-04-28

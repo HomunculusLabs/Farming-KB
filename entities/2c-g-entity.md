@@ -45,7 +45,7 @@ The dimethyl substitution pattern at the 3,4-positions represents a departure fr
 
 ## Pharmacological Discussion
 
-2C-G's pharmacological profile is characterized by its cognitive and intellectual emphasis rather than visual effects. The description of "tremendous clarity of thought" and "excellent flow of ideas" suggests a profile more similar to LSD or DOI than to visually-oriented phenethylamines like 2C-B. This cognitive emphasis, combined with the very long duration, makes 2C-G a compound of theoretical interest for psychedelic-assisted psychotherapy.
+2C-G"s pharmacological profile is characterized by its cognitive and intellectual emphasis rather than visual effects. The description of "tremendous clarity of thought" and "excellent flow of ideas" suggests a profile more similar to LSD or DOI than to visually-oriented phenethylamines like 2C-B. This cognitive emphasis, combined with the very long duration, makes 2C-G a compound of theoretical interest for psychedelic-assisted psychotherapy.
 
 The compound presumably acts through 5-HT2A receptor agonism, with the dimethyl substitution pattern creating a unique binding conformation. The extended duration likely reflects metabolic resistance -- the methyl groups at the 3 and 4 positions may protect against oxidative metabolism by cytochrome P450 enzymes.
 

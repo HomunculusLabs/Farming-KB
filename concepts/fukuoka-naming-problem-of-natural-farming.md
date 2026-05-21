@@ -18,7 +18,7 @@ The creation of a school implies a set of principles that can be transmitted fro
 
 ## The Marketplace of Names
 
-In the decades since Fukuoka first raised the naming problem, the natural farming movement has splintered into dozens of named approaches: permaculture, [[savory-holistic-management-overview]], and many more. Each carries the name of its founder or a branded methodology. From Fukuoka's perspective, this proliferation of names is a symptom of the underlying problem — the human need to own, systematize, and market what should remain nameless.
+In the decades since Fukuoka first raised the naming problem, the natural farming movement has splintered into dozens of named approaches: permaculture, [[savory-holistic-management-overview]], and many more. Each carries the name of its founder or a branded methodology. From Fukuoka"s perspective, this proliferation of names is a symptom of the underlying problem — the human need to own, systematize, and market what should remain nameless.
 
 This does not mean these approaches are worthless; many of them incorporate genuine insights about working with nature. But Fukuoka would caution that the moment any approach becomes a "brand" with certified practitioners and standardized methods, it has already departed from the spirit of natural farming. The [[fukuoka-nature-as-teacher]]
 

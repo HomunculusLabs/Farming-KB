@@ -10,11 +10,11 @@ sources:
 
 ## The Firmament — Mushroom Canopy as Sky Dome
 
-Allegro argues that the biblical concept of the firmament — the solid dome that separates the waters above from the waters below (Gen 1:6-8) — originated as a description of the mushroom's cap, seen from below as a protective canopy over the cultic initiate.
+Allegro argues that the biblical concept of the firmament — the solid dome that separates the waters above from the waters below (Gen 1:6-8) — originated as a description of the mushroom"s cap, seen from below as a protective canopy over the cultic initiate.
 
 ## The Mushroom as Cosmic Dome
 
-"And God said, 'Let there be a firmament in the midst of the waters, and let it separate the waters from the waters'" (Gen 1:6). The Hebrew word for firmament, raqia', means "something beaten out, spread out" — originally referring to a metal plate beaten into a dome shape. In the [[allegro-amanita-muscaria-properties-and-pharmacology]], seen from below as a red-and-white dome suspended above the earth.
+"And God said, "Let there be a firmament in the midst of the waters, and let it separate the waters from the waters'" (Gen 1:6). The Hebrew word for firmament, raqia", means "something beaten out, spread out" — originally referring to a metal plate beaten into a dome shape. In the [[allegro-amanita-muscaria-properties-and-pharmacology]], seen from below as a red-and-white dome suspended above the earth.
 
 The mushroom's cap, with its protective function over the stem and gills beneath, became the model for the cosmic architecture. The sky-dome (firmament) was imagined as a vast mushroom cap, with the stars as the white spots (warts) on the Amanita's surface. The waters above the firmament were the heavenly semen — the divine fluid that fertilized the earth below.
 

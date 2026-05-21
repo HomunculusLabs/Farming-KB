@@ -6,7 +6,7 @@ type: concept
 tags: [mycology, cultivation, mushrooms]
 sources: ["papers/mycelium-running-stamets.md"]
 ---
-Updated: 2026-04-18 ## Overview Paul Stamets' work with Battelle Pacific Northwest Laboratories produced some of the most compelling evidence for [[woodlovers-mycelium-running-pathway-technique]]," demonstrate that mushroom mycelium can degrade a wide range of environmental contaminants at dramatically lower cost than conventional methods. Source: [[staycare-lentinula-edodes-in-bioremediation]]) exposed to heavy metals in dye-enriched effluents **increased laccase production**
+Updated: 2026-04-18 ## Overview Paul Stamets" work with Battelle Pacific Northwest Laboratories produced some of the most compelling evidence for [[woodlovers-mycelium-running-pathway-technique]]," demonstrate that mushroom mycelium can degrade a wide range of environmental contaminants at dramatically lower cost than conventional methods. Source: [[staycare-lentinula-edodes-in-bioremediation]]) exposed to heavy metals in dye-enriched effluents **increased laccase production**
 - The increased enzyme activity decolorized toxic dyes while simultaneously absorbing heavy metals
 - This dual action — enzymatic degradation of organic pollutants and bioaccumulation of metals — is a key advantage of [[arbuscular-mycorrhizal-fungi-biology-symbiosis]] can absorb and sequester heavy metals:
 - Arsenic, copper, zinc, iron, lead, cadmium, nickel, mercury, chromium, and aluminum

@@ -7,14 +7,14 @@ type: concept
 ## Opal / Paiderōs "The Beloved"
 
 The Greek name for opal was **Paiderōs** (παιδερός). Pliny the Elder describes
-the opal's dominant colour as "a mixture of sky-blue and purple" and notes that
+the opal"s dominant colour as "a mixture of sky-blue and purple" and notes that
 its brilliance is "darkened by the colour of wine" — the mark of a superior
 specimen. He further records "salt-like specks or rough places or dots" across
 its surface, a texture that mirrors the flecked cap of the *[[allegro-sacred-mushroom-cross-introduction-fertility-cults]] concealed within the language of mineralogy.
 
 Matthew 3:17 reproduces this precise false etymology. At the baptism of Jesus, a
 voice from heaven declares: "This is my son, the **beloved**" (ho *agapētos*,
-but the underlying Semitic pais-erōtis construction mirrors Pliny's
+but the underlying Semitic pais-erōtis construction mirrors Pliny"s
 *paiderastēs* derivation exactly). The baptismal voice thus speaks the name of
 the opal — the name of the mushroom — over the head of Jesus.
 
@@ -24,7 +24,7 @@ mushroom himself, reclining in the bosom of Jesus throughout the Johannine
 passion narrative.
 
 At the Last Supper (John 13:21–26), the "disciple whom Jesus loved" lies in
-Jesus' bosom. Jesus dips a morsel and gives it to Judas Iscariot. The "dipping"
+Jesus" bosom. Jesus dips a morsel and gives it to Judas Iscariot. The "dipping"
 derives from Sumerian **\*TAB-BA-LI** and the Semitic root **t-b-l** ("to dip,
 to dye") — linking the sacramental act to the preparation and colouring of the
 mushroom. The morsel dipped and handed over is the mushroom itself.
@@ -55,7 +55,7 @@ scabby excrescence of fertility religion.
 The prophetic movement that produced the Hebrew Bible stood in opposition to
 the fungus cult, but Allegro stresses this was "never clear-cut opposition."
 Yahweh was himself a fertility god; [[allegro-colour-and-consistency-of-the-amanita-muscaria]]* cap. Barnabas is thus
-"spotted skin" — the mushroom's hide.
+"spotted skin" — the mushroom"s hide.
 
 The **n-b-s** root-group is remarkably consistent across languages:
 
@@ -71,7 +71,7 @@ mushroom across the entire linguistic history of [[allegro-fertility-philosophy-
 
 The title "Son of Encouragement" rests on word-play between **h-n-n**
 ("gracious, encouraging") and **kh-n-n** ("red"). To be "encouraged" is to be
-made red — reddened by the mushroom's dye.
+made red — reddened by the mushroom"s dye.
 
 Barnabas is identified as a "native of Cyprus" (*Kuprios*). *Kupros* is the
 red dye **henna**. The Sumerian behind it is **GU-BAR**, meaning "top of head;
@@ -85,7 +85,7 @@ It is cognate with **Jasper** (*iaspis* / Hebrew *yāshepheh*), from
 Barnabas the Levite, called Joseph, bears both names: the penis-stone and the
 spotted skin.
 
-## Joseph's Coat of Many Colours
+## Joseph"s Coat of Many Colours
 
 Genesis 37:3 describes Joseph's famous garment with the Hebrew word **passim**.
 The translation history reveals a scholarly dispute:
@@ -98,7 +98,7 @@ The translation history reveals a scholarly dispute:
 The Barnabas decipherment vindicates the Greek translators. *Passim* is
 cognate with the **n-b-s** group ("red, spotted with white") or the Aramaic
 word for "freckled." The coat was indeed multicoloured and spotted — a garment
-dyed in the image of the mushroom's cap.
+dyed in the image of the mushroom"s cap.
 
 The "coat of many colours" is not a later romantic embellishment. It is the
 ## Practical Applications

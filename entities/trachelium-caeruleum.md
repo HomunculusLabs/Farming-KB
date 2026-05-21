@@ -11,7 +11,6 @@ date: 2026-05-10
 updated: 2026-05-10
 sources:
   - Huber-Mathis, M. (1995). "Le Trachelium, fleur à couper." PHM Revue Horticole 368: 33–37.---
----
 
 ## Overview
 

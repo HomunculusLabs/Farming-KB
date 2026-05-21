@@ -10,7 +10,7 @@ topics: [cultural-philosophy, dominator-culture, sugar, addiction, environmental
 [[terence-mckenna]] argued that sugar was not merely an addictive substance
 but a catalyst for a deeper cultural transformation — the entrenchment
 of what he called the "ego-dominator" style of social organization.
-Sugar's role, in McKenna's analysis, extended far beyond nutrition or
+Sugar"s role, in McKenna's analysis, extended far beyond nutrition or
 even economics; it became a symbol and accelerant of humanity's
 progressive disconnection from the natural world.
 
@@ -37,7 +37,7 @@ of sugar.
 McKenna traces the intellectual lineage of dominator culture through
 several key figures. Thomas Hobbes envisioned human society as the
 inevitable subjugation of the weak by the strong — a social contract
-born of fear and competition rather than cooperation. Jeremy Bentham's
+born of fear and competition rather than cooperation. Jeremy Bentham"s
 notion of the ultimate economic basis of all social worth reduced human
 value to a calculation of utility and pleasure.
 
@@ -51,8 +51,8 @@ rationalism.
 
 ## Nature Is Not Mute
 
-McKenna reserves particular scorn for Jean-Paul Sartre's assertion that
-"nature is mute." This statement, in McKenna's reading, represents the
+McKenna reserves particular scorn for Jean-Paul Sartre"s assertion that
+"nature is mute." This statement, in McKenna"s reading, represents the
 culmination of a process of deepening cultural psychosis — an obsession
 with ego, money, and the sugar/alcohol drug complex that reaches its
 apex in mid-twentieth century existentialism.
@@ -71,7 +71,7 @@ to make its exploitation psychologically tolerable.
 
 ## Sugar as Cultural Accelerant
 
-In McKenna's framework, sugar reinforces dominator culture on multiple
+In McKenna"s framework, sugar reinforces dominator culture on multiple
 levels simultaneously. Physiologically, it is addictive, creating cycles
 of craving and consumption that mirror the cycles of acquisition and
 exploitation that characterize dominator economies. Culturally, it is
@@ -96,7 +96,7 @@ of relating to the world — one based on extraction, stimulation, and
 domination rather than reciprocity, balance, and participation.
 
 Only a terminal addiction to the ego and styles of brutal domination
-could give rise, in McKenna's view, to a mass mental environment in
+could give rise, in McKenna"s view, to a mass mental environment in
 which the assertion that nature is mute could appear plausible. Sugar
 stands at the watershed of this transformation, reinforcing and
 supporting industrial civilization's unreflecting emphasis on

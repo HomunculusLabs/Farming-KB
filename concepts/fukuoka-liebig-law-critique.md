@@ -1,5 +1,5 @@
 ---
-title: Fukuoka's fukuoka-critique-of-liebig-law-of-minimum's Law of Minimum
+title: Fukuoka"s fukuoka-critique-of-liebig-law-of-minimum's Law of Minimum
 created: 2026-04-16
 updated: 2026-04-16
 type: concept
@@ -7,7 +7,7 @@ tags: [fukuoka, natural-farming, philosophy]
 sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
 ---
-## Fukuoka's Critique of Liebig's Law of Minimum
+## Fukuoka"s Critique of Liebig's Law of Minimum
 
 ## Overview
 

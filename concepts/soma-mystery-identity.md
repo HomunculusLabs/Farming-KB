@@ -28,7 +28,7 @@ Soma is the divine sacrament of the Vedic religion, celebrated in over
 120 hymns of the Rigveda as a plant that conferred immortality, inspired
 ecstatic visions, and served as the central ritual substance of ancient
 Indo-Aryan worship. Despite its paramount importance in one of the
-world's oldest religious traditions, the botanical identity of Soma has
+world"s oldest religious traditions, the botanical identity of Soma has
 remained one of the enduring mysteries of ethnobotany and religious
 history. No consensus has ever been reached among scholars.
 

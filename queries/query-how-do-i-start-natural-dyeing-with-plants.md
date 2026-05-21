@@ -4,7 +4,7 @@ created: 2026-05-06
 tags: [query, natural-dyeing, plants, textiles, fiber-arts]
 date: 2026-04-28
 updated: 2026-04-28
-sources: ['raw/papers/working-with-agar.md']
+sources: ["raw/papers/working-with-agar.md']
 type: query
 ---
 

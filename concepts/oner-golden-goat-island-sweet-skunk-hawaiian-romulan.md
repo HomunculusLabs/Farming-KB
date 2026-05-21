@@ -21,7 +21,7 @@ Golden Goat is a sativa-dominant hybrid originally created in Kansas by Mr. Dank
 
 ### Terpene Profile
 
-Golden Goat's aroma is a complex blend reflecting its diverse parentage:
+Golden Goat"s aroma is a complex blend reflecting its diverse parentage:
 
 - **Tropical sweetness** — from the Island Sweet Skunk and Hawaiian lineage
 - **Skunky pungency** — the characteristic Island Sweet Skunk musk

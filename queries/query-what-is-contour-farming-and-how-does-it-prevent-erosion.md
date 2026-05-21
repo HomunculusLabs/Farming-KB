@@ -28,7 +28,7 @@ This simple reorientation of planting rows can reduce soil loss by 50 to 80 perc
 Accurate contour lines are essential for the system to function properly.
 The traditional tool is the [[a-frame-level]], a simple wooden A-shaped device with a plumb bob that costs almost nothing to build.
 More precise surveying uses a [[bunyip-level]], which is a water-filled tube that finds exact level over long distances.
-Bill Mollison's designers manual covers contour surveying techniques in [[mollison-designers-contour-surveying-a-frame-bunyip-level]].
+Bill Mollison"s designers manual covers contour surveying techniques in [[mollison-designers-contour-surveying-a-frame-bunyip-level]].
 Modern farmers sometimes use laser levels or GPS-guided equipment for large-scale operations.
 The key principle is to mark contour lines at regular vertical intervals, typically 1 to 2 meters of elevation drop between lines depending on slope steepness and soil type.
 

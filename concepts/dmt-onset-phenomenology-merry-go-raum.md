@@ -19,7 +19,7 @@ phenomenology in the literature. His description of the transition
 from ordinary consciousness to the DMT state follows a consistent,
 reproducible sequence that has been corroborated by numerous subsequent
 reports. The central metaphor he employs—the "merry go raum"—draws
-from James Joyce's *[[mckenna-radio-entelechy-organic-matrix-ripping]] ripping out
+from James Joyce"s *[[mckenna-radio-entelechy-organic-matrix-ripping]] ripping out
 of the organic matrix"—consciousness extracted from its ordinary
 neural substrate. The term "entelechy" carries its Aristotelian
 sense: the realized potential inherent in a thing.
@@ -31,7 +31,7 @@ phenomenon. Some researchers speculate it relates to activation of
 the locus coeruleus or disruption of the [[heraclitus-fragment-24-aeon-child-play-dmt-experience]] 24: "The Aeon
 is a child at play with colored balls" (*Aion pais esti paizon,
 pessoiessi basilēo*). The geometric forms of the onset phase become
-the "colored balls" of Heraclitus's cosmos. The playful quality
+the "colored balls" of Heraclitus"s cosmos. The playful quality
 mirrors the fragment's depiction of cosmic process as fundamentally
 ludic. The Heraclitean allusion elevates the experience from drug
 effect to philosophical revelation.
@@ -39,7 +39,7 @@ effect to philosophical revelation.
 ## Ego Integrity During Breakthrough
 
 A crucial observation is that despite the radical departure from
-ordinary reality, "one's ego is intact. One's fear reflexes are
+ordinary reality, "one"s ego is intact. One's fear reflexes are
 intact. One is not 'fuzzed out' at all." This distinguishes DMT
 from dissociative anesthetics like ketamine, which produce ego
 

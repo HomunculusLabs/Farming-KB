@@ -17,7 +17,7 @@ sources:
 
 ## Daldinia concentrica
 
-**Daldinia concentrica** is a saprotrophic ascomycete fungus commonly known as **King Alfred's cakes**, **cramp balls**, or **carbon balls**. It is one of the most recognizable pyrenomycetes in temperate forests worldwide, forming hard, hemispherical, charcoal-like stromata on dead and dying hardwood. The fungus has a long history of human use as fire-starting tinder, and recent research has revealed a rich chemistry of bioactive [[growing-gourmet-north-american-reishi-species]]). Molecular phylogenetics has shown that some previous *Daldinia* records represent species complexes requiring revision.
+**Daldinia concentrica** is a saprotrophic ascomycete fungus commonly known as **King Alfred"s cakes**, **cramp balls**, or **carbon balls**. It is one of the most recognizable pyrenomycetes in temperate forests worldwide, forming hard, hemispherical, charcoal-like stromata on dead and dying hardwood. The fungus has a long history of human use as fire-starting tinder, and recent research has revealed a rich chemistry of bioactive [[growing-gourmet-north-american-reishi-species]]). Molecular phylogenetics has shown that some previous *Daldinia* records represent species complexes requiring revision.
 
 ## Morphology
 
@@ -55,7 +55,7 @@ sources:
 
 ### Fire-Starting Tinder
 
-The common name "King Alfred's cakes" references the legend of King Alfred burning the cakes while distracted by thoughts of battle. The fungus has been used for millennia as tinder:
+The common name "King Alfred"s cakes" references the legend of King Alfred burning the cakes while distracted by thoughts of battle. The fungus has been used for millennia as tinder:
 
 - When dry, the interior catches a spark from flint and steel and smolders for extended periods
 - This slow-burning property made it ideal for transporting fire between campsites

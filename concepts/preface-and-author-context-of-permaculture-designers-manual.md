@@ -8,7 +8,7 @@ type: concept
 
 ## Historical Context of the Permaculture Movement
 
-The preface of *Permaculture: A Designers' Manual* places the work within the ferment of the late 1960s — a period when many people could define the aspects of global society they rejected (military adventurism, the bomb, ruthless land exploitation, the arrogance of polluters, and general insensitivity to human and environmental needs) but lacked a positive direction forward.
+The preface of *Permaculture: A Designers" Manual* places the work within the ferment of the late 1960s — a period when many people could define the aspects of global society they rejected (military adventurism, the bomb, ruthless land exploitation, the arrogance of polluters, and general insensitivity to human and environmental needs) but lacked a positive direction forward.
 
 From 1972 to 1974, Mollison and [[permaculture-design]] courses, workshops, lectures, and seminars. Graduates formed a loose global network, effectively acting in many countries. Crucially, the permaculture movement was designed to have **no central structure** — instead relying on a strong sense of shared work.
 
@@ -31,7 +31,7 @@ This priority ordering is fundamental — economic productivity is a tertiary co
 
 ## The "Million Villages" Vision
 
-Mollison articulates an ambitious political vision: "To empower the powerless and create 'a million villages' to replace nation-states is the only safe future for the preservation of the biosphere." This vision of decentralized, self-reliant communities as an alternative to centralized nation-states is a thread that runs throughout the manual, culminating in Chapter 14 on alternative global nation strategies.
+Mollison articulates an ambitious political vision: "To empower the powerless and create "a million villages' to replace nation-states is the only safe future for the preservation of the biosphere." This vision of decentralized, self-reliant communities as an alternative to centralized nation-states is a thread that runs throughout the manual, culminating in Chapter 14 on alternative global nation strategies.
 
 The twin aims of this vision are interdependence and personal responsibility — communities that are locally self-reliant while remaining connected in a global network of mutual support.
 

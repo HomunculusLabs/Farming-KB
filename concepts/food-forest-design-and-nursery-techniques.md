@@ -24,7 +24,7 @@ Modern nursery techniques have revolutionized the speed at which food forests ca
 
 The approach involves raising trees in optimal nursery conditions while simultaneously preparing and cropping the planting site. The site may be used for other purposes — including manuring crops — during the preparation period. When trees are sufficiently established, they are moved into the field situation.
 
-### Slowgrove's Nursery Kit Approach
+### Slowgrove"s Nursery Kit Approach
 
 Slowgrove developed a portable nursery kit system designed for community-scale [[food-forest-establishment]]. For a 4,000-acre community project, the approach is to start the nursery running first while ground preparation proceeds. The entire nursery kit fits on the back of a truck and includes drip lines, sprinklers, and shade house infrastructure.
 

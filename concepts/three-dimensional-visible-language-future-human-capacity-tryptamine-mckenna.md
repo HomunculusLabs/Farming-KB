@@ -6,7 +6,7 @@ tags: [language, three-dimensional-language, tryptamine, mckenna, linguistic-evo
 aliases: [Visible 3D Language Tryptamine McKenna, Hyperspatial Language Cultural Evolution]
 ---
 
-## Three-Dimensional Visible Language as Future Human Capacity: McKenna's Tryptamine Hypothesis of Linguistic Evolution
+## Three-Dimensional Visible Language as Future Human Capacity: McKenna"s Tryptamine Hypothesis of Linguistic Evolution
 
 Among the most consequential speculative claims in McKenna's 1983 Esalen lecture
 is his hypothesis that the [[tryptamine]] experience reveals a latent human capacity
@@ -18,7 +18,7 @@ anticipations of a future stage in human linguistic evolution.
 
 ## The Phenomenological Observation
 
-McKenna's starting point is a specific phenomenological observation about the
+McKenna"s starting point is a specific phenomenological observation about the
 tryptamine state: under the influence of DMT or psilocybin, one encounters
 "extra-dimensional objects — the feeling-toned, meaning-toned, three-dimensional
 rotating complexes of transforming light and color" that function as carriers of
@@ -89,7 +89,7 @@ instructions executed by a processor. Higher-level languages (Python, Java, C++)
 are compiled or interpreted down to assembly language before execution. McKenna
 suggests that ordinary human languages are similarly "compiled" from a more
 fundamental cognitive substrate — a pre-linguistic or proto-linguistic layer of
-meaning that is closer to the brain's native processing format.
+meaning that is closer to the brain"s native processing format.
 
 The tryptamine state, in this analogy, is a debugger or low-level access mode
 that allows direct interaction with this assembly language, bypassing the
@@ -102,10 +102,10 @@ into the linear, symbolic structures of speech and writing.
 ## Primal Language Traditions and the Ursprache
 
 McKenna connects his hypothesis to several traditions of primal or universal
-language. He references Robert Graves's "The White Goddess," which posits a
+language. He references Robert Graves"s "The White Goddess," which posits a
 primal poetic language underlying all human languages; the Kabbalistic "Zohar,"
 which describes a primal "Ursprache" (original language) that is the language of
-creation itself; and Philo Judaeus's description of the Logos moving "from things
+creation itself; and Philo Judaeus"s description of the Logos moving "from things
 heard to things beheld" — a progression from auditory to visual language that
 mirrors McKenna's own phenomenological account of the transition from ordinary
 speech to translinguistic visual objects.

@@ -1,5 +1,5 @@
 ---
-title: "Lion's Mane vs Cordyceps Cultivation"
+title: "Lion"s Mane vs Cordyceps Cultivation"
 created: 2026-04-28
 tags:
   - mushroom-cultivation

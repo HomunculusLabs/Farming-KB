@@ -9,7 +9,7 @@ sources: [raw/papers/sepp-holzer-practical-guide-to-small-scale-integrative.md]
 
 # Shock Method for Fruit Tree Establishment
 
-[[sepp-holzer]]'s "shock method" is an emergency technique that allows badly rooted trees without root balls to be replanted even when they are already fully in leaf, in flower, or bearing fruit. It originated from a childhood experience.
+[[sepp-holzer]]"s "shock method" is an emergency technique that allows badly rooted trees without root balls to be replanted even when they are already fully in leaf, in flower, or bearing fruit. It originated from a childhood experience.
 
 ## Origin Story
 

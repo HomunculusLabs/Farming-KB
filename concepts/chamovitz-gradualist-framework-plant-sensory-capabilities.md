@@ -32,14 +32,14 @@ The gradualist framework carefully navigates between two pitfalls:
 - **Plant denialism**: Dismissing plant sensory capabilities because they lack a nervous system, which arbitrarily privileges one evolutionary solution to information processing over others
 - **Plant anthropomorphism**: Attributing human-like subjective experiences to plants based on superficial behavioral similarities
 
-Chamovitz's position is that plants have sophisticated sensory and information-processing capabilities that are biologically real and empirically demonstrable, but that these capabilities operate through biochemical and genetic mechanisms rather than neural ones. Plants process information; whether they "experience" that information is a separate, harder question.
+Chamovitz"s position is that plants have sophisticated sensory and information-processing capabilities that are biologically real and empirically demonstrable, but that these capabilities operate through biochemical and genetic mechanisms rather than neural ones. Plants process information; whether they "experience" that information is a separate, harder question.
 
 ## The Six Senses Framework
 
 Chamovitz structures the book around six sensory domains, each examined through the gradualist lens:
 
 ### 1. Sight (Photoreception)
-Plants detect more wavelengths than humans (UV-B through far-red), measure light intensity across orders of magnitude, sense direction, and track duration. The [[chamovitz-plant-scent-communication-volatile-organic-compounds]] (VOCs) and use this information for inter-plant communication, [[parasitic-plant-host-detection-volatile-sensing]] location. The dodder vine's ability to "smell" potential hosts and grow toward them is perhaps the most dramatic example of plant olfaction.
+Plants detect more wavelengths than humans (UV-B through far-red), measure light intensity across orders of magnitude, sense direction, and track duration. The [[chamovitz-plant-scent-communication-volatile-organic-compounds]] (VOCs) and use this information for inter-plant communication, [[parasitic-plant-host-detection-volatile-sensing]] location. The dodder vine"s ability to "smell" potential hosts and grow toward them is perhaps the most dramatic example of plant olfaction.
 
 ### 3. Touch (Mechanosensation)
 Plants detect mechanical stimulation through mechanosensitive ion channels, triggering thigmomorphogenesis (altered growth in response to touch), thigmonasty (rapid movement in response to touch, as in [[psilocybin]]

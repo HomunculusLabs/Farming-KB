@@ -1,5 +1,5 @@
 ---
-title: Ethnomycology — Wasson's Discovery Narrative
+title: Ethnomycology — Wasson"s Discovery Narrative
 created: 2026-04-19
 updated: 2026-04-19
 type: concept

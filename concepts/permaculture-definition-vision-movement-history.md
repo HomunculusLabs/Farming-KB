@@ -26,7 +26,7 @@ Permaculture is not the landscape itself, or even the skills of organic gardenin
 
 ### As a Network
 
-Permaculture is also a **worldwide network and movement** of individuals and groups working in rich and poor countries on all continents. After 20 years, permaculture may rank as one of Australia's most significant "intellectual exports."
+Permaculture is also a **worldwide network and movement** of individuals and groups working in rich and poor countries on all continents. After 20 years, permaculture may rank as one of Australia"s most significant "intellectual exports."
 
 ## Foundational Assumptions
 
@@ -42,7 +42,7 @@ Permaculture was originally based on these core assumptions:
 
 ### Howard T. Odum
 
-The most significant influence on Holmgren's thinking. Odum's systems ecology provided:
+The most significant influence on Holmgren"s thinking. Odum's systems ecology provided:
 
 - Energy hierarchy concepts
 - Maximum power principle
@@ -70,7 +70,7 @@ The Permaculture Design Course (PDC) has been the prime vehicle for permaculture
 
 ### Debate About Content
 
-Bill Mollison and others have asserted that failure to adhere to the curriculum, inclusion of religious beliefs outside "design science," and lack of attention to principles dilutes permaculture education. Holmgren balances this concern against the value of diversity, even when "like weeds, it comes in forms we don't particularly like."
+Bill Mollison and others have asserted that failure to adhere to the curriculum, inclusion of religious beliefs outside "design science," and lack of attention to principles dilutes permaculture education. Holmgren balances this concern against the value of diversity, even when "like weeds, it comes in forms we don"t particularly like."
 
 ## Popular Conceptions of Permaculture
 
@@ -99,7 +99,7 @@ The perception of permaculture as countercultural lifestyle has provided a wholi
 - "The professional community was outraged because we were combining architecture with biology, agriculture with forestry" — Bill Mollison
 - Perceived as theoretical, utopian, and impractical for large-scale application
 - Lack of intellectual rigor and populist image inhibited serious academic consideration
-- Bill Mollison's confrontational style alienated scientific communities
+- Bill Mollison"s confrontational style alienated scientific communities
 
 ### Stuart Hill's Contribution
 
@@ -107,7 +107,7 @@ Stuart Hill's "Deep Sustainability" perspective reinforces personal and bottom-u
 
 ## Permaculture vs. Green Tech Optimism
 
-Permaculture differs from technological optimists (like Amory Lovins' natural capitalism) in key ways:
+Permaculture differs from technological optimists (like Amory Lovins" natural capitalism) in key ways:
 
 - **Priority on natural capital:** Using existing wealth to rebuild forests and trees as proven wealth storage
 - **Bottom-up redesign:** Starting with individual and household as drivers for change

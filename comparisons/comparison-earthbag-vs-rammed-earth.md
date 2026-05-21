@@ -3,7 +3,7 @@ title: "comparison-earthbag-construction-vs-cob-construction vs Rammed Earth"
 tags: [comparison, natural-building, earthbag, rammed-earth]
 date: 2026-05-08
 updated: 2026-05-08
-sources: ['raw/papers/working-with-agar.md']
+sources: ["raw/papers/working-with-agar.md']
 ---
 
 ## Earthbag Construction vs Rammed Earth

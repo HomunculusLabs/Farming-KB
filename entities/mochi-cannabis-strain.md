@@ -45,7 +45,7 @@ OG Kush × [[durban-poison]]
 
 ### Terpene Profile
 
-Mochi's terpene profile is dominated by sweet, dessert-like compounds:
+Mochi"s terpene profile is dominated by sweet, dessert-like compounds:
 
 | Terpene | Approximate Range | Aroma Contribution |
 |---------|------------------|-------------------|

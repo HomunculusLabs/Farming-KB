@@ -1,9 +1,9 @@
 ---
-title: "Mullein vs St John's Wort"
+title: "Mullein vs St John"s Wort"
 tags: [comparison, medicinal-plants, respiratory, nervine, herbalism]
 date: 2026-05-09
 updated: 2026-05-09
-sources: ['raw/papers/amanita-muscaria-herb-of-immortality.md']
+sources: ["raw/papers/amanita-muscaria-herb-of-immortality.md']
 ---
 
 ## Mullein vs St John's Wort

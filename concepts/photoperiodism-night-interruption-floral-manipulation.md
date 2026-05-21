@@ -14,7 +14,7 @@ daylight) led to one of the most practically useful techniques in horticulture: 
 
 ## Commercial Application: Chrysanthemum Production
 
-### The Mother's Day Problem
+### The Mother"s Day Problem
 Chrysanthemums are short-day plants that naturally flower in autumn as days shorten.
 However, the [[chrysanthemum-morifolium]])
 - Soybeans ([[euphorbia-pulcherrima]])

@@ -32,17 +32,17 @@ When man plays at creating life, even for beneficial purposes, he sets himself o
 
 ## Man as Self-Appointed Creator
 
-Fukuoka identified the core spiritual error of genetic engineering: man's desire to position himself as the Creator.
+Fukuoka identified the core spiritual error of genetic engineering: man"s desire to position himself as the Creator.
 
 Man had "begun fancying himself as the Creator," believing he could alter all living things in any way he pleased.
 
-This represented the culmination of humanity's alienation from nature — the final stage of a civilization that had "left the bosom of nature and recently begun to view with growing alarm its plight as orphan of the universe."
+This represented the culmination of humanity"s alienation from nature — the final stage of a civilization that had "left the bosom of nature and recently begun to view with growing alarm its plight as orphan of the universe."
 
 The irony was that man could not see that all his creations were mere imitations, that everything he learns and performs with science is "a mere imitation of nature."
 
 ## Relevance to Contemporary Biotechnology Debate
 
-Fukuoka's warnings have proven remarkably prescient.
+Fukuoka"s warnings have proven remarkably prescient.
 
 Nitrogen-fixing cereal crops, genetically modified insects, and laboratory-grown meat are all active areas of research today.
 

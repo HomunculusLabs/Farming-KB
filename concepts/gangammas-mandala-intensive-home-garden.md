@@ -1,5 +1,5 @@
 ---
-title: Gangamma's Mandala Intensive Home Garden
+title: Gangamma"s Mandala Intensive Home Garden
 source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---

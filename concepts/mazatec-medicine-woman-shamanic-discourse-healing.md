@@ -16,11 +16,11 @@ The mushrooms are known to the ancient Meso-Americans as the "Flesh of God" and 
 
 ## Diagnosis Through Visionary Empathy
 
-From the beginning of the session, the medicine woman's task is to discover what sickness the afflicted person is suffering from and prognosticate the remedy. Her two principal means of realization are visionary empathy and articulate discourse. She eats the mushrooms to see into the spirit of the sick, to disclose the hidden, and to intuit how to resolve the unresolved.
+From the beginning of the session, the medicine woman"s task is to discover what sickness the afflicted person is suffering from and prognosticate the remedy. Her two principal means of realization are visionary empathy and articulate discourse. She eats the mushrooms to see into the spirit of the sick, to disclose the hidden, and to intuit how to resolve the unresolved.
 
 Her diagnostic method is described in her own words:
 
-> "It is necessary to look and think in her spirit where it hurts. I must think and search in your presence where your glory is, My Father, who art the Master of the World. Where does this sickness come from? Was it a whirlwind or bad air that fell in the door or in the doorway? So are we going to search and to ask, from the head to the feet, what the matter is. Let's go searching for the tracks of her feet to encounter the sickness that she is suffering from."
+> "It is necessary to look and think in her spirit where it hurts. I must think and search in your presence where your glory is, My Father, who art the Master of the World. Where does this sickness come from? Was it a whirlwind or bad air that fell in the door or in the doorway? So are we going to search and to ask, from the head to the feet, what the matter is. Let"s go searching for the tracks of her feet to encounter the sickness that she is suffering from."
 
 The metaphor of "tracks" (*huellas*) is central to Mazatec healing epistemology. Footprints are images of meaning, traces of a going-to and coming-from, sedimented clues of significance to be looked for from one side to the other and followed to where they lead. The hunt for meaning is temporal—carried into the past and projected into the future: "What happened?" she inquires, "What will happen?"
 
@@ -43,11 +43,11 @@ For psychosomatic complaints and psychological troubles, the liberation of spont
 
 ## Invocation of Beneficent Forces
 
-A key element of the medicine woman's discourse is the invocation of beneficent spiritual forces:
+A key element of the medicine woman"s discourse is the invocation of beneficent spiritual forces:
 
 > "That come all the saints, that come all the virgins... The Virgin of Conception and the Virgin of the Nativity. That Christ come and the Holy Spirit. Fifty-three Saints. Fifty-three Saintesses. That they sit down at her side, on her mat, on her bed, to free her from sickness."
 
-The virgins are understood as fertile ones who have not been sowed and are fresh for the seed of men to beget children. The medicine woman's discourse consistently returns to themes of fertility, birth, and growth, reflecting her role as mother, grandmother, and woman of fertility in a society of close family interrelationships and many children.
+The virgins are understood as fertile ones who have not been sowed and are fresh for the seed of men to beget children. The medicine woman"s discourse consistently returns to themes of fertility, birth, and growth, reflecting her role as mother, grandmother, and woman of fertility in a society of close family interrelationships and many children.
 
 ## Communal Prayer for Material Well-Being
 
@@ -59,7 +59,7 @@ She articulates the paradox of poverty amid natural abundance: the Mazatecs inha
 
 ## The Physiological Quality of the Mushroom Experience
 
-The medicine woman's discourse reveals a distinctive physiological quality to the mushroom experience. The Indians say that through a kind of visceral introspection, the mushrooms teach one the workings of the organism—it is as if the system were projected into a vision of the heart, the liver, lungs, genitals, and stomach. This somatic awareness underlies the shaman's confidence in the mushrooms' diagnostic capabilities.
+The medicine woman"s discourse reveals a distinctive physiological quality to the mushroom experience. The Indians say that through a kind of visceral introspection, the mushrooms teach one the workings of the organism—it is as if the system were projected into a vision of the heart, the liver, lungs, genitals, and stomach. This somatic awareness underlies the shaman's confidence in the mushrooms' diagnostic capabilities.
 
 ## Duration and Structure of the Session
 

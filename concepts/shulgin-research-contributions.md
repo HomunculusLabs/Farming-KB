@@ -22,7 +22,7 @@ Alexander "Sasha" Shulgin (1925-2014) made foundational contributions to psychop
 
 ## Scientific Methodology
 
-Shulgin's approach combined rigorous organic chemistry with systematic human pharmacology:
+Shulgin"s approach combined rigorous organic chemistry with systematic human pharmacology:
 
 1. **Rational design**: Based on SAR principles, predicting which structural modifications would produce psychoactive compounds
 2. **Synthesis**: Detailed, reproducible synthetic procedures with analytical verification (NMR, melting point, microanalysis)

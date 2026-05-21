@@ -30,7 +30,7 @@ where specimens of [[ceremonial-shamanic-use-psychoactive-mushrooms]] were colle
 McKenna emphasises the timing of this work. "Larger forces were afoot during the late
 thirties; like research in many other areas, ethnobotanical research slowed to a stop as
 the world slipped into world war." Reko retired, and Schultes accepted an assignment to
-the Amazon Basin to study rubber extraction for the U.S. government's wartime Office of
+the Amazon Basin to study rubber extraction for the U.S. government"s wartime Office of
 Strategic Services.
 
 ## The 1939 Publication

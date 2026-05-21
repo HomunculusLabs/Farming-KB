@@ -35,7 +35,7 @@ type: concept
 **Pharmaceutical importance**: Ergot derivatives have yielded numerous important medicines:
 - Ergotamine: migraine treatment
 - Ergonovine: postpartum hemorrhage control
-- Bromocriptine: Parkinson's disease and hyperprolactinemia
+- Bromocriptine: Parkinson"s disease and hyperprolactinemia
 - LSD (semisynthetic from lysergic acid): the most potent known hallucinogen
 
 ## Dictyophora indusiata

@@ -8,7 +8,7 @@ type: entity
 
 ## Description
 
-Planet Drum is a [[bioregional-organisation-mollison]] and newsletter founded in 1973 by Peter Berg and Raymond Dasmann in San Francisco, California. Bill Mollison references Planet Drum in *Permaculture: A Designers' Manual* (Chapter 14.4) as a key bioregional voice, providing the address PO Box 31251, San Francisco, CA 94131, USA, and citing its statement of broad aims for ecological political organisation.
+Planet Drum is a [[bioregional-organisation-mollison]] and newsletter founded in 1973 by Peter Berg and Raymond Dasmann in San Francisco, California. Bill Mollison references Planet Drum in *Permaculture: A Designers" Manual* (Chapter 14.4) as a key bioregional voice, providing the address PO Box 31251, San Francisco, CA 94131, USA, and citing its statement of broad aims for ecological political organisation.
 
 ## Classification
 

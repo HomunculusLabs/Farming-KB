@@ -40,7 +40,7 @@ Biodynamic agriculture, founded by Rudolf Steiner in his 1924 Agricultural Cours
 
 **Preparation:** Finely ground quartz (silica) crystals are packed into a cow horn and buried in the soil over summer, from spring equinox to autumn equinox (March–September). The horn is unearthed and the transformed silica is stirred (same vortex method as BD 500) and sprayed as a fine mist onto plant foliage.
 
-**Function:** BD 500's complement, working from "above":
+**Function:** BD 500"s complement, working from "above":
 - Enhance [[photosynthetic-efficiency-and-climate-design]] light absorption
 - Improve fruit quality, flavor, color, and keeping quality
 - Strengthen plant form and structural integrity

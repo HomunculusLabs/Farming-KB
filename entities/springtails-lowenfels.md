@@ -25,7 +25,7 @@ Key families include Isotomidae, Onychiuridae, Entomobryidae, and Sminthuridae, 
 
 ### The Furcula
 
-The defining feature of springtails is the **furcula**—a forked, spring-like appendage that folds beneath the body. When threatened, fluid rapidly fills the furcula's base, causing it to snap downward and propel the animal up to a yard (nearly a meter) backward, away from predators. This remarkable escape mechanism makes springtails one of the fastest-accelerating animals relative to body size in the animal kingdom.
+The defining feature of springtails is the **furcula**—a forked, spring-like appendage that folds beneath the body. When threatened, fluid rapidly fills the furcula"s base, causing it to snap downward and propel the animal up to a yard (nearly a meter) backward, away from predators. This remarkable escape mechanism makes springtails one of the fastest-accelerating animals relative to body size in the animal kingdom.
 
 ### Body Structure
 

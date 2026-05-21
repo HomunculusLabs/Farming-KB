@@ -40,7 +40,7 @@ Harner draws an explicit connection between the classic shamanic journey and the
 
 ## Additional Koryak Details
 
->Jochelson's account provides further detail on Koryak practice: "To keep up the intoxication additional doses of fungi are necessary." The Koryak distinguish between light and strong forms of intoxication. Light forms are accompanied by animation and spontaneity of movement. Strong intoxication involves sensory derangement, macropsia and micropsia (objects appearing very large or very small), spontaneous movements and convulsions, and alternating periods of animation and deep depression.
+>Jochelson"s account provides further detail on Koryak practice: "To keep up the intoxication additional doses of fungi are necessary." The Koryak distinguish between light and strong forms of intoxication. Light forms are accompanied by animation and spontaneity of movement. Strong intoxication involves sensory derangement, macropsia and micropsia (objects appearing very large or very small), spontaneous movements and convulsions, and alternating periods of animation and deep depression.
 
 ## Additional Siberian Groups
 

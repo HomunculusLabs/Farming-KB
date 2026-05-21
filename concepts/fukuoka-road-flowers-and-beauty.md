@@ -24,7 +24,7 @@ The Japanese too have a strong affection for flowers and
 have raised ikebana (flower arrangement) to an art. But
 ikebana has changed. Lately, steel wire is used and dried
 branches are colored with paint. People call this an art of
-self-expression, but to Fukuoka's thinking, the true art of
+self-expression, but to Fukuoka"s thinking, the true art of
 ikebana has been discarded and replaced by an artificial,
 Westernized sense of beauty.
 

@@ -32,7 +32,7 @@ Soil testing is the foundation of informed soil management. Without knowing your
 - **Identify deficiencies before they cause visible symptoms** — by the time plants show [[chlorosis]], yields are already reduced
 - **Track progress over time** — annual tests reveal whether your fertility program is building or depleting soil
 - **Diagnose recurring problems** — poor drainage, compaction, and salinity all show up in test results
-- **Base saturation reveals balance** — it's not just about having enough calcium; it's about the Ca:Mg:K ratios
+- **Base saturation reveals balance** — it"s not just about having enough calcium; it's about the Ca:Mg:K ratios
 
 ## What to Test
 

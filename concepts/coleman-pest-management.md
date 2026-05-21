@@ -57,7 +57,7 @@ winter sites. In short, complete prevention has not been successful.
 
 Coleman relies on snap traps and uses a lot of them. In one year,
 over 50 voles were trapped in the vicinity of the greenhouses
-during August and September alone, and a neighbor's cat probably
+during August and September alone, and a neighbor"s cat probably
 caught almost that many. Come winter, it did not seem as if a dent
 had been made. The only effective method found is to keep trapping
 year-round.

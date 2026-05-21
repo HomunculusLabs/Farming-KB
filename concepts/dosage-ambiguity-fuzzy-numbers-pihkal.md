@@ -31,7 +31,7 @@ For compounds like SB, the question becomes: is it inactive, or just active at d
 
 ## The Language of Approximation
 
-In the TA commentary, Shulgin embarked on an extended meditation on the language of approximation. He noted that "tens of milligrams" is "a truly wishy-washy phrase" and explored the English language's tools for expressing uncertain quantities:
+In the TA commentary, Shulgin embarked on an extended meditation on the language of approximation. He noted that "tens of milligrams" is "a truly wishy-washy phrase" and explored the English language"s tools for expressing uncertain quantities:
 
 - "Some," "several," "a few," "a number of," "numerous" -- each carrying implicit magnitude
 - Collective nouns: "a pride of lions," "a host of daffodils"
@@ -43,7 +43,7 @@ This linguistic sensitivity extended to his dosage reporting. Phrases like "prob
 ## Dosage Ranges vs Point Estimates
 
 PiHKAL typically reports dosages as ranges rather than single numbers (e.g., "80-150 mg" for MDMA, "1.0-3.0 mg" for DOB). This reflects:
-- The dose-response curve's slope (some compounds have "steep dose/response curves" like 2C-E, where 10 mg produced "pretty rich +++ experiences" but 30 mg was "very frightening")
+- The dose-response curve"s slope (some compounds have "steep dose/response curves" like 2C-E, where 10 mg produced "pretty rich +++ experiences" but 30 mg was "very frightening")
 - Different thresholds for different effect levels (threshold vs plus one vs plus two vs plus three)
 - The distinction between a "light" or "introductory" dose and a "full" psychedelic dose
 

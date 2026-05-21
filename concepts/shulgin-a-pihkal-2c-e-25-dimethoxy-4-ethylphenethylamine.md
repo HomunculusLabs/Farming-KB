@@ -9,7 +9,7 @@ topics: [phenethylamine, 2c-family, psychedelic, research-chemical, pihkal, shul
 
 ## Chemical Identity
 
-2C-E is a synthetic psychedelic phenethylamine and compound #24 in Shulgin's PiHKAL. Its full
+2C-E is a synthetic psychedelic phenethylamine and compound #24 in Shulgin"s PiHKAL. Its full
 chemical name is 2,5-dimethoxy-4-ethylphenethylamine. It belongs to the 2C family and features an
 ethyl group at the 4-position of the 2,5-dimethoxyphenethylamine scaffold. Shulgin regarded 2C-E
 as one of the "magical half-dozen" phenethylamines — a small group of compounds with

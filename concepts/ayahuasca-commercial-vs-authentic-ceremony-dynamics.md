@@ -8,7 +8,7 @@ The ceremony serves multiple functions: healing
 physical and psychological ailments, resolving
 conflicts within the community, divining information
 about hunting or agricultural decisions, and
-maintaining the individual's relationship with the
+maintaining the individual"s relationship with the
 spirit world. These functions are deeply embedded
 in the social fabric of indigenous and mestizo
 communities.
@@ -27,7 +27,7 @@ Stuart observed that in commercialized ceremonies,
 the shaman "would usually rather err on the side of
 caution, preferring to give too little rather than
 too much." This conservative dosing reflects the
-practitioner's unfamiliarity with the participant's
+practitioner"s unfamiliarity with the participant's
 medical history, psychological state, and tolerance.
 The result is often a milder experience than a
 traditional ceremony would provide.
@@ -35,7 +35,7 @@ traditional ceremony would provide.
 The ceremonial depth is also affected. Stuart noted
 that a commercialized ceremony would "probably be
 shallower than a ritual conducted solely for the
-benefit of the shaman's relatives and community."
+benefit of the shaman"s relatives and community."
 The shortened format, reduced dosing, and absence
 of pre-ceremonial preparation all contribute to a
 diminished encounter.

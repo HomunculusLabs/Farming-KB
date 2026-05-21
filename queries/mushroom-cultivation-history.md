@@ -82,7 +82,7 @@ Draws from [[historical-mushroom-cultivation]], [[mushroom-cultivation-basics]],
   Cultivation expands from cave culture to purpose-built growing houses.
   Horse manure composting becomes standardized as the primary substrate.
 
-- **1860s — Cooke's popularization:**
+- **1860s — Cooke"s popularization:**
   [[mordecai-cooke]] publishes widely on mushrooms,
   popularizing mycology among Victorian naturalists.
   See [[victorian-mycology]].

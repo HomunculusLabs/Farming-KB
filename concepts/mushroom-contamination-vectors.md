@@ -18,7 +18,7 @@ type: concept
 Contamination is the primary adversary of every [[mazatec-mushroom-culture-and-velada]], but if you are growing Shiitake and nearby Oyster
 mushrooms generate spores that infiltrate your lab, then the Oyster
 spores are the contaminant. This functional definition underscores
-that the cultivator's intent determines what is a contaminant.
+that the cultivator"s intent determines what is a contaminant.
 
 ## The Six Vectors of Contamination
 

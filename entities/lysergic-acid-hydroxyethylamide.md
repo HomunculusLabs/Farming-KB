@@ -33,7 +33,7 @@ sources:
 
 Lysergic acid hydroxyethylamide (LSH), also known as D-lysergic acid
 α-hydroxyethylamide, is a naturally occurring [[golden-guide-morning-glory-and-ololiuqui]] seeds attributed all psychoactivity to LSA alone, underestimating
-LSH's contribution.
+LSH"s contribution.
 
 ## Chemical Properties
 

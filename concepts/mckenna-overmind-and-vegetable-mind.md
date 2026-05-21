@@ -18,7 +18,7 @@ The shaman, through the use of psychoactive plants, is able to enter into commun
 
 ## The Vegetable Mind
 
-The "vegetable mind" is McKenna's term for the intelligence that resides in the plant kingdom. Plants are not passive organisms; they are active participants in the evolution of life on Earth. They produce an extraordinary array of chemical compounds — not just for their own metabolism but for communication, defense, and interaction with other species.
+The "vegetable mind" is McKenna"s term for the intelligence that resides in the plant kingdom. Plants are not passive organisms; they are active participants in the evolution of life on Earth. They produce an extraordinary array of chemical compounds — not just for their own metabolism but for communication, defense, and interaction with other species.
 
 Psychoactive plants are the vegetable mind's way of reaching out to humanity. The alkaloids and indoles they produce are not mere toxins or metabolic byproducts but messages — chemical keys that unlock dimensions of human consciousness normally inaccessible to us. The relationship between humans and psychoactive plants is a form of interspecies communication that has been going on for millions of years.
 

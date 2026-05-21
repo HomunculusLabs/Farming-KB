@@ -9,7 +9,7 @@ sources: [raw/papers/julius-auboineau-palmer-about-mushrooms.md]
 
 # Nineteenth-Century Mushroom Cultivation
 
-[[julius-auboineau-palmer]]'s practical methods from "About Mushrooms" (1894), supplemented by period cultivation practices documented in his journalism (1877-1894).
+[[julius-auboineau-palmer]]"s practical methods from "About Mushrooms" (1894), supplemented by period cultivation practices documented in his journalism (1877-1894).
 
 ## Historical Context
 
@@ -19,7 +19,7 @@ Cultivated mushrooms commanded $1-2 per pound (astronomical for the era), reflec
 
 ## Spawn and Propagation
 
-The core of Palmer's cultivation system:
+The core of Palmer"s cultivation system:
 
 1. **Spawn identification**: "White cellular vine" or [[mycelium]] running through manure, dividing "like the veins on the back of the hand." Found at the edge of old mushroom beds. Much commercial spawn was fraudulent — "much that is sold as such containing not a trace of the fungus."
 
@@ -29,7 +29,7 @@ The core of Palmer's cultivation system:
 
 ## Bed Preparation
 
-Palmer's substrate recipe:
+Palmer"s substrate recipe:
 - **Two-thirds horse manure**, one-third manure from other grazing animals or rich loam
 - Break and turn the manure until thermometer reads 60-80 degrees Fahrenheit
 - Insert spawn blocks in sections (staggered like "Pullman cars" so one end bears while the other prepares)
@@ -56,7 +56,7 @@ Palmer identified three primary causes of failure:
 
 ## The Animal Connection
 
-Palmer noted the horse-mushroom's unique relationship with horses: "It follows the animal whose name it bears. It can be grown in and by his manure, and in no other way." He theorized that A. arvensis was propagated from spores of A. campestris after passing through the horse's digestive system — a plausible explanation for the tight association.
+Palmer noted the horse-mushroom"s unique relationship with horses: "It follows the animal whose name it bears. It can be grown in and by his manure, and in no other way." He theorized that A. arvensis was propagated from spores of A. campestris after passing through the horse"s digestive system — a plausible explanation for the tight association.
 
 ## Seasonal Growth
 

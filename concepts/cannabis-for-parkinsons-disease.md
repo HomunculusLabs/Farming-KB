@@ -1,5 +1,5 @@
 ---
-title: Cannabis for Parkinson's Disease
+title: Cannabis for Parkinson"s Disease
 created: 2026-04-16
 updated: 2026-04-16
 type: concept
@@ -7,7 +7,7 @@ tags: [cannabis, cultivation]
 sources:
   - "raw/papers/uwe-blesching-the-cannabis-health-index.md"
 ---
-## Cannabis for Parkinson's Disease
+## Cannabis for Parkinson"s Disease
 
 Parkinson's disease is a chronic degenerative brain/nervous system disorder affecting approximately 50,000 new patients annually in the U.S. alone. It results from the loss of specific nerve cells that produce dopamine, causing tremors, stiffness, loss of balance, shuffling gait, difficulty swallowing, insomnia, and emotional disturbances.
 
@@ -20,17 +20,17 @@ Parkinson's disease is a chronic degenerative brain/nervous system disorder affe
 
 ### U.S. Government Patent on Cannabinoid Neuroprotection
 
-In 2003, the U.S. Department of Health and Human Services received a patent on cannabinoids as antioxidants and neuroprotectants. The patent abstract states: "Cannabinoids are found to have particular application as neuroprotectants, for example in limiting neurological damage following ischemic insults, such as stroke and trauma, or in the treatment of neurodegenerative diseases, such as Alzheimer's disease, Parkinson's disease, and HIV dementia."
+In 2003, the U.S. Department of Health and Human Services received a patent on cannabinoids as antioxidants and neuroprotectants. The patent abstract states: "Cannabinoids are found to have particular application as neuroprotectants, for example in limiting neurological damage following ischemic insults, such as stroke and trauma, or in the treatment of neurodegenerative diseases, such as Alzheimer"s disease, Parkinson's disease, and HIV dementia."
 
 ### CB2 Activation Slows Neurodegeneration
 
-Researchers in Madrid (2011) demonstrated that activation of CB2 receptors leads to slower progression of neurodegeneration in both Parkinson's and Huntington's disease. Cannabinoids like THC and CBD protect neurons where oxidative injury is a prominent cytotoxic mechanism. The study concluded that cannabinoids with antioxidant properties and/or capability to activate CB2 receptors "may represent promising therapeutic agents" deserving prompt clinical evaluation.
+Researchers in Madrid (2011) demonstrated that activation of CB2 receptors leads to slower progression of neurodegeneration in both Parkinson"s and Huntington's disease. Cannabinoids like THC and CBD protect neurons where oxidative injury is a prominent cytotoxic mechanism. The study concluded that cannabinoids with antioxidant properties and/or capability to activate CB2 receptors "may represent promising therapeutic agents" deserving prompt clinical evaluation.
 
 ## Clinical Evidence
 
 ### Patient Self-Report Study (Czech Republic, 2004)
 
-In a study of Parkinson's patients using cannabis:
+In a study of Parkinson"s patients using cannabis:
 
 - Nearly half reported reduction in resting-state tremors
 - Reduced bradykinesia (slowed ability to start and continue movements)

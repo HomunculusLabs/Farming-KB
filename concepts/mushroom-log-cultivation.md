@@ -29,7 +29,7 @@ Growing mushrooms on freshly cut hardwood logs -- a low-tech, sustainable method
 Best species for log cultivation are dense hardwoods with intact bark:
 
 - **Oak** (Quercus spp.) -- gold standard for shiitake; long-lasting, slow decay
-- **Maple** (Acer spp.) -- good for oyster, shiitake, and lion's mane
+- **Maple** (Acer spp.) -- good for oyster, shiitake, and lion"s mane
 - **Beech** (Fagus spp.) -- excellent for shiitake and maitake
 - **Sweetgum** ([[liquidambar-styraciflua]]) -- suitable for oyster species
 - Other options: alder, poplar, cottonwood, ironwood, birch

@@ -22,10 +22,10 @@ Akshobhya is the Dhyani Buddha associated with the Mirror-like Wisdom and the el
 - Element: Water (in the Govinda framework cited by Leary)
 - Color association: Blue
 - In the Bardo Thodol, appears during the Second Bardo sequence
-- Lama Govinda describes Akshobhya's wisdom as that which frees things from their "thingness" and isolation without depriving them of form
+- Lama Govinda describes Akshobhya"s wisdom as that which frees things from their "thingness" and isolation without depriving them of form
 
 ## The Mirror-like Wisdom
-According to Lama Govinda as quoted by Leary: "things are freed from their 'thingness,' their isolation, without being deprived of their form; they are divested of their materiality, without being dissolved, because the creative principle of the mind, which is at the bottom of all form and materiality, is recognized as the active side of the universal Store Consciousness (alaya-vijnana)."
+According to Lama Govinda as quoted by Leary: "things are freed from their "thingness,' their isolation, without being deprived of their form; they are divested of their materiality, without being dissolved, because the creative principle of the mind, which is at the bottom of all form and materiality, is recognized as the active side of the universal Store Consciousness (alaya-vijnana)."
 
 ## Role in the Psychedelic Bardo Framework
 Akshobhya represents **Vision 4: The Wave-Vibration Structure of External Forms** (eyes open, intellectual aspects). The voyager perceives that all solid objects are actually wave vibrations — a direct experiential confirmation of atomic physics. The positive expression is illuminated clarity and power; the negative trap is terror at the dissolution of solid reality and frantic attempts to freeze the shimmering energy back into familiar forms.

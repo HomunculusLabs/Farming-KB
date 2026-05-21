@@ -14,7 +14,7 @@ The European market for [[hallucinogenic-mushroom-acute-psychological-effects-an
 
 A 2006 EMCDDA survey identified 39 online shops selling hallucinogenic mushrooms across Europe, with a striking concentration in the Netherlands: approximately 82% of identified shops (32 of 39) were based in the Netherlands. The remaining shops were distributed across Belgium, Germany, the UK, Ireland, and Spain.
 
-The dominance of Dutch-based online shops reflected the Netherlands' permissive regulatory environment, established cultivation infrastructure, and existing smart shop networks that provided a natural transition to e-commerce.
+The dominance of Dutch-based online shops reflected the Netherlands" permissive regulatory environment, established cultivation infrastructure, and existing smart shop networks that provided a natural transition to e-commerce.
 
 ### Product Categories Online
 

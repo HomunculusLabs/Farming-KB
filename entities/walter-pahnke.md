@@ -32,7 +32,7 @@ experiences.
 
 ## The Good Friday Experiment (1962)
 
-Pahnke's most celebrated contribution was the Good Friday Experiment,
+Pahnke"s most celebrated contribution was the Good Friday Experiment,
 formally "Drugs and Mysticism: An Analysis of the Relationship between
 Psychedelic Drugs and the Mystical Consciousness," his doctoral
 dissertation and one of the most famous experiments in the history of

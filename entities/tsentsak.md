@@ -29,8 +29,8 @@ cures, and protect themselves from supernatural attack.
 Tsentsak are described as spirit helpers that normally exist
 invisibly. When a shaman has consumed *natemä*, these entities
 become visible as brilliant, luminous substances. They appear
-to emerge from the shaman's body—manifesting as "a thousand
-eyes" on the shaman's arms as the demons search the night for
+to emerge from the shaman"s body—manifesting as "a thousand
+eyes" on the shaman"s arms as the demons search the night for
 enemies.
 
 ### Transfer Between Shamans

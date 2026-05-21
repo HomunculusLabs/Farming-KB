@@ -35,7 +35,7 @@ The bioregional resource index compiled by Maxine Cole and [[bill-mollison-perma
 
 - holmgren-permaculture-ethics-foundations. The bioregional organization movement has raised awareness of the need to identify geographic governance boundaries that reflect natural systems, especially river catchments. holmgren-permaculture-land-tenure-and-legal-structures and holmgren-permaculture-diversity-principle, [[community-finance-and-alternative-economies]]
 ## Merged: Land Trusts And Trusteeship
-**Source:** Permaculture: A Designer's Manual (Bill Mollison, Ch. 14.12) | **Updated:** 2026-04-18 "Our own lifetimes are, in terms of soils, trees, or climate, as ephemeral as snowflakes. - bioregional organization - bioregional organization - permaculture-village-design - permaculture-retrofit-suburbia. Holmgren's analysis of land tenure, commons, and the spectre of neo-feudalism addresses one of the most politically charged aspects of [[permaculture-farm-design-principles]]
+**Source:** Permaculture: A Designer"s Manual (Bill Mollison, Ch. 14.12) | **Updated:** 2026-04-18 "Our own lifetimes are, in terms of soils, trees, or climate, as ephemeral as snowflakes. - bioregional organization - bioregional organization - permaculture-village-design - permaculture-retrofit-suburbia. Holmgren's analysis of land tenure, commons, and the spectre of neo-feudalism addresses one of the most politically charged aspects of [[permaculture-farm-design-principles]]
 ## Practical Considerations
 
 Successful implementation of Bioregional Organization requires attention to

@@ -11,7 +11,7 @@ sources:
 
 The 1960s counterculture represented a fundamental [[ceremonial-shamanic-use-psychoactive-mushrooms]]. What had been an obscure
 anthropological curiosity became, within a decade, one of the defining symbols of a
-generation's rebellion against mainstream values.
+generation"s rebellion against mainstream values.
 
 ## From Wasson to the Masses
 
@@ -21,7 +21,7 @@ the Magic Mushroom" that ignited the fuse. Read by millions, the article introdu
 the concept of psychoactive mushrooms to a vast Western audience for the first time.
 
 Key figures of the emerging psychedelic movement, including [[timothy-leary]] at Harvard, experimented with psychedelics as a direct result. Leary
-transferred his focus from LSD to mushrooms after reading Wasson's account, helping
+transferred his focus from LSD to mushrooms after reading Wasson"s account, helping
 to establish psilocybin as a central element of the emerging psychedelic
 consciousness.
 
@@ -48,7 +48,7 @@ irrespective of local sensibilities.
 
 They did not want to be bound to the curandero-led velada, or to the archaic mores
 of an animist peasant culture. One American hippy visitor was recorded as saying:
-"Look, man. You can go for that curandero stuff if you want, but you don't need
+"Look, man. You can go for that curandero stuff if you want, but you don"t need
 all that Indian baggage."
 
 This attitude contrasted sharply with the Mazatec understanding of mushrooms as
@@ -70,7 +70,7 @@ before being busted by federal agents.
 ## Music and the Mushroom Underground
 
 The [musical culture of the 1960s was
-deeply intertwined with mushroom use. Jefferson Airplane's "White Rabbit" became an
+deeply intertwined with mushroom use. Jefferson Airplane"s "White Rabbit" became an
 anthem of the [[psychedelic-aesthetics-and-creativity]]
 - [[psychedelic-psychotherapy-history]]
 - [[psychedelic-therapy-foundations]]

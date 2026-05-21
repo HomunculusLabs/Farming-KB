@@ -17,7 +17,7 @@ Successful yeast isolation depends on carefully formulated growth media that sel
 Two principal media formulations are employed for yeast isolation:
 
 - **Yeast Isolation Medium (PYG):** A peptone-yeast extract-glucose medium designed to support a broad spectrum of yeast species. Its balanced nutrient profile makes it suitable for general-purpose isolation from diverse habitats.
-- **Wickerham's YM Medium:** A widely used alternative containing yeast extract, malt extract, peptone, and dextrose. YM medium is particularly effective for recovering yeasts associated with sugar-rich substrates such as fruits, tree exudates, and nectar.
+- **Wickerham"s YM Medium:** A widely used alternative containing yeast extract, malt extract, peptone, and dextrose. YM medium is particularly effective for recovering yeasts associated with sugar-rich substrates such as fruits, tree exudates, and nectar.
 
 ### Carbon Source Substitution
 

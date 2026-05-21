@@ -19,7 +19,7 @@ type: concept
 
 The introduction of [[mckenna-consciousness-expansion-and-drug-war]] was a gradual process
 spanning centuries, mediated by travelers, conquerors, and the broad cultural
-movement known as Orientomania. From Marco Polo's sensational account of the
+movement known as Orientomania. From Marco Polo"s sensational account of the
 hashishin assassins in the thirteenth [[hashish]] in Egypt, European perceptions of cannabis were shaped by a potent mix
 of fascination, fear, and romantic projection onto the exotic East.
 

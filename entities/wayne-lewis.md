@@ -23,11 +23,11 @@ sources:
 
 # Wayne Lewis
 
-American soil biologist and co-author (with [[jeff-lowenfels]]) of "Teaming With Microbes: The Organic Gardener's Guide to the Soil Food Web" (2006, updated 2010). His scientific expertise grounded the book's accessible explanations of [[soil-food-web-nutrient-cycling]] biology, making it one of the most influential popular soil science books of the 21st century.
+American soil biologist and co-author (with [[jeff-lowenfels]]) of "Teaming With Microbes: The Organic Gardener"s Guide to the Soil Food Web" (2006, updated 2010). His scientific expertise grounded the book"s accessible explanations of [[soil-food-web-nutrient-cycling]] biology, making it one of the most influential popular soil science books of the 21st century.
 
 ## Role in the Teaming With Trilogy
 
-Lewis collaborated with Jeff Lowenfels as co-author of "Teaming With Microbes," the first book in Lowenfels' soil food web trilogy. While Lowenfels brought the gardening perspective and accessible writing voice, Lewis contributed the scientific rigor and soil biology expertise. The book was published with a foreword by [[elaine-ingham]], the soil microbiologist whose research on bacterial and fungal dominance in soils heavily influenced the book's framework.
+Lewis collaborated with Jeff Lowenfels as co-author of "Teaming With Microbes," the first book in Lowenfels" soil food web trilogy. While Lowenfels brought the gardening perspective and accessible writing voice, Lewis contributed the scientific rigor and soil biology expertise. The book was published with a foreword by [[elaine-ingham]], the soil microbiologist whose research on bacterial and fungal dominance in soils heavily influenced the book's framework.
 
 Lowenfels describes Lewis as "my good friend and business colleague" and credits him with bringing the scientific depth that made the book both accessible and authoritative. The trilogy was later completed with "Teaming With Nutrients" and "Teaming With Fungi," with Lowenfels noting that all three books are interrelated parts of understanding how plants, mycorrhizal fungi, other microbes, and nutrients interact in the soil.
 

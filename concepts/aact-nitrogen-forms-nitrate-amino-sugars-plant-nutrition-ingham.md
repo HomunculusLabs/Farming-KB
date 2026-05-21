@@ -9,7 +9,7 @@ created: 2026-05-10
 
 ## Overview
 
-One of the most important yet least understood aspects of AACT ([[teaming-with-nutrients-natural-vs-synthetic-fertilizers]] that provide nitrogen primarily as nitrate or ammonium, AACT delivers nitrogen in multiple biological forms including amino sugars, amino acids, peptides, and microbial biomass. Dr. Elaine Ingham's work emphasizes that the form of nitrogen available to plants profoundly affects plant health, disease resistance, and [[aact-nitrogen-forms-microbial-nutrient-cycling-ingham]] forms:
+One of the most important yet least understood aspects of AACT ([[teaming-with-nutrients-natural-vs-synthetic-fertilizers]] that provide nitrogen primarily as nitrate or ammonium, AACT delivers nitrogen in multiple biological forms including amino sugars, amino acids, peptides, and microbial biomass. Dr. Elaine Ingham"s work emphasizes that the form of nitrogen available to plants profoundly affects plant health, disease resistance, and [[aact-nitrogen-forms-microbial-nutrient-cycling-ingham]] forms:
 
 - **Nitrate (NO₃⁻)**: The most common form in synthetic fertilizers; highly soluble and mobile in soil; readily taken up by plants but also easily leached into groundwater
 - **Ammonium (NH₄⁺)**: A direct product of mineralization; available to plants but can become toxic at high concentrations; rapidly converts to nitrate under aerobic conditions

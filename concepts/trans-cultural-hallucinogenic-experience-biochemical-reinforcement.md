@@ -28,7 +28,7 @@ Harner redefines the search for origins as "the search for causality of regulari
 
 ### Cultural Maintenance Requires Reinforcement
 
-Harner's central argument is that "culture is learned and transmitted through human effort; therefore it seems unlikely that cultural institutions and traits can be successfully passed on through centuries and millennia without having some regular reinforcement for their maintenance."
+Harner"s central argument is that "culture is learned and transmitted through human effort; therefore it seems unlikely that cultural institutions and traits can be successfully passed on through centuries and millennia without having some regular reinforcement for their maintenance."
 
 If a belief or practice is maintained across many generations, there must be something that reinforces it—something that makes people who adopt it continue to find it valuable. For beliefs and practices associated with hallucinogen use, the most obvious candidate for this reinforcement is the direct experience of the substances themselves.
 
@@ -66,7 +66,7 @@ A belief that is merely transmitted by cultural diffusion can be lost or distort
 
 ### Which Beliefs Are Biochemically Reinforced?
 
-Harner's thesis applies specifically to beliefs and practices associated with hallucinogen use. Not all cultural regularities require biochemical explanation—many can be adequately explained by diffusion, independent invention, or universal features of human cognition and social organization.
+Harner"s thesis applies specifically to beliefs and practices associated with hallucinogen use. Not all cultural regularities require biochemical explanation—many can be adequately explained by diffusion, independent invention, or universal features of human cognition and social organization.
 
 The thesis is most compelling for beliefs that:
 1. Are found in cultures with no historical connection

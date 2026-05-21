@@ -26,7 +26,7 @@ Catahua negra (*Hura crepitans*), also known as the sandbox tree or possumwood, 
 - Kapukiri from catahua negra produces: dry mouth, cracked lips, nerve contraction, shrinking, fever, stuttering
 - Leaves are used therapeutically to cure kapukiri when the correct icaro is sung
 - Amaringo personally cured a woman using catahua negra leaves and the icaro del kapukiri (Vision 30)
-- The woman had suffered for four months with a swollen instep; prior treatment by Amaringo's brother Manuel had failed
+- The woman had suffered for four months with a swollen instep; prior treatment by Amaringo"s brother Manuel had failed
 - Like all kapukiri trees, it demands strict respect: no urinating, defecating on leaves; no careless cutting
 - Known in Western botany for highly toxic milky latex causing skin irritation and potential blindness
 - Famous for explosive fruit dehiscence — seed pods burst at velocities up to 70 m/s ("dynamite tree")

@@ -23,7 +23,7 @@ Thousands of species of fungi attack thousands of insect species. The most studi
 A green mold fungus highly prevalent in soils. Pathogenic to ants, termites, locusts, mosquitoes, and mites. Does not harm mammals, does not cause human allergies, and is limited in colony size. Some species of Cordyceps can sprout from insect carcasses killed by [[metarhizium]], demonstrating fungal dimorphism.
 
 ### Beauveria (especially B. bassiana)
-A white mold fungus first observed in 1834 by Agustino Bassi causing muscardine disease in silkworms. This discovery preceded Pasteur's germ theory by decades. Widely used against agricultural and structural pests.
+A white mold fungus first observed in 1834 by Agustino Bassi causing muscardine disease in silkworms. This discovery preceded Pasteur"s germ theory by decades. Widely used against agricultural and structural pests.
 
 ### Paecilomyces
 Hosting many white mold fungi with broad insecticidal activity.

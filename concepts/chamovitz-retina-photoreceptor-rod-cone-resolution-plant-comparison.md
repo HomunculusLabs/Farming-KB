@@ -44,7 +44,7 @@ Chamovitz notes that blindness can arise from defects at multiple stages of the 
 
 **Colour blindness** is a specific case of sensory deficiency. A person who is red-colour-blind, for example, lacks functional red cones. Because the red photopsin is absent or non-functional, red-wavelength photons are not absorbed by any cone, and the corresponding signals are never generated or passed on to the brain. The remaining green and blue cones continue to function, but the full colour experience is lost. Similar deficiencies can affect green or (more rarely) blue cone function, and in extremely rare cases a person may lack two or even all three cone types entirely.
 
-It is worth noting that colour blindness is typically inherited as an X-linked trait, which is why it affects males far more frequently than females. Chamovitz uses this as an illustration of how fragile and specialised the visual system is — the loss of a single pigment type is enough to alter a person's perceptual world dramatically.
+It is worth noting that colour blindness is typically inherited as an X-linked trait, which is why it affects males far more frequently than females. Chamovitz uses this as an illustration of how fragile and specialised the visual system is — the loss of a single pigment type is enough to alter a person"s perceptual world dramatically.
 
 ## Human Sight: Absorption Plus Processing
 

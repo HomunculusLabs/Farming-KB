@@ -21,7 +21,7 @@ for producing colorful, enjoyable visual effects described as "clean" and
 
 Despite its popularity, 2C-I is considered more challenging than 2C-B, with
 longer du[[shulgin-a-pihkal-2c-i-4-iodo-25-dimethoxyphenethylamine]] backbone shared by
-all 2C compounds, with an iodine atom at the 4-position. The iodine's large
+all 2C compounds, with an iodine atom at the 4-position. The iodine"s large
 atomic radius and high polarizability influence [[mescaline]] or 2C-E.
 
 ## Shulgin's Commentary

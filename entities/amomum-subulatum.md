@@ -19,7 +19,7 @@ sources:
 
 The species is native to the eastern Himalayas and is cultivated extensively in the submontane regions of Nepal, Sikkim, Darjeeling, and Bhutan. Unlike green cardamom ([[hamilton-composting-and-organic-matter-management]] content and a pH of 4.5–6.5. Natural populations are found as understorey plants in broadleaf and mixed forests.
 
-Commercial cultivation is concentrated in the eastern Himalayan region, with Nepal as the world's largest producer. Other significant producers include the Indian states of Sikkim, West Bengal (Darjeeling Hills), and Assam. Bhutan and Myanmar produce smaller quantities.
+Commercial cultivation is concentrated in the eastern Himalayan region, with Nepal as the world"s largest producer. Other significant producers include the Indian states of Sikkim, West Bengal (Darjeeling Hills), and Assam. Bhutan and Myanmar produce smaller quantities.
 
 ## Chemistry and Pharmacology
 

@@ -26,7 +26,7 @@ Among aspiring shamans there must be "some sign of inner strength or a hypersens
 trance states." This hypersensitivity is not a passive trait but an active capacity that
 can be cultivated through training. The shamanic training process, which can last years,
 involves systematic development of this innate sensitivity through breathing techniques,
-plant usage, and other methods — "the fact is that we don't really know all of what goes on."
+plant usage, and other methods — "the fact is that we don"t really know all of what goes on."
 McKenna acknowledges the limits of Western anthropological understanding of these training
 methods.
 
@@ -47,17 +47,17 @@ from mainstream society. They possess detailed knowledge of plant chemistry, tho
 encode this knowledge in the language of "spirits" and "energy fields."
 
 McKenna argues that the word "spirit" as used by shamans should be understood as a technical
-term analogous to the physicist's use of "charm" — "it is a technical gloss for a very
+term analogous to the physicist"s use of "charm" — "it is a technical gloss for a very
 complicated concept." The Western reception of this terminology through "a series of narrowing
 declensions of meaning" has impoverished its original significance, making it seem primitive
 or superstitious when in fact it encodes sophisticated phenomenological knowledge.
 
-The anthropological literature, in McKenna's view, consistently misrepresents shamans by
+The anthropological literature, in McKenna"s view, consistently misrepresents shamans by
 presenting them as "embedded in a tradition." While this is partially true, the individual
 shaman is always "a true phenomenologist of this world" — someone who has directly
 investigated the nature of experience and reality through systematic inner exploration.
-A good shaman "sees exactly who you are and says, 'Ah, here's somebody to have a conversation
-with.'" This capacity for immediate recognition of kindred spirits reflects the shaman's
+A good shaman "sees exactly who you are and says, "Ah, here's somebody to have a conversation
+with.'" This capacity for immediate recognition of kindred spirits reflects the shaman"s
 developed perceptual abilities.
 
 ## The Peripheral Social Position
@@ -69,13 +69,13 @@ sacred status that enables their healing and divinatory functions simultaneously
 them from political participation. This separation of sacred and secular authority is a
 consistent feature of shamanic societies.
 
-In council meetings, the shaman "sits at the headman's side," indicating a position of honor
+In council meetings, the shaman "sits at the headman"s side," indicating a position of honor
 and informal influence. Yet "after the council meeting he returns to his hut at the edge of
-the village." This physical marginality mirrors the shaman's ontological position at the
+the village." This physical marginality mirrors the shaman"s ontological position at the
 boundary between ordinary and [[metzner-metaphysical-realms-nonordinary-reality-shamanic-cosmology]]. The shaman lives at the periphery of
 the community just as he operates at the periphery of consensus reality.
 
-Shamans are "peripheral to society's goings on in ordinary social life in every sense of the
+Shamans are "peripheral to society"s goings on in ordinary social life in every sense of the
 word." They are called upon in crisis — illness, death, psychological difficulty, marital
 quarrels, theft, or weather prediction — but otherwise remain apart. This on-call function
 means that the shaman's expertise is activated by necessity rather than routine. The crisis-

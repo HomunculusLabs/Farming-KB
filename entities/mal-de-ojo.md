@@ -7,7 +7,7 @@ tags: [folk-illness, anthropology, peru, amazon, healing]
 
 ## Description
 
-Mal de Ojo ("evil eye") is a folk illness found throughout Peru and Latin America, caused by the magical action of one person's glance upon another -- not necessarily with evil intentions, though it can be motivated by envy. The condition is especially common among children whose personal attraction may catch the evil eye. It is documented by Valdivia (1964) and recognized alongside [[susto]], dano, and pulsario as one of the major categories of [[dano-magical-illness]] in the Peruvian Amazon.
+Mal de Ojo ("evil eye") is a folk illness found throughout Peru and Latin America, caused by the magical action of one person"s glance upon another -- not necessarily with evil intentions, though it can be motivated by envy. The condition is especially common among children whose personal attraction may catch the evil eye. It is documented by Valdivia (1964) and recognized alongside [[susto]], dano, and pulsario as one of the major categories of [[dano-magical-illness]] in the Peruvian Amazon.
 
 ## Classification
 

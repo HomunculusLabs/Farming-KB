@@ -25,7 +25,7 @@ type: concept
 
 Masanobu Fukuoka documented a striking example of ecosystem cascade failure in Japanese pine forests, tracing how a series of interconnected disruptions propagated through the food web from soil acidification and atmospheric pollution to the decline of red pines, the disappearance of the prized [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]], and competitive interactions.
 
-A critical member of this community is the [[tricholoma-matsutake]]), which forms a mycorrhizal (symbiotic) relationship with the roots of red pines. The matsutake receives carbohydrates from the pine while helping the tree absorb water and minerals. This fungal association strengthens the pine's resistance to disease and improves its access to soil nutrients.
+A critical member of this community is the [[tricholoma-matsutake]]), which forms a mycorrhizal (symbiotic) relationship with the roots of red pines. The matsutake receives carbohydrates from the pine while helping the tree absorb water and minerals. This fungal association strengthens the pine"s resistance to disease and improves its access to soil nutrients.
 
 The forest also supports small birds that feed on insects, weasels and snakes that control rodent populations, and a diverse [[soil-protozoa-nutrient-cycling-and-mineralization]] suppresses pathogenic organisms. Each species plays a role in maintaining the overall health and stability of the system. Remove any one element, and the consequences ripple outward in ways that are difficult to predict.
 

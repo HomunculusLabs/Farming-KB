@@ -11,7 +11,7 @@ updated: 2026-04-26
 
 ## Farm Overview
 
-Four Season Farm is located in Harborside, Maine (44.33°N, 68.58°W) on 40 acres of land originally part of Scott and Helen Nearing's farm. The Nearings' book *Living the Good Life* inspired Coleman's interest in [[coleman-french-maraicher-parisian-intensive-market-gardening]] garden.
+Four Season Farm is located in Harborside, Maine (44.33°N, 68.58°W) on 40 acres of land originally part of Scott and Helen Nearing"s farm. The Nearings' book *Living the Good Life* inspired Coleman's interest in [[coleman-french-maraicher-parisian-intensive-market-gardening]] garden.
 
 ## Core Philosophy
 

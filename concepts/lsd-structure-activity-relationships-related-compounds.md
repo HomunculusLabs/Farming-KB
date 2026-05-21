@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-Albert Hofmann's systematic modification of the LSD molecule revealed critical structure-activity relationships that illuminate why LSD is so extraordinarily potent and how small changes to its molecular structure dramatically alter its pharmacological effects. This concept page examines the comparative pharmacology of LSD and its close chemical relatives, and the surprising discovery that one of these relatives was a naturally occurring component of the Mexican magic drug ololiuqui.
+Albert Hofmann"s systematic modification of the LSD molecule revealed critical structure-activity relationships that illuminate why LSD is so extraordinarily potent and how small changes to its molecular structure dramatically alter its pharmacological effects. This concept page examines the comparative pharmacology of LSD and its close chemical relatives, and the surprising discovery that one of these relatives was a naturally occurring component of the Mexican magic drug ololiuqui.
 
 ## The Diethylamide Group — The Key to Potency
 
@@ -40,7 +40,7 @@ This structure-activity relationship is one of the clearest examples in psychoph
 
 This was a remarkable discovery. The active principle of a sacred Aztec drug, used for centuries in Mesoamerican shamanic practice, turned out to be a compound that Hofmann had already synthesized in his Basel laboratory. The connection between European pharmaceutical chemistry and Mesoamerican indigenous pharmacology was established at the molecular level.
 
-Ololiuqui is the Nahuatl name for the seeds of *Rivea corymbosa* (morning glory), which were used by Aztec priests and shamans in divinatory and healing rituals. Richard Evans Schultes had identified ololiuqui botanically in the 1930s, but its active constituent remained unknown until Hofmann's chemical analysis.
+Ololiuqui is the Nahuatl name for the seeds of *Rivea corymbosa* (morning glory), which were used by Aztec priests and shamans in divinatory and healing rituals. Richard Evans Schultes had identified ololiuqui botanically in the 1930s, but its active constituent remained unknown until Hofmann"s chemical analysis.
 
 ### Implications
 

@@ -8,15 +8,15 @@ type: concept
 
 ## The Mycological Literature of the 19th Century
 
-Julius Palmer's bibliography reveals the state of mycological publishing in the late 1800s. The field was dominated by European, particularly British and French, authors. Palmer acknowledged his inability to review German-language works, which he regretted, noting that "there are doubtless valuable works in the German language."
+Julius Palmer"s bibliography reveals the state of mycological publishing in the late 1800s. The field was dominated by European, particularly British and French, authors. Palmer acknowledged his inability to review German-language works, which he regretted, noting that "there are doubtless valuable works in the German language."
 
 ### British Authorities
 
 The four leading British mycologists whose work Palmer relied upon were **Berkeley, Cooke, Smith, and Badham**:
 
-- **M.J. Berkeley** — *Outlines of British Mycology* (London: Reeve & Co., 1860). Berkeley's work, featuring colored plates, was described by Palmer as "a book easily procured and readily understood by persons with botanical tastes." His classification of fungi and theories about alkalinity in mushrooms were influential but, as Palmer later showed, sometimes erroneous.
+- **M.J. Berkeley** — *Outlines of British Mycology* (London: Reeve & Co., 1860). Berkeley"s work, featuring colored plates, was described by Palmer as "a book easily procured and readily understood by persons with botanical tastes." His classification of fungi and theories about alkalinity in mushrooms were influential but, as Palmer later showed, sometimes erroneous.
 
-- **M.C. Cooke** — *Handbook of British Fungi* (two volumes, London: Macmillan & Co.), *Illustrations of British Fungi* (London: Williams & Norgate, 1881), and *Plain and Easy Account of British Fungi* (London: Robert Hardwicke, 1875). Cooke's work spanned technical handbooks and popular accounts, making mycology accessible to a wider audience.
+- **M.C. Cooke** — *Handbook of British Fungi* (two volumes, London: Macmillan & Co.), *Illustrations of British Fungi* (London: Williams & Norgate, 1881), and *Plain and Easy Account of British Fungi* (London: Robert Hardwicke, 1875). Cooke"s work spanned technical handbooks and popular accounts, making mycology accessible to a wider audience.
 
 - **Worthington G. Smith** — *Toadstools and Mushrooms* (London: Robert Hardwicke, 1876). Smith's illustrated work was widely circulated. Palmer would later critique his experiments with [[amanita-toxins-and-mushroom-poisoning]].
 
@@ -54,15 +54,15 @@ American contributions were notably sparse:
 
 ## Criticism of US Government Publications
 
-Palmer was sharply critical of the pamphlets issued by the United States Department of Agriculture. He noted that "the text is almost entirely from the earlier and incomplete labors of Worthington G. Smith" and that these pamphlets "recognize no distinction betwixt the words 'poisonous' as applied to the *[[amanita-verna]]*, and the same term used when writing of the *[[lactarius-piperatus]]*" — the latter being a perfectly edible mushroom at the time. This conflation of genuinely deadly species with merely acrid but harmless ones was, in Palmer's view, an inexcusable error.
+Palmer was sharply critical of the pamphlets issued by the United States Department of Agriculture. He noted that "the text is almost entirely from the earlier and incomplete labors of Worthington G. Smith" and that these pamphlets "recognize no distinction betwixt the words "poisonous' as applied to the *[[amanita-verna]]*, and the same term used when writing of the *[[lactarius-piperatus]]*" — the latter being a perfectly edible mushroom at the time. This conflation of genuinely deadly species with merely acrid but harmless ones was, in Palmer"s view, an inexcusable error.
 
 He argued that since government publications were "the common property of every American citizen," they deserved higher scrutiny than privately published works.
 
-## Charles H. Peck's Contributions
+## Charles H. Peck"s Contributions
 
-Palmer held Charles H. Peck, the State Botanist of New York, in high regard. Peck's annual reports, issued by the Board of Regents of the University at Albany, "contain much that is of value to the student." Palmer particularly praised Peck's classification and identification work, noting that he had "done the most thorough work in the classification or identification of mushrooms and toadstools." Palmer understood that Peck intended to publish an illustrated work on American fungi and offered his "hearty good wishes" for its success.
+Palmer held Charles H. Peck, the State Botanist of New York, in high regard. Peck's annual reports, issued by the Board of Regents of the University at Albany, "contain much that is of value to the student." Palmer particularly praised Peck"s classification and identification work, noting that he had "done the most thorough work in the classification or identification of mushrooms and toadstools." Palmer understood that Peck intended to publish an illustrated work on American fungi and offered his "hearty good wishes" for its success.
 
-## Palmer's Edibility Classification Key
+## Palmer"s Edibility Classification Key
 
 Palmer's original tabular key for determining the edibility of large, fleshy fungi organized specimens into a series of observable characteristics. The key was structured as a decision tree:
 
@@ -102,7 +102,7 @@ Globular fungi with enclosed spores:
 
 ## Commercial Mushroom Products
 
-Palmer addressed the safety of commercially available mushrooms. French mushrooms sold in cans were the common button variety (*[[agaricus-campestris]]*) and were "perfectly safe," although cases of nettle-rash had resulted from their use. Imported Boleti stamped "Cèpes à l'Huile" and "Cèpes au naturel" were described as "a great addition to any table."
+Palmer addressed the safety of commercially available mushrooms. French mushrooms sold in cans were the common button variety (*[[agaricus-campestris]]*) and were "perfectly safe," although cases of nettle-rash had resulted from their use. Imported Boleti stamped "Cèpes à l"Huile" and "Cèpes au naturel" were described as "a great addition to any table."
 
 ## Corrections to Earlier Work
 

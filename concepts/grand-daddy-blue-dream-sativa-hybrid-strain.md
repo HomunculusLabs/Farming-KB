@@ -11,9 +11,9 @@ tags: [cannabis, sativa, strain-profile, grand-daddy-blue-dream, blue-dream, med
 
 ## Overview
 
-Grand Daddy Blue Dream is a sativa-dominant hybrid cannabis strain developed by [[cannabis-breeding-basics]]. Unlike many seed companies that prioritize yield, potency, or novelty, Granddaddy Purp focuses specifically on developing strains that address the needs of medical cannabis patients. This breeding philosophy is reflected in Grand Daddy Blue Dream's effect profile, which emphasizes pain relief, muscle relaxation, and anxiety reduction rather than the recreational potency that dominates much of the [[cannabis-growing-environment-setup]] but shows clear preferences:
+Grand Daddy Blue Dream is a sativa-dominant hybrid cannabis strain developed by [[cannabis-breeding-basics]]. Unlike many seed companies that prioritize yield, potency, or novelty, Granddaddy Purp focuses specifically on developing strains that address the needs of medical cannabis patients. This breeding philosophy is reflected in Grand Daddy Blue Dream"s effect profile, which emphasizes pain relief, muscle relaxation, and anxiety reduction rather than the recreational potency that dominates much of the [[cannabis-growing-environment-setup]] but shows clear preferences:
 
-- **Greenhouse**: Described as the "very best option" for this strain, greenhouse cultivation provides the natural [[query-how-to-grow-rare-tropical-fruits-in-marginal-and-subtropical-climates]] with long [[cannabis-sativa-indoor-cultivation-techniques]] is possible, the plant's height and branching make it better suited to larger grow spaces. Medical users with small closet grows may find that the strain demands too much space relative to the yield it can produce in confined conditions.
+- **Greenhouse**: Described as the "very best option" for this strain, greenhouse cultivation provides the natural [[query-how-to-grow-rare-tropical-fruits-in-marginal-and-subtropical-climates]] with long [[cannabis-sativa-indoor-cultivation-techniques]] is possible, the plant"s height and branching make it better suited to larger grow spaces. Medical users with small closet grows may find that the strain demands too much space relative to the yield it can produce in confined conditions.
 
 ### Flowering Time
 

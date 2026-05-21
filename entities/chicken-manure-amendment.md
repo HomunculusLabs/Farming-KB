@@ -6,7 +6,7 @@ type: entity
 
 ## Description
 
-[[chicken-manure]] is a [[hamilton-concentrated-organic-fertilizer-products]] widely used in [[dryland-vegetable-gardening]]. In bagged form (somewhat composted but not labeled "compost"), it is significantly more nutrient-dense than steer manure and serves as the intermediate-tier amendment in Steve Solomon's [[soil-fertility-gradient-approach]]. Solomon used bagged chicken manure (NPK 4-3-2) as his primary fertilizer before switching to his proprietary [[complete-organic-fertilizer-cof]] (COF) blend.
+[[chicken-manure]] is a [[hamilton-concentrated-organic-fertilizer-products]] widely used in [[dryland-vegetable-gardening]]. In bagged form (somewhat composted but not labeled "compost"), it is significantly more nutrient-dense than steer manure and serves as the intermediate-tier amendment in Steve Solomon"s [[soil-fertility-gradient-approach]]. Solomon used bagged chicken manure (NPK 4-3-2) as his primary fertilizer before switching to his proprietary [[complete-organic-fertilizer-cof]] (COF) blend.
 
 ## Classification
 
@@ -20,7 +20,7 @@ type: entity
 
 - Chicken manure is "far better stuff than weak steer manure for fertilizing the veggie patch" (Solomon).
 - The concentrated nutrient content means careful application is required — overuse can burn plants and unbalance soil minerals.
-- In Solomon's fertility gradient: 1/8 inch (3 mm) layer for medium-demand vegetables, 1/4 inch (6 mm) for high-demand vegetables per 1,000 sq ft.
+- In Solomon"s fertility gradient: 1/8 inch (3 mm) layer for medium-demand vegetables, 1/4 inch (6 mm) for high-demand vegetables per 1,000 sq ft.
 - Fresh chicken manure is too "hot" (high in ammonia) for direct garden use and must be composted or aged first.
 - The bagged commercial product has been partially composted, reducing burn risk but also lowering some [[chelation-and-nutrient-availability]].
 - Chicken manure is particularly rich in nitrogen and phosphorus, making it valuable for leafy greens and fruiting vegetables.

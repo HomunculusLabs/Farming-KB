@@ -23,7 +23,7 @@ peoples have accumulated centuries of empirical knowledge about which
 plants are beneficial, whereas synthetic drugs carry unknown long-term
 risks discoverable only through extensive human experience.
 
-## Metzner's Intellectual Journey
+## Metzner"s Intellectual Journey
 
 Metzner's perspective emerged from decades of direct experience
 spanning multiple research paradigms. He spent over thirty-five years

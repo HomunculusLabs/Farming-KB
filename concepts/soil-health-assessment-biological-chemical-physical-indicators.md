@@ -11,7 +11,7 @@ aliases: [soil-quality-assessment, soil-health-testing, evaluating-soil-health, 
 
 ## Overview
 
-Soil health is the capacity of soil to function as a living ecosystem that sustains plants, animals, and humans. Unlike soil fertility (which focuses primarily on nutrient availability), soil health encompasses the integrated physical, chemical, and biological properties that determine a soil's productivity, resilience, and environmental function. A comprehensive soil health assessment evaluates all three dimensions, recognizing their deep interdependence.
+Soil health is the capacity of soil to function as a living ecosystem that sustains plants, animals, and humans. Unlike soil fertility (which focuses primarily on nutrient availability), soil health encompasses the integrated physical, chemical, and biological properties that determine a soil"s productivity, resilience, and environmental function. A comprehensive soil health assessment evaluates all three dimensions, recognizing their deep interdependence.
 
 ## The Three Pillars of Soil Health
 

@@ -33,7 +33,7 @@ Trainwreck is a legendary sativa-dominant [[cannabis-microbiome-otu-abundance-vs
 - **Lineage:** A three-way landrace cross combining:
   - **[[cannabis-glandular-trichome-types-resin-production-clarke]], physical density, and the mellowing body relaxation that grounds the experience
 - **Original breeder:** Developed by underground growers in the Emerald Triangle region of Northern California (Humboldt, Mendocino, and Trinity counties) during the 1980s. The strain was reportedly stabilized from clone-only genetics before being released as seeds by select breeders.
-- **Name origin:** Multiple accounts exist. The most widely cited story holds that the original growers cultivated the plants near the site of a train wreck in Arcata, California, in Humboldt County. An alternative explanation suggests the name refers to the plant's sprawling, chaotic growth pattern, which can resemble a train wreck when left untrained.
+- **Name origin:** Multiple accounts exist. The most widely cited story holds that the original growers cultivated the plants near the site of a train wreck in Arcata, California, in Humboldt County. An alternative explanation suggests the name refers to the plant"s sprawling, chaotic growth pattern, which can resemble a train wreck when left untrained.
 
 ## Aroma & Flavor Profile
 
@@ -49,7 +49,7 @@ Trainwreck is known for its rapid onset and powerful, multi-phase experience:
 
 ### Onset and Duration
 
-- **Onset:** Fast-acting, with initial effects felt within 1–5 minutes when smoked or vaporized. The cerebral effects arrive almost immediately, consistent with the "freight train" metaphor embedded in the strain's name.
+- **Onset:** Fast-acting, with initial effects felt within 1–5 minutes when smoked or vaporized. The cerebral effects arrive almost immediately, consistent with the "freight train" metaphor embedded in the strain"s name.
 - **Duration:** 2–3 hours for peak effects, with a gentle comedown extending the total experience to approximately 3–4 hours.
 
 ### Reported Effects

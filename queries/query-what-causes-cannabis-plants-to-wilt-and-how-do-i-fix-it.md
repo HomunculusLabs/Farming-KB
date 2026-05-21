@@ -4,7 +4,7 @@ created: 2026-04-28
 tags: [query, cannabis, watering, plant-health, troubleshooting]
 date: 2026-04-25
 updated: 2026-04-25
-sources: ['AllBud blesching-cannabis-strain-selection-receptor-targeting Reviews']
+sources: ["AllBud blesching-cannabis-strain-selection-receptor-targeting Reviews']
 type: query
 ---
 

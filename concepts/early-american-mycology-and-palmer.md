@@ -22,7 +22,7 @@ When Palmer began his studies, no hint of his later conclusions existed in any w
 
 3. **Decomposition and fermentation**: Common edible mushrooms in a state of decomposition or fermentation caused illness, leading to confusion about which species were genuinely poisonous versus which were simply spoiled.
 
-## Palmer's Mentors and Supporters
+## Palmer"s Mentors and Supporters
 
 Palmer acknowledges several key figures in his work. A close friend who served as chemist to the Havemeyer sugar refineries provided weekly encouragement for over ten years. Palmer credits this friend's "clear, thorough, and educated mind" with supplying insights his own "more superficial nature lacked." The medical profession received such significant acknowledgment that Palmer dedicated the work to them.
 
@@ -30,13 +30,13 @@ He also credits the press for welcoming his communications and allowing reprints
 
 ## The Boletus Subtomentosus Case
 
-One of Palmer's most instructive experiences involved the *[[boletus-sub-tomentosus]]* (the olive-red Boletus of Mr. Peck's catalogue). He had eaten "some bushels" of this mushroom from the same location, but specimens plucked after heavy rain or dew exposure caused illness in three nearly simultaneous cases.
+One of Palmer"s most instructive experiences involved the *[[boletus-sub-tomentosus]]* (the olive-red Boletus of Mr. Peck's catalogue). He had eaten "some bushels" of this mushroom from the same location, but specimens plucked after heavy rain or dew exposure caused illness in three nearly simultaneous cases.
 
 Palmer identified the cause as chemical change: the mushroom has a marked acid reaction under litmus paper, and when heavily charged with water, its spongy substance enters a state of "acidulous fermentation." During this state, the mushroom exhibits brilliant blue coloration when pressed, cut, or broken. Mr. Casamajor confirmed the blue matter was soluble but could not explain why it appeared upon exposure to air.
 
 The lesson, according to Palmer: "Not that the mushroom is unfit for food, but that none but young specimens with substance too solid to admit of fermentation should ever be eaten."
 
-## Berkeley's Alkali Theory
+## Berkeley"s Alkali Theory
 
 Palmer initially appeared to endorse the idea of M.J. Berkeley that mushrooms could become poisonous from an excess of alkali. However, he later carefully reconsidered and rejected this theory in an article contributed to the *Boston Medical and Surgical Journal*, as noted on page sixty-five of his published volume.
 
@@ -44,7 +44,7 @@ Palmer initially appeared to endorse the idea of M.J. Berkeley that mushrooms co
 
 Palmer found that the theory of using taste as a guide for rejecting non-esculent mushrooms was only applicable to certain families — specifically the Russule, Boleti, Clavarie, and doubtless others. It was "utterly worthless, even illusive, when applied to the deadly Amanite." The deadly *Amanita* species could taste pleasant while containing lethal toxins.
 
-It was not until after 1877 that Palmer's attention was directed to the Amanita as possessing properties fundamentally different from the Lactarii or Boleti. Even the best authorities, with one exception (a hint in M.C. Cooke's popular manual), spoke of these families in similar terms regarding their effects on humans.
+It was not until after 1877 that Palmer"s attention was directed to the Amanita as possessing properties fundamentally different from the Lactarii or Boleti. Even the best authorities, with one exception (a hint in M.C. Cooke's popular manual), spoke of these families in similar terms regarding their effects on humans.
 
 ## The Truffle Question in America
 

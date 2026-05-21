@@ -8,7 +8,7 @@ type: entity
 
 ## Description
 
-Kamarampi (also spelled kamdrampi) is the Campa (Asháninka) name for ayahuasca, derived from the Quechua word meaning "to vomit." The name reflects the brew's extremely bitter and sometimes emetic qualities. Kamarampi is the central sacrament in Campa shamanic ceremonies in the Peruvian Amazon.
+Kamarampi (also spelled kamdrampi) is the Campa (Asháninka) name for ayahuasca, derived from the Quechua word meaning "to vomit." The name reflects the brew"s extremely bitter and sometimes emetic qualities. Kamarampi is the central sacrament in Campa shamanic ceremonies in the Peruvian Amazon.
 
 ## Classification
 
@@ -41,7 +41,7 @@ The kamarampi ceremony follows a distinctive structure:
 
 The ceremony has a distinctive quality characterized by:
 
-- **Eerie, distant voice:** The shaman's singing has an unearthly quality; his jaw may quiver and his clothing may vibrate
+- **Eerie, distant voice:** The shaman"s singing has an unearthly quality; his jaw may quiver and his clothing may vibrate
 - **Spirit visitation:** Good spirits come in human form, festively attired, singing and dancing before the assembled mortals
 - **Shaman as medium:** Only the shaman perceives the spirits clearly; he sings by repeating what he hears the spirits sing
 - **No possession:** Unlike some traditions, the Campa shaman is never possessed by spirits — he merely accompanies them

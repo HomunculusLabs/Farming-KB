@@ -19,7 +19,7 @@ sources:
 
 ## Overview
 
-Spreading rice straw might be considered rather unimportant, but it is fundamental to Fukuoka's method of growing rice and winter grain. It is connected with everything — fertility, germination, weeds, keeping away sparrows, and water management. In actual practice and in theory, the use of straw in farming is a crucial issue. "This is something that I cannot seem to get people to understand," Fukuoka wrote.
+Spreading rice straw might be considered rather unimportant, but it is fundamental to Fukuoka"s method of growing rice and winter grain. It is connected with everything — fertility, germination, weeds, keeping away sparrows, and water management. In actual practice and in theory, the use of straw in farming is a crucial issue. "This is something that I cannot seem to get people to understand," Fukuoka wrote.
 
 ## Why Uncut Straw
 

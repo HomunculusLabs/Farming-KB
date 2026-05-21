@@ -21,7 +21,7 @@ Historically, soil problems in permanent greenhouses became so severe that growe
 
 ## The Cool House Rotation System
 
-Eliot Coleman's farm in Maine developed a sophisticated rotation system for its "cool house" (a minimally heated greenhouse) that illustrates the principles of effective greenhouse rotation.
+Eliot Coleman"s farm in Maine developed a sophisticated rotation system for its "cool house" (a minimally heated greenhouse) that illustrates the principles of effective greenhouse rotation.
 
 ### Cool House Characteristics
 

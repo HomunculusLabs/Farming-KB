@@ -1,5 +1,5 @@
 ---
-title: Wasson's wasson scholarly critique and legacy and Legacy
+title: Wasson"s wasson scholarly critique and legacy and Legacy
 created: 2026-04-16
 updated: 2026-04-16
 type: concept

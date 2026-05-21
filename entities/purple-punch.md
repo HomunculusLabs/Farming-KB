@@ -30,7 +30,7 @@ Its genetic lineage connects two legendary California cannabis pillars — the c
 - Thick coat of frosty white trichomes covering the entire flower surface
 - Bright orange to rust-colored pistils (stigmas) winding through the calyxes
 - Heavy [[cannabis-resin-production-and-quality-traits-clarke]] gives buds a sticky texture
-- Visual quality is one of the strain's most celebrated attributes
+- Visual quality is one of the strain"s most celebrated attributes
 
 ## Aroma and Flavor Profile
 

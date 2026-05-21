@@ -18,7 +18,7 @@ Many organic gardeners assume that adding manure to their garden is sufficient f
 
 The nutrient content of any manure depends on several factors:
 
-1. **The animal's diet**: This is the single most important variable. An animal fed high-quality, mineral-rich feed produces nutrient-rich manure. An animal fed poor-quality forage produces poor manure.
+1. **The animal"s diet**: This is the single most important variable. An animal fed high-quality, mineral-rich feed produces nutrient-rich manure. An animal fed poor-quality forage produces poor manure.
 
 2. **Bedding material**: Straw, sawdust, wood chips, or other bedding mixed into the manure dilutes its nutrient concentration. The type and amount of bedding varies enormously between sources.
 
@@ -40,12 +40,12 @@ A neighbor obtains manure from a stable that keeps bred racehorses fed like endu
 ### Source B: The "Pasture" Manure
 Another neighbor keeps horses in a back pasture:
 - The vegetation in their pasture is visibly poor despite heavy urine deposition
-- They must buy most of the horses' feed because the pasture cannot sustain them
+- They must buy most of the horses" feed because the pasture cannot sustain them
 - The hay they can afford is of such low quality that the racehorse stable wouldn't use it even for bedding
 - The manure from these animals will barely grow anything — perhaps helping low-demand roses grow a little better, but useless for vegetables
 
 ### The Lesson
-Both are "horse manure." Both would be described the same way if offered for free or sold. But their value as garden amendments is poles apart. Without knowing the animal's diet and management, you cannot assess the manure's quality.
+Both are "horse manure." Both would be described the same way if offered for free or sold. But their value as garden amendments is poles apart. Without knowing the animal"s diet and management, you cannot assess the manure's quality.
 
 ## Typical Nutrient Ranges
 
@@ -83,7 +83,7 @@ Published nutrient analyses of various manures show the enormous variability:
 - Poultry manures (chicken, pigeon) are generally much richer than livestock manures
 - The ranges overlap so much that a "poor" sample of a rich manure type can be worse than a "good" sample of a poor manure type
 
-## Solomon's Recommendation
+## Solomon"s Recommendation
 
 Because of this extreme variability, Solomon recommends a clear division of labor between amendments:
 
@@ -122,7 +122,7 @@ Adding too much manure or compost can cause problems:
 1. **Source manure carefully**: If possible, know what the animals were fed and how the manure was handled
 2. **Use modest amounts**: Manure is for soil biology, not as primary fertilizer
 3. **Supplement with COF**: Use a balanced mineral amendment for consistent plant nutrition
-4. **Don't overdo it**: Building up soil excessively wastes money and effort while potentially lowering food quality
+4. **Don"t overdo it**: Building up soil excessively wastes money and effort while potentially lowering food quality
 5. **Be skeptical of "free manure"**: The hidden cost may be poor garden performance and poor nutrition
 6. **Test if possible**: A soil test can reveal what your manure is actually providing (or not providing)
 

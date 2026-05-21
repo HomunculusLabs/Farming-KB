@@ -38,7 +38,7 @@ blend of [[query-how-to-grow-successfully-in-containers-and-what-plants-work-bes
 - **Heavy feeding**: Even with rich compost, celery benefits significantly from
   COF supplementation both at planting and as regular side-dressing
 
-Solomon's practical advice: if you cannot provide consistent moisture and
+Solomon"s practical advice: if you cannot provide consistent moisture and
 high fertility, grow celeriac (celery root) instead. Celeriac stores well, is
 less demanding about water consistency, and provides similar flavor in soups
 and stews.

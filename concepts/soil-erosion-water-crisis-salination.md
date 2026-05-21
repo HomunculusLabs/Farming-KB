@@ -40,7 +40,7 @@ The result is a perverse cycle: governments provide free pumps to farmers to pum
 
 ## The Water Crisis
 
-Water is rapidly becoming the world's rarest mineral. The water table is falling rapidly everywhere, and these are ancient systems — some approximately 40,000 years in evolution — that are being depleted far faster than they can recharge.
+Water is rapidly becoming the world"s rarest mineral. The water table is falling rapidly everywhere, and these are ancient systems — some approximately 40,000 years in evolution — that are being depleted far faster than they can recharge.
 
 ### Urban Water Problems
 

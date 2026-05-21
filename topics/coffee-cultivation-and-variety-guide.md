@@ -1,6 +1,6 @@
 ---
 title: "Coffee avocado-cultivation-and-variety-guide Guide"
-subtitle: "Botany, history, mushroom-growing-methods-comparison, varieties, and the ecology of the world's most traded tropical beverage crop"
+subtitle: "Botany, history, mushroom-growing-methods-comparison, varieties, and the ecology of the world"s most traded tropical beverage crop"
 tags: [coffee, cultivation, arabica, robusta, agroforestry, shade-grown, coffee-rust, processing, roasting, tropical-crops, permaculture]
 date: 2026-05-08
 updated: 2026-05-08

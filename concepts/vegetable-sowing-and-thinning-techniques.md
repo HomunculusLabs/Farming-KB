@@ -40,7 +40,7 @@ In the home garden, seed distribution is never uniform. Clumps of seedlings inev
 **Example**: Growing looseleaf lettuce that needs to be 12 inches (30 cm) apart, sown in drills.
 
 #### Step 1: Immediate Post-Emergence Thinning
-- Right after emergence, thin dense seedling clusters so survivors don't quite touch
+- Right after emergence, thin dense seedling clusters so survivors don"t quite touch
 - This eliminates severe competition immediately
 
 #### Step 2: Light Competition Thinning

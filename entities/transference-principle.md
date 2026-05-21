@@ -8,7 +8,7 @@ type: entity
 
 ## Description
 
-The Transference Principle is a concept from Tibetan Buddhist practice adapted by Leary in "The [[leary-psychedelic-experience-bardo-mapping]]." It refers to the advanced spiritual technique whereby a practitioner of "extremely advanced spiritual development" can, at the moment of ego-death, transfer consciousness directly to the [[dharma-kaya]] state without traversing the subsequent Second and Third Bardo stages. In Leary's psychedelic framework, this represents the ability of well-prepared, meditation-proficient individuals to immediately recognize and abide in the [[clear-light]] of the First Bardo for the entire duration of a [[psychedelic-session-instructions]].
+The Transference Principle is a concept from Tibetan Buddhist practice adapted by Leary in "The [[leary-psychedelic-experience-bardo-mapping]]." It refers to the advanced spiritual technique whereby a practitioner of "extremely advanced spiritual development" can, at the moment of ego-death, transfer consciousness directly to the [[dharma-kaya]] state without traversing the subsequent Second and Third Bardo stages. In Leary"s psychedelic framework, this represents the ability of well-prepared, meditation-proficient individuals to immediately recognize and abide in the [[clear-light]] of the First Bardo for the entire duration of a [[psychedelic-session-instructions]].
 
 ## Classification
 
@@ -41,7 +41,7 @@ The Transference Principle corresponds to the Tibetan Buddhist practice of Phowa
 - Phowa is one of the Six Yogas of Naropa
 - Advanced practitioners train to direct their consciousness at the moment of death toward a pure Buddha realm
 - The [[bardo-thodol]] teachings on immediate recognition of Clear Light are based on Phowa training
-- Leary's adaptation translates this death-bed practice into the psychedelic session context
+- Leary"s adaptation translates this death-bed practice into the psychedelic session context
 
 ## Relevance to Cultivation and Mycology
 

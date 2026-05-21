@@ -26,7 +26,7 @@ validation" in structuring hallucinatory experiences.
 
 ### Research Focus
 
-Siskind's research centered on the Sharanahua, closely related
+Siskind"s research centered on the Sharanahua, closely related
 neighbors of the Cashinahua in eastern Peru. Her work addressed
 a specific theoretical question raised by [[carlos-castaneda]]'s
 publications: the degree to which "consensual validation"
@@ -39,7 +39,7 @@ and patient while both are under the influence of the
 Banisteriopsis drink. Key findings:
 
 - Traditional curing songs serve as a cultural framework
-  that shapes the patient's experience
+  that shapes the patient"s experience
 - The shaman-patient dialogue during the trance state
   guides the visionary content
 - Cultural factors significantly influence the nature of

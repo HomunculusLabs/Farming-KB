@@ -15,7 +15,7 @@ type: concept
 # Intensifying Small Farm Production
 
 Small farms face the challenge of generating adequate income and food from
-limited land area. Bill Mollison's *Permaculture: A Designers' Manual*
+limited land area. Bill Mollison"s *Permaculture: A Designers' Manual*
 addresses this through strategies that maximize total system yield by
 intensifying production in both space and time. Rather than pursuing the
 monoculture maximization of a single crop, permaculture intensification

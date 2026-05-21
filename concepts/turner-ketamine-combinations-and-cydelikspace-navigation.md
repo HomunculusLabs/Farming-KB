@@ -24,7 +24,7 @@ sources:
 - Warning: "could lead to some quite bizarre and deluded ideas" due to short-circuiting cosmic rules
 
 ### Dose Effects
-- 25 mg Ketamine on 2C-B: won't lose self-awareness, but state is "quite novel, otherworldly, and illuminating"
+- 25 mg Ketamine on 2C-B: won"t lose self-awareness, but state is "quite novel, otherworldly, and illuminating"
 - 50 mg Ketamine on 2C-B: complete separation from self-awareness, journey into CydelikSpace
 - With any amount of Ketamine on 2C-B: "produces interesting results"
 
@@ -40,7 +40,7 @@ sources:
 ## The Cosmic Wind
 
 - Experienced ~20 times, most often with 2C-B + Ketamine
-- "Sheer bliss, thrilling excitement, effortlessness, and the knowledge that there's no way I can go wrong"
+- "Sheer bliss, thrilling excitement, effortlessness, and the knowledge that there"s no way I can go wrong"
 - Only blows in the right direction, only when in "most pristine state of mind"
 - Allows travel through CydelikSpace at "otherwise impossible speeds"
 - "Virtually locked onto a path headed to the most sublime dimensions"
@@ -48,7 +48,7 @@ sources:
 ## Automatic Writing / Channeling
 
 - During one 2C-B + Ketamine experience, transcribed a message from discarnate entities:
-- "They see what's happening but seldom have mediums through whom they can communicate"
+- "They see what"s happening but seldom have mediums through whom they can communicate"
 - "We coded this information in the mind, in the DNA, so it would not be lost. [[turner-psychedelic-combination-experience-reports]]
 
 ### The Encryptor of DNA

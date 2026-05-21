@@ -32,7 +32,7 @@ writings of Dr. Curtis of South Carolina, he had found no original American
 contribution to the subject. The ideas of the four leading British mycologists —
 Berkeley, Cooke, Smith, and Badham — were occasionally reprinted in American
 magazines, "written up" by professional writers who often introduced errors.
-Even Dr. Curtis's correspondence with [[charles-james-sprague]], deposited at the
+Even Dr. Curtis"s correspondence with [[charles-james-sprague]], deposited at the
 Boston Society of Natural History, focused on microscopic revelations rather
 than practical identification guidance for the amateur mushroom hunter.
 

@@ -3,7 +3,7 @@ title: "Schisandra vs Tulsi"
 tags: [comparison, adaptogens, schisandra, tulsi, medicinal-herbs]
 date: 2026-05-13
 updated: 2026-05-13
-sources: ['raw/papers/amanita-muscaria-herb-of-immortality.md']
+sources: ["raw/papers/amanita-muscaria-herb-of-immortality.md']
 ---
 
 ## Schisandra vs Tulsi
@@ -32,7 +32,7 @@ dioecious, meaning separate male and female plants are needed for fruit
 production. The bright red drupes, produced in dense pendulous clusters, are
 the primary medicinal part. Known in Chinese as Wu Wei Zi (five-flavor fruit),
 the berries simultaneously taste sour, bitter, sweet, acrid, and salty,
-reflecting the herb's reputed ability to benefit all five yin organs.
+reflecting the herb"s reputed ability to benefit all five yin organs.
 
 Key active compounds include schisandrin A and B, gomisin, and
 deoxyschisandrin,

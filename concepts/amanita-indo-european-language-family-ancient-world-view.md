@@ -8,7 +8,7 @@ type: concept
 
 ## The Discovery of the Indo-European Language Family
 
-The realization that many of the world's major languages descend from a single common
+The realization that many of the world"s major languages descend from a single common
 ancestor is one of the great intellectual breakthroughs of the [[mycology-modern-era]]. In 1786,
 Sir William Jones, a British judge and scholar stationed in Calcutta, proposed that
 Sanskrit, Latin, Greek, Persian, Gothic, and Celtic all shared a common ancestor

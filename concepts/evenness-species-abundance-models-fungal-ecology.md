@@ -18,7 +18,7 @@ Evenness measures the degree to which individuals are evenly distributed among s
 e = Diversity_obs / Diversity_max
 ```
 
-When all species are equally abundant, evenness approaches 1.0; when one species dominates the community, evenness approaches 0. Values between 0 and 1 allow comparison of community structure independent of species richness. Evenness is most commonly calculated using the Shannon diversity index as the numerator, with the denominator being the maximum Shannon value achievable when all species are equally represented (i.e., H_max = ln S, where S is species richness). Pielou's evenness index (J') is the most widely used form:
+When all species are equally abundant, evenness approaches 1.0; when one species dominates the community, evenness approaches 0. Values between 0 and 1 allow comparison of community structure independent of species richness. Evenness is most commonly calculated using the Shannon diversity index as the numerator, with the denominator being the maximum Shannon value achievable when all species are equally represented (i.e., H_max = ln S, where S is species richness). Pielou"s evenness index (J') is the most widely used form:
 
 ```
 J' = H' / H_max = H' / ln S
@@ -32,7 +32,7 @@ Ludwig and Reynolds recommended the use of **Hill's diversity numbers** (N0, N1,
 
 - **N0** (Hill number of order 0): Equivalent to species richness S. All species are weighted equally regardless of abundance. This is the most basic diversity measure, sensitive only to species presence.
 - **N1** (Hill number of order 1): Equivalent to the exponential of Shannon's entropy, e^H'. Represents the number of "common" or "typical" species in the community. Sensitive to both richness and evenness.
-- **N2** (Hill number of order 2): Equivalent to 1/Simpson's concentration index. Represents the number of "very abundant" or "dominant" species. Weighted heavily toward the most common taxa.
+- **N2** (Hill number of order 2): Equivalent to 1/Simpson"s concentration index. Represents the number of "very abundant" or "dominant" species. Weighted heavily toward the most common taxa.
 
 Hill's numbers have the advantage of being expressed in effective species units, making them directly comparable across orders. The ratio N2/N1 or N1/N0 can serve as an evenness measure, avoiding some of the biases inherent in ratio-based evenness indices. The relationship N2 ≤ N1 ≤ N0 always holds, with equality only when all species are equally abundant.
 

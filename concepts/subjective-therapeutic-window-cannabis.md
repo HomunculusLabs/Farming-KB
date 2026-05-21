@@ -24,7 +24,7 @@ person based on individual [[blesching-cannabis-strain-selection-receptor-target
 
 ### Endocannabinoid State
 
-The body's present endocannabinoid balance or deficiency influences how
+The body"s present endocannabinoid balance or deficiency influences how
 cannabis will be experienced:
 
 - **CB1 deficiency**: Patients with neurological disorders or mental
@@ -73,7 +73,7 @@ dosage.
 4. Wait another hour
 5. Repeat until the desired effect is achieved
 
-The most common mistake with edibles is impatience—thinking "I'm not
+The most common mistake with edibles is impatience—thinking "I"m not
 feeling anything" and continuing to eat until adverse effects occur.
 Edible cannabis can take 2+ hours to reach full effect on a full stomach,
 

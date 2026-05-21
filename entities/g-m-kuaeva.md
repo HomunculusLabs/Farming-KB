@@ -8,7 +8,7 @@ type: entity
 
 ## Description
 
-G.M. Kuaeva is a Soviet-era researcher whose 1975 publication "Physical Properties of Snow Cover of the Greater Caucasus" (translated by USDA) is cited by Mollison as a primary source for data on snow physics, snow movement, and [[avalanche-phenomenon]] phenomena in the cold-climate design section of [[permaculture]]: A Designers' Manual. The work provides much of the technical foundation for understanding snow dynamics as they relate to cold-climate [[permaculture-design]].
+G.M. Kuaeva is a Soviet-era researcher whose 1975 publication "Physical Properties of Snow Cover of the Greater Caucasus" (translated by USDA) is cited by Mollison as a primary source for data on snow physics, snow movement, and [[avalanche-phenomenon]] phenomena in the cold-climate design section of [[permaculture]]: A Designers" Manual. The work provides much of the technical foundation for understanding snow dynamics as they relate to cold-climate [[permaculture-design]].
 
 ## Classification
 

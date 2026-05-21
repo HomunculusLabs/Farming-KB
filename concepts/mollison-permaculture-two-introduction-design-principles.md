@@ -38,7 +38,7 @@ productive capacity. The suburban plot under lawn, the urban blight
 around cities, and the desperate misuse of frontier land all represent
 a system that is not sustainable in any future terms.
 
-## Von Thunen's Zonation as Unconscious Design
+## Von Thunen"s Zonation as Unconscious Design
 
 Mollison references Von Thunen's analysis of pre-industrial northern
 European settlements, where functions were ranged around human

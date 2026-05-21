@@ -37,7 +37,7 @@ Absent and disinterested owners, increasing crime, and eventually declining valu
 
 ## Key Facts
 
-- Over the last 30 years (from Holmgren's writing), gentrification transformed the old inner suburbs of most cities of the Western world.
+- Over the last 30 years (from Holmgren"s writing), gentrification transformed the old inner suburbs of most cities of the Western world.
 - The process is analogous to ecological succession in that pioneer "species" (bohemians, artists) create conditions suitable for other "species" (renovators, professionals).
 - The pioneers rarely view the arrival of new migrants and tourists with equanimity, seeing newcomers as unappreciative consumers of the cultural resources they created.
 - There is evidence of further stages beyond simple gentrification, potentially forming a pulsing or four-phase system of urban social change.
@@ -57,11 +57,11 @@ Absent and disinterested owners, increasing crime, and eventually declining valu
 
 ## Connections
 
-- Analogous to ecological succession and the four-phase ecosystem model (Holling's cycle)
+- Analogous to ecological succession and the four-phase ecosystem model (Holling"s cycle)
 - Related to the back-to-the-land movement as a form of social pioneering in rural areas
 - Links to the concept of "nouveau riche succession" in family wealth patterns across generations
 - Illustrates the permaculture principle of creatively using and responding to change in a social context
-- Demonstrates the same dynamics described in Jane Jacobs' urban neighbourhood analysis
+- Demonstrates the same dynamics described in Jane Jacobs" urban neighbourhood analysis
 
 ## Source Reference
 

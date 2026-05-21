@@ -43,7 +43,7 @@ Microbial chelation is continuous, self-regulating, and free — the organisms
 perform it as a natural consequence of their own metabolic needs. When
 [[actively-aerated-compost-tea]] (AACT) is applied to soil, it introduces living
 bacteria and fungi that produce chelating proteins and amino acids, steadily
-increasing the soil's capacity to solubilize and retain mineral nutrients.
+increasing the soil"s capacity to solubilize and retain mineral nutrients.
 
 ## How Plants Process Chelated Minerals
 

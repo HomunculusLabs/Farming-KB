@@ -7,7 +7,7 @@ tags: [plant-family, nightshade, antidote, solanaceae, pharmacology]
 
 ## Description
 
-The Solanaceae (referred to as Solanacea in Palmer's text) are a family of flowering plants commonly known as the nightshade family. In the context of mushroom poisoning, this family is critically important because it furnishes the most trustworthy antidotes to Amanitine poisoning. The active principles extracted from several Solanaceae species — particularly atropine from [[atropa-belladonna]] — have been used to counteract the deadly alkaloids found in Amanita mushrooms.
+The Solanaceae (referred to as Solanacea in Palmer"s text) are a family of flowering plants commonly known as the nightshade family. In the context of mushroom poisoning, this family is critically important because it furnishes the most trustworthy antidotes to Amanitine poisoning. The active principles extracted from several Solanaceae species — particularly atropine from [[atropa-belladonna]] — have been used to counteract the deadly alkaloids found in Amanita mushrooms.
 
 ## Classification
 

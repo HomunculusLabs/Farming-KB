@@ -11,7 +11,7 @@ sources:
 
 ## Overview
 
-One of JADAM's most controversial positions is the complete rejection of black sugar and molasses in [[comparison-natural-farming-vs-permaculture]] (KNF) and Japanese organic agriculture -- are harmful, unnecessary, expensive, and fundamentally contrary to the spirit of organic farming.
+One of JADAM"s most controversial positions is the complete rejection of black sugar and molasses in [[comparison-natural-farming-vs-permaculture]] (KNF) and Japanese organic agriculture -- are harmful, unnecessary, expensive, and fundamentally contrary to the spirit of organic farming.
 
 ## The Problem with Black Sugar
 

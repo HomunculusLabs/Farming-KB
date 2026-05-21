@@ -20,7 +20,7 @@ complement each other synergistically.
 [[lsd-set-and-setting-framework]]
 ## Key Contributions
 
-Ralph Metzner's integration of Western psychological frameworks with entheogenic experience represents a bridge between clinical psychology and consciousness research. His work with Timothy Leary and Richard Alpert (later Ram Dass) at Harvard established foundational principles for understanding psychedelic therapy.
+Ralph Metzner"s integration of Western psychological frameworks with entheogenic experience represents a bridge between clinical psychology and consciousness research. His work with Timothy Leary and Richard Alpert (later Ram Dass) at Harvard established foundational principles for understanding psychedelic therapy.
 
 ## Theoretical Framework
 

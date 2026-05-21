@@ -8,7 +8,7 @@ type: entity
 
 ## Description
 
-Calopogonium mucunoides, commonly known as calopo, is a vigorous, twining tropical legume used extensively as a cover crop, green manure, and pioneer species in humid tropical agricultural systems. In Bill Mollison's *Permaculture: A Designer's Manual*, it is listed as "Calopogonium mucunoides, Calapo" among the plant species referenced for designed agricultural systems.
+Calopogonium mucunoides, commonly known as calopo, is a vigorous, twining tropical legume used extensively as a cover crop, green manure, and pioneer species in humid tropical agricultural systems. In Bill Mollison"s *Permaculture: A Designer's Manual*, it is listed as "Calopogonium mucunoides, Calapo" among the plant species referenced for designed agricultural systems.
 
 ## Classification
 

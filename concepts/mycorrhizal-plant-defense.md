@@ -10,7 +10,7 @@ sources:
 
 # Mycorrhizal Plant Defense
 
-How mycorrhizal and endophytic fungi protect plants from diseases, pests, and environmental stress. Based on [[paul-stamets]]' *Mycelium Running* (2005). See also [[mycorrhizal-fungi]], [[endophytic-fungi]], [[plant-defense-mechanisms]], and [[fungal-symbiosis-types]].
+How mycorrhizal and endophytic fungi protect plants from diseases, pests, and environmental stress. Based on [[paul-stamets]]" *Mycelium Running* (2005). See also [[mycorrhizal-fungi]], [[endophytic-fungi]], [[plant-defense-mechanisms]], and [[fungal-symbiosis-types]].
 
 ## The Root Armor Concept
 

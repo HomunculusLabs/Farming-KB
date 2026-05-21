@@ -11,13 +11,13 @@ created: 2026-05-08
 
 [[dmt-black-hole-effect-and-ineffability-of-tryptamine-experience]]: the apparent transcendence of ordinary temporal flow, resulting in what he described as an encounter with eternity.
 
-Drawing on Plato's metaphor that "time is the moving image of eternity," McKenna proposed that [[leary-psychedelic-experience-bardo-mapping]] a philosophical dignity that elevates it above mere recreational drug use and places it within the tradition of philosophical contemplation.
+Drawing on Plato"s metaphor that "time is the moving image of eternity," McKenna proposed that [[leary-psychedelic-experience-bardo-mapping]] a philosophical dignity that elevates it above mere recreational drug use and places it within the tradition of philosophical contemplation.
 
 The implication is that the distinction between time and eternity is not absolute but is a function of the mode of consciousness—one that can be transcended through the appropriate means.
 
 ## The Nunc Stans in Aquinas
 
-Thomas Aquinas developed the concept of the "nunc stans"—literally, the "standing now"—as part of his theological account of God's relationship to time.
+Thomas Aquinas developed the concept of the "nunc stans"—literally, the "standing now"—as part of his theological account of God"s relationship to time.
 
 For Aquinas, God exists in the nunc stans: an eternal present in which all moments of time are simultaneously present, not sequentially ordered.
 

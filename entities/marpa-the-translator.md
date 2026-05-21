@@ -21,8 +21,8 @@ Marpa Chökyi Lodrö (1012–1097), known as "Marpa the Translator," was a Tibet
 - Made three journeys to India to study with Indian Buddhist masters, particularly Naropa
 - Translated numerous Sanskrit Buddhist texts into Tibetan, preserving teachings that were later lost in India
 - Founded the Kagyu lineage of Tibetan Buddhism
-- Student of Naropa; teacher of Milarepa, one of Tibet's most famous yogis
-- Leary compared Evans-Wentz's role to Marpa's: "The Oxford scholar, like his great predecessor of the eleventh century, Marpa ('The Translator'), who rendered Indian Buddhist texts into Tibetan, thereby preserving them from extinction, saw the vital importance of these doctrines and made them accessible to many"
+- Student of Naropa; teacher of Milarepa, one of Tibet"s most famous yogis
+- Leary compared Evans-Wentz's role to Marpa's: "The Oxford scholar, like his great predecessor of the eleventh century, Marpa ("The Translator'), who rendered Indian Buddhist texts into Tibetan, thereby preserving them from extinction, saw the vital importance of these doctrines and made them accessible to many"
 - This comparison frames the transmission of consciousness-expanding knowledge as a recurring historical pattern
 
 ## Relevance to Cultivation and Mycology

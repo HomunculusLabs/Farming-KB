@@ -34,7 +34,7 @@ The strain descends from the cross of Alien Cookies F2 with a Columbian landrace
 
 Starfighter adds potency and a fuel-like chemical undertone to the terpene profile. The Columbian landrace influence provides vigor, yield potential, and a cerebral sativa quality.
 
-The "Miracle Alien Cookies" name reflects the breeder's assessment that this phenotype was exceptional among the MAC progeny. MAC 1 was the standout selection from the initial population.
+The "Miracle Alien Cookies" name reflects the breeder"s assessment that this phenotype was exceptional among the MAC progeny. MAC 1 was the standout selection from the initial population.
 
 Other notable MAC phenotypes include MAC 2 and MAC 3, which express slightly different terpene ratios and growth structures. MAC 1 remains the most widely propagated and commercially available of the series.
 

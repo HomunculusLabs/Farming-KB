@@ -84,7 +84,7 @@ Storage dams should be carefully located with respect to:
 
 ### The Keyline Connection
 
-P.A. Yeomans' Keyline system, developed in Australia, provides the foundational framework for comprehensive water management on foothill farms. The system integrates:
+P.A. Yeomans" Keyline system, developed in Australia, provides the foundational framework for comprehensive water management on foothill farms. The system integrates:
 
 - **Water storage** at multiple scales (tanks, dams, soil moisture)
 - **Contour-aligned access roads** that double as diversion channels

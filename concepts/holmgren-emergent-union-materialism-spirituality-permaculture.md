@@ -46,7 +46,7 @@ disengagement and quietism.
 ## Creative and Destructive Pathways (Figure 5)
 
 Figure 5 presents a diagrammatic model showing how both materialism and
-spirituality contain creative and destructive potentials. Materialism's
+spirituality contain creative and destructive potentials. Materialism"s
 creative pathway yields empirical science, systems thinking, and appropriate
 technology; its destructive pathway yields reductionism, consumerism, and
 mechanistic domination. Spirituality's creative pathway yields reverence for

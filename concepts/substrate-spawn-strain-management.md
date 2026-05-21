@@ -40,7 +40,7 @@ Do not exceed 12 hours — extended soaking produces a sour odor signaling bacte
 Allow sawdust to drain for approximately one hour until it reaches the correct moisture level. The target is **moist but not wet**:
 
 - Water squeezes out freely → too wet
-- Material doesn't hold together → too dry
+- Material doesn"t hold together → too dry
 - Holds shape in a ball, no water drops → correct
 
 ### Step 3 — Bag and Supplement

@@ -27,7 +27,7 @@ Cannabis has served as a sacrament in numerous religious and spiritual tradition
 
 ## Historical and Cross-Cultural Context
 
-The practitioner's guide by Magus Sativus frames cannabis as having three primary roles: medicine, fiber, and sacrament. This tripartite classification reflects a broad historical consensus:
+The practitioner"s guide by Magus Sativus frames cannabis as having three primary roles: medicine, fiber, and sacrament. This tripartite classification reflects a broad historical consensus:
 
 - **Medicine**: Used across cultures for pain relief, anxiety reduction, and as a general tonic
 - **Fiber**: Hemp cultivation for rope, cloth, and paper spans millennia
@@ -72,7 +72,7 @@ The guide describes several structured rituals that share common elements:
 | Ritual | Purpose | Setting | Tools |
 |--------|---------|---------|-------|
 | Blessing the Ground | Give thanks, attune land, promote growth | Outdoor circle | Pipe/joint, pentagram |
-| Harnessing Earth's Energy | Physical healing | Indoor or outdoor | Salt circle, candles, chalice, cannabis-infused liquid, athame |
+| Harnessing Earth"s Energy | Physical healing | Indoor or outdoor | Salt circle, candles, chalice, cannabis-infused liquid, athame |
 | Feeding the Flame | Celebrate fire element | Outdoor, fire pit | Athame, incense, grain alcohol, wood, salt |
 | Blessing of the Oil | Self-healing, anointing | Any | Olive oil infused with cannabis, chalice, incense, yellow candles, rosemary |
 | The Vortex | Banishing negative energy, renewal | Dark room | Wine, wand, music, black candle, mirror, altar |

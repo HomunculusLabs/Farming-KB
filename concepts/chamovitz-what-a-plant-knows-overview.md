@@ -15,7 +15,7 @@ created: 2026-05-10
 4. **What a Plant Hears** (p. 87) — Vibration and sound perception in plants
 5. **How a Plant Knows Where It Is** (p. 111) — Gravitropism, proprioception, [[darwin-power-of-movement-in-plants]] in Plants*.
 
-The Darwins' five-condition experiment with canary grass (*Phalaris canariensis*) demonstrated that:
+The Darwins" five-condition experiment with canary grass (*Phalaris canariensis*) demonstrated that:
 
 - The plant tip detects light direction
 - The tip communicates this information to the bending region

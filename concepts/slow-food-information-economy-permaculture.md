@@ -10,7 +10,7 @@ The tension between slow, deliberate processes and the accelerating pace of mode
 
 ## The Slow Food Movement
 
-The Slow Food movement emerged as a direct cultural response to the acceleration of food production and consumption. It celebrates the loving [[magic-mushroom-preparation-and-consumption-methods]] of food as an alternative to what Holmgren calls "the aesthetic, physiological, and ecological obscenities of fast food." Founded in Italy by Carlo Petrini in the 1980s as a protest against a McDonald's opening near the Spanish Steps in Rome, the movement had grown to approximately 60,000 members worldwide by the time of Holmgren's writing.
+The Slow Food movement emerged as a direct cultural response to the acceleration of food production and consumption. It celebrates the loving [[magic-mushroom-preparation-and-consumption-methods]] of food as an alternative to what Holmgren calls "the aesthetic, physiological, and ecological obscenities of fast food." Founded in Italy by Carlo Petrini in the 1980s as a protest against a McDonald"s opening near the Spanish Steps in Rome, the movement had grown to approximately 60,000 members worldwide by the time of Holmgren's writing.
 
 Slow Food represents a signpost toward cultural turnaround — a recognition that speed in food production and consumption sacrifices nutrition, flavor, cultural meaning, ecological health, and social connection. The movement embodies several [[permaculture-principles]] simultaneously:
 
@@ -62,7 +62,7 @@ Others mistrust information technology for:
 - **Increasing centralization** of power despite promises of devolution
 - **Increasing dependency** on complex technology that cannot be locally produced
 
-### Holmgren's Personal Guidelines
+### Holmgren"s Personal Guidelines
 
 As someone who has used computers for both consulting and writing, Holmgren offers practical guidelines for a balanced relationship with information technology:
 
@@ -110,7 +110,7 @@ The experience of energy descent can be likened to a speedboat making a tight 18
 
 ## Conclusion
 
-The evidence that "small is beautiful" and "slow is sane" is pervasive. As energy peak and descent reshape civilization, giant centralized systems reveal themselves as dinosaurs of the fossil-fuel era. The emergence of Slow Food, the questioning of information technology's benefits, and the paradox of radical conservatism all point toward a cultural paradigm shift — from adolescent immortality and values of speed, novelty, and endless growth toward maturity, persistence, and acceptance of limits.
+The evidence that "small is beautiful" and "slow is sane" is pervasive. As energy peak and descent reshape civilization, giant centralized systems reveal themselves as dinosaurs of the fossil-fuel era. The emergence of Slow Food, the questioning of information technology"s benefits, and the paradox of radical conservatism all point toward a cultural paradigm shift — from adolescent immortality and values of speed, novelty, and endless growth toward maturity, persistence, and acceptance of limits.
 
 The conclusion Holmgren offers is both warning and invitation: when an adolescent sense of immortality defines a civilization, we may be close to its demise and the birth of something new. The task is to "watch it slowly unfold."
 ## Further Reading

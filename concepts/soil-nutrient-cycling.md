@@ -17,7 +17,7 @@ In a healthy soil food web, nutrients follow a biological pathway rather than a 
 
 1. **Plant produces exudates**: The plant uses 10-40% of its photosynthetic output to create sugars, amino acids, and other compounds that it secretes through its roots into the rhizosphere.
 2. **Bacteria and fungi respond**: Beneficial bacteria and fungi are attracted to and multiply on these exudates. As they grow, they absorb and retain nutrients from the surrounding soil in their bodies (biomass).
-3. **Nutrient retention**: Bacteria and fungi effectively "hold" nutrients that would otherwise leach away. This is why healthy soils don't need constant fertilizing -- the biology stores nutrients until plants need them.
+3. **Nutrient retention**: Bacteria and fungi effectively "hold" nutrients that would otherwise leach away. This is why healthy soils don"t need constant fertilizing -- the biology stores nutrients until plants need them.
 4. **Predation releases nutrients**: Protozoa eat bacteria; bacterial-feeding nematodes eat bacteria; fungal-feeding nematodes eat fungi. These predators need much more nitrogen than they consume, so they excrete the excess as ammonium (NH4+) -- a plant-available form.
 5. **Plant uptake**: Plant roots absorb the ammonium (and, after nitrification, nitrate) released by the soil food web. The nutrients were originally in organic matter or mineral particles, converted to microbial biomass, and then released in plant-available form through predation.
 

@@ -15,7 +15,7 @@ source: "the natural way of farming  fukuoka"
 
 ## Critique of Scientific Agriculture
 
-Masanobu Fukuoka's critique of scientific agriculture is one of the most thorough and
+Masanobu Fukuoka"s critique of scientific agriculture is one of the most thorough and
 philosophically grounded challenges to modern industrial farming ever written. He argued
 that scientific agriculture does not merely fail to solve the problems it claims to
 address, but actively creates the conditions that make its own interventions appear

@@ -13,13 +13,12 @@ date: 2026-05-03
 updated: 2026-05-03
 sources:
   - NFLS Pawpaw Trial Reports, 2010–2023.---
----
 
 ## Pawpaw Cultivation and Variety Guide
 
 ## Overview
 
-The pawpaw (*Asimina triloba*) is the largest edible fruit native to North America, belonging to the Annonaceae (custard apple) family. Often called the "Indiana banana," "Hoosier banana," or "poor man's banana," pawpaws produce a creamy, tropical-flavored fruit reminiscent of banana, mango, and cantaloupe. The tree is deciduous, reaching 15–30 feet tall, with large drooping leaves that give it a tropical appearance. Pawpaws are increasingly valued in permaculture [[hamilton-composting-and-organic-matter-management]]**: High organic content (3–5%) is ideal. Mulch heavily with composted leaves or wood chips.
+The pawpaw (*Asimina triloba*) is the largest edible fruit native to North America, belonging to the Annonaceae (custard apple) family. Often called the "Indiana banana," "Hoosier banana," or "poor man"s banana," pawpaws produce a creamy, tropical-flavored fruit reminiscent of banana, mango, and cantaloupe. The tree is deciduous, reaching 15–30 feet tall, with large drooping leaves that give it a tropical appearance. Pawpaws are increasingly valued in permaculture [[hamilton-composting-and-organic-matter-management]]**: High organic content (3–5%) is ideal. Mulch heavily with composted leaves or wood chips.
 - **pH**: Tolerant of a range but prefer slightly acidic conditions.
 - **Depth**: Deep soil (24+ inches) accommodates the taproot. Shallow soils over hardpan or bedrock limit growth.
 

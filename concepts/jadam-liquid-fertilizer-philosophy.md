@@ -9,7 +9,7 @@ sources:
 ---
 ## JADAM Liquid Fertilizer Philosophy and Traditional Wisdom
 
-JADAM's approach to liquid fertilizer challenges many modern [[solomon-liquid-fertilizers-and-foliar-feeding]] should not smell bad
+JADAM"s approach to liquid fertilizer challenges many modern [[solomon-liquid-fertilizers-and-foliar-feeding]] should not smell bad
 - There should be no maggots in the fermentation
 - Black mold should not form
 - Using smelly liquid fertilizer will cause problems

@@ -70,7 +70,7 @@ The availability data must be understood in the context of very different availa
 
 ### The Norwegian Woodland Party Milieu
 
-Norway reported a distinctive subculture described as a "music milieu characterised by a focus on organic lifestyles and woodland parties." This milieu was reported to be largely composed of economically disadvantaged people aged 25–40 who used cannabis and hallucinogenic mushrooms. Critically, this subculture was considered "peculiar and unattractive by the under-25 age groups," suggesting that mushroom availability in Norway was concentrated in an aging subculture with limited diffusion to younger populations. This explains Norway's relatively low student prevalence despite the existence of an active mushroom-using community.
+Norway reported a distinctive subculture described as a "music milieu characterised by a focus on organic lifestyles and woodland parties." This milieu was reported to be largely composed of economically disadvantaged people aged 25–40 who used cannabis and hallucinogenic mushrooms. Critically, this subculture was considered "peculiar and unattractive by the under-25 age groups," suggesting that mushroom availability in Norway was concentrated in an aging subculture with limited diffusion to younger populations. This explains Norway"s relatively low student prevalence despite the existence of an active mushroom-using community.
 
 ### Wild Foraging Availability
 

@@ -22,7 +22,7 @@ What can never be fully defined is substance itself — it may be nothing more t
 
 ## Convergence of Science and Indigenous Belief
 
-Pattern understanding contributes to the evolution of new worldviews based on the essential oneness of all phenomena. James Lovelock's *Gaia* hypothesis (1979) best expresses the convergence of scientific insight and ancient tribal belief — both assert the interdependence of animate and inanimate events. The universe and Earth behave as self-regulating, self-generated constructs, akin to a single organism or a thought process.
+Pattern understanding contributes to the evolution of new worldviews based on the essential oneness of all phenomena. James Lovelock"s *Gaia* hypothesis (1979) best expresses the convergence of scientific insight and ancient tribal belief — both assert the interdependence of animate and inanimate events. The universe and Earth behave as self-regulating, self-generated constructs, akin to a single organism or a thought process.
 
 The conditions that make life possible are balanced about such fine tolerances that it seems certain many processes exist specifically to preserve this equilibrium in its dynamic stability.
 

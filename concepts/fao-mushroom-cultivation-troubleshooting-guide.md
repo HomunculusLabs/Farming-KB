@@ -5,7 +5,7 @@ tags:
 ---
 ## FAO Training Manual (2001) — Problem Diagnosis and Solutions
 
-The FAO's 2001 training manual includes a comprehensive troubleshooting reference for
+The FAO"s 2001 training manual includes a comprehensive troubleshooting reference for
 [[mushroom-cultivation-disabilities-nine-week-training-program]]. The guide follows the principle that "preventing is
 better than solving problems" and covers the full range of failures from inoculation through
 harvesting.

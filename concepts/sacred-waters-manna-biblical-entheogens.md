@@ -14,7 +14,7 @@ The declaration "I am the Fountain of Living Waters" is interpreted literally as
 
 In **Revelation 21:6**, Jesus promises to give the living waters to those who are athirst. The author argues that living waters, blood, manna, and flesh are all representations of the same thing: a phenomenal substance that produces multi-dimensionality, spiritual learning, and communion with God from within.
 
-## Jeremiah's Broken Cisterns
+## Jeremiah"s Broken Cisterns
 
 **Jeremiah 3:13** delivers what may be the most pointed critique of sacramental substitution in the Bible: "My people have committed two evils; they have forsaken me the fountain of living waters, and hewed them out cisterns, broken cisterns, that can hold no water."
 

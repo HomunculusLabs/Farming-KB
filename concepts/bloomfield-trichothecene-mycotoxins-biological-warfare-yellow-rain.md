@@ -21,7 +21,7 @@ complicates risk assessment. Susan Kaminskyj, a biologist at the
 University of Saskatoon and one of the few professional mycologists in
 the province, fields frequent calls from terrified homeowners who have
 discovered streaks of black mold on their wallpaper. Her reassuring
-advice: "If this mold didn't kill you yesterday, it's unlikely that
+advice: "If this mold didn"t kill you yesterday, it's unlikely that
 you'll die today." Isolated patches can be treated with diluted bleach,
 but unless the underlying moisture problem is corrected, the fungus
 will return.

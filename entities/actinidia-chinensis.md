@@ -11,7 +11,6 @@ date: 2026-05-08
 updated: 2026-05-08
 sources:
   - Beever, D.J. & Hopkirk, G. (1990). "Fruit Development and Maturation." In Warrington, I.J. & Weston, G.C. (eds.), Kiwifruit: Science and Management. Ray Richards Publisher.---
----
 
 ## Overview
 

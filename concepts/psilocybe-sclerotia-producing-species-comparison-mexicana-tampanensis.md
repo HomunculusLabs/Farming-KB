@@ -9,7 +9,7 @@ tags:
 Several *Psilocybe* species produce sclerotia, which are dense, hardened masses
 of mycelial tissue that serve as survival structures during adverse
 environmental conditions. In cultivation, sclerotia (colloquially called
-"truffles" or "philosopher's stones") represent an alternative harvestable
+"truffles" or "philosopher"s stones") represent an alternative harvestable
 product to traditional fruiting bodies. The two most commonly cultivated
 sclerotia-producing species are *Psilocybe mexicana* and *[[disposable-tray-casing-method-grass-seed-substrate]] without requiring
 a casing layer or [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]], particularly Mexico, Guatemala, and Costa Rica. It grows in

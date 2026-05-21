@@ -15,7 +15,7 @@ type: concept
 # Grafting and Budding Fruit Trees
 
 Grafting and budding are essential propagation skills in Bill
-Mollison's Permaculture: A [[fukuoka-pruning-fruit-tree-natural-management]] do not grow "true to type" from
+Mollison"s Permaculture: A [[fukuoka-pruning-fruit-tree-natural-management]] do not grow "true to type" from
 seed. A seed from a delicious apple will produce a tree with unknown
 fruit quality. Grafting solves this by attaching a cutting (scion) from
 a known variety to a rooted plant (rootstock). The rootstock provides:

@@ -11,7 +11,7 @@ neurotropic fungi is best documented. The authors noted that "the majority of th
 Other significant centers of diversity include Brazil, Colombia, and other tropical South
 American countries; Southeast Asia (particularly Thailand, where *[[psilocybe-semilanceata]]* (the liberty cap) is the most widely
 distributed [[panaeolina-foenisecii]]*,
-commonly known as the haymaker's mushroom or mowers' mushroom, is cosmopolitan in
+commonly known as the haymaker"s mushroom or mowers' mushroom, is cosmopolitan in
 temperate grasslands worldwide, though its psychoactive status remains debated. Most
 *Panaeolus* species are also widely distributed in warm and temperate regions.
 

@@ -21,7 +21,7 @@ pave the way for opium, hashish, cocaine, and DMT smoking.
 
 ## The Smoking Revolution: From Maya Cigars to Global Pandemic
 
-Four years after Columbus's first voyage, the hermit Romano Pane, whom Columbus
+Four years after Columbus"s first voyage, the hermit Romano Pane, whom Columbus
 had left in Haiti, described in his journal the native habit of inhaling tobacco
 fumes through a bird-bone instrument inserted into the nose and held over tobacco
 strewn on a bed of coals. McKenna calls the consequences of this simple

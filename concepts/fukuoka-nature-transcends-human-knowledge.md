@@ -16,7 +16,7 @@ The nature that man perceives through his intellect is itself a vision anchored 
 
 However, because "tabula rasa" is merely the opposite of what is not tabula rasa, expressing things in this way does little good. No way exists to describe nature as it truly is.
 
-The best one could do would be to say that if one casts off everything, absolutely everything, from human thought, what emerges thereafter in one's soul -- that indefinable something that one apprehends after having transcended even the light of which the haiku poet Basho wrote in his poem: "Oh, how splendid! The sunlight on the young, green leaves" -- that could be called nature.
+The best one could do would be to say that if one casts off everything, absolutely everything, from human thought, what emerges thereafter in one"s soul -- that indefinable something that one apprehends after having transcended even the light of which the haiku poet Basho wrote in his poem: "Oh, how splendid! The sunlight on the young, green leaves" -- that could be called nature.
 
 ## Why Analysis Fails
 
@@ -30,9 +30,9 @@ The stronger the conscious desire to know, the further man becomes distanced fro
 
 Thinking that he must climb a mountain to know it, the mountain climber climbs the mountain. But in fact, to know the true mountain, one must see it from a point of remove that transcends the mountain. Man can scale a mountain and stand on its summit, but he cannot climb above and beyond. Unable to grasp the mountain in its full aspect, he is content with having seen only one small portion and climbs back down.
 
-Mountain climbing, going to the beach, listening to birds singing -- all these seem to be ways of capturing a bit of nature. But no matter how many such recreations one gathers together, they do not add up to a true understanding of nature. The accumulation of [[fukuoka-critique-western-dietetics-nutritional-science]] for Fukuoka's extended treatment of this theme.
+Mountain climbing, going to the beach, listening to birds singing -- all these seem to be ways of capturing a bit of nature. But no matter how many such recreations one gathers together, they do not add up to a true understanding of nature. The accumulation of [[fukuoka-critique-western-dietetics-nutritional-science]] for Fukuoka"s extended treatment of this theme.
 
-Fukuoka draws on a long tradition of Eastern non-dualist thought. The Zen idea of "beginner's mind" (shoshin) -- the mind that is open to everything and attached to nothing -- is closely related to his notion of the tabula rasa state. In [[fukuoka-one-straw-revolution-impact]], are attempts to point beyond themselves, like a finger pointing at the moon. The finger is not the moon, but without it, one might never look up.
+Fukuoka draws on a long tradition of Eastern non-dualist thought. The Zen idea of "beginner"s mind" (shoshin) -- the mind that is open to everything and attached to nothing -- is closely related to his notion of the tabula rasa state. In [[fukuoka-one-straw-revolution-impact]], are attempts to point beyond themselves, like a finger pointing at the moon. The finger is not the moon, but without it, one might never look up.
 
 This is why Fukuoka often says that his words should be discarded once their meaning is grasped. They are provisional tools, not final truths. The truth is in the practice -- in the fields, the orchards, the living earth itself.
 

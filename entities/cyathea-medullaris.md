@@ -19,7 +19,7 @@ sources:
 
 **Cyathea medullaris** (G.Forst.) Sw., commonly known as **mamaku**, black tree fern, or pīngao in some dialects, is the tallest native fern species in New Zealand. It is a iconic member of the Cyatheaceae, immediately recognizable by its thick black trunk and massive spreading frond crown.
 
-Mamaku can reach heights of **20 meters** or more, making it one of the tallest tree fern species in the world. Its dramatic silhouette with arching fronds up to 5 meters long is a defining feature of New Zealand's temperate rainforests and a popular ornamental in subtropical gardens worldwide.
+Mamaku can reach heights of **20 meters** or more, making it one of the tallest tree fern species in the world. Its dramatic silhouette with arching fronds up to 5 meters long is a defining feature of New Zealand"s temperate rainforests and a popular ornamental in subtropical gardens worldwide.
 
 The species holds deep **cultural significance** for Māori, who have traditionally used the trunk pith as a food source and the fronds for medicinal and practical purposes. The koru (unfurled frond) of mamaku appears frequently in Māori carving and art as a symbol of new life and growth.
 

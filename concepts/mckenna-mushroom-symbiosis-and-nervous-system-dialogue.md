@@ -4,7 +4,7 @@ source: mckenna_t-tryptamines_consciousness.md
 topics: ["emcdda-psilocybin-non-addictive-profile-tolerance-dynamics, particularly *Stropharia cubensis*. Rather
 than treating the mushroom as a passive pharmacological agent,
 McKenna approached it as an intelligent interlocutor. The
-culmination of this dialogue is the mushroom's own self-
+culmination of this dialogue is the mushroom"s own self-
 description: "I require the nervous system of a mammal. Do you
 have one handy?"
 ---

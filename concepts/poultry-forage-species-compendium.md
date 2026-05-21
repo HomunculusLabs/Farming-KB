@@ -117,7 +117,7 @@ This compendium completes the annotated species list of plants known to be usefu
 
 | Species | Notes |
 |---------|-------|
-| **Shepherd's Purse** (Capsella bursa-pastoris) | Turner recommends as poultry forage; "stimulating effect on egg production"; nuisance control |
+| **Shepherd"s Purse** (Capsella bursa-pastoris) | Turner recommends as poultry forage; "stimulating effect on egg production"; nuisance control |
 | **Cleavers** ([[galium-aparine]]) | "They love the seed and readily consume the whole plant when its iron and iodine content are very valuable, especially to yarded or deep-litter birds." For free-range, may need protection by brush or netted fence enclosures |
 | **Plantain** (Plantago major, P. lanceolata) | Lawrence Hill recommends as crop that can absorb chicken manure waste and produce lots of green fodder; eagerly sought by ducks |
 | **Chard** | First choice of all greens; free poultry access cannot be permitted. Successional sowings in throwover area ensures year-round leaves |

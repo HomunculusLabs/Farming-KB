@@ -6,7 +6,7 @@ type: concept
 
 ## Psychoactive Mushrooms of Australia and New Zealand
 
-Australia and New Zealand host more than a dozen species of psychoactive (psilocybin-containing) mushrooms. The region's psychotropic mycoflora includes both native species and introduced dung-inhabiting fungi that arrived with livestock. John W. Allen's field guide documents the history, identification, distribution, and usage of these species across the Australasian region.
+Australia and New Zealand host more than a dozen species of psychoactive (psilocybin-containing) mushrooms. The region"s psychotropic mycoflora includes both native species and introduced dung-inhabiting fungi that arrived with livestock. John W. Allen's field guide documents the history, identification, distribution, and usage of these species across the Australasian region.
 
 ## How Psychoactive Mushrooms Arrived in Australia
 
@@ -18,7 +18,7 @@ The **South African dung beetle** likely served as the primary [[aquatic-fungi-s
 - *[[copelandia-cyanescens]]*
 - *[[gartz-panaeolus-subbalteatus-taxonomy-and-intoxication-history]]*
 - *Psilocybe semilanceata* (grows in manured soil, not directly on dung)
-- *[[guzman-panaeolina-foenisecii-psilocybin-controversy-conflicting-chemical-analyses]]* (non-psychoactive "haymaker's mushroom")
+- *[[guzman-panaeolina-foenisecii-psilocybin-controversy-conflicting-chemical-analyses]]* (non-psychoactive "haymaker"s mushroom")
 
 English mycologist Roy Watling noted: "it must be remembered that fungi can change substrate preferences and there are coprophilous fungi on kangaroo droppings etc."
 
@@ -26,7 +26,7 @@ English mycologist Roy Watling noted: "it must be remembered that fungi can chan
 
 ### *Psilocybe cubensis* / *P. subcubensis*
 - **Local names:** "Gold tops," "golden caps," "gold caps"
-- Names likely coined by a drug-using surfer group on Queensland's Gold Coast
+- Names likely coined by a drug-using surfer group on Queensland"s Gold Coast
 - Most popular psychoactive mushroom in Australia
 - **Not confirmed in New Zealand**
 - Gregarious on cow dung, sometimes rich pasture soil
@@ -110,7 +110,7 @@ Public awareness of psychoactive mushrooms in Australia began through:
 
 1. **Surfers** — visiting from NZ or Hawaii (especially North Shore) who shared ethnomycological knowledge with local surfers
 2. **Media** — newspaper reports in the late 1960s/early 1970s described both accidental and deliberate intoxications (e.g., 1972 Brisbane report of schoolchildren using "Gold Tops")
-3. **Wasson's Life Magazine article** (1957) — provided incentive to seek out psychoactive mushrooms
+3. **Wasson"s Life Magazine article** (1957) — provided incentive to seek out psychoactive mushrooms
 4. **Internet** — by the 1990s, information reached millions via the World Wide Web
 
 A 1969 survey of 51 members of the "surfer subculture" in Southern Queensland documented use of psychoactive mushrooms along with 21 other drugs. The surveying physician noted that while surfers were the study population, use was not confined to this group.

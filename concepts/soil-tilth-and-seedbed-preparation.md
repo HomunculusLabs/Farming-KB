@@ -23,7 +23,7 @@ One pickup truck load of compost would cover fourteen 100-square-foot growing be
 Once you have your bed covered with a quarter inch of well-rotted manure or compost, use a bow rake to accomplish four things simultaneously:
 
 1. **Level the surface precisely** — creating a uniform seedbed
-2. **Uniformly blend the manure/compost into the top inch** — through the action of the rake's teeth passing through the soil repeatedly
+2. **Uniformly blend the manure/compost into the top inch** — through the action of the rake"s teeth passing through the soil repeatedly
 3. **Break up less solidly cemented clods** — the rake's teeth fracture weak aggregates
 4. **Comb out lumps** — resistant lumps are pulled to the edge of the bed where they roll down the side
 

@@ -43,11 +43,11 @@ Aspects."
 
 ## Psilocybe cubensis Profile
 
-## Psilocybe cubensis Profile ## Overview Psilocybe cubensis is the most commonly cultivated psilocybin mushroom in the world. A dung-dwelling species of tropical and subtropical regions, it has been spread globally through the cattle trade and is the species most frequently grown using methods like [[maria-sabina]] during the veladas described in Wasson's famous 1957 LIFE article. Its Nahuatl name is "teonanacatl" -- "flesh of the gods." ## Taxonomy - **Species**: Psilocybe mexicana Heim - **Variety**: P. mexicana var. ...
+## Psilocybe cubensis Profile ## Overview Psilocybe cubensis is the most commonly cultivated psilocybin mushroom in the world. A dung-dwelling species of tropical and subtropical regions, it has been spread globally through the cattle trade and is the species most frequently grown using methods like [[maria-sabina]] during the veladas described in Wasson"s famous 1957 LIFE article. Its Nahuatl name is "teonanacatl" -- "flesh of the gods." ## Taxonomy - **Species**: Psilocybe mexicana Heim - **Variety**: P. mexicana var. ...
 
 ## Psilocybe semilanceata Profile
 
-## Psilocybe semilanceata Profile ## Overview Psilocybe semilanceata, the liberty cap, is the classic and most widely known psychoactive mushroom of Europe. It may be the most common psychoactive Psilocybe mushroom in the world. The first documented case of psilocybin intoxication occurred with this species in London's St. James's Green Park in 1799. ## Taxonomy - **Species**: Psilocybe semilanceata (Fr.) Kumm. ...
+## Psilocybe semilanceata Profile ## Overview Psilocybe semilanceata, the liberty cap, is the classic and most widely known psychoactive mushroom of Europe. It may be the most common psychoactive Psilocybe mushroom in the world. The first documented case of psilocybin intoxication occurred with this species in London"s St. James's Green Park in 1799. ## Taxonomy - **Species**: Psilocybe semilanceata (Fr.) Kumm. ...
 
 ## Terence McKenna's Stoned Ape Hypothesis
 

@@ -24,7 +24,7 @@ The permaculture framework defines a nation as a people subscribing to a common 
 
 At present, many thousands of organisations, affinities, tribes, bioregions, and spiritual and non-government organisations aspire to these beneficial ends. On every continent, a majority of people --- the "ethical majority" --- want peace, a clean and forested earth, cessation of torture, malnutrition, and oppression, and a right to work towards these ends.
 
-It would take very little additional organisation for these groups to meet together, count their numbers, and recognise each other's rights. There are, for instance, far fewer paid-up or active members of political parties or oppressive societies than there are organic gardeners whose life works seek peace and plenty. As groups discuss and accept the minimal ethic, they can quickly proceed to recognise each other.
+It would take very little additional organisation for these groups to meet together, count their numbers, and recognise each other"s rights. There are, for instance, far fewer paid-up or active members of political parties or oppressive societies than there are organic gardeners whose life works seek peace and plenty. As groups discuss and accept the minimal ethic, they can quickly proceed to recognise each other.
 
 ## Existing Initiatives
 

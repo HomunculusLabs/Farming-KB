@@ -3,7 +3,7 @@ title: "Turmeric vs Ashwagandha"
 tags: [comparison, turmeric, ashwagandha, adaptogens, ayurvedic-herbs]
 date: 2026-05-13
 updated: 2026-05-13
-sources: ['raw/papers/working-with-agar.md']
+sources: ["raw/papers/working-with-agar.md']
 ---
 
 ## Turmeric vs Ashwagandha

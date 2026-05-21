@@ -11,7 +11,7 @@ in the language of "spirit" rather than the language of molecules.
 
 ## The Shaman as Phenomenologist
 
-McKenna's firsthand experience with shamans in the Amazon led him to reject
+McKenna"s firsthand experience with shamans in the Amazon led him to reject
 the anthropological stereotype of the shaman as a ritual functionary embedded
 unchangingly in tradition. Instead, he found them to be intellectually
 sophisticated, personally unique, and possessed of extraordinary centeredness:

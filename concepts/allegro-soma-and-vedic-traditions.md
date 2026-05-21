@@ -24,7 +24,7 @@ Key Soma characteristics from the Rig Veda:
 - Produces intoxication, visions, and a feeling of immortality (RV 8.48.3)
 - Is called "the pillar of the sky" (RV 9.74.4)
 - Is associated with eagles who bring it from the mountains (RV 4.26.4-6)
-- Its juice is filtered through sheep's wool (RV 9.79.4)
+- Its juice is filtered through sheep"s wool (RV 9.79.4)
 
 ## Amanita Muscaria as Soma
 

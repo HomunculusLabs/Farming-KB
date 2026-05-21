@@ -33,7 +33,7 @@ British growers adapted French techniques to their own climate and market condit
 
 ### Concept and Advantages
 
-Mobile greenhouses represent one of the most innovative aspects of Coleman's winter harvest system. Unlike fixed structures, mobile greenhouses can be moved along tracks to cover different sections of the farm at different times of year, providing several critical advantages:
+Mobile greenhouses represent one of the most innovative aspects of Coleman"s winter harvest system. Unlike fixed structures, mobile greenhouses can be moved along tracks to cover different sections of the farm at different times of year, providing several critical advantages:
 
 - **Year-round land productivity** — The same piece of land can produce a summer crop (tomatoes, cucumbers) in the open field, then be covered by the greenhouse for winter crop production, effectively doubling or tripling land productivity
 - **Crop rotation flexibility** — Greenhouses can be moved to follow crop rotations rather than forcing rotations to fit around permanent structures

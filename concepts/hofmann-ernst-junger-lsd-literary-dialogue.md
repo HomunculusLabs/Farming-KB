@@ -10,20 +10,20 @@ type: concept
 
 ## Hofmann and Ernst Junger: LSD, Literature, and Philosophical Dialogue
 
-## Hofmann's Radiance from Junger
+## Hofmann"s Radiance from Junger
 
 Ernst Junger's literary work and personality had a profound influence on
 [[metzner-hallucinogenic-drugs-psychotherapy-shamanism]].
 
 Hofmann's enchantment began with Junger's book "Das Abenteuerliche Herz"
 (The Adventurous Heart). Again and again over forty years he returned to
-this book, where the beauty and magic of Junger's prose opened to him in
+this book, where the beauty and magic of Junger"s prose opened to him in
 descriptions of flowers, dreams, solitary walks, and thoughts about
 chance, the future, and colors. "Everywhere in his prose the miracle of
 creation became evident, in the precise description of the surfaces and,
 in translucence, of the depths."
 
-## Drugs in Junger's Literature
+## Drugs in Junger"s Literature
 
 Drugs were mentioned in Das Abenteuerliche Herz, though many years passed
 before Hofmann's own interest developed. Junger had written to Hofmann
@@ -116,5 +116,3 @@ Collaborative research networks facilitate knowledge exchange and accelerate inn
 Context-specific implementation requires attention to local ecology, climate patterns, and community needs.
 Integration with existing systems often yields better results than complete replacement strategies.
 Monitoring and adaptive management are essential for long-term success and continuous improvement.
-## Practical Applications
-The principles discussed here have direct applications in agricultural systems, ecological restoration, and sustainable resource management.

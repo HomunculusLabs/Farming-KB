@@ -14,7 +14,7 @@ sources:
 
 Cannabinoid chemotype refers to the characteristic profile of cannabinoids produced by a Cannabis plant. The relative amounts of THC, CBD, CBN, and other cannabinoids define the chemotype, which is genetically determined and passed from parent to offspring. Understanding chemotype classification is essential for both breeding programs and predicting psychoactive effects.
 
-## Small's Four Chemotypes
+## Small"s Four Chemotypes
 
 Small (1975) divided genus Cannabis into four distinct chemotypes based on the relative amounts of THC and CBD:
 

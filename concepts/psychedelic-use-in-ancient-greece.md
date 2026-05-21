@@ -36,7 +36,7 @@ Dionysus occupies a peculiar position in the Greek pantheon. A vegetation god, a
 
 - **Twice-born**: Dionysus was born from Semele, consumed by lightning before giving birth. The father (Zeus) then "assumed the role of the mother," completing gestation in his own body. This notion of the "twice-born god" anticipates the Christian resurrection in ways McKenna argues scholarship has not fully explored.
 
-- **Androgyny**: Dionysus's androgynous qualities reflect the Gaian partnership values of the older Minoan culture.
+- **Androgyny**: Dionysus"s androgynous qualities reflect the Gaian partnership values of the older Minoan culture.
 
 - **Connection to Semele/Gaia**: Semele was accorded her own cult honors as a goddess despite supposedly being mortal. Kretschmer equated Semele with Ge, the Thracian form of Gaia, suggesting her true identity as the Great Mother Goddess.
 
@@ -54,7 +54,7 @@ The connection to Minoan practice was extensively documented: the oldest Teleste
 
 ## Robert Graves and the Mushroom Hypothesis
 
-The first suggestion that a hallucinogenic plant was involved at Eleusis came from the English poet Robert Graves in his 1964 essay "The Two Births of Dionysus." Graves argued that Triptolemus's supposed secret (agriculture) "would have been no news" by the second millennium BCE, since grain had been cultivated at Jericho since ~7000 BCE. He proposed that "Triptolemus's secret seems therefore concerned with [[allegro-amanita-muscaria-properties-and-pharmacology]]; one that could be baked in sacrificial cakes, shaped like pigs or phalloi, without losing its hallucinogenic powers."
+The first suggestion that a hallucinogenic plant was involved at Eleusis came from the English poet Robert Graves in his 1964 essay "The Two Births of Dionysus." Graves argued that Triptolemus"s supposed secret (agriculture) "would have been no news" by the second millennium BCE, since grain had been cultivated at Jericho since ~7000 BCE. He proposed that "Triptolemus"s secret seems therefore concerned with [[allegro-amanita-muscaria-properties-and-pharmacology]]; one that could be baked in sacrificial cakes, shaped like pigs or phalloi, without losing its hallucinogenic powers."
 
 ## Wasson and Hofmann's Ergot Theory
 

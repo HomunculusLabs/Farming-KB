@@ -14,9 +14,9 @@ type: entity
 
 Jethro Tull was an English agriculturalist and inventor whose ideas about soil preparation and plant nutrition had an outsized and lasting influence on agricultural practice, despite being based on a fundamentally flawed understanding of how plants feed. Born in 1674 in Basildon, Berkshire, England, Tull was educated at Oxford and trained in law before turning his attention to farming on his own estates.
 
-Tull's central belief was that soil particles themselves constituted the food of plants, and that this "food" could only be absorbed through the roots. He reasoned that if soil particles were plant food, then making those particles smaller—pulverizing them—would make them more digestible, just as chewing food makes it easier for animals to absorb nutrients. This analogy between plant roots and animal digestion was intuitively appealing but biologically incorrect. Plants do not "eat" soil particles; they absorb dissolved mineral ions and water through their roots.
+Tull"s central belief was that soil particles themselves constituted the food of plants, and that this "food" could only be absorbed through the roots. He reasoned that if soil particles were plant food, then making those particles smaller—pulverizing them—would make them more digestible, just as chewing food makes it easier for animals to absorb nutrients. This analogy between plant roots and animal digestion was intuitively appealing but biologically incorrect. Plants do not "eat" soil particles; they absorb dissolved mineral ions and water through their roots.
 
-Despite the error in his nutritional theory, Tull's practical innovations were genuinely transformative. His most famous invention, the **seed drill** (perfected around 1701), allowed seeds to be planted in neat rows at controlled depths and spacing, dramatically improving germination rates and reducing seed waste compared to the traditional method of broadcasting seed by hand. The seed drill is considered one of the most important inventions in the history of agriculture and a key development of the British Agricultural Revolution.
+Despite the error in his nutritional theory, Tull"s practical innovations were genuinely transformative. His most famous invention, the **seed drill** (perfected around 1701), allowed seeds to be planted in neat rows at controlled depths and spacing, dramatically improving germination rates and reducing seed waste compared to the traditional method of broadcasting seed by hand. The seed drill is considered one of the most important inventions in the history of agriculture and a key development of the British Agricultural Revolution.
 
 His advocacy for thorough soil pulverization—breaking soil into fine particles through repeated tilling—directly led to the practice of **rototilling** that persists to this day. While intensive tilling does create a fine seedbed and can temporarily improve aeration, modern soil science has revealed that excessive tilling disrupts soil structure, destroys fungal networks (including mycorrhizae), accelerates organic matter decomposition, and can lead to soil compaction and erosion over time.
 
@@ -45,7 +45,7 @@ Tull documented his theories and methods in his 1731 book *The New Horse Hoeing 
 
 ## The Seed Drill: Details and Significance
 
-Before Tull's seed drill, the standard planting method was **broadcast sowing** — scattering seed by hand across a field. This method was wasteful and imprecise:
+Before Tull"s seed drill, the standard planting method was **broadcast sowing** — scattering seed by hand across a field. This method was wasteful and imprecise:
 
 - Seeds landed at random depths, with many too deep or too shallow for optimal germination.
 - Seed distribution was uneven, leading to crowded patches and bare areas.

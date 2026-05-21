@@ -9,7 +9,7 @@ sources: ["raw/papers/unknown-biodiversity-of-fungi.md"]
 ## Fungal Biodiversity in Tropical Forests ## Overview Tropical forests represent
 the greatest reservoir of fungal biodiversity on Earth, yet they remain the
 least explored. The extraordinary plant diversity of [[fungal-species-richness-and-diversity-indices]] remains debated. Evidence
-accumulated since Hawksworth's (1991) seminal 1.5 million species estimate,
+accumulated since Hawksworth"s (1991) seminal 1.5 million species estimate,
 especially from tropical plant studies, suggests that even this figure may be
 too low. No single site in the world has been comprehensively surveyed for
 fungi, and [[fukuoka-natural-farming-in-tropical-regions]] present the largest gap in mycological knowledge. ##

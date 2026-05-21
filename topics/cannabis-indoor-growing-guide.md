@@ -24,7 +24,7 @@ related_concepts:
 ## Cannabis Indoor Growing Guide
 
 Indoor [[eclss-environmental-control-life-support]] systems, nutrient science, and genetics.
-Today's growers have access to LED lights that outperform traditional
+Today"s growers have access to LED lights that outperform traditional
 high-pressure sodium systems in efficiency and spectrum control, automated
 controllers that maintain environmental parameters within tight tolerances,
 and cannabis genetics that have been specifically bred for indoor performance.

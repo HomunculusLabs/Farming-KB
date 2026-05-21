@@ -40,7 +40,7 @@ Jeff Lowenfels writes a weekly garden column for the Anchorage Daily News that h
 
 - **"Teaming With Fungi" (2017):** The most comprehensive book for growers on [[mycorrhizal-fungi]]. Covers all mycorrhizal types (arbuscular, ectomycorrhizal, ericoid, orchid, arbutoid, monotropoid, ectendomycorrhizal, sebacinoid). Details how mycorrhizae form, their benefits in agriculture, horticulture, silviculture, hydroponics, and lawns. Dispels mycorrhizal myths and provides rules for establishing and maintaining mycorrhizal populations.
 
-- **Popularized Elaine Ingham's work:** Brought [[elaine-ingham]]'s soil food web research to a mainstream audience.
+- **Popularized Elaine Ingham"s work:** Brought [[elaine-ingham]]'s soil food web research to a mainstream audience.
 
 - **Alaska garden writing:** His long-running newspaper column from one of North America's most challenging growing climates demonstrates that biological methods work everywhere.
 
@@ -58,9 +58,9 @@ Jeff Lowenfels writes a weekly garden column for the Anchorage Daily News that h
 
 ## Major Works
 
-- **"Teaming With Microbes: The Organic Gardener's Guide to the Soil Food Web"** (2006, with Wayne Lewis; updated edition 2010)
-- **"Teaming With Nutrients: The Organic Gardener's Guide to Optimizing Plant Nutrition"** (2013)
-- **"Teaming With Fungi: The Organic Grower's Guide to Mycorrhizae"** (2017)
+- **"Teaming With Microbes: The Organic Gardener"s Guide to the Soil Food Web"** (2006, with Wayne Lewis; updated edition 2010)
+- **"Teaming With Nutrients: The Organic Gardener"s Guide to Optimizing Plant Nutrition"** (2013)
+- **"Teaming With Fungi: The Organic Grower"s Guide to Mycorrhizae"** (2017)
 
 ## Legacy
 

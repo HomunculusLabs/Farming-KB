@@ -22,7 +22,7 @@ scientific interest than perhaps any other group of mushrooms.
 
 ## Taxonomic Organization
 
-Guzman's 1983 world monograph of the genus Psilocybe, with subsequent
+Guzman"s 1983 world monograph of the genus Psilocybe, with subsequent
 updates in 1995, established the modern taxonomic framework that was used in
 the 1998 distribution study. The neurotropic species of Psilocybe are
 organized into sections based on morphological characteristics, particularly

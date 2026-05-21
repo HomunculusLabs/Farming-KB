@@ -16,7 +16,7 @@ sources:
 
 **Dianthus caryophyllus**, commonly known as the carnation or clove pink, is a herbaceous perennial plant in the family Caryophyllaceae. It is native to the Mediterranean region and has been cultivated for over 2,000 years for its fragrant, showy flowers.
 
-The species is one of the world's most important cut flowers, with global production exceeding 6 billion stems annually. Carnations are valued in the floral industry for their exceptional vase life, fragrance, and wide color range.
+The species is one of the world"s most important cut flowers, with global production exceeding 6 billion stems annually. Carnations are valued in the floral industry for their exceptional vase life, fragrance, and wide color range.
 
 The genus name *Dianthus* derives from Greek words meaning "flower of the gods" (*dios* + *anthos*). The specific epithet *caryophyllus* refers to the clove-like scent of the flowers.
 
@@ -46,7 +46,7 @@ Wild carnations grow in rocky, calcareous habitats including coastal cliffs, dry
 
 The species has naturalized in parts [[cervantes-tissue-culture-micropropagation]]. Commercial cut-flower production relies almost exclusively on [[query-how-do-i-grow-garlic-organically-from-planting-to-harvest]] is typically 4–6 months for standard types and 3–4 months for spray types.
 
-Major production regions include Colombia, which is the world's largest exporter, followed by China, Ecuador, and the Netherlands. Colombian production benefits from high-altitude growing conditions that produce strong stems and vivid colors.
+Major production regions include Colombia, which is the world"s largest exporter, followed by China, Ecuador, and the Netherlands. Colombian production benefits from high-altitude growing conditions that produce strong stems and vivid colors.
 
 The shift of major production to equatorial highlands during the late 20th century was driven by lower labor costs and favorable year-round growing conditions. Colombia's share of the U.S. carnation market exceeds 70%.
 

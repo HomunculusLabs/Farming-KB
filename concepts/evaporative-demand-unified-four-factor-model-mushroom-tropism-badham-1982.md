@@ -20,7 +20,7 @@ factors":
 
 1. **Wind** — Airflow velocity and direction redistribute the boundary layer
    around the stipe. Higher wind speeds thin the boundary layer, increasing
-   evaporative potential. In Badham's wind tunnel, a velocity of 9 ± 3 cm/sec
+   evaporative potential. In Badham"s wind tunnel, a velocity of 9 ± 3 cm/sec
    was sufficient to induce measurable anemotropic curvature.
 
 2. **Humidity** — Relative humidity directly modulates the water vapor pressure
@@ -41,7 +41,7 @@ factors":
 
 ## The Boundary Layer Redistribution Mechanism
 
-The core of Badham's hypothesis is that wind creates an asymmetric boundary
+The core of Badham"s hypothesis is that wind creates an asymmetric boundary
 layer around the stipe. The leeward (downwind) side develops a thicker boundary
 layer than the windward side. This means:
 

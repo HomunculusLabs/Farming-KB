@@ -1,12 +1,12 @@
 ---
-title: "Hongo's Nine Distribution Types Applied to Neurotropic Fungi: Detailed Species Examples"
+title: "Hongo"s Nine Distribution Types Applied to Neurotropic Fungi: Detailed Species Examples"
 tags:
   - concept
 ---
 
 ## Overview
 
-Akira Hongo (1985, 1989) proposed a classification system of nine distribution types for fungal biogeography. Guzmán, Allen & Gartz (1998) applied this framework to neurotropic fungi worldwide, providing concrete species assignments to each type. This page presents the detailed application of Hongo's system with specific species examples drawn from the Guzmán et al. study.
+Akira Hongo (1985, 1989) proposed a classification system of nine distribution types for fungal biogeography. Guzmán, Allen & Gartz (1998) applied this framework to neurotropic fungi worldwide, providing concrete species assignments to each type. This page presents the detailed application of Hongo"s system with specific species examples drawn from the Guzmán et al. study.
 
 ## The Nine Distribution Types
 

@@ -19,7 +19,7 @@ High salinity afflicts farmlands worldwide. Farmers apply irrigation water conta
 
 ## Ask Nature: Does Nature Have This Problem?
 
-JADAM's signature approach is to consult nature. When JADAM asks nature whether it suffers from salt accumulation, the answer is unequivocally no -- despite receiving the same acid rain that falls on farms.
+JADAM"s signature approach is to consult nature. When JADAM asks nature whether it suffers from salt accumulation, the answer is unequivocally no -- despite receiving the same acid rain that falls on farms.
 
 Why? Because in natural soil:
 - Moisture seeps deep into the ground when it rains

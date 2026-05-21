@@ -53,7 +53,7 @@ A **recursive relationship** occurs when a table is related to itself. This is p
 
 - **NameId** — a unique identifier (primary key)
 - **Name** — the taxonomic name (text)
-- **Synonym** — a reference to another record's NameId (foreign key pointing to the same table)
+- **Synonym** — a reference to another record"s NameId (foreign key pointing to the same table)
 
 The synonym field is numeric, pointing to an existing record in the same table. By relating the table to itself, you can display the actual synonym name rather than just its ID. This design allows listing accepted names only, accepted names with their synonyms, or synonyms only.
 

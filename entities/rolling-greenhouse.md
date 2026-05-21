@@ -8,7 +8,7 @@ tags: [greenhouse, season-extension, mobile-structure, cultivation]
 ## Rolling Greenhouse
 
 ## Description
-A rolling greenhouse is a [[coleman-mobile-greenhouse-design-and-operation]] placed on wheels that run on pipe rails, enabling the structure to be moved between plots with minimal effort. Developed by Eliot Coleman as an evolution of his earlier sled-based mobile greenhouses, the rolling design solved directional stability issues and allowed for wider end-wall openings, improved ventilation, and easier access. The rolling greenhouse is central to Coleman's multi-plot rotation system for year-round production.
+A rolling greenhouse is a [[coleman-mobile-greenhouse-design-and-operation]] placed on wheels that run on pipe rails, enabling the structure to be moved between plots with minimal effort. Developed by Eliot Coleman as an evolution of his earlier sled-based mobile greenhouses, the rolling design solved directional stability issues and allowed for wider end-wall openings, improved ventilation, and easier access. The rolling greenhouse is central to Coleman"s multi-plot rotation system for year-round production.
 
 ## Classification
 - **Category**: Protected agriculture / Mobile greenhouse

@@ -1,6 +1,6 @@
 ---
 title: "Antifungal Chemotherapy: Ergosterol Targeting in Fungal Membranes"
-source: "Mr. Bloomfield's Orchard, Nicholas P. Money (2002)"
+source: "Mr. Bloomfield"s Orchard, Nicholas P. Money (2002)"
 topic: "Antifungal drugs, ergosterol targeting, amphotericin B, fluconazole, AIDS crisis"
 type: concept
 tags:

@@ -33,14 +33,14 @@ Shamans possess the power to call wakani birds and deploy them as spirit helpers
 
 The wakani birds cause specific supernatural afflictions:
 - **Fever**: The frightening presence of the circling spirit birds induces fever in the victim
-- **Insanity**: Continued exposure to the wakani birds' supernatural presence causes mental disturbance
+- **Insanity**: Continued exposure to the wakani birds" supernatural presence causes mental disturbance
 - **Death**: If unchecked, the affliction progresses to death "shortly thereafter"
 
 ### Resupply Function
 
 The wakani birds serve as supernatural delivery vehicles for tsentsak (magical darts):
 
-1. After a bewitching shaman attacks a victim, he may station a wakani bird near the victim's house
+1. After a bewitching shaman attacks a victim, he may station a wakani bird near the victim"s house
 2. If a curing shaman sucks out the intruding tsentsak, the bewitcher sends the wakani bird more tsentsak
 3. The bird throws the new tsentsak from its beak into the victim
 4. By continually resupplying the wakani bird, the bewitcher makes it impossible for the curer to permanently rid the patient of magical darts
@@ -74,7 +74,7 @@ The wakani concept highlights the layered pharmacological system of Jivaro shama
 
 ## Comparative Amazonian Bird Spirits
 
-Bird spirits play important roles across multiple Amazonian shamanic traditions. The Jivaro wakani birds serve as hostile bewitching agents, while the Campa hawk spirit Kodkiti serves as a benevolent messenger bringing tobacco from "River's Beginning." This contrast reflects the broader difference between Jivaro shamanism (characterized by supernatural warfare) and Campa shamanism (characterized by communal harmony and spirit worship).
+Bird spirits play important roles across multiple Amazonian shamanic traditions. The Jivaro wakani birds serve as hostile bewitching agents, while the Campa hawk spirit Kodkiti serves as a benevolent messenger bringing tobacco from "River"s Beginning." This contrast reflects the broader difference between Jivaro shamanism (characterized by supernatural warfare) and Campa shamanism (characterized by communal harmony and spirit worship).
 
 ## Etymological Note
 

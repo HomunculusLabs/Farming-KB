@@ -10,7 +10,7 @@ type: concept
 
 In the folk medical system of the Peruvian Amazon — particularly among the mestizo population of the Belén slum near Iquitos — diseases are classified into two fundamental categories: **simple illnesses** ( naturales ) and **magical illnesses** ( sobrenaturales ). The magical illness framework is not merely a relic of pre-modern belief; it functions as a culturally coherent system for diagnosing and treating psychosocial distress, interpersonal conflict, and emotional suffering within a community marked by extreme deprivation.
 
-This taxonomy of illness is documented in Michael J. Harner's *Hallucinogens and Shamanism* (1973), drawing on ethnographic fieldwork in the Belén district. The framework is notable for its psychological sophistication — Harner observes that Amazonian drug-healing traditions represent an established method of dealing with psychological problems that predates Freud by centuries.
+This taxonomy of illness is documented in Michael J. Harner"s *Hallucinogens and Shamanism* (1973), drawing on ethnographic fieldwork in the Belén district. The framework is notable for its psychological sophistication — Harner observes that Amazonian drug-healing traditions represent an established method of dealing with psychological problems that predates Freud by centuries.
 
 ## The Belén Context
 
@@ -51,7 +51,7 @@ When simple treatments fail — when an illness persists, worsens, or appears wi
 
 #### Taboo Violations
 
-The Amazonian world is populated by powerful natural spirits (genios) who enforce behavioral codes. Violating these taboos offends the spirits and provokes illness. A classic example: a menstruating woman who bathes in the river before three days have passed risks hemorrhage, because the blood pollutes the water and offends the forest spirit who dwells there. The spirit's response — hemorrhage — is not random but symbolically appropriate: blood in the water offends the spirit, so the spirit causes blood to flow from the woman.
+The Amazonian world is populated by powerful natural spirits (genios) who enforce behavioral codes. Violating these taboos offends the spirits and provokes illness. A classic example: a menstruating woman who bathes in the river before three days have passed risks hemorrhage, because the blood pollutes the water and offends the forest spirit who dwells there. The spirit"s response — hemorrhage — is not random but symbolically appropriate: blood in the water offends the spirit, so the spirit causes blood to flow from the woman.
 
 #### Bewitchment (Brujería)
 
@@ -73,7 +73,7 @@ Harner identifies four principal categories of magical illness recognized in Bel
 - Sleep disturbances
 - A general "wasting away" appearance
 
-**Mechanism:** The concept of soul loss is central. The soul, frightened by the traumatic event, partially or fully separates from the body. Without the soul's animating presence, the physical body deteriorates. Recovery requires a shamanic ritual (often involving ayahuasca) to locate the wandering soul and coax it back into the body.
+**Mechanism:** The concept of soul loss is central. The soul, frightened by the traumatic event, partially or fully separates from the body. Without the soul"s animating presence, the physical body deteriorates. Recovery requires a shamanic ritual (often involving ayahuasca) to locate the wandering soul and coax it back into the body.
 
 **Social context:** Susto frequently occurs in environments of chronic stress and sudden danger — precisely the conditions of Belén. Children are especially vulnerable.
 

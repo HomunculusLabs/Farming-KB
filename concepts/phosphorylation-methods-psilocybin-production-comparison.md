@@ -14,7 +14,7 @@ most chemically challenging step in the synthesis of acetylation-protection-psil
 relatively straightforward, the selective introduction of a
 phosphate group at the 4-position of the indole ring while
 preserving the tertiary amine has proven difficult. Shirota,
-Hakamata, and Goda's 2003 paper evaluates multiple phosphorylation
+Hakamata, and Goda"s 2003 paper evaluates multiple phosphorylation
 strategies and identifies the pyrophosphate method as optimal for
 large-scale production.
 

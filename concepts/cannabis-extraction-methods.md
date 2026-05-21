@@ -35,7 +35,7 @@ Cannabis extraction concentrates the psychoactive essential oils (cannabinoids a
 
 ### Solvent Extraction
 
-[[ben-lemon]]'s "Cannabis Alchemy" provides a detailed solvent extraction protocol. The process follows these steps:
+[[ben-lemon]]"s "Cannabis Alchemy" provides a detailed solvent extraction protocol. The process follows these steps:
 
 **1. Preparation**: Plant material (marijuana or hashish) is dried and ground to the finest powder possible. Ruptured cell walls allow oil to be extracted more completely.
 

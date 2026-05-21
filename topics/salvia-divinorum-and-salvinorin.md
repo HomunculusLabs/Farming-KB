@@ -43,7 +43,7 @@ Legal status varies dramatically by jurisdiction, with some countries and states
 
 Several countries have classified Salvia divinorum as a controlled substance, while others have no specific legislation addressing it. In the United States, regulation varies at the state level, creating a complex patchwork of legality.
 
-The regulatory debate is complicated by the plant's unique pharmacological profile, its low abuse potential, and the cultural significance of traditional Mazatec practices that have used the plant safely for generations.
+The regulatory debate is complicated by the plant"s unique pharmacological profile, its low abuse potential, and the cultural significance of traditional Mazatec practices that have used the plant safely for generations.
 
 ## Botanical Characteristics
 

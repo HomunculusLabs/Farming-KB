@@ -14,7 +14,7 @@ throughout the United States.
 These include common grasses, legumes, and other widespread plants
 found in lawns, fallow fields, and gardens across the country.
 The easy access to these plants, combined with information online
-about [[savory-short-duration-grazing-and-cell-systems]] led to it being called the "businessman's trip" in the 1960s.
+about [[savory-short-duration-grazing-and-cell-systems]] led to it being called the "businessman"s trip" in the 1960s.
 Effective smoked doses range from 40-50 mg, with reports from 20 to 100 mg.
 
 DMT is not orally active because monoamine oxidase (MAO) enzymes

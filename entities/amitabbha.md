@@ -26,7 +26,7 @@ Amitabbha (Amitabha) is the Dhyani Buddha representing boundless light and all-d
 - In Pure Land Buddhism, Amitabha is the Buddha of the Western Paradise (Sukhavati)
 
 ## Role in the Psychedelic Bardo Framework
-In Leary's adaptation, Amitabbha represents **Vision 3: The Fire-Flow of Internal Unity** (eyes closed, external stimuli ignored, emotional aspects). This vision involves the pure energy of the First Bardo being woven into emotionally charged visionary experiences. The positive expression is ecstatic unity — feelings of intense love, merging with all life forms, the "two-billion-year-old electric sexual dance." The negative trap involves attachment, greed, isolation, and bodily concerns that pull the voyager back into ego-bound consciousness.
+In Leary"s adaptation, Amitabbha represents **Vision 3: The Fire-Flow of Internal Unity** (eyes closed, external stimuli ignored, emotional aspects). This vision involves the pure energy of the First Bardo being woven into emotionally charged visionary experiences. The positive expression is ecstatic unity — feelings of intense love, merging with all life forms, the "two-billion-year-old electric sexual dance." The negative trap involves attachment, greed, isolation, and bodily concerns that pull the voyager back into ego-bound consciousness.
 
 ## Accompanying Figures
 - **Chenrazee (Avalokiteshvara):** Bodhisattva of compassion, "the great pitier ever on the lookout to discover distress"

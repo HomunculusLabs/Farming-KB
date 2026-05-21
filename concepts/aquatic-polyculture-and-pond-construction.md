@@ -78,7 +78,7 @@ Standard Keyline dams gain these features:
 
 ## Gley Sealing for Leaking Ponds
 
-For granitic, sandy, shaly sites where water won't lie:
+For granitic, sandy, shaly sites where water won"t lie:
 1. Clear pond bottom of all debris and rocks
 2. Lay fresh cow or pig manure, green lawn or lucerne clippings at 75–100 mm deep
 3. Cover completely with paper, cardboard, plastic, old carpet, hay, leaves, grass

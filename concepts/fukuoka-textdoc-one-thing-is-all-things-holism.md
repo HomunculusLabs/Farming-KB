@@ -18,7 +18,7 @@ type: concept
 
 ## Core Principle
 
-Masanobu Fukuoka's holistic principle that no agricultural problem can be solved in isolation. In natural farming, all aspects of cultivation — seed sowing, tilling, fertilizing, weeding, pest control, and harvest — are organically interrelated. Solving any single problem independently is meaningless; a common solution must be found for all areas simultaneously.
+Masanobu Fukuoka"s holistic principle that no agricultural problem can be solved in isolation. In natural farming, all aspects of cultivation — seed sowing, tilling, fertilizing, weeding, pest control, and harvest — are organically interrelated. Solving any single problem independently is meaningless; a common solution must be found for all areas simultaneously.
 
 This stands in direct opposition to [[hamilton-pest-and-disease-control-organic]]. Each specialist pursues solutions within their own domain, oblivious to the cascading effects on every other aspect of the system.
 
@@ -44,7 +44,7 @@ In rice cultivation, the conventional approach treats each operation as independ
 | Field preparation | Separate tilling step | Eliminated by no-tillage principle |
 | Seed sowing | Nursery then transplant | Direct seeding, part of whole system |
 | Soil covering | Mechanical operation | Straw mulch serves multiple purposes |
-| Fertilization | Scheduled chemical input | Eliminated by [[solomon-insects-and-diseases-integrated-approach]]: returning to nature's way of growing things.
+| Fertilization | Scheduled chemical input | Eliminated by [[solomon-insects-and-diseases-integrated-approach]]: returning to nature"s way of growing things.
 
 ## Contrast with Scientific Specialization
 

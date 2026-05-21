@@ -37,7 +37,7 @@ In the PF TEK cultivation cycle:
 
 ## Relationship to Substrate
 
-The PF TEK's use of vermiculite is directly connected to rhizomorph development:
+The PF TEK"s use of vermiculite is directly connected to rhizomorph development:
 
 - Vermiculite creates air spaces between particles that allow rhizomorphic strands to extend and branch freely.
 - The airy substrate structure mimics natural growing conditions where mycelium must traverse gaps between organic matter.

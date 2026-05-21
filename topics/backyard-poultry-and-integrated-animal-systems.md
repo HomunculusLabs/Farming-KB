@@ -68,7 +68,7 @@ Chickens in forage systems show remarkable longevity. Mollison reported birds la
 Breed selection depends on climate, space, and purpose. Dual-purpose breeds suit most homesteads because they provide eggs and meat while maintaining hardiness and foraging ability.
 Egg specialists include Leghorns (280-320 white eggs, flighty but efficient) and Rhode Island Reds (250-300 brown eggs, hardy and adaptable). Sussex are calm foragers producing 250+ brown eggs.
 Heavy dual-purpose breeds include Brahmas (150-200 brown eggs, 10-12 lb, gentle giants) and Orpingtons (200-280 brown eggs, cold-hardy and broody). These breeds also produce substantial meat.
-Bantams suit small spaces — Silkies produce 100-120 tiny eggs and make excellent broody mothers for hatching other species' eggs. Their calm temperament makes them ideal for families with children.
+Bantams suit small spaces — Silkies produce 100-120 tiny eggs and make excellent broody mothers for hatching other species" eggs. Their calm temperament makes them ideal for families with children.
 For seasonal production, Mollison recommended Dorkings for winter, heavy breeds for spring, Leghorns for summer, and Wyandottes or Silkies for brooding duties throughout the year.
 
 ## Coop Design and Housing

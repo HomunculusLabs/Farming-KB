@@ -10,7 +10,7 @@ sources:
 
 Updated: 2026-04-18
 
-Source: Sepp Holzer, *Sepp Holzer's Permaculture* (2010)
+Source: Sepp Holzer, *Sepp Holzer"s Permaculture* (2010)
 
 Sepp Holzer cultivates mushrooms on both logs and straw as part of his integrated permaculture system. Mushrooms serve multiple functions: food production, organic material decomposition, and humus creation.
 

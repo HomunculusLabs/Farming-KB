@@ -14,7 +14,7 @@ type: concept
 ---
 # Willow Water and Natural Rooting Propagation
 
-In *Permaculture: A Designers' Manual*, Bill Mollison highlights the
+In *Permaculture: A Designers" Manual*, Bill Mollison highlights the
 remarkable properties of willow (Salix species) for vegetative
 propagation. Fresh willow chips soaked in water produce a natural
 solution rich in [[mollison-designers-coppicing-management-of-legume-trees]] which typically cuts at ground level.

@@ -23,7 +23,7 @@ A crucial insight from photoperiodism research was that plants measure the lengt
 
 For a short-day plant like soybean, keeping it from flowering in short days was as simple as turning on the lights for a few minutes in the middle of the night. Conversely, a long-day plant like iris could be forced to flower in the middle of winter if lights were turned on briefly during the night. These experiments proved unambiguously that what a plant measures is not the length of the day but the length of the uninterrupted dark period.
 
-This discovery has enormous practical significance. Flower farmers can keep chrysanthemums from flowering until just before Mother's Day by turning on lights for a few minutes each night throughout autumn and winter. Then, two weeks before the desired harvest, they stop the night lighting and all the plants begin flowering simultaneously.
+This discovery has enormous practical significance. Flower farmers can keep chrysanthemums from flowering until just before Mother"s Day by turning on lights for a few minutes each night throughout autumn and winter. Then, two weeks before the desired harvest, they stop the night lighting and all the plants begin flowering simultaneously.
 
 ## Phytochrome: The Molecular Switch
 
@@ -44,7 +44,7 @@ trigger the switch, making it an extremely sensitive detection system. The
 speed of the response reflects the fact that phytochrome operates through
 conformational changes in a protein, not through slow biochemical cascades.
 
-Ecologically, this makes perfect sense. In nature, the last light any plant sees at the end of the day is enriched in far-red wavelengths (red light is scattered by the atmosphere at dusk). This far-red signal tells the plant that darkness is coming, allowing it to "turn off." In the morning, the red-rich light of dawn converts phytochrome to the active form, "waking up" the plant's photoperiodic measurement system.
+Ecologically, this makes perfect sense. In nature, the last light any plant sees at the end of the day is enriched in far-red wavelengths (red light is scattered by the atmosphere at dusk). This far-red signal tells the plant that darkness is coming, allowing it to "turn off." In the morning, the red-rich light of dawn converts phytochrome to the active form, "waking up" the plant"s photoperiodic measurement system.
 
 ## Where Photoperiodism is Sensed
 

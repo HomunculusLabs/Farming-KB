@@ -7,7 +7,7 @@ tags: [fukuoka, natural-farming, philosophy]
 sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
-## Fukuoka's Tasty Rice Illusion
+## Fukuoka"s Tasty Rice Illusion
 
 ## Overview
 

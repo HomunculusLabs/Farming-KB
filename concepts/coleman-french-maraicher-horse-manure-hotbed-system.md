@@ -8,7 +8,7 @@ tags: [french-maraicher, hotbed, horse-manure, season-extension, winter-growing,
 
 ## Overview
 
-The French maraîcher (market gardener) system of nineteenth-century Paris represents one of the most productive and sophisticated [[coleman-french-maraicher-parisian-intensive-market-gardening]] gardens covered approximately 600 hectares (about 1,500 acres) — roughly 6% of the land within the city limits. These gardens made Paris self-sufficient in fresh vegetables year-round and even exported produce to England. The system was powered by the manure of an estimated 100,000+ horses that provided the city's transportation, creating a remarkable example of urban [[coleman-protected-cultivation]] using glass frames.
+The French maraîcher (market gardener) system of nineteenth-century Paris represents one of the most productive and sophisticated [[coleman-french-maraicher-parisian-intensive-market-gardening]] gardens covered approximately 600 hectares (about 1,500 acres) — roughly 6% of the land within the city limits. These gardens made Paris self-sufficient in fresh vegetables year-round and even exported produce to England. The system was powered by the manure of an estimated 100,000+ horses that provided the city"s transportation, creating a remarkable example of urban [[coleman-protected-cultivation]] using glass frames.
 
 ## The Hotbed Principle
 

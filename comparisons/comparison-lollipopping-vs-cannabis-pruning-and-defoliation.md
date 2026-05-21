@@ -4,7 +4,7 @@ created: 2026-04-28
 tags: [comparison, cannabis, plant-training, pruning]
 date: 2026-04-25
 updated: 2026-04-25
-sources: ['raw/papers/unknown-effect-of-light-upon-basidiocarp-initiation-psilocybe-cubensis.md']
+sources: ["raw/papers/unknown-effect-of-light-upon-basidiocarp-initiation-psilocybe-cubensis.md']
 type: comparison
 ---
 

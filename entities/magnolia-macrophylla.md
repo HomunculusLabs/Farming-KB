@@ -27,7 +27,7 @@ It was first described by André Michaux in 1803 from specimens collected in the
 
 Magnolia macrophylla belongs to family Magnoliaceae, subfamily Magnolioideae, section Macrophylla. The full taxonomic authority is Michx. (1803), placing it among the most basal angiosperm lineages.
 
-Key synonyms include Magnolia macrophylla var. ashei, now treated as the separate species Magnolia ashei (Ashe's magnolia). Section Macrophylla contains only three species worldwide: M. macrophylla, M. ashei, and M. dealbata from the cloud forests of Oaxaca, Mexico.
+Key synonyms include Magnolia macrophylla var. ashei, now treated as the separate species Magnolia ashei (Ashe"s magnolia). Section Macrophylla contains only three species worldwide: M. macrophylla, M. ashei, and M. dealbata from the cloud forests of Oaxaca, Mexico.
 
 Leaves are ovate to broadly elliptic, 30–80 cm long and 20–40 cm wide, green above and strikingly silvery-white beneath. They are clustered at branch tips in a pseudo-whorl arrangement that creates the characteristic umbrella-like canopy effect.
 

@@ -3,7 +3,7 @@ title: "How to Grow and Process Tea at Home"
 
 ### Can maca be grown outside the Andes?
 
-Yes, but with significant caveats. Maca has been successfully cultivated in parts of the Himalayas (Nepal, Ladakh), in the Rocky Mountain region of the U.S. (Colorado, Wyoming, Montana), in parts of New Zealand, and at high elevations in China's Yunnan province. The critical factors are altitude (ideally above 3,000 meters), intense UV exposure, large diurnal temperature swings, and a long cool growing season. Lowland or subtropical cultivation generally fails — the roots remain small, bolt prematurely, or develop off-flavors. Some growers report success at lower altitudes using shade cloth to mimic high-UV alpine conditions and selecting early-maturing varieties. Expect lower yields outside the native range; treat it as an experimental crop if you are not at elevation.
+Yes, but with significant caveats. Maca has been successfully cultivated in parts of the Himalayas (Nepal, Ladakh), in the Rocky Mountain region of the U.S. (Colorado, Wyoming, Montana), in parts of New Zealand, and at high elevations in China"s Yunnan province. The critical factors are altitude (ideally above 3,000 meters), intense UV exposure, large diurnal temperature swings, and a long cool growing season. Lowland or subtropical cultivation generally fails — the roots remain small, bolt prematurely, or develop off-flavors. Some growers report success at lower altitudes using shade cloth to mimic high-UV alpine conditions and selecting early-maturing varieties. Expect lower yields outside the native range; treat it as an experimental crop if you are not at elevation.
 
 ---
 

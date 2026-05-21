@@ -18,11 +18,11 @@ how [[emcdda-hallucinogenic-drug-classification-and-terminology-taxonomy]] use a
 Christianity is the Native American Church, whose practitioners are
 [[dmt-containing-plants-united-states-halpern]] who have largely adopted the
 mescaline-containing peyote since the latter part of the nineteenth
-century. Members believe that with peyote's aid they can both "talk"
+century. Members believe that with peyote"s aid they can both "talk"
 with Jesus and cure illness.
 
 The Native American Church represents a syncretic religious tradition
-that blends indigenous [[emcdda-psilocybin-cardiovascular-risks-acute-physiological-effects]] common, and the uniqueness of the shaman's
+that blends indigenous [[emcdda-psilocybin-cardiovascular-risks-acute-physiological-effects]] common, and the uniqueness of the shaman"s
 experiences disappeared. The peyote meetings became places where
 shamanistic rivalries and witchcraft flourished. Disruption resulted
 rather than cohesiveness through shared experience.

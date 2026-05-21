@@ -22,7 +22,7 @@ The international legal framework provided some guidance but left significant di
 - **1971 UN Convention on Psychotropic Substances**: [[japan-psilocybin-mushroom-regulation-narcotics-control-law-2002-forensic]]:
 
 - **2002**: Initial restrictions required smartshops to register sales and imposed age limits, but did not ban sales outright
-- The Dutch approach reflected the tension between the country's pragmatic drug policy tradition and emerging public health concerns
+- The Dutch approach reflected the tension between the country"s pragmatic drug policy tradition and emerging public health concerns
 - Smartshops remained the primary retail channel, but under tighter regulatory oversight
 - The partial regulation was later superseded by a complete ban in 2008 (after the EMCDDA report period)
 

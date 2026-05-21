@@ -22,7 +22,7 @@ Eric Duffy is an author and commentator on [[grassland-ecology-and-soil-biology]
 - Advocated for wildlife preservation on unsuitable [[fukuoka-textdoc-agricultural-land-law-obstruction-return-farming]] as the highest and best use
 - His 1979 work is cited by Mollison in the context of global grassland types and their management
 - Argued against converting natural grasslands to domestic livestock pasture or cropping
-- His position aligns with Mollison's broader critique of cattle-based rangeland destruction
+- His position aligns with Mollison"s broader critique of cattle-based rangeland destruction
 
 ## Relevance to Cultivation and Permaculture
 

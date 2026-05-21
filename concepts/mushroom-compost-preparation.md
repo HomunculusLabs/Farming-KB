@@ -22,7 +22,7 @@ The French ideal is manure from **grain-fed animals bedded with rye straw**.
 
 - Manure from animals fed largely upon **grass** has not proved satisfactory
 - The ideal source is **grain-fed animals** — horses are traditionally preferred
-- The nutritional content of the animal's diet directly affects the quality of the resulting compost
+- The nutritional content of the animal"s diet directly affects the quality of the resulting compost
 
 ## Manure Sources to Avoid
 

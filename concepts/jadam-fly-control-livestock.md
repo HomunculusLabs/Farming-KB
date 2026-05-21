@@ -12,7 +12,7 @@ sources:
 
 ## Overview
 
-Eliminating flies from livestock housing is one of JADAM's documented pesticide capabilities. The book lists "Eliminating flies from livestock housings" among Youngsang Cho's major inventions. While the detailed recipe is presented alongside the numbered JNP recipes, the approach uses standard JADAM pesticide components adapted for enclosed animal environments.
+Eliminating flies from livestock housing is one of JADAM"s documented pesticide capabilities. The book lists "Eliminating flies from livestock housings" among Youngsang Cho's major inventions. While the detailed recipe is presented alongside the numbered JNP recipes, the approach uses standard JADAM pesticide components adapted for enclosed animal environments.
 
 ## Method
 

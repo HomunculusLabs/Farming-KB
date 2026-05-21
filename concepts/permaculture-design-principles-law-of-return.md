@@ -13,7 +13,7 @@ A foundational distinction in [[gaia-hypothesis]], formulated by [[permaculture]
 Mollison draws on aboriginal cultures that used myth to demonstrate how unnecessary acts and unthinking destruction bring about catastrophe. The usual structure of these myths follows a consistent sequence:
 
 1. A willful act of an individual or group
-2. A transmutation as warning—animate to inanimate or vice versa (Lot's wife turning into a pillar of salt)
+2. A transmutation as warning—animate to inanimate or vice versa (Lot"s wife turning into a pillar of salt)
 3. Invocation of an elemental force—fire, storm, earthquake, flood, tidal wave, or plague—as consequence of willful acts
 4. Necessary atonement through suffering, isolation, migration, or death
 

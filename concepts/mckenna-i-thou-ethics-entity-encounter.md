@@ -24,7 +24,7 @@ tendency to "kneel in genuflection before a god." When confronted with beings
 of apparent omniscience, omnipresence, or claimed extraterrestrial origin,
 the natural human response — conditioned by thousands of years of religious
 practice — is to submit, worship, and accept claims at face value. McKenna
-compared this to Dorothy's first encounter with the Wizard of Oz, where
+compared this to Dorothy"s first encounter with the Wizard of Oz, where
 awe and submission replaced critical engagement.
 
 The danger of genuflection, in McKenna's view, is not merely intellectual
@@ -33,14 +33,14 @@ face of apparent transcendence is to become passive, to accept information
 without evaluation, and potentially to confuse the seductive aspects of the
 experience with genuine insight. The entities themselves, while often
 benevolent, can be misleading. McKenna quoted a mnemonic: "Some are made
-of ions, some of mind; the ones of [[ketamine]], you'll find, stutter often and
+of ions, some of mind; the ones of [[ketamine]], you"ll find, stutter often and
 are blind" — a reminder that not all [[dmt-entity-encounters-and-the-logos]] are equivalent and
 that the nature of the compound influences the nature of the beings
 encountered.
 
 ## The I/Thou Framework
 
-McKenna's alternative to genuflection was an I/Thou stance borrowed from the
+McKenna"s alternative to genuflection was an I/Thou stance borrowed from the
 philosophical tradition of Martin Buber. In Buber's framework, the I/Thou
 relationship is one of mutual presence and authentic dialogue, in contrast
 to the I/It relationship of instrumental manipulation. Applied to the
@@ -49,9 +49,9 @@ not as an object to be used, nor as a deity to be worshipped, but as a
 being with whom one enters into reciprocal relationship.
 
 McKenna phrased this as: "You say you are omniscient, omnipresent, or you say
-you are from Zeta Reticuli. You're long on talk, but what can you show me?"
+you are from Zeta Reticuli. You"re long on talk, but what can you show me?"
 This formulation captures the essential elements of the I/Thou approach:
-acknowledgment of the entity's claims, combined with a demand for evidence
+acknowledgment of the entity"s claims, combined with a demand for evidence
 and demonstration. The relationship is dialogical rather than hierarchical,
 inquiring rather than submissive.
 
@@ -59,8 +59,8 @@ inquiring rather than submissive.
 
 McKenna located this ethical stance within the broader tradition of Western
 esotericism, noting that "magicians, people who invoke these things, have
-always understood that one must go into such encounters with one's wits about
-oneself." The magician's approach to non-ordinary beings is characterized by
+always understood that one must go into such encounters with one"s wits about
+oneself." The magician"s approach to non-ordinary beings is characterized by
 knowledge, preparation, and the maintenance of personal agency. This is in
 contrast to what McKenna might call the mystic's approach, which tends toward
 surrender and union.
@@ -76,7 +76,7 @@ provides a principled basis for maintaining it.
 
 A striking feature of McKenna's account is the way the entities themselves
 appear to reinforce the I/Thou stance. The self-transforming [[dmt-self-transforming-machine-elves-mckenna]],
-as he described them, actively discouraged passive wonder: "Don't get a loop
+as he described them, actively discouraged passive wonder: "Don"t get a loop
 of wonder going that quenches your ability to understand. Try not to be so
 amazed. Try to focus and look at what we're doing." This is a remarkable
 detail: the entities, far from demanding worship, seem to request focused

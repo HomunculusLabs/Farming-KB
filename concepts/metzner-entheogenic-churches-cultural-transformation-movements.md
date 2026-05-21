@@ -85,7 +85,7 @@ There is virtually no discussion of healing processes or visions during or after
 the ceremony, though individual participants may have such experiences.
 
 Though legal protection has been eroded in recent court decisions, congressional
-action overturned the Supreme Court's peyote ruling, illustrating the ongoing
+action overturned the Supreme Court"s peyote ruling, illustrating the ongoing
 tension between indigenous religious freedom and drug prohibition policies.
 
 ## The Bwiti Cult and Iboga

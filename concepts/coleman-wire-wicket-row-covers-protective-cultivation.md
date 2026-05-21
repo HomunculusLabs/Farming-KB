@@ -6,7 +6,7 @@ tags: [winter-harvest, coleman, row-cover, wire-wicket, season-extension, cold-p
 
 ## Coleman Wire Wicket Row Covers and Protective Cultivation Systems
 
-Eliot Coleman's protective cultivation system represents one of the most
+Eliot Coleman"s protective cultivation system represents one of the most
 practical and cost-effective approaches to year-round [[coleman-unheated-greenhouse-design]], this double-layer protection enables
 harvest of cold-hardy vegetables throughout the winter months in USDA zones 4–6.
 

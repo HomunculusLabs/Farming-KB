@@ -28,7 +28,7 @@ was dilute and distributed across the landscape. Consequently, human
 populations were decentralised and small in scale. Most importantly,
 travelling and transport of goods was minimal. People worked within
 walking distance of where they lived, and gained the bulk of their food
-from within a day's travel by bullock transport.
+from within a day"s travel by bullock transport.
 
 The sun determined the patterns of daily life until the advent of town
 clocks in the 14th century. Minutes and even hours were unnecessary

@@ -20,7 +20,7 @@ information, creating a state of sustained wonder bordering on terror.
 
 ## The Translinguistic Object
 
-McKenna's concept of the translinguistic object is central to his
+McKenna"s concept of the translinguistic object is central to his
 description of the DMT experience. These are described as:
 "feeling-toned, meaning-toned, three-dimensional rotating complexes
 of transforming light and color" that convey information through a
@@ -44,7 +44,7 @@ cognitive tools available to process it:
 
 "Being monkeys, when we encounter a translinguistic object, a kind
 of cognitive dissonance is set up in our hindbrain. We try to pour
-language over it and it sheds it like water off a duck's back. We
+language over it and it sheds it like water off a duck"s back. We
 try again and fail again, and this cognitive dissonance, this 'wow'
 or 'flutter' that is building off this object causes wonder,
 astonishment, and awe at the brink of terror."
@@ -68,10 +68,10 @@ reinforcing feedback loop if not controlled:
 "One must control that. And the way to control it is to do what
 the entities are telling one to do, to do what they are doing."
 
-The "entities" — McKenna's self-transforming [[dmt-machine-elves]] —
+The "entities" — McKenna"s self-transforming [[dmt-machine-elves]] —
 actively coach the experiencer through this challenge:
 
-"Don't get a loop of wonder going that quenches your ability to
+"Don"t get a loop of wonder going that quenches your ability to
 understand. Try not to be so amazed. Try to focus and look at
 what we're doing."
 
@@ -82,7 +82,7 @@ cognitive bandwidth that should be directed toward comprehension.
 
 ## Relationship to Classical Philosophical Problems
 
-McKenna's description resonates with several philosophical traditions:
+McKenna"s description resonates with several philosophical traditions:
 
 **Apophatic theology**: The recognition that ultimate reality
 cannot be captured in language, that the most profound truths
@@ -107,7 +107,7 @@ of ontological shock during a 1966 DMT session:
 
 "I was appalled. Until then I had thought that I had my ontological
 categories intact. I had taken LSD before, yet this thing came upon
-me like a bolt from the blue. I came down and said 'I cannot
+me like a bolt from the blue. I came down and said "I cannot
 believe this; this is impossible, this is completely impossible.'"
 
 The shock was not merely the intensity of the experience but the

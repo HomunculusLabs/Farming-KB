@@ -1,5 +1,5 @@
 ---
-title: "Fukuoka's Bushman Philosophy: Returning to the Great Spirit Through Nature"
+title: "Fukuoka"s Bushman Philosophy: Returning to the Great Spirit Through Nature"
 tags:
   - concept
 ---
@@ -9,7 +9,7 @@ tags:
 In "The Road Back to Nature," [[fukuoka-direct-observation-method]] and participation in the natural
 world.
 
-Fukuoka contrasted this with the modern person's relationship with nature,
+Fukuoka contrasted this with the modern person"s relationship with nature,
 which he described as one of alienation and exploitation. The modern person
 sees nature as a resource to be managed, a problem to be solved, or a
 threat to be controlled. Knowledge of nature is acquired through books

@@ -14,7 +14,7 @@ sources:
 
 ## Mushroom Spawn History and Methods
 
-Benjamin Minge Duggar's 1905 work *Mushroom Growing* provides one of the most thorough early American accounts of mushroom [[agar-culture-techniques-detailed]] that revolutionized the industry.
+Benjamin Minge Duggar"s 1905 work *Mushroom Growing* provides one of the most thorough early American accounts of mushroom [[agar-culture-techniques-detailed]] that revolutionized the industry.
 
 ## Types of Commercial Spawn
 
@@ -40,7 +40,7 @@ Selection could be practiced at the inoculation stage. One procured mushrooms fr
 
 ## Pure Culture Methods and Sterilization
 
-Duggar's method, described in Bulletin 85 of the Bureau of Plant Industry, involved sterilizing culture tubes at approximately 150 degrees C in a dry oven for nearly an hour, or alternatively steaming at 15 pounds pressure in an autoclave for 15 to 30 minutes. When using an open water bath at 100 degrees C, boiling was required for at least an hour on each of two or three successive days to ensure complete sterilization.
+Duggar"s method, described in Bulletin 85 of the Bureau of Plant Industry, involved sterilizing culture tubes at approximately 150 degrees C in a dry oven for nearly an hour, or alternatively steaming at 15 pounds pressure in an autoclave for 15 to 30 minutes. When using an open water bath at 100 degrees C, boiling was required for at least an hour on each of two or three successive days to ensure complete sterilization.
 
 The inoculated tubes were kept out of dust at approximately room temperature. Within several days slight growth from the tissue became evident, and in three weeks the mold-like development of mycelium should spread throughout the medium in the tube. The contents of one large tube could spawn several bricks when carefully employed.
 

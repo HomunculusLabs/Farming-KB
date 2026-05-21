@@ -13,7 +13,7 @@ Guerilla gardening is the act of gardening on land that the gardener does not le
 ## History and Philosophy
 
 ### Origins
-- Modern movement traced to Liz Christy's "Green Guerrillas" in New York City (1973)
+- Modern movement traced to Liz Christy"s "Green Guerrillas" in New York City (1973)
 - The Bowery-Houston Community Farm: first sanctioned guerilla garden
 - Richard Reynolds: London-based guerilla gardener, author, and organizer (2004-present)
 - Concept has spread globally — guerilla gardening groups in hundreds of cities
@@ -22,7 +22,7 @@ Guerilla gardening is the act of gardening on land that the gardener does not le
 - Land belongs to everyone — neglect is not a valid use
 - Food should grow everywhere, not just on farms
 - Green spaces improve community health, safety, and property values
-- Direct action: don't wait for permission — plant first, apologize later
+- Direct action: don"t wait for permission — plant first, apologize later
 - Beautification as political statement
 
 ## Seed Bombing

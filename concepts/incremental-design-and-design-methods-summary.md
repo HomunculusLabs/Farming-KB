@@ -6,7 +6,7 @@ type: concept
 
 ## Incremental Design and Design Methods Summary
 
-[[permaculture]] aims to create. This concept synthesizes the design methods presented in Mollison's framework and examines the role of incremental design within the broader methodology.
+[[permaculture]] aims to create. This concept synthesizes the design methods presented in Mollison"s framework and examines the role of incremental design within the broader methodology.
 
 ## Incremental Design: The Historical Foundation
 
@@ -49,7 +49,7 @@ Mollison stresses that **all the design approaches outlined in permaculture are 
 The complete [[zone-and-sector-analysis]]** for energy-efficient placement
 - **Slope, aspect, and elevation analysis** for three-dimensional optimization
 - **Guild [[garden-guilds-and-polyculture-design]]** for species interaction benefits
-- **[[water-conservation]] and keypoint planning** following Yeomans' principles
+- **[[water-conservation]] and keypoint planning** following Yeomans" principles
 - **Incremental adaptation** of proven design elements
 - **Ethical assessment** ensuring wilderness is preserved and home systems are efficient
 - **Client consultation** and education for appropriate, adopted designs
@@ -79,7 +79,7 @@ In [[integrated-land-management-and-village-design]], financial and space constr
 
 ## The Permaculture Design Contrast
 
-Mollison's comparison between permaculture and conventional design reveals fundamentally different value systems:
+Mollison"s comparison between permaculture and conventional design reveals fundamentally different value systems:
 
 ### Permaculture Design Is:
 - **Stimulated by** a perceived social problem

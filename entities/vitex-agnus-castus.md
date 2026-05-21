@@ -11,7 +11,7 @@ sources:
 
 ## Vitex agnus-castus
 
-Vitex agnus-castus, commonly known as chaste tree, chasteberry, Abraham's balm, or monk's pepper, is a deciduous shrub or small tree in the mint family (Lamiaceae), native to the Mediterranean basin and parts of western Asia. One of the most extensively researched medicinal plants in modern phytotherapy, chaste tree has been used for over 2,500 years to address women's health concerns, particularly menstrual irregularities, premenstrual syndrome (PMS), and infertility. The species name *agnus-castus* derives from the Latin *castus* (chaste) and *agnus* (lamb), a reference to the historical belief that the plant suppressed sexual desire — a belief that gave rise to its use by monks in medieval monasteries and the common name "monk's pepper." Modern pharmacological research has validated several of its traditional uses, particularly through the dopaminergic activity of its diterpene compounds on the pituitary gland.
+Vitex agnus-castus, commonly known as chaste tree, chasteberry, Abraham"s balm, or monk's pepper, is a deciduous shrub or small tree in the mint family (Lamiaceae), native to the Mediterranean basin and parts of western Asia. One of the most extensively researched medicinal plants in modern phytotherapy, chaste tree has been used for over 2,500 years to address women's health concerns, particularly menstrual irregularities, premenstrual syndrome (PMS), and infertility. The species name *agnus-castus* derives from the Latin *castus* (chaste) and *agnus* (lamb), a reference to the historical belief that the plant suppressed sexual desire — a belief that gave rise to its use by monks in medieval monasteries and the common name "monk"s pepper." Modern pharmacological research has validated several of its traditional uses, particularly through the dopaminergic activity of its diterpene compounds on the pituitary gland.
 
 ## Taxonomy and Classification
 
@@ -21,7 +21,7 @@ Vitex agnus-castus, commonly known as chaste tree, chasteberry, Abraham's balm, 
 - **Subfamily:** Viticoideae
 - **Genus:** *Vitex* L.
 - **Species:** *V. agnus-castus* L.
-- **Common names:** Chaste tree, chasteberry, monk's pepper, Abraham's balm, chaste lamb, agnus-castus, vitex, wild pepper, Indian spice
+- **Common names:** Chaste tree, chasteberry, monk"s pepper, Abraham's balm, chaste lamb, agnus-castus, vitex, wild pepper, Indian spice
 - **Note:** The transfer of *Vitex* from Verbenaceae to Lamiaceae reflects molecular phylogenetic evidence, though the species retains several morphological features typical of Verbenaceae
 
 ## Morphology and Growth Characteristics
@@ -36,7 +36,7 @@ The leaves are compound (palmately compound), typically with 5–7 lanceolate to
 The inflorescence is a terminal, erect spike (raceme) 10–25 cm (4–10 inches) long, bearing numerous small, fragrant flowers densely packed along the axis. Individual flowers are bilabiate (two-lipped), approximately 1–1.5 cm (0.4–0.6 inches) long, with colors ranging from pale lilac and lavender-blue to deep violet-blue or white in some cultivars. Flowering occurs from midsummer through early autumn (July–September in temperate regions), providing an exceptionally long bloom period of 8–12 weeks.
 
 ### Fruit
-The fruit is a small, hard, spherical drupe (berry-like) 3–4 mm (0.12–0.16 inches) in diameter, resembling black pepper corns — hence the common name "monk's pepper." Fruits ripen from green to dark brown or black and contain four small seeds. The dried ripe fruits (chasteberry) are the primary medicinal plant part.
+The fruit is a small, hard, spherical drupe (berry-like) 3–4 mm (0.12–0.16 inches) in diameter, resembling black pepper corns — hence the common name "monk"s pepper." Fruits ripen from green to dark brown or black and contain four small seeds. The dried ripe fruits (chasteberry) are the primary medicinal plant part.
 
 ### Root System
 The root system is extensive and deep, with a well-developed taproot and widespread lateral roots. This deep root architecture contributes to the species' exceptional [[hamilton-ornamental-shrub-care]]

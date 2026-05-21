@@ -56,7 +56,7 @@ Permaculture seeks first to stabilise and care for land, then to serve household
 ## Key Concepts
 
 - Resources are biological (stored in natural systems) or material (mineral, fossil). The highest-order resource is information.
-- Yields are theoretically unlimited, limited only by the designer's information and imagination.
+- Yields are theoretically unlimited, limited only by the designer"s information and imagination.
 - Every component in a design should serve multiple functions; every function should be supported by multiple elements.
 - The movement toward permaculture is from "how many people can we feed?" to "how many people can we support at a good standard, indefinitely?"
 

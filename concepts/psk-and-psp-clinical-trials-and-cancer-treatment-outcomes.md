@@ -73,7 +73,7 @@ A Phase II trial was designed to enrol 15 assessable patients for each of 8 tumo
 ## Phellinus linteus (Meshima)
 
 ### Traditional Use
-Used in TCM as hot water extracts ('song gen' in Chinese, 'mishimakobu' in Japanese) for digestive system cancers.
+Used in TCM as hot water extracts ("song gen' in Chinese, 'mishimakobu' in Japanese) for digestive system cancers.
 
 ### Korean Development
 Major national project involving industry, government, and academic laboratories:

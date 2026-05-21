@@ -64,7 +64,7 @@ After the spirit returns, the person is "cleaned." This refers to the ritual pur
 
 ## The Mushroom as Agent of Liberation
 
-"It is not by chance that the mushrooms, which cause a flight of consciousness..." The mushrooms' capacity to liberate consciousness from its ordinary fixations is precisely what makes them effective for treating fright. The condition of fright is itself a kind of fixed, stuck state—an inability of consciousness to move beyond a traumatic event. The mushroom, which causes consciousness to "fly," directly counteracts this fixation.
+"It is not by chance that the mushrooms, which cause a flight of consciousness..." The mushrooms" capacity to liberate consciousness from its ordinary fixations is precisely what makes them effective for treating fright. The condition of fright is itself a kind of fixed, stuck state—an inability of consciousness to move beyond a traumatic event. The mushroom, which causes consciousness to "fly," directly counteracts this fixation.
 
 The mechanism operates through several pathways simultaneously:
 
@@ -99,7 +99,7 @@ The key difference is the method of accessing the traumatic material: the Wester
 
 ## Fear and Terror
 
-Estrada's discourse during the retrieval process is saturated with fear:
+Estrada"s discourse during the retrieval process is saturated with fear:
 
 "Where is the fear, says. Where is the terror, says. Where stayed the spirit of this child, says. I have to search for it, says. I have to locate it, says. I have to detain it, says. I have to grab it, says. I have to call it, says. I have to whistle for it in the midst of terror, says."
 

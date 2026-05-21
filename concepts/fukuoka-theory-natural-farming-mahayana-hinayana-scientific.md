@@ -4,7 +4,7 @@ source: administrator-microsoft-word-fukuoka-textdoc.md
 type: concept
 ---
 
-## Fukuoka's Theory of Natural Farming: Mahayana, Hinayana, and Scientific
+## Fukuoka"s Theory of Natural Farming: Mahayana, Hinayana, and Scientific
 
 [[neo-shamanic-phenomenology-and-limits-of-science]], and the meaning of perfection itself.
 
@@ -36,7 +36,7 @@ Fukuoka argues that scientific farming grows "deformed fruit" — produce that i
 
 Fukuoka employs a geometric metaphor to make these comparisons tangible. He conceives of each approach as a circle whose area represents total yield or agricultural capacity:
 
-- **Scientific farming** and **Hinayana natural farming** produce circles of roughly equal diameter — their total productive capacity is comparable when measured in aggregate output. Even Fukuoka grants that scientific farming can match [[fruit-tree-care-and-orchard-management]] — natural farming is never inferior to scientific farming. It "is able to take full advantage of nature's forces" without the overhead of artificial inputs.
+- **Scientific farming** and **Hinayana natural farming** produce circles of roughly equal diameter — their total productive capacity is comparable when measured in aggregate output. Even Fukuoka grants that scientific farming can match [[fruit-tree-care-and-orchard-management]] — natural farming is never inferior to scientific farming. It "is able to take full advantage of nature"s forces" without the overhead of artificial inputs.
 
 In these settings, the two approaches produce comparable yields, but natural farming does so with vastly less effort, cost, and ecological disturbance. The comparison is revealing: same output, radically different input.
 
@@ -44,7 +44,7 @@ Fukuoka frames the relationship as that of student and teacher: "Man is no more 
 
 ### The Persimmon Seed Analogy
 
-Perhaps Fukuoka's most striking argument is the persimmon seed. The technology required to create a single persimmon seed from raw materials — to engineer the genetic code, assemble the proteins, construct the cellular machinery, replicate the germination sequence — would be "incomparably greater than that used to launch a rocket into outer space."
+Perhaps Fukuoka"s most striking argument is the persimmon seed. The technology required to create a single persimmon seed from raw materials — to engineer the genetic code, assemble the proteins, construct the cellular machinery, replicate the germination sequence — would be "incomparably greater than that used to launch a rocket into outer space."
 
 The world's scientists, pooling all their accumulated knowledge and resources, could not fabricate a single viable seed.
 

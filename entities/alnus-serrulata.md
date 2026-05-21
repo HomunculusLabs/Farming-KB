@@ -12,7 +12,6 @@ date: 2026-05-09
 updated: 2026-05-09
 sources:
   - Dawson, J.O. (1990). "biological-nitrogen-fixation-agriculture by actinorhizal plants in temperate forestry." In: Nitrogen Fixation: Achievements and Objectives, Chapman and Hall.---
----
 
 ## Overview
 

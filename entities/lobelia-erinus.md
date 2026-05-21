@@ -23,7 +23,7 @@ Most garden lobelias are treated as annuals in temperate zones, though the speci
 
 The plant contains toxic alkaloids, including lobeline, which has a history of use in respiratory medicine. However, ornamental cultivars are bred for flower production, not alkaloid content.
 
-The genus Lobelia is named after Matthias de l'Obel (1538–1616), a Flemish botanist and physician to King James I of England. The specific epithet "erinus" refers to the plant's resemblance to species in the genus Erinus (Plantaginaceae).
+The genus Lobelia is named after Matthias de l"Obel (1538–1616), a Flemish botanist and physician to King James I of England. The specific epithet "erinus" refers to the plant's resemblance to species in the genus Erinus (Plantaginaceae).
 
 Lobelia erinus was introduced to European horticulture in the mid-18th century and rapidly became a staple of Victorian bedding schemes. Breeding efforts have produced over 200 named cultivars to date.
 

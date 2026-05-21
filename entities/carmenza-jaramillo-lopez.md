@@ -35,7 +35,7 @@ Carmenza Jaramillo López is a Colombian mycologist and mushroom cultivation spe
 
 ## Relevance to Cultivation and Mycology
 
-Carmenza Jaramillo López's work is highly relevant to mushroom cultivation, particularly in tropical and developing-world contexts:
+Carmenza Jaramillo López"s work is highly relevant to mushroom cultivation, particularly in tropical and developing-world contexts:
 
 1. **Coffee waste substrate** — Her demonstration that coffee waste can serve as an effective substrate for shiitake cultivation at 75% Biological Efficiency opens up a vast, previously underutilized substrate resource in coffee-growing regions worldwide.
 

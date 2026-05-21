@@ -1,5 +1,5 @@
 ---
-title: "golden-guide-salvia-divinorum-and-diviner-sage: Diviner's Sage"
+title: "golden-guide-salvia-divinorum-and-diviner-sage: Diviner"s Sage"
 created: 2026-04-28
 tags:
   - ethnobotany
@@ -13,7 +13,7 @@ sources:
 type: concept
 ---
 
-## Salvia divinorum: Diviner's Sage
+## Salvia divinorum: Diviner"s Sage
 
 ## The Mazatec Visionary Herb
 

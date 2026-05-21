@@ -36,7 +36,7 @@ Fire was the major management tool used by Aboriginal people to shape whole land
 
 ### The Burning Strategy
 
-Most of Australia's fire-prone land systems were burnt as often (each annual dry season) and as soon as they would burn. By this process, only the driest sites would burn — generally northwest aspects and ridges with the shallowest, lowest-fertility soils. Gullies, southerly slopes and more fertile sites would act as natural firebreaks.
+Most of Australia"s fire-prone land systems were burnt as often (each annual dry season) and as soon as they would burn. By this process, only the driest sites would burn — generally northwest aspects and ridges with the shallowest, lowest-fertility soils. Gullies, southerly slopes and more fertile sites would act as natural firebreaks.
 
 ### Multifold Effects of Fire Management
 

@@ -4,7 +4,7 @@ created: 2026-05-06
 tags: [comparison, natural-building, wattle-and-daub, straw-bale, sustainable-housing]
 date: 2026-04-28
 updated: 2026-04-28
-sources: ['raw/papers/one-straw-revolution-masanobu-fukuoka.md']
+sources: ["raw/papers/one-straw-revolution-masanobu-fukuoka.md']
 type: comparison
 ---
 

@@ -16,7 +16,7 @@ In nature, boundaries between different media—whether air and water, forest an
 
 - **Particle accumulation**: Boundaries act as nets or blockades where materials naturally deposit. Sand collects at the surf line, leaves pile against fences, and nutrients gather at pond margins.
 
-- **Unique niches**: The boundary zone itself provides spatial and temporal niches that don't exist in either adjoining system. Sheltered micro-habitats, transitional moisture gradients, and varied light conditions all contribute.
+- **Unique niches**: The boundary zone itself provides spatial and temporal niches that don"t exist in either adjoining system. Sheltered micro-habitats, transitional moisture gradients, and varied light conditions all contribute.
 
 - **Dual resource access**: Organisms at edges can draw on the resources of both adjoining systems simultaneously. A plant at a forest/pasture edge can access deep soil moisture from the forest and full sunlight from the pasture.
 

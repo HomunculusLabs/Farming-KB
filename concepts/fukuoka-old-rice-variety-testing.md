@@ -16,8 +16,8 @@ In his 1975 speech and related writings, [[holzer-old-varieties-and-seed-saving]
 
 Fukuoka tested an old variety of glutinous rice:
 
-- "This here is rice I harvested last fall. I assure you that I wasn't particularly choosy about the specimen I brought, but as you can see this plant is entirely free of disease"
-- "There isn't a single spot of disease anywhere. No rice blast disease, no sclerotic disease, and no leaf blotch"
+- "This here is rice I harvested last fall. I assure you that I wasn"t particularly choosy about the specimen I brought, but as you can see this plant is entirely free of disease"
+- "There isn"t a single spot of disease anywhere. No rice blast disease, no sclerotic disease, and no leaf blotch"
 - "All one can find are a few marks left by locusts"
 - He estimates the variety dates from the Tokugawa Period (1600-1868)
 - The reason for testing it: "to determine the yields that could be obtained with an old variety of rice rather than the new high-yielding varieties that breeders have developed"
@@ -31,18 +31,18 @@ Fukuoka provides concrete yield data:
 - The smallest heads have about 120 grains and the largest about 260-270 grains
 - Based on his calculations: "this rice can give yields of up to 50 bushels per quarter-acre"
 - "This is a yield higher than that gotten through [[cervantes-chemical-fertilizers-guide]], or sprayed pesticides. And yet I reap this rice."
-- "Tell me now, everyone: What happens if you don't have to plow, if you don't have any need for tillers and tractors, if you don't have to spread chemical fertilizers and pesticides?"
-- "The key sectors of Japan's chemical industry will all collapse"
+- "Tell me now, everyone: What happens if you don"t have to plow, if you don't have any need for tillers and tractors, if you don't have to spread chemical fertilizers and pesticides?"
+- "The key sectors of Japan"s chemical industry will all collapse"
 - "No wonder then that no one is willing to believe such a method of farming is possible"
 
 ## University Research Critique
 
 Fukuoka broadens his critique to agricultural education:
 
-- "Look at those university agricultural testing centers everywhere and what they're studying. All that new technology is only hurting the farmer"
+- "Look at those university agricultural testing centers everywhere and what they"re studying. All that new technology is only hurting the farmer"
 - "The labor-saving methods being developed by armies of researchers are squeezing the farmer tighter and tighter"
 - "This is reducing the number of farmers"
-- "We're seeing a boom period in agricultural technology that is producing chemicals and fertilizers which are wrecking agriculture"
+- "We"re seeing a boom period in agricultural technology that is producing chemicals and fertilizers which are wrecking agriculture"
 - "The entrepreneurs have found themselves a new way of making money"
 - "We are seeing a golden age of farmer-less farming"
 - "[[fukuoka-insects-create-new-rice-varieties]]:

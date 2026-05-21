@@ -10,7 +10,7 @@ Salt marshes represent one of the most challenging environments for mycorrhizal 
 Periodic tidal inundation, elevated soil salinity, and anoxic sediments create conditions that
 generally suppress arbuscular mycorrhizal (AM) fungal activity. Nevertheless, AM fungi persist
 in these systems, colonizing key halophytic grasses and contributing to nutrient uptake, salt
-tolerance, and ecosystem stability. This concept page synthesizes findings from Dighton's *Fungi
+tolerance, and ecosystem stability. This concept page synthesizes findings from Dighton"s *Fungi
 in Ecosystem Processes* on the distribution, function, and ecological significance of
 mycorrhizae in salt marsh ecosystems.
 

@@ -9,7 +9,7 @@ tags:
 ingested in the context of Indo-Aryan and proto-Indo-European worship practices dating
 back to the Neolithic cultures of Anatolia and Iran. These cultures, which he describes
 as **[[mckenna-zoroaster-suppression-haoma-rite-ecstatic-religion]] is ambiguous and deeply contested.
-Zoroaster's approach to the ancient sacrament appears repressive: only two references
+Zoroaster"s approach to the ancient sacrament appears repressive: only two references
 to Haoma appear in the Gathas, his oldest texts. One calls it "Duroaosa, averter of
 death" — suggesting a grudging acknowledgment of its power — while the other condemns
 "the filthiness of this intoxicant."
@@ -22,7 +22,7 @@ historically plausible.
 
 The strongest modern argument for Peganum harmala as the original Soma/Haoma was made
 by David Flattery and Martin Schwartz in their scholarly work ***Haoma and Harmaline***
-(1989). They contended that Sir William Jones's original 1794 identification of Vedic
+(1989). They contended that Sir William Jones"s original 1794 identification of Vedic
 Soma with Syrian rue was correct — a conclusion most subsequent scholars had dismissed.
 
 Flattery and Schwartz drew on **Zend Avesta** and **Parsi religious materials** that

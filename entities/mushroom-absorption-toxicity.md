@@ -15,7 +15,7 @@ Mushroom absorption toxicity is a concept documented by Julius Auboineau Palmer 
 
 - **Category**: Toxicological phenomenon
 - **First documented by**: Julius Auboineau Palmer (1870s)
-- **Primary alkaloid involved**: Amanitine (Palmer's umbrella term for *Amanita* toxins)
+- **Primary alkaloid involved**: Amanitine (Palmer"s umbrella term for *Amanita* toxins)
 - **Significance**: Challenged the prevailing assumption that mushroom poisoning occurs only through ingestion
 
 ## Pathways of Toxic Exposure
@@ -70,7 +70,7 @@ Palmer drew an extended analogy between fungal toxin permeation and the action o
 
 ## Implications for Foraging Safety
 
-Palmer's observations have profound practical implications:
+Palmer"s observations have profound practical implications:
 
 1. **Never mix species in collection**: Edible and unknown/poisonous mushrooms must be kept in separate containers
 2. **Handle with care**: Poisonous species should not be handled with bare, warm, or perspiring hands

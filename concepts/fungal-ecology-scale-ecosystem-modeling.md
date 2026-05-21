@@ -1,5 +1,5 @@
 ---
-title: 'Scale and Modeling in Fungal Ecology'
+title: "Scale and Modeling in Fungal Ecology'
 source: 'john-dighton-fungi-in-ecosystem-processes.md'
 type: concept
 ---
@@ -92,7 +92,7 @@ The Zhdanova series documents fungal responses to extreme radiological condition
 Zhdanova et al. (1990) tracked micromycete dynamics in radionuclide-contaminated soil; (1991)
 studied micromycete interactions with "hot" particles; (1994) described **radiotropism**—hyphal
 growth toward ionizing radiation sources; (1995) documented community changes from Chernobyl
-radionuclide pollution; (2000) explored mycobiota inside the reactor's containment structures.
+radionuclide pollution; (2000) explored mycobiota inside the reactor"s containment structures.
 These studies show fungal ecology operates even under extreme conditions and that fungal
 communities are both indicators of and contributors to landscape-scale contamination dynamics.
 

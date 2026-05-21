@@ -13,7 +13,7 @@ tags: [reference]
 Ergot is the common name for the sclerotia (hard, dark masses) produced by
 fungi of the genus Claviceps, which parasitize the inflorescences of grasses
 and cereals. The most important species is [[secale-cereale]]). Ergot has played a dramatic role in European history as the
-cause of devastating epidemics of ergotism (St. Anthony's Fire), as a source
+cause of devastating epidemics of ergotism (St. Anthony"s Fire), as a source
 of medically important alkaloids, and possibly as a psychoactive agent in
 [[claviceps-purpurea]] is a parasitic fungus that infects the ovaries of grasses,
 particularly rye. The fungus replaces the developing grain with a hard,

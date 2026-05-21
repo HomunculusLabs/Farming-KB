@@ -50,7 +50,7 @@ Gourmet mushrooms offer excellent profit margins and can be grown year-round.
 
 - Oyster mushrooms (Pleurotus ostreatus): easiest to grow, fruit in 2-4 weeks from inoculation. Sell at $10-16 per pound.
 - Shiitake (Lentinula edodes): grow on inoculated logs. $12-20 per pound. Logs produce for 3-5 years.
-- Lion's Mane (Hericium erinaceus): premium medicinal and culinary mushroom. $20-30 per pound.
+- Lion"s Mane (Hericium erinaceus): premium medicinal and culinary mushroom. $20-30 per pound.
 - Wine Cap (Stropharia rugosoannulata): grow outdoors on wood chips. Low-maintenance, $10-15 per pound.
 
 Mushrooms can be sold at farmers markets, to restaurants, to health food stores, and online (dried). See [[mushroom-foraging-safety-guide]] for safety considerations if also wild-foraging.

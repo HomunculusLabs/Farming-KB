@@ -56,7 +56,7 @@ Grows from spring to autumn in grassy places. Common and widespread. White branc
 
 ## Historical Notes
 
-Illustrated on Plate 6 of Ramsbottom's "Poisonous Fungi" (1945) alongside Lepiota helveola. The species epithet "cristata" refers to the crested or coronet-like appearance of the concentric scale rings on the cap.
+Illustrated on Plate 6 of Ramsbottom"s "Poisonous Fungi" (1945) alongside Lepiota helveola. The species epithet "cristata" refers to the crested or coronet-like appearance of the concentric scale rings on the cap.
 
 ## See Also
 

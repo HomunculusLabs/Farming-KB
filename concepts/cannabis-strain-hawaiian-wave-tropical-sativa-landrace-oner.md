@@ -37,14 +37,14 @@ gives Hawaiian Wave its distinctive growth pattern and contributes to the
 complex profile of effects and flavors that distinguish it from hybrids
 influenced by indica or ruderalis genetics.
 
-## The Rev's Appreciation
+## The Rev"s Appreciation
 
 In *[[cannabis-sativa]] Vol 3*, S.T. Oner captures The Rev's deep appreciation
 for Hawaiian cannabis through enthusiastic endorsement of Hawaiian Wave. As
 The Rev expresses, "Hawaiian Wave gives me all this and so much more,"
 conveying a sense that the strain delivers beyond expectations, combining
 the desirable traits of Hawaiian genetics with additional qualities that
-emerge from careful breeding. This enthusiasm reflects The Rev's broader
+emerge from careful breeding. This enthusiasm reflects The Rev"s broader
 passion for preserving and celebrating the unique regional cannabis
 varieties that represent the species' full genetic and phenotypic range.
 

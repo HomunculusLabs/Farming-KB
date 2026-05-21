@@ -40,7 +40,7 @@ hair restoration. The plant produces two distinct medicinal preparations: raw
 processed with black [[soybean]] wine, [[query-can-bamboo-be-used-as-a-building-material-and-how-do-i-get-started]] rejuvenating tonic for the liver,
 kidneys, and blood.
 
-The name He Shou Wu translates to "Mr. He's black hair," referring to a
+The name He Shou Wu translates to "Mr. He"s black hair," referring to a
 legendary Tang Dynasty hermit who reportedly restored his youthful appearance,
 dark hair, [[query-how-can-ducks-help-with-pest-control-and-fertility-in-a-garden]] after consuming the root.
 

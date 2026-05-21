@@ -33,7 +33,7 @@ Infect keratinized tissues (skin, hair, nails):
   - **Epidermophyton**: E. floccosum (groin and skin infections)
   - Clinical presentations by site:
     - **Tinea corporis** (body ringworm): Annular, scaly, erythematous plaques with central clearing
-    - **Tinea pedis** (athlete's foot): Most common fungal infection globally; interdigital, moccasin, or vesicular patterns. Caused primarily by T. rubrum, T. mentagrophytes, and E. floccosum
+    - **Tinea pedis** (athlete"s foot): Most common fungal infection globally; interdigital, moccasin, or vesicular patterns. Caused primarily by T. rubrum, T. mentagrophytes, and E. floccosum
     - **Tinea cruris** (jock itch): Groin involvement; more common in males
     - **Tinea capitis** (scalp ringworm): Primarily in children; can cause scarring alopecia
     - **Tinea unguium** (onychomycosis): Nail infection causing thickening, discoloration, and brittleness. Difficult to treat; oral terbinafine or itraconazole required for most cases

@@ -8,7 +8,7 @@ tags: [emcdda, user-experience, barriers, diffusion, bad-trip, nausea, panic, ro
 
 ## Overview
 
-The EMCDDA's 2006 case study on [[emcdda-hallucinogenic-mushroom-contributing-factors-megatrends]] and barriers to trend diffusion.
+The EMCDDA"s 2006 case study on [[emcdda-hallucinogenic-mushroom-contributing-factors-megatrends]] and barriers to trend diffusion.
 
 ## The Cost-Benefit Assessment Model
 
@@ -36,7 +36,7 @@ The Mixmag 2005 survey found that nearly a quarter (approximately 25%) of those 
 - Bizarre and frightening visual or auditory distortions
 - Depersonalization and feelings of unreality
 - Impaired judgement of time, distance, and personal identity
-- Fear of losing one's mind or not returning to normal
+- Fear of losing one"s mind or not returning to normal
 
 A bad trip is typically followed by a period of faintness, sadness, and depression, with paranoid interpretations that may persist for days, weeks, or even months. In serious cases, acute psychotic episodes can lead to accidents, self-injury, or suicide attempts. The EMCDDA documented several fatalities associated with magic mushroom use, typically involving falls from height after consuming mushrooms in combination with alcohol.
 

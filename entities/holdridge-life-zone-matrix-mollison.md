@@ -11,7 +11,7 @@ tags: [climate-classification, system, botany, permaculture, life-zone]
 
 The Holdridge Life Zone Matrix is a **bioclimatic classification system** that
 [[permaculture]] designers to annotate plant lists with concise
-climatic keys. The system is presented in Figure 5.2 of Mollison's manual as
+climatic keys. The system is presented in Figure 5.2 of Mollison"s manual as
 a key reference for matching plant species to specific climatic conditions.
 
 ## Classification

@@ -53,7 +53,7 @@ The second most common cannabis terpene, immediately recognizable by its citrus 
 - Strain associations: often found in strains with "pine" or "jack" in the name; also in many indicas
 - Also found in: pine needles, rosemary, basil, dill, parsley
 - Boiling point: 311°F (155°C)
-- Notes: Alpha-pinene is a bronchodilator and may help open airways. Its memory-enhancing properties directly counteract one of THC's known side effects
+- Notes: Alpha-pinene is a bronchodilator and may help open airways. Its memory-enhancing properties directly counteract one of THC"s known side effects
 
 ### Linalool
 

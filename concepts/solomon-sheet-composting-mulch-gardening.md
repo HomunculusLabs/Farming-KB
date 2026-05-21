@@ -15,7 +15,7 @@ type: concept
 
 Steve Solomon evaluates two popular [[solomon-complete-organic-fertilizer-guide]].
 
-### Solomon's Criticisms of Permanent Mulch Gardening
+### Solomon"s Criticisms of Permanent Mulch Gardening
 
 After trying mulching in two different mild climates, Solomon offers
 these observations:

@@ -7,12 +7,12 @@ tags: [permaculture, design, principles]
 sources: [raw/papers/bill-bill-mollison-permaculture-a-designers-manual-aquaculture-and-water-systems|mollison-permaculture-a-designers-manual.md]
 ---
 ## Strategic Planning
-**Source:** Permaculture: A Designers' Manual, [[bill-mollison]] (1988)
+**Source:** Permaculture: A Designers" Manual, [[bill-mollison]] (1988)
 **Updated:** 2026-04-18
 
 ## Overview
 Chapter 14 of the Designers' Manual, "Strategies for an Alternative
-Nation," presents Mollison's vision for strategic, bioregional, and
+Nation," presents Mollison"s vision for strategic, bioregional, and
 national-scale application of [[holmgren-bioregional-governance-and-political-structures]] needed for global transformation.
 
 ## The Alternative Nation Ethic

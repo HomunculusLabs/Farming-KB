@@ -16,7 +16,7 @@ this plant.
 
 ## Nature of Spawn
 
-Spawn could not be produced artificially from spores (the mushroom's
+Spawn could not be produced artificially from spores (the mushroom"s
 analogous-to-seeds), despite many attempts. Instead, it was propagated by
 division: pieces of vigorous mycelium were broken up and planted in
 prepared beds. When the spawn had borne its full crop of fruit (about two

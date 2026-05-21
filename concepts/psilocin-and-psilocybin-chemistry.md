@@ -22,7 +22,7 @@ Shulgin found psilocin and psilocybin "completely interchangeable as to their ph
 
 ### Synthesis
 
-The modern synthesis (Shulgin's route) proceeds from 4-acetoxyindole via oxalylation with oxalyl chloride, amidation with dimethylamine, and lithium aluminum hydride (LAH) reduction. The 4-acetoxy protecting group eliminates the need for the older O-benzyl ether route (which required an additional reductive debenzylation step).
+The modern synthesis (Shulgin"s route) proceeds from 4-acetoxyindole via oxalylation with oxalyl chloride, amidation with dimethylamine, and lithium aluminum hydride (LAH) reduction. The 4-acetoxy protecting group eliminates the need for the older O-benzyl ether route (which required an additional reductive debenzylation step).
 
 Psilocybin synthesis requires two additional steps beyond psilocin: phosphorylation with dibenzyl chlorophosphonate followed by catalytic debenzylation. Yields for the phosphorylation are poor (often less than 10%), and the phosphorylating agent must always be used in solution as it is unstable in pure form.
 
@@ -36,13 +36,13 @@ Psilocybin synthesis requires two additional steps beyond psilocin: phosphorylat
 
 ### Experience Reports
 
-At 10 mg orally, effects begin in ~40 minutes: brilliant colors, rapid visual motion, patterns and textures with eyes closed. Nausea is common, particularly at higher doses. At 15 mg, strong visual distortions, "2x-removed hallucinations" (visualizing environments that don't exist, even while aware of the actual setting). Described as a "night-time drug" because daylight washes out the visual effects.
+At 10 mg orally, effects begin in ~40 minutes: brilliant colors, rapid visual motion, patterns and textures with eyes closed. Nausea is common, particularly at higher doses. At 15 mg, strong visual distortions, "2x-removed hallucinations" (visualizing environments that don"t exist, even while aware of the actual setting). Described as a "night-time drug" because daylight washes out the visual effects.
 
 Dried Psilocybe cubensis mushrooms: 1.5 g produces light speckled patterning; 3.5 g produces waves of dark earth-colored visuals with significant nausea.
 
 ### Why It Is Orally Active — Unlike DMT
 
-The critical difference between psilocin (orally active at 10-20 mg) and [[dmt-compound-profile]] (inactive orally at 350+ mg) is the 4-hydroxyl substitution. This hydroxyl group likely confers resistance to first-pass monoamine oxidase metabolism in the liver and gut, or alters the molecule's affinity for serotonin receptors to compensate for the metabolic loss. This is a key insight in [[tryptamine-family-overview]] structure-activity relationships.
+The critical difference between psilocin (orally active at 10-20 mg) and [[dmt-compound-profile]] (inactive orally at 350+ mg) is the 4-hydroxyl substitution. This hydroxyl group likely confers resistance to first-pass monoamine oxidase metabolism in the liver and gut, or alters the molecule"s affinity for serotonin receptors to compensate for the metabolic loss. This is a key insight in [[tryptamine-family-overview]] structure-activity relationships.
 
 ### Mushroom vs. Pure Chemical
 

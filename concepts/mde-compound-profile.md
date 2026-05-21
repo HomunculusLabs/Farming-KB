@@ -15,9 +15,9 @@ MDE (PIHKAL #106), commonly known as MDEA or by the street name EVE, is an empat
 
 ## Pharmacology
 
-MDE acts primarily as a serotonin releaser with additional effects on dopamine and norepinephrine. The N-ethyl group provides slightly greater selectivity for serotonin over dopamine/norepinephrine compared to MDMA's N-methyl group, which may account for the reduced stimulant profile. See [[ayahuasca-preparation-and-ceremony]]. The properties of unusually easy communication and positive self-viewing of MDMA seem to be absent."
+MDE acts primarily as a serotonin releaser with additional effects on dopamine and norepinephrine. The N-ethyl group provides slightly greater selectivity for serotonin over dopamine/norepinephrine compared to MDMA"s N-methyl group, which may account for the reduced stimulant profile. See [[ayahuasca-preparation-and-ceremony]]. The properties of unusually easy communication and positive self-viewing of MDMA seem to be absent."
 
-This "missing magic" quality became a consistent theme in MDE reports and may explain why MDMA remained more popular despite MDE's gentler physical profile. The open question is whether the S-isomer of MDE might possess more of these unique MDMA-like properties: "Maybe the 'S' isomer would have these properties. The optical isomers have never been evaluated separately in man."
+This "missing magic" quality became a consistent theme in MDE reports and may explain why MDMA remained more popular despite MDE"s gentler physical profile. The open question is whether the S-isomer of MDE might possess more of these unique MDMA-like properties: "Maybe the "S' isomer would have these properties. The optical isomers have never been evaluated separately in man."
 
 | Property | MDA | MDMA | MDE |
 |----------|-----|------|-----|

@@ -43,13 +43,13 @@ Josef "Sepp" Holzer (born 1942) is an Austrian farmer, author, and consultant kn
 
 ## Major Works
 
-- **"Sepp Holzer's Permaculture"** (2004) — Practical guide to his methods at Krameterhof.
+- **"Sepp Holzer"s Permaculture"** (2004) — Practical guide to his methods at Krameterhof.
 - **"Desert or Paradise"** (2012) — Desert reclamation and water retention landscapes.
 - **"Holzer Permaculture"** (various films and documentary features)
 
 ## Approach
 
-Holzer's methods are distinctive for being highly empirical — he developed his techniques through decades of observation and experimentation rather than academic study. His advice is often iconoclastic: "I am always doing what I am forbidden to do." He emphasizes trusting observation over theory.
+Holzer"s methods are distinctive for being highly empirical — he developed his techniques through decades of observation and experimentation rather than academic study. His advice is often iconoclastic: "I am always doing what I am forbidden to do." He emphasizes trusting observation over theory.
 
 ## Legacy
 

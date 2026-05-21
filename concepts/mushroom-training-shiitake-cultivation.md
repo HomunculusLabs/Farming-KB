@@ -21,7 +21,7 @@ Shiitake mushrooms ([[fungi-cultivated-mushrooms-pathogens-competitors]] worldwi
 
 Shiitake mushrooms are recognized for their significant health benefits:
 
-- **Cartilage development**: Particularly noted as "good for baby's cartilage" in traditional Thai medicine
+- **Cartilage development**: Particularly noted as "good for baby"s cartilage" in traditional Thai medicine
 - **Immune system support**: Shiitake contains lentinan, a polysaccharide with well-documented immune-modulating properties
 - **Nutritional value**: Like other [[growing-gourmet-cloning-wild-vs-cultivated-mushrooms]], shiitake provides high protein, essential amino acids, low fat, and high fiber
 - **Medicinal applications**: Shiitake has been extensively studied for anti-cancer, cholesterol-lowering, and antiviral properties

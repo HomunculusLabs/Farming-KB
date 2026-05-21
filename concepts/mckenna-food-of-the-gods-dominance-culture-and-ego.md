@@ -1,5 +1,5 @@
 ---
-title: mckenna food of the gods dominance culture and ego and the Ego in McKenna's Food of the Gods
+title: mckenna food of the gods dominance culture and ego and the Ego in McKenna"s Food of the Gods
 created: 2026-04-26
 updated: 2026-04-24
 sources:
@@ -10,23 +10,23 @@ tags: [culture]
 
 ## Dominance Culture and the Ego in Food of the Gods
 
-In [[mckenna-dominator-culture-and-suppression-of-ecstasy]]" -- a hierarchical, paternalistic, materialistic, and male-dominated social organization that replaced earlier "partnership" models of human society. This framework draws heavily on Riane Eisler's The Chalice and the Blade and connects the evolution of the ego to the loss of plant-based visionary practices.
+In [[mckenna-dominator-culture-and-suppression-of-ecstasy]]" -- a hierarchical, paternalistic, materialistic, and male-dominated social organization that replaced earlier "partnership" models of human society. This framework draws heavily on Riane Eisler"s The Chalice and the Blade and connects the evolution of the ego to the loss of plant-based visionary practices.
 
 ## Partnership vs. Dominator Societies
 
-McKenna borrows the terms "partnership" and "dominator" from Eisler's re-visioning of ancient history. Partnership societies, which Eisler argues preceded and were later oppressed by dominator forms, were characterized by egalitarian social organization without rigid hierarchies, the absence of warfare as an organizing social principle, reverence for the feminine, nature, and ecstatic experience, and open-ended shamanic investigation of the natural world.
+McKenna borrows the terms "partnership" and "dominator" from Eisler"s re-visioning of ancient history. Partnership societies, which Eisler argues preceded and were later oppressed by dominator forms, were characterized by egalitarian social organization without rigid hierarchies, the absence of warfare as an organizing social principle, reverence for the feminine, nature, and ecstatic experience, and open-ended shamanic investigation of the natural world.
 
 Eisler uses the archaeological record to argue that over vast areas and for many centuries, the partnership societies of the ancient Middle East "were without warfare and upheaval." [[mckenna-jaynes-bicameral-mind-breakdown]], which proposed that through Homeric times, humans did not possess the kind of interior psychic organization we now take for granted. What we call "ego" was, for Homeric people, experienced as the voice of a god -- an intrusive, autonomous psychic function called forth under moments of stress:
 
-> "Thus, what we call ego was for Homeric people a 'god.' When danger threatened suddenly, the god's voice was heard in the individual's mind; an intrusive and alien psychic function was expressed as a kind of metaprogram for survival."
+> "Thus, what we call ego was for Homeric people a "god.' When danger threatened suddenly, the god's voice was heard in the individual's mind; an intrusive and alien psychic function was expressed as a kind of metaprogram for survival."
 
-At some point, humans integrated this previously autonomous function. Merchants and traders moving between societies "brought the unwelcome news that the gods were saying different things in different places, and so cast early seeds of doubt." Eventually, "each person became the god and reinterpreted the inner voice as the 'self' or, as it was later called, the 'ego.'" McKenna notes that Jaynes's theory was largely dismissed, in part because Jaynes "deprived himself of a mechanism that could reliably drive the kind of transformative changes he saw taking place" -- namely, hallucinogenic plants encyclopedia overview.
+At some point, humans integrated this previously autonomous function. Merchants and traders moving between societies "brought the unwelcome news that the gods were saying different things in different places, and so cast early seeds of doubt." Eventually, "each person became the god and reinterpreted the inner voice as the "self' or, as it was later called, the 'ego.'" McKenna notes that Jaynes"s theory was largely dismissed, in part because Jaynes "deprived himself of a mechanism that could reliably drive the kind of transformative changes he saw taking place" -- namely, hallucinogenic plants encyclopedia overview.
 
 ## The Suppression of Ecstatic Dissolution
 
 The central argument is that encounters with hallucinogenic plants encyclopedia overview "throw into question the entire world view of the dominator culture" by dissolving the boundaries between self and world. This dissolution threatens the ego and the social structures built upon it. Psychoactive drugs challenge "the Christian assumption of the inviolability and special ontological status of the soul" and equally challenge "the modern idea of the ego and its inviolability and control structures."
 
-The "terror the ego feels in contemplating the dissolution of boundaries" explains not just the suppression of [[psilocybin-mushroom-habitat-and-ecology]] mushrooms that catalyzed language, self-reflection, and social cohesion in early humans also served to regularly dissolve the ego-structure that language and abstraction made possible. The loss of this periodic dissolution -- as humans migrated away from tropical grasslands, as climatic change reduced mushroom availability, and as dominator cultures actively suppressed visionary practices -- created the conditions for the ego's unchecked expansion.
+The "terror the ego feels in contemplating the dissolution of boundaries" explains not just the suppression of [[psilocybin-mushroom-habitat-and-ecology]] mushrooms that catalyzed language, self-reflection, and social cohesion in early humans also served to regularly dissolve the ego-structure that language and abstraction made possible. The loss of this periodic dissolution -- as humans migrated away from tropical grasslands, as climatic change reduced mushroom availability, and as dominator cultures actively suppressed visionary practices -- created the conditions for the ego"s unchecked expansion.
 
 ## Language and the Ego's Consolidation
 
@@ -36,13 +36,13 @@ The connection between mushrooms and language was anticipated by Henry Munn: "La
 
 ## The Cost of Dominator Values
 
-McKenna's diagnosis of modern civilization is unsparing. He writes that "our culture, self-toxified by the poisonous by-products of technology and egocentric ideology, is the unhappy inheritor of the dominator attitude that alteration of consciousness by the use of plants or substances is somehow wrong, onanistic, and perversely antisocial." The suppression of shamanic gnosis "has robbed us of life's meaning and made us enemies of the planet, of ourselves, and our grandchildren."
+McKenna"s diagnosis of modern civilization is unsparing. He writes that "our culture, self-toxified by the poisonous by-products of technology and egocentric ideology, is the unhappy inheritor of the dominator attitude that alteration of consciousness by the use of plants or substances is somehow wrong, onanistic, and perversely antisocial." The suppression of shamanic gnosis "has robbed us of life"s meaning and made us enemies of the planet, of ourselves, and our grandchildren."
 
 The historical moment he identifies is one in which humanity "traded partnership for dominance, traded harmony with nature for rape of nature, traded poetry for the sophistry of science" -- exchanging the birthright of participation in "the living mind of the planet" for "the broken pot shards of history, warfare, neurosis." He warns that without change, the consequence is "planetary catastrophe."
 
 ## Monotheism and the Ego-God
 
-McKenna traces a direct line from ego consolidation to monotheism: "In the West there has been a steady focus on the ego and on the god of the ego -- the monotheistic ideal." Monotheism, in this reading, is the theological expression of dominator culture: a single, all-powerful, authoritarian deity mirrors the ego's claim to absolute sovereignty over the psyche. This stands in contrast to the animistic, polytheistic, nature-embedded religious sensibilities of partnership societies, in which the sacred was distributed throughout the natural world rather than concentrated in a single authoritarian figure.
+McKenna traces a direct line from ego consolidation to monotheism: "In the West there has been a steady focus on the ego and on the god of the ego -- the monotheistic ideal." Monotheism, in this reading, is the theological expression of dominator culture: a single, all-powerful, authoritarian deity mirrors the ego"s claim to absolute sovereignty over the psyche. This stands in contrast to the animistic, polytheistic, nature-embedded religious sensibilities of partnership societies, in which the sacred was distributed throughout the natural world rather than concentrated in a single authoritarian figure.
 
 ## The Archaic Revival as Antidote
 

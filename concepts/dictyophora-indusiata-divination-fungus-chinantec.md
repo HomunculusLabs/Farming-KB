@@ -60,7 +60,7 @@ Several possibilities exist regarding its active status:
 3. **Confusion with other species** — as Guzmán noted for several other "sacred" fungi, there is always the possibility that the ceremonial fungus was confused with a psilocybin-containing species growing in the same habitat
 4. **Preparation-dependent effects** — specific preparation methods (fermentation, combination with other plants) might activate or concentrate active compounds
 
-The uncertainty surrounding its chemistry places D. indusiata in Guzmán's fourth group of neurotropic fungi: "those fungi used as sacred by some tribes in the world, but without any reliable chemical studies." This category is the most enigmatic of the four groups identified by Guzmán, as it includes species whose ceremonial status is well-attested but whose pharmacological basis remains completely unexplored.
+The uncertainty surrounding its chemistry places D. indusiata in Guzmán"s fourth group of neurotropic fungi: "those fungi used as sacred by some tribes in the world, but without any reliable chemical studies." This category is the most enigmatic of the four groups identified by Guzmán, as it includes species whose ceremonial status is well-attested but whose pharmacological basis remains completely unexplored.
 
 Future chemical analysis using modern metabolomics techniques could potentially resolve this question. Compounds of interest would include tryptamine derivatives (psilocybin, psilocin, baeocystin, norbaeocystin), ergot alkaloids, and any novel indole or isoindole structures. Until such studies are conducted, the psychoactive status of D. indusiata in Chinantec ceremonial practice must remain classified as unconfirmed.
 

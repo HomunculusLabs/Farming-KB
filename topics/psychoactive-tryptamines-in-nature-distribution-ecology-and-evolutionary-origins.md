@@ -101,7 +101,7 @@ regions may be even greater than currently documented.
 
 Mexico stands as the single most significant center of neurotropic fungal
 diversity on Earth, harboring 76 species of neurotropic fungi, of which 44 belong
-to the genus Psilocybe, representing approximately 39 percent of the world's known
+to the genus Psilocybe, representing approximately 39 percent of the world"s known
 Psilocybe species. Within Mexico, of the 42 neurotropic Psilocybe species
 documented, 34 are associated with mesophytic forests, 4 with tropical forests, and
 4 with coniferous forests, despite the fact that coniferous forests have been more

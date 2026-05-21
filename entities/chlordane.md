@@ -63,7 +63,7 @@ it can persist in soils and compost feedstocks for decades after application.
   - Grass clippings from lawns previously treated with chlordane
   - Soil mixed into compost feedstocks from contaminated sites
   - Urban yard waste from properties with historical termite treatments
-- Unlike some contaminants that degrade during composting, chlordane's
+- Unlike some contaminants that degrade during composting, chlordane"s
   persistence means it can pass through the composting process largely intact.
 - Compost testing for chlordane and other organochlorine residues is recommended
   for operations using urban feedstocks on former residential properties.

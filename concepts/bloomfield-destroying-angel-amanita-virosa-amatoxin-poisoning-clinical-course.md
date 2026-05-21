@@ -1,6 +1,6 @@
 ---
 title: Bloomfield Destroying Angel Amanita Virosa Amatoxin Poisoning Clinical Course
-source: "Mr. Bloomfield's Orchard - Nicholas P. Money (2002)"
+source: "Mr. Bloomfield"s Orchard - Nicholas P. Money (2002)"
 source_id: "bloomfield-destroying-angel-amanita-virosa-amatoxin-poisoning-clinical-course"
 topics: ["mycology", "toxicology", "amanita", "amatoxin", "mushroom-poisoning"]
 created: 2026-05-09
@@ -19,7 +19,7 @@ A common wood-rotting fungus producing small brown mushrooms — the archetypal 
 1. **Block RNA polymerase II**, the enzyme responsible for transcribing DNA into messenger RNA
 2. **Shut down protein synthesis** in hepatocytes (liver cells) by preventing gene expression
 3. Cause **progressive liver necrosis** as essential proteins cannot be synthesized
-4. The liver, being the body's primary detoxification organ, is disproportionately affected
+4. The liver, being the body"s primary detoxification organ, is disproportionately affected
 
 Phallotoxins, a second class of harmful peptides found in poisonous *Amanita* species, bind to intracellular actin filaments and inhibit cellular growth. They are **not absorbed from the gut** and thus cannot cause death following oral consumption. However, they may serve as an additional defense weapon against insect larvae that burrow within fruiting body tissues.
 

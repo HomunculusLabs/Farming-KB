@@ -41,7 +41,7 @@ FIM is a variation of topping where instead of cleanly removing the entire apica
 
 ## Low-Stress Training (LST)
 
-LST involves physically bending and tying down branches to alter the plant's shape without cutting. This is the gentlest training method and can begin very early in vegetative growth.
+LST involves physically bending and tying down branches to alter the plant"s shape without cutting. This is the gentlest training method and can begin very early in vegetative growth.
 
 **Materials**: Soft plant ties (pipe cleaners, garden wire with rubber coating, twist ties, or zip ties with padding).
 

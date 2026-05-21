@@ -29,7 +29,7 @@ Elevation range in its native habitat extends from approximately 200 to 2,400 me
 
 Naturalized populations have established in parts [[green-cannabis-grow-bible-cloning-and-seed-propagation]] is possible but slow, with stratification requirements of 2-3 months at 1-5 degrees Celsius.
 
-Numerous cultivars have been selected for foliage color and growth habit. The most widely grown purple-leaved cultivar is 'Royal Purple', valued for its deep burgundy foliage that intensifies in full sun. 'Golden Spirit' offers bright chartreuse-yellow foliage.
+Numerous cultivars have been selected for foliage color and growth habit. The most widely grown purple-leaved cultivar is "Royal Purple', valued for its deep burgundy foliage that intensifies in full sun. 'Golden Spirit' offers bright chartreuse-yellow foliage.
 
 'Coggygria' remains the most common form in cultivation. Other popular selections include 'Velvet Cloak', 'Grace', and 'Young Lady', each offering distinct combinations of foliage color, plant size, and inflorescence density.
 

@@ -6,9 +6,9 @@ tags: [fukuoka, rice-breeding, happy-hill, wild-rice, genetics, seed-sovereignty
 created: 2026-05-11
 ---
 
-## Fukuoka's Happy Hill Rice Breeding Philosophy
+## Fukuoka"s Happy Hill Rice Breeding Philosophy
 
-Among the many innovations attributed to Masanobu Fukuoka, the creation of "Happy Hill" rice represents a fascinating paradox: the prophet of "do-nothing farming" engaging in deliberate plant breeding. Yet Happy Hill was no ordinary breeding program. It embodied Fukuoka's conviction that the wild gene pool holds answers that human [[metzner-three-distinctive-features-shamanic-entheogenic-ceremonies]]:
+Among the many innovations attributed to Masanobu Fukuoka, the creation of "Happy Hill" rice represents a fascinating paradox: the prophet of "do-nothing farming" engaging in deliberate plant breeding. Yet Happy Hill was no ordinary breeding program. It embodied Fukuoka"s conviction that the wild gene pool holds answers that human [[metzner-three-distinctive-features-shamanic-entheogenic-ceremonies]]:
 
 - **No laboratory involvement**: All crossing occurred in the field under natural conditions
 - **No trait-specific selection**: Rather than selecting for individual traits like yield, disease resistance, or [[fukuoka-critique-laws-agricultural-science]] has increasingly come to recognize what Fukuoka intuited decades ago: wild crop relatives are invaluable genetic resources. The **Crop Wild Relatives** (CWR) concept is now central to discussions of food security and climate adaptation.
@@ -31,7 +31,7 @@ Fukuoka's vision for Happy Hill was explicitly anti-commercial and pro-sovereign
 - Hybrid varieties do not breed true, requiring farmers to purchase new seed each year
 - Seed saving is restricted or prohibited by technology (e.g., Genetic Use Restriction Technologies)
 
-Fukuoka's Happy Hill was an open-source seed before that concept existed — a freely reproducible variety that improves rather than degrades with each generation of seed saving. In an era of seed consolidation and biotechnology patents, this vision of seed freedom feels more radical than ever.
+Fukuoka"s Happy Hill was an open-source seed before that concept existed — a freely reproducible variety that improves rather than degrades with each generation of seed saving. In an era of seed consolidation and biotechnology patents, this vision of seed freedom feels more radical than ever.
 
 ## Philosophical Context
 

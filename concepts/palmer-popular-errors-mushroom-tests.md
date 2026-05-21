@@ -20,10 +20,10 @@ The most common belief, which Palmer called "the aristocratic test,"
 was that a safe mushroom should peel readily from margin to centre,
 "like a potato." Palmer acknowledged that nearly all fungi peel off
 readily and handsomely, making the test worthless. He noted a
-singularity among Boston's upper classes: in several years of foraging
+singularity among Boston"s upper classes: in several years of foraging
 along Beacon Street and Back Bay, he found "a singular unanimity of
 opinion" on the peeling test. He recalled one gentleman who, despite
-admiring Palmer's experiments and never doubting his judgment, would
+admiring Palmer"s experiments and never doubting his judgment, would
 secretly try the edge of each strange fungus to see if it would peel.
 
 ## The Silver Spoon Test

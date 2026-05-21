@@ -28,7 +28,7 @@ that cannot be Englished."
 
 McKenna argued that the fear sometimes inspired by DMT serves as a marker of
 existential authenticity: "A touch of terror gives the stamp of validity to
-the experience because it means, 'This is real.'" He maintained that
+the experience because it means, "This is real.'" He maintained that
 paradoxically, the eagerness of people to repeat the experience serves as an
 evaluation metric for the compound, since genuine encounters with the
 hyperdimensional space are intimidating. He distinguished the authentic

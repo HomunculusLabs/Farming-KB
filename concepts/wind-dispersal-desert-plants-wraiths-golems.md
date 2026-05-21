@@ -45,7 +45,7 @@ Brush fences can be buried by windblown drift and need to be vertically extended
 These wind-dispersed species are among the **first colonisers** of severely degraded land. Their ecological roles include:
 
 - **Soil stabilisation**: Preventing further erosion on bare, scalded, or disturbed ground
-- **Seed trapping**: Creating microenvironments where other species' seeds can accumulate and germinate
+- **Seed trapping**: Creating microenvironments where other species" seeds can accumulate and germinate
 - **Moisture retention**: Their presence shades soil surfaces and reduces evaporation
 - **Organic matter contribution**: As plants die and decompose in place, they add organic matter to depleted soils
 - **Nurse plant function**: Providing shelter for the establishment of more palatable or productive species beneath their canopies

@@ -7,7 +7,7 @@ tags:
 ## Overview
 Beyond [[query-how-do-plants-use-chemical-signals-to-defend-against-insects]] (analogous to smell), respond to mechanical
 stimulation (analogous to touch), and may even perceive sound vibrations.
-Daniel Chamovitz's research, detailed in *What a Plant Knows*, reveals that
+Daniel Chamovitz"s research, detailed in *What a Plant Knows*, reveals that
 these sensory modalities, while fundamentally different from animal senses in
 their mechanisms, serve analogous ecological functions: helping plants locate
 resources, avoid danger, and communicate with other organisms in their

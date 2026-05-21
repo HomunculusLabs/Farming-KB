@@ -77,7 +77,7 @@ Almost equally current is the similarly antique belief that a poisonous fungus i
 
 ### Origins of the Belief
 
-The origin likely connects with the idea held by many ancient authors that fungi have a natural affinity for poisonous substances and readily absorb them. Specimens which grew near serpent's holes, rusty nails, rotten rags, or even on trees bearing noxious fruits, were thought to be rendered harmful through imbibing deleterious substances and vapours. A poisonous fungus when cooked would apparently release these, which were attracted to the silver and discoloured it.
+The origin likely connects with the idea held by many ancient authors that fungi have a natural affinity for poisonous substances and readily absorb them. Specimens which grew near serpent"s holes, rusty nails, rotten rags, or even on trees bearing noxious fruits, were thought to be rendered harmful through imbibing deleterious substances and vapours. A poisonous fungus when cooked would apparently release these, which were attracted to the silver and discoloured it.
 
 ### Surviving Practices
 

@@ -11,7 +11,7 @@ tags: [psilocybin]
 
 ## Psilocybin Potency and Alkaloid Variations
 
-One of Jochen Gartz's most significant contributions to mycological science
+One of Jochen Gartz"s most significant contributions to mycological science
 is his systematic analysis of the alkaloid content of psychoactive
 mushrooms from around the world. Through extensive chemical testing, Gartz
 revealed remarkable variations in potency -- both between species and

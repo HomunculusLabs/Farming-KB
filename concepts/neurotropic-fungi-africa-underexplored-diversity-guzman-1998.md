@@ -54,7 +54,7 @@ ancient lineages.
 
 The disjunct distributions of some neurotropic species — found in both
 South America and Southeast Asia but absent from Africa — may reflect
-either genuine absence or simply inadequate sampling. Horak's (1983)
+either genuine absence or simply inadequate sampling. Horak"s (1983)
 observations on South Pacific agaric biogeography showed that Southeastern
 Asian and South American species are often closely related, but the
 African component of these relationships remains almost entirely unknown.

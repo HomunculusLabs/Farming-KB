@@ -42,7 +42,7 @@ blood red — all perfectly esculent. The deadly *[[amanita]]* remains the pures
 white throughout. The nearest edible relative of the *Amanita* is distinguished
 by its gills turning pink or red when cooked — a positive safety indicator.
 
-## Palmer's Testing Method
+## Palmer"s Testing Method
 
 Palmer developed a cautious, progressive method for testing unknown species:
 

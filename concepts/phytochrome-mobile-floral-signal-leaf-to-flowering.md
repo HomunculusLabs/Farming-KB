@@ -13,7 +13,7 @@ of a mobile floral signal, later identified as the protein florigen.
 
 ## The Locality Surprise
 
-Darwin's phototropism experiments established that the shoot tip perceives
+Darwin"s phototropism experiments established that the shoot tip perceives
 directional light and signals the stem to bend. It would be natural to assume
 that the same tip-based system mediates photoperiodic flowering. However,
 experiments demonstrated that this is not the case.
@@ -72,7 +72,7 @@ locally through asymmetric auxin redistribution. Photoperiodism uses red/far-red
 photoreceptors (phytochromes) distributed throughout the leaves to detect day
 length, with the response occurring remotely through a protein signal that travels
 through the vascular system. Different stimuli, different receptors, different
-locations, different signaling mechanisms — yet both systems serve the plant's
+locations, different signaling mechanisms — yet both systems serve the plant"s
 need to optimize its light environment for growth and reproduction.
 
 ## Agricultural Relevance

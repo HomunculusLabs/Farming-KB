@@ -11,7 +11,7 @@ type: concept
 
 ## The Foundation: Understanding Root Systems
 
-Steve Solomon's spacing recommendations are based on a detailed understanding of vegetable root systems, drawing heavily on the classic 1927 study "Root Development of Vegetable Crops" by Weaver and Bruner. This work excavated and mapped the root systems of dozens of vegetable species, revealing that the roots of garden vegetables extend far beyond what most gardeners imagine.
+Steve Solomon"s spacing recommendations are based on a detailed understanding of vegetable root systems, drawing heavily on the classic 1927 study "Root Development of Vegetable Crops" by Weaver and Bruner. This work excavated and mapped the root systems of dozens of vegetable species, revealing that the roots of garden vegetables extend far beyond what most gardeners imagine.
 
 ## Key Principle: Roots Need Space
 
@@ -41,7 +41,7 @@ Solomon notes that modern breeding for compact, uniformly sized vegetables (espe
 1. **Give each plant enough soil volume** based on its root system size
 2. **Wider spacing in dry conditions** -- plants need more soil volume to find enough moisture
 3. **Deeper soil preparation helps** -- loosened soil allows roots to penetrate deeper
-4. **Don't over-fertilize the top layer** -- this encourages shallow rooting; instead, place fertilizer where deep roots will find it
+4. **Don"t over-fertilize the top layer** -- this encourages shallow rooting; instead, place fertilizer where deep roots will find it
 5. **Avoid compaction** -- roots cannot penetrate compacted soil layers
 6. **Minimize transplanting** when possible -- a transplanted plant's root system is a shadow of what a direct-seeded plant develops
 

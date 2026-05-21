@@ -67,7 +67,7 @@ Successful morel cultivation depends heavily on the **local strain**. Unlike exc
 2. **Make a conical incision** about 2 inches into the soil around each morel, keeping the fruitbody and attached soil plug intact
 3. **Separate the fruitbody** from the soil plug and place each sample into a labeled waxed-paper sandwich bag (date, location, sample number)
 4. **Record environmental data**: temperature, soil pH, distance and orientation from neighboring trees, tree species and size, understory vegetation, proximity to water, wildflower blooms
-5. **Cool but don't freeze** — place samples in a cooler with ice packs; freezing damages fruitbody tissue
+5. **Cool but don"t freeze** — place samples in a cooler with ice packs; freezing damages fruitbody tissue
 6. **Store fruitbodies under refrigeration** until culturing; drying completely can also work for both sterile and nonsterile spore germinations
 7. **Refrigerate or freeze soil samples** to preserve the [[cannabis-cultivar-microbial-community-effects]]
 

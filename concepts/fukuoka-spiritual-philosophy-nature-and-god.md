@@ -5,7 +5,7 @@ tags: [spirituality, philosophy, nature, god, ecology, zen]
 created: 2026-05-11
 ---
 
-## Fukuoka's Spiritual Philosophy: Nature, God, and Man
+## Fukuoka"s Spiritual Philosophy: Nature, God, and Man
 
 ## Overview
 
@@ -33,11 +33,11 @@ unawares, failed to hear the proper response.
 
 Fukuoka's transformation came during a period of intense personal crisis in his youth. He had been working as a plant pathologist at a customs laboratory in Yokohama, pursuing [[four-principles-of-natural-farming]].
 
-> "Natural farming is nothing less than a true way of human life that revealed itself suddenly to me when I learned that nature is always a total perfectionist, that it is the image of a God who faithfully practices absolute truth, and that man cannot survive away from nature's embrace."
+> "Natural farming is nothing less than a true way of human life that revealed itself suddenly to me when I learned that nature is always a total perfectionist, that it is the image of a God who faithfully practices absolute truth, and that man cannot survive away from nature"s embrace."
 
 ## Nature as Perfectionist
 
-Central to Fukuoka's spirituality is the conviction that nature is always a total perfectionist. Nature does not make mistakes; it operates according to absolute truth, and every process — from the germination of a seed to the decay of a fallen tree — serves a purpose within the whole. Human beings, with their fragmentary understanding, perceive imperfection only because they cannot see the larger pattern.
+Central to Fukuoka"s spirituality is the conviction that nature is always a total perfectionist. Nature does not make mistakes; it operates according to absolute truth, and every process — from the germination of a seed to the decay of a fallen tree — serves a purpose within the whole. Human beings, with their fragmentary understanding, perceive imperfection only because they cannot see the larger pattern.
 
 The natural world appears wasteful to human eyes — millions of acacia seeds fall, and only one or two survive. But this apparent waste is not waste in nature's eyes. The survival of just a few seedlings out of millions is part of the natural ecological process. Nature has left an appropriate number of descendants at the most suitable time.
 
@@ -45,9 +45,9 @@ The natural world appears wasteful to human eyes — millions of acacia seeds fa
 
 One of Fukuoka's most profound philosophical concepts is the "discontinuous continuum" (不連続の連続). This idea describes the nature of life and existence:
 
-> "Life is both a discontinuous continuum and a continuous discontinuum. One must abandon oneself each day. Even though every day is a new beginning and is followed by a tomorrow, there is no tomorrow for this 'me.'"
+> "Life is both a discontinuous continuum and a continuous discontinuum. One must abandon oneself each day. Even though every day is a new beginning and is followed by a tomorrow, there is no tomorrow for this "me.'"
 
-The rice plant withers and dies each year, but the grains of rice go on living. Life is handed down from one generation to the next, constantly born anew. Today's life ends today. The "me" of today dies today. To be alive means to live this day to the fullest — that is the only way to live.
+The rice plant withers and dies each year, but the grains of rice go on living. Life is handed down from one generation to the next, constantly born anew. Today"s life ends today. The "me" of today dies today. To be alive means to live this day to the fullest — that is the only way to live.
 
 This concept extends [[fukuoka-flavor-philosophy-spiritual-alienation-food]], the loss of natural food and natural life — are the natural result. The path back is not through prayer or technology but through restoring a right relationship with nature.
 
@@ -61,7 +61,7 @@ The darkness of the laboratory is a metaphor for the darkness of the intellect �
 
 ## The Machine Culture Is Doomed
 
-Fukuoka's spiritual critique extends to the entire edifice of modern
+Fukuoka"s spiritual critique extends to the entire edifice of modern
 civilization, which he characterizes as a "machine culture." The
 machine culture, built on the assumption that nature exists to be
 conquered and exploited, is fundamentally unsustainable because it

@@ -22,7 +22,7 @@ dry [[spore]] powder.
 - **Class:** Agaricomycetes
 - **Order:** Agaricales
 - **Family:** Agaricaceae
-- **Genus:** Calvatia (modern) / Lycoperdon (historical, Palmer's usage)
+- **Genus:** Calvatia (modern) / Lycoperdon (historical, Palmer"s usage)
 - **Species:** Calvatia gigantea
 
 ## Key Facts

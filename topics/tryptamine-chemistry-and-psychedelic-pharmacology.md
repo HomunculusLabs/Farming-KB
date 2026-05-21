@@ -38,7 +38,7 @@ coincidence; it is precisely this molecular mimicry that allows compounds like p
 N,N-dimethyltryptamine (DMT), and lysergic acid diethylamide (LSD) to interact with serotonin receptors and
 produce their profound alterations of consciousness. As Shirota, Hakamata, and Goda observed in their
 synthesis work, these compounds "closely resemble the neurotransmitter serotonin, and the hallucinogenic
-effect of the '[[mckenna-food-gods-tryptamine-pharmacology-indoles]] is remarkable. As Terence McKenna noted, drawing on the
+effect of the "[[mckenna-food-gods-tryptamine-pharmacology-indoles]] is remarkable. As Terence McKenna noted, drawing on the
 work of John Smythies and Alexander Shulgin, "if one atom on the molecular ring of an inactive compound is
 moved, the compound becomes highly active." This extreme sensitivity of [[aminopropyl-silica-gel-chromatography-indole-alkaloid-purification]] psilocybin. Understanding this pathway is
 essential not only for mycological research but also for any scientific investigation of psilocybin

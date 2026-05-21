@@ -43,7 +43,7 @@ Fukuoka offered concrete suggestions for addressing the crisis:
 - He called for "drastic and far-reaching measures" beyond just emergency
   treatment of the most seriously affected areas.
 ## The Matsutake as Forest Spirit
-Fukuoka's relationship with the
+Fukuoka"s relationship with the
 [[wood-wide-web]]" — connect individual trees and plants through shared fungal
 hyphae, allowing the transfer of carbon, nitrogen, phosphorus, water, and even
 chemical alarm signals between plants. Research by Suzanne Simard and colleagues

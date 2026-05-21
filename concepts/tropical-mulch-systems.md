@@ -6,7 +6,7 @@ type: concept
 
 ## Tropical Mulch Systems
 
-Tropical mulch systems are foundational to [[permaculture-design]] in humid and sub-humid tropics, where rapid decomposition, leaching rains, and often nutrient-poor soils demand constant organic matter replenishment. [[bill-mollison]]'s *Permaculture: A Designers' Manual* presents mulching not as a simple soil covering technique, but as an integrated system for building humus, modifying soil chemistry, suppressing weeds, and establishing productive food forests on degraded land.
+Tropical mulch systems are foundational to [[permaculture-design]] in humid and sub-humid tropics, where rapid decomposition, leaching rains, and often nutrient-poor soils demand constant organic matter replenishment. [[bill-mollison]]"s *Permaculture: A Designers' Manual* presents mulching not as a simple soil covering technique, but as an integrated system for building humus, modifying soil chemistry, suppressing weeds, and establishing productive food forests on degraded land.
 
 ## Why Mulch Is Critical in the Tropics
 
@@ -108,7 +108,7 @@ Mollison references experimental data (Table 10.1) showing differential crop res
 
 | Crop | Best Mulch Response |
 |---|-------------------|
-| Maize | [[permaculture-plants-comfrey-chop-and-drop|Cassava]] | Legume [[permaculture-resources-classification|Mollison]]'s recommended approach for establishing mulch-based tropical systems:
+| Maize | [[permaculture-plants-comfrey-chop-and-drop|Cassava]] | Legume [[permaculture-resources-classification|Mollison]]"s recommended approach for establishing mulch-based tropical systems:
 
 1. **Start small**: Begin with a manageable nucleus area rather than attempting large-scale mulching all at once.
 2. **Dense planting**: Plant the nucleus area densely to maximize biomass production and create a self-mulching microclimate.

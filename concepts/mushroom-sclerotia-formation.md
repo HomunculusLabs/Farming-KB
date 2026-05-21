@@ -6,7 +6,7 @@ tags:
 
 Sclerotia (singular: sclerotium) are compact, hardened masses of mycelium that
 serve as survival structures for certain fungi. In cultivation, they are
-sometimes called "truffles" or "philosopher's stones." The ability to produce
+sometimes called "truffles" or "philosopher"s stones." The ability to produce
 sclerotia is relatively rare among mushrooms and is of particular interest in
 the genera Psilocybe and Panaeolus.
 

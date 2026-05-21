@@ -8,7 +8,7 @@ tags: [person, historical, agriculture, political-philosophy]
 ## Peter Kropotkin
 
 ## Description
-Prince Peter Kropotkin (1842–1921) was a Russian geographer, zoologist, and anarchist philosopher whose observations on mutual aid in nature and decentralized agriculture influenced generations of organic farmers. His 1899 book *Fields, Factories and Workshops* documented intensive [[mycorrhizal-agricultural-practices]] including the [[coleman-parisian-maraicher-system]]. Eliot Coleman quotes Kropotkin's observation that Parisian growers "make the soil themselves" to contextualize his own experience of transforming poor land into productive soil.
+Prince Peter Kropotkin (1842–1921) was a Russian geographer, zoologist, and anarchist philosopher whose observations on mutual aid in nature and decentralized agriculture influenced generations of organic farmers. His 1899 book *Fields, Factories and Workshops* documented intensive [[mycorrhizal-agricultural-practices]] including the [[coleman-parisian-maraicher-system]]. Eliot Coleman quotes Kropotkin"s observation that Parisian growers "make the soil themselves" to contextualize his own experience of transforming poor land into productive soil.
 
 ## Classification
 - **Category**: Historical figure / Philosopher / Scientist / Author

@@ -8,7 +8,7 @@ tags:
 
 In his 1983 Esalen lecture "[[tryptamine]] [[shulgin-gamma-dom-positional-isomerism]] of a halogen substituent on a benzene ring.
 
-Shulgin's systematic exploration of phenethylamines and tryptamines, documented in PiHKAL and TiHKAL, provided exhaustive evidence for this phenomenon.
+Shulgin"s systematic exploration of phenethylamines and tryptamines, documented in PiHKAL and TiHKAL, provided exhaustive evidence for this phenomenon.
 
 Compounds separated by trivial structural differences — sometimes differing only in the position of a single substituent on an aromatic ring — could produce wildly different qualitative experiences, different potencies spanning several [[event-classification-and-orders-of-magnitude]], or no activity whatsoever.
 
@@ -22,7 +22,7 @@ Instead, what is observed is a relationship that suggests the quantum mechanical
 
 His work on the transmethylation hypothesis of schizophrenia proposed that endogenous hallucinogens, produced through aberrant methyltransferase activity, could be responsible for psychotic symptoms.
 
-This research program, which sought to identify a chemical basis for naturally occurring hallucinatory states, directly informed McKenna's thinking about the relationship between molecular [[serotonin-receptor-interference-psychedelic-mechanism]], the conformational change that follows, the cascade of intracellular signaling events — all of these involve quantum mechanical phenomena at their most fundamental level.
+This research program, which sought to identify a chemical basis for naturally occurring hallucinatory states, directly informed McKenna"s thinking about the relationship between molecular [[serotonin-receptor-interference-psychedelic-mechanism]], the conformational change that follows, the cascade of intracellular signaling events — all of these involve quantum mechanical phenomena at their most fundamental level.
 
 Electron cloud interactions, orbital overlap, hydrogen bonding, van der Waals forces: these are inherently quantum mechanical processes, and it is through these processes that the molecule interfaces with the neural substrate of consciousness.
 

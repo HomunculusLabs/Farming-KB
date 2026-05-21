@@ -1,5 +1,5 @@
 ---
-title: "Valerian vs St. John's Wort"
+title: "Valerian vs St. John"s Wort"
 tags: [comparison, nervine-herbs, medicinal-plants, sleep-herbs, antidepressant-herbs]
 date: 2026-05-09
 updated: 2026-05-09

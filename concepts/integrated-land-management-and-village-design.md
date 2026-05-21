@@ -45,7 +45,7 @@ Based on traditional and modern villages, a complete humid tropics village compl
 
 ## The Ohana System
 
-The Hawaiian ohana system illustrates integrated land management on a volcanic island's radial valley. Key elements include: "taboo" forests on upper slopes (Zone A), stream diversion to ridges and high terraces serving the main village (Zone B), sacrificial forests of palm to modify hurricanes (Zone C), feet fish ponds that retain leached nutrients and grow mullet and shellfish (Zone D), and reef systems modified with coral blocks to shelter crayfish and fish (Zone E). Each zone supports and is supported by the others, creating a resilient integrated system.
+The Hawaiian ohana system illustrates integrated land management on a volcanic island"s radial valley. Key elements include: "taboo" forests on upper slopes (Zone A), stream diversion to ridges and high terraces serving the main village (Zone B), sacrificial forests of palm to modify hurricanes (Zone C), feet fish ponds that retain leached nutrients and grow mullet and shellfish (Zone D), and reef systems modified with coral blocks to shelter crayfish and fish (Zone E). Each zone supports and is supported by the others, creating a resilient integrated system.
 
 ## Key Principles
 

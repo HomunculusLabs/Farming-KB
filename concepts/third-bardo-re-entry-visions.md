@@ -14,13 +14,13 @@ The manual identifies seven characteristic signs that one has entered the Third 
 
 1. **Feelings of supernormal perception and power.** The voyager may experience clairvoyance, telepathy, or extraordinary feats of bodily control. The Bardo-consciousness encompasses future elements as well as past, which the text suggests may account for heightened perceptiveness. The manual warns against fascination with these powers, noting that in yogic practice they are considered impediments to higher spiritual development until the selfish game-involved nature is mastered.
 
-2. **Panic, torture, and persecution.** Unlike the wrathful visions of the Second Bardo, these involve the person's own "skin-encapsulated ego." Mind-controlling figures, demons, or (for Westerners) impersonal grinding machinery and depersonalizing devices may be hallucinated. Visions of world destruction, engulfing destructive powers, and sounds of roaring fire, fierce winds, and mocking laughter may arise. The impulse is to flee in panic — but recognition is all that is necessary.
+2. **Panic, torture, and persecution.** Unlike the wrathful visions of the Second Bardo, these involve the person"s own "skin-encapsulated ego." Mind-controlling figures, demons, or (for Westerners) impersonal grinding machinery and depersonalizing devices may be hallucinated. Visions of world destruction, engulfing destructive powers, and sounds of roaring fire, fierce winds, and mocking laughter may arise. The impulse is to flee in panic — but recognition is all that is necessary.
 
 3. **Restless, unhappy wandering.** The person feels driven by "winds of karma" or shunted around mechanically, with brief respites at familiar landmarks. A desperate desire may arise to contact family, doctors, or friends to "pull out" of the state. This desire should be resisted; the guide and fellow voyagers provide the best assistance.
 
 4. **Feeling stupid and full of incoherent thoughts.** Everyone else seems perfectly knowing and wise, leading to feelings of guilt and inadequacy. In extreme form this leads to the [[judgment-vision]]. This stupidity is the natural result of the limited perspective under which consciousness operates in this Bardo. Calm, relaxed acceptance enables liberation.
 
-5. **Feeling dead, cut off from life.** The person may jolt awake from a trance-like swoon and experience self and others as lifeless robots performing meaningless gestures. Such fantasies are the ego's attempts to regain control — in true ego-death, such complaints are never uttered.
+5. **Feeling dead, cut off from life.** The person may jolt awake from a trance-like swoon and experience self and others as lifeless robots performing meaningless gestures. Such fantasies are the ego"s attempts to regain control — in true ego-death, such complaints are never uttered.
 
 6. **Feeling oppressed or crushed.** One may feel squeezed into cracks and crevices amidst rocks, or encompassed by a metallic net or cage. This symbolizes the attempt to prematurely enter an ego-robot unfitting for expanded consciousness.
 
@@ -78,7 +78,7 @@ The text offers a radical psychological reading:
 - Different parts of the ego come forward: some offer excuses, others ascribe baser motives, still others seek pardon.
 - The mirror reflects clearly; lying and subterfuge are of no avail.
 
-Tormenting figures — the "Executive Furies of the Robot Lord of Death" — may be internal or projected onto people present. These are one's own guilt machine, one's own hallucinations. The key teaching: **personality is a collection of thought-patterns and void.** It cannot be harmed or injured:
+Tormenting figures — the "Executive Furies of the Robot Lord of Death" — may be internal or projected onto people present. These are one"s own guilt machine, one's own hallucinations. The key teaching: **personality is a collection of thought-patterns and void.** It cannot be harmed or injured:
 
 > "Swords cannot pierce it, fire cannot burn it."
 
@@ -92,7 +92,7 @@ The judgment vision instructions lead into the fundamental wisdom teachings of t
 | **Sambhoga-Kaya** | Divine Body of Perfect Endowment | Reflected or Modified Wisdom | The five Dhyani Buddhas; unbearable intensity of Voidness and Brightness inseparable |
 | **Nirmana-Kaya** | Divine Body of Incarnation | Practical or Incarnate Wisdom | Human Buddhas; enlightened beings reborn with full consciousness to work for the betterment of others |
 
-Reality is "nothing but a voidness (Dharma-Kaya)" — but not the voidness of nothingness. It is a voidness before which consciousness shines more clearly and lucidly. The Tri-Kaya corresponds esoterically to one's own divinity, this manual, and one's companions.
+Reality is "nothing but a voidness (Dharma-Kaya)" — but not the voidness of nothingness. It is a voidness before which consciousness shines more clearly and lucidly. The Tri-Kaya corresponds esoterically to one"s own divinity, this manual, and one's companions.
 
 ## Sexual Visions
 

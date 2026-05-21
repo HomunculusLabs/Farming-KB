@@ -28,7 +28,7 @@ Unlike the [[psilocybin-mushrooms]], *A. muscaria* does not contain tryptamine a
 
 - **[[ibotenic-acid]]**: A glutamate receptor agonist that is present in the fresh mushroom. It is responsible for many of the less desirable effects (nausea, confusion, agitation).
 - **Muscimol**: The primary psychoactive compound, formed by the decarboxylation of ibotenic acid. Muscimol is a GABA-A receptor agonist, producing sedative, dissociative, and hallucinogenic effects qualitatively different from psilocybin or LSD.
-- **Muscarine**: Present in very small amounts and not responsible for the mushroom's psychoactive effects (contrary to historical assumptions).
+- **Muscarine**: Present in very small amounts and not responsible for the mushroom"s psychoactive effects (contrary to historical assumptions).
 
 ## Siberian Use
 
@@ -65,7 +65,7 @@ A distinctive feature of Siberian *A. muscaria* use is the practice of drinking 
 - The urine could be passed through multiple individuals, with each successive drinker receiving an increasingly refined product.
 - This practice was documented by multiple European travelers and ethnographers in the 18th and 19th centuries.
 
-## Wasson's Soma Hypothesis
+## Wasson"s Soma Hypothesis
 
 [[gordon-wasson]] proposed in *Soma: Divine Mushroom of Immortality* (1968) that the Vedic Soma was *Amanita muscaria*. This hypothesis, while influential in popular culture, has been challenged:
 

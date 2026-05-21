@@ -25,7 +25,7 @@ sailed himself. His genius lay in recognizing the economic potential of
 the Atlantic islands and in creating the institutional framework for
 their exploitation.
 
-Plantings of sugar were made in Portugal's other eastern Atlantic
+Plantings of sugar were made in Portugal"s other eastern Atlantic
 holdings — the Azores, the Cape Verde islands, São Tomé — more than
 sixty years before there was any European contact with the New World.
 The model developed on these islands would be exported, with horrific
@@ -47,7 +47,7 @@ would soon look elsewhere for a more "renewable" source of labor.
 
 ## The Beginning of African Enslavement
 
-In 1443, one of Prince Henry's returning captains brought news of a
+In 1443, one of Prince Henry"s returning captains brought news of a
 capture at sea of a crew of black Arabs and Muslims. These men, who
 were of mixed Arab-Negro parentage, claimed that they were of a proud
 race and unfit to be bondsmen. They argued that there were in the

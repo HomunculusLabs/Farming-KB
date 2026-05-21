@@ -36,7 +36,7 @@ These organisms exist in complex, dynamic relationships characterized by competi
 
 ## Paul Stamets on the Rhizosphere
 
-Paul Stamets has been among the most vocal advocates for recognizing the rhizosphere's importance:
+Paul Stamets has been among the most vocal advocates for recognizing the rhizosphere"s importance:
 
 > "Fungi serve as primary healing agents for land and ecosystems. Mycelia are the great soil builders of our planet: they create habitats. The complexity of the fungal kingdom gives soils the ability to respond to catastrophes."
 
@@ -67,7 +67,7 @@ Mycelium binds soil particles into a densely matted network. When myceliated woo
 
 ## Fungi in Mass Extinction Recovery
 
-The fossil record provides dramatic evidence of fungi's role in ecosystem recovery after catastrophic events:
+The fossil record provides dramatic evidence of fungi"s role in ecosystem recovery after catastrophic events:
 
 ### The K-T Extinction
 After the Chicxulub meteor impact 66 million years ago, paleontologists Vivi Vajda and Stephen McLaughlin (2004) discovered that the sediment layer immediately above the iridium deposit was devoid of all plant life but rich in fungal hyphae and spores. This "fungal spike" indicated that fungi became the dominant terrestrial life form, thriving on the massive quantities of dead plant material. The layers above showed orderly succession of plant life—fungi literally prepared the ground for ecosystem recovery. The popular press headline read: "A World Ruled by Fungi."

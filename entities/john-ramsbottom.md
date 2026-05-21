@@ -42,7 +42,7 @@ Ramsbottom classified poisonous fungi into three categories by mechanism:
 
 ### 1. Cell-Degenerating Toxins (Long Incubation, Often Fatal)
 - **Amanita phalloides** (Death Cap) -- responsible for 90%+ of recorded deaths; 50-90% fatality rate
-- **Amanita verna** (Fools' Mushroom) -- pure white, more dangerous due to resemblance to edible mushrooms
+- **Amanita verna** (Fools" Mushroom) -- pure white, more dangerous due to resemblance to edible mushrooms
 - **Amanita virosa** (Destroying Angel) -- conical cap, floccosely scaly stem, rare in Britain
 - **Lepiota helveola** (Poisonous Lepiota) -- mild Amanita phalloides-type symptoms, much less dangerous
 
@@ -62,15 +62,15 @@ His most important contribution was systematically demolishing folk rules. See [
 - **"Silver spoon turns black"**: Silver blackens from sulphides; no fungus affects silver this way.
 - **"Bright colors = poisonous"**: Color distinguishes species, not toxicity.
 - **"Color change when cut = poisonous"**: Chromogens + oxidizing enzymes (lactase, tyrosinase) cause color change; unrelated to toxicity.
-- **"Animals won't eat poisonous fungi"**: Slugs thrive on deadly Amanitas. Rabbits are immune due to stomach chemistry.
+- **"Animals won"t eat poisonous fungi"**: Slugs thrive on deadly Amanitas. Rabbits are immune due to stomach chemistry.
 - **"Poisonous fungi grow in woods"**: Habitat is irrelevant to toxicity.
 - **"Taste reveals poison"**: None of the truly dangerous fungi have sharp taste.
 
 ## Historical Treatment Methods
 
 Ramsbottom documented and assessed historical approaches:
-- **Gerard's method (1851)**: Macerate in water + vinegar + salt for 2 hours, wash, boil. "It is believed that he was finally the victim of his experiments."
-- **Fabre's blanching** (Serignan): Boil in salted water, rinse in cold water. Unnecessary for known-edible species but makes fungi more digestible.
+- **Gerard"s method (1851)**: Macerate in water + vinegar + salt for 2 hours, wash, boil. "It is believed that he was finally the victim of his experiments."
+- **Fabre"s blanching** (Serignan): Boil in salted water, rinse in cold water. Unnecessary for known-edible species but makes fungi more digestible.
 - **Antiphalloidian serum** (Institut Pasteur): Produced by immunizing sheep; good results when injected soon after ingestion (at least 40cc, hypodermic or intravenous).
 - **Intravenous glucose** (20-25%): German treatment for hypoglycaemia caused by liver damage.
 - **Salt solution** (20% oral or IV, 20cc doses): French treatment with reported success.

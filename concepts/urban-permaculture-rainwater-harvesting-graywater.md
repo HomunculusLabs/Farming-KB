@@ -14,7 +14,7 @@ For urban gardeners, 55-gallon drums are the most accessible entry point into ra
 
 The larger water storage system is a 1200-gallon ferrocement cistern collecting rainwater off the main roof. It is an oval, ferrocement septic tank elevated two feet above the highest point of the property with earth and rock. This elevation allows watering by gravity -- no pumps, no maintenance, no moving parts. This [gravity-fed approach is central to permaculture water design.
 
-The cistern is strategically located along the fence line next to a neighbor's rental cottage, where it serves multiple functions simultaneously:
+The cistern is strategically located along the fence line next to a neighbor"s rental cottage, where it serves multiple functions simultaneously:
 
 - **Fire break** -- a solid mass of water and earth between properties
 - **Privacy screen** -- blocks views between houses

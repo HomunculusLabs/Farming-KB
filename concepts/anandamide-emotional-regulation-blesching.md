@@ -8,7 +8,7 @@ source: ["uwe-blesching-the-cannabis-health-index.md"]
 
 ## Anandamide and Emotional Regulation
 
-Anandamide (N-arachidonoylethanolamine, abbreviated AEA) is an endogenous cannabinoid neurotransmitter first isolated in 1992 by Raphael Mechoulam's research group. Often called the "bliss molecule" — from the Sanskrit word *ananda* meaning "joy" or "bliss" — anandamide plays a central role in the [[endocannabinoid-dopamine-regulation-adhd-parkinsons-blesching]] that functions as a partial agonist at both CB1 and CB2 [[blesching-dark-night-of-soul-meditation-adverse-effects-mind-body]] are predominantly mediated through CB1 in the central nervous system
+Anandamide (N-arachidonoylethanolamine, abbreviated AEA) is an endogenous cannabinoid neurotransmitter first isolated in 1992 by Raphael Mechoulam"s research group. Often called the "bliss molecule" — from the Sanskrit word *ananda* meaning "joy" or "bliss" — anandamide plays a central role in the [[endocannabinoid-dopamine-regulation-adhd-parkinsons-blesching]] that functions as a partial agonist at both CB1 and CB2 [[blesching-dark-night-of-soul-meditation-adverse-effects-mind-body]] are predominantly mediated through CB1 in the central nervous system
 - **Transport**: Moves across cell membranes via a putative anandamide transporter, though the existence of a specific transport protein remains debated
 
 ## Anandamide as the "I Am at Ease" Molecule
@@ -18,7 +18,7 @@ Blesching categorizes anandamide among the molecules primarily associated [[emcd
 
 ## Molecules and Emotions: A Two-Way Street
 
-A central thesis in Blesching's work is that the relationship between neurotransmitters and emotional states is bidirectional. This means that:
+A central thesis in Blesching"s work is that the relationship between neurotransmitters and emotional states is bidirectional. This means that:
 
 1. **Molecules influence emotions**: Anandamide release can shift emotional states toward calm, contentment, and openness
 2. **Emotions influence molecules**: Emotional experiences, particularly sustained states like chronic stress or chronic gratitude, alter the production, receptor density, and degradation patterns of anandamide

@@ -9,7 +9,7 @@ sources: []
 
 ## What Is Jerky
 
-Jerky is lean meat that has been trimmed of fat, cut into strips, marinated or seasoned, and dried to prevent spoilage. The word "jerky" derives from the Quechua word "ch'arki," meaning dried, salted meat. Jerky has been a critical preservation method for millennia — it removes moisture (the medium bacteria need to grow) and uses salt and other ingredients to inhibit microbial growth.
+Jerky is lean meat that has been trimmed of fat, cut into strips, marinated or seasoned, and dried to prevent spoilage. The word "jerky" derives from the Quechua word "ch"arki," meaning dried, salted meat. Jerky has been a critical preservation method for millennia — it removes moisture (the medium bacteria need to grow) and uses salt and other ingredients to inhibit microbial growth.
 
 Homemade jerky allows full control over ingredients, flavor, and quality, avoiding the preservatives, excess sugar, and high sodium found in many commercial brands.
 

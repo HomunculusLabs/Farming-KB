@@ -6,7 +6,7 @@ topics: [cannabis-therapy, emotional-processing, mind-body-medicine, psychothera
 
 ## Cannabis-Assisted Emotional Processing
 
-Blesching's framework for cannabis-assisted emotional healing distinguishes
+Blesching"s framework for cannabis-assisted emotional healing distinguishes
 between two fundamental categories of emotional experience: expansive emotions
 that promote health and cellular function, and constricting emotions that
 degrade both. Cannabis serves as a tool for identifying, experiencing, and

@@ -1,5 +1,5 @@
 ---
-title: "What Are the Health Benefits of Lion's Mane Mushroom?"
+title: "What Are the Health Benefits of Lion"s Mane Mushroom?"
 created: 2026-04-28
 tags: [query, mushrooms, medicinal, health, nootropics]
 date: 2026-04-25

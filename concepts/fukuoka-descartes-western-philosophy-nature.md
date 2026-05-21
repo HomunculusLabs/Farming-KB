@@ -11,7 +11,7 @@ tags: [fukuoka, philosophy, descartes, western-philosophy, nature, anthropocentr
 
 In *The Road Back to Nature*, [[fukuoka-spiritual-philosophical-foundation]] of the Western attitude toward nature
 that has led to environmental destruction. He contrasts this anthropocentric worldview with
-Eastern philosophies of unity between humanity and nature, arguing that the West's error was
+Eastern philosophies of unity between humanity and nature, arguing that the West"s error was
 not merely technological but fundamentally philosophical.
 
 ## The Cartesian Worldview
@@ -55,7 +55,7 @@ They had started to notice the fallacies of Western philosophy.
 They could see environmental degradation, resource depletion, and spiritual emptiness but did
 not know which direction to turn.
 
-They said: "We see that something's wrong, but we have no idea which way to go from here."
+They said: "We see that something"s wrong, but we have no idea which way to go from here."
 
 This crisis of confidence was not merely about specific environmental problems but about the
 entire philosophical framework that had produced those problems.

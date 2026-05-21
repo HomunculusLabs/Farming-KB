@@ -7,9 +7,9 @@ type: concept
 ## Religion Born from Dependency
 
 In the introduction to *[[amanita-muscaria-in-eastern-religions]] share a common origin. As he writes: "No one religion
-in the ancient Near East can be studied in isolation. All stem from man's first
+in the ancient Near East can be studied in isolation. All stem from man"s first
 questioning about the origin of life and how to ensure his own survival." The
-fundamental experience underlying every religious tradition was humanity's dependence
+fundamental experience underlying every religious tradition was humanity"s dependence
 upon forces it could not control — weather, fertility, disease, death. "Out of this
 sense of dependency and frustration, religion was born."
 
@@ -18,7 +18,7 @@ sense of dependency and frustration, religion was born."
 The primary religious response was the fertility cult, a system of ritual practice
 based on a sexual metaphor for the natural world. Rain was understood as heavenly
 semen, the earth as the womb that receives it, and the sky itself as a vast penis —
-the source of nature's semen. The religious imperative was to stimulate the sky-god
+the source of nature"s semen. The religious imperative was to stimulate the sky-god
 into productive action through sexual means: singing, dancing, orgiastic displays,
 and the copulatory act, often performed in ritualized form by priests and priestesses.
 

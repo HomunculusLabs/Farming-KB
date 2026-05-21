@@ -18,7 +18,7 @@ Community finance encompasses the informal and formal economic structures that e
 ### Barter Systems
 Barter is common in rural and neighborhood areas where people know one another. At the household level, people exchange garden products, share labor, and exchange goods and services. Work groups of 3-5 people may form to build houses, create gardens, or do housework in round-robin patterns until all needs are met.
 
-### The Bendigo Home Builder's Club (Victoria, Australia)
+### The Bendigo Home Builder"s Club (Victoria, Australia)
 A group of 35 people building individual homes. Members pay $5/year (mainly for newsletter costs). Each member can be recipient or donor of labor. Units of exchange are hours of labor; all labor is considered equal. Standard labor exchange forms are legally binding. A Labour Organiser sorts out balance of payments.
 
 ### Community Barter Clubs

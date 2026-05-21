@@ -12,7 +12,7 @@ tags: [amanita-muscaria, fly-agaric, legal-alternative, ibotenic-acid, muscimol,
 Following the [[emcdda-hallucinogenic-mushroom-legal-prohibition-impact-uk-netherlands]] of psilocybin-containing mushrooms across
 several EU countries (2001–2006), retailers and smartshops began marketing
 **Amanita muscaria** (fly agaric) as a legal alternative hallucinogenic
-mushroom. The EMCDDA flagged this shift as concerning because Amanita's
+mushroom. The EMCDDA flagged this shift as concerning because Amanita"s
 chemistry, effects, and risk profile differ fundamentally from psilocybin
 mushrooms — and pose potentially greater health dangers.
 

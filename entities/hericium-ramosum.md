@@ -8,7 +8,7 @@ type: entity
 
 ## Description
 
-Hericium ramosum, commonly known as bear's head tooth fungus or bear's head, is an edible mushroom in the Hericiaceae family. It is one of several Hericium species prized for both culinary and medicinal properties. The species produces large, heavily branched fruitbodies covered with cascading white spines or teeth, creating a dramatic coral-like appearance. Along with H. coralloides, it is commonly referred to as "bear's head" to distinguish it from the more compact lion's mane ([[hericium-erinaceus]]). The flavor has been described as similar to crab or lobster. To enhance the lobster-like experience, pull the mushroom apart by hand into shreds and saute it in oil or butter with garlic. The species is primarily found on the eastern coastal plains of the United States.
+Hericium ramosum, commonly known as bear"s head tooth fungus or bear's head, is an edible mushroom in the Hericiaceae family. It is one of several Hericium species prized for both culinary and medicinal properties. The species produces large, heavily branched fruitbodies covered with cascading white spines or teeth, creating a dramatic coral-like appearance. Along with H. coralloides, it is commonly referred to as "bear"s head" to distinguish it from the more compact lion's mane ([[hericium-erinaceus]]). The flavor has been described as similar to crab or lobster. To enhance the lobster-like experience, pull the mushroom apart by hand into shreds and saute it in oil or butter with garlic. The species is primarily found on the eastern coastal plains of the United States.
 
 ## Classification
 

@@ -8,7 +8,7 @@ type: entity
 
 ## Description
 
-[[laws-of-thermodynamics]]: "The total energy of the universe is constant and the total entropy is increasing." This concise formulation provides the thermodynamic foundation for permaculture's core design strategy — catching and storing energy before it degrades into useless entropy.
+[[laws-of-thermodynamics]]: "The total energy of the universe is constant and the total entropy is increasing." This concise formulation provides the thermodynamic foundation for permaculture"s core design strategy — catching and storing energy before it degrades into useless entropy.
 
 ## Classification
 

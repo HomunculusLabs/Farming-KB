@@ -6,7 +6,7 @@ tags:
 
 ## Overview
 
-Mycelial networks represent one of the most remarkable and underappreciated biological systems on Earth. Described by mycologist Paul Stamets as "Earth's natural internet," these vast underground networks of fungal threads connect plants, trees, and microorganisms across entire ecosystems. The concept of the "Wood Wide Web" captures the idea that forests are not collections of isolated organisms but interconnected communication and resource-sharing networks mediated by fungi.
+Mycelial networks represent one of the most remarkable and underappreciated biological systems on Earth. Described by mycologist Paul Stamets as "Earth"s natural internet," these vast underground networks of fungal threads connect plants, trees, and microorganisms across entire ecosystems. The concept of the "Wood Wide Web" captures the idea that forests are not collections of isolated organisms but interconnected communication and resource-sharing networks mediated by fungi.
 
 ## Hyphal Anatomy and Branching
 

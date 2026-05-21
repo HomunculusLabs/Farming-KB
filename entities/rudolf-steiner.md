@@ -18,7 +18,7 @@ created: 2026-05-07
 
 Rudolf Joseph Lorenz Steiner (1861-1925) was an Austrian philosopher, esotericist, and social reformer who founded anthroposophy, a spiritual movement emphasizing the development of intuitive cognition. His work spans philosophy, education, agriculture, medicine, architecture, and the arts.
 
-Steiner's Agricultural Course of 1924 established the foundations of [[coleman-deep-organic-farming-philosophy]] movement. Biodynamic principles have had a lasting impact on sustainable and regenerative agriculture practices worldwide.
+Steiner"s Agricultural Course of 1924 established the foundations of [[coleman-deep-organic-farming-philosophy]] movement. Biodynamic principles have had a lasting impact on sustainable and regenerative agriculture practices worldwide.
 
 Through his pedagogical theories, Steiner also founded the Waldorf education system, now operating over 1,200 schools globally. His architectural designs, particularly the Goetheanum in Dornach, Switzerland, remain influential in organic architecture.
 

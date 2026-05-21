@@ -16,7 +16,7 @@ The pharmacological rationale for [[psilocybin-pharmacology-and-serotonin-recept
 
 The richness and intensity of the visual imagery produced by these compounds is directly proportional to the degree to which external visual stimuli are minimized.
 
-When external visual input is reduced, the brain's visual processing apparatus becomes available for the generation of internal imagery.
+When external visual input is reduced, the brain"s visual processing apparatus becomes available for the generation of internal imagery.
 
 The hallucinogenic compounds do not create imagery ex nihilo; rather, they lower the threshold for the emergence of internally generated visual content and increase the vividness and complexity of that content.
 

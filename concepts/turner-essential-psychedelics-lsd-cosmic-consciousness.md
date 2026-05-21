@@ -10,7 +10,7 @@ tags: [lsd, psychedelics]
 
 ## LSD Cosmic Consciousness
 
-Turner's chapter on LSD, subtitled "[[albert-hofmann]] of Sandoz Pharmaceutical
+Turner"s chapter on LSD, subtitled "[[albert-hofmann]] of Sandoz Pharmaceutical
 Company. Hofmann was the first human to experience it in 1943. During the
 following 20 years it was promoted as a psychiatric aid and used in clinical
 experiments. In the early 1960s, [[mycophobia-in-western-culture]], music, art, and the acceptance of diverse philosophies and

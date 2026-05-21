@@ -1,5 +1,5 @@
 ---
-title: Fukuoka's Weed Management and Green Manure Cover
+title: Fukuoka"s Weed Management and Green Manure Cover
 created: 2026-04-28
 tags: [natural-farming, weed-management, cover-crops, clover, green-manure, soil-erosion, fukuoka]
 date: 2026-04-28
@@ -10,9 +10,9 @@ sources:
 type: concept
 ---
 
-## Fukuoka's Weed Management and Green Manure Cover
+## Fukuoka"s Weed Management and Green Manure Cover
 
-Masanobu Fukuoka's approach to weed management represents a fundamental inversion of conventional agricultural thinking. Rather than treating weeds as competitors to be eliminated, he regarded them as essential contributors to soil health and farm productivity. His "no-weeding" principle, also called the principle of "weed utility," demonstrated that the labor of weeding could be replaced entirely by strategic use of ground covers, particularly clover and other leguminous green manure crops. This approach simultaneously eliminated the farmer's most arduous task while improving soil fertility, preventing erosion, and supporting the entire farm ecosystem.
+Masanobu Fukuoka's approach to weed management represents a fundamental inversion of conventional agricultural thinking. Rather than treating weeds as competitors to be eliminated, he regarded them as essential contributors to soil health and farm productivity. His "no-weeding" principle, also called the principle of "weed utility," demonstrated that the labor of weeding could be replaced entirely by strategic use of ground covers, particularly clover and other leguminous green manure crops. This approach simultaneously eliminated the farmer"s most arduous task while improving soil fertility, preventing erosion, and supporting the entire farm ecosystem.
 
 ## The Problem with Weeding
 
@@ -32,7 +32,7 @@ Weeding is the farmer's greatest source of toil, yet Fukuoka argued it is not me
 
 ## The Clover Revolution
 
-Fukuoka's solution to weed management in rice and barley fields was to replace undesirable weeds with beneficial ground covers, primarily clover. He called this the "clover revolution" because it fundamentally transformed the relationship between the farmer, the crop, and the field ecosystem.
+Fukuoka"s solution to weed management in rice and barley fields was to replace undesirable weeds with beneficial ground covers, primarily clover. He called this the "clover revolution" because it fundamentally transformed the relationship between the farmer, the crop, and the field ecosystem.
 
 **Clover seeding in rice fields**: In Fukuoka's rice-barley succession system, clover seed (approximately 1 pound per quarter-acre) is broadcast over standing rice in September or October. The high soil moisture from the maturing rice promotes rapid clover germination before winter weeds can establish. By late autumn, a thick clover cover protects the soil surface through winter.
 

@@ -27,7 +27,7 @@ throughout human history. Pliny the Elder featured it in his thirty-seven-volume
 seventeenth-century herbal with the description "Fungus virilis penis arecti
 forma, which wee English call Pricke Mushrum, taken from his forme."
 
-Charles Darwin's daughter Etty mounted an antifungal campaign against
+Charles Darwin"s daughter Etty mounted an antifungal campaign against
 stinkhorns, burning them with gloves and a pointed stick to protect her female
 servants from their suggestive appearance. The mushroom's Latin name translates
 literally to "shameless phallus," and its appearance has provoked reactions

@@ -24,7 +24,7 @@ The discovery of LSD by Albert Hofmann, its early medical use, its spread into t
 
 ### Context: Ergot Research at Sandoz
 
-Albert Hofmann (1906-2008) was a Swiss chemist working at the Sandoz pharmaceutical company in Basel. In the early 1930s, he was studying ergot alkaloids -- compounds derived from the ergot fungus (*Claviceps purpurea*), a parasite of rye. Ergot had a remarkable dual history: once dreaded as a cause of mass poisonings (St. Anthony's Fire), it had become a source of valuable medicines including ergotamine (for migraine) and ergobasine/ergometrine (for postpartum hemorrhage).
+Albert Hofmann (1906-2008) was a Swiss chemist working at the Sandoz pharmaceutical company in Basel. In the early 1930s, he was studying ergot alkaloids -- compounds derived from the ergot fungus (*Claviceps purpurea*), a parasite of rye. Ergot had a remarkable dual history: once dreaded as a cause of mass poisonings (St. Anthony"s Fire), it had become a source of valuable medicines including ergotamine (for migraine) and ergobasine/ergometrine (for postpartum hemorrhage).
 
 Hofmann's goal was to synthesize ergobasine artificially, which he accomplished by combining lysergic acid with the amino alcohol propanolamine. He then produced a series of lysergic acid derivatives with various pharmacological properties.
 
@@ -66,7 +66,7 @@ April 19 has since been celebrated as **Bicycle Day** by the psychedelic communi
 
 ### Psilocybin Connection
 
-Roger Heim, the French mycologist who classified Wasson's Mexican mushrooms, approached Hofmann to identify their active ingredients. Hofmann succeeded in isolating **psilocybin** and **psilocin** in 1958, demonstrating their structural similarity to LSD and serotonin. See [[magic-mushroom-history-timeline]].
+Roger Heim, the French mycologist who classified Wasson"s Mexican mushrooms, approached Hofmann to identify their active ingredients. Hofmann succeeded in isolating **psilocybin** and **psilocin** in 1958, demonstrating their structural similarity to LSD and serotonin. See [[magic-mushroom-history-timeline]].
 
 ## CIA MK-Ultra and Military Interest
 

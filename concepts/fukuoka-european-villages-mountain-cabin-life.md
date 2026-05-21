@@ -27,7 +27,7 @@ More important than the structure of communities is that there exist solitary pe
 
 ## The Kobayashi Story
 
-One fellow named Kobayashi, a graduate of Tokyo University, arrived at Fukuoka's farm with his young bride and a newborn infant and stayed three years. Before leaving, he told Fukuoka he was worried about how to educate his boy when he reached kindergarten age.
+One fellow named Kobayashi, a graduate of Tokyo University, arrived at Fukuoka"s farm with his young bride and a newborn infant and stayed three years. Before leaving, he told Fukuoka he was worried about how to educate his boy when he reached kindergarten age.
 
 - "My God, you are a bright fellow who graduated from Todai and you are worrying about whether you will be able to educate your kid?"
 

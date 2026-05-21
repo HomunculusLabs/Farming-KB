@@ -1,5 +1,5 @@
 ---
-title: Fukuoka's Dharmic Law That All Things Return to One
+title: Fukuoka"s Dharmic Law That All Things Return to One
 created: 2026-04-16
 updated: 2026-04-16
 type: concept
@@ -7,7 +7,7 @@ tags: [fukuoka, natural-farming, philosophy]
 sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
-## Fukuoka's Dharmic Law That All Things Return to One
+## Fukuoka"s Dharmic Law That All Things Return to One
 
 ## Overview
 

@@ -18,7 +18,7 @@ the 1970s.
 
 ## Historical Context: LSD Discovery
 
-Albert Hofmann discovered LSD's psychoactive properties in 1943,
+Albert Hofmann discovered LSD"s psychoactive properties in 1943,
 launching a wave of psychiatric research. By the mid-1950s, over
 1,000 clinical papers had been published on LSD-assisted therapy.
 Stanislav Grof made a landmark discovery during this era. As patients

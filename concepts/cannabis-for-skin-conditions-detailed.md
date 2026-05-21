@@ -21,7 +21,7 @@ The skin has its own [[stable-carbon-isotope-signature-fatty-acids-mycorrhizal-c
 
 **Schwartz, Janusz, and Janniger (2006)**: "Seborrheic dermatitis: An overview." American Family Physician.
 
-Seborrheic dermatitis involves excessive sebum production and Malassezia yeast overgrowth. The endocannabinoid system's role in sebum regulation (Biro et al., 2009) makes it relevant to seborrhea management.
+Seborrheic dermatitis involves excessive sebum production and Malassezia yeast overgrowth. The endocannabinoid system"s role in sebum regulation (Biro et al., 2009) makes it relevant to seborrhea management.
 
 ## Hirsutism (Unwanted Hair Growth)
 

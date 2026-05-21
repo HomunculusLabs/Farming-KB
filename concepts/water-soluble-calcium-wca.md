@@ -82,7 +82,7 @@ Calcium plays critical roles in plant health:
 
 ## Alternative Sources of Calcium
 
-From Cho's book, other calcium sources for WS-Ca:
+From Cho"s book, other calcium sources for WS-Ca:
 - **Oyster shells** — abundant in coastal areas, higher calcium content than eggshells
 - **Clam shells** — similar to oyster shells
 - **Snail shells** — small but effective

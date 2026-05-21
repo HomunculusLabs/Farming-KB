@@ -10,7 +10,7 @@ sources:
 
 ## Nature Perfect and Imperfect
 
-A fundamental principle in Masanobu Fukuoka's [[comparison-natural-farming-vs-permaculture]], Fukuoka insisted, is that nothing need be done to grow crops. This conviction came not from theoretical speculation but from what he called "a total, intuitive understanding of the reality about self and nature wrested from the depths of doubt and skepticism in a deeply earnest struggle over the meaning of life."
+A fundamental principle in Masanobu Fukuoka"s [[comparison-natural-farming-vs-permaculture]], Fukuoka insisted, is that nothing need be done to grow crops. This conviction came not from theoretical speculation but from what he called "a total, intuitive understanding of the reality about self and nature wrested from the depths of doubt and skepticism in a deeply earnest struggle over the meaning of life."
 
 This is not the theoretical hypothesis of a scholar in his study or the wishful thinking of an idler with an aversion to work. It is based on raw personal experience of things grounded solidly in reality.
 
@@ -30,11 +30,11 @@ Fukuoka observed that "left to themselves, crops become diseased, they are infes
 
 Every attempt to improve upon nature creates new problems. When we breed crops for higher yield, we often reduce their natural resistance to pests and disease. When we apply fertilizers to boost growth, we create dependency and degrade the soil. When we spray pesticides to kill pests, we destroy the natural predators that kept the pests in check.
 
-"The good farmer does not strive to raise high yields; rather, the very act of 'raising' crops, of striving to produce high yields, creates conditions that prevent high yields from being attained."
+"The good farmer does not strive to raise high yields; rather, the very act of "raising' crops, of striving to produce high yields, creates conditions that prevent high yields from being attained."
 
 ## Imperfect Human Knowledge Falls Short of Natural Perfection
 
-Understanding the degree to which human knowledge is imperfect helps one appreciate just how perfect nature is. Scientists of all ages have sensed with increasing clarity the frailty and insignificance of human knowledge as man's learning grew from his investigations of the natural world around him.
+Understanding the degree to which human knowledge is imperfect helps one appreciate just how perfect nature is. Scientists of all ages have sensed with increasing clarity the frailty and insignificance of human knowledge as man"s learning grew from his investigations of the natural world around him.
 
 No matter how unlimited his knowledge may appear, there are hurdles over which man cannot pass: the endless topics that await research, the infinitude of microscopic and submicroscopic universes that even the rapid specialization of science cannot keep pace with, the boundless and eternal reaches of outer space.
 
@@ -46,7 +46,7 @@ The only direct means for confirming the perfection of nature is for each indivi
 
 Fukuoka taught that farming is an activity conducted by the hand of nature. We must look carefully at a rice plant and listen to what it tells us. But to "look at" rice does not mean to view it as an object. One should essentially put oneself in the place of the rice. In so doing, the self looking upon the rice plant vanishes.
 
-"Nature should not be taken apart. The moment it is broken down, parts cease being parts and the whole is no longer a whole. When collected together, all the parts do not make a whole. 'All' refers to the world of mathematical form and 'whole' represents the world of living truth."
+"Nature should not be taken apart. The moment it is broken down, parts cease being parts and the whole is no longer a whole. When collected together, all the parts do not make a whole. "All' refers to the world of mathematical form and 'whole' represents the world of living truth."
 
 Natural farming begins with the conviction that barley seeds which fall to the earth will send up sprouts without fail. If a barley sprout should emerge then later wilt in mid-growth, something unnatural has occurred and one reflects on the cause, which originates in human knowledge and action. One never blames nature, but begins by blaming oneself.
 

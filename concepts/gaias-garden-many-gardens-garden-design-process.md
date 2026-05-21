@@ -36,7 +36,7 @@ Observation goes beyond noting objects. It means being immersed in the place: Wh
 - Animal life
 - History of the land
 
-**Key principle**: In early observation, retain a childlike quality of wonder without moving instantly to analysis. Staying with the simple observation "this plant's leaves are turning yellow" opens many options beyond the narrow path to "it needs fertilizer."
+**Key principle**: In early observation, retain a childlike quality of wonder without moving instantly to analysis. Staying with the simple observation "this plant"s leaves are turning yellow" opens many options beyond the narrow path to "it needs fertilizer."
 
 ### 2. Visioning
 

@@ -1,5 +1,5 @@
 ---
-title: Mushroom Toxicology — Palmer's Theory
+title: Mushroom Toxicology — Palmer"s Theory
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -24,7 +24,7 @@ Palmer documented that Amanita poisoning has a characteristic delayed onset:
 - Death in 30-36 hours in fatal cases
 - One survivor jumped from a second-story window during delirium
 
-## Palmer's Absorption Theory
+## Palmer"s Absorption Theory
 
 Palmer proposed that fungal toxins work by **absorption** rather than digestion:
 
@@ -38,7 +38,7 @@ Palmer proposed that fungal toxins work by **absorption** rather than digestion:
 
 ## Antidotes and Remedies
 
-Palmer's recommended treatments (with modern annotations):
+Palmer"s recommended treatments (with modern annotations):
 
 | Palmer's Remedy | Rationale | Modern Assessment |
 |---|---|---|
@@ -65,7 +65,7 @@ Palmer correctly noted that one case survivor used vinegar on the toadstool befo
 - Dermal absorption of amatoxins is not medically established
 - The "vinegar antidote" is not reliable
 
-## Palmer's Personal Experiments
+## Palmer"s Personal Experiments
 
 Palmer was a committed self-experimenter:
 - Chewed a half-dime-sized piece of Amanita, ejecting the substance: throat constriction, momentary vertigo, sea-sickness-like disgust, symptoms lasting 17 hours

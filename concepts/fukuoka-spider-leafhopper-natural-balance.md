@@ -12,7 +12,7 @@ sources:
 
 ## The Rice Leafhopper Problem
 
-Researchers at the Kochi Testing Centre once came to investigate why there were so few rice leafhoppers in Fukuoka's fields even though he had not used insecticide. Upon investigating the habitat, the balance between insects and their natural enemies, the rate of spider propagation and so on, the leafhoppers were found to be just as scarce in his fields as in the Centre's fields, which are sprayed countless times with a variety of deadly chemicals.
+Researchers at the Kochi Testing Centre once came to investigate why there were so few rice leafhoppers in Fukuoka"s fields even though he had not used insecticide. Upon investigating the habitat, the balance between insects and their natural enemies, the rate of spider propagation and so on, the leafhoppers were found to be just as scarce in his fields as in the Centre's fields, which are sprayed countless times with a variety of deadly chemicals.
 
 When the leafhoppers are few, their natural predators are far more numerous in the untreated fields than in the sprayed fields.
 
@@ -22,7 +22,7 @@ This principle extends far beyond agriculture. Fukuoka saw the same pattern in m
 
 ## Connection to Natural Farming Principles
 
-The spider-leafhopper dynamic directly supports Fukuoka's [[cannabis-pest-management]] strategy is to do nothing -- to trust the [[fukuoka-pest-ecology]]
+The spider-leafhopper dynamic directly supports Fukuoka"s [[cannabis-pest-management]] strategy is to do nothing -- to trust the [[fukuoka-pest-ecology]]
 
 - [[fukuoka-four-principles-natural-farming]]
 

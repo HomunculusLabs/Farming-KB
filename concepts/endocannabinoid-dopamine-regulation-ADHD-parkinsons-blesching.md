@@ -1,5 +1,5 @@
 ---
-title: "Endocannabinoid-Dopamine Regulation in ADHD and Parkinson's Disease"
+title: "Endocannabinoid-Dopamine Regulation in ADHD and Parkinson"s Disease"
 tags:
   - concept
 ---
@@ -17,7 +17,7 @@ dopamine release through CB1 receptors located on presynaptic terminals, creatin
 feedback loop that can either amplify or dampen dopaminergic signaling depending on
 context.
 
-## Parkinson's Disease
+## Parkinson"s Disease
 Parkinson's disease is characterized by the progressive degeneration of
 dopamine-producing neurons in the substantia nigra pars compacta. This loss leads to
 the characteristic motor symptoms: tremor, rigidity, bradykinesia (slowness of

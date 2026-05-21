@@ -24,7 +24,7 @@ Each mushroom genus is rated on a scale from 1 (easiest) to 5 (most challenging)
 | **4** | Expert         | Requires precise methodology   |
 | **5** | Experimental   | Unlikely to fruit              |
 
-Rankings are approximate. Actual difficulty is influenced by local climate, substrate availability, choice of indoor vs. outdoor cultivation, and the grower's experience level.
+Rankings are approximate. Actual difficulty is influenced by local climate, substrate availability, choice of indoor vs. outdoor cultivation, and the grower"s experience level.
 
 ## Full Genera Difficulty Table
 

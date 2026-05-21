@@ -14,7 +14,7 @@ tags: [reference]
 
 ### Potency
 
-Panaeolus cyanescens is notably potent, containing significant concentrations of [[miniculture-rye-grain-cultivation-method-for-psilocybe-cubensis]] is essentially the mushroom's natural growth cycle reproduced under controlled conditions. It represents one of the simplest and most accessible forms of psychoactive [[schultes-panaeolus-mushrooms-shamanic]] mixed into the omelette along with other ingredients. The experience typically began 30-60 minutes after consumption and lasted 4-6 hours.
+Panaeolus cyanescens is notably potent, containing significant concentrations of [[miniculture-rye-grain-cultivation-method-for-psilocybe-cubensis]] is essentially the mushroom"s natural growth cycle reproduced under controlled conditions. It represents one of the simplest and most accessible forms of psychoactive [[schultes-panaeolus-mushrooms-shamanic]] mixed into the omelette along with other ingredients. The experience typically began 30-60 minutes after consumption and lasted 4-6 hours.
 
 ### Safety Record
 
@@ -44,7 +44,7 @@ During the 1970s, a group of teenagers in Samoa independently discovered the psy
 
 ### Parental Response
 
-The teenagers' parents considered the experience "a foolish, but totally harmless episode and a part of normal teenage development." This pragmatic parental response contrasts sharply with the legal approaches taken in Western countries and recalls the ancient European designation of psychoactive mushrooms as "fool's mushrooms."
+The teenagers" parents considered the experience "a foolish, but totally harmless episode and a part of normal teenage development." This pragmatic parental response contrasts sharply with the legal approaches taken in Western countries and recalls the ancient European designation of psychoactive mushrooms as "fool"s mushrooms."
 
 ## Global Distribution
 

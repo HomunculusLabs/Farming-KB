@@ -27,7 +27,7 @@ Andrus Voitk is a naturalist and author from Newfoundland and Labrador, Canada, 
 - Authored *A Little Illustrated Book of Common Mushrooms of Newfoundland and Labrador*, published in 2007 by the Gros Morne Cooperating Association (272 pp., ISBN 978-0-9699509-4-3).
 - The guidebook features color illustrations of almost 400 species, making it one of the most comprehensive regional mushroom guides for northeastern North America.
 - Also an authority on wild orchids and previously published a well-regarded field guide to the wild orchids of Newfoundland and Labrador.
-- His guidebook was the first to caution against picking [[pleurocybella-porrigens]] ("Angel's Wings"), citing a recent spate of poisonings in Japan — demonstrating exceptional currency of information.
+- His guidebook was the first to caution against picking [[pleurocybella-porrigens]] ("Angel"s Wings"), citing a recent spate of poisonings in Japan — demonstrating exceptional currency of information.
 - Covers species often omitted from other guidebooks, including the spectacular Catathelasma ventricosa and the striking Amanita wellsii.
 - Gives particular attention to the genus Cortinarius, which is abundant in Newfoundland and often challenging for beginners, providing clear breakdowns for identification.
 - Also covers lichenized mushrooms, which he describes as "often overlooked little gems," with detailed photographs and descriptions.

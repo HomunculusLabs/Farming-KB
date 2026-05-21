@@ -10,7 +10,7 @@ aliases:
   - arctic root
   - roseroot
   - orpin rose
-  - king's crown
+  - king"s crown
   - hong jing tian
   - zolotoy koren
   - roserot

@@ -3,7 +3,7 @@ title: Palmer Amanitine Poison Classification Treatment
 source: About Mushrooms - Julius Auboineau Palmer (1894)
 ---
 
-## Palmer's Amanitine Poison Classification and Treatment
+## Palmer"s Amanitine Poison Classification and Treatment
 
 Julius Auboineau Palmer's 1894 book "About Mushrooms" contains one
 of the earliest American systematic classifications of mushroom

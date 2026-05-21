@@ -8,7 +8,7 @@ type: entity
 
 ## Description
 
-Kevin Kelly (born 1952) is an American author, editor, and technology thinker known for his work on emergent systems, network culture, and the biological analogies underlying technology. He edited the *Whole Earth Review* in the late 1980s and co-founded *Wired* magazine. His writings on post-Darwinian evolution, hive minds, and emergent phenomena have influenced permaculture's systems thinking framework.
+Kevin Kelly (born 1952) is an American author, editor, and technology thinker known for his work on emergent systems, network culture, and the biological analogies underlying technology. He edited the *Whole Earth Review* in the late 1980s and co-founded *Wired* magazine. His writings on post-Darwinian evolution, hive minds, and emergent phenomena have influenced permaculture"s systems thinking framework.
 
 ## Classification
 
@@ -28,7 +28,7 @@ Kevin Kelly (born 1952) is an American author, editor, and technology thinker kn
 
 ## Relevance to Cultivation and Permaculture
 
-- **Emergence and systems thinking**: Kelly's analysis of emergent behavior in complex systems directly informs permaculture Principle 12 (Creatively Use and Respond to Change), which Holmgren discusses through the lens of emergence and self-organization
+- **Emergence and systems thinking**: Kelly"s analysis of emergent behavior in complex systems directly informs permaculture Principle 12 (Creatively Use and Respond to Change), which Holmgren discusses through the lens of emergence and self-organization
 - **Hive mind analogy**: The concept of collective intelligence in beehives and computer networks mirrors permaculture's understanding of ecosystem-level intelligence and guild cooperation
 - **Network vs. hierarchy**: Kelly's documentation of how decentralized networks defeated centralized mainframe computing parallels permaculture's preference for decentralized, distributed design over monocultural centralization
 - **Post-Darwinian evolution**: Explores mechanisms like symbiotic viruses and horizontal gene transfer that complement natural selection, relevant to understanding rapid ecosystem adaptation and novel species formation

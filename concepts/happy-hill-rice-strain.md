@@ -30,7 +30,7 @@ Fukuoka described Happy Hill as a hardy strain carrying the genetic
 heritage of wild rice variants. Despite its wild ancestry, it proved to
 be one of the highest [[cho-loess-powder-in-natural-farming]] conditions. The variety was developed not through
 deliberate crossbreeding but through decades of natural selection on
-Fukuoka's farm, where rice grew in a clover-covered, no-till, no-fertilizer
+Fukuoka"s farm, where rice grew in a clover-covered, no-till, no-fertilizer
 environment.
 
 The strain is notable for its vigor under low-input conditions. Unlike

@@ -6,7 +6,7 @@ type: entity
 
 ## Description
 
-John A. Widtsoe (also spelled Widstoe in some references) was a prominent agricultural scientist, educator, and author known for his influential work on dry farming and soil management in the western United States during the early twentieth century. His research and publications, particularly "Dry Farming: A System of Agriculture for Countries with Low Rainfall" (1911), helped establish principles of water-conserving agriculture that remain relevant today. In Steve Solomon's "[[gardening-when-it-counts]]," Widtsoe is referenced in the context of understanding irrigation and water management strategies for home food production.
+John A. Widtsoe (also spelled Widstoe in some references) was a prominent agricultural scientist, educator, and author known for his influential work on dry farming and soil management in the western United States during the early twentieth century. His research and publications, particularly "Dry Farming: A System of Agriculture for Countries with Low Rainfall" (1911), helped establish principles of water-conserving agriculture that remain relevant today. In Steve Solomon"s "[[gardening-when-it-counts]]," Widtsoe is referenced in the context of understanding irrigation and water management strategies for home food production.
 
 ## Classification
 
@@ -22,7 +22,7 @@ John A. Widtsoe (also spelled Widstoe in some references) was a prominent agricu
 - Widtsoe served as Director of the Utah Agricultural Experiment Station and later as President of the University of Utah (1916–1921).
 - His landmark publication "Dry Farming: A System of Agriculture for Countries with Low Rainfall" (1911) systematized principles of moisture conservation agriculture for arid and semi-arid regions.
 - He advocated for deep plowing, thorough soil preparation, maintaining soil mulch layers, and careful selection of drought-adapted crop varieties.
-- Widtsoe's dry farming principles influenced agricultural development across the American West, the Great Plains, and similar arid regions worldwide.
+- Widtsoe"s dry farming principles influenced agricultural development across the American West, the Great Plains, and similar arid regions worldwide.
 - In Steve Solomon's indexing, Widtsoe is referenced on pages 145-146, in the context of water management and irrigation strategies — areas where Solomon adapted and extended Widtsoe's principles for home gardeners.
 - Widtsoe also authored "The Principles of Irrigation Practice" (1914), bridging dry farming and irrigated agriculture.
 

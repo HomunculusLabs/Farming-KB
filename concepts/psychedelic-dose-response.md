@@ -9,7 +9,7 @@ sources: [raw/papers/the-essential-psychedelics-guide-by-dm-turner.md]
 
 ## Psychedelic Dose-Response Relationships
 
-Understanding the dose-response relationship is fundamental to working with psychedelic compounds safely and effectively. D.M. Turner's Essential Psychedelics Guide, combined with Shulgin's TIHKAL data (see [[tihkal-introduction-and-methodology]]), provides a practical framework.
+Understanding the dose-response relationship is fundamental to working with psychedelic compounds safely and effectively. D.M. Turner"s Essential Psychedelics Guide, combined with Shulgin's TIHKAL data (see [[tihkal-introduction-and-methodology]]), provides a practical framework.
 
 ### The Shulgin Scale
 

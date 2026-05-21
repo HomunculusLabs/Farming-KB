@@ -10,7 +10,7 @@ created: 2026-05-11
 
 ## Overview
 
-Terpenes are the aromatic compounds responsible for the distinctive smells and flavors of cannabis. They are produced in the plant's trichomes alongside cannabinoids (THC, CBD, etc.) and play a crucial role in the overall effects of different strains through the entourage effect — the synergistic interaction between cannabinoids, terpenes, and other compounds. Sativa-dominant strains, as documented extensively in Cannabis Sativa Vol. 3, tend to be characterized by specific terpene patterns that distinguish them from indica-dominant varieties.
+Terpenes are the aromatic compounds responsible for the distinctive smells and flavors of cannabis. They are produced in the plant"s trichomes alongside cannabinoids (THC, CBD, etc.) and play a crucial role in the overall effects of different strains through the entourage effect — the synergistic interaction between cannabinoids, terpenes, and other compounds. Sativa-dominant strains, as documented extensively in Cannabis Sativa Vol. 3, tend to be characterized by specific terpene patterns that distinguish them from indica-dominant varieties.
 
 ## What Are Terpenes
 

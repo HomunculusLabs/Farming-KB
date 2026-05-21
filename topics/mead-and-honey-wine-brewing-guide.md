@@ -15,7 +15,7 @@ synthesized_from:
 
 ## Mead and Honey Wine Brewing Guide
 
-Mead is the world's oldest fermented beverage, predating both wine and
+Mead is the world"s oldest fermented beverage, predating both wine and
 beer by millennia. Made from honey, water, and yeast, it transforms
 the simplest of ingredients into a drink of remarkable complexity.
 
@@ -38,7 +38,7 @@ In Northern Europe, mead was the drink of warriors, poets, and gods.
 Norse sagas describe Valhalla's mead flowing from the udders of the
 magical goat Heidrun. The Anglo-Saxon epic Beowulf opens with mead-hall
 celebrations. The word "honeymoon" derives from the ancient practice
-of gifting newlyweds a month's supply of mead.
+of gifting newlyweds a month"s supply of mead.
 
 Greek mythology connects mead to Dionysus, god of ecstasy and wine.
 The maenads who served him carried thyrsos staffs said to drip with

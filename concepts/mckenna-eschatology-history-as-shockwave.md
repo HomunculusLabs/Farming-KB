@@ -23,7 +23,7 @@ and which is feeding information to humanity about the larger picture."
 
 This eschatological framework is not derived from any particular religious
 tradition, though it shares structural similarities with Christian, Hindu, and
-Mayan apocalyptic thought. Rather, it emerged from McKenna's direct experiences
+Mayan apocalyptic thought. Rather, it emerged from McKenna"s direct experiences
 with tryptamine hallucinogens, particularly DMT and psilocybin, in which he
 reported perceiving the entirety of human history as a unified process with a
 discernible direction and culmination.

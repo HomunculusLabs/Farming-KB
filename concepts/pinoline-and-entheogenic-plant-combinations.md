@@ -20,7 +20,7 @@ Pinoline functions as an MAOI, meaning it inhibits the monoamine oxidase enzymes
 
 The identity of Soma, the sacred drink described in the Hindu Vedas, has been debated for over a century. Various scholars have proposed different candidates:
 
-- **Amanita muscaria** (fly agaric mushroom) — Gordon Wasson's influential theory
+- **Amanita muscaria** (fly agaric mushroom) — Gordon Wasson"s influential theory
 - **Psilocybin mushrooms** — Terence McKenna's proposal, emphasizing visionary states
 - **Syrian Rue** (*[[harmala-alkaloids]] (MAOIs)
 - **Opium Poppy** (*[[chacruna-psychotria-viridis]]*, *Diplopterys cabrerana*)

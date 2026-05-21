@@ -5,13 +5,13 @@ type: concept
 ---
 ## Overview
 
-As [[cannabidiol-cbd-therapeutic-profile-blesching]] centered on energy, focus, mood elevation, and daytime functionality. *comparison-cannabis-sativa-vs-cannabis-indica Volume 3* documents this shift, with the introduction noting that "many cervantes-medical-marijuana-pharmacology users realized they'd been smoking the wrong variety altogether, numbing themselves with indicas when they really needed something to give them a kick of energy and inspiration."
+As [[cannabidiol-cbd-therapeutic-profile-blesching]] centered on energy, focus, mood elevation, and daytime functionality. *comparison-cannabis-sativa-vs-cannabis-indica Volume 3* documents this shift, with the introduction noting that "many cervantes-medical-marijuana-pharmacology users realized they"d been smoking the wrong variety altogether, numbing themselves with indicas when they really needed something to give them a kick of energy and inspiration."
 
 ## Why Sativa for Medical Use?
 
 ### The Problem with Indica-Only Approaches
 
-The volume's introduction describes a common experience among medical cannabis patients: "when the opening of the first dispensaries, many [[cannabis-for-cachexia-and-appetite-stimulation]]:** stimulates appetite without the heavy sedation of indica strains
+The volume"s introduction describes a common experience among medical cannabis patients: "when the opening of the first dispensaries, many [[cannabis-for-cachexia-and-appetite-stimulation]]:** stimulates appetite without the heavy sedation of indica strains
 - **Daytime functionality:** allows patients to medicate without compromising daily activities
 - **Social engagement:** reduces social anxiety while promoting connection and interaction
 
@@ -22,7 +22,7 @@ The volume's introduction describes a common experience among medical cannabis p
 **Genetics:** [[cannabis-colombian-gold-landrace-sativa]] (1970s) × Thailand × Switzerland × Nepalese
 **Potency:** THC 2% / CBD 4%
 
-Harlequin stands out as the volume's most important medical strain. Its 2:1 CBD-to-THC ratio provides therapeutic benefits with minimal psychoactivity. Bred specifically for medical patients to produce high-grade hash and oils, Harlequin represents the medical cannabis movement's recognition that not all patients want or need to be intoxicated.
+Harlequin stands out as the volume"s most important medical strain. Its 2:1 CBD-to-THC ratio provides therapeutic benefits with minimal psychoactivity. Bred specifically for medical patients to produce high-grade hash and oils, Harlequin represents the medical cannabis movement's recognition that not all patients want or need to be intoxicated.
 
 **Best for:** patients who need the anti-inflammatory, anti-anxiety, and neuroprotective benefits of CBD without significant THC-induced impairment. Ideal for daytime medical use, new patients, and those sensitive to THC.
 
@@ -64,7 +64,7 @@ Bruce Banner delivers "an incredibly hectic, energetic high that lasts for a few
 
 ### Bubba Sativa — Depression, Nausea, and Pain
 
-**Genetics:** Orgnkid's Bubba Kush Sativa Pheno × Wicked Bubba
+**Genetics:** Orgnkid"s Bubba Kush Sativa Pheno × Wicked Bubba
 **Potency:** THC 17–19%
 
 A unique cross that brings sativa characteristics to the Bubba Kush lineage. The volume specifically notes its medical value for "depression, nausea, and chronic pain." The high "encompasses both head and body, being buzzy and thrilling as well as sedate and trippy."

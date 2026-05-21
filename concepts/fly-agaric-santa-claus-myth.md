@@ -14,7 +14,7 @@ tags: [agar]
 
 The modern-day figure of Father Christmas, or Santa Claus, has been proposed by
 psychedelic enthusiasts as an attenuated folk memory of Siberian fly-agaric
-shamanism. In this reading, Santa's red-and-white costume represents the
+shamanism. In this reading, Santa"s red-and-white costume represents the
 parti-coloured mushroom, his nocturnal flight from the north on a
 reindeer-driven sleigh represents the shamanic spirit-journey, and the
 practice of entering through the smoke-hole in the ceiling explains why Santa

@@ -20,7 +20,7 @@ Fungi generally prefer slightly more acidic conditions than bacteria. A pH range
 
 ### Buffering Capacity
 
-Compost itself acts as a pH buffer, helping to stabilize the tea's chemistry. Well-made, mature compost typically has a pH near neutral and contains humic acids and other compounds that resist rapid pH shifts. This natural buffering is one reason compost quality is so important — poor compost lacks buffering capacity and allows pH to swing unpredictably.
+Compost itself acts as a pH buffer, helping to stabilize the tea"s chemistry. Well-made, mature compost typically has a pH near neutral and contains humic acids and other compounds that resist rapid pH shifts. This natural buffering is one reason compost quality is so important — poor compost lacks buffering capacity and allows pH to swing unpredictably.
 
 ### pH Dynamics During Brewing
 

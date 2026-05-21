@@ -19,7 +19,7 @@ quantum mechanically described matter and mind."
 
 McKenna proposed that what emerges during tryptamine glossolalia is not random 
 vocalization but structured expression at a level more fundamental than 
-ordinary speech. He compared it to a computer's assembly language, the 
+ordinary speech. He compared it to a computer"s assembly language, the 
 low-level code that underlies all higher programming languages. Ordinary 
 speech, in this model, is a compiled and abstracted version of deeper 
 linguistic processes that remain inaccessible in normal consciousness.

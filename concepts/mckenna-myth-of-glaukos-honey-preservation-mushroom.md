@@ -4,7 +4,7 @@ source: "mckenna_t-food_of_the_gods.md"
 tags: [mckenna, glaukos, minoan, honey, mushroom, preservation, mythology, crete, polyidos, minos]
 ---
 
-## McKenna's Myth of Glaukos: Honey Preservation and Mushroom Symbolism
+## McKenna"s Myth of Glaukos: Honey Preservation and Mushroom Symbolism
 
 ## Overview
 
@@ -12,7 +12,7 @@ In *Food of the Gods*, Terence McKenna analyzes the obscure Minoan myth of Glauk
 
 ### The Pithos as Symbolic Vessel
 
-The pithos, or large storage jar, was a ubiquitous artifact in Minoan and Mycenaean civilization. McKenna notes that the "shape suggests the bucket-shaped graves of the Natufians," but the pithos also functioned symbolically as a vessel of transformation — a container in which something is preserved, transformed, and ultimately reborn. In the Glaukos myth, the pithos filled with honey is literally the womb from which the mushroom-child emerges, preserved but dormant, awaiting the shamanic knowledge (the serpent's herb) that can restore it to life.
+The pithos, or large storage jar, was a ubiquitous artifact in Minoan and Mycenaean civilization. McKenna notes that the "shape suggests the bucket-shaped graves of the Natufians," but the pithos also functioned symbolically as a vessel of transformation — a container in which something is preserved, transformed, and ultimately reborn. In the Glaukos myth, the pithos filled with honey is literally the womb from which the mushroom-child emerges, preserved but dormant, awaiting the shamanic knowledge (the serpent"s herb) that can restore it to life.
 
 ## The Cattle Motif
 

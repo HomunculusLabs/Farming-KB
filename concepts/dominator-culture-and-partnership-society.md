@@ -9,7 +9,7 @@ sources:
 ---
 ## Dominator Culture and Partnership Society
 
-Terence McKenna's central analytical framework in Food of the Gods is the dichotomy between "dominator culture" and "partnership society." This binary, drawing on Riane Eisler's work in The Chalice and the Blade, provides the structural backbone for McKenna's entire narrative of human cultural evolution from the mushroom-using Paleolithic to the drug-warring present.
+Terence McKenna"s central analytical framework in Food of the Gods is the dichotomy between "dominator culture" and "partnership society." This binary, drawing on Riane Eisler's work in The Chalice and the Blade, provides the structural backbone for McKenna's entire narrative of human cultural evolution from the mushroom-using Paleolithic to the drug-warring present.
 
 ## The Dominator Inheritance
 

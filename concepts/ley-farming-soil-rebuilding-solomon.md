@@ -8,7 +8,7 @@ tags: [ley-farming, soil-rebuilding, grass, clover, rotation, organic-matter, re
 
 ## Overview
 
-Steve Solomon's "Gardening When It Counts" describes a ley farming system — a rotational approach in which garden beds are alternated between [[hamilton-concentrated-organic-fertilizer-products]] fertilizers.
+Steve Solomon"s "Gardening When It Counts" describes a ley farming system — a rotational approach in which garden beds are alternated between [[hamilton-concentrated-organic-fertilizer-products]] fertilizers.
 
 ## What Is a Ley?
 

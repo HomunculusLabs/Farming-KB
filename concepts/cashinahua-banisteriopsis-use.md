@@ -17,7 +17,7 @@ The most persistent comment from all informants is: "It is a fearsome thing, I w
 
 ## Purposes and Information Seeking
 
-The Cashinahua drink ayahuasca to learn about things, persons, and events removed from them by time and/or space. Hallucinations are viewed as the experiences of an individual's dream spirit (nama yuxin) — portents of things to come or reminders of the past.
+The Cashinahua drink ayahuasca to learn about things, persons, and events removed from them by time and/or space. Hallucinations are viewed as the experiences of an individual"s dream spirit (nama yuxin) — portents of things to come or reminders of the past.
 
 After a night of drinking, men discuss experiences relevant to the society: visions of abundance or famine, health or sickness, death. When famine is seen, gardens can be enlarged; when a foreigner bringing sickness is seen, the village may depart on an extended hunting trip. Such decisions typically affect a man's immediate family, rarely the entire village.
 

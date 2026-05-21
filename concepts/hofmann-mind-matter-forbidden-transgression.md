@@ -15,7 +15,7 @@ type: concept
 In his correspondence with [[albert-hofmann]]
 raised what he considered the fundamental question of drug use: whether
 the use of substances that so deeply affect our minds could not indeed
-represent a forbidden transgression of limits. Hofmann's concern was
+represent a forbidden transgression of limits. Hofmann"s concern was
 addressed to whether the innermost core of our being is actually
 unimpeachable, and cannot become damaged by whatever happens in its
 material, physical-chemical, biological, and psychic shells.
@@ -32,7 +32,7 @@ particularly obvious."
 
 ### The Goethe Modification
 
-Hofmann expressed this idea through a modification of Goethe's famous
+Hofmann expressed this idea through a modification of Goethe"s famous
 lines:
 
 > "Were the eye not sunny,
@@ -42,7 +42,7 @@ lines:
 
 This poetic reformulation captures the reciprocal relationship between
 consciousness and the physical substances that can alter it. Just as the
-eye must contain something of the sun's nature to perceive it, matter
+eye must contain something of the sun"s nature to perceive it, matter
 must contain something of the mind's nature for material substances to
 disturb mental states.
 

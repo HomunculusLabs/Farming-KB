@@ -6,7 +6,7 @@ tags:
 
 ## Overview
 
-One of [[mckenna-food-gods-designer-states-of-consciousness]] through plant hallucinogens, gains access to a "higher dimensional perspective" that reveals the arbitrary nature of ordinary language and exposes the deeper patterns of time, space, and being that lie beyond the reach of everyday speech. This chapter explores McKenna's linguistic philosophy, its relationship to ethnolinguistic evidence, and its implications for understanding shamanic knowledge.
+One of [[mckenna-food-gods-designer-states-of-consciousness]] through plant hallucinogens, gains access to a "higher dimensional perspective" that reveals the arbitrary nature of ordinary language and exposes the deeper patterns of time, space, and being that lie beyond the reach of everyday speech. This chapter explores McKenna"s linguistic philosophy, its relationship to ethnolinguistic evidence, and its implications for understanding shamanic knowledge.
 
 ## The Central Thesis
 
@@ -21,7 +21,7 @@ The conclusion McKenna draws is radical: if language is the "primary datum of kn
 
 ## Linguistic Relativity and Ethnolinguistic Evidence
 
-McKenna draws on the tradition of linguistic relativity—the idea that the structure of a language affects its speakers' cognition and worldview. While the strong form of the Sapir-Whorf hypothesis (that language determines thought) has been tempered by modern linguistics, McKenna pushes the argument further than most academic linguists would accept:
+McKenna draws on the tradition of linguistic relativity—the idea that the structure of a language affects its speakers" cognition and worldview. While the strong form of the Sapir-Whorf hypothesis (that language determines thought) has been tempered by modern linguistics, McKenna pushes the argument further than most academic linguists would accept:
 
 ### Hopi Temporal Concepts
 
@@ -29,11 +29,11 @@ McKenna cites the Hopi language as evidence that different linguistic frameworks
 
 ### Inuit Self-Reference
 
-The claim that "the Inuit have no first-person pronoun" reflects McKenna's interest in cultures where the boundary between self and community is linguistically softened. In many Inuit dialects, self-reference is constructed through context-dependent particles rather than a fixed pronoun like English "I," suggesting a fundamentally different experience of individual identity.
+The claim that "the Inuit have no first-person pronoun" reflects McKenna"s interest in cultures where the boundary between self and community is linguistically softened. In many Inuit dialects, self-reference is constructed through context-dependent particles rather than a fixed pronoun like English "I," suggesting a fundamentally different experience of individual identity.
 
 ### Language as Magic
 
-McKenna's equation of language with magic draws on both Western esoteric traditions (where "spells" literally mean spoken words) and indigenous epistemologies (where words are understood to have creative power). In many shamanic traditions, the ability to name something correctly is equivalent to understanding its essence—and the most powerful names are those that describe the world as it truly is, not as ordinary language represents it.
+McKenna"s equation of language with magic draws on both Western esoteric traditions (where "spells" literally mean spoken words) and indigenous epistemologies (where words are understood to have creative power). In many shamanic traditions, the ability to name something correctly is equivalent to understanding its essence—and the most powerful names are those that describe the world as it truly is, not as ordinary language represents it.
 
 ## The Psychedelic Dissolution of Linguistic Constructs
 
@@ -54,7 +54,7 @@ McKenna connects his linguistic theory to his analysis of addiction and habitual
 
 > "Habit. Obsession. Addiction. These words are signposts along a path of ever-decreasing free will. Denial of the power of free will is implicit in the notion of addiction."
 
-In McKenna's framework, addiction is not merely a pharmacological phenomenon but a **linguistic trap**—a self-reinforcing narrative in which the addict's language about their relationship to a substance becomes a causal factor in maintaining the dependency. The "disease model" of addiction, while more compassionate than the "moral failing" model, still treats the addict as a passive object rather than a linguistic agent. McKenna suggests that the shamanic approach—using psychedelic plants to disrupt habitual linguistic patterns and expose the constructed nature of self-narrative—offers a fundamentally different path to understanding and transforming addictive behavior.
+In McKenna"s framework, addiction is not merely a pharmacological phenomenon but a **linguistic trap**—a self-reinforcing narrative in which the addict's language about their relationship to a substance becomes a causal factor in maintaining the dependency. The "disease model" of addiction, while more compassionate than the "moral failing" model, still treats the addict as a passive object rather than a linguistic agent. McKenna suggests that the shamanic approach—using psychedelic plants to disrupt habitual linguistic patterns and expose the constructed nature of self-narrative—offers a fundamentally different path to understanding and transforming addictive behavior.
 
 This analysis extends beyond individual addiction to what McKenna calls **cultural addiction**—the collective dependence of industrial societies on substances (sugar, caffeine, alcohol, television, consumerism) that are integrated into the linguistic framework of daily life to such a degree that their presence is invisible. The [[mckenna-paradise-regained-dmt-hyperspace]]?"—that trace a linguistic as well as historical arc:
 

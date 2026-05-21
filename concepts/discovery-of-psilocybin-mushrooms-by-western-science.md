@@ -6,7 +6,7 @@ type: concept
 
 ## Discovery of Psilocybin Mushrooms by Western Science
 
-The scientific discovery of psilocybin-containing mushrooms is a story spanning nearly 500 years, from the first Spanish chronicles of Aztec "flesh of the gods" ceremonies to [[albert-hofmann]]'s isolation of [[hplc-analysis-of-psilocybin-and-psilocin]] in a Swiss laboratory in 1958. It involves some of the most important figures in ethnobotany, chemistry, and psychiatry.
+The scientific discovery of psilocybin-containing mushrooms is a story spanning nearly 500 years, from the first Spanish chronicles of Aztec "flesh of the gods" ceremonies to [[albert-hofmann]]"s isolation of [[hplc-analysis-of-psilocybin-and-psilocin]] in a Swiss laboratory in 1958. It involves some of the most important figures in ethnobotany, chemistry, and psychiatry.
 
 ## The Spanish Chronicles (16th Century)
 
@@ -31,7 +31,7 @@ For nearly 400 years after the conquest, teonanácatl was assumed to be a metaph
 
 ## Richard Evans Schultes (1938–1939)
 
-**[[richard-evans-schultes]]**, a young Harvard ethnobotanist, received Reko's forwarded samples and became the key figure in identifying teonanácatl:
+**[[richard-evans-schultes]]**, a young Harvard ethnobotanist, received Reko"s forwarded samples and became the key figure in identifying teonanácatl:
 
 - Published (with [[weston-la-barre]] of Yale) evidence that teonanácatl was a genuine psychoactive mushroom
 - Traveled to Huatla de Jimenez in the Sierra Mazateca to collect specimens
@@ -48,9 +48,9 @@ In 1938, **Jean Basset Johnson** (an anthropology student) and others became the
 **R. Gordon Wasson**, the banker-turned-ethnomycologist who had previously studied *Amanita muscaria* in Siberia, learned of the [[stamets-psi-mazatec-mushroom-ceremonies-ethnobotany]] and traveled to Mexico:
 
 - In 1955, Wasson and his wife [[valentina-pavlovna-wasson]] became the **first outsiders to participate in a velada** led by the Mazatec curandera **María Sabina**
-- Wasson's account was published in **Life magazine on May 13, 1957** — "Seeking the Magic Mushroom" — bringing psilocybin mushrooms to worldwide attention for the first time
+- Wasson"s account was published in **Life magazine on May 13, 1957** — "Seeking the Magic Mushroom" — bringing psilocybin mushrooms to worldwide attention for the first time
 - The Life article, read by millions, triggered a wave of psychedelic tourism to Mexico
-- Wasson's visit to María Sabina ultimately had devastating consequences for the Mazatec community, as it attracted unwanted attention from authorities and tourists
+- Wasson"s visit to María Sabina ultimately had devastating consequences for the Mazatec community, as it attracted unwanted attention from authorities and tourists
 
 ## Albert Hofmann and the Isolation of Psilocybin (1958)
 
@@ -71,7 +71,7 @@ In 1938, **Jean Basset Johnson** (an anthropology student) and others became the
 - Her chants (*cantos*) during ceremonies were considered the mechanism through which the mushroom's wisdom was expressed
 - After Wasson's Life article, her village was flooded with counterculture seekers (including Bob Dylan, John Lennon, and Timothy Leary)
 - The Mexican authorities eventually arrested and harassed her
-- She reportedly regretted ever having shared the mushrooms with outsiders: "From the moment the foreigners arrived, the 'holy children' [mushrooms] lost their purity. They lost their force; they ruined them."
+- She reportedly regretted ever having shared the mushrooms with outsiders: "From the moment the foreigners arrived, the "holy children' [mushrooms] lost their purity. They lost their force; they ruined them."
 
 ## Timothy Leary and Harvard (1960–1963)
 

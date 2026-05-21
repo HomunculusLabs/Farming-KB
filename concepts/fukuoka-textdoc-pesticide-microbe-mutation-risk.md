@@ -25,7 +25,7 @@ dangers of applying mutagenic chemicals to easily mutated soil microbes.
 
 Fukuoka describes an incident in his village, noted for its Karakawa loquats.
 While touring with agricultural cooperative officials, someone remarked that
-"This year's loquats have been hit again by the cold and aren't blooming well
+"This year"s loquats have been hit again by the cold and aren't blooming well
 at all. With this happening year after year, farmers are losing interest in
 growing loquats."
 
@@ -37,7 +37,7 @@ pesticide spraying program and "the organism was soon brought under control."
 
 The loquats gradually came back and everything appeared to look rosy again,
 but one question remained unanswered. Why had this outbreak occurred in the
-first place? Fukuoka's theory was "that it was triggered by the sudden
+first place? Fukuoka"s theory was "that it was triggered by the sudden
 spraying of a whole series of new pesticides following the war in an attempt
 to [[emcdda-hallucinogenic-mushroom-contributing-factors-megatrends]] to the severe outbreak of gray
 mold. First, interplanting of [[dmt-containing-plants-united-states-halpern]] and the fungus attacking Satsuma oranges and summer oranges

@@ -6,7 +6,7 @@ updated: 2026-04-28
 sources: [mckenna_t-food_of_the_gods.md]
 ---
 ## Hyperspace and Human Freedom
-The final chapters of *Food of the Gods* culminate in Terence McKenna's argument that the psychedelic dimension, which he calls "hyperspace," is not merely a subjective experience but a real domain accessible through [[mckenna-archaic-revival-four-part-structure-paradise-paradise-lost-hell-regained]].
+The final chapters of *Food of the Gods* culminate in Terence McKenna"s argument that the psychedelic dimension, which he calls "hyperspace," is not merely a subjective experience but a real domain accessible through [[mckenna-archaic-revival-four-part-structure-paradise-paradise-lost-hell-regained]].
 ## The Fear Behind Prohibition
 What is most feared by those who advocate the unworkable Luddite solution of "Just say no" is a world in which all traditional community values have dissolved in the face of an endless search for self-gratification.
 McKenna acknowledges this fear as legitimate, but insists it cannot be addressed through witch hunts, the suppression of research, and the hysterical spreading of disinformation and lies.
@@ -16,7 +16,7 @@ Is our future to include the appearance of new synthetic drugs, a hundred or a t
 We are discovering that human beings are creatures of chemical habit with the same horrified disbelief as when the Victorians discovered that humans are creatures of sexual fantasy and obsession.
 This process of facing ourselves as a species is a necessary precondition to the creation of a more humane social and [[mckenna-food-gods-designer-states-of-consciousness]] of consciousness. Not their own designs, but the designs of Madison Avenue, of the Pentagon, of the Fortune 500 corporations.
 This is not just metaphor; it is really happening to us. Looking down on Los Angeles from an airliner, McKenna sees "a printed circuit" of interchangeable modules within a very large machine.
-As long as the Reader's Digest stays subscribed to and the TV stays on, these modules are all interchangeable parts within a very large machine. This is the nightmarish reality that Marshall McLuhan and Wyndham Lewis foresaw: the creation of the public as herd.
+As long as the Reader"s Digest stays subscribed to and the TV stays on, these modules are all interchangeable parts within a very large machine. This is the nightmarish reality that Marshall McLuhan and Wyndham Lewis foresaw: the creation of the public as herd.
 The public has no history and no future; the public lives in a golden moment created by a credit system which binds them ineluctably to a web of illusions that is never critiqued.
 This is the ultimate consequence of having broken off the symbiotic relationship with the Gaian matrix of the planet. This is the consequence of lack of partnership; this is the legacy of imbalance between the sexes.
 ## Hallucinogenic Indoles as Evolutionary Agents

@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-In the Amazonian shamanic healing system documented by Michael J. Harner, **ayahuasca** (Banisteriopsis spp.) functions not as a direct curative substance but as a powerful **diagnostic and revelatory instrument**. The brew enables healers to identify the supernatural causes of illness — particularly those attributed to sorcery, bewitchment, and evil magic — and to devise appropriate countermeasures. The therapeutic efficacy of ayahuasca healing is deeply embedded in a cultural framework of **magical conditioning**, the healer's **omnipotent stance**, and a process of **doctrinal compliance** (Ehrenwald 1966) whereby patients unconsciously align with the healer's expectations. This page synthesizes the key mechanisms, visionary content, and theoretical frameworks that Harner identifies as central to understanding how ayahuasca heals.
+In the Amazonian shamanic healing system documented by Michael J. Harner, **ayahuasca** (Banisteriopsis spp.) functions not as a direct curative substance but as a powerful **diagnostic and revelatory instrument**. The brew enables healers to identify the supernatural causes of illness — particularly those attributed to sorcery, bewitchment, and evil magic — and to devise appropriate countermeasures. The therapeutic efficacy of ayahuasca healing is deeply embedded in a cultural framework of **magical conditioning**, the healer"s **omnipotent stance**, and a process of **doctrinal compliance** (Ehrenwald 1966) whereby patients unconsciously align with the healer's expectations. This page synthesizes the key mechanisms, visionary content, and theoretical frameworks that Harner identifies as central to understanding how ayahuasca heals.
 
 ## Mal de Ojo: The Envious Glance
 
@@ -22,7 +22,7 @@ The most characteristic and culturally elaborated visions experienced under ayah
 
 ### Visions of Bewitchment and Hidden Motives
 
-Ayahuasca visions frequently reveal the **identity of the person responsible for bewitching** the patient. Beyond simply identifying the sorcerer, visions can expose **panoramas of the patient's own innermost thoughts and feelings** — including sexual desire, vengeance, and hate — as well as visions of **potions being manufactured for harmful purposes**. These revelatory experiences serve to externalize and concretize what had previously been experienced as a vague, undifferentiated malaise, transforming the patient's relationship to their suffering. The patient moves from "something is wrong with me" to "this specific person has done this specific thing to me," a shift that is itself therapeutically significant.
+Ayahuasca visions frequently reveal the **identity of the person responsible for bewitching** the patient. Beyond simply identifying the sorcerer, visions can expose **panoramas of the patient"s own innermost thoughts and feelings** — including sexual desire, vengeance, and hate — as well as visions of **potions being manufactured for harmful purposes**. These revelatory experiences serve to externalize and concretize what had previously been experienced as a vague, undifferentiated malaise, transforming the patient's relationship to their suffering. The patient moves from "something is wrong with me" to "this specific person has done this specific thing to me," a shift that is itself therapeutically significant.
 
 ### Managing "Bad Trips" Through Cultural Framework
 
@@ -49,7 +49,7 @@ Beyond the ayahuasca experience itself, healers employ a range of **additional t
 
 - **Whistling and singing** (including the icaros learned from the vine spirit)
 - **Orations** and invocations directed at the spirit world
-- **Sucking** (to extract harmful substances or intrusive objects from the patient's body)
+- **Sucking** (to extract harmful substances or intrusive objects from the patient"s body)
 - **Blowing tobacco smoke** for purification and exorcism
 
 These techniques form an integrated therapeutic repertoire that surrounds and supports the visionary diagnostic process, creating a multi-modal healing event.

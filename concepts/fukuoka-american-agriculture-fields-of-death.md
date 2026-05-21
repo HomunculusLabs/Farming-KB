@@ -1,5 +1,5 @@
 ---
-title: "Fukuoka's Critique of American Agriculture: Fields of Death and Drying Continents"
+title: "Fukuoka"s Critique of American Agriculture: Fields of Death and Drying Continents"
 tags:
   - concept
 ---
@@ -14,7 +14,7 @@ in California to depleted soils on the East Coast.
 
 ## The Mississippi Grain Belt
 
-Fukuoka's aerial view of the American Midwest revealed the true scale of
+Fukuoka"s aerial view of the American Midwest revealed the true scale of
 industrial monoculture. The land was divided in checkerboard fashion into
 large farms, with fields of a single crop spreading as far as the eye
 could see. From the air, the alternating pattern of green and brown
@@ -34,7 +34,7 @@ energy inputs to maintain current levels of production.
 
 ## Pine Die-Off: California and Japan
 
-Fukuoka's critique extended to American forestry. He observed that the
+Fukuoka"s critique extended to American forestry. He observed that the
 pines of California were dying in exactly the same way as the pines of
 Japan — first one tree succumbing, then dozens in the vicinity the
 following year, with identical initial symptoms. He concluded that the

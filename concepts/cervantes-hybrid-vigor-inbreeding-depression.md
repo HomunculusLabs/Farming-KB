@@ -19,7 +19,7 @@ parental lines in some character, or most often in sets of characters
 (F1 > P1 or P2). F1 hybrids are often bigger and more robust and grow
 faster than either of the parent populations used in their creation.
 
-For example, a ('Skunk #1' x 'Blueberry') F1 hybrid may grow faster and
+For example, a ("Skunk #1' x 'Blueberry') F1 hybrid may grow faster and
 yield more than either the pure 'Skunk #1' or 'Blueberry' parent
 populations. Often, heterosis is apparent as a tolerance to adverse
 environmental conditions, making hybrid plants more resilient.

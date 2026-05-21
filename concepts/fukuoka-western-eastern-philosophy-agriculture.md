@@ -13,7 +13,7 @@ Throughout his travels abroad, Masanobu Fukuoka developed a keen analysis of the
 
 ## The Cartesian Foundation of Western Agriculture
 
-Fukuoka identified Descartes' famous proposition -- "I think, therefore I am" -- as the philosophical starting point of Western agriculture's problems. This statement implies:
+Fukuoka identified Descartes" famous proposition -- "I think, therefore I am" -- as the philosophical starting point of Western agriculture"s problems. This statement implies:
 - "If I did not exist, there would be no nature"
 - Nature exists only because the self-reflecting "I" exists
 - Nature may be used and refashioned as man pleases to serve him
@@ -28,7 +28,7 @@ Fukuoka observed during his interactions with Western visitors to his farm:
 
 ## The Road Back to Nature
 
-Fukuoka's poetic reflections captured his philosophy:
+Fukuoka"s poetic reflections captured his philosophy:
 
 - "The flower perceived innocently is itself divine nature, but when examined with the intellect, this is transformed into the cold flower of reason"
 - "Reason and understanding are mutually antagonistic. They play opposing roles."

@@ -8,12 +8,12 @@ sources: [tompkins-secret-life-of-plants.md]
 type: concept
 ---
 
-## George Washington Carver's Plant Work
+## George Washington Carver"s Plant Work
 
 George Washington Carver (1864-1943), the agricultural chemist heralded as
 the "Black Leonardo," transformed Southern agriculture through his intuitive
 relationship with plants. Working at Tuskegee Institute from a laboratory he
-called "God's Little Workshop," Carver turned the lowly peanut and the sweet
+called "God"s Little Workshop," Carver turned the lowly peanut and the sweet
 potato into hundreds of valuable products, restored depleted soils, and
 demonstrated that plants could reveal their secrets to those who approached
 them with love and attentiveness.
@@ -26,23 +26,23 @@ their holdings, examining plants and bringing back varieties with which he
 could miraculously heal sick animals. He planted a private garden in a
 remote bit of bottomland, built a secret greenhouse in the woods, and
 told those who asked: "I go to my garden hospital and take care of hundreds
-of sick plants." Farmers' wives brought him ailing house plants, and he
+of sick plants." Farmers" wives brought him ailing house plants, and he
 cared for them in his special soil, sang to them in his squeaky voice,
 and covered them tenderly at night. When asked how he worked his miracles,
 he said softly: "All flowers talk to me and so do hundreds of little living
 things in the woods. I learn what I know by watching and loving everything."
 
-Carver earned his master's degree at Iowa State College, where his most
+Carver earned his master"s degree at Iowa State College, where his most
 lasting impression came from his teacher Henry Cantwell Wallace's statement
 that "nations endure only as long as their topsoil." When Booker T.
-Washington invited him to run Tuskegee's agricultural department, Carver
+Washington invited him to run Tuskegee"s agricultural department, Carver
 accepted, like Bose, choosing service to his people over comfortable
-academic posts. In his private laboratory, "God's Little Workshop," he
+academic posts. In his private laboratory, "God"s Little Workshop," he
 never allowed a single book to penetrate, communing directly with plants.
 
 ## Key Concepts
 
-- Carver's methods were intuitive and inspirational rather than
+- Carver"s methods were intuitive and inspirational rather than
   strictly analytical, similar to those of the alchemists
 - He established that peanuts and sweet potatoes could serve as the
   basis for hundreds of industrial and food products
@@ -66,7 +66,7 @@ rotated crops, leading Carver to conclude that "the very fertilizers
 which existed in almost unlimited supply were allowed to go to waste in
 favor of commercially sold products."
 
-Each morning Carver rose at four o'clock to walk in the woods before
+Each morning Carver rose at four o"clock to walk in the woods before
 work, bringing back countless plants for his lectures. "Nature is the
 greatest teacher," he said, "and I learn from her best when others are
 asleep. In the still dark hours before sunrise God tells me of the plans

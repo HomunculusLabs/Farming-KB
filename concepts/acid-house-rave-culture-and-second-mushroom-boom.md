@@ -26,12 +26,12 @@ exploration spread rapidly across the Atlantic.
 Acid House reached London from Ibiza in the late 1980s, triggering a
 second summer of love. Fraser Clark, a self-styled "zippie" and
 founder of the legendary clubs Megatripolis and Parallel Youniversity,
-enthusiastically declared it "a fuel-injection that's bringing together
+enthusiastically declared it "a fuel-injection that"s bringing together
 the best in new age, the best in rave, and the best in green ecology.
 It's an evolutionary revolution that's going to go on growing through
 the '90s and into the 21st century."
 
-## Leary's Influence on the Rave Generation
+## Leary"s Influence on the Rave Generation
 
 [[mckenna-consciousness-expansion-and-drug-war]] resonated with young people who had
 discovered [[guzman-magic-mushrooms-african-species]] gained new appeal. They were

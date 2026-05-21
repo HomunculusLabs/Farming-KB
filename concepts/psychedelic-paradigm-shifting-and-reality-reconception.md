@@ -10,13 +10,13 @@ tags: [psychedelics]
 
 ## Psychedelic Paradigm Shifting and Reality Reconception
 
-Simon G. Powell's "The Psilocybin Solution" presents the [[leary-psychedelic-experience-bardo-mapping]] to the holistic nature of religious and mystical thought, both of which attempt to provide overall schemes for understanding reality.
+Simon G. Powell"s "The Psilocybin Solution" presents the [[leary-psychedelic-experience-bardo-mapping]] to the holistic nature of religious and mystical thought, both of which attempt to provide overall schemes for understanding reality.
 
 The subjective paradigm shift differs from ordinary learning or intellectual persuasion in its totality and immediacy. Where a scientific paradigm shift may take decades to propagate through a community, the entheogenic paradigm shift occurs within the space of a single experience. The individual does not gradually come to see the world differently; rather, the world reveals itself in a fundamentally different aspect, much as a gestalt shift allows a single image to be perceived as two entirely different figures. This sudden, holistic quality is what gives the entheogenic experience its transformative power and its resistance to integration into pre-existing belief systems.
 
 ## The Long-Term Digestive Refinement
 
-One of Powell's most distinctive contributions is his description of how paradigm shifting from the psilocybin experience is not a single instantaneous event but an ongoing process. The paradigms that crumble in the wake of the experience continue to be rebuilt over extended periods, "almost as if some process of long-term digestive refinement was taking place."
+One of Powell"s most distinctive contributions is his description of how paradigm shifting from the psilocybin experience is not a single instantaneous event but an ongoing process. The paradigms that crumble in the wake of the experience continue to be rebuilt over extended periods, "almost as if some process of long-term digestive refinement was taking place."
 
 This long-term integration process means that new conceptual tools or "new improved lenses" acquired through the experience gradually challenge old paradigms. If old paradigms cannot accommodate the entheogenic experience, they must either be adapted or confined to the past. It is in this way that turner-psilocybin-mushroom-experience-guide is no more than a trap-like aberration.
 

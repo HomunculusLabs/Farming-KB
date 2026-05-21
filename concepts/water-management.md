@@ -27,7 +27,7 @@ Water is the most critical resource on a homestead. Permaculture water managemen
 
 ## The Fivefold Water Strategy
 
-From Gaia's Garden, effective water management combines five approaches:
+From Gaia"s Garden, effective water management combines five approaches:
 
 1. **Rich soil** (high organic matter) -- stores water like a sponge. Every 1% increase in organic matter allows soil to hold roughly 20,000 more gallons of water per acre
 2. **Contouring and swales** -- catch and redirect runoff

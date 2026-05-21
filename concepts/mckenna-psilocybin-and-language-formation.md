@@ -18,13 +18,13 @@ psychedelics in culture.
 
 ## The Language-Forming Capacity of the Brain
 
-McKenna identifies psilocybin's main synergistic effect as operating
+McKenna identifies psilocybin"s main synergistic effect as operating
 ultimately in the domain of language. He writes that psilocybin "excites
 vocalization; it empowers articulation; it transmutes language into
 something that is visibly beheld." This synesthetic effect -- the ability
 to associate sounds with meaningful internal images -- is precisely the
 neural activity underlying language. The most recently evolved areas of the
-human brain, Broca's area and the neocortex, are devoted to the control of
+human brain, Broca"s area and the neocortex, are devoted to the control of
 symbol and language processing, and psilocybin directly stimulates these
 regions.
 

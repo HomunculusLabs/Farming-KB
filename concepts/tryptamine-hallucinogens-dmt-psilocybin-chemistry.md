@@ -11,7 +11,7 @@ sources: [raw/papers/mckenna_t-tryptamines_consciousness.md]
 
 ## Overview
 
-The tryptamine hallucinogens are a family of psychoactive compounds derived from the amino acid tryptophan, sharing a core indole ring structure. The principal members discussed in McKenna's 1983 Esalen lecture are dimethyltryptamine (DMT), psilocybin, and ayahuasca (an oral DMT preparation). These compounds are distinguished from other hallucinogens like LSD and mescaline by their unique phenomenological profile, their relationship to endogenous neurotransmitters, and their concentration of activity in the visual cortex and language centers of the brain.
+The tryptamine hallucinogens are a family of psychoactive compounds derived from the amino acid tryptophan, sharing a core indole ring structure. The principal members discussed in McKenna"s 1983 Esalen lecture are dimethyltryptamine (DMT), psilocybin, and ayahuasca (an oral DMT preparation). These compounds are distinguished from other hallucinogens like LSD and mescaline by their unique phenomenological profile, their relationship to endogenous neurotransmitters, and their concentration of activity in the visual cortex and language centers of the brain.
 
 ## Structural Chemistry
 

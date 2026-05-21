@@ -38,12 +38,12 @@ The intramuscular route is specified because DMT is not orally active as a sole 
 - **Total duration (IM):** Approximately 30 minutes for full-dose experience
 - **After-effects:** Rapid return to baseline within 1–2 hours
 
-The extraordinary brevity of DMT's action — producing a full psychedelic experience compressed into roughly 30 minutes — distinguishes it sharply from LSD and mescaline, whose effects last 8–10 hours. This pharmacokinetic profile has earned DMT the popular description as the "businessman's trip."
+The extraordinary brevity of DMT"s action — producing a full psychedelic experience compressed into roughly 30 minutes — distinguishes it sharply from LSD and mescaline, whose effects last 8–10 hours. This pharmacokinetic profile has earned DMT the popular description as the "businessman"s trip."
 
 ## Key Facts
 
 1. DMT is endogenously produced in the human body, with detectable levels in cerebrospinal fluid, blood, and urine.
-2. [[rick-strassman]]'s clinical research at the University of New Mexico (1990–1995) produced the first FDA-approved human DMT studies in over two decades, documented in *DMT: The Spirit Molecule* (2000).
+2. [[rick-strassman]]"s clinical research at the University of New Mexico (1990–1995) produced the first FDA-approved human DMT studies in over two decades, documented in *DMT: The Spirit Molecule* (2000).
 3. DMT is a core component of ayahuasca, the Amazonian psychoactive brew that combines DMT-containing plants (*[[psychotria-viridis]]*, *Diplopterys cabrerana*) with MAO inhibitor-containing vines (*[[banisteriopsis-caapi]]*).
 4. The compound produces some of the most intense and otherworldly visionary experiences reported with any psychedelic, including encounters with apparently autonomous entities.
 5. DMT is structurally related to serotonin (5-hydroxytryptamine) and psilocin (4-HO-DMT), the active metabolite of psilocybin.
@@ -53,7 +53,7 @@ The extraordinary brevity of DMT's action — producing a full psychedelic exper
 
 In *The Psychedelic Experience*, DMT occupies a specialized role. At full dose (50–60 mg IM), Leary describes it as producing a complete transcendental experience equivalent in depth to 500 mcg of LSD — the highest dose range recommended in the text. The experience is every bit as profound but compressed into a fraction of the time.
 
-As a "set-breaker" at 50 mg, DMT serves a therapeutic function within ongoing sessions. When a voyager becomes trapped in repetitive thought-patterns or "game-routines" — cyclical ego-defenses that prevent deeper exploration — a DMT injection can shatter the loop and reopen the experience to new phenomenological territory. This application reflects Leary's understanding that psychedelic sessions can stagnate, and that pharmacological intervention may be necessary to restore momentum toward transcendence.
+As a "set-breaker" at 50 mg, DMT serves a therapeutic function within ongoing sessions. When a voyager becomes trapped in repetitive thought-patterns or "game-routines" — cyclical ego-defenses that prevent deeper exploration — a DMT injection can shatter the loop and reopen the experience to new phenomenological territory. This application reflects Leary"s understanding that psychedelic sessions can stagnate, and that pharmacological intervention may be necessary to restore momentum toward transcendence.
 
 The concept of using a short-acting psychedelic as a booster or reset mechanism within a longer session is pharmacologically sophisticated and reflects the practical clinical experience of Leary's research group at Harvard and subsequent venues.
 

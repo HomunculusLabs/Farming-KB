@@ -21,7 +21,7 @@ Psycholytic psychotherapy is a form of psychedelic-assisted treatment developed 
 
 Unlike the high-dose psychedelic therapy model developed in Anglo-American circles, psycholytic therapy employs a series of sessions at gradually increasing doses. Patients suffering from anxiety, depression, obsessive-compulsive disorders, and psychosomatic conditions received LSD while undergoing analytic interactions grounded in a Freudian perspective.
 
-The approach emerged from the first research conducted at Sandoz laboratories in Switzerland, where Albert Hofmann had synthesized LSD-25 and accidentally discovered its psychoactive properties in 1943. The early Sandoz papers described the drug's effects as bringing about a loosening of psychic defenses.
+The approach emerged from the first research conducted at Sandoz laboratories in Switzerland, where Albert Hofmann had synthesized LSD-25 and accidentally discovered its psychoactive properties in 1943. The early Sandoz papers described the drug"s effects as bringing about a loosening of psychic defenses.
 
 Psycholytic therapy became the dominant model for LSD-assisted psychotherapy in continental Europe, while the psychedelic therapy model gained greater acceptance in Anglo-American circles. Both coexisted throughout the 1950s and 1960s until restrictive drug legislation terminated both lines of research in the early 1970s.
 
@@ -47,7 +47,7 @@ Post-session integration formed a critical component of the psycholytic process.
 
 European psycholytic clinics developed sophisticated patient screening procedures to identify suitable candidates for treatment. Contraindications included schizophrenia, active psychosis, severe personality disorders, and cardiovascular conditions. The screening process typically involved multiple preparatory interviews, psychological testing, and medical examination before the first drug-assisted session was permitted.
 
-## Grof's Perinatal Matrices
+## Grof"s Perinatal Matrices
 
 The Czech psychiatrist Stanislav Grof, working within the psycholytic model, made the startling discovery that a series of increasing LSD doses could produce an even deeper psychic opening beyond Freudian dynamics. After resolving conflicts stemming from early childhood, patients would relive significant features of their birth experience.
 
@@ -83,7 +83,7 @@ The amplifier analogy finds support in the observation that psychedelics increas
 
 LSD and psilocybin act primarily as 5-HT2A receptor agonists, modulating serotonin signaling in cortical and subcortical circuits. This pharmacological mechanism produces the characteristic expansion of conscious awareness that psycholytic therapists exploited for therapeutic purposes.
 
-The therapeutic relevance of the set-and-setting principle has been confirmed by modern neuroimaging studies showing that contextual expectations and environmental conditions significantly modulate the brain's response to psychedelic compounds, validating the clinical intuition of the early psycholytic practitioners.
+The therapeutic relevance of the set-and-setting principle has been confirmed by modern neuroimaging studies showing that contextual expectations and environmental conditions significantly modulate the brain"s response to psychedelic compounds, validating the clinical intuition of the early psycholytic practitioners.
 
 Contemporary research has also validated the psycholytic emphasis on therapist experience. Studies examining therapeutic alliance in psychedelic-assisted treatment consistently find that the quality of the therapeutic relationship is a primary predictor of positive outcomes, corroborating the original European model's requirement that clinicians undergo personal psychedelic experiences before treating patients.
 
@@ -101,7 +101,7 @@ Modern clinical trials of psilocybin-assisted therapy for depression, anxiety, a
 
 Institutions such as the Multidisciplinary Association for Psychedelic Studies (MAPS), the Johns Hopkins Center for Psychedelic and Consciousness Research, and Imperial College London's Centre for Psychedelic Research have revived the clinical study of these compounds, building directly on the protocols and insights developed during the psycholytic era.
 
-The term "psychedelic," popularized by Leary and the Harvard group, means "mind-manifesting." The term "hallucinogen," most often used in psychiatric research literature, derives from the Latin alucinare, meaning "to wander in one's mind." The term "entheogen," proposed by R. Gordon Wasson and Jonathan Ott, means "releasing the divine within."
+The term "psychedelic," popularized by Leary and the Harvard group, means "mind-manifesting." The term "hallucinogen," most often used in psychiatric research literature, derives from the Latin alucinare, meaning "to wander in one"s mind." The term "entheogen," proposed by R. Gordon Wasson and Jonathan Ott, means "releasing the divine within."
 
 ## See Also
 

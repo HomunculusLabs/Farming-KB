@@ -86,7 +86,7 @@ as supplementary revenue streams. Common add-ons include eggs, meat, mushrooms,
    Production Using Deep-Organic Techniques and Unheated Greenhouses*.
    Chelsea Green Publishing, 2009.
 
-2. Mollison, Bill. *Permaculture: A Designers' Manual*. Tagari Publications,
+2. Mollison, Bill. *Permaculture: A Designers" Manual*. Tagari Publications,
    1988.
 
 3. Holmgren, David. *Permaculture: Principles and Pathways Beyond

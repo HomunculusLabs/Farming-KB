@@ -1,5 +1,5 @@
 ---
-title: Fukuoka's Philosophy in Practice
+title: Fukuoka"s Philosophy in Practice
 created: 2026-04-11
 updated: 2026-04-12
 type: concept
@@ -31,13 +31,13 @@ Masanobu Fukuoka (1913-2008) developed a farming philosophy rooted in Buddhist "
 
 ## Mu and the "Do-Nothing" Movement
 
-Fukuoka described natural farming as originating in "the philosophy of Mu, or nothingness, and returns to a 'do-nothing' nature." He distinguished this from laziness: it requires decades of observation to learn what *not* to do. Human knowledge and effort "expand and grow increasingly complex and wasteful without limit." The do-nothing farmer works to "converge, simplify, and reduce."
+Fukuoka described natural farming as originating in "the philosophy of Mu, or nothingness, and returns to a "do-nothing' nature." He distinguished this from laziness: it requires decades of observation to learn what *not* to do. Human knowledge and effort "expand and grow increasingly complex and wasteful without limit." The do-nothing farmer works to "converge, simplify, and reduce."
 
 His awakening came at age 25: "Humanity knows nothing at all. There is no intrinsic value in anything, and every action is a futile, meaningless effort." Rather than despair, this became liberation -- if human knowledge is inherently limited, then the wisest path is to let nature lead.
 
 ## The Four Principles
 
-1. **No cultivation** -- Plowing destroys soil structure, breaks fungal networks, and compacts soil. Nature never plows; roots, earthworms, and microbes aerate soil far deeper than any hoe. Fukuoka's fields went 30+ years without tilling.
+1. **No cultivation** -- Plowing destroys soil structure, breaks fungal networks, and compacts soil. Nature never plows; roots, earthworms, and microbes aerate soil far deeper than any hoe. Fukuoka"s fields went 30+ years without tilling.
 2. **No chemical fertilizer** -- Chemical inputs disrupt natural nutrient cycling. Fukuoka used clover, straw mulch, and chicken manure. Soil fertility comes from the living food web. See [[soil-food-web-nutrient-cycling]].
 3. **No weeding** -- Weeds are soil builders and indicators. White clover as living mulch suppresses unwanted weeds. Straw mulch blocks germination. When weeds appear, ask "what is the soil telling me?" See [[weed-management-strategies]].
 4. **No pesticides** -- Balanced ecosystems self-regulate. Diversified plantings resist outbreaks. Ducks eat insects and weeds in paddies. See [[insect-allies]].
@@ -62,7 +62,7 @@ His practice: spend a full year watching your land before making changes. Notice
 
 ## The Rice/Barley Rotation System
 
-Fukuoka's signature method -- "direct-seeded, no-tillage, winter grain/rice succession in a clover cover":
+Fukuoka"s signature method -- "direct-seeded, no-tillage, winter grain/rice succession in a clover cover":
 
 - **Early October**: Broadcast clover over standing rice; sow barley seed 2 weeks before rice harvest
 - **October/November**: Harvest rice (treading on young barley shoots); thresh; scatter rice straw uncut; form clay pellets with rice seed, scatter before New Year
@@ -87,9 +87,9 @@ He extended this to [[food-forest-design]] concepts: fruit trees, vegetables, gr
 
 ## Biographical Details (One-Straw Revolution)
 
-Fukuoka's spiritual awakening came during a near-death experience at age 25. Working as a plant pathologist at the Yokohama Customs Bureau under Professor Eiichi Kurosawa (who first isolated gibberellin from rice bakanae disease fungus), he fell ill with acute pneumonia. In the hospital, facing death: "Humanity knows nothing at all. There is no intrinsic value in anything, and every action is a futile, meaningless effort."
+Fukuoka"s spiritual awakening came during a near-death experience at age 25. Working as a plant pathologist at the Yokohama Customs Bureau under Professor Eiichi Kurosawa (who first isolated gibberellin from rice bakanae disease fungus), he fell ill with acute pneumonia. In the hospital, facing death: "Humanity knows nothing at all. There is no intrinsic value in anything, and every action is a futile, meaningless effort."
 
-He left his scientific career in 1938 and moved to a mountain hut on his family's land to farm citrus and grain. His first orchard was a disaster — his father had already pruned the trees to "sake cup shape"; when Fukuoka simply abandoned them, branches tangled, insects attacked, and the entire orchard withered. "This is abandonment, not natural farming."
+He left his scientific career in 1938 and moved to a mountain hut on his family"s land to farm citrus and grain. His first orchard was a disaster — his father had already pruned the trees to "sake cup shape"; when Fukuoka simply abandoned them, branches tangled, insects attacked, and the entire orchard withered. "This is abandonment, not natural farming."
 
 He spent 8 years at the Kochi Prefecture Testing Station as Head Researcher of Disease and Insect Control, pondering the relationship between scientific and natural agriculture while increasing wartime food productivity. After WWII, he returned home and spent 30 years heading "in a straight line toward a do-nothing agricultural method" — asking not "how about trying this?" but "how about NOT doing this?" He wiped out another 400 trees before arriving at the natural pattern.
 
@@ -97,7 +97,7 @@ His method: "No need to plough, no need to apply fertilizer, no need to make com
 
 ## Growing Rice in a Dry Field
 
-Fukuoka's rice plants are intentionally compact -- not the tall, leafy plants of conventional flooded paddies:
+Fukuoka"s rice plants are intentionally compact -- not the tall, leafy plants of conventional flooded paddies:
 
 - **Compact plants**: Keep the head small, do not over-nourish, let them grow true to the natural form
 - **1 square inch of leaf produces 6 grains of rice**; 3-4 small leaves produce 100 grains per head
@@ -120,7 +120,7 @@ Fukuoka was deeply critical of reductionist agricultural science:
 
 ## Insect Ecology: Spiders and Leafhoppers
 
-A vivid illustration of ecosystem complexity from Fukuoka's fields:
+A vivid illustration of ecosystem complexity from Fukuoka"s fields:
 
 - One autumn morning, rice stubble and low grasses became completely covered with spider webs "as though with silk" -- waving and sparkling with morning mist
 - Several spiders per square inch; millions across a quarter acre

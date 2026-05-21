@@ -21,7 +21,6 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - https://www.fsai.ie/legislation/food_legislation/additives/sweeteners/steviol_glycosides.html---
----
 
 ## Overview
 

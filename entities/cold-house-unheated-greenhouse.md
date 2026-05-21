@@ -7,7 +7,7 @@ tags: [technique, infrastructure, greenhouse, season-extension, winter-productio
 
 ## Overview
 
-A "cold house" is Eliot Coleman's term for an unheated greenhouse used for [[coleman-french-historical-winter-vegetable-production]]. In contrast to traditional heated "hothouses" (maintained at 55-65°F for crops like tomatoes and lettuce), the cold house relies entirely on passive solar gain and an inner layer of [[floating-row-cover]] to create a climate suitable for cold-hardy vegetables through the winter months. At [[four-season-farm]] in Harborside, Maine (Zone 5), cold houses enable year-round production despite outdoor temperatures reaching -20°F (-29°C).
+A "cold house" is Eliot Coleman"s term for an unheated greenhouse used for [[coleman-french-historical-winter-vegetable-production]]. In contrast to traditional heated "hothouses" (maintained at 55-65°F for crops like tomatoes and lettuce), the cold house relies entirely on passive solar gain and an inner layer of [[floating-row-cover]] to create a climate suitable for cold-hardy vegetables through the winter months. At [[four-season-farm]] in Harborside, Maine (Zone 5), cold houses enable year-round production despite outdoor temperatures reaching -20°F (-29°C).
 
 ## Terminology Note
 

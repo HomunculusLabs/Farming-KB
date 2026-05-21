@@ -16,13 +16,13 @@ inspired by this tradition that he titled his own philosophical work
 Zendavesta. [[carbon-dioxide-retention-jar-lid-mushroom-cultivation]] and, through death, returning as manure to be
 transformed into "the most glorious forms and colors."
 
-## Luther Burbank's Intuitive Methods
+## Luther Burbank"s Intuitive Methods
 
 Luther Burbank (1849-1926), the "Wizard of Horticulture," created
 botanical specimens "undreamed of by nature" through methods that
 baffled academic botanists. Hugo De Vries, the Dutch geneticist, visited
 Burbank expecting to find files of data but discovered the "laboratory"
-was kept in Burbank's head, with notes on brown-paper bag tearings and
+was kept in Burbank"s head, with notes on brown-paper bag tearings and
 envelope backs.
 
 Burbank told the 1901 [[shipibo-san-francisco-ceremonial-center-ucayali]] Floral Congress: "The chief work of

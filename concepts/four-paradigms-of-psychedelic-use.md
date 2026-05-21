@@ -17,7 +17,7 @@ in three significant ways:
 1. **Minimal verbal interaction**: Very little or no talking occurs among
    participants during the ceremony itself, except during preparation or
    afterward to clarify teachings and visions received.
-2. **Essential role of singing**: The shaman's singing (or icaros in the
+2. **Essential role of singing**: The shaman"s singing (or icaros in the
    Amazonian context) is considered essential to the success of healing or
    divination. The rhythmic chanting provides psychic support for moving
    through visions and minimizes the likelihood of getting stuck.

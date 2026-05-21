@@ -10,7 +10,7 @@ sources:
 
 ## Clay Pellet Desert Greening
 
-One of Masanobu Fukuoka's most ambitious projects was the use of clay pellet seed balls for [[fungi-around-the-world-species-distribution]]. The clay pellet method represents one of the simplest and most elegant examples of working with natural processes rather than against them.
+One of Masanobu Fukuoka"s most ambitious projects was the use of clay pellet seed balls for [[fungi-around-the-world-species-distribution]]. The clay pellet method represents one of the simplest and most elegant examples of working with natural processes rather than against them.
 
 ## The Seed Ball Technique
 

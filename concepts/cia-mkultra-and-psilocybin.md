@@ -8,11 +8,11 @@ tags: [reference]
 ---
 ## CIA MKULTRA and Psilocybin
 
-The involvement of the United States Central Intelligence Agency with psilocybin represents one of the most unsettling episodes in the history of [[powell-psilocybin-solution-ecological-cognition-theory]]," the CIA's covert interest in sacred mushrooms emerged almost simultaneously with legitimate scientific investigation, creating a counter-current to psilocybin's spiritual mystique that would ultimately contribute to the substance's prohibition.
+The involvement of the United States Central Intelligence Agency with psilocybin represents one of the most unsettling episodes in the history of [[powell-psilocybin-solution-ecological-cognition-theory]]," the CIA"s covert interest in sacred mushrooms emerged almost simultaneously with legitimate scientific investigation, creating a counter-current to psilocybin's spiritual mystique that would ultimately contribute to the substance's prohibition.
 
 ## Project MKULTRA and the Search for Mind Control
 
-By the 1950s, the CIA had initiated a massive long-term program called MKULTRA, a $25 million dollar enterprise concerned with finding chemical and biological materials for use in "mind-kontrol" and other psychological operations. The program, documented in John Marks' book "Search for the Manchurian Candidate," represented the agency's relentless and arguably psychotic search for evermore effective weaponry during the Cold War era.
+By the 1950s, the CIA had initiated a massive long-term program called MKULTRA, a $25 million dollar enterprise concerned with finding chemical and biological materials for use in "mind-kontrol" and other psychological operations. The program, documented in John Marks" book "Search for the Manchurian Candidate," represented the agency"s relentless and arguably psychotic search for evermore effective weaponry during the Cold War era.
 
 The CIA's interest in psychedelics was not purely academic. The agency sought substances that could be used for interrogation, brainwashing, and behavioural manipulation of both enemy agents and unwitting subjects. LSD, which had been synthesised by albert hofmann at Sandoz laboratories in Switzerland, was the primary focus, but rumours of sacred Mexican mushrooms soon attracted the agency's attention as well.
 
@@ -28,7 +28,7 @@ Thus the CIA's secret quest for the sacred mushroom became Subproject 58 of the 
 
 The Moore-Wasson expedition to Mexico revealed a profound clash of intentions. Wasson was sensitive to the customs of the native Mexican Indians and respectful of their cultural beliefs about the mushroom. He participated sincerely in the mushroom ceremony hosted by the [shaman Maria Sabina.
 
-Moore, by contrast, had absolutely no empathy for what was going on. He was there merely as a CIA pawn, interested only in extracting the mushroom's active compounds for military and intelligence applications. Where Wasson saw spiritual communion, Moore saw a potential weapon.
+Moore, by contrast, had absolutely no empathy for what was going on. He was there merely as a CIA pawn, interested only in extracting the mushroom"s active compounds for military and intelligence applications. Where Wasson saw spiritual communion, Moore saw a potential weapon.
 
 All members of Wasson's party took part in the mushroom ceremony, though Moore alone had a bad experience. Despite his negative reaction, Moore was still able to bring back fungal samples to the United States in the hope of isolating the active ingredient.
 
@@ -42,7 +42,7 @@ Heim sent his cultivated samples to Albert Hofmann at Sandoz laboratories in Swi
 
 Having failed in his original task, Moore was not terminated but later applied directly to Sandoz for a supply of psilocybin. The CIA maintained their clumsy interest in using the compound as an agent for mind-control. The agency soon began covertly testing psilocybin on unsuspecting American prisoners — not the best subjects when it comes to possessing a stable, healthy psyche.
 
-As the prisoners reported bizarre and unpredictable experiences, it became clear that psilocybin could not enter the CIA's arsenal. It was, as Powell puts it, "just too darn unpredictable." The compound's effects were too dependent on [[lsd-set-and-setting-framework]], too variable between individuals, and too inclined toward producing mystical or visionary experiences rather than compliant or suggestible states.
+As the prisoners reported bizarre and unpredictable experiences, it became clear that psilocybin could not enter the CIA"s arsenal. It was, as Powell puts it, "just too darn unpredictable." The compound"s effects were too dependent on [[lsd-set-and-setting-framework]], too variable between individuals, and too inclined toward producing mystical or visionary experiences rather than compliant or suggestible states.
 
 Thankfully, the CIA then turned their belligerent attention elsewhere, though their broader involvement with LSD continued for years under MKULTRA and related programs such as [Operation Midnight Climax and various unwitting dosing experiments on civilian populations.
 
@@ -52,7 +52,7 @@ The CIA's involvement with psilocybin had several lasting consequences for the t
 
 First, it established a precedent of government secrecy around psychedelic substances that would later make legitimate scientific research more difficult to justify publicly. When the full scope of MKULTRA was revealed during the 1975 Church Committee hearings, public trust in government-sanctioned psychedelic research was severely damaged.
 
-Second, the CIA's continued interest in maintaining what Powell calls a "monopoly on psychedelic drugs" contributed to the political opposition that arose against [Harvard's psilocybin experiments in the early 1960s. The agency viewed widespread popular experimentation with psychedelics as a threat to their own covert programs.
+Second, the CIA's continued interest in maintaining what Powell calls a "monopoly on psychedelic drugs" contributed to the political opposition that arose against [Harvard"s psilocybin experiments in the early 1960s. The agency viewed widespread popular experimentation with psychedelics as a threat to their own covert programs.
 
 Third, the agency's failed attempt to weaponise psilocybin ironically demonstrated something that advocates had long argued: that the mushroom's effects are fundamentally incompatible with coercive control. The psilocybin experience tends to produce increased autonomy, critical thinking, and spiritual awareness — qualities that are antithetical to mind control.
 
@@ -83,7 +83,7 @@ One of the most notorious MKULTRA subprojects was Operation Midnight Climax, run
 The CIA set up "safehouses" in San Francisco and New York, employing sex workers to lure men back to the apartments where they were secretly dosed with LSD.
 CIA agents observed the subjects through two-way mirrors and recorded their behavior, hoping to determine whether LSD could be used for interrogation or as a weapon of discredit.
 The program was later expanded to include unwitting dosing of people in restaurants, bars, and beaches.
-Ken Kesey, who would later become a key figure in the psychedelic counterculture as author of "One Flew Over the Cuckoo's Nest," first encountered LSD as a volunteer in what he believed was a legitimate government research program at the Veterans Administration Hospital in Menlo Park — a program that was in fact an MKULTRA-funded experiment.
+Ken Kesey, who would later become a key figure in the psychedelic counterculture as author of "One Flew Over the Cuckoo"s Nest," first encountered LSD as a volunteer in what he believed was a legitimate government research program at the Veterans Administration Hospital in Menlo Park — a program that was in fact an MKULTRA-funded experiment.
 The irony of MKULTRA inadvertently seeding the counterculture it sought to suppress is a recurring theme in psychedelic history.
 See [[psychedelic-prohibition-and-the-war-on-consciousness]] — The broader prohibition movement
 - [[maria-sabina-mazatec-mushroom-ceremony]] ceremonies

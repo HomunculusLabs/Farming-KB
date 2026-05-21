@@ -26,7 +26,7 @@ Environmental requirements limit it to regions of mild temperatures and high hum
 
 ## Morphological Identification
 
-The following botanical description is drawn from Orson K. Miller, Jr.'s *Mushrooms [[huckleberries-and-wild-berries-of-north-america]]*:
+The following botanical description is drawn from Orson K. Miller, Jr."s *Mushrooms [[huckleberries-and-wild-berries-of-north-america]]*:
 
 **Cap:** 1.5–8 cm broad, conic to bell-shaped when young, becoming convex with age. Surface viscid (slimy when wet), without hairs, whitish to pale yellow, becoming light brownish in age. The cap stains bluish when bruised or damaged.
 

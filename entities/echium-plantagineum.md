@@ -16,7 +16,7 @@ sources:
 
 ## Overview
 
-Echium plantagineum, commonly known as Paterson's curse or Salvation Jane, is an annual or biennial herb in the family Boraginaceae. Native to the Mediterranean region, it has become one of Australia's most economically damaging invasive weeds.
+Echium plantagineum, commonly known as Paterson"s curse or Salvation Jane, is an annual or biennial herb in the family Boraginaceae. Native to the Mediterranean region, it has become one of Australia's most economically damaging invasive weeds.
 
 The plant produces striking blue-purple flower spikes that cover vast areas of pastoral land in south-eastern Australia. These spectacular displays belie the plant's toxicity to livestock and its impact on agricultural productivity.
 

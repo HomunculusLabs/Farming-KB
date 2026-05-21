@@ -10,7 +10,7 @@ type: entity
 
 Hussey was an English mycologist and author of the 19th century, listed by [[julius-auboineau-palmer]] as one of the few English authorities on fungi. Palmer names Hussey alongside Cooke, Berkeley, Smith, and Badham as the principal English experts on this "[[neglected-science-of-mycology]]" of [[mycology]].
 
-Hussey's inclusion in this select group indicates that his published works were considered essential references by American mycologists and were accessible in Boston's scientific libraries.
+Hussey"s inclusion in this select group indicates that his published works were considered essential references by American mycologists and were accessible in Boston's scientific libraries.
 
 ## Classification
 

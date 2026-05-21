@@ -88,7 +88,7 @@ mixing. This ensures even distribution and prevents clumping.
 
 ## Substrate Mixing Technique
 
-Each jar's substrate should be mixed individually to ensure accurate formula
+Each jar"s substrate should be mixed individually to ensure accurate formula
 rendering. This prevents variation between jars that could lead to inconsistent
 results. The mixed substrate should feel damp and cohesive — not wet or sloppy.
 

@@ -28,7 +28,7 @@ Any adult who desires to become a shaman simply presents a gift to a practicing 
 4. The novice stays in bed for ten days, drinking natem every evening
 5. Sexual abstinence is required for at least three months (five for killing/curing power; a full year for effectiveness)
 
-After the first month, a tsentsak emerges from the novice's mouth. If he can control the tremendous desire to bewitch and reswallow it, he becomes a **curing shaman**. If he casts it, he becomes a **bewitching shaman**.
+After the first month, a tsentsak emerges from the novice"s mouth. If he can control the tremendous desire to bewitch and reswallow it, he becomes a **curing shaman**. If he casts it, he becomes a **bewitching shaman**.
 
 ## Tsentsak: Spirit Helpers
 
@@ -42,7 +42,7 @@ The main supernatural forces believed to cause illness and death:
 ## Bewitching
 
 Bewitching is carried out against specific, known individuals:
-1. The shaman takes natem and secretly approaches the victim's house
+1. The shaman takes natem and secretly approaches the victim"s house
 2. He drinks green tobacco juice to regurgitate a tsentsak
 3. He throws it at the victim; if strong enough, it passes through the body causing death in days to weeks
 4. More commonly, the dart lodges in the body, causing illness
@@ -58,7 +58,7 @@ The curing shaman's work is complementary to bewitching:
 2. Under the drug, sees into the patient's body "as though it were glass"
 3. Determines if illness is due to sorcery and whether he can cure it
 4. At night, in darkness, regurgitates two matching tsentsak into mouth
-5. Sucks the intruding object from the patient's body
+5. Sucks the intruding object from the patient"s body
 6. The caught essence is incorporated into his own tsentsak and "vomited" out as material proof
 
 If a **pasuk** is present, the shaman drinks **maikua** (*Datura arborea* or *suaveolens*), a hallucinogen even more powerful than natem, to hunt and kill it.

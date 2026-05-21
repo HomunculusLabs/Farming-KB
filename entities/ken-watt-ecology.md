@@ -8,7 +8,7 @@ type: entity
 
 ## Description
 
-Kenneth E. F. Watt is an American ecologist and systems theorist whose work on energy flow in ecosystems provided key principles that Mollison adapted into permaculture design. Mollison references Watt alongside Odum and Birch as one of the formulators of "the guiding principles and laws of natural systems." Watt's restatement of the basic law of thermodynamics for ecological systems — that all energy entering an organism, population, or ecosystem can be accounted for as energy stored or energy leaving — is quoted directly by Mollison.
+Kenneth E. F. Watt is an American ecologist and systems theorist whose work on energy flow in ecosystems provided key principles that Mollison adapted into permaculture design. Mollison references Watt alongside Odum and Birch as one of the formulators of "the guiding principles and laws of natural systems." Watt"s restatement of the basic law of thermodynamics for ecological systems — that all energy entering an organism, population, or ecosystem can be accounted for as energy stored or energy leaving — is quoted directly by Mollison.
 
 ## Classification
 

@@ -4,7 +4,7 @@ created: 2026-04-19
 updated: 2026-04-19
 type: concept
 tags: [cannabis, cultivation]
-sources: ['raw/papers/working-with-agar.md']
+sources: ["raw/papers/working-with-agar.md']
 ---
 
 ## Cannabis for Mental Health Conditions

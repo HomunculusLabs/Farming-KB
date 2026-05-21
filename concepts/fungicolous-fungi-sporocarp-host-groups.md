@@ -53,7 +53,7 @@ The most characteristic colonizers of ascomata of discomycetes (Pezizales, Leoti
 - **Hormiactis species** on Morchella and Peziza species
 - **Nectriopsis discophila** on Lachnum species
 
-Helicogonium species represent a stronger displacement of ascal hymenia, essentially replacing the host's reproductive tissue (Baral 1999). Clitocybe sclerotoidea can parasitize and deform Helvella lacunosa in the western United States (Trappe 1972).
+Helicogonium species represent a stronger displacement of ascal hymenia, essentially replacing the host"s reproductive tissue (Baral 1999). Clitocybe sclerotoidea can parasitize and deform Helvella lacunosa in the western United States (Trappe 1972).
 
 ### On Sequestrate Ascomycetes (Truffles)
 

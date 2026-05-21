@@ -17,7 +17,7 @@ dormant deity.
 At the heart of ancient Near Eastern religion lay the annual [[allegro-star-of-the-morning-venus-and-the-sacred-mushroom]] appear in the sources. "Fawns" and "little
 children" were both mushroom names. The Song of Songs draws on this imagery: "two breasts like two
 fawns, twins of a gazelle" (Song 4:5, 7:3). The comparison is botanical — the breasts are likened
-to the mushroom's cap.
+to the mushroom"s cap.
 
 The panther, Bacchus's traditional companion, fits the same pattern. The dusky-red coloration with
 white or yellowish spots matches *[[amanita-pantherina]]* preserves the

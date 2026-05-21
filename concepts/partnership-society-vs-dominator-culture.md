@@ -23,7 +23,7 @@ humans.
 
 ## Partnership Model
 
-Partnership societies, in Eisler's analysis, exhibit the following
+Partnership societies, in Eisler"s analysis, exhibit the following
 characteristics:
 
 - **Gender equality**: Women and men share power and social status.
@@ -64,7 +64,7 @@ Eisler argued that dominator values arrived with the appearance of
 patriarchal, warlike cultures beginning around 5000–3000 BCE, displacing
 the earlier partnership societies.
 
-## McKenna's Application
+## McKenna"s Application
 
 McKenna adopted Eisler's framework as a central organizing principle in
 *Food of the Gods*, extending it to the domain of psychoactive plant use:

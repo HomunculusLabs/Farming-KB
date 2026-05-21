@@ -11,7 +11,6 @@ date: 2026-05-08
 updated: 2026-05-08
 sources:
   - Patel, S. et al. (2021). "permaculture-designers-manual-essential-oil-plants composition of Hedychium species." Journal of Essential Oil-Bearing Plants, 24(3), 671-685.---
----
 
 ## Hedychium gardnerianum
 
@@ -21,7 +20,7 @@ sources:
 
 The species produces spectacular inflorescences of bright yellow flowers with prominent red stamens, arranged in dense spikes up to 30 cm long. The flowers emit a strong, sweet fragrance, particularly in the evening.
 
-Kahili ginger is considered one of the most invasive plants in Hawaiian montane rainforests, where it forms dense monocultures that displace native understory species. It is listed among the "100 of the World's Worst Invasive Alien Species" by the IUCN.
+Kahili ginger is considered one of the most invasive plants in Hawaiian montane rainforests, where it forms dense monocultures that displace native understory species. It is listed among the "100 of the World"s Worst Invasive Alien Species" by the IUCN.
 
 Despite its ecological impact, the species has traditional uses in its native range. Rhizomes and flowers are used in Nepalese and Indian [[magical-illness-peruvian-amazon-folk-medicine]], and the flowers are used in religious offerings.
 

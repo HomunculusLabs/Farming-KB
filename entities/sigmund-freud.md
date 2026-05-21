@@ -8,7 +8,7 @@ tags: [person, psychologist, psychoanalyst, consciousness-studies]
 ## Sigmund Freud
 
 ## Description
-Sigmund Freud (1856–1939) was an Austrian neurologist and the founder of psychoanalysis. In *The Psychedelic Experience*, Timothy Leary references Freud as a point of contrast with Carl Jung, noting that Freud's intellectual foundations drew from Darwin, classical thermodynamics, Old Testament scholarship, and Renaissance cultural history — a narrower base than Jung's more expansive references. Despite this contrast, Leary credits Freud with the profound observation that "the ego was the true seat of anxiety."
+Sigmund Freud (1856–1939) was an Austrian neurologist and the founder of psychoanalysis. In *The Psychedelic Experience*, Timothy Leary references Freud as a point of contrast with Carl Jung, noting that Freud"s intellectual foundations drew from Darwin, classical thermodynamics, Old Testament scholarship, and Renaissance cultural history — a narrower base than Jung's more expansive references. Despite this contrast, Leary credits Freud with the profound observation that "the ego was the true seat of anxiety."
 
 ## Classification
 - **Category:** Person — Psychologist / Psychoanalyst
@@ -20,11 +20,11 @@ Sigmund Freud (1856–1939) was an Austrian neurologist and the founder of psych
 - Developed concepts including the id, ego, and superego; repression; transference; and dream interpretation
 - His data sources included Darwinian evolution, classical thermodynamics, Old Testament studies, and Renaissance cultural history
 - Described the ego as "the true seat of anxiety" — a phrase Leary quotes approvingly in the context of ego-loss during psychedelic experiences
-- Freud's framework was predominantly concerned with pathology and neurosis, unlike Jung's which embraced mystical and transcendent experience
+- Freud"s framework was predominantly concerned with pathology and neurosis, unlike Jung's which embraced mystical and transcendent experience
 - Never directly studied psychedelic substances, though his theories about the unconscious presaged many phenomena observed in psychedelic states
 
 ## Relevance to Cultivation and Mycology
-Freud has no direct connection to mushroom cultivation but provides intellectual background for understanding ego dynamics during psychedelic experiences. His concept of the ego as an anxiety-generating structure is directly relevant to the difficult moments (challenging trips) that can occur during psilocybin sessions. The "ego's stability" that Freud described is precisely what dissolves during the First Bardo (Chikhai Bardo) phase of a psychedelic experience, and the anxiety this produces aligns with Freud's insight about the ego's fundamental relationship to fear.
+Freud has no direct connection to mushroom cultivation but provides intellectual background for understanding ego dynamics during psychedelic experiences. His concept of the ego as an anxiety-generating structure is directly relevant to the difficult moments (challenging trips) that can occur during psilocybin sessions. The "ego"s stability" that Freud described is precisely what dissolves during the First Bardo (Chikhai Bardo) phase of a psychedelic experience, and the anxiety this produces aligns with Freud"s insight about the ego's fundamental relationship to fear.
 
 ## In the Bardo Context
 Leary contrasts Freud's narrower intellectual foundation with Jung's broader scope, but credits Freud with the key insight that ego is fundamentally anxious. In the psychedelic Bardo framework, this manifests as the terror of ego-dissolution — the ego's "precariously controlled demand" to maintain itself against the influx of unconscious material. The psychedelic experience can be seen as a controlled abaissement du niveau mental (lowering of the mental level), a concept that derives from the French psychopathology tradition that influenced Freud.

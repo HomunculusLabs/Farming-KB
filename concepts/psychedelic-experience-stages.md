@@ -1,5 +1,5 @@
 ---
-title: Psychedelic Experience Stages — Turner's Model
+title: Psychedelic Experience Stages — Turner"s Model
 created: 2026-04-13
 updated: 2026-04-13
 type: concept
@@ -79,7 +79,7 @@ The period hours to days after the acute experience:
 
 ### Cross-Reference with Leary
 
-Turner's stage model parallels [[leary-psychedelic-manual-approach|Leary's Bardo model]] but uses more phenomenological rather than Tibetan Buddhist terminology. Where Turner describes "onset" and "peak," Leary maps these onto the Chikhai and Chonyid Bardos. Both models serve the same purpose: providing a conceptual framework to navigate non-ordinary states.
+Turner"s stage model parallels [[leary-psychedelic-manual-approach|Leary's Bardo model]] but uses more phenomenological rather than Tibetan Buddhist terminology. Where Turner describes "onset" and "peak," Leary maps these onto the Chikhai and Chonyid Bardos. Both models serve the same purpose: providing a conceptual framework to navigate non-ordinary states.
 
 ## See Also
 

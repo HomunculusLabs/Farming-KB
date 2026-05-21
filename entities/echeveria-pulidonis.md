@@ -19,7 +19,7 @@ Echeveria pulidonis is a stemless, rosette-forming succulent in the family Crass
 
 The species is prized in horticulture for its symmetric, tightly packed rosettes of pale blue-green leaves with vivid red margins. It produces bright yellow, bell-shaped flowers on arching inflorescences in spring and early summer.
 
-Common names include Pulido's echeveria and "pulidonis." The species epithet honors Marcelino Pulido, a Mexican plant collector who contributed specimens to European botanical gardens in the early 20th century.
+Common names include Pulido"s echeveria and "pulidonis." The species epithet honors Marcelino Pulido, a Mexican plant collector who contributed specimens to European botanical gardens in the early 20th century.
 
 Like most Echeveria species, it is valued for its drought tolerance and low-maintenance requirements. It is widely grown in rock gardens, container arrangements, and xeriscaping projects worldwide.
 

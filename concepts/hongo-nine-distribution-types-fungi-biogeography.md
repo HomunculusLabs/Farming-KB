@@ -1,5 +1,5 @@
 ---
-title: "Hongo's Nine Distribution Types: A Biogeographic Framework for Fungi"
+title: "Hongo"s Nine Distribution Types: A Biogeographic Framework for Fungi"
 tags:
   - concept
 ---

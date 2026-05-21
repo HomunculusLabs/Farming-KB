@@ -7,9 +7,9 @@ tags: [person, design-science, architecture, systems-theory, synergetics]
 
 ## Description
 
-Richard Buckminster "Bucky" Fuller (1895–1983) was an American architect, systems theorist, inventor, and philosopher whose concept of a "[[bill-mollison-permaculture-a-designers-manual-succession-and-ecological-evolution]]" provided [[bill-mollison-permaculture-a-designers-manual-animal-systems-in-permaculture]]: A Designer's Manual*. The quoted passage opens Chapter 2: "The world teeters on the threshold of revolution. If it is a bloody revolution it is all over. The alternative is a design science revolution... Design science produces so much performance per unit of resource invested as to take care of all human needs."
+Richard Buckminster "Bucky" Fuller (1895–1983) was an American architect, systems theorist, inventor, and philosopher whose concept of a "[[bill-mollison-permaculture-a-designers-manual-succession-and-ecological-evolution]]" provided [[bill-mollison-permaculture-a-designers-manual-animal-systems-in-permaculture]]: A Designer"s Manual*. The quoted passage opens Chapter 2: "The world teeters on the threshold of revolution. If it is a bloody revolution it is all over. The alternative is a design science revolution... Design science produces so much performance per unit of resource invested as to take care of all human needs."
 
-Fuller's vision of using comprehensive, anticipatory design to solve human problems through more efficient use of [[bill-mollison-permaculture-a-designers-manual-wildfire-management-in-permaculture]]
+Fuller"s vision of using comprehensive, anticipatory design to solve human problems through more efficient use of [[bill-mollison-permaculture-a-designers-manual-wildfire-management-in-permaculture]]
 - Coined the term "ephemeralization" — the ability of technological advancement to do "more and more with less and less until eventually you can do everything with nothing"
 - Authored *Operating Manual for Spaceship Earth* (1969), *Synergetics* (1975), and *Critical Path* (1981)
 - Popularized the geodesic dome at the 1967 Montreal World's Fair (Expo 67)

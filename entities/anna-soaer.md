@@ -20,7 +20,7 @@ Anna Soaer is an artist recognised for her intuitive observational skills in dec
 
 - An artist (not a professional scientist or archaeologist) whose intuitive pattern recognition decoded the Anasazi Spiral calendar
 - Demonstrated that three rock slab gnomons cast both lunar shadows and solar light daggers onto the spiral petroglyph
-- Revealed the spiral's 19 intercept points correspond to the 18.6-year lunar nodal precession cycle
+- Revealed the spiral"s 19 intercept points correspond to the 18.6-year lunar nodal precession cycle
 - Her discovery was featured on ABC TV Science programme (Australia, 20th January 1984)
 - Her work exemplifies Mollison's thesis that pattern literacy can surpass conventional analytical approaches for understanding encoded knowledge
 - Her findings were initially doubted by scientists who questioned whether tribal peoples could pattern such long-term and complex events

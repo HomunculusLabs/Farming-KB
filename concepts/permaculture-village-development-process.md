@@ -77,7 +77,7 @@ The developmental group works best as a **small core of 2-4 people**, each with 
 
 Surveyors, road-builders, builders, and landscapers are usually locally available. Some contractors may work for equity in the project, either as village occupants or for resale at a later date.
 
-The development group should hand over a **site design and user's manual** to the directors of Trust A when resident trustees assume control. This document serves as the starting point for community governance, recording the initial design intent while acknowledging that all designs are made to be changed — the challenge is to change them for the better.
+The development group should hand over a **site design and user"s manual** to the directors of Trust A when resident trustees assume control. This document serves as the starting point for community governance, recording the initial design intent while acknowledging that all designs are made to be changed — the challenge is to change them for the better.
 
 ## Site Design and Infrastructure Priority
 
@@ -101,7 +101,7 @@ Human settlements vary in their ability to provide resources, develop self-relia
 
 The recommended approach is to **start small** at about 30 adults, build to 200-300 people, and proceed slowly and by choice to 500. Beyond this, the village should "calve" into new neighborhoods or new villages. Alliances of 200-500 household-size hamlets can form viable manufacturing or trading alliances while maintaining social cohesion. The **[[mondragon-cooperatives]]** of Spain initially grew to 3,000-5,000 members but later deliberately reduced to cooperatives of 300-500 to preserve individual identity.
 
-The **neighborhood factor** — knowledge of each other's names — is identified as a primary survival factor. During the 1967 Hobart fires, casualties in "anonymous" commuter suburbs were many times higher than in neighborhoods where people knew and cared for others.
+The **neighborhood factor** — knowledge of each other"s names — is identified as a primary survival factor. During the 1967 Hobart fires, casualties in "anonymous" commuter suburbs were many times higher than in neighborhoods where people knew and cared for others.
 
 ## Key Principles
 

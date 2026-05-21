@@ -46,7 +46,7 @@ Cortes Island field trial (Stamets):
 See [[mycofiltration-overview]] for detailed methods. Key points:
 - Cost: ~50% of conventional decommissioning
 - Myceliated wood chips on road surface → living erosion barrier
-- Spores added to chainsaw oil colonize wood as it's cut
+- Spores added to chainsaw oil colonize wood as it"s cut
 - Roads transform into nature trails within 2-3 years
 
 ## Species Selection for Mycoforestry
@@ -86,7 +86,7 @@ Armillaria (honey mushroom) causes root rot in conifers. Stumps inoculated with 
 - Chipping and leaving debris is reinvestment — returning carbon to the soil
 - Fungi are the bankers that process the deposits into usable currency (soil nutrients)
 
-Stamets' key argument: "You cannot harvest 3 generations of trees from the same land within 100 years, burn the brush each time, and not thin the soils."
+Stamets" key argument: "You cannot harvest 3 generations of trees from the same land within 100 years, burn the brush each time, and not thin the soils."
 
 ## Integrating Mushrooms into Working Forests
 

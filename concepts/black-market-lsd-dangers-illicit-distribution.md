@@ -14,7 +14,7 @@ Albert Hofmann documented the dangers of non-pharmaceutical LSD obtained through
 
 ### Unknown Origin and Composition
 
-"Most of the LSD offered in the drug scene is of unknown origin. LSD preparations from the black market are unreliable when it comes to both quality and dosage." This unreliability was confirmed by Sandoz's laboratory analysis of "a great number of LSD samples from the black market," which "coincide with the experiences of national drug control departments."
+"Most of the LSD offered in the drug scene is of unknown origin. LSD preparations from the black market are unreliable when it comes to both quality and dosage." This unreliability was confirmed by Sandoz"s laboratory analysis of "a great number of LSD samples from the black market," which "coincide with the experiences of national drug control departments."
 
 ### Common Deficiencies
 

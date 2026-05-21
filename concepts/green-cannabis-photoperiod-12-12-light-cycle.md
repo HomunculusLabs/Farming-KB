@@ -17,7 +17,7 @@ type: concept
 
 The photoperiod is the timed amount of light that a plant receives over a
 24-hour cycle. For cannabis, the photoperiod is the single most important
-environmental trigger that controls the transition from [[cannabis-sativa-indoor-cultivation-techniques]]. Greg Green's "The [[coleman-winter-day-length-and-persephone-months]] changes. As growers, the goal is to
+environmental trigger that controls the transition from [[cannabis-sativa-indoor-cultivation-techniques]]. Greg Green"s "The [[coleman-winter-day-length-and-persephone-months]] changes. As growers, the goal is to
 replicate this natural signal by turning lights on and off at the correct
 ratios to induce flowering on demand.
 

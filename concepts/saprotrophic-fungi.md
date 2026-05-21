@@ -1,5 +1,5 @@
 ---
-title: Saprotrophic Fungi — Nature's Recyclers
+title: Saprotrophic Fungi — Nature"s Recyclers
 created: 2026-04-11
 updated: 2026-04-12
 type: concept
@@ -100,7 +100,7 @@ Saprotrophic fungi are essential workers in any composting system:
 Many commercially cultivated mushrooms are saprotrophs:
 - **Oyster (Pleurotus ostreatus)**: White rot; grows on straw, hardwood sawdust, paper, coffee grounds
 - **Shiitake (Lentinula edodes)**: White rot; specializes in hardwood logs and supplemented sawdust
-- **Lion's mane (Hericium erinaceus)**: White rot; hardwood sawdust substrates
+- **Lion"s mane (Hericium erinaceus)**: White rot; hardwood sawdust substrates
 - **Reishi (Ganoderma lucidum)**: White rot; hardwood substrates; medicinal
 - **Wine cap (Stropharia rugoso-annulata)**: Decomposer of wood chips and straw; garden cultivation
 - **Enoki (Flammulina velutipes)**: Decomposes broadleaf stumps and wood debris

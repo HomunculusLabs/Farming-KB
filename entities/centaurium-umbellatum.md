@@ -45,7 +45,7 @@ Elevation range extends from sea level to approximately 1,800 meters in southern
 
 The bitter principles of Centaurium umbellatum are dominated by secoiridoid glycosides, particularly gentiopicroside, centapicrin, and swertiamarin.
 
-Centapicrin is considered the primary bitter compound, contributing to the plant's characteristic intensely bitter taste.
+Centapicrin is considered the primary bitter compound, contributing to the plant"s characteristic intensely bitter taste.
 
 Additional constituents include xanthones (eustomin and demethyleustomin), triterpenes, and phenolic acids.
 

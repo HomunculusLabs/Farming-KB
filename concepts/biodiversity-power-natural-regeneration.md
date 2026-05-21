@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-Sepp Holzer presents a hopeful vision of ecological regeneration grounded in the inherent resilience of natural systems. This concept page examines the mechanisms of natural regeneration, the role of biodiversity in ecosystem recovery, and Holzer's broader vision of community-based self-sufficiency.
+Sepp Holzer presents a hopeful vision of ecological regeneration grounded in the inherent resilience of natural systems. This concept page examines the mechanisms of natural regeneration, the role of biodiversity in ecosystem recovery, and Holzer"s broader vision of community-based self-sufficiency.
 
 ## The Monoculture Cascade
 
@@ -24,11 +24,11 @@ The same cascade operates in reverse: when plant diversity is restored, insect d
 
 ## The Power of Regeneration
 
-### Nature's Self-Healing
+### Nature"s Self-Healing
 
 "Nature has immense power to self-heal. Nature is able to balance out great climate fluctuations and also great human errors."
 
-Holzer's optimism about regeneration is grounded in observation: he has seen severely degraded landscapes recover when given the opportunity. The key is not heroic intervention but the removal of the obstacles that prevent natural recovery—primarily the continued application of industrial agricultural practices.
+Holzer"s optimism about regeneration is grounded in observation: he has seen severely degraded landscapes recover when given the opportunity. The key is not heroic intervention but the removal of the obstacles that prevent natural recovery—primarily the continued application of industrial agricultural practices.
 
 ### Dormant Life
 
@@ -44,9 +44,9 @@ Natural dispersal mechanisms ensure that even completely denuded areas can be re
 
 ## How Recovery Happens
 
-### The Farmer's Role
+### The Farmer"s Role
 
-"This explains how a rich flora and fauna can develop quite quickly should a farmer choose to return to natural and holistic farming." The farmer's role in regeneration is primarily negative: stop doing the things that prevent recovery. Remove chemical inputs, stop tilling, allow natural succession to proceed.
+"This explains how a rich flora and fauna can develop quite quickly should a farmer choose to return to natural and holistic farming." The farmer"s role in regeneration is primarily negative: stop doing the things that prevent recovery. Remove chemical inputs, stop tilling, allow natural succession to proceed.
 
 ### The Speed of Recovery
 
@@ -56,9 +56,9 @@ The speed of ecological recovery, once destructive practices cease, often surpri
 
 ### The Vision of Cooperative Communities
 
-"I had a dream in which people travelled from community to community, each unique, they had names like 'Community of self-sufficiency', 'Community for you and me' and 'Community of co-operation with sun, water and the earth.'"
+"I had a dream in which people travelled from community to community, each unique, they had names like "Community of self-sufficiency', 'Community for you and me' and 'Community of co-operation with sun, water and the earth.'"
 
-Holzer's vision of the future is not one of isolated homesteads but of interconnected communities, each with its own character and specialties, cooperating and exchanging knowledge and resources.
+Holzer"s vision of the future is not one of isolated homesteads but of interconnected communities, each with its own character and specialties, cooperating and exchanging knowledge and resources.
 
 ### Neighborly Help
 
@@ -84,7 +84,7 @@ When Holzer plants old vegetable varieties in a natural, diverse environment, th
 
 "Once a particular variety has established itself the mutations will come to a stop, the genome will not change anymore and all successive generations will be similar to this one. This is how all the original regional varieties developed over time."
 
-Holzer's approach to variety development is essentially guided natural selection: he provides the conditions for diversity to express itself, then selects the best-performing individuals for propagation. This process, repeated over generations, produces varieties perfectly adapted to local conditions.
+Holzer"s approach to variety development is essentially guided natural selection: he provides the conditions for diversity to express itself, then selects the best-performing individuals for propagation. This process, repeated over generations, produces varieties perfectly adapted to local conditions.
 
 ### The Origin of Regional Varieties
 

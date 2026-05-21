@@ -13,7 +13,7 @@ sources:
 
 Rocket stoves are hyper-efficient, clean-burning wood combustion systems that use an insulated J-shaped (or L-shaped) combustion chamber to achieve near-complete fuel burn. Originally developed as [[rocket-mass-heater-design]] heaters for space heating, water heating, and even [[hemenway-cold-air-drainage-and-frost-management]] entering the feed tube chills the fire and creates smoke. In better designs, incoming combustion air passes alongside the hot combustion tunnel before entering the burn chamber, preheating to several hundred degrees.
 
-5. **Force gases to mix with flame** — The combustion tunnel should be of limited length (typically 2–4× the system's cross-sectional dimension) so that unburned gases don't escape before reaching the heat riser where secondary combustion occurs.
+5. **Force gases to mix with flame** — The combustion tunnel should be of limited length (typically 2–4× the system"s cross-sectional dimension) so that unburned gases don't escape before reaching the heat riser where secondary combustion occurs.
 
 6. **Do not cool the fire** — The transition from the horizontal burn tunnel to the vertical heat riser must be smooth and uninsulated on the exterior side where the barrel sits (in a rocket mass heater), allowing heat exchange without quenching the flame inside the riser.
 

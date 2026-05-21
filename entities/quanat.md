@@ -24,7 +24,7 @@ Traditional quanat construction follows these steps:
 
 ## Sources
 
-- Mollison, B. (1988). *Permaculture: A Designers' Manual*. [[tagari-publications]]. Chapter 11, p. 348.
+- Mollison, B. (1988). *Permaculture: A Designers" Manual*. [[tagari-publications]]. Chapter 11, p. 348.
 - English, P. W. (1968). "The Origin and Spread of Qanats in the Old World." *Proceedings of the American Philosophical Society*.
 
 ## Overview

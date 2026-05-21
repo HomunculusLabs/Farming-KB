@@ -1,5 +1,5 @@
 ---
-title: Cannabis and Crohn's Disease
+title: Cannabis and Crohn"s Disease
 created: 2026-04-19
 updated: 2026-04-19
 type: concept

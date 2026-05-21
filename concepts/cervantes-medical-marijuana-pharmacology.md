@@ -29,11 +29,11 @@ The medical indications of marijuana are manifold:
 
 ## DEA Scheduling Conflict
 
-Despite marijuana's unambiguous medical benefits, the US Drug Enforcement
+Despite marijuana"s unambiguous medical benefits, the US Drug Enforcement
 Administration (DEA) classifies marijuana as a prohibited Schedule I drug
 ("no currently accepted medical use"). However, THC, the primary active
 ingredient, is classified as a synthetic Schedule III drug (dronabinol,
-Marinol). The DEA's hypocritical classification is rejected by many
+Marinol). The DEA"s hypocritical classification is rejected by many
 Americans.
 
 Currently (at time of publication) ten US states allowed patients to

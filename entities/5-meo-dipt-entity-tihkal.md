@@ -30,7 +30,7 @@ TIHKAL entry #37. An orally active psychedelic tryptamine with pronounced erotic
 
 - **6 mg, orally**: "Effects were present in twenty minutes... Each weed had special significance, and my cat Ms. joined me and agreed with me. This is excessively strange."
 - **7 mg, orally**: "In one hour I was in a marvelous, sexy place. Everything was shaded with eroticism. Sex was explosive. As a short term aphrodisiac, this leaves 2C-B in the dust."
-- **10 mg, orally**: "Colors on the edges of the wiggles of the eye... Peoples' faces were interesting, quite serious, and not completely friendly. This is a definite sense-distorter."
+- **10 mg, orally**: "Colors on the edges of the wiggles of the eye... Peoples" faces were interesting, quite serious, and not completely friendly. This is a definite sense-distorter."
 - **10 mg, orally**: "We found it to be outstanding -- combining the best characteristics of two other like products while contributing a penetrating efficaciousness of its own."
 - **12 mg, orally**: "Awful taste. Quickly aware and in the second half hour I rapidly shot up to a +++ in a very LSD-like manner, without the visuals. Time was quite slowed down. Erotic world was fantastic, explosive, almost scary."
 - **12 mg, orally** (negative): "Never felt as though I was having a [[lsd-psychedelic-experience-guide]]. It was all about dealing with body load and discomfort."

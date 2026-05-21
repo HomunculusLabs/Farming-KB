@@ -18,7 +18,7 @@ Every large tree is a universe in itself, offering many specialty-forage niches 
 
 These species share time as well as space. The yellow-throats are permanent, territory-holding residents; the treecreepers are migrants; the strongbills and blackheads are roving flock species. All scatter as breeding pairs in spring and summer, so it is rare to find any one tree fully occupied at any one time. There is also a pronounced post-breeding tendency for several bird species to form consociations for foraging and travelling in autumn and winter. Five to eight species travel together — some gathering insects disturbed by the others, with all species reacting to the alarm calls of any one species, while some species act as sentinels for the whole mixed company.
 
-Here we see time, space, and functions all used in a complex and non-competitive way. This glimpse of nature's strategy has profound implications for designers seeking to enrich human societies, providing that no individual or group claims a right to sole use at all times for an area.
+Here we see time, space, and functions all used in a complex and non-competitive way. This glimpse of nature"s strategy has profound implications for designers seeking to enrich human societies, providing that no individual or group claims a right to sole use at all times for an area.
 
 ## Why Monocultures Fail
 

@@ -14,7 +14,7 @@ topics:
 
 ## Straw Mulch and the Microbial Soil Food Web in Natural Farming
 
-## The Central Role of Straw in Fukuoka's Method
+## The Central Role of Straw in Fukuoka"s Method
 
 In *The One-Straw Revolution*, Masanobu Fukuoka describes his natural farming system as built on four 
 fundamental principles: no cultivation, no [[solomon-chemical-fertilizer-incomplete-potassium-yield-tradeoff]], no weeding, and no pesticides or herbicides. 

@@ -12,7 +12,6 @@ updated: 2026-05-09
 sources:
   - USDA NRCS. "Koeleria macrantha." PLANTS Database.
   - Darke, R. (2007). "The Encyclopedia of Grasses for Livable Landscapes." Timber Press.---
----
 
 ## Koeleria macrantha
 

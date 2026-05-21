@@ -9,7 +9,7 @@ tags: [essential-oil, resource, distillation, permaculture, high-value, eucalypt
 
 ## Description
 
-Eucalyptus oil is a volatile essential oil distilled from the leaves of *Eucalyptus* species. In Mollison's [[permaculture-design]] Course, eucalyptus oil is presented as a prime example of overlooked on-site resource value—bulk oil is worth approximately $100 per gallon, but [[fractional-distillation]] yields three one-ounce fractions each worth $1,000 per ounce. Mollison calculated that a $600 distillation apparatus pays for itself in the first run. This exemplifies his broader design principle of identifying and valorizing hidden site resources before introducing new enterprises.
+Eucalyptus oil is a volatile essential oil distilled from the leaves of *Eucalyptus* species. In Mollison"s [[permaculture-design]] Course, eucalyptus oil is presented as a prime example of overlooked on-site resource value—bulk oil is worth approximately $100 per gallon, but [[fractional-distillation]] yields three one-ounce fractions each worth $1,000 per ounce. Mollison calculated that a $600 distillation apparatus pays for itself in the first run. This exemplifies his broader design principle of identifying and valorizing hidden site resources before introducing new enterprises.
 
 ## Classification
 

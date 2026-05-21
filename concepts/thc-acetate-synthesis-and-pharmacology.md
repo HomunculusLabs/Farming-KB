@@ -18,7 +18,7 @@ The structural analogy is significant: just as the acetylation of morphine (diac
 
 ## Cannabis Alchemy: Historical Context
 
-"Cannabis Alchemy" was published during a period of intense home-chemistry experimentation in the counterculture. The book's introduction notes that cannabis research was "in its incipient state" and that "the potential for developing compounds of varied effects and duration is enormous." The author (writing under the pseudonym "Nicolas Flamel") positioned the work as pioneering, noting that [[synthetic-tryptamine-methods]])
+"Cannabis Alchemy" was published during a period of intense home-chemistry experimentation in the counterculture. The book"s introduction notes that cannabis research was "in its incipient state" and that "the potential for developing compounds of varied effects and duration is enormous." The author (writing under the pseudonym "Nicolas Flamel") positioned the work as pioneering, noting that [[synthetic-tryptamine-methods]])
 - The legal ambiguity surrounding cannabis chemistry at the time
 
 ## Synthesis Method
@@ -26,7 +26,7 @@ The structural analogy is significant: just as the acetylation of morphine (diac
 The synthesis described in Cannabis Alchemy involves a multi-step process:
 
 1. **Starting material preparation**: Extract and purify THC from cannabis using [[cannabis-dosing-guidelines]] for THC dosing reference
-- The acetyl group changes the molecule's metabolic pathway, potentially producing novel metabolites with unknown effects
+- The acetyl group changes the molecule"s metabolic pathway, potentially producing novel metabolites with unknown effects
 - Long-term health effects are essentially unstudied
 - The synthesis involves hazardous chemicals (acetic anhydride is corrosive and a respiratory irritant) requiring proper ventilation and safety equipment
 - The compound's legal status may differ from THC in various jurisdictions

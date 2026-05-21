@@ -11,7 +11,6 @@ tags:
   - mycology
 sources:
   - Boertmann, D. (1995). "The Genus Agaricus in Denmark." Danish british-mycological-society.---
----
 
 ## Overview
 

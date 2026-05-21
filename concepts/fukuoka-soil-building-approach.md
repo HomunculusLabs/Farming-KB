@@ -9,11 +9,11 @@ sources:
 ---
 ## Fukuoka Soil Building Approach
 
-Masanobu Fukuoka's approach to soil building within [[jadam-red-clay-powder-method]] into rich, dark, humus-laden soil more than four inches deep.
+Masanobu Fukuoka"s approach to soil building within [[jadam-red-clay-powder-method]] into rich, dark, humus-laden soil more than four inches deep.
 
 ## The Central Principle
 
-"There is no wiser course in farming than the path of wholesome soil improvement." But Fukuoka's path was the opposite of conventional soil improvement. Instead of hauling [[fukuoka-citrus-orchard-ground-cover-cultivation]] ([[comparison-green-manure-guide-vs-mulch-types-and-effects]] enriches and softens the soil, weeds and bushes grow up, and a rich cycle of regeneration begins
+"There is no wiser course in farming than the path of wholesome soil improvement." But Fukuoka"s path was the opposite of conventional soil improvement. Instead of hauling [[fukuoka-citrus-orchard-ground-cover-cultivation]] ([[comparison-green-manure-guide-vs-mulch-types-and-effects]] enriches and softens the soil, weeds and bushes grow up, and a rich cycle of regeneration begins
 - "There are instances in which the top four inches of soil have become enriched in less than ten years"
 
 ## The Self-Building Soil System

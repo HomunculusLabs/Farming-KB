@@ -21,7 +21,7 @@ The practices and frameworks for incorporating psychedelic experiences into dail
 
 ## What Is Integration?
 
-Psychedelic integration is the process of taking the insights, emotions, perspectives, and behavioral changes generated during a psychedelic experience and incorporating them into one's ongoing life. Without integration, even the most profound psychedelic experience may have little lasting impact. With it, a single experience can catalyze enduring personal growth.
+Psychedelic integration is the process of taking the insights, emotions, perspectives, and behavioral changes generated during a psychedelic experience and incorporating them into one"s ongoing life. Without integration, even the most profound psychedelic experience may have little lasting impact. With it, a single experience can catalyze enduring personal growth.
 
 In clinical settings, integration is formalized as structured post-session meetings with a therapist. In non-clinical contexts, it takes many forms. The underlying principle is that the psychedelic experience is not an end in itself but a beginning -- a window of increased neuroplasticity, openness, and receptivity that must be actively engaged to produce lasting change.
 

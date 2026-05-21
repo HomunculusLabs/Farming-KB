@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-Albert Hofmann's friendship with the German writer Ernst Jünger included a shared LSD experience and an extensive exchange of ideas and literature about psychoactive substances. This concept page examines their collaborative experiment, the aesthetic dimension of the LSD experience, and the literary-historical context of drug research that their correspondence explored.
+Albert Hofmann"s friendship with the German writer Ernst Jünger included a shared LSD experience and an extensive exchange of ideas and literature about psychoactive substances. This concept page examines their collaborative experiment, the aesthetic dimension of the LSD experience, and the literary-historical context of drug research that their correspondence explored.
 
 ## The Shared LSD Experiment
 
@@ -24,9 +24,9 @@ The early phase of the LSD experience is marked by an intensification of sensory
 
 ### The Pythagorean Vision
 
-Jünger's account includes a mathematical-mystical vision: "The numbers, masses and weights stood out from matter. They cast off the raiments. No goddess could inform the initiates more boldly and freely. The pyramids with their weight did not reach up to this revelation. That was Pythagorean luster. No spectacle had ever affected him with such a magic spell."
+Jünger"s account includes a mathematical-mystical vision: "The numbers, masses and weights stood out from matter. They cast off the raiments. No goddess could inform the initiates more boldly and freely. The pyramids with their weight did not reach up to this revelation. That was Pythagorean luster. No spectacle had ever affected him with such a magic spell."
 
-This vision of mathematical reality stripped of material form—numbers and masses revealed in their pure essence—reflects the LSD experience's capacity to reveal abstract patterns underlying sensory reality. The reference to Pythagoras connects the experience to the ancient Greek tradition of mathematical mysticism, in which numbers were understood as the fundamental constituents of reality.
+This vision of mathematical reality stripped of material form—numbers and masses revealed in their pure essence—reflects the LSD experience"s capacity to reveal abstract patterns underlying sensory reality. The reference to Pythagoras connects the experience to the ancient Greek tradition of mathematical mysticism, in which numbers were understood as the fundamental constituents of reality.
 
 ## The Deepening of Friendship
 
@@ -36,7 +36,7 @@ This vision of mathematical reality stripped of material form—numbers and mass
 
 ### Continuing Dialogue
 
-"Drugs and problems connected with them constituted a major subject of our conversation and correspondence, without our having made further practical experiments in the meantime." The men's ongoing dialogue about psychoactive substances was primarily intellectual and literary rather than experiential—suggesting that the insights gained from even a single shared experience could fuel years of reflection.
+"Drugs and problems connected with them constituted a major subject of our conversation and correspondence, without our having made further practical experiments in the meantime." The men"s ongoing dialogue about psychoactive substances was primarily intellectual and literary rather than experiential—suggesting that the insights gained from even a single shared experience could fuel years of reflection.
 
 ## The Drug Library
 
@@ -44,9 +44,9 @@ This vision of mathematical reality stripped of material form—numbers and mass
 
 "We exchanged literature about drugs." Both Hofmann and Jünger were serious collectors of writings on psychoactive substances, building personal libraries that spanned centuries and cultures.
 
-### Ernst von Bibra's Monograph
+### Ernst von Bibra"s Monograph
 
-Hofmann credits Jünger with providing him with "the rare, valuable monograph of Dr. Ernst Freiherrn von Bibra, Die narkotischen Genussmittel und der Mensch" (The Narcotic Pleasure Substances and Man), published in 1855. Von Bibra's work was one of the first systematic comparative studies of psychoactive plants across cultures, predating modern ethnopharmacology by nearly a century.
+Hofmann credits Jünger with providing him with "the rare, valuable monograph of Dr. Ernst Freiherrn von Bibra, Die narkotischen Genussmittel und der Mensch" (The Narcotic Pleasure Substances and Man), published in 1855. Von Bibra"s work was one of the first systematic comparative studies of psychoactive plants across cultures, predating modern ethnopharmacology by nearly a century.
 
 Von Bibra's book covered opium, cannabis, coca, tobacco, coffee, tea, and other psychoactive substances, documenting their botanical origins, chemical properties, cultural uses, and effects on the human organism. Its encyclopedic approach anticipated the modern field of psychopharmacology.
 
@@ -60,13 +60,13 @@ The Hofmann-Jünger friendship brought together two very different approaches to
 
 "So far in this book I have mainly described my scientific work and matters relating to my professional activity. But this work, by its very nature, had repercussions on my own life and personality, not least because it brought me into contact with interesting and important contemporaries."
 
-Hofmann's acknowledgment that his scientific work had personal and philosophical dimensions beyond the laboratory reflects his awareness that LSD was not merely a chemical curiosity but a substance that touched fundamental questions about the nature of consciousness, reality, and human experience.
+Hofmann"s acknowledgment that his scientific work had personal and philosophical dimensions beyond the laboratory reflects his awareness that LSD was not merely a chemical curiosity but a substance that touched fundamental questions about the nature of consciousness, reality, and human experience.
 
 ## The Literary Context of Drug Research
 
 ### Historical Depth
 
-The exchange of drug literature between Hofmann and Jünger placed their contemporary research in a historical context that extended back centuries. Von Bibra's 1855 monograph, the De Quincey's "Confessions of an English Opium-Eater" (1821), Baudelaire's "Les Paradis Artificiels" (1860), and other classic works on drug experience provided a literary tradition that contextualized the scientific investigation of psychoactive substances.
+The exchange of drug literature between Hofmann and Jünger placed their contemporary research in a historical context that extended back centuries. Von Bibra's 1855 monograph, the De Quincey's "Confessions of an English Opium-Eater" (1821), Baudelaire"s "Les Paradis Artificiels" (1860), and other classic works on drug experience provided a literary tradition that contextualized the scientific investigation of psychoactive substances.
 
 ### The Interdisciplinary Dimension
 

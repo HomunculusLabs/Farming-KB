@@ -6,20 +6,20 @@ type: concept
 
 ## Temptation as Crucible, Hellebore Preparation, and Seven-Fold Purification
 
-In [[john-allegro]]'s philological analysis of the New Testament and related texts,
+In [[john-allegro]]"s philological analysis of the New Testament and related texts,
 the common Christian petition "lead us not into temptation" conceals a far more
 technical and concrete meaning rooted in Semitic metallurgy and the actual
 physiological ordeal of consuming [[allen-new-zealand-psychoactive-fungi]]. The Greek *peirasmos*
-(temptation/trial) translates a Semitic term denoting a refiner's crucible —
+(temptation/trial) translates a Semitic term denoting a refiner"s crucible —
 the very furnace in which metals are tested and purified. This crucible metaphor
-becomes literal when the substance being "tested" is the initiate's own body and
+becomes literal when the substance being "tested" is the initiate"s own body and
 spirit under the influence of a potent and dangerous drug.
 
 ## Peirasmos = Crucible of Testing = Mushroom Name
 
 The Lord's Prayer in Matthew 6:13 contains the familiar petition "lead us not
 into temptation," rendered from the Greek *peirasmos*. In Semitic usage, however,
-this word denotes something far more specific: a "refiner's crucible" — the
+this word denotes something far more specific: a "refiner"s crucible" — the
 vessel in which base metals are subjected to intense heat to test and purify
 them. The petition is not about moral temptation in the modern sense but about
 being spared the ordeal of the pharmacological crucible.
@@ -28,16 +28,16 @@ The same technical vocabulary appears in the Essene Scrolls from Qumran, which
 speak of "the time of testing that is coming" using this identical metallurgical
 term — a concrete ritual event, the consumption of [[sumerian-mushroom-nomenclature]]. The
 compound mushroom name *\*I_U_KÜ-BA(LA)G-ANTA* yields, through regular
-phonological development, the Aramaic *kür bukhãnā'*, meaning "crucible of
+phonological development, the Aramaic *kür bukhãnā"*, meaning "crucible of
 testing." This same root connects to Arabic *kharbaq*, a name applied to both
 Hellebore and certain mushrooms, reinforcing the identification of the
 "temptation" with a specific psychoactive plant substance.
 
 Eating the mushroom constituted a real *peirasmos* — a genuine trial of body and
 spirit. The initiate was not merely symbolically tested but physiologically
-subjected to an ordeal that could purify or destroy. Paul's warning in I
+subjected to an ordeal that could purify or destroy. Paul"s warning in I
 Corinthians 11:27–30 bears directly on this reality: "Whoever eats unworthily…
-eats and drinks a 'crisis' [judgment] upon himself… many are weak and ill, and
+eats and drinks a "crisis' [judgment] upon himself… many are weak and ill, and
 some have died." [[ancient-greek-mystery-cults-comparison]].
 
 **Bufotenin**, also found in the sweat glands of certain African toads, produces
@@ -50,7 +50,7 @@ inability to do so — a prolonged ordeal extending well beyond the visionary ph
 ## Hellebore Preparation (After Pliny)
 
 The classical medical tradition preserved detailed protocols for administering
-Hellebore, which Allegro argues reflect earlier fungal-cult practice. Pliny's
+Hellebore, which Allegro argues reflect earlier fungal-cult practice. Pliny"s
 instructions describe a careful seven-day preparatory regimen. The patient ate
 sharp-tasting foods throughout the week and abstained entirely from wine. An
 emetic was administered on the fourth and third days before the treatment
@@ -107,7 +107,7 @@ ten" reflects this reckoning, amounting to ten complete cycles of bodily renewal
 
 In Revelation 1:20, "the seven stars are the angels of the seven churches, and
 the seven lampstands are the seven churches." The geographical reference to
-"Asia" is itself significant: it plays on the Semitic root *'—s—y* (healing),
+"Asia" is itself significant: it plays on the Semitic root *"—s—y* (healing),
 yielding *'asya*, "physician" — a further connection to the Essenes as a
 healing sect whose name likely derives from the same root.
 

@@ -67,7 +67,7 @@ Every aspect of the harvesting, washing, and packing operation is subject to con
 
 Harvesting requires quick hands, a quick mind, and a no-nonsense attitude. New employees must understand:
 
-- **Minimize hand travel**: Keep the harvest container as close as possible to the harvesting hand. On average, 40% of a harvester's time is spent moving the hand to the container — reducing this distance directly increases output.
+- **Minimize hand travel**: Keep the harvest container as close as possible to the harvesting hand. On average, 40% of a harvester"s time is spent moving the hand to the container — reducing this distance directly increases output.
 - **Batch harvesting**: When cutting spinach leaf by leaf, hold as many cut leaves in the hand as possible before dropping them in the container. More leaves per drop means fewer trips.
 - **Talk and hustle**: If employees are talkers, they must be able to converse and maintain pace simultaneously.
 - **Quality checking**: Speed cannot come at the expense of quality. Each leaf should be visually inspected as it is cut.
@@ -78,7 +78,7 @@ When verbal explanation, demonstration, and working alongside an employee do not
 
 ## The Planting-Harvest Cycle
 
-The most important skill for a four-season grower is maintaining a **rigorous planting schedule**. As Coleman quotes from Andrew Marvell's "To His Coy Mistress": "But at my back I always hear / time's wingéd chariot hurrying near." The next harvest follows quickly after the previous one, and you cannot harvest what you have not planted. The daily or weekly planting schedule must be as integral to the grower's life as the harvest schedule itself.
+The most important skill for a four-season grower is maintaining a **rigorous planting schedule**. As Coleman quotes from Andrew Marvell's "To His Coy Mistress": "But at my back I always hear / time"s wingéd chariot hurrying near." The next harvest follows quickly after the previous one, and you cannot harvest what you have not planted. The daily or weekly planting schedule must be as integral to the grower's life as the harvest schedule itself.
 
 Keeping careful notes on seed-to-harvest days throughout the year and preparing a day-by-day planting calendar for each crop is the foundation of consistent, timely harvests.
 

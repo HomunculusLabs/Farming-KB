@@ -6,7 +6,7 @@ type: concept
 
 ## Insect and Disease Management Philosophy
 
-Sir [[albert-howard]], founder of the [[coleman-deep-organic-farming]] movement, believed that before a plant is attacked by insects or disease, it has already become unhealthy. The predator's purpose in nature's scheme is to restore balance — like a wolf pack bringing down a sick animal that has lived too long. A truly healthy plant will either be nearly unassailable or will outgrow insect damage and successfully resist disease.
+Sir [[albert-howard]], founder of the [[coleman-deep-organic-farming]] movement, believed that before a plant is attacked by insects or disease, it has already become unhealthy. The predator"s purpose in nature's scheme is to restore balance — like a wolf pack bringing down a sick animal that has lived too long. A truly healthy plant will either be nearly unassailable or will outgrow insect damage and successfully resist disease.
 
 This philosophy shapes a fundamentally different approach to pest management than the conventional "identify and spray" paradigm.
 
@@ -26,7 +26,7 @@ Cabbages grown with full organic preparation: 6 lb (2.7 kg) each, tasted fine. C
 
 **The lesson**: Plants in poor soil are weakened and become targets. Fix the soil, and most pest problems diminish or disappear.
 
-## When Soil Fertility Isn't Enough
+## When Soil Fertility Isn"t Enough
 
 Even with ideal soil conditions, disease or predation may prevail when:
 

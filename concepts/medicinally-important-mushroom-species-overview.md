@@ -11,10 +11,10 @@ At least 270 species of mushroom are known to have various therapeutic propertie
 ## Historical Foundations
 
 ### Ancient Chinese Medicine
-"An old Chinese proverb states that 'medicine and food have a common origin.'"
+"An old Chinese proverb states that "medicine and food have a common origin.'"
 
 ### Key Texts
-1. **Shen Nong's Herbal** (Shen Nong Pen Ts'ao Jing, 100-200 AD): Earliest book on medicinal materials in China; recorded medicinal effects of [[ganoderma-lucidum]], [[poria-cocos]], [[tremella-fuciformis]]
+1. **Shen Nong"s Herbal** (Shen Nong Pen Ts'ao Jing, 100-200 AD): Earliest book on medicinal materials in China; recorded medicinal effects of [[ganoderma-lucidum]], [[poria-cocos]], [[tremella-fuciformis]]
 2. **Pen Ts'ao Kang Mu** (Compendium of Materia Medica, 1575): Compiled by Li Shi-Zhen of the Ming Dynasty; documented more than 20 mushroom species plus [[cordyceps-sinensis]]
 
 ### Modern Validation

@@ -18,7 +18,7 @@ sources:
 
 **Lysimachia nummularia**, commonly known as creeping Jenny, moneywort, or herb twopence, is a low-growing perennial herb in the family Primulaceae. It is native to Europe and western Asia, where it forms extensive mats in damp habitats.
 
-The species is widely cultivated as an ornamental ground cover, valued for its rounded leaves and long trailing stems. The golden-leaved cultivar 'Aurea' is particularly popular in [[guzman-psilocybin-mushrooms-north-america]], New Zealand, and parts of southern [[aact-foliar-sticker-spreaders-leaf-surface-attachment-ingham]] is glabrous and slightly fleshy, with inconspicuous pinnate venation. Leaf size varies considerably depending on growing conditions, with shaded plants producing larger, thinner leaves.
+The species is widely cultivated as an ornamental ground cover, valued for its rounded leaves and long trailing stems. The golden-leaved cultivar "Aurea' is particularly popular in [[guzman-psilocybin-mushrooms-north-america]], New Zealand, and parts of southern [[aact-foliar-sticker-spreaders-leaf-surface-attachment-ingham]] is glabrous and slightly fleshy, with inconspicuous pinnate venation. Leaf size varies considerably depending on growing conditions, with shaded plants producing larger, thinner leaves.
 
 The golden cultivar 'Aurea' has bright yellow-green foliage that is more prominent in full sun. Leaf color intensity varies with light exposure, with shaded leaves reverting toward green.
 

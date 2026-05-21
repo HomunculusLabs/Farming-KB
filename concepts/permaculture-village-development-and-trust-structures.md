@@ -106,7 +106,7 @@ The [[mondragon-cooperatives]] of Spain initially grew large (3,000–5,000 memb
 
 ### The Neighbourhood Factor
 
-Knowledge of each other's names is identified as a primary survival factor. This was assessed in the 1967 Hobart fires, where casualties in "anonymous" commuter suburbs were many times higher than in neighbourhoods where people knew and cared for others.
+Knowledge of each other"s names is identified as a primary survival factor. This was assessed in the 1967 Hobart fires, where casualties in "anonymous" commuter suburbs were many times higher than in neighbourhoods where people knew and cared for others.
 
 ### Confederation of Villages
 

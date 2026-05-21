@@ -20,7 +20,7 @@ The most extensively documented root crops in this source are those adapted to w
 Possibly the earliest cultivated plant. Grown in paddy culture like rice or on dry land under irrigation. Both the main corm and smaller cormels are eaten. Leaves and petioles cooked like spinach (must be cooked). Requires 6-7 month frost-free period. Nutrition comparable to potato and sweet potato. Some cultivars highly [[pf-tek-ethyl-alcohol-extraction-liqueur-concentration]]. Pollen used as flour additive at up to 1:1 ratio.
 
 ### Arrowhead (Sagittaria spp)
-Plants occurring at water's edge to 0.5 m depth:
+Plants occurring at water"s edge to 0.5 m depth:
 
 - **S. latifolia / S. fasciculata** -- Tubers called "wapatoo" by American Indians, said to be as good as potatoes. Good water fowl plant.
 - **S. sagittifolia** -- Native of Europe, to 1.5 m. Walnut-sized roots are edible, harvested in autumn.

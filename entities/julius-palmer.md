@@ -33,7 +33,7 @@ Julius Auboineau Palmer Jr. was a 19th-century American author who spent twenty 
 
 Palmer was self-educated in mycology, describing his education as due to "long-practised habits of self-discipline and independent thought." He acknowledged receiving guidance from the late Paul Casamajor, head chemist of the Havemeyer sugar refineries, who encouraged him weekly for over ten years. Palmer also acknowledged the medical profession — to whom he dedicated his book — and credited the press for welcoming his communications.
 
-He was notably interdisciplinary for his era, consulting with physicians about mushroom poisoning cases and analyzing the chemistry of the Amanita family's toxins. He published his analysis of Amanita poison six years before Charles Mcllvaine independently confirmed every statement Palmer had made. Palmer included Mcllvaine's confirmation in his book as validation of his work.
+He was notably interdisciplinary for his era, consulting with physicians about mushroom poisoning cases and analyzing the chemistry of the Amanita family"s toxins. He published his analysis of Amanita poison six years before Charles Mcllvaine independently confirmed every statement Palmer had made. Palmer included Mcllvaine's confirmation in his book as validation of his work.
 
 ## Key Contributions
 

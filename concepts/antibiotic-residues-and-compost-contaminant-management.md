@@ -42,7 +42,7 @@ The extra energy gives the organisms the fuel they need to begin decomposing the
 
 ### Step 2: Add Specialized Inoculants
 
-If temperatures still don't respond after adding nitrogen and molasses, introduce commercial compost starters that contain bacteria specifically capable of degrading these compounds:
+If temperatures still don"t respond after adding nitrogen and molasses, introduce commercial compost starters that contain bacteria specifically capable of degrading these compounds:
 
 - **EM (Effective Microorganisms) inoculum**
 - **Biostart**
@@ -113,7 +113,7 @@ Several factors complicate the use of brix as a definitive plant health metric:
 The meaning of elevated brix readings is debated:
 
 - **Conventional view**: Elevated brix indicates improved plant nutrition and health
-- **Alternative hypothesis**: Elevated sugar may represent an "immune reaction" — the plant is responding to whatever was sprayed, indicating it's not so sick it can't respond, but not necessarily indicating improved health
+- **Alternative hypothesis**: Elevated sugar may represent an "immune reaction" — the plant is responding to whatever was sprayed, indicating it"s not so sick it can't respond, but not necessarily indicating improved health
 - **Another possibility**: Drops in brix may simply mean sugars are being converted to other materials the plant needs, and the plant is in a phase of sugar depletion
 
 A plant physiologist is needed to fully explain the relationships between sugar levels, dissolved solids, foliar nutrient uptake, and overall plant health. Observation of patterns remains the first step in the scientific method for this area of study.

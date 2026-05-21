@@ -1,5 +1,5 @@
 ---
-title: "Cho's cho natural pest control methods Control Methods"
+title: "Cho"s cho natural pest control methods Control Methods"
 created: 2026-04-28
 tags: [korean-natural-farming, pest-management, IPM, biological-control,
        cho-global]
@@ -10,7 +10,7 @@ sources:
 type: concept
 ---
 
-## Cho's Natural Pest Control Methods
+## Cho"s Natural Pest Control Methods
 
 Dr. Cho's Korean [[cho-plant-growth-stage-treatments]] ensures appropriate nutrition at each stage.
 3.  **Microbial diversity suppresses pathogens** — A diverse soil

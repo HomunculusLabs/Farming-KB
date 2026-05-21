@@ -11,19 +11,19 @@ created: 2026-05-09
 
 ## Overview
 
-Ralph Metzner's 1998 review identifies the emergence of "hybrid
+Ralph Metzner"s 1998 review identifies the emergence of "hybrid
 shamanic-therapeutic rituals" as a significant development in the
 use of psychoactive substances for healing. These rituals incorporate
 features from both indigenous shamanic traditions and Western
 psychotherapeutic practice, representing what Metzner describes as
 "a blending of indigenous shamanic and Western psychotherapeutic
 approaches." This synthesis has become increasingly prominent in the
-decades since Metzner's writing, foreshadowing the contemporary
+decades since Metzner"s writing, foreshadowing the contemporary
 integration of indigenous wisdom with clinical [[metzner-spirit-beings-multiple-realities-entheogens]]**: "The belief and assumption (really,
-   perception) that there are multiple realities ('worlds') that
+   perception) that there are multiple realities ("worlds') that
    can be explored in expanded states of consciousness"
 
-2. **Spirit beings**: "The belief that 'spirits,' the beings one
+2. **Spirit beings**: "The belief that "spirits,' the beings one
    encounters in dreams and visions, are just as real as the
    physical organism"
 

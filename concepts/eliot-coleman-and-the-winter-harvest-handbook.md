@@ -18,7 +18,7 @@ type: concept
 - **USDA Advisor** during the landmark 1979–80 study, *Report and Recommendations on Organic Farming*
 - **European study tours** of organic farms, market gardens, orchards, and vineyards — bringing European intensive cultivation ideas back to American agriculture
 - **Tool developer** who created and popularized a complete system of tools and equipment for organic vegetable growers, including broadforks, flame weeders, and precision seeders
-- **Tool consultant** to Johnny's Selected Seeds, one of the premier seed companies for market gardeners
+- **Tool consultant** to Johnny"s Selected Seeds, one of the premier seed companies for market gardeners
 - **Television host** of *Gardening Naturally* on The Learning Channel, alongside his wife Barbara Damrosch
 
 ### Four Season Farm

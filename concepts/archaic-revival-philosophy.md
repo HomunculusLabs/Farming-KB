@@ -9,7 +9,7 @@ sources: ["raw/papers/administrator-microsoft-word-fukuoka-textdoc.md"]
 
 ## Archaic Revival Philosophy
 
-The "Archaic Revival" is Terence McKenna's overarching philosophical framework, developed in Food of the Gods and elaborated throughout his later work. It proposes that Western civilization is undergoing a spontaneous, necessary return to values and practices associated with prehistoric, pre-patriarchal, partnership-based societies, and that this revival is being catalyzed primarily by the rediscovery of psychedelic plants and the experiential knowledge they provide.
+The "Archaic Revival" is Terence McKenna"s overarching philosophical framework, developed in Food of the Gods and elaborated throughout his later work. It proposes that Western civilization is undergoing a spontaneous, necessary return to values and practices associated with prehistoric, pre-patriarchal, partnership-based societies, and that this revival is being catalyzed primarily by the rediscovery of psychedelic plants and the experiential knowledge they provide.
 
 ## Partnership vs. Dominator Model
 

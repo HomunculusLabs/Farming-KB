@@ -1,5 +1,5 @@
 ---
-title: McKenna's World Made of Language and Shamanic Epistemology
+title: McKenna"s World Made of Language and Shamanic Epistemology
 source: Food of the Gods - Terence McKenna
 tags: [mckenna, language, shamanism, epistemology, linguistics, consciousness, reality, psychedelics]
 created: 2026-05-11
@@ -25,7 +25,7 @@ self and world is drawn differently. The Inuit experience a reality in which
 individual identity is not the sharp-edged, bounded phenomenon that English
 speakers take for granted.
 
-These examples support McKenna's broader claim: "The grammars of languages — their
+These examples support McKenna"s broader claim: "The grammars of languages — their
 internal rules — have been carefully studied. Yet too little attention has been
 devoted to examining how language creates and defines the limits of reality."
 
@@ -35,12 +35,12 @@ McKenna draws the inevitable conclusion: "Perhaps language is more properly
 understood when thought of as magic, for it is the implicit position of magic
 that the world is made of language." This equation of language and magic is not
 incidental but essential to shamanic epistemology. In the magical worldview,
-words have power — they can heal, curse, transform, and create. The shaman's
+words have power — they can heal, curse, transform, and create. The shaman"s
 chants ([[icaros]]), spells, and invocations are not symbolic acts but effective
 operations on the fabric of reality.
 
 The connection to plant hallucinogens becomes clear: "Preeminent among the
-shaman's techniques is the use of the plant hallucinogens, repositories of
+shaman"s techniques is the use of the plant hallucinogens, repositories of
 living vegetable gnosis that lie, now nearly forgotten, in our ancient past."
 The plants are sources of linguistic power — they grant access to a deeper layer
 of language where reality is actively generated.

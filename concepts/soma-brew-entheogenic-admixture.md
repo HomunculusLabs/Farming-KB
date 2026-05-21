@@ -12,7 +12,7 @@ The identity of **Soma** — the ancient Vedic elixir of immortality — remains
 
 ## The [[shamanism-death-and-rebirth]] experience** central to Shamanism
 - Evidence for its ritual use spans Siberia, India, and Mesoamerica
-- Alone, it does not fully account for all descriptions of Soma's effects
+- Alone, it does not fully account for all descriptions of Soma"s effects
 
 ### 2. Syrian Rue (*[[psilocybin-mushrooms]]
 - [[amanita-muscaria-legal-alternative-psilocybin-mushrooms-europe]] produce powerful visions but may lack certain qualities
@@ -47,7 +47,7 @@ The [[wilhelm-reich]] critiqued Freud's thesis that cultural advancement require
 
 Shamanism is described as the **cornerstone of all religions**, though corrupted over time by patriarchal systems. The quest to identify Soma is ultimately a quest to recover humanity's oldest spiritual tradition — one centered on individual direct experience through entheogenic plants rather than institutional mediation.
 
-As Arthur J. notes: "Different 'keys' open different doorways, and different combinations open different locks. Do not fall into the trap of thinking that any experience is the same as any other."
+As Arthur J. notes: "Different "keys' open different doorways, and different combinations open different locks. Do not fall into the trap of thinking that any experience is the same as any other."
 
 ## Overview
 

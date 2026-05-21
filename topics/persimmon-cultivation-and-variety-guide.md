@@ -23,7 +23,7 @@ Persimmons belong to the family Ebenaceae, which also includes the ebony tree. T
 
 - **Asian persimmon** (*D. kaki*): Native to China, Japan, and Korea. Trees reach 15–30 feet at maturity. Fruit is large (2–4 inches), ranging from deep orange to red. Hardy to approximately USDA Zone 7 (0°F / -18°C), though some varieties survive in Zone 6 with protection.
 - **American persimmon** (*D. virginiana*): Native to the eastern United States. Trees reach 30–60 feet in the wild but are smaller (15–25 feet) in cultivation. Fruit is smaller (1–2 inches) and highly astringent until fully ripe. Extremely cold-hardy, surviving to USDA Zone 4 (-25°F / -32°C).
-- **Hybrid persimmons** (D. kaki × D. virginiana): Combines the fruit quality of Asian types with the cold hardiness of American types. The most widely available hybrid is 'Rosseyanka'.
+- **Hybrid persimmons** (D. kaki × D. virginiana): Combines the fruit quality of Asian types with the cold hardiness of American types. The most widely available hybrid is "Rosseyanka'.
 
 ## Astringent vs. Non-Astringent Varieties
 
@@ -33,7 +33,7 @@ The single most important distinction among persimmon varieties is astringency, 
 
 Non-astringent persimmons lose their tannins as they develop on the tree and can be eaten while still firm, like an apple. They are sometimes called "Fuyu-type" persimmons.
 
-- **Fuyu** (also called 'Jiro'): The most widely grown non-astringent variety worldwide. Flattened, tomato-shaped fruit with sweet, crisp flesh. Reliable producer, self-fertile. Ripens October–November.
+- **Fuyu** (also called "Jiro'): The most widely grown non-astringent variety worldwide. Flattened, tomato-shaped fruit with sweet, crisp flesh. Reliable producer, self-fertile. Ripens October–November.
 - **Giant Fuyu**: Larger version of standard Fuyu with similar characteristics. Fruit can reach 5+ inches in diameter.
 - **Izu**: Smaller tree (10–12 feet), making it ideal for small spaces and container growing. Fruit resembles Fuyu but ripens 2–3 weeks earlier. Good choice for [[holzer-fruit-growing-marginal-climates]].
 - **Maru** ('Coffee Cake' or 'Nikita's Gift'): Unique non-astringent variety that develops cinnamon-colored internal streaks when pollinated, giving a spicy, complex flavor. Requires a pollinator.

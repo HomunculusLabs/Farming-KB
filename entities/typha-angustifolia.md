@@ -11,7 +11,6 @@ date: 2026-05-08
 updated: 2026-05-08
 sources:
   - Apahidean, A.I. et al. (2014). "Heavy metal phytoremediation potential of Typha angustifolia and Typha latifolia." Notulae Botanicae Horti Agrobotanici Cluj-Napoca, 42(2), 388-394.---
----
 
 ## Typha angustifolia
 

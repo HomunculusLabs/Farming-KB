@@ -1,5 +1,5 @@
 ---
-title: "Fukuoka's Temporary Flood Irrigation for Clover Suppression"
+title: "Fukuoka"s Temporary Flood Irrigation for Clover Suppression"
 source: "The Natural Way of Farming"
 source_author: "Masanobu Fukuoka"
 tags:

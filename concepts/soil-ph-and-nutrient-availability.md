@@ -26,7 +26,7 @@ The relationship between pH and nutrient availability is not linear. Each nutrie
 - In the pH 6.0–7.5 range, the widest spectrum of plant nutrients remains available.
 - Specific micronutrients like iron, manganese, and zinc become more available at lower pH, while molybdenum becomes more available at higher pH.
 
-## Buffers: Nature's pH Stabilizers
+## Buffers: Nature"s pH Stabilizers
 
 Two key substances buffer soil pH against rapid changes:
 

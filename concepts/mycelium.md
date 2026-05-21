@@ -5,7 +5,6 @@ tags: [mycology, biology, fungi, ecology]
 date: 2026-04-28
 updated: 2026-04-28
 sources: ["raw/papers/unknown-field-guide-to-the-psilocybin-mushroom.md"] type: concept ---
----
 ## Mycelium
 
 Mycelium is the vegetative body of a fungus, consisting of a mass of branching,
@@ -39,7 +38,7 @@ Mycelium plays fundamental roles in virtually all terrestrial ecosystems:
 carbon, nitrogen, and other nutrients back into the ecosystem. Mycelium secretes
 [[fungal-extracellular-enzymes]] including cellulases, ligninases, and proteases that
 decompose complex organic polymers that few other organisms can process. Without
-fungal decomposition, the world's forests would be buried under mountains of
+fungal decomposition, the world"s forests would be buried under mountains of
 undecomposed plant material. See
 [[bloomfield-mycorrhizal-symbiosis-and-fungal-ecology]]**: Approximately 90 percent of plant species form
 [[plants-without-mycorrhizal-associations]] with fungi. In exchange for carbohydrates from

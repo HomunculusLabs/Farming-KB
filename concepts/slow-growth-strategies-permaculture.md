@@ -72,7 +72,7 @@ Many Australian rainforest timber species demonstrate this same pattern: slow at
 
 ### Three Factors Enabling Fast-Forestry Dominance
 
-The forestry profession's collective blindness to the value of slow-growing species was enabled by:
+The forestry profession"s collective blindness to the value of slow-growing species was enabled by:
 1. **Continued harvesting of old-growth native forests** for high-quality wood, masking the deficiencies of plantation timber
 2. **Industrial substitution** with high embodied energy materials (steel, aluminium, concrete, plastics)
 3. **Industrial processing** of wood (laminating, finger-jointing, reconstituted fiber boards) to compensate for poor raw material quality
@@ -98,7 +98,7 @@ The principle that one should "learn to crawl before you walk" has wide currency
 
 ## The Paradox: Solid Construction vs. Experimentation
 
-There is a genuine tension in permaculture between building durable, long-term structures and the need for experimentation. Holmgren's personal experience building dry stone walls illustrates this: rushing the job led to rebuilding a decade later. However, the innovation inherent in much permaculture work means that over-investment in current ideas may foreclose new opportunities.
+There is a genuine tension in permaculture between building durable, long-term structures and the need for experimentation. Holmgren"s personal experience building dry stone walls illustrates this: rushing the job led to rebuilding a decade later. However, the innovation inherent in much permaculture work means that over-investment in current ideas may foreclose new opportunities.
 
 This tension resolves into a practical principle: **slow down and think carefully before acting, but once committed, do not be easily diverted or rushed**. Temporary solutions have their place (discussed under Principle 12: [[creatively-use-and-respond-to-change]]), but the default should favor durability and permanence.
 

@@ -22,7 +22,7 @@ The schacapa (also spelled shacapa or chakapa) is a traditional Amazonian ritual
 ## Key Facts
 
 - The schacapa is made by tying together dried leaves of a forest plant species
-- It produces a rustling noise that accompanies the healer's movements during ceremony
+- It produces a rustling noise that accompanies the healer"s movements during ceremony
 - The healer carries the schacapa as an ever-present tool, moving around the circle to contact each patient during the ceremony
 - It is used throughout the ayahuasca session, interspersed with whistling, singing, and orations
 - The auditory stimulus of the schacapa complements the other sensory elements of the ceremony: darkness, tobacco smoke, and the hallucinogenic effects of ayahuasca

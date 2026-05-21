@@ -9,7 +9,7 @@ tags: [spawn, commercial, brand, historical, brick-spawn, 19th-century, cultivat
 
 ## Description
 
-Cewey (also spelled "Cewey's") was a commercial brand of artificial mushroom spawn available in 19th-century England, referenced by James Cuthill in his 1870 treatise on mushroom cultivation. Cewey's spawn was one of the commercially available brick spawns that growers could purchase as an alternative to generating their own natural spawn from horse droppings. Cuthill mentioned it as an option for growers who needed to use artificial spawn when their natural spawn had been destroyed by overheating.
+Cewey (also spelled "Cewey"s") was a commercial brand of artificial mushroom spawn available in 19th-century England, referenced by James Cuthill in his 1870 treatise on mushroom cultivation. Cewey"s spawn was one of the commercially available brick spawns that growers could purchase as an alternative to generating their own natural spawn from horse droppings. Cuthill mentioned it as an option for growers who needed to use artificial spawn when their natural spawn had been destroyed by overheating.
 
 ## Classification
 
@@ -29,7 +29,7 @@ Cewey (also spelled "Cewey's") was a commercial brand of artificial mushroom spa
 
 ## Commercial Spawn Industry
 
-The availability of branded spawn products like Cewey's reflected the development of a commercial mushroom spawn industry in 19th-century England. Before commercial spawn, all spawn was either collected from the wild or saved from previous crops. The commercialization of spawn production represented a significant advancement, as it provided reliable, standardized inoculum that could be purchased when natural spawn failed. However, the cost of commercial spawn was a barrier for working-class growers, which is why Cuthill emphasized self-sufficiency in spawn production.
+The availability of branded spawn products like Cewey"s reflected the development of a commercial mushroom spawn industry in 19th-century England. Before commercial spawn, all spawn was either collected from the wild or saved from previous crops. The commercialization of spawn production represented a significant advancement, as it provided reliable, standardized inoculum that could be purchased when natural spawn failed. However, the cost of commercial spawn was a barrier for working-class growers, which is why Cuthill emphasized self-sufficiency in spawn production.
 
 ## Brick Spawn Format
 

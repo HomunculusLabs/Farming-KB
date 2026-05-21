@@ -6,7 +6,7 @@ type: concept
 
 ## Diversity and Stability in Ecosystems
 
-Diversity and stability are foundational concepts in [[bill-mollison]]'s treatment of these topics emphasizes that the common assumption "more diversity equals more stability" is overly simplistic, and that the *quality* of connections between system components matters far more than the sheer number of components.
+Diversity and stability are foundational concepts in [[bill-mollison]]"s treatment of these topics emphasizes that the common assumption "more diversity equals more stability" is overly simplistic, and that the *quality* of connections between system components matters far more than the sheer number of components.
 
 ## Definitions: Stress and Harmony
 

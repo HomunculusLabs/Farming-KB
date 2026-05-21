@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-[[julius-auboineau-palmer]]'s *About Mushrooms* (1894) presents a series of observations and personal experiments documenting the alarming capacity of poisonous mushroom alkaloids — particularly those of *[[amanita]]* species — to transfer to otherwise harmless organisms, objects, and substances through multiple routes of exposure. His work underscores that the poisonous principle of noxious fungi is not confined to the mushroom body itself but can contaminate its surroundings through atmospheric exhalation, direct contact, and fluid absorption.
+[[julius-auboineau-palmer]]"s *About Mushrooms* (1894) presents a series of observations and personal experiments documenting the alarming capacity of poisonous mushroom alkaloids — particularly those of *[[amanita]]* species — to transfer to otherwise harmless organisms, objects, and substances through multiple routes of exposure. His work underscores that the poisonous principle of noxious fungi is not confined to the mushroom body itself but can contaminate its surroundings through atmospheric exhalation, direct contact, and fluid absorption.
 
 Palmer's work is notable for its breadth: he documented gastrointestinal, dermal, and respiratory routes of exposure, each producing characteristic symptom profiles. His findings challenge the common assumption that mushroom poisoning results solely from the deliberate ingestion of a toxic specimen, revealing instead a more insidious landscape of risk involving proximity, shared storage, and solvent-mediated poisoning.
 

@@ -12,7 +12,7 @@ The Wombat Forest is a 64,000-hectare (approximately 158,000-acre) native forest
 located in central Victoria, Australia, near the towns of Daylesford, Trentham, and
 Woodend. The forest is situated within the traditional lands of the Dja Dja Wurrung,
 Taungurung, and Wathaurong peoples. It is one of the largest remaining blocks of
-native forest in central Victoria and plays a significant role in the region's water
+native forest in central Victoria and plays a significant role in the region"s water
 catchment, biodiversity conservation, and landscape character.
 
 The forest has a dramatic ecological history. Completely devastated during the
@@ -67,7 +67,7 @@ about the forest's history and management challenges.
 ## Relevance to Cultivation and Mycology
 
 - **[[mycorrhizal-networks]]**: The Wombat Forest supports extensive underground
-  mycorrhizal networks associated with its eucalypt overstorey. The forest's
+  mycorrhizal networks associated with its eucalypt overstorey. The forest"s
   history of devastation and recovery demonstrates the resilience (and
   vulnerability) of these fungal networks to disturbance.
 - **Wild Mushroom Habitat**: The mixed eucalypt forest provides habitat for a

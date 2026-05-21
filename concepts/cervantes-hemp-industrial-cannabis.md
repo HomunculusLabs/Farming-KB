@@ -17,7 +17,7 @@ synonyms:
   - rope cannabis
 primarily for fiber, seed, and industrial applications rather than
 psychoactive jorge-cervantes provides key information
-about hemp's characteristics and its implications for drug cannabis
+about hemp"s characteristics and its implications for drug cannabis
 growers.
 ---
 

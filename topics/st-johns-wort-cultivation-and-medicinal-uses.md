@@ -17,7 +17,7 @@ related_concepts:
   - lemon-balm-growing-guide
   - valerian-growing-guide
 ---
- St. John's Wort Cultivation and Medicinal Uses
+ St. John"s Wort Cultivation and Medicinal Uses
 
 **[[herbal-materia-medica]]* (c. 50–70 CE), *Hypericum* was
 recommended for sciatica, burns, and snake bites. Paracelsus, the

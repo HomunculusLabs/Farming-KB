@@ -1,5 +1,5 @@
 ---
-title: McKenna's Stoned stoned-ape-hypothesis-mckenna-psychedelic-evolution of Human Evolution
+title: McKenna"s Stoned stoned-ape-hypothesis-mckenna-psychedelic-evolution of Human Evolution
 created: 2026-05-08
 tags: [evolution, psilocybin, consciousness, mckenna, mycology, anthropology]
 date: 2026-05-08

@@ -82,7 +82,7 @@ presence of pleurocystidia) require microscopic examination that is
 impractical in the field. Third, several species share the trait of red-
 staining on bruising, but this characteristic alone cannot distinguish
 the toxic species from each other.
-Ramsbottom's observation that "it is very difficult to distinguish
+Ramsbottom"s observation that "it is very difficult to distinguish
 between them except on microscopic characters" remains relevant today.
 Modern DNA barcoding has improved species delimitation, but field
 identification of Inocybe remains challenging even for experienced
@@ -90,7 +90,7 @@ mycologists. The safest approach is to avoid consuming any Inocybe
 species.
 ## Comparison with Other Muscarine-Containing Genera
 Muscarine-type poisoning is not unique to Inocybe. Clitocybe species,
-particularly [[clitocybe-dealbata]] (the fool's funnel), also contain
+particularly [[clitocybe-dealbata]] (the fool"s funnel), also contain
 significant muscarine concentrations. The genus Clitocybe shares with
 Inocybe the general trait of being brown-spored and easily overlooked.
 The key distinction is that Clitocybe species typically have decurrent
@@ -102,7 +102,7 @@ the parasympathomimetic effects of true muscarine poisoning. The
 clinical presentation of Inocybe poisoning is therefore closer to
 Clitocybe poisoning than to Amanita muscaria intoxication, despite the
 historical grouping of all three under "muscarine-type" poisoning.
-## Historical Context and Ramsbottom's Contribution
+## Historical Context and Ramsbottom"s Contribution
 Ramsbottom's 1945 treatment of Inocybe was among the first accessible
 accounts of these species for a general audience. His emphasis on the
 difficulty of field identification and his documentation of actual

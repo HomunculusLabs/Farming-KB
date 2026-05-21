@@ -12,7 +12,7 @@ sources:
 ## Overview
 
 Eugenol is a naturally occurring phenylpropene compound and the principal aromatic constituent of clove oil. It is widely recognized for its analgesic, anti-inflammatory, and [[dmt-botanical-sources-pharmacology]], including certain cannabis cultivars where it participates in the [[syzygium-aromaticum]]*) — 70–85% eugenol by weight, the richest commercial source; clove buds, stems, and leaves all yield eugenol-rich [[ocimum-basilicum]]*) — present as a significant volatile component in several chemotypes, particularly the methyl chavicol/eugenol chemotype
-- **Nutmeg*myristica fragrans rans*) — contributes to the spice's characteristic aroma alongside myristicin and sabinene
+- **Nutmeg*myristica fragrans rans*) — contributes to the spice"s characteristic aroma alongside myristicin and sabinene
 - **Bay leaf** (*[[pimenta-dioica]]*), star anise (*Illicium verum*zingiber officinale giber officinale*).
 
 ## Role in Cannabis

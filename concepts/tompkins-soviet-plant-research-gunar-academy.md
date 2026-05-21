@@ -12,7 +12,7 @@ type: concept
 
 ## Overview
 
-In the Soviet Union, [[tompkins-cleve-backster-primary-perception]]'s
+In the Soviet Union, [[tompkins-cleve-backster-primary-perception]]"s
 experiments in America, was brought to international attention when
 the official Communist Party newspaper *Pravda* published a major
 article on plant sentience in October 1970.
@@ -26,18 +26,18 @@ Communist Party declared: "Plants talk... yes, they scream. It only
 seems that they accept their misfortunes submissively and silently
 bear pain."
 
-*Pravda*'s reporter, V. Chertkov, visited the Laboratory for
+*Pravda*"s reporter, V. Chertkov, visited the Laboratory for
 Artificial Climate at the Timiryazev Academy and witnessed
 extraordinary experiments. He described how "before my eyes a barley
 sprout literally cried out when its roots were plunged into hot water.
-True, the plant's 'voice' was registered only by a special and
+True, the plant"s 'voice' was registered only by a special and
 extremely sensitive electronic instrument which revealed a 'bottomless
 vale of tears' on a broad paper band. As though it had gone crazy, the
 recording pen wriggled out on the white track the death agony of the
 barley sprout, although, to look at the little plant itself, one
 would never have guessed what it was going through."
 
-## Professor Gunar's Laboratory
+## Professor Gunar"s Laboratory
 
 Professor Ivan Isidorovich Gunar, head of the academy's Department of
 Plant Physiology, together with his staff, performed hundreds of
@@ -49,7 +49,7 @@ proclivities. "He even appears to converse with them," Chertkov
 wrote, "and it seems to me that his plants pay attention to this
 good, graying man."
 
-Gunar's chief assistant, Leonid A. Panishkin, a former engineer, was
+Gunar"s chief assistant, Leonid A. Panishkin, a former engineer, was
 asked why he gave up technology to work in Gunar's laboratory. He
 replied: "Well, there I used to be involved with metallurgy; here
 there is life." Another laboratory worker, Tatiana Tsimbalist,
@@ -61,12 +61,12 @@ to look at nature with different eyes."
 Panishkin was particularly interested in searching out conditions
 which might best suit the specific needs of plants and how "our green
 friends" react to light and darkness. By using a special lamp which
-shone with the same intensity as the sun's rays reaching earth, he
+shone with the same intensity as the sun"s rays reaching earth, he
 found that plants tired in an overextended day and needed rest at
 night. He hoped it might one day be possible for plants to turn lights
 on or off in a greenhouse at will, creating "a live electric relay."
 
-The Gunar team's studies opened up new vistas in plant breeding. In
+The Gunar team"s studies opened up new vistas in plant breeding. In
 their laboratory it was found that individual plants more resistant
 to heat, cold, and other climatological factors could be "selected"
 within minutes by testing them with their instruments, whereas these

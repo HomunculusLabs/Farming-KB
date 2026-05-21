@@ -10,7 +10,7 @@ sources:
 
 ## Fertility Cults and Mushroom Symbolism in the Ancient Near East
 
-Allegro's theory situates [[allegro-sacred-prostitute-and-the-mushroom-cult]] was
+Allegro"s theory situates [[allegro-sacred-prostitute-and-the-mushroom-cult]] was
 a well-known office in the ancient world. While it is usually assumed that
 she dedicated herself as a sexual partner in imitative ritual designed to
 stimulate the generative faculties of the fertility deity, Allegro argues her

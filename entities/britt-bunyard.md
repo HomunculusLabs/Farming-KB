@@ -12,7 +12,7 @@ categories:
 
 ## Description
 
-Britt Bunyard is a mycologist, author, and the founding editor of *Fungi Magazine*, a publication dedicated to mycology and fungal education. He served as editor for the inaugural Spring 2008 issue (Volume 1:1) that featured [[ron-spinosa]]'s article "[[fungi-and-sustainability]]." Bunyard is also a book reviewer for mycological publications, having reviewed Andrus Voitk's *A Little Illustrated Book of Common Mushrooms of Newfoundland and Labrador* in the same issue. His editorial role has been instrumental in creating a platform for mycological knowledge exchange and public education about the importance of fungi.
+Britt Bunyard is a mycologist, author, and the founding editor of *Fungi Magazine*, a publication dedicated to mycology and fungal education. He served as editor for the inaugural Spring 2008 issue (Volume 1:1) that featured [[ron-spinosa]]"s article "[[fungi-and-sustainability]]." Bunyard is also a book reviewer for mycological publications, having reviewed Andrus Voitk"s *A Little Illustrated Book of Common Mushrooms of Newfoundland and Labrador* in the same issue. His editorial role has been instrumental in creating a platform for mycological knowledge exchange and public education about the importance of fungi.
 
 ## Classification
 
@@ -24,9 +24,9 @@ Britt Bunyard is a mycologist, author, and the founding editor of *Fungi Magazin
 
 - Founded and served as editor-in-chief of *Fungi Magazine*, which began publication in Spring 2008 (Volume 1:1).
 - Edited the inaugural issue featuring Ron Spinosa's comprehensive article "Fungi and Sustainability," providing encouragement and suggestions for refining the manuscript.
-- Authored a book review of Andrus Voitk's *A Little Illustrated Book of Common Mushrooms of Newfoundland and Labrador* (2007), published in the same inaugural issue.
-- In his review, Bunyard demonstrated broad mycological knowledge, discussing species including Pleurocybella porrigens ("Angel's Wings"), Catathelasma ventricosa, Amanita wellsii, and various Cortinarius and lichenized mushroom species.
-- Praised Voitk's guidebook for its currency of information, noting it was the only book at the time to caution against picking Pleurocybella porrigens due to recent poisonings in Japan.
+- Authored a book review of Andrus Voitk"s *A Little Illustrated Book of Common Mushrooms of Newfoundland and Labrador* (2007), published in the same inaugural issue.
+- In his review, Bunyard demonstrated broad mycological knowledge, discussing species including Pleurocybella porrigens ("Angel"s Wings"), Catathelasma ventricosa, Amanita wellsii, and various Cortinarius and lichenized mushroom species.
+- Praised Voitk"s guidebook for its currency of information, noting it was the only book at the time to caution against picking Pleurocybella porrigens due to recent poisonings in Japan.
 - Recognized for making mycological knowledge accessible to a broad audience through both the magazine format and engaging editorial style.
 - His editorial work created a significant platform for connecting academic mycology with practical cultivation, sustainability, and public education.
 - Attended Foray Newfoundland, one of the larger and better-organized mycological forays in North America.

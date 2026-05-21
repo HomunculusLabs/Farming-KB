@@ -42,7 +42,7 @@ Most forms of plant memory operate through phosphorylation cascades:
 2. Receptor activates kinase cascade (MAPK, CDPK, SnRK)
 3. Kinases phosphorylate transcription factors
 4. Transcription factors activate or repress target genes
-5. Gene products alter the plant's physiological state
+5. Gene products alter the plant"s physiological state
 
 The "memory" is encoded in the activated state of these signaling components
 and their downstream targets.

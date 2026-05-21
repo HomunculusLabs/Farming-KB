@@ -11,7 +11,6 @@ date: 2026-05-08
 updated: 2026-05-08
 sources:
   - Haw, R.G. & Hauge, R.Y. (2007). "Propagation of endangered pondberry from cuttings." Native Plants Journal, 8(1), 35-40.---
----
 
 ## Overview
 

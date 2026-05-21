@@ -9,7 +9,7 @@ tags: [people, culture, terrace-culture, rice, permaculture, traditional-knowled
 
 ## Description
 
-The Ifugao people are an indigenous group of the Philippines renowned for constructing and maintaining one of the world's oldest and most sustainable wet terrace agricultural systems. Their rice terraces in the mountains of northern Luzon have been in continuous use for at least 3,000 years, representing one of humanity's most enduring examples of sustainable land-water integration. Mollison draws extensively on the Ifugao as a model of self-governance and community-managed hydraulic infrastructure.
+The Ifugao people are an indigenous group of the Philippines renowned for constructing and maintaining one of the world"s oldest and most sustainable wet terrace agricultural systems. Their rice terraces in the mountains of northern Luzon have been in continuous use for at least 3,000 years, representing one of humanity's most enduring examples of sustainable land-water integration. Mollison draws extensively on the Ifugao as a model of self-governance and community-managed hydraulic infrastructure.
 
 ## Classification
 
@@ -59,7 +59,7 @@ Mollison uses the Ifugao as proof that self-reliant, decentralized food systems 
 
 ## Sources
 
-- [[bill-mollison]], *Permaculture: A Designers' Manual*, Chapter 13, page 537
+- [[bill-mollison]], *Permaculture: A Designers" Manual*, Chapter 13, page 537
 - Conklin, Harold, "Ethnographic Atlas of Ifugao," *Scientific American* (Review), February 1982
 - Fox, references on Indonesian palm cultures (1977)
 

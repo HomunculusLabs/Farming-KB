@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-[[julius-auboineau-palmer]]'s *About Mushrooms* includes a systematic key for
+[[julius-auboineau-palmer]]"s *About Mushrooms* includes a systematic key for
 determining the edibility of large fleshy fungi, alongside an extensive
 bibliography of 19th-century mycological literature. Together these sections
 reveal both the state of amateur mycological knowledge in late-Victorian

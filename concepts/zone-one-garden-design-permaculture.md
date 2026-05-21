@@ -34,12 +34,12 @@ Multiple [[gourmet-medicinal-mushroom-oyster-cultivation-methods]] can produce e
 Annual [[query-how-do-i-grow-vegetables-and-herbs-in-shaded-areas]] in constant turnover belong here: lettuce, beans, tomatoes, peppers, salad greens, culinary herbs. These demand frequent attention — planting, harvesting, pest monitoring — and reward proximity with higher yields from better care. "The annuals there are in constant turnover, high demand."
 
 ### Small Animals
-Animals requiring daily attention live in zone one: calves, chickens, ducklings, milk goats. "The more attention they must have, the closer you bring them. It's that simple. If you design this consciously, it is amazing how much more the site produces." Rabbits, worm farms, and beehives may also qualify depending on management intensity. The perennials in zone one "yield constantly."
+Animals requiring daily attention live in zone one: calves, chickens, ducklings, milk goats. "The more attention they must have, the closer you bring them. It"s that simple. If you design this consciously, it is amazing how much more the site produces." Rabbits, worm farms, and beehives may also qualify depending on management intensity. The perennials in zone one "yield constantly."
 
 ### Culinary Herb Gardens
-Mollison's detailed description of his spiral herb garden illustrates the zone one ideal:
+Mollison"s detailed description of his spiral herb garden illustrates the zone one ideal:
 - **Micro-climates**: Shaded and semi-shaded niches, bright hot sunny places to east and west, different drainages from group to group within a single compact structure. "You have different drainages from group to group, different heats and shade."
-- **Condensed space**: A spiral design provides approximately 51 feet of row in a compact footprint with no inter-row problems. "I tried to compute how many feet I've got into this. I think it is about 51 feet of row, which is quite a lot."
+- **Condensed space**: A spiral design provides approximately 51 feet of row in a compact footprint with no inter-row problems. "I tried to compute how many feet I"ve got into this. I think it is about 51 feet of row, which is quite a lot."
 - **Species diversity**: Parsley, chives, thyme, rosemary, tarragon — "maybe two of them would contain enough varieties to satisfy the most finicky cook. It could have all the herbs you commonly use."
 - **Aesthetic integration**: The spiral "fits neatly outside the door, and is aesthetic."
 - **Water features**: A simple pond (plastic bag lined with dirt) grows watercress at the center. "For the pond, just split open a plastic bag, put it in the bottom and fill it with dirt. You can grow a lot of watercress there."
@@ -63,11 +63,11 @@ Spiral and keyhole garden geometries dramatically increase edge — the interfac
 For [[surface-sterilization-methods-comparison-complex-geometries-thermal-chemical-residue]] like spirals, "it probably pays to use fairly permanent plants." Perennial herbs and semi-permanent plantings reduce disturbance of the established micro-climate patterns. The structure is "superbly adapted for culinary herbs" with its different drainages, heats, and shade zones.
 
 ### Observation-Driven Management
-Zone one's greatest advantage is constant observation. Problems are caught early, harvests happen at peak ripeness, and the intimate familiarity with each plant leads to better management decisions over time. The frequent visits that define zone one create a feedback loop between observation and action that no amount of scheduled maintenance can replicate.
+Zone one"s greatest advantage is constant observation. Problems are caught early, harvests happen at peak ripeness, and the intimate familiarity with each plant leads to better management decisions over time. The frequent visits that define zone one create a feedback loop between observation and action that no amount of scheduled maintenance can replicate.
 
 ## The Parsley Principle
 
-Mollison offers a thought experiment: "Imagine a big clump of parsley 20 feet away. You've got to walk all the way out there." Most people won't bother regularly harvesting from a distant patch. Move the parsley to zone one, right outside the door, and it gets harvested daily. This simple insight — that proximity determines management intensity — is the foundational principle of all zone planning. "If you design this consciously, it is amazing how much more the site produces."
+Mollison offers a thought experiment: "Imagine a big clump of parsley 20 feet away. You"ve got to walk all the way out there." Most people won"t bother regularly harvesting from a distant patch. Move the parsley to zone one, right outside the door, and it gets harvested daily. This simple insight — that proximity determines management intensity — is the foundational principle of all zone planning. "If you design this consciously, it is amazing how much more the site produces."
 
 ## Integration with the Dwelling
 

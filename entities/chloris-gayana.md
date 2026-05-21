@@ -8,7 +8,7 @@ type: entity
 
 ## Description
 
-Chloris gayana, commonly known as Rhodes grass, is a stoloniferous perennial tropical grass widely cultivated for pasture, hay production, and soil conservation. In Bill Mollison's *Permaculture: A Designer's Manual*, it is listed among the important grass species as "Rhodes grass, Chloris gayana."
+Chloris gayana, commonly known as Rhodes grass, is a stoloniferous perennial tropical grass widely cultivated for pasture, hay production, and soil conservation. In Bill Mollison"s *Permaculture: A Designer's Manual*, it is listed among the important grass species as "Rhodes grass, Chloris gayana."
 
 ## Classification
 

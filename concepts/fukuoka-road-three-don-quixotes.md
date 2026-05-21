@@ -38,7 +38,7 @@ Three main presentations were given:
 ## The Donkey Sketch
 
 At the end of a panel discussion the following day, Fukuoka
-drew a picture of Don Quixote's donkey. Riding on the back
+drew a picture of Don Quixote"s donkey. Riding on the back
 of the donkey was Morrison, who he depicted as blind. A
 deaf Jackson was riding backwards, while Fukuoka was hanging
 onto the donkey's tail, swinging back and forth.
@@ -48,11 +48,11 @@ to stop that donkey from plunging wildly over the cliff by
 returning to nature, but their efforts are all in vain. What
 would you do?"
 
-Then he drew President Reagan standing on the donkey's neck
+Then he drew President Reagan standing on the donkey"s neck
 and dangling a carrot in front of its nose. "What is this
 carrot?" he asked. One person replied: "Money." The host
 laughed and said that this would be a shame if it were to
-sum up the results of the day's meeting.
+sum up the results of the day"s meeting.
 
 ## The Second Conference: UC Santa Cruz
 

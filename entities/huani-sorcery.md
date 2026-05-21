@@ -15,7 +15,7 @@ Huani (also spelled *huani*) is a form of sorcery in Amazonian vegetalismo that 
 
 ## Key Facts
 
-- The sorcerer puts the bow in his mouth and blows the crystal arrow, which pierces the victim's body and returns to the sorcerer's armpit. The victim feels extreme fatigue, falls asleep, and upon waking begins to vomit blood until death.
+- The sorcerer puts the bow in his mouth and blows the crystal arrow, which pierces the victim"s body and returns to the sorcerer's armpit. The victim feels extreme fatigue, falls asleep, and upon waking begins to vomit blood until death.
 - Huani sorcery is incurable by any vegetalista — the text states explicitly that "only God can save him," distinguishing it from chonta and [[amaringo-ayahuasca-visions-shipibo-iconography]]: the curandero sees small waves crossed by dark lines around the patient, distinguishing huani from chonta damage (zigzagging lights) and marupa sorcery (larger waves).
 - The huani practitioner carries a living piranha within the mariri, suggesting the piranha's flesh-eating nature symbolically mirrors the internal destruction caused by the crystal arrow.
 - Plants used by huani sorcerers include ishanga (Laportea aestuans, [[chontero]] — dart-based sorcery (treatable)

@@ -34,11 +34,11 @@ humorous, and almost (but not quite) straight, in a hilarious sequence
 of twelve strips. On August 19, 1985 he had Duke, president of Baby
 Doc College, introduce the [[jadam-sea-salt-and-mineral-solutions]]." And what is MDMA with one oxygen atom removed? It is
 4-methoxy-N-methylamphetamine or METHYL-MA which, according to the
-twins, should give the illusion of substance to one's alter ego. So,
+twins, should give the illusion of substance to one"s alter ego. So,
 I called it Doonesamine, or simply RDOONES for short. Maybe that was
 also a homonym for Frank Herbert's science fiction book, "Dune,"
 wherein the magical drug "spice" provided a most remarkable alteration
-of the user's state of consciousness.
+of the user"s state of consciousness.
 
 This comic strip presentation was the first nationally distributed
 allusion to the term "[[shulgin-designer-drugs-analysis]]," and perhaps it lent unexpected

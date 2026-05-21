@@ -12,7 +12,7 @@ science and offer a radically different model for plant-soil relationships.
 
 ## The Living Soil
 
-Fukuoka's farm provides dramatic evidence of soil's inherent fertility. One gram of
+Fukuoka"s farm provides dramatic evidence of soil's inherent fertility. One gram of
 soil on his farm contains about 100 million nitrogen-fixing bacteria and other
 soil-enriching microbes. This [[fukuoka-textdoc-soil-microorganism-natural-fertility-one-gram-soil]]s could be the spark
 that restores even the world's deserts.
@@ -37,7 +37,7 @@ and monitoring. The straw simply lies where it falls after harvest.
 Leguminous green manure plants such as clover, alfalfa, and bur clover play a vital
 role. Through their symbiotic relationship with nitrogen-fixing bacteria in their root
 systems, these plants convert atmospheric nitrogen into forms available to other plants.
-In Fukuoka's rice/barley [[fukuoka-textdoc-ladino-clover-alfalfa-bur-clover-orchard-ground-cover]] that
+In Fukuoka"s rice/barley [[fukuoka-textdoc-ladino-clover-alfalfa-bur-clover-orchard-ground-cover]] that
 suppresses weeds and a continuous nitrogen source for grain crops.
 
 ### The Microbial Economy

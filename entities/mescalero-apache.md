@@ -32,7 +32,7 @@ The Mescaleros used peyote in religious rites as early as 1867, with the practic
 
 The Mescaleros ultimately abandoned peyote use due to severe social disruption:
 
-1. **Fundamental incongruity**: In ordinary shamanistic practice, a single shaman is the principal figure. Peyote made its effects common to all participants, destroying the uniqueness of the shaman's experience
+1. **Fundamental incongruity**: In ordinary shamanistic practice, a single shaman is the principal figure. Peyote made its effects common to all participants, destroying the uniqueness of the shaman"s experience
 2. **Shamanistic rivalries**: The peyote meetings became places where shamanistic rivalries and witchcraft flourished
 3. **Violence**: Hostilities became "so open and bloody" that the peyote gatherings were abandoned
 4. **Demonization**: Peyote was defined as an evil substance — uniquely, "peyote power is unique among the Mescaleros in that it is uniformly considered to be bad"
@@ -56,7 +56,7 @@ Mescalero religion centers on supernatural power that permeates the world:
 ### Witchcraft vs. Shamanism
 - Those who use power for the common good are shamans
 - Those who use power selfishly are witches
-- Yet shamans are implicitly witches because a shaman who saves a life must sacrifice his own or a loved person's life
+- Yet shamans are implicitly witches because a shaman who saves a life must sacrifice his own or a loved person"s life
 - This creates endemic jealousies, enmities, and suspicion
 
 ## Personality Structure

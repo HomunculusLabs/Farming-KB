@@ -1,5 +1,5 @@
 ---
-title: Desertification Causes and Holzer's Ecological Critique
+title: Desertification Causes and Holzer"s Ecological Critique
 source: holzer-desert-or-paradise.md
 type: concept
 ---
@@ -16,7 +16,7 @@ type: concept
 
 Holzer identifies a cascade of linked processes that lead from healthy land to desert: "From the loss of humus to total degradation, from the gradual to total loss of biodiversity, and from the loss of moisture to total dehydration." Each stage reinforces the others in a positive feedback loop:
 
-1. **Humus loss**: Organic matter depletion reduces soil's water-holding capacity
+1. **Humus loss**: Organic matter depletion reduces soil"s water-holding capacity
 2. **Biodiversity loss**: Reduced plant diversity weakens soil structure and nutrient cycling
 3. **Moisture loss**: Without humus and vegetation cover, water runs off rather than infiltrating
 4. **Dehydration**: Falling water tables and drying soils further reduce vegetation
@@ -34,7 +34,7 @@ Holzer identifies a cascade of linked processes that lead from healthy land to d
 
 ### Chemical Fertilizers and Herbicides
 
-"The use of chemical fertilisers and herbicides" disrupts soil biology, kills beneficial microorganisms, and creates dependency on external inputs. Chemical fertilizers bypass the natural nutrient cycling that Holzer's symbiotic interactions provide, while herbicides eliminate the ground cover that protects soil from erosion and retains moisture.
+"The use of chemical fertilisers and herbicides" disrupts soil biology, kills beneficial microorganisms, and creates dependency on external inputs. Chemical fertilizers bypass the natural nutrient cycling that Holzer"s symbiotic interactions provide, while herbicides eliminate the ground cover that protects soil from erosion and retains moisture.
 
 ### Salinization
 
@@ -46,7 +46,7 @@ Holzer identifies a cascade of linked processes that lead from healthy land to d
 
 ### Overgrazing
 
-"Overgrazing" removes vegetation cover, compacts soil, and prevents the regeneration of grasses and other plants that protect and build soil. Livestock concentration beyond the land's carrying capacity is a major driver of desertification in arid and semi-arid regions worldwide.
+"Overgrazing" removes vegetation cover, compacts soil, and prevents the regeneration of grasses and other plants that protect and build soil. Livestock concentration beyond the land"s carrying capacity is a major driver of desertification in arid and semi-arid regions worldwide.
 
 ### Industrial Deforestation
 
@@ -81,11 +81,11 @@ Holzer describes the desertification process in detail:
 
 The abandonment of desertified land creates a cycle of displacement: farmers move to cities or to new land, where they often repeat the same practices that caused the original degradation. The result is expanding deserts and growing populations of ecological refugees.
 
-## Holzer's Alternative
+## Holzer"s Alternative
 
 ### Working with Nature
 
-"Mistakes leading to desertification are unnatural behaviour." Holzer's alternative is deceptively simple: observe how natural ecosystems manage water, soil, and biodiversity, and replicate those processes in agricultural landscapes.
+"Mistakes leading to desertification are unnatural behaviour." Holzer"s alternative is deceptively simple: observe how natural ecosystems manage water, soil, and biodiversity, and replicate those processes in agricultural landscapes.
 
 ### The Water Landscape Solution
 

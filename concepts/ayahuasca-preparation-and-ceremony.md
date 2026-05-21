@@ -74,7 +74,7 @@ Ayahuasca ceremonies are typically conducted at night and last 4-8 hours:
 3. **Administration**: The brew is served in small cups. Participants typically consume one to several doses throughout the night.
 4. **Purging**: Nausea, vomiting, and sometimes diarrhea are expected and considered a necessary cleansing. The purge is understood as a release of negative energy, illness, or spiritual impurity.
 5. **The visions**: Within 30-60 minutes, the DMT effects begin. Visions are often intensely colorful, geometric, or nature-based, and may include encounters with animals, spirits, ancestors, or deities.
-6. **Icaros**: The shaman or healer sings **icaro** songs throughout the ceremony. These magical curing songs are understood not merely as music but as active technologies for shaping the visionary experience, calling protective spirits, and directing healing energy. McKenna described the shaman's icaro as "a visible manifestation of power, enfolding us and making us secure."
+6. **Icaros**: The shaman or healer sings **icaro** songs throughout the ceremony. These magical curing songs are understood not merely as music but as active technologies for shaping the visionary experience, calling protective spirits, and directing healing energy. McKenna described the shaman"s icaro as "a visible manifestation of power, enfolding us and making us secure."
 7. **Integration**: At the end of the ceremony, the shaman may discuss participants' experiences and offer guidance.
 
 ### The Role of the Shaman

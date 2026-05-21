@@ -19,7 +19,7 @@ The [[ayahuasca]] and other New World hallucinogens laid the
 groundwork for the chemical characterization that was to follow. His student
 Timothy Plowman continued this tradition with important work on coca and
 Erythroxylum species. The birth of ethnopsychopharmacology took place at Harvard
-under Schultes's watchful eye, establishing a tradition of rigorous botanical and
+under Schultes"s watchful eye, establishing a tradition of rigorous botanical and
 chemical investigation of shamanic plants.
 
 ## The Discovery of LSD

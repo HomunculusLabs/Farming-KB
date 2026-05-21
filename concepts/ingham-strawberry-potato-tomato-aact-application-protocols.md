@@ -10,7 +10,7 @@ created: 2026-05-09
 
 ## Overview
 
-Ingham's Field Guide provides specific application protocols for major crops, detailing
+Ingham"s Field Guide provides specific application protocols for major crops, detailing
 timing, rates, and organism-group targets. Each crop has unique requirements based on
 its [[fukuoka-textdoc-composting-critique-futility-prepared-organic-matter]]
 produces berries that "taste like wood"—the plants are ecologically mismatched to their
@@ -29,7 +29,7 @@ Ingham identifies three paths to sustainable strawberry production:
 ### Key Considerations
 
 - Fungal-dominant tea is essential—match the forest understory ecology
-- If strawberries die of fungal disease, "suspect that the compost wasn't really compost"
+- If strawberries die of fungal disease, "suspect that the compost wasn"t really compost"
 - Pesticide drift from neighboring operations can undermine AACT benefits
 - [[arbuscular-mycorrhizal-colonization-patterns]] of root systems
 - Foliar sprays during fruiting for [[cervantes-trichoderma-beneficial-fungi]] in the soil.

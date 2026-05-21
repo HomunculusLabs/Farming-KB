@@ -10,7 +10,7 @@ created: 2026-05-08
 
 ## Overview
 
-The Tryptamine Logos is Terence McKenna's term for the translinguistic
+The Tryptamine Logos is Terence McKenna"s term for the translinguistic
 intelligence and information field encountered in tryptamine-induced altered
 states, particularly through DMT and psilocybin. Drawing on the ancient Greek
 concept of the Logos — the divine reason, word, or principle that pervades and
@@ -21,7 +21,7 @@ orders the cosmos — McKenna proposed that [[mckenna-philo-judaeus-logos-hearin
   flesh in Christ.
 - **Stoicism**: The Logos as the animating principle pervading all of nature.
 
-McKenna's innovation was to identify the tryptamine experience as a direct,
+McKenna"s innovation was to identify the tryptamine experience as a direct,
 phenomenological encounter with this Logos principle — not as metaphor or
 theological abstraction, but as lived experience.
 
@@ -36,7 +36,7 @@ that comes out of oneself."
 
 When a human mind encounters this translinguistic object, "a kind of cognitive
 dissonance is set up in our hindbrain." The brain attempts to pour ordinary
-language over the experience, and "it sheds it like water off a duck's back."
+language over the experience, and "it sheds it like water off a duck"s back."
 This repeated failure produces the characteristic state of wonder, astonishment,
 and awe at the brink of terror that defines the tryptamine experience.
 

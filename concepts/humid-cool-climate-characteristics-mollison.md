@@ -6,7 +6,7 @@ type: concept
 
 ## Humid Cool Climate Characteristics
 
-Mollison's detailed characterisation of cool humid (mesothermal) climates
+Mollison"s detailed characterisation of cool humid (mesothermal) climates
 covers the vegetation, soils, frost behaviour, wind exposure, and geographic
 distribution that define these agriculturally productive but demanding regions.
 These climates span much of Europe, [[guzman-psilocybin-mushrooms-north-america]], southern [[guzman-psilocybin-mushrooms-south-america]],

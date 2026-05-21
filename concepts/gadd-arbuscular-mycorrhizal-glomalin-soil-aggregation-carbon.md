@@ -34,7 +34,7 @@ The 6–42 year residence time places glomalin among the more stable fractions o
 
 ### Contribution to Soil Organic Carbon
 
-Quantitative estimates of glomalin's contribution to stable soil carbon pools vary by ecosystem:
+Quantitative estimates of glomalin"s contribution to stable soil carbon pools vary by ecosystem:
 
 - **Grasslands** — As much as 15% of total stable soil organic carbon (SOC) (Miller & Kling, 2000)
 - **Tropical rainforest soils** — 4%–5% of total stable SOC (Rillig et al., 2001; Zhu & Miller, 2003)

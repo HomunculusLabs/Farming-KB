@@ -20,7 +20,7 @@ Some of these popular names are also known and applied by users outside of Austr
 
 The term was invented by a *Life Magazine* editor in 1957, in connection with [[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]]*, and the surfing subculture appears to have been central to the popularisation of these names.
 
-However, some of these names have apparently been used to describe several different species of *Psilocybe* by users in Australia (see [[mazatec-mushroom-culture-and-velada]] is notable: surfers visiting Hawaii's North Shore have reportedly ingested mushrooms prior to surfing, as do many locally based surfers in Australia and New Zealand.
+However, some of these names have apparently been used to describe several different species of *Psilocybe* by users in Australia (see [[mazatec-mushroom-culture-and-velada]] is notable: surfers visiting Hawaii"s North Shore have reportedly ingested mushrooms prior to surfing, as do many locally based surfers in Australia and New Zealand.
 
 This cross-Pacific surfing culture appears to have facilitated the exchange of common names for psychoactive mushrooms, creating a shared vocabulary among wave-riding communities across the Pacific.
 

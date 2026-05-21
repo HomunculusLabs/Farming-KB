@@ -1,5 +1,5 @@
 ---
-title: Key to Edibility of Fungi - Palmer's Classification System
+title: Key to Edibility of Fungi - Palmer"s Classification System
 source: julius-auboineau-palmer-about-mushrooms.md
 type: concept
 ---

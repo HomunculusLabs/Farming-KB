@@ -61,7 +61,7 @@ Mollison is sharply critical of government resistance to decentralized alcohol p
 
 - Australia planned to spend 2–3 million dollars on P.R. to save petrol, but the same amount for low-cost ($15,000) distillation plants that would make communities self-sufficient was "not available"
 - "The intention is obvious: we are expected to stick with petrol or gas products, lead and pollution, until the [[fukuoka-oil-companies-international-seed-war]] gain control of alcohol fuels"
-- "Most high-performance cars now run on alcohol, as do 60% of Brazil's vehicles. But the pretence is that we need 'research' to develop this in Australia. Hogwash!"
+- "Most high-performance cars now run on alcohol, as do 60% of Brazil"s vehicles. But the pretence is that we need 'research' to develop this in Australia. Hogwash!"
 
 Mollison advocates building local plants and resisting central control, which would cause "great energy waste in the transporting of raw materials to process plant, and alcohol back to farm. On-farm production and roadside sales are the real solution."
 
@@ -76,7 +76,7 @@ Mollison advocates building local plants and resisting central control, which wo
 - Every 6–10 ha devoted to fuel production would support a family
 - Any farmer would find it worthwhile to employ (or lease out land) for fuel production
 - The same employee could plant long-term crops (carob) between annual beet or cane crops
-- If monies devoted to freeways were diverted to local alcohol plants, "the evils of unemployment and the '[[fukuoka-deficit-farming-agricultural-energy-crisis]]' would disappear"
+- If monies devoted to freeways were diverted to local alcohol plants, "the evils of unemployment and the "[[fukuoka-deficit-farming-agricultural-energy-crisis]]' would disappear"
 
 ### Lubricants
 Castor oil and jojoba products suffice for lubricants.
@@ -86,17 +86,17 @@ With bicycle "freeways" increased, more efficient rail, canal, and sea transport
 
 ## Suburban Application
 
-In suburbs, all food and cellulose wastes could generate fuel via amylase columns, ending the "humbug of 'waste disposal' costs."
+In suburbs, all food and cellulose wastes could generate fuel via amylase columns, ending the "humbug of "waste disposal' costs."
 
 ## Precedent
 
-"Some 20,000 U.S. farmers now use on-farm stills should put an end to the excuse of 'further research' and any delay in implementation of this renewable resource."
+"Some 20,000 U.S. farmers now use on-farm stills should put an end to the excuse of "further research' and any delay in implementation of this renewable resource."
 
 ## Small-Scale Hydro
 
 Like small stills, small hydro-electric plants are possible for farms and towns with nearby falling water or swift-flowing streams. "Again, the problem is the centralization of power in large utilities."
 
-Mollison concludes that "we may yet live to think of the 'petrol crisis' as a blessing, if it leads to sane regional self-sufficiency, or a curse if it leads to the use of atomic power and a desperate scramble for the world's remaining fossil fuel resources."
+Mollison concludes that "we may yet live to think of the "petrol crisis' as a blessing, if it leads to sane regional self-sufficiency, or a curse if it leads to the use of atomic power and a desperate scramble for the world's remaining fossil fuel resources."
 
 ## Vehicle Design
 

@@ -1,5 +1,5 @@
 ---
-title: Gaia's gaias garden cover crops soil building Crops for Soil Building
+title: Gaia"s gaias garden cover crops soil building Crops for Soil Building
 created: 2026-04-18
 updated: 2026-04-18
 type: concept

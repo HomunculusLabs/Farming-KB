@@ -19,7 +19,7 @@ Earthworms are among the most beneficial of all soil animals and the most visibl
 
 ### Turn Over Soil
 
-Worms turn over as much as 25 tons of soil per acre per year -- the equivalent of one inch of topsoil over Earth's land surface every ten years. Their constant tunneling mixes organic matter with mineral soil, keeping it moist and palatable for decomposers.
+Worms turn over as much as 25 tons of soil per acre per year -- the equivalent of one inch of topsoil over Earth"s land surface every ten years. Their constant tunneling mixes organic matter with mineral soil, keeping it moist and palatable for decomposers.
 
 ### Create Soil Structure
 

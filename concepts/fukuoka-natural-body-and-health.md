@@ -10,7 +10,7 @@ sources:
 
 Updated: 2026-04-18
 
-In this chapter from "The Road Back to Nature," Fukuoka connects natural [[fukuoka-soil-building-approach]], where the goal is not to add nutrients to the soil but to create conditions in which the soil's own fertility can express itself.
+In this chapter from "The Road Back to Nature," Fukuoka connects natural [[fukuoka-soil-building-approach]], where the goal is not to add nutrients to the soil but to create conditions in which the soil"s own fertility can express itself.
 
 ## Malady Arises from the Unnatural
 

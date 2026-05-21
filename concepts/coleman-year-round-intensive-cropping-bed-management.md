@@ -16,7 +16,7 @@ topics:
 
 ## Overview
 
-At the heart of Eliot Coleman's four-season farming system is the principle of
+At the heart of Eliot Coleman"s four-season farming system is the principle of
 year-round intensive cropping — the practice of keeping every greenhouse bed in
 continuous production throughout the entire year. Rather than treating winter as a
 dormant period or accepting reduced productivity during cold months, Coleman's system
@@ -34,7 +34,7 @@ This principle is pursued with remarkable discipline at [[query-how-do-i-design-
 ## Succession Planting Strategy
 
 Succession planting is the technique of sowing vegetables at multiple dates to ensure
-continuous harvest over an extended period. In Coleman's winter harvest system,
+continuous harvest over an extended period. In Coleman"s winter harvest system,
 succession planting is even more critical than in spring/summer growing because the
 seasonal dynamics are reversed:
 

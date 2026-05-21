@@ -8,7 +8,7 @@ type: entity
 
 ## Description
 
-Aphids are the primary plant pest encountered in winter greenhouse growing, specifically appearing on spinach crops in late winter. In Coleman's experience, aphid outbreaks serve as a biological indicator of excess soil nitrogen rather than a problem to be treated with insecticides -- organic or otherwise. The solution was not pest control but environmental management through irrigation.
+Aphids are the primary plant pest encountered in winter greenhouse growing, specifically appearing on spinach crops in late winter. In Coleman"s experience, aphid outbreaks serve as a biological indicator of excess soil nitrogen rather than a problem to be treated with insecticides -- organic or otherwise. The solution was not pest control but environmental management through irrigation.
 
 ## Classification
 
@@ -41,7 +41,7 @@ This case study illustrates Coleman's "first rule of biological agriculture" -- 
 
 ## Source Context
 
-Described in Eliot Coleman's "The Winter Harvest Handbook" in the chapter on Insects and Diseases.
+Described in Eliot Coleman"s "The Winter Harvest Handbook" in the chapter on Insects and Diseases.
 
 ## See Also
 

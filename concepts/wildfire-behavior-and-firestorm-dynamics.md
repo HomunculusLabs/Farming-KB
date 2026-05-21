@@ -19,7 +19,7 @@ The dryness, distribution, and quantity of available fuels determine fire potent
 Winds that fan the flames, especially hot winds, supply the oxygen needed for combustion. Wind speed directly affects fire spread rate: at 20 km/h, fire may spread at 2 km² per hour, but at 30 km/h, the rate doubles to 4 km² per hour. The relationship follows the square of velocity—small increases in wind speed produce dramatic increases in fire intensity.
 
 ### 3. Preheating
-Upslope terrain or radiant heat in front of flames pre-dries and preheats fuels ahead of the fire front. Advected desert winds in unprotected forests create the same effect. Preheated fuel ignites more readily and burns more fiercely, accelerating the fire's advance.
+Upslope terrain or radiant heat in front of flames pre-dries and preheats fuels ahead of the fire front. Advected desert winds in unprotected forests create the same effect. Preheated fuel ignites more readily and burns more fiercely, accelerating the fire"s advance.
 
 ### 4. Unstable Air Masses
 Unstable atmospheric conditions create wind shear, ground whirlwinds (dust devils), scattered cumulus clouds, and shifting winds. Key indicators of dangerous instability include:

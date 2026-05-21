@@ -12,7 +12,7 @@ sources:
   - Berg K, Christensen BT, Rasmussen J. (2019). "Forage quality of timothy as affected by oyster-mushroom-log-cultivation-temperate-regions-short-log-method of Eurasia and North Africa.
 ---
 
-The **inflorescence** is a dense, cylindrical, spike-like panicle, 5–15 cm long and 4–7 mm wide, resembling a rat's tail — giving rise to the common name "cat's-tail grass." It is the most distinctive morphological feature of the species.
+The **inflorescence** is a dense, cylindrical, spike-like panicle, 5–15 cm long and 4–7 mm wide, resembling a rat"s tail — giving rise to the common name "cat"s-tail grass." It is the most distinctive morphological feature of the species.
 
 **Leaf blades** are flat, 6–30 cm long and 3–8 mm wide, with a prominent midrib and rough margins. The ligule is large and membranous (2–5 mm), boat-shaped — a key identification character distinguishing it from similar-looking grasses.
 

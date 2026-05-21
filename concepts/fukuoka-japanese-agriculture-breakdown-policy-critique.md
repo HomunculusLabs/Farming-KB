@@ -6,7 +6,7 @@ type: concept
 
 ## The Breakdown of Japanese Agriculture
 
-[[masanobu-fukuoka]]'s second chapter presents a sweeping indictment of the forces that
+[[masanobu-fukuoka]]"s second chapter presents a sweeping indictment of the forces that
 dismantled Japan's [[jadam-nutrient-cycling-traditional-farming-mineral-science]] culture and replaced it with an industrialized,
 policy-driven system that impoverishes both the land and the farmer. His analysis weaves
 [[amanita-muscaria-cultural-history]], economics, and philosophy to argue that modern agriculture represents
@@ -32,7 +32,7 @@ farmers an enduring strength rooted in direct experience rather than abstract re
 
 ## The Disappearance of Village Philosophy
 
-Over roughly twenty years preceding Fukuoka's writing, this ancient culture was
+Over roughly twenty years preceding Fukuoka"s writing, this ancient culture was
 systematically erased by mechanization and modernization. Chain saws replaced hand saws
 in the mountains. Mechanical plows and tractors replaced manual labor in the fields.
 Vinyl-covered greenhouses turned productive land into something resembling factories.
@@ -51,7 +51,7 @@ false."
 
 ## Post-WWII Transformation
 
-The demographic and economic shifts were enormous. Japan's farming and fishing
+The demographic and economic shifts were enormous. Japan"s farming and fishing
 population plummeted from roughly 50% of the total population to under 20%. This was
 not a natural migration but a deliberate appropriation: farmers' labor was effectively
 commandeered to build urban civilization. Their production, surplus, and land subsidized
@@ -67,7 +67,7 @@ community. Under this law, the public was encouraged to view farmland as better 
 for industry and housing than for growing food. Farmers came to be seen as "selfish
 monopolizers of land" whose attachment to their fields stood in the way of progress.
 
-The results were devastating. Japan's food self-sufficiency dropped below 30%. Farmers
+The results were devastating. Japan"s food self-sufficiency dropped below 30%. Farmers
 lost both their land and their freedom to choose crops, as production quotas replaced
 local knowledge. Fukuoka describes the policy environment as containing literal "plans
 to wipe out small farms and proposals for a euthanasia of farming." Behind every
@@ -75,7 +75,7 @@ modernization program, he detects "thinly-disguised contempt for the farmer."
 
 ## The Reality of Rice Pricing
 
-Fukuoka's analysis of rice pricing reveals an economic architecture designed to extract
+Fukuoka"s analysis of rice pricing reveals an economic architecture designed to extract
 farmer wealth. The farmer does not set the price of rice; rather, the price is
 calculated to support equipment manufacturers and the broader industrial supply chain.
 The rice price must be high enough to justify new farm implements, fuel, and chemical
@@ -96,9 +96,9 @@ large-scale monoculture farming," he warns, is inherently fragile.
 ## Warnings on Genetic Engineering
 
 Fukuoka extends his critique to genetic engineering, which he sees as the logical and
-terrifying endpoint of humanity's separation from nature. A scientist studying molecules
+terrifying endpoint of humanity"s separation from nature. A scientist studying molecules
 and atoms, he argues, loses sight of the original leaf. Genetic engineering gives man
-"a sorcerer's staff" — power without wisdom.
+"a sorcerer"s staff" — power without wisdom.
 
 He foresaw interspecific recombination producing organisms that violate natural
 boundaries: gigantic rice, trees crossed with bamboo, tomatoes growing on trees. He
@@ -114,7 +114,7 @@ the scientist as a laborer in a tightly sealed factory."
 ## The Future Question
 
 Fukuoka offers no easy optimism. The future [[four-principles-of-natural-farming]] depends on the broad
-acceptance of the Mu philosophy and a fundamental reversal of society's value system —
+acceptance of the Mu philosophy and a fundamental reversal of society"s value system —
 a shift from the arrogance of human intellect to the humility of working with nature.
 
 Even **[[coleman-deep-organic-farming]]** — often celebrated as a progressive alternative — is in his

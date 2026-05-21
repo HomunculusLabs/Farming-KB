@@ -42,7 +42,7 @@ A third lineage includes South American breeds such as the Araucana. In total, s
 
 In natural conditions, chicken flocks seldom exceed **20–30 individuals**, typically comprising 2–3 cockerels and the remainder hens. Surplus cockerels are driven from the range or killed by the flock. Larger aggregations of 40–60 birds will spontaneously divide into two separate flocks, reflecting innate social structure.
 
-This natural flock size has direct implications for range design: rather than maintaining a single large flock, permaculture systems should provide multiple small shelters to accommodate the birds' preference for smaller social groupings.
+This natural flock size has direct implications for range design: rather than maintaining a single large flock, permaculture systems should provide multiple small shelters to accommodate the birds" preference for smaller social groupings.
 
 ## Egg Production Comparison
 

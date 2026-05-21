@@ -8,7 +8,7 @@ tags:
 
 The words used to describe consciousness-altering substances
 shape how societies understand, regulate, and integrate them.
-Metzner's work draws attention to the terminological
+Metzner"s work draws attention to the terminological
 landscape surrounding [[tryptamine]] and ergoline
 experiences performs ideological work: it locates the
 experience within a particular framework of meaning.
@@ -40,7 +40,7 @@ or soul-revealing. The term reflected the growing
 recognition among researchers that these substances
 did not merely distort perception but appeared to
 reveal dimensions of consciousness ordinarily hidden.
-Huxley's "doors of perception" metaphor captured
+Huxley"s "doors of perception" metaphor captured
 this framing: the compounds opened awareness to
 realms that were always present but filtered out.
 The psychedelic label was adopted enthusiastically

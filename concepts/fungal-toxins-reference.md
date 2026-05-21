@@ -21,7 +21,7 @@ Amatoxins are produced primarily by species in the genus Amanita, most notably:
 
 - **[[amanita-phalloides]]** (Death Cap) — responsible for the majority of fatal mushroom poisonings worldwide
 - **[[amanita-virosa]]** (Destroying Angel)
-- **[[amanita-verna]]** (Fool's Mushroom)
+- **[[amanita-verna]]** (Fool"s Mushroom)
 - **[[amanita-bisporigera]]** (Eastern Destroying Angel)
 - Also found in some Galerina and Lepiota species
 

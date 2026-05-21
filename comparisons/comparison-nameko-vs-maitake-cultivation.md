@@ -3,7 +3,7 @@ title: "Nameko vs Maitake Cultivation"
 tags: [comparison, mushroom-cultivation, nameko, maitake, gourmet-mushrooms]
 date: 2026-05-10
 updated: 2026-05-10
-sources: ['raw/papers/working-with-agar.md']
+sources: ["raw/papers/working-with-agar.md']
 ---
 
 ## Nameko vs Maitake Cultivation

@@ -15,9 +15,9 @@ Fungi have been one of the most important sources of antibiotics in human medici
 
 ## Penicillin: History and Impact
 
-### Alexander Fleming's Discovery (1928)
+### Alexander Fleming"s Discovery (1928)
 
-In September 1928, [[alexander-fleming]], a bacteriologist at St. Mary's Hospital in London, observed that a contaminating mold colony on a Staphylococcus culture plate had created a zone of inhibited bacterial growth. He identified the mold as Penicillium notatum and named the active antibacterial substance "penicillin." Fleming published his findings in 1929, noting penicillin's activity against staphylococci, streptococci, and other Gram-positive bacteria, as well as its apparent non-toxicity to human cells.
+In September 1928, [[alexander-fleming]], a bacteriologist at St. Mary's Hospital in London, observed that a contaminating mold colony on a Staphylococcus culture plate had created a zone of inhibited bacterial growth. He identified the mold as Penicillium notatum and named the active antibacterial substance "penicillin." Fleming published his findings in 1929, noting penicillin"s activity against staphylococci, streptococci, and other Gram-positive bacteria, as well as its apparent non-toxicity to human cells.
 
 ### Development into a Drug (1939-1941)
 

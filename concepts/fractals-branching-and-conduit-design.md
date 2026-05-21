@@ -49,7 +49,7 @@ The high-pressure/low-flow nature of minor branches demands a very large total c
 ### Garden Path Design
 
 Wherever there is a need to collect or distribute materials, or to trade both ways with media, branching is an effective response. In home garden design:
-- Use "many paths" — the garden's main activity is always trading nutrients
+- Use "many paths" — the garden"s main activity is always trading nutrients
 - Little advantage in forming paths as straight lines (speed is not of the essence)
 - Better to develop cul-de-sacs or **keyhole-shaped beds** — this is also the shape of sacs in lungs
 - Convoluted paths bring the gardener into better contact with the garden

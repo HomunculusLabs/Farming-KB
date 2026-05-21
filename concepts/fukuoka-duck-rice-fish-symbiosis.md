@@ -36,7 +36,7 @@ This vision represents a fully integrated ecosystem where multiple species suppo
 
 ## The Self-Sustaining Food Web
 
-Fukuoka's vision of animal integration went beyond the rice paddy. He described a complete food web in which each element supports the others:
+Fukuoka"s vision of animal integration went beyond the rice paddy. He described a complete food web in which each element supports the others:
 
 - Trees provide shade and leaf litter that enriches the soil
 - Clover and vegetables beneath the trees fix nitrogen and provide forage

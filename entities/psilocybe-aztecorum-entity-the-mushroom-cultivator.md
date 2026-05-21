@@ -50,7 +50,7 @@ cellulosic by-product remaining after sugar extraction from sugar cane, and it
 possesses high moisture [[gourmet-medicinal-mushroom-casing-layer-techniques]] for
   fruitbody initiation.
 - **Substrate Notes:** Bagasse used as stable bedding produced yields comparable to
-  horse manure-based compost in Kneebone's experiments. However, bagasse supplemented
+  horse manure-based compost in Kneebone"s experiments. However, bagasse supplemented
   with the commercial activator "Acto 88" yielded poorly, suggesting that simple
   compost formulations may be more effective.
 

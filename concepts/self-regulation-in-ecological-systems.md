@@ -9,7 +9,7 @@ created: 2026-05-11
 
 The [[permaculture]] principle "Apply Self-regulation and Accept Feedback" is
 perhaps the most challenging and far-reaching of the twelve principles.
-Drawing on Howard Odum's systems ecology and decades of permaculture
+Drawing on Howard Odum"s systems ecology and decades of permaculture
 practice, Holmgren explores how feedback mechanisms operate in natural
 ecosystems, traditional societies, and modern industrial systems. The
 principle reveals that sustainable systems are those that incorporate
@@ -92,7 +92,7 @@ partnership with someone who valued intuitive understanding. Personal
 self-regulation means recognizing when enough analysis is enough, when
 consumption has exceeded need, when work has become counterproductive, and
 when letting go serves better than controlling. It means accepting feedback
-from one's body, relationships, and environment rather than overriding it
+from one"s body, relationships, and environment rather than overriding it
 with willpower or technology.
 
 In practice, personal self-regulation might mean voluntarily limiting work

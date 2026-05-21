@@ -9,7 +9,7 @@ topics: [cannabis, sativa, strain-profile, african-landrace, congo, tropical-see
 
 ## Overview
 
-King Congo is a pure F1 sativa bred by Spain's Tropical Seeds Company.
+King Congo is a pure F1 sativa bred by Spain"s Tropical Seeds Company.
 It combines Congo Pointe Noire and Ciskei P4 F1 genetics — both
 African landrace-derived lines — into a single strain that captures
 the raw energy and creativity of pure equatorial sativa genetics. For

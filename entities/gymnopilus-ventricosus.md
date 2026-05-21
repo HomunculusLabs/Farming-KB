@@ -5,7 +5,7 @@ type: species
 tags: [fungi, gymnopilus, non-psilocybe, north-america, europe, cortinariaceae]
 date: 2026-04-28
 updated: 2026-04-28
-sources: ['papers/savory-holistic-resource-management.md']
+sources: ["papers/savory-holistic-resource-management.md']
   - "raw/papers/world-wide-distribution-of-magic-mushrooms-guzman-allen-&-gartz.md"
 ---
 

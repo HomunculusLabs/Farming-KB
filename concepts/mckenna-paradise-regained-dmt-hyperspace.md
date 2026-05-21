@@ -52,7 +52,7 @@ hundreds of users. The experience typically unfolds in phases:
 McKenna emphasizes that the [[psilocybin-and-tryptamine-hallucinogens]] is not
 about public health or safety — these substances are among the least
 dangerous known to pharmacology — but about preventing access to
-experiences that challenge the [[mckenna-dominator-culture-and-suppression-of-ecstasy]]'s claim to
+experiences that challenge the [[mckenna-dominator-culture-and-suppression-of-ecstasy]]"s claim to
 exclusive authority over the nature of reality.
 
 The suppression of DMT research is particularly revealing. DMT is

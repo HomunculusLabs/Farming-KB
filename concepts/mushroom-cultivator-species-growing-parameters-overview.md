@@ -19,7 +19,7 @@ for maximizing fruitbody production.
 
 Mushrooms fruit in response to unique sets of conditions involving nutrition
 (substrate), temperature, pH, relative humidity, light, and carbon dioxide. By
-adhering to the optima for each stage in a species' life cycle, cultivators can
+adhering to the optima for each stage in a species" life cycle, cultivators can
 maximize yields in a precise and deliberate fashion.
 
 ## Stages of the Growing Cycle

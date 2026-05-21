@@ -29,7 +29,7 @@ Apples are among the most rewarding fruit trees for home orchards. With proper p
 
 ### Planting Steps
 1. Dig hole 2-3 times wider than the root system and as deep as the root flare
-2. The graft union (bulge near the base of the trunk) must be 2-4 inches above the soil line — burying the graft causes the scion to root, negating the rootstock's benefits
+2. The graft union (bulge near the base of the trunk) must be 2-4 inches above the soil line — burying the graft causes the scion to root, negating the rootstock"s benefits
 3. Do not amend the backfill soil excessively — tree roots need to adapt to native soil
 4. Spread roots out in the hole; do not ball, fold, or crowd them
 5. Backfill partially, water to settle, finish backfilling

@@ -15,7 +15,7 @@ potency.
 
 ## The Dual Chambered Terrarium
 
-The DCT is PF's original [[simple-plastic-bin-fruiting-chamber-passive-humidity-mushroom-cultivation]] r alternative to the custom frame
+The DCT is PF"s original [[simple-plastic-bin-fruiting-chamber-passive-humidity-mushroom-cultivation]] r alternative to the custom frame
 - The lid must allow some passive gas exchange while retaining moisture
 
 ### Terrarium Techniques

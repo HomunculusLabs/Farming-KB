@@ -23,7 +23,7 @@ scrutiny reveals it to be almost certainly untrue.
 
 ## The Theory
 
-The theory proposes that Santa's red-and-white costume represents the
+The theory proposes that Santa"s red-and-white costume represents the
 parti-coloured mushroom, that his flight from the north on a
 reindeer-drawn sleigh corresponds to the shamanic spirit-journey, and
 that the practice of entering through the chimney reflects the way

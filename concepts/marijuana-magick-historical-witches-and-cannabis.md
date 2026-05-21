@@ -12,7 +12,7 @@ tags: [cannabis]
 
 ## Overview
 
-"A Practitioner's Guide to [[witches-fungi-and-flying-ointments]] applied to mucous membranes. The broom's role here as a tool for closing ritual space connects modern practice to this centuries-old symbol.
+"A Practitioner"s Guide to [[witches-fungi-and-flying-ointments]] applied to mucous membranes. The broom's role here as a tool for closing ritual space connects modern practice to this centuries-old symbol.
 
 ### Candles
 
@@ -42,15 +42,15 @@ The Vortex ritual includes contemplation of a five-line sigil (BHWER / GRHRE / J
 
 ## Cannabis and the Flying Ointment Tradition
 
-While the guide does not explicitly reference "flying ointments," the practice of anointing the body with cannabis-infused oil described in the Blessing of the Oil ritual bears significant resemblance to historical accounts of witches' flying ointments. Historical sources (including the writings of Heinrich Kramer in the Malleus Maleficarum and various trial records) describe witches applying herbal ointments to their bodies to achieve trance states, visions, and the sensation of flight.
+While the guide does not explicitly reference "flying ointments," the practice of anointing the body with cannabis-infused oil described in the Blessing of the Oil ritual bears significant resemblance to historical accounts of witches" flying ointments. Historical sources (including the writings of Heinrich Kramer in the Malleus Maleficarum and various trial records) describe witches applying herbal ointments to their bodies to achieve trance states, visions, and the sensation of flight.
 
-The guide's instructions to "dab [the oil] on your forehead" and "smear the oil over your face, lips, and upper body" while visualizing healing and spiritual transformation parallel these historical accounts, though the guide frames the practice in terms of healing and self-improvement rather than ecstatic flight. The omission of more dangerous or toxic herbs traditionally associated with flying ointments (such as belladonna, wolfsbane, and hemlock) reflects both modern safety awareness and the guide's emphasis on responsible, health-positive practice.
+The guide's instructions to "dab [the oil] on your forehead" and "smear the oil over your face, lips, and upper body" while visualizing healing and spiritual transformation parallel these historical accounts, though the guide frames the practice in terms of healing and self-improvement rather than ecstatic flight. The omission of more dangerous or toxic herbs traditionally associated with flying ointments (such as belladonna, wolfsbane, and hemlock) reflects both modern safety awareness and the guide"s emphasis on responsible, health-positive practice.
 
 ## The Witch as Herbalist
 
 The guide's emphasis on cannabis as one of "the herbs to extend our life, to heal our body, to sustain our minds" reflects the historical role of the witch as herbalist and healer. Before the medicalization of healthcare, the village wise woman or cunning man served as the primary source of botanical medicine. The association between witchcraft and herbal knowledge was so strong that the very word "witch" derives from roots meaning "to bend or shape" -- referring to the shaping of herbs into medicines and charms.
 
-The guide's claim that "the earth has given us the herbs to extend our life, to heal our body, to sustain our minds, to help us unleash the joy and happiness and ecstasy within" is a restatement of this traditional herbal-witchcraft worldview in contemporary language. Cannabis is presented not as a new addition to the witch's pharmacopoeia but as one expression of an ancient relationship between practitioners and the healing plants of the earth.
+The guide"s claim that "the earth has given us the herbs to extend our life, to heal our body, to sustain our minds, to help us unleash the joy and happiness and ecstasy within" is a restatement of this traditional herbal-witchcraft worldview in contemporary language. Cannabis is presented not as a new addition to the witch's pharmacopoeia but as one expression of an ancient relationship between practitioners and the healing plants of the earth.
 
 ## Overview
 

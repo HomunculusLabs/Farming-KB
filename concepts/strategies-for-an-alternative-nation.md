@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-Chapter 14 of *[[permaculture]]: A Designers' Manual* represents a philosophical and strategic pivot from the technical land-management content of the preceding chapters. Mollison argues that all practical permaculture techniques come to nothing if society continues to invest in arms and destruction, permit land abuse, and fail to tackle the social and political impediments to reclaiming damaged lands. The strategies presented address the social and economic dimensions necessary for meaningful, lasting change.
+Chapter 14 of *[[permaculture]]: A Designers" Manual* represents a philosophical and strategic pivot from the technical land-management content of the preceding chapters. Mollison argues that all practical permaculture techniques come to nothing if society continues to invest in arms and destruction, permit land abuse, and fail to tackle the social and political impediments to reclaiming damaged lands. The strategies presented address the social and economic dimensions necessary for meaningful, lasting change.
 
 ## The Problem of Power and Control
 
@@ -43,7 +43,7 @@ Growing 0.5 hectares of padi rice and 0.25 ha of sweet potato as staples, with 1
 
 ## Building a Global Network
 
-Mollison envisions building a global, interdependent, and cooperative body of people involved in ethical land and resource use. This network's teaching would be founded on research but also locally available everywhere, and locally demonstrable in many thousands of small enterprises. The scope would cover the whole range of human endeavours, from primary production to quaternary system management, from domestic nutrition and economy to a global network of small financial systems.
+Mollison envisions building a global, interdependent, and cooperative body of people involved in ethical land and resource use. This network"s teaching would be founded on research but also locally available everywhere, and locally demonstrable in many thousands of small enterprises. The scope would cover the whole range of human endeavours, from primary production to quaternary system management, from domestic nutrition and economy to a global network of small financial systems.
 
 Such work is described as urgent, important, and necessary—and something that cannot be left to the whims of government (always short-term) or industry as it is currently structured.
 

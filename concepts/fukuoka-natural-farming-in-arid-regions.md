@@ -11,7 +11,7 @@ sources:
 
 Updated: 2026-04-18
 
-Fukuoka's approach to arid region farming follows his universal principle: sow a wide mixture of seeds and observe what nature selects. His [[fukuoka-desert-greening-plant-irrigation]] methods.
+Fukuoka"s approach to arid region farming follows his universal principle: sow a wide mixture of seeds and observe what nature selects. His [[fukuoka-desert-greening-plant-irrigation]] methods.
 
 ## Understanding Arid Land Potential
 

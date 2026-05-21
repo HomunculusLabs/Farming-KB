@@ -26,7 +26,7 @@ sources:
 
 **(40 mg):** "The chemical is primarily a visual enhancer with only an extremely modest amount of visual distortion. The retinal activity was of a minor and non-threatening nature. The chemical seemed to facilitate empathic communication and the emotions felt strong and clean. Conversation flowed easily, without inhibitions or defensiveness. No impotence. Next day woke feeling energetic, no muscular stiffness, alert."
 
-**(50 mg):** "I was coming on within 40-60 minutes, easy and slow, but the body was +3 before the mind. The mental was strange for the first 2-3 hours -- I called it 'High Sierras' -- realistic, dispassionate, not kind. Some dark areas are persistent. On coming down, sleep was difficult. The body feels unexpectedly depleted. Rubber legs and handwriting jerky."
+**(50 mg):** "I was coming on within 40-60 minutes, easy and slow, but the body was +3 before the mind. The mental was strange for the first 2-3 hours -- I called it "High Sierras' -- realistic, dispassionate, not kind. Some dark areas are persistent. On coming down, sleep was difficult. The body feels unexpectedly depleted. Rubber legs and handwriting jerky."
 
 ## Synthesis (from PIHKAL #133)
 

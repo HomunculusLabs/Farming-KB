@@ -1,21 +1,21 @@
 ---
-title: "Fukuoka's Natural Diet and Food Philosophy"
+title: "Fukuoka"s Natural Diet and Food Philosophy"
 source: The Road Back to Nature (Fukuoka, 1987)
 tags: [food-philosophy, natural-diet, agriculture, health, geopolitics]
 created: 2026-05-11
 ---
 
-## Fukuoka's Natural Diet and Food Philosophy
+## Fukuoka"s Natural Diet and Food Philosophy
 
 ## Overview
 
 [[masanobu-fukuoka-natural-farming-philosophy]]'s philosophy extends far beyond [[cho-poultry-natural-farming-methods]] into a comprehensive critique of how humanity produces, selects, and consumes food. He argues that the modern diet — whether Japanese or Western — has become fundamentally disconnected from nature, and that this disconnection is both a cause and a consequence of destructive [[critique-of-scientific-agriculture]] and economic centralization that he critiques in his farming practice.
 
-## "Man Doesn't Live by Bread Alone"
+## "Man Doesn"t Live by Bread Alone"
 
-The title of Fukuoka's introduction — "Man Doesn't Live by Bread Alone" — captures his fundamental argument. Christ's words, he says, hold the key to whether mankind has a future or not. The question is not merely whether we can produce enough calories, but whether we understand what it means to eat naturally.
+The title of Fukuoka"s introduction — "Man Doesn"t Live by Bread Alone" — captures his fundamental argument. Christ"s words, he says, hold the key to whether mankind has a future or not. The question is not merely whether we can produce enough calories, but whether we understand what it means to eat naturally.
 
-> "Man has no idea what it is he lives by, and he's got no idea what
+> "Man has no idea what it is he lives by, and he"s got no idea what
 > to eat and what to depend on to live."
 
 Science, Fukuoka argues, cannot tell us what real food is. It cannot explain why, how, and in what way man eats and should eat. It cannot tell us the basis and cause for being alive, and it is useless for explaining the true source, meaning, and goal of life. When people are asked whether they are confident in their own way of living and their yen for life, most cannot answer.
@@ -37,7 +37,7 @@ Fukuoka found the natural foods boom in America encouraging but incomplete. Natu
 
 Yet Fukuoka noted that in Japan, natural diet had gained popularity primarily among people in poor health who pursued it as therapy. In the West, the starting point was different: a radical change had occurred in basic notions about food as people were won over by the principles underlying natural diet.
 
-The limitation of the natural foods movement, in Fukuoka's view, was that it treated diet in isolation from agriculture. True natural diet is inseparable from natural farming — the quality of food depends entirely on how it is grown.
+The limitation of the natural foods movement, in Fukuoka"s view, was that it treated diet in isolation from agriculture. True natural diet is inseparable from natural farming — the quality of food depends entirely on how it is grown.
 
 ## Food as a Strategic Weapon
 
@@ -50,13 +50,13 @@ Perhaps Fukuoka's most provocative argument concerns the geopolitics of food. He
 ## The Seed War
 
 Fukuoka documented what he called the "seed war" — the consolidation
-of control over the world's seed supply by a handful of corporations.
+of control over the world"s seed supply by a handful of corporations.
 Control over America's seeds, he reported, lay squarely in the hands
 of five oil companies. Working with political and economic interests,
 these companies had moved into bioindustry and begun to take control
 of agriculture.
 
-> "The moment that America's oil companies consolidate their control
+> "The moment that America"s oil companies consolidate their control
 > over the seeds of cereal grains such as rice and corn and over
 > superior lines of livestock, America's farmers will be done for.
 > The truth is that the hands of the oil companies have already
@@ -75,7 +75,7 @@ profit and geopolitical strategy.
 
 ## The Connection Between Farming and Diet
 
-The thread connecting all of these observations is Fukuoka's conviction that how food is grown determines what food is, and what food is determines who we are. [[fukuoka-critique-of-scientific-agriculture]] produces food that is visually appealing but nutritionally hollow, requiring further scientific intervention — processing, fortification, supplementation — to compensate for its deficiencies.
+The thread connecting all of these observations is Fukuoka"s conviction that how food is grown determines what food is, and what food is determines who we are. [[fukuoka-critique-of-scientific-agriculture]] produces food that is visually appealing but nutritionally hollow, requiring further scientific intervention — processing, fortification, supplementation — to compensate for its deficiencies.
 
 Natural farming, by contrast, produces food that is complete in itself. Fukuoka's rice, grown without chemicals, was a complete food requiring no supplementation. The connection between the health of the soil, the health of the plant, and the health of the person who eats it is, for Fukuoka, not metaphorical but literal.
 

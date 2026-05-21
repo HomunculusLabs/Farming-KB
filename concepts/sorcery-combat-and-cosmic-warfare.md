@@ -12,7 +12,7 @@ In Amazonian shamanism, particularly as documented by [[amaringo-ayahuasca-visio
 
 ## The Nature of Shitana (Sorcery)
 
-The primary offensive practice is *shitana*—the art of inflicting harm through sorcery. The term encompasses a broad category of aggressive magical techniques that target the victim's physical health, mental clarity, and spiritual integrity. Sorcerers deploy specialized spirit entities to attack through subtle, insidious means, often working through dreams, food contamination, or direct psychic assault during ayahuasca sessions.
+The primary offensive practice is *shitana*—the art of inflicting harm through sorcery. The term encompasses a broad category of aggressive magical techniques that target the victim"s physical health, mental clarity, and spiritual integrity. Sorcerers deploy specialized spirit entities to attack through subtle, insidious means, often working through dreams, food contamination, or direct psychic assault during ayahuasca sessions.
 
 A sorcerer's *supay-masho* (diabolic bat) induces sleepy forgetful weakness, eroding alertness and memory. *Huaira-umas* (forgetful mind snakes) attack cognitive faculties, while *huasi-ukullucos* (house lizards) infiltrate the body during vulnerable moments. *Ayanahais*—"eyes of the dead" appearing as fireflies—serve as surveillance, and *aya-pelejos* (giant sloths of the dead) act as heavy combatants.
 
@@ -30,7 +30,7 @@ Healer-shamans maintain an equally elaborate defensive ecosystem operating throu
 - **Intelligence and early warning**: The *chicua* bird reads enemy intentions. Fairy *Sinchinitimushca* ("the one who presses hard") throws a white thread alerting healers to incoming attack.
 - **Subterranean defense**: The *supay-yangunturo* (gigantic armadillo) burrows for defensive positions. The *allpa-raya* (land ray) provides aerial mobility.
 - **Psychological warfare**: The *ishkay-huahuasupay* (two-child creature) confuses enemies through weeping sounds.
-- **Armed spirit entities**: *Guacamayo-machaco* (snake with woman's breasts) throws poisoned daggers. *Sapo-machaco* (snake toad) delivers a deadly bite. *Manilay-rucos*—guardians with crowns of fire knives—serve as elite protectors.
+- **Armed spirit entities**: *Guacamayo-machaco* (snake with woman"s breasts) throws poisoned daggers. *Sapo-machaco* (snake toad) delivers a deadly bite. *Manilay-rucos*—guardians with crowns of fire knives—serve as elite protectors.
 
 Healers deploy collective formations: electric chains, *pinsha-machaco* spirits, *huacraruna* beings, *tahuicuro* birds, sylphids, *yakurunas*, and mermaids in layered defense. Under extreme threat, vegetalistas transform into wolves through shapeshifting granted by queen allies. This lupine transformation is not merely cosmetic—it grants predatory resilience, heightened senses, and the capacity to meet sorcerous aggression with equivalent ferocity while remaining under the queens' protective authority.
 

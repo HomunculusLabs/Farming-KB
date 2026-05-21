@@ -10,7 +10,7 @@ type: concept
 
 ## No Good or Evil in Nature
 
-Fukuoka's non-dualistic approach to pest and [[jadam-conventional-and-organic-pesticide-integration]] agriculture. In
+Fukuoka"s non-dualistic approach to pest and [[jadam-conventional-and-organic-pesticide-integration]] agriculture. In
 [[comparison-beneficial-insects-guide-vs-integrated-pest-management]]." This perspective connects deeply to
 [[fukuoka-illusions-scientific-farming-centrifugal-centripetal-model]], on the other hand, habitually blame
 insect infestation on the weather or some other aspect of nature, then apply

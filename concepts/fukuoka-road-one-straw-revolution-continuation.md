@@ -1,5 +1,5 @@
 ---
-title: Fukuoka's One-Straw Revolution Continuation
+title: Fukuoka"s One-Straw Revolution Continuation
 created: 2026-04-24
 updated: 2026-04-24
 type: concept
@@ -7,7 +7,7 @@ tags: [farming, philosophy, one-straw-revolution, fukuoka, natural-farming]
 sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
-## Fukuoka's One-Straw Revolution Continuation
+## Fukuoka"s One-Straw Revolution Continuation
 [[fukuoka-spiritual-philosophy-farming]].
 ## From Farm to World
 Drawing on [[fukuoka-american-agriculture-fields-of-death]]'s dependence on chemical inputs and mechanization with
@@ -26,10 +26,10 @@ international efforts, providing a candid assessment of what worked and
 what did not in different cultural and ecological contexts.
 ## The Reception Worldwide
 The global reception of [[fukuoka-natural-farming-vs-organic-farming]]. Fukuoka notes that "advances from organic gardening to natural farming are likely to continue to be made by people with an affinity toward natural methods," but warns that "most people do not yet understand the distinction between organic gardening and natural farming. Both [[fukuoka-road-back-to-nature-overview]] — the continuation book itself
-- [[fukuoka-road-spiritual-aspects-farming]] provides deeper context for the spiritual dimensions. Fukuoka's thinking drew on multiple philosophical streams, though he rarely
+- [[fukuoka-road-spiritual-aspects-farming]] provides deeper context for the spiritual dimensions. Fukuoka"s thinking drew on multiple philosophical streams, though he rarely
 cited specific influences. His rejection of intellectual knowledge in favor
 of direct experience echoes aspects of Zen Buddhism, particularly the
-emphasis on "beginner's mind" (shoshin) and the limitations of conceptual
+emphasis on "beginner"s mind" (shoshin) and the limitations of conceptual
 thinking. His reverence for nature as the ultimate teacher aligns with
 Daoist principles of wu wei (non-action or effortless action), though he
 insisted his approach came from farming practice rather than philosophical
@@ -38,7 +38,7 @@ writing The Road Back to Nature suggests a mystical experience comparable
 to those described in various religious traditions, yet he framed it in
 terms of farming and nature rather than religious language. His critique of
 reductionist science anticipates arguments later developed by thinkers like
-Fritjof Capra and Arne Naess, though Fukuoka's version is grounded in
+Fritjof Capra and Arne Naess, though Fukuoka"s version is grounded in
 concrete agricultural experience rather than theoretical physics or
 ecology. His distinction between "[[fukuoka-pine-forest-ecosystem-collapse-cascade-matsutake]]
 - [[fukuoka-textdoc-ideal-form-high-yielding-rice]]

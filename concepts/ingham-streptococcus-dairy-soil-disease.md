@@ -24,7 +24,7 @@ Ingham has worked with Gary Wegner of Natural Aeration on dairy soils, lagoons, 
 
 ## Three Selective Factors for Pathogenic Streptococci
 
-Ingham identifies three primary environmental conditions that allow disease Streptococcus species to out-compete beneficial organisms. She recommends consulting Bergey's Manual of Bacteriology (available in multiple volumes covering bacteria A through E, F through M, etc.) to understand the specific habitats in which the disease Streptococci of concern live.
+Ingham identifies three primary environmental conditions that allow disease Streptococcus species to out-compete beneficial organisms. She recommends consulting Bergey"s Manual of Bacteriology (available in multiple volumes covering bacteria A through E, F through M, etc.) to understand the specific habitats in which the disease Streptococci of concern live.
 
 ### 1. Reduced Oxygen Conditions
 

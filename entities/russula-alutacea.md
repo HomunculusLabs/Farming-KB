@@ -13,7 +13,7 @@ as a very common variety and one of the safest species in the [[russula-genus]]
 for beginners to identify, though he cautions that it closely resembles two
 other species — R. emetica and R. rosacea — which are acrid and potentially
 emetic. His practical identification method involves tasting a small piece
-of each specimen's stem while washing, a technique that relies on the
+of each specimen"s stem while washing, a technique that relies on the
 fundamental principle that acrid russulas are inedible while mild-tasting
 ones are safe.
 

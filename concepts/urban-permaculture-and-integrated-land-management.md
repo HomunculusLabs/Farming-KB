@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-Urban areas and degraded landscapes represent both the greatest challenge and the greatest opportunity for [[composting]] business — documented as "the only example of productive use of New York's food waste." The compost produced is sold off-site to create meadows over rubble-filled wastelands, completing a cycle from urban waste to urban greening.
+Urban areas and degraded landscapes represent both the greatest challenge and the greatest opportunity for [[composting]] business — documented as "the only example of productive use of New York"s food waste." The compost produced is sold off-site to create meadows over rubble-filled wastelands, completing a cycle from urban waste to urban greening.
 
 This model is particularly significant because it addresses two urban problems simultaneously: food waste disposal and the rehabilitation of degraded land.
 
@@ -16,7 +16,7 @@ This model is particularly significant because it addresses two urban problems s
 
 ### Project WARM (Louisville, Kentucky)
 
-Project WARM volunteers retrofit and insulate old folks' homes by the thousand, sharply reducing energy costs and deaths from cold. The cost amortizes in two winters. Mollison argues that only minimal funds are directed to such sound expenditures in Western society, and that it is always cheaper to conserve energy rather than generate it.
+Project WARM volunteers retrofit and insulate old folks" homes by the thousand, sharply reducing energy costs and deaths from cold. The cost amortizes in two winters. Mollison argues that only minimal funds are directed to such sound expenditures in Western society, and that it is always cheaper to conserve energy rather than generate it.
 
 He further argues that such conservation projects make many dangerous or dirty power-generating systems obsolete (specifically mentioning nuclear power), because reduced demand eliminates the perceived need for high-risk energy sources.
 

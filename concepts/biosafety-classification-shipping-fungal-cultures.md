@@ -21,7 +21,7 @@ Most fungal cultures handled by herbaria and research collections fall into Clas
 
 ## USDA APHIS Regulations for Plant Pathogens
 
-The US Department of Agriculture's Animal and Plant Health Inspection Service (APHIS) regulates the movement of plant-pathogenic fungi. Key requirements include:
+The US Department of Agriculture"s Animal and Plant Health Inspection Service (APHIS) regulates the movement of plant-pathogenic fungi. Key requirements include:
 
 - **Form PPQ-526** — "Application for Permit to Import, Export, or Re-export Plants or Plant Products" is required for shipping plant-pathogenic fungi, soil samples, and plant material into or out of the United States.
 - Permits specify authorized ports of entry, containment conditions, and any post-arrival processing requirements.
@@ -36,7 +36,7 @@ Importing or exporting fungal cultures involves coordination with multiple agenc
 
 - **Department of Commerce (DOC)** — Regulates export of certain organisms under the Export Administration Regulations (EAR). Most fungal cultures of non-dual-use significance qualify for general license exceptions (e.g., EAR99 or TSR), but researchers exporting to embargoed destinations need validated licenses.
 - **U.S. Customs and Border Protection (CBP)** — All international shipments of biological materials must be declared. Undeclared biological specimens may be seized.
-- **International shipping** — Requires compliance with both the origin country's export rules and the destination country's import rules. Many countries require advance import permits before shipment.
+- **International shipping** — Requires compliance with both the origin country"s export rules and the destination country's import rules. Many countries require advance import permits before shipment.
 
 ## Canadian Risk Group System
 
@@ -75,7 +75,7 @@ Triple packaging is the standard for shipping biological materials:
 
 1. **Primary container** — A watertight, leak-proof receptacle containing the specimen (e.g., screw-cap tube, sealed ampoule, or cryovial). Volume limit: 1 L for liquids shipped by air; 4 L by ground.
 2. **Secondary container** — A durable, watertight, leak-proof container enclosing the primary container(s). Must contain sufficient absorbent material (cotton, paper towels, absorbent pads) to absorb the entire volume of liquid in case of breakage.
-3. **Outer shipping container** — A rigid container (corrugated fiberboard box, insulated cooler, etc.) bearing the shipper's and recipient's addresses, appropriate hazard labels, and handling instructions.
+3. **Outer shipping container** — A rigid container (corrugated fiberboard box, insulated cooler, etc.) bearing the shipper"s and recipient's addresses, appropriate hazard labels, and handling instructions.
 
 Multiple primary containers may be placed in a single secondary container, separated by cushioning material.
 

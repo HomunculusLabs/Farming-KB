@@ -21,7 +21,7 @@ The campus features a vast, geometrically symmetric lawn of manicured grass:
 - To Americans, this green environment appears beautiful and satisfying
 - To Fukuoka as a Japanese person, "that lawn looks unnatural"
 - There were no butterflies, no worms, no ants in sight on the lawn
-- It "doesn't put one in the mood to practice the tea ceremony or arrange flowers; it leaves one unsettled"
+- It "doesn"t put one in the mood to practice the tea ceremony or arrange flowers; it leaves one unsettled"
 - He felt "as if it were impossible to feel truly in harmony with nature there"
 - He declared it "nothing other than a nature designed for the pleasure and convenience of man"
 

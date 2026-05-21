@@ -13,7 +13,7 @@ The [[pf-tek]] [[emcdda-free-spore-ring-europe-spore-distribution-network]] for 
 
 ### The State Liquor Board Permit Process
 
-If a permit is required in the purchaser's state, the following procedure applies:
+If a permit is required in the purchaser"s state, the following procedure applies:
 
 1. **Contact the state liquor board** — usually located in the state capital
 2. **Request an application** for an ethyl alcohol permit
@@ -28,7 +28,7 @@ The application asks what the alcohol will be used for. PF advises writing somet
 
 This description positions the use within legitimate, recognized applications that do not raise regulatory concerns.
 
-### PF's Perspective on Regulations
+### PF"s Perspective on Regulations
 
 PF describes the poison warnings on alcohol bottles and the permit requirements as "bureaucratic nonsense" that results in the state collecting revenue from the sale. The characterization reflects the tension between [[psilocybe-cubensis-anemotropism]], harvested before caps open, cool-dried with desiccant
 - **200-proof ethyl alcohol** — the extraction solvent

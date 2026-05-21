@@ -96,6 +96,6 @@ While slime molds are not directly managed in cultivation, understanding their r
 
 ## References and Further Reading
 
-- Lowenfels, J. & Lewis, W. (2010). *Teaming with Microbes: The Organic Gardener's Guide to the [[soil-food-web]]*. Timber Press.
+- Lowenfels, J. & Lewis, W. (2010). *Teaming with Microbes: The Organic Gardener"s Guide to the [[soil-food-web]]*. Timber Press.
 - Stephenson, S.L. & Stempen, H. (1994). *Myxomycetes: A Handbook of Slime Molds*. Timber Press.
 - Nakagaki, T. et al. (2000). "Intelligence: Maze-solving by an amoeboid organism." *Nature* 407: 470.

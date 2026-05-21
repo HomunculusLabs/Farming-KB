@@ -34,7 +34,7 @@ Colonial America brought soap making into every household, where women made "lye
 
 Melt and pour (MP) soap making is the simplest entry point for beginners. A pre-made soap base — already fully saponified — is melted in a microwave or double boiler, customized with colorants, fragrances, and additives, and poured into molds. The soap hardens within hours and requires no curing time. Glycerin-rich clear bases are most popular, and the technique allows for creative embeds, layers, and swirls.
 
-The trade-off is that melt and pour offers less control over the base formula. Commercial MP bases may contain propylene glycol, sorbitan oleate, or other additives that some homesteaders prefer to avoid. However, for gift-making, children's projects, and experimentation with design techniques, melt and pour is an excellent starting point. Many soap makers begin with MP and graduate to cold process as their confidence and interest grow.
+The trade-off is that melt and pour offers less control over the base formula. Commercial MP bases may contain propylene glycol, sorbitan oleate, or other additives that some homesteaders prefer to avoid. However, for gift-making, children"s projects, and experimentation with design techniques, melt and pour is an excellent starting point. Many soap makers begin with MP and graduate to cold process as their confidence and interest grow.
 
 ## Fats and Oils for Soap Making
 

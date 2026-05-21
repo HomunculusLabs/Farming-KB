@@ -6,7 +6,7 @@ type: concept
 
 ## Substrate Spawn Production
 
-[[substrate-spawn]] represents the third generation (G3) in the culture expansion pipeline, serving as the final bridge between laboratory culture and [[pf-tek-maximum-fruiting-substrate-formula]]. By incorporating elements of the mycelium's preferred growing medium, substrate spawn acclimates the fungus to its future [[fruiting-environment-parameters]] while allowing cultivators to inoculate more fruiting substrate using less [[grain-spawn]].
+[[substrate-spawn]] represents the third generation (G3) in the culture expansion pipeline, serving as the final bridge between laboratory culture and [[pf-tek-maximum-fruiting-substrate-formula]]. By incorporating elements of the mycelium"s preferred growing medium, substrate spawn acclimates the fungus to its future [[fruiting-environment-parameters]] while allowing cultivators to inoculate more fruiting substrate using less [[grain-spawn]].
 
 ## Why Substrate Spawn?
 
@@ -71,7 +71,7 @@ A practical two-bin system for soaking:
 
 Allow sawdust to drain for about one hour until moist but not wet. Test by squeezing a handful:
 - **Water squeezes out** → too wet
-- **Doesn't stick to hands** → too dry
+- **Doesn"t stick to hands** → too dry
 - **Sticks together, no water drops** → correct moisture
 
 ### Step 3 — Bag and Supplement

@@ -1,5 +1,5 @@
 ---
-title: Gaia's Garden Living Plant Systems and Insectary Gardens
+title: Gaia"s Garden Living Plant Systems and Insectary Gardens
 created: 2026-04-18
 updated: 2026-04-18
 type: concept

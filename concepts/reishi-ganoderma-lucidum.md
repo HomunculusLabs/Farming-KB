@@ -11,7 +11,7 @@ type: concept
 ## Reishi (Ganoderma lucidum)
 
 [[psilocybin-north-america-pacific-northwest]]
-and Europe, it is commonly known as one of the "Artist's Conk" fungi, since
+and Europe, it is commonly known as one of the "Artist"s Conk" fungi, since
 the white pore surface (hymenium) can be drawn upon, producing a permanent
 brown image as spores are crushed.
 

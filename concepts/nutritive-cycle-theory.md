@@ -1,5 +1,5 @@
 ---
-title: Nutritive Cycle Theory — Cho's Growth Stage Framework
+title: Nutritive Cycle Theory — Cho"s Growth Stage Framework
 created: 2026-04-11
 updated: 2026-04-12
 type: concept

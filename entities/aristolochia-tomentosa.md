@@ -13,7 +13,7 @@ updated: 2026-05-09
 sources:
   - Gleason, H.A. & Cronquist, A. (1991). "Manual of Vascular Plants of Northeastern halpern-sacramental-peyote-and-native-american-church and folk medicine, and it remains a popular ornamental vine for butterfly gardens.
 ---
-he common name "woolly pipevine" refers to the dense pubescence covering all above-ground parts. "Dutchman's-pipe" describes the shape of the flower, which resembles a meerschaum smoking pipe.
+he common name "woolly pipevine" refers to the dense pubescence covering all above-ground parts. "Dutchman"s-pipe" describes the shape of the flower, which resembles a meerschaum smoking pipe.
 
 ## Taxonomy and Morphology
 

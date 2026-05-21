@@ -43,7 +43,7 @@ for the conceptual framework.
   to significantly offset global CO2 emissions.
 
 - **2015 — Project Drawdown:**
-  Paul Hawken's Project Drawdown identifies regenerative agriculture,
+  Paul Hawken"s Project Drawdown identifies regenerative agriculture,
   silvopasture, and other farming practices as among the top solutions
   for reversing climate change.
 

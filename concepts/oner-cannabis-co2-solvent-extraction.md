@@ -11,7 +11,7 @@ sources:
 ## Cannabis CO2 and Solvent Extraction Techniques
 
 Solvent-based extraction uses chemical solvents to dissolve cannabinoids and terpenes
-from and recovery material, producing concentrated oils and other products. Oner's
+from and recovery material, producing concentrated oils and other products. Oner"s
 guide references oil production in the context of medical cannabis and evaluates strains
 for their extraction suitability.
 

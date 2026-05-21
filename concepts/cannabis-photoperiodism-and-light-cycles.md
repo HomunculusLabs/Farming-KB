@@ -15,7 +15,7 @@ Photoperiodism is the physiological response of cannabis plants to the duration 
 
 Cannabis plants grow outdoors naturally between the months of April through October or November in temperate regions. As the season progresses toward September, October, and November, the days get shorter and the nights get longer. When the plant experiences approximately 12 hours of light and 12 hours of darkness — the 12/12 photoperiod — it is naturally stimulated to flower.
 
-As long as the 12/12 cycle continues, the flowers will grow larger and more plentiful. This is part of the cannabis plant's evolution and how it has taught itself when to flower in response to seasonal changes. Indoor growers replicate this cycle by turning lights on for 12 hours and off for 12 hours each day, typically using automatic timers for precision and consistency.
+As long as the 12/12 cycle continues, the flowers will grow larger and more plentiful. This is part of the cannabis plant"s evolution and how it has taught itself when to flower in response to seasonal changes. Indoor growers replicate this cycle by turning lights on for 12 hours and off for 12 hours each day, typically using automatic timers for precision and consistency.
 
 The 12/12 photoperiod works because it mimics the natural light conditions of late summer and early autumn in temperate regions. The plant has evolved to interpret these shortening days as a signal that winter is approaching and that it must reproduce by producing flowers and setting seed before the growing season ends.
 

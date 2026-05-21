@@ -14,7 +14,7 @@ JADAM (Jayonul Damun Saramdul, meaning "people who are like nature") is a Korean
 
 ## Core Philosophy
 
-JADAM's guiding principle is **SESE**: Simple, Easy, Scientific, Effective. The system rejects the idea that farming knowledge should be proprietary or expensive. Youngsang Cho chose not to patent JADAM's key inventions (JADAM wetting agent, JADAM sulfur) and instead opened them publicly.
+JADAM"s guiding principle is **SESE**: Simple, Easy, Scientific, Effective. The system rejects the idea that farming knowledge should be proprietary or expensive. Youngsang Cho chose not to patent JADAM's key inventions (JADAM wetting agent, JADAM sulfur) and instead opened them publicly.
 
 Key philosophical tenets:
 - Farming should become easier and simpler with age and experience, not harder

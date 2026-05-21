@@ -12,7 +12,6 @@ date: 2026-05-08
 updated: 2026-05-08
 sources:
   - McCune, B. & Geiser, L. (2009). "Macrolichens of the psilocybin-north-america-pacific-northwest." 2nd ed. Oregon State University Press.---
----
 
 ## Overview
 

@@ -14,7 +14,7 @@ Biodynamic agriculture, developed by [[fukuoka-hotel-analogy-crop-yield-model]] 
 that conventional [[savory-living-organisms-as-tools]], beyond what [[fungal-melanin-biosynthesis-ecological-functions]]; dandelions transport calcium from
   deep soil layers, while sorrels and docks indicate excess acidity
 
-## Pfeiffer's Testing Methods
+## Pfeiffer"s Testing Methods
 
 Pfeiffer developed a simpler chromatographic method using circular filter-
 paper discs with silver nitrate solution. From the brilliant-colored

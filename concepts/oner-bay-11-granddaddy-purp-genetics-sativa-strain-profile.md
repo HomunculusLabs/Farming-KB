@@ -1,6 +1,6 @@
 ---
 title: Bay 11 Strain Profile (Granddaddy Purp Genetics)
-source: S.T. Oner, Cannabis Sativa Volume 3: The Essential Guide to the World's Finest Marijuana Strains
+source: S.T. Oner, Cannabis Sativa Volume 3: The Essential Guide to the World"s Finest Marijuana Strains
 source_path: raw/papers/s-t-oner-the-rev-cannabis-sativa-volume-3_-the-essential-gu.md
 extracted: 2026-05-10
 type: concept
@@ -61,7 +61,7 @@ The buds of Bay 11 are visually striking and colorful:
 
 - **Primary aroma**: Sweet and fresh, with an offsetting hint of berries
 - **Flavor comparison**: Described as similar to "chewing fruity gum"
-- **Smoke character**: The strain's appeal is more about its effects than its taste, though the fruity sweetness makes it pleasant to consume
+- **Smoke character**: The strain"s appeal is more about its effects than its taste, though the fruity sweetness makes it pleasant to consume
 - **[[cannabis-terpene-profile]]**: Sweet, berry-forward terpenes with fresh, fruity undertones
 
 ## Effects Profile

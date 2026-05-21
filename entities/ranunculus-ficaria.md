@@ -20,7 +20,7 @@ Ranunculus ficaria L. (syn. [[guzman-psilocybin-mushrooms-north-america]], where
 
 Ranunculus ficaria belongs to subgenus Ficaria within Ranunculus, distinguished from other buttercups by its tuberous rootstock and cordate leaves. The species exhibits considerable cytological variation, with diploid and tetraploid forms differing in reproductive strategy.
 
-Wordsworth's poem "The Small Celandine" (1807) celebrated this plant as one of the first signs of spring in the English countryside. The species remains culturally significant in Britain, where it is associated with the arrival of warmer weather and the end of winter.
+Wordsworth"s poem "The Small Celandine" (1807) celebrated this plant as one of the first signs of spring in the English countryside. The species remains culturally significant in Britain, where it is associated with the arrival of warmer weather and the end of winter.
 
 ## Taxonomy and Morphology
 

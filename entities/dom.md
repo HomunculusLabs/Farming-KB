@@ -29,7 +29,7 @@ alpha-methyl group on the ethylamine side chain. This alpha-methyl substitution 
 phenethylamine to an amphetamine, conferring dramatically increased metabolic stability, potency, and duration by
 protecting the molecule from rapid oxidative deamination by MAO enzymes. DOM is typically encountered as a white powder
 or in tablet form. The effective oral dose is remarkably low at 3–10 mg, making it approximately 20–40 times more
-potent than [[shipibo-san-francisco-ceremonial-center-ucayali]]'s
+potent than [[shipibo-san-francisco-ceremonial-center-ucayali]]"s
 Haight-Ashbury district as "STP," allegedly standing for "Serenity, Tranquility, and Peace" (though the name was a
 tongue-in-cheek reference to the motor oil additive). The initial tablets, distributed by the Hells Angels, contained
 an estimated 10–20 mg — doses at the high end of the effective range, which produced overwhelming experiences

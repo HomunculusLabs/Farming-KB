@@ -70,7 +70,7 @@ to light — it tracks the quality of light over time.
 
 ## Phytochrome and Flowering Regulation
 
-One of phytochrome's most important functions is regulating flowering. Which part of
+One of phytochrome"s most important functions is regulating flowering. Which part of
 the plant sees the red and far-red light that controls flowering? Given that Darwin's
 phototropism studies showed the plant's "eye" is in its shoot tip, one might assume
 

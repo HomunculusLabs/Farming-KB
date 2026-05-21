@@ -6,7 +6,7 @@ type: entity
 
 ## Description
 
-Stable manure compost is the fundamental nutrient substratum for commercial Agaricus cultivation, historically the only known satisfactory base material for large-scale mushroom production. The composting process involves controlled fermentation of fresh stable manure, typically from grain-fed horses bedded with cereal straw, to produce a substrate with optimal physical structure, moisture retention, and nutrient availability for mushroom mycelium. Duggar's 1915 manual states unequivocally: "There is no substitute known for stable manure as a compost for commercial mushroom production."
+Stable manure compost is the fundamental nutrient substratum for commercial Agaricus cultivation, historically the only known satisfactory base material for large-scale mushroom production. The composting process involves controlled fermentation of fresh stable manure, typically from grain-fed horses bedded with cereal straw, to produce a substrate with optimal physical structure, moisture retention, and nutrient availability for mushroom mycelium. Duggar"s 1915 manual states unequivocally: "There is no substitute known for stable manure as a compost for commercial mushroom production."
 
 The preparation of stable manure compost represents one of the earliest and most sophisticated examples of controlled biological substrate engineering in agriculture. Through centuries of empirical refinement, French and English cultivators developed composting protocols that reliably produced a growing medium selectively favoring Agaricus mycelium while suppressing competing organisms.
 

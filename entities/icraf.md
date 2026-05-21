@@ -16,7 +16,7 @@ The centre is dedicated to generating science-based knowledge about the complex
 role of trees in agricultural landscapes and using this research to improve the
 lives of smallholder farmers and the environment.
 
-In the context of Holmgren's permaculture text, ICRAF is highlighted for its
+In the context of Holmgren"s permaculture text, ICRAF is highlighted for its
 research during the 1990s on the use of fast-growing leguminous shrubs and trees
 to help the poorest African farmers rebuild soil fertility and provide fodder for
 dairy cows. This work represents one of the most dramatic and well-documented
@@ -57,7 +57,7 @@ producing corn yield increases of up to tenfold in subsistence farming systems.
 
 ## Relevance to Cultivation and Mycology
 
-- **Mycorrhizal Enhancement**: Leguminous trees used in ICRAF's agroforestry
+- **Mycorrhizal Enhancement**: Leguminous trees used in ICRAF"s agroforestry
   systems form mycorrhizal associations that enhance [[phosphorus-availability]]
   and support soil fungal networks critical for crop nutrition.
 - **Soil Food Web**: The integration of trees, crops, and livestock creates

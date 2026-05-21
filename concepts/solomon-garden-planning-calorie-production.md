@@ -12,7 +12,7 @@ tags: [gardening]
 
 ## The Half-Acre Benchmark
 
-Steve Solomon begins with a rough gauge: about 2,700 square feet (250 square meters) of growing beds can produce approximately half the daily calories for two adults, provided the garden is in a climate similar to the United Kingdom. Britain's cool, cloudy summers mean most vegetables grow more slowly than in the US, but mild winters allow year-round harvesting of frost-hardy crops.
+Steve Solomon begins with a rough gauge: about 2,700 square feet (250 square meters) of growing beds can produce approximately half the daily calories for two adults, provided the garden is in a climate similar to the United Kingdom. Britain"s cool, cloudy summers mean most vegetables grow more slowly than in the US, but mild winters allow year-round harvesting of frost-hardy crops.
 
 The British wartime allotment of 2,700 square feet was sized so that a family [[psilocybin-north-america-pacific-northwest]] east of the 98th meridian): Growing seasons are compressed. No winter garden without glass. This means roughly doubling the growing area to compensate -- about 700 additional square feet (65 square meters) per adult in the family. No irrigation needed in the rainy eastern half.
 

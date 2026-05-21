@@ -12,7 +12,7 @@ date: 2026-05-10
 updated: 2026-05-10
 sources:
   - Mathew, B. (1989). "The Iris." Batsford, London.
-  - Hall, A. (2021). "The Plant Lover's Guide to Iris." Timber Press.
+  - Hall, A. (2021). "The Plant Lover"s Guide to Iris." Timber Press.
 ---
 
 ## Overview

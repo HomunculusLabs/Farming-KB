@@ -1,5 +1,5 @@
 ---
-title: Fukuoka's Clay Pellet Seed Broadcasting
+title: Fukuoka"s Clay Pellet Seed Broadcasting
 aliases: [seed balls, clay pellets, Fukuoka seed balls, tsuchi dango]
 tags: [agriculture, farming, seed-propagation, revegetation, permaculture]
 created: 2026-05-10

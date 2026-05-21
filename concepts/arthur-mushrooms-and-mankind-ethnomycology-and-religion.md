@@ -1,5 +1,5 @@
 ---
-title: "Ethnomycology and Religion: Arthur's Synthesis"
+title: "Ethnomycology and Religion: Arthur"s Synthesis"
 created: 2026-04-26
 updated: "2026-04-24"
 sources:
@@ -8,13 +8,13 @@ type: concept
 tags: [ethnomycology, mushroom-cultivation, mushrooms, mycology]
 ---
 
-## Ethnomycology and Religion: Arthur's Synthesis
+## Ethnomycology and Religion: Arthur"s Synthesis
 
 James Arthur's "Mushrooms and Mankind" offers a sweeping synthesis of ethnomycology and comparative religion, arguing that [[allegro-amanita-muscaria-properties-and-pharmacology]] -- constitute the hidden thread connecting virtually all world religions. The work weaves together philology, symbology, art history, and scriptural interpretation to build its case.
 
 ## The Discipline of Ethnomycology
 
-Arthur frames ethnomycology as the study of mushrooms with consciousness-expanding qualities and their embedded roots in religious traditions. The term was coined by Gordon Wasson, whom Arthur credits as the "father" of the field. Arthur positions his own work as building on Wasson's discoveries, John Allegro's philological research, and the broader study of entheobotany (plants that generate the experience of God within).
+Arthur frames ethnomycology as the study of mushrooms with consciousness-expanding qualities and their embedded roots in religious traditions. The term was coined by Gordon Wasson, whom Arthur credits as the "father" of the field. Arthur positions his own work as building on Wasson"s discoveries, John Allegro's philological research, and the broader study of entheobotany (plants that generate the experience of God within).
 
 The study necessarily crosses multiple disciplines: psychology, ethnology, philology, anthropology, archaeology, sociology, art, history, religion, myth, culture, symbology, and philosophy. Arthur argues this breadth is required because ethnomycology cannot study mushrooms and religion in isolation -- it must examine the philosophical principles of the religions that show evidence of entheogenic association, including how those religions may have corrupted their own root principles.
 
@@ -46,7 +46,7 @@ Arthur devotes attention to visual art as a vehicle for preserving entheogenic k
 
 - Amanita muscaria is a "good luck charm" associated with the four-leaf clover in traditional artwork
 - Mushroom-associated symbolism is found throughout religious art, especially when the artist is "in the know"
-- The depth of understanding of religious art corresponds directly to one's understanding of archetypes and symbols
+- The depth of understanding of religious art corresponds directly to one"s understanding of archetypes and symbols
 - The mushroom is often associated with gnomes, fairies, and "little people" in folklore, with mystical aspects reserved for those with esoteric knowledge
 - Arthur identifies the equilateral-circumscribed cross as both a Christian symbol and a mushroom symbol, noting its appearance on Saint Nicholas's robes
 

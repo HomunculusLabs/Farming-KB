@@ -23,7 +23,7 @@ The philosophy of Mu, meaning nothingness or non-action, is the intellectual and
 [[fukuoka-textdoc-do-nothing-movement-spiritual-foundation]] of [[fukuoka-textdoc-natural-order-food-chain-unity]], and that the path to
 restoring nature and humanity lies in relinquishing the impulse to act.
 
-## The Origin of Fukuoka's Understanding
+## The Origin of Fukuoka"s Understanding
 
 Fukuoka arrived at his understanding of Mu during a moment of sudden insight in his
 youth. While working as a plant pathologist at a government agricultural research

@@ -10,7 +10,6 @@ date: 2026-05-08
 updated: 2026-05-08
 sources:
   - Xu, J. et al. (2018). "The genus Amorphophallus in China." Botanical Journal of the Linnean Society, 186(1), pp. 45–67.---
----
 
 ## Overview
 

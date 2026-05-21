@@ -13,7 +13,7 @@ tags: [reference]
 
 In *The Natural Mind* (1972), andrew weil identifies and challenges what he calls the standard paradigm of the mind-drug relationship — the dominant framework through which both the medical establishment and the general public understand [[cultural-evolution-and-psychoactive-substances]]. This paradigm, which Weil traces to the development of modern pharmacology in the 19th and 20th centuries, rests on several key assumptions:
 
-- **Drugs are external agents** that "cause" specific effects by virtue of their chemical properties. A drug's effects are determined by its molecular structure and its interactions with specific receptor sites in the brain.
+- **Drugs are external agents** that "cause" specific effects by virtue of their chemical properties. A drug"s effects are determined by its molecular structure and its interactions with specific receptor sites in the brain.
 - **The mind (or brain) is a passive recipient** of these chemical effects. The drug does something to the brain; the brain does not actively participate in generating the experience.
 - **Different drugs produce categorically different experiences.** LSD is "hallucinogenic," heroin is "euphoric," alcohol is "depressant," cannabis is "psychoactive." These categories are treated as natural kinds, reflecting real pharmacological divisions.
 - **"Good" drugs produce desirable effects** and are therefore acceptable; "bad" drugs produce undesirable effects and should be prohibited. The distinction between good and bad is treated as objective and scientific.
@@ -26,7 +26,7 @@ In *The Natural Mind* (1972), andrew weil identifies and challenges what he call
 
 Weil uses a metaphor to clarify his position: the drug is not a key that opens a specific lock (producing a specific experience), but rather a general-purpose tool that can open many different locks depending on how it is used. The lock — the nervous system — determines what is behind the door, not the key. Different keys (drugs) may be more or less effective for opening particular locks, but the content of the experience depends on the structure of the lock and the context in which it is opened.
 
-This metaphor captures several important aspects of Weil's view:
+This metaphor captures several important aspects of Weil"s view:
 
 - **Non-specificity:** No drug produces a single, uniform experience. The same drug can produce wildly different experiences in different contexts — mystical union in one setting, paranoid terror in another.
 - **Nervous system primacy:** The nervous system is the primary determinant of experience; the drug plays a secondary, triggering role. The drug opens a door; the nervous system provides the room behind it.
@@ -43,7 +43,7 @@ The same substance produces different effects in different cultural contexts. Pe
 
 ### Placebo Effects
 
-Even in controlled settings, user expectations significantly influence the subjective effects of drugs. This has been demonstrated with cannabis (experienced users can be fooled by placebo), alcohol (people exhibit "drunken" behavior when they believe they have consumed alcohol, even if they haven't), and psychedelics (expec [[mystical-experience]] l experience increases the likelihood of one occurring). This demonstrates that the mind is not a passive recipient but an active participant in the drug experience.
+Even in controlled settings, user expectations significantly influence the subjective effects of drugs. This has been demonstrated with cannabis (experienced users can be fooled by placebo), alcohol (people exhibit "drunken" behavior when they believe they have consumed alcohol, even if they haven"t), and psychedelics (expec [[mystical-experience]] l experience increases the likelihood of one occurring). This demonstrates that the mind is not a passive recipient but an active participant in the drug experience.
 
 ### Internal Methods
 
@@ -66,7 +66,7 @@ Weil argues that the standard paradigm is maintained not by its scientific merit
 - **Law enforcement** depends on the criminalization of drugs for funding, institutional relevance, and political power. If the distinction between legal and illegal drugs is arbitrary rather than scientific, the rationale for drug prohibition collapses.
 - **The political establishment** uses drug prohibition as a tool of social control and a source of political legitimacy. The "War on Drugs" provides a politically useful framework for expanding state power, particularly over marginalized communities.
 
-Weil's alternative paradigm is threatening to these institutions because it implies that:
+Weil"s alternative paradigm is threatening to these institutions because it implies that:
 
 - Many pharmaceutical drugs are not fundamentally different from illegal drugs in their mechanism of action. They are all tools for modulating the nervous system's state, and the difference between "medicine" and "drug" is largely a matter of cultural framing.
 - The medical establishment does not have a monopoly on the management of consciousness. People can alter their consciousness through internal methods (meditation, breathwork) or through traditional plant-based practices, without medical supervision.

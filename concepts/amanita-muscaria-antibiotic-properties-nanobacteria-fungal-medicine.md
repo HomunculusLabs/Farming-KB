@@ -56,7 +56,7 @@ The discovery of nanobacteria opens an intriguing possibility: the antibiotic
 properties of fungi — including Amanita muscaria — may extend to these newly
 discovered microorganisms. If ancient peoples consumed Amanita muscaria for its
 antibiotic effects, those effects could have been operating against bacterial
-threats that science is only now beginning to identify. The mushroom's reputation
+threats that science is only now beginning to identify. The mushroom"s reputation
 for curing chronic ailments may reflect genuine antimicrobial activity against
 nanobacteria and other sub-clinical infections that ancient observers could not
 identify but whose symptoms they clearly recognized.
@@ -73,10 +73,10 @@ In ancient contexts, the mushroom's antibiotic effects would have been observed
 and interpreted as "healing" or "purifying" properties. A person suffering from a
 bacterial infection who consumed Amanita muscaria might experience genuine
 improvement — not through divine intervention (though that is how the culture
-would have framed it), but because the mushroom's antibiotic compounds were
+would have framed it), but because the mushroom"s antibiotic compounds were
 actively suppressing the pathogenic bacteria responsible for the illness.
 
-The "immortality" attributed to [[blesching-cannabis-neurodegenerative-diseases]]. Muscimol's GABAergic
+The "immortality" attributed to [[blesching-cannabis-neurodegenerative-diseases]]. Muscimol"s GABAergic
 activity has made it a valuable research tool in neuroscience.
 
 Importantly, research on [[ibotenic-acid]] and muscimol has directly led to the

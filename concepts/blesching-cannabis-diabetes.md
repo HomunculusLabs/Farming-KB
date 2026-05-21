@@ -22,7 +22,7 @@ diabetes. CBD reduced the manifestations of diabetes and exhibited more intact
 islets of Langerhans than a control group. CBD treatment significantly reduced
 the incidence of diabetes in non-obese diabetic mice.
 
-An Edinburgh laboratory study (2009) discovered a synthetic cannabinoid's
+An Edinburgh laboratory study (2009) discovered a synthetic cannabinoid"s
 ability to grow nerve extensions in a glucose-rich environment, providing a
 basis for potentially novel neuroprotective drugs for diabetic patients.
 

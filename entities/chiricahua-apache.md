@@ -8,7 +8,7 @@ type: entity
 
 ## Description
 
-The Chiricahua Apache are a Native American tribe historically known for their fierce resistance to United States and Mexican military forces, most famously under the leadership of [[geronimo]]. They were taken as prisoners of war in 1886 after Geronimo's capitulation, and when freed in 1913, the majority chose to join the [[mescalero-indian-reservation]] in New Mexico. The Chiricahuas used peyote in religious contexts as early as 1875, though remarkably no peyote tradition survived among the reservation community.
+The Chiricahua Apache are a Native American tribe historically known for their fierce resistance to United States and Mexican military forces, most famously under the leadership of [[geronimo]]. They were taken as prisoners of war in 1886 after Geronimo"s capitulation, and when freed in 1913, the majority chose to join the [[mescalero-indian-reservation]] in New Mexico. The Chiricahuas used peyote in religious contexts as early as 1875, though remarkably no peyote tradition survived among the reservation community.
 
 ## Classification
 
@@ -48,7 +48,7 @@ Research on the reservation Apache population identified a typical personality c
 
 ## Peyote Use
 
-The Chiricahuas were documented using peyote in religious contexts in 1875 (Jones, 1899), making them one of the earlier Apache groups with confirmed peyote use. However, unlike the Mescaleros and Lipans who developed formal peyote camps and shamanistic peyote ceremonies, the Chiricahuas on the reservation have no confirmed peyote tradition. No one on the reservation has knowledge of peyote use by the Chiricahuas. The Chiricahuas were notably excluded from Shonle's 1925 map of peyote use distribution in the United States.
+The Chiricahuas were documented using peyote in religious contexts in 1875 (Jones, 1899), making them one of the earlier Apache groups with confirmed peyote use. However, unlike the Mescaleros and Lipans who developed formal peyote camps and shamanistic peyote ceremonies, the Chiricahuas on the reservation have no confirmed peyote tradition. No one on the reservation has knowledge of peyote use by the Chiricahuas. The Chiricahuas were notably excluded from Shonle"s 1925 map of peyote use distribution in the United States.
 
 ## Key Facts
 

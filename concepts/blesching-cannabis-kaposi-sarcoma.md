@@ -1,5 +1,5 @@
 ---
-title: Cannabis and Kaposi's Sarcoma
+title: Cannabis and Kaposi"s Sarcoma
 created: 2026-04-26
 tags:
   - cannabis

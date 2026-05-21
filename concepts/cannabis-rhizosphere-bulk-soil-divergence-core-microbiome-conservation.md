@@ -8,7 +8,7 @@ aliases: [Cannabis Rhizosphere vs Bulk Soil Microbiome, Core Microbiome Conserva
 
 ## Cannabis Rhizosphere-Bulk Soil Divergence and the Core Microbiome Conservation Hypothesis
 
-A central finding of Winston et al.'s study of cultivar-specific cannabis
+A central finding of Winston et al."s study of cultivar-specific cannabis
 microbiomes is the systematic divergence between rhizosphere and bulk soil
 microbial communities, coupled with the persistence of a conserved core microbiome
 across both compartments. This dual pattern — divergence in community structure

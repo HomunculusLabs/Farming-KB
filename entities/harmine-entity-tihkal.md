@@ -8,7 +8,7 @@ sources: ["raw/papers/shulgin-a-tihkal.md"]
 ---
 ## Harmine (7-Methoxy-beta-Carboline)
 
-TIHKAL entry #14. A [[beta-carboline]] alkaloid and monoamine oxidase inhibitor found in [[golden-guide-syrian-rue-and-maoi-plants]]) [[ayahuasca-and-banisteriopsis-caapi]] (ayahuasca). Once known as "banisterine" or "telepathine," harmine was briefly celebrated as a wonder drug for Parkinson's disease in the late 1920s before falling out of favor. It is a more effective facilitator of oral DMT activity than harmaline, as it is substantially without action at effective MAOI doses.
+TIHKAL entry #14. A [[beta-carboline]] alkaloid and monoamine oxidase inhibitor found in [[golden-guide-syrian-rue-and-maoi-plants]]) [[ayahuasca-and-banisteriopsis-caapi]] (ayahuasca). Once known as "banisterine" or "telepathine," harmine was briefly celebrated as a wonder drug for Parkinson"s disease in the late 1920s before falling out of favor. It is a more effective facilitator of oral DMT activity than harmaline, as it is substantially without action at effective MAOI doses.
 
 ## Chemical Names
 
@@ -56,7 +56,7 @@ The medical history of harmine is one of the most dramatic in psychopharmacology
 
 **Discovery**: [[louis-lewin]] (of Phantastica fame) first suggested banisterine for nervous system diseases.
 
-**Clinical success**: Kurt Beringer ran the first clinical study in 1928 on 15 postencephalitic Parkinson's patients. Initial doses of 20-40 mg i.m. produced less motor rigidity and easier movement within 15 minutes. Even oral doses of 10 mg thrice daily showed remarkable responses — tremor diminished in some, exaggerated in others, but mental status brightened without producing "psychic" effects. Banisterine became the "wonder drug of the year."
+**Clinical success**: Kurt Beringer ran the first clinical study in 1928 on 15 postencephalitic Parkinson"s patients. Initial doses of 20-40 mg i.m. produced less motor rigidity and easier movement within 15 minutes. Even oral doses of 10 mg thrice daily showed remarkable responses — tremor diminished in some, exaggerated in others, but mental status brightened without producing "psychic" effects. Banisterine became the "wonder drug of the year."
 
 **Rapid fall from favor**: Three factors contributed to its decline:
 1. A large withdrawal study failed — patients controlled on scopolamine deteriorated and did not respond to banisterine

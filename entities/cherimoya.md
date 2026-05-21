@@ -33,7 +33,7 @@ Cherimoya (*Annona cherimola*) is a subtropical to mild-temperate fruit tree in 
 
 ## Permaculture Significance
 
-In *[[permaculture]]: A Designers' Manual*, Mollison highlights a case study from [[permaculture-principles]] of "the problem is the solution" and finding yield in overlooked niches.
+In *[[permaculture]]: A Designers" Manual*, Mollison highlights a case study from [[permaculture-principles]] of "the problem is the solution" and finding yield in overlooked niches.
 
 ## Relevance to Cultivation
 

@@ -10,13 +10,13 @@ sources:
 
 ## Natural Farming Transcends Time and Space
 
-Masanobu Fukuoka argued that [[fukuoka-critique-scientific-agriculture-civilization]]. "The natural way of farming existed long before the advent of the 'improved' techniques of the modern age."
+Masanobu Fukuoka argued that [[fukuoka-critique-scientific-agriculture-civilization]]. "The natural way of farming existed long before the advent of the "improved' techniques of the modern age."
 
 The [[fukuoka-natural-farming-global-influence]].
 
 ## Beyond Cultural Boundaries
 
-Fukuoka's travels convinced him that the principles of natural farming were recognized in every culture. Traditional farming systems in India, Africa, Europe, and the Americas all contained elements of natural farming -- mixed cropping, composting, [[coleman-deep-organic-farming-philosophy]], sustainable agriculture, and conservation agriculture all fall into this category.
+Fukuoka"s travels convinced him that the principles of natural farming were recognized in every culture. Traditional farming systems in India, Africa, Europe, and the Americas all contained elements of natural farming -- mixed cropping, composting, [[coleman-deep-organic-farming-philosophy]], sustainable agriculture, and conservation agriculture all fall into this category.
 
 Mahayana farming is the path of sudden enlightenment. It recognizes that nature is perfect and that all human intervention is unnecessary. It seeks not to improve farming but to transcend farming entirely -- to reach a state where the farmer does nothing and nature does everything.
 

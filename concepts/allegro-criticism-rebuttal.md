@@ -1,5 +1,5 @@
 ---
-title: Criticism and Rebuttal of Allegro's Theory
+title: Criticism and Rebuttal of Allegro"s Theory
 created: 2026-04-26
 updated: 2026-04-24
 type: concept
@@ -8,7 +8,7 @@ sources:
   - "raw/papers/allegro-j-the-sacred-mushroomcross.md"
 ---
 
-## Criticism and Rebuttal of Allegro's Theory
+## Criticism and Rebuttal of Allegro"s Theory
 
 John Allegro's *The [[dead-sea-scrolls-entheogenic-reading]] editorial team. Despite the hostility, Allegro's work
 continues to attract interest in entheogen-culture|entheogenic scholarship,
@@ -30,7 +30,7 @@ The source document itself notes several specific errors in Allegro's
 understanding:
 
 - He did not understand the growth cycle, effects, and "bitterness" of the
-  [[allegro-main-thesis]] -- Allegro's theory in full
+  [[allegro-main-thesis]] -- Allegro"s theory in full
 - [[allegro-new-testament-as-cover-story]] -- Allegro's "hoax" argument
 
 ## Practical Applications

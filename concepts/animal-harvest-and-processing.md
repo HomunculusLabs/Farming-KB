@@ -33,7 +33,7 @@ Ethical harvesting, butchering, and processing of ducks and goats for the homest
 
 ## Ethical Harvesting Philosophy
 
-Following Joel Salatin's principle: honor the animal's life by minimizing stress, using every part, and performing the kill swiftly and skillfully. Key principles:
+Following Joel Salatin"s principle: honor the animal's life by minimizing stress, using every part, and performing the kill swiftly and skillfully. Key principles:
 - Raise animals on pasture with natural behaviors respected
 - Fast, single-action dispatch — no suffering
 - Process in a calm, quiet environment
@@ -56,7 +56,7 @@ Following Joel Salatin's principle: honor the animal's life by minimizing stress
 4. Allow full bleed-out (2-3 minutes) into bucket
 
 ### Scalding
-1. Heat water to 145-150F (too hot = cooks skin; too cool = feathers won't release)
+1. Heat water to 145-150F (too hot = cooks skin; too cool = feathers won"t release)
 2. Submerge duck fully for 30-60 seconds, agitate gently
 3. Test a wing feather — if it pulls easily, scalding is complete
 

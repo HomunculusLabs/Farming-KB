@@ -7,7 +7,7 @@ tags: [person, ecologist, conservationist, amazon, deforestation, biodiversity]
 
 ## Description
 
-Thomas E. Lovejoy (1941-2021) was an American ecologist and conservation biologist widely recognized as one of the leading voices on tropical deforestation and biodiversity. At the time of Mollison's reference, Lovejoy served as Vice-president of Science at the World Wildlife Fund (WWF). He is quoted in *Permaculture: A Designers' Manual* in connection with research demonstrating that natural vegetation plays a critical role in forming weather patterns — specifically, that deforestation directly contributes to downwind drought.
+Thomas E. Lovejoy (1941-2021) was an American ecologist and conservation biologist widely recognized as one of the leading voices on tropical deforestation and biodiversity. At the time of Mollison"s reference, Lovejoy served as Vice-president of Science at the World Wildlife Fund (WWF). He is quoted in *Permaculture: A Designers' Manual* in connection with research demonstrating that natural vegetation plays a critical role in forming weather patterns — specifically, that deforestation directly contributes to downwind drought.
 
 ## Classification
 

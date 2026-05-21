@@ -1,5 +1,5 @@
 ---
-title: Gasteromycete Fungi — Puffballs, Earthstars, and Bird's Nest Fungi
+title: Gasteromycete Fungi — Puffballs, Earthstars, and Bird"s Nest Fungi
 created: 2026-05-09
 updated: 2026-05-09
 sources:

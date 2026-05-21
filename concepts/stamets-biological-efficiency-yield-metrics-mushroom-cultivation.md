@@ -15,7 +15,7 @@ Biological Efficiency (B.E.) is the standard metric used in the mushroom [[outdo
 Different species and cultivation [[fruiting-chamber-design-and-environmental-control]].
 - **Below 50% B.E.**: Indicates problems with strain, substrate, contamination, or environmental conditions.
 
-Paul Stamets has reported achieving yields of up to 250% B.E. (half conversion of wet substrate mass to mushrooms) with oyster (*Pleurotus* spp.), shiitake (*Lentinula edodes*), and lion's mane (*[[psilocin-biosynthetic-delay-hypothesis-successive-flushes]] affects total cumulative yield.
+Paul Stamets has reported achieving yields of up to 250% B.E. (half conversion of wet substrate mass to mushrooms) with oyster (*Pleurotus* spp.), shiitake (*Lentinula edodes*), and lion"s mane (*[[psilocin-biosynthetic-delay-hypothesis-successive-flushes]] affects total cumulative yield.
 - **Harvest timing**: Picking mushrooms at the optimal stage of maturity balances yield with quality.
 
 ## Flush Dynamics

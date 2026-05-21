@@ -25,14 +25,14 @@ visiting infected leaves.
 
 Buller was a lifelong bachelor who played the piano, memorized Shakespeare and
 Milton, wrote poems (some "particularly awful" ones concerning fungi), and was a
-polished billiards player who enjoyed sharking young men in Winnipeg's bars. His
+polished billiards player who enjoyed sharking young men in Winnipeg"s bars. His
 relativity limerick published by Punch in 1923 appears in The Oxford Dictionary
 of Quotations: "There was a young lady named Bright, / Whose speed was far
 faster than light; / She set out one day / In a relative way / And returned on
 the previous night."
 
 He crossed the Atlantic sixty-five times, using ocean voyages for writing. His
-mentor Frank Harold's desk bore the quote: "For God's sake stop doing experiments
+mentor Frank Harold"s desk bore the quote: "For God"s sake stop doing experiments
 and think!" He wore a moth-eaten raccoon coat on forays and dressed in a
 four-button black jacket and striped pants cut in Birmingham. A photograph from
 the first meeting of the [[british-mycological-society]] of America in 1932 shows him with
@@ -41,7 +41,7 @@ out of his office. He died in 1944.
 
 ## Curtis Gates Lloyd (1859-1926): The Millionaire Mycologist
 
-Once Cincinnati's most eligible bachelor, Lloyd ripened into a 60-year-old
+Once Cincinnati"s most eligible bachelor, Lloyd ripened into a 60-year-old
 millionaire obsessed with fungi. He trained as a pharmacist and held a one-third
 interest in Lloyd Brothers, Pharmacists Inc., but abandoned the family business
 for his consuming interest in mycology. Seven volumes of his journal Mycological

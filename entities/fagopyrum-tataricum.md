@@ -10,7 +10,6 @@ date: 2026-05-09
 updated: 2026-05-09
 sources:
   - Gao, J. et al. (2020). "A review of Tartary buckwheat: Composition, bioactivities, and applications." Trends in Food Science & Technology, 103, 61-73.---
----
 
 ## Overview
 

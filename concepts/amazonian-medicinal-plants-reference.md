@@ -12,7 +12,7 @@ sources:
 
 ## Overview
 
-This index catalogs the Amazonian medicinal and psychoactive plants documented in Pablo Amaringo's "[[ayahuasca-visions]]" and the associated Shipibo ethnobotanical tradition. Plants are organized by their primary traditional use category.
+This index catalogs the Amazonian medicinal and psychoactive plants documented in Pablo Amaringo"s "[[ayahuasca-visions]]" and the associated Shipibo ethnobotanical tradition. Plants are organized by their primary traditional use category.
 
 ## Visionary / Psychoactive Plants
 
@@ -44,7 +44,7 @@ This index catalogs the Amazonian medicinal and psychoactive plants documented i
 |-------|----------------|-------------|-------|
 | Motelo huasca | Bauhinia guianensis | Ayahuasca admixture | "Motelo" = tortoise (shell pattern) |
 | Clavohuasca | Tynanthus panurensis | Strength, vitality, aphrodisiac | Vine teacher |
-| Abuta | Abuta spp. | Women's health, pain | Used for menstrual issues |
+| Abuta | Abuta spp. | Women"s health, pain | Used for menstrual issues |
 | Uña de gato | [[uncaria-tomentosa]] | Anti-inflammatory, immune | Cat's claw; widely commercialized |
 
 ## Flower and Shrub Teachers

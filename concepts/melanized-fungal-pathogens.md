@@ -26,7 +26,7 @@ type in [[cordyceps-insect-pathogenic-fungi]] is DHN-melanin (1,8-dihydroxynapht
 pentaketide pathway. Some fungi like [[blesching-cannabis-fungal-infections-candida]]
 - [[fungal-spore-biology]] - Melanin in the cell wall
 
-Source: Nicholas P. Money, "Mr. Bloomfield's Orchard" (Oxford University Press, 2002), Chapter 4.
+Source: Nicholas P. Money, "Mr. Bloomfield"s Orchard" (Oxford University Press, 2002), Chapter 4.
 - [[fungi-in-the-environment-fungal-spore-dispersal]]
 ## Practical Applications
 

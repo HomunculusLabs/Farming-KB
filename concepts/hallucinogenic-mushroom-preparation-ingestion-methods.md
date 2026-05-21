@@ -28,7 +28,7 @@ them directly, often with water or other beverage. This method involves:
 
 - **Fresh mushrooms** are typically chopped or torn into small pieces and
   eaten raw. Fresh material contains primarily psilocybin (the phosphate
-  ester precursor), which must be converted to psilocin by the body's
+  ester precursor), which must be converted to psilocin by the body"s
   alkaline phosphatase enzymes before it becomes pharmacologically active.
 - **Dried mushrooms** are often ground or broken into smaller fragments.
   Drying converts some psilocybin to psilocin through natural enzymatic

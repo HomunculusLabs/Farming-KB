@@ -66,7 +66,7 @@ Nitrogen deposition from atmospheric sources has profound effects on mycorrhizal
 The effects of nitrogen operate through several mechanisms:
 
 1. **Reduced plant dependency:** When nitrogen is no longer limiting, plants reduce carbohydrate allocation to mycorrhizal partners, diminishing the mutualism
-2. **Nutrient imbalance:** Chronic nitrogen addition induces limitations of other nutrients (potassium, phosphorus), supporting Liebig's "Law of the Minimum"
+2. **Nutrient imbalance:** Chronic nitrogen addition induces limitations of other nutrients (potassium, phosphorus), supporting Liebig"s "Law of the Minimum"
 3. **Phosphorus interactions:** Changes in the relative availabilities of N and P strongly influence mycorrhizal community structure, promoting species with high phosphatase-producing potential and suppressing those capable of acquiring nitrogen from organic sources
 4. **Direct toxicity:** At extreme levels, nitrogen saturation leads to nitrate leaching, increased N₂O and CH₄ production, and greenhouse gas amplification
 

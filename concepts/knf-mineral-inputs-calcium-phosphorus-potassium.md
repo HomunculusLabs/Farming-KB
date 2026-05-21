@@ -6,7 +6,7 @@ type: concept
 
 ## KNF Mineral Inputs — Calcium, Phosphorus, Potassium Solutions
 
-Master Cho's [[korean-natural-farming]] system uses water-soluble mineral solutions derived from natural sources to provide plants with bioavailable calcium, phosphorus, and potassium. These are made by dissolving minerals in brown rice vinegar (BRV), which converts insoluble forms into plant-available forms.
+Master Cho"s [[korean-natural-farming]] system uses water-soluble mineral solutions derived from natural sources to provide plants with bioavailable calcium, phosphorus, and potassium. These are made by dissolving minerals in brown rice vinegar (BRV), which converts insoluble forms into plant-available forms.
 
 ## Water Soluble Calcium (WSC)
 

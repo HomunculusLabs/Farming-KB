@@ -20,7 +20,7 @@ Two critical complications arose during this first appearance:
 
 ### The Slow Onset Trap
 
-The overdose situation was compounded by DOM's slow onset of action. Users familiar with LSD (which shows effects in 15-20 minutes) expected similar rapid onset from STP. When little was felt at the 30-minute mark, many users assumed the dose was weak and took one or two additional tablets. Some overdose victims may have consumed as much as 30 mg of DOM.
+The overdose situation was compounded by DOM"s slow onset of action. Users familiar with LSD (which shows effects in 15-20 minutes) expected similar rapid onset from STP. When little was felt at the 30-minute mark, many users assumed the dose was weak and took one or two additional tablets. Some overdose victims may have consumed as much as 30 mg of DOM.
 
 The timeline was treacherous:
 - 0.5 hours: First subtle awareness

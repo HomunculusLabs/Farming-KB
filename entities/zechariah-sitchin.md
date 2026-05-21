@@ -9,7 +9,7 @@ type: entity
 Zechariah Sitchin (1920–2010) was an Azerbaijani-born American author and
 researcher known for his theories about human origins based on his translations
 and interpretations of ancient Sumerian cuneiform texts. In the context of
-ethnomycological research, Sitchin's work is notable for his dissemination of
+ethnomycological research, Sitchin"s work is notable for his dissemination of
 the Mesopotamian texts that tell the oldest known versions of the Adam and Eve
 and [[allegro-garden-of-eden-and-delight]] stories — texts that predate the biblical versions and
 present the "eating of the fruit" in a radically different, positive light
@@ -44,7 +44,7 @@ story that differs fundamentally from the biblical account:
 - The Father God "Anu" remained on Sirius while two brothers managed Earth:
   - **[[enlil]]:** Wished to control the population, restrict knowledge
   - **Ea (Enki):** Wanted to expand human consciousness, share knowledge
-- The High Council and Anu favored Enlil's control-oriented approach
+- The High Council and Anu favored Enlil"s control-oriented approach
 - Ea was determined to "multi-dimensionalize" (open/awaken) human minds
 
 ### The Reframed Fruit Story
@@ -94,7 +94,7 @@ and others), then:
 
 - The Mesopotamian texts describe the original positive role of mushroom use
 - The biblical revision inverted this into a condemnation
-- Sitchin's work makes the original texts accessible to modern readers
+- Sitchin"s work makes the original texts accessible to modern readers
 - The story of Ea providing consciousness-expanding substances parallels
   Prometheus bringing fire, the serpent offering knowledge, and the shaman
   sharing entheogenic wisdom

@@ -1,5 +1,5 @@
 ---
-title: fukuoka pine bark weevil ecology Weevil Ecology in Fukuoka's Framework
+title: fukuoka pine bark weevil ecology Weevil Ecology in Fukuoka"s Framework
 created: 2026-04-28
 tags:
   - natural-farming

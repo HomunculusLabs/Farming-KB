@@ -54,7 +54,7 @@ Silica gel granules are available from chemical and science supply retailers.
 - Granular form provides good air contact
 
 **Disadvantages:**
-- Can release absorbed moisture if ambient humidity exceeds the desiccant's equilibrium point
+- Can release absorbed moisture if ambient humidity exceeds the desiccant"s equilibrium point
 - Fine dust can be irritating if inhaled
 - Some formulations contain cobalt chloride (toxic if ingested)
 

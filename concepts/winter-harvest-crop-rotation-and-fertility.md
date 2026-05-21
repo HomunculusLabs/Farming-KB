@@ -6,7 +6,7 @@ type: concept
 
 ## Winter Harvest Crop Rotation and Fertility Management
 
-Crop rotation and soil fertility are the twin pillars supporting sustainable [[coleman-french-historical-winter-vegetable-production]]. Eliot Coleman's [[winter-harvest-system]] relies on carefully planned rotations across multiple protected environments, combined with organic fertility practices that build rather than deplete soil health over time.
+Crop rotation and soil fertility are the twin pillars supporting sustainable [[coleman-french-historical-winter-vegetable-production]]. Eliot Coleman"s [[winter-harvest-system]] relies on carefully planned rotations across multiple protected environments, combined with organic fertility practices that build rather than deplete soil health over time.
 
 ## Crop Rotation Principles
 

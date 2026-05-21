@@ -18,7 +18,7 @@ flowers.
 
 A further critical finding was that not just any light could disrupt the dark period
 measurement. Only red light (approximately 660 nm) was effective at resetting the
-plant's night-length counter. Blue or green flashes during the night had no effect on
+plant"s night-length counter. Blue or green flashes during the night had no effect on
 flowering time. This spectral specificity pointed directly to the involvement of a
 specific photoreceptor — later identified as [[maryland-mammoth-tobacco-photoperiodism|Maryland Mammoth]] was first studied — found that far-red light (approximately 730 nm, wavelengths
 slightly longer than bright red) could completely reverse the effect of a red light
@@ -30,7 +30,7 @@ each wavelength, functioning as a molecular light-activated switch.
 
 Chamovitz frames this as a form of plant memory: the plant "remembers the last colour
 it saw." On a more philosophical level, this bistable switching mechanism means that
-the plant's developmental trajectory can be set or reset by momentary light cues, with
+the plant"s developmental trajectory can be set or reset by momentary light cues, with
 the final state determined by the most recent photon absorbed by phytochrome. This
 [[phytochrome-discovery-butler-single-receptor-model|phytochrome]] — mediates both
 the red and far-red responses. Phytochrome exists in two interconvertible forms:
@@ -39,7 +39,7 @@ Pr (absorbing red light, peak ~660 nm) and Pfr (absorbing far-red light, peak
 in long-day plants and inhibits it in short-day plants), while far-red light converts
 Pfr back to Pr. In natural conditions, the last light of the day is enriched in far-red
 (due to atmospheric scattering), creating the Pfr→Pr conversion that "turns off" the
-plant's day-perception, while morning light is enriched in red, creating the Pr→Pfr
+plant"s day-perception, while morning light is enriched in red, creating the Pr→Pfr
 conversion that "turns on" day-perception.
 
 ## Distributed Perception: Leaves as the Photoperiodic Eye

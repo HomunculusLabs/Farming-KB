@@ -9,7 +9,7 @@ mind, modulating not only physiological processes like pain, inflammation, and
 immunity but also the emotional states that influence health and disease.
 Drawing on the work of pharmacologist Candace Pert (author of *Molecules of
 Emotion*) and developmental cell biologist Bruce Lipton (author of *The Biology
-of Belief*), Uwe Blesching's [[query-how-do-plants-use-chemical-signals-to-defend-against-insects]] (molecules) and
+of Belief*), Uwe Blesching"s [[query-how-do-plants-use-chemical-signals-to-defend-against-insects]] (molecules) and
 non-physical signals (emotions, sunlight, intention). When a person encounters
 or imagines a fearful situation, an emotional signal reaches the adrenal glands,
 which instruct cellular DNA to code for adrenalin. This molecule enters the

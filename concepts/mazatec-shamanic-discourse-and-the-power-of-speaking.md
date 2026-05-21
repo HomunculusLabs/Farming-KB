@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-In Mazatec mushroom shamanism, the act of speaking during a ceremonial session is not merely an accompaniment to healing—it *is* the healing. The shaman's discourse, produced under the influence of *Psilocybe* mushrooms, functions simultaneously as diagnosis, treatment, prayer, poetry, and communal affirmation. This concept page examines the structure, themes, and [[cannabidiol-therapeutic-mechanisms]] of Mazatec shamanic discourse as documented by Henry Munn in his ethnographic study of mushroom ceremonies in [[huautla-de-jimenez]], Oaxaca.
+In Mazatec mushroom shamanism, the act of speaking during a ceremonial session is not merely an accompaniment to healing—it *is* the healing. The shaman"s discourse, produced under the influence of *Psilocybe* mushrooms, functions simultaneously as diagnosis, treatment, prayer, poetry, and communal affirmation. This concept page examines the structure, themes, and [[cannabidiol-therapeutic-mechanisms]] of Mazatec shamanic discourse as documented by Henry Munn in his ethnographic study of mushroom ceremonies in [[huautla-de-jimenez]], Oaxaca.
 
 ## The Discourse as Action: Poesis
 
@@ -24,7 +24,7 @@ The most immediately striking feature of Mazatec shamanic speech is the repetiti
 
 - **Attribution**: It marks the words as coming from outside the speaker—"the mushrooms say," "language says," "existence says"
 - **Rhythm**: It creates a chant-like cadence that structures the flow of discourse
-- **Authority**: By attributing speech to a higher source, it grants the words authority beyond the individual shaman's opinion
+- **Authority**: By attributing speech to a higher source, it grants the words authority beyond the individual shaman"s opinion
 - **Trance reinforcement**: The repetitive rhythm likely deepens the altered state of consciousness
 
 ### Chant and Song
@@ -59,7 +59,7 @@ The shaman directly addresses the material conditions of Mazatec life: "Why are 
 
 ### The Path Metaphor
 
-Meaning is understood as a path to be found and followed. The shaman's discourse is itself a path—"from the right side to the left side"—articulating now this intuition, now that fact, now this feeling, following the tracks of significance into the unknown and unsaid. The existential way, the conduct of one's life, is the idea to which the shaman returns again and again.
+Meaning is understood as a path to be found and followed. The shaman"s discourse is itself a path—"from the right side to the left side"—articulating now this intuition, now that fact, now this feeling, following the tracks of significance into the unknown and unsaid. The existential way, the conduct of one"s life, is the idea to which the shaman returns again and again.
 
 ### Purification
 
@@ -69,12 +69,12 @@ Ritual purification is a constant theme: "We will clean ourselves, we will purif
 
 As the mushroom intoxication subsides, the discourse turns to the theme of returning. The shaman chants about going back "without mishap, along a fresh path, a good path, a path of good air." The crowing of the rooster signals the return: "Rich cock that reminds us that we live in this life." The session concludes with a vision of transcendence becoming immanent and then withdrawing.
 
-## Levi-Strauss's Framework
+## Levi-Strauss"s Framework
 
 Claude Levi-Strauss's analysis of shamanic healing provides the theoretical framework for understanding how Mazatec discourse functions therapeutically. In his essay "The Effectiveness of Symbols," Levi-Strauss contrasts the shaman with the psychoanalyst:
 
 - The psychoanalyst **listens**; the shaman **speaks**
-- The patient puts words into the analyst's mouth; the shaman puts words into the patient's mouth
+- The patient puts words into the analyst"s mouth; the shaman puts words into the patient's mouth
 - The analyst establishes a direct relationship with the patient's conscious and indirect with the unconscious; the shaman does the inverse through incantation
 
 The shaman provides the sick person with a language for expressing otherwise inexpressible psychic states. The transition to verbal expression makes it possible to undergo in ordered form an experience that would otherwise be chaotic—and this reorganization induces physiological release.

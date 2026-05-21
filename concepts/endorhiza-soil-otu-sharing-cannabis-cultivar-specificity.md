@@ -74,7 +74,7 @@ The fact that these strain-differentiating OTUs belong to lineages present in th
 
 The OTU sharing analysis also sheds light on the spatial gradient of microbial community change:
 
-- **Bulk soil to rhizosphere:** High OTU sharing (Pearson's rho = 0.92 for mean abundance correlation), reflecting the close proximity and direct influence of [[root-exudates]] on adjacent soil
+- **Bulk soil to rhizosphere:** High OTU sharing (Pearson"s rho = 0.92 for mean abundance correlation), reflecting the close proximity and direct influence of [[root-exudates]] on adjacent soil
 - **Rhizosphere to endorhiza:** Moderate OTU sharing (Pearson's rho = 0.63), reflecting the selective barrier at the root surface
 - **Bulk soil to endorhiza:** Lower OTU sharing (Pearson's rho = 0.42), representing the cumulative effect of two filtering steps
 

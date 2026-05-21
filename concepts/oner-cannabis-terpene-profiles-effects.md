@@ -11,7 +11,7 @@ sources:
 ## Cannabis Terpene Profiles and Their Effects
 
 Terpenes are the aromatic compounds that give cannabis its distinctive smells and
-flavors, and they also modulate the psychoactive effects of cannabinoids. Oner's strain
+flavors, and they also modulate the psychoactive effects of cannabinoids. Oner"s strain
 reviews provide a rich catalog of terpene profiles across sativa-dominant varieties,
 documenting how different combinations produce distinct sensory experiences and effects.
 
@@ -25,7 +25,7 @@ produces bright, citrusy aromas and is associated with uplifting, energetic effe
 - **[[lemon-haze]]**: "Smells like Lemon Haze" across multiple phenotypes (Jack the
   Ripper)
 - **Lemon Alien**: Combines lemon notes with the Alien lineage
-- **Sannie's Jack F7**: "Smells like lemon candy with hints of Haze" with a "spicy
+- **Sannie"s Jack F7**: "Smells like lemon candy with hints of Haze" with a "spicy
   Haze taste" that gives way to "an aftertaste of citrus"
 - **KillerSkunk**: Aromas of "hash, lemon, and pine" after curing
 
@@ -35,7 +35,7 @@ Pinene contributes fresh, woody, pine-like aromas:
 
 - **Chupacabra**: "Piney, fuel smell" characteristic
 - **KillerSkunk**: "Lemon, and pine" aromas dominate
-- **Loki's cuts**: "Piney scent" in some phenotypes
+- **Loki"s cuts**: "Piney scent" in some phenotypes
 - **Satori**: Described with pine notes in the aroma profile
 
 ### Tropical and Fruity
@@ -43,14 +43,14 @@ Pinene contributes fresh, woody, pine-like aromas:
 Sativa strains are particularly noted for their fruity terpene profiles:
 
 - **Bay 11**: "Sweet and fresh smell offset by a hint of berries, meaning that smoking
-  this feels like you're chewing fruity gum"
+  this feels like you"re chewing fruity gum"
 - **Angel**: "Smells like fresh flowers and sour bubblegum candy"
 - **Hawaiian Wave**: "Fruity, crisp-ocean-air taste" characteristic of Hawaiian
   genetics
 - **Chunky Cherry Malawi**: Buds "smell like Cherry Cola" with cherry and tropical
   notes from the Malawi landrace heritage
 - **Mango Haze**: "Fruity, delicious" with mango characteristics
-- **Dragon's Teeth**: "Famous for their fruity smells and berry flavors"
+- **Dragon"s Teeth**: "Famous for their fruity smells and berry flavors"
 
 ### Diesel and Fuel
 

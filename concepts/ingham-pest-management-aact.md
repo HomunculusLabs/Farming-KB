@@ -10,7 +10,7 @@ sources:
 
 ## Pest Management with AACT
 
-Extracted from Elaine Ingham's AACT Field Guide, covering [[ingham-anaerobic-vs-aerobic-compost-tea]] -- anaerobic brews
+Extracted from Elaine Ingham"s AACT Field Guide, covering [[ingham-anaerobic-vs-aerobic-compost-tea]] -- anaerobic brews
 protect plants from pests by toxic compounds they produce, but these are
 not desirable and can be dangerous to human health.
 

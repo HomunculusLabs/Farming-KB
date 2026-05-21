@@ -21,7 +21,7 @@ The [[wasson-hofmann-ruck-theory]] in 1977. The question of what substance could
 
 ## Mythological Foundation
 
-The mysteries were rooted in the myth of Demeter and Persephone (also called Kore), daughter of Demeter, who was abducted by Pluto (Hades) to the underworld. Demeter's grief caused the withdrawal of fertility from the earth until Persephone's partial return was negotiated, establishing the cycle of the seasons. This myth of loss, descent, and renewal formed the experiential backbone of the initiatory rites, providing a narrative template that participants enacted through their own journey from darkness into light.
+The mysteries were rooted in the myth of Demeter and Persephone (also called Kore), daughter of Demeter, who was abducted by Pluto (Hades) to the underworld. Demeter"s grief caused the withdrawal of fertility from the earth until Persephone's partial return was negotiated, establishing the cycle of the seasons. This myth of loss, descent, and renewal formed the experiential backbone of the initiatory rites, providing a narrative template that participants enacted through their own journey from darkness into light.
 
 The myth encoded a sophisticated understanding of agricultural cycles and the relationship between death and regeneration. Demeter's wanderings in search of her daughter, her withdrawal of fertility as an act of cosmic grief, and the final reconciliation all mirrored the initiatory pattern of separation, ordeal, and reintegration that defined the mystery experience. Persephone's annual return from the underworld for a portion of the year established the model of cyclical renewal that lay at the heart of the cult's theology.
 
@@ -45,7 +45,7 @@ The tangible nature of the catalyst was demonstrated by the Alcibiades scandal o
 
 In 1964, the poet and classical scholar Robert Graves became the first modern writer to propose that a hallucinogenic plant was central to the Eleusinian sacrament. In his essay "The Two Births of Dionysus," Graves argued that the secret of Triptolemus was likely [[stropharia-cubensis]] were baked into sacrificial cakes consumed during the rites.
 
-Graves's hypothesis drew on his wide reading in comparative mythology and his interest in the fungal basis of ancient religion. He noted the prominence of mushroom imagery in Minoan art, including the so-called "fly agaric" motifs found on seals and frescoes from Knossos. While his identification of [[the-road-to-eleusis-wasson-hofmann-ruck]]*, elaborating their hypothesis that the psychoactive ingredient in the Eleusinian kykeon was derived from ergotized barley. Their argument rested on several converging lines of evidence.
+Graves"s hypothesis drew on his wide reading in comparative mythology and his interest in the fungal basis of ancient religion. He noted the prominence of mushroom imagery in Minoan art, including the so-called "fly agaric" motifs found on seals and frescoes from Knossos. While his identification of [[the-road-to-eleusis-wasson-hofmann-ruck]]*, elaborating their hypothesis that the psychoactive ingredient in the Eleusinian kykeon was derived from ergotized barley. Their argument rested on several converging lines of evidence.
 
 ### Claviceps purpurea and Ergot Alkaloids
 

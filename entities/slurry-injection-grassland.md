@@ -38,7 +38,7 @@ Slurry injection addresses a critical problem in confined livestock systems — 
 
 2. **Pollution prevention**: In cold climates where livestock are housed for up to 200 days per year, "very large quantities of manures and urine are available from barns." Surface spreading of this volume creates acid runoff, groundwater contamination, and atmospheric ammonia. Injection eliminates these pathways.
 
-3. **Energy efficiency**: The method converts a waste product (barn manure) into a resource (subsoil fertiliser), avoiding the energy costs of manufacturing and transporting synthetic nitrogen fertiliser. This aligns with permaculture's principle of cycling resources on-site.
+3. **Energy efficiency**: The method converts a waste product (barn manure) into a resource (subsoil fertiliser), avoiding the energy costs of manufacturing and transporting synthetic nitrogen fertiliser. This aligns with permaculture"s principle of cycling resources on-site.
 
 4. **Integrated system design**: Slurry injection pairs naturally with the cut-and-feed system, where all manure is collected from housed animals and returned to the forage production area. Together, these methods close the nutrient loop at the farm scale.
 

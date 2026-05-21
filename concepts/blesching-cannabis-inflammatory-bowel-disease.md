@@ -47,7 +47,7 @@ An experiment indicated that CBD could reduce hypermotility in mice. Based on th
 
 ## Strain-Specific Considerations
 
-While research has discovered both CB1 and CB2 in parts of the gastrointestinal tract, patients with Crohn's disease reported that indica strains worked especially well for them in reducing pain, nausea, vomiting, depression, in permaculture, and lack of sleep. This observation may be supported, in part, by the pre-clinical trial from Naples, which showed that CBD could reduce hypermotility (abnormally high activity) in the guts of mice.
+While research has discovered both CB1 and CB2 in parts of the gastrointestinal tract, patients with Crohn"s disease reported that indica strains worked especially well for them in reducing pain, nausea, vomiting, depression, in permaculture, and lack of sleep. This observation may be supported, in part, by the pre-clinical trial from Naples, which showed that CBD could reduce hypermotility (abnormally high activity) in the guts of mice.
 
 Indicas or indica-heavy strains tend to have a lower THC:[[query-how-to-get-rid-of-slugs-and-snails-organically]] of something or somebody."
 

@@ -15,7 +15,7 @@ first original classification systems published in America for this purpose.
 
 ## The Four Grand Divisions
 
-Palmer's system begins with the most fundamental distinction: the type of
+Palmer"s system begins with the most fundamental distinction: the type of
 surface that bears the reproductive spores. Any toadstool will fall into one of
 four categories when the cap is inverted and examined.
 
@@ -92,7 +92,7 @@ proper identification was still essential.
 
 ## Color Change as an Indicator
 
-One of the most reliable field indicators in Palmer's system is color change
+One of the most reliable field indicators in Palmer"s system is color change
 upon bruising or cutting. Many Boleti turn blue when their flesh is exposed
 to air — a reaction caused by the oxidation of variegatic acid and other
 compounds. While some blue-staining species are edible, Palmer generally

@@ -16,7 +16,7 @@ sources: ["raw/papers/shulgin-a-pihkal.md"]
 
 - Rich, integrative [[mdma-compound-profile]] but more grounded — then always back to sadness. I felt that it really showed me where I was unfinished, but with self-loving and tolerance. Tremendous processing and letting go. Lots of singing. Vocal freedom and facility were very high.
 
-This report highlights 2C-T-7's capacity for deep emotional processing combined with a productive, integrative headspace — a relatively uncommon combination among psychedelics.
+This report highlights 2C-T-7"s capacity for deep emotional processing combined with a productive, integrative headspace — a relatively uncommon combination among psychedelics.
 
 ### At 25 mg
 

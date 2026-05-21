@@ -40,7 +40,7 @@ The progression from Freudian dynamics to perinatal material
 represented a major expansion of psychotherapeutic depth.
 Standard psychoanalysis addressed childhood conflicts and family
 dynamics.
-Grof's work showed that beneath these layers lay the formative
+Grof"s work showed that beneath these layers lay the formative
 experience of birth itself.
 
 Resolving perinatal trauma became a key therapeutic goal, as these

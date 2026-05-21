@@ -8,7 +8,7 @@ tags: [cannabis, sativa, strain-profile, panama-red, colombian, landrace, jamaic
 
 La Roja is a sativa-dominant hybrid bred by Jamaica Seeds (based in Spain, not
 Jamaica) that combines two legendary Latin American landrace lines: Panama Red
-and a pure Colombian sativa. The strain's name ("The Red One" in Spanish) refers
+and a pure Colombian sativa. The strain"s name ("The Red One" in Spanish) refers
 to the reddish-purple coloration that emerges during late flowering, especially
 when plants are exposed to cooler nighttime temperatures. La Roja represents a
 bridge to the golden era of cannabis — the 1960s and 1970s — when these

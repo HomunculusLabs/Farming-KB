@@ -16,7 +16,7 @@ type: query
 | **Woodland property, [[passive-solar-design]] + [[holmgren-fossil-fuel-pulse-and-energy-descent-cycle]] — not renewable or self-sufficient
 - CO risk requires ventilation and detectors
 - Cost escalates with extreme cold
-**Best for**: Backup heating, mild climates, busy homesteaders who can't tend a fire daily, tiny homes and cabins.
+**Best for**: Backup heating, mild climates, busy homesteaders who can"t tend a fire daily, tiny homes and cabins.
 (Section truncated for length.)
 
 ## Heating System Sizing Rules of Thumb

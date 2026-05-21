@@ -12,7 +12,7 @@ The endocannabinoid system (ECS) is a biological regulatory mechanism present in
 
 ## Discovery and Significance
 
-The ECS was a relatively recent discovery that stemmed from research into the cannabis plant. Since its identification in 1990, approximately ten new studies have been published every month examining the ECS's range and complexity. This reflects the excitement the early results have generated in the medical research community, among physicians, patients, and caregivers. Understanding the ECS is considered critical for more effectively managing chronic diseases, especially debilitating ones for which there is no orthodox cure.
+The ECS was a relatively recent discovery that stemmed from research into the cannabis plant. Since its identification in 1990, approximately ten new studies have been published every month examining the ECS"s range and complexity. This reflects the excitement the early results have generated in the medical research community, among physicians, patients, and caregivers. Understanding the ECS is considered critical for more effectively managing chronic diseases, especially debilitating ones for which there is no orthodox cure.
 
 The discovery of cannabinoid receptors in the human body was a breakthrough because it provided a biological explanation for the therapeutic effects of cannabis. It also revealed that the human body produces its own cannabinoid-like compounds (endocannabinoids) that serve vital regulatory functions independent of any plant-based input.
 

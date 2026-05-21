@@ -13,7 +13,7 @@ tags:
 
 ## Overview
 
-Eliot Coleman's winter harvest system is built on a deep understanding of how
+Eliot Coleman"s winter harvest system is built on a deep understanding of how
 certain vegetables survive and even thrive in freezing temperatures. Rather
 than fighting winter with artificial heat, Coleman works with the natural cold
 tolerance mechanisms that hardy vegetables have evolved over millennia. This

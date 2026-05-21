@@ -30,7 +30,7 @@ relationships each type demands from its cultivator.
 
 Several practical challenges make [[cannabis-sativa-indoor-cultivation-techniques]] with synthetic
 nutrients. They show their displeasure through reduced quality --
-the final harvest from a poorly grown sativa is, in The Rev's
+the final harvest from a poorly grown sativa is, in The Rev"s
 words, "sub-par at best, if not downright ragweed."
 
 Indicas, by contrast, are forgiving of heavy feeding programs and

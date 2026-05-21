@@ -14,7 +14,7 @@ The DMT experience occupies a central place in [[dmt-entity-encounters-and-the-l
 
 ## The Phenomenology of DMT
 
-The experience of DMT begins with what feels like "the penetration of a membrane." The mind and the self literally unfold before one's eyes.
+The experience of DMT begins with what feels like "the penetration of a membrane." The mind and the self literally unfold before one"s eyes.
 
 There is a sense that one is made new, yet unchanged, as if one were made of gold and had just been recast in the furnace of one's birth.
 
@@ -22,7 +22,7 @@ Breathing is normal, heartbeat steady, the mind clear and observing. But what of
 
 Under the influence of DMT, the world becomes "an Arabian labyrinth, a palace, a more than possible Martian jewel, vast with motifs that flood the gaping mind with complex and wordless awe."
 
-Color and the sense of a reality-unlocking secret nearby pervade the experience. There is a sense of other times, and of one's own infancy, and of wonder, wonder, and more wonder.
+Color and the sense of a reality-unlocking secret nearby pervade the experience. There is a sense of other times, and of one"s own infancy, and of wonder, wonder, and more wonder.
 
 It is an audience with the alien nuncio. In the midst of this experience, apparently at the end of human history, guarding gates that seem surely to open on the howling maelstrom of the unspeakable emptiness between the stars, is the Aeon.
 

@@ -12,7 +12,7 @@ In Chapter 7 of *Food of the Gods*, Terence McKenna examines one of the most end
 
 ## The Scale of the Mystery
 
-The mystery of Soma is extraordinary in its scope. Here was a sacrament so central to an entire civilization's worldview that it was literally identified with the divine — yet within a few centuries, its botanical identity had been completely forgotten. The Vedic texts themselves provide no unambiguous physical description that would allow modern botanists to identify the plant with certainty. This is not because the texts are sparse; the Rig Veda contains more than a thousand hymns, many devoted exclusively to Soma. Rather, the Vedic poets took the plant's identity for granted — as familiar to them as bread or water — and saw no need to describe it in the taxonomic terms that modern scholarship requires.
+The mystery of Soma is extraordinary in its scope. Here was a sacrament so central to an entire civilization"s worldview that it was literally identified with the divine — yet within a few centuries, its botanical identity had been completely forgotten. The Vedic texts themselves provide no unambiguous physical description that would allow modern botanists to identify the plant with certainty. This is not because the texts are sparse; the Rig Veda contains more than a thousand hymns, many devoted exclusively to Soma. Rather, the Vedic poets took the plant's identity for granted — as familiar to them as bread or water — and saw no need to describe it in the taxonomic terms that modern scholarship requires.
 
 This very familiarity is what makes the loss so devastating. The people who composed the Rig Veda lived in a world where the sacred plant was a daily reality. They could not have imagined a future in which its identity would become a matter of scholarly speculation.
 
@@ -22,7 +22,7 @@ Soma occupies the central position in the Vedic pantheon. The Rig Veda contains 
 
 The effects described in the Vedic hymns are unmistakably psychoactive: divine visions, feelings of omnipotence, ecstatic communion with the gods, and the dissolution of fear. Soma was said to bestow the power of prophecy, heal illness, and grant warriors invincibility in battle. The entire cosmological and social order of Vedic civilization was anchored in this sacrament.
 
-The god Soma is described as the "lord of speech" (*vac*), the inspirer of poets, and the cosmic connector who links heaven and earth. Indra, the king of the gods, drinks Soma before every battle; Agni, the fire god, carries Soma offerings upward. Without Soma, the Vedic cosmos collapses — the gods themselves depend on it for their immortality. This total centrality makes the question of Soma's botanical identity not merely academic but existentially significant for understanding Indo-Aryan civilization.
+The god Soma is described as the "lord of speech" (*vac*), the inspirer of poets, and the cosmic connector who links heaven and earth. Indra, the king of the gods, drinks Soma before every battle; Agni, the fire god, carries Soma offerings upward. Without Soma, the Vedic cosmos collapses — the gods themselves depend on it for their immortality. This total centrality makes the question of Soma"s botanical identity not merely academic but existentially significant for understanding Indo-Aryan civilization.
 
 ## The Indo-European Migration Context
 
@@ -42,7 +42,7 @@ R. Gordon Wasson's 1968 book *Soma: Divine Mushroom of Immortality* proposed tha
 - The Rig Veda explicitly states that Soma has "no leaves, no branches, no blossoms" — a description that fits a mushroom more naturally than any flowering plant.
 - The practice of urine-drinking among Siberian users (to recycle active compounds) has parallels in Vedic texts describing the "filtered" preparation.
 
-Wasson's theory dominated Soma scholarship for decades and brought mainstream academic attention to the possibility that ancient religions were literally fueled by psychoactive mushrooms. His interdisciplinary approach — combining mycology, philology, comparative religion, and ethnography — established a model for subsequent entheogenic scholarship. Even critics acknowledge that *Soma: Divine Mushroom of Immortality* fundamentally changed the conversation.
+Wasson"s theory dominated Soma scholarship for decades and brought mainstream academic attention to the possibility that ancient religions were literally fueled by psychoactive mushrooms. His interdisciplinary approach — combining mycology, philology, comparative religion, and ethnography — established a model for subsequent entheogenic scholarship. Even critics acknowledge that *Soma: Divine Mushroom of Immortality* fundamentally changed the conversation.
 
 ## Problems with the Amanita Theory
 

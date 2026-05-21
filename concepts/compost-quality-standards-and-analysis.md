@@ -46,7 +46,7 @@ Municipal refuse compost is **not potent enough for [[fukuoka-natural-vegetable-
 Plastic compost bins (open-bottomed cylinders 2-3 feet across, 3-5 feet high) are the most common home composting method. The problems:
 
 - Too much woody, decomposition-resistant material usually goes in
-- The whole heap doesn't heat uniformly — only a temporary hot spot below where newer materials are added
+- The whole heap doesn"t heat uniformly — only a temporary hot spot below where newer materials are added
 - That hot spot cools too quickly to ferment properly
 - Awkward to turn and aerate
 - The final result lacks potency and may lack mineral balance

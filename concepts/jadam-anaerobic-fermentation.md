@@ -11,7 +11,7 @@ sources:
 
 ## Overview
 
-Anaerobic fermentation (cutting off oxygen) is the cornerstone principle of JADAM's input-making philosophy. Youngsang Cho argues that the modern [[cho-natural-farming-inputs-overview]] are food prepared for crops. The most important question is: how rich is the input in nutrients, and in what balance?
+Anaerobic fermentation (cutting off oxygen) is the cornerstone principle of JADAM"s input-making philosophy. Youngsang Cho argues that the modern [[cho-natural-farming-inputs-overview]] are food prepared for crops. The most important question is: how rich is the input in nutrients, and in what balance?
 
 From nutritional science, the three biggest destroyers of nutrients are:
 1. Sunlight

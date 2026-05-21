@@ -50,7 +50,7 @@ A Pitjatjantjara woman, upon seeing a small desert flower coming into bloom, cou
 
 One of the most remarkable examples of pattern-encoded information is the Anasazi spiral petroglyph near the top of a mesa in the desert country of the southwestern United States. This apparently simple spiral form contains 19 intercepts on its "horizon" line.
 
-Three carefully balanced and shaped rock slabs served as gnomons, casting moon-shadows or directing vertical daggers of sunlight to specific points on the spiral. The 19 points at which the spiral intersects the horizontal axis correspond to positions where the shadow of the moon is cast by a gnomon, indicating the moon elevation cycle of approximately 18.6 years caused by the sway of Earth's axis.
+Three carefully balanced and shaped rock slabs served as gnomons, casting moon-shadows or directing vertical daggers of sunlight to specific points on the spiral. The 19 points at which the spiral intersects the horizontal axis correspond to positions where the shadow of the moon is cast by a gnomon, indicating the moon elevation cycle of approximately 18.6 years caused by the sway of Earth"s axis.
 
 This single, simple spiral thus records:
 - **Lunar cycles** for regulating planting

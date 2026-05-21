@@ -10,7 +10,7 @@ type: concept
 
 Among the most vivid and culturally significant concepts in Amazonian shamanism are the *Chullachaki* (forest spirit with backwards feet) and the practice of soul recovery (*recuperación del alma*). These concepts address two fundamental anxieties of Amazonian life: the danger of becoming lost in the forest — both literally and spiritually — and the vulnerability of the human soul to capture by malevolent beings. [[amazonian-shamanic-battles-and-defensive-powers]] cosmology, the soul (*alma*) is not an indivisible essence but a mobile entity that can become separated from the body through fright (*susto*), sorcery, abduction by spirits, or the predations of spirit guardians working for sorcerers. Soul loss manifests as listlessness, apathy, serious illness, or a comatose state — the "inert body" left behind when the soul has been taken.
 
-### The Muraya's Soul Recovery Operation (Vision 37)
+### The Muraya"s Soul Recovery Operation (Vision 37)
 
 Vision 37 documents a complete soul recovery operation performed by a *muraya* (a high-ranking shaman with the ability to travel to the underwater realm and other dimensions). The operation takes place during a visionary journey to Saturn:
 
@@ -38,7 +38,7 @@ Amaringo attributes this vision to December 1959, in a hamlet called Zapatilla b
 
 The *yakuruna* (water people) represent another class of spirit beings capable of abducting humans. Vision 39 documents the recovery of a young man taken from his canoe by a green-haired yakuruna named Llulluchukcha, who resembles a Shipiba or Conibo woman.
 
-### The Muraya's Method
+### The Muraya"s Method
 
 The muraya sits on a living stone tiger that floats on water and summons an extensive army of [[sanguijuela-mama]]**: Leech with powerful magnets
 - **Yaku-toro**: Bull of the water
@@ -53,11 +53,11 @@ The muraya sits on a living stone tiger that floats on water and summons an exte
 - **Rayamama / pambamuri**: Ray mother
 - **Pani-sirenas**: Sister mermaids
 
-These powers "cause the yakuruna to return the young man to the place he took him from," even though the yakuruna's father smokes his pipe ceaselessly, trying to make the young man stay.
+These powers "cause the yakuruna to return the young man to the place he took him from," even though the yakuruna"s father smokes his pipe ceaselessly, trying to make the young man stay.
 
 ### The Twist as Irreversible Marker
 
-A critical diagnostic element in abduction cases is the "twist" — the turning of the victim's eyes, feet, or head backwards. If only the eyes are twisted, recovery is possible. But if the feet and head are also turned backwards, the victim has been permanently incorporated into the yakuruna family and cannot be returned to human society. This threshold represents the point of no return in spirit abduction.
+A critical diagnostic element in abduction cases is the "twist" — the turning of the victim"s eyes, feet, or head backwards. If only the eyes are twisted, recovery is possible. But if the feet and head are also turned backwards, the victim has been permanently incorporated into the yakuruna family and cannot be returned to human society. This threshold represents the point of no return in spirit abduction.
 
 ### The Musical Dimension
 
@@ -65,13 +65,13 @@ The "musical bars" in the yakuruna vision represent the icaros of the muraya, "g
 
 ## Ayacatuca — Bath of the Dead (Vision 40)
 
-The *ayacatuca* (bath of the dead) represents a different dimension of spirit interaction: the periodic ritual bathing of manes (spirits of the dead). The sound of rain is heard but no water reaches the earth — the dead are bathing in a spiritual dimension. The manes "don't walk like normal people but float half a meter above the ground like the winds." After purifying themselves, they travel freely through the universe, visiting temples.
+The *ayacatuca* (bath of the dead) represents a different dimension of spirit interaction: the periodic ritual bathing of manes (spirits of the dead). The sound of rain is heard but no water reaches the earth — the dead are bathing in a spiritual dimension. The manes "don"t walk like normal people but float half a meter above the ground like the winds." After purifying themselves, they travel freely through the universe, visiting temples.
 
 This vision emerged from an ayahuasca session that mixed "the science of vegetalismo or alquimia palística (plant alchemy) with Rosicrucianism," illustrating the syncretic nature of Amazonian shamanism, which freely incorporates elements from European esoteric traditions.
 
 ## Maituch Iscami — Restoring Twisted Powers (Vision 34)
 
-*Maituch iscami* (from Quechua *maytuy* = to twist) describes the condition in which a vegetalista's medicine becomes ineffective — their "magic powers are twisted" by a sorcerer's malevolent waves. The victim forgets everything. A great sumiruna cures this by blowing *alli-huaira* (good wind) on the afflicted healer, forming "a great tornado that will disperse all this sorcery and scatter it into infinite particles."
+*Maituch iscami* (from Quechua *maytuy* = to twist) describes the condition in which a vegetalista"s medicine becomes ineffective — their "magic powers are twisted" by a sorcerer"s malevolent waves. The victim forgets everything. A great sumiruna cures this by blowing *alli-huaira* (good wind) on the afflicted healer, forming "a great tornado that will disperse all this sorcery and scatter it into infinite particles."
 
 This concept addresses a fundamental vulnerability of the healer: that the same powers that enable healing can be turned against the healer himself, rendering him unable to practice. The cure requires intervention from a more powerful practitioner — a recognition of the hierarchical nature of [[ayahuasca-chullachaki-forest-spirits-huairamama-wind-serpent]]
 - [[ayahuasca-yakuruna-water-spirits-shamanic-allies-amazon]]

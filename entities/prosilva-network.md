@@ -16,7 +16,7 @@ Convention in Slovenia, the network advocates for a fundamental shift in forest
 continuous cover forestry (CCF) that maintains forest structure, biodiversity, and
 ecological function while still producing timber.
 
-ProSilva's approach is grounded in the principle that forests managed according to
+ProSilva"s approach is grounded in the principle that forests managed according to
 natural processes are more resilient, more productive in the long term, and provide
 greater ecological services than intensively managed plantation systems. The network
 draws on centuries of European forestry tradition, particularly from countries like

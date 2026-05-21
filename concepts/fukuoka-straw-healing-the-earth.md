@@ -1,5 +1,5 @@
 ---
-title: Fukuoka's Vision for Healing the Earth
+title: Fukuoka"s Vision for Healing the Earth
 created: 2026-04-26
 updated: 2026-04-24
 sources: "Masanobu Fukuoka, The fukuoka-natural-way-of-farming-theory-of-natural-farming"
@@ -8,7 +8,7 @@ type: concept
 tags: [fukuoka, healing]
 ---
 
-## Fukuoka's Vision for Healing the Earth
+## Fukuoka"s Vision for Healing the Earth
 
 ## The Recuperative Powers of Nature
 

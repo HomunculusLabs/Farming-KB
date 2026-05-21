@@ -27,7 +27,7 @@ Apparently simple spiral or linear designs can combine thousands of bits of info
 Tribal art has been systematically destroyed and devalued through several mechanisms:
 
 ### Replacement by Centralized Belief Systems
-Sacred calendars were melted down to bullion or objets d'art. Tribal art hidden in museum storerooms represents a form of cultural genocide—removing knowledge from its living context and trivializing objects to mere decorations or loot.
+Sacred calendars were melted down to bullion or objets d"art. Tribal art hidden in museum storerooms represents a form of cultural genocide—removing knowledge from its living context and trivializing objects to mere decorations or loot.
 
 ### Fanatic Destruction
 Most tribal art has been burnt, looted, destroyed, and broken by invading belief systems. This destruction was carried out by those seeking secret power rather than open knowledge, or by those who were merely destructive. Book-burning and image-breaking is the reaction of the alienated or intellectually-deprived to the accumulated wisdom of their ancestors.

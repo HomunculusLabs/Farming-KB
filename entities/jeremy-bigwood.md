@@ -36,7 +36,7 @@ Used reversed-phase HPLC calibrated against NIDA standards with 10% repeatabilit
 - Co-reported *Psilocybe subcubensis* with [[paul-stamets]] (1978), contributing to the taxonomic literature
 - Co-authored "Psilocin, bufotenine and serotonin: Historical and biosynthetic observations" (Chilton, Bigwood & Jensen 1979)
 - Co-authored the foundational paper "Entheogens" (Ruck, Bigwood, Staples, Ott & Wasson 1979) — which introduced the term "entheogen" to the literature
-- His photographic contributions appear in Stamets' *Psilocybin Mushrooms of the World*
+- His photographic contributions appear in Stamets" *Psilocybin Mushrooms of the World*
 
 ## Significance
 

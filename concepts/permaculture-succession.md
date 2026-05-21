@@ -9,7 +9,7 @@ sources: [raw/papers/gaias-garden-toby-hemenway.md]
 
 # Ecological Succession and Garden Assembly
 
-Ecological succession is the process by which landscapes evolve from bare ground through pioneer species to mature ecosystems. In nearly every climate, the end result of succession — when not interrupted by fire or other disturbance — is forest. Understanding and accelerating this process is central to permaculture gardening. From Gaia's Garden's final chapters, succession drives the transformation from a sterile yard to a self-sustaining ecosystem.
+Ecological succession is the process by which landscapes evolve from bare ground through pioneer species to mature ecosystems. In nearly every climate, the end result of succession — when not interrupted by fire or other disturbance — is forest. Understanding and accelerating this process is central to permaculture gardening. From Gaia"s Garden's final chapters, succession drives the transformation from a sterile yard to a self-sustaining ecosystem.
 
 ## The Succession Sequence
 
@@ -37,7 +37,7 @@ Most permaculture techniques are designed to accelerate natural succession and m
 Nurse, scaffold, and chaperone plants help young or tender species establish:
 - **Nitrogen fixers** (New Mexico locust, Russian olive, Siberian pea shrub, tagasaste): Build soil and shelter young fruit trees
 - **Pioneer species**: Fast-growing plants that create shade and wind protection
-- At Jerome Osentowski's Central Rocky Mountain Permaculture Institute, nitrogen-fixing nurse plants were planted first, then fruit trees were placed in their shelter
+- At Jerome Osentowski"s Central Rocky Mountain Permaculture Institute, nitrogen-fixing nurse plants were planted first, then fruit trees were placed in their shelter
 - At Roxanne Swentzell's garden in New Mexico desert, Russian olives and Siberian pea shrubs created the initial shade that allowed fruit trees to survive
 
 ### Growing by Chunking
@@ -47,11 +47,11 @@ Rather than imposing a large, untested pattern on a landscape all at once, start
 3. Repeat the pattern with appropriate variations for new sites
 4. These small patches of fertility link up into a resilient whole
 
-Joel Glanzberg described this at Roxanne Swentzell's garden: "We'd work on creating a favorable spot, concentrating our resources there, and then grow out from those nuclei. And those nuclei started to link up."
+Joel Glanzberg described this at Roxanne Swentzell's garden: "We"d work on creating a favorable spot, concentrating our resources there, and then grow out from those nuclei. And those nuclei started to link up."
 
 ### The "Pop" Phenomenon
 After 3-5 years of establishment, ecological gardens often undergo a dramatic transformation — the system suddenly "pops" into vigorous life. Hemenway observed this at multiple sites:
-- Roxanne Swentzell's New Mexico desert garden popped in year 5
+- Roxanne Swentzell"s New Mexico desert garden popped in year 5
 - The Bullock brothers' Orcas Island food forest popped after several years
 - Hemenway's own Oregon garden popped after 5 years of sheet mulching and dense planting
 
@@ -95,7 +95,7 @@ Scientific support comes from Drake and Pimm (University of Tennessee), who foun
 2. **Find or create benign microclimates** — sheltered from wind, moderated temperature
 3. **Use nurse plants** — nitrogen fixers and fast-growing pioneers
 4. **Plant densely** — bare soil is wasted soil
-5. **Observe and adjust** — watch what thrives and what doesn't
+5. **Observe and adjust** — watch what thrives and what doesn"t
 
 ### Microclimate Strategy
 - **Desert**: Find moist, shady sites near swales or rocks

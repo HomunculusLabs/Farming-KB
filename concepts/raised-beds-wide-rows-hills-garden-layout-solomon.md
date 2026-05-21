@@ -17,7 +17,7 @@ situation rather than following a rigid system.
 
 ## Raised Beds
 
-Raised beds are Solomon's preferred layout for small-sized vegetables
+Raised beds are Solomon"s preferred layout for small-sized vegetables
 such as lettuce, beets, carrots, bush beans, and bush peas, especially
 in gardens that receive irrigation or reliable rainfall. The standard
 bed is four feet (120 cm) wide, which allows a person standing on the

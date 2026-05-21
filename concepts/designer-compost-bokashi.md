@@ -56,7 +56,7 @@ Calcium phosphate is the critical input during the changeover period, when the p
 
 ### Ginger-Garlic Extract
 
-Ginger-Garlic Extract functions as a natural antibiotic and fungicide. The preparation involves soaking chopped ginger and garlic in beer or wine for 12 hours, adding sugar at the standard 1/3 ratio, fermenting for 5-7 days, and stabilizing the final product by adding 40% alcohol. This alcohol preservation step is analogous to herbal tincture preparation. Garlic's sulfur compounds provide potent antifungal properties. Applications include poultry health (added to drinking water), treatment of [[beneficial-indigenous-microorganisms-bim|BIM]]
+Ginger-Garlic Extract functions as a natural antibiotic and fungicide. The preparation involves soaking chopped ginger and garlic in beer or wine for 12 hours, adding sugar at the standard 1/3 ratio, fermenting for 5-7 days, and stabilizing the final product by adding 40% alcohol. This alcohol preservation step is analogous to herbal tincture preparation. Garlic"s sulfur compounds provide potent antifungal properties. Applications include poultry health (added to drinking water), treatment of [[beneficial-indigenous-microorganisms-bim|BIM]]
 
 ### Philippine Standard Recipe
 

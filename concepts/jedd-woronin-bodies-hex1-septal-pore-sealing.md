@@ -15,7 +15,7 @@ Woronin bodies are dense, membrane-bound organelles unique to
 filamentous Ascomycete fungi (Euascomycetes) that function as
 emergency plugs for septal pores. When a hyphal compartment is
 damaged, Woronin bodies rapidly move to adjacent septal pores and
-seal them, preventing catastrophic loss of cytoplasm. Gregory Jedd's
+seal them, preventing catastrophic loss of cytoplasm. Gregory Jedd"s
 chapter in *Fungi in the Environment* provides the definitive account
 of Woronin body biology, from historical discovery through molecular
 characterization of the HEX-1 protein and its crystal lattice

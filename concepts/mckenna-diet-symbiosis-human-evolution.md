@@ -1,5 +1,5 @@
 ---
-title: "McKenna's mckenna diet symbiosis human evolution and Human Evolution"
+title: "McKenna"s mckenna diet symbiosis human evolution and Human Evolution"
 created: "2026-04-22"
 updated: "2026-04-22"
 type: "concept"
@@ -13,7 +13,7 @@ sources:
   - "Food of the Gods, Ch. 2: Magic in Food (Terence McKenna)"
 ---
 
-## McKenna's Diet Symbiosis and Human Evolution
+## McKenna"s Diet Symbiosis and Human Evolution
 
 ## Overview
 

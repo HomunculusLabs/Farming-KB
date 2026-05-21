@@ -12,7 +12,7 @@ sources:
 
 ## Western Estrangement from the Tao
 
-We in the West are the inheritors of a very different understanding of the world. Loss of connection to the Tao has meant that the psychological development of Western civilization has been markedly different from the East's. In the West there has been a steady focus on the ego and on the god of the ego — the monotheistic ideal.
+We in the West are the inheritors of a very different understanding of the world. Loss of connection to the Tao has meant that the psychological development of Western civilization has been markedly different from the East"s. In the West there has been a steady focus on the ego and on the god of the ego — the monotheistic ideal.
 
 ## The Paranoid Male Ego Projected as God
 
@@ -34,7 +34,7 @@ Our estrangement from nature and the unconscious became entrenched roughly two t
 
 Wherever and whenever the ego function began to form, it was akin to a calcareous tumor or a blockage in the energy of the psyche. The use of psychedelic plants in a context of shamanic initiation dissolved — as it dissolves today — the knotted structure of the ego into undifferentiated feeling, what [[mckenna-dominator-vs-partnership-society-model]] within the context of modern civilization. This revival would include the reintegration of psychoactive plants into religious and therapeutic practice, the restoration of the feminine principle in both religion and social organization, and the development of a new ecological consciousness grounded in the recognition of human embeddedness in the natural world.
 
-The Eastern religious traditions — particularly Hinduism, Buddhism, and Taoism — offered, in McKenna's view, important models for this revival. Unlike Western monotheism, these traditions preserve techniques of ecstasy (including, in some cases, the ritual use of psychoactive plants), maintain a sense of the divine as immanent rather than transcendent, and emphasize the interconnection of all beings rather than the authority of a single deity.
+The Eastern religious traditions — particularly Hinduism, Buddhism, and Taoism — offered, in McKenna"s view, important models for this revival. Unlike Western monotheism, these traditions preserve techniques of ecstasy (including, in some cases, the ritual use of psychoactive plants), maintain a sense of the divine as immanent rather than transcendent, and emphasize the interconnection of all beings rather than the authority of a single deity.
 
 McKenna also pointed to the psychedelic counterculture of the 1960s as a spontaneous eruption of partnership values within the heart of dominator civilization. The movement's emphasis on community, ecological awareness, gender equality, and direct spiritual experience — all facilitated by the use of psychedelic substances — represented, for McKenna, the first stirrings of a genuine Archaic Revival, one that could potentially transform Western civilization from within.
 
@@ -52,7 +52,7 @@ The suppression of Goddess worship and the rise of male sky-god monotheism thus 
 
 ## Wasson, Eliade, and the Origins Debate
 
-The scholarly debate over the origins of religion in psychoactive plant use centers on the disagreement between R. Gordon Wasson, who argued that [[emcdda-hallucinogenic-mushrooms-emerging-trend-europe]] were the original religious sacrament, and Mircea Eliade, who considered "narcotic" shamanism a late and decadent development. McKenna firmly sided with Wasson, arguing that Eliade's position reflected a bias toward textual and doctrinal religion — precisely the kind of religion that arises when direct experience has been lost.
+The scholarly debate over the origins of religion in psychoactive plant use centers on the disagreement between R. Gordon Wasson, who argued that [[emcdda-hallucinogenic-mushrooms-emerging-trend-europe]] were the original religious sacrament, and Mircea Eliade, who considered "narcotic" shamanism a late and decadent development. McKenna firmly sided with Wasson, arguing that Eliade"s position reflected a bias toward textual and doctrinal religion — precisely the kind of religion that arises when direct experience has been lost.
 
 The Wasson-Eliade debate has broader implications for the understanding of religious evolution. If Wasson is correct, then all of the world's religions are, at their root, responses to the same type of psychoactive experience — an experience that has been progressively diluted, symbolized, and institutionalized as access to the original sacrament has been lost. This reading suggests that the common core of the world's religions is not a set of theological propositions but a type of experience — one that psychedelic plants can reliably reproduce.
 

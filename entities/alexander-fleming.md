@@ -12,7 +12,7 @@ Sir Alexander Fleming (1881–1955) was a Scottish bacteriologist and pharmacolo
 
 ### The 1928 Discovery
 
-Upon returning from vacation to his laboratory at St. Mary's Hospital in London, Fleming noticed that a petri dish containing *Staphylococcus* bacteria had been contaminated by a fungus. Remarkably, no bacteria were growing in the area surrounding the fungal colony. The fungus—identified as *[[penicillium-notatum]]*—was secreting a substance that inhibited bacterial growth. Fleming named this substance penicillin.
+Upon returning from vacation to his laboratory at St. Mary"s Hospital in London, Fleming noticed that a petri dish containing *Staphylococcus* bacteria had been contaminated by a fungus. Remarkably, no bacteria were growing in the area surrounding the fungal colony. The fungus—identified as *[[penicillium-notatum]]*—was secreting a substance that inhibited bacterial growth. Fleming named this substance penicillin.
 
 ### From Curiosity to Miracle Drug
 

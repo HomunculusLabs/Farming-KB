@@ -4,7 +4,7 @@ aliases:
   - partnership-and-dominator-cultures-in-human-history organization.
 ---
 
-McKenna describes Eisler's work as a brilliant synthesis of the emergence of human culture in the ancient Near East and the unfolding political debate concerning the feminizing of culture and the need to overcome patterns of male dominance in creating a viable future. Her contribution was to move the discussion from the crude binary of matriarchy versus patriarchy to a more sophisticated understanding of how partnership and dominator tendencies coexist and compete within and between societies.
+McKenna describes Eisler"s work as a brilliant synthesis of the emergence of human culture in the ancient Near East and the unfolding political debate concerning the feminizing of culture and the need to overcome patterns of male dominance in creating a viable future. Her contribution was to move the discussion from the crude binary of matriarchy versus patriarchy to a more sophisticated understanding of how partnership and dominator tendencies coexist and compete within and between societies.
 
 ## Characteristics of Partnership Culture
 
@@ -42,13 +42,13 @@ The Archaic attitude toward community, substance use, and nature served our noma
 
 In the prehistoric but post-Archaic times of about 5000 to 3000 B.C., suppression [[mckenna-fall-of-partnership-society]] by patriarchal invaders set the stage for suppression of the open-ended experimental investigation of nature carried on by shamans. In highly organized societies that Archaic tradition was replaced by one of dogma, priestcraft, patriarchy, warfare, and eventually "rational and scientific" or dominator values.
 
-The terror the ego feels in contemplating the dissolution of boundaries between self and world not only lies behind the suppression of altered states of consciousness but, more generally, explains the suppression of the feminine, the foreign and exotic, and transcendental experiences. When the knowledge of the mystery was finally lost after long centuries of slow forgetting, migration, and climatic change, humanity traded partnership for dominance, traded harmony with nature for rape of nature, and traded poetry for the sophistry of science. In McKenna's vivid phrase, humanity traded its birthright as partners in the drama of the living mind of the planet for the broken pot shards of history, warfare, and neurosis.
+The terror the ego feels in contemplating the dissolution of boundaries between self and world not only lies behind the suppression of altered states of consciousness but, more generally, explains the suppression of the feminine, the foreign and exotic, and transcendental experiences. When the knowledge of the mystery was finally lost after long centuries of slow forgetting, migration, and climatic change, humanity traded partnership for dominance, traded harmony with nature for rape of nature, and traded poetry for the sophistry of science. In McKenna"s vivid phrase, humanity traded its birthright as partners in the drama of the living mind of the planet for the broken pot shards of history, warfare, and neurosis.
 
 ## The Dominator Inheritance
 
 McKenna characterizes modern Western culture as "self-toxified by the poisonous by-products of technology and egocentric ideology," the unhappy inheritor of the dominator attitude that alteration of consciousness by the use of plants or substances is somehow wrong, onanistic, and perversely antisocial.
 
-The suppression of shamanic gnosis, with its reliance and insistence on ecstatic dissolution of the ego, has, in McKenna's view, "robbed us of life's meaning and made us enemies of the planet, of ourselves, and our grandchildren." The dominator inheritance is the premise that we are killing the planet in order to keep intact the wrongheaded assumptions of the ego-dominator cultural style. It is time for change.
+The suppression of shamanic gnosis, with its reliance and insistence on ecstatic dissolution of the ego, has, in McKenna"s view, "robbed us of life"s meaning and made us enemies of the planet, of ourselves, and our grandchildren." The dominator inheritance is the premise that we are killing the planet in order to keep intact the wrongheaded assumptions of the ego-dominator cultural style. It is time for change.
 
 ## Alienation as Consequence
 

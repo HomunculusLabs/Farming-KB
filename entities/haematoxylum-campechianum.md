@@ -11,7 +11,6 @@ date: 2026-05-08
 updated: 2026-05-08
 sources:
   - Cook, B.F. (1949). "Logwood: History, Uses, and Trade." Economic Botany, 3(4), 383–397.---
----
 
 ## Overview
 

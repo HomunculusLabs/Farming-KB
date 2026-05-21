@@ -33,7 +33,7 @@ Documented medicinal benefits include antibacterial properties, protective effec
 
 Clove contains approximately 4% (E)-beta-caryophyllene. Despite its lower (E)-BCP content relative to other spices on this list, clove is used in larger quantities in many cuisines and traditional medicine systems, making it a meaningful dietary contributor.
 
-The essential oil of clove has been extensively studied and shown to work as an analgesic (particularly for dental pain, which is clove's most famous traditional use), anti-inflammatory, antioxidant, antimicrobial, antifungal, antiviral (active against Herpes simplex I and II and hepatitis C), antibacterial (including against several multi-drug-resistant Staphylococcus epidermidis strains), anticancer, cancer protective (skin and lung), antidiabetic, and insect repellent. Clove also contains aphrodisiac properties, and clove-based creams have been found effective in treating chronic anal fissures.
+The essential oil of clove has been extensively studied and shown to work as an analgesic (particularly for dental pain, which is clove"s most famous traditional use), anti-inflammatory, antioxidant, antimicrobial, antifungal, antiviral (active against Herpes simplex I and II and hepatitis C), antibacterial (including against several multi-drug-resistant Staphylococcus epidermidis strains), anticancer, cancer protective (skin and lung), antidiabetic, and insect repellent. Clove also contains aphrodisiac properties, and clove-based creams have been found effective in treating chronic anal fissures.
 
 ### Sri Lanka Cinnamon (Cinnamomum zeylanicum) — 7-11%
 

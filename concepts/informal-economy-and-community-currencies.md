@@ -22,7 +22,7 @@ While simple barter works well for one-to-one exchanges, it becomes limited by t
 
 ## Labor Exchange Groups
 
-Labor exchange groups formalize the barter of human effort. Members pool their labor for collective projects, with each person's contribution recorded and reciprocated over time. These groups are particularly effective for large-scale tasks that would be impossible or unaffordable for individuals acting alone — building homes, establishing [[gaias-garden-creating-community-gardens]], or constructing shared infrastructure.
+Labor exchange groups formalize the barter of human effort. Members pool their labor for collective projects, with each person"s contribution recorded and reciprocated over time. These groups are particularly effective for large-scale tasks that would be impossible or unaffordable for individuals acting alone — building homes, establishing [[gaias-garden-creating-community-gardens]], or constructing shared infrastructure.
 
 ### The Bendigo Home Builder's Club
 
@@ -38,7 +38,7 @@ The egalitarian valuation of labor is perhaps the most radical aspect of this mo
 
 ## Community Barter Clubs
 
-Community Barter Clubs extend the labor exchange concept to include goods and services beyond construction. Members operate a system of **debits and credits** — when you provide a good or service to another member, your account is credited; when you receive, your account is debited. This creates a closed-loop economy where the community's internal trade circulates value without requiring external currency.
+Community Barter Clubs extend the labor exchange concept to include goods and services beyond construction. Members operate a system of **debits and credits** — when you provide a good or service to another member, your account is credited; when you receive, your account is debited. This creates a closed-loop economy where the community"s internal trade circulates value without requiring external currency.
 
 The accounting framework of barter clubs effectively creates a [[mollison-local-currency-systems-and-community-banking]], even though no physical tokens change hands. The record-keeping system itself becomes the medium of exchange, tracking who owes what to whom across the entire network of members.
 
@@ -72,7 +72,7 @@ This inclusion is not charity — it is genuine economic participation. The LET 
 
 While informal systems provide grassroots resilience, permaculture also recognizes the value of formal economic structures organized on cooperative principles. True cooperatives adhere to a well-established set of guiding principles:
 
-- **Open membership** — anyone who can use the cooperative's services may join
+- **Open membership** — anyone who can use the cooperative"s services may join
 - **Democratic organization** — each member has one vote regardless of capital contributed
 - **Limited interest on share capital** — returns to investors are capped to prevent exploitation
 - **Surplus belongs to members** — profits are distributed according to use, not investment

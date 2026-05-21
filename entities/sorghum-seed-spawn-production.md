@@ -20,7 +20,7 @@ Sorghum seed spawn production is a key technique [[sorghum-bicolor]]) are used a
 ## Key Facts
 
 - Sorghum seeds serve as the grain substrate for multiplying mushroom mycelium
-- Constitutes Step 4 in the FAO 20-step [[mushroom-cultivation-disabilities-nine-week-training-program]]'s inclusion of spawn production (rather than just using purchased spawn) gives disabled farmers greater self-sufficiency and cost control. Trainees who master sorghum seed spawn production can reduce their input costs, ensure spawn quality, and even develop spawn sales as an additional revenue stream. The technique demonstrates how core mycological skills can be adapted for diverse learners.
+- Constitutes Step 4 in the FAO 20-step [[mushroom-cultivation-disabilities-nine-week-training-program]]"s inclusion of spawn production (rather than just using purchased spawn) gives disabled farmers greater self-sufficiency and cost control. Trainees who master sorghum seed spawn production can reduce their input costs, ensure spawn quality, and even develop spawn sales as an additional revenue stream. The technique demonstrates how core mycological skills can be adapted for diverse learners.
 
 ## Sources
 

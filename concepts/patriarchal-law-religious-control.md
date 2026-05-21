@@ -26,7 +26,7 @@ The author describes a dual-tongued approach: "out of one side comes the illusio
 
 ## The Control of Sexuality
 
-The author states plainly: "If you can control a person's sexuality, you can get them to believe anything." The concept of guilt associated with sex is described as an ancient control tool. The oppressor's position is: "Sex is bad, unless I say it's okay"—requiring licensing and permission for natural human behavior.
+The author states plainly: "If you can control a person"s sexuality, you can get them to believe anything." The concept of guilt associated with sex is described as an ancient control tool. The oppressor"s position is: "Sex is bad, unless I say it"s okay"—requiring licensing and permission for natural human behavior.
 
 Government enforces what the author calls "the religion of the dark lords." There are "far too many forms of totalitarian dictatorship with government-enforced religious law." [[eleusinian-mysteries-psychoactive-fungi-western-civilization]]. The stories of the [[allegro-garden-of-eden-and-delight]], the Flood, and Creation were preserved in cuneiform on clay tablets more than 4,000 years before the Bible was written.
 
@@ -36,11 +36,11 @@ The region also referenced places called Atlantis, Dilmun, and Lemuria—indicat
 
 The author characterizes religion as preying on those "full of guilt and fearful of death." The tactic of the "Dark Lord of evil"—whether manifested in Babylon or America—is to instill guilt and fear, then offer the only route of escape. People surrender their souls to belief systems and then become recruiters of other souls for the same master.
 
-The author argues that before surrendering one's soul to any deity, one should fully research the validity of the system from both viewpoints. "This is the way to really look at anything, look at it completely from both sides."
+The author argues that before surrendering one"s soul to any deity, one should fully research the validity of the system from both viewpoints. "This is the way to really look at anything, look at it completely from both sides."
 
 ## The Prophecy of Continued Repression
 
-If Sitchin's interpretation is correct and the extraterrestrial gods have been with humanity all along, the expected future holds "more of the same old repression and oppression." Even in Mesopotamia, where humanity were slaves of the "Man Gods," those given power "seem doomed to prosper from the suffering of others."
+If Sitchin"s interpretation is correct and the extraterrestrial gods have been with humanity all along, the expected future holds "more of the same old repression and oppression." Even in Mesopotamia, where humanity were slaves of the "Man Gods," those given power "seem doomed to prosper from the suffering of others."
 
 The author notes that in his studies, he has found that all religious systems are wrong—"especially those that are blatantly forceful in their attempt to control the human mind through false moral and dogma systems." The fruits of religion are described as "frustration, depression, and despair." The planetary trajectory is toward a "New World Order" that will force dogma and beliefs on the entire world, with public apathy enabling its advance.
 

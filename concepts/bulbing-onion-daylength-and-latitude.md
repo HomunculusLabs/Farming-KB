@@ -58,7 +58,7 @@ A variety bred to start bulbing when the daylength reaches 15 hours and 34 minut
 
 ## Transplanting for Lunkers
 
-Gardeners seeking to produce extra-large onions often grow their seedlings in flats or trays, putting them out in the garden as soon as spring weather has settled. This gives them a head start. When directly seeded as early as possible, long-day varieties won't achieve "lunker" class, but still make a respectable harvest.
+Gardeners seeking to produce extra-large onions often grow their seedlings in flats or trays, putting them out in the garden as soon as spring weather has settled. This gives them a head start. When directly seeded as early as possible, long-day varieties won"t achieve "lunker" class, but still make a respectable harvest.
 
 ## Water Management
 
@@ -74,7 +74,7 @@ Bulbing onions require constantly moist soil. The usual procedure:
 - Wait a few days and pull them from the earth
 - Loosen the soil first with a shovel if needed
 - Ideally, let them lie on dry soil in the sun to cure for a few days
-- If the weather isn't settled, bring them indoors, spread on a tarp, and allow them to dry until tops have completely shriveled
+- If the weather isn"t settled, bring them indoors, spread on a tarp, and allow them to dry until tops have completely shriveled
 - Store in mesh bags (onion sacks) for lots of [[stamets-growing-room-air-circulation-co2-management]] in cool, dry conditions
 
 ## Saving Seed

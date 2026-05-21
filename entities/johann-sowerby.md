@@ -13,7 +13,7 @@ J. Sowerby was an English mycologist and botanical illustrator, author of *Colou
 
 ### Identification of Psilocybe semilanceata
 
-Sowerby's book included a detailed drawing and description of the mushroom that poisoned the Brande family, identifying it as **"[[agaricus]] glutinosus Curtis"**. His description is fully compatible with current knowledge about *[[psilocybe-semilanceata]]*:
+Sowerby"s book included a detailed drawing and description of the mushroom that poisoned the Brande family, identifying it as **"[[agaricus]] glutinosus Curtis"**. His description is fully compatible with current knowledge about *[[psilocybe-semilanceata]]*:
 
 - Stalks generally single, sometimes clustered, from two to four inches in height
 - Thickness of a goose quill, thread-shaped, whitish, almost solid
@@ -23,7 +23,7 @@ Sowerby's book included a detailed drawing and description of the mushroom that 
 
 ### Taxonomic History
 
-Sowerby's identification was part of the complex taxonomic history of *P. semilanceata*:
+Sowerby"s identification was part of the complex taxonomic history of *P. semilanceata*:
 
 1. **1818**: E. Fries referred to it as "Agaricus semilanceatus" in *Observationes Mycologicae*
 2. **Later synonyms**: *Coprinarius semilanceatus* Fr., *Panaeolus semilanceatus* (Fr.) Lge.
@@ -39,7 +39,7 @@ Sowerby's identification was part of the complex taxonomic history of *P. semila
 
 ## Relevance to Cultivation and Mycology
 
-Sowerby's detailed illustration and description, created over 200 years ago, remain accurate by modern standards. This demonstrates the enduring quality of careful morphological observation in [[mycology]]. His work bridged the gap between the Brande poisoning incident and formal taxonomic classification of the species.
+Sowerby"s detailed illustration and description, created over 200 years ago, remain accurate by modern standards. This demonstrates the enduring quality of careful morphological observation in [[mycology]]. His work bridged the gap between the Brande poisoning incident and formal taxonomic classification of the species.
 
 ## Key Facts
 

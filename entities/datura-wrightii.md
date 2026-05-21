@@ -16,7 +16,7 @@ sources:
 
 ## Datura wrightii
 
-**Datura wrightii** Regel, commonly known as sacred datura, angel's trumpet, thornapple, or toloache (from Nahuatl *tloloxóchitl*, meaning "the plant that makes one crazy"), is a perennial herbaceous plant in the family Solanaceae. It is native to the southwestern [[scopolamine]] and [[atropine]] being the racemic form of hyoscyamine). The total alkaloid content of the plant varies depending on the plant part, age, growing conditions, season, and genetic factors, but typically ranges from 0.2% to 0.8% of dry weight in the leaves, and can be higher in the seeds.
+**Datura wrightii** Regel, commonly known as sacred datura, angel"s trumpet, thornapple, or toloache (from Nahuatl *tloloxóchitl*, meaning "the plant that makes one crazy"), is a perennial herbaceous plant in the family Solanaceae. It is native to the southwestern [[scopolamine]] and [[atropine]] being the racemic form of hyoscyamine). The total alkaloid content of the plant varies depending on the plant part, age, growing conditions, season, and genetic factors, but typically ranges from 0.2% to 0.8% of dry weight in the leaves, and can be higher in the seeds.
 
 The leaves and seeds are the most alkaloid-rich parts of the plant. A notable chemical characteristic of *Datura wrightii* is that scopolamine generally predominates over hyoscyamine, which distinguishes it from *Datura stramonium* (jimsonweed), where hyoscyamine typically predominates. This scopolamine-dominant profile is shared with *Datura inoxia* and is one of the features used to distinguish these species from *D. stramonium* chemically.
 
@@ -40,7 +40,7 @@ There is no specific antidote for tropane alkaloid poisoning; treatment is suppo
 
 *Datura wrightii* occupies a prominent place in the folklore and oral traditions of the indigenous peoples of the American Southwest. Among the Pueblo peoples, the plant is associated with both healing and danger. Stories warn of the consequences of improper use and describe shamans who used the plant to travel to the spirit world and return with knowledge of healing and the future.
 
-In Mexican folk tradition, toloache is associated with love magic (brujería de amor) and is sometimes used in preparations intended to influence romantic attraction or fidelity. The plant's common name "angel's trumpet" refers to the shape of the flower and its association with spiritual realms, while the alternate name "devil's weed" (hierba del diablo) reflects the belief that the plant can cause madness or possession.
+In Mexican folk tradition, toloache is associated with love magic (brujería de amor) and is sometimes used in preparations intended to influence romantic attraction or fidelity. The plant"s common name "angel"s trumpet" refers to the shape of the flower and its association with spiritual realms, while the alternate name "devil"s weed" (hierba del diablo) reflects the belief that the plant can cause madness or possession.
 
 The plant has also been used historically by European settlers and physicians in the American Southwest. In the 19th and early 20th centuries, *Datura wrightii* preparations were used in American folk medicine as an antispasmodic (particularly for asthma), an analgesic, and a sedative. The dried leaves were sometimes smoked in asthma cigarettes, a practice that continued into the 20th century.
 

@@ -35,7 +35,7 @@ The button stage is when the mushroom is actively expanding, drawing on the nutr
 
 Buttons ultimately develop into **mature mushrooms**. Under the best conditions for commercial mushroom production, a week to ten days elapses between the appearance of pin heads and full maturity. Commercial mushrooms are graded highest if picked just before the **veil breaks** — the partial veil (annulus) connecting the cap margin to the stem ruptures, exposing the gills.
 
-Once the veil breaks, the mushroom enters its spore-producing phase. The gills, now exposed, begin releasing spores into the air. While this is natural from the organism's perspective, it represents a decline in culinary quality — the mushroom's texture becomes softer, flavor may diminish, and shelf life decreases. For this reason, commercial harvest timing is critical to product quality. The grower must inspect beds daily and harvest mushrooms at the optimal stage of maturity.
+Once the veil breaks, the mushroom enters its spore-producing phase. The gills, now exposed, begin releasing spores into the air. While this is natural from the organism"s perspective, it represents a decline in culinary quality — the mushroom's texture becomes softer, flavor may diminish, and shelf life decreases. For this reason, commercial harvest timing is critical to product quality. The grower must inspect beds daily and harvest mushrooms at the optimal stage of maturity.
 
 ## Nutrient Accumulation
 

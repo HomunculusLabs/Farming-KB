@@ -9,7 +9,7 @@ tags: [tool, soil-preparation, aeration, manual-tool]
 
 ## Description
 
-The broadfork (also known as a U-bar digger or grelinette) is a human-powered deep soil aeration tool used extensively at [[four-season-farm]] as the first step in preparing greenhouse beds for replanting between succession crops. Unlike a rototiller, the broadfork loosens and aerates soil without inverting it, preserving soil structure, microbial communities, and natural layering. It is the primary deep-soil intervention in Coleman's greenhouse soil preparation workflow.
+The broadfork (also known as a U-bar digger or grelinette) is a human-powered deep soil aeration tool used extensively at [[four-season-farm]] as the first step in preparing greenhouse beds for replanting between succession crops. Unlike a rototiller, the broadfork loosens and aerates soil without inverting it, preserving soil structure, microbial communities, and natural layering. It is the primary deep-soil intervention in Coleman"s greenhouse soil preparation workflow.
 
 ## Classification
 

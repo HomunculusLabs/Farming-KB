@@ -7,7 +7,7 @@ tags: [product, value-added, medicinal, food-preservation, honey]
 
 ## Description
 
-Mushroom honey is a medicinal preparation made by combining powdered dried mushrooms with raw honey. The honey serves as both a preservation medium (naturally antibiotic, resistant to spoilage) and a delivery system for the mushroom's [[cordyceps-cancer-bioactive-compounds]]. Tradd Cotter describes it as a "potent medicinal remedy" that combines honey's proven [[medicinal-mushroom-antimicrobial-properties]] with the antibacterial and antiviral properties of specific mushroom species. Historical precedent includes ancient Egyptians storing mushroom extracts in honey, with analysis confirming retained potency after more than four thousand years.
+Mushroom honey is a medicinal preparation made by combining powdered dried mushrooms with raw honey. The honey serves as both a preservation medium (naturally antibiotic, resistant to spoilage) and a delivery system for the mushroom"s [[cordyceps-cancer-bioactive-compounds]]. Tradd Cotter describes it as a "potent medicinal remedy" that combines honey"s proven [[medicinal-mushroom-antimicrobial-properties]] with the antibacterial and antiviral properties of specific mushroom species. Historical precedent includes ancient Egyptians storing mushroom extracts in honey, with analysis confirming retained potency after more than four thousand years.
 
 ## Classification
 

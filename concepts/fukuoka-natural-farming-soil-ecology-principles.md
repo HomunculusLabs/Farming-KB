@@ -9,7 +9,7 @@ type: concept
 tags: [ecology, fukuoka, natural-farming, principles, soil]
 ---
 ## Fukuoka Natural Farming Soil Ecology Principles
-Masanobu Fukuoka's natural farming rests on a fundamentally different
+Masanobu Fukuoka"s natural farming rests on a fundamentally different
 understanding of soil ecology than conventional or even organic agriculture.
 His decades of observation on his farm in Ehime Prefecture, Japan, led him to
 conclude that soil naturally maintains and builds its own fertility when

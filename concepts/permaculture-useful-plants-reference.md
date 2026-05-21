@@ -108,7 +108,7 @@ Catalog of multi-functional perennial plants for permaculture design, extracted 
 
 ### Edge Principle
 
-- "There's more edge and vertical growing space than you can shake a stick at in the city"
+- "There"s more edge and vertical growing space than you can shake a stick at in the city"
 - Many plants yield best on edges: hazelnuts, blackberries, grapes
 - Urban environments maximize edge — walls, fences, rooftops, alleys
 
@@ -116,7 +116,7 @@ Catalog of multi-functional perennial plants for permaculture design, extracted 
 
 - Start with pioneer/nurse plants (alder, acacia) to prepare sites
 - Progress to canopy trees with productive understorey
-- "Long after your swales and check dams have silted up, they'll be visible as lines of trees along the hillsides"
+- "Long after your swales and check dams have silted up, they"ll be visible as lines of trees along the hillsides"
 
 ## Related Pages
 

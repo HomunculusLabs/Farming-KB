@@ -3,7 +3,7 @@ title: "How Do I Grow and Use Hawthorn in My Garden?"
 tags: [query, hawthorn, medicinal-herbs, permaculture-shrubs, heart-health]
 date: 2026-05-19
 updated: 2026-05-19
-sources: ['raw/papers/what-a-plant-knows-daniel-chamovitz.md']
+sources: ["raw/papers/what-a-plant-knows-daniel-chamovitz.md']
 ---
 
 ## How Do I Grow and Use Hawthorn in My Garden?

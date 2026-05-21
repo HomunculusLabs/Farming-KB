@@ -4,13 +4,13 @@ source: julius-auboineau-palmer-about-mushrooms.md
 type: concept
 ---
 
-## Palmer's Advocacy for Toadstool Eating and Mycology
+## Palmer"s Advocacy for Toadstool Eating and Mycology
 
 ## Historical Context of Mycological Ignorance
 
-Julius A. Palmer Jr., writing in the late 19th century, documented the widespread ignorance surrounding mushrooms and toadstools in America. In his 1893 article "Toadstool Eating" published in the Boston Journal, he described how the general public regarded all fungi with suspicion and fear. The common sentiment was captured by an audience member who declared: "Toadstools are nasty things; nobody knows anything about 'em. Let 'em alone, and they'll never hurt you."
+Julius A. Palmer Jr., writing in the late 19th century, documented the widespread ignorance surrounding mushrooms and toadstools in America. In his 1893 article "Toadstool Eating" published in the Boston Journal, he described how the general public regarded all fungi with suspicion and fear. The common sentiment was captured by an audience member who declared: "Toadstools are nasty things; nobody knows anything about "em. Let 'em alone, and they'll never hurt you."
 
-Palmer traced his own interest to childhood curiosity, when inquiries about the snowy white puffball were met with dismissal: "It's a toadstool, child; throw it away, it's poison." Magazine literature of the era offered little more than traditional folklore — stories of fungi growing from iron overnight, the Emperor Claudius being poisoned by a boletus, and the Czar Nicholas dying from a *muscaris*.
+Palmer traced his own interest to childhood curiosity, when inquiries about the snowy white puffball were met with dismissal: "It"s a toadstool, child; throw it away, it's poison." Magazine literature of the era offered little more than traditional folklore — stories of fungi growing from iron overnight, the Emperor Claudius being poisoned by a boletus, and the Czar Nicholas dying from a *muscaris*.
 
 ## Failure of Institutional Knowledge
 
@@ -22,7 +22,7 @@ Palmer documented the failure of virtually every institution of learning to prov
 
 Foreign textbooks compounded the problem by indiscriminately labeling any unpleasant plant as "poisonous," failing to distinguish between the genuinely deadly *Amanita* and merely acrid species like Boleti, Lactarii, and Russulae whose unpleasant qualities could be neutralized by cooking.
 
-## Palmer's Scientific Approach
+## Palmer"s Scientific Approach
 
 Palmer's first article appeared in *Popular Science Monthly* in May 1877. His most valuable early work was published by the *Moniteur Scientifique* of Paris in February 1879, while he commanded the ship "Island Home" at Marseilles. This was reportedly the first attempt to segregate the Amanitae from other non-esculent mushrooms and to define the action of their poison.
 
@@ -50,13 +50,13 @@ A widespread belief held that mushrooms changing color when bruised or cut were 
 
 ## Collaboration with Paul Casamajor
 
-Palmer's work gained scientific credibility through his collaboration with Paul Casamajor, head chemist of the Havemeyer sugar refineries, described by associates as "one of the most distinguished chemists in the world" and a correspondent of Pasteur. Casamajor was Palmer's disciple for ten years and provided rigorous chemical validation of his findings.
+Palmer"s work gained scientific credibility through his collaboration with Paul Casamajor, head chemist of the Havemeyer sugar refineries, described by associates as "one of the most distinguished chemists in the world" and a correspondent of Pasteur. Casamajor was Palmer"s disciple for ten years and provided rigorous chemical validation of his findings.
 
 Casamajor's testament to Palmer's skill was memorable: "In taking a ship around the world there are thousands that can equal you; in speaking foreign languages you will own that there are many who excel you; but where is the man who can step into a grove, pick up a score of different toadstools, make a meal on them and live to write about it?"
 
 ## Legacy
 
-Palmer's mushroom charts, published by L. Prang and Company, represented the first American illustrated guide to [[classification-of-edible-and-poisonous-mushroom-families]] mushrooms. The *North Carolina Medical Journal* praised them as superior to both the French Cordier and English [[worthington-smith]] charts. Palmer also acknowledged debts to superintendents of public grounds, medical and scientific professionals, and the librarians of horticultural and natural history societies.
+Palmer"s mushroom charts, published by L. Prang and Company, represented the first American illustrated guide to [[classification-of-edible-and-poisonous-mushroom-families]] mushrooms. The *North Carolina Medical Journal* praised them as superior to both the French Cordier and English [[worthington-smith]] charts. Palmer also acknowledged debts to superintendents of public grounds, medical and scientific professionals, and the librarians of horticultural and natural history societies.
 
 His work laid the foundation for American mycophagy and [[palmer-mushroom-charts-american-mycological-education]], transforming mushrooms from feared "toadstools" into recognized subjects of scientific study and gastronomic exploration.
 ## Key Characteristics

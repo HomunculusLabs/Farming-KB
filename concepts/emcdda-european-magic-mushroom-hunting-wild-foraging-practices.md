@@ -29,7 +29,7 @@ The EMCDDA documented the emergence of internet resources specifically dedicated
 - **Trip reports:** Community forums where users share experiences, dosage information, and foraging tips.
 - **Regional sites:** Country-specific websites such as Copenhagen Mushroom Link (Denmark), Champis (France), Norshroom (Norway), and Svampinfo (Sweden).
 
-The Shroomery (http://www.shroomery.org) was identified as a major international resource providing both cultivation information and wild [[guzman-panaeolina-foenisecii-psilocybin-controversy-conflicting-chemical-analyses]]:** This very common lawn mushroom (haymaker's mushroom) is frequently encountered in the same habitats as P. semilanceata and has been the subject of [[fungal-microscopic-examination-mounting-media-techniques]] for reliable identification.
+The Shroomery (http://www.shroomery.org) was identified as a major international resource providing both cultivation information and wild [[guzman-panaeolina-foenisecii-psilocybin-controversy-conflicting-chemical-analyses]]:** This very common lawn mushroom (haymaker"s mushroom) is frequently encountered in the same habitats as P. semilanceata and has been the subject of [[fungal-microscopic-examination-mounting-media-techniques]] for reliable identification.
 
 The EMCDDA stressed that the primary distinguishable feature of most psilocybin-containing mushrooms — the blue bruising reaction — provides a helpful but not infallible identification aid. Some psilocybin species show weak bluing, and at least one toxic species (Galerina) does not blue.
 

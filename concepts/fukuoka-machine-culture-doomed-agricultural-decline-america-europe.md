@@ -6,7 +6,7 @@ tags: [natural-farming, industrial-agriculture, machine-culture, desertification
 
 ## The Machine Culture Is Doomed
 
-## Fukuoka's Diagnosis of Industrial Civilization
+## Fukuoka"s Diagnosis of Industrial Civilization
 
 [[eleusinian-mysteries-psychoactive-fungi-western-civilization]] is inherently destructive and ultimately doomed to
 collapse. His observations were not theoretical abstractions but grounded in

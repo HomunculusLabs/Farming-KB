@@ -9,7 +9,7 @@ sources:
 ---
 ## Ingham — Nutrient Cycling Through the Soil Food Web
 
-Elaine Ingham's model of nutrient cycling centers on the soil food web as the engine that makes nutrients available to plants. Nutrients in organic matter, compost, and mineral sources are not directly plant-available — they must be processed through biological cycling. The form of nitrogen, phosphorus, and other elements matters critically.
+Elaine Ingham"s model of nutrient cycling centers on the soil food web as the engine that makes nutrients available to plants. Nutrients in organic matter, compost, and mineral sources are not directly plant-available — they must be processed through biological cycling. The form of nitrogen, phosphorus, and other elements matters critically.
 
 ## The Bacteria-First, Fungi-Second Cycle
 

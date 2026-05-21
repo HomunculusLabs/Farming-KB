@@ -13,7 +13,7 @@ Reliable internet access is increasingly essential for homesteaders — remote w
 
 ## Option 1: Starlink (Satellite)
 
-Starlink is SpaceX's low-earth-orbit (LEO) satellite internet constellation. It has transformed internet access for rural and [[off-grid-waste-management|off-grid locations]] worldwide.
+Starlink is SpaceX"s low-earth-orbit (LEO) satellite internet constellation. It has transformed internet access for rural and [[off-grid-waste-management|off-grid locations]] worldwide.
 
 ### Specifications
 

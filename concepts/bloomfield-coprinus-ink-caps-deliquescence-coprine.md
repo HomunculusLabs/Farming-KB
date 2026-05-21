@@ -24,11 +24,11 @@ type: concept
 
 The genus Coprinus, commonly known as ink caps, comprises mushrooms noted for their bell-shaped caps and the remarkable phenomenon of deliquescence, in which the gills liquefy into a black inky fluid as the fruiting body matures. The group includes both prized edible species and dangerously poisonous ones, and has served as an important model organism for studies of [[mycology]]. Their rapid life cycle, dramatic deliquescence, and complex mating systems have made them subjects of intensive scientific investigation spanning more than a century.
 
-## Lawyer's W coprinus comatus atus)
+## Lawyer"s W coprinus comatus atus)
 
 Coprinus comatus, called the lawyer's wig or shaggy mane, is the most recognizable ink cap. Young fruiting bodies emerge from wet lawns as white spindles with rounded tips, standing taller than stinkhorns and recalling photographs of ballistic missiles streaking from their silos. As the mushroom ages, the bottom edges of its gills begin to blacken and the elegant bell-shaped cap begins to resemble a ragged flag hanging from its pole.
 
-The species was the probable inspiration for Shelley's description in his poem "The Sensitive Plant" (1820): "Their moss rotted off them, flake by flake, Till the thick stalk stuck like a murderer's stake, Where rags of loose flesh yet tremble on high, Infecting the winds that wander by." This literary reference attests to the striking visual impression made by aging ink caps.
+The species was the probable inspiration for Shelley's description in his poem "The Sensitive Plant" (1820): "Their moss rotted off them, flake by flake, Till the thick stalk stuck like a murderer"s stake, Where rags of loose flesh yet tremble on high, Infecting the winds that wander by." This literary reference attests to the striking visual impression made by aging ink caps.
 
 Picked before they begin to blacken, lawyer's wigs are considered quite tasty among mycophagists. The bell-shaped cap is particularly effective at slowing air movement beneath the fertile tissues, so that spores fall through calm air for a few tenths of a second. This may reduce the number of spores blown back into the cap, promoting dispersal.
 

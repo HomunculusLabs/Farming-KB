@@ -12,7 +12,7 @@ sources:
 
 **Updated:** 2026-04-18
 
-Bioregional organization is a social and political framework based on the idea that human communities should be organized around natural ecological boundaries (bioregions) rather than arbitrary political borders. It forms a key part of permaculture's vision for sustainable society, as articulated in Mollison's "Alternative Nation" chapter.
+Bioregional organization is a social and political framework based on the idea that human communities should be organized around natural ecological boundaries (bioregions) rather than arbitrary political borders. It forms a key part of permaculture"s vision for sustainable society, as articulated in Mollison's "Alternative Nation" chapter.
 
 ## The Bioregional Concept
 

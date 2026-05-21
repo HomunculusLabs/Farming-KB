@@ -67,7 +67,7 @@ Selling homestead products online extends reach beyond local markets and creates
 
 ### Food Shipping Requirements
 - Labeling: FDA requires product name, net weight, ingredients, business name/address
-- Cottage food products: must comply with your state's cottage food law (most restrict to in-state sales)
+- Cottage food products: must comply with your state"s cottage food law (most restrict to in-state sales)
 - Interstate commerce: selling food across state lines generally requires a commercial kitchen and FDA registration
 - Alcohol: hot sauces with high vinegar content are generally fine; check ABV (must be non-alcoholic)
 

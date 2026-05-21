@@ -6,7 +6,7 @@ type: concept
 
 ## Marketing Local Winter Produce
 
-Marketing high-quality local winter vegetables requires distinguishing small-farm produce from both conventional and industrial organic alternatives. [[eliot-coleman]]'s approach centers on the concepts of **freshness** and **local identity** as the key selling points that command premium prices and build loyal customer relationships.
+Marketing high-quality local winter vegetables requires distinguishing small-farm produce from both conventional and industrial organic alternatives. [[eliot-coleman]]"s approach centers on the concepts of **freshness** and **local identity** as the key selling points that command premium prices and build loyal customer relationships.
 
 ## The Case for Fresh and Local
 
@@ -24,7 +24,7 @@ The word "organic" is no longer an adequate distinction. The important words are
 
 [[four-season-farm]] uses distinctive reusable wooden boxes for delivery:
 
-- **Dimensions**: 12 × 16 × 8 inches, homemade from native Maine cedar trees cut on the farm and milled at a neighbor's sawmill.
+- **Dimensions**: 12 × 16 × 8 inches, homemade from native Maine cedar trees cut on the farm and milled at a neighbor"s sawmill.
 - **Motivation**: After learning that 25% of the volume in the average landfill is food-packaging waste, the farm chose to create permanent reusable boxes rather than contribute to the waste stream.
 - **Finish**: Sanded smooth and coated with food-grade finish. The trademark "Seasonal Salads" is burned into the end boards with a branding iron.
 - **Size rationale**: Determined by measuring produce coolers in stores and the cargo space of the family car. At startup, up to 48 boxes fit in the back of a Subaru.
@@ -70,7 +70,7 @@ In forty years of growing crops and feeding livestock and people, Coleman has ob
 Peer-reviewed research increasingly documents the nutritional superiority of organically raised food. Winter-harvested crops may offer an additional benefit:
 
 - Highly colored foods grown under cool conditions have been shown to be much higher in **anthocyanins**, one of the most valuable antioxidant compounds.
-- This is visibly demonstrated in the much deeper red color of red lettuces and 'Bull's Blood' beet leaves harvested from winter greenhouses.
+- This is visibly demonstrated in the much deeper red color of red lettuces and "Bull's Blood' beet leaves harvested from winter greenhouses.
 - Green leaves can also be high in anthocyanins, which plants utilize to resist cold.
 
 ### Health Assurance

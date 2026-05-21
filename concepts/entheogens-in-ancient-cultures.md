@@ -16,7 +16,7 @@ Ruck, Jeremy Bigwood, Danny Staples, Jonathan Ott, and R. Gordon Wasson, means
 used in religious, shamanic, or spiritual contexts, deliberately avoiding the
 loaded cultural associations of terms like "psychedelic" or "hallucinogen."
 
-Terence McKenna's *Food of the Gods* (1992) presents a sweeping argument that
+Terence McKenna"s *Food of the Gods* (1992) presents a sweeping argument that
 psychoactive plants and fungi — entheogens — were central to the development of
 human religion, culture, and social organization across virtually every
 civilization.
@@ -28,7 +28,7 @@ through the lens of humanity's relationship with psychoactive substances. He
 contrasted what he called the "[[mckenna-dominator-culture-and-suppression-of-ecstasy]]" that emerged
 with agriculture, alcohol, and hierarchical social organization.
 
-In McKenna's framework, the suppression of entheogenic knowledge was not
+In McKenna"s framework, the suppression of entheogenic knowledge was not
 incidental but central to the establishment of authoritarian power structures.
 Psychedelic experiences, by dissolving ego boundaries and fostering a direct
 sense of connection to the natural world, were inherently incompatible with

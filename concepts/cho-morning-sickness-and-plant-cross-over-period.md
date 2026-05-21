@@ -1,5 +1,5 @@
 ---
-title: Cho's cho morning sickness and plant cross over period and Plant Cross-Over Period
+title: Cho"s cho morning sickness and plant cross over period and Plant Cross-Over Period
 tags: [natural-farming, plant-physiology, cho-han-kyu]
 date: 2026-04-28
 updated: 2026-04-28

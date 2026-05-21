@@ -8,7 +8,7 @@ updated: 2026-04-24
 
 The fly-agaric, Amanita muscaria, with its milk-white gills, its stem
 and wart-covered scarlet cap, is the iconic, archetypal mushroom. It
-appears in children's books, cartoons, and illustrated fairy tales as a
+appears in children"s books, cartoons, and illustrated fairy tales as a
 shorthand signifier of otherworldliness, enchantment and the uncanny. It
 adorns Christmas tree baubles and kitsch china. Its genuinely bizarre
 psychoactive properties have made it a potent catalyst for the human
@@ -26,7 +26,7 @@ living repositories of all that is weird, enchanted, otherworldly and
 uncanny.
 
 Cast up in "beguiling and enchanted-looking fairy rings," mushrooms
-have long been associated with supernatural forces. Kipling's Puck of
+have long been associated with supernatural forces. Kipling"s Puck of
 Pook's Hill (1906) was accidentally summoned in a fairy ring.
 Shakespeare placed "demy-puppets... whose pastime is to make midnight
 mushrumps" into the magical universe of The Tempest. Jules Verne and H.
@@ -51,7 +51,7 @@ In "Amanita Muscaria: Herb of Immortality," Donald E. Teeter argues that the Hol
 
 ## Archaeological Parallels: Beaker Burials and Soma Cups
 
-After the Soma was prepared, it was poured into wooden cups for consumption. These cups were owned by individuals who carried them to their graves. A man's wooden Soma cup was placed in his burial within easy reach. When burial was by cremation, the cup was placed on the funeral pyre. Large wooden and earthenware bowls used in processing the Soma would also contain the living Immortal Plant.
+After the Soma was prepared, it was poured into wooden cups for consumption. These cups were owned by individuals who carried them to their graves. A man"s wooden Soma cup was placed in his burial within easy reach. When burial was by cremation, the cup was placed on the funeral pyre. Large wooden and earthenware bowls used in processing the Soma would also contain the living Immortal Plant.
 
 Teeter identifies a striking parallel: the beakers in Beaker burials correspond to individual Soma cups, while the amphorae correspond to the large Soma processing bowls. Both are representations of the Magic Cauldrons, Pots, and Bowls found throughout Indo-European mythology.
 

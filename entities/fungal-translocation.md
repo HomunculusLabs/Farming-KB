@@ -33,7 +33,7 @@ Fungal translocation is the movement of nutrients, carbon, and water through the
 
 ## Mechanism
 
-Translocation occurs through cytoplasmic streaming within the coenocytic hyphal network. The absence of complete cross-cell walls (or the presence of septa with pores) allows cytoplasmic continuity between adjacent cells, enabling bulk flow and diffusion of dissolved materials. This process is driven by concentration gradients between source regions (where nutrients are being absorbed or stored) and sink regions (where nutrients are being consumed for growth or metabolism). The direction and rate of translocation can change dynamically in response to the fungal colony's needs.
+Translocation occurs through cytoplasmic streaming within the coenocytic hyphal network. The absence of complete cross-cell walls (or the presence of septa with pores) allows cytoplasmic continuity between adjacent cells, enabling bulk flow and diffusion of dissolved materials. This process is driven by concentration gradients between source regions (where nutrients are being absorbed or stored) and sink regions (where nutrients are being consumed for growth or metabolism). The direction and rate of translocation can change dynamically in response to the fungal colony"s needs.
 
 ## Long-Distance Transport via Rhizomorphs
 

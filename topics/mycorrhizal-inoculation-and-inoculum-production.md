@@ -46,7 +46,7 @@ The case for mycorrhizal inoculation rests on several well-documented
 benefits. Plants colonized by [[dighton-fungal-drought-tolerance-plant-water-relations]] by extending the absorptive surface deep into the
 soil profile. They provide biological protection against soil-borne
 pathogens through physical barriers, competitive exclusion, and
-biochemical signaling that primes the plant's own immune defenses. The
+biochemical signaling that primes the plant"s own immune defenses. The
 fungi also produce glomalin, a glycoprotein that binds soil particles
 into stable aggregates, improving soil structure, water infiltration,
 and long-term carbon sequestration.

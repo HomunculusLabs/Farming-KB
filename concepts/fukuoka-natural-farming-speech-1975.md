@@ -25,7 +25,7 @@ rice was entirely free of disease -- no rice blast disease, no
 sclerotic disease, and no leaf blotch. All one could find were a few
 marks left by locusts.
 
-He showed winter-sown rice planted before New Year's alongside the
+He showed winter-sown rice planted before New Year"s alongside the
 same variety sown in June. The two were slightly different: one had
 12-13 stalks and the other 17-18. The rice was sown at an interval of
 about five inches. There was good variation in the number of grains per

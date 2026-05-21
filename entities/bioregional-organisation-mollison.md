@@ -8,7 +8,7 @@ type: entity
 
 ## Description
 
-Bioregional organisation is a permaculture strategy for community self-governance and resource management based on natural regional boundaries rather than political ones. Bill Mollison dedicates Chapter 14.5 of *Permaculture: A Designers' Manual* to this concept, describing it as an association of residents of a natural and identifiable region — defined by watersheds, tribal boundaries, language groups, or ecological zones.
+Bioregional organisation is a permaculture strategy for community self-governance and resource management based on natural regional boundaries rather than political ones. Bill Mollison dedicates Chapter 14.5 of *Permaculture: A Designers" Manual* to this concept, describing it as an association of residents of a natural and identifiable region — defined by watersheds, tribal boundaries, language groups, or ecological zones.
 
 ## Classification
 

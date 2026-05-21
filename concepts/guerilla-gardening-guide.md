@@ -13,7 +13,7 @@ Guerilla gardening is the practice of cultivating food and useful plants on aban
 
 ## Philosophy
 
-"We need to start growing food where we live and reclaiming all this knowledge for ourselves and future generations. We can't keep importing and trucking all of our food all over the globe and let big corporations control the most basic aspect of our lives for us."
+"We need to start growing food where we live and reclaiming all this knowledge for ourselves and future generations. We can"t keep importing and trucking all of our food all over the globe and let big corporations control the most basic aspect of our lives for us."
 
 The approach combines [[permaculture-principles]] with urban activism, using the concepts of edge, stacking, diversity, and closed-loop systems in the city environment.
 
@@ -33,13 +33,13 @@ Cities offer enormous untapped potential:
 ## Key Principles from the Forest
 
 ### Edge
-"There's more edge and vertical growing space than you can shake a stick at in the city." Maximise edge effects -- pond edges, vertical growing, layered plantings.
+"There"s more edge and vertical growing space than you can shake a stick at in the city." Maximise edge effects -- pond edges, vertical growing, layered plantings.
 
 ### Diversity
-"By growing tons of different kinds of things, we're guaranteed to be eating well year round." When onion season ends, leek season begins. Early, mid, and late season apple trees together. Canning, drying, and freezing extend abundance.
+"By growing tons of different kinds of things, we"re guaranteed to be eating well year round." When onion season ends, leek season begins. Early, mid, and late season apple trees together. Canning, drying, and freezing extend abundance.
 
 ### Closed Loops
-"Moving the chickens to where the corn was growing the year before and keep rebuilding the fertility. Just like in the forest, we're in the process of creating a long term self-sustaining cycle filled with different interconnected elements."
+"Moving the chickens to where the corn was growing the year before and keep rebuilding the fertility. Just like in the forest, we"re in the process of creating a long term self-sustaining cycle filled with different interconnected elements."
 
 ## Practical Approaches
 
@@ -47,7 +47,7 @@ Cities offer enormous untapped potential:
 The guide describes the direct approach: "smashing up concrete slabs with a sledgehammer and building raised vegetable beds out of sticks and blackberries just to prove we can grow food even in really crappy soil."
 
 ### Seed Bombs
-Related to [[clay-ball-seed-pellets|Fukuoka's clay pellets]], seed bombs can be tossed into vacant lots, roadside strips, and other neglected areas to establish plants without formal permission.
+Related to [[clay-ball-seed-pellets|Fukuoka"s clay pellets]], seed bombs can be tossed into vacant lots, roadside strips, and other neglected areas to establish plants without formal permission.
 
 ### Community Gardens
 Starting community gardens on abandoned land, building compost systems from organic waste, and creating shared food-growing spaces.
@@ -65,7 +65,7 @@ Black locust, clover, [[comfrey]], [[dandelion]], fruit trees, hawthorn, lavende
 
 ## Social Dimension
 
-"It's so important to bring this stuff into the city, bridge connections between people of different generations and cultures, teach the kids that there's more to life than concrete and hate and fear."
+"It"s so important to bring this stuff into the city, bridge connections between people of different generations and cultures, teach the kids that there's more to life than concrete and hate and fear."
 
 ## Related
 

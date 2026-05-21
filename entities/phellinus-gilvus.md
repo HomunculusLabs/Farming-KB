@@ -36,7 +36,7 @@ The pore surface is golden-yellow to rusty-brown, with pores numbering 5–7 per
 that are angular to daedaleoid. The context is corky and duplex, with a dark
 brown crust and lighter interior. The hymenophore is dimitic, with generative
 hyphae bearing clamp connections and skeletal hyphae that are thick-walled and
-golden in Melzer's reagent.
+golden in Melzer"s reagent.
 
 Basidiospores are broadly ellipsoid to subglobose, 4–5.5 × 3.5–4.5 µm, hyaline,
 smooth, and thick-walled. Setal hyphae are abundant in the context and tubes,

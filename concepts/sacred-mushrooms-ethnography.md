@@ -8,19 +8,19 @@ aliases: [entheogenic mushroom use, traditional mushroom ceremonies, ethnobotany
 
 ## Sacred Mushrooms Ethnography
 
-The ceremonial and religious use of [[neurotropic-fungi]] spans millennia and multiple continents, representing one of humanity's oldest pharmacological traditions. From the Mazatec curanderos of Oaxaca to the Chukchee shamans of Siberia, indigenous peoples have incorporated psychoactive mushrooms into their spiritual, healing, and cosmological frameworks with remarkable sophistication.
+The ceremonial and religious use of [[neurotropic-fungi]] spans millennia and multiple continents, representing one of humanity"s oldest pharmacological traditions. From the Mazatec curanderos of Oaxaca to the Chukchee shamans of Siberia, indigenous peoples have incorporated psychoactive mushrooms into their spiritual, healing, and cosmological frameworks with remarkable sophistication.
 
 ## Mexico: The Center of Psilocybian Ceremony
 
 ### Historical Documentation
 
-The earliest documented reference to sacred mushroom use in Mexico comes from the **Franciscan friar Bernardino de Sahagún** (1569-1582), who recorded the Nahuatl word **"teonanácatl"** — literally "divine mushroom" or "flesh of the gods." Sahagún's account described how Aztec priests consumed these mushrooms in religious ceremonies, experiencing visions and communicating with the divine.
+The earliest documented reference to sacred mushroom use in Mexico comes from the **Franciscan friar Bernardino de Sahagún** (1569-1582), who recorded the Nahuatl word **"teonanácatl"** — literally "divine mushroom" or "flesh of the gods." Sahagún"s account described how Aztec priests consumed these mushrooms in religious ceremonies, experiencing visions and communicating with the divine.
 
 However, it was **R. Gordon Wasson** and his wife **Valentina Wasson** who brought this tradition to global attention through their famous 1957 *Life* magazine article "Seeking the Magic Mushroom." The Wassons participated in a nocturnal mushroom ceremony led by Mazatec curandera **María Sabina** in Huautla de Jiménez, Oaxaca — an event that catalyzed the Western psychedelic movement.
 
 ### Indigenous Naming Systems
 
-Guzmán (1997) documented more than **200 common names** for neurotropic fungi across Mexico's indigenous languages. These names reveal how different cultures conceptualize the mushrooms:
+Guzmán (1997) documented more than **200 common names** for neurotropic fungi across Mexico"s indigenous languages. These names reveal how different cultures conceptualize the mushrooms:
 
 | Common Name | Language | Translation | Primary Species |
 |------------|----------|-------------|----------------|

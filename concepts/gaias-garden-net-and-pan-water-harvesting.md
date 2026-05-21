@@ -1,5 +1,5 @@
 ---
-title: Gaia's Garden Net-and-Pan Water Harvesting Pattern
+title: Gaia"s Garden Net-and-Pan Water Harvesting Pattern
 created: 2026-04-18
 updated: 2026-04-18
 type: concept
@@ -10,7 +10,7 @@ sources:
 
 ## Net-and-Pan Water Harvesting Pattern
 
-[[building-soil]] in dryland gardens. From Gaia's Garden, Chapter 3.
+[[building-soil]] in dryland gardens. From Gaia"s Garden, Chapter 3.
 
 ## What Is Net-and-Pan
 

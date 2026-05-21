@@ -109,7 +109,7 @@ Many fungal species colonize living bark on twigs and small branches of both con
 
 - Nonlichenized **Arthopyreniaceae** colonize resinous young conifer bark and smooth deciduous bark (e.g., *Alnus*), including *Arthopyrenia plumbaria*, *Mycoglaena subcoerulescens*, and other *Mycoglaena* species.
 - *Arthonia impolita* is ubiquitous on young *Pinus strobus* bark in eastern North America.
-- *Vestigium felicis*, an unusual coelomycete producing distinctive "cat's paw" conidia, has been found exclusively from young living *Thuja plicata* twigs (Pirozynski and Shoemaker 1972).
+- *Vestigium felicis*, an unusual coelomycete producing distinctive "cat"s paw" conidia, has been found exclusively from young living *Thuja plicata* twigs (Pirozynski and Shoemaker 1972).
 
 Several bark endophytes colonize healthy young tissue and subsequently fruit on recently dead attached twigs, including **Rhytismataceae** (*Tryblidiopsis pinastri* on *Picea*, *Discocainia treleasei* on *P. sitchensis*), *Lachnellula* species (Hyaloscyphaceae), and *Pezicula* and *Mollisia* (Dermateaceae). *Therrya pini* and *T. fülii* on *Pinus*, and *Coccomyces strobi* on *P. strobus*, follow this same strategy.
 
@@ -122,7 +122,7 @@ a wide taxonomic range. They are predominantly xylariaceous (*Hypoxylon*,
 (*Coniophora*) and some species from the periderm mycobiota. Species diversity
 and abundance are generally lower than in bark, shoot, or foliar endophyte
 communities, but the ecological significance of xylotropic species may be
-disproportionately large given their direct access to the host's vascular
+disproportionately large given their direct access to the host"s vascular
 transport system.
 
 Some xylotropic endophytes are notably host-specific: germination of *Hypoxylon fragiforme* is triggered only by host-specific monolignol glucosides (Chapela et al. 1990, 1991, 1993). Peculiar mycobiota characterize different hosts colonizing healthy attached branches, documented for alder (Fisher and Petrini 1990), conifers (Sieber 1989; Kowalski and Kehr 1992), and oak and beech (Chapela and Boddy 1988b; Boddy 1992).

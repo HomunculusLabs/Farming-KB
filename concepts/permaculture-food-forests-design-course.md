@@ -34,7 +34,7 @@ separate blocks.
 - Within 3-4 years: production from 200 acres would feed the
   entire island
 - "I am in a very embarrassing position" — as agricultural
-  research officer, already solely responsible for the island's
+  research officer, already solely responsible for the island"s
   food
 ### The Coconut Grenade Technique
 - Run along ridges into grasslands, heaving coconuts down to

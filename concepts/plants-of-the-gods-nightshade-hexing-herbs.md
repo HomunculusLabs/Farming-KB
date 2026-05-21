@@ -47,7 +47,7 @@ when several kinds were recognized and the black variety (H. niger) was
 considered most potent, capable of causing insanity. The ancient
 Egyptians recorded their knowledge in the Ebers Papyrus (1500 BCE).
 Homer described magic drinks with effects indicative of Henbane as a
-major ingredient. [[witches-fungi-and-flying-ointments]] and witches' brews.
+major ingredient. [[witches-fungi-and-flying-ointments]] and witches" brews.
 
 ## Mandrake (Mandragora officinarum)
 

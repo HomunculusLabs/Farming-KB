@@ -9,7 +9,7 @@ tags: [hydrology, forest-ecology, water-cycle, tree-interaction]
 
 ## Description
 
-Throughfall is the water that passes through a forest canopy after rainfall, drifting as mists or droplets to the forest floor once the canopy's interception capacity is exceeded. It is a critical component of forest hydrology and represents the primary pathway by which precipitation reaches the soil in forested ecosystems. Unlike raw rainwater, throughfall is chemically and biologically transformed — it is, as Mollison states, "no longer just rainwater, any more than your bathwater is rainwater."
+Throughfall is the water that passes through a forest canopy after rainfall, drifting as mists or droplets to the forest floor once the canopy"s interception capacity is exceeded. It is a critical component of forest hydrology and represents the primary pathway by which precipitation reaches the soil in forested ecosystems. Unlike raw rainwater, throughfall is chemically and biologically transformed — it is, as Mollison states, "no longer just rainwater, any more than your bathwater is rainwater."
 
 ## Classification
 

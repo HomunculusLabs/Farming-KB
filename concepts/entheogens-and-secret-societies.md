@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-Entheogens — psychoactive plants and fungi used in sacred contexts — are among the most closely guarded secrets of Freemasonry and many other secret societies throughout history. The suppression of knowledge about these substances represents, according to James Arthur's analysis in *[[allegro-plants-and-drugs-in-the-ancient-world]] by religious authorities who first pillaged their contents.
+Entheogens — psychoactive plants and fungi used in sacred contexts — are among the most closely guarded secrets of Freemasonry and many other secret societies throughout history. The suppression of knowledge about these substances represents, according to James Arthur"s analysis in *[[allegro-plants-and-drugs-in-the-ancient-world]] by religious authorities who first pillaged their contents.
 
 ## Entheogens as the Core Secret
 

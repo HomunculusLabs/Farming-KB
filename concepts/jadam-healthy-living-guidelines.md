@@ -11,7 +11,7 @@ sources:
 
 ## Overview
 
-Youngsang Cho extends JADAM's [[jadam-sea-salt-and-mineral-solutions]] too.
+Youngsang Cho extends JADAM"s [[jadam-sea-salt-and-mineral-solutions]] too.
 
 This directly parallels JADAM's agricultural teaching that 70% of human health (and 95% of plant structure) is determined by water quality and quantity.
 

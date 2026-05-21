@@ -97,7 +97,7 @@ consistent product with lower ash content and fewer residual volatile
    Soil." Advances in Agronomy, 105, 47-82.
 4. Warnock, D. D., et al. (2007). "Mycorrhizal Responses to Biochar in Soil."
    Plant and Soil, 300(1-2), 9-20.
-5. Mollison, B. (1988). Permaculture: A Designers' Manual. Tagari
+5. Mollison, B. (1988). Permaculture: A Designers" Manual. Tagari
    Publications.
 6. Ingham, E. (2010). The Compost Tea Brewing Manual. Soil Foodweb Inc.
 7. Jeffery, S., et al. (2011). "A Meta-Analysis of the Properties of Biochar

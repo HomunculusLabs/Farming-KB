@@ -13,7 +13,7 @@ tags: [phenethylamine, shulgin]
 
 ## Overview
 
-2C-E is one [[2c-family-chemistry-and-sar-pihkal]] characterized by intense visual effects, a steep dose-response curve, and a demanding but ultimately worthwhile character. Multiple users have reported: "I don't think I like it, since it isn't that much fun. But I intend to explore it again."
+2C-E is one [[2c-family-chemistry-and-sar-pihkal]] characterized by intense visual effects, a steep dose-response curve, and a demanding but ultimately worthwhile character. Multiple users have reported: "I don"t think I like it, since it isn't that much fun. But I intend to explore it again."
 
 ## Chemical Information
 

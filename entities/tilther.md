@@ -26,7 +26,7 @@ The Tilther is a lightweight electric-powered tiller designed specifically for g
 
 The Tilther is designed like a tractor tiller with the gearbox positioned on the side rather than the center. This side-mount configuration ensures it does not leave an untilled strip in the center of the bed, a common problem with conventional tillers where the gearbox housing sits directly above the tines, creating a gap in cultivation coverage.
 
-The power source is a standard cordless drill that sits on top of the housing and drives a shaft connected by a chain to the tine shaft below. A rope around the drill's trigger is pulled from the handlebars to engage and disengage the tines during operation. This is a wonderfully simple tool with little noise and no fumes.
+The power source is a standard cordless drill that sits on top of the housing and drives a shaft connected by a chain to the tine shaft below. A rope around the drill"s trigger is pulled from the handlebars to engage and disengage the tines during operation. This is a wonderfully simple tool with little noise and no fumes.
 
 A charger for the cordless drill batteries is kept in the greenhouse for continuous availability throughout the working day. The design was so effective that Coleman convinced a local manufacturer to produce it commercially (see Appendix C of The Winter Harvest Handbook for source information).
 
@@ -51,7 +51,7 @@ This shallow cultivation also preserves soil structure and avoids disrupting the
 
 ## Workflow Integration
 
-On Coleman's farm, the Tilther is used as part of a bed-by-bed soil preparation sequence between succession crops. The sequence is deliberately ordered to separate deep aeration from shallow amendment incorporation:
+On Coleman"s farm, the Tilther is used as part of a bed-by-bed soil preparation sequence between succession crops. The sequence is deliberately ordered to separate deep aeration from shallow amendment incorporation:
 
 1. **Clear** the old crop and remove all debris completely from the bed
 2. **Aerate** the soil with a broadfork (deep loosening to 10 inches depth)

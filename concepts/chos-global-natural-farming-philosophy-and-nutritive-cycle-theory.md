@@ -1,5 +1,5 @@
 ---
-title: Cho's Global Natural Farming Philosophy and Nutritive Cycle Theory
+title: Cho"s Global Natural Farming Philosophy and Nutritive Cycle Theory
 source: chos-global-natural-farming.md
 type: concept
 ---
@@ -23,7 +23,7 @@ Health consequences attributed to chemical agriculture: diabetes, cancer, hypert
 
 ### Core Principles
 1. **Maximize inborn potential**: Respect the nature of life forms and their harmony with the environment
-2. **Do not interfere**: Don't force crops to yield more than their natural capacity
+2. **Do not interfere**: Don"t force crops to yield more than their natural capacity
 3. **Respect for life**: The best way to achieve top quality yield is to respect the nature of life
 4. **Interdependence**: People should nurture nature, not surmount or undermine it
 5. **Local resources**: Utilize indigenous resources for production
@@ -71,7 +71,7 @@ The Nutritive Cycle Theory recognizes that plants have different nutritional nee
 ## Indigenous Microorganisms (IMOs)
 
 ### The Foundation of Natural Farming
-"In 'Non-Chemical' agriculture practices we do not feed the plant. We nurture the soil and the soil nurtures the plant through the IMOs."
+"In "Non-Chemical' agriculture practices we do not feed the plant. We nurture the soil and the soil nurtures the plant through the IMOs."
 
 ### Two Major Functions of Microorganisms
 1. **Decomposition**: Decompose complex organic compounds (dead plants, animals, wastes) into easily absorbable nutrients
@@ -85,7 +85,7 @@ The Nutritive Cycle Theory recognizes that plants have different nutritional nee
 
 ### IMO Collection Method (Method I)
 1. **Wooden box**: 12" × 8" × 4" (½" thick natural wood/bamboo/cedar — avoid plastic)
-2. **Hard-cooked rice**: Less moisture to attract aerobic microbes; don't stuff higher than 3 inches
+2. **Hard-cooked rice**: Less moisture to attract aerobic microbes; don"t stuff higher than 3 inches
 3. **Cover with paper**: Plain white paper (not newspaper); allows air passage
 4. **Bury in soil**: Place in a 12" × 8" × 2" pit in forest/field with decomposed leaf mold
 5. **Protect**: Cover with leaves; use plastic only during excess rain
@@ -96,7 +96,7 @@ The Nutritive Cycle Theory recognizes that plants have different nutritional nee
 ### Why Aerobic IMOs?
 "Aerobic microorganisms do not prefer to live on [sticky rice]. Without sufficient supply of air, the anaerobic IMOs will get collected. Aerobic IMOs are more commonly recommended."
 
-## Dr. Cho's Story
+## Dr. Cho"s Story
 
 ### Personal Journey
 Dr. Cho Han Kyu, described as "a short, stocky, ebullient, energetic and humorous octogenarian," developed Natural Farming in South Korea.
@@ -129,7 +129,7 @@ The system uses 14+ natural preparations:
 14. **[[cho-seawater-and-fermented-seawater]] Sea Water**
 
 ### Flexibility Principle
-"Dr. Cho's insistence that farmers are free to experiment on their own and alternative local materials should be found as ingredients for various preparations lends flexibility and scope for farmers to innovate."
+"Dr. Cho"s insistence that farmers are free to experiment on their own and alternative local materials should be found as ingredients for various preparations lends flexibility and scope for farmers to innovate."
 
 ## Significance
 

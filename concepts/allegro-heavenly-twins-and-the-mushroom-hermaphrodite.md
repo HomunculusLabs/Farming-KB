@@ -10,7 +10,7 @@ sources:
 
 ## Heavenly Twins and the Mushroom Hermaphrodite
 
-Allegro demonstrates that the widespread "divine twins" motif of ancient mythology — Castor and Pollux, Cain and Abel, the Dioscouroi, Jacob and Esau — derives directly from the mushroom's dual nature as both phallus (stem) and womb (canopy), producing a hermaphroditic deity combining both sexes.
+Allegro demonstrates that the widespread "divine twins" motif of ancient mythology — Castor and Pollux, Cain and Abel, the Dioscouroi, Jacob and Esau — derives directly from the mushroom"s dual nature as both phallus (stem) and womb (canopy), producing a hermaphroditic deity combining both sexes.
 
 ## The Mushroom as Hermaphrodite
 
@@ -20,13 +20,13 @@ The prime hermaphroditic deity was Hermaphroditus, offspring of Hermes (Sumerian
 
 ## Cain and Abel: Womb and Phallus
 
-The biblical brothers Cain and Abel represent the "womb" and the "penis" respectively. Cain comes from Sumerian GAR-EN, "seed-container." Abel derives from BAL, "borer; phallus." A fuller form including TI ("organ") produced Tubal-Cain, the patron of metalworking (Gen 4:22). His mother is Zillah, giving "Bar-Zillah" ("son of Zillah"), which sounds like barzel', "iron" — hence Tubal-Cain is a "metalworker." But barzela' also means "womb" (the female "groin"), so two fungus names are spun into a hero, his mother's name, and his trade.
+The biblical brothers Cain and Abel represent the "womb" and the "penis" respectively. Cain comes from Sumerian GAR-EN, "seed-container." Abel derives from BAL, "borer; phallus." A fuller form including TI ("organ") produced Tubal-Cain, the patron of metalworking (Gen 4:22). His mother is Zillah, giving "Bar-Zillah" ("son of Zillah"), which sounds like barzel", "iron" — hence Tubal-Cain is a "metalworker." But barzela" also means "womb" (the female "groin"), so two fungus names are spun into a hero, his mother"s name, and his trade.
 
-The famous question "Am I my brother's keeper?" (Gen 4:9) is another play on a mushroom name. In Persia the mushroom is still called samurukh, from Sumerian "crown of the womb-favourer" — the "glans" or top of the fungus.
+The famous question "Am I my brother"s keeper?" (Gen 4:9) is another play on a mushroom name. In Persia the mushroom is still called samurukh, from Sumerian "crown of the womb-favourer" — the "glans" or top of the fungus.
 
 ## The Dioscouroi: Not "Sons of Zeus"
 
-The Dioscouroi (Castor and Pollux) are known jointly as a dual form of Greek dioskouros, "son of god," leading classicists to call them "Sons of Zeus." In fact, their name is a jumbled Sumerian title: "erect phallus of the storm." The Greek rearrangement transformed Sumerian elements into dioskouroi. We know their name in a more accurately transmitted form as USh-GU-RI-UD — "Iscariot," the name of Jesus' betrayer in the New Testament.
+The Dioscouroi (Castor and Pollux) are known jointly as a dual form of Greek dioskouros, "son of god," leading classicists to call them "Sons of Zeus." In fact, their name is a jumbled Sumerian title: "erect phallus of the storm." The Greek rearrangement transformed Sumerian elements into dioskouroi. We know their name in a more accurately transmitted form as USh-GU-RI-UD — "Iscariot," the name of Jesus" betrayer in the New Testament.
 
 Elsewhere the New Testament writers read the name as the classicists did, splitting a presumed Dios-kouros into two components and giving each to one of the "brothers." James and John, the "Sons of Thunder" (Boanerges), represent another mushroom-derived pair.
 
@@ -38,7 +38,7 @@ The cross became the symbol of the phallic god Hermes — an upright piece with 
 
 ## The Rib of Adam: Canopy of the Mushroom
 
-The Hebrew name for "rib," sela', is the Sumerian SILA, represented by the "V" shape. What the [[allegro-death-and-resurrection-in-the-mushroom-cult]] mythology as mushroom-derived remains one of the most contested aspects of [[sacred-mushroom-and-the-cross]]
+The Hebrew name for "rib," sela", is the Sumerian SILA, represented by the "V" shape. What the [[allegro-death-and-resurrection-in-the-mushroom-cult]] mythology as mushroom-derived remains one of the most contested aspects of [[sacred-mushroom-and-the-cross]]
 - [[allegro-biblical-references-to-mushrooms-and-fungi]]
 - [[allegro-fungal-iconography-in-ancient-art]] continues to be reexamined in light of new discoveries.
 

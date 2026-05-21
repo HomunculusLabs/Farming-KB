@@ -1,5 +1,5 @@
 ---
-title: "The coleman-french-maraicher-manure-system-and-compost-quality System's Transport to Britain: Kropotkin, Fels, and the solomon-wide-spacing-versus-intensive-gardening-debate Movement"
+title: "The coleman-french-maraicher-manure-system-and-compost-quality System"s Transport to Britain: Kropotkin, Fels, and the solomon-wide-spacing-versus-intensive-gardening-debate Movement"
 source: eliot-coleman-winter-harvest-handbook
 topics: history, intensive-gardening, french-agriculture, british-agriculture, kropotkin
 ---
@@ -11,7 +11,7 @@ topics: history, intensive-gardening, french-agriculture, british-agriculture, k
 In 1869, the British garden writer William Robinson became the first
 English-speaking outsider to describe the [[coleman-french-maraicher-horse-manure-hotbed-system]] — seemed impractical to many.
 
-## Prince Peter Kropotkin's Influence
+## Prince Peter Kropotkin"s Influence
 
 The real catalyst for British interest came from an unexpected
 quarter. Prince Peter Kropotkin (1842-1921), the Russian anarchist

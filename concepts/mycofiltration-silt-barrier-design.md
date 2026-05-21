@@ -57,7 +57,7 @@ Mycofilters regenerate until the debris base is reduced to soil. Mature areas be
 
 ## Integration with Restoration Frameworks
 
-Mycofiltration bridges with John Todd's "living machines" (estuary ecosystems for waste breakdown) and Bill Mollison's permaculture practices. Stamets envisions mycorestoration, permaculture, and living machines as essential synergistic components in a new model of habitat restoration, all gaining strength from biodiversity.
+Mycofiltration bridges with John Todd"s "living machines" (estuary ecosystems for waste breakdown) and Bill Mollison's permaculture practices. Stamets envisions mycorestoration, permaculture, and living machines as essential synergistic components in a new model of habitat restoration, all gaining strength from biodiversity.
 
 ## Sources
 

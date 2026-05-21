@@ -12,7 +12,7 @@ sources: [raw/papers/panspermia-hypothesis.md]
 The spore interstellar dispersal hypothesis proposes that fungal spores, encased in
 their resilient cell walls, could survive the harsh conditions of outer space and
 potentially travel between planets or even star systems. This concept intersects
-astrobiology, mycology, and the broader panspermia debate about life's cosmic
+astrobiology, mycology, and the broader panspermia debate about life"s cosmic
 distribution. The idea has been championed by several thinkers, most notably the
 ethnobotanist and psychonaut Terence McKenna, who saw in it a radical reframing of
 life's origins and the possible cosmic role of fungi.

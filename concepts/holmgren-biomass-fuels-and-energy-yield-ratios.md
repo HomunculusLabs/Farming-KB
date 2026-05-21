@@ -15,7 +15,7 @@ type: concept
 
 ## Biomass Fuels and Energy Yield Ratios
 
-David Holmgren's analysis of biomass fuels draws extensively on Howard
+David Holmgren"s analysis of biomass fuels draws extensively on Howard
 Odum's EMERGY methodology to evaluate the real energy return from various
 biomass sources. His central argument is that slowly accumulating, naturally
 produced biomass energy sources provide far greater net yield than

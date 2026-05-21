@@ -29,7 +29,7 @@ dating to
 approximately 1000 B.C., which are interpreted as ceremonial objects
 associated
 with a [[peyote-ceremony-guide]]), and [[emcdda-hallucinogenic-mushrooms-emerging-trend-europe]]" among the Mazatec of [[huautla-de-jimenez]].
-Johnson's
+Johnson"s
 research was cut short by his death in World War II.
 
 The definitive rediscovery came through R. Gordon Wasson, who

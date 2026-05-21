@@ -14,7 +14,7 @@ tags: [ayahuasca, shamanism]
 
 ## The Jivaro System: "The Sound of Rushing Water"
 
-Harner's own chapter, "The Sound of Rushing Water," is the volume's most detailed account of ayahuasca shamanism. Its evocative title comes from the sound that fills the shaman's ears when he drinks natem and knows he possesses the power of Tsungi, the first shaman. Among the Jivaro Indians of the Ecuadorian Amazon, the normal waking life is considered a "lie" or illusion, while the true forces determining daily events are supernatural and accessible only through hallucinogenic drugs. This reality view "creates a particularly strong demand for specialists who can cross over into the supernatural world at will to deal with the forces that influence and even determine the events of the waking life."
+Harner"s own chapter, "The Sound of Rushing Water," is the volume"s most detailed account of ayahuasca shamanism. Its evocative title comes from the sound that fills the shaman's ears when he drinks natem and knows he possesses the power of Tsungi, the first shaman. Among the Jivaro Indians of the Ecuadorian Amazon, the normal waking life is considered a "lie" or illusion, while the true forces determining daily events are supernatural and accessible only through hallucinogenic drugs. This reality view "creates a particularly strong demand for specialists who can cross over into the supernatural world at will to deal with the forces that influence and even determine the events of the waking life."
 
 Approximately one in four Jivaro men becomes a shaman, a remarkably high proportion facilitated by the widespread availability of natem. Women rarely become shamans, but when they do they are thought to be particularly powerful because they are believed to possess special tsentsak (spirit helpers). Any adult who wishes to become a shaman simply presents a gift to a practicing shaman, who administers the drink and transfers some of his own power.
 
@@ -28,7 +28,7 @@ A special class called pasuk serves only a single shaman as a specialized bewitc
 
 ### Bewitching and Curing
 
-Bewitching is carried out against specific individuals, usually to avenge a particular offense. The shaman drinks natem, secretly approaches the victim's house, drinks green tobacco juice to regurgitate a tsentsak, and throws it at the target. If the dart passes completely through the body, the patient dies and "there is nothing for a curing shaman to suck out." If it lodges within, a curing shaman may be able to suck it out. The curing shaman's work is complementary to the bewitcher's: he takes natem, sees the intruding object in the patient's body, and sucks it out.
+Bewitching is carried out against specific individuals, usually to avenge a particular offense. The shaman drinks natem, secretly approaches the victim"s house, drinks green tobacco juice to regurgitate a tsentsak, and throws it at the target. If the dart passes completely through the body, the patient dies and "there is nothing for a curing shaman to suck out." If it lodges within, a curing shaman may be able to suck it out. The curing shaman"s work is complementary to the bewitcher's: he takes natem, sees the intruding object in the patient's body, and sucks it out.
 
 Shamans also create supernatural animals from their tsentsak: a pointed armadillo bone becomes an anaconda that overturns a victim's raft; a snake tooth becomes a poisonous serpent; a tsentsak shot into a river creates a jaguar or puma. About five years after receiving their tsentsak, bewitching shamans undergo a test by attempting to split a tree with a dart. If they fail, they must purchase new power from a stronger shaman, drinking large quantities of natem, tobacco juice, and piripiri extract daily until they can afford the transaction.
 
@@ -47,7 +47,7 @@ Kenneth Kensinger documents Banisteriopsis use among the Peruvian Cashinahua, in
 Janet Siskind records visions and curing practices involving ayahuasca among the Sharanahua, contributing to the broader picture of Amazonian plant-mediated shamanism in the western Amazon.
 
 ### Campa (Weiss)
-Gerald Weiss's chapter on the Campa introduces an important distinction between shamanism and priesthood in the context of [[harner-cross-cultural-patterns-shamanic-plant-use]]
+Gerald Weiss"s chapter on the Campa introduces an important distinction between shamanism and priesthood in the context of [[harner-cross-cultural-patterns-shamanic-plant-use]]
 - ethnomycology
 
 ## Chapters Referenced

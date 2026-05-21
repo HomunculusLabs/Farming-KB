@@ -8,7 +8,7 @@ type: entity
 
 Constantine the Great (Flavius Valerius Constantinus, c. 272–337 CE) was Roman
 Emperor from 306 to 337 CE and is traditionally credited with the Christianization
-of the Roman Empire. In ethnomycological analysis, Constantine's role is
+of the Roman Empire. In ethnomycological analysis, Constantine"s role is
 recontextualized as a political architect who consolidated diverse entheogenic
 religious traditions into a single state-controlled religion, deliberately
 obscuring the mushroom-based sacramental practices at their core.
@@ -37,7 +37,7 @@ the Catholic (meaning "universal" or "one from all") Church.
 According to the source text, Christianity was created through a governmental
 council that:
 
-1. **Acquired and examined** as many [[hallucinogenic-plants-of-the-world]]'s religious doctrines as could
+1. **Acquired and examined** as many [[hallucinogenic-plants-of-the-world]]"s religious doctrines as could
    be found across the empire and beyond
 2. **Selected elements** from Egyptology, Mithraism, Hinduism, Buddhism, the
    Torah of the Jews, and many other traditions
@@ -82,7 +82,7 @@ sacraments. This served multiple political purposes:
 
 ### Preservation of Symbolism
 
-Despite the suppression, Constantine's compilation process inadvertently
+Despite the suppression, Constantine"s compilation process inadvertently
 preserved extensive [[stropharia-cubensis-tree-of-knowledge]]/Life
 - Sacramental ingestion language (body and blood)
 - Visionary experiences (Ezekiel, Revelation)
@@ -112,7 +112,7 @@ document" in its current form, as it represents:
 - A re-translation of a re-translation of a re-translation
 - An initially altered plagiarism from multiple older sources
 - A text that pales in comparison to Hindu and Buddhist writings in complexity
-- A document whose power to convince derives partly from readers' lack of
+- A document whose power to convince derives partly from readers" lack of
   exposure to other religious texts
 
 However, the very complexity that makes the Bible impressive also ensured that

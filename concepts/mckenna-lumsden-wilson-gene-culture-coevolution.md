@@ -13,7 +13,7 @@ type: concept
 
 ## Overview
 
-Charles Lumsden and E.O. Wilson's 1981 book *Genes, Mind, and Culture* proposed a comprehensive framework for understanding the relationship between genetic evolution and cultural transmission — a process they termed **gene-culture coevolution**.
+Charles Lumsden and E.O. Wilson"s 1981 book *Genes, Mind, and Culture* proposed a comprehensive framework for understanding the relationship between genetic evolution and cultural transmission — a process they termed **gene-culture coevolution**.
 
 [[cultural-evolution-and-psychoactive-substances]].
 
@@ -29,7 +29,7 @@ McKenna saw this estimate as crucial for his argument about the impact [[ceremon
 
 Second, the long duration of mushroom use during the African grassland phase — estimated at hundreds of thousands of years — would have allowed the gene-culture feedback loop to operate for a time sufficient to produce major genetic changes.
 
-Third, the abandonment of mushroom use as humans migrated out of the tropical grasslands would have created a new selective environment favoring different genetic traits — specifically, the traits associated with McKenna's "dominator" personality.
+Third, the abandonment of mushroom use as humans migrated out of the tropical grasslands would have created a new selective environment favoring different genetic traits — specifically, the traits associated with McKenna"s "dominator" personality.
 
 ## Criticisms of Gene-Culture Coevolution
 

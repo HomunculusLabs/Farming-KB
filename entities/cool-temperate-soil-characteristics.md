@@ -6,7 +6,7 @@ type: entity
 
 ## Description
 
-Cool temperate soils are distinguished by their exceptional ability to accumulate humus under natural regimes of forest and prairie or meadow. These soils differ fundamentally from both tropical and arid-area soils in their organic matter dynamics, pH profiles, and structural characteristics. They form the foundation of the world's most productive agricultural regions and support rich fungal communities.
+Cool temperate soils are distinguished by their exceptional ability to accumulate humus under natural regimes of forest and prairie or meadow. These soils differ fundamentally from both tropical and arid-area soils in their organic matter dynamics, pH profiles, and structural characteristics. They form the foundation of the world"s most productive agricultural regions and support rich fungal communities.
 
 ## Classification
 

@@ -31,7 +31,7 @@ comprehensive treatment in 1920.
 
 ## Classification of Plant Photoperiodic Responses
 
-Garner and Allard's work with Maryland Mammoth led them to investigate
+Garner and Allard"s work with Maryland Mammoth led them to investigate
 photoperiodic responses in many other plant species, and they soon recognized
 that plants could be classified into distinct categories based on their
 flowering behavior. Short-day plants (SDPs), like Maryland Mammoth tobacco,

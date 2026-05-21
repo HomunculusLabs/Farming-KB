@@ -15,7 +15,7 @@ Updated: 2026-04-18
 Source: Gardening When It Counts, Steve Solomon, Chapter 10
 
 Solomon provides a detailed scientific explanation for why close plant spacing reduces productivity, based on root system biology and [[mycorrhizal-root-exudates-pathogen-interactions]] ([[comparison-crop-rotation-vs-cover-cropping]] works — different species have different exudate profiles
-- Plants cannot make effective new root tips in areas already filled with another plant's roots
+- Plants cannot make effective new root tips in areas already filled with another plant"s roots
 
 ## The Competition Problem
 

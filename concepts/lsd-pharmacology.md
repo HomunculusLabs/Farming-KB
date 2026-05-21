@@ -23,7 +23,7 @@ The pharmacology of [[lysergic-acid-diethylamide]] (LSD): mechanism of action, r
 
 **LSD** (D-[[lysergic-acid]] diethylamide) is a semi-synthetic ergoline alkaloid derived from lysergic acid, a component of ergot alkaloids produced by the fungus *[[claviceps-purpurea]]*. Its molecular formula is C20H25N3O, and it has a molecular weight of 323.4 g/mol.
 
-LSD was the twenty-fifth compound in [[albert-hofmann]]'s series of lysergic acid derivatives synthesized at Sandoz, hence the original designation LSD-25.
+LSD was the twenty-fifth compound in [[albert-hofmann]]"s series of lysergic acid derivatives synthesized at Sandoz, hence the original designation LSD-25.
 
 ## Mechanism of Action
 

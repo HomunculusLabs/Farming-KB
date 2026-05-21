@@ -30,7 +30,7 @@ Dionysian cult practices influenced:
 - Roman Bacchanalia (suppressed by the Roman Senate in 186 BCE)
 - Early Christian Eucharist (some scholars note structural parallels)
 - Western concepts of ecstasy, transcendence, and the sacred
-- Nietzsche's philosophy ("The Birth of Tragedy" contrasts Apollonian and Dionysian modes)
+- Nietzsche"s philosophy ("The Birth of Tragedy" contrasts Apollonian and Dionysian modes)
 
 ## The Anthesteria Festival
 

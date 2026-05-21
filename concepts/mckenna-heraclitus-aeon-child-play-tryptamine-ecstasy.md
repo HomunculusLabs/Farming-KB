@@ -15,7 +15,7 @@ Fragment 24 of the pre-Socratic philosopher Heraclitus of Ephesus: "The Aeon
 is a child at play with colored balls." Under DMT, McKenna reported, one does
 not merely recall this image—one *becomes* the Aeon at play. This identification
 of a 2,500-year-old philosophical insight with a direct hallucinogenic
-experience is one of McKenna's most provocative claims.
+experience is one of McKenna"s most provocative claims.
 
 ## The DMT Onset and the "Merry Go Raum"
 
@@ -26,7 +26,7 @@ itself undergoing continuous transformation.
 
 ## Becoming the Aeon: The Ontological Claim
 
-McKenna's central claim is not that DMT resembles the Heraclitean image, but
+McKenna"s central claim is not that DMT resembles the Heraclitean image, but
 that under its influence one *becomes* the Aeon. This is an ontological claim
 suggesting the tryptamine state is an access point to a more fundamental mode
 of being—one the pre-Socratics intuited through reason but which modern
@@ -42,8 +42,8 @@ primitive precursors to Plato and Aristotle's static systems.
 ## Transtemporal Nature
 
 McKenna described the tryptamine state as "transtemporal"—a stepping out of
-the moving image of time into eternity. He referenced Plato's metaphor that
-"time is the moving image of eternity" and Aquinas's *nunc stans* (standing
+the moving image of time into eternity. He referenced Plato"s metaphor that
+"time is the moving image of eternity" and Aquinas"s *nunc stans* (standing
 now). In this mode, all human history appears to lead toward a culminating
 moment. Acceleration is visible: fire millions of years ago, language
 thirty-five thousand years ago, measurement five thousand years ago, Galileo
@@ -57,7 +57,7 @@ transtemporal mode.
 ## The Play Paradox and Terror
 
 The [[mckenna-cognitive-dissonance-translinguistic-object]] between the monkey mind and translinguistic
-reality. The entities reassure: "Don't worry, don't worry; do this, look at
+reality. The entities reassure: "Don"t worry, don't worry; do this, look at
 this."
 
 ## Overview

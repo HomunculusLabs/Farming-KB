@@ -23,9 +23,9 @@ Arthur argues that this universality cannot be explained by cultural diffusion a
 
 A central feature of the sacred meal tradition is the progression from the [[biblical-manna-and-sacramental-substance]] (the mushroom) to the anthropomorphized body of the god. In the Vedic tradition, Soma is both a plant-god and the elixir prepared from it. In the Christian tradition, Jesus is both the person and the "body" that must be eaten. In the Egyptian tradition, Horus is "both the divine food and the sacrifice."
 
-John Allegro, in [[allegro-soma-mushroom-thesis]], identified this pattern: the god is both the man (or divine being) and the mushroom (the food) and the sacrifice (the mushroom dying in order to be eaten). This duality runs through virtually every sacred meal tradition and represents, in Arthur's view, the core encoded truth of the mushroom sacrament.
+John Allegro, in [[allegro-soma-mushroom-thesis]], identified this pattern: the god is both the man (or divine being) and the mushroom (the food) and the sacrifice (the mushroom dying in order to be eaten). This duality runs through virtually every sacred meal tradition and represents, in Arthur"s view, the core encoded truth of the mushroom sacrament.
 
-The Greek word "Soma" means "body," creating a linguistic bridge between the Vedic Soma (the mushroom-god) and the Christian concept of the "Body of Christ" consumed in the Eucharist. Jesus's statement "Take and eat, This is my body [Soma]" is interpreted as a direct continuation of the Vedic Soma tradition.
+The Greek word "Soma" means "body," creating a linguistic bridge between the Vedic Soma (the mushroom-god) and the Christian concept of the "Body of Christ" consumed in the Eucharist. Jesus"s statement "Take and eat, This is my body [Soma]" is interpreted as a direct continuation of the Vedic Soma tradition.
 
 ## The Eucharist as Substitution
 
@@ -39,7 +39,7 @@ This pattern of substitution is traced through earlier traditions as well. The S
 
 Arthur documents a specific sacred meal table setting that encodes mushroom symbolism at every level. The arrangement of vessels, the types of food depicted, the colors present, and the overall composition all correspond to mushroom characteristics and the sacramental preparation process.
 
-The concept of the sacred meal is incorporated into many ancient traditions that celebrated the birth of the God on December 25th. The sun's apparent three-day stoppage at winter solstice was mythologized as the death of the Sun/Son, and the sacred meal was the means by which the initiate participated in the death-and-rebirth cycle. The necessity of drying the mushroom before consumption (the death of the substance) parallels the death of the sun-god, with both requiring a three-day period before the transformative result is achieved.
+The concept of the sacred meal is incorporated into many ancient traditions that celebrated the birth of the God on December 25th. The sun"s apparent three-day stoppage at winter solstice was mythologized as the death of the Sun/Son, and the sacred meal was the means by which the initiate participated in the death-and-rebirth cycle. The necessity of drying the mushroom before consumption (the death of the substance) parallels the death of the sun-god, with both requiring a three-day period before the transformative result is achieved.
 
 ## Manna and the Two Kinds
 

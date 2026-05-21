@@ -13,10 +13,10 @@ The potential of psychedelic compounds to treat addiction represents one of the 
 
 ## Ibogaine: The Prototype
 
-Ibogaine is an alkaloid derived from the West African plant [[iboga-and-the-bwiti-cult-initiation]]'s spiritual ceremonies. In the mid-1980s, **Howard Lotsof**, an ex-addict previously cured through his experiences with ibogaine, formed a company to promote its medical use. He was so assured of ibogaine's capacity to break drug addiction that he patented ibogaine treatments in the mid-80s.
+Ibogaine is an alkaloid derived from the West African plant [[iboga-and-the-bwiti-cult-initiation]]"s spiritual ceremonies. In the mid-1980s, **Howard Lotsof**, an ex-addict previously cured through his experiences with ibogaine, formed a company to promote its medical use. He was so assured of ibogaine's capacity to break drug addiction that he patented ibogaine treatments in the mid-80s.
 
 ### Mechanism
-The unusually intense and personally significant visionary effects of ibogaine appear to be the key to breaking patterns of addiction. Lotsof describes the visions as "movie-clip" sequences with Freudian and Jungian connotations -- symbolic narratives that allow patients to re-evaluate their lives and see mistakes they may have made. He refers to these visions as being like a "movie run at high speed" or a "slide-show, each slide containing a picture of a specific event or circumstance in the viewer's life."
+The unusually intense and personally significant visionary effects of ibogaine appear to be the key to breaking patterns of addiction. Lotsof describes the visions as "movie-clip" sequences with Freudian and Jungian connotations -- symbolic narratives that allow patients to re-evaluate their lives and see mistakes they may have made. He refers to these visions as being like a "movie run at high speed" or a "slide-show, each slide containing a picture of a specific event or circumstance in the viewer"s life."
 
 ### Efficacy
 A single dose of ibogaine keeps the majority of patients free from chemical dependence for **3 to 6 months**, indicating that ongoing therapy is needed. The treatment enables patients to confront and reframe the psychological patterns underlying their addiction. Lotsof believed that ibogaine is able to make patients re-evaluate their lives and see the mistakes that may have led them into uncontrollable bouts of drug-taking.
@@ -27,7 +27,7 @@ While ibogaine is a distinct compound from psilocybin, both share the capacity t
 
 ## Addiction as Rigid Informational Pattern
 
-Within Powell's framework, addiction represents a pathological narrowing of the brain's informational repertoire. The habitual neural pathways that sustain addictive behaviour are, in effect, a self-reinforcing loop that resists disruption through normal means. The entheogenic experience, by temporarily dissolving these established patterns, creates a window in which new informational patterns can form -- a "waking dream" state that combines the associative freedom of dreaming with the heightened awareness of waking consciousness.
+Within Powell"s framework, addiction represents a pathological narrowing of the brain's informational repertoire. The habitual neural pathways that sustain addictive behaviour are, in effect, a self-reinforcing loop that resists disruption through normal means. The entheogenic experience, by temporarily dissolving these established patterns, creates a window in which new informational patterns can form -- a "waking dream" state that combines the associative freedom of dreaming with the heightened awareness of waking consciousness.
 
 The common thread between ibogaine and psilocybin in addiction treatment is their capacity to make available -- in a vivid, emotionally compelling way -- information about one's life that is normally filtered or suppressed. This allows the addict to see their behaviour patterns from a new vantage point, much as [[philosophical-implications-of-psychedelics]] -- the informational framework
 - [[shamanic-use-of-psychedelics]] -- traditional healing contexts

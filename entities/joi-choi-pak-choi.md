@@ -7,7 +7,7 @@ tags: [cultivar, pak-choi, brassica, asian-green, winter-harvest]
 
 ## Description
 
-'Joi Choi' is a pak choi (bok choy) cultivar (*[[brassica-rapa]]* subsp. *chinensis*) noted for its exceptional cold tolerance and bolt resistance in winter greenhouse production. It was identified as the most bolt-resistant of the Asian greens trialed by [[eliot-coleman]] for late-winter harvest, continuing to grow productively well after other varieties had gone to seed.
+"Joi Choi' is a pak choi (bok choy) cultivar (*[[brassica-rapa]]* subsp. *chinensis*) noted for its exceptional cold tolerance and bolt resistance in winter greenhouse production. It was identified as the most bolt-resistant of the Asian greens trialed by [[eliot-coleman]] for late-winter harvest, continuing to grow productively well after other varieties had gone to seed.
 
 ## Classification
 
@@ -22,7 +22,7 @@ tags: [cultivar, pak-choi, brassica, asian-green, winter-harvest]
 - Outstanding bolt resistance compared to other pak choi cultivars in winter production
 - In trials sown October 25, 'Joi Choi' was the only cultivar that did not go to seed within a week of the February 15 harvest
 - Continued growing after February 15 and was sold bunched as "baby pak choi" through the end of March
-- Other trial cultivars ('Yu Choi', 'Mei Qing Choi', tatsoi, mizuna) all bolted by late February
+- Other trial cultivars ("Yu Choi', 'Mei Qing Choi', tatsoi, mizuna) all bolted by late February
 - Produces compact, upright plants suitable for close spacing under row covers
 - Hardy enough for unheated cold-house production through Zone 5 winters
 

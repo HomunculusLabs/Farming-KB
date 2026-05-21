@@ -4,7 +4,7 @@ created: 2026-04-28
 tags: [herbs, umbelliferae, companion-planting, culinary-herbs, pollinator-plants, apiaceae]
 date: 2026-04-28
 updated: 2026-04-28
-sources: ['raw/papers/jeavons-john-how-to-grow-more-vegetables.md']
+sources: ["raw/papers/jeavons-john-how-to-grow-more-vegetables.md']
 type: comparison
 ---
 
@@ -60,7 +60,7 @@ Dill has no significant allelopathic effects and is widely used as a companion p
 - Lettuce
 
 ### Pest Interactions
-Both attract swallowtail butterflies (their caterpillars feed on the foliage — usually tolerable and considered a benefit). Fennel may attract aphids, which in turn attract lady beetles — a functional "trap crop" strategy. Dill's strong scent helps mask neighboring crops from carrot rust fly and cabbage pests.
+Both attract swallowtail butterflies (their caterpillars feed on the foliage — usually tolerable and considered a benefit). Fennel may attract aphids, which in turn attract lady beetles — a functional "trap crop" strategy. Dill"s strong scent helps mask neighboring crops from carrot rust fly and cabbage pests.
 
 ## Nutritional Comparison (per 100 g fresh foliage)
 

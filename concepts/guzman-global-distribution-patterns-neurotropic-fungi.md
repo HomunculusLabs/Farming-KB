@@ -14,7 +14,7 @@ The worldwide geographical [[liberty-cap-british-discovery-1970s]]) and *P. cyan
 
 ### Mexico: The Global Epicenter
 
-Mexico has the highest diversity of neurotropic fungi of any country, with 76 known species. Of these, 44 belong to the genus Psilocybe, representing 39% of the world's total Psilocybe species. This extraordinary concentration is attributed to Mexico's varied topography, which includes tropical lowland forests, subtropical cloud forests, temperate pine-oak woodlands, and high-altitude grasslands — each providing distinct habitat types for different Psilocybe species.
+Mexico has the highest diversity of neurotropic fungi of any country, with 76 known species. Of these, 44 belong to the genus Psilocybe, representing 39% of the world"s total Psilocybe species. This extraordinary concentration is attributed to Mexico's varied topography, which includes tropical lowland forests, subtropical cloud forests, temperate pine-oak woodlands, and high-altitude grasslands — each providing distinct habitat types for different Psilocybe species.
 
 Mexico is also the center of documented indigenous use of neurotropic fungi, with at least nine indigenous ethnic groups (including the Mazatec, Mixtec, Zapotec, Nahuatl, and Chatino) known to use neurotropic-fungi-in-south-america is less well-documented than in Mexico, but the use of ayahuasca (a brew containing DMT from *Banisteriopsis caapi* and other plants) throughout the Amazon basin suggests a deep cultural relationship with psychoactive fungi and plants in the region.
 

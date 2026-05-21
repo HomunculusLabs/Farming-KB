@@ -28,7 +28,7 @@ The **degree** of a node is the number of links connected to it. The degree dist
 
 ### Clustering Coefficient
 
-The **clustering coefficient** measures the degree to which nodes tend to cluster together, quantifying local interconnectedness. High clustering in mycelial networks suggests robust local transport redundancy, meaning that if one cord is severed, alternative pathways exist to maintain flow within a localized region. This property is directly relevant to a fungus's ability to withstand physical soil disturbance or grazing by soil invertebrates.
+The **clustering coefficient** measures the degree to which nodes tend to cluster together, quantifying local interconnectedness. High clustering in mycelial networks suggests robust local transport redundancy, meaning that if one cord is severed, alternative pathways exist to maintain flow within a localized region. This property is directly relevant to a fungus"s ability to withstand physical soil disturbance or grazing by soil invertebrates.
 
 ### Alpha, Beta, and Gamma Indices
 

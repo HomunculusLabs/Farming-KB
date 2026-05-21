@@ -38,7 +38,7 @@ The complete fruiting structure **cannot be cultivated or cultured artificially*
 | Compound | Properties |
 |----------|-----------|
 | **Galactomannans** | Antitumour, immunostimulating |
-| **Cordycepin** (3'-deoxyadenosine) | Unique nucleoside with multiple bioactivities |
+| **Cordycepin** (3"-deoxyadenosine) | Unique nucleoside with multiple bioactivities |
 | **Sterols** | Various pharmacological activities |
 
 ### Pharmacological Activities

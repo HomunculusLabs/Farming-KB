@@ -6,7 +6,7 @@ topics: [deficit-farming, energy-crisis, soil-degradation, fukuoka, agriculture]
 
 ## Deficit Farming and the Agricultural Energy Crisis
 
-## Fukuoka's Analysis from The Road Back to Nature
+## Fukuoka"s Analysis from The Road Back to Nature
 
 [[fukuoka-american-agriculture-fields-of-death]], he found
 that to harvest one calorie of food energy, farmers were putting two calories
@@ -25,7 +25,7 @@ appears as a reddish-brown desert. The 80,000 center-pivot sprinkler systems are
 "very much like oases in the middle of a desert." Irrigation brings salt up to
 the ground surface where it accumulates, gradually poisoning the soil.
 
-### Monoculture's Toll
+### Monoculture"s Toll
 The land lacks fertility for continuous cropping, so one-third to one-half of fields
 are left fallow each year, creating an alternating pattern of green and brown
 stripes visible from the air. Modern farming stresses labor productivity and

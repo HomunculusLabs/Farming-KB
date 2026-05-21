@@ -26,7 +26,7 @@ One of the most persuasive arguments for the broad applicability of winter harve
 The first map shows that much of the United States experiences January temperatures equal to or warmer than those of southern France, where winter high-tunnel production is routine. This comparison alone should encourage growers across most of the country to experiment with winter harvesting.
 
 ### 2. USDA Hardiness Zones
-The standard USDA zone map divides the country by minimum winter temperatures. Coleman's farm in coastal Maine is rated Zone 5, which is often perceived as too cold for winter production. However, the zone map captures only the extremes — it does not account for the duration of cold, solar angle, or the moderating influence of structures.
+The standard USDA zone map divides the country by minimum winter temperatures. Coleman"s farm in coastal Maine is rated Zone 5, which is often perceived as too cold for winter production. However, the zone map captures only the extremes — it does not account for the duration of cold, solar angle, or the moderating influence of structures.
 
 ### 3. Days Below 32°F
 The third map — Mean Annual Number of Days with Minimum Temperature at or Below 32°F — is arguably more relevant than the zone map because it captures the *length* of the winter period. Coleman's coastal Maine farm sits on the 150-day line. A Zone 5 farm in northeastern Missouri, by contrast, sits on the 90-day line. Same zone, dramatically different winter length. This distinction matters because the winter harvest system relies on crops reaching maturity before the deep cold sets in and then being harvested progressively through the cold months.
@@ -63,7 +63,7 @@ The practical ability to harvest fresh greens, roots, and other vegetables throu
 - **Farm income stability**: Winter harvest sales provide revenue during months when many farms would otherwise have no fresh product to sell
 - **Reduced environmental impact**: Eliminating the need for refrigerated long-distance shipping of winter produce dramatically reduces the carbon footprint of year-round vegetable consumption
 
-Coleman's ultimate argument is that the universal year-round availability of fresh, local, "real" food grown by deep-organic farmers can help people "turn heads around far enough to clearly see the whole truth about human nutrition" — just as organic farming helped people see the truth about soil nutrition.
+Coleman"s ultimate argument is that the universal year-round availability of fresh, local, "real" food grown by deep-organic farmers can help people "turn heads around far enough to clearly see the whole truth about human nutrition" — just as organic farming helped people see the truth about soil nutrition.
 
 ## Practical Applications
 

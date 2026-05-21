@@ -31,11 +31,11 @@ D.H. Jarrold is the author of "Indoor Mushroom Growing Technique for the Boil-A-
 
 ## The Boil-A-Bag Innovation
 
-Jarrold's key innovation was recognizing that commercially available "boil-a-bag" roasting bags could serve as inexpensive, disposable cultivation containers. This eliminated the need for expensive canning jars or specialized autoclave bags, making mushroom cultivation accessible to anyone with a pressure cooker. The bags could be sterilized at 15 psi for 60 minutes and then inoculated through the plastic using a syringe needle.
+Jarrold"s key innovation was recognizing that commercially available "boil-a-bag" roasting bags could serve as inexpensive, disposable cultivation containers. This eliminated the need for expensive canning jars or specialized autoclave bags, making mushroom cultivation accessible to anyone with a pressure cooker. The bags could be sterilized at 15 psi for 60 minutes and then inoculated through the plastic using a syringe needle.
 
 ## Cultivation Philosophy
 
-Jarrold's approach prioritized practicality and cost-effectiveness over technical sophistication. His guide used household materials wherever possible: food cans as filters, masking tape for sealing, fish tanks as humidity chambers, and marmite as a nutrient supplement. This philosophy of making mushroom cultivation accessible to ordinary people echoes the broader democratization of mycological knowledge that has characterized the hobby cultivation movement.
+Jarrold"s approach prioritized practicality and cost-effectiveness over technical sophistication. His guide used household materials wherever possible: food cans as filters, masking tape for sealing, fish tanks as humidity chambers, and marmite as a nutrient supplement. This philosophy of making mushroom cultivation accessible to ordinary people echoes the broader democratization of mycological knowledge that has characterized the hobby cultivation movement.
 
 ## Detailed Method Documentation
 

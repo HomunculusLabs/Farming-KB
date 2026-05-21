@@ -21,13 +21,13 @@ Set encompasses the mental condition of the person at the time of the experience
 
 Hofmann emphasized that even unconscious feelings of happiness or fear can have a profound effect. LSD tends to intensify the actual psychic state: a feeling of happiness can be heightened to bliss, a depression can deepen to despair.
 
-This means that LSD is, in Hofmann's view, "the most inappropriate means imaginable for curing a depressive state." It is dangerous to take LSD in a disturbed, unhappy frame of mind, or in a state of fear, because the probability of a psychic breakdown increases dramatically.
+This means that LSD is, in Hofmann"s view, "the most inappropriate means imaginable for curing a depressive state." It is dangerous to take LSD in a disturbed, unhappy frame of mind, or in a state of fear, because the probability of a psychic breakdown increases dramatically.
 
 Key elements of set include:
 
 Current mood and emotional state at the time of ingestion.
 
-Personality structure, including existing vulnerabilities such as psychotic tendencies, suicidal ideation, or severe [[ayahuasca-pharmacology-and-cultural-context]]: the meanings and expectations associated with the drug in the person's cultural milieu.
+Personality structure, including existing vulnerabilities such as psychotic tendencies, suicidal ideation, or severe [[ayahuasca-pharmacology-and-cultural-context]]: the meanings and expectations associated with the drug in the person"s cultural milieu.
 
 ## The Dissolution of Ego Boundaries
 
@@ -45,7 +45,7 @@ The selection of patients is also important, since not all types of psychic dist
 
 Successful use of LSD-assisted psychoanalysis and psychotherapy presupposes specific knowledge and experience on the part of the therapist.
 
-The role of the therapist or guide is to establish a setting of trust, safety, and openness that allows the patient to surrender to the experience without fear. This includes careful attention to the physical environment, appropriate music, and the therapist's own calm, confident presence.
+The role of the therapist or guide is to establish a setting of trust, safety, and openness that allows the patient to surrender to the experience without fear. This includes careful attention to the physical environment, appropriate music, and the therapist"s own calm, confident presence.
 
 ## The Guide or "Sitter"
 

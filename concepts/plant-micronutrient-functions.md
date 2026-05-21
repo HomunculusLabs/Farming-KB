@@ -17,7 +17,7 @@ title: "Plant Micronutrient Functions"
 
 ## Overview
 
-Micronutrients are mineral elements required by plants in trace amounts, yet they are every bit as essential as the macronutrients. Per Von Liebig's [[nutritive-cycle-theory|Law of the Minimum]], if even the least-used nutrient is absent, all others become irrelevant -- the plant cannot grow or reproduce. The eight recognized micronutrients are boron (B), chlorine (Cl), copper (Cu), iron (Fe), manganese (Mn), molybdenum (Mo), nickel (Ni), and zinc (Zn).
+Micronutrients are mineral elements required by plants in trace amounts, yet they are every bit as essential as the macronutrients. Per Von Liebig"s [[nutritive-cycle-theory|Law of the Minimum]], if even the least-used nutrient is absent, all others become irrelevant -- the plant cannot grow or reproduce. The eight recognized micronutrients are boron (B), chlorine (Cl), copper (Cu), iron (Fe), manganese (Mn), molybdenum (Mo), nickel (Ni), and zinc (Zn).
 
 ## Iron (Fe)
 

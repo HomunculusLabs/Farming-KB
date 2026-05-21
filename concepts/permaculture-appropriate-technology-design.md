@@ -11,7 +11,7 @@ sources:
 Updated: 2026-04-18
 Appropriate technology in permaculture refers to tools, techniques, and
 systems that are matched to their context -- appropriate in scale, energy use,
-complexity, and cultural fit. The concept draws from E.F. Schumacher's "Small
+complexity, and cultural fit. The concept draws from E.F. Schumacher"s "Small
 is Beautiful" and Ivan Illich's critique of industrial mega-technology, applied
 through permaculture's design framework.
 ## The Principle of Appropriate Scale

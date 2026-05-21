@@ -11,7 +11,7 @@ tags: [strains, cubensis, varieties, potency, cultivation, taxonomy]
 
 *Psilocybe cubensis* is the most widely cultivated [[psilocybe-mexicana]]**: Native to Mexico, this species produces sclerotia —
 hardened masses of mycelium that serve as nutrient storage organs. Sold
-commercially as "philosopher's stones" or "magic truffles" in Dutch
+commercially as "philosopher"s stones" or "magic truffles" in Dutch
 smartshops. Moderate potency with a milder, more controllable experience.
 
 **[[cannabis-harvest-timing-visual-cues]] (potency

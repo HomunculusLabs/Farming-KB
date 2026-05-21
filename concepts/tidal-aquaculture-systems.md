@@ -35,7 +35,7 @@ Saltings (salt marsh grazing land) provide some of the finest goose grazing avai
 
 A remarkably simple and productive system can be created by digging ponds inland of salt marsh areas:
 
-1. **Channel construction** — drive a tractor back and forth through the reserve area (or dig a channel if one doesn't exist)
+1. **Channel construction** — drive a tractor back and forth through the reserve area (or dig a channel if one doesn"t exist)
 2. **Side slope** — maintain a gentle 3:1 slope so rocks don't collapse
 3. **Rock armoring** — place rocks on the tide side to block sea winds
 4. **Salt-resistant shrubs** — plant around the pond perimeter

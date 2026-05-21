@@ -8,7 +8,7 @@ created: 2026-05-09
 
 ## Shamanic Healing and Divination Paradigms
 
-Ralph Metzner's comparative analysis of hallucinogenic drug use across cultures
+Ralph Metzner"s comparative analysis of hallucinogenic drug use across cultures
 identified shamanic rituals of healing and divination as one of four major
 paradigms for working with psychoactive plants and fungi. While Western
 psychotherapy and indigenous shamanism may use similar substances, Metzner found

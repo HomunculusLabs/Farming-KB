@@ -23,7 +23,7 @@ Understanding these differences is essential for any serious engagement with the
 
 In this paradigm, the psychedelic drug is used to amplify and intensify the processes of internal self-analysis and self-understanding.
 
-The experience is understood as a product of the patient's own psyche — the drug merely loosens defenses and amplifies unconscious contents.
+The experience is understood as a product of the patient"s own psyche — the drug merely loosens defenses and amplifies unconscious contents.
 
 The goal is therapeutic insight into emotional dynamics and behavior patterns, and potentially the transcendence of limiting self-concepts.
 

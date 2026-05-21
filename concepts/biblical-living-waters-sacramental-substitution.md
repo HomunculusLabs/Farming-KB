@@ -26,7 +26,7 @@ Key scriptural passages are cited:
 
 - **Revelation 2:7** — "To him that overcometh will I give to eat of the tree of life, which is in the midst of the paradise of God"
 - **Revelation 2:17** — "To him that overcometh will I give to eat of the hidden manna, and will give him a white stone, and in the stone a new name written"
-- **Revelation 7:9-17** — Even the dead, before the throne of God, are led to "living fountains of waters" by the Lamb, suggesting the substance's importance extends beyond physical life
+- **Revelation 7:9-17** — Even the dead, before the throne of God, are led to "living fountains of waters" by the Lamb, suggesting the substance"s importance extends beyond physical life
 
 ## The Flesh and Blood of Jesus
 
@@ -48,7 +48,7 @@ The Epistle of James is cited to support the necessity of tangible sacramental a
 
 The "things needful to the body" are interpreted as the tangible sacramental substances — the "door," "comforter," "manna," "blood," "bread," "stone," and "works" — all described as physical, not merely symbolic.
 
-## Jeremiah's Broken Cisterns
+## Jeremiah"s Broken Cisterns
 
 The Book of Jeremiah contains what is interpreted as a prophetic lament about sacramental substitution:
 
@@ -59,7 +59,7 @@ This passage is analyzed as describing:
 1. **The first evil** — Forsaking the true "fountain of living waters" (the original entheogenic sacrament)
 2. **The second evil** — Creating "broken cisterns" that cannot hold water (substitutes that do not produce the described effects)
 
-The analogy is explicit: just as a broken light bulb is useless, a sacramental substance that fails to produce its intended effects is "broken and actually worthless." The text connects this to the concept of **[[amanita-muscaria]]'s distinctive appearance
+The analogy is explicit: just as a broken light bulb is useless, a sacramental substance that fails to produce its intended effects is "broken and actually worthless." The text connects this to the concept of **[[amanita-muscaria]]"s distinctive appearance
 - The glow represents the spiritual transformation experienced after receiving the "heavenly gift of the Holy Ghost"
 
 ## The Two Baptisms
@@ -69,7 +69,7 @@ Christian theology recognizes two baptisms:
 1. **Baptism by water** — The first baptism, symbolic cleansing
 2. **Baptism by fire** — The second, transformational baptism
 
-The mushroom's long association with fire (due to its red color and the "burning bush" of Moses) connects it to the second baptism. A 15th-century fresco is cited showing Jesus in a tub (water baptism) with a cross (mushroom symbol / fire baptism), depicting both sacraments simultaneously. Moses conversed with God in the "Burning Bush" on the mountaintop — where mushrooms naturally grow — further linking the mushroom to divine fire and revelation.
+The mushroom"s long association with fire (due to its red color and the "burning bush" of Moses) connects it to the second baptism. A 15th-century fresco is cited showing Jesus in a tub (water baptism) with a cross (mushroom symbol / fire baptism), depicting both sacraments simultaneously. Moses conversed with God in the "Burning Bush" on the mountaintop — where mushrooms naturally grow — further linking the mushroom to divine fire and revelation.
 
 ## The Danger of Sacramental Substitution
 
@@ -78,7 +78,7 @@ The text raises a serious concern about the psychological and spiritual effects 
 - Practitioners may convince themselves they feel something they do not actually feel
 - This self-deception may be "damaging to them beyond comprehension"
 - The placebo effect creates an illusion that ultimately obstructs genuine spiritual development
-- The urgency of Jesus's warnings about the necessity of the real sacrament is lost
+- The urgency of Jesus"s warnings about the necessity of the real sacrament is lost
 
 The parallel is drawn to fundamentalist Christians who feel compelled to "save" others — the difference being that "the substance that established religion is feeding their flock does not profit."
 

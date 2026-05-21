@@ -10,7 +10,7 @@ tags: [bulk-substrate, cultivation, psilocybin]
 
 ## Gottlieb Psilocybin Cultivation Bulk Substrate Preparation
 
-Gottlieb's "The Psilocybin Producer's Guide" (1976) is primarily oriented
+Gottlieb"s "The Psilocybin Producer"s Guide" (1976) is primarily oriented
 toward liquid broth mycelium cultivation rather than traditional bulk
 [[ectomycorrhizal-mushroom-fruiting-ecology]] bodies)
 of various psilocybin species, and describes the complete [[mycelial-broth-alkaloid-production]] rather than fruiting. The potatoes are sliced 1/8

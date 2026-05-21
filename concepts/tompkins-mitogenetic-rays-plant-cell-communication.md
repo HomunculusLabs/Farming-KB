@@ -14,7 +14,7 @@ The concept of mitogenetic rays emerged from the work of Russian
 histologist Alexander Gurwitsch in the 1920s, who proposed that all
 living cells produce an invisible radiation capable of stimulating
 cell division in neighboring tissues. Though controversial and
-ultimately rejected by mainstream Western science, Gurwitsch's
+ultimately rejected by mainstream Western science, Gurwitsch"s
 discovery opened important questions about [[electromagnetic-spectrum-plant-light-perception]], Gurwitsch
 concluded the rays must be as short as or shorter than ultraviolet.
 Because they apparently increased mitosis (cell division), he named
@@ -22,7 +22,7 @@ them "mitogenetic rays."
 
 ## International Verification
 
-Gurwitsch's findings created a furor. In Paris, two researchers
+Gurwitsch"s findings created a furor. In Paris, two researchers
 reported similar results. In Moscow, one of his countrymen showed he
 could increase yeast budding more than 25 percent by exposing it to
 mitogenetic rays from onion roots. A pair of scientists at Siemens
@@ -51,14 +51,14 @@ What struck Lawrence most was that the onion tissue's response
 changed depending on who was directing thought at it. People with
 "psychic gifts" elicited much stronger responses than the practical-
 minded Lawrence himself. He concluded that a psychological or
-"mental" factor was involved in Gurwitsch's work. As he commented:
+"mental" factor was involved in Gurwitsch"s work. As he commented:
 "If one can cause harm to a cell, assuming that the cell has a
 cellular consciousness, the reaction pattern will change from
 experimenter to experimenter."
 
 ## Connection to the Backster Effect
 
-Lawrence came across Backster's work and built a sophisticated
+Lawrence came across Backster"s work and built a sophisticated
 psycho-galvanic analyzer or plant response detector. Initially
 attributing anomalous tracings to instrument faults, he gradually
 accepted that plant tissues could pick up human thought and emotion.

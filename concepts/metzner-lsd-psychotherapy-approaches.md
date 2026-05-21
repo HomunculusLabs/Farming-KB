@@ -22,7 +22,7 @@ LSD ([[european-psycholytic-therapy-1960s-1970s]]:
 - **Expected resolution**: Insight into unconscious patterns would bring about
   resolution of inner conflicts
 
-### Grof's Discovery of Perinatal Matrices
+### Grof"s Discovery of Perinatal Matrices
 
 The Czech psychiatrist [[metzner-psycholytic-psychedelic-therapy-models]] developed in the early 1960s in Southern
 California, where Sidney Cohen, Oscar Janiger, and others began providing psychedelic

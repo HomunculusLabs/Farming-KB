@@ -1,5 +1,5 @@
 ---
-title: "Soil Food Web and Living Soil (Gaia's Garden)"
+title: "Soil Food Web and Living Soil (Gaia"s Garden)"
 tags:
   - concept
 ---
@@ -7,7 +7,7 @@ tags:
 **Source:** [[ecological-gardening-principles]] is that soil is not an inert
 substrate for growing plants—it is a living ecosystem teeming with more organisms
 than exist above ground. Hemenway opens the soil chapter with a Latin American
-farmer's observation: "Of course you have terrible soil problems in your country.
+farmer"s observation: "Of course you have terrible soil problems in your country.
 What do you expect when you call it dirt?" In our culture, soil gets little respect,
 yet it is where the dead are brought back to life.
 

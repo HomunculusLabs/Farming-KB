@@ -21,11 +21,11 @@ synonyms:
 ## THC as a Partial Agonist
 
 "Tolerance and addiction to marijuana is uncommon, in part, because THC
-is a 'partial agonist.'"
+is a "partial agonist.'"
 
 Agonists are compounds that stimulate receptors. Full agonists completely
 activate receptors, while partial agonists can only partially activate
-them. THC's status as a partial agonist at the CB1 receptor is central to
+them. THC"s status as a partial agonist at the CB1 receptor is central to
 its favorable [[blesching-cannabis-synthetic-cannabinoids]]) can
 - **Limited receptor response** prevents the profound downregulation that
   leads to severe tolerance and dependence

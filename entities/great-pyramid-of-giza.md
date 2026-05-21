@@ -17,7 +17,7 @@ The Great Pyramid of Giza is the oldest and largest of the three pyramids on the
 - **Category**: Ancient structure / Initiation site
 - **Location**: Giza plateau, Egypt (ancient KMT/Khemit)
 - **Period**: Old Kingdom, c. 2560 BCE (conventional dating)
-- **Key Feature**: King's Chamber with sarcophagus
+- **Key Feature**: King"s Chamber with sarcophagus
 
 ## Key Facts
 
@@ -35,7 +35,7 @@ The Great [[powell-shamanic-wisdom-and-ritual-practice]].
 
 ## Historical Significance
 
-Manley P. Hall and Peter Tompkins documented that "the candidate passed through the mystic passageways and chambers of the Great Pyramid, entering its portals as men and coming forth as Gods." The initiate's "KA" (spirit, depicted as a bird) was said to fly through spiritual spheres, discovering that "the entire universe is life, the entire universe is progress, the entire universe is eternal growth."
+Manley P. Hall and Peter Tompkins documented that "the candidate passed through the mystic passageways and chambers of the Great Pyramid, entering its portals as men and coming forth as Gods." The initiate"s "KA" (spirit, depicted as a bird) was said to fly through spiritual spheres, discovering that "the entire universe is life, the entire universe is progress, the entire universe is eternal growth."
 
 ## Research Directions
 

@@ -47,7 +47,7 @@ through 1964 (return to Jivaro focusing on hallucinogen use).
 
 ### Personal Hallucinogenic Experience
 
-A [[fukuoka-textdoc-post-season-cultivation-kochi-turning-point]] in Harner's career came in 1961 when he drank
+A [[fukuoka-textdoc-post-season-cultivation-kochi-turning-point]] in Harner"s career came in 1961 when he drank
 the Banisteriopsis brew during fieldwork with an Upper Amazon
 tribe. His experience was profound:
 
@@ -95,7 +95,7 @@ cultural specificities.
 
 ## Relevance to Cultivation and Mycology
 
-Harner's work is foundational for understanding how
+Harner"s work is foundational for understanding how
 hallucinogenic plants function within their cultural contexts.
 His insistence on "participant observation"—personally
 experiencing the hallucinogens he studied—pioneered a more

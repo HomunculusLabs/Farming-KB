@@ -36,7 +36,7 @@ Artichokes are perennial in mild climates (USDA zones 7-11) but can be grown as 
 
 - Start from seed or offsets (suckers from established plants).
 - Space plants 3-4 feet (90-120 cm) apart in all directions.
-- Need rich, fertile soil with abundant [[jeavons-seed-propagation-techniques]]:** Growing from seed allows access to a wider range of varieties and avoids transferring soil-borne diseases from established plants. However, seed-grown plants show considerable genetic variation, and not all will produce high-quality buds. Open-pollinated varieties like 'Green Globe' produce about 70% plants meeting [[cannabis-vegetative-growth-stage]] before flowering.
+- Need rich, fertile soil with abundant [[jeavons-seed-propagation-techniques]]:** Growing from seed allows access to a wider range of varieties and avoids transferring soil-borne diseases from established plants. However, seed-grown plants show considerable genetic variation, and not all will produce high-quality buds. Open-pollinated varieties like "Green Globe' produce about 70% plants meeting [[cannabis-vegetative-growth-stage]] before flowering.
 
 ## Nutrition and Watering
 

@@ -27,18 +27,18 @@ In his 1983 Esalen lecture "[[terence-mckenna]] articulated one of his most radi
 
 ## The DMT Onset: Quantum Mechanical Hallucinogenesis
 
-McKenna's reasoning began with the pharmacological properties of the tryptamine compounds. He cited the work of John Smythies, [[dennis-mckenna]]). These beings are:
+McKenna"s reasoning began with the pharmacological properties of the tryptamine compounds. He cited the work of John Smythies, [[dennis-mckenna]]). These beings are:
 
 - **Dynamically contorting topological modules** distinct from the surrounding background, which is itself undergoing continuous transformation.
 - Characterized by "very squeaky voices" and a tendency to "bathe one in love" that is "not erotic but open-hearted."
-- Described as "fractal reflections of some previously hidden and suddenly autonomous part of one's own psyche."
+- Described as "fractal reflections of some previously hidden and suddenly autonomous part of one"s own psyche."
 - Engaged in emitting sounds like music and language, producing a "language of alien meaning that is conveying alien information that cannot be Englished."
 
-The elves offer reassurance ("Don't be alarmed. Remember, and do what we are doing") and guidance against excessive wonder ("Don't get a loop of wonder going that quenches your ability to understand. Try not to be so amazed. Try to focus and look at what we're doing.").
+The elves offer reassurance ("Don"t be alarmed. Remember, and do what we are doing") and guidance against excessive wonder ("Don"t get a loop of wonder going that quenches your ability to understand. Try not to be so amazed. Try to focus and look at what we're doing.").
 
 ## The Exteriorization of the Soul
 
-McKenna's vision of the final human future involved a fundamental transformation:
+McKenna"s vision of the final human future involved a fundamental transformation:
 
 > "My vision of the final human future is an effort to exteriorize the soul and internalize the body, so that the exterior soul will exist as a superconducting lens of translinguistic matter generated out of the body of each of us at a critical juncture at our [[mckenna-exteriorized-soul-and-psychedelic-bar-mitzvah]]. From that point on, we will be eternal somewhere in the solid-state matrix of the translinguistic lens we have become."
 
@@ -49,7 +49,7 @@ Key elements include:
 - **Translinguistic matter**: A form of matter that inherently carries meaning, bypassing symbolic encoding and decoding.
 - **Psychedelic Bar Mitzvah**: The transformation is initiated by a critical psychedelic experience, a coming-of-age ceremony for the species.
 
-The corollary is that "one's body image will exist as a holographic wave transform while one is at play in the fields of the Lord and living in Elysium," the biological body becoming a secondary, internalized representation.
+The corollary is that "one"s body image will exist as a holographic wave transform while one is at play in the fields of the Lord and living in Elysium," the biological body becoming a secondary, internalized representation.
 
 ## The Noosphere and Language as Self-Replicating Information
 
@@ -65,11 +65,11 @@ McKenna positioned these ideas within a broader evolutionary framework:
 A complementary thread was the hypothesis that [[stropharia-cubensis]] mushrooms might be of extraterrestrial origin:
 
 - **Spore resilience**: Mushroom spores are among the hardest organic substances known, with [[mckenna-fungal-fossil-gap-spore-electron-density-and-metal-hardness]] approaching that of metal, deep purple to absorb deep ultraviolet radiation.
-- **Atmospheric escape**: Spores are light enough for Brownian motion to carry them to the edge of Earth's atmosphere, where energetic particles could eject some into interstellar space.
+- **Atmospheric escape**: Spores are light enough for Brownian motion to carry them to the edge of Earth"s atmosphere, where energetic particles could eject some into interstellar space.
 - **Galactic timescales**: Over hundreds of millions of years, spore dispersion could cross galactic distances at velocities as low as 0.01c.
 - **Fossil record absence**: No fungal fossils older than 40 million years are known, despite fossilized soft-bodied organisms from over a billion years ago.
 
-McKenna presented this with epistemological caution: "I don't necessarily believe what the mushroom tells me; rather we have a dialogue." The mushroom states: "I require the nervous system of a mammal. Do you have one handy?"
+McKenna presented this with epistemological caution: "I don"t necessarily believe what the mushroom tells me; rather we have a dialogue." The mushroom states: "I require the nervous system of a mammal. Do you have one handy?"
 
 ## The Alternative: The Alienated Soul
 

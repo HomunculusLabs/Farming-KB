@@ -11,7 +11,7 @@ tags: [winter-farming, mobile-greenhouse, crop-rotation, soil-health, green-manu
 
 ## Overview
 
-The mobile greenhouse is a central innovation in Eliot Coleman's winter harvest system at Four Season Farm. By mounting standard hoop houses on skids and rails so they can be moved between growing areas, Coleman solves several persistent problems of permanent greenhouse production simultaneously: soil degradation, pest and disease buildup, nutrient excess, and the conflict between summer and winter crop requirements. The mobile greenhouse concept, originally developed in England in 1898, has been adapted by Coleman into an economical, practical system for small-scale commercial farming. (see [[coleman-french-historical-winter-vegetable-production]] seemed implausible to most growers
+The mobile greenhouse is a central innovation in Eliot Coleman"s winter harvest system at Four Season Farm. By mounting standard hoop houses on skids and rails so they can be moved between growing areas, Coleman solves several persistent problems of permanent greenhouse production simultaneously: soil degradation, pest and disease buildup, nutrient excess, and the conflict between summer and winter crop requirements. The mobile greenhouse concept, originally developed in England in 1898, has been adapted by Coleman into an economical, practical system for small-scale commercial farming. (see [[coleman-french-historical-winter-vegetable-production]] seemed implausible to most growers
 
 ### Coleman's Adaptation
 

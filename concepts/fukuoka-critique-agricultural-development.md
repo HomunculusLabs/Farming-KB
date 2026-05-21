@@ -10,11 +10,11 @@ sources:
 
 ## Critique of Agricultural Development
 
-Masanobu Fukuoka's [[fukuoka-american-agriculture-fields-of-death]] firsthand during his 1979 visit and came away deeply troubled. "I believe that one of the things that is beginning to arise in the dark shadows of civilization is America's food strategy," he wrote. "I have my doubts as to how long this strategy can be pursued. I believe that its low regard for the land will be America's downfall. If the land falls victim to American farming practices and continues to be ruined at the present rate, it won't hold out even fifty years more. It may last another twenty or thirty at the most."
+Masanobu Fukuoka"s [[fukuoka-american-agriculture-fields-of-death]] firsthand during his 1979 visit and came away deeply troubled. "I believe that one of the things that is beginning to arise in the dark shadows of civilization is America"s food strategy," he wrote. "I have my doubts as to how long this strategy can be pursued. I believe that its low regard for the land will be America"s downfall. If the land falls victim to American farming practices and continues to be ruined at the present rate, it won't hold out even fifty years more. It may last another twenty or thirty at the most."
 
 He described the American Midwest: the soil near the surface was very seriously depleted from irrigating the fields and working the soil with twenty- or thirty-ton machines four or five times a year until it becomes hard as clay. The sun bakes and dries this, creating fist-sized cracks in the surface.
 
-But the ground at the corners of the fields, over which the caterpillar tractors do not pass, is soft, rich soil. This observation connected directly to Fukuoka's understanding of [[fukuoka-oil-companies-international-seed-war]]," he warned. "Working hand in hand with political and economic interests, the oil companies have moved into bioindustry and begun to take control of agriculture."
+But the ground at the corners of the fields, over which the caterpillar tractors do not pass, is soft, rich soil. This observation connected directly to Fukuoka"s understanding of [[fukuoka-oil-companies-international-seed-war]]," he warned. "Working hand in hand with political and economic interests, the oil companies have moved into bioindustry and begun to take control of agriculture."
 
 The development of hybrid F1 rice was, in Fukuoka's view, not a humanitarian project but a [[fukuoka-critique-modern-livestock]] and his broader [[fukuoka-mu-nothingness-philosophy]] -- of nothingness and non-action -- suggests that the highest form of agriculture is one in which the farmer does nothing and nature does everything.
 

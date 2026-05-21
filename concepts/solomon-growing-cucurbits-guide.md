@@ -44,7 +44,7 @@ spot when weather settles.
 ## Chitting Cucurbits
 
 Because of their sensitivity to cold, damp soil, chitting (pre-sprouting)
-cucurbits is especially worthwhile. Solomon's method:
+cucurbits is especially worthwhile. Solomon"s method:
 
 1. Fold a section of paper towelling into roughly a one-foot square.
 2. Dip it into tepid water and wring out the excess.

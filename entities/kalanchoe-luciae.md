@@ -9,7 +9,7 @@ tags:
 date: 2026-05-11
 updated: 2026-05-11
 sources:
-  - Descoings, B. (2003). "Flore du Gabon: Crassulaceae." Muséum National d'Histoire Naturelle, Paris.
+  - Descoings, B. (2003). "Flore du Gabon: Crassulaceae." Muséum National d"Histoire Naturelle, Paris.
 ---
 
 ## Overview

@@ -15,7 +15,7 @@ Golden Goat is a sativa-dominant [[thc-content-factors-cultivation-freshness-sto
 
 ## Genetic Lineage
 
-Golden Goat's lineage represents a convergence of several esteemed cannabis varieties:
+Golden Goat"s lineage represents a convergence of several esteemed cannabis varieties:
 
 - **Island Sweet Skunk** (mother): A sweet, tropical-flavored sativa-dominant strain known for its uplifting cerebral effects and skunky, fruity aroma profile. Island Sweet Skunk contributes much of Golden Goat's flavor character and euphoric high.
 - **Hawaiian** (pollen parent): A classic Hawaiian [[cannabis-vegetative-growth-stage]]. The branching pattern suggests the influence of both parent groups — the spreading lateral growth of Island Sweet Skunk combined with the denser node spacing from the Romulan side. Growers should anticipate significant lateral branching and prepare their canopy management strategy accordingly.
@@ -32,7 +32,7 @@ The aroma of Golden Goat is complex and layered, reflecting its diverse genetic 
 - **Secondary notes**: Earthy and piney undertones from the Romulan genetics add depth to the bouquet. Some phenotypes express a distinct sweetness that borders on candied or artificial fruit notes.
 - **Background**: A subtle funkiness that ties the complex aroma profile together, likely from the Skunk heritage present in the Island Sweet Skunk parent.
 
-The name "Golden Goat" reportedly originated from a Chinese/Jamaican fusion restaurant near the breeder's hometown, though the strain's actual aroma bears no resemblance to the restaurant's cuisine.
+The name "Golden Goat" reportedly originated from a Chinese/Jamaican fusion restaurant near the breeder"s hometown, though the strain's actual aroma bears no resemblance to the restaurant's cuisine.
 
 ## Effects and Experience
 
@@ -45,7 +45,7 @@ Golden Goat delivers a potent, predominantly cerebral high consistent with its s
 
 ## Dosage Guidance
 
-The breeder offers an important caution: "The rule with Golden Goat is that you can always smoke more, but you can't smoke less." Given the 24% THC content, novice users should approach this strain with moderation. Starting with a small amount and waiting 15–20 minutes before consuming more is advisable. Experienced users will find that the strain rewards measured consumption with a clean, motivating high.
+The breeder offers an important caution: "The rule with Golden Goat is that you can always smoke more, but you can"t smoke less." Given the 24% THC content, novice users should approach this strain with moderation. Starting with a small amount and waiting 15–20 minutes before consuming more is advisable. Experienced users will find that the strain rewards measured consumption with a clean, motivating high.
 
 ## Medical Applications
 

@@ -24,7 +24,7 @@ creative effort.
 ## Icaros — The Shamanic Songs of the Amazon
 
 Among mestizo and indigenous ayahuasceros in the Peruvian and Brazilian
-Amazon, the icaros constitute the shaman's primary therapeutic tool.
+Amazon, the icaros constitute the shaman"s primary therapeutic tool.
 
 Luis Eduardo Luna documented that vegetalistas claim to learn their
 icaros directly from the plant spirits during their dieta periods of

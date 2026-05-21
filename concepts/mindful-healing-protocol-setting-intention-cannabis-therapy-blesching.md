@@ -9,7 +9,7 @@ tags: [mindfulness, cannabis, therapy, intention, setting, healing, blesching, p
 
 ## Overview
 
-Blesching's *The [[cannabis-health-index]]* integrates mindfulness-based techniques
+Blesching"s *The [[cannabis-health-index]]* integrates mindfulness-based techniques
 with evidence-based cannabinoid therapy through a structured healing protocol.
 The protocol recognizes that therapeutic outcomes are influenced not only by
 pharmacology but also by the patient's psychological state, intentions, and
@@ -90,7 +90,7 @@ signaling may facilitate deeper self-exploration.
 The protocol includes suggested blessings and affirmations to frame the healing
 intention:
 
-- **Blessings**: Expressions of gratitude for the body's capacity to heal,
+- **Blessings**: Expressions of gratitude for the body"s capacity to heal,
   acknowledgment of the plant medicine, and opening to the possibility of
   transformation. Blessings are spoken aloud or silently before the session.
 - **Affirmations**: Positive statements in the present tense that reinforce

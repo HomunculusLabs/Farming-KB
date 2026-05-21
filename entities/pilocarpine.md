@@ -18,7 +18,7 @@ Pilocarpine is a parasympathomimetic alkaloid derived from the leaves of Pilocar
 
 ## Historical Use in Mushroom Poisoning
 
-### Sicard's Experiments (c. 1883)
+### Sicard"s Experiments (c. 1883)
 
 M. Sicard tested pilocarpine as an antidote after poisoning dogs with the Amanita alkaloid:
 

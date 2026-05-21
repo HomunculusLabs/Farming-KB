@@ -11,7 +11,7 @@ sources: ["raw/papers/the-psilocybin-solution-by-simon-g-powell.md"]
 
 The question of what consciousness is and how it relates to physical matter lies at the heart of understanding the [[weil-the-natural-mind-altered-states-normalcy]] of awareness lie in the realm of the intangible mind.
 
-Various types of substance, particularly those with a close molecular resemblance to the brain's neurotransmitters, elicit fairly predictable and characteristic changes in consciousness. If we consider psilocybin, it bridges the conceptual gap between the two worlds perfectly.
+Various types of substance, particularly those with a close molecular resemblance to the brain"s neurotransmitters, elicit fairly predictable and characteristic changes in consciousness. If we consider psilocybin, it bridges the conceptual gap between the two worlds perfectly.
 
 The more we can understand the psilocybin modus operandi, the closer we get to divining the actual design of the bridge linking mind to matter.
 

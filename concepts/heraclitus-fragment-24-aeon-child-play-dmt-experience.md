@@ -16,7 +16,7 @@ tags:
 
 The "colored balls" or "counters" of the fragment resonate with multiple aspects of the [[dmt-finnegans-wake-and-the-merry-go-raum]]:
 
-> "In Finnegans Wake such a place is called the 'merry go raum,' from the German word raum, for 'space.' The room is actually going around, and in that space one feels like a child, though one has come out somewhere in eternity."
+> "In Finnegans Wake such a place is called the "merry go raum,' from the German word raum, for 'space.' The room is actually going around, and in that space one feels like a child, though one has come out somewhere in eternity."
 
 The pun on "raum" (space/room) and "merry-go-round" captures the paradox of the DMT breakthrough: one enters a space that is itself in motion, and in that space one is simultaneously a child and an eternal being.
 
@@ -24,7 +24,7 @@ The pun on "raum" (space/room) and "merry-go-round" captures the paradox of the 
 
 ### Logos and the Translinguistic
 
-Heraclitus's concept of the Logos — the word, reason, or organizing principle — parallels McKenna's description of DMT as invoking the Logos:
+Heraclitus"s concept of the Logos — the word, reason, or organizing principle — parallels McKenna's description of DMT as invoking the Logos:
 
 > "Psilocybin and DMT invoke the Logos, although DMT is more intense and more brief in its action. This means that they work directly on the language centers."
 

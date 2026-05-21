@@ -48,7 +48,7 @@ Most people know coffee and tea, but several other plants produce significant ca
 
 ### Yaupon (Zone 7–9)
 
-1. **Get a plant**: Buy from a native plant nursery (search for *Ilex vomitoria* 'Stokes' for tea production)
+1. **Get a plant**: Buy from a native plant nursery (search for *Ilex vomitoria* "Stokes' for tea production)
 2. **Plant**: Spring or fall, in any well-drained soil, full sun to partial shade
 3. **Water**: Regularly for the first year; drought-tolerant after establishment
 4. **Fertilize**: Optional — compost once a year is plenty

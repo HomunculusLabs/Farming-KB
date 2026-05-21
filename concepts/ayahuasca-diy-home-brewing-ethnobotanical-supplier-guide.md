@@ -10,14 +10,14 @@ tags:
   - dmt
   - plant-medicine
 source:
-  - "Stuart, R. 'guzman-psilocybin-mushrooms-south-america.' MAPS Bulletin, Vol XII No 2, Summer 2002."
+  - "Stuart, R. "guzman-psilocybin-mushrooms-south-america.' MAPS Bulletin, Vol XII No 2, Summer 2002."
 ---
 
 ## Ayahuasca DIY Home-Brewing: Ethnobotanical Supplier Guide
 
 ## Overview
 
-R. Stuart's 2002 reporting on ayahuasca-pharmacology-and-cultural-context.
+R. Stuart"s 2002 reporting on ayahuasca-pharmacology-and-cultural-context.
 
 ## The Source Recommendation
 

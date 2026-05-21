@@ -48,7 +48,7 @@ The root system consists of a deep, branched taproot capable of reaching depths 
 
 The roots are black on the exterior with white, mucilaginous flesh. When broken, they exude a slimy sap that has been used traditionally as a poultice base. Root diameter at the crown may reach 5–8 cm on established plants.
 
-The chromosome number is 2n = 36 (triploid), which contributes to the plant's sterility and vigorous vegetative growth.
+The chromosome number is 2n = 36 (triploid), which contributes to the plant"s sterility and vigorous vegetative growth.
 
 ## Distribution and Habitat
 

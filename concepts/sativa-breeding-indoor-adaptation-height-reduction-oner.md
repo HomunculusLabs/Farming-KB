@@ -9,7 +9,7 @@ created: 2026-05-10
 
 ## Overview
 
-The challenge of adapting Cannabis sativa for indoor cultivation has been one of the most significant breeding projects in modern cannabis genetics. Sativa plants evolved in equatorial and subtropical regions where they naturally grow tall (8-14+ feet), flower for 12-16 weeks, and require intense sunlight. These traits are poorly suited to the space constraints, controlled environments, and economic pressures of indoor growing. S.T. Oner's *Cannabis Sativa Volume 3* documents how breeders worldwide have systematically addressed these challenges through hybridization, selection, and creative breeding strategies.
+The challenge of adapting Cannabis sativa for indoor cultivation has been one of the most significant breeding projects in modern cannabis genetics. Sativa plants evolved in equatorial and subtropical regions where they naturally grow tall (8-14+ feet), flower for 12-16 weeks, and require intense sunlight. These traits are poorly suited to the space constraints, controlled environments, and economic pressures of indoor growing. S.T. Oner"s *Cannabis Sativa Volume 3* documents how breeders worldwide have systematically addressed these challenges through hybridization, selection, and creative breeding strategies.
 
 ## The Sativa Problem for Indoor Growers
 

@@ -15,9 +15,9 @@ tags: [reference]
 ## Extravagance of Desire
 
 Fukuoka identified extravagance of desire as the fundamental cause
-of the world's predicament. The preference for fast rather than
+of the world"s predicament. The preference for fast rather than
 slow, more rather than less -- this flashy "development" -- has
-led directly to society's impending collapse. It has served only to
+led directly to society"s impending collapse. It has served only to
 separate humanity from nature. The solution, as Fukuoka saw it,
 requires stopping the indulgence of desire for material possessions
 and personal gain and moving toward spiritual awareness.

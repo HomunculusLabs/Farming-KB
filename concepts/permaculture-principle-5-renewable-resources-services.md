@@ -82,7 +82,7 @@ Despite being the great symbol of renewable energy, a high-tech society running 
 
 > The natural conversion of sunlight to electric charge that occurs in all green plant photosynthesis after 1 billion years of natural selection may already be the highest net EMERGY possible.
 
-Chloroplasts (nature's photovoltaic cells) show higher efficiency than hardware cells.
+Chloroplasts (nature"s photovoltaic cells) show higher efficiency than hardware cells.
 
 ### Appropriate Role for Solar Cells
 

@@ -6,7 +6,7 @@ date: 2026-05-09
 aliases: [Darwin Plant Experiments, two-phase-directed-growth-psilocybe-cubensis-basidiocarp-development responses.
 ---
 
-## Context: Darwin's Botanical Career
+## Context: Darwin"s Botanical Career
 
 Charles Darwin's botanical work is less well-known than his [[darkness-low-light-facilitation-entheogenic-ceremonies]] levels,
 far below the threshold for photosynthesis — establishing that it is a dedicated

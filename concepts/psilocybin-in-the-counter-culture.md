@@ -20,11 +20,11 @@ The role of [[psilocybin-mushrooms]] in the 1960s counterculture, from Harvard r
 
 ## From Medicine to Counterculture
 
-The evolution of psychedelics from legitimate research tools to countercultural icons was driven by several converging forces. [[albert-hofmann]] noted that LSD's spread from medicine into the drug scene was not a consequence of the discovery itself but had "deep-seated sociological causes: materialism, alienation from nature through industrialization and increasing urbanization, lack of satisfaction in professional employment in a mechanized, lifeless working world, ennui and purposelessness in a wealthy, saturated society."
+The evolution of psychedelics from legitimate research tools to countercultural icons was driven by several converging forces. [[albert-hofmann]] noted that LSD"s spread from medicine into the drug scene was not a consequence of the discovery itself but had "deep-seated sociological causes: materialism, alienation from nature through industrialization and increasing urbanization, lack of satisfaction in professional employment in a mechanized, lifeless working world, ennui and purposelessness in a wealthy, saturated society."
 
 ### Early Popularization
 
-- Popular magazines like *Look* and *MacLean's* published sensational firsthand accounts of LSD experiences, contributing enormously to public curiosity.
+- Popular magazines like *Look* and *MacLean"s* published sensational firsthand accounts of LSD experiences, contributing enormously to public curiosity.
 - Books such as Jane Dunlap's *Exploring Inner Space* (1961) and Constance Newland's *My Self and I* (1963) became bestsellers, describing therapeutic psychedelic experiences in intimate detail.
 - The mistaken belief that simply taking LSD or psilocybin would produce miraculous transformations led to widespread self-experimentation.
 
@@ -35,11 +35,11 @@ The evolution of psychedelics from legitimate research tools to countercultural 
 - **1960**: Leary traveled to Cuernavaca, Mexico and consumed psilocybin mushrooms, an experience he described as the most profound of his life. He returned to Harvard and, with Alpert, founded the **Harvard Psilocybin Project**.
 - The Project administered psilocybin to volunteers including graduate students, prisoners at Concord State Prison, and divinity students. The **Good Friday Experiment** (1962), conducted by [[walter-pahnke]], tested whether psilocybin could induce genuine mystical experiences in religious settings.
 - **1963**: Leary and Alpert were dismissed from Harvard amid controversy over their methods, their distribution of psychedelics to students, and their increasingly public advocacy.
-- After Harvard, Leary became a full-time counterculture figure, coining slogans like "Turn on, tune in, drop out." He moved to Millbrook, New York, where he hosted psychedelic sessions and became, in Hofmann's words, an "apostle of LSD."
+- After Harvard, Leary became a full-time counterculture figure, coining slogans like "Turn on, tune in, drop out." He moved to Millbrook, New York, where he hosted psychedelic sessions and became, in Hofmann"s words, an "apostle of LSD."
 
 ## The Acid Tests and the Grateful Dead
 
-While LSD was the primary psychedelic of the Acid Tests organized by Ken Kesey and the Merry Pranksters in the mid-1960s, psilocybin mushrooms were part of the broader psychedelic milieu. The **Human Be-In** in San Francisco's Golden Gate Park in January 1967, attended by approximately twenty thousand people, brought together Leary, Allen Ginsberg, and other figures of the Acid underground.
+While LSD was the primary psychedelic of the Acid Tests organized by Ken Kesey and the Merry Pranksters in the mid-1960s, psilocybin mushrooms were part of the broader psychedelic milieu. The **Human Be-In** in San Francisco"s Golden Gate Park in January 1967, attended by approximately twenty thousand people, brought together Leary, Allen Ginsberg, and other figures of the Acid underground.
 
 ## Academic Research Continued in Parallel
 
@@ -63,7 +63,7 @@ In the 1970s, psilocybin mushrooms "tipped" from academic curiosity to popular d
 
 ## Castaneda and Psychedelic Shamanism
 
-Carlos Castaneda's *The Teachings of Don Juan: A Yaqui Way of Knowledge* (1968) became one of the bestselling books of the era, telling the story of a rationalist anthropology student apprenticed to a Yaqui shaman who uses peyote, mushrooms (smoked as "humito"), and datura. The book popularized the idea of psychedelic shamanism and profoundly influenced how Westerners understood indigenous plant use. (Scholars later concluded that Castaneda fabricated much of the account.)
+Carlos Castaneda"s *The Teachings of Don Juan: A Yaqui Way of Knowledge* (1968) became one of the bestselling books of the era, telling the story of a rationalist anthropology student apprenticed to a Yaqui shaman who uses peyote, mushrooms (smoked as "humito"), and datura. The book popularized the idea of psychedelic shamanism and profoundly influenced how Westerners understood indigenous plant use. (Scholars later concluded that Castaneda fabricated much of the account.)
 
 ## Legacy
 

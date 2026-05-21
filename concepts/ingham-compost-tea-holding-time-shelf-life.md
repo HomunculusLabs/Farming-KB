@@ -9,7 +9,7 @@ tags:
 
 ### Immediate Application Is Ideal
 
-Ingham's primary recommendation is unequivocal: "Compost tea is meant to be made, and applied right away. There is no point in holding it, as you start to lose diversity after 48 to 72 hours."
+Ingham"s primary recommendation is unequivocal: "Compost tea is meant to be made, and applied right away. There is no point in holding it, as you start to lose diversity after 48 to 72 hours."
 
 The reason is straightforward biology. During active brewing, the [[query-how-do-fungal-volatile-compounds-affect-plant-growth-and-other-microorganisms]] hould not be applied to valuable plants
 

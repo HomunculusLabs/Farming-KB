@@ -16,7 +16,7 @@ The chemical approach bypasses the soil ecosystem entirely, applying factory-cre
 
 ## Origins of Organic Farming
 
-In the mid-1930s, organic farming arose from renewed recognition of soil organic matter's vital importance. Farmers observed undesirable changes in their soil and diminished crop and livestock health following the shift to chemical farming in the twentieth century. Their improvements over pre-chemical practices included more successful composting, symbiotically designed crop rotations, more effective green manuring, better management of plant residues, and adding mineral nutrients in their most natural form. The organic pioneers understood that the farm is not a factory but a human-managed microcosm of the natural world, where soil fertility is maintained through biological recycling of all plant and animal residues.
+In the mid-1930s, organic farming arose from renewed recognition of soil organic matter"s vital importance. Farmers observed undesirable changes in their soil and diminished crop and livestock health following the shift to chemical farming in the twentieth century. Their improvements over pre-chemical practices included more successful composting, symbiotically designed crop rotations, more effective green manuring, better management of plant residues, and adding mineral nutrients in their most natural form. The organic pioneers understood that the farm is not a factory but a human-managed microcosm of the natural world, where soil fertility is maintained through biological recycling of all plant and animal residues.
 
 ## The Battle for Legitimacy
 
@@ -26,7 +26,7 @@ The 1977 Washington University study by Barry Commoner's group provided the firs
 
 ## Deep-Organic Farming Defined
 
-Deep-organic farmers, beyond rejecting agricultural chemicals, actively seek better ways to farm by mimicking Nature's elegant soil-plant economy. Their practices include:
+Deep-organic farmers, beyond rejecting agricultural chemicals, actively seek better ways to farm by mimicking Nature"s elegant soil-plant economy. Their practices include:
 
 - Using freely available natural soil foods from deep-rooting legumes, green manures, and composts
 - Correcting the causes of infertility by establishing vigorous soil life

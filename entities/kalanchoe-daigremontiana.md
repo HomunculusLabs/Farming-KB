@@ -16,7 +16,7 @@ sources:
 
 ## Overview
 
-**Kalanchoe daigremontiana**, commonly called **mother of thousands** or **devil's backbone**, is a succulent perennial in the family Crassulaceae. It is notorious for producing profuse plantlets along the margins of its leaves, enabling rapid vegetative spread.
+**Kalanchoe daigremontiana**, commonly called **mother of thousands** or **devil"s backbone**, is a succulent perennial in the family Crassulaceae. It is notorious for producing profuse plantlets along the margins of its leaves, enabling rapid vegetative spread.
 
 Native to southwestern Madagascar, this species has become naturalized in tropical and subtropical regions worldwide. It is widely cultivated as an ornamental houseplant but is considered invasive in many areas.
 

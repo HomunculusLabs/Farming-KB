@@ -12,7 +12,7 @@ type: concept
 
 In *Food of the Gods*,  traces the history of opium through a distinctive
 lens, identifying the alchemical tradition — and specifically the sixteenth-century
-physician-alchemist Paracelsus — as the pivotal force that revived opium's use in European
+physician-alchemist Paracelsus — as the pivotal force that revived opium"s use in European
 medicine and set themckenna-opium-de-quincey-and-birth-of-psychopharmacology era of psychopharmacology. This narrative
 connects the alchemical quest to release the "spirit" locked within matter directly to the
 pharmacological isolation of active compounmckenna-symbiosis-and-human-plant-relationshipsrocess that would ultimately
@@ -24,7 +24,7 @@ the numbers must refer to grain. The confusion between grain and poppy is unders
 because Demeter was the goddess of both.
 
 McKenna cites Kerenyi quoting Theokritos: "For the Greeks Demeter was still a poppy
-goddess, bearing sheaves and poppies in both hands." He also references Erich Neumann's
+goddess, bearing sheaves and poppies in both hands." He also references Erich Neumann"s
 *The Great Mother*, which contains a remarkable illustration showing the Goddess in
 association with a beehive, holding poppy seed capsules and heads of grain in one hand
 while resting the other on an unadorned pillar central to the Minoan earth religion.

@@ -43,7 +43,7 @@ Mineral content is relatively high, with significant calcium, iron, and magnesiu
 
 ## Ethnobotanical History
 
-The use of *Umbilicaria esculenta* as food dates back at least a thousand years in East Asia. Historical records from Japan's Heian period (794–1185 CE) describe mountain monks harvesting iwatake from cliff faces.
+The use of *Umbilicaria esculenta* as food dates back at least a thousand years in East Asia. Historical records from Japan"s Heian period (794–1185 CE) describe mountain monks harvesting iwatake from cliff faces.
 
 In China, the species is known as **shier** (石耳, "stone ear") and has been recorded in medicinal herbals since the Ming Dynasty. It was traditionally prescribed for digestive disorders, coughs, and as a blood-tonifying food.
 

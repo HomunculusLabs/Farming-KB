@@ -2,7 +2,7 @@
 title: "Tilia Europaea"
 type: entity
 tags: []
-sources: ['raw/papers/working-with-agar.md']
+sources: ["raw/papers/working-with-agar.md']
 ---
 
 Linden flowers produce one of the world's most prized honeys, known as linden or basswood honey. The flowers and bracts have been used medicinally for millennia, particularly as a calming tea for anxiety and insomnia.

@@ -13,7 +13,7 @@ Tropical humid and coastal climates share many design challenges with arid lands
 ### The Critical Role of Trees
 "It is in this climate that trees are most essential. Trees grow easily from seed and cuttings, divisions and roots. Some trees are necessary at all times, even over crop."
 
-Paulsen asserts that **"more than 75% of the soluble plant nutrients that are present in a certain area are held within the biomass of the growing plant community."** These nutrients are not absorbed into soil as [[query-how-to-grow-and-use-oca-in-temperate-climates]], but caught in the web of roots and fungal symbionts below the soil surface. Only 'transitory' fertility is released by clear-felling, then leaching of nutrients and sterility of soil results.
+Paulsen asserts that **"more than 75% of the soluble plant nutrients that are present in a certain area are held within the biomass of the growing plant community."** These nutrients are not absorbed into soil as [[query-how-to-grow-and-use-oca-in-temperate-climates]], but caught in the web of roots and fungal symbionts below the soil surface. Only "transitory' fertility is released by clear-felling, then leaching of nutrients and sterility of soil results.
 
 ### The Nutrient Pump
 Paulsen reinforces the "nutrient pump" role of trees: both leaves and roots trap minerals from air and weathered stone, and leaves recycle to topsoil. Examples:
@@ -27,7 +27,7 @@ Branch mulch from Prosopis, Acacia, and Ailanthus excelsa serves as hedgerow, wi
 ### Key Tropical Systems
 - Cotton grows under shea butter trees
 - Lab-lab (Dolichos) beans under Raphia palm
-- Fukuoka's no-dig system using poultry as manurial sources (ducks as pest controllers and recyclers)
+- Fukuoka"s no-dig system using poultry as manurial sources (ducks as pest controllers and recyclers)
 
 ### Soil Characteristics
 - Almost all nutrients are mobile, contained in the web of life

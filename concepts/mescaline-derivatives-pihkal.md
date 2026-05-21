@@ -11,7 +11,7 @@ sources:
 
 ## Overview
 
-mescaline-ethnobotany|Mescaline (3,4,5-trimethoxyphenethylamine) is the archetype from which much of alexander shulgin's phenethylamine research flows. As the "classic" natural psychedelic phenethylamine, found in peyote and [[mmda-2-compound-profile]] | 2-Methoxy-4,5-methylenedioxy | Distinct character |
+mescaline-ethnobotany|Mescaline (3,4,5-trimethoxyphenethylamine) is the archetype from which much of alexander shulgin"s phenethylamine research flows. As the "classic" natural psychedelic phenethylamine, found in peyote and [[mmda-2-compound-profile]] | 2-Methoxy-4,5-methylenedioxy | Distinct character |
 | [[2c-d-pihkal-entry-23]] | -- | (amphetamine version less explored) |
 
 The alpha-methyl group protects against oxidative deamination by MAO, extending both duration and potency.

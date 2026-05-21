@@ -10,7 +10,7 @@ tryptamine]
 
 ## Overview
 
-In [[terence-mckenna]]'s framework, psilocybin is distinguished from other
+In [[terence-mckenna]]"s framework, psilocybin is distinguished from other
 psychedelics by its unique relationship to language and meaning. While
 LSD
 and mescaline primarily produce visual and emotional effects, psilocybin
@@ -60,7 +60,7 @@ Mushroom spores are physically suited to space travel: they are deep
 purple
 (the color absorbing deep ultraviolet), extremely light (enabling
 Brownian
-motion to carry them to the atmosphere's edge), and possess one of the
+motion to carry them to the atmosphere"s edge), and possess one of the
 hardest organic casings known. McKenna calculates that at 0.01c, a spore
 could cross the galaxy in 100 million years — eighteen times less than
 the
@@ -95,7 +95,7 @@ allowing
 sustained engagement with the translinguistic dimension.
 
 DMT produces more intense but harder-to-integrate experiences.
-Psilocybin's
+Psilocybin"s
 longer duration allows the experiencer to develop a relationship with
 the
 communicative presence and potentially extract more coherent
@@ -113,7 +113,7 @@ speculates that given sufficient cultural engagement over millennia,
 this
 capacity could become a cultural convenience comparable to mathematics.
 
-This connects to glossolalia — speaking in tongues — but McKenna's
+This connects to glossolalia — speaking in tongues — but McKenna"s
 version
 is distinct. Rather than incoherent vocalization, the tryptamine-induced
 glossolalia accesses an "assembly language behind language," a primal
@@ -130,7 +130,7 @@ the more precisely one articulates the tryptamine experience, the less
 others can understand. This creates a communication paradox where the
 most
 profound experiences become the least transmissible. He connects this to
-Borges' "The Sect of the Phoenix" — a secret that "all words name or
+Borges" "The Sect of the Phoenix" — a secret that "all words name or
 rather inevitably allude to."
 
 ## See Also

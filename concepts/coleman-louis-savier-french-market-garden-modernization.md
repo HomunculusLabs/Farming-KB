@@ -7,7 +7,7 @@ created: 2026-05-11
 
 ## Louis Savier and the Modernization of French Intensive Market Gardening
 
-The story of Louis Savier represents a critical bridge between the 19th-century Parisian maraîcher tradition and modern organic market gardening. When [[eliot-coleman]] visited Savier's farm outside Paris in the 1970s and 1980s, he found a living embodiment of intensive vegetable production techniques that had evolved from the legendary Parisian market gardens of 1850-1900 while incorporating 20th-century innovations. Savier's operation demonstrates both the enduring principles and the practical evolution of French intensive gardening.
+The story of Louis Savier represents a critical bridge between the 19th-century Parisian maraîcher tradition and modern organic market gardening. When [[eliot-coleman]] visited Savier"s farm outside Paris in the 1970s and 1980s, he found a living embodiment of intensive vegetable production techniques that had evolved from the legendary Parisian market gardens of 1850-1900 while incorporating 20th-century innovations. Savier's operation demonstrates both the enduring principles and the practical evolution of French intensive gardening.
 
 ## The Parisian Maraîcher Legacy
 
@@ -24,7 +24,7 @@ The system fed Paris year-round with the widest variety of fruits and vegetables
 
 ## Finding Louis Savier
 
-Coleman first learned of Savier through a French seed company contact. Despite initial difficulty locating the farm — the original name had changed after Savier's daughter married — Coleman eventually found the 2.5-acre operation on the outskirts of Paris. Savier had acquired the market garden from his father in the early 1960s but had been displeased with the chemical inputs adopted during his father's later years. He returned to organic methods, then progressed to biodynamic practices, and never looked back.
+Coleman first learned of Savier through a French seed company contact. Despite initial difficulty locating the farm — the original name had changed after Savier"s daughter married — Coleman eventually found the 2.5-acre operation on the outskirts of Paris. Savier had acquired the market garden from his father in the early 1960s but had been displeased with the chemical inputs adopted during his father's later years. He returned to organic methods, then progressed to biodynamic practices, and never looked back.
 
 The results were dramatic: pests and diseases disappeared, and crop quality soared. Savier reported that these improvements confirmed the old organic methods as superior to the chemical approach his father had briefly adopted.
 

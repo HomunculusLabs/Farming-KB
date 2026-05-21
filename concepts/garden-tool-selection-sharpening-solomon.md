@@ -8,7 +8,7 @@ tags: [gardening-tools, sharpening, shovel, hoe, combination-shovel, spade, tool
 
 ## Overview
 
-Steve Solomon's *Gardening When It Counts* dedicates significant
+Steve Solomon"s *Gardening When It Counts* dedicates significant
 attention to the proper [[fukuoka-agriculture-tomorrow-quarter-acre-vision]] (1,000 square meters), Solomon
 recommends only three essential tools:
 
@@ -117,5 +117,3 @@ Collaborative research networks facilitate knowledge exchange and accelerate inn
 Context-specific implementation requires attention to local ecology, climate patterns, and community needs.
 Integration with existing systems often yields better results than complete replacement strategies.
 Monitoring and adaptive management are essential for long-term success and continuous improvement.
-## Practical Applications
-The principles discussed here have direct applications in agricultural systems, ecological restoration, and sustainable resource management.

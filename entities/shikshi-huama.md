@@ -10,7 +10,7 @@ Shikshi huama (*Dictyoloma peruvianum*) is a medicinal plant recognized in [[fun
 
 ## Key Facts
 
-- Used for curing *putanerta* — calming women's excessive sexual desires, making them less ardent
+- Used for curing *putanerta* — calming women"s excessive sexual desires, making them less ardent
 - Prepared by cooking with albahaca (*Ocimum micranthum*, wild basil) for calming effects on desire
 - Mixed with camphor and pucunucho (*Capsicum* sp.) for treatment of **cancerous ulcers**
 - The name combines Quechua and local terms; *huama* often refers to trees or large plants in Quechua botanical nomenclature

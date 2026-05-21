@@ -9,7 +9,7 @@ links otherwise separate species into a single informational network.
 Crucially, McKenna suggested that some exopheromones possess outsized
 leverage: a small group of individuals producing or carrying these compounds
 can affect an entire community or even a biome. This amplification effect
-makes exopheromones potentially among the most powerful tools in nature's
+makes exopheromones potentially among the most powerful tools in nature"s
 repertoire for coordinating complex ecological systems.
 
 ## Nature as an Organismic Whole

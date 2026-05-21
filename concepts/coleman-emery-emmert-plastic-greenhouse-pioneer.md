@@ -14,7 +14,7 @@ winter in unheated structures with an inner layer of protection. Despite
 these revolutionary contributions, Emmert remains largely unknown outside
 specialist circles. [[coleman-protected-cultivation]]. Glass greenhouses
 were designed to be heated structures for growing warm-season crops in cold
-weather. Emmert's plastic structures were conceived as simple shelters that
+weather. Emmert"s plastic structures were conceived as simple shelters that
 modified the [[arbuscule-isolation-metabolic-activity-assays]]
 during the short daylight hours of winter.
 

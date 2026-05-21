@@ -4,7 +4,7 @@ created: 2026-04-17
 updated: 2026-04-18
 type: entity
 tags: [psychedelics]
-sources: ['raw/papers/gartz-growth-promoting-effect-of-brassinosteroid-psilocybe-cubensis.md']
+sources: ["raw/papers/gartz-growth-promoting-effect-of-brassinosteroid-psilocybe-cubensis.md']
 ---
 
 ## MDAI — 5,6-Methylenedioxy-2-aminoindane

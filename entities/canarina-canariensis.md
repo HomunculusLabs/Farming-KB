@@ -60,7 +60,7 @@ humid ravines and north-facing slopes with persistent cloud cover.
 
 Populations are fragmented, with the largest concentrations in the Anaga and
 Teno massifs of Tenerife and in Garajonay National Park on La Gomera. Smaller
-populations persist in scattered refugia across Gran Canaria's northern slopes.
+populations persist in scattered refugia across Gran Canaria"s northern slopes.
 
 ## Ecology
 

@@ -14,7 +14,7 @@ tags: [agar]
 
 The fly-agaric ([[shipibo-san-francisco-ceremonial-center-ucayali]] band Jefferson Airplane, a song that played a part in
 broadcasting to the world the news about mushrooms. Backed by a classic
-sixties [[leary-psychedelic-experience-bardo-mapping]] in a thinly disguised code: "You've
+sixties [[leary-psychedelic-experience-bardo-mapping]] in a thinly disguised code: "You"ve
 just had some kind of mushroom, and your mind is moving slow... Go ask Alice,
 I think she'll know."
 

@@ -23,7 +23,7 @@ The Chikhai Bardo (also spelled Chikhai Bardo) is the first of the three bardo p
 - In the Chikhai Bardo, there are no visions, no sense of self, and no thoughts — only pure awareness and ecstatic freedom from all game and biological involvements.
 - The Tibetans describe the primary experience as encountering the "Clear Light" — a luminous, empty, radiant awareness that is the fundamental nature of mind itself.
 - For the prepared and experienced practitioner, this state can be maintained and deepened. For the unprepared, it is fleeting and quickly followed by descent into the [[chonyid-bardo]] (hallucinatory phase).
-- The key instruction is to recognize the Clear Light as one's own true nature and to merge with it without fear or resistance.
+- The key instruction is to recognize the Clear Light as one"s own true nature and to merge with it without fear or resistance.
 - In the psychedelic context, this corresponds to the peak onset period of high-dose LSD or psilocybin experiences, particularly with doses above 300–400 μg LSD or 5+ grams dried [[psilocybin-mushrooms]].
 
 ## Relevance to Psychedelic Studies

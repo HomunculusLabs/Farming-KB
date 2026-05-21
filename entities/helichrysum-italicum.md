@@ -32,7 +32,7 @@ sources:
 - **Genus:** *Helichrysum*
 - **Species:** *H. italicum*
 
-The genus name derives from the Greek *helios* (sun) and *chrysos* (gold), referring to the bright golden-yellow flower heads. The specific epithet *italicum* denotes its Italian origins. The common name "immortelle" (French for "immortal") reflects the flowers' remarkable ability to retain their shape and color indefinitely when dried — a characteristic shared with other *Helichrysum* species. The name "curry plant" comes from the strong curry-like aroma of the foliage, though the plant is not used in actual curry preparations and is unrelated to curry tree (*[[agaricus-campestris-biology-and-life-cycle]]:** Perennial subshrub
+The genus name derives from the Greek *helios* (sun) and *chrysos* (gold), referring to the bright golden-yellow flower heads. The specific epithet *italicum* denotes its Italian origins. The common name "immortelle" (French for "immortal") reflects the flowers" remarkable ability to retain their shape and color indefinitely when dried — a characteristic shared with other *Helichrysum* species. The name "curry plant" comes from the strong curry-like aroma of the foliage, though the plant is not used in actual curry preparations and is unrelated to curry tree (*[[agaricus-campestris-biology-and-life-cycle]]:** Perennial subshrub
 - **Height:** 20–60 cm (8–24 inches)
 - **Form:** Low, mounding, woody at the base
 - **Lifespan:** 5–10 years in cultivation

@@ -12,7 +12,6 @@ updated: 2026-04-28
 sources:
   - Personal knowledge base
   - Extension service comparison-beneficial-insects-guide-vs-integrated-pest-management guides---
----
 
 ## Diatomaceous Earth and Natural Pest Management
 

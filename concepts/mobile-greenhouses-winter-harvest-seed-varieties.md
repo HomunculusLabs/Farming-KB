@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-[[mobile-greenhouses]] represent one of the most innovative approaches to year-round growing, allowing a single structure to serve multiple plots of land through seasonal movement. Combined with carefully selected cold-tolerant varieties, mobile greenhouses enable growers to extend the harvest season dramatically. This page covers two [[mobile-greenhouse]] systems, row cover suppliers, seed companies specializing in [[greenhouse-suppliers-and-winter-harvest-varieties]], and Coleman's recommended variety list.
+[[mobile-greenhouses]] represent one of the most innovative approaches to year-round growing, allowing a single structure to serve multiple plots of land through seasonal movement. Combined with carefully selected cold-tolerant varieties, mobile greenhouses enable growers to extend the harvest season dramatically. This page covers two [[mobile-greenhouse]] systems, row cover suppliers, seed companies specializing in [[greenhouse-suppliers-and-winter-harvest-varieties]], and Coleman"s recommended variety list.
 
 ## Mobile Greenhouse Systems
 

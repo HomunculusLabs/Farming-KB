@@ -12,7 +12,7 @@ The fly agaric (Amanita muscaria) is perhaps the most recognizable mushroom in t
 
 ## Description
 
-This beautiful fungus is well known, featuring in nursery pictures, table decorations, films such as Fantasia, and serving as a model for children's toys. The cap is scarlet or orange-red, slightly viscid, shiny and dotted with thick white or yellowish wart-like patches often arranged more or less concentrically.
+This beautiful fungus is well known, featuring in nursery pictures, table decorations, films such as Fantasia, and serving as a model for children"s toys. The cap is scarlet or orange-red, slightly viscid, shiny and dotted with thick white or yellowish wart-like patches often arranged more or less concentrically.
 
 It expands from roundish to flat with a striate edge. The crowded gills are white or tinted with yellow. The stem is white, stuffed then hollow, often scaly, with a bulbous base encircled by several zones of white or yellowish squamules.
 

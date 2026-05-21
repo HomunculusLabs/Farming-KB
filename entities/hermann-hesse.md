@@ -26,10 +26,10 @@ Hermann Hesse (1877–1962) was a German-Swiss novelist, poet, and painter who r
 - His novels explore themes of self-discovery, duality, spiritual seeking, and transcendence
 
 ## The "Magic Theatre" in the Bardo Framework
-Leary borrows from *Steppenwolf* the concept of **"The Magic Theatre"** for **Vision 7** of the Second Bardo. This is the final and most dramatic of the Peaceful Visions, where the play of forms becomes the play of heroic figures, superhuman spirits, and demigods. It corresponds to the Tibetan [[bardo-thodol]]'s vision of the five "Knowledge-Holding Deities" in ecstatic dance with Dakinis. The "Magic Theatre" represents the most active, dramatic, and personality-rich phase of the visionary experience.
+Leary borrows from *Steppenwolf* the concept of **"The Magic Theatre"** for **Vision 7** of the Second Bardo. This is the final and most dramatic of the Peaceful Visions, where the play of forms becomes the play of heroic figures, superhuman spirits, and demigods. It corresponds to the Tibetan [[bardo-thodol]]"s vision of the five "Knowledge-Holding Deities" in ecstatic dance with Dakinis. The "Magic Theatre" represents the most active, dramatic, and personality-rich phase of the visionary experience.
 
 ## Relevance to Cultivation and Mycology
-Hesse's literary explorations of consciousness provide cultural touchpoints for understanding psychedelic experiences. *Siddhartha* is frequently cited by people describing their psilocybin journeys, particularly the theme of direct experience transcending doctrinal knowledge. The "Magic Theatre" vision corresponds to the dramatic, narrative-type experiences often reported in higher-dose psilocybin sessions.
+Hesse"s literary explorations of consciousness provide cultural touchpoints for understanding psychedelic experiences. *Siddhartha* is frequently cited by people describing their psilocybin journeys, particularly the theme of direct experience transcending doctrinal knowledge. The "Magic Theatre" vision corresponds to the dramatic, narrative-type experiences often reported in higher-dose psilocybin sessions.
 
 ## Historical Context
 

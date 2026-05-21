@@ -15,7 +15,7 @@ Steve Solomon provides a candid and experience-based critique of permanent mulch
 ### The Theory
 
 Permanent mulching—covering garden soil with a continuous layer of organic material such as hay, straw, or leaves—sounds ideal:
-- Nature doesn't dig; it lets [[coleman-overwintered-onions-and-early-spring-crops]]
+- Nature doesn"t dig; it lets [[coleman-overwintered-onions-and-early-spring-crops]]
 - [[query-how-to-protect-plants-from-frost-and-extend-the-growing-season]]
 
 In short-season climates, this delay can mean the difference between a successful harvest and crop failure.

@@ -16,7 +16,7 @@ for identification.
 
 ## The Four Grand Divisions
 
-Palmer's system begins with the most fundamental distinction in mushroom
+Palmer"s system begins with the most fundamental distinction in mushroom
 anatomy: the nature of the surface that bears the reproductive spores. He
 identified four grand divisions, advising the amateur to pick up the next
 toadstool found, look under the cap, and observe one of four things.
@@ -31,7 +31,7 @@ both edible and deadly poisonous species. Palmer regarded the Agaricini as "the
 least safe for the amateur" because of the difficulty of distinguishing benign
 from dangerous members within the group.
 
-Within this family, Palmer's key considered gill attachment (free vs. attached
+Within this family, Palmer"s key considered gill attachment (free vs. attached
 to the stem), gill color progression (from white through pink to purple to
 black), cap characteristics, stem features, and the presence or absence of a
 ring or volva. White-gilled specimens with a membranous volva at the base were
@@ -65,7 +65,7 @@ safe when white inside.
 
 ## Decision Tree Approach
 
-Palmer's key functioned as a binary decision tree, guiding the user through a
+Palmer"s key functioned as a binary decision tree, guiding the user through a
 series of observations organized into series. The key began with the most
 obvious feature — the type of spore-bearing surface — and then narrowed through
 secondary characteristics.

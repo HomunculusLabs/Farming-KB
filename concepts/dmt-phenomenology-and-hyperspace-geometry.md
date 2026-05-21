@@ -13,13 +13,13 @@ sources: [raw/papers/mckenna_t-tryptamines_consciousness.md]
 
 N,N-Dimethyltryptamine (DMT) is the most intense and brief-acting of the classical [[terence-mckenna]], who first experimented with DMT in 1965, described its phenomenology as uniquely distinct from other psychedelics — producing experiences that feel more like "visits" to autonomous realms than the extended, internally reflective states characteristic of [[mescaline-compound-profile]].
 
-The [[mckenna-dmt-onset-phenomenology-ripping-cellophane]]" or crumpling plastic film, accompanied by an ascending tone. McKenna's associate suggested this sound represents "our [[dmt-finnegans-wake-and-the-merry-go-raum]] to describe the characteristic DMT space as the "merry go raum" — from the German *raum* for "space."
+The [[mckenna-dmt-onset-phenomenology-ripping-cellophane]]" or crumpling plastic film, accompanied by an ascending tone. McKenna"s associate suggested this sound represents "our [[dmt-finnegans-wake-and-the-merry-go-raum]] to describe the characteristic DMT space as the "merry go raum" — from the German *raum* for "space."
 
 The room is perceived as literally going around, creating a sense of being inside a rotating, enclosed space.
 
 This environment is described as having a consistent architecture across multiple experiences and multiple experiencers, suggesting either a shared neurobiological template or, as McKenna argues, access to a genuinely transpersonal dimension.
 
-The experience evokes Heraclitus's twenty-fourth fragment: "The Aeon is a child at play with colored balls."
+The experience evokes Heraclitus"s twenty-fourth fragment: "The Aeon is a child at play with colored balls."
 
 Under DMT, the subject becomes that Aeon at play, meeting entities while surrounded by these colored, rotating forms.
 

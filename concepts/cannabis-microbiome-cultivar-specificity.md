@@ -10,7 +10,7 @@ type: concept
 
 ## Overview
 
-Cannabis presents a compelling model for studying plant–microbiome interactions due to its rich profile of secondary metabolic compounds. Despite the crop's economic importance, remarkably little was known about its soil-based microbial associations prior to this study. Winston et al. (2014) provided the first comprehensive description of the endorhiza-, rhizosphere-, and bulk soil-associated bacterial microbiomes across five distinct Cannabis cultivars, demonstrating that bacterial communities within the endorhiza (root interior) exhibit significant cultivar-specificity.
+Cannabis presents a compelling model for studying plant–microbiome interactions due to its rich profile of secondary metabolic compounds. Despite the crop"s economic importance, remarkably little was known about its soil-based microbial associations prior to this study. Winston et al. (2014) provided the first comprehensive description of the endorhiza-, rhizosphere-, and bulk soil-associated bacterial microbiomes across five distinct Cannabis cultivars, demonstrating that bacterial communities within the endorhiza (root interior) exhibit significant cultivar-specificity.
 
 ## Background: The Role of Soil Microbes in Plant Health
 

@@ -8,7 +8,7 @@ type: concept
 
 ## Scientific Discovery Timeline in Australia
 
-- **Pre-1934:** First suspected hallucinogenic mushroom intoxication in Australia (Cleland's colleague's parents ate dung-inhabiting mushrooms, experienced hilarity)
+- **Pre-1934:** First suspected hallucinogenic mushroom intoxication in Australia (Cleland"s colleague's parents ate dung-inhabiting mushrooms, experienced hilarity)
 - **1941–1945:** Numerous reports of "hysteria fungus" poisonings attributed to *Panaeolus ovatus* — actually likely *[[copelandia-cyanescens]]* (which is not psychoactive)
 - **1958:** Aberdeen and Vogt documented *[[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]]* as the first known psychoactive mushroom in Australia (Springbrook, Qld)
 - **1970:** Picker and Rickards found psilocybin (but no psilocin) in *P. subaeruginosa* — second confirmed species
@@ -50,7 +50,7 @@ Duration: **3–6 hours** (vs. 8–12 hours for LSD, mescaline, MDA). Onset: **1
 4. **Do NOT use** chlorpromazine or other anti-cholinergics — mushrooms have anti-cholinergic effects of their own
 5. **Gastric lavage/emesis** — generally NOT recommended once psychological effects have commenced; not helpful and may worsen aggression. Only warranted if toxic mushroom species suspected or patient is a young child
 
-Dr. Jansen's classification of medical presentations:
+Dr. Jansen"s classification of medical presentations:
 - (a) Adolescents with little knowledge, without experienced sitters
 - (b) Falls due to impaired balance/muscle weakness
 - (c) Acute anxiety/panic, depression, paranoia, disorientation

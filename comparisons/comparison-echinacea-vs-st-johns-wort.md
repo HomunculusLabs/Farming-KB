@@ -1,5 +1,5 @@
 ---
-title: "Echinacea vs St. John's Wort"
+title: "Echinacea vs St. John"s Wort"
 tags: [comparison, medicinal-herbs, immune-health, mental-health, herbal-medicine]
 date: 2026-05-10
 updated: 2026-05-10

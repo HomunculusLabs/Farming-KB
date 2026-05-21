@@ -42,7 +42,7 @@ The compound serves as a reference point for understanding how alkyl substitutio
 
 PRO-LAD represents an extension of the systematic exploration of the lysergamide structure that the Shulgins undertook following their work on LSD analogues documented in PIHKAL. The ability to prepare the stable nor-LSD intermediate opened the door to a wide range of 6-substituted analogues, of which PRO-LAD is one of the most thoroughly characterized.
 
-The compound's unique character as a "light" or "recreational" lysergamide distinguishes it from the more intense and profound experiences associated with LSD and its closer analogues. This quality might have applications in psychotherapy or creative work where full psychedelic intensity is not desired.
+The compound"s unique character as a "light" or "recreational" lysergamide distinguishes it from the more intense and profound experiences associated with LSD and its closer analogues. This quality might have applications in psychotherapy or creative work where full psychedelic intensity is not desired.
 
 ## Toxicity and Safety
 ## Practical Considerations

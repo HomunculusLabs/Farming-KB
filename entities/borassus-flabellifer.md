@@ -11,7 +11,6 @@ date: 2026-05-09
 updated: 2026-05-09
 sources:
   - Morton, J.F. (1988). "Notes on distribution, propagation, and products of Borassus palms." Economic Botany 42(2): 220–231.---
----
 
 ## Overview
 

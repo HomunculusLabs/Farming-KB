@@ -7,13 +7,13 @@ related: [solomon-seed-starting-transplanting, solomon-irrigation-water-manageme
 
 ## Essential Gardening Tools and Their Care
 
-[[steve-solomon]]'s "Gardening When It Counts" advocates a deliberately minimalist
+[[steve-solomon]]"s "Gardening When It Counts" advocates a deliberately minimalist
 approach to gardening tools. Unlike [[solomon-garden-centers-seedling-traps]] and their extensive product
 catalogs.
 
 ## The Minimalist Tool Philosophy
 
-Solomon explicitly challenges the garden center industry's promotion of
+Solomon explicitly challenges the garden center industry"s promotion of
 appealing but unnecessary merchandise. He writes that most people look to
 "Everybody Else" for guidance before making decisions, and that garden
 magazines, garden centers, and seed catalogs all promote the fiction that

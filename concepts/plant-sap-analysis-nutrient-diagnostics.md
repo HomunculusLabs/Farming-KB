@@ -12,9 +12,9 @@ sources:
 
 ## Overview
 
-Plant sap analysis is a diagnostic technique that measures the nutrient concentration in the fluid transported through a plant's vascular system. Unlike traditional leaf tissue testing — which requires drying, grinding, and acid digestion of whole leaves — sap analysis extracts the mobile fraction of nutrients currently in circulation within the xylem and phloem. Compared to soil testing, which reveals what is available in the root zone but says nothing about actual uptake, sap analysis provides a direct window into what the plant has absorbed and is actively transporting.
+Plant sap analysis is a diagnostic technique that measures the nutrient concentration in the fluid transported through a plant"s vascular system. Unlike traditional leaf tissue testing — which requires drying, grinding, and acid digestion of whole leaves — sap analysis extracts the mobile fraction of nutrients currently in circulation within the xylem and phloem. Compared to soil testing, which reveals what is available in the root zone but says nothing about actual uptake, sap analysis provides a direct window into what the plant has absorbed and is actively transporting.
 
-Together, these three methods — soil testing, sap analysis, and tissue testing — form a complementary diagnostic triangle. Soil testing answers "what's available," tissue testing answers "what's accumulated," and sap analysis answers "what's moving right now." No single method gives a complete picture, but combining them allows growers to diagnose [[mollison-designers-market-garden-intensive-production-design]] systems where margins are tight and nutrient inefficiency directly impacts profitability.
+Together, these three methods — soil testing, sap analysis, and tissue testing — form a complementary diagnostic triangle. Soil testing answers "what"s available," tissue testing answers "what"s accumulated," and sap analysis answers "what"s moving right now." No single method gives a complete picture, but combining them allows growers to diagnose [[mollison-designers-market-garden-intensive-production-design]] systems where margins are tight and nutrient inefficiency directly impacts profitability.
 
 ## What Sap Analysis Measures
 

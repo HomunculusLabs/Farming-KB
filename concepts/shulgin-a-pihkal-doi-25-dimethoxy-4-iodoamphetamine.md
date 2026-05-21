@@ -73,7 +73,7 @@ The phthalimide route was chosen to ensure clean, specific iodination at the 4-p
 
 ## Optical Isomer Studies
 
-As with all psychedelic amphetamines possessing a chiral center, DOI's isomers show dramatically different potency:
+As with all psychedelic amphetamines possessing a chiral center, DOI"s isomers show dramatically different potency:
 
 - **R-isomer (1.0 mg)**: Clear ++ from hours 2-8. "Sensible" and functional. Easy sleep at 15 hours.
 - **R-isomer (2.3 mg)**: Unquestionable +++. Slight down mood towards end. Distinctly aware of residual effects well into the next day.
@@ -83,7 +83,7 @@ The R-isomer appears approximately 4x more potent than the S-isomer in humans, t
 
 ## 5-HT2 Receptor Research
 
-DOI's most important contribution to science is as a tool for studying [[fungal-biogeography-distribution-patterns]] using whole-body scanning
+DOI"s most important contribution to science is as a tool for studying [[fungal-biogeography-distribution-patterns]] using whole-body scanning
 - Study the time course of [[psychedelic-compounds-reference]] by extrapolation
 - Track pulmonary-first metabolism of amphetamine psychedelics
 

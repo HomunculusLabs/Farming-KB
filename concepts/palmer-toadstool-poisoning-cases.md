@@ -13,7 +13,7 @@ type: concept
 Julius A. Palmer maintained a careful record of poisoning cases
 throughout his years of study, corresponding with physicians across
 America and Europe. These cases, published in medical journals, provided
-crucial evidence for his theories about [[hallucinogenic-mushroom-dose-effects-clinical]] were felt until three and eight o'clock the following
+crucial evidence for his theories about [[hallucinogenic-mushroom-dose-effects-clinical]] were felt until three and eight o"clock the following
 morning, respectively. One patient even slept calmly after the vertigo
 passed. Once attacked, however, the usual symptoms followed, and both
 were dead within three days. The physician tried coffee, tea, antimony,
@@ -25,7 +25,7 @@ of amelioration."
 
 A second French case involved four persons poisoned by the same family.
 Three died; the survivor experienced only severe diarrhea. The fatal
-meal was eaten at four o'clock Monday afternoon. About midnight all
+meal was eaten at four o"clock Monday afternoon. About midnight all
 were attacked. The first death occurred Thursday at ten a.m., the
 second on Friday morning.
 

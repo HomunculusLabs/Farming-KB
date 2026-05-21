@@ -36,7 +36,7 @@ Composting converts organic waste into stable, nutrient-rich humus through biolo
 Fast, thermophilic composting that produces finished compost in 2-4 weeks:
 
 - **C:N ratio:** 25-30:1 (greens = nitrogen-rich, browns = carbon-rich). Mix roughly 2-3 parts browns to 1 part greens by volume.
-- **Pile size:** Minimum 3x3x3 ft (1 m³). Smaller piles can't sustain thermophilic temperatures. Maximum practical size ~5x5x5 ft for manageability.
+- **Pile size:** Minimum 3x3x3 ft (1 m³). Smaller piles can"t sustain thermophilic temperatures. Maximum practical size ~5x5x5 ft for manageability.
 - **Moisture:** 50-60% — feels like a wrung-out sponge.
 - **Aeration:** Turn every 2-3 days. Each turn reintroduces oxygen and redistributes microbes.
 - **Temperature stages:**

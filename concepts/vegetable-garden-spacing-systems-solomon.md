@@ -37,7 +37,7 @@ overlap at maturity, supposedly shading the soil to conserve moisture and
 **Advantages:** Maximizes output from small spaces; efficient for urban
 gardens with limited land; visually appealing raised bed aesthetics.
 
-**Disadvantages (Solomon's critique):** Requires enormous inputs of water,
+**Disadvantages (Solomon"s critique):** Requires enormous inputs of water,
 compost, and fertilizer. Plants compete intensely for water and nutrients,
 stressing them and making them more susceptible to [[coleman-compost-and-organic-fertility-management]].
 
@@ -55,7 +55,7 @@ minimize it through thoughtful spacing.
 The most widely spaced system, developed for regions with dry summers or
 for gardeners who lack reliable irrigation. Plants are placed far enough
 apart that each can survive on natural rainfall alone, accessing soil
-moisture from a large root zone that doesn't overlap with neighbors.
+moisture from a large root zone that doesn"t overlap with neighbors.
 
 Solomon mastered this system after selling Territorial Seed in 1986 and
 dedicated years to researching pre-irrigation [[dighton-fungal-drought-tolerance-plant-water-relations]].
@@ -63,7 +63,7 @@ dedicated years to researching pre-irrigation [[dighton-fungal-drought-tolerance
 ## Solomon's Recommended Approach
 
 Solomon advocates what he calls "practical spacing" — wider than intensive
-but adapted to the gardener's specific situation. His guidelines:
+but adapted to the gardener"s specific situation. His guidelines:
 
 - **With reliable irrigation:** Space plants at least as far apart as seed
   packets recommend, and often farther. The "thinning to final spacing"

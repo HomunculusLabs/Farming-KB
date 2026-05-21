@@ -1,6 +1,6 @@
 ---
 title: "Peptide — (Heavy Duty Fruity × Sweet Tooth #3) × Durban Poison"
-source: "S.T. Oner - blesching-cannabis-sativa-indica-classification Vol. 3: The Essential Guide to the World's Finest Marijuana Strains"
+source: "S.T. Oner - blesching-cannabis-sativa-indica-classification Vol. 3: The Essential Guide to the World"s Finest Marijuana Strains"
 source_path: "raw/papers/s-t-oner-the-rev-cannabis-sativa-volume-3_-the-essential-gu.md"
 topics: [oner, strain-profile, peptide, limestone-city-seeds, rcmc, durban-poison, heavy-duty-fruity, sweet-tooth, canadian-genetics, sativa-dominant]
 ---
@@ -22,7 +22,7 @@ Peptide is a sativa-dominant hybrid originally bred by Limestone City Seeds, par
 ## Genetic Lineage
 
 ### Parent Cross
-Peptide's genetics are structured as a three-way cross:
+Peptide"s genetics are structured as a three-way cross:
 
 ```
 Heavy Duty Fruity × Sweet Tooth #3  →  Mom plant

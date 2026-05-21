@@ -36,7 +36,7 @@ Fungi possess several critical advantages over bacteria in soil environments:
 
 ### Growth and Reach
 
-Unlike bacteria, whose world is confined to immediate proximity, fungal hyphae can grow across distances measured in **feet or meters**—truly epic distances from a bacterium's perspective. Fungi also do not require a continuous film of water to spread through soil, allowing them to bridge gaps and locate new food sources.
+Unlike bacteria, whose world is confined to immediate proximity, fungal hyphae can grow across distances measured in **feet or meters**—truly epic distances from a bacterium"s perspective. Fungi also do not require a continuous film of water to spread through soil, allowing them to bridge gaps and locate new food sources.
 
 ### Nutrient Transport
 

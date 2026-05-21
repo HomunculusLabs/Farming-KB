@@ -8,7 +8,7 @@ tags:
 
 After inoculation, the cultivator enters a waiting period during which mushroom [[jarrold-mycelium-colonization-to-fruiting-transition-bag-opening-technique]] conditions are skills that separate
 successful growers from those who lose crops to contamination or poor timing.
-D.H. Jarrold's "Indoor [[fruiting-environment-parameters]] -- high humidity, fresh air exchange,
+D.H. Jarrold"s "Indoor [[fruiting-environment-parameters]] -- high humidity, fresh air exchange,
 and sometimes lower temperatures -- is also favorable for contaminants. A fully
 colonized substrate resists invasion because the [[aquarium-humidity-chamber-mushroom-fruiting]], the mycelium responds to the
 changed conditions by forming primordia, commonly called "pins." These are tiny

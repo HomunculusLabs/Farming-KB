@@ -10,7 +10,7 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Pignatti, S. (1982). Flora d'Italia. Edagricole, Bologna.
+  - Pignatti, S. (1982). Flora d"Italia. Edagricole, Bologna.
 ---
 
 ## Overview

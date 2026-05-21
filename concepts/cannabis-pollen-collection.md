@@ -7,7 +7,6 @@ sources:
   - "Cervantes - marijuana-horticulture-cervantes-cannabis-breeding-and-genetics"
 type: concept
 tags: [cannabis]---
----
 
 ## Cannabis Pollen Collection
 

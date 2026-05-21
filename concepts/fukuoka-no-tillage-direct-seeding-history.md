@@ -16,7 +16,7 @@ Masanobu Fukuoka documents the long experimental journey that led to his direct-
 
 ## From High Ridge to Level Field
 
-Fukuoka's barley method progressed from high-ridge to low-ridge to level-field cultivation, with the rice direct-seeding method following suit. He moved from wide 18-inch row spacing to narrow 6-8 inch rows, then to individual planting at 6 by 8 inch intervals, and finally to broadcasting naked barley over the entire surface without plowing or tilling. This was the start of the no-tillage direct-seeding of naked barley.
+Fukuoka"s barley method progressed from high-ridge to low-ridge to level-field cultivation, with the rice direct-seeding method following suit. He moved from wide 18-inch row spacing to narrow 6-8 inch rows, then to individual planting at 6 by 8 inch intervals, and finally to broadcasting naked barley over the entire surface without plowing or tilling. This was the start of the no-tillage direct-seeding of naked barley.
 
 The [[fukuoka-straw-mulch-system]].
 

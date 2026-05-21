@@ -15,7 +15,7 @@ demands understanding of water table dynamics, soil chemistry, wind, and erosion
 
 On low islands, fresh water sits as a **lens floating on salt water**. The top
 of this freshwater table is typically only three to five feet below the surface,
-with its bottom another four to five feet below. Given the island's area, the
+with its bottom another four to five feet below. Given the island"s area, the
 available gallons of fresh water can be calculated. This lens is the island's
 sole freshwater resource — if drawn down and replaced by salt water, plants die
 and the island becomes uninhabitable. The water table must not be polluted;
@@ -30,7 +30,7 @@ from nine inches to three feet thick. Rain follows the platen laterally and
 runs off rather than percolating, restricting agriculture to shallow-rooted
 species. Breaking the platen is the **first essential act** of island
 [[permaculture]]: shovel away surface sand, smash through to brackish groundwater,
-fill the hole with humus, and plant a tree — preferably coconut. The tree's
+fill the hole with humus, and plant a tree — preferably coconut. The tree"s
 roots keep the platen cracked and permeable, establishing a local groundwater
 system. Within twenty years, trees reach full production.
 

@@ -22,7 +22,7 @@ Chaga (Inonotus obliquus) is a sterile conk (sclerotium) that grows on birch tre
 **Melanin**:
 - Chaga contains extremely high levels of melanin, responsible for its black exterior
 - Pigmented complex (polymeric structure) with potent antioxidant and radioprotective properties
-- Contributes to the mushroom's ability to absorb and neutralize free radicals
+- Contributes to the mushroom"s ability to absorb and neutralize free radicals
 
 **Beta-glucans**:
 - Water-soluble polysaccharides with immunomodulatory activity

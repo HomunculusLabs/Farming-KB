@@ -9,7 +9,7 @@ sources: [raw/papers/gardening-when-it-counts-steve-solomon.md]
 
 # Intensive Planting and Spacing
 
-[[steve-solomon]]'s analysis of plant spacing systems, from ultra-intensive raised beds to wide-spaced drought gardening. Solomon himself once taught and practiced intensive gardening but came to believe that wider spacing produces better results with far less water and labor.
+[[steve-solomon]]"s analysis of plant spacing systems, from ultra-intensive raised beds to wide-spaced drought gardening. Solomon himself once taught and practiced intensive gardening but came to believe that wider spacing produces better results with far less water and labor.
 
 ## Solomon's Evolution
 
@@ -41,7 +41,7 @@ Ultra-close spacing on deeply dug raised beds. Solomon does NOT recommend this s
 - Harvesting takes longer because plants are smaller and more numerous
 - The supposed yield-per-square-foot advantage is largely an illusion
 
-### Column 2: Semi-Intensive (Solomon's current method)
+### Column 2: Semi-Intensive (Solomon"s current method)
 
 This is how Solomon currently gardens most of his plot. Small plants on raised beds, larger ones on raised wide rows. Examples:
 - Beets: 4 x 18 inches (465 sq cm per plant — nearly 5x more room than Column 1)

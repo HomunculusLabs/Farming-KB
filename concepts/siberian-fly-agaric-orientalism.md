@@ -20,7 +20,7 @@ The very name "Siberia" is a Western imposition. The small Khanate of Sibir was
 just the first of many territories overcome by the nascent Russian empire after
 it crossed the Ural Mountains. The Russians projected this name outward until
 both it and their empire encompassed almost the entire northern half of the
-Asian continent. The name obliterates all sense of the region's diversity — its
+Asian continent. The name obliterates all sense of the region"s diversity — its
 geography, its climate, and the complexity of its ethnic, cultural and religious
 composition.
 

@@ -21,7 +21,7 @@ secretions are called exudates -- analogous to perspiration in humans.
 Root exudates are in the form of carbohydrates (including sugars) and
 proteins. Their presence wakes up, attracts, and grows specific beneficial
 bacteria and fungi in the soil. These microorganisms subsist on the exudates
-and on cellular material sloughed off as the plant's root tips grow.
+and on cellular material sloughed off as the plant"s root tips grow.
 
 ## The Rhizosphere
 

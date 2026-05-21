@@ -21,7 +21,7 @@ The species is a classic example of **mimicry in plants**, where the body colora
 
 Pleiospilos nelii produces large, **daisy-like yellow or orange flowers** up to 6 cm across — disproportionately large relative to the plant body, which typically measures only 5–8 cm in diameter. The flowers open in the afternoon and close at dusk over a period of several days.
 
-The plant is popular in succulent collections worldwide and has received the Royal Horticultural Society's Award of Garden Merit. It is one of the most commonly cultivated members of the Aizoaceae (ice plant family).
+The plant is popular in succulent collections worldwide and has received the Royal Horticultural Society"s Award of Garden Merit. It is one of the most commonly cultivated members of the Aizoaceae (ice plant family).
 
 ## Taxonomy and Morphology
 

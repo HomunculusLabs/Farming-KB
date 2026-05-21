@@ -8,7 +8,7 @@ type: entity
 
 ## Description
 
-Sorghum almum, commonly known as silk sorghum or Columbus grass, is a robust perennial forage grass species originating from South America. In Bill Mollison's *Permaculture: A Designer's Manual*, it is listed as "Silk sorghum, Sorghum almum" among the useful grass species for designed agricultural systems.
+Sorghum almum, commonly known as silk sorghum or Columbus grass, is a robust perennial forage grass species originating from South America. In Bill Mollison"s *Permaculture: A Designer's Manual*, it is listed as "Silk sorghum, Sorghum almum" among the useful grass species for designed agricultural systems.
 
 ## Classification
 
@@ -60,7 +60,7 @@ Sorghum almum can become weedy due to its aggressive rhizome spread. Regular gra
 
 ## Relationship to Sudan Grass
 
-Sorghum halepense (Sudan grass/Johnson grass), listed separately in Mollison's plant species index as "Sudan, Sorghum halapense," is a closely related species with similar forage value but greater weed potential. Sorghum almum is generally preferred in permaculture contexts for its slightly better persistence and more manageable spread.
+Sorghum halepense (Sudan grass/Johnson grass), listed separately in Mollison"s plant species index as "Sudan, Sorghum halapense," is a closely related species with similar forage value but greater weed potential. Sorghum almum is generally preferred in permaculture contexts for its slightly better persistence and more manageable spread.
 
 ## References
 

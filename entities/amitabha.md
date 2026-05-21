@@ -45,7 +45,7 @@ In the [[bardo-thodol]], Amitabha appears on a specific day of [[the-second-bard
 
 8. His pure land is Sukhavati — a realm of bliss accessible through devotion and meditative focus.
 
-9. Amitabha's wisdom addresses the challenge of desire and attachment that arises during psychedelic experiences.
+9. Amitabha"s wisdom addresses the challenge of desire and attachment that arises during psychedelic experiences.
 
 10. Recognition of Amitabha in the Bardo visions represents liberation through the transmutation of desire.
 
@@ -73,7 +73,7 @@ The Amitabha vision is particularly relevant to experiences of overwhelming blis
 
 ## Psychological Significance
 
-Amitabha's association with fire and desire speaks to one of the most powerful aspects of psychedelic experience.
+Amitabha"s association with fire and desire speaks to one of the most powerful aspects of psychedelic experience.
 
 The overwhelming sensory richness and emotional intensity can either bind or liberate the voyager.
 

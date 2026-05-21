@@ -9,7 +9,7 @@ sources: [raw/particles/permaculture-beginners-guide.md]
 
 ## Permaculture Design Principles for Beginners
 
-[[permaculture]] (from "permanent agriculture" / "permanent culture") was coined in the mid-1970s by Australians [[david-holmgren]] and [[bill-mollison]]. It is defined as "creating sustainable human habitats by following nature's patterns." It integrates ecology, landscape, organic gardening, architecture, and agroforestry into a design system applicable to both urban and rural settings.
+[[permaculture]] (from "permanent agriculture" / "permanent culture") was coined in the mid-1970s by Australians [[david-holmgren]] and [[bill-mollison]]. It is defined as "creating sustainable human habitats by following nature"s patterns." It integrates ecology, landscape, organic gardening, architecture, and agroforestry into a design system applicable to both urban and rural settings.
 
 ### Three Core Ethics
 
@@ -23,7 +23,7 @@ sources: [raw/particles/permaculture-beginners-guide.md]
 
 **Work With Nature, Not Against It**: Rather than expending massive energy attempting to tame nature (damming valleys, ploughing bare soil, applying chemical inputs), work in harmony with natural systems. Encourage predator insects (ladybirds, hoverflies) instead of using pesticides. Design homes for passive solar energy instead of building nuclear power stations.
 
-**See Solutions, Not Problems**: Reframe challenges. As Mollison said: "You haven't got an excess of slugs, you've got a duck deficiency." Every "problem" is an opportunity for a beneficial design element.
+**See Solutions, Not Problems**: Reframe challenges. As Mollison said: "You haven"t got an excess of slugs, you've got a duck deficiency." Every "problem" is an opportunity for a beneficial design element.
 
 **Every Function Supported by Many Elements**: Redundancy is resilience. A monoculture crop failure means starvation; a polyculture means you still eat. Similarly, multiple skills and income sources protect individuals against economic disruption.
 

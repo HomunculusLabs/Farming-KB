@@ -10,7 +10,7 @@ created: 2026-05-08
 ## Overview
 
 In his 1983 Esalen lecture, [[mckenna-quantum-mechanical-correlates-hallucinogenesis]] notion of state vector collapse, arguing that consciousness plays a constitutive role in bringing events into being.
-This view is consistent with certain interpretations of quantum mechanics and finds dramatic confirmation, in McKenna's estimation, in the phenomenology of tryptamine experiences.
+This view is consistent with certain interpretations of quantum mechanics and finds dramatic confirmation, in McKenna"s estimation, in the phenomenology of tryptamine experiences.
 In the tryptamine state, consciousness appears to access realities that transcend the ordinary constraints of space and time, suggesting that the relationship between consciousness and reality is far more intimate than the materialist paradigm allows.
 Whitehead's process philosophy provides the metaphysical vocabulary for what the tryptamine experiences demonstrate phenomenologically: that becoming, not being, is the fundamental category of reality.
 The alignment between Whitehead's abstractions and the direct phenomenology of the tryptamine state is one of the more philosophically interesting aspects of McKenna's argument.
@@ -29,7 +29,7 @@ The transtemporal quality of the experience suggests that the distinction betwee
 If the mind can access the eternal present in the tryptamine state, then the eschatological endpoint is not merely future but ever-present, accessible to anyone willing to undergo the experience.
 The concept of the standing now provides a bridge between mystical contemplation and the phenomenology of [[mckenna-translinguistic-matter-and-exteriorized-soul]] generated out of the body of each of us at a critical juncture at our [[mckenna-exteriorized-soul-and-psychedelic-bar-mitzvah]] Mitzvah."
 The eschatological endpoint is thus not a destruction but a transformation—a metamorphosis of the human organism from a biological entity into a self-sustaining pattern of translinguistic information.
-One's body image would exist as a "holographic wave transform while one is at play in the fields of the Lord and living in Elysium."
+One"s body image would exist as a "holographic wave transform while one is at play in the fields of the Lord and living in Elysium."
 This vision, while fantastical, is presented as the logical extension of the acceleration pattern identified in history: consciousness becoming ever more plastic, ever more capable of self-transformation.
 The concept of the "psychedelic Bar Mitzvah" is a metaphor for a rite of passage in which the individual consciousness makes the transition from biological to translinguistic existence.
 

@@ -20,7 +20,7 @@ The Casparian strip is a band of waterproof, waxy material (primarily suberin an
 
 ## Key Facts
 
-- The Casparian strip forms a continuous band around each endodermal cell, and these bands align to create a complete cylindrical barrier encircling the root's central vascular tissue.
+- The Casparian strip forms a continuous band around each endodermal cell, and these bands align to create a complete cylindrical barrier encircling the root"s central vascular tissue.
 - It blocks the **[[apoplastic-pathway]]** — the route by which water travels through porous cell walls without entering any cell interiors — preventing unregulated flow of water and dissolved substances into the root's vascular system.
 - When water and dissolved nutrients encounter the Casparian strip, they must either cross the cell membrane (the plasmalemma) through selective transport proteins, or be rejected and flow back out of the root.
 - This mechanism ensures that the plant can screen and regulate every molecule that enters its vascular system, excluding toxins, pathogens, and excess minerals.

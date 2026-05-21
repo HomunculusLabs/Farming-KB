@@ -21,7 +21,7 @@ The key insight: industrialized agriculture with high inputs of machinery and fo
 
 ## Working With Nature, Not Against
 
-The guide's core principle for soil health is captured in the statement: "Putting massive effort into attempting to 'tame nature', such as by damming valleys and flood plains or creating and maintaining bare soil by plough, is not only energy consuming, unsustainable and destructive, it is also unnecessary when we can meet the needs of people and the environment by working in harmony with, or even directly utilise, natural systems."
+The guide"s core principle for soil health is captured in the statement: "Putting massive effort into attempting to "tame nature', such as by damming valleys and flood plains or creating and maintaining bare soil by plough, is not only energy consuming, unsustainable and destructive, it is also unnecessary when we can meet the needs of people and the environment by working in harmony with, or even directly utilise, natural systems."
 
 This principle applied to soil means:
 - Bare soil is an unnatural condition that nature quickly covers
@@ -31,9 +31,9 @@ This principle applied to soil means:
 
 ## The Cycling Principle
 
-Burnett's "Everything Cycles" principle is directly relevant to soil building:
+Burnett"s "Everything Cycles" principle is directly relevant to soil building:
 
-> "In the natural world, there is no such thing as 'pollution'. Within an ecosystem, every 'waste product' is useful elsewhere within that system."
+> "In the natural world, there is no such thing as "pollution'. Within an ecosystem, every 'waste product' is useful elsewhere within that system."
 
 Applied to soil fertility:
 - Organic "waste" materials are resources for soil building
@@ -60,7 +60,7 @@ Burnett addresses soil building at the landscape scale through broadscale [[urba
 
 ## Soil as Part of the Four Spheres
 
-Burnett's opening ecological framework positions soil within the four interacting spheres:
+Burnett"s opening ecological framework positions soil within the four interacting spheres:
 
 - Geosphere (land/soil) interacts with Atmosphere (air), Hydrosphere (water), and Biosphere (life)
 - Soil is the interface where these four spheres meet

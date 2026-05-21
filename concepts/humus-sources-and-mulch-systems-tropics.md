@@ -18,7 +18,7 @@ Large logs and tree branches serve multiple purposes in tropical systems. The ra
 
 **Traditional Hawaiian practice:** Logs of the kukui tree (*Aleurites moluccensis*) are placed in the shallow water of taro terraces to rot. As decomposition proceeds, edible fungi appear and are harvested. The remaining log is then crushed and spread in the terrace. Leaves and branches of kukui and other forest trees are gathered for the same purpose.
 
-**Marjorie Spears' method (Queensland, Australia):** Temporary roughwood terraces are built across a deforested slope using rejected logs, creating complex and rich gardens based on this strategy combined with green legume mulch. Logs are available from palms, and fast-growing acacia species can be close-planted specifically for this purpose.
+**Marjorie Spears" method (Queensland, Australia):** Temporary roughwood terraces are built across a deforested slope using rejected logs, creating complex and rich gardens based on this strategy combined with green legume mulch. Logs are available from palms, and fast-growing acacia species can be close-planted specifically for this purpose.
 
 ### Detritus from Stands
 

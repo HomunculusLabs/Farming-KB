@@ -11,7 +11,7 @@ This page expands the M–W index entries of *The Winter Harvest Handbook* into 
 ## Market Gardening History
 
 ### Paris Market Gardens (pp. 13–18, 21–24)
-The 19th-century Parisian *maraîchers* (market gardeners) operated on small plots within and around Paris, producing extraordinary volumes of fresh vegetables year-round. Their system relied on three pillars: **horse manure** (abundant from city stables), **glass cloches** (for individual plant protection), and **hotbeds** (manure-heated growing frames). At peak production, Parisian market gardens fed the city's population on roughly 6% of its land area.
+The 19th-century Parisian *maraîchers* (market gardeners) operated on small plots within and around Paris, producing extraordinary volumes of fresh vegetables year-round. Their system relied on three pillars: **horse manure** (abundant from city stables), **glass cloches** (for individual plant protection), and **hotbeds** (manure-heated growing frames). At peak production, Parisian market gardens fed the city"s population on roughly 6% of its land area.
 
 ### British Market Gardens (pp. 18–21)
 British growers adapted French intensive techniques to their climate, though with less intensive inputs. Key historical figures include Weathers, Smith, and Thick. British gardens typically relied more on cold frames and [[dutch-lights]] than on manure-heated hotbeds.

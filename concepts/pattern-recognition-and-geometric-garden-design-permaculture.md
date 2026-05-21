@@ -11,7 +11,7 @@ Pattern recognition is the meta-skill underlying all permaculture design. It is 
 ## The Theory of Pattern
 
 ### Events and Media
-Mollison draws on Genesis to frame pattern thinking: "In the beginning there was nothing. The Earth was void. So what He did was strike off differences, to say, 'There are waters above, and waters beneath.'" Before this division, there was no structure — no difference. After it, there is a place in the void where events can occur.
+Mollison draws on Genesis to frame pattern thinking: "In the beginning there was nothing. The Earth was void. So what He did was strike off differences, to say, "There are waters above, and waters beneath.'" Before this division, there was no structure — no difference. After it, there is a place in the void where events can occur.
 
 Any event that takes place on an equipotential surface will leave stresses in the media, and the media will rush to relieve those stresses. Media interacting with media through the event will create an end event — structures that look like trees, like branching, like spirals. "A series of phenomena result" from this fundamental dynamic. "It looks like a tree!"
 
@@ -33,7 +33,7 @@ The published botanical literature is of limited use: "The botanists cannot tell
 ## Geometric Garden Applications
 
 ### The Spiral Herb Garden
-Mollison's spiral garden is a practical demonstration of pattern principles applied to zone one:
+Mollison"s spiral garden is a practical demonstration of pattern principles applied to zone one:
 
 **Construction**: A flat spiral, roughly six feet across at the base, winding upward around a central rock cairn. The spiral creates multiple micro-climates — shaded and semi-shaded niches, bright hot sunny exposures to east and west, different drainages from group to group.
 
@@ -55,14 +55,14 @@ A ziggurat is a holy spiral ascending a tower, found across the Persian plains w
 
 **Construction**: Cut a spiral in paper, lift the center, and prop the ascending path with small rough walls made of rock cairns. The spiral winds upward. "The next day I went out to the garden and built a ziggurat about six feet across at the base." The entire structure can be built in an afternoon.
 
-**Innovation**: Mollison asked, "Why should it not go on burrowing down in the Earth, too?" The descending end of the spiral holds water, creating a pond at the base while the ascending portion provides varied growing conditions. "It would give a completely different environment. The end of it could hold water." This dual function — water storage below, micro-climate diversity above — exemplifies permaculture's principle of multiple functions from single elements.
+**Innovation**: Mollison asked, "Why should it not go on burrowing down in the Earth, too?" The descending end of the spiral holds water, creating a pond at the base while the ascending portion provides varied growing conditions. "It would give a completely different environment. The end of it could hold water." This dual function — water storage below, micro-climate diversity above — exemplifies permaculture"s principle of multiple functions from single elements.
 
 ### Circle Gardens
 Circle gardens decrease edge relative to spirals, concentrating the growing area so it can be watered from a single drip point in the center. The geometry is appropriate when uniform moisture distribution is the priority. Other effects include specific wind interaction patterns that can be designed advantageously.
 
 ## Pattern Appropriate to Context
 
-Mollison cautions against applying geometries indiscriminately: "I wouldn't advise anyone to go spiraling all over their garden, or circling all over their garden, or wandering all over their garden. I think there are both appropriate and inappropriate geometries." The spiral is elegant in flatland situations where condensation of space and edge creation are the goals. Different topographies and purposes call for different patterns. The designer must match geometry to site and function.
+Mollison cautions against applying geometries indiscriminately: "I wouldn"t advise anyone to go spiraling all over their garden, or circling all over their garden, or wandering all over their garden. I think there are both appropriate and inappropriate geometries." The spiral is elegant in flatland situations where condensation of space and edge creation are the goals. Different topographies and purposes call for different patterns. The designer must match geometry to site and function.
 
 ## Starting Patterns from Site Features
 "When you start to draw winds, like the winds that circle around the house, you have started a pattern that may logically be continued. You will find that you have designed other conditions that you can favorably use." Patterns observed in one aspect of the site — wind flow, water movement, animal tracks — suggest patterns for the design as a whole. This is pattern recognition applied to site analysis.
@@ -70,12 +70,12 @@ Mollison cautions against applying geometries indiscriminately: "I wouldn't advi
 ## Time Stacking
 
 ### The Principle
-Time stacking pushes sequential processes on top of each other rather than running them in series. Traditional agriculture runs crops in temporal sequence — years of pasture, then grain, then root crops, then fallow. Fukuoka's innovation was to "lift these years and set them on top of each other" — growing legumes simultaneously with grains, running livestock through crops at certain times rather than maintaining separate livestock and crop areas.
+Time stacking pushes sequential processes on top of each other rather than running them in series. Traditional agriculture runs crops in temporal sequence — years of pasture, then grain, then root crops, then fallow. Fukuoka"s innovation was to "lift these years and set them on top of each other" — growing legumes simultaneously with grains, running livestock through crops at certain times rather than maintaining separate livestock and crop areas.
 
 ### The British Seven-Year Rotation
 The British devised a system of high farming with a seven-year rotation: pasture grazed for several years, then plowed into a high-nutrient-demand crop, followed by a green manure crop, then a grain crop, then a root crop, possibly a fallow year, then returned to grazing. "It required a band leader and an orchestra" — continuity of knowledge and management that the system presumed. This was [[phosphate-accumulators-sustainable-agriculture]], but it was sequential, not stacked.
 
-### Fukuoka's Methods
+### Fukuoka"s Methods
 Masanobu Fukuoka pushed time stacking further by starting the next crop before the last crop finished. In monsoon lands, tall grasses grow, dry, and fall, forming thick mulch. A permaculturist in South Queensland rolled the grass flat with a roller and sowed rye directly into it — producing an enormous rye crop in land that could not be cultivated (cultivation would lose all soil to erosion with the first rain). "Moreover, he would never have defeated that horrible complex of plants with rye" using [[microwave-sterilization-versus-conventional-methods-comparison]]. "He had read Fukuoka." The next season, millet followed rye using the same technique.
 
 ### Successional Overlap

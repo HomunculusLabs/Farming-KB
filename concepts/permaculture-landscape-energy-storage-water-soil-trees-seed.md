@@ -21,7 +21,7 @@ For billions of years life was confined to shallow seas. About half a billion ye
 ### Two Energy Sources
 
 1. **Solar energy:** Visible light for photosynthesis, plus driving weather and climate (rain, wind, lightning, fire). Rainfall is embodied solar energy — solar heat evaporates water creating atmospheric moisture.
-2. **Geothermal/nuclear energy:** Earth's internal nuclear power drives tectonic plates, building mountains, delivering rock minerals, creating fossil fuels and ore bodies.
+2. **Geothermal/nuclear energy:** Earth"s internal nuclear power drives tectonic plates, building mountains, delivering rock minerals, creating fossil fuels and ore bodies.
 
 ### Stability vs. Productivity
 

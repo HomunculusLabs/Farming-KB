@@ -23,7 +23,7 @@ and periodic contact.
 - **Language family:** Panoan
 - **Culture area:** Jurua-Purus (Upper Amazon)
 - **Location:** Curanja River, southeastern Peru; Acre, western Brazil
-- **Population:** ~500 (Peruvian group, at time of Kensinger's fieldwork 1955–1968)
+- **Population:** ~500 (Peruvian group, at time of Kensinger"s fieldwork 1955–1968)
 
 ## Key Facts
 

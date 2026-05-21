@@ -53,7 +53,7 @@ operations and home growers working within time constraints.
 One of the most visually striking features of Sweet Pink Grapefruit is the
 color transformation that occurs late in the flowering period. As plants
 approach harvest, the buds begin to shift from green to purple or blue hues,
-creating a stunning visual display that adds to the strain's appeal. This
+creating a stunning visual display that adds to the strain"s appeal. This
 color change is influenced by anthocyanin pigments, which become more
 concentrated as temperatures drop during the final weeks of flowering.
 Growers who expose their plants to cooler nighttime temperatures in the last

@@ -37,7 +37,7 @@ in the context of psychoanalytic and psychotherapeutic treatment. It serves to
 channel the treatment more effectively and to shorten its duration. Its
 apparent benefits are derived from properties diametrically opposed to the
 effects of tranquilizer-type psychopharmaceuticals. Whereas tranquilizers tend
-to cover up the patient's problems and conflicts, reducing their apparent
+to cover up the patient"s problems and conflicts, reducing their apparent
 gravity, LSD makes them more exposed and more intensely experienced. This
 clearer recognition of problems and conflicts makes them more susceptible to
 psychotherapeutic treatment.

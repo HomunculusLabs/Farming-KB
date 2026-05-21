@@ -9,7 +9,7 @@ tags: [person, horticulturist, biointensive, biodynamic, french-intensive, educa
 
 ## Description
 
-Alan Chadwick (1909-1980) was a British horticulturist and educator who originated the biointensive approach to gardening and farming that later became the foundation for Ecology Action's GROW BIOINTENSIVE method. Chadwick combined French intensive gardening techniques with Rudolf Steiner's biodynamic principles to create a revolutionary approach to food production. His work, vision, and example inspired thousands of people and continues to influence sustainable agriculture worldwide.
+Alan Chadwick (1909-1980) was a British horticulturist and educator who originated the biointensive approach to gardening and farming that later became the foundation for Ecology Action"s GROW BIOINTENSIVE method. Chadwick combined French intensive gardening techniques with Rudolf Steiner's biodynamic principles to create a revolutionary approach to food production. His work, vision, and example inspired thousands of people and continues to influence sustainable agriculture worldwide.
 
 ## Classification
 
@@ -28,7 +28,7 @@ Alan Chadwick (1909-1980) was a British horticulturist and educator who originat
 - His work, vision, and example inspired thousands of people
 - Died in 1980, but his methods live on through Ecology Action and many other organizations
 - Recognized as a key figure in the organic gardening and sustainable agriculture movements
-- His approach was the direct foundation for John Jeavons' GROW BIOINTENSIVE system
+- His approach was the direct foundation for John Jeavons" GROW BIOINTENSIVE system
 
 ## The Biointensive Approach
 
@@ -44,7 +44,7 @@ John Jeavons and Ecology Action built directly on Chadwick's biointensive approa
 
 ## The PBS Documentary "Gardensong"
 
-Chadwick and the projects he inspired were featured in a PBS-TV special titled "Gardensong." The documentary brought Chadwick's vision to a national audience and helped popularize the ideas of intensive, sustainable gardening. The film captured both the practical techniques and the philosophical depth of Chadwick's approach, inspiring viewers across the country to explore biointensive gardening.
+Chadwick and the projects he inspired were featured in a PBS-TV special titled "Gardensong." The documentary brought Chadwick"s vision to a national audience and helped popularize the ideas of intensive, sustainable gardening. The film captured both the practical techniques and the philosophical depth of Chadwick's approach, inspiring viewers across the country to explore biointensive gardening.
 
 ## Historical Context
 

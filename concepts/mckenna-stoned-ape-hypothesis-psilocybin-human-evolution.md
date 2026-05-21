@@ -4,7 +4,7 @@ source: mckenna_t-food_of_the_gods.md
 type: concept
 ---
 
-## McKenna's Stoned Ape Hypothesis — Psilocybin and Human Evolution
+## McKenna"s Stoned Ape Hypothesis — Psilocybin and Human Evolution
 
 [[terence-mckenna]]'s "stoned ape" hypothesis, presented in *Food of the Gods* (1992), proposes that psychoactive mushrooms — specifically psilocybin-containing *Psilocybe* species growing in the dung of ungulates on the African grasslands — played a decisive catalytic role in the rapid expansion of the human brain and the emergence of language, religion, and self-reflective consciousness during the Pliocene and Pleistocene epochs.
 
@@ -18,7 +18,7 @@ As forests contracted and grasslands expanded in East Africa during the late Mio
 
 The hypothesis proposes that the domestication of cattle (a major step in human [[cultural-evolution-and-psychoactive-substances]]) brought humans into even closer proximity to these mushrooms, deepening what McKenna called an "interspecies codependency."
 
-## Three Levels of Psilocybin's Influence
+## Three Levels of Psilocybin"s Influence
 
 McKenna identified three distinct dose-dependent effects of psilocybin, each conferring a different adaptive advantage:
 
@@ -42,7 +42,7 @@ These experiences predisposed tribal groups toward communal bonding, group sexua
 
 ## Language as a Psilocybin-Catalyzed Emergence
 
-McKenna argued that psilocybin's most profound effect was on the language-forming capacity of the brain. Under the influence of psilocybin, the brain enters a hyperconnected state where:
+McKenna argued that psilocybin"s most profound effect was on the language-forming capacity of the brain. Under the influence of psilocybin, the brain enters a hyperconnected state where:
 - Synesthesia becomes common (hearing colors, seeing sounds)
 - The boundary between internal thought and external perception dissolves
 - Language takes on a magical, reality-creating quality
@@ -53,7 +53,7 @@ He proposed that "the world is actually made of language," citing linguistic res
 
 A key criticism of the [[stoned-ape-hypothesis]] is that it appears Lamarckian — suggesting acquired characteristics (better vision, language) from mushroom use could be inherited. McKenna countered:
 
-The presence of psilocybin in the hominid diet **changed the parameters of natural selection** by altering behavioral patterns. The mushrooms didn't directly modify genes; rather, they created new behaviors (language use, ritual activity, enhanced hunting) that became strongly selected for. As psilocybin-using individuals developed epigenetic rules and cultural forms that improved survival and reproduction, these behaviors — and the genes reinforcing them — spread through populations.
+The presence of psilocybin in the hominid diet **changed the parameters of natural selection** by altering behavioral patterns. The mushrooms didn"t directly modify genes; rather, they created new behaviors (language use, ritual activity, enhanced hunting) that became strongly selected for. As psilocybin-using individuals developed epigenetic rules and cultural forms that improved survival and reproduction, these behaviors — and the genes reinforcing them — spread through populations.
 
 ## The Four Families of Indole Hallucinogens
 

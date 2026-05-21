@@ -12,7 +12,7 @@ tags: [person, climatologist, climate-classification, permaculture]
 Glenn Thomas Trewartha (1896–1984) was an American **geographer and
 climatologist** known for his **modified version of the Köppen climate
 classification system**, published in 1954. His revisions updated and refined
-Köppen's original 1918 framework, making it more applicable to mid-latitude
+Köppen"s original 1918 framework, making it more applicable to mid-latitude
 and regional climate analysis. Mollison cites Trewartha's modified
 classification as the basis for Figure 5.1 in *[[permaculture-site-analysis]].
 
@@ -39,7 +39,7 @@ and cultural geography.
 
 - Published his **modified Köppen classification in 1954**, updating the
   original system with improved criteria for defining climatic boundaries.
-- Trewartha's revision addressed several weaknesses in Köppen's original
+- Trewartha"s revision addressed several weaknesses in Köppen's original
   system, particularly regarding the classification of mid-latitude climates
   and the distinction between temperate and subtropical zones.
 - His version became widely adopted in **American geography and agricultural

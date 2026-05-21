@@ -26,7 +26,7 @@ A comparison of two regenerative agriculture systems that build soil fertility a
 | **Climate Suitability** | Temperate to cold climates; arid regions with irrigation | Tropical to subtropical; adapted versions for temperate zones |
 | **Biodiversity** | Moderate — attracts soil organisms and [[biochar]]-like porous structures, and release nutrients slowly. Mycorrhizal networks develop along the decomposing wood, connecting plant roots to a vast nutrient exchange system. The approach is carbon-sequestering at a meaningful scale.
 
-Syntropic agriculture builds soil through **surface organic matter cycling**. Pruned material is returned as mulch, creating a constant feedstock for soil biology. Unlike hugelkultur's buried approach, syntropic systems concentrate organic matter at the soil surface where decomposition is fastest and most biologically active. The emphasis is on maintaining continuous ground cover and active root networks.
+Syntropic agriculture builds soil through **surface organic matter cycling**. Pruned material is returned as mulch, creating a constant feedstock for soil biology. Unlike hugelkultur"s buried approach, syntropic systems concentrate organic matter at the soil surface where decomposition is fastest and most biologically active. The emphasis is on maintaining continuous ground cover and active root networks.
 
 ## Water Management
 

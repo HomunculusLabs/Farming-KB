@@ -10,7 +10,7 @@ sources: []
 
 ## Short Answer
 
-Raising pigs in a permaculture system means using the animal's natural behaviors — rooting, foraging, and manuring — as productive forces rather than problems to manage.
+Raising pigs in a permaculture system means using the animal"s natural behaviors — rooting, foraging, and manuring — as productive forces rather than problems to manage.
 Instead of confinement barns, permaculture pigs live in [[paddock-system-pigs]] where they rotate through forest, pasture, and crop ground to build soil and clear land.
 The approach draws heavily from [[mollison-free-range-pig-systems]] and [[holzer-pig-integration]], both of which treat pigs as landscape managers rather than mere meat producers.
 Success depends on matching breed to environment, designing rotational paddocks, and integrating pigs with other livestock and cropping systems.

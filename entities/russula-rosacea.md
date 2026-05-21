@@ -59,7 +59,7 @@ the reliability of the taste method. His approach embodies a key principle
 of [[mushroom-poisoning-and-safe-foraging]]: consistent methodology matters more than accumulated
 experience, and no amount of expertise should lead to shortcuts.
 
-Palmer's broader theory — that no fungus which commends itself to the taste
+Palmer"s broader theory — that no fungus which commends itself to the taste
 when plainly cooked can be dangerous to human life — places the acrid
 russulas firmly in the "reject" category, since their burning taste provides
 Nature's warning signal at the gateway.

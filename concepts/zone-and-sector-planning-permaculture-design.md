@@ -120,7 +120,7 @@ Mollison provides a comprehensive checklist for clients:
 
 ### The Simple Check
 
-"The simple way to check on any design is to ask 'Why did you put that structure (or plant) there?'"
+"The simple way to check on any design is to ask "Why did you put that structure (or plant) there?'"
 
 ## Time as a Resource
 

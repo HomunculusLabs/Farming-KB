@@ -89,7 +89,7 @@ No significant pest or disease problems have been documented. Crown rot can occu
 
 The species has been grown successfully at the Edinburgh Botanic Garden in their alpine house. It is also maintained in the Tbilisi Botanical Garden collection in its native Georgia.
 
-Cuttings are rarely successful due to the species' woody basal stem structure. Grafting onto more vigorous Campanula rootstock has been attempted with limited success.
+Cuttings are rarely successful due to the species" woody basal stem structure. Grafting onto more vigorous Campanula rootstock has been attempted with limited success.
 
 ## Conservation
 

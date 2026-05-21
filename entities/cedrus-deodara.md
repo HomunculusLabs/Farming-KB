@@ -34,7 +34,7 @@ In Hindu mythology, the deodar cedar is considered the tree of Lord Shiva and is
 
 Deodar cedar is widely planted as an ornamental tree in temperate and subtropical regions worldwide. Its graceful form, rapid growth, and adaptability have made it one of the most popular landscape conifers in Mediterranean and mild-winter climates.
 
-The species was introduced to European cultivation in the early 19th century and quickly became a favorite in parks and large estates. Several cultivars have been selected, including 'Prostrate Beauty' (a weeping form), 'Kashmir' (blue-green foliage), and 'Pendula' (strongly weeping branches).
+The species was introduced to European cultivation in the early 19th century and quickly became a favorite in parks and large estates. Several cultivars have been selected, including "Prostrate Beauty' (a weeping form), 'Kashmir' (blue-green foliage), and 'Pendula' (strongly weeping branches).
 
 ## Taxonomy and Morphology
 

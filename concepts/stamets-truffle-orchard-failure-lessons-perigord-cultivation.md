@@ -11,7 +11,7 @@ The cultivation of the Perigord black truffle (*[[ectomycorrhizal-associations]]
 
 ### Who Profited
 
-A harsh observation from Stamets: "The only ones to have made money in the Truffle tree industry are those who have resold 'inoculated' seedlings to other would-be trufflateurs." This critique highlights a recurring pattern in specialty [[boil-a-bag-long-needle-inoculation-method-jarrold]]
+A harsh observation from Stamets: "The only ones to have made money in the Truffle tree industry are those who have resold "inoculated' seedlings to other would-be trufflateurs." This critique highlights a recurring pattern in specialty [[boil-a-bag-long-needle-inoculation-method-jarrold]]
 
 ## Why Truffle Cultivation Fails
 

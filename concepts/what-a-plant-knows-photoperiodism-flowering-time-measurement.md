@@ -36,7 +36,7 @@ of photoperiod.
 
 The practical implications were enormous. Flower farmers learned to
 manipulate chrysanthemums — naturally autumn bloomers — into flowering
-for Mother's Day by turning on lights for a few minutes each night.
+for Mother"s Day by turning on lights for a few minutes each night.
 This "[[blue-light-phototropism-red-light-photoperiodism-dual-plant-vision-system]] (~660 nm) and converts to the inactive form (Pr). The
 inactive form absorbs far-red light (~730 nm) and converts back. This
 red/far-red photoconversion acts as a biological switch.

@@ -12,7 +12,7 @@ Among the [[jivaro]] peoples of the Upper Amazon, curing shamans (*uwishin*) per
 elaborate nocturnal rituals centered on the extraction of **tsentsak** — magical
 darts believed to be the supernatural cause of illness. These rituals involve
 psychotropic substances, spirit helpers, and protective magical mechanics. Disease
-is caused by hostile sorcerers projecting invisible darts into victims' bodies;
+is caused by hostile sorcerers projecting invisible darts into victims" bodies;
 only a shaman with his own tsentsak arsenal can remove them. The curing process is
 multi-staged — defending himself, combating hostile practitioners, identifying
 supernatural threats, and managing pharmacological resources.
@@ -57,7 +57,7 @@ framework.
 
 ## Tsentsak Quantity and Visionary Experience
 
-Efficacy depends on the quantity and strength of the shaman's tsentsak, which
+Efficacy depends on the quantity and strength of the shaman"s tsentsak, which
 may number in the hundreds. Under **natemd**, these darts assume their
 supernatural aspect as spirit helpers in zoomorphic forms — hovering, perching
 on shoulders, protruding from the skin. They actively assist in sucking the
@@ -69,7 +69,7 @@ Regular consumption of **tobacco juice** (*[[nicotiana-rustica]]*) every few hou
 "feeds" the tsentsak and prevents them from abandoning their master. Without
 tobacco, the spirit helpers depart. The feeding metaphor reveals tsentsak as
 living allies, not inert tools, creating a continuous ritual commitment
-structuring the shaman's daily existence.
+structuring the shaman"s daily existence.
 
 ## Pasuk Encounters and Tsentsak Duels
 
@@ -103,7 +103,7 @@ potential redeployment, ensuring curing is an ongoing process.
 
 Under natemd, the shaman "sees" the sorcerer who bewitched his patient,
 typically recognizing local practitioners. Recognition fails only for distant
-outsiders. The patient's family demands the bewitcher's identity, especially if
+outsiders. The patient"s family demands the bewitcher's identity, especially if
 the patient dies. This serves therapeutic, social, and juridical functions —
 assigning responsibility for illness and death, potentially triggering
 retaliatory sorcery within cycles of accusation and retribution.

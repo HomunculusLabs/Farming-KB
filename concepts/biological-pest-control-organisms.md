@@ -6,7 +6,7 @@ type: concept
 
 ## Biological Pest Control Organisms
 
-Biological pest control relies on living organisms — including fungi, bacteria, protozoa, and predatory arthropods — to suppress pest populations below economically damaging thresholds. Dr. Elaine Ingham's field guide on [[actively-aerated-compost-tea-aact-brewing]] Tea (AACT) provides practical case studies and guidance for leveraging these organisms in agricultural and horticultural systems. The central principle is that healthy soil and foliar biology, established through compost and compost tea applications, can replace or dramatically reduce chemical pesticide inputs.
+Biological pest control relies on living organisms — including fungi, bacteria, protozoa, and predatory arthropods — to suppress pest populations below economically damaging thresholds. Dr. Elaine Ingham"s field guide on [[actively-aerated-compost-tea-aact-brewing]] Tea (AACT) provides practical case studies and guidance for leveraging these organisms in agricultural and horticultural systems. The central principle is that healthy soil and foliar biology, established through compost and compost tea applications, can replace or dramatically reduce chemical pesticide inputs.
 
 ## Mite Biocontrol Using Indigenous Parasites and Pathogens
 
@@ -44,7 +44,7 @@ However, achieving this required understanding a trophic cascade involving fish 
 
 1. Native fish → eat smaller fish → that eat protozoa (zooplankton) → that eat algae (phytoplankton)
 2. "Sport fish" (alien invaders) had been introduced and ate the fish that ate the fish that ate the protozoa
-3. This disruption removed the protozoa's predators' predators, allowing excessive protozoa predation on their own predators — ultimately removing protozoa and releasing algae from [[gadd-mycelial-network-resilience-grazing-pressure]]
+3. This disruption removed the protozoa"s predators' predators, allowing excessive protozoa predation on their own predators — ultimately removing protozoa and releasing algae from [[gadd-mycelial-network-resilience-grazing-pressure]]
 
 Restoring the native fish species was necessary to re-establish the proper trophic balance and bring the algal bloom under control. The lesson is that biological control in aquatic systems requires getting the **entire food web links correct**, or the wrong organisms dominate.
 

@@ -8,7 +8,7 @@ type: entity
 
 ## Description
 
-The Quaternary Period is the most recent geological time period, spanning approximately the last 2.6 million years to the present. David Holmgren discusses the Quaternary in *Permaculture: Principles and Pathways Beyond Sustainability* as a key example of how understanding deep geological time is essential for developing the long-term thinking necessary for sustainable culture. The Quaternary is characterised by dramatic climatic oscillations between ice ages and interglacial warm periods, making it one of the most dynamic periods in Earth's history and the geological stage upon which the genus *Homo*, including *Homo sapiens*, evolved.
+The Quaternary Period is the most recent geological time period, spanning approximately the last 2.6 million years to the present. David Holmgren discusses the Quaternary in *Permaculture: Principles and Pathways Beyond Sustainability* as a key example of how understanding deep geological time is essential for developing the long-term thinking necessary for sustainable culture. The Quaternary is characterised by dramatic climatic oscillations between ice ages and interglacial warm periods, making it one of the most dynamic periods in Earth"s history and the geological stage upon which the genus *Homo*, including *Homo sapiens*, evolved.
 
 ## Classification
 

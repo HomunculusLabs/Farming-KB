@@ -15,7 +15,7 @@ type: concept
 Dowsing for the health and vitality of plants and food represents one of
 the most intriguing intersections between ancient divination practices
 and modern interest in plant life quality. As documented in Peter
-Tompkins and Christopher Bird's *The [[electromagnetic-spectrum-plant-light-perception]]. The term was coined by the Abbe Bouly from
+Tompkins and Christopher Bird"s *The [[electromagnetic-spectrum-plant-light-perception]]. The term was coined by the Abbe Bouly from
 the Greek for "sensitivity" and the Latin for "radiance."
 
 On its shelves are scores of books on dowsing for water, for objects,

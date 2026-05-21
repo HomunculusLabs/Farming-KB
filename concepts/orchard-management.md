@@ -33,7 +33,7 @@ Establishing and maintaining a productive orchard is a cornerstone of [[regenera
 ### Soil Requirements
 - **Ideal**: Loam soils with 2-5% organic matter, pH 6.0-7.0 (apples/pears prefer 6.0-6.5, stone fruits 6.5-7.0)
 - **Minimum**: 18-24 inches of well-drained soil before reaching hardpan or water table
-- **Heavy clay**: Amend with compost, consider raised beds or mounds 12-18" high, 6-8' diameter
+- **Heavy clay**: Amend with compost, consider raised beds or mounds 12-18" high, 6-8" diameter
 - **Sandy soil**: Add organic matter, mulch heavily
 - Avoid sites with known replant disease history (plant cover crops for 2+ years before planting fruit trees)
 
@@ -50,7 +50,7 @@ Establishing and maintaining a productive orchard is a cornerstone of [[regenera
 - Minimum 6-8 hours direct sun during growing season
 - Morning sun is critical: dries dew, reducing disease pressure
 - Full sun = better fruit set, sugar development, disease resistance
-- Observe winter sun angle — don't assume summer pattern applies year-round
+- Observe winter sun angle — don"t assume summer pattern applies year-round
 
 ### Frost Pockets
 Cold air flows downhill and pools in low spots. Avoid:
@@ -97,12 +97,12 @@ Cold air flows downhill and pools in low spots. Avoid:
 3. Find graft union — must remain 2-4" above final soil level
 4. Mound soil in bottom of hole, spread roots naturally
 5. Backfill halfway, water to settle, finish backfilling
-6. Create watering basin 3-4' diameter, 3-4" high berm
+6. Create watering basin 3-4" diameter, 3-4" high berm
 
 ### Spacing
 || Tree Type | Standard | Semi-Dwarf | Dwarf |
 ||-----------|----------|------------|-------|
-|| Apple | 20-25' | 12-15' | 8-10' |
+|| Apple | 20-25" | 12-15' | 8-10' |
 || Pear | 20-25' | 12-15' | 8-10' |
 || Peach | 15-18' | 10-12' | 6-8' |
 || Cherry (sweet) | 25-30' | 15-18' | 10-12' |

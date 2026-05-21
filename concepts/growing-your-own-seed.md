@@ -80,7 +80,7 @@ Forms in pods, in clusters on the stalk, or in dried flower structures. Examples
 
 **Key to getting vigorous dry seed**: Let it mature fully but keep it drying down steadily while it matures. If the ripening process continues over weeks, you may need to yank the entire plant, shake soil from the roots, and move it under cover — spread on a tarp or hang to catch shattering seeds.
 
-**Hand-picking large pods**: For peas and beans, you can pick each pod at the exact point of maturation when the stem end withers and it is clear the plant's sap is no longer flowing to the pod. The seed won't have dried down hard at that stage, but no further nutrition will be added to the seed's food reserve.
+**Hand-picking large pods**: For peas and beans, you can pick each pod at the exact point of maturation when the stem end withers and it is clear the plant"s sap is no longer flowing to the pod. The seed won't have dried down hard at that stage, but no further nutrition will be added to the seed's food reserve.
 
 ### Wet Seed
 

@@ -6,7 +6,7 @@ tags:
 
 ## Overview
 
-The potency of [[neurotropic-fungi]] is highly dependent on specimen age and [[emcdda-hallucinogenic-mushrooms-emerging-trend-europe]], are known to degrade over time through volatility and chemical decomposition. Guzmán, Allen & Gartz (1998) documented extensive evidence for this degradation, including personal observations, [[guzman-allen-gartz-psilocybin-volatility-specimen-age-degradation]] comes from Guzmán's own field experience in Oaxaca, Mexico in 1958. While staying in a small closed-door room of an Indian home filled with a large collection of fresh or semi-fermented neurotropic specimens (a mixture of [[psilocybe-caerulescens]], P. cordispora, P. cubensis, P. mexicana, and P. zapotecorum), Guzmán experienced colored hallucinations despite not having consumed any fungi:
+The potency of [[neurotropic-fungi]] is highly dependent on specimen age and [[emcdda-hallucinogenic-mushrooms-emerging-trend-europe]], are known to degrade over time through volatility and chemical decomposition. Guzmán, Allen & Gartz (1998) documented extensive evidence for this degradation, including personal observations, [[guzman-allen-gartz-psilocybin-volatility-specimen-age-degradation]] comes from Guzmán"s own field experience in Oaxaca, Mexico in 1958. While staying in a small closed-door room of an Indian home filled with a large collection of fresh or semi-fermented neurotropic specimens (a mixture of [[psilocybe-caerulescens]], P. cordispora, P. cubensis, P. mexicana, and P. zapotecorum), Guzmán experienced colored hallucinations despite not having consumed any fungi:
 
 - The mushrooms were kept in sacks, collected for commercial purposes
 - The air of the room was heavy with a strong, acrid aroma from the fungi

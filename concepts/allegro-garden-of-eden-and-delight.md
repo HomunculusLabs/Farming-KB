@@ -16,15 +16,15 @@ Allegro notes that the name Babel was deliberately made to sound like balal ("co
 
 ## The Four Rivers of Eden
 
-The four rivers of Eden — Pishon, Gihon, Tigris, and Euphrates (Gen 2:10-14) — represent the four directions of the compass, the corners of the world, and by extension the cosmic fertility that flows from the center (the mushroom grove). The gold, bdellium, and onyx stone of the land of Havilah (Gen 2:11-12) are the materials associated with the mushroom cult — gold for the cap's colour, onyx for the dark gills.
+The four rivers of Eden — Pishon, Gihon, Tigris, and Euphrates (Gen 2:10-14) — represent the four directions of the compass, the corners of the world, and by extension the cosmic fertility that flows from the center (the mushroom grove). The gold, bdellium, and onyx stone of the land of Havilah (Gen 2:11-12) are the materials associated with the mushroom cult — gold for the cap"s colour, onyx for the dark gills.
 
 ## Adam, Eve, and the "Seed"
 
-The creation of Adam from "the dust of the ground" (Gen 2:7) and Eve from Adam's "rib" (Hebrew tsela', also "side") encode the mushroom's emergence from earth and its double nature as phallus and vulva. The promise that the "seed" of the woman will bruise the serpent's head (Gen 3:15) is a word-play on the Sumerian names for the mushroom's spores (seed) and cap (head).
+The creation of Adam from "the dust of the ground" (Gen 2:7) and Eve from Adam"s "rib" (Hebrew tsela", also "side") encode the mushroom"s emergence from earth and its double nature as phallus and vulva. The promise that the "seed" of the woman will bruise the serpent"s head (Gen 3:15) is a word-play on the Sumerian names for the mushroom's spores (seed) and cap (head).
 
 ## Noah's Vineyard as Mushroom Garden
 
-Allegro extends the Eden theme to Noah's vineyard (Gen 9:20-27). The "vine" planted by Noah is a later substitution for the mushroom. Noah's drunkenness — "he drank of the wine, and became drunk, and lay uncovered in his tent" (Gen 9:21) — originally described the ecstatic state of the mushroom initiate. The "nakedness" of Noah (Hebrew 'erwah) is the exposed mushroom.
+Allegro extends the Eden theme to Noah's vineyard (Gen 9:20-27). The "vine" planted by Noah is a later substitution for the mushroom. Noah"s drunkenness — "he drank of the wine, and became drunk, and lay uncovered in his tent" (Gen 9:21) — originally described the ecstatic state of the mushroom initiate. The "nakedness" of Noah (Hebrew 'erwah) is the exposed mushroom.
 
 ## Scholarly Significance and Criticism
 

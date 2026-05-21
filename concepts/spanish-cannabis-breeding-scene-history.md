@@ -8,11 +8,11 @@ created: 2026-05-09
 
 ## Spanish Cannabis Breeding Scene
 
-## Europe's Cannabis Hotbed
+## Europe"s Cannabis Hotbed
 
 Spain has emerged as the epicenter of European cannabis breeding and cultivation,
 particularly for sativa-dominant strains. As documented in Cannabis Sativa Volume 3,
-Spain is described as "Europe's hotbed of marijuana activity" and "the south of Spain
+Spain is described as "Europe"s hotbed of marijuana activity" and "the south of Spain
 has embraced outdoor [[african-landrace-sativa-strains]] outdoors without many of the challenges
 that northern European or [[query-how-to-protect-plants-from-frost-and-extend-the-growing-season]] extends late enough into autumn to accommodate even
 the latest-finishing sativas.
@@ -35,7 +35,7 @@ specialize in crossing stellar sativas with high-yielding indicas. Their Critica
 Haze—crossing Amnesia Haze with [[thc-content-factors-cultivation-freshness-storage-degradation-blesching]] reaches 24%.
 
 ### Kaliman Seeds
-Self-described "Cheesemasters" who created Rockster's Cheese by crossing a cloned
+Self-described "Cheesemasters" who created Rockster"s Cheese by crossing a cloned
 1989 Exodus Cheese strain with Skunk #1, then backcrossing three times with the
 Exodus clone mother. The result is a mostly-sativa Cheese strain that grows under
 18 hours of HPS lighting.

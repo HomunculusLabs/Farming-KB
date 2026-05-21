@@ -27,10 +27,10 @@ include:
   small stature of many [[gartz-conocybe-cyanopus-rare-psychoactive-mushroom]] species.
 
 - **Atkad** (indigenous): "Mayor" or "leader," possibly referencing the
-  mushrooms' role in guiding ceremonial participants.
+  mushrooms" role in guiding ceremonial participants.
 
 - **Di nizé taaya** (indigenous): "Fungus of the genius," suggesting an
-  understanding of the mushrooms' cognitive effects.
+  understanding of the mushrooms" cognitive effects.
 
 - **Shi thó** (indigenous): "That eruptions thing," perhaps describing
   the visionary experience.
@@ -65,7 +65,7 @@ traditions of sacred mushroom use:
 - **Trique** (Alta Mixteca, Oaxaca): Use species of *Elaphomyces*
   (*E. granulatus*, *E. muricatus*, *E. reticulatus*) as aids in wound
   healing and to "rejuvenate the organism." These fungi serve as hosts
-  for *Cordyceps* species used in neighboring communities' ceremonies.
+  for *Cordyceps* species used in neighboring communities" ceremonies.
 
 - **Nahua** (various regions): As the cultural heirs of the Aztec
   civilization, Nahua communities preserve Nahuatl terminology including

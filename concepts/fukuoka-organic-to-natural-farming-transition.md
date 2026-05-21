@@ -5,7 +5,7 @@ source: critique-of-scientific-agriculture and were attempting to make organic f
 
 With the help of machinery, farmers could feed hay and fodder to cattle and collect animal wastes, but they generally had trouble when it came to transporting that compost and manure out to the fields and spreading it over large areas. Even at the Rodale farm — the flagship of American organic agriculture — he saw large piles of compost and manure left exposed everywhere on the fields.
 
-Fukuoka's response was characteristically direct: *"It's more important to create a grassy cover of green manure than to spend so much effort on composting."* People showed a great deal of interest in this idea. He felt that once the [[mollison-designers-fish-pond-fertiliser-and-nutrient-cycling]] without human intervention.
+Fukuoka"s response was characteristically direct: *"It"s more important to create a grassy cover of green manure than to spend so much effort on composting."* People showed a great deal of interest in this idea. He felt that once the [[mollison-designers-fish-pond-fertiliser-and-nutrient-cycling]] without human intervention.
 
 ### The Practical Advantages
 

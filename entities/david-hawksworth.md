@@ -8,7 +8,7 @@ type: entity
 
 ## Description
 
-David Leslie Hawksworth is a prominent British mycologist and lichenologist known for his influential estimates of global fungal diversity. His 1991 and 2001 publications on the magnitude of [[fungal-biodiversity]] are among the most widely cited works in [[mycology]], establishing the commonly referenced figure of 1.5 to 3 million fungal species worldwide. Hawksworth's estimates fundamentally shaped how scientists and policymakers understand the scale of fungal diversity and the vast proportion of fungi that remain undiscovered.
+David Leslie Hawksworth is a prominent British mycologist and lichenologist known for his influential estimates of global fungal diversity. His 1991 and 2001 publications on the magnitude of [[fungal-biodiversity]] are among the most widely cited works in [[mycology]], establishing the commonly referenced figure of 1.5 to 3 million fungal species worldwide. Hawksworth"s estimates fundamentally shaped how scientists and policymakers understand the scale of fungal diversity and the vast proportion of fungi that remain undiscovered.
 
 ## Classification
 

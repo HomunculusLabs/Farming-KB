@@ -18,14 +18,14 @@ Arthur Henry Reginald Buller (1874–1944) was a British-Canadian mycologist con
 - Conducted research in Munich, Naples, and Birmingham before emigrating to Canada in 1904
 - First professor of botany at the University of Manitoba, Winnipeg — lived in a two-room suite at the McLaren Hotel for 40 years
 - Nicknamed "Uncle Regie" by students; renowned as a superb, humorous teacher
-- Saturday morning lectures at the farmers' market on cereal crops and fungal diseases
+- Saturday morning lectures at the farmers" market on cereal crops and fungal diseases
 - Laboratory work began at 6:00 AM before classes
 
 ## Key Discoveries
 
 ### Spore Discharge Mechanics
-- Discovered "Buller's drop" — the fluid droplet that forms at the base of basidiospores seconds before discharge
-- Demonstrated that the drop is carried with the spore, resolving discrepancies with Stokes' law of falling objects
+- Discovered "Buller"s drop" — the fluid droplet that forms at the base of basidiospores seconds before discharge
+- Demonstrated that the drop is carried with the spore, resolving discrepancies with Stokes" law of falling objects
 - Hypothesized surface tension as the driving force in the catapult mechanism — confirmed 70+ years later by modern researchers
 - Measured spore fall velocity using an ingenious apparatus: glass-sided chamber, horizontally tilted microscope with calibrated silk threads, and an electric tapper recording on a spinning drum
 

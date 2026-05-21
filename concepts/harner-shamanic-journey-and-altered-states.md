@@ -10,7 +10,7 @@ tags: [shamanism]
 
 ## The Shamanic Journey and Altered States of Consciousness
 
-A central thesis running through Harner's "[[amazonian-boa-spirits-and-water-beings-in-shamanic-practice]] worldwide. The volume argues that this experience is not merely a cultural construct but may have a biochemical basis reinforced across millennia of human use of [[european-witchcraft-hallucinogenic-plants]] reveals an identical pattern on another continent, mediated by entirely different plants. European witches rubbed their bodies with hallucinogenic ointments containing [[mckenna-amazon-shamanism-and-ayahuasca]]
+A central thesis running through Harner"s "[[amazonian-boa-spirits-and-water-beings-in-shamanic-practice]] worldwide. The volume argues that this experience is not merely a cultural construct but may have a biochemical basis reinforced across millennia of human use of [[european-witchcraft-hallucinogenic-plants]] reveals an identical pattern on another continent, mediated by entirely different plants. European witches rubbed their bodies with hallucinogenic ointments containing [[mckenna-amazon-shamanism-and-ayahuasca]]
 - [[banisteriopsis-caapi]]
 
 ## Practical Applications

@@ -3,7 +3,7 @@ title: "How do I grow stone fruits like peaches, plums, and cherries?"
 tags: [query, stone-fruit, prunus, fruit-trees, orchard]
 date: 2026-05-13
 updated: 2026-05-13
-sources: ['raw/papers/working-with-agar.md']
+sources: ["raw/papers/working-with-agar.md']
 ---
 
 ## How do I grow stone fruits like peaches, plums, and cherries?

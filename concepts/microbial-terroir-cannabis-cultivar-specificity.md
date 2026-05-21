@@ -39,7 +39,7 @@ which microbial taxa are available for root colonization — the "regional"
 component of terroir.
 
 Weighted UniFrac (abundance) showed strain dominated PC1 at 34.51%, with
-71 significant OTUs by strain. This means the plant's genotype determines
+71 significant OTUs by strain. This means the plant"s genotype determines
 which of the available soil microbes thrive in the root environment — the
 "cultivar" component. Together, these two tiers create a unique microbiome
 signature for each cultivar-soil combination.

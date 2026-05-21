@@ -53,7 +53,7 @@ penalty for revealing what occurred in the Telesterion was death.
 Central to the initiation rite was the consumption of the kykeon, a barley-based drink. McKenna and other
 scholars, including R. Gordon Wasson, [[claviceps-purpurea]]) is a fungus that infects cereal grasses, particularly barley, rye, and wheat,
 forming dark purple or black sclerotia in place of normal grain kernels. While some strains produce dangerous
-alkaloids associated with ergotism, the dreaded "St. Anthony's Fire" of the Middle Ages, other strains contain
+alkaloids associated with ergotism, the dreaded "St. Anthony"s Fire" of the Middle Ages, other strains contain
 psychoactive ergolines closely related to LSD. The priestly custodians of the Mysteries, the Eumolpidae and
 Kerykes families, possessed the knowledge to prepare ergot in a way that extracted the psychoactive compounds
 while eliminating the toxic ones.

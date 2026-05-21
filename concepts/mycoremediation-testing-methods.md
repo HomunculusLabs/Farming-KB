@@ -58,7 +58,7 @@ Monitoring bacterial contaminants—particularly total heterotrophic counts, col
 
 ### Gram Stain for Rapid Morphological Screening
 
-Prepare a heat-fixed smear of the sample (or an enrichment culture) on a glass slide. Apply crystal violet for 30 seconds, rinse, apply Gram's iodine for 30 seconds, rinse, decolorize briefly with ethanol or acetone (2–3 seconds), rinse, and counterstain with safranin for 30 seconds. Gram-positive organisms appear purple; gram-negative organisms appear pink/red. This rapid differential stain helps characterize the dominant bacterial community and can flag the presence of enteric gram-negative rods, which are of concern in fecal contamination scenarios. A trained eye can distinguish cocci, bacilli, and spiral forms within minutes, providing early directional information about the [[edaphic-factors-microbial-community-structure]].
+Prepare a heat-fixed smear of the sample (or an enrichment culture) on a glass slide. Apply crystal violet for 30 seconds, rinse, apply Gram"s iodine for 30 seconds, rinse, decolorize briefly with ethanol or acetone (2–3 seconds), rinse, and counterstain with safranin for 30 seconds. Gram-positive organisms appear purple; gram-negative organisms appear pink/red. This rapid differential stain helps characterize the dominant bacterial community and can flag the presence of enteric gram-negative rods, which are of concern in fecal contamination scenarios. A trained eye can distinguish cocci, bacilli, and spiral forms within minutes, providing early directional information about the [[edaphic-factors-microbial-community-structure]].
 
 ### Dilution-to-Extinction
 

@@ -14,7 +14,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Wilson, E.O. (1992). The Diversity of Life. Harvard University Press. (context for Hobbs' biodiversity advocacy)
+  - Wilson, E.O. (1992). The Diversity of Life. Harvard University Press. (context for Hobbs" biodiversity advocacy)
 ---
 
 ## Jude Hobbs

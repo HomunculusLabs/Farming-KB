@@ -10,7 +10,7 @@ type: concept
 
 ## Direct-Seeded No-Tillage Rice and Barley
 
-Fukuoka's signature practical method is what he calls "direct-seeded, no-tillage,
+Fukuoka"s signature practical method is what he calls "direct-seeded, no-tillage,
 [[fukuoka-clover-cover-cropping-soil-ecology]]." This system produces approximately
 22 bushels (1,300 pounds) of winter grain and 22 bushels of rice per quarter-acre
 each year, on land that has not been plowed or turned in over thirty years. No

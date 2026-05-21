@@ -68,7 +68,7 @@ Some American towns (notably Davis, California) have enacted ordinances requirin
 
 ## Integrated Settlement Design: Against Modern Zoning
 
-Modern urban planning—designating city sectors as industrial, commercial, residential, or recreational—is, in Mollison's view, **the antithesis of good planning** for transport [[desert-house-water-energy-conservation]]. It bears little relationship to the natural zonation of function and available time around a settlement.
+Modern urban planning—designating city sectors as industrial, commercial, residential, or recreational—is, in Mollison"s view, **the antithesis of good planning** for transport [[desert-house-water-energy-conservation]]. It bears little relationship to the natural zonation of function and available time around a settlement.
 
 ### The Case for Integration
 

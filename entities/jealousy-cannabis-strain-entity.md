@@ -47,7 +47,7 @@ Girl Scout Cookies ─────┘                 │
 └── (via Gelato)                          │
 ```
 
-The inbreeding of Sunset Sherbet genetics (present in both Gelato #41 and directly as the second parent) creates a homozygous reinforcement of certain terpene pathways, explaining Jealousy's intense, concentrated aroma profile.
+The inbreeding of Sunset Sherbet genetics (present in both Gelato #41 and directly as the second parent) creates a homozygous reinforcement of certain terpene pathways, explaining Jealousy"s intense, concentrated aroma profile.
 
 ## Appearance
 

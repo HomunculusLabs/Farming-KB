@@ -12,13 +12,13 @@ Michael J. Harner proposed that the European werewolf belief—lycanthropy—may
 
 ## The Harmaline Shape-Shifting Experiment
 
-### Claudio Naranjo's Research
+### Claudio Naranjo"s Research
 
 The key piece of evidence linking hallucinogens to werewolf beliefs comes from the research of Claudio Naranjo, who administered harmaline (a beta-carboline alkaloid from *Banisteriopsis caapi*, a component of ayahuasca) to an experimental subject. The subject's experience progressed through three stages of transformation:
 
 1. **Bird**: "He first believed he was a bird flying through the air"
 2. **Fish**: "Then a fish"—experiencing aquatic freedom
-3. **Tiger**: "I wasn't a fish anymore, but a big cat, a tiger. I walked, though, feeling the same freedom I had experienced as a bird and a fish, freedom of movement, flexibility, grace. I moved as a tiger in the jungle, joyously, feeling the ground under my feet, feeling my power; my chest grew larger."
+3. **Tiger**: "I wasn"t a fish anymore, but a big cat, a tiger. I walked, though, feeling the same freedom I had experienced as a bird and a fish, freedom of movement, flexibility, grace. I moved as a tiger in the jungle, joyously, feeling the ground under my feet, feeling my power; my chest grew larger."
 
 ### The Attack on the "Deer"
 
@@ -55,9 +55,9 @@ The cultural expectation of shape-shifting appears to function as a "suggestive 
 
 ## The Jivaro Perspective
 
-During Harner's fieldwork among the Jivaro Indians of eastern Ecuador, he found that they use both solanaceous plants (*Datura*) and non-solanaceous hallucinogens. The Jivaro use Datura in the vision quest simply to encounter the supernatural but do not use it in shamanism because it is "too strong" and prevents the shaman from being able to operate in both worlds simultaneously.
+During Harner"s fieldwork among the Jivaro Indians of eastern Ecuador, he found that they use both solanaceous plants (*Datura*) and non-solanaceous hallucinogens. The Jivaro use Datura in the vision quest simply to encounter the supernatural but do not use it in shamanism because it is "too strong" and prevents the shaman from being able to operate in both worlds simultaneously.
 
-This distinction between vision quest (where the goal is to lose ordinary identity and merge with the supernatural) and shamanism (where the goal is to maintain a functional connection between ordinary and extraordinary reality) provides a framework for understanding the difference between the European witch's Sabbat experience and the shaman's more controlled engagement with altered states.
+This distinction between vision quest (where the goal is to lose ordinary identity and merge with the supernatural) and shamanism (where the goal is to maintain a functional connection between ordinary and extraordinary reality) provides a framework for understanding the difference between the European witch"s Sabbat experience and the shaman's more controlled engagement with altered states.
 
 ## Sabbats and Esbats
 

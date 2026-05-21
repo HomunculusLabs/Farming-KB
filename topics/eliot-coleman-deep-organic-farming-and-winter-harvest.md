@@ -23,7 +23,7 @@ related_concepts:
 ## Eliot Coleman and the Deep Organic Tradition
 
 Eliot Coleman is among the most influential organic farmers of the past half century.
-Since purchasing part of Scott and Helen Nearing's homestead in Harborside, Maine in 1968, he has refined a system of year-round vegetable production requiring no artificial heat or fossil fuels.
+Since purchasing part of Scott and Helen Nearing"s homestead in Harborside, Maine in 1968, he has refined a system of year-round vegetable production requiring no artificial heat or fossil fuels.
 His farm, Four Season Farm, sits at 44 degrees north in USDA Zone 5 where winter temperatures routinely drop below zero Fahrenheit.
 Yet he harvests fresh greens, carrots, and root vegetables every week of the year from unheated greenhouses, using only sunlight and simple protective structures.
 His books — "The New Organic Grower" and "The Winter Harvest Handbook" — have become foundational texts for small-scale organic farmers worldwide.
@@ -40,12 +40,12 @@ Shallow-organic farmers substitute organic-approved inputs for chemical ones, ap
 They spray natural pesticides to treat plant stress rather than addressing the stress itself.
 Coleman argues this sustains dependence on middlemen and suppliers regardless of whether the inputs are organic-approved.
 The distinction is not about what materials you use but whether you understand the biological system underneath.
-In Coleman's metaphor, soluble fertilizers substituting for a living system is "like thinking an intravenous needle could deliver a delicious meal."
+In Coleman"s metaphor, soluble fertilizers substituting for a living system is "like thinking an intravenous needle could deliver a delicious meal."
 The deep-organic farmer works to understand and support biological processes rather than bypass them with purchased products.
 
 ## The Biological Approach to Soil Fertility
 
-The core of Coleman's philosophy is that a healthy soil food web is the foundation of all plant nutrition.
+The core of Coleman"s philosophy is that a healthy soil food web is the foundation of all plant nutrition.
 The farmer adds organic matter to nurture bacteria, fungi, protozoa, nematodes, earthworms, and the countless creatures constituting the living soil ecosystem.
 Coleman describes this as "feeding the soil as opposed to chemically feeding the plants." What it really does is feed the soil creatures — and that is why it works.
 Plants participate by releasing root exudates that feed specific organisms, which in turn make nutrients available in absorbable forms.
@@ -56,11 +56,11 @@ The evidence is in the flavor, the resilience, and the soil structure. Biologica
 
 Coleman considers compost the single most important input on a small organic farm.
 His approach blends traditional French practices with modern understanding of soil biology and mineral nutrition.
-Compost is applied as a surface topdressing turned into the soil at each crop cycle's end, keeping biological activity in the upper soil layers where most feeder roots grow.
+Compost is applied as a surface topdressing turned into the soil at each crop cycle"s end, keeping biological activity in the upper soil layers where most feeder roots grow.
 He applies one to two inches of finished compost before each planting, maintaining the soil food web at peak activity throughout the season.
 The French tradition emphasizes horse manure with straw bedding as the ideal starting material.
 The 19th-century agronomist Gressent connected compost directly to pest resistance: "Insect pests only attack weak, sickly plant specimens lacking proper nutrition."
-Coleman's compost system produces enough material to maintain fertility across all beds through consistent sourcing and careful decomposition management.
+Coleman"s compost system produces enough material to maintain fertility across all beds through consistent sourcing and careful decomposition management.
 The quality of finished compost determines everything that follows — soil health, plant nutrition, pest resistance, and crop flavor all begin with the compost pile.
 
 ## The Soil Block Transplant System
@@ -86,7 +86,7 @@ Gentle but effective intervention that respects the living system beneath the su
 ## The First Rule: Nature Makes Sense
 
 Coleman articulated a foundational principle for biological agriculture: "Nature makes sense."
-If something is not working in the farm system, it is the farmer's fault, not Nature's. This reframes all symptom-treating pest management as fundamentally misguided.
+If something is not working in the farm system, it is the farmer"s fault, not Nature's. This reframes all symptom-treating pest management as fundamentally misguided.
 He writes that bug picking, garlic spray, herbal concoctions, and chemical pesticides are all palliatives — from the Latin pallium, meaning cloak.
 A palliative masks symptoms without curing the underlying problem. The real question is not which palliative to apply but why the problem exists.
 Coleman was unsparing toward organic farmers using natural pesticides: "The organic farmer who uses natural insecticides is no wiser than his chemical counterpart; different materials but the same mistake."

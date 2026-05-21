@@ -20,7 +20,7 @@ The species is one of the most distinctive Kalanchoe in cultivation, easily reco
 
 Kalanchoe orgyalis has become increasingly popular in succulent collections and xeriscape landscapes worldwide. Its drought tolerance and unusual foliage color make it a sought-after specimen for Mediterranean-climate gardens.
 
-The species received the Royal Horticultural Society's Award of Garden Merit, confirming its reliability as a cultivated plant. It has been in European horticulture since the early twentieth century.
+The species received the Royal Horticultural Society"s Award of Garden Merit, confirming its reliability as a cultivated plant. It has been in European horticulture since the early twentieth century.
 
 In its native Madagascar, the plant is known locally by the name "fontsy" in the Malagasy language. The name refers to the copper color that resembles traditional copper vessels used in the region.
 

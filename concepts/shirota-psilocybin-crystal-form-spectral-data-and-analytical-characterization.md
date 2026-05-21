@@ -1,5 +1,5 @@
 ---
-title: "Psilocybin Crystallization: Spectral Characterization and Analytical Fingerprint of Shirota's Synthesis Product"
+title: "Psilocybin Crystallization: Spectral Characterization and Analytical Fingerprint of Shirota"s Synthesis Product"
 source: concise-large-scale-synthesis-of-psilocin-and-psilocybin-shirota-hakamata-goda.md
 tags: [shirota, psilocybin, crystal, spectral-data, NMR, UV, IR, mass-spec, analytical-chemistry, forensic]
 ---

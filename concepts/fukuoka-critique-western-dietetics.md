@@ -48,7 +48,7 @@ Fukuoka critiques the Japanese nutritional scoring system (based on Kagawa Nutri
 
 Each point represents 80 calories for a daily total of 1,600 calories. The system appears eminently sensible on the surface but reveals deep problems when implemented at scale.
 
-## The System's Hidden Costs
+## The System"s Hidden Costs
 
 This scoring system requires a year-round supply of high-grade meat, eggs, milk, bread, vegetables, and fruits — necessitating mass production and long-term storage. This is the reason farmers must grow lettuce, cucumbers, eggplant, and tomatoes in winter. Fukuoka asks: "Can we really have a balanced diet by gathering together many different foods at all times of the year, as if there were no seasons?"
 
@@ -60,7 +60,7 @@ Scientists see themselves as working to ensure that people get all the nourishme
 
 Fukuoka argues that taste and nutrition should not be separated. What is nourishing and good for the body should stimulate the human appetite of its own accord and serve as delicious food. "Flavor and nutrition must be one."
 
-It is no surprise that some mothers stuff "nutritious food" into their children's mouths, regardless of whether it tastes good or not. This represents the fundamental error of treating food as mere fuel rather than as an intimate connection between body, nature, and spirit.
+It is no surprise that some mothers stuff "nutritious food" into their children"s mouths, regardless of whether it tastes good or not. This represents the fundamental error of treating food as mere fuel rather than as an intimate connection between body, nature, and spirit.
 
 ## Yin-Yang Analysis
 
@@ -68,7 +68,7 @@ According to the principle of yin and yang, the basic foods listed in the scorin
 
 ## The Simple Alternative
 
-Farmers in Fukuoka's area historically enjoyed simple meals of barley and rice with unrefined soy sauce and pickled vegetables. This gave them strength and long life. Working hard in the fields made one hungry, which is why coarse fare tasted delicious, and a strong body can draw sustenance from a simple diet.
+Farmers in Fukuoka"s area historically enjoyed simple meals of barley and rice with unrefined soy sauce and pickled vegetables. This gave them strength and long life. Working hard in the fields made one hungry, which is why coarse fare tasted delicious, and a strong body can draw sustenance from a simple diet.
 
 Stewed vegetables and rice cooked with adzuki beans was a once-a-month treat. How was this enough to supply their nutrient needs? Rather than thinking in terms of "drawing nutrition" it makes more sense to say that working hard in the fields made one hungry, which is why coarse fare tasted delicious. And a strong body can draw sustenance from a simple diet.
 

@@ -12,7 +12,6 @@ updated: 2026-05-08
 sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
   - Bassi P.V. et al. (2021). "The Ellagic Acid Content of growing-gourmet-north-american-reishi-species Wild Strawberries." Food Chemistry 340: 128267.---
----
 
 ## Overview
 

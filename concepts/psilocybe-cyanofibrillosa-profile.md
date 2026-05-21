@@ -31,7 +31,7 @@ P. cyanofibrillosa is a saprotrophic wood-inhabiting species. Based on its distr
 2. **Decaying wood**: Likely fruits on decaying logs, stumps, and woody debris of coniferous trees, similar to other wood-inhabiting Psilocybe species of the region
 3. **Wood chip mulch**: As with other Pacific Northwest Psilocybe species, it may colonize landscaped areas with wood chip mulch, though this has not been specifically documented
 
-The species' restriction to the coastal zone suggests it requires the consistent moisture and moderate temperatures characteristic of the Pacific coast climate, with its cool, wet winters and foggy summers. It likely fruits in the autumn months, as do most Pacific Northwest Psilocybe species.
+The species" restriction to the coastal zone suggests it requires the consistent moisture and moderate temperatures characteristic of the Pacific coast climate, with its cool, wet winters and foggy summers. It likely fruits in the autumn months, as do most Pacific Northwest Psilocybe species.
 
 ## Chemical Composition
 

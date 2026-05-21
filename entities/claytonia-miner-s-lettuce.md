@@ -1,5 +1,5 @@
 ---
-title: Claytonia (Miner's Lettuce)
+title: Claytonia (Miner"s Lettuce)
 source: eliot-coleman-winter-harvest-handbook.md
 type: entity
 tags: [species, vegetable, cold-hardy, winter-crop, montiaceae]
@@ -7,7 +7,7 @@ tags: [species, vegetable, cold-hardy, winter-crop, montiaceae]
 
 ## Overview
 
-Claytonia perfoliata, commonly known as miner's lettuce, winter purslane, or Indian lettuce, is a small annual succulent plant in the family Montiaceae. It is one of the signature "novel" cold-hardy salad crops in Eliot Coleman's winter-harvest system at [[four-season-farm]], valued for its succulent texture, mild flavor, and exceptional winter productivity.
+Claytonia perfoliata, commonly known as miner's lettuce, winter purslane, or Indian lettuce, is a small annual succulent plant in the family Montiaceae. It is one of the signature "novel" cold-hardy salad crops in Eliot Coleman"s winter-harvest system at [[four-season-farm]], valued for its succulent texture, mild flavor, and exceptional winter productivity.
 
 ## Classification
 
@@ -27,13 +27,13 @@ Claytonia produces small, fleshy, heart-shaped or triangular leaves that form a 
 - Extremely cold-tolerant, surviving temperatures well below freezing under protection
 - Continues active growth during winter months, even under short day conditions
 - Plants that freeze solid overnight thaw and resume growth without damage
-- One of the most reliable winter producers in Coleman's system
+- One of the most reliable winter producers in Coleman"s system
 
 ## Role in the Winter-Harvest System
 
 Claytonia holds a special place in the Four Season Farm crop lineup:
 
-- Classified as a "novel" cold-hardy vegetable (unfamiliar to most American growers before Coleman's advocacy)
+- Classified as a "novel" cold-hardy vegetable (unfamiliar to most American growers before Coleman"s advocacy)
 - Among the most productive winter salad crops in terms of regrowth after cutting
 - Produces attractive, succulent leaves that command premium prices at market
 - Demonstrates exceptional "[[cut-and-come-again]]" regrowth in midwinter
@@ -46,7 +46,7 @@ Claytonia holds a special place in the Four Season Farm crop lineup:
 
 ## Harvest Season
 
-Based on Coleman's harvest charts for Zone 5:
+Based on Coleman"s harvest charts for Zone 5:
 
 | Structure | Harvest Period |
 |-----------|---------------|
@@ -73,7 +73,7 @@ Claytonia is one of the few crops showing uninterrupted harvest through the enti
 
 ## Etymology and History
 
-The common name "miner's lettuce" derives from the California Gold Rush era, when miners ate the plant to prevent scurvy, as it is an excellent source of vitamin C. The plant is native to the western coastal regions [[huckleberries-and-wild-berries-of-north-america]], from British Columbia to [[guzman-allen-gartz-neurotropic-fungi-caribbean-central-america]], where it grows as a cool-season winter annual.
+The common name "miner"s lettuce" derives from the California Gold Rush era, when miners ate the plant to prevent scurvy, as it is an excellent source of vitamin C. The plant is native to the western coastal regions [[huckleberries-and-wild-berries-of-north-america]], from British Columbia to [[guzman-allen-gartz-neurotropic-fungi-caribbean-central-america]], where it grows as a cool-season winter annual.
 
 ## Relevance to Cultivation and Mycology
 

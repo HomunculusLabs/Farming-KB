@@ -6,13 +6,13 @@ tags:
 
 ## Source
 *[[mckenna-vedic-soma-indo-european-mysteries]]) was deeply ambivalent — only two references appear in
-Zoroaster's Gathas, one calling it "averter of death" and the other condemning "the
+Zoroaster"s Gathas, one calling it "averter of death" and the other condemning "the
 filthiness of this intoxicant." Despite this early suppression, Haoma later returned
 to center stage in Zoroastrian liturgy, where it has remained for over two millennia.
 
 ## The Zoroastrian Revolution
 
-Zoroaster's religion represented a fundamental break with the earlier Indo-Iranian
+Zoroaster"s religion represented a fundamental break with the earlier Indo-Iranian
 tradition of sacramental plant use. Where the older religion centered on the ecstatic
 experience induced by [[cultural-evolution-and-psychoactive-substances]]: the moment when humanity began to substitute
 ideology for direct experience of the transcendent.

@@ -20,7 +20,7 @@ The mushrooms are eaten in pairs, symbolizing the dual principle of procreation 
 
 The central figure in Mazatec mushroom ceremonies is not a silent guide but an active speaker. The shaman is called "the man of language" (*hombre de palabra*) and "the man of wisdom." His primary function is to speak on behalf of those present—to chant, pray, sing, and utter the truths that the mushrooms reveal.
 
-When asked where their imagery comes from, shamans consistently reply: "I didn\'t say it; the mushrooms did." This attribution reflects a core understanding: the mushrooms do not literally speak, but they endow the person who consumes them with an inspired capacity for language. The words that issue forth during sessions are experienced as coming from outside oneself—as dictation rather than invention.
+When asked where their imagery comes from, shamans consistently reply: "I didn\"t say it; the mushrooms did." This attribution reflects a core understanding: the mushrooms do not literally speak, but they endow the person who consumes them with an inspired capacity for language. The words that issue forth during sessions are experienced as coming from outside oneself—as dictation rather than invention.
 
 ### The Rhythmic "Tzo"
 
@@ -34,7 +34,7 @@ The linguistic phenomenon produced by the mushrooms bears comparison with the su
 
 The Mazatec shaman operates with a concept of *poesis* in its original Greek sense—as an action, a making, a transmutation. Words themselves are understood as medicine. To enunciate and give meaning to the events and situations of existence is considered life-giving in itself.
 
-Claude Levi-Strauss\'s observation is directly relevant: "The psychoanalyst listens, whereas the shaman speaks." In the psychoanalytic transference, the patient puts words into the analyst\'s mouth. In shamanic incantation, the shaman speaks *for* the patient—questioning and providing answers that correspond to the interpretation of the patient\'s condition. The shaman provides the sick person with a language by means of which unexpressed and otherwise inexpressible psychic states can be immediately expressed.
+Claude Levi-Strauss\"s observation is directly relevant: "The psychoanalyst listens, whereas the shaman speaks." In the psychoanalytic transference, the patient puts words into the analyst\"s mouth. In shamanic incantation, the shaman speaks *for* the patient—questioning and providing answers that correspond to the interpretation of the patient\'s condition. The shaman provides the sick person with a language by means of which unexpressed and otherwise inexpressible psychic states can be immediately expressed.
 
 This transition to verbal expression—making it possible to undergo in an ordered and intelligible form a real experience that would otherwise be chaotic and inexpressible—is what induces the release of the physiological process and reorganizes it in a favorable direction.
 
@@ -44,7 +44,7 @@ Detailed ethnographic records exist of mushroom sessions led by a Mazatec medici
 
 ### Diagnostic Invocation
 
-The session begins with a search for the origin of illness. The medicine woman chants prayers asking to discover "from where comes sickness, from where comes pain and affliction." She invokes a systematic examination: "Let\'s go searching for the tracks of her feet to encounter the sickness that she is suffering from."
+The session begins with a search for the origin of illness. The medicine woman chants prayers asking to discover "from where comes sickness, from where comes pain and affliction." She invokes a systematic examination: "Let\"s go searching for the tracks of her feet to encounter the sickness that she is suffering from."
 
 ### The Footprint Metaphor
 
@@ -66,7 +66,7 @@ The mushrooms serve both chemical and spiritual functions in healing:
 
 2. **Psychological catharsis**: For psychosomatic complaints and psychological troubles, the liberation of spontaneous activity provoked by the mushrooms is most remedial. Given to the depressed, they awaken a catharsis of the spirit; to those with problems, a vision of their existential situation.
 
-3. **Somatic healing**: The shaman\'s intoxicated state of intense, vibrant energy gives him strength for physical healing through massage and suction, working directly over the sick person\'s body.
+3. **Somatic healing**: The shaman\"s intoxicated state of intense, vibrant energy gives him strength for physical healing through massage and suction, working directly over the sick person\'s body.
 
 4. **Spiritual diagnosis**: The shaman eats the mushrooms to "see into the spirit of the sick, to disclose the hidden, to intuit how to resolve the unsolved." The mushroom experience provides visionary empathy that guides the healing process.
 
@@ -80,11 +80,11 @@ Not everyone has a "predilection for such extreme and arduous experiences." Thos
 
 The most profound insight of Mazatec mushroom shamanism may be its understanding that language itself is therapeutic. The mushrooms are called not "mushrooms" but "prayer," "well-being," and "wisdom." The experience they produce is understood as synonymous with language, communication, perception, insight, and knowledge.
 
-The medicine woman\'s most frequently repeated words are *freshness* and *tenderness*—emotions of activated, perceptualized being. For the Mazatecs, the mushrooms do not produce madness; they produce "good and happiness." They are "a remedy for decent people."
+The medicine woman\"s most frequently repeated words are *freshness* and *tenderness*—emotions of activated, perceptualized being. For the Mazatecs, the mushrooms do not produce madness; they produce "good and happiness." They are "a remedy for decent people."
 
 ## Contemporary Relevance
 
-Munn argues that the rediscovery of psilocybin\'s effects in Western society has been distorted by association with madness and the pejorative label "drugs." The shamans who used these substances spoke of them as medicines and described their effects as putting one into communication with the spirit. The value of studying their use in indigenous societies lies in finding a path "beyond the superficial to a more essential understanding of phenomena which we, with our limited conception of the rational, have too quickly, perhaps mistakenly, termed irrational."
+Munn argues that the rediscovery of psilocybin\"s effects in Western society has been distorted by association with madness and the pejorative label "drugs." The shamans who used these substances spoke of them as medicines and described their effects as putting one into communication with the spirit. The value of studying their use in indigenous societies lies in finding a path "beyond the superficial to a more essential understanding of phenomena which we, with our limited conception of the rational, have too quickly, perhaps mistakenly, termed irrational."
 
 ## See Also
 - [[mckenna-food-gods-wasson-revelation-magic-mushroom-discovery-mazatec]]

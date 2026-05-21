@@ -28,7 +28,7 @@ Each Buddha occupies a cardinal direction in the mandala and embodies a specific
 - **Direction:** Center
 - **Function:** Manifestation of phenomena; source of all organic life
 - **Role in The Psychedelic Experience:** Corresponds to Vision 1 — "The Source," the undifferentiated creative energy of the First Bardo. "In him all things visible and invisible have their consummation and absorption."
-- **Leary's interpretation:** The Central Realm of the Densely-Packed, where "the seed of all universal forces and things are densely packed together."
+- **Leary"s interpretation:** The Central Realm of the Densely-Packed, where "the seed of all universal forces and things are densely packed together."
 
 #### 2. Akshobhya (East)
 - **Wisdom:** Mirror-like Wisdom
@@ -37,7 +37,7 @@ Each Buddha occupies a cardinal direction in the mandala and embodies a specific
 - **Direction:** East
 - **Function:** Reflecting reality as it is, without distortion
 - **Role in The Psychedelic Experience:** Corresponds to Vision 4 — "The Wave-Vibration Structure of External Forms," where all phenomena are perceived as shimmering wave patterns.
-- **Lama Govinda quote:** "Things are freed from their 'thingness,' their isolation, without being deprived of their form; they are divested of their materiality, without being dissolved."
+- **Lama Govinda quote:** "Things are freed from their "thingness,' their isolation, without being deprived of their form; they are divested of their materiality, without being dissolved."
 
 #### 3. Ratnasambhava (South)
 - **Wisdom:** Wisdom of Equality

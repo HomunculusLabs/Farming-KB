@@ -23,7 +23,7 @@ The energy efficiency of food production — the ratio of food energy harvested 
 
 1. **Natural farming**: 1 man-day of labor produces 130 pounds of rice (200,000 kcal food energy). The only energy input is the 2,000 kcal needed to feed one farmer for one day — a 100:1 return on energy invested. No outside materials are required.
 
-2. **Animal-powered farming** (horses or oxen): Requires 5 to 10 times the energy input [[cho-poultry-natural-farming-methods]]. He noted that India's agricultural poverty was partly attributable to raising large numbers of cows and elephants that consumed grass which, if left on the land, would have maintained soil fertility.
+2. **Animal-powered farming** (horses or oxen): Requires 5 to 10 times the energy input [[cho-poultry-natural-farming-methods]]. He noted that India"s agricultural poverty was partly attributable to raising large numbers of cows and elephants that consumed grass which, if left on the land, would have maintained soil fertility.
 
 He advocated for smaller animals — pigs, goats, chickens, rabbits — that can be integrated into cropping systems without dedicating large areas to pasture. These animals cycle nutrients locally and provide food with minimal external energy input. The Japanese Bantam chicken, allowed to forage freely, produces a flock of 10 to 20 birds from a single breeding pair within a year, yielding more total eggs than caged production while requiring zero purchased feed.
 
@@ -60,7 +60,7 @@ Distribution costs compound the energy inefficiency. In Japan, food distribution
 
 ## The Minimum Human Calorie Requirement
 
-Fukuoka's young apprentices in the citrus orchard demonstrated that a person's minimum daily calorie requirement is approximately 1,000 calories for a "hermit's diet" of brown rice with sesame seeds and salt, and 1,500 calories on a diet of brown rice and vegetables. This is sufficient to perform a farmer's work — equivalent to about one-tenth of a horsepower. By contrast, the fossil fuel energy consumed per capita in industrialized societies dwarfs this biological minimum by orders of magnitude.
+Fukuoka's young apprentices in the citrus orchard demonstrated that a person's minimum daily calorie requirement is approximately 1,000 calories for a "hermit"s diet" of brown rice with sesame seeds and salt, and 1,500 calories on a diet of brown rice and vegetables. This is sufficient to perform a farmer's work — equivalent to about one-tenth of a horsepower. By contrast, the fossil fuel energy consumed per capita in industrialized societies dwarfs this biological minimum by orders of magnitude.
 
 ## Why Modern Agriculture Wastes Energy
 

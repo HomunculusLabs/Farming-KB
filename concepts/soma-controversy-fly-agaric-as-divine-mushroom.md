@@ -11,7 +11,7 @@ tags: [agar, mushroom-cultivation]
 ## Soma Controversy and the Fly-Agaric as Divine Mushroom
 
 The identity of [[soma-vedic-history]] -- the mysterious god-plant praised throughout the ecstatic hymns of the ancient
-Indian [Rig Veda -- has been one of the great unsolved puzzles of Indology. [Gordon Wasson's claim that Soma was none other than the [fly-agaric mushroom sent shockwaves
+Indian [Rig Veda -- has been one of the great unsolved puzzles of Indology. [Gordon Wasson"s claim that Soma was none other than the [fly-agaric mushroom sent shockwaves
 through academia and became one of the most influential -- and contested -- theses in the history of
 psychedelic scholarship. Arriving in 1968 at the zenith of the psychedelic
 counterculture, Wasson's thesis proved absolutely enticing to a generation hungry for historical
@@ -31,7 +31,7 @@ descriptions of plants that could be substituted for Soma. Candidates included v
 genera Ephedra, Periploca and Sarcostemma; the psychoactive [[mckenna-club-des-hachischins-and-nineteenth-century-literary-hashish]] alone, a figure that rose to over a hundred in the twentieth. No consensus was ever
 reached, and the question was deemed insoluble.
 
-## Wasson's Entry into the Debate
+## Wasson"s Entry into the Debate
 
 Quite what inspired Wasson to wade into this quagmire is unclear, but it may have been a conversation with
 Aldous Huxley. Huxley had become the founding father of psychedelia through The Doors of
@@ -46,7 +46,7 @@ in 1968 with the publication of SOMA: Divine Mushroom of Immortality.
 
 ## SOMA: Divine Mushroom of Immortality (1968)
 
-The book displayed all of Wasson's hallmarks -- panoramic breadth, radical ideas, sweeping arguments, and an
+The book displayed all of Wasson"s hallmarks -- panoramic breadth, radical ideas, sweeping arguments, and an
 infectious rhetorical style. The first part was devoted to his fly-agaric thesis, the second to an essay by
 the Sanskrit scholar Wendy Doniger O'Flaherty on the history of the Soma question, and the remainder
 reprinted in translation every reference to the fly-agaric in Siberian ethnographies, travelogues, and other
@@ -75,7 +75,7 @@ Wasson employed several lines of evidence:
 
 ## Photographic Manipulation
 
-Letcher reveals that Wasson's photographer Allan Richardson was encouraged to "tinker" with photos to make
+Letcher reveals that Wasson"s photographer Allan Richardson was encouraged to "tinker" with photos to make
 them more persuasive. Two plates supposedly illustrated the Vedic line "By day he appears hari. By night,
 silvery white." The same cluster of fly-agarics was shown by day and by night -- but Richardson simply took
 the same colour photo, reprinted in black and white, and applied a special darkroom technique that made the

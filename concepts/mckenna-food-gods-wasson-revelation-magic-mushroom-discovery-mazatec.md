@@ -1,7 +1,7 @@
 ---
-title: "Wasson's Revelation: The Discovery of the Magic Mushroom Cult"
+title: "Wasson"s Revelation: The Discovery of the Magic Mushroom Cult"
 source: mckenna_t-food_of_the_gods.md
-topic: "R. Gordon Wasson's discovery of psilocybin mushroom ceremonies among the Mazatec"
+topic: "R. Gordon Wasson"s discovery of psilocybin mushroom ceremonies among the Mazatec"
 type: concept
 tags:
   - wasson
@@ -18,7 +18,7 @@ tags:
   - sacred-plants
 ---
 
-## Wasson's Revelation: The Discovery of the Magic Mushroom Cult
+## Wasson"s Revelation: The Discovery of the Magic Mushroom Cult
 
 ## The Mycophile and the Mycophobe
 

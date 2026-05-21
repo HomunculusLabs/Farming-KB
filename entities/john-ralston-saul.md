@@ -14,7 +14,7 @@ John Ralston Saul is a Canadian philosopher, novelist, and public intellectual k
 
 - **Type:** Person — philosopher, author, public intellectual
 - **Nationality:** Canadian (born 1947)
-- **Key work:** *Voltaire's Bastards: The Dictatorship of Reason in the West* (1992)
+- **Key work:** *Voltaire"s Bastards: The Dictatorship of Reason in the West* (1992)
 - **Domain:** Political philosophy, critique of economic rationalism
 - **Recognition:** Winner of the Governor General's Literary Award; former president of PEN International
 
@@ -24,7 +24,7 @@ John Ralston Saul is a Canadian philosopher, novelist, and public intellectual k
 - Critiqued the "dictatorship of reason" that privileges quantitative analysis over human judgement, ethics, and common sense
 - Identified the neoliberal consensus of the 1980s–1990s as a period of consuming social capital rather than building it
 - Advocated for pluralistic, humanistic approaches to governance and economics
-- His critique aligns with Holmgren's observation that the productivity gains of the late 20th century were largely achieved by liquidating public and natural assets
+- His critique aligns with Holmgren"s observation that the productivity gains of the late 20th century were largely achieved by liquidating public and natural assets
 
 ## Relevance to Permaculture and Cultivation
 

@@ -34,7 +34,7 @@ modern psychedelic science through the discovery of LSD.
 
 This article traces the arc from ancient grain infections through medieval
 ergotism plagues, the sacred Eleusinian Mysteries of ancient Greece, the Salem
-witch trials, and finally to [[albert-hofmann]]'s laboratory at Sandoz, where
+witch trials, and finally to [[albert-hofmann]]"s laboratory at Sandoz, where
 [[lysergic-acid-diethylamide]] emerged from ergot chemistry in 1938.
 
 ## The Organism — Claviceps Biology and Life Cycle
@@ -109,7 +109,7 @@ Clavine alkaloids such as agroclavine, elymoclavine, and lysergol represent
 simpler ergoline derivatives. They serve as biosynthetic precursors to the more
 complex alkaloids and are produced by several *Claviceps* species independently.
 
-## Gangrenous Ergotism — St. Anthony's Fire
+## Gangrenous Ergotism — St. Anthony"s Fire
 
 When ergot-infected grain was milled into flour and consumed as bread, it
 caused epidemics of ergotism that devastated European populations for centuries.

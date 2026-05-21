@@ -1,5 +1,5 @@
 ---
-title: "Fukuoka's Five Principles of Natural Farming"
+title: "Fukuoka"s Five Principles of Natural Farming"
 tags:
   - concept
 ---
@@ -39,7 +39,7 @@ the fields and forests — there never was any need for pesticides. Man grew
 confused when he identified these diseases as insect damage and created with
 his own hands the need for labor and toil.
 
-When a large outbreak of leafhoppers occurs in Fukuoka's fields, spiders
+When a large outbreak of leafhoppers occurs in Fukuoka"s fields, spiders
 multiply in response, without fail. As long as natural enemies are present, a
 [[fukuoka-white-clover-cover-crop-system]] ([[fukuoka-textdoc-three-dimensional-solar-energy-methodless-method]] of nature, the unmoving
 way of Bodhidharma." Although appearing fragile and vulnerable, it is potent

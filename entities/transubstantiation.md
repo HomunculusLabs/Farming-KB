@@ -66,7 +66,7 @@ spiritual access from ordinary practitioners:
   the sacrament
 - After: Only priests claimed the power to mediate divine presence, and the
   "sacrament" produced no actual consciousness alteration
-- The individual's ability to experience God directly was replaced by belief in
+- The individual"s ability to experience God directly was replaced by belief in
   a priest's claim about an invisible transformation
 
 ### The Placebo Sacrament
@@ -92,7 +92,7 @@ the described properties of the original Manna/mushroom.
 
 Transubstantiation fits a larger pattern of entheogenic suppression:
 
-- **Constantine's compilation:** Removed direct mushroom references from texts
+- **Constantine"s compilation:** Removed direct mushroom references from texts
 - **Saint Nicholas supplantation:** Replaced shamanic practitioners with saints
 - **Transubstantiation:** Replaced actual sacrament with symbolic substitute
 - **Witch hunts/Inquisition:** Eliminated remaining practitioners of traditional
@@ -112,7 +112,7 @@ entheogenic sacramental use:
 - **"Do this in remembrance"** — Maintaining the practice after losing the
   substance
 - **Community setting** — Mirrors the group ceremony setting of entheogenic use
-- **Priest as intermediary** — Replaced the shaman's role in guiding the
+- **Priest as intermediary** — Replaced the shaman"s role in guiding the
   experience
 
 ## Relevance to Ethnomycology

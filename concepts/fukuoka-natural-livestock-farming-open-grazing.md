@@ -8,17 +8,17 @@ type: concept
 
 Masanobu Fukuoka extended his philosophy [[mulching-in-natural-farming]]. Nature is the one that raises and grows."
 
-The farmer's role is not to impose management but to create conditions in which nature can express itself fully. This does not mean doing nothing, but that whatever is done must serve nature's own processes rather than oppose them.
+The farmer"s role is not to impose management but to create conditions in which nature can express itself fully. This does not mean doing nothing, but that whatever is done must serve nature's own processes rather than oppose them.
 
 His views on climate reflect this broader philosophy of non-intervention.
 
-> "Heat and cold exist, and yet do not exist, in nature. One will never be wrong in starting with the assumption that the [[mahayana-natural-farming]] — working in complete harmony with nature's intentions, as if human agriculture had never existed — is nearly impossible with such animals. The practical aim, therefore, is [[fukuoka-mahayana-and-hinayana-natural-farming]]: the closest achievable approximation, a gradual movement back toward naturalness through careful breeding and management.
+> "Heat and cold exist, and yet do not exist, in nature. One will never be wrong in starting with the assumption that the [[mahayana-natural-farming]] — working in complete harmony with nature"s intentions, as if human agriculture had never existed — is nearly impossible with such animals. The practical aim, therefore, is [[fukuoka-mahayana-and-hinayana-natural-farming]]: the closest achievable approximation, a gradual movement back toward naturalness through careful breeding and management.
 
 The path requires profound humility and self-awareness.
 
 > "One must tear the robes of human action from nature and remove the innermost garments of subjectivity."
 
-Only by shedding preconceptions — about what animals need, about what constitutes efficiency, about the farmer's proper role — can the farmer perceive what nature is actually doing. Fukuoka's ultimate stance is one of radical receptivity:
+Only by shedding preconceptions — about what animals need, about what constitutes efficiency, about the farmer"s proper role — can the farmer perceive what nature is actually doing. Fukuoka's ultimate stance is one of radical receptivity:
 
 > "Not thinking, not seeing, not doing. That nature is God."
 

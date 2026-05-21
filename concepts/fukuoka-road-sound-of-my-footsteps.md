@@ -16,7 +16,7 @@ masanobu-fukuoka [[fukuoka-road-roots-of-clothing]].
 ## The Music of Cobblestone Streets
 
 As Fukuoka walked, his geta rang out on the cobblestones.
-He discovered just how good a sound Europe's cobblestone
+He discovered just how good a sound Europe"s cobblestone
 streets give off. Japan's roads are paved with asphalt,
 which prompted him to reflect on what type of road is good
 for walking. Europe's streets, both in large cities and

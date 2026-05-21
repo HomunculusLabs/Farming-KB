@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-The mushroom visions experienced by Mazatec shamans during nocturnal ceremonies are characterized by synesthetic perception—the blending of sensory modalities in which sounds produce colors, movement produces light, and inner experience becomes indistinguishable from outer perception. [[henry-munn]]'s documentation of [[roman-estrada]]'s mushroom sessions reveals a rich phenomenology of visionary experience, centering on the metaphor of "whirlwinds" (*remolinos*) as the primary form in which the mushroom experience manifests.
+The mushroom visions experienced by Mazatec shamans during nocturnal ceremonies are characterized by synesthetic perception—the blending of sensory modalities in which sounds produce colors, movement produces light, and inner experience becomes indistinguishable from outer perception. [[henry-munn]]"s documentation of [[roman-estrada]]'s mushroom sessions reveals a rich phenomenology of visionary experience, centering on the metaphor of "whirlwinds" (*remolinos*) as the primary form in which the mushroom experience manifests.
 
 ## The Whirlwind as Core Metaphor
 
@@ -30,7 +30,7 @@ This grounding of visionary experience in the natural world reflects the Mazatec
 
 ### Clowns
 
-Clowns are frequent personae of Estrada's mushroom discourse. The impish mushrooms come to life as "embodiments of merriment, tumbling figments of the spontaneous performing incredible acrobatic feats, funny imaginations of joyfulness." The clown persona represents the playful, subversive dimension of the mushroom experience—the way it overturns ordinary perceptions and categories.
+Clowns are frequent personae of Estrada"s mushroom discourse. The impish mushrooms come to life as "embodiments of merriment, tumbling figments of the spontaneous performing incredible acrobatic feats, funny imaginations of joyfulness." The clown persona represents the playful, subversive dimension of the mushroom experience—the way it overturns ordinary perceptions and categories.
 
 ### Personalities
 
@@ -38,7 +38,7 @@ Beyond the comic figures, serious personae appear: "Others. Society. The faces o
 
 ### The Multitude
 
-"The plurality of incarnated consciousnesses becomes present to him. Multitude." This vision of the collective—the vast assembly of all beings who have ever lived or will live—represents the mushroom's capacity to dissolve the boundaries of individual identity and reveal the interconnectedness of all consciousness.
+"The plurality of incarnated consciousnesses becomes present to him. Multitude." This vision of the collective—the vast assembly of all beings who have ever lived or will live—represents the mushroom"s capacity to dissolve the boundaries of individual identity and reveal the interconnectedness of all consciousness.
 
 ### Elemental World
 
@@ -46,7 +46,7 @@ Estrada's visions include an "elemental world where cruel, predatory birds wheel
 
 ## The Mountains as Interlocutors
 
-A remarkable feature of Estrada's discourse is that he speaks *with* the mountains, not just *about* them:
+A remarkable feature of Estrada"s discourse is that he speaks *with* the mountains, not just *about* them:
 
 "I am he who speaks with the dangerous mountain, says. I am he who speaks with the Mountain of Ridges, says. I am he who speaks with the Father, says. I am he who speaks with the Mother, says. Where plays the spirit of the day, says. Cold Water Mountain, says. Big River Mountain, says. Mountain of Harvest and Richness, says. Where the terror of the day is, says. Where is the way of the dawn, the way of the day, says."
 
@@ -84,7 +84,7 @@ It is "this aspect of such experiences, to the exclusion of all others, that has
 
 ## Synesthetic Perception
 
-The synesthetic quality of the experience—the blending of sight, sound, movement, and emotion—reflects the mushroom's action on serotonin receptors in the brain, which modulate sensory processing across multiple modalities simultaneously. But the Mazatec understanding of synesthesia is not neurological but cosmological: the blending of senses reflects the fundamental unity of all phenomena, the interconnectedness of inner and outer worlds.
+The synesthetic quality of the experience—the blending of sight, sound, movement, and emotion—reflects the mushroom"s action on serotonin receptors in the brain, which modulate sensory processing across multiple modalities simultaneously. But the Mazatec understanding of synesthesia is not neurological but cosmological: the blending of senses reflects the fundamental unity of all phenomena, the interconnectedness of inner and outer worlds.
 
 The whirlwinds of iridescent light are simultaneously visual patterns, auditory experiences (the "buzzing and humming of effervescent consciousness"), kinesthetic sensations (the whirling of the body), and emotional states (ecstasy, terror, joy). This total sensory integration is what makes the mushroom experience so powerful as a therapeutic tool—it engages the whole person, not just one faculty.
 

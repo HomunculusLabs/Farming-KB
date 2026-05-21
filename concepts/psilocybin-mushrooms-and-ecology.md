@@ -10,7 +10,7 @@ sources:
 ---
 ## Psilocybin Mushrooms and Ecology
 
-Paul Stamets' early career was deeply intertwined with the study of psilocybin-containing mushrooms. His taxonomic work on Psilocybe species at Evergreen State College in the 1970s contributed to the scientific understanding of these fungi, and his observations of their ecological roles reveal important aspects of fungal-insect interactions and dispersal biology.
+Paul Stamets" early career was deeply intertwined with the study of psilocybin-containing mushrooms. His taxonomic work on Psilocybe species at Evergreen State College in the 1970s contributed to the scientific understanding of these fungi, and his observations of their ecological roles reveal important aspects of fungal-insect interactions and dispersal biology.
 
 ## Ecological Roles
 
@@ -40,7 +40,7 @@ See [[psychedelic-mushroom-set-and-setting]] for more on individual species.
 
 ## Woodland Cultivation
 
-Psilocybe cyanescens and allies readily colonize outdoor wood chip beds, making them among the easiest mushrooms to establish in managed landscapes. Stamets recommends them as part of the "mycogardener's" toolkit for maintaining healthy saprophytic communities in [[grass-seed-cultivation-of-psilocybe-mushrooms]] species requires understanding their substrate preferences and ecological requirements:
+Psilocybe cyanescens and allies readily colonize outdoor wood chip beds, making them among the easiest mushrooms to establish in managed landscapes. Stamets recommends them as part of the "mycogardener"s" toolkit for maintaining healthy saprophytic communities in [[grass-seed-cultivation-of-psilocybe-mushrooms]] species requires understanding their substrate preferences and ecological requirements:
 
 - **Wood chip preparation**: Fresh hardwood chips (alder, oak, maple, beech) provide the best substrate. Chips should be 1-3 inches in size -- too fine and they compact and anaerobize; too large and they decompose too slowly. A mixture of chip sizes creates the best texture for mycelial colonization
 - **Moisture management**: The substrate should be maintained at field capacity (approximately 60-70% moisture by weight). Outdoor beds benefit from natural rainfall but may require supplemental watering during dry periods. Mulching with straw or additional wood chips helps retain moisture

@@ -9,7 +9,7 @@ sources: [raw/papers/william-ozier-williams-pdc_-a-permaculture-design-cours.md]
 
 # Permaculture Design Process
 
-From William Ozier's "William's PDC: A Permaculture Design Course" (2011). There is no one true "design process" -- design is a creative endeavour. However, having a structured process helps beginners and ensures design teams can work together efficiently.
+From William Ozier"s "William"s PDC: A Permaculture Design Course" (2011). There is no one true "design process" -- design is a creative endeavour. However, having a structured process helps beginners and ensures design teams can work together efficiently.
 
 ## Step 1: Get a Client and a Site
 
@@ -43,7 +43,7 @@ Analysis begins at the macroscale and works inward (from patterns to details):
 Consider: nearby roads, towns, toxic sources (trash dumps), forests, neighbour situations.
 
 ### Client Interview
-The goal is to get into the client's head and think like them. Design is a manifestation of philosophy -- you are attempting to manifest the client's philosophy, not yours. Key questions:
+The goal is to get into the client"s head and think like them. Design is a manifestation of philosophy -- you are attempting to manifest the client's philosophy, not yours. Key questions:
 - Understanding of permaculture?
 - Willing to let design progress through ecological succession?
 - Health needs and dietary requirements?

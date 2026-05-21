@@ -25,7 +25,7 @@ psychedelic counterculture.
 
 ## Early Experimentation with Cannabis
 
-Ludlow's introduction to [[hashish]] came in 1855, during his freshman year at
+Ludlow"s introduction to [[hashish]] came in 1855, during his freshman year at
 Union College in Schenectady, New York. He described his first experience at a
 student tea gathering, where the effects arrived without warning:
 
@@ -48,14 +48,14 @@ experiences rivaling those of the classical psychedelics.
 
 *The Hasheesh Eater* is a remarkable literary document that defies simple
 categorization. Ludlow created a literary persona not unlike the poet John Shade
-in Nabokov's *Pale Fire* -- a character who allows readers to see deeper into
+in Nabokov"s *Pale Fire* -- a character who allows readers to see deeper into
 his predicament than he can see himself. McKenna described Ludlow as "part
 genius, part madman," lying "halfway between Captain Ahab and P. T. Barnum, a
 kind of Mark Twain on hashish." There is a wonderful charm to his
 free-spirited, pseudoscientific openness as he navigated "the shifting
 dunescapes of the world of hashish."
 
-Ludlow's prose reveals a mind grappling with fundamental questions about
+Ludlow"s prose reveals a mind grappling with fundamental questions about
 consciousness and the nature of reality. His approach was characteristically
 American in its blend of Yankee transcendentalism and empirical curiosity. He
 framed his explorations as scientific investigations into the powers of the
@@ -68,7 +68,7 @@ philosophical inquiry to ecstatic personal narrative.
 
 Ludlow did not emerge from a vacuum. The first exploratory journey into what
 McKenna called "the teeming cosmos of cannabis" appeared in American print as
-Bayard Taylor's account, published in *Atlantic Monthly* in 1854. Taylor's
+Bayard Taylor"s account, published in *Atlantic Monthly* in 1854. Taylor's
 descriptions make it clear that edible hashish had "all the impact of a
 shattering metaphysical revelation." His prose -- with visions of pyramids
 built of tobacco, mother-of-pearl barques on seas of golden sand, and rainbow

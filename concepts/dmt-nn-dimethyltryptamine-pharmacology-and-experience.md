@@ -9,7 +9,7 @@ aliases: [DMT Experience, N,N-Dimethyltryptamine, Spirit Molecule]
 ## DMT (N,N-Dimethyltryptamine) Pharmacology and Experience
 
 N,N-Dimethyltryptamine (DMT) is a potent psychedelic tryptamine found naturally
-in numerous plant species, animal tissues, and the human body. Terence McKenna's
+in numerous plant species, animal tissues, and the human body. Terence McKenna"s
 1983 Esalen lecture "[[schultes-ayahuasca-preparations]]
 - **[[anadenanthera-peregrina]]** (yopo) — seeds snuffed in South American rituals
 
@@ -49,7 +49,7 @@ also interacts with several other receptor systems:
 
 ## The DMT Experience: Phenomenology
 
-McKenna's account, delivered from personal experience beginning in 1965,
+McKenna"s account, delivered from personal experience beginning in 1965,
 describes a remarkably consistent experiential topology:
 
 ### Onset (0–30 seconds)
@@ -72,7 +72,7 @@ remains intact; fear reflexes remain active; there is no cognitive fuzz.
 McKenna describes encountering "self-transforming machine elves" —
 "hyperdimensional machine-elf entities" that bathe the experiencer in
 non-erotic but open-hearted love. These entities are "fractal reflections
-of some previously hidden and suddenly autonomous part of one's own psyche."
+of some previously hidden and suddenly autonomous part of one"s own psyche."
 They communicate in a translinguistic modality — sounds like music and
 language that "pass without any quantized moment of distinction" and convey
 "alien information that cannot be Englished."
@@ -80,9 +80,9 @@ language that "pass without any quantized moment of distinction" and convey
 ### Cognitive Dissonance
 
 McKenna describes the attempt to process translinguistic information as
-producing cognitive dissonance — "a 'wow' or 'flutter' that is building
+producing cognitive dissonance — "a "wow' or 'flutter' that is building
 off this object causes wonder, astonishment, and awe at the brink of
-terror." The entities advise: "Don't get a loop of wonder going that
+terror." The entities advise: "Don"t get a loop of wonder going that
 quenches your ability to understand. Try not to be so amazed."
 
 ## The Logos Hypothesis
@@ -100,9 +100,9 @@ ordinary consciousness.
 McKenna argues that a touch of terror validates the DMT experience:
 "This is real." If one is not terrified, one may be out of contact with
 the full dynamics. He distinguishes this from hedonistic drug use: the
-experience must "move one's heart" by dealing with issues of life and
+experience must "move one"s heart" by dealing with issues of life and
 death. He advocates an I/Thou relationship with the encountered entities:
-"You're long on talk, but what can you show me?"
+"You"re long on talk, but what can you show me?"
 
 ## See Also
 

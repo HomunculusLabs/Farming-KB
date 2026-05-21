@@ -41,7 +41,7 @@ of fresh mushrooms in enclosed spaces.
 The volatility and degradation of these compounds has caused numerous
 problems in the scientific literature:
 
-### Hofmann's Negative Results
+### Hofmann"s Negative Results
 
 Hofmann, working with material gathered by Wasson in a Mexican market,
 found no indoles in specimens of *[[guzman-panaeolina-foenisecii-psilocybin-controversy-conflicting-chemical-analyses]]* across

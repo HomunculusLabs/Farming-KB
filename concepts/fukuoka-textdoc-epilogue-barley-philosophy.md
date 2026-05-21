@@ -1,5 +1,5 @@
 ---
-title: Fukuoka's Epilogue and the Barley Philosophy
+title: Fukuoka"s Epilogue and the Barley Philosophy
 created: 2026-04-28
 tags:
   - fukuoka

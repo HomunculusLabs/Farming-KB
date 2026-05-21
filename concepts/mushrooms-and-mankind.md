@@ -22,7 +22,7 @@ sources:
 
 # Mushrooms and Mankind
 
-The theory that psychoactive mushrooms — particularly Amanita muscaria — have played a central role in the development of human religion, mythology, and cultural symbolism. James Arthur's "Mushrooms and Mankind" (2000s) is one of the most comprehensive popular works on this topic, spanning Egyptian, Christian, Hindu, Buddhist, Norse, Mithraic, and shamanic traditions.
+The theory that psychoactive mushrooms — particularly Amanita muscaria — have played a central role in the development of human religion, mythology, and cultural symbolism. James Arthur"s "Mushrooms and Mankind" (2000s) is one of the most comprehensive popular works on this topic, spanning Egyptian, Christian, Hindu, Buddhist, Norse, Mithraic, and shamanic traditions.
 
 Related: [[psychedelic-mushroom-history]], [[entheogen-culture]], [[mushroom-folklore-and-culture]]
 
@@ -36,7 +36,7 @@ Arthur argues that Amanita muscaria is encoded throughout world religions and my
 See [[christmas-mushroom-symbolism]] for full treatment.
 - Amanita muscaria grows in mycorrhizal association with pine/birch trees — the Christmas tree
 - The mushroom is red and white (Christmas colors), found under evergreen trees (gifts under the tree)
-- Siberian shamans dressed in red and white, entered homes through the roof opening (chimney), gathered mushrooms in sacks (Santa's bag)
+- Siberian shamans dressed in red and white, entered homes through the roof opening (chimney), gathered mushrooms in sacks (Santa"s bag)
 - Dried mushrooms strung on the hearth (Christmas stockings hung by the fireplace)
 - Reindeer eat the mushrooms (flying reindeer mythology)
 - Saint Nicholas was the patron saint of children in Siberia, supplanting indigenous shamans
@@ -45,7 +45,7 @@ See [[christmas-mushroom-symbolism]] for full treatment.
 See [[sacred-sacrament-mushroom-rites]] for full treatment.
 - "Take and eat, this is my body" (Greek: soma) — Arthur argues "soma" refers to the mushroom
 - Manna described in Exodus: small, round, appears after dew, breeds worms if kept — botanical description of a mushroom
-- John Allegro's linguistic analysis linked Soma, Manna, and the names Jesus/James/John to Amanita muscaria
+- John Allegro"s linguistic analysis linked Soma, Manna, and the names Jesus/James/John to Amanita muscaria
 - The Holy Grail's cup shape mirrors the upturned Amanita cap
 - The "Doctrine of Transubstantiation" (1100s CE) replaced the actual sacrament with bread wafers
 
@@ -54,7 +54,7 @@ See [[egyptian-mushroom-symbolism]] for full treatment.
 - Osiris mythology: death, rebirth, the cedar tree growing overnight, the Djed pillar
 - The Eye of Horus and Ankh as mushroom-derived symbols
 - "Celestial Food" described in the Book of the Dead — tchefau, the food on which the gods lived
-- Great Pyramid initiation: three-day death-and-rebirth rite using Amanita muscaria in the King's Chamber
+- Great Pyramid initiation: three-day death-and-rebirth rite using Amanita muscaria in the King"s Chamber
 - Temple pillars shaped like giant mushrooms; hieroglyphs depicting red and blue mushrooms
 - Secrecy injunctions in the Book of the Dead: "Let not the multitude know of it"
 - Khemitian cosmology: 65,000-year cycle, matriarchal-to-patriarchal shift, current "Amon" (hidden) state
@@ -82,7 +82,7 @@ See [[soma-hypothesis]] for the academic debate.
 - The Phoenix: egg (button) to snake-like shaft (stem) to feathered cap to dissolution (spores)
 
 ### Norse/Germanic Mythology
-- Thor's mushroom-shaped hammer, thrown to earth in thunder, causes mushrooms to appear
+- Thor"s mushroom-shaped hammer, thrown to earth in thunder, causes mushrooms to appear
 - Odin's chariot (Big Dipper) circling the North Star = Santa's sleigh
 - Odin's horses' blood-mingled spit causes Amanita to grow where it falls
 
@@ -94,7 +94,7 @@ See [[soma-hypothesis]] for the academic debate.
 
 ## The Multi-Plant Soma Theory
 
-Arthur's unique contribution: a 12th-century painting of "Jesus as Lord of Magical Plants" depicts five plants that may constitute the true Soma brew:
+Arthur"s unique contribution: a 12th-century painting of "Jesus as Lord of Magical Plants" depicts five plants that may constitute the true Soma brew:
 1. Amanita muscaria (red) — quickening of spirit
 2. Psilocybe species (blue) — opens third eye
 3. Syrian Rue / Peganum harmala (MAO inhibitor — telepathine)
@@ -118,7 +118,7 @@ Arthur catalogs 40+ names and symbols for the mushroom across cultures. See [[my
 
 ## Shamanism as the Root
 
-Arthur's philosophical framework positions shamanism as the original and most authentic spiritual practice:
+Arthur"s philosophical framework positions shamanism as the original and most authentic spiritual practice:
 - The death-and-rebirth experience through plant entheogens is the core of shamanic practice
 - Every organized religion descends from shamanic roots but has obscured or denied the entheogenic origin
 - The hero's journey toward immortality is fundamentally a shamanic quest
@@ -127,7 +127,7 @@ Arthur's philosophical framework positions shamanism as the original and most au
 
 ## Critical Assessment
 
-Arthur's work is enthusiastic and wide-ranging but highly speculative. The linguistic claims rely heavily on Allegro's contested philology. However, the visual and symbolic parallels he documents are genuinely striking. The core observation — that psychoactive plants have been central to religious experience across cultures — is well-supported by mainstream ethnobotany and anthropology. The multi-plant Soma theory is a genuinely original contribution that deserves further investigation. See [[r-gordon-wasson]] for the academic foundation, [[terence-mckenna]] for the "Stoned Ape" theory, and [[andy-letcher]] for critical perspectives on ethnomycological claims.
+Arthur"s work is enthusiastic and wide-ranging but highly speculative. The linguistic claims rely heavily on Allegro's contested philology. However, the visual and symbolic parallels he documents are genuinely striking. The core observation — that psychoactive plants have been central to religious experience across cultures — is well-supported by mainstream ethnobotany and anthropology. The multi-plant Soma theory is a genuinely original contribution that deserves further investigation. See [[r-gordon-wasson]] for the academic foundation, [[terence-mckenna]] for the "Stoned Ape" theory, and [[andy-letcher]] for critical perspectives on ethnomycological claims.
 
 ## See Also
 

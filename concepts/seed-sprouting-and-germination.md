@@ -42,7 +42,7 @@ A sprouting seedling needs significantly more oxygen than it did in dormancy. Th
 
 The seed must be moistened to trigger germination, but once the root begins descending, additional surface moisture is not only unnecessary but potentially harmful. Excess water displaces oxygen and lowers soil temperature — both lethal to emerging seedlings.
 
-## Why Seeds "Don't Come Up"
+## Why Seeds "Don"t Come Up"
 
 When seeds fail to emerge, the cause is almost always one of these conditions:
 
@@ -54,7 +54,7 @@ When seeds fail to emerge, the cause is almost always one of these conditions:
 6. **Hard seed coat**: Some species have seed coats that resist moisture penetration, requiring scarification or soaking
 7. **Seed planted too deep**: The shoot exhausts its energy reserves before reaching the surface
 
-## The Shoot's Mechanical Limitations
+## The Shoot"s Mechanical Limitations
 
 Rarely is the emerging shoot capable of exerting much mechanical force. It does have considerable ability to wiggle its way between larger soil particles, but it cannot push aside a heavy lump of soil, much less break through a crust. This is why [[soil-tilth-and-seedbed-preparation]] is so critical — the shoot needs a fine, crumbly, friable surface layer to emerge successfully.
 
@@ -67,7 +67,7 @@ Rarely is the emerging shoot capable of exerting much mechanical force. It does 
 
 ### How Crusts Form
 
-Crust formation and puddling are two related soil phenomena that prevent shoots from reaching light. When a gardener waters after planting, or when rain hits bare soil, the impact of water droplets acts exactly like a cement finisher's trowel on concrete:
+Crust formation and puddling are two related soil phenomena that prevent shoots from reaching light. When a gardener waters after planting, or when rain hits bare soil, the impact of water droplets acts exactly like a cement finisher"s trowel on concrete:
 
 1. Soil particles — sand, silt, and clay — are blended together much like the gravel, sand, and cement in concrete
 2. The impact of droplets separates the clay and silt from the sand
@@ -102,7 +102,7 @@ The bow rake is the essential tool for creating seedbeds. After applying the 1/4
 
 ### The Zen of Raking
 
-There is a meditative quality to good raking, similar to what athletes call "being in the zone." The rake head's weight on the bed must be controlled so the teeth comb out lumps without gouging. Key factors:
+There is a meditative quality to good raking, similar to what athletes call "being in the zone." The rake head"s weight on the bed must be controlled so the teeth comb out lumps without gouging. Key factors:
 
 - **Long, slender handle**: Reduces arm fatigue
 - **Head width**: At least 12 inches (30 cm) wide; over 16 inches (40 cm) becomes hard to control

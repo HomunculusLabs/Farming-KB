@@ -17,10 +17,10 @@ Magic mushrooms played a vital supporting role in the psychedelic revolution of 
 ## The 1960s Psychedelic Revolution
 
 When psychedelia went mainstream during the mid-1960s, magic mushrooms were swept up in the movement. Key cultural moments included:
-- **[[timothy-leary]]** first tried mushrooms in August 1960 in Cuernavaca, Mexico, after reading Wasson's LIFE article through his colleague Frank Barron. Within five years he had become the "Acid guru" -- though his journey began with [[psilocybin-mushrooms]].
+- **[[timothy-leary]]** first tried mushrooms in August 1960 in Cuernavaca, Mexico, after reading Wasson"s LIFE article through his colleague Frank Barron. Within five years he had become the "Acid guru" -- though his journey began with [[psilocybin-mushrooms]].
 - **San Francisco and Haight-Ashbury**: The epicenter of 1960s counterculture with its love-ins, be-ins, and the Grateful Dead.
-- **British scene**: London's "happenings," the "Fourteen Hour Technicolor Dream," clubs like UFO and Middle Earth, underground papers Oz and International Times.
-- **Mexico's La Onda**: An urban counterculture modeled upon the American hippie movement, with many hippies traveling to Huautla.
+- **British scene**: London"s "happenings," the "Fourteen Hour Technicolor Dream," clubs like UFO and Middle Earth, underground papers Oz and International Times.
+- **Mexico"s La Onda**: An urban counterculture modeled upon the American hippie movement, with many hippies traveling to Huautla.
 
 The music was unmistakably psychedelic: Jimi Hendrix asked "Are you experienced?" (meaning "Have you dropped Acid?"); Grace Slick sang about mushrooms and Wonderland in "White Rabbit"; John Lennon shattered the anodyne pop of The Beatles by imploring us to "turn off our minds, relax and float downstream."
 
@@ -38,11 +38,11 @@ The government responded with increasing force. Local opposition succeeded in pr
 
 ## The Rediscovery in Britain
 
-The rediscovery of [[psilocybe-semilanceata-profile]] as a psychoactive species in Britain went hand in hand with a supposed history placing its use in a countercultural tradition stretching back to the dawn of time. A bemushroomed festival-goer watching the sun's rays past the lintels of Stonehenge was a powerful image -- but one that was, as Letcher argues, "a recent invention concocted by" enthusiasts and embroidered through endless retelling.
+The rediscovery of [[psilocybe-semilanceata-profile]] as a psychoactive species in Britain went hand in hand with a supposed history placing its use in a countercultural tradition stretching back to the dawn of time. A bemushroomed festival-goer watching the sun"s rays past the lintels of Stonehenge was a powerful image -- but one that was, as Letcher argues, "a recent invention concocted by" enthusiasts and embroidered through endless retelling.
 
 ## Legacy
 
-The mushroom's association with music and counterculture persists. The concept of the "mushroom as key to fairyland" remains embedded in underground culture. Delerium Records' compilation of psychedelic music "Fungus" (1993) and the Magic Mushroom Band's subversively sleeved album "Bomshankar" (1987) testify to the enduring connection between mushrooms and musical expression.
+The mushroom"s association with music and counterculture persists. The concept of the "mushroom as key to fairyland" remains embedded in underground culture. Delerium Records" compilation of psychedelic music "Fungus" (1993) and the Magic Mushroom Band"s subversively sleeved album "Bomshankar" (1987) testify to the enduring connection between mushrooms and musical expression.
 
 ## Related Concepts
 

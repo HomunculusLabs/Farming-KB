@@ -12,7 +12,7 @@ type: concept
 
 ## Overview
 
-[[fukuoka-critique-modern-agriculture]]'s reliance on petroleum-based
+[[fukuoka-critique-modern-agriculture]]"s reliance on petroleum-based
 energy has fundamentally degraded the quality of food. What began as farming
 under the open skies has been reduced to the manufacture of petroleum-derived
 foods, with the farmer becoming a seller of false goods called "nutritional
@@ -23,7 +23,7 @@ the pressures of society and become a subcontractor to the oil industry.
 
 Since the farmer yielded to social pressures, control over his livelihood has
 passed into the hands of industrialists and businessmen. Today, the merchant
-has the last say over the farmer's right to loss or gain, life or death. The
+has the last say over the farmer"s right to loss or gain, life or death. The
 destruction of agriculture is visible in the transition from open cultivation
 of vegetables to hothouse horticulture.
 

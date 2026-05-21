@@ -29,7 +29,7 @@ Christopher Alexander (1936–2022) was an Austrian-British architect and design
 
 ## A Pattern Language
 
-Alexander's magnum opus presents a hierarchical network of 253 interconnected patterns spanning scales from regional planning down to individual room layout. Each pattern follows a consistent format:
+Alexander"s magnum opus presents a hierarchical network of 253 interconnected patterns spanning scales from regional planning down to individual room layout. Each pattern follows a consistent format:
 
 - **Context**: Where the pattern applies
 - **Problem**: The recurring issue to be solved
@@ -42,7 +42,7 @@ This structure enables designers to work at any scale while maintaining coherenc
 
 Christopher Alexander's influence on permaculture is foundational. Bill Mollison cites *A Pattern Language* in the references of *Permaculture: A Designer's Manual* as providing "instances [of] successful design strategies for towns, buildings." The connection runs deeper than citation:
 
-1. **Pattern-based design**: Mollison's entire approach to permaculture — observing natural patterns and applying them to landscape design — mirrors Alexander's pattern-based approach to architecture
+1. **Pattern-based design**: Mollison"s entire approach to permaculture — observing natural patterns and applying them to landscape design — mirrors Alexander's pattern-based approach to architecture
 2. **Scalable solutions**: Both systems work across scales, from garden bed to bioregion, using interconnected pattern networks
 3. **Empirical basis**: Alexander's patterns are derived from observation of what works, not theoretical ideals — matching Mollison's pragmatic approach
 4. **Designer's checklist**: Mollison's designer's checklist concept parallels Alexander's pattern language as a practical toolkit for design decision-making

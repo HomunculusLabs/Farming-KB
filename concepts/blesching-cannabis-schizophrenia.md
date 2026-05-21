@@ -24,7 +24,7 @@ early adulthood and can be profoundly debilitating.
 
 The relationship between cannabis and schizophrenia has been the subject of
 considerable scientific debate. Observational studies have concluded that
-consuming cannabis as an adolescent may increase one's risk of developing
+consuming cannabis as an adolescent may increase one"s risk of developing
 schizophrenia later in life. However, cannabis is not itself considered a
 causal factor for schizophrenia; in some instances it may be a co-factor.
 

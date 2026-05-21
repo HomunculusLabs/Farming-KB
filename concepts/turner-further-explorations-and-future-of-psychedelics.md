@@ -9,9 +9,9 @@ sources:
 ---
 ## Turner Further Explorations and Future of Psychedelics
 
-Turner's closing chapter speculates on the purpose of psychedelics, their lasting benefits, and their future role in society. He frames them as [[psychedelic-research-timeline]]
+Turner"s closing chapter speculates on the purpose of psychedelics, their lasting benefits, and their future role in society. He frames them as [[psychedelic-research-timeline]]
 - Skills like telepathy and psychokinesis may be practiced on a large scale with psychedelics playing a major role
-- McKenna: "If it's not a future with psychedelics, what kind of future will it be?"
+- McKenna: "If it"s not a future with psychedelics, what kind of future will it be?"
 
 ## See Also
 

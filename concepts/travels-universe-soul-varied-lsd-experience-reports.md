@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-[[albert-hofmann]] collected first-person accounts of LSD experiences to demonstrate the extraordinary range of the drug's effects. Under the title "Travels in the Universe of the Soul" (borrowed from Islamic scholar Dr. Rudolf Gelpke), Hofmann presents experiences ranging from terror and horror to cosmic enlightenment. This concept page examines the diversity of LSD experiences and their implications for understanding the drug's nature.
+[[albert-hofmann]] collected first-person accounts of LSD experiences to demonstrate the extraordinary range of the drug"s effects. Under the title "Travels in the Universe of the Soul" (borrowed from Islamic scholar Dr. Rudolf Gelpke), Hofmann presents experiences ranging from terror and horror to cosmic enlightenment. This concept page examines the diversity of LSD experiences and their implications for understanding the drug"s nature.
 
 ## The Space Flight Analogy
 
@@ -26,9 +26,9 @@ The reports were selected to demonstrate the variety of LSD experiences and the 
 
 ## The Horror Experience
 
-### A Couple's Terror
+### A Couple"s Terror
 
-One account describes a couple's experience that began with ominous portents. A staircase "appeared to flame up from step to step." The woman "quivered all at once, frightened." The narrator felt "horror pass through my limbs" and knew "now it's going to turn out badly."
+One account describes a couple's experience that began with ominous portents. A staircase "appeared to flame up from step to step." The woman "quivered all at once, frightened." The narrator felt "horror pass through my limbs" and knew "now it"s going to turn out badly."
 
 In their room, the woman "threw herself on the bed and looked at me with wide eyes. It was not in the least possible to think of love." They "sank into a deep, indescribable horror, which neither of us understood." The experience included paranoia about public discovery: "What would they have said if they could see us now? Possibly they would summon the police, and then everything would become still much worse. A drug scandal—intolerable agonizing thoughts."
 
@@ -65,7 +65,7 @@ The attempt to communicate the experience—"I must have been babbling like an i
 The juxtaposition of the horror experience and the enlightenment experience demonstrates that LSD does not produce a single type of experience but a spectrum ranging from hellish terror to cosmic bliss. The determining factors include:
 
 - **Dose**: Higher doses tend toward more extreme experiences in both directions
-- **Set**: The user's expectations, personality, and current psychological state
+- **Set**: The user"s expectations, personality, and current psychological state
 - **Setting**: The physical and social environment
 - **Intention**: Whether the user approaches the experience with curiosity, therapeutic intent, or spiritual seeking
 

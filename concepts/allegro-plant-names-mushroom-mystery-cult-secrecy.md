@@ -28,7 +28,7 @@ This linguistic durability provides modern researchers with a tool unavailable t
 
 However, this continuity is deceptive in some cases. Over the course of millennia, names originally designating one plant could migrate to entirely different species.
 
-The result is widespread confusion in the botanical record, where a name's original referent has been lost and replaced by a later, often unrelated plant.
+The result is widespread confusion in the botanical record, where a name"s original referent has been lost and replaced by a later, often unrelated plant.
 
 Yet Allegro contended that the original meaning remains recoverable through philological analysis of the Sumerian word-elements, even when the name has been transferred to a new botanical host.
 
@@ -38,19 +38,19 @@ The paeony provides a compelling example. The Sumerian name *BAR_IA_U_NA can be 
 
 Allegro identified numerous biblical narratives as disguised mushroom mythology, their original botanical significance obscured by centuries of transmission and translation.
 
-Among the most striking examples is Jotham's parable in Judges 9:7–15, in which the trees of the forest seek a king. After the olive, fig, and vine each decline the honor, the diminutive bramble — which Allegro reads as mushroom — accepts the crown and declares that all must take refuge under its canopy.
+Among the most striking examples is Jotham"s parable in Judges 9:7–15, in which the trees of the forest seek a king. After the olive, fig, and vine each decline the honor, the diminutive bramble — which Allegro reads as mushroom — accepts the crown and declares that all must take refuge under its canopy.
 
 This inversion, where the smallest and most inconspicuous plant becomes king and protector, reflects the mushroom's paradoxical status in ancient cult practice: physically diminutive yet pharmacologically supreme.
 
 The book of Jonah offers another case. The prophet is sheltered by a plant that "came into being in a night and perished in a night," a description that perfectly matches the rapid growth cycle of certain fungi.
 
-The presence of worms, the plant's sudden appearance and disappearance, and even Jonah's own name — which Allegro connects to [[allegro-dead-sea-scrolls]], which Allegro interprets as products of just such a secret tradition.
+The presence of worms, the plant"s sudden appearance and disappearance, and even Jonah's own name — which Allegro connects to [[allegro-dead-sea-scrolls]], which Allegro interprets as products of just such a secret tradition.
 
 Alternatively, sacred knowledge could be embedded within seemingly innocuous documents — scriptural narratives, hymns, and legal texts whose surface meaning concealed a deeper, pharmacological message accessible only to those who possessed the interpretive key.
 
-This strategy of concealment within plain sight reached its fullest expression, Allegro argues, in the New Testament itself. "Plant mythology, known for thousands of years... provided the New Testament cryptographers with their 'cover.'"
+This strategy of concealment within plain sight reached its fullest expression, Allegro argues, in the New Testament itself. "Plant mythology, known for thousands of years... provided the New Testament cryptographers with their "cover.'"
 
-The gospel writers, inheritors of a mushroom-based mystery tradition, encoded their secret pharmacological theology within narratives of Jesus's life and ministry, using the ancient vegetation myths as a literary framework that would be recognized by initiates but remain opaque to outsiders.
+The gospel writers, inheritors of a mushroom-based mystery tradition, encoded their secret pharmacological theology within narratives of Jesus"s life and ministry, using the ancient vegetation myths as a literary framework that would be recognized by initiates but remain opaque to outsiders.
 
 "Thus was born the Gospel myth of the New Testament" — a text that functioned simultaneously as devotional scripture for the general faithful and as coded manual for those who understood its mycological referents.
 

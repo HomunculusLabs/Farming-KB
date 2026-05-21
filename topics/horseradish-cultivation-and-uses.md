@@ -11,7 +11,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "Mazurek, B. & Pączkowski, C. (2021). 'Glucosinolates in Armoracia rusticana — chemistry, biosynthesis, and bioactivity.' Phytochemistry Reviews, 20, 415–434."
+  - "Mazurek, B. & Pączkowski, C. (2021). "Glucosinolates in Armoracia rusticana — chemistry, biosynthesis, and bioactivity.' Phytochemistry Reviews, 20, 415–434."
 ---
 
 ## Horseradish Cultivation and Uses
@@ -20,7 +20,7 @@ sources:
 
 Horseradish (*Armoracia rusticana*, syn. *Cochlearia armoracia*) is a hardy perennial root vegetable in the Brassicaceae family, prized for its thick, fleshy taproot that produces a pungent, sinus-clearing condiment when grated. Native to southeastern Europe and western Asia, horseradish has been cultivated for over 3,000 years and remains one of the most cold-tolerant and low-maintenance perennial crops available to home gardeners and homesteaders.
 
-The plant's distinctive heat comes from allyl isothiocyanate, a [[query-how-to-grow-chili-peppers-from-seed-to-harvest]], this compound is water-soluble and dissipates relatively quickly, meaning horseradish heat is sharp and fleeting rather than lingering and building.
+The plant"s distinctive heat comes from allyl isothiocyanate, a [[query-how-to-grow-chili-peppers-from-seed-to-harvest]], this compound is water-soluble and dissipates relatively quickly, meaning horseradish heat is sharp and fleeting rather than lingering and building.
 
 ## Historical Background
 

@@ -6,7 +6,7 @@ type: concept
 
 ## Root Development and Plant Competition
 
-Understanding root systems is arguably the single most important thing a gardener can learn about growing plants. The growth you can't see underground is as important as what you can see above. Every planting decision — spacing, fertilizing, watering, weeding — is really about managing the invisible root zone.
+Understanding root systems is arguably the single most important thing a gardener can learn about growing plants. The growth you can"t see underground is as important as what you can see above. Every planting decision — spacing, fertilizing, watering, weeding — is really about managing the invisible root zone.
 
 ## The Root Drawings
 

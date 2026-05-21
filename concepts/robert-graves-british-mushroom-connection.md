@@ -21,7 +21,7 @@ in alerting gordon-wasson to the existence of [[emcdda-hallucinogenic-mushrooms-
 had been used in ancient European cultures. His influence extended to
 the British psychedelic underground through his widely read books.
 
-## Graves's Literary Position
+## Graves"s Literary Position
 
 Primarily a poet, Graves was also a prolific writer of essays and
 historical novels, the most famous being I, Claudius (1934). Educated
@@ -54,7 +54,7 @@ public as an accurate account of ancient Druidic religion. It became
 one of the foundational texts of the revived Pagan religions of the
 [[maria-sabina]], who
 became for him the embodiment of the Muse. "Each song was followed by
-a pause," he wrote. "Always I waited in a lover's agony for her to
+a pause," he wrote. "Always I waited in a lover"s agony for her to
 begin again, burning at my eyelids." He watched as her words flowed
 out as an intricate, golden-linked chain, culminating in a quick,
 breathless, cheerful song of creation and growth.

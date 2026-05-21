@@ -13,7 +13,6 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Sedigheh, A., et al. (2011). "Melissa officinalis in the Treatment of Dementia." CNS Drugs, 25(8), 691-701.---
----
 
 ## Overview
 

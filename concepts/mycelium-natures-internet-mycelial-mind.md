@@ -5,7 +5,7 @@ tags: [mycology, mycelium, fungal-ecology, mycorestoration, network-biology]
 created: 2026-05-09
 ---
 
-## Mycelium as Nature's Internet — The Mycelial Mind
+## Mycelium as Nature"s Internet — The Mycelial Mind
 
 ## The Mycelial Network
 

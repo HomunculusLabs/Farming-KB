@@ -10,7 +10,7 @@ tags: [psilocybin]
 
 ## Psilocybin and Neuroplasticity
 
-Powell's informational framework for understanding consciousness provides a powerful lens through which to understand the neuroplastic effects of psilocybin. While modern neuroscience has only recently begun to investigate the structural changes that psychedelics induce in the brain, Powell's work lays out the theoretical groundwork for understanding how psilocybin can fundamentally reorganise the brain's informational architecture.
+Powell"s informational framework for understanding consciousness provides a powerful lens through which to understand the neuroplastic effects of psilocybin. While modern neuroscience has only recently begun to investigate the structural changes that psychedelics induce in the brain, Powell's work lays out the theoretical groundwork for understanding how psilocybin can fundamentally reorganise the brain's informational architecture.
 
 ## The Brain as an Informational System
 
@@ -22,7 +22,7 @@ At any one moment, the entire neuronal network can be in an essentially infinite
 
 Learning, and by definition information access, is mediated through changes in neuronal connections. It is the overall network of connections which reflects the global form or "shape" of the neuronal system. The dictionary definition of information helps us here, for it tells us that information comes from the Latin word informare, which means "to give form to." When information informs us, it alters the form, or pattern, of the informational system that is our mind.
 
-The mind is therefore an information-based system constantly re-forming itself (changing its pattern) through the accessing of information deriving from other kinds of information-based media, just as if it were clay being shaped by its environment. If we imagine the brain's neuronal wiring system to be like clay, then as patterns of information impinge upon this clay, the patterns come to alter the form or shape of the clay, and thus there has been a flow of information.
+The mind is therefore an information-based system constantly re-forming itself (changing its pattern) through the accessing of information deriving from other kinds of information-based media, just as if it were clay being shaped by its environment. If we imagine the brain"s neuronal wiring system to be like clay, then as patterns of information impinge upon this clay, the patterns come to alter the form or shape of the clay, and thus there has been a flow of information.
 
 ## Psilocybin and the Reorganisation of Neural Patterns
 

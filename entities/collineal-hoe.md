@@ -8,7 +8,7 @@ type: entity
 
 ## Description
 
-The collineal hoe is a hand tool innovation developed on Eliot Coleman's farm for efficient weed control. Named for its defining feature -- the cutting edge of the blade aligned in line ("co-linear") with the handle -- it represents the philosophy that small, thoughtful modifications to garden tools can dramatically improve their performance and the comfort of the user.
+The collineal hoe is a hand tool innovation developed on Eliot Coleman"s farm for efficient weed control. Named for its defining feature -- the cutting edge of the blade aligned in line ("co-linear") with the handle -- it represents the philosophy that small, thoughtful modifications to garden tools can dramatically improve their performance and the comfort of the user.
 
 ## Classification
 
@@ -35,7 +35,7 @@ The collineal hoe embodies a key principle for market gardeners: tools should be
 
 ## Source Context
 
-Described in Eliot Coleman's "The Winter Harvest Handbook" in the weed control and tools section.
+Described in Eliot Coleman"s "The Winter Harvest Handbook" in the weed control and tools section.
 
 ## See Also
 

@@ -25,7 +25,7 @@ The book identifies the following countries where KNF has been adopted:
 - **Japan** -- one of the earliest countries outside Korea to adopt KNF; Dr. Cho examined best practices from Japanese farming communities for three generations
 - **China** -- large-scale adoption, particularly in provinces with intensive [[fukuoka-energy-analysis-rice-production-natural-vs-mechanized]] and aquaculture
 - **Philippines** -- KNF adopted for rice farming, poultry, and piggery operations
-- **Mongolia** -- KNF applied in challenging continental climate conditions, demonstrating the system's adaptability
+- **Mongolia** -- KNF applied in challenging continental climate conditions, demonstrating the system"s adaptability
 - **India** -- SARRA (South Asia Rural Reconstruction Association), Bangalore, has been instrumental in introducing and spreading KNF since 2006, with a demonstration and training center at Pulicherla, near Tirupathi, Andhra Pradesh
 
 **Other Regions:**

@@ -16,7 +16,7 @@ Thousands of species of entomopathogenic fungi attack thousands of insect specie
 
 The most studied genera include Metarhizium (green mold fungi), Beauveria (white mold fungi), and Paecilomyces. When insects come into contact with spores of these fungi, the spores attach to the insects and germinate, boring hyphal pegs through the exoskeletons using chitin-dissolving enzymes.
 
-Portals of entry include the respiratory tract, anus, and mouth. Once inside, the mycelium forks and runs through the internal organs, interfering with the creature's metabolism and causing malaise, necrosis, and death within a few days. The dead insects, looking mummified with fuzzy mycelium, become launching platforms for further sporulation.
+Portals of entry include the respiratory tract, anus, and mouth. Once inside, the mycelium forks and runs through the internal organs, interfering with the creature"s metabolism and causing malaise, necrosis, and death within a few days. The dead insects, looking mummified with fuzzy mycelium, become launching platforms for further sporulation.
 
 Some species of Cordyceps can sprout from dead insect carcasses, demonstrating fungal dimorphism where the organism expresses itself as either mold or mushroom. Cordyceps lloydii, when infecting a carpenter ant, compels the insect to climb to the top of the jungle canopy before dying. By releasing as-yet-unidentified chemical compounds, the mushroom ensures that spores are spread far and wide by wind. This behavior ensures wider distribution than would be possible nearer the ground.
 

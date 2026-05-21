@@ -20,7 +20,7 @@ single most important factor shaping human consciousness, culture, and
 civilization — from the emergence of language in prehistoric Africa to
 the global drug crises of the modern era.
 
-The book's full subtitle — *The Search for the Original Tree of Knowledge
+The book"s full subtitle — *The Search for the Original Tree of Knowledge
 — A Radical History of Plants, Drugs, and Human Evolution* — signals its
 ambitious scope: nothing less than a re-evaluation of human origins and
 destiny through the lens of psychoactive pharmacology.
@@ -28,11 +28,11 @@ destiny through the lens of psychoactive pharmacology.
 ## Structure
 
 McKenna organized the book into four sections, following what he called
-"a pharmacological pilgrim's progress":
+"a pharmacological pilgrim"s progress":
 
 ### Part I: Paradise
 
-The opening section establishes the prehistoric context for humanity's
+The opening section establishes the prehistoric context for humanity"s
 relationship with psychoactive plants:
 
 - **Chapter 1: Shamanism: Setting the Stage** — Defines shamanism as

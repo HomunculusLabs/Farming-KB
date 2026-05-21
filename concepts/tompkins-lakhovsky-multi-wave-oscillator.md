@@ -1,5 +1,5 @@
 ---
-title: Lakhovsky's Multi-Wave Oscillator and Cellular Oscillation Theory
+title: Lakhovsky"s Multi-Wave Oscillator and Cellular Oscillation Theory
 created: 2026-04-26
 tags: [biophysics, alternative-medicine, electromagnetism, history]
 date: 2026-04-25
@@ -29,7 +29,7 @@ forth, it creates a magnetic field oscillating at a certain frequency.
 Lakhovsky believed that in the microscopically tiny nuclei of living
 cells, the small twisted filaments function as analogs to electrical
 circuits. When greatly reduced in size, very high frequencies are
-obtained. In the L'Origine de la Vie (1925), Lakhovsky set forth his
+obtained. In the L"Origine de la Vie (1925), Lakhovsky set forth his
 theory that disease is a matter of disequilibrium in cellular
 oscillation -- that the fight between healthy cells and pathogens is
 a "war of radiations."

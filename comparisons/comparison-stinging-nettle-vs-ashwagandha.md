@@ -3,7 +3,7 @@ title: "Stinging Nettle vs Ashwagandha"
 tags: [comparison, stinging-nettle, ashwagandha, medicinal-herbs, adaptogens]
 date: 2026-05-15
 updated: 2026-05-15
-sources: ['raw/papers/working-with-agar.md']
+sources: ["raw/papers/working-with-agar.md']
 ---
 
 ## Stinging Nettle vs Ashwagandha

@@ -19,7 +19,7 @@ created: 2026-05-07
 
 It is a specific phenotype of the broader Gelato genetic line, selected for its exceptional bag appeal, potency, and complex flavor profile.
 
-The strain won first place at the 2016 Emerald Cup in the "People's Choice" category and has become one of the most influential modern cannabis cultivars.
+The strain won first place at the 2016 Emerald Cup in the "People"s Choice" category and has become one of the most influential modern cannabis cultivars.
 
 Gelato 33 is widely regarded as the most commercially successful and widely distributed of the Gelato phenotypes.
 

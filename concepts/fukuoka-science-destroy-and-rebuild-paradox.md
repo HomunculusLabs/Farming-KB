@@ -25,7 +25,7 @@ to figure out how to restore the mountain to its original state."
 
 ## The Mouse-Weasel-Rodenticide Cycle
 
-Fukuoka's [[fukuoka-textdoc-trajectory-hothouse-agriculture-to-total-food-synthesis]] represents a conceptual error 
+Fukuoka"s [[fukuoka-textdoc-trajectory-hothouse-agriculture-to-total-food-synthesis]] represents a conceptual error 
 of the first magnitude. Soil is not merely physical support for plants; it is a 
 living community of microorganisms, fungi, invertebrates, and organic matter 
 whose interactions produce fertility.

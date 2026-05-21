@@ -23,7 +23,7 @@ entire garden, Solomon recommends concentrating it on the areas that
 will grow medium-demand crops and attempting low-demand vegetables on the
 unamended soil. A somewhat better approach is to rotate: grow low-demand
 vegetables on ground that received manure the previous year, since some
-fertility will still be present in the soil from the prior season's
+fertility will still be present in the soil from the prior season"s
 application.
 
 ## Step Three: Full Manure, Compost, and Lime

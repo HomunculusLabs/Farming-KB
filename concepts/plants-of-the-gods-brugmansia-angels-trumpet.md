@@ -1,5 +1,5 @@
 ---
-title: Brugmansia Angel's Trumpet in Plants of the Gods
+title: Brugmansia Angel"s Trumpet in Plants of the Gods
 created: 2026-04-28
 tags: [ethnobotany, brugmansia, tropane-alkaloids, andes, solanaceae]
 date: 2026-04-28

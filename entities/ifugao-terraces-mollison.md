@@ -6,7 +6,7 @@ type: entity
 
 ## Description
 
-The [[ifugao-people]] of the Philippines are an Indigenous group renowned for creating and maintaining one of the oldest continuously operated agricultural terrace systems in the world. Their wet rice terraces in the mountains of northern Luzon have been in continuous use for at least 3,000 years, representing one of humanity's most remarkable examples of sustainable land-water integration. [[harold-conklin]]'s ethnographic research (published in Scientific American, February 1982) estimates that 1,000 years of collective labor created these terrace systems. The Ifugao demonstrate that complex hydraulic civilizations can arise from community self-organization rather than centralized state control.
+The [[ifugao-people]] of the Philippines are an Indigenous group renowned for creating and maintaining one of the oldest continuously operated agricultural terrace systems in the world. Their wet rice terraces in the mountains of northern Luzon have been in continuous use for at least 3,000 years, representing one of humanity"s most remarkable examples of sustainable land-water integration. [[harold-conklin]]'s ethnographic research (published in Scientific American, February 1982) estimates that 1,000 years of collective labor created these terrace systems. The Ifugao demonstrate that complex hydraulic civilizations can arise from community self-organization rather than centralized state control.
 
 ## Classification
 

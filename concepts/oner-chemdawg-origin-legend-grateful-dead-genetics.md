@@ -19,7 +19,7 @@ The most widely circulated version of the Chemdawg origin story goes as follows:
 3. **The Exchange**: They exchanged phone numbers, and Chemdog later purchased two more ounces from Joe
 4. **The Discovery**: When those two ounces arrived on the East Coast, one ounce was seedless but the other contained 13 seeds — described as "the cannabis equivalent of magical beans"
 5. **The Popping**: In 1991, Chemdog germinated those 13 seeds, and they gave rise to the entire Chemdawg family
-6. **The Mystery**: The exact genetics of Joe's cannabis remain unknown. Speculation ranges from unknown indica to Nepalese and Thai parentage
+6. **The Mystery**: The exact genetics of Joe"s cannabis remain unknown. Speculation ranges from unknown indica to Nepalese and Thai parentage
 
 ## The Chemdawg Family Tree
 

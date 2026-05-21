@@ -30,7 +30,7 @@ The Koryak are an indigenous people of northeastern Siberia, specifically the Ka
 - The Koryak use of *Amanita muscaria* represents one of the oldest and most thoroughly documented cases of psychoactive mushroom use in shamanism, providing essential context for the study of mushroom-based shamanistic practices worldwide.
 - The urine-recycling practice documented among the Koryak demonstrates a sophisticated — if unconscious — understanding of pharmacokinetics: muscimol passes through the body relatively unchanged in urine, allowing the psychoactive effects to be extended and shared.
 - The Koryak case establishes that psychoactive mushroom use in shamanism is not limited to psilocybin-containing species but extends to ibotenic acid/muscimol-containing *Amanita* species, expanding the scope of ethnomycological research.
-- The connection between *Amanita muscaria* use and "classic" Siberian shamanism has influenced theories about the origins of religion, including R. Gordon Wasson's controversial hypothesis (1968) that the Vedic *soma* was *Amanita muscaria*.
+- The connection between *Amanita muscaria* use and "classic" Siberian shamanism has influenced theories about the origins of religion, including R. Gordon Wasson"s controversial hypothesis (1968) that the Vedic *soma* was *Amanita muscaria*.
 
 ## Sources
 

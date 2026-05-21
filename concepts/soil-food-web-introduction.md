@@ -22,7 +22,7 @@ The soil food web is critical because it:
 
 ## The Chemical Warfare Problem
 
-When toxic chemicals are applied to soil, they don't just kill the target pest—they kill thousands of beneficial organisms simultaneously. The analogy used by Dr. [[elaine-ingham]] is powerful: imagine turning your neighborhood into a chemical war zone. Who comes back first? Opportunistic marauders and looters—the "bad guys." The beneficial organisms, which require stable conditions, take much longer to recover. With repeated applications, the soil's "National Guard" is entirely eliminated, and the bad guys dominate.
+When toxic chemicals are applied to soil, they don"t just kill the target pest—they kill thousands of beneficial organisms simultaneously. The analogy used by Dr. [[elaine-ingham]] is powerful: imagine turning your neighborhood into a chemical war zone. Who comes back first? Opportunistic marauders and looters—the "bad guys." The beneficial organisms, which require stable conditions, take much longer to recover. With repeated applications, the soil"s "National Guard" is entirely eliminated, and the bad guys dominate.
 
 This creates a vicious cycle:
 
@@ -58,7 +58,7 @@ The soil food web approach represents a fundamental shift in how gardeners think
 - **Old paradigm**: Feed the plant with soluble NPK fertilizers
 - **New paradigm**: Feed the soil food web, and let it feed the plant
 
-This doesn't mean abandoning soil chemistry entirely. pH, [[cation-exchange-capacity]], nutrient levels, and soil structure still matter—but they matter as the **stage** upon which the biology performs. The soil food web is the living system that makes nutrients available, that creates soil structure, and that protects plants from disease.
+This doesn"t mean abandoning soil chemistry entirely. pH, [[cation-exchange-capacity]], nutrient levels, and soil structure still matter—but they matter as the **stage** upon which the biology performs. The soil food web is the living system that makes nutrients available, that creates soil structure, and that protects plants from disease.
 
 ## Key Principles
 
@@ -68,9 +68,9 @@ This doesn't mean abandoning soil chemistry entirely. pH, [[cation-exchange-capa
 4. **Diversity is essential** — a healthy soil food web contains all trophic levels, from bacteria to beetles
 5. **Toxics should be a last resort** — if you must use them, immediately follow up with biological inputs to restore the beneficial community
 
-## The Gardener's Mandate
+## The Gardener"s Mandate
 
-As Dr. Elaine Ingham states: "Put nothing on your soil if you don't know what it will do to the life under your feet." Before applying any product, gardeners should understand its impact on soil biology. If no information exists about how a material affects soil organisms, it should not be used until tested.
+As Dr. Elaine Ingham states: "Put nothing on your soil if you don"t know what it will do to the life under your feet." Before applying any product, gardeners should understand its impact on soil biology. If no information exists about how a material affects soil organisms, it should not be used until tested.
 
 The ultimate goal is to work **with** nature's systems rather than against them. Nature has been growing plants successfully for hundreds of millions of years without synthetic inputs. The soil food web is the mechanism by which this works. Learning to support it—rather than undermine it—is the key to healthier plants, healthier food, and a healthier planet.
 ## Key Considerations

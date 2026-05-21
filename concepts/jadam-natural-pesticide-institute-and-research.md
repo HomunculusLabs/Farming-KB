@@ -10,7 +10,7 @@ type: concept
 
 ## JADAM Natural Pesticide Institute and Research
 
-JADAM's technical achievements emerged not from a well-funded research
+JADAM"s technical achievements emerged not from a well-funded research
 facility but from an "unsophisticated and underinvested facility" powered by
 collective intelligence. The JADAM Natural Pesticide Institute, combined
 with its network of member farmers, has produced a remarkable body of

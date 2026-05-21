@@ -7,7 +7,7 @@ created: 2026-05-10
 
 ## Cannabinoid Concentration Correlation with [[core-endorhiza-bacterial-community-composition-cannabis]]. However, this correlation is confounded by the
 simultaneous influence of [[edaphic-factors-microbial-community-structure]], making it difficult to establish a direct causal
-relationship between the plant's [[weighted-unifrac-strain-clustering-cannabis-endorhiza-community-structure]] for
+relationship between the plant"s [[weighted-unifrac-strain-clustering-cannabis-endorhiza-community-structure]] for
 unweighted analysis (r-stat: 0.863, p-value = 0.001). This suggests that the types
 of bacteria present in the root interior are associated with the cannabinoid profile
 of the plant.

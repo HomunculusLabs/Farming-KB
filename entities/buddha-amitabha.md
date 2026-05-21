@@ -8,7 +8,7 @@ type: entity
 
 ## Description
 
-Buddha Amitabha (Sanskrit: अमिताभ, "Infinite Light") is one of the five [[dhyani-buddhas]] in Vajrayana Buddhism, associated with the western direction, the red color, the fire element, and the "Blissful Void" state of consciousness. In the [[bardo-thodol]] and Leary's "The Psychedelic Experience," Amitabha appears in the visionary instructions as a figure of refuge and a symbol of the radiant, all-encompassing light of pure consciousness. Leary describes the [[clear-light]] of the First Bardo as what "the Tibetans call Buddha Amitabha, the awareness of the formless beginning."
+Buddha Amitabha (Sanskrit: अमिताभ, "Infinite Light") is one of the five [[dhyani-buddhas]] in Vajrayana Buddhism, associated with the western direction, the red color, the fire element, and the "Blissful Void" state of consciousness. In the [[bardo-thodol]] and Leary"s "The Psychedelic Experience," Amitabha appears in the visionary instructions as a figure of refuge and a symbol of the radiant, all-encompassing light of pure consciousness. Leary describes the [[clear-light]] of the First Bardo as what "the Tibetans call Buddha Amitabha, the awareness of the formless beginning."
 
 ## Classification
 
@@ -25,13 +25,13 @@ Buddha Amitabha (Sanskrit: अमिताभ, "Infinite Light") is one of the f
 - In Pure Land Buddhism, Amitabha presides over the Western Pure Land (Sukhavati), a realm of perfect conditions for enlightenment
 - In the Bardo Thodol, the Clear Light is identified with Amitabha — the formless awareness that is the ground of all being
 
-## Amitabha in Leary's Vision Instructions
+## Amitabha in Leary"s Vision Instructions
 
 Amitabha appears in several of Leary's visionary instruction passages:
 
 ### First Bardo — Clear Light Instructions
 - "The immutable light which the Tibetans call Buddha Amitabha, the awareness of the formless beginning"
-- Recognizing the voidness of one's own consciousness as Buddhahood = maintaining the divine mind
+- Recognizing the voidness of one"s own consciousness as Buddhahood = maintaining the divine mind
 
 ### Vision 3 — The Fire-Flow of Internal Unity
 - "Let the red Buddha Amitabha sweep you along"
@@ -52,12 +52,12 @@ In the Bardo Thodol system that Leary adapts:
 
 ## Relevance to Cultivation and Mycology
 
-Amitabha's significance in the psychedelic framework connects to cultivation:
+Amitabha"s significance in the psychedelic framework connects to cultivation:
 
 - Provides an archetypal framework for understanding the warm, flowing, emotional dimensions of psilocybin experiences
 - The "fire-flow" vision (emotional ecstasy, organic warmth, cellular bliss) is commonly reported in high-dose mushroom sessions
 - The concept of "Infinite Light" maps onto the brilliant visual phenomena often experienced with psilocybin
-- Amitabha's Pure Land (Sukhavati) parallels the paradisiacal states described by mushroom practitioners
+- Amitabha"s Pure Land (Sukhavati) parallels the paradisiacal states described by mushroom practitioners
 - Understanding these archetypes helps guides and facilitators provide culturally informed support during psilocybin sessions
 
 ## Sources

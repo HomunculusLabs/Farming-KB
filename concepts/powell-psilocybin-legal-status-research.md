@@ -11,12 +11,12 @@ updated: 2026-04-26
 
 ## Legal Status of Psilocybin Research
 
-Powell's *The [[mckenna-suppression-psychedelic-research-lsd-therapy]].
+Powell"s *The [[mckenna-suppression-psychedelic-research-lsd-therapy]].
 
 ## The Prohibition Watershed
 
 Powell identifies the late 1960s as the critical turning point. By this point, "almost all of
-the world's known [[psilocybin-isolation-and-early-scientific-research]] into psychedelics was halted,
+the world"s known [[psilocybin-isolation-and-early-scientific-research]] into psychedelics was halted,
 and almost all personal psychedelic experimentation became a criminal offence." Human-based
 studies "stopped dead." Powell describes it vividly: "Everything on the experimental front went
 into cold storage. You could almost hear the bolts and locks sliding into place. The politics
@@ -25,7 +25,7 @@ of consciousness reigned supreme."
 ## The Good Friday Experiment as a Turning Point
 
 Powell traces the growing institutional resistance to the aftermath of the Good Friday
-experiment. Walter Pahnke's thesis on psilocybin was "uneasily approved," but he was not
+experiment. Walter Pahnke"s thesis on psilocybin was "uneasily approved," but he was not
 allowed to continue his line of work and his requests for government funds were denied. "Something
 was obviously amiss." The nature of psilocybin was "becoming a threat to long established power
 structures both in academia and in the realm of traditional religious beliefs about divine
@@ -33,7 +33,7 @@ communion."
 
 Powell argues that the data from [[ghouled-field-guide-historical-context]] for prohibition by documenting the Spanish suppression of
 indigenous mushroom use in Mexico. The Aztec use of teonanacatl proved "so abhorrent to the
-Spanish that they sought to drive all such practices to extinction." Bernardino de Sahagun's
+Spanish that they sought to drive all such practices to extinction." Bernardino de Sahagun"s
 biased accounts in the Florentine Codex — describing the mushroom as making people "besotted,"
 "deranged," and causing them to "flee, hang themselves, hurl themselves from a cliff" —
 exemplify how fear and cultural prejudice generate the misinformation that precedes prohibition.
@@ -46,7 +46,7 @@ governments again made psychedelic use illegal.
 
 ## Rumours and Misinformation
 
-Powell draws parallels between historical and modern misinformation. Sahagun's sensationalised
+Powell draws parallels between historical and modern misinformation. Sahagun"s sensationalised
 accounts were "parodied by the rumours that surrounded LSD use in the sixties." People were
 "supposedly hurling themselves from high-rise apartments and foolishly attempting to stop
 motorway traffic by the power of thought alone." In reality, of all the millions of doses of

@@ -100,14 +100,14 @@ The unconventional approach of applying spawn only to the top nonnutritive layer
 
 This mirrors the natural process and is supported by the observation that mycelium placed on the nutritive side of agar plates never produces sclerotia, while mycelium at the nutrient-poor interface produces them almost immediately.
 
-## A Proven Method: The Mississippi Farmer's Approach
+## A Proven Method: The Mississippi Farmer"s Approach
 
 A documented case from Mississippi describes a remarkably successful outdoor cultivation system:
 
 - Trenched a bed 1 foot deep × 2 feet wide × 40 feet long
 - Filled with ash tree sawdust and an unidentified "protein source"
 - Capped with native soil
-- Applied a thawed slurry of morel spores and saved soil from the previous year's bed, drizzled into a center depression
+- Applied a thawed slurry of morel spores and saved soil from the previous year"s bed, drizzled into a center depression
 - Covered with leaves and chicken wire
 - Located in a low-lying wooded floodplain area
 

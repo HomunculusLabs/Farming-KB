@@ -13,7 +13,7 @@ Eliot Coleman distinguishes between two types of protected [[coleman-french-hist
 
 ## Terminology
 
-Coleman's definitions differ from British usage and should be understood clearly:
+Coleman"s definitions differ from British usage and should be understood clearly:
 
 - **Cold greenhouse**: Completely unheated structure. May have a heater installed for occasional use (e.g., early-starting warm-season transplants), but no heat is applied during winter [[lichens-primary-production-soil-formation-dighton]] structure for the winter harvest system.
 

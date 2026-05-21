@@ -25,7 +25,7 @@ knowledge," the subterranean abyss from which the mushroom springs. The dead are
 not departed but are the source of hidden wisdom, accessible through the
 sacred plant.
 
-I Samuel 28:7-14 describes Saul consulting the witch at En-Dor, where Samuel's
+I Samuel 28:7-14 describes Saul consulting the witch at En-Dor, where Samuel"s
 ghost appears as an 'Elohim "coming out of the ground," wearing a robe that
 ancient versions describe "like an erection" — a phallic [[psilocybin-mushroom-image-guide-habitat-clues]]. The
 ghost rises from the earth itself, like the fungus pushing through soil.
@@ -56,7 +56,7 @@ feast is fundamentally a meal shared with the dead — a communion between the
 living and the departed god.
 
 If Agape is itself a mushroom name, then the feast consists of eating the
-mushroom's flesh and drinking its juice — identical to the "Lord's Supper" and
+mushroom"s flesh and drinking its juice — identical to the "Lord"s Supper" and
 the consumption of the "crucified Christ." As Paul writes in Galatians 2:20:
 "I have been crucified with Christ; I live, yet it is no longer I, but Christ
 lives in me" — the mushroom-eater becomes one with the god who dies and rises
@@ -66,7 +66,7 @@ again.
 
 Necromancers and ventriloquists — literally "belly-speakers" — produced what
 Isaiah 8:19 calls "chirping and muttering" when consulting the dead. The
-practice was widespread in [[solomon-sprouting-seeds-and-early-season-nutrition]] that wither quickly — represent, in Allegro's interpretation,
+practice was widespread in [[solomon-sprouting-seeds-and-early-season-nutrition]] that wither quickly — represent, in Allegro"s interpretation,
 the raising of the fungus itself: lamenting and simultaneously raising the dead
 god.
 

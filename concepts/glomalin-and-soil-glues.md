@@ -26,7 +26,7 @@ The production of glomalin and related soil glues is a fundamental function of a
 - Protect soil organic matter from rapid decomposition
 - Create [[query-how-do-i-design-habitat-for-beneficial-insects]] microorganisms
 
-## R.C. Foster's Research
+## R.C. Foster"s Research
 
 R.C. Foster, working in Australia, published significant findings on this topic in *The Ultrastructure of the Rhizosphere*. Foster's electron microscopy work revealed the extensive network of extracellular polymeric substances (EPS) and glues that surround plant roots and soil particles in the rhizosphere. His research documented how bacteria and fungi coat soil particles with adhesive layers, fundamentally shaping the physical architecture of the soil environment immediately adjacent to roots.
 

@@ -30,7 +30,7 @@ The basidiocarp is perennial, sessile to effused-reflexed, and woody-corky in co
 
 The pore surface is initially reddish-brown to cinnamon, darkening with age. Pores are circular to angular, numbering 5-7 per millimeter. The context is duplex, with a thin, dark, crust-like upper layer and a lighter, fibrous lower layer. Tubes are stratified, indicating the perennial growth habit.
 
-Microscopically, the hyphal system is dimitic, with generative hyphae bearing clamp connections and skeletal hyphae that are thick-walled and golden-brown in Melzer's reagent. Basidiospores are broadly ellipsoid to subglobose, hyaline, thick-walled, and measure 5-6.5 by 4.5-5.5 micrometers. Setal hyphae are present in the context and tubes.
+Microscopically, the hyphal system is dimitic, with generative hyphae bearing clamp connections and skeletal hyphae that are thick-walled and golden-brown in Melzer"s reagent. Basidiospores are broadly ellipsoid to subglobose, hyaline, thick-walled, and measure 5-6.5 by 4.5-5.5 micrometers. Setal hyphae are present in the context and tubes.
 
 ## Distribution and Habitat
 

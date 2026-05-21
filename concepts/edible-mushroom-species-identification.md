@@ -8,7 +8,7 @@ type: concept
 
 ## Introduction to Species Identification
 
-Palmer's practical approach to [[mushroom-identification]] focused on observable characteristics that could be learned through direct experience. He emphasized that descriptions in books were inherently limited and that "the hand and eye acquire a delicacy of analysis, impossible to communicate in words." This section covers the specific edible species Palmer described in detail, along with the field marks he considered most reliable.
+Palmer"s practical approach to [[mushroom-identification]] focused on observable characteristics that could be learned through direct experience. He emphasized that descriptions in books were inherently limited and that "the hand and eye acquire a delicacy of analysis, impossible to communicate in words." This section covers the specific edible species Palmer described in detail, along with the field marks he considered most reliable.
 
 ## Meadow Mushroom and Horse-Mushroom
 
@@ -26,10 +26,10 @@ Palmer advised amateurs to "have one identified by an expert, if possible" for t
 
 ## Maned Mushroom (Coprinus comatus)
 
-The maned mushroom was Palmer's "first fungus we dared to eat on our own recognition." He described it as "the most easily-recognized agaric" and noted it has "no poisonous counterpart."
+The maned mushroom was Palmer"s "first fungus we dared to eat on our own recognition." He described it as "the most easily-recognized agaric" and noted it has "no poisonous counterpart."
 
 ### Field Characteristics
-- When fit for food, shaped like a turtle's egg — ovate and alike at each end
+- When fit for food, shaped like a turtle"s egg — ovate and alike at each end
 - Top is brown and smooth
 - Lower portion has a white mane or fringe of concentric layers (the "mane")
 - Stem is hollow; when cut, the cross-section appears like macaroni
@@ -96,7 +96,7 @@ Key rule: "There is no poisonous fungus resembling them." However, puffballs cha
 
 The primary representative of the tooth-bearing fungi that Palmer encountered. Field characteristics: usually yellow, sometimes reddish, always firm-fleshed, with a deformed, indistinct, or eccentric stem. One side of the cap is frequently much higher than the point diametrically opposite. The teeth or spines (which easily rub off in young specimens) are distinctive enough to prevent confusion with other fungi.
 
-Palmer cited Smith's authority that "all the species of any size enjoy a good character" among the Hydnei.
+Palmer cited Smith"s authority that "all the species of any size enjoy a good character" among the Hydnei.
 ## Practical Applications
 The principles discussed here have direct applications across diverse ecological and agricultural contexts.
 Practitioners have demonstrated successful implementation across varied climates and conditions.

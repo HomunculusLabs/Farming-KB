@@ -6,7 +6,7 @@ type: concept
 
 ## Sumerian as Linguistic Bridge Between Indo-European and Semitic Families
 
-John Allegro's central linguistic thesis in *[[allegro-old-testament-figures-as-fertility-deities]], but, like that of Judaism itself, in a
+John Allegro"s central linguistic thesis in *[[allegro-old-testament-figures-as-fertility-deities]], but, like that of Judaism itself, in a
 pre-Semitic, pre-Hellenic culture that existed in Mesopotamia some two or three thousand
 years before the earliest Old Testament composition." This reframes the genealogy of
 Western religion, positioning Judaism and Christianity as late inheritors of a far older
@@ -14,14 +14,14 @@ fertility cult whose language and symbols were Sumerian in origin.
 
 ## The Naturalistic Philosophy Behind Divine Fatherhood
 
-Central to Allegro's reading is that the Judaeo-Christian conception of God as Father
+Central to Allegro"s reading is that the Judaeo-Christian conception of God as Father
 derives not from covenantal theology but from an older naturalistic worldview: "The
 Christian doctrine of the fatherhood of God stems not from the paternal relationship of
 Yahweh to his chosen people but from the naturalistic philosophy that saw the divine
 creator as a heavenly penis impregnating mother earth." The Sumerian language, in his
 analysis, preserves the [[allegro-death-and-resurrection-in-the-mushroom-cult]].
 
-## The Problem of Jesus's Words
+## The Problem of Jesus"s Words
 
 "The words of Jesus are quoted freely and often given the weight of incontrovertible
 authority, but in fact nobody knows for certain what he said, since what we have are

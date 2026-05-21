@@ -26,7 +26,7 @@ The walnut-hackberry guild, developed by Arizona permaculture designer Tim Murph
 - In Arizona, hackberry sprawls in the dry shade of walnut trees
 - Like walnuts, hackberries secrete a competition-suppressing substance
 - This allelopathic harmony is key: the toxins from the two species seem to complement each other
-- Juglone doesn't affect grass, while hackberry's toxins inhibit grasses and shallow-rooted plants
+- Juglone doesn"t affect grass, while hackberry's toxins inhibit grasses and shallow-rooted plants
 - Leaves and berries yield good wildlife forage
 - Creates a highly specialized niche for other juglone-tolerant species
 

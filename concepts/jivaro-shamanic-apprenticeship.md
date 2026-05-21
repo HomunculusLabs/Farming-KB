@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-Among the [[jivaro]] (Shuar) people of the Upper Amazon, shamanic power is fundamentally rooted in the acquisition and mastery of *[[tsentsak]]* — magical darts that serve as the primary instruments of both sorcery and healing. The apprenticeship process by which a novice becomes a practicing shaman is a rigorous, multi-year undertaking involving the transmission of tsentsak from an established practitioner, prolonged periods of sexual abstinence, the ingestion of psychoactive substances, and the cultivation of relationships with spirit helpers. The ethnographic record, particularly as documented by [[michael-harner]] in *[[hallucinogens-and-shamanism]]*, reveals a system in which the boundary between curing and bewitching is razor-thin, hinging almost entirely on the novice's capacity for self-discipline during the critical early months of training.
+Among the [[jivaro]] (Shuar) people of the Upper Amazon, shamanic power is fundamentally rooted in the acquisition and mastery of *[[tsentsak]]* — magical darts that serve as the primary instruments of both sorcery and healing. The apprenticeship process by which a novice becomes a practicing shaman is a rigorous, multi-year undertaking involving the transmission of tsentsak from an established practitioner, prolonged periods of sexual abstinence, the ingestion of psychoactive substances, and the cultivation of relationships with spirit helpers. The ethnographic record, particularly as documented by [[michael-harner]] in *[[hallucinogens-and-shamanism]]*, reveals a system in which the boundary between curing and bewitching is razor-thin, hinging almost entirely on the novice"s capacity for self-discipline during the critical early months of training.
 
 ## Transmission of Tsentsak
 
@@ -27,7 +27,7 @@ This binary division is not merely a matter of personal volition, however. The c
 
 ## Sexual Abstinence and the Accumulation of Power
 
-Sexual abstinence is a non-negotiable requirement of the apprenticeship and is understood as directly proportional to the shaman's growing supernatural efficacy:
+Sexual abstinence is a non-negotiable requirement of the apprenticeship and is understood as directly proportional to the shaman"s growing supernatural efficacy:
 
 - **Three months** of abstinence is the minimum required for the novice to become any kind of shaman at all. Failure to maintain this discipline, as some do, results in the loss of shamanic potential entirely.
 - **Five months** of abstinence confers the practical power to kill (for a bewitcher) or to cure (for a curer).
@@ -46,7 +46,7 @@ This dual-aspect ontology means that the shaman operates simultaneously in two r
 
 ## The Mechanics of Bewitching
 
-Bewitching is always directed against a specific, known individual — typically a neighbor or fellow tribesman — and is most commonly undertaken to avenge a perceived offense against the shaman's family or friends. The process unfolds as follows:
+Bewitching is always directed against a specific, known individual — typically a neighbor or fellow tribesman — and is most commonly undertaken to avenge a perceived offense against the shaman"s family or friends. The process unfolds as follows:
 
 1. The shaman ingests *natemd* to activate his visionary capacity.
 2. He secretly approaches the house of his intended victim, positioning himself just out of sight in the forest.
@@ -69,7 +69,7 @@ The pasuk is armored for supernatural combat. When perceived by a curing shaman 
 
 ### Wakani Birds
 
-*Wakani* (meaning "soul" or "spirit") birds are a more generally available class of supernatural servant. Unlike the pasuk, they are not exclusive to any single practitioner but can be called upon by any shaman who knows how to summon them. The shaman blows on the wakani birds and dispatches them to the victim's house, where they circle the target repeatedly. This spectral harassment is believed to produce fever and insanity, with death following shortly. Wakani birds thus represent a form of indirect, psychological attack complementary to the direct physical assault of the tsentsak.
+*Wakani* (meaning "soul" or "spirit") birds are a more generally available class of supernatural servant. Unlike the pasuk, they are not exclusive to any single practitioner but can be called upon by any shaman who knows how to summon them. The shaman blows on the wakani birds and dispatches them to the victim"s house, where they circle the target repeatedly. This spectral harassment is believed to produce fever and insanity, with death following shortly. Wakani birds thus represent a form of indirect, psychological attack complementary to the direct physical assault of the tsentsak.
 
 ## Anamuk and Supernatural Animals
 
@@ -100,7 +100,7 @@ If a tsentsak is found lodged within the body, the curing shaman assesses whethe
 1. **The force of the throw:** A tsentsak shot with great force may pass entirely through the victim, leaving nothing for the curer to extract. Such cases are invariably fatal.
 2. **The character of the dart itself:** Different tsentsak produce different degrees of illness, and some are more resistant to extraction than others.
 
-A tsentsak that remains embedded within the body can theoretically be removed through sucking — setting the stage for a direct supernatural confrontation between the curing shaman and the bewitcher's pasuk. The curer must also contend with the possibility that the bewitcher has stationed a wakani bird near the patient's dwelling, requiring the additional step of tracking and eliminating this spirit sentinel before the cure can be completed.
+A tsentsak that remains embedded within the body can theoretically be removed through sucking — setting the stage for a direct supernatural confrontation between the curing shaman and the bewitcher"s pasuk. The curer must also contend with the possibility that the bewitcher has stationed a wakani bird near the patient's dwelling, requiring the additional step of tracking and eliminating this spirit sentinel before the cure can be completed.
 
 ## Pharmacological Basis of the Apprenticeship
 

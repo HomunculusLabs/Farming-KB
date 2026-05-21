@@ -24,7 +24,7 @@ sources:
 
 # Humanure Composting
 
-Safe composting of human manure following thermophilic methods. Based on Joe Jenkins' *The Humanure Handbook* (4th ed.) and university extension guidelines. Humanure, when properly managed, becomes a valuable soil amendment; when mishandled, it is a pathogen vector.
+Safe composting of human manure following thermophilic methods. Based on Joe Jenkins" *The Humanure Handbook* (4th ed.) and university extension guidelines. Humanure, when properly managed, becomes a valuable soil amendment; when mishandled, it is a pathogen vector.
 
 ## Safety and Pathogen Concerns
 

@@ -12,7 +12,7 @@ type: concept
 
 ## Overview
 
-Guzman and Ott, commonly known as "Stuntz's Psilocybe," "Stuntz's blue legs,"
+Guzman and Ott, commonly known as "Stuntz"s Psilocybe," "Stuntz"s blue legs,"
 or "blue ringers," is a wood-inhabiting [[bloomfield-asterophora-and-mycoparasites-of-fruiting-bodies]]. Margin translucent-striate halfway
 to the disc when moist; decurved, then straightening, and finally elevated,
 undulating, and often eroded in extreme age.

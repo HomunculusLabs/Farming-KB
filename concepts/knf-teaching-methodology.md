@@ -12,7 +12,7 @@ sources:
 
 updated: 2026-04-18
 
-Dr. Cho Han Kyu's approach to teaching Korean [[pf-tek-global-spread-and-cultural-impact]] of KNF from its origins at the Janong Natural Farming Institute in South Korea to over fifteen countries worldwide.
+Dr. Cho Han Kyu"s approach to teaching Korean [[pf-tek-global-spread-and-cultural-impact]] of KNF from its origins at the Janong Natural Farming Institute in South Korea to over fifteen countries worldwide.
 
 ## Dr. Cho's Background as Teacher
 

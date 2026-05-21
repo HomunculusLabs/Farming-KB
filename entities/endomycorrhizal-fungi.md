@@ -43,7 +43,7 @@ The arbuscule functions as a bidirectional exchange system:
 
 ### Root Surface Area Enhancement
 
-Endomycorrhizal fungi can increase the effective surface area of a tree's root system by an extraordinary **700 to 1,000 times**. This massive expansion allows plants to access water and nutrients from soil volumes far beyond the reach of roots alone.
+Endomycorrhizal fungi can increase the effective surface area of a tree"s root system by an extraordinary **700 to 1,000 times**. This massive expansion allows plants to access water and nutrients from soil volumes far beyond the reach of roots alone.
 
 ## Key Functions
 

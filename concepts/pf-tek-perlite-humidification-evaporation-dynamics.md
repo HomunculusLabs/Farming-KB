@@ -12,7 +12,7 @@ While the PF TEK perlite humidification technique describes the practical method
 
 ## The Physics of Perlite Evaporation
 
-### Perlite's Porous Structure
+### Perlite"s Porous Structure
 
 Perlite is expanded volcanic glass — an amorphous, silicon-dioxide-based material that has been heated to approximately 1600°F (870°C), causing it to expand to 4–20 times its original volume. The expansion creates a cellular structure of tiny, interconnected air-filled bubbles enclosed within thin glass walls. These bubbles create an enormous internal surface area relative to the external volume of the perlite granules.
 
@@ -42,7 +42,7 @@ This cooling effect has both advantages and potential drawbacks:
 
 ## Multi-Flush Sustainability
 
-The perlite evaporation dynamics are specifically designed to support the PF TEK's multi-flush approach. After the first harvest, cakes remain in the terrarium and are expected to produce additional flushes over a period of weeks. The perlite layer must maintain adequate humidity throughout this extended period without requiring frequent intervention.
+The perlite evaporation dynamics are specifically designed to support the PF TEK"s multi-flush approach. After the first harvest, cakes remain in the terrarium and are expected to produce additional flushes over a period of weeks. The perlite layer must maintain adequate humidity throughout this extended period without requiring frequent intervention.
 
 The PF TEK documentation states that perlite humidification is "sufficient for multi-flushing" — meaning that a single initial wetting of the perlite layer can sustain adequate humidity through two or more flush cycles. This is possible because:
 

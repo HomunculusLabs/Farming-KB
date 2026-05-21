@@ -70,7 +70,7 @@ Some vines survive dry, harsh, stony, or dune conditions. All, however, thrive a
 
 ### The Critical Need
 
-Over much of the world's drylands, the great impediment to home garden food production is the presence of wild, feral, and domestic browsing animals. It is much cheaper to:
+Over much of the world"s drylands, the great impediment to home garden food production is the presence of wild, feral, and domestic browsing animals. It is much cheaper to:
 
 - Fence out these devastating and ever-hungry animals from settlements and gardens
 - Than to airlift emergency food aid to starving people

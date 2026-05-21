@@ -21,7 +21,7 @@ DMT, mescaline) is agonism at the 5-HT2A [[anandamide-emotional-regulation-blesc
 receptors triggers a cascade of downstream effects including increased cortical
 excitability, enhanced glutamate release, and modulation of the [[dosage-unpredictability-psilocybin-subjective-experience]] of [[neurochemical-probes-brain-imaging-pihkal]] studies using fMRI have
 demonstrated that psilocybin reduces DMN connectivity while increasing global
-brain connectivity — literally making parts of the brain that normally don't
+brain connectivity — literally making parts of the brain that normally don"t
 communicate begin to exchange signals.
 
 ## Psychological Mechanisms

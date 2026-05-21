@@ -29,7 +29,7 @@ Mixed livestock rotation is a permaculture grazing strategy that sequences multi
 - Attempts to reproduce the high yields of natural wildlife systems
 - Recommended for trials in any area with appropriate species selection
 - Requires optimum densities and intervals tailored to local conditions
-- Not widely practiced beyond 2-3 species rotations as of the Manual's publication
+- Not widely practiced beyond 2-3 species rotations as of the Manual"s publication
 
 ## Relevance to Cultivation and Permaculture
 

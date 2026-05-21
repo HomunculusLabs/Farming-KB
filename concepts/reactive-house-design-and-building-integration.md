@@ -6,7 +6,7 @@ type: concept
 
 ## Reactive House Design and Building Integration
 
-The "reactive house" is Mollison's concept for buildings that respond to and work with their environment rather than fighting against it. In [[permaculture]], buildings sit at the core of the zonation system and must be constructed to supply their own heat, manage water, integrate with gardens, and reduce energy consumption.
+The "reactive house" is Mollison"s concept for buildings that respond to and work with their environment rather than fighting against it. In [[permaculture]], buildings sit at the core of the zonation system and must be constructed to supply their own heat, manage water, integrate with gardens, and reduce energy consumption.
 
 ## The Building at the Core
 
@@ -16,7 +16,7 @@ The "reactive house" is Mollison's concept for buildings that respond to and wor
 - Most domestic energy is consumed in buildings
 - Buildings are where we survive extremes of heat and cold
 - Buildings are where we supervise and plan life-support systems
-- A diverse garden supplies foods that don't need cooking, reducing fuel demand
+- A diverse garden supplies foods that don"t need cooking, reducing fuel demand
 
 ## Fuel Conservation Through Food Choice
 
@@ -92,7 +92,7 @@ The traditional Aboriginal wiltja can be productively enhanced:
 
 ### Grown Shelters
 - Ngumpa (shade house), yuu (windbreak), and wiltja (house) are "fairly sophisticated designs for comfort"
-- Making these permanent 'grown' shelters saves cutting mulga at camps
+- Making these permanent "grown' shelters saves cutting mulga at camps
 - Combinations of bamboo, trellis, spinifex, and vine would make very comfortable outdoor living
 - Spinifex thatched shelters should go to mulch after use (good insulation for roofing)
 

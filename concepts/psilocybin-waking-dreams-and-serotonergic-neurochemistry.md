@@ -10,7 +10,7 @@ tags: [chemistry, psilocybin]
 
 ## Psilocybin, Waking Dreams, and Serotonergic Neurochemistry
 
-Simon G. Powell's "The Psilocybin Solution" presents a detailed neurochemical model for how psilocybin alters consciousness, centering on the brain's serotonergic systems. Powell draws upon research from the 1960s onward to explain the mechanisms by which entheogenic fungi induce visionary states that resemble a unique form of dreaming while awake.
+Simon G. Powell"s "The Psilocybin Solution" presents a detailed neurochemical model for how psilocybin alters consciousness, centering on the brain"s serotonergic systems. Powell draws upon research from the 1960s onward to explain the mechanisms by which entheogenic fungi induce visionary states that resemble a unique form of dreaming while awake.
 
 ## The Serotonergic Raphe System
 
@@ -20,7 +20,7 @@ Powell describes this inhibitory function as a homeostatic "screening out" mecha
 
 ## Psilocybin and the Raphe System
 
-Research conducted with LSD and [[psilocybin-mushroom-identification]] visions and the brain's natural dream mechanisms. REM (rapid eye movement) sleep is the phase in which the most vivid dreaming occurs. Neuroscientist B.L. Jacobs carried out experiments demonstrating that suppression of serotonergic neuronal activity elicits dreaming. When cats were injected with PCPA, a chemical that blocks serotonin supplies to all parts of the brain, they exhibited brain-wave patterns consistent with the onset of dreaming despite being fully awake. Jacobs concluded that these were effectively waking dreams.
+Research conducted with LSD and [[psilocybin-mushroom-identification]] visions and the brain"s natural dream mechanisms. REM (rapid eye movement) sleep is the phase in which the most vivid dreaming occurs. Neuroscientist B.L. Jacobs carried out experiments demonstrating that suppression of serotonergic neuronal activity elicits dreaming. When cats were injected with PCPA, a chemical that blocks serotonin supplies to all parts of the brain, they exhibited brain-wave patterns consistent with the onset of dreaming despite being fully awake. Jacobs concluded that these were effectively waking dreams.
 
 Waking dreams are therefore associated with low levels of serotonin. During normal dream sleep, serotonergic cells in the raphe system turn off completely, ceasing their depressant effect on other parts of the brain. This process directly echoes the effects of psilocybin upon the raphe system.
 
@@ -32,7 +32,7 @@ Powell synthesizes these findings into a unified model. The combined effects of 
 
 Powell argues that whether examining a dream, an entheogenic vision, normal perception, or psychedelic perception, the common mediating factor is information, and the way in which such information is transmitted, organised, and substantiated within the neuronal firing of the brain. Information emerges as the "currency" of the brain and the key concept for explaining the normal conscious mind, the entheogenic mind, and the dreaming mind.
 
-This neurochemical framework supports the broader thesis that consciousness is fundamentally informational in nature, a pattern of information embodied within the neuronal substrate of the brain, and that entheogens like psilocybin work by enabling novel informational patterns to emerge that are not normally "permitted" due to the ordinary constraints of the brain's filtering systems.
+This neurochemical framework supports the broader thesis that consciousness is fundamentally informational in nature, a pattern of information embodied within the neuronal substrate of the brain, and that entheogens like psilocybin work by enabling novel informational patterns to emerge that are not normally "permitted" due to the ordinary constraints of the brain"s filtering systems.
 
 ## The Serotonin 2A Receptor
 

@@ -28,12 +28,12 @@ Teonanacatl (Nahuatl: "flesh of the gods") is the Aztec name for the sacred [[em
 - **1651**: Dr. Francisco Hernández, a Spanish physician studying Central American Indian [[herbal-medicine]], reported three types of mushrooms worshipped by Mexican natives. He described effects including "not death but a madness that on occasion is lasting, of which the symptom is a kind of uncontrolled laughter" and visions of "wars and the likeness of demons"
 
 ### Rediscovery Period
-- **1915**: American botanist William E. Safford incorrectly claimed that sacred mushrooms had never existed, arguing that teonanacatl referred to dried peyotl buttons. Safford's theory was widely accepted for three decades
+- **1915**: American botanist William E. Safford incorrectly claimed that sacred mushrooms had never existed, arguing that teonanacatl referred to dried peyotl buttons. Safford"s theory was widely accepted for three decades
 - **1919**: Dr. Bias P. Reko published an article stating that nanacatl was a hallucinogenic mushroom, but the report was discounted due to earlier errors in Reko's work
 - **1923**: Dr. Reko wrote to the U.S. National Museum stating that teonanacatl "is actually, as Sahagún states, a fungus which grows on dung heaps and which is still used under the same old name by the Indians of the Sierra Juarez in Oaxaca in their religious feasts"
 - **1936**: Victor A. Reko published *Magische Gifte*, wrongly suggesting teonanacatl might be a species of *Amanita*
 - **1936**: Ing. Roberto J. Weitlaner obtained teonanacatl in Oaxaca — the first white man in modern times to do so
-- **1938**: Weitlaner's daughter, anthropologist Jean Basset Johnson, and two others attended a mushroom rite in Huautla, Oaxaca — the first whites to attend a mushroom ceremony
+- **1938**: Weitlaner"s daughter, anthropologist Jean Basset Johnson, and two others attended a mushroom rite in Huautla, Oaxaca — the first whites to attend a mushroom ceremony
 - **1938**: Harvard botanist R.E. Schultes traveled to Oaxaca and obtained specimens of *[[panaeolus-campanulatus]]* var. *sphinctrinus* and *[[stropharia-cubensis]]*, and described *[[psilocybe-caerulescens]]* var. *mazatecorum*
 
 ### Modern Era

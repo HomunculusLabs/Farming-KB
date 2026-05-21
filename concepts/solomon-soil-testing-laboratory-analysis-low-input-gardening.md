@@ -9,13 +9,13 @@ tags: [soil-testing, laboratory-analysis, soil-fertility, pH, COF, complete-orga
 
 ## Overvi [[soil-testing]] ing in *Gardeni [[permaculture-integrate-rather-than-segregate]] n urging gardeners to invest in professional laboratory analysis, he argues that most home food gardens can achieve excellent results through a systematic organic fertility program — his Complete Organic Fertilizer (COF) recipe — combined with regular compost and manure applications. Laboratory testing enters the picture only in specific situations where regional soil chemistry demands it.
 
-## Solomon's Skepticism Toward pH Testing
+## Solomon"s Skepticism Toward pH Testing
 
 ### Forget About pH (Mostly)
 
 Solomon's most striking position on soil testing is his dismissal of pH correction as a primary concern: "You have read that the acidity or pH of soil should be corrected by liming. I suggest that you forget about pH."
 
-His reasoning draws on the work of soil scientist [[william-albrecht]] (cited in the book's bibliography). Solomon argues that:
+His reasoning draws on the work of soil scientist [[william-albrecht]] (cited in the book"s bibliography). Solomon argues that:
 
 1. Liming to adjust [[soil-ph]] is relevant to conventional chemical farming but not [[chemical-to-organic-gardening-paradigm]]
 2. The concept of soil pH as a primary driver of fertility is controversial among soil scientists
@@ -23,13 +23,13 @@ His reasoning draws on the work of soil scientist [[william-albrecht]] (cited in
 
 ### When pH Testing Matters
 
-Solomon makes one important exception: "If a soil test shows your garden's pH is low and you are advised to lime to correct it — don't. Each year just add what I recommend in the sidebar 'Soil improving in a nutshell'; compost/manure and the recommended amounts of lime(s) per 1,000 square feet. Over time the pH will correct itself, more because of the organic matter than from adding calcium and/or magnesium."
+Solomon makes one important exception: "If a soil test shows your garden"s pH is low and you are advised to lime to correct it — don't. Each year just add what I recommend in the sidebar 'Soil improving in a nutshell'; compost/manure and the recommended amounts of lime(s) per 1,000 square feet. Over time the pH will correct itself, more because of the organic matter than from adding calcium and/or magnesium."
 
 He continues: "If your soil test results show calcium as acceptable, use my full recommendation anyway because vegetables still need [[dynamic-accumulator-plants-calcium-and-magnesium]] and in the right balance."
 
 ### The COF Solution to pH
 
-Solomon's Complete Organic Fertilizer automatically addresses calcium and magnesium needs without requiring pH testing:
+Solomon"s Complete Organic Fertilizer automatically addresses calcium and magnesium needs without requiring pH testing:
 
 - COF contains agricultural lime, dolomite lime, and gypsum
 - When applied at the recommended rate, it automatically distributes about the right amount per 1,000 square feet per year
@@ -59,7 +59,7 @@ Dolomite lime contains both calcium carbonate and magnesium carbonate. Solomon a
 
 ### Gypsum
 
-"Gypsum is calcium sulfate." It supplies calcium without raising pH — a critical distinction for gardeners in arid regions or on already-alkaline soils. Solomon includes gypsum as one part of the COF recipe and notes that gardeners who don't use gypsum should double the quantity of agricultural lime instead.
+"Gypsum is calcium sulfate." It supplies calcium without raising pH — a critical distinction for gardeners in arid regions or on already-alkaline soils. Solomon includes gypsum as one part of the COF recipe and notes that gardeners who don"t use gypsum should double the quantity of agricultural lime instead.
 
 ## The Complete Organic Fertilizer (COF)
 

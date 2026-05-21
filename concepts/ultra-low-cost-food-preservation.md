@@ -12,7 +12,7 @@ sources:
 
 ## Traditional Preservation as Self-Sufficiency
 
-Food preservation is a natural extension of ultra-low-cost farming. Growing food at minimal cost is only half the equation — preserving it without expensive equipment completes the self-sufficiency cycle. JADAM's philosophy of valuing what is near, cheap, and freely available extends naturally to food preservation methods that require no purchased equipment, no electricity, and no specialized skills.
+Food preservation is a natural extension of ultra-low-cost farming. Growing food at minimal cost is only half the equation — preserving it without expensive equipment completes the self-sufficiency cycle. JADAM"s philosophy of valuing what is near, cheap, and freely available extends naturally to food preservation methods that require no purchased equipment, no electricity, and no specialized skills.
 
 ## Drying and Dehydration
 

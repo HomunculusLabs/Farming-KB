@@ -30,7 +30,7 @@ At 450 mg, effects include mild intoxication similar to having had too many drin
 
 The compound presents a paradox in structure-activity relationships (SAR). Adding a 2-methyl group typically protects tryptamines from first-pass metabolic destruction by MAO, increasing oral potency. But with alpha-MT, which is already immune to this enzyme system and already orally active, the same modification decreases potency by approximately 10 times and shifts the character from stimulant to sedative.
 
-This finding challenged Shulgin's general understanding of [[alpha-pvp]] Compounds
+This finding challenged Shulgin"s general understanding of [[alpha-pvp]] Compounds
 
 [[amt-entity-tihkal]] - dimethyltryptamine, the simplest active member of this family.
 

@@ -1,5 +1,5 @@
 ---
-title: "Fukuoka's Three Paths of Farming: Mahayana, Hinayana, and Scientific"
+title: "Fukuoka"s Three Paths of Farming: Mahayana, Hinayana, and Scientific"
 source: "masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
 author: "masanobu-fukuoka"
 tags: [fukuoka, natural-farming, philosophy, mahayana, hinayana, scientific-farming, permaculture]

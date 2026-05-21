@@ -8,7 +8,7 @@ type: entity
 
 ## Description
 
-Macroptilium atropurpureum, commonly known as siratro, is a perennial tropical forage legume valued for its drought tolerance, nitrogen-fixing ability, and persistence under grazing. In Bill Mollison's *Permaculture: A Designer's Manual*, it is listed as "Siratro, Macroptilium atropurpureum" among the key plant species referenced for use in designed agricultural systems.
+Macroptilium atropurpureum, commonly known as siratro, is a perennial tropical forage legume valued for its drought tolerance, nitrogen-fixing ability, and persistence under grazing. In Bill Mollison"s *Permaculture: A Designer's Manual*, it is listed as "Siratro, Macroptilium atropurpureum" among the key plant species referenced for use in designed agricultural systems.
 
 ## Classification
 

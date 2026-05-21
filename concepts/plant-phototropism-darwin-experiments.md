@@ -1,5 +1,5 @@
 ---
-title: Plant Phototropism and Darwin's Experiments
+title: Plant Phototropism and Darwin"s Experiments
 created: 2026-05-11
 updated: 2026-05-11
 type: concept
@@ -13,7 +13,7 @@ sources: [raw/papers/grahamholmes-what-a-plant-knowsindd.md]
 
 Phototropism is the growth response of a plant toward (positive phototropism) or away from (negative phototropism) a light source. The phenomenon was systematically investigated by Charles Darwin and his son Francis in their 1880 book *The [[darwin-power-of-movement-in-plants]] in Plants*, which established that plants possess a distributed form of light perception. Their elegant experiments demonstrated that the "eyes" of a plant are located at the shoot tip, not in the bending region — a finding that laid the groundwork for the discovery of auxin and modern plant hormone biology.
 
-## Darwin's Observation
+## Darwin"s Observation
 
 Darwin wrote: "There are extremely few [plants], of which some part … does not bend towards lateral light." This universal tendency of plants to grow toward light is one of the most visible examples of [[plant-cell-membrane-transport-proteins]] (PIN proteins) are reoriented, channeling auxin from the light side to the dark side of the stem
 4. **Cell wall loosening**: On the dark side, auxin activates proton pumps that acidify the cell wall, activating expansin proteins that loosen cellulose microfibrils
@@ -55,7 +55,7 @@ Understanding phototropism is essential for indoor growers:
 
 ## Historical Significance
 
-Darwin's phototropism experiments deserve recognition as among the most elegant in the history of plant biology:
+Darwin"s phototropism experiments deserve recognition as among the most elegant in the history of plant biology:
 
 - They established the concept of signal transduction in plants — a perception region distinct from a response region
 - They demonstrated that plants have a form of [[plant-circadian-rhythms]] reveals that the time of day influences the direction and magnitude of phototropic bending

@@ -36,7 +36,7 @@ Laminal cells are densely papillose with multiplex papillae. The papillosity is 
 
 The leaf color ranges from yellowish-green when moist to dark grayish-green when dry. This color change, combined with the constricted leaf shape, makes the species readily identifiable in the field even without capsules.
 
-The capsule is cylindrical to ellipsoidal, 2–3 mm long, on a yellowish seta of 8–15 mm. The capsule neck is distinctly narrowed below the mouth, creating the species' characteristic profile.
+The capsule is cylindrical to ellipsoidal, 2–3 mm long, on a yellowish seta of 8–15 mm. The capsule neck is distinctly narrowed below the mouth, creating the species" characteristic profile.
 
 The peristome teeth are divided nearly to the base and spirally twisted when dry. The operculum is long-rostrate. Capsules persist on the plant for many months after spore release.
 

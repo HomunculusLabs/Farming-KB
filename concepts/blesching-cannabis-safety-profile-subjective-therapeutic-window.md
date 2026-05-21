@@ -7,7 +7,7 @@ type: concept
 created: 2026-05-09
 ---
 
-## [[uwe-blesching|Uwe Blesching]]'s *The [[cervantes-terpenoid-pharmacology-therapeutic-effects]] without adverse effects. It is "subjective" because it varies between individuals based on:
+## [[uwe-blesching|Uwe Blesching]]"s *The [[cervantes-terpenoid-pharmacology-therapeutic-effects]] without adverse effects. It is "subjective" because it varies between individuals based on:
 
 1. **The body's present endocannabinoid state** — relative balance or deficiency
 2. **The cannabinoid profile** in the specific medicine being used (THC:[[cannabis-safety-profile]]

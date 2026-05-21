@@ -136,7 +136,7 @@ Morel cultivation has been pursued for over 100 years with limited commercial su
 
 - Early attempts by scientists in the late 1800s and early 1900s
 - First reported success by Ronald Ower in 1982 (indoor cultivation)
-- Ower's methods were never reliably replicated
+- Ower"s methods were never reliably replicated
 - Multiple patents filed but few commercialized
 
 ### Current State

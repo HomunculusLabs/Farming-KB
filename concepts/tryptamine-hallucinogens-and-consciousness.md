@@ -9,9 +9,9 @@ aliases:
 
 ## The I/Thou Relationship with the Unknown
 
-McKenna emphasized the importance of approaching the tryptamine experience with what Martin Buber called an "I/Thou" relationship—meeting the unknown on one's feet with dignity and critical intelligence, rather than in genuflection. The entities encountered in the tryptamine state may present themselves as omniscient or from extraterrestrial origins, but the responsible explorer must maintain discernment.
+McKenna emphasized the importance of approaching the tryptamine experience with what Martin Buber called an "I/Thou" relationship—meeting the unknown on one"s feet with dignity and critical intelligence, rather than in genuflection. The entities encountered in the tryptamine state may present themselves as omniscient or from extraterrestrial origins, but the responsible explorer must maintain discernment.
 
-He paraphrased magicians who have always understood that one must enter such encounters "with one's wits about oneself." This stance of engaged skepticism—neither blindly accepting nor reflexively dismissing the content of the experience—is perhaps the most productive approach to the epistemological challenge that tryptamines present.
+He paraphrased magicians who have always understood that one must enter such encounters "with one"s wits about oneself." This stance of engaged skepticism—neither blindly accepting nor reflexively dismissing the content of the experience—is perhaps the most productive approach to the epistemological challenge that tryptamines present.
 
 The problem of distinguishing genuine information from noise in these states is real and significant. McKenna acknowledged that "the demons are of many kinds" and that the head can be "filled with information" that is "incoherent or mad." The challenge is to develop criteria for evaluating the content of psychedelic experience without either succumbing to gullibility or dismissing the entire phenomenon as meaningless.
 

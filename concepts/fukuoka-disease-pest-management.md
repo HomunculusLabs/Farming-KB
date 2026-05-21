@@ -8,7 +8,7 @@ sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
-## Fukuoka's Disease and Pest Management
+## Fukuoka"s Disease and Pest Management
 
 **Updated:** 2026-04-18
 
@@ -22,7 +22,7 @@ Fukuoka's fundamental position: "A thousand plant diseases exist in nature, yet 
 
 ### The Yellow Rice Borer
 
-Fukuoka's professional experience with the yellow rice borer eradication program in Kochi Prefecture (1940s) was formative:
+Fukuoka"s professional experience with the yellow rice borer eradication program in Kochi Prefecture (1940s) was formative:
 
 - The borer feeds only on rice, so the plan was to eliminate it through starvation by ensuring no rice was growing during the first emergence period
 - The program was technically successful -- the borer was completely eliminated
@@ -34,7 +34,7 @@ Fukuoka's professional experience with the yellow rice borer eradication program
 ### Arrowhead Scale (Citrus)
 
 - Infests Satsuma orange, Iyo orange, and shaddock
-- In Fukuoka's [[knf-pest-control-and-soap-water]] pesticide pollution"
+- In Fukuoka"s [[knf-pest-control-and-soap-water]] pesticide pollution"
 - Mites are extremely sensitive to microclimatic changes
 - Black wattle used as windbreak or shade tree causes mite and scale populations to "drop dramatically or almost entirely vanish"
 - The interplanting of evergreen trees with deciduous trees is also effective

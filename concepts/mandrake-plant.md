@@ -40,7 +40,7 @@ plants drew circles around Mandrake and cut off the top part of the root while
 facing west; the remainder was gathered after the collectors had performed
 certain dances and recited special formulas. Two centuries earlier, the Greek
 Pythagoras had described Mandrake root as an anthropomorph, or tiny human
-being, reflecting the ancient recognition of the root's human-like form.
+being, reflecting the ancient recognition of the root"s human-like form.
 
 In the first century A.D., Josephus Flavius wrote that a plant grew in the
 [[allegro-garden-of-eden-and-delight]].
@@ -49,7 +49,7 @@ When Mandrake began to be cultivated in central Europe during the Dark Ages, it
 was thought that the plant would grow only under gallows where urine or semen
 from the condemned man fell -- hence the common German names meaning "gallows
 man" and "dragon doll." This association with death and the gallows further
-enhanced the plant's sinister reputation.
+enhanced the plant"s sinister reputation.
 
 The apogee of Mandrake's fame occurred in the late sixteenth century. As early
 as 1526, the English herbalist Turner denied that all Mandrake roots had a

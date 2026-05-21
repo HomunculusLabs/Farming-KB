@@ -52,7 +52,7 @@ Both strategies exploit wind energy for seed dispersal [[mollison-humus-and-orga
 - **Pioneer management**: Rather than eradicating roly-poly, land managers can use it as a protective nurse crop for establishing desired species beneath it.
 - **Soil restoration indicator**: Dense stands of *Bassia* signal overgrazing but also indicate active natural repair processes underway.
 - **Organic matter redistribution**: The wind-driven transport of whole plants naturally concentrates organic matter in swales, pits, and depressions — a process that can be mimicked in designed systems.
-- **Rethinking "weeds"**: Mollison's analysis challenges the categorisation of pioneer species as "noxious," arguing that the real problem is the [[integrated-land-management-and-polyculture-design]] that created the conditions they are attempting to heal.
+- **Rethinking "weeds"**: Mollison"s analysis challenges the categorisation of pioneer species as "noxious," arguing that the real problem is the [[integrated-land-management-and-polyculture-design]] that created the conditions they are attempting to heal.
 
 ## Related Species
 

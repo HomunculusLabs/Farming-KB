@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-[[sepp-holzer]]'s philosophy extends beyond [[integrated-land-management-and-polyculture-design]] to encompass a broader ethic of relationship with animals, nature, and human community. This concept page examines his views on animal welfare, humane slaughter, emotional connection to nature, political engagement, and children's education.
+[[sepp-holzer]]"s philosophy extends beyond [[integrated-land-management-and-polyculture-design]] to encompass a broader ethic of relationship with animals, nature, and human community. This concept page examines his views on animal welfare, humane slaughter, emotional connection to nature, political engagement, and children's education.
 
 ## The Lamb That Formed a Life
 
@@ -16,13 +16,13 @@ type: concept
 
 Holzer recounts the formative experience of raising a lamb as a child: "To this day I sometimes dream about that lamb; how I raised it, how it was sold and how overjoyed I would have been to have it back. Experiences like that have formed me."
 
-This early experience of emotional bonding with an animal—and the pain of its sale—shaped Holzer's lifelong commitment to humane animal treatment. The lamb became a symbol of the connection between humans and the animals they raise for food.
+This early experience of emotional bonding with an animal—and the pain of its sale—shaped Holzer"s lifelong commitment to humane animal treatment. The lamb became a symbol of the connection between humans and the animals they raise for food.
 
 ### The Question of Cruelty
 
 "When I see an animal mistreated I take action... What has happened to us? Why have we become so stupid and cruel? What can we do to change? We have to realise that we have become the most dangerous pest to natural [[pulsing-patterns-of-life-on-earth]]."
 
-Holzer's language is intentionally provocative: calling humans "the most dangerous pest" challenges the assumption of human superiority and demands a fundamental rethinking of the human relationship with nature.
+Holzer"s language is intentionally provocative: calling humans "the most dangerous pest" challenges the assumption of human superiority and demands a fundamental rethinking of the human relationship with nature.
 
 ## Humane Slaughter
 
@@ -30,7 +30,7 @@ Holzer's language is intentionally provocative: calling humans "the most dangero
 
 "I have come to the conclusion, after decades of living with animals, that dying is not painful, only the fear of death is."
 
-Holzer's observation—that animals in natural predation situations die quickly before feeling pain—suggests that the suffering in modern meat production comes not from death itself but from the fear, stress, and transportation that precede it.
+Holzer"s observation—that animals in natural predation situations die quickly before feeling pain—suggests that the suffering in modern meat production comes not from death itself but from the fear, stress, and transportation that precede it.
 
 ### Modern Slaughter Critique
 
@@ -94,9 +94,9 @@ Holzer identifies specific policy failures:
 
 ### Community Responsibility
 
-"Children's education is a community responsibility, it is not just for the parents to do alone. Everyone helps, points out the mistakes and offers solutions."
+"Children"s education is a community responsibility, it is not just for the parents to do alone. Everyone helps, points out the mistakes and offers solutions."
 
-Holzer advocates for a community-based model of children's education in which all members contribute to the child's learning. This reflects the "whole village" model of traditional societies.
+Holzer advocates for a community-based model of children"s education in which all members contribute to the child's learning. This reflects the "whole village" model of traditional societies.
 
 ### Intact Family, Intact Society
 

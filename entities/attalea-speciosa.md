@@ -11,7 +11,6 @@ date: 2026-05-10
 updated: 2026-05-10
 sources:
   - Balick, M.J. (1986). "Taxonomy and Ecology of the Babassu Palm." Advances in Economic Botany 3.---
----
 
 ## Overview
 

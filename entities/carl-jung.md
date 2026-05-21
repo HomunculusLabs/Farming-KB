@@ -10,7 +10,7 @@ type: entity
 
 Carl Gustav Jung (1875–1961) was a Swiss psychiatrist and founder of analytical psychology.
 
-He wrote the "Psychological Commentary" for W.Y. [[evans-wentz]]'s 1927 English edition of [[jung-and-the-tibetan-book-of-the-dead]] of the Dead.
+He wrote the "Psychological Commentary" for W.Y. [[evans-wentz]]"s 1927 English edition of [[jung-and-the-tibetan-book-of-the-dead]] of the Dead.
 
 Jung noted the convergence of Eastern and Western psychological understanding in the [[bardo-thodol]].
 
@@ -32,7 +32,7 @@ His concepts of archetypes, the collective unconscious, and individuation profou
 
 3. Jung founded analytical psychology, emphasizing the exploration of the unconscious mind.
 
-4. He wrote the "Psychological Commentary" for Evans-Wentz's 1927 edition of the Tibetan Book of the Dead.
+4. He wrote the "Psychological Commentary" for Evans-Wentz"s 1927 edition of the Tibetan Book of the Dead.
 
 5. In this commentary, Jung noted the remarkable convergence between Eastern and Western psychology.
 

@@ -1,5 +1,5 @@
 ---
-title: "Fukuoka's Warning Against fukuoka-textdoc-genetic-engineering-critique-warning"
+title: "Fukuoka"s Warning Against fukuoka-textdoc-genetic-engineering-critique-warning"
 type: concept
 tags:
   - genetic-engineering
@@ -13,7 +13,7 @@ sources:
   - microdosing-theory-and-practice of fukuoka-sowing-green-philosophy-one-grain-revolution" (1985)
 ---
 
-## Fukuoka's Warning Against Genetic Engineering
+## Fukuoka"s Warning Against Genetic Engineering
 
 In "The Natural Way of Farming," Masanobu Fukuoka issued one of the earliest philosophical critiques of genetic engineering from a [[fukuoka-insects-create-new-rice-varieties]], trees crossed with bamboo, and eggplants grown on cucumber vines.
 
@@ -33,7 +33,7 @@ He warned that food would be reduced to synthetic meat-like products created by 
 
 These predictions, written in the 1980s, anticipated debates about lab-grown meat, artificial wombs, and human genetic enhancement that would dominate bioethics decades later.
 
-Fukuoka saw these developments not as progress but as the final stage of humanity's alienation from nature.
+Fukuoka saw these developments not as progress but as the final stage of humanity"s alienation from nature.
 
 ## The Limits of Human Knowledge
 

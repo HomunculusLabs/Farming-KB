@@ -6,7 +6,7 @@ type: comparison
 
 date: 2026-04-25
 updated: 2026-04-25
-sources: ['raw/papers/bill-mollison-permaculture-a-designers-manual-forest-gardens-and-food-forests|bill-mollison-permaculture-a-designers-manual.md']
+sources: ["raw/papers/bill-mollison-permaculture-a-designers-manual-forest-gardens-and-food-forests|bill-mollison-permaculture-a-designers-manual.md']
 tags: [comparison, design, food-forest, permaculture, permaculture", urban-gardening]
 ---
 

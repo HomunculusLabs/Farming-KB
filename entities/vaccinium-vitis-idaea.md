@@ -11,7 +11,6 @@ date: 2026-05-08
 updated: 2026-05-08
 sources:
   - Uleberg, E. et al. (2012). "Effects of temperature and photoperiod on cannabis-vegetative-growth-stage and flowering of Vaccinium vitis-idaea L." Scientia Horticulturae, 140, 66-72.---
----
 
 ## Overview
 

@@ -92,7 +92,7 @@ Not all earth-sheltered housing is fully underground. Surface variants include:
 
 - **Earth-banked structures** — Concrete walls with earth banks built up to the eaves, duplicating cave thermal conditions while maintaining surface access
 - **Hill-stepped houses** — Hillsides are compacted by bulldozer and houses are built with mud walls extending from half-caves carved into the slope
-- **"Turkey's nest" dam houses** — An above-ground dam structure that, when roofed, becomes a cool, flood-safe dwelling
+- **"Turkey"s nest" dam houses** — An above-ground dam structure that, when roofed, becomes a cool, flood-safe dwelling
 
 ## Storage Applications
 

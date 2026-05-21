@@ -4,7 +4,7 @@ source: administrator-microsoft-word-fukuoka-textdoc.md
 type: concept
 ---
 
-## Fukuoka's Vision of the Natural Order, Microbes as Scavengers, and Man as the Sole Heretic
+## Fukuoka"s Vision of the Natural Order, Microbes as Scavengers, and Man as the Sole Heretic
 
 ## The Natural Order
 

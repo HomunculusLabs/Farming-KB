@@ -38,7 +38,7 @@ photographs, which was a distinctive artistic choice for a field guide.
   works by [[r-gordon-wasson]], Atkins, and Smith.
 - The "key" format suggests a taxonomic approach to identification using
   dichotomous or multi-access keys.
-- Enos's work represents the early wave of American psilocybin identification
+- Enos"s work represents the early wave of American psilocybin identification
   literature, produced before comprehensive scientific field guides existed.
 
 ## Relevance to Cultivation and Mycology

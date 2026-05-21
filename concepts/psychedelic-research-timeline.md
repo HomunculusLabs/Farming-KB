@@ -19,7 +19,7 @@ The history of psychedelic research spans nearly a century, from early serendipi
 
 [[albert-hofmann]], a chemist at Sandoz Laboratories in Basel, Switzerland, first synthesizes [[lysergic-acid-diethylamide]] (LSD-25) while researching ergot alkaloids as circulatory and respiratory stimulants. The compound is set aside as unremarkable.
 
-### 1943 — LSD's Psychoactive Effects Discovered
+### 1943 — LSD"s Psychoactive Effects Discovered
 
 On April 16, Hofmann accidentally absorbs a small amount of LSD through his skin and experiences its extraordinary effects. On April 19, he deliberately ingests 250 micrograms (later recognized as a very high dose) and bicycles home in what becomes the most famous bicycle ride in pharmacological history. April 19 is now celebrated as "Bicycle Day" in psychedelic communities.
 
@@ -43,7 +43,7 @@ British psychiatrist [[humphry-osmond]] suggests the term "psychedelic" (Greek: 
 
 ### 1956 — Psilocybin Isolated
 
-Albert Hofmann isolates psilocybin and psilocin from [[psilocybe-mexicana]] mushrooms, specimens collected by R. [[gordon-wasson]] in Mexico. Wasson's 1957 Life magazine article "Seeking the Magic Mushroom" introduces [[psilocybin-mushrooms]] to Western audiences.
+Albert Hofmann isolates psilocybin and psilocin from [[psilocybe-mexicana]] mushrooms, specimens collected by R. [[gordon-wasson]] in Mexico. Wasson"s 1957 Life magazine article "Seeking the Magic Mushroom" introduces [[psilocybin-mushrooms]] to Western audiences.
 
 ### 1950s-1960s — Clinical Psychedelic Therapy Peaks
 
@@ -58,7 +58,7 @@ Over 1,000 clinical papers are published, and approximately 40,000 patients rece
 
 Timothy Leary and Richard Alpert establish the Harvard Psilocybin Project. Their research with graduate students eventually leads to their dismissal from Harvard in 1963.
 
-### 1962 — FDA Approves Sandoz's New Drug Application for LSD
+### 1962 — FDA Approves Sandoz"s New Drug Application for LSD
 
 LSD is legally available to researchers and is used in hundreds of clinical studies across psychiatry, psychology, and neuroscience.
 

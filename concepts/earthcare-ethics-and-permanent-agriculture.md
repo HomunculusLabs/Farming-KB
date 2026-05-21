@@ -6,7 +6,7 @@ type: concept
 
 ## Enlightened Self-Interest and the Foundation of Earthcare Ethics
 
-The ethical framework of [[mycorrhizal-fungi]] on tree roots—a symbiotic relationship where fungal networks extend the root system's reach for nutrients and water in exchange for carbohydrates from the tree. This mutualistic partnership is a model for human social organization.
+The ethical framework of [[mycorrhizal-fungi]] on tree roots—a symbiotic relationship where fungal networks extend the root system"s reach for nutrients and water in exchange for carbohydrates from the tree. This mutualistic partnership is a model for human social organization.
 
 From observing such natural associations, permaculture derives a resolve to cooperate and take support roles within society, fostering interdependence that values each individual's contributions rather than organizing around opposition or competition. This cooperative ethic extends progressively outward: from helping family and friends (which clearly assists personal survival), to recognizing all humankind as family, and ultimately to regarding all life as allied associations sharing common origins.
 
@@ -24,7 +24,7 @@ Characteristic of the prairie, pampas, and modern Western ranches, baronial perm
 
 ### Communal Permanence
 
-Forests represent the oldest form of permanent agriculture, but they require generations of care and knowledge, and therefore a tribal or communal reverence found only in stable communities. This is the model many permaculturalists seek: the ability to plant a pecan or citrus tree in old age and know it will not be cut down by one's children's children. Communal permanence, where land is held in common and needs are met from within the system, is the form most compatible with long-term ecological and social stability.
+Forests represent the oldest form of permanent agriculture, but they require generations of care and knowledge, and therefore a tribal or communal reverence found only in stable communities. This is the model many permaculturalists seek: the ability to plant a pecan or citrus tree in old age and know it will not be cut down by one"s children's children. Communal permanence, where land is held in common and needs are met from within the system, is the form most compatible with long-term ecological and social stability.
 
 The further society departs from communal permanence, the greater the risk of tyranny, feudalism, and revolution—and the more work required for less yield. Any error or disturbance in a simplified system can bring disaster: a drought year in a desert grain crop, or a distant political decision on tariffs can devastate an entire region.
 

@@ -12,7 +12,7 @@ fundamentally dependent on the below-ground environment for their growth,
 development, and survival.
 
 ## Plant Growth Happens at Night
-Here is something most gardeners don't know: the business of construction, of
+Here is something most gardeners don"t know: the business of construction, of
 growth, is mainly done at night. During the daytime, plants store up energy by
 converting sunshine, water, and air (CO₂) into sugar through photosynthesis. They
 burn that sugar as energy to grow during the night. This has important implications
@@ -30,7 +30,7 @@ for [[query-what-is-the-ideal-temperature-range-for-growing-cannabis]] germinati
 This is a counterintuitive but critical fact: watering lowers the soil temperature.
 Many gardeners instinctively water newly planted seeds to "help them germinate,"
 but this can actually delay or prevent germination by cooling the soil below the
-crop's minimum threshold. Once a seed is planted and watered initially, additional
+crop"s minimum threshold. Once a seed is planted and watered initially, additional
 watering should be minimal until seedlings emerge.
 
 ## Oxygen Requirements

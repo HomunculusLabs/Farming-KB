@@ -19,7 +19,7 @@ Casing serves several interconnected functions that collectively promote fruitin
 
 **Microclimate creation**: The casing layer creates a zone of high humidity, moderate temperature, and reduced CO2 concentration at the substrate surface. This microclimate mimics the natural conditions under which mushrooms evolved to fruit — typically in the humid, cool microenvironments of forest floors, rotting logs, or leaf litter.
 
-**Biological buffer**: A properly prepared casing layer contains beneficial bacteria (particularly *Pseudomonas* spp.) that stimulate fruiting and help suppress contaminants. Research has shown that certain bacteria in the casing layer produce [[fruiting-body-development]]. The timing and amount of FAE are critical — too little and mushrooms don't form; too much and primordia desiccate.
+**Biological buffer**: A properly prepared casing layer contains beneficial bacteria (particularly *Pseudomonas* spp.) that stimulate fruiting and help suppress contaminants. Research has shown that certain bacteria in the casing layer produce [[fruiting-body-development]]. The timing and amount of FAE are critical — too little and mushrooms don"t form; too much and primordia desiccate.
 
 - **Light**: While mushrooms are not photosynthetic, most species require some light to initiate and direct fruiting body development. Indirect ambient light or 12 hours of fluorescent light per day is sufficient for most cultivated species. Light direction influences mushroom orientation (phototropism).
 

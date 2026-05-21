@@ -6,7 +6,7 @@ type: entity
 
 ## Overview
 
-J.P. San Antonio is an American mycologist who, in 1971, published a landmark paper describing a laboratory method for obtaining mushroom fruits from cased [[grain-spawn]] of the cultivated mushroom *[[agaricus-bisporus]]*. His technique of growing mycelium on sterilized grain and then applying a [[casing-soil]] layer to induce fruiting became the foundation for the indoor cultivation methods later adapted for *[[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]]* and widely disseminated through the Oss & Oeric *Magic Mushroom Grower's Guide* (1976).
+J.P. San Antonio is an American mycologist who, in 1971, published a landmark paper describing a laboratory method for obtaining mushroom fruits from cased [[grain-spawn]] of the cultivated mushroom *[[agaricus-bisporus]]*. His technique of growing mycelium on sterilized grain and then applying a [[casing-soil]] layer to induce fruiting became the foundation for the indoor cultivation methods later adapted for *[[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]]* and widely disseminated through the Oss & Oeric *Magic Mushroom Grower"s Guide* (1976).
 
 ## Classification
 
@@ -67,7 +67,7 @@ This adaptation involved several modifications:
 
 ## Legacy
 
-San Antonio's cased grain spawn method became the paradigm for small-scale mushroom cultivation that persists to this day. While modern techniques have refined the approach (improved sterile technique, different grain substrates, optimized casing mixtures, monotub and Martha tent fruiting chambers), the fundamental sequence of grain colonization → casing → fruiting remains essentially as San Antonio described it.
+San Antonio"s cased grain spawn method became the paradigm for small-scale mushroom cultivation that persists to this day. While modern techniques have refined the approach (improved sterile technique, different grain substrates, optimized casing mixtures, monotub and Martha tent fruiting chambers), the fundamental sequence of grain colonization → casing → fruiting remains essentially as San Antonio described it.
 
 The method's key insight — that grain could serve as both a nutritious substrate and a delivery mechanism for mycelium, and that a simple soil layer could trigger the complex developmental transition to fruiting — made indoor mushroom cultivation practical for the first time on a small scale.
 

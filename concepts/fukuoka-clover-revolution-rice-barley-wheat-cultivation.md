@@ -8,13 +8,13 @@ type: concept
 
 ## Overview
 
-The clover revolution is [[masanobu-fukuoka]]'s complete method for continuous, no-tillage rice and barley (or wheat) cultivation using direct seeding, straw mulching, and living ground cover — entirely without pesticides, [[fukuoka-textdoc-perennial-rice-biennial-cultivation-exploration]] where both grains are produced on the same land year after year without ever plowing or turning the soil.
+The clover revolution is [[masanobu-fukuoka]]"s complete method for continuous, no-tillage rice and barley (or wheat) cultivation using direct seeding, straw mulching, and living ground cover — entirely without pesticides, [[fukuoka-textdoc-perennial-rice-biennial-cultivation-exploration]] where both grains are produced on the same land year after year without ever plowing or turning the soil.
 
 ## Philosophy of the Clover Revolution
 
 Fukuoka named this the basic pattern of natural rice and barley farming "because I was certain that this technique enabled the farmer for the first time to farm without using any pesticides or [[cannabis-chemical-fertilizers]]."
 
-He also "referred to it also as the 'clover revolution' in rice and barley cropping to voice my opposition to modern [[fukuoka-natural-rice-farming-steps]] began with straw." Straw mulching is the cornerstone of the entire system:
+He also "referred to it also as the "clover revolution' in rice and barley cropping to voice my opposition to modern [[fukuoka-natural-rice-farming-steps]] began with straw." Straw mulching is the cornerstone of the entire system:
 
 - Promotes seed germination by maintaining moisture and temperature.
 - Holds back weeds by blocking sunlight to the soil surface.
@@ -27,7 +27,7 @@ Fukuoka wrote: "Although it may appear crude and backward, spreading fresh straw
 
 No pesticides are used. Period. Fukuoka observed: "After thirty to forty years of farming without pesticides... Provided the farmer is sincere in his efforts to grow healthy crops, there will never be any need for pesticides."
 
-A naturally farmed rice field is a balanced ecosystem teeming with life: Asiatic locusts, tree frogs, dragonflies, ground sparrows, and swallows all populate the field. These organisms form a self-regulating food web that controls pest populations without chemical intervention. Healthy soil grows healthy plants, and healthy plants resist disease naturally. The farmer's role is not to wage war on insects but to cultivate the conditions in which natural balance prevails.
+A naturally farmed rice field is a balanced ecosystem teeming with life: Asiatic locusts, tree frogs, dragonflies, ground sparrows, and swallows all populate the field. These organisms form a self-regulating food web that controls pest populations without chemical intervention. Healthy soil grows healthy plants, and healthy plants resist disease naturally. The farmer"s role is not to wage war on insects but to cultivate the conditions in which natural balance prevails.
 
 ## Levee Management
 

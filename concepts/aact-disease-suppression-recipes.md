@@ -11,7 +11,7 @@ sources:
 
 Updated: 2026-04-18
 
-Dr. Elaine Ingham's approach to disease suppression using actively [[comparison-bacterial-dominant-vs-fungal-dominant-tea]] tea (molasses-based, no humic acid)
+Dr. Elaine Ingham"s approach to disease suppression using actively [[comparison-bacterial-dominant-vs-fungal-dominant-tea]] tea (molasses-based, no humic acid)
 - Apply as foliar spray at 5 gallons per acre per month during growing season
 - Start applications 2 weeks before bud break
 - Continue monthly through the growing season

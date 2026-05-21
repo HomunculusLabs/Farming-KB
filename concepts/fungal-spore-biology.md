@@ -24,7 +24,7 @@ sources:
 
 Fungal spores are the primary vehicles for dispersal, survival, and reproduction in the fungal kingdom. They range from microscopic single cells to elaborate multi-armed structures adapted to specific environments. This page covers spore formation, discharge mechanisms, dispersal strategies, and the remarkable diversity of spore forms documented by [[nicholas-money]] and others.
 
-## Spore Discharge — Buller's Drop
+## Spore Discharge — Buller"s Drop
 
 The spore catapult mechanism (Buller's drop) is one of the most elegant processes in biology, first detailed by A.H.R. Buller in his seven-volume Researches on Fungi:
 
@@ -41,7 +41,7 @@ The spore catapult mechanism (Buller's drop) is one of the most elegant processe
 - Is stimulated by airflow around the fruiting body
 - Creates a "thermal mosaic" on the forest floor, with mushrooms as the coldest inhabitants
 
-The cooling mechanism is essential: if mushrooms warmed, Buller's drops would never form and spores would remain trapped on the gills.
+The cooling mechanism is essential: if mushrooms warmed, Buller"s drops would never form and spores would remain trapped on the gills.
 
 ### Aerodynamics of Mushroom Caps
 
@@ -62,7 +62,7 @@ Gasteromycetes (puffballs, earthstars, phallic fungi) have lost the catapult mec
 
 The loss of water-dependent spore propulsion enables gasteromycetes to colonize drier habitats — sandy soils, deserts — where other basidiomycetes cannot fruit.
 
-## Aquatic Spores — Ingold's Jewels
+## Aquatic Spores — Ingold"s Jewels
 
 C.T. Ingold's pioneering work on aquatic hyphomycetes revealed an astonishing array of spore shapes:
 

@@ -9,7 +9,7 @@ sources:
 ---
 ## Psychedelic Combination Guide
 
-turner-lsd|Turner documents multiple psychedelic combinations and their effects, with important warnings about what works and what doesn't. See also [[beta-carboline-chemistry]] (normally inactive when eaten). N,N-DMT is significantly intensified by Harmala — smoking 15–20 mg while on Harmala produces a much stronger experience. Harmala extends the N,N-DMT experience.
+turner-lsd|Turner documents multiple psychedelic combinations and their effects, with important warnings about what works and what doesn"t. See also [[beta-carboline-chemistry]] (normally inactive when eaten). N,N-DMT is significantly intensified by Harmala — smoking 15–20 mg while on Harmala produces a much stronger experience. Harmala extends the N,N-DMT experience.
 
 - 5-MeO-DMT + Harmala produces the most powerful psychedelic combination but also the highest danger — Turner experienced both his most spectacular journeys and violent purging
 - Some users feel DMT is "warbly" with Harmala and lacks the "Diamond Consciousness" of DMT alone

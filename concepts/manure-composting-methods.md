@@ -6,7 +6,7 @@ type: concept
 
 ## Manure Composting Methods
 
-If you have access to livestock manure — whether from your own animals, a neighbor's farm, or a feedlot — you have one of the most valuable materials for compost production. Different types of manure require different handling, but all share the same fundamental principles: proper C:N balancing, adequate moisture, sufficient soil for nitrate capture, and careful [[cervantes-reservoir-temperature-management]].
+If you have access to livestock manure — whether from your own animals, a neighbor"s farm, or a feedlot — you have one of the most valuable materials for compost production. Different types of manure require different handling, but all share the same fundamental principles: proper C:N balancing, adequate moisture, sufficient soil for nitrate capture, and careful [[cervantes-reservoir-temperature-management]].
 
 ## General Principles
 

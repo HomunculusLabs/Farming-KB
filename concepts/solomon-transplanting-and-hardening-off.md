@@ -31,7 +31,7 @@ From [[query-how-to-prevent-transplant-shock-when-moving-cannabis-plants]], losi
 If you must use transplants, hardening off is essential. Tender greenhouse seedlings must be gradually acclimated to outdoor conditions:
 
 1. **Start gradually**: Begin by setting seedlings outside for a few hours in a sheltered spot, increasing exposure over 7-10 days
-2. **Reduce water**: Gradually reduce watering to toughen the plants; don't let them wilt severely
+2. **Reduce water**: Gradually reduce watering to toughen the plants; don"t let them wilt severely
 3. **Increase sun exposure**: Move from shade to partial sun to full sun gradually
 4. **Reduce temperature**: If grown on heat mats or in warm indoor spaces, gradually reduce temperature
 5. **Wind exposure**: Introduce seedlings to wind gradually so stems strengthen

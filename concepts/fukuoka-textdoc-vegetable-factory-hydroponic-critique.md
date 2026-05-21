@@ -1,5 +1,5 @@
 ---
-title: "Fukuoka's Critique of fukuoka-matsutake-artificial-cultivation-attempt and Hydroponics"
+title: "Fukuoka"s Critique of fukuoka-matsutake-artificial-cultivation-attempt and Hydroponics"
 type: concept
 tags:
   - hydroponics
@@ -13,7 +13,7 @@ sources:
   - microdosing-theory-and-practice of fukuoka-sowing-green-philosophy-one-grain-revolution" (1985)
 ---
 
-## Fukuoka's Critique of Artificial Cultivation and Hydroponics
+## Fukuoka"s Critique of Artificial Cultivation and Hydroponics
 
 Masanobu Fukuoka traced the degradation of agricultural food quality through a progression of increasingly artificial [[fukuoka-textdoc-semi-wild-vegetable-cultivation]] to hothouse horticulture as the first step in agriculture's divorce from nature.
 
@@ -45,7 +45,7 @@ He believed that food quality encompasses dimensions beyond measurable vitamins,
 
 Soil-grown food carries qualities derived from the complex biological community of the living earth — qualities that sterile hydroponic systems cannot replicate.
 
-Nature struck back against artificial cultivation, in Fukuoka's observation, through increased insect damage and disease pressure.
+Nature struck back against artificial cultivation, in Fukuoka"s observation, through increased insect damage and disease pressure.
 
 The sealed sterile chamber is not truly sterile; organisms adapt and infiltrate, often with more virulence than in balanced natural systems.
 

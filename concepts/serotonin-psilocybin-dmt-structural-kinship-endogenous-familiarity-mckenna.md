@@ -19,7 +19,7 @@ consciousness studies.
 
 ## The Three Molecules and Their Structural Relationships
 
-The three key molecules in McKenna's argument share a common indole-ethylamine
+The three key molecules in McKenna"s argument share a common indole-ethylamine
 (tryptamine) backbone but differ at a single positional substituent on the indole
 ring, a difference that has profound consequences for their activity:
 
@@ -51,7 +51,7 @@ McKenna's central pharmacokinetic argument runs as follows: the very fact that D
 onset is so rapid — coming on in forty-five seconds and lasting five minutes —
 means that the brain is "absolutely at home with this compound." He contrasts this
 with LSD, "a hallucinogen like LSD [which] is retained in the body for some time,"
-implying that the body's prolonged processing of LSD reflects a degree of molecular
+implying that the body"s prolonged processing of LSD reflects a degree of molecular
 foreignness that DMT does not share.
 
 The speed of DMT's onset (fifteen to forty-five seconds when smoked) and its brief
@@ -69,7 +69,7 @@ McKenna's implicit comparison extends beyond LSD. The phenethylamine hallucinoge
 mescaline has a notably different onset profile (thirty to sixty minutes) and
 duration (six to ten hours), reflecting its structural distance from serotonin. The
 dissociative anesthetic ketamine, which McKenna alludes to ("the ones of ketamine,
-you'll find, stutter often and are blind"), operates through an entirely different
+you"ll find, stutter often and are blind"), operates through an entirely different
 receptor system (NMDA antagonism) and produces phenomenologically distinct
 experiences that lack the logophoric and entity-contact qualities of the
 tryptamines. McKenna groups these compounds together only to dismiss them: "To
@@ -87,7 +87,7 @@ an inactive compound is moved, the compound becomes highly active." This single-
 atom sensitivity is, for McKenna, "a perfect proof of the dynamic linkage at the
 formative level between quantum mechanically described matter and mind." The
 implication is that consciousness is exquisitely sensitive to molecular geometry
-at the quantum level, and the tryptamine family's minimal structural variations
+at the quantum level, and the tryptamine family"s minimal structural variations
 produce maximal phenomenological differences precisely because they are operating
 at the quantum-mechanical foundation of neural computation.
 

@@ -1,9 +1,9 @@
 ---
 title: Polm Gold - Moroccan Chefchaouen Sativa Hybrid
 concept_type: strain_profile
-source: "S.T. Oner, The Rev's Cannabis Sativa Volume 3: The Essential Guide to the World's Finest Sativa Strains"
+source: "S.T. Oner, The Rev"s Cannabis Sativa Volume 3: The Essential Guide to the World's Finest Sativa Strains"
 source_author: "S.T. Oner"
-source_path: "/Users/t3erpz/Documents/Ebooks/Calibre/S.T. Oner - The Rev's Cannabis Sativa Volume 3 - The Essential Guide to the World's Finest Sativa Strains (Green Candy Press, 2014)/S.T. Oner - The Rev's Cannabis Sativa Volume 3 - The Essential Guide to the World's Finest Sativa Strains (Green Candy Press, 2014).epub"
+source_path: "/Users/t3erpz/Documents/Ebooks/Calibre/S.T. Oner - The Rev"s Cannabis Sativa Volume 3 - The Essential Guide to the World's Finest Sativa Strains (Green Candy Press, 2014)/S.T. Oner - The Rev's Cannabis Sativa Volume 3 - The Essential Guide to the World's Finest Sativa Strains (Green Candy Press, 2014).epub"
 extracted: "2025-05-08"
 type: paper
 format: epub
@@ -16,7 +16,7 @@ aliases: [Polm Gold, Moroccan Chefchaouen, Chefchaouen Sativa]
 
 ## Overview
 
-Polm Gold is a sativa-dominant strain with a unique multinational heritage, created by Spliff Seeds of Holland and grown out by Poland's Satindi Seeds. The strain combines genetics from three distinct lineages: Viking, Early Pearl, and a rare Moroccan landrace from the Chefchaouen region of Northwest Africa. The name "Polm" refers to the traditional Moroccan term for hand-rubbed hashish, connecting this strain to Morocco's centuries-old cannabis culture.
+Polm Gold is a sativa-dominant strain with a unique multinational heritage, created by Spliff Seeds of Holland and grown out by Poland"s Satindi Seeds. The strain combines genetics from three distinct lineages: Viking, Early Pearl, and a rare Moroccan landrace from the Chefchaouen region of Northwest Africa. The name "Polm" refers to the traditional Moroccan term for hand-rubbed hashish, connecting this strain to Morocco's centuries-old cannabis culture.
 
 The Moroccan Chefchaouen parent is particularly significant — Chefchaouen (also known as Chaouen) is a city in the Rif Mountains of Morocco, a region famous for its [[cannabis-terpene-profiles]] and growing characteristics shaped by the Mediterranean [[cannabis-training-techniques]], the plant's natural growth habit would overwhelm most indoor setups.
 

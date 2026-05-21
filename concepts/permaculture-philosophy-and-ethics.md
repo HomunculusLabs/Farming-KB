@@ -13,7 +13,7 @@ Permaculture is not merely a set of agricultural techniques — it is a comprehe
 - The Earth was originally flat, and the Rainbow Serpent shaped it — its body heaping up mountains and digging troughs for rivers
 - The great oval represents the "egg of life" — that quantity of life which cannot be created or destroyed, from which all living things are expressed
 - Within this egg is contained the tree of life, whose roots are in earth and whose crown is in rain, sunlight, and wind
-- The ideal way to spend one's time is in the perfection of the expression of life
+- The ideal way to spend one"s time is in the perfection of the expression of life
 
 This worldview stands in stark contrast to the Western scientific materialism that Mollison critiques. For Aboriginal peoples, life is a totality neither created nor destroyed, and the aim of existence is to develop a conceptual and spiritual life while assisting in and celebrating the existence of all life forms.
 

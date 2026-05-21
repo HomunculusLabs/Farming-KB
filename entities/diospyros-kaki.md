@@ -11,13 +11,12 @@ date: 2026-05-08
 updated: 2026-05-08
 sources:
   - Yamada, M. (2005). "Persimmon cannabis-genetics-and-breeding in Japan." Acta Horticulturae, 685, 51–64.---
----
 
 ## Diospyros kaki
 
 ## Overview
 
-Diospyros kaki, the Japanese persimmon or kaki, is a deciduous tree in the family Ebenaceae widely cultivated for its sweet orange fruit. It is the most economically important species in the genus Diospyros, with China producing approximately 75% of the world's persimmons.
+Diospyros kaki, the Japanese persimmon or kaki, is a deciduous tree in the family Ebenaceae widely cultivated for its sweet orange fruit. It is the most economically important species in the genus Diospyros, with China producing approximately 75% of the world"s persimmons.
 
 The fruit is notable for its high tannin content when unripe, producing an intense astringent sensation. Modern cultivars have been selected for non-astringent characteristics, making the fruit palatable when firm and crisp like an apple.
 

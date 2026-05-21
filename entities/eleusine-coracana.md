@@ -51,7 +51,7 @@ Finger millet is exceptionally nutritious, with high calcium, iron, methionine, 
 
 **Leaves:** Linear-lanceolate, 20–40 cm long, 0.5–1 cm wide, glabrous to pubescent. Ligule short and ciliate. Leaf sheaths are prominent and compressed.
 
-**Inflorescence:** Digitate arrangement of 4–7 spike-like racemes at the terminus of the culm, resembling a bird's foot (hence "finger" millet). Each raceme is 5–15 cm long.
+**Inflorescence:** Digitate arrangement of 4–7 spike-like racemes at the terminus of the culm, resembling a bird"s foot (hence "finger" millet). Each raceme is 5–15 cm long.
 
 **Grain:** Elliptical to rounded, 1.0–1.5 mm diameter, approximately 1000–3000 grains per inflorescence. Seed coat color varies from white through red, brown, to nearly black depending on cultivar. Thousand-grain weight is 2.5–3.5 g.
 

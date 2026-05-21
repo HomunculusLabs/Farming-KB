@@ -27,7 +27,7 @@ Yeast is not a taxonomic group but a growth form. Any fungus that exists predomi
 
 ### Overview
 
-S. cerevisiae (baker's yeast / brewer's yeast) is the most studied and most important yeast species:
+S. cerevisiae (baker"s yeast / brewer's yeast) is the most studied and most important yeast species:
 
 - **Phylum**: [[ascomycota]]
 - **Genome**: 12.1 Mb, ~6,275 genes on 16 chromosomes
@@ -110,7 +110,7 @@ Traditional fermentation methods rely on wild yeasts rather than commercial cult
 - **Lambic beer**: Fermented by wild yeasts and bacteria (Brettanomyces, Pediococcus) in the Senne Valley, Belgium. No added yeast — relies on airborne microflora
 - **Natural wine**: Fermented by indigenous grape yeasts (Hanseniaspora, Candida, then Saccharomyces)
 - **Sourdough bread**: Maintained by wild yeast (often Kazachstania exigua, Pichia kudriavzevii) and [[lactobacillus]] bacteria in a starter culture
-- **Wild fermentation**: Sandor Katz's philosophy — "wild fermentation" as a broader cultural practice
+- **Wild fermentation**: Sandor Katz"s philosophy — "wild fermentation" as a broader cultural practice
 
 ## Industrial Uses of Yeast
 

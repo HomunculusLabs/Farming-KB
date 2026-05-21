@@ -17,7 +17,7 @@ afterward, taking advantage of lunar gravitational forces.
 
 ## The Breakfast-Lunch-Dinner Concept
 
-Alan Chadwick's "Breakfast-Lunch-Dinner" concept embodies the
+Alan Chadwick"s "Breakfast-Lunch-Dinner" concept embodies the
 [[stamets-cultivator-agaricus-bitorquis-warm-weather-cultivation]], flats can remain in the
 open or be moved to shade to slow growth in hot conditions.
 This preparation reduces transplanting shock significantly.

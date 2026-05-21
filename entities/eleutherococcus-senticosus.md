@@ -32,7 +32,7 @@ Chinese medicine (where it is known as ci wu jia) and Russian herbalism.
 - **Authority:** (Rupr. & Maxim.) Maxim.
 - **Synonyms:** Acanthopanax senticosus (Rupr. & Maxim.) Harms
 - **Common names:** [[comparison-panax-ginseng-vs-siberian-ginseng]], eleuthero, touch-me-not,
-  devil's shrub, shigoka (Japanese), ci wu jia (Chinese)
+  devil"s shrub, shigoka (Japanese), ci wu jia (Chinese)
 - **Note:** Despite the common name "ginseng," E. senticosus is not
   closely related to [[iboga-root-bark-preparation]] is brownish-gray with a characteristic aromatic, slightly
 bitter taste. The roots are typically harvested from plants 4–6 years

@@ -26,15 +26,15 @@ Understanding the major categories of mushroom poisoning is essential for safe f
 
 ## Historical Foraging Lore and Myths (Ramsbottom, 1945)
 
-[[john-ramsbottom]]'s 1945 "Poisonous Fungi" systematically debunks centuries of folklore about mushroom safety. Key points relevant to modern foragers:
+[[john-ramsbottom]]"s 1945 "Poisonous Fungi" systematically debunks centuries of folklore about mushroom safety. Key points relevant to modern foragers:
 
 ### Myths That Will Kill You
 - **"Edible mushrooms peel"** — Both the Field Mushroom and the Death Cap peel. This myth caused deaths at Ipswich in 1944 (Ramsbottom).
 - **"Silver spoon turns black"** — Silver blackens from sulphides; no known fungus contains enough sulphur to cause this. Amanita phalloides will not blacken silver.
 - **"Poisonous mushrooms have bright colors"** — Color is irrelevant to toxicity; it merely helps distinguish species.
-- **"Animals won't eat poisonous mushrooms"** — Slugs thrive on Amanita phalloides. Rabbits are immune due to different stomach chemistry.
+- **"Animals won"t eat poisonous mushrooms"** — Slugs thrive on Amanita phalloides. Rabbits are immune due to different stomach chemistry.
 - **"Poisonous fungi grow in woods, edible ones in fields"** — Both deadly and edible species grow in both habitats.
-- **"If the flesh changes color when cut, it's poisonous"** — Color change is a chemical reaction (chromogens + oxidizing enzymes) unrelated to toxicity. Many safe Boletus species turn vivid blue.
+- **"If the flesh changes color when cut, it"s poisonous"** — Color change is a chemical reaction (chromogens + oxidizing enzymes) unrelated to toxicity. Many safe Boletus species turn vivid blue.
 
 ### Historical Poisoning Treatments (Do NOT Use)
 - **Vinegar and salt maceration** (F. Gerard, 1851, Jardin des Plantes, Paris) — claimed to render Amanita phalloides harmless. Gerard is believed to have died testing his own method.
@@ -68,7 +68,7 @@ Amatoxins are miniproteins (peptides) absorbed from the intestine that block pro
 - Liver transplantation may be required in severe cases
 
 ### Historical Note (Ramsbottom, 1945)
-Ramsbottom documented that Amanita phalloides is responsible for over 90% of recorded fatal mushroom poisonings, with fatality rates exceeding 50% (some sources say 90%). The 10-12 hour asymptomatic period is "almost diagnostic." The genus Amanita is defined by white spores, free gills, a ring on the stem, and a volva (wrapper) at the base — though the volva may be underground. The volva's structure determines whether remnants appear as a cup (A. phalloides group) or warts on the cap (A. muscaria group). Early treatment with glucose IV (20-25%) is reported effective in Germany, exploiting the hypoglycaemia caused by liver damage.
+Ramsbottom documented that Amanita phalloides is responsible for over 90% of recorded fatal mushroom poisonings, with fatality rates exceeding 50% (some sources say 90%). The 10-12 hour asymptomatic period is "almost diagnostic." The genus Amanita is defined by white spores, free gills, a ring on the stem, and a volva (wrapper) at the base — though the volva may be underground. The volva"s structure determines whether remnants appear as a cup (A. phalloides group) or warts on the cap (A. muscaria group). Early treatment with glucose IV (20-25%) is reported effective in Germany, exploiting the hypoglycaemia caused by liver damage.
 ### Why the Delay?
 The delayed action of amatoxins means they cannot function as effective deterrents to predators — by the time symptoms appear, the mushroom has already been eaten. The real evolutionary targets are likely developing insect larvae that hatch within the fruiting body tissues. Insect embryos are highly vulnerable due to rapid cell division. Amanitas also produce phallotoxins (not absorbed from the gut) which may serve as additional anti-insect weapons (Money, 2002).
 
@@ -122,7 +122,7 @@ Unlike mushroom toxins produced by fruiting bodies, aflatoxins are synthesized b
 **Important context**:
 - Not all black molds are Stachybotrys — *Cladosporium*, *Penicillium*, *Aspergillus*, and *Alternaria* are far more prevalent in water-damaged homes and do not produce trichothecenes
 - Only some strains of *S. chartarum* produce toxins
-- "If this mold didn't kill you yesterday, it's unlikely that you'll die today" — practical advice from mycologist Susan Kaminskyj
+- "If this mold didn"t kill you yesterday, it's unlikely that you'll die today" — practical advice from mycologist Susan Kaminskyj
 - Treatment: Isolated patches can be treated with diluted bleach, but the underlying moisture source must be fixed or the fungus will return
 - Modern well-insulated homes with polymer wrapping and sealed windows create stale air conditions that promote mold growth
 

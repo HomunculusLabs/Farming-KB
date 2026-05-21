@@ -21,7 +21,7 @@ Genuine shamans displayed personality configurations characterized by:
 - **Creative characteristics** and a high degree of reality testing potential
 - **Capacity to regress in the service of the ego** (in the Kris sense) — meaning they could access altered states of consciousness while maintaining the ability to function effectively upon return
 - **Hysterical signs** present, but combined with keener awareness of peculiarities and more selective theoretical interest
-- When viewed through Devereux's framework of the "ideal psychological normal," shamans more nearly approached normality than their culture mates
+- When viewed through Devereux"s framework of the "ideal psychological normal," shamans more nearly approached normality than their culture mates
 - Ability to use imposture convincingly — a crucial social skill in shamanic performance
 
 ### Pseudoshamans
@@ -32,7 +32,7 @@ Pseudoshamans, by contrast, showed markedly different profiles:
 - Had **variable degrees of reality testing potential**
 - Possessed **impoverished personalities** overall
 - Were generally scorned by the Apache community
-- Could not use imposture convincingly (as noted by Klopfer's indirect data)
+- Could not use imposture convincingly (as noted by Klopfer"s indirect data)
 - Employed solely by the most suggestible individuals in the community
 - Both pseudoshamans who used peyote confessed while intoxicated that they doubted their own claims of supernatural power and consciously sought to deceive others
 

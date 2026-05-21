@@ -40,7 +40,7 @@ The smoke is thick and smooth, expanding considerably in the lungs. Ash is light
 
 Limonene contributes the citrusy sweetness and may enhance mood and stress relief. Caryophyllene adds peppery spice notes and binds to CB2 receptors, potentially contributing anti-inflammatory effects. Myrcene provides the earthy, herbal base and is associated with sedative properties.
 
-**Secondary terpenes** include linalool, humulene, and pinene in trace amounts. The linalollo presence may contribute to the strain's anxiolytic and calming effects.
+**Secondary terpenes** include linalool, humulene, and pinene in trace amounts. The linalollo presence may contribute to the strain"s anxiolytic and calming effects.
 
 **Cannabinoid profile:** THC 20–27%, with exceptional phenotypes reaching 30%. CBD is typically below 0.1%. [[cannabis-chronic-pain-management]], insomnia, muscle spasms, anxiety, [[cannabis-anxiety-and-ptsd-treatment]]:** While high-THC strains can sometimes exacerbate anxiety, the myrcene and linalool content in Animal Cookies may counterbalance this effect for some users, providing anxiolytic relief without excessive cerebral stimulation.
 

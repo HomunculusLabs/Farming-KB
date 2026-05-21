@@ -18,13 +18,13 @@ Mollison distinguishes between two broad categories of resource ownership that a
 
 ## The Five Resource Categories
 
-Mollison's most useful analytical framework classifies resources by their response to use — what happens when we consume or interact with them. This use-and-results approach yields five distinct categories:
+Mollison"s most useful analytical framework classifies resources by their response to use — what happens when we consume or interact with them. This use-and-results approach yields five distinct categories:
 
 ### Category 1: Resources That Increase by Modest Use
 
 These resources become more productive or abundant when used at appropriate levels. Green browse is a primary example: if deer do not browse shrubs, the latter may become woody and unpalatable. A browsed biennial, unable to flower, may tiller out and become perennial. Seedling trees can be maintained at browse height for continued productivity, but if ungrazed will "escape" to unbrowsable height and shade out other palatable plants.
 
-**Information** is another critical resource in this category. Information withers or becomes outdated if not used. Too little information impoverishes a system, but when freely used and exchanged, it flourishes and increases. This principle underpins permaculture's emphasis on knowledge sharing, open-source design, and community education.
+**Information** is another critical resource in this category. Information withers or becomes outdated if not used. Too little information impoverishes a system, but when freely used and exchanged, it flourishes and increases. This principle underpins permaculture"s emphasis on knowledge sharing, open-source design, and community education.
 
 The design implication is clear: identify these resources and ensure they receive regular, moderate use. Both overuse and underuse can degrade them, but modest use stimulates productivity and renewal.
 
@@ -64,7 +64,7 @@ Both an over- and undersupply of resources have much the same effect on system h
 
 ## Infrastructure and Hidden Costs
 
-Mollison illustrates the consequences of ignoring resource management principles with stark economic examples. Superhighways and overpasses in Massachusetts alone need some $400 billion to repair, and the collapsing sewer systems of London and New York need some $80 billion. Neither jurisdiction can raise this money. This demonstrates that an unthinking historical development strategy can cripple a future society. Today's luxuries are tomorrow's disasters.
+Mollison illustrates the consequences of ignoring resource management principles with stark economic examples. Superhighways and overpasses in Massachusetts alone need some $400 billion to repair, and the collapsing sewer systems of London and New York need some $80 billion. Neither jurisdiction can raise this money. This demonstrates that an unthinking historical development strategy can cripple a future society. Today"s luxuries are tomorrow's disasters.
 
 The failure to manage resources wisely brings societies down more surely and permanently than war itself. Programs of highway building and city expansion, the release of persistent biocides, and loss of soil destroy more productive land permanently than the loss of territory to a conqueror. Immorality of this nature is often termed "progress" and "growth" to confuse the ignorant and to supplant local self-reliance for the temporary ends of centralized power.
 

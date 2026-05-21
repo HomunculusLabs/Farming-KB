@@ -7,7 +7,7 @@ tags: [place, deforestation, case-study, hydrology, nevada]
 
 ## Description
 
-Pyramid Lake is a terminal lake on the Paiute [[mescalero-indian-reservation]] in western Nevada, USA, fed by the Truckee River. Mollison cites it as a case study in how upland deforestation combined with river diversion and irrigation can destroy entire lake ecosystems within a single human lifetime. The lake is the geographic remnant of ancient Lake Lahontan and holds deep [[amanita-mushrooms-history-chemistry-and-cultural-significance]] for the Cuiuidika'a band of the Paiute people.
+Pyramid Lake is a terminal lake on the Paiute [[mescalero-indian-reservation]] in western Nevada, USA, fed by the Truckee River. Mollison cites it as a case study in how upland deforestation combined with river diversion and irrigation can destroy entire lake ecosystems within a single human lifetime. The lake is the geographic remnant of ancient Lake Lahontan and holds deep [[amanita-mushrooms-history-chemistry-and-cultural-significance]] for the Cuiuidika"a band of the Paiute people.
 
 ## Classification
 

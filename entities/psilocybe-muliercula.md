@@ -14,7 +14,7 @@ sources: ["raw/papers/world-wide-distribution-of-magic-mushrooms-guzman-allen-&-
 
 ## Taxonomy
 
-*Psilocybe muliercula* was described by Gastón Guzmán as part of his extensive taxonomic work on Mexican Psilocybe species spanning several decades. Guzmán, the world's foremost authority on Psilocybe taxonomy, described dozens of new species from Mexico throughout his career. The specific epithet "muliercula" is derived from Latin, referring to the diminutive or delicate nature of the fruiting bodies. It belongs to the diverse assemblage of Psilocybe species found predominantly in the subtropical and tropical forests of southern Mexico, where the genus reaches its greatest species diversity.
+*Psilocybe muliercula* was described by Gastón Guzmán as part of his extensive taxonomic work on Mexican Psilocybe species spanning several decades. Guzmán, the world"s foremost authority on Psilocybe taxonomy, described dozens of new species from Mexico throughout his career. The specific epithet "muliercula" is derived from Latin, referring to the diminutive or delicate nature of the fruiting bodies. It belongs to the diverse assemblage of Psilocybe species found predominantly in the subtropical and tropical forests of southern Mexico, where the genus reaches its greatest species diversity.
 
 The genus Psilocybe was established by Paul Kummer in 1871 and currently contains over 200 described species worldwide. In the Guzmán, Allen & Gartz (1998) survey, 116 species of Psilocybe were recognized as neurotropic, making it by far the largest genus among the [[field-guide-psilocybin-bluing-reaction-identification]] when the flesh is bruised or damaged.
 

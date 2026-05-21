@@ -27,7 +27,7 @@ related:
 
 [[terence-mckenna]] advanced a provocative argument connecting the purple pigmentation of mushroom spores — particularly those of *[[stropharia-cubensis]]* — to their capacity for ultraviolet (UV) radiation absorption, and from there to a far-reaching claim about their possible extraterrestrial origin.
 
-The argument begins with an observable biological fact and spirals outward into cosmology, panspermia theory, and what McKenna characterized as a "radical hypothesis" about the role of psilocybin-containing mushrooms in the evolution of human consciousness. For McKenna, the humble purple spore became a lens through which to view the largest questions about life's origins.
+The argument begins with an observable biological fact and spirals outward into cosmology, panspermia theory, and what McKenna characterized as a "radical hypothesis" about the role of psilocybin-containing mushrooms in the evolution of human consciousness. For McKenna, the humble purple spore became a lens through which to view the largest questions about life"s origins.
 
 ## The Purple Pigment and Electron Density
 
@@ -50,7 +50,7 @@ McKenna's argument cannot be fully understood in isolation from his broader meta
 
 The spore argument served this larger narrative. If psilocybin mushrooms were not merely terrestrial organisms but cosmic messengers — spores that had traversed interstellar space to find Earth and establish a symbiotic relationship with hominids — then their psychoactive properties took on a different character. They were not accidental neurotoxins co-opted by primate curiosity; they were purposeful technologies of consciousness, delivered by an intelligence operating on a planetary or galactic scale.
 
-This teleological framing is where McKenna's thought departs most sharply from mainstream science. Even researchers sympathetic to panspermia as a biological hypothesis resist the implication that any organism is a deliberately designed tool for modifying the consciousness of another species.
+This teleological framing is where McKenna"s thought departs most sharply from mainstream science. Even researchers sympathetic to panspermia as a biological hypothesis resist the implication that any organism is a deliberately designed tool for modifying the consciousness of another species.
 
 ## Science and Speculation in McKenna's Method
 

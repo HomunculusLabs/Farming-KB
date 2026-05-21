@@ -33,7 +33,7 @@ Black locust is the premier structural tree in American permaculture:
 ### Bamboo
 
 Bamboo offers numerous domestic uses:
-- **Structural uses**: When used as reinforcement in concrete, it achieves two-thirds the strength of steel per diameter. An inch of bamboo replaces a quarter-inch of steel rod. Unlike steel, it doesn't rust in concrete and bonds better.
+- **Structural uses**: When used as reinforcement in concrete, it achieves two-thirds the strength of steel per diameter. An inch of bamboo replaces a quarter-inch of steel rod. Unlike steel, it doesn"t rust in concrete and bonds better.
 - **Construction guidelines**: Cut at two to four years of age, dry for about eight months before use
 - **Additional uses**: Gutters, downpipes, cups, knives, plates
 - **Food value**: Bamboo shoots are excellent food (note: small amounts of sweet shoots can be eaten raw, though there is some risk of cyanide poisoning from uncooked shoots)

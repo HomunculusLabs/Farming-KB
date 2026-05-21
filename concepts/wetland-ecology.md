@@ -11,7 +11,7 @@ sources: []
 
 ## Overview
 
-Wetlands are ecosystems where water saturates the soil for at least part of the growing season, creating conditions favoring hydrophytic (water-adapted) vegetation. Often called "nature's kidneys," wetlands filter water, store floodwaters, and support extraordinary biodiversity. On the homestead, understanding wetland ecology is valuable for [[riparian-zone-restoration]], [[watershed-management]], and [[graywater-systems|greywater]] treatment systems.
+Wetlands are ecosystems where water saturates the soil for at least part of the growing season, creating conditions favoring hydrophytic (water-adapted) vegetation. Often called "nature"s kidneys," wetlands filter water, store floodwaters, and support extraordinary biodiversity. On the homestead, understanding wetland ecology is valuable for [[riparian-zone-restoration]], [[watershed-management]], and [[graywater-systems|greywater]] treatment systems.
 
 ## Wetland Types
 

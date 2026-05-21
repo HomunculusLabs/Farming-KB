@@ -1,5 +1,5 @@
 ---
-title: Fukuoka's Natural Diet and the Philosophy of Food
+title: Fukuoka"s Natural Diet and the Philosophy of Food
 source: administrator-microsoft-word-fukuoka-textdoc.md
 tags: [agriculture, natural-farming, food-philosophy, nutrition, ecology]
 created: 2026-05-09
@@ -63,7 +63,7 @@ A person who eats natural food gradually recovers their innate ability to distin
 
 ## Food and Spiritual Life
 
-For Fukuoka, food was inseparable from spiritual practice. Eating was an act of communion with nature—a recognition that one's body is built from the soil, water, air, and sunlight that produced the food. When food is produced naturally and eaten with gratitude, it nourishes not only the body but the spirit.
+For Fukuoka, food was inseparable from spiritual practice. Eating was an act of communion with nature—a recognition that one"s body is built from the soil, water, air, and sunlight that produced the food. When food is produced naturally and eaten with gratitude, it nourishes not only the body but the spirit.
 
 He contrasted this with the modern attitude toward food as mere "nutrition"—a commodity to be analyzed, optimized, and consumed efficiently. When the consumer can no longer distinguish between "food as the staff of life and food as merely nutrition," the entire relationship between humanity and nature has been corrupted.
 

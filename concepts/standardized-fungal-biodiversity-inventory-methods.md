@@ -24,7 +24,7 @@ Efforts to systematize fungal inventory methods have a long but fragmented histo
 
 - **Stevens (1981)** provided a broader synthesis of approaches for surveying fungi across multiple habitat types, expanding beyond soil to include plant-associated, wood-inhabiting, and coprophilous groups, while also addressing preservation and documentation standards.
 
-- **Rossman et al. (1998)** advanced the agenda significantly through the **All Taxa Biodiversity Inventory (ATBI)** initiated in Costa Rica's Guanacaste Conservation Area, representing one of the most ambitious attempts to survey all fungi within a defined tropical landscape and catalyzing international discussion of [[fungal-inventory-protocols-field-surveys]].
+- **Rossman et al. (1998)** advanced the agenda significantly through the **All Taxa Biodiversity Inventory (ATBI)** initiated in Costa Rica"s Guanacaste Conservation Area, representing one of the most ambitious attempts to survey all fungi within a defined tropical landscape and catalyzing international discussion of [[fungal-inventory-protocols-field-surveys]].
 
 ## The Biodiversity of Fungi Volume
 

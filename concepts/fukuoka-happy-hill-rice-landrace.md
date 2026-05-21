@@ -1,5 +1,5 @@
 ---
-title: fukuoka happy hill rice landrace Rice — Fukuoka's Landrace Grain Variety
+title: fukuoka happy hill rice landrace Rice — Fukuoka"s Landrace Grain Variety
 source: administrator-microsoft-word-fukuoka-textdoc.md
 tags: [farming, rice, landrace, seed-saving, fukuoka, food-security]
 created: 2026-05-08
@@ -9,7 +9,7 @@ created: 2026-05-08
 
 ## Overview
 
-"Happy Hill" was the name [[fukuoka-natural-rice-farming-steps]], such crosses would be considered contamination to be prevented through isolation and careful management. In Fukuoka's system, they were welcomed as a source of genetic diversity and adaptive potential.
+"Happy Hill" was the name [[fukuoka-natural-rice-farming-steps]], such crosses would be considered contamination to be prevented through isolation and careful management. In Fukuoka"s system, they were welcomed as a source of genetic diversity and adaptive potential.
 
 This approach parallels modern understanding of the importance of crop-wild gene flow in maintaining genetic diversity and adaptive capacity in crop populations. Landrace varieties like Happy Hill, which evolve through natural selection in specific environments, often possess greater resilience to pests, diseases, and climate variability than modern uniform cultivars.
 

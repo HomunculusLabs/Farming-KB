@@ -10,7 +10,7 @@ tags: [cultivation, mycology, psilocybin]
 
 ## Gottlieb Psilocybin Cultivation Spore Syringe Preparation
 
-In Gottlieb's "The Psilocybin Producer's Guide" (1976), spore collection
+In Gottlieb"s "The Psilocybin Producer"s Guide" (1976), spore collection
 and preparation is the first step in establishing a psilocybin mycelium
 culture. The guide describes [[growing-gourmet-agar-media-formulas-preparation]].
 All it takes is one mushroom or a few spores to develop a culture that

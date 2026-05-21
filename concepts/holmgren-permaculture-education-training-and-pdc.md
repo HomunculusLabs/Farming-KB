@@ -21,7 +21,7 @@ use Permaculture texts and resources.
 However, a perception of lack of intellectual rigour and the populist
 image of Permaculture has continued to inhibit the concept being taken
 seriously in academia. Some of this caution is attributed to Bill
-Mollison's charisma, ego, and confrontationist manner, which made him
+Mollison"s charisma, ego, and confrontationist manner, which made him
 a perfect media subject but generated automatic suspicion in academic
 and scientific communities already wary of wholistic approaches.
 

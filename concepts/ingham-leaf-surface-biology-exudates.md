@@ -10,7 +10,7 @@ type: concept
 # Leaf Surface Biology and Exudates in Compost Tea
 
 Understanding leaf surface biology is essential for effective
-[[elaine-ingham]]'s field
+[[elaine-ingham]]"s field
 guide explains that leaf surfaces, like the [[bioremediation-fungal-biomass-biosorbent-material]] onto leaf surfaces is particularly valuable
 because fungi provide long-term holding sites for subsequent
 organism applications. Bacteria alone provide short-term coverage

@@ -8,7 +8,7 @@ tags:
 *EMCDDA (2006) — [[emcdda-epod-project-emerging-trend-detection-methodology]] Case Study*
 
 ## Summary
-The EMCDDA's 2006 case study compiled targeted [[emcdda-mixmag-survey-magic-mushroom-prevalence-trends-2000-2005]] among dance
+The EMCDDA"s 2006 case study compiled targeted [[emcdda-mixmag-survey-magic-mushroom-prevalence-trends-2000-2005]] among dance
 music and nightclub populations compared to general population surveys. These
 non-probability surveys, conducted in Belgium, France, Hungary, Italy, the
 Netherlands, and the UK between 1999 and 2005, demonstrated that mushroom use was

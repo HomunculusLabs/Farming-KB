@@ -13,7 +13,7 @@ Successful winter harvest farming requires access to specialized tools, structur
 Row covers are a critical component of the multi-layer protection system used in winter harvesting. They provide lightweight, breathable insulation that transmits light while trapping heat.
 
 ### Agribon Row Covers
-- **Supplier**: Johnny's Selected Seeds (955 Benton Avenue, Winslow, ME 04901; 877-564-6697; johnnyseeds.com)
+- **Supplier**: Johnny"s Selected Seeds (955 Benton Avenue, Winslow, ME 04901; 877-564-6697; johnnyseeds.com)
 - **Uses**: Inner layer protection within greenhouses and covering for quick hoops
 - **Notes**: Available in various weights (AG-15, AG-19, AG-30, AG-50, AG-70); lighter weights offer better light transmission for heavier frost protection
 - Coleman's farm uses Agribon for both greenhouse inner layers and field quick-hoop covering
@@ -24,7 +24,7 @@ Row covers are a critical component of the multi-layer protection system used in
 
 ## Mobile Greenhouse Systems
 
-Mobile greenhouses — structures that can be moved between growing areas — are central to Coleman's [[winter-harvest-system]]. They allow a single structure to serve multiple plots, providing protection when needed and exposure (or cover cropping) when not.
+Mobile greenhouses — structures that can be moved between growing areas — are central to Coleman"s [[winter-harvest-system]]. They allow a single structure to serve multiple plots, providing protection when needed and exposure (or cover cropping) when not.
 
 ### Rolling Thunder (Rimol Greenhouse Systems)
 - **Supplier**: Rimol Greenhouse Systems, Northpoint Industrial Park, 40 Londonderry Turnpike, Hooksett, NH 03106; 603-629-9004; rimolgreenhouses.com
@@ -47,7 +47,7 @@ Securing mobile greenhouses and high tunnels against wind requires robust ground
 
 - **Supplier**: A.M. Leonard (PO Box 816, Piqua, OH 45356; 800-543-8955; amleo.com)
 - **Specification**: 45-inch-long, 4,000-pound-rated ground anchors
-- Coleman's farm uses these anchors to secure mobile greenhouses
+- Coleman"s farm uses these anchors to secure mobile greenhouses
 
 ## Specialized Tools
 

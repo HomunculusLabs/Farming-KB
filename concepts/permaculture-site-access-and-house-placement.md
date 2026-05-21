@@ -6,7 +6,7 @@ type: concept
 
 ## Permaculture Site Access and House Placement
 
-[[site-resources-and-access-placement]] is the first move [[ecological-succession-in-permaculture-design]], followed immediately by house site selection. These two decisions lock in the energy efficiency, maintenance costs, and livability of the entire property for decades or centuries. Get them wrong, and no amount of clever planting or water management can compensate. Mollison's treatment of these topics is characteristically direct: "Placing access is your first move."
+[[site-resources-and-access-placement]] is the first move [[ecological-succession-in-permaculture-design]], followed immediately by house site selection. These two decisions lock in the energy efficiency, maintenance costs, and livability of the entire property for decades or centuries. Get them wrong, and no amount of clever planting or water management can compensate. Mollison"s treatment of these topics is characteristically direct: "Placing access is your first move."
 
 ## The Design Sequence
 
@@ -71,7 +71,7 @@ Mollison identifies two catastrophically bad site placement errors that every de
 Siting on ridges or in saddles exposes the occupant to fire, cold, and relentless wind. The energy costs are enormous and the psychological toll drives rapid property turnover. This is a "type-one error" — a mistake so severe it undermines the entire design.
 
 ### Error 2: Deep Bush Locations
-Placing a house in a tiny clearing surrounded by forest creates immediate and escalating conflict between the occupant and local wildlife. The conservation-minded client who "likes squirrels and chipmunks and beavers" and "doesn't ordinarily shoot them all day long" is transformed:
+Placing a house in a tiny clearing surrounded by forest creates immediate and escalating conflict between the occupant and local wildlife. The conservation-minded client who "likes squirrels and chipmunks and beavers" and "doesn"t ordinarily shoot them all day long" is transformed:
 - Woodchucks race for the garden; wallabies and possums follow
 - The client must kill animals daily to protect crops
 - A nice white pine by the fence prevents growing anything within 40 feet — "So is he going to starve or kill the white pine?"
@@ -90,7 +90,7 @@ When several houses will be built on one property (land trusts, ecovillages, gro
 4. **Place houses on mid-slope positions** — not ridge tops, not valley bottoms
 5. **Stress in the report** that free selection is "just not acceptable"
 
-Mollison's case study of a hippie valley settlement is illustrative: every resident either headed for the ridge or into the bush, creating "a succession of roads going up and down the slope" that were "already starting to gully out." A single mid-slope access road with designated sites would have been "only about a third as long and indefinitely sustainable." As Mollison puts it: "You don't have the right to do that to land. Nobody has the right to do that to land."
+Mollison"s case study of a hippie valley settlement is illustrative: every resident either headed for the ridge or into the bush, creating "a succession of roads going up and down the slope" that were "already starting to gully out." A single mid-slope access road with designated sites would have been "only about a third as long and indefinitely sustainable." As Mollison puts it: "You don"t have the right to do that to land. Nobody has the right to do that to land."
 
 ## Special Features as Resources
 

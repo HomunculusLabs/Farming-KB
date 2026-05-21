@@ -51,7 +51,7 @@ The few no-fertilizer experiments that have been conducted are deeply compromise
 Crops are planted in small earthenware pots or artificial concrete enclosures. The soil in such containers is dead soil — devoid of the [[living-soil-cannabis]].
 
 ### Root Confinement
-The growth of trees whose roots are boxed in by concrete is "highly unnatural." A tree's root system in a pot bears no resemblance to its root system in natural soil, where roots can extend many meters in multiple directions, interacting with countless soil organisms.
+The growth of trees whose roots are boxed in by concrete is "highly unnatural." A tree"s root system in a pot bears no resemblance to its root system in natural soil, where roots can extend many meters in multiple directions, interacting with countless soil organisms.
 
 ### Invalid Extrapolation
 From these impoverished conditions, scientists conclude that plants grown without fertilizer produce only about half as much growth, and that yields are "terrible — on the order of one-third that obtained with fertilizers." But this extrapolation from dead potted soil to living field conditions is methodologically indefensible.

@@ -5,9 +5,9 @@ type: concept
 ---
 ## Christian Ethics vs. Practice
 
-The New Testament advocates love, forgiveness, and non-retaliation — "turning the other cheek," loving one's enemies, and caring for the poor. These teachings, Allegro suggests, may have been genuinely practicable within the small, closed, [[holmgren-ethical-principles-care-earth-people-fair-shares]]? The fact that they function as literary devices or homiletic rhetoric does not itself argue against their validity as moral guidance. But it does complicate the question of their origin and intended scope.
+The New Testament advocates love, forgiveness, and non-retaliation — "turning the other cheek," loving one"s enemies, and caring for the poor. These teachings, Allegro suggests, may have been genuinely practicable within the small, closed, [[holmgren-ethical-principles-care-earth-people-fair-shares]]? The fact that they function as literary devices or homiletic rhetoric does not itself argue against their validity as moral guidance. But it does complicate the question of their origin and intended scope.
 
-"If some aspects of 'Christian' ethic still seem worthwhile today," Allegro asks, "does it add to their authority that they were promulgated two thousand years ago by worshippers of the *Amanita muscaria*?" The question cuts to the heart of the matter: if the entire Christian movement originated in a mushroom cult, as Allegro argues, then the ethical teachings associated with it acquire a very different context and meaning.
+"If some aspects of "Christian' ethic still seem worthwhile today," Allegro asks, "does it add to their authority that they were promulgated two thousand years ago by worshippers of the *Amanita muscaria*?" The question cuts to the heart of the matter: if the entire Christian movement originated in a mushroom cult, as Allegro argues, then the ethical teachings associated with it acquire a very different context and meaning.
 
 He concludes with a characteristically direct challenge: "Does it really matter in the [[sacred-mushroom-and-the-cross]] the Cross* (1970)
 

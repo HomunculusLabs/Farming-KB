@@ -30,13 +30,13 @@ Terence McKenna (1946-2000) was an American ethnobotanist, author, lecturer, and
 
 - **Food of the Gods (1992):** Comprehensive history of psychoactive plants in human civilization, from prehistoric mushroom use to the War on Drugs. Argues that psychoactive plants shaped religion, culture, and even brain evolution.
 - **Stoned Ape Theory:** Hypothesis that psilocybin mushrooms in the early hominid diet catalyzed the expansion of the human brain, development of language, and emergence of religious experience. Low doses increase visual acuity; medium doses increase sexual arousal; high doses dissolve boundaries and promote community bonding.
-- **Psilocybin advocacy:** With brother [[dennis-mckenna]], traveled to the Amazon in 1971, discovered [[psilocybin-mushroom-cultivation]] techniques, and authored "Psilocybin: Magic Mushroom Grower's Guide" (1976) under pseudonyms Oss and Oeric.
+- **Psilocybin advocacy:** With brother [[dennis-mckenna]], traveled to the Amazon in 1971, discovered [[psilocybin-mushroom-cultivation]] techniques, and authored "Psilocybin: Magic Mushroom Grower"s Guide" (1976) under pseudonyms Oss and Oeric.
 - **Novelty Theory / Timewave Zero:** Speculative mathematical model proposing that time has a fractal structure that converges to a point of maximum novelty (originally December 2012).
 - **"The Archaic Revival":** Concept that modern civilization must recover the shamanic, nature-based consciousness of pre-literate peoples to survive.
 
 ## DMT Phenomenology (from "Tryptamine Hallucinogens and Consciousness", 1983/1992)
 
-McKenna's 1983 Esalen lecture provides the most detailed published account of his DMT experiences:
+McKenna"s 1983 Esalen lecture provides the most detailed published account of his DMT experiences:
 
 - **Onset**: 15 seconds after smoking; sound like "ripping cellophane" and an ascending tone
 - **Mode shift**: ~30 seconds; arrival in an "underground, insulated, domed" space (the "merry go raum" from Finnegans Wake)
@@ -67,10 +67,10 @@ From the same lecture, McKenna proposed that Psilocybe cubensis may be an extrat
 
 From the same 1983 Esalen lecture, McKenna presented a detailed argument for panspermia via mushroom spores:
 - **Spore durability:** Stropharia cubensis spores are "deep, deep purple" (optimal UV absorption), with one of the hardest organic casings known — electron density approaches that of a metal
-- **Atmospheric escape:** Spores are light enough for Brownian motion to percolate them to the edge of Earth's atmosphere; interaction with energetic particles could allow escape into space
+- **Atmospheric escape:** Spores are light enough for Brownian motion to percolate them to the edge of Earth"s atmosphere; interaction with energetic particles could allow escape into space
 - **Galactic timescale:** At 1/100th the speed of light, crossing the 100,000 light-year galaxy takes ~100 million years. Life is 1.8 billion years old — eighteen times that duration
 - **Fossil record gap:** No fungi in the fossil record older than 40 million years. Orthodox explanation: fungi are soft-bodied. McKenna's counter: fossilized soft-bodied marine invertebrates exist from over 1 billion years ago in South African gunflint chert
-- **McKenna's own caveat:** "I don't necessarily believe what the mushroom tells me; rather we have a dialogue... When the mushroom began saying it was an extraterrestrial, I felt that I was placed in the dilemma of a child who wishes to destroy a radio to see if there are little people inside."
+- **McKenna's own caveat:** "I don"t necessarily believe what the mushroom tells me; rather we have a dialogue... When the mushroom began saying it was an extraterrestrial, I felt that I was placed in the dilemma of a child who wishes to destroy a radio to see if there are little people inside."
 
 ## Legacy
 

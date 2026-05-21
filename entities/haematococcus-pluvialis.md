@@ -18,7 +18,7 @@ sources:
 
 ## Overview
 
-**Haematococcus pluvialis** is a freshwater unicellular green microalga that is the richest natural source of astaxanthin (3,3'-dihydroxy-beta,beta-carotene-4,4'-dione), accumulating this red ketocarotenoid at up to 4–5% of dry weight. It is the primary commercial source of natural astaxanthin used in aquaculture feed, nutraceuticals, and cosmetics.
+**Haematococcus pluvialis** is a freshwater unicellular green microalga that is the richest natural source of astaxanthin (3,3"-dihydroxy-beta,beta-carotene-4,4'-dione), accumulating this red ketocarotenoid at up to 4–5% of dry weight. It is the primary commercial source of natural astaxanthin used in aquaculture feed, nutraceuticals, and cosmetics.
 
 The species is renowned for its dramatic morphological transition under stress: green motile cells transform into deep-red non-motile cysts packed with astaxanthin. This response is triggered by environmental stressors including high light, nutrient deprivation, and salinity changes.
 

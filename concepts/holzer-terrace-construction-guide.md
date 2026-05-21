@@ -9,7 +9,7 @@ sources:
 ---
 ## Terraces and Paths - Construction Guide
 
-From "Sepp Holzer's Permaculture" by Sepp Holzer.
+From "Sepp Holzer"s Permaculture" by Sepp Holzer.
 
 ## Benefits of Terraces
 

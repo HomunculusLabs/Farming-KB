@@ -6,11 +6,11 @@ type: concept
 
 ## Old World Solanaceous Hallucinogens and Iboga
 
-The nightshade family (Solanaceae) produced some of the most feared and revered hallucinogenic plants in European and Asian history. Belladonna, henbane, mandrake, and datura — the ingredients of medieval witches' brews — contain [[mandrake-mandragora-officinarum-in-european-folklore]]. It entered the mythology of virtually every European people, who feared its deadly power. The attractive, shiny black berries frequently cause accidental poisoning, especially in children. Four species of *Atropa* are distributed from Europe to the Himalayas.
+The nightshade family (Solanaceae) produced some of the most feared and revered hallucinogenic plants in European and Asian history. Belladonna, henbane, mandrake, and datura — the ingredients of medieval witches" brews — contain [[mandrake-mandragora-officinarum-in-european-folklore]]. It entered the mythology of virtually every European people, who feared its deadly power. The attractive, shiny black berries frequently cause accidental poisoning, especially in children. Four species of *Atropa* are distributed from Europe to the Himalayas.
 
 ### Etymology
 
-The name **belladonna** ("beautiful lady" in Italian) derives from a medieval cosmetic practice: Italian women of high society dropped the plant's sap into their eyes to dilate the pupils enormously, producing a glassy, intoxicated stare considered beautiful and sensual in that era.
+The name **belladonna** ("beautiful lady" in Italian) derives from a medieval cosmetic practice: Italian women of high society dropped the plant"s sap into their eyes to dilate the pupils enormously, producing a glassy, intoxicated stare considered beautiful and sensual in that era.
 
 ### Chemistry and Uses
 
@@ -36,7 +36,7 @@ The principal alkaloid is hyoscyamine, with significant amounts of the more hall
 
 ### Cultural Significance
 
-Mandrake possesses perhaps the most extraordinary folklore of any hallucinogenic plant in European history. Its complex history as a "magic hypnotic" is inextricably bound to the **Doctrine of Signatures** — the medieval theory that a plant's appearance reveals its properties. The mandrake root's resemblance to a human form (sometimes male, sometimes female) led to beliefs in its magical powers.
+Mandrake possesses perhaps the most extraordinary folklore of any hallucinogenic plant in European history. Its complex history as a "magic hypnotic" is inextricably bound to the **Doctrine of Signatures** — the medieval theory that a plant"s appearance reveals its properties. The mandrake root's resemblance to a human form (sometimes male, sometimes female) led to beliefs in its magical powers.
 
 ### Folklore
 

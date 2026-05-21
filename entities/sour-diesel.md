@@ -11,7 +11,7 @@ sources:
 
 ## Sour Diesel
 
-**Sour Diesel**, also known as **Sour D** or **Sour Deez**, is a legendary sativa-dominant cannabis cultivar that originated in the early 1990s in New York City. Widely regarded as one of the most influential and commercially successful cannabis strains in modern history, Sour Diesel is celebrated for its pungent, diesel-fuel aroma, its energizing and cerebrally stimulating effects, and its role as a genetic parent in dozens of subsequent elite cultivars. The strain's distinctive chemotype — characterized by high levels of the terpenes caryophyllene, limonene, and myrcene — has made it a benchmark in cannabis quality assessment and a foundational element of East Coast cannabis culture.
+**Sour Diesel**, also known as **Sour D** or **Sour Deez**, is a legendary sativa-dominant cannabis cultivar that originated in the early 1990s in New York City. Widely regarded as one of the most influential and commercially successful cannabis strains in modern history, Sour Diesel is celebrated for its pungent, diesel-fuel aroma, its energizing and cerebrally stimulating effects, and its role as a genetic parent in dozens of subsequent elite cultivars. The strain"s distinctive chemotype — characterized by high levels of the terpenes caryophyllene, limonene, and myrcene — has made it a benchmark in cannabis quality assessment and a foundational element of East Coast cannabis culture.
 
 ## Strain History and Origins
 
@@ -20,7 +20,7 @@ The most widely accepted account traces Sour Diesel's lineage to a cross between
 According to this narrative, the original Sour Diesel phenotype emerged as an accidental pollination in a New York City apartment in the early 1990s, likely around 1991–1993, when Chemdog 91 pollen inadvertently fertilized a neighboring Super Skunk plant.
 The resulting seeds produced a distinctive phenotype that combined the pungent, fuel-like aroma of the Chemdog line with the vigorous growth characteristics and extended flowering time of its sativa-leaning parentage.
 
-An alternative origin story suggests that Sour Diesel may be a phenotype of **Diesel**, itself a descendant of the Chemdog lineage, which was selected and stabilized by a New York grower known by the pseudonym "AJ." In this account, the name "Sour" was appended to distinguish the particularly acrid, sharp-phenotype from other Diesel variations. Regardless of which account is more accurate, there is broad consensus that the Chemdog lineage is the primary genetic contributor to Sour Diesel's unique terpene profile and effects characteristics.
+An alternative origin story suggests that Sour Diesel may be a phenotype of **Diesel**, itself a descendant of the Chemdog lineage, which was selected and stabilized by a New York grower known by the pseudonym "AJ." In this account, the name "Sour" was appended to distinguish the particularly acrid, sharp-phenotype from other Diesel variations. Regardless of which account is more accurate, there is broad consensus that the Chemdog lineage is the primary genetic contributor to Sour Diesel"s unique terpene profile and effects characteristics.
 The strain rapidly gained popularity in the New York City underground cannabis market during the mid-to-late 1990s, where it became the benchmark for premium-quality cannabis and a staple of the East Coast cannabis scene before spreading to the West Coast and eventually achieving global recognition.
 By the early 2000s, Sour Diesel had established itself as one of the most sought-after strains in North America, with individual cuts commanding premium prices in both the underground and early medical cannabis markets.
 Its reputation was further cemented by its prominent appearance in popular culture, including frequent references in hip-hop music and its adoption as a status symbol within cannabis enthusiast communities.
@@ -55,7 +55,7 @@ However, its strong sativa effects and potential to increase anxiety at higher d
 
 Sour Diesel holds a unique position in cannabis culture as one of the defining strains of the pre-legalization era that successfully transitioned into the legal, regulated market.
 Alongside OG Kush and Granddaddy Purple, it is considered one of the "holy trinity" of legacy strains that defined the modern era of cannabis connoisseurship.
-The strain's association with New York City hip-hop culture and the East Coast underground cannabis scene of the 1990s and 2000s has been extensively documented in music, film, and literature.
+The strain"s association with New York City hip-hop culture and the East Coast underground cannabis scene of the 1990s and 2000s has been extensively documented in music, film, and literature.
 It is frequently referenced in hip-hop lyrics, where it is often simply called "Sour" or "Diesel," and its name has become synonymous with premium-quality cannabis in popular culture.
 The strain's commercial success in the regulated market has been consistent, with Sour Diesel products (flower, extracts, and infused products) remaining among the top-selling cannabis products in multiple legal jurisdictions.
 

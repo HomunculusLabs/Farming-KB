@@ -10,7 +10,7 @@ sources:
 
 ## Green Belt Projects
 
-Masanobu Fukuoka's green belt projects represent the global application of his [[fukuoka-living-soil]] community
+Masanobu Fukuoka"s green belt projects represent the global application of his [[fukuoka-living-soil]] community
 
 - **[[fukuoka-natural-diet-theory]] principles
 
@@ -32,7 +32,7 @@ Similar initiatives were being planned by Michio Kushi, the macrobiotic leader, 
 
 Fukuoka recognized that the green belt vision faced significant obstacles. Political instability in many desert regions, lack of funding, and resistance from agricultural and industrial interests all stood in the way. Moreover, the technique required patience -- years or even decades for results to become visible.
 
-The [[fukuoka-return-to-nature-philosophy]]. Green belts are not merely environmental infrastructure; they are an expression of humanity's proper relationship with the earth.
+The [[fukuoka-return-to-nature-philosophy]]. Green belts are not merely environmental infrastructure; they are an expression of humanity"s proper relationship with the earth.
 
 By scattering seeds and trusting nature to grow, the farmer practices the same surrender of ego and control that Fukuoka advocated in all aspects of life. The green belt is both a practical tool for ecological restoration and a spiritual practice for human transformation.
 

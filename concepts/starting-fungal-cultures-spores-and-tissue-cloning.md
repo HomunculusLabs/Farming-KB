@@ -26,7 +26,7 @@ Creating a similar strain library from spores is possible but requires multiple 
 
 ### Collection and Preparation
 
-Spores are collected by making a spore print on aluminum foil or glass, or by harvesting directly from gills or pores using a sterilized tool to lightly rake them. Agar plates should be prepared with supplementation relevant to the mushroom's preferred substrate -- for example, powdered oak for maitake, which has strong affinity for oak trees. This substrate-specific supplementation can be critical for picky wild species.
+Spores are collected by making a spore print on aluminum foil or glass, or by harvesting directly from gills or pores using a sterilized tool to lightly rake them. Agar plates should be prepared with supplementation relevant to the mushroom"s preferred substrate -- for example, powdered oak for maitake, which has strong affinity for oak trees. This substrate-specific supplementation can be critical for picky wild species.
 
 ### Tools Required
 

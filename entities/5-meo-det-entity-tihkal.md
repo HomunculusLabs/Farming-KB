@@ -30,7 +30,7 @@ and diisopropylethylamine (35% yield), and from 5-methoxyindole via the oxalyl
 chloride/LAH reduction sequence (74% yield). The hydrochloride salt has mp
 190-191°C. A byproduct, N-ethylmelatonin, proved extremely difficult to hydrolyze. (see [[tryptamine-family-overview]]).
 
-The compound's designation as "CC" in Shulgin's systematic code reflects its
+The compound"s designation as "CC" in Shulgin"s systematic code reflects its
 position in the matrix of 5-methoxylated tryptamines organized by nitrogen
 substitution. The "CC" indicates two ethyl groups on the nitrogen atom, placing
 it between the dimethyl (BB, 5-MeO-DMT) and diisopropyl (EE, 5-MeO-DIPT)

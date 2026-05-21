@@ -17,13 +17,13 @@ This cuts to the heart of his thesis. Rather than accepting the Gospels as
 straightforward history, Allegro insists they must be subjected to rigorous
 philological analysis. If the Gospels are encoded texts or cryptographic
 literature, they demand an entirely different methodology than conventional
-[[allegro-amanita-muscaria-properties-and-pharmacology]]* mushroom, the cult's true object of veneration. The
+[[allegro-amanita-muscaria-properties-and-pharmacology]]* mushroom, the cult"s true object of veneration. The
 "translations" are deliberate misdirections designed to satisfy casual readers
 while signaling the real meaning to those who possessed the interpretive key.
 
 ## Ideas Over History: The Primacy of the Cult
 
-Allegro's approach inverts conventional scholarship:
+Allegro"s approach inverts conventional scholarship:
 > "In any study of the sources and development of a particular religion, ideas
 > are the vital factor. History takes second place. Even time is relatively
 > unimportant."
@@ -52,7 +52,7 @@ region, not whether it accords with later Church teaching.
 
 The pivotal event is the Jewish Revolt against Rome:
 > "Such an occasion, we believe, was the Jewish Revolt of AD 66."
-This catastrophe shattered Judaism's infrastructure. Jerusalem was ravaged, the
+This catastrophe shattered Judaism"s infrastructure. Jerusalem was ravaged, the
 temple destroyed, the priestly establishment obliterated. The people were
 scattered, many driven to Mediterranean coastlands and beyond. The structures
 that had sustained [[allegro-sacred-prostitute-and-the-mushroom-cult]] — temple priesthood, sectarian
@@ -75,7 +75,7 @@ But the strategy backfired catastrophically:
 > in their thousands."
 
 The [[allegro-new-testament-as-cover-story]] proved insufficient to protect practitioners, yet all too
-effective in concealing the cult's true nature from later generations:
+effective in concealing the cult"s true nature from later generations:
 > "What began as a hoax, became a trap even to those who believed themselves to
 > be the spiritual heirs of the mystery religion."
 

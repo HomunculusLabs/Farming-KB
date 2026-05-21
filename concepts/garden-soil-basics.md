@@ -9,7 +9,7 @@ sources: [raw/papers/gardening-when-it-counts-steve-solomon.md]
 
 # Garden Soil Basics
 
-Soil fundamentals for vegetable gardening, from [[steve-solomon]]'s *[[gardening-when-it-counts]]*. Solomon argues that soil mineral balance directly determines the nutritional quality of your food.
+Soil fundamentals for vegetable gardening, from [[steve-solomon]]"s *[[gardening-when-it-counts]]*. Solomon argues that soil mineral balance directly determines the nutritional quality of your food.
 
 ## The Foundation: Mineral Balance
 
@@ -17,7 +17,7 @@ Plants need far more than just NPK (nitrogen, phosphorus, potassium). They need 
 
 Suppose the soil in your area contains abundant minerals in perfect balance. Then [[composting]] vegetation and applying manure transports those minerals in the right proportions to your garden and increases the overall level. Result: highly nutritious food.
 
-But if the soils in your area do not contain a perfect balance of all essential minerals — and most don't — then simply composting and manuring will not correct the deficiencies. You need targeted mineral amendments.
+But if the soils in your area do not contain a perfect balance of all essential minerals — and most don"t — then simply composting and manuring will not correct the deficiencies. You need targeted mineral amendments.
 
 ## Complete Organic Fertilizer (COF)
 

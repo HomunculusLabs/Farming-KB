@@ -12,7 +12,7 @@ sources:
 
 ## Overview
 
-Terpenes are the aromatic compounds responsible for the distinctive scents and flavors of cannabis. Produced in the plant's trichomes alongside cannabinoids like THC and CBD, terpenes contribute to the "entourage effect" -- the synergistic interaction between multiple cannabis compounds that modulates the overall experience. The terpene profile of a strain is a major determinant of its character, and experienced cultivators and consumers identify strains largely by their scent signatures.
+Terpenes are the aromatic compounds responsible for the distinctive scents and flavors of cannabis. Produced in the plant"s trichomes alongside cannabinoids like THC and CBD, terpenes contribute to the "entourage effect" -- the synergistic interaction between multiple cannabis compounds that modulates the overall experience. The terpene profile of a strain is a major determinant of its character, and experienced cultivators and consumers identify strains largely by their scent signatures.
 
 ## Major Cannabis Terpenes
 

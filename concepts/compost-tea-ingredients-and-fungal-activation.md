@@ -90,7 +90,7 @@ The solution is to pre-activate fungal populations in compost before brewing:
 
 ### Expected Results
 
-After approximately 3 days at 80°F, visible white mycelial threads should cover the compost surface, described as resembling "Santa Claus's beard." After a few more days, the entire compost mass will be glued together by fungal hyphae.
+After approximately 3 days at 80°F, visible white mycelial threads should cover the compost surface, described as resembling "Santa Claus"s beard." After a few more days, the entire compost mass will be glued together by fungal hyphae.
 
 ## Brewing Timeframe and Indicators
 

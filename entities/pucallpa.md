@@ -24,7 +24,7 @@ Pucallpa is a major city in the Peruvian Amazon, situated on the Ucayali River. 
 - Mestizo healers (ayahuasqueros) in Pucallpa gather groups of patients (5-25 people) for healing sessions in clearings at the edge of the city
 - The city serves as a gateway to the central Peruvian Amazon and is home to both indigenous and mestizo populations
 - Pucallpa is accessible by road from Lima (unlike Iquitos, which is river-accessible only), making it a significant point of contact between Amazonian plant medicine traditions and outside visitors
-- The city's healers practice traditional ayahuasca ceremonies including nighttime sessions, communal cup distribution, singing, whistling, and tobacco smoke rituals
+- The city"s healers practice traditional ayahuasca ceremonies including nighttime sessions, communal cup distribution, singing, whistling, and tobacco smoke rituals
 - Pucallpa has become increasingly known internationally as a destination for ayahuasca tourism and ethnopharmacological research
 - The Ucayali River region surrounding Pucallpa is rich in Banisteriopsis species used in ayahuasca preparation
 

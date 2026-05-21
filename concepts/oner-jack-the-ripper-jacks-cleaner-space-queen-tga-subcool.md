@@ -1,5 +1,5 @@
 ---
-title: "Jack the Ripper — Jack's Cleaner × Space Queen (TGA Subcool)"
+title: "Jack the Ripper — Jack"s Cleaner × Space Queen (TGA Subcool)"
 source: "S.T. Oner — The Rev: blesching-cannabis-sativa-indica-classification Vol. 3"
 tags: [cannabis, sativa, strain-profile, jack-herer, space-queen, tga-subcool, thcv, parkinsons, high-thc, medical-sativa]
 ---

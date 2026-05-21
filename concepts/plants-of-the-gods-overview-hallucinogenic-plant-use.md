@@ -27,7 +27,7 @@ fully recognized. Some plants contain [[neurotropic-fungi-chemical-compounds]] c
 inducing altered perceptions -- visual, auditory, tactile, olfactory,
 and gustatory hallucinations -- or causing artificial psychoses that
 have been known and employed in human experience since earliest
-man's experimentation with his ambient vegetation.
+man"s experimentation with his ambient vegetation.
 
 Little wonder that they have long played an important role in the
 religious rites of early civilizations and are still held in veneration

@@ -31,7 +31,7 @@ Under international law, all cannabis is classified as *Cannabis sativa* regardl
 
 **Mexican, Colombian, Thai, and Jamaican strains** can be very potent, with a high THC to CBD ratio that produces a soaring, energetic, "speedy" high. However, potency can also be minimal with low THC levels. Much exported cannabis from these regions is poorly treated throughout life and abused when dried and packed, causing rapid THC degradation.
 
-**Central African sativas**, including the THC-potent 'Congolese', grow similarly to Colombian strains with tall leggy stature, often exceeding 15 feet with loosely packed buds.
+**Central African sativas**, including the THC-potent "Congolese', grow similarly to Colombian strains with tall leggy stature, often exceeding 15 feet with loosely packed buds.
 
 **South African strains** are highly variable due to sailors introducing diverse genetics through major seaports. The famous 'Durban Poison' yields potent, pale-green, early buds and is the best-known South African strain.
 

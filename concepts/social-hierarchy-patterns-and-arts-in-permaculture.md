@@ -76,7 +76,7 @@ The imbalanced sex ratios in these strata create a **genetic turnover or diffusi
 ### Implications for [[permaculture-social-design|Permaculture Social Design]]
 
 - **Resource distribution affects population structure**: The sex ratio differences suggest that resource access fundamentally shapes reproductive and social dynamics
-- **Middle class stability**: The middle stratum's balanced sex ratio and adequate resources create relative social stability
+- **Middle class stability**: The middle stratum"s balanced sex ratio and adequate resources create relative social stability
 - **Mobility mechanisms**: The genetic streaming between levels suggests that rigid social stratification is naturally counteracted by biological forces
 - **Bioregional design**: Social systems should be designed to work with, not against, natural human social dynamics
 
@@ -138,7 +138,7 @@ Mollison identifies several mechanisms of cultural destruction:
 
 > "We most damage ourselves when we destroy information and aids to understanding."
 
-This is not merely a cultural loss — it represents the destruction of functional knowledge systems that sustained human societies for millennia. The sacred calendars melted to bullion, the meaningful patterns reduced to objets d'art, and the song cycles silenced all represent losses of practical ecological knowledge.
+This is not merely a cultural loss — it represents the destruction of functional knowledge systems that sustained human societies for millennia. The sacred calendars melted to bullion, the meaningful patterns reduced to objets d"art, and the song cycles silenced all represent losses of practical ecological knowledge.
 
 ### The Political Dimension
 

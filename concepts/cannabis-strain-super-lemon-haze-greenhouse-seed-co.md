@@ -19,12 +19,12 @@ both recreational and medical consumers.
 
 | Parent | Breeder | Profile |
 |--------|---------|---------|
-| [[super-silver-haze]] | Green House Seed Co. | Legendary hybrid; Neville's Haze × [[cannabis-terpene-profile]] of Lemon Skunk with the
+| [[super-silver-haze]] | Green House Seed Co. | Legendary hybrid; Neville"s Haze × [[cannabis-terpene-profile]] of Lemon Skunk with the
 potency, resin production, and complex effect spectrum of Super Silver Haze — itself
 a three-time [[green-cannabis-grow-bible-seed-selection-and-seed-banks]], founded by Arjan Roskam, is one of the largest and most
 famous seed banks in the world. Operating out of Amsterdam, the company has produced
 numerous award-winning varieties and is described by S.T. Oner as "basically the
-Jay-Z of the seed world." Green House Seed Co's official site is greenhouseseeds.nl.
+Jay-Z of the seed world." Green House Seed Co"s official site is greenhouseseeds.nl.
 
 ## Strain Profile
 

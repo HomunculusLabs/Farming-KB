@@ -6,7 +6,7 @@ type: concept
 
 ## Starting a Natural Farm: Orchard, Garden, and Rice Paddy
 
-[[complete-organic-fertilizer-cof]]. The basic strategy [[mulching-in-natural-farming]], there is no need to go out of one's way to clear steep slope."
+[[complete-organic-fertilizer-cof]]. The basic strategy [[mulching-in-natural-farming]], there is no need to go out of one"s way to clear steep slope."
 
 Because the [[maintaining-organic-matter-in-vegetable-gardens]] deep trenches. Alternatively, pile soil up to create high ridges using soil excavated from contour trenches. Both methods build deep, fertile soil that retains moisture and supports healthy root growth.
 

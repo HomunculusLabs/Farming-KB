@@ -45,7 +45,7 @@ Experiments suggest strands begin to develop in response to **nutrient exhaustio
 - Extremely common in older British buildings.
 - **Never found growing on tree stumps anywhere in the British Isles** — its outdoor biology remains mysterious.
 - Found in forests in India and central Europe.
-- **Bagchee's expeditions (1929–1950s)**: Indian mycologist Bagchee spent more than 20 years searching for the fungus in the western Himalayas (Bagchee, 1954).
+- **Bagchee"s expeditions (1929–1950s)**: Indian mycologist Bagchee spent more than 20 years searching for the fungus in the western Himalayas (Bagchee, 1954).
 
 ### Cultural History
 
@@ -66,7 +66,7 @@ Experiments suggest strands begin to develop in response to **nutrient exhaustio
 
 A landmark legal case (Joseph Glaviano et al. v. Allstate Insurance Co., No. 00-56754, 9th Cir.; 2002):
 
-- The Glavianos' California home was severely damaged by *Meruliporia* — they were unaware until their hardwood floor collapsed, revealing destruction of sub-flooring.
+- The Glavianos" California home was severely damaged by *Meruliporia* — they were unaware until their hardwood floor collapsed, revealing destruction of sub-flooring.
 - Most homeowners' policies contain a **blanket exclusion for dry rot**.
 - The attorneys argued the damage represented a "new and unforeseen disaster deserving special attention."
 - The appeals court ruled that losses due to **"collapse caused by hidden decay"** were covered, prying compensation from Allstate Insurance.

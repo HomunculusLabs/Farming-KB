@@ -97,7 +97,7 @@ The Korean government has listed the species as a "specific wild plant" requirin
 
 In Japan, the species remains relatively common in forest habitats, though populations near urban areas face pressure from land development. It is included in several regional Red Data Books.
 
-Climate change modeling suggests the species' range may shift northward in coming decades, with potential local extinctions in warmer southern portions of its current distribution.
+Climate change modeling suggests the species" range may shift northward in coming decades, with potential local extinctions in warmer southern portions of its current distribution.
 
 Sustainable cultivation for medicinal use has been promoted in Korea and China to reduce pressure on wild populations. Cultivated roots command lower prices but meet quality standards for traditional medicine preparations.
 

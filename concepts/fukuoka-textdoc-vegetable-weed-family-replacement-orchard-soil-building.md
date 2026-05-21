@@ -13,7 +13,7 @@ Fukuoka developed a technique for gradually replacing orchard weeds with food-pr
 
 ## The Principle of Family-Based Replacement
 
-The core insight is botanical: plants of the same family share similar growth habits, root structures, [[query-how-do-fungi-improve-soil-structure]]. Cruciferous weeds that may already be present include wild mustard and shepherd's purse, creating favorable conditions for the cultivated varieties.
+The core insight is botanical: plants of the same family share similar growth habits, root structures, [[query-how-do-fungi-improve-soil-structure]]. Cruciferous weeds that may already be present include wild mustard and shepherd"s purse, creating favorable conditions for the cultivated varieties.
 - **Spring**: Scatter seeds of solanaceous vegetables (Solanaceae family — tomato, eggplant, pepper). These establish as the weather warms and benefit from the nitrogen fixed by winter legumes. Nightshade weeds in the same family may already be present.
 - **Early summer**: Scatter seeds of leguminous vegetables (Fabaceae family — beans, peas, cowpeas, soybeans). These fix atmospheric nitrogen, suppress summer weeds, and enrich the soil with organic matter.
 

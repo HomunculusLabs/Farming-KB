@@ -14,7 +14,7 @@ Commonwork is built on the principle of **functional stacking** — layering mul
 
 A single well-designed site can simultaneously produce:
 
-- Alcohol or biofuel (the investor's return)
+- Alcohol or biofuel (the investor"s return)
 - [[faires-beekeeping-and-honey-production]]
 - Aquaculture
 - Bean [[cover-crops]] leaf production

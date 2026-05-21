@@ -63,7 +63,7 @@ The organic vs synthetic nutrient debate shapes every growing decision on a home
 This is the most significant difference. [[soil-food-web-nutrient-cycling]] organisms — bacteria, fungi, protozoa, nematodes, earthworms — depend on organic matter for food.
 
 - **Organic inputs** feed these organisms. Compost, [[vermicomposting]], [[compost-tea-aact]], and [[knf-preparations]] all support and multiply soil biology. Over time, the soil ecosystem becomes self-regulating.
-- **Synthetic salts** at high EC (>2.0 mS/cm) are osmotic stressors that kill or suppress beneficial microbes. Repeated synthetic use depletes soil biology, creating dependency — plants can't access nutrients without the synthetic solution because the biological bridge is gone.
+- **Synthetic salts** at high EC (>2.0 mS/cm) are osmotic stressors that kill or suppress beneficial microbes. Repeated synthetic use depletes soil biology, creating dependency — plants can"t access nutrients without the synthetic solution because the biological bridge is gone.
 - [[soil-fertility-management]] emphasizes: soil is a living system. Feed the soil, let the soil feed the plant.
 
 ### Cannabis Quality

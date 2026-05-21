@@ -16,7 +16,7 @@ A core Fukuoka principle: "Confusion over diet confuses the body and the mind. I
 
 ## The East-West Reversal
 
-Fukuoka documented a remarkable reversal in dietary patterns. Westerners, once proud meat-eaters, have "taken to vegetarianism" while the Japanese, who traditionally ate rice and vegetables, now eat hamburgers at standup counters. "Confusion over diet has misled people and, once misled, they begin to adopt sumptuous and extravagant eating habits." He connected this dietary shift to civilizational decline: the Japanese "are becoming devotees of science" and their "thinking is being polluted by [[fukuoka-japanese-diet-worse]] was sacred in its simplicity: "The Japanese farmer did not ask what food to grow and eat. He simply harvested and ate what grew naturally in his fields in each passing season. And he cooked this food in accordance with the principles of nature." This was "a 'do-nothing' nature" — "the original way of living in Japan and the proper way of eating (a sacred act)." Fukuoka's prescription: "The question to ask is not what to grow here, but what grows here."
+Fukuoka documented a remarkable reversal in dietary patterns. Westerners, once proud meat-eaters, have "taken to vegetarianism" while the Japanese, who traditionally ate rice and vegetables, now eat hamburgers at standup counters. "Confusion over diet has misled people and, once misled, they begin to adopt sumptuous and extravagant eating habits." He connected this dietary shift to civilizational decline: the Japanese "are becoming devotees of science" and their "thinking is being polluted by [[fukuoka-japanese-diet-worse]] was sacred in its simplicity: "The Japanese farmer did not ask what food to grow and eat. He simply harvested and ate what grew naturally in his fields in each passing season. And he cooked this food in accordance with the principles of nature." This was "a "do-nothing' nature" — "the original way of living in Japan and the proper way of eating (a sacred act)." Fukuoka"s prescription: "The question to ask is not what to grow here, but what grows here."
 
 ## Grain-Eaters vs. Meat-Eaters
 
@@ -24,7 +24,7 @@ Fukuoka drew a broad connection between diet and civilization. "Grain-eating peo
 
 ## Rice, Barley, and Wheat: The Best Crops
 
-Fukuoka championed traditional grains: "Roughly half of the world's population uses wheat as its food staple, while the other half uses rice." He fought against draining rice paddies for citrus groves, arguing that rice, barley, and wheat "give the best yield of food energy from the limited arable land" and "are the most appropriate for Japan's climate." The Japanese farmer must not stop producing these grains — they are the foundation of both physical and cultural health.
+Fukuoka championed traditional grains: "Roughly half of the world"s population uses wheat as its food staple, while the other half uses rice." He fought against draining rice paddies for citrus groves, arguing that rice, barley, and wheat "give the best yield of food energy from the limited arable land" and "are the most appropriate for Japan"s climate." The Japanese farmer must not stop producing these grains — they are the foundation of both physical and cultural health.
 
 ## Historical Context
 

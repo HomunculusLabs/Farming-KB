@@ -8,7 +8,7 @@ sources: ["papers/sepp-holzer-practical-guide.md"]
 ---
 ## Experiences with Different Soil Types and Test Areas
 
-From "Sepp Holzer's Permaculture" by Sepp Holzer.
+From "Sepp Holzer"s Permaculture" by Sepp Holzer.
 
 ## Soil Type Strategies
 

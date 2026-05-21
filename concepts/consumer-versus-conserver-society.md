@@ -19,7 +19,7 @@ Similarly, globalization provides opportunities for "social seeding" to create n
 
 ## Beyond Sustainability
 
-The term "beyond sustainability" in Holmgren's subtitle reflects his argument that sustainability -- maintaining current systems -- is impossible in a context of [[phytochrome-ecological-function-dusk-dawn-red-far-red-light-switch]], and resilience. Holmgren suggests we need to "get over our naive and simplistic notions of sustainability as a likely reality for ourselves or even our grandchildren and instead accept that our task is to use our familiarity with continuous change to adapt to [[arbuscular-mycorrhizal-inoculum-production-best-practices]] with
+The term "beyond sustainability" in Holmgren"s subtitle reflects his argument that sustainability -- maintaining current systems -- is impossible in a context of [[phytochrome-ecological-function-dusk-dawn-red-far-red-light-switch]], and resilience. Holmgren suggests we need to "get over our naive and simplistic notions of sustainability as a likely reality for ourselves or even our grandchildren and instead accept that our task is to use our familiarity with continuous change to adapt to [[arbuscular-mycorrhizal-inoculum-production-best-practices]] with
 creative adaptation to local conditions and emerging challenges.
 
 ## Key Considerations

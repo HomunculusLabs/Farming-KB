@@ -34,7 +34,7 @@ The three parts must be worked through in a specific order: first quality of lif
 
 Three common errors produce what Savory calls "nongoals":
 
-1. **Setting production goals without reference to ecosystem or quality of life**: This is mainstream agriculture's primary error—technologically forcing production at the expense of landscape and community.
+1. **Setting production goals without reference to ecosystem or quality of life**: This is mainstream agriculture"s primary error—technologically forcing production at the expense of landscape and community.
 
 2. **Confusing tools and goals**: Declaring a goal of removing livestock from public lands confuses a tool (rest) with a goal. The landscape goal should come first; then use whatever tools necessary to achieve it.
 

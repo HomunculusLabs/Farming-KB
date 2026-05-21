@@ -11,7 +11,7 @@ Amanita vernus (sometimes written A. vernus or [[amanita-verna]]) is a historica
 
 ## Historical Description
 
-Based on Palmer's and McIlvaine's accounts, A. vernus was characterized by:
+Based on Palmer"s and McIlvaine's accounts, A. vernus was characterized by:
 
 - **Cap**: Pure satiny white, convex to flat, sometimes showing remains of the universal veil as warts or scales
 - **Gills**: White at all stages of growth (a key distinguishing feature from the common mushroom, which has pink or purple gills)
@@ -68,7 +68,7 @@ Modern toxicology has clarified the mechanism that 19th-century physicians obser
 - **Alpha-amanitin** inhibits RNA polymerase II, halting protein synthesis in affected cells
 - The liver is the primary target organ (hepatocytes accumulate the toxin via OATP transporters)
 - The characteristic latent period (6-24 hours) corresponds to the time required for irreversible cellular damage to accumulate
-- The gastrointestinal phase represents the body's response to direct toxin exposure in the GI tract
+- The gastrointestinal phase represents the body"s response to direct toxin exposure in the GI tract
 - The apparent improvement after GI symptoms ("false recovery") precedes fulminant hepatic failure
 
 ### Modern Treatment Protocol

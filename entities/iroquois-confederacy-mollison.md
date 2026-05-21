@@ -8,7 +8,7 @@ type: entity
 
 ## Description
 
-The Iroquois Confederacy (also known as the Haudenosaunee or the League of Five/Six Nations) is a historically significant alliance of Indigenous peoples of northeastern [[guzman-psilocybin-mushrooms-north-america]]. Bill Mollison references the Iroquois in *Permaculture: A Designers' Manual* as a model of sustainable governance and the origin of the "seventh generation" principle, which deeply informs permaculture ethics.
+The Iroquois Confederacy (also known as the Haudenosaunee or the League of Five/Six Nations) is a historically significant alliance of Indigenous peoples of northeastern [[guzman-psilocybin-mushrooms-north-america]]. Bill Mollison references the Iroquois in *Permaculture: A Designers" Manual* as a model of sustainable governance and the origin of the "seventh generation" principle, which deeply informs permaculture ethics.
 
 ## Classification
 
@@ -27,7 +27,7 @@ The Iroquois Confederacy (also known as the Haudenosaunee or the League of Five/
 
 ## Relevance to Cultivation and Mycology
 
-- The seventh generation principle directly informs permaculture's ethical foundation: making decisions that benefit future inhabitants of the land rather than maximising immediate extraction.
+- The seventh generation principle directly informs permaculture"s ethical foundation: making decisions that benefit future inhabitants of the land rather than maximising immediate extraction.
 - The Iroquois practised the "Three Sisters" polyculture — interplanting maize, beans, and squash — one of the most cited examples of [[companion-planting-and-polycultures]] ecological synergy in permaculture literature.
 - Their forest management practices, including controlled burning and selective harvesting, maintained productive ecosystems for centuries.
 - The confederacy's model of decentralised, bioregionally-based governance parallels permaculture's [[bioregional-organisation-mollison]] concept (Chapter 14.5), where local associations manage resources autonomously while cooperating globally.

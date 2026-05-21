@@ -9,7 +9,7 @@ tags: [person, author, ecologist, nutrient-cycling, australia, self-sufficiency]
 
 ## Description
 
-John Seymour (1914-2004) was a British author, smallholder, and ecological thinker referenced by [[bill-mollison]] in *Permaculture: A Designer's Manual* (Chapter 2, Section 2.12). Seymour contributed observations on long-term ecosystem stability and nutrient dynamics in mature natural systems, particularly through his work published in *Ecos* magazine (Summer 1981-82). He is best known in the permaculture context for documenting nutrient loss in aging dune ecosystems at Cooloola, Australia, and more broadly as the author of influential self-sufficiency books.
+John Seymour (1914-2004) was a British author, smallholder, and ecological thinker referenced by [[bill-mollison]] in *Permaculture: A Designer"s Manual* (Chapter 2, Section 2.12). Seymour contributed observations on long-term ecosystem stability and nutrient dynamics in mature natural systems, particularly through his work published in *Ecos* magazine (Summer 1981-82). He is best known in the permaculture context for documenting nutrient loss in aging dune ecosystems at Cooloola, Australia, and more broadly as the author of influential self-sufficiency books.
 
 ## Classification
 
@@ -31,7 +31,7 @@ Seymour documented a critical case study at **Cooloola**, a coastal dune system 
 
 ### Implications for Ecosystem Management
 
-Seymour's work challenged the assumption that mature ecosystems are inherently stable or permanent:
+Seymour"s work challenged the assumption that mature ecosystems are inherently stable or permanent:
 
 1. **No true climax exists** — systems are always in flux due to climatic change, fire, nutrient leaching, and species invasion.
 2. **Very old systems can be fragile** — long-maintained systems may be vulnerable to collapse.

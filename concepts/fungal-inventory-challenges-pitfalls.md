@@ -11,7 +11,7 @@ Comprehensive fungal inventory is among the most difficult tasks in
 biodiversity science. Unlike plants or animals, fungi present unique
 challenges that make complete site surveys nearly impossible. No single
 site on Earth has been comprehensively surveyed for all fungi. The
-protocols in Mueller and Bills' "Biodiversity of Fungi" represent the
+protocols in Mueller and Bills" "Biodiversity of Fungi" represent the
 collective experience of over 88 mycologists, yet knowledge regarding
 fungal sampling remains uneven from habitat to habitat and taxon to
 taxon.

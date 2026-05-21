@@ -68,7 +68,7 @@ Detailed observations from the type locality near Poricko v Pozavi, Sázava Rive
 
 ### Prague Experiments (Gartz, 1980s)
 
-Controlled clinical trials in Prague documented the species' psychoactive effects:
+Controlled clinical trials in Prague documented the species" psychoactive effects:
 
 - **Standard dose**: ~30 mg psilocybin in mushroom tissue prepared in hot water, onset within 10 minutes
 - **Effects profile**: Initial somatic effects (leg tingling, underarm tingling), deeper breathing, fits of laughter from unusual cognitive associations, growing hyperacuity interfering with music perception (Vivaldi's "Springtime" caused "painful stabs inside the brain")

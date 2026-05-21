@@ -11,7 +11,7 @@ type: concept
 Children possess a natural affinity for mushrooms and, under certain conditions,
 demonstrate a remarkable ability to distinguish between edible and poisonous
 species. However, this instinctive discrimination is not infallible and can
-lead to tragic consequences. This concept explores the evidence for children's
+lead to tragic consequences. This concept explores the evidence for children"s
 palate preferences, their capacity for fungal identification, and the critical
 limitations of relying on instinct alone.
 
@@ -30,13 +30,13 @@ the era instructed their preparation.
 
 Nineteenth-century cookbooks routinely disguised mushrooms beneath heavy
 seasonings — excessive spices, garlic, and hot herbs — effectively masking the
-fungus's own delicate flavor. When mushrooms were sent to families entirely
+fungus"s own delicate flavor. When mushrooms were sent to families entirely
 unaccustomed to eating them, the results were revealing: children consistently
 enjoyed them, suggesting that the supposed need to "acquire" a taste for
 mushrooms was an artifact of poor culinary practice rather than any inherent
 unpalatability.
 
-## Case Studies in Children's Mushroom Preferences
+## Case Studies in Children"s Mushroom Preferences
 
 ### The Fairy-Ring Champignon (*Marasmius oreades*)
 
@@ -60,7 +60,7 @@ compelling anecdote, a 21-month-old child, upon being served this mushroom,
 immediately identified it as "fish" — recognizing the similarity in flavor and
 aroma without any prompting or prior exposure.
 
-## Children's Capacity for Species Discrimination
+## Children"s Capacity for Species Discrimination
 
 ### A Promising Young Scholar
 
@@ -79,7 +79,7 @@ distinguish between two visually similar but critically different genera:
 
 ### The Role of Instinct vs. Identification
 
-What made this child's ability particularly striking was her method of
+What made this child"s ability particularly striking was her method of
 discrimination. She did not rely on the standard identifying marks that
 mycologists emphasize — the volva (cup at the base), the ring (annulus on the
 stem), or surface warts — but instead recognized the mushrooms by what Palmer
@@ -95,7 +95,7 @@ operates below the level of conscious analytical identification.
 
 ### A Cautionary Account
 
-Despite the encouraging anecdotes about children's discrimination abilities,
+Despite the encouraging anecdotes about children"s discrimination abilities,
 Palmer related a tragic case from Linden, New Jersey, that serves as a sobering
 counterpoint. An entire family was poisoned after consuming wild-gathered
 mushrooms. The children in this household had gathered mushrooms on three or
@@ -126,7 +126,7 @@ sufficient to deceive even experienced and enthusiastic young foragers.
    guarantee of safety.
 
 4. **Supervision and expert verification remain essential** whenever children
-   interact with wild mushrooms, regardless of the child's apparent skill or
+   interact with wild mushrooms, regardless of the child"s apparent skill or
    enthusiasm.
 
 ## Related Topics

@@ -12,7 +12,7 @@ It would be profitable if one variety of each vegetable could be sold to gardene
 
 When a seedrack jobber operates across a continent and seeks to cut costs, one of the first things sacrificed is any attempt to offer regionally appropriate varieties. The compromise is to offer an assortment that appears to work everywhere — which cannot be done. This is one of the fundamental flaws of garden center seed racks and mass-market seed companies.
 
-The consequence: gardeners in all regions get mediocre results because the varieties were selected for average conditions that don't match any specific location.
+The consequence: gardeners in all regions get mediocre results because the varieties were selected for average conditions that don"t match any specific location.
 
 ## The Four Climate Zones
 

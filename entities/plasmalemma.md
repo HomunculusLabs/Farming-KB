@@ -41,7 +41,7 @@ The plasmalemma contains several classes of embedded proteins, each serving a di
 ### Pump Proteins
 - **Function:** Active transport proteins that use cellular energy (ATP) to move ions and molecules *against* their concentration gradient — from low to high concentration.
 - **Key examples:** H+ ATPase pumps (which create the proton motive force essential for nutrient uptake), Na+/K+ pumps (which maintain ionic balance), and Ca2+ pumps (which maintain low cytoplasmic calcium levels).
-- **Energy cost:** Pump proteins consume a significant portion of the cell's ATP budget, which is why root cells require abundant oxygen for respiration to fuel active nutrient uptake.
+- **Energy cost:** Pump proteins consume a significant portion of the cell"s ATP budget, which is why root cells require abundant oxygen for respiration to fuel active nutrient uptake.
 - **Significance:** The proton pump establishes an electrochemical gradient across the membrane that powers much of the secondary transport (cotransport).
 
 ### Cotransporters (Carrier Proteins)

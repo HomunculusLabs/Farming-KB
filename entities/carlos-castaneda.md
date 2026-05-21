@@ -9,7 +9,7 @@ tags: [person, anthropologist, author, yaqui, shamanism, don-juan, ethnography]
 
 ## Description
 
-Carlos Castaneda (1925-1998) was a Peruvian-American anthropologist and author best known for his series of books documenting his alleged apprenticeship with a Yaqui shaman named Don Juan Matus. His works, beginning with "The Teachings of Don Juan: A Yaqui Way of Knowledge" (1968), became international bestsellers and profoundly influenced Western understanding of shamanism, altered states of consciousness, and indigenous plant medicine. He is cited in the general bibliography of Harner's Hallucinogens and Shamanism as a key reference on shamanic practice and knowledge transmission.
+Carlos Castaneda (1925-1998) was a Peruvian-American anthropologist and author best known for his series of books documenting his alleged apprenticeship with a Yaqui shaman named Don Juan Matus. His works, beginning with "The Teachings of Don Juan: A Yaqui Way of Knowledge" (1968), became international bestsellers and profoundly influenced Western understanding of shamanism, altered states of consciousness, and indigenous plant medicine. He is cited in the general bibliography of Harner"s Hallucinogens and Shamanism as a key reference on shamanic practice and knowledge transmission.
 
 ## Classification
 
@@ -26,7 +26,7 @@ Carlos Castaneda (1925-1998) was a Peruvian-American anthropologist and author b
 - Published "The Teachings of Don Juan: A Yaqui Way of Knowledge" in 1968, based on his UCLA doctoral dissertation
 - Followed with "A Separate Reality: Further Conversations with Don Juan" in 1971, expanding the account of his shamanic training
 - His books describe the use of psychotropic plants including peyote (Lophophora williamsii), Datura (Datura inoxia), and Psilocybe mushrooms in the context of Yaqui shamanic training
-- Cited in Harner's bibliography alongside other foundational works on shamanism and hallucinogenic plant use
+- Cited in Harner"s bibliography alongside other foundational works on shamanism and hallucinogenic plant use
 - His work introduced the concept of a "separate reality" accessible through plant-induced altered states to a mass readership
 - The authenticity of his anthropological fieldwork has been the subject of intense scholarly debate since the 1970s
 - Despite controversy, his books remain among the most widely read accounts of shamanic plant use and have inspired generations of researchers
@@ -36,7 +36,7 @@ Carlos Castaneda (1925-1998) was a Peruvian-American anthropologist and author b
 
 ## Relevance to Cultivation and Mycology
 
-Castaneda's work, while controversial, brought widespread attention to the traditional use of psychoactive plants including Psilocybe mushrooms. His descriptions of mushroom use in shamanic training, though presented in a Yaqui rather than Mazatec context, contributed to the growing interest in ethnomycology and the cultural significance of psychoactive fungi. The popularity of his books created demand for accurate information about mushroom identification, cultivation, and traditional use that helped fuel the expansion of mycological research in the 1970s and beyond.
+Castaneda"s work, while controversial, brought widespread attention to the traditional use of psychoactive plants including Psilocybe mushrooms. His descriptions of mushroom use in shamanic training, though presented in a Yaqui rather than Mazatec context, contributed to the growing interest in ethnomycology and the cultural significance of psychoactive fungi. The popularity of his books created demand for accurate information about mushroom identification, cultivation, and traditional use that helped fuel the expansion of mycological research in the 1970s and beyond.
 
 ## Controversy and Academic Debate
 
@@ -48,7 +48,7 @@ Regardless of their factual status, Castaneda's books had an enormous cultural i
 
 ## Connection to Harner Volume
 
-Castaneda is cited alongside other key ethnographers and researchers in the Harner volume's general bibliography, including Weston La Barre, Richard Evans Schultes, and Marlene Dobkin de Rios. His work represents one pole in the spectrum of approaches to documenting indigenous plant medicine traditions, contrasting with the more strictly ethnographic approach of researchers like Munn and Dobkin de Rios while sharing their focus on the centrality of psychoactive plants in shamanic practice.
+Castaneda is cited alongside other key ethnographers and researchers in the Harner volume"s general bibliography, including Weston La Barre, Richard Evans Schultes, and Marlene Dobkin de Rios. His work represents one pole in the spectrum of approaches to documenting indigenous plant medicine traditions, contrasting with the more strictly ethnographic approach of researchers like Munn and Dobkin de Rios while sharing their focus on the centrality of psychoactive plants in shamanic practice.
 
 ## References
 
@@ -58,7 +58,7 @@ Castaneda is cited alongside other key ethnographers and researchers in the Harn
 - De Mille, R. (1976). Castaneda's Journey: The Power and the Allegory. Capra Press.
 ## Philosophical Themes
 
-Castaneda's work explores several philosophical themes relevant to the study of consciousness and plant medicine. The concept of "stopping the world" describes the suspension of ordinary cognitive frameworks that allows perception of alternative realities. The idea of a "warrior's path" presents disciplined engagement with altered states as a form of spiritual development. The distinction between "ordinary" and "non-ordinary" reality provides a vocabulary for discussing the qualitative difference between everyday consciousness and psychedelic experience. These concepts, regardless of their factual basis, have proven useful frameworks for many researchers and practitioners working with psychoactive substances.
+Castaneda's work explores several philosophical themes relevant to the study of consciousness and plant medicine. The concept of "stopping the world" describes the suspension of ordinary cognitive frameworks that allows perception of alternative realities. The idea of a "warrior"s path" presents disciplined engagement with altered states as a form of spiritual development. The distinction between "ordinary" and "non-ordinary" reality provides a vocabulary for discussing the qualitative difference between everyday consciousness and psychedelic experience. These concepts, regardless of their factual basis, have proven useful frameworks for many researchers and practitioners working with psychoactive substances.
 
 ## See Also
 - [[richard-evans-schultes]]
@@ -67,7 +67,7 @@ Castaneda's work explores several philosophical themes relevant to the study of 
 - [[hallucinogens-and-shamanism]]
 - [[lsd-set-and-setting-framework]]
 
-- Mircea Eliade - whose theoretical framework on shamanism influenced Castaneda's approach
+- Mircea Eliade - whose theoretical framework on shamanism influenced Castaneda"s approach
 - Peter Furst - editor of Flesh of the Gods, the companion volume to Harner
 - Weston La Barre - whose peyote studies parallel Castaneda's work on psychotropic plant use
 - R. Gordon Wasson - whose ethnomycological work provided another model for documenting plant traditions

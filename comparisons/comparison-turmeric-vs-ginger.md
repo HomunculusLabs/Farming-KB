@@ -6,7 +6,6 @@ date: 2026-05-03
 updated: 2026-05-03
 sources:
 type: comparison---
----
 
 ## Turmeric vs Ginger: A Complete Comparison
 

@@ -12,8 +12,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Missouri Botanical Garden. "Morus" genus profile.
-  - Stark Bro's Nurseries. "Mulberry Tree Planting and Care Guide."---
----
+  - Stark Bro"s Nurseries. "Mulberry Tree Planting and Care Guide."---
 
 ## Mulberry Cultivation and Uses
 

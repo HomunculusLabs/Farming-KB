@@ -1,6 +1,6 @@
 ---
 title: "Bloomfield Stinkhorn Egg Stage And Pheromone Dispersal"
-source: Mr. Bloomfield's Orchard - Nicholas P. Money
+source: Mr. Bloomfield"s Orchard - Nicholas P. Money
 tags: [mycology, fungi, bloomfield, stinkhorn, phallus-impudicus, spore-dispersal, insect-pollination, gasteromycetes, basidiomycota]
 created: 2026-05-11
 ---

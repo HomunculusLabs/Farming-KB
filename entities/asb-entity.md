@@ -28,7 +28,7 @@ ASB is one of several [[pihkal-introduction-and-methodology]]
 
 ## Significance
 
-ASB illustrates Shulgin's systematic approach to exploring how increasing the size of alkoxy substituents on the phenethylamine ring affects psychoactive properties. The diethoxy pattern provides insights into the structure-activity relationships within the mescaline series.
+ASB illustrates Shulgin"s systematic approach to exploring how increasing the size of alkoxy substituents on the phenethylamine ring affects psychoactive properties. The diethoxy pattern provides insights into the structure-activity relationships within the mescaline series.
 
 ## Merged: 3 tasb entity
 

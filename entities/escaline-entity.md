@@ -13,7 +13,7 @@ Escaline (3,5-Dimethoxy-4-ethoxyphenethylamine) is a psychedelic phenethylamine 
 
 It is documented as entry #168 in PiHKAL by [[permaculture-designers-manual-essential-oil-plants]] precursors that could theoretically give rise to escaline-like compounds through metabolic amination do exist in nature.
 
-This connects to Shulgin's broader concept of "Essential Amphetamines" that could arise from natural [[dmt-containing-plants-united-states-halpern]], it would likely fall under the Federal Analogue Act.
+This connects to Shulgin"s broader concept of "Essential Amphetamines" that could arise from natural [[dmt-containing-plants-united-states-halpern]], it would likely fall under the Federal Analogue Act.
 
 The compound has been specifically scheduled in some countries as part of broader phenethylamine scheduling.
 

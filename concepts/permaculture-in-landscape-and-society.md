@@ -28,7 +28,7 @@ Around homes, water can be caught for garden use, but humans rely on natural for
 
 ## Four Ethical Statements on Natural Systems
 
-Mollison articulates four foundational ethical statements regarding humanity's relationship with natural systems:
+Mollison articulates four foundational ethical statements regarding humanity"s relationship with natural systems:
 
 1. **Implacable and uncompromising opposition** to further disturbance of any remaining natural forests, where most species are still in balance
 2. **Vigorous rehabilitation** of degraded and damaged natural systems to stable states

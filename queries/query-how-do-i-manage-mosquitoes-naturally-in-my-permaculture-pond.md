@@ -1,5 +1,5 @@
 ---
-title: "Integrated Mosquito Management for bacillus-thuringiensis israelensis for mosquito larval control.' Toxins, 12(12), 772."
+title: "Integrated Mosquito Management for bacillus-thuringiensis israelensis for mosquito larval control." Toxins, 12(12), 772."
 created: 2026-05-07
 type: query
 ---

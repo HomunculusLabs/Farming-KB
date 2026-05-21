@@ -49,7 +49,7 @@ The Tassili paintings are significant not only as early evidence of mushroom use
 
 ## The Tassili-n-Ajjer Plateau
 
-Archaeological evidence for McKenna's speculative ideas can be found in the Sahara Desert of southern Algeria in an area called the Tassili-n-Ajjer Plateau. A curious geological formation, the plateau is like a labyrinth, a vast badlands of stone escarpments that have been cut by the wind into many perpendicular narrow corridors. Aerial photographs give the eerie impression of an abandoned city.
+Archaeological evidence for McKenna"s speculative ideas can be found in the Sahara Desert of southern Algeria in an area called the Tassili-n-Ajjer Plateau. A curious geological formation, the plateau is like a labyrinth, a vast badlands of stone escarpments that have been cut by the wind into many perpendicular narrow corridors. Aerial photographs give the eerie impression of an abandoned city.
 
 In the Tassili-n-Ajjer, rock paintings date from the late Neolithic to as recently as two thousand years ago. Here are the earliest known depictions of shamans with large numbers of grazing cattle. The shamans are dancing with fists full of mushrooms and also have mushrooms sprouting out of their bodies. In one instance they are shown running joyfully, surrounded by the geometric structures of their hallucinations. The pictorial evidence seems incontrovertible.
 

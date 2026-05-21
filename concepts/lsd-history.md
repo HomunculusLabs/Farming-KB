@@ -32,7 +32,7 @@ Lysergic acid diethylamide (LSD) has one of the most consequential histories of 
 
 - **April 16, 1943**: Hofmann, driven by a "peculiar presentiment," resynthesizes LSD-25
 - During the process, he accidentally absorbs a small amount (likely through his skin)
-- **April 19, 1943**: Hofmann deliberately ingests 250 micrograms of LSD (believing this to be a threshold dose) and cycles home with his laboratory assistant — experiencing the world's first intentional LSD trip
+- **April 19, 1943**: Hofmann deliberately ingests 250 micrograms of LSD (believing this to be a threshold dose) and cycles home with his laboratory assistant — experiencing the world"s first intentional LSD trip
 - He perceived "an uninterrupted stream of fantastic images, extraordinary shapes with intense, kaleidoscopic play of colors"
 - This date became known as "Bicycle Day" and is celebrated annually by psychedelic enthusiasts
 
@@ -60,7 +60,7 @@ See [[albert-hofmann]] for full biographical details.
 - **Project Bluebird/Artichoke**: CIA programs (1951-1953) exploring LSD as a truth serum, interrogation tool, and potential mind-control agent
 - **MK-Ultra** (1953-1973): The most notorious CIA program, headed by Sidney Gottlieb, conducted extensive LSD experiments — often on unwitting subjects
   - Experiments included dosing mental patients, prisoners, drug users, sex workers, and even CIA employees
-  - Operation Midnight Climax: CIA set up safe houses in San Francisco, dosed sex workers' clients with LSD, and observed from behind two-way mirrors
+  - Operation Midnight Climax: CIA set up safe houses in San Francisco, dosed sex workers" clients with LSD, and observed from behind two-way mirrors
   - Frank Olson, an Army scientist, was dosed without his knowledge in 1953; he died days later in a fall from a hotel window — officially ruled a suicide, though family and investigators have long suspected foul play
   - MK-Ultra was exposed by the Church Committee in 1975
 - **Military experiments**: The US Army's Edgewood Arsenal conducted LSD experiments on soldiers to assess its potential as a chemical warfare agent
@@ -78,7 +78,7 @@ See [[albert-hofmann]] for full biographical details.
 
 - **1960**: Timothy Leary and Richard Alpert (later Ram Dass) begin psilocybin research at Harvard
 - See [[timothy-leary]] for the full story
-- Leary's enthusiastic promotion of psychedelics and dismissal of academic caution led to his dismissal from Harvard in 1963
+- Leary"s enthusiastic promotion of psychedelics and dismissal of academic caution led to his dismissal from Harvard in 1963
 - Leary became the most visible advocate of LSD, coining the phrase "Turn on, tune in, drop out"
 - His media presence did enormous damage to the legitimacy of psychedelic research
 
@@ -91,7 +91,7 @@ See [[albert-hofmann]] for full biographical details.
 
 ### The Summer of Love and Beyond
 
-- **1967**: The Summer of Love in San Francisco's Haight-Ashbury district
+- **1967**: The Summer of Love in San Francisco"s Haight-Ashbury district
 - **1969**: Woodstock Festival; widespread LSD use at cultural events
 - Psychedelic art, music (the Beatles' "Sgt. Pepper," Jimi Hendrix, the Doors), and literature exploded
 - The link between LSD and anti-war activism concerned the establishment

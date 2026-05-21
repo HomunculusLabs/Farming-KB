@@ -38,7 +38,7 @@ The guide traces hallucinogen use across millennia:
 
 **Ancient civilizations**: Soma in Vedic India; kykeon in Greek Eleusinian mysteries; peyote in North American prehistory; ergot in ancient Greece; Cannabis in Central Asia and China; Datura in both hemispheres.
 
-**Medieval period**: European use of belladonna, henbane, mandrake, and ergot (St. Anthony's Fire); Islamic use of Cannabis (hashish); continued indigenous use in the Americas.
+**Medieval period**: European use of belladonna, henbane, mandrake, and ergot (St. Anthony"s Fire); Islamic use of Cannabis (hashish); continued indigenous use in the Americas.
 
 **Colonial era**: Spanish suppression of indigenous sacraments in Mexico; ethnobotanical documentation by early chroniclers.
 
@@ -64,12 +64,12 @@ The guide concludes with a section on psychopharmacology, noting:
 
 - Some psychiatrists believe mental disorders result from chemical imbalance: "For every twisted thought, there is a twisted molecule"
 - The concept of **model psychoses** -- artificially induced states similar to schizophrenia -- has historical precedent in indigenous healing practices
-- Hallucinogens may have medical value far beyond their psychoactivity (e.g., scopolamine's antispasmodic properties)
+- Hallucinogens may have medical value far beyond their psychoactivity (e.g., scopolamine"s antispasmodic properties)
 - Alteration of CNS function by chemicals is older than written history
 
 ## Schultes's Legacy
 
-Richard Evans Schultes (1915-2001) was the foremost ethnobotanist of the 20th century, spending over a decade in the Amazon studying indigenous plant use. The Golden Guide represents his effort to make this knowledge accessible to a general audience while maintaining scientific rigor. The bibliography reflects Schultes's encyclopedic knowledge, citing works from 1911 through 1973, including Louis Lewin's "Phantastica," Wasson's "Soma: Divine Mushroom of Immortality," Harner's "Hallucinogens and Shamanism," and Schultes's own "The Botany and Chemistry of Hallucinogens" with Albert Hofmann.
+Richard Evans Schultes (1915-2001) was the foremost ethnobotanist of the 20th century, spending over a decade in the Amazon studying indigenous plant use. The Golden Guide represents his effort to make this knowledge accessible to a general audience while maintaining scientific rigor. The bibliography reflects Schultes's encyclopedic knowledge, citing works from 1911 through 1973, including Louis Lewin's "Phantastica," Wasson"s "Soma: Divine Mushroom of Immortality," Harner"s "Hallucinogens and Shamanism," and Schultes"s own "The Botany and Chemistry of Hallucinogens" with Albert Hofmann.
 
 ## Plant Families Rich in Hallucinogens
 

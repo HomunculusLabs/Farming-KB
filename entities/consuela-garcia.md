@@ -9,7 +9,7 @@ tags: [person, curandera, mazatec, salvia-divinorum, shamanism, healer, mexico]
 
 ## Description
 
-Consuela Garcia was a Mazatec curandera (healer) from San Jose Tenango in the Sierra Mazateca of Oaxaca, Mexico. She is notable for performing the first documented ceremony with hojas de la Pastora (leaves of Mary the Shepherdess, later identified as Salvia divinorum) for outsiders, specifically Albert Hofmann, Gordon Wasson, and Hofmann's wife Anita during their 1962 expedition to the Mazatec country. This ceremony, conducted in absolute secrecy, provided crucial confirmation that the hojas de la Pastora were used in the same ceremonial context as the sacred mushrooms teonanacatl.
+Consuela Garcia was a Mazatec curandera (healer) from San Jose Tenango in the Sierra Mazateca of Oaxaca, Mexico. She is notable for performing the first documented ceremony with hojas de la Pastora (leaves of Mary the Shepherdess, later identified as Salvia divinorum) for outsiders, specifically Albert Hofmann, Gordon Wasson, and Hofmann"s wife Anita during their 1962 expedition to the Mazatec country. This ceremony, conducted in absolute secrecy, provided crucial confirmation that the hojas de la Pastora were used in the same ceremonial context as the sacred mushrooms teonanacatl.
 
 ## Classification
 
@@ -23,13 +23,13 @@ Consuela Garcia was a Mazatec curandera (healer) from San Jose Tenango in the Si
 
 - A woman of approximately forty years, described as barefoot like all Indian women in the region
 - Conducted the ceremony in her hut lying solitary on the mountainside above the settlement of San Jose Tenango
-- Required an affirmation of belief ("Do you believe in Christ's blood and the holiness of the rites?") before administering the sacrament
+- Required an affirmation of belief ("Do you believe in Christ"s blood and the holiness of the rites?") before administering the sacrament
 - Used copal incense during the ceremony, filling the hut with its aroma
 - Prepared the magic potion by crushing leaves with a metate (stone grinding plate), squeezing through a fine sieve, and rinsing with water
 - The prepared cups were incensed over the copal vessel with much ceremony before being handed to participants
 - Dosed the leaves in pairs, as with mushrooms, following the magical significance of paired dosing
 - Apportioned six pairs of leaves for herself and Gordon Wasson, three pairs for Anita Hofmann
-- Conducted divination during the ceremony, answering Wasson's inquiry about his daughter's health
+- Conducted divination during the ceremony, answering Wasson"s inquiry about his daughter's health
 - The ceremony was conducted in complete secrecy, with no villagers to see or discover that strangers were admitted
 - Contact was arranged through a confidante of Herlinda Martinez Cid, who led the party along a secret path after nightfall
 - The ceremony was considered a betrayal of sacred customs worthy of punishment if discovered by the community

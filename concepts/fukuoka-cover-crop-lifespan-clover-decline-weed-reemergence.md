@@ -14,7 +14,7 @@ Masanobu Fukuoka provided detailed observations on the natural lifecycle of cove
 
 ## The Clover Lifespan Cycle
 
-Fukuoka's observations were based on decades of managing [[fukuoka-citrus-orchard-establishment-bare-hillside]]:
+Fukuoka"s observations were based on decades of managing [[fukuoka-citrus-orchard-establishment-bare-hillside]]:
 
 - **Years 1-6**: Clover remains hardy and productive, effectively suppressing weeds
 - **Years 7-10**: Growth gradually slows; good management can extend productive life somewhat
@@ -44,7 +44,7 @@ His reasoning was based on several principles:
 
 ## Reading the Soil Through Its Weeds
 
-One of Fukuoka's most important insights was about diagnostic observation:
+One of Fukuoka"s most important insights was about diagnostic observation:
 
 > "One can understand the nature of the soil more quickly by examining the weeds growing in it than by examining the soil itself."
 

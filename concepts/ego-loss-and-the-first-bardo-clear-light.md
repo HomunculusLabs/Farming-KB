@@ -6,7 +6,7 @@ type: concept
 
 ## Overview
 
-The First Bardo ([[chikhai-bardo]]) in the Tibetan Buddhist framework describes the initial phase of [[mckenna-consciousness-expansion-and-drug-war]]: the moment of ego-loss and the encounter with the [[clear-light]]. In Leary's psychedelic adaptation of the *[[bardo-thodol]]*, this phase represents the most critical juncture of the [[leary-psychedelic-experience-bardo-mapping]] — the point at which liberation from game-playing (karmic conditioning) is immediately possible, or from which consciousness descends into increasingly complex hallucinatory states.
+The First Bardo ([[chikhai-bardo]]) in the Tibetan Buddhist framework describes the initial phase of [[mckenna-consciousness-expansion-and-drug-war]]: the moment of ego-loss and the encounter with the [[clear-light]]. In Leary"s psychedelic adaptation of the *[[bardo-thodol]]*, this phase represents the most critical juncture of the [[leary-psychedelic-experience-bardo-mapping]] — the point at which liberation from game-playing (karmic conditioning) is immediately possible, or from which consciousness descends into increasingly complex hallucinatory states.
 
 ## The Doctrine of Immediate Liberation
 
@@ -18,7 +18,7 @@ This represents the highest potential outcome of consciousness expansion: bypass
 
 Liberation is defined with striking precision: "the nervous system devoid of mental-conceptual activity." This is framed not as a mystical abstraction but as a neurological state — the mind in quiescence, alert, awake but not active. The text explicitly connects this to the highest state of *dhyana* (deep meditation) while still united to a human body.
 
-The author draws a remarkable parallel between Buddhist metaphysics and modern astrophysics, citing [[george-gamow]]'s concept of "ylem" — the primordial mixture of dissociated matter that existed before the formation of galaxies, stars, and atoms. At this first point of [[powell-omega-point-and-cosmic-evolution]], there existed "only the Unbecome, the Unborn, the Unformed." The Tibetan Buddhists suggest that the uncluttered intellect can experience what astrophysics confirms theoretically. The cosmological awareness exists in the cortex; neurons "know" because they are linked directly to the process.
+The author draws a remarkable parallel between Buddhist metaphysics and modern astrophysics, citing [[george-gamow]]"s concept of "ylem" — the primordial mixture of dissociated matter that existed before the formation of galaxies, stars, and atoms. At this first point of [[powell-omega-point-and-cosmic-evolution]], there existed "only the Unbecome, the Unborn, the Unformed." The Tibetan Buddhists suggest that the uncluttered intellect can experience what astrophysics confirms theoretically. The cosmological awareness exists in the cortex; neurons "know" because they are linked directly to the process.
 
 The [[buddha-vairochana]], the Dhyani Buddha of the Center, is associated with the "Central Realm of the Densely-Packed" — described as the seed of all universal forces densely packed together. This convergence of modern cosmology and ancient lamaism is presented as requiring no complicated explanation: the awareness is neurologically embedded.
 

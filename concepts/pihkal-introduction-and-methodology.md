@@ -9,7 +9,7 @@ sources: [raw/papers/shulgin-a-pihkal.md]
 
 # PIHKAL Introduction and Methodology
 
-PIHKAL (Phenethylamines I Have Known and Loved: A Chemical Love Story) by Alexander and Ann Shulgin, published by Transform Press, is divided into two books. Book I, "The Love Story," is an autobiographical novel about the Shulgins' relationship and their exploration of psychedelic compounds. Book II, "The Chemical Story," is the compilation of thirty years of Alexander Shulgin's laboratory notes on 179 phenethylamine compounds.
+PIHKAL (Phenethylamines I Have Known and Loved: A Chemical Love Story) by Alexander and Ann Shulgin, published by Transform Press, is divided into two books. Book I, "The Love Story," is an autobiographical novel about the Shulgins" relationship and their exploration of psychedelic compounds. Book II, "The Chemical Story," is the compilation of thirty years of Alexander Shulgin"s laboratory notes on 179 phenethylamine compounds.
 
 ## Book I: The Love Story
 
@@ -21,7 +21,7 @@ The Shulgins' research group of six to eight people gathered at their home. Sash
 
 ### Safety Philosophy
 
-Shulgin's cautionary note states: "No one who is lacking legal authorization should attempt the synthesis of any of the compounds described in these files, with the intent to give them to man. To do so is to risk legal action which might lead to the tragic ruination of a life." He also warned that experimenting on oneself without being familiar with a drug's action is "acting irresponsibly and immorally, whether or not he is doing so within the bounds of the law."
+Shulgin's cautionary note states: "No one who is lacking legal authorization should attempt the synthesis of any of the compounds described in these files, with the intent to give them to man. To do so is to risk legal action which might lead to the tragic ruination of a life." He also warned that experimenting on oneself without being familiar with a drug"s action is "acting irresponsibly and immorally, whether or not he is doing so within the bounds of the law."
 
 ## Book II: The Chemical Story
 

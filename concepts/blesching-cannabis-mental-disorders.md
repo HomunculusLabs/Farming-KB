@@ -16,7 +16,7 @@ type: concept
 
 The relationship between cannabis and mental health is one of the most complex
 and widely debated topics in medical cannabis research. According to Uwe
-Blesching's [[anandamide-bliss-molecule]]")
+Blesching"s [[anandamide-bliss-molecule]]")
 is directly involved in mood regulation, fear responses, and emotional
 processing.
 

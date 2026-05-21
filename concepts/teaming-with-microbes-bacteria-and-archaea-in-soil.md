@@ -33,7 +33,7 @@ right in the rhizosphere where roots can absorb it.
 Individual plants can control the numbers and kinds of bacteria attracted to
 the rhizosphere by the exudates they produce. During different times of the
 [[cannabis-rhizosphere-bacterial-communities]] populations wax and wane depending on
-the plant's nutrient needs.
+the plant"s nutrient needs.
 
 ## Feeding Mechanisms
 

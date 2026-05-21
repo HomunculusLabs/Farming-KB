@@ -9,11 +9,11 @@ sources:
 ---
 ## Hekatonkephalos and the Narkissos — Narcotic Flower of Persephone
 
-**Source:** The [[greek-wine-and-herbal-inebriants]] in Greek religion. The act of picking the flower was not mere decoration of the myth but encoded the pharmacological reality: the flower was a psychoactive or narcotic plant that facilitated Persephone's transition to the underworld.
+**Source:** The [[greek-wine-and-herbal-inebriants]] in Greek religion. The act of picking the flower was not mere decoration of the myth but encoded the pharmacological reality: the flower was a psychoactive or narcotic plant that facilitated Persephone"s transition to the underworld.
 
 ## Pre-Greek Etymology
 
-"All Greek words ending in –issos derive from the language spoken by the agrarian cultures dwelling in the Greek lands before the coming of the migrating Indo-European Greeks." This places the narkissos in the pre-Hellenic botanical vocabulary — the language of the people who may have originally established the [[persephone-abduction-and-narkissos]] is further reinforced by the flower's chthonic associations in Greek botany. Narcissus species contain lycorine and other Amaryllidaceae alkaloids with genuine pharmacological activity, including emetic, analgesic, and potentially psychoactive properties. The ancient Greeks' association of the flower with narcosis may thus reflect empirical observation of its physiological effects rather than purely symbolic reasoning.
+"All Greek words ending in –issos derive from the language spoken by the agrarian cultures dwelling in the Greek lands before the coming of the migrating Indo-European Greeks." This places the narkissos in the pre-Hellenic botanical vocabulary — the language of the people who may have originally established the [[persephone-abduction-and-narkissos]] is further reinforced by the flower"s chthonic associations in Greek botany. Narcissus species contain lycorine and other Amaryllidaceae alkaloids with genuine pharmacological activity, including emetic, analgesic, and potentially psychoactive properties. The ancient Greeks' association of the flower with narcosis may thus reflect empirical observation of its physiological effects rather than purely symbolic reasoning.
 
 In Eleusinian art, the narkissos appears in scenes of the abduction, where its extraordinary "hundred-headed" form serves as a visual marker of the flower's supernatural nature. The artistic tradition consistently depicts the narkissos as larger, more elaborate, and more colorful than ordinary flowers, emphasizing its role as a divine lure rather than a natural plant.
 

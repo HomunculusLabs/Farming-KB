@@ -40,7 +40,7 @@ All represent disaster in every dimension.
 Even the plants developed by indigenous peoples are being lost as store foods replace desert foods. Examples include:
 
 - **Papago and Hopi Indians** — developed numerous desert-adapted crop varieties now being lost
-- **Sho-shone Indians of Nevada** — gathered, in about 6 days, a year's supply of *[[permaculture]] designers, small intensive trial systems within and around settlements are the essential precursors to wider Zone 2 and 3 trials along favourable corridors of better soils and water. The approach involves:
+- **Sho-shone Indians of Nevada** — gathered, in about 6 days, a year"s supply of *[[permaculture]] designers, small intensive trial systems within and around settlements are the essential precursors to wider Zone 2 and 3 trials along favourable corridors of better soils and water. The approach involves:
 
 - Selecting existing plants
 - Adding new species for the area

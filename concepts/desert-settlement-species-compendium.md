@@ -6,7 +6,7 @@ type: concept
 
 ## Desert Settlement Species Compendium
 
-This compendium consolidates the species recommended for desert and arid-zone settlement gardens, orchards, and broadscale plantings. It draws from Mollison's fieldwork at Aboriginal settlements in central Australia and complementary tropical and coastal trials.
+This compendium consolidates the species recommended for desert and arid-zone settlement gardens, orchards, and broadscale plantings. It draws from Mollison"s fieldwork at Aboriginal settlements in central Australia and complementary tropical and coastal trials.
 
 ## Established Tree Crops
 

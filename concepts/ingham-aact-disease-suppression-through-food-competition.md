@@ -1,5 +1,5 @@
 ---
-title: "Elaine Ingham's AACT aact-disease-suppression-mechanisms-ingham Through Food Competition and Niche Exclusion"
+title: "Elaine Ingham"s AACT aact-disease-suppression-mechanisms-ingham Through Food Competition and Niche Exclusion"
 tags:
   - soil-biology
   - compost-tea

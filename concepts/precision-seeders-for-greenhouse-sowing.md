@@ -6,7 +6,7 @@ type: concept
 
 ## Precision Seeders for Greenhouse Sowing
 
-Precision seeders are essential tools for intensive greenhouse [[coleman-french-historical-winter-vegetable-production]], enabling growers to maximize yield per [[comparison-biointensive-vs-square-foot-gardening]] by placing seeds at optimal spacing. [[eliot-coleman]]'s experience at [[four-season-farm]] demonstrates that switching from single-row and homemade multi-row seeders to precision models practically doubled yields per square foot.
+Precision seeders are essential tools for intensive greenhouse [[coleman-french-historical-winter-vegetable-production]], enabling growers to maximize yield per [[comparison-biointensive-vs-square-foot-gardening]] by placing seeds at optimal spacing. [[eliot-coleman]]"s experience at [[four-season-farm]] demonstrates that switching from single-row and homemade multi-row seeders to precision models practically doubled yields per square foot.
 
 ## The Pinpoint Seeder
 

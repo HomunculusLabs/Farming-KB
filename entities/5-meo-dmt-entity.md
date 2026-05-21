@@ -2,7 +2,7 @@
 title: "5-MeO-DMT" type: chemical tags: [chemical, tryptamine, psychedelic, entheogen, compound, toad-venom, synthetic] date: 2026-04-28 updated: 2026-04-28 sources: - "General pharmacological and ethnobotanical knowledge"
 created: 2026-04-28
 type: entity
-sources: ['raw/papers/leary-t-the-psychedelic-experience.md']
+sources: ["raw/papers/leary-t-the-psychedelic-experience.md']
 tags: []
 updated: 2026-05-06
 ---

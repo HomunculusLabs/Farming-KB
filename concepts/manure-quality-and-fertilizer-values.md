@@ -12,7 +12,7 @@ Manure is one of the oldest and most widely used garden fertilizers, but its val
 
 ## The Core Problem: Unpredictable Quality
 
-The fundamental challenge with manure is that you rarely know what you're getting. Unlike bagged fertilizer with a guaranteed analysis, manure's [[solomon-manure-quality-variable-nutrient-content-horse-steer-chicken]] depends on factors entirely outside the gardener's control. Two loads of "horse manure" can differ by 200-300% in nitrogen content alone.
+The fundamental challenge with manure is that you rarely know what you"re getting. Unlike bagged fertilizer with a guaranteed analysis, manure's [[solomon-manure-quality-variable-nutrient-content-horse-steer-chicken]] depends on factors entirely outside the gardener's control. Two loads of "horse manure" can differ by 200-300% in nitrogen content alone.
 
 ### Factors Affecting Manure Quality
 
@@ -71,7 +71,7 @@ Solomon illustrates the variability problem with two neighboring horse manure so
 
 Both are "horse manure." Both are free or cheap. One grows food; the other barely sustains ornamentals.
 
-## Solomon's Recommendation: Minimal Manure, Maximum COF
+## Solomon"s Recommendation: Minimal Manure, Maximum COF
 
 Given the unpredictability of manure quality, Solomon recommends:
 

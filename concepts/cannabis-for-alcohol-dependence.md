@@ -14,7 +14,7 @@ Alcohol abuse is one of the most common [[blesching-cannabis-health-index-autoim
 
 ## Clinical Case Study Evidence
 
-In 1970, Tod H. Mikuriya, MD, published a case involving an alcohol-dependent patient who significantly benefited from cannabis' ability to reduce his alcohol consumption. Thirty-four years later, Dr. Mikuriya followed up with a larger study incorporating 92 alcoholic patients.
+In 1970, Tod H. Mikuriya, MD, published a case involving an alcohol-dependent patient who significantly benefited from cannabis" ability to reduce his alcohol consumption. Thirty-four years later, Dr. Mikuriya followed up with a larger study incorporating 92 alcoholic patients.
 
 Of the 92 patients, 45 found cannabis treatment "very effective" for reducing alcohol consumption, 38 found it "effective," and 9 patients reported they had been able to give up alcohol altogether. These results suggest that cannabis may serve as a [[cannabis-endocannabinoid-system]] for reward pathway mechanisms
 

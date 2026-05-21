@@ -21,7 +21,7 @@ type: concept
 
 ## The Original Vision: Nature Plants Without Sowing
 
-Fukuoka's journey toward perennial rice cultivation began with a simple observation. While traveling in Kochi Prefecture as an agricultural researcher investigating how summer and fall leafhoppers overwinter, he noticed rice seed that had shattered naturally from the plant in autumn was still attached to rice straw in the fields, and some of this seed had germinated and produced new shoots.
+Fukuoka"s journey toward perennial rice cultivation began with a simple observation. While traveling in Kochi Prefecture as an agricultural researcher investigating how summer and fall leafhoppers overwinter, he noticed rice seed that had shattered naturally from the plant in autumn was still attached to rice straw in the fields, and some of this seed had germinated and produced new shoots.
 
 This realization — that nature itself "plants without sowing seed" — was his first step toward natural rice cropping, challenging the assumption that rice must be sown by human hands each spring.
 
@@ -29,11 +29,11 @@ This realization — that nature itself "plants without sowing seed" — was his
 
 The challenge was formidable. In nature, rice grain ripens in the autumn and falls to the ground as the plant withers and dies. But the chances of a seed surviving intact until the following spring are less than one in a million.
 
-Almost all are consumed by birds and rodents or destroyed by disease. Nature, in Fukuoka's words, "can be a very cruel world." Of the thousands of seeds a single rice plant produces, perhaps only one or two will survive the winter.
+Almost all are consumed by birds and rodents or destroyed by disease. Nature, in Fukuoka"s words, "can be a very cruel world." Of the thousands of seeds a single rice plant produces, perhaps only one or two will survive the winter.
 
 However, the vast quantity of grain appearing as unnecessary waste serves an important purpose by providing food for insects and small animals during winter months. This [[savory-perennial-grass-and-desertification]], growing back from its own root system after each harvest, much of this energy expenditure would become unnecessary.
 
-He believed the idea definitely warranted investigation in warmer parts of Japan and in certain other countries where frost does not prevent overwintering. [[emcdda-return-to-nature-megatrend-mushroom-appeal]]. Sowing today's improved seed by a method that approximates nature is itself unnatural.
+He believed the idea definitely warranted investigation in warmer parts of Japan and in certain other countries where frost does not prevent overwintering. [[emcdda-return-to-nature-megatrend-mushroom-appeal]]. Sowing today"s improved seed by a method that approximates nature is itself unnatural.
 
 Yet making use of an unnatural method of cultivation just because a cultivar is unnatural only moves the rice even further from nature and evokes stronger natural repercussions. Simply giving up because "overwintering rice seed is difficult" would have ended the matter without the least hope of getting an insight into the deepest designs of nature.
 

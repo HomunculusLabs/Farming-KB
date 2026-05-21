@@ -7,7 +7,7 @@ created: 2026-05-09
 
 ## Psychedelic Plants and Human Coevolution
 
-Terence McKenna proposed that the relationship between human beings and psychoactive plants was not merely cultural or recreational but fundamentally evolutionary. In *Food of the Gods* (1992), he argued that the early hominids' adoption of an omnivorous diet and their discovery of the power of certain plants were decisive factors in moving early humans out of the stream of animal evolution and into the fast-rising tide of language and culture. This coevolutionary hypothesis places plant-human relationships at the center of human origins.
+Terence McKenna proposed that the relationship between human beings and psychoactive plants was not merely cultural or recreational but fundamentally evolutionary. In *Food of the Gods* (1992), he argued that the early hominids" adoption of an omnivorous diet and their discovery of the power of certain plants were decisive factors in moving early humans out of the stream of animal evolution and into the fast-rising tide of language and culture. This coevolutionary hypothesis places plant-human relationships at the center of human origins.
 
 ## The Omnivore's Advantage
 
@@ -35,7 +35,7 @@ The human relationship with psychoactive plants is not merely pharmacological bu
 
 This symbiotic relationship raises profound questions about the nature of plant intelligence and communication. If plants can produce compounds that interface so precisely with animal nervous systems, is this merely coincidence, or does it suggest a form of cross-kingdom signaling that science has yet to fully appreciate?
 
-The evidence for some form of coevolution is strongest in the case of compounds like caffeine. Plants produce caffeine as an insecticide, yet humans have evolved to not merely tolerate it but to seek it out and derive cognitive benefits from it. The near-universality of caffeine consumption across human cultures—coffee, tea, chocolate, kola, guarana—suggests a deep coevolutionary history that McKenna's hypothesis seeks to generalize to all psychoactive plant compounds.
+The evidence for some form of coevolution is strongest in the case of compounds like caffeine. Plants produce caffeine as an insecticide, yet humans have evolved to not merely tolerate it but to seek it out and derive cognitive benefits from it. The near-universality of caffeine consumption across human cultures—coffee, tea, chocolate, kola, guarana—suggests a deep coevolutionary history that McKenna"s hypothesis seeks to generalize to all psychoactive plant compounds.
 
 ## The Shift from Symbiosis to Suppression
 
@@ -45,7 +45,7 @@ McKenna traced this disruption to the transition from partnership societies to [
 
 McKenna identified the Ur-myth of Western culture—the Garden of Eden story—as a distorted memory of the loss of this plant-human relationship. The "fruit of the Tree of Knowledge" was, in his reading, a psychoactive plant that conferred expanded consciousness.
 
-This interpretation is not unique to McKenna. R. Gordon Wasson proposed that the Soma of the Vedic scriptures was the fly agaric mushroom (*[[mckenna-consciousness-expansion-and-drug-war]] and its suppression. The serpent, traditionally identified with evil, becomes in McKenna's interpretation a benefactor—the agent that introduced humanity to the transformative plant. God's prohibition against eating the fruit becomes, in this reading, the dominator culture's prohibition against direct access to expanded consciousness.
+This interpretation is not unique to McKenna. R. Gordon Wasson proposed that the Soma of the Vedic scriptures was the fly agaric mushroom (*[[mckenna-consciousness-expansion-and-drug-war]] and its suppression. The serpent, traditionally identified with evil, becomes in McKenna"s interpretation a benefactor—the agent that introduced humanity to the transformative plant. God's prohibition against eating the fruit becomes, in this reading, the dominator culture's prohibition against direct access to expanded consciousness.
 
 ## Implications for the Future
 

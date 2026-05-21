@@ -39,11 +39,11 @@ The narrow effective dose range (3-10 mg) and extremely long duration make DOM o
 
 **At 4 mg:** "At fourth hour it went totally outside of me. THE CLOUDS!!! No visual experience has ever been like this. The meaning of color has just changed completely. Of all past joys, LSD, mescaline, cannabis, peyote, this ranks number one." — A breakthrough [[hallucinogenic-mushroom-acute-psychological-effects-and-bad-trips]] at 2.0-2.6 mg; produced only physical side effects including tachycardia, blood pressure increase, and "teeth-rubbiness"
 
-The S-isomer's contribution to the racemate appears to be primarily negative — adding physical side effects without corresponding psychedelic benefit. Shulgin speculated that the S-isomer "may contribute to physical side effects of racemate." This stereoselectivity is consistent with the pattern observed across [[phenethylamine-receptor-pharmacology]] for discussion of stereochemical requirements at 5-HT2A.
+The S-isomer"s contribution to the racemate appears to be primarily negative — adding physical side effects without corresponding psychedelic benefit. Shulgin speculated that the S-isomer "may contribute to physical side effects of racemate." This stereoselectivity is consistent with the pattern observed across [[phenethylamine-receptor-pharmacology]] for discussion of stereochemical requirements at 5-HT2A.
 
 ## STP History
 
-DOM's history as "STP" is one of the most consequential episodes in psychedelic drug culture:
+DOM"s history as "STP" is one of the most consequential episodes in psychedelic drug culture:
 
 In mid-1967, DOM was distributed widely in the Haight-Ashbury district of [[pihkal-introduction-and-methodology]] for Shulgin's own account of this period.
 

@@ -4,7 +4,7 @@ created: 2026-04-14
 updated: 2026-04-15
 type: concept
 tags: [mycology, fungi]
-sources: ['~/wiki/raw/papers/singh-harbhajan_-mycoremediation-_-fungal-bioremediation.md']
+sources: ["~/wiki/raw/papers/singh-harbhajan_-mycoremediation-_-fungal-bioremediation.md']
 ---
 ## Fungal Speciation and Evolution ## Overview Fungi have evolved over approximately 400 million years since their origin, with molecular evidence from arbuscular mycorrhizal fossils dating fungal-plant symbioses to the Ordovician. Fungal speciation operates through mechanisms both familiar to and distinct from those in plants and animals, including sexual recombination, clonal divergence, host shifts, and adaptation to extreme environments. Understanding fungal speciation is central to [[basidiomycete-phylum-guide]] and [[fungal-life-cycles-sexual-reproduction-metamorphosis]]**: Transitions between sexual and asexual reproduction, and the evolution of complex mating systems, have occurred repeatedly across fungal lineages — see [[pf-tek-mushroom-morphology-and-lifecycle-stages]] has evolved convergently multiple times independently, illustrating the limits of morphology-based classification
 

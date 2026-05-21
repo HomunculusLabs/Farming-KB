@@ -91,7 +91,7 @@ The time element requires planning for evolution. Set priorities since no client
 2. **Energy-conserving systems** second or concurrently
 3. **Energy-consuming systems** last
 
-Design for [[fukuoka-textdoc-natural-livestock-caloric-efficiency]]. Understand that the near view (quail in the greenhouse, bird-feeding table outside a child's window, a fuchsia half-covering a professor's window) will occupy far more of the client's attention than the distant panorama. The best views for children, elderly, or sick people come from bird-attracting shrubs placed directly against their windows.
+Design for [[fukuoka-textdoc-natural-livestock-caloric-efficiency]]. Understand that the near view (quail in the greenhouse, bird-feeding table outside a child"s window, a fuchsia half-covering a professor's window) will occupy far more of the client's attention than the distant panorama. The best views for children, elderly, or sick people come from bird-attracting shrubs placed directly against their windows.
 
 ## Practical Sector Solutions
 

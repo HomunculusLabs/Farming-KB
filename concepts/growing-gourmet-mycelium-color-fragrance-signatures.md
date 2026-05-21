@@ -20,7 +20,7 @@ transformations and fragrance signatures. Each mushroom
 species produces a recognizable type of mycelium whose
 variations fall within a range of expressions. Within a
 species, multitudes of strains can differ dramatically in
-their appearance and odor, revealing the strain's unique
+their appearance and odor, revealing the strain"s unique
 "personality."
 
 ## Color Signatures in Culture
@@ -29,7 +29,7 @@ Most mushroom species produce mycelia that undergo
 mesmerizing transformations in pigmentation as they age,
 from the youngest stages of growth to the oldest. The
 cultivator must learn the natural progression of colorations
-for each species' mycelium. Knowing these changes is critical
+for each species" mycelium. Knowing these changes is critical
 for distinguishing healthy growth from contamination.
 
 ### White Mycelium

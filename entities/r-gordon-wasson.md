@@ -13,7 +13,7 @@ sources:
 
 # R. Gordon Wasson
 
-Robert Gordon Wasson (1898–1986) was an American banker, author, and amateur mycologist who, with his wife Valentina Pavlovna Wasson, pioneered the field of ethnomycology. A vice president at J.P. Morgan & Co., Wasson's passion for mycology led to one of the most consequential discoveries in the history of psychoactive substances.
+Robert Gordon Wasson (1898–1986) was an American banker, author, and amateur mycologist who, with his wife Valentina Pavlovna Wasson, pioneered the field of ethnomycology. A vice president at J.P. Morgan & Co., Wasson"s passion for mycology led to one of the most consequential discoveries in the history of psychoactive substances.
 
 ## Biography
 

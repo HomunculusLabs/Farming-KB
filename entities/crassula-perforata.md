@@ -27,7 +27,7 @@ It is one of the most commonly cultivated Crassula species, valued for its ease 
 
 The species received the Royal Horticultural Society Award of Garden Merit. This recognition confirms its reliability as a garden and container plant.
 
-Several horticultural cultivars have been selected for enhanced color and form. 'Variegata' with cream-edged leaves is the most widely grown selection.
+Several horticultural cultivars have been selected for enhanced color and form. "Variegata' with cream-edged leaves is the most widely grown selection.
 
 ## Taxonomy and Morphology
 

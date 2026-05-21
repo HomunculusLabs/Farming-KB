@@ -39,7 +39,7 @@ The Mazatec mushroom ceremony at Huautla de Jiménez is a shamanistic healing pr
 1. **Shamanic context**: A curandero or curandera leads the ceremony, consuming mushrooms along with patients and participants
 2. **Healing purpose**: The ceremony is conducted for supernatural curing along the lines of ancient shamanism
 3. **Oracular function**: The mushrooms are believed to activate centers of the brain connected with language and speech, producing oracular revelations
-4. **Musical element**: The shaman's chants and communications are central to the therapeutic experience
+4. **Musical element**: The shaman"s chants and communications are central to the therapeutic experience
 
 ## Research Significance
 

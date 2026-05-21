@@ -1,5 +1,5 @@
 ---
-title: "Solomon, S. — *solomon manure nutrient variability cof content is wildly unpredictable, the range of hamilton kelp and seaweed in organic gardening is that "manure grows stuff." The reality is far more nuanced. The nutrient content of animal manures varies enormously depending on the animal's diet, the bedding material mixed in, how the manure was stored, and how long it has decomposed."
+title: "Solomon, S. — *solomon manure nutrient variability cof content is wildly unpredictable, the range of hamilton kelp and seaweed in organic gardening is that "manure grows stuff." The reality is far more nuanced. The nutrient content of animal manures varies enormously depending on the animal"s diet, the bedding material mixed in, how the manure was stored, and how long it has decomposed."
 tags:
   - concept
 ---

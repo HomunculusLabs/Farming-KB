@@ -1,5 +1,5 @@
 ---
-title: Pure Culture Spawn Method — Duggar's USDA Breakthrough (1902)
+title: Pure Culture Spawn Method — Duggar"s USDA Breakthrough (1902)
 created: 2026-04-21
 updated: 2026-04-21
 type: concept

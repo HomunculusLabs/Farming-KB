@@ -28,7 +28,7 @@ sources:
 **Gelato** (also known as **Gelato #33** or **Larry Bird**) is an indica-dominant hybrid cannabis strain created by the Cookie Family (Sherbinskis) in San Francisco, California. A cross between *Sunset Sherbet* and *Thin Mint GSC* ([[cannabis-terpene-profile]]    |
 | Thin Mint GSC     | OG Kush × Durban Poison (GSC phenotype)        | Potency, minty notes, resin      |
 
-The original breeding project produced multiple phenotypes, numbered sequentially. **#33** became the most famous and widely propagated, earning the nickname "Larry Bird" after the basketball legend's jersey number.
+The original breeding project produced multiple phenotypes, numbered sequentially. **#33** became the most famous and widely propagated, earning the nickname "Larry Bird" after the basketball legend"s jersey number.
 
 ### Breeder
 

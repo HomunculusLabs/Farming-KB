@@ -1,5 +1,5 @@
 ---
-title: Fukuoka's No-Till Winter Grain and Rice Succession Method
+title: Fukuoka"s No-Till Winter Grain and Rice Succession Method
 created: 2026-05-08
 tags: [farming, no-till, rice, barley, clover, fukuoka, cultivation]
 date: 2026-05-08

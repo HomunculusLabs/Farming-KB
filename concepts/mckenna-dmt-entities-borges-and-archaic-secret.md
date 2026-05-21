@@ -23,13 +23,13 @@ type: concept
 
 ## McKenna on DMT Entities, Borges, and the Archaic Secret
 
-Terence McKenna's 1983 Esalen lecture "Tryptamine [[mckenna-dmt-onset-phenomenology-ripping-cellophane]]" and an ascending tone. Within thirty seconds, all available receptor sites are occupied and a complete mode shift occurs. The experiencer arrives in what McKenna calls a "merry go raum" (from the German raum, meaning space), a domed, underground-feeling space where one feels like a child "come out somewhere in eternity."
+Terence McKenna"s 1983 Esalen lecture "Tryptamine [[mckenna-dmt-onset-phenomenology-ripping-cellophane]]" and an ascending tone. Within thirty seconds, all available receptor sites are occupied and a complete mode shift occurs. The experiencer arrives in what McKenna calls a "merry go raum" (from the German raum, meaning space), a domed, underground-feeling space where one feels like a child "come out somewhere in eternity."
 
 This phenomenology references the twenty-fourth fragment of Heraclitus: "The Aeon is a child at play with colored balls." McKenna interprets this presocratic fragment not metaphorically but literally, as an accurate description of the tryptamine state. The information in these experiences, he argues, is presented "three-dimensionally and deployed fourth-dimensionally, coded as light and as evolving surfaces."
 
 ## Self-Transforming Machine Elves
 
-McKenna's most famous contribution to psychedelic phenomenology is his description of the entities encountered in the DMT state, which he and his brother Dennis characterized as "self-transforming machine elves" in The [[mckenna-cognitive-dissonance-translinguistic-object]] produced by encountering a "translinguistic object" that cannot be mapped onto existing language generates the states of wonder, astonishment, and awe at the brink of terror that characterize the tryptamine experience.
+McKenna"s most famous contribution to psychedelic phenomenology is his description of the entities encountered in the DMT state, which he and his brother Dennis characterized as "self-transforming machine elves" in The [[mckenna-cognitive-dissonance-translinguistic-object]] produced by encountering a "translinguistic object" that cannot be mapped onto existing language generates the states of wonder, astonishment, and awe at the brink of terror that characterize the tryptamine experience.
 
 ## The Black Hole Effect
 
@@ -37,7 +37,7 @@ McKenna describes a "black hole effect" surrounding DMT: the more precisely one 
 
 ## Borges, the Aleph, and the Sect of the Phoenix
 
-McKenna introduces Jorge Luis Borges's short story "The Sect of the Phoenix" as a literary parallel to the tryptamine experience. Borges describes a secret sect present in every human group, whose members have transmitted a trivial, momentary act across all generations. The Secret is "sacred, but always somewhat ridiculous; its performance is furtive." McKenna connects this to Borges's "The Aleph," a point in space that contains all other points, suggesting that the Aleph represents the experience of the Secret.
+McKenna introduces Jorge Luis Borges"s short story "The Sect of the Phoenix" as a literary parallel to the tryptamine experience. Borges describes a secret sect present in every human group, whose members have transmitted a trivial, momentary act across all generations. The Secret is "sacred, but always somewhat ridiculous; its performance is furtive." McKenna connects this to Borges"s "The Aleph," a point in space that contains all other points, suggesting that the Aleph represents the experience of the Secret.
 
 When asked in the Amazon why they had been chosen as ambassadors, the mushroom reportedly answered: "Because you did not believe in anything. Because you have never given over your belief to anyone." McKenna suggests the sect is "perhaps millennia old, but it has not yet been brought to light where the historical threads may run."
 
@@ -47,9 +47,9 @@ McKenna connects the [[mckenna-stropharia-cubensis-extraterrestrial-hypothesis-s
 
 ## Eschatology and the Standing Now
 
-The lecture concludes with McKenna's vision of the tryptamine state as "transtemporal," an anticipation of the future described by Plato's metaphor of time as "the moving image of eternity." He describes the [[mckenna-catalyzing-consciousness-and-language]]."
+The lecture concludes with McKenna"s vision of the tryptamine state as "transtemporal," an anticipation of the future described by Plato"s metaphor of time as "the moving image of eternity." He describes the [[mckenna-catalyzing-consciousness-and-language]]."
 
-His ultimate vision is of the "exteriorization of the soul and internalization of the body," producing a "superconducting lens of translinguistic matter generated out of the body of each of us at a critical juncture." One's body image would exist as a "holographic wave transform while one is at play in the fields of the Lord and living in Elysium." History, he suggests, is "the [[mckenna-history-shockwave-of-eschatology]]."
+His ultimate vision is of the "exteriorization of the soul and internalization of the body," producing a "superconducting lens of translinguistic matter generated out of the body of each of us at a critical juncture." One"s body image would exist as a "holographic wave transform while one is at play in the fields of the Lord and living in Elysium." History, he suggests, is "the [[mckenna-history-shockwave-of-eschatology]]."
 
 ## Shamanism and the Phenomenological Tradition
 

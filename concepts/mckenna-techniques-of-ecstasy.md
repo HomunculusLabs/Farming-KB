@@ -12,7 +12,7 @@ sources:
 
 ## Mircea Eliade and the Shamanic Definition
 
-Mircea Eliade, in his landmark study of shamanism, defined the shaman as "a man of the techniques of ecstasy." By ecstasy, Eliade meant the shaman's ability to enter a trance state at will, during which the soul is believed to leave the body and travel to other realms — the upper world, the lower world, or the spirit world. This is the oldest and most universal form of religious experience, predating organized religion by tens of thousands of years.
+Mircea Eliade, in his landmark study of shamanism, defined the shaman as "a man of the techniques of ecstasy." By ecstasy, Eliade meant the shaman"s ability to enter a trance state at will, during which the soul is believed to leave the body and travel to other realms — the upper world, the lower world, or the spirit world. This is the oldest and most universal form of religious experience, predating organized religion by tens of thousands of years.
 
 McKenna drew heavily on Eliade's work but added a crucial element that Eliade, writing in the 1950s, largely avoided: the role of psychoactive plants in facilitating the shamanic trance. Eliade acknowledged plant use among Siberian shamans (particularly [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]], [[mckenna-dissolution-of-the-dominator-culture]], in his view, stem directly from this suppression.
 

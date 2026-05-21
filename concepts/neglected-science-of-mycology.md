@@ -12,7 +12,7 @@ type: concept
 
 "Yet, right under our feet are a race of beings about which the schools tell us nothing," he wrote. The child who kicked over a fungus called it a toadstool; the cook who broiled it called it a mushroom. Between those two words lay the full extent of popular knowledge about fungi — a vast and diverse kingdom of organisms that numbered in the thousands even within the bounds of a single New England state.
 
-Palmer's frustration was not merely academic. He saw real consequences of this ignorance:
+Palmer"s frustration was not merely academic. He saw real consequences of this ignorance:
 
 - Edible fungi rotting uncollected in fields and pastures
 - Families poisoned by mistaken identification
@@ -67,7 +67,7 @@ This straightforward visual criterion — internal whiteness indicating freshnes
 
 A puffball that is pure white throughout when sliced can be prepared for the table with confidence. One that shows any trace of yellow, purple, or dark coloration inside should be discarded, as this indicates the beginning of spore maturation or decomposition.
 
-Palmer's endorsement of puffballs was significant because he was otherwise extremely cautious about recommending any general rule for fungal identification. The fact that he singled out puffballs as safe reflects both their genuinely low risk profile and his desire to give the public at least one accessible entry point into [[emcdda-wild-mushroom-foraging-misidentification-hazards]].
+Palmer"s endorsement of puffballs was significant because he was otherwise extremely cautious about recommending any general rule for fungal identification. The fact that he singled out puffballs as safe reflects both their genuinely low risk profile and his desire to give the public at least one accessible entry point into [[emcdda-wild-mushroom-foraging-misidentification-hazards]].
 
 ## The Amanita Warning
 
@@ -91,13 +91,13 @@ The common mushroom is instead propagated by the **mycelium** or **spawn** — t
 
 ## The Agaricus Campestris
 
-The common meadow mushroom, *Agaricus campestris*, was the benchmark edible fungus of Palmer's era. It was the one variety that could be reliably propagated by artificial means, which is why it became the sole "mushroom" of commerce.
+The common meadow mushroom, *Agaricus campestris*, was the benchmark edible fungus of Palmer"s era. It was the one variety that could be reliably propagated by artificial means, which is why it became the sole "mushroom" of commerce.
 
 Everything else — the hundreds of other edible species, many of superior flavor and nutritional value — was excluded from markets and kitchens by default. Palmer noted that its description had been often attempted, but that almost any single characteristic of the common mushroom could also be found in some other fungus.
 
 The pink gills that darken to brown, the white cap, the ring on the stem — all of these features appear in other species as well, some edible and some deadly. This observation underscored his central thesis that species-specific knowledge, not general rules, was the only path to safe [[bloomfield-angel-of-death-poisonous-mushroom-identification-toxinology]].
 
-## New England's Fungal Diversity
+## New England"s Fungal Diversity
 
 Palmer estimated approximately three thousand varieties of fungi in New England. Of these, about one-third were "bodies of size and substance" — visible, tangible mushrooms and toadstools large enough to be noticed and potentially collected for food.
 
@@ -105,7 +105,7 @@ The balance were microscopic, gelatinous, or otherwise outside the practical sco
 
 These fifty species "now rot in our fields and pastures" — an enormous waste of natural food resources that could be easily prevented with proper education. The loss was not merely nutritional; it was cultural, representing a cuisine that Americans had never developed because of irrational fear born of ignorance.
 
-## Palmer's Plea for Illustrated Popular Guides
+## Palmer"s Plea for Illustrated Popular Guides
 
 Palmer's most passionate and repeated appeal was for the creation of an illustrated popular guide to American fungi. He proposed making use of **chromolithography** — then a widely available and affordable color printing technology — to produce accurately colored images of fungi at natural size.
 

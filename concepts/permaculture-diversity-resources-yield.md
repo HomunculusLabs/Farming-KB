@@ -54,7 +54,7 @@ Mollison identifies five categories of resources based on their response to use:
 These resources grow or improve the more they are used. Some forms of browse, certain categories of plants and animals that increase each other through interaction, and information all fall into this category. Using them actively enhances the system.
 
 ### 2. Resources Unaffected by Use
-A beautiful view can be appreciated all day without degradation. Information, when shared, is preserved rather than consumed (though Mollison's editor Dan Hemenway notes that information is specifically *preserved* by use — unused information is forgotten).
+A beautiful view can be appreciated all day without degradation. Information, when shared, is preserved rather than consumed (though Mollison"s editor Dan Hemenway notes that information is specifically *preserved* by use — unused information is forgotten).
 
 ### 3. Resources That Decrease If Not Used
 Quick-turnover resources like annual grass pastures decline if not grazed or harvested. Firewood in fire-prone ecosystems accumulates as dangerous fuel load if not regularly harvested. These resources require active management to maintain their productive state.

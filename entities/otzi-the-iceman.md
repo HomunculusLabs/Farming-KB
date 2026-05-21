@@ -8,7 +8,7 @@ type: entity
 
 ## Description
 
-Otzi (also spelled Oetzi), commonly known as the Iceman, is the naturally preserved mummy of a nomadic traveler who lived around 3300 BCE during the Chalcolithic (Copper Age) period. Discovered frozen in the Swiss and Austrian Alps in 1991, Otzi is one of the oldest and best-preserved natural human mummies ever found. Among his possessions were several species of mushrooms, including [[fomes-fomentarius]] (iceman [[polypore]]), providing profound historical evidence of early human use of fungi for food, fuel, medicine, and practical materials. The discovery of this mushroom in Otzi's possession has profound historical implications regarding the use of fungi dating back over five millennia.
+Otzi (also spelled Oetzi), commonly known as the Iceman, is the naturally preserved mummy of a nomadic traveler who lived around 3300 BCE during the Chalcolithic (Copper Age) period. Discovered frozen in the Swiss and Austrian Alps in 1991, Otzi is one of the oldest and best-preserved natural human mummies ever found. Among his possessions were several species of mushrooms, including [[fomes-fomentarius]] (iceman [[polypore]]), providing profound historical evidence of early human use of fungi for food, fuel, medicine, and practical materials. The discovery of this mushroom in Otzi"s possession has profound historical implications regarding the use of fungi dating back over five millennia.
 
 ## Classification
 
@@ -26,7 +26,7 @@ Otzi (also spelled Oetzi), commonly known as the Iceman, is the naturally preser
 - Found with Fomes fomentarius (iceman polypore / [[amadou]]) among his possessions, which is why the species is commonly called the "iceman polypore"
 - The mushroom in his possession likely served multiple purposes: tinder for fire-starting, medicinal use, and possibly as a material for carrying or insulation
 - Discovery of fungal remains among his belongings provides some of the earliest archaeological evidence of human-fungal interactions
-- Otzi's possession of Fomes fomentarius implies sophisticated knowledge of useful fungi among prehistoric European peoples
+- Otzi"s possession of Fomes fomentarius implies sophisticated knowledge of useful fungi among prehistoric European peoples
 - The find has profound historical implications regarding the use of fungi for food, fuel, and medicine stretching back millennia
 - His body and artifacts are housed in the South Tyrol Museum of Archaeology in Bolzano, Italy
 - The preservation quality allowed detailed analysis of his diet, health, clothing, and toolkit

@@ -41,7 +41,7 @@ understanding of Cashinahua culture and hallucinogen use.
 Kensinger was formerly a member of the Summer Institute of
 Linguistics (SIL) in Peru. SIL is a missionary-sponsoring
 organization focused on linguistic research and Bible
-translation among indigenous peoples. Kensinger's dual role
+translation among indigenous peoples. Kensinger"s dual role
 as linguist and anthropologist gave him exceptional access
 to and documentation of Cashinahua language and culture.
 
@@ -92,7 +92,7 @@ Seattle, November 1968.
 
 ## Relevance to Cultivation and Mycology
 
-Kensinger's work provides one of the most detailed
+Kensinger"s work provides one of the most detailed
 ethnographic accounts of traditional [[ayahuasca-preparation]]
 and use, including precise botanical ingredients (*Banisteriopsis*
 + *[[psychotria-viridis]]*), preparation methods, dosage (1–2 pints),

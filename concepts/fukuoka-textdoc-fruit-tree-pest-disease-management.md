@@ -10,7 +10,7 @@ type: concept
 
 ## Natural Fruit Tree Pest and Disease Management
 
-Fukuoka's approach to managing [[fukuoka-ecological-balance-principles]] maintains tree health
+Fukuoka"s approach to managing [[fukuoka-ecological-balance-principles]] maintains tree health
 without human intervention — and how pesticide use destroys that balance.
 
 ## The Fundamental Principle

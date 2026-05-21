@@ -11,7 +11,7 @@ tags: [cannabis, sativa, strain-profile, super-lemon-haze, green-house-seeds, le
 
 ## Overview
 
-[[super-lemon-haze]] is a sativa-dominant hybrid bred by Amsterdam's Green House Seed Co., widely regarded as one of the most commercially successful and recognizable [[oner-temple-bodhi-seeds-super-silver-haze-williams-wonder]], this strain delivers an intensely lemony aroma, energetic cerebral effects, and reliable yields that have made it a staple in both recreational and medical markets worldwide. With a [[cannabis-terpene-profile]] — the sharp, sweet lemon aroma that defines this strain. Lemon Skunk itself is a stable, reliable line that passes on its distinctive flavor and moderate growth characteristics.
+[[super-lemon-haze]] is a sativa-dominant hybrid bred by Amsterdam"s Green House Seed Co., widely regarded as one of the most commercially successful and recognizable [[oner-temple-bodhi-seeds-super-silver-haze-williams-wonder]], this strain delivers an intensely lemony aroma, energetic cerebral effects, and reliable yields that have made it a staple in both recreational and medical markets worldwide. With a [[cannabis-terpene-profile]] — the sharp, sweet lemon aroma that defines this strain. Lemon Skunk itself is a stable, reliable line that passes on its distinctive flavor and moderate growth characteristics.
 
 **Super Silver Haze** brings the legendary Haze lineage — contributing cerebral potency, creative stimulation, and the complex "Hazey" undertones that complement the upfront lemon character. Super Silver Haze also adds structural vigor and yield potential.
 

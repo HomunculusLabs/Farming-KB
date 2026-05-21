@@ -1,5 +1,5 @@
 ---
-title: Fukuoka's Philosophy of comparison-natural-farming-vs-permaculture
+title: Fukuoka"s Philosophy of comparison-natural-farming-vs-permaculture
 created: 2026-04-26
 updated: 2026-04-24
 sources: "masanobu-fukuoka, The Natural Way of Farming"
@@ -8,7 +8,7 @@ type: concept
 tags: [fukuoka, natural-farming]
 ---
 
-## Fukuoka's Philosophy of Natural Farming
+## Fukuoka"s Philosophy of Natural Farming
 
 ## The Foundation: Nature Free of Human Meddling
 

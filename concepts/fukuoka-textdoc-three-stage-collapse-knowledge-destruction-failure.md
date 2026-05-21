@@ -17,7 +17,7 @@ created: 2026-05-07
 ## Overview
 
 Fukuoka predicts three stages of human collapse that will inevitably follow
-from humanity's rejection of natural law in favor of [[non-discriminating-knowledge-and-critique-of-scientific-reductionism]].
+from humanity"s rejection of natural law in favor of [[non-discriminating-knowledge-and-critique-of-scientific-reductionism]].
 "Having no way of knowing that this knowledge is really unknowable, man
 founders ever deeper into confusion through the collection and advancement
 of unknowable and mistaken knowledge."

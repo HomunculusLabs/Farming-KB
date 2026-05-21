@@ -30,7 +30,7 @@ fragmentation, and structural failure.
 ## Feature Three: Access to Hidden Knowledge
 
 "The experience can provide access to hidden knowledge — this is the aspect
-of divination, 'seeing,' prophecy, intuition or visioning." In the shamanic
+of divination, "seeing,' prophecy, intuition or visioning." In the shamanic
 framework, diagnosis and divination are the same activity: the shaman sees
 the cause of illness in the same visionary state where healing takes place.
 If the intention is healing, divination is equivalent to Western diagnosis

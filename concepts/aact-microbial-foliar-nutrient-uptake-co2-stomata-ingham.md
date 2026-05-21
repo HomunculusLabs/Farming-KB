@@ -9,7 +9,7 @@ topics: [aact, foliar-spray, stomata, nutrient-uptake, co2, leaf-surface-microbi
 
 ## Overview
 
-One of the less well-understood mechanisms by which AACT benefits plants is through enhancement of foliar nutrient uptake. Ingham explains that the microbes applied to leaf surfaces in compost tea play an active role in improving the plant's ability to absorb nutrients through its foliage. This page details the physiological mechanism and its practical implications.
+One of the less well-understood mechanisms by which AACT benefits plants is through enhancement of foliar nutrient uptake. Ingham explains that the microbes applied to leaf surfaces in compost tea play an active role in improving the plant"s ability to absorb nutrients through its foliage. This page details the physiological mechanism and its practical implications.
 
 ## The Stomatal Gateway
 

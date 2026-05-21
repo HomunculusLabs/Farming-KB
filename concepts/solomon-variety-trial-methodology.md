@@ -1,5 +1,5 @@
 ---
-title: Solomon's Variety Trial Methodology
+title: Solomon"s Variety Trial Methodology
 source: gardening-when-it-counts-steve-solomon.md
 author: Steve Solomon
 tags: [seed-testing, variety-trials, gardening-method, plant-breeding, evaluation, solomon]

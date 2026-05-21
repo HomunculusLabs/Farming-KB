@@ -39,19 +39,19 @@ The second and typically longest period involves the return of self or external 
 
 The final period involves the return to routine game reality and the conventional sense of self. The individual reintegrates ordinary perception, identity, and cognitive patterns.
 
-The authors emphasize that these phases are not strictly sequential — the subject's consciousness "flicks in and out of these three levels with rapid oscillations." One purpose of the manual is to enable the person to regain the transcendence of the First Bardo and avoid prolonged entrapment in hallucinatory or ego-dominated patterns.
+The authors emphasize that these phases are not strictly sequential — the subject"s consciousness "flicks in and out of these three levels with rapid oscillations." One purpose of the manual is to enable the person to regain the transcendence of the First Bardo and avoid prolonged entrapment in hallucinatory or ego-dominated patterns.
 
 ## The Tibetan Book of the Dead: Esoteric Meaning
 
 The *Bardo Thodol* ("Liberation by Hearing on the After-Death Plane") was ostensibly a text describing experiences expected at death, during a forty-nine day intermediate phase (seven times seven), and during rebirth. However, the authors interpret this as merely the exoteric framework used by Tibetan Buddhists to conceal mystical teachings.
 
-The esoteric meaning, as interpreted in this manual, concerns [[shamanism-death-and-rebirth]] of consciousness — not of the body. Lama Govinda wrote in his introduction: "It is a book for the living as well as the dying." The text's true meaning was concealed beneath layers of symbolism and was designed to be understood only by those personally initiated by a guru into Buddhist mystical doctrines and the "pre-mortem-death-rebirth experience."
+The esoteric meaning, as interpreted in this manual, concerns [[shamanism-death-and-rebirth]] of consciousness — not of the body. Lama Govinda wrote in his introduction: "It is a book for the living as well as the dying." The text"s true meaning was concealed beneath layers of symbolism and was designed to be understood only by those personally initiated by a guru into Buddhist mystical doctrines and the "pre-mortem-death-rebirth experience."
 
 The manual represents a deliberate departure from the tradition of secrecy: "In publishing this practical interpretation for use in the psychedelic drug session, we are in a sense breaking with the tradition of secrecy and thus contravening the teachings of the lama-gurus." This was justified on the grounds that the manual would not be understood by anyone who had not had a consciousness-expanding experience, and that Tibetan lamas themselves, after their recent diaspora, wished to make their teachings available more widely.
 
 ## Commentaries and Intellectual Foundations
 
-The manual's introduction reviews three major commentaries on the Tibetan Book of the Dead from the Evans-Wentz edition:
+The manual"s introduction reviews three major commentaries on the Tibetan Book of the Dead from the Evans-Wentz edition:
 
 ### W. Y. Evans-Wentz
 
@@ -59,7 +59,7 @@ Evans-Wentz, who "literally sat at the feet of a Tibetan lama for years," served
 
 ### Carl G. Jung
 
-Jung's commentary provided psychological grounding. The authors use Jung to contrast Western and Eastern approaches to psychology:
+Jung"s commentary provided psychological grounding. The authors use Jung to contrast Western and Eastern approaches to psychology:
 
 - **[[metzner-western-psychology-freud-jung-reich-entheogenic-integration]]** (behaviorism and experimentalism) is characterized as "so narrow as to be mostly trivial" — consciousness is eliminated from inquiry, social application is neglected, and a "curious ritualism" is enacted by a "priesthood rapidly growing in power and numbers"
 - **Eastern psychology** offers a long history of detailed observation and systematization of human consciousness, with practical methods (meditation, yoga, monastic retreat, sensory deprivation) for controlling and changing consciousness
@@ -80,7 +80,7 @@ The manual establishes several foundational beliefs for the psychedelic voyager:
 
 ## The Role of the Guide
 
-Following Huxley's insight from *The Doors of Perception*, the manual emphasizes that a guide is essential. Huxley wrote that one couldn't maintain awareness of the "Clear Light" alone — "That's the point, I suppose, of the Tibetan ritual — somebody sitting there all the time and telling you what's what." The manual instructs that it should be read several times before a session, and that a trusted person should be present to "remind and refresh the memory of the voyager during the experience."
+Following Huxley"s insight from *The Doors of Perception*, the manual emphasizes that a guide is essential. Huxley wrote that one couldn't maintain awareness of the "Clear Light" alone — "That"s the point, I suppose, of the Tibetan ritual — somebody sitting there all the time and telling you what's what." The manual instructs that it should be read several times before a session, and that a trusted person should be present to "remind and refresh the memory of the voyager during the experience."
 
 ## Manual Structure
 

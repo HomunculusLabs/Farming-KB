@@ -9,7 +9,7 @@ type: concept
 The systematic study of edible (esculent) and poisonous fungi in the
 United States during the late [[mckenna-club-des-hachischins-and-nineteenth-century-literary-hashish]] represents a fascinating
 chapter in the history of amateur and professional science. Julius
-Auboineau Palmer's *About Mushrooms* (1894) stands as a landmark work
+Auboineau Palmer"s *About Mushrooms* (1894) stands as a landmark work
 in this tradition, synthesizing two decades of dedicated research into
 the identification, toxicity, and culinary use of North American fungi.
 The book emerged at a time when American [[mycology]] was still in its
@@ -28,7 +28,7 @@ His articles appeared in venues ranging from *Popular Science Monthly*
 Scientifique* (1879) and the *Medical and Surgical Reporter* (1879),
 reflecting the interdisciplinary breadth of his inquiry.
 
-The breadth of Palmer's publication record reveals the fragmented nature
+The breadth of Palmer"s publication record reveals the fragmented nature
 of nineteenth-century scientific communication. Rather than a single
 specialized mycological journal, researchers of his era disseminated
 findings through general science magazines, newspapers, agricultural

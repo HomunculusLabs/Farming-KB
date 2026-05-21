@@ -13,7 +13,7 @@ Maikua is the [[jivaro]] name for a powerful hallucinogenic preparation made fro
 ## Classification
 
 - **Category**: Hallucinogenic plant preparation / entheogen
-- **Botanical origin**: Datura arborea / Datura suaveolens (Brugmansia suaveolens) — tree datura / angel's trumpet
+- **Botanical origin**: Datura arborea / Datura suaveolens (Brugmansia suaveolens) — tree datura / angel"s trumpet
 - **Chemical class**: Tropane alkaloids (scopolamine, hyoscyamine, atropine)
 - **Cultural context**: Jivaro people (Shuar/Achuara), Upper Amazon, Ecuador
 - **Potency**: Described as "even more powerful than natemd" (ayahuasca)
@@ -26,7 +26,7 @@ Brugmansia suaveolens is a large shrub or small tree producing pendulous trumpet
 
 Maikua serves a highly specialized and restricted role in Jivaro shamanic practice:
 
-1. **Anti-wakani operations**: When a curing shaman identifies that a wakani (spirit bird) is involved in a patient's bewitchment, he drinks maikua to gain the enhanced visionary power needed to perceive and combat the spirit bird
+1. **Anti-wakani operations**: When a curing shaman identifies that a wakani (spirit bird) is involved in a patient"s bewitchment, he drinks maikua to gain the enhanced visionary power needed to perceive and combat the spirit bird
 2. **Enhanced spiritual perception**: The extraordinary potency of maikua enables shamans to operate at a level beyond what natemd alone can provide, accessing deeper layers of supernatural reality
 3. **Combined use protocol**: The curing shaman drinks both maikua and tobacco juice before silently sneaking into the forest to confront the wakani bird with tsentsak
 4. **Danger and restraint**: The extreme potency and danger of maikua mean it is used only when specifically required, never casually

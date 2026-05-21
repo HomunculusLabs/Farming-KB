@@ -9,7 +9,7 @@ created: 2026-05-08
 
 ## Overview
 
-A key discovery in Shirota, Hakamata, and Goda's 2003 synthesis of psilocybin was the identification of an unexpected zwitterionic N,O-dibenzyl phosphate derivative (compound 8) formed during the phosphorylation of [[shirota-zwitterion-discovery-intramolecular-benzyl-migration-phosphorylation]] migration from oxygen to nitrogen that had not been previously characterized. This page examines the NMR methodology used and the structural insights it provided.
+A key discovery in Shirota, Hakamata, and Goda"s 2003 synthesis of psilocybin was the identification of an unexpected zwitterionic N,O-dibenzyl phosphate derivative (compound 8) formed during the phosphorylation of [[shirota-zwitterion-discovery-intramolecular-benzyl-migration-phosphorylation]] migration from oxygen to nitrogen that had not been previously characterized. This page examines the NMR methodology used and the structural insights it provided.
 
 ## The Discovery
 
@@ -69,7 +69,7 @@ NOESY provided supporting evidence for the zwitterionic structure by showing spa
 
 ### Mechanism
 
-The conversion of the O,O-dibenzyl phosphate (7) to the zwitterionic N,O-dibenzyl phosphate (8) represents an [[psilocybin-synthesis-zwitterionic-intermediate-filtration-method]] was the key to the synthesis's success. Its insolubility in dichloromethane made it possible to isolate it by simple filtration on a large scale, avoiding the need for column chromatography:
+The conversion of the O,O-dibenzyl phosphate (7) to the zwitterionic N,O-dibenzyl phosphate (8) represents an [[psilocybin-synthesis-zwitterionic-intermediate-filtration-method]] was the key to the synthesis"s success. Its insolubility in dichloromethane made it possible to isolate it by simple filtration on a large scale, avoiding the need for column chromatography:
 
 > "The zwitterionic nature of 8 made possible its large-scale isolation by filtration, in over 85% yield, since the excess remaining dibenzyl phosphate was removed by washing with CH₂Cl₂."
 

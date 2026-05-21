@@ -14,7 +14,7 @@ Chupacabra is a [[mckenna-cannabis-culture-history]], naming a strain after this
 - **Uniqueness**: A distinctive, memorable experience unlike more common strains
 - **Mystery**: The exact effects and character of the strain are not immediately predictable from its parent genetics alone
 
-The choice of name reflects the breeder's sense of humor and the strain's tendency to deliver unexpectedly powerful effects that catch users off guard.
+The choice of name reflects the breeder"s sense of humor and the strain's tendency to deliver unexpectedly powerful effects that catch users off guard.
 
 ## Parent Strain Analysis
 
@@ -31,7 +31,7 @@ Strawberry Fire is a lesser-documented strain that contributes aromatic and flav
 
 - **Character**: Fruity, berry-forward aroma with notes of strawberry and sweet earth
 - **Effect**: Balanced hybrid effects with a moderate body stone complementing its fruity, uplifting character
-- **Contribution to Chupacabra**: Primarily aromatic complexity and a sweeter flavor profile that tempers Trainwreck's harsh, spicy edge
+- **Contribution to Chupacabra**: Primarily aromatic complexity and a sweeter flavor profile that tempers Trainwreck"s harsh, spicy edge
 - **Growth traits**: Adds [[cannabis-vegetative-stage]]
 
 ### Flowering

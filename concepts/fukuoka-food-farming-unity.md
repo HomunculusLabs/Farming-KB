@@ -18,7 +18,7 @@ The inscription "Right Food, Right Action, Right Awareness" reframes the Buddhis
 
 ## Connection to Natural Farming Principles
 
-The mountain huts represent Fukuoka's vision of a complete way of life, not just a [[fukuoka-mu-economics-and-value-of-nothing-essay]]. The teaching is a raft to cross the river, not a possession to carry on your back. Once you understand the relationships between foods, seasons, and the human body, the mandala has served its purpose and should be discarded.
+The mountain huts represent Fukuoka"s vision of a complete way of life, not just a [[fukuoka-mu-economics-and-value-of-nothing-essay]]. The teaching is a raft to cross the river, not a possession to carry on your back. Once you understand the relationships between foods, seasons, and the human body, the mandala has served its purpose and should be discarded.
 
 ## The Movement Not to Bring Anything About
 

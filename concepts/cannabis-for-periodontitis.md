@@ -15,7 +15,7 @@ updated: 2026-04-18
 Periodontitis (gum disease) is the leading cause of tooth loss in adults and affects approximately 47% of adults over 30 in the US. Research from The [[blesching-cannabis-osteoporosis]])
 - Cancer metastasis to bone
 
-CBD's ability to modulate this pathway has broad implications across multiple conditions involving bone loss.
+CBD"s ability to modulate this pathway has broad implications across multiple conditions involving bone loss.
 
 ### Caregiving Stress and Gum Disease
 **Vitaliano et al. (2005)**: "Caregiving and gingival symptom reports: Psychophysiologic mediators." Psychosomatic Medicine.

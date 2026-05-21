@@ -14,7 +14,7 @@ type: concept
 
 ### Water as Foundation
 
-"Natural water management is at the centre of any earth restoration. No life without water." Holzer's system begins with water: capturing, storing, and distributing it across the landscape in ways that mimic natural hydrological cycles.
+"Natural water management is at the centre of any earth restoration. No life without water." Holzer"s system begins with water: capturing, storing, and distributing it across the landscape in ways that mimic natural hydrological cycles.
 
 ### The Body of the Earth as Storage
 
@@ -38,7 +38,7 @@ The mechanism is straightforward: water absorbs heat during the day and releases
 
 "This does not work with large water expanses without surrounding vegetation, without deep and shallow zones, built in circular or rectangular shapes or waterscapes that have a central dam. These just heat up and cool down again, because the water does not move and therefore no balancing temperature effect can be created."
 
-Holzer's critique targets conventional dam and reservoir construction, which creates large, uniform bodies of water that lack the structural complexity needed for effective climate regulation.
+Holzer"s critique targets conventional dam and reservoir construction, which creates large, uniform bodies of water that lack the structural complexity needed for effective climate regulation.
 
 ### The Foundation for Mixed Forest
 
@@ -48,7 +48,7 @@ Holzer's critique targets conventional dam and reservoir construction, which cre
 
 ### Working with Topography
 
-Holzer's water management system is based on understanding and working with the natural contours of the landscape. "Recognition and integration of changes in the landscape" is essential. By creating water features along contour lines, water is distributed across slopes rather than concentrated in valleys, reducing erosion and maximizing infiltration.
+Holzer"s water management system is based on understanding and working with the natural contours of the landscape. "Recognition and integration of changes in the landscape" is essential. By creating water features along contour lines, water is distributed across slopes rather than concentrated in valleys, reducing erosion and maximizing infiltration.
 
 ### The Meaning of Contour Lines
 
@@ -66,13 +66,13 @@ Holzer describes the "symbiotic interaction" (symbiotische Wechselwirkung) betwe
 
 ## The Academic Encounter
 
-### Bernd Lötsch's Visit
+### Bernd Lötsch"s Visit
 
-The visit of university professor Bernd Lötsch—an "internationally renowned biologist and campaigner for nature conservation"—marked a turning point in Holzer's relationship with the academic establishment. Lötsch declared that Holzer's work at the Krameterhof constituted "practical science," leading to a university seminar and extended research visit by students and professors.
+The visit of university professor Bernd Lötsch—an "internationally renowned biologist and campaigner for nature conservation"—marked a turning point in Holzer"s relationship with the academic establishment. Lötsch declared that Holzer's work at the Krameterhof constituted "practical science," leading to a university seminar and extended research visit by students and professors.
 
 ### Verification of Observations
 
-The university group "dug deep holes and dug up roots and examined them. They looked at the interplay between plants and nutrients and at how plants mutually support each other with nutrients." This systematic verification of Holzer's observational claims gave them scientific credibility.
+The university group "dug deep holes and dug up roots and examined them. They looked at the interplay between plants and nutrients and at how plants mutually support each other with nutrients." This systematic verification of Holzer"s observational claims gave them scientific credibility.
 
 ## Separation from Nature
 

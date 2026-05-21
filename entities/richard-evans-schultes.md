@@ -9,7 +9,7 @@ tags: [person, botanist, ethnobotany, hallucinogens, amazon, peyote, banisteriop
 
 ## Description
 
-Richard Evans Schultes (1915–2001) was an American botanist and **founder of modern ethnobotany**, widely regarded as the preeminent authority on hallucinogenic plants of the Americas. He spent decades at **Harvard University's Botanical Museum** and conducted extensive fieldwork in the Amazon Basin, documenting indigenous use of psychoactive plants including *Banisteriopsis*, peyote, and numerous other species.
+Richard Evans Schultes (1915–2001) was an American botanist and **founder of modern ethnobotany**, widely regarded as the preeminent authority on hallucinogenic plants of the Americas. He spent decades at **Harvard University"s Botanical Museum** and conducted extensive fieldwork in the Amazon Basin, documenting indigenous use of psychoactive plants including *Banisteriopsis*, peyote, and numerous other species.
 
 ## Classification
 
@@ -20,7 +20,7 @@ Richard Evans Schultes (1915–2001) was an American botanist and **founder of m
 
 ## Key Facts
 
-- Extensively referenced throughout Harner's *[[hallucinogens-and-shamanism]]* (1973) as a primary botanical authority.
+- Extensively referenced throughout Harner"s *[[hallucinogens-and-shamanism]]* (1973) as a primary botanical authority.
 - Harner notes that some of the most significant contributions to understanding hallucinogens came not from anthropologists but from **botanists such as Schultes** (e.g., 1940, 1955).
 - Made the original botanical identifications and surveys of *Banisteriopsis* species used in [[ayahuasca]] preparations (1957, 1963).
 - Documented the use of *Prestonia* (formerly *Haemadictyon*) as the second plant in ayahuasca brews among Indians of the Rio Negro region in Brazil.

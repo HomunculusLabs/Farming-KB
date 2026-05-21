@@ -10,7 +10,7 @@ sources:
 
 ## Philosophical Implications of Psychedelics
 
-Powell's The [[leary-psychedelic-experience-bardo-mapping]], arguing that entheogenic compounds like psilocybin reveal fundamental truths about the nature of reality, consciousness, and information that are inaccessible through ordinary modes of cognition.
+Powell"s The [[leary-psychedelic-experience-bardo-mapping]], arguing that entheogenic compounds like psilocybin reveal fundamental truths about the nature of reality, consciousness, and information that are inaccessible through ordinary modes of cognition.
 
 ## Reality as Information
 
@@ -31,7 +31,7 @@ Powell extends the informational thesis into a computational cosmology, arguing 
 - The evolution of the Universe represents successive state transitions in this informational process
 - Life and consciousness are emergent informational patterns within this larger computation
 
-Drawing on Conway's Game of Life as an analogy, Powell argues that "the real world and the model world" both demonstrate that "specific fundamental laws in association with specific fundamental constants and precise initial conditions are needed so as to ensure that organised forms evolve."
+Drawing on Conway"s Game of Life as an analogy, Powell argues that "the real world and the model world" both demonstrate that "specific fundamental laws in association with specific fundamental constants and precise initial conditions are needed so as to ensure that organised forms evolve."
 
 ## The Anthropic Principle and Design
 
@@ -42,7 +42,7 @@ Powell engages extensively with the fine-tuning problem in cosmology. He documen
 - The unique properties of water essential for biology
 - The precise rate of cosmic expansion that allows galaxies to form
 
-He critiques the Multiple Universe theory as an evasion: "what all of these imaginative Multiple Universe scenarios reveal is that physicists and cosmologists are in expletively, and I mean expletively, deep water when it comes to accounting for the 'why' of our most creative Universe."
+He critiques the Multiple Universe theory as an evasion: "what all of these imaginative Multiple Universe scenarios reveal is that physicists and cosmologists are in expletively, and I mean expletively, deep water when it comes to accounting for the "why' of our most creative Universe."
 
 ## The Other as Intelligent Information
 
@@ -50,7 +50,7 @@ The most radical philosophical implication Powell draws from psychedelic experie
 
 "What I am calling the Other is a dynamic information-integration process given life within the entheogen-infused brain. To put it another way, the Other can be understood as an informational phenomenon that is focussed into being in much the same way that a newly cleaned lens might suddenly focus sunlight into a tight beam."
 
-The Other is not a supernatural entity but "a higher, more integrated manifestation of the human psyche, so much full of 'Otherness' and purposeful import that it can be considered to be fully autonomous and dissociated from the individual self/ego."
+The Other is not a supernatural entity but "a higher, more integrated manifestation of the human psyche, so much full of "Otherness' and purposeful import that it can be considered to be fully autonomous and dissociated from the individual self/ego."
 
 ## Implications for Science and Materialism
 
@@ -58,11 +58,11 @@ Powell argues that the psychedelic experience challenges the reductive materiali
 
 "The association between psychedelic contemplation and the contemplation of reality are really one and the same thing."
 
-The insistence on a purely material universe "with no real room for any kind of transcendental aspect to Nature" is, in Powell's view, a limitation of the current scientific paradigm rather than a conclusion warranted by the evidence. The entheogenic experience "flies in the face of such a denial that Nature has a spiritual side."
+The insistence on a purely material universe "with no real room for any kind of transcendental aspect to Nature" is, in Powell"s view, a limitation of the current scientific paradigm rather than a conclusion warranted by the evidence. The entheogenic experience "flies in the face of such a denial that Nature has a spiritual side."
 
 ## Psychedelics and the Philosophy of Mind
 
-Powell's informational framework offers a potential resolution to the "hard problem of consciousness" (David Chalmers): if both matter and mind are informational in nature, then the emergence of subjective experience from physical processes is no more mysterious than the emergence of complex patterns from simple rules in Conway's Game of Life. Consciousness is what information feels like from the inside.
+Powell"s informational framework offers a potential resolution to the "hard problem of consciousness" (David Chalmers): if both matter and mind are informational in nature, then the emergence of subjective experience from physical processes is no more mysterious than the emergence of complex patterns from simple rules in Conway"s Game of Life. Consciousness is what information feels like from the inside.
 
 ## The Explanatory Power of Psychedelics
 
@@ -73,7 +73,7 @@ Powell's overarching philosophical claim is that psychedelics are not merely int
 ## See Also
 
 - philosophical implications of psychedelics
-- [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]] are not merely interesting pharmacological curiosities but are "Gaia's special mushroom"--a product of the living Earth specifically designed (through evolutionary processes) to catalyze expanded awareness in human beings. It is this holistic nature of religious thought which links it with psychedelic thought." - [[psychedelic-set-and-setting]] - [[good-friday-experiment-marsh-chapel]]," conducted under the auspices of Timothy Leary's [[psychedelic-set-and-setting]] - [[psilocybin-consciousness-as-information-in-process]]
+- [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]] are not merely interesting pharmacological curiosities but are "Gaia"s special mushroom"--a product of the living Earth specifically designed (through evolutionary processes) to catalyze expanded awareness in human beings. It is this holistic nature of religious thought which links it with psychedelic thought." - [[psychedelic-set-and-setting]] - [[good-friday-experiment-marsh-chapel]]," conducted under the auspices of Timothy Leary's [[psychedelic-set-and-setting]] - [[psilocybin-consciousness-as-information-in-process]]
 
 ## Overview
 

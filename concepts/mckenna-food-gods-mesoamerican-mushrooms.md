@@ -14,7 +14,7 @@ The psilocybin mushroom complex of Mesoamerica represents one of the longest con
 
 ## Teonanacatl: The Flesh of the Gods
 
-The Aztecs called the psilocybin mushroom *teonanacatl* — literally "God's flesh" or "the flesh of the gods." Spanish chroniclers of the conquest period recorded the existence of this sacrament but, constrained by their own religious framework, either dismissed it as diabolical or failed to recognize its true nature. The identification of teonanacatl as a psychoactive mushroom remained an enigma of Mesoamerican studies for centuries.
+The Aztecs called the psilocybin mushroom *teonanacatl* — literally "God"s flesh" or "the flesh of the gods." Spanish chroniclers of the conquest period recorded the existence of this sacrament but, constrained by their own religious framework, either dismissed it as diabolical or failed to recognize its true nature. The identification of teonanacatl as a psychoactive mushroom remained an enigma of Mesoamerican studies for centuries.
 
 ## Blas Pablo Reko and Early Ethnobotanical Research
 
@@ -22,7 +22,7 @@ The modern rediscovery of the mushroom cults began with the work of Blas Pablo R
 
 1. **Piule seed** — the visionary morning glory seeds of *[[allegro-amanita-muscaria-properties-and-pharmacology]]*), McKenna pointed out that Wasson himself acknowledged the existence of "other fungal entheogens" growing in cattle dung in India — specifically *Stropharia cubensis* — that were "easily identified and gathered, and effective" but "known to tribals and sudras [untouchables]" and therefore excluded from Brahmanic practice.
 
-McKenna argued that if Soma was in fact *Stropharia cubensis* (a psilocybin mushroom), "then the tradition could be traced unbroken back to prehistoric Africa." He accused Wasson of unconscious bias — his "tremendous aversion to 'hippies'" and his status as "quite a Brahman, an investment banker by profession and an honorary fellow of Harvard University" — for preventing him from acknowledging the obvious conclusion that psilocybin, not fly agaric, lay behind the Vedic mystery.
+McKenna argued that if Soma was in fact *Stropharia cubensis* (a psilocybin mushroom), "then the tradition could be traced unbroken back to prehistoric Africa." He accused Wasson of unconscious bias — his "tremendous aversion to "hippies'" and his status as "quite a Brahman, an investment banker by profession and an honorary fellow of Harvard University" — for preventing him from acknowledging the obvious conclusion that psilocybin, not fly agaric, lay behind the Vedic mystery.
 
 ## The Glaukos Myth and the Mushroom Cult of Antiquity
 

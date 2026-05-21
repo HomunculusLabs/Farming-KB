@@ -14,7 +14,7 @@ source: Metzner (1998) - Hallucinogenic Drugs and Plants in darkness-low-light-f
 
 ## Overview
 
-Ralph Metzner's 1998 comparative analysis identified three primary structural differences between traditional shamanic entheogenic ceremonies and typical Western [[european-psycholytic-therapy-1960s-1970s]], the analyst engages the patient in Freudian-style interpretive dialogue about emerging unconscious material. In [[metzner-syncretic-folk-religious-hallucinogenic-ceremonies]] ceremonies such as the [[metzner-mazatec-mushroom-veladas-darkness-singing-and-christian-syncretism]] (Mexico):** Participants sit or lie in a very dark room with only a small candle. The healer sings almost uninterrupted throughout the night, weaving Christian saints, spirit allies, and nature spirits into chants.
+Ralph Metzner"s 1998 comparative analysis identified three primary structural differences between traditional shamanic entheogenic ceremonies and typical Western [[european-psycholytic-therapy-1960s-1970s]], the analyst engages the patient in Freudian-style interpretive dialogue about emerging unconscious material. In [[metzner-syncretic-folk-religious-hallucinogenic-ceremonies]] ceremonies such as the [[metzner-mazatec-mushroom-veladas-darkness-singing-and-christian-syncretism]] (Mexico):** Participants sit or lie in a very dark room with only a small candle. The healer sings almost uninterrupted throughout the night, weaving Christian saints, spirit allies, and nature spirits into chants.
 
 **[[metzner-bwiti-iboga-ceremonies-ancestor-communication-and-addiction]] (Gabon/Zaïre):** An altar with ancestral images, people sitting on the floor with chanting and dancing. A mirror allows initiates to "see" their ancestral spirits.
 

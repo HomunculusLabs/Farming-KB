@@ -20,7 +20,6 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Kuo, M. (2024). "Suillus pungens." MushroomExpert.com. https://www.mushroomexpert.com/suillus_pungens.html---
----
 
 ## Suillus pungens
 

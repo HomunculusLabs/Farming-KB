@@ -1,5 +1,5 @@
 ---
-title: Wasson's Mexico Expeditions
+title: Wasson"s Mexico Expeditions
 created: 2026-04-16
 updated: 2026-04-16
 type: concept
@@ -7,14 +7,14 @@ tags: [reference]
 sources:
   - "raw/papers/hofmann-a-lsd-my-problem-child.md"
 ---
-## Wasson's Mexico Expeditions
+## Wasson"s Mexico Expeditions
 
 Between 1953 and the mid-1960s, [Robert Gordon Wasson made ten
 successive trips to Mexico in pursuit of indigenous psychoactive mushroom use. These
 expeditions resulted in the introduction of [[mckenna-mushroom-stones-of-guatemala]] and to the fact that the Aztec teonanacatl ("flesh of the gods") had
 been a mushroom rather than, as scholars had assumed, a cactus or other plant.
 
-Wasson wrote to the Austrian anthropologist Richard [[richard-evans-schultes-updated]]'s colleague Roberto Weitlaner and to the Czech engineer Blasius
+Wasson wrote to the Austrian anthropologist Richard [[richard-evans-schultes-updated]]"s colleague Roberto Weitlaner and to the Czech engineer Blasius
 Reko, both of whom had reported on indigenous mushroom use in Oaxaca. Reko forwarded
 Wasson's letter to Eunice Pike, a missionary resident in the Mazatec town of Huautla
 de Jimenez. Pike confirmed that mushrooms were indeed used in curing rituals and
@@ -35,7 +35,7 @@ in the Sierra Mazateca of Oaxaca.
 After days of fruitless searching, during which the taciturn locals proved reticent
 about mushrooms, they discovered that their local guide, Aurelio Carreras, was himself
 a curandero. After some persuasion, he agreed to hold a velada (mushroom vigil) to
-determine the health of Wasson's son Peter.
+determine the health of Wasson"s son Peter.
 
 Only Aurelio consumed mushrooms at this first ceremony, but Wasson was at last able to
 witness an authentic indigenous mushroom ceremony and make detailed records of it. He

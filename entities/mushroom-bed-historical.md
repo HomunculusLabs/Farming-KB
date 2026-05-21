@@ -9,7 +9,7 @@ tags: [bed, cultivation, historical, horse-manure, composting, 19th-century, out
 
 ## Description
 
-The mushroom bed, as described in James Cuthill's 1870 treatise, was a carefully constructed mound of composted horse manure prepared for the cultivation of Agaricus campestris (the common mushroom). Cuthill described multiple approaches to bed construction for different settings: cottage gardens, market gardens, and specialized mushroom houses. The bed preparation process involved precise management of temperature, moisture, and materials to create optimal conditions for spawn growth and mushroom production.
+The mushroom bed, as described in James Cuthill"s 1870 treatise, was a carefully constructed mound of composted horse manure prepared for the cultivation of Agaricus campestris (the common mushroom). Cuthill described multiple approaches to bed construction for different settings: cottage gardens, market gardens, and specialized mushroom houses. The bed preparation process involved precise management of temperature, moisture, and materials to create optimal conditions for spawn growth and mushroom production.
 
 ## Classification
 
@@ -36,7 +36,7 @@ The mushroom bed, as described in James Cuthill's 1870 treatise, was a carefully
 
 ## Bed Construction Process
 
-Cuthill's bed construction followed a precise sequence. First, a foundation of strawy dung was laid to ensure adequate depth. Then prepared horse droppings were added and trodden firmly. The temperature was monitored using a trial stick until it reached "milk heat" (approximately blood temperature). Summer droppings with natural spawn were then spread on the surface. Finally, four inches of unsifted mould were applied, trodden down hard, watered, and plastered smooth with the back of a spade. The entire process required careful attention to temperature, moisture, and timing.
+Cuthill"s bed construction followed a precise sequence. First, a foundation of strawy dung was laid to ensure adequate depth. Then prepared horse droppings were added and trodden firmly. The temperature was monitored using a trial stick until it reached "milk heat" (approximately blood temperature). Summer droppings with natural spawn were then spread on the surface. Finally, four inches of unsifted mould were applied, trodden down hard, watered, and plastered smooth with the back of a spade. The entire process required careful attention to temperature, moisture, and timing.
 
 ## Outdoor Ridge Beds
 

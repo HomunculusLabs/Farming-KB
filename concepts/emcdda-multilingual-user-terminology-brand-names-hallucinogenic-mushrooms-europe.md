@@ -36,7 +36,7 @@ The EMCDDA 2006 thematic paper compiled one of the most comprehensive inventorie
 - **"Paddos"** (or *paddestoelen*) — The most widely recognized Dutch user term, derived from the general word for toadstool/mushroom. The diminutive form "paddo" became so strongly associated with psychoactive mushrooms that it effectively became a specific rather than generic term in Dutch drug culture. The term is deeply embedded in Dutch smartshop culture and was used in mainstream media reporting on mushroom policy
 
 **German** (*Deutsch*):
-- **"Zauberpilze"** — Literally "magic mushrooms" or "sorcerer's mushrooms" (*Zauber* = magic/sorcery + *Pilze* = mushrooms). This is the most common German user term and media designation
+- **"Zauberpilze"** — Literally "magic mushrooms" or "sorcerer"s mushrooms" (*Zauber* = magic/sorcery + *Pilze* = mushrooms). This is the most common German user term and media designation
 - **"Psychoaktive Pilze"** — "Psychoactive mushrooms," a more clinical/formal term
 
 ### Nordic Languages
@@ -86,12 +86,12 @@ In the late 1990s, as smartshops commercialized hallucinogenic mushrooms, produc
 
 1. **Normalization** — Positioning mushrooms alongside other "natural" products
 2. **Legal ambiguity** — Creating a category that existed outside conventional drug classification
-3. **Consumer appeal** — Tapping into the era's preference for organic, herbal, and "natural" products
+3. **Consumer appeal** — Tapping into the era"s preference for organic, herbal, and "natural" products
 4. **Cross-selling** — Allowing retailers to bundle mushrooms with other herbal products
 
 ### Sclerotia Marketing
 
-The term **"Philosopher's stones"** for *[[psilocybe-mexicana]]* sclerotia represents a notable example of commercial naming innovation. Sclerotia (also called truffles) are dense masses of mycelium that serve as nutrient storage organs for the fungus. In the smartshop context, they were marketed as a distinct product category from fresh or dried mushrooms, with the alchemical name adding perceived mystique and value.
+The term **"Philosopher"s stones"** for *[[psilocybe-mexicana]]* sclerotia represents a notable example of commercial naming innovation. Sclerotia (also called truffles) are dense masses of mycelium that serve as nutrient storage organs for the fungus. In the smartshop context, they were marketed as a distinct product category from fresh or dried mushrooms, with the alchemical name adding perceived mystique and value.
 
 ### Strain and Variety Names
 
@@ -105,7 +105,7 @@ These geographic designations served as brand identifiers that communicated both
 
 ### Scientific vs. Folk Terminology
 
-The multilingual inventory reveals a consistent pattern: formal terminology uses chemical descriptors ("hallucinogenic," "psilocybin") while user slang prefers magical/mystical terms ("magic," "sorcerer's") or diminutive affectionate forms ("little mushrooms," "shrooms"). This duality reflects the ambiguous cultural status of psychoactive mushrooms.
+The multilingual inventory reveals a consistent pattern: formal terminology uses chemical descriptors ("hallucinogenic," "psilocybin") while user slang prefers magical/mystical terms ("magic," "sorcerer"s") or diminutive affectionate forms ("little mushrooms," "shrooms"). This duality reflects the ambiguous cultural status of psychoactive mushrooms.
 
 ### Cross-Border Terminology Transfer
 

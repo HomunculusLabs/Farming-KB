@@ -31,7 +31,7 @@ Pistia is a monotypic genus of aquatic plant in the family Araceae, represented 
 
 Mollison references Pistia specifically in the context of [[tropical-mulch-systems]]:
 
-- **High-quality mulch source**: In Mollison's mulch comparison (referencing Okigbo and Lal), Pistia (waterplant) mulch is noted for producing marked positive responses in maize yields. The aquatic plant accumulates nutrients from nutrient-rich water and transfers them to terrestrial growing systems when harvested and applied as mulch.
+- **High-quality mulch source**: In Mollison"s mulch comparison (referencing Okigbo and Lal), Pistia (waterplant) mulch is noted for producing marked positive responses in maize yields. The aquatic plant accumulates nutrients from nutrient-rich water and transfers them to terrestrial growing systems when harvested and applied as mulch.
 - **Aquaculture integration**: Grown in ponds, greywater treatment systems, and chinampa-style aquaculture setups where it serves multiple functions: water purification, fish habitat, and mulch production.
 - **Nutrient harvesting**: Pistia effectively "mines" dissolved nutrients from eutrophic water bodies. When harvested and applied to gardens, it transfers these captured nutrients to soil systems, embodying the [[permaculture-principle-1-observe-interact]] of turning problems into solutions.
 - **Wastewater treatment**: Can be cultivated in greywater or wastewater treatment lagoons where it absorbs excess nutrients and pollutants, producing clean water and harvestable biomass simultaneously.

@@ -5,7 +5,7 @@ author: masanobu-fukuoka
 topics: [natural-farming, philosophy, spirituality, ecology, sustainability]
 ---
 
-## Natural Farming as Spiritual Light for Humanity's Survival
+## Natural Farming as Spiritual Light for Humanity"s Survival
 
 In the preface to *The Road Back to Nature*, Masanobu Fukuoka articulates what
 he considered the deepest dimension [[allegro-garden-of-eden-and-delight]]. Rather than embracing this vision, he turned
@@ -13,7 +13,7 @@ his back on it and chose what he called "the road of a dilettante farmer tilling
 a lost paradise." During this period he knew both the reality of life and the
 essence of death — that one needs neither to labor in order to live nor to fear
 death. This knowledge brought him "the greatest of bliss, enjoying each day
-with a child's delight."
+with a child"s delight."
 
 But over time he lost this original naiveté and inspiration, becoming "once
 again a wretched fool." He blamed himself and reproached others, lived an idle

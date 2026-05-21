@@ -30,7 +30,7 @@ metaphor (opening hidden realms of the mind to direct observation); (4)
 personal experience of the therapist as essential prerequisite for effective
 practice; and (5) access to transcendent, religious, or transpersonal
 dimensions of consciousness, as recognized by Hofmann, Grof ("holotropic"
-states), and Leary's evolutionary framework.
+states), and Leary"s evolutionary framework.
 
 ### Empathogen Extension
 

@@ -21,7 +21,7 @@ sources:
 
 ## Common Names
 - English: golden jelly fungus, golden ear mushroom
-- Chinese: 金耳 (jin'er, "golden ear") | Japanese: キクラゲ (kikurage) | Tibetan: གོས་རིགས་སེལ་མོ (serluk)
+- Chinese: 金耳 (jin"er, "golden ear") | Japanese: キクラゲ (kikurage) | Tibetan: གོས་རིགས་སེལ་མོ (serluk)
 
 ## Taxonomy
 - **Kingdom:** Fungi → **Division:** Basidiomycota → **Class:** Tremellomycetes

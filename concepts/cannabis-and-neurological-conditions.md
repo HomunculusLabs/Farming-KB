@@ -14,7 +14,7 @@ updated: 2026-04-18
 
 Research from The [[cannabis-cannabinoid-receptor-pharmacology]] agonist nabilone for the treatment of dementia-related agitation." International Journal of Geriatric Psychiatry.
 
-Nabilone reduced agitation in dementia patients, addressing one of the most challenging behavioral symptoms of Alzheimer's.
+Nabilone reduced agitation in dementia patients, addressing one of the most challenging behavioral symptoms of Alzheimer"s.
 
 ### Food-as-Medicine for Alzheimer's
 - **Aged [[psilocybin-clinical-trial-landscape-2020-2025]].

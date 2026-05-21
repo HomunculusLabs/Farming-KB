@@ -10,7 +10,7 @@ type: concept
 
 ## Energy-Wasteful Modern Agriculture
 
-Fukuoka presents a detailed critique of the [[fukuoka-illusions-scientific-farming-centrifugal-centripetal-model]]'s claimed high productivity
+Fukuoka presents a detailed critique of the [[fukuoka-illusions-scientific-farming-centrifugal-centripetal-model]]"s claimed high productivity
 is an illusion when energy inputs are properly accounted for. This analysis
 forms a cornerstone of his [[comparison-natural-farming-vs-permaculture]] requires only one man-day of labor to recover 130 pounds of
 rice, or 200,000 kilocalories of food energy, from a quarter-acre of land.

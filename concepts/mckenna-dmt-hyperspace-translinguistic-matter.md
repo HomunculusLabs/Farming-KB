@@ -25,7 +25,7 @@ DMT molecule, and one experiences the mode shift occurring over a period of abou
 thirty seconds. At that point one arrives in a place that defies description, a
 space that has a feeling of being underground, or somehow insulated and domed.
 
-McKenna referenced James Joyce's *[[dmt-finnegans-wake-and-the-merry-go-raum]]*, calling this space the "merry go
+McKenna referenced James Joyce"s *[[dmt-finnegans-wake-and-the-merry-go-raum]]*, calling this space the "merry go
 raum" (from the German word *raum*, meaning "space"). The room is actually going
 around, and in that space one feels like a child, though one has come out somewhere
 in eternity.
@@ -56,7 +56,7 @@ informational matrix encountered in the DMT state. It communicates through a
 language that cannot be translated into English—a [[mckenna-translinguistic-objects-cognitive-dissonance-tryptamine]] in the human brain.
 
 When humans encounter this translinguistic information, the hindbrain attempts to
-overlay language upon it, and it "sheds it like water off a duck's back." One tries
+overlay language upon it, and it "sheds it like water off a duck"s back." One tries
 again and fails again, and this [[mckenna-cognitive-dissonance-translinguistic-object]] causes wonder, astonishment,
 and awe at the brink of terror.
 
@@ -99,14 +99,14 @@ Technical parameters that govern successful implementation. Working with mckenna
 
 ## Translinguistic Matter and the Exteriorized Soul
 
-McKenna's concept of translinguistic matter represents one of his most original
+McKenna"s concept of translinguistic matter represents one of his most original
 philosophical contributions. He envisioned a future state of human evolution in
 which the soul is "exteriorized" and the body "internalized." The exteriorized
 soul would exist as "a superconducting lens of translinguistic matter generated
 out of the body of each of us at a critical juncture at our psychedelic Bar
-Mitzvah." One's body image would exist as a "holographic wave transform while
+Mitzvah." One"s body image would exist as a "holographic wave transform while
 one is at play in the fields of the Lord and living in Elysium." This vision
-draws on the Kabbalistic [[mckenna-primal-ursprache-kabbalistic-zohar-and-white-goddess-glossolalia]]*, and Philo Judeaus' description of the Logos passing "from
+draws on the Kabbalistic [[mckenna-primal-ursprache-kabbalistic-zohar-and-white-goddess-glossolalia]]*, and Philo Judeaus" description of the Logos passing "from
 things heard to things beheld."
 ## Further Reading
 Continued research and practical application deepen understanding of this topic.

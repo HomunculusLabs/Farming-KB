@@ -20,7 +20,7 @@ based partnership religion to the alcohol-based [[allegro-fertility-philosophy-o
 One of the most astonishing murals unearthed at [[faires-beekeeping-and-honey-production]] processing were important enough to the religious
 and cultural life of that Neolithic city to merit prominent artistic
 representation. This find connects honey to the partnership cultures
-that McKenna sees as the original context for humanity's relationship
+that McKenna sees as the original context for humanity"s relationship
 with psychoactive plants.
 
 ## The Cattle-Bee Connection

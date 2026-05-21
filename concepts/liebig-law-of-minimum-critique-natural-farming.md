@@ -16,7 +16,7 @@ sources:
 type: concept
 ---
 
-## Liebig's Law of Minimum and Its Critique in Natural Farming
+## Liebig"s Law of Minimum and Its Critique in Natural Farming
 
 Liebig's Law of the Minimum, proposed by German chemist Justus von Liebig, is one of the most influential concepts in the history of [[fukuoka-inductive-deductive-intuitive-reasoning-agricultural-research]] and extension work for over a century.
 

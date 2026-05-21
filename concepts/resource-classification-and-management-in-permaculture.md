@@ -59,7 +59,7 @@ Immoral governments tolerate desertification and land salting, concreted highway
 
 ### Infrastructure Debt
 
-The consequences of unthinking resource use accumulate as infrastructure debt. Superhighways and overpasses in Massachusetts alone need some 400 billion dollars to repair, and the collapsing sewer systems of London and New York some 80 billion. Neither Massachusetts, London, nor New York can raise this money, demonstrating that an unthinking historical development strategy can cripple a future society. Today's luxuries are tomorrow's disasters.
+The consequences of unthinking resource use accumulate as infrastructure debt. Superhighways and overpasses in Massachusetts alone need some 400 billion dollars to repair, and the collapsing sewer systems of London and New York some 80 billion. Neither Massachusetts, London, nor New York can raise this money, demonstrating that an unthinking historical development strategy can cripple a future society. Today"s luxuries are tomorrow's disasters.
 
 ## The Principle of Enough
 

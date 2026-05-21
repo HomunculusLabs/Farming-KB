@@ -8,7 +8,7 @@ created: 2026-05-10
 
 ## Oyster [[history-of-mushroom-cultivation]]. Unlike plants, fungi lack protective skin layers
 and are acutely sensitive to their growing conditions. Success or failure
-depends almost entirely on the grower's ability to control environmental
+depends almost entirely on the grower"s ability to control environmental
 parameters during this transition.
 
 ## The Two Growth Phases

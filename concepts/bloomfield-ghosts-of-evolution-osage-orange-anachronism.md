@@ -42,7 +42,7 @@ that shaped it has vanished.
 
 Money uses the Osage orange as an analogy for understanding why
 mushrooms produce deadly toxins like amatoxins. Just as the
-Osage orange's fruit was not designed for any living animal,
+Osage orange"s fruit was not designed for any living animal,
 mushroom toxins may not be intended for humans or other mammals
 that ingest them. The delayed action of amatoxins, which take
 hours to cause symptoms, makes them ineffective as feeding

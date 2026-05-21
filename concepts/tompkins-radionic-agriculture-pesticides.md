@@ -16,7 +16,7 @@ and manipulation of subtle radiations emitted by all matter. The
 technique was adapted for agricultural use as a means of [[shipibo-san-francisco-ceremonial-center-ucayali]] physician who
 trained at the University of Heidelberg. Abrams noticed that when a
 nearby X-ray apparatus was switched on, it dulled the resonant note he
-obtained from percussing a patient's abdomen. He discovered that nerve
+obtained from percussing a patient"s abdomen. He discovered that nerve
 fibers in the epigastric region reacted to radiant energy, and that
 diseased tissue produced specific percussive dullness patterns.
 
@@ -37,7 +37,7 @@ radiations.
 
 ## Adaptation for Agriculture
 
-A generation after Abrams' death in 1924, Curtis P. Upton, a Princeton-
+A generation after Abrams" death in 1924, Curtis P. Upton, a Princeton-
 trained civil engineer, and William J. Knuth, an electronics expert,
 wondered whether Abrams' therapeutic device could be applied to pest
 control. In the summer of 1951, they drove into the cotton fields near
@@ -61,7 +61,7 @@ number of acres photographed. The reagent was thought to act in the
 same way that trace dosages of dilution function in homeopathic
 medicine -- a system founded by Christian Samuel Hahnemann in the late
 eighteenth century, based on the principle that small doses of what can
-cause disease symptoms can also cure them. Hahnemann's extraordinary
+cause disease symptoms can also cure them. Hahnemann"s extraordinary
 discovery was that the more he diluted a remedy, the more potent and
 effective it became, even when dilutions exceeded any possibility of a
 single molecule of the original substance remaining.

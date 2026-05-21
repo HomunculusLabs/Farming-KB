@@ -15,7 +15,7 @@ across 12 EU member states ranged from less than 1% to 8%:
 - **Highest prevalence**: Netherlands, Czech Republic, UK, Germany, and Ireland.
   These countries had both the longest histories of mushroom availability through
   smartshops and the most developed underground markets.
-- **Lowest prevalence**: Lithuania, Hungary, and France. France's 2000 general
+- **Lowest prevalence**: Lithuania, Hungary, and France. France"s 2000 general
   population survey showed low figures, though a 2003 survey of 17-18 year
   olds found 4.3% lifetime prevalence, 2.9% last-year, and 1% last-month use.
 - **Intermediate**: Austria, Poland, Finland, Denmark, Belgium, and Sweden.

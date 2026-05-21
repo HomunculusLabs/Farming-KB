@@ -15,7 +15,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "Lebot, V. & Lévesque, J. (1989). 'The origin and distribution of kava (guzman-allen-gartz-neurotropic-fungi-hawaii-pacific-islands for its psychoactive rhizome, which has been used for millennia as a social beverage, ceremonial sacrament, and medicinal remedy. The active constituents are a group of lipid-soluble lactones called kavalactones (or kavapyrones), which produce anxiolytic, sedative, and mildly euphoric effects without impairing cognitive clarity. Kava occupies a central role in Pacific Islander cultures, where it is consumed in communal rituals that reinforce social bonds and spiritual practice.
+  - "Lebot, V. & Lévesque, J. (1989). "The origin and distribution of kava (guzman-allen-gartz-neurotropic-fungi-hawaii-pacific-islands for its psychoactive rhizome, which has been used for millennia as a social beverage, ceremonial sacrament, and medicinal remedy. The active constituents are a group of lipid-soluble lactones called kavalactones (or kavapyrones), which produce anxiolytic, sedative, and mildly euphoric effects without impairing cognitive clarity. Kava occupies a central role in Pacific Islander cultures, where it is consumed in communal rituals that reinforce social bonds and spiritual practice.
 ---
 
 ## Taxonomy
@@ -42,7 +42,7 @@ The specific epithet *methysticum* derives from the Greek *methystikos* ("intoxi
 ## Distribution and Cultivation
 
 Native origin: Vanuatu ([[kava-traditional-preparation-ceremonial-context]] with ritual significance
-- **Hawaii:** Called *'awa*; traditionally used by *kahuna* for religious and healing; undergoing cultural revival
+- **Hawaii:** Called *"awa*; traditionally used by *kahuna* for religious and healing; undergoing cultural revival
 
 ### Cultivation Requirements
 

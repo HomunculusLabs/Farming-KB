@@ -17,7 +17,7 @@ title: "Permaculture Dynamic Accumulator Plants"
 
 # Permaculture Dynamic Accumulator Plants
 
-Dynamic accumulators are plants with deep taproots that mine minerals from subsoil layers and concentrate them in their leaves and above-ground tissues. When these plants are cut and used as mulch or compost, they cycle nutrients from deep in the soil profile to the surface where other plants can access them. Toby Hemenway discusses nutrient accumulators as a critical guild component in Gaia's Garden.
+Dynamic accumulators are plants with deep taproots that mine minerals from subsoil layers and concentrate them in their leaves and above-ground tissues. When these plants are cut and used as mulch or compost, they cycle nutrients from deep in the soil profile to the surface where other plants can access them. Toby Hemenway discusses nutrient accumulators as a critical guild component in Gaia"s Garden.
 
 ## How Dynamic Accumulators Work
 
@@ -71,7 +71,7 @@ The archetype of dynamic accumulators and the most valued in permaculture design
 - **Medicinal**: Liver tonic, digestive aid, diuretic
 - **Bee forage**: Important early spring nectar and pollen source; long flowering season
 - **Soil breaker**: Taproot opens compacted soil and creates channels for water infiltration
-- **Pioneer species**: One of nature's primary soil builders
+- **Pioneer species**: One of nature"s primary soil builders
 
 ### Chicory (Cichorium intybus)
 

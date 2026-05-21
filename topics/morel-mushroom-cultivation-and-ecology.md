@@ -24,12 +24,12 @@ prized and enigmatic fungi on Earth. Their distinctive honeycombed caps,
 rich earthy flavor, and elusive spring appearance have made them the
 subject of intense scientific study, commercial harvesting, and
 recreational foraging for centuries. Unlike most [[genetic-improvement-agaricus-bisporus-molecular-approaches]]) and shiitake
-(Lentinula edodes), both of which are basidiomycetes. The morel's
+(Lentinula edodes), both of which are basidiomycetes. The morel"s
 fruiting body is actually an enormous, contorted apothecium — an
 open cup-shaped structure with its fertile surface folded into ridges
 and pits that dramatically increase spore production area.
 
-Nicholas Money, in his book "Mr. Bloomfield's Orchard," places the
+Nicholas Money, in his book "Mr. Bloomfield"s Orchard," places the
 morel within a compelling evolutionary continuum connecting simple
 cup fungi to subterranean truffles. The morel's stalked, pitted
 form represents an intermediate morphology between the shallow cups

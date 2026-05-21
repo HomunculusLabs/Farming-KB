@@ -73,7 +73,7 @@ Myrcene is the dominant terpene in ~60–70% of commercial cannabis cultivars:
   barrier crossing; limited direct experimental confirmation
 - **Sedative contribution:** Strains high in myrcene (>0.5% w/w) are
   consistently associated with sedative, relaxing "couch-lock" effects;
-  myrcene's own analgesic and muscle relaxant activity likely contributes
+  myrcene"s own analgesic and muscle relaxant activity likely contributes
 - **Aroma:** Earthy, musky, herbal, slightly fruity ("green" or "balsamic")
 - **Strain examples:** OG Kush, [[cannabis-strain-mango-haze-northern-lights-skunk-haze]], 9 lb Hammer
 - **Breeding:** Selecting for high myrcene is common in sedative cultivar

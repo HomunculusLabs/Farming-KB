@@ -1,6 +1,6 @@
 ---
 title: Histoplasma capsulatum and Ohio Valley Disease
-source: Mr. Bloomfield's Orchard (Money, 2002)
+source: Mr. Bloomfield"s Orchard (Money, 2002)
 tags: [mycology, pathogen, histoplasmosis, dimorphic-fungus, respiratory-infection, bird-droppings]
 created: 2026-05-09
 ---

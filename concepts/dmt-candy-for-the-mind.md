@@ -15,7 +15,7 @@ D.M. Turner rates DMT (N,N-Dimethyltryptamine) as intensity 9 to 10, the highest
 ## Material
 
 N,N-Dimethyltryptamine and 5-Methoxy-Dimethyltryptamine are naturally occurring psychedelics found in a variety of plants worldwide, many native to the Amazon region. These alkaloids are also found in the human brain as neurotransmitters, as well as in blood, urine, and spinal fluid. DMT is produced in the human [[yopo-anadenanthera-peregrina-snuff]] (Yopo) and Virola theiodora (Epena) are made into snuffs
-- Amazon natives use ingenious methods: "snorter" tubes, or a two-person device where one person blows the snuff into the other's nose
+- Amazon natives use ingenious methods: "snorter" tubes, or a two-person device where one person blows the snuff into the other"s nose
 - The person receiving must quickly blow a dose back before falling into a "tryptamine trance"
 
 **Ayahuasca:**

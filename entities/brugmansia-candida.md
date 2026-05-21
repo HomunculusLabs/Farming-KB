@@ -17,7 +17,7 @@ sources:
 
 ## Overview
 
-**Brugmansia candida** is a woody, tree-like perennial in the family Solanaceae, native to the Andean regions of Ecuador, Peru, and Bolivia. It is commonly known as the white angel's trumpet due to its large, pendulous, trumpet-shaped flowers that can reach 20–30 cm in length.
+**Brugmansia candida** is a woody, tree-like perennial in the family Solanaceae, native to the Andean regions of Ecuador, Peru, and Bolivia. It is commonly known as the white angel"s trumpet due to its large, pendulous, trumpet-shaped flowers that can reach 20–30 cm in length.
 
 The species is distinguished from other Brugmansia by its densely pubescent branches, large white to pale cream flowers, and consistently present calyx teeth that persist on the fruit. It is one of the most widely cultivated Brugmansia species in tropical and subtropical gardens worldwide.
 

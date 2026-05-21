@@ -9,7 +9,7 @@ tags: [medicinal-plant, alkaloid, antimalarial, permaculture, cinchona]
 
 ## Description
 
-quinine mollison is a bitter alkaloid mentioned by [[permaculture]]: A Designers' Manual* as an example of a crop with "special value" — a substance that commands unique importance beyond ordinary food production. Extracted from the bark of Cinchona trees, quinine was historically the primary treatment for malaria and remains one of the most significant medicinal compounds derived from plants.
+quinine mollison is a bitter alkaloid mentioned by [[permaculture]]: A Designers" Manual* as an example of a crop with "special value" — a substance that commands unique importance beyond ordinary food production. Extracted from the bark of Cinchona trees, quinine was historically the primary treatment for malaria and remains one of the most significant medicinal compounds derived from plants.
 
 ## Classification
 

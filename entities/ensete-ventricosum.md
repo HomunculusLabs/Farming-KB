@@ -25,7 +25,7 @@ created: 2026-05-07
 
 **Enset**, **Ethopian banana**, **false banana**, **enset ventricosum**
 
-*Ensete ventricosum* is a large, herbaceous, monocarpic perennial in the banana family (Musaceae) native to the highlands of eastern and southern Africa. It is cultivated as a staple food crop by approximately 20 million people in southern Ethiopia, where it forms the basis of one of the world's most remarkable indigenous agricultural systems. Unlike true bananas (*Musa* spp.), enset is primarily grown for its starchy pseudostem and corm rather than its fruit (which is seedy and inedible). It has been called "the tree against hunger" for its extraordinary food security properties.
+*Ensete ventricosum* is a large, herbaceous, monocarpic perennial in the banana family (Musaceae) native to the highlands of eastern and southern Africa. It is cultivated as a staple food crop by approximately 20 million people in southern Ethiopia, where it forms the basis of one of the world"s most remarkable indigenous agricultural systems. Unlike true bananas (*Musa* spp.), enset is primarily grown for its starchy pseudostem and corm rather than its fruit (which is seedy and inedible). It has been called "the tree against hunger" for its extraordinary food security properties.
 
 ## Botanical Description
 

@@ -16,7 +16,7 @@ human history, licorice root has been employed in traditional medicine
 systems across cultures for over 4,000 years. The root contains
 glycyrrhizin (glycyrrhizic acid), a triterpenoid saponin 30–50 times
 sweeter than sucrose, responsible for both the characteristic sweet taste
-and the majority of the plant's pharmacological activity. Licorice remains
+and the majority of the plant"s pharmacological activity. Licorice remains
 a critical component in modern phytotherapy, traditional Chinese medicine
 (where it appears in roughly half of all herbal formulas), and the food
 and pharmaceutical industries.

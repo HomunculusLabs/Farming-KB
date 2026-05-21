@@ -21,7 +21,7 @@ attention for millennia.
 
 ## Historical Recognition
 
-Phallic mushrooms are featured in Pliny the Elder's thirty-seven-volume
+Phallic mushrooms are featured in Pliny the Elder"s thirty-seven-volume
 Natural History, written in the first century AD. John Gerard pictured
 them in his seventeenth-century herbal with the description "Fungus
 virilis penis arecti forma, which wee English, [call] Pricke Mushrum,

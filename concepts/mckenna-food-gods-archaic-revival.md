@@ -14,7 +14,7 @@ updated: 2026-04-26
 
 McKenna argued that we face a situation "not one of seeking the answer, but of facing the answer. The answer has been found; it just happens to lie on the wrong side of the fence of social toleration and legality." He compared the situation to the invention of the telescope in the 16th century — a tool that "shattered the established paradigm of the heavens" — arguing that psychedelics are "the most powerful instruments for the study of the mind that are possible to conceive."
 
-The 1960s, in McKenna's view, proved that "we are not wise enough to take the psychedelic tools into our hands without a social and intellectual transformation. This transformation must begin now with each of us."
+The 1960s, in McKenna"s view, proved that "we are not wise enough to take the psychedelic tools into our hands without a social and intellectual transformation. This transformation must begin now with each of us."
 
 ## Facing the Answer: Technique and Practice
 
@@ -27,13 +27,13 @@ McKenna offered practical guidance for those who would undertake the psychedelic
 8. **Massive support for scientific research** and public education
 9. **One year after implementation**, decriminalization of all remaining illegal drugs, with government sale at cost plus 200% to fund social, medical, and educational costs
 
-He grounded these proposals in the American founding principle: "our inalienable rights include 'life, liberty, and the pursuit of happiness.' To pretend that the right to the pursuit of happiness does not include the right to experiment with psychoactive plants and substances is to make an argument that is at best narrow and at worst ignorant and primitive."
+He grounded these proposals in the American founding principle: "our inalienable rights include "life, liberty, and the pursuit of happiness.' To pretend that the right to the pursuit of happiness does not include the right to experiment with psychoactive plants and substances is to make an argument that is at best narrow and at worst ignorant and primitive."
 
 ## The War on Drugs as Dominator Strategy
 
 McKenna argued that "the war on drugs was never meant to be won." Instead, it serves to allow intelligence operations to profit from the global drug trade while simultaneously suppressing the one class of substances — psychedelics — that threatens dominator control. "In cynically manipulating nations and peoples with narcotics and stimulants, modern governments have associated themselves with an ethical disaster comparable to the eighteenth-century rebirth of the slave trade."
 
-He connected the drug war to [[leary-psychedelic-experience-bardo-mapping]]" and therefore could not imagine that "the task of managing a global human population into a state of balance and happiness could involve introducing the experience of an internal horizon of transcendence into people's lives."
+He connected the drug war to [[leary-psychedelic-experience-bardo-mapping]]" and therefore could not imagine that "the task of managing a global human population into a state of balance and happiness could involve introducing the experience of an internal horizon of transcendence into people"s lives."
 
 ## Overview
 

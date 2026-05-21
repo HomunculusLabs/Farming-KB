@@ -18,7 +18,7 @@ The Hawaiian ohana and Maori marae were geomorphic and sociological units in whi
 - **D**: Fish ponds to retain leached nutrients, growing mullet and shellfish
 - **E**: Reef modified with coral blocks to shelter crayfish and fish
 
-This template provides a framework for understanding how every part of a landscape contributes to the whole system's productivity and resilience.
+This template provides a framework for understanding how every part of a landscape contributes to the whole system"s productivity and resilience.
 
 ## The Hill-to-Shore Profile
 

@@ -70,7 +70,7 @@ Cloning (taking cuttings from a mother plant) produces genetically identical cop
 
 ### Guerrilla Farming
 
-- Growing away from your property in public areas or on others' land.
+- Growing away from your property in public areas or on others" land.
 - Requires finding remote, hidden locations with good sunlight, water access, and soil.
 - Higher risk of discovery by hikers, landowners, and law enforcement.
 - Plants must be self-sufficient (no daily visits).

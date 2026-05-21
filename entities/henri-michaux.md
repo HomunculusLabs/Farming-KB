@@ -26,7 +26,7 @@ Henri Michaux (1899–1984) was a Belgian-born French poet, writer, and painter,
 - Refused the Grand Prix National des Lettres in 1965
 
 ## The "Retinal Circus" Phrase
-Leary borrows Michaux's evocative term for **Vision 6** of the Second Bardo — the kaleidoscopic, ever-changing panorama of visual phenomena that fills consciousness during psychedelic experiences. Michaux's phrase captures the quality of endless, autonomous visual production that the unprepared mind finds overwhelming but the prepared mind finds delightful. The "circus" metaphor suggests both spectacle and chaos.
+Leary borrows Michaux"s evocative term for **Vision 6** of the Second Bardo — the kaleidoscopic, ever-changing panorama of visual phenomena that fills consciousness during psychedelic experiences. Michaux's phrase captures the quality of endless, autonomous visual production that the unprepared mind finds overwhelming but the prepared mind finds delightful. The "circus" metaphor suggests both spectacle and chaos.
 
 ## Relevance to Cultivation and Mycology
 Michaux's documentation of mescaline visions provides detailed phenomenological descriptions that are applicable to understanding [[psilocybin]] visual effects. His work demonstrates that the visual phenomena of psychedelics are not random hallucinations but organized, patterned experiences with consistent features across individuals. Artists and writers working with psilocybin often report similar visual cascades.

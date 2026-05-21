@@ -53,7 +53,7 @@ harvest is expected around September 15th, which places it weeks ahead of many
 other African sativas. This relatively early finish is a significant advantage
 for outdoor growers in [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]], where autumn rains and frost can
 devastate late-finishing sativa crops. The Rev attributes this characteristic
-to Swaziland's relatively southern position within Africa, which subjects
+to Swaziland"s relatively southern position within Africa, which subjects
 native populations to a shorter growing season than equatorial regions.
 
 Yield is impressive, with expectations of approximately 500 grams per plant

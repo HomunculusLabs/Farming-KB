@@ -10,7 +10,7 @@ tags: [climate, culture, permaculture, site-design]
 ## Climate Zones and Permaculture Strategies
 
 The [[mollison-designers-snow-ice-and-winter-design-strategies]]
-for each major climate zone. Mollison's approach is to develop
+for each major climate zone. Mollison"s approach is to develop
 general principles that apply across climates while identifying
 zone-specific techniques.
 

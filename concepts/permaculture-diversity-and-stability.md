@@ -12,7 +12,7 @@ In permaculture, **stress** and **harmony** are defined relative to the whole sy
 
 Stress is not merely a condition of individual suffering — it is a systemic condition that propagates through connections. When one component is stressed, the effects ripple outward through its relationships with other components, potentially destabilizing the entire system. A stressed plant weakens the insects that depend on it, which in turn affects the birds that feed on those insects, and so on through the web of connections.
 
-Mollison defines stress broadly: it is any factor that reduces the ability of a system or its components to function at full capacity. This includes nutrient deficiency, water scarcity, temperature extremes, pollution, and even the absence of necessary biological partners. The permaculture designer's first task is to identify sources of stress and then design connections that relieve them.
+Mollison defines stress broadly: it is any factor that reduces the ability of a system or its components to function at full capacity. This includes nutrient deficiency, water scarcity, temperature extremes, pollution, and even the absence of necessary biological partners. The permaculture designer"s first task is to identify sources of stress and then design connections that relieve them.
 
 ## The True Nature of Diversity
 
@@ -22,7 +22,7 @@ A complex but disorganized assemblage can be just as fragile as a simple one if 
 
 > "It is not the number of diverse things in a design that leads to stability, it is the number of beneficial connections between these components."
 
-This principle reframes the entire approach to design. The designer's task is not to maximize the number of species on a site, but to maximize the number of functional, mutually supportive connections between the species and elements that are present. Every connection represents a pathway for energy, nutrient, or information exchange that strengthens the system's capacity to self-regulate.
+This principle reframes the entire approach to design. The designer"s task is not to maximize the number of species on a site, but to maximize the number of functional, mutually supportive connections between the species and elements that are present. Every connection represents a pathway for energy, nutrient, or information exchange that strengthens the system's capacity to self-regulate.
 
 A well-connected polyculture of ten species can be far more stable than a haphazard collection of fifty species with few or no functional links. The chicken in a chicken-tractor system is connected to the garden bed (fertilization, pest control), to the food scraps (waste recycling), and to the household (egg production). Each of these connections adds stability. Adding a hundred more species with no connections adds nothing to stability and may even subtract from it by introducing competition for limited resources.
 
@@ -84,7 +84,7 @@ The permaculture designer must balance the need for long-term biomass storage (f
 
 Species diversity — richness specifically — counteracts the decline in yield associated with system aging. By maintaining a high number of species with different strategies, niches, and growth forms, the system captures and utilizes a greater proportion of the incoming energy. Different species access different resources (deep-rooted vs shallow-rooted, shade-tolerant vs sun-loving, nitrogen-fixing vs heavy feeders), so a species-rich system converts more incoming solar energy into biomass than a species-poor one, even at the same successional stage.
 
-**Species richness ensures that the system makes the most of incoming energy** rather than allowing it to pass through unused. Where one species' growth slows due to age or competition, another can fill the gap. Where one resource becomes limiting, species with alternative strategies can continue to capture energy. The result is a system that maintains higher total energy flow and yield over time than any single-species or low-diversity system could achieve.
+**Species richness ensures that the system makes the most of incoming energy** rather than allowing it to pass through unused. Where one species" growth slows due to age or competition, another can fill the gap. Where one resource becomes limiting, species with alternative strategies can continue to capture energy. The result is a system that maintains higher total energy flow and yield over time than any single-species or low-diversity system could achieve.
 
 ## Dynamic Stability: Riding a Bicycle
 

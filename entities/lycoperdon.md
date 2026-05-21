@@ -57,7 +57,7 @@ The anesthetic properties of mature puffballs represent a historically interesti
 
 ## Historical Notes
 
-Palmer discusses Lycoperdon in the context of a poisoning case where a family stewed puffballs together with an Amanita specimen. The mixture complicated the clinical picture, as the puffballs' own mild anesthetic properties may have interacted with the [[amanita-alkaloid-medicinal-uses-pilocarpine-treatment]]. Palmer states that puffballs "contain an anesthetic, of which little is known" while emphasizing that young specimens "may be eaten with safety" — a fact he describes as among the most certain in all of mycology.
+Palmer discusses Lycoperdon in the context of a poisoning case where a family stewed puffballs together with an Amanita specimen. The mixture complicated the clinical picture, as the puffballs" own mild anesthetic properties may have interacted with the [[amanita-alkaloid-medicinal-uses-pilocarpine-treatment]]. Palmer states that puffballs "contain an anesthetic, of which little is known" while emphasizing that young specimens "may be eaten with safety" — a fact he describes as among the most certain in all of mycology.
 
 ## Historical Context
 

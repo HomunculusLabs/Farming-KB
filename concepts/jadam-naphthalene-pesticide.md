@@ -12,7 +12,7 @@ sources:
 
 ## Overview
 
-Naphthalene pesticide is one of Youngsang Cho's documented inventions within the JADAM [[jadam-nutrient-management-wetting-agent-and-calcium]], sulfur, liquid fertilizer, [[singh-fungal-biodegradation-of-polycyclic-aromatic-hydrocarbons]] hydrocarbon with the following characteristics:
+Naphthalene pesticide is one of Youngsang Cho"s documented inventions within the JADAM [[jadam-nutrient-management-wetting-agent-and-calcium]], sulfur, liquid fertilizer, [[singh-fungal-biodegradation-of-polycyclic-aromatic-hydrocarbons]] hydrocarbon with the following characteristics:
 
 - A white crystalline solid with a characteristic mothball odor
 - Found naturally in coal tar and petroleum deposits

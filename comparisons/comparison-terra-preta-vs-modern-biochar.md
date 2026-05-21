@@ -11,7 +11,7 @@ tags:
   - soil-science
 date: 2026-04-28
 updated: 2026-04-28
-sources: ['raw/papers/unknown-biodiversity-fungi-soil-fungal-communities|biodiversity-of-fungi.md']
+sources: ["raw/papers/unknown-biodiversity-fungi-soil-fungal-communities|biodiversity-of-fungi.md']
 type: comparison
 ---
 

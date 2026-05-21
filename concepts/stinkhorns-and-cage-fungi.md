@@ -9,7 +9,7 @@ sources:
 ---
 ## Stinkhorns and Cage Fungi Stinkhorns and cage fungi are among the most flamboyant and visually striking members of the basidiomycota, producing elaborate fruiting bodies that use carrion-mimicking odors to attract insect vectors for spore dispersal. Described vividly by [[dighton-fungal-decomposition-leaf-litter-dynamics]]. Inside the egg, a preformed receptacle is packaged alongside the green-black [[comparison-fruiting-body-vs-mycelium-extracts-medicinal-mushrooms]] can protrude 6 inches or more from the forest floor.
 
-The gleba is smeared with a cocktail of volatile chemicals including hydrogen sulfide, formaldehyde, methylmercaptan, and unique compounds called phallic acids. These mimic the smell of rotting flesh, attracting flies and slugs that consume the spore-laden slime and disperse the spores through defecation. Charles Darwin's daughter Etty was so offended by stinkhorns that she mounted a personal campaign to destroy them with gloves and a pointed stick, burning collections in secret.
+The gleba is smeared with a cocktail of volatile chemicals including hydrogen sulfide, formaldehyde, methylmercaptan, and unique compounds called phallic acids. These mimic the smell of rotting flesh, attracting flies and slugs that consume the spore-laden slime and disperse the spores through defecation. Charles Darwin"s daughter Etty was so offended by stinkhorns that she mounted a personal campaign to destroy them with gloves and a pointed stick, burning collections in secret.
 
 ## Cage Fungi: Clathrus, Anthurus, and Laternea
 

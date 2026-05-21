@@ -44,7 +44,7 @@ psilocybin mushrooms that persisted for nearly two thousand years.
 
 ## The Wasson Expedition and Its Aftermath
 
-Gordon Wasson's 1955 experience with the Mazatec curandera Maria Sabina
+Gordon Wasson"s 1955 experience with the Mazatec curandera Maria Sabina
 in Huautla de Jimenez, Mexico, and the subsequent 1957 LIFE magazine article
 "Seeking the Magic Mushroom," catalyzed Western interest in psilocybin.
 Albert Hofmann subsequently isolated and identified psilocybin and psilocin

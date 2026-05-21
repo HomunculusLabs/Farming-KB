@@ -1,6 +1,6 @@
 ---
-title: "Fukuoka's Eastern vs. fukuoka eastern western medicine healing world crisis — Healing the World in Crisis"
-source: "Sowing Seeds in the Desert (2012), Chapter 3: 'Healing a World In Crisis'"
+title: "Fukuoka"s Eastern vs. fukuoka eastern western medicine healing world crisis — Healing the World in Crisis"
+source: "Sowing Seeds in the Desert (2012), Chapter 3: "Healing a World In Crisis'"
 tags:
   - masanobu-fukuoka draws a detailed parallel
 between Eastern and Western approaches to medicine and their corresponding agricultural
@@ -13,13 +13,13 @@ than attack individual symptoms.
 
 ## The Ethiopian Refugee Hospital
 
-Fukuoka's most vivid illustration of the connection between human and ecological
+Fukuoka"s most vivid illustration of the connection between human and ecological
 healing comes from his visit to an Ethiopian refugee camp. He describes a "hospital"
 consisting of nothing more than "palm leaves placed atop several spindly poles,
 providing a little shade."
 
 The diagnostic method was stark: "A child was considered ill when his or her height
-was too tall in proportion to the child's weight, and the patient would be given a
+was too tall in proportion to the child"s weight, and the patient would be given a
 cup of milk containing a drop of nutritional supplement." Of the two to three hundred
 people who gathered each morning, only twenty to thirty children were deemed sick.
 "The children who received no milk cried and whimpered. They did not cry because they

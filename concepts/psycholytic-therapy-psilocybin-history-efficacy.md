@@ -12,7 +12,7 @@ Psycholytic therapy is a form of psychotherapy in which low-to-moderate doses of
 
 Upon discovery of the unique properties of hallucinogenic agents during the 1950s, LSD gained widespread popularity as a therapeutic agent, while mescaline remained obscure. Patients under the influence of these substances confronted long-repressed traumatic events that began to surface and enter conscious awareness — in some cases, traumatic experiences repressed since early childhood. Medical records indicate that many patients not only remembered but **actually relived** traumatic experiences in therapeutic settings.
 
-[[valentina-pavlovna-wasson]], R.G. Wasson's wife, wrote presciently after her 1957 self-experiment with [[psilocybin-mushrooms]] that the substance would benefit the treatment of alcoholism, drug addiction, mental problems, and ease the suffering of terminally ill patients — predictions that were validated by subsequent research.
+[[valentina-pavlovna-wasson]], R.G. Wasson"s wife, wrote presciently after her 1957 self-experiment with [[psilocybin-mushrooms]] that the substance would benefit the treatment of alcoholism, drug addiction, mental problems, and ease the suffering of terminally ill patients — predictions that were validated by subsequent research.
 
 ## Why Psilocybin Was Preferred Over LSD
 
@@ -85,9 +85,9 @@ The most remarkable application involved treating terminal patients to ease deat
 - Stereo music significantly enhanced the depth of transpersonal experiences
 - S. Grof provided compassionate analysis of numerous successful treatments
 
-### Fischer's "Letter Resynthesis" Experiments
+### Fischer"s "Letter Resynthesis" Experiments
 
-R. Fischer demonstrated that under psilocybin influence, participants could **"re-synthesize" partially displayed words** — reading significantly more words when only letter stumps were visible. This confirmed that psilocybin's effects are not merely "psychotic" but rather **initiate new information processing mechanisms** between different interactive brain areas.
+R. Fischer demonstrated that under psilocybin influence, participants could **"re-synthesize" partially displayed words** — reading significantly more words when only letter stumps were visible. This confirmed that psilocybin"s effects are not merely "psychotic" but rather **initiate new information processing mechanisms** between different interactive brain areas.
 
 ### Diagnostic Applications
 
@@ -107,7 +107,7 @@ S. Grof analyzed 5,000 experimental LSD protocols and identified a consistent pr
 4. **Perinatal** — experiences related to birth trauma
 5. **Transpersonal** — mystical/religious experiences, archetypal imagery, experiences of unity and eternity
 
-Grof concluded that hallucinogenic substances are **non-specific triggers** causing a sequence of altered states of consciousness. The individual's personality and the experimental setting ("[[lsd-set-and-setting-framework]]") significantly shape the nature of the experience. Even "real" somatic symptoms like nausea or vomiting could often be controlled through psychological intervention.
+Grof concluded that hallucinogenic substances are **non-specific triggers** causing a sequence of altered states of consciousness. The individual"s personality and the experimental setting ("[[lsd-set-and-setting-framework]]") significantly shape the nature of the experience. Even "real" somatic symptoms like nausea or vomiting could often be controlled through psychological intervention.
 
 ## Ideal Treatment for Panic Reactions
 

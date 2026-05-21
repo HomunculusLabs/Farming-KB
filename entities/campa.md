@@ -7,7 +7,7 @@ tags: [indigenous-people, amazon, peru, ayahuasca, shamanism]
 
 ## Description
 
-The Campa (also known as Asháninka) are an indigenous Arawakan-speaking people of eastern Peru who practice [[ayahuasca]] ceremonies distinguished by the directive role of a shaman as leader of the rituals. Unlike the egalitarian Cashinahua or the individualistic Jivaro, the Campa model features a hierarchically organized ceremony in which the shaman directs the group experience. The [[campa-ayahuasca-ceremony]] has been studied by anthropologist [[gerald-weiss]] for its evolutionary implications — specifically, how the shaman's directorial role may shed light on the historical transition from shamanism to priesthood.
+The Campa (also known as Asháninka) are an indigenous Arawakan-speaking people of eastern Peru who practice [[ayahuasca]] ceremonies distinguished by the directive role of a shaman as leader of the rituals. Unlike the egalitarian Cashinahua or the individualistic Jivaro, the Campa model features a hierarchically organized ceremony in which the shaman directs the group experience. The [[campa-ayahuasca-ceremony]] has been studied by anthropologist [[gerald-weiss]] for its evolutionary implications — specifically, how the shaman"s directorial role may shed light on the historical transition from shamanism to priesthood.
 
 ## Classification
 

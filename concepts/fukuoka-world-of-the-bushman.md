@@ -14,7 +14,7 @@ In *The Road Back to Nature*, [[comparison-natural-farming-vs-permaculture]] is,
 
 ## Touching the Great Spirit
 
-Fukuoka describes the Bushman's spiritual connection to nature:
+Fukuoka describes the Bushman"s spiritual connection to nature:
 
 - The Bushman lives in direct communion with what Fukuoka calls the "Great Spirit"
 - This connection is not mediated by religion, philosophy, or science

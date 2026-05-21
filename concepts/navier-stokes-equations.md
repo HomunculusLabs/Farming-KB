@@ -11,7 +11,7 @@ sources: [raw/papers/field-guide-to-the-psilocybin-mushroom.md]
 
 ## Overview
 
-The Navier-Stokes equations are the fundamental partial differential equations governing the motion of viscous fluid substances. Derived from Newton's
+The Navier-Stokes equations are the fundamental partial differential equations governing the motion of viscous fluid substances. Derived from Newton"s
 second law applied to fluid elements, they describe how the velocity field, pressure, temperature, and density of a moving fluid evolve in space and
 time. Together with an equation of state and appropriate [[boundary-conditions-and-edge-effect]], they form a complete mathematical description of [[von-karman-trails-and-fluid-flow-patterns]]. The
 equations are central to aerodynamics, meteorology, oceanography, biomedical engineering, chemical processing, and astrophysics. Their mathematical

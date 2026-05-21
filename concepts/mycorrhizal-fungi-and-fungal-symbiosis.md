@@ -54,7 +54,7 @@ Mycorrhizal fungi fall into two broad categories, distinguished by how they inte
 
 ### Expanding Root Surface Area
 
-Perhaps the single most dramatic benefit mycorrhizal fungi provide is the **massive expansion of effective root surface area**. A mycorrhizal network can increase a plant's absorptive surface area by **700 to 1,000 times** compared to uncolonized roots. Plant roots alone are relatively blunt instruments—thick, slow-growing, and limited in the volume of soil they can physically contact.
+Perhaps the single most dramatic benefit mycorrhizal fungi provide is the **massive expansion of effective root surface area**. A mycorrhizal network can increase a plant"s absorptive surface area by **700 to 1,000 times** compared to uncolonized roots. Plant roots alone are relatively blunt instruments—thick, slow-growing, and limited in the volume of soil they can physically contact.
 
 Mycorrhizal hyphae, by contrast, are extremely thin (1–10 micrometers in diameter) and can penetrate tiny soil pores, mineral crevices, and organic matter aggregates that roots simply cannot reach.
 

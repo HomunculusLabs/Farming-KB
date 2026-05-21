@@ -19,7 +19,7 @@ Mycorrhizal colonization percentage is a key indicator of root-zone health. Rese
 | Above 30-40% | Healthy colonization | Root disease problems, root-feeding nematodes, and other root pests begin to go away |
 | Below 40% | Vulnerable zone | Root disease problems and root-feeding nematodes are consistently observed |
 
-The key transition occurs around 30-40% colonization. Below this threshold, plants are susceptible to root diseases and root-feeding nematodes. Above it, these problems diminish significantly. The data comes from SFI's microscopy-based assessment of VAM (vesicular-arbuscular mycorrhizal) colonization in root samples.
+The key transition occurs around 30-40% colonization. Below this threshold, plants are susceptible to root diseases and root-feeding nematodes. Above it, these problems diminish significantly. The data comes from SFI"s microscopy-based assessment of VAM (vesicular-arbuscular mycorrhizal) colonization in root samples.
 
 When VAM colonization is less than 40%, root disease problems, root-feeding nematodes, and other root pests are consistently observed. Once VAM or ectomycorrhizal colonization gets above 30-40%, these root problems begin to go away. If colonization falls below 10-15%, a direct inoculum of mycorrhizal fungi is needed to jump-start the relationship.
 

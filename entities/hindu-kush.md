@@ -14,7 +14,6 @@ updated: 2026-04-28
 sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
 created: 2026-05-07---
----
 
 ## Hindu Kush
 

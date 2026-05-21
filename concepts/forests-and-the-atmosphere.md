@@ -61,7 +61,7 @@ Different tree species channel water in different ways:
 
 ### Biomass Water Content
 
-The forest is an enormous water mass. Approximately 86% of forest mass is water, and 96% of leaves and twigs consist of water. This represents a tremendous weight on the Earth's surface — forests function as vertical water tanks of staggering capacity.
+The forest is an enormous water mass. Approximately 86% of forest mass is water, and 96% of leaves and twigs consist of water. This represents a tremendous weight on the Earth"s surface — forests function as vertical water tanks of staggering capacity.
 
 ### Soil Water Storage
 

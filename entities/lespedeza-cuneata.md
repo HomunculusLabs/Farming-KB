@@ -15,7 +15,7 @@ updated: 2026-04-28
 sources:
     Vol. 3, Part 2. Leguminosae. University of north-carolina-mycodiversity Press.
     lespedeza." Advances in Agronomy, 18: 69-101.
-    Farmers' Bulletin No. 2240.
+    Farmers" Bulletin No. 2240.
     "The effect of sericea lespedeza on fecal egg counts of goats."
     Journal of Animal Science, 83(12): 2777-2784.
     trefoil and sericea for the tropics and subtropics." Tropical

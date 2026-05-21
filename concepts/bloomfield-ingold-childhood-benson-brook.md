@@ -1,6 +1,6 @@
 ---
-title: "Ingold's Childhood in Benson — Discovery of Aquatic Spores in a Village Brook"
-source: "Mr. Bloomfield's Orchard — The Mysterious World of Mushrooms, Molds, and Mycologists"
+title: "Ingold"s Childhood in Benson — Discovery of Aquatic Spores in a Village Brook"
+source: "Mr. Bloomfield"s Orchard — The Mysterious World of Mushrooms, Molds, and Mycologists"
 author: "Nicholas P. Money"
 tags:
   - biographical
@@ -12,7 +12,7 @@ tags:
   - freshwater-ecology
 ---
 
-## Ingold's Childhood in Benson — Discovery of Aquatic Spores in a Village Brook
+## Ingold"s Childhood in Benson — Discovery of Aquatic Spores in a Village Brook
 
 Cecil [[coleman-louis-savier-twentieth-century-maraicher]], yet his most celebrated discovery began not in a
 sophisticated laboratory but beside an unremarkable chalk stream in the
@@ -56,7 +56,7 @@ Madelin showed him a book called *The Nature of Toadstools*, written by
 C. T. Ingold. At the end of the preface, Money read the words: "Benson,
 Oxfordshire, 1978, C.T.I." His face flushed. The old man, the retiree,
 his neighbor, was Ingold. He had decided to become a mycologist, and a year
-later discovered that he had grown up next to England's best-known fungal
+later discovered that he had grown up next to England"s best-known fungal
 biologist.
 
 ## The Discovery of Aquatic Spores

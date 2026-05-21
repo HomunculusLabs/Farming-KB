@@ -6,7 +6,7 @@ type: concept
 
 ## Fall and Winter Sowing Schedules
 
-Successful winter harvesting begins with precise succession sowing across multiple protected environments. [[eliot-coleman]]'s system at [[four-season-farm]] uses four distinct planting sites, each providing progressively more protection, to extend the harvest season from fall through the depths of winter.
+Successful winter harvesting begins with precise succession sowing across multiple protected environments. [[eliot-coleman]]"s system at [[four-season-farm]] uses four distinct planting sites, each providing progressively more protection, to extend the harvest season from fall through the depths of winter.
 
 ## The Four Planting Sites
 
@@ -82,13 +82,13 @@ Each crop is matched to the site where it performs best. Cold-tolerant crops lik
 
 ## The Historical Foundation: French Intensive Gardening
 
-Coleman's scheduling system draws on a rich tradition of intensive vegetable production, particularly the French *culture maraîchère* system. The annotated bibliography accompanying the sowing schedules provides a reading list spanning from the late 19th century to the present:
+Coleman"s scheduling system draws on a rich tradition of intensive vegetable production, particularly the French *culture maraîchère* system. The annotated bibliography accompanying the sowing schedules provides a reading list spanning from the late 19th century to the present:
 
 ### Foundational Historical Texts
 
 - **P. Aquatias, *Intensive Culture of Vegetables on the French System* (1913)** — Identifies "manure, water, and labor" as the backbone of intensive culture, detailing their application in year-round vegetable production.
 - **L.H. Bailey, *The Forcing Book* (1897)** — A comprehensive classic on greenhouse vegetable forcing, with information still relevant today.
-- **Henry A. Dreer, *Dreer's Vegetables Under Glass* (1896)** — A practical gem from an experienced grower who traveled widely to study techniques.
+- **Henry A. Dreer, *Dreer"s Vegetables Under Glass* (1896)** — A practical gem from an experienced grower who traveled widely to study techniques.
 - **Peter Henderson, *Gardening for Profit* (1907)** — First published in 1867, the foundational American text on market gardening.
 - **Peter Kropotkin, *Fields, Factories and Workshops* (1901)** — A perceptive ecological analysis described by *The Ecologist* as "one of the canonical texts of the ecological tradition."
 - **A.J. Macself, *French Intensive Gardening* (1932)** — Hard data from a competent practitioner, with excellent illustrations.
@@ -99,7 +99,7 @@ Coleman's scheduling system draws on a rich tradition of intensive vegetable pro
 ### Winter-Harvest Specific References
 
 - **Jean-Jacques Gerst, *Légumes sous Baches* (1993)** — A professional French technical manual covering every vegetable and every combination of high tunnels, low tunnels, reflective covers, floating covers, and heated/unheated greenhouses. Coleman rates it so highly he suggests learning French just to read it.
-- **William J.C. Lawrence, *Science and the Glasshouse* (1948)** — Coleman's favorite historical greenhouse writer, noted for tireless experimentation and practical conclusions.
+- **William J.C. Lawrence, *Science and the Glasshouse* (1948)** — Coleman"s favorite historical greenhouse writer, noted for tireless experimentation and practical conclusions.
 - **Percy Artiss, *Market Gardening* (1948)** — An almost-organic grower who insisted that "the soil must be biologically healthy."
 
 ## Practical Application

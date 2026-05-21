@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-[[albert-hofmann]] conducted a series of self-experiments with [[lsd]] under carefully controlled conditions, including sessions in complete darkness. These experiments documented the drug's effects on visual perception, sexual response, mood, and body image in unprecedented detail. This concept page examines the phenomenology of the LSD experience as recorded by its discoverer.
+[[albert-hofmann]] conducted a series of self-experiments with [[lsd]] under carefully controlled conditions, including sessions in complete darkness. These experiments documented the drug"s effects on visual perception, sexual response, mood, and body image in unprecedented detail. This concept page examines the phenomenology of the LSD experience as recorded by its discoverer.
 
 ## Visual Phenomena in Darkness
 
@@ -34,25 +34,25 @@ When Hofmann tried to imagine a picture of a woman, "only a crude modern-primiti
 
 "Toward the end of the second dark experiment, I began to watch for sexual fantasies, which were, however, totally absent. In no way could I experience sexual desire."
 
-This finding is significant because many psychoactive substances (alcohol, cannabis, amphetamines) enhance sexual desire or at least leave it intact. LSD's suppression of sexual interest—despite its capacity to produce intensely pleasurable and emotionally charged experiences—suggests that it activates brain systems that are fundamentally incompatible with sexual arousal.
+This finding is significant because many psychoactive substances (alcohol, cannabis, amphetamines) enhance sexual desire or at least leave it intact. LSD"s suppression of sexual interest—despite its capacity to produce intensely pleasurable and emotionally charged experiences—suggests that it activates brain systems that are fundamentally incompatible with sexual arousal.
 
 ### The Unerotic Quality
 
-Even when Hofmann deliberately attempted to generate erotic imagery, the resulting visualization was "completely unerotic"—a crude sculpture that dissolved into abstract patterns. The drug's visual system appears to default to abstract, non-representational imagery, overriding the personal and libidinal content that normally dominates sexual fantasy.
+Even when Hofmann deliberately attempted to generate erotic imagery, the resulting visualization was "completely unerotic"—a crude sculpture that dissolved into abstract patterns. The drug"s visual system appears to default to abstract, non-representational imagery, overriding the personal and libidinal content that normally dominates sexual fantasy.
 
 ## Physical and Emotional Aftereffects
 
 ### Post-Experiment Exhaustion
 
-"After the second dark experiment I felt benumbed and physically unwell. I perspired, was exhausted." The physical toll of the LSD experience—even in a controlled, dark-room setting—was significant. The body's stress response to the intense cognitive and perceptual alterations produced measurable somatic effects.
+"After the second dark experiment I felt benumbed and physically unwell. I perspired, was exhausted." The physical toll of the LSD experience—even in a controlled, dark-room setting—was significant. The body"s stress response to the intense cognitive and perceptual alterations produced measurable somatic effects.
 
 ### Altered Perception of Others
 
-"The laboratory assistant who brought us the food appeared to me small and distant, of the same remarkable daintiness as the supervisor of the experiment." This alteration in the perception of other people's size and distance is a characteristic LSD effect that reflects changes in spatial processing and social cognition.
+"The laboratory assistant who brought us the food appeared to me small and distant, of the same remarkable daintiness as the supervisor of the experiment." This alteration in the perception of other people"s size and distance is a characteristic LSD effect that reflects changes in spatial processing and social cognition.
 
 ### Body Image Disintegration
 
-"Once I seemed to myself like a shape from a surrealistic picture, whose limbs were not connected with the body, but were rather painted somewhere close by." This dissociation of body image—experiencing one's own body parts as separate, disconnected objects—parallels the soul-body dissociation described by Naranjo in yage research and by shamans across cultures.
+"Once I seemed to myself like a shape from a surrealistic picture, whose limbs were not connected with the body, but were rather painted somewhere close by." This dissociation of body image—experiencing one"s own body parts as separate, disconnected objects—parallels the soul-body dissociation described by Naranjo in yage research and by shamans across cultures.
 
 ## Depression and Suicidal Ideation
 
@@ -60,7 +60,7 @@ Even when Hofmann deliberately attempted to generate erotic imagery, the resulti
 
 "I was depressed and thought with interest of the possibility of suicide. With some terror I apprehended that such thoughts were remarkably familiar to me. It seemed singularly self-evident that a depressed person commits suicide."
 
-This passage is one of the most candid descriptions of LSD-induced depression in the literature. The drug's capacity to produce not only euphoria and insight but also profound depression and suicidal ideation is a critical aspect of its pharmacology that distinguishes it from simple "pleasure drugs."
+This passage is one of the most candid descriptions of LSD-induced depression in the literature. The drug"s capacity to produce not only euphoria and insight but also profound depression and suicidal ideation is a critical aspect of its pharmacology that distinguishes it from simple "pleasure drugs."
 
 ### The "Self-Evident" Quality
 

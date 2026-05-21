@@ -1,5 +1,5 @@
 ---
-title: "Overwintered Spinach in Cold Houses — Coleman's Winter Production System"
+title: "Overwintered Spinach in Cold Houses — Coleman"s Winter Production System"
 source: "eliot-coleman-winter-harvest-handbook"
 source_author: "Eliot Coleman"
 topics: ["winter-harvest", "spinach", "cold-greenhouse", "season-extension", "organic-farming"]

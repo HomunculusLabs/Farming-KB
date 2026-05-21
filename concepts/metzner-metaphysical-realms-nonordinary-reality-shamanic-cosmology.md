@@ -76,7 +76,7 @@ from the Western worldview:
 
 1. The belief and assumption (really, perception) that there are multiple-realities-spirit-beings-shamanic-worldview-metzner-three-forms-shamanic-healing-entheogenic-toxin-soul-dismemberment|metzner|multiple worlds
 implies the existence of beings inhabiting those worlds, and encounters with
-such beings provide experiential confirmation of the worlds' reality.
+such beings provide experiential confirmation of the worlds" reality.
 
 ## William James and Radical Empiricism
 

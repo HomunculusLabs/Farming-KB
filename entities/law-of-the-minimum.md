@@ -20,7 +20,7 @@ The Law of the Minimum is a foundational principle of agricultural science stati
 
 ## Key Facts
 
-- Von Liebig's original 1863 formulation: "A manure containing several ingredients acts in this wise: The effect of all of them in the soil accommodates itself to that one among them which, in comparison to the wants of the plant, is present in the smallest quantity."
+- Von Liebig"s original 1863 formulation: "A manure containing several ingredients acts in this wise: The effect of all of them in the soil accommodates itself to that one among them which, in comparison to the wants of the plant, is present in the smallest quantity."
 - The law applies to **all 17 essential plant nutrients**: the macronutrients (N, P, K, Ca, Mg, S) and micronutrients (B, Cl, Cu, Fe, Mn, Zn, Mo, Ni), plus C, H, and O.
 - Its application revealed that **nitrogen (N), phosphorus (P), and potassium (K)** are used in the greatest quantities and are most commonly the limiting nutrients in depleted soils — establishing the N-P-K framework used worldwide.
 - The barrel analogy provides an intuitive visualization: imagine a barrel with staves of different heights, each representing a different nutrient. The shortest stave determines how much water (growth) the barrel can hold.

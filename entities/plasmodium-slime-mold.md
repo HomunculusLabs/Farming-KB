@@ -48,7 +48,7 @@ The plasmodium demonstrates surprisingly sophisticated behavior in locating food
 
 ### Regeneration
 
-One of the most remarkable properties of the plasmodium is its regenerative capacity. If cut in half—or even in quarters—the separate pieces will **rejoin** and reform a single organism. This demonstrates the plasmodium's lack of permanent internal structure and its ability to reestablish coordinated function.
+One of the most remarkable properties of the plasmodium is its regenerative capacity. If cut in half—or even in quarters—the separate pieces will **rejoin** and reform a single organism. This demonstrates the plasmodium"s lack of permanent internal structure and its ability to reestablish coordinated function.
 
 ### Intelligence-Like Behavior
 

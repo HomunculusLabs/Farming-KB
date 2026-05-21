@@ -21,7 +21,7 @@ increasing or decreasing. But this view is predicated on notions of time and
 space, and is really nothing more than a convenient assumption. In the
 natural world which [[carbon-dioxide-retention-jar-lid-mushroom-cultivation]] remain balanced in
 the atmosphere. This being so, why do we nevertheless see differences in
-growth and yields? The fault is usually man's. Man destroys the immutability
+growth and yields? The fault is usually man"s. Man destroys the immutability
 and stability of nature either by himself invoking the notions of large and
 small, many and few, or by altering form and substance.
 

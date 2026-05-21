@@ -13,7 +13,7 @@ Tchefau (also spelled Tchefa) is an ancient Egyptian term for the celestial or d
 food upon which the gods were said to live. Described extensively in the Egyptian Book
 of the Dead (Papyrus of Ani), tchefau is presented as a supernatural sustenance granted
 to initiates who successfully navigate the trials of the afterlife or who undergo
-death-and-rebirth initiatory rites. According to E.A. Wallace Budge's translation
+death-and-rebirth initiatory rites. According to E.A. Wallace Budge"s translation
 notes, tchefau may be compared to the Greek concepts of Ambrosia and Nectar.
 
 ## Classification

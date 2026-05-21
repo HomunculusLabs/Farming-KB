@@ -10,7 +10,7 @@ The fly-agaric (Amanita muscaria) is one of the most recognizable organisms on E
 
 ## Identification and Distribution
 
-The fly-agaric is found almost ubiquitously around the world, growing in association with birch, pine, and fir trees. With its milk-white gills and stem, wart-covered scarlet cap (which can grow to the size of a small plate), it is "striking, alluring, strangely beautiful, and yet everything about it seems to scream 'danger'."
+The fly-agaric is found almost ubiquitously around the world, growing in association with birch, pine, and fir trees. With its milk-white gills and stem, wart-covered scarlet cap (which can grow to the size of a small plate), it is "striking, alluring, strangely beautiful, and yet everything about it seems to scream "danger'."
 
 It has acquired many names reflecting its cultural significance:
 - Germany: Fliegenpilz (fly-mushroom)

@@ -9,7 +9,7 @@ tags: [bird, symbiosis, pasture-management, permaculture, biodiversity]
 
 ## Description
 
-The [[bill-mollison]] in *Permaculture: A Designers' Manual* as a classic example of how evolving plant and animal systems create niches for new species. Mollison notes that "the cattle egret follows cattle" as an illustration of how niches emerge spontaneously in natural systems, providing opportunities for species integration in designed landscapes.
+The [[bill-mollison]] in *Permaculture: A Designers" Manual* as a classic example of how evolving plant and animal systems create niches for new species. Mollison notes that "the cattle egret follows cattle" as an illustration of how niches emerge spontaneously in natural systems, providing opportunities for species integration in designed landscapes.
 
 ## Classification
 
@@ -40,7 +40,7 @@ The [[bill-mollison]] in *Permaculture: A Designers' Manual* as a classic exampl
 
 ## Relevance to Permaculture and Mycology
 
-The cattle egret exemplifies Mollison's principle that "there is always a way to enrich species diversity in such a system." In [[soil-food-web]].
+The cattle egret exemplifies Mollison"s principle that "there is always a way to enrich species diversity in such a system." In [[soil-food-web]].
 
 ## Design Implications
 

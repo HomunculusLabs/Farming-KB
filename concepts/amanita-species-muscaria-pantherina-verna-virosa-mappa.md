@@ -7,7 +7,7 @@ type: concept
 
 | Species | Common Name | Max Cap | Max Stem | Toxicity |
 |---|---|---|---|---|
-| *A. verna* | Fools' Mushroom | 3" | 5" × ⅜" | Deadly |
+| *A. verna* | Fools" Mushroom | 3" | 5" × ⅜" | Deadly |
 | *A. virosa* | Destroying Angel | 5" | 7.5" × ⅝" | Deadly |
 | *A. mappa* | False Death Cap | 3" | 3.75" × ½" | Harmless |
 | *A. muscaria* | Fly Agaric | 7" | 10" × 1" | Psychoactive, not lethal |

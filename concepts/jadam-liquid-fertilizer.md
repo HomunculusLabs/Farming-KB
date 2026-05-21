@@ -24,7 +24,7 @@ JADAM liquid fertilizer is the simplest fertilizer system in organic farming. Th
 
 ## Core Philosophy
 
-JADAM's nutritional perspective: "Things similar to my crops are good food for my crops." The best fertilizer for tomatoes is made from tomatoes. Crop residues contain the exact nutritional balance that crop needs.
+JADAM"s nutritional perspective: "Things similar to my crops are good food for my crops." The best fertilizer for tomatoes is made from tomatoes. Crop residues contain the exact nutritional balance that crop needs.
 
 ## Three Principles of JADAM Fertilizer Making
 

@@ -6,7 +6,7 @@ type: concept
 
 ## Watts Self-Help Group and Urban Community Organizing
 
-[[bill-mollison]]'s account of the Watts Self-Help Group in Los Angeles represents one of the most remarkable examples of community organizing described in the [[permaculture]] literature. It demonstrates how [[permaculture-principles]] of careful observation, [[functional-design-component-placement]], and non-stratified organization can be applied even in the most extreme [[query-how-do-green-roofs-and-living-walls-benefit-urban-environments]].
+[[bill-mollison]]"s account of the Watts Self-Help Group in Los Angeles represents one of the most remarkable examples of community organizing described in the [[permaculture]] literature. It demonstrates how [[permaculture-principles]] of careful observation, [[functional-design-component-placement]], and non-stratified organization can be applied even in the most extreme [[query-how-do-green-roofs-and-living-walls-benefit-urban-environments]].
 
 ## Barney Mull: Origin Story
 
@@ -18,7 +18,7 @@ Barney went to Watts as planned, lay down on a five-by-eight-foot porch of a des
 
 ## The Transformation
 
-One day Barney stood up. He stopped the children and told them: "Listen! I owe you my life! Now life means nothing to me. My life is yours, I give you my life. You gave me my life. It's yours. I will never take any risks with it; I'll never get married to anybody—nothing. I belong to you, to you—see?"
+One day Barney stood up. He stopped the children and told them: "Listen! I owe you my life! Now life means nothing to me. My life is yours, I give you my life. You gave me my life. It"s yours. I will never take any risks with it; I'll never get married to anybody—nothing. I belong to you, to you—see?"
 
 The children were members of armed gangs that controlled the streets. When fully mobilized, they were formidable. Barney was elected their leader, and his porch became his office for the next two years.
 
@@ -31,20 +31,20 @@ Barney developed a systematic strategy for taking over gang-controlled streets t
 - A green van for rapid insertion into hostile territory
 
 ### The Encirclement Tactic
-1. The green van drives fast into the target gang's territory
-2. Four "war chiefs" in yellow hats exit and stand with backs to corners, watching each other so everyone's back is covered
+1. The green van drives fast into the target gang"s territory
+2. Four "war chiefs" in yellow hats exit and stand with backs to corners, watching each other so everyone"s back is covered
 3. Scouting teams (little green hats) are sent out walking down the street
 4. When the target gang surrounds the scouts, the yellow hats spot the action and signal directions
 5. Two groups of heavies close in from both sides
 6. The gang is surrounded with guns at their backs and in front
 
 ### The Negotiation
-Barney would tell the surrounded gang: "OK, you're dead! We came here to kill ya, and we're going to kill ya." The gang members, recognizing some of the yellow hat boys as "the real killers in the next block," would begin walking in the macho pattern that precedes negotiation.
+Barney would tell the surrounded gang: "OK, you"re dead! We came here to kill ya, and we're going to kill ya." The gang members, recognizing some of the yellow hat boys as "the real killers in the next block," would begin walking in the macho pattern that precedes negotiation.
 
 The gang chief would then send his top man to negotiate at night, in a whitewashed room with four windows, people armed throughout, scouts checking every corner for ambushes. Despite the extreme tension, deals were consistently reached.
 
 ### The Fairness Principle
-Barney's approach to managing the unified gangs rested on two principles the members understood: "Fairness and openness are all they understand. And minding the boss on the line is all they understand, because they are getting shot every night." The gangs were at constant war with police—46 cops might go out to wipe out seven gang members on any given night.
+Barney"s approach to managing the unified gangs rested on two principles the members understood: "Fairness and openness are all they understand. And minding the boss on the line is all they understand, because they are getting shot every night." The gangs were at constant war with police—46 cops might go out to wipe out seven gang members on any given night.
 
 ## Scale of Operations
 
@@ -72,7 +72,7 @@ Despite leading 70 gangs, Barney did not create a hierarchy above himself. He be
 Barney worked with existing social structures (gangs) rather than trying to replace them. He redirected their energy and organization toward productive ends rather than dismantling them.
 
 ### Multiple Functions
-The unified gang network served employment, food production (gardens), security, and economic functions simultaneously—a direct parallel to permaculture's principle of each element serving multiple functions.
+The unified gang network served employment, food production (gardens), security, and economic functions simultaneously—a direct parallel to permaculture"s principle of each element serving multiple functions.
 
 ### Edge Effect
 Barney operated at the edge between extreme danger and [[homestead-community-building]]. Mollison notes: "We must all count ourselves dead before we tackle real risks."

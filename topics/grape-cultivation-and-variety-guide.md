@@ -20,7 +20,7 @@ Understanding grape taxonomy is essential for selecting the right variety for yo
 
 | Species | Common Name | Key Traits |
 |---------|------------|------------|
-| *Vitis vinifera* | European grape | Superior wine quality, lower cold tolerance (zones 6–10), susceptible to phylloxera and Pierce's disease |
+| *Vitis vinifera* | European grape | Superior wine quality, lower cold tolerance (zones 6–10), susceptible to phylloxera and Pierce"s disease |
 | *Vitis labrusca* | American bunch grape | Concord-type flavor ("foxy"), hardy to zone 4, resistant to phylloxera |
 | *Vitis rotundifolia* | Muscadine | Very heat- and disease-tolerant, zones 7–10, thick skins, low chilling requirement |
 | French-American hybrids | Hybrid wine grapes | Combine vinifera wine quality with labrusca/American disease resistance, zones 4–8 |

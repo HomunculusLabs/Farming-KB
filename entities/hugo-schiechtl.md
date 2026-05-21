@@ -9,7 +9,7 @@ tags: [person, bioengineering, land-reclamation, author, permaculture]
 
 ## Description
 
-Dr. Hugo Schiechtl is an authority on bioengineering for land reclamation and conservation, author of the influential book "Bioengineering for Land Reclamation and Conservation" (University of Alberta Press, 1980). Bill Mollison describes this work as one he "cannot too highly recommend" for anyone involved in earthworks and landscape rehabilitation. Schiechtl's work provides essential methodology for stabilizing devastated landscapes using biological approaches.
+Dr. Hugo Schiechtl is an authority on bioengineering for land reclamation and conservation, author of the influential book "Bioengineering for Land Reclamation and Conservation" (University of Alberta Press, 1980). Bill Mollison describes this work as one he "cannot too highly recommend" for anyone involved in earthworks and landscape rehabilitation. Schiechtl"s work provides essential methodology for stabilizing devastated landscapes using biological approaches.
 
 ## Classification
 

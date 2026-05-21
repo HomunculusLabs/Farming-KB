@@ -60,7 +60,7 @@ Example for a 24 x 12 x 6 inch filter:
 
 HEPA filters create significant air resistance (static pressure). A new 6-inch HEPA filter typically has a static pressure of 1.0 to 1.2 inches of water gauge (w.g.). This means the blower must be rated to deliver the required CFM at 1.0-1.2 inches of static pressure — not the "free air" CFM rating.
 
-Most blower specs list free air CFM, which is much higher than the CFM at operating pressure. You must consult the blower's performance curve to find the actual CFM at your target static pressure.
+Most blower specs list free air CFM, which is much higher than the CFM at operating pressure. You must consult the blower"s performance curve to find the actual CFM at your target static pressure.
 
 ### Blower Types
 

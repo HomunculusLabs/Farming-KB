@@ -19,7 +19,7 @@ type: concept
 The skin is the largest organ of the body. It transmits sensations to the
 brain, provides [[cannabis-topicals-guide]] for the
 treatment of skin cancer. In 2003, a team from Madrid, Spain, and Clemons,
-South Carolina, investigated cannabinoids' effectiveness as a non-melanoma
+South Carolina, investigated cannabinoids" effectiveness as a non-melanoma
 skin cancer therapy. The team showed that CB1 and CB2 receptors exist in
 both healthy and cancerous skin tissue of humans and mice, and that both
 play a role in the induction of apoptosis of skin tumor cells and the

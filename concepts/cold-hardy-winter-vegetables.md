@@ -6,7 +6,7 @@ type: concept
 
 ## Cold-Hardy Winter Vegetables
 
-Cold-hardy vegetables are species capable of surviving and producing harvestable growth through freezing temperatures and short winter days. They form the biological foundation of Eliot Coleman's [[cold-house-winter-harvest-system]] at Four Season Farm in Harborside, Maine. Rather than relying on heated structures or [[marijuana-horticulture-cervantes-artificial-lighting-and-electricity]], the winter harvest approach works with these plants' natural adaptations to cold, pairing them with simple [[coleman-wire-wicket-row-covers-protective-cultivation]] techniques.
+Cold-hardy vegetables are species capable of surviving and producing harvestable growth through freezing temperatures and short winter days. They form the biological foundation of Eliot Coleman"s [[cold-house-winter-harvest-system]] at Four Season Farm in Harborside, Maine. Rather than relying on heated structures or [[marijuana-horticulture-cervantes-artificial-lighting-and-electricity]], the winter harvest approach works with these plants' natural adaptations to cold, pairing them with simple [[coleman-wire-wicket-row-covers-protective-cultivation]] techniques.
 
 ## The Central Misconception
 

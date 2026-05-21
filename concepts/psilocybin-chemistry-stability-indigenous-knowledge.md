@@ -13,7 +13,7 @@ resulted in involuntary hallucinations that ceased when he left the room for fre
 This experience suggests that psilocybin or its volatile breakdown products may be
 released into the air by fresh or fermenting fungal material, providing a route of
 exposure that does not require oral ingestion. The authors stated that "it seems that
-[[hplc-analysis-of-psilocybin-and-psilocin]] are volatiles," a property that would explain both Guzmán's
+[[hplc-analysis-of-psilocybin-and-psilocin]] are volatiles," a property that would explain both Guzmán"s
 experience and the rapid degradation of these compounds in dried specimens.
 
 ## Variability in Chemical Analysis

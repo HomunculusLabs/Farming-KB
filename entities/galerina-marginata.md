@@ -18,7 +18,7 @@ sources:
 
 **Galerina marginata** is a species of deadly [[environmental-dna-sequencing-fungi]] of the ITS (Internal Transcribed Spacer) region have conclusively demonstrated that these are all conspecific, representing morphological and geographical variations within a single widespread species now unified under the name Galerina marginata sensu lato. This taxonomic consolidation is significant from a safety perspective, as it means that all of these previously separate "species" carry the same deadly toxicity.
 
-The specific epithet *marginata* means "edged" or "bordered" in Latin, referring to the prominently striate (grooved) margin of the cap, which is one of the species' most reliable diagnostic features.
+The specific epithet *marginata* means "edged" or "bordered" in Latin, referring to the prominently striate (grooved) margin of the cap, which is one of the species" most reliable diagnostic features.
 
 ## Description
 

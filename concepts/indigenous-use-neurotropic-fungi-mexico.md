@@ -9,7 +9,7 @@ tags: [mycology, ethnobotany, mexico, indigenous, ceremonial, entheogen, mazatec
 
 ## Overview
 
-Mexico possesses the world's richest tradition of ceremonial neurotropic fungi
+Mexico possesses the world"s richest tradition of ceremonial neurotropic fungi
 use, with 76 neurotropic species — more than any other country. This tradition
 spans multiple indigenous groups across the central and southern regions,
 including the Mazatec, Mixtec, Zapotec, Chinantec, Trique, Nahua, and others.
@@ -26,7 +26,7 @@ Mexican hallucinogenic fungi, though it originally referred to specific species.
   article brought the topic to global attention
 - **Roger Heim** — French mycologist who cultivated several species in Paris
 - **Rolf Singer** — who conducted extensive taxonomic work
-- **Gastón Guzmán** — who became the world's foremost authority on *Psilocybe*
+- **Gastón Guzmán** — who became the world"s foremost authority on *Psilocybe*
 
 ## Common Names
 

@@ -21,7 +21,7 @@ binary of prohibition and addiction.
 
 ## The Satanic Marriage
 
-McKenna's opening metaphor describes the convergence of three forces:
+McKenna"s opening metaphor describes the convergence of three forces:
 
 - **Modern pharmacology**: the ability to isolate, concentrate, and
   synthesize psychoactive compounds

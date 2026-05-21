@@ -1,5 +1,5 @@
 ---
-title: "Electromagnetic Induction and Faraday's Law"
+title: "Electromagnetic Induction and Faraday"s Law"
 aliases: [magnetic induction, Faraday induction, induced emf, induction law]
 tags: [physics, electromagnetism, electrical-engineering, maxwell-equations, generators]
 created: 2026-05-02

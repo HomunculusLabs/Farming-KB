@@ -13,7 +13,7 @@ sources: ["domain-knowledge"]
 
 ## Overview
 
-- **Common names:** Adam's [[soil-temperature-plant-growth-rate-doubling-rule]] form:** Ever[[dmt-containing-plants-united-states-halpern]], Virginia to
+- **Common names:** Adam"s [[soil-temperature-plant-growth-rate-doubling-rule]] form:** Ever[[dmt-containing-plants-united-states-halpern]], Virginia to
   Florida, west to Louisiana
 - **Key trait:** Classic obligate pollination mutualism with
   yucca moths (Tegeticula spp.)

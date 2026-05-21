@@ -78,7 +78,7 @@ Dams are arranged in a hierarchy from highest to lowest positions in the landsca
 
 **Uses:** Energy generation (most frequent), irrigation (when placed above main valley floors). Works best as part of a keyline series.
 
-**Caution:** Barrier dams are "the engineer's dam" — they can affect fish migration, are difficult to spill safely, and may deprive downstream ecosystems of flush-water and silt deposits.
+**Caution:** Barrier dams are "the engineer"s dam" — they can affect fish migration, are difficult to spill safely, and may deprive downstream ecosystems of flush-water and silt deposits.
 
 ### 6. Turkey's Nest (Ring) Dams
 

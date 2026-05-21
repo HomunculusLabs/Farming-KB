@@ -6,7 +6,7 @@ topics: [permaculture, ethics, holmgren, sustainability, earth-care]
 
 ## Permaculture Ethical Principles
 
-## Holmgren's Three Ethics from Principles & Pathways Beyond Sustainability
+## Holmgren"s Three Ethics from Principles & Pathways Beyond Sustainability
 
 [[water-conservation]], tree
 planting, habitat restoration, and the design of productive systems that enhance

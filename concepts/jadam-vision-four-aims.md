@@ -17,7 +17,7 @@ The four aims are ultimately about reclaiming independence. When farmers can mak
 - [[jadam-post-2020-agriculture]]
 - [[dighton-fungi-climate-change-feedback]], desertification, soil erosion, and other environmental degradation will decrease total available arable land and reduce productivity. Cultivation of staple food crops -- rice, wheat, beans, and other grains -- will become increasingly important.
 
-JADAM's response: crop residues and [[fukuoka-no-till-grain-production-method]] does not depend on expensive imported inputs. Self-sufficient farming means food security regardless of global markets.
+JADAM"s response: crop residues and [[fukuoka-no-till-grain-production-method]] does not depend on expensive imported inputs. Self-sufficient farming means food security regardless of global markets.
 
 ## Rising Sea Levels
 
@@ -29,7 +29,7 @@ JADAM's conclusion: "Fertile, arable land will become more and more valuable. Th
 
 Global financial markets will become more volatile, economies stuck in low-growth. Stocks, bonds, insurance, pensions, and typical real estate may no longer serve as safe forms of wealth. Running and investing in businesses including farms based on debt is dangerous.
 
-JADAM's alternative: "Arable land that returns continued produce and profit will be more valuable. Let us do a farming that is free from money; ultra-low cost; and self-sufficient."
+JADAM"s alternative: "Arable land that returns continued produce and profit will be more valuable. Let us do a farming that is free from money; ultra-low cost; and self-sufficient."
 
 ## The Core Strategy
 

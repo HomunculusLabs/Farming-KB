@@ -7,7 +7,7 @@ tags: [person, market-gardener, french, intensive-cultivation, maraicher]
 
 ## Overview
 
-Louis Savier was a French market gardener (maraicher) who operated a 2.5-acre intensive market garden in Banvilliers, nine miles south of Paris. He continued the classic French tradition of year-round vegetable production well into the late twentieth century, representing one of the last living practitioners of the intensive [[coleman-parisian-maraicher-system]] that peaked between 1850 and 1900. Eliot Coleman visited Savier's garden in 1974 and described it as the single most powerful influence on his development as a market grower.
+Louis Savier was a French market gardener (maraicher) who operated a 2.5-acre intensive market garden in Banvilliers, nine miles south of Paris. He continued the classic French tradition of year-round vegetable production well into the late twentieth century, representing one of the last living practitioners of the intensive [[coleman-parisian-maraicher-system]] that peaked between 1850 and 1900. Eliot Coleman visited Savier"s garden in 1974 and described it as the single most powerful influence on his development as a market grower.
 
 ## The Garden at Banvilliers
 
@@ -34,7 +34,7 @@ Savier employed the full suite of traditional French intensive techniques:
 
 ## Influence on Eliot Coleman
 
-Coleman visited Savier four times between 1974 and Savier's retirement in 1996. His handwritten notes from the first visit begin with a single word: "Wow!"
+Coleman visited Savier four times between 1974 and Savier"s retirement in 1996. His handwritten notes from the first visit begin with a single word: "Wow!"
 
 The visit demonstrated that the theoretical principles Coleman had read about in old French gardening books were living, working practices. Key lessons:
 

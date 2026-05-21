@@ -9,7 +9,7 @@ tags: [concept, psychotherapy, healing-mechanism, ayahuasca-healing, therapeutic
 
 ## Description
 
-Doctrinal compliance is a concept coined by psychiatrist Jan Ehrenwald (1966) to describe the phenomenon in which a patient unconsciously complies with the theoretical expectations of their therapist, producing symptoms, dreams, or experiences that validate the therapist's particular school of thought. In the context of ayahuasca healing, Dobkin de Rios applied this concept to explain how patients' visionary experiences during ayahuasca sessions conform to the healer's expectations and cultural framework, producing culturally predicted hallucinations and therapeutic outcomes.
+Doctrinal compliance is a concept coined by psychiatrist Jan Ehrenwald (1966) to describe the phenomenon in which a patient unconsciously complies with the theoretical expectations of their therapist, producing symptoms, dreams, or experiences that validate the therapist"s particular school of thought. In the context of ayahuasca healing, Dobkin de Rios applied this concept to explain how patients' visionary experiences during ayahuasca sessions conform to the healer's expectations and cultural framework, producing culturally predicted hallucinations and therapeutic outcomes.
 
 ## Classification
 

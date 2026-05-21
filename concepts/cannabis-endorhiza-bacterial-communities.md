@@ -37,7 +37,7 @@ The cultivar-specific microbial profiles suggest functional consequences for pla
 Endorhiza bacteria support plant growth through phytohormone production (auxins, cytokinins, gibberellins), low molecular weight compounds, and enzymes that regulate growth and metabolism. The varying abundance of Pseudomonadales and Rhizobiales across cultivars implies differential access to these growth-promoting functions.
 
 ### Disease Suppression
-Several core community members (Pseudomonas, Actinomycetales) are known biocontrol agents. The enrichment of *[[sphingomonas-wittichii-cannabis-endorhiza-strain-specificity]]* in Maui Wowie, with its ability to metabolize phenazine compounds, may indicate enhanced competitive exclusion of pathogens in that cultivar's root zone.
+Several core community members (Pseudomonas, Actinomycetales) are known biocontrol agents. The enrichment of *[[sphingomonas-wittichii-cannabis-endorhiza-strain-specificity]]* in Maui Wowie, with its ability to metabolize phenazine compounds, may indicate enhanced competitive exclusion of pathogens in that cultivar"s root zone.
 
 ### Phytotoxicant Tolerance
 Endorhiza bacteria can assist host plants in tolerating phytotoxic effects of environmental contaminants. This function may be particularly relevant for Cannabis, which can accumulate heavy metals and other soil contaminants in its tissues.

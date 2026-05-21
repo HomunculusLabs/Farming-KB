@@ -1,5 +1,5 @@
 ---
-title: "Lion's Mane Mushroom (Hericium erinaceus)"
+title: "Lion"s Mane Mushroom (Hericium erinaceus)"
 type: species
 tags:
   - fungi

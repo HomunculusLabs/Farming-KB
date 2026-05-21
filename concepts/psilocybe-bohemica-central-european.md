@@ -7,7 +7,7 @@ sources: magic-mushrooms-around-the-world-gartz.md
 tags: [reference]
 ---
 
-## Psilocybe Bohemica: Central Europe's Native Psychoactive Mushroom
+## Psilocybe Bohemica: Central Europe"s Native Psychoactive Mushroom
 
 Psilocybe bohemica is a psychoactive mushroom species native to Central Europe, particularly associated with the Czech Republic (formerly Czechoslovakia). It is one of the less well-known European psilocybin-containing species but plays a significant role in the region's psychoactive mycoflora.
 

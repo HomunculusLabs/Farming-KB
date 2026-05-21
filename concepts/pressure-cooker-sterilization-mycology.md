@@ -27,7 +27,7 @@ Boiling water at atmospheric pressure (100°C/212°F) is insufficient to kill ba
 - **Materials**: Stainless steel is preferred for durability and corrosion resistance. Aluminum cookers work but may pit over time from acidic substrates.
 
 ### Recommended Features
-- **Weighted pressure regulator (jiggler)**: Simple, reliable, and doesn't require calibration. Maintains constant pressure without electricity.
+- **Weighted pressure regulator (jiggler)**: Simple, reliable, and doesn"t require calibration. Maintains constant pressure without electricity.
 - **Pressure gauge**: Allows verification that the correct pressure is being maintained. Not essential but very helpful.
 - **Gasket seal**: Creates the airtight seal necessary for pressure buildup. Must be maintained in good condition.
 - **Rack or trivet**: Keeps bags off the bottom of the cooker to prevent scorching and allows steam circulation.

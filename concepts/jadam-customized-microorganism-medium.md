@@ -9,7 +9,7 @@ sources:
 ---
 ## JADAM Customized Microorganism Medium
 
-JADAM's approach to customized microorganisms is based on the principle that
+JADAM"s approach to customized microorganisms is based on the principle that
 "that particular fruit has the best [[fungal-single-cell-protein-production]] containing all nutrients needed to create life -- the
 "perfect food." Similarly, a fruit contains all the nutrients a seed needs to
 sprout and grow into a perfect plant. A fruit is the "egg" of a crop.

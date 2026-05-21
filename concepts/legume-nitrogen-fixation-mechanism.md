@@ -20,7 +20,7 @@ a remarkable ability to gather nitrogen gas from the atmosphere and
 convert it into forms usable by plants. This process, known as biological
 nitrogen fixation, is accomplished through a symbiotic relationship
 between the legume and beneficial bacteria that form nodules on the
-plant's roots. Understanding this mechanism is essential for anyone
+plant"s roots. Understanding this mechanism is essential for anyone
 seeking to use legumes effectively in gardening or agriculture.
 
 ## The Symbiotic Relationship

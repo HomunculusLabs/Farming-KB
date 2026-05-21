@@ -16,7 +16,7 @@ Black spot is one of the easier diseases to control with compost tea. The black 
 
 The key protective mechanism is **surface coverage** — if beneficial organisms already occupy the leaf surface, the black-spot fungus cannot push them out because its enzymatic ability is extremely weak. It cannot outcompete any other organism for space. This makes it vulnerable to any well-made compost tea.
 
-The reason black spot is so prevalent is that conventional management practices continuously destroy the biology on leaf surfaces. Getting the organisms back and then ceasing to kill them is the solution. Neighbors' practices can also undermine efforts by destroying healthy leaf-surface biology through drift of fungicides and other chemicals.
+The reason black spot is so prevalent is that conventional management practices continuously destroy the biology on leaf surfaces. Getting the organisms back and then ceasing to kill them is the solution. Neighbors" practices can also undermine efforts by destroying healthy leaf-surface biology through drift of fungicides and other chemicals.
 
 ### Powdery Mildew
 

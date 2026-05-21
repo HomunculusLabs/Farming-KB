@@ -2,7 +2,7 @@
 title: "Durvillaea Antarctica"
 type: entity
 tags: []
-sources: ['raw/papers/working-with-agar.md']
+sources: ["raw/papers/working-with-agar.md']
 ---
 
 The species is remarkable for its buoyant, honeycomb-filled fronds and its role in long-distance rafting dispersal. It is culturally significant as a traditional food source for Māori and Mapuche peoples and is commercially harvested in Chile.

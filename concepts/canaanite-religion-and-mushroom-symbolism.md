@@ -15,7 +15,7 @@ divine names formed a significant part of his argument that Christianity
 originated in a mushroom-centred [[amanita]] for the
 botanical background of the mushroom at the center of this theory.
 
-## Allegro's Canaanite Framework
+## Allegro"s Canaanite Framework
 
 Allegro placed the [[allegro-fertility-cults]] in which the mushroom played the central
 sacramental role. He proposed that the pattern of religious thought traceable
@@ -25,14 +25,14 @@ his philological method, were mushroom epithets.
 
 ## The Name of Baal
 
-One of Allegro's most significant claims concerned Baal, the best known of
+One of Allegro"s most significant claims concerned Baal, the best known of
 the Canaanite fertility gods. He derived "Baal" from a Sumerian verb AL,
 "bore," combined with a preformative element BA, giving words for "drill"
-and "penis" and ultimately the Latin "phallus." In Semitic, ba'al was both
+and "penis" and ultimately the Latin "phallus." In Semitic, ba"al was both
 a divine name and carried the general meaning of "lord, husband."
 
 Allegro pointed to Hosea 2:16, where Yahweh says to Israel: "in that day
-you will call me 'my man' and you will no more call me 'my baal'." He
+you will call me "my man' and you will no more call me 'my baal'." He
 interpreted this as evidence that Yahweh and Baal were originally the same
 fertility deity — a crucial identification for his broader argument that all
 Near Eastern gods were variants of a single fertility deity whose cult centred
@@ -57,10 +57,10 @@ ancient tradition.
 
 ## The Semen Theology
 
-Central to Allegro's interpretation was what might be called a "semen
+Central to Allegro"s interpretation was what might be called a "semen
 theology." The seed of God was supremely holy. Whether it appeared as rain,
 as sap or resin of plants, or as human sperm, it was sacred and to waste it
-was a grievous sin. The word "sin" had, in Allegro's reading, the basic
+was a grievous sin. The word "sin" had, in Allegro"s reading, the basic
 meaning of "seed running to waste." This explained the sin of Onan (coitus
 interruptus) and of Sodom. The Catholic strictures on birth control were,
 Allegro argued, ultimately rooted in this ancient Canaanite regard for the
@@ -69,7 +69,7 @@ sanctity of semen.
 ## The Name "Canaan" Itself
 
 Allegro even interpreted the name "Canaan" through his mushroom lens. Hebrew
-Kena'an was to be understood in its fertility context: the "glans" poised for
+Kena"an was to be understood in its fertility context: the "glans" poised for
 entry into the Canaanite womb. The geographic designation was thus itself a
 mushroom reference in his framework.
 

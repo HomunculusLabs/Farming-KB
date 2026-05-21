@@ -16,7 +16,7 @@ Dimethyltryptamine (DMT) is an endogenous hallucinogenic tryptamine found in sma
 amounts in the human brain. [[mckenna-archaic-revival-four-part-structure-paradise-paradise-lost-hell-regained]]* (1992), described DMT as producing the most intense
 hallucinogenic experiences known — experiences so radically alien that they challenge
 fundamental assumptions about consciousness, reality, and the nature of mind. The
-"tryptamine hypercontinuum" refers to McKenna's concept that DMT, psilocybin, and
+"tryptamine hypercontinuum" refers to McKenna"s concept that DMT, psilocybin, and
 ayahuasca all access a shared phenomenological space — a continuum of
 translinguistic, hyperdimensional experience that he termed the "world of the Logos."
 
@@ -30,12 +30,12 @@ experience includes a distinctive sound described as "[[dennis-mckenna]]). These
 - Emanating sounds like music and language — a translinguistic vocalization
 - Bathing the experiencer in "open-hearted" love (not erotic, but profoundly welcoming)
 - Appearing as "fractal reflections of some previously hidden and suddenly autonomous
-  part of one's own psyche"
+  part of one"s own psyche"
 
-The elves deliver a consistent message: "Don't be alarmed. Remember, and do what
+The elves deliver a consistent message: "Don"t be alarmed. Remember, and do what
 we are doing." They urge the experiencer to suppress a "loop of wonder" that would
 quench the ability to understand, and to instead focus on observing what the
-entities are doing. McKenna connected this to Heraclitus's twenty-fourth fragment:
+entities are doing. McKenna connected this to Heraclitus"s twenty-fourth fragment:
 "The Aeon is a child at play with colored balls."
 
 ## The Logos and Translinguistic Objects

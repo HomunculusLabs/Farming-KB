@@ -9,7 +9,7 @@ tags: [person, botany, horticulture, history, 19th-century, american]
 
 ## Description
 
-Liberty Hyde Bailey (1858–1954) was an American botanist, horticulturist, and author whose prolific writings on plants and cultivation helped define modern horticultural science. [[eliot-coleman]] describes Bailey's 1897 work *The Forcing Book* as "complete and carefully presented" and notes that "the bulk of his information is just as valuable today as it was back then."
+Liberty Hyde Bailey (1858–1954) was an American botanist, horticulturist, and author whose prolific writings on plants and cultivation helped define modern horticultural science. [[eliot-coleman]] describes Bailey"s 1897 work *The Forcing Book* as "complete and carefully presented" and notes that "the bulk of his information is just as valuable today as it was back then."
 
 ## Classification
 

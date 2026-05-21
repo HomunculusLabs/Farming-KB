@@ -7,7 +7,7 @@ tags: [ritual-tool, anthropology, peru, amazon, ayahuasca, healing]
 
 ## Description
 
-The schacapa (also spelled chacapa or shacapa) is a ritual rattle used by Amazonian healers (ayahuasqueros) during ayahuasca healing ceremonies. It is made by tying together dried leaves of a forest plant, which gives forth a rustling noise. The schacapa is the healer's ever-present accompaniment as he moves around the circle contacting each patient in turn during the curing ceremony.
+The schacapa (also spelled chacapa or shacapa) is a ritual rattle used by Amazonian healers (ayahuasqueros) during ayahuasca healing ceremonies. It is made by tying together dried leaves of a forest plant, which gives forth a rustling noise. The schacapa is the healer"s ever-present accompaniment as he moves around the circle contacting each patient in turn during the curing ceremony.
 
 ## Classification
 
@@ -28,7 +28,7 @@ The schacapa (also spelled chacapa or shacapa) is a ritual rattle used by Amazon
 - The rustling sound may serve to focus patients' attention during altered states of consciousness induced by ayahuasca
 - Part of the broader Amazonian healing toolkit that includes whistling, singing, orations, sucking at afflicted body regions, and blowing cigarette smoke
 - The specific forest plant used for the leaves has not been definitively identified in the ethnographic literature reviewed
-- The schacapa is referenced as "schacapa rattle" in Dobkin de Rios's account, described as made by tying together dried leaves of a forest plant
+- The schacapa is referenced as "schacapa rattle" in Dobkin de Rios"s account, described as made by tying together dried leaves of a forest plant
 
 ## Relevance to Cultivation and Mycology
 

@@ -12,7 +12,7 @@ updated: 2026-04-25
 sources:
 type: concept
 ---
-# Abalone Mushroom ([[cotter-oyster-mushroom-cultivation]], Miller's Oyster
+# Abalone Mushroom ([[cotter-oyster-mushroom-cultivation]], Miller"s Oyster
 Mushroom.
 
 ## Distribution and Natural Habitat

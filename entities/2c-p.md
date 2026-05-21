@@ -2,7 +2,7 @@
 title: "2C P"
 type: entity
 tags: []
-sources: ['raw/papers/working-with-agar.md']
+sources: ["raw/papers/working-with-agar.md']
 ---
 
 The compound is distinguished among the 2C series by its exceptionally long duration of action — typically 10–16 hours — and its high potency, with active doses ranging from 6–12 mg. These characteristics make 2C-P one of the longest-lasting and most potent members of the 2C family.
@@ -45,7 +45,7 @@ The combination of high potency, long duration, and slow onset creates a signifi
 
 Emotional effects can be intensely cathartic, with some users reporting profound personal insights and emotional release. However, the extended duration means that difficult psychological material may surface and persist for many hours without the option of "waiting it out" in the manner possible with shorter-acting psychedelics.
 
-Reports from Shulgin's original experiments describe 2C-P as having a "contemplative" quality, with less of the stimulant push associated with 2C-E or 2C-I. The experience tends toward a more internal, meditative character rather than the extroverted, visually-driven quality of shorter-duration 2C compounds.
+Reports from Shulgin"s original experiments describe 2C-P as having a "contemplative" quality, with less of the stimulant push associated with 2C-E or 2C-I. The experience tends toward a more internal, meditative character rather than the extroverted, visually-driven quality of shorter-duration 2C compounds.
 
 ### Comparison with Other 2C Compounds
 

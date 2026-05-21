@@ -33,11 +33,11 @@ products but referenced [[brassinosteroid-morphological-effects-psilocybe-cubens
 
 The five-fold price variation within a single product category indicates significant
 market differentiation in branding, perceived quality, and customer service.
-Fresh [[dark-incubation-sclerotia-production-psilocybe-mexicana-tampanensis]] "Philosopher's stones" or truffles in 15-gram
+Fresh [[dark-incubation-sclerotia-production-psilocybe-mexicana-tampanensis]] "Philosopher"s stones" or truffles in 15-gram
 portions ranged from 10 to 17.50 euros.
 These sclerotia, hardened masses of mycelium more resistant to adverse environmental
 conditions, had gained popularity as an alternative to fresh mushrooms and were sold
-under the evocative "Philosopher's stone" branding that referenced their hardened,
+under the evocative "Philosopher"s stone" branding that referenced their hardened,
 stone-like appearance.
 
 ## Cultivation Supplies Market

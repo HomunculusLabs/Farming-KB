@@ -1,5 +1,5 @@
 ---
-title: McKenna's Stoned stoned-ape-hypothesis-mckenna-psychedelic-evolution in Food of the Gods
+title: McKenna"s Stoned stoned-ape-hypothesis-mckenna-psychedelic-evolution in Food of the Gods
 created: 2026-04-26
 updated: 2026-04-23
 sources:
@@ -8,7 +8,7 @@ type: concept
 tags: [reference]
 ---
 
-## McKenna's Stoned Ape Hypothesis in Food of the Gods
+## McKenna"s Stoned Ape Hypothesis in Food of the Gods
 
 The "stoned ape" hypothesis is [[mckenna-catalytic-psychedelics-and-culture]].
 
@@ -23,7 +23,7 @@ concentrated amounts and is free of nausea-producing compounds. It alone is
 pandemic -- it occurs throughout the tropical regions, at least wherever
 cattle of the zebu (Bos indicus) type graze. The first specimen was collected
 by the American botanist Earle in Cuba in 1906, but current botanical thinking
-places the species' point of origin in [[mckenna-psilocybin-three-levels-of-evolution]]:
+places the species" point of origin in [[mckenna-psilocybin-three-levels-of-evolution]]:
 
 1. **[[mckenna-roland-fischer-psilocybin-visual-acuity]] showing
    that graduate students performed better at detecting when parallel lines

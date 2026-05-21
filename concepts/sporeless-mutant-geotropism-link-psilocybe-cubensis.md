@@ -10,7 +10,7 @@ created: 2026-05-09
 
 ## Overview
 
-One of the most significant findings from Edmond R. Badham's 1982 wind tunnel study of *Psilocybe cubensis* was the discovery that **sporeless (sterile) mutants fail to exhibit the negative [[light-role-spore-formation-geotropic-sensitivity-psilocybe-cubensis]] in mushrooms is mechanistically linked to [[geotropism-and-spore-production-in-mushrooms]], likely through a gill-derived hormonal signal.
+One of the most significant findings from Edmond R. Badham"s 1982 wind tunnel study of *Psilocybe cubensis* was the discovery that **sporeless (sterile) mutants fail to exhibit the negative [[light-role-spore-formation-geotropic-sensitivity-psilocybe-cubensis]] in mushrooms is mechanistically linked to [[geotropism-and-spore-production-in-mushrooms]], likely through a gill-derived hormonal signal.
 
 ## The Geotropic Response in Fertile Basidiocarps
 
@@ -57,7 +57,7 @@ The existence of a "[[genetic-improvement-agaricus-bisporus-molecular-approaches
 
 ### The Spore-Geotropism Connection
 
-Badham's sterile mutant data provided strong evidence for the hormone hypothesis:
+Badham"s sterile mutant data provided strong evidence for the hormone hypothesis:
 
 - Since sterile mutants lack functional gill tissue (no spore production), they also lack the gill-derived substance that triggers geotropic reorientation.
 - The fact that Phase 1 anemotropism remains intact while Phase 2 geotropism is absent argues for **two distinct regulatory mechanisms**.

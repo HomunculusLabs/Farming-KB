@@ -4,7 +4,7 @@ created: 2026-04-15
 updated: 2026-04-17
 type: entity
 tags: [chemistry, tihkal]
-sources: ['raw/papers/working-with-agar.md']
+sources: ["raw/papers/working-with-agar.md']
 ---
 ## 4-D
 

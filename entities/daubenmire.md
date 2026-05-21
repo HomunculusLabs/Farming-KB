@@ -8,7 +8,7 @@ type: entity
 
 ## Description
 
-Rexford F. Daubenmire (1909-1995) was an American plant ecologist and botanist whose influential textbook *Plants and Environment* (first published 1947, multiple editions through 1974) became a foundational reference in [[permaculture-design]]. Mollison cites Daubenmire's 1974 edition as an authority on the effects of slope orientation on local climate, specifically the relationship between aspect, solar radiation, and soil temperature. His quantitative approach to plant-environment relationships provided the scientific backbone for many [[permaculture-design-principles]].
+Rexford F. Daubenmire (1909-1995) was an American plant ecologist and botanist whose influential textbook *Plants and Environment* (first published 1947, multiple editions through 1974) became a foundational reference in [[permaculture-design]]. Mollison cites Daubenmire"s 1974 edition as an authority on the effects of slope orientation on local climate, specifically the relationship between aspect, solar radiation, and soil temperature. His quantitative approach to plant-environment relationships provided the scientific backbone for many [[permaculture-design-principles]].
 
 ## Classification
 

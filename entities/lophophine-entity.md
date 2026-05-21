@@ -45,7 +45,7 @@ LOPHOPHINE is not specifically scheduled in most jurisdictions. As a methylenedi
 
 ## Cultural and Historical Significance
 
-LOPHOPHINE represents one of the most compelling examples of Shulgin's approach to chemical exploration, which was deeply informed by natural products chemistry and ethnobotany. Rather than randomly synthesizing novel compounds, Shulgin often began with observations from nature and sought to understand the chemical logic underlying traditional psychoactive preparations.
+LOPHOPHINE represents one of the most compelling examples of Shulgin"s approach to chemical exploration, which was deeply informed by natural products chemistry and ethnobotany. Rather than randomly synthesizing novel compounds, Shulgin often began with observations from nature and sought to understand the chemical logic underlying traditional psychoactive preparations.
 
 The story of LOPHOPHINE is a reminder of how much remains unknown about the chemistry of even well-studied psychoactive plants. The Peyote cactus has been used ceremonially for thousands of years, and its chemistry has been investigated for over a century, yet the absence of a compound that "should be there" remains unexplained.
 

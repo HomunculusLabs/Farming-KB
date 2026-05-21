@@ -1,5 +1,5 @@
 ---
-title: "Solomon's Watering Strategies and Dry Farming Techniques"
+title: "Solomon"s Watering Strategies and Dry Farming Techniques"
 tags:
   - concept
 ---

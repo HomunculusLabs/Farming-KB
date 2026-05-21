@@ -15,7 +15,7 @@ type: comparison
 
 Lollipopping and supercropping are two popular [[jorge-cervantes]], a respected cannabis cultivation
 authority, supports this approach, recommending that growers "remove spindly, dimly lit
-lower branches" to improve overall bud quality and reduce the plant's maintenance burden.
+lower branches" to improve overall bud quality and reduce the plant"s maintenance burden.
 
 Beyond energy redirection, lollipopping offers several additional benefits. The removal of
 lower foliage dramatically improves airflow through the plant's base, which reduces humidity

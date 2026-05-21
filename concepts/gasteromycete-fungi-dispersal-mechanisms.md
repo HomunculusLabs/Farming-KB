@@ -15,7 +15,7 @@ type: concept
 The gasteromycetes are a section of [[comparison-fruiting-body-vs-mycelium-extracts-medicinal-mushrooms]] rather than on exposed
 gills or other fertile surfaces. The name derives from Greek: *gaster* =
 stomach, *mycetes* = fungi — literally "stomach fungi." They include
-puffballs, earth-balls, earth-stars, bird's [[stinkhorn-cage-fungi-reproductive-biology]]. Rather than forming a natural evolutionary group, they are
+puffballs, earth-balls, earth-stars, bird"s [[stinkhorn-cage-fungi-reproductive-biology]]. Rather than forming a natural evolutionary group, they are
 regarded as a ragbag of species that independently evolved enclosed spore
 production from different ancient mushroom-producing ancestors. Surpassing
 the inventions of all other fungi, gasteromycetes have evolved a circus

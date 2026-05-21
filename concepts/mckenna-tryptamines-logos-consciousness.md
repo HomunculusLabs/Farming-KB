@@ -13,7 +13,7 @@ Central to [[leary-psychedelic-experience-bardo-mapping]].
 
 McKenna uses the term "Logos" in a sense closer to its original Greek and Hermetic meanings than to its Christian theological usage, referring to a universal principle of rational order that pervades reality.
 
-In McKenna's framework, tryptamine compounds such as DMT and psilocybin function as chemical gateways to the domain of the Logos, allowing direct experiential access to an intelligence that is normally hidden behind the veil of ordinary consciousness.
+In McKenna"s framework, tryptamine compounds such as DMT and psilocybin function as chemical gateways to the domain of the Logos, allowing direct experiential access to an intelligence that is normally hidden behind the veil of ordinary consciousness.
 
 The Logos is described not as a metaphor or psychological archetype but as an actual entity or field of intelligence that can be encountered, communicated with, and learned from.
 
@@ -27,7 +27,7 @@ McKenna's description of "self-transforming [[mckenna-women-gatherers-and-evolut
 
 McKenna proposes that the Logos functions as a kind of universal attractor—a point or region toward which all information in the cosmos is tending.
 
-This teleological dimension of the Logos connects it to McKenna's broader eschatological framework, in which history is the shockwave of an endpoint that is drawing all becoming toward itself.
+This teleological dimension of the Logos connects it to McKenna"s broader eschatological framework, in which history is the shockwave of an endpoint that is drawing all becoming toward itself.
 
 The Logos is thus both immanent and transcendent: it is present in every moment of consciousness as the organizing principle of experience, and it is also the culmination toward which all experience is tending.
 

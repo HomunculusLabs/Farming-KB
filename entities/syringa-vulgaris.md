@@ -10,7 +10,7 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - McKelvie, A.D. (2000). Grower's Guide to Lilacs. Arrowhead Press.
+  - McKelvie, A.D. (2000). Grower"s Guide to Lilacs. Arrowhead Press.
 ---
 
 ## Overview
@@ -37,7 +37,7 @@ Propagation is typically performed by softwood cuttings taken in early summer, h
 
 Layering of lower branches is a simple and effective propagation method, with rooted layers typically ready for separation after 12–18 months. [[jeavons-seed-propagation-techniques]] produces highly variable offspring and is primarily used in breeding programs.
 
-Pruning should be performed immediately after flowering to avoid removing next year's flower buds, which form on the previous season's growth. Removal of spent flower panicles prevents seed formation and redirects energy into growth.
+Pruning should be performed immediately after flowering to avoid removing next year"s flower buds, which form on the previous season's growth. Removal of spent flower panicles prevents seed formation and redirects energy into growth.
 
 The primary disease affecting S. vulgaris is bacterial blight (*Pseudomonas syringae* pv. *syringae*), which causes brown necrotic spots on leaves and blackened shoots. Powdery mildew (*Microsphaera alni*) is common in humid conditions but rarely fatal.
 
@@ -49,7 +49,7 @@ Integrated pest management approaches emphasizing proper sanitation, adequate sp
 
 The common lilac holds deep cultural significance across many societies. It is the state flower of New Hampshire (designated 1919) and the national flower of Bulgaria. In Persian culture, lilac represents love and the first emotions of romance.
 
-In literature and art, lilacs symbolize the arrival of spring, youthful innocence, and the fleeting nature of beauty. Walt Whitman's "When Lilacs Last in the Dooryard Bloom'd" (1865) is among the most celebrated poems in the English language to feature the flower.
+In literature and art, lilacs symbolize the arrival of spring, youthful innocence, and the fleeting nature of beauty. Walt Whitman's "When Lilacs Last in the Dooryard Bloom"d" (1865) is among the most celebrated poems in the English language to feature the flower.
 
 Lilac festivals are held annually in communities across North America and Europe. The Lilac Festival in Rochester, New York, draws over 500,000 visitors annually to view the Highland Park lilac collection, one of the largest in the world.
 

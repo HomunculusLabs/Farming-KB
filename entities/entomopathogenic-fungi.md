@@ -8,7 +8,7 @@ type: entity
 
 ## Description
 
-Entomopathogenic fungi are a specialized group of fungi that parasitize insects, ultimately killing their hosts. These fungi colonize the insect body by threading [[mycelium]] through the host's tissues, sometimes even infiltrating the brainstem to the extent that they can take control of the insect's activities and movement—effectively steering the host like a remote control. This phenomenon of behavioral manipulation is one of the most dramatic examples of fungal parasitism in nature.
+Entomopathogenic fungi are a specialized group of fungi that parasitize insects, ultimately killing their hosts. These fungi colonize the insect body by threading [[mycelium]] through the host"s tissues, sometimes even infiltrating the brainstem to the extent that they can take control of the insect's activities and movement—effectively steering the host like a remote control. This phenomenon of behavioral manipulation is one of the most dramatic examples of fungal parasitism in nature.
 
 ## Classification
 

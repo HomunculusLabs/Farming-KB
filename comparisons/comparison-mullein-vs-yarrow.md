@@ -3,7 +3,7 @@ title: "Mullein vs Yarrow"
 tags: [comparison, medicinal-herbs, permaculture, respiratory, wound-care]
 date: 2026-05-09
 updated: 2026-05-09
-sources: ['raw/papers/unknown-biodiversity-fungi-soil-fungal-communities|biodiversity-of-fungi.md']
+sources: ["raw/papers/unknown-biodiversity-fungi-soil-fungal-communities|biodiversity-of-fungi.md']
 ---
 
 ## Mullein vs Yarrow

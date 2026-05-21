@@ -10,7 +10,7 @@ Everybody thinks legumes enrich soil by making nitrates. Actually, all nitrates 
 
 ## The Nitrogen Myth Clarified
 
-Nitrates are made by specialized soil-dwelling microorganisms that beneficially colonize legume roots, forming **nodules**. These organisms won't be present in soil that is highly depleted of organic matter.
+Nitrates are made by specialized soil-dwelling microorganisms that beneficially colonize legume roots, forming **nodules**. These organisms won"t be present in soil that is highly depleted of organic matter.
 
 ### Inoculation
 
@@ -29,7 +29,7 @@ Legumes need substantial levels of minerals, especially:
 - **Calcium** (lime)
 - **Phosphorus**
 
-The old farmer's adage: **"Feed your phosphate to your clover, feed your clover to your corn (plow it in), and you can't go wrong."**
+The old farmer's adage: **"Feed your phosphate to your clover, feed your clover to your corn (plow it in), and you can"t go wrong."**
 
 ## Peas
 

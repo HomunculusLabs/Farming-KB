@@ -98,7 +98,7 @@ Casing pasteurization eliminates soil-borne Mycogone inoculum before it can caus
 
 Penicillium appears as bluish-green colonies on grain spawn, compost, and casing soil. Humans are the most frequent carriers.
 
-Aspergillus species produce green, yellow, or black colonies. A. fumigatus causes "Worker's Lung Disease" from contaminated compost. Respiratory protection is mandatory.
+Aspergillus species produce green, yellow, or black colonies. A. fumigatus causes "Worker"s Lung Disease" from contaminated compost. Respiratory protection is mandatory.
 
 Neurospora (pink mold) produces rapid, tenacious aerial growth that overtakes cultures in days. Its heat-resistant spores survive standard pasteurization.
 

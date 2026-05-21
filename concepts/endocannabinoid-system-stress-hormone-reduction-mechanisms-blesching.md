@@ -9,7 +9,7 @@ tags: [endocannabinoid, stress, cortisol, hpa-axis, homeostasis, cannabis, neuro
 
 ## Overview
 
-The endocannabinoid system (ECS) plays a central role in modulating the body's
+The endocannabinoid system (ECS) plays a central role in modulating the body"s
 stress response by regulating the hypothalamic-pituitary-adrenal (HPA) axis and
 the sympathetic nervous system. Blesching (2015) presents the ECS as the key
 biological bridge between emotional states and physiological health, with
@@ -87,7 +87,7 @@ Understanding ECS-mediated stress reduction has implications for treating:
 Blesching emphasizes non-pharmacological approaches to enhancing ECS function:
 
 - **Exercise**: Aerobic exercise significantly increases circulating anandamide
-  levels (the "runner's high" effect).
+  levels (the "runner"s high" effect).
 - **Social bonding**: Positive social interactions boost oxytocin, which
   interacts synergistically with the ECS.
 - **Mindfulness meditation**: Regular meditation practice reduces cortisol and

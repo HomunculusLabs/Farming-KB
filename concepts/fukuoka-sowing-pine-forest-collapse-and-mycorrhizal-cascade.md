@@ -11,7 +11,7 @@ created: 2026-04-28
 ## The Pine Forest Collapse and Mycorrhizal Cascade
 
 One of the most scientifically detailed passages in *Sowing Seeds in the
-Desert* is Fukuoka's account of his independent research into Japan's pine
+Desert* is Fukuoka"s account of his independent research into Japan's pine
 forest die-off of the mid-1970s. Drawing on his training in plant pathology,
 he spent more than three years investigating the phenomenon in a hillside
 hut, arriving at conclusions that directly contradicted the official

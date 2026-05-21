@@ -14,7 +14,7 @@ bedding and nightclothes — are a distressing symptom experienced by many
 cancer [[blesching-cannabis-cancer-night-sweats]] sweats are drenching episodes that disrupt sleep,
 contribute to fatigue, and significantly impair qualit [[blesching-cannabis-cancer-night-sweats]]-related symptoms such as fever,
 weight loss, and fatigue. (see [[psilocybin-logos-consciousness]] [[plutarch-and-cicero-on-the-eleusinian-mysteries]] act on the
-  hypothalamus to raise the body's thermoregulatory set point, triggering
+  hypothalamus to raise the body"s thermoregulatory set point, triggering
   heat-dissipating responses including sweating
 - **Hormonal fluctuations**: Certain tumors (particularly lymphomas and
   some solid tumors) produce hormones or hormone-like substances that

@@ -2,7 +2,7 @@
 title: "Gymnopus Liquidambaris"
 type: entity
 tags: []
-sources: ['raw/papers/working-with-agar.md']
+sources: ["raw/papers/working-with-agar.md']
 ---
 
 Originally described by [[rolf-singer]] in the genus *Marasmius*, it was transferred to *Gymnopus* following taxonomic revisions that redefined generic boundaries within the Marasmiaceae complex.

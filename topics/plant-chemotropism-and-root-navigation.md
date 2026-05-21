@@ -19,7 +19,7 @@ sources:
 
 ## Overview
 
-Plant roots are not passive structures that grow blindly downward. They are sophisticated sensory organs that continuously sample their chemical, physical, and biological environment and adjust their growth trajectory in real time. This capacity for directed growth — collectively termed **tropism** — enables plants to locate water, minerals, avoid toxins, detect and colonize beneficial microbes, and compete with neighboring root systems. Root navigation is the integrated output of multiple tropic responses acting simultaneously, modulated by the plant's internal hormonal economy and developmental program.
+Plant roots are not passive structures that grow blindly downward. They are sophisticated sensory organs that continuously sample their chemical, physical, and biological environment and adjust their growth trajectory in real time. This capacity for directed growth — collectively termed **tropism** — enables plants to locate water, minerals, avoid toxins, detect and colonize beneficial microbes, and compete with neighboring root systems. Root navigation is the integrated output of multiple tropic responses acting simultaneously, modulated by the plant"s internal hormonal economy and developmental program.
 
 Understanding root tropisms is essential for growers, breeders, and anyone working with soil systems. Root architecture — the three-dimensional spatial arrangement of a root system — determines a plant's ability to access water and nutrients, its resilience to drought, its competitive ability, and its interaction with the soil microbiome. Tropisms are the steering mechanisms that shape that architecture.
 

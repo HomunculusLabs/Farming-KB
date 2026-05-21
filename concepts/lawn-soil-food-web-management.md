@@ -12,7 +12,7 @@ Managing a lawn through its [[soil-food-web]] represents a fundamentally differe
 
 ### Biological Indicators
 
-Before applying amendments, assess the current state of the lawn's soil food web:
+Before applying amendments, assess the current state of the lawn"s soil food web:
 
 - **Earthworms**: Their presence indicates healthy populations of bacteria, fungi, and protozoa (their food). Signs include birds hunting worms, worms visible after rain, and surface castings deposited at night
 - **Microarthropods**: Visible with a hand lens, macroscope, or light microscope. These assist with nutrient cycling, open grass clippings, and aerate soil. A [[berlese-funnel]] can extract and count them

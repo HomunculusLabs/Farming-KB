@@ -12,7 +12,6 @@ date: 2026-05-09
 updated: 2026-05-09
 sources:
   - Wetmore, C.M. (2007). "The Rhizocarpaceae of guzman-psilocybin-mushrooms-north-america." Contributions from the University of Michigan Herbarium, 25.---
----
 
 ## Overview
 

@@ -29,7 +29,7 @@ Ajulemic acid is a synthetic cannabinoid derivative that showed promise in [[bay
 
 CB2 receptor activation reduced atherosclerosis by suppressing adhesion molecules -- the molecular signals that cause inflammatory cells to stick to blood vessel walls. This is relevant because rheumatoid arthritis patients have significantly elevated cardiovascular risk due to systemic inflammation.
 
-**CBD-2',6'-dimethyl ether** (Takeda et al., 2009): A cannabidiol derivative that is a highly potent and selective 15-lipoxygenase inhibitor. This enzyme pathway is involved in atherosclerotic plaque formation.
+**CBD-2",6'-dimethyl ether** (Takeda et al., 2009): A cannabidiol derivative that is a highly potent and selective 15-lipoxygenase inhibitor. This enzyme pathway is involved in atherosclerotic plaque formation.
 
 ## Food-as-Medicine for Arthritis
 

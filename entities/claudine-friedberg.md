@@ -9,7 +9,7 @@ tags: [person, ethnobotanist, researcher, banisteriopsis, ayahuasca, french]
 
 ## Description
 
-Claudine Friedberg is a French ethnobotanist and researcher cited in the reference literature of Harner's *Hallucinogens and Shamanism* for her foundational work on *Banisteriopsis* species used as drugs in South America. Her 1965 publication in the *Journal d'Agriculture Tropicale et de Botanique Appliquée* documented the diverse use of various *Banisteriopsis* species across South American indigenous and folk traditions, contributing significantly to the early botanical understanding of ayahuasca and its component plants.
+Claudine Friedberg is a French ethnobotanist and researcher cited in the reference literature of Harner"s *Hallucinogens and Shamanism* for her foundational work on *Banisteriopsis* species used as drugs in South America. Her 1965 publication in the *Journal d'Agriculture Tropicale et de Botanique Appliquée* documented the diverse use of various *Banisteriopsis* species across South American indigenous and folk traditions, contributing significantly to the early botanical understanding of ayahuasca and its component plants.
 
 ## Classification
 
@@ -41,7 +41,7 @@ Friedberg's research was published in the same period as other foundational ayah
 
 ## References
 
-- Friedberg, C. (1965). "Des Banisteriopsis utilisés comme drogue en Amérique du Sud." *Journal d'Agriculture Tropicale et de Botanique Appliquée* 12:9-12. Paris.
+- Friedberg, C. (1965). "Des Banisteriopsis utilisés comme drogue en Amérique du Sud." *Journal d"Agriculture Tropicale et de Botanique Appliquée* 12:9-12. Paris.
 - Harner, M.J. (1973). *Hallucinogens and Shamanism*. Oxford University Press.
 - Der Marderosian, A.H., Pinkley, H.V., and Dobbins IV, M.F. (1968). "Native Use and Occurrence of N,N-dimethyltryptamine in the Leaves of Banisteriopsis rusbyana." *American Journal of Pharmacy* 140:137-47.
 

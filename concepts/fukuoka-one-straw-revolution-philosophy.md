@@ -9,7 +9,7 @@ sources: [raw/papers/one-straw-revolution-masanobu-fukuoka.md]
 
 # Fukuoka One Straw Revolution Philosophy
 
-Masanobu Fukuoka's The One-Straw Revolution (1975) is a foundational text of natural farming. Fukuoka developed his method over 30 years on his family farm in Japan, arriving at a practice that requires no plowing, no fertilizers, no pesticides, and no weeding — producing yields comparable to conventional agriculture.
+Masanobu Fukuoka"s The One-Straw Revolution (1975) is a foundational text of natural farming. Fukuoka developed his method over 30 years on his family farm in Japan, arriving at a practice that requires no plowing, no fertilizers, no pesticides, and no weeding — producing yields comparable to conventional agriculture.
 
 ## Core Philosophy
 
@@ -17,7 +17,7 @@ Masanobu Fukuoka's The One-Straw Revolution (1975) is a foundational text of nat
 "The ultimate goal of farming is not the growing of crops, but the cultivation and perfection of human beings." Fukuoka saw farming as a spiritual practice, not just food production.
 
 ### Mu (Nothingness)
-Central to Fukuoka's philosophy is the concept of mu — doing nothing, or rather, not doing unnecessary things. Modern agriculture creates problems (weeds, pests, soil degradation) through its interventions, then applies more interventions to fix those problems. Natural farming avoids creating problems in the first place.
+Central to Fukuoka"s philosophy is the concept of mu — doing nothing, or rather, not doing unnecessary things. Modern agriculture creates problems (weeds, pests, soil degradation) through its interventions, then applies more interventions to fix those problems. Natural farming avoids creating problems in the first place.
 
 ### The Human Mind Separates
 Fukuoka argued that the human tendency to categorize, analyze, and intervene is what separates us from nature. The farmer who thinks "I must do X" has already departed from natural farming. The ideal is to farm in a way that is indistinguishable from nature itself.

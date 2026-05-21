@@ -30,7 +30,7 @@ elephants selecting specific clay deposits to neutralize plant toxins in their
 diet. The field demonstrated that the capacity for pharmacological discovery is 
 not uniquely human but widely distributed across the animal kingdom.
 
-What makes the chimpanzee case particularly significant for McKenna's argument 
+What makes the chimpanzee case particularly significant for McKenna"s argument 
 is the primate's cognitive sophistication. Chimpanzees share approximately 
 98.7% of their DNA with humans, and their self-medication behavior involves 
 intentional selection from a large botanical repertoire, knowledge that appears 
@@ -50,7 +50,7 @@ biology.
 
 "The mutation-inducing influence of diet on early humans and the effect of 
 exotic metabolites on the evolution of their neurochemistry and culture is 
-still unstudied territory," McKenna wrote. The early hominids' adoption of an 
+still unstudied territory," McKenna wrote. The early hominids" adoption of an 
 omnivorous diet and their discovery of the power of certain plants were 
 "decisive factors in moving early humans out of the stream of animal evolution 
 and into the fast-rising tide of language and culture." The chimpanzee evidence 

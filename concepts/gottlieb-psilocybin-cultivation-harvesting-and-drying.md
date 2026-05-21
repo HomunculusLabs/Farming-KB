@@ -10,7 +10,7 @@ tags: [cultivation, harvesting, psilocybin]
 
 ## Gottlieb Psilocybin Cultivation Harvesting and Drying
 
-In Gottlieb's "The Psilocybin Producer's Guide" (1976), harvesting and
+In Gottlieb"s "The Psilocybin Producer"s Guide" (1976), harvesting and
 drying refer to collecting and preserving [[ectomycorrhizal-mushroom-fruiting-ecology]] bodies. The guide's entire
 cultivation model is built around extracting alkaloids from submerged
 mycelium rather than consuming carpophores directly. This approach

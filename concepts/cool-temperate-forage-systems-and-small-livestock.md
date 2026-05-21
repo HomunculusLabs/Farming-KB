@@ -10,19 +10,19 @@ Cool temperate permaculture relies heavily on integrated forage systems and smal
 
 ## Tagasaste as a Multi-Purpose Forage Tree
 
-Tagasaste (Chamaecytisus proliferus) is one of the most valuable forage trees for cool and cold temperate climates. At Jim and Miriam Tyler's farm in New Zealand, tagasaste yields up to 7 meters of mulch trimmings per annum. In frost-prone areas like Taheke, New Zealand, avocado trees thrive in the protective microclimate of a tagasaste clump, with kikuyu grass slashed to provide additional mulch.
+Tagasaste (Chamaecytisus proliferus) is one of the most valuable forage trees for cool and cold temperate climates. At Jim and Miriam Tyler"s farm in New Zealand, tagasaste yields up to 7 meters of mulch trimmings per annum. In frost-prone areas like Taheke, New Zealand, avocado trees thrive in the protective microclimate of a tagasaste clump, with kikuyu grass slashed to provide additional mulch.
 
 On the Canterbury Plain, New Zealand, tagasaste is direct-drilled with turnip for future sheep forage. The seedling trees establish successfully through the brassica crop at Matthew Carpenter's property, demonstrating that tagasaste can be intercropped with annual vegetables during establishment. At Banks Peninsula, tagasaste planted at 1 m in-row spacing with 2 m between rows provides summer forage from coppice and short-period browsing by sheep. Grasses thrive between the rows in DSIR trials by Doug Davies. Pampas grass combines well with tagasaste strips, providing both fast shelter for lambing ewes and preferred forage for most livestock through vegetative propagation by divisions.
 
 ## Willow Coppice Systems
 
-Willow coppice near Christchurch, New Zealand, serves multiple functions beyond its primary intended use for basketry. Coppiced willows can also provide medicinals, forage, "stickwood" for radiant (mass) heaters, active charcoal filters, artist's charcoal, and more. "Willow water" — fresh willow chips soaked in water — provides gibberellic acid for promoting root growth in the striking of cuttings, making willow coppice an essential companion to any plant nursery operation.
+Willow coppice near Christchurch, New Zealand, serves multiple functions beyond its primary intended use for basketry. Coppiced willows can also provide medicinals, forage, "stickwood" for radiant (mass) heaters, active charcoal filters, artist"s charcoal, and more. "Willow water" — fresh willow chips soaked in water — provides gibberellic acid for promoting root growth in the striking of cuttings, making willow coppice an essential companion to any plant nursery operation.
 
 At Perth, Tasmania, willows are pollarded for propagation cuttings at a nursery. Matsudana willow provides a strict, columnar windbreak for kiwifruit vine crops on the plains near Nelson, New Zealand. The strict upright form allows minimal space loss on the ground and requires little maintenance to control shape, making it ideal where land is at a premium.
 
 ## Chicken and Rabbit Tractors
 
-The "tractor" system — mobile animal enclosures moved regularly across garden beds — is a fundamental tool in cool temperate permaculture. At Michael Mangavelakis's farm in Forest, Tasmania, a rabbit cage tractor cleans clover and grasses from mounded strawberry crops. The rabbits are part of the yield of the weed system and provide manure for the strawberries, turning a pest management problem into a fertility resource.
+The "tractor" system — mobile animal enclosures moved regularly across garden beds — is a fundamental tool in cool temperate permaculture. At Michael Mangavelakis"s farm in Forest, Tasmania, a rabbit cage tractor cleans clover and grasses from mounded strawberry crops. The rabbits are part of the yield of the weed system and provide manure for the strawberries, turning a pest management problem into a fertility resource.
 
 At Michael Pilarski's farm (Friends of the Trees Coordinator) near Lake Chelan, Okanogan, USA, chicken tractors manage grasses for small fruit background crops, "weed" small fruits over the autumn period, and provide manure — all while the birds forage productively. In Aspen, Colorado, chicken-heated greenhouses combined with solar-heated seedling cloches enable early planting in short-season high mountain areas, integrating animal body heat into the building climate system.
 

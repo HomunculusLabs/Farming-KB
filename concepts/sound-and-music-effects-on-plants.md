@@ -18,7 +18,7 @@ chromosome count.
 
 ## Overview
 
-The investigation of sound's effect on plants dates back to Charles
+The investigation of sound"s effect on plants dates back to Charles
 Darwin, who played his bassoon to a [[hydrilla-verticillata]] might be affected by
 sound. Singh placed an electrically operated tuning fork six feet from
 the plant and observed that its note, broadcast before sunrise, caused

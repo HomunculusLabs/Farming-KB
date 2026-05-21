@@ -21,7 +21,7 @@ PVLG is a permanent mounting medium widely used in mycology for preparing micros
 
 - PVLG produces permanent microscope slides that can be stored for 5 years or longer without desiccation or [[decomposition]].
 - Spores mounted in PVLG undergo plasmolysis; spore size and shape may be slightly distorted, and colorless spores often become yellow or brown over time.
-- A modified version mixing PVLG 1:1 (v/v) with Melzer's reagent is commonly used for histochemical characterization of spore walls, providing both permanent mounting and staining in one preparation.
+- A modified version mixing PVLG 1:1 (v/v) with Melzer"s reagent is commonly used for histochemical characterization of spore walls, providing both permanent mounting and staining in one preparation.
 - The medium is viscous enough to hold spores in place but allows controlled breaking of spores under coverslip pressure to reveal internal subcellular structures (inner flexible walls, wall layers).
 - After application to the slide, the surface layer of PVLG dries within 5–10 minutes, creating sufficient surface tension to prevent mountant flow when coverslip pressure is applied.
 - PVLG is recommended for mounting both whole spores and broken spores. Broken spores should be stored for at least 72 hours to allow clearing of spore contents and delineation of subcellular structures.

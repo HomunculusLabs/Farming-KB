@@ -23,7 +23,7 @@ Continuation of [[history-of-mycology-timeline]]. Covers the post-WWII expansion
   in a series of lysergic acid derivatives while researching ergot alkaloids.
   See [[albert-hofmann]] and [[lsd-history]].
 
-- **1943 — Hofmann discovers LSD's effects:**
+- **1943 — Hofmann discovers LSD"s effects:**
   Bicycle Day, April 19.
   The accidental discovery of LSD's psychoactive properties
   opened entirely new fields of consciousness research

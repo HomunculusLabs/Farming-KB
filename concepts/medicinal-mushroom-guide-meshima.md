@@ -11,7 +11,7 @@ sources: []
 
 ## Overview
 
-Meshima, meaning "women's island" in Japanese, is a bracket fungus that has been used for centuries in traditional medicine across East Asia, particularly in Japan, Korea, and China. It grows as a woody, hoof-shaped conk on mulberry and other hardwood trees. The name originates from a historical account that a woman on a remote island survived what was likely cervical cancer by consuming this mushroom.
+Meshima, meaning "women"s island" in Japanese, is a bracket fungus that has been used for centuries in traditional medicine across East Asia, particularly in Japan, Korea, and China. It grows as a woody, hoof-shaped conk on mulberry and other hardwood trees. The name originates from a historical account that a woman on a remote island survived what was likely cervical cancer by consuming this mushroom.
 
 [[phellinus-linteus]] is considered one of the most powerful anti-inflammatory and anti-tumor mushrooms in traditional Asian medicine, though it is less well-known in the West compared to reishi, shiitake, or turkey tail.
 

@@ -28,13 +28,13 @@ When intervening in systems over which we have substantial design or management 
 
 The Permaculture approach starts by dealing with concrete and mundane aspects of material existence through self-audit processes. By making small changes, confidence grows to tackle larger ones. A rational audit of material needs and processes can be a fast track to dealing with abstract questions of motivation, value, and meaning.
 
-In the garden, practitioners are free to explore and experiment with top-down change processes because they can exercise great relative power when they choose. The mysteries of soil and nature's complexity challenge hubristic control, while seasonal harvest and ease of management reward appropriate action.
+In the garden, practitioners are free to explore and experiment with top-down change processes because they can exercise great relative power when they choose. The mysteries of soil and nature"s complexity challenge hubristic control, while seasonal harvest and ease of management reward appropriate action.
 
 ### The Problem of Over-Intervention
 
 The general problem with top-down control is doing too much too quickly. A little change goes a long way if used carefully. Identifying where limited resources and power can gain the most leverage is more important than rushing around trying to make everything just right. [[masanobu-fukuoka]]'s "do-nothing" [[natural-farming]] suggests observing first and thinking hard before changing anything.
 
-Fukuoka's approach and Mollison's "self-maintaining Permaculture Garden of Eden" should not be misinterpreted as passive consumption of a "natural" drip feed. The two responses — over-energetic and slothful — come to the fore in most people at different times. Permaculture involves the transition from dependent consumer to responsible producer.
+Fukuoka"s approach and Mollison's "self-maintaining Permaculture Garden of Eden" should not be misinterpreted as passive consumption of a "natural" drip feed. The two responses — over-energetic and slothful — come to the fore in most people at different times. Permaculture involves the transition from dependent consumer to responsible producer.
 
 ## Resilience to Change from Above
 

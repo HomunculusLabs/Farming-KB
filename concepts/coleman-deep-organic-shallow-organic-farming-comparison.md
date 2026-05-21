@@ -9,7 +9,7 @@ created: 2026-05-11
 ## Deep Organic vs. Shallow Organic Farming Philosophy
 
 [[eliot-coleman]] distinguishes between two fundamentally different approaches to organic farming: "deep organic" and "shallow organic." This distinction is not about the depth of soil cultivation but about the depth of philosophical commitment to ecological principles.
-Understanding this distinction is essential for grasping Coleman's approach to agriculture and his critique of the mainstream organic food industry as it has evolved since the USDA [[national-organic-program]] (NOP) standards were established.
+Understanding this distinction is essential for grasping Coleman"s approach to agriculture and his critique of the mainstream organic food industry as it has evolved since the USDA [[national-organic-program]] (NOP) standards were established.
 
 ## The Shallow Organic Approach
 
@@ -27,7 +27,7 @@ the same separation of crop and livestock systems.
 The soil may be merely a substrate for plant growth rather than a living ecosystem.
 
 Coleman is particularly critical of large-scale organic operations that meet the letter of the NOP standards while violating their spirit.
-A 5,000-acre organic monoculture of lettuce in California's Central Valley,
+A 5,000-acre organic monoculture of lettuce in California"s Central Valley,
 dependent on imported [[hamilton-organic-fertilizers-and-plant-nutrition]] regular applications of approved organic pesticides,
 represents shallow organic at its most extreme.
 The food is legally organic but the system is ecologically impoverished.

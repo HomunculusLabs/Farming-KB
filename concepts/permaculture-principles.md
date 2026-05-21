@@ -35,7 +35,7 @@ All permaculture design rests on three core ethics (Mollison):
 
 3. **Fair Share / Return of Surplus** -- Set limits to consumption and redistribute surplus. What is beyond your needs should be returned to the system -- shared with others, composted, or used to improve the land.
 
-## Holmgren's 12 Principles
+## Holmgren"s 12 Principles
 
 David Holmgren articulated 12 design principles that serve as practical tools for applying permaculture ethics:
 
@@ -86,7 +86,7 @@ For a small-to-medium homestead with animals and gardens:
 - Use [[cover-cropping-guide]] and [[companion-planting-reference]] to reduce inputs
 - Let animals do work: ducks for pest control, goats for brush clearing, chickens for tilling
 
-### Practical Examples from Melliodora (Holmgren's Homestead)
+### Practical Examples from Melliodora (Holmgren"s Homestead)
 - **Ecological footprint**: 3.1 hectares/person vs Australian average of 8.5 ha/person -- living well at one-third the impact
 - **Food production**: The garden must provide harvests that sustain motivation through seasonal ups and downs; expose young children to foraging to build lifelong nature connection
 - **Timing**: Match harvesting to seasonal abundance phases; autumn surplus and spring scarcity are fundamental realities
@@ -131,17 +131,17 @@ Yield ratio > 4 = high-value source comparable to current economic resources. Th
 - [[food-forest-design]]
 - [[water-management]]
 - [[permaculture-zones-in-practice]] — zones 0-5 with specific homestead examples
-- [[toby-hemenway]] — Author of "Gaia's Garden," home-scale permaculture pioneer
+- [[toby-hemenway]] — Author of "Gaia"s Garden," home-scale permaculture pioneer
 - [[william-ozier-williams]] — PDC course contributor, permaculture education
 
-## Beginner's Perspective (Graham Burnett)
+## Beginner"s Perspective (Graham Burnett)
 
-Graham Burnett's "Permaculture: A Beginner's Guide" adds practical framing for newcomers:
+Graham Burnett's "Permaculture: A Beginner"s Guide" adds practical framing for newcomers:
 
 ### Core Attitude Shifts
-- **"You haven't got an excess of slugs, you've got a duck deficiency"** (Mollison, via Burnett) — reframe problems as opportunities for new design elements
+- **"You haven"t got an excess of slugs, you've got a duck deficiency"** (Mollison, via Burnett) — reframe problems as opportunities for new design elements
 - **Work with nature, not against it** — instead of chemical inputs to control pests, encourage predators like ladybirds and hoverflies; instead of fighting soil with plows, build [[no-till-gardening-method]] systems
-- **Yield is limited only by imagination** — yield isn't just kilograms of food; it includes information, skills learned, health benefits, community connections, and ecological restoration
+- **Yield is limited only by imagination** — yield isn"t just kilograms of food; it includes information, skills learned, health benefits, community connections, and ecological restoration
 
 ### Key Design Heuristics (Burnett's "Ecological Truisms")
 1. **Every function should be supported by many elements** — redundancy creates resilience. If one crop fails in a polyculture, others still produce

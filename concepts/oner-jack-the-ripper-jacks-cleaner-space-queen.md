@@ -1,17 +1,17 @@
 ---
-title: "Jack the Ripper: Jack's Cleaner × Space Queen"
+title: "Jack the Ripper: Jack"s Cleaner × Space Queen"
 source: "S.T. Oner - Cannabis Sativa Vol. 3"
 source_id: "oner-cannabis-sativa-vol3"
 topics: [cannabis, sativa, strain-profile, subcool, breeding, thcv, cannabis-genetics]
 ---
 
-## Jack the Ripper: Jack's Cleaner × Space Queen
+## Jack the Ripper: Jack"s Cleaner × Space Queen
 
 ## Overview
 
 Jack the Ripper is a sativa-dominant hybrid created by Subcool and
 his Team Green Avengers. Named for its potency — "absolutely killer
-weed" — this strain combines Jack's Cleaner (P1) with Space Queen to
+weed" — this strain combines Jack"s Cleaner (P1) with Space Queen to
 produce a plant with remarkable lineage depth. With THC measured at
 26.6% and the presence of THCV, Jack the Ripper is one of the more
 significant strains in the Subcool catalog.

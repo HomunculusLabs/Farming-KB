@@ -76,7 +76,7 @@ There are well over **two thousand** indolic alkaloids known, with a few dozen b
 
 ## Specific SAR Examples from TIHKAL
 
-Shulgin's commentary provides concrete illustrations of SAR principles:
+Shulgin"s commentary provides concrete illustrations of SAR principles:
 
 - **4,5-Methylenedioxy vs. 5,6-Methylenedioxy**: The 4,5-pattern (as in 4,5-MDO-DMT) has an "appealing symmetry" with the long axis extending from the 3-position through the indole ring. The 5,6-pattern, while also active, is "relatively uninteresting" by comparison.
 - **The 6-position "Kiss of Death"**: 5-methoxy-6-methyl-DMT showed nothing even at 15 mg smoked -- a level that "would have been dramatic had there been no substitution at that 6-position."

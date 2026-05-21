@@ -8,7 +8,7 @@ type: concept
 
 Understanding soil structure and classification is fundamental to [[fungal-hyphae]]
 
-When a plough or drag harrow passes through these fragile assemblies, they may powder up — as in a potter's ballmill or on outback roads ("bulldust" in Australian terms, or "snuff" to a soil scientist). Dryland soils with high salt content are particularly susceptible to loss of crumb structure, only partly relieved by gypsum application.
+When a plough or drag harrow passes through these fragile assemblies, they may powder up — as in a potter"s ballmill or on outback roads ("bulldust" in Australian terms, or "snuff" to a soil scientist). Dryland soils with high salt content are particularly susceptible to loss of crumb structure, only partly relieved by gypsum application.
 
 ### Soil as a Thin Living Mantle
 

@@ -98,7 +98,7 @@ PSP stimulates cytokine production through gene expression and the production of
 
 ## Classification as Biological Response Modifiers
 
-"Pharmacologically, these [[growing-gourmet-medicinal-polysaccharides-mushroom-compounds]] are classified as biological response modifiers and have antitumour activity, a result of activation or augmentation of the host's immune system or immunocompetency rather than direct cytotoxicity."
+"Pharmacologically, these [[growing-gourmet-medicinal-polysaccharides-mushroom-compounds]] are classified as biological response modifiers and have antitumour activity, a result of activation or augmentation of the host"s immune system or immunocompetency rather than direct cytotoxicity."
 
 ### Immune Pathways Activated
 1. **Innate defences**: Cytotoxic macrophages, neutrophils, NK cells

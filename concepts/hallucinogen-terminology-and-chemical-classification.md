@@ -15,7 +15,7 @@ The language used to describe [[fukuoka-fallacies-scientific-understanding]],
 and cultural contexts. The terminology is not merely semantic; each label carries
 distinct connotations that influence both clinical perception and public policy.
 The choice between "hallucinogen" and "psychedelic," for instance, can signal an
-author's disciplinary allegiance and normative stance toward the substances in
+author"s disciplinary allegiance and normative stance toward the substances in
 question.
 
 ## Competing Terminology

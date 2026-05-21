@@ -20,7 +20,7 @@ sources:
 
 GMO consistently tests at high THC levels, typically ranging from 25-32%, placing it among the most potent strains available. It has won multiple awards, including first place at the 2020 Emerald Cup and recognition at various High Times Cannabis Cups.
 
-The strain's popularity has surged since approximately 2018, driven by the craft cannabis movement and growing consumer interest in unique, savory [[cannabis-glandular-trichome-types-resin-production-clarke]]
+The strain"s popularity has surged since approximately 2018, driven by the craft cannabis movement and growing consumer interest in unique, savory [[cannabis-glandular-trichome-types-resin-production-clarke]]
 
 The genetic ratio is approximately 70% indica / 30% sativa. Chemdawg's influence dominates the [[east-coast-sour-diesel-clone-lineage-chemdawg-family-tree]] alongside Chemdog, Sour Diesel, and OG Kush, making it a direct descendant of some of the most influential [[haze-lineage-and-legacy-in-modern-breeding]] history.
 

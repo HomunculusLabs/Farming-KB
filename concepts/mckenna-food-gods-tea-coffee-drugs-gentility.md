@@ -12,7 +12,7 @@ type: concept
 
 ## The Caffeine Alkaloid
 
-Wallace Stevens's poem "Sunday Morning" opens with an image of radiant transcendence: "Complacencies of the peignoir, and late / Coffee and oranges in a sunny chair, / And the green freedom of a cockatoo / Upon a rug mingle to dissipate / The holy hush of ancient sacrifice."
+Wallace Stevens"s poem "Sunday Morning" opens with an image of radiant transcendence: "Complacencies of the peignoir, and late / Coffee and oranges in a sunny chair, / And the green freedom of a cockatoo / Upon a rug mingle to dissipate / The holy hush of ancient sacrifice."
 
 [[mckenna-caffeine-coffee-and-industrial-revolution]]. They provided an energy lift, enabling people to keep working at repetitious tasks that demanded concentration.
 

@@ -20,7 +20,7 @@ The process: fill a bucket with ice and cold water, add plant material, agitate 
 
 ## Charas (Hand-Rubbed Hash)
 
-Charas is the traditional Indian method of making hash by rubbing living cannabis plants between the hands. The friction and warmth cause trichomes to adhere to the skin, forming a dark, sticky resin that is scraped off and rolled into balls. This method produces a unique product but is labor-intensive and requires access to fresh plants. The quality depends on the strain, the plant's maturity, and the skill of the collector.
+Charas is the traditional Indian method of making hash by rubbing living cannabis plants between the hands. The friction and warmth cause trichomes to adhere to the skin, forming a dark, sticky resin that is scraped off and rolled into balls. This method produces a unique product but is labor-intensive and requires access to fresh plants. The quality depends on the strain, the plant"s maturity, and the skill of the collector.
 
 ## Rosin Press
 

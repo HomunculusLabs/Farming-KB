@@ -11,7 +11,7 @@ sources:
 
 ## Overview
 
-Maximizing THC and terpene production in cannabis involves optimizing genetics, light quality, environmental stress, [[cannabis-harvest-timing-visual-cues]]. The Cannabis Grow Bible describes potency as the result of cumulative factors throughout the plant's life cycle.
+Maximizing THC and terpene production in cannabis involves optimizing genetics, light quality, environmental stress, [[cannabis-harvest-timing-visual-cues]]. The Cannabis Grow Bible describes potency as the result of cumulative factors throughout the plant"s life cycle.
 
 ## Genetics — The Foundation
 

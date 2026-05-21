@@ -9,11 +9,11 @@ sources:
 ---
 ## Turner CydelikSpace and Psychedelic Reality
 
-Turner's metaphysical framework describing "CydelikSpace" — a universal state of consciousness accessible through deep psychedelic experiences.
+Turner"s metaphysical framework describing "CydelikSpace" — a universal state of consciousness accessible through deep psychedelic experiences.
 
 ## What is CydelikSpace?
 
-- A state visited through psychedelics, correlated to but distinct from Gibson's fictional "cyberspace"
+- A state visited through psychedelics, correlated to but distinct from Gibson"s fictional "cyberspace"
 - "Not a fictional dimension. It is accessible now, and even appears to be the underlying reality behind all existence"
 - Vast — "appears to contain all matter and energy in all of its manifestations since the beginning of time"
 - Contains thought; "it may be thought that gives birth to matter"
@@ -31,7 +31,7 @@ Turner's metaphysical framework describing "CydelikSpace" — a universal state 
 ### Universal Repository
 - Contains "all thoughts and experiences of every human, animal, plant, and molecular life form"
 - Including individual cells and galactic star systems
-- Other lives experienced with almost as much detail as one's own
+- Other lives experienced with almost as much detail as one"s own
 - Examples: child's wonder feeling dew, extraterrestrial body during lovemaking, planet's soul over millions of years
 
 ### Unmanifest Possibilities

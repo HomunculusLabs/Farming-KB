@@ -33,7 +33,7 @@ Winston et al. proposed that Cellvibrio abundance serves as a **biomarker for ro
 
 The practical implication is that Cellvibrio monitoring could serve as an early diagnostic indicator of root health decline in Cannabis cultivation systems, particularly in controlled environment agriculture where root diseases can spread rapidly. Cultivators employing microbial sequencing or quantitative PCR-based diagnostics could track Cellvibrio as a proxy for root integrity over the course of a grow cycle.
 
-It is worth noting that Cellvibrio's presence in the "core" microbiome does not imply it is an active mutualist during healthy growth phases. Rather, its consistent detection at low levels in pre-harvest samples may reflect baseline opportunistic colonization of minor root lesions or naturally senescing root cortical cells that occur even in healthy plants. The dramatic post-harvest enrichment simply reveals the organism's true ecological niche preference: decomposing cellulose-rich plant matter.
+It is worth noting that Cellvibrio"s presence in the "core" microbiome does not imply it is an active mutualist during healthy growth phases. Rather, its consistent detection at low levels in pre-harvest samples may reflect baseline opportunistic colonization of minor root lesions or naturally senescing root cortical cells that occur even in healthy plants. The dramatic post-harvest enrichment simply reveals the organism's true ecological niche preference: decomposing cellulose-rich plant matter.
 
 ## Oxalobacteraceae
 

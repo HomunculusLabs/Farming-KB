@@ -24,7 +24,7 @@ which some part does not bend towards lateral light."
 
 Before Darwin, [[plant-sensory-perception]] rather than a thermal response.
 
-## Darwin's Classic Experiment
+## Darwin"s Classic Experiment
 
 Darwin and his son designed elegant experiments to determine which part of the
 plant perceives light for phototropism. They grew canary grass (Phalaris
@@ -46,7 +46,7 @@ bent normally because glass transmitted light to the tip.
 
 Published in 1880, this demonstrated that phototropism involves two separate
 processes: [[chamovitz-ultraviolet-and-infrared-plant-light-perception]] at the shoot tip and bending by the stem below.
-The tip acts as the plant's "eye," sensing light direction and transmitting a
+The tip acts as the plant"s "eye," sensing light direction and transmitting a
 signal to the elongation zone below.
 
 ## The Mechanism: Auxin Redistribution

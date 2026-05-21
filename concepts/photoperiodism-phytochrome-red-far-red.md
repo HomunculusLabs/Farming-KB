@@ -31,7 +31,7 @@ A crucial follow-up discovery came around World War II when scientists found the
 - A short-day plant (like soybean or chrysanthemum) kept in short days could be **prevented from flowering** by a few minutes of light in the middle of the night
 - A long-day plant (like iris or barley) kept in short days could be **forced to flower** by the same brief [[chrysanthemum-night-interruption-flowering-commercial-horticulture]]
 
-This proved that plants do not measure the length of the day — they measure the length of the **continuous dark period**. If the dark period is interrupted, the plant's [[chamovitz-circadian-rhythm-internal-clock-plants]] resets and it "forgets" how long it has been in darkness.
+This proved that plants do not measure the length of the day — they measure the length of the **continuous dark period**. If the dark period is interrupted, the plant"s [[chamovitz-circadian-rhythm-internal-clock-plants]] resets and it "forgets" how long it has been in darkness.
 
 ## The Red-Far-Red Switch
 
@@ -40,7 +40,7 @@ Scientists then asked: what color of light do plants use to measure the dark per
 In the early 1950s, Harry Borthwick and colleagues made an even more remarkable discovery: **far-red light could cancel the effect of red light**. Far-red light has wavelengths slightly longer than bright red and is barely visible at dusk. The experimental sequence:
 
 1. Shine red light on irises during the night → they flower (as if it were a short night)
-2. Shine far-red light immediately after the red → they don't flower (as if the red never happened)
+2. Shine far-red light immediately after the red → they don"t flower (as if the red never happened)
 3. Shine red light after the far-red → they flower again
 4. This on/off cycling could be repeated indefinitely
 
@@ -61,7 +61,7 @@ The phytochrome system makes elegant ecological sense:
 
 - **Sunlight** is rich in both red and far-red, maintaining a mixed phytochrome state during the day
 - **Sunset** enriches far-red light, converting phytochrome to the inactive Pr form
-- **During the night**, Pfr slowly reverts to Pr through a process called **dark reversion**; the rate of this reversion serves as the plant's internal hourglass for measuring night length
+- **During the night**, Pfr slowly reverts to Pr through a process called **dark reversion**; the rate of this reversion serves as the plant"s internal hourglass for measuring night length
 - **Dawn** delivers red light, rapidly converting Pr to Pfr and "resetting" the clock
 
 If the night is long enough, Pfr levels drop below a critical threshold, triggering flowering in short-day plants. If Pfr remains above threshold (short nights), long-day plants flower instead.

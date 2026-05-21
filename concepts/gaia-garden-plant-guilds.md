@@ -9,7 +9,7 @@ sources: [raw/papers/gaias-garden-toby-hemenway.md]
 
 # Plant Guilds — Designing Productive Plant Communities
 
-From Toby Hemenway's Gaia's Garden, guild design is the art of grouping plants so they support each other's growth, reduce maintenance, and create resilient ecosystems. A guild is a "mutually beneficial group of species."
+From Toby Hemenway"s Gaia's Garden, guild design is the art of grouping plants so they support each other's growth, reduce maintenance, and create resilient ecosystems. A guild is a "mutually beneficial group of species."
 
 ## What Is a Guild?
 
@@ -20,7 +20,7 @@ A guild is a designed plant community where each member:
 
 Guilds differ from simple companion planting by being complete, self-supporting systems with specific functional roles.
 
-## The Apple Guild — Hemenway's Master Example
+## The Apple Guild — Hemenway"s Master Example
 
 The classic apple-centered guild from Gaia's Garden:
 

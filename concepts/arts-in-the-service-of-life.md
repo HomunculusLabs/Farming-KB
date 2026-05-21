@@ -23,13 +23,13 @@ In traditional societies, art was not created for aesthetic pleasure alone. Its 
 
 "Decoration" was the trivial aspect of such art. The real power lay in its capacity to encode, preserve, and transmit information across generations without the need for written language.
 
-## The Degradation of Art's Function
+## The Degradation of Art"s Function
 
 Mollison critiques modern art's transformation:
 
 - **Individualistic and decorative**: Much modern art serves personal expression or aesthetic pleasure without educational or sacred function
 - **Plagiarised motifs**: Some "motif" art borrows from ancient origins but strips them of educational meaning
-- **Commodification**: Sacred objects melted to bullion or displayed as objets d'art represent a degradation of generations of human effort and knowledge
+- **Commodification**: Sacred objects melted to bullion or displayed as objets d"art represent a degradation of generations of human effort and knowledge
 - **Cultural genocide**: Sacred tribal art hidden in museum storerooms removes knowledge from its context, trivializing objects to decorations or loot
 
 He reserves particular criticism for his own "monoculture," which is based on:
@@ -42,7 +42,7 @@ The destruction of tribal art has served not just monetary gain but the replacem
 
 ## Applied Art: The Flowform Revolution
 
-A significant step toward restoring art's functional role is the **[[flowform]]** system, developed at the Virbella Institute, Emerson College, Kent, UK. Flowforms are sculptural water cascades modeled on older Roman water designs and naturally occurring stream basins carved into sandstone and mudstone.
+A significant step toward restoring art"s functional role is the **[[flowform]]** system, developed at the Virbella Institute, Emerson College, Kent, UK. Flowforms are sculptural water cascades modeled on older Roman water designs and naturally occurring stream basins carved into sandstone and mudstone.
 
 ### How Flowforms Work
 

@@ -8,7 +8,7 @@ type: entity
 
 ## Description
 
-Ivan Illich (1926–2002) was an Austrian philosopher, Roman Catholic priest, and social critic known for his radical critiques of modern institutions including education, medicine, work, and energy use. His ideas on industrialization, gender, and conviviality have influenced permaculture thinking, particularly David Holmgren's analysis of sustainability and energy descent.
+Ivan Illich (1926–2002) was an Austrian philosopher, Roman Catholic priest, and social critic known for his radical critiques of modern institutions including education, medicine, work, and energy use. His ideas on industrialization, gender, and conviviality have influenced permaculture thinking, particularly David Holmgren"s analysis of sustainability and energy descent.
 
 ## Classification
 

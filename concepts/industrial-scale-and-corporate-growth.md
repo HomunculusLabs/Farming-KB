@@ -46,7 +46,7 @@ History is littered with grand industrial visions that never materialised or fai
 
 These failures reveal a consistent pattern: techno-optimism systematically overestimates the benefits of scale and speed while underestimating costs, complexity, ecological limits, and unintended consequences. Each failed mega-project consumed resources that could have supported countless small-scale, decentralised solutions.
 
-## Small is Beautiful: Schumacher's Challenge
+## Small is Beautiful: Schumacher"s Challenge
 
 E.F. Schumacher's landmark work *Small is Beautiful* and his concept of **Intermediate Technology** offer a direct counterpoint to industrial gigantism. Intermediate Technology is characterised by:
 

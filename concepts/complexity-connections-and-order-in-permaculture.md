@@ -23,7 +23,7 @@ Waddington (1977) observed that complexity in a system rises roughly as the **sq
 
 ## Connections: Designing for Essentials, Trusting the Details
 
-Every element in a [[dodo]], Darwin's finches, and Galápagos tortoises all arose from this process
+Every element in a [[dodo]], Darwin"s finches, and Galápagos tortoises all arose from this process
 - Unique island species often perform **functions not easily found in continental ecologies** — a reminder that local adaptation generates irreplaceable complexity
 
 ## Quality of Complexity

@@ -25,7 +25,7 @@ type: concept
 
 ## Overview
 
-R. Stuart's 2002 paper "Ayahuasca Tourism: A Cautionary Tale," published in the *MAPS Bulletin*, documents the medical risks faced by tourists who participate in [[guzman-psilocybin-mushrooms-south-america]]. The paper focuses on the Amazonian cities of [[ayahuasca-pharmacology|ayahuasca pharmacology]] and the [[ayahuasca-botany-and-preparation]]
+R. Stuart"s 2002 paper "Ayahuasca Tourism: A Cautionary Tale," published in the *MAPS Bulletin*, documents the medical risks faced by tourists who participate in [[guzman-psilocybin-mushrooms-south-america]]. The paper focuses on the Amazonian cities of [[ayahuasca-pharmacology|ayahuasca pharmacology]] and the [[ayahuasca-botany-and-preparation]]
 - [[arbuscular-mycorrhizal-inoculum-production-best-practices]] with
 creative adaptation to local conditions and emerging challenges.
 

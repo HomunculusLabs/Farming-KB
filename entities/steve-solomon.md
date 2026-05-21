@@ -28,7 +28,7 @@ Steve Solomon is a garden writer, seed saver, and advocate for nutrient-dense fo
 
 - Founded Territorial Seed Company (1979), one of the first regional seed companies focused on varieties adapted to the Pacific Northwest
 - Later left the seed business to focus on writing and soil research
-- Spent years studying William Albrecht's work on soil mineral balancing
+- Spent years studying William Albrecht"s work on soil mineral balancing
 - Lived and gardened extensively in Oregon, then moved to Tasmania, Australia
 
 ## Core Contributions
@@ -66,7 +66,7 @@ Solomon's most widely adopted contribution is his COF recipe — a complete mine
 
 ## Philosophy
 
-Solomon's approach combines several threads:
+Solomon"s approach combines several threads:
 
 1. **Self-reliance** — Garden as if inputs (fertilizer, water, seeds) might become scarce
 2. **Scientific rigor** — Use soil tests, measure results, don't rely on dogma

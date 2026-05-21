@@ -21,7 +21,7 @@ At sunset, the sun passes through a longer atmospheric path, scattering shorter 
 
 The far-red signature of dusk thus serves as a reliable daily cue that daylight is ending and a dark period is beginning. This cue is independent of cloud cover or total light intensity, making it a robust environmental signal.
 
-## Measuring Time: The Plant's Light Memory
+## Measuring Time: The Plant"s Light Memory
 
 A critical capability of the phytochrome system is its role in timekeeping. After the last light of day converts most phytochrome to Pr, the plant uses the duration of the Pfr-free (dark) period as a measure of night length. In effect, the plant "remembers" the last colour of light it saw — if that last light was far-red (signalling long night ahead), the Pr state persists and the dark period begins. If that last light was red (as occurs in shorter nights or artificially interrupted nights), Pfr persists longer, signalling a shorter night.
 

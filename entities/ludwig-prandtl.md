@@ -13,7 +13,7 @@ categories:
   - aerodynamics
   - engineering
 tags: [profile]
-sources: ['raw/papers/laminar-flow-hood-construction-1.md']
+sources: ["raw/papers/laminar-flow-hood-construction-1.md']
 ---
 ## Ludwig Prandtl
 
@@ -44,7 +44,7 @@ arguably [[query-what-are-the-most-important-medicinal-mushrooms-and-how-do-i-ch
 He introduced the **boundary layer**: a thin region adjacent to a solid
 surface where viscous effects dominate, even when overall flow at high
 Reynolds number is inertia-dominated. Outside this layer, the flow obeys
-the inviscid Euler equations. This resolved **D'Alembert's paradox** (1752)
+the inviscid Euler equations. This resolved **D"Alembert's paradox** (1752)
 -- inviscid theory predicting zero drag -- by showing drag arises in the
 thin viscous boundary layer. He also introduced **flow separation**, where
 the boundary layer [[computational-fluid-dynamics]].
@@ -64,7 +64,7 @@ theory with careful experiment that became [[fungal-decomposition-and-the-global
 
 ### Lifting-Line Theory (1918)
 
-Prandtl's "Tragflugeltheorie" was the first successful [[clay-pellet-seed-ball-method-for-desert-revegetation]] predicting
+Prandtl"s "Tragflugeltheorie" was the first successful [[clay-pellet-seed-ball-method-for-desert-revegetation]] predicting
 lift and induced drag of finite wings. By modeling the wing as a bound
 vortex shedding trailing vortices from the wingtips, he derived the
 relationship between lift distribution, aspect ratio, and induced drag,

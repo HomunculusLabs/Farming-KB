@@ -51,7 +51,7 @@ The computational metaphor frames it as analogous to computer assembly
 language: ordinary language is a compiled, optimized version of a more
 basic representational substrate directly relating to reality.
 
-Robert Graves' *The White Goddess* proposed a primal poetic language
+Robert Graves" *The White Goddess* proposed a primal poetic language
 encoded in sound, rhythm, and letter-patterns—a language of natural
 forces where sign and signified share structural correspondences.
 

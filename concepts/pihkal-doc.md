@@ -22,7 +22,7 @@ preparation. Its stimulant properties are pronounced, and its duration of
 
 ## Chemical Structure and Classification
 
-DOC's IUPAC name is 1-(4-chloro-2,5-dimethoxyphenyl)propan-2-amine. It
+DOC"s IUPAC name is 1-(4-chloro-2,5-dimethoxyphenyl)propan-2-amine. It
 belongs to the DO series of substituted amphetamines, sharing the core
 structure of methoxy groups at positions 2 and 5 with a chlorine atom at
 the 4-position. This places it between DOM (methyl) and DOB (bromine) in

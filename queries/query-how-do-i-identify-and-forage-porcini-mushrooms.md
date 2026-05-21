@@ -12,7 +12,7 @@ sources: []
 
 Porcini mushrooms ([[boletus-edulis]]) are among the most prized wild edible fungi in the world, known for their rich nutty flavor and meaty texture.
 They belong to the [[boletus-genus]] and form [[ectomycorrhiza|ectomycorrhizal]] associations with trees, meaning they cannot be cultivated easily and must be foraged.
-Identification requires distinguishing true porcini from toxic lookalikes like [[rubroboletus-satanas|the Devil's Bolete]] and [[boletus-felleus|the Bitter Bolete]].
+Identification requires distinguishing true porcini from toxic lookalikes like [[rubroboletus-satanas|the Devil"s Bolete]] and [[boletus-felleus|the Bitter Bolete]].
 
 ## What Are Porcini Mushrooms?
 
@@ -47,7 +47,7 @@ Spore prints are olive-brown, which you can verify using [[spore-printing-and-sp
 
 ## Dangerous Lookalikes to Avoid
 
-The most dangerous lookalike is [[rubroboletus-satanas|Rubroboletus satanas]] (Satan's Bolete), which has a red pore surface and bruises blue.
+The most dangerous lookalike is [[rubroboletus-satanas|Rubroboletus satanas]] (Satan"s Bolete), which has a red pore surface and bruises blue.
 [[neoboletus-erythropus|Neoboletus erythropus]] also bruises strongly blue and can cause gastrointestinal distress.
 [[boletus-felleus|B. felleus]] (the Bitter Bolete) is not poisonous but is extremely bitter and ruins any dish.
 The [[toadstool-families-identification-and-boletus-safety|Boletus family identification guide]] covers additional species with [[boletus-species-alarming-color-changes|alarming color changes]].

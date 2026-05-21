@@ -32,7 +32,7 @@ Simard et al. (1997a, b, c) provided landmark field evidence of carbon transfer 
 
 ### Trenching Experiments
 
-Simard et al.'s (1997a) trenching experiments demonstrated the importance of intact [[mycorrhizal-networks]] for seedling establishment. Douglas fir seedlings planted into untrenched birch-dominated forest had approximately double the [[mycorrhizal-fungal-diversity]] compared to those in trenched plots. This increased diversity significantly enhanced photosynthetic capacity of the seedlings, though no significant biomass increase was observed.
+Simard et al."s (1997a) trenching experiments demonstrated the importance of intact [[mycorrhizal-networks]] for seedling establishment. Douglas fir seedlings planted into untrenched birch-dominated forest had approximately double the [[mycorrhizal-fungal-diversity]] compared to those in trenched plots. This increased diversity significantly enhanced photosynthetic capacity of the seedlings, though no significant biomass increase was observed.
 
 ### Nurse Tree Effect
 

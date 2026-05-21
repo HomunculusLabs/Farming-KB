@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-## Phototropism and Darwin's Plant Light Experiments
+## Phototropism and Darwin"s Plant Light Experiments
 
 ## Overview
 
@@ -39,7 +39,7 @@ and sending a signal downward, instructing the midsection to elongate differenti
 
 ## The Five Seedling Scenarios
 
-To rigorously test the hypothesis that the tip was the plant's "eye," the Darwins
+To rigorously test the hypothesis that the tip was the plant"s "eye," the Darwins
 designed a classic experiment with five different treatment groups:
 
 **Seedling A — Untreated control.** Left completely intact, this seedling bent toward
@@ -62,7 +62,7 @@ The five scenarios, published in 1880, painted an unambiguous picture. When the 
 could perceive light — through no obstruction (A), transparent glass (D), or only the
 midsection being blocked (E) — the plant bent. When the tip was removed (B) or blocked
 (C), the plant did not bend regardless of whether the bending machinery was intact.
-The conclusion was inescapable: the tip functions as the plant's "eye," detecting the
+The conclusion was inescapable: the tip functions as the plant"s "eye," detecting the
 direction of incoming light, while the midsection functions as the "muscle," executing
 
 ## Overview

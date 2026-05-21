@@ -24,7 +24,7 @@ This spatial pattern reflects a temporal succession as the tree and its associat
 - **Forest floor resource quality** (Dighton and Mason, 1985)
 - **Physiological function of the mycorrhizal fungi** (Last et al., 1987)
 
-The general pattern agrees with Read's (1991a) observation that mycorrhizal species with higher enzyme competence dominate in older forest stands where greater amounts of recalcitrant organic material accumulate.
+The general pattern agrees with Read"s (1991a) observation that mycorrhizal species with higher enzyme competence dominate in older forest stands where greater amounts of recalcitrant organic material accumulate.
 
 **Caveat**: There is ongoing debate about the reliability of using fruit body surveys as an index of mycorrhizal abundance and dominance compared to direct measures of mycorrhizal root tip abundance (Termorshuizen and Schaffers, 1989; Egli et al., 1993; Yamada and Katsuya, 2001).
 

@@ -16,7 +16,7 @@ The capacity of psilocybin to induce experiences indistinguishable from classica
 
 [[maps-multidisciplinary-association-for-psychedelic-studies]] for Psychedelic Studies (MAPS), conducted a follow-up study of nineteen of the twenty original subjects in the late 1980s, when many of the subjects were practising Reverends. Doblin administered the same questionnaire used in the original experiment.
 
-The findings were remarkable. After 25 years, there was still a significant difference between the two groups as to the reported effects of the experience. The psilocybin group's characterisation of their mystical experiences had actually strengthened (or matured). Whereas the control subjects who had received the placebo could barely remember the day in question, the psilocybin group still had clear memories of that eventful day.
+The findings were remarkable. After 25 years, there was still a significant difference between the two groups as to the reported effects of the experience. The psilocybin group"s characterisation of their mystical experiences had actually strengthened (or matured). Whereas the control subjects who had received the placebo could barely remember the day in question, the psilocybin group still had clear memories of that eventful day.
 
 Reverend K.B. remembered: "It left me with a completely unquestioned certainty that there is an environment bigger than I am conscious of. I have my own interpretation of what that is, but it went from a theoretical proposition to an experiential one."
 
@@ -30,7 +30,7 @@ The [[mystical-experience]] induced by psilocybin is characterised by several co
 
 2. **Sense of eternity and timelessness**: "I felt sort of drawn out into infinity... I felt that I was caught up in the vastness of creation... the main thing about it was a sense of timelessness."
 
-3. **Feeling of an intelligent presence**: Subjects consistently described encounters with an intelligence or presence, either "just felt" or "sensed" and sometimes actually "seen" with the mind's eye.
+3. **Feeling of an intelligent presence**: Subjects consistently described encounters with an intelligence or presence, either "just felt" or "sensed" and sometimes actually "seen" with the mind"s eye.
 
 4. **A sense of blending or unity**: The dissolution of boundaries between self and other, self and cosmos.
 
@@ -40,7 +40,7 @@ The [[mystical-experience]] induced by psilocybin is characterised by several co
 
 ## Lasting Personality Change
 
-The most significant finding from the follow-up study was the evidence of lasting personality change. The psilocybin experience was not a transient intoxication but a transformative psychological event that continued to influence the subjects' lives decades later. Key aspects of this lasting change included:
+The most significant finding from the follow-up study was the evidence of lasting personality change. The psilocybin experience was not a transient intoxication but a transformative psychological event that continued to influence the subjects" lives decades later. Key aspects of this lasting change included:
 
 - **Enduring spiritual conviction**: The shift from theoretical belief to experiential certainty about the existence of "an environment bigger than I am conscious of."
 - **Unfading memory**: Unlike ordinary experiences that fade with time, the psilocybin experience remained vividly imprinted upon memory, "like favourite movie clips."
@@ -51,7 +51,7 @@ The most significant finding from the follow-up study was the evidence of lastin
 
 The long-term follow-up also revealed the challenging side of mystical experiences. Eight of the ten psilocybin subjects reported some negative aspects in the way of "psychological struggles." One sees oneself clearly without the superficial trappings of a contrived image and personality. Psilocybin also seems to force one to confront bad habits and neuroses. Nothing remains hidden to the mushroom and this will often lead to a psychological "shake-up" to persons hitherto blind to self-knowledge.
 
-The tenet "know thyself" is bound up in some way with all spiritual disciplines, suggesting that one must come fully to terms with oneself before one can begin to inwardly develop one's state of consciousness. Psilocybin and other entheogens would seem to highlight this timeless truism to such an extent that further psychedelic experimentation will prove to be of negative value unless one has dealt adequately with one's state of self-knowledge.
+The tenet "know thyself" is bound up in some way with all spiritual disciplines, suggesting that one must come fully to terms with oneself before one can begin to inwardly develop one"s state of consciousness. Psilocybin and other entheogens would seem to highlight this timeless truism to such an extent that further psychedelic experimentation will prove to be of negative value unless one has dealt adequately with one's state of self-knowledge.
 
 ## Mystical Experience as Non-Denominational
 
@@ -61,7 +61,7 @@ Strassman concluded from his DMT research that "the commonality of experience de
 
 ## Mystical Experience and the Lens of Normal Consciousness
 
-The psilocybin experience reveals that normal consciousness is itself a particular state -- one lens among many possible configurations through which reality can be perceived. The mystical experience demonstrates that consciousness is positively mutable and reality is up for reinterpretation. The fact that a single chemical experience can permanently alter one's personality and worldview suggests that the "normal" personality is itself a contingent configuration of neuronal information -- one that can be fundamentally reorganised under the right conditions.
+The psilocybin experience reveals that normal consciousness is itself a particular state -- one lens among many possible configurations through which reality can be perceived. The mystical experience demonstrates that consciousness is positively mutable and reality is up for reinterpretation. The fact that a single chemical experience can permanently alter one"s personality and worldview suggests that the "normal" personality is itself a contingent configuration of neuronal information -- one that can be fundamentally reorganised under the right conditions.
 
 ## The Epistemological Value of Mystical Experience
 

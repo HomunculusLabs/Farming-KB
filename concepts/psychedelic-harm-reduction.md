@@ -29,7 +29,7 @@ Psychedelic harm reduction operates on the principle that people will use these 
 
 - Natural mushrooms can be confused with toxic lookalikes (see [[psilocybin-mushroom-identification]]).
 - Synthetic substances sold as psychedelics may be adulterated or misidentified.
-- Testing services such as **Erowid's DrugsData**, **DanceSafe**, **Energy Control**, and **MAPS** provide analytical testing of submitted samples.
+- Testing services such as **Erowid"s DrugsData**, **DanceSafe**, **Energy Control**, and **MAPS** provide analytical testing of submitted samples.
 
 ### Testing Methods
 
@@ -93,7 +93,7 @@ A trip sitter is a sober, trusted person who remains present throughout a psyche
 
 1. **Be sober**: No alcohol or other drugs. Full presence and judgment are essential.
 2. **Create a safe environment**: Remove hazards, ensure comfortable temperature, provide water and light food.
-3. **Stay calm**: The trip sitter's emotional state significantly influences the experience. Project calm confidence.
+3. **Stay calm**: The trip sitter"s emotional state significantly influences the experience. Project calm confidence.
 4. **Reassure without dismissing**: If the person is having a difficult experience, acknowledge their feelings while reassuring them that the experience is temporary and they are safe. "You are safe. This will pass. I am here with you."
 5. **Change the setting**: If the experience becomes difficult, changing the music, lighting, or moving to a different room can shift the trajectory.
 6. **Do not physically restrain** unless there is immediate physical danger.

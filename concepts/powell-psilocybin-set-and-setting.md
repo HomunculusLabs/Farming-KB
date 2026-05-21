@@ -16,7 +16,7 @@ a relaxed and supportive setting." He writes that "this important notion of [[le
 
 Leary and his co-workers had established these facts amongst themselves before official
 experimentation and were "at pains to point out how set and setting played a key role in whether
-the psilocybin experience proved well or ill." Powell asserts that had someone without Leary's
+the psilocybin experience proved well or ill." Powell asserts that had someone without Leary"s
 temperament and intimate knowledge of psilocybin organised the experiments, more negative
 experiences would have been reported.
 
@@ -38,7 +38,7 @@ This observation connects to his broader argument about naturalness. The actual 
 collection "leaves an indelible earthly mark upon the memory." The pill represents a
 "technological fix" that divorces the experience from its ecological context. Koestler, who
 received pills, perceived psilocybin as a technological product; had he picked [[emcdda-hallucinogenic-mushrooms-emerging-trend-europe]] should take as careful stock of his
-> mental and moral well-being as initiates took before attending the [[psilocybin-mushroom]]...then perhaps he would have embraced psilocybin's
+> mental and moral well-being as initiates took before attending the [[psilocybin-mushroom]]...then perhaps he would have embraced psilocybin"s
 cultural healing potential." This underscores that set is not merely important but potentially
 decisive.
 

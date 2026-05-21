@@ -30,7 +30,7 @@ Rotenone was widely used in both [[jadam-conventional-and-organic-pesticide-inte
 ## Health and Safety Concerns
 
 - **Human toxicity:** Moderate acute toxicity via ingestion and inhalation
-- **Parkinson's research:** Studies have linked rotenone exposure to Parkinson's-like symptoms in animal models due to mitochondrial disruption
+- **Parkinson"s research:** Studies have linked rotenone exposure to Parkinson's-like symptoms in animal models due to mitochondrial disruption
 - **Aquatic toxicity:** Extremely toxic to fish—historically used as a piscicide for lake management
 - **Regulatory status:** Voluntarily withdrawn from most residential and many agricultural uses in many countries; still permitted in some organic certifications with restrictions
 

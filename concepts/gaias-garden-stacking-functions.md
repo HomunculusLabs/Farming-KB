@@ -1,5 +1,5 @@
 ---
-title: Gaia's Garden williams-pdc-stacking-functions-and-system-integration and Redundancy
+title: Gaia"s Garden williams-pdc-stacking-functions-and-system-integration and Redundancy
 created: 2026-04-18
 updated: 2026-04-18
 type: concept

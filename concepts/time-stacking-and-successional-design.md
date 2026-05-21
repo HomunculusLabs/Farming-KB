@@ -41,7 +41,7 @@ Sequences are pushed into each other so there is never a bare or unproductive mo
 This contrasts with conventional agriculture, which clears land between crops and
 leaves soil exposed.
 
-### Fukuoka's Method
+### Fukuoka"s Method
 
 [[masanobu-fukuoka]]'s [[natural-farming]] exemplifies time stacking at its most refined:
 

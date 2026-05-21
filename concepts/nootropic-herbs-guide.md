@@ -13,7 +13,7 @@ sources: []
 
 Nootropics are substances that enhance cognitive function — memory, focus, creativity, motivation, and attention. While the term was coined in 1972 by Romanian chemist Corneliu Giurgea (referring to piracetam), many herbs have been used for thousands of years in traditional medicine systems for cognitive enhancement. These herbal nootropics generally work through gentler, multi-target mechanisms compared to synthetic nootropics.
 
-This guide covers five primary nootropic herbs: bacopa, lion's mane, gotu kola, ginkgo, and rosemary.
+This guide covers five primary nootropic herbs: bacopa, lion"s mane, gotu kola, ginkgo, and rosemary.
 
 ## Bacopa (Bacopa monnieri)
 
@@ -76,7 +76,7 @@ A medicinal mushroom with unique neuroregenerative properties. Covered in detail
 ## Gotu Kola (Centella asiatica)
 
 ### Overview
-Known as "the herb of longevity" in traditional Chinese and Ayurvedic medicine. A small herbaceous plant growing in tropical and subtropical wetlands across Asia, Africa, and the South Pacific. Sri Lankan legend attributes elephants' memory to gotu kola consumption.
+Known as "the herb of longevity" in traditional Chinese and Ayurvedic medicine. A small herbaceous plant growing in tropical and subtropical wetlands across Asia, Africa, and the South Pacific. Sri Lankan legend attributes elephants" memory to gotu kola consumption.
 
 ### Key Compounds
 - **Asiaticoside and madecassoside:** Triterpenoid saponins. Primary active compounds for cognitive and wound-healing effects.
@@ -142,7 +142,7 @@ One of the oldest living tree species — fossil records date back 270 million y
 ## Rosemary (Rosmarinus officinalis)
 
 ### Overview
-Mediterranean aromatic herb used since ancient times for memory enhancement. The Latin name translates roughly to "dew of the sea." Greek students wore rosemary garlands during exams. Shakespeare's Ophelia says, "There's rosemary, that's for remembrance." Modern research validates its cognitive-enhancing properties.
+Mediterranean aromatic herb used since ancient times for memory enhancement. The Latin name translates roughly to "dew of the sea." Greek students wore rosemary garlands during exams. Shakespeare"s Ophelia says, "There"s rosemary, that's for remembrance." Modern research validates its cognitive-enhancing properties.
 
 ### Key Compounds
 - **1,8-cineole (eucalyptol):** Monoterpene ketone. Primary compound responsible for cognitive effects. Crosses blood-brain barrier.

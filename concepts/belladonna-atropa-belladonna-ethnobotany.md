@@ -12,7 +12,7 @@ Belladonna (Atropa belladonna) is one of the most notorious plants in the Wester
 
 ## Botanical Profile
 
-Belladonna is a perennial herbaceous plant native to Europe and Asia Minor. There are four species of Atropa distributed in Europe and from central Asia to the Himalayas. The genus name Atropa derives from the Greek Atropos, one of the three Fates who cuts the thread of life — a reference to the plant's lethal properties.
+Belladonna is a perennial herbaceous plant native to Europe and Asia Minor. There are four species of Atropa distributed in Europe and from central Asia to the Himalayas. The genus name Atropa derives from the Greek Atropos, one of the three Fates who cuts the thread of life — a reference to the plant"s lethal properties.
 
 The plant produces attractive shiny black berries that are highly poisonous. These berries still frequently cause accidental poisoning, particularly among children attracted by their appearance. All parts of the plant contain active alkaloids, but the highest concentrations are found in the leaves and roots. Until the 19th century, commercial collection was primarily from wild sources, but since that time cultivation has been initiated in the [[mandrake-mandragora-officinarum-in-european-folklore]].
 

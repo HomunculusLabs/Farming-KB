@@ -18,7 +18,7 @@ sensory-emotional features of their birth experience, patterns to which Grof gav
 name [[richard-alpert]] and the Harvard research project adopted
 the term "psychedelic" and did one of their first research studies on the production
 of behavior change in convicts. They started publishing the Psychedelic Review.
-Leary's work focused on exploring the possibilities and values of the psychedelic
+Leary"s work focused on exploring the possibilities and values of the psychedelic
 experience for "normals" (mostly graduate students) as well as artists, musicians,
 poets and writers, when provided in a relatively unstructured but supportive,
 home-like seset-and-settingept of "[[lsd-set-and-setting-framework]] model represents a

@@ -9,7 +9,7 @@ sources:
 ---
 ## JADAM Local Material Resource Cycling
 
-JADAM's ultra-low-cost farming depends on using locally available, free or nearly free materials as inputs. The system eliminates dependence on purchased inputs by cycling nutrients on-farm through [[jadam-nutritional-balance-fertilizer]]. JADAM achieves this by using crop residues and wild grass -- materials with nearly identical [[jadam-nutritional-balance-philosophy]] the crop needs. JADAM does not view crop residues as a disease source but as a nutrient source. They are the perfect fertilizer -- returning to the soil what the crop extracted.
+JADAM"s ultra-low-cost farming depends on using locally available, free or nearly free materials as inputs. The system eliminates dependence on purchased inputs by cycling nutrients on-farm through [[jadam-nutritional-balance-fertilizer]]. JADAM achieves this by using crop residues and wild grass -- materials with nearly identical [[jadam-nutritional-balance-philosophy]] the crop needs. JADAM does not view crop residues as a disease source but as a nutrient source. They are the perfect fertilizer -- returning to the soil what the crop extracted.
 
 - Use as base fertilizer by leaving on the soil surface
 - Convert to [[jadam-anaerobic-fermentation-principles]] in water with leaf mold

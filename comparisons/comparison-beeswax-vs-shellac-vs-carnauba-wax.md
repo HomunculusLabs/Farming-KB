@@ -37,7 +37,7 @@ created: 2026-04-28
 ### Choose Beeswax When:
 - You need food-safe coating for cutting boards, utensils, or cheese
 - You want a simple, traditional, low-gloss finish
-- You're finishing carved or textured surfaces where film buildup is undesirable
+- You"re finishing carved or textured surfaces where film buildup is undesirable
 - You want a warm, natural feel that shows wood texture
 - Easy reapplication and spot-repair is important
 - You support local [[beekeeping-and-pollinator-conservation]] ecosystems

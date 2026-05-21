@@ -27,7 +27,7 @@ The tasty rice controversy had concrete effects on Japanese agricultural policy.
 
 ## The Processing Paradox
 
-Fukuoka identified a paradox at the heart of food processing: each step of processing intended to improve food quality typically moves it further from its natural state, reducing both nutritional value and the spiritual connection between eater and food. Milling removes the bran and germ from rice, the most nutritious parts. Polishing makes rice visually appealing but nutritionally impoverished. The dealer's mixing and grading creates the illusion of variety while homogenizing the actual product. Each processing step adds cost, reduces nutrition, and increases the distance between food production and food consumption. Fukuoka's alternative was to eat whole, unprocessed foods grown locally by methods that maintain ecological health.
+Fukuoka identified a paradox at the heart of food processing: each step of processing intended to improve food quality typically moves it further from its natural state, reducing both nutritional value and the spiritual connection between eater and food. Milling removes the bran and germ from rice, the most nutritious parts. Polishing makes rice visually appealing but nutritionally impoverished. The dealer"s mixing and grading creates the illusion of variety while homogenizing the actual product. Each processing step adds cost, reduces nutrition, and increases the distance between food production and food consumption. Fukuoka's alternative was to eat whole, unprocessed foods grown locally by methods that maintain ecological health.
 
 ## Comparison with Natural Wine and Slow Food Movements
 

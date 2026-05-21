@@ -1,11 +1,11 @@
 ---
-title: 'Glechoma hederacea'
+title: "Glechoma hederacea'
 type: species
 tags: [herbal-plant, medicinal, perennial, lamiaceae, edible, permaculture]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "Sárosi S et al., 'Essential oil composition of Glechoma hederacea from different origins,' J Essent Oil Res, 2009"
+  - "Sárosi S et al., "Essential oil composition of Glechoma hederacea from different origins,' J Essent Oil Res, 2009"
 ---
 
 ## Overview

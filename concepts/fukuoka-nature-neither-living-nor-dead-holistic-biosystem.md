@@ -20,7 +20,7 @@ because what he is examining is no longer nature at all.
 
 ## Key Concepts
 
-Fukuoka's statement that "properly speaking, nature is neither living nor dead" is one of the
+Fukuoka"s statement that "properly speaking, nature is neither living nor dead" is one of the
 most radical and consequential claims in his entire philosophy of [[holmgren-permaculture-flower-conceptual-framework]] through which [[cervantes-tissue-culture-micropropagation]] in a petri dish, believes he is studying nature. But what he
 is actually studying is a dead fragment of nature, stripped of the relationships and context
 that gave it life and meaning. The conclusions he draws from this study may be internally
@@ -28,7 +28,7 @@ consistent and technically precise, but they do not describe nature. They descri
 that exists only in the artificial conditions of the laboratory.
 
 "Man commits a grave error when he collects data and findings piecemeal on a dead and
-fragmented nature and claims to 'know,' 'use,' or 'conquer' nature." The verbs Fukuoka
+fragmented nature and claims to "know,' 'use,' or 'conquer' nature." The verbs Fukuoka
 chooses — "know," "use," "conquer" — reveal the attitude he is critiquing. Science does not
 approach nature with humility or curiosity; it approaches nature as a resource to be exploited
 and a territory to be dominated. The data collected on fragmented nature becomes the basis for

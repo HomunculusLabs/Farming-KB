@@ -10,7 +10,7 @@ tags: [people, economics, permaculture, interest-free, ecological-economy, refor
 ## Description
 
 Margrit Kennedy was a German economist and author whose work on interest-free financial
-systems and ecological economics is cited by [[bill-mollison]] in *Permaculture: A Designer's
+systems and ecological economics is cited by [[bill-mollison]] in *Permaculture: A Designer"s
 Manual*. Her 1987 manuscript *Toward an Ecological Economy: Money, Land and Tax Reforms*
 argued that an interest-free financial system is the sole sustainable medium for exchange,
 and that such a "no growth" fiscal system would encourage and preserve all natural resources.
@@ -47,7 +47,7 @@ Kennedy was convinced that:
 
 ### Hidden Interest Costs
 
-Kennedy's analysis revealed that interest costs are embedded in all goods and services:
+Kennedy"s analysis revealed that interest costs are embedded in all goods and services:
 
 - **Garbage collection:** ~12% of charges are hidden interest costs
 - **Drinking water:** ~38% of charges are hidden interest costs
@@ -85,7 +85,7 @@ structural mechanism where:
 
 ## The Austrian Town Precedent
 
-Kennedy's work references successful experiments by small Austrian towns during the 1930s
+Kennedy"s work references successful experiments by small Austrian towns during the 1930s
 depression. These towns implemented local interest-free currency systems that:
 
 - Stabilized local economies during the Great Depression

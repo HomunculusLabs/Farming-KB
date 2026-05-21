@@ -44,7 +44,7 @@ Mushroom mycelium requires oxygen for respiration and produces carbon dioxide as
 
 ## Inoculation Through the Filter
 
-One of the filter can's key advantages is enabling inoculation without exposing the substrate to open air. In Jarrold's long needle method, the filter can lid is lifted, a flame-sterilized needle is passed all the way through the can and into the substrate, 10cc of spore solution is injected, and the lid is closed. This technique minimizes contamination risk by keeping the inoculation path protected.
+One of the filter can"s key advantages is enabling inoculation without exposing the substrate to open air. In Jarrold's long needle method, the filter can lid is lifted, a flame-sterilized needle is passed all the way through the can and into the substrate, 10cc of spore solution is injected, and the lid is closed. This technique minimizes contamination risk by keeping the inoculation path protected.
 
 ## Comparison with Commercial Filter Patches
 
@@ -75,7 +75,7 @@ The filter can exemplifies the resourceful DIY approach that characterizes amate
 - Rock wool - alternative filter medium
 ## Reusability
 
-Unlike disposable filter patches on commercial bags, the metal filter can is fully reusable across multiple cultivation cycles. After a grow is complete, the can can be emptied, cleaned, and refilled with fresh vermiculite and rock wool for the next batch. This reusability further reduces the per-cycle cost of cultivation and aligns with Jarrold's philosophy of minimizing expenses. The metal construction ensures durability over many uses.
+Unlike disposable filter patches on commercial bags, the metal filter can is fully reusable across multiple cultivation cycles. After a grow is complete, the can can be emptied, cleaned, and refilled with fresh vermiculite and rock wool for the next batch. This reusability further reduces the per-cycle cost of cultivation and aligns with Jarrold"s philosophy of minimizing expenses. The metal construction ensures durability over many uses.
 
 ## Alternative Fill Materials
 

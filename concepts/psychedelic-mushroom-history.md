@@ -26,7 +26,7 @@ Archaeological evidence suggests that psilocybin mushrooms have been used ceremo
 
 ### The "Divine Mushroom" — Teonanacatl
 
-Indigenous Mesoamerican cultures referred to psilocybin mushrooms as **teonanacatl** (Nahuatl: "flesh of the gods" or "god's flesh"), a term that reflects their sacred status. These mushrooms were not used recreationally but as sacramental tools for:
+Indigenous Mesoamerican cultures referred to psilocybin mushrooms as **teonanacatl** (Nahuatl: "flesh of the gods" or "god"s flesh"), a term that reflects their sacred status. These mushrooms were not used recreationally but as sacramental tools for:
 
 - Divination and prophecy
 - Healing ceremonies
@@ -58,11 +58,11 @@ Wasson published his account in the May 13, 1957 issue of **LIFE magazine** — 
 
 ### Maria Sabina
 
-Maria Sabina became internationally famous following Wasson's publication, which ultimately proved devastating to her community. The influx of Western seekers disrupted Huautla, and Sabina eventually expressed regret about the exposure: "From the moment the foreigners arrived, the 'holy children' lost their purity. They lost their force; they ruined them."
+Maria Sabina became internationally famous following Wasson"s publication, which ultimately proved devastating to her community. The influx of Western seekers disrupted Huautla, and Sabina eventually expressed regret about the exposure: "From the moment the foreigners arrived, the "holy children' lost their purity. They lost their force; they ruined them."
 
 ### Identification and Isolation (1957-1958)
 
-Following Wasson's report, Roger Heim (French mycologist) identified the mushrooms and sent specimens to Albert Hofmann at Sandoz Laboratories in Switzerland. Hofmann, already famous for synthesizing LSD in 1938, successfully isolated and identified **psilocybin** and **psilocin** in 1958, synthesizing both compounds in the laboratory.
+Following Wasson"s report, Roger Heim (French mycologist) identified the mushrooms and sent specimens to Albert Hofmann at Sandoz Laboratories in Switzerland. Hofmann, already famous for synthesizing LSD in 1938, successfully isolated and identified **psilocybin** and **psilocin** in 1958, synthesizing both compounds in the laboratory.
 
 ## The Harvard Psilocybin Project (1960-1962)
 
@@ -126,7 +126,7 @@ Beginning in the late 2010s, a movement to decriminalize or legalize psilocybin 
 Psilocybin mushrooms have experienced a dramatic cultural rehabilitation:
 
 - Mainstream media coverage of clinical research findings
-- Bestselling books (Michael Pollan's "How to Change Your Mind," 2018)
+- Bestselling books (Michael Pollan"s "How to Change Your Mind," 2018)
 - Documentary films and television series
 - Growing interest in microdosing and psychedelic wellness
 - Venture capital investment in psychedelic therapy companies

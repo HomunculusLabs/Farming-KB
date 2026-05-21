@@ -45,7 +45,7 @@ which triggered a "rather incredible change of state." The most
 memorable event was awareness of a clarinet playing somewhere,
 with the sounds actually coming along the carpet, out of the
 dining room, through the hallway and door, gathering at the
-subject's feet "like docile kittens waiting for me to
+subject"s feet "like docile kittens waiting for me to
 acknowledge them." Additional sounds followed the same path for
 what seemed like hours, accumulating as a "marvelous collection
 of notes and phrases." Speech sounded normal to the subject but

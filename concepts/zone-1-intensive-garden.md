@@ -8,7 +8,7 @@ sources: ["raw/papers/bill-mollison-permaculture-a-designers-manual.md"]
 ---
 ## Zone 1 Intensive Garden
 
-Zone 1 is the most intensively managed area in a [[comparison-pruning-fruit-trees-vs-grafting-fruit-trees]], a patio, and other daily-use elements. This is where the gardener's energy and attention are concentrated for maximum return.
+Zone 1 is the most intensively managed area in a [[comparison-pruning-fruit-trees-vs-grafting-fruit-trees]], a patio, and other daily-use elements. This is where the gardener"s energy and attention are concentrated for maximum return.
 
 ## The Zone System
 

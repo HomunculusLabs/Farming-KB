@@ -17,7 +17,7 @@ constitutes a legitimate form of plant "vision" — not image-forming sight as
 in animals, but a sophisticated ability to detect light direction, color,
 intensity, and duration that enables adaptive behavioral responses.
 
-## Darwin's Pioneering Experiments
+## Darwin"s Pioneering Experiments
 
 Charles Darwin and his son Francis conducted the definitive experiments on
 phototropism in 1880, published in "The [[plant-circadian-rhythms]], and flowering time.

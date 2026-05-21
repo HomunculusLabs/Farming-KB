@@ -41,7 +41,7 @@ TIHKAL entry #38. An extremely potent, fast-acting tryptamine psychedelic. Found
 - **15 mg, smoked**: "At about 60 seconds... I beheld every thought going on everywhere in the universe and all possible realities while I was wracked out with this horrible ruthless love. A definite ++++."
 - **20 mg, smoked**: "A twenty minute experience. The entire universe imploded through my consciousness... This was simply the most intense experience possible; a singularity, a white-out."
 - **25 mg, smoked**: "The entire universe imploded through my consciousness. I felt that my mind was perceiving all objects, situations and feelings at once. There was no distance, no possibility of examining the experience."
-- **30 mg, smoked**: "An instant later, I was crawled up on my bed (in the fetal position) with my eyes closed, squirming around, screaming (in my head) 'Fuck! You killed yourself!' I repeated this several times, very fearful of death."
+- **30 mg, smoked**: "An instant later, I was crawled up on my bed (in the fetal position) with my eyes closed, squirming around, screaming (in my head) "Fuck! You killed yourself!' I repeated this several times, very fearful of death."
 - **35 mg, orally**: "No activity."
 
 ### Intravenous Experiences
@@ -49,9 +49,9 @@ TIHKAL entry #38. An extremely potent, fast-acting tryptamine psychedelic. Found
 - **0.25 mg, i.v.**: "A real effect."
 - **0.5 mg, i.v.**: "I felt the effects distinctly within a minute... In a few minutes I felt a very distinct calming and stilling of my mind."
 - **0.7 mg, i.v.**: "This was basically a +1 experience. After a few instances I felt its motion, very gentle waves."
-- **1.3 mg, i.v.**: "Full body, teeth-chattering shivers that lasted about 10 minutes. The sensations seemed to come more from my head region, whereas my 'full blown' experiences of smoked 5-MeO-DMT seemed to emanate from my center and heart."
+- **1.3 mg, i.v.**: "Full body, teeth-chattering shivers that lasted about 10 minutes. The sensations seemed to come more from my head region, whereas my "full blown' experiences of smoked 5-MeO-DMT seemed to emanate from my center and heart."
 - **2.3 mg, i.v.**: "I remember having a perspective of knowing I was aware and, if not from the start then very soon into it, knowing I knew I was aware. I thought I was an ocean."
-- **3.1 mg, i.v.**: "I was getting in touch with my body. I said, 'Turn off the lights,' and 'I love you,' and then I lost it."
+- **3.1 mg, i.v.**: "I was getting in touch with my body. I said, "Turn off the lights,' and 'I love you,' and then I lost it."
 
 ### Overdose Report
 

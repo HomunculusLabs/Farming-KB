@@ -6,7 +6,7 @@ type: concept
 
 ## Community Finance and Commonwork
 
-Community finance and [[commonwork]] represent core [[permaculture-principles]] for organizing human economies at the local and bioregional scale. Drawing on [[bill-mollison]]'s analysis in *[[permaculture]]: A Designers' Manual*, these concepts address how small communities can create resilient, equitable financial systems and diverse, fulfilling livelihood structures that align with permaculture's three ethics: earth care, people care, and fair share.
+Community finance and [[commonwork]] represent core [[permaculture-principles]] for organizing human economies at the local and bioregional scale. Drawing on [[bill-mollison]]"s analysis in *[[permaculture]]: A Designers' Manual*, these concepts address how small communities can create resilient, equitable financial systems and diverse, fulfilling livelihood structures that align with permaculture's three ethics: earth care, people care, and fair share.
 
 ## The Ethics of Money
 

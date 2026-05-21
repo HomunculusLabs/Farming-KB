@@ -20,7 +20,7 @@ computational biology. (see [[mycelial-growth-modeling-heterogeneous-environment
    rate influenced by internal [[lowenfels-mycorrhizal-network-nutrient-sharing]] and network formation.
 
 ### Environmental Interactions
-The model accounts for the fungus's impact on its environment:
+The model accounts for the fungus"s impact on its environment:
 - **Acidification**: [[gadd-spitzenkorper-vesicle-supply-centre-hyphal-tip-growth-direction]].
 
 ## Tessellated Agar Droplet Experiments

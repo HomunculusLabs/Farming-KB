@@ -6,7 +6,7 @@ type: concept
 
 ## Natural Farming: Water-Soluble Minerals, Seawater, and Brown Rice Vinegar
 
-This concept covers Dr. Cho's water-soluble mineral inputs (WS-K, WS-P, WS-Ca, WS-CaPo), seawater and [[cho-seawater-and-fermented-seawater]], brown rice vinegar (BRV), yeast, and [[loess]] powder. These inputs provide essential mineral nutrition and [[cervantes-damping-off-seedling-disease-prevention]] without [[cannabis-chemical-fertilizers]].
+This concept covers Dr. Cho"s water-soluble mineral inputs (WS-K, WS-P, WS-Ca, WS-CaPo), seawater and [[cho-seawater-and-fermented-seawater]], brown rice vinegar (BRV), yeast, and [[loess]] powder. These inputs provide essential mineral nutrition and [[cervantes-damping-off-seedling-disease-prevention]] without [[cannabis-chemical-fertilizers]].
 
 ## Water-Soluble Calcium Phosphate (WS-CaPo)
 
@@ -118,7 +118,7 @@ Extracted from animal bones using brown rice vinegar, similar principle to WS-Ca
 | (Additional inputs per recipe) | variable |
 
 ### Key Principle
-"[[natural-farming]] uses a seed/[[cho-seed-seedling-solution-treatment]] (SES) with a brief treatment period to restore the seed's natural vitality." Conventional long soaking causes nutrient loss.
+"[[natural-farming]] uses a seed/[[cho-seed-seedling-solution-treatment]] (SES) with a brief treatment period to restore the seed"s natural vitality." Conventional long soaking causes nutrient loss.
 
 ## Fermented Mixed Compost (FMC)
 

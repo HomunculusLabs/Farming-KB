@@ -39,7 +39,7 @@ The Grow Biointensive method has been adopted in over 150 countries through:
 - **Ecology Action workshops**: Training programs at the Willits research site and at affiliated locations worldwide.
 - **Partner organizations**: A network of organizations teaching biointensive methods across Africa, Latin America, Asia, and Europe.
 - **UN recognition**: The method has been endorsed by the United Nations as a sustainable approach to food security.
-- **University partnerships**: Research collaborations with agricultural institutions studying the method's productivity and sustainability.
+- **University partnerships**: Research collaborations with agricultural institutions studying the method"s productivity and sustainability.
 
 The method is particularly significant in contexts where land is scarce, water is limited, or purchased inputs are unaffordable, making it a powerful tool for food security and community self-sufficiency.
 

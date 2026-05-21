@@ -28,7 +28,7 @@ It is assigned to the monotypic section *Regiae* within subgenus *Drosera*, refl
 
 ### Etymology
 
-The specific epithet *regia* means "royal" in Latin, referencing both the species' imposing stature and its status as one of the most morphologically distinctive sundews.
+The specific epithet *regia* means "royal" in Latin, referencing both the species" imposing stature and its status as one of the most morphologically distinctive sundews.
 
 The common name "king sundew" reinforces this association with regality and physical dominance within the genus.
 

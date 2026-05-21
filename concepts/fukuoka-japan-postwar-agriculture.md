@@ -7,7 +7,7 @@ tags: [fukuoka, natural-farming, philosophy]
 sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
-## Fukuoka on Japan's Postwar Agricultural Transformation
+## Fukuoka on Japan"s Postwar Agricultural Transformation
 
 ## Overview
 

@@ -33,7 +33,7 @@ eternal in spirit.
 ## Materials Required
 
 - Cannabis, either in a glass pipe or rolled in paper (joint)
-- A small stick or the practitioner's finger for drawing
+- A small stick or the practitioner"s finger for drawing
 - A brush for clearing the pentagram at the ritual's conclusion
 
 ## Preparing the Sacred Space

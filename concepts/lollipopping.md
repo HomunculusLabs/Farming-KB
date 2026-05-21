@@ -11,7 +11,7 @@ tags: [reference]
 
 ## Lollipopping
 
-Lollipopping is a defoliation and pruning technique performed just before or during the early weeks of flowering. The lower portion of the plant's branches is stripped of fan leaves and small bud sites, leaving the upper canopy full of foliage and bud development while the lower stems are bare like a lollipop stick. The technique redirects the plant's energy toward top colas that receive the most light, and eliminates the low-quality "popcorn" buds that form in shaded lower areas.
+Lollipopping is a defoliation and pruning technique performed just before or during the early weeks of flowering. The lower portion of the plant"s branches is stripped of fan leaves and small bud sites, leaving the upper canopy full of foliage and bud development while the lower stems are bare like a lollipop stick. The technique redirects the plant's energy toward top colas that receive the most light, and eliminates the low-quality "popcorn" buds that form in shaded lower areas.
 
 ## Core Concept
 
@@ -33,7 +33,7 @@ The technique is straightforward but requires careful judgment:
 
 ## Timing
 
-The optimal timing for lollipopping depends on the grower's approach:
+The optimal timing for lollipopping depends on the grower"s approach:
 
 - Pre-flower lollipopping (1-2 weeks before 12/12): allows the plant to recover before flowering begins, with minimal impact on bud production
 - Early flowering lollipopping (weeks 1-2 of flower): removes lower growth before it develops into popcorn buds, but causes some stress during the critical flowering transition

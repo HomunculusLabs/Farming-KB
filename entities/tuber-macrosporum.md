@@ -14,7 +14,7 @@ sources:
   - Mello, A. et al. (2005). "Molecular Analysis of european-truffles, often compared favorably to the more famous ectomycorrhizal-associations with broadleaf trees. Primary hosts include willow (*Salix* spp.), poplar (*Populus* spp.), oak (*Quercus* spp.), and hazel (*fungal-volatile-organic-compounds-communication compounds responsible for its aroma. Major volatiles include dimethyl sulfide, 2-methylbutanal, and phenylacetaldehyde.
 ---
 
-The aroma profile is notably dominated by sulfur-containing compounds, which contribute to the species' reputation as one of the most powerfully scented truffles. These compounds are similar to but more concentrated than those found in T. melanosporum.
+The aroma profile is notably dominated by sulfur-containing compounds, which contribute to the species" reputation as one of the most powerfully scented truffles. These compounds are similar to but more concentrated than those found in T. melanosporum.
 
 The species also contains ergosterol and fatty acids typical of ascomycete fungi, including linoleic acid and oleic acid as primary lipid components.
 

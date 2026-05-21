@@ -1,6 +1,6 @@
 ---
 title: query-what-is-syntropic-agriculture-and-how-do-i-start — Design, Principles, and Practice
-subtitle: A comprehensive guide to Ernst Götsch's system of successional agroforestry and ecosystem mimicry
+subtitle: A comprehensive guide to Ernst Götsch"s system of successional agroforestry and ecosystem mimicry
 tags:
   - syntropic-agriculture
   - agroforestry
@@ -25,7 +25,7 @@ To understand syntropic agriculture, one must first grasp its underlying holmgre
 
 Götsch observed that mature tropical forests are the most syntropic systems on Earth. A primary forest in the Atlantic Forest biome of Brazil can accumulate enormous quantities of biomass, build meters of topsoil over centuries, regulate its own microclimate, and maintain extraordinary biodiversity — all while appearing to require no external inputs. His central insight was that agriculture could be designed to participate in this process rather than interrupt it. Rather than clearing forest to plant annual crops (an entropic act), the farmer could orchestrate succession so that food production and ecosystem building are the same process.
 
-This is not mere theory. At his farm, Fazenda Olhos D'Água, in the arid interior of Bahia, Götsch transformed degraded, eroded pastureland into a productive, forested landscape with abundant water springs — in a region receiving as little as 800mm of annual rainfall. The system achieved this not through irrigation or external inputs, but by facilitating the natural tendency of ecosystems to self-organize when given the right starting conditions.
+This is not mere theory. At his farm, Fazenda Olhos D"Água, in the arid interior of Bahia, Götsch transformed degraded, eroded pastureland into a productive, forested landscape with abundant water springs — in a region receiving as little as 800mm of annual rainfall. The system achieved this not through irrigation or external inputs, but by facilitating the natural tendency of ecosystems to self-organize when given the right starting conditions.
 
 ## Core Principles
 

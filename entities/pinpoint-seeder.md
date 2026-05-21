@@ -43,7 +43,7 @@ The 2½-inch row spacing may seem extremely close compared to field standards, b
 
 ## Seed Types and Applications
 
-The pinpoint seeder handles seeds for the full range of Coleman's greenhouse crops:
+The pinpoint seeder handles seeds for the full range of Coleman"s greenhouse crops:
 
 - **Baby leaf salads** — 12 rows per bed at 2½-inch spacing
 - **Radishes** — 12 rows per bed
@@ -73,7 +73,7 @@ The complete preparation sequence before using the pinpoint seeder:
 
 ## Historical Development
 
-Coleman's progression in precision seeding tools:
+Coleman"s progression in precision seeding tools:
 
 1. **Early stage**: Homemade model — five EarthWay seeders bolted side by side, planting 5 rows at 4-inch spacing
    - Described in *The New Organic Grower* (p. 73)

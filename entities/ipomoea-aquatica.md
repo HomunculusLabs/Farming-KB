@@ -9,7 +9,7 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Holm LG, Plucknett DL, Pancho JV, Herberger JP (1977). "The World's Worst Weeds." University Press of Hawaii.
+  - Holm LG, Plucknett DL, Pancho JV, Herberger JP (1977). "The World"s Worst Weeds." University Press of Hawaii.
 ---
 
 ## Overview

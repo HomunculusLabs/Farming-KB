@@ -8,7 +8,7 @@ type: entity
 
 ## Description
 
-Ilya Romanovich Prigogine (1917–2003) was a Russian-Belgian physical chemist awarded the 1977 Nobel Prize in Chemistry for his theory of dissipative structures — the thermodynamic explanation for how open systems far from equilibrium spontaneously generate order and complexity. Mollison cites the Newsweek report (October 24, 1977) on Prigogine's Nobel Prize, using his insight that biological systems "tend to become increasingly complex and efficient" in seeming violation of the Second Law of Thermodynamics as a scientific foundation for permaculture's optimistic design philosophy.
+Ilya Romanovich Prigogine (1917–2003) was a Russian-Belgian physical chemist awarded the 1977 Nobel Prize in Chemistry for his theory of dissipative structures — the thermodynamic explanation for how open systems far from equilibrium spontaneously generate order and complexity. Mollison cites the Newsweek report (October 24, 1977) on Prigogine"s Nobel Prize, using his insight that biological systems "tend to become increasingly complex and efficient" in seeming violation of the Second Law of Thermodynamics as a scientific foundation for permaculture"s optimistic design philosophy.
 
 ## Classification
 

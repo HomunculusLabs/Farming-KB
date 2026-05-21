@@ -12,7 +12,7 @@ sources:
 
 ## Overview
 
-JADAM's approach to livestock and manure management has two distinct aspects: (1) an innovative **no-feces-removing** [[fukuoka-critique-modern-livestock]] farming
+JADAM"s approach to livestock and manure management has two distinct aspects: (1) an innovative **no-feces-removing** [[fukuoka-critique-modern-livestock]] farming
 - Almost free of smell
 - No daily manure removal needed (once per year)
 - Feed conversion ratio improves
@@ -32,7 +32,7 @@ JADAM extends its "I and others are one" philosophy to livestock:
 - Chickens too shall be allowed a life that tends to their nature
 - Organic livestock farming respects the nature of each animal
 
-## JADAM's Critical Position on Livestock Manure as Fertilizer
+## JADAM"s Critical Position on Livestock Manure as Fertilizer
 
 ### The Antibiotic Problem
 - Commercial livestock operations routinely use antibiotics

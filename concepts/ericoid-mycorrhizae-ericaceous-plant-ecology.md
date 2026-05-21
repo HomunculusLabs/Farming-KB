@@ -100,7 +100,7 @@ A rich methodological literature supports ericoid mycorrhizal research:
 
 ### Mycorrhizal Fungi in Terrestrial Habitats
 
-The broader context of mycorrhizal fungi in terrestrial habitats has been reviewed (Leake and Read, 1997), and the role of mycorrhizae in ecosystems has been framed as nature's response to the "Law of the Minimum" (Read, 1991b).
+The broader context of mycorrhizal fungi in terrestrial habitats has been reviewed (Leake and Read, 1997), and the role of mycorrhizae in ecosystems has been framed as nature"s response to the "Law of the Minimum" (Read, 1991b).
 
 ## Climate and Environmental Interactions
 

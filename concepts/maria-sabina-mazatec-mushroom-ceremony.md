@@ -24,7 +24,7 @@ Maria Sabina was a Mazatec Indian born in [[huautla-de-jimenez]], Oaxaca, on Mar
 
 ### Early Life and Calling
 
-Sabina first ate the sacred mushrooms intentionally as a child of about six or seven, tending her family's goats on the mountainside. She described being propelled into a world of temples and golden palaces, where the mushrooms appeared as "clownlike dwarfs with trumpets, children that sang and danced, children of the flesh of flowers." The mushroom spirits spoke to her and answered her questions.
+Sabina first ate the sacred mushrooms intentionally as a child of about six or seven, tending her family"s goats on the mountainside. She described being propelled into a world of temples and golden palaces, where the mushrooms appeared as "clownlike dwarfs with trumpets, children that sang and danced, children of the flesh of flowers." The mushroom spirits spoke to her and answered her questions.
 
 She conducted her first healing ceremony when she was approximately eight years old. Her true calling was confirmed when her sister Ana Maria became seriously ill. Sabina ate more mushrooms than ever before and experienced a vision in which a mushroom spirit appeared and asked, "But what do you wish to become, you, Maria Sabina?" She answered "a saint" -- and upon returning to ordinary consciousness, she found in her mind the knowledge of the cure. Ana Maria recovered.
 
@@ -36,9 +36,9 @@ The velada is the Mazatec all-night mushroom ceremony. It is not a religious ser
 
 ### Structure and Purpose
 
-- Veladas were performed for the serious and pragmatic purpose of healing, not for worship or mystical indulgence. As Sabina stated: "the vigils weren't for a simple desire to find God, but were done with the sole purpose of curing the sicknesses that our people suffer from."
-- The Mazatec believed illness was caused by the loss of one's soul, a sudden fright, or through magical interference by malevolent spirits and human sorcerers.
-- When Sabina consumed mushrooms, the "saint children" (mushroom spirits) would appear and show her the cause of the illness -- where and why the person's soul had been lost. She would then heal the patient through chanting.
+- Veladas were performed for the serious and pragmatic purpose of healing, not for worship or mystical indulgence. As Sabina stated: "the vigils weren"t for a simple desire to find God, but were done with the sole purpose of curing the sicknesses that our people suffer from."
+- The Mazatec believed illness was caused by the loss of one"s soul, a sudden fright, or through magical interference by malevolent spirits and human sorcerers.
+- When Sabina consumed mushrooms, the "saint children" (mushroom spirits) would appear and show her the cause of the illness -- where and why the person"s soul had been lost. She would then heal the patient through chanting.
 - "Language makes the dying return to life," Sabina said. "They recover their health when they hear the words taught by the saint children. There is no mortal who can teach this Language."
 - The mushroom spirits might also tell her that the patient was beyond help and would inevitably die.
 
@@ -46,7 +46,7 @@ The velada is the Mazatec all-night mushroom ceremony. It is not a religious ser
 
 The velada blends Catholic and indigenous elements: Christian saints and Mazatec spirits coexist within the ceremony. Curanderos and their communities were practicing Catholics who attended Mass for spiritual matters; the mushrooms were used specifically for healing.
 
-## Wasson's 1955 Visit
+## Wasson"s 1955 Visit
 
 [[gordon-wasson]] arrived in Huautla in June 1955 on his third trip to Mexico, accompanied by photographer Allan Richardson. Through a town official named Garcia, they arranged a meeting with Sabina. Garcia's son was used as the pretext for a consultation.
 

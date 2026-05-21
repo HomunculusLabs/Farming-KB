@@ -18,7 +18,7 @@ The species is strongly associated with shallow freshwater systems including lak
 
 It thrives in water depths from 0.5 to 2 meters, though it can tolerate deeper water when established on floating mats.
 
-Papyrus swamps once covered vast areas of the Nile Valley and the Sudd region of South Sudan, forming one of the world's largest wetland ecosystems.
+Papyrus swamps once covered vast areas of the Nile Valley and the Sudd region of South Sudan, forming one of the world"s largest wetland ecosystems.
 
 The plant is tolerant of a wide range of soil types but prefers nutrient-rich, muddy substrates in tropical to [[cannabis-seed-germination]] and rhizome establishment in natural populations.
 

@@ -12,7 +12,7 @@ sources:
 
 **Updated:** 2026-04-18
 
-Dr. Cho Han-Kyu (1936-2015) was the founder and developer of Korean Natural Farming (KNF), also known as Cho's Global Natural Farming (CGNF). A Korean agricultural scientist turned farmer-innovator, Cho developed a comprehensive system of natural inputs and management practices that enables farmers to grow crops and raise livestock without reliance on [[knf-vs-chemical-farming-comparison]] paradigm. He noticed that despite increasing chemical inputs, soil fertility was declining, pest problems were worsening, and farmers were becoming trapped in cycles of debt to purchase ever-more expensive agricultural chemicals.
+Dr. Cho Han-Kyu (1936-2015) was the founder and developer of Korean Natural Farming (KNF), also known as Cho"s Global Natural Farming (CGNF). A Korean agricultural scientist turned farmer-innovator, Cho developed a comprehensive system of natural inputs and management practices that enables farmers to grow crops and raise livestock without reliance on [[knf-vs-chemical-farming-comparison]] paradigm. He noticed that despite increasing chemical inputs, soil fertility was declining, pest problems were worsening, and farmers were becoming trapped in cycles of debt to purchase ever-more expensive agricultural chemicals.
 
 ## The Turning Point
 

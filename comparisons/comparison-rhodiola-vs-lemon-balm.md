@@ -3,7 +3,7 @@ title: "Rhodiola vs Lemon Balm"
 tags: [comparison, rhodiola, lemon-balm, adaptogen, nervine]
 date: 2026-05-14
 updated: 2026-05-14
-sources: ['raw/papers/ben-lemon-cannabis-alchemy.md']
+sources: ["raw/papers/ben-lemon-cannabis-alchemy.md']
 ---
 
 ## Rhodiola vs Lemon Balm
@@ -89,7 +89,7 @@ Choose rhodiola when the primary concern is chronic fatigue, burnout, or
 depleted energy reserves. It excels for situations requiring sustained
 performance under pressure — exam periods, athletic training, shift work, or
 recovery from illness. Individuals who feel "wired and tired" (anxious but
-exhausted) may benefit from rhodiola's ability to normalize cortisol rhythm
+exhausted) may benefit from rhodiola"s ability to normalize cortisol rhythm
 while boosting daytime energy.
 
 Rhodiola is also preferred when altitude adaptation is needed or when

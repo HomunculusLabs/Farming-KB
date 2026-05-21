@@ -20,7 +20,7 @@ experiences. [[tryptamine-hypercontinuum-and-invisible-landscape]]* (1975, with 
 
 ### Metaphysical Models
 
-- **Independent intelligences**: The entities exist independently of the user's
+- **Independent intelligences**: The entities exist independently of the user"s
   mind and are accessed through DMT-induced changes in consciousness. McKenna
   engaged with this possibility seriously, addressing the entities as
   autonomous beings.

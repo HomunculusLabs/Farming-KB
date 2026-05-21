@@ -63,7 +63,7 @@ effects, eyes-open (edge-ripples or colors or retinal games) or
 eyes-closed (images of the elaborately decorated doors of the mosque,
 or of an orchestra floating suspended by its music) or fantasy (you
 are moving beyond the confines of your body and invading someone
-else's space). The same applies to tactile enhancement, to the
+else"s space). The same applies to tactile enhancement, to the
 
 anaesthetic component, to the depth of insight realized from a drug.
 The more the drug, as a rule, the more the effect, up to the point

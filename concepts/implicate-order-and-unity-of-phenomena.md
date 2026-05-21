@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-The concept of **implicate order**, drawn from physicist David Bohm's *Wholeness and the Implicate Order* (1980), provides a [[fukuoka-spiritual-philosophical-foundation]] for understanding how all natural phenomena are interconnected. In [[permaculture]] design:
+The concept of **implicate order**, drawn from physicist David Bohm"s *Wholeness and the Implicate Order* (1980), provides a [[fukuoka-spiritual-philosophical-foundation]] for understanding how all natural phenomena are interconnected. In [[permaculture]] design:
 
 - **Duality is misleading**: Concepts like "pest vs. beneficial insect" or "weed vs. crop" are artificial distinctions. In reality, each organism plays multiple roles within the whole system.
 - **Reductionism is limited**: Studying parts in isolation cannot reveal the emergent properties of the whole system. Holistic observation is essential.

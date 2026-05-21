@@ -7,7 +7,7 @@ tags: [permaculture, plant-systems, food-forest, pruning]
 sources: [raw/papers/bill-mollison-permaculture-a-designers-manual.md]
 ---
 ## Vine Systems
-**Source:** Permaculture: A Designers' Manual, Bill Mollison (1988)
+**Source:** Permaculture: A Designers" Manual, Bill Mollison (1988)
 **Updated:** 2026-04-18
 ## Overview
 Vine crops occupy a unique niche [[fukuoka-natural-farming-temperate-climates]]

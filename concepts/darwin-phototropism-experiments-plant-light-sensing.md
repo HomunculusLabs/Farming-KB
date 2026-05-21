@@ -6,7 +6,7 @@ type: concept
 tags: [darwin, phototropism, phototropin, coleoptile, plant-vision, light-sensing, history-of-science]
 ---
 
-## Darwin's Phototropism Experiments - Discovery of Plant Light Sensing
+## Darwin"s Phototropism Experiments - Discovery of Plant Light Sensing
 
 ## Overview
 
@@ -15,7 +15,7 @@ bending region below.
 
 ## Historical Context
 
-Darwin's fascination with plant movement extended throughout his later career.
+Darwin"s fascination with plant movement extended throughout his later career.
 While best known for his work on evolution by natural selection, Darwin spent
 the final two decades of his life investigating plant behaviors including
 phototropism, gravitropism, and circumnutation. His contemporary, Julius von

@@ -22,7 +22,7 @@ sources:
   - Bigwood, J. & Beug, M.W. (1982). "Variation in guzman-psilocybin-mushrooms-north-america and East Asia. It is one of the few *Gymnopilus* species known to contain psilocybin and psilocin.
 ---
 
-The species epithet *spectabilis* ("showy") refers to the mushroom's large, conspicuous fruiting bodies. The common name derives from the psychoactive effects reported by foragers who have consumed it.
+The species epithet *spectabilis* ("showy") refers to the mushroom"s large, conspicuous fruiting bodies. The common name derives from the psychoactive effects reported by foragers who have consumed it.
 
 G. spectabilis is part of a complex of similar species that has undergone significant taxonomic revision. [[psilocybin-north-america-pacific-northwest]] through the Midwest to the eastern seaboard, and south to the Gulf States. Fruitings occur from late summer through autumn (September–November).
 

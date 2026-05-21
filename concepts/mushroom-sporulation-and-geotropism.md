@@ -12,7 +12,7 @@ Mushroom fruiting bodies exhibit complex directed growth behaviors (tropisms)
 linked to their reproductive function. In *[[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]]* and related
 agarics, the transition from vegetative stipe elongation to negatively
 geotropic orientation coincides with [[spore]] production onset. This page
-synthesizes Badham's tropisms study and broader mycological literature on
+synthesizes Badham"s tropisms study and broader mycological literature on
 fungal gravitropic responses and their role in sporulation.
 
 ## Sporulation and the Geotropic Response

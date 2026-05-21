@@ -2,7 +2,7 @@
 title: "Ulva Intestinalis"
 type: entity
 tags: []
-sources: ['raw/papers/working-with-agar.md']
+sources: ["raw/papers/working-with-agar.md']
 ---
 
 Cells are approximately 10–15 μm in diameter, arranged in a regular pattern. Each cell contains a single parietal [[chloroplast]] with one or more pyrenoids.

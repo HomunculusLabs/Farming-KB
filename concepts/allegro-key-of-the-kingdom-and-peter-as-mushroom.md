@@ -12,11 +12,11 @@ sources:
 
 Allegro identifies the New Testament as a deliberately encoded text in which secret names of the [[psilocybin-mystical-experiences-personality-change]].
 
-## The Shekel in the Fish's Mouth
+## The Shekel in the Fish"s Mouth
 
-In Matthew 17:24ff, the story of the tax-collectors contains multiple puns on tiqla' (mushroom, shekel, tax). The fish's mouth has a sexual connotation, being envisaged as the large lips of the woman's genitals. The "bearded" mullet was credited with lustful tendencies and associated with the womb. To have a "shekel (bolt) in the fish's mouth" was probably a euphemism for coitus.
+In Matthew 17:24ff, the story of the tax-collectors contains multiple puns on tiqla' (mushroom, shekel, tax). The fish's mouth has a sexual connotation, being envisaged as the large lips of the woman's genitals. The "bearded" mullet was credited with lustful tendencies and associated with the womb. To have a "shekel (bolt) in the fish"s mouth" was probably a euphemism for coitus.
 
-Pliny supports the connection: he says a Roman official in Spain once bit into a truffle and found a denarius inside it — a likely Latinized version of the "shekel in the fish's mouth" mushroom name.
+Pliny supports the connection: he says a Roman official in Spain once bit into a truffle and found a denarius inside it — a likely Latinized version of the "shekel in the fish"s mouth" mushroom name.
 
 ## Belshazzar's Writing on the Wall
 

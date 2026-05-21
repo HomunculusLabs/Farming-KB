@@ -27,7 +27,7 @@ time.
 ## The Salad Mixer
 
 After washing and spinning dry, individual salad ingredients must be
-mixed. Coleman's mixer is a barrel made of wood slats with plywood ends,
+mixed. Coleman"s mixer is a barrel made of wood slats with plywood ends,
 48 inches long and 36 inches in diameter, mounted horizontally in a
 frame. A handle at one end turns it. The barrel is divided into two
 halves hinged on the long side, opening like a clamshell. Coleman calls

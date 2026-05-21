@@ -6,7 +6,7 @@ type: concept
 
 ## Permaculture Principle 3: Obtain a Yield
 
-*"You can't work on an empty stomach"*
+*"You can"t work on an empty stomach"*
 
 This principle reminds us that any system should be designed to provide self-reliance by using captured and stored energy effectively to maintain itself and capture more energy. Without immediate and truly useful yields, designs will wither while elements that generate yield will proliferate. A yield functions as a reward through positive feedback that encourages, maintains, and/or replicates the system that generated it.
 
@@ -14,7 +14,7 @@ This principle reminds us that any system should be designed to provide self-rel
 
 ### Competition and Cooperation
 
-All organisms obtain a yield adequate to sustain them; those that fail disappear. Darwin's emphasis on competition reflected Victorian industrial England, but Peter Kropotkin provided a refutation with diverse examples of cooperative and [[fungi-in-the-environment-symbiotic-relationships]]. Competition in nature tests vigor and fitness. Predation removes weaker individuals. In human systems, comfort and excessive protection lead to self-satisfied, lazy, and eventually dysfunctional behavior.
+All organisms obtain a yield adequate to sustain them; those that fail disappear. Darwin"s emphasis on competition reflected Victorian industrial England, but Peter Kropotkin provided a refutation with diverse examples of cooperative and [[fungi-in-the-environment-symbiotic-relationships]]. Competition in nature tests vigor and fitness. Predation removes weaker individuals. In human systems, comfort and excessive protection lead to self-satisfied, lazy, and eventually dysfunctional behavior.
 
 ## The Maximum Power Law
 
@@ -93,7 +93,7 @@ Converts all consumed resources to land area required. Global average: 2.9 hecta
 
 ### EMERGY Accounting
 
-[[howard-odum]]'s methodology — the most holistic but complex environmental accounting system. Uses universal energy laws and energy symbol language.
+[[howard-odum]]"s methodology — the most holistic but complex environmental accounting system. Uses universal energy laws and energy symbol language.
 
 **EMERGY Yield Ratio:** Compares EMERGY value of a resource with economic feedback required. Value > 1 = net gain. Value > 4 = high-value source.
 

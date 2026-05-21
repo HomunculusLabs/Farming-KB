@@ -51,7 +51,7 @@ The finer grade of vermiculite is recommended because it holds more water. Vermi
 1. Use 1/2 pint (250ml) tapered canning jars (KERR wide mouth, BALL regular mouth or jelly jar, or tapered drinking glasses). Tapered sides with no shoulder are essential for cake removal.
 2. Mix 1/2 cup vermiculite with brown rice powder, add water slowly to the powder first. Mix thoroughly. The mixture should feel damp and cohesive.
 3. Fill jar loosely, leaving 1/2 to 3/4 inch space at top.
-4. Fill the top with plain dry vermiculite as a contaminant barrier layer. This was PF's original discovery -- the dry vermiculite protects the wet substrate from airborne contaminants and regulates moisture transpiration.
+4. Fill the top with plain dry vermiculite as a contaminant barrier layer. This was PF"s original discovery -- the dry vermiculite protects the wet substrate from airborne contaminants and regulates moisture transpiration.
 5. Place lid with rubberized edge up, punch 4 holes inside the rubber seal periphery with a 3-penny nail. Cover holes with masking tape.
 6. Steam sterilize at the lowest possible gentle boil for 1 hour in a tightly covered pot. Jars should not sit in boiling water. After cooling, tighten lids and store until inoculation.
 
@@ -89,7 +89,7 @@ Always refer to the manufacturer's manual. Pressure canners can be dangerous if 
 - **Wash hands** before all sterile work -- hands are "a prime source for bacteria and microspore contaminants"
 - **Sterilize all work surfaces** with rubbing alcohol
 - **Minimize drafts**; try for a still air environment
-- **Don't breathe on the work**
+- **Don"t breathe on the work**
 - Run a small home appliance HEPA air cleaner (99.97% efficiency) for a few hours in a closed room before doing sterile work
 
 ## Incubation

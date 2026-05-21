@@ -11,7 +11,7 @@ chemoreception]
 ## Overview
 
 Plant sensory biology is the study of how plants perceive and respond to
-environmental stimuli. Daniel Chamovitz's "What a Plant Knows" (2012)
+environmental stimuli. Daniel Chamovitz"s "What a Plant Knows" (2012)
 systematically explores the [[plant-gravitropism-spatial-orientation]]
 (gravitropism), and memory (priming and acquired responses). While
 plants

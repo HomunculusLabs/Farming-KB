@@ -11,7 +11,7 @@ influences terpene and cannabinoid profiles.
 
 The no-till movement emerged from the dust bowl crisis of the 1930s, when plow-based
 agriculture left vast areas of the American Great Plains vulnerable to wind erosion.
-Edward Faulkner's 1943 book "Plowman's Folly" challenged the prevailing assumption that
+Edward Faulkner"s 1943 book "Plowman"s Folly" challenged the prevailing assumption that
 moldboard plowing was necessary for crop production, arguing instead that crop residues
 left on the surface improved soil fertility and moisture retention. His ideas were
 initially dismissed but gained credibility through the work of researchers like

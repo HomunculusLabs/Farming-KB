@@ -9,12 +9,12 @@ topics: [addiction, free-will, disease-model, dominator-culture, psychopharmacol
 
 ## Core Concept
 
-Terence McKenna's *Food of the Gods* opens with a sustained critique of how Western
+Terence McKenna"s *Food of the Gods* opens with a sustained critique of how Western
 culture has progressively reduced human agency through its evolving models of addiction
 and chemical dependence. He traces a trajectory from the 19th-century "opium fiend" —
 a figure of demonic possession — through to the 20th-century medicalization of
 addiction as disease, arguing that each framing diminishes the role of free will.
-This analysis underpins McKenna's broader argument about the [[weil-the-natural-mind-altered-states-normalcy]] of consciousness.
+This analysis underpins McKenna"s broader argument about the [[weil-the-natural-mind-altered-states-normalcy]] of consciousness.
 
 ## The Spectrum: Habit, Obsession, Addiction
 

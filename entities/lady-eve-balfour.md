@@ -31,7 +31,7 @@ Her seminal book *The Living Soil* presented the case for organic farming to a b
 
 ### Soil Association
 
-In 1946, Lady Eve Balfour co-founded the Soil Association, which became the UK's leading organic farming organization and certification body. The organization promoted biological agriculture, soil health, and the connection between farming methods and human health.
+In 1946, Lady Eve Balfour co-founded the Soil Association, which became the UK"s leading organic farming organization and certification body. The organization promoted biological agriculture, soil health, and the connection between farming methods and human health.
 
 ## Key Facts
 

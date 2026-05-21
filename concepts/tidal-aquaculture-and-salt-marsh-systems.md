@@ -45,7 +45,7 @@ A case study from Australia illustrates the importance of understanding food cha
 Where clients have salt flats or salt marsh behind the high tide mark (even after government tidal reserves have been struck off), simple inland tidal ponds can be created:
 
 1. **Channel creation**: Drive a tractor back and forth through the reserve area, or use an existing channel
-2. **Side slope**: 3:1 gentle slope so rocks don't collapse
+2. **Side slope**: 3:1 gentle slope so rocks don"t collapse
 3. **Rock armoring**: Throw rocks up on the tide side to block sea winds
 4. **Salt-resistant shrubs**: Plant around the pond perimeter
 5. **Tide regulation**: Adjust the channel depth with a board to control the tide range (3 inches, 6 inches, or 1 foot) over the pond

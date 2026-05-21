@@ -24,13 +24,13 @@ In 1800 virtually every ton of sugar imported into England had been produced wit
 
 ## The Sugar-Dominator Connection
 
-McKenna's broader theoretical framework connects sugar to the deepening of dominator social organization. When temporal distance from the original "partnership paradise" increases, when the connection with the "vegetable/feminine matrix of planetary life" slips into the past, the hold of cultural neurosis increases. Manifestations of unchecked ego and dominator theories of social organization proliferate.
+McKenna"s broader theoretical framework connects sugar to the deepening of dominator social organization. When temporal distance from the original "partnership paradise" increases, when the connection with the "vegetable/feminine matrix of planetary life" slips into the past, the hold of cultural neurosis increases. Manifestations of unchecked ego and dominator theories of social organization proliferate.
 
 Slavery, almost unknown during the medieval period when the notion of private property restricted ownership of anything to a privileged few, returned with a vengeance to fill the need for manpower in the labor-intensive colonial cultivation of sugar.
 
 ### The Intellectual Trajectory
 
-McKenna traces an intellectual arc from Thomas Hobbes's vision of human society as the inevitable subjugation of the weak by the strong, through Jeremy Bentham's notion of the ultimate economic basis of all social worth, to the Cartesian rendering of nature as dead and meaningless. Values that seek to nurture the earth and to participate with it in a life of natural emotive balance have been forsaken for the rapacious self-centeredness of Faustian science.
+McKenna traces an intellectual arc from Thomas Hobbes"s vision of human society as the inevitable subjugation of the weak by the strong, through Jeremy Bentham's notion of the ultimate economic basis of all social worth, to the Cartesian rendering of nature as dead and meaningless. Values that seek to nurture the earth and to participate with it in a life of natural emotive balance have been forsaken for the rapacious self-centeredness of Faustian science.
 
 This process of deepening cultural psychosis — an obsession with ego, money, and the sugar/alcohol drug complex — reaches its culmination, in McKenna's telling, with Sartre's assertion that "nature is mute." McKenna's rebuttal: nature is not mute, but modern humanity is deaf — made deaf by unwillingness to hear the message of caring, balance, and cooperation that is nature's message.
 

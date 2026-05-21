@@ -42,7 +42,7 @@ Other research has explored whether plants respond to music or specific sound fr
 
 ## Gravitropism (Spatial Orientation)
 
-Plants possess a sophisticated gravity-sensing mechanism that allows them to orient their growth relative to the gravitational field. Shoots grow upward (negative gravitropism) while roots grow downward (positive gravitropism), maintaining the plant's proper spatial orientation even when it is tilted or inverted.
+Plants possess a sophisticated gravity-sensing mechanism that allows them to orient their growth relative to the gravitational field. Shoots grow upward (negative gravitropism) while roots grow downward (positive gravitropism), maintaining the plant"s proper spatial orientation even when it is tilted or inverted.
 
 Gravity sensing occurs in specialized cells called statocytes, found in root caps (columella cells) and shoot endodermis. These cells contain starch-filled organelles called amyloplasts (statoliths) that sediment to the bottom of the cell under gravity. This sedimentation triggers a signaling cascade involving auxin redistribution, leading to differential cell elongation that bends the organ in the appropriate direction.
 

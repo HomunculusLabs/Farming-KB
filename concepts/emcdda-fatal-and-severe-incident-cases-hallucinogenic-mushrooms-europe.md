@@ -25,7 +25,7 @@ The EMCDDA 2006 thematic paper on hallucinogenic mushrooms documented several fa
 
 ### Manchester, UK — March 2004
 
-A 31-year-old man died after leaping from a tower block window following consumption of "Hawaiian" psilocybin-containing mushrooms in combination with alcohol. The case was reported in the Manchester Evening News (28 May 2005). A coroner's inquest confirmed the contributory role of the mushrooms together with alcohol in the death. The "Hawaiian" designation likely refers to a particularly potent strain of Psilocybe cubensis or possibly [[health-risks-of-hallucinogenic-mushrooms]] on 31 January 2006, may have influenced the legislative timeline.
+A 31-year-old man died after leaping from a tower block window following consumption of "Hawaiian" psilocybin-containing mushrooms in combination with alcohol. The case was reported in the Manchester Evening News (28 May 2005). A coroner"s inquest confirmed the contributory role of the mushrooms together with alcohol in the death. The "Hawaiian" designation likely refers to a particularly potent strain of Psilocybe cubensis or possibly [[health-risks-of-hallucinogenic-mushrooms]] on 31 January 2006, may have influenced the legislative timeline.
 
 The geographic setting — a fall from height — parallels the Manchester case and suggests that accidents involving falls or jumps from elevated positions represent a specific risk pattern associated with [[health-risks-and-harm-reduction-for-hallucinogenic-mushroom-use]] intoxication across Europe was consistently very low:
 

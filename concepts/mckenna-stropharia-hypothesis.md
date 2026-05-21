@@ -1,5 +1,5 @@
 ---
-title: "McKenna's Stropharia Hypothesis"
+title: "McKenna"s Stropharia Hypothesis"
 created: 2026-05-08
 tags: [mckenna, stropharia-cubensis, extraterrestrial, panspermia,
       spores, tryptamine, consciousness, esalen]
@@ -7,7 +7,7 @@ sources:
   - mckenna_t-tryptamines_consciousness.md
 ---
 
-## McKenna's Stropharia Hypothesis
+## McKenna"s Stropharia Hypothesis
 
 In his 1983 Esalen lecture "[[spore]] Biology as Evidence
 

@@ -30,7 +30,7 @@ All Western political systems can be described as those of competing belief elit
 
 ## Personal Action as Political Change
 
-The argument for simplicity is never a political argument --- when people practice it in their lives, they don't even need any politics. This statement also refers to the adoption of an [[ethical-basis-of-alternative-nation]] to action, to the placement of money and resources, and to the determination to act in accordance with one's beliefs. All of these can occur independently of political change and can be lifelong personal actions of great effect.
+The argument for simplicity is never a political argument --- when people practice it in their lives, they don"t even need any politics. This statement also refers to the adoption of an [[ethical-basis-of-alternative-nation]] to action, to the placement of money and resources, and to the determination to act in accordance with one's beliefs. All of these can occur independently of political change and can be lifelong personal actions of great effect.
 
 People can act independently of political theory, which rarely covers questions of ethics, simplicity, local autonomy, or life-oriented action. Such changes come about through education and information. When enough people change, political systems may follow --- or become as irrelevant as they now appear to be in terms of real solutions. The place to start change is first with the individual (oneself), and second in one's region or neighbourhood.
 

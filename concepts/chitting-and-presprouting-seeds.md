@@ -22,7 +22,7 @@ One enormous advantage of chitting is that you can observe which seeds are viabl
 
 ### Procedure
 
-1. **Soak**: Place the number of seeds you'll need (three seeds for every plant you'll ultimately want) in tepid water for no more than six to eight hours
+1. **Soak**: Place the number of seeds you"ll need (three seeds for every plant you'll ultimately want) in tepid water for no more than six to eight hours
 2. **Drain and rinse**: Drain the water, rinse with tepid water, and drain thoroughly
 3. **Store**: Place the jar on its side near the kitchen sink. Temperature should exceed 65°F (18°C)
 4. **Rinse daily**: Twice a day, gently rinse with tepid water and drain

@@ -36,7 +36,7 @@ Caffeine is the alkaloid at the basis of much human involvement with stimulating
 
 ## Tea Brews a Revolution
 
-The British East India Company was founded in 1600 and controlled the tea trade to its great advantage until 1834. Toward the end of the eighteenth century, Lord North's strategy to sell tea at reduced prices in the colonies and place a small tax on tea led to the Boston Tea Party of December 16, 1773. The salty tea of revolution was brewed that night, and the Declaration of Independence became inevitable.
+The British East India Company was founded in 1600 and controlled the tea trade to its great advantage until 1834. Toward the end of the eighteenth century, Lord North"s strategy to sell tea at reduced prices in the colonies and place a small tax on tea led to the Boston Tea Party of December 16, 1773. The salty tea of revolution was brewed that night, and the Declaration of Independence became inevitable.
 
 ## Coffee and Revolution
 

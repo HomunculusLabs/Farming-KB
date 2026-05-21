@@ -45,7 +45,7 @@ Broadly, interception commonly falls between **10-15% of total rainfall**:
 
 ### Step 3: Throughfall
 
-When more rain falls, or heavy rains impact on the trees, water commences to drift as mists or droplets to earth. This water is called **throughfall**. Throughfall depends on the intensity of rain, and there is little interception effect in heavy downpours. As an average figure, throughfall is approximately **85% of humid areas' precipitation**.
+When more rain falls, or heavy rains impact on the trees, water commences to drift as mists or droplets to earth. This water is called **throughfall**. Throughfall depends on the intensity of rain, and there is little interception effect in heavy downpours. As an average figure, throughfall is approximately **85% of humid areas" precipitation**.
 
 #### Throughfall as Enriched Water
 

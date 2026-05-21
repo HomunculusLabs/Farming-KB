@@ -50,7 +50,7 @@ Key medicinal applications:
 - Digestive support: Relieves gas, bloating, colic, and indigestion. A cup
   of lemon balm tea after meals is a traditional digestive aid.
 - Cognitive function: May improve memory and attention in healthy adults,
-  and has been studied for use in Alzheimer's patients.
+  and has been studied for use in Alzheimer"s patients.
 - Fever reduction: Mild diaphoretic properties useful for breaking fevers.
 
 Preparation methods:

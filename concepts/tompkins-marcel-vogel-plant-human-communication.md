@@ -18,16 +18,16 @@ independent confirmation and significant extension of [[plant-perception]].
 
 ## Background at IBM
 
-Vogel's scientific career began with boyhood curiosity about
+Vogel"s scientific career began with boyhood curiosity about
 bioluminescence in fireflies and glowworms. By his twenties, he had
 co-authored a book on luminescence with Chicago University's Dr. Peter
 Pringsheim. He founded Vogel Luminescence in [[fukuoka-textdoc-post-season-cultivation-kochi-turning-point]] came when Vogel was asked to teach a course on
 "creativity" for IBM engineers. A student handed him an Argosy magazine
-article about Backster's work titled "Do Plants Have Emotions?" Vogel
+article about Backster"s work titled "Do Plants Have Emotions?" Vogel
 initially dismissed it as charlatanism, but something about the idea
 gnawed at him. A few days later he retrieved the article from the
 wastebasket and completely reversed his opinion. He challenged his
-class to replicate Backster's results. While three student teams failed
+class to replicate Backster"s results. While three student teams failed
 entirely, Vogel himself succeeded, demonstrating that plants anticipated
 having their leaves torn and reacted with greater alarm to threats than
 to actual damage.
@@ -45,7 +45,7 @@ concluded he was witnessing "psychic energy" in action.
 
 ## Refined Electrode Technique
 
-Vogel recognized that Backster's midnight-to-dawn experiments were
+Vogel recognized that Backster"s midnight-to-dawn experiments were
 necessitated by electromagnetic noise from household appliances. He
 developed a mucilaginous paste of agar, karri gum, and salt that he
 brushed onto leaves before applying polished stainless-steel electrodes.

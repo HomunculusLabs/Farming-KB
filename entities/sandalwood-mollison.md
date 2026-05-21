@@ -8,7 +8,7 @@ type: entity
 
 ## Description
 
-Sandalwood refers to a group of aromatic trees in the genus Santalum, valued for their fragrant heartwood and essential oil. In the context of [[bill-mollison]]'s [[permaculture-design]] Course, sandalwood is mentioned as one of the economically valuable tree species targeted by loggers in the high-island rain forests of Hawaii and similar Pacific environments. Its removal contributed to the disruption of the watershed-forest-cloud feedback loop that sustained entire island ecosystems, and Mollison presents this as a cautionary case study in the cascading consequences of removing keystone forest species from island watersheds.
+Sandalwood refers to a group of aromatic trees in the genus Santalum, valued for their fragrant heartwood and essential oil. In the context of [[bill-mollison]]"s [[permaculture-design]] Course, sandalwood is mentioned as one of the economically valuable tree species targeted by loggers in the high-island rain forests of Hawaii and similar Pacific environments. Its removal contributed to the disruption of the watershed-forest-cloud feedback loop that sustained entire island ecosystems, and Mollison presents this as a cautionary case study in the cascading consequences of removing keystone forest species from island watersheds.
 
 ## Classification
 

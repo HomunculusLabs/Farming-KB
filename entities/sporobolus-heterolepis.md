@@ -14,7 +14,6 @@ date: 2026-05-09
 updated: 2026-05-09
 sources:
   - Howe, H.F. (1994). "Managing Species Diversity in Tallgrass Prairie: Assumptions and Implications." fungal-conservation-biology, 8(3), 691-704.---
----
 
 ## Overview
 

@@ -35,10 +35,10 @@ The relationship between MMDA and myristicin is particularly instructive:
 - Myristicin is the major essential oil of nutmeg, constituting about 7% of commercial oil
 - The structural difference between myristicin and MMDA is "just the elements of ammonia" -- myristicin plus ammonia gives MMDA
 - Liver metabolism in rabbits has been shown to convert myristicin to MMDA
-- This provides a pharmacological basis for nutmeg's psychoactive effects
+- This provides a pharmacological basis for nutmeg"s psychoactive effects
 - Oil of Parsley is another excellent source of both myristicin and apiole
 
-The 1960s rumor that "parsley could get you high" probably originated from reports of myristicin's presence and its relationship to MMDA.
+The 1960s rumor that "parsley could get you high" probably originated from reports of myristicin"s presence and its relationship to MMDA.
 
 ## The Nutmeg Pharmacology Question
 
@@ -51,7 +51,7 @@ Shulgin identified MMDA as "a material that might be a contributing factor to th
 ## Synthetic Routes from Essential Oils
 
 The general pathway from essential oils to amphetamines involves:
-1. Isolation of the allylbenzene or propenylbenzene from the essential oil (often by careful [[iboga-root-bark-preparation]]. MMDA derives from nutmeg's myristicin. This challenges the common assumption that naturally occurring psychoactive substances are fundamentally different from their synthetic counterparts.
+1. Isolation of the allylbenzene or propenylbenzene from the essential oil (often by careful [[iboga-root-bark-preparation]]. MMDA derives from nutmeg"s myristicin. This challenges the common assumption that naturally occurring psychoactive substances are fundamentally different from their synthetic counterparts.
 
 ## Historical Context
 

@@ -35,7 +35,7 @@ Mollison draws on the practices of Aboriginal Australian groups, who conduct cer
 
 Western observers dismiss these practices as superstition, confident that springs will flow regardless of ceremony. But Mollison suggests a deeper reading: if you take away the Aboriginal relationship with the land (their religion, their attention, their stewardship practices), the springs will stop flowing. The ceremony is not magic — it is a practice that ensures continued attention, observation, and care of the hydrological system.
 
-The lesson is that you don't discuss advanced concepts with people who don't share the foundational worldview. Aboriginal knowledge holders worry about what outsiders would do with the information — not without reason, given the history of extractive land use.
+The lesson is that you don"t discuss advanced concepts with people who don't share the foundational worldview. Aboriginal knowledge holders worry about what outsiders would do with the information — not without reason, given the history of extractive land use.
 
 ## Element Analysis: The Four Categories of Knowledge
 

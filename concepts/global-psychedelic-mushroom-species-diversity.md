@@ -18,7 +18,7 @@ Approximately 186 known psilocybin-containing mushroom species exist worldwide, 
 
 ### Mexico -- The Richest Psilocybin Mycoflora
 
-Mexico has the highest diversity of psilocybin mushrooms, with approximately 76 species. This is the one part of the world where there is a genuinely old tradition of using these mushrooms ceremonially. Wasson's and Heim's work focused extensively on Mexican species, and much of what we know about psilocybin mushrooms originated here.
+Mexico has the highest diversity of psilocybin mushrooms, with approximately 76 species. This is the one part of the world where there is a genuinely old tradition of using these mushrooms ceremonially. Wasson"s and Heim's work focused extensively on Mexican species, and much of what we know about psilocybin mushrooms originated here.
 
 ### North America (excluding Mexico)
 

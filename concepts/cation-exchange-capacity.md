@@ -12,7 +12,7 @@ sources:
 
 ## Overview
 
-Cation exchange capacity (CEC) is a measure of how many negatively charged sites are available in a soil to hold positively charged nutrient ions (cations). It is one of the most important indicators of soil fertility. In general, the higher the CEC, the higher the soil's ability to retain nutrients and make them available to plants.
+Cation exchange capacity (CEC) is a measure of how many negatively charged sites are available in a soil to hold positively charged nutrient ions (cations). It is one of the most important indicators of soil fertility. In general, the higher the CEC, the higher the soil"s ability to retain nutrients and make them available to plants.
 
 ## How CEC Works
 

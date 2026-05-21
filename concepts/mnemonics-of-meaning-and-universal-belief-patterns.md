@@ -61,7 +61,7 @@ This drift transforms belief from a shared understanding of natural patterns int
 
 ## Patterns of Social Hierarchy
 
-Mollison's studies of social behavior patterns in Tasmania (1969–1974), sampling approximately 35,000 people across military, corporate, religious, and business organizations, revealed a consistent "boat-shaped" hierarchical pattern with distinct occupational strata:
+Mollison"s studies of social behavior patterns in Tasmania (1969–1974), sampling approximately 35,000 people across military, corporate, religious, and business organizations, revealed a consistent "boat-shaped" hierarchical pattern with distinct occupational strata:
 
 ### Low Occupational Level (Resource Area)
 - Manual and unskilled urban workers

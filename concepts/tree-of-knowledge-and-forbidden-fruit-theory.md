@@ -8,13 +8,13 @@ tags: [reference]
 ---
 ## Tree of Knowledge and Forbidden Fruit Theory
 
-James Arthur's "[[allegro-amanita-muscaria-properties-and-pharmacology]] mushroom. Drawing on botanical, symbolic, mythological, and linguistic evidence, Arthur traces the Eden narrative back to an entheogenic mushroom experience that was subsequently suppressed and encoded in religious symbolism.
+James Arthur"s "[[allegro-amanita-muscaria-properties-and-pharmacology]] mushroom. Drawing on botanical, symbolic, mythological, and linguistic evidence, Arthur traces the Eden narrative back to an entheogenic mushroom experience that was subsequently suppressed and encoded in religious symbolism.
 
 ## The Tree and the Mushroom: Botanical Connection
 
-The central botanical fact underlying Arthur's theory is the mycorrhizal relationship between the Amanita muscaria and coniferous (pine) trees. The mushroom grows in a symbiotic — not parasitic — relationship with the tree. The actual mushroom "plant" is the underground mycelium or mycorrhizae directly attached to the tree roots; the mushroom itself is only the fruit-body of this underground organism.
+The central botanical fact underlying Arthur"s theory is the mycorrhizal relationship between the Amanita muscaria and coniferous (pine) trees. The mushroom grows in a symbiotic — not parasitic — relationship with the tree. The actual mushroom "plant" is the underground mycelium or mycorrhizae directly attached to the tree roots; the mushroom itself is only the fruit-body of this underground organism.
 
-This means, quite literally, that the mushroom is the "fruit of the tree." Arthur argues that this botanical reality is the basis for the Genesis narrative of the Tree of Knowledge and its fruit. The "fruit" that granted knowledge of good and evil was, in his interpretation, the Amanita muscaria [[fly-agaric-siberian-shamanic-practice]] practices involving the Amanita muscaria. The mushroom's effects — including sensations of flying, visions, and encounters with spiritual beings — became encoded in the mythology of Santa Claus, his reindeer, and his nocturnal gift-giving flights.
+This means, quite literally, that the mushroom is the "fruit of the tree." Arthur argues that this botanical reality is the basis for the Genesis narrative of the Tree of Knowledge and its fruit. The "fruit" that granted knowledge of good and evil was, in his interpretation, the Amanita muscaria [[fly-agaric-siberian-shamanic-practice]] practices involving the Amanita muscaria. The mushroom"s effects — including sensations of flying, visions, and encounters with spiritual beings — became encoded in the mythology of Santa Claus, his reindeer, and his nocturnal gift-giving flights.
 
 ## Linguistic and Symbolic Evidence
 
@@ -26,7 +26,7 @@ Arthur argues that the symbolic meaning of the [[sacred-mushroom-hypothesis]] �
 
 ## Serpent as Bringer of Knowledge
 
-James Arthur's "Mushrooms and Mankind" develops a detailed argument that the serpent of Genesis — traditionally interpreted as a symbol of evil and deception — was originally a positive figure representing the bringer of knowledge and enlightenment. Arthur connects this reinterpretation to the broader symbolic identification of the serpent with the Amanita muscaria mushroom and traces the serpent's role as a knowledge-giver through Sumerian, Hindu, and other ancient traditions.
+James Arthur"s "Mushrooms and Mankind" develops a detailed argument that the serpent of Genesis — traditionally interpreted as a symbol of evil and deception — was originally a positive figure representing the bringer of knowledge and enlightenment. Arthur connects this reinterpretation to the broader symbolic identification of the serpent with the Amanita muscaria mushroom and traces the serpent"s role as a knowledge-giver through Sumerian, Hindu, and other ancient traditions.
 
 ## Nahash: The Hebrew Word for Serpent
 

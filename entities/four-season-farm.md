@@ -18,7 +18,7 @@ Four Season Farm is the market garden operated by Eliot Coleman and [[barbara-da
 
 ## Core Production System
 
-The farm's winter-harvest system rests on three integrated components:
+The farm"s winter-harvest system rests on three integrated components:
 
 1. **Cold-Hardy Vegetables**: Approximately 30 different crops grown through winter, including spinach, mache, claytonia, minutina, mizuna, tatsoi, kale, leeks, carrots, radicchio, arugula, endive, escarole, sorrel, watercress, and many others
 2. **Succession Planting**: Crops sown on precise schedules beginning August 1 (the "second spring") and continuing through fall, compensating for slower winter growth with earlier and staggered plantings

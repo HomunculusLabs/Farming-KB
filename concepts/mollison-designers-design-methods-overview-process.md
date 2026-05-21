@@ -23,7 +23,7 @@ each position in the landscape. See permaculture-zone-planning.
 
 **Need and yield analysis** identifies the inputs (needs) and outputs
 (yields) of each proposed element, revealing opportunities for connections
-between elements where one's yield meets another's need.
+between elements where one"s yield meets another's need.
 
 **Functional analysis** examines what each element does (functions) and what
 could perform that function (functional alternatives). This ensures redundancy

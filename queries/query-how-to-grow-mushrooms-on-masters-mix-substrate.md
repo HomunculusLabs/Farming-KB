@@ -1,5 +1,5 @@
 ---
-title: "How to Grow Mushrooms on Master's Mix Substrate"
+title: "How to Grow Mushrooms on Master"s Mix Substrate"
 created: 2026-04-28
 tags: [query, mycology, mushroom-cultivation, substrate, indoor-growing]
 date: 2026-04-25

@@ -12,7 +12,7 @@ type: concept
 
 ## Overview
 
-Through the parable of Okuninushi's sack, Fukuoka presents a profound
+Through the parable of Okuninushi"s sack, Fukuoka presents a profound
 epistemological critique of how human beings attempt to understand nature. Man
 jumps into the great sack called nature, grabs whatever he can, turns it over
 and examines it, asking what it is and how it works, and drawing his own
@@ -38,7 +38,7 @@ lies entirely beyond their comprehension.
 
 A flea born and raised in the sack without ever having seen the world outside
 will never be able to guess that the object is an instrument hung from
-Okuninushi's belt, no matter how much it studies the object. Similarly, man,
+Okuninushi"s belt, no matter how much it studies the object. Similarly, man,
 who is born within nature and will never be able to step outside of the natural
 world, can never understand all of nature merely by examining that part of
 nature around him.

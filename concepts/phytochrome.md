@@ -40,7 +40,7 @@ if given a brief light pulse in the middle of the night. This proved that plants
 measure the length of continuous darkness, not the length of the day.
 
 Critically, scientists discovered that only red light flashes influenced flowering —
-blue or green flashes had no effect. Then Borthwick's team made the remarkable
+blue or green flashes had no effect. Then Borthwick"s team made the remarkable
 discovery that far-red light could cancel the effect of red light. If irises were
 given red light in the middle of the night, they flowered; but if far-red light
 followed immediately, it was as if they never saw the red light. Red again, they

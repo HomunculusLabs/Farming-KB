@@ -10,7 +10,7 @@ Human activities profoundly influence fungal diversity, community structure, [[f
 
 ## Historical Context: The Industrial Revolution and Fungal Indicators
 
-The relationship between human pollution and fungi has a long observational history. Following the industrial revolution in Europe, industrially related changes in ecosystems were readily apparent. The emergence of a melanic (black) form of the peppered moth (*Biston betularia*), documented by Kettlewell (1955), was attributed to its improved camouflage on soot-coated tree bark — a visible indicator of industrial pollution's biological consequences.
+The relationship between human pollution and fungi has a long observational history. Following the industrial revolution in Europe, industrially related changes in ecosystems were readily apparent. The emergence of a melanic (black) form of the peppered moth (*Biston betularia*), documented by Kettlewell (1955), was attributed to its improved camouflage on soot-coated tree bark — a visible indicator of industrial pollution"s biological consequences.
 
 Lichens became one of the most widely used [[biological-indicators-of-soil]] [[lichen-bioindicators-atmospheric-pollution]]. Their dramatic decline in species abundance and diversity near industrial centers provided early warning of air quality deterioration. Only recently have lichen communities been shown to be recovering in species abundance and diversity as air quality has improved (Gilbert, 1992; Bates et al., 2001), validating their use as bioindicators and offering hope for ecosystem recovery.
 

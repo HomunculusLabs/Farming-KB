@@ -29,7 +29,7 @@ A minimum of 75 spores should be mounted, distributed across three preparation t
 
 - **One-third** mounted whole in water for natural-state observation
 - **One-third** mounted and broken in PVLG (polyvinyl-alcohol-lactic acid-glycerol) and water
-- **One-third** mounted and broken in a mixture of PVLG + Melzer's reagent (1:1 v/v)
+- **One-third** mounted and broken in a mixture of PVLG + Melzer"s reagent (1:1 v/v)
 
 The number of slides generated depends on how many spores are placed under one coverslip. Generally, no more than 5–10 spores should be mounted together when spores exceed 200 μm in diameter; as many as 20–30 spores can be mounted together when spores are less than 150 μm in diameter. Fewer spores on more slides are recommended for novices.
 

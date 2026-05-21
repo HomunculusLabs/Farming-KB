@@ -22,7 +22,7 @@ Thailand hosts several Psilocybe species of particular interest:
 
 ## The Koh Samui Ethnomycological Tradition
 
-The islands of Koh Samui and Koh Pha-ngan in the Gulf of Thailand became internationally known in the 1980s-1990s as destinations for recreational use [[historical-and-cultural-uses-of-psychoactive-mushrooms]]. Allen & Merlin's (1992a, b) research documented several key aspects of this tradition:
+The islands of Koh Samui and Koh Pha-ngan in the Gulf of Thailand became internationally known in the 1980s-1990s as destinations for recreational use [[historical-and-cultural-uses-of-psychoactive-mushrooms]]. Allen & Merlin"s (1992a, b) research documented several key aspects of this tradition:
 
 **[[desert-food-systems-and-indigenous-knowledge]]**: Local Thai people had long known about the psychoactive properties of mushrooms growing on water buffalo dung, though formal ceremonial use comparable to Mesoamerican traditions was not documented. Traditional Thai knowledge distinguished between edible, poisonous, and "magic" mushrooms.
 

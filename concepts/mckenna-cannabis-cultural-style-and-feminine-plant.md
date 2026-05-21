@@ -30,7 +30,7 @@ values McKenna identified as "feminine."
 
 ## Cannabis and Aesthetic Sensibility
 
-McKenna suggested that the degree to which a culture's style and way of life
+McKenna suggested that the degree to which a culture"s style and way of life
 is imbued with the attitudes and assumptions engendered by a particular
 psychoactive plant can be remarkably profound. He proposed that the
 architectural styles and design motifs of Mughal Delhi or tenth-century Isfahan

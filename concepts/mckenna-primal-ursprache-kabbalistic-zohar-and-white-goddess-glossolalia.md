@@ -30,7 +30,7 @@ McKenna drew on a rich tapestry of historical and literary sources to support th
 
 ### Robert Graves and *The White Goddess*
 
-McKenna frequently cited Robert Graves' *The White Goddess*, which posits the existence of a primal alphabetic language behind all human tongues — a prehistoric tongue of poetic and mythic power that encoded a lost system of knowledge. Graves argued that this language was not merely metaphorical but represented a genuine mode of cognition, one in which sound, meaning, and natural phenomenon were unified in a single field of reference.
+McKenna frequently cited Robert Graves" *The White Goddess*, which posits the existence of a primal alphabetic language behind all human tongues — a prehistoric tongue of poetic and mythic power that encoded a lost system of knowledge. Graves argued that this language was not merely metaphorical but represented a genuine mode of cognition, one in which sound, meaning, and natural phenomenon were unified in a single field of reference.
 
 For McKenna, Graves' scholarship provided a literary and mythological precedent for what he experienced directly under tryptamines: contact with a language that operates on a fundamentally different register than ordinary speech. The White Goddess herself becomes a figure for the Logos — the voice behind the voice, the speech behind speech — a feminine creative principle that sings the world into being through a tongue older than any known language. In Graves' account, the primal language was the possession of bards and poets who guarded it as a sacred trust; in McKenna's, it is the birthright of every human nervous system, accessible through the tryptamine doorway.
 
@@ -44,7 +44,7 @@ McKenna saw this as another expression of the same primal language he encountere
 
 McKenna referenced **Philo Judaeus**, the Hellenistic Jewish philosopher who described the Logos as that which passes "from things heard to things beheld." This progression — from auditory language to direct visual apprehension — mirrors the tryptamine experience precisely. Under DMT, language ceases to be merely heard or spoken and becomes something **beheld**: visible, tangible, three-dimensional, occupying a space that ordinary language cannot reach.
 
-The Logos, for McKenna, is not an abstract theological concept but an experiential reality encountered in the psychedelic state. It is the living intelligence behind language, the self-disclosing ground of meaning that reveals itself when the ordinary filters of consciousness are temporarily suspended. Philo's insight — that the Logos transcends the boundary between hearing and seeing — becomes, in McKenna's hands, a precise description of the synesthetic merger that characterizes the DMT experience, where sound becomes form and meaning becomes visible.
+The Logos, for McKenna, is not an abstract theological concept but an experiential reality encountered in the psychedelic state. It is the living intelligence behind language, the self-disclosing ground of meaning that reveals itself when the ordinary filters of consciousness are temporarily suspended. Philo"s insight — that the Logos transcends the boundary between hearing and seeing — becomes, in McKenna's hands, a precise description of the synesthetic merger that characterizes the DMT experience, where sound becomes form and meaning becomes visible.
 
 ## Glossolalia in the Tryptamine State
 
@@ -82,7 +82,7 @@ The colored balls of Heraclitus become, in the DMT experience, the hyperspatial 
 
 ### *Finnegans Wake* and "Merry Go Raum"
 
-McKenna also referenced James Joyce's *Finnegans Wake*, particularly the punning phrase **"merry go raum"** — a conflation of "merry-go-round" with the German word *Raum* (space, room), suggesting the room itself going around in eternity. This captures the sense of spatial and temporal distortion that accompanies the experience of the primal language: the boundaries between inside and outside dissolve, space itself becomes language, and the room — the very fabric of reality — is set spinning in an eternal play of form.
+McKenna also referenced James Joyce"s *Finnegans Wake*, particularly the punning phrase **"merry go raum"** — a conflation of "merry-go-round" with the German word *Raum* (space, room), suggesting the room itself going around in eternity. This captures the sense of spatial and temporal distortion that accompanies the experience of the primal language: the boundaries between inside and outside dissolve, space itself becomes language, and the room — the very fabric of reality — is set spinning in an eternal play of form.
 ## Practical Applications
 The principles discussed here have direct applications in agricultural systems, ecological restoration, and sustainable resource management.
 Practitioners have demonstrated successful implementation across diverse climates and soil conditions.

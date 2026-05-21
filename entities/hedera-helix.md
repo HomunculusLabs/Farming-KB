@@ -11,7 +11,7 @@ date: 2026-05-08
 updated: 2026-05-08
 sources:
   - RHS. "Hedera helix." Royal Horticultural Society.
-  - Sell, M. (2018). "The genus Hedera." Curtis's Botanical Magazine 35(3): 246-263.
+  - Sell, M. (2018). "The genus Hedera." Curtis"s Botanical Magazine 35(3): 246-263.
 ---
 
 ## Overview

@@ -10,7 +10,7 @@ The theoretical foundation of [[permaculture]] rests on a set of principles, dir
 
 ## The Energy Model: Source, Storage, and Sink
 
-Mollison's energy model begins with the Earth as a system receiving a fairly constant energy input from the sun. Between the energy source and the energy sink lies the zone of human intervention — the area where design operates.
+Mollison"s energy model begins with the Earth as a system receiving a fairly constant energy input from the sun. Between the energy source and the energy sink lies the zone of human intervention — the area where design operates.
 
 The core design task is to create useful storages between source and sink. The more effectively energy can be captured, held, and directed through multiple uses before it dissipates, the more productive the system becomes. Water illustrates the principle perfectly: if engineers store water in a valley (where it is least useful for distribution), they create a single-purpose reservoir. If instead they store water at the keypoint — high in the landscape, close to where it falls — they can run it through irrigation channels, animal watering systems, aquaculture ponds, domestic water supply, and microhydro generation before it reaches the valley.
 
@@ -39,7 +39,7 @@ A critical insight governs all resource management: any integrated system can on
 
 ## Diversity: Connections, Not Count
 
-Mollison offered one of his most important clarifications about diversity: "Diversity isn't involved so much with the number of elements in a system as it is with the number of [[component-analysis-and-functional-connections]] between these elements." This distinction is fundamental to [[mollison-rabbits-in-permaculture-design-and-soil-preparation]] is frequently misunderstood.
+Mollison offered one of his most important clarifications about diversity: "Diversity isn"t involved so much with the number of elements in a system as it is with the number of [[component-analysis-and-functional-connections]] between these elements." This distinction is fundamental to [[mollison-rabbits-in-permaculture-design-and-soil-preparation]] is frequently misunderstood.
 
 A system with 3,000 species but no functional connections between them is less stable and less productive than a system with 30 species and 3,000 beneficial interactions. Mollison illustrated this by analyzing a greenhouse connected to a chicken coop, identifying 129 beneficial connections between just these two elements — heat exchange, CO₂ cycling, manure production, insect control, food production, weed seed consumption, and many more.
 
@@ -49,25 +49,25 @@ Diversity of itself, without functional organization, provides no stability or a
 
 The practical expression of [[fungal-functional-diversity-decomposition]] is the guild — a group of elements (plants, animals, structures) that work harmoniously together. In a permaculture garden, elements serve multiple roles: some are manurial or energy-exchange systems for other elements; others provide defensive protection (pest deterrence, wind shelter, shade); some act as trellis systems or structural supports. The rules governing placement include orientation to sun and wind, zonation by frequency of use, and interaction effects between neighboring elements.
 
-The goal is not to maximize species count but to maximize beneficial function. As Mollison put it: "It is the number of niches in a system that will allow a number of species and varieties to co-survive. It is the woodpecker's hole within the forest."
+The goal is not to maximize species count but to maximize beneficial function. As Mollison put it: "It is the number of niches in a system that will allow a number of species and varieties to co-survive. It is the woodpecker"s hole within the forest."
 
 ## Yield: Redefining Productivity
 
-Mollison's definition of yield fundamentally departs from conventional agriculture: "Yield is the sum of useful energy stores. It is the sum of energy conserved and generated in systems. It is never just product yield — not the number of pounds of tomatoes, or pounds of fish, or of acorns — but the sum of the energy in useful storages."
+Mollison"s definition of yield fundamentally departs from conventional agriculture: "Yield is the sum of useful energy stores. It is the sum of energy conserved and generated in systems. It is never just product yield — not the number of pounds of tomatoes, or pounds of fish, or of acorns — but the sum of the energy in useful storages."
 
 This redefinition has profound implications. A conventional farmer measures yield in bushels per acre. A permaculture designer measures yield in total system energy — including soil organic matter accumulated, water stored, biodiversity supported, microclimate moderated, and social cohesion generated. Under this definition, yield is a function of design, and is theoretically unlimited. Mollison stated he had never seen a system where better design could not increase the yield.
 
-Yield depends on the designer's understanding of the system. Understanding itself has multiple dimensions — intellectual, empathetic, observational. Different people perceive different aspects of reality (some handle symbols, others numbers, others spatial relationships), which is why Mollison advocated small group collaboration to bring different perspectives to bear on design problems.
+Yield depends on the designer"s understanding of the system. Understanding itself has multiple dimensions — intellectual, empathetic, observational. Different people perceive different aspects of reality (some handle symbols, others numbers, others spatial relationships), which is why Mollison advocated small group collaboration to bring different perspectives to bear on design problems.
 
 ## Order, Tidiness, and Creative Disorder
 
-One of Mollison's most memorable observations distinguishes order from tidiness: "Tidiness is something that happens when you have frontal brain damage." Tidiness — the rigid, monofunctional, visually uniform landscape of conventional agriculture — reflects limited perception and functional disorder. Creativity, which arises from a "fairly whole brain," is inherently disorderly. The tolerance for disorder is, in Mollison's view, one of the few reliable signs of health.
+One of Mollison's most memorable observations distinguishes order from tidiness: "Tidiness is something that happens when you have frontal brain damage." Tidiness — the rigid, monofunctional, visually uniform landscape of conventional agriculture — reflects limited perception and functional disorder. Creativity, which arises from a "fairly whole brain," is inherently disorderly. The tolerance for disorder is, in Mollison"s view, one of the few reliable signs of health.
 
 The straight American cornfield and the tidy British garden both represent what Mollison called "extraordinary tidiness and functional disorder" — they look neat but yield poorly relative to their potential. What permaculture seeks is "creative disorder" — functional complexity that may appear messy to the tidiness-trained eye but actually produces more yield, more stability, and more resilience.
 
 ## The Necessitous Act Principle
 
-Drawing on tribal lore, Mollison proposed that one should only carry out necessitous acts — that non-necessitous behavior tends to be very destructive. He illustrated this with a personal experiment: living in the bush and deciding not to cut down a tree unless absolutely necessary. He never had to. The principle extends to resource use generally: petrol, in Mollison's assessment, has almost never been productively used — it creates disorder in society and ecology alike. The few exceptions ("restitutional uses") are vastly outnumbered by wasteful and destructive applications.
+Drawing on tribal lore, Mollison proposed that one should only carry out necessitous acts — that non-necessitous behavior tends to be very destructive. He illustrated this with a personal experiment: living in the bush and deciding not to cut down a tree unless absolutely necessary. He never had to. The principle extends to resource use generally: petrol, in Mollison"s assessment, has almost never been productively used — it creates disorder in society and ecology alike. The few exceptions ("restitutional uses") are vastly outnumbered by wasteful and destructive applications.
 
 ## The Landscape Responds
 

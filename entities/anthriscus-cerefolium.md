@@ -10,7 +10,6 @@ date: 2026-05-08
 updated: 2026-05-08
 sources:
   - Rivera D, et al. (2006). "The ethnobotanical study of local wild food plants in the Guadiana Valley." Journal of Food Agriculture and Environment, 4(1), 55–64.---
----
 
 ## Overview
 

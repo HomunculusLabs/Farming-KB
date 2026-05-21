@@ -11,7 +11,7 @@ tags: [cultivation, fungi]
 
 ## Teaming with Fungi - Truffle Cultivation Basics
 
-Jeff Lowenfels' "Teaming with Fungi" covers truffle cultivation as a prominent example of the commercial potential of [[comparison-soil-food-web-vs-arbuscular-mycorrhizal-fungi]] fungi used in agriculture:
+Jeff Lowenfels" "Teaming with Fungi" covers truffle cultivation as a prominent example of the commercial potential of [[comparison-soil-food-web-vs-arbuscular-mycorrhizal-fungi]] fungi used in agriculture:
 
 - **Host range**: Ectomycorrhizal fungi associate primarily with trees -- members of Pinaceae (pines), Fagaceae (oaks, beeches), Betulaceae (birches), Salicaceae (poplars, willows), Dipterocarpaceae (tropical hardwoods), and Myrtaceae (eucalyptus, myrtle)
 - **Reproduction**: Most ectomycorrhizal fungi reproduce sexually via large sporocarps (mushrooms, truffles, puffballs), unlike arbuscular fungi which reproduce primarily asexually through spores
@@ -20,7 +20,7 @@ Jeff Lowenfels' "Teaming with Fungi" covers truffle cultivation as a prominent e
 
 ## Animal Vectors and Spore Dispersal
 
-Truffles have co-evolved with animals as their primary spore dispersal mechanism. Lowenfels describes the Kaibab squirrel (Sciurus aberti) of the Grand Canyon, which eats truffles of a mycorrhizal fungus growing on ponderosa pine roots. The sporocarps are full of water, nitrogen-fixing bacteria, yeast, and fungal spores, all of which pass through the squirrel's digestive system and are deposited in fecal pellets. The squirrel thus becomes a major vector for distributing fungal spores -- without it, there would be no ectomycorrhizae to support the trees. Similar relationships exist worldwide with wild pigs, deer, rodents, and other mammals.
+Truffles have co-evolved with animals as their primary spore dispersal mechanism. Lowenfels describes the Kaibab squirrel (Sciurus aberti) of the Grand Canyon, which eats truffles of a mycorrhizal fungus growing on ponderosa pine roots. The sporocarps are full of water, nitrogen-fixing bacteria, yeast, and fungal spores, all of which pass through the squirrel"s digestive system and are deposited in fecal pellets. The squirrel thus becomes a major vector for distributing fungal spores -- without it, there would be no ectomycorrhizae to support the trees. Similar relationships exist worldwide with wild pigs, deer, rodents, and other mammals.
 
 This animal-mediated dispersal has practical implications for cultivation: some truffle operations have experimented with intentionally introducing animals to inoculated orchards to spread spores and establish new mycorrhizal colonies.
 
@@ -47,7 +47,7 @@ Truffle orchards typically require 5-15 years from planting to first significant
 
 ### The Brule
 
-A characteristic sign of truffle-producing areas is the "brule" (burned area) -- a zone of reduced vegetation around the base of host trees where the mycorrhizal fungus suppresses competing plants. This creates a visible indicator for truffle hunters and reflects the fungus's ability to produce allelopathic chemicals that inhibit other vegetation.
+A characteristic sign of truffle-producing areas is the "brule" (burned area) -- a zone of reduced vegetation around the base of host trees where the mycorrhizal fungus suppresses competing plants. This creates a visible indicator for truffle hunters and reflects the fungus"s ability to produce allelopathic chemicals that inhibit other vegetation.
 
 ### Maintenance
 

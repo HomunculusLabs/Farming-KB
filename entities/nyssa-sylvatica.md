@@ -30,7 +30,7 @@ growth forests.
 
 **Nyssa sylvatica** Marsh. was described by Humphrey Marshall in 1785. The
 genus name honors the mythological Greek water nymph Nyssa, reflecting the
-tree's affinity for wet habitats. The specific epithet *sylvatica* means "of
+tree"s affinity for wet habitats. The specific epithet *sylvatica* means "of
 the forest." It is classified in the family Nyssaceae, though some treatments
 place it in Cornaceae.
 

@@ -1,5 +1,5 @@
 ---
-title: Fukuoka's Four four-principles-of-natural-farming Farming
+title: Fukuoka"s Four four-principles-of-natural-farming Farming
 created: 2026-04-28
 tags:
   - natural-farming

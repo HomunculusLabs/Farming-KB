@@ -53,7 +53,7 @@ The dominant terpenes in Chemdawg 91 are caryophyllene, myrcene, and limonene.
 
 Caryophyllene contributes the peppery, diesel-like pungency and is the most abundant terpene.
 
-Myrcene adds earthy, musky notes and contributes to the strain's sedative physical effects.
+Myrcene adds earthy, musky notes and contributes to the strain"s sedative physical effects.
 
 Limonene provides citrus undertones and is associated with mood elevation and stress relief.
 

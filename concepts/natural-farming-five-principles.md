@@ -19,7 +19,7 @@ nature itself is the best farmer, and that human intervention in growing food â€
 through tillage, fertilizers, pesticides, weeding, and pruning â€” is largely
 unnecessary and often destructive.
 
-The philosophy emerged from Fukuoka's youth, when a certain turn of events set
+The philosophy emerged from Fukuoka"s youth, when a certain turn of events set
 him on what he called "the proud and lonely road back to nature." He came to
 believe that people were "no longer truly human, and nature no longer truly
 natural," and devoted his life to demonstrating that farming could be done in
@@ -39,7 +39,7 @@ principles through decades of practice and consistent harvests.
 ### 1. No Tillage
 
 Plowing and tilling disrupt the soil ecosystem, destroying fungal networks,
-earthworm channels, and the natural structure that plants depend on. Fukuoka's
+earthworm channels, and the natural structure that plants depend on. Fukuoka"s
 fields were not plowed for over thirty years, yet consistently produced
 above-average yields. The soil is worked instead by the roots of living plants,
 the burrowing of small animals, and the decomposition of organic matter on the

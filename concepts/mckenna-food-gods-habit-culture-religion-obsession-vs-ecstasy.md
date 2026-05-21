@@ -1,7 +1,7 @@
 ---
 title: "Habit, Culture, Religion: Obsession vs. Ecstasy"
 source: mckenna_t-food_of_the_gods.md
-topic: "McKenna's framework of habit, culture, and the tension between obsession and ecstasy"
+topic: "McKenna"s framework of habit, culture, and the tension between obsession and ecstasy"
 type: concept
 tags:
   - habit
@@ -29,7 +29,7 @@ forms, replaced the direct experience of the divine with the demand
 for faith in a distant, judgmental deity whose will was communicated
 through scriptures and interpreted by a male priestly caste. Ecstasy
 became heresy. The shaman became the witch. The sacred plant became
-the devil's tool. The mystery cults were closed, the Eleusinian
+the devil"s tool. The mystery cults were closed, the Eleusinian
 mysteries were suppressed, and the entire tradition of direct
 experience-based religion was driven underground or extinguished.
 For McKenna, this was not spiritual progress but spiritual

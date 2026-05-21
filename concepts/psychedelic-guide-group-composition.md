@@ -10,7 +10,7 @@ type: concept
 
 ## Overview
 
-Leary's manual identifies **[[lsd-set-and-setting-framework]]** as the two primary variables determining the quality and direction of a psychedelic experience, with the **[[psychedelic-guide]]** and **group composition** serving as critical extensions of the setting. When the ego and cognitive mind are suspended under psychedelics, the external environment and the people within it gain enormous influence over the voyage.
+Leary"s manual identifies **[[lsd-set-and-setting-framework]]** as the two primary variables determining the quality and direction of a psychedelic experience, with the **[[psychedelic-guide]]** and **group composition** serving as critical extensions of the setting. When the ego and cognitive mind are suspended under psychedelics, the external environment and the people within it gain enormous influence over the voyage.
 
 ## Set and Setting Framework
 
@@ -60,7 +60,7 @@ The physical and social environment must be deliberately arranged to support the
 
 ### Sensory Elements
 
-- **Music** — carefully selected to support the journey's phases
+- **Music** — carefully selected to support the journey"s phases
 - **Lighting** — adjustable, soft, non-intrusive
 - **Food** — simple, ancient foods: bread, cheese, wine, fresh fruit
 
@@ -87,7 +87,7 @@ Leary likens the guide to an airport control tower operator. Just as an air traf
 
 ### The Problem of Fear
 
-Leary identifies **fear** as the greatest danger in guided sessions. He states that almost every negative LSD reaction is caused not by the drug itself but by the **guide's fear augmenting the subject's transient fear**. A guide who becomes anxious or controlling can trigger cascading panic.
+Leary identifies **fear** as the greatest danger in guided sessions. He states that almost every negative LSD reaction is caused not by the drug itself but by the **guide"s fear augmenting the subject's transient fear**. A guide who becomes anxious or controlling can trigger cascading panic.
 
 ### Guide Routine
 

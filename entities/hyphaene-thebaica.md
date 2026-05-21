@@ -11,7 +11,7 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Wickens, G.E. (1982). "The Baobab: Africa's Upside-Down Tree." Kew Bulletin 37(2): 173-209.
+  - Wickens, G.E. (1982). "The Baobab: Africa"s Upside-Down Tree." Kew Bulletin 37(2): 173-209.
 ---
 
 ## Overview

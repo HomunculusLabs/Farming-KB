@@ -53,7 +53,7 @@ Swales integrated into forest systems provide multiple advantages:
 ### Specialized Cultivation
 
 Mollison specifically highlights swales as ideal sites for:
-- **[[ginseng-cultivation-and-medicinal-properties]]**: The moist, shaded, well-drained conditions along swale berms suit ginseng's requirements
+- **[[ginseng-cultivation-and-medicinal-properties]]**: The moist, shaded, well-drained conditions along swale berms suit ginseng"s requirements
 - **Blueberry production**: Blueberries thrive in the acidic, moisture-retentive soils that develop in swale systems
 
 ## Pond Sealing Techniques

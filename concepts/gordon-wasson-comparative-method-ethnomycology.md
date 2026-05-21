@@ -10,7 +10,7 @@ sources:
 
 ## Gordon Wasson and the Comparative Method in Ethnomycology
 
-Gordon Wasson's influential theories about mushroom symbolism and the universality of psychedelic mushroom cults were deeply rooted in the Frazerian comparative method — an approach that had already been rejected within professional anthropology by the time Wasson developed his mushroom thesis.
+Gordon Wasson"s influential theories about mushroom symbolism and the universality of psychedelic mushroom cults were deeply rooted in the Frazerian comparative method — an approach that had already been rejected within professional anthropology by the time Wasson developed his mushroom thesis.
 
 ## The Frazerian Legacy
 
@@ -38,13 +38,13 @@ By the time Wasson was developing his theories, the arguments about cultural evo
 
 The principal objection to the Frazerian comparative method was that it attempts to make data fit theory rather than vice versa. The selection process inevitably reflected the class, gender, and cultural biases of the scholars — cherry-picking evidence from sources widely separated by distance and time stripped it of the all-important context in which it originally occurred.
 
-Boas's critique was devastating: without the framework of cultural evolution, the Frazerian search for "survivals" had no theoretical justification. Similar customs in different cultures did not necessarily share a common origin, and stripping customs of their cultural context to compare them across space and time produced misleading rather than illuminating results.
+Boas"s critique was devastating: without the framework of cultural evolution, the Frazerian search for "survivals" had no theoretical justification. Similar customs in different cultures did not necessarily share a common origin, and stripping customs of their cultural context to compare them across space and time produced misleading rather than illuminating results.
 
 ## The Mycophilia/Mycophobia Dichotomy
 
-Wasson's most influential contribution to ethnomycology was his proposed dichotomy between "mycophilic" (mushroom-loving) and "mycophobic" (mushroom-fearing) cultures. He argued that this division was ancient and deep-rooted, reflecting an original cultural split between those who venerated psychoactive mushrooms and those who tabooed them.
+Wasson"s most influential contribution to ethnomycology was his proposed dichotomy between "mycophilic" (mushroom-loving) and "mycophobic" (mushroom-fearing) cultures. He argued that this division was ancient and deep-rooted, reflecting an original cultural split between those who venerated psychoactive mushrooms and those who tabooed them.
 
-While intuitively appealing, the dichotomy oversimplifies a complex reality. Most cultures contain elements of both attitudes, and the binary classification often obscures more than it reveals about specific cultural relationships with fungi. The [[pihkal-cautionary-note-and-legal-context]] in indigenous cultures shows that taboos surrounding psychoactive plants are typically selective and contextual rather than universal, further undermining Wasson's argument.
+While intuitively appealing, the dichotomy oversimplifies a complex reality. Most cultures contain elements of both attitudes, and the binary classification often obscures more than it reveals about specific cultural relationships with fungi. The [[pihkal-cautionary-note-and-legal-context]] in indigenous cultures shows that taboos surrounding psychoactive plants are typically selective and contextual rather than universal, further undermining Wasson"s argument.
 
 The [polymorphic nature of mushroom symbolism further complicates the taboo argument. Mushrooms can be taboo for many reasons -- not all related to psychoactive properties. Their association with decay, poison, and the underworld makes them natural candidates for taboo status regardless of any entheogenic history.
 

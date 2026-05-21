@@ -23,7 +23,7 @@ theologically loaded phrase that resonated with Christian sacramental
 language and consequently drew the intense hostility of Spanish
 missionaries.
 
-## Bernardino de Sahagun's Florentine Codex
+## Bernardino de Sahagun"s Florentine Codex
 
 The most important primary source on Aztec mushroom use is the work of
 Bernardino de Sahagun (c. 1499-1590), a Franciscan friar who arrived in

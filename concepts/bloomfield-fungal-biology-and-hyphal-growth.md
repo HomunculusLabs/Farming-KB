@@ -12,7 +12,7 @@ sources:
 
 ## Overview
 
-Fungi are eukaryotic organisms that flourish by burrowing into solid substances and transforming them into food. They penetrate the toughest leaves, woody tissues, skin, bone, and even granite. [[nicholas-money]]'s "Mr. Bloomfield's Orchard."
+Fungi are eukaryotic organisms that flourish by burrowing into solid substances and transforming them into food. They penetrate the toughest leaves, woody tissues, skin, bone, and even granite. [[nicholas-money]]"s "Mr. Bloomfield"s Orchard."
 
 ## Hyphal Architecture
 

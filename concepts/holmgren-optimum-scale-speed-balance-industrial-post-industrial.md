@@ -9,7 +9,7 @@ tags: [permaculture, scale, speed, energy-descent, holmgren, design, balance]
 
 ## Overview
 
-Holmgren's principle "Use Small [[holmgren-fossil-fuel-pulse-and-energy-descent-cycle]] scale to natural, human-scale systems, we
+Holmgren"s principle "Use Small [[holmgren-fossil-fuel-pulse-and-energy-descent-cycle]] scale to natural, human-scale systems, we
 constantly search for big answers that don't work. Most prospective rivers
 have been dammed; large dams' environmental impacts preclude new projects.
 But substantial potential exists for small-scale hydro — mini (for a small
@@ -117,5 +117,3 @@ Collaborative research networks facilitate knowledge exchange and accelerate inn
 Context-specific implementation requires attention to local ecology, climate patterns, and community needs.
 Integration with existing systems often yields better results than complete replacement strategies.
 Monitoring and adaptive management are essential for long-term success and continuous improvement.
-## Practical Applications
-The principles discussed here have direct applications in agricultural systems, ecological restoration, and sustainable resource management.

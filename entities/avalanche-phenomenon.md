@@ -8,7 +8,7 @@ type: entity
 
 ## Description
 
-An avalanche phenomenon is a rapid flow of snow down a sloping surface, representing one of the most powerful and destructive natural phenomena in mountainous and cold-climate regions. Avalanches can incorporate not only snow but also mud, boulders, clay, and vegetation, generating forces that destroy forests, infrastructure, and buildings across their path. Mollison provides extensive technical coverage of avalanche mechanics, drawing heavily on G.M. Kuaeva's 1975 research on the Greater Caucasus, and integrates this knowledge into cold-climate [[permaculture-design-principles]].
+An avalanche phenomenon is a rapid flow of snow down a sloping surface, representing one of the most powerful and destructive natural phenomena in mountainous and cold-climate regions. Avalanches can incorporate not only snow but also mud, boulders, clay, and vegetation, generating forces that destroy forests, infrastructure, and buildings across their path. Mollison provides extensive technical coverage of avalanche mechanics, drawing heavily on G.M. Kuaeva"s 1975 research on the Greater Caucasus, and integrates this knowledge into cold-climate [[permaculture-design-principles]].
 
 ## Classification
 

@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-The [[complete-organic-fertilizer-cof]] (COF) is [[steve-solomon]]'s carefully formulated blend of organic amendments designed to provide vegetables with all essential major and trace minerals in balanced proportions. Unlike simple compost or manure, the COF addresses the specific mineral balance needed for maximum nutritional quality in harvested vegetables.
+The [[complete-organic-fertilizer-cof]] (COF) is [[steve-solomon]]"s carefully formulated blend of organic amendments designed to provide vegetables with all essential major and trace minerals in balanced proportions. Unlike simple compost or manure, the COF addresses the specific mineral balance needed for maximum nutritional quality in harvested vegetables.
 
 ## Why COF Instead of Compost or Manure Alone
 
@@ -130,7 +130,7 @@ COF ingredients are not immediately soluble — they release nutrients as soil m
 - In hot climates with sandy soils, COF releases faster and the effect lasts shorter
 - In cool climates with heavy soils, COF releases more slowly but lasts longer
 
-This slow-release biology means nutrients are available as plants need them, with minimal waste through leaching. It also feeds the soil ecosystem, which in turn provides "biological vitamins" (Krasil'nikov's term) that enhance plant nutrition beyond what mineral analysis alone would predict.
+This slow-release biology means nutrients are available as plants need them, with minimal waste through leaching. It also feeds the soil ecosystem, which in turn provides "biological vitamins" (Krasil"nikov's term) that enhance plant nutrition beyond what mineral analysis alone would predict.
 
 ## Why Chemical Fertilizers Are Problematic
 

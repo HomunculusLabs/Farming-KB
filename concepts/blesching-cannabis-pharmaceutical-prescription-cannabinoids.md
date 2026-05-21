@@ -9,7 +9,7 @@ tags: [cannabis, pharmaceutical, dronabinol, nabilone, sativex, marinol, FDA, pr
 
 ## Overview
 
-[[blesching-cannabis-cannabinoid-terpene-entourage-effect]], where multiple cannabis compounds work synergistically. Patients using dronabinol may experience stronger psychoactive effects than those using balanced whole-plant preparations because CBD normally modulates THC's psychoactivity.
+[[blesching-cannabis-cannabinoid-terpene-entourage-effect]], where multiple cannabis compounds work synergistically. Patients using dronabinol may experience stronger psychoactive effects than those using balanced whole-plant preparations because CBD normally modulates THC"s psychoactivity.
 
 ## Nabilone (Cesamet)
 

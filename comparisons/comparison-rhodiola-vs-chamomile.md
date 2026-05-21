@@ -3,7 +3,7 @@ title: "Rhodiola vs Chamomile"
 tags: [comparison, rhodiola, chamomile, adaptogens, nervines, medicinal-herbs]
 date: 2026-05-14
 updated: 2026-05-14
-sources: ['raw/papers/amanita-muscaria-herb-of-immortality.md']
+sources: ["raw/papers/amanita-muscaria-herb-of-immortality.md']
 ---
 
 ## Rhodiola vs Chamomile

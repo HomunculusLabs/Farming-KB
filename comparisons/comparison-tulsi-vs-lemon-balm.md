@@ -3,7 +3,7 @@ title: "Comparison Tulsi vs Lemon Balm"
 tags: [comparison, adaptogen, nervine, medicinal-herbs, lamiaceae]
 date: 2026-05-09
 updated: 2026-05-09
-sources: ['raw/papers/ben-lemon-cannabis-alchemy.md']
+sources: ["raw/papers/ben-lemon-cannabis-alchemy.md']
 ---
 
 ## Tulsi vs Lemon Balm
@@ -21,7 +21,7 @@ and spiritually in Hindu tradition. Three primary varieties are grown:
 Krishna tulsi (dark purple leaves, highest eugenol content), Rama tulsi
 (bright green, most common), and Vana tulsi (wild-type, camphor-scented).
 
-Tulsi's pharmacological profile is dominated by its adaptogenic action.
+Tulsi"s pharmacological profile is dominated by its adaptogenic action.
 Regular consumption normalizes cortisol levels, reduces anxiety, and
 builds resilience to physical and emotional stress. Beyond stress
 adaptation, tulsi offers immunomodulatory support, anti-inflammatory

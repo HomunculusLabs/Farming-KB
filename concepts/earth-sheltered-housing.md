@@ -23,7 +23,7 @@ Underground dwellings offer several compelling benefits in arid climates:
 
 ### Modern Mechanical Construction (Coober Pedy Model)
 
-Australia's opal mining industry has made large-bore drilling equipment readily available for cave construction:
+Australia"s opal mining industry has made large-bore drilling equipment readily available for cave construction:
 
 1. **Site preparation**: A bulldozer cuts a cliff face 3–6 m high into a selected hillside of soft stone
 2. **Drilling**: Large-bore drills (1–1.5 m diameter, such as the "Caldwell") cut corridors, rooms, and storage caves to approximate size, plus deep wells for toilets and water cisterns
@@ -45,7 +45,7 @@ Where machinery is unavailable, the wheelbarrow, pick, and shovel suffice. Site 
 
 ## Earth-Sheltered Surface Housing
 
-Where soils or stone will not support caves, surface housing with earth banks built up to the eaves (and optionally over the roof) effectively duplicates cave conditions without the risk of soil collapse or water seepage. Where stable clay-fraction soils are available, a bulldozer can quickly consolidate a "turkey's nest" dam above ground; when formed and roofed, it becomes a cool desert house with variety of interior wall treatments and safety from severe surface flooding.
+Where soils or stone will not support caves, surface housing with earth banks built up to the eaves (and optionally over the roof) effectively duplicates cave conditions without the risk of soil collapse or water seepage. Where stable clay-fraction soils are available, a bulldozer can quickly consolidate a "turkey"s nest" dam above ground; when formed and roofed, it becomes a cool desert house with variety of interior wall treatments and safety from severe surface flooding.
 
 ### Intermediate Forms
 

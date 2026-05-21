@@ -48,7 +48,7 @@ The CO₂ mechanism is especially relevant for pests like aphids, whiteflies, an
 
 ### Alcohol Consumption by Microbes
 
-Beneficial microorganisms on leaf surfaces can metabolize alcohols and other fermentation byproducts. Some insect pests use these compounds as chemical signals to locate host plants. When the microbial community consumes these signaling compounds, it disrupts the pest's ability to find and identify the plant, reducing infestation rates. This mechanism is subtle but contributes to the overall protective effect of a biologically active phyllosphere.
+Beneficial microorganisms on leaf surfaces can metabolize alcohols and other fermentation byproducts. Some insect pests use these compounds as chemical signals to locate host plants. When the microbial community consumes these signaling compounds, it disrupts the pest"s ability to find and identify the plant, reducing infestation rates. This mechanism is subtle but contributes to the overall protective effect of a biologically active phyllosphere.
 
 This alcohol-metabolizing activity also has implications for disease prevention. Many leaf surface yeasts and bacteria produce ethanol and other short-chain alcohols as metabolic byproducts. While these compounds are generally present at concentrations too low to harm the plant, they serve as food sources for a diverse community of acetic acid bacteria and other alcohol-consuming organisms. The presence of this secondary consumer community indicates a mature, well-developed phyllosphere food web — exactly the kind of biological complexity associated with effective disease suppression.
 

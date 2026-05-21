@@ -29,7 +29,7 @@ of sun, earth, and water.
 JADAM coined the term "natural leaching of minerals" to describe this
 process. The surface-layer soil where most crop roots reside is called the
 "plow layer," typically about one meter (3.3 ft) deep. About 96% of a
-plant's dried mass comes from organic nutrients (C, H, O), while only 4%
+plant"s dried mass comes from organic nutrients (C, H, O), while only 4%
 comes from inorganic nutrients. However, that 4% is critically important for
 crop health and produce quality.
 

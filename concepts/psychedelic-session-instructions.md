@@ -33,7 +33,7 @@ The Second Bardo involves game hallucinations and visionary experiences. The ins
 2. **Game hallucinations** — structured visions and symbolic content.
 3. **Re-Entry** — return to ordinary ego-consciousness.
 
-The central advice is: **"Do not cling in fondness and weakness to your old self."** The key secret is *recognition* — all apparitions are one's own thought-forms projected from within. The text warns: "If you do not recognize your own thought forms, if you forget your preparation, the lights will daunt you, the sounds will awe you, the rays will terrify you, the people around you will confuse you." The essential instruction is:
+The central advice is: **"Do not cling in fondness and weakness to your old self."** The key secret is *recognition* — all apparitions are one"s own thought-forms projected from within. The text warns: "If you do not recognize your own thought forms, if you forget your preparation, the lights will daunt you, the sounds will awe you, the rays will terrify you, the people around you will confuse you." The essential instruction is:
 
 > "The key to enlightenment: Relax. Merge yourself with them. Blissfully accept the wonders of your own creativity. Become neither attached nor afraid."
 
@@ -51,7 +51,7 @@ The Seven Visions of the Second Bardo form a progressive sequence from internal 
 | 6 | [[retinal-circus-and-magic-theatre]] | Both | Sensory kaleidoscope |
 | 7 | Magic Theatre | Both | Mythical figures |
 
-This structure shows the manual's systematic approach: the first three visions are introverted (eyes closed, attending to inner processes), the next two are extroverted (eyes open, engaging with external stimuli), and the final two integrate both modes.
+This structure shows the manual"s systematic approach: the first three visions are introverted (eyes closed, attending to inner processes), the next two are extroverted (eyes open, engaging with external stimuli), and the final two integrate both modes.
 
 ### Vision 1 — The Source (Radiant Energy of the Seed)
 
@@ -79,7 +79,7 @@ The unity of all living forms becomes apparent. If people seem "rubbery and life
 
 ### Vision 6 — Retinal Circus
 
-Kaleidoscopic patterns and the ceaseless play of elements unfold — "Earth, water, air, fire, in ever-changing forms and manifestations" that "dazzle you with its complexity and variety." The voyager is told to "relax and enjoy the rushing stream" and "do not become attached to any vision or revelation." This is described as "a great lesson in the creativity and power of the brain, freed from its learned structures." By meditating calmly on the knowledge that all visions are emanations of one's own consciousness, the voyager "can obtain self-knowledge and be liberated."
+Kaleidoscopic patterns and the ceaseless play of elements unfold — "Earth, water, air, fire, in ever-changing forms and manifestations" that "dazzle you with its complexity and variety." The voyager is told to "relax and enjoy the rushing stream" and "do not become attached to any vision or revelation." This is described as "a great lesson in the creativity and power of the brain, freed from its learned structures." By meditating calmly on the knowledge that all visions are emanations of one"s own consciousness, the voyager "can obtain self-knowledge and be liberated."
 
 ### Vision 7 — Magic Theatre
 

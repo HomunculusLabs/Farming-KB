@@ -39,7 +39,7 @@ A greenhouse extends the growing season, protects crops from weather, and enable
 
 **Low Tunnel** — Metal or PVC hoops covered with row cover or poly film. 3-4 ft tall, any length. Portable, excellent for [[cover-cropping-guide]] beds and season extension. Cost: $0.50-1.00/linear ft.
 
-**High Tunnel / Hoop House** — Quonset or gothic arch, 12-30 ft wide, any length. No permanent heating. Roll-up sides for ventilation. The core homestead workhorse — Eliot Coleman's "unheated greenhouse" model. Cost: $2-6/sq ft (DIY) to $8-15/sq ft (kit).
+**High Tunnel / Hoop House** — Quonset or gothic arch, 12-30 ft wide, any length. No permanent heating. Roll-up sides for ventilation. The core homestead workhorse — Eliot Coleman"s "unheated greenhouse" model. Cost: $2-6/sq ft (DIY) to $8-15/sq ft (kit).
 
 **Attached Lean-To** — Shares a wall with an existing structure. Good passive solar gain from the house wall as thermal mass. Limited by available wall length. Structural attachment must handle wind/snow loads.
 

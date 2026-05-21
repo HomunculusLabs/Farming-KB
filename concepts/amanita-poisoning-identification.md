@@ -57,7 +57,7 @@ A significant therapeutic advance discussed in the 19th-century literature was t
 atropine. Derived from *Atropa belladonna*, atropine was employed to counteract the
 muscarinic effects of certain mushroom toxins. While specifically effective against
 muscarine-containing mushrooms (such as *Inocybe* and *Clitocybe* species) rather than
-amatoxins directly, its inclusion in Amanita treatment protocols reflected the era's
+amatoxins directly, its inclusion in Amanita treatment protocols reflected the era"s
 limited pharmacological understanding, when distinct toxin profiles within the genus had
 not yet been fully differentiated.
 
@@ -98,7 +98,7 @@ misleading and potentially fatal. He emphasized that safety required careful mor
 examination and systematic [[cannabis-sativa-taxonomy-botanical-classification]], not folk wisdom. Though this placed
 him at odds with conventional thinking, subsequent poisonings repeatedly vindicated him.
 
-## Dr. Palmer's Pioneering Work in Amanita Identification
+## Dr. Palmer"s Pioneering Work in Amanita Identification
 
 Dr. Julius Auboineau Palmer was one of the first American advocates for systematic
 [[palmer-mushroom-charts-american-mycological-education]]. Recognizing the lethal consequences of public ignorance, he

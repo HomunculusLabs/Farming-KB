@@ -1,5 +1,5 @@
 ---
-title: "Fukuoka on California's Desertification and the Myth of Natural Aridity"
+title: "Fukuoka on California"s Desertification and the Myth of Natural Aridity"
 source: masanobu-fukuoka-the-road-back-to-nature
 topics: desertification, california, ecology, climate, water-cycle, vegetation-rainfall
 ---

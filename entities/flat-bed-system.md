@@ -21,7 +21,7 @@ The flat bed system is the most widely used bed construction method in American 
 
 ## Bed Dimensions and Construction
 
-Duggar's specifications for flat bed construction:
+Duggar"s specifications for flat bed construction:
 
 - **Depth**: 8 to 10 inches after proper compression
 - **Construction**: Compost is pitched into the designated area and compressed
@@ -95,7 +95,7 @@ The tier system is critical for space efficiency in flat bed operations:
 
 ## Historical Context
 
-The flat bed system was the dominant method in England and became the standard in American commercial mushroom cultivation. Duggar (1915) describes it as "more generally employed in this country" (United States) and notes that it requires less labor than the French [[ridge-bed-system]]. The system's simplicity and compatibility with purpose-built mushroom houses contributed to its widespread adoption in the United States.
+The flat bed system was the dominant method in England and became the standard in American commercial mushroom cultivation. Duggar (1915) describes it as "more generally employed in this country" (United States) and notes that it requires less labor than the French [[ridge-bed-system]]. The system"s simplicity and compatibility with purpose-built mushroom houses contributed to its widespread adoption in the United States.
 
 ## Modern Evolution
 

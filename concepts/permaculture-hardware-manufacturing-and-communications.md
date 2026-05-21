@@ -16,7 +16,7 @@ The central manufacturing principle is local production within range of users. M
 - Well-off clients should be encouraged to install processing facilities that serve their entire district
 - There is no point in having 5,000 husking systems operating in parallel when one shared facility could serve all
 
-## The Yeoman's Plow Model
+## The Yeoman"s Plow Model
 
 [[geoff-wallace]]'s plow demonstrates the distributed manufacturing approach. Production is split across multiple small operators:
 
@@ -73,7 +73,7 @@ Tanks are identified as a critically lacking hardware item in America. The most 
 
 ## Vehicle Strategy
 
-The Tagari community's vehicle approach demonstrates institutional purchasing power:
+The Tagari community"s vehicle approach demonstrates institutional purchasing power:
 
 1. **Fleet registration**: 51 consultants' 17 Toyotas registered as a fleet
 2. **Manufacturer negotiation**: Toyota offered 15% off list price for the fleet arrangement

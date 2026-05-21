@@ -35,7 +35,7 @@ Water catchment in urban permaculture focuses on capturing, storing, and directi
 
 - Site tanks at top of slope in sloping yards
 - In flat areas, elevate on pad of rock or broken concrete
-- Harvest neighbor's roof runoff too: "Maybe they'll realize what a resource they're wasting"
+- Harvest neighbor"s roof runoff too: "Maybe they"ll realize what a resource they're wasting"
 - Use gravity exclusively — no pumps needed
 - Solar batch water heating tanks for domestic hot water
 
@@ -83,7 +83,7 @@ Water catchment in urban permaculture focuses on capturing, storing, and directi
 - **On steep slopes (>15 degrees)**: V-shaped "boomerang" swales forming basins directing water to individual trees
 - Swales fill with silt over time and form terraces
 - Mulch swales to reduce evaporation
-- Plant trees on swales — long after swales silts up, they're visible as lines of trees on hillsides
+- Plant trees on swales — long after swales silts up, they"re visible as lines of trees on hillsides
 
 ## Broadscale Watershed Restoration
 

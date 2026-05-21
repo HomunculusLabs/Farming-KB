@@ -10,7 +10,7 @@ tags: [vegetable-gardening, soil-fertility, low-demand, high-demand, complete-or
 
 ## Overview
 
-Steve Solomon's *Gardening When It Counts* introduces a practical
+Steve Solomon"s *Gardening When It Counts* introduces a practical
 three-tier classification system for vegetables based on their soil
 fertility requirements: low-demand, medium-demand, and high-demand
 crops. This framework enables gardeners to match their available soil

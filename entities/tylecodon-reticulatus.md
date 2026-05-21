@@ -23,7 +23,7 @@ In spring, it produces tall inflorescences bearing nodding, tubular flowers in s
 
 The plant contains cardiac glycosides and is toxic to livestock in its native range. Despite its toxicity, it is prized in cultivation for its sculptural stem form and seasonal flowers.
 
-Tylecodon species were formerly classified within the genus *Cotyledon* until Tölken's 1978 revision separated them based on leaf arrangement and dormancy patterns.
+Tylecodon species were formerly classified within the genus *Cotyledon* until Tölken"s 1978 revision separated them based on leaf arrangement and dormancy patterns.
 
 It has a relatively slow growth rate, with mature specimens taking 10–15 years to develop their characteristic thick stems. This slow growth contributes to its value among succulent enthusiasts.
 

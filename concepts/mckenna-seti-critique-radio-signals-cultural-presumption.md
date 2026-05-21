@@ -8,7 +8,7 @@ aliases: [SETI Critique, Radio Signal Extraterrestrial Search, Cultural Bias in
   Astrobiology]
 ---
 
-## McKenna's Critique of SETI — Radio Signals as Cultural Presumption
+## McKenna"s Critique of SETI — Radio Signals as Cultural Presumption
 
 [[mckenna-tryptamine-hallucinogens-and-consciousness]]
 consciousness, launched a pointed critique of the Search for Extraterrestrial
@@ -67,7 +67,7 @@ deliberately structured information — alien meaning that "cannot be Englished"
 but that nonetheless conveys genuine content about the nature of reality,
 consciousness, and the organization of intelligence in the galaxy.
 
-This connects to McKenna's broader argument that the human cerebral cortex is
+This connects to McKenna"s broader argument that the human cerebral cortex is
 "the most richly organized material in the universe" and that the densest
 experience occurring anywhere is the experience being had right now by the
 [[mckenna-stropharia-cubensis-extraterrestrial-hypothesis-spore-dispersal]]

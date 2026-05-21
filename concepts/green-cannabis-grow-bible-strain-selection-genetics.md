@@ -10,7 +10,7 @@ tags: [cannabis]
 
 ## Strain Selection and Genetics
 
-Greg Green's [[cannabis-microbiome-otu-abundance-vs-presence-cannabis-strains]] based on species, genetics, and
+Greg Green"s [[cannabis-microbiome-otu-abundance-vs-presence-cannabis-strains]] based on species, genetics, and
 desired effects.
 
 ## The Three Cannabis Species

@@ -8,7 +8,7 @@ tags: [soil-science, mycorrhizae, glomalin, soil-aggregation, soil-food-web, com
 
 ## Overview
 
-Glomalin is a glycoprotein produced by arbuscular mycorrhizal fungi (AMF) that acts as a biological binding agent in soil. Discovered by USDA researcher Sara F. Wright in 1996, glomalin is now recognized as one of the most significant contributors to soil aggregate stability, carbon sequestration, and overall soil health. Dr. Elaine Ingham's work on the soil food web places glomalin as a central product of healthy fungal communities in soil.
+Glomalin is a glycoprotein produced by arbuscular mycorrhizal fungi (AMF) that acts as a biological binding agent in soil. Discovered by USDA researcher Sara F. Wright in 1996, glomalin is now recognized as one of the most significant contributors to soil aggregate stability, carbon sequestration, and overall soil health. Dr. Elaine Ingham"s work on the soil food web places glomalin as a central product of healthy fungal communities in soil.
 
 ## What Is Glomalin?
 

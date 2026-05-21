@@ -60,7 +60,7 @@ CBG demonstrates dual [[cancer-immune-modulation-mechanisms]].
   enzymes for THC/CBD
 
 ## Relevance
-CBG's role as the biosynthetic precursor to all major cannabinoids makes
+CBG"s role as the biosynthetic precursor to all major cannabinoids makes
 it foundational to understanding cannabis chemistry. While often
 overlooked due to its low concentrations, CBG's dual CB1/CB2 receptor
 binding profile gives it unique therapeutic potential. The growing

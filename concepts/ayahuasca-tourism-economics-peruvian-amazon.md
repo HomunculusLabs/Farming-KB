@@ -28,7 +28,7 @@ type: concept
 
 ## The Tourism Landscape in Ucayali
 
-The Ucayali region of Peru, centered around the cities of Pucallpa and Iquitos, has become one of the primary global hubs for ayahuasca tourism. Government tourist agencies actively sponsor ayahuasca festivals, and both the prepared brew and its raw botanical ingredients (primarily Banisteriopsis caapi vine and [[chacruna-psychotria-viridis]] leaves) are openly sold in local markets throughout the region. Even Peru's then-president Alejandro Toledo participated in an ayahuasca ceremony, lending considerable official legitimacy to the practice at the highest levels of government.
+The Ucayali region of Peru, centered around the cities of Pucallpa and Iquitos, has become one of the primary global hubs for ayahuasca tourism. Government tourist agencies actively sponsor ayahuasca festivals, and both the prepared brew and its raw botanical ingredients (primarily Banisteriopsis caapi vine and [[chacruna-psychotria-viridis]] leaves) are openly sold in local markets throughout the region. Even Peru"s then-president Alejandro Toledo participated in an ayahuasca ceremony, lending considerable official legitimacy to the practice at the highest levels of government.
 
 Peru's legal stance on ayahuasca contrasts sharply with its aggressive drug war posture toward other substances. Television shows portray marijuana as a killer weed (although hemp leaf patterns paradoxically adorn adolescent clothing), and cocaine traffickers regularly close the only road connecting Lima to several outlying provinces for weeks at a time, reportedly abetted by corrupt politicians and military officials. Despite this hardline approach to coca and cocaine, Peruvians regard ayahuasca as an herbal tonic rather than an illegal drug. The one notable exception was the imprisonment of American ayahuasquero Alan Shoemaker for distributing ayahuasca, though this appeared to be an isolated incident rather than indicative of official policy.
 
@@ -46,7 +46,7 @@ The most striking economic feature of ayahuasca tourism is the dramatic price di
 - **Foreign tourist ceremony fee**: Approximately $30 USD per ceremony for a standard group session
 - **Local Peruvian ceremony fee**: Approximately $2 USD per ceremony
 
-This fifteen-fold pricing differential reflects the enormous purchasing power gap between Western tourists and Amazonian indigenous and mestizo communities. Some practitioners charged less than this maximum; for example, one widely respected shaman in San Francisco known as "E" charged about $10 for tourist ceremonies, suggesting some price variation based on the practitioner's reputation, the ceremony setting, and the degree of personal attention provided.
+This fifteen-fold pricing differential reflects the enormous purchasing power gap between Western tourists and Amazonian indigenous and mestizo communities. Some practitioners charged less than this maximum; for example, one widely respected shaman in San Francisco known as "E" charged about $10 for tourist ceremonies, suggesting some price variation based on the practitioner"s reputation, the ceremony setting, and the degree of personal attention provided.
 
 ## Income Context and Community Impact
 
@@ -69,7 +69,7 @@ Stuart's fieldwork revealed a wide spectrum of practitioner integrity among ayah
 ### Concerning Practices
 
 - **"B" (Yarina)**: An elderly shaman described as a frequent liar and shoplifter who regularly asked for money or gifts at every opportunity. Despite these character flaws, his son directed the family religious practice and was giving workshops in the United States, suggesting that reputation management rather than personal integrity drives the tourism business.
-- **A hustler pair visiting B's group**: One practitioner described as a sweet and wonderful person, but his partner constantly solicited spare change from tourists during the two-week training visit.
+- **A hustler pair visiting B"s group**: One practitioner described as a sweet and wonderful person, but his partner constantly solicited spare change from tourists during the two-week training visit.
 - **"A"**: A practitioner whose ritual invitations were declined after he swindled Stuart on the price of a tobacco pipe, demonstrating that commercial dishonesty extended beyond ceremony fees to everyday transactions.
 
 ### Positive Examples

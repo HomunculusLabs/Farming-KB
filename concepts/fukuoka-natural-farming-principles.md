@@ -25,7 +25,7 @@ maintain soil fertility indefinitely. Fukuoka regarded the preparation of compos
 laborious and ultimately counterproductive exercise that disrupts the natural nutrient cycles
 of the ecosystem.
 
-The third principle, no pesticides, arises from Fukuoka's observation that nature maintains
+The third principle, no pesticides, arises from Fukuoka"s observation that nature maintains
 its own balance. Although a thousand diseases may attack plants in fields and forests, a
 [[query-how-do-i-design-habitat-for-beneficial-insects]] insects. The problem of weeds in conventional agriculture
 arises from the conditions created by tilling and monoculture, which give opportunistic

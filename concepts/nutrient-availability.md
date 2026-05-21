@@ -23,7 +23,7 @@ The distinction between macro- and micronutrients is one of quantity, not import
 Nutrients travel from the soil matrix to root surfaces through three primary mechanisms:
 
 ### Root Interception
-As roots grow and explore the soil, they physically encounter and contact nutrient ions. Root interception accounts for only a small fraction of total nutrient uptake, but it is especially important for immobile nutrients like phosphorus that don't move easily through soil. The extent of root interception depends on root density, root hair length, and the volume of soil explored.
+As roots grow and explore the soil, they physically encounter and contact nutrient ions. Root interception accounts for only a small fraction of total nutrient uptake, but it is especially important for immobile nutrients like phosphorus that don"t move easily through soil. The extent of root interception depends on root density, root hair length, and the volume of soil explored.
 
 ### Mass Flow
 Water moving toward the plant root during transpiration carries dissolved nutrients with it. Mass flow is driven by the plant's water consumption — as water evaporates from leaf surfaces (transpiration), it creates a hydraulic pull that draws water (and dissolved nutrients) from the soil toward the roots. This mechanism is particularly important for mobile nutrients like nitrogen (as nitrate) and calcium. Soil moisture levels directly influence mass flow; dry soil reduces nutrient delivery through this pathway.

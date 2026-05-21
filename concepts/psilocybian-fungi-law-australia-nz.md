@@ -19,7 +19,7 @@ type: concept
 Between 1969 and 1975, the non-traditional use [[historical-and-cultural-uses-of-psychoactive-mushrooms]]
 increased rapidly in Australia. Heavy rains in the spring of 1969 produced
 bumper crops of [[psilocybin-containing-mushrooms-in-us]] on the
-floor of the men's van. The magistrate allowed two weeks to pay the fines,
+floor of the men"s van. The magistrate allowed two weeks to pay the fines,
 with default resulting in one month imprisonment.
 
 According to Dr. Hall, 60 people in Australia were charged with offenses

@@ -6,7 +6,7 @@ type: concept
 
 ## Mushroom Poisoning and Remedies
 
-Julius A. Palmer's personal experiences with mushroom poisoning, combined with
+Julius A. Palmer"s personal experiences with mushroom poisoning, combined with
 his systematic study of fungal toxicology, led him to several important
 conclusions about the nature of [[mushroom-toxins-and-poisoning]], the varying symptoms they
 produce, and the appropriate remedies for each type. His insights were genuinely
@@ -26,7 +26,7 @@ different from all others. While standard medical practice called for emetics or
 purgatives in every case of suspected mushroom poisoning, Palmer found that such
 treatment was "an aggravation" in cases of [[amanitine]] poisoning. The toxin is
 rapidly absorbed, and inducing vomiting after symptoms appear may actually
-worsen the patient's condition rather than helping.
+worsen the patient"s condition rather than helping.
 
 Modern toxicology confirms Palmer's insight: amanitin poisoning has a
 characteristic biphasic course, with an initial asymptomatic period of 6 to 12
@@ -54,7 +54,7 @@ of what Palmer called "mushroom virus." This type of poisoning responded to both
 emetics and purgatives, and was fundamentally a form of food poisoning from
 bacterial action rather than from specific fungal toxins.
 
-## Palmer's Recommended Remedy: Sweet Oil
+## Palmer"s Recommended Remedy: Sweet Oil
 
 Palmer's most specific remedy recommendation was the liberal use of sweet oil
 (essentially olive oil), optionally combined with whiskey or vinegar. He
@@ -66,7 +66,7 @@ His reasoning was rooted in chemistry: he believed that the noxious qualities of
 many mushrooms were due to "a superfluity" of alkali, and that the oil would
 neutralize this alkaline principle. He pointed to Italian practice as evidence,
 noting that Italians "eat many dangerous fungi with impunity" because fresh
-specimens' properties were changed by sweet oil, and preserved specimens were
+specimens" properties were changed by sweet oil, and preserved specimens were
 neutralized by pickle. Either element "renders harmless the peculiar alkali"
 responsible for toxicity.
 
@@ -87,7 +87,7 @@ of fungi:
   normally edible, became poisonous when heavily charged with water from dew or
   rain. Its spongy substance entered a state of acidulous fermentation, exhibiting
   brilliant blue when pressed, cut, or broken. Three cases of illness from this
-  cause were brought to Palmer's notice almost simultaneously, though none was
+  cause were brought to Palmer"s notice almost simultaneously, though none was
   more serious than excessive purging and vomiting. The lesson: only young
   specimens with substance too solid to admit fermentation should ever be eaten.
 
@@ -100,7 +100,7 @@ of fungi:
   quantities.
 
 - **Flavor transfer**: *[[boletus-pachypus]]* communicated its strong nutty flavor,
-  without contact, to potatoes placed beside it in Palmer's refrigerator —
+  without contact, to potatoes placed beside it in Palmer"s refrigerator —
   demonstrating the extremely volatile and permeable character of fungal
   chemistry.
 

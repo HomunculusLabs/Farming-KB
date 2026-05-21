@@ -22,7 +22,7 @@ state through its snake-like emergence to its final feathered (gilled) form.
 ## The Mushroom Life Cycle as Feathered Serpent
 
 The identification of the Feathered Serpent with *Amanita muscaria* is based on
-the mushroom's dramatic morphological transformations:
+the mushroom"s dramatic morphological transformations:
 
 ### Stage 1: The Egg
 
@@ -38,7 +38,7 @@ universal veil begins to stretch and crack.
 ### Stage 3: Shedding Skin
 
 The mushroom "sheds its skin" as the universal veil ruptures and falls away,
-exposing the bright red cap beneath — directly paralleling the serpent's
+exposing the bright red cap beneath — directly paralleling the serpent"s
 molting process. The veil remnants often form scales or warts on the cap,
 resembling serpent markings.
 

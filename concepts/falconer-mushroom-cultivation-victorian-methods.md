@@ -10,7 +10,7 @@ tags: [cultivation, mushroom-cultivation]
 
 ## Falconer Mushroom Cultivation - Victorian Methods
 
-William Falconer's "Mushrooms: How to Grow Them" (1891), published by
+William Falconer"s "Mushrooms: How to Grow Them" (1891), published by
 Orange Judd Company, was a practical treatise on [[coleman-sunlight-and-winter-crop-growth-rates]] filling
   the gap when outdoor operations were at a standstill. Manure used
   first for mushrooms was thoroughly rotted and ideal for subsequent

@@ -1,10 +1,10 @@
 ---
-title: "Grof's metzner-grof-perinatal-matrices-and-transpersonal-realms in metzner-psycholytic-psychedelic-therapy-models"
+title: "Grof"s metzner-grof-perinatal-matrices-and-transpersonal-realms in metzner-psycholytic-psychedelic-therapy-models"
 aliases: ["metzner-psychedelic-psychotherapy-clinical-history"]
 tags: [psychedelic-therapy, lsd, psychotherapy, perinatal, grof, metzner]
 ---
 
-## Grof's Perinatal Matrices in Psychedelic Therapy
+## Grof"s Perinatal Matrices in Psychedelic Therapy
 
 ## Overview
 

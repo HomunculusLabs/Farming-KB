@@ -20,7 +20,7 @@ compounds like DOB, DOC, and DOI.
 The ethyl substituent gives DOET a [[query-difference-between-white-rot-and-brown-rot-fungi]] the purely psychedelic DO compounds and the
 more emotion-focused members of the phenethylamine family.
 
-DOET was one of the compounds that contributed to Shulgin's broader
+DOET was one of the compounds that contributed to Shulgin"s broader
 understanding of how 4-position substituents influenced the character of
 [[shirota-psilocin-psilocybin-large-scale-synthesis-pathway]]r and more lipophilic than the methyl group in DOM,
 contributing to [[shirota-glyoxalylamide-side-chain-construction-psilocin-synthesis]] provides resistance to MAO

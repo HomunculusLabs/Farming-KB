@@ -1,5 +1,5 @@
 ---
-title: Fukuoka's fukuoka natural diet as foundation as Foundation for Agriculture
+title: Fukuoka"s fukuoka natural diet as foundation as Foundation for Agriculture
 created: 2026-04-16
 updated: 2026-04-16
 type: concept

@@ -6,7 +6,7 @@ subtitle: How an Austrian mountain farmer pioneered a complete alternative to in
 ## Sepp Holzer Permaculture and Rebel Farming
 
 [[sepp-holzer]] (born 1942) is an Austrian farmer who has spent over five decades
-developing a comprehensive system of ecological agriculture on his family's
+developing a comprehensive system of ecological agriculture on his family"s
 steep mountain property, the Krameterhof, in Lungau, Salzburg.
 
 Situated at elevations between 1,100 and 1,500 metres in a region nicknamed
@@ -14,7 +14,7 @@ the "Austrian Siberia," the Krameterhof demonstrates that productive,
 profitable farming is possible in marginal climates without chemical inputs,
 irrigation, or specialised equipment.
 
-Holzer's approach predates the formal [[permaculture-design]] system codified by
+Holzer"s approach predates the formal [[permaculture-design]] system codified by
 [[bill-mollison]] and [[david-holmgren]] in the 1970s. He arrived at his methods
 independently through childhood observation and decades of experimentation.
 

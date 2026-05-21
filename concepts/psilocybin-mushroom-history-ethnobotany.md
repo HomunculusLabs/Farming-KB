@@ -11,7 +11,7 @@ sources: [raw/papers/mckenna_t-tryptamines_consciousness.md]
 
 ## Overview
 
-The history of psilocybin-containing mushrooms spans millennia of indigenous use in Mesoamerica, centuries of colonial suppression, mid-twentieth-century rediscovery [[discovery-of-psilocybin-mushrooms-by-western-science]], and a contemporary resurgence of clinical and cultural interest. Terence McKenna's 1983 lecture on tryptamine hallucinogens situates the psilocybin mushroom within a broader framework of plant-human symbiosis, shamanic practice, and the role of ecstatic plants in human cultural evolution. The mushroom's unique [[lsd-discovery-aftermath-pharmacological-properties]] and its capacity to produce experiences of alien intelligence make it one of the most intriguing organisms in ethnobotany.
+The history of psilocybin-containing mushrooms spans millennia of indigenous use in Mesoamerica, centuries of colonial suppression, mid-twentieth-century rediscovery [[discovery-of-psilocybin-mushrooms-by-western-science]], and a contemporary resurgence of clinical and cultural interest. Terence McKenna"s 1983 lecture on tryptamine hallucinogens situates the psilocybin mushroom within a broader framework of plant-human symbiosis, shamanic practice, and the role of ecstatic plants in human cultural evolution. The mushroom's unique [[lsd-discovery-aftermath-pharmacological-properties]] and its capacity to produce experiences of alien intelligence make it one of the most intriguing organisms in ethnobotany.
 
 ## Indigenous Mesoamerican Use
 
@@ -41,7 +41,7 @@ McKenna frames this as part of a broader pattern: "Ignorance burned the librarie
 The modern chapter of psilocybin mushroom history begins with the 1955 fieldwork of R. Gordon Wasson, a vice president of J.P. Morgan and amateur mycologist, and his wife Valentina Wasson:
 
 - The Wassons traveled to Huautla de Jiménez in Oaxaca, Mexico, and participated in a velada (night ceremony) led by the Mazatec curandera María Sabina
-- Gordon Wasson's 1957 *Life* magazine article "Seeking the Magic Mushroom" introduced psilocybin mushrooms to Western audiences
+- Gordon Wasson"s 1957 *Life* magazine article "Seeking the Magic Mushroom" introduced psilocybin mushrooms to Western audiences
 - Albert Hofmann (the discoverer of LSD) subsequently isolated and identified [[hplc-analysis-of-psilocybin-and-psilocin]] from *Psilocybe mexicana* specimens collected by Wasson
 - Roger Heim, a French mycologist, identified and classified numerous psilocybin-containing species
 
@@ -51,7 +51,7 @@ The Wasson rediscovery had complex consequences for the indigenous communities. 
 
 ### Species characteristics
 
-McKenna's work focused particularly on *Stropharia cubensis* (now more commonly classified as *Psilocybe cubensis*), a widely distributed tropical and subtropical psilocybin mushroom:
+McKenna"s work focused particularly on *Stropharia cubensis* (now more commonly classified as *Psilocybe cubensis*), a widely distributed tropical and subtropical psilocybin mushroom:
 
 - One of the most potent commonly available psilocybin-containing species (0.5-1.5% psilocybin by dry weight)
 - Coprophilous (dung-growing) — naturally associated with ruminant herbivore feces, particularly cattle

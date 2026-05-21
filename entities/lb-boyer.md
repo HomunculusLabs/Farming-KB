@@ -9,7 +9,7 @@ tags: [person, psychoanalyst, anthropologist, apache-studies, shamanism-research
 
 ## Description
 
-L. B. Boyer was a psychoanalyst and anthropological researcher who conducted pioneering studies of Apache shamanism on the Mescalero Indian Reservation. Boyer applied psychoanalytic methods — particularly Rorschach projective testing — to the study of Native American shamans, producing some of the most detailed personality assessments of indigenous religious practitioners in the anthropological literature. His work on Mescalero Apache shamanism and peyote use forms a significant chapter in Harner's *Hallucinogens and Shamanism*.
+L. B. Boyer was a psychoanalyst and anthropological researcher who conducted pioneering studies of Apache shamanism on the Mescalero Indian Reservation. Boyer applied psychoanalytic methods — particularly Rorschach projective testing — to the study of Native American shamans, producing some of the most detailed personality assessments of indigenous religious practitioners in the anthropological literature. His work on Mescalero Apache shamanism and peyote use forms a significant chapter in Harner"s *Hallucinogens and Shamanism*.
 
 ## Classification
 

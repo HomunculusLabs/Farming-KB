@@ -9,7 +9,7 @@ sources:
 ---
 ## Wasson-Hofmann-Ruck Collaboration
 
-**Source:** The [[mazatec-mushroom-culture-and-velada]] in Mexico. His chapter in "The Road to Eleusis" drew explicit parallels between the [[mckenna-food-of-the-gods-kykeon-and-eleusinian-mysteries]], noting that Aristides the Rhetor's account of Eleusis "point by point tallies with the effect on the initiate of the Mesoamerican mushroom rite."
+**Source:** The [[mazatec-mushroom-culture-and-velada]] in Mexico. His chapter in "The Road to Eleusis" drew explicit parallels between the [[mckenna-food-of-the-gods-kykeon-and-eleusinian-mysteries]], noting that Aristides the Rhetor"s account of Eleusis "point by point tallies with the effect on the initiate of the Mesoamerican mushroom rite."
 
 ### Albert Hofmann
 

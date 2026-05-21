@@ -31,7 +31,7 @@ James Cuthill represents the Victorian-era tradition of practical gardening lite
 
 ## Cultivation Methods Described
 
-Cuthill's treatise describes mushroom growing in a wide variety of settings available to Victorian gardeners:
+Cuthill"s treatise describes mushroom growing in a wide variety of settings available to Victorian gardeners:
 
 - **Dedicated mushroom houses:** Dark structures built against the wall of a vinery or other south-facing building, with shelves placed two feet apart and side boards nine inches to a foot deep. He notes that Mr. Oldacre first introduced such houses to England after serving as gardener to the Emperor of Russia, and that the first such house Cuthill saw was at Sir Joseph Banks' estate.
 - **Vineries and span-roofed houses:** Cuthill grew mushrooms in converted greenhouse structures, using beds of dung and mould four feet wide and fourteen inches deep.
@@ -47,7 +47,7 @@ He advised cottagers to employ their children collecting horse-droppings along t
 
 ## Historical Context
 
-Cuthill's work is part of the historical tradition of mushroom cultivation literature that includes [[william-falconer]] (American, 1891) and later authors like [[benjamin-duggar]]. His detailed descriptions of spawn management, bed construction, pest control, and seasonal timing provide a valuable record of pre-industrial mushroom growing techniques that remained largely unchanged for centuries. The methods he describes — based on horse manure beds in dark, cool environments — are the direct antecedents of the compost-based [[mushroom-cultivation-basics]] methods still used for Agaricus bisporus cultivation today.
+Cuthill"s work is part of the historical tradition of mushroom cultivation literature that includes [[william-falconer]] (American, 1891) and later authors like [[benjamin-duggar]]. His detailed descriptions of spawn management, bed construction, pest control, and seasonal timing provide a valuable record of pre-industrial mushroom growing techniques that remained largely unchanged for centuries. The methods he describes — based on horse manure beds in dark, cool environments — are the direct antecedents of the compost-based [[mushroom-cultivation-basics]] methods still used for Agaricus bisporus cultivation today.
 
 ## See Also
 

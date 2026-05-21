@@ -14,7 +14,7 @@ forest plant with a relatively recent documented history of human use.
 There is absolutely no evidence of its use before the early nineteenth
 century. The Portuguese, who had a long history of trade and exploration
 in West Africa, never mentioned it. This absence of evidence is
-difficult to explain if one believes the plant's use is very old.
+difficult to explain if one believes the plant"s use is very old.
 
 ## The Bwiti Religion
 
@@ -29,8 +29,8 @@ According to Fang oral tradition, they acquired the Bwiti folkway during
 a centuries-long migration, during which they lived in proximity to
 Pygmy people who taught them the spiritual power resident in Bwiti. The
 Fang believe that many grams of root bark must be eaten in order to
-"open one's head." Lesser amounts are then effective for the remainder
-of a person's life.
+"open one"s head." Lesser amounts are then effective for the remainder
+of a person"s life.
 
 ## Ibogaine: Chemistry and Pharmacology
 

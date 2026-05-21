@@ -26,7 +26,7 @@ treatment, or broader cosmological and philosophical insights.
 ### Contrast with the Pharmaceutical Model
 The concept of plant teachers stands in stark contrast to the Western
 pharmaceutical model, in which star fire and sacred substances are understood as
-chemicals that act upon the brain's receptor sites to produce predictable
+chemicals that act upon the brain"s receptor sites to produce predictable
 pharmacological effects. In the pharmaceutical model, the drug is inert—it has
 no intention, no agency, and nothing to communicate. In the shamanic model,
 the plant is an active participant in the healing process, a sentient being
@@ -48,7 +48,7 @@ Indigenous and mestizo ayahuasceros report that the vine communicates detailed
 information about the physical, emotional, and spiritual condition of the
 person who drinks it. The ayahuasca "shows" the healer what is wrong with the
 patient, often in vivid visual imagery that may include representations of
-the patient's internal organs, energy body, past experiences, or the sorcerous
+the patient"s internal organs, energy body, past experiences, or the sorcerous
 agents responsible for the illness.
 
 ## The Pedagogical Relationship
@@ -63,7 +63,7 @@ relationship as one of chemical intervention rather than instruction.
 
 ### Cumulative Knowledge
 The relationship with a plant teacher is typically cumulative. Over repeated
-encounters, the practitioner develops a deeper understanding of the plant's
+encounters, the practitioner develops a deeper understanding of the plant"s
 communications and a more refined ability to perceive and interpret the
 information received. Indigenous shamans often spend years or decades
 developing their relationships with particular plant teachers, building a body

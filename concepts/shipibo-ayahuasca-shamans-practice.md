@@ -25,7 +25,7 @@ In traditional Shipibo culture, the ayahuasquero (onanya) serves multiple roles:
 
 1. **Healer**: Diagnosing and treating illness through [[metzner-shamanic-singing-icaros-rhythm-and-entrainment]] during private family ceremonies at night. E charged approximately $10 per tourist ceremony. His reputation for integrity and his private spiritual practice suggest a practitioner who maintains traditional values alongside commercial activity.
 
-#### B's Nephew
+#### B"s Nephew
 An enterprising young shaman earning a couple hundred dollars per month from tourists while neighbors couldn't afford a 30-cent taxi ride. He charged $30 for a tourist ceremony versus approximately $2 for a Peruvian — a 15x price differential that illustrates the economic dimension of [[stuart-r-ayahuasca-tourism-cautionary-ethnography]].
 
 #### "A" (Unspecified Location)

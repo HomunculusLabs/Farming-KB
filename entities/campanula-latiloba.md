@@ -21,7 +21,7 @@ The species is valued in horticulture for its imposing stature and long bloom pe
 
 Campanula latiloba is sometimes confused with [[campanula-lactiflora]] but differs in its broader corolla lobes and denser inflorescence. It is one of the tallest bellflower species in cultivation.
 
-The species has received the Royal Horticultural Society's Award of Garden Merit, confirming its reliability and ornamental value in temperate gardens.
+The species has received the Royal Horticultural Society"s Award of Garden Merit, confirming its reliability and ornamental value in temperate gardens.
 
 It was introduced to cultivation in Europe in the early nineteenth century from seeds collected in the Caucasus. Since then it has become a staple of cottage gardens and perennial borders across the temperate world.
 

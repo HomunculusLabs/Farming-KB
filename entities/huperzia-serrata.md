@@ -18,7 +18,7 @@ Huperzia serrata, commonly known as the Chinese clubmoss, toothed clubmoss, or Q
 
 The species has attracted significant scientific and medical interest as the natural source of [[huperzine-a]], a potent acetylcholinesterase inhibitor used in traditional Chinese medicine.
 
-Huperzine A derived from Huperzia serrata is widely used in China as a treatment for Alzheimer's disease and other cognitive disorders.
+Huperzine A derived from Huperzia serrata is widely used in China as a treatment for Alzheimer"s disease and other cognitive disorders.
 
 The plant is an evergreen perennial that forms erect or arching stems covered in small, spirally arranged microphyllous leaves.
 

@@ -22,7 +22,7 @@ Prince Peter Kropotkin (1842–1921) was a Russian anarchist revolutionary, geog
 
 - Kropotkin praised the Parisian maraîchers in *Fields, Factories and Workshops*, arguing that their intensive cultivation methods demonstrated the potential for decentralized, local food production
 - He referred to chemical fertilizers as **"pompously labeled and unworthy drug[s]"**, expressing a preference for organic methods decades before the modern organic movement
-- Coleman quotes Kropotkin's summary of the French system's essence: "to create for the plant a nutritive and porous soil, which contains both the necessary decaying organic matter and the inorganic compounds; and then to keep that soil and the surrounding atmosphere at a [[mushroom-growing-temperature-and-moisture]] superior to those of the open air"
+- Coleman quotes Kropotkin"s summary of the French system's essence: "to create for the plant a nutritive and porous soil, which contains both the necessary decaying organic matter and the inorganic compounds; and then to keep that soil and the surrounding atmosphere at a [[mushroom-growing-temperature-and-moisture]] superior to those of the open air"
 - Kropotkin's advocacy helped spark British interest in French gardening techniques after his book's publication
 - When British market gardeners visited Paris in **1905**, the interest that Kropotkin had helped generate contributed to the surge of enthusiasm for adopting French intensive methods in England
 - He wrote the introduction to Joseph Smith's instruction book *French Gardening*, one of the best practical manuals on the French intensive system

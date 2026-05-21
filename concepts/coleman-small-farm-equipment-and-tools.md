@@ -19,7 +19,7 @@ farm.
 
 ## The Pinpoint Seeder and Six-Row Seeder
 
-Coleman's most transformative tool is the multi-row precision seeder. The
+Coleman"s most transformative tool is the multi-row precision seeder. The
 original "pinpoint seeder" was a lightweight four-row seeder from Germany.
 When production ceased in 2004, Coleman collaborated with other growers
 to develop a six-row seeder with improved features. Both seeders sow

@@ -34,13 +34,13 @@ The most comprehensive ethnographic accounts were compiled in the late 19th and 
 
 ## Effects as Described by Jochelson
 
-Per Harner's anthology "[[hallucinogens-and-shamanism]]" (1973), which quotes Jochelson extensively: fly-agaric produces intoxication, hallucinations, and delirium. Light intoxication brings animation and spontaneity. Under strong intoxication, the senses become deranged; surrounding objects appear very large or very small. Attacks of great animation alternate with deep depression. The intoxicated person sits quietly rocking, then suddenly dilates their eyes, gesticulates convulsively, converses with imagined persons, sings, and dances. Additional doses are needed to maintain the effect, since the active alkaloid is quickly excreted in urine.
+Per Harner"s anthology "[[hallucinogens-and-shamanism]]" (1973), which quotes Jochelson extensively: fly-agaric produces intoxication, hallucinations, and delirium. Light intoxication brings animation and spontaneity. Under strong intoxication, the senses become deranged; surrounding objects appear very large or very small. Attacks of great animation alternate with deep depression. The intoxicated person sits quietly rocking, then suddenly dilates their eyes, gesticulates convulsively, converses with imagined persons, sings, and dances. Additional doses are needed to maintain the effect, since the active alkaloid is quickly excreted in urine.
 
 ## The Urine Recycling Practice
 
 The Koryak practiced drinking the urine of persons intoxicated with Amanita to prolong hallucinations, a practice documented across multiple Siberian tribes. This works because muscimol (the primary psychoactive compound) passes through the body largely unchanged, while [[ibotenic-acid]] is metabolized. "The drunkard himself drinks it to prolong his hallucinations, or he offers it to others as a treat" (Jochelson, via Harner).
 
-## Letcher's Critical Analysis
+## Letcher"s Critical Analysis
 
 Letcher challenges several key assumptions about Siberian mushroom-shamanism:
 
@@ -58,11 +58,11 @@ Letcher is particularly critical of the popular theory that Santa Claus derives 
 
 ### Orientalism and Projection
 
-Following Edward Said's concept of "orientalism," Letcher argues that Western thinking about Siberia has been "choked with the accretions of four hundred years of Western speculation and myth-making." The name "Siberia" itself obliterates geographical diversity, reducing a vast region (as large as Europe and the USA combined, seven time zones, multiple geographical regions from tundra to taiga to steppe) to a "homogenised and digestible whole."
+Following Edward Said"s concept of "orientalism," Letcher argues that Western thinking about Siberia has been "choked with the accretions of four hundred years of Western speculation and myth-making." The name "Siberia" itself obliterates geographical diversity, reducing a vast region (as large as Europe and the USA combined, seven time zones, multiple geographical regions from tundra to taiga to steppe) to a "homogenised and digestible whole."
 
 ## The Harner Perspective
 
-[[michael-harner]], in his introduction to "Hallucinogens and Shamanism" (1973), emphasizes the importance of Amanita muscaria in "classic" shamanism and notes that "the theoretical literature has largely overlooked the fact that even this 'classic' shamanism often involved the use of hallucinogen." He argues that the use of powerful hallucinogens tends to strongly reinforce belief in the reality of the supernatural world and that hallucinogenic experiences may have played a role in the innovation of such beliefs.
+[[michael-harner]], in his introduction to "Hallucinogens and Shamanism" (1973), emphasizes the importance of Amanita muscaria in "classic" shamanism and notes that "the theoretical literature has largely overlooked the fact that even this "classic' shamanism often involved the use of hallucinogen." He argues that the use of powerful hallucinogens tends to strongly reinforce belief in the reality of the supernatural world and that hallucinogenic experiences may have played a role in the innovation of such beliefs.
 
 ## See Also
 

@@ -23,7 +23,7 @@ which all other practices revolved.
 The Agape was served alongside the **Communion** (Eucharist), and together they
 formed the core liturgical experience of the first Christians. The Eucharist
 Wine and the Living Bread distributed at these feasts were described as the
-"foundation stones of the earliest Christians' beliefs" — the very basis of
+"foundation stones of the earliest Christians" beliefs" — the very basis of
 their faith, their community cohesion, and their spiritual power.
 
 With these Sacraments, made from what they called "the Bread from Heaven,"
@@ -40,7 +40,7 @@ supernatural miracles but **genuine pharmacological effects** of consuming
 *Amanita muscaria*.
 
 - **They healed the sick.** *Amanita muscaria* possesses antibiotic,
-  anti-inflammatory, and analgesic properties. The mushroom's bioactive
+  anti-inflammatory, and analgesic properties. The mushroom"s bioactive
   compounds could address infections, reduce swelling, and relieve pain —
   effects that appeared miraculous to ancient observers.
 
@@ -55,7 +55,7 @@ supernatural miracles but **genuine pharmacological effects** of consuming
   psychoactive traditions.
 
 - **They were spiritually reborn.** The "resurrection" experience central to
-  early Christian conversion was the direct result of the mushroom's
+  early Christian conversion was the direct result of the mushroom"s
   ego-dissolving and consciousness-expanding effects. Baptism and rebirth
   were not merely ritual gestures; they described the inner transformation
   produced by the sacrament.
@@ -108,7 +108,7 @@ mushroom sacrament, as *Amanita muscaria* grows primarily in temperate and
 boreal forest regions far from the urban centers of the late Roman Empire.
 
 The transition was not a deliberate suppression but a practical consequence of
-geographic expansion beyond the mushroom's range. The "mystery" of the
+geographic expansion beyond the mushroom"s range. The "mystery" of the
 Eucharist — endlessly debated by theologians — is, in this framework, the
 cultural memory of a practice whose original meaning had been lost.
 

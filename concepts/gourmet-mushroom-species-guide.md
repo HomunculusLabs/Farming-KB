@@ -20,7 +20,7 @@ Multiple species: P. ostreatus (blue/gray oyster), P. pulmonarius (phoenix oyste
 ## King Stropharia (Stropharia rugoso-annulata)
 Also called "wine cap" or "garden giant." Grows well in outdoor garden settings on wood chips and straw. Large, burgundy-capped mushrooms with a mild flavor. Excellent for permaculture gardens. Can fruit prolifically from outdoor beds. Stamets recommends it as a companion species in mycofiltration installations.
 
-## Lion's Mane (Hericium erinaceus)
+## Lion"s Mane (Hericium erinaceus)
 A distinctive cascading white fungus that resembles a cheerleader's pom-pom. Grows on hardwood sawdust (especially oak). Prefers cooler temperatures. Prized for its seafood-like flavor (similar to lobster or crab) and for its neuroprotective medicinal compounds (hericenones and erinacines that stimulate nerve growth factor).
 
 ## Reishi (Ganoderma lucidum)

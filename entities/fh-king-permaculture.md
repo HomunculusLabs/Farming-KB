@@ -9,7 +9,7 @@ tags: [person, agriculture, soil-science, asia, permanent-agriculture]
 
 Franklin Hiram King (1848–1911) was an American agricultural scientist and soil physicist whose work documenting traditional farming systems in East Asia became one of the foundational references for the permanent agriculture movement. His book *Farmers of Forty Centuries, or Permanent Agriculture in China, Korea, and Japan* (1911, posthumous) describes how these societies sustained intensive food production on the same land for millennia without depleting soil fertility.
 
-Bill Mollison cites King's work as the canonical description of the "peasant approach" to permanent agriculture — a system in which people hauled nutrients from canals, cesspits, pathways, and forests to sustain annual grain cultures. Mollison describes this as "feudal permanence" for its methods, period, and politics, noting that people were bound to the landscape by unremitting toil and in service to a state or landlord, which eventually led to famine and revolution.
+Bill Mollison cites King"s work as the canonical description of the "peasant approach" to permanent agriculture — a system in which people hauled nutrients from canals, cesspits, pathways, and forests to sustain annual grain cultures. Mollison describes this as "feudal permanence" for its methods, period, and politics, noting that people were bound to the landscape by unremitting toil and in service to a state or landlord, which eventually led to famine and revolution.
 
 ## Classification
 
@@ -28,7 +28,7 @@ Bill Mollison cites King's work as the canonical description of the "peasant app
 
 ## Relevance to Cultivation and Mycology
 
-King's documentation of East Asian agriculture is directly relevant to cultivation for several reasons:
+King"s documentation of East Asian agriculture is directly relevant to cultivation for several reasons:
 
 1. **Nutrient cycling**: The systems King documented relied on complete return of organic matter to the soil — the same principle that underlies [[decomposition]] systems**: The composting and waste-processing systems King documented are precursors to the biological waste treatment systems used in modern mycological cultivation, where fungi serve as primary decomposers.
 

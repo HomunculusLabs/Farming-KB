@@ -38,7 +38,7 @@ or primal language.
 ## DMT-Induced Glossolalia
 
 Glossolalia — speaking in languages unknown to the speaker, commonly associated
-with Pentecostal practice — is, in McKenna's analysis, a hallucinogen-induced
+with Pentecostal practice — is, in McKenna"s analysis, a hallucinogen-induced
 phenomenon with deep neurological roots. Under DMT, many experiencers report a
 compulsion to speak, vocalize, or produce language-like streams of sound that feel
 meaningful despite not corresponding to any known human language. This is not
@@ -59,7 +59,7 @@ passive medium of communication.
 ## The Logos as Linguistic Reality
 
 The connection between tryptamine hallucinogens and language leads directly to
-McKenna's concept of the Logos. The Logos, in his usage, is not merely a
+McKenna"s concept of the Logos. The Logos, in his usage, is not merely a
 philosophical abstraction but an actual dimension of reality — a domain where
 language and being are identical, where to speak is to create and to perceive is
 to read. Under DMT, the experiencer encounters this domain directly: language

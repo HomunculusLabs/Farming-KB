@@ -16,7 +16,7 @@ applying the grazing aspects of the model just to get on with things. Skipping t
 and most vital step usually indicates poor understanding of the whole model and, inevitably,
 the cost is great down the line.
 
-Another typical mistake is an owner's assumption that his family and staff share his goals.
+Another typical mistake is an owner"s assumption that his family and staff share his goals.
 Time and again when a ranch or farm suffers financial loss we find it flows from lack of
 sharing or clarity on goals. The owner often didn't notice that other people only agreed
 to escape the stress of argument or out of fear.

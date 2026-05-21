@@ -11,7 +11,7 @@ rooted in Mazatec indigenous medicine, not the religious rituals that
 Western observers assumed. The veladas were adaptive blends of Catholic
 and pagan ritual actions, incorporating Christian saints alongside
 Mazatec spirits. Sabina was clear about their purpose: "the vigils
-weren't born of a simple desire to find God, but were done with the
+weren"t born of a simple desire to find God, but were done with the
 sole purpose of curing the sicknesses that our people suffer from." To
 find God, like all good Catholics, she went to Mass.
 type: concept
@@ -46,7 +46,7 @@ form of inspired poetic glossolalia, a song of songs.
 Sabina described the mushroom spirits as "the saint children" who would
 appear to her during the velada and show her whether or not a patient
 could be cured. Through their benevolent guidance, she would be shown
-the cause of the illness, where and why the person's soul had been
+the cause of the illness, where and why the person"s soul had been
 lost. She would then heal the patient through her singing. "Language
 makes the dying return to life," she declared. "They recover their
 health when they hear the words taught by the saint children. There
@@ -59,7 +59,7 @@ was always a sobering experience in this regard.
 ## Mazatec Medicine and Worldview
 
 In the Mazatec worldview, illness was believed to be caused by the
-loss of one's soul, through a sudden fright, or through magical
+loss of one"s soul, through a sudden fright, or through magical
 interference by malevolent and human sorcerers. Given poor diets and
 sanitation, sickness occurred with regularity. The solemnity and
 seriousness with which veladas were conducted, which Wasson
@@ -71,7 +71,7 @@ Other curanderos were held in equal standing within their communities.
 Sabina recognised Aurelio Carreras as a healer of distinction, and in
 Huautla he was considered a "wise one." Amongst the Zapotecs, Matias
 Garcia was regarded so highly that he sat on a committee of curanderos.
-But for Wasson, both were inferior to Sabina; Matias's bemushroomed
+But for Wasson, both were inferior to Sabina; Matias"s bemushroomed
 utterances were, by comparison, "feeble."
 
 ## The Western Misrepresentation

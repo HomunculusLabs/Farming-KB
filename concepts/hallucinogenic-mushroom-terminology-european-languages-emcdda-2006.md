@@ -23,16 +23,16 @@ The EMCDDA 2006 emerging trend case study documented an extensive multilingual v
 - **Psilocybin mushrooms**: More clinical term, used in harm-reduction and educational materials
 - **Liberty caps**: Specifically refers to [[psilocybe-mexicana]] sclerotia/truffles in Dutch smartshops
 - **Golden teachers**: One of many strain marketing names used in the commercial growkit market
-- **Mexican mushrooms**: Trade designation [[copelandia-cyanescens]], despite the species' [[mushroom-cultivation-disabilities-thai-processed-mushroom-products]]
+- **Mexican mushrooms**: Trade designation [[copelandia-cyanescens]], despite the species" [[mushroom-cultivation-disabilities-thai-processed-mushroom-products]]
 
 French terminology tended toward the clinical rather than the colloquial, reflecting both the language's formality conventions and the relative recency of mushroom use in French-speaking countries compared to the Netherlands or UK.
 
 ## German Terminology
 
-- **Zauberpilze**: "Magic mushrooms" — the most common German term, literally "sorcerer's mushrooms" or "magic mushrooms"
+- **Zauberpilze**: "Magic mushrooms" — the most common German term, literally "sorcerer"s mushrooms" or "magic mushrooms"
 - **Heilige Pilze**: "Sacred mushrooms" — used in ethnobotanical and ceremonial contexts
 - **Mexikanische Pilze**: "Mexican mushrooms" — trade term for cubensis
-- **Philosophensteine**: German version of "Philosopher's stones" for sclerotia
+- **Philosophensteine**: German version of "Philosopher"s stones" for sclerotia
 - **Hawaiianische Pilze**: "Hawaiian mushrooms" — for [[psilocybin-mushroom]]
 - [[european-hallucinogenic-mushroom-prevalence-demographic-patterns-emcdda-2006]]
 - [[psilocybin]]

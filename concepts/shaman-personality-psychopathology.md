@@ -12,7 +12,7 @@ The scholarly investigation of shaman personality structure represents one of th
 
 This concept page synthesizes the key references and arguments found in the Boyer et al. bibliography and the opening sections of the Dobkin de Rios article, examining how the field moved from diagnosing the shaman to understanding the cultural systems that give shamanic experience its form and function.
 
-## Boyer's Longitudinal Study of Mescalero Apache Shamanism
+## Boyer"s Longitudinal Study of Mescalero Apache Shamanism
 
 L. Bryce Boyer and his collaborators conducted the most sustained psychodynamic study of shaman personality in the anthropological record, spanning roughly a decade (1961–1972). Their work focused on the Mescalero Apache of the American Southwest and examined how personality development, cultural socialization, and the aggressive drive intersect in the formation of shamanic practitioners.
 
@@ -22,7 +22,7 @@ Key publications in the Boyer corpus include:
 - **Boyer (1969)**: "Shamans: To Set the Record Straight" in *American Anthropologist*, defending methodological rigor in shamanic personality research against what Boyer saw as romanticized or reductive portrayals. This brief but pointed article underscored the need for systematic, clinically informed approaches to the study of shamanic practitioners.
 - **Boyer, Klopfer, Brawer, and Kawai (1964)**: A landmark Rorschach comparison of shamans and pseudoshamans on the Mescalero Indian Reservation, published in the *Journal of Projective Techniques and Personality Assessment*. This multi-author study represented the most empirically ambitious effort in the Boyer program.
 
-Ruth M. Boyer's 1962 doctoral dissertation at UC Berkeley on the social structure and socialization of the Mescalero Apache provided the ethnographic foundation upon which the psychodynamic analyses were built, grounding clinical inference in rich cultural context.
+Ruth M. Boyer"s 1962 doctoral dissertation at UC Berkeley on the social structure and socialization of the Mescalero Apache provided the ethnographic foundation upon which the psychodynamic analyses were built, grounding clinical inference in rich cultural context.
 
 ## Rorschach Studies: Shamans vs. Pseudoshamans
 
@@ -34,19 +34,19 @@ The Rorschach approach was significant because it provided a standardized, cultu
 
 ## The Devereux Framework: Normal vs. Abnormal in Psychiatric Anthropology
 
-A foundational theoretical touchstone for the study of shaman psychopathology is George Devereux's 1956 essay, "Normal and Abnormal: The Key Problem of Psychiatric Anthropology," published in *Some Uses of Anthropology: Theoretical and Applied* (Anthropological Society of Washington).
+A foundational theoretical touchstone for the study of shaman psychopathology is George Devereux"s 1956 essay, "Normal and Abnormal: The Key Problem of Psychiatric Anthropology," published in *Some Uses of Anthropology: Theoretical and Applied* (Anthropological Society of Washington).
 
 Devereux argued that the categories of "normal" and "abnormal" cannot be transplanted wholesale from Western psychiatric nosology into other cultural contexts. What appears as pathology in one society may serve an adaptive, even essential, social function in another. For shamanism, this meant that traits such as visionary experience, trance states, apparent hallucinations, or unusual affective expression — which might be classified as psychotic in a Western clinical setting — could be normative, valued, and functionally integrated within Indigenous cosmologies.
 
-Devereux's framework pushed researchers to ask not "Is the shaman mentally ill?" but rather "How does this culture organize and interpret experiences that Western psychiatry might label pathological?" This reframing deeply influenced Boyer's approach and the broader field of psychiatric anthropology, establishing a principle of cultural relativism that continues to shape debates about cross-cultural concepts of mental health.
+Devereux"s framework pushed researchers to ask not "Is the shaman mentally ill?" but rather "How does this culture organize and interpret experiences that Western psychiatry might label pathological?" This reframing deeply influenced Boyer"s approach and the broader field of psychiatric anthropology, establishing a principle of cultural relativism that continues to shape debates about cross-cultural concepts of mental health.
 
 ## Psychoanalytic Dimensions
 
 Several psychoanalytic works cited in the Boyer bibliography illuminate specific facets of shamanic personality:
 
 - **Freud (1915)**, "The Unconscious" (*Standard Edition*, Vol. 14): Provided the theoretical architecture for understanding how repressed material, drives, and unconscious processes surface — relevant to shamanic visionary experience and the controlled access to normally inaccessible psychic content.
-- **Erikson (1950)**, *Childhood and Society*: Erikson's developmental framework informed understanding of how early socialization experiences on the reservation shaped personality trajectories, including the resolution (or fixation) at stages that might predispose individuals toward shamanic callings.
-- **Greenacre (1958)**, "The Imposter" (*Psychoanalytic Quarterly*): Greenacre's analysis of impostor psychology was directly relevant to the Rorschach comparison of shamans and pseudoshamans, offering a psychodynamic model for understanding those who assume healing roles without genuine capacity or initiation.
+- **Erikson (1950)**, *Childhood and Society*: Erikson"s developmental framework informed understanding of how early socialization experiences on the reservation shaped personality trajectories, including the resolution (or fixation) at stages that might predispose individuals toward shamanic callings.
+- **Greenacre (1958)**, "The Imposter" (*Psychoanalytic Quarterly*): Greenacre"s analysis of impostor psychology was directly relevant to the Rorschach comparison of shamans and pseudoshamans, offering a psychodynamic model for understanding those who assume healing roles without genuine capacity or initiation.
 - **Kris (1952)**, *Psychoanalytic Explorations in Art*: Kris's work on regression in the service of the ego — the idea that creative individuals can access primary-process thinking and return to adaptive function — offered a model for understanding how shamans might use altered states productively rather than destructively.
 
 ## Shamanism and Acute Schizophrenia
@@ -55,7 +55,7 @@ The question of whether shamans suffer from acute schizophrenia has been one of 
 
 Silverman argued that while there are superficial similarities — visual and auditory hallucinations, altered sense of self, visionary content — the social context, course, functional outcome, and cultural interpretation of the two phenomena differ fundamentally. Shamans operate within a culturally sanctioned role that provides structure, meaning, and social support for their experiences; schizophrenic patients, by contrast, typically lack such scaffolding, and their experiences are experienced as fragmenting rather than integrative.
 
-This distinction echoes Devereux's broader argument: the same raw experiential material can lead to radically different outcomes depending on the cultural matrix in which it is embedded.
+This distinction echoes Devereux"s broader argument: the same raw experiential material can lead to radically different outcomes depending on the cultural matrix in which it is embedded.
 
 ## Peyote Use Among the Apache
 

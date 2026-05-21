@@ -10,7 +10,7 @@ type: concept
 
 The journey from conventional chemical gardening to biological, soil-food-web-based gardening represents one of the most significant paradigm shifts in modern horticulture. This transition, documented by [[jeff-lowenfels]] and Wayne Lewis in *Teaming with Microbes*, illustrates how a growing body of scientific evidence about soil microbiology fundamentally challenges the practices that most gardeners have followed for generations.
 
-## The Conventional Gardener's Routine
+## The Conventional Gardener"s Routine
 
 The typical suburban gardener's annual routine, as described by the authors from their own experience, includes:
 

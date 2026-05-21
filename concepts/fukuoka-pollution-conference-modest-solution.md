@@ -12,7 +12,7 @@ sources:
 
 ## The Organic Agricultural Council Conference
 
-Two years before writing, a conference for the purpose of discussing pollution was organized by the Agricultural Management Research Centre, together with the Organic Agricultural Council and the Nada Co-op. The chairman was Mr. Teruo Ichiraku, head of the Japanese Organic Farmers Association and one of the most powerful figures in the government's Agricultural Co-op.
+Two years before writing, a conference for the purpose of discussing pollution was organized by the Agricultural Management Research Centre, together with the Organic Agricultural Council and the Nada Co-op. The chairman was Mr. Teruo Ichiraku, head of the Japanese Organic Farmers Association and one of the most powerful figures in the government"s Agricultural Co-op.
 
 The recommendations of this agency as to which crops and seed varieties should be grown, how much fertilizer should be used and which chemicals should be applied are followed by nearly every village farmer in Japan.
 
@@ -26,7 +26,7 @@ The people in the audience looked at each other in disbelief. The purpose of the
 
 This episode illustrates what Fukuoka saw as the fundamental blindness of [[fukuoka-white-clover-ground-cover]], create no pollution. They are effective because they eliminate the source of the problem. Until the modern faith in big technological solutions can be overturned, pollution will only get worse.
 
-Fukuoka's self-description of his solutions as "modest" is both humble and subversive. The experts at the conference were looking for elaborate technological fixes -- water treatment plants, emission controls, new chemical formulations. Fukuoka's answer was to stop creating pollution in the first place by changing the way food is grown. This is not modest at all in its implications: it requires a complete transformation of the agricultural system.
+Fukuoka's self-description of his solutions as "modest" is both humble and subversive. The experts at the conference were looking for elaborate technological fixes -- water treatment plants, emission controls, new chemical formulations. Fukuoka"s answer was to stop creating pollution in the first place by changing the way food is grown. This is not modest at all in its implications: it requires a complete transformation of the agricultural system.
 
 The "modest solution" is modest only in its means -- scattering straw, growing clover -- not in its effects. By returning to [[cervantes-fertilizer-application-strain-feeding]] while treating the resulting water pollution as a separate problem requiring separate solutions.
 

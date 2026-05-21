@@ -15,7 +15,7 @@ type: concept
 [[serotonin-psilocybin-structural-relationship-hallucinogenic-mechanism]] to beta-carbolines. Ibogaine is
 known as both a powerful aphrodisiac and a hallucinogen capable of
 inducing profound visionary and emotional experiences. The root bark is
-consumed in prodigious amounts to "open one's head."
+consumed in prodigious amounts to "open one"s head."
 
 ### Exopheromones and Cross-Species Communication
 

@@ -7,7 +7,7 @@ tags: [permaculture, water-storage, earthworks, dam, landscape-design, fire-cont
 
 ## Description
 
-Saddle dams are the highest available water storages in the landscape, constructed on saddles or hollows in the skyline profile of hills. Named for their placement at topographic saddles—low points between two higher areas—these dams occupy positions that enable gravity-fed distribution to the maximum area below. They are a key element in Mollison's hierarchical dam placement strategy and are especially valuable for fire control and wildlife habitat.
+Saddle dams are the highest available water storages in the landscape, constructed on saddles or hollows in the skyline profile of hills. Named for their placement at topographic saddles—low points between two higher areas—these dams occupy positions that enable gravity-fed distribution to the maximum area below. They are a key element in Mollison"s hierarchical dam placement strategy and are especially valuable for fire control and wildlife habitat.
 
 ## Classification
 

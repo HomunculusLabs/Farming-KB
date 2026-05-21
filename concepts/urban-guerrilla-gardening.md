@@ -21,7 +21,7 @@ Core drivers from practitioner accounts:
 - **Food sovereignty**: "We need to start growing food where we live and reclaiming all this knowledge for ourselves and future generations"
 - **Anti-corporate resistance**: Rejecting globalized food systems where "big corporations control the most basic aspect of our lives"
 - **Ecological restoration**: Bringing "the real world into the heart of the city" through native plants that survive on local rainfall
-- **Intergenerational knowledge transfer**: Teaching children "there's more to life than concrete and hate and fear"
+- **Intergenerational knowledge transfer**: Teaching children "there"s more to life than concrete and hate and fear"
 - **Cultural bridge**: "Dealing with living systems that change over time" — art as much as agriculture
 
 ## Key Techniques

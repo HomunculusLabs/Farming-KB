@@ -17,7 +17,7 @@ Shamanism is the practice of the Upper Paleolithic tradition of healing, divinat
 
 Mircea Eliade, the foremost authority on shamanism in comparative religion, defined it as "the archaic techniques of ecstasy."
 
-McKenna adopted this framework and argued that shamanism represents the oldest form of human religion and the most direct path to understanding humanity's original relationship with psychoactive plants and the natural world.
+McKenna adopted this framework and argued that shamanism represents the oldest form of human religion and the most direct path to understanding humanity"s original relationship with psychoactive plants and the natural world.
 
 ## Definition and Core Practices
 
@@ -41,7 +41,7 @@ Not all shamans use intoxication with plants to obtain ecstasy, but all neurotro
 
 The practice of using visionary plant intoxicants may seem alien to Westerners who regard psychoactive drugs as either frivolous or dangerous.
 
-But for the shaman, these plants are repositories of living vegetable gnosis that lie nearly forgotten in humanity's ancient past.
+But for the shaman, these plants are repositories of living vegetable gnosis that lie nearly forgotten in humanity"s ancient past.
 
 ## Shamanism Versus Modern Medicine
 

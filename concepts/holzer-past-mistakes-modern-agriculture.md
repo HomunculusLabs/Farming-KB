@@ -10,7 +10,7 @@ sources:
 
 ## Past Mistakes in Modern Agriculture
 
-From "Sepp Holzer's Permaculture" by Sepp Holzer.
+From "Sepp Holzer"s Permaculture" by Sepp Holzer.
 
 ## The Damage of Modern Land Management
 

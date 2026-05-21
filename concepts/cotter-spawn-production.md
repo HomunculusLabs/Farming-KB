@@ -10,7 +10,7 @@ sources:
 ## Spawn Production for Mushroom Cultivation
 Spawn is mycelium that is ready to be planted into a growing medium. It
 serves as the "seed" of mushroom cultivation, carrying the genetic material
-of the desired fungus into the [[duggar-mushroom-growing-history-and-methods]]. From Cotter's "[[brassinosteroid-psilocybe-cubensis-mycelial-growth-research]]
+of the desired fungus into the [[duggar-mushroom-growing-history-and-methods]]. From Cotter"s "[[brassinosteroid-psilocybe-cubensis-mycelial-growth-research]]
 - Sterilized in a pressure cooker at 15 PSI for 60-90 minutes
 - Cost: approximately $2-4 per pound commercially
 - Best for indoor fruiting substrates (sawdust, straw, compost)

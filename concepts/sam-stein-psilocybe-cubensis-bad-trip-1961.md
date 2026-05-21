@@ -1,5 +1,5 @@
 ---
-title: "Sam Stein's brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting emcdda-bad-trip-phenomenology-psychiatric-intervention (1961)"
+title: "Sam Stein"s brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting emcdda-bad-trip-phenomenology-psychiatric-intervention (1961)"
 created: 2026-04-26
 tags:
   - history

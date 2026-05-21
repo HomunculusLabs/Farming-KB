@@ -11,7 +11,6 @@ date: 2026-05-09
 updated: 2026-05-09
 sources:
   - Kral, R. (1993). "Carya." In: Flora of North America North of Mexico, Vol. 3, pp. 267-273.---
----
 
 ## Overview
 

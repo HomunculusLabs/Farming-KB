@@ -17,11 +17,11 @@ title: "Permaculture Energy Descent Planning"
 
 # Permaculture Energy Descent Planning
 
-Energy descent planning is David Holmgren's framework for preparing for a future of declining fossil fuel availability and the resulting economic and social transitions. Developed in "Permaculture: Principles and Pathways Beyond Sustainability," it represents a fundamental rethinking of how societies should plan for the post-carbon era.
+Energy descent planning is David Holmgren"s framework for preparing for a future of declining fossil fuel availability and the resulting economic and social transitions. Developed in "Permaculture: Principles and Pathways Beyond Sustainability," it represents a fundamental rethinking of how societies should plan for the post-carbon era.
 
 ## The Energy Descent Concept
 
-Holmgren argues that the inevitable decline in fossil fuel availability (due to peak oil, climate change imperatives, or both) will force a progressive reduction in society's energy consumption. This "energy descent" is not framed as a catastrophe but as a process that can be managed through permaculture design. The key insight is that we should proactively design for lower energy futures rather than being caught unprepared.
+Holmgren argues that the inevitable decline in fossil fuel availability (due to peak oil, climate change imperatives, or both) will force a progressive reduction in society"s energy consumption. This "energy descent" is not framed as a catastrophe but as a process that can be managed through permaculture design. The key insight is that we should proactively design for lower energy futures rather than being caught unprepared.
 
 Holmgren contrasts three broad scenarios:
 

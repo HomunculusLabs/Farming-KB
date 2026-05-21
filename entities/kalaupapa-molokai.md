@@ -1,5 +1,5 @@
 ---
-title: Kalaupapa (Moloka'i)
+title: Kalaupapa (Moloka"i)
 source: bill-mollison-permaculture-a-designers-manual.md
 type: place
 ---

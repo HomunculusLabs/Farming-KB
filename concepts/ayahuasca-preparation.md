@@ -23,7 +23,7 @@ See [[dmt-reference]] for detailed pharmacology of DMT.
 - Family: Malpighiaceae
 - Contains: harmine, harmaline, tetrahydroharmine (THH), and related beta-carbolines
 - These are reversible MAO-A inhibitors and also 5-HT2A agonists
-- THH is a serotonin reuptake inhibitor, contributing to the brew's antidepressant qualities
+- THH is a serotonin reuptake inhibitor, contributing to the brew"s antidepressant qualities
 - The vine alone produces mild psychoactive effects: calm, introspection, purgation
 - Multiple varieties recognized by Indigenous users: red (cepal), yellow, black (trueno), white, each with distinct effects
 
@@ -52,7 +52,7 @@ Indigenous recipes often include additional plants with various purposes:
 - **[[ilex-guayusa]]** — stimulant admixture, rich in caffeine
 - **[[theobroma-cacao]]** — occasionally added, especially in Ecuadorian ceremonies
 
-From Pablo Amaringo's Shipibo tradition (see [[pablo-amaringo]], [[amazonian-plant-teachers-doctores]]):
+From Pablo Amaringo"s Shipibo tradition (see [[pablo-amaringo]], [[amazonian-plant-teachers-doctores]]):
 
 - **Toe (Brugmansia sp.)** — Two leaves added to brew; contains tropane alkaloids
 - **Motelo huasca (Bauhinia guianensis)** — Two pieces of ground vine; "motelo" = tortoise
@@ -61,7 +61,7 @@ From Pablo Amaringo's Shipibo tradition (see [[pablo-amaringo]], [[amazonian-pla
 - **Puka-lupuna (Cavanillesia hylogeiton, C. umbellata)** — Canopy tree spirit admixture
 - **Clavohuasca (Tynanthus panurensis)** — Vine for strength and vitality
 
-Important Shipibo principle: "It is not always good to mix in so many things. It's better to make it each time with the chacruna and, if he so wishes, he may add another plant, always one at a time."
+Important Shipibo principle: "It is not always good to mix in so many things. It"s better to make it each time with the chacruna and, if he so wishes, he may add another plant, always one at a time."
 
 ## Traditional Preparation Method
 
@@ -94,7 +94,7 @@ Important Shipibo principle: "It is not always good to mix in so many things. It
 
 ### Shipibo Preparation (from Pablo Amaringo)
 
-Specific details from Amaringo's documented Shipibo tradition:
+Specific details from Amaringo"s documented Shipibo tradition:
 
 1. **Pre-harvest discipline**: 3 days sexual abstinence; no contact with ill-tempered people; no salty, sweet, or bitter food; no alcohol
 2. **Harvest ritual**: Rise early; offer tobacco, matches, and banana leaf paper at the foot of the ayahuasca plant; observe the chicua bird (Piaya cayana) omen — "chis, chis" = proceed, "chicua" = abort

@@ -13,13 +13,13 @@ type: concept
 
 ## Overview
 
-Terence McKenna adopted Riane Eisler's framework of "partnership" and
+Terence McKenna adopted Riane Eisler"s framework of "partnership" and
 "dominator" social models from *The Chalice and the Blade* as a central
 organizing principle for understanding human [[shamanic-ecstasy-and-healing]]
 psychoactive plant use is not merely a historical curiosity but a defining
 feature of dominator culture — one that has made humanity "enemies of the
 planet, of ourselves, and our grandchildren." This framework provides the
-historical backbone for McKenna's four-part narrative: Paradise, Paradise
+historical backbone for McKenna"s four-part narrative: Paradise, Paradise
 Lost, Hell, and [[holmgren-gender-balance-and-sustainability]] the centrality of feminine principles
 - Goddess worship and earth-centered spirituality
 - Nomadic pastoralism and cattle-raising

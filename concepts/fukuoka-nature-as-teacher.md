@@ -10,7 +10,7 @@ sources:
 
 Updated: 2026-04-18
 
-In Masanobu Fukuoka's philosophy, nature itself is the ultimate teacher. Rather than studying fragmented scientific disciplines, the natural farmer learns by observing and imitating nature directly. This chapter from "The Road Back to Nature" contrasts Fukuoka's approach with institutional agricultural science.
+In Masanobu Fukuoka"s philosophy, nature itself is the ultimate teacher. Rather than studying fragmented scientific disciplines, the natural farmer learns by observing and imitating nature directly. This chapter from "The Road Back to Nature" contrasts Fukuoka"s approach with institutional agricultural science.
 
 The concept of nature as teacher is foundational to [[fukuoka-one-straw-revolution-philosophy]]: the revolution consists not in developing new techniques but in abandoning the effort to improve upon nature.
 
@@ -20,7 +20,7 @@ For twenty to thirty years, Fukuoka has not read a single book on agriculture, y
 
 - Organic farming is Eastern farming on the same plane as Western farming — still dependent on human knowledge and intervention
 
-- With dead soil, people say "let's add organic material" — but this is still the same incomplete approach
+- With dead soil, people say "let"s add organic material" — but this is still the same incomplete approach
 
 - A thousand years ago, Japanese peasants did not till their fields
 

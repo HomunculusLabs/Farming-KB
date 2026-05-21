@@ -63,7 +63,7 @@ Mollison draws extensively on [[gaia-hypothesis]] (1979), which proposes that th
 
 The Gaia hypothesis provides a scientific framework that supports the permaculture understanding of Earth as a living system. It suggests that:
 
-- The Earth's atmosphere, oceans, and crust are actively maintained in a state favorable to life by biological processes
+- The Earth"s atmosphere, oceans, and crust are actively maintained in a state favorable to life by biological processes
 - The system as a whole exhibits homeostatic regulation — it maintains stable conditions despite external perturbations
 - Disturbances to the system trigger regulatory responses, but there may be thresholds beyond which regulation fails
 
@@ -89,7 +89,7 @@ The philosophical framework of permaculture ultimately demands personal action. 
 - **People are the only critical resource needed by people** — if talents are organized, humans are sufficient to each other
 - **Survival is collective** — "We will either survive together, or none of us will survive"
 - **Courage means peace** — "A person of courage today is a person of peace"
-- **The present is all we have** — A young woman's advice after one of Mollison's lectures: "This is heaven, right here. This is it. Give it all you've got."
+- **The present is all we have** — A young woman"s advice after one of Mollison's lectures: "This is heaven, right here. This is it. Give it all you"ve got."
 
 The permaculture philosophy is ultimately pragmatic: it demands not just a change in thinking but a change in doing. As Mollison writes, "There are many opportunities to create systems that work from the elements and technologies that exist. Perhaps we should do nothing else for the next century but apply our knowledge."
 ## Practical Applications

@@ -14,7 +14,7 @@ The shaman occupies a distinctive social role: they serve as intermediaries betw
 
 The classic anthropological definition, building on the work of scholars such as Mircea Eliade and Åke Hultkrantz, emphasizes several core features:
 
-- The shaman's ability to enter a voluntary ecstasy or trance
+- The shaman"s ability to enter a voluntary ecstasy or trance
 - The existence of a personal relationship with helping spirits or guardian entities
 - The capacity to journey — psychologically or symbolically — to other worlds (upper, lower, or parallel) in order to retrieve information, heal illness, or mediate with forces beyond ordinary perception
 
@@ -42,7 +42,7 @@ Controlled hyperventilation and other respiratory techniques alter blood chemist
 
 ### Drumming, Rattling, and Rhythmic Music
 
-Monotonous, repetitive auditory stimulation at specific tempos drives neural entrainment, facilitating trance induction. The drum is perhaps the most iconic shamanic tool worldwide. In Siberian traditions, the drum is itself considered a living spirit — a "horse" that carries the shaman to the upper or lower world — and its destruction at a shaman's death releases that spirit.
+Monotonous, repetitive auditory stimulation at specific tempos drives neural entrainment, facilitating trance induction. The drum is perhaps the most iconic shamanic tool worldwide. In Siberian traditions, the drum is itself considered a living spirit — a "horse" that carries the shaman to the upper or lower world — and its destruction at a shaman"s death releases that spirit.
 
 ### Hallucinogenic Plants and Fungi
 
@@ -52,7 +52,7 @@ What unites all these methods is the intentionality of their application: the sh
 
 ## The Role of Hallucinogenic Agents in Shamanism
 
-Among all the techniques available for inducing trance, **hallucinogenic substances represent the easiest and fastest route to a profound supernatural experience**. This is not a modern or "countercultural" claim; it is a simple ethnographic observation that emerges from the cross-cultural record. Where hallucinogenic plants or fungi are available in a culture's environment, they are very frequently incorporated into shamanic practice.
+Among all the techniques available for inducing trance, **hallucinogenic substances represent the easiest and fastest route to a profound supernatural experience**. This is not a modern or "countercultural" claim; it is a simple ethnographic observation that emerges from the cross-cultural record. Where hallucinogenic plants or fungi are available in a culture"s environment, they are very frequently incorporated into shamanic practice.
 
 The chemical alteration of consciousness produced by these agents mimics, and in many cases intensifies, the effects achieved through arduous physical techniques — but with considerably less preparatory suffering and time investment.
 
@@ -64,7 +64,7 @@ The archetype of the shaman in Western anthropology derives primarily from Siber
 
 This distinctive red-capped, white-spotted fungus — perhaps the most visually recognizable mushroom in the world — contains two principal psychoactive alkaloids: **muscarine** and **muscimol**, the latter being primarily responsible for the visionary effects.
 
-The mushroom's effects include visual and auditory hallucinations, alterations in the perception of size and distance (macropsia and micropsia), a sensation of physical strength or lightness, and experiences of flying — all of which align closely with the phenomenology of shamanic journeying described in ethnographic accounts.
+The mushroom"s effects include visual and auditory hallucinations, alterations in the perception of size and distance (macropsia and micropsia), a sensation of physical strength or lightness, and experiences of flying — all of which align closely with the phenomenology of shamanic journeying described in ethnographic accounts.
 
 Amanita muscaria was used by a constellation of Siberian tribal peoples, including:
 

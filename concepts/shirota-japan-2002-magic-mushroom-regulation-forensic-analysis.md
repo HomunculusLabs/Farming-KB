@@ -27,7 +27,7 @@ Prior to the 2002 regulation, the use of "magic mushrooms" (hallucinogenic fungi
 
 Before the ban, magic mushrooms were openly sold in Japan through various channels:
 
-- **Specialty shops**: Stores in urban areas, particularly Tokyo's Shibuya and Shinjuku districts, sold fresh and dried [[amanita-muscaria-legal-alternative-psilocybin-mushrooms-europe]].
+- **Specialty shops**: Stores in urban areas, particularly Tokyo"s Shibuya and Shinjuku districts, sold fresh and dried [[amanita-muscaria-legal-alternative-psilocybin-mushrooms-europe]].
 - **Online retailers**: Internet-based sales allowed widespread distribution.
 - **Smart shops**: Some establishments modeled after Dutch smart shops sold a variety [[historical-and-cultural-uses-of-psychoactive-mushrooms]] alongside herbal products.
 - **Import channels**: Mushrooms were imported from countries with known indigenous use, including Mexico, Thailand, and Indonesia.
@@ -70,7 +70,7 @@ Shirota et al. (2003) explicitly state that "the identification of the magic mus
 
 Given the limitations of morphological identification, chemical analysis became the preferred method for [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]]:
 
-- **Thin-layer chromatography (TLC)**: Rapid screening method using silica gel plates with Ehrlich's reagent detection. Suitable for presumptive identification but limited in specificity.
+- **Thin-layer chromatography (TLC)**: Rapid screening method using silica gel plates with Ehrlich"s reagent detection. Suitable for presumptive identification but limited in specificity.
 - **Gas chromatography (GC)**: Higher specificity than TLC, but psilocybin's thermal lability complicates GC analysis. Derivatization may be required.
 - **High-performance liquid chromatography (HPLC)**: The preferred method for both identification and quantification. HPLC can separate and quantify psilocin and psilocybin in mushroom extracts without the thermal degradation issues associated with GC.
 - **UV detection**: Both psilocin and psilocybin have characteristic UV absorption spectra, with maxima around 220-290 nm, enabling UV-based detection in HPLC systems.

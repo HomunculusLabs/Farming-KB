@@ -14,11 +14,11 @@ The spider on its web, with its concentric and radial design, evokes zone and se
 
 Modernity has tended to scramble any systemic common sense or intuition that could order the jumble of design possibilities. This focus on detailed complexity leads to white elephants that are large and impressive but do not work, or juggernauts that consume all our energy while threatening to run out of control. Complex systems that work tend to evolve from simple ones that work, so finding the appropriate pattern is more important than understanding all the details of the elements.
 
-The proverb "can't see the wood for the trees" reminds us that details distract our awareness of the nature of the system — the closer we get, the less we comprehend the larger picture.
+The proverb "can"t see the wood for the trees" reminds us that details distract our awareness of the nature of the system — the closer we get, the less we comprehend the larger picture.
 
 ## Pattern Thinking
 
-[[bill-mollison]]'s introduction to [[patterns-in-nature]] provides a broad, inspiring picture of potential applications in Permaculture design. The search for spatial and temporal patterns in nature — beyond the Euclidean geometries that dominate educated thinking — is important for designers in every field. Mollison says: "Learning to master a pattern is very like learning a principle; it may be applicable over a wide range of phenomena, some complex and some simple."
+[[bill-mollison]]"s introduction to [[patterns-in-nature]] provides a broad, inspiring picture of potential applications in Permaculture design. The search for spatial and temporal patterns in nature — beyond the Euclidean geometries that dominate educated thinking — is important for designers in every field. Mollison says: "Learning to master a pattern is very like learning a principle; it may be applicable over a wide range of phenomena, some complex and some simple."
 
 [[christopher-alexander]]'s Pattern Language was a milestone in recognising and organising classic patterns of human-scale built environments. Developing a similar pattern language for the broader scope of Permaculture design faces two challenges:
 

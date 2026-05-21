@@ -20,7 +20,7 @@ The creature possesses a powerful magnet in its head. Any living being that cros
 
 ### Hunting the Deer
 
-In one vision, the Sachamama is shown hypnotizing a deer in order to swallow it. The deer, mesmerized by the serpent's magnetic gaze, walks willingly toward its doom. This demonstrates that the Sachamama does not need to chase prey — its magnetic power is sufficient to draw victims to it.
+In one vision, the Sachamama is shown hypnotizing a deer in order to swallow it. The deer, mesmerized by the serpent"s magnetic gaze, walks willingly toward its doom. This demonstrates that the Sachamama does not need to chase prey — its magnetic power is sufficient to draw victims to it.
 
 ### Ecological Role
 
@@ -34,7 +34,7 @@ When a person notices the presence of the Sachamama, they must leave swiftly. Th
 
 The Chullachaki is a forest spirit whose name derives from Quechua: chulla means "uneven" or "one-footed" and chaki means "foot." This being is the guardian and master of wild animals, responsible for their care and protection.
 
-### The Supay-chacra (Devil's Garden)
+### The Supay-chacra (Devil"s Garden)
 
 The Chullachaki presides over the Supay-chacra, a supernatural garden in the forest. At its center stands a caimitillo tree (Duroia hirsuta), flanked by Supay-caspi and Supay-anallosacha trees, all marked by distinctive circles at the base of their leaves. The Chullachaki is depicted dressed in royal gowns, reading a parchment — a decree on the care of wild animals.
 
@@ -63,7 +63,7 @@ The vision of the Chullachaki carries a profound message: "Within vegetalismo th
 
 ## Vision of the Snakes
 
-Snakes occupy a central position in Amazonian spiritual ecology. They serve as healers, guardians, and dangerous entities depending on the species and context. All snakes respond to the singing of the snakes' icaro, gathering under and around the healing house during ceremonies.
+Snakes occupy a central position in Amazonian spiritual ecology. They serve as healers, guardians, and dangerous entities depending on the species and context. All snakes respond to the singing of the snakes" icaro, gathering under and around the healing house during ceremonies.
 
 ### Huairamama (Mother of the Wind)
 

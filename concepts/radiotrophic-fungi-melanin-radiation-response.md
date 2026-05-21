@@ -10,7 +10,7 @@ Radiotrophic fungi are species that appear to use melanin pigment to harvest
 energy from ionizing radiation, converting it into chemical energy usable for
 growth. This phenomenon was first documented at the Chernobyl Nuclear Power
 Plant in the late 1990s, where darkly pigmented fungi colonized the destroyed
-reactor's sarcophagus, thriving in environments with radiation levels lethal
+reactor"s sarcophagus, thriving in environments with radiation levels lethal
 to most life forms.
 
 The term "radiotrophic" remains controversial. Some researchers prefer

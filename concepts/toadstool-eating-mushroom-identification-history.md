@@ -18,9 +18,9 @@ informed discrimination.
 
 Palmer recalled that in his childhood, all wild fungi were indiscriminately
 called "toadstools." The universal injunction was simple and absolute: "Throw it
-away; it's poison." No distinction was made between harmless edible species and
+away; it"s poison." No distinction was made between harmless edible species and
 genuinely toxic ones. This reflexive fear pervaded rural and urban communities
-alike, and Palmer's early curiosity about mushrooms was met with uniform
+alike, and Palmer"s early curiosity about mushrooms was met with uniform
 discouragement from adults who could offer no reasoned basis for their alarm.
 
 ## The State of Published Knowledge
@@ -48,13 +48,13 @@ among trained scientists.
 
 ## Medical Ignorance in the 1870s
 
-The medical profession's grasp of fungal toxicology was remarkably deficient. In
+The medical profession"s grasp of fungal toxicology was remarkably deficient. In
 1877, a prominent physician begged Palmer for any reference on mushrooms,
 confessing he could locate no authoritative information. Dr. Brinton of
 Philadelphia copied Palmer's article, appending that "the subject is so
 important, the information so vague."
 
-### Dr. Shadle's Letter (1885)
+### Dr. Shadle"s Letter (1885)
 
 Dr. Shadle's 1885 letter addressed the clinical challenge of distinguishing
 *Amanita* poisoning from milder fungal intoxication. The interval between eating
@@ -87,7 +87,7 @@ unpleasant taste, odor, or appearance as "poisonous." Entire genera —
 poisonous with no gradation. In reality, most *Boleti*, *Lactarii*, and
 *Russule* are harmless; only *Amanita* contains genuinely deadly species.
 
-## Palmer's Contributions
+## Palmer"s Contributions
 
 Palmer's 1877 *Popular Science Monthly* article was his first major attempt to
 bring order to this chaos, conveying accurate mycological knowledge to a general
@@ -110,7 +110,7 @@ readily removed, the mushroom was wholesome, and if not, it was dangerous.
 Palmer dismissed this as having no scientific basis, noting that peelability
 was a morphological characteristic related to genus and species, not toxicity.
 
-## Palmer's Philosophy: Mushroom and Toadstool as One
+## Palmer"s Philosophy: Mushroom and Toadstool as One
 
 Palmer's central philosophical position was summarized in his maxim: "Every
 mushroom is a toadstool and every toadstool is a mushroom." The words, he

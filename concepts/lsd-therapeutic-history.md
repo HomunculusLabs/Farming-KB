@@ -13,7 +13,7 @@ sources:
 
 ## Overview
 
-From its discovery in 1943 until its prohibition in the late 1960s, LSD was the subject of intensive medical research and was used as an adjunct to psychotherapy in clinics across Europe and North America. Albert Hofmann's account in "LSD: My Problem Child" provides a first-person history of this remarkable chapter in psychiatry.
+From its discovery in 1943 until its prohibition in the late 1960s, LSD was the subject of intensive medical research and was used as an adjunct to psychotherapy in clinics across Europe and North America. Albert Hofmann"s account in "LSD: My Problem Child" provides a first-person history of this remarkable chapter in psychiatry.
 
 ## Delysid and Clinical Use
 
@@ -31,13 +31,13 @@ The term was coined by **Ronald A. Sandison**, an English therapist of Jungian o
 
 ### Psychedelic Therapy
 
-Favored in the United States, this method used a single, very high LSD dose (0.3 to 0.6 mg) after intensive psychological preparation. It attempted to induce a mystical-religious experience through the "shock effects" of LSD, which could then serve as a starting point for restructuring the patient's personality.
+Favored in the United States, this method used a single, very high LSD dose (0.3 to 0.6 mg) after intensive psychological preparation. It attempted to induce a mystical-religious experience through the "shock effects" of LSD, which could then serve as a starting point for restructuring the patient"s personality.
 
 The term "psychedelic" (mind-manifesting or mind-expanding) was introduced by **Humphry Osmond**, a pioneer of LSD research in the United States.
 
 ## Mechanism of Therapeutic Action
 
-LSD's therapeutic effects are derived from properties "diametrically opposed to the effects of tranquilizer-type psychopharmaceuticals." Whereas tranquilizers tend to cover up problems, LSD makes them "more exposed and more intensely experienced," bringing forgotten or suppressed contents of experience back into consciousness.
+LSD"s therapeutic effects are derived from properties "diametrically opposed to the effects of tranquilizer-type psychopharmaceuticals." Whereas tranquilizers tend to cover up problems, LSD makes them "more exposed and more intensely experienced," bringing forgotten or suppressed contents of experience back into consciousness.
 
 This is not ordinary recollection but "a true reliving; not a reminiscence, but rather a reviviscence" (as formulated by French psychiatrist Jean Delay). Traumatic events from even earliest childhood can be vividly recalled and re-experienced.
 
@@ -49,7 +49,7 @@ Stanislav Grof went on to develop the most comprehensive framework for psychedel
 
 ## LSD for the Dying
 
-A particularly significant application was LSD's use with terminally ill patients. Severe painful conditions unresponsive to conventional painkillers could be alleviated or abolished. The mechanism was not analgesic but psychological: patients became "so dissociated from their bodies that physical pain no longer penetrated their consciousness." Grof and Halifax published "The Human Encounter with Death" (1977), documenting numerous patients who "faced their earthly demise fearlessly and in peace."
+A particularly significant application was LSD"s use with terminally ill patients. Severe painful conditions unresponsive to conventional painkillers could be alleviated or abolished. The mechanism was not analgesic but psychological: patients became "so dissociated from their bodies that physical pain no longer penetrated their consciousness." Grof and Halifax published "The Human Encounter with Death" (1977), documenting numerous patients who "faced their earthly demise fearlessly and in peace."
 
 ## Shutdown
 

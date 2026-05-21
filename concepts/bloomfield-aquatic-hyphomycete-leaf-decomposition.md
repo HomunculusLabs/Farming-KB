@@ -1,6 +1,6 @@
 ---
 title: Bloomfield Aquatic Hyphomycete Leaf Decomposition
-source: "Mr. Bloomfield's Orchard — The Mysterious World of Mushrooms, Molds, and Mycologists"
+source: "Mr. Bloomfield"s Orchard — The Mysterious World of Mushrooms, Molds, and Mycologists"
 author: "Nicholas P. Money"
 tags:
   - aquatic-fungi
@@ -17,7 +17,7 @@ tags:
 The decomposition of leaves in freshwater streams is one of the most
 consequential ecological processes on Earth, yet it is accomplished largely
 by an invisible workforce of [[terence-ingold-mycologist]] in 1938, are the primary agents of
-carbon recycling in running water. Their activity transforms autumn's
+carbon recycling in running water. Their activity transforms autumn"s
 shed foliage from inert plant debris into living microbial tissue, fueling
 the aquatic food web from the bottom up.
 

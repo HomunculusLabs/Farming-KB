@@ -38,7 +38,7 @@ Arbuscular [[mycorrhizal-fungi]] (AMF) form the most widespread symbiosis on Ear
 - Lipid-filled storage structures in roots (in some AMF species)
 - Serve as carbon storage organs
 - Persist longer than arbuscules
-- Some species don't produce vesicles (vesicular-arbuscular vs arbuscular)
+- Some species don"t produce vesicles (vesicular-arbuscular vs arbuscular)
 
 ### Extraradical Mycelium
 - Hyphal network extending into soil from roots

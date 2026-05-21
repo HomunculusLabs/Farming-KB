@@ -22,7 +22,7 @@ the [[ingham-compost-quality-assessment-visual-microbial-indicators]].
 Terpinolene is one of the most characteristic terpenes found in
 sativa-dominant varieties. It contributes complex aromas described as
 piney, floral, herbal, and slightly fruity. Strains high in terpinolene
-include many Hazes, Jack Herer, and Dutch Passion's sativa lines.
+include many Hazes, Jack Herer, and Dutch Passion"s sativa lines.
 Terpinolene has demonstrated antioxidant, sedative, and antifungal
 properties in preclinical studies, though it is less common overall
 than the dominant terpenes, making it a distinctive marker for certain

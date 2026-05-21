@@ -12,7 +12,7 @@ sources:
 
 Updated: 2026-04-20
 
-The philosophy of non-intervention is the foundational principle of Masanobu Fukuoka's [[metzner-leary-bardo-thodol-and-tao-te-ching-adaptation]]'s wu-wei (effortless action) resonated deeply with Fukuoka. While mu shares territory with wu-wei, Fukuoka went further -- where wu-wei describes effortless action in harmony with the Tao, mu suggests that even the desire to flow with natural processes is a form of arrogance. This is why [[permaculture-principles]] retains the design impulse that mu questions.
+The philosophy of non-intervention is the foundational principle of Masanobu Fukuoka"s [[metzner-leary-bardo-thodol-and-tao-te-ching-adaptation]]'s wu-wei (effortless action) resonated deeply with Fukuoka. While mu shares territory with wu-wei, Fukuoka went further -- where wu-wei describes effortless action in harmony with the Tao, mu suggests that even the desire to flow with natural processes is a form of arrogance. This is why [[permaculture-principles]] retains the design impulse that mu questions.
 
 ## The Natural Body
 
@@ -28,9 +28,9 @@ Fukuoka believed non-intervention had implications far beyond farming. In educat
 
 ## The Difficulty of Doing Nothing
 
-The greatest paradox of Fukuoka's philosophy is that "doing nothing" is actually very difficult. "The more you tell people not to think, the harder they think." The farmer who reads Fukuoka immediately asks: "Where can I buy clover seed?" and "How much seed will I need?" -- missing the point entirely.
+The greatest paradox of Fukuoka"s philosophy is that "doing nothing" is actually very difficult. "The more you tell people not to think, the harder they think." The farmer who reads Fukuoka immediately asks: "Where can I buy clover seed?" and "How much seed will I need?" -- missing the point entirely.
 
-Japanese visitors came "bringing what they know, with the intention of hearing what someone else has to say and in this way adding to their store of knowledge." Westerners, by contrast, came "prepared to do just that -- abandon knowledge and the intellect." They came "tabulae rasae" -- with blank minds -- and simply experienced life in Fukuoka's orchard huts.
+Japanese visitors came "bringing what they know, with the intention of hearing what someone else has to say and in this way adding to their store of knowledge." Westerners, by contrast, came "prepared to do just that -- abandon knowledge and the intellect." They came "tabulae rasae" -- with blank minds -- and simply experienced life in Fukuoka"s orchard huts.
 
 ## The Dogo Hot Springs Zen
 

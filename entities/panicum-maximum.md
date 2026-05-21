@@ -8,7 +8,7 @@ type: entity
 
 ## Description
 
-Panicum maximum, commonly known as Guinea grass, is a large, tufted perennial tropical grass native to Africa and widely naturalized across tropical regions worldwide. It is one of the most important cultivated tropical forage grasses. In Bill Mollison's *Permaculture: A Designer's Manual*, it is listed among the grass species as "guinea, Panicum maximum."
+Panicum maximum, commonly known as Guinea grass, is a large, tufted perennial tropical grass native to Africa and widely naturalized across tropical regions worldwide. It is one of the most important cultivated tropical forage grasses. In Bill Mollison"s *Permaculture: A Designer's Manual*, it is listed among the grass species as "guinea, Panicum maximum."
 
 ## Classification
 

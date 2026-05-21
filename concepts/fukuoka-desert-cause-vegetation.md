@@ -11,7 +11,7 @@ sources:
 
 ## Overview
 
-Fukuoka's analysis of desertification goes beyond the conventional focus on water scarcity. He identifies the root cause as the destruction of vegetative diversity by human action, and he proposes a radical solution: large-scale aerial seed scattering as the primary intervention, reversing the conventional approach of building dams and irrigation systems first.
+Fukuoka"s analysis of desertification goes beyond the conventional focus on water scarcity. He identifies the root cause as the destruction of vegetative diversity by human action, and he proposes a radical solution: large-scale aerial seed scattering as the primary intervention, reversing the conventional approach of building dams and irrigation systems first.
 
 ## The Root Cause Chain
 

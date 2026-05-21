@@ -6,7 +6,7 @@ source: grahamholmes what a plant knowsindd
 created: 2026-05-10
 ---
 
-## Darwin's *The Power of Movement in Plants*
+## Darwin"s *The Power of Movement in Plants*
 
 ## Overview
 
@@ -43,11 +43,11 @@ The gas lamp experiment is particularly noteworthy — the light was so dim that
 
 ### Auxin Discovery
 
-Darwin's mobile signal hypothesis was vindicated by Frits Went's 1926 discovery of auxin. Went demonstrated that an agar block placed on a decapitated coleoptile tip could absorb the growth-promoting signal and transfer it to another plant, causing bending. This directly confirmed Darwin's model of a diffusible growth substance transmitted from tip to stem. The term "auxin" (from Greek *auxein*, "to grow") was coined to describe this class of plant hormones, with indole-3-acetic acid (IAA) identified as the primary natural auxin in the 1930s.
+Darwin"s mobile signal hypothesis was vindicated by Frits Went's 1926 discovery of auxin. Went demonstrated that an agar block placed on a decapitated coleoptile tip could absorb the growth-promoting signal and transfer it to another plant, causing bending. This directly confirmed Darwin's model of a diffusible growth substance transmitted from tip to stem. The term "auxin" (from Greek *auxein*, "to grow") was coined to describe this class of plant hormones, with indole-3-acetic acid (IAA) identified as the primary natural auxin in the 1930s.
 
 ### Phototropin Receptors
 
-The molecular identity of Darwin's "tip photoreceptor" was identified in the 1990s as phototropin, a blue-light photoreceptor kinase. Phototropins detect blue light and trigger auxin redistribution across the stem, causing differential [[doc]]
+The molecular identity of Darwin"s "tip photoreceptor" was identified in the 1990s as phototropin, a blue-light photoreceptor kinase. Phototropins detect blue light and trigger auxin redistribution across the stem, causing differential [[doc]]
 - [[det]]
 - [[indole]]
 

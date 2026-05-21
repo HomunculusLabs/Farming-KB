@@ -19,9 +19,9 @@ specific lifestyle practices.
 - **Emotional keyword:** "I am at ease" — encompassing bliss, relaxation, and
   social connection
 
-## The Runner's High: Anandamide, Not Endorphins
+## The Runner"s High: Anandamide, Not Endorphins
 
-The traditional explanation for the "runner's high" attributed the effect to
+The traditional explanation for the "runner"s high" attributed the effect to
 endorphins. However, high-intensity endurance running has been shown to
 significantly increase anandamide levels, not endorphins. This discovery
 reframed exercise as an endocannabinoid-enhancing activity.

@@ -6,13 +6,13 @@ type: concept
 tags: [permaculture, observation, mapping, patterns, design, burnett, ecology]
 sources: ["raw/papers/permaculture-beginners-guide.md"]
 ---
-## Permaculture Beginners Guide — Observation and Mapping [[fukuoka-observation-based-farming]] for Masanobu Fukuoka's approach to observation-based farming.
+## Permaculture Beginners Guide — Observation and Mapping [[fukuoka-observation-based-farming]] for Masanobu Fukuoka"s approach to observation-based farming.
 
 ## Learning to See Patterns
 
 The core skill in permaculture is not accumulating technical knowledge but developing the ability to identify underlying forms that recur throughout the natural world. Burnett writes:
 
-> "Permaculture isn't about having to get your head around untold facts, figures, Latin names and complicated techniques, rather it is about recognising universal patterns and principles, and learning to apply these 'ecological truisms' to our own gardens and life situations. We can identify the underlying forms that recur throughout the natural world and learn to understand and utilise them in designed ecologies."
+> "Permaculture isn"t about having to get your head around untold facts, figures, Latin names and complicated techniques, rather it is about recognising universal patterns and principles, and learning to apply these 'ecological truisms' to our own gardens and life situations. We can identify the underlying forms that recur throughout the natural world and learn to understand and utilise them in designed ecologies."
 
 This approach makes permaculture accessible to beginners — the entry point is observation and pattern recognition rather than technical expertise.
 
@@ -31,9 +31,9 @@ Burnett contrasts two fundamentally different ways of seeing the world:
 - Works in harmony with natural systems
 - Utilizes natural processes directly
 - Encourages predators like ladybirds and hoverflies for pest control
-- Constructs homes using [[bill-mollison]]'s famous reframe:
+- Constructs homes using [[bill-mollison]]"s famous reframe:
 
-> "You haven't got an excess of slugs, you've got a duck deficiency."
+> "You haven"t got an excess of slugs, you've got a duck deficiency."
 
 This principle extends beyond pest management. It requires observing a situation and asking: what is the positive function this element could serve? What is the underlying imbalance that created the apparent problem?
 
@@ -52,11 +52,11 @@ This systematic observation of flows — energy, water, materials — is the fou
 
 Burnett opens with a geological and ecological context-setting exercise, establishing the importance of reading the broader landscape:
 
-- Earth's ecology is an interface between four spheres: Geosphere (land), Atmosphere (air), Hydrosphere (water), and Biosphere (life)
+- Earth"s ecology is an interface between four spheres: Geosphere (land), Atmosphere (air), Hydrosphere (water), and Biosphere (life)
 - These form "a delicate web of interconnections formed over millions of aeons"
 - Understanding these interconnections is essential for responsible design
 
-The time-compression metaphor is striking: if Earth's 4.5 billion year history were compressed into 30 days, life appeared on day 10, vertebrates crawled onto land around day 25, humans appeared at 1 minute to midnight, and the [[permaculture-principles]] in the guide serve as lenses for observation and analysis:
+The time-compression metaphor is striking: if Earth"s 4.5 billion year history were compressed into 30 days, life appeared on day 10, vertebrates crawled onto land around day 25, humans appeared at 1 minute to midnight, and the [[permaculture-principles]] in the guide serve as lenses for observation and analysis:
 
 - **Work with nature, not against:** Observe how natural systems already function and design to align with them
 - **Every function supported by many elements:** Observe whether your system has redundancy and resilience

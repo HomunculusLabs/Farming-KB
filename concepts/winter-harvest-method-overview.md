@@ -10,7 +10,7 @@ type: concept
 
 ## The Local-Food Revolution and Year-Round Production
 
-Coleman positions winter harvesting as the logical next step in the local-food movement. While Community Supported Agriculture (CSA) programs and farmers' markets have extended the seasonal availability of fresh produce, the conventional assumption remains that winter forces a reliance on shipped-in greens from distant climates. Coleman challenges this assumption with a simple observation: **the sun still provides usable light during winter months**, and the task of the farmer is to capture and retain the heat that sunlight generates.
+Coleman positions winter harvesting as the logical next step in the local-food movement. While Community Supported Agriculture (CSA) programs and farmers" markets have extended the seasonal availability of fresh produce, the conventional assumption remains that winter forces a reliance on shipped-in greens from distant climates. Coleman challenges this assumption with a simple observation: **the sun still provides usable light during winter months**, and the task of the farmer is to capture and retain the heat that sunlight generates.
 
 The core thesis is that winter-grown vegetables, harvested at peak freshness from unheated local greenhouses, are superior in flavor, nutrition, and ecological footprint to produce shipped thousands of miles. By eliminating the need for refrigerated transport and long supply chains, the winter harvest method reduces energy consumption and keeps food dollars within local economies.
 
@@ -24,7 +24,7 @@ The "minimally heated" variant applies just enough supplemental warmth—often v
 
 ### The Movable Greenhouse Concept
 
-Coleman's innovation of the **movable greenhouse** is one of his most influential contributions. Rather than building a permanent structure over one piece of ground, the greenhouse is mounted on rails or skids so it can be shifted between two (or more) adjacent plots. This allows the farmer to:
+Coleman"s innovation of the **movable greenhouse** is one of his most influential contributions. Rather than building a permanent structure over one piece of ground, the greenhouse is mounted on rails or skids so it can be shifted between two (or more) adjacent plots. This allows the farmer to:
 
 - **Cover late-summer/fall plantings** to extend the growing season into winter.
 - **Move the structure off winter crops** during spring to expose them to full sun and rain for rapid regrowth.
@@ -66,7 +66,7 @@ Ongoing maintenance includes:
 
 ### The Planting Calendar
 
-Winter harvest crops must be **planted and established before the days get too short**. Coleman's schedule in Maine (roughly 44°N latitude) targets planting dates from late August through mid-October, depending on the crop. The goal is for plants to reach near-maturity by the time day length drops below ten hours (the "Persephone period," roughly November through February in his region). During this period, plants grow very slowly or go nearly dormant; the farmer's job shifts from growing to **maintaining and harvesting**.
+Winter harvest crops must be **planted and established before the days get too short**. Coleman's schedule in Maine (roughly 44°N latitude) targets planting dates from late August through mid-October, depending on the crop. The goal is for plants to reach near-maturity by the time day length drops below ten hours (the "Persephone period," roughly November through February in his region). During this period, plants grow very slowly or go nearly dormant; the farmer"s job shifts from growing to **maintaining and harvesting**.
 
 At lower latitudes or milder climates, the Persephone period is shorter and less severe, allowing a wider planting window and greater winter growth.
 

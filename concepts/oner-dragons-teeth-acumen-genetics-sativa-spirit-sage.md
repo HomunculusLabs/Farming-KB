@@ -1,5 +1,5 @@
 ---
-title: "Dragon's Teeth — Acumen Genetics"
+title: "Dragon"s Teeth — Acumen Genetics"
 source: "s-t-oner-the-rev-cannabis-sativa-volume-3_-the-essential-gu.md"
 source_author: "S.T. Oner"
 topic: "cannabis-strain-profile"
@@ -7,7 +7,7 @@ type: concept
 tags: [cannabis, sativa, strain-profile, acumen-genetics, sage, pest-resistant, indoor-growing]
 ---
 
-## Dragon's Teeth
+## Dragon"s Teeth
 
 **Breeder:** Acumen Genetics (USA)
 **Genetics:** Sativa Spirit × SAGE

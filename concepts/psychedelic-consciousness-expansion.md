@@ -10,7 +10,7 @@ sources:
 ---
 ## Psychedelic Consciousness Expansion
 
-Consciousness expansion through psychedelics, particularly psilocybin, represents a fundamental shift in the informational patterns accessible to the human mind. Powell's framework provides a detailed account of how and why psychedelics expand consciousness and what this expansion reveals about the nature of reality.
+Consciousness expansion through psychedelics, particularly psilocybin, represents a fundamental shift in the informational patterns accessible to the human mind. Powell"s framework provides a detailed account of how and why psychedelics expand consciousness and what this expansion reveals about the nature of reality.
 
 ## What Consciousness Expansion Means
 
@@ -22,7 +22,7 @@ Consciousness expansion means accessing informational patterns that are normally
 
 ### Chemical Dismantling of Constraints
 
-Chemically dismantling the raphe system's screening effect admits the entry of latent information into consciousness. In bacterial systems, metabolism is governed by Michaelis-Menten kinetics. [[dosage-unpredictability-psilocybin-subjective-experience]] but a form of empirical investigation. Since consciousness mediates all our models of reality, changing consciousness changes our access to information about reality. "New forms of conscious experience might well offer us a glimpse into the biggest questions that face our mortal existence."
+Chemically dismantling the raphe system"s screening effect admits the entry of latent information into consciousness. In bacterial systems, metabolism is governed by Michaelis-Menten kinetics. [[dosage-unpredictability-psilocybin-subjective-experience]] but a form of empirical investigation. Since consciousness mediates all our models of reality, changing consciousness changes our access to information about reality. "New forms of conscious experience might well offer us a glimpse into the biggest questions that face our mortal existence."
 
 The expanded state reveals that:
 - Reality is more interconnected than normal perception suggests

@@ -6,12 +6,12 @@ tags: [ketamine, tryptamine, dmt, demonology, hallucinogen-taxonomy, mckenna, ph
 aliases: [Ketamine Stuttering Blind Demons McKenna, Ion vs Mind Demon Distinction]
 ---
 
-## McKenna's Taxonomy of Hallucinogenic Demons: Ions, Mind, and the Ketamine Stuttering-Blind Distinction
+## McKenna"s Taxonomy of Hallucinogenic Demons: Ions, Mind, and the Ketamine Stuttering-Blind Distinction
 
 In his 1983 Esalen lecture, McKenna introduced a cryptic but phenomenologically
 precise taxonomy of the [[dmt-entity-encounters-and-the-logos]] produced by different classes of
 hallucinogenic compounds: "Some [demons] are made of ions, some of mind; the ones
-of ketamine, you'll find, stutter often and are blind." This single line
+of ketamine, you"ll find, stutter often and are blind." This single line
 encapsulates a sophisticated comparative phenomenology that distinguishes
 tryptamine entities from dissociative entities based on their cognitive and
 perceptual qualities — an argument that presages modern comparative psychedelic
@@ -19,7 +19,7 @@ research by decades.
 
 ## The Context Demons as Experiential Content
 
-McKenna's demon taxonomy appears in the context of his broader argument that
+McKenna"s demon taxonomy appears in the context of his broader argument that
 hallucinatory states represent genuine encounters with what he calls "an interior
 landscape" of "immense vividness" where "information is presented
 three-dimensionally and deployed fourth-dimensionally, coded as light and as
@@ -34,19 +34,19 @@ His cautionary framing is significant: "The accomplishment is to make sure it is
 telling the truth, because the demons are of many kinds." The word "demons" is
 used in the classical Greek sense (daimon) — a guiding spirit or intermediary
 being — rather than the Christian sense of malevolent supernatural entity.
-McKenna's project is epistemological: how does one evaluate the truth claims of
+McKenna"s project is epistemological: how does one evaluate the truth claims of
 beings encountered in [[dmt-machine-elves]]" that speak in language,
 convey translinguistic information, and engage in genuine dialogue with the
 experient. These entities are "made of mind" in the sense that they are cognitive
 phenomena — they operate through language, meaning, and information exchange
-rather than through physical or electromagnetic sensation. McKenna's extensive
+rather than through physical or electromagnetic sensation. McKenna"s extensive
 descriptions of tryptamine entities throughout the lecture — their reassuring
 demeanor, their production of "sounds like music, like language," their emission
 of "alien meaning that cannot be Englished" — all fall into this "made of mind"
 category.
 
-**"The ones of ketamine, you'll find, stutter often and are blind":** This is
-McKenna's most specific and phenomenologically precise claim. Ketamine, an NMDA
+**"The ones of ketamine, you"ll find, stutter often and are blind":** This is
+McKenna"s most specific and phenomenologically precise claim. Ketamine, an NMDA
 receptor antagonist, produces dissociative states characterized by a sense of
 detachment from the body and environment. The entities encountered under
 ketamine, according to McKenna, are distinguishable from tryptamine entities by
@@ -59,7 +59,7 @@ directedness of tryptamine entities).
 The "stuttering" quality of ketamine entities can be understood as a consequence
 of NMDA receptor antagonism. NMDA receptors are critical for synaptic plasticity,
 working memory, and the temporal integration of perceptual information into
-coherent narratives. When these receptors are blocked, the brain's capacity to
+coherent narratives. When these receptors are blocked, the brain"s capacity to
 maintain a continuous, coherent stream of meaning is disrupted — producing
 experiences that feel fragmented, repetitive, and temporally unstable. The
 entities encountered in this state would naturally inherit these qualities: they
@@ -78,7 +78,7 @@ intentional visual presence of tryptamine entities.
 
 ## Presaging Modern Comparative Psychedelic Research
 
-McKenna's taxonomy, though expressed in poetic language, anticipates the modern
+McKenna"s taxonomy, though expressed in poetic language, anticipates the modern
 [[mystical-experience]] Questionnaire, the
 Hallucinogen Rating Scale, and other psychometric instruments. Tryptamine
 experiences consistently rate higher on measures of mystical significance,

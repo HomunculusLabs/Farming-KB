@@ -1,5 +1,5 @@
 ---
-title: 'Hericium coralloides'
+title: "Hericium coralloides'
 type: species
 tags: [fungi, edible-mushroom, medicinal, saprotrophic, hericiaceae]
 date: 2026-04-28

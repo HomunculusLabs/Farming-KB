@@ -23,20 +23,20 @@ created: 2026-05-07
 The twenty-fourth fragment of Heraclitus of Ephesus (c. 535 to c. 475 BCE) survives through
 quotation by later authors. In the standard Diels-Kranz numbering (DK B52), it reads: "Aion
 pais estin paizon, pessueon; paidos he basileie." The most commonly cited translation renders
-this as "The lifetime (aion) is a child playing, playing draughts; the kingship is the child's."
+this as "The lifetime (aion) is a child playing, playing draughts; the kingship is the child"s."
 Alternative readings translate *pessueon* as "moving colored balls" or "playing with colored
 balls," drawing on the ambiguity of the Greek term which can refer to various game pieces
 including spherical ones. [[tryptamine-hallucinogens-and-consciousness]], seized upon this fragment as perhaps the most precise literary
 description of the [[fukuoka-descartes-western-philosophy-nature]], despite
 predating the discovery of DMT by roughly two and a half millennia.
 
-## McKenna's Phenomenological Reading
+## McKenna"s Phenomenological Reading
 
 McKenna described his DMT experiences in terms that directly echo the Heraclitean fragment.
 Upon inhaling DMT, he reported arriving in a space that feels "underground" or "somehow
-insulated and domed," borrowing the German word *raum* (space) from James Joyce's *Finnegans
+insulated and domed," borrowing the German word *raum* (space) from James Joyce"s *Finnegans
 Wake* to coin the phrase "[[dmt-onset-phenomenology-mode-shift]] directly mirror
-Heraclitus's "colored balls" or game pieces. The visual phenomenology of DMT — described by
+Heraclitus"s "colored balls" or game pieces. The visual phenomenology of DMT — described by
 McKenna as "information being presented three-dimensionally and deployed fourth-dimensionally,
 coded as light and as evolving surfaces" — is itself a kind of cosmic game board. The
 experience is characterized by a quality of play, of childlike engagement with reality that
@@ -64,7 +64,7 @@ that human beings have become profoundly alienated from the fundamentally playfu
 consciousness. The "conceit of the scientific and post-industrial societies" produces a
 worldview so rigid that it cannot accommodate the fluid, game-like quality of tryptamine
 experience. The conceit is precisely the belief that reality is best understood through the
-lens of earnest, humorless rationality — a belief that Heraclitus's fragment directly
+lens of earnest, humorless rationality — a belief that Heraclitus"s fragment directly
 challenges by placing play at the center of cosmic reality.
 
 ## The Cognitive Dissonance of Wonder

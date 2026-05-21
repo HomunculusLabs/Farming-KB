@@ -18,7 +18,7 @@ Ralph Metzner (1998), in a comparative review published in the Journal of
 Psychoactive Drugs, identified four paradigms of entheogenic use: Western
 [[metzner-shamanic-healing-and-divination-paradigm]] rituals, syncretic
 [[hofmann-lsd-psychiatric-research]], derives
-  from the Latin "alucinare" (to wander in one's mind); Metzner argued it
+  from the Latin "alucinare" (to wander in one"s mind); Metzner argued it
   deserves rehabilitation since these substances do not actually induce true
   hallucinations
 - **Entheogenic**: proposed by Wasson and Ott, means "releasing or expressing
@@ -35,7 +35,7 @@ of Christian saints, spirit allies, and the spirits of earth, water, fire,
 sky, animals, and plants into the chants.
 Participants sit or lie on the floor in a small group. Maria Sabina, the most
 famous Mazatec curandera, became known to the Western world through R. Gordon
-Wasson's 1957 Life magazine article, which triggered international interest in
+Wasson"s 1957 Life magazine article, which triggered international interest in
 [[harner-amazonian-ayahuasca-preparation-methods]] ceremonies involve a small group sitting in a circle in
 semidarkness while initiated healers sing icaros (medicine songs) that carry
 the healing and diagnostic work. The icaros have a rapid rhythmic pulse that

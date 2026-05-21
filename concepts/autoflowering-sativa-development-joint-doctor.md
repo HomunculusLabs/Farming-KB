@@ -42,7 +42,7 @@ Easy Ryder combines:
 
 The book notes that auto-flowering strains like Easy Ryder need "a change in light
 cycle to flip into flower" but that "the more light you can throw at it, the more
-bud you'll get in the end." The recommended 20/4 schedule means the plant receives
+bud you"ll get in the end." The recommended 20/4 schedule means the plant receives
 maximum light exposure throughout its short life, maximizing photosynthesis and
 growth without the complications of managing a separate vegetative and flowering
 light cycle.

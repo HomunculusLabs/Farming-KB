@@ -9,7 +9,7 @@ sources:
 ---
 ## Ingham — AACT Brewing Techniques
 
-Elaine Ingham's approach to Actively [[aact-compost-quality-standards-ingham]], and brew duration. The goal is to extract and multiply beneficial organisms from compost while maintaining strictly aerobic conditions throughout the process.
+Elaine Ingham"s approach to Actively [[aact-compost-quality-standards-ingham]], and brew duration. The goal is to extract and multiply beneficial organisms from compost while maintaining strictly aerobic conditions throughout the process.
 
 ## Core Brewing Principles
 

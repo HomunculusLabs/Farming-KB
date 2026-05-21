@@ -12,7 +12,7 @@ sources:
 
 Updated: 2026-04-20
 
-Masanobu Fukuoka's observations on European agriculture, made during his travels and through encounters with European visitors to his farm, focused on the contrast between Europe's apparent green beauty and its underlying ecological degradation. His assessment was that Europe's nature had been fundamentally destroyed by centuries of livestock-based agriculture and that recovery was extremely difficult.
+Masanobu Fukuoka"s observations on European agriculture, made during his travels and through encounters with European visitors to his farm, focused on the contrast between Europe's apparent green beauty and its underlying ecological degradation. His assessment was that Europe's nature had been fundamentally destroyed by centuries of livestock-based agriculture and that recovery was extremely difficult.
 
 ## The Illusion of Green Beauty
 
@@ -22,23 +22,23 @@ This theme recurred throughout his European observations: the surface appearance
 
 ## Specific European Countries Visited
 
-Fukuoka's observations drew from direct visits to Britain, where he experienced the manicured pastoral landscape, and extensive conversations with European visitors from Germany, France, and Scandinavia. All reported similar patterns of ecological decline. He also observed European-style agricultural landscapes on the American [[savory-livestock-grazing-planning]], which Fukuoka identified as the original cause of soil degradation. The open pastoral landscapes of Britain -- celebrated in art and literature -- represented to Fukuoka not harmony with nature but its systematic destruction.
+Fukuoka"s observations drew from direct visits to Britain, where he experienced the manicured pastoral landscape, and extensive conversations with European visitors from Germany, France, and Scandinavia. All reported similar patterns of ecological decline. He also observed European-style agricultural landscapes on the American [[savory-livestock-grazing-planning]], which Fukuoka identified as the original cause of soil degradation. The open pastoral landscapes of Britain -- celebrated in art and literature -- represented to Fukuoka not harmony with nature but its systematic destruction.
 
 ## The Soil Beneath the Trees
 
 On the American East Coast (which Fukuoka considered ecologically similar to Europe), he found forests of birch, maple, and oak stretching endlessly. But walking through them for a week, "I sensed that something was wrong here too." Beneath the trees, "the soil is poor and depleted."
 
-Despite the glaciers having receded ten thousand years ago, fifty-year-old trees were only so big. In Japan, "two thousand years would be long enough for a layer of soil five feet thick to form." The fact that this hadn't happened indicated that "the soil had been ruined by man and that the nature which remained was just a shadow of the real thing."
+Despite the glaciers having receded ten thousand years ago, fifty-year-old trees were only so big. In Japan, "two thousand years would be long enough for a layer of soil five feet thick to form." The fact that this hadn"t happened indicated that "the soil had been ruined by man and that the nature which remained was just a shadow of the real thing."
 
 ## Livestock as the Original Sin
 
-Fukuoka traced Europe's ecological degradation to the introduction of livestock agriculture. The early settlers kept driving further west to take over Indian lands "because their own lands wore out from the grazing of cattle." The fields they abandoned were left alone, and forests of mixed trees grew up on these -- but the soil never recovered its original fertility.
+Fukuoka traced Europe"s ecological degradation to the introduction of livestock agriculture. The early settlers kept driving further west to take over Indian lands "because their own lands wore out from the grazing of cattle." The fields they abandoned were left alone, and forests of mixed trees grew up on these -- but the soil never recovered its original fertility.
 
 In California, Fukuoka had reached the same conclusion: "The Spaniards were the first to raise cattle in America. The land, which one would normally have expected to become richer as a result, has grown poorer instead." This pattern was consistent across all the regions he studied.
 
 ## European Reactions to His Philosophy
 
-European visitors to Fukuoka's farm reacted with desperation and hope. Many told him their home countries were "beyond help" ecologically. The [[query-what-is-biodynamic-agriculture-and-how-does-it-differ-from-organic]] prescribes detailed preparations, planting calendars based on cosmic rhythms, and specific composting techniques -- an alternative science replacing materialism with anthroposophy. Fukuoka's [[fukuoka-citrus-orchard-ground-cover-cultivation]] and no-till principles to European conditions. In Britain, the [[fukuoka-one-straw-revolution-impact]]
+European visitors to Fukuoka"s farm reacted with desperation and hope. Many told him their home countries were "beyond help" ecologically. The [[query-what-is-biodynamic-agriculture-and-how-does-it-differ-from-organic]] prescribes detailed preparations, planting calendars based on cosmic rhythms, and specific composting techniques -- an alternative science replacing materialism with anthroposophy. Fukuoka's [[fukuoka-citrus-orchard-ground-cover-cultivation]] and no-till principles to European conditions. In Britain, the [[fukuoka-one-straw-revolution-impact]]
 
 - [[natural-way-of-farming-guide]]
 - [[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also

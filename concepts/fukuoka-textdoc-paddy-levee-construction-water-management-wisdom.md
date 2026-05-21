@@ -25,7 +25,7 @@ type: concept
 
 Water management, which consists of irrigation and drainage, is the most important part of [[fukuoka-puddling-summer-flooding-soil-death-rice-cultivation]]. The success of [[fukuoka-textdoc-weed-control-with-weeds-rice-barley-clover-discovery]], the first ten to twenty days being especially critical.
 
-For the natural farmer practicing no-tillage rice-barley succession, mastery of water management is the difference between success and failure. The challenge is not merely technical but social and ecological, involving the farmer's relationship with neighbors, the local landscape, and an entire community of organisms that share the paddy [[comparison-natural-farming-vs-permaculture]] is not merely a set of techniques but a way of living in community.
+For the natural farmer practicing no-tillage rice-barley succession, mastery of water management is the difference between success and failure. The challenge is not merely technical but social and ecological, involving the farmer"s relationship with neighbors, the local landscape, and an entire community of organisms that share the paddy [[comparison-natural-farming-vs-permaculture]] is not merely a set of techniques but a way of living in community.
 
 The natural farmer must be not only a skilled cultivator but a good neighbor, attentive to the impact of his methods on those around him.
 

@@ -43,7 +43,7 @@ tags: [phenethylamine, shulgin]
 ## Effects and Qualitative Commentary
 
 ### Visual Effects (16 mg)
-At 16 mg, colors shift toward golden and rose tones. Pigments become intensified. Shapes become rounder and more organic. Users report prismatic light patterns, kaleidoscopic forms (similar to but less intense than LSD), and organic forms reminiscent of Georgia O'Keeffe flowers -- blossoming and undulating. The experience at this level is well-suited for museum visits and nature appreciation, with visual enhancement without loss of social functionality.
+At 16 mg, colors shift toward golden and rose tones. Pigments become intensified. Shapes become rounder and more organic. Users report prismatic light patterns, kaleidoscopic forms (similar to but less intense than LSD), and organic forms reminiscent of Georgia O"Keeffe flowers -- blossoming and undulating. The experience at this level is well-suited for museum visits and nature appreciation, with visual enhancement without loss of social functionality.
 
 ### Erotic and Empathogenic Effects (20-24 mg)
 At 20-24 mg, 2C-B becomes markedly erotic and body-focused. Users describe being "totally into the body," aware of every muscle and nerve. Reports include body-flooding orgasms, phenomenal and ecstatic lovemaking, and the sense of physical/spiritual merging. Shulgin wrote: "If there is anything ever found to be an effective aphrodisiac, it will probably be patterned after 2C-B in structure."
@@ -52,13 +52,13 @@ At 20-24 mg, 2C-B becomes markedly erotic and body-focused. Users describe being
 Tactile perception and auditory acuity are enhanced. Music is described as "voluptuous, almost three-dimensional." Physical warmth spreads through the body. Users report seeing themselves and others as a "gridwork of electrical energy beings, nodes on a bright, pulsating network of light."
 
 ### High-Dose Experiences
-Overdose reports document the compound's physical safety while revealing challenging psychological territory:
+Overdose reports document the compound"s physical safety while revealing challenging psychological territory:
 - At 64 mg: Alive things become "completely fearsome." The user was petrified by a bush growing outside the window. No neurological concerns were observed during recovery.
 - At 100 mg: An accidental overdose produced a profound confrontation with mortality, described as facing death alone and unprepared. The experience resolved after two hours and became "really marvelous." The subject (a psychologist) indicated intent to use psychedelics again.
 
 ## Combination with MDMA
 
-Many reports mention the [MDMA and 2C-B combination. The most successful protocol involves taking 2C-B at or just before the final baseline recovery of the MDMA experience. This timing allows the mental and emotional discoveries from MDMA to be "mobilized" and explored further with 2C-B's visual and sensual enhancement. Several psychotherapists have advocated this combination, which should be the basis of careful research when these materials become legally accepted.
+Many reports mention the [MDMA and 2C-B combination. The most successful protocol involves taking 2C-B at or just before the final baseline recovery of the MDMA experience. This timing allows the mental and emotional discoveries from MDMA to be "mobilized" and explored further with 2C-B"s visual and sensual enhancement. Several psychotherapists have advocated this combination, which should be the basis of careful research when these materials become legally accepted.
 
 ## Extensions and Commentary
 

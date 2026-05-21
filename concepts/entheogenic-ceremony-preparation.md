@@ -90,7 +90,7 @@ Recommended practices in the weeks leading to ceremony:
 Common pitfalls to avoid:
 
 - Expecting a specific experience (vision, message, entity)
-- Comparing with others' reported experiences
+- Comparing with others" reported experiences
 - Believing that intensity equals depth
 - Assuming one ceremony will resolve everything
 - Fear of the experience going "wrong"

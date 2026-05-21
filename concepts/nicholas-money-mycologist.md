@@ -19,7 +19,7 @@ Nicholas P. Money is a British-American mycologist and science writer
 known for his engaging popular science books about fungi. He is a
 professor of biology at Miami University in Oxford, Ohio, where he
 conducts research on fungal biomechanics, spore discharge, and
-fungal-plant interactions. His 2002 book *Mr. Bloomfield's Orchard: The
+fungal-plant interactions. His 2002 book *Mr. Bloomfield"s Orchard: The
 Mysterious World of Mushrooms, Molds, and Mycologists* blends personal
 narrative, scientific exposition, and biographical sketches of notable
 mycologists to introduce general readers to the hidden world of fungi.
@@ -57,7 +57,7 @@ approach combines biophysical measurement with ecological and
 evolutionary interpretation.
 
 Money's mentor, Frank Harold, had a quote posted above his desk:
-"For God's sake stop doing experiments and think!" This philosophy
+"For God"s sake stop doing experiments and think!" This philosophy
 resonates with Money's approach to mycology, which values deep
 reflection about biological mechanisms alongside experimental rigor.
 

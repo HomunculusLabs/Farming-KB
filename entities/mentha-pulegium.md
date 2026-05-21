@@ -27,7 +27,7 @@ sources:
 
 The genus *Mentha* comprises approximately 25 species of aromatic, perennial herbs distributed across temperate regions of the Northern Hemisphere.
 *Pennyroyal* was formally described by Linnaeus in *Species Plantarum* (1753).
-The specific epithet *pulegium* derives from the Latin *pulex* (flea), reflecting the plant's traditional use as a flea repellent.
+The specific epithet *pulegium* derives from the Latin *pulex* (flea), reflecting the plant"s traditional use as a flea repellent.
 The common name "pennyroyal" is thought to derive from the Old French *puliol real* ("royal pennyroyal"), distinguishing it from other, less potent *Mentha* species.
 The genus is notorious for its tendency toward hybridization and polyploidy, and *M. pulegium* has been implicated in the complex reticulate evolution of the genus, though it is considered a distinct species with relatively stable morphology compared to some other mint taxa.
 

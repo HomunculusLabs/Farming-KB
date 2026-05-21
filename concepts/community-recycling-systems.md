@@ -33,7 +33,7 @@ This principle extends beyond individual households to institutions and business
 
 ## Flow-Through vs. Recycling Communities
 
-[[bill-mollison]]'s design framework distinguishes between two fundamental types of community resource flows:
+[[bill-mollison]]"s design framework distinguishes between two fundamental types of community resource flows:
 
 ### Flow-Through Communities
 

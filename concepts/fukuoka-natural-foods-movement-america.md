@@ -17,7 +17,7 @@ Kushi and his family went through times of hardship. His wife Aveline described 
 By 1981, after natural foods spread [[four-principles-of-natural-farming]] order. He established institutes in several countries teaching macrobiotic cooking, philosophy, and medicine, as well as spiritual development and the reconstruction of society in a more peaceful direction.
 
 Kushi also offered Fukuoka 550 acres in Ashburnham, Massachusetts, asking him to do as he pleased with the land, which was covered with mixed woods — an opportunity Fukuoka saw for [[fukuoka-agricultural-pollution-and-consumer-culpability]]
-- Although natural foods are enjoying a boom in Japan, this "can't begin to compare with the scope of the movement in America"
+- Although natural foods are enjoying a boom in Japan, this "can"t begin to compare with the scope of the movement in America"
 
 ## The Irony of Re-Import
 
@@ -34,7 +34,7 @@ Fukuoka notes that a young American (William Shurtleff) came to Japan, studied t
 
 ## The Rice Revolution in America
 
-While traveling through the American countryside, Fukuoka sensed that the day would come when rice would take on much greater importance there. Many American farmers were asking whether rice could be grown in their fields, believing it to be the most promising crop. This contrasted sharply with Japan's government policy of cutting rice acreage and complaints of "too much rice."
+While traveling through the American countryside, Fukuoka sensed that the day would come when rice would take on much greater importance there. Many American farmers were asking whether rice could be grown in their fields, believing it to be the most promising crop. This contrasted sharply with Japan"s government policy of cutting rice acreage and complaints of "too much rice."
 
 Americans were shifting from meat consumption to Eastern-style vegetarianism. The custom of eating rice, and in particular eating and carefully chewing brown rice, had become established through the natural diet movement. Many American supermarkets stocked 5-pound and 25-pound bags of rice, alongside bottles of amazake (sweet fermented rice beverage) and popped rice cakes — items that would have been unthinkable a generation earlier.
 
@@ -44,7 +44,7 @@ Fukuoka connected the natural foods movement to a broader recovery of human sens
 
 He observed that European cooking, with its reliance on nutritional science, was "all very crude and careless" — meals prepared with the belief that the body is sustained by three nutritional elements, following the same reasoning used to raise hogs on synthetic feed. Against this backdrop, even simple Japanese country cooking became a welcome treat.
 
-## Herman Aihara's Visit
+## Herman Aihara"s Visit
 
 Herman Aihara visited Fukuoka's farm with about twenty students during a tour to study the state of natural diet in Japan. His followers were not impressed with food at a first-class Japanese restaurant. But the next morning at Fukuoka's orchard, when he served a simple gruel of brown rice with wild greens in improvised bamboo cups, eaten sitting on the [[query-how-to-grow-shiitake-mushrooms-on-logs]] on sugar maple wood, for example — they "could become even richer than the Kushis." They broke out in laughter, which Fukuoka took as evidence that Americans had not yet grasped the potential of working with nature rather than against it.
 

@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-The concept of a sacramental substance — a physical medium through which divine communion is achieved — is central to the world's religious traditions. In the Judeo-Christian context, this substance is identified as **Manna**, described in biblical texts with characteristics that precisely match [[allegro-star-of-the-morning-venus-and-the-sacred-mushroom]] and the Cross* (1970). His work made numerous connections between sacred doctrinal enigmas, religious sacraments, and the [[stropharia-cubensis-tree-of-knowledge]]**
+The concept of a sacramental substance — a physical medium through which divine communion is achieved — is central to the world"s religious traditions. In the Judeo-Christian context, this substance is identified as **Manna**, described in biblical texts with characteristics that precisely match [[allegro-star-of-the-morning-venus-and-the-sacred-mushroom]] and the Cross* (1970). His work made numerous connections between sacred doctrinal enigmas, religious sacraments, and the [[stropharia-cubensis-tree-of-knowledge]]**
 - The symbol of the **cross**
 
 All were identified as synonyms and wordplay for the hidden identity of the mushroom. The religious establishment responded with intense criticism, though the author of the source material argues that most of Allegro's core associations withstand scrutiny. Regardless of debates over specific claims, Allegro pioneered a field of inquiry that most scholars and laypeople were — and remain — afraid to explore.
@@ -63,13 +63,13 @@ When "body" is understood as *[[soma]]* (the Greek word, also meaning mushroom),
 
 ## The Doctrine of Transubstantiation
 
-The [[allegro-garden-of-eden-and-delight]] come from **Cuneiform clay tablets of Mesopotamia** (at least 4000 BCE). According to [[zecharia-sitchin]]'s analysis of these tablets, the original stories portray the eating of the fruit in a completely different light from the biblical version:
+The [[allegro-garden-of-eden-and-delight]] come from **Cuneiform clay tablets of Mesopotamia** (at least 4000 BCE). According to [[zecharia-sitchin]]"s analysis of these tablets, the original stories portray the eating of the fruit in a completely different light from the biblical version:
 
 - The Father God "Anu" remained on the star Sirius
 - Two brothers, **Ea** and **[[enlil]]**, stewarded the colonization of Earth
 - **Enlil** wished to control the population and restrict knowledge
-- **Ea** wished to expand humanity's consciousness ("multi-dimensionalize" their minds)
-- Ea was determined to awaken his creations despite the High Council's preference for the Enlilian position
+- **Ea** wished to expand humanity"s consciousness ("multi-dimensionalize" their minds)
+- Ea was determined to awaken his creations despite the High Council"s preference for the Enlilian position
 
 The original story is described as a glorious narrative about the hope and potential of humanity, which was flipped 180 degrees in the later biblical version — transformed from a story of awakening into a story of fall-from-grace and racial condemnation.
 

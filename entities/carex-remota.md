@@ -11,7 +11,6 @@ date: 2026-05-09
 updated: 2026-05-09
 sources:
   - Ellenberg, H. (1988). *Vegetation Ecology of Central Europe*. Cambridge University Press.---
----
 
 ## Overview
 

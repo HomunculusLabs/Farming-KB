@@ -12,7 +12,7 @@ created: 2026-05-10
 The transition from [[mushroom-fruiting-chamber-setup]] body production is the most
 environmentally sensitive phase of the Jarrold boil-a-bag cultivation method. After
 the mycelium has fully colonized the substrate, the grower must create the specific
-environmental conditions that trigger the mushroom's reproductive cycle — primarily
+environmental conditions that trigger the mushroom"s reproductive cycle — primarily
 high humidity, fresh air exchange, and indirect light. The Jarrold method uses a
 simple fish-tank-based humidity chamber and describes clear visual cues for when to
 open the bags and transfer them to the [[substrate-consistency-water-absorption-grass-seed]], and no visible uncolonized straw. Jarrold states the
@@ -28,7 +28,7 @@ impede the increased air exchange required for fruiting.
 ## The Humidity Chamber Setup
 
 ### Fish Tank Chamber
-Jarrold's humidity chamber is built from a standard 4-foot by 2-foot fish tank.
+Jarrold"s humidity chamber is built from a standard 4-foot by 2-foot fish tank.
 The key components are:
 - **Hydro pellets (hydroton/LECA)**: A layer of soaked clay pellets at the bottom
   of the tank provides passive humidification through surface evaporation.

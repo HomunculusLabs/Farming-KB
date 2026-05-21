@@ -39,7 +39,7 @@ Voles gain entry to the greenhouse by tunneling under the soil surface and throu
 
 ## Prevention Challenges
 
-Preventing vole entry is particularly difficult with [[mobile-greenhouses]] — a central feature of Coleman's four-season farming system. Several exclusion approaches have been tried without lasting success:
+Preventing vole entry is particularly difficult with [[mobile-greenhouses]] — a central feature of Coleman"s four-season farming system. Several exclusion approaches have been tried without lasting success:
 
 ### Deeper Buried Edges
 

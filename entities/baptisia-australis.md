@@ -25,7 +25,7 @@ Baptisia australis was originally described as Sophora australis by Linnaeus in 
 
 The plant forms a large, bushy clump 0.9 to 1.5 meters tall and equally wide. Mature specimens develop an extensive woody crown and deep taproot, contributing to exceptional [[jeavons-climate-adaptation-growing-seasons]].
 
-Several cultivars have been selected, including 'Purple Smoke' (smoky-violet flowers), 'Solar Flare' (yellow flowers aging to orange), and 'Twilite Prairieblues' (violet flowers with yellow keels). These hybrids involve crosses with other Baptisia species.
+Several cultivars have been selected, including "Purple Smoke' (smoky-violet flowers), 'Solar Flare' (yellow flowers aging to orange), and 'Twilite Prairieblues' (violet flowers with yellow keels). These hybrids involve crosses with other Baptisia species.
 
 The common name "false indigo" refers to the inferior blue dye once produced from the plant. Native Americans and early settlers used Baptisia species as substitutes for true indigo (Indigofera tinctoria).
 

@@ -25,7 +25,7 @@ The observation that sporeless mutants do not exhibit the geotropic shift (even 
 
 ## Phototropic Directional Response
 
-In Badham's (1982) wind tunnel experiments, the phototropic response of *P. cubensis* was examined by varying light direction:
+In Badham"s (1982) wind tunnel experiments, the phototropic response of *P. cubensis* was examined by varying light direction:
 
 ### Light from Above
 

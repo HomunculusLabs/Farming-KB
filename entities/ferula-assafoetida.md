@@ -19,7 +19,7 @@ sources:
 
 The species name derives from the Persian *aza* (resin) and Latin *foetida* (stinking), reflecting the intense sulfurous odor of fresh resin. Despite its unpleasant raw smell, asafoetida develops a much milder, garlic-like flavor when cooked.
 
-Asafoetida is sometimes called "devil's dung" or "food of the gods" in historical texts. It remains an essential ingredient in Indian, Middle Eastern, and Central Asian cuisines.
+Asafoetida is sometimes called "devil"s dung" or "food of the gods" in historical texts. It remains an essential ingredient in Indian, Middle Eastern, and Central Asian cuisines.
 
 The plant is native to the arid mountain regions of Iran, Afghanistan, and Turkmenistan. [[sustainable-wild-harvesting]] remains the primary source of commercial asafoetida, though cultivation trials are underway.
 

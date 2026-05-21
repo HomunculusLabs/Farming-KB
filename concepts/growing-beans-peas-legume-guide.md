@@ -19,7 +19,7 @@ Everybody thinks legumes enrich soil by making nitrates. Actually, all nitrates 
 
 ## Soil Requirements
 
-Legumes need substantial levels of minerals, especially calcium (lime) and phosphorus, as well as having the nitrate-forming bacteria present. Old farmer's adage: "Feed your phosphate to your clover, feed your clover to your corn (plow it in), and you can't go wrong."
+Legumes need substantial levels of minerals, especially calcium (lime) and phosphorus, as well as having the nitrate-forming bacteria present. Old farmer"s adage: "Feed your phosphate to your clover, feed your clover to your corn (plow it in), and you can"t go wrong."
 
 When starting a new garden in humus-deficient soil, assume nitrate-forming bacteria are not present in sufficient numbers. Inoculating legume seeds is sensible. Inoculants purchased in bulk are far cheaper than buying nitrogen fertilizers. Small packets can cost as much as nitrogen fertilizers for a garden patch. After the garden is going for a year or two, the needed organisms will have established themselves.
 

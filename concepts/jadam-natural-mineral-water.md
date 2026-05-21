@@ -26,7 +26,7 @@ JADAM asserts: "If you use the wrong water, your farming will fail." Yet most fa
 
 ## The Body-Plant Connection
 
-Experience shows that drinking spring water for a few days makes skin smoother -- cells become healthier with the change in water. JADAM's principle: "Our bodies and plants are one." The same water quality that benefits human cells benefits plant cells.
+Experience shows that drinking spring water for a few days makes skin smoother -- cells become healthier with the change in water. JADAM"s principle: "Our bodies and plants are one." The same water quality that benefits human cells benefits plant cells.
 
 ## Farm-Made Natural Mineral Water
 

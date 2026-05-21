@@ -14,7 +14,7 @@ tags: [cannabis]
 Genetic stability in cannabis refers to the degree to which a
 population reliably reproduces its defining traits across successive
 generations of [[spanish-cannabis-seed-companies]], and growers who depend on predictable plant
-performance. Cervantes' breeding chapter provides extensive analysis of
+performance. Cervantes" breeding chapter provides extensive analysis of
 the factors that determine genetic stability and the [[query-how-to-store-cannabis-seeds-for-long-term-viability]] are genetically unstable. Most seed companies focus on
 creating seed for sale rather than developing improved or even uniform
 plant stock. Very few breeders take the time to stabilize or fix traits

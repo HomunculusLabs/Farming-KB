@@ -17,7 +17,7 @@ Between 9,000 and 7,000 years ago, the Sahara was a blooming garden. Rock drawin
 - Anthropomorphic beings with **mushroom-shaped heads** — some clearly holding mushrooms
 - Tiny horned dancers alongside mushrooms, reminiscent of early Mexican images
 - Deities with masks and horns holding mushrooms or with mushrooms attached to body parts
-- **Dashed lines** connecting mushrooms to the center of heads — possibly representing energy flow or the mushroom's influence on the soul
+- **Dashed lines** connecting mushrooms to the center of heads — possibly representing energy flow or the mushroom"s influence on the soul
 - Two distinct mushroom shapes: one resembling *[[psilocybe-semilanceata]]* (acute umbo), another resembling *Amanita* or *Stropharia* species
 - Mushrooms drawn in white, ochre, and occasionally **blue** — possibly representing the bluing phenomenon
 
@@ -57,7 +57,7 @@ The "urge to dance" effect is unusual from a modern pharmacological perspective 
 
 - *Psilocybe subaeruginosa* — colloquial name **"Gold Top"**; grows in NSW, Victoria, and South Australia; bluish-green with age or pressure; contains ~0.45% psilocybin
 - *Psilocybe cubensis* — common in subtropical/tropical Queensland pastures on cattle dung; likely introduced by early settlers
-- *[[panaeolus-cyanescens-bali-omelette]]* — colloquial name **"Blue Meanies"** (after the Beatles' *Yellow Submarine*); discovered in the early 1970s
+- *[[panaeolus-cyanescens-bali-omelette]]* — colloquial name **"Blue Meanies"** (after the Beatles" *Yellow Submarine*); discovered in the early 1970s
 - The historical "Panaeolus ovatus" intoxication accounts were likely *P. cyanescens*
 
 ### The Queensland Mushroom Boom (1969)
@@ -107,7 +107,7 @@ France has an "absurd prohibition" against exhibiting *Psilocybe* and *Strophari
 - Mushrooms served as omelettes, soups, teas, pizzas, and juices in restaurants
 - Species: *Psilocybe cubensis*, *P. subcubensis*, *Panaeolus cyanescens*
 - "Hed keequai" — local name for psychoactive mushrooms
-- January 1989: Law prohibiting usage passed after an Australian tourist's panic reaction (caused by synthetic hallucinogen adulteration, not mushrooms)
+- January 1989: Law prohibiting usage passed after an Australian tourist"s panic reaction (caused by synthetic hallucinogen adulteration, not mushrooms)
 - Commercial cultivation: rice debris added to fresh buffalo manure
 - *Psilocybe samuiensis* discovered August 1991 — similar to *P. semilanceata* but no baeocystin; grows on fertilized soil, not directly on dung
 - Mushroom tourism merchandise: T-shirts, postcards, posters, lighters, key rings
@@ -131,7 +131,7 @@ France has an "absurd prohibition" against exhibiting *Psilocybe* and *Strophari
 - **Samoa:** Teenagers discovered psychoactive effects of *P. cyanescens* in the late 1960s; parents considered it "a foolish, but totally harmless episode"
 - **New Zealand:** Usage evolved around Australian species with penalties modeled after Australian law; *P. cubensis* not native
 - **Vietnam:** *Naematoloma caerulescens* (= *P. cubensis*) collected by Patouillard in 1907
-- **Cambodia:** *[[panaeolus-cambodginiensis]]* — bluing species with psilocybin (Ola'h & Heim)
+- **Cambodia:** *[[panaeolus-cambodginiensis]]* — bluing species with psilocybin (Ola"h & Heim)
 
 ## The Soma Hypothesis
 

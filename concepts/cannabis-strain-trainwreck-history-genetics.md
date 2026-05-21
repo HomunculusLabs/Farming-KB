@@ -1,5 +1,5 @@
 ---
-title: "Trainwreck - History, Genetics, and the 'Train Wreck' Breeding Concept"
+title: "Trainwreck - History, Genetics, and the "Train Wreck' Breeding Concept"
 source: "s-t-oner-the-rev-cannabis-sativa-volume-3"
 source_author: "S.T. Oner, The Rev"
 topics: ["cannabis", "strains", "sativa", "breeding-history", "california-cannabis"]
@@ -12,7 +12,7 @@ aliases: ["Trainwreck strain", "Arcata Trainwreck", "train wreck breeding"]
 
 Trainwreck is a legendary sativa-dominant cannabis strain born in Arcata, Humboldt County, California. It quickly became known as one of the strongest strains in the state, described in the parlance of the times as a "real facemelter." Despite its stone-y effects being typically associated with indica varieties, Trainwreck is in fact a sativa-dominant hybrid, though only slightly.
 
-The [[gourmet-medicinal-mushroom-oyster-cultivation-methods]] to ensure the purity of the experience. The strain's enduring popularity is a testament to both its potency and its role in [[biodiversity-fungal-genetic-diversity]] that gave rise to Trainwreck and its many descendants.
+The [[gourmet-medicinal-mushroom-oyster-cultivation-methods]] to ensure the purity of the experience. The strain"s enduring popularity is a testament to both its potency and its role in [[biodiversity-fungal-genetic-diversity]] that gave rise to Trainwreck and its many descendants.
 
 ### Historical Context: Pre-Indoor Breeding Era
 
@@ -24,7 +24,7 @@ In the late 1970s and early 1980s, all cannabis breeding was conducted outdoors.
 
 ### The Unpredictable Results
 
-The resulting first-generation seeds from these outdoor pollinations were collectively called the **"Trainwreck" generation** — so named because it was a "train wreck" of genetics where you couldn't be certain which male had pollinated which female. The genetic combinations were essentially unpredictable crosses between multiple sativa varieties growing in proximity to one another.
+The resulting first-generation seeds from these outdoor pollinations were collectively called the **"Trainwreck" generation** — so named because it was a "train wreck" of genetics where you couldn"t be certain which male had pollinated which female. The genetic combinations were essentially unpredictable crosses between multiple sativa varieties growing in proximity to one another.
 
 This unpredictability was both a blessing and a curse. On one hand, it created incredible genetic diversity and occasionally produced truly exceptional plants — the cannabis equivalent of finding a needle in a haystack, except the needle was made of gold. On the other hand, it made selective breeding extremely difficult, as the parentage of any given seed was essentially unknown. Breeders had to grow out large numbers of seeds to find the exceptional phenotypes hidden within the genetic chaos.
 

@@ -14,7 +14,7 @@ The foundation of any [[permaculture-community-legal-structure]] rests on agreem
 
 1. **Earth care** — stewardship of ecological systems
 2. **People care** — responsibility toward human welfare
-3. **Non-profiteering** — not accumulating wealth beyond one's needs
+3. **Non-profiteering** — not accumulating wealth beyond one"s needs
 
 A community can be defined as a group of designers, people sharing a house, or individuals scattered across the globe—all connected by agreement to these principles.
 
@@ -40,7 +40,7 @@ Mollison noted that raiding or dissolving such a trust is "uncommon, almost unhe
 
 ### Level 2: The Trading Trust (Non-Profit Trading Corporation)
 
-The second trust is a non-profit trading corporation that is legally separate from the Institute but under the same company's trusteeship. This is where all business activity occurs.
+The second trust is a non-profit trading corporation that is legally separate from the Institute but under the same company"s trusteeship. This is where all business activity occurs.
 
 **Key [[metzner-shamanic-ceremony-versus-psychotherapy-structural-features]]:**
 - Occupies structures **loaned at no cost** by the Institute (which it funds)
@@ -97,7 +97,7 @@ The Trading Trust, as a non-profit corporation, must distribute all profits in f
 
 1. **To the Research Institute** — the largest portion, creating double tax exemption (not taxable as income, and tax deductible as a donation)
 2. **To public charities** — including ethnic and aboriginal groups, providing a second tax deduction
-3. **To a political party** — donations exactly equaling the cost of typewriters, desks, vehicles, and tractors (the party then purchases these items for the community's use)
+3. **To a political party** — donations exactly equaling the cost of typewriters, desks, vehicles, and tractors (the party then purchases these items for the community"s use)
 4. **To workers and dependents** — what Mollison calls a "thin miserable stream" (at Tagari, $21 per week per person regardless of age or gender)
 
 ## Worker Economics

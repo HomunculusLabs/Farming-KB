@@ -50,7 +50,7 @@ Amanita pantherina is not considered threatened. It is a common and widely distr
 
 ## Historical and Etymological Notes
 
-The specific epithet "pantherina" means "of the panther" in Latin, referring to the spotted pattern of the cap warts that resembles a panther's coat. The common name "panther cap" is a direct translation. The species has been known to European mycologists since the early 19th century and has been responsible for numerous recorded poisonings throughout its range, contributing significantly to the development of awareness about toxic mushrooms.
+The specific epithet "pantherina" means "of the panther" in Latin, referring to the spotted pattern of the cap warts that resembles a panther"s coat. The common name "panther cap" is a direct translation. The species has been known to European mycologists since the early 19th century and has been responsible for numerous recorded poisonings throughout its range, contributing significantly to the development of awareness about toxic mushrooms.
 
 The inclusion of Amanita pantherina in ethnopharmacological studies alongside [[gymnopilus-spectabilis-entity]] — a psilocybin-containing species sometimes confused with Amanita
 

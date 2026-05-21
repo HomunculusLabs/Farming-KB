@@ -9,7 +9,7 @@ sources:
 ---
 ## Psychedelic Safety and Harm Reduction
 
-Throughout most of history, natural psychedelics have been considered gifts of the Gods, associated with healing of body, mind, and soul. Problems from psychedelic use are rare when proper precautions are observed. DM Turner's [[leary-psychedelic-experience-bardo-mapping]] is not compatible with split-second decisions required while driving
+Throughout most of history, natural psychedelics have been considered gifts of the Gods, associated with healing of body, mind, and soul. Problems from psychedelic use are rare when proper precautions are observed. DM Turner"s [[leary-psychedelic-experience-bardo-mapping]] is not compatible with split-second decisions required while driving
 - Smaller doses produce similar but milder changes in consciousness
 - Have a designated driver, take a cab, or stay put
 

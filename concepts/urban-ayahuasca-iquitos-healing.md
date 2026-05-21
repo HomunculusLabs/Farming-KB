@@ -13,7 +13,7 @@ Marlene Dobkin de Rios documented the practice of urban ayahuasca curing in the 
 [[mazatec-mushroom-culture-and-velada]]
 [[campa-ayahuasca-ceremony]].
 
-Dobkin de Rios's identification of specific therapeutic mechanisms — doctrinal compliance, abreaction, suggestion, and magical conditioning — was informed by both anthropological and psychoanalytic theory, and her framework anticipated many of the concepts later developed in the field of psychedelic-assisted psychotherapy.
+Dobkin de Rios"s identification of specific therapeutic mechanisms — doctrinal compliance, abreaction, suggestion, and magical conditioning — was informed by both anthropological and psychoanalytic theory, and her framework anticipated many of the concepts later developed in the field of psychedelic-assisted psychotherapy.
 
 ## Modern Relevance
 
@@ -31,7 +31,7 @@ Beyer, S. V. (2010). Singing to the Plants: A Guide to Mestizo Shamanism in the 
 
 ## Transcendent Other
 
-The "Transcendent Other" is Terence McKenna's term for the ontologically autonomous, seemingly intelligent presence encountered during high-dose [[hofmann-lsd-clinical-research-early-studies]].
+The "Transcendent Other" is Terence McKenna"s term for the ontologically autonomous, seemingly intelligent presence encountered during high-dose [[hofmann-lsd-clinical-research-early-studies]].
 
 ## Mechanism: Information Transfer Across Species
 

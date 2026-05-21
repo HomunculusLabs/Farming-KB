@@ -47,7 +47,7 @@ semilanceata, turned up trumps.
 
 ## The Academic-Underground Gulf
 
-Peter Mantle replicated the finding at London's Imperial College in
+Peter Mantle replicated the finding at London"s Imperial College in
 1969, concluding that ingestion of about 3g of air-dry Liberty Caps
 might be expected to produce psychoactive effects. Had such a
 portentous line appeared in an American journal it would almost

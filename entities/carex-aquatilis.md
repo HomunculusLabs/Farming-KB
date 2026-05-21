@@ -9,7 +9,7 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Welsh, S.L. (1974). "Anderson's Flora of Alaska and Adjacent Parts of Canada." Brigham Young University Press.
+  - Welsh, S.L. (1974). "Anderson"s Flora of Alaska and Adjacent Parts of Canada." Brigham Young University Press.
 ---
 
 ## Overview

@@ -10,7 +10,7 @@ sources:
 
 # Geoff Hamilton
 
-Geoffrey "Geoff" Hamilton (1936–1996) was a British gardener, broadcaster, and author, best known as presenter of BBC's "Gardeners' World" and one of the most influential advocates for organic gardening methods in the English-speaking world. His book *Organic Gardening* (DK Publishing, first American edition 1993, revised by Nick Hamilton 2011) remains a comprehensive practical reference.
+Geoffrey "Geoff" Hamilton (1936–1996) was a British gardener, broadcaster, and author, best known as presenter of BBC"s "Gardeners" World" and one of the most influential advocates for organic gardening methods in the English-speaking world. His book *Organic Gardening* (DK Publishing, first American edition 1993, revised by Nick Hamilton 2011) remains a comprehensive practical reference.
 
 ## BBC Career
 

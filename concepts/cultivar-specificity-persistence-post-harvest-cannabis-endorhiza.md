@@ -15,7 +15,7 @@ tags:
 
 ## Overview
 
-One of the most surprising findings from the Winston et al. (2014) [[core-endorhiza-bacterial-community-composition-cannabis]] remained detectable even eight weeks after harvest, when root tissue was undergoing active senescence and decay. This persistence of genotype-driven microbiome structure despite the absence of active plant metabolism suggests that plant genotype imprints a durable signature on root-associated microbial communities that outlasts the plant's own physiological activity. The finding has significant implications for understanding plant-soil feedbacks, crop rotation practices, and the mechanisms by which host plants shape their microbiomes.
+One of the most surprising findings from the Winston et al. (2014) [[core-endorhiza-bacterial-community-composition-cannabis]] remained detectable even eight weeks after harvest, when root tissue was undergoing active senescence and decay. This persistence of genotype-driven microbiome structure despite the absence of active plant metabolism suggests that plant genotype imprints a durable signature on root-associated microbial communities that outlasts the plant"s own physiological activity. The finding has significant implications for understanding plant-soil feedbacks, crop rotation practices, and the mechanisms by which host plants shape their microbiomes.
 
 ## The Two Experiments: A Natural Comparison
 

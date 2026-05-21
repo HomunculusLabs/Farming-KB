@@ -65,7 +65,7 @@ Beyond nutrient chemistry, fire causes severe physical damage to soil structure:
 ### Humus Loss
 - **10–12 cm of [[humus]]** is lost from forest soils during hot fires
 - This organic layer is the primary reservoir of soil fertility, water-holding capacity, and biological activity
-- Its loss fundamentally changes the soil's capacity to support plant life
+- Its loss fundamentally changes the soil"s capacity to support plant life
 
 ### Clay Structure Destruction
 - Clays lose their crystalline structure at high temperatures

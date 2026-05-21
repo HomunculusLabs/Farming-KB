@@ -27,7 +27,7 @@ control.
 
 Ridgepoint or "horseshoe" dams are built on the sub-plateaus of
 flattened ridges, usually on a descending ridgeline and below saddle
-dams. The shape is typically that of a horse's hoof. They can be
+dams. The shape is typically that of a horse"s hoof. They can be
 made below grade or walled by earth banks, and a person drain
 connects them to the next dam in a series.
 
@@ -75,7 +75,7 @@ most frequently as energy systems (micro-hydro) but are also used for
 irrigation if constructed well above the main valley floors where
 crops are grown.
 
-Barrier dams are the "engineer's dam" — they require the most
+Barrier dams are the "engineer"s dam" — they require the most
 careful design because they interact directly with stream dynamics,
 fish migration, and downstream water supply.
 

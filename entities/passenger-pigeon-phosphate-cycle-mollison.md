@@ -8,7 +8,7 @@ type: entity
 
 ## Description
 
-A concept described by [[bill-mollison]] illustrating how the extinction of the passenger pigeon (Ectopistes migratorius) disrupted a massive natural phosphate cycling system in North America. Mollison uses this as a case study for how removing mobile animal components from forest ecosystems degrades the entire system's health, arguing that "the animals are the mobile part of the forest."
+A concept described by [[bill-mollison]] illustrating how the extinction of the passenger pigeon (Ectopistes migratorius) disrupted a massive natural phosphate cycling system in North America. Mollison uses this as a case study for how removing mobile animal components from forest ecosystems degrades the entire system"s health, arguing that "the animals are the mobile part of the forest."
 
 ## Classification
 
@@ -26,7 +26,7 @@ A concept described by [[bill-mollison]] illustrating how the extinction of the 
 - Removal of passenger pigeons, marmots, gophers, moles, and other mobile biomass impoverished the landscape.
 - Mollison connects this loss directly to the need for artificial phosphate inputs in agriculture.
 - The concept extends to modern permaculture: [[backyard-poultry-and-integrated-animal-systems]] (chickens, ducks, pigeons) are essential for [[soil-protozoa-nutrient-cycling-and-mineralization]] cannot be replaced by chemical inputs alone.
-- Sixty percent of the world's grains are fed to livestock; the U.S. imports enormous protein quantities, yet still has nutrient-deficient forests.
+- Sixty percent of the world"s grains are fed to livestock; the U.S. imports enormous protein quantities, yet still has nutrient-deficient forests.
 
 ## Relevance to Cultivation and Mycology
 

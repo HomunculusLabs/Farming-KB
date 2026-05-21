@@ -10,7 +10,7 @@ sources:
 
 ## Sumerian and Akkadian Mushroom Vocabulary in Religious Texts
 
-A central pillar of Allegro's argument in *The [[amanita-muscaria-cultural-history]] mushroom.
+A central pillar of Allegro"s argument in *The [[amanita-muscaria-cultural-history]] mushroom.
 
 ## The Sumerian Key
 

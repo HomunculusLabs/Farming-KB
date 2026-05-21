@@ -10,7 +10,7 @@ sources:
 
 ## Personal Journey of Masanobu Fukuoka
 
-The story of Masanobu Fukuoka's life is inseparable from the development of his [[fukuoka-one-straw-revolution-philosophy]] that has inspired farmers and gardeners [[fukuoka-straw-scattering-testing-station-resistance]] as Head Researcher of Disease and [[fukuoka-barley-clover-cultivation]] method involved scattering rice straw on unplowed fields, allowing clover to grow as a living mulch, and broadcasting seeds in [[fukuoka-one-straw-revolution-conclusion]]" in 1975. Translated into many languages, the book attracted a worldwide following among farmers, gardeners, environmentalists, and spiritual seekers.
+The story of Masanobu Fukuoka"s life is inseparable from the development of his [[fukuoka-one-straw-revolution-philosophy]] that has inspired farmers and gardeners [[fukuoka-straw-scattering-testing-station-resistance]] as Head Researcher of Disease and [[fukuoka-barley-clover-cultivation]] method involved scattering rice straw on unplowed fields, allowing clover to grow as a living mulch, and broadcasting seeds in [[fukuoka-one-straw-revolution-conclusion]]" in 1975. Translated into many languages, the book attracted a worldwide following among farmers, gardeners, environmentalists, and spiritual seekers.
 
 Fukuoka became one of the most influential figures in the [[fukuoka-road-to-natural-farming]], [[fukuoka-do-nothing-farming-philosophy]]
 

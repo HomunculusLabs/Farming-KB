@@ -3,7 +3,7 @@ title: "What Is Azolla and Why Is It Called a Superplant?"
 tags: [query, azolla, biofertilizer, nitrogen-fixation, sustainable-agriculture]
 date: 2026-05-09
 updated: 2026-05-09
-sources: ['https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/nitrogen-fixation']
+sources: ["https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/nitrogen-fixation']
 ---
 
 ## What Is Azolla and Why Is It Called a Superplant?

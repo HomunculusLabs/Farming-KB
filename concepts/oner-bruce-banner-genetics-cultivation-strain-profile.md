@@ -9,7 +9,7 @@ topics: bruce banner, cannabis strain, sativa-dominant, hybrid, strawberry diese
 
 ## Overview
 
-Bruce Banner is a sativa-dominant hybrid cannabis strain created by Green Dream Health Services in the United States. Named after the Marvel Comics character (the human alter ego of the Hulk), Bruce Banner combines genetics from Strawberry Diesel and Ghost OG to produce a strain known for its extreme potency and dual-phase effects: an initial energetic, euphoric rush followed by progressively heavier body relaxation. Featured in S.T. Oner's Cannabis Sativa Volume 3, the strain typically tests at approximately 20% THC, though some phenotypes have been reported to exceed 28% THC in independent testing.
+Bruce Banner is a sativa-dominant hybrid cannabis strain created by Green Dream Health Services in the United States. Named after the Marvel Comics character (the human alter ego of the Hulk), Bruce Banner combines genetics from Strawberry Diesel and Ghost OG to produce a strain known for its extreme potency and dual-phase effects: an initial energetic, euphoric rush followed by progressively heavier body relaxation. Featured in S.T. Oner"s Cannabis Sativa Volume 3, the strain typically tests at approximately 20% THC, though some phenotypes have been reported to exceed 28% THC in independent testing.
 
 ## Genetic Background
 
@@ -39,7 +39,7 @@ For growers seeking the classic Bruce Banner experience described in strain guid
 
 ### Visual Characteristics
 
-Bruce Banner plants exhibit a visual transformation during flowering that references their comic book namesake. The transition from vegetative green to flowering colors includes the emergence of purple hues as the plants mature. Oner notes that "as the purple hues on your plants emerge, they'll look less like the big green guy and more like pretty flowers." This coloration is influenced by temperature during the final weeks of flowering, with cooler night temperatures enhancing anthocyanin production and purple expression.
+Bruce Banner plants exhibit a visual transformation during flowering that references their comic book namesake. The transition from vegetative green to flowering colors includes the emergence of purple hues as the plants mature. Oner notes that "as the purple hues on your plants emerge, they"ll look less like the big green guy and more like pretty flowers." This coloration is influenced by temperature during the final weeks of flowering, with cooler night temperatures enhancing anthocyanin production and purple expression.
 
 The buds themselves are dense and resinous, with a thick coating of trichomes that gives them a frosted appearance. The calyx-to-leaf ratio is favorable, meaning the buds have good bag appeal with relatively few sugar leaves to trim.
 

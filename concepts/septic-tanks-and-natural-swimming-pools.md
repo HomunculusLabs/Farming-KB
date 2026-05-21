@@ -43,7 +43,7 @@ A more sophisticated approach integrates biogas production, aquaculture, and tre
 - Aquatic plants are **harvested weekly** and returned to the biogas tank as additional feedstock, closing the nutrient loop.
 - After passing through the aquatic pond, the now partially treated effluent can flow to a conventional leach field planted with trees, completing the system.
 
-This integrated approach yields multiple products: energy (biogas), food (watercress), fodder (Pistia for livestock or compost), and tree crops (from the final leach field). It is a classic example of permaculture's principle of each element performing multiple functions.
+This integrated approach yields multiple products: energy (biogas), food (watercress), fodder (Pistia for livestock or compost), and tree crops (from the final leach field). It is a classic example of permaculture"s principle of each element performing multiple functions.
 
 ## Natural Swimming Pools
 

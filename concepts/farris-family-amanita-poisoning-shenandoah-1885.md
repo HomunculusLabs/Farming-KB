@@ -11,7 +11,7 @@ type: concept
 The Farris family poisoning of 1885 was a significant incident of fatal mushroom
 poisoning in Shenandoah, Pennsylvania, involving five victims who consumed toxic
 *[[amanita]]* specimens gathered in the wild. The case is historically notable for
-Dr. Shadle's pioneering use of **[[atropine]] sulphate** as an antidote, which resulted
+Dr. Shadle"s pioneering use of **[[atropine]] sulphate** as an antidote, which resulted
 in the recovery of three of the five patients (60% survival). The case was reported
 by Charles McIlvaine in his 1885 article "Amanitine and Its Antidote," published in
 the *Philadelphia Medical and Surgical Reporter*, and later discussed by Julius
@@ -64,7 +64,7 @@ to 104°F, mild delirium, and peculiar sensations of blindness.
 
 **Thomas R. died 56 hours** after ingestion. **Mrs. Farris died 63 hours** after
 ingestion. Both deaths were attributed to progressive asthenia — profound weakness
-and circulatory collapse caused by the amatoxin's destruction of hepatic tissue.
+and circulatory collapse caused by the amatoxin"s destruction of hepatic tissue.
 
 ## Treatment
 
@@ -117,7 +117,7 @@ Based on his experience, Dr. Shadle drew three key conclusions:
 
 The Farris family case is one of the earliest well-documented instances of atropine
 being used successfully as a treatment for *Amanita* poisoning in the United States.
-Dr. Shadle's report, as relayed by McIlvaine and Palmer, contributed to the evolving
+Dr. Shadle"s report, as relayed by McIlvaine and Palmer, contributed to the evolving
 understanding of the delayed onset of amatoxin poisoning, the mechanism of death in
 fatal *Amanita* poisoning (asthenia and organ failure), and the potential role of
 atropine in supporting cardiovascular and respiratory function during the critical

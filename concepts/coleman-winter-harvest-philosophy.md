@@ -11,7 +11,7 @@ updated: 2026-04-26
 
 ## Core Philosophy
 
-Coleman's winter-harvest system at Four Season Farm is built on the insight that fresh vegetables can be produced year-round [[query-what-is-succession-planting-and-how-do-i-plan-a-succession-planting-schedule]]** — sowing vegetables multiple times from late summer through late fall to provide continual harvest
+Coleman"s winter-harvest system at Four Season Farm is built on the insight that fresh vegetables can be produced year-round [[query-what-is-succession-planting-and-how-do-i-plan-a-succession-planting-schedule]]** — sowing vegetables multiple times from late summer through late fall to provide continual harvest
 3. **[[query-how-to-make-and-use-plant-based-foliar-sprays-for-pest-and-disease-prevention]]**: For one year out of every two, growing beds are uncovered, exposing soil to the cleansing powers of sun, rain, wind, and snow. This prevents the buildup of pests, diseases, and excess soil nutrients that plague permanent greenhouses.
 - **Green manure opportunity**: During the uncovered year, growers can plant long-term, deep-rooting leguminous [[mobile-greenhouses]] because of their enormous potential for soil health.
 
@@ -19,7 +19,7 @@ Coleman calls the movable greenhouse "the best new gardening idea of the twenty-
 
 ## The Second Spring: Succession Planting Timeline
 
-Coleman's winter-harvest system begins planting on August 1, which he calls the "second spring." The planting season for winter harvest extends from August 1 through late fall and into winter. This reversed timing — where day length is contracting rather than expanding and temperatures are falling rather than rising — makes the choice of precise sowing dates far more crucial than for spring planting. Dates are also very crop-specific.
+Coleman"s winter-harvest system begins planting on August 1, which he calls the "second spring." The planting season for winter harvest extends from August 1 through late fall and into winter. This reversed timing — where day length is contracting rather than expanding and temperatures are falling rather than rising — makes the choice of precise sowing dates far more crucial than for spring planting. Dates are also very crop-specific.
 
 The guiding principle is to get plants almost to maturity before the day length becomes shorter than ten hours per day. Once the ten-hour threshold is crossed, plant growth slows dramatically. The strategy then shifts to maintaining mature plants in a harvestable state through the coldest months, relying on the twice-tempered climate of the greenhouse plus row cover to keep them alive.
 

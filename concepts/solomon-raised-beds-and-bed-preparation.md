@@ -9,7 +9,7 @@ type: concept
 
 ## Solomon Raised Beds and Bed Preparation
 
-## Solomon's Approach to Raised Beds
+## Solomon"s Approach to Raised Beds
 
 Solomon uses raised beds but with a very different philosophy from the [[row-gardening-vs-intensive-methods-solomon]] recommend.
 
@@ -28,7 +28,7 @@ Raised beds provide several advantages:
 Retaining walls or perimeter boards (typically 1x6 or 2x6 lumber) hold the bed shape and prevent soil erosion. The boards are not strictly necessary but help maintain the bed's form over years of use.
 
 ### Initial Bed Preparation
-For new beds, the standard approach involves loosening the soil to two feet deep (60 cm), allowing root systems to go down instead of out. However, Solomon cautions that this "double-digging" approach is labor-intensive and unnecessary for the extensive spacing he recommends -- with wider spacing, roots don't need to go as deep because they aren't competing with neighbors for horizontal space.
+For new beds, the standard approach involves loosening the soil to two feet deep (60 cm), allowing root systems to go down instead of out. However, Solomon cautions that this "double-digging" approach is labor-intensive and unnecessary for the extensive spacing he recommends -- with wider spacing, roots don"t need to go as deep because they aren't competing with neighbors for horizontal space.
 
 ### Soil Depth
 Raised beds should have at least 6-8 inches (15-20 cm) of loose, fertile soil above the original ground level. This is achieved by incorporating [[jeavons-grow-biointensive-method-overview]] calls for double-digging beds to two spade depths (about 24 inches / 60 cm). Solomon acknowledges this creates excellent soil conditions but questions whether the enormous labor investment is worthwhile when extensive spacing allows plants to access sufficient soil volume without such deep preparation.

@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-[[zero-emissions-research-and-initiatives]] (ZERI) is an international organization founded by visionary eco-designer Gunter Pauli that pioneers circular production systems integrating mushroom cultivation. ZERI's core philosophy—"Zero emissions means zero waste"—applies systems thinking to design projects that eliminate waste by channeling the output of one process as input for another. By modeling industrial systems on natural ecosystem relationships among the five kingdoms of life, ZERI demonstrates that mushroom cultivation can serve as a central node in sustainable production chains, converting agricultural and industrial waste into food, income, energy, and fertile soil.
+[[zero-emissions-research-and-initiatives]] (ZERI) is an international organization founded by visionary eco-designer Gunter Pauli that pioneers circular production systems integrating mushroom cultivation. ZERI"s core philosophy—"Zero emissions means zero waste"—applies systems thinking to design projects that eliminate waste by channeling the output of one process as input for another. By modeling industrial systems on natural ecosystem relationships among the five kingdoms of life, ZERI demonstrates that mushroom cultivation can serve as a central node in sustainable production chains, converting agricultural and industrial waste into food, income, energy, and fertile soil.
 
 ## Gunter Pauli and the ZERI Philosophy
 
@@ -18,7 +18,7 @@ ZERI applies **systems thinking**—a holistic approach that considers feedback 
 
 ## The Five Kingdoms Design Framework
 
-ZERI's design principles are explicitly modeled on relationships among the five kingdoms of life:
+ZERI"s design principles are explicitly modeled on relationships among the five kingdoms of life:
 
 1. **Bacteria** — Decompose organic matter, produce methane in anaerobic conditions
 2. **Protists (Algae)** — Process nutrients via photosynthesis, produce biomass

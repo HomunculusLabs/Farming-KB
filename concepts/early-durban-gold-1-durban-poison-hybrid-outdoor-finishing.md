@@ -16,7 +16,7 @@ The (Durban Poison × Early Girl) first cross was then bred with Guerilla Gold #
 
 ## The Royal Canadian Marijuana Collective
 
-Limestone City Seeds operates as part of the Royal Canadian Marijuana Collective (RCMC), a medical breeder's collective based in Canada. The collective model allows independent breeders to share genetics, knowledge, and resources while maintaining individual breeding programs. This cooperative approach to cannabis breeding has been particularly important in Canada's medical cannabis system, where patient access to specific genetics has been a persistent challenge.
+Limestone City Seeds operates as part of the Royal Canadian Marijuana Collective (RCMC), a medical breeder"s collective based in Canada. The collective model allows independent breeders to share genetics, knowledge, and resources while maintaining individual breeding programs. This cooperative approach to cannabis breeding has been particularly important in Canada's medical cannabis system, where patient access to specific genetics has been a persistent challenge.
 
 ## Post-Harvest: Finger Hash
 

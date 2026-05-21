@@ -16,7 +16,7 @@ Beyond the JADAM Wetting Agent, the JADAM pesticide system includes JADAM Sulfur
 
 "After nearly 100 experiments, I found the method to completely liquefy sulfur. I still do not forget the rapture I felt at that time. My small kitchen was my lab; it was around 3am that I knew that I finally made it."
 
-Cho's development of JS was a years-long process of experimentation, driven by the desire to create a sulfur germicide that could be made without heating and in plastic containers.
+Cho"s development of JS was a years-long process of experimentation, driven by the desire to create a sulfur germicide that could be made without heating and in plastic containers.
 
 ### No-Heat Innovation
 

@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-The aquatic spirit world in Amazonian vegetalismo is a vast, multi-layered realm beneath the rivers, inhabited by the yakurunas (water people), mermaids, and a bewildering variety of water spirits. These beings are accessed through [[ayahuasca-preparation-pablo-amaringo-ucayali-shamanism]]'s paintings provide the most detailed visual documentation of this complex spirit ecology.
+The aquatic spirit world in Amazonian vegetalismo is a vast, multi-layered realm beneath the rivers, inhabited by the yakurunas (water people), mermaids, and a bewildering variety of water spirits. These beings are accessed through [[ayahuasca-preparation-pablo-amaringo-ucayali-shamanism]]"s paintings provide the most detailed visual documentation of this complex spirit ecology.
 
 ## Types of Yakurunas (Vision 19)
 

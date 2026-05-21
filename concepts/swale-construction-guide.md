@@ -30,7 +30,7 @@ The distance between swales depends on rainfall, slope, and soil type:
 ## How to Lay Out a Swale
 
 1. **Determine spacing**: Use rainfall, slope, and soil type as guides (see above)
-2. **Find the contour line**: Use a leveling device — surveyor's transit, peep-sight level, water level, line level, or build an A-frame level from 1x2 or 2x2 wood
+2. **Find the contour line**: Use a leveling device — surveyor"s transit, peep-sight level, water level, line level, or build an A-frame level from 1x2 or 2x2 wood
 3. **Calibrate the A-frame** (if using): Stand the frame on level ground, mark where a weight on a string crosses the crossbeam. To use, flip the A-frame along the slope; when the string crosses the same mark, the two feet are on the same contour
 4. **Drive pegs**: Mark the course of the swale. On hilly ground, space pegs about 6 feet apart; on flat ground, every 10-15 feet. You will be surprised how much even "flat" ground undulates
 5. **The critical point**: The swale must be truly level so water infiltrates evenly and steadily

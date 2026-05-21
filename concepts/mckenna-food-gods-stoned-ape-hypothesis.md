@@ -10,7 +10,7 @@ updated: 2026-04-26
 
 ## The Stoned Ape Hypothesis
 
-The "Stoned Ape" hypothesis is Terence McKenna's controversial evolutionary theory proposing that psilocybin-containing mushrooms played a decisive catalytic role in the emergence of human consciousness, language, and culture. First presented in *Food of the Gods* (1992), it argues that the quasi-symbiotic relationship between early hominids and **[[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]] growing in cattle dung on the African grasslands) was the missing factor explaining the rapid acceleration of human cognitive evolution.
+The "Stoned Ape" hypothesis is Terence McKenna"s controversial evolutionary theory proposing that psilocybin-containing mushrooms played a decisive catalytic role in the emergence of human consciousness, language, and culture. First presented in *Food of the Gods* (1992), it argues that the quasi-symbiotic relationship between early hominids and **[[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]] growing in cattle dung on the African grasslands) was the missing factor explaining the rapid acceleration of human cognitive evolution.
 
 ## The Three Levels of Psilocybin Use
 
@@ -26,7 +26,7 @@ At slightly larger doses, psilocybin acts as a central nervous system stimulant 
 
 ### Level 3: High Dose — Shamanic Ecstasy and Language
 
-At the highest levels of consumption, full-blown shamanic ecstasy occurs — what McKenna called "a rapture whose breadth and depth is the despair of prose." This level of intoxication provided access to realms of supernatural power and the transcendent Other. Most critically, McKenna argued that psilocybin's remarkable property of stimulating the language-forming capacity of the brain made it "the catalyst to the human development of language." The visionary experiences at this dose level promoted the emergence of ritual, religion, and the sense of communal responsibility for group offspring.
+At the highest levels of consumption, full-blown shamanic ecstasy occurs — what McKenna called "a rapture whose breadth and depth is the despair of prose." This level of intoxication provided access to realms of supernatural power and the transcendent Other. Most critically, McKenna argued that psilocybin"s remarkable property of stimulating the language-forming capacity of the brain made it "the catalyst to the human development of language." The visionary experiences at this dose level promoted the emergence of ritual, religion, and the sense of communal responsibility for group offspring.
 
 ## The Evolutionary Mechanism: Steering Clear of Lamarck
 
@@ -47,7 +47,7 @@ McKenna situated the hypothesis within the environmental context of the African 
 
 ## Critical Assessment
 
-The Stoned Ape hypothesis remains highly speculative and is not accepted within mainstream evolutionary biology or anthropology. Critics point to the absence of archaeological evidence, the difficulty of testing the hypothesis, and the availability of more conventional explanations for human cognitive evolution (social brain hypothesis, tool use, fire, cooking). However, McKenna's central insight — that the biochemical relationship between humans and psychoactive plants has been a neglected factor in understanding human cultural and cognitive development — continues to stimulate interdisciplinary discussion at the intersection of ethnobotany, evolutionary psychology, and consciousness studies.
+The Stoned Ape hypothesis remains highly speculative and is not accepted within mainstream evolutionary biology or anthropology. Critics point to the absence of archaeological evidence, the difficulty of testing the hypothesis, and the availability of more conventional explanations for human cognitive evolution (social brain hypothesis, tool use, fire, cooking). However, McKenna"s central insight — that the biochemical relationship between humans and psychoactive plants has been a neglected factor in understanding human cultural and cognitive development — continues to stimulate interdisciplinary discussion at the intersection of ethnobotany, evolutionary psychology, and consciousness studies.
 
 ## See Also
 - [[mckenna-stoned-ape-hypothesis-human-evolution]]
@@ -79,7 +79,7 @@ At slightly higher doses, the effect of psilocybin is primarily sexual and socia
 ### Level 3: High Doses — Dissolution of Boundaries and Ego Death
 Still higher doses of psilocybin consumed less frequently would activate the visionary capacity of the brain and produce a cascading flood of imagery. The presence of psilocybin in the hominid diet changed the parameters of the process of natural selection. The behavioral characteristics of the most successful members of the group — those who used psilocybin — became encoded in the epigenetic structure of the hominid brain.
 
-## Roland Fischer's Research
+## Roland Fischer"s Research
 
 In research done in the late 1960s, Roland Fischer gave small amounts of psilocybin to graduate students and then measured their ability to detect the moment when previously parallel lines became skewed. He found that performance ability on this particular task was actually improved after small doses of psilocybin. Fischer summed up: "You see what is conclusively proven here is that under certain circumstances one is actually better informed concerning the real world if one has taken a drug than if one has not."
 ## Practical Applications

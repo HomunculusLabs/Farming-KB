@@ -95,7 +95,7 @@ The critical unanswered question is: what are the ecophysiological consequences 
 
 ## Nitrogen Saturation and Nutrient Imbalance
 
-### Liebig's Law of the Minimum
+### Liebig"s Law of the Minimum
 
 The principle that growth is limited by the most scarce resource applies to nitrogen-saturated forests:
 

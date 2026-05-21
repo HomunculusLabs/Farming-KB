@@ -48,7 +48,7 @@ The structure-activity relationships (SAR) of tryptamines, systematically explor
 
 **N,N-Diisopropyl (DIPT pattern)**: Remarkably unique profile dominated by auditory distortion with minimal visual effects. Duration 6-8 hours.
 
-**N-Methyl-N-isopropyl (MIPT pattern)**: orally active at low doses (10-25 mg) despite the presence of a methyl group. Shulgin's commentary: "My sense is that it is the N-small-group that does the job in the brain, and it is the N-big-group that keeps the inactivating oxidase enzymes away from the nitrogen atom."
+**N-Methyl-N-isopropyl (MIPT pattern)**: orally active at low doses (10-25 mg) despite the presence of a methyl group. Shulgin"s commentary: "My sense is that it is the N-small-group that does the job in the brain, and it is the N-big-group that keeps the inactivating oxidase enzymes away from the nitrogen atom."
 
 **N-Methyl-N-propyl (MPT)**: Inactive at 20 mg oral, demonstrating that the branching of the isopropyl group (vs. straight-chain propyl) is critical for oral activity. Shulgin notes "the lumpiness of the isopropyl may be playing some role."
 

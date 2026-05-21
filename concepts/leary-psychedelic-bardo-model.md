@@ -1,5 +1,5 @@
 ---
-title: Leary's Psychedelic Bardo Model
+title: Leary"s Psychedelic Bardo Model
 created: 2026-04-23
 updated: 2026-04-23
 type: concept
@@ -26,19 +26,19 @@ The manual classifies Second Bardo visions into seven types, following the struc
 
 The Third Bardo is "the period in which the consciousness makes the transition from transcendent reality to the reality of ordinary waking life." The Tibetans call it the Bardo of "seeking rebirth." For most normal people, approximately fifty percent of the entire psychedelic experience is spent in this phase.
 
-The types of re-entry made can "profoundly color the person's subsequent attitudes and feelings about himself and the world, for weeks or even months afterwards." A predominantly negative session can still be turned to great advantage if the re-entry is positive and highly conscious.
+The types of re-entry made can "profoundly color the person"s subsequent attitudes and feelings about himself and the world, for weeks or even months afterwards." A predominantly negative session can still be turned to great advantage if the re-entry is positive and highly conscious.
 
 ## The Concept of "Games"
 
-A distinctive feature of Leary's interpretation is his use of the term "games" to translate Buddhist concepts of karma and attachment. A "game" is defined as a behavioral sequence with nine features: roles, rules, rituals, goals, strategies, values, language, space-time locations, and movement patterns.
+A distinctive feature of Leary"s interpretation is his use of the term "games" to translate Buddhist concepts of karma and attachment. A "game" is defined as a behavioral sequence with nine features: roles, rules, rituals, goals, strategies, values, language, space-time locations, and movement patterns.
 
-The purpose of the psychedelic experience, in this framework, is to temporarily step outside one's habitual games — to see them as optional rather than inevitable. "Liberation" means recognizing that all games are constructions of consciousness, not inherent features of reality.
+The purpose of the psychedelic experience, in this framework, is to temporarily step outside one"s habitual games — to see them as optional rather than inevitable. "Liberation" means recognizing that all games are constructions of consciousness, not inherent features of reality.
 
 The manual identifies four "basic trusts" that prepare a person for the experience: (1) awareness can expand beyond the ego, (2) the experience is safe, (3) dangers are mind-produced, and (4) one should avoid both grasping and fleeing.
 
 ## Influence and Legacy
 
-Leary's psychedelic adaptation of the Bardo Thodol became one of the most influential texts of the 1960s counterculture. It established the framework of [[mckenna-suppression-psychedelic-research-lsd-therapy]], and introduced Eastern contemplative concepts to a Western audience through the accessible medium of psychedelic experience.
+Leary"s psychedelic adaptation of the Bardo Thodol became one of the most influential texts of the 1960s counterculture. It established the framework of [[mckenna-suppression-psychedelic-research-lsd-therapy]], and introduced Eastern contemplative concepts to a Western audience through the accessible medium of psychedelic experience.
 
 The model's emphasis on the guide's role, on preparation and trust, and on the recognition that "all visions are created by your mind" prefigured many principles now validated by contemporary [[leary-peaceful-and-wrathful-visions]] visions, and the instruction to neither pursue nor flee either, parallels modern therapeutic approaches to working with challenging psychedelic experiences.
 
@@ -48,7 +48,7 @@ The manual provides detailed descriptions of each Second Bardo vision type, offe
 
 1. **The Source or Creator Vision**: Visions of radiant light, divine figures, or cosmic landscapes. The instruction is to merge with these visions without attempting to possess or understand them intellectually.
 
-2. **The Internal Flow of Archetypal Processes**: Visions of organic forms — cells dividing, embryos developing, cosmic cycles. These reflect the body's own biological wisdom. The instruction is to observe without trying to direct the process.
+2. **The Internal Flow of Archetypal Processes**: Visions of organic forms — cells dividing, embryos developing, cosmic cycles. These reflect the body"s own biological wisdom. The instruction is to observe without trying to direct the process.
 
 3. **The Fire-Flow of Internal Unity**: Visions of flames, fiery landscapes, or consuming energy. These can feel threatening but represent the dissolution of ego-boundaries. The instruction is to surrender to the fire rather than fleeing.
 

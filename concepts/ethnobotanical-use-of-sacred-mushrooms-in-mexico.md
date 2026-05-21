@@ -18,7 +18,7 @@ de las Cosas de Nueva España*. Sahagún documented the use of
 teonanácatl in Aztec ceremonies, providing the earliest European
 account of [[valentina-pavlovna-wasson]] traveled to
 Mexico and participated in a nocturnal mushroom ceremony led by the
-Mazatec curandera María Sabina in Huautla de Jiménez, Oaxaca. Wasson's
+Mazatec curandera María Sabina in Huautla de Jiménez, Oaxaca. Wasson"s
 1957 *Life* magazine article "Seeking the Magic Mushroom" brought
 global attention to these practices and launched the modern era of
 [[shamanic-entheogenic-healing-rituals]]

@@ -23,7 +23,7 @@ In the mid-1980s, Spanish youngsters near Barcelona were observed using Panaeolu
 
 [[psilocybin-accidental-ingestion-australia]] cases were documented. See [[grass-seed-cultivation-of-psilocybe-mushrooms]] cubensis had been translated into several European languages and published in different countries. It was almost certain that the book was being used as a cultivation guide in Europe. However, there were no available data about the success rate of these experiments. In many cases, commonly occurring contaminants probably prevented fruiting of this subtropical species on rye substrate in European conditions.
 
-## The Future (from Gartz's Perspective)
+## The Future (from Gartz"s Perspective)
 
 Gartz expressed hope that current "lop-sided attitudes against hallucinogens may be changing for the better" and that Switzerland's example might lead to re-legalization of [[magic-mushroom-prohibition-and-uk-drug-policy]] was generally inconsistent and often disproportionate:
 

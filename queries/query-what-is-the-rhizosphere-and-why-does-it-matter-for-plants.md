@@ -3,7 +3,7 @@ title: "What Is the Rhizosphere and Why Does It Matter for Plants?"
 tags: [query, rhizosphere, soil-biology, plant-microbiome, mycorrhiza]
 date: 2026-05-09
 updated: 2026-05-09
-sources: ['raw/papers/what-a-plant-knows-daniel-chamovitz.md']
+sources: ["raw/papers/what-a-plant-knows-daniel-chamovitz.md']
 ---
 
 ## What Is the Rhizosphere and Why Does It Matter for Plants?

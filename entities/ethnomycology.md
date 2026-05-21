@@ -27,14 +27,14 @@ prehistory.
 
 ### Origins
 
-The formal study of ethnomycology began with R. Gordon Wasson's pioneering work
+The formal study of ethnomycology began with R. Gordon Wasson"s pioneering work
 in the 1950s, particularly his discovery of the Mazatec mushroom velada ceremony
 in Mexico, documented in the landmark 1957 LIFE Magazine article "Seeking the
 Magic Mushroom." Wasson coined the term "ethnomycology" to describe this new
 field dedicated specifically to mushrooms with consciousness-expanding qualities.
 
 However, the observations that form the basis of ethnomycology are ancient. The
-source text notes that "the term, 'Ethnomycology' was coined by its father, the
+source text notes that "the term, "Ethnomycology' was coined by its father, the
 late Gordon Wasson," but the line of study itself — observing connections between
 mushrooms and religion — has been expanding as "more and more correlations come
 to light regarding the usage of mushrooms in a particular culture or religion."
@@ -42,7 +42,7 @@ to light regarding the usage of mushrooms in a particular culture or religion."
 ### Key Figures
 
 - **R. Gordon Wasson:** Coined the term, documented Mazatec mushroom ceremonies,
-  established the field's methodology
+  established the field"s methodology
 - **John Marco Allegro:** Philologist and Dead Sea Scrolls translator who traced
   linguistic connections between biblical texts and *[[amanita-muscaria]]*
 - **[[timothy-leary]]:** Popularized consciousness research with psychedelic
@@ -70,7 +70,7 @@ The central thesis explored in the source text is that *Amanita muscaria* (the
 fly agaric) played a foundational role in the development of virtually every
 major world religion and mythology. This hypothesis holds that:
 
-- The mushroom's biological characteristics (seedless growth, tree symbiosis,
+- The mushroom"s biological characteristics (seedless growth, tree symbiosis,
   seasonal fruiting, psychoactive properties) became the basis for religious
   symbolism worldwide
 - The mushroom was anthropomorphized into deity figures (Jesus, Osiris, Soma,
@@ -108,7 +108,7 @@ The term "entheogen" is preferred in ethnomycological discourse over
 
 - **Entheogen** = En (within) + Theo (God) + Gen (generation)
 - Meaning: "the generation of God within" — for the experiencer, "the
-  realization of God within one's own consciousness"
+  realization of God within one"s own consciousness"
 - This term respects the spiritual context of use, distinguishing it from
   recreational or abusive contexts
 - The source text notes this is the preferred term among "those in the know"

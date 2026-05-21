@@ -34,7 +34,7 @@ Dano (Spanish for "harm" or "damage") is a folk illness recognized in the Peruvi
 
 ## Relevance to Cultivation and Mycology
 
-Dano illustrates the dual-use nature of plant hallucinogens in Amazonian culture: ayahuasca can be employed both for healing and for causing magical harm. Some ayahuasqueros specialize in using psychedelic drugs for socially defined evil purposes, claiming they can leave their bodies while intoxicated and inflict harm and even incurable disease upon their clients' enemies. This dual role of plant medicines -- as tools for both curing and sorcery -- is essential for cultivators and researchers to understand. The belief system surrounding dano directly structures how, when, and why ayahuasca is used in therapeutic contexts. Healers treat dano by using ayahuasca visions to identify the person responsible for the bewitchment and to determine the appropriate counter-measure.
+Dano illustrates the dual-use nature of plant hallucinogens in Amazonian culture: ayahuasca can be employed both for healing and for causing magical harm. Some ayahuasqueros specialize in using psychedelic drugs for socially defined evil purposes, claiming they can leave their bodies while intoxicated and inflict harm and even incurable disease upon their clients" enemies. This dual role of plant medicines -- as tools for both curing and sorcery -- is essential for cultivators and researchers to understand. The belief system surrounding dano directly structures how, when, and why ayahuasca is used in therapeutic contexts. Healers treat dano by using ayahuasca visions to identify the person responsible for the bewitchment and to determine the appropriate counter-measure.
 
 ## Treatment Methods
 
@@ -72,7 +72,7 @@ The generalized, immobilizing anxiety present in the sociocultural milieu of Bel
 
 ## Doctrinal Compliance
 
-Ehrenwald (1966) traced the continuity between present-day scientific therapy and primitive healing, coining the phrase "doctrinal compliance." This concept describes the phenomenon where a patient ends up complying with the therapist's unconscious wishes and expectations. In the ayahuasca healing context, patients who have been exorcised by the healer prior to the session are more likely to experience visions consistent with the healer's diagnostic framework. This unconscious process operates in both magical and modern therapy procedures, and is particularly pertinent to the treatment of dano in Iquitos.
+Ehrenwald (1966) traced the continuity between present-day scientific therapy and primitive healing, coining the phrase "doctrinal compliance." This concept describes the phenomenon where a patient ends up complying with the therapist"s unconscious wishes and expectations. In the ayahuasca healing context, patients who have been exorcised by the healer prior to the session are more likely to experience visions consistent with the healer's diagnostic framework. This unconscious process operates in both magical and modern therapy procedures, and is particularly pertinent to the treatment of dano in Iquitos.
 
 ## References
 

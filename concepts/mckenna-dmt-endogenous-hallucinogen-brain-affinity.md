@@ -42,7 +42,7 @@ debated.
 
 ## Pharmacokinetic Signature: Speed as Evidence of Affinity
 
-McKenna draws special attention to DMT's pharmacokinetic profile
+McKenna draws special attention to DMT"s pharmacokinetic profile
 as evidence of its unique relationship with the human brain:
 
 "The very fact that the onset of DMT is so rapid, coming on in
@@ -50,7 +50,7 @@ forty-five seconds and lasting five minutes, means that the brain
 is absolutely at home with this compound."
 
 He contrasts this with LSD: "a hallucinogen like LSD is retained
-in the body for some time." The implication is that DMT's rapid
+in the body for some time." The implication is that DMT"s rapid
 onset and clearance reflect a pre-existing [[gluconeogenesis-biochemistry-metabolic-pathway]] —
 the brain has the enzymatic machinery to process DMT efficiently
 because it has been doing so throughout human (and pre-human)
@@ -104,7 +104,7 @@ This sensitivity to molecular structure at the single-atom level
 suggests that hallucinogen receptors are exquisitely tuned to
 specific molecular geometries. For endogenous compounds like DMT,
 this tuning would have been refined over evolutionary timescales,
-making the brain's response to DMT particularly efficient.
+making the brain"s response to DMT particularly efficient.
 
 ## Implications for the Nature of Consciousness
 
@@ -118,7 +118,7 @@ implications for understanding consciousness:
 
 2. The fact that DMT produces experiences of such overwhelming
    intensity and apparent informational content suggests that
-   the brain's ordinary filtering mechanisms (which suppress
+   the brain"s ordinary filtering mechanisms (which suppress
    endogenous DMT effects during waking consciousness) are
    themselves the anomaly, not the psychedelic state
 
@@ -135,7 +135,7 @@ experience validates its ontological significance:
 "One of the interesting approaches to evaluating such a compound
 is to see how eager people are to do it a second time. A touch
 of terror gives the stamp of validity to the experience because
-it means, 'This is real.'"
+it means, "This is real.'"
 
 He contrasts the DMT response with hedonistic drug experiences:
 the fact that DMT sometimes inspires genuine fear — what he calls

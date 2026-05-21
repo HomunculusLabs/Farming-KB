@@ -14,7 +14,7 @@ pesticides, and irrigation infrastructure — that only the developing nation
 could supply. When a developing country adopted a high-yielding variety, it
 became dependent on the country that controlled the variety and its required
 inputs. The seemingly generous act of sharing improved seed was, in
-Fukuoka's view, a Trojan horse that created permanent agricultural
+Fukuoka"s view, a Trojan horse that created permanent agricultural
 dependency.
 
 ## The Hybrid Rice Drama

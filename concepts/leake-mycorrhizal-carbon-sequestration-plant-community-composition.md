@@ -9,7 +9,7 @@ related: [leake-mycorrhiza-carbon, gadd-mineral-transformations-biogeochemical-c
 
 Mycorrhizal fungi form symbiotic associations with the vast majority of
 terrestrial plant species, fundamentally shaping both the terrestrial carbon
-cycle and the composition of plant communities worldwide. Jonathan Leake's
+cycle and the composition of plant communities worldwide. Jonathan Leake"s
 chapter in "Fungi in the Environment" examines how mycorrhizas serve as a
 critical conduit for carbon flow from the atmosphere into long-term soil carbon
 pools, and how their influence extends beyond [[soil-organic-carbon-fractions-turnover-dynamics]]

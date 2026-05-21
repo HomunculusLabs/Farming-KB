@@ -24,11 +24,11 @@ Franklin Hiram King (1848-1911) was an American agricultural scientist and autho
 - Documented how Asian farmers maintained soil fertility for 4,000 years without chemical fertilizers
 - His observations included composting, green manuring, intensive crop rotation, and efficient use of all organic waste
 - The book was published posthumously; King died before completing the manuscript
-- Coleman cites King's work as evidence that the principles of organic farming are "common knowledge four thousand years ago"
+- Coleman cites King"s work as evidence that the principles of organic farming are "common knowledge four thousand years ago"
 
 ## Relevance to Cultivation
 
-King's documentation proves that sustainable high-yield agriculture is not a modern invention but a rediscovery of ancient wisdom. His observations of Asian farming systems -- returning all organic waste to the soil, maintaining diverse rotations, integrating livestock and crop production -- are directly applicable to modern organic and regenerative farming. For cultivators, King's work serves as both inspiration and practical reference for time-tested growing methods.
+King"s documentation proves that sustainable high-yield agriculture is not a modern invention but a rediscovery of ancient wisdom. His observations of Asian farming systems -- returning all organic waste to the soil, maintaining diverse rotations, integrating livestock and crop production -- are directly applicable to modern organic and regenerative farming. For cultivators, King's work serves as both inspiration and practical reference for time-tested growing methods.
 
 ## Source Context
 

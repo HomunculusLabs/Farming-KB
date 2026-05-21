@@ -31,7 +31,7 @@ The Wrathful Deities (Tibetan: Herukas) are the terrifying visionary figures enc
 ### Psychological Interpretation
 
 - They represent the reactions of the mind to consciousness-expansion
-- They symbolize the intellect's attempt to maintain its threatened boundaries
+- They symbolize the intellect"s attempt to maintain its threatened boundaries
 - They embody the struggle of breaking through to ego-loss understanding
 - The terror and awe they produce makes recognition difficult, but the alertness they provoke can also facilitate liberation
 - They are classified as primarily intellectual products — projections of the mind's resistance to dissolution
@@ -46,7 +46,7 @@ The Wrathful Deities (Tibetan: Herukas) are the terrifying visionary figures enc
 ### Instructions for Navigation
 
 - Recognition is the key: "they are old friends, welcome them"
-- They are products of one's own mind — "Voidness cannot injure voidness"
+- They are products of one"s own mind — "Voidness cannot injure voidness"
 - The manual instructs: "relax, float downstream"
 - Fear and flight into animalistic pursuits leads to descent into Third Bardo rebirth struggles
 - Well-prepared persons need not experience wrathful visions at all
@@ -54,7 +54,7 @@ The Wrathful Deities (Tibetan: Herukas) are the terrifying visionary figures enc
 ## Relevance to Cultivation and Mycology
 
 - Psilocybin sessions frequently produce encounters with terrifying or overwhelming visionary content, particularly at higher doses — the Wrathful Deity framework provides a pre-existing cultural model for understanding and integrating these experiences
-- The insight that terrifying visions represent the mind's resistance to ego-dissolution is directly applicable to psilocybin session guidance — reassuring subjects that difficulty indicates proximity to breakthrough
+- The insight that terrifying visions represent the mind"s resistance to ego-dissolution is directly applicable to psilocybin session guidance — reassuring subjects that difficulty indicates proximity to breakthrough
 - The Tibetan assignment of wrathful visions to the "Brain chakra" (intellectual center) maps onto the observation that analytical, controlling personality types tend to have more difficult psychedelic experiences
 - The instruction to "welcome them like old friends" parallels modern therapeutic approaches to "leaning into" difficult psychedelic material rather than resisting it
 - Understanding that Westerners experience these archetypes through cultural filters (machinery, technology) helps guides recognize and normalize technology-themed paranoid visions during psilocybin sessions

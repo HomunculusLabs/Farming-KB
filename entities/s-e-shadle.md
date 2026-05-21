@@ -9,7 +9,7 @@ tags: [person, physician, clinician, antidote, pennsylvania]
 
 ## Description
 
-Dr. S. E. Shadle was a physician practicing in Shenandoah, Pennsylvania, who achieved the first documented successful clinical use of atropine as an antidote in human Amanita mushroom poisoning. His treatment of the Farris family in August 1885 — five patients poisoned by Amanita verna, with three survivors — provided the critical real-world confirmation of the atropine-muscarine antagonism that had previously been demonstrated only in laboratory animals by Dr. Isaac Ott. Dr. Shadle's detailed case report, written in response to inquiries from Charles McIlvaine, remains one of the most thorough clinical descriptions of Amanita poisoning progression and atropine treatment in the historical literature.
+Dr. S. E. Shadle was a physician practicing in Shenandoah, Pennsylvania, who achieved the first documented successful clinical use of atropine as an antidote in human Amanita mushroom poisoning. His treatment of the Farris family in August 1885 — five patients poisoned by Amanita verna, with three survivors — provided the critical real-world confirmation of the atropine-muscarine antagonism that had previously been demonstrated only in laboratory animals by Dr. Isaac Ott. Dr. Shadle"s detailed case report, written in response to inquiries from Charles McIlvaine, remains one of the most thorough clinical descriptions of Amanita poisoning progression and atropine treatment in the historical literature.
 
 ## Classification
 
@@ -78,7 +78,7 @@ Dr. S. E. Shadle was a physician practicing in Shenandoah, Pennsylvania, who ach
 - Subcutaneous injections of sulfate of atropia (atropine sulfate)
 - Repeated doses ranging from 1/120 to 1/60 grain
 - "The injections invariably were followed by a perceptible improvement"
-- Heart's action became stronger, pulse returned, respiration deepened
+- Heart"s action became stronger, pulse returned, respiration deepened
 
 ### Results
 

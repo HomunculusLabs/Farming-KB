@@ -1,5 +1,5 @@
 ---
-title: "Gangamma's Mandala and comparison-banana-circle-vs-herb-spiral Gardens"
+title: "Gangamma"s Mandala and comparison-banana-circle-vs-herb-spiral Gardens"
 created: 2026-04-26
 tags:
   - permaculture
@@ -12,7 +12,7 @@ updated: 2026-04-25
 sources:
 type: concept
 ---
-# Gangamma's Mandala and Banana Circle Gardens
+# Gangamma"s Mandala and Banana Circle Gardens
 
 In Taiwan and the Philippines, small intensively-planted home
 gardens have long been planned to feed a family of five all

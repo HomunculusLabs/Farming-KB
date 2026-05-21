@@ -48,7 +48,7 @@ that plants can absorb. Diverse inorganic matter decomposed by
 microorganisms increases [[savory-soil-organic-matter-and-decomposition-dynamics]] reduced need for
 chemical fertilizer.
 
-JADAM's field experience confirms that JMS combined with the cover
+JADAM"s field experience confirms that JMS combined with the cover
 crop method is the most effective solution to soil compaction. The
 combination of microbial activity and root penetration from cover
 crops physically and biologically opens compacted soil layers.

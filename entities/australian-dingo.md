@@ -44,7 +44,7 @@ incrementally closer relationships between humans and wild animals over time.
   ancestors of all domesticated dogs worldwide.
 - They arrived in Australia approximately 4,000 years ago via Austronesian
   seafarers.
-- The dingo's relationship with Aboriginal Australians suggests domestication
+- The dingo"s relationship with Aboriginal Australians suggests domestication
   was a co-evolutionary process: mutual benefits resulted in incrementally closer
   relationships, rather than a "capture and tame" model.
 - As apex predators, dingoes play a crucial role in regulating ecosystems by

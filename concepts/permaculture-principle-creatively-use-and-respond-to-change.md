@@ -10,7 +10,7 @@ sources:
 
 # Permaculture Principle 12 — Creatively Use and Respond to Change
 
-The twelfth of David Holmgren's twelve permaculture design principles. This principle has two threads: designing to make use of change in a deliberate and cooperative way, and creatively responding or adapting to large-scale system change that is beyond our control. The butterfly, which is the transformation of a caterpillar, conveys the idea of adaptive change that is uplifting rather than threatening.
+The twelfth of David Holmgren"s twelve permaculture design principles. This principle has two threads: designing to make use of change in a deliberate and cooperative way, and creatively responding or adapting to large-scale system change that is beyond our control. The butterfly, which is the transformation of a caterpillar, conveys the idea of adaptive change that is uplifting rather than threatening.
 
 > "Vision is not seeing things as they are but as they will be." — David Holmgren
 
@@ -39,7 +39,7 @@ Change brings information. When something in a system shifts — a plant dies, a
 
 ## Permanent Structures vs Renewable Adaptation
 
-Holmgren discusses the tension between building things to last and designing for change. He offers Stewart Brand's "Six S's of buildings" as a framework:
+Holmgren discusses the tension between building things to last and designing for change. He offers Stewart Brand"s "Six S"s of buildings" as a framework:
 
 1. **Site**: The most permanent — location, orientation, relationship to land
 2. **Structure**: The frame — should last centuries

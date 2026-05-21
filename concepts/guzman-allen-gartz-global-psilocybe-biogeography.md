@@ -30,7 +30,7 @@ and smaller contributions from Hypholoma, Pluteus, Inocybe, Conocybe, and others
 
 ## Southern Hemisphere Origin Hypothesis
 
-The paper's central biogeographical argument is that neurotropic Psilocybe species
+The paper"s central biogeographical argument is that neurotropic Psilocybe species
 likely originated in the **southern hemisphere**, principally in **South America**,
 based on the far greater species diversity there compared to northern regions.
 Of 85 neurotropic Psilocybe species analyzed, 59 occur in South America and Mexico

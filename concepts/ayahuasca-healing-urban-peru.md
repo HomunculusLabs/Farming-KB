@@ -35,7 +35,7 @@ Dobkin de Rios draws important distinctions between ayahuasca healing and Wester
 - **Ritual context**: Healing occurs within a ceremonial framework involving chanting, whistling, and communal participation
 - **Restorative function**: Acts as a means to restore equilibrium in "tenuous, uneasy interpersonal relations"
 
-The ayahuasca healer does not merely administer a substance — the entire ritual context, including the music (hallucinogenic whistling has been specifically studied), the setting, and the healer's authoritative presence, constitutes the therapeutic modality.
+The ayahuasca healer does not merely administer a substance — the entire ritual context, including the music (hallucinogenic whistling has been specifically studied), the setting, and the healer"s authoritative presence, constitutes the therapeutic modality.
 
 ## The Healer's Role
 

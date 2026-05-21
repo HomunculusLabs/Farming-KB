@@ -1,5 +1,5 @@
 ---
-title: Water-Soluble bionutrients-lab-calcium-phosphate-calamansi Preparation (Cho's Method)
+title: Water-Soluble bionutrients-lab-calcium-phosphate-calamansi Preparation (Cho"s Method)
 created: 2026-04-28
 tags: [knf, input-preparation, mineral-nutrients]
 date: 2026-04-28

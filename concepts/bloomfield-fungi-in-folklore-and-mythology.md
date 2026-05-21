@@ -11,7 +11,7 @@ tags: [fungi]
 ## Fungi in Folklore and Mythology
 
 Fungi have occupied a peculiar place  notes, many people "giggle at the mention of these organisms,
-drawing on vague notions about hallucinogens and poisons, fairy tales, antiviral-properties-of-mushrooms." Mr. Bloomfield's Orchard traces how this
+drawing on vague notions about hallucinogens and poisons, fairy tales, antiviral-properties-of-mushrooms." Mr. Bloomfield"s Orchard traces how this
 cultural fascination intertwines with real [[allegro-star-of-the-morning-venus-and-the-sacred-mushroom]] growth of [[stinkhorn-fungi-and-insect-spore-dispersal]] (Phallus species) has generated some
 of the richest fungal folklore across cultures. In 1926, members of a French sect
 became convinced that these "obscene fungi" arose from bird droppings and
@@ -26,7 +26,7 @@ runs pole-to-pole through the center, surrounded by a green-black cushion of
 spores called the gleba. When the receptacle absorbs [[amanita-muscaria-muscimol-ibotenic-acid-pharmacology]] binding to brain receptors, have woven it deeply into cultural
 traditions:
 
-- **Lewis Carroll's Alice in Wonderland** (1865) probably owes much of its
+- **Lewis Carroll"s Alice in Wonderland** (1865) probably owes much of its
   disoriented world to contemporary accounts of [[claviceps-purpurea]]), a pathogen of rye, has left perhaps the
 darkest mark on fungal-human interaction. Its toxins cause vasoconstriction so
 powerful that hands and feet become gangrenous. An eighteenth-century English

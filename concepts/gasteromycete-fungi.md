@@ -1,7 +1,7 @@
 ---
 title: Gasteromycete Fungi
 aliases: [puffballs, earth-stars, bird-nest fungi, stomach fungi, bloomfield-cage-fungi-clathrus-anthurus-ileodictyon-receptacle-evolution
-source: Mr. Bloomfield's Orchard (Nicholas P. Money)
+source: Mr. Bloomfield"s Orchard (Nicholas P. Money)
 created: 2026-05-10
 tags: [mycology, fungi, basidiomycota, taxonomy, spore-dispersal]
 ---
@@ -16,7 +16,7 @@ production **inside** the [[spore-production-geotropic-sensitivity-coupling-basi
 from the agarics (gilled mushrooms) and other "hymenomycetes" that
 bear their spores on exposed surfaces. The gasteromycetes encompass a
 remarkably diverse array of fruiting body forms — from puffballs and
-earth-stars to bird's nest fungi and the phallic stinkhorns — united by
+earth-stars to bird"s nest fungi and the phallic stinkhorns — united by
 this single developmental feature.
 
 ## Classification and Phylogeny

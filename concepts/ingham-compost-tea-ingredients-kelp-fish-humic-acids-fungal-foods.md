@@ -10,7 +10,7 @@ created: 2026-05-09
 
 ## Overview
 
-Ingham's Field Guide devotes extensive discussion to the classification of compost tea
+Ingham"s Field Guide devotes extensive discussion to the classification of compost tea
 ingredients by the organism groups they selectively promote. Understanding which foods
 grow bacteria vs. fungi is essential for producing teas targeted to specific soil or plant
 needs. The wrong ingredient balance can produce anaerobic conditions, favor pathogens,

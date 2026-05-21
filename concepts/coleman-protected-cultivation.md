@@ -8,7 +8,7 @@ tags: [row-covers, low-tunnels, protected-cultivation, colemansources: The Winte
 
 ## The Double-Layer Principle
 
-The technical foundation of Coleman's winter-harvest system is the combination of inner and outer protective layers. A standard unheated greenhouse provides the outer layer; floating row cover material over the crops creates a "twice-tempered climate" within.
+The technical foundation of Coleman"s winter-harvest system is the combination of inner and outer protective layers. A standard unheated greenhouse provides the outer layer; floating row cover material over the crops creates a "twice-tempered climate" within.
 
 ### Temperature Performance
 - When outdoor temperature drops to -15°F (-26°C), temperature under the inner layer of the cold house drops only to 15–18°F (-10°C to -8°C) on average

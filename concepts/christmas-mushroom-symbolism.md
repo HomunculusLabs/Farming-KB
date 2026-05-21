@@ -36,15 +36,15 @@ The theory that many Christmas traditions encode hidden references to Amanita mu
 ### Santa Claus as Shamanic Figure
 - Saint Nicholas is the patron saint of children in Siberia/Russia, supplanting indigenous shamans
 - Siberian shamans dressed in red and white, entered homes through the roof opening (chimney) to perform ceremonies
-- Shamans gathered mushrooms in sacks/bags — Santa's sack of presents
+- Shamans gathered mushrooms in sacks/bags — Santa"s sack of presents
 - The name "Santa Claus" derives from Sinterklaas, itself from Saint Nicholas
 - The Weihnachtsmann (German St. Nick) was an amalgamation of older Germanic/Norse gods: Thor, Donner, Odin, Wotan
 
 ### Reindeer and Flight
 - Reindeer are native to Siberia and are known to eat Amanita muscaria eagerly
 - The "flying reindeer" mythology may reflect the pharmacological effects on the animals
-- If foragers aren't quick enough, they find only mushroom stubs — the rest "greedily gobbled up by the hungry reindeer"
-- Odin's chariot (Big Dipper) circling the North Star = Santa's sleigh
+- If foragers aren"t quick enough, they find only mushroom stubs — the rest "greedily gobbled up by the hungry reindeer"
+- Odin"s chariot (Big Dipper) circling the North Star = Santa's sleigh
 
 ### Colors and Decorations
 - Christmas colors (red, white, green) match Amanita muscaria (red cap, white spots, growing under green conifers)
@@ -64,7 +64,7 @@ The theory that many Christmas traditions encode hidden references to Amanita mu
 
 ## Norse/Germanic Mythological Connections
 
-- Thor's hammer is mushroom-shaped; thrown to earth in thunder/lightning, causes mushrooms to appear where it strikes
+- Thor"s hammer is mushroom-shaped; thrown to earth in thunder/lightning, causes mushrooms to appear where it strikes
 - Lightning was mythologically associated with mushroom growth — where lightning struck, mushrooms would grow
 - Odin's horses' blood-mingled spit hitting the ground causes Amanita to sprout (parallels Egyptian Hu and Saa from Ra's blood, and Hindu Rudra's severed phallus)
 - The Big Dipper as chariot of Odin/Wotan/Thor/King Arthur/Osiris — all circling the North Star

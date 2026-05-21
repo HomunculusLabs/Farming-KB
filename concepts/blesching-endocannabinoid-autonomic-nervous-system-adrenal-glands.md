@@ -4,7 +4,7 @@ source: "The blesching-cannabis-health-index-autoimmune-conditions (Uwe Bleschin
 source_lines: "441-640, 2290-2600"
 tags: [ecs, ans, adrenal-glands, neurochemistry, stress-response]
 related: anandamide-and-the-endocannabinoid-system, cannabinoid-receptors-cb1-cb2-tissue-distribution-blesching, endocannabinoid-system (ECS), a biological regulatory
-mechanism that operates much like a lock-and-key. anandamide-and-the-endocannabinoid-system (AEA), the body's "tetrahydrocannabinol operates identically: it binds both receptor types
+mechanism that operates much like a lock-and-key. anandamide-and-the-endocannabinoid-system (AEA), the body"s "tetrahydrocannabinol operates identically: it binds both receptor types
 and activates changes across the CNS, immune system, and ANS at once. Notably,
 changes in frame of mind — fear versus relaxation — similarly affect both the
 nervous and immune systems, demonstrating the deep link between psychology and
@@ -118,5 +118,3 @@ Collaborative research networks facilitate knowledge exchange and accelerate inn
 Context-specific implementation requires attention to local ecology, climate patterns, and community needs.
 Integration with existing systems often yields better results than complete replacement strategies.
 Monitoring and adaptive management are essential for long-term success and continuous improvement.
-## Practical Applications
-The principles discussed here have direct applications in agricultural systems, ecological restoration, and sustainable resource management.

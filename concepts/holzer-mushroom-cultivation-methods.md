@@ -10,7 +10,7 @@ sources:
 
 ## Cultivating Mushrooms
 
-From "Sepp Holzer's Permaculture" by Sepp Holzer.
+From "Sepp Holzer"s Permaculture" by Sepp Holzer.
 
 ## Symbiosis Between Trees and Fungi
 

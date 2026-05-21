@@ -46,7 +46,7 @@ Key structural elements of phloem include:
 
 The phloem depends on hydrostatic pressure rather than transpiration. As sieve tubes fill with sugar molecules, osmotic concentration increases inside the tubes. Water molecules from adjacent xylem vessels flow in to dilute the concentration, creating positive pressure that pushes sap through the system. At the sink end, where ion concentration is low, ions flow into sink cells through plasmodesmata, lowering sap concentration at the source and relieving pressure, which further drives flow toward the sink.
 
-## Dermal Tissue: The Plant's Skin
+## Dermal Tissue: The Plant"s Skin
 
 Dermal tissue forms the protective outer layer of the plant, keeping water in and shielding against external injury. It has two components:
 

@@ -9,7 +9,7 @@ sources:
 ---
 ## One-Straw Revolution Philosophy
 
-The One-Straw Revolution (1978) is Masanobu Fukuoka's manifesto of [[comparison-natural-farming-vs-permaculture]]** -- a careful, decades-long process of learning what the natural pattern is and then working within it, eliminating unnecessary human interventions one by one. His approach was the opposite of normal agricultural development. Where others asked "How about trying this?", he asked "How about not doing this? How about not doing that?"
+The One-Straw Revolution (1978) is Masanobu Fukuoka"s manifesto of [[comparison-natural-farming-vs-permaculture]]** -- a careful, decades-long process of learning what the natural pattern is and then working within it, eliminating unnecessary human interventions one by one. His approach was the opposite of normal agricultural development. Where others asked "How about trying this?", he asked "How about not doing this? How about not doing that?"
 
 Over thirty years, he eliminated plowing, fertilizer, compost, insecticides, and weeding, arriving at a method that requires little more than broadcasting seed and spreading straw. "Since advanced technology had nothing to do with growing this grain, it stands as a contradiction to the assumptions of modern science."
 
@@ -18,7 +18,7 @@ Over thirty years, he eliminated plowing, fertilizer, compost, insecticides, and
 Fukuoka framed natural farming in martial arts terms, describing three schools:
 
 ### The Two-Stroke School (Modern Industrial Farming)
-Believes victory is won by delivering the greatest barrage of techniques: plow, fertilize, spray, irrigate, harvest with machines. It "desires heaven's wisdom without grasping its meaning, and at the same time wants to make use of nature. Restlessly searching, it is unable to find anyone to propose to." This school creates the problems it then tries to solve.
+Believes victory is won by delivering the greatest barrage of techniques: plow, fertilize, spray, irrigate, harvest with machines. It "desires heaven"s wisdom without grasping its meaning, and at the same time wants to make use of nature. Restlessly searching, it is unable to find anyone to propose to." This school creates the problems it then tries to solve.
 
 ### The One-Stroke School (Narrow Natural Farming / Organic Farming)
 Seeks victory through skillful, self-conscious application of "natural" methods. The practitioner earnestly loves nature and proposes to her, but the relationship remains tentative. See [[hamilton-composting-and-organic-matter-management]] to the soil surface -- is simultaneously the simplest and most profound agricultural act. Straw connects with everything: fertility, germination, weed suppression, water management, and [[fukuoka-do-nothing-farming-and-spiritual-life]] -- the practical method

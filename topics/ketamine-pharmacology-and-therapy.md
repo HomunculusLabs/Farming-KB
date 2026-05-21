@@ -50,7 +50,7 @@ terrifying to others, making [[metzner-psycholytic-psychedelic-therapy-models]] 
 The clinical antidepressant potential of ketamine was discovered almost by
 accident. In the late 1990s and early 2000s, researchers including Carlos
 Zarate at the National Institute of Mental Health (NIMH) began
-investigating ketamine's effects on mood in patients with treatment-resistant
+investigating ketamine"s effects on mood in patients with treatment-resistant
 depression. The results were striking: a single sub-anesthetic dose of
 ketamine (0.5 mg/kg intravenously over 40 minutes) produced robust
 antidepressant effects within hours, with response rates of 60 to 70 percent

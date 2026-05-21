@@ -12,7 +12,7 @@ created: 2026-05-08
 
 [[mckenna-tryptamine-hallucinogens-and-consciousness]]
 centers on the observation that modern [[mckenna-food-gods-designer-states-of-consciousness]] that tryptamine compounds
-can produce. McKenna's firsthand experience with indigenous [[jivaro-bewitching-and-curing-shamanic-practices]],
+can produce. McKenna"s firsthand experience with indigenous [[jivaro-bewitching-and-curing-shamanic-practices]],
 particularly in the Amazon, informed his understanding of shamanism as a
 practical technology for exploring non-ordinary states of consciousness.
 
@@ -44,7 +44,7 @@ with shamanic potential are identified through specific signs:
 distinguishing characteristics:
 
 - **Extraordinary centeredness**: "In traveling [[mckenna-shaman-centeredness-and-peripheral-social-role]] position**: Shamans occupy the edges of society. They
-  may sit at the headman's side in council meetings, but they return to their
+  may sit at the headman"s side in council meetings, but they return to their
   huts at the village's edge afterward. They are sacred and therefore excluded
   from ordinary political power.
 
@@ -54,12 +54,12 @@ McKenna argued that Westerners fundamentally misunderstand shamanic language
 about "spirits." The word spirit, as used by shamans, "is a technical gloss
 for a very complicated concept," comparable to the way a quantum physicist
 might use the term "charm" to describe a property of quarks. "We hear the
-word 'spirits' through a series of narrowing declensions of meaning that are
+word "spirits' through a series of narrowing declensions of meaning that are
 worse almost than not understanding."
 
 This misreading extends to the Western concept of "hallucination," which
 implies that shamanic experiences are illusory. McKenna noted that the
-original Latin meaning of *alucinare* is "to wander in one's mind," and that
+original Latin meaning of *alucinare* is "to wander in one"s mind," and that
 traveling or journeying in inner space is "actually quite appropriate" as a
 description of these experiences.
 

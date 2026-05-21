@@ -17,9 +17,9 @@ sources:
 
 ## Overview
 
-Elettaria cardamomum is a perennial herbaceous plant in the family Zingiberaceae, native to the moist forests of southern India and Sri Lanka. It produces the world's third most expensive spice by weight, known as the "Queen of Spices," valued for its intensely aromatic seeds used in culinary, medicinal, and aromatic applications.
+Elettaria cardamomum is a perennial herbaceous plant in the family Zingiberaceae, native to the moist forests of southern India and Sri Lanka. It produces the world"s third most expensive spice by weight, known as the "Queen of Spices," valued for its intensely aromatic seeds used in culinary, medicinal, and aromatic applications.
 
-Cardamom has been cultivated for over 4,000 years and was traded along ancient spice routes from India to the Mediterranean. Today, Guatemala is the world's largest producer, followed by India and Sri Lanka. The spice consists of dried seed capsules harvested from the plant's aerial panicles.
+Cardamom has been cultivated for over 4,000 years and was traded along ancient spice routes from India to the Mediterranean. Today, Guatemala is the world"s largest producer, followed by India and Sri Lanka. The spice consists of dried seed capsules harvested from the plant's aerial panicles.
 
 ## Taxonomy and Morphology
 

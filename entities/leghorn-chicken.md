@@ -9,7 +9,7 @@ tags: [chicken-breed, poultry, permaculture, livestock]
 
 ## Description
 
-The Leghorn is a light chicken breed mentioned by [[permaculture]]: A Designers' Manual* as a contrasting example to heavy breeds like the [[rhode-island-red]]. Mollison specifically notes that lighter breeds such as Leghorns can easily clear a 1.2 m fence — a critical behavioural characteristic that affects fencing design and component placement in permaculture systems. The breed illustrates how intrinsic characteristics determine design decisions.
+The Leghorn is a light chicken breed mentioned by [[permaculture]]: A Designers" Manual* as a contrasting example to heavy breeds like the [[rhode-island-red]]. Mollison specifically notes that lighter breeds such as Leghorns can easily clear a 1.2 m fence — a critical behavioural characteristic that affects fencing design and component placement in permaculture systems. The breed illustrates how intrinsic characteristics determine design decisions.
 
 ## Classification
 
@@ -33,7 +33,7 @@ The Leghorn is a light chicken breed mentioned by [[permaculture]]: A Designers'
 
 ## Breed Characteristics in Design Context
 
-Mollison's analysis uses breed traits to determine placement and infrastructure:
+Mollison"s analysis uses breed traits to determine placement and infrastructure:
 
 - **Flight ability**: requires roofed enclosures or 2 m+ fencing — increases infrastructure cost
 - **White plumage**: reflects heat, tolerates hot climates better than dark breeds

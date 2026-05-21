@@ -11,13 +11,13 @@ sources:
 
 ## Fertility Without Inputs
 
-Fukuoka's core insight: "Soil enriches itself year in and year out without man having to lift a finger." Nature has been creating and maintaining fertile soils for billions of years without any human assistance. The entire edifice of modern fertility management — [[cultivator-compost-preparation-phase-methods]], nutrient solutions — is built on the false premise that soil is inherently deficient. See [[worm-ecology-soil-building]] shows how earthworms alone can accomplish what mechanical tillage cannot.
+Fukuoka"s core insight: "Soil enriches itself year in and year out without man having to lift a finger." Nature has been creating and maintaining fertile soils for billions of years without any human assistance. The entire edifice of modern fertility management — [[cultivator-compost-preparation-phase-methods]], nutrient solutions — is built on the false premise that soil is inherently deficient. See [[worm-ecology-soil-building]] shows how earthworms alone can accomplish what mechanical tillage cannot.
 
 ## Green Manure as Living Fertilizer
 
 Leguminous green manure crops — clover, vetch, alfalfa, bur clover — fix atmospheric nitrogen while their roots open and enrich the soil. "If rotated with green manure crops and root vegetables, [minor grains] improve and enrich the soil." The rice/[[fukuoka-textdoc-genetic-engineering-critique-warning]] approach.
 
-### Fukuoka's Specific Green Manure System
+### Fukuoka"s Specific Green Manure System
 
 In the orchard, Fukuoka used a carefully designed green manure system centered on ladino clover, alfalfa, and acacia (black wattle). Ladino clover served as the primary ground cover — it fixes nitrogen, suppresses weeds, retains moisture, and improves soil structure all simultaneously. Seedling management was simple: sow once, let it spread naturally. The clover grows luxuriantly, protects the soil surface, and is weakened only by brief flooding before rice planting.
 
@@ -25,11 +25,11 @@ This system connected to a broader strategy of soil enrichment from the farm's p
 
 The practical consequence: farmers who apply fertilizers create the very conditions that make future applications necessary. Plants grown with chemicals lose their ability to draw nutrients from the soil, becoming dependent on external inputs. Breaking this cycle requires a transition period — but once broken, the [[chop-and-drop-mulching]] and [[fukuoka-rice-barley-dual-culture]] — practical fertility maintenance in grain production
 - [[soil-fertility-management]] — broader fertility management
-- [[fukuoka-natural-way-of-farming-theory-of-natural-farming]], Fukuoka provides an extraordinarily detailed month-by-month account of the traditional Japanese seasonal diet, illustrating his principle that "a complete natural diet will arise of itself without [man's] having to know anything and without his having to ponder the principle of yin and yang."
+- [[fukuoka-natural-way-of-farming-theory-of-natural-farming]], Fukuoka provides an extraordinarily detailed month-by-month account of the traditional Japanese seasonal diet, illustrating his principle that "a complete natural diet will arise of itself without [man"s] having to know anything and without his having to ponder the principle of yin and yang."
 
 ## The Seven Herbs of Spring
 
-The cycle begins in the new year: Japanese parsley, shepherd's purse, cudweed, chickweed, bee nettle, wild turnip, and wild radish emerge from the slumbering brown earth. Nature provides shellfish -- a brown food -- as accompaniment: "The savory taste of pond snails, fresh water clams, and sea clams in early spring is a special treat."
+The cycle begins in the new year: Japanese parsley, shepherd"s purse, cudweed, chickweed, bee nettle, wild turnip, and wild radish emerge from the slumbering brown earth. Nature provides shellfish -- a brown food -- as accompaniment: "The savory taste of pond snails, fresh water clams, and sea clams in early spring is a special treat."
 
 As spring advances, edible wild herbs expand to include bracken, osmund, and young leaves of cherry, persimmon, peach, and Chinese yam. Bamboo shoots pair with rockfish; red sea bream and grunt are excellent at barley harvest time; Spanish mackerel sashimi in spring is so good "you want to lick your plate clean."
 
@@ -49,7 +49,7 @@ Barley, slightly more yin than rice, is harvested in spring. The buckwheat harve
 
 ## Winter: Yang Fish in Yin Season
 
-With the first frost comes grilled chicken. Heavy catches of yang fish -- yellowtail and tuna -- are at their most delicious. "The exquisite flavor of yang fish during a yin season is certainly a part of nature's grand design." People transform yin fish into yang food by salting or grilling.
+With the first frost comes grilled chicken. Heavy catches of yang fish -- yellowtail and tuna -- are at their most delicious. "The exquisite flavor of yang fish during a yin season is certainly a part of nature"s grand design." People transform yin fish into yang food by salting or grilling.
 
 The winter table features pickled vegetables from the fall, oysters, sea urchins, and sea cucumbers. In late winter, butterbur flowers peek through snow, creeping saxifrage leaves are ready, and hardy green herbs emerge.
 

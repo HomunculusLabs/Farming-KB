@@ -9,7 +9,7 @@ sources: [raw/papers/magic-mushroom-growers-guide-ot-oss-on-oeric.md]
 
 ## Siberian Fly-Agaric Shamanism — Urine Recycling and the Western Imagination
 
-The fly-agaric ([[amanita-preparation-methods]] demonstrate a sophisticated understanding of the mushroom's pharmacology developed through centuries of empirical experimentation.
+The fly-agaric ([[amanita-preparation-methods]] demonstrate a sophisticated understanding of the mushroom"s pharmacology developed through centuries of empirical experimentation.
 
 ## The Western Literary Impact
 

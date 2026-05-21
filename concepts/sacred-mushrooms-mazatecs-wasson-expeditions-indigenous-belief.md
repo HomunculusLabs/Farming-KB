@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-R. Gordon Wasson's expeditions to the Mazatec country of Mexico, beginning in 1953, brought the ceremonial use of psilocybin mushrooms to Western attention. Albert Hofmann's account of Wasson's discoveries highlights the deep reverence with which the Mazatec people regard the sacred mushrooms and the challenges of understanding a worldview in which psychoactive mushrooms are a direct means of divine communication.
+R. Gordon Wasson"s expeditions to the Mazatec country of Mexico, beginning in 1953, brought the ceremonial use of psilocybin mushrooms to Western attention. Albert Hofmann's account of Wasson's discoveries highlights the deep reverence with which the Mazatec people regard the sacred mushrooms and the challenges of understanding a worldview in which psychoactive mushrooms are a direct means of divine communication.
 
 ## The Mazatec Mushroom Belief
 
@@ -16,13 +16,13 @@ R. Gordon Wasson's expeditions to the Mazatec country of Mexico, beginning in 19
 
 The Mazatec believe that the sacred mushrooms enable direct communication with God. Because many Mazatec are illiterate and do not read "in particular the Bible," they believe that "God can therefore speak directly to them through the mushroom."
 
-The missionary Eunice V. Pike identified the difficulty this creates for Christian evangelization: "the difficulties that result from explaining the Christian message, the written word, to a people who believe they possess a means—the sacred mushrooms of course—to make God's will known to them in a direct, clear manner: yes, the mushrooms permit them to see into heaven and to establish communication with God himself."
+The missionary Eunice V. Pike identified the difficulty this creates for Christian evangelization: "the difficulties that result from explaining the Christian message, the written word, to a people who believe they possess a means—the sacred mushrooms of course—to make God"s will known to them in a direct, clear manner: yes, the mushrooms permit them to see into heaven and to establish communication with God himself."
 
 This is a profound theological challenge: how do you convince people that God speaks through a book when they have direct experiential evidence that God speaks through a mushroom? The Mazatec position privileges immediate, unmediated experience over textual authority—a position that, ironically, many psychedelic researchers would come to share.
 
 ### Ceremonial Purity
 
-"The Indians' reverence for the sacred mushrooms is also evident in their belief that they can be eaten only by a 'clean' person." Cleanliness here means "ceremonially clean," which includes:
+"The Indians" reverence for the sacred mushrooms is also evident in their belief that they can be eaten only by a 'clean' person." Cleanliness here means "ceremonially clean," which includes:
 - **Sexual abstinence**: "At least four days before and after ingestion of the mushrooms"
 - **Rules for gathering**: "Certain rules must also be observed in gathering the mushrooms"
 - **Consequences of violation**: "With non-observance of these commandments, the mushrooms can make the person who eats them insane, or can even kill"
@@ -39,7 +39,7 @@ The severity of the prescribed consequences—insanity or death—for violating 
 
 "Not until 1955 did they succeed in overcoming the shyness and reserve of the Mazatec friends they had managed to make, to the point of being admitted as active participants in a mushroom ceremony."
 
-The difficulty of gaining access to the ceremony reflects the Mazatec's protective attitude toward their sacred practice. The mushrooms were not merely a cultural curiosity but a spiritual treasure, and sharing them with outsiders—especially foreigners—required a high degree of trust.
+The difficulty of gaining access to the ceremony reflects the Mazatec"s protective attitude toward their sacred practice. The mushrooms were not merely a cultural curiosity but a spiritual treasure, and sharing them with outsiders—especially foreigners—required a high degree of trust.
 
 ### Gordon and Valentina Wasson
 

@@ -58,7 +58,7 @@ The ethylene-oxygen cycle is a continuous alternation between aerobic (oxygen-do
 ### Catalyst Metals for Nitrogen Fixation
 - Molybdenum, vanadium, and zinc assist root bacteria in creating available soil nitrogen.
 
-### Smith's Recommendations for Restoring the Cycle
+### Smith"s Recommendations for Restoring the Cycle
 - Least soil disturbance possible.
 - Use of surface mulch (not incorporated into soil) as an ethylene precursor; old leaves are best.
 - Very small but frequent ammonia fertiliser until soil balances recover.

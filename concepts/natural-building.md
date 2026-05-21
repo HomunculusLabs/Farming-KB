@@ -71,7 +71,7 @@ Post-and-beam with traditional joinery (mortise and tenon, pegged).
 
 ### Pole Barn
 Treated poles set in ground as primary structure — fastest utility building.
-- **Poles:** 6"×6" treated posts, 4' in ground, 8–12' spacing
+- **Poles:** 6"×6" treated posts, 4" in ground, 8–12' spacing
 - **Roof:** Metal on purlins; walls open, partial, or enclosed
 - **Best for:** Animal shelters, hay storage, workshops, run-in sheds
 - **Pros:** Fastest/cheapest enclosed structure, minimal foundation

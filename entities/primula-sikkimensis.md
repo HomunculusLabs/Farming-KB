@@ -19,7 +19,7 @@ Primula sikkimensis is a perennial herbaceous plant in the family Primulaceae, c
 
 The species is distinguished by its tall, sturdy stems bearing umbels of nodding, fragrant, pale yellow flowers with a distinct orange or brownish eye. It is one of the largest-growing primrose species, with flower stems reaching up to 90 centimeters in height.
 
-In cultivation, Primula sikkimensis is valued for its tolerance of wet conditions and its elegant, architectural presence in damp garden borders. It has received the Royal Horticultural Society's Award of Garden Merit for its reliable garden performance.
+In cultivation, Primula sikkimensis is valued for its tolerance of wet conditions and its elegant, architectural presence in damp garden borders. It has received the Royal Horticultural Society"s Award of Garden Merit for its reliable garden performance.
 
 The species was first described by Joseph Dalton Hooker in 1854 based on specimens collected during his extensive botanical explorations of Sikkim and the eastern Himalayas.
 

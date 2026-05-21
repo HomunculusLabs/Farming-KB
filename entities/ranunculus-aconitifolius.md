@@ -21,7 +21,7 @@ The species is valued as an ornamental garden plant for its white flowers and at
 
 Ranunculus aconitifolius was first described by Carl Linnaeus in his 1753 Species Plantarum. It has been cultivated in European gardens since at least the 16th century, prized for its elegant white blooms.
 
-The plant is sometimes called "bower's buttercup" or "fair maids of France" in horticultural literature. The latter name refers specifically to the double-flowered form.
+The plant is sometimes called "bower"s buttercup" or "fair maids of France" in horticultural literature. The latter name refers specifically to the double-flowered form.
 
 ## Taxonomy
 
@@ -101,7 +101,7 @@ The species is hardy to USDA zones 4–7. It is relatively pest-free but may suf
 
 Slugs may feed on young shoots in spring. Deer and rabbits generally avoid the toxic foliage.
 
-The double-flowered cultivar 'Flore Pleno' is the most commonly grown form in gardens. It has spherical white flower heads and is sometimes sold as "white bachelor's buttons."
+The double-flowered cultivar "Flore Pleno' is the most commonly grown form in gardens. It has spherical white flower heads and is sometimes sold as "white bachelor"s buttons."
 
 In the wild, the species is protected in several European countries. Collection from natural populations is restricted in Austria, Switzerland, and parts of Italy.
 

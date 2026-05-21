@@ -10,7 +10,6 @@ date: 2026-05-11
 updated: 2026-05-11
 sources:
   - Riquelme M, Bartnicki-Garcia S (2008). "Key Differences Between Distantly Related Fungi." fungal-genetics and Biology 45:1377-1387.---
----
 
 The Spitzenkörper (German for "apical body") is a dense, membrane-
 associated organelle found at the growing tips of filamentous fungi.

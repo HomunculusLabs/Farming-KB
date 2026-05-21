@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-Zero Emissions Research and Initiatives (ZERI) is an international organization founded by visionary eco-designer Gunter Pauli. Pauli, selected as one of "100 Global Leaders of Tomorrow" by the World Economic Forum, has been a pioneer of sustainability since the 1980s. ZERI's core philosophy is encapsulated in a single principle: **"Zero emissions means zero waste."**
+Zero Emissions Research and Initiatives (ZERI) is an international organization founded by visionary eco-designer Gunter Pauli. Pauli, selected as one of "100 Global Leaders of Tomorrow" by the World Economic Forum, has been a pioneer of sustainability since the 1980s. ZERI"s core philosophy is encapsulated in a single principle: **"Zero emissions means zero waste."**
 
 ZERI applies **systems thinking** — a holistic approach that considers feedback loops in complex dynamic systems — to design projects applicable to all human needs including food, shelter, livelihood, self-esteem, and community, all implemented in a sustainable manner.
 
@@ -28,7 +28,7 @@ When the five kingdoms work together harmoniously in a healthy ecosystem, they p
 
 ## The Namibian Brewery Project
 
-The flagship ZERI project was initiated in Tsumeb, Namibia, centered on a brewery. This project perfectly illustrates ZERI's integrated design principles.
+The flagship ZERI project was initiated in Tsumeb, Namibia, centered on a brewery. This project perfectly illustrates ZERI"s integrated design principles.
 
 ### The Problem
 

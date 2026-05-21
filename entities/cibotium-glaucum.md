@@ -18,7 +18,7 @@ sources:
 
 ## Overview
 
-**Cibotium glaucum** (Hook. & Arn.) Hook., commonly known as **hāpuʻu** or Hawaiian tree fern, is the most abundant tree fern species in the Hawaiian Islands. It is a prominent member of the Dicksoniaceae and a defining feature of Hawaiʻi's montane wet forests, where its trunk and spreading fronds create a lush, primeval atmosphere.
+**Cibotium glaucum** (Hook. & Arn.) Hook., commonly known as **hāpuʻu** or Hawaiian tree fern, is the most abundant tree fern species in the Hawaiian Islands. It is a prominent member of the Dicksoniaceae and a defining feature of Hawaiʻi"s montane wet forests, where its trunk and spreading fronds create a lush, primeval atmosphere.
 
 Hāpuʻu reaches heights of 3–5 meters, occasionally up to 8 meters in optimal conditions, with large arching fronds 2–4 meters long. The trunk is covered with a dense mantle of golden-brown hairs, though less dramatically golden than the closely related *Cibotium chamissoi*.
 

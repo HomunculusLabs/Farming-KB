@@ -17,7 +17,7 @@ Human attitudes toward mushrooms are among the most polarized of any human-natur
 Mycophobic societies view mushrooms with deep suspicion, fear, and sometimes phobic aversion:
 
 - **British and Irish tradition**: Perhaps the most strongly mycophobic cultures. The English and Irish heritage notably lacks a tradition of teaching children anything positive about mushrooms. Wild mushrooms are regarded as potentially deadly, and foraging is widely discouraged.
-- **Germanic and Nordic traditions**: While less extreme than Anglo-Saxon cultures, many Germanic peoples historically viewed wild mushrooms with caution. The Grimm brothers' fairy tales often feature mushrooms in ominous contexts.
+- **Germanic and Nordic traditions**: While less extreme than Anglo-Saxon cultures, many Germanic peoples historically viewed wild mushrooms with caution. The Grimm brothers" fairy tales often feature mushrooms in ominous contexts.
 - **North American mainstream**: In the United States and Canada, the general population consumes store-bought mushrooms (primarily *[[emcdda-hallucinogenic-mushroom-cultivation-and-growkit-market]] appreciation. Shiitake, maitake, enoki, and wood ear mushrooms are dietary staples. Traditional Chinese medicine incorporates numerous fungal species.
 - **Mesoamerican traditions**: [[bloomfield-ascospore-extreme-resilience-electron-microscope-survival]] "revealed new worlds, dimensional landscapes I never dreamed possible."
 - The need for fresh specimens year-round naturally led Stamets to learn cultivation techniques — first on petri dishes, then on grain, and eventually on a wide variety of materials.
@@ -37,7 +37,7 @@ The mycophobia/mycophilia divide has real ecological consequences:
 
 - **English**: Mushroom-related idioms tend to be negative — "to mushroom" means to grow rapidly and uncontrollably; "mushroom cloud" refers to nuclear explosions.
 - **Russian**: The Russian language has over a hundred terms for different mushroom species and conditions, reflecting deep cultural familiarity. "Quiet hunting" (тихая охота) is the poetic Russian term for mushroom foraging.
-- **Japanese**: Matsutake mushrooms are considered the "king of mushrooms" in Japan, with gifts of matsutake signifying deep respect. The matsutake's scarcity and price (often hundreds of dollars per kilogram) reflects its cultural prestige.
+- **Japanese**: Matsutake mushrooms are considered the "king of mushrooms" in Japan, with gifts of matsutake signifying deep respect. The matsutake"s scarcity and price (often hundreds of dollars per kilogram) reflects its cultural prestige.
 - **Fairy tales**: European folklore associates mushrooms with elves, fairies, and the underworld — reinforcing both their mystical appeal and their perceived danger.
 
 ## Modern Trends

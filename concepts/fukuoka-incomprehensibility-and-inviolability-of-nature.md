@@ -26,7 +26,7 @@ Fukuoka identified a paradox at the heart [[query-how-does-the-nitrogen-cycle-wo
 
 ### The Concept of "Bogus Nature"
 
-Related to Fukuoka's epistemological argument is his concept of "bogus nature" -- the artificial environments that humans create when they try to replicate natural systems using scientific knowledge. A planted forest, a managed wetland, a cultivated field are all, in Fukuoka's view, examples of bogus nature: they may look like the real thing but lack the organic integrity and self-regulating properties of undisturbed natural systems. The more humans try to manage nature, the more they produce environments that are dependent on continued human intervention to survive.
+Related to Fukuoka"s epistemological argument is his concept of "bogus nature" -- the artificial environments that humans create when they try to replicate natural systems using scientific knowledge. A planted forest, a managed wetland, a cultivated field are all, in Fukuoka's view, examples of bogus nature: they may look like the real thing but lack the organic integrity and self-regulating properties of undisturbed natural systems. The more humans try to manage nature, the more they produce environments that are dependent on continued human intervention to survive.
 
 ## The Mouse-Rodenticide-Weasel Spiral
 

@@ -30,7 +30,7 @@ The same study reported that host size appeared to be the major determinant of s
 
 The highest known alpha diversity of trees occurs in the Neotropics (Gentry 1992). Epiphytes account for 12–16% of species at moist forest sites and about 25% in wet forests. Up to 50% of plant species at individual sites are herbs and shrubs. Gentry estimated that less than 25% of species at most neotropical sites are trees.
 
-Hubbell (1979) recorded 135 species of woody plants (>2 cm dbh) in a 13.4-ha tract in Costa Rica: 87 trees, 38 shrubs, and 10 vines. Using Gentry's estimates of 25% tree species at neotropical sites, an estimated total of 348 plant species should occur at this site. Applying Strong and Levin's ratios yields an estimated **2,833 species of plant-parasitic fungi** for this small forest tract.
+Hubbell (1979) recorded 135 species of woody plants (>2 cm dbh) in a 13.4-ha tract in Costa Rica: 87 trees, 38 shrubs, and 10 vines. Using Gentry"s estimates of 25% tree species at neotropical sites, an estimated total of 348 plant species should occur at this site. Applying Strong and Levin's ratios yields an estimated **2,833 species of plant-parasitic fungi** for this small forest tract.
 
 At a larger scale, approximately 10,000 plant species have been recorded in a 110,000-ha plot in Costa Rica. Using proportional estimates (25% trees, 16% epiphytes, 14% shrubs/vines, 45% herbs), the estimated total number of plant-parasitic fungi is **81,457** — more than the number of all currently described fungal species.
 

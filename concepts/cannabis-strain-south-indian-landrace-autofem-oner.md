@@ -16,7 +16,7 @@ tags:
 The South Indian strain reviewed by The Rev is a pure landrace from India,
 stabilized by AutoFem Seeds, a Spanish seed company best known for their
 [[autoflowering-cannabis]] varieties. This particular strain is described as a
-non-commercial offering from AutoFem's genetic pool — not promoted as part of
+non-commercial offering from AutoFem"s genetic pool — not promoted as part of
 their main catalog but preserved and made available because of its genetic
 significance. The Rev notes that while this South Indian landrace has been used
 many times as a parent in AutoFem's commercial hybrid breeding programs, it is
@@ -44,7 +44,7 @@ human selection for compact architecture. In their native environment, tall
 spindly plants with extensive branching are well-adapted for competing with
 other vegetation and maximizing light capture in dense tropical growth. For
 the modern indoor grower, this morphology presents challenges. For the outdoor
-grower or the preservationist, it is part of the strain's authentic character.
+grower or the preservationist, it is part of the strain"s authentic character.
 
 ## Bud Structure and Appearance
 
@@ -83,7 +83,7 @@ One of the most remarkable characteristics of the South Indian landrace is its
 resistance to tolerance buildup. The Rev reports being "flying just as high on
 day 30 as day 1," a phenomenon he attributes to the complex cannabinoid and
 terpene profile of the pure landrace. Modern hybrids, bred for maximum THC
-concentration, often produce rapid tolerance buildup as the brain's
+concentration, often produce rapid tolerance buildup as the brain"s
 endocannabinoid receptors downregulate in response to consistent high-THC
 exposure.
 

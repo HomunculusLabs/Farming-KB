@@ -17,7 +17,7 @@ In the closing philosophical chapters of "The Road Back to Nature," Fukuoka desc
 
 "I never knew such complete ease and happiness. I lived in a world of great joy. Ever since, I have merely lived my life while recalling those days. I found no joy in anything else." No matter what Fukuoka did, the happiest moments were those when he had nothing at all on his mind. To this day, everything he has done in many places has been mere diversions.
 
-In Tokyo, he has been treated to Japan's best buckwheat noodles, but to him the coarse fare in his orchard huts is plenty. If he works up an appetite on his hill, then buckwheat grown on that same hill suits him just fine.
+In Tokyo, he has been treated to Japan"s best buckwheat noodles, but to him the coarse fare in his orchard huts is plenty. If he works up an appetite on his hill, then buckwheat grown on that same hill suits him just fine.
 
 ## The Richest Life
 

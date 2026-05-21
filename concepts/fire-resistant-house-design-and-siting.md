@@ -69,7 +69,7 @@ Downslope lines of deciduous or fern-leaved (not hard-leaved) trees can serve as
 
 ## Real-World Survival Example
 
-[[bill-mollison]]'s own family survived the 1967 Hobart firestorm — a dense eucalypt [[fungi-forest-fire-succession-litter-dighton]] that destroyed 1,100 houses and killed 90 people in the area — through prior preparation:
+[[bill-mollison]]"s own family survived the 1967 Hobart firestorm — a dense eucalypt [[fungi-forest-fire-succession-litter-dighton]] that destroyed 1,100 houses and killed 90 people in the area — through prior preparation:
 - Removal of all lower limbs, loose bark, twigs, fallen leaves, dry brush, dry grass, and dead stumps (annually)
 - Chopping material into hollows and swales, weighted with stones, or burnt as cooking fuel
 - Tall tree stems saved the house from fire wind and regenerated after fire

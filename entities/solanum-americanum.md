@@ -11,7 +11,7 @@ updated: 2026-05-09
 sources:
   -Edmonds J.M. (1977). "Arylations in Solanum Section Solanum." Linnean Society.
   -Sponsler S.J. (1979). "Solanum americanum Mill." Ph.D. thesis, Indiana University.
-  -Fernald M.L. (1950). "Gray's Manual of Botany." American Book Company.
+  -Fernald M.L. (1950). "Gray"s Manual of Botany." American Book Company.
   -Manoko M.L.K. (2007). "Solanum section Solanum in Africa." Royal Botanic Gardens, Kew.
 ---
 

@@ -29,7 +29,7 @@ effects as reported by Shulgin and a circle of trusted volunteers. PIHKAL
 stands as arguably the most extensive first-person exploration of psychedelic
 chemistry ever published, and its influence on subsequent research, [[adverse-effects-and-harm-reduction-psilocybin]] considerations, cultural impact, and modern research
 directions. It draws primarily from PIHKAL itself, its companion volume TIHKAL,
-and Hamilton Turner's Essential Psychedelic Guide, which offers valuable
+and Hamilton Turner"s Essential Psychedelic Guide, which offers valuable
 comparative perspectives on the subjective effects of these compounds.
 
 ## Alexander Shulgin and the PIHKAL Project

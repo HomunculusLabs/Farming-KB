@@ -23,7 +23,7 @@ defined universe unto itself."
 ## Translinguistic Phenomena
 
 ### The Translinguistic Object
-Central to McKenna's account is the "translinguistic object" — an information
+Central to McKenna"s account is the "translinguistic object" — an information
 complex unmappable onto any known language. When the brain confronts this
 object, [[mckenna-glossolalia-and-primal-language-tryptamine-states]] in *The [[mckenna-primal-ursprache-kabbalistic-zohar-and-white-goddess-glossolalia]]* and
 the Kabbalistic "Ursprache" in the Zohar — a deeper stratum of vocal-auditory
@@ -46,15 +46,15 @@ tangible, multidimensional form.
 ## The I/Thou Relationship
 
 ### Critical Engagement
-McKenna framed the encounter in Martin Buber's I/Thou terms. The proper
+McKenna framed the encounter in Martin Buber"s I/Thou terms. The proper
 relationship is not genuflection but engaged dialogue: "You say you are
-omniscient. You're long on talk, but what can you show me?" "There is no
+omniscient. You"re long on talk, but what can you show me?" "There is no
 dignity in the universe unless we meet these things on our feet."
 
 ### Discernment
 "The accomplishment is to make sure it is telling the truth, because the
-demons are of many kinds: 'Some are made of ions, some of mind.'" Magicians
-"have always understood that one must go into such encounters with one's
+demons are of many kinds: "Some are made of ions, some of mind.'" Magicians
+"have always understood that one must go into such encounters with one"s
 wits about oneself." This parallels mystical traditions worldwide — the
 Christian *discernment of spirits*, shamanic evaluation of allies vs.
 adversaries.
@@ -69,7 +69,7 @@ informational process "moving through us and moving out of our hands and
 into the noosphere."
 
 ### The Tryptamine State as Transtemporal
-McKenna described the experience as "transtemporal" — Plato's metaphor made
+McKenna described the experience as "transtemporal" — Plato"s metaphor made
 literal: "time is the moving image of eternity." It is "a stepping out of
 the moving image and into eternity, the nunc stans of Thomas Aquinas."
 Acceleration is visible: fire discovered millions of years ago, language

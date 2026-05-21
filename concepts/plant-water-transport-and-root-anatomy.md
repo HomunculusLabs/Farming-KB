@@ -6,7 +6,7 @@ type: concept
 
 ## Plant Water Transport and Root Anatomy
 
-Plants depend on a sophisticated internal transport system to move water, nutrients, and sugars between their organs. Two [[water-transport-vascular-tissues-plants]]—[[xylem]] and [[phloem]]—serve as the plant's circulatory system, while dermal tissue, [[root-hairs]], leaves, and specialized root structures all play critical roles in supporting plant life.
+Plants depend on a sophisticated internal transport system to move water, nutrients, and sugars between their organs. Two [[water-transport-vascular-tissues-plants]]—[[xylem]] and [[phloem]]—serve as the plant"s circulatory system, while dermal tissue, [[root-hairs]], leaves, and specialized root structures all play critical roles in supporting plant life.
 
 ## Water Movement Through the Xylem
 
@@ -60,7 +60,7 @@ As woody plants age, lateral meristematic cells produce a **periderm** that repl
 
 ## Root Hairs
 
-Root hairs are specialized epidermal cells that dramatically increase the root's surface area for nutrient and water uptake. Each root hair is a single cell that can grow up to 1,500 microns (0.06 inch) long and 15 microns thick.
+Root hairs are specialized epidermal cells that dramatically increase the root"s surface area for nutrient and water uptake. Each root hair is a single cell that can grow up to 1,500 microns (0.06 inch) long and 15 microns thick.
 
 ### Development and Regulation
 

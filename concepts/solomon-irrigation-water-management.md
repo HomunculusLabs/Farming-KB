@@ -14,7 +14,7 @@ Source: Steve Solomon, "Gardening When It Counts" (2005)
 
 ## The Water Problem with Intensive Gardening
 
-Solomon's central critique of intensive raised-bed methods is their water dependence. Closely spaced plants in raised beds exhaust available moisture in days. During hot weather, intensive beds require daily watering. When water is scarce or must be hauled, this becomes unsustainable. The original "[[solomon-wide-spacing-versus-intensive-gardening-debate]]: each plant had a large root zone to mine for water, and capillary action from subsoil continuously recharged the root zone.
+Solomon"s central critique of intensive raised-bed methods is their water dependence. Closely spaced plants in raised beds exhaust available moisture in days. During hot weather, intensive beds require daily watering. When water is scarce or must be hauled, this becomes unsustainable. The original "[[solomon-wide-spacing-versus-intensive-gardening-debate]]: each plant had a large root zone to mine for water, and capillary action from subsoil continuously recharged the root zone.
 
 ## How Much Water Does Soil Hold?
 
@@ -35,7 +35,7 @@ Water loss per day in summer varies by climate:
 
 ## The Drought Strategy: Wider Spacing
 
-If drought threatens, Solomon's primary response is NOT irrigation but spacing adjustment. In every row, harvest every second plant (carrot, beet, whatever is ready). This instantly reduces moisture consumption while doubling the capillary moisture available to each survivor. The result may not be losing half the crop -- by preventing moisture stress, you may harvest more total food.
+If drought threatens, Solomon"s primary response is NOT irrigation but spacing adjustment. In every row, harvest every second plant (carrot, beet, whatever is ready). This instantly reduces moisture consumption while doubling the capillary moisture available to each survivor. The result may not be losing half the crop -- by preventing moisture stress, you may harvest more total food.
 
 In severe drought without irrigation, maximum spacing for corn is ~16 sq ft per plant (4-foot centers), imitating traditional [[solomon-foliar-feeding-fish-emulsion-and-kelp]] (1:100 dilution), or soluble [[cannabis-grow-nutrient-deficiency-problem-solving]] caused by dry surface soil when plant nutrients are located only in the plowed surface layer. Fertigation places nutrients in the subsoil where roots are foraging.
 

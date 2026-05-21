@@ -21,7 +21,7 @@ The [[campa]] (also known as Asháninka or Ashaninka) are an indigenous Arawakan
 
 - The Campa participate together in *Banisteriopsis* (ayahuasca) sessions, with the shaman serving as **director and leader** of the ceremonies.
 - Their ayahuasca practice provides a model for understanding the **evolutionary transition from shamanism to priesthood**, as discussed by [[gerald-weiss]].
-- The shaman's directorial role in the Campa ceremony may shed light on how **priests originally developed from shamans** — a key question in the anthropology of religion.
+- The shaman"s directorial role in the Campa ceremony may shed light on how **priests originally developed from shamans** — a key question in the anthropology of religion.
 - Their practice suggests how hallucinogens may have been used in **early priesthoods**, where drugs permitted otherwise uninspired persons in appointed positions to achieve trance states.
 
 ## Evolutionary Significance

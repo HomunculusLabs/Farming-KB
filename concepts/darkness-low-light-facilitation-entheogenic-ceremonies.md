@@ -15,7 +15,7 @@ Ralph Metzner identified darkness or low-light conditions as one of the three [[
 Before examining darkness specifically, it is worth situating it within the three features Metzner identified as distinguishing shamanic ceremonies from psychotherapy sessions:
 
 1. **Minimal talking** — Traditional ceremonies involve very little verbal interaction among participants, except during preparation or post-experience clarification
-2. **Essential singing** — The shaman's singing, with rapid rhythmic beat, is invariably considered essential to [[san-pedro-cactus-history]] in the Andean regions are sometimes also done around a fire, with singing; but sometimes the curandero sets up an altar, on which are placed different symbolic figurines and objects representing the light and dark spirits."
+2. **Essential singing** — The shaman"s singing, with rapid rhythmic beat, is invariably considered essential to [[san-pedro-cactus-history]] in the Andean regions are sometimes also done around a fire, with singing; but sometimes the curandero sets up an altar, on which are placed different symbolic figurines and objects representing the light and dark spirits."
 
 The altar arrangement provides visual anchors in a darkened space — symbolic objects that serve as focal points for meditation and visionary engagement. The contrast between light and dark spirits represented on the altar mirrors the internal visionary landscape.
 
@@ -23,7 +23,7 @@ The altar arrangement provides visual anchors in a darkened space — symbolic o
 
 The African Bwiti ceremonies of Gabon and Zaire incorporate an unusual visual element:
 
-> "Often, there is a mirror in the assembly room, in which the initiates may 'see' their ancestral spirits."
+> "Often, there is a mirror in the assembly room, in which the initiates may "see' their ancestral spirits."
 
 The mirror in the Bwiti ceremony serves a specific divinatory function — it is a technology for seeing into the spirit world. The initiate looks into the mirror during the iboga trance and perce ancestral spirits reflected there. This practice connects to the broader tradition of mirror divination (catoptromancy) found in many cultures.
 

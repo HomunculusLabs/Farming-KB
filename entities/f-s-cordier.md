@@ -6,11 +6,11 @@ type: entity
 
 ## Description
 
-Dr. F. S. Cordier was a French physician and mycologist, described as a member of many scientific societies, who published a landmark work on [[classification-of-edible-and-poisonous-mushroom-families]] mushrooms at Paris in 1876. [[julius-auboineau-palmer]] regarded Cordier's book as "by far the most complete work on the subject in the world" and translated extensive passages from it for his American readership.
+Dr. F. S. Cordier was a French physician and mycologist, described as a member of many scientific societies, who published a landmark work on [[classification-of-edible-and-poisonous-mushroom-families]] mushrooms at Paris in 1876. [[julius-auboineau-palmer]] regarded Cordier"s book as "by far the most complete work on the subject in the world" and translated extensive passages from it for his American readership.
 
 ## Major Work
 
-Cordier's 1876 publication was illustrated with chromo-lithographs and provided the most systematic examination of [[mushroom-identification]] rules then available. Palmer translated key passages for publication in the Boston Evening Transcript, introducing Cordier's findings to an American audience.
+Cordier"s 1876 publication was illustrated with chromo-lithographs and provided the most systematic examination of [[mushroom-identification]] rules then available. Palmer translated key passages for publication in the Boston Evening Transcript, introducing Cordier's findings to an American audience.
 
 The work was notable for its methodical approach: rather than proposing new rules for identification, Cordier took every existing folk rule and tested it against specific botanical examples, demonstrating contradictions in each case.
 
@@ -54,11 +54,11 @@ After cataloging these rules, Cordier demonstrated that "no one of these charact
 
 Cordier specifically tested the widely-believed method of cooking mushrooms with silver implements. The folk belief held that if silver or gold turned black during cooking, the mushrooms were poisonous; if the metal remained bright, they were safe.
 
-Cordier's experiment with [[agaricus-bulbosus]] (a deadly Amanita) proved that neither silver nor gold blackened. He stated: "Whether silver or gold grow black or remain brilliant in contact with mushrooms, the conclusion is equally of no value."
+Cordier"s experiment with [[agaricus-bulbosus]] (a deadly Amanita) proved that neither silver nor gold blackened. He stated: "Whether silver or gold grow black or remain brilliant in contact with mushrooms, the conclusion is equally of no value."
 
 ## Other Debunked Tests
 
-### Necker's Onion Test
+### Necker"s Onion Test
 
 Swiss botanist Necker proposed that a white onion cooked with mushrooms would turn bluish or brown if they were poisonous. Cordier found this unconfirmed by experience.
 

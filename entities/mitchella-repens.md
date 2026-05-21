@@ -2,7 +2,7 @@
 title: "Mitchella Repens"
 type: entity
 tags: []
-sources: ['raw/papers/working-with-agar.md']
+sources: ["raw/papers/working-with-agar.md']
 ---
 
 The species is the only member of its genus found in [[cannabis-sex-determination-floral-biology]]: each "flower" is actually a pair of fused flowers that produce a single berry, resulting in the characteristic double-blossom scar (two dimples) visible on the ripe fruit.

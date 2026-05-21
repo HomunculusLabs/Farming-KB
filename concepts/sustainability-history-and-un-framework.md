@@ -14,7 +14,7 @@ The concept of "sustainability" has evolved from a niche environmental concern i
 
 ### The Spaceship Earth Paradigm
 
-The modern consciousness of sustainability was dramatically shaped by the Apollo missions, which provided images of Earth from space — the "pretty blue marble." This visual reframed humanity's self-conception: we are all passengers on "spaceship earth," one species among millions living in a thin biospheric membrane on a planet with finite, non-exploitable resources.
+The modern consciousness of sustainability was dramatically shaped by the Apollo missions, which provided images of Earth from space — the "pretty blue marble." This visual reframed humanity"s self-conception: we are all passengers on "spaceship earth," one species among millions living in a thin biospheric membrane on a planet with finite, non-exploitable resources.
 
 ### Repudiation of the Industrial Model
 
@@ -56,7 +56,7 @@ The Brundtland Report prescribed sustainability as a goal applicable to every le
 
 ## The UN Earth Summit — Rio de Janeiro (1992)
 
-The Brundtland Commission's work provided the impetus for the **UN Conference on Environment and Development** (the "Earth Summit") held in Rio de Janeiro in 1992. This summit produced several landmark outcomes:
+The Brundtland Commission"s work provided the impetus for the **UN Conference on Environment and Development** (the "Earth Summit") held in Rio de Janeiro in 1992. This summit produced several landmark outcomes:
 
 ### Agenda 21
 
@@ -121,7 +121,7 @@ Sustainability serves as one expression of a broader shift in perspective repres
 
 ## Institutional Response
 
-The response to the UN's reports and initiatives has been extensive. Scores of organizations, both governmental and non-governmental, have arisen to work toward sustainability across all areas of human activity:
+The response to the UN"s reports and initiatives has been extensive. Scores of organizations, both governmental and non-governmental, have arisen to work toward sustainability across all areas of human activity:
 
 - **Economic**: Sustainable business models, [[zeri-circular-economy-systems]]
 - **Ethical**: Environmental ethics, intergenerational justice

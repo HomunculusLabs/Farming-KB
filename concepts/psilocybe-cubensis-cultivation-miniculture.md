@@ -78,7 +78,7 @@ Bigwood and Beug reported the following performance characteristics for their Am
 
 ## Advantages of the Miniculture Method
 
-1. **Space efficiency**: Half-pint jars require minimal space, allowing many replicates to be maintained simultaneously. Bigwood and Beug's study used three minicultures for statistical analysis of flush-dependent [[agaricus-bisporus]]*, establishing the principle that grain substrates can support mushroom fruiting when cased.
+1. **Space efficiency**: Half-pint jars require minimal space, allowing many replicates to be maintained simultaneously. Bigwood and Beug"s study used three minicultures for statistical analysis of flush-dependent [[agaricus-bisporus]]*, establishing the principle that grain substrates can support mushroom fruiting when cased.
 - **Oss and Oeric (1976)**: Published *Psilocybin: Magic Mushroom Grower's Guide* (And/Or Press, Berkeley), which refined the rye-grain method for *P. cubensis* cultivation and popularized the technique.
 - **Bigwood and Beug (1982)**: Adapted the Oss and Oeric method to a "miniculture" format suitable for controlled scientific experiments, reducing the scale to half-pint jars for ease of replication.
 

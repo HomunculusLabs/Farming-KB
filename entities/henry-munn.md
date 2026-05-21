@@ -7,7 +7,7 @@ tags: [person, anthropologist, mushrooms, language, mazatec]
 
 ## Description
 
-Henry Munn was an anthropologist and writer who contributed the chapter "The Mushrooms of Language" to [[michael-harner]]'s 1973 edited volume *[[hallucinogens-and-shamanism]]*. His work focused on the relationship between hallucinogenic mushroom use and linguistic expression among indigenous peoples of Mexico, particularly the Mazatec. Munn's contribution is notable for exploring how psychoactive mushroom experiences influence and are expressed through language, poetry, and song — themes that connect hallucinogenic plant use to broader questions about consciousness, creativity, and communication.
+Henry Munn was an anthropologist and writer who contributed the chapter "The Mushrooms of Language" to [[michael-harner]]"s 1973 edited volume *[[hallucinogens-and-shamanism]]*. His work focused on the relationship between hallucinogenic mushroom use and linguistic expression among indigenous peoples of Mexico, particularly the Mazatec. Munn's contribution is notable for exploring how psychoactive mushroom experiences influence and are expressed through language, poetry, and song — themes that connect hallucinogenic plant use to broader questions about consciousness, creativity, and communication.
 
 ## Classification
 
@@ -18,16 +18,16 @@ Henry Munn was an anthropologist and writer who contributed the chapter "The Mus
 
 ## Key Facts
 
-- Munn's chapter "The Mushrooms of Language" appears as Chapter 7 in Harner's volume, positioned in the section "In Cultures Undergoing Westernization" — reflecting the fact that Mazatec mushroom use was being influenced by Western contact at the time of his research.
+- Munn's chapter "The Mushrooms of Language" appears as Chapter 7 in Harner"s volume, positioned in the section "In Cultures Undergoing Westernization" — reflecting the fact that Mazatec mushroom use was being influenced by Western contact at the time of his research.
 - His work explores the connection between hallucinogenic mushroom experiences and enhanced or altered linguistic expression, including the spontaneous singing, chanting, and poetic speech that commonly occur during mushroom ceremonies.
-- Munn's research contributes to the broader understanding of how psychoactive plants — specifically psilocybin-containing mushrooms used by the Mazatec — influence cognitive and linguistic processes, a theme that connects to contemporary research on psychedelics and creativity.
+- Munn"s research contributes to the broader understanding of how psychoactive plants — specifically psilocybin-containing mushrooms used by the Mazatec — influence cognitive and linguistic processes, a theme that connects to contemporary research on psychedelics and creativity.
 - The Mazatec mushroom ceremony, which Munn studied, involves the use of *Psilocybe* species (particularly *P. cubensis* and related species) in nocturnal ceremonial contexts, with participants receiving guidance from a *curandera* or *curandero* (traditional healer).
 - His work complements the research of R. Gordon Wasson, who first brought Mazatec mushroom use to wide attention through his 1957 article in *LIFE* magazine and subsequent scholarly publications.
 
 ## Relevance to Cultivation and Mycology
 
 - Munn's focus on "the mushrooms of language" provides important ethnographic context for understanding how psilocybin-containing mushrooms are used in their indigenous cultural context — information relevant to anyone studying [[accessible-mushroom-cultivation-for-disabilities]] for research or therapeutic purposes.
-- The Mazatec mushroom ceremony represents one of the best-documented indigenous psychoactive mushroom traditions, and Munn's linguistic analysis adds an important dimension to the understanding of how mushroom experiences are processed and communicated.
+- The Mazatec mushroom ceremony represents one of the best-documented indigenous psychoactive mushroom traditions, and Munn"s linguistic analysis adds an important dimension to the understanding of how mushroom experiences are processed and communicated.
 - His work on the relationship between psilocybin experiences and enhanced verbal expression connects to modern research on psychedelics and language processing, creativity, and therapeutic communication.
 - The Mazatec tradition studied by Munn involves specific protocols for [[mushroom-harvesting]], preparation, and ceremonial use that represent traditional mycological knowledge relevant to contemporary psilocybin research.
 

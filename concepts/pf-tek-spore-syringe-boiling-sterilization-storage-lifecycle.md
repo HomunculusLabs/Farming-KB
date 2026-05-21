@@ -79,7 +79,7 @@ If the syringe needle plugs during insertion into the substrate, drawing the nee
 ## Spore Viability and Degradation Timeline
 
 [[vegetable-storage-conditions-by-temperature-and-humidity]]
-- **Approximately 1.5 years**: Germination becomes "greatly reduced or won't occur at all"
+- **Approximately 1.5 years**: Germination becomes "greatly reduced or won"t occur at all"
 
 This relatively short viability window underscores the importance of proper [[spawn-storage-conditions]] and timely use of prepared syringes. Germination is most vigorous when spores are fresh from the print.
 

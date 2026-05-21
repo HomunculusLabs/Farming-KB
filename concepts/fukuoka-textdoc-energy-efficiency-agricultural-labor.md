@@ -24,9 +24,9 @@ Fukuoka presented a detailed analysis of the energy efficiency of different [[fu
 
 Fukuoka compared five methods of [[critique-of-scientific-agriculture]] requires an energy expenditure per unit of food produced up to fifty times that [[fukuoka-citrus-orchard-establishment-bare-hillside]].
 
-Their minimum daily calorie requirement was approximately 1,000 calories on a "hermit's diet" of brown rice with sesame seeds and salt, and 1,500 calories on a diet of brown rice and vegetables.
+Their minimum daily calorie requirement was approximately 1,000 calories on a "hermit"s diet" of brown rice with sesame seeds and salt, and 1,500 calories on a diet of brown rice and vegetables.
 
-This was sufficient to do a farmer's work — equivalent to about one-tenth of a horsepower.
+This was sufficient to do a farmer"s work — equivalent to about one-tenth of a horsepower.
 
 This empirical observation formed the basis of his energy efficiency calculations and demonstrated that the actual needs of a working farmer are far less than commonly assumed.
 

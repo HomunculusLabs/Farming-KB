@@ -9,7 +9,7 @@ sources:
 ---
 ## Shamanic Trance: Cross-Cultural Patterns
 
-Shamanic trance — the deliberate induction of an altered state of consciousness for purposes of healing, divination, and communication with the spirit world — exhibits remarkably consistent patterns across diverse cultures worldwide. Evidence drawn from [[cashinahua-banisteriopsis-use]], the shaman's spirit travels to communicate with animal spirits; the [[naranjo-harmaline-yage-experiment]] confirmed that non-indigenous subjects given harmaline also experienced visions of predatory cats (tigers, leopards, jaguars) even though big cats are not native to Chile.
+Shamanic trance — the deliberate induction of an altered state of consciousness for purposes of healing, divination, and communication with the spirit world — exhibits remarkably consistent patterns across diverse cultures worldwide. Evidence drawn from [[cashinahua-banisteriopsis-use]], the shaman"s spirit travels to communicate with animal spirits; the [[naranjo-harmaline-yage-experiment]] confirmed that non-indigenous subjects given harmaline also experienced visions of predatory cats (tigers, leopards, jaguars) even though big cats are not native to Chile.
 
 ## Contact with Deities and Spirits
 
@@ -21,7 +21,7 @@ In Siberian traditions, shamans negotiate with spirit masters of the animals; in
 
 The shaman's therapeutic function operates through several universal mechanisms. Doctrinal compliance provides a meaningful narrative framework for suffering, as observed in both the Amazonian and Mesoamerican contexts. Abreaction allows the release of repressed emotional material within a culturally sanctioned setting. The heightened suggestibility of the trance state amplifies the healer's words and actions.
 
-The Mazatec shaman defines his function as "he who puts together" — an integrator who resolves the divided personality through the ecstatic experience. This mirrors the psychotherapeutic concept of integration found in modern [[fly-agaric-siberian-shamanic-practice]], the drumbeat itself is said to be seen as well as heard, and the shaman's singing produces visible patterns. The Conibo-Shipibo of Amazonia, under the influence of ayahuasca, experience the icaros (healing songs) as geometric designs — a tradition that has given rise to the distinctive Shipibo visionary art tradition.
+The Mazatec shaman defines his function as "he who puts together" — an integrator who resolves the divided personality through the ecstatic experience. This mirrors the psychotherapeutic concept of integration found in modern [[fly-agaric-siberian-shamanic-practice]], the drumbeat itself is said to be seen as well as heard, and the shaman"s singing produces visible patterns. The Conibo-Shipibo of Amazonia, under the influence of ayahuasca, experience the icaros (healing songs) as geometric designs — a tradition that has given rise to the distinctive Shipibo visionary art tradition.
 
 ## Music and Darkness
 

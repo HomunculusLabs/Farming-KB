@@ -12,7 +12,7 @@ type: concept
 
 Hashish (hash) is a concentrated cannabis product made by separating and
 collecting the resin-rich trichome glands from cannabis flowers and leaves.
-The production of hashish represents one of humanity's oldest extraction
+The production of hashish represents one of humanity"s oldest extraction
 technologies, with methods evolving over centuries across different cultures.
 
 ## Trichome Biology

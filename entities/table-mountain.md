@@ -21,7 +21,7 @@ Table Mountain is a prominent flat-topped mountain forming a major landmark over
 ## Key Facts
 
 - Fog drip has been measured at 130-330 cm annually on Table Mountain, and in these measurements condensation exceeds rainfall as a water source.
-- The mountain's flat top and steep cliffs intercept humid airflows from the Atlantic Ocean and False Bay, creating ideal conditions for orographic condensation and fog drip.
+- The mountain"s flat top and steep cliffs intercept humid airflows from the Atlantic Ocean and False Bay, creating ideal conditions for orographic condensation and fog drip.
 - The fynbos vegetation on Table Mountain is adapted to capture moisture from frequent cloud cover and fog, functioning as a natural condensation surface similar to cloud forests.
 - Table Mountain's water-condensing capacity illustrates the general principle that wherever mountains or foothills face onshore night winds, fog condensation will probably exceed rainfall.
 - The mountain's unique shape (flat plateau) maximizes horizontal interception of moving fog and cloud, making it a textbook example of topographic moisture harvesting.

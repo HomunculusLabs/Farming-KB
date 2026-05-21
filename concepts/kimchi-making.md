@@ -9,7 +9,7 @@ sources: []
 
 ## What Is Kimchi
 
-Kimchi is a traditional Korean fermented vegetable dish, most commonly made with napa cabbage and Korean chili flakes (gochugaru). It is Korea's national dish and a cornerstone of Korean cuisine, with hundreds of regional and seasonal varieties. The fermentation process relies on [[lactic-acid-bacteria]] (LAB) naturally present on the vegetables, which convert sugars into lactic acid, preserving the vegetables and developing complex sour, umami, and spicy flavors.
+Kimchi is a traditional Korean fermented vegetable dish, most commonly made with napa cabbage and Korean chili flakes (gochugaru). It is Korea"s national dish and a cornerstone of Korean cuisine, with hundreds of regional and seasonal varieties. The fermentation process relies on [[lactic-acid-bacteria]] (LAB) naturally present on the vegetables, which convert sugars into lactic acid, preserving the vegetables and developing complex sour, umami, and spicy flavors.
 
 Kimchi is a living food — it continues to ferment and evolve in flavor over weeks and months. Fresh kimchi is crisp and mildly tangy, while well-aged kimchi (mugeun-ji) develops deep sourness and is prized for stews and fried rice.
 

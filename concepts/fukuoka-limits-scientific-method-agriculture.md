@@ -15,7 +15,7 @@ sources:
 
 Before researchers become researchers, they should become philosophers. They should consider what the human goal is, what it is that humanity should create. Doctors should first determine at the fundamental level what it is that human beings depend on for life.
 
-This opening statement sets the tone for one of Fukuoka's most sustained critiques of modern science. His argument is not that science is worthless, but that it has been pursued without the philosophical foundation necessary to guide it wisely. Scientists study increasingly narrow specializations without asking the fundamental questions: What is the purpose of this knowledge? What is the good life for human beings? What is our proper relationship with nature?
+This opening statement sets the tone for one of Fukuoka"s most sustained critiques of modern science. His argument is not that science is worthless, but that it has been pursued without the philosophical foundation necessary to guide it wisely. Scientists study increasingly narrow specializations without asking the fundamental questions: What is the purpose of this knowledge? What is the good life for human beings? What is our proper relationship with nature?
 
 Fukuoka's insistence that researchers should first become philosophers connects to his broader [[fukuoka-critique-scientific-agriculture-civilization]], by contrast, produces standardized recommendations that ignore the uniqueness of each farm, each season, and each moment.
 

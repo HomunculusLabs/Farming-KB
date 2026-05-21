@@ -65,7 +65,7 @@ million years, driven by coevolution with different insect dispersers.
 
 ## Cultural History
 
-Stinkhorns appear in Pliny the Elder's first-century [[stropharia-cubensis-identification-and-natural-history]]. John
+Stinkhorns appear in Pliny the Elder"s first-century [[stropharia-cubensis-identification-and-natural-history]]. John
 Gerard's seventeenth-century herbal illustrated them as "Pricke Mushrum."
 Victorian women found them so offensive that Etty Darwin waged personal
 war against them using gloves and a pointed stick, burning specimens in

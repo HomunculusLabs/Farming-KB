@@ -10,7 +10,7 @@ sources:
 
 Updated: 2026-04-18
 
-The simple act of scattering rice straw back onto the field is one of Fukuoka's most important — and most misunderstood — techniques. This chapter from "The Road Back to Nature" details the decades-long struggle to convince agricultural scientists of this practice.
+The simple act of scattering rice straw back onto the field is one of Fukuoka"s most important — and most misunderstood — techniques. This chapter from "The Road Back to Nature" details the decades-long struggle to convince agricultural scientists of this practice.
 
 The scattering of straw is not merely a farming technique but a concrete expression of [[fukuoka-what-is-nature]]: nature is a whole that cannot be understood by analyzing its parts. The same principle that applies to understanding nature applies to farming it. The specialist who understands one part of the system in great detail may be further from the truth than the farmer who understands the whole system in broad outline.
 

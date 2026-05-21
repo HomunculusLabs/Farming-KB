@@ -1,6 +1,6 @@
 ---
 title: "Fungal Warfare — Territorial Combat Between Mycelia in Wood"
-source: "Mr. Bloomfield's Orchard"
+source: "Mr. Bloomfield"s Orchard"
 author: "Nicholas P. Money"
 tags:
 - mycology
@@ -17,7 +17,7 @@ tags:
 
 ## Overview
 
-In Mr. Bloomfield's Orchard, [[nicholas-money]] describes the hidden battles
+In Mr. Bloomfield"s Orchard, [[nicholas-money]] describes the hidden battles
 waged between fungal mycelia within the wood of living and dead trees.
 When different species and incompatible strains of the same species
 meet inside wood, they fight or fuse. The resulting conflicts produce
@@ -40,7 +40,7 @@ draws the dark lines that define the borders.
 
 Where different species and incompatible strains of the same species
 clash, the wood becomes stained with pigment as the warring mycelia
-attack each other's hyphae and produce thick, melanin-impregnated
+attack each other"s hyphae and produce thick, melanin-impregnated
 walls to resist each other's poisons. These melanized zone lines are
 visible as black or brown demarcations within decaying wood, creating
 a map of contested territories that reveals the complex politics of

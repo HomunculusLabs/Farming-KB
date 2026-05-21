@@ -12,7 +12,7 @@ sources:
 
 Phenotypic variation is one of the most important and challenging aspects of cannabis
 genetics. When a breeder creates a new cross, the resulting seeds produce plants that
-can vary widely in their observable traits. Oner's strain reviews provide extensive
+can vary widely in their observable traits. Oner"s strain reviews provide extensive
 documentation of how phenotypes manifest across different [[what-a-plant-knows-photoperiodism-flowering-time-measurement]]
 - Bud density, size, and color
 - [[query-how-do-endophytic-fungi-protect-plants-from-pests-and-disease]]
@@ -26,7 +26,7 @@ Oner documents numerous examples of multi-phenotype strains:
 - **Bruce Banner**: "There are 5 different phenotypes expressed by this plant." The
   Bruce 3 pheno is described as the most balanced and potent, with the breeders
   selecting it as the ideal representation.
-- **Devil's Harvest Haze**: "There are several different phenotypes expressed" across
+- **Devil"s Harvest Haze**: "There are several different phenotypes expressed" across
   the crop, requiring significant space to accommodate different growth patterns.
 - **[[oner-king-congo-congo-pointe-noire-ciskei-african-sativa]] and Ciskei P4
 - **Lambsbread × Skunk**: An F1 cross that "can express a few different phenotypes"

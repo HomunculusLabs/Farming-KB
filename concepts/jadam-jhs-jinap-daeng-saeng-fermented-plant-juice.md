@@ -12,7 +12,7 @@ tags: [fermentation, jadam, plants]
 ## JADAM Herb Solution (JHS) - Fermented Plant Juice for Pest Control
 
 JADAM Herb Solution (JHS) is a boiled herbal extract used primarily for
-its insect-controlling effect in the JADAM [[comparison-natural-farming-vs-permaculture]]'s [[query-how-to-manage-pests-and-diseases-in-mushroom-cultivation]]." Fresh leaves, fallen leaves, and fruits are
+its insect-controlling effect in the JADAM [[comparison-natural-farming-vs-permaculture]]"s [[query-how-to-manage-pests-and-diseases-in-mushroom-cultivation]]." Fresh leaves, fallen leaves, and fruits are
 all used for JHS production.
 
 ### Strong Level: Korean Pasque Flower Root (KPFR)

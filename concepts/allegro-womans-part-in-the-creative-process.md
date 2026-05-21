@@ -1,5 +1,5 @@
 ---
-title: Woman's Part in the Creative Process (Allegro)
+title: Woman"s Part in the Creative Process (Allegro)
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
@@ -8,7 +8,7 @@ sources:
   - "raw/papers/allegro-j-the-sacred-mushroomcross.md"
 ---
 
-## Woman's Part in the Creative Process
+## Woman"s Part in the Creative Process
 
 Allegro devotes a full chapter to the role of women — specifically menstrual blood — in ancient [[allegro-old-testament-figures-as-fertility-deities]] rules for the menstruant (Lev 15:19-25) emphasize the sacred nature of the blood. Everything the woman touches is reckoned "unclean" — but this uncleanness has nothing to do with morals or hygiene. It is a religious state of taboo, comparable to the defilement of a woman bearing a son or a man coming into contact with a dead body.
 
@@ -20,21 +20,21 @@ The distinguishing feature of menstrual blood was its dark colour. Thus dark red
 
 The Hebrew word for "blue blood" (husginon) and the Greek Hyacinth (the youth slain by Apollo, from whose blood grew the flower) both derive from the same Sumerian roots connected to menstrual blood.
 
-## Saturn's Blood and the Dead Sea
+## Saturn"s Blood and the Dead Sea
 
-Pliny describes a fabulous dragon called the basilisk, which could kill bushes with its breath. Its blood cured diseases and disarmed sorcery. The name basilisk actually means "womb-blood" (menses). Pliny adds that some called it "Saturn's blood," since Saturn's name is partly composed of Sumerian SHA-TUR, "womb."
+Pliny describes a fabulous dragon called the basilisk, which could kill bushes with its breath. Its blood cured diseases and disarmed sorcery. The name basilisk actually means "womb-blood" (menses). Pliny adds that some called it "Saturn"s blood," since Saturn"s name is partly composed of Sumerian SHA-TUR, "womb."
 
-Saturn's blood had the [[allegro-amanita-muscaria-properties-and-pharmacology]] through the belief that fungi are derived from the gum that exudes from trees. Pliny says: "the fungi... are all derived from the gum that exudes from trees." An Accadian incantation to pine-resin addresses it as kukru and speaks of "little-ones" engendered by sacred prostitutes — clearly substitute-words for the Amanita muscaria.
+Saturn"s blood had the [[allegro-amanita-muscaria-properties-and-pharmacology]] through the belief that fungi are derived from the gum that exudes from trees. Pliny says: "the fungi... are all derived from the gum that exudes from trees." An Accadian incantation to pine-resin addresses it as kukru and speaks of "little-ones" engendered by sacred prostitutes — clearly substitute-words for the Amanita muscaria.
 
-Helen's "tears" — drops of resin from the pine tree — gave the intoxicant Helenion, prime ingredient of Nectarion, a spiced wine. Legend says Helen's drug could "quiet all pain and strife, and bring forgetfulness of every ill." It also preserved "physical charm" and "sex-appeal."
+Helen"s "tears" — drops of resin from the pine tree — gave the intoxicant Helenion, prime ingredient of Nectarion, a spiced wine. Legend says Helen"s drug could "quiet all pain and strife, and bring forgetfulness of every ill." It also preserved "physical charm" and "sex-appeal."
 
 ## The Burning Coal and Fiery Cap
 
-The red canopy of the Amanita muscaria, combined with its bitter, "fiery" taste, produced the "burning coal" imagery of Isaiah: "a burning coal which he had taken with tongs from the altar" (Isa 6:6-7). Josephus describes the Baaras plant as "flame-coloured and towards evening emitting a brilliant light." The mushroom's white flecking from volva fragments reminded the myth-makers of skin diseases, particularly leprosy.
+The red canopy of the Amanita muscaria, combined with its bitter, "fiery" taste, produced the "burning coal" imagery of Isaiah: "a burning coal which he had taken with tongs from the altar" (Isa 6:6-7). Josephus describes the Baaras plant as "flame-coloured and towards evening emitting a brilliant light." The mushroom"s white flecking from volva fragments reminded the myth-makers of skin diseases, particularly leprosy.
 
 ## The Virgin Goddess: Hestia-Vesta
 
-The classical example of the ever-burning fire before a virgin goddess is the cult of Hestia-Vesta. The Greek Hestia was "the Lady of Fire." She spurned both Poseidon and Apollo, swearing to remain a virgin. She was the first and last of Zeus's children — the beginning and end of creation. The idea was that the first-born of the womb was strongest, formed from menstrual blood at its most powerful. This "sacred virginity" was not about intact hymens but the power of wombs to produce offspring of abnormal excellence.
+The classical example of the ever-burning fire before a virgin goddess is the cult of Hestia-Vesta. The Greek Hestia was "the Lady of Fire." She spurned both Poseidon and Apollo, swearing to remain a virgin. She was the first and last of Zeus"s children — the beginning and end of creation. The idea was that the first-born of the womb was strongest, formed from menstrual blood at its most powerful. This "sacred virginity" was not about intact hymens but the power of wombs to produce offspring of abnormal excellence.
 
 ## Scholarly Significance and Criticism
 

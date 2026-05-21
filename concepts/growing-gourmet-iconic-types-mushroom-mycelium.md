@@ -16,7 +16,7 @@ created: 2026-04-28
 
 ## Iconic Types of Mushroom Mycelium in Culture
 
-Each mushroom species produces a recognizable type of mycelium whose variations fall within a defined range of expressions. Within a species, multitudes of strains can differ dramatically in their appearance. In culture, mushroom strains reveal much about the portion of the mushroom life cycle that is invisible to the mere forager of wild mushrooms. The range of characteristics — changes in form, color, rate of growth, fragrance, and even volunteer fruitings — defines the strain's "personality" and provides critical information to the cultivator.
+Each mushroom species produces a recognizable type of mycelium whose variations fall within a defined range of expressions. Within a species, multitudes of strains can differ dramatically in their appearance. In culture, mushroom strains reveal much about the portion of the mushroom life cycle that is invisible to the mere forager of wild mushrooms. The range of characteristics — changes in form, color, rate of growth, fragrance, and even volunteer fruitings — defines the strain"s "personality" and provides critical information to the cultivator.
 
 ## Linear Mycelium
 

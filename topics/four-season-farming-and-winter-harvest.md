@@ -1,6 +1,6 @@
 ---
 title: Four-Season Farming and Winter Harvest
-subtitle: Eliot Coleman's unheated winter growing system for year-round vegetable production in cold climates
+subtitle: Eliot Coleman"s unheated winter growing system for year-round vegetable production in cold climates
 related_concepts:
   - coleman-four-season-farm
   - coleman-unheated-greenhouse-design
@@ -39,7 +39,7 @@ Coleman borrowed the "Persephone months" from Greek mythology to
 describe the period when day length drops below 10 hours and plant
 growth essentially ceases, regardless of temperature.
 
-At Coleman's Maine latitude, this period extends from approximately
+At Coleman"s Maine latitude, this period extends from approximately
 November 10 to January 30, roughly 11 weeks. Crops do not die but stop
 producing new growth, shifting to a maintenance mode. At 38°N the
 period is perhaps 6 to 8 weeks; at 30°N, day length never drops below

@@ -1,5 +1,5 @@
 ---
-title: Fukuoka's No-Tillage Rice-Barley Succession Cropping
+title: Fukuoka"s No-Tillage Rice-Barley Succession Cropping
 created: 2026-04-28
 tags: [natural-farming, rice, barley, wheat, no-till, direct-seeding, cover-crops, fukuoka]
 date: 2026-04-28
@@ -15,7 +15,7 @@ The direct-seeded, no-tillage winter grain and rice succession in a clover cover
 
 ## Historical Development
 
-Fukuoka's path to this technique was neither direct nor sudden. He began with the observation that all plants in nature seed directly, making rice transplanting a fundamentally unnatural practice. His first experiments in 1945 involved direct-seeding rice on plowed and flooded paddy fields, testing drilling, row seeding, and broadcasting at densities ranging from 20 to 1,000 seeds per square yard. Surprisingly, all densities from 20 to 230 seeds per square yard produced approximately 400-500 heads per square yard with 60-120 grains per head, yielding essentially the same harvest.
+Fukuoka"s path to this technique was neither direct nor sudden. He began with the observation that all plants in nature seed directly, making rice transplanting a fundamentally unnatural practice. His first experiments in 1945 involved direct-seeding rice on plowed and flooded paddy fields, testing drilling, row seeding, and broadcasting at densities ranging from 20 to 1,000 seeds per square yard. Surprisingly, all densities from 20 to 230 seeds per square yard produced approximately 400-500 heads per square yard with 60-120 grains per head, yielding essentially the same harvest.
 
 He then attempted direct-seeding rice between rows of barley, but encountered persistent problems with rice germination, mole crickets, sparrows, mice, and weed control. This led him to try intercropping clover and Chinese milk vetch with the barley, which eventually evolved into the complete no-tillage system.
 
@@ -51,7 +51,7 @@ The field requires no attention during winter. Clover establishes a thick ground
 
 **Irrigation**: After the initial flooding to suppress clover, the field is surface-drained to grow hardy rice plants. During the first half of the growing season, irrigation is not strictly necessary, but water may be passed briefly over the field once every week to ten days. Soil moisture of approximately 80 percent is adequate. During the heading stage, irrigation is increased with plant growth. After heading, rice requires substantial water. Fukuoka made a point of not holding standing water for more than five days at a stretch.
 
-**[[fukuoka-illusions-scientific-farming-centrifugal-centripetal-model]]'s supposed yield increases merely restored productivity after nature's inherent capacity had been suppressed by destructive practices.
+**[[fukuoka-illusions-scientific-farming-centrifugal-centripetal-model]]"s supposed yield increases merely restored productivity after nature's inherent capacity had been suppressed by destructive practices.
 
 ## Straw as the Central Input
 

@@ -25,7 +25,7 @@ The genus Claviceps represents the most historically significant group of
 non-psilocybin neurotropic fungi. Five species are documented:
 
 - **[[ergot-and-lysergic-acid-history]] amide (LSA).
-  Ergotism — "St. Anthony's Fire" — caused mass poisonings throughout
+  Ergotism — "St. Anthony"s Fire" — caused mass poisonings throughout
   European history when contaminated rye was consumed. The psychedelic
   properties of ergot alkaloids eventually led to the synthesis of LSD
   by Albert Hofmann in 1938.

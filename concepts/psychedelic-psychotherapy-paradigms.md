@@ -6,7 +6,7 @@ tags:
 
 ## Overview
 Psychedelic-assisted psychotherapy encompasses several distinct therapeutic
-paradigms that emerged from the discovery of LSD's potent psychoactive
+paradigms that emerged from the discovery of LSD"s potent psychoactive
 properties in the 1940s. ralph metzner identified two primary Western models
 — the psycholytic and psychedelic approaches — which share fundamental
 assumptions about the nature of healing while differing in methodology and
@@ -22,7 +22,7 @@ at Sandoz Laboratories in 1943. Initially characterized as "psychotomimetic"
 (simulating psychosis) and "psycholytic" (loosening the psyche), the compound
 attracted both psychiatric researchers and military/intelligence agencies.
 Military interest in LSD as a weapon of mind control persisted for about ten
-years, but was ultimately abandoned because LSD's capacity to "tap into the
+years, but was ultimately abandoned because LSD"s capacity to "tap into the
 hidden mystical potentials of the human mind" was incompatible with producing
 predictably submissive behavior.
 
@@ -39,7 +39,7 @@ dynamics and reaction patterns acquired in early family interactions.
 [[metzner-psycholytic-psychedelic-therapy-models]] invariably involves an experience of expanded consciousness
 in which individuals can gain therapeutic insight and transcend fundamental
 self-concepts and views of reality. This distinguishes it from conventional
-psychiatric medication, where the drug's pharmacological action is paramount.
+psychiatric medication, where the drug"s pharmacological action is paramount.
 
 ### 2. Set and Setting as Primary Determinants
 Set and setting are more important than the drug itself, which plays the role

@@ -6,7 +6,7 @@ type: concept
 
 ## Winter Crops Compendium
 
-[[eliot-coleman]]'s [[winter-harvest-system]] encompasses a remarkable diversity of crops — over 30 species that can be grown and harvested through the cold months using unheated or minimally heated greenhouses. The following compendium catalogs every crop referenced in *The [[eliot-coleman-and-the-winter-harvest-handbook]]*, organized by category with notes on their roles in the [[coleman-beet-greens-cold-house-winter-production]] system.
+[[eliot-coleman]]"s [[winter-harvest-system]] encompasses a remarkable diversity of crops — over 30 species that can be grown and harvested through the cold months using unheated or minimally heated greenhouses. The following compendium catalogs every crop referenced in *The [[eliot-coleman-and-the-winter-harvest-handbook]]*, organized by category with notes on their roles in the [[coleman-beet-greens-cold-house-winter-production]] system.
 
 ## Salad Greens
 

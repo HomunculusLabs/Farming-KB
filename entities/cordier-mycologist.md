@@ -9,7 +9,7 @@ tags: [person, mycologist, french, reference-authority]
 
 ## Description
 
-Cordier refers to a French mycological authority cited by Julius A. Palmer in *About Mushrooms*. Palmer references "Cordier of France" as one of the standard foreign text-book authors whose theories about [[mushroom-edibility-testing-safety-protocols]] were contradicted by Palmer's own experimental evidence. Palmer specifically noted that his personal tasting methodology — progressively increasing the amount of an unknown mushroom consumed over several days — "controverts theories stated in such authorities as Berkeley of England or Cordier of France." Cordier's work represented the conservative European mycological establishment that Palmer challenged through direct empirical testing.
+Cordier refers to a French mycological authority cited by Julius A. Palmer in *About Mushrooms*. Palmer references "Cordier of France" as one of the standard foreign text-book authors whose theories about [[mushroom-edibility-testing-safety-protocols]] were contradicted by Palmer"s own experimental evidence. Palmer specifically noted that his personal tasting methodology — progressively increasing the amount of an unknown mushroom consumed over several days — "controverts theories stated in such authorities as Berkeley of England or Cordier of France." Cordier"s work represented the conservative European mycological establishment that Palmer challenged through direct empirical testing.
 
 ## Classification
 

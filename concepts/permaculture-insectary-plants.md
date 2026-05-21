@@ -15,7 +15,7 @@ sources:
 
 # Permaculture Insectary Plants
 
-Insectary plants are those specifically included in a design to attract, shelter, and sustain beneficial insects -- predators and pollinators that provide biological pest control and crop pollination services. Throughout the Designers' Manual, Mollison emphasises that any innovative designer can see ways to add "a vine, a fungus, a beneficial insect" to a seemingly fully-planted area.
+Insectary plants are those specifically included in a design to attract, shelter, and sustain beneficial insects -- predators and pollinators that provide biological pest control and crop pollination services. Throughout the Designers" Manual, Mollison emphasises that any innovative designer can see ways to add "a vine, a fungus, a beneficial insect" to a seemingly fully-planted area.
 
 ## The Role of Beneficial Insects
 

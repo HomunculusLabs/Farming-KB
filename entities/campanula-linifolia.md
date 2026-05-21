@@ -10,7 +10,7 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Jones A. (2021). "Campanulas: A Gardener's Guide." Timber Press, Portland.
+  - Jones A. (2021). "Campanulas: A Gardener"s Guide." Timber Press, Portland.
 ---
 
 ## Overview

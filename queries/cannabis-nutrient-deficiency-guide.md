@@ -51,7 +51,7 @@ Visual symptom reference for diagnosing nutrient deficiencies in cannabis. Cover
 | **B (Boron)** | Immobile | Cracked/hollow stems; bud die-off; distorted growth | Growing tips | Flowering (critical for buds) | Sandy soils, low organic matter | Borax solution (trace — easy to overdo) | Kelp meal; compost |
 | **Mo (Molybdenum)** | Immobile | Similar to N deficiency; whiptail leaf distortion; stunted | NEW leaves; whole plant | All | Acidic soils (<5.5) | Raise pH with lime; Mo foliar | Dolomite lime buffers pH; kelp + compost |
 
-## Symptom Lookup: "If You See X, It's Likely Y"
+## Symptom Lookup: "If You See X, It"s Likely Y"
 
 | What You See | Where On Plant | Most Likely Nutrient | Also Check |
 |-------------|----------------|---------------------|------------|
@@ -80,7 +80,7 @@ Visual symptom reference for diagnosing nutrient deficiencies in cannabis. Cover
 
 ## pH and Nutrient Availability
 
-In a [[cannabis-living-soil-guide]] system, the soil food web buffers pH naturally. Per Lowenfels' "Teaming With Nutrients," microbes adjust local pH around roots through exudate production. This is why living soil supports healthy plants across a wider pH range than hydroponic systems. Key lockouts to watch:
+In a [[cannabis-living-soil-guide]] system, the soil food web buffers pH naturally. Per Lowenfels" "Teaming With Nutrients," microbes adjust local pH around roots through exudate production. This is why living soil supports healthy plants across a wider pH range than hydroponic systems. Key lockouts to watch:
 
 | pH Range | Nutrients Affected |
 |----------|-------------------|

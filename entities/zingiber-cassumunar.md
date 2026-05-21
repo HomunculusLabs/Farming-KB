@@ -2,7 +2,7 @@
 title: "Zingiber Cassumunar"
 type: entity
 tags: []
-sources: ['raw/papers/working-with-agar.md']
+sources: ["raw/papers/working-with-agar.md']
 ---
 
 The species is distinguished from common ginger by its smaller stature, distinct rhizome aroma, and characteristic lanceolate leaves with a purplish tinge along the midrib. The rhizome has a camphoraceous, slightly sweet fragrance.

@@ -3,7 +3,7 @@ title: "How Do I Make Tempeh at Home?"
 tags: [query, tempeh, fermentation, soybean, plant-based-protein]
 date: 2026-05-19
 updated: 2026-05-19
-sources: ['raw/papers/working-with-agar.md']
+sources: ["raw/papers/working-with-agar.md']
 ---
 
 # How Do I Make Tempeh at Home?

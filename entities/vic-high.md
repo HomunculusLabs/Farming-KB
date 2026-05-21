@@ -10,7 +10,7 @@ sources:
 
 # Vic High
 
-Vic High is a cannabis breeder and cultivator associated with the BCGA (British Columbia Growers Association), known for his detailed technical writings on creating true-breeding cannabis strains (IBLs — Inbred Lines). His breeding guide was featured in [[greg-green]]'s *The Cannabis Grow Bible*, and his photographs appear throughout the book.
+Vic High is a cannabis breeder and cultivator associated with the BCGA (British Columbia Growers Association), known for his detailed technical writings on creating true-breeding cannabis strains (IBLs — Inbred Lines). His breeding guide was featured in [[greg-green]]"s *The Cannabis Grow Bible*, and his photographs appear throughout the book.
 
 ## Creating True Breeding Strains
 
@@ -26,7 +26,7 @@ A breeder may also concentrate on a single specific trait (like outdoor harvest 
 
 The fundamental principle: "breeding is about manipulating gene frequencies — the ratio of desired genes in a population." Key techniques:
 
-- **Cubing (backcrossing)**: Repeatedly crossing offspring back to the original parent clone to preserve its traits. Each generation increases the proportion of the original parent's genes by 50%, so after 3 backcrosses (BX3), offspring carry ~87.5% of the original parent's genetics.
+- **Cubing (backcrossing)**: Repeatedly crossing offspring back to the original parent clone to preserve its traits. Each generation increases the proportion of the original parent"s genes by 50%, so after 3 backcrosses (BX3), offspring carry ~87.5% of the original parent's genetics.
 - **Generational inbreeding**: Filial selection over multiple generations (F1, F2, F3...) to fix desired traits. Requires large populations to maintain genetic diversity while selecting.
 - **Selfing**: Using feminized seeds or chemical induction to self-pollinate, rapidly fixing recessive traits.
 - **Test crosses**: Crossing to a known recessive individual to determine whether a dominant-appearing trait is homozygous or heterozygous.

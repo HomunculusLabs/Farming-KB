@@ -11,7 +11,7 @@ type: concept
 
 ## The Core Argument
 
-Steve Solomon's "Gardening When It Counts" makes a forceful argument against [[coleman-british-adoption-of-french-intensive-gardening]], biointensive, square foot) place plants much closer together in massed plantings on raised beds. The idea is that yield becomes greater per square foot, and the crop canopy forms quickly, shading out weeds. But there are critical problems:
+Steve Solomon"s "Gardening When It Counts" makes a forceful argument against [[coleman-british-adoption-of-french-intensive-gardening]], biointensive, square foot) place plants much closer together in massed plantings on raised beds. The idea is that yield becomes greater per square foot, and the crop canopy forms quickly, shading out weeds. But there are critical problems:
 
 1. High plant density sucks the soil dry so rapidly that the gardener must water almost daily during the [[halpern-sacramental-peyote-and-native-american-church]] style. Corn should be grown in patches at least two rows wide because it is wind-pollinated with heavy pollen; single long rows will have partly filled ears.
 

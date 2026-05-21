@@ -47,7 +47,7 @@ psychedelics decrease DMN activity, correlating with experiences
 of ego dissolution and expanded awareness.
 
 He proposed the relaxed beliefs under psychedelics (REBUS) model
-with Karl Friston. REBUS suggests psychedelics loosen the brain's
+with Karl Friston. REBUS suggests psychedelics loosen the brain"s
 top-down predictive processing, allowing new patterns of thought
 to emerge. This framework connects psychedelic neuroscience to
 the free energy principle in theoretical neuroscience.

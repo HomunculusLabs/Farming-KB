@@ -9,19 +9,19 @@ sources:
 ---
 ## European Witchcraft Hallucinogenic Plants
 
-Michael J. Harner's chapter "Hallucinogens and European Witchcraft," published in [[belladonna-atropa-belladonna-ethnobotany]], Mandragora, and henbane, whose atropine content was absorbable through the skin. The witch then indeed took a "trip" — the witch on the broomstick is a representation of that imagined aerial journey to a rendezvous with spirits or demons, called a Sabbat.
+Michael J. Harner"s chapter "Hallucinogens and European Witchcraft," published in [[belladonna-atropa-belladonna-ethnobotany]], Mandragora, and henbane, whose atropine content was absorbable through the skin. The witch then indeed took a "trip" — the witch on the broomstick is a representation of that imagined aerial journey to a rendezvous with spirits or demons, called a Sabbat.
 
-The alleged aerial journey — "to fly through the air to distant, secret places for a rendezvous with one's fellow witches and the Devil himself" — is thus explained by the hallucinogenic properties of the solanaceous plants used in the ointment.
+The alleged aerial journey — "to fly through the air to distant, secret places for a rendezvous with one"s fellow witches and the Devil himself" — is thus explained by the hallucinogenic properties of the solanaceous plants used in the ointment.
 
 ## Historical Evidence for Flying Ointments
 
 Multiple historical accounts document the use of hallucinogenic ointments by accused witches. The Somerset witches in 1664 used a "greenish" oil in transporting themselves to their meetings. Elizabeth Style testified: "Before they are carried to their meetings, they anoint their Foreheads and Hand-wrists with an Oyl the Spirit brings them (which smells raw)."
 
-Lady Alice Kyteler's case in 1324 revealed "a Pipe of ointment, wherewith she greased a staffe, upon the which she ambled and galloped through thick and thin." The fifteenth-century account from Bergamo describes witches who "anoint a staff and ride on it to the appointed place or anoint themselves under the arms and in other hairy places."
+Lady Alice Kyteler"s case in 1324 revealed "a Pipe of ointment, wherewith she greased a staffe, upon the which she ambled and galloped through thick and thin." The fifteenth-century account from Bergamo describes witches who "anoint a staff and ride on it to the appointed place or anoint themselves under the arms and in other hairy places."
 
-The use of a staff or broom was "undoubtedly more than a symbolic Freudian act, serving as an applicator for the atropine-containing plant to the sensitive vaginal membranes as well as providing the suggestion of riding on a steed, a typical illusion of the witches' ride to the Sabbat."
+The use of a staff or broom was "undoubtedly more than a symbolic Freudian act, serving as an applicator for the atropine-containing plant to the sensitive vaginal membranes as well as providing the suggestion of riding on a steed, a typical illusion of the witches" ride to the Sabbat."
 
-## The Physician's Testimony
+## The Physician"s Testimony
 
 Andrés Laguna, physician to Pope Julius III, provided a remarkable account in 1545. He obtained a jar of green ointment confiscated from accused witches in Lorraine and applied it to the wife of the hangman, who suffered from insomnia. Upon being anointed, she fell into a profound sleep lasting thirty-six hours. When awakened, her first words were: "Why do you wake me at such an inopportune time? I was surrounded by all the pleasures and delights of the world."
 

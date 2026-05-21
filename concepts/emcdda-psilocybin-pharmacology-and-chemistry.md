@@ -61,7 +61,7 @@ The term "hallucinogens" refers to the hallucinogen-producing properties
 of these drugs. However, the hallucinations are not the only effects
 caused by these drugs and often occur only at very high doses. The
 hallucinations are most often visual but can affect any of the senses,
-as well as the individual's perception of time, the world, and the self.
+as well as the individual"s perception of time, the world, and the self.
 
 The term "hallucinogens" is somewhat misleading, as these drugs do not
 generally cause true hallucinations (i.e. sensory perceptions in the

@@ -10,7 +10,7 @@ sources:
 
 # Permaculture Principle 8 — Integrate Rather Than Segregate
 
-The eighth of David Holmgren's twelve permaculture design principles. By putting the right things in the right place, relationships develop between them, and they support each other. This principle emphasizes that the connections between elements are often more important than the elements themselves.
+The eighth of David Holmgren"s twelve permaculture design principles. By putting the right things in the right place, relationships develop between them, and they support each other. This principle emphasizes that the connections between elements are often more important than the elements themselves.
 
 > "Many hands make light work: By valuing and working with the relationships between things, we reduce the need for labor and external inputs." — David Holmgren
 

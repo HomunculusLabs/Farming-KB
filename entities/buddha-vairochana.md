@@ -8,7 +8,7 @@ tags: [deity, buddhism, tibetan, bardo, dhyani-buddha]
 ## Buddha Vairochana
 
 ## Description
-Buddha Vairochana is the Dhyani Buddha of the Center, known as the Manifester of Phenomena, and occupies the central position in the mandala of the Five Dhyani Buddhas. In *The Psychedelic Experience*, Leary identifies Vairochana as the first Peaceful Deity encountered in the Second Bardo's Chonyid state, representing the Source or Creator Vision — the undifferentiated creative energy from which all forms arise.
+Buddha Vairochana is the Dhyani Buddha of the Center, known as the Manifester of Phenomena, and occupies the central position in the mandala of the Five Dhyani Buddhas. In *The Psychedelic Experience*, Leary identifies Vairochana as the first Peaceful Deity encountered in the Second Bardo"s Chonyid state, representing the Source or Creator Vision — the undifferentiated creative energy from which all forms arise.
 
 ## Classification
 - **Category:** Deity — Dhyani Buddha
@@ -25,7 +25,7 @@ Buddha Vairochana is the Dhyani Buddha of the Center, known as the Manifester of
 - Associated with the element of space or ether (some traditions say water)
 
 ## Role in the Psychedelic Bardo Framework
-In Leary's adaptation, Vairochana represents **Vision 1: The Source** — the first vision of the Second Bardo. This vision involves eyes closed with external stimuli ignored. The voyager encounters the undifferentiated creative light, the "White Light" or "First Bardo energy" interpreted as the creative source of all phenomena. The positive response is recognition and unity with this source; the negative trap is awe and terror leading to flight, with a "fondness for the dull white light symbolizing stupidity."
+In Leary"s adaptation, Vairochana represents **Vision 1: The Source** — the first vision of the Second Bardo. This vision involves eyes closed with external stimuli ignored. The voyager encounters the undifferentiated creative light, the "White Light" or "First Bardo energy" interpreted as the creative source of all phenomena. The positive response is recognition and unity with this source; the negative trap is awe and terror leading to flight, with a "fondness for the dull white light symbolizing stupidity."
 
 ## Relevance to Cultivation and Mycology
 Vairochana represents the deepest level of the psychedelic experience accessible after the Clear Light of the First Bardo is lost. In psilocybin sessions, this corresponds to the experience of encountering an overwhelming creative or generative force. Cultivators who are also practitioners of psychedelic therapy may encounter clients describing this archetype. Understanding Vairochana's role helps in recognizing and guiding this phase of the experience.

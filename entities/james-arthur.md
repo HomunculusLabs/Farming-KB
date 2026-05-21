@@ -28,13 +28,13 @@ Independent researcher, author, lecturer, and self-described "Theological Resear
 
 ## Key Thesis
 
-Arthur's central claim is that Amanita muscaria is encoded throughout religious art, scripture, and mythology worldwide. He traces mushroom symbolism through Christmas traditions (Santa Claus, reindeer, the Christmas tree's colors of red and white), Christianity (the Eucharist, the Holy Grail, Manna from heaven), Egyptian mythology (Osiris, the Eye of Horus, the Ankh), Hindu/Vedic traditions (Soma, Rudra), Greek mythology (Ambrosia, the Phoenix), Norse mythology (Thor's hammer, Odin's chariot), and Mesopotamian creation stories.
+Arthur"s central claim is that Amanita muscaria is encoded throughout religious art, scripture, and mythology worldwide. He traces mushroom symbolism through Christmas traditions (Santa Claus, reindeer, the Christmas tree's colors of red and white), Christianity (the Eucharist, the Holy Grail, Manna from heaven), Egyptian mythology (Osiris, the Eye of Horus, the Ankh), Hindu/Vedic traditions (Soma, Rudra), Greek mythology (Ambrosia, the Phoenix), Norse mythology (Thor's hammer, Odin's chariot), and Mesopotamian creation stories.
 
 The book is richly illustrated with photographs Arthur took during his travels to sacred sites, including Angkor Wat in Cambodia, where he interprets temple bas-reliefs as mushroom imagery. His analysis of the "churning of the milky ocean" at Angkor interprets the myth as an allegory for producing the elixir of immortality (Soma/Amrita) from Amanita muscaria.
 
 ## Personal Connection to R. Gordon Wasson
 
-Arthur had a direct personal connection to [[r-gordon-wasson]], the pioneer ethnomycologist who first identified the Vedic Soma as Amanita muscaria. Arthur recounts that around 1980, while discussing the topic of the inebriant as found in Christianity, "Gordon told me that he felt I was probably the world's leading expert in this aspect of the field." This endorsement from Wasson spurred Arthur to expand his research into the more ancient roots of similar myths across world religions.
+Arthur had a direct personal connection to [[r-gordon-wasson]], the pioneer ethnomycologist who first identified the Vedic Soma as Amanita muscaria. Arthur recounts that around 1980, while discussing the topic of the inebriant as found in Christianity, "Gordon told me that he felt I was probably the world"s leading expert in this aspect of the field." This endorsement from Wasson spurred Arthur to expand his research into the more ancient roots of similar myths across world religions.
 
 ## Relationship to the Allegro Tradition
 

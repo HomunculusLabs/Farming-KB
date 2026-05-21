@@ -11,7 +11,7 @@ type: concept
 
 ## Stropharia Cubensis Extraterrestrial Hypothesis
 
-One of [[terence-mckenna]]'s most controversial proposals is that the
+One of [[terence-mckenna]]"s most controversial proposals is that the
 psilocybin-containing mushroom [[stropharia-cubensis]] may not have evolved
 on Earth. In his 1983 Esalen lecture and earlier writings, McKenna
 presented the mushroom's own account of its origins, along with
@@ -23,7 +23,7 @@ curious plausibility.
 McKenna reported that within the mushroom trance, he was informed that
 "once a culture has complete understanding of its genetic information,
 it re-engineers itself for survival." According to this account, the
-Stropharia cubensis mushroom's version of re-engineering involves a
+Stropharia cubensis mushroom"s version of re-engineering involves a
 [[emcdda-psilocybin-non-addictive-profile-tolerance-dynamics]] spores
 that he argued are consistent with an extraterrestrial origin:
 
@@ -31,7 +31,7 @@ that he argued are consistent with an extraterrestrial origin:
   to absorb the deep ultraviolet end of the spectrum in space.
 - The casing of a spore is one of the hardest organic substances known,
   with [[mckenna-spore-brownian-motion-and-galactic-percolation]], capable of
-  percolating to the edge of a planet's atmosphere.
+  percolating to the edge of a planet"s atmosphere.
 - Through interaction with energetic particles, some spores could
   potentially escape into interstellar space.
 

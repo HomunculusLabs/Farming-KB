@@ -29,7 +29,7 @@ Cho identifies the wetting agent as the critical component that determines pesti
 
 ### JADAM Wetting Agent (JWA)
 
-"I developed a method of making this wetting agent without heating and named it 'JADAM wetting agent (or JWA).' It is a natural surfactant."
+"I developed a method of making this wetting agent without heating and named it "JADAM wetting agent (or JWA).' It is a natural surfactant."
 
 JWA is a heated surfactant made from natural oils without the industrial processes required for conventional surfactants. It serves three functions:
 1. **Wetting**: Reduces surface tension, allowing the spray to spread across plant surfaces
@@ -44,7 +44,7 @@ JWA is a heated surfactant made from natural oils without the industrial process
 
 ### No-Heat Production
 
-"I also developed a method of making germicide from sulfur without heating and named it 'JADAM sulfur (or JS).' It only takes 20 minutes to make JS."
+"I also developed a method of making germicide from sulfur without heating and named it "JADAM sulfur (or JS).' It only takes 20 minutes to make JS."
 
 JS is a sulfur-based germicide that can be produced quickly and simply, without the heating equipment typically required for sulfur preparation.
 
@@ -60,7 +60,7 @@ JS is a sulfur-based germicide that can be produced quickly and simply, without 
 
 ### Resistance Prevention
 
-The claim that JNP "does not develop resistance in pests" reflects JADAM's broader philosophy of working with natural systems rather than against them. Chemical pesticides typically rely on a single mode of action, which selects for resistant pest populations. JADAM's approach uses multiple natural compounds that target pests through different mechanisms, making resistance evolution much less likely.
+The claim that JNP "does not develop resistance in pests" reflects JADAM"s broader philosophy of working with natural systems rather than against them. Chemical pesticides typically rely on a single mode of action, which selects for resistant pest populations. JADAM's approach uses multiple natural compounds that target pests through different mechanisms, making resistance evolution much less likely.
 
 ### Dual Function
 

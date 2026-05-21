@@ -38,7 +38,7 @@ underworld each winter, leaving the world above in suspended animation. During
 the Persephone months, plants in a minimally heated greenhouse are not dead but
 dormant, waiting for light to return in sufficient quantity to resume growth.
 
-At Coleman's farm in Harborside, Maine (latitude 44°N), the 10-hour day begins
+At Coleman"s farm in Harborside, Maine (latitude 44°N), the 10-hour day begins
 around November 5th and ends around February 5th — approximately three months
 of negligible growth. The plants harvested during this period were planted and
 reached harvestable size during the longer days of autumn. The greenhouse

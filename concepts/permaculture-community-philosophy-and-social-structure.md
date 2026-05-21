@@ -20,7 +20,7 @@ Mollison identifies systemic failures:
 
 ## The Central Thesis
 
-"I see no other solution (political, economic) to the problems of man than the formation of small responsible communities involved in permaculture and appropriate technology, for both individual and competitive enterprise and 'free' energy have failed us."
+"I see no other solution (political, economic) to the problems of man than the formation of small responsible communities involved in permaculture and appropriate technology, for both individual and competitive enterprise and "free' energy have failed us."
 
 ### Energy Integration
 "Permaculture both conserves and generates the fuel energies of transport systems, and would enable any community to exist comfortably on very restricted land areas." Supplemented with methane, alcohol fuels, dry distillation, and wind/wave/water/solar energies, "it would provide the basis of a sustainable and regionalized society."
@@ -53,17 +53,17 @@ Mollison identifies systemic failures:
 - **At least 5 locations for each group**, one to be an "overseas" centre
 - Groups never to have a fixed boundary
 - **Community ownership of land and public resources** with life leases on homes and gardens
-- "The cruel myth of 'ownership' of resources and people is where we have lost touch with reality"
+- "The cruel myth of "ownership' of resources and people is where we have lost touch with reality"
 
 ### Economic Model
-- Regional groups choose specialized 'trade' manufactures suited to local resources, skills, inclinations, and markets
+- Regional groups choose specialized "trade' manufactures suited to local resources, skills, inclinations, and markets
 - Programme to make every house and town self-sufficient
 - Teams from each stabilized area advance into disaster areas and the third world
 - Global federations of specialized groups in travel and trade, exchange of skills
 
 ## The Gift Relationship
 
-"Perhaps the greatest truth is that we can only own the resources we give to others." Mollison cites Titmuss (The Gift Relationship, 1970): "A world totally governed by private market principles ultimately deprives man of the 'freedom to give', the right to behave altruistically."
+"Perhaps the greatest truth is that we can only own the resources we give to others." Mollison cites Titmuss (The Gift Relationship, 1970): "A world totally governed by private market principles ultimately deprives man of the "freedom to give', the right to behave altruistically."
 
 ## The Organic Farming Movement
 
@@ -80,7 +80,7 @@ Mollison identifies systemic failures:
 
 ## Definition of "Enough"
 
-"Enough' is a warm place, good nutrition (hence, health), plenty of information, many friends, a meaningful task or two and reliance on the group, hence absolute security."
+"Enough" is a warm place, good nutrition (hence, health), plenty of information, many friends, a meaningful task or two and reliance on the group, hence absolute security."
 
 "Who needs insurance, spy satellites, or any of those expensive waste products of insecurity? Multinationals, like national pride, are a result of greed and the need to hold what you have."
 

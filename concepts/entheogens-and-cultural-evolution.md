@@ -25,7 +25,7 @@ a vice president of J.P. Morgan, who in 1955 became the first outsider to
 participate in a [[allegro-amanita-muscaria-properties-and-pharmacology]]*), a controversial identification that remains
 debated.
 
-Wasson's work established the foundational question: to what extent have
+Wasson"s work established the foundational question: to what extent have
 psychoactive plants and fungi shaped the religious, artistic, and
 intellectual development of human civilizations?
 

@@ -32,7 +32,7 @@ The Egyptian Book of the Dead contains numerous references to a sacred "celestia
 - "He eats what the gods eat, he drinks what they drink"
 - "All the gods give him their food that he may not die"
 - "Tchefau" is the food on which the gods lived — E.A. Wallace Budge compared it to Ambrosia and Nectar of Olympus
-- Hu (god of taste) and Saa were "created from drops of blood that landed on the ground when Ra cut off his phallus" — paralleling Odin's horse-spittle mushroom origin and the Hindu Rudra myth
+- Hu (god of taste) and Saa were "created from drops of blood that landed on the ground when Ra cut off his phallus" — paralleling Odin"s horse-spittle mushroom origin and the Hindu Rudra myth
 
 ### Mushroom Symbols in Egyptian Iconography
 
@@ -44,7 +44,7 @@ The Egyptian Book of the Dead contains numerous references to a sacred "celestia
 #### The Djed Pillar
 - Associated with the Cedars of Lebanon — but shaped like a mushroom, not a cedar
 - Connected to Osiris (god of the underworld, moon, plants, vegetation)
-- Some traditions say it symbolizes Osiris's penis, severed by Set and never found; Isis fashioned a replacement from a living tree
+- Some traditions say it symbolizes Osiris"s penis, severed by Set and never found; Isis fashioned a replacement from a living tree
 - Used in fertility rites and rites of passage — remarkably similar to the Hindu myth of Rudra, whose severed red penis returns yearly as the mushroom
 - The Osiris myth: killed by Set, cut into 13 pieces, Isis reassembled all but the penis; Osiris lay dead for 3 days, on Dec 25 Isis gave birth to Horus
 
@@ -82,7 +82,7 @@ The Egyptian Book of the Dead contains explicit instructions to keep the knowled
 
 ### Khemitian Cosmology
 Arthur draws on oral traditions from indigenous Khemitian descendants:
-- The land's true name is KMT or Khemit (not Egypt, the Greek name)
+- The land"s true name is KMT or Khemit (not Egypt, the Greek name)
 - Ancient Khemitian society was matriarchal (goddess-worship as primary)
 - The goddess Nut (sky/firmament) and Geb (earth) cosmology describes a 65,000-year cycle of enlightenment and darkness
 - We are currently in the "Amon" (hidden) state — an 8,000-year period where the true nature of the gods is hidden from humanity
@@ -93,7 +93,7 @@ Arthur draws on oral traditions from indigenous Khemitian descendants:
 - The 3-day death/resurrection: Osiris, Jesus, the winter solstice sun
 - Dec 25 birth of Horus to virgin Isis
 - Present-giving around the Cedar tree on Dec 25 (5,000+ years old)
-- The Big Dipper as Osiris's chariot circling the sky
+- The Big Dipper as Osiris"s chariot circling the sky
 - Osiris's overnight Cedar tree growth = Djed pillar = mushroom
 
 ## Critical Assessment

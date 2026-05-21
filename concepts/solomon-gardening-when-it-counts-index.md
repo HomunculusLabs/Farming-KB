@@ -14,7 +14,7 @@ Updated: 2026-04-18
 
 Source: ~/wiki/raw/papers/gardening-when-it-counts-steve-solomon.md (17,348 lines)
 
-This index tracks all wiki pages created from Steve Solomon's "Gardening When It Counts," a comprehensive guide to [[root-competition-plant-spacing-solomon]], and careful [[seed-starting-indoors-solomon]] - Germination cabinet, soil mix, containers, sowing, timing
+This index tracks all wiki pages created from Steve Solomon"s "Gardening When It Counts," a comprehensive guide to [[root-competition-plant-spacing-solomon]], and careful [[seed-starting-indoors-solomon]] - Germination cabinet, soil mix, containers, sowing, timing
 
 - [[transplanting-techniques-solomon]] - Seedling evaluation, hardening off, procedure, post-care
 
@@ -26,7 +26,7 @@ This index tracks all wiki pages created from Steve Solomon's "Gardening When It
 
 - [[comparison-foliar-feeding-vs-compost-tea-nutrients]], [[intensive-gardening-critique-solomon]] - Critique of close spacing, Square Foot Gardening, scale considerations
 
-- [[growing-food-in-hard-times]] - Solomon's approach to food self-sufficiency
+- [[growing-food-in-hard-times]] - Solomon"s approach to food self-sufficiency
 
 - [[hamilton-geoffhamilton-nick-organic-gardening-companion-planting]] perspective
 

@@ -1,6 +1,6 @@
 ---
 title: "Stramenopila vs. True Fungi: The Oomycete Kingdom Distinction"
-source: "Mr. Bloomfield's Orchard - nicholas-money"
+source: "Mr. Bloomfield"s Orchard - nicholas-money"
 topics: [mycology, taxonomy, oomycetes, stramenopila, fungal-classification]
 ---
 
@@ -44,7 +44,7 @@ Several oomycetes cause devastating diseases in plants and animals:
 The causal agent of late blight of potato, responsible for the Irish Potato Famine of the 1840s. This organism continues to threaten global food security, with new strains overcoming resistant potato cultivars.
 
 ### *Pythium insidiosum*
-A subtropical oomycete that causes **pythiosis** (swamp cancer) in horses, dogs, and humans. Infections typically occur through wounds exposed to warm stagnant water. The pathogen's hyphae invade host tissue, causing granulomatous lesions that can be fatal without aggressive surgical intervention.
+A subtropical oomycete that causes **pythiosis** (swamp cancer) in horses, dogs, and humans. Infections typically occur through wounds exposed to warm stagnant water. The pathogen"s hyphae invade host tissue, causing granulomatous lesions that can be fatal without aggressive surgical intervention.
 
 ### *Saprolegnia* Species
 Members of the Saprolegniaceae family are aquatic oomycetes that infect fish and amphibian eggs. Money describes their hyphae as "the most beautiful" he has studied—when illuminated on a microscope stage, "parallel streams of organelles glide through their translucent cytoplasm" and the cells "sparkle."
@@ -92,7 +92,7 @@ The stramenopile lineage is part of the larger SAR (Stramenopila, Alveolata, Rhi
 
 Despite the firm molecular evidence, the practical implications of reclassifying oomycetes remain contentious in some applied fields. Plant pathologists who study *Phytophthora* species often work in mycology departments and attend mycological conferences. Medical researchers who treat pythiosis in horses are typically called "veterinary mycologists." The cultural and institutional inertia of centuries of mycological tradition means that the term "fungus" continues to be used in a broad, ecologically meaningful sense even when it is taxonomically inaccurate.
 
-Money acknowledges this tension directly: "although I'll refer to them as fungi, remember that they're not close relatives of species that generate mushrooms." This pragmatic approach—acknowledging the true phylogeny while maintaining the practical convenience of the traditional grouping—characterizes much of contemporary mycological practice.
+Money acknowledges this tension directly: "although I"ll refer to them as fungi, remember that they're not close relatives of species that generate mushrooms." This pragmatic approach—acknowledging the true phylogeny while maintaining the practical convenience of the traditional grouping—characterizes much of contemporary mycological practice.
 
 ## Key Takeaways
 

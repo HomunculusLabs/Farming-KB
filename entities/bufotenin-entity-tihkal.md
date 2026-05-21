@@ -33,10 +33,10 @@ TIHKAL entry #19. The N,N-dimethyl homologue of [[tryptamine]], 5-hydroxy-N,N-di
 - **1 mg, i.v. (3 min)**: "Within a minute I had a tight feeling in my chest and my face felt as if it had been jabbed by nettles and this lasted for about 6 minutes. I had fleeting nausea."
 - **2 mg, i.v. (3 min)**: "I felt a tightness in my throat and stomach and it seemed that my pulse was racing, although apparently there was no change in either my pulse or blood pressure."
 - **4 mg, i.v. (3 min)**: "During the injection, I first felt a burning sensation in my face, then a load pressing down from above, and then a numbness of the entire body. I saw red and black spots -- a vivid orange-red -- moving around. Apparently my purplish face color lasted some 15 minutes."
-- **8 mg, i.v. (3 min)**: "I became lightheaded as soon as the injection started, and then my face turned purple and I became nauseated and I felt I couldn't breathe. I see white, straight lines with a black background. In another two minutes, everything was pretty much gone."
+- **8 mg, i.v. (3 min)**: "I became lightheaded as soon as the injection started, and then my face turned purple and I became nauseated and I felt I couldn"t breathe. I see white, straight lines with a black background. In another two minutes, everything was pretty much gone."
 - **10 mg, i.v. (50 sec)**: "My face was suddenly very hot. I could not breathe fast enough."
 - **10 mg, i.v. (77 min)**: "There were no psychological changes."
-- **16 mg, i.v. (3 min)**: "Almost immediately I felt a burning sensation in the roof of my mouth. My face turned purple, and my chest feels crushed. Everything has a yellow haze, and I was sweating heavily and I vomited. Words can't come. My mind feels crowded. It has now been forty minutes and I feel better, but I still feel like I would like to walk it off, like a hang-over."
+- **16 mg, i.v. (3 min)**: "Almost immediately I felt a burning sensation in the roof of my mouth. My face turned purple, and my chest feels crushed. Everything has a yellow haze, and I was sweating heavily and I vomited. Words can"t come. My mind feels crowded. It has now been forty minutes and I feel better, but I still feel like I would like to walk it off, like a hang-over."
 
 ## Natural Occurrence and Related Compounds
 

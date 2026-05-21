@@ -43,7 +43,7 @@ the most significant hallucinogenic plants that dispersed from their
 Eurasian homeland to nearly every continent, adapted by each receiving
 culture to local religious, medical, and social practices.
 
-## Albert Hofmann's Classification
+## Albert Hofmann"s Classification
 
 Albert Hofmann classified psychoactive drugs based on [[reserpine]]); hypnotics
 (Kava-kava); and hallucinogens or psychedelics (Peyote, Marijuana,
@@ -72,7 +72,7 @@ world.
 
 ## Sacred and Shamanic Use
 
-The book emphasizes that [[mckenna-scythian-cannabis-ritual-smoke-bath-herodotus]] steam-bath ceremony and the Hindu sadhu's use of
+The book emphasizes that [[mckenna-scythian-cannabis-ritual-smoke-bath-herodotus]] steam-bath ceremony and the Hindu sadhu"s use of
 charas in devotion to Shiva exemplify this sacred dimension.
 
 Among the many definitions offered for this class of substances, the

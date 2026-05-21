@@ -6,7 +6,7 @@ type: concept
 
 ## Mushroom Poisoning Incidents and Remedies
 
-Julius A. Palmer's writings provide some of the earliest documented accounts
+Julius A. Palmer"s writings provide some of the earliest documented accounts
 of mushroom poisoning in America, along with practical remedies derived from
 [[palmer-mushroom-cooking-and-personal-experience]]. His cases illustrate several distinct mechanisms of fungal
 toxicity and challenge common assumptions about what makes a mushroom
@@ -74,7 +74,7 @@ These cases illustrated what Palmer called "the extremely susceptible character
 of mushrooms" — their tendency to absorb and concentrate compounds from their
 [[cannabis-growing-environment-setup]].
 
-## Palmer's Recommended Remedy
+## Palmer"s Recommended Remedy
 
 Palmer prescribed a specific remedy for all cases of suspected mushroom
 poisoning: two wineglasses of equal parts whiskey and sweet-oil (olive oil).
@@ -84,7 +84,7 @@ and Palmer was "no worse for the experience" within a few hours.
 He recommended this remedy over emetics in all cases. The whiskey could be
 omitted or substituted with vinegar, but sweet-oil should be taken liberally.
 Palmer theorized that the Italians ate many dangerous fungi with impunity
-because fresh specimens' properties were modified by sweet-oil, and preserved
+because fresh specimens" properties were modified by sweet-oil, and preserved
 specimens were neutralized by pickle. Either element rendered harmless the
 peculiar alkali to which mushrooms owe their noxious qualities.
 
@@ -129,7 +129,7 @@ fungi, and the purgative or emetic treatments that were effective for
 decomposition poisoning were useless or even aggravating for amanitine
 poisoning.
 
-This distinction was one of Palmer's most important contributions: recognizing
+This distinction was one of Palmer"s most important contributions: recognizing
 that "poisonous mushroom" was not a single category but encompassed several
 fundamentally different toxic mechanisms requiring different treatments.
 

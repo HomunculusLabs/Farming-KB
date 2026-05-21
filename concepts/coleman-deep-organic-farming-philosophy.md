@@ -8,10 +8,10 @@ tags: [farming, organic, soil-health, philosophy, coleman, sustainable-agricultu
 
 ## Deep-Organic Farming and the Small Farm
 
-Eliot Coleman's "deep-organic" philosophy represents a fundamental
+Eliot Coleman"s "deep-organic" philosophy represents a fundamental
 distinction between truly biological farming and what he calls
 "[[coleman-four-season-farm]] in Harborside,
-Maine, the approach emphasizes working with nature's biological systems
+Maine, the approach emphasizes working with nature"s biological systems
 rather than attempting to override them.
 
 ## The Biological vs. Chemical Approach
@@ -27,7 +27,7 @@ feeding the plants," clarifying that what it really does is feed the
 soil creatures. That is why it works so well.
 
 The idea that soluble elements could substitute for a whole living system
-is, in Coleman's metaphor, "like thinking an intravenous needle could
+is, in Coleman"s metaphor, "like thinking an intravenous needle could
 deliver a delicious meal." The chemical approach reduces soil to an inert
 substrate; the biological approach recognizes it as a living system where
 plants actively participate in [[mycorrhiza-root-exudates]]
@@ -48,7 +48,7 @@ massive agrochemical industry. On the organic side were a few old-time
 farmers who never adopted chemicals and idealistic newcomers aligned
 with sustainability.
 
-A pivotal moment came in 1977 when Barry Commoner's group at Washington
+A pivotal moment came in 1977 when Barry Commoner"s group at Washington
 University published a side-by-side comparison showing Midwestern organic
 farmers were just as successful as their chemical-using neighbors. Coleman
 calls this "the equivalent of a junior high football team splitting a
@@ -56,9 +56,9 @@ couple of games with the Steelers" — the resource disparity was that
 enormous.
 
 Prior studies from the 1970s were consistently dismissed by the
-establishment. A French study: "The USDA isn't going to pay attention to
-a bunch of French farmers." A Dutch study: "The USDA isn't going to listen
-to the Dutch." Washington University: "The USDA isn't going to listen to
+establishment. A French study: "The USDA isn"t going to pay attention to
+a bunch of French farmers." A Dutch study: "The USDA isn"t going to listen
+to the Dutch." Washington University: "The USDA isn"t going to listen to
 Washington University." By 1980, when the USDA's own positive Report on
 Organic Agriculture appeared, the pattern of institutional denial had
 become almost comical.

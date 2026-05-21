@@ -10,7 +10,7 @@ created: 2026-05-08
 
 ## Overview
 
-Ralph Metzner's 1998 review of hallucinogens in [[albert-hofmann]] first discovered the mind-altering
+Ralph Metzner"s 1998 review of hallucinogens in [[albert-hofmann]] first discovered the mind-altering
 properties of LSD at the height of World War II in a Swiss pharmaceutical lab,
 the compound was initially characterized as "psychotomimetic" (mimicking
 psychosis) and "psycholytic" (dissolving psychic defenses). These two

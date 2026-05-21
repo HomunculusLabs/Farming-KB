@@ -61,7 +61,7 @@ Primary tryptamines can be N-methylated through formylation followed by LAH redu
 - The 4-hydroxy tryptamines ([[5-methoxy-compounds]]
 - synthetic tryptamine methods
 
-## Merged: Shulgin's Tryptamine Research Philosophy
+## Merged: Shulgin"s Tryptamine Research Philosophy
 
 ## Shulgin's Tryptamine Research Philosophy
 

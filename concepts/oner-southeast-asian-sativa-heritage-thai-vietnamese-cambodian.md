@@ -12,7 +12,7 @@ created: 2026-05-10
 ## Overview
 
 In the introduction and strain profiles of [[cannabis-sativa]] Volume 3, The Rev
-(S.K.U.N.K. Magazine's cultivation editor and author of True Living Organics)
+(S.K.U.N.K. Magazine"s cultivation editor and author of True Living Organics)
 provides a passionate historical account of the Southeast Asian sativa
 varieties that shaped modern cannabis genetics. The Thai, Vietnamese, and
 Cambodian landraces represent some of the most potent and culturally

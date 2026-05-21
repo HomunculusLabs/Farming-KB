@@ -13,7 +13,7 @@ type: concept
 
 ## Historical Intoxication Cases
 
-In 1816, an impoverished man collected mushrooms in London's Hyde Park
+In 1816, an impoverished man collected mushrooms in London"s Hyde Park
 thinking they were edible champignons. Soon after ingestion, his field of
 vision darkened and he saw fog while feeling lightheaded and dizzy. He sank
 into his chair, felt his strength draining, and grew oblivious to his

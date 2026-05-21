@@ -21,7 +21,7 @@ systems.
 
 ## Slope Stabilisation and Root Systems
 
-Chestnut plays a central role in Mollison's discussion of root systems and
+Chestnut plays a central role in Mollison"s discussion of root systems and
 their implications for designers. Unstable slopes are pegged with the
 great root "tree nails" of chestnut and pine, oak and walnut. Even after a
 hundred years, the steep slopes of Tasmania are only just starting to

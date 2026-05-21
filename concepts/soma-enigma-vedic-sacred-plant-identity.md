@@ -15,7 +15,7 @@ type: concept
 
 Soma is the central mystery of Vedic religion — a sacred plant whose
 pressed juice was consumed in elaborate rituals and praised as the nectar of
-immortality. The Ninth Mandala of the [[terence-mckenna]]'s
+immortality. The Ninth Mandala of the [[terence-mckenna]]"s
 *Food of the Gods* surveys the major candidates for Soma's identity and
 examines the religious, historical, and pharmacological evidence surrounding
 one of the greatest unsolved mysteries in the study of [[mckenna-zoroaster-suppression-haoma-rite-ecstatic-religion]] has remained the central liturgical act of Zoroastrian
@@ -39,7 +39,7 @@ existence [the spirit world] before death."
 ### *Amanita muscaria* (Fly Agaric)
 
 Gordon and [[amanita-muscaria-and-ibotenic-acid-containing-fungi]] and
-muscimol. The Wassons argued that the mushroom's distinctive appearance,
+muscimol. The Wassons argued that the mushroom"s distinctive appearance,
 its effects, and its distribution matched Vedic descriptions. McKenna
 acknowledged the strength of this theory but noted several objections.
 

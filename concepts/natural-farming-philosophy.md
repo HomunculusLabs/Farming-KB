@@ -18,7 +18,7 @@ tags:
 
 ## Natural Farming Philosophy
 
-Natural farming is a philosophical and practical approach to agriculture developed by Japanese farmer and philosopher **Masanobu Fukuoka** (1913–2008). Presented in his seminal work *The Natural Way of Farming: The [[cannabis-chemical-fertilizers]] became thought of as indispensable only in the last fifty years or so. True, the ancient practice of using manure and compost does help speed crop growth, but this also depletes the land from which the organic material is taken. One gram of soil on Fukuoka's farm contained about 100 million nitrogen-fixing bacteria and other soil-enriching microbes.
+Natural farming is a philosophical and practical approach to agriculture developed by Japanese farmer and philosopher **Masanobu Fukuoka** (1913–2008). Presented in his seminal work *The Natural Way of Farming: The [[cannabis-chemical-fertilizers]] became thought of as indispensable only in the last fifty years or so. True, the ancient practice of using manure and compost does help speed crop growth, but this also depletes the land from which the organic material is taken. One gram of soil on Fukuoka"s farm contained about 100 million nitrogen-fixing bacteria and other soil-enriching microbes.
 
 3. **No pesticides** — Although a thousand diseases attack plants in the fields and forests, nature strikes a balance; there never was any need for pesticides. Man grew confused when he identified these diseases as insect damage and created with his own hands the need for labor and toil.
 
@@ -35,7 +35,7 @@ Fukuoka argued that the living and [[korean-natural-farming]] scientific agricul
 - **Natural farming** is centrifugal and convergent — its objective is non-action and a return to nature. It is simple, economical, and labor-saving.
 - **[[fukuoka-microbes-soil-health-discriminating-knowledge]] is a falsehood. Man can never truly know even a single leaf or a single handful of earth. Properly speaking, nature is neither living nor dead. Notions of right and wrong, good and bad, are alien to nature. These are only distinctions invented by man.
 
-Fukuoka wrote: "In nature, there is no cause and effect." He believed that the only effective approach to problems like desertification is to leave things largely up to nature, since the web of interwoven events and factors is beyond man's powers of comprehension.
+Fukuoka wrote: "In nature, there is no cause and effect." He believed that the only effective approach to problems like desertification is to leave things largely up to nature, since the web of interwoven events and factors is beyond man"s powers of comprehension.
 
 ## The Illusion of High-Yield Technology
 

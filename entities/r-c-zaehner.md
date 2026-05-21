@@ -21,7 +21,7 @@ Robert Charles Zaehner (1913–1974) was a British academic and intelligence off
 - Argued against the idea that all mystical experiences are essentially the same (the "perennial philosophy" position)
 - Personally experimented with mescaline and published a negative account of his experience
 - His mescaline experience produced a "curious sensation" at the base of the spine that he compared to mania
-- Leary quotes Zaehner's own admission: "I did not like it at all"
+- Leary quotes Zaehner"s own admission: "I did not like it at all"
 - Served in British intelligence (MI6) in Iran during WWII
 
 ## The Zaehner Episode in Context

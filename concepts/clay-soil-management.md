@@ -29,7 +29,7 @@ Before working any soil — but especially clay — perform this simple test:
 2. Cradle the ball in your palm and press firmly on it with your thumb.
 3. **If the ball breaks apart easily and crumbles**, the soil is at the right moisture for working.
 4. **If the ball is plastic and your thumb merely dents it**, the soil is too wet — wait.
-5. **If the soil won't form a ball at all**, it either has no clay content (and can be worked wet or dry) or is too dry.
+5. **If the soil won"t form a ball at all**, it either has no clay content (and can be worked wet or dry) or is too dry.
 
 ## Chemical Behavior of Clay
 

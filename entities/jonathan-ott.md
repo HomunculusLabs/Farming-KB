@@ -32,8 +32,8 @@ Mexican-based ethnobotanist, pharmacognosist, and author. Coined the term "enthe
 
 - **"Pharmacotheon" (1993)** — A comprehensive reference on psychoactive plants and compounds, considered one of the most thorough pharmacological surveys of entheogenic substances ever published. The book catalogs hundreds of psychoactive plants with detailed chemistry, pharmacology, and ethnobotanical context.
 - **"Ayahuasca Analogues: Pegaamga"** — Extensive documentation of "ayahuasca analogs," plant combinations that replicate the DMT + MAOI pharmacology using different species than the traditional Amazonian Banisteriopsis caapi and Psychotria viridis. Ott identified numerous botanical sources of DMT and beta-carboline MAO inhibitors worldwide.
-- Co-author with [[jochen-gartz]] on magic mushroom research; acknowledged as a key expert consultant in Gartz's "Magic Mushrooms Around the World"
-- Translator of [[albert-hofmann]]'s "LSD: My Problem Child" into English, providing a preface from Vashon Island, Washington
+- Co-author with [[jochen-gartz]] on magic mushroom research; acknowledged as a key expert consultant in Gartz"s "Magic Mushrooms Around the World"
+- Translator of [[albert-hofmann]]"s "LSD: My Problem Child" into English, providing a preface from Vashon Island, Washington
 
 ## The Term "Entheogen"
 

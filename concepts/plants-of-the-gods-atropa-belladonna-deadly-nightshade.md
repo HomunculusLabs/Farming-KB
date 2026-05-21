@@ -53,7 +53,7 @@ meaning "beautiful lady," recalls the use of sap of the plant to
 dilate the pupils of the eyes among the fine ladies of Italy who
 believed that the dreamy, intoxicated stare thus produced was the
 height of fetching beauty. Many vernacular names refer to its
-intoxicating properties: Sorcerer's Cherry, Witch's Berry, Devil's
+intoxicating properties: Sorcerer"s Cherry, Witch's Berry, Devil's
 Herb, Murderer's Berry, Dwaleberry (dwale deriving from the
 Scandinavian root meaning "trance").
 

@@ -6,12 +6,12 @@ type: concept
 
 ## The Man-Child Born of a Virgin: Thunder, Fertilization, and the Anointing
 
-The mushroom's unique growth pattern — emerging from a womb-like volva without visible seed or root — made it a powerful symbol across [[allegro-colour-and-consistency-of-the-amanita-muscaria]] begins its life enclosed within a protective membrane, the *volva*, which surrounds the young fungus like an egg shell around a yolk.
-Pliny the Elder described the process vividly: "the earth produces first a 'womb' (vulva)... and afterwards (the mushroom) itself inside the womb, like a yolk inside the egg."
+The mushroom"s unique growth pattern — emerging from a womb-like volva without visible seed or root — made it a powerful symbol across [[allegro-colour-and-consistency-of-the-amanita-muscaria]] begins its life enclosed within a protective membrane, the *volva*, which surrounds the young fungus like an egg shell around a yolk.
+Pliny the Elder described the process vividly: "the earth produces first a "womb' (vulva)... and afterwards (the mushroom) itself inside the womb, like a yolk inside the egg."
 This botanical reality gave the ancients a concrete model for conception without apparent human agency.
-The Amanita's structure is distinctive.
+The Amanita"s structure is distinctive.
 A wrapper or volva encloses the young fungus entirely, supplemented by an inner membrane running from the margin of the cap to the stem.
-Before the volva ruptures, the emergent fungus looks "somewhat like a pigeon's egg half-buried, or like a small phallus 'egg.'"
+Before the volva ruptures, the emergent fungus looks "somewhat like a pigeon"s egg half-buried, or like a small phallus 'egg.'"
 This visual similarity to both egg and phallus made the mushroom an ideal symbol for generative power and miraculous birth.
 It looked like a child produced without visible parentage, emerging from the earth itself as though conceived by some invisible agency.
 The volva thus served as a natural "virgin womb" in the ancient botanical imagination.
@@ -30,8 +30,8 @@ The thunderstorm was understood as the moment of divine impregnation.
 The god had "spoken" and his creative "word" had been carried to earth by the storm-wind and implanted directly into the volva.
 The rain that followed was the medium of conception, the semen of the sky-god entering the receptive earth-womb.
 The mushroom that appeared after such a storm was thus literally the product of a divine union — god and earth, heaven and womb.
-"The baby that resulted from this divine union was thus the 'Son of God'" (Col 1:15ff).
-Each fruiting was a new incarnation, a fresh epiphany of the storm-god's generative power made flesh in the form of a phallic plant.
+"The baby that resulted from this divine union was thus the "Son of God'" (Col 1:15ff).
+Each fruiting was a new incarnation, a fresh epiphany of the storm-god"s generative power made flesh in the form of a phallic plant.
 
 ## Father-Son Correspondence
 
@@ -41,16 +41,16 @@ The storm-god was himself a phallic deity, and his earthly "son" reproduced his 
 This is why Jesus could say, "He who has seen me has seen the Father" (John 14:9) — the visible form of the mushroom was an exact image of the invisible generative power that produced it.
 The chain of divine names preserves this logic.
 ISKUR means "Mighty Penis"; Adad/Hadad means "Big-father"; the Greeks called him *Patēr-Zeus*, the Romans *Jupiter* — "Father-god."
-At every stage, the deity's identity is bound up with phallic generative power, and the mushroom that bears his form is the proof of his virility.
+At every stage, the deity"s identity is bound up with phallic generative power, and the mushroom that bears his form is the proof of his virility.
 When demons encountered Jesus, they recognized "the Holy One of God" (Mark 1:24).
 The title "Holy One" connects directly to the "Holy Plant" known throughout [[allegro-star-of-the-morning-venus-and-the-sacred-mushroom]] appeared after thunderstorms as the visible offspring of the supreme deity.
 
 ## Spittle, Semen, and Healing
 
-The mushroom's slimy juice carried deep symbolic freight.
+The mushroom"s slimy juice carried deep symbolic freight.
 Its viscous exudation resembled the fluid produced prior to coitus and seminal discharge, linking the fungus to the physiology of generation.
 Job 6:6 speaks of "the spittle of the mushroom," and the Talmud identifies "spittle in the mouth" with semen in the vagina.
-This cemented the association between the mushroom's exudate and divine seed.
+This cemented the association between the mushroom"s exudate and divine seed.
 Spittle in the ancient world carried curative and prophylactic power.
 It was repellent to snakes and served as an antidote to venom.
 Jesus' healing of the blind man — mixing spittle with dust to form a clay poultice (John 9:6) — reenacts this pharmacological tradition in narrative form.
@@ -63,7 +63,7 @@ This unifies weather, sexuality, and medicine into a single symbolic system cent
 
 The Magi believed that anointing with mushroom juice conferred "amazing power" — the ability to "obtain every wish, banish fevers, and cure all diseases."
 This tradition passed into Christian ritual.
-"The Christian, the 'smeared or anointed one', received 'knowledge of all things' by his 'anointing from the Holy One'" (I John 2:20, 27).
+"The Christian, the "smeared or anointed one', received 'knowledge of all things' by his 'anointing from the Holy One'" (I John 2:20, 27).
 The Greek *christos* and Hebrew *mashiach* both mean "anointed," and the anointing substance was the resinous juice of the sacred mushroom.
 The sacred incense described in Exodus 30:34 contained myrrh, aromatic cane, cinnamon, cassia, and frankincense.
 Josephus lists 13 elements in the compound; the Talmud records 11 plus salt and a secret "herb" known only to the priestly family.
@@ -75,7 +75,7 @@ The prophetic ecstasy of the Hebrew prophets, the oracular frenzy of the Greek s
 
 ## Christ/Messiah Titles: Etymology and Sects
 
-The title "Christ" itself derives from Sumerian roots in Allegro's reading.
+The title "Christ" itself derives from Sumerian roots in Allegro"s reading.
 MASh refers to semen or the resinous saps of plants — the generative fluid.
 SKEM denotes similar exudates.
 A *MASh-man* was an exorcist, one who could drive out demons through the power of the holy spittle.

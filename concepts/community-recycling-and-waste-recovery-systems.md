@@ -38,7 +38,7 @@ growing space.
 **Supervised Waste Sites** — The waste disposal site is actively supervised,
 with loads directed and mixed waste sorted on arrival. Saleable or recyclable
 items are grouped in clearly marked areas, making it easy for community members
-to access recovered materials. This supervision is essential to the system's
+to access recovered materials. This supervision is essential to the system"s
 success — without it, the separation discipline established by the collection
 calendar would break down at the point of deposit.
 

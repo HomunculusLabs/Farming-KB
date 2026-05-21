@@ -27,7 +27,7 @@ A sector is a directional zone of influence on the site. Unlike zones (which are
 
 ### Sun Sectors
 
-- **Summer sun sector**: Maps the solar azimuth during the summer solstice. The wedge should reflect the actual angle range of the sun's path. In the Northern Hemisphere, the sun arcs higher and wider in summer.
+- **Summer sun sector**: Maps the solar azimuth during the summer solstice. The wedge should reflect the actual angle range of the sun"s path. In the Northern Hemisphere, the sun arcs higher and wider in summer.
 - **Winter sun sector**: Maps the solar azimuth during the winter solstice. The sun is lower and narrower in winter. This sector is critical for placing buildings, greenhouses, and frost-sensitive plants.
 
 ### Wind Sectors

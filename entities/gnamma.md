@@ -23,7 +23,7 @@ Gnammas (also called rockholes) are natural rock basins that collect and retain 
 
 ## Sources
 
-- Mollison, B. (1988). *Permaculture: A Designers' Manual*. [[tagari-publications]]. Chapter 11, pp. 355–356.
+- Mollison, B. (1988). *Permaculture: A Designers" Manual*. [[tagari-publications]]. Chapter 11, pp. 355–356.
 - Bayly, I. A. E. (1999). "Review of how indigenous people managed biota in Australian drylands." *Journal of Arid Environments*.
 
 ## Overview

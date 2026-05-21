@@ -32,7 +32,7 @@ Every producer must balance three factors:
 
 The economics of seedrack sales have degraded seed quality progressively:
 
-- Transnational retail chains use enormous buying clout to squeeze seedrack jobbers' profits
+- Transnational retail chains use enormous buying clout to squeeze seedrack jobbers" profits
 - Independent garden centers, unable to compete on price, are vanishing
 - Fewer seedrack companies survive, and they are squeezed ever harder
 - Desperate rack companies demand lower prices from primary growers
@@ -42,7 +42,7 @@ The economics of seedrack sales have degraded seed quality progressively:
 
 ### The "Sweepings" Reality
 
-A primary grower's sales manager candidly explained the garden seed business:
+A primary grower"s sales manager candidly explained the garden seed business:
 
 - For the home garden trade, **germination percentage doesn't really matter** — the important thing is that "the seeds came up"
 - The grower can sell the home gardener "the sweepings off the factory floor"
@@ -51,7 +51,7 @@ A primary grower's sales manager candidly explained the garden seed business:
 - Dense, good seed goes into the bag for commercial farmers
 - The chaff, light seed, and immature seed tends to fall to the floor — this is what the home gardener gets
 
-### Why Gardeners Don't Notice
+### Why Gardeners Don"t Notice
 
 - Inexperienced gardeners blame themselves — their soil, the depth they sowed, watering, etc.
 - They are uncertain about their own skills and never blame the seed
@@ -71,7 +71,7 @@ When seed is produced the cheap way:
 
 ### The "Heirloom" Labeling Problem
 
-When a cheap grower's variety becomes too degraded:
+When a cheap grower"s variety becomes too degraded:
 
 1. They buy a few pounds of expensive commercial-quality seed of a different but similar-looking variety from a quality company
 2. They use this to start their seed production field

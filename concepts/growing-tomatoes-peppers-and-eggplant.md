@@ -32,7 +32,7 @@ Tomatoes, peppers, and eggplant are close relatives in the nightshade family ([[
 | Determinate | Short | Heavy yield for shorter time | Containers, small gardens |
 | Indeterminate | Long, lanky | Produces until frost | Main crop, trellising |
 
-**The root zone principle**: The more root room a tomato has, the more [[cotter-growing-space-design-fruiting-rooms]] you should give it. Tomatoes don't only match their compact above-ground growth — they need much more underground space than their visible size suggests.
+**The root zone principle**: The more root room a tomato has, the more [[cotter-growing-space-design-fruiting-rooms]] you should give it. Tomatoes don"t only match their compact above-ground growth — they need much more underground space than their visible size suggests.
 
 ### Pruning Indeterminates
 

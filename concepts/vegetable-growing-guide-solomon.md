@@ -23,7 +23,7 @@ The most common error with small seeds is sowing too deep. The emerging shoot ex
 ## Progressive Thinning Method
 
 For row crops sown in drills:
-1. Immediately after emergence, thin clusters so survivors don't quite touch
+1. Immediately after emergence, thin clusters so survivors don"t quite touch
 2. When seedlings lean away from each other (competing for light), thin again
 3. A week later, when bumping again, remove every other plant
 4. When survivors touch at final spacing, remove every other one

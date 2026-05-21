@@ -1,5 +1,5 @@
 ---
-title: "Wasson's mckenna-wasson-amanita-theory-and-objections-to-fly-agaric and Objections"
+title: "Wasson"s mckenna-wasson-amanita-theory-and-objections-to-fly-agaric and Objections"
 created: 2026-04-28
 tags:
   - mckenna

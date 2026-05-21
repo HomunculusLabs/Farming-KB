@@ -1,5 +1,5 @@
 ---
-title: "Lion's Mane vs Maitake"
+title: "Lion"s Mane vs Maitake"
 tags: [comparison, lions-mane, maitake, medicinal-mushrooms, cultivation]
 date: 2026-05-11
 updated: 2026-05-11

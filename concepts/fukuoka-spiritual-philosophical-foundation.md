@@ -1,5 +1,5 @@
 ---
-title: Fukuoka's Spiritual and Philosophical Foundation
+title: Fukuoka"s Spiritual and Philosophical Foundation
 created: 2026-04-20
 updated: 2026-04-20
 type: concept
@@ -8,7 +8,7 @@ sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
-## Fukuoka's Spiritual and Philosophical Foundation
+## Fukuoka"s Spiritual and Philosophical Foundation
 
 **Updated:** 2026-04-18
 
@@ -18,7 +18,7 @@ sources:
 
 Fukuoka's transformation began when he was 25 years old, working as a plant pathologist at the Yokohama Customs Bureau. One night, while grappling with questions about the meaning of life and humanity:
 
-"The truth came to me in a flash. I saw all of a sudden that nature is an astounding thing that cannot be named. In that instant, I understood the principle of 'nothingness,' of Mu."
+"The truth came to me in a flash. I saw all of a sudden that nature is an astounding thing that cannot be named. In that instant, I understood the principle of "nothingness,' of Mu."
 
 This experience fundamentally changed his relationship with knowledge, nature, and human action. He became convinced that:
 - Human knowledge is fundamentally limited and often misguided
@@ -28,13 +28,13 @@ This experience fundamentally changed his relationship with knowledge, nature, a
 
 ## The Principle of Mu (Nothingness)
 
-Fukuoka's philosophy centers on the concept of Mu -- emptiness, nothingness, or the void:
+Fukuoka"s philosophy centers on the concept of Mu -- emptiness, nothingness, or the void:
 
 - Nature is an "absolute void" -- it cannot be grasped by human concepts
 - All human categories, classifications, and distinctions are artificial impositions on an indivisible reality
 - When we try to "understand" nature through science, we fragment and distort it
 - True understanding comes from letting go of [[fukuoka-textdoc-crops-grow-own-accord-independence-fertilizer]] by themselves; farmers do not "grow" crops
-- The farmer's role is to remove obstacles to nature's own processes, not to direct them
+- The farmer"s role is to remove obstacles to nature's own processes, not to direct them
 - The ideal farming practice is "no practice at all"
 
 ## Critique of the Scientific Method

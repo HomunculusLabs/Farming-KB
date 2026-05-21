@@ -9,7 +9,7 @@ tags: [person, psychologist, psychoanalyst, jungian, tibetan-book-of-the-dead, p
 
 ## Description
 
-Carl Gustav Jung (1875–1961) was a Swiss psychiatrist and psychoanalyst who founded analytical psychology. In the context of [[maps-multidisciplinary-association-for-psychedelic-studies]], Jung is significant for his psychological commentary on the Evans-Wentz translation of *The [[psychedelic-experience-tibetan-book-of-the-dead]] the Dead* (1927), which directly influenced Leary, Metzner, and Alpert's *The [[leary-psychedelic-experience-bardo-mapping]]* (1964). Jung's framework of archetypes, the collective unconscious, and the process of individuation provides a psychological lens through which psychedelic experiences can be understood — particularly the visionary content of the [[chonyid-bardo]] phase. Leary explicitly reviewed Jung's commentary alongside those of Evans-Wentz and [[lama-govinda]].
+Carl Gustav Jung (1875–1961) was a Swiss psychiatrist and psychoanalyst who founded analytical psychology. In the context of [[maps-multidisciplinary-association-for-psychedelic-studies]], Jung is significant for his psychological commentary on the Evans-Wentz translation of *The [[psychedelic-experience-tibetan-book-of-the-dead]] the Dead* (1927), which directly influenced Leary, Metzner, and Alpert"s *The [[leary-psychedelic-experience-bardo-mapping]]* (1964). Jung's framework of archetypes, the collective unconscious, and the process of individuation provides a psychological lens through which psychedelic experiences can be understood — particularly the visionary content of the [[chonyid-bardo]] phase. Leary explicitly reviewed Jung's commentary alongside those of Evans-Wentz and [[lama-govinda]].
 
 ## Classification
 
@@ -22,7 +22,7 @@ Carl Gustav Jung (1875–1961) was a Swiss psychiatrist and psychoanalyst who fo
 
 - Jung wrote the "Psychological Commentary" for the Evans-Wentz edition of *The Tibetan Book of the Dead*, providing a Western psychological interpretation of the [[psychedelic-experience-tibetan-bardo-framework]] experiences.
 - His concept of archetypes — universal, inherited patterns of thought and imagery that reside in the collective unconscious — maps closely onto the Tibetan concept of "karmic apparitions" (visions encountered in the Chonyid Bardo).
-- Leary's manual notes that Western experimental psychology was "so narrow as to be mostly trivial" and that consciousness had been "eliminated from the field of inquiry," contrasting this with Eastern psychological traditions and Jung's broader approach.
+- Leary"s manual notes that Western experimental psychology was "so narrow as to be mostly trivial" and that consciousness had been "eliminated from the field of inquiry," contrasting this with Eastern psychological traditions and Jung"s broader approach.
 - Jung's process of individuation — the integration of conscious and unconscious elements of the psyche — parallels the bardo journey's goal of achieving liberation through confronting and integrating the contents of consciousness.
 - The concept of the "shadow" (repressed or denied aspects of the self) is frequently encountered during psychedelic experiences as frightening or challenging visionary content.
 

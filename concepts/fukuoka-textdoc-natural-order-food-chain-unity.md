@@ -16,7 +16,7 @@ created: 2026-05-07
 
 ## Overview
 
-In "The Natural Way of Farming," [[query-can-fungi-break-down-plastic-pollution]] the weasel's carcass, providing
+In "The Natural Way of Farming," [[query-can-fungi-break-down-plastic-pollution]] the weasel"s carcass, providing
 nutrients for plants.
 
 ## Microbial Food Webs

@@ -10,7 +10,7 @@ Pattern understanding is a core [[comparison-nutrient-cycling-vs-nutrient-dense-
 
 ### From Christopher Alexander to Permaculture
 
-The concept of a "pattern language" originates in Christopher Alexander's architectural theory, particularly his influential 1977 work *A Pattern Language: Towns, Buildings, Construction*. Alexander observed that the most livable buildings and towns share recurring spatial and relational patterns.
+The concept of a "pattern language" originates in Christopher Alexander"s architectural theory, particularly his influential 1977 work *A Pattern Language: Towns, Buildings, Construction*. Alexander observed that the most livable buildings and towns share recurring spatial and relational patterns.
 
 A window seat positioned to catch morning light, a sheltered transition zone between street and interior, rooms illuminated from two sides — each of these represents a pattern that resolves a specific design tension while supporting human wellbeing.
 

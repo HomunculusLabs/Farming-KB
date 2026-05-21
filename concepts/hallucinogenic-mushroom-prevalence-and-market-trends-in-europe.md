@@ -6,7 +6,7 @@ type: concept
 
 ## Hallucinogenic Mushroom Prevalence and Market Trends in Europe
 
-This concept examines the EMCDDA's 2006 case study on [[emcdda-eu-legislative-timeline-hallucinogenic-mushrooms-2001-2006]] as an emerging drug trend in [[legal-responses-to-hallucinogenic-mushrooms-in-the-european-union]], covering prevalence data, market dynamics, and the regulatory context.
+This concept examines the EMCDDA"s 2006 case study on [[emcdda-eu-legislative-timeline-hallucinogenic-mushrooms-2001-2006]] as an emerging drug trend in [[legal-responses-to-hallucinogenic-mushrooms-in-the-european-union]], covering prevalence data, market dynamics, and the regulatory context.
 
 ## Historical Context
 
@@ -14,11 +14,11 @@ This concept examines the EMCDDA's 2006 case study on [[emcdda-eu-legislative-ti
 "Until recently in Europe, [[lsd]] was the substance that dominated the field of hallucinogenic drug use." Information about mushroom use first appeared in a 1957 Life magazine article by Gordon Wasson.
 
 ### The Netherlands as Catalyst
-"The emergence of hallucinogenic mushrooms as a potentially widespread drug trend laid relatively dormant in Europe until the late 1990s when they began to be marketed alongside other 'natural' products by [[smartshops]] in the Netherlands."
+"The emergence of hallucinogenic mushrooms as a potentially widespread drug trend laid relatively dormant in Europe until the late 1990s when they began to be marketed alongside other "natural' products by [[smartshops]] in the Netherlands."
 
 ### Driving Factors
 Interest in natural hallucinogens is related to:
-- **'Return to nature' trend** among drug users
+- **"Return to nature' trend** among drug users
 - **Rapid expansion of internet sales and information**
 - **UK shop expansion** during early 2000s
 
@@ -76,7 +76,7 @@ Hallucinogenic mushroom prevalence is "generally much lower than for cannabis, w
 The internet has facilitated marketing and distribution of hallucinogenic mushrooms, enabling access regardless of local legal status.
 
 ### Market Creation
-"These developments created a market for users and potential users of hallucinogenic mushrooms. This market sparked drug experts' and public interest in hallucinogenic mushrooms as an emerging drug trend."
+"These developments created a market for users and potential users of hallucinogenic mushrooms. This market sparked drug experts" and public interest in hallucinogenic mushrooms as an emerging drug trend."
 
 ## Regulatory Timeline
 

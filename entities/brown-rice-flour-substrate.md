@@ -46,7 +46,7 @@ Note: When using the maximum fruiting formula with finer vermiculite, the jar li
 - Brown rice powder is placed on top of the measured vermiculite in a mixing bowl.
 - Water is added slowly and directly onto the brown rice powder first, wetting it before mixing.
 - Ingredients are mixed thoroughly until the mixture feels damp and cohesive.
-- Each jar's substrate should be mixed individually to ensure accurate formula rendering.
+- Each jar"s substrate should be mixed individually to ensure accurate formula rendering.
 - Measuring cups must be verified: 1 cup = 237 ml = 1/2 pint = 8 liquid ounces.
 
 ## Relevance to Cultivation

@@ -50,7 +50,7 @@ Tourism income creates dramatic local economic inequality.
 
 One shaman in Yarina earns "a couple hundred dollars per month catering to tourists" -- a substantial income in a context where "his neighbors cannot even afford a thirty cent taxi ride."
 
-This income disparity illustrates how tourism injects disproportionate wealth into individual practitioners' hands without necessarily benefiting the broader community.
+This income disparity illustrates how tourism injects disproportionate wealth into individual practitioners" hands without necessarily benefiting the broader community.
 
 The fifteen-fold pricing differential between foreign and local participants shows how foreign demand inflates prices beyond what local economies would naturally support.
 

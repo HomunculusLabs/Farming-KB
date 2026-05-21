@@ -23,7 +23,7 @@ During his 1986 American tour, Fukuoka visited the Agriculture Department at the
 
 The UC Davis Agriculture Department had a reputation as a research station for agribusiness. But things were changing: students were pulling faculty toward organic and more sustainable methods. The students managed a farm using organic and natural techniques, growing heirloom crops alongside medicinal and [[query-what-is-the-difference-between-organic-regenerative-and-biodynamic-agriculture]] and natural farming.
 
-## The Students' Questions
+## The Students" Questions
 
 An Ethiopian student leader asked the first question, and then Fukuoka was showered with others:
 

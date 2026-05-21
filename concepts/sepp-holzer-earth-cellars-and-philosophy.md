@@ -10,7 +10,7 @@ sources:
 
 Updated: 2026-04-18
 
-Source: [[sepp-holzer]], *Sepp Holzer's Permaculture* (2010)
+Source: [[sepp-holzer]], *Sepp Holzer"s Permaculture* (2010)
 
 ## Earth Cellars and Shelters
 

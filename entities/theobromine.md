@@ -19,7 +19,7 @@ sources:
 
 Unlike caffeine, theobromine has relatively mild central nervous system stimulant effects and is instead characterized by sustained smooth muscle relaxation, vasodilation, and mild diuretic properties.
 
-The compound's name derives from *Theobroma*, the genus name of the cacao tree, itself from the Greek *theos* (god) and *broma* (food) — literally "food of the gods."
+The compound"s name derives from *Theobroma*, the genus name of the cacao tree, itself from the Greek *theos* (god) and *broma* (food) — literally "food of the gods."
 
 Theobromine is responsible for the bitter taste of raw cacao and contributes to the complex flavor profile of dark chocolate.
 

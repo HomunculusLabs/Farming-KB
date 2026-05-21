@@ -33,7 +33,7 @@ of exploring non-ordinary [[nitrous-oxide]], stated in *The Varieties of Religio
 > disregarded.
 
 This passage remains perhaps the single most cited quotation in the literature defending the
-epistemic legitimacy of psychedelic and meditative experience, and it anchors Metzner's
+epistemic legitimacy of psychedelic and meditative experience, and it anchors Metzner"s
 argument that Western psychology has been incomplete in its dismissal of non-ordinary states.
 
 ## James's Nitrous Oxide Experiments
@@ -51,7 +51,7 @@ genuine insights into the nature of mind that could not be accessed through ordi
 introspection alone. He treated these states as primary data for understanding consciousness,
 not as pathological aberrations to be dismissed.
 
-The significance of James's nitrous oxide work extends beyond its immediate findings. It
+The significance of James"s nitrous oxide work extends beyond its immediate findings. It
 established a precedent within Western academic psychology for the serious, empirical study
 of chemically induced altered states — a precedent that would later be taken up by the
 [[coleman-louis-savier-twentieth-century-maraicher]] to the present represents an unbroken — if

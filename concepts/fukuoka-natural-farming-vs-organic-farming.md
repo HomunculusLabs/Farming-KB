@@ -14,7 +14,7 @@ tags: [fukuoka, natural-farming]
 
 Masanobu Fukuoka drew a sharp and fundamental distinction between his [[comparison-vermicomposting-vs-composting-organic-garden]] materials and applying them as prepared fertilizer. Natural farming addresses it by returning all straw to the field and maintaining a [[fukuoka-straw-mulch-philosophy]], and occasional water management. This creates what Fukuoka called "a farm that does not require energy inputs" -- a system that is not merely sustainable but truly self-sustaining.
 
-Fukuoka also questioned the knowledge requirements. Organic farming demands that the farmer learn composting recipes, organic spray formulations, and complex crop rotation schedules. Natural farming, by contrast, seeks to reduce the farmer's knowledge requirements to near zero. "No farming method that is dependent on knowledge of techniques can be called natural," he wrote. The [[fukuoka-illusions-scientific-farming-centrifugal-centripetal-model]], "may excel in a restricted sense but are invariably inferior in all other ways."
+Fukuoka also questioned the knowledge requirements. Organic farming demands that the farmer learn composting recipes, organic spray formulations, and complex crop rotation schedules. Natural farming, by contrast, seeks to reduce the farmer"s knowledge requirements to near zero. "No farming method that is dependent on knowledge of techniques can be called natural," he wrote. The [[fukuoka-illusions-scientific-farming-centrifugal-centripetal-model]], "may excel in a restricted sense but are invariably inferior in all other ways."
 
 ## The Economic Trap
 

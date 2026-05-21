@@ -3,7 +3,7 @@ title: Psilocybin Mushrooms
 aliases: [magic mushrooms, psilocybin, psychedelic mushrooms, teonanacatl]
 tags: [mycology, psychedelics, ethnobotany, pharmacology, consciousness]
 created: 2026-05-10
-source: Terence McKenna - Food of the Gods; Nicholas P. Money - Mr. Bloomfield's Orchard
+source: Terence McKenna - Food of the Gods; Nicholas P. Money - Mr. Bloomfield"s Orchard
 ---
 
 ## Psilocybin Mushrooms
@@ -44,7 +44,7 @@ Western culture and triggered both scientific interest and popular
 enthusiasm. In 1958, Albert Hofmann isolated and identified psilocybin and
 psilocin from Psilocybe mexicana specimens collected by Wasson.
 
-## McKenna's Role and Amazonian Context
+## McKenna"s Role and Amazonian Context
 
 Terence McKenna played a significant role in popularizing psilocybin
 mushrooms through his writings, lectures, and ethnobotanical explorations.

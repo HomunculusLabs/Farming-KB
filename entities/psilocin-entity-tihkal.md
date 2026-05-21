@@ -14,7 +14,7 @@ TIHKAL entry #18. The classic psychedelic tryptamines found in "magic mushrooms"
 
 - Psilocin: Tryptamine, 4-hydroxy-N,N-dimethyl (4-HO-DMT)
 - Psilocybin: Tryptamine, N,N-dimethyl-4-phosphoryloxy (the phosphate ester)
-- Shulgin's shorthand: PSOH (psilocin, for the exposed OH) and PSOP (psilocybin, for the phosphate)
+- Shulgin"s shorthand: PSOH (psilocin, for the exposed OH) and PSOP (psilocybin, for the phosphate)
 
 ## Dosage
 
@@ -32,10 +32,10 @@ TIHKAL entry #18. The classic psychedelic tryptamines found in "magic mushrooms"
 
 ### Pure Chemical Experiences
 
-- **6.6 mg phosphate ester, orally**: "Something has started but I decide to join in a full dinner anyway. The effects develop right through the meal, with some hints of animal faces in the pork-chop bones. No movement, nothing flows, but it probably wouldn't take much effort. I would be completely unable to tell this from 80 milligrams of MDMA except that I had a good appetite."
+- **6.6 mg phosphate ester, orally**: "Something has started but I decide to join in a full dinner anyway. The effects develop right through the meal, with some hints of animal faces in the pork-chop bones. No movement, nothing flows, but it probably wouldn"t take much effort. I would be completely unable to tell this from 80 milligrams of MDMA except that I had a good appetite."
 - **7 mg, orally**: "Basically I am not in a pleasant place — quite neurotic — inwardly turned — a touch of despair — considerable visual activity and if I were with someone I might find some sort of reinforcement. The apathy and unpleasantness is ebbing now. My mood might have been negative, and the psilocybin simply amplified everything."
 - **10 mg, orally**: "Approximately forty minutes after the start, there was a flutter and a very high, stimulated feeling, and gradually things began to move very rapidly. It was astounding. When I closed my eyes I saw so many fantastically beautiful patterns, textures, colors. Everywhere I looked, the colors were brilliant. The house looked absolutely gorgeous and nature was simply spectacular. It was a little frightening, almost too exciting."
-- **15 mg, orally**: "My 'early warning system' alerted me at fifteen minutes, then all was quiet for a while. Visual distortions. Things distract me. The furniture in my office is moving up and down. I lie down, and close my eyes. THIS is where it is at. Visuals are wild. Even with eyes open, with no visual target, there are imaginative visual effects. This is a night-time drug — the day-light washes everything out."
+- **15 mg, orally**: "My "early warning system' alerted me at fifteen minutes, then all was quiet for a while. Visual distortions. Things distract me. The furniture in my office is moving up and down. I lie down, and close my eyes. THIS is where it is at. Visuals are wild. Even with eyes open, with no visual target, there are imaginative visual effects. This is a night-time drug — the day-light washes everything out."
 - **15 mg, orally**: "Indian motif. Abundant fruits, vegetables, leaves, straw, wood, vines. Very responsive sexually. Beautiful, stern, rich encounter with livingness and Indian Gods and serenity. Color and peacefulness. This is one of the true ones, this plant experience."
 - **12 mg phosphate ester, intramuscularly**: "This is strong. There were a lot of wild images in about two hours, and I thought that the day would never end. At about six hours I knew it would."
 - **3 mg phosphate ester, intravenously**: "The effects are immediate (in 30 seconds) and I did not have the time to build up any worry — it was simply too fast. In about an hour I was back where I started from."

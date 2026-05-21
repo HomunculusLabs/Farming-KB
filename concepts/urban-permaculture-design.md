@@ -56,7 +56,7 @@ Applying permaculture principles in small spaces: balconies, rooftops, vacant lo
 
 **Sun exposure**: Intense rooftop sun requires more frequent watering. Shade cloth (30-50%) prevents leaf burn in summer. White or reflective containers reduce root heat.
 
-**Water management**: Rooftop rainwater harvesting captures water where it's used. Drip irrigation on timers is essential during hot months. Mulch heavily to retain moisture.
+**Water management**: Rooftop rainwater harvesting captures water where it"s used. Drip irrigation on timers is essential during hot months. Mulch heavily to retain moisture.
 
 **Green roof integration**: Living roofs insulate buildings, reduce stormwater runoff, and provide growing space. Extensive systems (sedums, grasses) need minimal soil depth; intensive systems support vegetables and herbs.
 
@@ -92,7 +92,7 @@ Applying permaculture principles in small spaces: balconies, rooftops, vacant lo
 
 Guerilla gardening transforms neglected urban spaces into productive landscapes. From Mollison's Permaculture Two: "The greatest change we need to make is from consumption to production."
 
-**Seed bombs**: Clay + compost + seeds formed into balls. Throw into vacant lots, road margins, and neglected areas. See [[natural-farming-seed-balls]] for Fukuoka's technique. Use native species and hardy edibles (radishes, beans, calendula, sunflowers).
+**Seed bombs**: Clay + compost + seeds formed into balls. Throw into vacant lots, road margins, and neglected areas. See [[natural-farming-seed-balls]] for Fukuoka"s technique. Use native species and hardy edibles (radishes, beans, calendula, sunflowers).
 
 **Sheet mulching in public spaces**: Lay cardboard over weeds/grass, cover with compost and mulch. Plant through holes in cardboard. Low-profile technique for creating instant garden beds.
 
@@ -134,9 +134,9 @@ Guerilla gardening transforms neglected urban spaces into productive landscapes.
 
 ## Salvage and Scavenging for Urban Gardens
 
-From Brad Lancaster's "Need a Home? Dive a Dumpster!" (Permaculture Drylands Journal):
+From Brad Lancaster"s "Need a Home? Dive a Dumpster!" (Permaculture Drylands Journal):
 
-Building an urban permaculture site largely from salvaged materials is both practical and aligned with permaculture's waste=resource ethic. Key strategies:
+Building an urban permaculture site largely from salvaged materials is both practical and aligned with permaculture"s waste=resource ethic. Key strategies:
 
 **Salvage yards and trading**: Chain link fencing traded for used 2x4s. Election signs repurposed as roofing. Plywood from old carports becomes workbenches and ramadas. Almost everything needed can be found discarded.
 

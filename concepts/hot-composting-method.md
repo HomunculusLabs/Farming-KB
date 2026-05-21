@@ -9,7 +9,7 @@ sources: []
 
 # Hot Composting Method
 
-> Note: This page is compiled from general knowledge, not sourced from a specific file in the wiki's raw/ directory.
+> Note: This page is compiled from general knowledge, not sourced from a specific file in the wiki"s raw/ directory.
 
 Hot composting (thermophilic composting) is a managed decomposition process that uses aerobic microorganisms to rapidly break down organic materials at elevated temperatures. When done correctly, a hot compost pile reaches internal temperatures of 130-160F (55-71C), significantly speeding decomposition compared to cold composting while destroying weed seeds, pathogens, and disease organisms.
 

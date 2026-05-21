@@ -50,7 +50,7 @@ Beliefs and values that developed with a rising energy base are likely to be dys
 - A shift to more spiritually based values may be essential for survival
 - The more we understand through systems thinking and ecology, the more we see wisdom in spiritual perspectives
 - Jungian psychology shows the same convergence
-- [[rudolf-steiner]]'s spiritual science has borne practical fruits in Waldorf education and biodynamics
+- [[rudolf-steiner]]"s spiritual science has borne practical fruits in Waldorf education and biodynamics
 
 ### Holmgren's Personal Position
 

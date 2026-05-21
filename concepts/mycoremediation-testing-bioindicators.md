@@ -28,7 +28,7 @@ Cell counting is critical for tracking bacterial growth rates and calculating th
 
 4. **Calculation**: Count colonies on the selected plates, calculate the average across the three replicate plates for each dilution, and multiply by the inverse of the dilution to determine the number of bacterial cells in the original culture volume.
 
-**[[easygel-coliform-detection]] kits** offer a convenient alternative that doesn't require autoclaving and can be performed anywhere. The coliforms are stained in different colors depending on type and are easily counted without microscopes.
+**[[easygel-coliform-detection]] kits** offer a convenient alternative that doesn"t require autoclaving and can be performed anywhere. The coliforms are stained in different colors depending on type and are easily counted without microscopes.
 
 ### Sampling Intervals
 

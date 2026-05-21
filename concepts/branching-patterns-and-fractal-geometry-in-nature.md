@@ -12,7 +12,7 @@ Branching is one of the most pervasive patterns in natural systems, observable i
 
 - **"Many paths"** are needed in [[desert-home-gardens]] where nutrient trading is the main activity
 - There is little advantage in straight-line paths (speed is not the essence); rather, **cul-de-sacs** or **keyhole-shaped beds** are preferred
-- [[comparison-herb-spiral-vs-keyhole-beds]] mirror the shape of alveoli in lungs—nature's optimized exchange surfaces
+- [[comparison-herb-spiral-vs-keyhole-beds]] mirror the shape of alveoli in lungs—nature"s optimized exchange surfaces
 - Convoluted paths bring the gardener into better contact with the garden, enabling collection and servicing while creating better mutual exchange between species
 
 ### The Area Ratio Principle

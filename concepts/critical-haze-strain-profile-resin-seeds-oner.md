@@ -9,7 +9,7 @@ topics: [cannabis, strain-profile, sativa, amnesia-haze, critical-mass, spanish-
 
 ## Overview
 
-Critical Haze is a sativa-dominant hybrid bred by Spain's Resin Seeds of Barcelona. It represents a deliberate effort to combine the soaring cerebral effects of Haze genetics with the heavy yields that indica-dominant Critical Mass provides. The result is what Resin Seeds describes as "a near-perfect marriage of sativa highs and indica yields." Critical Haze exemplifies the modern European breeding approach of selecting sativa-dominant plants that yield like indicas while retaining the psychoactive complexity that sativa enthusiasts demand.
+Critical Haze is a sativa-dominant hybrid bred by Spain"s Resin Seeds of Barcelona. It represents a deliberate effort to combine the soaring cerebral effects of Haze genetics with the heavy yields that indica-dominant Critical Mass provides. The result is what Resin Seeds describes as "a near-perfect marriage of sativa highs and indica yields." Critical Haze exemplifies the modern European breeding approach of selecting sativa-dominant plants that yield like indicas while retaining the psychoactive complexity that sativa enthusiasts demand.
 
 ## Lineage and Genetics
 

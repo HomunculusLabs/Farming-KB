@@ -21,7 +21,7 @@ Dick Roberts in Nelson, New Zealand uses gorse as "rough mulch" to protect fruit
 
 ## Tagasaste as a Multi-Purpose Nurse Crop
 
-Tagasaste (Chamaecytisus proliferus) is one of the most valuable multi-purpose plants for cool temperate systems. At Jim and Miriam Tyler's farm in Taheke, New Zealand, an avocado thrives in a hard frost area when planted within a clump of tagasaste. Kikuyu grass is slashed to provide additional mulch, and the tagasaste yields up to 7 meters of mulch trimmings per annum.
+Tagasaste (Chamaecytisus proliferus) is one of the most valuable multi-purpose plants for cool temperate systems. At Jim and Miriam Tyler"s farm in Taheke, New Zealand, an avocado thrives in a hard frost area when planted within a clump of tagasaste. Kikuyu grass is slashed to provide additional mulch, and the tagasaste yields up to 7 meters of mulch trimmings per annum.
 
 In DSIR trials by Doug Davies on the Banks Peninsula, tagasaste planted at 1 meter in-row spacing with 2 meters between rows provides summer forage from coppice and short-period browsing by sheep. Grasses thrive between the rows, creating a productive integrated system. On the Canterbury Plain, Matthew Carpenter drills tagasaste with turnip for future sheep forage — seedling trees establish through the brassica crop, which provides both nurse protection and an immediate harvest.
 
@@ -43,7 +43,7 @@ At Perth, Tasmania, willows are pollarded for propagation cuttings at a nursery.
 
 ### Rabbit and Chicken Tractors
 
-At Michael Mangevelakis's farm in Forest, Tasmania, a rabbit cage tractor cleans clover and grasses from mounded strawberry crops. Rabbits serve as part of the yield of the weed management system and provide manure for the strawberries. At Lake Chelan, Okanogan, USA, Michael Pilarski (Friends of the Trees Coordinator) uses chicken tractors to manage grasses around small fruit crops — chickens weed small fruits over the autumn period and provide manure.
+At Michael Mangevelakis"s farm in Forest, Tasmania, a rabbit cage tractor cleans clover and grasses from mounded strawberry crops. Rabbits serve as part of the yield of the weed management system and provide manure for the strawberries. At Lake Chelan, Okanogan, USA, Michael Pilarski (Friends of the Trees Coordinator) uses chicken tractors to manage grasses around small fruit crops — chickens weed small fruits over the autumn period and provide manure.
 
 ### Multi-Function Hedges
 

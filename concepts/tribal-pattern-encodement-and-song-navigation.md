@@ -14,7 +14,7 @@ Indigenous and tribal peoples worldwide have developed sophisticated systems for
 
 Many seafaring and land-based cultures used song as a precise navigational tool. The Nootka Indians of British Columbia maintained specific songs for voyages to different destinations—China, Japan, the big island, the smaller one. The navigator needed only to know the song to know their position and course.
 
-The steerswomen on canoe voyages between California and the Aleutians used the rhythmic duration of song stanzas as accurate timing mechanisms. By measuring current speed between headlands and boat speed against a floating object, the song's rhythm provided a reproducible, precise chronometer. Song stanzas function as highly accurate timers that remain reproducible at any time, over extended periods.
+The steerswomen on canoe voyages between California and the Aleutians used the rhythmic duration of song stanzas as accurate timing mechanisms. By measuring current speed between headlands and boat speed against a floating object, the song"s rhythm provided a reproducible, precise chronometer. Song stanzas function as highly accurate timers that remain reproducible at any time, over extended periods.
 
 ## Interspecies Communication Through Pattern
 

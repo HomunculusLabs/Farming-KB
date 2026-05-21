@@ -21,7 +21,7 @@ assays.
 
 ## Chemical Structure and Classification
 
-DOB's IUPAC name is 1-(4-bromo-2,5-dimethoxyphenyl)propan-2-amine. It
+DOB"s IUPAC name is 1-(4-bromo-2,5-dimethoxyphenyl)propan-2-amine. It
 belongs to the DO family of substituted amphetamines, with methoxy groups at
 positions 2 and 5 and a bromine atom at position 4. The bromine is directly
 responsible for its exceptional potency.

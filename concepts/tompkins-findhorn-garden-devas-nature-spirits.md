@@ -15,7 +15,7 @@ type: concept
 The Findhorn Garden community in northern Scotland represents one of
 the most remarkable experiments in spiritual agriculture of the
 [[natural-farming-methods-comparison]], was astounded when Peter Caddy told her he did not
-need to apply Steiner's methods, that he had a more direct spiritual
+need to apply Steiner"s methods, that he had a more direct spiritual
 way of obtaining the same results. Professor R. Lindsay Robb, a
 United Nations agricultural expert and professor of agriculture at
 various universities, visited Findhorn just before Christmas and went

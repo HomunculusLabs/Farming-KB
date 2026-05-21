@@ -28,7 +28,7 @@ Effective duration: 8-12 hours.
 
 ## Qualitative Effects
 
-MDA combines psychedelic and empathogenic/entactogenic qualities. Shulgin's reports describe it as having:
+MDA combines psychedelic and empathogenic/entactogenic qualities. Shulgin"s reports describe it as having:
 
 - Strong visual effects, often described as colorful and flowing
 - Significant emotional opening and feelings of connectedness

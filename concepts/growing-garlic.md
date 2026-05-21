@@ -29,7 +29,7 @@ Garlic is one of the most rewarding crops for the home gardener. Successfully gr
 
 ### Elephant Garlic
 
-- Actually not a true garlic — it's a different *Allium* species
+- Actually not a true garlic — it"s a different *Allium* species
 - Has a milder, garlicky flavor
 - Produces corms at the base of the bulbs (gladiolus bulbs also do this)
 - Corms are inevitably overlooked at harvest and resprout, making it nearly impossible to eliminate from a bed without more than a year of persistent hoeing
@@ -106,7 +106,7 @@ Rots will happen if the soil is too moist when bulbing is close to finishing. Th
 
 - Virus diseases infect garlic and carry over from year to year in the cloves
 - They cause premature yellowing of the leaves and considerably reduce yield
-- It's to your advantage to start out with disease-free seed
+- It"s to your advantage to start out with disease-free seed
 - Once infected, the only cure is to start with clean stock
 
 ## Varieties

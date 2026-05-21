@@ -39,7 +39,7 @@ Mescaline is described in PIHKAL and throughout the literature as producing a cl
 - Contemplative, introspective mental state
 - Moderate stimulant effects
 
-Shulgin's qualitative notes describe the mescaline experience as foundational — it is the reference point against which all other phenethylamines are compared. Its natural origin and long history of ceremonial use give it a unique cultural context among psychedelic compounds.
+Shulgin"s qualitative notes describe the mescaline experience as foundational — it is the reference point against which all other phenethylamines are compared. Its natural origin and long history of ceremonial use give it a unique cultural context among psychedelic compounds.
 
 ## History and Ethnobotany
 

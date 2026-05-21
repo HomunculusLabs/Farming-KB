@@ -4,7 +4,7 @@ created: 2026-04-28
 tags: [comparison, mushrooms, cultivation, beginner]
 date: 2026-04-25
 updated: 2026-04-25
-sources: ['raw/papers/working-with-agar.md']
+sources: ["raw/papers/working-with-agar.md']
 type: comparison
 ---
 

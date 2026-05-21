@@ -21,7 +21,7 @@ A related species, *Ipomoea violacea*, is also used as Ololiuqui. Known to the A
 
 ## Aztec Cultural Significance
 
-The Aztecs regarded Ololiuqui as a major sacred hallucinogen alongside Peyote and Teonanacatl. A Spanish report written shortly after the Conquest stated that the Aztecs had "an herb called coatl-xoxo uhqui [green snake], and it bears a seed called Ololiuqui." Early colonial drawings from Sahagun's Historia de las Cosas de Nueva Espana (second half of the 16th century) clearly depict the plant as a Morning Glory, with congested fruits, cordate leaves, and a twining habit.
+The Aztecs regarded Ololiuqui as a major sacred hallucinogen alongside Peyote and Teonanacatl. A Spanish report written shortly after the Conquest stated that the Aztecs had "an herb called coatl-xoxo uhqui [green snake], and it bears a seed called Ololiuqui." Early colonial drawings from Sahagun"s Historia de las Cosas de Nueva Espana (second half of the 16th century) clearly depict the plant as a Morning Glory, with congested fruits, cordate leaves, and a twining habit.
 
 The Aztec priests consumed Ololiuqui to commune with their gods. As Francisco Hernandez, physician to the King of Spain, reported in 1651: "Formerly, when the priests wanted to commune with their gods and to receive a message from them, they ate this plant to induce a delirium. A thousand visions and Satanic hallucinations appeared to them."
 
@@ -33,13 +33,13 @@ Despite centuries of colonial suppression, Ololiuqui survived. A recent report i
 
 ## Divinatory Practices
 
-Ololiuqui was consulted as an oracle to learn many things, especially those "beyond the power of the human mind to penetrate." The practice of Ololiuqui divination involved specialized practitioners. As colonial accounts described: "If a doctor who does not drink Ololiuqui wishes to free a patient of some trouble, he advises the patient himself to partake. The doctor appoints the day and hour when the drink must be taken and establishes the reason for the patient's drinking it. Finally, the one drinking Ololiuqui must seclude himself in his room. No one must enter during his divination."
+Ololiuqui was consulted as an oracle to learn many things, especially those "beyond the power of the human mind to penetrate." The practice of Ololiuqui divination involved specialized practitioners. As colonial accounts described: "If a doctor who does not drink Ololiuqui wishes to free a patient of some trouble, he advises the patient himself to partake. The doctor appoints the day and hour when the drink must be taken and establishes the reason for the patient"s drinking it. Finally, the one drinking Ololiuqui must seclude himself in his room. No one must enter during his divination."
 
 The patient "believes the Ololiuqui is revealing what he wants to know. When the delirium is passed, the doctor comes out of seclusion reciting a thousand fabrications, thus keeping the patient deceived."
 
 ## Archaeological Evidence
 
-An ancient Indian Mother Goddess mural from Teotihuacan, Mexico (circa AD 500), depicts a highly stylized vine of Ololiuqui with priestly attendants. Hallucinogenic nectar appears to flow from the blossoms of the plant, and "disembodied eyes" and birds are stylistic features associated with hallucinogenic intoxication, providing archaeological evidence of the plant's deep antiquity in Mesoamerican religion.
+An ancient Indian Mother Goddess mural from Teotihuacan, Mexico (circa AD 500), depicts a highly stylized vine of Ololiuqui with priestly attendants. Hallucinogenic nectar appears to flow from the blossoms of the plant, and "disembodied eyes" and birds are stylistic features associated with hallucinogenic intoxication, providing archaeological evidence of the plant"s deep antiquity in Mesoamerican religion.
 
 This artistic tradition continued for centuries. The Ololiuqui vine appears in [[challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification]] by Albert Hofmann in the mid-20th century revealed that the seeds contained lysergic acid alkaloids — a discovery of enormous chemotaxonomic interest, since these compounds were previously known only from ergot fungi ([[ergot-fungus]]. The main components are:
 

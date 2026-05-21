@@ -45,14 +45,14 @@ The encounter with translinguistic objects produces a characteristic
 cognitive state that McKenna describes as productive dissonance.
 "Being monkeys, when we encounter a translinguistic object, a kind
 of cognitive dissonance is set up in our hindbrain. We try to pour
-language over it and it sheds it like water off a duck's back." The
-brain's default response—categorization through language—fails,
+language over it and it sheds it like water off a duck"s back." The
+brain"s default response—categorization through language—fails,
 generating the states of wonder, astonishment, and awe that
 characterize the tryptamine experience.
 
 This "wow" or "flutter" builds as the cognitive machinery repeatedly
 attempts and fails to process the translinguistic input. The entities
-actively coach the voyager to manage this dissonance: "Don't get a
+actively coach the voyager to manage this dissonance: "Don"t get a
 loop of wonder going that quenches your ability to understand. Try
 not to be so amazed. Try to focus and look at what we're doing."
 This instruction suggests the translinguistic objects present
@@ -115,5 +115,3 @@ Collaborative research networks facilitate knowledge exchange and accelerate inn
 Context-specific implementation requires attention to local ecology, climate patterns, and community needs.
 Integration with existing systems often yields better results than complete replacement strategies.
 Monitoring and adaptive management are essential for long-term success and continuous improvement.
-## Practical Applications
-The principles discussed here have direct applications in agricultural systems, ecological restoration, and sustainable resource management.

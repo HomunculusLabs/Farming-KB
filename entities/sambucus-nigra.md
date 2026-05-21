@@ -41,7 +41,7 @@ Sambucus nigra typically grows 3–10 m tall, forming a multi-stemmed thicket wi
 
 Native to most of Europe (absent only from the far north), across North Africa, and into western and central Asia. Naturalized in [[query-how-do-i-prune-brambles-for-maximum-fruit-production]] production in full sun.
 - **Propagation:** Softwood cuttings in summer (ease of rooting is exceptional — cuttings pushed into the ground often succeed without hormone), hardwood cuttings in winter, or seed (requires cold stratification). Division of established clumps.
-- **Pruning:** Fruit is borne on the previous year's growth. Remove dead and weak canes at ground level in early spring; retain vigorous 1- and 2-year-old canes for maximum yield. A "renewal pruning" approach removing oldest third of canes annually keeps plants productive.
+- **Pruning:** Fruit is borne on the previous year"s growth. Remove dead and weak canes at ground level in early spring; retain vigorous 1- and 2-year-old canes for maximum yield. A "renewal pruning" approach removing oldest third of canes annually keeps plants productive.
 - **Yield:** Established bushes yield 5–15 kg of fruit annually.
 - **Pests/diseases:** Relatively pest-free. Elder shoot borer (Aphis fabae), elderberry leafroller, and [[comparison-companion-planting-reference-vs-jadam-monoculture-critique]]:** Elderberry leaves buried in soil or used as mulch are said to deter rodent pests. The shrub's canopy provides dappled shade for understory herbs and berry shrubs.
 - **Pioneer species:** Quick to colonize disturbed ground, elder fixes edges and creates microclimate for succession species.

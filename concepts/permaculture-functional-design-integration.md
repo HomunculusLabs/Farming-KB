@@ -10,7 +10,7 @@ Functional design in [[permaculture-design]], these same components are placed s
 
 Consider the classic example: a chicken-house that heats (and is heated by) a glasshouse, with both receiving additional warmth from a chimney. The chickens range freely through the orchard, providing manure for the fruit trees while consuming orchard wastes and pest insects. A glasshouse also contributes heat to the main house. Part of the surrounding woodlot functions as both forage and shelter-belt. Market management and investment decisions are centralized in the house alongside an information system.
 
-Each placement decision follows the principle of **least work for greatest effect**. By positioning components where they can serve multiple functions and benefit from each other's proximity, the designer creates a system that increasingly maintains itself.
+Each placement decision follows the principle of **least work for greatest effect**. By positioning components where they can serve multiple functions and benefit from each other"s proximity, the designer creates a system that increasingly maintains itself.
 
 ## Information as a Resource Versus Real Resources
 

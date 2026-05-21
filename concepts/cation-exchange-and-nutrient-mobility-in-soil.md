@@ -98,7 +98,7 @@ These nutrients tend to react chemically with soil components and become tightly
 - Excess application is wasteful and potentially polluting (nitrate groundwater contamination)
 
 ### Immobile Nutrients
-- Can be applied in **larger single doses** — they won't leach away
+- Can be applied in **larger single doses** — they won"t leach away
 - **Placement matters** — these nutrients don't move to the root zone on their own
 - Banding (placing near root zones) improves uptake efficiency
 - Phosphorus particularly benefits from **mycorrhizal associations** that extend the effective uptake zone

@@ -42,7 +42,7 @@ Mollison emphasizes *Terminalia* alongside figs as trees that provide "special r
 
 - Flanged and buttressed roots create natural channels that redirect rainfall to specific root zones
 - Water held in aerial reservoirs is released gradually, providing sustained moisture access
-- The structures increase the effective water-holding capacity of the tree's immediate environment
+- The structures increase the effective water-holding capacity of the tree"s immediate environment
 - Combined with fungal hyphae and mosses in the root zone, *Terminalia* creates a complete [[water-management]] system
 
 ## Relevance to Cultivation and Permaculture

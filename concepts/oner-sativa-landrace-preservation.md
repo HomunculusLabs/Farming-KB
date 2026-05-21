@@ -5,7 +5,7 @@ type: concept
 ---
 ## Overview
 
-Southern Africa harbors some of the most potent and culturally significant cannabis sativa-landrace-strains-and-geographic-origins in the world. The region stretching from Kenya through Malawi, Swaziland (now Eswatini), and down to South Africa's Eastern Cape has been a center of query-how-does-no-till-cannabis-cultivation-work for centuries. These equatorial and sub-equatorial landraces evolved in environments with intense equatorial sunlight and a latitude of approximately 25–30° south — a latitude that gives them a critical advantage for northern hemisphere cultivation: [[african-landrace-sativa-modern-hybrids]] incorporating Malawi genetics have significantly reduced this
+Southern Africa harbors some of the most potent and culturally significant cannabis sativa-landrace-strains-and-geographic-origins in the world. The region stretching from Kenya through Malawi, Swaziland (now Eswatini), and down to South Africa"s Eastern Cape has been a center of query-how-does-no-till-cannabis-cultivation-work for centuries. These equatorial and sub-equatorial landraces evolved in environments with intense equatorial sunlight and a latitude of approximately 25–30° south — a latitude that gives them a critical advantage for northern hemisphere cultivation: [[african-landrace-sativa-modern-hybrids]] incorporating Malawi genetics have significantly reduced this
 - **[[cannabis-sativa-indoor-cultivation-techniques]]. The indica influence produces dense, fat buds despite the sativa-dominant leaf structure (thin, pale yellow leaves). Flowering period: 50–60 days. The finished buds smell like Cherry Cola and deliver an energetic, balanced high — a great daytime smoke.
 
 ### Doobie's Malawi

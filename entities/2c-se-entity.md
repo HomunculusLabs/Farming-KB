@@ -12,7 +12,7 @@ sources:
 **[[four-hydroxyindole-psilocin-synthesis-route-shirota]]
 
 A suspension of 5.65 g 1,4-dimethoxybenzene in 100 mL petroleum ether
-containing 6.5 mL N,N,N',N'-tetramethylethylenediamine was magnetically stirred,
+containing 6.5 mL N,N,N",N'-tetramethylethylenediamine was magnetically stirred,
 placed in an inert atmosphere, and cooled to 0 degrees C. There was then added
 27 mL of 1.6 M butyllithium in hexane. After coming to room temperature, 4.8 g
 dimethyl diselenide was added, leading to an exothermic reaction with color

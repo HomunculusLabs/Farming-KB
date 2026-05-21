@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-The permaculture pattern model culminates in the recognition that the world we inhabit is not a collection of separate objects and phenomena but a **tessellation of interrelated events**—overlapping, interpenetrating patterns that form a single, self-regulating totality. This understanding, drawn from both indigenous wisdom and modern physics, provides the philosophical foundation for permaculture's ethic of earth care and its design methodology based on working with natural patterns rather than imposing artificial ones.
+The permaculture pattern model culminates in the recognition that the world we inhabit is not a collection of separate objects and phenomena but a **tessellation of interrelated events**—overlapping, interpenetrating patterns that form a single, self-regulating totality. This understanding, drawn from both indigenous wisdom and modern physics, provides the philosophical foundation for permaculture"s ethic of earth care and its design methodology based on working with natural patterns rather than imposing artificial ones.
 
 ## The Unity of Natural Patterns
 
@@ -40,7 +40,7 @@ Patterning is the way designers frame their designs—the template into which in
 
 ### David Bohm and Implicate Order
 
-The physicist David Bohm (1980) urged going beyond regarding ourselves as merely interactive with each other and the environment, toward seeing all things as **"projections of a single totality."** The word "implicate" in Bohm's work comes from the Latin *enfolded*—when we separate individuals, effects, or disciplines from this enfolded order, we must recognize that we have only part of the unknowable totality, not the truth itself.
+The physicist David Bohm (1980) urged going beyond regarding ourselves as merely interactive with each other and the environment, toward seeing all things as **"projections of a single totality."** The word "implicate" in Bohm"s work comes from the Latin *enfolded*—when we separate individuals, effects, or disciplines from this enfolded order, we must recognize that we have only part of the unknowable totality, not the truth itself.
 
 Key implications:
 - There are **no true opposites**, only phases of the same phenomenon
@@ -57,7 +57,7 @@ A Kalahari bushman would express this understanding as: *"We are the dreams of a
 
 ## Convergence of Science and Indigenous Wisdom
 
-### Lovelock's Gaia Hypothesis
+### Lovelock"s Gaia Hypothesis
 
 James Lovelock (1979) expressed the combination of scientific insights and older tribal beliefs asserting the **interdependence of animate and inanimate events**. The universe and the earth behave as self-regulating and self-generated constructs, very much akin to a single organism or a thought process. The conditions that make life possible are balanced about such fine tolerances that it seems close to certain that many processes exist specifically to preserve this equilibrium in its dynamic stability.
 

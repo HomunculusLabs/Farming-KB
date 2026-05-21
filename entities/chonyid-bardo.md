@@ -22,7 +22,7 @@ The Chonyid Bardo is the second of the three bardo phases described in the [[psy
 
 - The Chonyid Bardo is characterized by the appearance of visions, hallucinations, and intense sensory phenomena. In the Tibetan tradition, these include [[leary-peaceful-and-wrathful-visions]] deities, mandalas, and symbolic imagery representing the contents of the consciousness.
 - In the psychedelic context, this manifests as visual geometry, color intensification, synesthesia, ego-dissolution with residual self-awareness, emotional amplification, and encounters with archetypal imagery.
-- The Bardo Thodol instructs that these visions are projections of one's own mind — "Whether you experience heaven or hell, remember that it is your mind which creates them."
+- The Bardo Thodol instructs that these visions are projections of one"s own mind — "Whether you experience heaven or hell, remember that it is your mind which creates them."
 - The key instruction during Chonyid Bardo is to avoid grasping at pleasant visions or fleeing from frightening ones. Attachment or aversion to the visions leads to deeper entanglement in the bardo.
 - Leary describes this as the "aesthetic or hallucinatory" stage, noting it is the longest for most persons, while the initiated may maintain the first bardo (Chikhai) longer.
 

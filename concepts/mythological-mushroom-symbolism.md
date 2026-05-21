@@ -30,7 +30,7 @@ The [[amanita]] muscaria lifecycle provides a natural template for mythological 
 
 ### Stage 1: The Egg/Button (Infant State)
 - Small, white, round — resembles a stone or egg
-- "Born from a stone" — Mithra's birth myth
+- "Born from a stone" — Mithra"s birth myth
 - The Cosmic Egg, the Easter Egg (Easter = mushroom hunt)
 - The "Small White Stone" of Revelation 2:17
 - "Pulling the sword from the stone" — Arthurian legend (wielding power through knowledge of the mushroom)
@@ -40,7 +40,7 @@ The [[amanita]] muscaria lifecycle provides a natural template for mythological 
 - Shedding the universal veil = shedding skin
 - The serpent in the Garden of Eden — reveals secret knowledge
 - The [[feathered-serpent]] ([[quetzalcoatl]]/Kukulcan) — cosmopolitan symbol
-- After full growth and decay, leaves a hole with white spore powder — a "snake's hole" or lair
+- After full growth and decay, leaves a hole with white spore powder — a "snake"s hole" or lair
 
 ### Stage 3: Full Growth (Mushroom Form)
 - Cap and stem resemble vulva and phallus — the hermaphroditic/alchemical union
@@ -81,7 +81,7 @@ Arthur catalogs these cross-cultural names/symbols for the mushroom:
 - The Holy Grail (cup shape = upturned cap; "vessel containing blood of God")
 - The Golden Fleece
 - The Fountain of Youth (Amanita grows under Longleaf Pine in northern Florida in December — Ponce de Leon "likely kicked over" what he sought)
-- The Prima Materia / Philosopher's Stone (alchemical secret substance)
+- The Prima Materia / Philosopher"s Stone (alchemical secret substance)
 - The Hammer of Thor (mushroom-shaped; thrown to earth in lightning)
 - The [[djed-pillar]] (Egyptian, shaped like mushroom not cedar)
 - The Ankh (Egyptian symbol for waters of life)
@@ -105,7 +105,7 @@ Arthur catalogs these cross-cultural names/symbols for the mushroom:
 - Snake/Serpent (growth pattern from button, dissolution leaving holes)
 - Stone/Rock/Egg (button stage)
 - Fire (red cap, burning/dissolution)
-- Blood (red color, Amanita's red juices)
+- Blood (red color, Amanita"s red juices)
 
 ## Cross-Cultural Blood-Origin Myths
 
@@ -146,4 +146,4 @@ Similarities between Horus (Egypt), Mithra (Persia), Krishna (India), and Jesus 
 
 ## Critical Assessment
 
-Arthur's symbolic interpretations are creative and often visually compelling, but rely heavily on Allegro-style speculative philology and pareidolic pattern recognition. The same symbol (a cup, a serpent, wings) can have multiple independent origins. The lifecycle-to-mythology mapping is the strongest part of the argument — the mushroom's growth pattern genuinely does resemble many mythological narratives. However, the claim that ALL these symbols in ALL cultures refer to mushrooms is the weakest — it risks becoming an unfalsifiable "everything is mushrooms" framework. See [[mushroom-folklore-and-culture]] for additional folklore and [[siberian-shamanism-and-amanita]] for critical perspectives on ethnomycological claims.
+Arthur"s symbolic interpretations are creative and often visually compelling, but rely heavily on Allegro-style speculative philology and pareidolic pattern recognition. The same symbol (a cup, a serpent, wings) can have multiple independent origins. The lifecycle-to-mythology mapping is the strongest part of the argument — the mushroom's growth pattern genuinely does resemble many mythological narratives. However, the claim that ALL these symbols in ALL cultures refer to mushrooms is the weakest — it risks becoming an unfalsifiable "everything is mushrooms" framework. See [[mushroom-folklore-and-culture]] for additional folklore and [[siberian-shamanism-and-amanita]] for critical perspectives on ethnomycological claims.

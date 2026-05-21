@@ -32,7 +32,7 @@ type: concept
 
 ## Relationship with Marcello Malpighi
 
-Grew's work ran in parallel with that of the Italian microscopist
+Grew"s work ran in parallel with that of the Italian microscopist
 Marcello Malpighi, whose *Anatome Plantarum* appeared in 1675, seven
 years before Grew's magnum opus. The two men are often discussed together
 as the co-founders of plant anatomy, as they independently arrived at

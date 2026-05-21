@@ -14,7 +14,7 @@ The concept of entheogenic substances as the literal (rather than merely symboli
 
 ### Manna as Mushroom
 
-The word "manna" in ancient tongue translates directly as "mushroom." In the Book of Revelation, references to eating from the "tree of life" and consuming the "hidden manna" are interpreted as descriptions of consuming entheogenic mushrooms. The mushroom is identified as the fruit of the tree of life and is also referred to as a "small white stone" — the dried Amanita muscaria button resembling a white stone with a new name written within it that only the recipient knows (the personal visionary experience being uniquely one's own).
+The word "manna" in ancient tongue translates directly as "mushroom." In the Book of Revelation, references to eating from the "tree of life" and consuming the "hidden manna" are interpreted as descriptions of consuming entheogenic mushrooms. The mushroom is identified as the fruit of the tree of life and is also referred to as a "small white stone" — the dried Amanita muscaria button resembling a white stone with a new name written within it that only the recipient knows (the personal visionary experience being uniquely one"s own).
 
 ### Living Waters and the Fountain of Life
 

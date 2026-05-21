@@ -6,7 +6,7 @@ type: concept
 
 ## Plants, Drugs, Ancient Pharmacology, and Astrological Medicine
 
-## Plants as God's Offspring
+## Plants as God"s Offspring
 
 In [[allegro-dead-sea-scrolls]] contain a zodiac chart assigning physical and
 spiritual characteristics to each birth sign, dividing human constitution
@@ -17,7 +17,7 @@ instrument, not a speculative curiosity.
 
 The designations "Children of Light" and "Children of Darkness" must
 therefore be understood not as moral categories but as constitutional and
-medical ones. A person's "light" or "darkness" quotient was determined
+medical ones. A person"s "light" or "darkness" quotient was determined
 by planetary influences during gestation and birth, dictating physical
 vulnerabilities, mental tendencies, and spiritual predispositions.
 
@@ -27,7 +27,7 @@ of the spirit of Falsehood" — greed, wickedness, lies, haughtiness,
 pride — are not abstract moral failings but the faults of intemperance
 and arrogance, excesses of a constitution tilted toward the "darkness"
 portions. As Allegro concludes: "Medicine was as much a part of righting
-this imbalance of 'moral' character as religion; the two were, in fact,
+this imbalance of "moral' character as religion; the two were, in fact,
 inseparable." To heal the body was to restore spiritual equilibrium; the
 physician and the priest were functionally identical.
 

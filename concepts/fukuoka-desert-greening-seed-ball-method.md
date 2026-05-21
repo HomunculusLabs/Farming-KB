@@ -1,5 +1,5 @@
 ---
-title: "Fukuoka's Desert Greening and Seed Ball Method"
+title: "Fukuoka"s Desert Greening and Seed Ball Method"
 source: masanobu-fukuoka-the-road-back-to-nature.md
 topics: [desert-greening, seed-balls, reforestation, fukuoka, africa]
 ---

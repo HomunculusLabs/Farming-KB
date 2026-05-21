@@ -60,7 +60,7 @@ type: concept
 - **Witotos (Colombia)** eat the same powerful resin to "talk with the
   little people" ([[metzner-spirit-beings-multiple-realities-entheogens]])
 - **Peruvian medicine men** drink *cimora* to become "owners of
-  another's identity" — used for healing, divination, and influence
+  another"s identity" — used for healing, divination, and influence
 
 ## Use in the Modern Western World
 

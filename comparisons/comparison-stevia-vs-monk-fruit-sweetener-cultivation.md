@@ -37,7 +37,7 @@ Stevia is a relatively compact bushy plant in the daisy family, while monk fruit
 
 ## Native Origin and Distribution
 
-**Stevia** is native to the highland regions of Paraguay and Brazil, where the Guarani people have used the leaves as a sweetener ("ka'a he'ẽ") for centuries. It grows wild in semi-arid, subtropical highlands at elevations of 200–500 m.
+**Stevia** is native to the highland regions of Paraguay and Brazil, where the Guarani people have used the leaves as a sweetener ("ka"a he'ẽ") for centuries. It grows wild in semi-arid, subtropical highlands at elevations of 200–500 m.
 
 **Monk fruit** (*luo han guo*) is endemic to the steep mountain slopes of southern China, specifically Guangxi Province and parts of Guangdong and Guizhou. Monks have cultivated it for medicinal use since the 13th century. Commercial production remains concentrated in Guangxi's Yongfu and Lingui counties, which provide the specific microclimate the plant requires.
 

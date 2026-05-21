@@ -73,7 +73,7 @@ The 5-HT2A receptor pharmacology of psilocybin has direct implications for sever
 
 ### Treatment-Resistant Depression
 
-Psilocybin's ability to reduce DMN connectivity and promote cortical plasticity via 5-HT2A activation is hypothesized to "reset" rigid, maladaptive thought patterns characteristic of depression. Clinical trials at Imperial College London and Johns Hopkins have demonstrated rapid and sustained antidepressant effects with 1–2 sessions, effects that correlate with 5-HT2A-mediated changes in brain network flexibility.
+Psilocybin"s ability to reduce DMN connectivity and promote cortical plasticity via 5-HT2A activation is hypothesized to "reset" rigid, maladaptive thought patterns characteristic of depression. Clinical trials at Imperial College London and Johns Hopkins have demonstrated rapid and sustained antidepressant effects with 1–2 sessions, effects that correlate with 5-HT2A-mediated changes in brain network flexibility.
 
 ### Anxiety and Existential Distress
 

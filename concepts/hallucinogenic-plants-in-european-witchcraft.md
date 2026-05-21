@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-Michael J. Harner's essay "The Role of Hallucinogenic Plants in European Witchcraft" argues that the seemingly fantastical elements of late medieval and Renaissance witchcraft—flying through the air, Sabbats with demons, transformation into animals—become logically consistent once the use of psychoactive plants of the nightshade family (Solanaceae) is taken into account. This concept page summarizes Harner's pharmacological interpretation of European witchcraft beliefs and practices.
+Michael J. Harner"s essay "The Role of Hallucinogenic Plants in European Witchcraft" argues that the seemingly fantastical elements of late medieval and Renaissance witchcraft—flying through the air, Sabbats with demons, transformation into animals—become logically consistent once the use of psychoactive plants of the nightshade family (Solanaceae) is taken into account. This concept page summarizes Harner"s pharmacological interpretation of European witchcraft beliefs and practices.
 
 ## The Scholarly Debate
 
@@ -20,7 +20,7 @@ A prevalent position among historians and scholars of religion holds that late m
 
 Modern practitioners of formal witchcraft covens do not support the fiction theory through their practices. Contemporary "witches" engage in what they believe are traditional rituals, but they do not claim to fly through the air or consort with supernatural creatures at Sabbats. Their activities tend to be "sober and highly ritualistic." Neither modern scholars nor modern practitioners have generally comprehended the importance of hallucinogenic plants in historical European witchcraft.
 
-### Harner's Counter-Argument
+### Harner"s Counter-Argument
 
 Harner contends that once the use and effects of natural hallucinogens are understood, "the major features of past beliefs and practices suddenly seem quite logical and consistent." The confessions of accused witches were not fabricated but described genuine experiences induced by psychoactive plant preparations.
 
@@ -32,7 +32,7 @@ Harner contends that once the use and effects of natural hallucinogens are under
 
 ### Key Psychoactive Species
 
-- **Datura** (genus): Called by many names—Jimson weed, devil's apple, thorn apple, mad apple, devil's weed, Gabriel's trumpet, angel's trumpet. Used widely and apparently from ancient times in shamanism, witchcraft, and vision quest in Europe, Asia, Africa, and among American Indian tribes.
+- **Datura** (genus): Called by many names—Jimson weed, devil"s apple, thorn apple, mad apple, devil's weed, Gabriel's trumpet, angel's trumpet. Used widely and apparently from ancient times in shamanism, witchcraft, and vision quest in Europe, Asia, Africa, and among American Indian tribes.
 - **Mandrake** (*Mandragora*): One of the most famous magical plants in European tradition, associated with fertility, divination, and protection.
 - **Henbane** (*Hyoscyamus*): Used in magic and medicine since antiquity.
 - **Belladonna / Deadly Nightshade** (*Atropa belladonna*): Perhaps the most notorious of the witchcraft plants, widely used in folk medicine and magic.
@@ -45,7 +45,7 @@ Each of these plants contains varying quantities of atropine and the closely rel
 
 ### The Broomstick Symbol
 
-The witch's broomstick is "actually a very serious and central aspect of European witchcraft." The European witches rubbed their bodies with a hallucinogenic ointment containing solanaceous plants. The witch then "indeed took a trip"—the witch on the broomstick is a representation of the imagined aerial journey to a rendezvous with spirits or demons, called a Sabbat.
+The witch"s broomstick is "actually a very serious and central aspect of European witchcraft." The European witches rubbed their bodies with a hallucinogenic ointment containing solanaceous plants. The witch then "indeed took a trip"—the witch on the broomstick is a representation of the imagined aerial journey to a rendezvous with spirits or demons, called a Sabbat.
 
 ### Atropine and Skin Absorption
 
@@ -83,7 +83,7 @@ The Somerset witches used specific words when "flying": "Thout, tout a tout, tou
 
 ### The "Trip"
 
-Harner's central argument is that the Sabbat was not a literal gathering but a visionary experience induced by the flying ointment. What accused witches described—the flight through the air, the arrival at a remote location, the encounters with demons and other witches, the orgiastic behavior—were all elements of a psychedelic experience that felt subjectively real.
+Harner"s central argument is that the Sabbat was not a literal gathering but a visionary experience induced by the flying ointment. What accused witches described—the flight through the air, the arrival at a remote location, the encounters with demons and other witches, the orgiastic behavior—were all elements of a psychedelic experience that felt subjectively real.
 
 ### Lewin's Testimony
 
@@ -93,9 +93,9 @@ The pharmacologist Louis Lewin (1924) wrote that magic ointments "produced effec
 
 "The hallucinations are frequently dominated by the erotic moment." Tropane alkaloids are known to produce sexual fantasies and sensations of physical pleasure, which would account for the reports of orgiastic behavior at Sabbats.
 
-## The Inquisition's Role
+## The Inquisition"s Role
 
-The Inquisition, "at the cost of the torture and execution of perhaps hundreds of thousands of believed and real witches," has supplied the bulk of historical data on the role of hallucinogenic plants in late medieval Europe. While the Inquisition's methods were brutal and its conclusions were shaped by theological assumptions, the confessions it extracted contain descriptions of genuine plant use and genuine visionary experiences.
+The Inquisition, "at the cost of the torture and execution of perhaps hundreds of thousands of believed and real witches," has supplied the bulk of historical data on the role of hallucinogenic plants in late medieval Europe. While the Inquisition"s methods were brutal and its conclusions were shaped by theological assumptions, the confessions it extracted contain descriptions of genuine plant use and genuine visionary experiences.
 
 The tragedy of the witch hunts is that a genuine folk practice—the use of psychoactive plants for spiritual purposes—was reinterpreted through the lens of Christian demonology. What had been a shamanic tradition was transformed into evidence of devil worship, with catastrophic consequences for the practitioners.
 

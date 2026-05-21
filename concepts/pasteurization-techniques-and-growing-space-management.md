@@ -6,7 +6,7 @@ type: concept
 
 ## Pasteurization Techniques and Growing Space Management
 
-From [[tradd-cotter]]'s *[[organic-mushroom-farming-and-mycoremediation-overview]] and [[mycoremediation]]*, detailed methods for [[substrate-pasteurization]] and efficient use of growing space in [[accessible-mushroom-cultivation-for-disabilities]] operations.
+From [[tradd-cotter]]"s *[[organic-mushroom-farming-and-mycoremediation-overview]] and [[mycoremediation]]*, detailed methods for [[substrate-pasteurization]] and efficient use of growing space in [[accessible-mushroom-cultivation-for-disabilities]] operations.
 
 ## Hot Water Immersion Pasteurization
 
@@ -68,7 +68,7 @@ Example for shiitake operation in 100 sq ft:
 | **Total** | **27 weeks** | **100%** | **100 sq ft** |
 
 ### Tunnel Systems
-"Many larger commercial operations are now using long 'tunnels,' similar to shipping containers linked end to end."
+"Many larger commercial operations are now using long "tunnels,' similar to shipping containers linked end to end."
 - Fill with single batch for entire spawn run and fruiting cycles
 - Empty and sanitize between batches
 - **Eliminates pesticide need** by preventing pest accumulation

@@ -8,7 +8,7 @@ type: entity
 
 ## Description
 
-The Oodnadatta [[permaculture]]: A Designers' Manual* as a prime example of a simple but effective sand dam system that was still functioning well over 60 years after construction. It demonstrates the long-term durability and self-sustaining nature of properly designed sand dam systems.
+The Oodnadatta [[permaculture]]: A Designers" Manual* as a prime example of a simple but effective sand dam system that was still functioning well over 60 years after construction. It demonstrates the long-term durability and self-sustaining nature of properly designed sand dam systems.
 
 ## Classification
 

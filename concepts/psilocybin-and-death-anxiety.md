@@ -9,7 +9,7 @@ sources:
 ---
 ## Psilocybin and Death Anxiety
 
-The confrontation with mortality is a recurring theme in Powell's "The [[reishi-mushroom-medicinal-properties]] (Ling Zhi) in Chinese tradition literally means "Mushroom of Immortality," and Wasson proposed that the sacred Soma of the ancient Indo-Europeans was a psychoactive mushroom. Across cultures, visionary mushrooms have been associated with transcending death -- not literally, but through providing experiential access to realities that make death less threatening.
+The confrontation with mortality is a recurring theme in Powell"s "The [[reishi-mushroom-medicinal-properties]] (Ling Zhi) in Chinese tradition literally means "Mushroom of Immortality," and Wasson proposed that the sacred Soma of the ancient Indo-Europeans was a psychoactive mushroom. Across cultures, visionary mushrooms have been associated with transcending death -- not literally, but through providing experiential access to realities that make death less threatening.
 
 Wasson drew on the Rig Veda, noting that "Death will come if the layman presumes to eat this [[philosophical-implications-of-psychedelics]] that make the fear of ego-dissolution feel less threatening and more natural.
 
@@ -17,7 +17,7 @@ The landmark Johns Hopkins study on psilocybin and death anxiety (2016) demonstr
 
 ## The Gaian Perspective
 
-In Powell's broader Gaian framework, individual death is not merely natural but cosmically insignificant in the best possible sense. Life on Earth has been evolving for 3.5 billion years, and individual human consciousness represents the latest and most reflective form of information-integration to emerge from this process. Death of the individual does not interrupt this process; it is simply one pattern dissolving back into the larger flow from which it temporarily arose. The entheogenic experience can make this understanding not merely intellectual but viscerally real.
+In Powell"s broader Gaian framework, individual death is not merely natural but cosmically insignificant in the best possible sense. Life on Earth has been evolving for 3.5 billion years, and individual human consciousness represents the latest and most reflective form of information-integration to emerge from this process. Death of the individual does not interrupt this process; it is simply one pattern dissolving back into the larger flow from which it temporarily arose. The entheogenic experience can make this understanding not merely intellectual but viscerally real.
 
 ## The Interplay of Psilocybin and Mortality Awareness
 

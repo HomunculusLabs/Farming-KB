@@ -11,7 +11,7 @@ tags: [economics, community, permaculture, ethical-investment, earthbank, broker
 
 Earthbank is a community [[ethical-investment-and-earth-banking]] and financial education concept developed by
 the [[permaculture-institute]] following seminars with the E. F. Schumacher group in the USA
-in 1983. Documented by [[bill-mollison]] in *[[permaculture]]: A Designer's Manual*, an Earthbank
+in 1983. Documented by [[bill-mollison]] in *[[permaculture]]: A Designer"s Manual*, an Earthbank
 group begins as a research, teaching, and seminar-convening organization that evolves into
 an active community financial system as local money systems are established. The Earthbank
 concept represents the Permaculture Institute's practical approach to "banking on the earth"

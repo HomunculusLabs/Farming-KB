@@ -6,7 +6,7 @@ type: concept
 
 ## History of Poisonous Fungi Knowledge
 
-The history of humanity's understanding of poisonous fungi is a narrative stretching from classical antiquity to the modern era, marked by fatal misunderstandings, gradual scientific enlightenment, and persistent cultural anxiety. Drawing extensively from John Ramsbottom's 1945 work on poisonous fungi, this page surveys the evolution of knowledge about fungal toxicity.
+The history of humanity"s understanding of poisonous fungi is a narrative stretching from classical antiquity to the modern era, marked by fatal misunderstandings, gradual scientific enlightenment, and persistent cultural anxiety. Drawing extensively from John Ramsbottom's 1945 work on poisonous fungi, this page surveys the evolution of knowledge about fungal toxicity.
 
 ## Earliest Mentions of Fungal Poisoning
 
@@ -81,7 +81,7 @@ Modern toxicology classifies poisonous fungi into three principal categories bas
 These are the most dangerous fungi, causing delayed but devastating damage to internal organs, particularly the liver and kidneys:
 
 - **Amanita phalloides** — The Death Cap, responsible for the majority of fatal mushroom poisonings worldwide.
-- **Amanita verna** — The Fool's Mushroom, equally deadly.
+- **Amanita verna** — The Fool"s Mushroom, equally deadly.
 - **Amanita virosa** — The Destroying Angel, visually similar to edible species, making it especially treacherous.
 - **Lepiota helveola** — A smaller but equally toxic species containing the same amatoxins.
 

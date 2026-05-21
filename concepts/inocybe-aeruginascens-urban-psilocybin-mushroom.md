@@ -108,7 +108,7 @@ Gartz identified a previously unknown alkaloid that he named **aeruginascin**, f
 - Present at concentrations comparable to psilocybin and baeocystin
 - Species-specific — its presence serves as a chromatographic "fingerprint" for identifying *I. aeruginascens*
 
-The role of aeruginascin in the mushroom's psychoactive effects is unknown, but Gartz hypothesizes it may contribute to the consistent euphoria reported in involuntary intoxication cases, even under psychologically unfavorable conditions.
+The role of aeruginascin in the mushroom"s psychoactive effects is unknown, but Gartz hypothesizes it may contribute to the consistent euphoria reported in involuntary intoxication cases, even under psychologically unfavorable conditions.
 
 ## Psychoactive Effects
 

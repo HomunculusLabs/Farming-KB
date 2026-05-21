@@ -16,7 +16,7 @@ Then roads were blasted out of rock and constructed along mountain edges over pr
 
 ## The Shamanic Response to Cultural Change
 
-The medicine woman's mushroom discourse directly addresses the challenges of this transition. Her speech ranges over everything—ancient and modern—speaking of what is happening to her people, peering into the future, and recognizing the inevitable process of transition, disintegration, and integration that confronts the younger generation.
+The medicine woman"s mushroom discourse directly addresses the challenges of this transition. Her speech ranges over everything—ancient and modern—speaking of what is happening to her people, peering into the future, and recognizing the inevitable process of transition, disintegration, and integration that confronts the younger generation.
 
 She explicitly calls for adaptation:
 
@@ -26,7 +26,7 @@ The medicine woman acknowledges that she belongs to the passing generation—"Fo
 
 ## The Generational Divide
 
-The discourse reveals a clear generational divide. The world of the medicine woman's children will not be her world, nor that of their grandfathers. The indigenous society is being transformed by historical forces. For the younger generation, it is necessary to learn to read and write, speak the language of the new world (Spanish), gain education and knowledge from books, and navigate between traditional Mazatec identity and Mexican national identity.
+The discourse reveals a clear generational divide. The world of the medicine woman"s children will not be her world, nor that of their grandfathers. The indigenous society is being transformed by historical forces. For the younger generation, it is necessary to learn to read and write, speak the language of the new world (Spanish), gain education and knowledge from books, and navigate between traditional Mazatec identity and Mexican national identity.
 
 The medicine woman does not resist this change but frames it within her spiritual framework, asking that it proceed "with tenderness, with freshness, with sweetness, with good will."
 
@@ -42,7 +42,7 @@ The traditional epistemology is preserved even as the technology changes. The "t
 
 ## Poverty Amid Natural Abundance
 
-A central theme of the medicine woman's discourse is the paradox of Mazatec poverty. She asks repeatedly: "Why are we poor? Why are we humble in this town of Huautla?"
+A central theme of the medicine woman"s discourse is the paradox of Mazatec poverty. She asks repeatedly: "Why are we poor? Why are we humble in this town of Huautla?"
 
 The paradox is acute: the Mazatecs inhabit fertile, plentiful mountains where waterfalls cascade through green foliage of leaves and ferns, yet their daily diet consists of black beans and tortillas covered with red chili sauce, with meat eaten only at festivals. White spots caused by malnutrition splotch their red faces. Babies are frequently sick.
 
@@ -64,7 +64,7 @@ The medicine woman directly confronts the forces that seek to suppress the mushr
 
 > "They are doing nothing but talk, those who say that these matters are matters of the past... The omnipotent They forms the force of repression which, by legislation and the implementation of authority, has come to denominate infractions of the law and the code of health the means of liberation that once were called medicines."
 
-She identifies the mechanism of suppression: the designation of the mushrooms as "drugs" associated with madness, enforced through legislation and public health codes, replacing their original designation as medicines. She insists that in a time of pills and shots and scientific medicine, the mushrooms' power to awaken consciousness and cure existential ills is no less relevant than in the past.
+She identifies the mechanism of suppression: the designation of the mushrooms as "drugs" associated with madness, enforced through legislation and public health codes, replacing their original designation as medicines. She insists that in a time of pills and shots and scientific medicine, the mushrooms" power to awaken consciousness and cure existential ills is no less relevant than in the past.
 
 ## The Mushrooms as Mediators Between Worlds
 

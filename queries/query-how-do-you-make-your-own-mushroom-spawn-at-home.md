@@ -4,7 +4,7 @@ created: 2026-05-02
 updated: 2026-05-02
 type: query
 tags: [mushroom-cultivation, mycology]
-sources: ['raw/papers/working-with-agar.md']
+sources: ["raw/papers/working-with-agar.md']
 ---
 
 --- title: "How Do You Make Your Own Mushroom Spawn at Home" tags: [query, mushroom-cultivation, spawn-making, mycology, diy] date: 2026-04-25 updated: 2026-04-25 sources: - "raw/papers/mycelium-running-stamets.md" --- # How Do You Make Your Own Mushroom Spawn at Home? ## Short Answer Making mushroom spawn at home involves inoculating a sterilized grain medium with [[cultivator-sterile-technique-and-agar-culture]], grain jars or bags, a [[accessible-mushroom-cultivation-for-disabilities]] because it dramatically reduces costs, gives you control over strain genetics, and allows you to scale production without depending on commercial spawn suppliers. The grain-spawn-preparation involves soaking or boiling the grain to hydrate

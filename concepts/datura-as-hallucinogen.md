@@ -6,7 +6,7 @@ tags:
 
 ## Datura as Hallucinogen
 
-Datura species contain potent tropane alkaloids — primarily scopolamine, hyoscyamine, and atropine — that produce a distinctive deliriant state rather than classic psychedelic effects. Schultes's "[[datura-stramonium]]* (jimsonweed), *D. inoxia* (downy thornapple), *D. metel* (Hindu datura), *D. candida* (angel's trumpet), *D. aurea* (golden angel's trumpet).
+Datura species contain potent tropane alkaloids — primarily scopolamine, hyoscyamine, and atropine — that produce a distinctive deliriant state rather than classic psychedelic effects. Schultes"s "[[datura-stramonium]]* (jimsonweed), *D. inoxia* (downy thornapple), *D. metel* (Hindu datura), *D. candida* (angel's trumpet), *D. aurea* (golden angel's trumpet).
 
 ### Plant Description
 

@@ -30,17 +30,17 @@ The Judgment Vision is a characteristic Third Bardo experience described in *The
 ### Western Manifestation
 
 - Westerners are most likely to experience the judgment vision in Christian form
-- The vision can assume culturally specific forms depending on the voyager's background
+- The vision can assume culturally specific forms depending on the voyager"s background
 - Tormenting figures may be internal hallucinations or may involve the people around the voyager, seen as pitiless, mocking, and superior
 - The guilt-producing machinery is recognized as a self-created hallucination: "Your own guilt machine"
 
 ### Psychological Interpretation
 
 - The Judge symbolizes conscience itself — the internalized critical voice
-- The Mirror of Karma is memory — the inability to escape one's own self-knowledge
+- The Mirror of Karma is memory — the inability to escape one"s own self-knowledge
 - The vision represents the ego's attempt to reconstitute itself through guilt and self-judgment
 - The personality is described as "a collection of thought-patterns and void" that "cannot be harmed or injured — swords cannot pierce it, fire cannot burn it"
-- The vision is triggered by the ego's resistance to dissolution during the re-entry phase
+- The vision is triggered by the ego"s resistance to dissolution during the re-entry phase
 
 ### Instructions for Navigation
 

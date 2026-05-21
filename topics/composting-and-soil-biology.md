@@ -51,7 +51,7 @@ including biogas production and bokashi fermentation. The end products of
 
 ## References
 
-- Lowenfels, J. and Lewis, W. Teaming with Microbes: The Organic Gardener's
+- Lowenfels, J. and Lewis, W. Teaming with Microbes: The Organic Gardener"s
   Guide to the Soil Food Web. Timber Press, revised ed., 2010.
 - Ingham, E. The Compost Tea Brewing Manual. Soil Foodweb Inc., 2005.
 - Jeavons, J. How to Grow More Vegetables. Ten Speed Press, 9th ed., 2012.

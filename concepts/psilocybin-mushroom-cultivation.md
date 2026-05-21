@@ -20,7 +20,7 @@ sources:
 
 # Psilocybin Mushroom Cultivation
 
-Techniques for cultivating psilocybin-containing mushrooms, drawn from historical methods, traditional practices, and modern mycological approaches. Based primarily on [[jochen-gartz]]'s comprehensive survey. See also [[mushroom-species-guide]] for species-specific cultivation data.
+Techniques for cultivating psilocybin-containing mushrooms, drawn from historical methods, traditional practices, and modern mycological approaches. Based primarily on [[jochen-gartz]]"s comprehensive survey. See also [[mushroom-species-guide]] for species-specific cultivation data.
 
 ## History of Cultivation
 
@@ -32,7 +32,7 @@ The indigenous peoples of Mexico cultivated Psilocybe species near their settlem
 
 The "Psilocybe Fanaticus Technique" (PF Tek) popularized home cultivation in the 1990s. This simple method uses brown rice flour, vermiculite, and half-pint mason jars. The substrate is sterilized, inoculated with spore syringe, and incubated until fully colonized, then fruiting is triggered by introducing light and lowering temperature. This method made cultivation accessible to non-specialists and became the basis for widespread online cultivation communities.
 
-### Gartz's Own Cultivation Work
+### Gartz"s Own Cultivation Work
 
 [[jochen-gartz]] developed innovative techniques including inoculating wood substrates with Psilocybe cyanescens and P. bohemica. He documented successful cultivation of European indoor species using dung-based and wood-based substrates, and experimented with outdoor cultivation methods for temperate species.
 
@@ -83,7 +83,7 @@ The most commonly cultivated species worldwide due to its fast growth, large siz
 - **Substrate:** Wood chips, sawdust (deciduous trees)
 - **Temperature:** Cool-weather; similar to P. cyanescens
 - **Range:** Central Europe (Czech Republic, Slovakia, Germany)
-- **Note:** Documented by Gartz as one of Europe's most significant psychoactive species
+- **Note:** Documented by Gartz as one of Europe"s most significant psychoactive species
 
 ## Cultivation Techniques
 
@@ -123,7 +123,7 @@ Potency varies enormously based on genetics, substrate, growing conditions, age 
 
 Several Psilocybe species form sclerotia — compacted masses of mycelium that serve as nutrient storage organs and contain psychoactive alkaloids:
 
-- **P. mexicana:** Most commonly cultivated for sclerotia; "Philosopher's Stones" or "tampanensis" truffles
+- **P. mexicana:** Most commonly cultivated for sclerotia; "Philosopher"s Stones" or "tampanensis" truffles
 - **P. tampanensis:** Originally discovered near Tampa, Florida; produces sclerotia
 - **P. atlantis:** Related species also producing sclerotia
 - **P. galindoi:** Mexican species cultivated for truffle production

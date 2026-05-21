@@ -11,7 +11,7 @@ tags: [plant-health, brix, soil-foodweb, nutrition, AACT, monitoring, sugar-cont
 
 ## Overview
 
-Brix is a measurement of dissolved solids—primarily sugars—in plant sap, typically measured with a refractometer. In the context of soil foodweb management and AACT applications, brix readings serve as a practical, field-accessible indicator of plant health, nutritional status, and the effectiveness of soil biology. Dr. Elaine Ingham's work connects elevated brix levels directly to the presence of healthy soil foodwebs that support complete plant nutrition. (see [[ingham-brix-plant-health-indicator-limitations]] sap onto the lens of a refractometer and reading the scale. The reading represents the percentage of dissolved solids in the sap, which includes:
+Brix is a measurement of dissolved solids—primarily sugars—in plant sap, typically measured with a refractometer. In the context of soil foodweb management and AACT applications, brix readings serve as a practical, field-accessible indicator of plant health, nutritional status, and the effectiveness of soil biology. Dr. Elaine Ingham"s work connects elevated brix levels directly to the presence of healthy soil foodwebs that support complete plant nutrition. (see [[ingham-brix-plant-health-indicator-limitations]] sap onto the lens of a refractometer and reading the scale. The reading represents the percentage of dissolved solids in the sap, which includes:
 
 - Simple sugars (sucrose, glucose, fructose)
 - Amino acids

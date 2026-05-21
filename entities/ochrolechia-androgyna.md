@@ -10,7 +10,6 @@ date: 2026-05-08
 updated: 2026-05-08
 sources:
   - Spribille, T. et al. (2014). "Ochrolechia (Ochrolechiaceae) in the psilocybin-north-america-pacific-northwest." The Bryologist, 117(3), 251-280.---
----
 
 ## Overview
 

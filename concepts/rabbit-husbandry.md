@@ -24,7 +24,7 @@ fertilizer that can be applied directly without [[composting]].
   mothers, good meat-to-bone ratio.
 - **Silver Fox** — Heritage breed, 9-12 lbs. Excellent meat quality,
   beautiful pelt. Good mothers. Listed as threatened.
-- **Champagne d'Argent** — Heritage, 9-12 lbs. Excellent meat, silvered
+- **Champagne d"Argent** — Heritage, 9-12 lbs. Excellent meat, silvered
   pelts. Good mothers.
 - **Flemish Giant** — 14-20+ lbs. Can be bred with NZW for fast-growing
   crosses. Eats more but produces larger fryers.

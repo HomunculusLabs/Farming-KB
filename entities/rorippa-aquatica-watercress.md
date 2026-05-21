@@ -65,7 +65,7 @@ Mollison lists watercress alongside Chinese water chestnut ([[eleocharis-dulcis]
 
 ## Sources
 
-- Bill Mollison, *Permaculture: A Designers' Manual*, Chapter 13
+- Bill Mollison, *Permaculture: A Designers" Manual*, Chapter 13
 - General aquatic plant cultivation references
 
 ## Historical and Cultural Significance

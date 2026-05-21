@@ -1,5 +1,5 @@
 ---
-title: "JADAM Philosophy and cho-seawater-and-fermented-seawater's Farming Revolution"
+title: "JADAM Philosophy and cho-seawater-and-fermented-seawater"s Farming Revolution"
 created: 2026-04-26
 updated: 2026-04-26
 type: concept
@@ -7,7 +7,7 @@ tags: [jadam]
 sources: [raw/papers/jadam-organic-farming-ultra-low-cost-agriculture.md]
 ---
 
-## JADAM Philosophy and Youngsang Cho's Farming Revolution
+## JADAM Philosophy and Youngsang Cho"s Farming Revolution
 
 ## Overview
 

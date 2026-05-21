@@ -16,12 +16,12 @@ In *The Road Back to Nature*, [[dighton-fungi-climate-change-feedback]] but beca
 
 ## Everything Begins by Sowing Seed
 
-Fukuoka's solution is characteristically simple:
+Fukuoka"s solution is characteristically simple:
 
 - "Everything begins by sowing seed"
 - Africa showed that well-intentioned projects can be self-defeating
 - Irrigation-based approaches bring salt accumulation rather than lasting restoration
-- Tree-planting campaigns often fail because they don't address underlying soil conditions
+- Tree-planting campaigns often fail because they don"t address underlying soil conditions
 
 ## America Revisited
 

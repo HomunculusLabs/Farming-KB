@@ -25,7 +25,7 @@ Sustainable Communities/ZERI-New Mexico (SCZ-NM) is a creative sustainability en
 
 ## Key Facts
 
-- One of the first ZERI projects established in the United States, implementing Gunter Pauli's zero-emissions design principles in a North American context.
+- One of the first ZERI projects established in the United States, implementing Gunter Pauli"s zero-emissions design principles in a North American context.
 - Operates under the U.S. Forest Service Collaborative Forest Restoration Program in New Mexico.
 - Primary mission: reducing fire hazard in overgrown National Forests by utilizing woody waste from thinning operations.
 - Uses woody refuse from forest thinning as substrate for oyster and shiitake mushroom cultivation, converting a fire hazard into a valuable food product.

@@ -8,12 +8,12 @@ tags: [emcdda, market, growkit, online-shop, smartshop, economics, retail, spore
 
 ## Overview
 
-The EMCDDA's 2006 market analysis of [[geographic-distribution-of-psilocybe-species]] vendors, and market dynamics that characterized the [[magic-mushroom-retail-markets-and-commercial-distribution-channels]] trade. An estimated 120-150 smartshops operated in the country, concentrated primarily in Amsterdam, selling legal and predominantly natural products including [[cultural-evolution-and-psychoactive-substances]], aligning with the broader consumer trend toward organic and herbal products that emerged in the late 1990s. Some coffee shops and headshops also sold mushrooms, and in some Dutch cities, "paddo cabs" offered home delivery services.
+The EMCDDA"s 2006 market analysis of [[geographic-distribution-of-psilocybe-species]] vendors, and market dynamics that characterized the [[magic-mushroom-retail-markets-and-commercial-distribution-channels]] trade. An estimated 120-150 smartshops operated in the country, concentrated primarily in Amsterdam, selling legal and predominantly natural products including [[cultural-evolution-and-psychoactive-substances]], aligning with the broader consumer trend toward organic and herbal products that emerged in the late 1990s. Some coffee shops and headshops also sold mushrooms, and in some Dutch cities, "paddo cabs" offered home delivery services.
 
 ### Product Range
 
 The most commonly sold species in Dutch smartshops were Psilocybe cubensis varieties and [[copelandia-cyanescens]] | 10g | 13.00–17.50 |
-| Psilocybe mexicana (Philosopher's stones) | 15g | 10.00–17.50 |
+| Psilocybe mexicana (Philosopher"s stones) | 15g | 10.00–17.50 |
 | Spawnbag (Psilocybe azurescens) | 1 unit | 24.00–25.00 |
 | Growkits | 1 kit | 25.00–100.00 |
 | Spore prints/syringes | 1 print/syringe | 9.00–28.00 |
@@ -46,7 +46,7 @@ In the Czech Republic, retailers attempted to circumvent national legislation by
 
 ## Brand Names and Marketing Strategies
 
-The magic mushroom market developed its own distinctive branding ecosystem. Mushrooms were sold under both species names and marketing names that often drew on their geographic origin or cultural associations. The term "Philosopher's stones" for [[psilocybe-mexicana-sclerotia-timeline-dark-incubation-flush-pattern]] exemplified the market's tendency to wrap products in cultural mystique.
+The magic mushroom market developed its own distinctive branding ecosystem. Mushrooms were sold under both species names and marketing names that often drew on their geographic origin or cultural associations. The term "Philosopher"s stones" for [[psilocybe-mexicana-sclerotia-timeline-dark-incubation-flush-pattern]] exemplified the market"s tendency to wrap products in cultural mystique.
 
 Many retailers grouped hallucinogenic mushrooms under the broader "Herbal highs" product category, alongside products like "herbal ecstasy" and Salvia divinorum. This categorization strategy leveraged the late-1990s consumer preference for natural and organic products, positioning mushrooms as part of a wider lifestyle category rather than as illicit drugs.
 

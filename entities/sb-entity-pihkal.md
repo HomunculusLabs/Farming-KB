@@ -24,7 +24,7 @@ will misinterpret it.
 ## Synthesis
 
 A solution of 15 g 1,3-diethoxybenzene and 15 mL of
-N,N,N',N'-tetramethylethylenediamine in 200 mL anhydrous Et2O was
+N,N,N",N'-tetramethylethylenediamine in 200 mL anhydrous Et2O was
 placed in a He atmosphere, magnetically stirred, and cooled to 0 deg C
 with an ice bath. Over the course of 10 min there was added 63 mL of
 a 1.6 M solution of butyllithium in hexane, which produced a fine

@@ -51,7 +51,7 @@ the global diversity of genetics flowing through Northern California during this
 
 The Humboldt Trainwreck emerged as the most commercially significant of all the Trainwreck
 variants. Its genetics became a cornerstone of West Coast [[cannabis-breeding-fundamentals]], contributing to
-countless hybrid strains that followed. The strain's reputation for potency and its distinctive
+countless hybrid strains that followed. The strain"s reputation for potency and its distinctive
 aromatic profile made it a sought-after clone-only variety for many years.
 
 However, opinions on Trainwreck's effects vary considerably. The Rev, cultivation editor for

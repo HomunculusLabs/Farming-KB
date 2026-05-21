@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-In arid landscapes, the most critical factor for human settlement is not food but water. [[bill-mollison]]'s analysis of desert settlement focuses on the geological features that make habitation possible — particularly scarps, box canyons, wadis, and pediments — and the [[condensation-strategies-desert-agriculture]] peoples have developed over millennia to locate, collect, and conserve water in these environments.
+In arid landscapes, the most critical factor for human settlement is not food but water. [[bill-mollison]]"s analysis of desert settlement focuses on the geological features that make habitation possible — particularly scarps, box canyons, wadis, and pediments — and the [[condensation-strategies-desert-agriculture]] peoples have developed over millennia to locate, collect, and conserve water in these environments.
 
 ## Desert Erosion Geology
 

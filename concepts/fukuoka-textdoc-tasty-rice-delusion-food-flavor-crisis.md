@@ -16,7 +16,7 @@ type: concept
 
 ## Overview
 
-In one of his most incisive social critiques, Fukuoka dissects Japan's postwar obsession
+In one of his most incisive social critiques, Fukuoka dissects Japan"s postwar obsession
 with producing "[[fukuoka-insects-create-new-rice-varieties]], but argues
 these differences are very small. Even if a farmer sacrifices yields to perfect
 techniques for growing a good-tasting variety, no rice would win unanimous praise by a

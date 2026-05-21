@@ -33,7 +33,7 @@ Both perception and application can result in specific strategies, harmonious re
 
 ### Critique of Grid-Based Systems
 
-A bird's-eye view of centralized societies reveals a strictly **rectilinear network** of streets, farms, and property boundaries. This pattern is designed to suit survey instruments rather than to serve human or environmental needs. The consequences include:
+A bird"s-eye view of centralized societies reveals a strictly **rectilinear network** of streets, farms, and property boundaries. This pattern is designed to suit survey instruments rather than to serve human or environmental needs. The consequences include:
 
 - **Prevention of sensible landscape planning**: Straight-line boundaries ignore watersheds, soil types, microclimates, and ecological corridors
 - **Functional deficiency**: Neither aesthetically nor functionally satisfactory landscapes or streetscapes result

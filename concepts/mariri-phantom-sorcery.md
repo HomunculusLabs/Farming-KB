@@ -26,7 +26,7 @@ of the rainbow.
 ## Types of Mariri
 
 Different colored mariris correspond to different functions in the
-vegetalista's ciencia palistica (plant science):
+vegetalista"s ciencia palistica (plant science):
 
 - **Yana-mariri** (black mann): Received by a vegetalista wearing
   red; associated with darker, more dangerous powers
@@ -55,7 +55,7 @@ various things emerge:
 5. **Fifth tube**: Another marupa-influenced mann used to convey
    messages through animals
 6. **Sixth tube**: Contains yana-alacran (black scorpion), spider,
-   snake's lice, wasp, bee, lizard, and the cuicamama (mother worm)
+   snake"s lice, wasp, bee, lizard, and the cuicamama (mother worm)
 7. **Last tube**: Contains the virotes of chonta sorcery -- needles
    from palm trees, thorns, fish horns, snake teeth, and bird beaks
 

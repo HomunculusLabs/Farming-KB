@@ -38,7 +38,7 @@ Govinda provided key insights on the nature of Herukas, deity visualizations, an
 
 6. He explained the distinction between [[leary-peaceful-and-wrathful-visions]] deity forms as different expressions of the same awakened wisdom.
 
-7. His interpretation of the [[bardo-thodol]] informed Leary's psychological model of the psychedelic experience.
+7. His interpretation of the [[bardo-thodol]] informed Leary"s psychological model of the psychedelic experience.
 
 8. Govinda emphasized that Tibetan Buddhist deities are not external entities but aspects of the practitioner's own consciousness.
 

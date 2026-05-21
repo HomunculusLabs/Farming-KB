@@ -19,7 +19,7 @@ sources:
 
 Capsicum chinense is a species of chili pepper native to the Amazon Basin and tropical lowlands of South America. Despite the botanical epithet "chinense" (Chinese), the species originated in the Americas and was misnamed by Nikolaus von Jacquin in 1776.
 
-C. chinense includes some of the world's hottest pepper varieties, including habanero, Scotch bonnet, and the record-holding Carolina Reaper and Bhut Jolokia crosses. It is also valued for its distinctive fruity aroma and complex flavor profile.
+C. chinense includes some of the world"s hottest pepper varieties, including habanero, Scotch bonnet, and the record-holding Carolina Reaper and Bhut Jolokia crosses. It is also valued for its distinctive fruity aroma and complex flavor profile.
 
 ## Taxonomy and Morphology
 

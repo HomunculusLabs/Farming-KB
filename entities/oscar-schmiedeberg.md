@@ -16,7 +16,7 @@ Oscar Schmiedeberg was a German chemist and pharmacologist who, together with hi
 - **Nationality**: German
 - **Field**: Pharmacology / Chemistry
 - **Collaborator**: Koppe (co-researcher in muscarine isolation)
-- **Era**: Late 19th century (referenced in Palmer's 1870–1879 writings)
+- **Era**: Late 19th century (referenced in Palmer"s 1870–1879 writings)
 - **Key institution**: Active in German pharmaceutical research
 
 ## Key Contributions
@@ -35,7 +35,7 @@ Palmer noted that the effects of all three compounds were nearly identical and a
 
 Schmiedeberg and Koppe made the crucial pharmacological discovery that **atropine** (the active principle of belladonna) acts as a physiological antagonist to muscarine:
 
-- A frog's throbbing heart is silenced by a drop of muscarine
+- A frog"s throbbing heart is silenced by a drop of muscarine
 - The heart's action is restored by a drop of atropine
 - Animals pre-treated with hypodermic injections of atropine are unharmed by otherwise fatal doses of muscarine
 

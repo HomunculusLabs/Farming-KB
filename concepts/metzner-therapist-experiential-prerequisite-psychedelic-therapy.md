@@ -16,7 +16,7 @@ Among the five fundamental principles that [[psycholytic-and-psychedelic-therapy
 out as both the most operationally significant and the most controversial: the
 requirement that the therapist or guide possess personal experience with the
 psychedelic state before working with clients. This principle — that effective
-psychedelic-assisted psychotherapy demands the therapist's own experiential
+psychedelic-assisted psychotherapy demands the therapist"s own experiential
 knowledge of the terrain — distinguishes [[european-psycholytic-therapy-1960s-1970s]] tradition and the Anglo-American
 psychedelic model. It was, as Metzner notes, "widely recognized" and
 "widely assumed" — so fundamental that it functioned more as an axiom
@@ -27,7 +27,7 @@ than as a debated proposition.
 The specific problem that the experiential prerequisite addresses is one
 of communication. In ordinary psychotherapy, the therapist and client share
 a common phenomenological ground — both inhabit ordinary waking consciousness,
-and the therapist's role is to help the client navigate within that shared
+and the therapist"s role is to help the client navigate within that shared
 space. In psychedelic therapy, the client enters a state that is phenomeno-
 logically alien to someone who has not experienced it. The visual imagery,
 the emotional intensity, the dissolution of ego boundaries, the encounters
@@ -40,7 +40,7 @@ the problem precisely. It is not that communication becomes impossible, but
 that it becomes qualitatively different — more like trying to describe color
 to someone who has been blind from birth than like discussing a shared
 experience. The therapist without personal [[ayahuasca-drug-interactions]], and therapeutic indications. The subjective
-experience of the medication is irrelevant to the prescriber's competence.
+experience of the medication is irrelevant to the prescriber"s competence.
 
 Psychedelic therapy reverses this relationship entirely. Here the drug is
 not the primary agent of change but rather a catalyst or trigger, and the

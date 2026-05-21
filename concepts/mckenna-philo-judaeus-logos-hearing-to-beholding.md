@@ -12,7 +12,7 @@ In his 1983 Esalen lecture on [[terence-mckenna]] invoked the first-century Hell
 
 ## Application to Tryptamine Phenomenology
 
-McKenna's deployment of this Philonic concept was not merely decorative or analogical.
+McKenna"s deployment of this Philonic concept was not merely decorative or analogical.
 
 The tryptamine experience, particularly the DMT experience, involves a precise phenomenological transition that mirrors Philo's description with remarkable specificity.
 

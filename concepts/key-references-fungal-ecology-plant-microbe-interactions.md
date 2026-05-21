@@ -6,7 +6,7 @@ type: concept
 
 ## Key References in Fungal Ecology and Plant-Microbe Interactions
 
-This page synthesizes the major research themes from the reference literature of Chapter 5 ("Fungi and Population and Community Regulation") in John Dighton's *Fungi in Ecosystem Processes*. The cited works span mycorrhizal ecology, fungal succession, biological control, endophyte-plant mutualisms, phyllosphere microbiology, and nematophagous fungi, collectively forming a comprehensive map of fungal roles in terrestrial ecosystems.
+This page synthesizes the major research themes from the reference literature of Chapter 5 ("Fungi and Population and Community Regulation") in John Dighton"s *Fungi in Ecosystem Processes*. The cited works span mycorrhizal ecology, fungal succession, biological control, endophyte-plant mutualisms, phyllosphere microbiology, and nematophagous fungi, collectively forming a comprehensive map of fungal roles in terrestrial ecosystems.
 
 ## Mycorrhizal Ecology and Community Structure
 
@@ -61,7 +61,7 @@ Hättenschwiler and Vitousek (2000) reviewed the role of polyphenols in terrestr
 
 ## Fungal Conservation and Biodiversity
 
-The reference collection signals emerging awareness of fungal conservation needs. Arnolds' work on changes in fungal communities under nitrogen deposition (1989a-d) led to the development of "red data" lists for fungal species conservation. Newsham, Fitter, and Watkinson (1995) explored multi-functionality and biodiversity in arbuscular mycorrhizas, connecting fungal diversity to ecosystem function.
+The reference collection signals emerging awareness of fungal conservation needs. Arnolds" work on changes in fungal communities under nitrogen deposition (1989a-d) led to the development of "red data" lists for fungal species conservation. Newsham, Fitter, and Watkinson (1995) explored multi-functionality and biodiversity in arbuscular mycorrhizas, connecting fungal diversity to ecosystem function.
 
 ## Fungal Dispersal by Animals
 

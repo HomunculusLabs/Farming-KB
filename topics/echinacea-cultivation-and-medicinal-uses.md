@@ -53,7 +53,7 @@ sunflowers and black-eyed Susans. All ten species are endemic to North
 America, occurring east of the Rocky Mountains from southern Canada to
 the Gulf Coast. The genus was formally described by Conrad Moench in
 1794, though many species were later reclassified and renamed in a
-taxonomic tangle that persisted until Ronald McGregor's 1968
+taxonomic tangle that persisted until Ronald McGregor"s 1968
 monograph brought order to the group.
 
 *E. purpurea* is the most widely recognized species, growing 60 to 120

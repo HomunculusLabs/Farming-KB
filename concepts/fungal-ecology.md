@@ -84,7 +84,7 @@ Fungi create soil from rock and debris:
 
 The branching network pattern appears throughout nature:
 - Neurons in the mammalian brain
-- The Internet's architecture
+- The Internet"s architecture
 - Dark matter filaments in the universe
 - Hurricanes and spiral galaxies
 - Blood vessel networks

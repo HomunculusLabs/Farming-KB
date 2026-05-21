@@ -25,10 +25,10 @@ Tourists should research drug interactions thoroughly before attending any cerem
 
 ## Shaman Authenticity
 
-Almost every shaman claims to be the only person in all of Amazonia who knows how to properly brew ayahuasca. This makes finding a genuine practitioner difficult. R. Stuart's field observations in Ucayali, Peru revealed:
+Almost every shaman claims to be the only person in all of Amazonia who knows how to properly brew ayahuasca. This makes finding a genuine practitioner difficult. R. Stuart"s field observations in Ucayali, Peru revealed:
 
 - An elderly shaman ("B") who was a frequent liar and shoplifter, constantly asking for money or gifts
-- A shaman's nephew earning $200/month from tourists while neighbors couldn't afford a $0.30 taxi ride, charging foreigners $30 versus $2 for Peruvians
+- A shaman"s nephew earning $200/month from tourists while neighbors couldn't afford a $0.30 taxi ride, charging foreigners $30 versus $2 for Peruvians
 - Some practitioners were honorable -- one ("E") was widely respected, charged about $10 for tourist ceremonies, and sang icaros privately for his family at night
 
 ## Ceremony Quality Considerations

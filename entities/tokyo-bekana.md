@@ -22,7 +22,7 @@ Tokyo Bekana (*[[brassica-rapa]]* subsp. *chinensis*) is a Japanese loose-leaf c
 - Produces loose, ruffled light green leaves on thin white stems — visually similar to lettuce but botanically a cabbage
 - Very mild flavor with almost no mustard pungency, making it suitable for raw salad use
 - Cold-hardy — successfully grown in unheated cold houses through Zone 5 winters
-- Included in Eliot Coleman's braising mix alongside mizuna, mibuna, tatsoi, and pak choi
+- Included in Eliot Coleman"s braising mix alongside mizuna, mibuna, tatsoi, and pak choi
 - Harvested at 4 inches or less for braising mix applications
 - Leaves are tender enough for salad use when young — some customers prefer the braising mix as a raw salad
 - Quick-maturing and suitable for succession planting through the winter season

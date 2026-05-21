@@ -13,7 +13,7 @@ sources:
 
 JADAM fundamentally challenges the widely accepted idea that repeated monoculture causes soil degradation and that crop rotation is the solution. By observing nature directly, Youngsang Cho concludes that crop rotation is "a strange concept made up to conceal an erroneous method of farming of removing crop residues."
 
-## Nature's Monoculture
+## Nature"s Monoculture
 
 JADAM asks a simple question: "Does nature rotate crops?" The answer is unequivocal: "No. I do not farm in rotations. I plant the same species in the same place again and again."
 
@@ -27,7 +27,7 @@ In the wild:
 
 ## The Real Problem: Removed Crop Residues
 
-The difference between nature's monoculture and human monoculture is NOT the monoculture itself -- it is how minerals are recycled. In nature:
+The difference between nature"s monoculture and human monoculture is NOT the monoculture itself -- it is how minerals are recycled. In nature:
 - Leaves, branches, trees, roots, and fruits all fall to be disintegrated by microbes
 - Minerals previously held in plant tissues are released back to soil
 - Roots reach deep, grab minerals, bring them to the surface

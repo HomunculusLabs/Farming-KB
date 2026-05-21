@@ -26,7 +26,7 @@ per year in tax on approximately £1 million in annual turnover. Prohibition
 significantly reduced availability and prompted interest in *[[basidiocarp-four-stage-development-classification-psilocybe-cubensis-badham-1982]]*, sold under
 geographic names: Mexican, Thai, Colombian, and Amazonian. Two additional species
 — *P. mexicana* and *P. tampanensis* — form sclerotia (underground mycelial masses)
-sold as "Philosopher's Stone" or "truffles," offering longer shelf life than fresh
+sold as "Philosopher"s Stone" or "truffles," offering longer shelf life than fresh
 mushrooms.
 
 ## Pricing

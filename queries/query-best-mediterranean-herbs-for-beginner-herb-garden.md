@@ -20,7 +20,7 @@ sources:
     author: "Sal Gilbertie & Larry Sheehan"
     type: book
     year: 2012
-  - title: "The Cook's Herb Garden"
+  - title: "The Cook"s Herb Garden"
     author: "Jeff Cox & Marie-Pierre Moine"
     type: book
     year: 2010
@@ -35,7 +35,7 @@ created: 2026-05-03
 ## Best Mediterranean Herbs for a Beginner [[fukuoka-citrus-orchard-ground-cover-cultivation]] or container specimen. Common thyme is the most versatile for cooking. Handles poor soil and full sun with ease.
 
 ### 3. Oregano (*Origanum vulgare*)
-Fast-growing and prolific — you'll have more than you need within months. Greek oregano offers the strongest flavor. Nearly indestructible once rooted; bounces back from over-harvesting.
+Fast-growing and prolific — you"ll have more than you need within months. Greek oregano offers the strongest flavor. Nearly indestructible once rooted; bounces back from over-harvesting.
 
 ### 4. Basil (*Ocimum basilicum*)
 The only tender annual on this list, but essential for Mediterranean cooking. Quick from seed (germinates in 5–10 days) and rewards frequent harvesting by growing bushier. Pinch flower buds to extend leaf production.

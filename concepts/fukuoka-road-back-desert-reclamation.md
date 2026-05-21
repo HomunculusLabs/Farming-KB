@@ -1,5 +1,5 @@
 ---
-title: Fukuoka's fukuoka-desert-reclamation-projects: Stopping the Advance of Deserts
+title: Fukuoka"s fukuoka-desert-reclamation-projects: Stopping the Advance of Deserts
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
@@ -7,7 +7,7 @@ tags: [regenerative, farming, desertification, regenerative]
 sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
-## Fukuoka's Desert Reclamation: Stopping the Advance of Deserts
+## Fukuoka"s Desert Reclamation: Stopping the Advance of Deserts
 
 updated: 2026-04-21
 

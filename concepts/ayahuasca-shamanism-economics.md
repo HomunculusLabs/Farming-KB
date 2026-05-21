@@ -13,7 +13,7 @@ disparities. As [[ayahuasca-tourism]] is the enormous
 income differential between shamans who serve foreign tourists and the
 surrounding local population. One practitioner in the [[ayahuasca-ceremony-pharmacology-safety]] from a community and family practice
 into a commercial service has fundamentally altered its character. In a
-traditional ceremony conducted solely for the benefit of the shaman's
+traditional ceremony conducted solely for the benefit of the shaman"s
 relatives and community, the ritual carries deep personal and social meaning.
 The shaman knows the participants, understands their histories and needs, and
 can tailor the ceremony accordingly.
@@ -44,7 +44,7 @@ region documented several distinct types:
 
 One elderly shaman, referred to as "B," hosted nightly ceremonies in a
 ceremonial hut behind his home in Yarina, near Pucallpa. His son served as
-the director of the family's religious practice and conducted workshops in
+the director of the family"s religious practice and conducted workshops in
 the [[shipibo-san-francisco-ceremonial-center-ucayali]], a practitioner known as "E" was widely
 regarded as an honorable man. At night, icaros could be heard coming from
 his home during private family ceremonies. He charged about ten dollars per
@@ -53,7 +53,7 @@ motivated more by service than profit maximization.
 
 ### The Entrepreneurial Shaman
 
-B's nephew represented a new generation of commercially-minded practitioners.
+B"s nephew represented a new generation of commercially-minded practitioners.
 He earned a couple hundred dollars per month from tourists while his
 neighbors lived in extreme poverty. His success was partly due to
 enterprising business instincts rather than traditional spiritual authority.

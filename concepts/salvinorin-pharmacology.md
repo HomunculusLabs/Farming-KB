@@ -21,7 +21,7 @@ subsequently isolated and characterized through [[belladonna-plant]]): Act as an
   g the endogenous opioid system
 
 The kappa-opioid receptor system is involved in the modulation of
-perception, mood, consciousness, and the body's response to stress
+perception, mood, consciousness, and the body"s response to stress
 and pain. Activation of KOR produces a distinctive state
 characterized by profound alterations in sensory perception, spatial
 awareness, and the sense of self, along with dissociative effects and

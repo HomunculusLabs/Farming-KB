@@ -9,7 +9,7 @@ sources: [raw/papers/gottlieb-a-the-psilocybin-producers-guide.md]
 
 ## Psilocybian Species Cultivation Parameters
 
-Detailed cultivation data for psilocybin-bearing mushroom species compiled from Adam Gottlieb's *The Psilocybin Producers Guide* (1976). This resource complements the general [[bigwood-beug-miniculture-rye-grain-flush-variation-method]] |
+Detailed cultivation data for psilocybin-bearing mushroom species compiled from Adam Gottlieb"s *The Psilocybin Producers Guide* (1976). This resource complements the general [[bigwood-beug-miniculture-rye-grain-flush-variation-method]] |
 | Optimal MEA growth | 80°F (27°C) |
 
 One of the more potent tropical psilocybian species. Spores germinate readily on all standard [[psilocybin-potency-dosage-guide]] for dosing considerations.

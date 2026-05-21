@@ -17,7 +17,7 @@ type: comparison
 
 ## Overview
 
-**Comfrey tea** and **compost tea** are both liquid organic fertilizers widely used in permaculture and organic growing, but they are produced by fundamentally different processes and deliver different benefits. Comfrey tea is a fermented extract made by steeping comfrey leaves (*[[knf-water-soluble-potassium-detailed]], moderate phosphorus, and trace minerals mined by comfrey's deep taproot from subsoil layers. Compost tea supplies living bacteria, fungi, protozoa, and nematodes that improve nutrient cycling, disease suppression, and soil structure.
+**Comfrey tea** and **compost tea** are both liquid organic fertilizers widely used in permaculture and organic growing, but they are produced by fundamentally different processes and deliver different benefits. Comfrey tea is a fermented extract made by steeping comfrey leaves (*[[knf-water-soluble-potassium-detailed]], moderate phosphorus, and trace minerals mined by comfrey"s deep taproot from subsoil layers. Compost tea supplies living bacteria, fungi, protozoa, and nematodes that improve nutrient cycling, disease suppression, and soil structure.
 
 ## Nutrient Profiles
 

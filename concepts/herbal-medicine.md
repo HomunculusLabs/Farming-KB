@@ -46,7 +46,7 @@ Growing medicinal herbs provides self-reliance for common ailments, connects you
 
 ### Skin / Wound Healing
 7. **Calendula (Calendula officinalis)** — Flowers. Anti-inflammatory, wound healing, lymphatic. Prolific bloomer, self-sows. Harvest flower heads at peak bloom. Annual.
-8. **Plantain (Plantago major, P. lanceolata)** — Leaves. Wound healing, drawing (splinters, bites), digestive. Common "weed" — learn to ID, don't eradicate. Harvest leaves anytime.
+8. **Plantain (Plantago major, P. lanceolata)** — Leaves. Wound healing, drawing (splinters, bites), digestive. Common "weed" — learn to ID, don"t eradicate. Harvest leaves anytime.
 9. **Yarrow (Achillea millefolium)** — Flowers and leaves. Wound styptic, fever reducer, digestive bitter. Drought-tolerant perennial. Harvest flowers at peak. Zones 3-9.
 
 ### Digestive / Respiratory
@@ -129,12 +129,12 @@ Growing medicinal herbs provides self-reliance for common ailments, connects you
 
 ## Reference Books and Websites
 
-- "The Herbal Medicine-Maker's Handbook" — James Green
-- "Rosemary Gladstar's Medicinal Herbs: A Beginner's Guide" — Rosemary Gladstar
+- "The Herbal Medicine-Maker"s Handbook" — James Green
+- "Rosemary Gladstar"s Medicinal Herbs: A Beginner's Guide" — Rosemary Gladstar
 - "The Encyclopedia of Herbal Medicine" — Andrew Chevallier
 - "Body Into Balance" — Maria Noël Groves
 - "Making Plant Medicine" — Richo Cech (Horizon Herbs)
-- "Medicinal Herbs: A Beginner's Guide" — Rosemary Gladstar
+- "Medicinal Herbs: A Beginner"s Guide" — Rosemary Gladstar
 - Mountain Rose Herbs blog (mountainroseherbs.com)
 - Herbal Academy (herbalacademy.com)
 - Chestnut School of Herbal Medicine (chestnutherbs.com)

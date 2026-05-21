@@ -15,7 +15,7 @@ Mycoremediation is the use of fungal mycelium to break down or sequester toxic c
 
 ## Why Fungi?
 
-Fungi are among nature's most versatile organisms in structure, metabolism, ecology, and genomics. Key advantages (Singh 2006):
+Fungi are among nature"s most versatile organisms in structure, metabolism, ecology, and genomics. Key advantages (Singh 2006):
 
 - Fungal mycelial networks may cover several hectares of forest floor — fungi are considered "true ecosystem engineers" (Lawton and Jones, 1995)
 - Most fungal cells are totipotent — the entire organism can regenerate from spores or hyphal fragments

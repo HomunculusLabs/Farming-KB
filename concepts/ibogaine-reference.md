@@ -68,7 +68,7 @@ Ibogaine is a chiral molecule — the natural form is a racemic mixture of (+)- 
 ### Active Metabolite: Noribogaine
 
 - Ibogaine metabolized by CYP2D6 (significant genetic polymorphism) into noribogaine
-- Noribogaine half-life: 28-49 hours (vs. ibogaine's 4-7 hours)
+- Noribogaine half-life: 28-49 hours (vs. ibogaine"s 4-7 hours)
 - Retains activity at opioid and serotonin receptors
 - Many researchers believe noribogaine is primarily responsible for anti-addictive effects, persisting days to weeks after a single dose
 

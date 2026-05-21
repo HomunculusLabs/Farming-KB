@@ -10,7 +10,7 @@ tags:
 
 The Mahayana/Hinayana framework has concrete practical implications for anyone attempting natural farming:
 
-- **Beginners** should start with Hinayana approaches: observe abandoned land, minimize inputs, study natural patterns before acting. The key practice is "not doing" — not in the sense of laziness, but in the sense of not imposing one's will on the land.
+- **Beginners** should start with Hinayana approaches: observe abandoned land, minimize inputs, study natural patterns before acting. The key practice is "not doing" — not in the sense of laziness, but in the sense of not imposing one"s will on the land.
 
 - **Intermediate practitioners** gradually reduce assumptions and preconceptions about how farming "should" work. This means questioning not just specific techniques but the entire framework of cause-and-effect reasoning that underlies agricultural science.
 

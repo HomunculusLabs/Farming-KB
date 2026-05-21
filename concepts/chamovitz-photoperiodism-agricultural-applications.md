@@ -10,7 +10,7 @@ source: grahamholmes-what-a-plant-knowsindd.md (blesching-cannabinoid-pharmacolo
 In 1906, tobacco farmers in southern Maryland noticed a new strain
 that never stopped growing. It could reach 4.5 metres in height and
 produce nearly a hundred leaves, but rarely flowered. This was a
-serious problem: farmers needed seed from flowers for the next year's
+serious problem: farmers needed seed from flowers for the next year"s
 crop.
 
 ### The Experiment
@@ -118,5 +118,3 @@ Collaborative research networks facilitate knowledge exchange and accelerate inn
 Context-specific implementation requires attention to local ecology, climate patterns, and community needs.
 Integration with existing systems often yields better results than complete replacement strategies.
 Monitoring and adaptive management are essential for long-term success and continuous improvement.
-## Practical Applications
-The principles discussed here have direct applications in agricultural systems, ecological restoration, and sustainable resource management.

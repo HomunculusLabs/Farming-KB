@@ -14,7 +14,7 @@ The concept of annidation involves nesting any sort of smaller pond or containme
 
 ### Cages and Ring Nets
 
-Cages and ring nets in large bodies of water allow control of feeding, harvesting, and disease in caged, netted, or fenced-off fish. The contained fish benefit from the larger body of water's water quality and thermal buffering while being concentrated for management.
+Cages and ring nets in large bodies of water allow control of feeding, harvesting, and disease in caged, netted, or fenced-off fish. The contained fish benefit from the larger body of water"s water quality and thermal buffering while being concentrated for management.
 
 **Applications:**
 

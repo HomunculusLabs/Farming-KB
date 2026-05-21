@@ -16,8 +16,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - " Cannabis Now. 'The Real Story Behind Pineapple Express.' https://cannabisnow.com"---
----
+  - " Cannabis Now. "The Real Story Behind Pineapple Express.' https://cannabisnow.com"---
 
 ## Pineapple Express
 

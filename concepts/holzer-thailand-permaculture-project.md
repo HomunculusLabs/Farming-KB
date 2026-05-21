@@ -13,7 +13,7 @@ A [[fungal-building-material-deterioration]]. Storage rooms and even houses coul
 
 ## LOVE ~ PEACE Water Landscape
 
-The central design feature involves shaping approximately 50 hectares of land into ponds arranged in the form of the words "LOVE ~ PEACE." Water is diverted into the first letter 'L' and back out at the final letter 'E,' with the letter 'E' shaped into the deepest pond.
+The central design feature involves shaping approximately 50 hectares of land into ponds arranged in the form of the words "LOVE ~ PEACE." Water is diverted into the first letter "L' and back out at the final letter 'E,' with the letter 'E' shaped into the deepest pond.
 
 ### Pond Design Principles
 Within the individual ponds, deep and shallow areas accommodate the different requirements of various types of fish, crayfish, crabs, and mussels (see [[comparison-chinampas-vs-raised-bed-gardening]] — a design approach detailed in microclimate-creation-permaculture such as dry areas and "mini rainforests" — a precursor to the holzer-fruit-tree-planting-method and also used extensively at the Krameterhof. This technique involves planting trees in excavated trenches that collect water and [[mollison-designers-microclimate-creation-frost-protection]], recreation, and wildlife habitat simultaneously

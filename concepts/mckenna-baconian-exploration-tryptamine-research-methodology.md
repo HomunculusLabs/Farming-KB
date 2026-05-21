@@ -4,7 +4,7 @@ aliases: ["Baconian tryptamine research", "McKenna explorer not scientist"]
 tags: [dmt, tryptamines, research-methodology, mckenna, consciousness-studies]
 ---
 
-## McKenna's Baconian Exploration Methodology for Tryptamine Research
+## McKenna"s Baconian Exploration Methodology for Tryptamine Research
 
 ## Overview
 

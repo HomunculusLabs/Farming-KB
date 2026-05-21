@@ -16,7 +16,7 @@ endogenous ligand anandamide (AEA), the primary phytocannabinoids
 THC and CBD, and the dietary CB2 agonist (E)-beta-caryophyllene.
 Each interacts with the endocannabinoid system through distinct
 mechanisms, producing overlapping yet differentiated therapeutic
-effects across the body's receptor networks.
+effects across the body"s receptor networks.
 
 ## Anandamide (AEA) — The Bliss Molecule
 

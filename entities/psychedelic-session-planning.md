@@ -64,7 +64,7 @@ Psychedelic session planning refers to the systematic preparation for a psychede
 - Should have considerable personal psychedelic experience
 - The greatest problem is fear — almost every negative reaction traced to guide fear communicating to subject
 - Recommended: one guide takes low dose with subject, one stays sober for practical matters
-- Guides should not take large doses with new subjects (risk of being pulled into subject's hallucinatory field)
+- Guides should not take large doses with new subjects (risk of being pulled into subject"s hallucinatory field)
 
 ### Group Composition
 
@@ -84,7 +84,7 @@ Psychedelic session planning refers to the systematic preparation for a psychede
 
 ## Relevance to Cultivation and Mycology
 
-- Leary's psilocybin dosage range (40-60 mg synthetic psilocybin) corresponds to approximately 4-6 grams of dried Psilocybe cubensis mushrooms, consistent with modern heavy-dose protocols
+- Leary"s psilocybin dosage range (40-60 mg synthetic psilocybin) corresponds to approximately 4-6 grams of dried Psilocybe cubensis mushrooms, consistent with modern heavy-dose protocols
 - The three-day scheduling recommendation (preparation, session, integration) is now standard in clinical psychedelic research at institutions like Johns Hopkins
 - The guide-as-ground-control model directly influenced the modern "trip sitting" paradigm and clinical monitor protocols
 - The warning about guide fear causing negative reactions has been validated by modern research on the importance of therapist confidence and equanimity

@@ -15,7 +15,7 @@ Bioluminescent fungi produce light through a chemical reaction within their myce
 
 ## Key Species
 
-### Omphalotus olearius (Jack-o'-Lantern)
+### Omphalotus olearius (Jack-o"-Lantern)
 
 Found in Europe and North America on hardwood stumps and roots. Produces a bright greenish glow in the gills. Often mistaken for chanterelles, which it somewhat resembles. O. olearius is poisonous — it contains the compound illudin S, which causes severe gastrointestinal distress. The luminescence is visible to the dark-adapted eye and can be quite striking. Related species O. nidiformis (ghost fungus) occurs in Australia.
 

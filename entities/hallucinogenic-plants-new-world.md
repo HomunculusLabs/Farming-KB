@@ -22,7 +22,7 @@ sources:
 
 # Hallucinogenic Plants of the New World
 
-Based on [[richard-evans-schultes-updated]]'s Golden Guide. The New World has far more hallucinogenic species in active cultural use (90+) than the Old World (15-20). This disparity is not explained by botanical distribution — Old World plants like Cannabis and Amanita have been largely abandoned for hallucinogenic use. See hallucinogenic plants new world for Old World species.
+Based on [[richard-evans-schultes-updated]]"s Golden Guide. The New World has far more hallucinogenic species in active cultural use (90+) than the Old World (15-20). This disparity is not explained by botanical distribution — Old World plants like Cannabis and Amanita have been largely abandoned for hallucinogenic use. See hallucinogenic plants new world for Old World species.
 
 ---
 
@@ -68,7 +68,7 @@ Based on [[richard-evans-schultes-updated]]'s Golden Guide. The New World has fa
 ### Psilocybin Mushrooms — Psilocybe, Stropharia, Conocybe, Panaeolus
 - **Distribution**: Cosmopolitan; highest diversity in subtropical and tropical Americas
 - **Use**: Mesoamerican mushroom cult (teonanacatl — "flesh of the gods") documented from pre-Columbian times through present among Mazatec, Mixtec, Zapotec, Chatino, and other Oaxacan peoples. Richard Evans Schultes identified teonanacatl as a mushroom in 1938. See [[r-gordon-wasson]] for the famous 1955 Velada Maria Sabina experience.
-- **Species**: Psilocybe mexicana (Schultes's original identification), P. caerulescens, P. zapotecorum, P. cubensis, Stropharia cubensis, Conocybe cyanopus, Panaeolus sphinctrinus, among others
+- **Species**: Psilocybe mexicana (Schultes"s original identification), P. caerulescens, P. zapotecorum, P. cubensis, Stropharia cubensis, Conocybe cyanopus, Panaeolus sphinctrinus, among others
 - **Chemistry**: Psilocybin (O-phosphoryl-4-hydroxy-N,N-dimethyltryptamine) and psilocin. Psilocybin is an acidic phosphoric acid ester — a completely new type of natural structure. First isolated from European P. semilanceata by [[albert-hofmann]] in 1958
 - **Effects**: Similar to LSD; colorful visual hallucinations. Dosage varies by species and preparation
 

@@ -16,7 +16,7 @@ the broader fertility worldview where creation and destruction are two faces of 
 The ancient understanding of conception placed menstrual blood at the centre of the
 generative process. Pliny records: "(menses is) the material for human generation, as
 semen from the male acting like rennet collects this substance within it." The male
-contribution was a coagulating agent that gathered and shaped the female's blood into
+contribution was a coagulating agent that gathered and shaped the female"s blood into
 an embryo.
 
 This framework explained infertility plainly: women who do not menstruate cannot bear
@@ -45,8 +45,8 @@ is a religious state of taboo—a recognition that the woman at this time is cha
 creative power so potent that ordinary human contact becomes dangerous.
 
 The narrative utility of this taboo appears in Genesis 31:34, when Rachel conceals her
-father Laban's stolen household gods by sitting upon them, claiming she cannot rise
-because she is in "the manner of women." Laban's reluctance to search further
+father Laban"s stolen household gods by sitting upon them, claiming she cannot rise
+because she is in "the manner of women." Laban"s reluctance to search further
 demonstrates the taboo's depth—no man would violate the menstrual prohibition even
 to recover stolen property.
 
@@ -79,7 +79,7 @@ both royal robes and high dignity, linking political power to the same creative 
 that produced new life.
 
 Tyrian purple, the most prized dye of the [[acacia]] tree produced a "purple gum" that was used medicinally to check excessive
-menstruation. Amulets made from this gum were understood to carry the "tree's menstrual
+menstruation. Amulets made from this gum were understood to carry the "tree"s menstrual
 blood"—the plant kingdom's own generative substance, paralleling the human and earthly
 cycles.
 

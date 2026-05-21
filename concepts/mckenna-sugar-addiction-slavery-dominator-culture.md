@@ -56,7 +56,7 @@ production and shipping of sugar, chocolate, tea, and coffee, and of
 distilled alcohol, all of which are drugs, became the engine of global
 commerce.
 
-Our present global trading system was created to cater to people's
+Our present global trading system was created to cater to people"s
 inherent need for variety and stimulation. It did this with a single-
 minded intensity that brooked no interference from the church or the
 state. Neither moral scruples nor physical barriers were able to stand

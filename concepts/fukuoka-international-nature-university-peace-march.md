@@ -9,7 +9,7 @@ learn that the most productive approach to the land is to stop interfering with 
 entirely — to let nature cultivate itself.
 ---
 
-The university represented Fukuoka's answer to the growing ecological crisis. He
+The university represented Fukuoka"s answer to the growing ecological crisis. He
 believed that conventional agriculture, with its dependence on chemicals, machinery, and
 human manipulation, was accelerating the destruction of the planet. The International
 Nature University would serve as a model for an entirely different relationship between
@@ -34,7 +34,7 @@ results.
 
 ## The Paris Peace March
 
-Fukuoka's involvement in the **Paris Peace March** was a natural extension of his
+Fukuoka"s involvement in the **Paris Peace March** was a natural extension of his
 agricultural philosophy. For Fukuoka, peace was not a political arrangement to be
 negotiated between nations but a way of life rooted in humanity's relationship with
 the natural world. War, industrial agriculture, and environmental destruction were, in

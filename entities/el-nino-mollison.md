@@ -62,7 +62,7 @@ coast. During El Niño:
   and **excessive rainfall in others** (western South America, parts of North
   America).
 - Mollison notes that it is now clear that **oceanic circulation drives air
-  masses** rather than the reverse, emphasizing the ocean's dominant role in
+  masses** rather than the reverse, emphasizing the ocean"s dominant role in
   climate regulation.
 - The economic and agricultural impacts of El Niño affect millions of people
   worldwide, making it one of the most consequential climate phenomena for

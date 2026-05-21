@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-Across cultures, one of the most well-documented pathways to becoming a shaman is the experience of serious personal illness—often an illness that conventional medicine fails to cure. The Mazatec Indians of Oaxaca, Mexico, provide a particularly detailed ethnographic example of this pattern. The shaman [[roman-estrada]]'s account of his initiation, as documented by Henry Munn, reveals a structured process in which physical illness becomes psychological crisis, which becomes spiritual calling, which becomes professional vocation—and in which the acceptance of the calling is itself the final stage of the cure.
+Across cultures, one of the most well-documented pathways to becoming a shaman is the experience of serious personal illness—often an illness that conventional medicine fails to cure. The Mazatec Indians of Oaxaca, Mexico, provide a particularly detailed ethnographic example of this pattern. The shaman [[roman-estrada]]"s account of his initiation, as documented by Henry Munn, reveals a structured process in which physical illness becomes psychological crisis, which becomes spiritual calling, which becomes professional vocation—and in which the acceptance of the calling is itself the final stage of the cure.
 
 ## The Universal Pattern
 
@@ -29,7 +29,7 @@ The illness-initiation pattern is found in shamanic traditions worldwide:
 
 ### The Original Illness
 
-Estrada's crisis began with appendicitis—a straightforward physical condition. He was taken to a hospital, where he underwent surgery. The physical surgery was successful, but the psychological trauma of the experience devastated him:
+Estrada"s crisis began with appendicitis—a straightforward physical condition. He was taken to a hospital, where he underwent surgery. The physical surgery was successful, but the psychological trauma of the experience devastated him:
 
 - He had never been in a hospital in his life
 - He was suffocated with an ether mask—an experience of near-asphyxiation
@@ -51,7 +51,7 @@ The hospital doctors could not help because "there was nothing wrong with him ph
 
 ### The Failed Pilgrimage
 
-Estrada sought help from multiple sources: "No matter how much the doctors treated me, I didn't get well. I went to the Latin American Hospital. I went to Cordoba as well. I went to Mexico. I went to Tehuacan and wasn't alleviated." His unsuccessful medical pilgrimage through multiple institutions mirrors the experience of many patients with treatment-resistant psychological conditions who eventually turn to alternative healing systems.
+Estrada sought help from multiple sources: "No matter how much the doctors treated me, I didn"t get well. I went to the Latin American Hospital. I went to Cordoba as well. I went to Mexico. I went to Tehuacan and wasn't alleviated." His unsuccessful medical pilgrimage through multiple institutions mirrors the experience of many patients with treatment-resistant psychological conditions who eventually turn to alternative healing systems.
 
 ### The Mushroom Cure
 
@@ -75,11 +75,11 @@ The old shaman prepared three objects on a table:
 
 #### The Choice
 
-The shaman told Estrada to choose among these signs. Estrada refused—he wanted only to be cured, not to become a shaman. The shaman's response was decisive: "Here you don't give the orders. I am he who is going to say whether you receive this work or not."
+The shaman told Estrada to choose among these signs. Estrada refused—he wanted only to be cured, not to become a shaman. The shaman"s response was decisive: "Here you don"t give the orders. I am he who is going to say whether you receive this work or not."
 
 #### The Negation of Will
 
-The shaman's strategy was to negate the patient's will in order to arouse it. "It is no longer you who command," he was told. "You are too far gone to have any say in the matter." This paradoxical intervention—denying the patient's autonomy to stimulate autonomous desire—is reminiscent of therapeutic techniques in both psychoanalysis and hypnotherapy.
+The shaman"s strategy was to negate the patient's will in order to arouse it. "It is no longer you who command," he was told. "You are too far gone to have any say in the matter." This paradoxical intervention—denying the patient"s autonomy to stimulate autonomous desire—is reminiscent of therapeutic techniques in both psychoanalysis and hypnotherapy.
 
 #### The Voice of the Dead Father
 
@@ -99,11 +99,11 @@ Having accepted the vocation, Estrada was taught specific shamanic techniques. T
 
 ### The Inseparability of Cure and Vocation
 
-The crucial insight of the Mazatec system is that the cure is inseparable from the acceptance of vocation. The patient's neurosis—the repression of his creative forces—cannot be resolved by passive treatment alone. The patient must actively assume a new role in the community that releases these repressed forces. The "impulse to die" must be counterbalanced by a new "impulse to live" that comes from outside the self.
+The crucial insight of the Mazatec system is that the cure is inseparable from the acceptance of vocation. The patient"s neurosis—the repression of his creative forces—cannot be resolved by passive treatment alone. The patient must actively assume a new role in the community that releases these repressed forces. The "impulse to die" must be counterbalanced by a new "impulse to live" that comes from outside the self.
 
 ### Compensatory Vocation
 
-The new profession serves as compensation for the patient's sense of failure. Estrada had spent his life as a storekeeper, feeling he had never become the "important man" he aspired to be. The shamanic vocation offered him a role of genuine respect and authority—one that would cause his children to "remember him with respect and awe."
+The new profession serves as compensation for the patient"s sense of failure. Estrada had spent his life as a storekeeper, feeling he had never become the "important man" he aspired to be. The shamanic vocation offered him a role of genuine respect and authority—one that would cause his children to "remember him with respect and awe."
 
 ### Personality Reintegration
 
@@ -111,11 +111,11 @@ The acceptance of the calling is the mechanism by which the shattered personalit
 
 ### The "I Who Is Another"
 
-The initiation process enacts Rimbaud's dictum "I is another" (*Je est un autre*). The voice of the dead father, heard during the mushroom experience, is the patient's own super-ego speaking in a form he cannot recognize as his own. The shaman interprets this voice, giving the patient permission to accept a new identity that is simultaneously himself and something more than himself.
+The initiation process enacts Rimbaud"s dictum "I is another" (*Je est un autre*). The voice of the dead father, heard during the mushroom experience, is the patient"s own super-ego speaking in a form he cannot recognize as his own. The shaman interprets this voice, giving the patient permission to accept a new identity that is simultaneously himself and something more than himself.
 
 ## Resistance as Necessary Stage
 
-The patient's initial resistance to the vocation is not an obstacle to be overcome but a necessary stage in the process. The resistance represents the dying self's last grip on its familiar identity. Only by exhausting this resistance—by demonstrating that the old self has nothing left to offer—can the new self emerge. The shaman's authoritarian negation of the patient's will ("Here you don't give the orders") paradoxically creates the conditions for genuine autonomous choice.
+The patient's initial resistance to the vocation is not an obstacle to be overcome but a necessary stage in the process. The resistance represents the dying self's last grip on its familiar identity. Only by exhausting this resistance—by demonstrating that the old self has nothing left to offer—can the new self emerge. The shaman's authoritarian negation of the patient's will ("Here you don"t give the orders") paradoxically creates the conditions for genuine autonomous choice.
 
 ## The Shaman as Secular Priest
 

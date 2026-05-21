@@ -15,7 +15,7 @@ Main-lining is a systematic [[low-stress-training]] (bending and tying branches)
 
 ## Core Concept
 
-Main-lining works by removing the plant's natural apical dominance (the tendency to grow one tall central cola) and replacing it with a manifold of equal branches. Each branch is trained to grow in its own designated quadrant, creating a symmetrical "hub and spoke" pattern. The result is a plant where every cola receives similar light exposure, airflow, and nutrient supply, producing uniform buds across the entire canopy.
+Main-lining works by removing the plant"s natural apical dominance (the tendency to grow one tall central cola) and replacing it with a manifold of equal branches. Each branch is trained to grow in its own designated quadrant, creating a symmetrical "hub and spoke" pattern. The result is a plant where every cola receives similar light exposure, airflow, and nutrient supply, producing uniform buds across the entire canopy.
 
 The technique is sometimes called "manifolding" because the trained branch structure resembles a plumbing manifold -- a central hub with evenly spaced outlets.
 

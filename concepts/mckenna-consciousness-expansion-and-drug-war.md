@@ -9,7 +9,7 @@ sources: [papers/mckenna_t-tryptamines_consciousness.md]
 
 ## Consciousness Expansion and the Drug War
 
-## The Psychedelic as the Dominator's Nightmare
+## The Psychedelic as the Dominator"s Nightmare
 
 The [[mckenna-suppression-psychedelic-research-lsd-therapy]] was shut down, the counterculture was infiltrated and disrupted, and the drug war was launched — a domestic military operation that has cost hundreds of billions of dollars and destroyed millions of lives, while doing nothing to reduce the availability of drugs.
 
@@ -32,7 +32,7 @@ The international dimension of the drug war is equally revealing. The United Sta
 
 ## The Hypocrisy of Drug Policy
 
-The drug war's hypocrisy is staggering. The same government that criminalizes cannabis has protected the opium trade in Afghanistan, supported cocaine-trafficking Contras in Nicaragua, and turned a blind eye to the amphetamine epidemic among its own soldiers. The pharmaceutical industry, which profits enormously from the sale of legal psychoactive substances, has been a consistent supporter of drug prohibition.
+The drug war"s hypocrisy is staggering. The same government that criminalizes cannabis has protected the opium trade in Afghanistan, supported cocaine-trafficking Contras in Nicaragua, and turned a blind eye to the amphetamine epidemic among its own soldiers. The pharmaceutical industry, which profits enormously from the sale of legal psychoactive substances, has been a consistent supporter of drug prohibition.
 
 The drug war has nothing to do with health and everything to do with power. It is a tool for maintaining the dominator order by criminalizing the most effective agents of consciousness expansion and by destroying the communities that are most likely to challenge the established order.
 

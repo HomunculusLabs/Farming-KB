@@ -65,7 +65,7 @@ Winter snowpack provides insulation against extreme cold. Plants are adapted to 
 
 Flowering occurs from June to July. The pendulous flower orientation and tubular corolla suggest adaptation to bee pollination.
 
-Bumblebees (Bombus spp.) are the primary pollinators, crawling into the hanging flowers to reach nectar. The fused anther tube ensures pollen is deposited on the bee's dorsal surface.
+Bumblebees (Bombus spp.) are the primary pollinators, crawling into the hanging flowers to reach nectar. The fused anther tube ensures pollen is deposited on the bee"s dorsal surface.
 
 The monocarpic life cycle represents a bet-hedging strategy. The plant invests all resources into a single reproductive event, producing abundant seed before dying.
 

@@ -9,7 +9,7 @@ type: concept
 ---
 # Domestic Small Animals in Zone One
 
-In Permaculture: A Designers' Manual, Bill Mollison assigns
+In Permaculture: A Designers" Manual, Bill Mollison assigns
 small, quiet domestic animals to Zone 1, the area immediately
 surrounding the home. These animals fish, rabbits, pigeons,
 guinea pigs, and the [[mollison-tropical-home-garden-design]] garden, the guinea pig aids small tree

@@ -7,7 +7,7 @@ type: concept
 ## Amanita Muscaria Ibotenic Acid Muscimol and Epilepsy Treatment
 
 The [[amanita-muscaria]] mushroom contains two principal active compounds — [[ibotenic-acid]]
-and its decarboxylation product muscimol — that interact directly with the brain's most
+and its decarboxylation product muscimol — that interact directly with the brain"s most
 fundamental neurotransmitter systems. Modern neuropharmacology has demonstrated that
 these compounds possess genuine anticonvulsant and neuroprotective properties, lending
 scientific weight to the ancient reverence in which this mushroom was held as a medicine
@@ -42,7 +42,7 @@ miraculous to observers who had no concept of neurotransmitters or [[cannabis-an
 that ancient peoples understood through their own cultural and religious framework. The
 mushroom's ability to reduce seizure activity would have been experienced as a miraculous
 liberation, and each successful "exorcism" would have powerfully reinforced both the
-healer's reputation and the sacred status of the medicine.
+healer"s reputation and the sacred status of the medicine.
 
 ## Ibotenic Acid as Medicine
 
@@ -54,7 +54,7 @@ of the glutamate-GABA axis in neurological health.
 
 It is important to note that references to muscimol as a "toxin" in the scientific
 literature largely reflect the bias of papers dealing with "[[amanita-muscaria-medicinal-properties-heart-anxiety-dreams]]. This
-framing bias has historically obscured the mushroom's medical significance.
+framing bias has historically obscured the mushroom"s medical significance.
 
 Tiagabine (marketed as Gabatril) is a synthetic drug developed directly from ibotenic
 acid and muscimol research. A nipecotic acid derivative that enhances GABAergic

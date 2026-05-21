@@ -20,7 +20,7 @@ type: concept
 
 ## Bwiti Iboga Ceremonies: Ancestor Communication and Addiction Treatment
 
-[[ralph-metzner]]'s 1998 comparative framework identifies the Bwiti cult among
+[[ralph-metzner]]"s 1998 comparative framework identifies the Bwiti cult among
 the Fang people of Gabon and Zaire as a significant example of entheogenic
 practice that spans both [[plants-of-the-gods-tabernanthe-iboga-chemistry]]*), from
 which ibogaine is derived, in temple ceremonies involving ancestor

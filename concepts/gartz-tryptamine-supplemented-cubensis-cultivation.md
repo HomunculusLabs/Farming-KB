@@ -10,7 +10,7 @@ type: concept
 
 ## Gartz: Tryptamine-Supplemented Cubensis Cultivation
 
-Dr. Jochen Gartz's 1989 paper in *Planta Medica* (Vol. 55, pp. 249-250)
+Dr. Jochen Gartz"s 1989 paper in *Planta Medica* (Vol. 55, pp. 249-250)
 documented a groundbreaking discovery: supplementing the cultivation substrate
 of *[[psilocybin-biosynthesis-pathway]].
 

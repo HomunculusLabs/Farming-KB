@@ -19,7 +19,7 @@ type: concept
 
 ## Clay Seed Pellets for Direct Seeding
 
-Clay seed pellets are a core technology in Fukuoka's [[forest-and-bamboo-beneficial-microorganisms]]. The finished pellets are roughly the size of a small marble — large enough to handle and broadcast easily, small enough to settle into ground-level crevices.
+Clay seed pellets are a core technology in Fukuoka"s [[forest-and-bamboo-beneficial-microorganisms]]. The finished pellets are roughly the size of a small marble — large enough to handle and broadcast easily, small enough to settle into ground-level crevices.
 
 The seed mixture for revegetation projects includes green manure trees (such as black wattle, which grows in areas with less than 2 inches of annual rainfall), clover, alfalfa, bur clover, and other green manure species, combined with grain and vegetable seeds. The diversity ensures that some species will survive regardless of local conditions.
 
@@ -51,13 +51,13 @@ Fukuoka proposed that "all we have to do is get the deserts blanketed rapidly wi
 
 Fukuoka created a rice variety he called "Happy Hill" through decades of natural selection on his farm. Containing "the blood of wild variants," it is both one of the hardiest and one of the highest-yielding rice strains in the world. He calculated that a single head of Happy Hill rice, sown over a 10-square-yard area, would yield 5,000 grains in one year. This seed could sow a half-acre the following year, 50 acres two years later, and 7,000 acres in the fourth year.
 
-Combined with clay pellet technology, this variety represented Fukuoka's answer to world hunger: "This handful of grain could open up the road to independence for a starving people." The seed rice must be delivered as soon as possible, he urged — even one person can begin.
+Combined with clay pellet technology, this variety represented Fukuoka"s answer to world hunger: "This handful of grain could open up the road to independence for a starving people." The seed rice must be delivered as soon as possible, he urged — even one person can begin.
 
 ## Advantages Over Conventional Seeding
 
 Clay pellet direct seeding offers several advantages over [[fukuoka-textdoc-sparse-seeding-natural-high-yield-rice]] to dense seeding, then back to sparse before settling on broadcasting. The key insight was that seeds do not require precise placement in prepared soil — they require protection from predation, appropriate moisture conditions, and contact with living soil biology. Clay pellets provide all three without any soil preparation.
 
-## Fukuoka's Discovery of Natural Seeding
+## Fukuoka"s Discovery of Natural Seeding
 
 The original inspiration came from an observation during Fukuoka's work on the yellow [[fukuoka-textdoc-perennial-rice-biennial-cultivation-exploration]] and eventually to the clay pellet system.
 

@@ -20,7 +20,7 @@ tags:
   - polygraph
   - plant-consciousness
   - biocommunication
-sources: ['masanobu-fukuoka-the-road-back-to-nature.md']
+sources: ["masanobu-fukuoka-the-road-back-to-nature.md']
 ---
 
 ## Cleve Backster
@@ -52,7 +52,7 @@ responsiveness to human presence and intention.
 
 ## The Threat Experiment
 
-Backster's most famous experiment followed the initial observation. He decided
+Backster"s most famous experiment followed the initial observation. He decided
 to threaten the plant by burning one of its leaves with a match. According to
 his account, the polygraph recording showed a massive spike at the precise
 moment he formed the conscious intention to burn the leaf — before any physical

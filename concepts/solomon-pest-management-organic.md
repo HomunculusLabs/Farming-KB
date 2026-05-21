@@ -12,7 +12,7 @@ sources:
 
 Source: Steve Solomon, "Gardening When It Counts" (2005)
 
-## Solomon's Pest Philosophy: Questioning the Doctrine
+## Solomon"s Pest Philosophy: Questioning the Doctrine
 
 The [[solomon-insects-and-diseases-integrated-approach]] will attack any plant they can reach. The "resistant through organic methods" doctrine is dangerous because it causes gardeners to be unprepared, losing crops when simple, timely interventions would have saved them.
 

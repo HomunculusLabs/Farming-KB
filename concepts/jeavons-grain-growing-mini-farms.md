@@ -35,7 +35,7 @@ entire year.
 
 ### Current Achievements
 
-Ecology Action's highest wheat yield is about 21 pounds per
+Ecology Action"s highest wheat yield is about 21 pounds per
 100-square-foot bed, using about 10 inches of water for the whole
 season with compost grown on-site and minimal purchased fertilizer.
 The Zulus in South Africa use a similar technique and grow grains
@@ -74,7 +74,7 @@ continuous cropping of them has been demonstrated to wear out the
 soil.
 
 It is essential to develop and work within natural sustainable
-cycles. The [[biodiversity-fungal-genetic-diversity]], see Ecology Action's Self-Teaching
+cycles. The [[biodiversity-fungal-genetic-diversity]], see Ecology Action"s Self-Teaching
 Mini-Series Booklet "Growing to Seed."
 
 ## Integration with the Mini-Farm System

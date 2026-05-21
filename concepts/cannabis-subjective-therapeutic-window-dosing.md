@@ -14,7 +14,7 @@ For example, cannabis has long been used to reduce anxiety and return to a state
 
 ## Factors That Determine Your Therapeutic Window
 
-Establishing one's therapeutic window is governed by three primary factors:
+Establishing one"s therapeutic window is governed by three primary factors:
 
 ### 1. The Body's Present Endocannabinoid State
 The current balance or deficiency in your endocannabinoid system directly affects how you respond to cannabis. This includes:

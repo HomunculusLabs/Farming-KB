@@ -10,7 +10,6 @@ date: 2026-05-09
 updated: 2026-05-09
 sources:
   - Mathew, B. (2002). "The Genus Narcissus." Royal Botanic Gardens, Kew.---
----
 
 ## Overview
 

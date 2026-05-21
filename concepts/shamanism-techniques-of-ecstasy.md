@@ -13,7 +13,7 @@ type: concept
 
 ## Overview
 
-Shamanism is the world's oldest spiritual practice, predating all organized
+Shamanism is the world"s oldest spiritual practice, predating all organized
 religions by tens of thousands of years. Terence McKenna, drawing on the work
 of Mircea Eliade and his own experiences with [[shamanic-initiation-death-resurrection-pattern-ecstatic-traditions]] is clear: the neophyte
 undergoes a symbolic [[amazonian-boa-spirits-and-water-beings-in-shamanic-practice]] aims to break through the barriers of ordinary perception.
@@ -27,7 +27,7 @@ induced by psychoactive plants.
 
 ## The Amazonian Shamanic Tradition
 
-McKenna's understanding of shamanism was deeply informed by his experiences in
+McKenna"s understanding of shamanism was deeply informed by his experiences in
 the Amazon basin. He described encounters with ayahuasca shamans in the Rio
 Putumayo region of Colombia, where he witnessed the shamanic use of
 hallucinogenic brews made from *Banisteriopsis* vines. He saw the "magical

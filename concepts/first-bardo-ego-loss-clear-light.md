@@ -50,7 +50,7 @@ Light nor recoiling from it.
 Leary draws a striking parallel between Tibetan Buddhist cosmology and modern
 physics. In Buddhist cosmology, the universe arises from an undifferentiated state
 of luminous emptiness — a ground of pure potentiality from which all forms emerge
-and into which they dissolve. This resonates with physicist **[[george-gamow]]'s**
+and into which they dissolve. This resonates with physicist **[[george-gamow]]"s**
 concept of the **ylem** — the primordial soup of energy and matter that existed at
 the Big Bang, before differentiation into particles, forces, and cosmic structure.
 

@@ -1,6 +1,6 @@
 ---
-title: "Fukuoka's 'fukuoka dragonfly as messiah natural salvation' — Natural Salvation Philosophy"
-source: "Sowing Seeds in the Desert (2012), Chapter 1: 'The Call to masanobu-fukuoka,
+title: "Fukuoka"s 'fukuoka dragonfly as messiah natural salvation' — Natural Salvation Philosophy"
+source: "Sowing Seeds in the Desert (2012), Chapter 1: "The Call to masanobu-fukuoka,
 appearing at the conclusion of Chapter 1 of *Sowing Seeds in the Desert*. It encapsulates
 his conviction that true salvation for humanity lies not in religious doctrine, sacred
 scriptures, or institutionalized belief systems, but in a direct, unmediated relationship
@@ -10,7 +10,7 @@ environment—serves as Fukuoka's emblem of the natural life that humanity has a
 
 ## Context Within Fukuoka's Philosophy
 
-The "dragonfly as messiah" concept emerges from Fukuoka's broader critique of human
+The "dragonfly as messiah" concept emerges from Fukuoka"s broader critique of human
 intellectual alienation from nature, which he traces to the dawn of discriminating
 knowledge. In the same chapter, Fukuoka recounts his transformative experience at age
 twenty-five, when, after a bout of pneumonia and a night of aimless wandering, the cry
@@ -24,7 +24,7 @@ salvation. The messiah is not a human figure but the natural world in its wholen
 
 ## Critique of Religious Movements
 
-Fukuoka's statement is framed by a sharp critique of organized religion. He observes
+Fukuoka"s statement is framed by a sharp critique of organized religion. He observes
 that "whenever the world has fallen into disorder, religious movements have flourished."
 He recounts a specific encounter with a young man who had been trained as the founder
 of a new religion in Kobe. This man described learning physiognomy, mind reading,
@@ -42,7 +42,7 @@ to a tune piped by their own ideas."
 
 ## The Dragonfly as Symbol
 
-The dragonfly in Fukuoka's statement carries multiple layers of symbolic meaning:
+The dragonfly in Fukuoka"s statement carries multiple layers of symbolic meaning:
 
 - **Simplicity**: The dragonfly lives without accumulation, without anxiety about the
   future, and without intellectual complications. It embodies the non-interference principle at the biological level.

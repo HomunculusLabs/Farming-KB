@@ -11,7 +11,7 @@ created: 2026-05-10
 The soil food web is the complex community of organisms living in soil — bacteria, fungi, protozoa,
 nematodes, microarthropods, and larger organisms — that interact with each other and with plants in a
 mutually beneficial ecosystem. The concept was popularized and extensively researched by Dr. Elaine R.
-Ingham, founder of Soil Foodweb Inc. and one of the world's foremost soil microbiologists.
+Ingham, founder of Soil Foodweb Inc. and one of the world"s foremost soil microbiologists.
 
 ## Overview
 

@@ -44,7 +44,7 @@ sources: ["domain-knowledge"]
 - **CBG:** Minor presence, contributes to anti-inflammatory properties
 - **THCV:** Trace amounts
 - **Total cannabinoids:** Approximately 16–21%
-- **Consistency:** One of Skunk #1's defining hallmarks — reliable potency regardless of
+- **Consistency:** One of Skunk #1"s defining hallmarks — reliable potency regardless of
   grow conditions or [[mckenna-cannabis-culture-history]]
 - **Flavor profile:** Earthy and sweet on inhale; smooth with lingering skunky sweetness
   and subtle citrus on exhale

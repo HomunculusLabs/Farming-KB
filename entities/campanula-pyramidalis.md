@@ -10,7 +10,6 @@ date: 2026-05-10
 updated: 2026-05-10
 sources:
   - Richards, A.J. (1982). "Campanulas: Their Cultivation climatic-zones-and-classification-systems." Batsford.---
----
 
 ## Overview
 

@@ -16,7 +16,7 @@ sources:
 
 ## Overview
 
-**Asplenium nidus** is a large epiphytic fern commonly known as the bird's nest fern. It is native to tropical and subtropical regions of southeastern Asia, eastern Africa, and Australasia.
+**Asplenium nidus** is a large epiphytic fern commonly known as the bird"s nest fern. It is native to tropical and subtropical regions of southeastern Asia, eastern Africa, and Australasia.
 
 The species forms a distinctive rosette of bright green, simple fronds that radiate from a central nest-like crown. This growth form collects rainwater and organic debris, creating a microhabitat for diverse organisms.
 

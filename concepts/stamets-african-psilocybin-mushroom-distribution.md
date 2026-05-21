@@ -15,7 +15,7 @@ psychoactive mushrooms. The continent is home to ancient rock art
 depicting mushroom-using shamanic figures, several documented psilocybin
 species found nowhere else, and living traditions of mushroom-based
 religious practice. The African psilocybin mycoflora reflects the
-continent's diverse climates, from Mediterranean North Africa to
+continent"s diverse climates, from Mediterranean North Africa to
 tropical West Africa and subtropical southern regions.
 
 ## The Tassili Cave Paintings

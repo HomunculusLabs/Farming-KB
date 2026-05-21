@@ -17,7 +17,7 @@ Bay 11 is a sativa-dominant medical cannabis strain bred by Granddaddy Purp Gene
 
 ### Beyond Grand Daddy Purp
 
-Granddaddy Purp Genetics is a relatively small seed company that has built its reputation primarily on the legendary Grand Daddy Purp strain. However, as Oner notes, they are "putting out some of the most exciting strains in the U.S. right now" — Bay 11 demonstrates that the company's breeding program extends well beyond their signature purple indica. The Bay 11 project shows GDP Genetics' willingness to explore sativa-dominant genetics and develop targeted medical strains.
+Granddaddy Purp Genetics is a relatively small seed company that has built its reputation primarily on the legendary Grand Daddy Purp strain. However, as Oner notes, they are "putting out some of the most exciting strains in the U.S. right now" — Bay 11 demonstrates that the company"s breeding program extends well beyond their signature purple indica. The Bay 11 project shows GDP Genetics' willingness to explore sativa-dominant genetics and develop targeted medical strains.
 
 ### California Breeding Context
 
@@ -47,7 +47,7 @@ Bay 11 is well-suited to indoor growing with the following characteristics:
 
 ### Cultivation Tips
 
-- Begin structural support early in the vegetative stage — don't wait until buds are heavy
+- Begin structural support early in the vegetative stage — don"t wait until buds are heavy
 - Maintain close lamp proximity during early growth to minimize excessive stretching
 - The strain's heavy yield potential means nutrient demands will be significant, especially during mid-to-late flowering
 - Allow adequate drying and curing time for the dense, colorful buds

@@ -10,7 +10,7 @@ sources:
 
 ## Fertility Philosophy of the Ancient Near East
 
-In John Allegro's "The [[fukuoka-textdoc-crops-grow-own-accord-independence-fertilizer]], it must contain the seed of life. In human reproduction this seed is spermatozoa, ejected from the penis at orgasm. Therefore rain was understood as heavenly semen — the all-powerful creator, God himself. The most forceful spurting of this "seed" was accompanied by thunder and the shrieking wind. This was the "voice" of God.
+In John Allegro"s "The [[fukuoka-textdoc-crops-grow-own-accord-independence-fertilizer]], it must contain the seed of life. In human reproduction this seed is spermatozoa, ejected from the penis at orgasm. Therefore rain was understood as heavenly semen — the all-powerful creator, God himself. The most forceful spurting of this "seed" was accompanied by thunder and the shrieking wind. This was the "voice" of God.
 
 Somewhere above the sky a mighty penis reaches orgasm that shakes the heavens. The "lips" of the penis-tip, the glans, open, and the divine seed shoots forth and is borne by the wind to earth. As saliva can be seen mixed with breath during forceful human speech, so the "speaking" of the divine penis is accompanied by a powerful blast of wind — the holy, creative spirit — bearing the "spittle" of semen.
 
@@ -22,7 +22,7 @@ Within the earth burns an eternal fire which periodically demonstrates its prese
 
 ## The Womb of Mother Earth
 
-Beneath the earth's surface lay a great ocean whose waters, like those of the seas around and above the firmament (Gen 1:7), were the primeval reservoirs of the god's spermatozoa, the Word. They were therefore "seas of knowledge" as the Sumerians called them, and could be tapped by seekers of truth through astrology or necromancy ("divination from the dead").
+Beneath the earth"s surface lay a great ocean whose waters, like those of the seas around and above the firmament (Gen 1:7), were the primeval reservoirs of the god's spermatozoa, the Word. They were therefore "seas of knowledge" as the Sumerians called them, and could be tapped by seekers of truth through astrology or necromancy ("divination from the dead").
 
 Since plants and trees had their roots beneath the soil and derived their nourishment from the water above and beneath the earth, it was thought possible that some varieties of vegetation could give their mortal consumers access to this wisdom. Herein lies the philosophical justification for believing that hallucinatory drugs distilled from such plants imparted divine secrets or "prophecies."
 
@@ -40,7 +40,7 @@ The priest, dressed as a penis and anointed with various saps and resins represe
 
 ## The God as Husband of His Land
 
-The god was thought of as the "husband" of his land and people. Israel is featured as the "wife" of Yahweh, usually in passages accusing her of infidelity and seeking other "lovers." The Church is also described as the "bride" of Christ. In both cases the god is the fructifying seed, the "Word" or Gospel, whose fruitfulness depends upon the receptivity of the "womb" of his people's minds and hearts.
+The god was thought of as the "husband" of his land and people. Israel is featured as the "wife" of Yahweh, usually in passages accusing her of infidelity and seeking other "lovers." The Church is also described as the "bride" of Christ. In both cases the god is the fructifying seed, the "Word" or Gospel, whose fruitfulness depends upon the receptivity of the "womb" of his people"s minds and hearts.
 
 The seed of God was supremely holy — whether appearing as rain, sap or resin of plants, or as spermal emission from animals or men. To waste it was a grievous sin. The words for "curse" and "sin" have their roots in the idea of "seed running to waste." This was the sin of Onan (Gen 38:9).
 

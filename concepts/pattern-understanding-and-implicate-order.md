@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-Pattern understanding represents a fundamental way of perceiving the natural world that transcends conventional reductionist thinking. Drawing from physicist David Bohm's concept of "wholeness and implicate order," this framework recognizes that all phenomena are interconnected, enfolded within a single unified process rather than existing as isolated, separate events. In [[james-lovelock]] (1979) combined scientific insights with older tribal beliefs asserting the interdependence of animate and inanimate events. The universe and Earth behave as self-regulating, self-generated constructs akin to a single organism or thought process.
+Pattern understanding represents a fundamental way of perceiving the natural world that transcends conventional reductionist thinking. Drawing from physicist David Bohm"s concept of "wholeness and implicate order," this framework recognizes that all phenomena are interconnected, enfolded within a single unified process rather than existing as isolated, separate events. In [[james-lovelock]] (1979) combined scientific insights with older tribal beliefs asserting the interdependence of animate and inanimate events. The universe and Earth behave as self-regulating, self-generated constructs akin to a single organism or thought process.
 
 ### Birch and Cobb's Liberation of Life
 

@@ -10,7 +10,7 @@ type: concept
 
 ## Soil Types and Management
 
-The soil is the basic raw material of the gardener's art. It should never
+The soil is the basic raw material of the gardener"s art. It should never
 be dismissed as a mere collection of mineral particles used to anchor
 roots, or worse still as "dirt." It is much more than that. Certainly,
 its basic structure consists of rock particles broken down by frost and

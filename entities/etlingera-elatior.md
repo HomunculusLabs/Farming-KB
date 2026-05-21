@@ -11,7 +11,6 @@ date: 2026-05-08
 updated: 2026-05-08
 sources:
   - Sirirugsa, P. (1999). "Thai Zingiberaceae: Species diversity and their uses." International Conference on Biodiversity and Bioresources Conservation.---
----
 
 ## Etlingera elatior
 

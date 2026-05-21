@@ -23,7 +23,7 @@ sources:
 
 # Fukuoka Rice-Barley Annual Calendar
 
-[[masanobu-fukuoka]]'s direct-seeded, no-tillage rice/barley succession produces ~22 bushels (1,300 lbs) of rice and 22 bushels of barley per quarter-acre -- matching conventional Japanese yields at a fraction of the labor. The entire year's planting for one field is finished by New Year's Day. See [[natural-farming-fukuoka]] for the full method overview and [[fukuoka-philosophy-in-practice]] for the philosophical context.
+[[masanobu-fukuoka]]"s direct-seeded, no-tillage rice/barley succession produces ~22 bushels (1,300 lbs) of rice and 22 bushels of barley per quarter-acre -- matching conventional Japanese yields at a fraction of the labor. The entire year's planting for one field is finished by New Year's Day. See [[natural-farming-fukuoka]] for the full method overview and [[fukuoka-philosophy-in-practice]] for the philosophical context.
 
 ## Annual Cycle
 

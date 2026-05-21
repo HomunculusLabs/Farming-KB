@@ -26,7 +26,7 @@ The Anunnaki (also spelled Annunaki) are a group of deities in ancient Sumerian,
 
 ## Relevance to Cultivation and Mycology
 
-The Anunnaki narrative directly connects to mycology through the concept of "Star-Fire" and the "Fire-Stone" — substances with multiple overlapping descriptions (fire, gold, red, blood, nourishment that bestows enlightenment) that align with the physical and psychoactive properties of the Amanita muscaria. The prohibition of these substances by the Enlilian faction of the Anunnaki is presented as the mythological origin of the suppression of entheogenic plant knowledge. The caduceus (Enki's symbol) remains the universal emblem of medicine, linking the Anunnaki legacy directly to modern pharmaceutical and healing traditions.
+The Anunnaki narrative directly connects to mycology through the concept of "Star-Fire" and the "Fire-Stone" — substances with multiple overlapping descriptions (fire, gold, red, blood, nourishment that bestows enlightenment) that align with the physical and psychoactive properties of the Amanita muscaria. The prohibition of these substances by the Enlilian faction of the Anunnaki is presented as the mythological origin of the suppression of entheogenic plant knowledge. The caduceus (Enki"s symbol) remains the universal emblem of medicine, linking the Anunnaki legacy directly to modern pharmaceutical and healing traditions.
 
 ## Historical Context
 

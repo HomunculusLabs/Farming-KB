@@ -1,5 +1,5 @@
 ---
-title: McKenna's Plants and Primates — Coevolution, Self-Medication, and the Stoned stoned-ape-hypothesis-mckenna-psychedelic-evolution
+title: McKenna"s Plants and Primates — Coevolution, Self-Medication, and the Stoned stoned-ape-hypothesis-mckenna-psychedelic-evolution
 created: 2026-04-23
 updated: 2026-04-23
 type: concept

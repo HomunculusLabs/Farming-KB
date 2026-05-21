@@ -5,7 +5,7 @@ source_author: steve-solomon
 tags: [fertilizer, organic, COF, complete-fertilizer, soil-fertility, steve-solomon, gardening]
 ---
 
-## Solomon's Complete Organic Fertilizer (COF) Recipe
+## Solomon"s Complete Organic Fertilizer (COF) Recipe
 
 ## Overview
 
@@ -57,7 +57,7 @@ do not remedy the situation with more manure or compost — fix it with addition
 ### Organic Matter Can Be Exceeded
 It is always wise to exceed the amounts of manure or compost suggested by half again
 or double if you can afford to. However, do not apply more than double the recommended
-amount, as this risks unbalancing the soil's mineral content.
+amount, as this risks unbalancing the soil"s mineral content.
 
 ### Hilling for Large Plants
 For large plants such as squash, corn, and tomatoes, create hills and place additional

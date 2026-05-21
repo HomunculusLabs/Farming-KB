@@ -32,7 +32,7 @@ The name "daikon" comes from Japanese *dai* (大, "large") and *kon* (根, "root
 - **Variety:** *longipinnatus* (syn. *caudatus*, *niger* in part)
 - **Chromosome number:** 2n = 18
 
-*Raphanus sativus* encompasses a diverse group of cultivated radishes, including the small red garden radish (*var. sativus*), the black radish (*var. niger*), the rat-tailed radish (*var. caudatus*, grown for edible pods), and the daikon (*var. longipinnatus*). Forage radish varieties (e.g., 'Tillage Radish', 'Groundhog', 'CC-369') are selected from within *var. longipinnatus* for their large taproots, rapid growth, and winter hardiness.
+*Raphanus sativus* encompasses a diverse group of cultivated radishes, including the small red garden radish (*var. sativus*), the black radish (*var. niger*), the rat-tailed radish (*var. caudatus*, grown for edible pods), and the daikon (*var. longipinnatus*). Forage radish varieties (e.g., "Tillage Radish', 'Groundhog', 'CC-369') are selected from within *var. longipinnatus* for their large taproots, rapid growth, and winter hardiness.
 
 ## Botanical Description
 

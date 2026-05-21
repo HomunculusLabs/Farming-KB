@@ -10,7 +10,7 @@ tags:
   - commercialization
   - indigenous-economics
 source:
-  - "Stuart, R. 'guzman-psilocybin-mushrooms-south-america.' MAPS Bulletin, Vol XII No 2, Summer 2002."
+  - "Stuart, R. "guzman-psilocybin-mushrooms-south-america.' MAPS Bulletin, Vol XII No 2, Summer 2002."
 ---
 
 ## Ayahuasca Ceremony Pricing: Tourist Versus Local
@@ -18,7 +18,7 @@ source:
 ## Overview
 
 One of the most striking economic features of ayahuasca-ceremonial-economics-price-disparity-peru between foreign tourists and local
-participants for the same ceremony. R. Stuart's 2002 reporting documents
+participants for the same ceremony. R. Stuart"s 2002 reporting documents
 a consistent markup of approximately fifteen times: tourists pay roughly
 $30 USD per ceremony, while locals pay approximately $2 USD. This 15x
 multiplier is a structural feature of the ceremonial economy in

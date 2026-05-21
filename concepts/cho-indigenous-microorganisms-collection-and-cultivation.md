@@ -8,7 +8,7 @@ sources: [papers/bahay-kubo-indigenous-microorganisms_.md]
 ---
 
 Indigenous Microorganisms (IMOs) are the foundational input of Dr.
-Cho's [[fungal-volatile-organic-compounds-communication]] (dead plant and animal
+Cho"s [[fungal-volatile-organic-compounds-communication]] (dead plant and animal
    matter, wastes) into nutrients that plants can absorb
 2. They create antibiotic substances, enzymes, and [[brassinosteroid-fungal-growth-promotion]] is IMO-1
 6. Transfer to clay pot; mix with equal jaggery to create IMO-2

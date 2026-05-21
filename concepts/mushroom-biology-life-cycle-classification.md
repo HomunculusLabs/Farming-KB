@@ -6,7 +6,7 @@ topics: [mushroom, mycology, fungi, life-cycle, basidiomycota, pleurotus]
 
 ## Mushroom Biology: Life Cycle and Classification
 
-## From the Mushroom Growers' Handbook 1: Oyster Mushroom Cultivation
+## From the Mushroom Growers" Handbook 1: Oyster Mushroom Cultivation
 
 Understanding mushroom biology is fundamental to successful cultivation. Mushrooms
 occupy a unique position in the biological kingdom — neither plant nor animal, they

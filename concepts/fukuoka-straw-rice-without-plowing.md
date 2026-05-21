@@ -12,7 +12,7 @@ tags: [fukuoka]
 
 ## The Direct-Seeded, No-Tillage Method
 
-Fukuoka's field had not been plowed or turned in over thirty years. Nor had he
+Fukuoka"s field had not been plowed or turned in over thirty years. Nor had he
 applied [[comparison-natural-farming-vs-permaculture]] Fukuoka
 called "direct-seeded, no-tillage, winter grain/rice succession in a clover
 cover."

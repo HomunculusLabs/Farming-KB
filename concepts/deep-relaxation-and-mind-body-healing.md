@@ -29,7 +29,7 @@ The famous Nun Study found that nuns who expressed more positive emotions in the
 People who kept gratitude journals showed significantly higher well-being, better sleep, more optimism, and more helpfulness toward others.
 
 ### Forgiveness and Health
-**Witvliet, Ludwig, and Bauer (2002)**: "Please forgive me: Transgressors' emotions and physiology during imagery of seeking forgiveness."
+**Witvliet, Ludwig, and Bauer (2002)**: "Please forgive me: Transgressors" emotions and physiology during imagery of seeking forgiveness."
 
 The act of seeking forgiveness produced measurable physiological changes -- reduced sympathetic nervous system activation and cardiovascular [[blesching-cannabis-irritable-bowel-syndrome]] syndrome." PLoS ONE.
 

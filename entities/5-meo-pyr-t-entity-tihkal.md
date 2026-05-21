@@ -33,7 +33,7 @@ The molecular formula is C15H20N2O. The free base is an off-white oil that does 
 
 Mass [[5-meo-dmt-entity-tihkal]], including a total loss of self-identity in a nearly instantaneous rush. One subject was unconscious for approximately four hours. Upon regaining consciousness, the subject felt very nauseous and vomited repeatedly. The experience was described as having a "total loss of self-identity" with the feeling of having the "top of my head blown off." Memory of the experience was completely absent.
 
-Another subject at 3 mg smoked experienced a similar pattern: an initial rush followed by unconsciousness lasting over an hour, followed by flailing, rolling, quivering, and shaking. Pupils were markedly constricted. Recovery was gradual, with nausea appearing after regaining lucidity. The subject's skin appeared abnormal for several days afterwards, suggesting possible systemic toxicity.
+Another subject at 3 mg smoked experienced a similar pattern: an initial rush followed by unconsciousness lasting over an hour, followed by flailing, rolling, quivering, and shaking. Pupils were markedly constricted. Recovery was gradual, with nausea appearing after regaining lucidity. The subject"s skin appeared abnormal for several days afterwards, suggesting possible systemic toxicity.
 
 At 4 mg smoked, the effects were so profound that the subject lost consciousness entirely. The subject reported only remembering the pipe and inhalation, then coming to later at the home of a professional ally who had found them walking the street. No memories of the intervening period could be recovered, despite the subject reporting feeling very comfortable upon awakening. The subject characterized the compound as "some weird-ass shit."
 

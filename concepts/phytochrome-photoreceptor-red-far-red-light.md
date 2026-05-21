@@ -35,7 +35,7 @@ The red/far-red detection system has deep [[phytochrome-red-far-red-ratio-shade-
 
 ## Photoperiodism and Flowering
 
-Phytochrome's role in photoperiodism works through its ability to measure the length of uninterrupted darkness:
+Phytochrome"s role in photoperiodism works through its ability to measure the length of uninterrupted darkness:
 
 - During the day, red light continuously converts Pr to Pfr, maintaining high Pfr levels
 - After sunset, no red light is available, so Pfr gradually reverts to Pr through a process called dark reversion (which takes several hours)

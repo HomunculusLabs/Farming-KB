@@ -27,13 +27,13 @@ Vivi Vajda is a paleontologist who, together with Stephen McLaughlin, made a lan
 - Discovered that the sediment layer immediately above the iridium layer deposited by the K-T meteor impact was devoid of all plant life but rich in fungal hyphae and spores.
 - The finding demonstrated that after the massive Chicxulub meteor impact approximately 66 million years ago, fungi thrived on the enormous quantities of dead plant material to become the dominant life form on land.
 - Observed that layers above the fungal-dominated layer showed an orderly succession of plant life returning, indicating that fungal decomposition of dead biomass prepared the substrate for new ecosystem development.
-- This pattern of fungal dominance followed by plant succession parallels findings from the earlier Permian extinction (the greatest extinction in Earth's history, ~252 million years ago), where similar fungal proliferation preceded the return of diverse plant communities.
+- This pattern of fungal dominance followed by plant succession parallels findings from the earlier Permian extinction (the greatest extinction in Earth"s history, ~252 million years ago), where similar fungal proliferation preceded the return of diverse plant communities.
 - The team's findings were highlighted in the popular science press under the headline "A World Ruled by Fungi" (Terra Daily, March 8, 2004), bringing wider public attention to the ecological significance of fungi.
 - The research provides deep-time evidence supporting the concept that fungi are "primary healing agents for land and ecosystems," as described by Paul Stamets.
 
 ## Relevance to Cultivation and Mycology
 
-Vivi Vajda's research has significant implications for understanding fungi's role in ecology and cultivation:
+Vivi Vajda"s research has significant implications for understanding fungi's role in ecology and cultivation:
 
 1. **Ecological primacy of fungi** — The discovery that fungi were the first organisms to dominate land after the K-T extinction demonstrates their fundamental importance in ecosystem recovery and soil building, validating the emphasis on fungal cultivation for ecological restoration.
 

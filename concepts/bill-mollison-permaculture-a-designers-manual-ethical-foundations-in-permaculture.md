@@ -7,7 +7,7 @@ updated: 2026-04-25
 sources: ["papers/bill-mollison-permaculture-a-designers-manual.md"]
 type: concept
 ---
-## Ethical Foundations in Permaculture The ethical foundations of permaculture are the philosophical bedrock upon which all design principles and practices are built. Bill Mollison opened *Permaculture: A Designers' Manual* with a clear statement that permaculture is not merely a set of agricultural techniques but an ethical design system guided by three core principles: care of the earth, care of people, and setting limits to consumption and redistribution of surplus. These ethics distinguish permaculture from other approaches to sustainable design and provide the moral framework that informs every community-economics-in-permaculture, [[bill-mollison-permaculture-a-designers-manual-forest-gardens-and-food-forests]]
+## Ethical Foundations in Permaculture The ethical foundations of permaculture are the philosophical bedrock upon which all design principles and practices are built. Bill Mollison opened *Permaculture: A Designers" Manual* with a clear statement that permaculture is not merely a set of agricultural techniques but an ethical design system guided by three core principles: care of the earth, care of people, and setting limits to consumption and redistribution of surplus. These ethics distinguish permaculture from other approaches to sustainable design and provide the moral framework that informs every community-economics-in-permaculture, [[bill-mollison-permaculture-a-designers-manual-forest-gardens-and-food-forests]]
 are all direct expressions of the earth care ethic in practice.
 
 Mollison argued that care of the earth is not sentimentality but practical

@@ -6,7 +6,7 @@ type: concept
 
 ## Helen of Troy as Pine Torch, Resin, and the Amanita Muscaria Mushroom
 
-In [[john-allegro]]'s etymological and mythological analysis in *[[allegro-menstrual-blood-creative-process-purple-fertility]]. Irregular menses — the first period or the perimenopausal phase — were considered
+In [[john-allegro]]"s etymological and mythological analysis in *[[allegro-menstrual-blood-creative-process-purple-fertility]]. Irregular menses — the first period or the perimenopausal phase — were considered
 more potent than regular cycles. Such blood was described as "spontaneous" and "all-powerful,"
 carrying a generative force beyond the ordinary.
 
@@ -18,7 +18,7 @@ tree resin and sacred fungal preparations.
 
 Biblical heroes — Isaac (born to aged Sarah), Samuel (born to barren Hannah), Jesus (born to the
 virgin Mary) — all recapitulate extraordinary birth from irregular or impossible fertility. The
-New Testament's declaration of Christ as "the first and the last, the beginning and the end"
+New Testament"s declaration of Christ as "the first and the last, the beginning and the end"
 (Revelation 22:13) echoes the Hestian "first and last" formula directly.
 
 ## Vestal Virgins
@@ -35,11 +35,11 @@ was walled up alive — punishment for misdirecting the sacred generative force.
 
 Duties included fetching water from a sacred spring, preparing special foodstuffs, and caring for
 shrine objects. No one else was permitted inside the inner sanctum. The shrine itself was a domed
-building, described as like a potter's workshop or furnace — a dome that also represents the
+building, described as like a potter"s workshop or furnace — a dome that also represents the
 domed canopy of the [[amanita-muscaria]] cap.
 
 Within stood the Palladium — a thunderbolt from Zeus and a replica of Pallas Athena. The name
-Pallas means "vulva"; the Palladium's dumb-bell shape is, in this interpretation, a representation
+Pallas means "vulva"; the Palladium"s dumb-bell shape is, in this interpretation, a representation
 of the mushroom itself. A Christian parallel exists at Easter, when the Church strikes "new fire"
 from flint. The Vestals used a fire-drill, said to be the invention of Hermes. The drill boring
 into wood functions as phallic penetration of the womb — generative fire through sacred sexual
@@ -54,17 +54,17 @@ placing her at the intersection of male and female creative forces.
 
 Her name derives from *Elate* and *Thuia* (both resinous conifers), each meaning "fluid of
 generation" — menstrual blood. Theophrastus records that silver-fir resin "is what the prophets
-call 'the menses of Eileithyia,'" directly linking tree resin to the sacred generative fluid.
-In Allegro's synthesis, "in Eileithyia we have a personification of menstrual blood, cedar resin,
+call "the menses of Eileithyia,'" directly linking tree resin to the sacred generative fluid.
+In Allegro"s synthesis, "in Eileithyia we have a personification of menstrual blood, cedar resin,
 and creative fire" — three expressions of the same primordial substance.
 
 ## Helen — Pine Torch and Resin
 
-Helen's name traces a clear etymological line: Sumerian *ERIN* "cedar" passes into Greek as
+Helen"s name traces a clear etymological line: Sumerian *ERIN* "cedar" passes into Greek as
 *helene* or *helanë* "torch" — the pine torch. Her very name is the resin-burning implement at
 the centre of sacred ritual. She was born from an egg, like her brothers Castor and Pollux,
 daughter of Nemesis (or Leda) and Zeus-as-swan. Nemesis means "divine retribution" and is, in
-Allegro's analysis, identical to *Nectar* ("fate-decider"), to Mandrake, to the sacred mushroom,
+Allegro"s analysis, identical to *Nectar* ("fate-decider"), to Mandrake, to the sacred mushroom,
 and to the "egg plant" — all names for the same pharmacological entity.
 
 The *helenion* drug, known as the "tears of Helen," was drops of pine resin used as an

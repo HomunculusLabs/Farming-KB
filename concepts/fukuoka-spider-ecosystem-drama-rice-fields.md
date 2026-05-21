@@ -30,7 +30,7 @@ The natural control of rice leafhoppers — a major pest — operated through a 
 - **Before that**: frogs were the main controllers
 - **Countless other variations** occurred based on weather, soil, and conditions
 
-A specialist from the Kochi Prefecture research station came to investigate why leafhoppers were scarce in Fukuoka's fields. He found that not only were harmful insects few, but natural predators were far more numerous than in sprayed fields. He acknowledged the method could solve the leafhopper problem — then drove back to Kochi without changing his approach.
+A specialist from the Kochi Prefecture research station came to investigate why leafhoppers were scarce in Fukuoka"s fields. He found that not only were harmful insects few, but natural predators were far more numerous than in sprayed fields. He acknowledged the method could solve the leafhopper problem — then drove back to Kochi without changing his approach.
 
 ## The Limits of Specialized Research
 
@@ -47,7 +47,7 @@ This is not merely rhetorical. It expresses a fundamental epistemological limit 
 
 Fukuoka discovered the fragility of the spider ecosystem when he applied wood ashes from his fireplace — a seemingly harmless, entirely organic material. Two to three days later, the field was completely bare of spiders. The ashes had caused the silk strands to disintegrate chemically.
 
-This experience shaped Fukuoka's thinking about harm in agriculture:
+This experience shaped Fukuoka"s thinking about harm in agriculture:
 
 - Even mild organic inputs can destroy complex [[natural-farming-principles-fukuoka]]:
 

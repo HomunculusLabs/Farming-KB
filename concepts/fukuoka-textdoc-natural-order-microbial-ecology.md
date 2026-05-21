@@ -22,7 +22,7 @@ plants.
 ## Microbes as Scavengers
 
 The farmer dreads nothing more than to be caught loafing and despised by others, for he will
-be told: "Don't think that you can live all by yourself. There are days of darkness too. When
+be told: "Don"t think that you can live all by yourself. There are days of darkness too. When
 you die, you'll need the services of four people." However well we manage to get on without
 others in life, we always need four pallbearers at the funeral.
 

@@ -42,7 +42,7 @@ Endophytes are broadly classified into two groups based on their ecology and
 life history. Clavicipitaceous endophytes are restricted to grasses and
 sedges and are transmitted vertically from parent to offspring through seeds.
 These endophytes form systemic infections, colonizing the aboveground tissues
-of their hosts throughout the plant's life.
+of their hosts throughout the plant"s life.
 
 Non-clavicipitaceous endophytes are found in the tissues of virtually all
 other plant groups, including woody plants, herbaceous dicots, and ferns.

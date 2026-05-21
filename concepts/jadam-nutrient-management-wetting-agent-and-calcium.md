@@ -25,7 +25,7 @@ Container + ingredient + water + handful of leaf mold. That is it.
 | Potassium JLF | As needed | Fruit growth | Promotes fruit enlargement |
 
 ### Fruit-Based JLF Philosophy
-The fruit is the "egg" of the plant -- it contains all nutrients needed for the next generation. Therefore, fertilizer made from the same crop's fruit has the perfect nutritional balance for that crop.
+The fruit is the "egg" of the plant -- it contains all nutrients needed for the next generation. Therefore, fertilizer made from the same crop"s fruit has the perfect nutritional balance for that crop.
 
 ## [[savory-growing-season-and-non-growing-season-management]].
 

@@ -17,7 +17,7 @@ sources:
 
 **5-MeO-MALT** (5-methoxy-N-methyl-N-allyltryptamine) is a novel synthetic tryptamine in the 5-MeO substituted family. It belongs to the broader class of N,N-dialkylated tryptamines that act as serotonin receptor agonists.
 
-The compound is a structural analog of 5-MeO-DMT, differing in the replacement of one N-methyl group with an N-allyl substituent. This modification alters the compound's receptor binding profile and duration of action.
+The compound is a structural analog of 5-MeO-DMT, differing in the replacement of one N-methyl group with an N-allyl substituent. This modification alters the compound"s receptor binding profile and duration of action.
 
 5-MeO-MALT emerged in the research chemical market in the late 2010s. It is valued in psychonaut communities for its short-duration psychedelic effects.
 
@@ -39,7 +39,7 @@ The compound is soluble in ethanol, DMSO, and other organic solvents. It is spar
 
 Melting point data has not been widely published for either the freebase or salt forms. Stability studies under various storage conditions are also lacking in the literature.
 
-The compound's UV absorption spectrum is characteristic of 5-methoxy indole derivatives, with a peak near 315 nm. This property can be used for analytical detection via HPLC-UV methods.
+The compound"s UV absorption spectrum is characteristic of 5-methoxy indole derivatives, with a peak near 315 nm. This property can be used for analytical detection via HPLC-UV methods.
 
 ## Pharmacology
 

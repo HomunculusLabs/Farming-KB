@@ -11,7 +11,6 @@ date: 2025-05-11
 updated: 2025-05-11
 sources:
   - Ueda, K. (1988). "Flowering in Magnolia kobus." Plant Species Biology, 3, 19-24.---
----
 
 ## Overview
 
@@ -73,7 +72,7 @@ The species blooms reliably even after harsh winters, unlike many other early ma
 
 The species is a parent of several important hybrids, most notably *Magnolia × loebneri* (*M. kobus* × *M. stellata*). The Loebner magnolias combine the tree habit of *M. kobus* with the multi-petaled flowers of *M. stellata*.
 
-Notable selections include 'Wada's Memory' (large, slightly nodding white flowers, vigorous growth) and the variety *borealis* (larger flowers, more vigorous). Most cultivated plants are seed-grown, showing natural variation in flower size and timing.
+Notable selections include "Wada's Memory' (large, slightly nodding white flowers, vigorous growth) and the variety *borealis* (larger flowers, more vigorous). Most cultivated plants are seed-grown, showing natural variation in flower size and timing.
 
 'Merrill' is a popular *M. × loebneri* cultivar with abundant white flowers. 'Leonard Messel' is another well-known Loebner hybrid with pink-flushed white flowers on a compact frame.
 

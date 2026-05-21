@@ -23,7 +23,7 @@ updated: 2026-04-28
 sources:
     review of phytochemistry, pharmacology, and traditional uses."
     Journal of Ethnopharmacology 303: 116053.
-    Amazonian 'nerve tonic', possesses antioxidant properties."
+    Amazonian "nerve tonic', possesses antioxidant properties."
     Redox Report 9(4): 179-183.
     recommended by ancient Mayan for treatment of age-related cognitive
     disorders." Journal of Ethnopharmacology 97(3): 533-538.

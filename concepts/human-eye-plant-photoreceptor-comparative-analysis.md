@@ -65,7 +65,7 @@ ultraviolet that causes sunburn and the far-red that marks the transition to
 darkness.
 
 Plants can also detect light at intensities far below the human visual threshold.
-In Darwin's phototropism experiments, seedlings bent toward a gas lamp so dim
+In Darwin"s phototropism experiments, seedlings bent toward a gas lamp so dim
 that the experimenters themselves could not see the seedlings or a pencil line on
 paper. This suggests that plant photoreceptors can be more sensitive than human
 vision under certain conditions.
@@ -85,7 +85,7 @@ plants clearly possess vision. If vision requires image formation, then plants d
 not see. The intermediate position — that plants possess a form of environmental
 awareness mediated by light-detecting proteins — is perhaps the most accurate.
 Plants and animals have evolved different solutions to the problem of detecting
-light, each optimized for the organism's particular [[ecological-niche]] and
+light, each optimized for the organism"s particular [[ecological-niche]] and
 lifestyle.
 
 [[daniel-chamovitz]], in What a Plant Knows, argues for a gradualist framework:

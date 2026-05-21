@@ -38,7 +38,7 @@ practical impediment to its study.
 - Yeast form (host tissue, 37 degrees Celsius): large, thick-
   walled yeast cells (8 to 40 micrometers) with multiple
   budding daughter cells surrounding the parent cell,
-  creating a characteristic "pilot's wheel" or "Mariner's
+  creating a characteristic "pilot"s wheel" or "Mariner"s
   compass" appearance
 - Conidia produced by the mold form are presumed infectious
   propagules

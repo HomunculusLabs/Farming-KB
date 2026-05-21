@@ -21,7 +21,6 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Meister, A. et al. (1999). "Petasites hybridus for allergic rhinitis." BMJ, 318(7177), 80.---
----
 
 ## Overview
 

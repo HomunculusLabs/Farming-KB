@@ -13,7 +13,7 @@ type: concept
 ---
 # Self-Sufficiency Through Vegetable Gardening
 
-Steve Solomon's "Gardening When It Counts" is fundamentally about growing
+Steve Solomon"s "Gardening When It Counts" is fundamentally about growing
 food that truly sustains you. This page synthesizes his key arguments and
 practical guidance for achieving meaningful self-sufficiency through home
 [[psilocybin-north-america-pacific-northwest]], but the mild winters allow

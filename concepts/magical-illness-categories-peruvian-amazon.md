@@ -22,7 +22,7 @@ These are recognized as ordinary ailments that respond to basic treatment:
 - Some skin disorders
 - Simple fevers and aches
 
-These are treated by *sanitarios* (medical aides) who frequent the slums, dispensing penicillin or antibiotic injections for a small fee. Formal medical consultation in the city of Iquitos is prohibitively expensive for most slum residents — an initial visit costs the equivalent of approximately two days' food budget. Moreover, the city hospital has the reputation as "a place one goes in order to die," particularly because of its casual treatment of poor people.
+These are treated by *sanitarios* (medical aides) who frequent the slums, dispensing penicillin or antibiotic injections for a small fee. Formal medical consultation in the city of Iquitos is prohibitively expensive for most slum residents — an initial visit costs the equivalent of approximately two days" food budget. Moreover, the city hospital has the reputation as "a place one goes in order to die," particularly because of its casual treatment of poor people.
 
 ### Magical Illnesses
 
@@ -35,7 +35,7 @@ When simple treatments do not produce rapid recovery, or when sudden pains appea
 **Susto** is one of the most widespread illness concepts throughout Peru and Latin America. It involves:
 
 - **Definition**: Profound alteration of metabolism or nervous disorder
-- **Cause**: Loss of the sick person's soul following an intense psychic trauma provoked by fear
+- **Cause**: Loss of the sick person"s soul following an intense psychic trauma provoked by fear
 - **Symptoms**: Lack of appetite, lack of energy, profound lethargy
 - **Frequency**: One of the most common illnesses treated by Peruvian folk healers
 - **Treatment**: Soul retrieval through ritual means, often involving plant hallucinogens
@@ -71,7 +71,7 @@ Pulsario is notable for its overlap with what Western medicine would classify as
 
 **Mal de ojo** is found throughout Peru and much of Latin America:
 
-- **Cause**: The magical action of one person's glance upon another, not necessarily with evil intentions
+- **Cause**: The magical action of one person"s glance upon another, not necessarily with evil intentions
 - **Motivation**: Often driven by envy, particularly when the victim possesses personal attractiveness or some desirable quality
 - **Symptoms**: Nausea, vomiting, diarrhea, fever, loss of weight, insomnia, and sadness
 - **Demographics**: Particularly frequent among children

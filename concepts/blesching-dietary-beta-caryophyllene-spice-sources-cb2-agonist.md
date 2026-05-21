@@ -11,7 +11,7 @@ created: 2026-05-09
 
 ## Overview
 
-Uwe Blesching's *The Cannabis Health Index* (2015) highlights the discovery that (E)-β-caryophyllene ((E)-BCP), a molecule found abundantly in common spice plants, functions as a selective CB2 cannabinoid receptor agonist. This finding, reported by an international research team from Switzerland, Germany, Italy, and the U.S. (2008, 2012), effectively reclassifies many everyday culinary spices as functional cannabinoid sources — what Blesching calls "food-based cannabinoids."
+Uwe Blesching"s *The Cannabis Health Index* (2015) highlights the discovery that (E)-β-caryophyllene ((E)-BCP), a molecule found abundantly in common spice plants, functions as a selective CB2 cannabinoid receptor agonist. This finding, reported by an international research team from Switzerland, Germany, Italy, and the U.S. (2008, 2012), effectively reclassifies many everyday culinary spices as functional cannabinoid sources — what Blesching calls "food-based cannabinoids."
 
 ## The Food-Based Cannabinoid Concept
 

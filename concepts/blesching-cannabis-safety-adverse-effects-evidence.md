@@ -6,7 +6,7 @@ tags:
 
 ## Overview
 
-Cannabis, like any medicine that affects both mind and body, evokes numerous safety concerns that warrant careful examination. Drawing on Uwe Blesching's comprehensive safety review in *The [[blesching-cannabis-therapeutic-window-dosing]].
+Cannabis, like any medicine that affects both mind and body, evokes numerous safety concerns that warrant careful examination. Drawing on Uwe Blesching"s comprehensive safety review in *The [[blesching-cannabis-therapeutic-window-dosing]].
 
 ## Mortality and Comparative Risk
 
@@ -28,7 +28,7 @@ More significant side effects, more common when cannabis is ingested or used at 
 
 ## Harm Reduction Through the Subjective Therapeutic Window
 
-The primary strategy for reducing adverse effects is establishing one's subjective therapeutic window — the dosage range within which therapeutic benefits are achieved without adverse effects. This process is governed by three factors:
+The primary strategy for reducing adverse effects is establishing one"s subjective therapeutic window — the dosage range within which therapeutic benefits are achieved without adverse effects. This process is governed by three factors:
 
 1. **The body's present endocannabinoid state** — relative balance or deficiency (CB1-deficient patients may benefit from higher THC:CBD ratios; CB2-deficient patients from lower THC:CBD ratios)
 2. **The cannabinoid profile in the medicine** — the specific ratio and concentration of active compounds
@@ -40,7 +40,7 @@ When inhaling cannabis smoke or vapors, take one short to medium inhalation and 
 
 ### Ingestion Protocol
 
-For cookies, oils, and tinctures, an exact and measured amount should be used, preferably on an empty stomach. The user waits at least one hour (two hours on a full stomach) before increasing the dose by the same measured amount. This process repeats until the desired effect is achieved. The critical mistake to avoid is continuing to eat because "I'm not feeling anything" — since ingested cannabis effects may not manifest for over an hour, this pattern frequently leads to uncomfortable overconsumption that can last many hours.
+For cookies, oils, and tinctures, an exact and measured amount should be used, preferably on an empty stomach. The user waits at least one hour (two hours on a full stomach) before increasing the dose by the same measured amount. This process repeats until the desired effect is achieved. The critical mistake to avoid is continuing to eat because "I"m not feeling anything" — since ingested cannabis effects may not manifest for over an hour, this pattern frequently leads to uncomfortable overconsumption that can last many hours.
 
 For subsequent uses, the total previously effective amount minus approximately 20% (to account for changes in digestion rate and timing) is recommended as the starting dose.
 

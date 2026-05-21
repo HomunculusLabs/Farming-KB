@@ -16,7 +16,7 @@ The hypothesis that the Eleusinian kykeon contained an ergot-derived hallucinoge
 
 ### Background
 
-Wasson was a vice-president of J.P. Morgan & Co. who became the world's foremost amateur ethnomycologist. His life's work was documenting the role [[historical-and-cultural-uses-of-psychoactive-mushrooms]] and other fungi in human culture and religion.
+Wasson was a vice-president of J.P. Morgan & Co. who became the world"s foremost amateur ethnomycologist. His life's work was documenting the role [[historical-and-cultural-uses-of-psychoactive-mushrooms]] and other fungi in human culture and religion.
 
 ### Key Prior Work
 
@@ -59,7 +59,7 @@ Ruck provided the classical scholarship:
 
 ### How It Began
 
-In July 1975, Wasson asked Hofmann whether ancient Greeks could have isolated a hallucinogen from ergot. Hofmann's analysis of ololiuhqui chemistry -- showing it contained the same alkaloids as ergot -- suggested this was possible. Ruck was brought in to provide the classical context.
+In July 1975, Wasson asked Hofmann whether ancient Greeks could have isolated a hallucinogen from ergot. Hofmann"s analysis of ololiuhqui chemistry -- showing it contained the same alkaloids as ergot -- suggested this was possible. Ruck was brought in to provide the classical context.
 
 ### The Argument's Structure
 

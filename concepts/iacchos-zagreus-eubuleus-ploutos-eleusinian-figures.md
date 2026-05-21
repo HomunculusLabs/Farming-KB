@@ -13,7 +13,7 @@ sources:
 
 ## Ploutos
 
-Ploutos was "the personification of the wealth that stems from the fertility of man and field" — "the fourth and most perfect of these transmuted figures." As the embodiment of agricultural abundance, Ploutos represented the final transmutation: death transformed into the beneficent presence of wealth in the initiate's home.
+Ploutos was "the personification of the wealth that stems from the fertility of man and field" — "the fourth and most perfect of these transmuted figures." As the embodiment of agricultural abundance, Ploutos represented the final transmutation: death transformed into the beneficent presence of wealth in the initiate"s home.
 
 Ploutos "was originally the vegetative son of Demeter in her more ancient days as Great Mother on Crete, where she conceived him in a thrice-plowed field when she united with her intoxicating mate whose name was Iasion" — a name meaning "the man of the drug."
 
@@ -29,7 +29,7 @@ The [[leary-psychedelic-experience-bardo-mapping]]. The Eleusinian use of choral
 
 ## Triptolemus
 
-Triptolemus ("the trifold warrior") was the "paramount transmutation, Demeter's special response to the problem of death." Unlike the other figures who personified abstract qualities, Triptolemus was an apostle — "traveling throughout the world on a serpent chariot spreading the gospel of the cultivation of grain." His identity as "actually the son of the trifold females who were the queens in the house of the lord of death" made him "another form of Dionysus."
+Triptolemus ("the trifold warrior") was the "paramount transmutation, Demeter"s special response to the problem of death." Unlike the other figures who personified abstract qualities, Triptolemus was an apostle — "traveling throughout the world on a serpent chariot spreading the gospel of the cultivation of grain." His identity as "actually the son of the trifold females who were the queens in the house of the lord of death" made him "another form of Dionysus."
 
 ## The Unification of Male Figures in Ritual
 

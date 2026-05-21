@@ -1,5 +1,5 @@
 ---
-title: Gaia's Garden Hugelkultur
+title: Gaia"s Garden Hugelkultur
 created: 2026-04-18
 updated: 2026-04-18
 type: concept

@@ -10,7 +10,7 @@ type: concept
 
 ## Weed Utility and Grass Soil Enrichment in Natural Farming
 
-One of Fukuoka's five [[fukuoka-natural-fertility-cycle]] possible. Fukuoka reframes weeds
+One of Fukuoka"s five [[fukuoka-natural-fertility-cycle]] possible. Fukuoka reframes weeds
 from pests to essential partners in the farming system.
 
 ## Is There Such a Thing as a Weed?

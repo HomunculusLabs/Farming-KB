@@ -9,7 +9,7 @@ tags: [place, dune-ecology, australia, nutrient-cycling, succession]
 
 ## Description
 
-The Cooloola dune system is a coastal sand mass in Queensland, Australia, cited by [[john-seymour]]'s observations in *Ecos*, Summer 1981–82). The Cooloola system provides a documented case study of how even very old, stable ecosystems gradually lose nutrient status over time — challenging the assumption that "climax" ecosystems represent permanent, stable endpoints. It is one of the most significant natural chronosequences in the Southern Hemisphere.
+The Cooloola dune system is a coastal sand mass in Queensland, Australia, cited by [[john-seymour]]"s observations in *Ecos*, Summer 1981–82). The Cooloola system provides a documented case study of how even very old, stable ecosystems gradually lose nutrient status over time — challenging the assumption that "climax" ecosystems represent permanent, stable endpoints. It is one of the most significant natural chronosequences in the Southern Hemisphere.
 
 ## Classification
 
@@ -17,7 +17,7 @@ The Cooloola dune system is a coastal sand mass in Queensland, Australia, cited 
 - **Location**: Cooloola, Queensland, Australia (now part of Great Sandy National Park)
 - **Type**: Barrier sand mass with multiple dune systems of different ages
 - **Domain**: Dune Ecology, Nutrient Cycling, Succession Studies
-- **Context**: [[daniel-goodman]]'s observations on fluctuations in mature ecosystems
+- **Context**: [[daniel-goodman]]"s observations on fluctuations in mature ecosystems
 - Connects to Birch's principle that "nothing in nature grows forever"
 - Now part of Great Sandy National Park (K'gari/Fraser Island region)
 - Connects to the Law of Return and the Directive of Return in [[fukuoka-monoculture-meat-based-agricultural-system]]

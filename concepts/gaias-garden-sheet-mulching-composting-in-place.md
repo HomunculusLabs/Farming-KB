@@ -1,5 +1,5 @@
 ---
-title: "Sheet Mulching and Composting in Place (Gaia's Garden)"
+title: "Sheet Mulching and Composting in Place (Gaia"s Garden)"
 tags:
   - concept
 ---

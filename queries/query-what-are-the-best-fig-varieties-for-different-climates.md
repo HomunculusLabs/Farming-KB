@@ -1,5 +1,5 @@
 ---
-title: 'What Are the Best Fig Varieties for Different Climates?'
+title: "What Are the Best Fig Varieties for Different Climates?'
 created: 2026-04-28
 tags: [figs, fruit-trees, variety-selection, climate-zones, food-forest]
 date: 2026-04-28

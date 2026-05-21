@@ -53,7 +53,7 @@ These are mechanical/competitive interactions — "cat and mouse" mechanisms —
 
 ## Specific Crop Applications
 
-Ingham's recommendations vary by crop type and growth stage, reflecting different leaf surface characteristics and disease profiles:
+Ingham"s recommendations vary by crop type and growth stage, reflecting different leaf surface characteristics and disease profiles:
 
 ### Brassicas and Leafy Greens
 These crops benefit most from bacterial-dominated teas applied at 7-14 day intervals. The large, thin leaves provide extensive surface area for bacterial colonization. Application should begin at transplant or first true leaf stage and continue through harvest. AACT has shown particular effectiveness against downy mildew and Alternaria leaf spot on brassicas when applied before infection periods (typically during cool, moist conditions in spring and autumn).

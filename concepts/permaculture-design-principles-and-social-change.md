@@ -6,7 +6,7 @@ type: concept
 
 ## Permaculture Design Principles and Social Change
 
-Permaculture's twelve design principles, articulated by David Holmgren in *Permaculture: Principles & Pathways Beyond Sustainability*, provide a framework for designing sustainable human settlements and agricultural systems. Beyond their application to physical landscapes, these principles extend to social organization, economic systems, and strategies for cultural transformation.
+Permaculture"s twelve design principles, articulated by David Holmgren in *Permaculture: Principles & Pathways Beyond Sustainability*, provide a framework for designing sustainable human settlements and agricultural systems. Beyond their application to physical landscapes, these principles extend to social organization, economic systems, and strategies for cultural transformation.
 
 ## The Twelve Principles as a Design Framework
 
@@ -34,7 +34,7 @@ The failure to obtain a yield often stems from design errors: placing elements i
 
 Healthy systems regulate themselves through negative feedback loops. When elements overproduce or underperform, the system adjusts. In permaculture design, this means designing systems that can self-correct rather than requiring constant management.
 
-Self-regulation also applies to human behavior. The failure of self-regulation by elites — political, corporate, and academic — is a recurring theme in Holmgren's analysis. When those in power cannot restrain their own consumption or correct their own mistakes, systems become brittle and vulnerable to collapse.
+Self-regulation also applies to human behavior. The failure of self-regulation by elites — political, corporate, and academic — is a recurring theme in Holmgren"s analysis. When those in power cannot restrain their own consumption or correct their own mistakes, systems become brittle and vulnerable to collapse.
 
 ### Use and Value Renewable Resources and Services
 

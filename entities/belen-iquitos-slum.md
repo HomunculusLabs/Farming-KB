@@ -7,7 +7,7 @@ tags: [place, anthropology, peru, amazon]
 
 ## Description
 
-Belen is an urban slum district of Iquitos, Peru, located on the banks of the Amazon River. It served as the primary fieldwork site for anthropologist Marlene Dobkin de Rios during her year-long study (1968-1969) of ayahuasca healing practices. Belen is one of the most significant anthropological field sites for the study of Amazonian folk healing and psychedelic plant use in urban contexts. The community of some 12,000 people dwells in houses built on rafts, and served as the primary source for data on drug healers and patients during Dobkin de Rios's research.
+Belen is an urban slum district of Iquitos, Peru, located on the banks of the Amazon River. It served as the primary fieldwork site for anthropologist Marlene Dobkin de Rios during her year-long study (1968-1969) of ayahuasca healing practices. Belen is one of the most significant anthropological field sites for the study of Amazonian folk healing and psychedelic plant use in urban contexts. The community of some 12,000 people dwells in houses built on rafts, and served as the primary source for data on drug healers and patients during Dobkin de Rios"s research.
 
 ## Classification
 

@@ -7,7 +7,7 @@ Source: [[teaming-with-microbes-old-growth-forest]] ecosystems, represent an unt
 
 ## The Big Idea: Fungi as Sources of New Medicines
 
-One of Stamets' central arguments is that Western medicine has never adequately looked to mushrooms as sources of new therapeutic agents, despite their prominence in the traditional pharmacopeias of China, Japan, and Korea. He focuses on the natural competition that exists in soil between mycelium and bacteria. Fungi have evolved novel chemical defenses — a range of antibiotic compounds that are often active against not only bacteria but also viruses and other infectious agents that cause disease in humans.
+One of Stamets" central arguments is that Western medicine has never adequately looked to mushrooms as sources of new therapeutic agents, despite their prominence in the traditional pharmacopeias of China, Japan, and Korea. He focuses on the natural competition that exists in soil between mycelium and bacteria. Fungi have evolved novel chemical defenses — a range of antibiotic compounds that are often active against not only bacteria but also viruses and other infectious agents that cause disease in humans.
 
 Stamets asserts that fungi, especially fungi from old-growth forests, may be sources of new medicines active against a range of germs, including HIV/AIDS and the causative agents of smallpox and anthrax — potential bioterrorist threats. Estimates suggest that two-thirds of our pharmaceuticals still originate from nature, making fungal biodiversity a critical resource for drug discovery.
 

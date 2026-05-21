@@ -1,6 +1,6 @@
 ---
 title: Bloomfield Fungal Pathogens Human Opportunistic Infections
-source: Mr. Bloomfield's Orchard - Nicholas P. Money
+source: Mr. Bloomfield"s Orchard - Nicholas P. Money
 tags: [mycology, fungi, bloomfield, human-pathogens, mycoses, candidiasis, cryptococcosis, immunocompromised, antifungal-resistance]
 created: 2026-05-11
 ---
@@ -11,11 +11,11 @@ In Chapter 2 of *Mr. Bloomfield's Orchard*, titled "Insidious Killers,"
 Nicholas P. Money confronts the darker side of our relationship with fungi.
 While most fungi are vegetarians, at least 300 species dine on human tissues,
 and many more exterminate other animals. Money frames this chapter within his
-book's central thesis: the need to explore what he calls our "profound
+book"s central thesis: the need to explore what he calls our "profound
 intimacy with fungi." Far from being distant or alien organisms, fungi are
 deeply embedded in human biology, sometimes as benign commensals, sometimes
 as deadly invaders. The question Money poses is stark: if fungi can rot bone
-in a patient's leg, feast on someone's brain, or devour a child's face, is
+in a patient"s leg, feast on someone's brain, or devour a child's face, is
 the naked ape king of the jungle, or the king's dinner?
 
 ## The Laboratory as Battleground
@@ -66,7 +66,7 @@ whose inhibition would stop the pathogenic fungus in its tracks.
 
 ## The Growing Threat of Antifungal Resistance
 
-Money's narrative underscores a disturbing trend: the emergence of drug-
+Money"s narrative underscores a disturbing trend: the emergence of drug-
 resistant fungal pathogens at a time when the arsenal of effective antifungal
 agents remains remarkably limited. Unlike antibacterial drugs, antifungal
 drugs target ergosterol—one of the few molecules unique to fungi—but the

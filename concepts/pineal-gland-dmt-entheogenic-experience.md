@@ -9,7 +9,7 @@ sources:
 ---
 ## Pineal Gland, DMT and Entheogenic Experience
 
-James Arthur connects the [[pineal-gland]] to entheogenic mushroom experience through a biochemical and symbolic framework that bridges endogenous (internally produced) and exogenous (externally ingested) psychoactive compounds. The pineal gland's production of DMT (dimethyltryptamine) and pinoline (a natural MAO inhibitor) is proposed as the internal counterpart to the external entheogenic mushroom sacrament, creating a unified model of visionary experience that operates through both internal and external pathways.
+James Arthur connects the [[pineal-gland]] to entheogenic mushroom experience through a biochemical and symbolic framework that bridges endogenous (internally produced) and exogenous (externally ingested) psychoactive compounds. The pineal gland"s production of DMT (dimethyltryptamine) and pinoline (a natural MAO inhibitor) is proposed as the internal counterpart to the external entheogenic mushroom sacrament, creating a unified model of visionary experience that operates through both internal and external pathways.
 
 This connects to [[sacred-sacrament-mushroom-rites]].
 
@@ -19,7 +19,7 @@ While Arthur does not extensively discuss the biochemical causes of pineal calci
 
 Arthur's cultural explanation (the [[duggar-mushroom-environmental-factors-temperature-moisture-light]] causing calcification) may be complementary rather than contradictory. The cultural timing of the "loss of innocence" may have evolved to coincide with the natural developmental calcification of the pineal gland, creating a reinforcing cycle in which psychological conditioning and biological change work together to close off visionary capacity.
 
-The recovery of pineal function, whether through meditation, dark retreat, dietary changes, or the reduction of calcifying agents, is positioned as essential to the restoration of humanity's full spiritual potential. The various traditional methods for maintaining or restoring pineal function (meditation, darkness retreats, specific diets, entheogenic substances) may all work through the same basic mechanism: reactivating the gland's natural production of DMT and pinoline.
+The recovery of pineal function, whether through meditation, dark retreat, dietary changes, or the reduction of calcifying agents, is positioned as essential to the restoration of humanity"s full spiritual potential. The various traditional methods for maintaining or restoring pineal function (meditation, darkness retreats, specific diets, entheogenic substances) may all work through the same basic mechanism: reactivating the gland's natural production of DMT and pinoline.
 
 ## The Pineal Gland in World Symbolism
 

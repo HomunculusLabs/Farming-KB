@@ -13,7 +13,7 @@ tags: [forest-garden, fungi]
 
 Fungal networking in forests refers to the vast underground systems of mycelial connections that link trees, plants, and soil organisms into integrated communities. These networks -- sometimes called the "wood wide web" -- enable [[plant-hormones-and-chemical-signaling-systems]], and coordinated responses across entire forest ecosystems.
 
-Paul Stamets describes mycelium as "Nature's Internet," a biological network predating any human communication technology by hundreds of millions of years. He sees mycelium as the living network that manifests the natural intelligence imagined by Gaia theorists.
+Paul Stamets describes mycelium as "Nature"s Internet," a biological network predating any human communication technology by hundreds of millions of years. He sees mycelium as the living network that manifests the natural intelligence imagined by Gaia theorists.
 
 ## Evolutionary Origins
 

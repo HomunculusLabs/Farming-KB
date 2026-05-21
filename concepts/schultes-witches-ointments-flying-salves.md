@@ -5,7 +5,7 @@ tags: [ethnobotany, witches-ointment, flying-salve, solanaceae, europe, medieval
 type: concept
 ---
 
-## Witches' Ointments and Flying Salves
+## Witches" Ointments and Flying Salves
 
 The witches' ointments and flying salves of medieval Europe represent
 one of the most fascinating intersections of ethnobotany, folklore,

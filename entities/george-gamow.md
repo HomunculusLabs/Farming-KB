@@ -8,7 +8,7 @@ tags: [person, physicist, cosmologist, science]
 ## George Gamow
 
 ## Description
-George Gamow (1904–1968) was a Russian-American theoretical physicist and cosmologist, cited by Timothy Leary in *The Psychedelic Experience* as providing a scientific viewpoint that closely parallels the phenomenological experience described by Tibetan lamas. Leary draws an explicit parallel between Gamow's "big squeeze" cosmological theory and the Buddhist concepts of the Unbecome, the Unborn, and the Unformed.
+George Gamow (1904–1968) was a Russian-American theoretical physicist and cosmologist, cited by Timothy Leary in *The Psychedelic Experience* as providing a scientific viewpoint that closely parallels the phenomenological experience described by Tibetan lamas. Leary draws an explicit parallel between Gamow"s "big squeeze" cosmological theory and the Buddhist concepts of the Unbecome, the Unborn, and the Unformed.
 
 ## Classification
 - **Category:** Person — Physicist / Cosmologist
@@ -17,7 +17,7 @@ George Gamow (1904–1968) was a Russian-American theoretical physicist and cosm
 
 ## Key Facts
 - Born in Odessa, Russia (then part of the Russian Empire)
-- Pioneered the Big Bang theory of the universe's origin
+- Pioneered the Big Bang theory of the universe"s origin
 - Proposed the concept of "ylem" — the primordial mixture of matter from which the universe emerged
 - Made major contributions to understanding radioactive decay (alpha decay via quantum tunneling)
 - Predicted the cosmic microwave background radiation (later confirmed by Penzias and Wilson in 1965)
@@ -25,7 +25,7 @@ George Gamow (1904–1968) was a Russian-American theoretical physicist and cosm
 - His 1950 viewpoint on the "big squeeze" is quoted by Leary as parallel to the Tibetan Buddhist Void
 
 ## The Ylem Connection
-Gamow's concept of "ylem" — the primordial, undifferentiated state of matter before the Big Bang — is used by Leary as a direct scientific analogue to the Clear Light of the First Bardo. In Gamow's framework, all matter was once "dissociated into its elementary components," a state Leary compares to the Buddhist "Unbecome, the Unborn, the Unmade, the Unformed." This convergence between astrophysics and Tibetan Buddhism is presented as evidence that mystical awareness and scientific observation can describe the same fundamental reality.
+Gamow"s concept of "ylem" — the primordial, undifferentiated state of matter before the Big Bang — is used by Leary as a direct scientific analogue to the Clear Light of the First Bardo. In Gamow"s framework, all matter was once "dissociated into its elementary components," a state Leary compares to the Buddhist "Unbecome, the Unborn, the Unmade, the Unformed." This convergence between astrophysics and Tibetan Buddhism is presented as evidence that mystical awareness and scientific observation can describe the same fundamental reality.
 
 ## Relevance to Cultivation and Mycology
 Gamow has no direct connection to mushroom cultivation. However, his cosmological framework provides intellectual scaffolding for understanding the most profound levels of the psychedelic experience — the Clear Light or First Bardo state where ego dissolves entirely. The parallel Leary draws between primordial cosmic matter and primordial consciousness suggests that psilocybin experiences may access fundamental levels of reality that both physics and meditation describe in different languages.

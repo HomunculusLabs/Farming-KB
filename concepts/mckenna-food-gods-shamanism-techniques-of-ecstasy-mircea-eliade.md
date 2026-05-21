@@ -6,10 +6,10 @@ sources:
   - "raw/papers/mckenna_t-tryptamines_consciousness.md"
 ---
 
-## Eliade's "Techniques of Ecstasy"
+## Eliade"s "Techniques of Ecstasy"
 
 The foundational scholarly treatment of shamanism remains Mircea
-Eliade's 1951 masterwork, *Shamanism: Archaic Techniques of Ecstasy*.
+Eliade"s 1951 masterwork, *Shamanism: Archaic Techniques of Ecstasy*.
 Eliade defined the shaman as a specialist in **ecstasy** — a person
 capable of entering a deliberate trance state during which the soul
 is believed to leave the body and travel to other realms of reality.
@@ -28,7 +28,7 @@ Across cultures, shamans describe a remarkably consistent cosmological
 model. Reality consists of three interconnected worlds: the **Upper
 World** (celestial beings, ancestors, transcendent wisdom), the
 **Middle World** (everyday reality), and the **Lower World** (spirits,
-the dead, transformative forces). The shaman's journey involves
+the dead, transformative forces). The shaman"s journey involves
 traveling between these worlds, guided by spirit allies or power
 animals. The means of entering the journey state vary: rhythmic
 drumming, chanting, fasting, sensory deprivation, and — crucially for
@@ -71,7 +71,7 @@ mediated belief as one of the great tragedies of human civilization.
 
 The shaman does not serve in isolation. The ecstatic experience is
 embedded in a social context: the shaman journeys on behalf of the
-community, and the community validates and integrates the shaman's
+community, and the community validates and integrates the shaman"s
 visions. The shamanic ceremony is communal — the velada, the ayahuasca
 session, the peyote meeting — dissolving boundaries between individual
 and community. This communal dimension explains why shamanism persisted

@@ -33,9 +33,9 @@ Seed balls offer decisive advantages over the conventional nursery bed and trans
 - **Natural timing**: The seed ball naturally delays germination until conditions are optimal — rain softens the clay, temperature triggers sprouting
 - **Self-thinning**: Seeds that germinate at the wrong time or place simply fail, leaving the strongest to thrive
 
-## Fukuoka's Compost Alternative
+## Fukuoka"s Compost Alternative
 
-Rather than isolating beneficial microbes and inoculating straw with elaborate "fermentation promoters," Fukuoka found that scattering a handful of chicken droppings or soil clumps over straw was "the quickest way" and produced "the most completely rotted compost." The seed ball itself — containing natural soil microbes within its clay shell — participates in this same principle of letting nature's decomposers work without human intervention.
+Rather than isolating beneficial microbes and inoculating straw with elaborate "fermentation promoters," Fukuoka found that scattering a handful of chicken droppings or soil clumps over straw was "the quickest way" and produced "the most completely rotted compost." The seed ball itself — containing natural soil microbes within its clay shell — participates in this same principle of letting nature"s decomposers work without human intervention.
 
 A single piece of rice straw on the ground undergoes a remarkable succession: rice blast fungi spread first, then spider mites arrive, followed by yeasts, blue mold, and trichoderma fungi that destroy the pathogens. Nematodes feed on fungi, bacteria feed on nematodes, mites consume bacteria, and predaceous mites feed on those mites. This complex [[fukuoka-seeds-in-the-dirt]] three-year reseeding plan. "Start out with a three-year plan, expecting to learn about three years, and just concentrate on sowing seed."
 

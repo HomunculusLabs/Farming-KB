@@ -16,7 +16,7 @@ JADAM is short for the Korean name "Jayonul Damun Saramdul" which means **"peopl
 
 ## Hankyu Cho (Born 1935) -- Father and Founder of Natural Farming
 
-Hankyu Cho is the father of Youngsang Cho and the foundational figure behind the philosophy that led to JADAM. He is the president of Cho's Global Natural Farming.
+Hankyu Cho is the father of Youngsang Cho and the foundational figure behind the philosophy that led to JADAM. He is the president of Cho"s Global Natural Farming.
 
 ### Background
 - Born 1935 in Korea
@@ -25,7 +25,7 @@ Hankyu Cho is the father of Youngsang Cho and the foundational figure behind the
 - Began his own demonstration farm in 1965
 
 ### Contributions
-- Author of "Cho Hankyu's Natural Farming"
+- Author of "Cho Hankyu"s Natural Farming"
 - Author of "Making Natural Farming Inputs"
 - His books translated into English, Chinese, Japanese, Thai, Hindi
 - Technical consulting in 14 countries
@@ -33,7 +33,7 @@ Hankyu Cho is the father of Youngsang Cho and the foundational figure behind the
 
 ### Philosophy
 - Farming should not harm nature
-- Farming should not promote commercial capital's enslavement of farmers
+- Farming should not promote commercial capital"s enslavement of farmers
 - Core questions: "How can farmers farm without needing money? How can farmers make effective inputs with cheap and easily available material?"
 - Devoted his life to solving these questions
 
@@ -51,7 +51,7 @@ Youngsang Cho is the son of Hankyu Cho and the founder/developer of the JADAM ul
 ### Background
 - Born 1965 in Hwaseong, Gyeonggi province, Korea
 - Graduated from Suwon High School and Aju University (chemistry)
-- Master's degree in horticulture at Chungnam University
+- Master"s degree in horticulture at Chungnam University
 - Completed military service at the 706 Special Forces
 - Started organic farming and raised animals from 1991 in Asan, Chungnam province
 

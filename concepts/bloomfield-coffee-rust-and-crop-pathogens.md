@@ -11,7 +11,7 @@ type: concept
 Coffee rust, caused by the fungus Hemileia vastatrix, is one of the
 most economically significant [[bloomfield-fungal-pathogens-and-parasites]] can have on human food
 security and economies. Nicholas P. Money examines these crop
-pathogens in detail in "Mr. Bloomfield's Orchard."
+pathogens in detail in "Mr. Bloomfield"s Orchard."
 
 ## Coffee Rust Biology
 

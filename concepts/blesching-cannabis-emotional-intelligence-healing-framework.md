@@ -29,7 +29,7 @@ Every cell of the human body communicates through [[maps]] specific endogenous m
 
 **Constricting emotion molecules**: epinephrine (I am afraid), dopamine (I am motivated), norepinephrine (I am attentive), cortisol (I am stressed), glutamate (I am excited), vasopressin (I am aggressive).
 
-This mapping demonstrates that generating specific emotional content changes the body's chemistry, modulated partly thro endocannabinoid system d system. Anandamide, the endogenous cannabinoid, is associated with the expansive emotion "I am at ease" and binds at the same CB1 and CB2 receptor sites as THC.
+This mapping demonstrates that generating specific emotional content changes the body"s chemistry, modulated partly thro endocannabinoid system d system. Anandamide, the endogenous cannabinoid, is associated with the expansive emotion "I am at ease" and binds at the same CB1 and CB2 receptor sites as THC.
 
 ## Three Destructive Emotions: Guilt, Martyrdom, and Harbored Anger
 

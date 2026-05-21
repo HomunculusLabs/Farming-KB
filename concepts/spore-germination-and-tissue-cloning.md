@@ -6,7 +6,7 @@ type: concept
 
 ## Spore Germination and Tissue Cloning Techniques
 
-Starting fungal cultures is the foundational skill of [[accessible-mushroom-cultivation-for-disabilities]]. Two primary pathways exist: spore germination, which produces genetically variable offspring, and tissue cloning, which creates genetically identical copies of a parent mushroom. Each method has distinct advantages depending on the cultivator's goals—whether breeding new strains adapted to local conditions or preserving the exact genetics of a high-performing specimen.
+Starting fungal cultures is the foundational skill of [[accessible-mushroom-cultivation-for-disabilities]]. Two primary pathways exist: spore germination, which produces genetically variable offspring, and tissue cloning, which creates genetically identical copies of a parent mushroom. Each method has distinct advantages depending on the cultivator"s goals—whether breeding new strains adapted to local conditions or preserving the exact genetics of a high-performing specimen.
 
 ## Spores vs. Cloning: Choosing the Right Approach
 
@@ -39,7 +39,7 @@ Spores are collected by making a spore print: placing a mushroom cap gill-side (
 
 ### Preparing Agar Plates
 
-Supplementing agar with a small amount of the mushroom's preferred substrate (such as powdered wood for wood-loving species or soil for soil-inhabiting species) can improve germination rates. This is especially important for picky wild mushrooms like maitake, which has a strong affinity for oak. Species-specific agar formula recommendations are detailed in cultivation profiles.
+Supplementing agar with a small amount of the mushroom"s preferred substrate (such as powdered wood for wood-loving species or soil for soil-inhabiting species) can improve germination rates. This is especially important for picky wild mushrooms like maitake, which has a strong affinity for oak. Species-specific agar formula recommendations are detailed in cultivation profiles.
 
 ### Required Tools
 
@@ -90,7 +90,7 @@ After streaking, different strains (ecotypes) of the same mushroom may separate 
 
 ### Understanding Tissue Culture
 
-A mushroom's cap and stem are composed of dense bundles of mycelial tissue that have differentiated into specialized structures. When a small piece of this tissue is placed on agar, the mycelium "wakes up" and resumes its undifferentiated growth pattern, spreading across the plate as if it had never formed a mushroom. This works because the mushroom is essentially compressed mycelium.
+A mushroom"s cap and stem are composed of dense bundles of mycelial tissue that have differentiated into specialized structures. When a small piece of this tissue is placed on agar, the mycelium "wakes up" and resumes its undifferentiated growth pattern, spreading across the plate as if it had never formed a mushroom. This works because the mushroom is essentially compressed mycelium.
 
 ### Selecting the Right Specimen
 

@@ -1,5 +1,5 @@
 ---
-title: "Fourier's Law of Heat Conduction"
+title: "Fourier"s Law of Heat Conduction"
 aliases: [Fourier law, heat conduction equation, conductive heat flux]
 tags: [thermodynamics, heat-transfer, materials-science, physics, engineering]
 created: 2026-05-02

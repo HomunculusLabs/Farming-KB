@@ -33,7 +33,7 @@ Bernardino de Sahagun (c. 1499-1590) was a Franciscan friar and pioneering ethno
 
 ## Relevance to Cultivation and Mycology
 
-Sahagun's chronicles are among the earliest and most important historical sources documenting the pre-Columbian use of psychoactive mushrooms (teonanacatl) and other plant medicines in Mesoamerica. Without his careful documentation, knowledge of the Aztec mushroom cult might have been completely lost, and the 20th-century rediscovery of psychoactive mushroom use by Wasson, Hofmann, and others would have lacked the historical foundation that guided their research. His work demonstrates the critical importance of preserving ethnographic knowledge of indigenous plant use for future generations of researchers.
+Sahagun"s chronicles are among the earliest and most important historical sources documenting the pre-Columbian use of psychoactive mushrooms (teonanacatl) and other plant medicines in Mesoamerica. Without his careful documentation, knowledge of the Aztec mushroom cult might have been completely lost, and the 20th-century rediscovery of psychoactive mushroom use by Wasson, Hofmann, and others would have lacked the historical foundation that guided their research. His work demonstrates the critical importance of preserving ethnographic knowledge of indigenous plant use for future generations of researchers.
 
 ## See Also
 
@@ -45,7 +45,7 @@ Sahagun's chronicles are among the earliest and most important historical source
 
 ## The Challenge of Translation
 
-Sahagun's work faced the fundamental challenge of translating indigenous concepts into European categories. The Nahuatl term "ololiuhqui" refers not just to the plant and its seeds but to a complex of religious, medical, and magical practices that have no direct European equivalent. Similarly, "teonanacatl" ("flesh of the gods") conveys a theological understanding of the sacred mushrooms that resists reduction to pharmacological terms. Sahagun's bilingual approach, preserving the Nahuatl text alongside the Spanish, allowed later scholars to recover meanings that were lost or distorted in translation. This methodological innovation has become standard practice in modern ethnography.
+Sahagun's work faced the fundamental challenge of translating indigenous concepts into European categories. The Nahuatl term "ololiuhqui" refers not just to the plant and its seeds but to a complex of religious, medical, and magical practices that have no direct European equivalent. Similarly, "teonanacatl" ("flesh of the gods") conveys a theological understanding of the sacred mushrooms that resists reduction to pharmacological terms. Sahagun"s bilingual approach, preserving the Nahuatl text alongside the Spanish, allowed later scholars to recover meanings that were lost or distorted in translation. This methodological innovation has become standard practice in modern ethnography.
 
 ## Institutional Context
 
@@ -53,7 +53,7 @@ Sahagun worked within the institutional framework of the Franciscan order and th
 
 ## Documentation of Teonanacatl
 
-Sahagun's documentation of teonanacatl ("flesh of the gods"), the sacred mushrooms of Aztec religion, provided the historical basis for the twentieth-century rediscovery of psychoactive mushroom use in Mexico. His description of how the mushrooms were consumed during religious ceremonies, the visions they produced, and their role in divination and healing practices guided Wasson, Hofmann, and others in their search for surviving mushroom cults among contemporary indigenous peoples. Without Sahagun's account, the idea that psychoactive mushrooms were used in Mesoamerican religion might have been dismissed as a Spanish colonial fantasy, and the rich tradition of mushroom use that survives among the Mazatec and other indigenous groups might never have been recognized by Western science.
+Sahagun's documentation of teonanacatl ("flesh of the gods"), the sacred mushrooms of Aztec religion, provided the historical basis for the twentieth-century rediscovery of psychoactive mushroom use in Mexico. His description of how the mushrooms were consumed during religious ceremonies, the visions they produced, and their role in divination and healing practices guided Wasson, Hofmann, and others in their search for surviving mushroom cults among contemporary indigenous peoples. Without Sahagun"s account, the idea that psychoactive mushrooms were used in Mesoamerican religion might have been dismissed as a Spanish colonial fantasy, and the rich tradition of mushroom use that survives among the Mazatec and other indigenous groups might never have been recognized by Western science.
 
 ## References
 

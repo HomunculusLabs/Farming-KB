@@ -30,7 +30,7 @@ bands of reality ordinarily inaccessible. This connects to the broader
 where no memory of the previous world remains.
 
 The experience is characterized by:
-- **Immediate breakthrough**: DMT's onset is virtually instantaneous
+- **Immediate breakthrough**: DMT"s onset is virtually instantaneous
 - **[[tryptamine-hyperdimensional-entities]] possessing apparent intelligence
 - **Ineffability**: The experience resists language and is absent
   from art history

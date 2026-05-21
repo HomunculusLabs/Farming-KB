@@ -12,7 +12,7 @@ Azomite (an acronym for "A to Z Of Minerals Including Trace Elements") is a [[co
 
 ## Evidence Base and Research
 
-The scientific evidence for Azomite's efficacy is more limited than for basalt or glacial rock dust:
+The scientific evidence for Azomite"s efficacy is more limited than for basalt or glacial rock dust:
 
 - **University trials**: Several land-grant universities have conducted controlled trials with Azomite, with mixed results. Positive responses are most consistently observed in trace-mineral-deficient soils and with crops that have high micronutrient demands
 - **Brix improvement**: Perhaps the most frequently reported benefit is increased Brix (soluble solids content) in fruits and vegetables. Higher Brix values are associated with improved flavor, nutritional density, and pest resistance

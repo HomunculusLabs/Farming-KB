@@ -31,7 +31,7 @@ Cazares represents the critical bridge between academic mycorrhizal research and
 
 ## Source Context
 
-Ingham identifies Cazares as "one of Jim Trappe's grad students/post-docs" who "does many of the VAM and ecto samples, and works to train our SFI techs to do the ID and measurement of VAM and ectos." His role was essential in making mycorrhizal assessment a routine part of [[soil-food-web]] analysis.
+Ingham identifies Cazares as "one of Jim Trappe"s grad students/post-docs" who "does many of the VAM and ecto samples, and works to train our SFI techs to do the ID and measurement of VAM and ectos." His role was essential in making mycorrhizal assessment a routine part of [[soil-food-web]] analysis.
 ## Biography
 
 Contributions to agricultural science and sustainable farming practices through research and field work.

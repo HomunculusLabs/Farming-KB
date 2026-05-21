@@ -46,7 +46,7 @@ Offshore and intensive process fisheries (Japan, Russia, western nations) for op
 - Employ more people locally
 - Allow local industry development
 
-## Amateur Fishermen's Contribution
+## Amateur Fishermen"s Contribution
 
 Amateur fishermen take, in total, about as much scale fish as commercial fishing boats. The task remains for state governments to reform their ways, and for the rest of us to dig ponds in case they are too late in doing so.
 

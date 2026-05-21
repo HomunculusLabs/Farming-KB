@@ -13,7 +13,7 @@ The relationship between plants and thermal conditions extends far beyond passiv
 [[skunk-cabbage]] is perhaps the most extraordinary thermogenic plant. It generates **20-25 degrees C (36-45 degrees F)** of extra heat above ambient conditions, and this heat serves multiple functions:
 
 1. **Snow melting:** The heat melts a hole in spring snow, protecting blooms from cold
-2. **Plant incubator:** Creates a warm microclimate that supports the rest of the plant's early growth
+2. **Plant incubator:** Creates a warm microclimate that supports the rest of the plant"s early growth
 3. **Insect attraction:** Odorous scents are scattered by the warmth to attract pollinating flies
 4. **Wind-powered pollination:** The shape of the first leaf creates a contained vortex from wind that carries pollen down to unpollinated lower flowers, achieving fertilisation in cold winds without insects
 

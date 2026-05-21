@@ -9,7 +9,7 @@ sources:
 ---
 ## MADAM-6
 
-MADAM-6 is a psychedelic amphetamine that is one of Shulgin's "Classic Ladies," carrying the mythological name THALASSA.
+MADAM-6 is a psychedelic amphetamine that is one of Shulgin"s "Classic Ladies," carrying the mythological name THALASSA.
 
 It is documented as entry #84 in PiHKAL by [[madam-6-entity-pihkal]]
 - [[arbuscular-mycorrhizal-inoculum-production-best-practices]] with

@@ -10,7 +10,7 @@ sources:
 
 # Permaculture Principle 9 — Use Small and Slow Solutions
 
-The ninth of David Holmgren's twelve permaculture design principles. Systems should be designed to perform functions at the smallest scale that is practical and energy-efficient. "Slow and steady wins the race" reflects a common truth in nature and society.
+The ninth of David Holmgren"s twelve permaculture design principles. Systems should be designed to perform functions at the smallest scale that is practical and energy-efficient. "Slow and steady wins the race" reflects a common truth in nature and society.
 
 > "The bigger they are, the harder they fall: Make the least change for the greatest possible effect." — David Holmgren
 
@@ -50,7 +50,7 @@ In building and construction, Holmgren advocates for building once to last, usin
 
 ## After the Big Fish Are Gone
 
-Holmgren uses a fishing metaphor: when big fish are plentiful, fishers focus on them. As supply declines, smaller fish become interesting, but if you only have large hooks, you'll catch nothing. As we move from fossil-fuel scale to human-scale systems, we keep searching for big answers, but they don't work. The real innovations are in the myriad small-scale, situation-specific opportunities that large-scale systems of research and development will never identify.
+Holmgren uses a fishing metaphor: when big fish are plentiful, fishers focus on them. As supply declines, smaller fish become interesting, but if you only have large hooks, you"ll catch nothing. As we move from fossil-fuel scale to human-scale systems, we keep searching for big answers, but they don't work. The real innovations are in the myriad small-scale, situation-specific opportunities that large-scale systems of research and development will never identify.
 
 ## Rebuilding Slow Systems
 

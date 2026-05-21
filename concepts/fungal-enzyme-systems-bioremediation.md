@@ -10,7 +10,7 @@ sources:
 
 # Fungal Enzyme Systems for Bioremediation
 
-The biochemical machinery that enables fungi to break down some of the most recalcitrant molecules on Earth. From [[paul-stamets]]' *Mycelium Running* (2005).
+The biochemical machinery that enables fungi to break down some of the most recalcitrant molecules on Earth. From [[paul-stamets]]" *Mycelium Running* (2005).
 
 ## Lignin: Nature's Most Recalcitrant Molecule
 

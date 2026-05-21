@@ -36,7 +36,7 @@ The art of being conservative is to concentrate on developing a mosaic of small,
 
 ### Meaning Through Action
 
-Meaning in life is lost by striving after status and future glory; it is gained and realised by action towards a common ideal, in serving the whole according to one's physical, mental, educational, and revelationary capacities. It is never enough to mean well --- "fair words plant no cabbages" --- it is necessary to ensure that things actually get done.
+Meaning in life is lost by striving after status and future glory; it is gained and realised by action towards a common ideal, in serving the whole according to one"s physical, mental, educational, and revelationary capacities. It is never enough to mean well --- "fair words plant no cabbages" --- it is necessary to ensure that things actually get done.
 
 ### Security Through Renunciation
 

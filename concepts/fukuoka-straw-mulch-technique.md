@@ -1,5 +1,5 @@
 ---
-title: "Fukuoka's fukuoka-rice-straw-mulch-central-technique Technique"
+title: "Fukuoka"s fukuoka-rice-straw-mulch-central-technique Technique"
 created: 2026-04-20
 updated: 2026-04-20
 type: concept

@@ -7,7 +7,7 @@ topics: mycology, evolution, taxonomy, fungi, biology
 
 ## The Kingdom of Fungi — Third Kingdom of Life
 
-Terence McKenna's interest in fungi extended beyond their psychoactive
+Terence McKenna"s interest in fungi extended beyond their psychoactive
 properties to encompass their evolutionary significance and ecological
 importance. In *Food of the Gods*, he framed fungi as a third kingdom
 of life — distinct from plants and animals, ancient beyond reckoning,
@@ -74,7 +74,7 @@ experiences that they were forbidden to describe. The secrecy
 surrounding the ceremony has preserved the mystery, but the
 [[lsd-discovery-aftermath-pharmacological-properties]] of ergot alkaloids — which include both
 psychedelic and entheogenic effects — make them plausible candidates
-for the kykeon's active component.
+for the kykeon"s active component.
 
 ## Fungal Intelligence
 

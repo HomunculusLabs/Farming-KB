@@ -25,7 +25,7 @@ Palmer references atropia in the context of treating Amanita poisoning:
 
 - Amanita species (particularly *[[amanita-phalloides]]* and *[[amanita-virosa]]*) contain amatoxins that cause fatal liver and kidney failure
 - The poisoning is described as surer than arsenic in its fatal consequences
-- No antidote had been discovered at the time of Palmer's writing
+- No antidote had been discovered at the time of Palmer"s writing
 - Atropia was the only treatment even tentatively suggested
 
 ## Pharmacological Considerations
@@ -38,7 +38,7 @@ Palmer specifically notes that atropia comes from "the nightshade family," drawi
 
 ## Relevance to Cultivation and Mycology
 
-Atropia's mention highlights the historical desperation surrounding Amanita poisoning treatment and underscores the critical importance of prevention through proper identification rather than reliance on post-exposure treatment. The fact that 19th-century physicians were "absolutely powerless" without even this questionable treatment reinforces Palmer's central argument that learning to identify individual species is the only reliable approach to safe mushroom foraging.
+Atropia"s mention highlights the historical desperation surrounding Amanita poisoning treatment and underscores the critical importance of prevention through proper identification rather than reliance on post-exposure treatment. The fact that 19th-century physicians were "absolutely powerless" without even this questionable treatment reinforces Palmer's central argument that learning to identify individual species is the only reliable approach to safe mushroom foraging.
 ## Historical Context
 
 This topic has been studied and referenced across multiple traditions and academic disciplines. Understanding the historical development provides important context for current perspectives and applications.

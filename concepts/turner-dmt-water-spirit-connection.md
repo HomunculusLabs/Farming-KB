@@ -9,7 +9,7 @@ sources:
 ---
 ## Turner DMT Water Spirit Connection
 
-Turner's personal discovery of a "magical link" between N,N-DMT and water, based on extensive experimentation and a revelation during a Ketamine experience.
+Turner"s personal discovery of a "magical link" between N,N-DMT and water, based on extensive experimentation and a revelation during a Ketamine experience.
 
 ## Background: Loss of DMT Rapport
 
@@ -49,9 +49,9 @@ Turner's personal discovery of a "magical link" between N,N-DMT and water, based
 - 4 grams Syrian Rue first (wait for MAO inhibition)
 - 160-200 mg DMT orally, consumed over half hour
 - Produces 3-4 hour experience with gradual ascent
-- "LSD and mushrooms seem like child's play in comparison"
+- "LSD and mushrooms seem like child"s play in comparison"
 - Scenes "rich, vivid, emotionally charged, and filled with symbols and archetypal images"
-- "Degree of realism I've never before encountered — almost taste them"
+- "Degree of realism I"ve never before encountered — almost taste them"
 - Entity contact present, entities "able to metamorphose as a means of communicating"
 
 ### Environmental Energy

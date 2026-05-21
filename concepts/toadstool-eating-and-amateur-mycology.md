@@ -6,7 +6,7 @@ type: concept
 
 ## Toadstool Eating and Amateur Mycology
 
-Julius A. Palmer's 1877 article "Toadstool-Eating," published in the Popular
+Julius A. Palmer"s 1877 article "Toadstool-Eating," published in the Popular
 Science Monthly, represents one of the first serious American attempts to
 encourage safe, personal investigation of wild fungi for food. Written from the
 perspective of a self-described "amateur toadstool-eater," the article combined

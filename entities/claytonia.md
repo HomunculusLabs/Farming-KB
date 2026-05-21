@@ -9,7 +9,7 @@ tags: [crop, cold-hardy, winter-vegetable, salad-green, montiaceae]
 
 ## Description
 
-Claytonia, commonly known as **miner's lettuce** or **winter purslane**, is a small, cold-hardy annual green in the family Montiaceae. It is one of the signature "novel" cold-hardy crops in Eliot Coleman's [[cold-house-winter-harvest-system]], valued for its succulent, mild-flavored leaves and stems and its exceptional ability to grow through the darkest, coldest months of winter. The plant produces distinctive rounded leaves that form a complete disc around the stem (perfoliate), with tiny white flowers emerging from the center.
+Claytonia, commonly known as **miner"s lettuce** or **winter purslane**, is a small, cold-hardy annual green in the family Montiaceae. It is one of the signature "novel" cold-hardy crops in Eliot Coleman"s [[cold-house-winter-harvest-system]], valued for its succulent, mild-flavored leaves and stems and its exceptional ability to grow through the darkest, coldest months of winter. The plant produces distinctive rounded leaves that form a complete disc around the stem (perfoliate), with tiny white flowers emerging from the center.
 
 ## Classification
 
@@ -24,7 +24,7 @@ Claytonia, commonly known as **miner's lettuce** or **winter purslane**, is a sm
 - Listed among the **"novel" cold-hardy vegetables** at Four Season Farm alongside mâche and minutina
 - Included in the full inventory of approximately **30 cold-hardy vegetable species** grown [[weed-control-in-winter-greenhouses]]
 - Appears on **both cool-house and cold-house harvest charts** as a reliable producer from October through May in Zone 5
-- Named "miner's lettuce" because it was consumed by **Gold Rush-era miners** in California to prevent scurvy, indicating its high vitamin C content
+- Named "miner"s lettuce" because it was consumed by **Gold Rush-era miners** in California to prevent scurvy, indicating its high vitamin C content
 - Native to **western North America**, where it grows as a cool-season annual in moist, shaded areas
 - The plant's succulent, slightly tart leaves and stems have a refreshing, mild flavor well-suited to salad mixes
 - Exceptionally cold-tolerant — one of the most reliable midwinter producers in [[cold-house-unheated-greenhouse]] systems

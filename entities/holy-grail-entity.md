@@ -10,7 +10,7 @@ The Holy Grail is a legendary sacred vessel that has been sought by questing
 knights, religious scholars, and mystics for centuries. In ethnomycological
 analysis, the Grail is understood as a symbolic representation of the *[[amanita]]
 muscaria* mushroom — specifically its mature, upturned cap form, which resembles
-a cup or chalice containing the "blood of God" (the mushroom's juices). The
+a cup or chalice containing the "blood of God" (the mushroom"s juices). The
 quest for the Grail is interpreted as an allegorical journey to discover and
 master the use of the entheogenic mushroom.
 
@@ -61,7 +61,7 @@ reference:
   the code and possessing its transformative capacity
 - Young Arthur pulling the sword from the stone represents the initiate gaining
   mastery over the entheogenic substance
-- The sword's power parallels the mushroom's perceived spiritual power
+- The sword"s power parallels the mushroom's perceived spiritual power
 
 ### The Parcival Quest
 
@@ -95,7 +95,7 @@ The Grail/mushroom connection is preserved in religious artwork across centuries
 - Grail-shaped vessels appear in medieval frescoes and illuminated manuscripts
 - The cup is frequently shown in contexts that also include tree and serpent
   imagery (Eden symbolism = mushroom under the tree)
-- The "Fountain of Youth" in art often mirrors the mushroom's fountain shape
+- The "Fountain of Youth" in art often mirrors the mushroom"s fountain shape
 - Celtic and Norse art contains vessel imagery alongside mushroom motifs
 
 ## Relevance to Ethnomycology
@@ -128,7 +128,7 @@ While the Grail itself is mythological, understanding its connection to
 
 - The mature upturned *Amanita muscaria* cap forms a cup/chalice shape
 - The Grail legend encodes the mushroom as a sacred vessel
-- Sword-in-stone motif represents extracting power from the mushroom's button
+- Sword-in-stone motif represents extracting power from the mushroom"s button
   state
 - The Parcival quest allegorizes the personal entheogenic journey
 - Multiple cultures independently developed "sacred vessel" mythology

@@ -5,7 +5,7 @@ aliases:
   - "auxin"
   - "what a plant knows"
 grass (*phalaris canariensis*) seedlings, the Darwins systematically tested how
-daniel-chamovitz's *what a plant knows* (Chapter 1: What a Plant Sees), where they serve as a foundational example
+daniel-chamovitz"s *what a plant knows* (Chapter 1: What a Plant Sees), where they serve as a foundational example
 of how plants perceive and respond to light.
 ---
 
@@ -31,7 +31,7 @@ rather than generating growth itself.
 
 An opaque cap blocking all light was placed over the intact shoot tip. Despite the
 tip being physically present, the seedling **did not bend**. The intact but darkened
-tip was functionally blind, confirming that the tip's *light-sensing* ability — not
+tip was functionally blind, confirming that the tip"s *light-sensing* ability — not
 merely its physical presence — was required.
 
 ### Condition D — Tip Covered with a Clear Glass Cap

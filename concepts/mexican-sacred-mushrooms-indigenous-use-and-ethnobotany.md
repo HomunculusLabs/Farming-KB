@@ -28,7 +28,7 @@ Mexico represents the epicenter of sacred mushroom use in the world, with the ri
 
 ### Mazatec People (Oaxaca)
 
-The Mazatec of the Sierra Mazateca in Oaxaca are the most famous mushroom-using culture, largely due to Wasson's publicity. They use several Psilocybe species ceremonially, and their curandera María Sabina became internationally known. The Mazatec also use [[dictyophora-indusiata]] (with its three forms) as a special narcotic fungus for divination purposes. The Trique Indians of Alta Mixteca use Elaphomyces species (the subterranean hosts of Cordyceps) to help heal wounds and to "rejuvenate the organism."
+The Mazatec of the Sierra Mazateca in Oaxaca are the most famous mushroom-using culture, largely due to Wasson"s publicity. They use several Psilocybe species ceremonially, and their curandera María Sabina became internationally known. The Mazatec also use [[dictyophora-indusiata]] (with its three forms) as a special narcotic fungus for divination purposes. The Trique Indians of Alta Mixteca use Elaphomyces species (the subterranean hosts of Cordyceps) to help heal wounds and to "rejuvenate the organism."
 
 ### Other Mexican Indigenous Groups
 

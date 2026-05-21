@@ -6,7 +6,7 @@ type: concept
 
 ## Soil Minerals and Micronutrients in Permaculture
 
-Understanding the mineral composition of soils is central to [[permaculture-design]]. Bill Mollison's *Permaculture: A Designers' Manual* devotes significant attention to the elements of the periodic table relevant to soil health and plant nutrition. Rather than treating minerals as isolated inputs for conventional fertiliser programmes, permaculture regards them as dynamic participants in living ecosystems — recycled by trees, fixed by microorganisms, and made available through biological processes. This page summarises the key minerals and micronutrients covered in the Manual from a permaculture perspective.
+Understanding the mineral composition of soils is central to [[permaculture-design]]. Bill Mollison"s *Permaculture: A Designers' Manual* devotes significant attention to the elements of the periodic table relevant to soil health and plant nutrition. Rather than treating minerals as isolated inputs for conventional fertiliser programmes, permaculture regards them as dynamic participants in living ecosystems — recycled by trees, fixed by microorganisms, and made available through biological processes. This page summarises the key minerals and micronutrients covered in the Manual from a permaculture perspective.
 
 ## Magnesium (Mg)
 

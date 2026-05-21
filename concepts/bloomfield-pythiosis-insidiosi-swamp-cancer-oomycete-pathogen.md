@@ -1,6 +1,6 @@
 ---
 title: Pythiosis Insidiosi — Swamp Cancer and the Oomycete Mammalian Pathogen
-source: Mr. Bloomfield's Orchard - Nicholas P. Money
+source: Mr. Bloomfield"s Orchard - Nicholas P. Money
 ---
 source_path: raw/papers/mr-bloomfields-orchard---the-mysterious-world-of-mushrooms-molds-and-mycologists.md
 concepts:

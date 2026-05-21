@@ -33,7 +33,7 @@ The yellowish metabolites excreted by stressed mycelium are likely a complex mix
 
 The exact composition varies by species, strain, and stressor, but the visual appearance is remarkably consistent: yellowish, sometimes sticky or resinous droplets that appear on the grain surface and between kernels.
 
-## The Guide's Recommendation
+## The Guide"s Recommendation
 
 The grass seed cultivation guide states that jars showing metabolite excretion "should be cased as soon as possible." This is the primary recommended response, and it reflects a practical understanding that the stressed mycelium needs to be moved to its next growth phase before conditions deteriorate further.
 

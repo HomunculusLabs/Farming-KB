@@ -1,5 +1,5 @@
 ---
-title: Fukuoka's Philosophy of Do-Nothing Farming
+title: Fukuoka"s Philosophy of Do-Nothing Farming
 created: 2026-04-24
 updated: 2026-04-25
 type: concept
@@ -7,13 +7,13 @@ tags: [farming, philosophy, mu, non-action, natural-farming, fukuoka]
 sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
-## Fukuoka's Philosophy of Do-Nothing Farming
+## Fukuoka"s Philosophy of Do-Nothing Farming
 
 In  further develops his "do-nothing" [[fukuoka-road-spiritual-aspects-farming]] worldview. It was not a philosophical conclusion reached through argument but a sudden revelation — "a road back to nature" that arrived unbidden.
 
 ## The Connection to Mu (Nothingness)
 
-Do-nothing farming is deeply rooted in the Eastern concept of Mu (nothingness). Fukuoka draws explicitly on the Buddha's Heart Sutra: "Form is emptiness and emptiness is form. All is nothing." He interprets this to mean that "all effort is in vain" — that "we are not alive, we are not growing, and we are not dead."
+Do-nothing farming is deeply rooted in the Eastern concept of Mu (nothingness). Fukuoka draws explicitly on the Buddha"s Heart Sutra: "Form is emptiness and emptiness is form. All is nothing." He interprets this to mean that "all effort is in vain" — that "we are not alive, we are not growing, and we are not dead."
 
 His three principles of thought flow from this: first, "we do not understand; it is not possible to know and understand"; second, "nothing, no matter what it is, has value in and of itself"; and third, "anything done with the human intellect is worthless; it serves no purpose. In a word, all is unnecessary." When he arrived at this conclusion, he "lost a standard by which to judge what is true and what is false."
 
@@ -21,7 +21,7 @@ Yet this philosophical radicalism had a practical purpose. He did not take up ri
 
 ## The Thirty-Year Search for Methods
 
-Although Fukuoka "happened upon the idea of 'do-nothing' farming" as a youth, "I had no idea at first how to carry it out in practice. I didn't know the methods. For thirty years since then I've farmed in search of those methods. Eventually, I came to have some idea of what these are."
+Although Fukuoka "happened upon the idea of "do-nothing' farming" as a youth, "I had no idea at first how to carry it out in practice. I didn"t know the methods. For thirty years since then I've farmed in search of those methods. Eventually, I came to have some idea of what these are."
 
 The search was neither passive nor theoretical. During the war, he joined the Kochi Prefecture agricultural [[natural-farming-methods-comparison]]" while keeping "the idea of [[fukuoka-road-back-to-nature-overview]], he argues that "[[fukuoka-critique-scientific-agriculture-civilization]]" but is still caught within the same paradigm. "In its present form, organic gardening is simply a return to animal-based farming."
 

@@ -43,7 +43,7 @@ sources: []
 - Nutrient sharing is bidirectional; plants contribute based on supply and demand
 
 ### The "Mother Tree" Concept
-[[suzanne-simard]]'s pioneering research at the University of British Columbia:
+[[suzanne-simard]]"s pioneering research at the University of British Columbia:
 - Large, old trees ("hub" or "mother" trees) serve as central nodes in forest networks
 - These trees have the most mycorrhizal connections and transfer the most resources
 - Mother trees preferentially supply their own offspring (kin selection)
@@ -145,6 +145,6 @@ sources: []
 - Some researchers argue that resource movement is small relative to total plant budgets
 - Kin selection through CMNs is supported by some studies but not universally accepted
 - The signaling function of CMNs is well-documented but field significance is debated
-- Popular accounts (including Simand's "Finding the Mother Tree") have been criticized for over-stating the cooperation narrative
+- Popular accounts (including Simand"s "Finding the Mother Tree") have been criticized for over-stating the cooperation narrative
 
 ## See Also

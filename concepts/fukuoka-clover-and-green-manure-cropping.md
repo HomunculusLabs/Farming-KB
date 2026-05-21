@@ -37,9 +37,9 @@ Fukuoka explicitly framed his clover-based system as a "revolution" opposing mod
 
 ## Crop Rotation with Green Manure
 
-Fukuoka's [[cervantes-fertilizer-application-strain-feeding]]. The clover roots die and regrow, continuously adding organic matter. Earthworms appear where there is humus, and moles follow the earthworms, further aerating the soil.
+Fukuoka"s [[cervantes-fertilizer-application-strain-feeding]]. The clover roots die and regrow, continuously adding organic matter. Earthworms appear where there is humus, and moles follow the earthworms, further aerating the soil.
 
-This contrasts sharply with what happens under conventional management, where weeding and plowing "depletes the fertility of the soil, creates a deficiency of trace components, diminishes the soil's vitality, hardens the topsoil, kills off microbes, and turns rich, living, organic material into a dead, inanimate, yellowish-white mineral matter the only function of which is to physically support the crops."
+This contrasts sharply with what happens under conventional management, where weeding and plowing "depletes the fertility of the soil, creates a deficiency of trace components, diminishes the soil"s vitality, hardens the topsoil, kills off microbes, and turns rich, living, organic material into a dead, inanimate, yellowish-white mineral matter the only function of which is to physically support the crops."
 
 The green manure approach thus serves not only as a replacement for chemical nitrogen but as a comprehensive soil restoration strategy. It addresses the physical structure (roots loosen and aggregate soil), biological activity (microbes proliferate), chemical balance (nutrients cycle naturally), and water management (mulch retains moisture) of the soil simultaneously.
 

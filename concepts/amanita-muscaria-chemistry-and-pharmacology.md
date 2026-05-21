@@ -22,7 +22,7 @@ Amanita muscaria, the fly-agaric, contains a unique pharmacological profile dist
 - **Formula**: C5H6N2O4, molecular weight 158.11
 - **Appearance**: Colorless crystals, melting point 150-152 deg. C (decomposition)
 - **Solubility**: Readily soluble in cold water
-- **Pharmacology**: A conformationally restricted derivative of glutamic acid, the major excitatory neurotransmitter in the mammalian central nervous system. Acts on glutamate receptors implicated in neurological disorders such as epilepsy and Huntington's disease.
+- **Pharmacology**: A conformationally restricted derivative of glutamic acid, the major excitatory neurotransmitter in the mammalian central nervous system. Acts on glutamate receptors implicated in neurological disorders such as epilepsy and Huntington"s disease.
 - **Note**: Any attempt at dehydration leads to decarboxylation, yielding muscimol quantitatively.
 
 ### Muscimol
@@ -48,7 +48,7 @@ According to Michelot and Melendez-Howell: "Ibotenic acid, and particularly musc
 
 ## Antibiotic Properties
 
-The two major chemicals found in A. muscaria are closely related to known antibiotics. The chemically related hydroxypyrollidone derivative is a known antibiotic and antifungal also found in micromycetes. Almost all modern medicine's antibiotics were first discovered in fungi.
+The two major chemicals found in A. muscaria are closely related to known antibiotics. The chemically related hydroxypyrollidone derivative is a known antibiotic and antifungal also found in micromycetes. Almost all modern medicine"s antibiotics were first discovered in fungi.
 
 ## Toxicity
 

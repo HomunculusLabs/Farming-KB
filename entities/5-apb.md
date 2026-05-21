@@ -2,7 +2,7 @@
 title: "5 Apb"
 type: entity
 tags: []
-sources: ['raw/papers/gartz-growth-promoting-effect-of-brassinosteroid-psilocybe-cubensis.md']
+sources: ["raw/papers/gartz-growth-promoting-effect-of-brassinosteroid-psilocybe-cubensis.md']
 ---
 
 The compound emerged as a designer drug in the United Kingdom around 2010, marketed

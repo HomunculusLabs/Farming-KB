@@ -10,7 +10,7 @@ type: concept
 
 ## Gaian Psychotherapy and Entheogenic Plants
 
-Simon G. Powell's "The [[hallucinogenic-mushroom-acute-psychological-effects-and-bad-trips]], acting as mediators between human
+Simon G. Powell"s "The [[hallucinogenic-mushroom-acute-psychological-effects-and-bad-trips]], acting as mediators between human
 consciousness and the broader web of life.
 
 ## Critique of Reductionist Science
@@ -28,7 +28,7 @@ by molecular biology alone.
 The scientific investigation of psilocybin and related compounds
 has tended to focus on brain chemistry while neglecting the ecological
 and evolutionary context in which these substances occur. Powell
-contends this is analogous to studying a word's grammatical properties
+contends this is analogous to studying a word"s grammatical properties
 while ignoring its meaning.
 
 ## Nature as Communicating Intelligence

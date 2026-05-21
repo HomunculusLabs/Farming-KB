@@ -16,7 +16,7 @@ type: concept
 occupies a unique position as both a powerful empathogen-entactogen and a
 classical psychedelic. Documented in PIHKAL as compound #105, MDA is the
 direct precursor and inspiration for [[metzner-psycholytic-psychedelic-therapy-models]]
-research. Shulgin's exploration of MDA ultimately led to his discovery of
+research. Shulgin"s exploration of MDA ultimately led to his discovery of
 [[mdma]]'s unique properties, making MDA pivotal in modern empathogen history.
 
 The dual nature of MDA, combining empathogenic and psychedelic qualities,
@@ -64,7 +64,7 @@ Physical effects include pronounced pupil dilation, elevated heart rate,
 jaw clenching, significant stimulation, and heavier body load compared to
 MDMA. Nausea during onset is possible at higher doses.
 
-## Shulgin's Commentary
+## Shulgin"s Commentary
 
 Shulgin's relationship with MDA was foundational to his career. His
 exploration of MDA in the 1960s led him to investigate related compounds and

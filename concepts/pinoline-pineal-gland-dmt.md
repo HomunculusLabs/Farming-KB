@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-Pinoline (6-methoxytetrahydro-beta-carboline) is a naturally occurring monoamine oxidase inhibitor (MAOI) produced by the **pineal gland** in the human brain. It plays a central role in the neurochemistry of sleep, visionary experiences, and potentially in naturally occurring psychic phenomena. The pineal gland is also known to produce **dimethyltryptamine (DMT)** — a powerful psychoactive compound — and the combination of endogenous DMT with pinoline's MAO-inhibiting action has been proposed as a biological mechanism underlying dream states, [[chacruna-psychotria-viridis]]*, *Diplopterys cabrerana*)
+Pinoline (6-methoxytetrahydro-beta-carboline) is a naturally occurring monoamine oxidase inhibitor (MAOI) produced by the **pineal gland** in the human brain. It plays a central role in the neurochemistry of sleep, visionary experiences, and potentially in naturally occurring psychic phenomena. The pineal gland is also known to produce **dimethyltryptamine (DMT)** — a powerful psychoactive compound — and the combination of endogenous DMT with pinoline"s MAO-inhibiting action has been proposed as a biological mechanism underlying dream states, [[chacruna-psychotria-viridis]]*, *Diplopterys cabrerana*)
 2. **MAOI-containing plants** (e.g., *Banisteriopsis caapi*, Syrian Rue/*[[psilocybin-pharmacology-and-serotonin-receptors]]) activated by entheogenic plants.
 
 ## Somnambulism and the Pineal Secretions

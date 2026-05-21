@@ -33,7 +33,7 @@ The corolla is white to deep pink, often with darker pink markings or a purple r
 
 The distinctive anthers are lodged in small pockets in the corolla, releasing explosively when triggered by visiting bees.
 
-This remarkable staminal mechanism ensures forceful pollen deposition onto the pollinator's body.
+This remarkable staminal mechanism ensures forceful pollen deposition onto the pollinator"s body.
 
 The fruit is a five-valved, dehiscent capsule approximately 4–6 mm in diameter, containing numerous tiny seeds.
 

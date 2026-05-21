@@ -16,7 +16,7 @@ created: 2026-04-28
 
 ## Overview
 
-**Centaurea cyanus** L., commonly known as cornflower, bachelor's button, or bluebottle, is an annual herbaceous plant in the family Asteraceae.
+**Centaurea cyanus** L., commonly known as cornflower, bachelor"s button, or bluebottle, is an annual herbaceous plant in the family Asteraceae.
 
 Native to Europe, it has become naturalized across much of the temperate world and is widely cultivated as an ornamental flower and [[natural-dye-plants]] and as a colorant in food and cosmetics.
 

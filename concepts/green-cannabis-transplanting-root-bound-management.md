@@ -16,7 +16,7 @@ type: concept
 # Transplanting and Root-Bound Management
 
 Transplanting is one of the most critical physical interventions a cannabis
-grower performs during the early stages of a plant's life. Moving a plant
+grower performs during the early stages of a plant"s life. Moving a plant
 from one container to a larger one, or from a starter medium into the main
 grow environment, carries inherent risks but is often necessary to support
 healthy root development and vigorous [[green-cannabis-grow-bible-breeding-genetics-and-true-breeding]] Bible" covers transplanting as a core pre-production technique

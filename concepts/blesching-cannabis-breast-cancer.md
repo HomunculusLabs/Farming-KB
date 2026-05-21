@@ -26,7 +26,7 @@ limited to surgery, chemotherapy, or radiation.
 
 One controllable risk factor for breast cancer is high levels of estrogen. The
 development of breast cancer remains a serious effect of hormone replacement
-therapy. Body fat is another source of excess estrogen, as women's fat cells
+therapy. Body fat is another source of excess estrogen, as women"s fat cells
 store excess estrogen after menopause. In 2008, more than 300,000 women in the
 U.S. received voluntary cosmetic breast augmentations, while another 200,000
 were diagnosed with breast cancer.

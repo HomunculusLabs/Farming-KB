@@ -16,7 +16,7 @@ The practical effect is that anyone can purchase ayahuasca ingredients, prepare 
 
 Government tourist agencies actively sponsor ayahuasca festivals, treating the practice as cultural heritage worthy of official promotion.
 
-The state's engagement with ayahuasca extends to the highest levels -- Peru's president at the time, Alejandro Toledo, participated in an [[alan-shoemaker-ayahuasca-legal-peru]] was imprisoned in Peru for distributing ayahuasca, an event the article describes as "an isolated incident" rather than indicative of systematic enforcement.
+The state"s engagement with ayahuasca extends to the highest levels -- Peru's president at the time, Alejandro Toledo, participated in an [[alan-shoemaker-ayahuasca-legal-peru]] was imprisoned in Peru for distributing ayahuasca, an event the article describes as "an isolated incident" rather than indicative of systematic enforcement.
 
 The circumstances are not detailed, but this case suggests that the legal permissiveness surrounding ayahuasca is cultural and customary rather than codified in statute.
 

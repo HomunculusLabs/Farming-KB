@@ -8,7 +8,7 @@ sources: [papers/mycelium-running-stamets.md]
 ---
 ## Spore Print Collection
 
-[[query-how-to-store-mushroom-spores-long-term]] for identification, cultivation, and artistic purposes. It is both a fun activity and an essential skill for any mycophile. From *[[ganoderma-lucidum-reishi-comprehensive-profile]]*) is a polypore with pores; lion's mane (*[[guzman-chlorophyllum-molybdites-toxic-edible-paradox-yoruba-divinatory-use]]* (green-spored!) |
+[[query-how-to-store-mushroom-spores-long-term]] for identification, cultivation, and artistic purposes. It is both a fun activity and an essential skill for any mycophile. From *[[ganoderma-lucidum-reishi-comprehensive-profile]]*) is a polypore with pores; lion"s mane (*[[guzman-chlorophyllum-molybdites-toxic-edible-paradox-yoruba-divinatory-use]]* (green-spored!) |
 | Green | *Chlorophyllum molybdites* |
 | Orange-brown | *Gymnopilus* |
 
@@ -54,7 +54,7 @@ Stamets' preferred method for long-term storage:
 
 ## The Bag Technique
 
-For mushrooms that cannot easily print on paper (morels, lion's mane) — they broadcast spores in all directions:
+For mushrooms that cannot easily print on paper (morels, lion"s mane) — they broadcast spores in all directions:
 
 1. Enclose the mushroom upright in a paper, wax paper, or plastic bag
 2. Tent the bag upside-down so insects and debris fall out

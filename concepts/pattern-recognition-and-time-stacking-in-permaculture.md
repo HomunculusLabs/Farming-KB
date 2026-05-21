@@ -34,7 +34,7 @@ By contrast, **forest edge apples**—those growing at the shade edge or on the 
 
 This observation leads to the provocative concept of **infinite yield**. When an apple tree is treated not as a standalone productive unit but as a component of a forest system, the yield per unit area of dedicated orchard space approaches a theoretical limit. Mollison phrases this as a "division by zero"—since no area is exclusively devoted to apple production (the tree shares space with other productive elements), the yield per exclusively allocated unit is mathematically infinite. The practical implication is that integrating productive species into existing systems is far more efficient than segregating them into monocultures.
 
-## Time Stacking: Fukuoka's Innovation
+## Time Stacking: Fukuoka"s Innovation
 
 The core innovation of **time stacking** is attributed to [[masanobu-fukuoka]], who observed that traditional crop rotations waste time by occupying land with only one function at a time. His breakthrough was to "lift" these sequential rotations and **set them on top of each other** in the same space, so that multiple crops occupy the same ground simultaneously at different stages of growth.
 

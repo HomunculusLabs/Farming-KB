@@ -7,7 +7,7 @@ tags: [event, natural-disaster, australia, resilience, climate]
 
 ## Overview
 
-Cyclone Tracy was a **Category 4 tropical cyclone** that struck Darwin, Northern Territory, Australia, on **24-25 December 1974**. Referenced on page 87 of Holmgren's *Permaculture: Principles and Pathways Beyond Sustainability*, it serves as a case study in vulnerability, resilience, and self-reliance.
+Cyclone Tracy was a **Category 4 tropical cyclone** that struck Darwin, Northern Territory, Australia, on **24-25 December 1974**. Referenced on page 87 of Holmgren"s *Permaculture: Principles and Pathways Beyond Sustainability*, it serves as a case study in vulnerability, resilience, and self-reliance.
 
 ## The Event
 

@@ -10,7 +10,7 @@ The Haze lineage represents one of the most influential genetic families in [[ce
 
 ## Spread to Europe and the Dutch Connection
 
-Haze genetics traveled to the Netherlands in the 1980s, where they became foundational to the European cannabis breeding scene. Dutch seed companies like Sensi Seeds, Royal Queen Seeds, and others recognized the value of Haze's unique effects and worked to stabilize the genetics for wider distribution. The European climate, particularly in southern Spain, proved well-suited to outdoor sativa cultivation.
+Haze genetics traveled to the Netherlands in the 1980s, where they became foundational to the European cannabis breeding scene. Dutch seed companies like Sensi Seeds, Royal Queen Seeds, and others recognized the value of Haze"s unique effects and worked to stabilize the genetics for wider distribution. The European climate, particularly in southern Spain, proved well-suited to outdoor sativa cultivation.
 
 Spain became Europe's hotbed for Haze-based breeding, with breeders developing strains that combined Haze potency with more manageable growing characteristics. The Mediterranean climate of southern Spain offered the long growing season that Haze genetics demand, and Spanish breeders became particularly skilled at introducing indica traits to reduce flowering time while preserving sativa effects.
 
@@ -41,7 +41,7 @@ Growing Haze-dominant strains requires specific knowledge and patience:
 
 ## Genetic Preservation and Landrace Conservation
 
-The Haze lineage highlights a broader concern in cannabis breeding: the loss of original landrace genetics. As commercial breeding focuses on producing ever-more-refined hybrids, the pure landrace sativas that formed the genetic foundation are at risk of being lost. Strains like Tom Hill's Original Haze and the work of breeders preserving Malawi, Congolese, and Thai genetics serve as important genetic reservoirs.
+The Haze lineage highlights a broader concern in cannabis breeding: the loss of original landrace genetics. As commercial breeding focuses on producing ever-more-refined hybrids, the pure landrace sativas that formed the genetic foundation are at risk of being lost. Strains like Tom Hill"s Original Haze and the work of breeders preserving Malawi, Congolese, and Thai genetics serve as important genetic reservoirs.
 
 Organizations and individual breeders dedicated to landrace preservation argue that genetic diversity is essential for the long-term health of cannabis breeding. Without access to diverse genetic material, breeders face increasing challenges in developing novel strains with unique effects, disease resistance, and environmental adaptability.
 
@@ -49,7 +49,7 @@ Organizations and individual breeders dedicated to landrace preservation argue t
 
 Haze genetics express differently depending on the growing environment. In Mediterranean climates like southern Spain, outdoor Haze plants develop their full terpene potential with extended sun exposure, producing richer flavors and more complex resin profiles. In northern European climates, greenhouse cultivation is often necessary to achieve full maturity. Indoor growers worldwide face the greatest challenges with space and flowering time management, but also have the most control over environmental variables that influence terpene expression.
 
-The Rev, a noted cannabis cultivator and author, described Haze as a staple for creative work: "When I sit down to write, it's always a Diesel strain that I pack into my bowl. When I need to get some fire in me to go outside when it's -10 and the snow sits thick on the ground, it's a Haze that I go for. When I need to find my creativity when it's hidden beneath layers of tiredness and apathy, I'll dig into a landrace African that sets my soul on fire."
+The Rev, a noted cannabis cultivator and author, described Haze as a staple for creative work: "When I sit down to write, it"s always a Diesel strain that I pack into my bowl. When I need to get some fire in me to go outside when it's -10 and the snow sits thick on the ground, it's a Haze that I go for. When I need to find my creativity when it's hidden beneath layers of tiredness and apathy, I'll dig into a landrace African that sets my soul on fire."
 
 ## Haze in the Context of Sativa Classification
 

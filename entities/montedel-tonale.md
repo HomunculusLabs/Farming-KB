@@ -7,7 +7,7 @@ tags: [place, italy, history, inquisition, psilocybe-semilanceata, witchcraft]
 
 ## Description
 
-Monte del Tonale is a mountain pass located at an altitude of approximately 2,000 m (ca. 6,000 ft) in the Alpine valleys of Northern Italy, situated in the provinces of Brescia and Sondrio. It is historically significant as the site of witches' meetings during the period of the Inquisition, and may represent one of the few European locations where [[global-ethnography-psychoactive-mushroom-use]] can be geographically linked to historical witchcraft practices.
+Monte del Tonale is a mountain pass located at an altitude of approximately 2,000 m (ca. 6,000 ft) in the Alpine valleys of Northern Italy, situated in the provinces of Brescia and Sondrio. It is historically significant as the site of witches" meetings during the period of the Inquisition, and may represent one of the few European locations where [[global-ethnography-psychoactive-mushroom-use]] can be geographically linked to historical witchcraft practices.
 
 ## Historical Significance
 

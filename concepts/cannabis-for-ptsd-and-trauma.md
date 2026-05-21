@@ -11,13 +11,13 @@ sources:
 
 ## Overview
 
-Post-traumatic stress disorder (PTSD) is characterized by persistent re-experiencing of traumatic events, hyperarousal, avoidance behaviors, and negative mood changes. The [[cannabis-endocannabinoid-system]] for detailed coverage of anandamide's role in fear processing.
+Post-traumatic stress disorder (PTSD) is characterized by persistent re-experiencing of traumatic events, hyperarousal, avoidance behaviors, and negative mood changes. The [[cannabis-endocannabinoid-system]] for detailed coverage of anandamide"s role in fear processing.
 
 ## Anandamide and Fear Processing
 
-Anandamide acts as a key regulator of the fear response. When released in the amygdala, it dampens the fear signal by activating CB1 receptors, essentially providing an "emotional brake." Its emotional keyword -- "I am at ease" -- reflects its role in bliss, relaxation, and social bonding. In PTSD, this system is compromised: FAAH (the enzyme that breaks down anandamide) is often overactive, leading to anandamide deficiency. CBD inhibits FAAH, effectively raising anandamide levels and restoring the brain's capacity to modulate fear responses.
+Anandamide acts as a key regulator of the fear response. When released in the amygdala, it dampens the fear signal by activating CB1 receptors, essentially providing an "emotional brake." Its emotional keyword -- "I am at ease" -- reflects its role in bliss, relaxation, and social bonding. In PTSD, this system is compromised: FAAH (the enzyme that breaks down anandamide) is often overactive, leading to anandamide deficiency. CBD inhibits FAAH, effectively raising anandamide levels and restoring the brain"s capacity to modulate fear responses.
 
-Anandamide levels are boosted naturally through exercise (the "runner's high" phenomenon), meaningful social interactions, and meditation practices. The presence of corticosteroids stimulates the body's production of anandamide, which may account for the antidepressant effects of physical exercise. For PTSD patients, these natural anandamide-boosting activities may complement cannabinoid therapy. This mechanism connects PTSD directly to the broader [[mushroom-cancer-clinical-trials-overview]] with CBD alone and THC:CBD combinations show promise for sleep and anxiety outcomes. Blood levels of anandamide may serve as a biomarker for PTSD severity and treatment response, though this remains an area of active research.
+Anandamide levels are boosted naturally through exercise (the "runner"s high" phenomenon), meaningful social interactions, and meditation practices. The presence of corticosteroids stimulates the body's production of anandamide, which may account for the antidepressant effects of physical exercise. For PTSD patients, these natural anandamide-boosting activities may complement cannabinoid therapy. This mechanism connects PTSD directly to the broader [[mushroom-cancer-clinical-trials-overview]] with CBD alone and THC:CBD combinations show promise for sleep and anxiety outcomes. Blood levels of anandamide may serve as a biomarker for PTSD severity and treatment response, though this remains an area of active research.
 
 ### Integration with Therapy
 

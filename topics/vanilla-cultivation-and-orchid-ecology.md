@@ -4,12 +4,12 @@ tags: [vanilla, orchid, cultivation, tropical-crops, spices, pollination, curing
 date: 2026-05-03
 updated: 2026-05-03
 sources:
-  - "Dumas, Y., & Fikry, W. (2022). 'Vanilla curing methods fungi-around-the-world-species-distribution: A comparative review.' Journal of Food Science, 87(4), 1598-1612."
+  - "Dumas, Y., & Fikry, W. (2022). "Vanilla curing methods fungi-around-the-world-species-distribution: A comparative review.' Journal of Food Science, 87(4), 1598-1612."
 ---
 
 ## Vanilla Cultivation and Orchid Ecology
 
-Vanilla is the world's most labor-intensive spice, derived from the cured seed pods of climbing orchids in the genus *Vanilla*. Native to the tropical forests of Mexico and [[permplant-carob-drought-tolerant-food-tree]] or [[stamets-cultivator-liquid-culture-propagation-methods]] is increasingly used for large-scale production and for producing disease-free planting material, particularly for *V. planifolia* 'Handy' and other improved selections.
+Vanilla is the world"s most labor-intensive spice, derived from the cured seed pods of climbing orchids in the genus *Vanilla*. Native to the tropical forests of Mexico and [[permplant-carob-drought-tolerant-food-tree]] or [[stamets-cultivator-liquid-culture-propagation-methods]] is increasingly used for large-scale production and for producing disease-free planting material, particularly for *V. planifolia* 'Handy' and other improved selections.
 
 ## Growth Cycle
 

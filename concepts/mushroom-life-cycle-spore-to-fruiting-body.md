@@ -35,7 +35,7 @@ Primordia are extremely fragile at this stage. Suboptimal humidity, temperature 
 
 Once primordia form, they develop into mature fruiting bodies through rapid cell expansion (not cell division — the cells present in the primordium simply enlarge). This process is driven by water uptake [[bloomfield-john-webster-ballistospore-discharge-discovery]]."
 
-Stamets cites research by Nicholas Money measuring the discharge force at approximately 25,000 times the force of gravity (25,000 g's) — roughly 1,000 times the G-forces experienced by space shuttle astronauts during launch. This explosive discharge propels the spore a short distance (typically 1–3 mm) beyond the gill or pore surface, where it falls free into the air currents below the mushroom cap. The gills are precisely spaced so that spores can drop between them without hitting the opposing gill surface, a geometry that maximizes dispersal efficiency.
+Stamets cites research by Nicholas Money measuring the discharge force at approximately 25,000 times the force of gravity (25,000 g"s) — roughly 1,000 times the G-forces experienced by space shuttle astronauts during launch. This explosive discharge propels the spore a short distance (typically 1–3 mm) beyond the gill or pore surface, where it falls free into the air currents below the mushroom cap. The gills are precisely spaced so that spores can drop between them without hitting the opposing gill surface, a geometry that maximizes dispersal efficiency.
 
 ## Determinant vs Indeterminant Growth
 

@@ -10,7 +10,7 @@ tags: [psilocybin]
 
 ## Psilocybin, the Default Mode Network, and Ego Dissolution
 
-While Powell's work does not explicitly use the term "default mode network" (DMN) -- a concept that gained prominence in neuroscience after the book's publication -- his theoretical framework provides a remarkably prescient account of the very phenomenon that modern fMRI studies have identified as the DMN's role in maintaining the sense of self. Powell's description of the serotonergic "homeostatic balancing system" that maintains a "steady" perception of reality corresponds closely to what neuroscience now identifies as the default mode network's function.
+While Powell"s work does not explicitly use the term "default mode network" (DMN) -- a concept that gained prominence in neuroscience after the book"s publication -- his theoretical framework provides a remarkably prescient account of the very phenomenon that modern fMRI studies have identified as the DMN's role in maintaining the sense of self. Powell's description of the serotonergic "homeostatic balancing system" that maintains a "steady" perception of reality corresponds closely to what neuroscience now identifies as the default mode network"s function.
 
 ## The Homeostatic Balancing System
 
@@ -20,7 +20,7 @@ This description anticipates the modern understanding of the default mode networ
 
 ## What Happens When the System Is Disrupted
 
-If the serotonergic homeostatic balancing system is interfered with, then the perception of reality will be correspondingly altered, so much so that we may plunge off the tightrope into new dimensions of perceived reality. Chemically dismantling the raphe system's screening effect would therefore admit the entry of latent information into consciousness.
+If the serotonergic homeostatic balancing system is interfered with, then the perception of reality will be correspondingly altered, so much so that we may plunge off the tightrope into new dimensions of perceived reality. Chemically dismantling the raphe system"s screening effect would therefore admit the entry of latent information into consciousness.
 
 Modern neuroscience has confirmed precisely this mechanism. fMRI studies show that psilocybin (via 5-HT2A receptor activation) disrupts the normal connectivity patterns of the default mode network, reducing its coherence and allowing communication between brain regions that normally do not interact. This DMN disruption correlates strongly with the subjective experience of ego dissolution.
 
@@ -28,7 +28,7 @@ Modern neuroscience has confirmed precisely this mechanism. fMRI studies show th
 
 Powell's tightrope metaphor is particularly apt. Normal consciousness is maintained by a delicate balancing act -- the homeostatic serotonergic system continuously filters and constrains neuronal activity to maintain a stable, coherent experience of self-in-the-world. This is the "default" mode of consciousness: a balanced, predictable, ego-centred state that is highly adaptive for survival but which severely limits the range of conscious experience.
 
-Psilocybin knocks the walker off this tightrope. By disrupting the serotonergic homeostatic system (which corresponds to the DMN's regulatory function), psilocybin destabilises the default mode of consciousness and opens the door to entirely new dimensions of experience. The result is ego dissolution -- the temporary collapse of the bounded, self-referential mode of consciousness that the DMN normally maintains.
+Psilocybin knocks the walker off this tightrope. By disrupting the serotonergic homeostatic system (which corresponds to the DMN"s regulatory function), psilocybin destabilises the default mode of consciousness and opens the door to entirely new dimensions of experience. The result is ego dissolution -- the temporary collapse of the bounded, self-referential mode of consciousness that the DMN normally maintains.
 
 ## The Ego as a Neuronal Sub-Routine
 
@@ -46,7 +46,7 @@ The combined effect -- DMN/raphe disruption plus enhanced novelty detection -- c
 
 The DMN-disrupting effects of psilocybin have significant philosophical implications. The fact that the sense of self -- perhaps the most fundamental feature of conscious experience -- can be dissolved by a chemical compound demonstrates that the ego is not an irreducible feature of consciousness but a contingent product of specific neurobiological processes.
 
-This finding supports Powell's broader thesis that consciousness is "mediated by chemistry" and that "mutable or transformable chemical processes underlie consciousness." The DMN, as the neurobiological substrate of the self, is the concrete realisation of this principle: it is a chemically maintained pattern of neuronal information that constitutes our experience of being a self, and it can be chemically altered.
+This finding supports Powell"s broader thesis that consciousness is "mediated by chemistry" and that "mutable or transformable chemical processes underlie consciousness." The DMN, as the neurobiological substrate of the self, is the concrete realisation of this principle: it is a chemically maintained pattern of neuronal information that constitutes our experience of being a self, and it can be chemically altered.
 
 ## Overview
 

@@ -15,7 +15,7 @@ sources:
 
 # Permaculture Currency and Economics
 
-Permaculture extends beyond physical landscape design into the realm of community economics. In Bill Mollison's Designers' Manual (Chapter 14), the financial and economic dimension is treated as inseparable from ecological design: money should serve the proliferation of life, not the accumulation of monuments.
+Permaculture extends beyond physical landscape design into the realm of community economics. In Bill Mollison"s Designers' Manual (Chapter 14), the financial and economic dimension is treated as inseparable from ecological design: money should serve the proliferation of life, not the accumulation of monuments.
 
 ## Core Philosophy
 
@@ -45,7 +45,7 @@ Expenditure on categories 3-5 creates and conserves wealth. Any society spending
 
 Barter is common in rural and neighborhood areas where people know one another. At household level, people exchange garden products, share labour, and exchange goods and services. Work groups of 3-5 people may form round-robin patterns until all present needs are met.
 
-The **Bendigo Home Builder's Club** (Victoria, Australia) is a group of 35 people building individual homes. Members pay $5/year for newsletter costs. Units of exchange are hours of labour; all labour is considered equal. Recipients are debited, donors credited. A Labour Organiser manages the balance of payments.
+The **Bendigo Home Builder"s Club** (Victoria, Australia) is a group of 35 people building individual homes. Members pay $5/year for newsletter costs. Units of exchange are hours of labour; all labour is considered equal. Recipients are debited, donors credited. A Labour Organiser manages the balance of payments.
 
 **Community Barter Clubs** work on debit/credit systems where residents offer goods, services, and skills. A credit equals one hour. People are not limited to one-to-one exchange; the organiser keeps records so transactions occur as long as services are desired. These clubs are assets for unemployed or underemployed community members.
 
@@ -93,7 +93,7 @@ Without ethics or restrictions, any financial institution is a danger to communi
 
 ## Money as Water
 
-Mollison's key metaphor: "Money is to the social fabric as water is to landscape. It is the agent of transport, the shaper and mover of trade." What matters is not the total amount of money centering a community, but the number of uses or cycles of use. Leakage from the community must be prevented and recycling made the rule.
+Mollison"s key metaphor: "Money is to the social fabric as water is to landscape. It is the agent of transport, the shaper and mover of trade." What matters is not the total amount of money centering a community, but the number of uses or cycles of use. Leakage from the community must be prevented and recycling made the rule.
 
 ## Related Concepts
 

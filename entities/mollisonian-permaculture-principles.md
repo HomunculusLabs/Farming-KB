@@ -9,7 +9,7 @@ tags: [concept, permaculture-principles, design-theory, bill-mollison]
 
 ## Description
 
-The Mollisonian [[bill-mollison]] in *Permaculture: A Designers' Manual* (Chapter 2.14). These principles form the operational guidance for [[permaculture-ethics]], Rules of Resource Use
+The Mollisonian [[bill-mollison]] in *Permaculture: A Designers" Manual* (Chapter 2.14). These principles form the operational guidance for [[permaculture-ethics]], Rules of Resource Use
 
 ## Key Facts — The Five Principles
 

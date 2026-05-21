@@ -31,7 +31,7 @@ All of these names depend on the purposes and starting premises of those using t
 
 The term "hallucinogen" is widely recognized as misleading. These drugs do not generally cause true hallucinations, defined as sensory perceptions occurring in the complete absence of external stimuli. Instead, the effects could more accurately be described as perceptual distortions, where sensory input is modified, intensified, or interpreted in novel ways while the user typically remains in contact with external reality.
 
-The hallucinations, when they do occur, are most often visual but can affect any of the senses. They may also alter the individual's perception of time, space, the external world, and the sense of self. These perceptual changes extend well beyond simple hallucinations to encompass fundamental shifts in thought patterns, mood, emotional responsiveness, and personality integration (self-awareness).
+The hallucinations, when they do occur, are most often visual but can affect any of the senses. They may also alter the individual"s perception of time, space, the external world, and the sense of self. These perceptual changes extend well beyond simple hallucinations to encompass fundamental shifts in thought patterns, mood, emotional responsiveness, and personality integration (self-awareness).
 
 ## Scientific Adoption
 

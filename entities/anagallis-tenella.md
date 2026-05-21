@@ -15,7 +15,7 @@ sources:
 
 ## Overview
 
-**Anagallis tenella** is a small herbaceous perennial plant in the family Primulaceae, native to western and northern Europe. It is commonly known as the bog pimpernel, tenella pimpernel, or poor man's weatherglass.
+**Anagallis tenella** is a small herbaceous perennial plant in the family Primulaceae, native to western and northern Europe. It is commonly known as the bog pimpernel, tenella pimpernel, or poor man"s weatherglass.
 
 The species is a characteristic plant of wet boggy habitats, where its prostrate stems form low mats of delicate foliage dotted with small pink flowers. It is one of the most distinctive and beloved wildflowers of European peatlands.
 

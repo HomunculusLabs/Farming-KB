@@ -2,7 +2,7 @@
 title: "Dextromethorphan"
 type: entity
 tags: []
-sources: ['raw/papers/working-with-agar.md']
+sources: ["raw/papers/working-with-agar.md']
 ---
 
 The drug is metabolized primarily by cytochrome P450 2D6 (CYP2D6) to dextrorphan (DXO), which has greater NMDA antagonist potency than the parent compound. Genetic polymorphisms in CYP2D6 produce significant inter-individual variation in metabolism and response.
@@ -38,7 +38,7 @@ Tolerance develops rapidly with frequent use, requiring dose escalation that inc
 
 DXM is unscheduled in most countries and available over-the-counter. Several U.S. states restrict sales to minors, and some retailers have implemented age-verification policies. In some countries (e.g., Sweden, Estonia), DXM is a prescription-only substance.
 
-The 2024 DEA review considered scheduling DXM but ultimately did not recommend it, citing the drug's established medical utility and the difficulty of controlling a substance present in hundreds of OTC products.
+The 2024 DEA review considered scheduling DXM but ultimately did not recommend it, citing the drug"s established medical utility and the difficulty of controlling a substance present in hundreds of OTC products.
 
 ## Recreational Use and Culture
 

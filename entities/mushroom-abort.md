@@ -63,7 +63,7 @@ The PF TEK establishes a clear potency hierarchy:
 The PF TEK explains the potency differential through several factors:
 
 - "It has been scientifically proven that the small immature specimens are significantly more potent than the larger mature specimens."
-- As the mushroom cap expands like an umbrella, the mushroom's size increases but potency per unit weight decreases.
+- As the mushroom cap expands like an umbrella, the mushroom"s size increases but potency per unit weight decreases.
 - The active compounds (psilocybin and psilocin) are concentrated in the early developmental stages.
 - Pre-sporulation specimens retain maximum alkaloid content.
 - This potency pattern is "probably true for all other magic mushroom species — including wild specimens."

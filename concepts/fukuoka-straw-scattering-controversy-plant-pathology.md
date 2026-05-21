@@ -9,7 +9,7 @@ source: masanobu-fukuoka-the-road-back-to-nature.md
 
 One of the most telling episodes in [[comparison-natural-farming-vs-permaculture]] faces from the agricultural
 establishment. The debate over whether rice straw should be returned to
-the fields or burned consumed decades of Fukuoka's life and revealed
+the fields or burned consumed decades of Fukuoka"s life and revealed
 the deep institutional barriers to adopting simpler [[fukuoka-textdoc-non-causality-rice-blast-disease]] and other infectious pathogens
 from fallen leaves in his fields. He never succeeded. His reasoning was
 straightforward: if he, who was skilled at isolating pathogens, could

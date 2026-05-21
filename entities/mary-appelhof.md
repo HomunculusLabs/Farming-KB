@@ -12,7 +12,7 @@ categories:
 
 ## Description
 
-Mary Appelhof (also known as "Wormwoman") was a pioneering vermiculturist and sustainability advocate who developed innovative approaches to integrating earthworm composting with mushroom cultivation. She was a ZERI ([[zero-emissions-research-and-initiatives]]) trainee and was associated with Sustainable Communities/ZERI-New Mexico (SCZ-NM), one of the first ZERI projects in the United States, located near Santa Fe, New Mexico. She passed away before the publication of Ron Spinosa's 2008 article in *Fungi Magazine*, which memorialized her contributions.
+Mary Appelhof (also known as "Wormwoman") was a pioneering vermiculturist and sustainability advocate who developed innovative approaches to integrating earthworm composting with mushroom cultivation. She was a ZERI ([[zero-emissions-research-and-initiatives]]) trainee and was associated with Sustainable Communities/ZERI-New Mexico (SCZ-NM), one of the first ZERI projects in the United States, located near Santa Fe, New Mexico. She passed away before the publication of Ron Spinosa"s 2008 article in *Fungi Magazine*, which memorialized her contributions.
 
 ## Classification
 
@@ -31,7 +31,7 @@ Mary Appelhof (also known as "Wormwoman") was a pioneering vermiculturist and su
 - Her approach demonstrated the ZERI principle of turning waste from one biological kingdom into a resource for another, creating cascading value from organic byproducts.
 - Maintained the website www.wormwoman.com as a resource for vermiculture education.
 - Was associated with SCZ-NM, which operated under the auspices of the U.S. Forest Service Collaborative Forest Restoration Program in New Mexico.
-- Gunter Pauli, founder of ZERI, also championed the virtues of earthworms in integrated zero-emissions systems, and Appelhof's work was a practical realization of those principles.
+- Gunter Pauli, founder of ZERI, also championed the virtues of earthworms in integrated zero-emissions systems, and Appelhof"s work was a practical realization of those principles.
 
 ## Relevance to Cultivation and Mycology
 

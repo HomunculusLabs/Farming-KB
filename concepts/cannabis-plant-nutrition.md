@@ -84,7 +84,7 @@ Cannabis requires 16 essential elements for healthy growth. In a living soil sys
 
 ## Nutrient Ratios by Stage (Living Soil)
 
-In a [[cannabis-living-soil-guide]] system, the soil biology handles most nutrient delivery. The grower's role is to ensure the soil has adequate organic matter and amendments:
+In a [[cannabis-living-soil-guide]] system, the soil biology handles most nutrient delivery. The grower"s role is to ensure the soil has adequate organic matter and amendments:
 
 ### Pre-Plant Soil Amendments (per cu. yd.)
 - 2 cups blood meal or feather meal (N)

@@ -30,7 +30,7 @@ Holzer has kept a mixed herd of approximately 50 wild cattle in a 25-hectare pad
 
 - Dahomey miniature cattle -- small hardy breed
 
-All of these animals are particularly hardy and undemanding, making the work required to keep them very low. Holzer's priorities: propagating and maintaining endangered breeds, producing high-quality food, and keeping livestock happy rather than maximising yield.
+All of these animals are particularly hardy and undemanding, making the work required to keep them very low. Holzer"s priorities: propagating and maintaining endangered breeds, producing high-quality food, and keeping livestock happy rather than maximising yield.
 
 The choice of old and rare breeds reflects [[palmer-poisonous-mushrooms-deadly-species]]
 

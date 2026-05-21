@@ -51,7 +51,7 @@ The tool was developed through iterative experimentation:
 
 ## Relevance to Cultivation
 
-The collinear hoe exemplifies Coleman's broader philosophy that small, thoughtful refinements to tools and techniques can yield major improvements in efficiency and comfort. In *The Winter Harvest Handbook*, he expresses fascination that "the great improvement in tool performance that can result from such seemingly small refinements." This tool modification approach was once common agricultural practice but has been largely forgotten in industrial farming.
+The collinear hoe exemplifies Coleman"s broader philosophy that small, thoughtful refinements to tools and techniques can yield major improvements in efficiency and comfort. In *The Winter Harvest Handbook*, he expresses fascination that "the great improvement in tool performance that can result from such seemingly small refinements." This tool modification approach was once common agricultural practice but has been largely forgotten in industrial farming.
 
 The tool is particularly valuable in winter harvest and intensive market garden systems where hand weeding remains necessary and ergonomic efficiency directly impacts productivity and farmer well-being.
 ## See also

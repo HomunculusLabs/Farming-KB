@@ -10,9 +10,9 @@ sources:
 
 ## The Diet of Non-Discrimination and the Diet of the Sick
 
-In the concluding section of Chapter 5 in [[comparison-natural-farming-vs-permaculture]], [[cho-brown-rice-vinegar-preparation]] as a staple and advocated eating foods grown in one's immediate region. However, Fukuoka diverged significantly from macrobiotics in important ways.
+In the concluding section of Chapter 5 in [[comparison-natural-farming-vs-permaculture]], [[cho-brown-rice-vinegar-preparation]] as a staple and advocated eating foods grown in one"s immediate region. However, Fukuoka diverged significantly from macrobiotics in important ways.
 
-Where macrobiotics relies heavily on the yin-yang classification of foods and prescribes specific dietary ratios (the famous 5:1 grain-to-vegetable ratio), Fukuoka explicitly rejected systematic dietary classification. He argued that yin-yang calculations, while useful as a transitional tool, ultimately replaced one form of intellectual discrimination with another. His "diet of non-discrimination" aimed to transcend all such frameworks entirely. The macrobiotic approach, in Fukuoka's view, was still a "diet of principle" — a step forward from modern eating habits but not the final destination.
+Where macrobiotics relies heavily on the yin-yang classification of foods and prescribes specific dietary ratios (the famous 5:1 grain-to-vegetable ratio), Fukuoka explicitly rejected systematic dietary classification. He argued that yin-yang calculations, while useful as a transitional tool, ultimately replaced one form of intellectual discrimination with another. His "diet of non-discrimination" aimed to transcend all such frameworks entirely. The macrobiotic approach, in Fukuoka"s view, was still a "diet of principle" — a step forward from modern eating habits but not the final destination.
 
 ## Specific Foods and Dietary Patterns
 

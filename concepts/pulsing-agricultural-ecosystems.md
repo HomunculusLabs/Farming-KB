@@ -39,7 +39,7 @@ Ploughing under the pasture releases accumulated fertility, leading to high yiel
 
 ### Modern Decline
 
-Variations of this system prevailed in Australian cropping zones until the pasture phase supporting sheep became uneconomic. Today's typical regime of direct drill seeding, herbicide weed control, and bagged fertilizer compensates for the lost pasture phase. Whether this intensive land use rebuilds organic matter and mineral fertility or leads to another downward spiral of degradation remains contentious, but evidence is not encouraging.
+Variations of this system prevailed in Australian cropping zones until the pasture phase supporting sheep became uneconomic. Today"s typical regime of direct drill seeding, herbicide weed control, and bagged fertilizer compensates for the lost pasture phase. Whether this intensive land use rebuilds organic matter and mineral fertility or leads to another downward spiral of degradation remains contentious, but evidence is not encouraging.
 
 ### Organic Alternatives
 

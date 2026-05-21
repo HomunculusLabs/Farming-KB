@@ -29,7 +29,7 @@ Distribution, ecology, and cultural significance of psilocybin-containing mushro
 The oldest known depictions of psychoactive mushroom use come from the Sahara Desert, documented by Gartz, Giorgio Samorini, and Terence McKenna. At a time when the Sahara was a "blooming garden" with extensive grasslands, lakes, and diverse wildlife, Stone Age artists created remarkable rock art:
 
 - **Locations:** Tassili-n-Ajjer (southern Algeria), Acacus Mountains (Libya), Ennedi Plateau (Chad)
-- **Depictions:** Anthropomorphic figures with mushroom-shaped heads engaged in ecstatic dancing. Dashed lines connecting mushrooms to figures' heads may represent the "flow of energy" or consciousness alteration.
+- **Depictions:** Anthropomorphic figures with mushroom-shaped heads engaged in ecstatic dancing. Dashed lines connecting mushrooms to figures" heads may represent the "flow of energy" or consciousness alteration.
 - **Mushroom shapes:** Two distinct forms — one resembling Psilocybe semilanceata (with acute umbo) and larger mushrooms with Amanita or Stropharia-like habitus
 - **Colors:** White, ochre shades, and rare blue (possibly representing the bluing reaction characteristic of psilocybin mushrooms)
 - **Significance:** This represents the oldest known mushroom cult in human history, predating Mesoamerican mushroom stones by 5000+ years. See [[mushroom-folklore-and-culture]] for full discussion.

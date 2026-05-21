@@ -19,7 +19,7 @@ sources:
 
 **Alpinia zerumbet**, commonly known as **shell ginger**, **pink porcelain lily**, or **variegated ginger**, is a rhizomatous perennial herb in the family Zingiberaceae. It is native to [[comparison-essential-oils-vs-neem-oil-vs-insecticidal-soap]] with antioxidant, anti-inflammatory, and diuretic properties.
 
-In Okinawan folk medicine, A. zerumbet leaves are consumed as a daily health tea, contributing to the region's reputation for longevity. The species is one of the most culturally significant medicinal plants in the Ryukyu Islands.
+In Okinawan folk medicine, A. zerumbet leaves are consumed as a daily health tea, contributing to the region"s reputation for longevity. The species is one of the most culturally significant medicinal plants in the Ryukyu Islands.
 
 ## Taxonomy and Morphology
 

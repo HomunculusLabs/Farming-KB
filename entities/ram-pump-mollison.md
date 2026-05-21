@@ -9,7 +9,7 @@ tags: [water-management, appropriate-technology, hydraulic-engineering, permacul
 
 ## Description
 
-A ram pump (hydraulic ram pump) is a cyclic water pump that uses the kinetic energy of a flowing water column to lift a portion of that water to a higher elevation without requiring any external power source. It operates entirely on the momentum of falling water, making it one of the most appropriate technologies for permaculture and off-grid water systems. In Mollison's permaculture framework, ram pumps are integrated with check dams that provide the necessary "tripping head" to power the pump.
+A ram pump (hydraulic ram pump) is a cyclic water pump that uses the kinetic energy of a flowing water column to lift a portion of that water to a higher elevation without requiring any external power source. It operates entirely on the momentum of falling water, making it one of the most appropriate technologies for permaculture and off-grid water systems. In Mollison"s permaculture framework, ram pumps are integrated with check dams that provide the necessary "tripping head" to power the pump.
 
 ## Classification
 

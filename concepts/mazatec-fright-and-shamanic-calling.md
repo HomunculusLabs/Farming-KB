@@ -35,7 +35,7 @@ The Mazatec landscape itself contributes to the prevalence of fright:
 
 In this world, "existence in the world and with others is treacherous, perilous: unexpectedly something may happen to you and that event, unless it is exorcised, can mark you for life." The environment itself generates the conditions for fright.
 
-### The Shaman's Task
+### The Shaman"s Task
 
 The shaman's role in treating fright is to:
 
@@ -50,7 +50,7 @@ The medicine woman's prayer illustrates this: "Bring her spirit, her soul. Let h
 
 ### The Initiatory Illness
 
-Roman Estrada's story illustrates the classic pattern of shamanic calling through personal illness. His vocation began with what was initially a physical ailment — appendicitis — that became a traumatic neurosis:
+Roman Estrada"s story illustrates the classic pattern of shamanic calling through personal illness. His vocation began with what was initially a physical ailment — appendicitis — that became a traumatic neurosis:
 
 1. He was hospitalized and anesthetized with ether for an appendectomy
 2. During the operation, "he gave up the ghost" — he experienced what felt like death
@@ -70,7 +70,7 @@ Estrada sought help from multiple Western medical institutions:
 - Hospital in Mexico City
 - Hospital in Tehuacán
 
-None could help him because, as Munn observes, "there was nothing wrong with him physically" — his appendix had been successfully removed. The doctors "couldn't help him because there was nothing wrong with him physically; contrary to what he believed, he had survived the operation." The problem was spiritual: "he had been terrified by death and his spirit had flown away like a bird or a fleet-footed deer."
+None could help him because, as Munn observes, "there was nothing wrong with him physically" — his appendix had been successfully removed. The doctors "couldn"t help him because there was nothing wrong with him physically; contrary to what he believed, he had survived the operation." The problem was spiritual: "he had been terrified by death and his spirit had flown away like a bird or a fleet-footed deer."
 
 ### The Shamanic Cure
 
@@ -89,13 +89,13 @@ As Munn describes: "It was as if he were operating upon himself, undoing what ha
 
 ## The Transmission of Shamanic Vocation
 
-### The Master's Approach
+### The Master"s Approach
 
 The elderly shaman of San Lucas did not merely cure Estrada — he also initiated him into the shamanic profession. The cure and the calling were inseparable:
 
 > "The cure is successful because not only is his spirit awakened, but he is offered another future: a new profession that is a compensation for his humble one as a storekeeper."
 
-The old shaman understood that Estrada's neurosis was caused by "the repression of his creative forces" and that genuine healing required the release of these forces through a new vocation.
+The old shaman understood that Estrada"s neurosis was caused by "the repression of his creative forces" and that genuine healing required the release of these forces through a new vocation.
 
 ### The Initiation Ritual
 
@@ -105,15 +105,15 @@ The initiation involved a carefully structured series of steps:
 2. **The offering**: The old shaman left him "a table with ground tobacco on it and a cross underneath it"
 3. **The choice**: Estrada was asked to choose between these objects — a test of his readiness
 4. **The refusal**: Estrada initially refused, saying he only wanted to be cured, not to become a shaman
-5. **The negation of will**: The shaman told him, "Here you don't give the orders... it is already the middle of the night." By negating the patient's will, the shaman aimed to arouse it and prepare him to accept the vocation
+5. **The negation of will**: The shaman told him, "Here you don"t give the orders... it is already the middle of the night." By negating the patient"s will, the shaman aimed to arouse it and prepare him to accept the vocation
 6. **The diploma**: "Whether you want to or not, you are going to receive your diploma" — invoking the prospect of recognition and authority
 7. **The voice of the father**: During the mushroom experience, Estrada heard the voice of his dead father (deceased forty-three years) commanding him to accept the shamanic work
-8. **The interpretation**: The old shaman identified the voice as that of Estrada's father, resolving the ambiguity of the experience
+8. **The interpretation**: The old shaman identified the voice as that of Estrada"s father, resolving the ambiguity of the experience
 9. **Acceptance**: Estrada agreed to receive the teaching and was taught techniques including "sucking through space" — drawing sickness out of a patient from a distance using a hollow tube of cane
 
 ### Psychological Dynamics of Initiation
 
-Munn's analysis of this initiation reveals several psychological mechanisms:
+Munn"s analysis of this initiation reveals several psychological mechanisms:
 
 **Superego activation**: The voice of the dead father represents the activation of Estrada's superego — the internalized parental authority — in conjunction with the liberation of vitality produced by the mushrooms. The father's command releases the resistance that Estrada's conscious will could not overcome.
 
@@ -121,7 +121,7 @@ Munn's analysis of this initiation reveals several psychological mechanisms:
 
 **Compensation**: The shamanic role provides a "compensation for his humble one as a storekeeper" — addressing the life-narrative of failure that contributed to his depression.
 
-**Transference of will**: The old shaman's technique of negating the patient's will ("It is no longer you who command") and then transferring his own will to the patient parallels the psychoanalytic concept of transference, but operates in reverse — the healer transfers healing intention to the patient rather than receiving the patient's projections.
+**Transference of will**: The old shaman"s technique of negating the patient's will ("It is no longer you who command") and then transferring his own will to the patient parallels the psychoanalytic concept of transference, but operates in reverse — the healer transfers healing intention to the patient rather than receiving the patient"s projections.
 
 ## Symbolic Objects in Initiation
 

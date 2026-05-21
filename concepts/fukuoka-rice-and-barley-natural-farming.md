@@ -7,13 +7,13 @@ tags: [natural-farming, no-till, rice, barley, fukuoka, clover-cover, straw-mulc
 sources: [raw/particles/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md]
 ---
 
-## Fukuoka's Natural Farming of Rice and Barley
+## Fukuoka"s Natural Farming of Rice and Barley
 
 Masanobu Fukuoka developed a revolutionary no-till rice and barley cultivation method he called "direct-seeded, no-tillage, winter grain/rice succession in a clover cover." This system eliminates ploughing, chemical fertilizers, pesticides, and most of the labor traditionally associated with rice production, while achieving yields of approximately 22 bushels of rice per quarter-acre.
 
 ### The Five Principles
 
-Fukuoka's natural farming rests on five foundational principles:
+Fukuoka"s natural farming rests on five foundational principles:
 1. **No tillage** — never plough or turn the soil
 2. **No fertilizer** — no chemical or prepared organic fertilizers
 3. **No pesticides or herbicides** — no chemicals for pest or weed control
@@ -44,7 +44,7 @@ Fukuoka's natural farming rests on five foundational principles:
 
 ### The Philosophy
 
-Fukuoka argues that modern agriculture's heavy inputs — prolonged summer flooding, chemical fertilizers, pesticides, ploughing — actually weaken rice plants and create disease susceptibility. "Healthy rice plants have no need for the plow or chemicals." The problem is that farmers create the conditions for disease through their interventions, then apply more interventions to fix the problems they created.
+Fukuoka argues that modern agriculture"s heavy inputs — prolonged summer flooding, chemical fertilizers, pesticides, ploughing — actually weaken rice plants and create disease susceptibility. "Healthy rice plants have no need for the plow or chemicals." The problem is that farmers create the conditions for disease through their interventions, then apply more interventions to fix the problems they created.
 
 He emphasizes that "the labor of one or two persons" is sufficient for his method on a quarter-acre, compared to the intensive labor requirements of conventional rice farming. The key insight is that "nature, not man, grows the rice and wheat."
 

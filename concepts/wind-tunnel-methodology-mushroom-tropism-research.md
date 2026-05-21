@@ -7,7 +7,7 @@ tags:
 ## Overview
 
 The study of [[darwin-five-seedling-phototropism-experimental-conditions]]. Edmond R.
-Badham's 1982 study of tropisms [[bloomfield-mushroom-evaporative-cooling-and-thermal-regulation]]. Water
+Badham"s 1982 study of tropisms [[bloomfield-mushroom-evaporative-cooling-and-thermal-regulation]]. Water
 surrounding the working area served as both light filter and thermal
 insulation, with a dedicated heater maintaining temperature stability.
 

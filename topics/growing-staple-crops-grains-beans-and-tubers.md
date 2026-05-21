@@ -27,7 +27,7 @@ The so-called "Big Three" — wheat, rice, and maize — collectively supply mor
 
 Interest in home-scale staple crop production has surged in recent decades. Food supply chain fragility, environmental costs of industrial agriculture, and a desire for self-reliance all motivate growers. Permaculture and natural farming offer methods for growing calorie crops without synthetic inputs.
 
-This guide covers the major staple crop categories — grains, legumes, and tubers — with practical guidance for cultivation, harvesting, storage, and processing at the home and small-farm scale. Special attention is given to Masanobu Fukuoka's natural grain farming methods.
+This guide covers the major staple crop categories — grains, legumes, and tubers — with practical guidance for cultivation, harvesting, storage, and processing at the home and small-farm scale. Special attention is given to Masanobu Fukuoka"s natural grain farming methods.
 
 ## The Big Three Grains — Wheat, Rice, and Maize
 
@@ -35,7 +35,7 @@ The "Big Three" staple crops collectively supply more than half of all plant-der
 
 Wheat dominates temperate regions and is the primary grain for bread-making worldwide. Winter wheat is sown in autumn and resumes growth in spring for summer harvest. Spring wheat goes in after the last frost in colder climates.
 
-Rice is the primary staple across tropical and subtropical Asia, feeding over half the world's population. Paddy rice requires flooded fields for much of its growing cycle. Upland varieties can be grown without flooding in suitable climates.
+Rice is the primary staple across tropical and subtropical Asia, feeding over half the world"s population. Paddy rice requires flooded fields for much of its growing cycle. Upland varieties can be grown without flooding in suitable climates.
 
 Maize underpins food systems throughout the Americas and much of sub-Saharan Africa. It is a heavy feeder requiring rich soil. In Mesoamerican agriculture it was grown in the Three Sisters polyculture with beans and squash.
 
@@ -61,7 +61,7 @@ Beyond the Big Three, regional staples sustain populations in harsher climates. 
 
 Fukuoka identified the traditional Japanese "five grains" as rice, barley, foxtail millet, proso millet, and barnyard millet. He argued that primitive small-seed crops are the most suitable foods for human health.
 
-Quinoa and amaranth produce complete protein seeds and tolerate harsh high-altitude conditions. Oats, barley, and rye serve as reliable cool-season grains in northern climates. Barley plays a central role in Fukuoka's rotation.
+Quinoa and amaranth produce complete protein seeds and tolerate harsh high-altitude conditions. Oats, barley, and rye serve as reliable cool-season grains in northern climates. Barley plays a central role in Fukuoka"s rotation.
 
 ## Bean and Legume Staple Crops
 

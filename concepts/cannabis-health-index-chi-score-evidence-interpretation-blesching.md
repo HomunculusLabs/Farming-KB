@@ -18,7 +18,7 @@ evidence for cannabis as a therapeutic option.
 
 ## The Evidence Problem in Medical Cannabis
 
-Blesching's introduction highlights a fundamental problem in modern medicine:
+Blesching"s introduction highlights a fundamental problem in modern medicine:
 only about 15% of medical interventions are based on solid scientific evidence.
 The Vioxx scandal is cited as an example—the drug killed an estimated 55,000 to
 500,000 patients through heart attacks and strokes before being withdrawn, yet

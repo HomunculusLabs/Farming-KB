@@ -9,7 +9,7 @@ categories: [people, science, medicine, literature]
 
 ## Description
 
-Lewis Thomas (1913–1993) was an American physician, poet, etymologist, essayist, administrator, novelist, public speaker, and researcher renowned for his lyrical scientific writing. He is cited by [[bill-mollison-permaculture-a-designers-manual-animal-systems-in-permaculture]] in *[[permaculture]]: A Designers' Manual* (1988) for the observation that "the bacteria... live by collaboration, accommodation, exchange, and barter" — a quotation used to support permaculture's foundational Principle of Cooperation, which holds that cooperation rather than competition is the basis of existing life systems and future survival.
+Lewis Thomas (1913–1993) was an American physician, poet, etymologist, essayist, administrator, novelist, public speaker, and researcher renowned for his lyrical scientific writing. He is cited by [[bill-mollison-permaculture-a-designers-manual-animal-systems-in-permaculture]] in *[[permaculture]]: A Designers" Manual* (1988) for the observation that "the bacteria... live by collaboration, accommodation, exchange, and barter" — a quotation used to support permaculture"s foundational Principle of Cooperation, which holds that cooperation rather than competition is the basis of existing life systems and future survival.
 
 ## Classification
 
@@ -33,7 +33,7 @@ Lewis Thomas (1913–1993) was an American physician, poet, etymologist, essayis
 
 Mollison cites Thomas (1974) in the Designers' Manual to support the Principle of Cooperation:
 
-*"Even 'the bacteria... live by collaboration, accommodation, exchange, and barter' (Lewis Thomas, 1974)."*
+*"Even "the bacteria... live by collaboration, accommodation, exchange, and barter' (Lewis Thomas, 1974)."*
 
 This appears in the context of Mollison arguing that:
 - Life is cooperative rather than competitive

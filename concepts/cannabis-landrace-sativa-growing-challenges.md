@@ -31,7 +31,7 @@ The most significant barrier to growing landrace sativas is their flowering time
 
 ### Why Sativas Flower So Long
 
-Landrace sativas evolved near the equator, where day length remains relatively constant throughout the year. In their native environments, these plants rely on other environmental cues beyond photoperiod to trigger and complete flowering. When grown at higher latitudes, the changing day length can confuse the plant's [[low-stress-training]] (LST):** Bending and tying down branches to control height and improve light distribution
+Landrace sativas evolved near the equator, where day length remains relatively constant throughout the year. In their native environments, these plants rely on other environmental cues beyond photoperiod to trigger and complete flowering. When grown at higher latitudes, the changing day length can confuse the plant"s [[low-stress-training]] (LST):** Bending and tying down branches to control height and improve light distribution
 - **Screen of Green (ScrOG):** Training plants through a horizontal screen to create an even canopy
 - **Sea of Green (SOG):** Growing many small plants rather than fewer large ones
 - **Topping and FIMing:** Cutting the apical meristem to encourage lateral branching and reduce overall height
@@ -40,7 +40,7 @@ Landrace sativas evolved near the equator, where day length remains relatively c
 - **Flavor impact:** [[query-how-do-i-transition-my-cannabis-grow-from-synthetic-to-organic-nutrients]] break down gradually, preventing the concentration spikes that can damage landrace plants
 - **Terpene preservation:** Organic cultivation produces the most authentic flavor and aroma profiles
 
-As one experienced breeder put it: "I would always want to grow any sativa all natural / organically because of the wolf comparison. These are wild-ish and highly adaptable plants, and by their very nature don't really like being force-fed synthetic nutrients, and it shows."
+As one experienced breeder put it: "I would always want to grow any sativa all natural / organically because of the wolf comparison. These are wild-ish and highly adaptable plants, and by their very nature don"t really like being force-fed synthetic nutrients, and it shows."
 
 ## Challenge 4: Environmental Sensitivity
 

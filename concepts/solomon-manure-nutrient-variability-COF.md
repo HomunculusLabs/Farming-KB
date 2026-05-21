@@ -4,7 +4,7 @@ tags:
   - concept
 ---
 
-One of the central arguments in Steve Solomon's "Gardening When It Counts" is that animal manure is an unreliable source of plant nutrients, despite its widespread reputation as a garden panacea. Solomon documents the enormous variability in [[hamilton-composting-and-organic-matter-management]]** (from compost, manure, or [[cervantes-dolomite-lime-ph-buffering]] (depending on soil pH) — calcium and magnesium, pH adjustment
+One of the central arguments in Steve Solomon"s "Gardening When It Counts" is that animal manure is an unreliable source of plant nutrients, despite its widespread reputation as a garden panacea. Solomon documents the enormous variability in [[hamilton-composting-and-organic-matter-management]]** (from compost, manure, or [[cervantes-dolomite-lime-ph-buffering]] (depending on soil pH) — calcium and magnesium, pH adjustment
 - 1/2 quart bone meal or 1/2 quart rock phosphate — additional phosphorus and calcium
 - 1/2 quart kelp meal — trace minerals and growth hormones
 

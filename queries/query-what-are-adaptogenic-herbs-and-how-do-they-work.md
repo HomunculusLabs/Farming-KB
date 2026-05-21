@@ -21,7 +21,7 @@ sources:
 
 ## Quick Answer
 
-Adaptogenic herbs are a class of plants that help the body resist and adapt to physical, chemical, and biological stress. Rather than targeting a single symptom or organ system, they work by modulating the body's stress-response networks — particularly the hypothalamic-pituitary-adrenal (HPA) axis and the sympathetic nervous system — to promote balance (homeostasis). The key idea is **biphasic regulation**: adaptogens can both calm an overactive stress response and stimulate an underactive one, depending on what the body needs. Well-studied examples include ashwagandha, rhodiola, eleuthero (Siberian ginseng), holy basil (tulsi), and schisandra.
+Adaptogenic herbs are a class of plants that help the body resist and adapt to physical, chemical, and biological stress. Rather than targeting a single symptom or organ system, they work by modulating the body"s stress-response networks — particularly the hypothalamic-pituitary-adrenal (HPA) axis and the sympathetic nervous system — to promote balance (homeostasis). The key idea is **biphasic regulation**: adaptogens can both calm an overactive stress response and stimulate an underactive one, depending on what the body needs. Well-studied examples include ashwagandha, rhodiola, eleuthero (Siberian ginseng), holy basil (tulsi), and schisandra.
 
 ## What Defines an Adaptogen?
 
@@ -40,7 +40,7 @@ These criteria distinguish adaptogens from stimulants (like caffeine, which forc
 Modern research has identified several interconnected mechanisms by which adaptogens exert their effects:
 
 ### HPA Axis Regulation
-The HPA axis is the body's central stress command center. When you perceive stress, your hypothalamus releases CRH (corticotropin-releasing hormone), which signals your pituitary to release ACTH (adrenocorticotropic hormone), which stimulates your adrenal glands to produce cortisol. Chronic stress dysregulates this axis, causing either chronically elevated cortisol (anxiety, insomnia, immune suppression) or depleted cortisol (exhaustion, brain fog, low motivation).
+The HPA axis is the body"s central stress command center. When you perceive stress, your hypothalamus releases CRH (corticotropin-releasing hormone), which signals your pituitary to release ACTH (adrenocorticotropic hormone), which stimulates your adrenal glands to produce cortisol. Chronic stress dysregulates this axis, causing either chronically elevated cortisol (anxiety, insomnia, immune suppression) or depleted cortisol (exhaustion, brain fog, low motivation).
 
 Adaptogens help **re-sensitize** and **normalize** this feedback loop. They don't simply suppress or boost cortisol — they help the body respond more appropriately to stress signals. This is why the same adaptogen can feel calming to an anxious person and energizing to a fatigued person.
 

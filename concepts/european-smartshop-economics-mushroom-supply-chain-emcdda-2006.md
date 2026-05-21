@@ -21,7 +21,7 @@ The European smartshop model represented a unique intersection of drug policy, r
 
 The Netherlands served as the epicenter of European hallucinogenic mushroom commerce through its network of "smartshops" — retail establishments that sold psychoactive plants, fungi, and herbal products alongside drug paraphernalia. A January 2006 snapshot survey identified 39 online shops selling hallucinogenic mushroom products, with 82% (32 shops) based in the Netherlands. The remaining 18% comprised four Austrian shops selling growkits and spore prints, two German sites, one UK site linked to a Dutch operation, and one Polish site that had ceased mushroom sales.
 
-The concentration of online retailers in the Netherlands was not coincidental — it reflected the country's permissive legal framework that distinguished between psychoactive mushrooms and controlled substances. While the Netherlands had de facto tolerated smartshop sales since the 1990s, the 2006 EMCDDA report was already documenting the political pressure that would lead to the 2008 ban.
+The concentration of online retailers in the Netherlands was not coincidental — it reflected the country"s permissive legal framework that distinguished between psychoactive mushrooms and controlled substances. While the Netherlands had de facto tolerated smartshop sales since the 1990s, the 2006 EMCDDA report was already documenting the political pressure that would lead to the 2008 ban.
 
 ## Product Categories and Pricing
 

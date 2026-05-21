@@ -62,7 +62,7 @@ These fields document the circumstances and personnel involved in the collection
 
 - **Team Collectors**: Additional collectors listed in semicolon-separated format. When more than three team members are present, "et al." is appended after the first three names (e.g., "Smith, J.; Jones, A.; Brown, K.; et al.").
 
-- **Collector Number**: The unique field number assigned by the collector. This number links the physical specimen to the collector's field notes and is often the primary way collectors reference their collections in publications and correspondence.
+- **Collector Number**: The unique field number assigned by the collector. This number links the physical specimen to the collector"s field notes and is often the primary way collectors reference their collections in publications and correspondence.
 
 - **Submitter**: The person who submitted the record to the database. This may differ from the collector when records are entered by herbarium staff, data managers, or citizen scientists.
 
@@ -100,7 +100,7 @@ For parasitic, pathogenic, or symbiotic fungi, host data is essential. The host 
 
 Administrative fields ensure institutional accountability and record traceability across the global network of fungal collections:
 
-- **Herbarium Number**: The accession number assigned to the specimen, incorporating Index Herbariorum codes to ensure uniqueness across institutions. Each herbarium's code (e.g., NY for New York Botanical Garden, K for Royal Botanic Gardens, Kew) is globally recognized. The combined code and number (e.g., "NY12345") constitutes a universally unique identifier for the specimen.
+- **Herbarium Number**: The accession number assigned to the specimen, incorporating Index Herbariorum codes to ensure uniqueness across institutions. Each herbarium"s code (e.g., NY for New York Botanical Garden, K for Royal Botanic Gardens, Kew) is globally recognized. The combined code and number (e.g., "NY12345") constitutes a universally unique identifier for the specimen.
 
 ## Additional Fields
 

@@ -34,18 +34,18 @@ Michael Harner was an anthropologist who conducted fieldwork among the [[jivaro]
 
 ### "Hallucinogens and Shamanism" (1973)
 
-Harner's edited anthology was one of the first academic works to systematically examine the relationship between psychoactive substances and shamanic practices across cultures. In his introduction, Harner argued:
+Harner"s edited anthology was one of the first academic works to systematically examine the relationship between psychoactive substances and shamanic practices across cultures. In his introduction, Harner argued:
 
 - The use of hallucinogens to achieve trance states is "an ancient and widespread human practice"
 - "In using a powerful hallucinogen, an individual is brought face to face with visions and experiences of an overwhelming nature, tending strongly to reinforce his beliefs in the reality of the supernatural world"
-- "The theoretical literature has largely overlooked the fact that even this 'classic' [Siberian] shamanism often involved the use of hallucinogen"
+- "The theoretical literature has largely overlooked the fact that even this "classic' [Siberian] shamanism often involved the use of hallucinogen"
 - Hallucinogenic experiences "may have also played a role in the innovation of" supernatural beliefs
 
 The anthology covered Jivaro, [[cashinahua]], [[sharanahua]], and Campa use of Banisteriopsis (ayahuasca) in the Upper Amazon, as well as other global traditions.
 
 ### Jivaro Fieldwork
 
-Harner's fieldwork among the Jivaro documented their use of natem (ayahuasca/Banisteriopsis) for supernatural purposes. The Jivaro believe that witchcraft is the cause of most illnesses and deaths. Their worldview holds that the "normal waking life is simply a 'lie,' or illusion, while the true forces that determine daily life" are only visible under the influence of hallucinogens. Harner noted that the Jivaro go further than Castaneda's distinction between "ordinary" and "non-ordinary" reality — they believe there is only one reality, the supernatural.
+Harner"s fieldwork among the Jivaro documented their use of natem (ayahuasca/Banisteriopsis) for supernatural purposes. The Jivaro believe that witchcraft is the cause of most illnesses and deaths. Their worldview holds that the "normal waking life is simply a "lie,' or illusion, while the true forces that determine daily life" are only visible under the influence of hallucinogens. Harner noted that the Jivaro go further than Castaneda"s distinction between "ordinary" and "non-ordinary" reality — they believe there is only one reality, the supernatural.
 
 ### The Widespread Use Claim
 

@@ -11,7 +11,7 @@ tags: [cannabis, sativa, strain-profile, haze-plum-purple-passion, medical-canna
 
 ## Overview
 
-Haze Plum Purple Passion is a sativa-dominant hybrid cannabis strain bred by Stoney Girl Gardens of the United States. The strain carries a poignant personal history — it was originally developed by a friend of the Stoney Girl Gardens breeder, and the original breeder was tragically killed in a glider accident. The preservation of these genetics has become, in the breeder's words, "a labor of love" that honors the memory of the original creator. The strain is noted for its photogenic beauty, ease of cultivation, and therapeutic value for medical cannabis patients, particularly those dealing with PTSD, depression, and eating disorders.
+Haze Plum Purple Passion is a sativa-dominant hybrid cannabis strain bred by Stoney Girl Gardens of the United States. The strain carries a poignant personal history — it was originally developed by a friend of the Stoney Girl Gardens breeder, and the original breeder was tragically killed in a glider accident. The preservation of these genetics has become, in the breeder"s words, "a labor of love" that honors the memory of the original creator. The strain is noted for its photogenic beauty, ease of cultivation, and therapeutic value for medical cannabis patients, particularly those dealing with PTSD, depression, and eating disorders.
 
 ## Breeder Background
 
@@ -25,8 +25,8 @@ Haze Plum Purple Passion is described as growing to "no more than 4 feet in heig
 
 ## Visual Characteristics
 
-The most striking feature of Haze Plum Purple Passion is its visual presentation. The buds grow in "shades of orange, yellow, and peach," creating a multi-colored display that is described as "absolutely stunning." This color palette is unusual and highly distinctive — most [[sativa-terpene-profiles-and-aromatic-diversity]] may contribute to the strain's flavor and aroma.
-- **The Haze lineage**: Many Haze-descended strains express colorful phenotypes, and the "Purple Passion" portion of the name suggests that color expression was a selection criterion in the strain's development.
+The most striking feature of Haze Plum Purple Passion is its visual presentation. The buds grow in "shades of orange, yellow, and peach," creating a multi-colored display that is described as "absolutely stunning." This color palette is unusual and highly distinctive — most [[sativa-terpene-profiles-and-aromatic-diversity]] may contribute to the strain"s flavor and aroma.
+- **The Haze lineage**: Many Haze-descended strains express colorful phenotypes, and the "Purple Passion" portion of the name suggests that color expression was a selection criterion in the strain"s development.
 
 ## Aroma and Flavor
 
@@ -42,7 +42,7 @@ The strain is described as effective for treating PTSD, suggesting that its cann
 
 ### Depression
 
-The strain is noted as beneficial for patients dealing with depression. The euphoric, uplifting effects typical of sativa-dominant strains can provide temporary relief from depressive symptoms, improving mood, motivation, and social engagement. The strain's moderate THC content (17%) suggests potency that is sufficient for therapeutic effect without being overwhelming for patients who are sensitive to high-THC varieties.
+The strain is noted as beneficial for patients dealing with depression. The euphoric, uplifting effects typical of sativa-dominant strains can provide temporary relief from depressive symptoms, improving mood, motivation, and social engagement. The strain"s moderate THC content (17%) suggests potency that is sufficient for therapeutic effect without being overwhelming for patients who are sensitive to high-THC varieties.
 
 ### Appetite Stimulation
 

@@ -34,7 +34,7 @@ Additionally, a **10-inch (25 cm) mill file** for sharpening the shovel and hoe 
 - Good for filling wheelbarrows and moving piles of material
 
 ### The Combination Shovel
-Solomon's top recommendation. The combination shovel has:
+Solomon"s top recommendation. The combination shovel has:
 - A **slightly pointed cutting edge** like a spade, allowing it to cut into earth
 - A blade **narrow enough** that it doesn't take unreasonable force to press into uncompacted soil
 - A blade **curved enough** to lift and toss soil effectively
@@ -66,7 +66,7 @@ Indicators of good steel:
 Indicators of poor steel:
 - The file cuts rapidly with little pressure — the metal is too soft
 - The tool needs frequent resharpening
-- Visible wear thinning the blade (a sign the shovel's useful life is over)
+- Visible wear thinning the blade (a sign the shovel"s useful life is over)
 
 ### What to Look For
 - **Solid handle attachment** — loose handles are dangerous and inefficient

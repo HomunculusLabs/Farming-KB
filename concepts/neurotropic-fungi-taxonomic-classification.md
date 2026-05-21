@@ -52,7 +52,7 @@ Species containing well-known ergot alkaloids: **Claviceps** with 5 species
 **Cordyceps** with 2 species (*C. capitata*, *C. ophioglossoides*). The genus
 Cordyceps is taxonomically close to [[guzman-panaeolina-foenisecii-psilocybin-controversy-conflicting-chemical-analyses]]*, a cosmopolitan species,
    has been reported both with and without psilocybin. Some researchers detected
-   psilocybin (Robbers et al. 1969, Ola'h 1969, Pollock 1976) while others found
+   psilocybin (Robbers et al. 1969, Ola"h 1969, Pollock 1976) while others found
    none (Mantle & Waight 1969, Ott & Guzmán 1976, Beug & Bigwood 1982, Stijve
    1987). The species may be more toxic than neurotropic.
 

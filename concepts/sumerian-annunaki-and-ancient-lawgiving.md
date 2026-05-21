@@ -15,7 +15,7 @@ Enki (whose name means "Archetype") is characterized by attributes of compassion
 
 - **Creating humanity** alongside his sister [[stropharia-cubensis-tree-of-knowledge]]**, knowing it would open their eyes and "multi-dimensionalize" their consciousness — an act against the wishes of the Anunnaki high council
 - **Saving humanity from the flood** brought on by Enlil
-- Serving as humanity's preserver and compatriot
+- Serving as humanity"s preserver and compatriot
 
 The cuneiform **caduceus** (snake coiled around a staff) is Enki's personal emblem. In biblical Hebrew, the word translated as "serpent" is "nahash" (NHSH), which literally means "to decipher" or "to find out" — connecting the serpent figure to the bestowal of knowledge and enlightenment rather than deception.
 
@@ -32,13 +32,13 @@ The analysis argues that "The Lord" (Enki/Adonai) and "Jehovah" (Enlil) are not 
 
 ## Ninhursag — The Mother Creator
 
-Enki's sister Ninhursag co-performed the genetic manipulation that produced the Adama (the first humans, Adam and Eve). She is known in Egypt as **Isis**, "the mother of all the living," and serves as the archetype for Maya, Mary, Ishtar, and Diana across various traditions.
+Enki"s sister Ninhursag co-performed the genetic manipulation that produced the Adama (the first humans, Adam and Eve). She is known in Egypt as **Isis**, "the mother of all the living," and serves as the archetype for Maya, Mary, Ishtar, and Diana across various traditions.
 
 The substance fed to the faithful of Enlil and Ninhursag was called **"Star-Fire"**, produced from the lunar essence or blood of the goddess. It is also called "the gold of the gods" and "the red gold" — terms analyzed as polymorphous references to the mushroom.
 
 ## The Commandments as Control Mechanisms
 
-After Enki's exile for giving humanity the [[mckenna-vedic-soma-indo-european-mysteries]]** — the ecstatic brew of the gods
+After Enki"s exile for giving humanity the [[mckenna-vedic-soma-indo-european-mysteries]]** — the ecstatic brew of the gods
 - **"Gold"** as a polymorphous representation — the dried mushroom cap is gold/reddish-gold in color, and must be "put to the fire" (decarboxylation) before proper ingestion
 
 The Egyptian Book of the Dead describes the pharaoh, searching for the ultimate food of the gods, continuously repeating "what is it?" at every step — which is the very definition given for the enigmatic manna in Jewish records.

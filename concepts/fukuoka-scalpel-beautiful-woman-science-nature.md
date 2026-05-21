@@ -15,7 +15,7 @@ the very wholeness and beauty that it seeks to understand.
 
 ## Nature as an Indivisible Whole
 
-Fukuoka's argument begins with a fundamental premise: nature is a living, organic whole that
+Fukuoka"s argument begins with a fundamental premise: nature is a living, organic whole that
 cannot be divided and subdivided.
 
 When nature is separated into two complementary halves and these divided again into four,

@@ -12,7 +12,7 @@ This page explores the deep ethical dimensions of "Care for the Earth" beyond si
 
 ### Beyond Planetary Stewardship
 
-[[wendell-berry]]'s critique of planetary stewardship as arrogant disconnection from nature: "The question which must be addressed is not how to care for the planet, but how to care for each of the planet's millions of human and natural neighbourhoods, each of its millions of small pieces and parcels of land, each one of which is in some precious and exciting way different from all the others."
+[[wendell-berry]]"s critique of planetary stewardship as arrogant disconnection from nature: "The question which must be addressed is not how to care for the planet, but how to care for each of the planet"s millions of human and natural neighbourhoods, each of its millions of small pieces and parcels of land, each one of which is in some precious and exciting way different from all the others."
 
 ### The Stewardship Question
 
@@ -35,7 +35,7 @@ Care for the Earth encompasses caring for all diverse lifeforms — not dependen
 
 Our ability to directly care for all species is as limited as our ability to care for the whole planet. Permaculture is a pragmatic philosophy that takes ecological limits as foundations. The traditional saying "live and let live" encapsulates a modest notion of avoiding harm where possible.
 
-### Holmgren's Interpretation of Caring for Other Lifeforms
+### Holmgren"s Interpretation of Caring for Other Lifeforms
 
 1. Accept all lifeforms or species as intrinsically valuable, no matter how inconvenient
 2. Reduce total environmental impact as the best way to care for all living things, without needing to understand or control every individual impact
@@ -81,7 +81,7 @@ The Genuine Progress Indicator has been declining since 1978 in the US despite h
 
 ### Abundance
 
-A sense of abundance emerges when experiencing nature's gifts, sharpest within a context of constraint. The first strawberry of the season is special because nature doesn't provide them year-round. Luxuries lose their power when they become everyday realities.
+A sense of abundance emerges when experiencing nature"s gifts, sharpest within a context of constraint. The first strawberry of the season is special because nature doesn't provide them year-round. Luxuries lose their power when they become everyday realities.
 
 The experience of abundance encourages distributing surplus beyond our circle of responsibility. The sense of abundance is lost through addictive indulgence to excess and waste — only possible through power over nature and people.
 

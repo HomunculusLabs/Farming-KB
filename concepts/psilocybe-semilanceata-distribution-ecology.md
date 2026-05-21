@@ -21,7 +21,7 @@ type: concept
 
 ## Taxonomy and Naming
 
-The species was first described by Elias Fries (as Agaricus semilanceatus) and later transferred to Psilocybe. The common name "liberty cap" refers to the distinctive conical cap shape, resembling the Phrygian cap worn during the French Revolution as a symbol of liberty. Other common names include "witch's hat" and "blue leg."
+The species was first described by Elias Fries (as Agaricus semilanceatus) and later transferred to Psilocybe. The common name "liberty cap" refers to the distinctive conical cap shape, resembling the Phrygian cap worn during the French Revolution as a symbol of liberty. Other common names include "witch"s hat" and "blue leg."
 
 ## Morphology
 

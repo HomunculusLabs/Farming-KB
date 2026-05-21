@@ -18,7 +18,7 @@ sources: ["Shulgin - PIHKAL"]
 ## Qualitative Comments
 
 > (with 4 mg) At the second hour I had a
-> paraesthetic twinge or two (all pins and [[query-how-to-make-a-diy-still-air-box-for-mushroom-cultivation]] feel 'popped' and there is a little bit of physical
+> paraesthetic twinge or two (all pins and [[query-how-to-make-a-diy-still-air-box-for-mushroom-cultivation]] feel "popped' and there is a little bit of physical
 > awareness. There is not much fun with this. The night following, I
 > was unable to sleep and only dozed s[[query-how-do-i-choose-between-a-cold-frame-row-cover-and-low-tunnel]] the hours 2 and 3, I got to a full +++, and I was
 > concerned that I saw the [[lsd]], no shakes or shimmers,

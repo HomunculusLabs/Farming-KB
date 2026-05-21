@@ -9,7 +9,7 @@ tags: [person, ecology, thermodynamics, energy-flows, ecological-law]
 
 A.B. Watt is an ecologist cited by Mollison as one of the formulators of "the guiding principles and laws of natural systems" alongside Odum and Birch. Mollison specifically credits Watt with restating the basic law of thermodynamics in ecological terms: "All energy entering an organism, population or ecosystem can be accounted for as energy which is stored or leaves. Energy can be transferred from one form to another, but it cannot disappear, or be destroyed, or created. No energy conversion system is ever completely efficient."
 
-This restatement of the first law of thermodynamics in ecological language provides the scientific foundation for permaculture's emphasis on energy accounting — tracking where energy enters a system, how it is stored or transformed, and where it leaves.
+This restatement of the first law of thermodynamics in ecological language provides the scientific foundation for permaculture"s emphasis on energy accounting — tracking where energy enters a system, how it is stored or transformed, and where it leaves.
 
 ## Classification
 

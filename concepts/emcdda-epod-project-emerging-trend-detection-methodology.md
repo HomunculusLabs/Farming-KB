@@ -16,7 +16,7 @@ type: concept
 
 ## E-POD Project: Emerging Trend Detection Methodology
 
-The E-POD (European Perspectives on Drugs) was a pilot project developed by the European Monitoring Centre for Drugs and Drug Addiction (EMCDDA) to explore the capacity of EU Member States to detect, track, and understand emerging drug trends. The project represented a methodological departure from the EMCDDA's standard key indicators system, which was designed primarily for monitoring well-established drug use patterns rather than identifying novel or shifting phenomena.
+The E-POD (European Perspectives on Drugs) was a pilot project developed by the European Monitoring Centre for Drugs and Drug Addiction (EMCDDA) to explore the capacity of EU Member States to detect, track, and understand emerging drug trends. The project represented a methodological departure from the EMCDDA"s standard key indicators system, which was designed primarily for monitoring well-established drug use patterns rather than identifying novel or shifting phenomena.
 
 ## Rationale and Context
 

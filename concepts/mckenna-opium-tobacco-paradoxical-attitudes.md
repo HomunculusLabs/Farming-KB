@@ -12,7 +12,7 @@ sources:
 
 ## The Opium Wars
 
-McKenna devoted considerable attention to the Opium Wars of the 19th century as a paradigmatic example of the paradoxical attitudes that [[mckenna-drug-war-and-human-freedom]] is, in McKenna's view, not a public health initiative but an instrument of social control. By criminalizing certain drugs while promoting others, the dominator culture reinforces its preferred modes of consciousness — alert, competitive, aggressive — while suppressing alternative modes — introspective, empathetic, boundary-dissolving — that might challenge the existing power structure.
+McKenna devoted considerable attention to the Opium Wars of the 19th century as a paradigmatic example of the paradoxical attitudes that [[mckenna-drug-war-and-human-freedom]] is, in McKenna"s view, not a public health initiative but an instrument of social control. By criminalizing certain drugs while promoting others, the dominator culture reinforces its preferred modes of consciousness — alert, competitive, aggressive — while suppressing alternative modes — introspective, empathetic, boundary-dissolving — that might challenge the existing power structure.
 
 ## The Role of Racism
 

@@ -16,13 +16,13 @@ Allegro shows that the identification of the sacred mushroom with the morning st
 
 As Gemini, the [[allegro-old-testament-figures-as-fertility-deities]] promise: "a star shall come forth out of Jacob, and a comet shall rise out of Israel" (Num 24:17). The leader of the Jewish rebels of the Second Revolt (Bar Kokhba) adopted the title as his own.
 
-## Isaiah's Oracle: The Fallen Morning Star
+## Isaiah"s Oracle: The Fallen Morning Star
 
 Isaiah's oracle against the king of Babylon (Isa 14:12-15) — "How are you fallen from heaven, Shining One, Son of the Dawn!" — describes the mushroom in terms of its glorious but short-lived life. The application was possible through similarity between "Babylon" and the Greek Boubalion, a fungus name attached to the Squirting Cucumber and deriving from Sumerian GU-BAR, "top of the head; glans penis."
 
 ## Venus as Fecundating Penis of Heaven
 
-The morning and evening star is Venus. Before the sun revolves "a very large star named Venus." When rising before dawn it receives the name Lucifer ("light-bearer"), and when shining after sunset, Vesper. The ancients pictured these luminaries as penes in the sky, their light fancifully seen as the "glow" of the glans' fiery crown.
+The morning and evening star is Venus. Before the sun revolves "a very large star named Venus." When rising before dawn it receives the name Lucifer ("light-bearer"), and when shining after sunset, Vesper. The ancients pictured these luminaries as penes in the sky, their light fancifully seen as the "glow" of the glans" fiery crown.
 
 Before the sun-god withdrew his penis from the earth's vaginal sheath each morning, this rival slipped from the nuptial chamber heralding the dawn. Coming dripping with the semen of the terrestrial womb, it scattered "genital dew" — the most powerful conceptual fluid of Nature. Pliny: "Its influence is the cause of the birth of all things upon the earth; at both of its risings it scatters a genital dew with which it not only fills the conceptive organs of the earth but also stimulates those of all animals."
 
@@ -36,7 +36,7 @@ It was this "spermal emission" of the dew that left behind Manna, the "bread" of
 
 ## Necromancy and the Mushroom Star
 
-Mushroom worship was closely connected with necromancy — the raising of spirits of the dead for fortune-telling. Isaiah's call "O dwellers in the dust, awake and sing for joy! For thy dew is a dew of light" connects the mushroom (via dew) to the realm of the dead and the possibility of spiritual illumination from beyond the grave. The star's connection to both heaven (rising above) and earth (dew falling below) mirrors the mushroom's dual nature as connector of worlds.
+Mushroom worship was closely connected with necromancy — the raising of spirits of the dead for fortune-telling. Isaiah"s call "O dwellers in the dust, awake and sing for joy! For thy dew is a dew of light" connects the mushroom (via dew) to the realm of the dead and the possibility of spiritual illumination from beyond the grave. The star"s connection to both heaven (rising above) and earth (dew falling below) mirrors the mushroom's dual nature as connector of worlds.
 
 ## The Phoenix: Mushroom of Immortality
 
@@ -44,7 +44,7 @@ The Greek phoinix ("Phoenix") — name of the palm tree, the bird, the Levantine
 
 ## Lucifer and the Christian Tradition
 
-The identification of the morning star with Lucifer — the fallen angel of Christian tradition — is, in Allegro's reading, a late development of the mushroom-star identification. The "fall" of Lucifer from heaven (Isaiah 14:12) describes the mushroom's lifecycle: rising gloriously from the earth, expanding to its full majesty, then deliquescing and disappearing. The Christian demonization of Lucifer preserved the memory of the mushroom's celestial connection while inverting its meaning — what was once the sacred connector of heaven and earth became the symbol of rebellion against divine authority.
+The identification of the morning star with Lucifer — the fallen angel of Christian tradition — is, in Allegro"s reading, a late development of the mushroom-star identification. The "fall" of Lucifer from heaven (Isaiah 14:12) describes the mushroom's lifecycle: rising gloriously from the earth, expanding to its full majesty, then deliquescing and disappearing. The Christian demonization of Lucifer preserved the memory of the mushroom's celestial connection while inverting its meaning — what was once the sacred connector of heaven and earth became the symbol of rebellion against divine authority.
 
 This inversion is characteristic of what Allegro saw as the systematic suppression of the [[mckenna-dominator-culture-and-suppression-of-ecstasy]]. The [[allegro-philological-methodology]] used to derive these connections has been both influential and controversial
 - Modern archaeobotanical research continues to investigate the role of psychoactive plants in ancient religious practice

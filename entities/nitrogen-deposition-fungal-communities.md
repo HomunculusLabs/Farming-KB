@@ -62,7 +62,7 @@ Kieliszewska-Rokicka (1992) found that small amounts of NH4-N (0.17–19 mM) act
 
 ### Conservation Implications
 
-Arnolds' observations of fungal species loss in The Netherlands led to the adoption of "red data" lists for fungal conservation (Arnolds, 1989b, 1997). Specific species losses included:
+Arnolds" observations of fungal species loss in The Netherlands led to the adoption of "red data" lists for fungal conservation (Arnolds, 1989b, 1997). Specific species losses included:
 - Hygrocybe ceracea, Entoloma conferendum, Mycena cinerella, Geoglossum glutinosum (declined)
 - [[marasmius-oreades]], [[guzman-panaeolina-foenisecii-psilocybin-controversy-conflicting-chemical-analyses]], Clitocybe amarescens, Panaeolus acuminatus (increased 6–400 fold)
 - Coprophytic fungal species increased overall

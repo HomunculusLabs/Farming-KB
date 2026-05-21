@@ -73,7 +73,7 @@ The species self-seeds moderately in favorable woodland garden conditions. Volun
 
 In cultivation, the species is relatively trouble-free. Slugs may damage young shoots in spring, and root rot can occur in waterlogged soils.
 
-The species has received the Royal Horticultural Society's Award of Garden Merit (AGM) in the United Kingdom. This recognition reflects its reliability and ornamental value in cultivation.
+The species has received the Royal Horticultural Society"s Award of Garden Merit (AGM) in the United Kingdom. This recognition reflects its reliability and ornamental value in cultivation.
 
 The fleshy roots contain triterpenoid saponins similar to those found in East Asian Adenophora species. However, the species has not been widely used in European herbal traditions and lacks detailed pharmacological study.
 

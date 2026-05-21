@@ -67,7 +67,7 @@ Adding molasses to the compost pile **favors fungi over bacteria** and can drama
 
 **500 ml per 4 kg** of dry waste material (approximately 2 pints per 10 pounds) has been demonstrated to work well. This rate also adds trace minerals. Both cane and beet molasses are suitable, and it is often available inexpensively from feed stores or sugar factories.
 
-### What Doesn't Work
+### What Doesn"t Work
 
 Simply adding simple sugars to a wood pile does not improve fungal growth on its own. The specific composition of molasses (including its nitrogen content and trace minerals) is what makes it effective for shifting the microbial balance toward fungi.
 

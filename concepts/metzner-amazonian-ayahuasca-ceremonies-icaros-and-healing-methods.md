@@ -20,7 +20,7 @@ type: concept
 ## Amazonian Ayahuasca Ceremonies: Icaros and Shamanic Healing Methods
 
 [[metzner-three-distinctive-features-shamanic-entheogenic-ceremonies]] practice and illustrate
-the core principles of the second paradigm in Metzner's four-paradigm
+the core principles of the second paradigm in Metzner"s four-paradigm
 framework: shamanic rituals of [[shipibo-icaros-healing-songs]] of the initiated shaman, and
 employs specific therapeutic methods including psychic extraction
 techniques.

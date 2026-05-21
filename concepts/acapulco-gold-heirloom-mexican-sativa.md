@@ -15,7 +15,7 @@ Acapulco Gold is one of the most legendary [[cervantes-landrace-cannabis-populat
 
 ## Historical Significance
 
-Acapulco Gold occupies a unique position in cannabis history. During the 1960s and 1970s, before the widespread hybridization of [[cannabis-growing-environment-setup]] that shaped this strain's characteristics:
+Acapulco Gold occupies a unique position in cannabis history. During the 1960s and 1970s, before the widespread hybridization of [[cannabis-growing-environment-setup]] that shaped this strain"s characteristics:
 
 - **Climate**: Tropical coastal climate with consistent warmth, high humidity, and distinct wet and dry seasons. The long growing season allows for extended vegetative and flowering periods.
 - **Latitude**: Approximately 16.8°N, providing roughly 12.5 hours of daylight at summer solstice. This relatively low latitude [[query-how-to-grow-rare-tropical-fruits-in-marginal-and-subtropical-climates]] that most closely replicate the conditions of the Guerrero coast.
@@ -40,7 +40,7 @@ Acapulco Gold is described as having "a lot of wildness" in its growth pattern, 
 - Sensitivity to artificial growing conditions that differs from the uniform response of modern hybrids
 - A tendency to express traits that indoor growers may find challenging, such as wide internode spacing and moderate calyx-to-leaf ratios
 
-This wildness is not a defect — it is a feature of the strain's genetic integrity. Landrace purists consider this variability to be part of what makes Acapulco Gold authentic and valuable.
+This wildness is not a defect — it is a feature of the strain"s genetic integrity. Landrace purists consider this variability to be part of what makes Acapulco Gold authentic and valuable.
 
 ### Height and Structure
 
@@ -52,7 +52,7 @@ Acapulco Gold finishes after approximately 70 days of flowering (approximately 1
 
 ### Preferred Growing Method
 
-Organic soil cultivation is recommended as the ideal growing method for Acapulco Gold. This preference aligns with the Rev's broader philosophy that sativa strains are "wild-ish and highly adaptable plants" that don't respond well to [[gourmet-medicinal-mushroom-oyster-cultivation-methods]] with superior flavor, potency, and overall quality.
+Organic soil cultivation is recommended as the ideal growing method for Acapulco Gold. This preference aligns with the Rev"s broader philosophy that sativa strains are "wild-ish and highly adaptable plants" that don't respond well to [[gourmet-medicinal-mushroom-oyster-cultivation-methods]] with superior flavor, potency, and overall quality.
 
 ## Aroma, Flavor, and Effects
 

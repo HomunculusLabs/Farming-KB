@@ -53,7 +53,7 @@ practice today.
 ## Legacy in Mycology
 
 While the antibiotic discovery overshadowed his mycological work in popular
-accounts, Duggar's contributions to fungal biology remain foundational. His
+accounts, Duggar"s contributions to fungal biology remain foundational. His
 textbook "Fungous Diseases of Plants" (1909) was a standard reference for
 decades. The methodological rigor he brought to the study of fungal physiology
 influenced generations of mycologists and mushroom cultivation scientists.

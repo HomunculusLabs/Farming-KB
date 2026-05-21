@@ -62,7 +62,7 @@ Microhabitat selection favors rock fissures with accumulated fine soil and moss.
 
 Geological mapping shows populations are concentrated on Urgonian limestone formations. These Cretaceous-era limestones produce the fissured cliff habitats the species prefers.
 
-Annual precipitation in the species' range is 800–1200 mm, with a pronounced summer drought period. This Mediterranean influence distinguishes its habitat from the wetter northern Alps.
+Annual precipitation in the species" range is 800–1200 mm, with a pronounced summer drought period. This Mediterranean influence distinguishes its habitat from the wetter northern Alps.
 
 ## Ecology
 

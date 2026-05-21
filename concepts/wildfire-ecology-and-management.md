@@ -6,7 +6,7 @@ type: concept
 
 ## Wildfire Ecology and Management
 
-Wildfire is a pervasive landscape phenomenon that transcends conventional climate categories. As discussed in Section 12.16 of [[bill-mollison]]'s *Permaculture: A Designer's Manual*, fire is not merely a hazard to be suppressed but a dynamic process shaped by the interplay of vegetation, land use, and climatic forces. Understanding wildfire in a permaculture context requires examining how human activities and natural systems co-produce fire risk, and how design principles can mitigate catastrophic outcomes while respecting fire's ecological role.
+Wildfire is a pervasive landscape phenomenon that transcends conventional climate categories. As discussed in Section 12.16 of [[bill-mollison]]"s *Permaculture: A Designer's Manual*, fire is not merely a hazard to be suppressed but a dynamic process shaped by the interplay of vegetation, land use, and climatic forces. Understanding wildfire in a permaculture context requires examining how human activities and natural systems co-produce fire risk, and how design principles can mitigate catastrophic outcomes while respecting fire's ecological role.
 
 This section follows treatments of rangelands and cold climates in the manual, situating fire within a broader discussion of how [[permaculture-design]] addresses extreme landscape conditions. Fire is both a natural process and a management challenge — a force that shapes vegetation communities, soil chemistry, and ecosystem succession, but one that becomes catastrophic when human land use disrupts the natural feedback loops that historically kept fire within manageable bounds.
 

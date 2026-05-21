@@ -18,7 +18,7 @@ type: concept
 
 ## From Research Compound to Marketed Product
 
-After W. A. Stoll's groundbreaking 1947 studies demonstrated [[savory-short-duration-grazing-and-cell-systems]] in normal subjects. In normal subjects, 25
+After W. A. Stoll"s groundbreaking 1947 studies demonstrated [[savory-short-duration-grazing-and-cell-systems]] in normal subjects. In normal subjects, 25
 to 75 micrograms were generally sufficient, while certain forms of
 psychosis and chronic alcoholism required higher doses (2 to 4
 micrograms per kg body weight).

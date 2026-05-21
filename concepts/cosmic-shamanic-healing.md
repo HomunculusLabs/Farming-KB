@@ -34,7 +34,7 @@ Nina-runa (fire person) with hair of fire serves shamans as protection. Maullayr
 
 ## The Tiahuanaco Realm
 
-The ancient Tiahuanaco culture of Lake Titicaca maintains a living presence in the visionary world. Two ancestral figures — Papamtu'a (father that takes care of everybody) and Mamamtu'a (mother of all human beings) — maintain contact with huaira-cuchas, beings from distant galaxies with skin as white as paper.
+The ancient Tiahuanaco culture of Lake Titicaca maintains a living presence in the visionary world. Two ancestral figures — Papamtu"a (father that takes care of everybody) and Mamamtu'a (mother of all human beings) — maintain contact with huaira-cuchas, beings from distant galaxies with skin as white as paper.
 
 ### Round Pyramids of Persivann
 
@@ -73,7 +73,7 @@ The banco is a specialized type of shaman who receives visits from spiritual bei
 Three beings sit on the banco during the vision:
 
 - **Maucanuelotz** ("the oldest king"): A wise man with white hair, expert in occult science. He sits centrally as the authority figure.
-- **Chaimibaco**: Prince seated to Maucanuelotz's right
+- **Chaimibaco**: Prince seated to Maucanuelotz"s right
 - **Huambrarrah**: Prince seated to Maucanuelotz's left
 
 These three collaborate to devise powerful medicine and sublime love magic, and can bestow great fortune upon those they favor. The other beings present play instruments and sing icaros to execute the banco's will.

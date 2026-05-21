@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-The keyhole garden mandala is a zero-runoff, highly accessible garden layout designed primarily for tropical home gardens. Developed from traditional systems documented by Bill Mollison in *Permaculture: A Designers' Manual*, the most well-known example is **Gangamma's Mandala** — a complete household food production system integrating nutrition, soil building, rainwater harvesting, self-mulching, and waste water disposal into a single circular design. The mandala eliminates the need for digging (no-dig gardening) and provides maximum food yield from minimal space with minimal maintenance effort.
+The keyhole garden mandala is a zero-runoff, highly accessible garden layout designed primarily for tropical home gardens. Developed from traditional systems documented by Bill Mollison in *Permaculture: A Designers" Manual*, the most well-known example is **Gangamma's Mandala** — a complete household food production system integrating nutrition, soil building, rainwater harvesting, self-mulching, and waste water disposal into a single circular design. The mandala eliminates the need for digging (no-dig gardening) and provides maximum food yield from minimal space with minimal maintenance effort.
 
 ## Core Design Principle: Least-Path Access
 

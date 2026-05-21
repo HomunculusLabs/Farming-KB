@@ -34,7 +34,7 @@ Psilocybin is 4-phosphoraloxy-N,N-dimethyltryptamine, while serotonin is
 substituted [[tryptamine]] molecules differing only in the functional group
 attached to the indole ring. McKenna emphasized this relationship as central
 to understanding the quality of the [[leary-psychedelic-experience-bardo-mapping]], arguing that
-the brain's familiarity with the tryptamine skeleton is what allows these
+the brain"s familiarity with the tryptamine skeleton is what allows these
 compounds to produce experiences that feel "real" rather than artificial or
 pharmacologically imposed.
 
@@ -60,7 +60,7 @@ its targets.
 
 The contrast with LSD is instructive. LSD is retained in the body for an
 extended period, and its effects build gradually. McKenna suggested that
-this extended duration reflects the brain's relative unfamiliarity with the
+this extended duration reflects the brain"s relative unfamiliarity with the
 [[lysergic-acid]] scaffold, requiring more complex metabolic processing and
 producing a qualitatively different type of experience. The DMT experience,
 by contrast, is immediate and total because the brain already knows how to

@@ -32,7 +32,7 @@ against microbial degradation. This nutrient-dense composition allows persistenc
 temperature extremes, and nutrient depletion — some species remain viable for years before
 germinating when conditions improve. In *Psilocybe*, [[steven-pollock]] in 1977 from near Tampa, Florida. One of the few
 psilocybin-containing species to reliably produce sclerotia under cultivation, it is rare in the
-wild and primarily maintained through cultivation; its sclerotia are commonly called "Philosopher's
+wild and primarily maintained through cultivation; its sclerotia are commonly called "Philosopher"s
 Stones." *P. mexicana* was described by Roger Heim in the 1950s from Mexican specimens — among the
 first psilocybin-containing species identified. Used ceremonially by indigenous Mazatec communities,
 it produces sclerotia both in nature and under cultivation.

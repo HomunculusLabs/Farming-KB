@@ -6,7 +6,7 @@ type: concept
 
 ## Allegro Bible Morals and Ten Commandments as Mushroom Word-Play
 
-John Marco Allegro's controversial thesis in *[[allegro-fertility-philosophy-of-the-ancient-near-east]], the New Testament as deliberate cryptic communication, the Ten Commandments themselves as mushroom word-play, and a [[leary-psychedelic-experience-bardo-mapping]] — the kind of visual distortion well documented in the ethnographic literature on [[fly-agaric]] intoxication.
+John Marco Allegro"s controversial thesis in *[[allegro-fertility-philosophy-of-the-ancient-near-east]], the New Testament as deliberate cryptic communication, the Ten Commandments themselves as mushroom word-play, and a [[leary-psychedelic-experience-bardo-mapping]] — the kind of visual distortion well documented in the ethnographic literature on [[fly-agaric]] intoxication.
 
 The prophetic tradition thus preserves, in coded form, the experiential core of the mushroom religion even as some of its exponents argued against its outward expression.
 
@@ -14,7 +14,7 @@ The deity names themselves reinforce this continuity. Yahweh, Baal, Zeus, Jupite
 
 The supposed uniqueness of Israelite monotheism dissolves when these names are read as regional expressions of a single, mushroom-centred cultic tradition whose worship was recognisable beneath different linguistic costumes. The names changed; the cult remained.
 
-The mushroom cult's extreme practices ultimately bred their own opposition. The Nehemiah-Ezra reforms of the post-exilic period represent a decisive crackdown, driving the cult underground where it survived in encoded language and secret ritual.
+The mushroom cult"s extreme practices ultimately bred their own opposition. The Nehemiah-Ezra reforms of the post-exilic period represent a decisive crackdown, driving the cult underground where it survived in encoded language and secret ritual.
 
 What mainstream scholarship reads as the triumph of monotheistic reform, Allegro reads as the suppression — but crucially not the eradication — of the mushroom religion.
 
@@ -38,13 +38,13 @@ Allegro writes: "If even one only of the mushroom references were correct, then 
 
 Under this reading, the necessity of a historical founder-figure fades considerably. Christianity becomes not the product of a single charismatic teacher but a latter-day manifestation of a movement thousands of years old, its scriptures a new encoding of the same old mushroom secrets.
 
-Features of the Gospel narratives that have long puzzled historians become comprehensible as deliberate misdirection. Jesus' apparently inexplicable liberal attitude toward "quislings" (collaborators with Rome), his injunction to befriend enemies, his equivocation on the question of paying taxes to Caesar, and the striking detail of Jewish citizens howling for the blood of one of their own before Pilate — all these read as elements of a "deliberate attempt to mislead authorities."
+Features of the Gospel narratives that have long puzzled historians become comprehensible as deliberate misdirection. Jesus" apparently inexplicable liberal attitude toward "quislings" (collaborators with Rome), his injunction to befriend enemies, his equivocation on the question of paying taxes to Caesar, and the striking detail of Jewish citizens howling for the blood of one of their own before Pilate — all these read as elements of a "deliberate attempt to mislead authorities."
 
 The Gospel was a coded message whose surface meaning was designed to satisfy Roman scrutiny while its real meaning spoke only to the initiated. The improbabilities of the narrative are not flaws but features — deliberate implausibilities signalling to the reader that the text operates on a level beneath the obvious one.
 
 ## The Ten Commandments as Mushroom Word-Play
 
-Allegro's most detailed philological work concerns the Decalogue itself. The received understanding of the Ten Commandments as divine moral legislation inscribed on stone tablets is, he argues, a complete misreading of texts whose real subject is the sacred mushroom.
+Allegro"s most detailed philological work concerns the Decalogue itself. The received understanding of the Ten Commandments as divine moral legislation inscribed on stone tablets is, he argues, a complete misreading of texts whose real subject is the sacred mushroom.
 
 ### The Two Tablets
 
@@ -62,9 +62,9 @@ The first commandment, "You shall have no other gods before me," plays on the re
 
 ### Swearing and Oaths
 
-The prohibition against swearing insincerely draws on E-LA-UIA as a play on the Semitic root '-l-h, "to swear." The concept of "remission of sin" Allegro derives from *MASh_BALAG_ANTA, a Sumerian compound whose mushroom meaning underlies the theological idea of forgiveness.
+The prohibition against swearing insincerely draws on E-LA-UIA as a play on the Semitic root "-l-h, "to swear." The concept of "remission of sin" Allegro derives from *MASh_BALAG_ANTA, a Sumerian compound whose mushroom meaning underlies the theological idea of forgiveness.
 
-Jesus' teaching on oaths in the Sermon on the Mount deepens the word-play considerably: "Do not swear at all; let your yes be yes and your no be no" becomes, in Allegro's decoding, a direct mushroom invocation. The Aramaic formula "yes-no; yes-no" approximates the repeated invocatory *E_LA_UIA, *E_LA_UIA.
+Jesus" teaching on oaths in the Sermon on the Mount deepens the word-play considerably: "Do not swear at all; let your yes be yes and your no be no" becomes, in Allegro"s decoding, a direct mushroom invocation. The Aramaic formula "yes-no; yes-no" approximates the repeated invocatory *E_LA_UIA, *E_LA_UIA.
 
 The follow-up clause, "anything more comes from evil," is read as *MASh_BA(LA)G_ANTA — "what is surplus is evil" — a Sumerian phrase that simultaneously encodes the mushroom name and provides the moral-sounding surface instruction.
 
@@ -78,7 +78,7 @@ The Sabbath commandment encodes a mushroom name root carrying a cluster of relat
 
 "Honour your father and mother" Allegro reads not as a family-ethics injunction but as "give praise to those who created you," drawing on sh-b-kh, which means both "honour" and "increase, profit." The dual sense allows the commandment to function as both a moral exhortation and a mushroom invocation.
 
-The sacred offering term Corban connects to *LI_KUR_BA(LA)G_ANTA, read as "for Corban," and is comparable to khurbekhãnā', a known mushroom name in Allegro's philological reconstruction. The Temple offering thus carries a double dedication — to Yahweh on the surface, to the mushroom beneath.
+The sacred offering term Corban connects to *LI_KUR_BA(LA)G_ANTA, read as "for Corban," and is comparable to khurbekhãnā", a known mushroom name in Allegro's philological reconstruction. The Temple offering thus carries a double dedication — to Yahweh on the surface, to the mushroom beneath.
 
 ### Killing, Stealing, and False Witness
 
@@ -90,7 +90,7 @@ Their primary function in his argument is structural: their presence as bare pro
 
 The prohibition "Do not commit adultery" Allegro reads as *LIKU_R_ANTA, "using a woman for adultery." The surface moral instruction conceals a Sumerian phrase whose literal subject is sexual misconduct described in terms drawn from the mushroom vocabulary.
 
-Jesus' radical extension of this commandment — that looking lustfully at a woman constitutes adultery in the heart — works by adding TAB-BA-RI to the underlying word-play, yielding the sense "adulterous association in the mind." The inner/outer distinction in Jesus' ethics maps directly onto the surface/hidden distinction in the encoded text.
+Jesus" radical extension of this commandment — that looking lustfully at a woman constitutes adultery in the heart — works by adding TAB-BA-RI to the underlying word-play, yielding the sense "adulterous association in the mind." The inner/outer distinction in Jesus' ethics maps directly onto the surface/hidden distinction in the encoded text.
 
 The divorce vocabulary surrounding this commandment is equally dense with [[gartz-conocybe-cyanopus-rare-psychoactive-mushroom]]. The ethical content becomes secondary to the secret name concealed within it — a message about the sacred fungus wrapped in the guise of divine commandment.
 

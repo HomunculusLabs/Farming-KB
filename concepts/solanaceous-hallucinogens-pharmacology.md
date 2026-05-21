@@ -13,9 +13,9 @@ The Solanaceae (nightshade family) contains some of the most potent and historic
 
 The root contains the tropane alkaloids hyoscyamine, scopolamine, and atropine. In classical antiquity, mandrake was used as an anaesthetic and sedative. Dioscorides prescribed it for pain relief, and it was administered in wine before surgery. Theophrastus warned that harvesting mandrake required specific ritual precautions.
 
-In medieval and early modern European magic, mandrake root served as a powerful amulet and was a standard ingredient in witches' flying ointments. Its humanoid shape made it a natural focus for sympathetic magic, and small roots (called "puppets" or "mandrake babes") were carried as talismans for wealth, fertility, and protection.
+In medieval and early modern European magic, mandrake root served as a powerful amulet and was a standard ingredient in witches" flying ointments. Its humanoid shape made it a natural focus for sympathetic magic, and small roots (called "puppets" or "mandrake babes") were carried as talismans for wealth, fertility, and protection.
 
-The mandrake's association with fertility and sexuality is ancient and pervasive. The Old Testament contains two references to mandrakes (dudaim) as aphrodisiacs. In Genesis 30:14-16, Rachel bargains with Leah for mandrakes found in the field, hoping they will make her fertile.
+The mandrake"s association with fertility and sexuality is ancient and pervasive. The Old Testament contains two references to mandrakes (dudaim) as aphrodisiacs. In Genesis 30:14-16, Rachel bargains with Leah for mandrakes found in the field, hoping they will make her fertile.
 
 ## Henbane (Hyoscyamus)
 
@@ -23,7 +23,7 @@ Henbane (Hyoscyamus niger) is a biennial plant native to Europe and Asia that ha
 
 Gustav Schenk's self-experiment with henbane seed smoke produced a vivid account of the characteristic solanaceous experience: "My teeth were clenched, and a dizzy rage took possession of me. I know that I trembled with horror; but I also know that I was permeated by a peculiar sense of well-being connected with the crazy sensation that my feet were growing lighter, expanding and breaking loose from my body."
 
-The sensation of body dissolution — feeling one's feet grow lighter, parts of the body becoming independent, the head growing larger — is typical of henbane intoxication. This was counterbalanced by "an intoxicating sensation of flying" and visions of "clouds, the lowering sky, herds of beasts, falling leaves which were quite unlike any ordinary leaves, billowing streamers of steam and rivers of molten metal."
+The sensation of body dissolution — feeling one"s feet grow lighter, parts of the body becoming independent, the head growing larger — is typical of henbane intoxication. This was counterbalanced by "an intoxicating sensation of flying" and visions of "clouds, the lowering sky, herds of beasts, falling leaves which were quite unlike any ordinary leaves, billowing streamers of steam and rivers of molten metal."
 
 ## Belladonna (Deadly Nightshade)
 
@@ -38,7 +38,7 @@ Hoffman, R. S., & Mofenson, H. C. (1990). " poisoning from Ingestion of Datura-R
 
 ## Latua pubiflora — Tree of Sorcerers
 
-Latua pubiflora, known locally as "latué" or "árbol de los brujos" ("sorcerers' tree"), is one of the most enigmatic psychoactive plants of South America. Used exclusively by the Mapuche Indian medicine men of Valdivia, Chile, this plant produces powerful deliriant effects including visual hallucinations, disorientation, and in some cases permanent insanity. It is the only species in its genus and is endemic to a narrow strip of coastal mountains in central Chile, making it one of the most geographically restricted psychoactive plants known.
+Latua pubiflora, known locally as "latué" or "árbol de los brujos" ("sorcerers" tree"), is one of the most enigmatic psychoactive plants of South America. Used exclusively by the Mapuche Indian medicine men of Valdivia, Chile, this plant produces powerful deliriant effects including visual hallucinations, disorientation, and in some cases permanent insanity. It is the only species in its genus and is endemic to a narrow strip of coastal mountains in central Chile, making it one of the most geographically restricted psychoactive plants known.
 
 ## Botanical Description
 

@@ -3,7 +3,7 @@ title: "How do I make homemade vinegar from scratch?"
 tags: [query, vinegar, fermentation, knf, food-preservation]
 date: 2026-05-19
 updated: 2026-05-19
-sources: ['raw/papers/working-with-agar.md']
+sources: ["raw/papers/working-with-agar.md']
 ---
 
 # How do I make homemade vinegar from scratch?

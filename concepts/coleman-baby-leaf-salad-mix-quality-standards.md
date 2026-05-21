@@ -9,7 +9,7 @@ created: 2026-05-08
 
 ## Overview
 
-Eliot Coleman developed a precise quality system for his farm's baby-leaf (mesclun) salad mix, establishing standards for leaf size, ingredient selection, flavor balance, and presentation that set the product apart from supermarket alternatives. The [[coleman-four-season-farm]], with nutritional content far exceeding head lettuce and a carefully curated flavor profile designed for broad customer appeal, including children.
+Eliot Coleman developed a precise quality system for his farm"s baby-leaf (mesclun) salad mix, establishing standards for leaf size, ingredient selection, flavor balance, and presentation that set the product apart from supermarket alternatives. The [[coleman-four-season-farm]], with nutritional content far exceeding head lettuce and a carefully curated flavor profile designed for broad customer appeal, including children.
 
 ## Nutritional Superiority
 
@@ -21,9 +21,9 @@ The three-inch standard serves both culinary and practical purposes: leaves at t
 
 ## Never Chop Mature Leaves
 
-A critical distinction in Coleman's quality system:
+A critical distinction in Coleman"s quality system:
 
-> "We don't chop mature plants into small pieces like the cut-up endive and radicchio seen in supermarket mixes."
+> "We don"t chop mature plants into small pieces like the cut-up endive and radicchio seen in supermarket mixes."
 
 Instead, they grow specific cultivars that produce naturally small, tender leaves at the baby stage. The 'Bianca Riccia' endive, for example, produces nice light-colored frilly leaves when harvested young — no chopping required.
 

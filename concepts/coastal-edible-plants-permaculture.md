@@ -36,7 +36,7 @@ Forms extensive colonies on tidal mudflats with succulent, jointed, leafless ste
 
 ### Carpobrotus spp (Pigface, Karkalla)
 
-Native to southern Australia, pigface has thick, fleshy, triangular leaves often with a reddish tinge, purple flowers, and purplish-red fruits. It is described as **one of Australia's tastiest fruits, tasting somewhat like salty apples**. The leaves were traditionally eaten cooked by Aboriginal people to salt their meat, and the dried fruit was also consumed. In Queensland, the mucilaginous juice from the leaves treats midge bites and jellyfish stings. *Carpobrotus rossii* and *C. modestus* extend well inland, broadening their utility.
+Native to southern Australia, pigface has thick, fleshy, triangular leaves often with a reddish tinge, purple flowers, and purplish-red fruits. It is described as **one of Australia"s tastiest fruits, tasting somewhat like salty apples**. The leaves were traditionally eaten cooked by Aboriginal people to salt their meat, and the dried fruit was also consumed. In Queensland, the mucilaginous juice from the leaves treats midge bites and jellyfish stings. *Carpobrotus rossii* and *C. modestus* extend well inland, broadening their utility.
 
 ### Arctostaphylos uva-ursi (Bearberry, Kinnikinik)
 

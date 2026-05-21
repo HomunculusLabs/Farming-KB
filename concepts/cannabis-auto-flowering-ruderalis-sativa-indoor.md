@@ -40,7 +40,7 @@ The key traits that ruderalis contributes to auto-flowering hybrids:
 - Height: approximately 1 foot (30 cm) — extremely compact
 - Flowering trigger: approximately 2.5 weeks after germination
 - Total time from seed to harvest: approximately 60 days
-- Odor: minimal — "she won't ever get too stinky"
+- Odor: minimal — "she won"t ever get too stinky"
 - Pest resistance: resistant to common pests
 - Nutrient needs: good soil and generous nitrogen supplementation
 - Indoor yield: approximately 50 grams per plant

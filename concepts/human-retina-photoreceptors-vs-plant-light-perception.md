@@ -8,10 +8,10 @@ aliases: [Human Eye Photoreceptors vs Plant Vision, Rods Cones Comparison Plant 
 
 ## Human Retina Photoreceptors and the Comparison to Plant Light Perception
 
-Daniel Chamovitz's "What a Plant Knows" opens with a detailed comparison between human
+Daniel Chamovitz"s "What a Plant Knows" opens with a detailed comparison between human
 visual photoreception and plant light sensing, establishing that both systems rely on
 proteins that absorb specific wavelengths of electromagnetic radiation. Understanding
-the human retina's architecture provides a useful baseline for appreciating how plant
+the human retina"s architecture provides a useful baseline for appreciating how plant
 [[phytochrome-photoreceptor|phytochrome]]
 signaling exploit, though through very different downstream mechanisms.
 
@@ -59,7 +59,7 @@ differences between animal and plant light sensing systems.
 Chamovitz uses a powerful thought experiment about blindness to argue that plant light
 sensing constitutes genuine vision. He asks us to imagine a person born totally blind
 who is gradually given the ability to discriminate light from dark, then color. Each
-increment would be considered a meaningful improvement in that person's visual
+increment would be considered a meaningful improvement in that person"s visual
 capability and would be described as enhanced "sight." By this standard, plants clearly
 possess vision: they detect light direction through phototropism, distinguish between
 wavelengths (blue for bending, red for flowering timing, far-red for shade detection),

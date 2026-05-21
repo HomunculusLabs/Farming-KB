@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-Michael J. Harner's survey of anthropological reports on *Banisteriopsis* (ayahuasca/yage) use across South American [[ethnobotanical-use-of-sacred-mushrooms-in-indigenous-cultures]] reveals a consistent set of visionary experiences that recur across diverse linguistic and cultural groups. This concept page catalogs these cross-cultural patterns and examines their implications for understanding the relationship between [[cultural-evolution-and-psychoactive-substances]] and cultural belief systems.
+Michael J. Harner"s survey of anthropological reports on *Banisteriopsis* (ayahuasca/yage) use across South American [[ethnobotanical-use-of-sacred-mushrooms-in-indigenous-cultures]] reveals a consistent set of visionary experiences that recur across diverse linguistic and cultural groups. This concept page catalogs these cross-cultural patterns and examines their implications for understanding the relationship between [[cultural-evolution-and-psychoactive-substances]] and cultural belief systems.
 
 ## The Common Core of Ayahuasca Experience
 
@@ -18,11 +18,11 @@ Harner identifies five major experiential themes that recur across ayahuasca-usi
 
 The experience frequently begins with a sensation of dying—nausea, physical weakness, loss of bodily awareness—followed by a sense of being freed from the body. Reinburg's (1921) account is vivid: "Comprehension is highly exaggerated; it seems to me as though my body has disappeared; I am nothing more than a mind observing with interest the phases of experience going on within another person."
 
-The physiological basis is clear: ayahuasca contains monoamine oxidase inhibitors (MAOIs) from *Banisteriopsis caapi* and N,N-dimethyltryptamine (DMT) from the admixture plant (*[[chacruna-psychotria-viridis]]* or *Diplopterys cabrerana*). The initial nausea and physical distress are common side effects, and the subsequent dissociation from the body reflects DMT's action on [[psilocybin-pharmacology-and-serotonin-receptors]].
+The physiological basis is clear: ayahuasca contains monoamine oxidase inhibitors (MAOIs) from *Banisteriopsis caapi* and N,N-dimethyltryptamine (DMT) from the admixture plant (*[[chacruna-psychotria-viridis]]* or *Diplopterys cabrerana*). The initial nausea and physical distress are common side effects, and the subsequent dissociation from the body reflects DMT"s action on [[psilocybin-pharmacology-and-serotonin-receptors]].
 
 ### 2. The Sensation of Flight or Floating
 
-The sensation of flying through the air is one of the most consistently reported elements of the ayahuasca experience. A Jivaro shaman's drawing reproduced in Harner's chapter shows a "trip"—forked lines representing two routes the shaman took to "two white men's towns," with one trail "beautifully decorated with beads." The shaman literally maps his visionary journey, depicting it as travel through geographical space.
+The sensation of flying through the air is one of the most consistently reported elements of the ayahuasca experience. A Jivaro shaman's drawing reproduced in Harner's chapter shows a "trip"—forked lines representing two routes the shaman took to "two white men"s towns," with one trail "beautifully decorated with beads." The shaman literally maps his visionary journey, depicting it as travel through geographical space.
 
 ### 3. Visions of Predatory Animals
 
@@ -30,14 +30,14 @@ Across cultures, ayahuasca visions frequently involve encounters with predatory 
 
 - **Jaguars**: The most commonly reported animal spirit. Among the Amahuaca, "the yoshi [spirit] of the jaguar is the one most often seen" by first-time drinkers, and it "teaches the apprentice drinkers all about yoshi." For the Cubeo, people are seen "in the bright coloring of the jaguar."
 - **Boars and tapirs**: The Coreguajes reported seeing "all kinds of boars, tapirs, and jaguars out in the forest."
-- **Snakes**: Amahuaca first-timers reported "snakes crawling up their bodies." A Jivaro shaman's drawing depicts a coiled snake seen in a patient's abdomen during diagnosis.
+- **Snakes**: Amahuaca first-timers reported "snakes crawling up their bodies." A Jivaro shaman"s drawing depicts a coiled snake seen in a patient's abdomen during diagnosis.
 - **Caymans**: Another Jivaro drawing shows a cayman (alligator) as a visionary entity.
 
 The prominence of predatory animals may reflect the ayahuasca drinker's encounter with the food chain—the recognition that all life feeds on other life, and that the boundary between predator and prey is fundamental to existence. Among the Amahuaca, the jaguar yoshi is also "the most important yoshi connected with witchcraft," appearing to sorcerers to reveal "the whereabouts of the intended victim."
 
 ### 4. A Sense of First-Hand Contact with the Supernatural
 
-Contact with supernatural beings becomes "almost routine" during ayahuasca sessions. Carneiro's account of Amahuaca group sessions describes spirits (yoshi) appearing "one or two at a time," drinking ayahuasca alongside the men, singing with them, and answering questions about where they have been and what they have seen.
+Contact with supernatural beings becomes "almost routine" during ayahuasca sessions. Carneiro"s account of Amahuaca group sessions describes spirits (yoshi) appearing "one or two at a time," drinking ayahuasca alongside the men, singing with them, and answering questions about where they have been and what they have seen.
 
 Among the Desana (Tukano), Reichel-Dolmatoff reports that on awakening from the trance, "the individual remains convinced of the truth of the religious teachings. He has seen everything; he has seen Vai-mahse [Master of Game Animals] and the Daughter of the Sun, he has heard her voice; he has seen the Snake-Canoe float through the rivers, and he has seen the first men spring from it."
 
@@ -47,7 +47,7 @@ This capacity of ayahuasca to produce conviction in religious beliefs is perhaps
 
 Ayahuasca is widely used for divination—specifically, for "seeing" the causes of illness, the perpetrators of crimes, or the shamans responsible for bewitching patients. Among the Jivaro, the curing shaman drinks ayahuasca to "see" which shaman bewitched his patient. Among the Candoshi, the drink is used "for better vision, i.e., in order to discover the cause of death and then to recognize the perpetrator."
 
-The diagnostic function parallels the Mazatec mushroom shaman's use of *Psilocybe* to see the origin of illness—suggesting that the diagnostic use of hallucinogens is a cross-cultural shamanic practice, not specific to any one plant or tradition.
+The diagnostic function parallels the Mazatec mushroom shaman"s use of *Psilocybe* to see the origin of illness—suggesting that the diagnostic use of hallucinogens is a cross-cultural shamanic practice, not specific to any one plant or tradition.
 
 ## Physiological Effects
 
@@ -70,7 +70,7 @@ These effects are consistent with the known pharmacology of the ayahuasca brew�
 
 The nausea and vomiting associated with ayahuasca are not merely side effects but are culturally interpreted as a necessary purge—a physical cleansing that precedes the visionary experience. Indigenous users are instructed not to resist the urge to vomit, though Reinburg notes that he "abandoned the precepts of ayahuasca drinkers who desire to let the phenomena thereof amend themselves" and tried to forcibly vomit.
 
-## The Jivaro Shaman's Drawings
+## The Jivaro Shaman"s Drawings
 
 Harner reproduces drawings made by a Jivaro shaman depicting his ayahuasca visions:
 
@@ -78,7 +78,7 @@ Harner reproduces drawings made by a Jivaro shaman depicting his ayahuasca visio
 - **Cayman**: A predatory spirit encountered during the vision
 - **Golden spheres**: Revolving about the shaman, representing the "spirit of natemd"
 - **Giant butterfly demon**: A threatening spiritual presence
-- **A "trip"**: Forked lines showing routes taken to two white men's towns, with crosses marking the destinations and bead decorations along one trail
+- **A "trip"**: Forked lines showing routes taken to two white men"s towns, with crosses marking the destinations and bead decorations along one trail
 
 These drawings are remarkable as first-person depictions of hallucinogenic experience by an indigenous practitioner, providing a rare window into the phenomenology of shamanic vision from the inside.
 

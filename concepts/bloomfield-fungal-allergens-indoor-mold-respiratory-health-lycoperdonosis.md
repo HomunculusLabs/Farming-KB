@@ -66,7 +66,7 @@ The allergenic potency of spores varies among fungal species. Species commonly f
 - None of these more common species produce trichothecenes
 - Even when Stachybotrys chartarum is identified, only some strains produce the toxins
 
-The biologist **Susan Kaminskyj** at the University of Saskatchewan, who fields frequent calls from terrified homeowners discovering black mold on wallpaper, offers pragmatic reassurance: "If this mold didn't kill you yesterday, it's unlikely that you'll die today." This is not dismissive advice — homeowners should not ignore mold — but it correctly contextualizes the acute danger posed by typical indoor fungal growth.
+The biologist **Susan Kaminskyj** at the University of Saskatchewan, who fields frequent calls from terrified homeowners discovering black mold on wallpaper, offers pragmatic reassurance: "If this mold didn"t kill you yesterday, it's unlikely that you'll die today." This is not dismissive advice — homeowners should not ignore mold — but it correctly contextualizes the acute danger posed by typical indoor fungal growth.
 
 ## Perpetual Exposure
 

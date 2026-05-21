@@ -11,7 +11,6 @@ date: 2026-05-11
 updated: 2026-05-11
 sources:
   - Knapp DG, Pintado A, Santos PM (2018). "Dual colonization of plants by arbuscular-mycorrhizal-fungi and dark septate endophytes." In Mycorrhizal Fungi, Springer.---
----
 
 ## Dark Septate Endophyte Function in Plant Stress Tolerance
 

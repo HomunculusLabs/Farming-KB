@@ -16,7 +16,7 @@ Food forest design, also called [[dighton-fungi-acidifying-pollutants-forest-eco
 
 In all natural ecosystems, plants grow at different heights. Big trees form a canopy over smaller trees, which cover shade-loving shrubs, which shade groundcover herbs. On the edges of this forest, sun-loving edible plants grow. These form a self-sufficient community that maintains itself with far less effort on conventional gardens.
 
-The key insight is that a single large tree is a huge biomass affecting everything around it. A tree provides homes for many creatures and insects, which distribute the tree's seeds in return. The roots have fungi that benefit the soil, and trunks and leaves provide shelter from wind. The tree changes temperature and climate around itself. A large oak tree can transpire 40,000 gallons of water per year, cooling surrounding air, creating precipitation, and storing water in canopy and bark that runs down to plants below.
+The key insight is that a single large tree is a huge biomass affecting everything around it. A tree provides homes for many creatures and insects, which distribute the tree"s seeds in return. The roots have fungi that benefit the soil, and trunks and leaves provide shelter from wind. The tree changes temperature and climate around itself. A large oak tree can transpire 40,000 gallons of water per year, cooling surrounding air, creating precipitation, and storing water in canopy and bark that runs down to plants below.
 
 ## Polyculture vs Monoculture
 

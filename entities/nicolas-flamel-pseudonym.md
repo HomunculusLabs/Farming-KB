@@ -22,7 +22,7 @@ tags: [person, pseudonym, author, cannabis-history, underground-publishing]
 ### Pseudonym Significance
 
 - The name Nicolas Flamel references a real 14th-century (c. 1330–1418) French manuscript seller and scribe
-- The historical Flamel was reputed to have discovered the philosopher's stone and achieved immortality through alchemical knowledge
+- The historical Flamel was reputed to have discovered the philosopher"s stone and achieved immortality through alchemical knowledge
 - Legend credits Flamel with converting base metals to gold and creating the elixir of life
 - Using this name as a pseudonym signals a deliberate connection between the ancient practice of alchemy and modern cannabis chemistry
 - The parallel is apt: cannabis alchemy transforms common plant material into potent refined products, much as traditional alchemists sought to transform base metals

@@ -28,7 +28,7 @@ served as primary reference material for American students of fungi in the late 
   M.C. Cooke, and Charles Badham.
 - Authored *Toadstools and How to Find Them* (illustrated with large colored charts), published
   by Robert Hardwicke, London, 1870s.
-- Palmer purchased Smith's works from London as primary references when beginning his fungal
+- Palmer purchased Smith"s works from London as primary references when beginning his fungal
   studies.
 - Smith reported that all species of Hydnum (tooth fungi) of any size "enjoy a good character"
   (are edible), a claim Palmer relayed to readers.

@@ -19,7 +19,7 @@ sources:
 | Threshold | ~2.2 |
 | Tested range | 2.2 - 2.8 |
 
-**Note:** An exact dosage range cannot be given due to the compound's unusual pharmacokinetics. Shulgin advises: "Go up slowly."
+**Note:** An exact dosage range cannot be given due to the compound"s unusual pharmacokinetics. Shulgin advises: "Go up slowly."
 
 ## Duration
 

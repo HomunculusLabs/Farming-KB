@@ -17,7 +17,7 @@ tags: [history, mushroom-cultivation]
 
 David Lewis-Williams and Thomas Dowson argued that some Palaeolithic rock art was an attempt to represent hallucinations obtained in trances. Their model proposes: (1) light trance with entoptic hallucinations (grids, zigzags, dots); (2) deeper trance where these become culturally specific iconic forms; (3) the deepest trance, where subjects feel in the presence of deities.
 
-### Letcher's Critical Assessment
+### Letcher"s Critical Assessment
 
 Letcher argues that the popular narrative of an unbroken tradition of mushroom use stretching from Palaeolithic shamans through the Neolithic builders of Stonehenge, the ancient Greeks at Eleusis, Iron Age Druids, and medieval witches is an "essentialist view" that is "problematic." Drug experiences, whatever essential elements they may contain, are "always culturally bound, culturally mediated."
 

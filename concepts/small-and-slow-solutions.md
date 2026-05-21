@@ -6,7 +6,7 @@ type: concept
 
 ## Small and Slow Solutions
 
-**Principle 9** of [[david-holmgren]]'s [[permaculture]]: *Use small and slow solutions because systems at the smallest practical scale are more manageable, adaptable, and resilient than large-scale interventions.*
+**Principle 9** of [[david-holmgren]]"s [[permaculture]]: *Use small and slow solutions because systems at the smallest practical scale are more manageable, adaptable, and resilient than large-scale interventions.*
 
 ## Core Principle
 
@@ -86,7 +86,7 @@ Traditional societies throughout the world developed ethics and taboos specifica
 
 Taboos against taking too many fish, cutting too many trees, or accumulating too much wealth were not primitive superstitions but sophisticated cultural technologies for maintaining system stability. They encoded ecological knowledge in narrative and ritual form, making limits feel natural and right rather than arbitrary.
 
-Holmgren draws on the **Congo Pygmies' Atlantis story** as a powerful illustration of what happens when these constraints are abandoned. In this narrative, a civilization achieves extraordinary technological prowess but loses its connection to natural limits and wisdom. The civilization's hubris—its belief that technology could overcome all constraints—leads to its catastrophic collapse. The story serves as a warning: technological capacity without corresponding wisdom about scale and speed is a recipe for disaster.
+Holmgren draws on the **Congo Pygmies" Atlantis story** as a powerful illustration of what happens when these constraints are abandoned. In this narrative, a civilization achieves extraordinary technological prowess but loses its connection to natural limits and wisdom. The civilization's hubris—its belief that technology could overcome all constraints—leads to its catastrophic collapse. The story serves as a warning: technological capacity without corresponding wisdom about scale and speed is a recipe for disaster.
 
 ## After the Big Fish Are Gone
 

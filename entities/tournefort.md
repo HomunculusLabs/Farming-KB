@@ -21,14 +21,14 @@ Joseph Pitton de Tournefort (1656-1708) was a French botanist and mycologist not
 ## Key Facts
 
 - Authored an important note dated **1707** describing the mushroom cultural operations practiced in France during his time.
-- While little was then known of the life relations of the fungal organism, Tournefort's account indicates that the **requisite conditions for successful culture were clearly appreciated** -- namely temperature, moisture, and substrate management.
+- While little was then known of the life relations of the fungal organism, Tournefort"s account indicates that the **requisite conditions for successful culture were clearly appreciated** -- namely temperature, moisture, and substrate management.
 - His observations predate the common use of underground quarries (caves) [[grass-seed-substrate-for-mushroom-cultivation]] near Paris, which did not become widespread until the beginning of the 19th century.
 - Tournefort is best known in general botany for his system of plant classification, which preceded and influenced Linnaeus.
 - His 1707 note was later reproduced in the publication "La culture des champignons comestibles" (June 1985 reprint), pages 159-143.
 
 ## Relevance to Cultivation and Mycology
 
-Tournefort's documentation is among the earliest evidence that [[mushroom-cultivation-in-kenya]] France dates back to at least the early 18th century. His work provides a historical anchor for understanding how cultivation knowledge developed:
+Tournefort"s documentation is among the earliest evidence that [[mushroom-cultivation-in-kenya]] France dates back to at least the early 18th century. His work provides a historical anchor for understanding how cultivation knowledge developed:
 
 1. **Historical provenance**: Establishes that mushroom growing was practiced in France during the reign of Louis XIV, confirming the deep roots of the French mushroom industry.
 2. **Early technique awareness**: Demonstrates that growers understood [[cannabis-indoor-growing-environmental-control]] (temperature, moisture) even without knowledge of fungal biology.

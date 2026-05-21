@@ -6,7 +6,7 @@ type: concept
 
 ## Cool Temperate Soils and Water Conservation
 
-Mollison's treatment of cool temperate soils emphasises their unique capacity
+Mollison"s treatment of cool temperate soils emphasises their unique capacity
 for humus accumulation under natural forest and meadow regimes, the legacy of
 glacial geology, and the integration of [[water-conservation]] with landform
 design through the Keyline system and gravity-flow irrigation.

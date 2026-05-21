@@ -6,13 +6,13 @@ type: concept
 
 ## Permaculture in Humid Landscapes: Keypoint and Keyline Design
 
-In Pamphlet II of the [[permaculture-design]] Course, [[bill-mollison]] turns from the global environmental crisis to practical landscape design, beginning with humid landscapes — those receiving more than 30 inches of annual rainfall. The central thesis is deceptively simple: the storage of water on the landscape. The critical observation is that modern civilization, particularly in America, is failing to do this. Mollison's approach, building on P.A. Yeomans' keyline concepts, provides a systematic method for capturing, storing, and distributing water across agricultural and forested land using the land's own topography.
+In Pamphlet II of the [[permaculture-design]] Course, [[bill-mollison]] turns from the global environmental crisis to practical landscape design, beginning with humid landscapes — those receiving more than 30 inches of annual rainfall. The central thesis is deceptively simple: the storage of water on the landscape. The critical observation is that modern civilization, particularly in America, is failing to do this. Mollison"s approach, building on P.A. Yeomans' keyline concepts, provides a systematic method for capturing, storing, and distributing water across agricultural and forested land using the land's own topography.
 
 ## The Humid Landscape Profile
 
 In humid landscapes that are not extremely young (volcanic or newly faulted), the terrain develops softly rounded outlines over time. When walking up a valley or along a ridge, the hills display a characteristic rounded "S" shaped profile. This profile is the key to understanding water movement and the basis for all [[keyline-design]].
 
-The transition point where the landscape changes from convex (bulging outward) to concave (curving inward) is a critical location called the **keypoint**. This point marks where the hillside's shape shifts from shedding water (convex) to collecting and slowing it (concave). It is the highest point in the valley profile where water can be economically stored using mechanical tools. Above the keypoint, slopes are too steep for conventional earthworks; below it, the land flattens sufficiently to allow dam construction and water distribution.
+The transition point where the landscape changes from convex (bulging outward) to concave (curving inward) is a critical location called the **keypoint**. This point marks where the hillside"s shape shifts from shedding water (convex) to collecting and slowing it (concave). It is the highest point in the valley profile where water can be economically stored using mechanical tools. Above the keypoint, slopes are too steep for conventional earthworks; below it, the land flattens sufficiently to allow dam construction and water distribution.
 
 ## Reading Water Flow on the Landscape
 
@@ -50,7 +50,7 @@ This zoning principle — forests on steep upper slopes, intensive production on
 
 ## The Broader Keyline Philosophy
 
-Mollison's treatment of keyline builds on P.A. Yeomans' original keyline plan (detailed in *Water for Every Farm*) but adapts it within the broader [[permaculture-design-framework]]. Several key principles emerge:
+Mollison"s treatment of keyline builds on P.A. Yeomans' original keyline plan (detailed in *Water for Every Farm*) but adapts it within the broader [[permaculture-design-framework]]. Several key principles emerge:
 
 1. **Work with gravity, not against it**: All water movement in a keyline system is gravity-fed. The designer's role is to position storages and channels so that water moves where it is needed without mechanical energy input.
 

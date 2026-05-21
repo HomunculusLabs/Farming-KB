@@ -3,7 +3,7 @@ title: Comparison Shiitake Vs Reishi
 tags: [comparison, shiitake, reishi, medicinal-mushrooms, mycology]
 date: 2026-05-11
 updated: 2026-05-11
-sources: ['cancer-treatments-medicinal-mushrooms.md']
+sources: ["cancer-treatments-medicinal-mushrooms.md']
 ---
 
 ## Shiitake vs Reishi

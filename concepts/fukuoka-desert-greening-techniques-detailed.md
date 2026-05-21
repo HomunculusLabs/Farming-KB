@@ -10,7 +10,7 @@ sources:
 
 ## Fukuoka Desert Greening Techniques Detailed
 
-Fukuoka's desert greening methods center on his core [[coleman-first-rule-nature-makes-sense]] some adjustments. The third year, one can plan.
+Fukuoka"s desert greening methods center on his core [[coleman-first-rule-nature-makes-sense]] some adjustments. The third year, one can plan.
 
 ## Clay Pellet Method
 

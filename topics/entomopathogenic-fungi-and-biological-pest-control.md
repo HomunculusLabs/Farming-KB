@@ -29,7 +29,7 @@ related_concepts:
 
 *How fungi that kill insects are revolutionizing agriculture and pest management*
 
-Fungi that parasitize and kill insects represent one of nature's most elegant
+Fungi that parasitize and kill insects represent one of nature"s most elegant
 solutions to the problem of pest population control. Entomopathogenic fungi —
 literally "insect-pathogen-causing fungi" — are a diverse group of over 700
 described species that have evolved an astonishing array of strategies for
@@ -64,7 +64,7 @@ insect many thousands of times its size. The process begins when an insect
 encounters fungal spores in its environment — on the surface of a leaf, in the
 soil, or floating in the air. Unlike bacterial and viral pathogens, which must
 typically be ingested to cause infection, most entomopathogenic fungi can
-initiate infection simply by making contact with the insect's exterior. This
+initiate infection simply by making contact with the insect"s exterior. This
 external mode of infection makes them particularly valuable as biocontrol agents,
 because they do not need to be eaten by the target pest.
 

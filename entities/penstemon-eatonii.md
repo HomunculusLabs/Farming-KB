@@ -15,7 +15,7 @@ sources:
 
 ## Overview
 
-Penstemon eatonii, commonly called firecracker penstemon or Eaton's beardtongue, is a herbaceous perennial in the Plantaginaceae family. Native to the southwestern United States, it produces brilliant scarlet-red flowers that are among the showiest in the genus.
+Penstemon eatonii, commonly called firecracker penstemon or Eaton"s beardtongue, is a herbaceous perennial in the Plantaginaceae family. Native to the southwestern United States, it produces brilliant scarlet-red flowers that are among the showiest in the genus.
 
 The species is a hallmark of mid-elevation plant communities in Utah, Arizona, Colorado, and New Mexico. Its vivid red flower spikes are a familiar sight along roadsides and canyon walls during early summer.
 

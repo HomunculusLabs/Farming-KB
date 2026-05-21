@@ -1,5 +1,5 @@
 ---
-title: Wasson's Contradictions and Doubts About the Soma Identity
+title: Wasson"s Contradictions and Doubts About the Soma Identity
 created: 2026-04-28
 tags: [ethnobotany, soma, wasson, mckenna, amanita, stropharia, vedic, psychedelics, scholarship]
 date: 2026-04-28

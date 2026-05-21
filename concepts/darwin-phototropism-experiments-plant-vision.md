@@ -13,7 +13,7 @@ created: 2026-05-11
 
 ## Overview
 
-Charles Darwin's experiments on plant phototropism, published in 1880 in *The [[darwins-phototropism-experiments]] extended this investigation to the question of whether plants could sense the direction of light and mount a coordinated, directional growth response.
+Charles Darwin"s experiments on plant phototropism, published in 1880 in *The [[darwins-phototropism-experiments]] extended this investigation to the question of whether plants could sense the direction of light and mount a coordinated, directional growth response.
 
 The mid-nineteenth century was a period of intense interest in plant physiology, driven partly by the work of [[hofmann-lsd-sandoz-research-program]].
 

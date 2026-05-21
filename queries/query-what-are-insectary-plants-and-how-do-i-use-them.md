@@ -3,7 +3,7 @@ title: "What Are Insectary Plants and How Do I Use Them?"
 tags: [query, insectary-plants, beneficial-insects, pest-control, permaculture]
 date: 2026-05-14
 updated: 2026-05-14
-sources: ['raw/papers/what-a-plant-knows-daniel-chamovitz.md']
+sources: ["raw/papers/what-a-plant-knows-daniel-chamovitz.md']
 ---
 
 ## What Are Insectary Plants and How Do I Use Them?

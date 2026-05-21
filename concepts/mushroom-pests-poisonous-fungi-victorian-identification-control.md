@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-Cuthill's 1870 treatise includes practical guidance on distinguishing cultivated mushrooms from poisonous fungi, as well as detailed descriptions of mushroom pests and their control. These passages reveal both the empirical knowledge and the misconceptions of Victorian-era mycology.
+Cuthill"s 1870 treatise includes practical guidance on distinguishing cultivated mushrooms from poisonous fungi, as well as detailed descriptions of mushroom pests and their control. These passages reveal both the empirical knowledge and the misconceptions of Victorian-era mycology.
 
 ## Poisonous Fungi
 
@@ -16,7 +16,7 @@ Cuthill's 1870 treatise includes practical guidance on distinguishing cultivated
 
 "No one need have the least doubt about mushrooms grown by themselves, and from pure horse manure and pure spawn; of course, no one would think of mixing horse-chestnut leaves nor old decayed wood with their beds."
 
-Cuthill's primary safety assurance is procedural: mushrooms grown under controlled conditions on pure horse manure with verified spawn are safe. The danger comes from wild-picked specimens.
+Cuthill"s primary safety assurance is procedural: mushrooms grown under controlled conditions on pure horse manure with verified spawn are safe. The danger comes from wild-picked specimens.
 
 ### The Town Hawker Problem
 
@@ -46,13 +46,13 @@ Victorian pest control was almost entirely manual. The absence of chemical pesti
 
 "Boiling water cannot be employed to kill them [the purple insect], as it would destroy the crop. This insect is unlike the woodlice, for these run to either side, and then boiling water can be used to destroy them, without doing the least injury to the bed."
 
-Cuthill makes a practical distinction: woodlice (isopods) flee to the edges of the bed when disturbed, allowing targeted treatment with boiling water that doesn't damage the central cropping area. The purple insects, being faster and more dispersed, cannot be controlled this way.
+Cuthill makes a practical distinction: woodlice (isopods) flee to the edges of the bed when disturbed, allowing targeted treatment with boiling water that doesn"t damage the central cropping area. The purple insects, being faster and more dispersed, cannot be controlled this way.
 
 ### The Mushroom Maggot
 
 "The mushroom maggot, which is thought to be of spontaneous growth, similar to cheese mites and the like. They may be produced at once in a temperature of above 70°F."
 
-The concept of "spontaneous generation"—the belief that certain organisms could arise from non-living matter under the right conditions—was still current in 1870, only a decade before Pasteur's experiments definitively disproved it.
+The concept of "spontaneous generation"—the belief that certain organisms could arise from non-living matter under the right conditions—was still current in 1870, only a decade before Pasteur"s experiments definitively disproved it.
 
 ### Relative Destructiveness
 

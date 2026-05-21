@@ -23,7 +23,7 @@ Nicolas Flamel is the pseudonym used by the author of the introduction to *[[mus
 
 - Authored the **introduction** to *Cannabis Alchemy*, signing as "Nicolas Flamel, Berkeley, California 1979."
 - Used the Flamel pseudonym to draw a deliberate **parallel between historical alchemy and cannabis chemistry** — the transformation of raw plant material into concentrated, potent oil mirrors the alchemical goal of transmuting base metals into gold.
-- The introduction frames cannabis extraction as a legitimate chemical craft in its infancy, predicting that "the compounds of the future can only be guessed at, but if the past enterprise and energy of alchemists is any indication, it won't be long before we see for ourselves."
+- The introduction frames cannabis extraction as a legitimate chemical craft in its infancy, predicting that "the compounds of the future can only be guessed at, but if the past enterprise and energy of alchemists is any indication, it won"t be long before we see for ourselves."
 - Noted the changing legal and social landscape: "the criminal stigma and revolutionary symbolism of marijuana use has faded" as it became "a common practice for millions of Americans."
 - Compared the state of [[lemon-cannabis-alchemy-historical-perspective-and-references]]
 - [[magic-mushroom-preparation-and-consumption-methods]]

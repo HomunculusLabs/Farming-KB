@@ -12,27 +12,27 @@ updated: 2026-04-26
 
 ## Psilocybin Harm Reduction
 
-While Powell is generally an advocate for psilocybin's potential, *The [[psychedelic-substances-comparison]] — such as
+While Powell is generally an advocate for psilocybin"s potential, *The [[psychedelic-substances-comparison]] — such as
 their capacity to induce intense psychical terror (the so-called '[[allegro-canaanite-religion-and-the-mushroom]]."
 
 This psychological "shake-up" will often occur in persons "hitherto blind to self-knowledge."
 Powell warns that "further psychedelic experimentation will prove to be of negative value unless
-one has dealt adequately with one's state of self-knowledge." This is perhaps his most
+one has dealt adequately with one"s state of self-knowledge." This is perhaps his most
 important harm reduction principle: the need for psychological preparedness before engaging
 with powerful entheogenic substances.
 
-## The Wrong State of Mind: Koestler's Case
+## The Wrong State of Mind: Koestler"s Case
 
 Powell's most developed harm reduction argument concerns what happens when psilocybin meets an
 unprepared psyche. Using Koestler as his primary example, he argues that "if the potentially
 spiritual effects of the mushroom are likened to a torrent, or stream, then the stream can
-'hit' the wrong human mind, or at least the wrong state of mind, causing the stream to be
+"hit' the wrong human mind, or at least the wrong state of mind, causing the stream to be
 blocked. Where it cannot flow on and blossom, psilocybin's gloriously numinous potential will
 remain unrealised. God's flesh is clearly not everyone's 'meat.'"
 
 The risk factors Powell identifies through this and other examples include:
 
-- Unresolved psychological conflicts and trauma (Koestler's POW memories)
+- Unresolved psychological conflicts and trauma (Koestler"s POW memories)
 - Religious guilt or moral anxiety (Koestler's Catholic guilt)
 - Rigid personality structures resistant [[amanita-muscaria-fly-agaric-history-and-pharmacology]] use to shamans within ritual
   contexts, preventing casual misuse. These taboos evolved as cultural mechanisms to protect
@@ -45,13 +45,13 @@ The risk factors Powell identifies through this and other examples include:
 ## The Danger of Sensation Seeking
 
 Powell repeatedly warns against approaching psilocybin as a recreational drug. Wasson grew
-dismayed at "hoards of 'oddballs,' 'thrill seekers,' and 'riff-raff'" descending upon Mexico
+dismayed at "hoards of "oddballs,' 'thrill seekers,' and 'riff-raff'" descending upon Mexico
 in search of divine mushrooms. Robert Graves predicted that "jaded sensation seekers" would be
-dissatisfied with psilocybin precisely because "it was not a 'drug' as such since it failed to
+dissatisfied with psilocybin precisely because "it was not a "drug' as such since it failed to
 stupefy like alcohol."
 
 The Aztec mushroom was "not some common drug like alcohol to be taken at the drop of a hat in
-order to drown one's sorrows or deaden oneself to reality." This fundamental distinction between
+order to drown one"s sorrows or deaden oneself to reality." This fundamental distinction between
 entheogenic use and recreational drug use is Powell's core harm reduction principle. The
 
 ## Overview

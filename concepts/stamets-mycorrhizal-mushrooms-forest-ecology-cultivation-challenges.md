@@ -15,7 +15,7 @@ Ecologically, mushrooms can be classified into three groups: the saprophytes, th
 
 ### How Mycorrhizae Benefit Plants
 
-The resident mushroom mycelium increases the plant's absorption of nutrients, nitrogenous compounds, and essential elements including phosphorus, copper, and zinc. By growing beyond the immediate root zone, the mycelium channels and concentrates nutrients from afar. Plants with mycorrhizal fungal partners can also resist diseases far better than those without.
+The resident mushroom mycelium increases the plant"s absorption of nutrients, nitrogenous compounds, and essential elements including phosphorus, copper, and zinc. By growing beyond the immediate root zone, the mycelium channels and concentrates nutrients from afar. Plants with mycorrhizal fungal partners can also resist diseases far better than those without.
 
 The mycorrhizal network functions as an extended root system for the host plant, effectively multiplying the surface area available for nutrient and water absorption by orders of magnitude. A single tree in a mycorrhizally-rich forest may be connected to dozens of fungal species simultaneously, each contributing different capabilities to the symbiosis.
 

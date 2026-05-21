@@ -88,7 +88,7 @@ Mollison distinguishes masters: "Yeoman is a master of design; Fukuoka is a mast
 3. **Third**: Those which **consume** energy
 
 ### The Reservation Principle
-"Provision for future energy conservation systems must be left open, so that the whole site is marked out for wind, tide, water, or sun systems. Even if these cannot be implemented in the first few years, the space is 'reserved' under annual crop or short term use."
+"Provision for future energy conservation systems must be left open, so that the whole site is marked out for wind, tide, water, or sun systems. Even if these cannot be implemented in the first few years, the space is "reserved' under annual crop or short term use."
 
 ## The Synergy Principle
 

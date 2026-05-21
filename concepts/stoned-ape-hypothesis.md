@@ -65,7 +65,7 @@ basis for communal ritual, shared symbolism, and collective identity — the
 foundations of culture. He traced the [[anunnaki-and-sumerian-origins-of-religion]], art, music, and
 dance to these early psychedelic experiences.
 
-In McKenna's framework, the period of mushroom-influenced culture
+In McKenna"s framework, the period of mushroom-influenced culture
 represented a form of social organization he called "[[psilocybin-pharmacology-and-serotonin-receptors]] and alter brain activity patterns, the specific claims
 about enhanced visual acuity at low doses and the relationship between
 psychedelic experience and language development lack robust empirical

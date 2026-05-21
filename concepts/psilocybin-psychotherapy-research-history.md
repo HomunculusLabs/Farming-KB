@@ -35,7 +35,7 @@ H. Leuner still considers psilocybin the most effective alkaloid for use as a ph
 
 ### Therapeutic Mechanism
 
-The psycholytic approach is based on the understanding that hallucinogenic substances are non-specific triggers causing a sequence of [[weil-the-natural-mind-altered-states-normalcy]] of consciousness. According to S. Grof's analysis of 5,000 experimental protocols, it is the individual's personality along with the experimental setting that significantly shapes the nature of the experience.
+The psycholytic approach is based on the understanding that hallucinogenic substances are non-specific triggers causing a sequence of [[weil-the-natural-mind-altered-states-normalcy]] of consciousness. According to S. Grof"s analysis of 5,000 experimental protocols, it is the individual's personality along with the experimental setting that significantly shapes the nature of the experience.
 
 Grof identified a developmental sequence of experiences:
 
@@ -70,7 +70,7 @@ In the former Czechoslovakia, M. Hausner conducted extensive work with LSD-assis
 - Several patients who went through a series of LSD sessions did experience flashback episodes between sessions
 - However, therapeutic administration was continued in these cases
 - Flashback episodes were far less spectacular than expected based on dramatic descriptions of the phenomenon
-- Within the context of Hausner's studies, flashbacks turned out to be merely temporary manifestations of issues that had reached the conscious mind
+- Within the context of Hausner"s studies, flashbacks turned out to be merely temporary manifestations of issues that had reached the conscious mind
 - Flashbacks disappeared as therapy progressed with continued administrations and did not recur after conclusion of the therapy program
 
 These observations contradicted the biochemical theory which predicted that repeated administrations would increase storage of the substance inside the body, causing increasingly powerful flashback episodes.

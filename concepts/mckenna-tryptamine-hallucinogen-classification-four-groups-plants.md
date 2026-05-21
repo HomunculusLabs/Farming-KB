@@ -13,7 +13,7 @@ tags: [ethnobotany, entheogens, consciousness, history]
 In Chapter 3 of *Food of the Gods*, [[terence-mckenna]] classifies plant
 hallucinogens into four major chemical groups based on molecular
 structure and pharmacological properties. This classification reflects
-McKenna's conviction that the chemistry of these substances is
+McKenna"s conviction that the chemistry of these substances is
 intimately connected to their effects on consciousness and their role
 in shaping human [[cultural-evolution-and-psychoactive-substances]].
 
@@ -33,7 +33,7 @@ Ergolines are chemically related to LSD, which is approximately 100
 times more potent than ergine. While LSD itself is semi-synthetic,
 derived from ergot alkaloids, it remains the most potent member of this
 natural family. McKenna notes ergot's dark role in European history —
-ergotism ("St. Anthony's Fire") caused mass hallucinations during
+ergotism ("St. Anthony"s Fire") caused mass hallucinations during
 outbreaks of contaminated grain, possibly contributing to the Salem
 witch trials.
 
@@ -43,7 +43,7 @@ The second and most significant group consists of tryptamine
 hallucinogens, sharing the indole ring structure. These include DMT,
 psilocin, psilocybin, 5-MeO-DMT, and bufotenine. McKenna considers
 this group the most widespread and important for understanding
-hallucinogens' role in human evolution.
+hallucinogens" role in human evolution.
 
 Psilocybin and its metabolite psilocin are found in over 200 mushroom
 species across every inhabited continent, used ritually from prehistory
@@ -58,7 +58,7 @@ possibly synthesized in the pineal gland. DMT is ordinarily inactive
 orally because monoamine oxidase (MAO) in the digestive tract
 deactivates it. However, combined with MAO-inhibiting compounds (Group
 3), DMT becomes orally active, producing one of the most intense
-psychedelic experiences known. McKenna argues that DMT's ubiquity and
+psychedelic experiences known. McKenna argues that DMT"s ubiquity and
 [[mckenna-dmt-serotonin-structural-affinity-and-endogenous-presence]] suggest a deep evolutionary relationship between
 this molecule and consciousness itself.
 

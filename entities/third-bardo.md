@@ -8,7 +8,7 @@ type: entity
 
 ## Description
 
-The Third Bardo, as described in Timothy Leary's *The Psychedelic Experience* (a reinterpretation of the Tibetan Book of the Dead), is the final stage of a psychedelic session during which the voyager's consciousness begins to seek re-entry into ordinary ego-based reality. Also called the "Bardo of Seeking Rebirth" or the "Period of Re-Entry," it is characterized by confusion, wandering thoughts, mood swings, vivid hallucinations, and the emergence of powerful emotional forces including desire, fear, anger, and self-pity. The Third Bardo is considered the last opportunity for liberation before consciousness returns to mundane waking reality.
+The Third Bardo, as described in Timothy Leary"s *The Psychedelic Experience* (a reinterpretation of the Tibetan Book of the Dead), is the final stage of a psychedelic session during which the voyager's consciousness begins to seek re-entry into ordinary ego-based reality. Also called the "Bardo of Seeking Rebirth" or the "Period of Re-Entry," it is characterized by confusion, wandering thoughts, mood swings, vivid hallucinations, and the emergence of powerful emotional forces including desire, fear, anger, and self-pity. The Third Bardo is considered the last opportunity for liberation before consciousness returns to mundane waking reality.
 
 ## Classification
 
@@ -21,7 +21,7 @@ The Third Bardo, as described in Timothy Leary's *The Psychedelic Experience* (a
 
 ### Position in the Bardo Sequence
 
-In Leary's framework, the psychedelic experience progresses through three bardos:
+In Leary"s framework, the psychedelic experience progresses through three bardos:
 
 1. **First Bardo:** The period of ego-loss and Clear Light, experienced at peak intensity
 2. **Second Bardo:** Period of hallucinatory visions when ego-loss is not maintained, featuring peaceful and wrathful deities/archetypes
@@ -36,7 +36,7 @@ The Third Bardo is marked by several distinctive phenomena described in the sour
 - **Physical sensations:** Feelings of being squeezed between rocks, trapped in a cage, or oppressed
 - **Gray, murky light:** A dull, gray luminescence suffusing all objects
 - **Mood swings:** Sharp emotional oscillations "like the stretching and relaxing of a catapult," determined by karma (mental set)
-- **Judgment visions:** Experiences of guilt, judgment, and confrontation with one's actions
+- **Judgment visions:** Experiences of guilt, judgment, and confrontation with one"s actions
 - **Sexual visions:** Hallucinations of mating couples and orgiastic scenes representing the pull of biological drives
 - **Future self-images:** Different versions of one's future personality appear, with the most likely one seen most clearly
 

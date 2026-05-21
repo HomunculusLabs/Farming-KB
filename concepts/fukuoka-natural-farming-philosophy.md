@@ -19,7 +19,7 @@ type: concept
 
 5. **No pruning.** Fruit trees allowed to grow in their natural form are healthier and
    more productive than those subjected to heavy pruning, which Fukuoka viewed as a
-   source of stress that weakens the tree's natural defenses.
+   source of stress that weakens the tree"s natural defenses.
 
 ## The Concept of Mu (Nothingness)
 

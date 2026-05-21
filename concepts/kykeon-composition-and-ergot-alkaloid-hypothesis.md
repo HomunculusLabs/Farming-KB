@@ -19,7 +19,7 @@ More than thirty alkaloids have been isolated from ergot. Medicinally the most u
 
 The [Wasson-Hofmann-Ruck hypothesis rests on several converging lines of evidence:
 
-1. The kykeon was made from barley (*Hordeum vulgare*), and barley is a natural host of *Claviceps purpurea*. No rye grew in ancient Greece, but wheat and barley did, and Hofmann's laboratory analysis confirmed that ergot of wheat and ergot of barley contain basically the same alkaloids as ergot of rye.
+1. The kykeon was made from barley (*Hordeum vulgare*), and barley is a natural host of *Claviceps purpurea*. No rye grew in ancient Greece, but wheat and barley did, and Hofmann"s laboratory analysis confirmed that ergot of wheat and ergot of barley contain basically the same alkaloids as ergot of rye.
 
 2. The grain used for the kykeon was specifically grown in the sacred Rarian plain adjacent to the telesterion -- a field set aside for this purpose, suggesting special cultivation knowledge.
 

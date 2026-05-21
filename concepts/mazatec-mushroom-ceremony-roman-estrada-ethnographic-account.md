@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-Henry Munn's ethnographic documentation provides one of the most detailed first-hand accounts of a Mazatec mushroom ceremony in the Sierra Mazateca of Oaxaca, Mexico. The shaman [[roman-estrada]], a storekeeper in the town of [[huautla-de-jimenez]], conducted a nocturnal healing ceremony involving his family. This concept page describes the physical setting, the ritual preparation, the shaman's discourse, and the ceremonial context in which the Mazatec mushroom experience unfolds.
+Henry Munn"s ethnographic documentation provides one of the most detailed first-hand accounts of a Mazatec mushroom ceremony in the Sierra Mazateca of Oaxaca, Mexico. The shaman [[roman-estrada]], a storekeeper in the town of [[huautla-de-jimenez]], conducted a nocturnal healing ceremony involving his family. This concept page describes the physical setting, the ritual preparation, the shaman's discourse, and the ceremonial context in which the Mazatec mushroom experience unfolds.
 
 ## The Shaman: Roman Estrada
 
@@ -26,7 +26,7 @@ He hardly speaks Spanish and is fluent only in his native Mazatec language. "How
 
 ### The Room
 
-The ceremony took place in a room in Estrada's house with bare concrete walls and a high roof of corrugated iron. The window was closed and the door shut, sealing the room off from the outside world. Nobody would be permitted to leave until the effect of the mushrooms had passed away, as a precaution against the peril of derangement.
+The ceremony took place in a room in Estrada"s house with bare concrete walls and a high roof of corrugated iron. The window was closed and the door shut, sealing the room off from the outside world. Nobody would be permitted to leave until the effect of the mushrooms had passed away, as a precaution against the peril of derangement.
 
 ### The Participants
 
@@ -44,7 +44,7 @@ It was pouring rain, the thunder roaring on the corrugated iron roof. There were
 
 Estrada began to speak, seated in a chair from which he got up to dance about, whirling and scuffling as he spoke in the darkness. His opening invocation was addressed to Christ:
 
-"Christ, Our Lord, illuminate me with the light of day, illuminate my mind. Christ, Our Lord, don't leave me in darkness or blind me, you who know how to give the light of day, you who illuminate the night and give the light."
+"Christ, Our Lord, illuminate me with the light of day, illuminate my mind. Christ, Our Lord, don"t leave me in darkness or blind me, you who know how to give the light of day, you who illuminate the night and give the light."
 
 He then invoked the cosmos, naming the celestial bodies in the Mazatec tradition: "So did the Holy Trinity that made and put together the world of Christ, Our Lord, illuminated the Moon, says; illuminated the Big Star, says; illuminated the Cross Star, says; illuminated the Hook Star, says; illuminated the Sandal, says; illuminated the Horse, says."
 
@@ -63,7 +63,7 @@ The naming of stars with vivid, concrete names—Sandal, Horse, Hook, Cross—re
 
 ## The Discourse as Cosmic Performance
 
-The shaman's discourse is not merely spoken but performed. He whirls and scuffles in the darkness, his body becoming an instrument of expression as much as his voice. The integration of movement, sound, and darkness creates a total sensory environment in which the boundaries between self and world, inside and outside, dissolve.
+The shaman"s discourse is not merely spoken but performed. He whirls and scuffles in the darkness, his body becoming an instrument of expression as much as his voice. The integration of movement, sound, and darkness creates a total sensory environment in which the boundaries between self and world, inside and outside, dissolve.
 
 The storm outside—the thunder, lightning, and rain on the corrugated iron roof—provides an acoustic accompaniment to the ceremony. The shaman's voice rises and falls in counterpoint to the sounds of nature, creating a dialogue between human speech and the elemental forces of the world.
 

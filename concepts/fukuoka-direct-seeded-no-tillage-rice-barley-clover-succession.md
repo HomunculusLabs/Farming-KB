@@ -1,12 +1,12 @@
 ---
-title: "Fukuoka's Direct-Seeded No-Tillage Rice/Barley Succession in Clover Cover"
+title: "Fukuoka"s Direct-Seeded No-Tillage Rice/Barley Succession in Clover Cover"
 tags:
   - concept
 ---
 
 ## Overview
 
-Fukuoka's practical [[four-principles-of-natural-farming]] farming. The system produces
+Fukuoka"s practical [[four-principles-of-natural-farming]] farming. The system produces
 both a summer rice crop and a winter barley or wheat crop on the same quarter-
 acre of land, year after year, without plowing, [[fukuoka-aerial-seeding-clay-pellets-desert-revegetation-technique]] containing seed rice and scatters the pellets over
 the straw before the New Year. The clay pellets protect the rice seeds from
@@ -31,7 +31,7 @@ other natural predators keep insect populations in balance.
 Fukuoka summarized his entire method as the symbiosis of rice and barley or
 wheat in clover. "Were I to say that all my method of farming boils down to
 is the symbiosis of rice and barley or wheat in clover, I would probably be
-reproached: 'If that's all there is to growing rice, then farmers wouldn't be
+reproached: "If that's all there is to growing rice, then farmers wouldn't be
 out there working so hard in their fields.' Yet, that is all there is to it."
 
 The system works because each component plays multiple roles:
@@ -46,10 +46,10 @@ The system works because each component plays multiple roles:
 
 ## Eliminating Unnecessary Labor
 
-The essence of Fukuoka's method is elimination. Scientists are always saying,
-"Let's try this, let's try that." Agriculture becomes swept up in all of this
+The essence of Fukuoka"s method is elimination. Scientists are always saying,
+"Let"s try this, let's try that." Agriculture becomes swept up in all of this
 fiddling around; new methods requiring additional expenditures and effort by
-farmers are constantly introduced. Fukuoka took the opposite tack: "I don't
+farmers are constantly introduced. Fukuoka took the opposite tack: "I don"t
 need to do this, I don't need to do that."
 
 After thirty years of this systematic elimination, he had reduced his labor

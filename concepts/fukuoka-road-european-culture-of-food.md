@@ -23,7 +23,7 @@ stew made of vegetables and a bit of grain floating in milk
 and wheat flour. To him, it looked very unappetizing. After
 a meal of this, he did not feel as if he had really eaten.
 
-People eat or don't eat breakfast as they feel like, and the
+People eat or don"t eat breakfast as they feel like, and the
 woman of the house does not rush about busily in the kitchen
 before lunch preparing the meal as Japanese wives do. People
 serve themselves one or two dishes, sprinkle some condiments
@@ -34,7 +34,7 @@ bread. The whole process struck him as dreary.
 ## Why Everything Is Self-Service
 
 The reason for self-service, Fukuoka discovered, is that
-everywhere in Europe it is "ladies first." The wife doesn't
+everywhere in Europe it is "ladies first." The wife doesn"t
 cook, so everyone prepares his food to suit his own taste.
 Women take no interest in cooking on account of the poor
 variety of materials available. He wondered whether it is

@@ -10,7 +10,7 @@ tags: [ayahuasca, ethics]
 
 ## [[ayahuasca-tourism-western-seekers-and-integration]] in the 1990s, commercial demand created a tourism industry that inevitably transforms the character of the ceremonies it packages and sells.
 
-The ethical landscape is complex, involving tensions between genuine cross-cultural exchange and exploitative commercialization, between seekers' spiritual aspirations and practitioners' economic realities.
+The ethical landscape is complex, involving tensions between genuine cross-cultural exchange and exploitative commercialization, between seekers" spiritual aspirations and practitioners' economic realities.
 
 ## The Authenticity Problem
 
@@ -30,7 +30,7 @@ The ceremonial depth, communal intention, and cosmological specificity that char
 
 Even in ordinary [[weil-the-natural-mind-altered-states-normalcy]] of consciousness, making genuine spiritual transmission extremely difficult in a commercial setting.
 
-The shaman's primary concern becomes risk management -- "it is only prudent for the shaman to take reasonable precautions to prevent problems with foreigners" -- rather than deep engagement with each participant.
+The shaman"s primary concern becomes risk management -- "it is only prudent for the shaman to take reasonable precautions to prevent problems with foreigners" -- rather than deep engagement with each participant.
 
 Tourists cannot fully understand the icaros being sung, the cosmological references being invoked, or the diagnostic and healing frameworks being applied.
 
@@ -56,7 +56,7 @@ The article documents a consistent pattern of exploitation by some practitioners
 
 - An elderly shaman ("B") in Yarina was described as "a frequent liar, a shoplifter" who "soon asks for money or gifts at every opportunity." This practitioner hosted the author for a week, providing ample opportunity to observe his character.
 
-- A shaman's partner in the same community "always hustled me for spare change," indicating that exploitative behavior extended beyond individual practitioners to their associates.
+- A shaman"s partner in the same community "always hustled me for spare change," indicating that exploitative behavior extended beyond individual practitioners to their associates.
 
 - Another practitioner ("A") swindled the author on the price of a tobacco pipe, leading to declined invitations for rituals -- a decision that protected the author but also meant missing potentially valuable ceremonial experiences.
 

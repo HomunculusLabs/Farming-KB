@@ -52,13 +52,13 @@ with the patient to guide and protect the experience.
 ## Maria Sabina
 
 Maria Sabina (c. 1894-1985) was the Mazatec curandera who introduced the use
-of [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]] to the outside world. Wasson's 1957 Life magazine
+of [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]] to the outside world. Wasson"s 1957 Life magazine
 article, while making the Mazatec mushroom tradition internationally famous,
 also disrupted the traditional practices by attracting thousands of
 counterculture seekers to Huautla de Jimenez in the 1960s and 1970s.
 
 Maria Sabina later expressed regret about the publicity: "From the moment the
-foreigners arrived, the 'holy children' lost their purity. They lost their
+foreigners arrived, the "holy children' lost their purity. They lost their
 force; they ruined them. Henceforth they will no longer work. There is no
 remedy for it."
 

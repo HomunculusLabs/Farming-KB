@@ -16,7 +16,7 @@ The La Chorrera experiment was a controversial and visionary
 psychedelic research project conducted in 1971 by brothers Terence
 and [[mckenna-food-gods-amazonian-shamanism-ayahuasca]] convinced him of the salvific importance of
 hallucinogenic plants and the shamanic institutions their use
-implies. The brothers' Amazonian experiences formed the
+implies. The brothers" Amazonian experiences formed the
 foundation for what would become a lifetime of advocacy for the
 responsible use of psychedelic substances.
 

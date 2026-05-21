@@ -109,7 +109,7 @@ Hashish is prepared by mixing extracted cannabis oil with finely-powdered mariju
 
 ### Optional Defatting
 
-The taste of hashish is often improved by removing the oils that contribute marijuana's natural taste and smell from the powder:
+The taste of hashish is often improved by removing the oils that contribute marijuana"s natural taste and smell from the powder:
 
 1. Extract the powder with alcohol using the stew-pot apparatus
 2. Remove all solvent from the dust (fumes present a fire hazard if not fully removed)

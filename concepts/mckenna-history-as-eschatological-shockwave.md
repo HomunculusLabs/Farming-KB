@@ -16,7 +16,7 @@ time. This framework, which he developed more fully in later works including
 of human consciousness and culture.
 
 In this reading, history is not just the story of human achievement but the
-story of humanity's reaction to the information being transmitted by the
+story of humanity"s reaction to the information being transmitted by the
 symbiote. The acceleration of novelty is driven in part by this ongoing
 information exchange, which periodically disrupts existing [[mckenna-catalyzing-consciousness-and-language]]."
 

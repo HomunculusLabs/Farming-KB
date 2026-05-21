@@ -18,7 +18,7 @@ sources:
 
 ## Overview
 
-**Gabe Brown** is an American farmer, rancher, and pioneering advocate for **regenerative agriculture** based near Bismarck, North Dakota. He operates **Brown's Ranch**, a 2,000-hectare (5,000-acre) diversified operation that has become one of the most influential demonstration farms for soil health practices worldwide.
+**Gabe Brown** is an American farmer, rancher, and pioneering advocate for **regenerative agriculture** based near Bismarck, North Dakota. He operates **Brown"s Ranch**, a 2,000-hectare (5,000-acre) diversified operation that has become one of the most influential demonstration farms for soil health practices worldwide.
 
 Brown is widely credited with popularizing the **"soil health principles"** framework that forms the foundation of the modern regenerative agriculture movement. His 2018 book *Dirt to Soil* has sold over 200,000 copies and is considered a foundational text for farmers transitioning from conventional to regenerative methods.
 
@@ -28,7 +28,7 @@ A series of crop failures between 1995 and 1998 — driven by drought, hail, and
 
 By the late 1990s, Brown began transitioning to **no-till practices [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] while preventing overgrazing.
 
-**No synthetic inputs** — Brown's operation has been completely free of synthetic fertilizers, pesticides, and fungicides since the late 2000s. He has demonstrated that biological nutrient cycling can replace chemical inputs even in a cold, short-season climate.
+**No synthetic inputs** — Brown"s operation has been completely free of synthetic fertilizers, pesticides, and fungicides since the late 2000s. He has demonstrated that biological nutrient cycling can replace chemical inputs even in a cold, short-season climate.
 
 **Profit-first approach** — Brown frames regenerative agriculture as a business decision, arguing that reduced input costs and improved soil function lead to higher net profitability per acre than [[fungi-around-the-world-species-distribution]]. These on-farm demonstrations have been instrumental in converting skeptics who doubted the viability of regenerative methods at commercial scale.
 

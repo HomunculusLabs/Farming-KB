@@ -9,7 +9,7 @@ tags: [gardening, seeds, seed-companies, variety-selection, heirloom, hybrid, lo
 
 ## Overview
 
-The choice of seed varieties is a foundational decision in low-input [[coleman-winter-greens-nutritional-quality-cold-sweetening]], yield, and the gardener's ability to save seeds for future seasons. Not all [[cervantes-organic-amendments-chart]], and [[biodiversity-fungal-genetic-diversity]] within a variety, providing resilience against variable growing conditions.
+The choice of seed varieties is a foundational decision in low-input [[coleman-winter-greens-nutritional-quality-cold-sweetening]], yield, and the gardener"s ability to save seeds for future seasons. Not all [[cervantes-organic-amendments-chart]], and [[biodiversity-fungal-genetic-diversity]] within a variety, providing resilience against variable growing conditions.
 - Many heirlooms have been selected over generations for performance in home garden conditions.
 - The term "heirloom" generally refers to varieties that have been in circulation for at least 50 years and are often associated with particular regions or cultural traditions.
 

@@ -11,7 +11,6 @@ date: 2026-05-09
 updated: 2026-05-09
 sources:
   - Crow, G.E. & Hellquist, C.B. (2000). "permaculture-plants-aquatic-and-wetland-species Plants of Northeastern nematode-management." FAO and Blackwell Science.---
----
 
 ## Overview
 

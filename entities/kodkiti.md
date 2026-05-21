@@ -8,7 +8,7 @@ type: entity
 
 ## Description
 
-Kodkiti is a hawk spirit in [[campa]] (Asháninka) cosmology that appears during the [[kamdrampi]] (ayahuasca) ceremony in human form. Kodkiti serves as a spiritual intermediary who brings tobacco from "River's Beginning" and is the subject of a specific ceremonial song in the Campa ayahuasca tradition.
+Kodkiti is a hawk spirit in [[campa]] (Asháninka) cosmology that appears during the [[kamdrampi]] (ayahuasca) ceremony in human form. Kodkiti serves as a spiritual intermediary who brings tobacco from "River"s Beginning" and is the subject of a specific ceremonial song in the Campa ayahuasca tradition.
 
 ## Classification
 
@@ -27,7 +27,7 @@ Kodkiti appears as one of the "good spirits" who visit the Campa during the kamd
 
 ## The Song of Kodkiti
 
-Kodkiti is invoked in a specific ceremonial song that marks the hawk spirit's appearance:
+Kodkiti is invoked in a specific ceremonial song that marks the hawk spirit"s appearance:
 
 > Tobacco, tobacco, pure tobacco
 > It comes from River's Beginning
@@ -48,7 +48,7 @@ The song reveals key aspects of Campa spiritual understanding:
 
 ## Significance in Campa Ceremony
 
-Kodkiti's role in the ceremony illustrates several important aspects of Campa religious practice:
+Kodkiti"s role in the ceremony illustrates several important aspects of Campa religious practice:
 
 1. **Animal spirits**: The appearance of a hawk spirit reflects the importance of raptor imagery in Amazonian shamanism
 2. **Tobacco connection**: The association between hawk spirits and tobacco is widespread in South American shamanism

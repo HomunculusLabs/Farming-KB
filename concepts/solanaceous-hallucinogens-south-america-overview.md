@@ -23,19 +23,19 @@ These compounds are active at muscarinic acetylcholine receptors throughout the 
 
 ## Latua pubiflora — Arbol de los Brujos
 
-*Latua pubiflora*, called arbol de los brujos ("sorcerers' tree") or latué by the Mapuche Indians of Valdivia, Chile, is used by medicine men to cause delirium, hallucinations, and occasionally permanent insanity. There is no cult or elaborate ritual surrounding its use, but the tree is widely feared and respected. Dosages are a closely guarded secret, and it is widely believed that a madness of any desired duration may be induced by a medicine man who knows how to measure the doses properly.
+*Latua pubiflora*, called arbol de los brujos ("sorcerers" tree") or latué by the Mapuche Indians of Valdivia, Chile, is used by medicine men to cause delirium, hallucinations, and occasionally permanent insanity. There is no cult or elaborate ritual surrounding its use, but the tree is widely feared and respected. Dosages are a closely guarded secret, and it is widely believed that a madness of any desired duration may be induced by a medicine man who knows how to measure the doses properly.
 
 The fresh fruits are the plant part employed. Hyoscyamine and scopolamine have been isolated from the fruit and are responsible for its potent effects. *Latua* is a monotypic genus—the only species known—confined to coastal mountains of central Chile.
 
 ## Iochroma fuchsioides — Borrachera
 
-Borrachera (*Iochroma fuchsioides*) is one of about two dozen species of *Iochroma*, all native to the highlands of South America. Suspicions and unconfirmed reports indicate that several species of *Iochroma* are taken in hallucinatory drinks, either alone or mixed with other narcotic plants, by Indians in the Sibundoy Valley of southern Colombia. Although no [[chemical-studies-neurotropic-fungi-reliability-and-challenges]] have been made of *Iochroma*, its membership in the Solanaceae suggests the presence of tropane or related alkaloids consistent with the family's characteristic chemistry.
+Borrachera (*Iochroma fuchsioides*) is one of about two dozen species of *Iochroma*, all native to the highlands of South America. Suspicions and unconfirmed reports indicate that several species of *Iochroma* are taken in hallucinatory drinks, either alone or mixed with other narcotic plants, by Indians in the Sibundoy Valley of southern Colombia. Although no [[chemical-studies-neurotropic-fungi-reliability-and-challenges]] have been made of *Iochroma*, its membership in the Solanaceae suggests the presence of tropane or related alkaloids consistent with the family"s characteristic chemistry.
 
 The Sibundoy Valley has been characterized as "the most narcotic conscious area of the New World," reflecting the extraordinary density of psychoactive plant use among its indigenous inhabitants.
 
 ## Brunfelsia — Chiric-Caspi and Chiric Sanango
 
-Several species of *Brunfelsia* shrubs appear to have been important hallucinogens among South American Indian tribes. The native name borrachero ("intoxicator") indicates recognition of the shrub's narcotic properties, and the special care taken in its cultivation suggests a former religious or magical role in tribal life.
+Several species of *Brunfelsia* shrubs appear to have been important hallucinogens among South American Indian tribes. The native name borrachero ("intoxicator") indicates recognition of the shrub"s narcotic properties, and the special care taken in its cultivation suggests a former religious or magical role in tribal life.
 
 Documented uses include:
 - The **Kachinaua** of Brazil use *Brunfelsia* as the source of a hallucinogenic drink.

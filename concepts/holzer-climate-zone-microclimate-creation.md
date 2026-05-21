@@ -23,7 +23,7 @@ Microclimates are special climatic conditions created by breaking up the landsca
 - **Stone walls and islands**: In the lee, there is shelter from wind; stones balance temperature and collect wind-deposited fine material for humus build-up
 - **Water bodies**: Reflect sunlight, release stored heat, increase moisture through evaporation
 - **Pioneer forests**: Fast-growing trees protect land from erosion and create conditions for more demanding species
-- **Ponds in front of niches**: Sun's rays reflect off water into sheltered areas
+- **Ponds in front of niches**: Sun"s rays reflect off water into sheltered areas
 - **Hedges and windbreaks**: Especially important in exposed locations
 - **Tree trunks as protection**: Even bitter oranges (Poncirus trifoliata) can flourish when protected by a larch trunk
 
@@ -34,7 +34,7 @@ Microclimates are special climatic conditions created by breaking up the landsca
 Holzer observed large stretches of fallow land, completely unprotected against erosion and gradually drying out. His approach:
 
 1. Plant hardy, fast-growing pioneer trees to create a "pioneer forest" protecting against erosion and preventing soil from drying out
-2. Build [[cannabis-harvest-timing-visual-cues]] extends over months: same cherry variety ('Kassin's Fruhe') ripens in June at 1,000m but September at 1,500m
+2. Build [[cannabis-harvest-timing-visual-cues]] extends over months: same cherry variety ("Kassin's Fruhe') ripens in June at 1,000m but September at 1,500m
 - Blankets of leaves from nearby trees protect sensitive plants through winter
 - Cacti (Opuntia ficus-indica) grow outside through winter in sheltered areas
 

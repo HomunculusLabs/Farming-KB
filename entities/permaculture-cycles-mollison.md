@@ -9,7 +9,7 @@ tags: [permaculture-principle, nutrient-cycling, systems-theory, ecological-desi
 
 ## Description
 
-Cycles are a foundational concept in [[permaculture]]: A Designers' Manual*, presented in section 2.6 as "A Niche in Time." Mollison defines cycles as recurring events or phenomena that represent "diversion routes away from entropic ends" — the mechanism by which life itself maintains and builds complexity. Cycles are presented as the temporal complement to spatial niches.
+Cycles are a foundational concept in [[permaculture]]: A Designers" Manual*, presented in section 2.6 as "A Niche in Time." Mollison defines cycles as recurring events or phenomena that represent "diversion routes away from entropic ends" — the mechanism by which life itself maintains and builds complexity. Cycles are presented as the temporal complement to spatial niches.
 
 ## Classification
 
@@ -19,7 +19,7 @@ Cycles are a foundational concept in [[permaculture]]: A Designers' Manual*, pre
 
 ## Key Facts
 
-- Mollison's Principle: "Every cyclic event increases the opportunity for yield. To increase cycling is to increase yield."
+- Mollison"s Principle: "Every cyclic event increases the opportunity for yield. To increase cycling is to increase yield."
 - Cycles are defined as "interruptions or eddies in the straight-line progression towards entropy" — it is "the special provenance of life to cycle materials."
 - In tropical forests, "almost all material nutrients are in cycle in life forms" — an extremely efficient system.
 - "If NICHES are opportunities in space, CYCLES are opportunities in time (a time-slot) and both together give harbour to many events and species."

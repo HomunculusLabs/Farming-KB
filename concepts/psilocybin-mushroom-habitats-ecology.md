@@ -10,7 +10,7 @@ sources:
 ---
 ## Psilocybin Mushroom Habitats and Ecology
 
-Source: [[psilocybe-semilanceata]] (liberty cap) is the classic species, found in temperate grasslands worldwide. Other grassland species include P. strictipes, P. mexicana, and P. tampanensis. Cattle, horse, and sheep pastures are primary collection sites. The dung provides nutrient media analogous to cultivators' petri dishes.
+Source: [[psilocybe-semilanceata]] (liberty cap) is the classic species, found in temperate grasslands worldwide. Other grassland species include P. strictipes, P. mexicana, and P. tampanensis. Cattle, horse, and sheep pastures are primary collection sites. The dung provides nutrient media analogous to cultivators" petri dishes.
 
 ### 2. Woodlands
 The most expansive habitat category, broadly delimited by altitude, temperature, and rainfall.

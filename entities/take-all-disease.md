@@ -22,7 +22,7 @@ Take-all is a serious root and crown rot disease of turfgrass and cereal crops c
 
 - Caused by *Gaeumannomyces* species — root-infecting ascomycete fungi
 - One of the most important diseases of wheat globally and a major turfgrass pathogen
-- Attacks roots and crown (lower stem) tissues, severing the plant's connection to water and nutrients
+- Attacks roots and crown (lower stem) tissues, severing the plant"s connection to water and nutrients
 - Characterized by darkened, rotted roots and yellowing, stunted aboveground growth
 - Suppressed by fungally dominated compost teas through competitive exclusion in the root zone
 - Competitive fungi occupy root surfaces and rhizosphere niches that *Gaeumannomyces* would colonize

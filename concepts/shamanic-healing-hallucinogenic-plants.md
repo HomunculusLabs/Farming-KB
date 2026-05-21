@@ -30,7 +30,7 @@ In the shamanic worldview, illness is understood not merely as a biological malf
 
 The shaman, functioning as both diagnostician and therapist, enters an altered state of consciousness to perceive these hidden causes directly. Hallucinogenic plants serve as the primary technology for achieving these diagnostic states.
 
-The shaman's journey is typically described as travel to other realms — upper, lower, and middle worlds — where information about the patient's condition can be obtained through direct encounter with spirits, ancestors, and power animals.
+The shaman"s journey is typically described as travel to other realms — upper, lower, and middle worlds — where information about the patient's condition can be obtained through direct encounter with spirits, ancestors, and power animals.
 
 Treatment may involve extraction of harmful objects or intrusions, soul retrieval, negotiation with offending spirits, or the application of plant remedies identified during the visionary journey. The shamanic healer may also prescribe dietary restrictions, herbal preparations, or behavioral changes identified during the visionary diagnostic process.
 
@@ -70,7 +70,7 @@ This ontological difference has practical implications for treatment. In the sha
 
 The term "entheogen," proposed by R. Gordon Wasson and Jonathan Ott, has the same root as "enthusiasm" and means "releasing or expressing the divine within." This term better captures the shamanic understanding of these plants as vehicles for accessing sacred realms.
 
-Despite these profound ontological differences, both traditions recognize that set and setting profoundly shape therapeutic outcomes. Both value the importance of the guide's prior personal experience with the substances involved.
+Despite these profound ontological differences, both traditions recognize that set and setting profoundly shape therapeutic outcomes. Both value the importance of the guide"s prior personal experience with the substances involved.
 
 The divinatory function extends beyond medical diagnosis to include locating lost objects, predicting weather and harvest outcomes, identifying perpetrators of sorcery, and making community-level decisions. The hallucinogenic experience is understood as a genuine expansion of perceptual capacity into normally invisible dimensions.
 
@@ -96,13 +96,13 @@ The recognition that set and setting are paramount in determining therapeutic ou
 
 These cross-cultural parallels have led some anthropologists and psychologists to propose that shamanic practices reflect fundamental aspects of human consciousness rather than arbitrary cultural inventions. The recurring patterns suggest that hallucinogenic plants unlock latent human capacities for visionary experience that are broadly accessible across cultural contexts.
 
-The original meaning of the Latin word alucinare is to "wander in one's mind," and traveling or journeying in inner space are appropriate descriptive metaphors for such experiences, referred to colloquially as "trips." The term "hallucinogen" thus deserves rehabilitation in the context of shamanic practice, where the visions encountered are understood as real rather than illusory.
+The original meaning of the Latin word alucinare is to "wander in one"s mind," and traveling or journeying in inner space are appropriate descriptive metaphors for such experiences, referred to colloquially as "trips." The term "hallucinogen" thus deserves rehabilitation in the context of shamanic practice, where the visions encountered are understood as real rather than illusory.
 
 Ethical considerations around the appropriation and commercialization of indigenous knowledge have become increasingly important as Western interest in plant medicines grows. Questions of intellectual property, cultural sovereignty, and the commodification of sacred practices continue to shape the relationship between traditional shamanic communities and the modern psychedelic renaissance.
 
 Researchers including Michael Harner, Joan Halifax, Peter Furst, and Terence and Dennis McKenna have studied shamanic teachings and practices around the globe, documenting both the therapeutic applications and the cosmological frameworks that give them meaning.
 
-The capacity of psychedelics to tap into hidden potentials of the human mind was recognized as early as the Sandoz laboratory discoveries, where Albert Hofmann's synthesis of LSD was initially characterized as bringing about "psychic loosening or opening." This concept parallels the shamanic understanding of plant medicines as tools for accessing expanded states of awareness.
+The capacity of psychedelics to tap into hidden potentials of the human mind was recognized as early as the Sandoz laboratory discoveries, where Albert Hofmann"s synthesis of LSD was initially characterized as bringing about "psychic loosening or opening." This concept parallels the shamanic understanding of plant medicines as tools for accessing expanded states of awareness.
 
 ## See Also
 

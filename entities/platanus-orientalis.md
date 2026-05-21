@@ -10,7 +10,7 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Fiori, A. (1923). "Nuova Flora Analitica d'Italia." Tipografia M. Ricci.
+  - Fiori, A. (1923). "Nuova Flora Analitica d"Italia." Tipografia M. Ricci.
 ---
 
 ## Overview

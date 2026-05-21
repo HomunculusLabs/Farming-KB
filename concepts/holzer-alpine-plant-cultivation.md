@@ -9,7 +9,7 @@ sources: ["papers/sepp-holzer-practical-guide.md"]
 
 ## Holzer Alpine Plant Cultivation
 
-Over years of experience cultivating plants from Alpine regions, Holzer's most important lesson: all events in nature should be observed closely. This is a wonderful activity because you never cease to learn and profit from it.
+Over years of experience cultivating plants from Alpine regions, Holzer"s most important lesson: all events in nature should be observed closely. This is a wonderful activity because you never cease to learn and profit from it.
 
 ## Yellow Gentian (Gentiana lutea)
 
@@ -34,7 +34,7 @@ Over years of experience cultivating plants from Alpine regions, Holzer's most i
 
 ## General Lesson
 
-"You simply tried too hard with your plants. Nature cannot be 'improved' upon." The same principle applies to many aspects of ecological growing: observe nature, understand conditions, and work with them rather than imposing artificial methods.
+"You simply tried too hard with your plants. Nature cannot be "improved' upon." The same principle applies to many aspects of ecological growing: observe nature, understand conditions, and work with them rather than imposing artificial methods.
 
 See also: holzer-fruit-tree-planting-method, natural-farm-permaculture-ethics-principles
 - permaculture-ground-cover-plants

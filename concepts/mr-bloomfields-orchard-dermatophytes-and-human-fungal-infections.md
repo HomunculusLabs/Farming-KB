@@ -3,7 +3,7 @@ title: "Mr Bloomfields Orchard Dermatophytes And Human Fungal Infections"
 source: >-
   mr-bloomfields-orchard---the-mysterious-world-of-mushrooms-molds-and-mycologists.md
 source_author: Nicholas P. Money
-source_title: Mr. Bloomfield's Orchard
+source_title: Mr. Bloomfield"s Orchard
 published: 2002
 tags:
   - mycology
@@ -32,7 +32,7 @@ human tissue as a nutrient source.
 ## Tinea Capitis — Scalp Ringworm
 
 In tinea capitis, the fungus invades the hair shaft itself. Once inside, it
-secretes enzymes that weaken the hair's structural integrity, then reemerges on
+secretes enzymes that weaken the hair"s structural integrity, then reemerges on
 the outside of the shaft and showers the surrounding scalp with spores. These
 spores are readily transmitted — anyone's hair is a suitable target, making
 this infection highly contagious. The life cycle within a single strand of hair

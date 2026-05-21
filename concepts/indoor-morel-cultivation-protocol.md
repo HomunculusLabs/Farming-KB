@@ -38,7 +38,7 @@ Use **opaque containers** because sclerotia are light-sensitive and form more re
 
 Almost all published nutritive layer formulas describe a seed or grain mixture:
 
-- **Base**: Ryegrass seed, millet, wheat bran, or similar small grains mixed into sawdust (preferably from the same host tree species as the morel strain's origin)
+- **Base**: Ryegrass seed, millet, wheat bran, or similar small grains mixed into sawdust (preferably from the same host tree species as the morel strain"s origin)
 - **Supplements**: Small percentages of sugars and protein (soy meal is preferred for its particle size and density)
 - **pH**: Neutral (7.0) to slightly alkaline (8.1), matching the native soil pH as closely as possible. Adjust with gypsum or agricultural lime
 - **Moisture content**: 45–50% (squeeze test: a handful produces only a few drops, not a stream)

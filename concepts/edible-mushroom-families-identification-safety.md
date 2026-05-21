@@ -16,7 +16,7 @@ Palmer emphasized that a gentleman once sent him specimens from three independen
 
 Palmer identified three reasons mushrooms may be unfit for food:
 
-1. **Tasteless alkaloids**: The most dangerous category. These compounds, such as [[amanitine]] from *[[amanita]]* species, produce no immediate taste or symptoms but cause irreversible organ damage. No chemist of Palmer's era could detect the cause, and few medical men would suspect it.
+1. **Tasteless alkaloids**: The most dangerous category. These compounds, such as [[amanitine]] from *[[amanita]]* species, produce no immediate taste or symptoms but cause irreversible organ damage. No chemist of Palmer"s era could detect the cause, and few medical men would suspect it.
 2. **Acrid, bitter, or nauseous principles**: Unpleasant but generally not life-threatening. The non-edible principle, like that in eggplant, can often be removed by salt and water treatment.
 3. **Simple digestive incompatibility**: Some individuals may find particular edible species disagreeable, just as with any food. This category should be avoided by sensitive individuals but does not indicate the species is poisonous.
 
@@ -40,7 +40,7 @@ Palmer noted that the identification of an *Amanita* among consumed mushrooms, c
 
 ## The Puff-ball Family (Lycoperdaceae)
 
-Puff-balls are among the safest [[query-what-are-the-most-common-edible-wild-mushrooms-for-beginners]] novice foragers. Palmer's rule was simple: wherever a puff-ball is cut open and found perfectly white throughout, it may be eaten. There are no poisonous varieties in this family. The key warning signs are:
+Puff-balls are among the safest [[query-what-are-the-most-common-edible-wild-mushrooms-for-beginners]] novice foragers. Palmer"s rule was simple: wherever a puff-ball is cut open and found perfectly white throughout, it may be eaten. There are no poisonous varieties in this family. The key warning signs are:
 
 - Any discoloration (yellow, purple, or dark) inside indicates the specimen is past its prime
 - The interior must be uniformly white and firm
@@ -65,7 +65,7 @@ Palmer made an early and significant contribution by segregating the Russula fam
 - **No juice**: Unlike the related Lactarii, Russulae produce no latex when cut
 - **Equal gills**: The gills are attached to the stem and are of uniform length (not forking or arranged in tiers)
 
-Palmer's insight came from observing forest animals — squirrels holding Russulae as they held nuts, snakes and land tortoises feeding on them. Despite textbooks characterizing the family as "of doubtful use, and frequent danger," Palmer concluded that all pleasant-tasting Russulae were edible. His correspondent Casamajor confirmed this by gathering basketfuls with his children, excluding anything that was not recognizably Russula, then taste-testing each specimen before cooking.
+Palmer"s insight came from observing forest animals — squirrels holding Russulae as they held nuts, snakes and land tortoises feeding on them. Despite textbooks characterizing the family as "of doubtful use, and frequent danger," Palmer concluded that all pleasant-tasting Russulae were edible. His correspondent Casamajor confirmed this by gathering basketfuls with his children, excluding anything that was not recognizably Russula, then taste-testing each specimen before cooking.
 
 ## The Lactarii (Milk Mushrooms)
 
@@ -78,7 +78,7 @@ The Lactarii are closely related to Russulae but are distinguished by the milky 
 
 ## The Clavaria (Coral Fungi)
 
-Coral fungi appear in autumn forests as club-shaped or branching, coral-like groups growing from a common base. They range from a few inches to two feet in height. Palmer's assessment was enthusiastic:
+Coral fungi appear in autumn forests as club-shaped or branching, coral-like groups growing from a common base. They range from a few inches to two feet in height. Palmer"s assessment was enthusiastic:
 
 - "More delicate food than cauliflower"
 - "Nicer in soup or stew than vermicelli"
@@ -96,7 +96,7 @@ The widespread belief that color change indicates poison is one of the most pers
 - Many other Boleti: Assume lighter blue shades — edible
 - One unidentified species: Turns blood red — edible
 
-Meanwhile, the deadly *Amanita* "remains the purest white under all conditions." The most reliable field mark for distinguishing the deadly *Amanita* from its closest edible lookalike is that the edible species' gills turn pink or red upon exposure to fire (cooking heat).
+Meanwhile, the deadly *Amanita* "remains the purest white under all conditions." The most reliable field mark for distinguishing the deadly *Amanita* from its closest edible lookalike is that the edible species" gills turn pink or red upon exposure to fire (cooking heat).
 
 ## Building Discrimination Skills
 

@@ -25,7 +25,7 @@ sources:
 ---
 # Damiana (*[[stable-carbon-isotope-signature-fatty-acids-mycorrhizal-carbon-tracking]], caffeine (trace), and maltol glucoside.
 
-**Note:** As of current research, damiana's pharmacological effects have not been fully attributed to individual isolated compounds; the whole-plant extract is believed to produce synergistic effects exceeding those of any single constituent.
+**Note:** As of current research, damiana"s pharmacological effects have not been fully attributed to individual isolated compounds; the whole-plant extract is believed to produce synergistic effects exceeding those of any single constituent.
 
 ## Pharmacology and Effects
 

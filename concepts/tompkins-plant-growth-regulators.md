@@ -15,7 +15,7 @@ updated: 2026-04-26
 
 The classical understanding held that plant growth was regulated by auxins -- growth hormones discovered in the 1920s. However, Professor E.J. Lund at Texas State University demonstrated that this model was incomplete or incorrect. Over more than ten years of experiments, Lund showed that plant cells produce electric fields, currents, and impulses which serve as nervous systems, and that plant growth is triggered by these electrical systems rather than by auxins.
 
-Lund's revolutionary finding: auxins are "summoned and even transported by the cell-generated electric fields to the place where growth is known to occur." The electric pattern in plant cells changes nearly half an hour before hormone diffusion can be effective and growth detected. This inversion of the conventional model -- electricity leading, hormones following -- remained largely unrecognized.
+Lund"s revolutionary finding: auxins are "summoned and even transported by the cell-generated electric fields to the place where growth is known to occur." The electric pattern in plant cells changes nearly half an hour before hormone diffusion can be effective and growth detected. This inversion of the conventional model -- electricity leading, hormones following -- remained largely unrecognized.
 
 ## The Auxin Discovery
 

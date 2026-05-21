@@ -29,7 +29,7 @@ suspicion, reflected in the uniquely English word "toadstool."
 In the twenty-first century, wild mushroom foraging is experiencing a
 remarkable renaissance across North America and Europe, driven by the
 farm-to-table movement, social media, growing interest in food sovereignty,
-and the pandemic-era search for outdoor activities. Farmers' markets now
+and the pandemic-era search for outdoor activities. Farmers" markets now
 routinely feature wild chanterelles, morels, and porcini alongside cultivated
 varieties. The appeal is understandable: wild mushrooms offer flavors and
 textures that cultivated species rarely match, foraging provides a deep

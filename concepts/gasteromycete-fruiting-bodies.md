@@ -34,10 +34,10 @@ harvested before hatching to preserve their culinary value.
 ### Historical Fascination
 
 Stinkhorns have fascinated observers for millennia. They appear in
-Pliny the Elder's first-century Natural History and in John Gerard's
+Pliny the Elder"s first-century Natural History and in John Gerard's
 1597 herbal, which described them as "Fungus virilis penis arecti
 forma" (mushroom in the form of an erect penis).
-Charles Darwin's daughter Etty was so revolted by stinkhorns that she
+Charles Darwin"s daughter Etty was so revolted by stinkhorns that she
 mounted a private campaign to destroy them with gloves and a pointed
 stick, burning her collections in secret. Her crusade against these
 "nasty things" was carried out with the same determination her father

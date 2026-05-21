@@ -38,7 +38,7 @@ Their approach emphasizes:
 D.T.S. is remarkably adaptable in terms of height, capable of growing anywhere from 2 to 9 feet depending on cultivation conditions. This extreme range makes it suitable for both indoor grows with height restrictions and outdoor gardens where taller plants are welcome. The plant tends toward bushiness rather than the Christmas-tree shape typical of many sativas, requiring adequate spacing between plants.
 
 ### Environmental Adaptability
-One of D.T.S.'s most notable traits is its lack of fussiness. The strain adapts readily to the conditions it finds itself in, making it forgiving for cultivators who may not have optimized their growing environment. It is not particularly demanding of specific nutrient regimens, light schedules, or temperature ranges, though like all cannabis plants it performs best when given adequate light, nutrition, and ventilation.
+One of D.T.S."s most notable traits is its lack of fussiness. The strain adapts readily to the conditions it finds itself in, making it forgiving for cultivators who may not have optimized their growing environment. It is not particularly demanding of specific nutrient regimens, light schedules, or temperature ranges, though like all cannabis plants it performs best when given adequate light, nutrition, and ventilation.
 
 ### Cloning and Propagation
 D.T.S. clones with exceptional ease, producing strong roots quickly from cuttings. This trait makes it popular with commercial growers and those who maintain mother plants for continuous production. Reliable cloning also means that once a desirable phenotype is identified, it can be preserved indefinitely.

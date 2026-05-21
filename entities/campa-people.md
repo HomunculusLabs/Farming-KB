@@ -46,7 +46,7 @@ In one part of Campa territory, a local variation emphasizes the worship element
 The Campa cosmology features several spirit types:
 
 - **Good spirits**: Visit the ceremony in human form, festively attired, singing and dancing
-- **Kodkiti**: A hawk spirit who brings tobacco from "River's Beginning"
+- **Kodkiti**: A hawk spirit who brings tobacco from "River"s Beginning"
 - **Hummingbird spirits**: Appear as "all our brothers" in groups without blemish
 - The Campa explicitly do not believe in spirit possession — the shaman relays spirit songs but is never possessed
 - Soul-flight is an optional [[palmer-mushroom-cooking-and-personal-experience]], not central to the ceremony
@@ -65,7 +65,7 @@ The Campa are significant in anthropological studies because:
 - Campa territory is proximate to the former Incan empire with its full-blown priesthood
 - More than three centuries of European missionary activity among the Campa
 - The ceremony atmosphere is one of "decorum without frenzy"
-- The shaman's singing has a distinctive "eerie, distant quality of voice" under the drug's influence
+- The shaman"s singing has a distinctive "eerie, distant quality of voice" under the drug"s influence
 - The Campa represent one of several Amazonian groups (alongside Cashinahua, Sharanahua) characterized by harmonious communal ayahuasca use
 
 ## Relevance to Cultivation and Mycology

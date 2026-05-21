@@ -9,7 +9,7 @@ tags: [buddhism, tibetan-buddhism, archetype, wrathful-deity]
 
 ## Description
 
-Heruka (Sanskrit: हेरुका) refers to a class of [[wrathful-deities]] in Vajrayana Buddhism — "flame-enhaloed, wrathful, blood-drinking" figures that appear during the Second Bardo as the dynamic, terrifying aspect of enlightened awareness. In the [[bardo-thodol]] tradition, fifty-eight Herukas (male and female) manifest as the second set of seven visions following the seven peaceful deities. According to Lama Govinda, the Herukas are "merely the dynamic aspect of enlightenment, the process of becoming a Buddha, of attaining illumination, as symbolized by the Buddha's struggle with the Hosts of Mara." In Timothy Leary's interpretation, Westerners are more likely to encounter the Heruka principle through impersonal machinery, scientific control devices, and "space-fiction horrors" rather than traditional mythological demon forms.
+Heruka (Sanskrit: हेरुका) refers to a class of [[wrathful-deities]] in Vajrayana Buddhism — "flame-enhaloed, wrathful, blood-drinking" figures that appear during the Second Bardo as the dynamic, terrifying aspect of enlightened awareness. In the [[bardo-thodol]] tradition, fifty-eight Herukas (male and female) manifest as the second set of seven visions following the seven peaceful deities. According to Lama Govinda, the Herukas are "merely the dynamic aspect of enlightenment, the process of becoming a Buddha, of attaining illumination, as symbolized by the Buddha"s struggle with the Hosts of Mara." In Timothy Leary"s interpretation, Westerners are more likely to encounter the Heruka principle through impersonal machinery, scientific control devices, and "space-fiction horrors" rather than traditional mythological demon forms.
 
 ## Classification
 
@@ -22,7 +22,7 @@ Heruka (Sanskrit: हेरुका) refers to a class of [[wrathful-deities]] 
 ## Key Facts
 
 - The Herukas are regarded in Tibetan Buddhism as "only the former Peaceful Deities in changed aspect" — the same archetypal energies expressed in dynamic, transformative rather than static, peaceful form.
-- Lama Govinda explains: "The ecstatic figures, heroic and terrifying, express the act of breaking through towards the unthinkable, the intellectually 'Unattainable.' They represent the leap over the chasm, which yawns between an intellectual surface consciousness and the intuitive supra-personal depth-consciousness."
+- Lama Govinda explains: "The ecstatic figures, heroic and terrifying, express the act of breaking through towards the unthinkable, the intellectually "Unattainable.' They represent the leap over the chasm, which yawns between an intellectual surface consciousness and the intuitive supra-personal depth-consciousness."
 - The Tibetans assign the wrathful visions (Herukas) to the Brain chakra, whereas the peaceful deities are assigned to the Heart chakra and the Knowledge-Holding deities to the intermediate Throat chakra.
 - The Heruka visions represent "the reactions of the mind to the process of consciousness-expansion" and "the attempts of the intellect to maintain its threatened boundaries."
 - They symbolize "the struggle of breaking through to ego-loss understanding and awareness."
@@ -31,7 +31,7 @@ Heruka (Sanskrit: हेरुका) refers to a class of [[wrathful-deities]] 
 
 ## Psychological Significance
 
-The Heruka visions represent the psyche's confrontation with the terrifying aspects of its own nature. They embody what Jung would call the Shadow — the repressed, feared, and denied dimensions of consciousness that must be integrated for wholeness. In the Bardo Thodol, the instruction is always the same: recognize them as your own thought-forms. "They are old friends. Welcome them." This recognition transforms terror into liberation.
+The Heruka visions represent the psyche"s confrontation with the terrifying aspects of its own nature. They embody what Jung would call the Shadow — the repressed, feared, and denied dimensions of consciousness that must be integrated for wholeness. In the Bardo Thodol, the instruction is always the same: recognize them as your own thought-forms. "They are old friends. Welcome them." This recognition transforms terror into liberation.
 
 ## Relevance to Consciousness Studies
 

@@ -1,5 +1,5 @@
 ---
-title: "Shiitake vs Lion's Mane"
+title: "Shiitake vs Lion"s Mane"
 tags: [comparison, shiitake, lions-mane, medicinal-mushrooms, cultivation]
 date: 2026-05-11
 updated: 2026-05-11

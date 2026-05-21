@@ -75,7 +75,7 @@ with disgust as weeds, striving ever since to remove them.
 
 Weeds are ecologically defined as pioneer species, plants adapted
 through millions of years of evolution to quickly colonize disturbed,
-open ground. [[toby-hemenway]] described them as nature's first responders
+open ground. [[toby-hemenway]] described them as nature"s first responders
 to bare soil, compaction, and nutrient imbalances. They will
 relentlessly cover bare ground because nature abhors exposed earth.
 Most gardens, with their tilled rows and bare spaces between plants,

@@ -24,7 +24,7 @@ Sod is resilient. Simply turning grass over once with a shovel will not kill it 
 ### Advantages of Autumn Preparation
 
 1. **Winter decomposition**: Frost action and microbial activity break down sod over winter
-2. **Weed seed exhaustion**: Many weed seeds germinate in autumn after soil disturbance; they're killed when you dig again in spring
+2. **Weed seed exhaustion**: Many weed seeds germinate in autumn after soil disturbance; they"re killed when you dig again in spring
 3. **More spring weeds germinate**: Then get killed by the spring digging
 4. **Immediate spring readiness**: No waiting period between soil preparation and planting
 5. **Resistant grass clumps can be removed**: Any surviving sod chunks are easily spotted and tossed onto the compost heap in spring
@@ -130,7 +130,7 @@ This moisture movement is called **capillarity** — water moves upward through 
 Despite requiring more time spread over more days, hand-digging offers critical advantages over rototilling:
 
 1. **No [[plow-pan]]**: Rototillers create a compacted layer at the bottom of their reach (a "tiller pan"). Hand-digging breaks through any existing plow pan
-2. **Full-depth soil loosening**: A shovel reaches 12 inches (30 cm) deep, compared to a tiller's 4–5 inches
+2. **Full-depth soil loosening**: A shovel reaches 12 inches (30 cm) deep, compared to a tiller"s 4–5 inches
 3. **Better [[soil-tilth-and-seedbed-preparation]]**: The resulting soil is finer and more crumbly
 4. **Quieter, no fuel, no rental costs**: Just a sharp shovel and effort
 5. **Root access**: Vegetable roots can penetrate deeply into properly dug soil

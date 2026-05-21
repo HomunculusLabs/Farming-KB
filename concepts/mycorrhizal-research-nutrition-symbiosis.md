@@ -17,7 +17,7 @@ The study of [[mycorrhizal-fungi]] encompasses a vast body of research spanning 
 AM fungi are most widely recognized for their role in enhancing plant phosphorus (P) nutrition. Key research contributions include:
 
 - **Jakobsen et al. (1992a,b)**: Demonstrated the spread of external AM hyphae and measured P inflow into roots of *Trifolium subterraneum*, quantifying hyphal transport of ³²P over defined distances. This work established the spatial scale at which AM mycelium operates in soil.
-- **Bolan (1991)**: Provided a critical review of the role of mycorrhizal fungi in plant P uptake, concluding that AM fungi are particularly important under low-P conditions where they extend the effective depletion zone beyond the root's immediate sphere of influence.
+- **Bolan (1991)**: Provided a critical review of the role of mycorrhizal fungi in plant P uptake, concluding that AM fungi are particularly important under low-P conditions where they extend the effective depletion zone beyond the root"s immediate sphere of influence.
 - **Li et al. (1991a)**: Showed that VA-mycorrhizal white clover extends the phosphorus depletion zone in calcareous soil, overcoming P fixation that limits availability to non-mycorrhizal roots.
 - **Owusu-Bennoah and Wild (1979)**: Used autoradiography to visualize the extended P depletion zone around mycorrhizal onion roots.
 
@@ -111,7 +111,7 @@ Several landmark reviews have shaped the field:
 
 - **Harley and Smith (1983)**: *Mycorrhizal Symbiosis* — the definitive reference that standardized terminology and synthesized decades of research
 - **Allen (1991)**: *The Ecology of Mycorrhizae* — placed mycorrhizal research firmly in an ecological context
-- **Read (1991a,b)**: Articulated the role of mycorrhizae in ecosystem function and as "nature's response to the Law of the Minimum"
+- **Read (1991a,b)**: Articulated the role of mycorrhizae in ecosystem function and as "nature"s response to the Law of the Minimum"
 - **Brundrett (1991)**: Reviewed mycorrhizas in natural ecosystems, highlighting the gap between agricultural and ecological research
 - **Leake (2001)**: Questioned whether ECM fungal diversity is important for ecosystem function, stimulating debate on functional redundancy vs. complementarity
 ## Further Reading

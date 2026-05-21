@@ -10,7 +10,7 @@ type: concept
 
 While the [[tissue-culture-method-for-mushroom-spawn-production]] became the dominant approach to mushroom [[inoculation-methods]]. This page examines both the ongoing quest for reliable spore germination and the practical craft of [[agaricus-campestris]]* **do not germinate readily**. While they are capable of germination, and suitably stimulated a considerable percentage may grow, the methods of stimulating germination that have been developed are far less easily applied than the tissue culture method.
 
-### Costantin and Matruchot's Secret Method
+### Costantin and Matruchot"s Secret Method
 
 Some years before the early 1900s, the French mycologists **Costantin and Matruchot** reported that they had been able to produce [[mushroom-spawn]] from spores. Their work was reported in such a manner that only the results—not the methods—were made known, and it remained a secret. Since they distinctly referred to the use of spores, it was assumed they found a practicable method of stimulating spore germination, though even this was not certain.
 
@@ -20,7 +20,7 @@ Their method found practical application for a time in a department of the **Pas
 
 Another secret method of effecting spore germination was referred to by **Repin** in a circular on the subject. His method appeared to have been practically applied in the making of **"plate" spawn** by one of the large seed firms of Paris. As far as could be ascertained, this spawn had not come into very general use.
 
-### Ferguson's Investigations
+### Ferguson"s Investigations
 
 Miss **Ferguson's** investigations on spore germination were reported in **Bulletin 16** of the Bureau of Plant Industry, U.S. Department of Agriculture. The author's own studies were reported in **Bulletin 85** of the same series.
 

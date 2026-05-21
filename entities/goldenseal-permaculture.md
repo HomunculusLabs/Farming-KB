@@ -8,7 +8,7 @@ type: entity
 
 ## Description
 
-Goldenseal is a perennial herb native to [[polypore-fungi-eastern-north-america]], valued for its medicinal root containing the alkaloid [[berberine]]. Mollison references goldenseal as an example of a high-value specialty crop that may already exist unrecognized on a client's property, representing what he calls "the greatest unplanted goldenseal farm in the country" — land that naturally supports the species without deliberate cultivation.
+Goldenseal is a perennial herb native to [[polypore-fungi-eastern-north-america]], valued for its medicinal root containing the alkaloid [[berberine]]. Mollison references goldenseal as an example of a high-value specialty crop that may already exist unrecognized on a client"s property, representing what he calls "the greatest unplanted goldenseal farm in the country" — land that naturally supports the species without deliberate cultivation.
 
 ## Classification
 

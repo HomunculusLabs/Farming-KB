@@ -9,7 +9,7 @@ categories: [mythology, culture, indigenous, symbolism]
 
 ## Description
 
-The Rainbow Serpent (also known as the Rainbow Snake) is a major deity and mythological figure in the belief systems of Aboriginal Australian peoples. In Bill Mollison's *Permaculture: A Designers' Manual* (1988), the Rainbow Serpent features prominently in the cover story, which uses the Aboriginal legend to express the interconnectedness of landscape, life, and design. The serpent coiled within the "egg of life" on the book's cover represents the Earth-shaping creative force that permaculture seeks to work with rather than against.
+The Rainbow Serpent (also known as the Rainbow Snake) is a major deity and mythological figure in the belief systems of Aboriginal Australian peoples. In Bill Mollison"s *Permaculture: A Designers' Manual* (1988), the Rainbow Serpent features prominently in the cover story, which uses the Aboriginal legend to express the interconnectedness of landscape, life, and design. The serpent coiled within the "egg of life" on the book"s cover represents the Earth-shaping creative force that permaculture seeks to work with rather than against.
 
 ## Classification
 

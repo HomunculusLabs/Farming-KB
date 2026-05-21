@@ -16,7 +16,6 @@ updated: 2026-05-03
 sources:
 type: query
 created: 2026-05-03---
----
 
 ## What Are the Best Kiwifruit Varieties for Cold Climates?
 

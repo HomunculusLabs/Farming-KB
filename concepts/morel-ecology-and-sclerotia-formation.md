@@ -32,7 +32,7 @@ Morel mycelium typically does not form fruitbodies without some sort of environm
 
 The mycologist Thomas Volk made a critical observation: when morel culture was inoculated onto plates that were half nutritive agar and half nonnutritive agar, mycelium formed sclerotia only on the nonnutritive side. The hyphae were able to "find" the nutritive agar and translocate nutrients back to the nonnutritive side, where the mycelium produced and stored sclerotia.
 
-Replication of Volk's work with additional gallery configurations revealed key insights:
+Replication of Volk"s work with additional gallery configurations revealed key insights:
 
 - **Nonnutritive-side inoculation**: Mycelium placed on the nonnutritive side ran hyphae toward the nutritive side, completing nutrient capture in 7–10 days, then produced sclerotia on the nonnutritive side
 - **Nutritive-side inoculation**: Mycelium placed on the nutritive side colonized the entire plate without ever producing sclerotia, even after three months of incubation

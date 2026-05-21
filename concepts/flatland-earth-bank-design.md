@@ -19,7 +19,7 @@ The fundamental challenge of flatland [[permaculture]] is the absence of natural
 - **Construct swales** even on nearly level ground to direct and retain water
 - **Raise tanks and roofs** above house level to enable gravity-fed water systems
 
-Mollison's guiding rule: *"Make your slopes, throw up your roofs, and throw up your tanks, while you keep your house low."*
+Mollison"s guiding rule: *"Make your slopes, throw up your roofs, and throw up your tanks, while you keep your house low."*
 
 ## Earth Bank and Swale Construction
 

@@ -14,11 +14,11 @@ In "The Road Back to Nature," Masanobu Fukuoka extends his critique of human kno
 
 ## The Proposal to Sakamoto
 
-Fukuoka recounts: "The first time I met Professor Keiichi Sakamoto of Kyoto University, I told him: 'Professor, why don't you set up the study of Mu economics?'" He urged Sakamoto to "totally reject Marxian economics, the Das Kapital, and modern economics" and establish instead "a field of economic theory which throws out current economic notions that things have value, and is founded instead on the principle that things do not have value."
+Fukuoka recounts: "The first time I met Professor Keiichi Sakamoto of Kyoto University, I told him: "Professor, why don't you set up the study of Mu economics?'" He urged Sakamoto to "totally reject Marxian economics, the Das Kapital, and modern economics" and establish instead "a field of economic theory which throws out current economic notions that things have value, and is founded instead on the principle that things do not have value."
 
 ## The Value Problem
 
-Fukuoka's core economic insight: "The reason we think that a glass of water has value is because conditions exist that give it value. In the desert, this water has value. But under a different set of circumstances -- in a flood, say -- water has no value at all. Depending on whether it is an hour before or after a rainfall, the water may have value or the value that it had may suddenly vanish."
+Fukuoka"s core economic insight: "The reason we think that a glass of water has value is because conditions exist that give it value. In the desert, this water has value. But under a different set of circumstances -- in a flood, say -- water has no value at all. Depending on whether it is an hour before or after a rainfall, the water may have value or the value that it had may suddenly vanish."
 
 He poses the fundamental economic questions: "Is there intrinsic value in this thing called true nature, or does man uncover value in the nature within things? Or is value perhaps a product of the relationship between both of these? What determines the true value of water?"
 
@@ -34,7 +34,7 @@ His natural farming method produces yields of 50 bushels per quarter-acre -- mat
 
 In his Asahi Shimbun essay (1983), Fukuoka presents an implicit economic vision:
 
-"The hearthside is the universe; to own nothing is to never be without." This is not asceticism but a recognition that the thousand rice paddies -- built over centuries by Japanese farmers "[[cervantes-chemical-fertilizers-guide]] and pesticides? The key sectors of Japan's chemical industry will all collapse. No wonder then that no one is willing to believe such a method of farming is possible."
+"The hearthside is the universe; to own nothing is to never be without." This is not asceticism but a recognition that the thousand rice paddies -- built over centuries by Japanese farmers "[[cervantes-chemical-fertilizers-guide]] and pesticides? The key sectors of Japan"s chemical industry will all collapse. No wonder then that no one is willing to believe such a method of farming is possible."
 
 ## Connection to Fukuoka's Broader Philosophy
 

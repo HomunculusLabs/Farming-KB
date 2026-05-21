@@ -8,7 +8,7 @@ type: entity
 
 ## Description
 
-Edward "Teddy" Goldsmith (1928–2009) was a British environmentalist, writer, and founding editor of *The Ecologist* magazine. In Mollison's *Permaculture: A Designer's Manual*, Goldsmith is quoted extensively from his 1981 essay "Thermodynamics or Ecodynamics" published in *The Ecologist*, arguing that the biosphere (Gaia) systematically builds up complexity, diversity, and stability, and criticizing scientists who refuse to consider the function of life in natural systems.
+Edward "Teddy" Goldsmith (1928–2009) was a British environmentalist, writer, and founding editor of *The Ecologist* magazine. In Mollison"s *Permaculture: A Designer's Manual*, Goldsmith is quoted extensively from his 1981 essay "Thermodynamics or Ecodynamics" published in *The Ecologist*, arguing that the biosphere (Gaia) systematically builds up complexity, diversity, and stability, and criticizing scientists who refuse to consider the function of life in natural systems.
 
 ## Classification
 

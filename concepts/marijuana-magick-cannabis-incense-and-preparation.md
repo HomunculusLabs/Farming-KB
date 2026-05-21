@@ -12,8 +12,8 @@ tags: [cannabis]
 
 ## Overview
 
-"A Practitioner's Guide to [[cervantes-cannabis-flower-anatomy]]. The text recommends "a few grams" of cannabis for a standard preparation, though the practitioner can use as much as they wish
-2. **Steeping**: Soak the cannabis in the olive oil and allow it to steep for "several days until the oil has been thoroughly infused." This slow extraction process treats time as an active ingredient -- the longer steeping is a period of transformation during which the herb's properties transfer to the oil
+"A Practitioner"s Guide to [[cervantes-cannabis-flower-anatomy]]. The text recommends "a few grams" of cannabis for a standard preparation, though the practitioner can use as much as they wish
+2. **Steeping**: Soak the cannabis in the olive oil and allow it to steep for "several days until the oil has been thoroughly infused." This slow extraction process treats time as an active ingredient -- the longer steeping is a period of transformation during which the herb"s properties transfer to the oil
 3. **Ritual deployment**: Pour the infused oil into a chalice as the central ritual object, surrounded by the pentagram and candles
 
 ### Application and Anointing
@@ -37,7 +37,7 @@ Olive oil carries its own ancient sacred associations. In Abrahamic traditions, 
 
 ### Ritual Consumption
 
-The practitioner drinks the liquid from the chalice while facing south and holding an athame pointed outward. The simultaneous act of drinking (receiving) and pointing the athame (directing energy) embodies the dual principle of receiving earth's gifts while actively directing them toward healing. The practitioner then repeats an incantation ("ohm, ye, ohm, ye, kwan, ye, kwan, ye, verd, ye, verd, ye, gran, ye, gran, ye") for several minutes while waiting for the cannabis to take effect, using the chanting time as both a meditative practice and a practical waiting period.
+The practitioner drinks the liquid from the chalice while facing south and holding an athame pointed outward. The simultaneous act of drinking (receiving) and pointing the athame (directing energy) embodies the dual principle of receiving earth"s gifts while actively directing them toward healing. The practitioner then repeats an incantation ("ohm, ye, ohm, ye, kwan, ye, kwan, ye, verd, ye, verd, ye, gran, ye, gran, ye") for several minutes while waiting for the cannabis to take effect, using the chanting time as both a meditative practice and a practical waiting period.
 
 This method provides an alternative to smoking for practitioners who prefer ingestion, and is specifically tied to healing-oriented work. The chalice as drinking vessel connects the practice to the widespread tradition of consuming sacred substances from ceremonial cups.
 

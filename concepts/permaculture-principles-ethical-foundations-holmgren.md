@@ -6,7 +6,7 @@ type: concept
 
 ## Permaculture Principles and Ethical Foundations
 
-Permaculture, co-originated by [[david-holmgren]] and Bill Mollison in the late 1970s, is a holistic design framework for creating sustainable human settlements and agricultural systems. Holmgren's book *Permaculture: Principles & Pathways Beyond Sustainability* (2002) represents the most systematic articulation of permaculture's underlying design principles, drawing on 25 years of practical application, teaching, and reflection. Permaculture is much more than organic gardening — it encompasses ethics, design principles, and systems thinking applicable to land use, building, economics, community, and personal behavior.
+Permaculture, co-originated by [[david-holmgren]] and Bill Mollison in the late 1970s, is a holistic design framework for creating sustainable human settlements and agricultural systems. Holmgren"s book *Permaculture: Principles & Pathways Beyond Sustainability* (2002) represents the most systematic articulation of permaculture's underlying design principles, drawing on 25 years of practical application, teaching, and reflection. Permaculture is much more than organic gardening — it encompasses ethics, design principles, and systems thinking applicable to land use, building, economics, community, and personal behavior.
 
 ## Ethical Foundations
 
@@ -33,7 +33,7 @@ Good design depends on a free and harmonious relationship between nature and peo
 Develop systems that collect and store resources when they are abundant for use in times of need. This applies to water, soil fertility, seeds, biomass, and especially energy. In traditional societies, catching and storing energy was the primary focus of daily life and seasonal activity.
 
 ### 3. Obtain a Yield
-*"You can't work on an empty stomach"*
+*"You can"t work on an empty stomach"*
 
 Ensure that you are getting truly useful rewards as part of the work you are doing. Systems should be designed to provide for their own needs and yield useful products. The concept of yield extends beyond physical harvests to include non-material benefits.
 
@@ -45,7 +45,7 @@ Discourage inappropriate activity to ensure that systems can continue to functio
 ### 5. Use and Value Renewable Resources and Services
 *"Let nature take its course"*
 
-Make the best use of nature's abundance to reduce our consumptive behavior and dependence on non-renewable resources. Renewable services (such as [[beneficial-insects-and-biological-pest-control]]) are often more valuable than renewable products.
+Make the best use of nature"s abundance to reduce our consumptive behavior and dependence on non-renewable resources. Renewable services (such as [[beneficial-insects-and-biological-pest-control]]) are often more valuable than renewable products.
 
 ### 6. Produce No Waste
 *"A stitch in time saves nine" / "Waste not, want not"*
@@ -53,7 +53,7 @@ Make the best use of nature's abundance to reduce our consumptive behavior and d
 Find value in every resource and turn waste into a resource. In nature, there is no waste — the output of one organism is the input for another. This principle applies at every scale from household to industrial.
 
 ### 7. Design from Patterns to Details
-*"Can't see the wood for the trees"*
+*"Can"t see the wood for the trees"*
 
 By stepping back, we can observe [[patterns-in-nature]] and society that can form the backbone of our designs. Details are then filled in as needed based on the overall pattern. This top-down approach ensures coherent, functional designs.
 
@@ -68,12 +68,12 @@ Put the right things in the right place so that they support each other. Relatio
 Small and slow systems are easier to maintain than large ones, make better use of local resources, and produce more sustainable outcomes. Scale should be appropriate to the context and need.
 
 ### 10. Use and Value Diversity
-*"Don't put all your eggs in one basket"*
+*"Don"t put all your eggs in one basket"*
 
 Diversity reduces vulnerability to threats and takes advantage of the unique nature of the environment. It includes genetic, species, ecosystem, and cultural diversity as strategies for resilience.
 
 ### 11. Use Edges and Value the Marginal
-*"Don't think you are on the right track just because it is a well-beaten path"*
+*"Don"t think you are on the right track just because it is a well-beaten path"*
 
 The interface between things is where the most interesting events take place. Ecotones — the transitions between ecosystems — are typically the most productive and diverse. This principle encourages attention to marginal, overlooked, and boundary spaces.
 

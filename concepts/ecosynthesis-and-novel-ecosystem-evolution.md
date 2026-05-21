@@ -12,7 +12,7 @@ Ecosynthesis is the process by which new ecosystems form from novel combinations
 
 ## The Problem with "Fixed Ecosystem" Thinking
 
-The focus of conservation biology on the ancient, co-evolved nature of some ecological relationships has led to a distorted view that most ecosystems are fixed and ancient systems, almost like species themselves. This assumption underpins much of the environmental movement's approach to land management, particularly the aggressive removal of non-indigenous species classified as "environmental weeds."
+The focus of conservation biology on the ancient, co-evolved nature of some ecological relationships has led to a distorted view that most ecosystems are fixed and ancient systems, almost like species themselves. This assumption underpins much of the environmental movement"s approach to land management, particularly the aggressive removal of non-indigenous species classified as "environmental weeds."
 
 While individual species may be remarkably durable and persistent systems, the relationships between species and the physical environmental factors that make up an ecosystem are remarkably plastic. New relationships and adaptations can lead to rapid ecosystem evolution on timescales as short as a single human generation.
 
@@ -20,7 +20,7 @@ While individual species may be remarkably durable and persistent systems, the r
 
 ### Palaeobotanical Evidence
 
-Palaeobotanical evidence shows that many of today's remnant and predominantly natural ecosystems did not survive the fluctuations of ice age intact in climatic refuges, as previously thought. Instead, they appear to be novel and contingent combinations of species that have come together during the current interglacial period (the last 10,000 years). These species survived the ice ages in many different places and systems, recombining in new assemblages when conditions permitted.
+Palaeobotanical evidence shows that many of today"s remnant and predominantly natural ecosystems did not survive the fluctuations of ice age intact in climatic refuges, as previously thought. Instead, they appear to be novel and contingent combinations of species that have come together during the current interglacial period (the last 10,000 years). These species survived the ice ages in many different places and systems, recombining in new assemblages when conditions permitted.
 
 ### Australia's Fire-Prone Vegetation
 
@@ -75,7 +75,7 @@ At the time that these successional patterns were being identified, indigenous r
 
 ## Case Study: Riparian Weedscapes of Hepburn Springs
 
-The extensive riparian weedscape of Spring Creek and its tributary gullies attracted Holmgren's attention when he moved to Hepburn Springs in 1985. Over the following decade, an informal group of local residents created tracks and planted trees over several kilometres of blackberry (*Rubus fruticosus*) and willow (*Salix alba × fragilis*) dominated stream corridor.
+The extensive riparian weedscape of Spring Creek and its tributary gullies attracted Holmgren"s attention when he moved to Hepburn Springs in 1985. Over the following decade, an informal group of local residents created tracks and planted trees over several kilometres of blackberry (*Rubus fruticosus*) and willow (*Salix alba × fragilis*) dominated stream corridor.
 
 ### Successional Dynamics
 

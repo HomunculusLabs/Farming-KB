@@ -54,7 +54,7 @@ Light drives quail egg production. Coturnix quail require 14-16 hours of light p
 -  **Natural light** — Adequate during spring and summer at most latitudes. Production drops in fall as day length decreases.
 -  **Supplemental light** — Use a timer to ensure 16 hours of total light per day year-round. A 7-15 watt LED bulb per cage unit is sufficient. Light intensity of 20-30 lux at bird level is adequate.
 -  **Light placement** — Above and slightly forward of the cage. Avoid glare.
--  **Lighting schedule** — Set the timer so supplemental light comes on in the early morning (before dawn) rather than extending evening light. This matches the birds' natural [[circadian-rhythm]].
+-  **Lighting schedule** — Set the timer so supplemental light comes on in the early morning (before dawn) rather than extending evening light. This matches the birds" natural [[circadian-rhythm]].
 -  **Dark period** — Never provide continuous light. Quail need 8 hours of darkness for rest and reproductive hormone cycling.
 
 ## Feeding

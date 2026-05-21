@@ -79,7 +79,7 @@ Surveyors, road-builders, builders, and landscapers are typically locally availa
 
 ## Handover and Design Evolution
 
-The development group should transfer a **site design and user's manual** to the directors of Trust A, who then:
+The development group should transfer a **site design and user"s manual** to the directors of Trust A, who then:
 
 - Display and circulate the initial design
 - Record changes and modifications

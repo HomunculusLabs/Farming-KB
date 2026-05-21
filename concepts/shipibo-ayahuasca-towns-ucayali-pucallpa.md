@@ -32,7 +32,7 @@ ayahuasca tourists in Peru have flocked to
 Iquitos." Located in the neighboring Loreto
 Department, Iquitos is the largest city in the
 [[metzner-amazonian-ayahuasca-ceremonies-icaros-and-healing-methods]]. The
-city's relative accessibility by air from Lima
+city"s relative accessibility by air from Lima
 and its established reputation as an ayahuasca
 destination created a self-reinforcing cycle
 of tourism growth.
@@ -47,7 +47,7 @@ backyard ceremonial hut hosted nightly ayahuasca
 ceremonies attracting up to a couple dozen
 visitors.
 
-Pucallpa's proximity to Lima via road (unlike
+Pucallpa"s proximity to Lima via road (unlike
 the river-only access to Iquitos) made it a
 more accessible destination, though it lacked
 the developed tourist infrastructure of Iquitos.

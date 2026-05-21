@@ -45,13 +45,13 @@ DOET displays an unusual dose-dependent character shift:
 
 ## The HECATE Naming
 
-DOET bears the individual name HECATE in Shulgin's "Classic Ladies" naming system. Hecate is the Greek goddess of crossroads, boundaries, and the liminal space between worlds -- an apt name for a compound that exists at the boundary between psychedelic and non-psychedelic experience, depending on dose. The name reflects DOET's transitional quality: at low doses it is a gentle enhancer, at moderate doses a serene psychedelic, and at higher doses a deeply moving experience bridging the erotic and the divine.
+DOET bears the individual name HECATE in Shulgin"s "Classic Ladies" naming system. Hecate is the Greek goddess of crossroads, boundaries, and the liminal space between worlds -- an apt name for a compound that exists at the boundary between psychedelic and non-psychedelic experience, depending on dose. The name reflects DOET"s transitional quality: at low doses it is a gentle enhancer, at moderate doses a serene psychedelic, and at higher doses a deeply moving experience bridging the erotic and the divine.
 
 ## Historical Notes
 
 The original publications on DOET deliberately used only low doses in the clinical literature, reporting it as a cognitive enhancer free of hallucinogenic effects. Shulgin noted this was partly strategic -- DOM had already been scheduled as a controlled substance due to its documented psychedelic properties and "sizeable measure of potential abuse." By presenting DOET as a mild cognitive enhancer, researchers avoided regulatory attention, though Shulgin acknowledged that the Controlled Substance Analogue Enforcement Act of 1986 might render this moot.
 
-The nomenclature history of the DOx series is itself interesting. The naming convention uses "DO" (desoxy, removal of oxygen from the methoxy group's naming scheme) followed by a letter indicating the 4-position substituent. DOM (methyl) was established first. DOE (ethyl) was abandoned due to conflict with "desoxyephedrine" (methamphetamine). The pattern was then revised: DOAM for amyl, DOET for ethyl, while DOM remained unchanged since "DOME really looked strange."
+The nomenclature history of the DOx series is itself interesting. The naming convention uses "DO" (desoxy, removal of oxygen from the methoxy group"s naming scheme) followed by a letter indicating the 4-position substituent. DOM (methyl) was established first. DOE (ethyl) was abandoned due to conflict with "desoxyephedrine" (methamphetamine). The pattern was then revised: DOAM for amyl, DOET for ethyl, while DOM remained unchanged since "DOME really looked strange."
 
 ## References
 

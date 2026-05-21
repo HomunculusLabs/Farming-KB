@@ -26,7 +26,7 @@ The experience of soul flight is one of the most widely reported effects of yag�
 
 - Amahuaca young men see snakes crawling up their bodies; the jaguar yoshi spirit teaches apprentice drinkers.
 
-- Tukano/Desana: nightmares of jaguars' jaws, menace of snakes coiling around extremities; "feather crowns that jump" and snakes as necklaces coiling around houseposts.
+- Tukano/Desana: nightmares of jaguars" jaws, menace of snakes coiling around extremities; "feather crowns that jump" and snakes as necklaces coiling around houseposts.
 
 - Siona novices see serpents and tigers; snakes represent the yagé vines themselves, so conquering yagé means conquering nature.
 
@@ -40,7 +40,7 @@ The experience of soul flight is one of the most widely reported effects of yag�
 
 ## Theme 3: Hallucinations Interpreted as Demons and/or Deities
 
-Yagé visions are routinely interpreted through each culture's supernatural framework, with beings classified as either deities or demons depending on context. These encounters often mirror the [[beta-carboline-chemistry]] of Banisteriopsis alkaloids.
+Yagé visions are routinely interpreted through each culture"s supernatural framework, with beings classified as either deities or demons depending on context. These encounters often mirror the [[beta-carboline-chemistry]] of Banisteriopsis alkaloids.
 
 The independent invention of the word "trip" in both [[european-witchcraft-hallucinogenic-plants]] and other cross-cultural psychedelic phenomena.
 

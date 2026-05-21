@@ -16,7 +16,7 @@ When some plants are getting diseased or when conditions are unfavorable for cer
 
 ### Compost Tea Spray
 
-Spray your garden with liquid kelp or compost tea, which provides [[soil-trace-elements-and-micronutrients]] other fortifying elements that improve plants' resistance to disease.
+Spray your garden with liquid kelp or compost tea, which provides [[soil-trace-elements-and-micronutrients]] other fortifying elements that improve plants" resistance to disease.
 
 ### The Elaine Ingham Method
 

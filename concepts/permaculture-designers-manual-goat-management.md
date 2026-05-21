@@ -8,7 +8,7 @@ sources: [raw/papers/bill-mollison-permaculture-a-designers-manual.md]
 ---
 ## Goat Management
 
-**Source:** [[permaculture]]: A Designers' Manual, [[permaculture-domestic-animals]] in
+**Source:** [[permaculture]]: A Designers" Manual, [[permaculture-domestic-animals]] in
 permaculture systems. Mollison highlights their ability to convert
 thorny, bitter, and otherwise unpalatable vegetation into usable
 products -- milk, meat, fibre, and manure. They serve as browsers where

@@ -1,5 +1,5 @@
 ---
-title: Shulgin's Predictions on Future Psychoactive Research
+title: Shulgin"s Predictions on Future Psychoactive Research
 created: 2026-04-26
 updated: 2026-04-24
 sources:

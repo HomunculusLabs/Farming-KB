@@ -52,7 +52,7 @@ Proper airflow is critical. The HEPA filter has a rated face velocity of 100 FPM
 1. Calculate filter face area: 24 x 48 in = 1152 sq in = 8 sq ft
 2. Required CFM = area x velocity = 8 x 100 = 800 CFM
 3. Account for filter static pressure (typically 1.0-1.2 in w.g.) — the blower must deliver 800 CFM at that pressure
-4. Always check the blower's performance curve, not just free-air CFM rating
+4. Always check the blower"s performance curve, not just free-air CFM rating
 
 A minimum of 100 CFM per square foot of filter area ensures laminar flow. Too little and contaminants enter; too much and turbulence disrupts the sterile curtain.
 
@@ -93,7 +93,7 @@ Forister and Burger (UC Davis, Dept. of Environmental Horticulture) published a 
 
 ### Cost Breakdown (Two Hoods, One Fan — 1990s Prices)
 
-**Hood materials:** HEPA filters (2x 24x30x6") $220, plywood (3/4") $34, plywood (1/4") $10, pine (1x12x16') $17, Formica $24, adhesive $6, plexiglass (4x8x1/4") $110, egg crate panels (2) $24, aluminum channel $25, paint $15, angle aluminum $10, miscellaneous $30 = **$525**
+**Hood materials:** HEPA filters (2x 24x30x6") $220, plywood (3/4") $34, plywood (1/4") $10, pine (1x12x16") $17, Formica $24, adhesive $6, plexiglass (4x8x1/4") $110, egg crate panels (2) $24, aluminum channel $25, paint $15, angle aluminum $10, miscellaneous $30 = **$525**
 
 **Fan housing:** Dayton #5C094 blower $185, rotary switch $40, plywood $30, molding $18, prefilters (case of 6) $24, dryer vent hose $35, misc $46 = **$378**
 

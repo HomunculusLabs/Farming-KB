@@ -50,7 +50,7 @@ more genetic material than mycelium alone.
 ### Agar Plate Preparation
 
 Prepare agar plates with consideration for the target species. Supplementing agar
-with a small amount of the mushroom's preferred substrate (powdered wood, soil, etc.)
+with a small amount of the mushroom"s preferred substrate (powdered wood, soil, etc.)
 can significantly improve germination rates, especially for wild or picky species.
 
 ### Tools Required

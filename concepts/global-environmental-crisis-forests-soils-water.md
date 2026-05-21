@@ -6,7 +6,7 @@ type: concept
 
 ## The Global Environmental Crisis: Forests, Soils, and Water
 
-In the opening lecture of his 1981 [[permaculture-design]] Course, [[bill-mollison]] presented a systematic account of the accelerating failure of Earth's life-support systems. Rather than attributing ecological collapse to a single cause, Mollison traced interconnected breakdowns across forests, soils, climate, and water — arguing that these systems share a common root: human industrial agriculture and forestry operating without design. This lecture, titled "The Terrible Time of Day," remains one of the most cited and influential summaries of the environmental crisis from a [[permaculture]] perspective.
+In the opening lecture of his 1981 [[permaculture-design]] Course, [[bill-mollison]] presented a systematic account of the accelerating failure of Earth"s life-support systems. Rather than attributing ecological collapse to a single cause, Mollison traced interconnected breakdowns across forests, soils, climate, and water — arguing that these systems share a common root: human industrial agriculture and forestry operating without design. This lecture, titled "The Terrible Time of Day," remains one of the most cited and influential summaries of the environmental crisis from a [[permaculture]] perspective.
 
 ## The Forest Crisis
 
@@ -26,7 +26,7 @@ Mollison proposed that these "pests" are not causes but symptoms. He demonstrate
 
 ## The Soil Crisis
 
-By Mollison's account, 50% of all soils that existed before 1950 had been lost by 1981, with another 30% of the remainder degraded. This loss is global — equally true of the Third World and the Western nations.
+By Mollison"s account, 50% of all soils that existed before 1950 had been lost by 1981, with another 30% of the remainder degraded. This loss is global — equally true of the Third World and the Western nations.
 
 ### Soil Creation vs. Soil Loss
 
@@ -36,15 +36,15 @@ Soils are created at a rate of approximately four tons per acre per year in humi
 
 The most insidious soil loss mechanism operates through deforestation at a distance. When forests are cut from upper watersheds, the hydrological cycle reverses. Trees act as pumps, keeping deep saline water tables low through transpiration. When the trees are removed, the water table rises measurably — across vast areas of America, Africa, and Australia. When saline groundwater reaches approximately three feet below the surface, trees begin dying of "phasmids." At 18 inches below the surface, crops die. When it reaches the surface, it evaporates and the soil visibly turns to salt.
 
-The Australian government's response — providing free pumps to farmers while simultaneously leasing additional wood-chipping licenses to multinationals — illustrated for Mollison the perverse logic of industrial resource management: selling pumps on one hand and wood chips on the other, creating a "happy circumstance for some people, but a catastrophe for the Earth."
+The Australian government"s response — providing free pumps to farmers while simultaneously leasing additional wood-chipping licenses to multinationals — illustrated for Mollison the perverse logic of industrial resource management: selling pumps on one hand and wood chips on the other, creating a "happy circumstance for some people, but a catastrophe for the Earth."
 
 ### Urbanization and Highway Construction
 
-Cities occupy 11% of the Earth's very best soils. Canada exemplified the pattern: cities expanding onto prime agricultural land, forcing agriculture onto less sustainable margins. In Britain, approximately one mile of highway exists for every square mile of surface, and highways account for permanent, irreversible soil loss. The American Southwest practices a "cut and run" bore-well agriculture: drill into semi-saline groundwater, pump it onto annual crops for four years until the surface mineralizes (pH rising from 8 to 11), then move on.
+Cities occupy 11% of the Earth"s very best soils. Canada exemplified the pattern: cities expanding onto prime agricultural land, forcing agriculture onto less sustainable margins. In Britain, approximately one mile of highway exists for every square mile of surface, and highways account for permanent, irreversible soil loss. The American Southwest practices a "cut and run" bore-well agriculture: drill into semi-saline groundwater, pump it onto annual crops for four years until the surface mineralizes (pH rising from 8 to 11), then move on.
 
 ## The Water Crisis
 
-Mollison identified water as the world's emerging rarest mineral. Ancient aquifer systems — some 40,000 years in evolution — are being depleted far faster than they can recharge. Surface sealing through urbanization prevents groundwater recharge. In many cities, dissolved salts in drinking water have reached 700 parts per million, approaching the human kidney's tolerance limit of 1,100 ppm (above which fainting, tissue water accumulation, and death occur).
+Mollison identified water as the world"s emerging rarest mineral. Ancient aquifer systems — some 40,000 years in evolution — are being depleted far faster than they can recharge. Surface sealing through urbanization prevents groundwater recharge. In many cities, dissolved salts in drinking water have reached 700 parts per million, approaching the human kidney's tolerance limit of 1,100 ppm (above which fainting, tissue water accumulation, and death occur).
 
 Industrial pollution compounds the crisis. Deep bore disposal of atomic waste has begun contaminating aquifers in the Sacramento Valley, Maine, New Jersey, and California. PCB contamination has been linked to approximately 20% sterility rates among American males by age 20. The chemical burden — DDT, PCBs, dioxin, chlorine — represents what Mollison called a "broad-scale release of chemicals with unforeseen and long-term results."
 

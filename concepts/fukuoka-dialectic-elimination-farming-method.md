@@ -9,7 +9,7 @@ adding interventions. Rather than asking "[[fukuoka-natural-farming-method]] ask
 farming:
 
 ### The [[fukuoka-natural-farming-method]] took the opposite tack. He eliminated unnecessary practices,
-expenditures, and labor by telling himself, "I don't need to do this, I
+expenditures, and labor by telling himself, "I don"t need to do this, I
 don't need to do that." After thirty years of this process, he reduced
 his farming to essentially just sowing seed and spreading straw. Every
 other activity that conventional farmers considered essential — plowing,

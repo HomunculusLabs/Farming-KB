@@ -10,7 +10,7 @@ sources:
 
 ## Teaming with Microbes — Overview
 
-*Teaming with Microbes: A Gardener's Guide to the Soil Food Web* by Jeff Lowenfels and Wayne Lewis (2006, Timber Press) is a landmark book that brought [[solomon-root-exudates-and-allelopathy]], the rhizosphere
+*Teaming with Microbes: A Gardener"s Guide to the Soil Food Web* by Jeff Lowenfels and Wayne Lewis (2006, Timber Press) is a landmark book that brought [[solomon-root-exudates-and-allelopathy]], the rhizosphere
 - [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]], biofilm formation
 - teaming with microbes overview — hyphal networks, [[teaming-with-microbes-soil-food-web-trophic-structure-and-succession]]
 - Soil food [[teaming-with-microbes-compost-mulch-tea]] as cold compost and fungal food

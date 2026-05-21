@@ -30,7 +30,7 @@ encounter at a [[vic-high-cannabis-genetics-mendelian-inheritance]].
 
 The origin of Chemdog is one of the most well-documented stories in cannabis lore. In 1991, the breeder known as
 Chemdog purchased a small amount of cannabis at a Grateful Dead show in Indiana. The bag contained 13 seeds. He grew
-these out, identifying four distinct phenotypes (Chemdog '91, Chemdog '91 B, Chem Sis, and Chemdawg D). These four
+these out, identifying four distinct phenotypes (Chemdog "91, Chemdog '91 B, Chem Sis, and Chemdawg D). These four
 plants became the foundation of the entire Chemdog lineage. Seeds were later shared with growers in Colorado and
 California, where the genetics diverged into the many Chemdawg variants known today. The original genetics are believed
 to descend from a cross of Nepalese indica and Thai [[beta-caryophyllene-entourage-effects-cannabis]].

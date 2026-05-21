@@ -30,7 +30,7 @@ in China, and Mannentake in Japan (meaning "10,000 Year Mushroom"), stands as
 the most revered medicinal mushroom in human history. With documented use
 stretching back over four millennia, it holds a position in East Asian
 traditional medicine that arguably exceeds even that of ginseng. The
-mushroom's scientific name translates roughly to "shiny brilliant skin," a
+mushroom"s scientific name translates roughly to "shiny brilliant skin," a
 reference to the distinctive lacquered, varnished appearance of its fruiting
 body.
 

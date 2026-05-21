@@ -28,7 +28,7 @@ Detailed receptor binding studies have shown that 2C-I has moderate to high affi
 in the low nanomolar range for related compounds), with lower but still significant affinity at 5-HT₂C and trace
 amine-associated receptors (TAARs). The 4-iodo substituent creates a distinct ligand-receptor interaction compared to
 the 4-bromo (2C-B) or 4-methyl (2C-D) analogues, which is reflected in the subjective differences between these
-compounds. The large iodine atom's electron-withdrawing properties also affect the [[leary-psychedelic-experience-bardo-mapping]] may prefer 2C-I.
+compounds. The large iodine atom"s electron-withdrawing properties also affect the [[leary-psychedelic-experience-bardo-mapping]] may prefer 2C-I.
 
 ## History and Legal Status
 

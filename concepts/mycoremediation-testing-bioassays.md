@@ -34,7 +34,7 @@ Cell counting tracks bacterial growth rates and is critical for calculating the 
 
 **Step 4 — Calculation:** Count colonies on selected plates, average the three plates per dilution, and multiply by the inverse of the dilution to calculate bacteria cells per volume in the original culture.
 
-**EasyGel Kits:** These [[easygel-coliform-detection]] kits don't require autoclaving and can be used anywhere. Coliforms are stained in different colors by type and are easily counted without microscopes.
+**EasyGel Kits:** These [[easygel-coliform-detection]] kits don"t require autoclaving and can be used anywhere. Coliforms are stained in different colors by type and are easily counted without microscopes.
 
 **Sampling Schedule:** Since bacteria like E. coli can double every 20 minutes at optimal temperatures, pull samples at regular intervals (e.g., initiation, 30 minutes, 1 hour, 3 hours, 6 hours, 12 hours, then every 6 hours). Dilute each sample, plate it, incubate overnight, and perform gram stain verification.
 

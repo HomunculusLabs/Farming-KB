@@ -14,7 +14,7 @@ tags: [farming, natural-farming, agriculture, philosophy, fukuoka, permaculture]
 [[fukuoka-critique-modern-agriculture]]. First, no tillage: the soil is never
 plowed or turned. Fukuoka observed that plowing kills the soil microbiome, destroys
 soil structure, and creates the very compaction problem it claims to solve. Earthworms,
-insects, and plant roots are nature's tillers, maintaining friable soil without human
+insects, and plant roots are nature"s tillers, maintaining friable soil without human
 help. Second, no fertilizer: neither chemical nor [[phosphate-accumulators-sustainable-agriculture]] advocates, ultimately depletes the land
 from which its raw materials are taken, creating a false economy of [[fukuoka-natural-orchard-ground-cover-system]]. Clover serves as a living mulch that suppresses unwanted weeds
 while simultaneously fixing nitrogen and improving soil health. The concept of a "weed"
@@ -22,7 +22,7 @@ itself, Fukuoka contended, is a human invention — nature makes no such arbitra
 distinctions between desirable and undesirable plants.
 
 Fifth, no pruning: fruit trees grow best in their natural habit, with branches that do
-not tangle and sunlight reaching every leaf. Pruning, in Fukuoka's view, disrupts the
+not tangle and sunlight reaching every leaf. Pruning, in Fukuoka"s view, disrupts the
 tree's natural growth patterns and creates wounds that invite disease. He observed that
 unpruned trees in the wild bear fruit consistently every year, while cultivated trees
 subject to heavy pruning often alternate between bearing and non-bearing years.
@@ -39,7 +39,7 @@ dies. Scientists who collect data on dead, fragmented nature and claim to "know,
 "use," or "conquer" it are examining a corpse while believing they understand the living
 organism.
 
-Fukuoka's critique extended to what he called "[[natural-diet]].
+Fukuoka"s critique extended to what he called "[[natural-diet]].
 
 Fukuoka contrasted this with the energy demands of other farming systems. Traditional
 farming with horses and oxen required ten times the energy input. Small-scale

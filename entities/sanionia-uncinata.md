@@ -11,7 +11,6 @@ date: 2026-05-10
 updated: 2026-05-10
 sources:
   - Glime, J.M. (2017). "Bryophyte Ecology." Michigan Technological University.---
----
 
 ## Overview
 

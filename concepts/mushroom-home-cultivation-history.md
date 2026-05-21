@@ -20,7 +20,7 @@ folk art, "like the secret stills supplying moonshine in the days of prohibition
 
 ## Early Cultivation: Roger Heim and Albert Hofmann
 
-[[roger-heim]], Professor of Mycology at the Musee National d'Histoire Naturelle in Paris, was
+[[roger-heim]], Professor of Mycology at the Musee National d"Histoire Naturelle in Paris, was
 the first person ever to culture [[emcdda-hallucinogenic-mushrooms-emerging-trend-europe]] in the laboratory. He
 accompanied [Gordon Wasson to Mexico in 1956 to classify and describe the species
 used in Mazatec ceremonies. Attempts by his own laboratory and by American pharmaceutical companies (Merck;
@@ -42,7 +42,7 @@ put on hold. Then one day he went to clear out the greenhouse, expecting it to b
 mould. Instead, he discovered rows of cubensis mushrooms sprouting merrily from the abandoned experiments.
 "I was neck deep in gold!" he wrote. "The elf legions of hyperspace had ridden to my rescue again."
 
-## Psilocybin: Magic Mushroom Grower's Guide (1976)
+## Psilocybin: Magic Mushroom Grower"s Guide (1976)
 
 Working with Dennis at the Botanical Garden in Berkeley, Terence McKenna adapted a technique for growing
 mushrooms on sterilised rye grains. The McKennas published their method -- together with Terence's then wife
@@ -63,7 +63,7 @@ The McKenna book was followed by similar methods put forward by [Steven Pollock 
 Pollock was a medical doctor who became fascinated with psychedelic mushrooms after encountering them in
 Colombia. He developed his own cultivation techniques and discovered several new species, including the
 potent Psilocybe stuntzii. His growing operation eventually attracted the attention of the authorities. He
-was arrested and charged with manufacture of psilocybin, receiving six months' imprisonment and three years'
+was arrested and charged with manufacture of psilocybin, receiving six months" imprisonment and three years'
 probation. His case became a cause celebre among mushroom enthusiasts.
 
 ## Paul Stamets and The Mushroom Cultivator

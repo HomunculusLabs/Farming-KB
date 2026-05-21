@@ -22,7 +22,7 @@ systems to function effectively. Both pests were once considered among the three
 major citrus pests in Japan, and both were brought under control by natural
 predators before postwar pesticide use reversed decades of [[hamilton-beneficial-insects-and-biological-pest-control]].
 
-In Fukuoka's [[fukuoka-natural-orchard-development]], where he did not use strong pesticides, the
+In Fukuoka"s [[fukuoka-natural-orchard-development]], where he did not use strong pesticides, the
 cottony-cushion scale continued as before to serve as prey for several types of
 ladybugs. He saw almost no damage from this pest, demonstrating that the
 original biological control system was still functional wherever it had not been

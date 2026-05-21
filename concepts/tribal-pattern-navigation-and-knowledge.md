@@ -31,7 +31,7 @@ Traditional navigation integrated multiple sensory channels:
 
 Anne Cameron, in *Daughters of Copper Woman* (1981), documents the song navigation system of the Nootka Indians of British Columbia. Each destination had its own song:
 
-> "There was a song for goin' to China, and a song for goin' to Japan, a song for the big island and a song for the smaller one. All she had to know was the song and she knew where she was..."
+> "There was a song for goin" to China, and a song for goin' to Japan, a song for the big island and a song for the smaller one. All she had to know was the song and she knew where she was..."
 
 ### Song as Timing Mechanism
 

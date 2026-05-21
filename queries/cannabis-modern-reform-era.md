@@ -25,7 +25,7 @@ Continuation of [[cannabis-prohibition-history]]. Covers the War on Drugs, medic
 - **1970 — Shafer Commission:**
   Nixon appointed the National Commission on Marihuana and Drug Abuse.
   The 1972 report recommended decriminalization for personal possession.
-  Nixon rejected his own commission's findings.
+  Nixon rejected his own commission"s findings.
 
 - **1972-1973 — NORML founded:**
   The National Organization for the Reform of Marijuana Laws (NORML)

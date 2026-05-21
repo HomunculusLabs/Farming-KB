@@ -21,7 +21,7 @@ Fireblight is a devastating bacterial disease caused by *Erwinia amylovora* that
 
 ### Symptoms and Disease Progression
 - **Blossom blight**: Blossoms appear water-soaked, then wilt, turn brown to black
-- **Shoot blight**: Tips of shoots wilt and curl into a characteristic "shepherd's crook" shape
+- **Shoot blight**: Tips of shoots wilt and curl into a characteristic "shepherd"s crook" shape
 - **Canker formation**: Sunken, darkened areas on branches and trunk where bacteria overwinter
 - **Fruit infection**: Fruit becomes water-soaked, then dark, ooze (bacterial exudate) may appear
 - **Bark symptoms**: Blistered, sunken bark with amber/brown bacterial ooze in warm humid weather

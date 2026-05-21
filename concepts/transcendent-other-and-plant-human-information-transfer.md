@@ -11,13 +11,13 @@ sources:
 
 ## Transcendent Other and Plant-Human Information Transfer
 
-The concept of the "Transcendent Other" represents Terence McKenna's central hypothesis for understanding the role of psychoactive plants in human evolution and consciousness. Rather than viewing hallucinogens as mere intoxicants, McKenna proposed that certain plant compounds function as chemical messengers enabling information transfer across species boundaries — a process he called encountering the Transcendent Other.
+The concept of the "Transcendent Other" represents Terence McKenna"s central hypothesis for understanding the role of psychoactive plants in human evolution and consciousness. Rather than viewing hallucinogens as mere intoxicants, McKenna proposed that certain plant compounds function as chemical messengers enabling information transfer across species boundaries — a process he called encountering the Transcendent Other.
 
 ## The Information Transfer Hypothesis
 
 McKenna argued that if hallucinogens function as interspecies chemical messengers, then the dynamic between primate and hallucinogenic plant is one of information transfer from one species to another. Where plant hallucinogens do not occur, such transfers take place with great slowness. But in the presence of hallucinogens, a culture is quickly introduced to novel information, sensory input, and behavioral patterns, and is thereby "bootstrapped" to higher and higher states of self-reflection.
 
-This framework repositions psychoactive plants from recreational substances to evolutionary catalysts. The compounds are not merely altering brain chemistry temporarily — they are vectors for genuine information exchange between the plant kingdom and the primate mind. McKenna suggested that the early hominids' adoption of an omnivorous diet and their discovery of the power of certain plants were decisive factors in moving early humans out of the stream of animal evolution and into the fast-rising tide of language and culture.
+This framework repositions psychoactive plants from recreational substances to evolutionary catalysts. The compounds are not merely altering brain chemistry temporarily — they are vectors for genuine information exchange between the plant kingdom and the primate mind. McKenna suggested that the early hominids" adoption of an omnivorous diet and their discovery of the power of certain plants were decisive factors in moving early humans out of the stream of animal evolution and into the fast-rising tide of language and culture.
 
 ## Exopheromones: Chemical Communication Across Species
 
@@ -28,7 +28,7 @@ The notion that nature is an organismic, planetary whole that mediates and contr
 Three hypotheses exist for why plants produce [[tabernanthe-iboga]] is a forest plant with no documented use before the early 19th century. It is rarely found growing outside cultivation. The Bwiti religion of the Fang acquired iboga during a centuries-long migration involving proximity to Pygmy peoples.
 - [[tabernanthe-iboga]]. Analyzed sociologically, Bwiti serves as a force for group cohesion and for holding marriages together. Historically, divorce is a chronic source of group anxiety among the Fang. Perhaps iboga, as well as being a hallucinogen, activates a pheromone promoting pair bonding.
 
-The Fang believe they acquired this practice during a centuries-long migration involving proximity to Pygmy peoples. The root bark of the plant contains the psychoactive portion. According to the Fang, many grams of root material must be eaten to "open one's head," after which lesser amounts remain effective for the rest of a person's life. The plant became the first indole to come into vogue in Europe after being promoted at the Paris Exposition of 1867, sold as Lambarene, a cure for everything from neurasthenia to syphilis. The alkaloid ibogaine was isolated in 1901 but was quickly placed in Schedule I despite no evidence of danger or addiction.
+The Fang believe they acquired this practice during a centuries-long migration involving proximity to Pygmy peoples. The root bark of the plant contains the psychoactive portion. According to the Fang, many grams of root material must be eaten to "open one"s head," after which lesser amounts remain effective for the rest of a person"s life. The plant became the first indole to come into vogue in Europe after being promoted at the Paris Exposition of 1867, sold as Lambarene, a cure for everything from neurasthenia to syphilis. The alkaloid ibogaine was isolated in 1901 but was quickly placed in Schedule I despite no evidence of danger or addiction.
 
 ## The Gaian Dimension
 

@@ -13,7 +13,7 @@ Dr. Gautier was a French physician and author of "Les Champignons" (Paris, 1884)
 
 ### Atropine as Antidote
 
-Dr. Gautier's 1884 work addressed the use of atropine as both an antagonist to narcotic symptoms (similar to opium [[psilocybin-mushroom-poisoning-treatment]]) and as a specific antidote for muscarine — which he noted had not yet been perfectly isolated from Amanita muscarius at that time.
+Dr. Gautier"s 1884 work addressed the use of atropine as both an antagonist to narcotic symptoms (similar to opium [[psilocybin-mushroom-poisoning-treatment]]) and as a specific antidote for muscarine — which he noted had not yet been perfectly isolated from Amanita muscarius at that time.
 
 His experiments on animals studying the antagonism of atropine against the toxic elements of Amanita bulbosus (now A. citrina), Amanita muscarius, and related species produced negative results in animal models. However, he cautioned against dismissing atropine's efficacy in humans, recommending its trial in all cases where nervous symptoms were manifested, in doses of 0.002 to 3 milligrammes.
 
@@ -42,7 +42,7 @@ His recommended atropine dosage provided physicians with a concrete dosing range
 
 ## Broader Context in 19th-Century French Mycology
 
-Dr. Gautier's work emerged during a productive period in French mycological research. The 1880s saw simultaneous publication of several major works on [[mushroom-taxonomy-history]], toxicology, and pharmacology. His willingness to publish negative experimental results distinguished him from less rigorous contemporaries and contributed to a more honest scientific discourse about the limits of existing antidotes.
+Dr. Gautier"s work emerged during a productive period in French mycological research. The 1880s saw simultaneous publication of several major works on [[mushroom-taxonomy-history]], toxicology, and pharmacology. His willingness to publish negative experimental results distinguished him from less rigorous contemporaries and contributed to a more honest scientific discourse about the limits of existing antidotes.
 
 The French school of mycological toxicology, including Gautier, Sicard, and Cordier, placed greater emphasis on chemical analysis and pharmacological testing than their English and American counterparts. This tradition of experimental rigor, even when results were disappointing, laid groundwork for the systematic toxicology that would eventually characterize 20th-century mycology.
 
@@ -54,11 +54,11 @@ While Gautier's own experiments with atropine yielded negative results in animal
 
 Dr. Gautier embodied a philosophical approach to experimental pharmacology that valued honest reporting over positive results. His willingness to state that his experiments "furnished negative results only" — while still recommending clinical trials — reflected a nuanced understanding of the limitations of animal models. This position required intellectual courage in an era when negative results were often suppressed or reframed.
 
-His observation that atropine's failure in animal experiments "would be irrational" to extrapolate to human patients demonstrated an early appreciation for interspecies pharmacological differences — a concern that remains relevant in modern drug development.
+His observation that atropine"s failure in animal experiments "would be irrational" to extrapolate to human patients demonstrated an early appreciation for interspecies pharmacological differences — a concern that remains relevant in modern drug development.
 
 ## Connection to the Solanaceae Hypothesis
 
-Gautier's work, alongside that of Ott, Sicard, and others, contributed to the growing recognition that plants of the Solanaceae family shared a common pharmacological property relevant to mushroom poisoning treatment. The convergence of evidence from multiple independent researchers — working with different specific alkaloids but always from nightshade-family plants — was compelling even when individual experiments failed.
+Gautier"s work, alongside that of Ott, Sicard, and others, contributed to the growing recognition that plants of the Solanaceae family shared a common pharmacological property relevant to mushroom poisoning treatment. The convergence of evidence from multiple independent researchers — working with different specific alkaloids but always from nightshade-family plants — was compelling even when individual experiments failed.
 
 ## Legacy in Modern Toxicology
 

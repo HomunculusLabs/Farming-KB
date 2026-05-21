@@ -1,7 +1,7 @@
 ---
 title: Cordyceps Insect Pathogenic Fungi
 slug: cordyceps-insect-pathogenic-fungi
-source: Nicholas P. Money, Mr. Bloomfield's Orchard (2002)
+source: Nicholas P. Money, Mr. Bloomfield"s Orchard (2002)
 tags: [cordyceps, entomopathogenic, insect-pathogen, zombie-ants, parasitic-fungi, ascomycota, biological-control]
 ---
 

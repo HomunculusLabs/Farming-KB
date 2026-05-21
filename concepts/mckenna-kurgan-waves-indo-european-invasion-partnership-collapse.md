@@ -13,7 +13,7 @@ type: concept
 
 [[artillery-fungus-and-built-environment-fungi]] rather than fortifications or military installations.
 
-Gimbutas's reconstruction of Old European religion revealed a sophisticated symbolic system centered on the female body, natural cycles of birth and death, and the regeneration of life. The transition marked by the [[archaic-revival-partnership-vs-dominator-cultures]] are hierarchical, paternalistic, materialistic, and male-dominated. The tension between these organizational principles, and the overexpression of the dominator model, are responsible for alienation from nature, from ourselves, and from each other.
+Gimbutas"s reconstruction of Old European religion revealed a sophisticated symbolic system centered on the female body, natural cycles of birth and death, and the regeneration of life. The transition marked by the [[archaic-revival-partnership-vs-dominator-cultures]] are hierarchical, paternalistic, materialistic, and male-dominated. The tension between these organizational principles, and the overexpression of the dominator model, are responsible for alienation from nature, from ourselves, and from each other.
 
 Eisler's analysis showed that over vast areas and for many centuries, the partnership societies of the ancient Middle East existed without warfare. Warfare and patriarchy arrived together with the dominator values carried by the Kurgan invaders from the northern steppes.
 

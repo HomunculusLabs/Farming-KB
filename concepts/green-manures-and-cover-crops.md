@@ -14,7 +14,7 @@ Green manures and [[cover-crops]] are interchangeable terms for growing somethin
 
 If a plot of land is put to work growing as much biomass as possible during every day of the year that biomass will grow, and if almost all that biomass is recycled back into the land, then that bit of earth will maintain a relatively stable and high organic matter content. In that condition of maximum organic matter content, the soil will have good tilth and grow good crops.
 
-### The Garden's Problem
+### The Garden"s Problem
 
 In [[query-how-do-i-plan-and-start-a-vegetable-garden-from-scratch]], the opposite occurs. Just at the time when plants would be growing their fastest (midsummer), we harvest them, and the ground is left bare. By the time new plants are growing and their leaves form a "crop canopy" that thickly covers the ground, much of [[query-how-to-protect-plants-from-frost-and-extend-the-growing-season]] has already passed.
 
@@ -44,7 +44,7 @@ When a great deal of decomposition is going on in the soil, microorganisms breat
 
 ### The Spring Disaster Scenario
 
-Imagine: heavy soil, a thriving overwintered cover crop of rye grass or winter wheat, and a wet spring. You can't dig when the soil is too wet (you'll make a mess of clods). When the soil dries enough, the grass is waist-high and forming seeds. After digging it in, you face an additional 4-5 week wait. That land might not be ready to plant until your cool-weather crops for autumn.
+Imagine: heavy soil, a thriving overwintered cover crop of rye grass or winter wheat, and a wet spring. You can"t dig when the soil is too wet (you'll make a mess of clods). When the soil dries enough, the grass is waist-high and forming seeds. After digging it in, you face an additional 4-5 week wait. That land might not be ready to plant until your cool-weather crops for autumn.
 
 ### Allelopathy
 

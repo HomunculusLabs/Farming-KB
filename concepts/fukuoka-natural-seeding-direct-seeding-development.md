@@ -27,7 +27,7 @@ agricultural practice.
 
 ## Direct Seeding Experiments (1945)
 
-Fukuoka's formal direct-seeding experiments began in 1945, when he direct-seeded
+Fukuoka"s formal direct-seeding experiments began in 1945, when he direct-seeded
 rice onto plowed and flooded paddy fields in spring. He tested a range of sowing
 methods including drilling, straight rows, and broadcasting seed freely across
 the field surface.
@@ -69,7 +69,7 @@ that the same principles applied across many crop types.
 
 ## Development of No-Tillage Rice/Barley Succession
 
-The evolution of Fukuoka's method followed a clear trajectory of simplification.
+The evolution of Fukuoka"s method followed a clear trajectory of simplification.
 He progressed from high-ridge to low-ridge to level-field cultivation, and
 finally to no-tillage direct-seeding. Similarly, his seeding patterns evolved
 from single rows at eighteen-inch intervals to narrow rows six to eight inches
@@ -84,7 +84,7 @@ commitment:
 
 This was not an easy conclusion to reach. As Fukuoka acknowledged:
 > "Until I was fully convinced that the field does not have to be plowed or
-> worked, it took incredible resolve for me to say 'no-tillage.'"
+> worked, it took incredible resolve for me to say "no-tillage.'"
 
 The weight of centuries of agricultural tradition made the no-tillage position
 seem reckless. But decades of results vindicated his approach:

@@ -30,7 +30,7 @@ Beyond straw, Fukuoka used living mulches in the form of
 [[korean-natural-farming]], grass mulching is prescribed
 as a remedy for weeds, often combined with brown rice
 vinegar to help dwarf unwanted vegetation. KNF avoids
-mechanical tillage and relies instead on "Nature's
+mechanical tillage and relies instead on "Nature"s
 Tillers" such as earthworms and microorganisms working
 within the mulch layer.
 

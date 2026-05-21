@@ -13,7 +13,7 @@ human health is far greater than commonly appreciated.
 
 ## Daily Exposure
 
-Every day of a person's life, fungal spores pass into the nostrils and lungs.
+Every day of a person"s life, fungal spores pass into the nostrils and lungs.
 These spores are ubiquitous in the environment — present in soil, on decaying
 plant matter, in the air, and on surfaces. Given the opportunity, some of these
 spores may germinate and turn human tissue into food. The immune system normally

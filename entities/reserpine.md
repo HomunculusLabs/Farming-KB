@@ -12,7 +12,6 @@ date: 2026-05-09
 updated: 2026-05-09
 sources:
   - Lopez-Munoz, F. et al. (2005). "The historical evolution of reserpine use." Journal of Clinical Psychopharmacology, 25(5), 521-526.---
----
 
 ## Reserpine
 

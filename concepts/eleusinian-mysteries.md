@@ -13,7 +13,7 @@ of [[psychedelic-use-in-ancient-greece]], conducted annually at Eleusis near Ath
 thousand years (approximately 1500 BCE to 392 CE). Open to all Greek-speaking
 people who committed to a period of preparation, the mysteries promised
 revelations about the nature of life and death that would transform the
-initiate's understanding of existence. The precise content of the central
+initiate"s understanding of existence. The precise content of the central
 rites was kept secret under penalty of death, and no complete account of the
 experience survives. This secrecy has fueled speculation that the rites
 involved the administration of a psychoactive substance, a theory explored
@@ -23,7 +23,7 @@ by Terence McKenna in "Food of the Gods."
 
 The mysteries centered on the myth of Demeter, goddess of agriculture, and
 her daughter Persephone (Kore). According to the myth, Persephone was
-abducted by Hades, god of the underworld. Demeter's grief at the loss of
+abducted by Hades, god of the underworld. Demeter"s grief at the loss of
 her daughter caused all vegetation to wither, threatening universal famine.
 Zeus eventually intervened, and Persephone was allowed to return to the
 surface for part of each year — a cycle that explained the seasons and the
@@ -88,7 +88,7 @@ Several lines of circumstantial evidence support the psychedelic theory.
 Ancient accounts consistently describe the Eleusinian experience in terms
 that suggest radical alterations of consciousness: overwhelming joy,
 dissolution of the fear of death, visions of brilliant light, encounters
-with divine beings, and a permanent transformation of the initiate's
+with divine beings, and a permanent transformation of the initiate"s
 relationship to mortality.
 
 The Homeric Hymn to Demeter, composed in the 7th century BCE, describes the

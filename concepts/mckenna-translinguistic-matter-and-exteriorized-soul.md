@@ -24,7 +24,7 @@ critical transformation at what McKenna called a "psychedelic Bar
 Mitzvah."
 
 The idea integrates elements of information theory, eschatology, and
-psychedelic phenomenology into a singular vision of humanity's ultimate
+psychedelic phenomenology into a singular vision of humanity"s ultimate
 trajectory.
 
 ## The Nature of Translinguistic Matter
@@ -39,7 +39,7 @@ space, without the intermediary of spoken or written language.
 
 ## The Exteriorized Soul
 
-McKenna's vision of the "exteriorized soul" describes a future state in
+McKenna"s vision of the "exteriorized soul" describes a future state in
 which consciousness separates from the biological body.
 
 He framed this as "an effort to exteriorize the soul and internalize the

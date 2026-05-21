@@ -1,5 +1,5 @@
 ---
-title: Mr. Bloomfield's Orchard, Stinkhorn Fungi, and Spore Dispersal
+title: Mr. Bloomfield"s Orchard, Stinkhorn Fungi, and Spore Dispersal
 source: >-
   mr-bloomfields-orchard---the-mysterious-world-of-mushrooms-molds-and-mycologists.md
 source_author: Nicholas P. Money

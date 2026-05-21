@@ -1,5 +1,5 @@
 ---
-title: Metzner's Four Paradigms of Entheogenic Healing
+title: Metzner"s Four Paradigms of Entheogenic Healing
 created: 2026-04-28
 tags:
   - metzner
@@ -27,7 +27,7 @@ Ralph Metzner's 1998 framework identifies four distinct paradigms for the therap
 
 ## Terminology: Psychedelic, Hallucinogenic, and Entheogenic
 
-Metzner uses three terms interchangeably but notes their distinct etymologies and implications. "Psychedelic" (mind-manifesting) was coined by Humphrey Osmond and Aldous Huxley and popularized by Leary and the Harvard group. "Hallucinogenic" is the standard psychiatric research term; Metzner rehabilitates it by noting that the Latin alucinare means "to wander in one's mind," making it an appropriate metaphor for the inner journeying these substances facilitate, consistent with their colloquial characterization as "trips." "Entheogen," proposed by R. Gordon Wasson and Jonathan Ott, shares the root of "enthusiasm" and means "releasing or expressing the divine within."
+Metzner uses three terms interchangeably but notes their distinct etymologies and implications. "Psychedelic" (mind-manifesting) was coined by Humphrey Osmond and Aldous Huxley and popularized by Leary and the Harvard group. "Hallucinogenic" is the standard psychiatric research term; Metzner rehabilitates it by noting that the Latin alucinare means "to wander in one"s mind," making it an appropriate metaphor for the inner journeying these substances facilitate, consistent with their colloquial characterization as "trips." "Entheogen," proposed by R. Gordon Wasson and Jonathan Ott, shares the root of "enthusiasm" and means "releasing or expressing the divine within."
 
 ## Paradigm One: Western Psychotherapy
 
@@ -43,7 +43,7 @@ The psychedelic model involved one or a small number of high-dose sessions in wh
 
 ## The Radical Divide
 
-Metzner identifies two points where shamanic and hybrid paradigms diverge most radically from the Western worldview: (1) the existence of multiple realities exploitable in expanded states, and (2) the reality of spirits encountered in dreams and visions. He closes with William James's assertion that "no account of the universe in its totality can be final which leaves these other forms of consciousness quite disregarded."
+Metzner identifies two points where shamanic and hybrid paradigms diverge most radically from the Western worldview: (1) the existence of multiple realities exploitable in expanded states, and (2) the reality of spirits encountered in dreams and visions. He closes with William James"s assertion that "no account of the universe in its totality can be final which leaves these other forms of consciousness quite disregarded."
 
 ## Historical Development of Entheogenic Paradigms
 

@@ -31,7 +31,7 @@ and the crop.
 
 "Perhaps the politician and consumer think the ability of a smaller number of 
 workers to carry out [[natural-farming]], by contrast, relies primarily on solar energy captured through 
-photosynthesis and the biological activity of soil organisms. The farmer's 
+photosynthesis and the biological activity of soil organisms. The farmer"s 
 labor is applied to activities that enhance natural processes rather than 
 replace them. Mulching with straw returns organic matter to the soil, green 
 manure crops fix atmospheric nitrogen, and mixed planting reduces pest pressure 
@@ -41,9 +41,9 @@ without chemical intervention. The energy balance is overwhelmingly positive.
 
 Fukuoka's energy analysis extended beyond farming to questions of fundamental 
 human needs. Youths living in his orchard demonstrated that a person's minimum 
-daily calorie requirement is approximately 1,000 calories on a "hermit's diet" 
+daily calorie requirement is approximately 1,000 calories on a "hermit"s diet" 
 of brown rice with sesame seeds and salt, and 1,500 calories on brown rice and 
-vegetables. "This is enough to do a farmer's work, equivalent to about 
+vegetables. "This is enough to do a farmer"s work, equivalent to about 
 one-tenth of a horsepower."
 
 This finding has radical implications. If a human being can perform meaningful 
@@ -53,7 +53,7 @@ produce, process, transport, and retail food, represents a staggering
 inefficiency. The industrial system does not feed people more effectively than 
 [[natural-farming-methods-comparison]].
 
-"The reason India's farmers are so poor today is that they raised large numbers 
+"The reason India"s farmers are so poor today is that they raised large numbers 
 of cows and elephants which ate up all the grass, and dried and burned the 
 droppings as fuel." Such practices depleted soil fertility and reduced the 
 productivity of the land. The animals that appeared to be helping were actually 

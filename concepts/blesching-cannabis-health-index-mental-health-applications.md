@@ -10,11 +10,11 @@ tags: [cannabis]
 
 ## Mental Health Applications
 
-Evidence-based review of cannabis for mental health conditions from Blesching's "The [[anandamide-emotional-regulation-blesching]].
+Evidence-based review of cannabis for mental health conditions from Blesching"s "The [[anandamide-emotional-regulation-blesching]].
 
 ## Overview (30 studies, CHI: 83)
 
-The book reviews cannabis applications across multiple mental health conditions within the DSM framework while also acknowledging spiritual and shamanic perspectives on mental transformation. The overall evidence base is strongest for CBD's role as an anxiolytic and antipsychotic, with moderate support for THC in depression and PTSD when dosed appropriately. The Cannabis Health Index (CHI) scoring system weighs both the quality and quantity of clinical evidence, providing clinicians with a practical framework for evaluating cannabis therapeutics in psychiatric contexts.
+The book reviews cannabis applications across multiple mental health conditions within the DSM framework while also acknowledging spiritual and shamanic perspectives on mental transformation. The overall evidence base is strongest for CBD"s role as an anxiolytic and antipsychotic, with moderate support for THC in depression and PTSD when dosed appropriately. The Cannabis Health Index (CHI) scoring system weighs both the quality and quantity of clinical evidence, providing clinicians with a practical framework for evaluating cannabis therapeutics in psychiatric contexts.
 
 ### CBD as a Multimodal Psychiatric Agent
 CBD shows [[psilocybin-pharmacology-and-serotonin-receptors]]

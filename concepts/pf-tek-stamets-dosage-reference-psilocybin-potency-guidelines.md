@@ -6,7 +6,7 @@ tags:
 
 ## Overview
 
-The PF TEK booklet included edited excerpts from Paul Stamets'
+The PF TEK booklet included edited excerpts from Paul Stamets"
 "[[psylocybe-fanaticus]]. These recommendations
 established a widely referenced dosage framework for the amateur
 cultivation community, using [[psilocybe-azurescens]], P. cyanescens, and

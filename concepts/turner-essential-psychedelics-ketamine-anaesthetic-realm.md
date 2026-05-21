@@ -12,7 +12,7 @@ tags: [psychedelics]
 
 Turner dedicates a full chapter to [[ketamine-ultimate-psychedelic-journey]]
 Journey," rating its intensity at "10 -- Infinity." He calls it "the most
-intense, bizarre, and enjoyable psychedelic I've tried," a view shared by most
+intense, bizarre, and enjoyable psychedelic I"ve tried," a view shared by most
 of his experienced acquaintances.
 
 ## Nature and Clinical Background
@@ -40,7 +40,7 @@ earth.
 
 Key elements of the anaesthetic realm:
 
-- **Hyperspace immersion**: "I feel like I'm in hyperspace, simultaneously
+- **Hyperspace immersion**: "I feel like I"m in hyperspace, simultaneously
   connected to all things. Billions of images and perceptions are simultaneously
   flowing through my circuits."
 - **Fourth-dimensional freedom**: Not bound into three dimensions. Experiences

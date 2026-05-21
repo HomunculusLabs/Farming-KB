@@ -35,7 +35,7 @@ Solidago virgaurea has a broad native distribution across Europe, western Siberi
 
 ## Chemistry and Pharmacology
 
-European goldenrod contains a diverse array of bioactive [[permaculture-designers-manual-essential-oil-plants]] yields 0.1–0.5% from aerial parts, with alpha-pinene, germacrene D, and bicyclogermacrene as major components. The oil contributes to the herb's mild antimicrobial and anti-inflammatory properties.
+European goldenrod contains a diverse array of bioactive [[permaculture-designers-manual-essential-oil-plants]] yields 0.1–0.5% from aerial parts, with alpha-pinene, germacrene D, and bicyclogermacrene as major components. The oil contributes to the herb"s mild antimicrobial and anti-inflammatory properties.
 
 Commission E and ESCOP monographs support the use of European goldenrod preparations as irrigation therapy for [[staphylococcus-aureus]] has been reported. However, the clinical relevance of in vitro antimicrobial findings requires further investigation in human trials.
 

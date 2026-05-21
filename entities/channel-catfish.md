@@ -58,7 +58,7 @@ Mollison highlights channel catfish as a cornerstone species in freshwater aquac
 
 ## Sources
 
-- [[bill-mollison]], *Permaculture: A Designers' Manual*, Chapter 13
+- [[bill-mollison]], *Permaculture: A Designers" Manual*, Chapter 13
 - Swingle (1966), fish pond production data
 
 ## Design Considerations

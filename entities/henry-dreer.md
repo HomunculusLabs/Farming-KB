@@ -9,7 +9,7 @@ tags: [people, history, horticulture, 19th-century, market-gardening]
 
 ## Description
 
-Henry Dreer was a 19th-century American horticulturist, seedsman, and author known for his influential publications on vegetable growing under glass. He is quoted by [[eliot-coleman]] at the opening of the chapter on Year-Round Intensive Cropping in *The Winter Harvest Handbook*, serving as a philosophical touchstone for maximizing land productivity throughout all seasons. His 1896 admonition to "work the lazy garden" encapsulates the economic logic driving Coleman's entire [[winter-harvest-system]] and the "hidden farm" concept.
+Henry Dreer was a 19th-century American horticulturist, seedsman, and author known for his influential publications on vegetable growing under glass. He is quoted by [[eliot-coleman]] at the opening of the chapter on Year-Round Intensive Cropping in *The Winter Harvest Handbook*, serving as a philosophical touchstone for maximizing land productivity throughout all seasons. His 1896 admonition to "work the lazy garden" encapsulates the economic logic driving Coleman"s entire [[winter-harvest-system]] and the "hidden farm" concept.
 
 ## Classification
 
@@ -17,7 +17,7 @@ Henry Dreer was a 19th-century American horticulturist, seedsman, and author kno
 - **Type**: Horticulturist, seedsman, author, publisher
 - **Location**: Philadelphia, Pennsylvania
 - **Time period**: 19th century (active 1860s to 1890s)
-- **Business**: Henry Dreer, Inc. (Dreer's Seed Store), Philadelphia
+- **Business**: Henry Dreer, Inc. (Dreer"s Seed Store), Philadelphia
 
 ## Key Publication
 
@@ -29,7 +29,7 @@ Coleman quotes Dreer directly: **"Work the lazy garden. You pay rent for it all 
 
 ## Philosophical Influence
 
-Dreer's writing embodies the 19th-century American horticultural tradition that viewed intensive, year-round production as both economic imperative and moral virtue. His approach emphasized:
+Dreer"s writing embodies the 19th-century American horticultural tradition that viewed intensive, year-round production as both economic imperative and moral virtue. His approach emphasized:
 
 - Maximum productivity from every square foot of cultivated land and greenhouse space
 - Year-round production as the hallmark of skilled, professional horticulture

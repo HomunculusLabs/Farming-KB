@@ -8,7 +8,7 @@ type: entity
 
 ## Description
 
-The Franklin River is a major river in the Wilderness World Heritage Area of western Tasmania, Australia, renowned as one of Australia's last truly wild rivers and the centre of one of Australia's most significant environmental battles in the early 1980s. David Holmgren references it as an example of how wilderness areas at the "dynamic margin" become catalysts for environmental conflict and cultural transformation.
+The Franklin River is a major river in the Wilderness World Heritage Area of western Tasmania, Australia, renowned as one of Australia"s last truly wild rivers and the centre of one of Australia's most significant environmental battles in the early 1980s. David Holmgren references it as an example of how wilderness areas at the "dynamic margin" become catalysts for environmental conflict and cultural transformation.
 
 ## Background and Classification
 

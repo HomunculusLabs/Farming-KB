@@ -49,7 +49,7 @@ what animals you can keep, and whether you can sell products from your property.
 ### Key Zoning Concepts
 
 - **Setbacks**: Minimum distances from property lines for buildings, wells, septic systems, and animal enclosures (typically 25–100 ft)
-- **Conditional Use Permit (CUP)**: Required when your intended use doesn't match the zone. Requires public hearing, fees ($200–$2,000), neighbor notification
+- **Conditional Use Permit (CUP)**: Required when your intended use doesn"t match the zone. Requires public hearing, fees ($200–$2,000), neighbor notification
 - **Variance**: Request to deviate from a specific requirement. Must prove hardship
 - **Non-Conforming Use**: If you legally kept animals before zoning changed, you may be grandfathered — but check if the use can continue after renovations
 
@@ -58,7 +58,7 @@ what animals you can keep, and whether you can sell products from your property.
 1. Search "[Your County] zoning map GIS" — most counties have online interactive maps
 2. Call the county planning/zoning department
 3. Read the full zoning ordinance (not just the summary)
-4. **Before buying land**, verify zoning allows your intended use. Don't rely on the realtor's word
+4. **Before buying land**, verify zoning allows your intended use. Don"t rely on the realtor's word
 
 ## Livestock Regulations
 
@@ -84,7 +84,7 @@ what animals you can keep, and whether you can sell products from your property.
 ### Eastern States (Riparian Rights)
 
 - Water belongs to whoever owns land adjacent to a waterway
-- "Reasonable use" doctrine — can't unreasonably deprive downstream neighbors
+- "Reasonable use" doctrine — can"t unreasonably deprive downstream neighbors
 - Groundwater generally governed by rule of capture
 - Some eastern states moving toward permitting systems for large withdrawals
 

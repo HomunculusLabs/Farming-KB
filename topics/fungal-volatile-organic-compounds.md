@@ -44,7 +44,7 @@ Fungi emit various nitrogenous volatiles including ammonia, indole, 2-methylprop
 
 ### Secondary Metabolism-Derived FVOCs
 
-Terpenoid FVOCs are synthesized by terpene synthases and [[cultivar-endorhiza-bacterial-communities-cannabis]] shaped in part by FVOCs. Volatile signals from *Fusarium oxysporum* attract migratory bacteria of the genus *Collimonas*, which feed on living fungal hyphae (mycophagy). This represents a remarkable case of a predator being attracted to its prey's chemical signature.
+Terpenoid FVOCs are synthesized by terpene synthases and [[cultivar-endorhiza-bacterial-communities-cannabis]] shaped in part by FVOCs. Volatile signals from *Fusarium oxysporum* attract migratory bacteria of the genus *Collimonas*, which feed on living fungal hyphae (mycophagy). This represents a remarkable case of a predator being attracted to its prey"s chemical signature.
 
 In contrast, some FVOCs are bactericidal. Benzaldehyde, 2-nonanone, and various terpenes produced by fungi inhibit bacterial growth and can selectively filter the bacterial community. Certain *Streptomyces* species, in turn, produce volatile geosmin (trans-1,10-dimethyl-trans-9-decalol), the compound responsible for "petrichor" (the smell of rain on dry earth), which can influence fungal morphogenesis and sporulation.
 

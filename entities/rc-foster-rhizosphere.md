@@ -7,7 +7,7 @@ tags: [researcher, soil-science, rhizosphere, glomalin, australia]
 
 ## Description
 
-R.C. Foster is an Australian soil scientist and author of "The Ultrastructure of the Rhizosphere," a foundational text on the microscopic structure of the root-soil interface. Foster's electron microscopy work documented the sticky compounds produced by soil microorganisms at root surfaces — materials later termed "glomalin" — decades before the glomalin concept was formally established.
+R.C. Foster is an Australian soil scientist and author of "The Ultrastructure of the Rhizosphere," a foundational text on the microscopic structure of the root-soil interface. Foster"s electron microscopy work documented the sticky compounds produced by soil microorganisms at root surfaces — materials later termed "glomalin" — decades before the glomalin concept was formally established.
 
 ## Classification
 
@@ -20,8 +20,8 @@ R.C. Foster is an Australian soil scientist and author of "The Ultrastructure of
 
 - Authored **"The Ultrastructure of the Rhizosphere"**, a landmark publication on the fine-scale structure of the root-soil-microbe interface
 - Used electron microscopy to observe and document sticky, glue-like substances surrounding roots and soil particles — now recognized as what we call glomalin
-- Foster's work **predates** the formal naming of glomalin by decades, making him a pioneer in recognizing the importance of microbial "glues" in soil aggregation
-- His research was conducted in Australia, contributing to that country's strong tradition in soil biology and rhizosphere science
+- Foster"s work **predates** the formal naming of glomalin by decades, making him a pioneer in recognizing the importance of microbial "glues" in soil aggregation
+- His research was conducted in Australia, contributing to that country"s strong tradition in soil biology and rhizosphere science
 - Cited by Dr. Elaine Ingham as evidence that glomalin is "the tip of the iceberg" in terms of understanding sticky compounds in soil
 
 ## The Ultrastructure of the Rhizosphere
@@ -35,7 +35,7 @@ This work used transmission and scanning electron microscopy to reveal the compl
 
 ## Relevance to Cultivation and Mycology
 
-- Foster's documentation of microbial glues in the rhizosphere provides the structural basis for understanding how soil aggregates form and stabilize
+- Foster"s documentation of microbial glues in the rhizosphere provides the structural basis for understanding how soil aggregates form and stabilize
 - [[contamination-prevention-in-mushroom-cultivation]], understanding rhizosphere dynamics is relevant to the interaction between [[mollison-designers-mycorrhizal-fungi-and-soil-microbiology]] host plants
 - The ultrastructure perspective helps explain why [[microbial-inoculants-and-biological-soil-amendments]] (compost, compost tea) improve soil tilth — they introduce organisms that produce the binding compounds Foster documented
 - His work underscores that soil structure is biologically generated, not merely a physical or chemical phenomenon

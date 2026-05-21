@@ -13,7 +13,7 @@ Phytochrome is a photoreceptor pigment in plants that mediates responses to red 
 
 ### The Night-Break Experiments
 
-Following Garner and Allard's discovery, scientists around World War II made another critical finding: they could manipulate flowering by briefly turning lights on and off during the night. A short-day plant like soybean could be kept from flowering during naturally short autumn days if lights were turned on for just a few minutes in the middle of the night. Conversely, a long-day plant like iris could be induced to flower in winter if given a brief light pulse during the night.
+Following Garner and Allard"s discovery, scientists around World War II made another critical finding: they could manipulate flowering by briefly turning lights on and off during the night. A short-day plant like soybean could be kept from flowering during naturally short autumn days if lights were turned on for just a few minutes in the middle of the night. Conversely, a long-day plant like iris could be induced to flower in winter if given a brief light pulse during the night.
 
 This proved that plants measure not the length of the day but the length of the **continuous period of darkness**. A momentary flash of light during the night resets the plant's [[mollison-designers-day-length-and-flowering-response]] to day length. This classification reflects the evolutionary adaptation of different species to specific latitudes [[query-how-to-protect-plants-from-frost-and-extend-the-growing-season]] provides sufficient time for seed maturation.
 

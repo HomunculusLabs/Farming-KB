@@ -11,7 +11,6 @@ date: 2026-05-08
 updated: 2026-05-08
 sources:
   - USDA NRCS (2024). "Elodea canadensis Michx." PLANTS Database.---
----
 
 ## Overview
 

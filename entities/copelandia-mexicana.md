@@ -7,7 +7,7 @@ tags: [fungi, basidiomycota, agaricales, strophariaceae,
   coprophilous, tropical]
 date: 2026-04-28
 updated: 2026-04-28
-sources: ['papers/savory-holistic-resource-management.md']
+sources: ["papers/savory-holistic-resource-management.md']
   - "raw/papers/magic-mushrooms-around-the-world-gartz.md"
 ---
 ## Copelandia mexicana

@@ -15,7 +15,7 @@ preparation. Seeds are encased in balls of clay and sometimes compost or topsoil
 then broadcast over fields, roadsides, and even barren landscapes. The clay
 protects seeds from predation by birds, rodents, and insects while retaining
 moisture until rainfall triggers germination. This technique is central to
-Fukuoka's "do-nothing" natural [[fukuoka-desert-reclamation-projects]] projects worldwide.
+Fukuoka"s "do-nothing" natural [[fukuoka-desert-reclamation-projects]] projects worldwide.
 
 ## Principles and Purpose
 

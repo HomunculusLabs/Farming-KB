@@ -14,7 +14,7 @@ In the Tibetan tradition, the "Hosts of Mara" represent all the defenses the ego
 
 Mara is not merely an external demon but the internal mechanism of resistance to truth.
 
-The historical Buddha's struggle with Mara under the Bodhi tree is the archetypal model of this confrontation.
+The historical Buddha"s struggle with Mara under the Bodhi tree is the archetypal model of this confrontation.
 
 ## Classification
 
@@ -33,7 +33,7 @@ The historical Buddha's struggle with Mara under the Bodhi tree is the archetypa
 
 4. Mara appears in four forms: Skandha-mara (aggregate), Klesha-mara (defilement), Mrtyu-mara (death), and Devaputra-mara (son of gods).
 
-5. In the [[bardo-thodol]], the Hosts of Mara represent the ego's desperate attempts to reconstitute itself during ego-dissolution.
+5. In the [[bardo-thodol]], the Hosts of Mara represent the ego"s desperate attempts to reconstitute itself during ego-dissolution.
 
 6. The [[leary-psychedelic-experience-bardo-mapping]] directly confronts the voyager with Mara — the terror and resistance that accompany ego-loss.
 
@@ -43,7 +43,7 @@ The historical Buddha's struggle with Mara under the Bodhi tree is the archetypa
 
 9. Mara is ultimately not an enemy to be defeated but an illusion to be seen through.
 
-10. Recognition of Mara's nature — that the resistance is self-generated — is itself the beginning of liberation.
+10. Recognition of Mara"s nature — that the resistance is self-generated — is itself the beginning of liberation.
 
 ## The Four Maras
 
@@ -69,7 +69,7 @@ In *The Psychedelic Experience*, Mara represents the psychological resistance th
 
 The fear, panic, and desperate desire to "hold on" during a psychedelic peak are manifestations of Mara.
 
-The manual instructs practitioners to recognize these resistances as Mara's illusions and not be deceived by them.
+The manual instructs practitioners to recognize these resistances as Mara"s illusions and not be deceived by them.
 
 This reframes the "bad trip" phenomenon as a natural — and navigable — encounter with the ego's [[plant-defense-mechanisms]].
 

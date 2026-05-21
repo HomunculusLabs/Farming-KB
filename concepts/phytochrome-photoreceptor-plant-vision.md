@@ -17,7 +17,7 @@ created: 2026-05-09
 Plants perceive light in ways that are both remarkably similar to and fundamentally
 different from animal vision. As [[roger-heim-scientific-study-psilocybin]] of plant [[phototropism-darwin-plant-light-sensing]] and response are separate processes in plants — a principle
 that parallels the separation of sensory input and motor output in animal
-nervous systems. Darwin's work laid the foundation for all subsequent research
+nervous systems. Darwin"s work laid the foundation for all subsequent research
 into plant photoreception, including the discovery of specific photoreceptor
 proteins. See also [[photoperiodism-flowering-plants]],
 as phytochrome proved to be the photoreceptor mediating day-length responses.

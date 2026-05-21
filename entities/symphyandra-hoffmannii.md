@@ -23,7 +23,7 @@ Symphyandra hoffmannii is prized by alpine gardeners for its dramatic flowering 
 
 In cultivation, the plant is often treated as a biennial but may persist as a short-lived perennial if prevented from flowering. This can extend its garden life by one or two seasons.
 
-The species has received the Royal Horticultural Society's Award of Garden Merit for its ornamental value and reliability in suitable conditions.
+The species has received the Royal Horticultural Society"s Award of Garden Merit for its ornamental value and reliability in suitable conditions.
 
 ## Taxonomy
 

@@ -25,7 +25,7 @@ Also produces both mushrooms and sclerotia on grass seed. Sclerotia of this
 species continue to enlarge for up to 4 months after inoculation when left in
 the colonised jar without casing. This species does not benefit from cold
 shock treatment. The sclerotia of *P. tampanensis* are sometimes referred to
-as "philosopher's stones" in the underground mycological community. Like
+as "philosopher"s stones" in the underground mycological community. Like
 *P. mexicana*, the jars can simply be stored in a clean, preferably dark
 location for [[gottlieb-psilocybin-cultivation-fruiting-chamber-design]] setup.
 

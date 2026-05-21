@@ -10,8 +10,8 @@ date: 2026-05-09
 updated: 2026-05-09
 sources:
   -Hegnauer R. (1973). "Chemotaxonomie der Pflanzen." Birkhäuser.
-  -Scholz H. (1996). "Scopolia carniolica." In: Mansfeld's Encyclopedia of Agricultural and Horticultural Crops.
-  -Evans W.C. (2009). "Trease and Evans' Pharmacognosy." Elsevier.
+  -Scholz H. (1996). "Scopolia carniolica." In: Mansfeld"s Encyclopedia of Agricultural and Horticultural Crops.
+  -Evans W.C. (2009). "Trease and Evans" Pharmacognosy." Elsevier.
   -Frohne D., Pfänder H.J. (2005). "Poisonous Plants." Timber Press.
 ---
 

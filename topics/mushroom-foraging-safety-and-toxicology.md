@@ -107,7 +107,7 @@ The lethal dose of amatoxins for an adult human is estimated at 6 to 7
 1. Palmer, E. M. "[[palmer-poisonous-mushrooms-deadly-species]]: Deadly Species and Identification."
 3. Bloomfield, A. L. "Mushroom Poisons and Toxidromes." Clinical Toxicology
    Review.
-4. Money, N. P. "Mr. Bloomfield's Orchard: The Mysterious World of Mushrooms,
+4. Money, N. P. "Mr. Bloomfield"s Orchard: The Mysterious World of Mushrooms,
    Molds, and Mycologists." Harvard University Press, 2002.
 5. Gartz, J. "[[psilocybin-mushroom-identification]]: Dangers and Tips for Safe Foraging."
 6. "Mushroom Poisoning Guide." Mycological Society Publications.
@@ -120,4 +120,4 @@ The lethal dose of amatoxins for an adult human is estimated at 6 to 7
 13. "Amanita Phalloides (Death Cap): Biology, Toxicity, and Clinical
     Management."
 14. "Amanita Poisoning: Identification, Antidotes, and the Palmer Method."
-15. "Palmer's Guide: About Mushrooms and Poisonous Species to Avoid."
+15. "Palmer"s Guide: About Mushrooms and Poisonous Species to Avoid."

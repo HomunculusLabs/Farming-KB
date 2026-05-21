@@ -2,7 +2,7 @@
 title: "Zombie Kush"
 type: entity
 tags: []
-sources: ['raw/papers/working-with-agar.md']
+sources: ["raw/papers/working-with-agar.md']
 ---
 
 The name reflects its powerful sedative properties — users report feeling "couch-

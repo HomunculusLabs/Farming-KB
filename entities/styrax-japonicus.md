@@ -29,7 +29,7 @@ The species is monoecious, with both male and female reproductive structures pre
 
 **Kingdom:** Plantae · **Clade:** Angiosperms · **Clade:** Eudicots · **Order:** Ericales · **Family:** Styracaceae · **Genus:** *Styrax* · **Species:** *S. japonicus*
 
-Authority: Siebold & Zucc. (1837). Several cultivars have been selected for ornamental traits including pink-flushed flowers and weeping habit. Notable cultivars include 'Pink Chimes', 'Emerald Pagoda', and 'Carillon'.
+Authority: Siebold & Zucc. (1837). Several cultivars have been selected for ornamental traits including pink-flushed flowers and weeping habit. Notable cultivars include "Pink Chimes', 'Emerald Pagoda', and 'Carillon'.
 
 Leaves are alternate, elliptic to ovate, 4–9 cm long and 2–5 cm broad, with a finely serrated margin. The upper surface is glossy dark green and glabrous; the lower surface is paler with sparse pubescence along the midrib. Fall color is yellow, sometimes with tints of red.
 

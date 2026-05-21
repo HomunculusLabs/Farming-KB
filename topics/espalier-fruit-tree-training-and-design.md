@@ -24,7 +24,7 @@ serve practical and aesthetic purposes in gardens ranging from
 balconies to grand estates.
 
 The fundamental principle behind espalier is the manipulation of a
-tree's natural apical dominance and hormonal growth patterns. By
+tree"s natural apical dominance and hormonal growth patterns. By
 removing the central leader and training lateral branches into
 horizontal positions, the grower redirects the tree's energy from
 vertical extension into lateral fruiting spur production. Horizontal

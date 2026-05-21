@@ -51,7 +51,7 @@ Brucine demonstrates significant anti-inflammatory and analgesic effects in mult
 
 ### Neuroprotective Effects
 
-Unlike strychnine, which is purely neurotoxic at pharmacological doses, brucine has shown neuroprotective properties in certain experimental contexts. It attenuates neuronal apoptosis and oxidative damage in models of cerebral ischemia-reperfusion injury and reduces neuroinflammation in models of Parkinson's disease. These paradoxical effects are thought to result from anti-inflammatory and antioxidant mechanisms that operate independently of GlyR antagonism, potentially via Nrf2 pathway activation.
+Unlike strychnine, which is purely neurotoxic at pharmacological doses, brucine has shown neuroprotective properties in certain experimental contexts. It attenuates neuronal apoptosis and oxidative damage in models of cerebral ischemia-reperfusion injury and reduces neuroinflammation in models of Parkinson"s disease. These paradoxical effects are thought to result from anti-inflammatory and antioxidant mechanisms that operate independently of GlyR antagonism, potentially via Nrf2 pathway activation.
 
 ### Other Activities
 

@@ -10,7 +10,7 @@ The microbial makeup of [[compost]] is not random — it can be deliberately ste
 
 ## Why Microbial Balance Matters
 
-Different plants thrive with different microbial communities. Trees, shrubs, and perennials generally prefer fungal-dominated soils, while annual vegetables, flowers, and lawns do best with bacterial dominance. By adjusting your compost recipe, you can produce an inoculant tailored to the plants you're growing.
+Different plants thrive with different microbial communities. Trees, shrubs, and perennials generally prefer fungal-dominated soils, while annual vegetables, flowers, and lawns do best with bacterial dominance. By adjusting your compost recipe, you can produce an inoculant tailored to the plants you"re growing.
 
 ## Manipulating Fungal vs Bacterial Dominance
 

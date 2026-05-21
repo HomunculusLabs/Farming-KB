@@ -25,7 +25,7 @@ hallucinogenic classes.
 
 The core linguistic phenomenon of the [[mckenna-cognitive-dissonance-translinguistic-object]]
 arises in the "hindbrain" — we instinctively attempt to pour language
-over it, but "it sheds it like water off a duck's back." This creates a
+over it, but "it sheds it like water off a duck"s back." This creates a
 cycle of failed comprehension that generates wonder, astonishment, and
 "awe at the brink of terror."
 
@@ -47,7 +47,7 @@ exploratory:
   complexes of transforming light and color"
 - This is a learned skill within the tryptamine state, not an
   automatic effect
-- The entities encourage this practice: "Don't get a loop of wonder
+- The entities encourage this practice: "Don"t get a loop of wonder
   going that quenches your ability to understand. Try not to be so
   amazed. Try to focus."
 

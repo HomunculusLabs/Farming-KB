@@ -19,7 +19,7 @@ Both are skills of sophisticated design that can result in specific strategies, 
 
 ## The Problem of Rectilinear Patterning
 
-A bird's-eye view of centralized societies reveals strictly rectilinear networks of streets, farms, and property boundaries. Mollison argues this pattern serves survey instruments rather than human or environmental needs. The consequences are severe:
+A bird"s-eye view of centralized societies reveals strictly rectilinear networks of streets, farms, and property boundaries. Mollison argues this pattern serves survey instruments rather than human or environmental needs. The consequences are severe:
 
 - **Straight-line patterns prevent sensible landscape planning strategies**
 - **Neither aesthetically nor functionally satisfactory** landscapes result
@@ -101,7 +101,7 @@ Mollison argues that tribal peoples can only be called "illiterate" if we ignore
 - **Children** are taught hundreds of simple chants with hidden secondary meanings about medicine, sacred knowledge, and navigation
 - **Initiation** provides the decoding system that unlocks deeper meaning in patterns
 - **Dances** carry long-term messages through muscular memory, coupled with chants
-- **Animal-imitation dances** interpret species' postural meanings in universally transmittable ways
+- **Animal-imitation dances** interpret species" postural meanings in universally transmittable ways
 - Many formal attitudes of **prayer and submission** are basic imitations of primate postures
 
 ## The Loss of Pattern Learning

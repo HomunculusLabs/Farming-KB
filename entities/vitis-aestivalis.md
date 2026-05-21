@@ -35,7 +35,7 @@ The species can tolerate partial shade but produces best fruit in full sun. It i
 
 ## Cultivation and Uses
 
-The most commercially important cultivar is **'Norton'** (also known as 'Cynthiana'), a V. aestivalis selection that produces award-winning dry red wines. Norton is the state grape of Missouri and the foundation of the Missouri wine industry.
+The most commercially important cultivar is **"Norton'** (also known as 'Cynthiana'), a V. aestivalis selection that produces award-winning dry red wines. Norton is the state grape of Missouri and the foundation of the Missouri wine industry.
 
 Other notable cultivars include 'Bacon' and several hybrids bred at the University of Minnesota. These selections combine the disease resistance of V. aestivalis with improved [[cervantes-powdery-mildew-prevention-treatment]] are highly valued traits.
 

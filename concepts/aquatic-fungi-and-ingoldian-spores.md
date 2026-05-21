@@ -24,7 +24,7 @@ sources:
 
 Aquatic fungi are a diverse group of decomposer organisms that live and reproduce in freshwater habitats. The most famous are the Ingoldian hyphomycetes, whose spectacularly shaped spores were discovered by C.T. Ingold in 1938 and revolutionized understanding of fungal diversity in water ecosystems.
 
-## Ingold's Discovery
+## Ingold"s Discovery
 
 Cecil Terence Ingold, a young professor at Leicester University, found extraordinary spores in foam collecting in "a little, alder-lined, babbling brook" near his home in 1938. After months of research he concluded the spores were formed by a hitherto unknown group of aquatic fungi instrumental in leaf [[decomposition]]. When he presented his findings to the [[british-mycological-society]], a colleague from Cambridge dismissed them as hairs from plant leaves. Sixty years later, more than 300 species of Ingoldian fungi have been identified, with over 1,000 scientific publications (Money, 2002).
 

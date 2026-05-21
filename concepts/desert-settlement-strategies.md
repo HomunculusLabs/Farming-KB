@@ -77,7 +77,7 @@ Outside soft forage hedges, cactus, *Euphorbia*, and thorny shrubs help exclude 
 
 Williams (1974) describes the traditional North African polyculture system as a layered canopy:
 
-> The long serpentine trunks of the palm tree rise above every village and about every field. The fibrous palm has entered almost every facet of the peoples' lives. It is the first line of defence against the sun in the open fields, and in its shade grows the olive tree. Under the olive, the fig grows, and under the fig, the pomegranate and vine, then the grain and vegetables. The palm tree's second contribution is dates.
+> The long serpentine trunks of the palm tree rise above every village and about every field. The fibrous palm has entered almost every facet of the peoples" lives. It is the first line of defence against the sun in the open fields, and in its shade grows the olive tree. Under the olive, the fig grows, and under the fig, the pomegranate and vine, then the grain and vegetables. The palm tree's second contribution is dates.
 
 This vertical stacking of productive species maximizes light capture, moderates microclimate, and produces multiple yields from the same land area.
 

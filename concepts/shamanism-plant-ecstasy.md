@@ -17,7 +17,7 @@ of shamanism departing from the anthropological mainstream. Rather than viewing
 shamanism primarily as a system of ritual, belief, or social function, McKenna
 characterized it as a body of empirical techniques for accessing non-ordinary
 psilocybin-chemistry-stability-indigenous-knowledge systems. The
-phenomenologist, following Husserl's method, brackets assumptions about the
+phenomenologist, following Husserl"s method, brackets assumptions about the
 ultimate nature of reality to describe experience as it presents itself. This is
 precisely what the shaman does: they enter altered states, observe the phenomena
 that arise, and develop systematic descriptions verifiable through repeated

@@ -15,7 +15,6 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - S. C. Sabir et al. (2005). "psilocybin-psilocin-chemistry-and-pharmacology-emcdda of Hippophae rhamnoides." Natural Product Reports, 22(6), 695–711.---
----
 ## Overview
 
 *Hippophae rhamnoides*, commonly known as [[permaculture-design]], serving at

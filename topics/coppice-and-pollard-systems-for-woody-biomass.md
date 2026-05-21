@@ -27,7 +27,7 @@ By the medieval period, [[coppice-management-permaculture]] was the backbone of 
 - **Tannins** from oak and chestnut bark for leather curing
 - **Fodder** — pollarded tree leaves fed to livestock in winter
 
-The Domesday Book (1086) records extensive coppice management across England. Customary law governed cutting cycles, species selection, and commoners' rights.
+The Domesday Book (1086) records extensive coppice management across England. Customary law governed cutting cycles, species selection, and commoners" rights.
 
 ### Worldwide Traditions
 

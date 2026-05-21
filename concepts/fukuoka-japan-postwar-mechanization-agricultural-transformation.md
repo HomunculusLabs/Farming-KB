@@ -5,7 +5,7 @@ tags: [fukuoka, natural-farming, japan, mechanization, postwar, agricultural-pol
 created: 2026-05-11
 ---
 
-## Japan's Postwar Mechanization: The Agricultural Transformation That Fueled Industrialization
+## Japan"s Postwar Mechanization: The Agricultural Transformation That Fueled Industrialization
 
 [[masanobu-fukuoka]] provides a farmer's-eye view of Japan's postwar economic
 miracle—one that reveals the agricultural roots of industrialization and the
@@ -19,7 +19,7 @@ to become a major economic power." Fukuoka attributes this transformation
 not to wise leadership or good fortune, but to the systematic extraction of
 labor from the farming population.
 
-The statistics are stark: Japan's farming and fishing populations—"the
+The statistics are stark: Japan"s farming and fishing populations—"the
 seedbed of the Japanese people"—fell from fifty percent of the overall
 population at the end of the war to less than twenty percent. "Without the
 help of the dexterous, hard-working farmer, the skyscrapers, highways, and
@@ -55,7 +55,7 @@ the industrial world. This is where things stood in the mid-1950s."
 By the late sixties and early seventies, "stability of food supply had been
 achieved for the most part and the economy was overflowing with vigor." Now
 farmers became a liability rather than an asset. "Once food surpluses started
-to arise, the farmers became a weight around the government's neck."
+to arise, the farmers became a weight around the government"s neck."
 
 ## The Basic Agriculture Law of 1961
 
@@ -69,7 +69,7 @@ housing than for food production; city dwellers even began to see farmers,
 who were reluctant to part with their land, as selfish monopolizers of land."
 Taxes as high as those on housing land were levied on farmland.
 
-## The Farmer's Noose
+## The Farmer"s Noose
 
 Fukuoka's farmer's interpretation of Japan's growth is devastating: "Changes
 in the self-image of the farming population led to the adoption of new
@@ -87,9 +87,9 @@ wearing away his body and mind."
 
 ## The Result: Impoverished Agriculture
 
-By the time Fukuoka writes, Japan's food self-sufficiency has dropped below
+By the time Fukuoka writes, Japan"s food self-sufficiency has dropped below
 thirty percent. "Farmers have simply gone with the flow of the times. Today,
-most of them lament that they can't make a decent living off farming." The
+most of them lament that they can"t make a decent living off farming." The
 farmer who was the foundation of Japan's economic miracle has become its
 casualty—displaced from the land, dependent on chemical inputs he cannot
 afford, and unable to speak up because the nation believes the farmland

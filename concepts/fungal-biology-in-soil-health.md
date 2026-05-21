@@ -6,7 +6,7 @@ type: concept
 
 ## Fungal Biology in Soil Health
 
-> Key insights from [[elaine-ingham]]'s [[compost-tea-guide]] on the roles fungi play in soil ecosystems, plant protection, [[mollison-designers-fish-pond-fertiliser-and-nutrient-cycling]].
+> Key insights from [[elaine-ingham]]"s [[compost-tea-guide]] on the roles fungi play in soil ecosystems, plant protection, [[mollison-designers-fish-pond-fertiliser-and-nutrient-cycling]].
 
 ## Overview
 
@@ -60,7 +60,7 @@ Ingham emphasizes that **adding calcium to soil is futile unless the soil biolog
 - **Without adequate fungal biomass and the associated predator/prey cycling, applied calcium simply washes away**
 - Mycorrhizal hyphae in particular act as conduits, delivering calcium directly to plant roots from soil micropores otherwise inaccessible to the plant
 
-This creates a chicken-and-egg problem for degraded soils: calcium amendments won't stick without biology, and biology may struggle without adequate calcium. The solution is to restore the full foodweb simultaneously — compost tea applications provide both the biology and the biological infrastructure to retain nutrients.
+This creates a chicken-and-egg problem for degraded soils: calcium amendments won"t stick without biology, and biology may struggle without adequate calcium. The solution is to restore the full foodweb simultaneously — compost tea applications provide both the biology and the biological infrastructure to retain nutrients.
 
 ## Yeasts and Molds: Clarifying Terminology
 
@@ -82,7 +82,7 @@ Terpenes are [[chamovitz-plant-scent-communication-volatile-organic-compounds]] 
 
 Phenolics are a broad class of aromatic compounds that inhibit microbial activity and slow decomposition of plant residues.
 
-### Decomposition Timeline and Compost Tea's Role
+### Decomposition Timeline and Compost Tea"s Role
 
 - These compounds require **4 or more weeks to volatize and break down** through natural processes
 - **Compost tea with good fungal diversity can significantly accelerate decomposition** of tannins, terpenes, and phenolics

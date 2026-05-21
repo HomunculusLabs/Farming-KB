@@ -12,7 +12,7 @@ The Third Bardo, called the *[[sidpa-bardo]]* in the Tibetan tradition, is the f
 
 ## Entry into the Third Bardo
 
-If, during the Second Bardo, the voyager becomes attracted to or frightened by any of the archetypal visions — the peaceful deities, the knowledge-holding figures, or the wrathful nightmares — they will lose recognition that these are self-generated thought-forms. This failure propels them into the Third Bardo. The key transition is the collapse of the understanding that *all visions are one's own mind*, replaced by the conviction that the hallucinated content is external, real, and threatening.
+If, during the Second Bardo, the voyager becomes attracted to or frightened by any of the archetypal visions — the peaceful deities, the knowledge-holding figures, or the wrathful nightmares — they will lose recognition that these are self-generated thought-forms. This failure propels them into the Third Bardo. The key transition is the collapse of the understanding that *all visions are one"s own mind*, replaced by the conviction that the hallucinated content is external, real, and threatening.
 
 The Tibetans estimate that approximately 50% of the entire psychedelic experience is spent in the Third Bardo by most normal people. In some cases, an unprepared or frightened person may skip the first two Bardos entirely and move straight to re-entry, spending the entire session struggling with ego-restoration.
 
@@ -38,7 +38,7 @@ These are distinguished from the wrathful visions of the Second Bardo in that th
 The first impulse is to flee in panic. The voyager may plead for antidotes or tranquilizers. These visions symbolize the "evil passions" that enslave mankind to game-networks: anger, lust, stupidity, pride, jealousy, and control-power.
 
 ### 3. Restless, Unhappy Wandering
-The person feels driven by "winds of karma" or shunted around mechanically. Like a traveller alone at night on a highway, attention is arrested by prominent landmarks — isolated trees, houses, bridgeheads, temples, hot-dog stands. There may be a desperate desire to phone family, a doctor, or friends and appeal to them to "pull you out." This desire should be resisted. The guide and fellow voyagers are the best source of assistance. One should not try to involve outsiders in one's hallucinatory world.
+The person feels driven by "winds of karma" or shunted around mechanically. Like a traveller alone at night on a highway, attention is arrested by prominent landmarks — isolated trees, houses, bridgeheads, temples, hot-dog stands. There may be a desperate desire to phone family, a doctor, or friends and appeal to them to "pull you out." This desire should be resisted. The guide and fellow voyagers are the best source of assistance. One should not try to involve outsiders in one"s hallucinatory world.
 
 ### 4. Feelings of Stupidity and Inadequacy
 The voyager may feel stupid and full of incoherent thoughts, while everyone else seems perfectly knowing and wise. This leads to feelings of guilt and inadequacy, and in extreme form, to the [[judgment-vision]]. This feeling is merely the natural result of the limited perspective under which consciousness operates in the Third Bardo. Calm, relaxed acceptance and trust enable liberation at this point.

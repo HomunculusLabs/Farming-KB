@@ -8,7 +8,7 @@ sources: ["raw/papers/allegro-j-the-sacred-mushroomcross.md"]
 ---
 ## Jesus Name Etymology and Mushroom Theories
 The etymology of the name "Jesus" became a central element of John
-Allegro's [[oner-jesus-christ-and-jack-47]] of
+Allegro"s [[oner-jesus-christ-and-jack-47]] of
 Nazareth" over the lame man (Acts 3:6), and that the "seven sons of
 Sceva" attempt to use the same formula (Acts 19:13-14). These
 invocations, Allegro argued, paralleled the practices of the Magi, the
@@ -18,13 +18,13 @@ over many decades by multiple authors across the Mediterranean world.
 ## The "Christ-Crucified" Reading
 Allegro extended his name analysis to "Christ-crucified," which he
 interpreted as meaning "semen on the mushroom." The crucifixion was
-reinterpreted as a coded description of the mushroom's preparation.
+reinterpreted as a coded description of the mushroom"s preparation.
 This reading requires similar philological gymnastics. The Greek
 christos ("anointed one") is a straightforward translation of the
 Hebrew mashiah ("messiah"), both with well-established lineages in
 Semitic religious vocabulary.
 ## Legacy of the Name Theory
-Despite its scholarly failure, Allegro's etymology remains one of the
+Despite its scholarly failure, Allegro"s etymology remains one of the
 most frequently cited elements of mushroom conspiracy theories. It has
 the appeal of apparent specificity: Allegro appears to provide a
 precise linguistic derivation, which seems more convincing than vague

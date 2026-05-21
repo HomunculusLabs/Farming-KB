@@ -67,11 +67,11 @@ The mushrooms grow only during the season of torrential rains, which creates a n
 
 ## The Shaman as "Man of Language"
 
-A central insight of Munn's analysis is that the Mazatec shaman's primary function is linguistic. The mushrooms are described as liberating "the fountains of language," transforming the shaman into an inspired speaker — an oral poet, oracle, and seer.
+A central insight of Munn"s analysis is that the Mazatec shaman's primary function is linguistic. The mushrooms are described as liberating "the fountains of language," transforming the shaman into an inspired speaker — an oral poet, oracle, and seer.
 
 ### Inspired Speech
 
-The shaman's speech during the ceremony exhibits distinctive characteristics:
+The shaman"s speech during the ceremony exhibits distinctive characteristics:
 
 - **Fluency and aptness**: Words come spontaneously without effort of searching, as if being dictated
 - **Coherent rationality**: Unlike surrealist automatic writing, the flow tends toward coherent, meaningful enunciation rather than disconnected content
@@ -80,7 +80,7 @@ The shaman's speech during the ceremony exhibits distinctive characteristics:
 
 ### The Concept of Poesis
 
-Munn draws on the Greek concept of *poesis* — meaning "making" or "action" — to describe the shamanic function. The shaman does not merely describe reality but actively creates and transforms it through speech. As Michel Carrouges is quoted: "Poetry is a sacred action... one which exceeds the ordinary level of human action." The shaman's words are themselves medicine — "to enunciate and give meaning to the events and situations of existence is life-giving in itself."
+Munn draws on the Greek concept of *poesis* — meaning "making" or "action" — to describe the shamanic function. The shaman does not merely describe reality but actively creates and transforms it through speech. As Michel Carrouges is quoted: "Poetry is a sacred action... one which exceeds the ordinary level of human action." The shaman"s words are themselves medicine — "to enunciate and give meaning to the events and situations of existence is life-giving in itself."
 
 ### The Logos
 
@@ -102,7 +102,7 @@ The mushrooms are eaten specifically when "something is wrong." If there is noth
 
 Unlike most shamanistic traditions where the shaman performs rituals on behalf of the patient without administering psychoactive substances, the Mazatec shaman actually gives medicine (the mushrooms) to patients. This creates a dual therapeutic mechanism:
 
-1. **Chemical**: The psychoactive compounds alter the patient's consciousness
+1. **Chemical**: The psychoactive compounds alter the patient"s consciousness
 2. **Spiritual**: The shaman's discourse, delivered while both are intoxicated, addresses the spiritual dimensions of illness
 
 The shaman also performs physical interventions during the session, including massage and suction, using the intensified energy of the mushroom state.

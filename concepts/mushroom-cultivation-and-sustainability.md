@@ -52,9 +52,9 @@ During the avian flu crisis, the Hong Kong government banned poultry raising, de
 
 ## ZERI: Zero Emissions Research and Initiatives
 
-ZERI, founded by eco-designer Gunter Pauli, is an international organization pioneering the integration of mushroom cultivation into sustainable systems. ZERI's philosophy—"Zero emissions means zero waste"—applies systems thinking that is holistic and considers feedback loops in complex dynamic systems.
+ZERI, founded by eco-designer Gunter Pauli, is an international organization pioneering the integration of mushroom cultivation into sustainable systems. ZERI"s philosophy—"Zero emissions means zero waste"—applies systems thinking that is holistic and considers feedback loops in complex dynamic systems.
 
-ZERI's design principles are modeled on the natural world, drawing instruction from relationships among the five kingdoms of life: bacteria, protists (algae), plants, animals, and fungi. The core observation is that the waste or even toxin of one kingdom is often a nutrient or energy source for species of another kingdom. A prime example is the saprophytic relationship between fungi and plants—without fungi, the planet would be smothered by mountains of dead plant material.
+ZERI"s design principles are modeled on the natural world, drawing instruction from relationships among the five kingdoms of life: bacteria, protists (algae), plants, animals, and fungi. The core observation is that the waste or even toxin of one kingdom is often a nutrient or energy source for species of another kingdom. A prime example is the saprophytic relationship between fungi and plants—without fungi, the planet would be smothered by mountains of dead plant material.
 
 ## The Namibian Brewery Project
 

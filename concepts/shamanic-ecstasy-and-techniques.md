@@ -50,7 +50,7 @@ for soporifics, betrayed what McKenna called botanical and pharmacological
 naivete.
 
 Wasson held precisely the opposite view: the presence of a hallucinogen
-indicates that shamanism is authentic and alive. In Wasson's formulation,
+indicates that shamanism is authentic and alive. In Wasson"s formulation,
 the late, decadent phase of shamanism is characterized by elaborate
 rituals, ordeals, and reliance on pathological personalities. Where these
 phenomena are central, shamanism is well on its way to becoming simply

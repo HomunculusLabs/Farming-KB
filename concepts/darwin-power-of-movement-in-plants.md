@@ -1,5 +1,5 @@
 ---
-title: Darwin's darwin power of movement in plants in Plants and the Discovery of Auxin
+title: Darwin"s darwin power of movement in plants in Plants and the Discovery of Auxin
 created: 2026-04-28
 tags:
   - botany

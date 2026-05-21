@@ -6,7 +6,7 @@ type: concept
 
 ## Allegro on Mandrake, Nectar, and Phallic Mushroom Nomenclature
 
-John M. Allegro's *[[allegro-plants-and-drugs-in-the-ancient-world]] encode Sumerian words for the sacred
+John M. Allegro"s *[[allegro-plants-and-drugs-in-the-ancient-world]] encode Sumerian words for the sacred
 mushroom. Through careful philological analysis, Allegro traces the etymologies
 of the Mandrake and Nectar back to Sumerian drug-plant terminology, and shows
 how phallic imagery permeated the naming of sacred fungi across Semitic and
@@ -19,7 +19,7 @@ the Sumerian *\*NAM-TAR-AGAR*, meaning "demon or fate-plant of the field." The
 phonetic transformation is regular: "The consonants m and n have changed places
 and T has shifted to the closely related sound d," yielding *M(a)nd(a)r(a)g(a)r*.
 
-The mandrake's reputation as a potent aphrodisiac is attested across classical
+The mandrake"s reputation as a potent aphrodisiac is attested across classical
 and biblical literature. Dioscorides records more than twenty folk names for the
 plant, reflecting its widespread cultural importance. In Genesis 30:14–16, Leah
 purchases a night with Jacob using Reuben's mandrakes — a transaction that
@@ -32,13 +32,13 @@ the mandrake) with the Sumerian *\*GIG-AN-TI*, meaning "heavenly shade" — a
 reference to the umbrella-like canopy of the opened fungus cap. This same root
 gave the Greek *gigantes* and, through it, the English word "giants." The
 mythological imagery of giants holding aloft the arch of heaven thus preserves,
-in Allegro's reading, a fossilised memory of the mushroom's distinctive profile
+in Allegro"s reading, a fossilised memory of the mushroom's distinctive profile
 — its broad cap raised on a slender stem like a pillar supporting the sky.
 
 ## Nectar as Mushroom
 
 "This particular decipherment has the added interest of revealing the identity
-and source of another very famous name in drug folk-lore, the 'Nectar' of the
+and source of another very famous name in drug folk-lore, the "Nectar' of the
 gods." The Sumerian *NAM-TAR* ("name of the fate-plant") underwent a dialectal
 shift in which its initial *M* became *k*, yielding *\*NAK-TAR*, which passed
 into Greek as *Nektar* and thence into English as "Nectar." Far from being the
@@ -47,7 +47,7 @@ sacred mushroom, food indeed of the gods."
 
 ## Phallic Mushroom Names
 
-The mushroom's physical form — a knobbed shaft rising from the earth — invited
+The mushroom"s physical form — a knobbed shaft rising from the earth — invited
 phallic interpretation across [[amanita-soma-haoma-ambrosia-cross-cultural-sacred-plant-names]] and their incantations was preserved by
 specialist communities. Allegro describes "a body of cultic tradition primarily
 concerned with the accurate transmission of the special, occult names of the

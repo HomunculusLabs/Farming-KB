@@ -58,17 +58,17 @@ life stages.
 
 ## Philological Evidence
 
-John Marco Allegro, one of the world's leading philologists and a translator of
+John Marco Allegro, one of the world"s leading philologists and a translator of
 the Dead Sea Scrolls, demonstrated in *The [[sacred-mushroom-and-the-cross]]* that:
 
 - The word "Manna" derives from Sumerian roots meaning "mushroom"
 - Multiple biblical names and terms — including the names Jesus, James, and
-  John — are wordplay and synonyms for the mushroom's hidden identity
+  John — are wordplay and synonyms for the mushroom"s hidden identity
 - The Greek word "Soma" (body) is linguistically linked to the same root
 - The "Fruit of the Tree of Knowledge" and the symbol of the cross are
   connected to *Amanita muscaria* through philological analysis
 
-Although Allegro's more speculative etymologies drew criticism, his core
+Although Allegro"s more speculative etymologies drew criticism, his core
 associations between Manna, Soma, and the mushroom are widely regarded as
 substantially supported.
 
@@ -89,7 +89,7 @@ The biblical description of Manna matches the botanical characteristics of
 
 The "miraculous birth without seed" is a perfect botanical description of
 mushroom reproduction — spores are microscopic and invisible to the naked eye,
-making the mushroom's appearance seem supernatural to ancient observers.
+making the mushroom"s appearance seem supernatural to ancient observers.
 
 ## Two Kinds of Manna
 
@@ -130,7 +130,7 @@ substance.
 Moses constructed the elaborate Ark of the Covenant specifically to carry the
 Manna through the wilderness. In this analysis:
 
-- The Ark's primary value lay not in the box itself but in its contents
+- The Ark"s primary value lay not in the box itself but in its contents
 - Looking inside the Ark was punishable by death — protecting the secret
 - The centuries-long search for the physical Ark represents a "missing of the
   point" or deliberate misdirection

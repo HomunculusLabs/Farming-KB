@@ -32,7 +32,7 @@ fungal microorganism. Caused by *[[amanita-phalloides-death-cap|Amanita Phalloid
 
 ## References
 
-- Money, N. P. (2002). *Mr. Bloomfield's Orchard: The Mysterious World
+- Money, N. P. (2002). *Mr. Bloomfield"s Orchard: The Mysterious World
   of Mushrooms, Molds, and Mycologists*. Oxford University Press.
   Chapter 8: Angels of Death, pp. 151-168.
 - Benjamin, D. R. (1995). *Mushrooms: Poisons and Panaceas*. W.H.

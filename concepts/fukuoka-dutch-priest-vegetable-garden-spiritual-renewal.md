@@ -6,13 +6,13 @@ tags: [fukuoka, natural-farming, spiritual-renewal, gardening-therapy, holland, 
 created: 2026-05-08
 ---
 
-## Dutch Priest's Spiritual Renewal Through Vegetable Gardening
+## Dutch Priest"s Spiritual Renewal Through Vegetable Gardening
 
 ## Overview
 
 One of the most moving stories in *The Road Back to Nature* concerns a Dutch priest who recovered from severe depression and suicidal thoughts through the simple act of creating [[maintaining-organic-matter-in-vegetable-gardens]] using Fukuoka's [[fukuoka-creating-natural-farm-site-selection-establishment]] called "Yakuso."
 
-The priest was one of many ordinary people Nelissen taught during his travels. His story stood out to Fukuoka because of its dramatic demonstration of gardening's transformative power.
+The priest was one of many ordinary people Nelissen taught during his travels. His story stood out to Fukuoka because of its dramatic demonstration of gardening"s transformative power.
 
 ## The Priest's Descent
 
@@ -24,13 +24,13 @@ He had lost his faith, his purpose, and his will to continue living. Despite his
 
 ## The Intervention: Learning to Garden
 
-Thomas Nelissen arrived and taught the priest how to set up a vegetable garden using Fukuoka's heart-shaped pond technique. The priest described the transformation:
+Thomas Nelissen arrived and taught the priest how to set up a vegetable garden using Fukuoka"s heart-shaped pond technique. The priest described the transformation:
 
 > "While I was working up a sweat spading the dirt with my wife and [[psilocybin-isolation-and-early-scientific-research]].
 
 ## Broader Significance: Horticultural Therapy
 
-This story anticipated what would later become the formal field of horticultural therapy. The priest's recovery involved several elements now recognized as therapeutic:
+This story anticipated what would later become the formal field of horticultural therapy. The priest"s recovery involved several elements now recognized as therapeutic:
 
 - **Physical activity**: The exercise of digging and working soil improved his physical state
 - **Connection to living things**: Caring for plants provided a sense of responsibility and purpose

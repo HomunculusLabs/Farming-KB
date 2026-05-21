@@ -8,7 +8,7 @@ type: entity
 
 ## Description
 
-LSD-25, or [[lysergic-acid-diethylamide]], is a powerful semi-synthetic psychedelic substance of the ergoline family. It is one of the most potent psychoactive compounds known, active at microgram-level doses. In [[timothy-leary]]'s *The [[leary-psychedelic-experience-bardo-mapping]]*, LSD-25 is treated as the primary chemical vehicle for inducing the Tibetan Book of the Dead-style transcendental states that form the core of the text's framework.
+LSD-25, or [[lysergic-acid-diethylamide]], is a powerful semi-synthetic psychedelic substance of the ergoline family. It is one of the most potent psychoactive compounds known, active at microgram-level doses. In [[timothy-leary]]"s *The [[leary-psychedelic-experience-bardo-mapping]]*, LSD-25 is treated as the primary chemical vehicle for inducing the Tibetan Book of the Dead-style transcendental states that form the core of the text's framework.
 
 Originally synthesized by Swiss chemist [[albert-hofmann]] at the Sandoz Laboratories in Basel, Switzerland in 1938, its psychoactive properties were not discovered until April 19, 1943, when Hofmann accidentally absorbed a small quantity through his skin. This landmark discovery inaugurated the modern era of psychedelic research and exploration.
 

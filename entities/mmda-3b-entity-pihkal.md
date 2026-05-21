@@ -14,7 +14,7 @@ sources: ["Shulgin - PIHKAL"]
 
 ## Extensions and Commentary
 
-And that's all there is known as to the
+And that"s all there is known as to the
 activity of MMDA-3b in man. Very, very little. Nothing has ever been
 tried in excess of 80 milligrams that I know of, and the above trials
 were made over 20 years ago. There can be little argument that the 3b

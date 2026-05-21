@@ -50,7 +50,7 @@ When nitrogen-rich material (C/N below 12:1) enters the soil, the opposite occur
 6. Expanded microbial populations more aggressively attack existing soil humus
 7. **Net result: soil humus decreases**
 
-**Net effect**: Short-term fertility boost, but long-term soil degradation. This is exactly the same mechanism by which [[query-how-do-i-start-growing-hazelnut-bushes]], and when it is all over we have slightly reduced the soil's humus content, a less-healthy microbial population, and poorer tilth."
+**Net effect**: Short-term fertility boost, but long-term soil degradation. This is exactly the same mechanism by which [[query-how-do-i-start-growing-hazelnut-bushes]], and when it is all over we have slightly reduced the soil"s humus content, a less-healthy microbial population, and poorer tilth."
 
 This means that excessive use of even organic nitrogen-rich fertilizers (like poultry manure or seed meals) can degrade soil structure over time—exactly the same problem caused by synthetic [[cannabis-chemical-fertilizers]], just slower.
 

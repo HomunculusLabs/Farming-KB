@@ -16,15 +16,15 @@ Scientists have established that the [[rick-strassman]], a psychiatrist who carr
 
 ## How Psychedelics May Work Therapeutically
 
-Powell's informational model of consciousness provides a theoretical framework for understanding the therapeutic mechanism of psychedelics:
+Powell"s informational model of consciousness provides a theoretical framework for understanding the therapeutic mechanism of psychedelics:
 
 1. **Disruption of entrenched patterns**: Normal consciousness is maintained by stable patterns of neuronal firing -- what we might call entrenched "informational habits." Depression and anxiety can be understood as particularly rigid and maladaptive patterns. By disrupting the serotonergic homeostatic system, psilocybin destabilises these entrenched patterns, creating a window of psychological plasticity.
 
-2. **Increased informational access**: Psilocybin's action of making "more information available to the experiencer" means that the depressed or anxious mind, which typically operates within a restricted informational framework, gains access to a wider range of cognitive and emotional material.
+2. **Increased informational access**: Psilocybin"s action of making "more information available to the experiencer" means that the depressed or anxious mind, which typically operates within a restricted informational framework, gains access to a wider range of cognitive and emotional material.
 
 3. **Ego dissolution and self-confrontation**: Psilocybin forces one to confront bad habits and neuroses. Nothing remains hidden to the mushroom and this will often lead to a psychological "shake-up" to persons hitherto blind to self-knowledge. The dissolution of ego defenses allows repressed material to surface and be processed.
 
-4. **Re-patterning of consciousness**: The novel patterns of neuronal firing orchestrated by psilocybin may literally rewire the brain's informational architecture, establishing new, healthier patterns of thought and feeling that persist after the acute effects have worn mystical experience l experience as therapeutic**: The full-blown mystical experience that psilocybin can induce -- characterised by feelings of unity, transcendence, and sacredness -- appears to have intrinsic therapeutic value. The 25-year follow-up of the Good Friday experiment demonstrated that such experiences produce lasting positive changes in spiritual wellbeing.
+4. **Re-patterning of consciousness**: The novel patterns of neuronal firing orchestrated by psilocybin may literally rewire the brain"s informational architecture, establishing new, healthier patterns of thought and feeling that persist after the acute effects have worn mystical experience l experience as therapeutic**: The full-blown mystical experience that psilocybin can induce -- characterised by feelings of unity, transcendence, and sacredness -- appears to have intrinsic therapeutic value. The 25-year follow-up of the Good Friday experiment demonstrated that such experiences produce lasting positive changes in spiritual wellbeing.
 
 ## The Psychedelic Experience and Self-Knowledge
 
@@ -32,7 +32,7 @@ The therapeutic value of psychedelics is intimately connected with the enhanceme
 
 ## The Challenge of Psychological Struggle
 
-It is important to acknowledge that the therapeutic process involving psychedelics is not without difficulty. The long-term follow-up of the Good Friday experiment showed that eight of the ten psilocybin subjects reported some negative aspects in the way of "psychological struggles." This suggests that psychedelic therapy must be conducted with proper preparation, support, and integration. Further psychedelic experimentation will prove to be of negative value unless one has dealt adequately with one's state of self-knowledge.
+It is important to acknowledge that the therapeutic process involving psychedelics is not without difficulty. The long-term follow-up of the Good Friday experiment showed that eight of the ten psilocybin subjects reported some negative aspects in the way of "psychological struggles." This suggests that psychedelic therapy must be conducted with proper preparation, support, and integration. Further psychedelic experimentation will prove to be of negative value unless one has dealt adequately with one"s state of self-knowledge.
 
 ## Psilocybin as a Natural Therapeutic Agent
 
@@ -46,9 +46,9 @@ Third, the natural origin of psilocybin may contribute to the sense of connectio
 
 ## The Broader Therapeutic Vision
 
-Professor David Nichols, president of the Heffter Research Institute, articulated the broader therapeutic vision: "Whatever you believe in this regard, it is a simple fact that the use of psychedelic drugs can profoundly alter one's understanding and belief about life and its meaning. Man has been on an age-old quest to find his place in the Universe, and these drugs can be important tools both in understanding this quest, and in gaining meaning about ourselves as conscious creatures."
+Professor David Nichols, president of the Heffter Research Institute, articulated the broader therapeutic vision: "Whatever you believe in this regard, it is a simple fact that the use of psychedelic drugs can profoundly alter one"s understanding and belief about life and its meaning. Man has been on an age-old quest to find his place in the Universe, and these drugs can be important tools both in understanding this quest, and in gaining meaning about ourselves as conscious creatures."
 
-This suggests that the therapeutic value of psychedelics extends beyond the treatment of specific pathological conditions to encompass a more fundamental reorientation of the individual's relationship to self, others, and the cosmos. The psychedelic experience can provide a kind of existential therapy -- a direct confrontation with the ultimate questions of meaning, purpose, and existence that underlie many forms of psychological distress.
+This suggests that the therapeutic value of psychedelics extends beyond the treatment of specific pathological conditions to encompass a more fundamental reorientation of the individual"s relationship to self, others, and the cosmos. The psychedelic experience can provide a kind of existential therapy -- a direct confrontation with the ultimate questions of meaning, purpose, and existence that underlie many forms of psychological distress.
 
 ## The Political Dimension of Psychedelic Therapy
 

@@ -22,7 +22,7 @@ molecular biology of gene expression regulation but rather to the broader idea t
 exists outside the genome, encoded in culture, language, technology, and social institutions. He writes that humans 
 have become "largely epigenetic," meaning that the information necessary for human survival and flourishing is no 
 longer carried primarily in DNA but in the vast networks of symbolic communication that constitute human culture. This 
-transition marks, in McKenna's view, the effective end of biological evolution as the primary driver of human change. 
+transition marks, in McKenna"s view, the effective end of biological evolution as the primary driver of human change. 
 Once symbolic systems became sufficiently sophisticated to store and transmit complex information across generations, 
 the selective pressures that had shaped hominid evolution for millions of years were largely superseded by cultural 
 forces. The genome became a stable platform upon which the far more rapid and flexible processes of [[aspergillus-fumigatus-population-genetics]] to support his argument that biological evolution effectively ceased with the 
@@ -63,7 +63,7 @@ knowledge systems representing millennia of accumulated wisdom about specific en
 
 ## Collective Gnosis and Universal Truth
 
-Underlying McKenna's analysis is the concept of "collective gnosis"—a shared, intuitive knowledge that transcends 
+Underlying McKenna"s analysis is the concept of "collective gnosis"—a shared, intuitive knowledge that transcends 
 individual experience and rational analysis. Gnosis, in this sense, is not propositional knowledge but a direct, 
 participatory understanding of reality accessible through altered [[psychedelic-substances-comparison]]. McKenna argued that this collective gnosis underlies the universal human tendency toward 
 religious and spiritual experience. The faith that human beings place in universal truths—whether expressed through 

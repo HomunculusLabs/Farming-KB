@@ -1,5 +1,5 @@
 ---
-title: Melzer's Reagent
+title: Melzer"s Reagent
 source: unknown-biodiversity-of-fungi.md
 type: entity
 tags: [reagent, microscopy, mycology, staining, histochemistry]
@@ -23,7 +23,7 @@ Melzer's reagent is an iodine-based histochemical stain used extensively in myco
 - In [[arbuscular-mycorrhizal-fungi]][[mycorrhizal-fungi]], the staining response of spore wall layers to Melzer's reagent is one of the most informative characters for species diagnosis, helping distinguish morphologically similar taxa.
 - When mixed 1:1 (v/v) with PVLG, Melzer's reagent provides both permanent mounting and histochemical staining simultaneously, producing slides that can be archived indefinitely.
 - Spores mounted in the PVLG-Melzer's mixture are slightly easier to break under coverslip pressure and are less prone to "sliding out" from under the coverslip compared to PVLG alone.
-- The reagent is used in the standard protocol for describing AM fungal species: one-third of spores are mounted in PVLG alone, one-third in PVLG + Melzer's (1:1), and one-third in water, to capture the full range of diagnostic characters.
+- The reagent is used in the standard protocol for describing AM fungal species: one-third of spores are mounted in PVLG alone, one-third in PVLG + Melzer"s (1:1), and one-third in water, to capture the full range of diagnostic characters.
 - In macro-mycology (agarics, boletes), Melzer's reagent is used to test spore prints and tissue sections for amyloid reactions, which are critical taxonomic characters at the genus and species level.
 - Avoid older preservatives such as lactophenol, which inhibits histochemical reactions with Melzer's reagent during long-term storage.
 

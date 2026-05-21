@@ -16,7 +16,7 @@ sources:
 
 ## Overview
 
-Adonis annua, commonly known as pheasant's eye or autumn adonis, is an annual herbaceous plant in the family Ranunculaceae. It is native to the Mediterranean region and western Asia but has spread widely across temperate Europe as an agricultural weed.
+Adonis annua, commonly known as pheasant"s eye or autumn adonis, is an annual herbaceous plant in the family Ranunculaceae. It is native to the Mediterranean region and western Asia but has spread widely across temperate Europe as an agricultural weed.
 
 The species produces solitary, bright scarlet flowers with a distinctive dark center, each 2–3 cm in diameter. It is one of the few red-flowered members of Ranunculaceae, making it easily recognizable in the field.
 

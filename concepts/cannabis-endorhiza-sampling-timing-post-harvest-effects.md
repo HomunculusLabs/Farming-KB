@@ -23,7 +23,7 @@ Experiment 2 sampled two weeks pre-harvest. This difference produced
 substantial and instructive divergences in [[cannabis-cultivar-effects-soil-microbiome]]. The
 comparison provides valuable lessons for [[soil-heritability-otu-sharing-white-widow-cross-soil-cannabis-endorhiza]] and Maui Wowie) from two locations (Vista and Orange County)
 two weeks prior to harvest, while plants were actively growing. Triplicate
-samples from each plant's endorhiza (18), rhizosphere (18), and each bulk
+samples from each plant"s endorhiza (18), rhizosphere (18), and each bulk
 soil (6), totaling 42 samples. Two soil types with significant edaphic
 variation were used: Mo-Bio soil (salinity 5.12, nitrogen 0.26%, TOC 3.02%)
 and Orange County soil (salinity 1.73, nitrogen 0.53%, TOC 20.0%). Four

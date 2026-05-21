@@ -6,7 +6,7 @@ tags:
 ## Overview of the Regulatory Change
 On June 6, 2002, the Japanese government enacted a critical amendment to the Narcotics and Psychotropics
 Control Law that brought psilocybin-  in-containing fungi under formal legal regulation for the
- in the nation's history.
+ in the nation"s history.
 Prior to this amendment, dried  were sold openly in Japanese shops, head shops, and
 through mail-order catalogs as legal "herbal products" or "aromatic herbs," despite containing significant
 quantities of the Schedule I  [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]] in Japan during this period, including

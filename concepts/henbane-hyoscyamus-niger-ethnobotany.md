@@ -9,7 +9,7 @@ sources:
 ---
 ## Henbane (Hyoscyamus niger): Ethnobotany and Cultural History
 
-Henbane (Hyoscyamus niger) is a toxic but pharmacologically important plant that has played a significant role in European medicine, magic, and folklore for over two millennia. A member of the nightshade family (Solanaceae), henbane was one of the principal ingredients in medieval witches' brews and continues to be valued in modern pharmacology for its tropane alkaloids.
+Henbane (Hyoscyamus niger) is a toxic but pharmacologically important plant that has played a significant role in European medicine, magic, and folklore for over two millennia. A member of the nightshade family (Solanaceae), henbane was one of the principal ingredients in medieval witches" brews and continues to be valued in modern pharmacology for its tropane alkaloids.
 
 ## Botanical Profile
 
@@ -25,7 +25,7 @@ The sensation of flight reported by those accused of witchcraft is pharmacologic
 
 Henbane has a long and distinguished history in European medicine, where it was valued primarily as a sedative and an anodyne to induce sleep. The plant was included in numerous pharmacopoeias and medical texts from antiquity through the modern era. Its sedative properties made it useful for treating conditions characterized by anxiety, insomnia, and nervous agitation.
 
-The ancient Greeks and Romans knew henbane and used it medicinally. The Greek physician Dioscorides described the plant's medicinal properties, and it appears in numerous medieval herbals. In traditional folk medicine, henbane preparations were applied externally as poultices for pain relief, taken internally for various ailments, and even burned and the smoke inhaled for respiratory complaints.
+The ancient Greeks and Romans knew henbane and used it medicinally. The Greek physician Dioscorides described the plant"s medicinal properties, and it appears in numerous medieval herbals. In traditional folk medicine, henbane preparations were applied externally as poultices for pain relief, taken internally for various ailments, and even burned and the smoke inhaled for respiratory complaints.
 
 Modern pharmaceutical science has isolated the active alkaloids from henbane and developed standardized preparations for medical use. Hyoscyamine (as the racemic mixture atropine) and scopolamine derived from henbane and related plants remain essential drugs in modern medicine, used as antispasmodics, antisecretory agents, mydriatics, and antiemetics.
 
@@ -33,7 +33,7 @@ Modern pharmaceutical science has isolated the active alkaloids from henbane and
 
 Henbane is highly toxic, and accidental poisonings have occurred throughout history. All parts of the plant contain active alkaloids, with the seeds containing particularly high concentrations. Symptoms of henbane poisoning are characteristic of anticholinergic toxidrome and include dilated pupils, blurred vision, dry mouth, flushed skin, rapid heartbeat, urinary retention, fever, hallucinations, delirium, and in severe cases, convulsions and death.
 
-The folk name "henbane" itself suggests the plant's toxicity — it was believed to be poisonous to poultry (though this is not well documented). The Latin species name niger (black) may refer to the dark color of the seeds or to the plant's malevolent reputation in folklore.
+The folk name "henbane" itself suggests the plant"s toxicity — it was believed to be poisonous to poultry (though this is not well documented). The Latin species name niger (black) may refer to the dark color of the seeds or to the plant's malevolent reputation in folklore.
 
 ## Distribution and Cultivation
 
@@ -49,7 +49,7 @@ The suggestion that henbane or Datura contributed to the Delphic oracle's vision
 
 ## Henbane in Scandinavian and Germanic Traditions
 
-Henbane appears in the mythological traditions of northern Europe, where it was associated with the god Baldur and with various magical practices. In Norse tradition, the plant was sometimes called "Baldur's brow" and was believed to have protective properties. The association of henbane with northern European mythology predates the Christian era and reflects the plant's importance in pre-Christian European cultures.
+Henbane appears in the mythological traditions of northern Europe, where it was associated with the god Baldur and with various magical practices. In Norse tradition, the plant was sometimes called "Baldur"s brow" and was believed to have protective properties. The association of henbane with northern European mythology predates the Christian era and reflects the plant's importance in pre-Christian European cultures.
 
 In Germanic folk medicine, henbane was used in a remarkable procedure for treating dental pain. The seeds were placed on hot coals and the smoke directed into the patient's open mouth, producing both local anesthesia and mild intoxication. This practice demonstrates the sophisticated understanding of henbane's properties that existed in folk medical traditions, even if the underlying pharmacology was not understood in modern terms.
 

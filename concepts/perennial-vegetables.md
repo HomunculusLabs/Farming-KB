@@ -35,7 +35,7 @@ The king of perennial vegetables, asparagus can produce for 15-25 years from a s
 A hardy perennial grown for its tart leaf stalks. Technically a vegetable used as a fruit.
 
 ### Planting
-- **Varieties**: Victoria, Canada Red, Chipman's (red-stalked varieties are sweeter)
+- **Varieties**: Victoria, Canada Red, Chipman"s (red-stalked varieties are sweeter)
 - **Timing**: Plant dormant crowns in early spring or divisions in fall
 - **Site**: Full sun to part shade, deep, fertile soil
 - **Spacing**: 3-4 feet apart

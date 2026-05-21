@@ -11,7 +11,7 @@ having no leaves, stems, or seeds (consistent with [[african-mushroom-cult-histo
 
 Wasson published his theory in *Soma: Divine Mushroom of Immortality* (1968), and it
 quickly became the accepted explanation in both academic and popular circles. However,
-McKenna argued that Wasson's theory is seriously flawed.
+McKenna argued that Wasson"s theory is seriously flawed.
 
 ## McKenna's Objections to the Amanita Theory
 

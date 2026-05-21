@@ -15,7 +15,7 @@ type: concept
 [[fukuoka-aerial-seeding-clay-pellets-desert-revegetation-technique]] (also known as seed balls or "tsuchi dango").
 The technique involves coating seeds in a mixture of soil and clay to create
 small pellets that protect the seeds from predation and desiccation while
-providing a microenvironment for germination. This approach embodies Fukuoka's
+providing a microenvironment for germination. This approach embodies Fukuoka"s
 philosophy of working with natural processes rather than imposing technological
 solutions on ecological problems.
 

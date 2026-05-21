@@ -31,7 +31,7 @@ The hybrid model is not monolithic but encompasses a wide spectrum of approaches
 
 Hybrid shamanic-psychotherapeutic rituals maintain several core structural elements derived from traditional shamanic ceremonies. The circle formation is the most fundamental, with participants sitting or lying in a circle around a central altar or fire. This spatial arrangement creates a shared ceremonial space that balances individual experience with collective containment.
 
-An experienced elder or guide presides over the ceremony, sometimes with one or more assistants. The guide's role combines elements of the traditional shaman — serving as a psychopomp who helps navigate expanded states — with elements of the psychotherapist — providing psychological safety, emotional support, and integration assistance.
+An experienced elder or guide presides over the ceremony, sometimes with one or more assistants. The guide"s role combines elements of the traditional shaman — serving as a psychopomp who helps navigate expanded states — with elements of the psychotherapist — providing psychological safety, emotional support, and integration assistance.
 
 This dual role is both the strength and the challenge of the hybrid model. The guide must be competent in both the ceremonial and the therapeutic dimensions, holding space for experiences that may simultaneously be psychologically challenging and spiritually profound. Training for hybrid guides is largely informal and mentorship-based, drawing on both the initiatory apprenticeship model of indigenous shamanism and the clinical supervision model of Western psychotherapy.
 

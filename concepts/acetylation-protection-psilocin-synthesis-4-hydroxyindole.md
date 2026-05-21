@@ -17,7 +17,7 @@ sources:
 type: concept
 ---
 
-## Acetylation Protection Strategy in [[tryptamine-chemistry-psilocin-and-psilocybin-synthesis]] reported by Shirota, Hakamata, and Goda (2003) at Japan's National Institute of Health Sciences employed an **acetylation-based protection strategy** for the 4-hydroxyl group of indole, rather than the more commonly used benzyl ether protection. This choice proved critical to achieving a chromatography-free synthesis on [[catalytic-hydrogenolysis-palladium-carbon-debenzylation]]).
+## Acetylation Protection Strategy in [[tryptamine-chemistry-psilocin-and-psilocybin-synthesis]] reported by Shirota, Hakamata, and Goda (2003) at Japan"s National Institute of Health Sciences employed an **acetylation-based protection strategy** for the 4-hydroxyl group of indole, rather than the more commonly used benzyl ether protection. This choice proved critical to achieving a chromatography-free synthesis on [[catalytic-hydrogenolysis-palladium-carbon-debenzylation]]).
 2. **Crystalline intermediates**: The acetyl-protected intermediates (4-acetylindole and 3-dimethylaminooxalyl-4-acetylindole) formed as crystalline solids, enabling purification by filtration rather than chromatography.
 3. **Operational simplicity**: Acetylation uses readily available reagents (acetic anhydride, pyridine) under mild conditions, avoiding the handling complexities associated with benzyl protection reagents.
 4. **Stability**: The 4-O-benzyl derivative of 4-hydroxyindole was noted to be "somewhat unstable, without careful control of the reaction conditions," and could not be isolated in crystal form.

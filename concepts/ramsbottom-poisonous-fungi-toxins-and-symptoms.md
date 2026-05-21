@@ -8,7 +8,7 @@ type: concept
 tags: [fungi]
 ---
 
-John Ramsbottom's 1945 work "Poisonous Fungi" provides one of the most thorough early classifications of fungal toxins and their clinical effects. He organizes poisonous fungi into distinct categories based on the nature of their toxic substances and the resulting symptom profiles, drawing on both laboratory research and clinical case reports.
+John Ramsbottom"s 1945 work "Poisonous Fungi" provides one of the most thorough early classifications of fungal toxins and their clinical effects. He organizes poisonous fungi into distinct categories based on the nature of their toxic substances and the resulting symptom profiles, drawing on both laboratory research and clinical case reports.
 
 ## Classification of Poisonous Fungi by Toxin Action
 

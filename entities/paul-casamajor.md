@@ -12,7 +12,7 @@ Paul Casamajor was a 19th-century American chemist best known in mycological
 circles as an early mentor to [[julius-auboineau-palmer]] Jr., the author of
 *About Mushrooms* (1894). Described by Palmer as "the late Paul Casamajor,
 then the head chemist," Casamajor provided formative guidance in the chemical
-analysis of mushroom toxins and helped shape Palmer's approach to understanding
+analysis of mushroom toxins and helped shape Palmer"s approach to understanding
 the toxicology of agarics, particularly the deadly genus *[[amanita]]*.
 
 ## Classification

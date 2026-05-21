@@ -18,7 +18,7 @@ Atmospheric nitrogen deposition onto forest ecosystems occurs through both direc
 
 A consistent finding across multiple studies is that nitrogen deposition affects ectomycorrhizal and saprotrophic fungal communities differently:
 
-- **Mycorrhizal fungi generally decline**: Their primary function of providing nitrogen to host plants becomes less valuable when nitrogen is freely available in soil. This reduces the plant's dependency on mycorrhizae, potentially decreasing carbohydrate allocation to fungal partners.
+- **Mycorrhizal fungi generally decline**: Their primary function of providing nitrogen to host plants becomes less valuable when nitrogen is freely available in soil. This reduces the plant"s dependency on mycorrhizae, potentially decreasing carbohydrate allocation to fungal partners.
 - **[[saprotrophic-fungi]] generally increase**: Additional nitrogen stimulates decomposition of recalcitrant organic matter, favoring saprotrophic species that were previously limited by nitrogen availability.
 
 Arnolds (1989a,b, 1991, 1997) documented this pattern in The Netherlands, where the decline in ectomycorrhizal fruit bodies and increase in saprotrophic and pathogenic fungal fruit bodies was associated with nitrogen deposition combined with other acidifying pollutants. In beech woodlands, the addition of three times ambient N deposition (65 and 198 kg N ha⁻¹ yr⁻¹ as ammonium nitrate) caused an almost complete cessation of mycorrhizal fungal fruiting, while leaf litter saprotrophic species including *Mycena*, *Clitocybe*, *Lepista*, *Agaricus*, and *Lycoperdon* increased fruiting dramatically (Rühling and Tyler, 1991).
@@ -95,7 +95,7 @@ This finding implies that pollution-induced reductions in mycorrhizal diversity 
 
 ## Conservation Implications
 
-The sensitivity of ectomycorrhizal fungal communities to nitrogen deposition has led to conservation actions. Arnolds' observations of species loss contributed to the adoption of "red data" lists for fungal species conservation (Arnolds, 1989b, 1997), and calls for including fungi in conservation species lists have been adopted in the United Kingdom (Watling, 1999). These actions reflect recognition that anthropogenic nitrogen deposition is driving fungal species loss with potentially significant consequences for forest ecosystem function.
+The sensitivity of ectomycorrhizal fungal communities to nitrogen deposition has led to conservation actions. Arnolds" observations of species loss contributed to the adoption of "red data" lists for fungal species conservation (Arnolds, 1989b, 1997), and calls for including fungi in conservation species lists have been adopted in the United Kingdom (Watling, 1999). These actions reflect recognition that anthropogenic nitrogen deposition is driving fungal species loss with potentially significant consequences for forest ecosystem function.
 
 ## Conclusions
 

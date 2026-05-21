@@ -51,7 +51,7 @@ However, these recommendations were often presented briefly without detailed con
 Most sites provided information on the positive, sought-after effects [[hplc-analysis-of-psilocybin-and-psilocin]] content was not disclosed
 4. **Contraindications for mental health** — Only two-thirds mentioned depression/psychosis risks
 5. **Bad trip guidance** — No information on what to do if a bad trip occurs
-6. **Interaction warnings** — Limited to general "don't mix with other drugs" statements
+6. **Interaction warnings** — Limited to general "don"t mix with other drugs" statements
 7. **Flashback risk** — No mention of possible persistent perceptual changes
 8. **Dose-response curve** — No information on how effects intensify with increasing dose
 9. **Duration of effects** — Timing of onset, peak, and comedown was rarely provided

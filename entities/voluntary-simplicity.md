@@ -12,7 +12,7 @@ tags: [ethic, permaculture, community, philosophy, sustainability, lifestyle]
 Voluntary Simplicity is a conscious lifestyle ethic in which individuals and communities
 choose to limit their material consumption, energy use, and desire for accumulation, in
 favor of meaningful work, community interdependence, and ecological responsibility. In
-[[bill-mollison]]'s *Permaculture: A Designer's Manual*, voluntary simplicity is identified
+[[bill-mollison]]"s *Permaculture: A Designer's Manual*, voluntary simplicity is identified
 as perhaps the single most important factor determining the success and longevity of
 [[holmgren-community-design-and-intentional-communities]] and cooperative groups. It is presented as a foundational permaculture
 ethic alongside care for the earth and care for people.

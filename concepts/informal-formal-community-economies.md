@@ -14,7 +14,7 @@ type: concept
 
 Barter is the most fundamental form of community exchange, practiced particularly in rural or neighborhood settings where people know one another. At the household level, people exchange garden products and plants, share labor, and trade goods and services informally. These exchanges build social bonds alongside material flows — the act of trading with a neighbor reinforces the relationship that makes future exchanges possible and desirable.
 
-Occasionally, people form small work groups of three to five people to build houses, create gardens, or tackle household projects. These groups may be episodic, operating in a round-robin pattern until all participants' needs are met. The informal nature of such arrangements keeps administrative overhead near zero while ensuring that everyone's contributions are visible and reciprocated through direct experience.
+Occasionally, people form small work groups of three to five people to build houses, create gardens, or tackle household projects. These groups may be episodic, operating in a round-robin pattern until all participants" needs are met. The informal nature of such arrangements keeps administrative overhead near zero while ensuring that everyone's contributions are visible and reciprocated through direct experience.
 
 ### The Bendigo Home Builder's Club
 

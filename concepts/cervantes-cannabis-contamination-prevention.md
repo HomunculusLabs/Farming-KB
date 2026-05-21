@@ -11,7 +11,7 @@ tags: [cannabis, contamination, mold, pesticide, medical, prevention, quality]
 
 ## Overview
 
-In *Marijuana Horticulture: The Indoor/Outdoor Medical Grower's Bible*, Jorge
+In *Marijuana Horticulture: The Indoor/Outdoor Medical Grower"s Bible*, Jorge
 Cervantes emphasizes that the most critical quality concern for medical cannabis
 is freedom from contaminants. Patients depend on growers' ethics and expertise to
 supply high-quality medicine free from mold, pesticide residues, and other harmful
@@ -38,7 +38,7 @@ gently nudging the system toward homeostasis.
 
 This polypharmacy argument has direct implications for contamination:
 - Adding pesticide residues introduces entirely new metabolic pathways for the
-  patient's body to process.
+  patient"s body to process.
 - The "multi-tasking" benefit of herbal cannabis becomes a liability when
   contaminants are present, as they interact with the cannabinoid system in
   unpredictable ways.

@@ -43,7 +43,7 @@ Spinifex (genus *Triodia*, not to be confused with the coastal grass *Spinifex* 
 
 ## Sources
 
-- Mollison, B. (1988). *Permaculture: A Designers' Manual*. [[tagari-publications]]. Chapter 11, p. 349.
+- Mollison, B. (1988). *Permaculture: A Designers" Manual*. [[tagari-publications]]. Chapter 11, p. 349.
 - Lazarides, M. (1997). "A revision of Triodia including Plectrachne (Poaceae: Eragrostideae: Triodiinae)." *Australian Systematic Botany*.
 
 ## Overview

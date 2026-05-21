@@ -6,10 +6,10 @@ type: concept
 tags: rock-eating-fungi-and-mineral-weathering. The "bemushroomed shaman" image is based on a drawing by Kat Harrison, not a photograph of the original. In the original rock art, the objects "could be mushrooms or, say, arrows."
 
 ### Hildesheim Cathedral (Germany)
-A bronze door panel that seems to show a giant Liberty Cap actually depicts a stylized fig-tree from a coherent biblical narrative. The careful construction of the doors' theological message makes it "improbable that a magic mushroom could have been surreptitiously slipped in."
+A bronze door panel that seems to show a giant Liberty Cap actually depicts a stylized fig-tree from a coherent biblical narrative. The careful construction of the doors" theological message makes it "improbable that a magic mushroom could have been surreptitiously slipped in."
 
 ### Scandinavian Bronze Age
-Recurring mushroom-shaped motifs have been interpreted as fly-agaric, but alternative readings (ship's sail, tree, hatchet, axe) are equally plausible. See powell-cultural-defense-criticism-psychedelic-use
+Recurring mushroom-shaped motifs have been interpreted as fly-agaric, but alternative readings (ship"s sail, tree, hatchet, axe) are equally plausible. See powell-cultural-defense-criticism-psychedelic-use
 
 - rock-eating-fungi-and-mineral-weathering
 - amanita-muscaria-guide

@@ -9,7 +9,7 @@ type: concept
 
 ## Solomon Insects Diseases and Pest Management
 
-## Sir Albert Howard's Principle
+## Sir Albert Howard"s Principle
 
 Sir Albert Howard, founder of the [[coleman-winter-greens-variety-selection]] is at least as important as soil fertility in preventing pest problems. Quality seed companies that trial their varieties carefully are providing a real service.
 

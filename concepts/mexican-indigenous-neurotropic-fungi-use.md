@@ -34,7 +34,7 @@ reticulatus*) to help heal wounds and to "rejuvenecer el organismo"
 ## Impact on Mexican Mycology
 
 Guzmán (1990) divided the development of Mexican mycology into two
-periods: (1) before Wasson, Heim and Singer's studies (pre-1954), and (2)
+periods: (1) before Wasson, Heim and Singer"s studies (pre-1954), and (2)
 after their studies (post-1958). The intense international interest in
 Mexico's hallucinogenic fungi paradoxically stimulated the study of all
 fungi in the country, advancing Mexican mycology as a whole.

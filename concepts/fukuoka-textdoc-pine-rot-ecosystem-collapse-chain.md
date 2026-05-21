@@ -27,7 +27,7 @@ Fukuoka presents a detailed analysis of the red pine disease epidemic spreading 
 
 The generally accepted view attributes red pine disease to pinewood nematodes carried by long-horned beetles. Control efforts have focused on eradicating the beetles and treating trees with nematicides. A group of pesticide researchers at the Institute of Physical and Chemical Research later pointed to a new type of "blue change mold" (aohen-kin) as the real villain. Fukuoka argues the situation is far more complex than either explanation allows.
 
-## Fukuoka's Five Key Observations
+## Fukuoka"s Five Key Observations
 
 Through direct experimentation and observation, Fukuoka identified five critical findings that challenge the conventional narrative:
 

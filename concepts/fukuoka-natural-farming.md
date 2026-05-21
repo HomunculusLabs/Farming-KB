@@ -11,7 +11,7 @@ farming" or "do-nothing farming." His book *The green-philosophy* presents a com
 critique of modern scientific agriculture and offers an alternative
 grounded in non-intervention and harmony with natural-farming-five-principles-fukuoka-farming-fukuoka|natural-farming-principles-fukuoka|natural Farming
 
-Fukuoka's natural-farming-five-principles-fukuoka-farming-fukuoka|natural-farming-principles-fukuoka|natural ecosystem
+Fukuoka"s natural-farming-five-principles-fukuoka-farming-fukuoka|natural-farming-principles-fukuoka|natural ecosystem
 and serve ecological functions that man's understanding cannot
 fully grasp.
 
@@ -41,7 +41,7 @@ reduce our knowledge and effort.
 
 ## The Philosophy of Non-Discriminating Knowledge
 
-Fukuoka's philosophy rests on the premise that man cannot truly
+Fukuoka"s philosophy rests on the premise that man cannot truly
 know nature through scientific analysis. He used the metaphor of a
 flea born inside a sack: no matter how much it studies the objects
 within, it can never guess their true purpose because it has never

@@ -22,11 +22,11 @@ Eugene Pleasants Odum (1913–2002) was an American biologist widely regarded as
 - Published *Fundamentals of Ecology* (W. B. Saunders), the first textbook to treat ecology as a unified discipline rather than a collection of natural-history observations.
 - Pioneered the concept of the ecosystem as a thermodynamic unit — energy enters, is transformed by biological processes, and exits as heat (entropy).
 - Demonstrated that mature ecosystems (forests, wetlands) maximise energy throughput efficiency and biomass, a principle Mollison directly adapted into permaculture design.
-- His work on "ecological succession" showed how pioneer species prepare the environment for more complex, stable communities — a model for [[permaculture-zones-and-sectors]] are built on Odum's energy-cycling diagrams. Understanding how energy moves through a system (sun to plants to fungi to soil to plants) allows cultivators to design for maximum yield with minimum external input.
+- His work on "ecological succession" showed how pioneer species prepare the environment for more complex, stable communities — a model for [[permaculture-zones-and-sectors]] are built on Odum"s energy-cycling diagrams. Understanding how energy moves through a system (sun to plants to fungi to soil to plants) allows cultivators to design for maximum yield with minimum external input.
 2. **Ecosystem maturity:** Odum's successional stages map directly onto mushroom cultivation strategies — pioneer fungi colonise fresh substrate, then decomposer communities develop, enriching the medium for subsequent crops.
 3. **Systems thinking for growers:** Rather than treating a mushroom bed or garden in isolation, Odum's framework encourages viewing the entire property as an energy-transforming system, where waste from one element feeds another.
 4. **Mycorrhizal energetics:** Odum's ecosystem models include mycorrhizal networks as critical energy-transfer pathways between plants and soil, underscoring why fungiculture supports broader plant health.
-5. **Design principle derivation:** Mollison's directive to "catch and store energy" before it leaves the site is a direct application of Odum's energy-budget methodology to land design.
+5. **Design principle derivation:** Mollison's directive to "catch and store energy" before it leaves the site is a direct application of Odum"s energy-budget methodology to land design.
 
 ## References in Source
 

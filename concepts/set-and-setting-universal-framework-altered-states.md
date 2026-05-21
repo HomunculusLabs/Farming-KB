@@ -22,7 +22,7 @@ significant implications:
 
 - **Meditation**: The specific tradition, teacher, and physical
   environment (monastery, retreat center, home) function as setting;
-  the practitioner's intention and expectation function as set
+  the practitioner"s intention and expectation function as set
 - **Hypnosis**: The hypnotist's skill and the subject's
   suggestibility (set) interact with the therapeutic context
   (setting) to determine the quality of the trance
@@ -31,7 +31,7 @@ significant implications:
   determine the character of the [[psycholytic-and-psychedelic-therapy-models]]
 traditions is the amplifier analogy: "the drug functions as a
 nonspecific amplifier of psychic contents." The amplification may
-occur through "a lowering of sensory thresholds, a 'cleansing of
+occur through "a lowering of sensory thresholds, a "cleansing of
 the doors of perception,' and in part be due to not-yet-understood
 central processes involving one or more neurotransmitters."
 

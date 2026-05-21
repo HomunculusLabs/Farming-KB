@@ -1,5 +1,5 @@
 ---
-title: Africa's guzman-allen-gartz-africa-southern-hemisphere-underexplored-neurotropic-fungi freshwater-fungi-diversity-and-sampling
+title: Africa"s guzman-allen-gartz-africa-southern-hemisphere-underexplored-neurotropic-fungi freshwater-fungi-diversity-and-sampling
 source: world-wide-distribution-of-magic-mushrooms-guzman-allen-&-gartz.md
 authors: Gastón Guzmán, John W. Allen, Jochen Gartz
 year: 1998
@@ -8,7 +8,7 @@ topics: neurotropic fungi, Africa, psilocybe, mycology, biodiversity, biogeograp
 ## Africa's Underexplored southern-hemisphere-origin-of-neurotropic-fungi. Guzmán, Allen, and
 Gartz's landmark 1998/2000 survey, *"A Worldwide Geographical Distribution of
 the Neurotropic Fungi,"* documents only **6–8 known neurotropic species** of
-*Psilocybe* across the entire continent — a strikingly low figure given Africa's
+*Psilocybe* across the entire continent — a strikingly low figure given Africa"s
 immense ecological variety. The paper's own distribution maps (Fig. 19) show
 vast blank regions across central Africa, the Sahara, and numerous individual
 nations where no records exist whatsoever.
@@ -39,7 +39,7 @@ one of the world's most widely known [[guzman-chlorophyllum-molybdites-toxic-edi
 
 ## The Sampling Bias Problem
 
-Africa's apparent fungal poverty is almost certainly an artifact of **sampling
+Africa"s apparent fungal poverty is almost certainly an artifact of **sampling
 bias** rather than genuine absence. As Gartz (1996) pithily observed: *"The
 mushrooms occur in abundance wherever mycologists abound."* This bias operates
 at every level:

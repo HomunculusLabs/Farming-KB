@@ -1,6 +1,6 @@
 ---
 title: Cortinarius Webcap Orellanine Kidney Poisoning
-source: Mr. Bloomfield's Orchard (Money, 2002)
+source: Mr. Bloomfield"s Orchard (Money, 2002)
 source_path: raw/papers/mr-bloomfields-orchard---the-mysterious-world-of-mushrooms-molds-and-mycologists.md
 type: concept
 tags: [mycology, mushroom-poisoning, toxicology]
@@ -13,7 +13,7 @@ tags: [mycology, mushroom-poisoning, toxicology]
 Cortinarius, commonly known as webcaps, constitute one of the largest genera of
 mushrooms in the world, with thousands of described species. Among these, a
 small but significant number produce a deadly nephrotoxin called orellanine.
-Nicholas P. Money, in Chapter 8 of "Mr. Bloomfield's Orchard," identifies these
+Nicholas P. Money, in Chapter 8 of "Mr. Bloomfield"s Orchard," identifies these
 webcaps as among the most insidious of all [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] of
 Europe. Additional orellanine-containing species have been identified in North
 America, though confirmed poisonings on that continent remain comparatively

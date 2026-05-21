@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-Beyond the primary N-P-K macronutrients, plants require several additional elements that, while needed in smaller quantities, are no less essential. The secondary macronutrients—calcium, magnesium, and sulfur—along with the beneficial element [[silicon]], are used in significant amounts. The micronutrients (trace minerals)—boron, chlorine, copper, iron, manganese, zinc, molybdenum, and nickel—are required in only minute quantities, but according to von Liebig's [[law-of-the-minimum]], their absence is just as devastating as a lack of any macronutrient.
+Beyond the primary N-P-K macronutrients, plants require several additional elements that, while needed in smaller quantities, are no less essential. The secondary macronutrients—calcium, magnesium, and sulfur—along with the beneficial element [[silicon]], are used in significant amounts. The micronutrients (trace minerals)—boron, chlorine, copper, iron, manganese, zinc, molybdenum, and nickel—are required in only minute quantities, but according to von Liebig"s [[law-of-the-minimum]], their absence is just as devastating as a lack of any macronutrient.
 
 ## Secondary Macronutrients
 

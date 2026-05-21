@@ -16,7 +16,7 @@ created: 2026-05-07
 
 ## Hyperspace, the Logos, and Consciousness
 
-Terence McKenna's framework of hyperspace and the Logos provides an ontological interpretation of the experiences produced by [[tryptamine-hallucinogens]], which "invoke the Logos" by acting directly on the brain's language centers
+Terence McKenna"s framework of hyperspace and the Logos provides an ontological interpretation of the experiences produced by [[tryptamine-hallucinogens]], which "invoke the Logos" by acting directly on the brain"s language centers
 - Capable of conveying translinguistic information that cannot be translated into any human language
 - Consistently encountered across different tryptamine compounds and different experiencers
 
@@ -26,11 +26,11 @@ This interrogative stance, rather than devotional submission, characterized his 
 
 ## Hyperspace
 
-Hyperspace in McKenna's framework is not a speculative physics concept but a phenomenological description of the space encountered in the tryptamine state. It is characterized by:
+Hyperspace in McKenna"s framework is not a speculative physics concept but a phenomenological description of the space encountered in the tryptamine state. It is characterized by:
 
 - A feeling of being underground or inside an insulated, domed space (the "merry go raum")
 - Three-dimensional and fourth-dimensional deployment of information coded as light and evolving surfaces
-- The presence of [[philip-k-dick-valis-and-psychedelic-mysticism]]'s novel Valis for the concept of the Logos as a "creature of pure information" that was buried at Nag Hammadi along with the Chenoboskion Library circa 370 A.D.
+- The presence of [[philip-k-dick-valis-and-psychedelic-mysticism]]"s novel Valis for the concept of the Logos as a "creature of pure information" that was buried at Nag Hammadi along with the Chenoboskion Library circa 370 A.D.
 
 The Logos existed as static information until 1947, when the Nag Hammadi texts were translated and read, bringing the symbiotic intelligence back to life. This parallels the rediscovery of [[information-paradigm-of-consciousness]]
 - [[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also

@@ -11,7 +11,7 @@ tags: [reference]
 
 ## The New Testament as Mushroom Cult Cover Story
 
-At the heart of John Marco Allegro's controversial thesis in "The Sacred
+At the heart of John Marco Allegro"s controversial thesis in "The Sacred
 Mushroom and the Cross" lies the claim that the entire New Testament is a
 deliberately coded document. It was not, as traditionally understood, a record
 of the life and teachings of a historical Jewish preacher named Jesus of

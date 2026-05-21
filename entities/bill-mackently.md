@@ -22,7 +22,7 @@ Bill Mackently is an innovative practitioner cited by Mollison as a personal com
 
 - Uses grey squirrels (Sciurus carolinensis) as harvesting agents for hickory nuts and acorns
 - Provides squirrels with buried pipes as artificial storage sites for nuts
-- Takes approximately 85% of the squirrels' stored harvest, leaving them about 15%
+- Takes approximately 85% of the squirrels" stored harvest, leaving them about 15%
 - This method produces cleaner, more efficiently gathered harvests than mechanical alternatives
 - The approach demonstrates that understanding and exploiting natural animal behaviors can outperform technological solutions
 

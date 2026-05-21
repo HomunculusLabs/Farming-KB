@@ -14,21 +14,21 @@ While the Bible does not explicitly mention mushrooms by a name that modern read
 
 ## Manna: The Mushroom from Heaven
 
-The most explicit biblical mushroom reference, in Allegro's reading, is the manna that fed the Israelites in the wilderness (Exod 16:14-36). The description fits the [[blesching-cannabis-fungal-infections-candida]] of fabrics and walls. Leviticus 14:33-57 describes "greenish or reddish spots" on the walls of houses that spread like a "plague" — a clear description of mould or fungal growth.
+The most explicit biblical mushroom reference, in Allegro"s reading, is the manna that fed the Israelites in the wilderness (Exod 16:14-36). The description fits the [[blesching-cannabis-fungal-infections-candida]] of fabrics and walls. Leviticus 14:33-57 describes "greenish or reddish spots" on the walls of houses that spread like a "plague" — a clear description of mould or fungal growth.
 
-Allegro connects these passages to the mushroom cult through word-play: the Hebrew tsara'ath connects to a Sumerian mushroom name. The priestly inspection of the "plague" mirrors the mushroom-harvester's examination of the fungus. The treatment — scraping the walls, removing affected stones, and replastering — parallels the careful selection of mushroom specimens.
+Allegro connects these passages to the mushroom cult through word-play: the Hebrew tsara"ath connects to a Sumerian mushroom name. The priestly inspection of the "plague" mirrors the mushroom-harvester"s examination of the fungus. The treatment — scraping the walls, removing affected stones, and replastering — parallels the careful selection of mushroom specimens.
 
 The story of Naaman the Syrian's leprosy (2 Kgs 5:1-27), cured by washing seven times in the Jordan, encodes a mushroom-cleansing ritual. The "seven washings" correspond to the seven stages of [[bloomfield-amphibian-decline-fungal-disease-climate-interactions]] of grain. In the cryptographic reading, it connects to the yellowish-green colour of aged or damaged Amanita specimens.
 
 ## The Vine and the Fig Tree
 
-The vine and the fig tree are among the most common botanical images in the Bible. Allegro argues that both were originally mushroom references, later "naturalized" as ordinary plants. The vine's fruit — grapes — are red and round like the Amanita's cap; the fig's fruit is enclosed in an outer covering like the mushroom's volva.
+The vine and the fig tree are among the most common botanical images in the Bible. Allegro argues that both were originally mushroom references, later "naturalized" as ordinary plants. The vine"s fruit — grapes — are red and round like the Amanita's cap; the fig's fruit is enclosed in an outer covering like the mushroom's volva.
 
 Jesus' cursing of the fig tree (Mark 11:12-14, 20-25) encodes a mushroom reference: the tree without fruit is the mushroom past its season; the withering is the mushroom's decay. The lesson about faith that follows is the mushroom's promise of visionary power to those who believe.
 
 ## The Mustard Seed
 
-The parable of the mustard seed (Matt 13:31-32) — "the smallest of all seeds" that grows into "the greatest of shrubs" — describes, in Allegro's reading, the mushroom's spore and its fruiting body. The spore is microscopic (the "smallest seed"); the resulting mushroom can be large and impressive. The "birds of the air" that nest in its branches are the same fertility birds discussed in [[allegro-fertility-philosophy-of-the-ancient-near-east]] Eastern religion continues to receive serious scholarly attention. The discovery of psychoactive substances at archaeological sites and the analysis of ritual plant residues have opened new avenues for investigating the role of entheogens in ancient religion that were unavailable in Allegro's time.
+The parable of the mustard seed (Matt 13:31-32) — "the smallest of all seeds" that grows into "the greatest of shrubs" — describes, in Allegro"s reading, the mushroom's spore and its fruiting body. The spore is microscopic (the "smallest seed"); the resulting mushroom can be large and impressive. The "birds of the air" that nest in its branches are the same fertility birds discussed in [[allegro-fertility-philosophy-of-the-ancient-near-east]] Eastern religion continues to receive serious scholarly attention. The discovery of psychoactive substances at archaeological sites and the analysis of ritual plant residues have opened new avenues for investigating the role of entheogens in ancient religion that were unavailable in Allegro's time.
 
 Critics argue that Allegro's methodology relies on selective citation of Sumerian and Hebrew roots, ignoring established philological standards. Supporters note that his work, even where flawed, raised important questions about the literal reading of ancient religious texts and the possible role of psychoactive substances in the development of religious concepts that deserve further investigation.
 

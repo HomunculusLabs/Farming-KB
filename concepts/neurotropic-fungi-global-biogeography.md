@@ -58,7 +58,7 @@ Hampshire, and Pennsylvania.
 Gartz (1996) aptly observed that "the mushrooms occur in abundance wherever
 mycologists abound." This research bias is evident in the distribution data:
 well-studied regions (Europe, North America, Mexico) show high species counts,
-while under-surveyed regions show few or none. Mueller and Halling's (1995)
+while under-surveyed regions show few or none. Mueller and Halling"s (1995)
 major analysis of Agaricales biodiversity in Neotropical forests notably failed
 to consider any *Psilocybe* species despite their abundance in the study area.
 

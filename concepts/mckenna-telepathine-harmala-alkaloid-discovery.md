@@ -14,7 +14,7 @@ alkaloid found in *[[ayahuasca-preparation]] s, indigenous
 peoples "have long exploited a pharmacological mechanism, MAO inhibition, not described by
 Western science until the 1950s."
 
-This is one of McKenna's most powerful arguments for the sophistication of indigenous
+This is one of McKenna"s most powerful arguments for the sophistication of indigenous
 plant knowledge. The ayahuasca brew is not a simple decoction but a precisely calibrated
 pharmacological preparation that exploits a biochemical mechanism unknown to Western
 science for centuries after its indigenous discovery. The implication is that indigenous
@@ -29,10 +29,10 @@ the attention of European researchers. Lewis Lewin, the "father of psychopharmac
 became fascinated with *Banisteriopsis caapi* and made it the subject of his last
 published work: *Banisteria Caapi, ein neues Rauschgift und Heilmittel* (1929).
 
-Lewin's excitement was fueled by extraordinary ethnographic reports coming from the
+Lewin"s excitement was fueled by extraordinary ethnographic reports coming from the
 Amazon. German ethnographer Theodore Koch-Grünberg had returned from Amazonas with
 accounts of tribes using "telepathy-inducing plant drugs" to direct the course of their
-societies. These reports suggested that the vine's effects extended far beyond individual
+societies. These reports suggested that the vine"s effects extended far beyond individual
 hallucinatory experience into the realm of group communication and social coordination.
 
 ## Telepathine: Naming and the Claims
@@ -44,7 +44,7 @@ naming the alkaloid "telepathine," the French chemists were implicitly endorsing
 indigenous reports of telepathic effects associated with ayahuasca use.
 
 The name telepathine reveals the extraordinary nature of the claims being made about the
-vine's effects. Western scientists of the 1920s, working within a materialist framework,
+vine"s effects. Western scientists of the 1920s, working within a materialist framework,
 nevertheless found the ethnographic reports of telepathy compelling enough to encode them
 in the very name of the compound they had isolated. This naming represents a moment of
 genuine openness to [[desert-food-systems-and-indigenous-knowledge]] systems that would become increasingly rare as
@@ -60,7 +60,7 @@ official precedence over telepathine.
 McKenna clearly regards this renaming as significant. The transition from "telepathine"
 to "harmine" represents the triumph of Western chemical taxonomy over indigenous
 phenomenological knowledge. The name "telepathine" encoded the extraordinary experiential
-reports of Amazonian peoples; the name "harmine" encodes nothing but the compound's
+reports of Amazonian peoples; the name "harmine" encodes nothing but the compound"s
 chemical provenance. In the renaming, the bridge between indigenous knowledge and Western
 science was narrowed rather than widened.
 

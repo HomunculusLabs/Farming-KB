@@ -9,7 +9,7 @@ sources:
 ---
 ## Leary at Harvard and the Psilocybin Project
 
-Terence McKenna's account of Timothy Leary's work at Harvard and the subsequent psychedelic movement of the 1960s forms a pivotal section of Food of the Gods, bridging the historical analysis of plant-drug relationships with the modern era of psychopharmacology and cultural upheaval.
+Terence McKenna"s account of Timothy Leary's work at Harvard and the subsequent psychedelic movement of the 1960s forms a pivotal section of Food of the Gods, bridging the historical analysis of plant-drug relationships with the modern era of psychopharmacology and cultural upheaval.
 
 ## Two Very Different Scientists
 
@@ -17,7 +17,7 @@ It is doubtful that either Leary or [[leary-psychedelic-experience-bardo-mapping
 
 ## Michael Hollingshead and the Mayonnaise Jar
 
-Michael Hollingshead was the person most responsible for making LSD the drug of choice in Harvard's psychedelic circles. Leary latched onto Hollingshead as his guru. He followed him around for days on end. Richard Alpert and Ralph Metzner, two of Leary's closest associates, were vexed to see him in such a helpless state.
+Michael Hollingshead was the person most responsible for making LSD the drug of choice in Harvard"s psychedelic circles. Leary latched onto Hollingshead as his guru. He followed him around for days on end. Richard Alpert and Ralph Metzner, two of Leary's closest associates, were vexed to see him in such a helpless state.
 
 They thought he had really blown his mind and they blamed Hollingshead. But it was only a matter of time before they too sampled the contents of the mayonnaise jar. Hollingshead gave the drug to the members of the psilocybin project and from then on LSD was part of their research repertoire.
 
@@ -47,7 +47,7 @@ What cannot be contained are the effects that psychedelics would have in shaping
 
 Years ago, before Humphrey Osmond coined the term "psychedelic," there was current a phenomenological description for psychedelics; they were called "consciousness-expanding drugs." This is a very good description. Consider our dilemma on this planet. If the expansion of consciousness does not loom large in the human future, what kind of future is it going to be?
 
-To McKenna's mind, the propsychedelic position is most fundamentally threatening to the Establishment because, when fully and logically thought through, it is an antidrug, antiaddiction position. The issue is not whether to use drugs but how conscious we shall be. How drugged shall you be? Or, to put it another way, how conscious shall you be? Who shall be conscious? Who shall be unconscious?
+To McKenna"s mind, the propsychedelic position is most fundamentally threatening to the Establishment because, when fully and logically thought through, it is an antidrug, antiaddiction position. The issue is not whether to use drugs but how conscious we shall be. How drugged shall you be? Or, to put it another way, how conscious shall you be? Who shall be conscious? Who shall be unconscious?
 
 We need a serviceable definition of what we mean by "drug." A drug is something that causes unexamined, obsessive, and habitual behavior. You don't examine obsessive behavior; you just do it. The psychedelic option is off in a tiny corner, never mentioned; yet it represents the only counterflow directed against a tendency to leave people in [[shroom-leary-harvard]]
 - [[dominator-culture-and-partnership-society]]

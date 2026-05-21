@@ -7,11 +7,11 @@ tags: [person, chemist, author, england, lycoperdon, mycology]
 
 ## Overview
 
-Dr. T. L. Phipson was a 19th-century English chemist and scientific writer who authored works touching on the properties of fungi. He is referenced in Palmer's "About Mushrooms" as the source who quoted testimony from Dr. Richardson regarding the anesthetic properties of [[lycoperdon]] (puffball) species, published in the Popular Science Review of 1863.
+Dr. T. L. Phipson was a 19th-century English chemist and scientific writer who authored works touching on the properties of fungi. He is referenced in Palmer"s "About Mushrooms" as the source who quoted testimony from Dr. Richardson regarding the anesthetic properties of [[lycoperdon]] (puffball) species, published in the Popular Science Review of 1863.
 
 ## Key Contribution
 
-Dr. Phipson served as a conduit for disseminating knowledge about the [[amanita-muscaria-medicinal-properties-heart-anxiety-dreams]] of [[puffball-fungi]] (Lycoperdon species). In his 1863 publication in the Popular Science Review (page 25), he relayed Dr. Richardson's findings about the anesthetic properties of Lycoperdon, establishing an important historical record of traditional and experimental uses of puffball spores.
+Dr. Phipson served as a conduit for disseminating knowledge about the [[amanita-muscaria-medicinal-properties-heart-anxiety-dreams]] of [[puffball-fungi]] (Lycoperdon species). In his 1863 publication in the Popular Science Review (page 25), he relayed Dr. Richardson"s findings about the anesthetic properties of Lycoperdon, establishing an important historical record of traditional and experimental uses of puffball spores.
 
 ## The Puffball Anesthetic Connection
 
@@ -44,7 +44,7 @@ Palmer cited Phipson's account in the context of a confusing poisoning case (the
 
 Dr. Phipson was known in Victorian scientific circles as a prolific contributor to the popular science press. His role in bridging the gap between laboratory findings and public awareness was typical of the Victorian "scientific intermediary" — a figure who collected, synthesized, and disseminated specialized knowledge to a broader educated audience.
 
-His citation of Richardson's puffball testimony in the Popular Science Review exemplified this intermediary function: Richardson's clinical observations might have remained obscure without Phipson's attention to recording and publishing them.
+His citation of Richardson"s puffball testimony in the Popular Science Review exemplified this intermediary function: Richardson's clinical observations might have remained obscure without Phipson's attention to recording and publishing them.
 
 ## The Valerian Odor Connection
 

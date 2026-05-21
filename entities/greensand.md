@@ -9,7 +9,7 @@ tags: [soil-amendments, minerals, organic-farming, fertility]
 
 ## Description
 
-Greensand is a natural mineral soil amendment derived from glauconite, a green-colored potassium-iron silicate mineral found in ancient marine deposits. In organic farming, it is valued as a slow-release source of potassium and trace minerals that does not leach readily from soil. Referenced in *The Winter Harvest Handbook* at p. 132 as a key component of Coleman's mineral soil fertility program at [[four-season-farm]].
+Greensand is a natural mineral soil amendment derived from glauconite, a green-colored potassium-iron silicate mineral found in ancient marine deposits. In organic farming, it is valued as a slow-release source of potassium and trace minerals that does not leach readily from soil. Referenced in *The Winter Harvest Handbook* at p. 132 as a key component of Coleman"s mineral soil fertility program at [[four-season-farm]].
 
 ## Classification
 

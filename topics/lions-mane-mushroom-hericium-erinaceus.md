@@ -1,5 +1,5 @@
 ---
-title: Lion's Mane Mushroom (hericium-erinaceus)
+title: Lion"s Mane Mushroom (hericium-erinaceus)
 tags:
   - mushroom
   - medicinal-mushroom
@@ -13,7 +13,6 @@ date: 2026-05-03
 updated: 2026-05-03
 sources:
   - Wasser, S.P. (2014). "Medicinal mushroom science: History, current status, future trends, and unsolved problems." International Journal of cancer-medicinal-mushrooms, 16(3), 237-256.---
----
 
 ## Lion's Mane Mushroom (Hericium erinaceus)
 

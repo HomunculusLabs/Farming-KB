@@ -21,7 +21,7 @@ pockets that provide necessary oxygen to plants.
 ## Wood Selection
 
 Certain types of wood may not be suitable. Treated wood, cedar, and black locust
-don't rot very well, and woods that are naturally toxic to plants like black
+don"t rot very well, and woods that are naturally toxic to plants like black
 walnut are probably not conducive to growing a garden. Fresh wood can be used,
 but it will use nitrogen to decompose, robbing it from the soil and locking it
 up. Rotten wood won't do this, and if it is very well rotted, it may actually

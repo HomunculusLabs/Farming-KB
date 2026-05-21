@@ -10,7 +10,7 @@ type: concept
 
 Fungal activation is a pre-brewing technique used to boost fungal populations in compost tea. Rather than relying on the [[compost-tea-brewing]] process alone to grow fungi, the compost is first inoculated with fungal foods and incubated for several days. This gives fungi time to multiply and form robust [[fungal-mycelial-networks-nutrient-translocation]] before being brewed into aerated compost tea (ACT). The method is described in detail in *Teaming with Microbes* by [[jeff-lowenfels]] and [[wayne-lewis]].
 
-## The Problem: Fungi Don't Multiply During Brewing
+## The Problem: Fungi Don"t Multiply During Brewing
 
 One of the most common frustrations among compost tea brewers is the difficulty of achieving a fungal-dominant tea. The root cause lies in the fundamental biology of how bacteria and fungi behave during the brewing process:
 
@@ -55,7 +55,7 @@ Place the mixture in a warm, dark location. The target temperature is **80°F (2
 
 ### Step 4: Verify Activation
 
-After 3 days, inspect the compost. Successful fungal activation is indicated by visible **white, fluffy mycelial strands** growing throughout the mixture. Lowenfels and Lewis describe this appearance as resembling *"Santa Claus's beard"* — a dense, cottony network of white hyphae coating the compost particles. This visual confirmation tells you the fungi have successfully colonized the compost and are ready for brewing.
+After 3 days, inspect the compost. Successful fungal activation is indicated by visible **white, fluffy mycelial strands** growing throughout the mixture. Lowenfels and Lewis describe this appearance as resembling *"Santa Claus"s beard"* — a dense, cottony network of white hyphae coating the compost particles. This visual confirmation tells you the fungi have successfully colonized the compost and are ready for brewing.
 
 If you see little to no mycelial growth after 3 days, possible causes include:
 

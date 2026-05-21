@@ -1,5 +1,5 @@
 ---
-title: Coleman's coleman-claytonia-winter-harvest-cultivation Three Components
+title: Coleman"s coleman-claytonia-winter-harvest-cultivation Three Components
 created: 2026-05-08
 tags: [farming, winter-harvest, Eliot-Coleman, greenhouse, succession-planting, cold-hardy-vegetables, four-season-farming]
 date: 2026-05-08

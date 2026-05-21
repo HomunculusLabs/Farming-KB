@@ -31,7 +31,7 @@ They provide me with a substantially larger area for cultivation and gaining thi
 
 The terraces also help to stop valuable humus from being washed away, help prevent soil erosion, and make a considerable contribution to the health and fertility of the soil. When making a terrace it is very important to minimise the number of dead ends. There should be no straight lines, corners or steep slopes.
 
-The avoidance of straight lines and sharp corners is a distinctive feature of Holzer's design aesthetic. In conventional agriculture, terraces are typically straight and uniform, designed for the convenience of machinery.
+The avoidance of straight lines and sharp corners is a distinctive feature of Holzer"s design aesthetic. In conventional agriculture, terraces are typically straight and uniform, designed for the convenience of machinery.
 
 Holzer's terraces curve and meander, following the natural contours of the slope. This organic geometry has practical benefits: it reduces erosion by eliminating concentrated flow paths, creates more edge habitat (the most productive zone in any landscape), and makes the landscape more visually appealing.
 

@@ -6,7 +6,7 @@ type: concept
 
 ## Implicate Order and Pattern Unity
 
-The concept of **implicate order**, drawn from physicist David Bohm's work *Wholeness and the Implicate Order* (1980), provides a philosophical foundation for understanding patterns in nature and [[permaculture-ethics-earth-care-people-care-fair-share]] design, where elements are understood not in isolation but as parts of interrelated systems.
+The concept of **implicate order**, drawn from physicist David Bohm"s work *Wholeness and the Implicate Order* (1980), provides a philosophical foundation for understanding patterns in nature and [[permaculture-ethics-earth-care-people-care-fair-share]] design, where elements are understood not in isolation but as parts of interrelated systems.
 
 ## Genealogy and Pattern Streams
 
@@ -18,7 +18,7 @@ While local patterns grant weak predictive capacity, the patterns our local unde
 
 ## Lovelock and the Gaia Hypothesis
 
-James Lovelock's Gaia hypothesis (1979) best expresses the synthesis of scientific insights and older tribal beliefs asserting the interdependence of animate and inanimate events. The Earth behaves as a self-regulating, self-generated construct — akin to a single organism or a thought process. The conditions making life possible are balanced about such fine tolerances that many processes likely exist specifically to preserve dynamic equilibrium.
+James Lovelock"s Gaia hypothesis (1979) best expresses the synthesis of scientific insights and older tribal beliefs asserting the interdependence of animate and inanimate events. The Earth behaves as a self-regulating, self-generated construct — akin to a single organism or a thought process. The conditions making life possible are balanced about such fine tolerances that many processes likely exist specifically to preserve dynamic equilibrium.
 
 ## Implications for Design
 

@@ -64,7 +64,7 @@ Other suitable fish: sardines, anchovies, any oily fish. Avoid large predator fi
 9. Strain liquid through cheesecloth — this is FAA
 10. Fish residue can be added to compost (high nitrogen) or used for [[water-soluble-calcium-phosphate-wcp]]
 
-**Enhanced Method with IMO-3** (from Cho's book):
+**Enhanced Method with IMO-3** (from Cho"s book):
 - Add IMO-3 (see [[indigenous-microorganisms-imo]]) to the fish-sugar mixture
 - IMO-3 contains lipase-producing bacteria that dissolve fish fats
 - Fat dissolution prevents rancidity and improves FAA quality

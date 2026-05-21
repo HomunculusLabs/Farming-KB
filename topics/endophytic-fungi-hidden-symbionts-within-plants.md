@@ -4,7 +4,7 @@ subtitle: The endophytic fungi hidden symbionts within plants Living Within Plan
 tags: [mycology, plant-biology, symbiosis, endophytes, fungal-ecology, agriculture, chemical-ecology]
 date: 2026-04-28
 updated: 2026-04-28
-sources: ['raw/papers/what-a-plant-knows-daniel-chamovitz.md']
+sources: ["raw/papers/what-a-plant-knows-daniel-chamovitz.md']
   - "raw/papers/symbiotic-fungi.md"
   - "raw/papers/teaming-with-fungi-lowenfels.md"
 related_concepts:

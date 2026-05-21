@@ -99,7 +99,7 @@ Defoliation is the strategic removal of leaves to improve light penetration and 
 - Never remove more than 50% of foliage at once
 - Focus on large fan leaves, not sugar leaves near buds
 - Remove leaves that are pointing downward or shading bud sites
-- Leave at least 60% of the plant's total leaf area for photosynthesis
+- Leave at least 60% of the plant"s total leaf area for photosynthesis
 
 ### Debate
 

@@ -10,7 +10,7 @@ sources:
 
 ## The Seven Peaceful Visions
 
-In Leary's adaptation of the Tibetan Book of the Dead, the Second Bardo (Chonyid Bardo) contains two major categories of visionary experience: seven Peaceful Visions and their corresponding Wrathful counterparts. Each peaceful vision represents a mode of perception available during the hallucinatory phase of a psychedelic session, and each carries an "ego trap" — a temptation to interpret the vision through the lens of personal game-playing rather than recognizing it as a product of one's own mind.
+In Leary"s adaptation of the Tibetan Book of the Dead, the Second Bardo (Chonyid Bardo) contains two major categories of visionary experience: seven Peaceful Visions and their corresponding Wrathful counterparts. Each peaceful vision represents a mode of perception available during the hallucinatory phase of a psychedelic session, and each carries an "ego trap" — a temptation to interpret the vision through the lens of personal game-playing rather than recognizing it as a product of one"s own mind.
 
 The manual draws on Lama Govinda's interpretation that each vision corresponds to one of the five Dhyani Buddhas, with their associated colors, elements, and wisdom qualities. Leary translates these correspondences into "psychedelic English" while preserving the underlying structure.
 
@@ -24,9 +24,9 @@ Magnificent revelations, both spiritual and philosophic, can occur at this point
 
 This vision involves eyes closed, with intellectual aspects dominant. The person is "caught up in an endless flow of colored forms, microbiological shapes, cellular acrobatics, capillary whirling." The cortex turns inward on molecular processes "completely new and strange: a Niagara of abstract designs; the life-stream flowing, flowing."
 
-Leary includes a remarkable passage from the Tibetan Book describing seven types of internal sounds corresponding to seven Tibetan ritual instruments: big drums (thudding), cymbals (clashing), conch shells (soughing), bells (ringing), timbrels (tapping), clarionets (moaning), big trumpets (bass moaning), and thighbone trumpets (shrill sound). The Tibetan lamas maintained these instruments "psychically produce in the devotee an attitude of deep veneration and faith, because they are the counterparts of the natural sounds which one's own body is heard producing."
+Leary includes a remarkable passage from the Tibetan Book describing seven types of internal sounds corresponding to seven Tibetan ritual instruments: big drums (thudding), cymbals (clashing), conch shells (soughing), bells (ringing), timbrels (tapping), clarionets (moaning), big trumpets (bass moaning), and thighbone trumpets (shrill sound). The Tibetan lamas maintained these instruments "psychically produce in the devotee an attitude of deep veneration and faith, because they are the counterparts of the natural sounds which one"s own body is heard producing."
 
-Three traps accompany this vision. The verbalization trap: converting the life flow into a "cosmic ink-blot test" by labeling each form ("Now I see a peacock's tail. Now Muslim knights in colored armor"). The sexual interpretation trap: imposing personal sexual game models on the dancing, playful flow of life. The physical symptom trap: interpreting new somatic sensations as illness — "Medical doctors are, in fact, extremely prone and can imagine colorful diseases and fatal attacks."
+Three traps accompany this vision. The verbalization trap: converting the life flow into a "cosmic ink-blot test" by labeling each form ("Now I see a peacock"s tail. Now Muslim knights in colored armor"). The sexual interpretation trap: imposing personal sexual game models on the dancing, playful flow of life. The physical symptom trap: interpreting new somatic sensations as illness — "Medical doctors are, in fact, extremely prone and can imagine colorful diseases and fatal attacks."
 
 ### Vision 3: The Fire-Flow of Internal Unity
 
@@ -38,7 +38,7 @@ The ego trap here is that "You, You, are disappearing into the unity." The last 
 
 ### Vision 4: The Wave-Vibration Structure of External Forms
 
-Eyes open, intellectual aspects. The subject experiences direct sensation — "not objects, but patterns of light waves; not 'music' or 'meaningful' sound, but acoustic waves." The revelation that "all sensation and perception are based on wave vibrations" and that "the world around him which heretofore had an illusory solidity, is nothing more than a play of physical waves."
+Eyes open, intellectual aspects. The subject experiences direct sensation — "not objects, but patterns of light waves; not "music' or 'meaningful' sound, but acoustic waves." The revelation that "all sensation and perception are based on wave vibrations" and that "the world around him which heretofore had an illusory solidity, is nothing more than a play of physical waves."
 
 This "Maya revelation" produces two possible reactions. The positive: "exultant radiations" and illuminated power as everything is experienced as consciousness. The negative: terror as "He, Me, I are dissolving!" — all solidity gone, every concept collapsed into electrical vibrations lacking substance.
 
@@ -60,7 +60,7 @@ Personal and racial memories bubble up, interplay with fantasies, wishes, dreams
 
 The most dramatic phase: "The play of forms and things becomes the play of heroic figures, superhuman spirits and demigods." Radiating figures in human forms appear — "The Lotus Lord of Dance," heroes, heroines, celestial warriors, angels, fairies. The exact form depends on cultural background: "characters from Greek, Egyptian, Nordic, Celtic, Aztec, Persian, Indian, Chinese mythology."
 
-The source is always the same: "they are the concrete embodiments of aspects of the person's own psyche. Archetypal forces below verbal awareness and expressible only in symbolic form." The danger is becoming frightened by or unduly attracted to these powerful figures.
+The source is always the same: "they are the concrete embodiments of aspects of the person"s own psyche. Archetypal forces below verbal awareness and expressible only in symbolic form." The danger is becoming frightened by or unduly attracted to these powerful figures.
 
 ## The Wrathful Visions
 

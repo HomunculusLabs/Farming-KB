@@ -15,7 +15,7 @@ sources:
 
 ## Overview
 
-**Crassula rupestris** Aiton, commonly known as rosary vine or baby's necklace, is a compact succulent subshrub in the family Crassulaceae. It is native to the Western and Eastern Cape of South Africa, where it grows on rocky hillsides and in dry scrub.
+**Crassula rupestris** Aiton, commonly known as rosary vine or baby"s necklace, is a compact succulent subshrub in the family Crassulaceae. It is native to the Western and Eastern Cape of South Africa, where it grows on rocky hillsides and in dry scrub.
 
 The species is named for its habit of growing on rocks (Latin: *rupes* = rock). It is one of the most widely cultivated Crassula species, valued for its neat, stacked leaf pairs and ease of growth.
 

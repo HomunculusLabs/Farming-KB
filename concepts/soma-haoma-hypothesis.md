@@ -73,7 +73,7 @@ scholarship to the question. His argument drew on multiple lines of evidence:
 ## Arguments Supporting the Hypothesis
 
 - The Rig Veda describes Soma as having "tawny" or "ruddy" hues, matching
-  the mushroom's distinctive red coloration
+  the mushroom"s distinctive red coloration
 - The Vedic description of Soma growing "on the mountains" corresponds to the
   boreal-montane distribution of Amanita muscaria
 - The practice of urine drinking is a unique and highly specific parallel

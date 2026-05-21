@@ -20,10 +20,10 @@ The sacred water crossed by the narrow bridge had chthonic significance -- Eleus
 
 ## The Initiation Sequence
 
-The full sequence required more than half a year's residence in Athens, including the cost of a sacrificial pig and the fees of various priests and guides -- a little more than a month's wages for a labourer. The proceedings unfolded in several stages:
+The full sequence required more than half a year"s residence in Athens, including the cost of a sacrificial pig and the fees of various priests and guides -- a little more than a month's wages for a labourer. The proceedings unfolded in several stages:
 
 ### Preliminary Rites (Lesser Mysteries)
-Held in February at Agrai (the "hunting place"), candidates experienced ritual mimeses of Persephone's death. This was considered a preliminary for the Greater Mystery. These Lesser Mysteries centered upon death and were an essential prerequisite. Ruck interprets the Lesser Mysteries as a dramatized encounter with death, preparing the initiate for the actual visionary experience to come.
+Held in February at Agrai (the "hunting place"), candidates experienced ritual mimeses of Persephone"s death. This was considered a preliminary for the Greater Mystery. These Lesser Mysteries centered upon death and were an essential prerequisite. Ruck interprets the Lesser Mysteries as a dramatized encounter with death, preparing the initiate for the actual visionary experience to come.
 
 ### The Sacred Road Pilgrimage
 Each autumn, thousands of new candidates walked the Sacred Road from Athens to Eleusis. They crossed the narrow bridge over swampy waters that symbolically divided Athens from the sacred territory. Along the way, masked men would obscenely insult the pilgrims -- a ritual humiliation paralleling the death of the ego. The procession called upon Iakchos to lead them, summoning back Persephone into the realm of the living. Every step of the way recalled some aspect of the myth of Demeter and Persephone.

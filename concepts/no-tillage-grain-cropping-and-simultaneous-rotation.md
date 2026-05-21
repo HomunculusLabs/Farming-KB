@@ -6,7 +6,7 @@ type: concept
 
 ## No-Tillage Grain Cropping and Simultaneous Rotation
 
-No-tillage grain cropping eliminates ploughing by using continuous mulch cover and combining the traditional rotation sequence (legume/grain/root crop/pasture/fallow/legume) into a single grain/legume mixed crop. Mollison credits [[masanobu-fukuoka]]'s "The One-Straw Revolution" as the system that solved the problem of including grain and legume crops in permaculture without tractor or machinery.
+No-tillage grain cropping eliminates ploughing by using continuous mulch cover and combining the traditional rotation sequence (legume/grain/root crop/pasture/fallow/legume) into a single grain/legume mixed crop. Mollison credits [[masanobu-fukuoka]]"s "The One-Straw Revolution" as the system that solved the problem of including grain and legume crops in permaculture without tractor or machinery.
 
 ## The Simultaneous Rotation Concept
 
@@ -29,7 +29,7 @@ After levelling, spread lime or dolomite, water in. Apply complete seed-free mul
 - In the second year, sow rye and clover into the ripe rice crop
 
 ### May
-- First week: harvest last year's rice
+- First week: harvest last year"s rice
 - Dry crop on racks for 2–3 weeks, thresh
 - Return all rice straw and husks to the field
 - Resow unhusked rice within a month of harvesting

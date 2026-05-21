@@ -4,7 +4,7 @@ source: masanobu-fukuoka-the-road-back-to-nature.md
 topics: [natural-farming, fukuoka, philosophy, agriculture, spirituality]
 ---
 
-## Fukuoka's Natural Farming Philosophy
+## Fukuoka"s Natural Farming Philosophy
 
 ## The Road Back to Nature (1987)
 
@@ -22,7 +22,7 @@ outward without aim or direction has brought human thought to the extremes of
 confusion, recklessly splitting apart God, nature, and man — originally one
 indivisible — and leaving only a legacy of incoherent chaos."
 
-Unlike purely scientific critiques, Fukuoka's argument is fundamentally spiritual.
+Unlike purely scientific critiques, Fukuoka"s argument is fundamentally spiritual.
 He asserts that God did not create nature — rather, God came to dwell in nature
 of its own accord. The soul of nature is the will of God, not accessible through
 dissection or [[fukuoka-critique-scientific-farming-energy-efficiency]] as essentially

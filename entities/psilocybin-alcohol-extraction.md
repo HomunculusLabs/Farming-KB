@@ -65,7 +65,7 @@ Psilocybin alcohol extraction is a technique described in the [[pf-tek]] for con
 ## Storage
 
 - Store the concentrated "psilo-liqueur" in small screw-cap bottles or vials.
-- Keep in the freezer — alcohol doesn't freeze solid and remains liquid.
+- Keep in the freezer — alcohol doesn"t freeze solid and remains liquid.
 - The extract has a distinctive "pungent mushroomy aroma (like fungi perfume)."
 
 ## Procuring 200-Proof Alcohol

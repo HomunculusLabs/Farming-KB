@@ -10,7 +10,7 @@ type: concept
 
 The intersection of endogenous neurochemistry and entheogenic plant pharmacology reveals a compelling framework for understanding both ancient sacramental brews and naturally occurring altered states of consciousness. At the center of this framework is **pinoline**, a naturally occurring monoamine oxidase inhibitor (MAOI) produced by the pineal gland, which acts in concert with endogenous DMT to facilitate visionary and psychic experiences.
 
-This endogenous mechanism mirrors the pharmacological logic behind some of the world's most powerful entheogenic preparations, particularly **Ayahuasca** and its analogues, and provides a biochemical key to one of the oldest mysteries in ethnobotany: the identity of the Vedic sacrament known as **Soma**.
+This endogenous mechanism mirrors the pharmacological logic behind some of the world"s most powerful entheogenic preparations, particularly **Ayahuasca** and its analogues, and provides a biochemical key to one of the oldest mysteries in ethnobotany: the identity of the Vedic sacrament known as **Soma**.
 
 The concept that visionary experiences can arise both from within the brain (through endogenous neurochemistry) and from without (through entheogenic plant combinations) bridges the gap between ancient spiritual wisdom and modern neuroscience, suggesting that the two traditions have been describing the same fundamental phenomenon from different vantage points.
 

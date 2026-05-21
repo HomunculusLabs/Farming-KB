@@ -12,7 +12,7 @@ type: concept
 ## Designer States of Consciousness Critique in Food of the Gods
 
 One of the most provocative arguments in *Food of the Gods* is Terence
-McKenna's critique of what he calls "designer states of consciousness,"
+McKenna"s critique of what he calls "designer states of consciousness,"
 the manufactured modes of awareness imposed on modern people by
 advertising, mass media, and consumer culture. For McKenna, the real
 "drug problem" is not the use of psychedelics but the pervasive

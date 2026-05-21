@@ -33,7 +33,7 @@ A large number of failures in mushroom growing have been the direct result of **
 
 ### The Wrong Reasons for Entering Mushroom Growing
 
-A recurring theme in correspondence was that many people undertook mushroom growing for the wrong reasons. The following "excuses" were frequently offered: "I am broken down in health, wealth, or temperament, and this pursuit appeals to me as an 'Aladdin's Lamp' whereby I may obtain the independence desired." Mushroom growing is an established industry requiring skill, attention, and investment—it is not a get-rich-quick scheme for the desperate.
+A recurring theme in correspondence was that many people undertook mushroom growing for the wrong reasons. The following "excuses" were frequently offered: "I am broken down in health, wealth, or temperament, and this pursuit appeals to me as an "Aladdin's Lamp' whereby I may obtain the independence desired." Mushroom growing is an established industry requiring skill, attention, and investment—it is not a get-rich-quick scheme for the desperate.
 
 ## Qualifications for Commercial Growing
 

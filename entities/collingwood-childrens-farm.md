@@ -1,5 +1,5 @@
 ---
-title: Collingwood Children's Farm
+title: Collingwood Children"s Farm
 source: david-holmgren-permaculture-principles-pathways-beyon.md
 type: entity
 ---

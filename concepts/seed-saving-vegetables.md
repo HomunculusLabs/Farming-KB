@@ -9,7 +9,7 @@ sources: [raw/papers/gardening-when-it-counts-steve-solomon.md]
 
 # Seed Saving Vegetables
 
-Practical guide to saving vegetable seeds for the home gardener, distilled from [[steve-solomon]]'s "[[gardening-when-it-counts]]." Home-garden seed production is one of the most valuable self-reliance skills, but it requires understanding the biology of each crop species.
+Practical guide to saving vegetable seeds for the home gardener, distilled from [[steve-solomon]]"s "[[gardening-when-it-counts]]." Home-garden seed production is one of the most valuable self-reliance skills, but it requires understanding the biology of each crop species.
 
 ## Self-Pollinating vs. Outcrossing Species
 
@@ -44,7 +44,7 @@ Saving seed from outcrossers requires either isolation distance (often 0.5-1 mil
 
 For beans, peas, and other crops that produce dry seed in pods:
 
-1. Allow pods to dry on the plant until the stem end withers — this indicates the plant's sap is no longer flowing into the seed
+1. Allow pods to dry on the plant until the stem end withers — this indicates the plant"s sap is no longer flowing into the seed
 2. At this point, any further nutrition added to the seed's food reserve comes from the pod itself as it withers
 3. Pick each pod individually at optimal maturation for the highest quality seed
 4. Finish drying in a large bowl or on screens in a dry, well-ventilated space

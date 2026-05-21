@@ -22,7 +22,7 @@ Foliar application is a core delivery method in the JADAM ultra-low-cost
 farming system. Rather than relying solely on soil-based nutrient delivery,
 JADAM employs foliar spraying to supplement plant nutrition and apply pest
 control agents directly to plant surfaces. This approach is central to
-achieving the system's goal of farming at minimal cost while maintaining
+achieving the system"s goal of farming at minimal cost while maintaining
 or improving crop health.
 
 ## The Dual Pathway: Soil and Foliar

@@ -6,7 +6,7 @@ type: entity
 
 ## Description
 
-The Clear Light is a central concept in Tibetan Buddhism and the [[bardo-thodol]], referring to a state of pure, luminous awareness that manifests at the moment of [[default-mode-network-and-ego-dissolution]]. In *The [[leary-psychedelic-experience-bardo-mapping]]*, Leary describes the Clear Light as the goal of the first phase ([[chikhai-bardo]]) of a psychedelic session — a state of complete transcendence beyond words, space-time, and self. The concept is also referenced in [[aldous-huxley]]'s *Doors of Perception*, from which Leary quotes a passage about the difficulty of maintaining focus on the Clear Light without a guide present.
+The Clear Light is a central concept in Tibetan Buddhism and the [[bardo-thodol]], referring to a state of pure, luminous awareness that manifests at the moment of [[default-mode-network-and-ego-dissolution]]. In *The [[leary-psychedelic-experience-bardo-mapping]]*, Leary describes the Clear Light as the goal of the first phase ([[chikhai-bardo]]) of a psychedelic session — a state of complete transcendence beyond words, space-time, and self. The concept is also referenced in [[aldous-huxley]]"s *Doors of Perception*, from which Leary quotes a passage about the difficulty of maintaining focus on the Clear Light without a guide present.
 
 ## Classification
 
@@ -19,7 +19,7 @@ The Clear Light is a central concept in Tibetan Buddhism and the [[bardo-thodol]
 - In Tibetan Buddhism, the Clear Light appears at the moment of death (or ego-loss) as the fundamental nature of mind
 - Leary mapped this onto the initial phase of a psychedelic experience: "complete transcendence — beyond words, beyond space-time, beyond self"
 - The [[metzner-leary-bardo-thodol-and-tao-te-ching-adaptation]] instructs that recognizing and merging with the Clear Light leads to liberation
-- Huxley (quoted in Leary's dedication) emphasized the difficulty of maintaining attention on the Clear Light without a guide — "Perhaps I could — but only if there were somebody there to tell me about the Clear Light"
+- Huxley (quoted in Leary"s dedication) emphasized the difficulty of maintaining attention on the Clear Light without a guide — "Perhaps I could — but only if there were somebody there to tell me about the Clear Light"
 - This concept provided the theoretical basis for the "sitter" or "guide" role in psychedelic sessions
 - In the psychedelic context, the Clear Light represents the ideal outcome: liberation from ego-games into pure awareness
 - The manual instructs: "Whenever in doubt, turn off your mind, relax, float downstream"

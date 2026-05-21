@@ -17,7 +17,7 @@ Dr. [[jim-trappe]] is a renowned mycologist and emeritus professor at Oregon Sta
 - **Affiliation**: Oregon State University (emeritus/retired)
 - **Field**: Mycology / Mycorrhizal ecology
 - **Specialization**: Ectomycorrhizal fungi taxonomy and ecology
-- **Status**: Retired (at time of Ingham's writing)
+- **Status**: Retired (at time of Ingham"s writing)
 
 ## Key Facts
 

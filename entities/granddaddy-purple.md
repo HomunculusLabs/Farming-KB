@@ -49,7 +49,7 @@ pigmentation when exposed to cooler nighttime temperatures in late flowering.
 - **Taste:** Sweet grape and berry inhale, earthy floral exhale
 - **Smoke:** Smooth, moderately dense, lingering sweet aftertaste
 
-The grape-forward aroma is the strain's signature characteristic and largely
+The grape-forward aroma is the strain"s signature characteristic and largely
 responsible for establishing the "grape" terpene archetype in cannabis
 marketing.
 

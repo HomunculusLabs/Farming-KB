@@ -94,7 +94,7 @@ Used in traditional Chinese medicine to treat **liver diseases and gastric ulcer
 ## Trametes versicolor (Turkey Tail)
 
 ### Description
-Multicoloured cap resembling a 'turkey tail'; occurs as overlapping clusters on dead logs worldwide. **Not edible** but hot water extracts used in traditional Chinese medicine from historical times.
+Multicoloured cap resembling a "turkey tail'; occurs as overlapping clusters on dead logs worldwide. **Not edible** but hot water extracts used in traditional Chinese medicine from historical times.
 
 ### PSK ("Krestin") and PSP
 Modern studies have produced two extremely important compounds:

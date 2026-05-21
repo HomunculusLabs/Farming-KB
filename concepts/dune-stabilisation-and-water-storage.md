@@ -6,7 +6,7 @@ type: concept
 
 ## Dune Stabilisation and Water Storage
 
-Sand dunes are among the most dynamic and challenging landforms in arid environments, yet they also harbour some of the desert's most significant water reserves. Understanding how dunes form, move, and store water is essential for any [[humus]] and dust particles) support quite dense vegetation (50% cover), while others are almost sterile and lack basic plant nutrients.
+Sand dunes are among the most dynamic and challenging landforms in arid environments, yet they also harbour some of the desert"s most significant water reserves. Understanding how dunes form, move, and store water is essential for any [[humus]] and dust particles) support quite dense vegetation (50% cover), while others are almost sterile and lack basic plant nutrients.
 
 Any traveller in vegetated deserts will notice that the largest trees—sometimes the only trees—stand in the dune ridges. This is apparent with dunes on harder pavement, dunes on clay, and in coastal dune hollows and deflation hollows in sands. At the edge of large dune complexes, water rushes and sedges appear at base seepage, and even shallow lagoons form that are as much dune-fed as dune-dammed.
 

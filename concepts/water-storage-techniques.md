@@ -21,7 +21,7 @@ Water storage is one of the most critical elements of [[coleman-soil-heat-mass-p
 
 ### The Bunyip Level
 
-Mollison describes the Bunyip level, "a sophisticated bit of equipment invented by the ancient Chinese and originally made of pig's guts, but adaptable to modern materials." It is used to find dead level lines across the landscape for swales and dam walls. "You start at your knoll, or you descend across the landscape on your keyline. Or you strike a dead level thing for a swale."
+Mollison describes the Bunyip level, "a sophisticated bit of equipment invented by the ancient Chinese and originally made of pig"s guts, but adaptable to modern materials." It is used to find dead level lines across the landscape for swales and dam walls. "You start at your knoll, or you descend across the landscape on your keyline. Or you strike a dead level thing for a swale."
 
 ## Tank Siting and Design
 
@@ -29,7 +29,7 @@ Key considerations include:
 - **Catchment area**: The ratio of catchment to storage area determines fill rate. "Just when everything is melting, you can follow all the trickles across the landscape and work these little things out."
 - **Evaporation**: In arid areas, evaporation can exceed inflow; deeper tanks with smaller surface area minimize losses
 - **Seepage**: All dams seep to some degree; clay-rich sites minimize this
-- **Siltation**: Design sediment traps upstream to extend the dam's useful life
+- **Siltation**: Design sediment traps upstream to extend the dam"s useful life
 - **Where water speeds up**: That is where your dam wall goes. "Where it is moving slowly, that is the floor of your dam."
 
 ## Biological Nutrient Capture

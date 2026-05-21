@@ -1,5 +1,5 @@
 ---
-title: Fukuoka's Desert Revegetation and the Second Genesis
+title: Fukuoka"s Desert Revegetation and the Second Genesis
 source: Masanobu Fukuoka - Sowing Seeds in the Desert (2012)
 created: 2026-05-08
 tags: [natural-farming, desertification, revegetation, second-genesis, fukuoka, global-restoration]
@@ -7,7 +7,7 @@ tags: [natural-farming, desertification, revegetation, second-genesis, fukuoka, 
 
 ## Overview
 
-Masanobu Fukuoka's plan for revegetating the world's deserts, which he called the "Second Genesis," represents the culmination of his life's work. Developed during his travels to India, Africa, the United States, Europe, and China over the final three decades of his life, the plan applies [[fukuoka-sowing-desertification-countermeasures-and-modern-failures]], in Fukuoka's view, suffered from several fundamental flaws. They attempted to impose human designs on nature rather than working with natural processes. They selected a small number of species based on scientific analysis rather than providing the full range of possibilities. They required ongoing human intervention — irrigation, weeding, pest control — to maintain the planted vegetation. And they addressed symptoms rather than causes, treating the visible problem of bare ground without correcting the underlying degradation of soil and ecosystem function.
+Masanobu Fukuoka's plan for revegetating the world's deserts, which he called the "Second Genesis," represents the culmination of his life"s work. Developed during his travels to India, Africa, the United States, Europe, and China over the final three decades of his life, the plan applies [[fukuoka-sowing-desertification-countermeasures-and-modern-failures]], in Fukuoka's view, suffered from several fundamental flaws. They attempted to impose human designs on nature rather than working with natural processes. They selected a small number of species based on scientific analysis rather than providing the full range of possibilities. They required ongoing human intervention — irrigation, weeding, pest control — to maintain the planted vegetation. And they addressed symptoms rather than causes, treating the visible problem of bare ground without correcting the underlying degradation of soil and ecosystem function.
 
 ## The Second Genesis
 
@@ -22,7 +22,7 @@ The plan had several key components:
 
 ## Fukuoka in Africa
 
-Fukuoka's visits to Africa, including Somalia, Ethiopia, and Tanzania, deeply shaped his understanding of desertification and his approach to solving it. He visited an African refugee camp where he sowed seeds directly in the desert, demonstrating the technique that would become central to his global plan.
+Fukuoka"s visits to Africa, including Somalia, Ethiopia, and Tanzania, deeply shaped his understanding of desertification and his approach to solving it. He visited an African refugee camp where he sowed seeds directly in the desert, demonstrating the technique that would become central to his global plan.
 
 He observed that the tragedy of Africa was not merely an ecological problem but was intertwined with economic and political systems that had been imposed from outside. Western industrial agriculture, exported to Africa under the banner of "enriching the national economy," had disrupted traditional farming systems that had sustained people and landscapes for generations. The introduction of cash crops for export displaced subsistence farming, depleted soils, and left communities vulnerable to drought and famine.
 

@@ -1,6 +1,6 @@
 ---
 title: "The Eleusinian Mysteries and Ancient Entheogenic Cults"
-subtitle: "How psychoactive sacraments may have shaped Western civilization's most
+subtitle: "How psychoactive sacraments may have shaped Western civilization"s most
 ---
 
 ## The Eleusinian Mysteries and Ancient Entheogenic Cults

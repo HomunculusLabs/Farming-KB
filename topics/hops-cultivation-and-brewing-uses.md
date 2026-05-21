@@ -16,7 +16,7 @@ updated: 2026-04-28
 sources:
   - "For the Love of Hops, Stan Hieronymus (2012)"
   - "USDA Plant Hardiness Zone Map"
-  - "Permaculture: A Designers' Manual, Bill Mollison (1988)"
+  - "Permaculture: A Designers" Manual, Bill Mollison (1988)"
 ---
 
 ## Hops Cultivation and Brewing Uses

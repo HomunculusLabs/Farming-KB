@@ -42,12 +42,12 @@ Specific examples of religious and medical use include:
 
 - **Waikás of Brazil and Venezuela** snuff powdered resin of a jungle tree to ritualize death, induce trances for diagnosing disease, and thank spirits for victory in war.
 - **Witotos of Colombia** eat powerful resin to "talk with the little people."
-- **Peruvian medicine men** drink cimora to "make themselves owners of another's identity."
+- **Peruvian medicine men** drink cimora to "make themselves owners of another"s identity."
 - **Indians of eastern Brazil** drink jurema to have glorious visions of the spirit world before going into battle.
 
 ## Use in the Modern Western World
 
-Modern Western society's adoption of hallucinogens represents a newly imported cultural trait without natural roots in Western tradition. Many people seek "mystic" or "religious" experiences by altering body chemistry with hallucinogens, often without realizing they are reverting to age-old practices of indigenous societies.
+Modern Western society"s adoption of hallucinogens represents a newly imported cultural trait without natural roots in Western tradition. Many people seek "mystic" or "religious" experiences by altering body chemistry with hallucinogens, often without realizing they are reverting to age-old practices of indigenous societies.
 
 Whether drug-induced experiences can be identical with the metaphysical insight claimed by some mystics, or are merely a counterfeit of it, remains controversial. The widespread use of hallucinogens in modern society may have little or no value and may sometimes be harmful or dangerous.
 

@@ -10,7 +10,7 @@ sources:
 
 ## Natural Diet Theory
 
-Masanobu Fukuoka's [[natural-farming-methods-comparison]] have constantly had to adapt to changes in the human diet. Unless the diet is basically sound, agriculture too cannot be normal.
+Masanobu Fukuoka"s [[natural-farming-methods-comparison]] have constantly had to adapt to changes in the human diet. Unless the diet is basically sound, agriculture too cannot be normal.
 
 Primitive man fed himself on whatever he could find about him -- vegetation, fish and shellfish, fowl and animals; everything served a purpose, nothing was useless. Most natural products served either as food or as medicine. There was surely more than enough food to feed the entire human population of the earth.
 

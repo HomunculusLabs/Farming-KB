@@ -10,7 +10,7 @@ tags:
 date: 2026-05-11
 updated: 2026-05-11
 sources:
-  - IUCN Red List. Cibotium spp. and Cyathea spp. in Hawai'i. https://www.iucnredlist.org
+  - IUCN Red List. Cibotium spp. and Cyathea spp. in Hawai"i. https://www.iucnredlist.org
 ---
 
 ## Overview
@@ -59,7 +59,7 @@ Individual plants may produce 15–30 fronds per year, with older fronds dying b
 
 ## Distribution and Habitat
 
-Cyathea interrupta is endemic to the main Hawaiian Islands, occurring on Kaua'i, O'ahu, Moloka'i, Maui, and Hawai'i Island. It is absent from the Northwestern Hawaiian Islands and smaller islets.
+Cyathea interrupta is endemic to the main Hawaiian Islands, occurring on Kaua"i, O'ahu, Moloka'i, Maui, and Hawai'i Island. It is absent from the Northwestern Hawaiian Islands and smaller islets.
 
 The species inhabits wet and mesic forests at elevations of 300–1,800 meters. It is most abundant in the windward montane forests of each island, particularly on slopes receiving orographic rainfall.
 

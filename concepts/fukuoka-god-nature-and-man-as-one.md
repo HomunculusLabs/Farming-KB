@@ -10,7 +10,7 @@ sources:
 
 Updated: 2026-04-18
 
-One of Fukuoka's deepest philosophical chapters explores the relationship between God, nature, and humanity — arguing that the original sin was not just a parable but a scathing description of humanity's fundamental error: turning away from nature.
+One of Fukuoka"s deepest philosophical chapters explores the relationship between God, nature, and humanity — arguing that the original sin was not just a parable but a scathing description of humanity's fundamental error: turning away from nature.
 
 This chapter stands at the heart of [[fukuoka-god-nature-and-transcendent-world]] beyond it. Unlike the Western concept of a creator who stands outside creation, Fukuoka's God permeates every leaf, every insect, every grain of soil. This is why the natural farmer must not impose their own designs on the land: to do so would be to override the divine intelligence already at work.
 

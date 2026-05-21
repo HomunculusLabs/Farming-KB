@@ -32,7 +32,7 @@ DOB is an extremely potent synthetic psychedelic amphetamine, compound #62 in Pi
 - **Duration**: 18-30 hours
 - **Onset**: 2-3 hours (relatively slow onset due to pulmonary first-pass metabolism)
 
-DOB's extreme potency means that dosage errors are potentially dangerous. The difference between a threshold and overwhelming experience is only 1-2 mg. Users frequently report residual effects lasting well into the second day.
+DOB"s extreme potency means that dosage errors are potentially dangerous. The difference between a threshold and overwhelming experience is only 1-2 mg. Users frequently report residual effects lasting well into the second day.
 
 ## Qualitative Effects
 

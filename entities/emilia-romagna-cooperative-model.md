@@ -14,7 +14,7 @@ networking and cooperation between small manufacturing businesses in the
 Emilia-Romagna region of northern Italy. Holmgren cites this regional economic
 pattern as a key example of how cooperation within capitalism generates
 employment, wealth, and economic efficiency, and as a real-world parallel to
-[[permaculture]]'s emphasis on integration over segregation in system design.
+[[permaculture]]"s emphasis on integration over segregation in system design.
 
 ## Classification
 
@@ -56,7 +56,7 @@ employment, wealth, and economic efficiency, and as a real-world parallel to
    benefits to each other, creating a whole greater than the sum of parts
 
 3. **Trust-Based Systems**: The reliance on verbal agreements over legal
-   contracts parallels permaculture's emphasis on community-based, relational
+   contracts parallels permaculture"s emphasis on community-based, relational
    systems over bureaucratic, procedural ones — reducing transaction costs and
    increasing adaptive capacity
 

@@ -7,7 +7,7 @@ tags: [technique, greenhouse, minimal-heat, winter-production, protected-cultiva
 
 ## Description
 
-A "cool greenhouse" is Eliot Coleman's term for a minimally heated greenhouse structure where the thermostat is set just above freezing (approximately 35°F / 1.5°C). This minimal heat input expands the range of crops that can be grown through the coldest winter months beyond what is possible in unheated "cold houses," while keeping energy costs minimal.
+A "cool greenhouse" is Eliot Coleman"s term for a minimally heated greenhouse structure where the thermostat is set just above freezing (approximately 35°F / 1.5°C). This minimal heat input expands the range of crops that can be grown through the coldest winter months beyond what is possible in unheated "cold houses," while keeping energy costs minimal.
 
 ## Classification
 

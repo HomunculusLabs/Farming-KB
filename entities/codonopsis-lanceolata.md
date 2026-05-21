@@ -39,7 +39,7 @@ Flowers are campanulate, 2–3 cm long, pale green-yellow with purple spotting i
 
 The root is the economically important part: fusiform to cylindrical, 10–30 cm long, 1–3 cm thick, with milky white flesh and thin, yellowish-brown skin.
 
-When cut, the root exudes a milky latex that is characteristic of the genus. This latex contains the triterpenoid saponins responsible for many of the plant's medicinal properties.
+When cut, the root exudes a milky latex that is characteristic of the genus. This latex contains the triterpenoid saponins responsible for many of the plant"s medicinal properties.
 
 The chromosome number is 2n = 16, which is the base number for the genus Codonopsis and consistent across most East Asian species.
 

@@ -7,7 +7,7 @@ the method is extremely effective.
 ---
 
 The Scythian kurgan burials have yielded actual cannabis residues and
-burning implements, confirming that Herodotus's descriptions were based
+burning implements, confirming that Herodotus"s descriptions were based
 on real practices rather than fanciful traveler's tales. Burnt cannabis
 seeds and portable braziers have been found in Scythian tombs across
 southern Russia and Ukraine.

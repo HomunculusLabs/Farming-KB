@@ -15,7 +15,7 @@ Steve Solomon identifies the potato (*[[solomon-garden-planning-calorie-producti
 
 ### Caloric Efficiency
 
-The potato's advantage over other garden crops is dramatic:
+The potato"s advantage over other garden crops is dramatic:
 
 - **Highest calorie yield per unit area**: Potatoes produce more edible calories per square foot than any other temperate-climate vegetable
 - **Minimal processing**: Unlike cereal grains (wheat, oats, barley), potatoes require no threshing, grinding, or milling — simply dig, wash, and cook

@@ -14,13 +14,13 @@ One of the most profound and consistently reported effects of the [[psilocybin]]
 
 ## The Sense of Self as Informational Pattern
 
-From the perspective outlined in Powell's work, the ego or sense of self can be understood as a particular informational pattern sustained within the neuronal architecture of the brain. The self is not a fixed entity but a dynamic pattern of neuronal firing -- an informationally rich configuration that the brain continuously generates and maintains. This pattern is shaped by memory, social relations, language, cultural conditioning, and the ongoing dialogue between the organism and its environment.
+From the perspective outlined in Powell"s work, the ego or sense of self can be understood as a particular informational pattern sustained within the neuronal architecture of the brain. The self is not a fixed entity but a dynamic pattern of neuronal firing -- an informationally rich configuration that the brain continuously generates and maintains. This pattern is shaped by memory, social relations, language, cultural conditioning, and the ongoing dialogue between the organism and its environment.
 
 Consciousness emerges as a type of global information whose form is constantly undergoing change due to the integration and accessing of other types of information through the senses. The ego -- the feeling of being a distinct, bounded "I" -- is one particular stable configuration within this larger informational flow. It is, in essence, a kind of persistent informational sub-routine that the brain runs as a survival-oriented model of itself within the world.
 
 ## How Psilocybin Disrupts the Ego Pattern
 
-Psilocybin's disruption of the ego follows directly from its pharmacological action upon serotonergic systems. By depressing the inhibitory activity of the raphe system and binding to 5-HT2 receptors in the locus coeruleus and cortex, psilocybin fundamentally alters the patterns of neuronal firing that sustain the ego-construct.
+Psilocybin"s disruption of the ego follows directly from its pharmacological action upon serotonergic systems. By depressing the inhibitory activity of the raphe system and binding to 5-HT2 receptors in the locus coeruleus and cortex, psilocybin fundamentally alters the patterns of neuronal firing that sustain the ego-construct.
 
 The serotonergic homeostatic system that normally "screens out distracting sensory cues" and maintains a "steady" perception of reality is chemically dismantled. When this screening function is disrupted, the tightrope of normal perceptual awareness is destabilized. The informational pattern that constitutes the ego -- normally maintained as a stable, coherent center of experience -- begins to lose its integrity as new and novel patterns of neuronal firing emerge throughout the brain.
 
@@ -30,7 +30,7 @@ The result is that one no longer experiences reality through the lens of a bound
 
 The dissolution of the ego boundary extends beyond the spatial sense of self to encompass the temporal dimension. Reverend S.J. from the Good Friday experiment recalled: "all of a sudden I felt sort of drawn out into infinity... I felt that I was caught up in the vastness of creation... I did experience that... classic kind of blending... the main thing about it was a sense of timelessness."
 
-This experience of timelessness and boundlessness reflects the collapse of the ego's temporal framework -- the narrative self that exists as a continuous story stretching from past through present to future. When the ego dissolves, this linear temporal structure dissolves with it, and consciousness expands into a more holistic, present-centered mode of experiencing.
+This experience of timelessness and boundlessness reflects the collapse of the ego"s temporal framework -- the narrative self that exists as a continuous story stretching from past through present to future. When the ego dissolves, this linear temporal structure dissolves with it, and consciousness expands into a more holistic, present-centered mode of experiencing.
 
 ## Increased Degrees of Cognitive Freedom
 
@@ -48,7 +48,7 @@ Psilocybin reveals that this construct is chemically mediated and therefore chem
 
 There is a significant psychological resistance to the dissolution of the ego that operates both within individuals and within cultures. Once a person has a rigidly established mental model of reality then any tearing asunder of that model, any kind of incompatible data that threaten its existence, will produce a negative and often violent reaction to the perceived threat.
 
-Leary observed that "the older the person, the more fear of the visionary experience. Race, religion, and caste were also important predictors. The more the person has to lose, the less willingness to go joyously beyond the Judeo-Christian linear mental structure." This fear was the same fear that led the Spanish friars to denounce the Aztec's mushroom use as devil-worship and that led to the witch burning by the medieval Inquisitors. An open-minded approach to psilocybin is therefore essential if it is to have a beneficial effect.
+Leary observed that "the older the person, the more fear of the visionary experience. Race, religion, and caste were also important predictors. The more the person has to lose, the less willingness to go joyously beyond the Judeo-Christian linear mental structure." This fear was the same fear that led the Spanish friars to denounce the Aztec"s mushroom use as devil-worship and that led to the witch burning by the medieval Inquisitors. An open-minded approach to psilocybin is therefore essential if it is to have a beneficial effect.
 
 The cultural resistance to ego dissolution reflects the investment that social structures have in maintaining bounded individual identities. Cultures, religions, and political systems all depend upon the persistence of the ego-construct in their members. When psilocybin dissolves the ego, it simultaneously dissolves the psychological foundations upon which these structures rest, which is why the psychedelic experience has historically been perceived as so threatening to established authority.
 

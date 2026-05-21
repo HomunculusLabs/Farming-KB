@@ -1,5 +1,5 @@
 ---
-title: Master Cho's Fish Aminos and ingham-seaweed-sea-minerals-compost-tea
+title: Master Cho"s Fish Aminos and ingham-seaweed-sea-minerals-compost-tea
 created: 2026-04-26
 updated: 2026-04-24
 sources:

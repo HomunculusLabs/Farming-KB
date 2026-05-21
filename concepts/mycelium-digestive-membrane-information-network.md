@@ -18,7 +18,7 @@ Paul Stamets describes mycelium as "a digestive cellular membrane, a fusion betw
 
 ## Mycelium as a Digestive Organ
 
-Mycelium's primary function is digestion. The mycelial network secretes a battery of [[aact-tannins-terpenes-phenolic-compounds-wood-composting-ingham]]), chitinases (for degrading insect exoskeletons and fungal cell walls), and proteases (for breaking down proteins).
+Mycelium"s primary function is digestion. The mycelial network secretes a battery of [[aact-tannins-terpenes-phenolic-compounds-wood-composting-ingham]]), chitinases (for degrading insect exoskeletons and fungal cell walls), and proteases (for breaking down proteins).
 
 Each enzyme class may contain dozens of individual isozymes with slightly different substrate specificities and optimal conditions. This [[singh-fungal-biodegradation-of-polycyclic-aromatic-hydrocarbons]], polychlorinated biphenyls, and certain explosives through their lignin-degrading enzyme systems.
 
@@ -48,7 +48,7 @@ This perspective shapes the approach to mycorestoration: the goal is not to perm
 
 ## Natural Spawn and Acclimatization
 
-Wild spawn has the major advantage of being already acclimated to habitats teeming with competitors. Pure culture spawn from commercial suppliers must be implanted into clean substrates or slowly adapted to the complex microbial ecosphere. Commercial spawn can be "naturalized" through a process analogous to vaccines: brought into contact with a less-than-virulent close of the microbes found in the destined habitat. The mycelium's natural antibiotics preselect microbes that help it survive in the wild.
+Wild spawn has the major advantage of being already acclimated to habitats teeming with competitors. Pure culture spawn from commercial suppliers must be implanted into clean substrates or slowly adapted to the complex microbial ecosphere. Commercial spawn can be "naturalized" through a process analogous to vaccines: brought into contact with a less-than-virulent close of the microbes found in the destined habitat. The mycelium"s natural antibiotics preselect microbes that help it survive in the wild.
 
 A synergistic blend of microbes joining with the mushroom mycelium provides a defensive shield, much like fortifying an immune system, that not only forestalls competition but streams nutrients and mycelial stimulants. Once the pace of mycelial growth quickens, regardless of its beginnings, mats can become quite large; in the extreme, they can cover thousands of acres. This process of naturalization is critical for mycorestoration projects where mycelium must survive in non-sterile outdoor environments.
 

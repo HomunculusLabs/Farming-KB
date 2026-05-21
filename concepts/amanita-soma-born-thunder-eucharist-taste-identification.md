@@ -20,9 +20,9 @@ Ancient peoples who depended on this mushroom for their most sacred ceremonies w
 watched the skies and noted the correlation with absolute certainty: after the thunder and
 lightning came the rain, and shortly after, the Soma mushroom appeared on the forest floor.
 
-This correlation would have been obvious to any culture that relied on the mushroom's seasonal
+This correlation would have been obvious to any culture that relied on the mushroom"s seasonal
 appearance. The mushroom literally appears in response to thunderstorms — it is, in the most
-literal sense, "born of thunder." The fact that this description appears in one of humanity's
+literal sense, "born of thunder." The fact that this description appears in one of humanity"s
 oldest religious texts demonstrates that the Vedic hymns contain embedded natural history, not
 mere abstraction. The ancients were careful observers of the natural world, and they recorded
 what they saw in the language available to them — the language of divine poetry.

@@ -12,7 +12,7 @@ Designing for the equatorial tropics—where there is no cold season and the pri
 
 ### Orientation to Wind, Not Sun
 
-Unlike temperate housing where solar orientation drives design, equatorial homes are oriented to prevailing winds. The sun's position changes relatively little throughout the year near the equator, making wind the dominant factor for comfort. Cooling is achieved primarily through cross-ventilation rather than thermal mass or insulation.
+Unlike temperate housing where solar orientation drives design, equatorial homes are oriented to prevailing winds. The sun"s position changes relatively little throughout the year near the equator, making wind the dominant factor for comfort. Cooling is achieved primarily through cross-ventilation rather than thermal mass or insulation.
 
 ### Sheltered Valley Sites
 

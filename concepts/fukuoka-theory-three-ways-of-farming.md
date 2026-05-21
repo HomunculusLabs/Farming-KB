@@ -1,5 +1,5 @@
 ---
-title: "Fukuoka's Three Ways of Farming: Mahayana, Hinayana, and Scientific"
+title: "Fukuoka"s Three Ways of Farming: Mahayana, Hinayana, and Scientific"
 created: 2026-04-28
 tags:
   - natural-farming

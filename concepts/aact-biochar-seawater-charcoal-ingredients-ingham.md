@@ -6,7 +6,7 @@ type: concept
 
 ## Biochar, Charcoal, and Seawater as Compost Tea Ingredients
 
-[[elaine-ingham]]'s field guide explores unconventional [[compost]] tea ingredients including [[biochar]] (charcoal) and seawater, discussing their roles in supporting microbial communities and providing mineral nutrition.
+[[elaine-ingham]]"s field guide explores unconventional [[compost]] tea ingredients including [[biochar]] (charcoal) and seawater, discussing their roles in supporting microbial communities and providing mineral nutrition.
 
 ## Charcoal and Biochar in Compost Tea
 
@@ -26,7 +26,7 @@ Raw biochar straight from the kiln is not immediately beneficial and can actuall
 
 Fresh biochar has a highly adsorptive surface that can temporarily bind nutrients and water, making them unavailable to plants and soil organisms. This "nutrient lockup" effect is most pronounced in sandy or low-organic-matter soils.
 
-Ingham emphasizes that biochar should be matured or pre-inoculated before use. Composting biochar with organic materials, or soaking it in compost tea, charges the biochar's surfaces with nutrients and microbial communities.
+Ingham emphasizes that biochar should be matured or pre-inoculated before use. Composting biochar with organic materials, or soaking it in compost tea, charges the biochar"s surfaces with nutrients and microbial communities.
 
 Adding biochar to the [[compost-tea-brewing]] process serves this pre-inoculation function, as the microbial community colonizes the biochar surfaces during the brewing period.
 

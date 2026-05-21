@@ -10,7 +10,7 @@ tags: [cultivation, psilocybin]
 
 ## Gottlieb Psilocybin Cultivation Equipment and Facilities
 
-Adam Gottlieb's "The Psilocybin Producer's Guide" (1976) details the
+Adam Gottlieb"s "The Psilocybin Producer"s Guide" (1976) details the
 equipment and facility requirements for both small-scale and large-scale
 (5,000+ doses/week) psilocybin mycelium cultivation. The guide focuses on
 liquid broth culture in mason jars rather than fruiting carpophores, which

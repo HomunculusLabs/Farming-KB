@@ -38,7 +38,7 @@ entering his lungs with every breath.
 
 ## The Ubiquity of Fungal Spores
 
-A central theme in Money's account is the ubiquity of fungal spores in the
+A central theme in Money"s account is the ubiquity of fungal spores in the
 human environment. As he writes: "Every day of your life other kinds of
 fungal spores pass into your nostrils and lungs." This is literal—the average
 person inhales thousands of fungal spores daily from dozens of species. Most

@@ -8,7 +8,7 @@ type: entity
 
 ## Description
 
-*Genista monspessulana*, commonly known as Cape Broom or Montpellier Broom, is a perennial evergreen shrub in the family Fabaceae, native to the Mediterranean region. It has become widely naturalized in Australia and other temperate regions, where it is often classified as an environmental weed. In the context of Holmgren's permaculture work, it appears as an early successional species in riparian weedscapes — part of the primary weedscape that precedes more complex forest development.
+*Genista monspessulana*, commonly known as Cape Broom or Montpellier Broom, is a perennial evergreen shrub in the family Fabaceae, native to the Mediterranean region. It has become widely naturalized in Australia and other temperate regions, where it is often classified as an environmental weed. In the context of Holmgren"s permaculture work, it appears as an early successional species in riparian weedscapes — part of the primary weedscape that precedes more complex forest development.
 
 ## Classification
 
@@ -35,7 +35,7 @@ type: entity
 - **Nitrogen fixation**: As a legume, Cape Broom enriches nitrogen-poor disturbed soils, facilitating the establishment of later successional species that require higher fertility
 - **Ecosynthesis**: Part of the novel ecosystem that Holmgren calls "ecosynthesis" — the evolution of new functional ecosystems from combinations of native and exotic species
 - **Soil stabilization**: Dense root systems help prevent erosion on steep riparian gullies, particularly in areas recovering from gold-rush era land degradation
-- **"The problem is the solution"**: Despite its weed status, Cape Broom's ecological functions (nitrogen fixation, erosion control, successional facilitation) exemplify the permaculture principle of finding value in what is typically dismissed
+- **"The problem is the solution"**: Despite its weed status, Cape Broom"s ecological functions (nitrogen fixation, erosion control, successional facilitation) exemplify the permaculture principle of finding value in what is typically dismissed
 
 ## Sources and References
 

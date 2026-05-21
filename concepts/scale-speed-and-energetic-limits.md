@@ -21,7 +21,7 @@ When energy availability rises, systems can grow in both size and speed. When it
 
 ## Melliodora: A Case Study in Small and Slow
 
-Holmgren's own property, Melliodora, illustrates the principle across multiple dimensions:
+Holmgren"s own property, Melliodora, illustrates the principle across multiple dimensions:
 
 - **Timber** from small local sawmills and portable mills processes logs at slower rates, extracting maximum value from each unique tree
 - **Home-produced food** combined with infrequent bulk purchasing dramatically reduces "food miles" and transport speed
@@ -55,7 +55,7 @@ The asymmetric balance model applies to the fundamental polarities characterizin
 
 The permaculture ethic of recognizing limits provides a clear foundation for the "small and slow" principle. Holmgren states plainly: "big is better" is a form of greed. Traditional societies around the world developed elaborate ethics and taboos constraining growth — from simple taboos against catching too many fish to warnings about the evil consequences of technological hubris.
 
-The Congo Pygmies' "Atlantis" story is particularly striking. When Colin Turnbull recorded their oral history, the largest settlements these forest-dwellers had ever seen were small agricultural villages — yet they maintained a myth about ancestors who lived in cities destroyed by technological hubris that conflicted with nature's laws. This mirrors Western Atlantis mythology and suggests either a deep cultural memory of previous civilizational collapse, or a Jungian "collective unconscious" understanding of all human possibilities.
+The Congo Pygmies" "Atlantis" story is particularly striking. When Colin Turnbull recorded their oral history, the largest settlements these forest-dwellers had ever seen were small agricultural villages — yet they maintained a myth about ancestors who lived in cities destroyed by technological hubris that conflicted with nature"s laws. This mirrors Western Atlantis mythology and suggests either a deep cultural memory of previous civilizational collapse, or a Jungian "collective unconscious" understanding of all human possibilities.
 
 Since the Enlightenment, optimism about human power and expansion has steadily eroded these traditional constraints. Lessons from the folly of excessive growth — natural disasters, economic depressions — have not been strong enough to counter the "bigger is better" culture.
 

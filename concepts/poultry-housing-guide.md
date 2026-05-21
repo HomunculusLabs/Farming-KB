@@ -15,7 +15,7 @@ Proper poultry housing protects birds from predators, weather extremes, and dise
 - Frostbite risk in combs/wattles can be managed with Vaseline in extreme cold
 
 ### Predator Protection
-- **Woven wire hardware cloth** (1/2" mesh) over all windows and vents — chicken wire keeps chickens in but doesn't keep predators out
+- **Woven wire hardware cloth** (1/2" mesh) over all windows and vents — chicken wire keeps chickens in but doesn"t keep predators out
 - **Buried wire** — Extend wire fencing 12" below ground or attach an apron of wire flat on the ground to prevent digging
 - **Secure latches** — Raccoons can open simple hooks; use carabiner clips or padlocks
 - **Roof protection** — Hawks and owls are major daytime threats; cover runs with netting or wire
@@ -28,7 +28,7 @@ Proper poultry housing protects birds from predators, weather extremes, and dise
 - Easier to provide electricity, water, and automated features
 - Manure accumulates — requires regular cleaning or [[comparison-deep-litter-vs-hot-composting]] method: accumulate bedding (pine shavings, straw) throughout winter; decomposition generates heat
 - Frostbite prevention: well-ventilated coop is more important than heated one
-- Ensure water doesn't freeze — heated waterers or check multiple times daily
+- Ensure water doesn"t freeze — heated waterers or check multiple times daily
 - Supplement lighting (14-16 hours) to maintain winter egg production
 
 ## Nesting Boxes and Roosts

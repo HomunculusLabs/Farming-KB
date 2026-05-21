@@ -47,7 +47,7 @@ Gnostic texts describe archons — intermediary beings that maintain the prison 
 material reality and attempt to prevent the divine spark from awakening. These
 entities are variously described as angelic, robotic, or draconic.
 
-McKenna's "self-transforming machine elves" — "dynamically contorting topological
+McKenna"s "self-transforming machine elves" — "dynamically contorting topological
 modules that are somehow distinct from the surrounding background" — bear a
 remarkable structural resemblance to Gnostic archons, though McKenna's elves are
 generally described as benevolent rather than malevolent. Both classes of entity

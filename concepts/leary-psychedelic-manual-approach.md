@@ -1,5 +1,5 @@
 ---
-title: Leary's Psychedelic Manual Approach
+title: Leary"s Psychedelic Manual Approach
 created: 2026-04-13
 updated: 2026-04-13
 type: concept
@@ -13,7 +13,7 @@ sources: [raw/papers/leary-t-the-psychedelic-experience.md]
 
 ### Central Thesis: Set and Setting
 
-Leary's foundational principle: "The psychedelic experience depends almost entirely on [[set-and-setting]]."
+Leary"s foundational principle: "The psychedelic experience depends almost entirely on [[set-and-setting]]."
 
 - **Set**: the preparation of the individual — expectations, personality, mood, intention
 - **Setting**: the physical and social environment — the room, the people present, the sounds
@@ -32,7 +32,7 @@ This insight, now widely accepted, was first systematically articulated in this 
 
 **Second Bardo — Chonyid Bardo (Hallucinations / Visionary Period)**:
 - "The period of hallucinations" — visions appear "in sharp exquisite clarity or in the form of hallucinations (karmic apparitions)"
-- The hallucinations are shaped by the person's "karma" — their personal psychology, cultural conditioning, repressed material, and expectations
+- The hallucinations are shaped by the person"s "karma" — their personal psychology, cultural conditioning, repressed material, and expectations
 - Both positive (blissful, peaceful, divine) and negative (terrifying, demonic, nightmarish) visions may arise
 - The key instruction: recognize all visions as products of your own mind — neither pursue the pleasant ones nor flee the terrifying ones
 - This Bardo can seem extremely long, as time perception is radically altered
@@ -46,7 +46,7 @@ This insight, now widely accepted, was first systematically articulated in this 
 
 ### The Role of the Guide
 
-The manual explicitly recommends having a trusted person ("guide" or "sitter") present throughout the session. The guide's role:
+The manual explicitly recommends having a trusted person ("guide" or "sitter") present throughout the session. The guide"s role:
 - Reads the instructional passages from the manual to the voyager
 - Provides reassurance and orientation during moments of confusion
 - Does not attempt to direct the experience but helps the voyager remember the instructions
@@ -82,7 +82,7 @@ Those who resist ego-loss may experience:
 
 ### Cross-Reference
 
-Leary's Bardo model parallels [[psychedelic-experience-stages|Turner's phenomenological stages]] — the Chikhai Bardo corresponds to Turner's "peak," the Chonyid Bardo to the extended peak/plateau, and the Sidpa Bardo to the "comedown/return." Both frameworks serve the same purpose: providing conceptual navigation tools for non-ordinary consciousness.
+Leary"s Bardo model parallels [[psychedelic-experience-stages|Turner's phenomenological stages]] — the Chikhai Bardo corresponds to Turner's "peak," the Chonyid Bardo to the extended peak/plateau, and the Sidpa Bardo to the "comedown/return." Both frameworks serve the same purpose: providing conceptual navigation tools for non-ordinary consciousness.
 
 ### Critical Note
 

@@ -1,5 +1,5 @@
 ---
-title: Fukuoka's Seed Ball Experiments Worldwide
+title: Fukuoka"s Seed Ball Experiments Worldwide
 created: 2026-04-24
 updated: 2026-04-24
 type: concept
@@ -7,7 +7,7 @@ tags: [seed-balls, revegetation, desert, farming, fukuoka, aerial-sowing]
 sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
-## Fukuoka's Seed Ball Experiments Worldwide
+## Fukuoka"s Seed Ball Experiments Worldwide
 
 In [[fukuoka-aerial-seeding-clay-pellets-desert-revegetation-technique]] enclosing seeds) as a tool for large-scale revegetation of deserts and degraded lands. This technique is the practical bridge between his [[fukuoka-road-back-desert-reclamation]] — theoretical basis for [[fukuoka-road-observation-natures-patterns]] — understanding what seeds to use where
 
@@ -17,7 +17,7 @@ One of the most vivid episodes from Fukuoka's American travels occurred while ri
 
 ## The Pilot and the 750-Acre Wasteland
 
-At a lecture in Ashland, Oregon, a young pilot stood up and said: "I'm a pilot and I've got a plane for sowing seed. It's even equipped with a gun for blasting the seeds into the soil. How about using it?" Several dozen people nearby began pledging their cooperation in gathering seed. Then an old woman stood up: "I've got a 750-acre piece of wasteland that I'm going to let you have so give it a try." Fukuoka noted that "it took all of ten minutes for the local people to decide to revegetate this entire region."
+At a lecture in Ashland, Oregon, a young pilot stood up and said: "I"m a pilot and I've got a plane for sowing seed. It's even equipped with a gun for blasting the seeds into the soil. How about using it?" Several dozen people nearby began pledging their cooperation in gathering seed. Then an old woman stood up: "I"ve got a 750-acre piece of wasteland that I'm going to let you have so give it a try." Fukuoka noted that "it took all of ten minutes for the local people to decide to revegetate this entire region."
 
 ## Plants for Desert Revegetation
 
@@ -25,15 +25,15 @@ Fukuoka identified specific plants crucial for desert work. While in Australia, 
 
 ## The U.N. Connection
 
-Fukuoka's vision gained institutional traction through a Frenchman named Henri Lucy, "who said that he would propose in several countries that seed be sown by airplane and would try to have the U.N. do it." Lucy's wife revealed that her young brother owned a number of airplanes and "could provide about a half-year of support in case things don't work out at the U.N." Fukuoka concluded: "Once things come this far, sooner or later someone is going to sow seeds in the desert."
+Fukuoka"s vision gained institutional traction through a Frenchman named Henri Lucy, "who said that he would propose in several countries that seed be sown by airplane and would try to have the U.N. do it." Lucy"s wife revealed that her young brother owned a number of airplanes and "could provide about a half-year of support in case things don"t work out at the U.N." Fukuoka concluded: "Once things come this far, sooner or later someone is going to sow seeds in the desert."
 
-## Sowing Seeds in People's Hearts
+## Sowing Seeds in People"s Hearts
 
-Fukuoka connected the physical act of sowing seeds with a deeper mission: "Sowing seeds in the desert is to sow seed in people's hearts — to turn the earth into a peaceful, green paradise." He believed that "nature in our modern world is in rapid decline" and that "confusion reigns in people's hearts and minds." His ultimate dream was "to gather up the seeds of the world's plants, mix them together, and scatter them all at once from the sky so as to turn the world into a green paradise where anyone can obtain food freely anywhere." To the grasses and trees, he insisted, "neither national boundaries nor human races exist."
+Fukuoka connected the physical act of sowing seeds with a deeper mission: "Sowing seeds in the desert is to sow seed in people"s hearts — to turn the earth into a peaceful, green paradise." He believed that "nature in our modern world is in rapid decline" and that "confusion reigns in people"s hearts and minds." His ultimate dream was "to gather up the seeds of the world"s plants, mix them together, and scatter them all at once from the sky so as to turn the world into a green paradise where anyone can obtain food freely anywhere." To the grasses and trees, he insisted, "neither national boundaries nor human races exist."
 
 ## The California Experiment
 
-Fukuoka planned a systematic test: "My ultimate desire was to run tests on methods of scattering drought-hardy cover seeds over arid lands by airplane." While in California, he envisioned using "Reagan's bombers and space shuttles to rain down seeds all over the world rather than to fire missiles." This provocative framing — converting weapons of destruction into instruments of creation — captured the essence of his [[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
+Fukuoka planned a systematic test: "My ultimate desire was to run tests on methods of scattering drought-hardy cover seeds over arid lands by airplane." While in California, he envisioned using "Reagan"s bombers and space shuttles to rain down seeds all over the world rather than to fire missiles." This provocative framing — converting weapons of destruction into instruments of creation — captured the essence of his [[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.

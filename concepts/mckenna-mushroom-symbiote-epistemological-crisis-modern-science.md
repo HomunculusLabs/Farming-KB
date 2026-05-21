@@ -6,7 +6,7 @@ source: McKenna (1983/1992) - Tryptamine mckenna-stropharia-cubensis-extraterres
 
 ## The Alien Intelligence and Galactic Society
 
-McKenna reported that the alien intelligence encountered through the mushroom trance claimed to possess "a huge body of information drawn from the history of the galaxy." According to this intelligence, the galaxy has been an organized society for billions of years, and humanity's conceptions of organized intelligence and the dispersion of life are "hopelessly culture-bound."
+McKenna reported that the alien intelligence encountered through the mushroom trance claimed to possess "a huge body of information drawn from the history of the galaxy." According to this intelligence, the galaxy has been an organized society for billions of years, and humanity"s conceptions of organized intelligence and the dispersion of life are "hopelessly culture-bound."
 
 The [[psilocybin-extraterrestrial-hypothesis]] as a commentary on cultural alienation rather than literal astrobiology. The "alien" encountered in the tryptamine state may be the self—rendered unrecognizable by centuries of cultural conditioning that have severed the connection between conscious awareness and what McKenna called the "transhuman, hyperdimensional" dimensions of being.
 
@@ -26,7 +26,7 @@ The tryptamine state, he suggested, is "transtemporal"—an anticipation of this
 
 ## The Extraterrestrial Versus Endopsychic Interpretation
 
-McKenna explicitly acknowledged the ambiguity in interpreting the entity encountered in the DMT state. The literal extraterrestrial reading—that an alien intelligence from elsewhere in the galaxy is communicating through the mushroom—coexists with what he called the "endopsychic" reading: that the alien quality reflects the self's alienation from its own depths within a culture that has systematically denied the reality of inner experience.
+McKenna explicitly acknowledged the ambiguity in interpreting the entity encountered in the DMT state. The literal extraterrestrial reading—that an alien intelligence from elsewhere in the galaxy is communicating through the mushroom—coexists with what he called the "endopsychic" reading: that the alien quality reflects the self"s alienation from its own depths within a culture that has systematically denied the reality of inner experience.
 
 This dual interpretation has become a central question in [[ceremonial-shamanic-use-psychoactive-mushrooms]] in the mountains of Oaxaca by R. Gordon Wasson.
 

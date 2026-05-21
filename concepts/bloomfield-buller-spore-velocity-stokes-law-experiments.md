@@ -1,22 +1,22 @@
 ---
-title: "A. H. R. Buller: Spore Velocity Experiments and the Discovery of Buller's Drop"
+title: "A. H. R. Buller: Spore Velocity Experiments and the Discovery of Buller"s Drop"
 tags:
   - concept
 ---
 
-**Source:** Nicholas P. Money, *Mr. Bloomfield's Orchard* (2002), Chapter 5
+**Source:** Nicholas P. Money, *Mr. Bloomfield"s Orchard* (2002), Chapter 5
 
 ## Overview
 
 Arthur Henry Reginald Buller (1870–1944) was the greatest experimental mycologist in
 history, a designation earned through decades of painstaking research at the University
 of Manitoba in Winnipeg, Canada. His most celebrated contribution was the discovery of
-the fluid drop mechanism — "Buller's drop" — that powers [[bloomfield-stokes-law-fungal-spore-sedimentation]] rates were among the first
+the fluid drop mechanism — "Buller"s drop" — that powers [[bloomfield-stokes-law-fungal-spore-sedimentation]] rates were among the first
 rigorous quantitative studies of [[duggar-mushroom-insect-pests-and-fungal-diseases]] that afflict them. In Winnipeg, this made him a celebrity.
 
 ## Early Spore Sedimentation Experiments
 
-Buller's first experiments in Winnipeg involved collecting mushrooms from a woodpile
+Buller"s first experiments in Winnipeg involved collecting mushrooms from a woodpile
 and investigating spore discharge. He recognized that spore behavior might offer a
 critical test of Stokes' law as it applied to microscopic objects. George Stokes had
 developed this law in the 1840s while studying pendulums; it relates the speed of a

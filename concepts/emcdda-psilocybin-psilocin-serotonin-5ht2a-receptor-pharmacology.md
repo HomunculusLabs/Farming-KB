@@ -94,7 +94,7 @@ Practitioners frequently encounter challenges related to resource availability, 
 
 ## Historical Context of Psilocybin Discovery
 
-The pharmacological understanding of psilocybin began with Albert Hofmann's isolation of the compound from *Psilocybe mexicana* specimens collected by R. Gordon Wasson in Mexico. Hofmann, who had previously synthesized LSD at Sandoz Laboratories in 1943, identified psilocybin in 1958 and psilocin in 1959. Sandoz subsequently marketed psilocybin as "Indocybin" for psychiatric research in the 1960s, before the compound was placed under international control in 1971 under the UN Convention on Psychotropic Substances.
+The pharmacological understanding of psilocybin began with Albert Hofmann"s isolation of the compound from *Psilocybe mexicana* specimens collected by R. Gordon Wasson in Mexico. Hofmann, who had previously synthesized LSD at Sandoz Laboratories in 1943, identified psilocybin in 1958 and psilocin in 1959. Sandoz subsequently marketed psilocybin as "Indocybin" for psychiatric research in the 1960s, before the compound was placed under international control in 1971 under the UN Convention on Psychotropic Substances.
 
 The structural similarity between psilocybin/psilocin and serotonin (5-HT) was immediately recognized by Hofmann and his colleagues, who noted that "the presence of the 4-hydroxy group in the indole portion of the molecule suggests a relationship with serotonin." This insight correctly predicted the serotonergic mechanism of action that was later confirmed through receptor binding studies and modern neuropharmacology.
 

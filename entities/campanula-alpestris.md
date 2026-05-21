@@ -25,7 +25,7 @@ It is distinguished from the similar Campanula cochlearifolia by its larger flow
 
 Despite its horticultural appeal, Campanula alpestris remains uncommon in cultivation outside specialist alpine collections. Its demanding cultural requirements limit its availability in the commercial nursery trade.
 
-The species was first introduced to British horticulture in the early 19th century via alpine plant collectors. It has since remained a collector's plant rather than a garden mainstream species.
+The species was first introduced to British horticulture in the early 19th century via alpine plant collectors. It has since remained a collector"s plant rather than a garden mainstream species.
 
 In its native habitat, Campanula alpestris contributes to the distinctive cushion-plant communities that characterize the European alpine zone. These communities are among the most species-rich assemblages at high altitude.
 

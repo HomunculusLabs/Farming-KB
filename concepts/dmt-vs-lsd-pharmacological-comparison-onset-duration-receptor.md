@@ -28,12 +28,12 @@ In "[[tihkal-oral-activity-mao-inhibition]]
 - Not endogenous; synthetic compound with no natural analog
 
 The structural similarity of DMT to serotonin is a recurring theme in
-McKenna's argument: because DMT is a molecular cousin of the brain's
+McKenna"s argument: because DMT is a molecular cousin of the brain's
 primary neurotransmitter, the brain has evolved to "be at home" with
 it, accounting for both its rapid onset and the intensity of the
 experience.
 
-## McKenna's Phenomenological Distinction
+## McKenna"s Phenomenological Distinction
 
 McKenna argued that the critical difference is not merely duration
 but the **quality of consciousness** each compound evokes:

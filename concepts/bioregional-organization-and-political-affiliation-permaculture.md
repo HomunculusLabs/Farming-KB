@@ -6,7 +6,7 @@ type: concept
 
 ## Bioregional Organization and Political Affiliation Strategies
 
-In Chapter 14 of Permaculture: A Designers' Manual, Bill Mollison provides detailed guidance on forming bioregional associations, evolving ecological policy, and engaging with political systems from a permaculture perspective. This section bridges the ethical framework of the alternative nation concept with practical organizational strategies for grassroots ecological governance.
+In Chapter 14 of Permaculture: A Designers" Manual, Bill Mollison provides detailed guidance on forming bioregional associations, evolving ecological policy, and engaging with political systems from a permaculture perspective. This section bridges the ethical framework of the alternative nation concept with practical organizational strategies for grassroots ecological governance.
 
 ## Bioregional Association Defined
 
@@ -55,7 +55,7 @@ The bioregional office requires 4–6 people acting as consultants and coordinat
 
 ## The Tension Between Local and Global
 
-Mollison identifies a fundamental tension between bioregional centrality (living responsibly within one's region) and global outreach (integrating with people elsewhere). He extends the familiar slogan "think globally, act locally" to "act and think globally and locally."
+Mollison identifies a fundamental tension between bioregional centrality (living responsibly within one"s region) and global outreach (integrating with people elsewhere). He extends the familiar slogan "think globally, act locally" to "act and think globally and locally."
 
 The region serves as home address, cultural development ground, and node in bioregional networks. Global associations and families of common interest cross regional, state, and national borders to create multicultural alliances.
 

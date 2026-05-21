@@ -38,7 +38,7 @@ admonished by ancestors during the intoxication.
 
 See also: [[mandrake-plant]]
 
-## Witches' Ointments
+## Witches" Ointments
 
 Henbane, Belladonna, and Mandrake were the main ingredients of the witches'
 brews of medieval Europe. Henbane is best known as an ingredient of the

@@ -33,7 +33,7 @@ Elephant grass (*Pennisetum purpureum*), also known as Napier grass or Uganda gr
 
 Mollison includes elephant grass in his tropical mulch comparison trials (Table 10.1), demonstrating its effectiveness as a mulch material:
 
-- **Mulch production**: Elephant grass mulch produced strong yields across multiple crops in Mollison's referenced trials: maize 3.3 t/ha, cowpea 0.9 t/ha, soybean 1.3 t/ha, and cassava 16.6 t/ha. These yields significantly exceeded bare-ground controls for most crops.
+- **Mulch production**: Elephant grass mulch produced strong yields across multiple crops in Mollison"s referenced trials: maize 3.3 t/ha, cowpea 0.9 t/ha, soybean 1.3 t/ha, and cassava 16.6 t/ha. These yields significantly exceeded bare-ground controls for most crops.
 - **Biomass engine**: The extraordinary productivity of elephant grass makes it a key "biomass engine" in permaculture systems, converting sunlight and soil nutrients into large volumes of organic matter for mulch, compost, or animal feed.
 - **Erosion control**: Dense root systems and rapid above-ground growth make it the standard species for contour hedge planting on tropical slopes, forming living terraces that trap sediment and slow runoff.
 - **Integrated livestock systems**: Central to cut-and-carry zero-grazing systems across East Africa, where smallholder dairy farmers harvest and carry fresh grass to stalled animals, converting sunlight into milk protein efficiently.

@@ -1,7 +1,7 @@
 ---
 title: Stinkhorn Reproduction And Spore Dispersal
 slug: stinkhorn-reproduction-and-spore-dispersal
-source: Nicholas P. Money, Mr. Bloomfield's Orchard (2002)
+source: Nicholas P. Money, Mr. Bloomfield"s Orchard (2002)
 tags: [stinkhorn, phallus-impudicus, spore-dispersal, phallales, basidiomycota, insect-dispersal, gasteromycetes]
 ---
 

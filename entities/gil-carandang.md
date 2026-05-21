@@ -16,7 +16,7 @@ Gil A. Carandang is a Filipino natural farming practitioner, educator, and advoc
 - **Location**: Herbana Farms, Burol, Calamba City, Laguna, Philippines
 - **Mentor**: Dr. Han Kyu Cho ([[accessible-mushroom-cultivation-for-disabilities]] working with local microbial ecologies.
 - **Fermentation Expertise**: His systematic approach to fermenting plant extracts, fish amino acids, and bionutrients demonstrates [[fungicide-treated-seed-hazard-mushroom-substrate-preparation]] and liquid culture work.
-- **Farmer Empowerment**: Carandang's philosophy of farmer self-reliance — producing inputs rather than purchasing them — aligns with the DIY ethos of small-scale mushroom cultivation.
+- **Farmer Empowerment**: Carandang"s philosophy of farmer self-reliance — producing inputs rather than purchasing them — aligns with the DIY ethos of small-scale mushroom cultivation.
 - **Cross-Cultural Knowledge Transfer**: His work bridging Asian natural farming with Western organic agriculture represents an important model for knowledge exchange in sustainable cultivation practices.
 - **Living Soil Philosophy**: His emphasis on "living soil" as the foundation of fertility, dependent on biodiverse microbial populations, is directly relevant to mushroom cultivation where substrate microbial ecology affects contamination resistance and fruiting performance.
 

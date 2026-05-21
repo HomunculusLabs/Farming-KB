@@ -19,10 +19,10 @@ The National Organic Program (NOP) is a regulatory program within the United Sta
 In *The Winter Harvest Handbook*, [[eliot-coleman]] describes the establishment of federal organic standards as part of a three-step progression by which orthodox institutions co-opt challenging new ideas:
 
 1. **Dismissal:** The establishment initially dismisses organic farming as impossible
-2. **Contestation:** Decades spent challenging organic farming's validity
+2. **Contestation:** Decades spent challenging organic farming"s validity
 3. **Takeover:** Moving in to define, control, and reshape organic farming
 
-Coleman argues that once organic agriculture became an "obvious economic force," industrial agriculture moved to control it. The first step in controlling a process is to define—or redefine—it. The USDA's involvement in setting organic standards, including establishing a legal definition of "organic," represents this takeover in Coleman's view.
+Coleman argues that once organic agriculture became an "obvious economic force," industrial agriculture moved to control it. The first step in controlling a process is to define—or redefine—it. The USDA"s involvement in setting organic standards, including establishing a legal definition of "organic," represents this takeover in Coleman"s view.
 
 ## Key Facts
 
@@ -53,7 +53,7 @@ Coleman's concerns about the NOP reflect broader criticisms within the organic c
 - **Rule-based vs. principle-based:** Balfour warned organic farming "cannot be imprisoned in rigid rules"
 - **Corporate takeover:** Large agribusinesses have acquired organic brands while lobbying for weaker standards
 
-## Lady Eve Balfour's Warning
+## Lady Eve Balfour"s Warning
 
 Coleman quotes Balfour's prescient warning:
 

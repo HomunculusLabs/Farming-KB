@@ -37,7 +37,7 @@ The epithet "blue meanies" refers primarily to [[dmt-containing-plants-united-st
 
 The media has played a significant role in popularizing these terms. A 1972
 newspaper report from Brisbane described how "children at a suburban school are
-getting high on mushrooms called 'Gold Tops.' The mushrooms are common along the
+getting high on mushrooms called "Gold Tops.' The mushrooms are common along the
 Brisbane River near Toowing High School, and children in search of 'kicks'
 have been experimenting with them." Such reports simultaneously popularized
 the terminology and provided location information to would-be foragers.

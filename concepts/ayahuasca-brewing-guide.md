@@ -90,7 +90,7 @@ In the Shipibo tradition and throughout the Peruvian Amazon, preparation for [[a
 - Time in solitude, reflection, and nature
 - Early rising, early sleeping
 
-The dieta is considered essential for purification and sensitivity to the medicine. Breaking the dieta before ceremony is believed to cause illness ("susto") and reduce the brew's effectiveness.
+The dieta is considered essential for purification and sensitivity to the medicine. Breaking the dieta before ceremony is believed to cause illness ("susto") and reduce the brew"s effectiveness.
 
 ## Ceremony Structure
 

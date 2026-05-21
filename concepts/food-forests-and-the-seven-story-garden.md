@@ -15,7 +15,7 @@ The concept arises from [[dynamic-accumulators]].
 ### 5. Ground-Cover Layer
 
 Low spreading plants form a living mulch that suppresses weeds, retains moisture, and builds
-soil. Strawberries, clover, creeping thyme, miner's lettuce, vinca, and sweet woodruff
+soil. Strawberries, clover, creeping thyme, miner"s lettuce, vinca, and sweet woodruff
 protect the soil surface and create favorable conditions for the layers above.
 
 ### 6. Vine Layer

@@ -6,7 +6,7 @@ type: entity
 
 ## Description
 
-Dr. D. G. Brinton was a Philadelphia physician who played an important role in disseminating Julius A. Palmer Jr.'s work on [[mushroom-identification]] and poisoning. Brinton copied Palmer's articles into the *Reporter*, a medical journal, with introductory comments emphasizing the importance and novelty of the information. He wrote: "The subject is so important, and the information on it in the text-books so vague, that this cannot fail to be welcome to many readers." Brinton's endorsement helped legitimize Palmer's mycological work within the medical community.
+Dr. D. G. Brinton was a Philadelphia physician who played an important role in disseminating Julius A. Palmer Jr."s work on [[mushroom-identification]] and poisoning. Brinton copied Palmer's articles into the *Reporter*, a medical journal, with introductory comments emphasizing the importance and novelty of the information. He wrote: "The subject is so important, and the information on it in the text-books so vague, that this cannot fail to be welcome to many readers." Brinton"s endorsement helped legitimize Palmer's mycological work within the medical community.
 
 ## Classification
 

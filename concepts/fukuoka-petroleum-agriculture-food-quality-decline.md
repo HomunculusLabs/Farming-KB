@@ -12,7 +12,7 @@ type: concept
 
 ## Overview
 
-Masanobu Fukuoka's [[comparison-natural-farming-vs-permaculture]] involved the addition of [[cannabis-nutrient-solution-preparation]] administration**: shifting from building soil fertility to administering dissolved chemical nutrients directly to roots
+Masanobu Fukuoka"s [[comparison-natural-farming-vs-permaculture]] involved the addition of [[cannabis-nutrient-solution-preparation]] administration**: shifting from building soil fertility to administering dissolved chemical nutrients directly to roots
 - **Temperature control**: artificial heating to extend growing seasons and accelerate growth
 
 ### Stage 3: Hydroponic and Aeroponic Systems
@@ -40,7 +40,7 @@ Fukuoka directly challenges the perception that modern agricultural products are
 
 > "True, freshly colored melons with a beautifully networked skin and a sweet taste and fragrance can be produced, as can large red tomatoes and supple green cucumbers of good texture. But it is a mistake to think of these as good for man. Grown unnaturally as they are, these products are inferior in quality, although perhaps in ways unknown to man."
 
-He argues that the visual and gustatory appeal of hothouse products masks a fundamental impoverishment of the food's life-giving properties. Nature responds to this "affront by technology" with increased insect damage, which in turn drives ever greater pesticide dependence.
+He argues that the visual and gustatory appeal of hothouse products masks a fundamental impoverishment of the food"s life-giving properties. Nature responds to this "affront by technology" with increased insect damage, which in turn drives ever greater pesticide dependence.
 
 ## The Energy Trap
 

@@ -8,7 +8,7 @@ tags:
 
 In his 1983 Esalen lecture, [[terence-mckenna]] traced the history of the suppression of indigenous psilocybin mushroom religions in Mesoamerica, framing it as a catastrophic episode in which institutional ignorance systematically destroyed irreplaceable knowledge.
 
-Central to McKenna's account is the concept of theophagy — the ritual consumption of a divine substance — and the conflict between the indigenous practice of eating [[psychoactive-cacti-of-central-mexico]] to refer to [[ceremonial-shamanic-use-psychoactive-mushrooms]], primarily species of Psilocybe.
+Central to McKenna"s account is the concept of theophagy — the ritual consumption of a divine substance — and the conflict between the indigenous practice of eating [[psychoactive-cacti-of-central-mexico]] to refer to [[ceremonial-shamanic-use-psychoactive-mushrooms]], primarily species of Psilocybe.
 
 The name itself is a theological statement: it identifies the mushroom not as a mere plant or recreational intoxicant but as a literal embodiment of the divine, a substance whose consumption constitutes a form of communion with sacred reality.
 

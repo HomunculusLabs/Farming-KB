@@ -38,7 +38,7 @@ Demeter may signify the distinctive purple color of the sclerotia, the
 ergot of commerce, which are purple and represent an asexual resting
 stage in the [[albert-hofmann-eleusinian-potion-analysis]]," noting its "seeming
 symbiotic relationship to the barley." They saw grain and ergot as
-joined in a bisexual union, "bearing at the time of the maiden's loss
+joined in a bisexual union, "bearing at the time of the maiden"s loss
 already the potential for her own return and for the birth of the
 phalloid son that would grow from her body," a mythological
 interpretation connecting the biology of ergot to the Demeter-Persephone

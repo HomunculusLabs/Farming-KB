@@ -11,7 +11,7 @@ sources:
 
 Updated: 2026-04-18
 
-Comfrey (Symphytum officinale) is arguably the single most useful plant in the permaculture garden. Its deep taproot mines minerals from subsoil, its prolific [[comparison-beneficial-insects-guide-vs-integrated-pest-management]]. Bees of all species are drawn to comfrey's bell-shaped purple flowers, which provide abundant nectar over a long blooming period. This supports pollination of nearby food crops.
+Comfrey (Symphytum officinale) is arguably the single most useful plant in the permaculture garden. Its deep taproot mines minerals from subsoil, its prolific [[comparison-beneficial-insects-guide-vs-integrated-pest-management]]. Bees of all species are drawn to comfrey"s bell-shaped purple flowers, which provide abundant nectar over a long blooming period. This supports pollination of nearby food crops.
 
 ### Livestock Forage
 Comfrey leaves are high in protein and minerals, making excellent fodder for chickens, ducks, rabbits, pigs, and other small livestock. Poultry will readily eat both leaves and flowers. Comfrey is listed in [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] system. The deep taproot accesses minerals below the tree roots, and leaf fall mulches the tree's root zone with mineral-rich organic matter.

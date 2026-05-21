@@ -22,7 +22,7 @@ beehive-like in appearance. They persist year-round and sometimes grow in layers
 added annually. A few known wild specimens have been growing for over fifty years. The spore prints
 vary from white to creamy yellow.
 
-The discovery of *Fomes fomentarius* in Ötzi's possession has profound implications regarding the
+The discovery of *Fomes fomentarius* in Ötzi"s possession has profound implications regarding the
 historical use of fungi for food, fuel, and medicine. The mushroom was used for making textiles,
 fabric, fire-starting material, and medicinals. Taxonomically, *Laricifomes* has recently been merged
 into *Fomitopsis* based on molecular data, reflecting ongoing revisions as phylogenetic studies

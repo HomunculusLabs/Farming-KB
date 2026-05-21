@@ -22,7 +22,7 @@ Inocybe aeruginascens is a neurotropic mushroom species in the family Cortinaria
 - **Genus:** Inocybe
 - **Species:** I. aeruginascens Babos
 
-Inocybe is one of the largest genera of agarics, containing several hundred described species worldwide. The vast majority are mycorrhizal associates of trees and many contain toxic compounds, particularly muscarine. The discovery that select Inocybe species produce psilocybin was unexpected given the genus' general reputation for toxicity rather than psychoactivity.
+Inocybe is one of the largest genera of agarics, containing several hundred described species worldwide. The vast majority are mycorrhizal associates of trees and many contain toxic compounds, particularly muscarine. The discovery that select Inocybe species produce psilocybin was unexpected given the genus" general reputation for toxicity rather than psychoactivity.
 
 ## Geographic Distribution
 

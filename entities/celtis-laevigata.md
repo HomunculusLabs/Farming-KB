@@ -2,7 +2,7 @@
 title: "Celtis Laevigata"
 type: entity
 tags: []
-sources: ['raw/papers/working-with-agar.md']
+sources: ["raw/papers/working-with-agar.md']
 ---
 
 Sugarberry typically reaches 15–25 meters in height with a trunk diameter of 40–80 cm. It develops a broad, rounded to vase-shaped crown with arching branches. In open positions, the crown spreads wider than it is tall.

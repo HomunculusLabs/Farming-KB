@@ -12,7 +12,7 @@ The [[thermal-belt]] is one of the most practically important yet widely misunde
 
 A critical misconception in landscape reading is assuming that cold air and frost behave like water — flowing downhill through the lowest channels and pooling in obvious low points. In reality, frost moves more like treacle or fog. It is a slow, viscous drainage of cold air that spills over edges, fills depressions, and creeps through gaps in vegetation and topography with its own peculiar fluid dynamics.
 
-This distinction matters enormously for site design. Where water follows predictable channels defined by topography, cold air seeps and spreads in ways that can be counterintuitive. Frost settles into valley floors and depressions, creating persistent cold pockets that can devastate sensitive plants. It also drifts upward along slopes under certain conditions, rather than purely flowing downhill as gravity would suggest for a liquid. Understanding this behavior is the foundation for reading a landscape's thermal patterns accurately.
+This distinction matters enormously for site design. Where water follows predictable channels defined by topography, cold air seeps and spreads in ways that can be counterintuitive. Frost settles into valley floors and depressions, creating persistent cold pockets that can devastate sensitive plants. It also drifts upward along slopes under certain conditions, rather than purely flowing downhill as gravity would suggest for a liquid. Understanding this behavior is the foundation for reading a landscape"s thermal patterns accurately.
 
 ## The Thermal Belt Phenomenon
 
@@ -34,7 +34,7 @@ A thermal belt house site offers several key advantages:
 
 - **First buds of spring**: The warmer microclimate means spring arrives earlier, with plants breaking dormancy sooner and the growing season effectively lengthened.
 - **Last area of autumn productivity**: Conversely, the thermal belt is the last zone to experience killing frost in autumn, extending the productive season on both ends.
-- **Reduced heating and cooling loads**: The site's inherent thermal advantage reduces the energy inputs needed to maintain comfortable indoor temperatures.
+- **Reduced heating and cooling loads**: The site"s inherent thermal advantage reduces the energy inputs needed to maintain comfortable indoor temperatures.
 - **Access to water and gravity systems**: Because the thermal belt sits near the keypoint, it is ideally positioned relative to water storage and distribution infrastructure placed at the keypoint dam.
 
 ## The Berchtesgarten Syndrome: A Type One Error

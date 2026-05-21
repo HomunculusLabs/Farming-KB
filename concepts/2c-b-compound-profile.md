@@ -30,7 +30,7 @@ Effective duration: 4-8 hours (Shulgin reports "4 to 6 hours" at moderate doses,
 
 ## Qualitative Effects
 
-Shulgin's qualitative comment at 16 mg: "A completely satisfactory day. A good body feeling. It is not like LSD or like psilocybin. I feel that I am a woman. I feel that I have lost all connection with the external world. There is a total connectedness. There is a sense of enormous awareness. There is a connectedness to the universe. There is no body awareness. There is complete ego loss. There is an awareness of the cosmos."
+Shulgin"s qualitative comment at 16 mg: "A completely satisfactory day. A good body feeling. It is not like LSD or like psilocybin. I feel that I am a woman. I feel that I have lost all connection with the external world. There is a total connectedness. There is a sense of enormous awareness. There is a connectedness to the universe. There is no body awareness. There is complete ego loss. There is an awareness of the cosmos."
 
 At 20 mg: "This is one of the most rewarding of all the 2C-X compounds. At 20 milligrams, I have been taken into a state of complete disconnection from the world, yet with a feeling of being totally connected to all of it. There is an extraordinary erotic component."
 
@@ -40,7 +40,7 @@ At 12 mg (oral): "A gentle, easy entry, with no physical distress at all. The ef
 
 The synthesis begins with 2,5-dimethoxybenzaldehyde, which is brominated to produce 2,5-dimethoxy-4-bromobenzaldehyde. This is converted to the nitrostyrene via condensation with nitromethane, and then reduced to the amine using lithium aluminum hydride (LiAlH4).
 
-The original synthesis was carried out in the late 1970s. Shulgin's detailed procedure in PIHKAL provides complete synthetic details including reagent quantities, reaction conditions, isolation procedures, and purification steps.
+The original synthesis was carried out in the late 1970s. Shulgin"s detailed procedure in PIHKAL provides complete synthetic details including reagent quantities, reaction conditions, isolation procedures, and purification steps.
 
 ## Historical Significance
 

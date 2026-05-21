@@ -19,7 +19,7 @@ JADAM seeks to destroy this fundamental structure by making farming technology t
 
 ## SESE as Evaluation Tool
 
-Beyond guiding JADAM's own methods, SESE serves as an evaluation framework for any agricultural technology. Before adopting any new input or technique, a farmer should ask: Is it simple enough to understand? Is it easy enough to implement? Is it scientifically grounded? Is it effective enough to justify the effort?
+Beyond guiding JADAM"s own methods, SESE serves as an evaluation framework for any agricultural technology. Before adopting any new input or technique, a farmer should ask: Is it simple enough to understand? Is it easy enough to implement? Is it scientifically grounded? Is it effective enough to justify the effort?
 
 ## Comparison with Other Systems
 

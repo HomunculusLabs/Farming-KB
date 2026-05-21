@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-In the late 19th century, [[mycology]] — the study of fungi — was one of the most neglected branches [[fukuoka-illusions-of-natural-science]]. Palmer's 1879 lectures and writings reveal a field shrouded in mystery, tradition, and general ignorance, yet offering rich rewards for the patient student. His observations about the state of mycological knowledge remain historically significant for understanding how the science developed.
+In the late 19th century, [[mycology]] — the study of fungi — was one of the most neglected branches [[fukuoka-illusions-of-natural-science]]. Palmer"s 1879 lectures and writings reveal a field shrouded in mystery, tradition, and general ignorance, yet offering rich rewards for the patient student. His observations about the state of mycological knowledge remain historically significant for understanding how the science developed.
 
 ## The State of Mycological Knowledge in 1879
 
@@ -21,7 +21,7 @@ Palmer drew a striking contrast between mycology and other natural sciences. In 
 ## The Fundamental Challenge of Fungal Identification
 
 ### No Systematic Path
-The most frustrating aspect of mycology, in Palmer's view, was that it could not be learned systematically. In many sciences, one step leads logically to the next, and a given plan produces a certain result. Mycology defies this pattern entirely. Palmer compared fungi to the Chinese language: each character means something, but you cannot reason from one to define the position or meaning of the next.
+The most frustrating aspect of mycology, in Palmer"s view, was that it could not be learned systematically. In many sciences, one step leads logically to the next, and a given plan produces a certain result. Mycology defies this pattern entirely. Palmer compared fungi to the Chinese language: each character means something, but you cannot reason from one to define the position or meaning of the next.
 
 ### Each Species Must Be Learned Individually
 With roughly one thousand species of good-sized fungi — many with distinctions so slight that an amateur would not notice them — there is no shortcut to competence. Each species must be identified separately, its habits, place of growth, taste, and qualities learned through direct experience. The microscope reveals structural differences even between the nearest allies, and the most careful student finds that skill cannot be imparted to those outside the field.
@@ -38,7 +38,7 @@ The most common question Palmer received in his walks was: "Please show me how I
 Palmer explained the persistence of this myth through what might be called the "single-species illusion." Out of approximately one thousand good-sized fungi, the average person who claims to distinguish [[distinguishing-mushrooms-from-toadstools]] can infallibly recognize only one variety: the common pasture mushroom (*[[agaricus-campestris]]*). The other nine hundred and ninety-nine species are all "toadstools" to them. They know that a certain fungus with a white top, pink underneath, delicious fragrance, and pleasant taste can be found in a certain pasture at a certain time. Everything else is classified as dangerous.
 
 ### Why This One Species Dominates
-The common mushroom's dominance in the popular imagination is partly due to its unique cultivability. It is the only species of fungus ever propagated artificially, and so far as was known in Palmer's time, the only one susceptible of cultivation. It follows horses through every climate and can be raised from horse manure. The gardener takes spawn (a mass of white threads analogous to roots), plants it in a bed of loam and rotted [[compost]], and produces a crop in six weeks. Hence, it became "the mushroom" of the civilized world.
+The common mushroom"s dominance in the popular imagination is partly due to its unique cultivability. It is the only species of fungus ever propagated artificially, and so far as was known in Palmer's time, the only one susceptible of cultivation. It follows horses through every climate and can be raised from horse manure. The gardener takes spawn (a mass of white threads analogous to roots), plants it in a bed of loam and rotted [[compost]], and produces a crop in six weeks. Hence, it became "the mushroom" of the civilized world.
 
 ## The Hobby and Its Value
 

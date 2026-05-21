@@ -6,7 +6,7 @@ type: concept
 
 ## Overview
 
-Palm plantations — particularly coconut — represent one of the world's most widespread tropical monocultures. While commercially dominant, their long-term viability is undermined by soil exhaustion, declining yields, hurricane damage, and the social costs of monoculture. [[permaculture-design]] offers a path forward through intercropping strategies, continuous renewal, diversified products, and cooperative ownership models.
+Palm plantations — particularly coconut — represent one of the world"s most widespread tropical monocultures. While commercially dominant, their long-term viability is undermined by soil exhaustion, declining yields, hurricane damage, and the social costs of monoculture. [[permaculture-design]] offers a path forward through intercropping strategies, continuous renewal, diversified products, and cooperative ownership models.
 
 ## Economics of Palm Intercropping
 
@@ -66,7 +66,7 @@ Old coconut palms past peak nut production can be **tapped for palm sugar** (tod
 
 ### Palm Hearts
 
-The terminal bud (heart) of the coconut palm is edible and considered a delicacy — historically called **"millionaire's salad"** because harvesting it kills the tree. This is appropriate only for palms already slated for removal during renewal programs.
+The terminal bud (heart) of the coconut palm is edible and considered a delicacy — historically called **"millionaire"s salad"** because harvesting it kills the tree. This is appropriate only for palms already slated for removal during renewal programs.
 
 ## Uses of Palm Trunks
 

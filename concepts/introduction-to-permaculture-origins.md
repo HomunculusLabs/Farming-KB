@@ -6,7 +6,7 @@ type: concept
 
 ## Introduction to Permaculture: Origins and the Terrible Time of Day
 
-The concept of [[permaculture]] emerged in 1975-1976 when [[bill-mollison]], an Australian ecologist and researcher at the University of Tasmania, began publicly articulating a design system for sustainable human settlements. Together with his student [[david-holmgren]], who was writing a thesis on the subject under Mollison's direction, they produced *Permaculture One* — a book that sold 25,000 copies within three years and was out of print by then. This was followed by *Permaculture Two*, which shifted emphasis from theory toward practical application.
+The concept of [[permaculture]] emerged in 1975-1976 when [[bill-mollison]], an Australian ecologist and researcher at the University of Tasmania, began publicly articulating a design system for sustainable human settlements. Together with his student [[david-holmgren]], who was writing a thesis on the subject under Mollison"s direction, they produced *Permaculture One* — a book that sold 25,000 copies within three years and was out of print by then. This was followed by *Permaculture Two*, which shifted emphasis from theory toward practical application.
 
 ## The Permaculture Design Course
 
@@ -36,7 +36,7 @@ Even in the best-managed forests, there is a constant loss rate of approximately
 
 The destruction of forests has direct consequences for global climate stability. About 12,000 billion tons of carbon dioxide are released annually by the death of forests. The world climate is no longer trending toward a simple greenhouse warming or an ice age — it is beginning to fluctuate so wildly that it is totally unpredictable which thermal barrier will crack, and when it does, the change will be sudden and extreme.
 
-In Mollison's home region of Tasmania, a place naturally buffered by ocean and forest, the community experienced in succession the windiest, driest, and wettest months in 200 years of recording. This extreme variability, not gradual warming, is the signature of climate destabilization driven by deforestation.
+In Mollison"s home region of Tasmania, a place naturally buffered by ocean and forest, the community experienced in succession the windiest, driest, and wettest months in 200 years of recording. This extreme variability, not gradual warming, is the signature of climate destabilization driven by deforestation.
 
 ### Ocean Systems Failing
 

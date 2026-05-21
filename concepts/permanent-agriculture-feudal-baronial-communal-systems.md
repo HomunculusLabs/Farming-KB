@@ -21,13 +21,13 @@ The defining features of feudal permanence include:
 - **Annual cropping**: The system relied on annual grains rather than perennial or tree-based systems, requiring constant replanting and soil disturbance
 - **External energy dependency**: While the nutrients were local, the social organization was not self-sustaining — it depended on hierarchical power structures
 
-Mollison's verdict on this model is stark: it leads eventually to famine and revolution. The unrelenting labor combined with subservience to external power creates inherently unstable conditions. When drought, political disruption, or ecological exhaustion occurs, the system has no resilience — disaster follows directly.
+Mollison"s verdict on this model is stark: it leads eventually to famine and revolution. The unrelenting labor combined with subservience to external power creates inherently unstable conditions. When drought, political disruption, or ecological exhaustion occurs, the system has no resilience — disaster follows directly.
 
 ## Baronial Permanence
 
 The second model operates on **permanent pasture** — the prairie, pampas, and modern Western farms characterized by large holdings, few people, and vast grazing leases typically for a single species of animal. Mollison calls this "baronial permanence" for its near-regal properties of immense extent.
 
-This model's characteristics include:
+This model"s characteristics include:
 
 - **Lowest possible level of land use**: Pasture or monoculture cropland represents the least productive use of land that can be devised, in terms of biomass generated per hectare
 - **Mechanization and scale**: Once mechanized, these systems destroy whole landscapes and soil complexes

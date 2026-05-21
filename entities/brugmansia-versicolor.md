@@ -17,7 +17,7 @@ sources:
 
 ## Brugmansia versicolor
 
-**Brugmansia versicolor** Lagerh., commonly known as the angel's trumpet or the white angel's trumpet, is a large, woody shrub or small tree in the family Solanaceae. It is native to the coastal and Andean regions of Ecuador and is one of the most spectacular flowering plants in the genus *Brugmansia*. Like all *Brugmansia* species, it contains potent tropane alkaloids and has a significant history of use in traditional [[scopolamine]] (hyoscine) and [[psilocybin-accidental-ingestion-australia]] of the flowers or leaves by children or from deliberate ingestion for recreational or self-medication purposes.
+**Brugmansia versicolor** Lagerh., commonly known as the angel"s trumpet or the white angel's trumpet, is a large, woody shrub or small tree in the family Solanaceae. It is native to the coastal and Andean regions of Ecuador and is one of the most spectacular flowering plants in the genus *Brugmansia*. Like all *Brugmansia* species, it contains potent tropane alkaloids and has a significant history of use in traditional [[scopolamine]] (hyoscine) and [[psilocybin-accidental-ingestion-australia]] of the flowers or leaves by children or from deliberate ingestion for recreational or self-medication purposes.
 
 ## Ethnobotanical and Traditional Use
 

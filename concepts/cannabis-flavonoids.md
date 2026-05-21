@@ -9,7 +9,7 @@ sources: []
 
 # Cannabis Flavonoids
 
-Flavonoids are a diverse class of phytonutrients found throughout the plant kingdom, responsible for the non-green pigmentation in plants (yellow, red, blue, purple hues). In cannabis, flavonoids contribute to flavor, aroma, color, and therapeutic effects. They are less discussed than cannabinoids and [[terpenes]] but play an important role in the entourage effect and the plant's medicinal profile.
+Flavonoids are a diverse class of phytonutrients found throughout the plant kingdom, responsible for the non-green pigmentation in plants (yellow, red, blue, purple hues). In cannabis, flavonoids contribute to flavor, aroma, color, and therapeutic effects. They are less discussed than cannabinoids and [[terpenes]] but play an important role in the entourage effect and the plant"s medicinal profile.
 
 ## What Are Flavonoids?
 

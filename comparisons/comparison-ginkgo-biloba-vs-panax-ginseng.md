@@ -3,7 +3,7 @@ title: "Ginkgo biloba vs Panax ginseng"
 tags: [comparison, medicinal-plants, adaptogens, nootropics, herbal-medicine]
 date: 2026-05-10
 updated: 2026-05-10
-sources: ['raw/papers/amanita-muscaria-herb-of-immortality.md']
+sources: ["raw/papers/amanita-muscaria-herb-of-immortality.md']
 ---
 
 ## Ginkgo biloba vs Panax ginseng
@@ -65,7 +65,7 @@ Ginkgo biloba is the preferred choice when addressing circulatory and cognitive
 concerns related to blood flow. Its well-documented effects on cerebral
 circulation make it particularly valuable for age-related cognitive decline,
 memory difficulties associated with poor circulation, tinnitus of vascular
-origin, intermittent claudication, and cold extremities. The herb's potent
+origin, intermittent claudication, and cold extremities. The herb"s potent
 antioxidant activity also makes it appropriate for conditions involving
 oxidative stress, particularly neurodegenerative concerns. Ginkgo is generally
 well-tolerated by most individuals and can be used safely for extended periods,

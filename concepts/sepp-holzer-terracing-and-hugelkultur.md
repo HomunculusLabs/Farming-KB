@@ -18,7 +18,7 @@ Sepp Holzer, the "Agri-Rebel" of Austria, farms 110 acres at 1,500m elevation in
 - **[[soil-ph-management-for-vegetable-gardens]]
 - **Hugelkultur swale**: Hugel bed on contour, intercepting water runoff
 - **Hugelkultur terrace**: Mound built into a slope, creating a level growing area
-- **Crater garden**: Sunken center with hugel mound rim (Holzer's variation for arid climates)
+- **Crater garden**: Sunken center with hugel mound rim (Holzer"s variation for arid climates)
 
 ### Planting
 - Year 1: Nitrogen may be temporarily tied up (wood decomposition uses nitrogen). Add extra nitrogen (compost, manure, nitrogen-fixing plants)

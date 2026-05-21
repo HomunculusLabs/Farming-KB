@@ -11,7 +11,7 @@ created: 2026-05-11
 
 ## Overview
 
-MMDA (3-methoxy-4,5-methylenedioxyamphetamine) and MMDA-2 (2-methoxy-4,5-methylenedioxyamphetamine) are structural isomers that occupy a fascinating niche in psychopharmacology — they are amphetamine derivatives with the simplest possible methylenedioxy-methoxy substitution pattern, yet they produce effects that are distinctly psychedelic rather than stimulant. Their discovery and characterization were instrumental in Shulgin's development of what would eventually become MDMA.
+MMDA (3-methoxy-4,5-methylenedioxyamphetamine) and MMDA-2 (2-methoxy-4,5-methylenedioxyamphetamine) are structural isomers that occupy a fascinating niche in psychopharmacology — they are amphetamine derivatives with the simplest possible methylenedioxy-methoxy substitution pattern, yet they produce effects that are distinctly psychedelic rather than stimulant. Their discovery and characterization were instrumental in Shulgin"s development of what would eventually become MDMA.
 
 MMDA is compound #90 in PiHKAL; MMDA-2 is compound #91. Both are described as having "a most complex and exotic name" — MMDA has been called 3,4-methylenedioxy-N-alpha-methyl-5-methoxy-phenethylamine, while MMDA-2 is 3,4-methylenedioxy-N-alpha-methyl-2-methoxy-phenethylamine. The simpler nomenclature reflects their isomeric relationship.
 
@@ -36,7 +36,7 @@ The structural difference between MMDA and MMDA-2 is minimal — the methoxy gro
 
 MMDA was one of the most important stepping-stones in the development of MDMA. The story begins with MDA (3,4-methylenedioxyamphetamine), which was first synthesized by Merck in 1910 and later explored by the military in the 1950s-60s. MDA was known for its powerful psychoactivity but also its significant side effects.
 
-The key insight was that adding a single methoxy group to the MDA scaffold dramatically altered the pharmacological profile. MMDA retained some of the empathogenic qualities of MDA but shifted toward a more psychedelic character. This observation — that small positional changes in substituents could convert a stimulant/empathogen into a primarily psychedelic compound — guided much of Shulgin's subsequent exploration.
+The key insight was that adding a single methoxy group to the MDA scaffold dramatically altered the pharmacological profile. MMDA retained some of the empathogenic qualities of MDA but shifted toward a more psychedelic character. This observation — that small positional changes in substituents could convert a stimulant/empathogen into a primarily psychedelic compound — guided much of Shulgin"s subsequent exploration.
 
 The critical next step was the addition of an N-methyl group to MMDA's structure, producing MDMA. Shulgin reports that this modification transformed the compound from a primarily [[blesching-cannabis-safety-profile-subjective-therapeutic-window]]. Without the exploration of MMDA first, MDMA might never have been discovered in Shulgin's laboratory.
 
@@ -99,7 +99,7 @@ MMDA-2 is consistently more potent than MMDA at lower doses, with a faster onset
 ### MMDA-2 at 150 mg
 
 - "A dreamy, floating state with occasional visual shimmer"
-- Described as "the most sedating psychedelic I've experienced"
+- Described as "the most sedating psychedelic I"ve experienced"
 - Enhanced appreciation of nature: "Trees seemed to breathe"
 - Reduced anxiety: "No edge, no push, just a gentle drift"
 - The sedative quality was the dominant feature at this dose

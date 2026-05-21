@@ -12,7 +12,7 @@ type: concept
 
 ## The Troika System
 
-The troika (or "committee of three") is the basic decision-making unit in Mollison's recommended governance model. Each essential function — food production, finance, building maintenance, education, water systems, and so on — is assigned to a **troika of one to three people** who hold full authority and responsibility for that domain.
+The troika (or "committee of three") is the basic decision-making unit in Mollison"s recommended governance model. Each essential function — food production, finance, building maintenance, education, water systems, and so on — is assigned to a **troika of one to three people** who hold full authority and responsibility for that domain.
 
 ### Core Principles
 

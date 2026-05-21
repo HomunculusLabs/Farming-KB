@@ -89,6 +89,6 @@ Managing *Albugo* diseases involves several strategies:
 
 ## References and Further Reading
 
-- Lowenfels, J. & Lewis, W. (2010). *Teaming with Microbes: The Organic Gardener's Guide to the [[soil-food-web]]*. Timber Press.
+- Lowenfels, J. & Lewis, W. (2010). *Teaming with Microbes: The Organic Gardener"s Guide to the [[soil-food-web]]*. Timber Press.
 - Thines, M. & Kamoun, S. (2010). "Oomycete-plant coevolution: a genomic perspective." In *Oomycete Genetics and Genomics*, Wiley.
 - McMullan, M. et al. (2011). "The genome and secretome of *Albugo laibachii*." *PLoS ONE* 6(8): e22538.

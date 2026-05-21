@@ -1,5 +1,5 @@
 ---
-title: "Cho's Brown brown-rice-vinegar-brv Preparation"
+title: "Cho"s Brown brown-rice-vinegar-brv Preparation"
 created: 2026-04-28
 tags: [korean-natural-farming, brown-rice-vinegar, fermentation,
        acetic-acid, cho-global]

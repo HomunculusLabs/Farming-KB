@@ -18,7 +18,7 @@ Sea water contains approximately 100 million marine microorganisms per mL. When 
 
 ## Mineral Replenishment
 
-Modern farming causes continuous mineral leaching from soil. JADAM's approach is not to try to identify which specific mineral is deficient, but to recover the diversity and balance of minerals holistically -- similar to eating a wholesome diet rather than taking individual vitamin pills. Sea water with its 83 minerals, combined with phyllite rock powder, ensures soil never lacks mineral diversity.
+Modern farming causes continuous mineral leaching from soil. JADAM"s approach is not to try to identify which specific mineral is deficient, but to recover the diversity and balance of minerals holistically -- similar to eating a wholesome diet rather than taking individual vitamin pills. Sea water with its 83 minerals, combined with phyllite rock powder, ensures soil never lacks mineral diversity.
 
 ## Dilution Rate
 

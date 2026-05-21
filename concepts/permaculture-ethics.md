@@ -34,7 +34,7 @@ The ethics also serve a unifying function. People who agree on these principles 
 
 ## Self-Reliance as Ethical Practice
 
-An important aspect of permaculture ethics that is sometimes overlooked is the emphasis on self-reliance. Mollison couples the three ethics with a determination to make one's own way — to be neither employers nor employees, landlords nor tenants. This is not an individualist rejection of community but rather a recognition that dependencies on exploitative systems (wage labor, landlordism, corporate supply chains) are themselves unethical.
+An important aspect of permaculture ethics that is sometimes overlooked is the emphasis on self-reliance. Mollison couples the three ethics with a determination to make one"s own way — to be neither employers nor employees, landlords nor tenants. This is not an individualist rejection of community but rather a recognition that dependencies on exploitative systems (wage labor, landlordism, corporate supply chains) are themselves unethical.
 
 Self-reliance, in permaculture terms, means the ability to provide for one's own needs (food, water, shelter, energy) through designed systems, while participating in cooperative relationships for those things that cannot be individually provided. It is the middle path between total independence (impossible) and total dependence (exploitative).
 
@@ -52,7 +52,7 @@ This ethic recognizes that in a finite world, unlimited consumption by any indiv
 
 ## The Global Nation
 
-Mollison's concept of a "global nation" is the political expression of permaculture ethics. It is not a single government or political movement but a network of people and communities who share the three ethics and work toward their realization in their own contexts. The global nation has no central structure, no membership requirements beyond agreement with the ethics, and no hierarchy — only shared purpose and mutual support.
+Mollison"s concept of a "global nation" is the political expression of permaculture ethics. It is not a single government or political movement but a network of people and communities who share the three ethics and work toward their realization in their own contexts. The global nation has no central structure, no membership requirements beyond agreement with the ethics, and no hierarchy — only shared purpose and mutual support.
 
 This vision of decentralized, ethics-based cooperation stands in contrast to both the nation-state system (which Mollison sees as inherently destructive) and to centralized global governance (which he views as unlikely to serve ethical ends). Instead, it proposes a world of self-reliant communities connected by shared values and voluntary cooperation — "a million villages" replacing the nation-state as the primary unit of human organization.
 

@@ -40,7 +40,7 @@ Outside its native range, the species has naturalized in parts of France, Belgiu
 
 **Habitat** in invasive range includes acid oak-woodland, coniferous plantations, heathland, peat bog margins, and riparian corridors. It tolerates deep shade and can establish beneath closed forest canopy.
 
-The species thrives in acidic soils (pH 3.5–6.0) with high [[cho-natural-pest-control-methods]] include mechanical cutting (requires follow-up treatment), herbicide application (glyphosate or triclopyre), and [[query-how-do-i-create-a-seed-bank-and-start-seed-saving]], which can remain viable for 2–3 years, and the plant's ability to resprout from cut stumps.
+The species thrives in acidic soils (pH 3.5–6.0) with high [[cho-natural-pest-control-methods]] include mechanical cutting (requires follow-up treatment), herbicide application (glyphosate or triclopyre), and [[query-how-do-i-create-a-seed-bank-and-start-seed-saving]], which can remain viable for 2–3 years, and the plant"s ability to resprout from cut stumps.
 
 ## Toxicity and Chemistry
 

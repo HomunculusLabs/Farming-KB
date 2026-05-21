@@ -24,7 +24,7 @@ Ponds and small dams are central elements in [[permaculture]] [[water-management
 The highest available storages, on saddles or hollows in the skyline profile of hills. Can be excavated below grade or walled. Uses: wildlife, stock, high storage, fire control.
 
 ### Ridgepoint ("Horseshoe") Dams
-Built on sub-plateaus of flattened ridges on descending ridgelines, below saddle dams. Shaped like a horse's hoof. Uses: as for saddle dams; limited irrigation but useful for runoff and pumped storages.
+Built on sub-plateaus of flattened ridges on descending ridgelines, below saddle dams. Shaped like a horse"s hoof. Uses: as for saddle dams; limited irrigation but useful for runoff and pumped storages.
 
 ### Keypoint Dams
 Located in valleys of secondary streams at the highest practical construction point, where the stream profile changes from convex to concave. Uses: primarily irrigation water storage. Series can be run down the valley; the last dam's spillway can return surplus to streams.

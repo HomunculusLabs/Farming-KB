@@ -29,7 +29,7 @@ The ponds function as self-regulating ecosystems:
 - **Deep areas** (3m+) provide winter habitat and prevent aquatic plant overgrowth
 - **Shallow areas** allow diverse plant and animal life; fish reproduce naturally
 - **Multiple species** at different sweet-flag-acorus-calamus-ethnobotany
-- Fringed water lilies, water plantain, water soldier, mare's tail, arrowhead, yellow iris
+- Fringed water lilies, water plantain, water soldier, mare"s tail, arrowhead, yellow iris
 - Unusually [[hamilton-beneficial-insects-and-biological-pest-control]]), aquatic plants, small fish, and amphibians
 - Geese graze the margins and fertilise surrounding vegetation
 - Their presence contributes to the pond ecosystem
@@ -45,7 +45,7 @@ The ponds function as self-regulating ecosystems:
 
 ## Pond Construction: The Vibration Method
 
-Holzer's signature technique for pond construction is the "vibration method" (Vibrationsverfahren), which seals pond bottoms without plastic liners or clay. The process involves laying a foundation of suitable soil, saturating it with water, and then compacting it using a vibrating plate compactor or manual tamping. The vibration causes soil particles to settle into a dense, impermeable layer. This method requires specific soil types — loamy or clay soils work best, while sandy or gravelly soils may not seal adequately. Holzer emphasizes that pond construction must work with local geology rather than against it; sites with natural seeps or springs are preferable to dry locations. The vibration method allows ongoing modification — pond shapes and depths can be adjusted years after initial construction, which is impossible with liner-based systems.
+Holzer"s signature technique for pond construction is the "vibration method" (Vibrationsverfahren), which seals pond bottoms without plastic liners or clay. The process involves laying a foundation of suitable soil, saturating it with water, and then compacting it using a vibrating plate compactor or manual tamping. The vibration causes soil particles to settle into a dense, impermeable layer. This method requires specific soil types — loamy or clay soils work best, while sandy or gravelly soils may not seal adequately. Holzer emphasizes that pond construction must work with local geology rather than against it; sites with natural seeps or springs are preferable to dry locations. The vibration method allows ongoing modification — pond shapes and depths can be adjusted years after initial construction, which is impossible with liner-based systems.
 
 ## Breeding and Population Management
 

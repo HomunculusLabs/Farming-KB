@@ -16,7 +16,7 @@ created: 2026-04-28
 ---
 ## Black Tuna
 
-**Black Tuna** is a potent indica-dominant cannabis strain that originated in **British Columbia, Canada**, during the underground grow scene of the late 1990s and early 2000s. Named for its dark, almost black appearance in late flowering and its pungent, oceanic aroma reminiscent of aged fish, Black Tuna earned legendary status among Canadian cannabis enthusiasts as a " connoisseur's indica" prized for its heavy sedative effects and complex terpene profile. It is one of the defining legacy strains of the pre-legalization BC cannabis industry.
+**Black Tuna** is a potent indica-dominant cannabis strain that originated in **British Columbia, Canada**, during the underground grow scene of the late 1990s and early 2000s. Named for its dark, almost black appearance in late flowering and its pungent, oceanic aroma reminiscent of aged fish, Black Tuna earned legendary status among Canadian cannabis enthusiasts as a " connoisseur"s indica" prized for its heavy sedative effects and complex terpene profile. It is one of the defining legacy strains of the pre-legalization BC cannabis industry.
 
 ## Lineage [[cannabis-pain-management-protocols]]**: Strong analgesic properties for [[query-how-do-i-prevent-and-treat-bud-rot-on-cannabis]] in dense colas
 - **Temperature**: Prefers cooler nighttime temperatures (15–18°C) during late flowering to maximize anthocyanin expression and dark coloration

@@ -20,7 +20,7 @@ The documentation of [[guzman-allen-gartz-mycological-exploration-bias-and-under
   *P. zapotecorum* from Mexico and South America ([[metzner-three-distinctive-features-shamanic-entheogenic-ceremonies]] of New Guinean sacred mushroom use
 is the inclusion of **boletes** — pore-bearing mushrooms in the order
 Boletales — which are not known to contain psilocybin or related indole
-alkaloids. Guzmán's checklist includes:
+alkaloids. Guzmán"s checklist includes:
 
 - **6 species of Boletus** reported as sacred fungi
 - **2 species of Heimiella** used in ceremonial contexts

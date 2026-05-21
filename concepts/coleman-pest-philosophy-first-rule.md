@@ -1,5 +1,5 @@
 ---
-title: "Coleman's First Rule of Biological Agriculture"
+title: "Coleman"s First Rule of Biological Agriculture"
 type: concept
 tags:
   - organic-farming
@@ -13,14 +13,14 @@ sources:
   - eliot-coleman (2009). "The coleman-claytonia-winter-harvest-cultivation Handbook." Chelsea Green.
 ---
 
-## Coleman's First Rule of Biological Agriculture
+## Coleman"s First Rule of Biological Agriculture
 
 Eliot Coleman articulated a foundational principle for understanding the
 relationship between plants, pests, and growing conditions: "Nature makes
 sense." This deceptively simple statement encapsulates a philosophy of
 biological agriculture that treats [[solomon-insects-and-diseases-integrated-approach]] are not the problem with a crop —
 they are the symptoms. Their presence is a visible indication that growing
-conditions are not conducive to the plant's optimum health.
+conditions are not conducive to the plant"s optimum health.
 
 No one would treat chicken pox by scraping off the spots. Similarly,
 removing pests from a plant does not cure the problem or eliminate the

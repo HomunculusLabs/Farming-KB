@@ -8,7 +8,7 @@ sources: [raw/papers/beneficial-indigenous-microorganisms-bionutrients.md]
 ---
 ## Cannabis Dosing and Titration
 
-Cannabis dosing is fundamentally different from dosing conventional pharmaceuticals because of the plant's complexity, the variability between strains and batches, and the individual variability in endocannabinoid system function. Unlike most pharmaceuticals with established standard doses, cannabis medicine requires a personalized approach to finding the optimal therapeutic dose for each patient.
+Cannabis dosing is fundamentally different from dosing conventional pharmaceuticals because of the plant"s complexity, the variability between strains and batches, and the individual variability in endocannabinoid system function. Unlike most pharmaceuticals with established standard doses, cannabis medicine requires a personalized approach to finding the optimal therapeutic dose for each patient.
 
 The concept of a "[[blesching-cannabis-safety-adverse-effects-evidence]] are minimized. Taking too little may produce sub-optimal results, while taking too much can actually increase the very symptoms being treated.
 
@@ -18,7 +18,7 @@ The foundational principle of cannabis dosing is to start low and go slow. This 
 
 This approach is essential because [[cannabis-cannabinoid-receptor-pharmacology]] density and function, prior cannabis use and tolerance level, body weight and composition, the specific condition being treated, and the form and route of administration.
 
-Establishing one's therapeutic window is governed by three primary factors: the body's present endocannabinoid state (relative balance or deficiency), the cannabinoid profile in the medicine being taken, and the form in which it is consumed.
+Establishing one"s therapeutic window is governed by three primary factors: the body's present endocannabinoid state (relative balance or deficiency), the cannabinoid profile in the medicine being taken, and the form in which it is consumed.
 
 ## Dosing by Route of Administration
 
@@ -40,7 +40,7 @@ For patients with lung conditions, alcohol-based tinctures or infused oils may b
 
 Oral ingestion of cannabis produces much slower onset of effects compared to inhalation. Effects typically begin within 30 to 90 minutes, peak at 2 to 3 hours, and can last 4 to 8 hours or longer. When taken on a full stomach, onset may be delayed by an additional hour or more.
 
-The extended onset time with oral ingestion creates the greatest risk of overconsumption. Many patients have made the mistake of thinking "I'm not feeling anything" after waiting an hour, and then continuing to eat or take more cannabis until adverse effects occur. The effects of oral overconsumption can be intense, very unpleasant, and may last many hours.
+The extended onset time with oral ingestion creates the greatest risk of overconsumption. Many patients have made the mistake of thinking "I"m not feeling anything" after waiting an hour, and then continuing to eat or take more cannabis until adverse effects occur. The effects of oral overconsumption can be intense, very unpleasant, and may last many hours.
 
 The recommended titration approach for oral cannabis is to use an exact and measured amount, preferably on an empty stomach, and wait at least one hour (or two hours on a full stomach) before increasing the dose by the same measured amount. This process should be repeated until the desired effect is achieved.
 

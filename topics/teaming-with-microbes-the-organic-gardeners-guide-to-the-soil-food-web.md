@@ -1,7 +1,7 @@
 ---
-title: "Teaming with Microbes — The Organic Gardener's Guide to the Soil Food Web"
+title: "Teaming with Microbes — The Organic Gardener"s Guide to the Soil Food Web"
 ---
-subtitle: "A comprehensive guide to Lowenfels and Lewis's landmark book on soil biology for gardeners"
+subtitle: "A comprehensive guide to Lowenfels and Lewis"s landmark book on soil biology for gardeners"
 tags: [soil-biology, soil-food-web, microbiology, composting, organic-gardening, mycorrhizae, protozoa, nematodes, earthworms, mineralization, compost-tea]
 date: 2026-05-10
 updated: 2026-05-10
@@ -22,7 +22,7 @@ related_concepts:
   - teaming-with-nutrients-essential-plant-nutrients
 ---
 
-## Teaming with Microbes — The Organic Gardener's Guide to the Soil Food Web
+## Teaming with Microbes — The Organic Gardener"s Guide to the Soil Food Web
 
 *Teaming with Microbes: A Gardener's Guide to [[the-soil-food-web]]*, first published in 2006 by Jeff Lowenfels and Wayne Lewis with a foreword by Elaine Ingham, is one of the most influential popular books on soil biology ever written. It bridges the gap between academic soil science and practical garden management, translating complex microbial ecology into actionable guidance for home gardeners, landscapers, and small farmers. The book went through three editions (2006, 2010, and the definitive 2017 Timber Press Guide), each expanding its scientific scope and practical recommendations. A companion volume, *Teaming with Nutrients* (2013), extended the framework into plant nutrition.
 
@@ -64,7 +64,7 @@ Protozoa are the critical nutrient mineralizers of the soil food web. They are s
 
 Three major groups of soil protozoa are distinguished by their locomotion. Flagellates, the smallest, move using whip-like flagella and can access bacteria in smaller soil pores than other protozoa. Amoebae move using temporary pseudopods (false feet) and can squeeze through very small soil pores to reach bacteria; they include both naked and testate (shelled) forms. Ciliates, the largest, move using hair-like cilia and prefer aerobic conditions — their presence in high numbers generally indicates good aeration, though very high ciliate numbers can signal compacted, anaerobic conditions.
 
-The nutrient mineralization role of protozoa is their most important function. Protozoa consume bacteria that contain immobilized nitrogen and other nutrients. They digest what they need for their own metabolism — roughly thirty to forty percent of the nitrogen — and excrete the excess sixty to seventy percent as waste, primarily in the form of ammonium. This mineralization happens right in the rhizosphere, exactly where plant roots can absorb it. Protozoa are, in the book's memorable phrase, the "fertilizer spreaders" of the soil food web.
+The nutrient mineralization role of protozoa is their most important function. Protozoa consume bacteria that contain immobilized nitrogen and other nutrients. They digest what they need for their own metabolism — roughly thirty to forty percent of the nitrogen — and excrete the excess sixty to seventy percent as waste, primarily in the form of ammonium. This mineralization happens right in the rhizosphere, exactly where plant roots can absorb it. Protozoa are, in the book"s memorable phrase, the "fertilizer spreaders" of the soil food web.
 
 All protozoa require moisture for active life. When soils dry out, they encyst — forming protective cysts — and go dormant until moisture returns. This moisture dependence means that the soil wetting and drying cycle directly affects the rate of nutrient mineralization. The presence and diversity of protozoa serves as a bioindicator of a functioning soil food web.
 

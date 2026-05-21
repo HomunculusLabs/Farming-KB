@@ -19,7 +19,7 @@ Hybrids are typically described by their indica/sativa ratio:
 
 ### Indica-Dominant Hybrids (60-90% indica)
 
-These strains lean toward indica effects while retaining some sativa influence. They provide physical relaxation with moderate cerebral stimulation. Examples include Girl Scout Cookies (70/30), OG Kush (75/25), and Blue Dream's more indica-leaning phenotypes.
+These strains lean toward indica effects while retaining some sativa influence. They provide physical relaxation with moderate cerebral stimulation. Examples include Girl Scout Cookies (70/30), OG Kush (75/25), and Blue Dream"s more indica-leaning phenotypes.
 
 ### Sativa-Dominant Hybrids (60-90% sativa)
 

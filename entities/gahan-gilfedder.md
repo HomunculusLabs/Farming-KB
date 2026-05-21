@@ -7,7 +7,7 @@ tags: [person, permaculture-practitioner, australia, designer]
 
 ## Description
 
-Gahan Gilfedder is an Australian [[bill-mollison]] in *[[permaculture]]: A Designers' Manual* as an example of innovative yield discovery — finding economic value in resources that were previously considered waste products.
+Gahan Gilfedder is an Australian [[bill-mollison]] in *[[permaculture]]: A Designers" Manual* as an example of innovative yield discovery — finding economic value in resources that were previously considered waste products.
 
 ## Classification
 

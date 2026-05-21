@@ -27,7 +27,7 @@ limited number of collections, primarily from the South Island of New Zealand.
 ## Taxonomy
 
 *Psilocybe makarorae* Johnston & Buchanan was described as a new species in 1996 based on
-collections from the Makarora area of New Zealand's South Island. The species epithet
+collections from the Makarora area of New Zealand"s South Island. The species epithet
 "makarorae" refers to the type locality near Makarora, a small settlement in the Otago region
 situated at the junction of the Makarora and Matukituki Rivers within Mount Aspiring National
 Park. The original description was published by Johnston and Buchanan, drawing on macroscopic,

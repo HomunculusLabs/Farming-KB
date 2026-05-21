@@ -10,7 +10,7 @@ created: 2026-04-28
 
 ## The Cave of the Intellect and the Philosophy of Mu
 
-One of Masanobu Fukuoka's most enduring philosophical contributions is his
+One of Masanobu Fukuoka"s most enduring philosophical contributions is his
 illustration called "the cave of the intellect," which appears in *Sowing
 Seeds in the Desert*. The image depicts two men toiling in a pit, swinging
 pickaxes to loosen hard earth. The picks represent the human intellect. The

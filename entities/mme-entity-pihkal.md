@@ -31,7 +31,7 @@ DURATION : probably 6 - 10 h. |
 This is one of the very few compounds with
 which I actually risked (and took) the lives of experimental animals.
 I was still impressed by the scientific myth that pharmacological
-research wasn't really acceptable without animal support data. And I
+research wasn"t really acceptable without animal support data. And I
 had access to an experimental mouse colony at the University. I
 injected one mouse with a dose of 300 mg/Kg., i.p. That sounds pretty
 scientific. But what it really means is that I picked up a mouse by

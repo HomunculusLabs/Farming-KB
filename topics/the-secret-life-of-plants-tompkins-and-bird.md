@@ -1,7 +1,7 @@
 ---
 title: "The Secret Life of Plants"
 ---
-subtitle: "Tompkins and Bird's exploration of plant perception"
+subtitle: "Tompkins and Bird"s exploration of plant perception"
 tags: [plant-intelligence, plant-perception, consciousness,
       bioelectricity, parapsychology, history-of-science, botany]
 date: 2026-05-12
@@ -38,7 +38,7 @@ investigation into the idea that plants possess sensory abilities,
 emotional responses, and perhaps even consciousness. The book became
 an international bestseller, translated into dozens of languages, and
 provoked fierce debate that continues to this day. It gathered
-experiments from [[cleve-backster]]'s polygraph research in New York City, Soviet
+experiments from [[cleve-backster]]"s polygraph research in New York City, Soviet
 electrophysiology at the Timiryazev Academy in Moscow, and the
 mystical [[brassinosteroid-physiological-mechanisms-cell-elongation-division|Mechanisms]] differ from what [[rudolf-steiner]]. Bird's
 exposure to Steiner's [[fukuoka-western-eastern-philosophy-agriculture]], ecology, and
@@ -76,7 +76,7 @@ blindfolded students. He claimed plants maintained a connection with
 their keeper regardless of distance, showing synchronized reactions
 from rooms, buildings, and even hundreds of miles away.
 
-Backster's work was never replicated to the satisfaction of
+Backster"s work was never replicated to the satisfaction of
 mainstream science. Horowitz, Lewis, and Gasteiger published a study
 in *Science* in 1975 that failed to find any evidence of the Backster
 effect using automated equipment that eliminated human involvement.

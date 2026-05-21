@@ -23,13 +23,13 @@ The third and most dramatic form involves the experience of being dismembered or
 
 This death-rebirth pattern is found across shamanic traditions worldwide and parallels the initiatory experiences described by shamans-in-training. It also resonates with the [[metzner-five-fundamental-conclusions-psychedelic-psychotherapy]], where patients moving beyond biographical issues encounter experiences of ego death and rebirth.
 
-The reconstituted body may incorporate new spiritual power, animal qualities, or enhanced capacities. The experience fundamentally transforms the patient's sense of self and their relationship to the world, producing what might be called a ontological reset.
+The reconstituted body may incorporate new spiritual power, animal qualities, or enhanced capacities. The experience fundamentally transforms the patient"s sense of self and their relationship to the world, producing what might be called a ontological reset.
 
 ## Divination and Diagnosis
 
-A crucial companion to these three healing forms is the role of divination, which in the Western medical framework would be called diagnosis. Metzner noted that the experience can provide access to hidden knowledge—determining from where and from whom a particular toxic implant came, where a soul-fragment has been "lost," or what particular herbs should be used for a person's illness.
+A crucial companion to these three healing forms is the role of divination, which in the Western medical framework would be called diagnosis. Metzner noted that the experience can provide access to hidden knowledge—determining from where and from whom a particular toxic implant came, where a soul-fragment has been "lost," or what particular herbs should be used for a person"s illness.
 
-It is said that there is an intelligence associated with the plant medicine that communicates in an interior way to the person who ingests the medicine. Indigenous healers refer to the entheogenic plants as "plant teachers," emphasizing that the healing knowledge comes through the plant itself rather than being imposed by the healer. The shaman's role is to facilitate this communication and interpret its contents.
+It is said that there is an intelligence associated with the plant medicine that communicates in an interior way to the person who ingests the medicine. Indigenous healers refer to the entheogenic plants as "plant teachers," emphasizing that the healing knowledge comes through the plant itself rather than being imposed by the healer. The shaman"s role is to facilitate this communication and interpret its contents.
 
 ## Contrast with Western Psychotherapy
 

@@ -4,7 +4,7 @@ tags:
   - concept
 ---
 
-The EMCDDA's 2006 thematic paper on [[emcdda-hallucinogenic-mushroom-contributing-factors-megatrends]] stated directly that "increasing
+The EMCDDA"s 2006 thematic paper on [[emcdda-hallucinogenic-mushroom-contributing-factors-megatrends]] stated directly that "increasing
 interest in natural and organic products may have enhanced the appeal of
 hallucinogenic mushrooms over synthetic hallucinogens." This framing positioned
 mushrooms favourably against synthetic drugs like ecstasy and LSD in the
@@ -36,7 +36,7 @@ its potential as a vector for wider diffusion.
 
 The natural-product framing was central to smartshop marketing strategies. The
 paper documented that "hallucinogenic mushrooms have been sold by many retailers
-under the general label of 'Herbal highs' following the trend in the late 1990s
+under the general label of "Herbal highs' following the trend in the late 1990s
 towards the preference for organic and herbal products." This categorisation
 placed [[golden-guide-salvia-divinorum-and-diviner-sage]]. Smartshops, which
 specialised in psychoactive herbal substances alongside vitamins and health

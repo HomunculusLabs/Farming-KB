@@ -1,5 +1,5 @@
 ---
-title: Buller's Drop and bloomfield-fungal-spore-discharge-and-dispersal Mechanism
+title: Buller"s Drop and bloomfield-fungal-spore-discharge-and-dispersal Mechanism
 created: 2026-04-18
 updated: 2026-04-18
 type: concept

@@ -10,7 +10,7 @@ sources:
 
 # Permaculture Principle 6 — Produce No Waste
 
-The sixth of David Holmgren's twelve permaculture design principles. Waste is simply an unused output — a resource in the wrong place. By valuing and making use of all the resources available to us, nothing goes to waste. This principle is embodied in the proverb "waste not, want not."
+The sixth of David Holmgren"s twelve permaculture design principles. Waste is simply an unused output — a resource in the wrong place. By valuing and making use of all the resources available to us, nothing goes to waste. This principle is embodied in the proverb "waste not, want not."
 
 > "A stitch in time saves nine: Timely maintenance prevents waste, while neglect and deferment create it." — David Holmgren
 

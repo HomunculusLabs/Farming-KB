@@ -6,7 +6,7 @@ type: concept
 
 ## Fukuoka Post-Season Cultivation and Rethinking Pest Control
 
-[[masanobu-fukuoka]]'s experience directing agricultural policy in Kochi Prefecture became a
+[[masanobu-fukuoka]]"s experience directing agricultural policy in Kochi Prefecture became a
 pivotal turning point in his thinking about pest control, [[fukuoka-kochi-rice-borer-eradication-debacle]] program
 he helped orchestrate was technically successful yet fundamentally hollow, leading him to
 question the entire premise of modern pest management.
@@ -19,7 +19,7 @@ plant on the Kacho Plain." The culprit was identified as the yellow rice borer, 
 whose larvae bored into rice stems and devastated yields across the region.
 
 The eradication plan was elegantly simple in concept: eliminate the rice borer through
-starvation. By ensuring the complete absence of all rice plants during the insect's first
+starvation. By ensuring the complete absence of all rice plants during the insect"s first
 emergence period, the borer would have no host on which to feed or lay eggs. Farmers were
 forbidden from planting until July 8, effectively breaking the pest's lifecycle.
 
@@ -27,7 +27,7 @@ The implementation was a massive coordinated effort involving every scientist an
 technician in the prefecture. Tilling, seeding, and fertilizing schedules were all
 completely rewritten. New rice cultivars were selected specifically for their suitability
 to July planting. Fukuoka later described the undertaking as "a true technical reformation
-in every respect" — a wholesale restructuring of Kochi's entire rice cultivation system.
+in every respect" — a wholesale restructuring of Kochi"s entire rice cultivation system.
 
 The outcome was a paradox. The yellow rice borer was indeed completely eliminated from the
 region. Yet Fukuoka candidly admitted: "we were unable to increase crop production." The
@@ -50,7 +50,7 @@ messenger, not the enemy.
 
 In Kochi specifically, Fukuoka observed that rice growth was "too luxuriant" — the plants
 were pushed too hard by fertilization and cultivation practices. Disease and pest
-infestation were, in his view, nature's method for suppressing excessive growth and
+infestation were, in his view, nature"s method for suppressing excessive growth and
 restoring equilibrium. The plants had been made vulnerable by human intervention, and
 nature was correcting the imbalance.
 
@@ -62,7 +62,7 @@ single threat, only to reveal the next one waiting in the wings.
 
 ## Scientific Agriculture as Temporary Expedient
 
-Fukuoka's disillusionment with the Kochi project led him to a sweeping critique of
+Fukuoka"s disillusionment with the Kochi project led him to a sweeping critique of
 scientific agriculture as a whole. The post-season cultivar developed for the eradication
 program, he noted, merely would not reduce yields when planted in July. It was "in no way
 capable of positively raising yields." The entire effort had been defensive — a strategy
@@ -73,7 +73,7 @@ in which rice seed was left to germinate naturally rather than being sown by the
 The discovery demonstrated that nature itself was perfectly capable of initiating and
 managing the growth cycle.
 
-"Nature then 'plants without sowing seed,'" Fukuoka wrote. "This realization was my first
+"Nature then "plants without sowing seed,'" Fukuoka wrote. "This realization was my first
 step toward natural rice cropping." From this insight grew his famous method of scattering seed directly onto fields, allowing nature to determine germination timing, and trusting the ecosystem to manage pests, weeds, and fertility without human coercion.
 
 ## Overview

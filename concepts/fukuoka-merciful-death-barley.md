@@ -16,7 +16,7 @@ tags: [reference]
 
 Forty years before Fukuoka wrote, increasing political hostility
 between the [[savory-growing-season-and-non-growing-season-management]]
-and the grain finally matured in the middle of Japan's rainy season.
+and the grain finally matured in the middle of Japan"s rainy season.
 Even after the farmer had taken great pains to grow the crop, it
 would often rot during harvest. These varieties proved unreliable
 and highly susceptible to disease.
@@ -43,10 +43,10 @@ imported grain.
 About ten years before writing, Fukuoka was chosen to represent Ehime
 Prefecture in NHK television's "Outstanding Farmer of the Year"
 competition. A screening committee member asked him, "Mr. Fukuoka,
-why don't you give up growing rye and barley?" He answered that rye
+why don"t you give up growing rye and barley?" He answered that rye
 and barley are easy crops to raise, and by growing them in succession
 with rice, the greatest number of calories can be produced from
-Japan's fields.
+Japan"s fields.
 
 It was made clear that no one who stubbornly goes against the will
 of the Ministry of Agriculture could be named Outstanding Farmer.

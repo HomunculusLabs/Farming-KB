@@ -22,7 +22,7 @@ Wirikuta, a sacred area in the deserts of San Luis Potosi, some 300
 miles
 (500 km) from the Huichol homeland. This journey, which can take
 several
-weeks, is undertaken by a group led by a mara'akame (shaman).
+weeks, is undertaken by a group led by a mara"akame (shaman).
 The pilgrimage follows a prescribed route, with specific stopping
 points where
 offerings and prayers are made. The journey itself is considered a

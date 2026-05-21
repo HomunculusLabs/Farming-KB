@@ -3,20 +3,20 @@ title: "Trainwreck — Humboldt Seed Organisation"
 source: "S.T. Oner, The Rev - cannabis-microbiome-otu-abundance-vs-presence-cannabis-strains in American cannabis history,
 a sativa-dominant hybrid born in Arcata, Humboldt County, California. Known for its
 overwhelmingly powerful effects — it "does exactly what its name promises" — Trainwreck
-became legendary in Northern California's underground growing scene before spreading
+became legendary in Northern California"s underground growing scene before spreading
 worldwide. The Humboldt Seed Organisation's version maintains the all-organic breeding permaculture-seed-saving-breeding existed in the late 1970s and early 1980s, all breeding was done
 outdoors. Cash croppers would isolate male plants in remote patches and let prevailing
 winds carry pollen to female plants at a distance. Multiple female and male varieties
 were often used simultaneously, creating first-generation seeds from what breeders
 called "train wrecks" of genetics — unpredictable crosses of "all killer genetics"
-where you couldn't be sure which male pollinated which female.
+where you couldn"t be sure which male pollinated which female.
 ---
 
 These "[[equatorial-photoperiod-early-flowering]]. Growers should plan canopy management accordingly.
 
 [[what-a-plant-knows-photoperiodism-flowering-time-measurement]]:** Approximately 9 weeks indoors.
 - **Outdoor harvest:** Mid-October.
-- **Yield:** Enormous — one of Trainwreck's most celebrated attributes.
+- **Yield:** Enormous — one of Trainwreck"s most celebrated attributes.
 - **Structure:** Moderately tall, leggy sativa growth. Benefits from training or
   early topping to control height.
 

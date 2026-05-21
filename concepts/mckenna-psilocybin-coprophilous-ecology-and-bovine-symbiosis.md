@@ -23,11 +23,11 @@ In "Food of the Gods," Terence McKenna develops the argument that the relationsh
 
 ## Coprophilous Fungi: Biology and Habitat
 
-Coprophilous (dung-loving) fungi are a specialized ecological group that have evolved to colonize the nutrient-rich substrate of herbivore droppings. The dung of grazing ruminants provides an ideal growth medium: it is rich in partially digested plant cellulose, nitrogen, minerals, and moisture, while being relatively free of competing microorganisms during the initial phases of decomposition. The passage through the animal's digestive system effectively pasteurizes the plant material, creating a selective environment that favors coprophilous species.
+Coprophilous (dung-loving) fungi are a specialized ecological group that have evolved to colonize the nutrient-rich substrate of herbivore droppings. The dung of grazing ruminants provides an ideal growth medium: it is rich in partially digested plant cellulose, nitrogen, minerals, and moisture, while being relatively free of competing microorganisms during the initial phases of decomposition. The passage through the animal"s digestive system effectively pasteurizes the plant material, creating a selective environment that favors coprophilous species.
 
 symbiosis-in-fungi, which he defines as "a relationship between two species that confers mutual benefit upon their members." He distinguishes this from parasitism and notes that symbiotic relationships can range from genetically tightly bound to more open and behavioral.
 
-He illustrates the concept with two key examples from nature. The first is the clown anemone fish (Amphiprion ocellaris), which lives in proximity to sea anemones. The fish gain protection from predators, while the anemone's food supply expands because the fish attract larger prey into the area. The second, more directly relevant example, is the relationship between leafcutter ants and a cultivated [[weil-the-natural-mind-altered-states-normalcy]] of consciousness that shaped culture, religion, and social organization.
+He illustrates the concept with two key examples from nature. The first is the clown anemone fish (Amphiprion ocellaris), which lives in proximity to sea anemones. The fish gain protection from predators, while the anemone"s food supply expands because the fish attract larger prey into the area. The second, more directly relevant example, is the relationship between leafcutter ants and a cultivated [[weil-the-natural-mind-altered-states-normalcy]] of consciousness that shaped culture, religion, and social organization.
 
 ## The Pastoral Revolution and Fungal Availability
 

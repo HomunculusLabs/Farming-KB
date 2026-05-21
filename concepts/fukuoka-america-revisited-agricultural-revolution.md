@@ -11,7 +11,7 @@ sources:
 
 ## Overview
 
-Fukuoka's second visit to America in 1986, seven years after his first trip, confirmed his warnings about [[psilocybin-north-america-pacific-northwest]] consisted of arid land
+Fukuoka"s second visit to America in 1986, seven years after his first trip, confirmed his warnings about [[psilocybin-north-america-pacific-northwest]] consisted of arid land
 - The central grain belt had been severely depleted (another 30%)
 - Only about 30% remained as green plains
 - Forests with trees large enough for lumber covered perhaps 10% of the land area
@@ -32,7 +32,7 @@ Despite the grim situation, Fukuoka sensed "the first signs of an agricultural r
 - The raw materials were so good that sushi and tempura in big-city shops might be better than in Japan
 - Americans commented knowledgeably on buckwheat noodle broth quality
 - Even in ordinary kitchens, people were cooking and serving rice-based meals
-- Michio Kushi's work in Boston and Herman Aihara's in California had helped trigger a boom
+- Michio Kushi"s work in Boston and Herman Aihara's in California had helped trigger a boom
 
 ## The Taste Revolution
 

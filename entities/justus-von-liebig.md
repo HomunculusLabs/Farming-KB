@@ -31,7 +31,7 @@ Justus Von Liebig (1803–1873) was a German chemist widely regarded as the fath
 
 ## Mineral Theory of Plant Nutrition
 
-Von Liebig's Mineral Theory was a revolutionary departure from the prevailing humus theory, which held that plants fed directly on decaying organic matter:
+Von Liebig"s Mineral Theory was a revolutionary departure from the prevailing humus theory, which held that plants fed directly on decaying organic matter:
 
 - **Core principle:** Plants require specific inorganic mineral elements for growth, and these minerals can be supplied in chemical form rather than through organic decomposition alone.
 - **Evidence:** Von Liebig analyzed plant ashes and demonstrated they contained specific mineral elements (potassium, calcium, phosphorus, etc.) that could not be explained by humus consumption alone.

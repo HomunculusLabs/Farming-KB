@@ -1,5 +1,5 @@
 ---
-title: "Coleman's Deep-Organic vs. Shallow-Organic Farming"
+title: "Coleman"s Deep-Organic vs. Shallow-Organic Farming"
 aliases: [deep organic shallow organic, philosophical organic farming, symptom treatment agriculture]
 tags: [organic-farming, philosophy, soil-health, coleman, winter-harvest]
 source: eliot-coleman-winter-harvest-handbook.md

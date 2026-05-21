@@ -1,5 +1,5 @@
 ---
-title: McKenna's Nostalgia for Paradise — Substitute Intoxicants and the Fall from the Mushroom Eden
+title: McKenna"s Nostalgia for Paradise — Substitute Intoxicants and the Fall from the Mushroom Eden
 created: 2026-04-23
 updated: 2026-04-23
 type: concept
@@ -27,11 +27,11 @@ McKenna traces the suppression of [[harner-european-witchcraft-hallucinogens]] �
 
 ## Criticism and Limitations
 
-McKenna's nostalgia thesis has been criticized on several grounds. His characterization of [[psilocybin-compound-profile]] on neuroplasticity, default mode network suppression, and serotonin receptor modulation has led some researchers to revisit the possibility that psychedelic compounds played some role in human cognitive evolution, even if McKenna's specific claims were overstated.
+McKenna"s nostalgia thesis has been criticized on several grounds. His characterization of [[psilocybin-compound-profile]] on neuroplasticity, default mode network suppression, and serotonin receptor modulation has led some researchers to revisit the possibility that psychedelic compounds played some role in human cognitive evolution, even if McKenna's specific claims were overstated.
 
 ## The Archaic Revival
 
-The concept of the "Archaic Revival" is McKenna's call for a return to pre-literate, partnership-model ways of knowing that were lost with the rise of dominator culture. He argued that the accumulated knowledge of indigenous peoples regarding [[amaringo-ayahuasca-visions-shipibo-iconography]] phenomenon, though the latter has also been criticised as a form of cultural appropriation.
+The concept of the "Archaic Revival" is McKenna"s call for a return to pre-literate, partnership-model ways of knowing that were lost with the rise of dominator culture. He argued that the accumulated knowledge of indigenous peoples regarding [[amaringo-ayahuasca-visions-shipibo-iconography]] phenomenon, though the latter has also been criticised as a form of cultural appropriation.
 
 ## Novelty Theory and Timewave Zero
 

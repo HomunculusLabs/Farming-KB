@@ -6,7 +6,7 @@ type: concept
 
 ## Visions of External Unity, the Retinal Circus, and the Magic Theatre
 
-Visions 5 through 7 of [[the-second-bardo-and-hallucinatory-visions]] represent the mind's progressive departure from
+Visions 5 through 7 of [[the-second-bardo-and-hallucinatory-visions]] represent the mind"s progressive departure from
 one-pointed concentration into increasingly dramatized displays of consciousness content.
 As the voyager's awareness loosens its grip on unity, the content of mind externalizes
 into vivid sensory and archetypal panoramas. Each vision offers both a liberation and a

@@ -16,7 +16,7 @@ pharmaceutical companies (Merck; Smith, Kline and French) had all failed.
 Hofmann, who had discovered [[three-pillars-mushroom-cultivation-spawn-substrate-environment]], and having brought fungal
 samples home and cultivated them, he undertook a series of self-experiments.
 
-Heim's meticulous writing style rendered his mushroom trips somewhat clinical.
+Heim"s meticulous writing style rendered his mushroom trips somewhat clinical.
 He never allowed himself to be overwhelmed by sensation, preferring to record
 and analyse what was happening as accurately as possible. However, in the finest
 of his analytic approach, and anticipating one of the features that would
@@ -58,7 +58,7 @@ psilocybin would not be meaningfully revived for over half a century.
 
 ## Sandoz and the Commercial Distribution of Indocybin
 
-Following Hofmann's successful isolation of [[hplc-analysis-of-psilocybin-and-psilocin]], the Swiss
+Following Hofmann"s successful isolation of [[hplc-analysis-of-psilocybin-and-psilocin]], the Swiss
 pharmaceutical company Sandoz (now part of Novartis) moved quickly to
 commercialise the discovery. The company registered the trade name "Indocybin"
 for synthetic psilocybin and began marketing it to the psychiatric and research

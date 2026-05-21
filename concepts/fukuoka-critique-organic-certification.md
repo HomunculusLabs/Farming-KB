@@ -16,7 +16,7 @@ Masanobu Fukuoka was sharply critical of organic certification and the [[hamilto
 
 ## Specific Practices Fukuoka Criticized
 
-Fukuoka targeted several specific organic farming practices that, in his view, revealed the movement's fundamental alignment with conventional agriculture's interventionist logic:
+Fukuoka targeted several specific organic farming practices that, in his view, revealed the movement"s fundamental alignment with conventional agriculture's interventionist logic:
 
 - **Compost production**: Organic farmers who carefully manage compost piles, turning and monitoring temperatures, were in Fukuoka's view engaged in unnecessary labor. He advocated simply returning all plant residues to the soil surface as mulch, allowing [[organic-pest-and-disease-management]].
 
@@ -32,7 +32,7 @@ He described the arrogance of experts who believe that "if there is a right and 
 
 Fukuoka was not alone in his skepticism of organic certification as a pathway to truly sustainable agriculture, though his critique was the most philosophically radical.
 
-**Joel Salatin** of Polyface Farms has criticized organic certification as a bureaucratic process that favors large-scale operations over small family farms. Salatin argues that the most important certification is the relationship between farmer and customer -- what he calls "know your farmer, know your food." While Salatin's critique is practical and market-oriented, Fukuoka's is philosophical: the problem is not certification per se, but the entire mindset of controlling nature.
+**Joel Salatin** of Polyface Farms has criticized organic certification as a bureaucratic process that favors large-scale operations over small family farms. Salatin argues that the most important certification is the relationship between farmer and customer -- what he calls "know your farmer, know your food." While Salatin"s critique is practical and market-oriented, Fukuoka's is philosophical: the problem is not certification per se, but the entire mindset of controlling nature.
 
 **Allan Savory**, developer of [[coleman-compost-and-organic-fertility-management]] fertilizers; natural farming returns all plant residues to the soil surface without processing
 

@@ -1,5 +1,5 @@
 ---
-title: Whittaker's Beta Diversity
+title: Whittaker"s Beta Diversity
 source: unknown-biodiversity-of-fungi.md
 type: entity
 ---

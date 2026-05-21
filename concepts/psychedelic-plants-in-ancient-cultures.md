@@ -24,7 +24,7 @@ The evidence and theories connecting psychoactive plants to ancient religious pr
 
 The Eleusinian Mysteries were the most important religious initiation ceremony of ancient Greece, conducted annually at Eleusis near Athens for nearly two thousand years (approximately 1450 BCE to 392 CE). The central rite, the **telesterion**, involved the consumption of a potion called **kykeon**.
 
-### Wasson's Ergot Hypothesis
+### Wasson"s Ergot Hypothesis
 
 [[gordon-wasson]] proposed that the kykeon contained an infusion of ergot (*[[claviceps-purpurea]]*), the fungus that grows parasitically on rye and other grains. Ergot contains the alkaloids from which [[albert-hofmann]] later derived LSD:
 

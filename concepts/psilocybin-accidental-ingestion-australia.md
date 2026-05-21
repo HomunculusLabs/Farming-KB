@@ -10,7 +10,7 @@ sources:
 
 ## Accidental Psilocybin Mushroom Ingestion in Australia
 
-Ancient or historic evidence of cerebral mycetisms induced by the psilocybin accidental ingestion australia of [[wasson-hofmann-ruck-theory]]'s announcement of ceremonial mushroom use in Mexico sparked renewed interest. James H. Willis, in his 1957 book "Victorian Toadstools and Mushrooms," published an evocative anecdote: "Rumour has it that they will cause an intoxication under which the victim suffers a strange sensation of growing taller and over-topping the objects about him: Who knows but this may (very well) be the magic mushroom of 'Alice in Wonderland' fame." Willis also noted that *P. ovatus* had "intoxicated people near Sydney" — again, almost certainly a misidentification of *Copelandia cyanescens*.
+Ancient or historic evidence of cerebral mycetisms induced by the psilocybin accidental ingestion australia of [[wasson-hofmann-ruck-theory]]"s announcement of ceremonial mushroom use in Mexico sparked renewed interest. James H. Willis, in his 1957 book "Victorian Toadstools and Mushrooms," published an evocative anecdote: "Rumour has it that they will cause an intoxication under which the victim suffers a strange sensation of growing taller and over-topping the objects about him: Who knows but this may (very well) be the magic mushroom of "Alice in Wonderland' fame." Willis also noted that *P. ovatus* had "intoxicated people near Sydney" — again, almost certainly a misidentification of *Copelandia cyanescens*.
 
 ## Dr. A.E. Stocks and the Brisbane Hospital Cases (1963)
 

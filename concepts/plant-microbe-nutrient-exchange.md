@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-The relationship between plants and leaf-surface microorganisms forms the basis of foliar [[compost]] tea application. Rather than forcing nutrients onto plants, the philosophy underlying [[actively-aerated-compost-tea]] (AACT) foliar sprays is to support the plant's own [[cannabis-nutrient-management]] system — a system in which the plant is the primary decision-maker.
+The relationship between plants and leaf-surface microorganisms forms the basis of foliar [[compost]] tea application. Rather than forcing nutrients onto plants, the philosophy underlying [[actively-aerated-compost-tea]] (AACT) foliar sprays is to support the plant"s own [[cannabis-nutrient-management]] system — a system in which the plant is the primary decision-maker.
 
 ## How Leaf Surface Organisms Work
 
@@ -26,9 +26,9 @@ Critically, if the plant does not need nutrients, it does not pump sugars out on
 
 > "Let the plant do the work, let the plant control what it needs, instead of us PUSHING things on the plant."
 
-> "The plant has to feed the organisms on the leaves, the plant is more-or-less in control of the organism impacts on the plant's nutrition."
+> "The plant has to feed the organisms on the leaves, the plant is more-or-less in control of the organism impacts on the plant"s nutrition."
 
-This is the foundational principle. Conventional agriculture pushes soluble nutrients onto or into plants, often disrupting the plant's own metabolic regulation. The compost tea approach inverts this: we establish the microbial workforce on the leaf surface, and then step back. The plant decides when and how much to feed those organisms based on its actual nutritional needs.
+This is the foundational principle. Conventional agriculture pushes soluble nutrients onto or into plants, often disrupting the plant"s own metabolic regulation. The compost tea approach inverts this: we establish the microbial workforce on the leaf surface, and then step back. The plant decides when and how much to feed those organisms based on its actual nutritional needs.
 
 ## Brix Measurement Complexities
 
@@ -94,7 +94,7 @@ Nitrogen fixation — the conversion of atmospheric N2 into plant-available form
 
 ### What Anaerobes "Breathe"
 
-> "Most of them ones we can't have in tea are autotrophs, which in non-science words, means they 'breathe' carbon dioxide (CO2), or nitrate (NO3), nitrite (NO2), sulfate (SO4)."
+> "Most of them ones we can"t have in tea are autotrophs, which in non-science words, means they 'breathe' carbon dioxide (CO2), or nitrate (NO3), nitrite (NO2), sulfate (SO4)."
 
 Anaerobic organisms use alternative electron acceptors when oxygen is unavailable. These include CO2, nitrate, nitrite, and sulfate — which Ingham memorably describes as **"solid oxygen"** — compounds that contain bound oxygen atoms the organisms can strip and use for respiration.
 

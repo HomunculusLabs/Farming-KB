@@ -87,7 +87,7 @@ This case demonstrates how mushroom cultivation can serve as an economic transit
 
 ## The United Nations and Sustainability Goals
 
-Mushroom cultivation directly addresses several of the UN's eight Millennium Development Goals:
+Mushroom cultivation directly addresses several of the UN"s eight Millennium Development Goals:
 
 | Goal | Mushroom Cultivation Contribution |
 |------|-----------------------------------|

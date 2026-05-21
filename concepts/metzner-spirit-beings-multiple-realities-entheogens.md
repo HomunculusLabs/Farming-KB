@@ -22,7 +22,7 @@ type: concept
 
 ## Overview
 
-In his 1998 comparative review "[[metzner-hallucinogens-psychotherapy-and-shamanism]]," [[michael-harner]]'s terminology)
+In his 1998 comparative review "[[metzner-hallucinogens-psychotherapy-and-shamanism]]," [[michael-harner]]"s terminology)
 
 Metzner emphasized that in shamanic experience, the usual boundaries between these worlds become more permeable. Access may occur through:
 
@@ -52,11 +52,11 @@ Metzner noted that the experience of spirit beings and multiple realities is not
 - **Iboga ceremonies** (Bwiti cult, Gabon): Initiates see their ancestral spirits in mirrors placed in the assembly room; undergo death-rebirth experiences after which they converse with ancestors
 - **San Pedro ceremonies** (Andean): Curanderos set up altars with figurines representing light and dark spirits
 
-## The Reality Question: Metzner's Position
+## The Reality Question: Metzner"s Position
 
 Metzner, a professor of psychology at the California Institute of Integral Studies, did not simply catalogue these beliefs as anthropological curiosities. He noted that the majority of Westerners who develop an ongoing practice of working with entheogenic plant substances "seem to have expanded their belief systems beyond the boundaries of the conventional materialistic paradigm of Western science and psychology." These practitioners come to accept both Western psychological insights (Freud, Jung, Reich) and the reality of nonmaterial spirit beings and multiple worlds.
 
-He grounded this position in William James's observation from *Varieties of Religious Experience* (1901):
+He grounded this position in William James"s observation from *Varieties of Religious Experience* (1901):
 
 > "Our normal waking consciousness, rational consciousness as we call it, is but one special type of consciousness, whilst all about it, parted from it by the filmiest of screens, there lie potential forms of consciousness entirely different. No account of the universe in its totality can be final which leaves these other forms of consciousness quite disregarded."
 

@@ -14,7 +14,7 @@ sources:
 
 ## Overview
 
-The "Tweetios" are a family of ethoxy-substituted homologues of the 2C-X phenethylamine compounds documented in PiHKAL. The name originated from Shulgin's habit of pronouncing car license plates as words while driving, where "2-EtO" sounded like "Tweetio" (evoking Sylvester and Tweety Bird). These compounds systematically replace one or both methoxy groups of the 2,5-dimethoxy pattern with ethoxy groups, providing valuable structure-activity relationship data.
+The "Tweetios" are a family of ethoxy-substituted homologues of the 2C-X phenethylamine compounds documented in PiHKAL. The name originated from Shulgin"s habit of pronouncing car license plates as words while driving, where "2-EtO" sounded like "Tweetio" (evoking Sylvester and Tweety Bird). These compounds systematically replace one or both methoxy groups of the 2,5-dimethoxy pattern with ethoxy groups, providing valuable structure-activity relationship data.
 
 ## The Three Tweetio Patterns
 
@@ -35,11 +35,11 @@ The longer duration of 5-EtO compounds may reflect increased metabolic stability
 The near-equivalent potency of 5-EtO compounds suggests the receptor binding pocket can accommodate the slightly larger ethoxy group at the 5-position. The reduced potency of 2-EtO compounds suggests tighter steric constraints at the 2-position.
 
 ### The Diethoxy Pattern
-The near-complete loss of activity in diethoxy compounds suggests that replacing both methoxy groups exceeds some size threshold for receptor binding, or that the symmetrical diethoxy pattern changes the molecule's conformation in ways incompatible with the active binding mode.
+The near-complete loss of activity in diethoxy compounds suggests that replacing both methoxy groups exceeds some size threshold for receptor binding, or that the symmetrical diethoxy pattern changes the molecule"s conformation in ways incompatible with the active binding mode.
 
 ## The "Classic Lady" IRIS
 
-The 2CD-5ETO compound (5-ethoxy-2-methoxy-4-methylphenethylamine) leads directly to the "Classic Lady" called IRIS in PiHKAL, which is the 3-carbon amphetamine version of the same substitution pattern. This represents an example of Shulgin's concept of "Classic Ladies" -- compounds that achieve a particularly favorable balance of properties.
+The 2CD-5ETO compound (5-ethoxy-2-methoxy-4-methylphenethylamine) leads directly to the "Classic Lady" called IRIS in PiHKAL, which is the 3-carbon amphetamine version of the same substitution pattern. This represents an example of Shulgin"s concept of "Classic Ladies" -- compounds that achieve a particularly favorable balance of properties.
 
 ## Related Topics
 

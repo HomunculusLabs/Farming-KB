@@ -61,7 +61,7 @@ Elev1 and Elev2 should be recorded as numeric values. When only a single elevati
 
 ## Coordinate Fields
 
-Geographic coordinates anchor a specimen record to a precise point on the Earth's surface. The primary coordinate fields are:
+Geographic coordinates anchor a specimen record to a precise point on the Earth"s surface. The primary coordinate fields are:
 
 - **Latitude** — decimal degrees, positive north of the equator
 - **Longitude** — decimal degrees, positive east of the Prime Meridian

@@ -51,7 +51,7 @@ Mushrooms produce an experience similar to LSD but with a different signature:
 
 ### Content
 
-Mushrooms put users more in touch with the "mystery," feeling acid to be cold and linear in comparison. With mushrooms, Turner often felt in the presence of an **ancient teacher**, whereas with LSD it feels like traversing one's own mental pathways.
+Mushrooms put users more in touch with the "mystery," feeling acid to be cold and linear in comparison. With mushrooms, Turner often felt in the presence of an **ancient teacher**, whereas with LSD it feels like traversing one"s own mental pathways.
 
 ### Visuals
 
@@ -73,7 +73,7 @@ A large dose mushroom experience can feel quite similar to N,N-DMT, but with muc
 
 ### Sacred Character
 
-Turner used LSD more often because it's suitable to more diverse environments and almost always produces expected results. Mushrooms feel more "sacred" - reserved for occasions when a more significant, mystical experience is desired.
+Turner used LSD more often because it"s suitable to more diverse environments and almost always produces expected results. Mushrooms feel more "sacred" - reserved for occasions when a more significant, mystical experience is desired.
 
 ## Combinations
 
@@ -81,7 +81,7 @@ Turner used LSD more often because it's suitable to more diverse environments an
 
 Harmala combines beautifully with mushrooms to produce a very mystical experience. When harmaline was first discovered it was named telepathine because of its reputation for producing telepathic experiences. These telepathic experiences are supposed to be especially likely when Harmala is combined with psilocybin.
 
-One user reported: "The most beautiful and refined interlocking patterns covered the floor, walls, and ceiling of my room. These visuals were so astounding that I would have been more than content with them, but the experience grew even more incredible. I began to feel as though my room was filled with the 'spirits' of musicians, artists, and visionaries whose genius had most strongly affected my life. And I felt as though I were amongst friends. This filled me with elation twice as strong as anything I'd felt on ecstasy, and for a while nothing seemed impossible anywhere in the world."
+One user reported: "The most beautiful and refined interlocking patterns covered the floor, walls, and ceiling of my room. These visuals were so astounding that I would have been more than content with them, but the experience grew even more incredible. I began to feel as though my room was filled with the "spirits' of musicians, artists, and visionaries whose genius had most strongly affected my life. And I felt as though I were amongst friends. This filled me with elation twice as strong as anything I'd felt on ecstasy, and for a while nothing seemed impossible anywhere in the world."
 
 ### Other Combinations
 

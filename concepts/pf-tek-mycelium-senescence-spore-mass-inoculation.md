@@ -37,10 +37,10 @@ While spore mass inoculation resets the senescence clock, the spores themselves 
 
 - **Fresh spores**: Massive, rapid germination within days of inoculation
 - **After a few months**: Degradation begins; germination rate declines
-- **After approximately 1.5 years**: Germination is "greatly reduced or won't occur at all"
+- **After approximately 1.5 years**: Germination is "greatly reduced or won"t occur at all"
 - **Spore syringe storage**: A properly prepared syringe remains viable for "several months and even up to a year or more" at cool temperatures in darkness
 
-The implication is that cultivators should not rely on old spore stocks. The PF TEK recommends taking fresh spore prints from each successful crop and creating new syringes promptly, storing them at cool temperatures away from sunlight. Refrigerator storage is specifically discouraged — the documentation states "Don't store it in a refrigerator" — recommending instead room temperature storage in a dark place.
+The implication is that cultivators should not rely on old spore stocks. The PF TEK recommends taking fresh spore prints from each successful crop and creating new syringes promptly, storing them at cool temperatures away from sunlight. Refrigerator storage is specifically discouraged — the documentation states "Don"t store it in a refrigerator" — recommending instead room temperature storage in a dark place.
 
 ## The Senescence-Reset Cycle
 

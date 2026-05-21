@@ -1,7 +1,7 @@
 ---
 title: Fukuoka Textdoc Microbes Scavengers Natural Order Biosystem
 ---
-subtitle: "Fukuoka's Biosystem Self-Maintenance Theory"
+subtitle: "Fukuoka"s Biosystem Self-Maintenance Theory"
 author: "Masanobu Fukuoka"
 source: "The Natural Way of Farming — The Theory (Green-Philosophy)"
 sections: "The Road Man Must Follow; The Natural Order"
@@ -25,7 +25,7 @@ related:
 
 ## Overview
 
-[[masanobu-fukuoka]]'s understanding of soil microbiology underpins his entire
+[[masanobu-fukuoka]]"s understanding of soil microbiology underpins his entire
 philosophy [[teaming-with-nutrients-natural-vs-synthetic-fertilizers]] or pesticides, harbor populations that
 far exceed those of conventionally managed soils. The fertility of his
 orchards and grain fields arises not from inputs but from the

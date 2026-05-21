@@ -14,7 +14,7 @@ Human cultural diversity is nested within the bioregional diversity that gave ri
 
 The scale of language loss is staggering and accelerating:
 
-- Europe is home to less than 4% of the world's languages — likely reflecting past losses as much as inherently lower diversity
+- Europe is home to less than 4% of the world"s languages — likely reflecting past losses as much as inherently lower diversity
 - About **90% of Australia's 250 Aboriginal languages** are near extinction
 - Only seven Aboriginal languages have more than 1,000 speakers
 - Only two or three are likely to survive the next 50 years
@@ -32,7 +32,7 @@ Elements of local cultural domination persist, but they often disguise the fact 
 
 ### The Normalization of Modernity
 
-Global culture is accepted as normality, while one's own tradition becomes an anachronistic leftover. Whether people view modernity positively or negatively, they generally understand it in relation to their own tradition. Few people recognize:
+Global culture is accepted as normality, while one"s own tradition becomes an anachronistic leftover. Whether people view modernity positively or negatively, they generally understand it in relation to their own tradition. Few people recognize:
 
 - The **commonalities between all traditions of place** — shared patterns of local adaptation
 - The **unique nature of modernity** as a global culture of no-place, disconnected from specific landscapes and ecological conditions
@@ -67,7 +67,7 @@ This is not nostalgia for a lost past but **active design for a sustainable futu
 
 ### The Diversity Imperative in Home Food Production
 
-The application of self-reliance to food supply has enormous implications for diversity within production systems. In current high-energy systems, marketplace diversity provides for people's needs even though production systems feeding those markets are almost all monocultures. Growing our own food immediately confronts us with the reality that people have diverse needs, so systems supplying those needs must be diverse in their products.
+The application of self-reliance to food supply has enormous implications for diversity within production systems. In current high-energy systems, marketplace diversity provides for people"s needs even though production systems feeding those markets are almost all monocultures. Growing our own food immediately confronts us with the reality that people have diverse needs, so systems supplying those needs must be diverse in their products.
 
 ### Affluent Countries
 

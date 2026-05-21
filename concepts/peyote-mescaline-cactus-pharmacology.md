@@ -2,7 +2,7 @@
 title: "golden-guide-peyote-and-mescaline-cacti Cactus Pharmacology"
 tags: [peyote, mescaline, lophophora-williamsii, trichocereus, native-american-church, cactaceae, hallucinogens, sacramental-use]
 source: "Halpern, J.H. (2004). Hallucinogens and dissociative agents naturally growing in the peyote-ceremony (Lophophora williamsii) is a small, spineless cactus native to a narrow
-strip of desert along the Texas-Mexico border, extending deeply into Mexico's
+strip of desert along the Texas-Mexico border, extending deeply into Mexico"s
 Chihuahuan Desert. It is the most culturally significant hallucinogenic plant in
 halpern-sacramental-peyote-and-native-american-church (NAC) for over a century. Peyote contains more than 60 identified
 alkaloids, with trichocereus-pachanoi (San Pedro)

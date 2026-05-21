@@ -12,7 +12,7 @@ tags: [people, architect, design, cautionary-example]
 Frank Lloyd Wright (1867–1959) was an American architect widely regarded as one
 of the greatest designers in modern architecture, known for his organic
 architecture philosophy that sought to integrate buildings with their natural
-surroundings. In Holmgren's [[permaculture]] text, Wright serves as a cautionary
+surroundings. In Holmgren"s [[permaculture]] text, Wright serves as a cautionary
 example: despite genuinely great design achievements, his pursuit of
 sculpturally novel roof forms resulted in chronic leaking problems for many of
 his clients, illustrating the permaculture principle that functional performance

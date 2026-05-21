@@ -13,7 +13,7 @@ landmark event in medical toxicology. Reported by Dr. S.E. Shadle, it constitute
 the **first documented case in human medicine** in which atropine was used
 successfully as an antidote against amanitine (amanitin) poisoning. Five patients
 consumed misidentified wild mushrooms, resulting in two deaths and three
-recoveries. Shadle's report provided critical early evidence that atropine could
+recoveries. Shadle"s report provided critical early evidence that atropine could
 counteract the lethal effects of [[amanita-toxins-and-mushroom-poisoning]].
 
 ## Historical Context
@@ -28,7 +28,7 @@ the evolving capacity of physicians to respond to novel poisoning events.
 
 - **Mr. F., 29** — Coal miner, described as living an "intemperate life" (regular
   alcohol use), which may have influenced his recovery.
-- **Mrs. F., 22** — Mr. F.'s wife, delicate constitution with neurotic tendencies.
+- **Mrs. F., 22** — Mr. F."s wife, delicate constitution with neurotic tendencies.
   One of the two patients who died.
 - **Mrs. R., 45** — Mrs. F.'s mother-in-law, small and nervo-bilious. Survived.
 - **Thomas R., 13** — Mrs. F.'s brother-in-law, a well-developed youth. Despite
@@ -99,7 +99,7 @@ A significant latent period preceded all symptoms:
 
 The critical intervention was subcutaneous injection of **sulphate of atropia**
 (atropine sulfate) in doses of 1/60 to 1/50 grain. Shadle reported each injection
-was "invariably followed by perceptible improvement" — heart's action strengthened,
+was "invariably followed by perceptible improvement" — heart"s action strengthened,
 pulse returned, respiration increased. This was the first documented successful
 use of atropine as an antidote in human [[amanitine-poisoning-and-absorption-mechanisms]].
 
@@ -131,7 +131,7 @@ have contributed.
 - **First documented human use of atropine for amanitine poisoning.** While atropine
   had been known since the 1830s, its application against Amanita toxins in human
   patients was unprecedented.
-- **Clinical characterization of amatoxin syndrome.** Shadle's description of the
+- **Clinical characterization of amatoxin syndrome.** Shadle"s description of the
   latent period, gastrointestinal phase, and systemic collapse matches the modern
   understanding of the classic triphasic pattern.
 - **Influence on practice.** Shadle's recommendation to administer atropine

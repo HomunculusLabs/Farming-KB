@@ -44,7 +44,7 @@ Modern pharmacology explains the efficacy through competitive muscarinic acetylc
 
 - Muscarine (from Amanita muscaria) overstimulates the parasympathetic nervous system
 - Atropine, daturine, and hyoscyamine are all anticholinergic — they compete with muscarine for [[beta-glucan-receptor-binding]] sites
-- This antagonism was first demonstrated quantitatively by Ott's frog heart experiments
+- This antagonism was first demonstrated quantitatively by Ott"s frog heart experiments
 
 The independent discovery by multiple researchers working with different solanaceous plants confirms the entire plant family shares this pharmacological property.
 

@@ -1,5 +1,5 @@
 ---
-title: Early American Mycology and Palmer's Nineteenth-Century Contributions
+title: Early American Mycology and Palmer"s Nineteenth-Century Contributions
 source: About Mushrooms - Julius Auboineau Palmer (1894)
 ---
 
@@ -9,7 +9,7 @@ Julius Auboineau Palmer Jr. (1894) stands as one of the earliest
 American popularizers of mycology, the [[ramsbottom-poisonous-fungi-identification-guide]]" collected articles published over twenty years
 in the Popular Science Monthly, the Boston Medical and Surgical
 Journal, the Moniteur Scientifique of Paris, and other periodicals.
-Palmer's work illuminates the state of mycological knowledge in
+Palmer"s work illuminates the state of mycological knowledge in
 the [[mckenna-club-des-hachischins-and-nineteenth-century-literary-hashish]], a period he
 characterized as one of profound ignorance and institutional
 neglect.
@@ -38,7 +38,7 @@ edible from poisonous species.
 
 ## The Mushroom versus Toadstool Fallacy
 
-Palmer's most enduring contribution to popular mycology was his
+Palmer"s most enduring contribution to popular mycology was his
 insistent demolition of the distinction between mushrooms and
 toadstools. He demonstrated that the two words are as
 interchangeable as "plant" and "vegetable" or "bush" and "shrub."

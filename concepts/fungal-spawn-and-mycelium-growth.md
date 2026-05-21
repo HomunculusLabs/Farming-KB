@@ -16,7 +16,7 @@ Spawn is the common name for the vegetative, spreading part of a fungus that exi
 
 ## Mycelium as the True Fungal Body
 
-The entire earth beneath our feet on a country walk is alive with mycelial vegetation to a great depth. The various vines — the thousand distinct varieties of mushroom-spawn — are just as specific and recognizable to the trained eye as the hop-vine, woodbine, ivy, and virgin's-bower that twine above ground. Where one variety of toadstool grew this year, the same plant will appear next year and in successive seasons, just as predictably as a farmer's wheat crop returns.
+The entire earth beneath our feet on a country walk is alive with mycelial vegetation to a great depth. The various vines — the thousand distinct varieties of mushroom-spawn — are just as specific and recognizable to the trained eye as the hop-vine, woodbine, ivy, and virgin"s-bower that twine above ground. Where one variety of toadstool grew this year, the same plant will appear next year and in successive seasons, just as predictably as a farmer's wheat crop returns.
 
 This regularity disproves the popular error that toadstools "spring up in a night" in unforeseen places for unknown causes. The mycelium is always present, growing steadily, and only fruits when conditions are favorable.
 
@@ -84,7 +84,7 @@ These mushrooms contain a subtle alkaloid not detectable by smell or taste, yet 
 
 ## Historical Context
 
-[[julius-auboineau-palmer]] (1828–1905), a Boston lawyer and amateur mycologist, devoted years of leisure to the study of edible and poisonous fungi. His observations on spawn and mycelium were drawn from careful fieldwork in the Boston area during the 1870s. His description of finding the white mycelial network of *Coprinus comatus* (the shaggy mane) running through soil being excavated opposite the Brunswick Hotel provides one of the clearest contemporary accounts of mycelial structure visible to the naked eye. Palmer's work bridges the gap between the purely taxonomic mycology of his era and the practical, ecological understanding of fungi that would develop in the 20th century.
+[[julius-auboineau-palmer]] (1828–1905), a Boston lawyer and amateur mycologist, devoted years of leisure to the study of edible and poisonous fungi. His observations on spawn and mycelium were drawn from careful fieldwork in the Boston area during the 1870s. His description of finding the white mycelial network of *Coprinus comatus* (the shaggy mane) running through soil being excavated opposite the Brunswick Hotel provides one of the clearest contemporary accounts of mycelial structure visible to the naked eye. Palmer"s work bridges the gap between the purely taxonomic mycology of his era and the practical, ecological understanding of fungi that would develop in the 20th century.
 
 ## Spawn in the Wild vs. Cultivation
 
@@ -94,7 +94,7 @@ Cultivated spawn, by contrast, is a concentrated form of mycelium propagated on 
 
 ## The Cryptogam Problem
 
-The very name "cryptogam" (from Greek *kryptos*, hidden, and *gamos*, marriage) reflects how little was understood about fungal reproduction. The "secret marriages" of these organisms and the means of their propagation were well concealed from science. Palmer's observation that millions of spores deposited on a single plot produced no mushrooms highlights the gap between spore production and successful mycelial establishment — a gap that modern mycology has only partially closed. We now understand that spore germination requires specific conditions of moisture, temperature, nutrients, and often the presence of compatible mating types, but many species remain recalcitrant to laboratory cultivation.
+The very name "cryptogam" (from Greek *kryptos*, hidden, and *gamos*, marriage) reflects how little was understood about fungal reproduction. The "secret marriages" of these organisms and the means of their propagation were well concealed from science. Palmer"s observation that millions of spores deposited on a single plot produced no mushrooms highlights the gap between spore production and successful mycelial establishment — a gap that modern mycology has only partially closed. We now understand that spore germination requires specific conditions of moisture, temperature, nutrients, and often the presence of compatible mating types, but many species remain recalcitrant to laboratory cultivation.
 
 ## Modern Understanding
 

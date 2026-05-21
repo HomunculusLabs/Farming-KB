@@ -36,7 +36,7 @@ Laboratories in Basel, Switzerland, leading to the isolation of ergotamine in
 1918. It rapidly assumed therapeutic importance under the trade name
 **Gynergen** as a haemostatic remedy in obstetrics and for migraine treatment.
 
-After ergotamine's isolation, Sandoz temporarily abandoned ergot research.
+After ergotamine"s isolation, Sandoz temporarily abandoned ergot research.
 Meanwhile, English and American laboratories advanced structural studies and
 discovered new water-soluble alkaloids from ergotamine production mother liquor.
 This competition prompted **[[claviceps-purpurea]]* is an ascomycete fungus growing parasitically on rye and
@@ -49,12 +49,12 @@ sclerotia ("spurs") replacing normal grains. The fungus has two [[psilocybin-pha
 
 ## Ergotism: The Dark History
 
-Ergotamine and related alkaloids caused **ergotism**, one of history's most
+Ergotamine and related alkaloids caused **ergotism**, one of history"s most
 devastating mass poisonings. Appearing in the early Middle Ages, it manifested
 in two forms:
 
 - **Ergotismus gangraenosus** (gangrenous) — causing limb necrosis; known as
-  "St. Anthony's Fire" after the patron saint of victims
+  "St. Anthony"s Fire" after the patron saint of victims
 - **Ergotismus convulsivus** (convulsive) — seizures, hallucinations, mania
 
 Whole European districts were periodically poisoned when fungus-infected rye

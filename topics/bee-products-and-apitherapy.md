@@ -14,7 +14,7 @@ sources:
 
 ## Introduction
 
-Apitherapy is the medicinal use of honey bee (*Apis mellifera*) products — honey, propolis, royal jelly, bee pollen, beeswax, bee venom, and bee bread. The practice spans millennia, with documented use in ancient Egypt (papyrus Ebers, ~1550 BCE), Greek medicine (Hippocrates prescribed honey for wound care), traditional Chinese medicine, and Ayurveda. Modern research has begun to validate many traditional claims, identifying specific [[bee-product-medicinal-uses]]'s composition, evidence-based therapeutic applications, safety considerations, and sourcing guidance.
+Apitherapy is the medicinal use of honey bee (*Apis mellifera*) products — honey, propolis, royal jelly, bee pollen, beeswax, bee venom, and bee bread. The practice spans millennia, with documented use in ancient Egypt (papyrus Ebers, ~1550 BCE), Greek medicine (Hippocrates prescribed honey for wound care), traditional Chinese medicine, and Ayurveda. Modern research has begun to validate many traditional claims, identifying specific [[bee-product-medicinal-uses]]"s composition, evidence-based therapeutic applications, safety considerations, and sourcing guidance.
 
 ## Honey
 

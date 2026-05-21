@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-The use of ayahuasca (*Banisteriopsis caapi* and related species) as a healing tool in the urban setting of Iquitos, Peru, represents one of the most extensively documented cases of plant hallucinogen use in folk medicine. Marlene Dobkin de Rios's year-long fieldwork (1968–1969) in the Belén slum of Iquitos revealed a sophisticated system in which cultural beliefs, expectations, and values fundamentally structure the hallucinogenic experience and its therapeutic outcomes. Unlike clinical psychedelic therapy in Western settings, ayahuasca healing operates within a magical framework where the drug serves primarily diagnostic and revelatory purposes rather than as a direct curative agent.
+The use of ayahuasca (*Banisteriopsis caapi* and related species) as a healing tool in the urban setting of Iquitos, Peru, represents one of the most extensively documented cases of plant hallucinogen use in folk medicine. Marlene Dobkin de Rios"s year-long fieldwork (1968–1969) in the Belén slum of Iquitos revealed a sophisticated system in which cultural beliefs, expectations, and values fundamentally structure the hallucinogenic experience and its therapeutic outcomes. Unlike clinical psychedelic therapy in Western settings, ayahuasca healing operates within a magical framework where the drug serves primarily diagnostic and revelatory purposes rather than as a direct curative agent.
 
 ## The Ayahuasca Brew
 
@@ -36,7 +36,7 @@ Healing sessions always occur at **night** in forest clearings at the edge of ur
 Healers employ a rich repertoire of techniques alongside the ayahuasca:
 
 - **Quechua drug songs** and **whistling incantations** throughout the ceremony
-- **Cigarette smoke blowing** (*soplada*) over the patient's body
+- **Cigarette smoke blowing** (*soplada*) over the patient"s body
 - **Sucking** at afflicted body regions to extract harmful objects
 - **Counseling and ritual exorcism** during the session
 - **Dietary proscriptions**: No salt, lard, or sweets for at least 24 hours before and after — to propitiate the vine's jealous guardian spirit
@@ -76,7 +76,7 @@ The central question in disease is not "how?" but **"why me?"** — the concern 
 - **Susto**: Profound metabolic alteration or nervous disorder caused by loss of the soul following an intense psychic trauma of fear. Includes lack of appetite and energy.
 - **Daño**: Caused by envy (*envidia*) or vengeance (*despecho*). Manifests as hemorrhaging, muscular pain, loss of consciousness, tumors, or consistent bad luck (*saladera*). Believed to be caused by potions slipped into drinks or thrown across doorsteps.
 - **Pulsario**: Marked by restlessness, hyperactivity, and free-floating anxiety. Described as a painful ball at the mouth of the stomach preventing normal digestion. Primarily affects women and may represent repressed pain, sorrow, or anger.
-- **Mal de ojo** (evil eye): Caused by the magical action of one person's glance, often motivated by envy. Common among children whose attractiveness attracts notice.
+- **Mal de ojo** (evil eye): Caused by the magical action of one person"s glance, often motivated by envy. Common among children whose attractiveness attracts notice.
 
 ## Mechanisms of Healing
 

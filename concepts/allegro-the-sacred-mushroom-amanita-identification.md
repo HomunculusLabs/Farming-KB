@@ -32,7 +32,7 @@ Allegro notes that the effects vary dramatically depending on preparation, dosag
 
 ## The Soma Question
 
-Allegro connects the Amanita muscaria to the Vedic Soma — the divine substance pressed and consumed in the Rig Veda's hymns. The Soma debate has a long history: R. Gordon Wasson proposed Amanita muscaria as Soma in 1968; Allegro independently reached the same conclusion from Near Eastern evidence.
+Allegro connects the Amanita muscaria to the Vedic Soma — the divine substance pressed and consumed in the Rig Veda"s hymns. The Soma debate has a long history: R. Gordon Wasson proposed Amanita muscaria as Soma in 1968; Allegro independently reached the same conclusion from Near Eastern evidence.
 
 The parallels between Soma worship and the Christian Eucharist are striking: both involve pressing/filtering a sacred substance, both are described as the "body" or "blood" of a deity, both produce divine intoxication, and both are central to their respective religious traditions. Allegro argues that Soma, the Christian Eucharist, and the Greek Dionysiac rites all derive from a common origin in the ancient mushroom fertility cult.
 
@@ -40,7 +40,7 @@ The parallels between Soma worship and the Christian Eucharist are striking: bot
 
 Allegro cites numerous artistic representations that he interprets as mushroom imagery: ancient Near Eastern seals showing mushroom-like objects being held by deities, Minoan "pillar" shrines that resemble mushroom stems, and Christian frescoes in which halos, crosses, and other symbols appear in mushroom-like configurations.
 
-The Christmas tree, with its red-and-white decorations, is, Allegro argues, a surviving mushroom-cult symbol: the evergreen is the birch or pine beneath which the Amanita grows; the red ornaments are the mushroom's cap; the star on top is the divine presence that causes the mushroom to fruit.
+The Christmas tree, with its red-and-white decorations, is, Allegro argues, a surviving mushroom-cult symbol: the evergreen is the birch or pine beneath which the Amanita grows; the red ornaments are the mushroom"s cap; the star on top is the divine presence that causes the mushroom to fruit.
 
 ## Preparation and Storage
 

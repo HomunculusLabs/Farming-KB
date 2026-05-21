@@ -26,7 +26,7 @@ Yields of the final step range from approximately 3.9 g (with H₂SO₄ catalysi
 | **Duration** | 8-12 hours |
 | **Onset** | 30-90 minutes |
 
-The dosage range of 10-25 mg is notably broad, and Shulgin deliberately kept it so because of the compound's steep dose-response curve. At 10 mg, rich +++ (strong psychedelic) experiences have been reported, while a 30 mg trial was described as "very frightening."
+The dosage range of 10-25 mg is notably broad, and Shulgin deliberately kept it so because of the compound"s steep dose-response curve. At 10 mg, rich +++ (strong psychedelic) experiences have been reported, while a 30 mg trial was described as "very frightening."
 
 ## Qualitative Effects
 
@@ -63,12 +63,12 @@ The amphetamine homologue DOET (4-ethyl-2,5-dimethoxyamphetamine) is both longer
 ### Receptor Activity
 
 While formal [[optical-isomers-psychedelic-phenethylamines]], set, setting, and mental state are critical determinants of experience quality
-- Shulgin's safety principle of self-experimentation applies: know the substance, start low, and never exceed tested ranges
+- Shulgin"s safety principle of self-experimentation applies: know the substance, start low, and never exceed tested ranges
 - The long-acting homologue 2CE-5ETO carries additional risks due to its extreme duration, requiring multiple days of recovery time
 
 ## Historical Significance
 
-2C-E is described by Shulgin as "one of the magical half-dozen" phenethylamines — placing it alongside mescaline, 2C-B, and 2C-T-2 in the highest tier of the 2C family. Despite this ranking, Shulgin noted that several people said "I don't think I like it, since it isn't that much fun. But I intend to explore it again," suggesting that 2C-E rewards patient, intentional exploration rather than casual recreational use. The full character of 2C-E, Shulgin wrote, "will be understood" in the future — but for the moment it stands as "a difficult and worthwhile material. A very much worthwhile material."
+2C-E is described by Shulgin as "one of the magical half-dozen" phenethylamines — placing it alongside mescaline, 2C-B, and 2C-T-2 in the highest tier of the 2C family. Despite this ranking, Shulgin noted that several people said "I don"t think I like it, since it isn't that much fun. But I intend to explore it again," suggesting that 2C-E rewards patient, intentional exploration rather than casual recreational use. The full character of 2C-E, Shulgin wrote, "will be understood" in the future — but for the moment it stands as "a difficult and worthwhile material. A very much worthwhile material."
 
 ## Legal Status
 

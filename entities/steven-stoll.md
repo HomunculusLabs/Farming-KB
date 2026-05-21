@@ -8,7 +8,7 @@ tags: [person, historian, soil-science, agriculture]
 ## Steven Stoll
 
 ## Description
-Steven Stoll is an American historian and author whose 2002 book *Larding the Lean Earth* examines the history of soil management and agricultural improvement in 19th-century America. Eliot Coleman quotes Stoll's evocative phrase "Soil is the tablecloth under the banquet of civilization" as the epigraph for his chapter on Soil Preparation in *The Winter Harvest Handbook*, positioning Stoll's historical perspective as foundational to understanding why soil care matters.
+Steven Stoll is an American historian and author whose 2002 book *Larding the Lean Earth* examines the history of soil management and agricultural improvement in 19th-century America. Eliot Coleman quotes Stoll"s evocative phrase "Soil is the tablecloth under the banquet of civilization" as the epigraph for his chapter on Soil Preparation in *The Winter Harvest Handbook*, positioning Stoll"s historical perspective as foundational to understanding why soil care matters.
 
 ## Classification
 - **Category**: Person / Historian / Author
@@ -47,7 +47,7 @@ Steven Stoll is an American historian and author whose 2002 book *Larding the Le
 ## Relevance to Cultivation and Mycology
 
 ### Soil as Living System
-- Stoll's historical perspective reinforces that soil is not inert substrate but a living system
+- Stoll"s historical perspective reinforces that soil is not inert substrate but a living system
 - This understanding is fundamental to both organic farming and mushroom cultivation
 - The "tablecloth" metaphor implies that what covers and supports life deserves primary attention
 - Mushroom cultivation in particular depends on understanding substrates as living ecosystems

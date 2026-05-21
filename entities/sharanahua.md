@@ -7,7 +7,7 @@ tags: [indigenous-people, amazon, peru, panoan, ayahuasca, shamanism]
 
 ## Description
 
-The Sharanahua are an indigenous people of the Panoan language family living in the upper Amazon rain forest of eastern Peru. Closely related to the [[cashinahua]], the Sharanahua are distinguished by their communal approach to [[ayahuasca]] use in shamanic curing rituals. Anthropologist [[janet-siskind]] studied the Sharanahua to investigate the degree of "consensual validation" in structuring hallucinatory experiences — specifically how communication between shaman and patient during shared hallucinogenic trance shapes the curing process and the patient's belief in having been healed.
+The Sharanahua are an indigenous people of the Panoan language family living in the upper Amazon rain forest of eastern Peru. Closely related to the [[cashinahua]], the Sharanahua are distinguished by their communal approach to [[ayahuasca]] use in shamanic curing rituals. Anthropologist [[janet-siskind]] studied the Sharanahua to investigate the degree of "consensual validation" in structuring hallucinatory experiences — specifically how communication between shaman and patient during shared hallucinogenic trance shapes the curing process and the patient"s belief in having been healed.
 
 ## Classification
 
@@ -20,7 +20,7 @@ The Sharanahua are an indigenous people of the Panoan language family living in 
 
 - The Sharanahua are close linguistic and cultural relatives of the Cashinahua, sharing many features of their hallucinogenic plant traditions including communal ayahuasca consumption.
 - Janet Siskind's research focused on the communication system employed between shaman and patient while both are under the influence of the *Banisteriopsis* drink. This communication — including traditional curing songs — actively shapes the nature of the patient's experience.
-- Siskind addressed a question raised by Carlos Castaneda's work: the degree to which "consensual validation" operates in structuring hallucinatory experiences. Among the Sharanahua, the shaman's guidance during shared trance significantly influences the patient's visionary content and their sense of being cured.
+- Siskind addressed a question raised by Carlos Castaneda's work: the degree to which "consensual validation" operates in structuring hallucinatory experiences. Among the Sharanahua, the shaman"s guidance during shared trance significantly influences the patient's visionary content and their sense of being cured.
 - The Sharanahua model of curing emphasizes social reintegration: the patient is healed not merely through supernatural intervention but through being reintegrated into the kin-oriented community via the group ayahuasca session guided by the shaman.
 - Like the Cashinahua, the Sharanahua participate together in the hallucinogenic experience and share revelatory content that holds portents for the common good of the group — contrasting with the individualistic Jivaro approach.
 - The Sharanahua demonstrate the importance of cultural factors (such as traditional curing songs and the shaman-patient communication system) in determining the nature and therapeutic effectiveness of hallucinogenic experiences.

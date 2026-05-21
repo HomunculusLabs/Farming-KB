@@ -10,7 +10,7 @@ Zone Two in [[permaculture-design]] represents the second concentric ring outwar
 
 ## Overview of Zone Two
 
-Zone Two serves as the transition between the intensively managed domestic zone (Zone One) and the broader farm-scale production areas (Zones Three through Five). While it requires regular attention, its systems are designed to be productive without daily oversight. The key characteristic of Zone Two is its role as the site's primary food-producing layer, housing elements that yield substantial harvests with moderate maintenance inputs.
+Zone Two serves as the transition between the intensively managed domestic zone (Zone One) and the broader farm-scale production areas (Zones Three through Five). While it requires regular attention, its systems are designed to be productive without daily oversight. The key characteristic of Zone Two is its role as the site"s primary food-producing layer, housing elements that yield substantial harvests with moderate maintenance inputs.
 
 Mollison describes Zone Two as the area where "you still go fairly often" but not with the daily regularity demanded by herbs, salad greens, and other Zone One staples. The placement of Zone Two systems adjacent to Zone One allows for efficient movement of materials, nutrients, and attention between the two zones.
 

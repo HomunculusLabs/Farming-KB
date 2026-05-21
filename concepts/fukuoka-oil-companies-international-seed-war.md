@@ -11,7 +11,7 @@ created: 2026-04-28
 
 ## Oil Companies and the International Seed War
 
-Fukuoka exposes the geopolitical struggle over control of the world's
+Fukuoka exposes the geopolitical struggle over control of the world"s
 seed supply, warning that five American oil companies have moved into
 bioindustry to consolidate control over cereal grain seeds and
 superior livestock lines. His personal experience developing the
@@ -20,15 +20,15 @@ this vortex of international seed politics.
 
 ## The Oil Company Takeover
 
-Fukuoka states bluntly: "Control over America's seeds today lies
+Fukuoka states bluntly: "Control over America"s seeds today lies
 squarely in the hands of five oil companies." The moment these
 companies consolidate control over cereal grain seeds and superior
-livestock lines, "America's farmers will be done for." The defeated
+livestock lines, "America"s farmers will be done for." The defeated
 farmers will have no choice but to become pawns of agribusiness.
 The seed war, Fukuoka warns, started long before most people
 realized it.
 
-## America's Dual Strategy
+## America"s Dual Strategy
 
 Fukuoka frames the seed war within America's broader dual strategy
 of food and weapons. President Reagan boasted that America leads
@@ -37,7 +37,7 @@ the world in [[fukuoka-insects-create-new-rice-varieties]] are crossed, the firs
 yields. However, phenotypes and strains diverge in the second (F2)
 and subsequent generations. This means farmers cannot save their own
 seed and must purchase new F1 seed every year from the [[gourmet-medicinal-mushroom-spawn-grain-production]],
-while the parent lines were tightly held and "wouldn't dream of
+while the parent lines were tightly held and "wouldn"t dream of
 letting it go."
 
 ## Professor Shinjo's Breakthrough

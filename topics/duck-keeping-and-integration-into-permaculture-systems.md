@@ -15,7 +15,6 @@ sources:
   - The Small-Scale Poultry Flock, Harvey Ussery
   - Permaculture: A Designers Manual, bill-mollison
   - USDA Extension: Duck Production and Management (extension.umn.edu)---
----
 ## Duck Keeping and Integration into Permaculture Systems
 
 Ducks are among the most versatile and underappreciated livestock a homesteader or permaculture practitioner can integrate into a diversified farm system. Unlike chickens, ducks thrive in wet environments, forage aggressively for slugs and insects, produce nutrient-rich manure, and can contribute to [[query-how-do-i-integrate-ducks-into-my-permaculture-system]] into permaculture designs for maximum ecological benefit.

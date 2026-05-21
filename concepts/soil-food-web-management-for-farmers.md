@@ -11,7 +11,7 @@ sources:
 
 ## Overview
 
-Dr. Elaine Ingham's soil food web approach focuses on managing the living biology of soil -- bacteria, fungi, protozoa, nematodes, and microarthropods -- to build healthy soils that naturally cycle nutrients, suppress disease, and support productive crops. This practical guide translates soil food web science into farm management decisions. Based on Ingham's *The Field Guide for Actively Aerated Compost Tea (AACT)*.
+Dr. Elaine Ingham"s soil food web approach focuses on managing the living biology of soil -- bacteria, fungi, protozoa, nematodes, and microarthropods -- to build healthy soils that naturally cycle nutrients, suppress disease, and support productive crops. This practical guide translates soil food web science into farm management decisions. Based on Ingham's *The Field Guide for Actively Aerated Compost Tea (AACT)*.
 
 ## The Core Principle
 

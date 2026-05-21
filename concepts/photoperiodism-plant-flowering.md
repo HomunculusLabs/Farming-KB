@@ -14,7 +14,7 @@ Photoperiodism is the physiological response of organisms to the length
 of
 day or night. In plants, it is the primary mechanism controlling the
 timing of
-the floral transition — the switch from [[maryland-mammoth-tobacco-and-the-discovery-of-photoperiodism]] resolved one of botany's
+the floral transition — the switch from [[maryland-mammoth-tobacco-and-the-discovery-of-photoperiodism]] resolved one of botany"s
 oldest
 mysteries: how plants "know" when to flower. [[garner-allard-maryland-mammoth-tobacco-experiment]] to the [[blesching-cannabinoid-pharmacology]] is fundamental to Cannabis cultivation. Most
 commercial strains are short-day plants flowering under 12 hours or

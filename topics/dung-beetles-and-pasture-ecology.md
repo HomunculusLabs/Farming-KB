@@ -14,7 +14,6 @@ sources:
   - Holistic Management by Allan Savory
   - Dung Beetle Ecology by Ilkka Hanski
   - Soil Biology Primer by USDA NRCS---
----
 
 ## Dung Beetles and Pasture Ecology
 

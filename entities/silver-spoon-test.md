@@ -21,7 +21,7 @@ Palmer and his French authority, Dr. F. S. Cordier, both demonstrated that this 
 
 ## Key Facts
 
-- One of the most persistent folk beliefs about mushroom safety, still circulating in Palmer's time and occasionally encountered today
+- One of the most persistent folk beliefs about mushroom safety, still circulating in Palmer"s time and occasionally encountered today
 - Based on the observation that decomposing [[fukuoka-textdoc-composting-critique-futility-prepared-organic-matter]] can tarnish silver through the release of sulphuretted hydrogen gas
 - Dr. Cordier tested the method with *[[agaricus-bulbosus]]* (a deadly poisonous species) and found it never blackened silver or gold
 - Palmer observed that any decomposing mushroom — edible or poisonous — could blacken silver through the release of [[decomposition]] gases
@@ -46,7 +46,7 @@ Palmer and Cordier also debunked several related folk tests:
 - **The bulrush pith test:** Pith supposedly turns black near poisonous mushrooms. Also unconfirmed.
 - **The snail/insect test:** Fungi not attacked by snails or insects supposedly indicate poison. Cordier demonstrated this is unreliable.
 
-## Palmer's Campaign
+## Palmer"s Campaign
 
 Palmer made the debunking of the silver spoon test a recurring theme in his writings. He recounted being asked about the test "daily" and noted that even physicians continued to recommend it. His systematic campaign against this and other folk tests was part of his broader effort to replace superstition with scientific species knowledge as the only reliable path to safe [[mushroom-identification]].
 

@@ -19,9 +19,9 @@ type: concept
 
 ## The Discovery of Natural Sowing
 
-Fukuoka's journey toward natural [[fukuoka-natural-seeding-volunteer-rice-discovery]] seedlings growing in harvested fields from seed that had shattered and remained attached to rice straw. This revealed that "nature 'plants without sowing seed'" — rice plants can reproduce themselves without human intervention in seeding.
+Fukuoka"s journey toward natural [[fukuoka-natural-seeding-volunteer-rice-discovery]] seedlings growing in harvested fields from seed that had shattered and remained attached to rice straw. This revealed that "nature "plants without sowing seed'" — rice plants can reproduce themselves without human intervention in seeding.
 
-This observation was Fukuoka's "first step toward natural rice cropping," but it was insufficient on its own. He learned only that rice seed sown by human hand in autumn does not easily survive the winter, while nature had its own method of ensuring survival.
+This observation was Fukuoka"s "first step toward natural rice cropping," but it was insufficient on its own. He learned only that rice seed sown by human hand in autumn does not easily survive the winter, while nature had its own method of ensuring survival.
 
 ## Why Rice Seed Does Not Overwinter
 

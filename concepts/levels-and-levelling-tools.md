@@ -23,7 +23,7 @@ The hose level is one of the most practical and widely-used levelling tools for 
 - 20 metres (65 feet) or so of clear plastic hose, approximately 10 mm (1/2 inch) diameter
 - 2 corks or stoppers that fit into the ends of the tube, each with a breather hole
 - 2 small cork balls that freely fit inside the tube below the corks (optional)
-- 2 stakes (2 metres or 6.5 feet), marked with centimetres or inches; dressmakers' tapes glued or screwed on serve well
+- 2 stakes (2 metres or 6.5 feet), marked with centimetres or inches; dressmakers" tapes glued or screwed on serve well
 - 4 clamps or tape to connect the hose to the stakes
 
 ### Setup

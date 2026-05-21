@@ -8,7 +8,7 @@ type: entity
 
 ## Description
 
-Thomas Banyacya (1909–1999) was a Hopi elder, spiritual leader, and designated messenger of the Hopi people. He is referenced by Bill Mollison in *Permaculture: A Designers' Manual* in the context of redefining the concept of "nation" beyond political states to include peoples united by common ethics rather than territorial boundaries.
+Thomas Banyacya (1909–1999) was a Hopi elder, spiritual leader, and designated messenger of the Hopi people. He is referenced by Bill Mollison in *Permaculture: A Designers" Manual* in the context of redefining the concept of "nation" beyond political states to include peoples united by common ethics rather than territorial boundaries.
 
 ## Classification
 

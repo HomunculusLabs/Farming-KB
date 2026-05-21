@@ -8,14 +8,14 @@ topics: [mycology, mythology, minoan-civilization, psilocybin, mushroom-symbolis
 
 ## The Myth of Glaukos
 
-Among the most intriguing passages in Terence McKenna's *Food of the Gods* is his analysis of the little-known Greek myth of **Glaukos**, son of King Minos and Pasiphae (the Moon Goddess). McKenna argues that this myth encodes a barely-remembered memory of [[ceremonial-shamanic-use-psychoactive-mushrooms]] as agents of death and rebirth—the ego-death experience followed by psychic renewal. This death-rebirth pattern is one of the most universally reported features of the [[partnership-vs-dominator-societies]]
+Among the most intriguing passages in Terence McKenna"s *Food of the Gods* is his analysis of the little-known Greek myth of **Glaukos**, son of King Minos and Pasiphae (the Moon Goddess). McKenna argues that this myth encodes a barely-remembered memory of [[ceremonial-shamanic-use-psychoactive-mushrooms]] as agents of death and rebirth—the ego-death experience followed by psychic renewal. This death-rebirth pattern is one of the most universally reported features of the [[partnership-vs-dominator-societies]]
 4. **Symbolic decoding**: Treating mythological motifs as encoded references to actual religious practices rather than as purely literary or psychological constructs
 
 Whether one accepts McKenna's specific interpretation, his approach highlights the possibility that ancient myths preserve genuine biological and ecological knowledge in symbolic form—knowledge that becomes increasingly opaque as the [[ayahuasca-pharmacology-and-cultural-context]] that produced it disappears.
 
 ## The Enduring Mystery
 
-McKenna concludes his analysis with characteristic candor: "We may never know with certainty the role that hallucinogenic fungi and plants had in the Minoan world. Much can change over the length of nearly four thousand years." The Glaukos myth stands as a fragmentary record of a religious world that has been almost entirely lost—a world in which a blue-gray child preserved in honey, restored to life by serpent-taught herbal knowledge, carried the memory of humanity's oldest sacramental relationship with psychoactive mushrooms.
+McKenna concludes his analysis with characteristic candor: "We may never know with certainty the role that hallucinogenic fungi and plants had in the Minoan world. Much can change over the length of nearly four thousand years." The Glaukos myth stands as a fragmentary record of a religious world that has been almost entirely lost—a world in which a blue-gray child preserved in honey, restored to life by serpent-taught herbal knowledge, carried the memory of humanity"s oldest sacramental relationship with psychoactive mushrooms.
 
 ## Archaeological Context: Minoan Pillar Worship
 

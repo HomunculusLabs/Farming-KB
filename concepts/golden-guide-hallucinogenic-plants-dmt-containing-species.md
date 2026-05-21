@@ -48,7 +48,7 @@ The guide devotes extensive coverage to **Ayahuasca** (also called caapi, yage, 
 
 **[[chiric-caspi-brunfelsia-south-american-hallucinogen]] genera:
 
-- Several Australian Acacia species are now known to contain DMT (subsequent to the guide's publication)
+- Several Australian Acacia species are now known to contain DMT (subsequent to the guide"s publication)
 - **Mimosa** species in South America may contribute DMT to admixture plants in Ayahuasca preparations
 - The guide notes that many plants with theoretical capacity for producing hallucinations remain insufficiently studied
 

@@ -7,7 +7,7 @@ tags: [technique, season-extension, crop-protection, greenhouse]
 
 ## Overview
 
-Floating row cover is a lightweight, permeable fabric material used in agriculture and horticulture to protect crops from cold temperatures, wind, and pests while allowing light, air, and moisture to pass through. In the context of Eliot Coleman's winter-harvest system at [[four-season-farm]], floating row cover serves as the critical inner layer of protection inside unheated hoop houses, creating a "twice-tempered climate" that enables cold-hardy [[coleman-french-historical-winter-vegetable-production]] through Zone 5 Maine winters.
+Floating row cover is a lightweight, permeable fabric material used in agriculture and horticulture to protect crops from cold temperatures, wind, and pests while allowing light, air, and moisture to pass through. In the context of Eliot Coleman"s winter-harvest system at [[four-season-farm]], floating row cover serves as the critical inner layer of protection inside unheated hoop houses, creating a "twice-tempered climate" that enables cold-hardy [[coleman-french-historical-winter-vegetable-production]] through Zone 5 Maine winters.
 
 ## Physical Description
 

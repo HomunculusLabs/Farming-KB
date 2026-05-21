@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-JADAM places heavy emphasis on green manure crops—plants grown specifically to be incorporated into the soil for fertility building. This concept page examines JADAM's approach to two key green manure species: milk vetch (Chinese milk vetch / *Astragalus sinicus*) and rye, and the principles that guide cover crop selection.
+JADAM places heavy emphasis on green manure crops—plants grown specifically to be incorporated into the soil for fertility building. This concept page examines JADAM"s approach to two key green manure species: milk vetch (Chinese milk vetch / *Astragalus sinicus*) and rye, and the principles that guide cover crop selection.
 
 ## Milk Vetch
 
@@ -42,7 +42,7 @@ Sowing of milk vetch is timed to the regional climate: before September 20-25 in
 
 ### Dismissing Expert Concerns
 
-"Experts' say that because rye has low nitrogen content, when it decomposes it will cause nitrogen suck-in by microorganisms and thereby damage the growth of fruit trees. However, in the fields, such concern is dismissed."
+"Experts" say that because rye has low nitrogen content, when it decomposes it will cause nitrogen suck-in by microorganisms and thereby damage the growth of fruit trees. However, in the fields, such concern is dismissed."
 
 JADAM consistently privileges field observation over theoretical concerns. The nitrogen immobilization predicted by experts does not occur in practice, either because the effect is smaller than predicted or because other factors compensate.
 

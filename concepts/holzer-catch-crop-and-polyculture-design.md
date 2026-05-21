@@ -39,7 +39,7 @@ roots also improve the capacity of the soil to retain water.
 
 A mixture of sweet clover, lucerne, vetch, peas, lupins, sunflowers, and
 different tubers like Jerusalem artichokes and turnips is well suited to
-slope stabilisation. In Holzer's polycultures, the soil and plants are
+slope stabilisation. In Holzer"s polycultures, the soil and plants are
 "working" to a depth of metres and not centimetres.
 
 ## Leaving Green Manure Crops Standing

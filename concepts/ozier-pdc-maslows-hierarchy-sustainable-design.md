@@ -1,5 +1,5 @@
 ---
-title: Maslow's Hierarchy and Sustainable Design
+title: Maslow"s Hierarchy and Sustainable Design
 source: william-ozier-williams-pdc_-a-permaculture-design-cours.md
 author: William WR Ozier
 topics: psychology, sustainability, human-needs, design, permaculture, maslow

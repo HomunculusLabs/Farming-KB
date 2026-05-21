@@ -6,7 +6,7 @@ type: concept
 
 ## Fukuoka: Transcending Time, Space, and the Illusion of Planning
 
-Masanobu Fukuoka's [[hemenway-insectary-plants-and-beneficial-insects]] with a pleasant environment in which to live.
+Masanobu Fukuoka"s [[hemenway-insectary-plants-and-beneficial-insects]] with a pleasant environment in which to live.
 
 When the farmer provides for the whole community of life — not just the crop — the distinction between pest and beneficial insect dissolves. Everything finds its place.
 
@@ -28,7 +28,7 @@ Each specialist sees only the organ. None sees the person. None sees the larger 
 
 > The more highly specialized the research, the further it strays from a broad overall perspective.
 
-Against this, Fukuoka holds up the traditional admonition to "eat in moderation" — simple, undiscriminating advice that applies to all people, in all places, at all times. It works better than the most sophisticated nutritional science precisely because it does not try to account for every variable. It trusts the body's own wisdom.
+Against this, Fukuoka holds up the traditional admonition to "eat in moderation" — simple, undiscriminating advice that applies to all people, in all places, at all times. It works better than the most sophisticated nutritional science precisely because it does not try to account for every variable. It trusts the body"s own wisdom.
 
 > Knowledge that is less discriminating has wider application.
 

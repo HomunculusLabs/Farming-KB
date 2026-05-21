@@ -24,7 +24,7 @@ The Law of Return extends beyond material accounting to aesthetic and spiritual 
 
 ## The First Law of Thermodynamics for Designers
 
-Watt's restatement of the basic law of thermodynamics is a foundational principle for [[permaculture]] designer makes.
+Watt"s restatement of the basic law of thermodynamics is a foundational principle for [[permaculture]] designer makes.
 
 ## Understanding Entropy
 

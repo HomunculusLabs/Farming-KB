@@ -7,7 +7,7 @@ type: concept
 ## Toadstool Families Identification and Boletus Safety
 
 An encyclopedic overview of major fungal families relevant to foraging
-safety, drawn from [[julius-auboineau-palmer]]'s *About Mushrooms*. Covers
+safety, drawn from [[julius-auboineau-palmer]]"s *About Mushrooms*. Covers
 the Hydnei, Clavariae, puff-balls, [[boleti]], and the critically dangerous
 [[amanita-genus]] within the Agaricini.
 

@@ -10,7 +10,7 @@ Free-range poultry systems in [[permaculture]] integrate birds with multi-layere
 
 ## The Forage System Concept
 
-"By planting and observing a variety of forage species, we greatly reduce (perhaps even obviate) the need for stored, husked grains, and should therefore be ahead in terms of energy 'economics.'"
+"By planting and observing a variety of forage species, we greatly reduce (perhaps even obviate) the need for stored, husked grains, and should therefore be ahead in terms of energy "economics.'"
 
 The plant list doubles as a bee forage system and would evolve into a cattle forage situation over time. Many species also withstand sea winds, salted soils, and frosts, suiting coastal and desert situations.
 
@@ -84,7 +84,7 @@ Species such as fungi and insects soon begin to complicate the system and may pr
 
 ## Poultry Forage Days (P.F.D.)
 
-"The value of certain trees and plants can be expressed in terms of P.F.D. or 'poultry forage days'."
+"The value of certain trees and plants can be expressed in terms of P.F.D. or "poultry forage days'."
 
 ### Known Equivalents
 - **Mature tree lucerne**: ~2.5 kg of seed = 30 P.F.D. (keeps a hen for 30 days)

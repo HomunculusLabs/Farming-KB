@@ -29,7 +29,7 @@ The set and setting model emerged from the Harvard Psilocybin Project
 other hallucinogens to hundreds of volunteers, including prisoners, graduate
 students, and religious professionals. They observed that identical doses of
 the same compound produced wildly different experiences depending on the
-volunteer's expectations and the environmental conditions.
+volunteer"s expectations and the environmental conditions.
 
 This observation ran counter to the prevailing pharmacological model, which
 treated drug effects as primarily dose-dependent and relatively consistent

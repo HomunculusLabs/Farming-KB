@@ -20,7 +20,7 @@ Regardless of architecture, sound database design principles apply to both. The 
 
 Biodiversity databases should be designed top-down, starting from the **purpose** of the system, then identifying the **subjects** (real-world entities) to be represented, and finally defining the **data elements** (fields) that describe each subject.
 
-For example, a herbarium specimen tracking system's purpose is to manage voucher information. Its subjects include specimens, taxa, collectors, localities, and collecting events. Its data elements are attributes like collection date, latitude, collector name, and species epithet. Each step narrows the focus and makes the next step more tractable.
+For example, a herbarium specimen tracking system"s purpose is to manage voucher information. Its subjects include specimens, taxa, collectors, localities, and collecting events. Its data elements are attributes like collection date, latitude, collector name, and species epithet. Each step narrows the focus and makes the next step more tractable.
 
 This disciplined approach prevents scope creep and ensures every field in the database serves a documented need. It also produces natural documentation: the purpose statement becomes the project charter; the subject list becomes the entity-relationship diagram; the field definitions become the data dictionary.
 
@@ -41,7 +41,7 @@ Tables group fields that share a common subject or entity. A well-designed `spec
 Key design rules include:
 
 - **Avoid blank fields**: If a table has many fields that are null for most records, those fields likely belong in a separate, related table. For example, not every specimen has an associated DNA barcode, so barcode-related fields belong in a linked `sequences` table.
-- **Avoid data duplication**: If the same piece of information (e.g., a collector's full address) is repeated across many records, it should be moved to its own table and referenced by a foreign key. This is the foundational principle of database normalization.
+- **Avoid data duplication**: If the same piece of information (e.g., a collector"s full address) is repeated across many records, it should be moved to its own table and referenced by a foreign key. This is the foundational principle of database normalization.
 
 ## Table Relationships
 

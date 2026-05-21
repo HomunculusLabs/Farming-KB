@@ -32,7 +32,7 @@ Before any physical preparation begins, Solomon emphasizes understanding what ty
 
 #### Hand Digging (Pages 34-37, 36, 53-56)
 
-Hand digging is Solomon's preferred method for most garden situations:
+Hand digging is Solomon"s preferred method for most garden situations:
 
 - **Double digging**: Removing soil from one trench and using it to fill the next, while loosening the subsoil below. This creates a deep, well-aerated root zone without mechanical compaction.
 - **Single digging**: Inverting the top 8-12 inches with a spade, suitable for already-improved soils.

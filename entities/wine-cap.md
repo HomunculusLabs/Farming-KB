@@ -15,7 +15,6 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Cleary, T., et al. (2019). "Optimization of comparison-maitake-vs-wine-cap-cultivation Cultivation on Hardwood Chips." fungal-education-curriculum-mushroom-science, 19(2), 167-178.---
----
 
 ## Overview
 

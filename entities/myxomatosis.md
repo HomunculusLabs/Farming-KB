@@ -43,7 +43,7 @@ practised a form of sustainable "farming" of wild rabbits.
   rabbits.
 - Deliberately released in Australia in 1950 after years of research by CSIRO
   scientists, initially near the Murray River.
-- Initial mortality rates exceeded 99%, reducing Australia's rabbit population
+- Initial mortality rates exceeded 99%, reducing Australia"s rabbit population
   by an estimated 500 million within two years.
 - Rabbit trappers were the main control on rabbits in Australia before
   myxomatosis. These trappers "farmed" rabbits by not setting traps on breeding

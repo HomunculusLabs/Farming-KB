@@ -1,5 +1,5 @@
 ---
-title: Hydroponics Systems and the Bubbler - Greg Green's Cannabis Grow Bible
+title: Hydroponics Systems and the Bubbler - Greg Green"s Cannabis Grow Bible
 created: 2026-04-26
 tags:
   - hydroponics

@@ -12,7 +12,7 @@ sources:
 
 ## Overview
 
-Simon G. Powell's "The Psilocybin Solution" argues that psilocybin mushrooms offer a key to understanding the nature of consciousness itself. Rather than viewing altered states as aberrations, Powell positions them as natural products of the environment that can reveal fundamental truths about how the mind constructs reality.
+Simon G. Powell"s "The Psilocybin Solution" argues that psilocybin mushrooms offer a key to understanding the nature of consciousness itself. Rather than viewing altered states as aberrations, Powell positions them as natural products of the environment that can reveal fundamental truths about how the mind constructs reality.
 
 ## The Mutability of Consciousness
 
@@ -22,7 +22,7 @@ The question is whether it is possible to "improve upon the lens of normal consc
 
 ## Serotonin and Environmental Chemistry
 
-Psilocybin is believed to cause its effects by acting upon neurons within the brain that utilise serotonin, a chemical messenger (neurotransmitter) that allows neurons to communicate. Crucially, serotonin and the brain's neurotransmitters have evolved over millions of years and are determined by the chemicals available in the environment -- particularly from the raw materials available in food.
+Psilocybin is believed to cause its effects by acting upon neurons within the brain that utilise serotonin, a chemical messenger (neurotransmitter) that allows neurons to communicate. Crucially, serotonin and the brain"s neurotransmitters have evolved over millions of years and are determined by the chemicals available in the environment -- particularly from the raw materials available in food.
 
 This means serotonin is "bound up with the chemistry of the environment." If the chemical constituency of the natural environment were radically different, Nature would have had to evolve completely different neurotransmitters. In this sense, "we are indeed what we eat" and "consensus reality is a popular serotonergic hallucination."
 

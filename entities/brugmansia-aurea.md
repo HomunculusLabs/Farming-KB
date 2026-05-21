@@ -16,7 +16,7 @@ sources:
 
 ## Brugmansia aurea
 
-**Brugmansia aurea** is a species of flowering plant in the family **Solanaceae** (nightshade family), commonly known as **Angel's Trumpet**. It is the most widespread species of Brugmansia in the Andes and has been used as a hallucinogen by indigenous peoples for millennia.
+**Brugmansia aurea** is a species of flowering plant in the family **Solanaceae** (nightshade family), commonly known as **Angel"s Trumpet**. It is the most widespread species of Brugmansia in the Andes and has been used as a hallucinogen by indigenous peoples for millennia.
 
 Closely related to Datura, all Brugmansia species are arborescent (tree-like) in habit and are believed to be ancient cultigens unknown in the truly wild state. They are biologically very complex and appear to have been used as hallucinogens since antiquity.
 
@@ -50,7 +50,7 @@ Brugmansia aurea is native to the Andean highlands of [[ethnobotanical-use-of-sa
 
 The Jivaro people of the upper Amazon used Brugmansia species extensively in shamanic practices. Recalcitrant children were given a drink of B. sanguinea with parched maize; when intoxicated, the children were lectured so that the spirits of the ancestors might admonish them.
 
-This practice served as a form of spiritual discipline within Jivaro culture, reflecting the Andean belief that [[brugmansia-sanguinea]] by the name **Huaca** or **Huacachaca**, meaning "plant of the tomb." This name reflects the plant's deep association with death, spirits, and the ancestral world in Andean cosmology.
+This practice served as a form of spiritual discipline within Jivaro culture, reflecting the Andean belief that [[brugmansia-sanguinea]] by the name **Huaca** or **Huacachaca**, meaning "plant of the tomb." This name reflects the plant"s deep association with death, spirits, and the ancestral world in Andean cosmology.
 
 The term "huaca" in Quechua refers broadly to sacred objects, places, or beings of spiritual significance.
 

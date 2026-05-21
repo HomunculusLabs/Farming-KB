@@ -13,10 +13,10 @@ type: concept
 The concepts of the "vegetable mind" and "Gaian holism" represent
 [[mckenna-food-gods-minoan-crete-mushroom-religion]]
 through classical Greece. The consequence of this severed connection is,
-in McKenna's view, "the modern world, a planet dying under moral
+in McKenna"s view, "the modern world, a planet dying under moral
 anesthesia." He bases this historical argument on observation of Amazon
 shamans and on the impact of plant hallucinogens on his own psychology
-and that of his peers, noting that the strength of a group's connection
+and that of his peers, noting that the strength of a group"s connection
 to the Goddess archetype correlates with access to boundary-dissolving
 plant hallucinogens.
 
@@ -44,7 +44,7 @@ emergence of consciousness: the plant-human quasi-symbiotic relationship
 that characterized archaic society. This return means trading the point
 of view of the egoistic dominator for the "intuitional, feeling-toned
 understanding of the maternal matrix." The implication is that
-understanding planetary purpose may be humanity's major contribution to
+understanding planetary purpose may be humanity"s major contribution to
 the evolutionary process, achievable only through renewed partnership
 with the plant kingdom.
 

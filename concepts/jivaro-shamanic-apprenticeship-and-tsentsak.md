@@ -28,7 +28,7 @@ The newly initiated shaman must observe strict behavioral prohibitions following
 - Complete inactivity and rest are required during the initial recovery period
 - Failure to maintain self-discipline results in the novice becoming an unsuccessful shaman
 
-At the end of the first month, the tsentsak emerges from the novice's mouth. At this critical juncture, the new shaman experiences what is described as a tremendous desire to bewitch — an overwhelming urge to use the magical dart to cause harm. The outcome at this point determines the kind of shaman the novice will become:
+At the end of the first month, the tsentsak emerges from the novice"s mouth. At this critical juncture, the new shaman experiences what is described as a tremendous desire to bewitch — an overwhelming urge to use the magical dart to cause harm. The outcome at this point determines the kind of shaman the novice will become:
 
 - If he **casts the tsentsak** to fulfill the desire to bewitch, he becomes a **bewitching shaman** (sorcerer)
 - If he **reswallows the tsentsak**, controlling the impulse, he becomes a **curing shaman**
@@ -62,7 +62,7 @@ A central concept in [[harner-jivaro-shamanism-yage]] is that each tsentsak poss
 
 This duality is foundational to Jivaro cosmology. The supernatural aspect is considered the "true" nature of the tsentsak. What appears to be a simple material object in everyday reality is, in the hallucinogen-enhanced perception, a living spiritual entity with agency and power.
 
-## The Bewitcher's Test
+## The Bewitcher"s Test
 
 Approximately five years after receiving his initial tsentsak, a bewitching shaman undergoes a critical test of his continuing power. Under the influence of natem, he attempts to throw a tsentsak through a living tree at the precise point where its two main branches join. If his strength and aim are sufficient, the tree visibly splits at the moment the dart enters it — though this splitting is only perceptible to others who are also under the influence of the hallucinogen.
 
@@ -80,7 +80,7 @@ Once he successfully acquires new tsentsak, he can reduce his consumption of the
 
 The Jivaro shamanic system is inseparable from the use of [[cultural-evolution-and-psychoactive-substances]], particularly natem (ayahuasca). Harner describes natem as "the chemical door to the otherwise invisible world of the Jivaro shaman." Without it, the supernatural aspects of tsentsak remain completely inaccessible. The entire practice of shamanism — diagnosis, curing, bewitching, defense, and the maintenance of power — depends on the [[trans-cultural-hallucinogenic-experience-biochemical-reinforcement]] induced by the brew.
 
-Tobacco juice, while not truly hallucinogenic, produces a narcotized state that is believed necessary to keep one's tsentsak "fed" and alert, ready to repel hostile magical darts. Shamans consume tobacco juice at all hours of the day and night, and never leave home without carrying green tobacco leaves for its preparation.
+Tobacco juice, while not truly hallucinogenic, produces a narcotized state that is believed necessary to keep one"s tsentsak "fed" and alert, ready to repel hostile magical darts. Shamans consume tobacco juice at all hours of the day and night, and never leave home without carrying green tobacco leaves for its preparation.
 
 ## Social Dynamics of Shamanic Power
 

@@ -20,13 +20,13 @@ Cannabinoid receptors are found throughout the brain and peripheral tissues. CB1
 
 Endogenous opioids (endorphins and enkephalins) are associated with pain relief and the positive feelings that follow the cessation of pain. The phrase "It feels so good when the pain stops" captures their function — they mark the transition from suffering to relief and reinforce behaviors that promote well-being.
 
-GABA (gamma-aminobutyric acid) is the brain's primary inhibitory neurotransmitter, producing feelings of calm and relaxation. GABA activation counteracts the excitatory effects of stress hormones and promotes the parasympathetic "rest and digest" state essential for healing. "I am melting" describes the experience of muscular and mental relaxation that GABA facilitates.
+GABA (gamma-aminobutyric acid) is the brain"s primary inhibitory neurotransmitter, producing feelings of calm and relaxation. GABA activation counteracts the excitatory effects of stress hormones and promotes the parasympathetic "rest and digest" state essential for healing. "I am melting" describes the experience of muscular and mental relaxation that GABA facilitates.
 
 Oxytocin, sometimes called the "bonding hormone" or "love molecule," is associated with social connection, trust, empathy, and nurturing behavior. Released during physical touch, social bonding, and positive social interactions, oxytocin promotes feelings of safety and belonging that support the emotional conditions for healing.
 
 [[mycelial-metabolite-excretion-stress-response-grain-jar-cultivation-guide]].
 
-Epinephrine (adrenaline) is the primary hormone of the acute stress response, producing the feeling of "I am scared." It mobilizes the body's resources for immediate action, increasing heart rate, blood pressure, and energy availability while redirecting blood away from digestive and immune functions.
+Epinephrine (adrenaline) is the primary hormone of the acute stress response, producing the feeling of "I am scared." It mobilizes the body"s resources for immediate action, increasing heart rate, blood pressure, and energy availability while redirecting blood away from digestive and immune functions.
 
 Dopamine is associated with motivation, reward-seeking, and goal-directed behavior. While essential for healthy functioning, excessive or dysregulated dopamine signaling can drive compulsive behaviors, addiction, and restless dissatisfaction. "I am motivated" captures its positive function, but the constricting side appears when motivation becomes driven by craving rather than genuine purpose.
 
@@ -34,13 +34,13 @@ Norepinephrine promotes vigilance, alertness, and focused attention — "I am at
 
 Cortisol is the primary stress hormone of the HPA (hypothalamic-pituitary-adrenal) axis. "I am stressed" captures its emotional signature. Chronic cortisol elevation — produced by sustained psychological stress — suppresses immune function, impairs memory, promotes abdominal fat storage, and contributes to numerous chronic diseases.
 
-Glutamate is the brain's primary excitatory neurotransmitter, essential for learning and neural plasticity. "I am excited" reflects its activating function. However, excessive glutamate release can be neurotoxic, contributing to anxiety, seizures, and neurodegenerative conditions when regulatory mechanisms fail.
+Glutamate is the brain"s primary excitatory neurotransmitter, essential for learning and neural plasticity. "I am excited" reflects its activating function. However, excessive glutamate release can be neurotoxic, contributing to anxiety, seizures, and neurodegenerative conditions when regulatory mechanisms fail.
 
 Vasopressin is associated with aggression, territoriality, and defensive social behavior. "I am aggressive" captures its emotional signature in excess. While important for social hierarchy maintenance and protective behavior, elevated vasopressin can promote hostility and social conflict that undermine the cooperative relationships essential for healing.
 
 ## Building and Balancing Chi
 
-The mind-body medicine framework in the Cannabis Health Index draws on the concept of "chi" (or *qi* in Chinese medicine) as a metaphor for the balanced flow of vital energy through the body's systems. Modern neuroscience, particularly the study of the endocannabinoid system, provides a biological basis for this ancient concept.
+The mind-body medicine framework in the Cannabis Health Index draws on the concept of "chi" (or *qi* in Chinese medicine) as a metaphor for the balanced flow of vital energy through the body"s systems. Modern neuroscience, particularly the study of the endocannabinoid system, provides a biological basis for this ancient concept.
 
 The balance between expansive and constricting emotional molecules mirrors the traditional Chinese medicine concept of balancing yin (cooling, calming, receptive) and yang (heating, activating, forceful) energies. When expansive molecules predominate, the body is in a healing state characterized by relaxation, immune competence, and emotional openness. When constricting molecules predominate chronically, the body enters a defensive state that suppresses healing and promotes disease.
 
@@ -54,7 +54,7 @@ Scientific research increasingly supports the connection between mind-body pract
 
 Meditation has been shown to increase circulating levels of anandamide. Regular meditation practitioners exhibit altered endocannabinoid signaling patterns compared to non-practitioners, suggesting that the practice produces lasting neurochemical changes that extend beyond the meditation session itself.
 
-Exercise robustly increases anandamide levels, producing the phenomenon commonly known as "runner's high." This effect is mediated through CB1 receptor activation and is blocked by cannabinoid antagonists, confirming that the endocannabinoid system — rather than the endorphin system alone — is responsible for the mood-elevating effects of aerobic exercise.
+Exercise robustly increases anandamide levels, producing the phenomenon commonly known as "runner"s high." This effect is mediated through CB1 receptor activation and is blocked by cannabinoid antagonists, confirming that the endocannabinoid system — rather than the endorphin system alone — is responsible for the mood-elevating effects of aerobic exercise.
 
 Social bonding and positive social interactions increase oxytocin release, which in turn modulates endocannabinoid signaling in brain regions associated with reward and social behavior. The interplay between oxytocin and the endocannabinoid system provides a biological basis for the healing power of social support and community connection.
 

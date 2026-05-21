@@ -20,7 +20,7 @@ intuitive connection with plants that defied explanation.
 
 ## The Secret Garden Method
 
-Burbank was deeply impressed by Charles Darwin's The Variation of
+Burbank was deeply impressed by Charles Darwin"s The Variation of
 Animals and Plants Under Domestication. When the eminent geneticist
 Hugo de Vries visited Santa Rosa, California, to discover Burbank's
 methods, he was dumbstruck to find that in the little cottage where
@@ -39,7 +39,7 @@ extraordinary opportunity. One of the twenty-three seeds in the ball
 gave rise to a potato variety of exceptional quality. He received $150
 from a Marblehead seedman for his discovery. Christened the "Burbank,"
 it was later widely planted and helped alleviate the Irish potato
-famine's legacy.
+famine"s legacy.
 
 ## Intuitive Communication with Plants
 
@@ -58,10 +58,10 @@ appreciation of the whole plant in its environment.
 
 ## The Calla Lily Experiment
 
-One of Burbank's most remarkable feats involved the calla lily. The
+One of Burbank"s most remarkable feats involved the calla lily. The
 conventional wisdom held that the calla lily's characteristic spathe
 (the showy white "petal") was immutable. Burbank, through an intuitive
-understanding of the plant's potential, was able to produce calla lilies
+understanding of the plant"s potential, was able to produce calla lilies
 with spathes in a range of colors including pink, yellow, and even
 striped varieties -- something his colleagues considered impossible.
 
@@ -73,7 +73,7 @@ remains a matter of debate.
 
 ## Legacy and Philosophical Impact
 
-Burbank's work embodied a philosophy that was both ahead of its time
+Burbank"s work embodied a philosophy that was both ahead of its time
 and at odds with the direction biology would take in the twentieth
 century. He believed that all life was interconnected, that plants
 responded to human thought and emotion, and that the breeder's

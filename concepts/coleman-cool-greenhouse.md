@@ -15,7 +15,7 @@ updated: 2026-04-26
 
 ## The Cool Greenhouse
 
-Eliot Coleman's "cool greenhouse" concept represents a middle ground
+Eliot Coleman"s "cool greenhouse" concept represents a middle ground
 between fully unheated cold houses and traditional heated greenhouses.
 The cool greenhouse is maintained at a just-above-freezing nighttime
 temperature, providing enough heat to expand the range and number of

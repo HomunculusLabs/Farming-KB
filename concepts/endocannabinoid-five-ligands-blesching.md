@@ -22,7 +22,7 @@ Anandamide, often called the **"[[endocannabinoid-autonomic-nervous-system-balan
 2-AG is the most abundant endocannabinoid in the body and plays critical roles in:
 
 - **[[blesching-thc-heart-protective-mechanisms-myocardial-protection]] of the ECS in neural tissue
-- **Pain modulation**: Involved in the body's endogenous pain control pathways
+- **Pain modulation**: Involved in the body"s endogenous pain control pathways
 - **Discovery**: Isolated and characterized after anandamide and 2-AG
 - **Structural similarity**: Related to 2-AG but contains an ether linkage instead of an ester bond, which affects its metabolic stability
 
@@ -42,7 +42,7 @@ The antagonistic property of virodhamine at CB1 receptors suggests the body has 
 - **CB1 affinity**: Activates CB1 receptors, linking cannabinoid signaling with dopamine-related pathways
 - **Pain perception**: Modulates pain through both cannabinoid and vanilloid receptor systems
 - **Neuroinflammation**: Involved in regulating inflammatory responses in neural tissue
-- **Reward pathway connection**: By combining arachidonic acid (a cannabinoid precursor) with dopamine, NADA represents a biochemical bridge between the ECS and the brain's reward/motivation circuitry
+- **Reward pathway connection**: By combining arachidonic acid (a cannabinoid precursor) with dopamine, NADA represents a biochemical bridge between the ECS and the brain"s reward/motivation circuitry
 
 NADA is particularly significant because it demonstrates the interconnected nature of the endocannabinoid system with other neurotransmitter systems, particularly those governing motivation, pleasure, and pain perception.
 

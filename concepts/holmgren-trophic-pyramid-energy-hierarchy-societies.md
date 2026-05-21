@@ -1,5 +1,5 @@
 ---
-title: Holmgren's Trophic Pyramid Model of Energy Hierarchy in Societies
+title: Holmgren"s Trophic Pyramid Model of Energy Hierarchy in Societies
 source: "Permaculture: Principles & Pathways Beyond Sustainability"
 ---
 author: David Holmgren
@@ -14,7 +14,7 @@ topic_tags:
   - social-organization
   - sustainability
 summary: >
-  David Holmgren's adaptation of H.T. Odum's systems ecology to model how
+  David Holmgren"s adaptation of H.T. Odum's systems ecology to model how
   energy flows through societies via trophic pyramid structures, explaining
   why pre-industrial societies had broad producer bases while modern fossil-fuel
   societies exhibit inverted pyramids, and what this means for permaculture
@@ -86,7 +86,7 @@ narratives always reflect underlying energy realities.
 
 ## The Maximum Power Principle
 
-Odum's maximum power principle states that self-organizing systems develop
+Odum"s maximum power principle states that self-organizing systems develop
 configurations maximizing useful energy throughput — not maximum efficiency.
 Systems that are too efficient may not be resilient. Industrial societies
 have been successful at maximizing power through fossil fuels, but this is

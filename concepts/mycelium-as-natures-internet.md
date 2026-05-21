@@ -1,5 +1,5 @@
 ---
-title: Mycelium as Nature's Internet and Ecological Network
+title: Mycelium as Nature"s Internet and Ecological Network
 tags:
   - mycology
   - mycelium

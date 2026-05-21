@@ -14,7 +14,7 @@ tags: [history]
 
 ## Robert Gordon Wasson (1898-1986)
 
-Robert Gordon Wasson was born on 22 September 1898, the son of an Episcopalian minister. After serving in the First World War, he graduated from Harvard with a bachelor's in literature and began his career as a journalist, eventually crossing into banking at J. P. Morgan & Co., where he was vice-president from 1943 until his retirement twenty years later. "On paper there could not have been a more unlikely person than this upright and buttoned-up Wall Street banker to investigate and popularise the [[weil-cultural-attitudes-toward-altered-states]] towards mushrooms.
+Robert Gordon Wasson was born on 22 September 1898, the son of an Episcopalian minister. After serving in the First World War, he graduated from Harvard with a bachelor"s in literature and began his career as a journalist, eventually crossing into banking at J. P. Morgan & Co., where he was vice-president from 1943 until his retirement twenty years later. "On paper there could not have been a more unlikely person than this upright and buttoned-up Wall Street banker to investigate and popularise the [[weil-cultural-attitudes-toward-altered-states]] towards mushrooms.
 
 ## The Quest for the Living Cult
 

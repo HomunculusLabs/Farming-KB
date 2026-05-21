@@ -22,7 +22,7 @@ tags:
 In his [[human-eye-plant-photoreceptor-comparative-analysis]] of psychoactive-assisted [[blesching-cannabis-healing-practices-setting-intention-affirmations]],
 [[ralph-metzner]] identifies three features that reliably distinguish traditional
 shamanic [[shamanic-vs-western-psychedelic-healing]]
-psychotherapy session: darkness or low light, the shaman's singing, and the
+psychotherapy session: darkness or low light, the shaman"s singing, and the
 near-total silence among participants. These are not incidental cultural
 decorations but functional components of a carefully refined technology of
 consciousness developed over millennia of indigenous practice.
@@ -39,7 +39,7 @@ Traditional shamanic ceremonies are "almost always done in darkness or low
 light — which facilitates the emergence of visions." The suppression of
 external visual stimuli allows the internally generated imagery of the
 entheogenic state to become the dominant perceptual field. In darkness, the
-mind's eye becomes the only eye, and the visions that arise become the
+mind"s eye becomes the only eye, and the visions that arise become the
 primary experiential content.
 
 The [[harner-amazonian-ayahuasca-preparation-methods]] ceremonies similarly take place in
@@ -55,7 +55,7 @@ richness.
 
 ## Singing: The Shaman's Acoustic Architecture
 
-The second distinctive feature is that "singing, or the shaman's singing,
+The second distinctive feature is that "singing, or the shaman"s singing,
 is invariably considered essential to the success of the healing or
 divinatory process." This assigns the shaman not the role of interpreter or
 analyst — as a Western therapist might occupy — but the role of acoustic

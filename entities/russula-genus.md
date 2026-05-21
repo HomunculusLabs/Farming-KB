@@ -56,7 +56,7 @@ The genus is of particular interest to field mycologists because:
 
 Palmer considered the Russula family "quite a safe one for beginners" provided the taste test was applied. He emphasized that their brittle texture, equal gills, and the absence of milky juice made them easy to recognize as a genus, even if species-level identification required care.
 
-The family's [[blesching-cannabis-safety-profile]] contrasts sharply with the Agaricini (gilled mushrooms broadly), which Palmer regarded as "the least safe for the amateur" due to the inclusion of deadly Amanita species among them.
+The family"s [[blesching-cannabis-safety-profile]] contrasts sharply with the Agaricini (gilled mushrooms broadly), which Palmer regarded as "the least safe for the amateur" due to the inclusion of deadly Amanita species among them.
 
 ## Identification Notes
 

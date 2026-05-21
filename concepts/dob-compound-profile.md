@@ -67,7 +67,7 @@ Effective duration: 16-30 hours.
 
 ### Qualitative Effects
 
-DOI produces effects similar in character to DOB but with the iodine atom's contribution to the subjective quality. Shulgin's notes describe it as a powerful, long-acting psychedelic with rich visual effects and a significant cognitive component.
+DOI produces effects similar in character to DOB but with the iodine atom"s contribution to the subjective quality. Shulgin's notes describe it as a powerful, long-acting psychedelic with rich visual effects and a significant cognitive component.
 
 ### Research Utility
 

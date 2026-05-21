@@ -19,7 +19,7 @@ The cannabis-chemdawg-origin-story-lineage, as told in the volume: the original 
 
 ### Original Diesel (the parent)
 
-The Original oner-diesel-strain-lineage (also known as Diesel #1, UnderDawg, or Daywrecker depending on the source) is a Chemdawg offspring that carries genetics from Chemdawg, MassSuperSkunk, Sensi [[cannabis-strain-mango-haze-northern-lights-skunk-haze]], and a Hawaiian Sativa. DNL is described as "a fairly legendary strain that people don't know a lot about" but whose best traits are clearly visible in Sour Diesel progeny. The combination of Original Diesel × DNL created the Sour Diesel genetic template.
+The Original oner-diesel-strain-lineage (also known as Diesel #1, UnderDawg, or Daywrecker depending on the source) is a Chemdawg offspring that carries genetics from Chemdawg, MassSuperSkunk, Sensi [[cannabis-strain-mango-haze-northern-lights-skunk-haze]], and a Hawaiian Sativa. DNL is described as "a fairly legendary strain that people don"t know a lot about" but whose best traits are clearly visible in Sour Diesel progeny. The combination of Original Diesel × DNL created the Sour Diesel genetic template.
 
 ## Sour Diesel Varieties in the Volume
 

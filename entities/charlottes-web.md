@@ -1,5 +1,5 @@
 ---
-title: "Charlotte's Web"
+title: "Charlotte"s Web"
 type: strain
 tags:
   - cannabis

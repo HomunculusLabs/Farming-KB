@@ -61,7 +61,7 @@ The standard method for homeowners and small-scale growers:
 1. **Drill holes**: Use 5/16-inch (8mm) drill bit; holes 1.5x deeper than plug length
 2. **Spacing**: 4-6 inches apart in staggered rows (checkerboard pattern)
 3. **Insert plugs**: Tap dowel spawn into each hole with a hammer
-4. **Seal with wax**: Melted cheese wax, bee's wax, or paraffin dabbed over each hole to prevent beetle/bug damage
+4. **Seal with wax**: Melted cheese wax, bee"s wax, or paraffin dabbed over each hole to prevent beetle/bug damage
 5. **Quantity**: 30-50 plugs per 4-8 inch diameter log
 6. **Large logs** (>10 inch diameter): Much slower to fruit; require significantly more spawn
 

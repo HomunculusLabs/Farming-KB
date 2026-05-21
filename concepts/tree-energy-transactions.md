@@ -9,7 +9,7 @@ sources:
 ---
 ## Tree Energy Transactions
 
-Chapter 6 of the Designers' Manual is devoted to the complex interactions between trees and the incoming energies of radiation, precipitation, and wind. Mollison states: "I hope to show the immense value of trees to the biosphere." This chapter represents one of the most thorough treatments of tree-environment interactions in the permaculture literature.
+Chapter 6 of the Designers" Manual is devoted to the complex interactions between trees and the incoming energies of radiation, precipitation, and wind. Mollison states: "I hope to show the immense value of trees to the biosphere." This chapter represents one of the most thorough treatments of tree-environment interactions in the permaculture literature.
 
 ## The Tree as a System
 

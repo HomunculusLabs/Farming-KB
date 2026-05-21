@@ -6,11 +6,11 @@ type: concept
 
 ## Desert Reafforestation and Arid Land Agriculture
 
-Desert reafforestation requires strategies derived from studying how desert peoples have traditionally managed their environments. Mollison's approach is based on fieldwork at Aboriginal settlements in central Australia (Ernabella, Papunya) and draws on techniques from oasis dwellers like the Papago Indians of Tucson.
+Desert reafforestation requires strategies derived from studying how desert peoples have traditionally managed their environments. Mollison"s approach is based on fieldwork at Aboriginal settlements in central Australia (Ernabella, Papunya) and draws on techniques from oasis dwellers like the Papago Indians of Tucson.
 
 ## The "Dead Centre" Is a Myth
 
-"First, I must state that in my opinion, based on real examples sighted, that the 'dead centre' is a myth. Not only will many important vegetables and tree crops grow in deserts, but the native vegetation, where not overburnt or overgrazed, is, in itself, a great resource."
+"First, I must state that in my opinion, based on real examples sighted, that the "dead centre' is a myth. Not only will many important vegetables and tree crops grow in deserts, but the native vegetation, where not overburnt or overgrazed, is, in itself, a great resource."
 
 Key facts:
 - Water lies close underground in many places
@@ -118,7 +118,7 @@ At Ernabella: 6,000 cattle and 20,000–30,000 brumbies on land supporting only 
 - Alternatives: mass burials in areas to be planted
 
 ### Preferred Species
-"Smaller 'softer' species such as poultry, wallaby, emu, and euro or kangaroo are to be preferred." Small meats need no freezing (eaten at one sitting) and cause little environmental damage.
+"Smaller "softer' species such as poultry, wallaby, emu, and euro or kangaroo are to be preferred." Small meats need no freezing (eaten at one sitting) and cause little environmental damage.
 
 ## Native Seed and Berry Species
 
@@ -145,6 +145,6 @@ As dams, tanks, and lagoons develop:
 
 ## Nutrition Priorities
 
-Dr. Archie Kalikorinus (Aboriginal Medical Centre, Sydney): "Improving nutrition and hygiene at camps and in outstations would be 'better than all the medical services' for health."
+Dr. Archie Kalikorinus (Aboriginal Medical Centre, Sydney): "Improving nutrition and hygiene at camps and in outstations would be "better than all the medical services' for health."
 
 High vitamin C content in fruit is a prime aim, especially for women before and during pregnancy. Recommended plants above frost level: paw-paw, mango, tomato, peppers, acerola ([[acerola-barbados-cherry-permaculture-guide]]), parsley, and any green leaf crop.

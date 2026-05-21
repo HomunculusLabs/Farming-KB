@@ -10,7 +10,7 @@ type: concept
 ## Palmer on the Neglected Science of Mycology in America
 In his 1877 article "A Neglected Science," published in the Boston Daily
 Globe, Palmer lamented the state of [[mckenna-the-kingdom-of-fungi]]
-lay untouched beneath everyone's feet.
+lay untouched beneath everyone"s feet.
 
 ## The Few American Authorities
 
@@ -23,7 +23,7 @@ of the Natural History Society through original correspondence and foreign
 works. Mr. Charles Frost of Vermont was "a living authority in this
 science."
 Beyond these few, Palmer found that American literature showed "the
-ingenuity of professional writers in weaving the web of other men's
+ingenuity of professional writers in weaving the web of other men"s
 thoughts and researches on this subject into diverse forms for the
 magazines." Original contribution was almost nonexistent.
 
@@ -35,7 +35,7 @@ author treating of the subject, or refer me to an article, you will confer a
 great favor and receive my heartiest thanks. I must plead to a lamentable
 ignorance, which I regret to find I share with all medical men with whom I
 have conversed on the subject."
-Dr. D. G. Brinton of Philadelphia copied one of Palmer's articles with the
+Dr. D. G. Brinton of Philadelphia copied one of Palmer"s articles with the
 introduction: "The subject is so important, and the information on it in the
 text-books so vague, that this cannot fail to be welcome to many readers."
 
@@ -52,7 +52,7 @@ qualities. Mr. Frost of Vermont did the same -- in both cases, "the
 classification serving to perpetuate the circumstances under which some plant
 was handed to the gentlemen."
 
-## Chemistry's Failure to Help
+## Chemistry"s Failure to Help
 
 Palmer even turned to chemistry for assistance. He carried a vial containing
 a black fluid resulting from the deliquescence of a fungus to S. Dana Hayes,

@@ -3,7 +3,7 @@ title: "How Do I Choose and Apply the Right Mulch for My Garden?"
 tags: [query, mulch, soil-health, organic-gardening, weed-control]
 date: 2026-05-13
 updated: 2026-05-13
-sources: ['raw/papers/unknown-biodiversity-fungi-soil-fungal-communities|biodiversity-of-fungi.md']
+sources: ["raw/papers/unknown-biodiversity-fungi-soil-fungal-communities|biodiversity-of-fungi.md']
 ---
 
 ## How Do I Choose and Apply the Right Mulch for My Garden?

@@ -24,7 +24,7 @@ The simplest mechanism is **density-mediated**: predators directly reduce the nu
 
 ### Trait-Mediated Cascades
 
-More subtly, predators can affect ecosystems without killing prey — simply by being present. Prey animals alter their behavior to avoid predation, changing **where** and **when** they forage. In Yellowstone, elk avoid open riparian areas where wolves hunt, even when elk numbers haven't declined significantly. This "landscape of fear" allows willows and aspens to regenerate in those areas. Trait-mediated cascades can be as powerful as density-mediated ones and often operate simultaneously.
+More subtly, predators can affect ecosystems without killing prey — simply by being present. Prey animals alter their behavior to avoid predation, changing **where** and **when** they forage. In Yellowstone, elk avoid open riparian areas where wolves hunt, even when elk numbers haven"t declined significantly. This "landscape of fear" allows willows and aspens to regenerate in those areas. Trait-mediated cascades can be as powerful as density-mediated ones and often operate simultaneously.
 
 ### Behaviorally Mediated vs. Density Mediated: A Comparison
 

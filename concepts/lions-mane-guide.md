@@ -1,5 +1,5 @@
 ---
-title: Lion's Mane Cultivation Guide
+title: Lion"s Mane Cultivation Guide
 created: 2026-04-12
 updated: 2026-04-12
 type: concept

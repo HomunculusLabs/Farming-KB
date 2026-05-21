@@ -24,7 +24,7 @@ In the EU, the propagation and marketing of seeds has been taken away from farme
 
 Once aware of seed sovereignty issues, Holzer made a great effort to propagate the seeds of every conceivable cultivated plant suited to the Krameterhof. The plant diversity provides a kind of living gene bank. Visitors are allowed to harvest seeds in small amounts for their own use during farm tours.
 
-## Holzer's Selection Criteria
+## Holzer"s Selection Criteria
 
 ### Select from the Worst Conditions
 

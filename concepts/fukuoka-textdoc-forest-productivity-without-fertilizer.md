@@ -21,7 +21,7 @@ The productivity of mountain forests poses a direct challenge to the fertilizer 
 - Yet [[soil-fertility-building-gradient-solomon]] does not decline
 - Growth rates remain robust across decades
 
-Fukuoka's answer is that "plants do not need to be raised; they grow of their own accord." The mountain forests are "living proof that trees are not raised with fertilizer but grow by themselves."
+Fukuoka"s answer is that "plants do not need to be raised; they grow of their own accord." The mountain forests are "living proof that trees are not raised with fertilizer but grow by themselves."
 
 ## The Soil-Building Cycle
 
@@ -46,7 +46,7 @@ When black wattle is planted among cedar or cypress, the timber trees thrive due
 
 The trajectory of forest soil versus farmed soil reveals the fundamental error of agricultural science:
 
-| Aspect | Mountain Forest Soil | Farmer's Field Soil |
+| Aspect | Mountain Forest Soil | Farmer"s Field Soil |
 |--------|---------------------|-------------------|
 | Organic matter | Increases annually | Decreases annually |
 | Microbial life | Abundant and diverse | Diminished and simplified |
@@ -56,7 +56,7 @@ The trajectory of forest soil versus farmed soil reveals the fundamental error o
 | Fertility trend | Self-renewing | Dependent on purchased inputs |
 | Color | Rich black | Yellowish-white mineral matter |
 
-Fukuoka writes that weeding and plowing each year "depletes the fertility of the soil, creates a deficiency of trace components, diminishes the soil's vitality, hardens the topsoil, kills off microbes, and turns rich, living, organic material into a dead, inanimate, yellowish-white mineral matter."
+Fukuoka writes that weeding and plowing each year "depletes the fertility of the soil, creates a deficiency of trace components, diminishes the soil"s vitality, hardens the topsoil, kills off microbes, and turns rich, living, organic material into a dead, inanimate, yellowish-white mineral matter."
 
 ## How Farmers Destroy What Nature Builds
 
@@ -70,7 +70,7 @@ The process by which farmers convert living forest soil into dead mineral soil f
 
 At agricultural research centers, the same process is replicated in miniature: fertilizer is added to potted soil devoid of life and nutrients. The effect resembles sprinkling water on dry soil — the trees respond to the fertilizer nutrients. Researchers report this as evidence of fertilizer effectiveness.
 
-## The Poor Farmer's Long Way Around
+## The Poor Farmer"s Long Way Around
 
 Fukuoka characterizes this entire approach as "the poor farmer [taking] the long way around." The farmer:
 

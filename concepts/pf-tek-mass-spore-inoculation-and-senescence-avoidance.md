@@ -13,7 +13,7 @@ The PF TEK, introduced by [[african-landrace-sativa-genetic-contributions-modern
 
 3. **No accumulated cellular damage**: Spores are dormant, highly resistant survival structures. They do not experience the replicative aging that affects continuously growing mycelium. Each new cultivation begins with genetically "young" material.
 
-4. **Perpetual cultivation cycle**: Because spores are the endpoint of the mushroom life cycle, the grower can continuously produce new generations without the diminishing returns of clonal propagation. Fanaticus stated: "The spores insure a never ending succession of fungus, with all the power of the spores' reproductive ability intact."
+4. **Perpetual cultivation cycle**: Because spores are the endpoint of the mushroom life cycle, the grower can continuously produce new generations without the diminishing returns of clonal propagation. Fanaticus stated: "The spores insure a never ending succession of fungus, with all the power of the spores" reproductive ability intact."
 
 ## Practical Implementation
 

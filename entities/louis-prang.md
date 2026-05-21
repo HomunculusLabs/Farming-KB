@@ -8,7 +8,7 @@ type: entity
 
 ## Description
 
-Louis Prang was a German-American printer, lithographer, and publisher who revolutionized the American color printing industry. Founder of L. Prang & Co. of Boston, he is known as the "father of the American Christmas card" and was a pioneer in chromolithography. In the context of [[mycology]], Prang published Julius A. Palmer's early illustrated work on American mushrooms, "Mushrooms of America" (1885), which featured color plates of [[classification-of-edible-and-poisonous-mushroom-families]] species. Palmer credited Prang's enterprise with making possible the first illustrated American [[african-psilocybin-mushroom-guide]].
+Louis Prang was a German-American printer, lithographer, and publisher who revolutionized the American color printing industry. Founder of L. Prang & Co. of Boston, he is known as the "father of the American Christmas card" and was a pioneer in chromolithography. In the context of [[mycology]], Prang published Julius A. Palmer"s early illustrated work on American mushrooms, "Mushrooms of America" (1885), which featured color plates of [[classification-of-edible-and-poisonous-mushroom-families]] species. Palmer credited Prang"s enterprise with making possible the first illustrated American [[african-psilocybin-mushroom-guide]].
 
 ## Classification
 

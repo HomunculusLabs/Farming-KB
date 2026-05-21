@@ -70,7 +70,7 @@ in harmful practices for decades.
 
 The emerging field of industrial ecology applies natural design principles — closed material
 loops, waste as food for other processes, cascading energy use — to industrial systems. Amory
-Lovins' influential work on Factor 4 and Factor 10 improvements demonstrates that industrial
+Lovins" influential work on Factor 4 and Factor 10 improvements demonstrates that industrial
 economies can achieve dramatic reductions in resource use and pollution while maintaining or even
 improving quality of life. Factor 4 means doubling wealth while halving resource use; Factor 10
 goes further, aiming for tenfold efficiency gains.
@@ -104,7 +104,7 @@ repair is reactive, unpredictable, and often expensive. The Second Law of Thermo
 guarantees that all ordered systems depreciate over time — without continuous energy input
 through maintenance, infrastructure inevitably decays.
 
-European and [[sacred-mushroom-use-mexico-teonanacatl-indigenous-traditions]] demonstrate remarkable maintenance cultures. Norway's oldest
+European and [[sacred-mushroom-use-mexico-teonanacatl-indigenous-traditions]] demonstrate remarkable maintenance cultures. Norway"s oldest
 wooden stave churches survive through annual pine pitch rituals that protect timber from moisture
 and insects. The [[pueblo-de-taos]] in New Mexico has been continuously maintained for centuries by
 its community. Mediterranean stone terraces and [[oner-southeast-asian-sativa-heritage-thai-vietnamese-cambodian]] rice paddy terraces require
@@ -127,7 +127,7 @@ degradation; high mobility weakens attachment to place; rising real estate value
 demolition over renovation; and perceived declines in work ethic reduce willingness to perform
 routine upkeep.
 
-[[stewart-brand]]'s "How Buildings Learn" contrasts buildings that adapt and improve over time with
+[[stewart-brand]]"s "How Buildings Learn" contrasts buildings that adapt and improve over time with
 those designed as static, unmodifiable objects. The Eiffel Tower, continually maintained and
 repurposed across more than a century, exemplifies adaptive longevity. The [[pompidou-centre]],
 whose service-intensive exposed-duct design has proved difficult and expensive to sustain,

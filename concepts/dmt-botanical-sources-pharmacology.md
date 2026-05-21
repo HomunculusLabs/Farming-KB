@@ -29,7 +29,7 @@ LSD and psilocin.
 Smoked DMT rapidly intoxicates with peak effects within 2-5
 minutes, clearing over the next 20-30 minutes. Typically 40-50 mg
 is smoked, with anecdotal reports ranging from 20-100 mg. The
-brevity of the experience led to the nickname "businessman's trip"
+brevity of the experience led to the nickname "businessman"s trip"
 in the 1960s.
 
 ### Intravenous

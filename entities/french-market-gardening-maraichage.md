@@ -28,10 +28,10 @@ French market gardening, known as "la culture maraichere," was an intensive syst
 - Rye straw mats (1 inch thick) were rolled over frames and cloches for additional insulation on cold nights.
 - Access paths were only 10 inches wide—too narrow for wheelbarrows—so manure was carried in woven willow basket backpacks called "hottes."
 - The system was self-sustaining: manure provided both heat (fresh) and fertility (composted after use), with soil increasing in fertility year over year.
-- The system influenced British gardening through William Robinson's "Parks and Gardens of Paris" (1869), Kropotkin's "Fields, Factories and Workshops" (1899), and a wave of English-language publications in the early 1900s.
+- The system influenced British gardening through William Robinson"s "Parks and Gardens of Paris" (1869), Kropotkin"s "Fields, Factories and Workshops" (1899), and a wave of English-language publications in the early 1900s.
 - Joseph Fels (Fels-Naptha soap) bought 600 acres at Mayland, Essex, England to create French-style mini-farms; his foreman Joseph Smith wrote "French Gardening."
 - The system declined after 1900 due to: automobile replacement of horses (losing manure supply), chemical fertilizers, urban expansion onto garden land, and the high skill/labor requirements.
-- Eliot Coleman's 1974 visit to Louis Savier's surviving maraicher garden in Banvilliers was formative in developing his Four Season Farm system.
+- Eliot Coleman"s 1974 visit to Louis Savier's surviving maraicher garden in Banvilliers was formative in developing his Four Season Farm system.
 
 ## Key Historical Sources
 

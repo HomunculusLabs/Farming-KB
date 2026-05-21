@@ -29,7 +29,7 @@ Management:
 
 ### Bacterial Canker (Clavibacter michiganensis)
 
-Primarily affects tomatoes. Symptoms begin as small, raised white spots ("bird's eye" lesions) on fruit, dark cankers on stems, and marginal leaf necrosis that progresses inward. The bacterium is seed-borne and can persist on stakes and equipment for months.
+Primarily affects tomatoes. Symptoms begin as small, raised white spots ("bird"s eye" lesions) on fruit, dark cankers on stems, and marginal leaf necrosis that progresses inward. The bacterium is seed-borne and can persist on stakes and equipment for months.
 
 Management:
 - Use hot-water treated seed or certified pathogen-free seed
@@ -53,7 +53,7 @@ Management:
 
 ### Fire Blight (Erwinia amylovora)
 
-Primarily affects members of the Rosaceae family: apples, pears, quince, and related ornamentals. Blossoms turn brown and black, appearing scorched. Infections spread from blossoms into twigs and branches, causing cankers that ooze bacterial exudate. Branch tips curl into a characteristic "shepherd's crook."
+Primarily affects members of the Rosaceae family: apples, pears, quince, and related ornamentals. Blossoms turn brown and black, appearing scorched. Infections spread from blossoms into twigs and branches, causing cankers that ooze bacterial exudate. Branch tips curl into a characteristic "shepherd"s crook."
 
 Favored by warm, humid conditions during bloom (65-85F). Spread by rain, insects (especially bees during pollination), and contaminated tools.
 

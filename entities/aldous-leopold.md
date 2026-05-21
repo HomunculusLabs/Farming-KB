@@ -7,7 +7,7 @@ tags: [person, ecology, conservation, land-ethics, wildlife-management]
 
 ## Overview
 
-Aldo Leopold (1887-1948) was an American conservationist, forester, and wildlife ecologist referenced on page 204 of David Holmgren's *Permaculture: Principles and Pathways Beyond Sustainability*. He is widely regarded as the father of **wildlife ecology** and his **Land Ethic** philosophy has profoundly influenced ecological design and permaculture.
+Aldo Leopold (1887-1948) was an American conservationist, forester, and wildlife ecologist referenced on page 204 of David Holmgren"s *Permaculture: Principles and Pathways Beyond Sustainability*. He is widely regarded as the father of **wildlife ecology** and his **Land Ethic** philosophy has profoundly influenced ecological design and permaculture.
 
 ## Biography
 
@@ -20,7 +20,7 @@ His most famous work, *A Sand County Almanac* (published posthumously in 1949), 
 ## Contributions
 
 - **Wildlife ecology** — Pioneered scientific study of wildlife populations and habitats
-- **Wilderness preservation** — Instrumental in establishing the Gila Wilderness (1924), the world's first designated wilderness area
+- **Wilderness preservation** — Instrumental in establishing the Gila Wilderness (1924), the world"s first designated wilderness area
 - **Ecological restoration** — Restored degraded farmland at his Sauk County property
 - **Systems thinking** — Understood ecosystems as interconnected wholes
 

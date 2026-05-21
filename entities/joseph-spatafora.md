@@ -57,7 +57,7 @@ Joseph W. Spatafora is an American mycologist and professor known for his contri
 
 ## Relevance to Cultivation and Mycology
 
-Spatafora's molecular phylogenetic work provides the evolutionary context for understanding fungal biology relevant to cultivation. His contributions to resolving the [[ascomycota]] phylogeny are particularly relevant since many commercially cultivated fungi (morels, truffles, cordyceps) belong to this phylum. Understanding phylogenetic relationships helps predict shared physiological traits among related species, informing cultivation methodology transfer between taxa.
+Spatafora"s molecular phylogenetic work provides the evolutionary context for understanding fungal biology relevant to cultivation. His contributions to resolving the [[ascomycota]] phylogeny are particularly relevant since many commercially cultivated fungi (morels, truffles, cordyceps) belong to this phylum. Understanding phylogenetic relationships helps predict shared physiological traits among related species, informing cultivation methodology transfer between taxa.
 
 For cultivators working with [[synthetic-log-cultivation]] systems, phylogenetic knowledge helps explain why certain substrate formulations work better for related species—species that share recent common ancestry often share similar enzymatic capabilities and nutritional requirements.
 

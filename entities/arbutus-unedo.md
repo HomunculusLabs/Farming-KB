@@ -16,7 +16,7 @@ Other leaf constituents include flavonoids ([[kaempferol]], myricetin glycosides
 
 The fruits are rich in anthocyanins, vitamin C, and ellagic acid, contributing to antioxidant capacity.
 
-[[classic-mushroom-recipes-traditional-preparations]] use leaf infusions as urinary antiseptics and astringents, consistent with arbutin's pharmacological profile.
+[[classic-mushroom-recipes-traditional-preparations]] use leaf infusions as urinary antiseptics and astringents, consistent with arbutin"s pharmacological profile.
 
 Bark decoctions have been employed as a diuretic and antirheumatic in Spanish and Italian folk medicine.
 

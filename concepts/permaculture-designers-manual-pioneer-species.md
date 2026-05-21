@@ -9,7 +9,7 @@ sources: [raw/papers/bill-mollison-permaculture-a-designers-manual.md]
 
 ## Pioneer Species in Permaculture
 
-> Source: Bill Mollison, *Permaculture: A Designers' Manual* (1988), Chapters 3 and 10
+> Source: Bill Mollison, *Permaculture: A Designers" Manual* (1988), Chapters 3 and 10
 
 Updated: 2026-04-18
 

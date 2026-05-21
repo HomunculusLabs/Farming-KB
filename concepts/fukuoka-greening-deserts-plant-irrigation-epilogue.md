@@ -6,7 +6,7 @@ type: concept
 
 ## Fukuoka Greening Deserts Plant Irrigation Method and Epilogue
 
-[[beneficial-indigenous-microorganisms-natural-farming]], and a sweeping vision for restoring the world's deserts through entirely natural means. This page distills those closing reflections and Fukuoka's practical proposals for [[four-principles-of-natural-farming]]:
+[[beneficial-indigenous-microorganisms-natural-farming]], and a sweeping vision for restoring the world"s deserts through entirely natural means. This page distills those closing reflections and Fukuoka's practical proposals for [[four-principles-of-natural-farming]]:
 
 > "Natural farming is not a product of the knowledge of clever people. Applying human knowledge and reasoning [[fukuoka-critique-scientific-farming-energy-efficiency]], but cannot itself be evaluated scientifically."
 
@@ -32,7 +32,7 @@ The barley becomes a teacher — but only for those who have the humility to sta
 
 > "I have felt the awesome energy of the earth. What more can I say?"
 
-After all the philosophy, all the argument, all the demonstration, Fukuoka ends in silence and awe. The earth's energy is not something to be analyzed or explained. It is something to be felt.
+After all the philosophy, all the argument, all the demonstration, Fukuoka ends in silence and awe. The earth"s energy is not something to be analyzed or explained. It is something to be felt.
 
 ## Greening the Deserts
 
@@ -48,7 +48,7 @@ He framed the desert problem in spiritual and historical terms:
 
 > "If deserts first arose when man parted from the hand of God and began to till the Garden of Eden, then nature can be made to recover naturally by applying natural farming to the deserts."
 
-Deserts, in this reading, are not natural features but human artifacts — the consequence of agriculture's original sin, the act of breaking and tilling soil that was never meant to be broken. If human action caused the desert, then the removal of human action can undo it.
+Deserts, in this reading, are not natural features but human artifacts — the consequence of agriculture"s original sin, the act of breaking and tilling soil that was never meant to be broken. If human action caused the desert, then the removal of human action can undo it.
 
 His goal was not the modest creation of isolated green zones:
 
@@ -58,7 +58,7 @@ Not patches of green in a wasteland, but the wholesale restoration of ecosystems
 
 ## Plant Irrigation Method
 
-Central to Fukuoka's desert greening proposal was what he called the "plant irrigation method" — a technique that replaces engineered irrigation infrastructure with living plant systems.
+Central to Fukuoka"s desert greening proposal was what he called the "plant irrigation method" — a technique that replaces engineered irrigation infrastructure with living plant systems.
 
 > "The idea should not be to build irrigation systems that carry river water to the fields and there produce only specific crops, but to allow vegetation to thrive by the riverside, to create forests there and wait for water to gradually penetrate deep into the ground through the roots of the forest trees."
 

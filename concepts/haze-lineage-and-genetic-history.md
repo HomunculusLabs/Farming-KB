@@ -10,7 +10,7 @@ created: 2026-05-11
 
 ## Overview
 
-Haze is arguably the most influential cannabis lineage in modern breeding history. Developed in Northern California in the late 1960s and early 1970s, Haze became the genetic backbone for countless sativa-dominant hybrids and established the template for what consumers expect from a "sativa" experience: cerebral, uplifting, creative effects accompanied by complex spicy, citrus, and earthy aromas. The Haze genetics documented in Cannabis Sativa Vol. 3 — including Original Haze, Amnesia Haze, Super Lemon Haze, Neville's Haze, and dozens of Haze crosses — represent the pinnacle of sativa breeding.
+Haze is arguably the most influential cannabis lineage in modern breeding history. Developed in Northern California in the late 1960s and early 1970s, Haze became the genetic backbone for countless sativa-dominant hybrids and established the template for what consumers expect from a "sativa" experience: cerebral, uplifting, creative effects accompanied by complex spicy, citrus, and earthy aromas. The Haze genetics documented in Cannabis Sativa Vol. 3 — including Original Haze, Amnesia Haze, Super Lemon Haze, Neville"s Haze, and dozens of Haze crosses — represent the pinnacle of sativa breeding.
 
 ## Origins: The Haze Brothers (1960s–1970s)
 
@@ -45,7 +45,7 @@ Original Haze plants display the classic extreme sativa phenotype:
 
 - **THC content**: Moderately high by historical standards (12–16% in the original), though modern selections have pushed this significantly higher
 - **CBD content**: Very low (<0.1%), typical of drug-type sativas
-- **Dominant terpenes**: Myrcene, limonene, caryophyllene, pinene, and humulene. The terpene profile is complex and multi-layered, contributing to the strain's reputation for nuanced aroma.
+- **Dominant terpenes**: Myrcene, limonene, caryophyllene, pinene, and humulene. The terpene profile is complex and multi-layered, contributing to the strain"s reputation for nuanced aroma.
 
 ### Effects Profile
 
@@ -66,7 +66,7 @@ The Haze Brothers produced several distinct lines. The most commonly referenced 
 - **Haze B**: More Thai-dominant, longer flowering (12–16 weeks), more potent and psychedelic
 - **Haze C**: A stabilized cross between A and B, representing the canonical "Original Haze"
 
-### Neville's Haze
+### Neville"s Haze
 
 Neville Schoenmakers, founder of The Seed Bank (later Sensi Seeds), obtained Haze genetics from the Haze Brothers and worked extensively with them in the Netherlands during the 1980s. Neville's Haze is a cross of Original Haze (1/4 NL#5, 3/4 Haze) that significantly improved yield and flowering speed while retaining the Haze character. It is considered one of the finest sativa varieties ever created and remains a benchmark strain.
 

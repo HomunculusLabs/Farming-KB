@@ -22,13 +22,13 @@ For McKenna, the DMT experience reveals a class of objects that are given with t
 
 ## Cognitive Dissonance and the Monkey Mind
 
-McKenna's most distinctive claim about translinguistic objects concerns the cognitive response they provoke. He argued that when humans — "being monkeys" — encounter a translinguistic object, a cognitive dissonance is set up in what he called the "hindbrain."
+McKenna"s most distinctive claim about translinguistic objects concerns the cognitive response they provoke. He argued that when humans — "being monkeys" — encounter a translinguistic object, a cognitive dissonance is set up in what he called the "hindbrain."
 
 The cognitive dissonance arises from the conflict between two systems: the pattern-recognition and meaning-making capacities of the human mind, and the nature of the object itself, which carries meaning that cannot be processed through normal linguistic channels.
 
-The mind attempts to "pour language over" the object, but the object "sheds it like water off a duck's back." The mind tries again and fails again, and this repeated failure generates what McKenna called a "wow" or "flutter."
+The mind attempts to "pour language over" the object, but the object "sheds it like water off a duck"s back." The mind tries again and fails again, and this repeated failure generates what McKenna called a "wow" or "flutter."
 
-This building cognitive dissonance manifests as wonder, astonishment, and awe at the brink of terror. The description is remarkable for its specificity: McKenna is proposing a specific cognitive mechanism — a feedback loop between the mind's compulsive drive to linguistically encode experience and the object's resistance to such encoding.
+This building cognitive dissonance manifests as wonder, astonishment, and awe at the brink of terror. The description is remarkable for its specificity: McKenna is proposing a specific cognitive mechanism — a feedback loop between the mind"s compulsive drive to linguistically encode experience and the object's resistance to such encoding.
 
 The use of the term "hindbrain" is noteworthy. McKenna is locating the response in the older, more primitive structures of the brain rather than in the neocortical areas associated with higher cognitive functions. This suggests that the response to translinguistic objects is not primarily a rational or intellectual phenomenon but a deeper, more visceral one rooted in the fundamental architecture of the nervous system.
 
@@ -40,7 +40,7 @@ The entities encountered in the DMT space — the self-transforming [[mckenna-gl
 
 He connected it to the Kabbalistic concept of a primal "Ursprache" — an original language that precedes and underlies all human languages. This primal language is not learned but innate, and the DMT state allows direct access to it.
 
-The relationship between translinguistic objects and glossolalia is reciprocal. The objects provoke the cognitive dissonance that drives the mind beyond ordinary language, while glossolalia represents the mind's attempt to respond to the objects in their own register — to speak the language of the hyperspace rather than the language of ordinary reality.
+The relationship between translinguistic objects and glossolalia is reciprocal. The objects provoke the cognitive dissonance that drives the mind beyond ordinary language, while glossolalia represents the mind"s attempt to respond to the objects in their own register — to speak the language of the hyperspace rather than the language of ordinary reality.
 
 ## The Logos and Alien Information
 
@@ -50,21 +50,21 @@ He described hearing and beholding "a language of alien meaning that is conveyin
 
 This is not the same as saying the experience is ineffable in the mystical sense — that it transcends all language. Rather, McKenna is saying the information exists in a specific translinguistic format that is incompatible with the encoding mechanisms of human language. The information is not beyond meaning; it is beyond our specific meaning-making system.
 
-The distinction is important. If the experience were merely ineffable, it would be a dead end for inquiry. But if it carries information in a translinguistic format, it may be accessible through other means — through direct experiential encounter, through the "assembly language" that underlies ordinary language, or through the focused attention that McKenna's entities recommend.
+The distinction is important. If the experience were merely ineffable, it would be a dead end for inquiry. But if it carries information in a translinguistic format, it may be accessible through other means — through direct experiential encounter, through the "assembly language" that underlies ordinary language, or through the focused attention that McKenna"s entities recommend.
 
 [[mckenna-philo-judaeus-logos-hearing-to-beholding]]'s description of the Logos — in which it passes "without any quantized moment of distinction" from things heard to things beheld — provides McKenna with a philosophical precedent for the seamless integration of auditory and visual information that characterizes the DMT experience.
 
 ## Implications for Cognitive Science
 
-McKenna's description of cognitive dissonance in response to translinguistic objects anticipates several themes in contemporary cognitive science.
+McKenna"s description of cognitive dissonance in response to translinguistic objects anticipates several themes in contemporary cognitive science.
 
 The concept of "predictive processing" — the idea that the brain is fundamentally a prediction engine that generates models of the world and updates them based on prediction errors — provides a framework for understanding the cognitive dissonance McKenna described.
 
 When the brain encounters a translinguistic object, it cannot generate accurate predictions about what the object will do next. The prediction error signal is maximal and continuous, generating a state of sustained surprise that the brain interprets as wonder or awe.
 
-The "loop of wonder" corresponds to what predictive processing theorists would call a "prediction error loop" — a situation where the prediction error cannot be resolved because the object's behavior falls outside the generative model's capacity to predict.
+The "loop of wonder" corresponds to what predictive processing theorists would call a "prediction error loop" — a situation where the prediction error cannot be resolved because the object"s behavior falls outside the generative model's capacity to predict.
 
-The entities' advice to "focus and look at what we're doing" can be understood as an instruction to override the default prediction error response and adopt an observational, data-gathering stance that might eventually allow the generative model to accommodate the novel phenomenon.
+The entities' advice to "focus and look at what we"re doing" can be understood as an instruction to override the default prediction error response and adopt an observational, data-gathering stance that might eventually allow the generative model to accommodate the novel phenomenon.
 
 ## Distinguishing from Mystical Ineffability
 

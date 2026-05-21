@@ -33,7 +33,7 @@ Where modern machinery is unavailable, cave construction proceeds with basic too
 
 ### Modern Mechanical Excavation (Coober Pedy Model)
 
-Australia's opal mining industry has driven development of efficient cave construction techniques now widely applied to residential dugouts:
+Australia"s opal mining industry has driven development of efficient cave construction techniques now widely applied to residential dugouts:
 
 1. **Site preparation**: A bulldozer cuts a cliff face 3–6 m high into the selected hillside of soft stone
 2. **Large-bore drilling**: Drills of 1–1.5 m diameter (such as the "Caldwell") cut corridors, rooms, and storage caves to approximate size

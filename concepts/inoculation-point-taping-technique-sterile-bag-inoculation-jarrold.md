@@ -20,7 +20,7 @@ These problems are amplified when using the short-needle method, where the needl
 
 ## The Taping Solution: Two-Piece Tape System
 
-Jarrold's solution uses two pieces of wide masking tape at each inoculation point, applied before inoculation:
+Jarrold"s solution uses two pieces of wide masking tape at each inoculation point, applied before inoculation:
 
 ### Step 1: Support Tape
 A strip of wide masking tape is applied to each side of the bag, running from the filter can at the top down to the base of the bag. This serves as:

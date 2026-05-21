@@ -36,9 +36,9 @@ Shulgin describes 2C-E as one of the more powerful and profound members of the 2
 - Significant alteration of thought processes and perspective
 - Pronounced body sensation, sometimes described as heavy or intense
 
-Shulgin's qualitative comment at 12 mg: "A very good experience. There were some visuals, but nothing particularly dramatic. The cognitive component was the most striking aspect. I felt a complete clarity of thought, a connectedness with everything, and a sense of understanding that seemed to go beyond what is normally accessible."
+Shulgin"s qualitative comment at 12 mg: "A very good experience. There were some visuals, but nothing particularly dramatic. The cognitive component was the most striking aspect. I felt a complete clarity of thought, a connectedness with everything, and a sense of understanding that seemed to go beyond what is normally accessible."
 
-At higher doses (18-20 mg), the experience becomes significantly more intense, with Shulgin noting its potential for both profound insight and challenging experiences. The compound is one of the "magical half-dozen" — Shulgin's designation for compounds of particular power and significance.
+At higher doses (18-20 mg), the experience becomes significantly more intense, with Shulgin noting its potential for both profound insight and challenging experiences. The compound is one of the "magical half-dozen" — Shulgin"s designation for compounds of particular power and significance.
 
 ## Comparison to Other 2C Compounds
 

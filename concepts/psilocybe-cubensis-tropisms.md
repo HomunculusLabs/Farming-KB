@@ -12,7 +12,7 @@ Tropisms are directional growth responses in organisms, where growth is oriented
 
 ## Experimental Approach
 
-Badham's experiments placed *P. cubensis* fruitbodies in a wind tunnel where wind velocity, humidity, temperature, and light could be precisely controlled. This setup allowed the isolation of individual stimuli and the observation of their effects on stipe (stem) growth direction and curvature. The use of sporeless mutants as experimental controls was a particularly elegant methodological choice, as it helped disentangle the relationship between spore formation and geotropic behavior.
+Badham"s experiments placed *P. cubensis* fruitbodies in a wind tunnel where wind velocity, humidity, temperature, and light could be precisely controlled. This setup allowed the isolation of individual stimuli and the observation of their effects on stipe (stem) growth direction and curvature. The use of sporeless mutants as experimental controls was a particularly elegant methodological choice, as it helped disentangle the relationship between spore formation and geotropic behavior.
 
 ### Wind Tunnel Conditions
 

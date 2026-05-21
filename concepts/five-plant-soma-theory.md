@@ -14,7 +14,7 @@ The Five-Plant Soma Theory proposes that the ancient Vedic sacrament known as So
 
 ### 1. Amanita muscaria (Red Mushroom)
 
-The iconic red-and-white fly agaric produces what Arthur describes as "the quickening of the spirit." R. Gordon Wasson and others made a compelling case for Amanita muscaria as a primary Soma candidate, yet alone it fails to produce the full spectrum of effects described in the Rig Veda. The mushroom's role in the admixture appears to be providing the foundational visionary catalyst—the [[harmala-alkaloids]] allow orally active DMT experiences—otherwise DMT is inactive when consumed by mouth due to metabolic breakdown.
+The iconic red-and-white fly agaric produces what Arthur describes as "the quickening of the spirit." R. Gordon Wasson and others made a compelling case for Amanita muscaria as a primary Soma candidate, yet alone it fails to produce the full spectrum of effects described in the Rig Veda. The mushroom"s role in the admixture appears to be providing the foundational visionary catalyst—the [[harmala-alkaloids]] allow orally active DMT experiences—otherwise DMT is inactive when consumed by mouth due to metabolic breakdown.
 
 ### 4. Opium Poppy — *Papaver somniferum* (White)
 

@@ -60,7 +60,7 @@ SMS makes an excellent component of potting mixes. Its water-holding capacity, n
 
 ## Safety Considerations
 
-- **Aspergillus fumigatus risk:** Spent compost is the most frequent source of Aspergillus fumigatus, which can cause "Worker's Lung Disease" (Stamets). Wear a respirator when handling large quantities of dry SMS.
+- **Aspergillus fumigatus risk:** Spent compost is the most frequent source of Aspergillus fumigatus, which can cause "Worker"s Lung Disease" (Stamets). Wear a respirator when handling large quantities of dry SMS.
 - **Disease vector:** Spent compost can harbor Trichoderma, Doratomyces, and other competitor molds. Always remove spent substrate from growing areas promptly and compost it away from cultivation spaces.
 - **Pasteurize before reuse:** If using SMS for another mushroom crop, pasteurize thoroughly to kill nematodes, mites, and competitor organisms.
 

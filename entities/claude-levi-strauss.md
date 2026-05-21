@@ -9,7 +9,7 @@ tags: [people, anthropology, structural-anthropology, france]
 
 ## Description
 
-Claude Lévi-Strauss (1908–2009) was a French anthropologist and ethnologist widely regarded as the founder of structural anthropology. His work on symbolic systems, myth, and kinship fundamentally reshaped the social sciences in the twentieth century. In the context of psychedelic shamanism studies, Lévi-Strauss is cited for his influential essay "The Effectiveness of Symbols," which analyzes how shamanic incantation functions as a form of psychological therapy structurally comparable to psychoanalysis. His theoretical framework provides the intellectual scaffolding for understanding the therapeutic efficacy of Mazatec mushroom shamanism as documented in Harner's volume.
+Claude Lévi-Strauss (1908–2009) was a French anthropologist and ethnologist widely regarded as the founder of structural anthropology. His work on symbolic systems, myth, and kinship fundamentally reshaped the social sciences in the twentieth century. In the context of psychedelic shamanism studies, Lévi-Strauss is cited for his influential essay "The Effectiveness of Symbols," which analyzes how shamanic incantation functions as a form of psychological therapy structurally comparable to psychoanalysis. His theoretical framework provides the intellectual scaffolding for understanding the therapeutic efficacy of Mazatec mushroom shamanism as documented in Harner"s volume.
 
 ## Classification
 
@@ -27,16 +27,16 @@ Claude Lévi-Strauss was born on November 28, 1908, in Brussels, Belgium, to Fre
 
 - Conducted foundational fieldwork among the Bororo and Nambikwara peoples of central Brazil in the 1930s, experiences later chronicled in his literary-ethnographic masterpiece *Tristes Tropiques*.
 - Developed the concept that myths, kinship systems, and symbolic practices across cultures share deep structural patterns analogous to linguistic structures — influenced by Ferdinand de Saussure's semiotics and Roman Jakobson's phonological models.
-- His essay "The Effectiveness of Symbols" (originally published in French as a lecture in 1949) compares the therapeutic function of a Cuna (Kuna) shaman's chant during difficult childbirth to psychoanalytic treatment. He argues that both systems work by providing the patient with a structured language through which unexpressed psychic states can be articulated and resolved, triggering a physiological reorganization in a favorable direction.
-- In "The Effectiveness of Symbols," Lévi-Strauss specifically contrasts the role of the psychoanalyst (who listens) with the shaman (who speaks): the analyst receives the patient's projections, while the shaman actively provides the patient with a narrative structure for their suffering.
+- His essay "The Effectiveness of Symbols" (originally published in French as a lecture in 1949) compares the therapeutic function of a Cuna (Kuna) shaman"s chant during difficult childbirth to psychoanalytic treatment. He argues that both systems work by providing the patient with a structured language through which unexpressed psychic states can be articulated and resolved, triggering a physiological reorganization in a favorable direction.
+- In "The Effectiveness of Symbols," Lévi-Strauss specifically contrasts the role of the psychoanalyst (who listens) with the shaman (who speaks): the analyst receives the patient"s projections, while the shaman actively provides the patient with a narrative structure for their suffering.
 
 ## Relevance to the Harner Text
 
-In "The Mushrooms of Language" chapter by Henry Munn (within Harner's edited volume), Lévi-Strauss is directly quoted at length on the structural parallel between the shaman and the psychoanalyst:
+In "The Mushrooms of Language" chapter by Henry Munn (within Harner"s edited volume), Lévi-Strauss is directly quoted at length on the structural parallel between the shaman and the psychoanalyst:
 
 > "The psychoanalyst listens, whereas the shaman speaks. When a transference is established, the patient puts words into the mouth of the psychoanalyst by attributing to him alleged feelings and intentions; in the incantation, on the contrary, the shaman speaks for his patient. He questions her and puts into her mouth answers that correspond to the interpretation of her condition."
 
-This observation becomes particularly relevant to Mazatec mushroom shamanism because the mushrooms' primary effect — as described by Munn — is to liberate spontaneous language and oracular speech. The shaman, under the influence of psilocybin mushrooms, speaks *for* the sick person, providing a structured verbal expression of the illness that enables psychic and physiological reorganization.
+This observation becomes particularly relevant to Mazatec mushroom shamanism because the mushrooms" primary effect — as described by Munn — is to liberate spontaneous language and oracular speech. The shaman, under the influence of psilocybin mushrooms, speaks *for* the sick person, providing a structured verbal expression of the illness that enables psychic and physiological reorganization.
 
 Munn uses Lévi-Strauss's framework to argue that Mazatec mushroom sessions represent a pharmacologically enhanced version of the symbolic healing process: the chemical properties of the mushrooms interact with the linguistic centers of the brain to produce inspired, structured discourse that serves as both diagnosis and cure. The mushrooms transform the shaman into an oracle, and the oracular speech itself constitutes the therapeutic intervention — precisely the mechanism Lévi-Strauss identified in his analysis of Cuna shamanism, now amplified by the pharmacological properties of psilocybin.
 

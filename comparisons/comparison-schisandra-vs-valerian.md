@@ -3,7 +3,7 @@ title: "Schisandra vs Valerian"
 tags: [comparison, schisandra, valerian, adaptogens, nervines, sleep-aid, tcm]
 date: 2026-05-14
 updated: 2026-05-14
-sources: ['raw/papers/working-with-agar.md']
+sources: ["raw/papers/working-with-agar.md']
 ---
 
 ## [[comparison-schisandra-vs-ashwagandha-vs-rhodiola-adaptogenic-cultivation|Schisandra]] vs Valerian
@@ -33,7 +33,7 @@ herb in the Shennong Bencao Jing (circa 200 CE). The name "wu wei zi"
 sour, bitter, acrid, and salty flavors, each corresponding to a different
 organ system in TCM theory.
 
-Schisandra's pharmacological profile centers on lignans, particularly
+Schisandra"s pharmacological profile centers on lignans, particularly
 schisandrin, gomisin, and schisantherin, which exhibit hepatoprotective,
 antioxidant, [[ashwagandha-cultivation-uses-and-adaptogenic-properties]]. The herb modulates the
 hypothalamic-pituitary-adrenal (HPA) axis, helping the body respond to
@@ -67,7 +67,7 @@ targeted by pharmaceutical anxiolytics and sedatives. Valerian increases
 available GABA, inhibits its breakdown, and may stimulate GABA release,
 producing a direct calming effect on the central nervous system.
 
-Valerian's clinical strength lies in its immediacy. [[cancer-medicinal-mushrooms-schizophyllan-spg-clinical-trials]]
+Valerian"s clinical strength lies in its immediacy. [[cancer-medicinal-mushrooms-schizophyllan-spg-clinical-trials]]
 demonstrate that regular use over two to four weeks reduces sleep onset
 time and improves sleep quality. It also provides mild anxiolytic effects
 for situational anxiety and nervous tension, and its antispasmodic

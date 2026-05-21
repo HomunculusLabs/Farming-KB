@@ -1,5 +1,5 @@
 ---
-title: Non-Drug Methods of Consciousness Transformation in Metzner's Comparative Framework
+title: Non-Drug Methods of Consciousness Transformation in Metzner"s Comparative Framework
 created: 2026-05-08
 updated: 2026-05-08
 type: concept
@@ -27,7 +27,7 @@ consciousness.
 
 ## Eastern Traditions: Yoga and Meditation
 
-During the 1970s, Metzner's focus shifted to the exploration of nondrug
+During the 1970s, Metzner"s focus shifted to the exploration of nondrug
 methods derived from Eastern spiritual traditions, particularly yoga and
 meditation. These practices, which have been refined over thousands of years,
 offer systematic methods for altering consciousness through attention,

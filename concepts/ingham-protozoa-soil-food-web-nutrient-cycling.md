@@ -10,7 +10,7 @@ type: concept
 
 ## Overview
 
-Protozoa are single-celled eukaryotic organisms that play an essential role in the soil food web as the primary consumers of bacteria and fungi. By grazing on [[soil-microbial-biomass-measurement-ecological-significance]] into plant-available forms—making them a critical link between the decomposer community and plant nutrition. Ingham's work consistently emphasizes that healthy soils require adequate protozoan populations for sustainable plant growth without [[humus-formation-and-soil-organic-matter]] and plant residues, incorporating them into their cells
+Protozoa are single-celled eukaryotic organisms that play an essential role in the soil food web as the primary consumers of bacteria and fungi. By grazing on [[soil-microbial-biomass-measurement-ecological-significance]] into plant-available forms—making them a critical link between the decomposer community and plant nutrition. Ingham"s work consistently emphasizes that healthy soils require adequate protozoan populations for sustainable plant growth without [[humus-formation-and-soil-organic-matter]] and plant residues, incorporating them into their cells
 2. Protozoa consume bacteria and fungi, digesting the microbial biomass
 3. During digestion, protozoa absorb the carbon and other nutrients they need for their own metabolism
 4. The excess nutrients—particularly nitrogen in the form of ammonium (NH₄⁺)—are excreted back into the soil solution

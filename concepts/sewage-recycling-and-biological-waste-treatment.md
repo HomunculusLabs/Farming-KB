@@ -108,7 +108,7 @@ In a fully integrated system:
 
 ## The Urban Scale
 
-In suburbs, all food and cellulose wastes could generate fuel via amylase columns, ending the "humbug of 'waste disposal' costs." The same principle applies to sewage: rather than an expensive disposal problem, biological treatment turns waste into productive assets.
+In suburbs, all food and cellulose wastes could generate fuel via amylase columns, ending the "humbug of "waste disposal' costs." The same principle applies to sewage: rather than an expensive disposal problem, biological treatment turns waste into productive assets.
 
 ## Key Principle
 

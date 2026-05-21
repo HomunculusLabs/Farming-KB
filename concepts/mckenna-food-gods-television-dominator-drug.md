@@ -12,7 +12,7 @@ type: concept
 
 ## The First Electronic Drug
 
-In his science fiction novel *The Man in the High Castle*, Philip K. Dick imagined an alternative world in which World War II had been won by the Japanese and the Third Reich. In Dick's fictional world, the Japanese occupation authorities introduced and legalized marijuana as one of their first moves at pacifying the population of California.
+In his science fiction novel *The Man in the High Castle*, Philip K. Dick imagined an alternative world in which World War II had been won by the Japanese and the Third Reich. In Dick"s fictional world, the Japanese occupation authorities introduced and legalized marijuana as one of their first moves at pacifying the population of California.
 
 [[dmt-containing-plants-united-states-halpern]], there are many more televisions than households, the average television set is on six hours a day, and the average person watches more than five hours a day — nearly one-third of their waking time.
 
@@ -36,7 +36,7 @@ A double dose of TV therapy plus cocaine was ordered up for the errant hippies, 
 
 Only a recalcitrant few escaped this leveling of values. Nearly everyone learned to love Big Brother.
 
-And the few who don't are still clucked over by the [[mckenna-dominator-culture-and-suppression-of-ecstasy]] each time it compulsively scratches in the barnyard dust of its puzzlement over "what happened in the Sixties."
+And the few who don"t are still clucked over by the [[mckenna-dominator-culture-and-suppression-of-ecstasy]] each time it compulsively scratches in the barnyard dust of its puzzlement over "what happened in the Sixties."
 
 ## The Broader Context: Heroin, Cocaine, and Government
 

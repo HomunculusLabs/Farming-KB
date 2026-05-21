@@ -9,7 +9,7 @@ tags: [person, anthropologist, peyote, religion, american, ethnography]
 
 ## Description
 
-Weston La Barre (1911-1996) was an American anthropologist best known for his comprehensive studies of the peyote religion among Native American peoples. His landmark work "The Peyote Cult" (1938) and its subsequent revised editions established him as the leading authority on the ritual use of peyote (Lophophora williamsii) in North American indigenous religious practice. He is cited extensively in the general bibliography of Harner's Hallucinogens and Shamanism with multiple publications spanning three decades of research on peyote and hallucinogenic plant use.
+Weston La Barre (1911-1996) was an American anthropologist best known for his comprehensive studies of the peyote religion among Native American peoples. His landmark work "The Peyote Cult" (1938) and its subsequent revised editions established him as the leading authority on the ritual use of peyote (Lophophora williamsii) in North American indigenous religious practice. He is cited extensively in the general bibliography of Harner"s Hallucinogens and Shamanism with multiple publications spanning three decades of research on peyote and hallucinogenic plant use.
 
 ## Classification
 
@@ -28,7 +28,7 @@ Weston La Barre (1911-1996) was an American anthropologist best known for his co
 - His 1960 article "Twenty Years of Peyote Studies" in Current Anthropology provided a comprehensive review of the field
 - Cited in the Harner bibliography with publications spanning 1938, 1960, and 1969, demonstrating a sustained research program
 - His work documented the Native American Church and its sacramental use of peyote as a legitimate religious practice
-- La Barre's research provided the ethnographic foundation for the legal defense of peyote use as a religious right
+- La Barre"s research provided the ethnographic foundation for the legal defense of peyote use as a religious right
 - His work demonstrated the continuity between pre-Columbian plant use and contemporary Native American religious practice
 - He argued that peyote use was not drug abuse but a sophisticated religious practice with deep historical roots
 - His approach influenced the broader field of ethnopharmacological research by establishing rigorous ethnographic methods for documenting plant-based religious practices
@@ -49,7 +49,7 @@ La Barre's work on the peyote cult remains a foundational text in the anthropolo
 - Harner, M.J. (1973). Hallucinogens and Shamanism. Oxford University Press.
 ## Intellectual Context
 
-La Barre's work was part of a broader movement in mid-twentieth century anthropology to take indigenous religious practices seriously as subjects of scholarly inquiry. Along with colleagues like Richard Evans Schultes (ethnobotany), R. Gordon Wasson (ethnomycology), and Michael Harner (shamanic studies), La Barre helped establish the academic legitimacy of studying psychoactive plant use as a cultural and religious phenomenon. His career at Duke University spanned decades during which the field evolved from dismissive curiosity to rigorous scholarly engagement, and his publications document this transformation in real time.
+La Barre"s work was part of a broader movement in mid-twentieth century anthropology to take indigenous religious practices seriously as subjects of scholarly inquiry. Along with colleagues like Richard Evans Schultes (ethnobotany), R. Gordon Wasson (ethnomycology), and Michael Harner (shamanic studies), La Barre helped establish the academic legitimacy of studying psychoactive plant use as a cultural and religious phenomenon. His career at Duke University spanned decades during which the field evolved from dismissive curiosity to rigorous scholarly engagement, and his publications document this transformation in real time.
 
 ## See Also
 - [[native-american-church]]
@@ -70,7 +70,7 @@ La Barre's documentation of the peyote religion describes a syncretic religious 
 
 ## Publications in the Harner Bibliography
 
-The Harner volume cites three distinct publications by La Barre spanning three decades: "The Peyote Cult" (1938, Yale University Publications in Anthropology), "Twenty Years of Peyote Studies" (1960, Current Anthropology), and "The Peyote Cult" enlarged edition (1969, Schocken Books). This trajectory from initial fieldwork to comprehensive revision documents the maturation of peyote studies as a scholarly field and reflects La Barre's own evolving understanding of the peyote religion over a thirty-year career.
+The Harner volume cites three distinct publications by La Barre spanning three decades: "The Peyote Cult" (1938, Yale University Publications in Anthropology), "Twenty Years of Peyote Studies" (1960, Current Anthropology), and "The Peyote Cult" enlarged edition (1969, Schocken Books). This trajectory from initial fieldwork to comprehensive revision documents the maturation of peyote studies as a scholarly field and reflects La Barre"s own evolving understanding of the peyote religion over a thirty-year career.
 
 ## Place in the Harner Volume
 
@@ -78,7 +78,7 @@ The prominence of La Barre in the Harner volume's bibliography reflects the cent
 
 ## Relationship to Harner's European Witchcraft Chapter
 
-Harner's chapter on the role of hallucinogenic plants in European witchcraft draws on some of the same analytical principles that La Barre applied to peyote religion. Both scholars sought to understand how psychoactive plant use operates within a coherent religious system, and both resisted reductionist explanations that would dismiss the phenomena as mere "drug use." La Barre's demonstration that peyote use among the Native American Church constituted a legitimate religion provided a model for Harner's argument that European witchcraft may have similarly been grounded in the ritual use of psychoactive plants. The intellectual connection between these two bodies of research highlights the importance of the comparative method in understanding the relationship between hallucinogenic plants and religious practice.
+Harner's chapter on the role of hallucinogenic plants in European witchcraft draws on some of the same analytical principles that La Barre applied to peyote religion. Both scholars sought to understand how psychoactive plant use operates within a coherent religious system, and both resisted reductionist explanations that would dismiss the phenomena as mere "drug use." La Barre"s demonstration that peyote use among the Native American Church constituted a legitimate religion provided a model for Harner's argument that European witchcraft may have similarly been grounded in the ritual use of psychoactive plants. The intellectual connection between these two bodies of research highlights the importance of the comparative method in understanding the relationship between hallucinogenic plants and religious practice.
 
 ## Critical Reception
 

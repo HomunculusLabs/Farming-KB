@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-The historical record of European witchcraft contains numerous detailed accounts of the "flying ointment" used by witches to journey to Sabbats. Michael J. Harner's compilation of these accounts, drawn from Inquisition records and other primary sources, demonstrates that the practice of applying psychoactive ointments was widespread across Europe from at least the fourteenth through the seventeenth centuries. This concept page presents the key historical evidence and analyzes what it reveals about the pharmacological basis of European witchcraft.
+The historical record of European witchcraft contains numerous detailed accounts of the "flying ointment" used by witches to journey to Sabbats. Michael J. Harner"s compilation of these accounts, drawn from Inquisition records and other primary sources, demonstrates that the practice of applying psychoactive ointments was widespread across Europe from at least the fourteenth through the seventeenth centuries. This concept page presents the key historical evidence and analyzes what it reveals about the pharmacological basis of European witchcraft.
 
 ## Vehicles of Transport
 
@@ -29,7 +29,7 @@ One of the most detailed accounts comes from Johannes Nider (1692): A woman plac
 
 This account is significant because it was witnessed by a priest and trustworthy townsmen who observed the entire process. The woman genuinely believed herself to be transported, and the ointment-induced sleep state was the mechanism.
 
-## The Hangman's Wife Experiment
+## The Hangman"s Wife Experiment
 
 ### The Physician's Test
 
@@ -37,7 +37,7 @@ Perhaps the most remarkable account is that of a sixteenth-century physician who
 
 The physician chose the wife of the local hangman as his subject—a woman who was "totally unable to sleep" and "tossed and turned almost half mad" due to suspicions about her husband. Other remedies having failed, the physician deemed her "an appropriate subject on whom some tests could be made."
 
-### The Ointment's Effects
+### The Ointment"s Effects
 
 On being anointed "from head to toe," the woman fell into "such a profound sleep, with her eyes open like a rabbit (she also fittingly looked like a boiled hare)" that the physician "could not imagine how to wake her."
 
@@ -45,7 +45,7 @@ The open-eyed sleep ("like a rabbit") is a well-documented effect of tropane alk
 
 ### Duration and Revival
 
-The woman remained in this state for thirty-six hours. The physician tried every available method to wake her: "strong ligatures and rubbing her extremities, with affusions of oil of costus-root and officinal spurge, with fumes and smoke in her nostrils, and finally with cupping-glasses." The extreme difficulty of revival confirms the potency of the ointment's active ingredients.
+The woman remained in this state for thirty-six hours. The physician tried every available method to wake her: "strong ligatures and rubbing her extremities, with affusions of oil of costus-root and officinal spurge, with fumes and smoke in her nostrils, and finally with cupping-glasses." The extreme difficulty of revival confirms the potency of the ointment"s active ingredients.
 
 ### The Content of the Experience
 
@@ -55,15 +55,15 @@ The experience was reported as intensely pleasurable—"all the pleasures and de
 
 ## The Hot and Cold Classification
 
-The physician's description of the ointment as composed of "herbs cold and soporiferous" reflects the traditional humoral classification of medicines. In the Galenic medical system that dominated European medicine through the Renaissance, all substances were classified as hot, cold, dry, or moist. The solanaceous plants were classified as "cold" medicines, which fits their pharmacological profile—they depress the central nervous system, producing somnolence and altered consciousness.
+The physician"s description of the ointment as composed of "herbs cold and soporiferous" reflects the traditional humoral classification of medicines. In the Galenic medical system that dominated European medicine through the Renaissance, all substances were classified as hot, cold, dry, or moist. The solanaceous plants were classified as "cold" medicines, which fits their pharmacological profile—they depress the central nervous system, producing somnolence and altered consciousness.
 
 ## The "Rabbit Eye" as Diagnostic
 
 The open-eyed, unseeing state produced by the ointment—"with her eyes open like a rabbit"—is a clinical marker of atropine intoxication. Atropine causes mydriasis (extreme pupil dilation) and paralysis of the ciliary muscle, producing a characteristic blank stare. This pharmacological detail confirms that the ointments contained genuine solanaceous material at effective doses.
 
-## Frans Francken's Painting
+## Frans Francken"s Painting
 
-A sixteenth-century painting by Frans Francken, "The Witches' Kitchen," depicts the demonic activities in a witches' kitchen, including a young witch being rubbed down with ointment. This visual evidence confirms that the practice of applying flying ointments was part of the cultural imagination of witchcraft, not merely an inference from textual sources.
+A sixteenth-century painting by Frans Francken, "The Witches" Kitchen," depicts the demonic activities in a witches" kitchen, including a young witch being rubbed down with ointment. This visual evidence confirms that the practice of applying flying ointments was part of the cultural imagination of witchcraft, not merely an inference from textual sources.
 
 ## The Basket and the Bowl: Symbolic and Practical
 

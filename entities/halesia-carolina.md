@@ -39,7 +39,7 @@ Leaves are simple, alternate, ovate to elliptic, 5–12 cm long and 3–7 cm bro
 
 Leaves turn clear yellow in autumn, occasionally with hints of gold. Fall color is most vivid on specimens growing in full sun with adequate moisture.
 
-Flowers are campanulate, white (occasionally pale pink in cultivation), 1–2 cm long, with four partially fused petals. They appear in April–May on previous year's wood, before or with the expanding leaves.
+Flowers are campanulate, white (occasionally pale pink in cultivation), 1–2 cm long, with four partially fused petals. They appear in April–May on previous year"s wood, before or with the expanding leaves.
 
 Each flower produces moderate nectar and pollen rewards. The flowering period lasts 10–14 days, depending on temperature and weather conditions during the bloom window.
 

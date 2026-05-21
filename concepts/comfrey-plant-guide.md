@@ -33,7 +33,7 @@ still spread vegetatively from root fragments.
 
 ## Dynamic Accumulator Properties
 
-Comfrey's deep taproot (extending 6-10 feet) mines minerals from subsoil
+Comfrey"s deep taproot (extending 6-10 feet) mines minerals from subsoil
 layers that other plants cannot reach. It is particularly effective at
 accumulating:
 

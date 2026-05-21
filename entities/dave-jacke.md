@@ -14,7 +14,6 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - "Jacke, D. (2010). \"Post-design and installation forest garden maintenance.\" Permaculture Activist, 72, 36-41."---
----
 
 ## Dave Jacke
 

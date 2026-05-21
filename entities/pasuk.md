@@ -23,7 +23,7 @@ The pasuk is a specialized spirit helper in [[jivaro]] [[shamanism]] that serves
 
 ### Supernatural Appearance
 
-Under the influence of [[natem]] ([[ayahuasca]]), the curing shaman perceives the pasuk in human form and size, but "covered with iron except for its eyes." This iron armor serves as a protective shield against counterattack by curing shamans. The only vulnerable point in the pasuk's armor is its eyes, through which a curing shaman must shoot a tsentsak to kill it. The iron covering makes the pasuk nearly invincible in supernatural combat.
+Under the influence of [[natem]] ([[ayahuasca]]), the curing shaman perceives the pasuk in human form and size, but "covered with iron except for its eyes." This iron armor serves as a protective shield against counterattack by curing shamans. The only vulnerable point in the pasuk"s armor is its eyes, through which a curing shaman must shoot a tsentsak to kill it. The iron covering makes the pasuk nearly invincible in supernatural combat.
 
 ### Mundane Appearance
 
@@ -31,7 +31,7 @@ To a person who has not taken the hallucinogenic natemd drink, the pasuk usually
 
 ## Function in Bewitching
 
-The pasuk operates as a persistent supernatural agent near the bewitcher's victim:
+The pasuk operates as a persistent supernatural agent near the bewitcher"s victim:
 
 1. After the bewitching shaman attacks a victim with tsentsak, the pasuk remains near the victim in the guise of an insect or animal of the forest
 2. If a curing shaman succeeds in sucking out the original tsentsak, the pasuk immediately shoots additional magical darts into the victim

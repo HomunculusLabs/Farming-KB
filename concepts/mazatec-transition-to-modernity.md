@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-The Mazatec Indians of the Sierra Mazateca in Oaxaca, Mexico, have experienced a profound cultural transformation in the twentieth century, moving from relative isolation as a Neolithic agricultural society to increasing integration with modern Mexican national culture. Henry Munn's documentation of Mazatec mushroom ceremonies captures this transition at a critical moment, revealing how traditional shamanic practices serve as a medium through which the community processes and adapts to the forces of modernization.
+The Mazatec Indians of the Sierra Mazateca in Oaxaca, Mexico, have experienced a profound cultural transformation in the twentieth century, moving from relative isolation as a Neolithic agricultural society to increasing integration with modern Mexican national culture. Henry Munn"s documentation of Mazatec mushroom ceremonies captures this transition at a critical moment, revealing how traditional shamanic practices serve as a medium through which the community processes and adapts to the forces of modernization.
 
 ## The Neolithic Baseline
 
@@ -44,7 +44,7 @@ She recognizes that her children must learn Spanish and acquire literacy to func
 
 ### The Arrival of Outsiders
 
-By the time of Munn's fieldwork, foreigners had begun arriving in the high plazas of the Mazatec communities "to experiment with the psychedelic mushrooms." The medicine woman demonstrates an intuitive understanding of the motivations of these visitors:
+By the time of Munn"s fieldwork, foreigners had begun arriving in the high plazas of the Mazatec communities "to experiment with the psychedelic mushrooms." The medicine woman demonstrates an intuitive understanding of the motivations of these visitors:
 
 > "There in their land, it is taken account of, that there is something in these mushrooms, that they are good, of use... She has an inkling of the truth, that what we look for is a cure of our alienations, to be put back in touch, by violent means if necessary, with that original, creative self that has been alienated from us by our middle-class families, education, and corporate world of employment."
 
@@ -54,7 +54,7 @@ This passage is remarkable for its prescience — the medicine woman intuitively
 
 Munn describes the Mazatec children as "people of opposites" who live between two times:
 
-1. **The timeless, cyclical time of recurrence** — the temporal framework of the "People of the Deer" (the Mazatecs' indigenous self-designation), marked by agricultural cycles, seasonal mushroom growth, and the recurrence of ritual practice
+1. **The timeless, cyclical time of recurrence** — the temporal framework of the "People of the Deer" (the Mazatecs" indigenous self-designation), marked by agricultural cycles, seasonal mushroom growth, and the recurrence of ritual practice
 2. **The time of progress, change and development** — the linear temporality of modern Mexico, marked by technological advancement, education, and economic development
 
 These two temporalities create a fundamental tension. The mushroom ceremony itself embodies this duality: while the ritual structure is ancient and cyclical, the content of the shaman's discourse addresses contemporary problems — poverty, education, the arrival of outsiders, and the need to adapt to a changing world.
@@ -75,17 +75,17 @@ A recurring theme in the shamanic discourse is the paradox of poverty amid natur
 
 The Mazatecs live in mountains of extraordinary natural wealth — fertile land, abundant water, lush vegetation — yet suffer from malnutrition and deprivation. The white spots on their red faces caused by vitamin deficiency, the frequent sickness of babies, the diet of beans and tortillas — all testify to poverty that seems inexplicable given the richness of their environment.
 
-The medicine woman's prayer for material well-being — "That come gold and silver," "That come richness, that come well-being" — is not mere greed but a recognition that economic security is necessary for the health and flourishing of her community's children.
+The medicine woman"s prayer for material well-being — "That come gold and silver," "That come richness, that come well-being" — is not mere greed but a recognition that economic security is necessary for the health and flourishing of her community"s children.
 
 ## The Path Metaphor: Navigating Transition
 
 The medicine woman's persistent use of path and walking metaphors takes on special significance in the context of cultural transition:
 
-> "Don't leave us in darkness or blind us... Let us go along the good path. The path of the veins of our blood. The path of the Master of the World. Let us go in a path of happiness."
+> "Don"t leave us in darkness or blind us... Let us go along the good path. The path of the veins of our blood. The path of the Master of the World. Let us go in a path of happiness."
 
 The paths she describes — goodness, vitality, reason, transcendence, and joy — represent the qualities needed to navigate the transition from the old world to the new. The "path of the veins of our blood" suggests that the way forward is not external but internal, rooted in the body and the life force of the community itself.
 
-The return from the mushroom experience mirrors the community's return from the ceremonial space to everyday life:
+The return from the mushroom experience mirrors the community"s return from the ceremonial space to everyday life:
 
 > "We are going to return without mishap, along a fresh path, a good path, a path of good air; in a path through the cornfield, in a path through the stubble, without complaint or any difficulty, we return without mishap."
 

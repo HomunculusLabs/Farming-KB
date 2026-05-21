@@ -1,5 +1,5 @@
 ---
-title: Gangamma's Mandala and Tropical Sustenance Garden
+title: Gangamma"s Mandala and Tropical Sustenance Garden
 source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---

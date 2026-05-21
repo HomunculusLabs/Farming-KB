@@ -26,7 +26,7 @@ New technologies are beginning to address the scaling challenge in fungal ecolog
 
 ## The Ecosystem Concept
 
-Pickett and Cadenasso (2002) discussed evolving ideas about the ecosystem concept, building on Tansley's foundational definition. An ecosystem consists of an assemblage of organisms (the biotic component) and the associated physical environment, with interactions among component parts providing a hierarchical structure through which energy and nutrients flow. Key properties of ecosystems that are relevant to understanding fungal roles include:
+Pickett and Cadenasso (2002) discussed evolving ideas about the ecosystem concept, building on Tansley"s foundational definition. An ecosystem consists of an assemblage of organisms (the biotic component) and the associated physical environment, with interactions among component parts providing a hierarchical structure through which energy and nutrients flow. Key properties of ecosystems that are relevant to understanding fungal roles include:
 
 **Scale independence**: Ecosystems can be defined at any scale, from a decaying log to the entire biosphere. Fungi participate in ecosystem processes at all of these scales.
 

@@ -136,7 +136,7 @@ The 1967 Hobart firestorm provides a compelling case study in survival through p
 - Result: House was blistered and zinc roof coating flaked, but **close-fitted boards were unburnt**
 - Apart from sore eyes and short beards and hair, **little damage resulted**
 
-## The Designer's Responsibility
+## The Designer"s Responsibility
 
 Every [[permaculture]] designer working in fire-prone areas carries the responsibility to:
 - Educate clients and communities about fire risk and survival

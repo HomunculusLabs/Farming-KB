@@ -18,7 +18,7 @@ type: concept
 
 Rheumatoid arthritis (RA) is the most crippling form of arthritis, deforming
 joints and bending bodies. It is considered an autoimmune disorder that occurs
-when something goes wrong with the body's immune system and it attacks healthy
+when something goes wrong with the body"s immune system and it attacks healthy
 parts of the body such as joints. Long-time rheumatoid arthritis sufferers can
 often be identified from a distance because their joints take on a gnarly
 appearance.

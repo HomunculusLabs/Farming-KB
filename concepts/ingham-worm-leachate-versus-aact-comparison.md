@@ -8,7 +8,7 @@ tags:
 
 ## Overview
 
-Elaine Ingham's [[ph-and-nutrient-availability-garden-soils]],
+Elaine Ingham"s [[ph-and-nutrient-availability-garden-soils]],
 and appropriate applications. Understanding these distinctions is essential for
 anyone using biological amendments in agriculture or horticulture.
 

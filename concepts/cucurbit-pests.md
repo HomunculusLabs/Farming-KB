@@ -34,7 +34,7 @@ Their favorite food is cantaloupe and similar melons. They also feed on cucumber
 ### Control Strategies
 
 - **Sow later**: Be a few weeks later than most in your area to sow all cucurbits — lets seedlings get growing more vigorously before beetles arrive
-- **Plant 4 seeds per hill**: Thin to 2 plants per spot only after seedlings have made a true leaf and are growing fast (where beetles aren't a problem, 1 plant per hill is better)
+- **Plant 4 seeds per hill**: Thin to 2 plants per spot only after seedlings have made a true leaf and are growing fast (where beetles aren"t a problem, 1 plant per hill is better)
 - **Row covers**: Protect each hill of emerging seedlings under a carefully anchored [[floating-row-cover]] until plants begin blooming, then remove to allow bee pollination
 - **[[comparison-free-living-vs-parasitic-nematodes]]**: Control larvae if applied by mixing into soil when seedlings are small
 - **Avoid excessive nutrients**: Make seedlings less succulent and thus less attractive

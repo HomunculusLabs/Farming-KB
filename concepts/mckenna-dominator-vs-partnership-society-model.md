@@ -8,7 +8,7 @@ type: concept
 tags: [reference]
 ---
 
-## McKenna's Dominator vs Partnership Society Model
+## McKenna"s Dominator vs Partnership Society Model
 
 In [[mckenna-psychedelic-plant-use-in-antiquity]]
 through [[fukuoka-western-eastern-philosophy-agriculture]] calls the Tao.

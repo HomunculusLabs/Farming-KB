@@ -10,7 +10,7 @@ created: 2026-05-08
 ## Overview
 
 The use of psychedelic substances in psychotherapy spans more than seven decades,
-from the discovery of LSD's psychoactive properties in 1943 through the
+from the discovery of LSD"s psychoactive properties in 1943 through the
 contemporary renaissance of psychedelic-assisted therapy. Ralph Metzner, who
 worked with Timothy Leary and [[metzner-psycholytic-psychedelic-therapy-models]] invariably involves a
    profoundly expanded state of consciousness, in which individuals may

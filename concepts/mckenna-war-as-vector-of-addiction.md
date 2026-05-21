@@ -16,7 +16,7 @@ into soldiers wounded in the American Civil War.
 
 The result was significant addict populations in both Europe and the United
 States. So many Civil War veterans returned home addicted to injectable morphine
-that journalists called morphine addiction "the soldier's disease."
+that journalists called morphine addiction "the soldier"s disease."
 
 ## The Franco-Prussian War
 
@@ -46,7 +46,7 @@ financial interests manipulated the situation into open warfare:
 - The Treaty of Tientsin eventually legalized the Chinese opium traffic.
 
 McKenna called this "capitalistic terrorism and true drug enslavement on a mass
-scale." The pattern established by England's opium diplomacy became the model
+scale." The pattern established by England"s opium diplomacy became the model
 for twentieth-century government collusion in international drug trafficking.
 
 ## War, Intelligence, and the Modern Drug Trade

@@ -16,7 +16,6 @@ sources:
     Aspergillaceae." Phytopathologische Zeitschrift.
     and analytical-methods-psilocybin-psilocin-quantification." Folia Microbiologica.
 created: 2026-04-28---
----
 
 ## Overview
 

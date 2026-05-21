@@ -8,13 +8,13 @@ type: concept
 
 ## Overview
 
-Cungatuya is a serious shamanic illness in Amazonian medicine transmitted through contaminated water. The disease is caused when a sorcerer dispatches his *mashu* (bat) to drop its *yachay* (magical phlegm) into a victim's water supply. The victim becomes progressively weaker, unable to ingest any nutrition, and ultimately dies. Cungatuya can also be contracted when the same bat drops its saliva into drinking water left uncovered — a mundane lapse in hygiene that becomes, in the shamanic framework, a vector for lethal sorcery.
+Cungatuya is a serious shamanic illness in Amazonian medicine transmitted through contaminated water. The disease is caused when a sorcerer dispatches his *mashu* (bat) to drop its *yachay* (magical phlegm) into a victim"s water supply. The victim becomes progressively weaker, unable to ingest any nutrition, and ultimately dies. Cungatuya can also be contracted when the same bat drops its saliva into drinking water left uncovered — a mundane lapse in hygiene that becomes, in the shamanic framework, a vector for lethal sorcery.
 
 The name *cungatuya* (also rendered *cuncatuya* in some accounts) belongs to the Quechua-influenced medical lexicon of the Peruvian Amazon. It illustrates a core principle of [[multiple-realities-spirit-beings-shamanic-worldview-metzner]], where the boundary between natural and supernatural causation is permeable.
 
 ## Pathology and Symptoms
 
-The disease produces worms that reproduce within the body, suck blood, and when mature, act as ticks that open wounds in the throat. These throat wounds prevent the victim from eating or drinking, leading to progressive weakness and death by starvation and dehydration. The worms are visualized in the visions as developing in "wheels of phlegm" — a graphic representation of the disease's progression.
+The disease produces worms that reproduce within the body, suck blood, and when mature, act as ticks that open wounds in the throat. These throat wounds prevent the victim from eating or drinking, leading to progressive weakness and death by starvation and dehydration. The worms are visualized in the visions as developing in "wheels of phlegm" — a graphic representation of the disease"s progression.
 
 The disease agent is described as "awful" and "malignant," and its severity is amplified by an entire ecosystem of malevolent animals and spirits that the sorcerer deploys to intensify the spell:
 

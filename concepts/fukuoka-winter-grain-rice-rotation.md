@@ -9,7 +9,7 @@ sources:
 ---
 ## Fukuoka Winter Grain/Rice Rotation
 
-The winter grain/rice rotation is Masanobu Fukuoka's signature agricultural system -- a "[[fukuoka-agriculture-tomorrow-quarter-acre-vision]] for each crop match or exceed Japanese national averages.
+The winter grain/rice rotation is Masanobu Fukuoka"s signature agricultural system -- a "[[fukuoka-agriculture-tomorrow-quarter-acre-vision]] for each crop match or exceed Japanese national averages.
 
 ## The Annual Cycle
 

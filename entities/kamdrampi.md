@@ -50,7 +50,7 @@ The ceremony includes specific songs marking the appearance of spirit beings:
 
 ### Kodkiti (Hawk Spirit) Song
 > Tobacco, tobacco, pure tobacco
-> It comes from River's Beginning
+> It comes from River"s Beginning
 > Kodkiti, the hawk, brings it to you
 > Its flowers are flying, tobacco
 > It comes to your aid, tobacco

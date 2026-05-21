@@ -6,7 +6,7 @@ tags:
 
 The recycling of human waste for agricultural use is one of the most
 controversial yet potentially valuable practices in [[steve-solomon]] addresses it directly in *Gardening When It Counts*, drawing
-on Joseph Jenkins' *The Humanure Handbook* and his own wife's childhood
+on Joseph Jenkins" *The Humanure Handbook* and his own wife's childhood
 experience growing up on a Tasmanian homestead where humanure was the
 standard garden fertilizer. While the subject provokes instinctive
 revulsion in many, Solomon argues that the practice is safe, practical,

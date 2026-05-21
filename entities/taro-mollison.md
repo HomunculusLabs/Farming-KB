@@ -9,7 +9,7 @@ tags: [root-crop, staple-food, permaculture, tropical-agriculture, aroid]
 
 ## Description
 
-Taro is a tropical root crop mentioned by [[permaculture]]: A Designers' Manual* as one of the fail-safe subsistence crops that "hold constant value" in diverse agricultural systems. It is a starchy corm crop that has been cultivated for thousands of years across the tropics and subtropics, serving as a dietary staple for millions of people worldwide.
+Taro is a tropical root crop mentioned by [[permaculture]]: A Designers" Manual* as one of the fail-safe subsistence crops that "hold constant value" in diverse agricultural systems. It is a starchy corm crop that has been cultivated for thousands of years across the tropics and subtropics, serving as a dietary staple for millions of people worldwide.
 
 ## Classification
 

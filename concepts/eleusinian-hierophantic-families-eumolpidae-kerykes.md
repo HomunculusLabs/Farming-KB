@@ -9,7 +9,7 @@ sources:
 ---
 ## Eleusinian Hierophantic Families — Eumolpidae and Kerykes
 
-**Source:** The [[mckenna-food-of-the-gods-kykeon-and-eleusinian-mysteries]] were administered for over a thousand years by two hereditary families — the Eumolpidae and the Kerykes — who controlled access to the sacred knowledge, managed the sanctuary, and held the exclusive right to perform the rites. Their continuity and secrecy were fundamental to the Mysteries' survival across the rise and fall of empires.
+**Source:** The [[mckenna-food-of-the-gods-kykeon-and-eleusinian-mysteries]] were administered for over a thousand years by two hereditary families — the Eumolpidae and the Kerykes — who controlled access to the sacred knowledge, managed the sanctuary, and held the exclusive right to perform the rites. Their continuity and secrecy were fundamental to the Mysteries" survival across the rise and fall of empires.
 
 ## The Eumolpidae
 

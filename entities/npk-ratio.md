@@ -8,7 +8,7 @@ type: entity
 
 ## Description
 
-The NPK ratio is the three-number system printed on every fertilizer package worldwide, representing the percentage by weight of three primary macronutrients: nitrogen (N), phosphorus (P), and potassium (K). Originating from the application of Von Liebig's Law of the Minimum in the mid-1800s, the NPK ratio became the standard for fertilizer labeling after it was discovered that these three elements are used by plants in the greatest quantities and are the nutrients most likely to be depleted in agricultural soils. A fertilizer labeled 10-10-10 contains 10% nitrogen, 10% phosphorus, and 10% potassium by weight.
+The NPK ratio is the three-number system printed on every fertilizer package worldwide, representing the percentage by weight of three primary macronutrients: nitrogen (N), phosphorus (P), and potassium (K). Originating from the application of Von Liebig"s Law of the Minimum in the mid-1800s, the NPK ratio became the standard for fertilizer labeling after it was discovered that these three elements are used by plants in the greatest quantities and are the nutrients most likely to be depleted in agricultural soils. A fertilizer labeled 10-10-10 contains 10% nitrogen, 10% phosphorus, and 10% potassium by weight.
 
 ## Classification
 

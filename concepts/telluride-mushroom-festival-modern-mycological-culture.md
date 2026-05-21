@@ -27,7 +27,7 @@ with mushrooms.
 
 Every day there are forays, a chance to wander off into the
 surrounding forests and collect mushroom specimens, with an expert on
-hand to help with identification. The day's pickings are diligently
+hand to help with identification. The day"s pickings are diligently
 wrapped in wax paper and carried back to the town centre, where they
 are formally identified, labelled and laid out in a marquee for all to
 see. Some of America's top mycologists lecture on all aspects of

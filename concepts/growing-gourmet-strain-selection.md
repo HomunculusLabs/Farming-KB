@@ -19,7 +19,7 @@ When a mushroom is brought into culture from the wild, little is known about its
 Many mushrooms continue to enlarge, flatten, and produce spores after picking. This places growers and distant distributors into opposing viewpoints about quality. P. pulmonarius "sajor-caju" is described as "biologically out-of-control" in this regard.
 
 ### 19. Necrosis Factors
-After picking, tissue remnants become attack sites for predator insects and parasitic molds. Shiitake's woody stem browns and hardens, forming a protective coat. P. ostreatus lacks this defense, requiring that no dead tissue remain during harvest.
+After picking, tissue remnants become attack sites for predator insects and parasitic molds. Shiitake"s woody stem browns and hardens, forming a protective coat. P. ostreatus lacks this defense, requiring that no dead tissue remain during harvest.
 
 ### 20. Genetic Stability/Instability
 Since all strains eventually senesce, genetic stability is of paramount concern. A strain dying shows inability to colonize media, produce primordia, or develop healthy mushrooms.

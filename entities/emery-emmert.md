@@ -20,7 +20,7 @@ Dr. Emery Myers Emmert (1900–1962) was a University of Kentucky professor ackn
 - Professor at the University of Kentucky specializing in horticulture
 - Pioneered the use of polyethylene plastics in greenhouse construction during the 1950s
 - Invented or refined row covers, plastic mulch, and inner-layer systems for unheated winter houses
-- His field greenhouses and row covers became the direct models for today's high tunnels and low tunnels
+- His field greenhouses and row covers became the direct models for today"s high tunnels and low tunnels
 - Published extensively on low-cost plastic greenhouses and related techniques
 
 ## Selected Publications
@@ -33,7 +33,7 @@ Dr. Emery Myers Emmert (1900–1962) was a University of Kentucky professor ackn
 
 ## Relevance to Cultivation
 
-Emmert's innovations are foundational to modern protected cultivation. Every grower using high tunnels, low tunnels, floating row covers, or plastic mulch is building on his work. [[eliot-coleman]] explicitly credits Emmert as the model for the systems used at [[four-season-farm]], noting that "every supposedly new idea in agriculture has been explored before by someone else." His work demonstrated that low-cost plastic structures could extend growing seasons dramatically without expensive glass greenhouses or fossil-fuel heating.
+Emmert"s innovations are foundational to modern protected cultivation. Every grower using high tunnels, low tunnels, floating row covers, or plastic mulch is building on his work. [[eliot-coleman]] explicitly credits Emmert as the model for the systems used at [[four-season-farm]], noting that "every supposedly new idea in agriculture has been explored before by someone else." His work demonstrated that low-cost plastic structures could extend growing seasons dramatically without expensive glass greenhouses or fossil-fuel heating.
 
 ## Legacy
 

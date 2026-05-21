@@ -47,7 +47,7 @@ This approach focuses on mapping the **pulsatile component** of transport that w
 Since PCSI precludes separate bright-field imaging (due to the white scintillation screen), colony growth must be estimated from the scintillation image itself. This is achieved through:
 
 1. **Contrast-Limited Adaptive Histogram Equalization (CLAHE):** Enhances contrast in the scintillation image to distinguish mycelial areas from background
-2. **Automated Grey-Scale Thresholding (Otsu's method):** Segments the image into mycelial and background regions
+2. **Automated Grey-Scale Thresholding (Otsu"s method):** Segments the image into mycelial and background regions
 3. **Validation:** The approach has been validated against bright-field images of colonies grown across Mylar film (1.5 mm thick) against a black background, showing very good correspondence
 
 ## Colony Growth Phases

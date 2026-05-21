@@ -12,7 +12,7 @@ mined: 2026-05-11
 
 The human body produces at least five distinct endogenous cannabinoids
 (endocannabinoids) that serve as signaling molecules within the endocannabinoid
-system (ECS). While anandamide (AEA) and 2-AG are the most studied, Blesching's
+system (ECS). While anandamide (AEA) and 2-AG are the most studied, Blesching"s
 *[[cannabinoid-receptors-cb1-cb2]]. Each has unique binding
 profiles, biosynthetic pathways, and [[anandamide-bliss-molecule]]" (from the Sanskrit *ananda*, meaning bliss). It binds with
 relatively equal affinity to both CB1 and CB2 receptors. Anandamide enhances

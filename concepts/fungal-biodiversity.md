@@ -95,7 +95,7 @@ Different fungal groups demand entirely different detection and identification m
 | Wood-inhabiting fungi | Slow-growing, long-lived | Long-term plot monitoring |
 | Insect-associated fungi | Require host collection | Insect trapping, rearing |
 
-### Why Standard Methods Don't Exist
+### Why Standard Methods Don"t Exist
 
 - No single site on Earth has been comprehensively surveyed for fungi
 - In temperate areas, expect ~6x as many fungi as native plant species

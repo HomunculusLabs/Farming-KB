@@ -3,7 +3,7 @@ title: "Elderberry vs Chamomile"
 tags: [comparison, elderberry, chamomile, medicinal-herbs, herbal-medicine]
 date: 2026-05-14
 updated: 2026-05-14
-sources: ['raw/papers/working-with-agar.md']
+sources: ["raw/papers/working-with-agar.md']
 ---
 
 ## Elderberry vs Chamomile

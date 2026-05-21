@@ -33,7 +33,7 @@ See [[soil-fertility-management]] for detailed pH management. Key points:
 - **6.0–6.8**: Optimal for most vegetables and cannabis. Maximum nutrient availability on the availability chart.
 - **< 5.5**: Aluminum and manganese toxicity risk. Liming needed.
 - **> 7.5**: Iron, manganese, zinc, boron become unavailable. Sulfur or elemental sulfur needed.
-- **Living soil note**: The [[soil-food-web-nutrient-cycling]] buffers pH. Microbial respiration produces organic acids that moderate swings. But starting pH still matters — biology can't fix a pH of 4.5.
+- **Living soil note**: The [[soil-food-web-nutrient-cycling]] buffers pH. Microbial respiration produces organic acids that moderate swings. But starting pH still matters — biology can"t fix a pH of 4.5.
 
 ## CEC (Cation Exchange Capacity)
 

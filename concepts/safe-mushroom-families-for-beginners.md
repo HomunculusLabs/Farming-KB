@@ -25,7 +25,7 @@ and should not be eaten. Otherwise, Palmer advised eating it without fear.
 He noted several smaller varieties that he ate "indiscriminately" and stated his
 belief that all white puffballs could be safely used if cooked immediately after
 gathering. The critical caveat was freshness: puffballs change very rapidly
-after collection and should only be eaten in their freshest state. Palmer's
+after collection and should only be eaten in their freshest state. Palmer"s
 assurance that "there is no poisonous fungus resembling them" holds true with
 one important modern caveat — the young button stage of the deadly *Amanita*
 species can superficially resemble a small puffball. However, slicing any
@@ -65,9 +65,9 @@ toxic.
 
 ## The Maned Mushroom (Coprinus comatus)
 
-The maned or shaggy ink cap (*[[coprinus-comatus]]*) was Palmer's personal favorite
+The maned or shaggy ink cap (*[[coprinus-comatus]]*) was Palmer"s personal favorite
 for beginners because it had "no poisonous counterpart." When fit for food, it
-is shaped like a turtle's egg — ovate and alike at each end. The cap is brown
+is shaped like a turtle"s egg — ovate and alike at each end. The cap is brown
 and smooth, but toward the base the outer skin ruffles up into a white mane or
 fringe of concentric layers. The stem is hollow and, when cut, appears like
 macaroni as it cooks. A ring around the stem is movable in well-developed
@@ -98,7 +98,7 @@ The Russula family was considered "quite a safe one for beginners,"
 distinguished by its extreme brittleness. Unlike the common mushroom, whose
 gills are pliable and flesh can be bent without breaking, the Russulae snap
 suddenly when bent and their gills break into small pieces rather than matting
-down. Palmer's rule was: if the specimen exudes milk or juice when cut, reject
+down. Palmer"s rule was: if the specimen exudes milk or juice when cut, reject
 it. If perfectly dry, taste a small piece — non-edible Russulae will bite and
 sting the tongue, while all edible varieties are tasteless, mild, or have the
 flavor of chestnuts.

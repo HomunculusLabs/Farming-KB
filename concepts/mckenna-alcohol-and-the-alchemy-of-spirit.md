@@ -25,7 +25,7 @@ Honey is a magical substance — a medicinal substance in all traditional cultur
 
 ## Key Points
 
-- McKenna's analysis connects psychoactive plant use to fundamental patterns in human cultural evolution
+- McKenna"s analysis connects psychoactive plant use to fundamental patterns in human cultural evolution
 - The stoned [[mckenna-dominator-culture-and-suppression-of-ecstasy]] draws on both anthropological evidence and contemporary political analysis
 - The [[mckenna-dissolution-of-the-dominator-culture]] and the [[psychedelic-mushroom-history]]
 - [[mckenna-dissolution-of-the-dominator-culture]]

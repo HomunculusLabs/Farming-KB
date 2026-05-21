@@ -45,7 +45,7 @@ Extended families operate through several interlocking financial mechanisms:
 The family fund, held in two or three locations and convertible to a variety of currencies, is managed by a few individuals as a full-time job. All savings and contributions are accounted to individuals and available as loans across all currencies and regions, functioning like a credit union or revolving fund for the extended family network.
 
 ### Annual Membership Fund
-Invested with the interest used to service the registry, publish the newsletter, and pay part-time or full-time wages to a collator — the person who maintains the network's communication and coordination.
+Invested with the interest used to service the registry, publish the newsletter, and pay part-time or full-time wages to a collator — the person who maintains the network"s communication and coordination.
 
 ### Children's Permanent Fund
 All adults (age 17 or over) contribute an initial amount (e.g., $50) to this non-returnable fund, with additional gifts encouraged. The fund is managed alongside the Common Enterprise Fund for essential child-oriented ventures or education. Each mother or mother-to-be encourages five or six support people to contribute donations and agree to help in other ways. Until age 12, parents can apply for loans, and thereafter (until age 17) the children can themselves apply, after which they are recognized as adults.

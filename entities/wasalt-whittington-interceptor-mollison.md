@@ -6,7 +6,7 @@ type: entity
 
 ## Description
 
-W.A.S.A.L.T. is an acronym for the **Whittington Interceptor Salt-Affected Land Treatment Society**, a farmer-led organisation founded in March 1978 in Brookton, West Australia. The society was established by Harry Whittington, who developed a practical field-based theory of desertification centred on soil collapse rather than simple deforestation. W.A.S.A.L.T. trains consultants and contractors in the construction of interceptor banks -- carefully engineered earthworks designed to halt and reverse desertification on farmland. At the time of Mollison's writing, the society had 4,100 farmer-members.
+W.A.S.A.L.T. is an acronym for the **Whittington Interceptor Salt-Affected Land Treatment Society**, a farmer-led organisation founded in March 1978 in Brookton, West Australia. The society was established by Harry Whittington, who developed a practical field-based theory of desertification centred on soil collapse rather than simple deforestation. W.A.S.A.L.T. trains consultants and contractors in the construction of interceptor banks -- carefully engineered earthworks designed to halt and reverse desertification on farmland. At the time of Mollison"s writing, the society had 4,100 farmer-members.
 
 ## Classification
 

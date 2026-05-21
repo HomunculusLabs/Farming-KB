@@ -39,7 +39,7 @@ remains tentative and uncertain. Fukuoka compared this to the
 school of swordsmanship known as the one-stroke school, which seeks
 victory through skillful yet self-conscious application of technique.
 
-Modern industrial farming, in Fukuoka's framework, follows the
+Modern industrial farming, in Fukuoka"s framework, follows the
 two-stroke school -- the belief that victory can be won by
 delivering the greatest barrage of sword strokes. It desires
 heaven's wisdom without grasping its meaning and simultaneously

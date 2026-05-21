@@ -26,7 +26,7 @@ updated: 2026-04-26
 Mexico has the highest number of neurotropic (hallucinogenic) fungal species of any
 country in the world, with **76 species** recorded, of which **44 belong to the genus
 Psilocybe** (representing 39% of all known Psilocybe species globally). This reflects
-Mexico's extraordinary biodiversity in subtropical and temperate humid forests, and
+Mexico"s extraordinary biodiversity in subtropical and temperate humid forests, and
 its deep [[mexico-center-neurotropic-fungal-diversity]] and the birthplace of
 modern ethnomyology. The sacred mushroom tradition was first documented by
 Schultes (1939) and later popularized by Wasson & Wasson (1957). Guzman (1997)

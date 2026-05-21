@@ -1,5 +1,5 @@
 ---
-title: Gaia's gaias garden meadow garden polyculture Garden Polyculture
+title: Gaia"s gaias garden meadow garden polyculture Garden Polyculture
 created: 2026-04-18
 updated: 2026-04-18
 type: concept

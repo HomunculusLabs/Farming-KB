@@ -14,13 +14,13 @@ In "The Road Back to Nature," Masanobu Fukuoka envisions a radical reorganizatio
 
 ## The Quarter-Acre Vision
 
-Fukuoka calculates that if Japan's 120 million people spread out over the 15 million acres of arable land, "that's a quarter-acre for each of the 60 million households. Without using machinery, they could build a house on that plot of land and grow everything they need there -- vegetables, fruit, grains."
+Fukuoka calculates that if Japan"s 120 million people spread out over the 15 million acres of arable land, "that"s a quarter-acre for each of the 60 million households. Without using machinery, they could build a house on that plot of land and grow everything they need there -- vegetables, fruit, grains."
 
 "A quarter-acre of land is certainly adequate for growing the food a family needs to live." He adds fuel self-sufficiency: "by planting a single [[fukuoka-creating-natural-farm-site-selection-establishment]]. If nothing but heretics gathered together on this farm, perhaps one or two might win the favor of this world."
 
 He cites a Buddhist teaching: "The scoundrel in a bind is easier to save than the virtuous man who seems to know it all."
 
-## The Farm's Future Without Him
+## The Farm"s Future Without Him
 
 "I have closed my farm to students, however, and for the most part stopped receiving visitors." His reasoning is not retirement but hope: "Even without anyone running it, the farm should go on improving naturally. I believe that what I have done up until now is to create the opportunity for a farm ruined by [[fukuoka-mu-economics]] (alternative economics), and [[fukuoka-quarter-acre-farmer-do-nothing-farming]]
 - [[masanobu-fukuoka]]

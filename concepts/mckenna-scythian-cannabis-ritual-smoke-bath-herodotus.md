@@ -13,7 +13,7 @@ sources:
   - "[McKenna, Food of the Gods (1992)]"
 ---
 
-## Scythian Cannabis Rituals and Herodotus's Smoke Bath Accounts
+## Scythian Cannabis Rituals and Herodotus"s Smoke Bath Accounts
 
 The Scythians, a nomadic central Asian people who entered eastern Europe around
 700 B.C., hold a pivotal place in the history of cannabis as the culture that
@@ -39,7 +39,7 @@ first was a kind of cannabis sweat lodge ceremony:
 This passage is remarkable for several reasons. It describes a ritual technology
 that closely parallels Indigenous American sweat lodge ceremonies, suggesting
 that the combination of shamanic
-practice. The Scythians' use of heated stones to volatilize [[query-how-to-germinate-cannabis-seeds]]
+practice. The Scythians" use of heated stones to volatilize [[query-how-to-germinate-cannabis-seeds]]
 created what Herodotus explicitly compared to Greek vapor baths -- but with an
 intensity that surpassed any Greek equivalent. The participants' transport was
 so complete that they "shout aloud," conveying the ecstatic communal nature of
@@ -59,7 +59,7 @@ Herodotus described a second, complementary method of Scythian cannabis use:
 
 This second method is more social than the sweat lodge, yet shares the
 fundamental principle of communal inhalation. The Scythians sit in circles
-around a fire, throwing cannabis fruit onto the flames. Herodotus's comparison
+around a fire, throwing cannabis fruit onto the flames. Herodotus"s comparison
 to Greek wine-drinking is telling: cannabis served the same social and ritual
 function for the Scythians that wine did for the Greeks. The progression from
 intoxication to dance and song indicates an experience moving beyond mere
@@ -68,7 +68,7 @@ observed, is what the Scythians did *not* invent. Despite having discovered
 that "inhaling the smoke of cannabis was the most effective way to enjoy it,"
 the Scythians "were unable to make the creative leap to the invention of the
 pipe or chelum." They had the essential insight -- that combustion and
-inhalation delivered the plant's psychoactive properties more efficiently than
+inhalation delivered the plant"s psychoactive properties more efficiently than
 oral ingestion -- but never developed the technology for convenient, portable
 use.
 

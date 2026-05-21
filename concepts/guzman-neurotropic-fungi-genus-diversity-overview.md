@@ -20,7 +20,7 @@ Wood-inhabiting fungi, some of which have been confirmed to contain psilocybin. 
 
 ### Pluteus Fr. — 6 species
 
-A genus of wood-inhabiting saprotrophs that includes several psilocybin-containing species, primarily in temperate forests. *[[guzman-panaeolina-foenisecii-psilocybin-controversy-conflicting-chemical-analyses]]* (the haymaker's mushroom) is common in lawns worldwide, though its psilocybin content is generally low and variable.
+A genus of wood-inhabiting saprotrophs that includes several psilocybin-containing species, primarily in temperate forests. *[[guzman-panaeolina-foenisecii-psilocybin-controversy-conflicting-chemical-analyses]]* (the haymaker"s mushroom) is common in lawns worldwide, though its psilocybin content is generally low and variable.
 
 ## Additional Genera with Reported Psychoactive Properties
 

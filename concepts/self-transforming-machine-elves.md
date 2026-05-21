@@ -18,7 +18,7 @@ contorting topological modules that appear during the peak of a [[mckenna-glosso
   in ordinary consciousness.
 - **Playfulness**: The entities evoke the 24th fragment of Heraclitus: "The Aeon
   is a child at play with colored balls." McKenna felt he became the Aeon at play.
-- **Instruction**: They repeatedly urge the experiencer: "Don't be alarmed. Remember,
+- **Instruction**: They repeatedly urge the experiencer: "Don"t be alarmed. Remember,
   and do what we are doing." They discourage loops of wonder that would quench
   understanding.
 

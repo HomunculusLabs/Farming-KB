@@ -11,7 +11,7 @@ created: 2026-05-14
 
 The Psychedelic Experience Bardo Framework is a structured model for understanding and navigating psychedelic experiences, developed by [[timothy-leary]], Ralph Metzner, and Richard Alpert in their 1964 book *The Psychedelic Experience: A Manual Based on the Tibetan Book of the Dead*. The framework maps the stages of a psychedelic session onto the Bardo Thodol (Tibetan Book of the Dead), reinterpreting the ancient Tibetan text as a guide for the [[shamanism-death-and-rebirth]] of consciousness rather than the physical body.
 
-The book is dedicated to Aldous Huxley (1894–1963), whose earlier work *The Doors of Perception* explored the nature of [[mckenna-consciousness-expansion-and-drug-war]] the concept of the "Clear Light" — the luminous ground of awareness underlying ordinary perception. Huxley's writing directly influenced the authors' approach, particularly his argument that most people require guidance to recognize and remain in contact with the Clear Light during altered states.
+The book is dedicated to Aldous Huxley (1894–1963), whose earlier work *The Doors of Perception* explored the nature of [[mckenna-consciousness-expansion-and-drug-war]] the concept of the "Clear Light" — the luminous ground of awareness underlying ordinary perception. Huxley"s writing directly influenced the authors' approach, particularly his argument that most people require guidance to recognize and remain in contact with the Clear Light during altered states.
 
 ## Historical Context
 
@@ -31,7 +31,7 @@ They emphasize that such experiences are available through multiple pathways: se
 
 ## Set and Setting
 
-The framework's most influential and enduring contribution to psychedelic science is its formal articulation of the **set and setting** model, which holds that the nature of a psychedelic experience is primarily determined by two categories of variables:
+The framework"s most influential and enduring contribution to psychedelic science is its formal articulation of the **set and setting** model, which holds that the nature of a psychedelic experience is primarily determined by two categories of variables:
 
 ### Set (Internal Factors)
 
@@ -65,7 +65,7 @@ The authors describe this as the most liberated phase of the experience. For exp
 
 The Chonyid Bardo is the phase of self or external "game reality" — the emergence of visions, hallucinations, and karmic apparitions. This stage is characterized by sharp clarity of perception and the appearance of intensely vivid imagery, symbolic content, and emotional landscapes.
 
-For most people, the Chonyid Bardo is the longest phase of the psychedelic experience. The visions encountered here are understood in the Tibetan tradition as projections of one's own mental content — karmic patterns, unresolved psychological material, and the contents of the unconscious mind rendered in sensory form. The quality of these visions (peaceful or wrathful, beautiful or terrifying) depends largely on the individual's set and their degree of psychological preparation.
+For most people, the Chonyid Bardo is the longest phase of the psychedelic experience. The visions encountered here are understood in the Tibetan tradition as projections of one"s own mental content — karmic patterns, unresolved psychological material, and the contents of the unconscious mind rendered in sensory form. The quality of these visions (peaceful or wrathful, beautiful or terrifying) depends largely on the individual's set and their degree of psychological preparation.
 
 ### 3. Sidpa Bardo — Return to Game Reality
 
@@ -73,7 +73,7 @@ The Sidpa Bardo represents the return to routine, ordinary reality and the recon
 
 ## The Bardo Thodol as Source Material
 
-The *Bardo Thodol* (Tibetan: བར་དོ་ཐོགས་གཏོ, "Liberation by Hearing on the After-Death Plane") is a Tibetan Buddhist text from the Nyingma tradition, traditionally read aloud to the deceased to guide them through the intermediate state (bardo) between death and rebirth. The authors reinterpret the text's esoteric meaning: it describes the death and rebirth of consciousness itself, not merely of the physical body.
+The *Bardo Thodol* (Tibetan: བར་དོ་ཐོགས་གཏོ, "Liberation by Hearing on the After-Death Plane") is a Tibetan Buddhist text from the Nyingma tradition, traditionally read aloud to the deceased to guide them through the intermediate state (bardo) between death and rebirth. The authors reinterpret the text"s esoteric meaning: it describes the death and rebirth of consciousness itself, not merely of the physical body.
 
 In the Tibetan tradition, the Bardo Thodol was designed to be understood only by those who had been initiated by a guru into pre-mortem death-rebirth experiences. The authors extend this principle to psychedelic sessions, positioning the guide or sitter as a modern equivalent of the guru who reads instructional passages to the voyager during the experience.
 

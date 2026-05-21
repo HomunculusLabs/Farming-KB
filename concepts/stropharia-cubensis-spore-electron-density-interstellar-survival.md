@@ -19,7 +19,7 @@ organic substances known. These properties, McKenna argued, are
 precisely what would be needed for biological material to survive
 the conditions of interstellar space.
 
-## The Mushroom's Self-Description
+## The Mushroom"s Self-Description
 
 McKenna frames this hypothesis as coming directly from the mushroom
 itself during tryptamine experiences:
@@ -28,7 +28,7 @@ itself during tryptamine experiences:
 extraterrestrial organism, that spores can survive the conditions
 of interstellar space."
 
-He acknowledges the epistemological difficulty: "I don't necessarily
+He acknowledges the epistemological difficulty: "I don"t necessarily
 believe what the mushroom tells me; rather we have a dialogue. It
 is a very strange person and has many bizarre opinions."
 
@@ -90,7 +90,7 @@ the enormous numbers produced by fungal fruiting bodies.
 McKenna supports his hypothesis with a paleontological observation:
 "There are no fungi in the fossil record older than forty million
 years." The conventional explanation is that fungi are soft-bodied
-and don't fossilize well. McKenna counters that fossilized soft-
+and don"t fossilize well. McKenna counters that fossilized soft-
 bodied organisms (worms, benthic invertebrates) exist in South
 African gunflint chert dated to over a billion years.
 

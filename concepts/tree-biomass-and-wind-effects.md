@@ -30,7 +30,7 @@ A large tree has from 10,000 to 100,000 growing points or meristems, and each is
 
 ### Aerodynamic Response
 
-As wind speed increases, the tree's leaves and branches deform so that the tree steadily reduces its exposed leaf area. At very high wind speeds (in excess of 32 m/sec), the interception of light, efficient water use, [[thermal-belts-thermosiphons-and-convective-heat]] dissipation become secondary to the tree's survival. Different tree species employ different strategies:
+As wind speed increases, the tree"s leaves and branches deform so that the tree steadily reduces its exposed leaf area. At very high wind speeds (in excess of 32 m/sec), the interception of light, efficient water use, [[thermal-belts-thermosiphons-and-convective-heat]] dissipation become secondary to the tree's survival. Different tree species employ different strategies:
 
 - **Heavy rigid trees** spread wide root mats and rely on their weight, withstanding considerable wind force with minimal attachment beyond what prevents sliding
 - **Other trees** insert gnarled roots deep in rock crevices and are literally anchored to the ground

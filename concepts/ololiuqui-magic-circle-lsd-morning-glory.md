@@ -14,7 +14,7 @@ Hofmann describes his investigation of ololiuqui—the Aztec name for morning gl
 
 ### Identification of Active Principles
 
-Hofmann's chemical analysis of ololiuqui seeds (from *Rivea corymbosa* and *Ipomoea violacea*) revealed that their active constituents were lysergic acid amide (LSA) and lysergic acid hydroxyethylamide (LHSA)—compounds that Hofmann had already synthesized in his Basel laboratory as part of his systematic study of lysergic acid derivatives.
+Hofmann"s chemical analysis of ololiuqui seeds (from *Rivea corymbosa* and *Ipomoea violacea*) revealed that their active constituents were lysergic acid amide (LSA) and lysergic acid hydroxyethylamide (LHSA)—compounds that Hofmann had already synthesized in his Basel laboratory as part of his systematic study of lysergic acid derivatives.
 
 This meant that Mesoamerican cultures had independently discovered psychoactive lysergic acid derivatives centuries before Hofmann's laboratory work. The "magic circle" was complete: from ergot alkaloids to synthetic LSD to indigenous ololiuqui and back.
 
@@ -22,11 +22,11 @@ This meant that Mesoamerican cultures had independently discovered psychoactive 
 
 "Moreover, the psychic effects of ololiuhqui, in fact, differ from those of LSD in that the euphoric and the hallucinogenic components are less pronounced, while a sensation of mental emptiness, often anxiety and depression, predominates."
 
-This profile is consistent with Hofmann's earlier finding that removing ethyl groups from the LSD amide shifts the effect from psychedelic to narcotic. LSA, with no ethyl groups, produces a qualitatively different and generally less desirable experience than LSD.
+This profile is consistent with Hofmann"s earlier finding that removing ethyl groups from the LSD amide shifts the effect from psychedelic to narcotic. LSA, with no ethyl groups, produces a qualitatively different and generally less desirable experience than LSD.
 
 ### Physical Effects
 
-"Furthermore, weariness and lassitude are hardly desirable effects as traits in anebriant." The sedative and physically depressant qualities of ololiuqui limited its appeal in the modern recreational drug context: "These could all be reasons why the drug culture's interest in the morning glory seeds has diminished."
+"Furthermore, weariness and lassitude are hardly desirable effects as traits in anebriant." The sedative and physically depressant qualities of ololiuqui limited its appeal in the modern recreational drug context: "These could all be reasons why the drug culture"s interest in the morning glory seeds has diminished."
 
 ### Potential Medical Applications
 
@@ -40,7 +40,7 @@ Hofmann describes the ololiuqui investigation as forming "a circle, one could al
 
 1. **Ergot alkaloids**: Natural products studied at Sandoz, including ergobasine
 2. **Synthetic lysergic acid amides**: Including LSD-25, the twenty-fifth derivative
-3. **LSD's hallucinogenic properties**: Leading to investigation of other hallucinogenic plants
+3. **LSD"s hallucinogenic properties**: Leading to investigation of other hallucinogenic plants
 4. **Discovery of psilocybin**: In Mexican sacred mushrooms (Wasson's expedition)
 5. **Discovery of LSA**: In Mexican morning glory seeds (ololiuqui)
 6. **Return to lysergic acid amide**: The compound synthesized in step 2, now found in nature
@@ -51,19 +51,19 @@ This circuit demonstrated that indigenous pharmacological traditions and Europea
 
 ### The "Superimposition of Thousands of Layers"
 
-Wasson's description of his mushroom experience includes: "a superimposition of thousands of layers—heaven on heaven—and I waited then expecting that up there in the next moment something completely powerful, unheard of, not yet existing, would appear or happen—would I behold a god?"
+Wasson"s description of his mushroom experience includes: "a superimposition of thousands of layers—heaven on heaven—and I waited then expecting that up there in the next moment something completely powerful, unheard of, not yet existing, would appear or happen—would I behold a god?"
 
 This vision of infinite vertical layering—heaven upon heaven—captures the sense of cosmic vastness and the expectation of revelation that characterizes the peak of the mushroom experience.
 
 ### Sensory Synesthesia
 
-"At the same time I was submerged within myself; it was an absolute climax: a sensation of bliss pervaded me, a contented happiness—I found myself behind my closed eyes in a cavity full of brick-red ornaments, and at the same time in the 'center of the universe of consummate calm.'"
+"At the same time I was submerged within myself; it was an absolute climax: a sensation of bliss pervaded me, a contented happiness—I found myself behind my closed eyes in a cavity full of brick-red ornaments, and at the same time in the "center of the universe of consummate calm.'"
 
-The synesthetic quality—experiencing visual, spatial, and emotional dimensions simultaneously—parallels the Mazatec mushroom visions described in Harner's volume.
+The synesthetic quality—experiencing visual, spatial, and emotional dimensions simultaneously—parallels the Mazatec mushroom visions described in Harner"s volume.
 
 ### The Ethical Insight
 
-"I knew everything was good—the cause and origins of everything was good. But at the same moment I also understood the suffering and the loathing, the depression and misunderstanding of ordinary life: there one is never 'total'."
+"I knew everything was good—the cause and origins of everything was good. But at the same moment I also understood the suffering and the loathing, the depression and misunderstanding of ordinary life: there one is never "total'."
 
 This passage captures the characteristic psychedelic integration of opposites: the simultaneous recognition of the goodness of existence and the suffering of ordinary life. The insight is not that suffering is illusory but that it exists within a larger framework of meaning and goodness.
 

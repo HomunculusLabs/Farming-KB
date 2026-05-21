@@ -26,7 +26,7 @@ Psilocybin (4-phosphoryloxy-N,N-dimethyltryptamine) is a prodrug -- it is conver
 
 The primary mechanism of action is agonism (activation) of the **serotonin 5-HT2A receptor**, predominantly found in the cerebral cortex:
 
-- Psilocin binds to 5-HT2A receptors with high affinity, mimicking serotonin's action but producing far more pronounced effects.
+- Psilocin binds to 5-HT2A receptors with high affinity, mimicking serotonin"s action but producing far more pronounced effects.
 - 5-HT2A receptors are densely concentrated in layer V of the prefrontal cortex, an area critical for executive function, self-awareness, and the integration of sensory information.
 - The receptor activation triggers a cascade of downstream effects including changes in gene expression, neuronal excitability, and the release of glutamate (the brain's primary excitatory neurotransmitter).
 - This receptor is the same target as LSD, DMT, and mescaline, which is why these substances produce qualitatively similar effects despite different chemical structures.

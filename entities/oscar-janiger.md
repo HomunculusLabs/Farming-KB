@@ -9,7 +9,7 @@ tags: [person, researcher, psychiatrist, hallucinogenic-tobacco, psychedelic-res
 
 ## Description
 
-Oscar Janiger (1918-2001) was an American psychiatrist and pioneering psychedelic researcher known for his systematic studies on LSD and other hallucinogenic substances. He is cited in Harner's *Hallucinogens and Shamanism* as a co-author with Marlene Dobkin de Rios on an unpublished manuscript exploring the "suggestive hallucinogenic properties of tobacco," connecting his work to the broader ethnographic study of psychoactive plant use in indigenous traditions. Janiger was one of the most prolific researchers in the first wave of clinical psychedelic research in the 1950s and 1960s.
+Oscar Janiger (1918-2001) was an American psychiatrist and pioneering psychedelic researcher known for his systematic studies on LSD and other hallucinogenic substances. He is cited in Harner"s *Hallucinogens and Shamanism* as a co-author with Marlene Dobkin de Rios on an unpublished manuscript exploring the "suggestive hallucinogenic properties of tobacco," connecting his work to the broader ethnographic study of psychoactive plant use in indigenous traditions. Janiger was one of the most prolific researchers in the first wave of clinical psychedelic research in the 1950s and 1960s.
 
 ## Classification
 
@@ -30,12 +30,12 @@ Oscar Janiger (1918-2001) was an American psychiatrist and pioneering psychedeli
 - Studied the effects of psychedelics on creativity, having subjects produce artwork under the influence of LSD (comparing pre- and post-LSD artistic output)
 - His work with Dobkin de Rios bridges Western psychiatric research and indigenous ethnobotanical knowledge of psychoactive plants
 - The tobacco research is relevant to understanding the Mazatec practice of using tobacco as an adjunct in mushroom ceremonies
-- Janiger's research subjects included artists, writers, and professionals, documenting a wide range of responses to LSD
+- Janiger"s research subjects included artists, writers, and professionals, documenting a wide range of responses to LSD
 - His research was conducted before the criminalization of LSD and the effective halt of psychedelic research in the late 1960s
 
 ## Relevance to Cultivation and Mycology
 
-Janiger's collaboration with Dobkin de Rios on hallucinogenic tobacco connects directly to the Mazatec mushroom tradition described by Munn, where ground tobacco is rubbed along wrists and forearms as a "tonic for the body" and placed on the shaman's table alongside the cross as a sign of the vocation. The ethnopharmacological study of tobacco's psychoactive properties — particularly in the context of indigenous use of *Nicotiana rustica* (mapacho), which contains significantly higher nicotine levels than commercial tobacco — is relevant to understanding the full pharmacological profile of traditional mushroom ceremonies. Modern mycological and psychedelic research increasingly recognizes the importance of studying entire ceremonial contexts rather than isolated compounds.
+Janiger's collaboration with Dobkin de Rios on hallucinogenic tobacco connects directly to the Mazatec mushroom tradition described by Munn, where ground tobacco is rubbed along wrists and forearms as a "tonic for the body" and placed on the shaman"s table alongside the cross as a sign of the vocation. The ethnopharmacological study of tobacco's psychoactive properties — particularly in the context of indigenous use of *Nicotiana rustica* (mapacho), which contains significantly higher nicotine levels than commercial tobacco — is relevant to understanding the full pharmacological profile of traditional mushroom ceremonies. Modern mycological and psychedelic research increasingly recognizes the importance of studying entire ceremonial contexts rather than isolated compounds.
 
 ## Legacy in Psychedelic Research
 

@@ -13,7 +13,7 @@ serotonin, endogenous]
 Dimethyltryptamine (DMT) is a powerful psychedelic tryptamine compound
 found
 naturally in many plants and animals, including the human brain. Terence
-McKenna's 1983 essay "[[tryptamine-hyperdimensional-entities]] that appear dynamically
+McKenna"s 1983 essay "[[tryptamine-hyperdimensional-entities]] that appear dynamically
 contorting, "somehow distinct from the surrounding background, which is
 itself undergoing a continuous transformation." These entities
 communicate
@@ -42,7 +42,7 @@ stamp of validity."
 
 ## The Logos and Translinguistic Objects
 
-A central theme in McKenna's account is the concept of the Logos — a
+A central theme in McKenna"s account is the concept of the Logos — a
 realm
 of pure information or communicative intelligence encountered under the
 influence of tryptamines. The Logos manifests as translinguistic
@@ -56,7 +56,7 @@ This translinguistic phenomenon manifests as glossolalia (speaking in
 tongues), but unlike classical glossolalia, it is experienced as a brain
 state allowing expression of "the assembly language that lies behind
 language" — a primal "Ursprache" emerging from within. McKenna connects
-this to [[robert-graves-british-mushroom-connection]]' concept in The [[mckenna-primal-ursprache-kabbalistic-zohar-and-white-goddess-glossolalia]] and to Kabbalistic
+this to [[robert-graves-british-mushroom-connection]]" concept in The [[mckenna-primal-ursprache-kabbalistic-zohar-and-white-goddess-glossolalia]] and to Kabbalistic
 descriptions of a [[mckenna-glossolalia-and-primal-language-tryptamine-states]] in the Zohar.
 
 ## Endogenous DMT and Consciousness

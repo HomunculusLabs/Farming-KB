@@ -6,7 +6,7 @@ type: concept
 
 ## The [[query-how-do-i-create-a-seed-bank-and-start-seed-saving|Seed]] Industry and Primary Growers
 
-Understanding how the garden seed industry actually works is essential for making informed purchasing decisions. The seed that ends up in a gardener's hands passes through multiple layers of distribution, each adding cost and each creating incentives to cut quality. The structure of the industry explains why garden center seed racks consistently underperform compared to seed from specialist suppliers.
+Understanding how the garden seed industry actually works is essential for making informed purchasing decisions. The seed that ends up in a gardener"s hands passes through multiple layers of distribution, each adding cost and each creating incentives to cut quality. The structure of the industry explains why garden center seed racks consistently underperform compared to seed from specialist suppliers.
 
 ## Industry Structure
 
@@ -82,13 +82,13 @@ It is easy to produce cheap seed. You simply:
 2. **Do not employ skilled plant breeders** to maintain genetic purity
 3. **Do not patrol surrounding areas** for cross-pollination risks (especially critical for insect- and wind-pollinated species)
 4. **Do not hand-select** the best plants for seed production
-5. **Let the field grow unsupervised**, harvest the seed, and dip into the bag that grew last time to plant next year's production field
+5. **Let the field grow unsupervised**, harvest the seed, and dip into the bag that grew last time to plant next year"s production field
 
 When done this way, each successive generation becomes ever more variable and ever less productive. The variety slowly degrades into something that only superficially resembles the original.
 
 ### The "Heirloom Renovation" Shortcut
 
-When a cheap grower's variety becomes too degraded to sell even to undiscriminating home gardeners:
+When a cheap grower"s variety becomes too degraded to sell even to undiscriminating home gardeners:
 
 1. Buy a few pounds of expensive commercial-quality seed of a different but similar-looking variety from a quality seed company
 2. Use this quality seed to start a new seed production field

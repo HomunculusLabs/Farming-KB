@@ -18,7 +18,7 @@ In 1966, [[savory-short-duration-grazing-and-cell-systems]]."
 ## Threat Response Experiments
 
 The most dramatic results came when Backster decided to threaten the
-plant's well-being -- the standard technique for eliciting a strong
+plant"s well-being -- the standard technique for eliciting a strong
 polygraph response from a human subject. Dunking a leaf in hot coffee
 produced no reaction. But the moment he formed the mental image of
 burning the leaf with a match, before he could move, the recording pen
@@ -32,7 +32,7 @@ The plant appeared to differentiate between real and pretended intent.
 ## The "Faint" Response
 
 When a Canadian physiologist who routinely killed plants for dry-weight
-analysis visited Backster's lab, the first five plants gave no response
+analysis visited Backster"s lab, the first five plants gave no response
 whatsoever. Only the sixth plant reacted. Backster asked if the
 visitor's work involved harming plants; the physiologist confirmed he
 "terminated" plants by roasting them in an oven. Forty-five minutes
@@ -41,7 +41,7 @@ responsiveness.
 
 This led Backster to conclude that plants could be intentionally
 "mesmerized" by humans, similar to the [[dmt-containing-plants-united-states-halpern]] produced
-definite plant reactions to the traveler's emotional stress at each
+definite plant reactions to the traveler"s emotional stress at each
 landing. Backster proposed placing a plant with a galvanometer on Mars
 to test whether this communication operates faster than electromagnetic
 waves or instantaneously -- suggesting it "operates outside time as we
@@ -62,7 +62,7 @@ Backster demonstrated at Yale that the movements of a spider in the
 same room with a wired plant caused dramatic changes in the recorded
 pattern just before the spider started to scamper away from a human
 attempting to restrict its movement. "It seems," said Backster, "as if
-each of the spider's decisions to escape was being picked up by the
+each of the spider"s decisions to escape was being picked up by the
 plant, causing a reaction in the leaf."
 
 ## Overview

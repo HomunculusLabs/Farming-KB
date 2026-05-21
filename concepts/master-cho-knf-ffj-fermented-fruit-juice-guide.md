@@ -1,5 +1,5 @@
 ---
-title: Master Cho's FFJ (bionutrients-lab-fermented-fruit-juice-ffj Juice) Guide
+title: Master Cho"s FFJ (bionutrients-lab-fermented-fruit-juice-ffj Juice) Guide
 created: 2026-04-26
 updated: 2026-04-24
 sources:
@@ -8,7 +8,7 @@ type: concept
 tags: [fermentation, fruit-tree, knf]
 ---
 
-## Master Cho's FFJ (Fermented Fruit Juice) Guide
+## Master Cho"s FFJ (Fermented Fruit Juice) Guide
 
 In Master Cho's Korean [[bionutrients-lab-fermented-plant-juice-fpj]] (FPJ). When FPJ is made from ripe fruits, it is called a "fruit enzyme." FFJ provides energy-rich nutrients during the reproductive and maturity stages of crop growth.
 

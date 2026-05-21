@@ -14,13 +14,13 @@ Source: [[fukuoka-food-strategy-rice-seed-weapon-seed-war-food-ecosystem]], lyin
 
 Would you not say that this rice, because it possesses the full joyousness of life, does not know the sorrow of death?
 
-The human perspective on life and death is distorted by the ego's need to maintain itself. We experience death as a catastrophe because we identify with a separate, bounded self that appears to end. But from the perspective of nature -- from the perspective of the rice plant, the forest, the soil -- there is no death, only transformation. This is the truth that the [[fukuoka-philosophy-of-mu-and-nature]] at its most radical.
+The human perspective on life and death is distorted by the ego"s need to maintain itself. We experience death as a catastrophe because we identify with a separate, bounded self that appears to end. But from the perspective of nature -- from the perspective of the rice plant, the forest, the soil -- there is no death, only transformation. This is the truth that the [[fukuoka-philosophy-of-mu-and-nature]] at its most radical.
 
 ## No East or West
 
 On a woven sedge hat left by pilgrims visiting the temples of Shikoku, Fukuoka found written the words: "Originally no east or west / Ten infinite directions." The sun comes up in the east, sets in the west, but this is merely an astronomical observation. Knowing that you do not understand either east or west is closer to the truth. The fact is, no one knows where the sun comes from.
 
-The pilgrim's hat inscription points to the same truth as the Heart Sutra: all directions, all distinctions, all categories are mental constructs imposed on a reality that has no inherent structure. The sun does not "rise" or "set" -- these are human descriptions of a cosmic process that has no orientation, no center, no boundary.
+The pilgrim"s hat inscription points to the same truth as the Heart Sutra: all directions, all distinctions, all categories are mental constructs imposed on a reality that has no inherent structure. The sun does not "rise" or "set" -- these are human descriptions of a cosmic process that has no orientation, no center, no boundary.
 
 ## Born Without Purpose
 

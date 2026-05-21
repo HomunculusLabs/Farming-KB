@@ -26,7 +26,7 @@ The prohibition era for psychedelics coincided with the broader "war on drugs" p
 
 ### Canada
 
-Psilocybin remains illegal under Canada's Controlled Drugs and Substances Act (CDSA). However, Health Canada has granted a growing number of Section 56 exemptions allowing individuals with serious conditions (typically terminal illness or treatment-resistant depression) to access psilocybin-assisted therapy under clinical supervision. The number of exemptions has increased annually since 2020. Several Canadian cities, including Vancouver and Toronto, have debated but not yet enacted local decriminalization measures for psilocybin specifically, though Vancouver has pursued broader drug decriminalization policies.
+Psilocybin remains illegal under Canada"s Controlled Drugs and Substances Act (CDSA). However, Health Canada has granted a growing number of Section 56 exemptions allowing individuals with serious conditions (typically terminal illness or treatment-resistant depression) to access psilocybin-assisted therapy under clinical supervision. The number of exemptions has increased annually since 2020. Several Canadian cities, including Vancouver and Toronto, have debated but not yet enacted local decriminalization measures for psilocybin specifically, though Vancouver has pursued broader drug decriminalization policies.
 
 ## Europe
 

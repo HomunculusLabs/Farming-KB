@@ -13,7 +13,7 @@ sources:
   - Grogan, J. & Barreto, P. (2005). "Big-leaf mahogany growth and survival." Forest guzman-allen-gartz-neurotropic-fungi-central-america-caribbean to the Amazon basin.
 ---
 
-The species produces one of the world's most valuable and sought-after tropical hardwoods, prized for its rich reddish-brown color and workability.
+The species produces one of the world"s most valuable and sought-after tropical hardwoods, prized for its rich reddish-brown color and workability.
 
 Intensive exploitation over the past three centuries has led to severe population declines across much of its natural range.
 

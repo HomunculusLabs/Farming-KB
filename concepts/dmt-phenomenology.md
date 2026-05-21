@@ -35,7 +35,7 @@ The core DMT experience—often called "breaking through"—is characterized by 
 
 ### Hyperspace
 
-The breakthrough state is consistently described as involving entry into a space that feels "underground" or "insulated and domed," a space qualitatively different from ordinary three-dimensional space. McKenna referenced James Joyce's term "merry go raum" (from German Raum, meaning "space") from Finnegans Wake, describing a room that is itself going around—a space that feels simultaneously enclosed and infinite, intimate and cosmic.
+The breakthrough state is consistently described as involving entry into a space that feels "underground" or "insulated and domed," a space qualitatively different from ordinary three-dimensional space. McKenna referenced James Joyce"s term "merry go raum" (from German Raum, meaning "space") from Finnegans Wake, describing a room that is itself going around—a space that feels simultaneously enclosed and infinite, intimate and cosmic.
 
 This hyperspace is experienced as a genuine location rather than a mental construct, with consistent spatial properties reported across different users and sessions. The sense of being "somewhere else" is one of the most reliable features of the DMT breakthrough.
 
@@ -45,9 +45,9 @@ Perhaps the most remarkable and consistent feature of DMT phenomenology is the e
 
 - **Appearance**: Hyperdimensional, fractal-like beings that undergo rapid self-transformation, morphing between geometric and quasi-organic forms. They are described as having a quality of "being made of language" or embodying information.
 
-- **Behavior**: The entities are described as benevolent and reassuring, saying "Don't be alarmed. Remember, and do what we are doing." They demonstrate or transmit information through a process that is both visual and linguistic.
+- **Behavior**: The entities are described as benevolent and reassuring, saying "Don"t be alarmed. Remember, and do what we are doing." They demonstrate or transmit information through a process that is both visual and linguistic.
 
-- **Communication**: The entities emit sounds that are simultaneously music and language—a translinguistic phenomenon that conveys meaning beyond what can be expressed in ordinary language. McKenna noted that trying to "English" this information is like pouring language over it and watching it shed like water off a duck's back.
+- **Communication**: The entities emit sounds that are simultaneously music and language—a translinguistic phenomenon that conveys meaning beyond what can be expressed in ordinary language. McKenna noted that trying to "English" this information is like pouring language over it and watching it shed like water off a duck"s back.
 
 - **Emotional quality**: The entities "bathe one in love" in a non-erotic but open-hearted way that feels genuinely good. The emotional tone is often described as simultaneously reassuring and overwhelming.
 
@@ -55,7 +55,7 @@ Perhaps the most remarkable and consistent feature of DMT phenomenology is the e
 
 McKenna drew a connection between the DMT state and the twenty-fourth fragment of Heraclitus: "The Aeon is a child at play with colored balls." In the DMT experience, one not only becomes the Aeon at play with colored balls but meets entities who seem to embody this archetypal image—beings engaged in creative play at the most fundamental level of reality.
 
-The experience of becoming a child in an eternal space, playing with self-transforming colored forms, suggests that DMT may temporarily dissolve the adult ego's categories and return consciousness to a more primary, pre-conceptual mode of experience.
+The experience of becoming a child in an eternal space, playing with self-transforming colored forms, suggests that DMT may temporarily dissolve the adult ego"s categories and return consciousness to a more primary, pre-conceptual mode of experience.
 
 ## The Logos
 
@@ -65,7 +65,7 @@ The Logos experience involves the perception that reality itself is fundamentall
 
 ## Glossolalia and Language
 
-One of the most [[glossolalia-translinguistic-objects]] and alien communication of the DMT state, users experience a profound [[mckenna-cognitive-dissonance-translinguistic-object]]—a "wow" or "flutter" that builds at the brink of terror. McKenna described this as arising because "we are monkeys" encountering a translinguistic object: the brain tries to pour language over the experience, but it sheds the language like water off a duck's back, creating a feedback loop of failed comprehension that generates wonder, astonishment, and awe.
+One of the most [[glossolalia-translinguistic-objects]] and alien communication of the DMT state, users experience a profound [[mckenna-cognitive-dissonance-translinguistic-object]]—a "wow" or "flutter" that builds at the brink of terror. McKenna described this as arising because "we are monkeys" encountering a translinguistic object: the brain tries to pour language over the experience, but it sheds the language like water off a duck"s back, creating a feedback loop of failed comprehension that generates wonder, astonishment, and awe.
 
 The entities seem aware of this problem and actively encourage the experiencer to "not get a loop of wonder going that quenches your ability to understand." Instead, they encourage focused observation and participation in what they are doing, rather than passive amazement.
 

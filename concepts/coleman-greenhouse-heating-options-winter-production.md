@@ -11,13 +11,13 @@ created: 2026-05-09
 
 ## Overview
 
-Eliot Coleman's Four Season Farm in Harborside, Maine, has pioneered techniques for year-round vegetable production in unheated and minimally heated greenhouses. While his core philosophy favors the simplicity of unheated "cold houses," his practical experience with adding minimal heat provides valuable insights for growers considering heating options. This concept covers the heating systems Coleman has tested, their economics, and his philosophical stance on energy use in winter growing.
+Eliot Coleman"s Four Season Farm in Harborside, Maine, has pioneered techniques for year-round vegetable production in unheated and minimally heated greenhouses. While his core philosophy favors the simplicity of unheated "cold houses," his practical experience with adding minimal heat provides valuable insights for growers considering heating options. This concept covers the heating systems Coleman has tested, their economics, and his philosophical stance on energy use in winter growing.
 
 ## The Cold House Foundation
 
 ### The Unheated Greenhouse Concept
 
-Coleman's [[comparison-windbreak-vs-thermal-mass]], absorbing heat during daylight hours and releasing it slowly at night. Wickets (wire supports) are spaced every 4 feet along the beds, holding the inner layer 12 inches above the crop canopy. This double-layer system can maintain temperatures 10–15°F warmer inside the inner cover compared to the outer greenhouse air on cold nights.
+Coleman"s [[comparison-windbreak-vs-thermal-mass]], absorbing heat during daylight hours and releasing it slowly at night. Wickets (wire supports) are spaced every 4 feet along the beds, holding the inner layer 12 inches above the crop canopy. This double-layer system can maintain temperatures 10–15°F warmer inside the inner cover compared to the outer greenhouse air on cold nights.
 
 ### Why Unheated Works
 

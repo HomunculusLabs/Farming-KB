@@ -74,7 +74,7 @@ Includes:
 "Lentinan is in a unique class of **T-cell-oriented assistants**, in which macrophages play some part."
 
 ### Macrophage Requirement
-"The effect of Lentinan was inhibited by anti-macrophage agents such as carrageenan." This demonstrates that macrophage activation is essential for Lentinan's antitumour activity.
+"The effect of Lentinan was inhibited by anti-macrophage agents such as carrageenan." This demonstrates that macrophage activation is essential for Lentinan"s antitumour activity.
 
 ### NK Cell Activation
 "Lentinan can activate NK-cells **in vitro** in the same concentrations that are achieved in the blood plasma of patients treated clinically with Lentinan." NK cell activity is involved in tumour suppression.

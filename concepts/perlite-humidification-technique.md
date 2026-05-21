@@ -31,7 +31,7 @@ The mechanism is straightforward but remarkably effective:
 It is important to note that [[query-what-is-the-difference-between-perlite-and-vermiculite]], while often used together in cultivation, function differently:
 
 - **Perlite** does not absorb and hold water internally in the same way as vermiculite. Instead, water clings to the extensive surface area of its porous structure and evaporates from there.
-- **Vermiculite** absorbs water into its layered structure and holds it more tightly. While it also provides humidification, perlite's evaporative properties are superior for this specific application.
+- **Vermiculite** absorbs water into its layered structure and holds it more tightly. While it also provides humidification, perlite"s evaporative properties are superior for this specific application.
 
 ## Setup Procedure
 

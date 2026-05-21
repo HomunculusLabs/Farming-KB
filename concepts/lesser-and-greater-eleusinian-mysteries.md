@@ -19,7 +19,7 @@ The Lesser Mysteries were held at Agrai (the "hunting place") in the month of An
 
 ### Function
 
-The Lesser Mystery "was considered a preliminary for the vision of the Greater Mystery that would take place at the time of the autumn sowing in September." It centered on death — Persephone's descent to Hades — and served as the necessary preparation for the redemptive vision of the Greater Mystery.
+The Lesser Mystery "was considered a preliminary for the vision of the Greater Mystery that would take place at the time of the autumn sowing in September." It centered on death — Persephone"s descent to Hades — and served as the necessary preparation for the redemptive vision of the Greater Mystery.
 
 ### Dionysian Connection
 

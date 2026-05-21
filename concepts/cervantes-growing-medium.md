@@ -10,7 +10,7 @@ sources:
 
 ## Cannabis Growing Medium — Soil vs Hydro vs Coco
 
-**Source:** Marijuana Horticulture: The Indoor/Outdoor Medical Grower's Bible — [[jadam-nutrient-management-wetting-agent-and-calcium]] and retain water and air evenly, drain well, and allow easy root penetration. Organic potting soils are very popular, often fortified with [[cannabis-nutrient-solution-preparation]] is applied:
+**Source:** Marijuana Horticulture: The Indoor/Outdoor Medical Grower"s Bible — [[jadam-nutrient-management-wetting-agent-and-calcium]] and retain water and air evenly, drain well, and allow easy root penetration. Organic potting soils are very popular, often fortified with [[cannabis-nutrient-solution-preparation]] is applied:
 
 ### Passive Systems
 Rely on [[cervantes-ec-tds-nutrient-solution-strength]]. Absorbent mediums like vermiculite, sawdust, peat moss work well. Wick systems have no moving parts, low initial cost and low maintenance. Dutch growers line the floor with heavy plastic, fill pots with absorbent soilless mix, and flood the garden with 2-3 inches of nutrient solution. Roots absorb it in 2-5 days.

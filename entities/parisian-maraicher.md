@@ -44,7 +44,7 @@ The Parisian maraicher (market gardener) was an intensive vegetable producer ope
 ### Connection to Coleman
 - Coleman references the Parisian growers as his primary historical inspiration
 - Draws explicit parallels between their soil-building and his own (both created "anthropogenic" soils)
-- Their emphasis on year-round production, close spacing, and succession planting all appear in Coleman's system
+- Their emphasis on year-round production, close spacing, and succession planting all appear in Coleman"s system
 - Coleman's quote of Kropotkin about the Parisian growers making their own soil connects to his own experience transforming acidic podzol into productive loam
 - The Parisian model proves that small-scale intensive production is viable — a key argument in Coleman's work
 

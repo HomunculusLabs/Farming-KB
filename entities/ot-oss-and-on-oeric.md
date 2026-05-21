@@ -6,7 +6,7 @@ type: entity
 
 ## Overview
 
-O.T. Oss and O.N. Oeric are the pseudonymous authors of *Psilocybin: Magic Mushroom Grower's Guide*, first published in 1976 by And/Or Press in Berkeley, California (ISBN 0-915904-13-6). The guide is widely regarded as the first comprehensive, step-by-step manual for cultivating *Psilocybe cubensis* (referred to in the text as *Stropharia cubensis*) using indoor techniques. The authors are commonly identified with Dennis McKenna and Terence McKenna, though the book was published under these pen names.
+O.T. Oss and O.N. Oeric are the pseudonymous authors of *Psilocybin: Magic Mushroom Grower"s Guide*, first published in 1976 by And/Or Press in Berkeley, California (ISBN 0-915904-13-6). The guide is widely regarded as the first comprehensive, step-by-step manual for cultivating *Psilocybe cubensis* (referred to in the text as *Stropharia cubensis*) using indoor techniques. The authors are commonly identified with Dennis McKenna and Terence McKenna, though the book was published under these pen names.
 
 ## Classification
 
@@ -58,7 +58,7 @@ Despite its counter-cultural context, the guide was grounded in legitimate mycol
 - **Pollock (1975)** — referenced for distribution data
 
 ### Cultural Impact
-The guide appeared at a pivotal moment in psychedelic culture, several years after the [[controlled-substances-act-and-psychedelic-research]] of 1970. It became one of the most widely circulated cultivation texts and influenced subsequent generations of cultivators and mycologists. The foreword's poetic and philosophical tone — including a passage written from the perspective of the mushroom itself — became iconic in psychedelic literature.
+The guide appeared at a pivotal moment in psychedelic culture, several years after the [[controlled-substances-act-and-psychedelic-research]] of 1970. It became one of the most widely circulated cultivation texts and influenced subsequent generations of cultivators and mycologists. The foreword"s poetic and philosophical tone — including a passage written from the perspective of the mushroom itself — became iconic in psychedelic literature.
 
 ## Philosophical Orientation
 

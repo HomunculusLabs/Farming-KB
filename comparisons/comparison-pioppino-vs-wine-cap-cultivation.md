@@ -3,7 +3,7 @@ title: "Pioppino vs Wine Cap (King Stropharia)"
 tags: [comparison, mushroom-cultivation, pioppino, wine-cap, king-stropharia]
 date: 2026-05-15
 updated: 2026-05-15
-sources: ['papers/shroom-a-cultural-history-of-the-magic-mushroom.md']
+sources: ["papers/shroom-a-cultural-history-of-the-magic-mushroom.md']
 ---
 
 ## Pioppino vs Wine Cap (King Stropharia)
@@ -86,7 +86,7 @@ room or greenhouse with temperature control and can prepare sterilized
 substrate, pioppino delivers reliable yields on a 4–6 week cycle. Its
 compact, clustered growth habit suits shelved fruiting chambers. The
 nutty, delicate flavor also makes it a premium culinary mushroom that
-commands higher prices at farmers' markets compared to wine cap.
+commands higher prices at farmers" markets compared to wine cap.
 
 Choose pioppino when you have access to hardwood sawdust, sterilization
 equipment, and a climate-controlled fruiting space. It is also the

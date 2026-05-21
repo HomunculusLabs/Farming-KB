@@ -29,11 +29,11 @@ sources:
 
 ## Overview
 
-William Falconer's book appeared during the commercial heyday of mushroom growing in America, a period when cultivated mushrooms commanded premium prices — "the price for them here is more than double that paid in any other country." Falconer argued that "mushroom-growing, one of the simplest and most remunerative of industries, is almost unknown" in America despite the population of nearly seventy million people being "alert to every profitable, legitimate business." He noted that the market grower "appreciates his situation and zealously guards his methods of cultivation from the public."
+William Falconer"s book appeared during the commercial heyday of mushroom growing in America, a period when cultivated mushrooms commanded premium prices — "the price for them here is more than double that paid in any other country." Falconer argued that "mushroom-growing, one of the simplest and most remunerative of industries, is almost unknown" in America despite the population of nearly seventy million people being "alert to every profitable, legitimate business." He noted that the market grower "appreciates his situation and zealously guards his methods of cultivation from the public."
 
 ## Cultivation Methods Described
 
-Falconer's illustrated treatise covered the full range of 19th-century mushroom cultivation techniques:
+Falconer"s illustrated treatise covered the full range of 19th-century mushroom cultivation techniques:
 
 - **Mushroom cellars:** Detailed plans for cellars built under barns, with cross-sections and ground plans showing ventilation, heating (base-burning water heaters), and bed layout
 - **Mushroom houses:** Designs for structures built against north-facing walls, including Mrs. Osborne's mushroom house design

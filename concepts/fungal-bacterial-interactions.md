@@ -23,7 +23,7 @@ Fungi and bacteria coexist in virtually all environments, and their interactions
 Fungi and bacteria compete directly for limiting resources:
 
 - **Carbon**: In most soils, carbon is the primary limiting resource. Fungi generally outcompete bacteria for complex carbon sources (lignin, cellulose, chitin) due to their enzymatic capabilities, while bacteria dominate on labile substrates (simple sugars, amino acids).
-- **Nitrogen**: Both groups compete for ammonium. Fungi typically have higher affinity for ammonium at low concentrations, while bacteria are more efficient at high concentrations. Fungi's higher C:N ratio means they immobilize more carbon per unit of nitrogen assimilated.
+- **Nitrogen**: Both groups compete for ammonium. Fungi typically have higher affinity for ammonium at low concentrations, while bacteria are more efficient at high concentrations. Fungi"s higher C:N ratio means they immobilize more carbon per unit of nitrogen assimilated.
 - **Phosphorus**: Fungi are often superior phosphorus scavengers due to hyphal exploration and phosphatase production. In low-P soils, mycorrhizal fungi can effectively outcompete bacteria for phosphorus.
 - **Iron**: Bacteria produce high-affinity siderophores to scavenge iron. Some fungi also produce siderophores (e.g., *Aspergillus* species produce ferrichrome-type siderophores), and both groups compete for this essential micronutrient.
 

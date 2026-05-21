@@ -14,7 +14,7 @@ sources:
 **PiHKAL #162** | [[leary-psychedelic-experience-bardo-mapping]] with benign character
 - Body tingling and unsteady walking at moderate doses
 - Cognitive intoxication with difficulty accomplishing simple tasks
-- Strong humor and laughter ("hilarious... mad hatter's tea party, and a trip to the moon")
+- Strong humor and laughter ("hilarious... mad hatter"s tea party, and a trip to the moon")
 - Visual sparkle persisting throughout the experience
 - Persistent inner chill reported (possibly environment-dependent)
 - Stomach queasiness and diarrhea at onset
@@ -22,13 +22,13 @@ sources:
 - Profound introspective insights at higher doses
 - Extremely funny with wonderful humor at 50 mg
 
-## Shulgin's Qualitative Comments
+## Shulgin"s Qualitative Comments
 
 At 25 mg: "completely benign, ease with concepts, writing good and smooth." At 35 mg: "body tingling all over... quite intoxicated most of the day... things were so funny most of the time." At 40 mg: "decided feeling of inner chill... visual sparkle... stomach queasiness... no impairment of speech but halting quality to thought processes." At 40 mg (second report): "plateaus, exuberance, and strong negative feelings, all replacing each other... inside a stout hemispherical shell... thorough walled off but absolute master within... great revelation." At 50 mg: "very, very active, visual, colorful... extremely funny — great humor, wonderful laughter."
 
 ## Extensions and Commentary
 
-TMA-6 may be "one of the most rewarding and pleasurable of the methoxylated amphetamines." Its 2,4,6-pattern serves as a parallel template to TMA-2's 2,4,5-pattern. Keeping the 2,6-dimethoxy aspect intact while modifying the 4-position could yield an entire "psi-series" (gamma-series): gamma-DOM (called Z-7 in PiHKAL), gamma-DOB, gamma-DOET, gamma-DOI, gamma-ALEPH, and gamma-2C-X compounds. These are expected to be active but considerably more difficult to synthesize.
+TMA-6 may be "one of the most rewarding and pleasurable of the methoxylated amphetamines." Its 2,4,6-pattern serves as a parallel template to TMA-2"s 2,4,5-pattern. Keeping the 2,6-dimethoxy aspect intact while modifying the 4-position could yield an entire "psi-series" (gamma-series): gamma-DOM (called Z-7 in PiHKAL), gamma-DOB, gamma-DOET, gamma-DOI, gamma-ALEPH, and gamma-2C-X compounds. These are expected to be active but considerably more difficult to synthesize.
 
 The synthesis from phloroglucinol (found in [[tma-2-compound-profile]] — 2,4,5-isomer, the original template compound
 - tma-entity|TMA — 3,4,5-isomer, 10x less potent

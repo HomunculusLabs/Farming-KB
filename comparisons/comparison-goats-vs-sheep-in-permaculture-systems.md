@@ -62,7 +62,7 @@ This mineral incompatibility is the primary reason many experienced producers ke
 - Easier integration into [[knf-soil-and-mineral-management]]) creates synergies:
 
 1. **Sequential rotation**: Goats graze first, consuming browse and tall forbs. Sheep follow, grazing the grasses and clovers the goats left behind. Total forage utilization increases 20–40% compared to single-species grazing.
-2. **Parasite dilution**: Each species' parasites are host-specific. Grazing sheep after goats (or vice versa) "cleans" the pasture of the previous species' larvae, reducing reinfection rates for both.
+2. **Parasite dilution**: Each species" parasites are host-specific. Grazing sheep after goats (or vice versa) "cleans" the pasture of the previous species' larvae, reducing reinfection rates for both.
 3. **Behavioral benefits**: Sheep's flocking instinct can help keep goats more settled and less prone to fence-testing when grazed together.
 
 ## When to Choose Each

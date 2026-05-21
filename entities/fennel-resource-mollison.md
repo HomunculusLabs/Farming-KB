@@ -30,7 +30,7 @@ Fennel is a perennial herb in the carrot family (Apiaceae), widely naturalized a
 
 ## Relevance to Cultivation and Mycology
 
-### The Designer's Lesson
+### The Designer"s Lesson
 
 Mollison uses fennel to illustrate a core permaculture design principle: **resource identification before intervention**. The designer's job is not to identify every plant species personally, but to recognize potential productive relationships and direct clients to appropriate specialists (botanists, horticulturists, processors). The failure mode is recommending the clearing of a valuable resource to plant something less productive.
 
@@ -57,7 +57,7 @@ Mollison uses fennel to illustrate a core permaculture design principle: **resou
 - Fennel roots associate with **[[arbuscular-mycorrhizal-fungi]]**, enhancing phosphorus uptake on poor soils
 - The Apiaceae family hosts diverse **endophytic fungi** that may produce bioactive compounds
 - Spent fennel biomass after distillation provides excellent substrate for composting and could support saprophytic mushroom cultivation (e.g., *Pleurotus* species)
-- Fennel's aromatic root exudates influence soil microbial communities, potentially suppressing certain soil-borne pathogens
+- Fennel"s aromatic root exudates influence soil microbial communities, potentially suppressing certain soil-borne pathogens
 - The deep root system creates channels that improve soil aeration and benefit fungal hyphal network development
 
 ## Design Integration

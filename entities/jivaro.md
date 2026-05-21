@@ -86,7 +86,7 @@ primarily to cope supernaturally with enemies.
 ## Relevance to Cultivation and Mycology
 
 The Jivaro demonstrate how a hallucinogenic plant preparation
-can fundamentally shape a society's epistemology, medical
+can fundamentally shape a society"s epistemology, medical
 system, and social structure. Their high shaman-to-population
 ratio (~1:4 adult males) is directly linked to the availability
 of *Banisteriopsis caapi*. Their practice illustrates the

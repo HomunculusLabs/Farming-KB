@@ -35,7 +35,7 @@ feathers, images, and objects representing spiritual traditions.
 
 ### Guide and Assistants
 An experienced elder or guide is present, sometimes with one or more
-assistants. The guide's role draws from both shamanic tradition (singing,
+assistants. The guide"s role draws from both shamanic tradition (singing,
 holding the energetic container, navigating spiritual territory) and Western
 therapy (providing psychological safety, managing crises, facilitating
 integration).

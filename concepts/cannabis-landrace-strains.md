@@ -15,7 +15,7 @@ created: 2026-05-10
 - **Adaptation**: It possesses traits specifically suited to its local environment — flowering
   time matched to local seasons, pest resistance, climate tolerance.
 
-Landraces are not "pure" in a taxonomic sense — they may contain [[oner-chunky-cherry-malawi-african-sativa-indica-hybrid]] from The Rev's
+Landraces are not "pure" in a taxonomic sense — they may contain [[oner-chunky-cherry-malawi-african-sativa-indica-hybrid]] from The Rev"s
   Kingdom Organic Seeds represents modern breeding work with this genetics.
 
 - **Swazi** (Swaziland/Eswatini): A hardy, prolific landrace adapted to the mountainous

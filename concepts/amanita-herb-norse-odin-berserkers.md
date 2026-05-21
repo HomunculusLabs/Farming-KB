@@ -5,13 +5,13 @@ type: concept
 ---
 ## Amanita Muscaria in Norse Mythology: Odin and the Berserkers
 
-In "Amanita Muscaria: Herb of Immortality," Donald E. Teeter dedicates Chapter 23 ("Odin; God of Wisdom") to the argument that the Norse god Odin and the berserker warriors are connected to the same Indo-European amanita-muscaria-drying-and-preparation that underlies the [[mckenna-sect-of-the-phoenix-and-archaic-secret-knowledge]] -- a motif that, in Teeter's reading, parallels the Soma ceremony's theme of a god who undergoes death and transformation to acquire divine wisdom.
+In "Amanita Muscaria: Herb of Immortality," Donald E. Teeter dedicates Chapter 23 ("Odin; God of Wisdom") to the argument that the Norse god Odin and the berserker warriors are connected to the same Indo-European amanita-muscaria-drying-and-preparation that underlies the [[mckenna-sect-of-the-phoenix-and-archaic-secret-knowledge]] -- a motif that, in Teeter"s reading, parallels the Soma ceremony's theme of a god who undergoes death and transformation to acquire divine wisdom.
 
 The dedicatory poem at the front of Teeter's book includes "Odin; God of Wisdom" among the many names for [[edaphic-factors-microbial-communities]] sacrament.
 
 ## The Fly Agaric in Northern Europe
 
-Amanita muscaria is native to the boreal and temperate forests of Northern Europe, growing in symbiotic association with birch, pine, and spruce -- precisely the tree species that dominate Norse landscapes. The mushroom's bright red-and-white cap is a familiar feature of Northern European forests, and its insecticidal properties (the source of the name "Fly Agaric") were known across Germanic cultures.
+Amanita muscaria is native to the boreal and temperate forests of Northern Europe, growing in symbiotic association with birch, pine, and spruce -- precisely the tree species that dominate Norse landscapes. The mushroom"s bright red-and-white cap is a familiar feature of Northern European forests, and its insecticidal properties (the source of the name "Fly Agaric") were known across Germanic cultures.
 
 ## The Missing Chapter
 

@@ -8,7 +8,7 @@ type: entity
 
 ## Description
 
-Deep-organic farming is a philosophical and practical framework coined by Eliot Coleman to distinguish between organic growers who work to understand and mimic natural biological systems (deep) versus those who merely substitute organic inputs for chemical ones without changing their underlying approach (shallow). The concept borrows terminology from the ecology movement's "deep ecology" versus "shallow ecology" distinction.
+Deep-organic farming is a philosophical and practical framework coined by Eliot Coleman to distinguish between organic growers who work to understand and mimic natural biological systems (deep) versus those who merely substitute organic inputs for chemical ones without changing their underlying approach (shallow). The concept borrows terminology from the ecology movement"s "deep ecology" versus "shallow ecology" distinction.
 
 ## Classification
 
@@ -36,7 +36,7 @@ Deep-organic farming is a philosophical and practical framework coined by Eliot 
 
 ## Relevance to Cultivation
 
-This framework is central to understanding Coleman's entire approach to farming and is directly applicable to all cultivation systems. For any grower the deep-organic approach means investing in soil biology and environmental conditions rather than purchasing pest control products. It requires more observation, knowledge, and patience, but produces more resilient, self-sustaining growing systems with lower input costs and higher nutritional quality.
+This framework is central to understanding Coleman"s entire approach to farming and is directly applicable to all cultivation systems. For any grower the deep-organic approach means investing in soil biology and environmental conditions rather than purchasing pest control products. It requires more observation, knowledge, and patience, but produces more resilient, self-sustaining growing systems with lower input costs and higher nutritional quality.
 
 ## Source Context
 

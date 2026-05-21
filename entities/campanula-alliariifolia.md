@@ -19,7 +19,7 @@ Campanula alliariifolia, commonly called the ivory bellflower, is a herbaceous p
 
 The species produces tall, elegant racemes of creamy-white, nodding bells from mid-summer to early autumn. It is valued in horticulture for its tall stature and long bloom period.
 
-Unlike many Campanula species with blue or purple flowers, the ivory bellflower's pale cream coloration is distinctive and unusual within the genus. This makes it a sought-after species for gardeners seeking white-flowered accents in perennial borders.
+Unlike many Campanula species with blue or purple flowers, the ivory bellflower"s pale cream coloration is distinctive and unusual within the genus. This makes it a sought-after species for gardeners seeking white-flowered accents in perennial borders.
 
 The specific epithet "alliariifolia" refers to the resemblance of its basal leaves to those of Alliaria petiolata (garlic mustard). The plant was first described by Carl Ludwig Willdenow in 1797.
 

@@ -22,7 +22,7 @@ of accelerating transformation drawing all human becoming toward a culminating p
 
 ## History as Eschatological Shockwave
 
-McKenna's central eschatological claim is that "something is at the end of time and
+McKenna"s central eschatological claim is that "something is at the end of time and
 is casting an enormous shadow over human history, drawing all human becoming toward
 it." In this view, all of human activity, the wars, philosophies, migrations, cities,
 and civilizations, occupies what is essentially a microsecond of geological and

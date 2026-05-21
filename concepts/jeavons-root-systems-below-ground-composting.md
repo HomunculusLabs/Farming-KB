@@ -20,7 +20,7 @@ building long-term soil fertility.
 
 Nature composts in at least three ways:
 
-1. **Manures** — Plant and animal foods composted inside an animal's body
+1. **Manures** — Plant and animal foods composted inside an animal"s body
    (including earthworms), then further aged outside the animal by the heat
    of fermentation
 2. **Surface decay** — Animal and plant bodies that decay on top of and

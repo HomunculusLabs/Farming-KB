@@ -97,7 +97,7 @@ Quality brewing inputs are essential:
 
 ### Value-Added Product Development
 
-Mushroom beer represents a significant value-added opportunity for cultivators. A small amount of dried mushroom powder or extract transforms standard craft beer into a premium functional beverage. The 2012 Telluride festival's 240-gallon sellout demonstrates strong consumer demand.
+Mushroom beer represents a significant value-added opportunity for cultivators. A small amount of dried mushroom powder or extract transforms standard craft beer into a premium functional beverage. The 2012 Telluride festival"s 240-gallon sellout demonstrates strong consumer demand.
 
 ### Hops Substitute Potential
 

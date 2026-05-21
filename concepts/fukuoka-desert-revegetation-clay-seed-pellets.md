@@ -1,12 +1,12 @@
 ---
-title: Fukuoka's Desert Revegetation and Clay Seed Pellet Method
+title: Fukuoka"s Desert Revegetation and Clay Seed Pellet Method
 source: masanobu-fukuoka-sowing-seeds-in-the-desert.md
 type: concept
 ---
 
 ## Fukuoka's Desert Revegetation and Clay Seed Pellet Method
 
-[[masanobu-fukuoka]]'s "Sowing Seeds in the Desert" (originally published in Japanese as "The Ultimatum of God Nature," 1996) presents his plan for global [[desert-revegetation]] using [[natural-farming-principles]]. After visiting India, Africa, Europe, and the United States, Fukuoka concluded that most of the world's deserts were created by human activity and could be revegetated by broad-scale seeding of diverse plant and microorganism species.
+[[masanobu-fukuoka]]'s "Sowing Seeds in the Desert" (originally published in Japanese as "The Ultimatum of God Nature," 1996) presents his plan for global [[desert-revegetation]] using [[natural-farming-principles]]. After visiting India, Africa, Europe, and the United States, Fukuoka concluded that most of the world"s deserts were created by human activity and could be revegetated by broad-scale seeding of diverse plant and microorganism species.
 
 ## The Second Genesis
 
@@ -98,8 +98,8 @@ The medium works for cultivating microorganisms in general, not just matsutake. 
 ### US West Coast (1986 visit)
 - Desertification advancing: "About half the land in the United States is, or is becoming, desert"
 - Agricultural products are "petroleum by-products"
-- California's "ecological disaster" from careless practices, overgrazing, overlogging
-- Farmers' markets showing "revolution in consciousness" — all organic, local, community-oriented
+- California"s "ecological disaster" from careless practices, overgrazing, overlogging
+- Farmers" markets showing "revolution in consciousness" — all organic, local, community-oriented
 - Natural farming transitioning from small farms to larger operations (Lundberg, 7,500 acres)
 - "Abolition of lawn culture" — lawns are "imitation green created for human beings at the expense of nature"
 
@@ -111,11 +111,11 @@ The medium works for cultivating microorganisms in general, not just matsutake. 
 ### India
 - Five visits; connections with Vandana Shiva and Navdanya
 - Ancient texts confirm no-tillage agriculture was practiced long ago
-- Natural farming aligns with Gandhi's philosophy
+- Natural farming aligns with Gandhi"s philosophy
 
 ## Philosophy: The Dharma Wheel Theory
 
-Fukuoka proposes the **"Dharma Wheel Theory of Flux in All Things"** as an alternative to Darwin's flat, linear theory of natural selection:
+Fukuoka proposes the **"Dharma Wheel Theory of Flux in All Things"** as an alternative to Darwin"s flat, linear theory of natural selection:
 
 - Nature expands and contracts three-dimensionally like a spinning wheel
 - All living things were born as a single, unified body at creation
@@ -125,7 +125,7 @@ Fukuoka proposes the **"Dharma Wheel Theory of Flux in All Things"** as an alter
 
 ## The Money-Sucking Octopus Economy
 
-Fukuoka's economic critique centers on centralized power:
+Fukuoka"s economic critique centers on centralized power:
 
 **Eight legs of the octopus:**
 1. Transportation network (road, rail, air)

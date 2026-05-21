@@ -10,7 +10,7 @@ type: concept
 
 ## Holzer Self-Sufficiency Garden Plan - Creating a Garden from Scratch
 
-Holzer's method for creating a productive self-sufficiency garden from
+Holzer"s method for creating a productive self-sufficiency garden from
 unproductive land is remarkably simple and fast. The approach uses pigs as
 co-workers to prepare the ground, followed by progressive planting that
 transforms poor soil into a biodiverse food landscape within months.

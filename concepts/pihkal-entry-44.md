@@ -64,7 +64,7 @@ creative capacity. Described as non-overstimulating with mild sensual quality.
 Subject was willing to try a higher dose.
 
 At 40 mg (positive report): extraordinary experience beginning at 1.5 hours
-with tremendous insight, [[mescaline]]'s oxygen atom, it was
+with tremendous insight, [[mescaline]]"s oxygen atom, it was
 "less appealing on the 2C-T-X sulfur atom." Compared to straight-chain
 2C-T compounds (2C-T-2 ethylthio, 2C-T-7 heptylthio), the cyclopropylmethyl
 group provides similar steric bulk but with fundamentally different
@@ -78,7 +78,7 @@ and the substitution pattern is "not one to set the world on fire." The
 ALEPH-8 amphetamine homologue was started (benzaldehyde + nitroethane) but not
 pursued. Shulgin reflected that while cyclopropylmethyl was "quite something
 on the mescaline oxygen atom," it generates "even less enthusiasm" for the
-ALEPH series. He concluded: "That's the way it is, and who could have guessed!"
+ALEPH series. He concluded: "That"s the way it is, and who could have guessed!"
 This illustrates the empirical, discovery-driven nature of the [[blesching-cannabis-safety-profile]] is concerning due to extreme response variability at
 identical doses. The 40 mg dose produced both a transformative positive
 experience and a severe multi-day adverse reaction. Adverse symptoms included

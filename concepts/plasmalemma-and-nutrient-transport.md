@@ -22,7 +22,7 @@ The classic analogy is a peanut butter sandwich: two pieces of bread (the water-
 
 ### Embedded Proteins and Carbohydrates
 
-The phospholipid bilayer is punctuated throughout with proteins and carbohydrates that serve specialized functions. Far from being a smooth surface, the membrane resembles "a rock climbing wall at the gym, punctuated with hand and foot holds." These integral membrane proteins (IMPs) make up 50 to 75 percent of the plasmalemma's surface area.
+The phospholipid bilayer is punctuated throughout with proteins and carbohydrates that serve specialized functions. Far from being a smooth surface, the membrane resembles "a rock climbing wall at the gym, punctuated with hand and foot holds." These integral membrane proteins (IMPs) make up 50 to 75 percent of the plasmalemma"s surface area.
 
 ## Mechanisms of Crossing the Membrane
 

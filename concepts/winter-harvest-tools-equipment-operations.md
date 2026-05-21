@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-The practical success of a year-round [[winter-harvest-system]] depends as much on the right tools and efficient farm operations as on crop selection and [[greenhouse-design]]. The Winter Harvest Handbook provides detailed guidance on hand tools, mechanized equipment, weed control methods, and operational workflows that together enable a small farm team to maintain productive harvests through the most challenging months of the year. [[eliot-coleman]]'s decades of experience are distilled into specific, practical recommendations.
+The practical success of a year-round [[winter-harvest-system]] depends as much on the right tools and efficient farm operations as on crop selection and [[greenhouse-design]]. The Winter Harvest Handbook provides detailed guidance on hand tools, mechanized equipment, weed control methods, and operational workflows that together enable a small farm team to maintain productive harvests through the most challenging months of the year. [[eliot-coleman]]"s decades of experience are distilled into specific, practical recommendations.
 
 ## Essential Hand Tools
 

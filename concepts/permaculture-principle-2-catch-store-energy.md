@@ -26,7 +26,7 @@ Living systems designed to optimize efficiency of energy transformation and stor
 
 ## The Energy Circuit Model
 
-### Odum's Energy Circuit Language
+### Odum"s Energy Circuit Language
 
 Howard Odum's energy circuit language shows relationships between external energy sources, primary producers (plants), and consumers (animals) as an energy hierarchy or food chain:
 
@@ -83,7 +83,7 @@ This principle distinguishes between:
 - **Income** (Principle 3: Obtain a Yield) — energy for immediate needs
 - **Capital** (Principle 2: Catch and Store Energy) — savings and investment to build natural and human capital
 
-Most of modern society's wealth consumption has been capital consumption disguised as income. We have been drawing down natural capital (fossil fuels, topsoil, biodiversity, groundwater) and calling it economic growth.
+Most of modern society"s wealth consumption has been capital consumption disguised as income. We have been drawing down natural capital (fossil fuels, topsoil, biodiversity, groundwater) and calling it economic growth.
 
 ### Rebuilding Natural Capital
 

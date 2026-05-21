@@ -8,7 +8,7 @@ sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
-## Fukuoka's Natural Vegetable Growing
+## Fukuoka"s Natural Vegetable Growing
 
 **Updated:** 2026-04-18
 
@@ -28,7 +28,7 @@ This is possible because:
 
 ## Growing Vegetables Under Fruit Trees
 
-Fukuoka's preferred method is growing vegetables beneath [[fukuoka-citrus-orchard-ground-cover-cultivation]] that suppresses weeds
+Fukuoka"s preferred method is growing vegetables beneath [[fukuoka-citrus-orchard-ground-cover-cultivation]] that suppresses weeds
 - They are among the easiest vegetables to naturalize
 
 ### Wild and Semi-Wild Vegetables

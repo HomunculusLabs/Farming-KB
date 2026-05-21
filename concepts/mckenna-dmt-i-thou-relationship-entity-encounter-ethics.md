@@ -10,9 +10,9 @@ tags: [dmt, tryptamines, consciousness, entity-encounter, philosophy, mckenna]
 
 [[mckenna-tryptamine-hallucinogens-and-consciousness]] and Consciousness," articulated a distinctive ethical framework for engaging with the autonomous entities encountered during DMT experiences.
 
-Drawing on Martin Buber's philosophy of dialogue, McKenna insisted that hallucinogenic beings must be met with what he called an "I/Thou relationship" rather than the passive genuflection of religious devotion. This framework positions the psychonaut as an active participant — a questioner, a skeptic, and a dignified interlocutor — rather than a worshipful supplicant before an overwhelming presence.
+Drawing on Martin Buber"s philosophy of dialogue, McKenna insisted that hallucinogenic beings must be met with what he called an "I/Thou relationship" rather than the passive genuflection of religious devotion. This framework positions the psychonaut as an active participant — a questioner, a skeptic, and a dignified interlocutor — rather than a worshipful supplicant before an overwhelming presence.
 
-The framework emerged from McKenna's personal experimentation with DMT beginning in 1965 and represents one of the earliest philosophical treatments of entity encounter ethics in the psychedelic literature.
+The framework emerged from McKenna"s personal experimentation with DMT beginning in 1965 and represents one of the earliest philosophical treatments of entity encounter ethics in the psychedelic literature.
 
 ## The Problem of Genuflection
 
@@ -28,9 +28,9 @@ The analogy to Buber is instructive: in the I/Thou relationship, both parties ar
 
 McKenna observed that the DMT experience inherently includes a quality of terror — what he called an "[[weil-the-natural-mind-altered-states-normalcy]] are benevolent or truthful.
 
-He quoted a limerick: "Some are made of ions, some of mind; the ones of ketamine, you'll find, stutter often and are blind." Different compounds may give access to different classes of entities, and some may be confused, deceptive, or limited.
+He quoted a limerick: "Some are made of ions, some of mind; the ones of ketamine, you"ll find, stutter often and are blind." Different compounds may give access to different classes of entities, and some may be confused, deceptive, or limited.
 
-The ketamine entities "stutter" and are "blind" — they lack the clarity of tryptamine beings. This compound-specific taxonomy of entity quality is one of McKenna's most distinctive contributions.
+The ketamine entities "stutter" and are "blind" — they lack the clarity of tryptamine beings. This compound-specific taxonomy of entity quality is one of McKenna"s most distinctive contributions.
 
 The I/Thou framework becomes essential in navigating this demonology. McKenna stated: "It is no great accomplishment to hear a voice in the head. The accomplishment is to make sure it is telling the truth."
 
@@ -38,7 +38,7 @@ Truthfulness becomes the primary metric by which entities are evaluated. An enti
 
 This connects to shamanic traditions worldwide. The Amazonian ayahuasquero sings icaros to control threatening entities. The Siberian shaman confronts hostile spirits with drumming. In each case, the shaman is an active agent, not a passive recipient.
 
-McKenna's contribution was translating this [[default-mode-network-and-ego-dissolution]] common in 5-MeO-DMT or high-dose LSD, McKenna insisted that during DMT, "one's ego is intact. One's fear reflexes are intact. One is not 'fuzzed out' at all." This preservation of the observing self makes the I/Thou relationship possible.
+McKenna"s contribution was translating this [[default-mode-network-and-ego-dissolution]] common in 5-MeO-DMT or high-dose LSD, McKenna insisted that during DMT, "one"s ego is intact. One's fear reflexes are intact. One is not 'fuzzed out' at all." This preservation of the observing self makes the I/Thou relationship possible.
 
 Without an intact ego, there can be no genuine dialogue — only merger, dissolution, or submission. DMT uniquely preserves the capacity for judgment while radically transforming perception.
 

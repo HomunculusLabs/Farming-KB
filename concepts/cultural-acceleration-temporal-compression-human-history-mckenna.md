@@ -39,11 +39,11 @@ all human becoming toward it." In this model, the acceleration is not merely
 technological but teleological — it has a direction and a destination.
 
 The wars, migrations, cities, civilizations, and philosophies of human history
-are, in McKenna's framing, "occupying a microsecond of geological, planetary, and
+are, in McKenna"s framing, "occupying a microsecond of geological, planetary, and
 galactic time as the monkeys react to the symbiote, which is in the environment
 and which is feeding information to humanity about the larger picture."
 
-## Plato's Moving Image of Eternity
+## Plato"s Moving Image of Eternity
 
 McKenna grounded his temporal philosophy in Plato's Timaeus, where time is described
 as "the moving image of eternity." In Platonic cosmology, eternity (the realm of
@@ -69,7 +69,7 @@ equilibrium
 
 ## The Noosphere and Teilhard de Chardin
 
-McKenna's acceleration thesis parallels Pierre Teilhard de Chardin's concept of
+McKenna"s acceleration thesis parallels Pierre Teilhard de Chardin's concept of
 the noosphere — the sphere of human thought and cultural information that
 surrounds the Earth like a new layer of the planetary system. Teilhard proposed
 that human cultural evolution is driving toward an "[[dom]]

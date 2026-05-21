@@ -20,7 +20,7 @@ Compounds derived from certain [[anti-cancer-polysaccharides-from-medicinal-mush
 3. **Treat deficient principles** of qi (vital energy), blood, and yin (fluid) and yang functionality (especially the kidney)
 
 ### The Qi Framework
-In Chinese medicine, qi (or ch'i) represents the 'vital' or 'life energy' that flows through the body. Deficient qi is believed to underlie many disease states. Fu Zheng therapy aims to restore and strengthen qi through natural compounds, with medicinal mushrooms being primary agents.
+In Chinese medicine, qi (or ch"i) represents the 'vital' or 'life energy' that flows through the body. Deficient qi is believed to underlie many disease states. Fu Zheng therapy aims to restore and strengthen qi through natural compounds, with medicinal mushrooms being primary agents.
 
 ### Yin and Yang Balance
 The Chinese medical framework seeks to balance:
@@ -33,7 +33,7 @@ The Chinese medical framework seeks to balance:
 ## Homeostasis: The Converging Concept
 
 ### Oriental Perspective
-"A central premise in Oriental medicine is to regulate homeostasis of the whole body and to return the diseased individual to the normal state." The focus is on restoring the body's [[fukuoka-mutual-cancellation-natural-equilibrium]] rather than attacking the disease directly.
+"A central premise in Oriental medicine is to regulate homeostasis of the whole body and to return the diseased individual to the normal state." The focus is on restoring the body"s [[fukuoka-mutual-cancellation-natural-equilibrium]] rather than attacking the disease directly.
 
 ### Western Scientific Validation
 "As will be shown in later Chapters, one of the most noticeable features of extracts derived from many medicinal mushrooms is their ability to function as immunomodulators." The physiological constitution of host defence mechanisms is improved by [[growing-gourmet-medicinal-polysaccharides-mushroom-compounds]], which "restore homeostasis and enhance resistance to disease."
@@ -79,12 +79,12 @@ The ideal immunostimulant for cancer adjunct therapy must:
 ### Tumour Specificity
 These approaches "like chemo- and radiotherapy, are designed to cause the destruction of tumour cells but to be much more tumour-specific than present treatments and, consequently, less harmful to normal cells."
 
-Mushroom polysaccharides achieve this by activating the immune system's innate ability to distinguish between normal and abnormal cells, rather than by direct cytotoxic action.
+Mushroom polysaccharides achieve this by activating the immune system"s innate ability to distinguish between normal and abnormal cells, rather than by direct cytotoxic action.
 
 ## The Conventional Treatment Problem
 
 ### Immunosuppressive Effects
-"Cancer and its treatment by conventional therapies as chemotherapy and radiotherapy are known to have adverse effects on the human immune system." This creates a paradox: the very treatments designed to save the patient's life simultaneously weaken their body's natural defences.
+"Cancer and its treatment by conventional therapies as chemotherapy and radiotherapy are known to have adverse effects on the human immune system." This creates a paradox: the very treatments designed to save the patient"s life simultaneously weaken their body's natural defences.
 
 ### The Vicious Cycle
 1. Cancer develops (partially due to immune surveillance failure)
@@ -103,7 +103,7 @@ Mushroom-derived immunomodulators address this cycle by:
 ## The Movement from "Healthy Food" to "Healthy Medicine"
 
 ### US Cultural Evolution
-"The movement began with a drive towards 'healthy food' in the 60s-70s; now it is towards 'healthy medicine'." This reflects a fundamental shift in how Americans approach health:
+"The movement began with a drive towards "healthy food' in the 60s-70s; now it is towards 'healthy medicine'." This reflects a fundamental shift in how Americans approach health:
 
 **1960s-70s**: Focus on natural foods, organic produce, dietary purity
 **1980s-90s**: Growing interest in nutritional supplements and preventive medicine

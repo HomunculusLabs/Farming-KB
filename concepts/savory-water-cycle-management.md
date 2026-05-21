@@ -59,7 +59,7 @@ Plants must have air as well as water. They grow best when soil particles have a
 1. Excessive compaction that reduces air spaces
 2. Lack of sufficient organic material to maintain crumb structure
 3. Impervious layers of clay or rock that inhibit drainage
-4. A sealed or capped soil surface that reduces the soil's ability to breathe
+4. A sealed or capped soil surface that reduces the soil"s ability to breathe
 
 Good aeration favors broad-leaved grasses and other plants with rapid growth potential. Poor aeration favors narrow-leaved, waxy plants with slow [[coleman-sunlight-and-winter-crop-growth-rates]]—conditions that also stress plants and make them more vulnerable to insect damage.
 

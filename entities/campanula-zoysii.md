@@ -17,7 +17,7 @@ sources:
 
 ## Overview
 
-Campanula zoysii, called Zois's bellflower or the crimped bellflower, is a rare dwarf alpine perennial endemic to the southeastern Alps. It is distinguished by its uniquely constricted, pitcher-shaped flowers with a narrow mouth that barely opens, unlike the wide bells typical of most campanulas.
+Campanula zoysii, called Zois"s bellflower or the crimped bellflower, is a rare dwarf alpine perennial endemic to the southeastern Alps. It is distinguished by its uniquely constricted, pitcher-shaped flowers with a narrow mouth that barely opens, unlike the wide bells typical of most campanulas.
 
 The species is a prized collector's plant among alpine garden enthusiasts, valued for its compact cushion habit, distinctive flower form, and the challenge it presents in cultivation. It is considered one of the most morphologically unusual species in the genus.
 

@@ -26,7 +26,7 @@ Where [[mckenna-shamanic-initiation-death-resurrection-eliade]] traditions**. Ac
 
 > You have to be willing to die in the most literal sense.
 
-This is not suicidal ideation but radical openness — a premeditated acceptance that the journey may require the sacrifice of everything one believes oneself to be. The fear encountered is the price of admission to expanded modes of consciousness and healing capacity. Without willingness to face this fear, the experience remains circumscribed by the ego's defenses.
+This is not suicidal ideation but radical openness — a premeditated acceptance that the journey may require the sacrifice of everything one believes oneself to be. The fear encountered is the price of admission to expanded modes of consciousness and healing capacity. Without willingness to face this fear, the experience remains circumscribed by the ego"s defenses.
 
 ### The Role of the Guide
 
@@ -48,7 +48,7 @@ The shamanic model treats the psychedelic encounter as serious undertaking requi
 
 ## Tourist Mentality vs. Genuine Exploration
 
-The distinction between recreational and serious psychedelic use maps onto McKenna's analysis of fear. Recreational users seek to **avoid** fear, curating experiences for pleasure while minimizing discomfort. The result is a fundamentally shallow encounter — touching the surface of altered consciousness without penetrating to the transformative depths where fear resides.
+The distinction between recreational and serious psychedelic use maps onto McKenna"s analysis of fear. Recreational users seek to **avoid** fear, curating experiences for pleasure while minimizing discomfort. The result is a fundamentally shallow encounter — touching the surface of altered consciousness without penetrating to the transformative depths where fear resides.
 
 Genuine exploration requires willingness to follow fear where it leads. The explorer accepts that significant territories lie beyond boundaries marked by terror. When fear arises organically, it marks the boundary between the superficial and the profound. McKenna's challenge to the psychedelic community was to stop treating fear as an aberration and start treating it as a compass.
 
@@ -68,9 +68,9 @@ McKenna's framework carries significant implications for contemporary psychedeli
 
 ## The Previously Held Position: The Conditioned Self
 
-Central to McKenna's analysis is the concept of the "previously held position" — the conditioned self constructed through socialization, language, habit, and the accumulated defenses of a lifetime. This position is not merely a set of beliefs but an entire mode of being, a way of organizing experience that feels natural and inevitable to its inhabitant.
+Central to McKenna"s analysis is the concept of the "previously held position" — the conditioned self constructed through socialization, language, habit, and the accumulated defenses of a lifetime. This position is not merely a set of beliefs but an entire mode of being, a way of organizing experience that feels natural and inevitable to its inhabitant.
 
-Psychedelic boundary dissolution directly challenges this constructed self. The experience reveals the contingent nature of identity — that what felt permanent and essential is in fact provisional and maintained through constant unconscious effort. The fear that arises is the conditioned self's resistance to its own deconstruction. Each increment of fear corresponds to an increment of surrender, a further loosening of the grip that the previously held position maintains on consciousness.
+Psychedelic boundary dissolution directly challenges this constructed self. The experience reveals the contingent nature of identity — that what felt permanent and essential is in fact provisional and maintained through constant unconscious effort. The fear that arises is the conditioned self"s resistance to its own deconstruction. Each increment of fear corresponds to an increment of surrender, a further loosening of the grip that the previously held position maintains on consciousness.
 
 ## The Breakthrough Threshold
 
@@ -86,7 +86,7 @@ Recognizing the embodied nature of psychedelic fear has practical implications. 
 
 ## Philosophical Context
 
-McKenna's position resonates with several traditions. **Existentialism:** Heidegger and Kierkegaard recognized anxiety (Angst) as the fundamental mood disclosing authentic existence — McKenna extends this into the psychedelic context, where anxiety reveals the constructed nature of the self. **Mysticism:** The via negativa, the "dark night of the soul," and the Sufi fana describe parallel ego dissolution through terrifying encounter with transcendence. **Depth psychology:** Jung's shadow confrontation and Campbell's hero's journey describe transformative passage through fear and death as universal patterns of psychological growth.
+McKenna's position resonates with several traditions. **Existentialism:** Heidegger and Kierkegaard recognized anxiety (Angst) as the fundamental mood disclosing authentic existence — McKenna extends this into the psychedelic context, where anxiety reveals the constructed nature of the self. **Mysticism:** The via negativa, the "dark night of the soul," and the Sufi fana describe parallel ego dissolution through terrifying encounter with transcendence. **Depth psychology:** Jung"s shadow confrontation and Campbell's hero's journey describe transformative passage through fear and death as universal patterns of psychological growth.
 
 ## Criticisms and Limitations
 

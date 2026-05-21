@@ -45,7 +45,7 @@ characteristic ash-white bands that appear during the thermophilic (hot) phase.
   respond differently — they are adapted to *physical* water scarcity (thin
   films), not *chemical* water binding by dissolved solutes.
 - At molasses concentrations above 3–5%, [[ingham-antibiotics-osmotic-shock-compost-tea]] suppresses many
-  organisms, but actinomycetes' response is distinct from the pattern seen in
+  organisms, but actinomycetes" response is distinct from the pattern seen in
   true fungi.
 
 ### Interaction with Mycorrhizal Fungi
@@ -83,7 +83,7 @@ characteristic ash-white bands that appear during the thermophilic (hot) phase.
 
 ## Notable Quotes (Source)
 
-> "Don't add any actinomycetes, or more properly, actinobacteria to your tea, or
+> "Don"t add any actinomycetes, or more properly, actinobacteria to your tea, or
 > compost. They are really bad news on mycorrhizal fungi."
 >
 > "Actinomycetes are not multicellular, they are single cells in a filamentous

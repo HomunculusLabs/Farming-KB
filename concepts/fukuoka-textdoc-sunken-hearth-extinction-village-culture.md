@@ -10,7 +10,7 @@ type: concept
 
 ## The Sunken Hearth and the Extinction of Village Culture
 
-[[masanobu-fukuoka]]'s account of the disappearance of traditional Japanese
+[[masanobu-fukuoka]]"s account of the disappearance of traditional Japanese
 farming village culture is one of the most poignant passages in *The
 Natural Way of Farming*. It describes not merely a technological shift but
 the extinguishing of an entire philosophical worldview — one centered on
@@ -89,7 +89,7 @@ The farmer who thought modernization would make his job easier was
 tragically mistaken. Mechanization freed him from the land, and now he
 works harder than ever at other jobs, wearing away his body and mind.
 The chain saw was developed because someone decided a tree had to be cut
-faster — but this speed served the machine's logic, not the farmer's
+faster — but this speed served the machine"s logic, not the farmer's
 well-being. The mechanized transplantation of rice sent farmers running
 off to find other work. Rather than liberation, modernization delivered
 displacement.
@@ -119,7 +119,7 @@ that gave the farmer his enduring strength.
 
 ## The Disappearance of the Fireside
 
-The passage culminates with Fukuoka's most powerful image: "The
+The passage culminates with Fukuoka"s most powerful image: "The
 disappearance of the sunken hearth from farming homes has extinguished
 the light of ancient farming village culture. Fireside discussions have
 vanished, and with them, the village philosophy." The hearth was not

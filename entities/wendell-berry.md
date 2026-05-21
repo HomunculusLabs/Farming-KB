@@ -9,7 +9,7 @@ tags: [person, poet, farmer, author, agriculture, sustainability, american]
 
 ## Description
 
-Wendell Berry is an American poet, novelist, essayist, and organic farmer whose writings on the values of margins — both physical and conceptual — have been highly influential in the [[permaculture]] and sustainable agriculture movements. Holmgren draws directly on Berry's critique of industrial agriculture and his articulation of the "widening margin of divergent possibilities" as intellectual foundation for permaculture's emergence from the margins of conventional thinking.
+Wendell Berry is an American poet, novelist, essayist, and organic farmer whose writings on the values of margins — both physical and conceptual — have been highly influential in the [[permaculture]] and sustainable agriculture movements. Holmgren draws directly on Berry"s critique of industrial agriculture and his articulation of the "widening margin of divergent possibilities" as intellectual foundation for permaculture"s emergence from the margins of conventional thinking.
 
 ## Classification
 

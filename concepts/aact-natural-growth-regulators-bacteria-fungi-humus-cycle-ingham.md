@@ -11,7 +11,7 @@ tags: [soil-science, microbiology, growth-regulators, humus, decomposition, fung
 
 ## Overview
 
-Dr. Elaine Ingham's work reveals two interconnected biological processes that are fundamental to understanding how [[aact-microbial-chelation-of-minerals-ingham]]).
+Dr. Elaine Ingham"s work reveals two interconnected biological processes that are fundamental to understanding how [[aact-microbial-chelation-of-minerals-ingham]]).
 
 ### Microbial Production of Growth Hormones
 

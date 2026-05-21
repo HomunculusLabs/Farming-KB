@@ -10,7 +10,7 @@ tags: [psilocybin]
 
 ## Psilocybin and the Understanding of Consciousness
 
-Powell's central thesis is that psilocybin is not merely a substance that alters consciousness but a tool for understanding what consciousness actually is. By analysing the chemical changes that accompany the altered state of mind, we can use this data to comprehend how normal consciousness works. Psilocybin represents the key to solving what Powell calls the "twin mysteries of consciousness and reality."
+Powell"s central thesis is that psilocybin is not merely a substance that alters consciousness but a tool for understanding what consciousness actually is. By analysing the chemical changes that accompany the altered state of mind, we can use this data to comprehend how normal consciousness works. Psilocybin represents the key to solving what Powell calls the "twin mysteries of consciousness and reality."
 
 ## The Mutability of Consciousness
 

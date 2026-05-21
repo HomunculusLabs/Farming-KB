@@ -20,7 +20,7 @@ flavonoid glycosides, which contribute to both its hamilton-clearing-uncultivate
 ike Antirrhinum, Linaria was traditionally placed in Scrophulariaceae but
 was reclassified to Plantaginaceae based on molecular phylogenetics. The
 species is a diploid with 2n = 12 chromosomes. Several subspecies have been
-described, though they are not universally recognized. The 'Fairy Bouquet'
+described, though they are not universally recognized. The "Fairy Bouquet'
 series represents dwarf, multicolored ornamental cultivars derived from
 related species but often sold under the Linaria name.
 

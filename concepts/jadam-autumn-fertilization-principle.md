@@ -11,7 +11,7 @@ sources:
 
 ## Overview
 
-JADAM advocates fertilizing in autumn, on the surface, and in raw form -- exactly as nature does. This contrasts sharply with the conventional [[complete-organic-fertilizer-cof-recipe-solomon]]. Nature's soil supplies 100% of its organic materials by itself. All wild grass and leaves die and accumulate on soil in autumn; as they decompose, the soil turns rich. JADAM follows this pattern: sow seeds (those that do not die in winter) in autumn, let them grow, and cut them down in spring. The fallen grass becomes excellent base fertilizer.
+JADAM advocates fertilizing in autumn, on the surface, and in raw form -- exactly as nature does. This contrasts sharply with the conventional [[complete-organic-fertilizer-cof-recipe-solomon]]. Nature"s soil supplies 100% of its organic materials by itself. All wild grass and leaves die and accumulate on soil in autumn; as they decompose, the soil turns rich. JADAM follows this pattern: sow seeds (those that do not die in winter) in autumn, let them grow, and cut them down in spring. The fallen grass becomes excellent base fertilizer.
 
 ## Against Compost-Making
 

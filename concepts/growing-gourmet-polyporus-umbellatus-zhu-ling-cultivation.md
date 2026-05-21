@@ -21,7 +21,7 @@ traditional Chinese medicine for centuries.
 ## Common Names
 
 - Zhu Ling (Chinese for "Hog Tuber")
-- Chorei-maitake (Japanese for "Wild Boar's Dung Maitake")
+- Chorei-maitake (Japanese for "Wild Boar"s Dung Maitake")
 - Tsuchi-maitake (Japanese for "Earth Maitake")
 - Umbrella Polypore
 - Chinese Sclerotium

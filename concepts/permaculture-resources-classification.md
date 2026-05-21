@@ -6,11 +6,11 @@ type: concept
 
 ## Resource Classification in Permaculture
 
-[[bill-mollison]]'s framework for classifying resources provides designers with an ethical and practical lens for evaluating what we use, how we use it, and what consequences follow. This classification is central to [[savory-holistic-resource-management-animal-impact]] in any permaculture system.
+[[bill-mollison]]"s framework for classifying resources provides designers with an ethical and practical lens for evaluating what we use, how we use it, and what consequences follow. This classification is central to [[savory-holistic-resource-management-animal-impact]] in any permaculture system.
 
 ## The "Everything Gardens" Principle
 
-The foundation of permaculture's resource thinking begins with the observation that every organism modifies its environment. This principle — known as permaculture resources classification — recognizes that no living thing exists in passive relation to its surroundings. Every species acts as a gardener of sorts, shaping the world it inhabits through its biological activity.
+The foundation of permaculture"s resource thinking begins with the observation that every organism modifies its environment. This principle — known as permaculture resources classification — recognizes that no living thing exists in passive relation to its surroundings. Every species acts as a gardener of sorts, shaping the world it inhabits through its biological activity.
 
 Rabbits, for example, create burrows that aerate soils, produce defecation mounds that fertilize ground, scratch at roots disturbing plant communities, and through their grazing patterns create and maintain lawns. People build houses, dispose of sewage, and dig into soils — all acts of environmental modification. The critical insight is that organisms can function as **allies** in sustaining systems when their environmental effects are understood and directed rather than ignored or suppressed.
 
@@ -55,7 +55,7 @@ These are resources that have been fabricated, developed, or improved through hu
 
 ## The Five Resource Categories by Use-and-Results
 
-The most practical dimension of Mollison's classification sorts resources by what happens to them when they are used. This framework guides designers toward resources that are beneficial or benign to use and away from those that are destructive.
+The most practical dimension of Mollison"s classification sorts resources by what happens to them when they are used. This framework guides designers toward resources that are beneficial or benign to use and away from those that are destructive.
 
 ### Category 1: Resources That Increase by Modest Use
 

@@ -10,7 +10,7 @@ tags: [reference]
 
 ## Holmgren Beyond Sustainability
 
-The central argument of Holmgren's "Permaculture: Principles and Pathways Beyond Sustainability" challenges the very concept of sustainability as commonly understood, arguing that accepting the reality of energy descent requires moving beyond naive notions of maintaining current civilisation. This reframing is Holmgren's primary contribution to the holmgren-ethical-philosophical-framework: beliefs and values that developed with a rising energy base are likely to be dysfunctional -- even destructive -- in a world of limited and declining energy. The concept of sustainability itself may be such a belief -- a product of the energy-rich era that will not serve us well in energy descent.
+The central argument of Holmgren"s "Permaculture: Principles and Pathways Beyond Sustainability" challenges the very concept of sustainability as commonly understood, arguing that accepting the reality of energy descent requires moving beyond naive notions of maintaining current civilisation. This reframing is Holmgren"s primary contribution to the holmgren-ethical-philosophical-framework: beliefs and values that developed with a rising energy base are likely to be dysfunctional -- even destructive -- in a world of limited and declining energy. The concept of sustainability itself may be such a belief -- a product of the energy-rich era that will not serve us well in energy descent.
 
 ## The Mountain Peak Metaphor
 
@@ -35,7 +35,7 @@ Holmgren distinguishes permaculture from "green tech" optimists in several key r
 
 ## The Fossil Fuel Pulse Framework
 
-The book's framework rests on the understanding that industrial culture is a temporary phenomenon powered by the one-time fossil fuel pulse. A graph of civilisational growth and predicted decline visualises the current cultural and economic dynamic of globalisation as one of chaotic climax and transition from growth in population and energy use to decline.
+The book"s framework rests on the understanding that industrial culture is a temporary phenomenon powered by the one-time fossil fuel pulse. A graph of civilisational growth and predicted decline visualises the current cultural and economic dynamic of globalisation as one of chaotic climax and transition from growth in population and energy use to decline.
 
 Industrial culture and permaculture are stable only in their direction of energy use. The characterisation of high-energy industrial society as inherently unsustainable connects to holmgren-emergence-and-long-term-cycles. Once the reality of the energy peak is accepted, the question shifts from "how do we sustain this?" to "how do we adapt?"
 

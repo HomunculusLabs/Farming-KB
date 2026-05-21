@@ -25,14 +25,14 @@ Ayahuasqueros serve as traditional healers in communities where modern Western m
 
 1. **Patient intake**: Patients typically come to the ayahuasquero after Western medicine has failed to provide a cure
 2. **Group ceremony**: The ayahuasquero and patients partake of the hallucinogenic drink together
-3. **Diagnostic trance**: The ayahuasquero uses the trance state to determine the cause of each patient's illness
+3. **Diagnostic trance**: The ayahuasquero uses the trance state to determine the cause of each patient"s illness
 4. **Supernatural attribution**: Illness is typically ascribed to a specific bewitcher in each case
 
 ### Therapeutic Method
 
 The therapeutic approach involves transforming "generalized and incapacitating anxiety" into specific, directed fear:
 
-1. The patient's vague, overwhelming anxiety about illness is given a concrete cause (a specific bewitcher)
+1. The patient"s vague, overwhelming anxiety about illness is given a concrete cause (a specific bewitcher)
 2. The hallucinations of the group session reinforce belief in the shaman's power
 3. The shaman's guidance during the experience provides structure and meaning
 4. This approach is viewed as therapeutically effective because directed fear is more manageable than free-floating anxiety

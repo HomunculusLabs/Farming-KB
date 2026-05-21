@@ -18,9 +18,9 @@ Varieties that breed true from seed — when you save seed from an OP plant and 
 
 The first-generation offspring of a cross between two genetically distinct, highly uniform, inbred parent lines. Hybrids exhibit "hybrid vigor" (heterosis) — they are more vigorous, productive, and uniform than either parent. However, seed saved from F1 plants will not breed true; the F2 generation will segregate into a range of types, most of them inferior.
 
-## What Anti-Hybrid Propaganda Claims (and What's True)
+## What Anti-Hybrid Propaganda Claims (and What"s True)
 
-### Claim: "You can't save seed from hybrids"
+### Claim: "You can"t save seed from hybrids"
 
 **Half-true**. You can save seed from hybrids, but:
 - For self-pollinating species (tomato, pepper, eggplant), F2 seed will produce a wide range of plant types, most less productive and less uniform than the F1
@@ -45,7 +45,7 @@ The first-generation offspring of a cross between two genetically distinct, high
 
 For outcrossing species like brassicas and cucurbits:
 
-1. One parent line is bred to be self-sterile — it just about can't self-pollinate
+1. One parent line is bred to be self-sterile — it just about can"t self-pollinate
 2. This self-sterile line is grown in a field with another variety that is genetically highly uniform
 3. Enough rows of the second variety are grown so bees can fully pollinate the self-sterile rows
 4. The self-sterile variety then sets seed, nearly all of which are crosses between the two parent varieties

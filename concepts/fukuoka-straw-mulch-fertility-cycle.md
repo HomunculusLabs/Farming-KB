@@ -1,12 +1,12 @@
 ---
-title: "Fukuoka's Straw Mulch System: Fertility, Weed Suppression, and Soil Building"
+title: "Fukuoka"s Straw Mulch System: Fertility, Weed Suppression, and Soil Building"
 tags:
   - concept
 ---
 
 ## Overview
 
-In Masanobu Fukuoka's [[direct-seeded-no-tillage-rice-barley-succession-in-clover]] system creates a continuous cycle of straw production and return:
+In Masanobu Fukuoka"s [[direct-seeded-no-tillage-rice-barley-succession-in-clover]] system creates a continuous cycle of straw production and return:
 
 1. **Early October** — White clover and winter grain seeds (rye or barley) are broadcast among the ripening rice stalks. The clover and grain sprout and grow an inch or two before the rice is ready for harvest.
 
@@ -40,7 +40,7 @@ Fukuoka's system achieves high yields without applying prepared compost, commerc
 
 The decomposition of straw releases nutrients in a pattern that matches crop demand. Unlike synthetic fertilizers that release nutrients rapidly and can overwhelm the soil biology, straw decomposition is a gradual process mediated by soil microorganisms. This slow release means that nutrients become available as the growing crop needs them, reducing losses to leaching and volatilization.
 
-Fukuoka noted that using straw and green manure with a small amount of poultry manure could achieve high yields "without adding compost or commercial fertilizer at all." After several decades of observing nature's method of cultivation and fertilization, he was "reaping bumper crops of vegetables, citrus, rice, and winter grain as a gift, so to speak, from the [[cannabis-light-spectrum-and-color-bands]] that most weed seeds need to initiate sprouting.
+Fukuoka noted that using straw and green manure with a small amount of poultry manure could achieve high yields "without adding compost or commercial fertilizer at all." After several decades of observing nature"s method of cultivation and fertilization, he was "reaping bumper crops of vegetables, citrus, rice, and winter grain as a gift, so to speak, from the [[cannabis-light-spectrum-and-color-bands]] that most weed seeds need to initiate sprouting.
 
 - **Physical barrier** — Even if weed seeds do germinate, the straw layer makes it difficult for seedlings to push through to reach sunlight. Crop seeds, being larger and more vigorous, are better able to penetrate the mulch.
 
@@ -52,7 +52,7 @@ Fukuoka made the counterintuitive observation that tilling the soil to control w
 
 ## Water Management Connections
 
-Straw mulch plays a critical role in Fukuoka's water management system. In his non-flooded rice cultivation, water retention depends on the mulch layer. During June and July, rainwater alone is sufficient for the plants because the straw-covered soil retains moisture. In August, fresh water is run through the field about once a week without being allowed to stand.
+Straw mulch plays a critical role in Fukuoka"s water management system. In his non-flooded rice cultivation, water retention depends on the mulch layer. During June and July, rainwater alone is sufficient for the plants because the straw-covered soil retains moisture. In August, fresh water is run through the field about once a week without being allowed to stand.
 
 The straw layer moderates soil temperature fluctuations, keeps the soil surface cool during hot weather, and reduces the rate of moisture loss through evaporation. These effects are particularly important in Fukuoka's system because the rice fields are not flooded — a radical departure from conventional paddy rice cultivation.
 

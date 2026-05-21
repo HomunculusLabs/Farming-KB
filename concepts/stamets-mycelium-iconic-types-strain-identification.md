@@ -1,5 +1,5 @@
 ---
-title: "Stamets' Iconic Mycelium Types for Strain Identification"
+title: "Stamets" Iconic Mycelium Types for Strain Identification"
 source:
   title: "Growing Gourmet and Medicinal Mushrooms"
 ---

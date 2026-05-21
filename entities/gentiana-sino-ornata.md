@@ -17,7 +17,7 @@ sources:
 
 Gentiana sino-ornata, commonly called the showy Chinese gentian, is a herbaceous perennial in the family Gentianaceae. It produces some of the largest and most vivid blue flowers among autumn-blooming gentians.
 
-Native to the eastern Himalaya and southwestern China, this species has become a cornerstone of rock garden cultivation worldwide. It received the Royal Horticultural Society's Award of Garden Merit in 1993.
+Native to the eastern Himalaya and southwestern China, this species has become a cornerstone of rock garden cultivation worldwide. It received the Royal Horticultural Society"s Award of Garden Merit in 1993.
 
 The species name *sino-ornata* means "Chinese ornamental," reflecting both its geographic origin and its striking floral display. It is one of the most sought-after alpine gentians in horticulture.
 

@@ -29,7 +29,7 @@ As some plants age, the epidermis is replaced by periderm, formed from **lateral
 
 ## Root Hairs
 
-[[root-hairs]] are among the most important structures for nutrient uptake. They are specialized epidermal cells that dramatically increase the root's contact area with soil.
+[[root-hairs]] are among the most important structures for nutrient uptake. They are specialized epidermal cells that dramatically increase the root"s contact area with soil.
 
 ### Formation and Structure
 - Each root hair is a **single epidermal cell** that extends outward from the root surface

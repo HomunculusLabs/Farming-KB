@@ -1,5 +1,5 @@
 ---
-title: Holmgren's Twelve bill-mollison-permaculture-a-designers-manual-permaculture-design-principles Principles Framework
+title: Holmgren"s Twelve bill-mollison-permaculture-a-designers-manual-permaculture-design-principles Principles Framework
 source: Permaculture: Principles & Pathways Beyond Sustainability (Holmgren, 2002)
 tags: [permaculture, design, sustainability, ethics, energy-descent, holmgren]
 ---

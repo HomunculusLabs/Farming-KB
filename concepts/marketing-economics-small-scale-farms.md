@@ -6,7 +6,7 @@ type: concept
 
 ## Marketing and Economics for Small-Scale Vegetable Farms
 
-The economic viability of a small-scale vegetable farm depends not only on production skills but equally on marketing strategy and pricing philosophy. [[eliot-coleman]]'s approach to marketing winter-harvest vegetables provides a model for small growers seeking to compete with industrial-scale organic operations by emphasizing quality, freshness, and local identity rather than price alone.
+The economic viability of a small-scale vegetable farm depends not only on production skills but equally on marketing strategy and pricing philosophy. [[eliot-coleman]]"s approach to marketing winter-harvest vegetables provides a model for small growers seeking to compete with industrial-scale organic operations by emphasizing quality, freshness, and local identity rather than price alone.
 
 ## The Limits of "Organic" as a Marketing Distinction
 
@@ -18,7 +18,7 @@ The distinction is straightforward: no matter who grew it or how it was grown, p
 
 ## Establishing a Reputation for Quality
 
-The foundation of Coleman's marketing strategy is building a reputation for exceptional quality. This is achieved through multiple reinforcing elements:
+The foundation of Coleman"s marketing strategy is building a reputation for exceptional quality. This is achieved through multiple reinforcing elements:
 
 - **Beautiful crops** grown with meticulous attention to soil health and variety selection
 - **Professional presentation** from field to delivery, including careful washing and packing
@@ -35,12 +35,12 @@ For the small-scale grower, this initial market validation is crucial. It confir
 
 Packaging plays a central role in establishing brand identity and customer loyalty. In a retail environment where dozens of products compete for attention, distinctive packaging can be the difference between a product that sells and one that sits. Four Season Farm developed a packaging system that is both functional and deeply branded:
 
-- **12-by-16-by-8-inch wooden boxes** handmade from native Maine cedar trees cut on the farm and milled on a neighbor's sawmill
+- **12-by-16-by-8-inch wooden boxes** handmade from native Maine cedar trees cut on the farm and milled on a neighbor"s sawmill
 - **Sanded smooth** and coated with food-grade finish for durability and hygiene
 - **Branded** with "Seasonal Salads" trademark burned into the end boards with a branding iron
 - **Lined with pure cellophane** (made from wood fibers, compostable after use) that folds over the produce and is secured with rubber bands
 
-The wooden boxes look attractive in produce coolers, catch the customer's eye, establish brand loyalty, and help sell whatever they contain. The choice of cedar — a product of the farm itself — reinforces the local and natural identity of the brand.
+The wooden boxes look attractive in produce coolers, catch the customer"s eye, establish brand loyalty, and help sell whatever they contain. The choice of cedar — a product of the farm itself — reinforces the local and natural identity of the brand.
 
 The reusable box concept was adopted after learning that 25 percent of the volume in the average landfill was food-packaging waste. Since all sales are local, it was feasible to eliminate contribution to that waste stream by making permanent, returnable boxes. Store managers approved of the concept and save the boxes for return on subsequent delivery days.
 
@@ -62,9 +62,9 @@ The case for premium pricing is strengthened by growing scientific evidence for 
 
 Higher food quality is a marketing advantage both for the grower and for the retail stores that carry the product. As more articles appear in scientific journals attesting to the nutritional benefits of naturally raised food, the consumer case for paying premium prices becomes easier to make.
 
-Winter-harvest vegetables may offer an additional nutritional advantage. Highly colored foods grown under cool conditions have been shown to be much higher in anthocyanins, one of the most valuable antioxidant compounds. This is easily observed in the much deeper red color of red lettuces and 'Bull's Blood' beet leaves from the winter greenhouse compared to the same varieties grown in warm conditions. Green leaves can also be high in anthocyanins, as the plants produce them specifically to resist cold stress.
+Winter-harvest vegetables may offer an additional nutritional advantage. Highly colored foods grown under cool conditions have been shown to be much higher in anthocyanins, one of the most valuable antioxidant compounds. This is easily observed in the much deeper red color of red lettuces and "Bull's Blood' beet leaves from the winter greenhouse compared to the same varieties grown in warm conditions. Green leaves can also be high in anthocyanins, as the plants produce them specifically to resist cold stress.
 
-Coleman frames this as a "health assurance" argument: the average American spending hundreds of dollars per month on sickness insurance would be wiser to invest an additional $10 per day in high-quality local fruits and vegetables. This would simultaneously increase the market for local growers and benefit customers' health.
+Coleman frames this as a "health assurance" argument: the average American spending hundreds of dollars per month on sickness insurance would be wiser to invest an additional $10 per day in high-quality local fruits and vegetables. This would simultaneously increase the market for local growers and benefit customers" health.
 
 ## The Economics of Winter Production
 

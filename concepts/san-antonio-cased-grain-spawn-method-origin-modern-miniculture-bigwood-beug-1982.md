@@ -8,7 +8,7 @@ establishing a foundational indoor-morel-cultivation-protocol that would influen
 small-scale mushroom research.
 ---
 
-## San Antonio's Original Protocol (1971)
+## San Antonio"s Original Protocol (1971)
 
 San Antonio published a laboratory method in *Mycologia* (Vol. 63, pp. 16-21)
 designed to reliably produce fruiting bodies from grain spawn without requiring

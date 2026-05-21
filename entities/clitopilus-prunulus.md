@@ -33,7 +33,7 @@ sources:
 Basidiomycota → Agaricomycetes → Agaricales → **Clitopilaceae → *Clitopilus* → *C. prunulus***
 
 - **Synonyms:** *Agaricus prunulus* Scop. (1772), *Pleurotus prunulus* (Scop.) P. Kumm. (1871), *Rhodophyllus prunulus* (Scop.) Quél. (1886)
-- **Etymology:** *prunulus* means "small plum," referring to the cap's coloration resembling a prune; "miller" refers to the distinctive odor of fresh flour
+- **Etymology:** *prunulus* means "small plum," referring to the cap"s coloration resembling a prune; "miller" refers to the distinctive odor of fresh flour
 
 ## Morphology
 

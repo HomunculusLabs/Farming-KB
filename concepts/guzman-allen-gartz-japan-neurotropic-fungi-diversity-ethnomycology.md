@@ -10,7 +10,7 @@ tags: [neurotropic-fungi, japan, mycology, distribution, psilocybin, agaritine, 
 
 ## Overview
 
-Japan possesses one of the most thoroughly documented neurotropic fungal floras in Asia, as catalogued in Guzmán, Allen & Gartz's (2000) comprehensive worldwide survey. The archipelago's combination of temperate [[query-how-to-grow-rare-tropical-fruits-in-marginal-and-subtropical-climates]], along with Japan's long tradition of mycological research (particularly by Hongo, Imazeki, and their colleagues), has resulted in a species list that rivals that of many European countries. Japan is notable for hosting multiple species of Cordyceps used in traditional practices, a diverse array of Psilocybe species, and several unique ethnomycological traditions.
+Japan possesses one of the most thoroughly documented neurotropic fungal floras in Asia, as catalogued in Guzmán, Allen & Gartz"s (2000) comprehensive worldwide survey. The archipelago's combination of temperate [[query-how-to-grow-rare-tropical-fruits-in-marginal-and-subtropical-climates]], along with Japan's long tradition of mycological research (particularly by Hongo, Imazeki, and their colleagues), has resulted in a species list that rivals that of many European countries. Japan is notable for hosting multiple species of Cordyceps used in traditional practices, a diverse array of Psilocybe species, and several unique ethnomycological traditions.
 
 ## Species Inventory
 
@@ -21,7 +21,7 @@ Japan is unusual among Asian countries in hosting two Cordyceps species used as 
 
 ### Amanita Species (Ibotenic Acid Group)
 - **Amanita muscaria** — The most extensively documented neurotropic fungus in Japan, reported by Hongo (1959, 1960), Takemoto et al. (1964a, 1964b), Heim (1965a, b, 1978), Chilton et al. (1974), Ott (1976b, 1993), Hongo & Yokoyama (1978), Imazeki & Hongo (1983, 1987), Yokoyama (1985), and Imazeki et al. (1988). In Japan, A. muscaria is mycorrhizal with birch (Betula) and various Pinus species in northern and montane forests.
-- **Amanita pantherina** — Hongo (1959, 1960), Chilton et al. (1974), Chilton & Ott (1976), Heim (1978), Imazeki & Hongo (1983, 1987), Yokoyama (1985), Imazeki et al. (1988), Ott (1993). The "panther cap" is widespread in Japan's deciduous and mixed forests.
+- **Amanita pantherina** — Hongo (1959, 1960), Chilton et al. (1974), Chilton & Ott (1976), Heim (1978), Imazeki & Hongo (1983, 1987), Yokoyama (1985), Imazeki et al. (1988), Ott (1993). The "panther cap" is widespread in Japan"s deciduous and mixed forests.
 
 ### Agrocybe Species
 - **Agrocybe farinacea** — Hongo (1960), Koike et al. (1981), Imazeki & Hongo (1983, 1987). One of the few non-Psilocybe agarics confirmed to contain indole compounds.
@@ -43,7 +43,7 @@ Japan hosts several Gymnopilus species:
 - **[[dictyophora-indusiata]]** — Imazeki & Hongo (1983, 1987), Yokoyama (1985), Imazeki et al. (1988). The "veiled lady mushroom" or "long net stinkhorn." While classified by Guzmán, Allen & Gartz among sacred fungi without confirmed chemical studies, this striking mushroom has a long history in Chinese and Japanese traditional medicine and cuisine.
 
 ### Panaeolina Species
-- **Panaeolina foenisecii** — Hongo (1959, 1986), Dennis (1986). Interestingly, despite being common in Japan, it was not recorded in the major Japanese fungal floras by Imazeki & Hongo (1983, 1987) or Imazeki et al. (1988), only by Hongo's separate publications.
+- **Panaeolina foenisecii** — Hongo (1959, 1986), Dennis (1986). Interestingly, despite being common in Japan, it was not recorded in the major Japanese fungal floras by Imazeki & Hongo (1983, 1987) or Imazeki et al. (1988), only by Hongo"s separate publications.
 - **Panaeolina rhombisperma** — Hongo (1973a, 1978), Horak (1980), Gerhardt (1996)
 - **Panaeolina sagarae** — Hongo (1977b, 1978a). A species described from Japanese collections.
 
@@ -83,7 +83,7 @@ Japanese mycological research on neurotropic fungi extends back over a century. 
 
 ## Ethnomycological Context
 
-Japan's relationship with psychoactive mushrooms differs markedly from Mexico's well-documented ceremonial traditions. While there is no evidence of widespread indigenous ceremonial use of psilocybin mushrooms in Japan comparable to Mesoamerican practices, several observations are noteworthy:
+Japan"s relationship with psychoactive mushrooms differs markedly from Mexico's well-documented ceremonial traditions. While there is no evidence of widespread indigenous ceremonial use of psilocybin mushrooms in Japan comparable to Mesoamerican practices, several observations are noteworthy:
 
 The Japanese name "waraitake" (laughing mushroom) for Gymnopilus spectabilis suggests traditional awareness of its psychoactive effects, even if formal ceremonial use was not documented. The inclusion of Cordyceps capitata and C. ophioglossoides in the neurotropic category reflects their use in traditional Japanese and Chinese medicine, though whether their traditional use was specifically for psychoactive effects is unclear.
 
@@ -91,7 +91,7 @@ Dictyophora indusiata occupies a unique position — it is considered a delicacy
 
 ## Biogeographic Connections
 
-Japan's neurotropic fungal flora shows connections to multiple regions:
+Japan"s neurotropic fungal flora shows connections to multiple regions:
 - **Boreal/Northern temperate**: Amanita muscaria, Psilocybe septentrionalis connect to circumboreal distributions
 - **Southeast Asian**: Copelandia cyanescens, Psilocybe subaeruginascens link to tropical Asian species pools
 - **Trans-Pacific**: P. subaeruginascens also occurs in the Americas, suggesting ancient dispersal patterns

@@ -40,7 +40,7 @@ window must be used efficiently.
 
 ## Daily Harvest Sequence
 
-The workday follows a deliberate path through the farm's different growing
+The workday follows a deliberate path through the farm"s different growing
 environments to make the best use of warming temperatures:
 
 1. **Early morning** — Begin in the **cool greenhouse**, where the higher
@@ -81,7 +81,7 @@ Food safety is treated as paramount. The wash/pack station operates under a
 strict cleanliness protocol:
 
 - The scrub area is **cleaned after every harvest day**.
-- The farm's well water is **tested annually**.
+- The farm"s well water is **tested annually**.
 - **Hand washing is mandatory** for all crew members before handling produce.
 - **Hats and hairnets** are required at all times in the wash/pack area.
 - Each salad ingredient is **washed separately** before combining, which

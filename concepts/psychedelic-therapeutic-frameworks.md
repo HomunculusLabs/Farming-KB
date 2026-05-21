@@ -10,7 +10,7 @@ sources:
 
 ## Psychedelic Therapeutic Frameworks
 
-Powell's The [[philosophical-implications-of-psychedelics]]
+Powell"s The [[philosophical-implications-of-psychedelics]]
 - [[tryptamine]] research philosophy
 
 ## Merged: Piggyback Window Exploitation Psychotherapy
@@ -37,7 +37,7 @@ Shulgin distinguished two mechanisms by which drugs can interact to produce unex
 
 ## MDE as a Window Compound
 
-MDE (EVE) played a special role in this methodology. Shulgin noted that while MDE's effects are "similar in many ways to those of MDMA," there are "believable differences" -- "the particular magic, and affective transference, does not appear to be there." However, its capacity to create a therapeutic window made it valuable as a primary or bridging compound. One unpublished clinical experiment attempted extension with MDE rather than MDMA at the 1 hour 45 minute point: "The effective time of intoxication was extended, but the group fell surprisingly quiet, with a drop in the usual urge to converse and interact."
+MDE (EVE) played a special role in this methodology. Shulgin noted that while MDE"s effects are "similar in many ways to those of MDMA," there are "believable differences" -- "the particular magic, and affective transference, does not appear to be there." However, its capacity to create a therapeutic window made it valuable as a primary or bridging compound. One unpublished clinical experiment attempted extension with MDE rather than MDMA at the 1 hour 45 minute point: "The effective time of intoxication was extended, but the group fell surprisingly quiet, with a drop in the usual urge to converse and interact."
 ## Practical Considerations
 
 When working with psychedelic therapeutic frameworks, several practical factors should be

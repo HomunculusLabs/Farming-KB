@@ -14,11 +14,11 @@ sources:
 
 ## Overview
 
-**Rumex patientia** is a perennial herb in the family Polygonaceae, commonly known as patience dock, herb patience, or monk's rhubarb. It is native to Europe and western Asia and has been cultivated for centuries as a leaf vegetable.
+**Rumex patientia** is a perennial herb in the family Polygonaceae, commonly known as patience dock, herb patience, or monk"s rhubarb. It is native to Europe and western Asia and has been cultivated for centuries as a leaf vegetable.
 
 The species is closely related to garden rhubarb (*Rheum rhabarbarum*) and shares its tart, acidic flavor profile. Unlike rhubarb, patience dock is grown primarily for its leaves rather than its leaf stalks.
 
-The plant has a long history of use in European folk medicine as a digestive aid, laxative, and blood purifier. It was widely cultivated in medieval monastery gardens, which accounts for the common name "monk's rhubarb."
+The plant has a long history of use in European folk medicine as a digestive aid, laxative, and blood purifier. It was widely cultivated in medieval monastery gardens, which accounts for the common name "monk"s rhubarb."
 
 Patience dock has naturalized widely in [[fungal-calcium-oxalate-crystals]] druses are abundant in leaf mesophyll tissues. Root cortex contains anthraquinone pigments.
 

@@ -12,7 +12,6 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - EMCDDA (2014). "Risk assessment of 25i-nbome." EMCDDA-Europol.---
----
 
 ## 25B-NBOMe
 

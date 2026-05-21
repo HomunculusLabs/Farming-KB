@@ -58,7 +58,7 @@ of kind.
 
 ## Applications in Agriculture and Horticulture
 
-Understanding phytochrome's ecological role has direct practical applications.
+Understanding phytochrome"s ecological role has direct practical applications.
 Growers can manipulate flowering by controlling the red-far-red environment.
 Chrysanthemum farmers, for example, use [[chrysanthemum-greenhouse-photoperiod-manipulation]] to delay flowering
 until just before Mother's Day. During autumn and winter, greenhouse lights are

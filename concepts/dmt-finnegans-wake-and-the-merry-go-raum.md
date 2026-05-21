@@ -23,10 +23,10 @@ created: 2026-05-07
 
 ## Joyce as Cartographer of Hyperspace
 
-[[mckenna-dmt-experience-and-hyperspace]], McKenna borrows from James Joyce's *Finnegans
+[[mckenna-dmt-experience-and-hyperspace]], McKenna borrows from James Joyce"s *Finnegans
 Wake* to name what he finds there. He describes arriving, approximately thirty seconds after
 smoking DMT, in "a place that defies description, a space that has a feeling of being
-underground, or somehow insulated and domed." He then identifies this space with Joyce's
+underground, or somehow insulated and domed." He then identifies this space with Joyce"s
 concept of the "merry go raum," from the German *Raum* meaning "space." In *Finnegans Wake*,
 Joyce created a language designed to operate on multiple levels simultaneously — phonetic,
 semantic, symbolic, dreamlike, mythological — a language that aimed to capture the workings
@@ -38,7 +38,7 @@ translation into ordinary speech.
 ## Three Meanings in One Phrase
 
 The phrase "merry go raum" collapses at least three meanings simultaneously, in a manner
-entirely consistent with Joyce's own technique of multi-layered punning. First, it suggests a
+entirely consistent with Joyce"s own technique of multi-layered punning. First, it suggests a
 merry-go-round — the spinning, circular quality of the experience where space itself appears
 to rotate around the voyager, creating a proprioceptive sensation of being at the center of a
 turning cosmos. Second, it reads as "the room that is going" — the space is not static but
@@ -54,7 +54,7 @@ at once, resisting any single interpretation.
 
 ## Insulated and Domed Space
 
-McKenna's phenomenological description of the DMT space as "insulated and domed" is
+McKenna"s phenomenological description of the DMT space as "insulated and domed" is
 consistent across multiple reports from experienced DMT users. The sensation is one of
 entering an enclosed, self-contained reality — not a vision overlaid on ordinary space but a
 complete environment with its own physics, its own logic, its own inhabitants. This quality

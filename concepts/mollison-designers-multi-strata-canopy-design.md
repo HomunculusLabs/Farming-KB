@@ -38,7 +38,7 @@ species and managing light competition:
    classic examples.
 
 Not all seven layers must be present in every design. The specific layers
-included depend on climate, available species, and the designer's objectives.
+included depend on climate, available species, and the designer"s objectives.
 However, the principle of filling every available niche with a productive
 species remains constant.
 

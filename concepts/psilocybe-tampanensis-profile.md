@@ -11,7 +11,7 @@ sources:
 
 ## Overview
 
-*Psilocybe tampanensis* is a rare psilocybin-containing mushroom originally collected from a sandy pasture near Tampa, Florida in 1977 by Steven Pollock and a colleague. It is most famous as the premier sclerotia-producing species -- the "philosopher's stones" sold in European smart shops are sclerotia of this species or [[synthetic-log-cultivation-methods-guide]] and [[gottlieb-psilocybin-cultivation-fruiting-chamber-design]], no light cycling required
+*Psilocybe tampanensis* is a rare psilocybin-containing mushroom originally collected from a sandy pasture near Tampa, Florida in 1977 by Steven Pollock and a colleague. It is most famous as the premier sclerotia-producing species -- the "philosopher"s stones" sold in European smart shops are sclerotia of this species or [[synthetic-log-cultivation-methods-guide]] and [[gottlieb-psilocybin-cultivation-fruiting-chamber-design]], no light cycling required
 
 ### Fruiting Body Production
 

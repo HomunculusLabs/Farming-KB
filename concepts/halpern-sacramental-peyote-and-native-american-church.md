@@ -24,7 +24,7 @@ The Native American Church (NAC) represents the longest-standing legal protectio
 psychedelic use in the [[lophophora-williamsii]]) is a small, spineless cactus containing over sixty alkaloids, of
 which mescaline (beta-3,4,5-trimethoxyphenethylamine) is the principal hallucinogenic constituent at
 approximately 1.5% by dry weight. The cactus grows in a narrow strip of desert along the Texas-
-Mexico border, extending deeply into Mexico's Chihuahuan Desert. It has a small crown visible above
+Mexico border, extending deeply into Mexico"s Chihuahuan Desert. It has a small crown visible above
 the earth and a tuberous, carrot-like root extending below. When properly harvested by cutting, only
 the crown ("button") is removed, leaving the root intact to sprout new crowns for future
 reharvesting.

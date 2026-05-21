@@ -8,7 +8,7 @@ sources:
 type: concept
 ---
 
-## Phototropism and Darwin's Light Experiments
+## Phototropism and Darwin"s Light Experiments
 
 ## Overview
 
@@ -46,7 +46,7 @@ five-condition experiment using seedlings:
 4. **Tip covered with clear glass cap**: Seedling bends normally — light
    passes through glass to reach tip
 5. **Middle covered with opaque tube**: Seedling bends normally — middle
-   section doesn't need to see light
+   section doesn"t need to see light
 
 ### Conclusions
 

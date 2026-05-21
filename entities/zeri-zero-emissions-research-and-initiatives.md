@@ -12,7 +12,7 @@ categories:
 
 ## Description
 
-ZERI (Zero Emissions Research and Initiatives) is an international sustainability organization founded by visionary eco-designer Gunter Pauli. The organization's core philosophy is "zero emissions means zero waste," and it applies systems thinking — holistic analysis considering feedback loops in complex dynamic systems — to design projects that address all human needs (food, shelter, livelihood, self-esteem, community) in a sustainable manner. ZERI's design principles are modeled on the natural world, specifically the relationships among the five kingdoms of life: bacteria, protists (e.g., algae), plants, animals, and fungi. The organization has pioneered innovative approaches to mushroom cultivation as a key component of integrated zero-emissions systems.
+ZERI (Zero Emissions Research and Initiatives) is an international sustainability organization founded by visionary eco-designer Gunter Pauli. The organization"s core philosophy is "zero emissions means zero waste," and it applies systems thinking — holistic analysis considering feedback loops in complex dynamic systems — to design projects that address all human needs (food, shelter, livelihood, self-esteem, community) in a sustainable manner. ZERI"s design principles are modeled on the natural world, specifically the relationships among the five kingdoms of life: bacteria, protists (e.g., algae), plants, animals, and fungi. The organization has pioneered innovative approaches to mushroom cultivation as a key component of integrated zero-emissions systems.
 
 ## Classification
 
@@ -31,7 +31,7 @@ ZERI (Zero Emissions Research and Initiatives) is an international sustainabilit
 - Developed the Namibia brewery project in Tsumeb, Namibia — a model integrated system where brewery waste grain feeds oyster mushrooms (Pleurotus ostreatus), spent mushroom substrate feeds livestock, wastewater feeds anaerobic bacteria producing methane for energy, effluent feeds algae in oxidation ponds, algae feeds fish, and remaining nutrient-rich water fertilizes crops. All five kingdoms of life are utilized.
 - Pauli trains and certifies practitioners internationally in his revolutionary eco-design principles; his students have initiated projects in both developed and developing nations.
 - Sustainable Communities/ZERI-New Mexico (SCZ-NM) was one of the first ZERI projects in the USA, working under the U.S. Forest Service Collaborative Forest Restoration Program.
-- ZERI's approach demonstrates that mushroom cultivation can be a central component of sustainable systems, transforming agricultural and industrial waste into food, feed, compost, and value-added products.
+- ZERI"s approach demonstrates that mushroom cultivation can be a central component of sustainable systems, transforming agricultural and industrial waste into food, feed, compost, and value-added products.
 
 ## Relevance to Cultivation and Mycology
 

@@ -34,7 +34,7 @@ This distinguishes [[set-and-setting-model-psychedelic-therapy]] was introduced 
 consciousness involving non drug triggers such as hypnosis, meditation,
 rhythmic drumming, sensory isolation, and fasting. In this framework, the
 psychoactive substance is not the primary agent of change but rather a
-facilitator that opens a door to experiences shaped by the individual's
+facilitator that opens a door to experiences shaped by the individual"s
 expectations, intentions, and environment.
 
 ## Principle Three: Amplifier and Microscope Analogies

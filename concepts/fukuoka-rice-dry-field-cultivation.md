@@ -14,7 +14,7 @@ Source: [[fukuoka-straw-mulch-philosophy]], making it possible to grow rice in a
 
 ## The Compact Variety Principle
 
-This principle -- that small, sturdy plants produce more grain per unit of straw than large, leafy ones -- applies across all grain crops. Fukuoka's approach runs directly counter to modern agricultural science, which breeds for maximum [[cervantes-chemical-fertilizers-guide]], often have harvest indices of 0.4 to 0.5, meaning that half or more of the plant's energy goes into straw. Fukuoka's compact, naturally-grown varieties achieved harvest indices exceeding 0.5, with rice weight actually exceeding straw weight in good years.
+This principle -- that small, sturdy plants produce more grain per unit of straw than large, leafy ones -- applies across all grain crops. Fukuoka"s approach runs directly counter to modern agricultural science, which breeds for maximum [[cervantes-chemical-fertilizers-guide]], often have harvest indices of 0.4 to 0.5, meaning that half or more of the plant's energy goes into straw. Fukuoka's compact, naturally-grown varieties achieved harvest indices exceeding 0.5, with rice weight actually exceeding straw weight in good years.
 
 ## Why Modern Rice Is Vulnerable
 

@@ -7,7 +7,7 @@ tags: [person, ecology, systems-theory, resilience, panarchy]
 
 ## Overview
 
-Crawford Stanley (C.S.) Holling is a Canadian ecologist and one of the most influential systems thinkers in modern ecology. Referenced by David Holmgren on page 258 of *Permaculture: Principles and Pathways Beyond Sustainability*, Holling's work on ecosystem dynamics, particularly his **Four-Phase Model of Ecosystem Change** and **Adaptive Cycle**, provides a foundational theoretical framework for understanding how permaculture systems evolve over time.
+Crawford Stanley (C.S.) Holling is a Canadian ecologist and one of the most influential systems thinkers in modern ecology. Referenced by David Holmgren on page 258 of *Permaculture: Principles and Pathways Beyond Sustainability*, Holling"s work on ecosystem dynamics, particularly his **Four-Phase Model of Ecosystem Change** and **Adaptive Cycle**, provides a foundational theoretical framework for understanding how permaculture systems evolve over time.
 
 ## Academic Background
 

@@ -14,7 +14,7 @@ Domestic [[permaculture-design]] addresses the significant misuse of potable wat
 
 ### Handbasin-to-Toilet Diversion Systems
 
-A simple but highly effective conservation strategy involves diverting handbasin wastewater directly into the toilet flush tank. In Australia, toilet units with moulded-in handbasins are commercially available (referenced as Figure 7.31 in Mollison's manual). This approach:
+A simple but highly effective conservation strategy involves diverting handbasin wastewater directly into the toilet flush tank. In Australia, toilet units with moulded-in handbasins are commercially available (referenced as Figure 7.31 in Mollison"s manual). This approach:
 
 - Eliminates the use of clean potable water for flushing entirely
 - The handbasin water volume approximately equals toilet flush requirements

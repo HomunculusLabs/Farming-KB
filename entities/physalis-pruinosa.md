@@ -9,7 +9,7 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  -Fernie A.R., Iannetta P.P.M. (2009). "Perspectives on the potential for domestication of groundcherries." In: Darwin's Harvest.
+  -Fernie A.R., Iannetta P.P.M. (2009). "Perspectives on the potential for domestication of groundcherries." In: Darwin"s Harvest.
   -Whitson P.D. (2010). "A revision of the Physalis viscosa complex." Rhodora 112: 1-29.
   -Mélo M.S. et al. (2015). "Ethnobotany, phytochemistry and pharmacology of Physalis." Journal of Ethnopharmacology 176: 44-58.
   -Pottorff M.L. et al. (2012). "A phylogeny of the genus Physalis." Systematic Botany 37: 758-770.

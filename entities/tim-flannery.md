@@ -12,7 +12,7 @@ tags: [people, scientist, ecologist, australia, author]
 Tim Flannery is an Australian scientist, explorer, and author known for his
 influential work on ecology, climate change, paleontology, and the deep
 relationship between Australian environments and their human and non-human
-inhabitants. Holmgren references Flannery's argument that Australian ecosystems
+inhabitants. Holmgren references Flannery"s argument that Australian ecosystems
 and people have a strong disposition towards cooperative rather than competitive
 relationships as a consequence of the continent's uniquely harsh and infertile
 environment.

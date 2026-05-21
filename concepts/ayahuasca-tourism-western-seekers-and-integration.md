@@ -20,7 +20,7 @@ The article traces a generational sequence of Western spiritual appropriation th
 
 - **1950s**: The Beats explored Zen Buddhism, drawn to its minimalist aesthetics and emphasis on direct experience rather than doctrinal belief. Writers like Jack Kerouac and Gary Snyder popularized Buddhist practice for a Western countercultural audience.
 
-- **1960s**: Hippies flocked to Hindu swamis, particularly after the Beatles' engagement with Maharishi Mahesh Yogi and the popularization of Transcendental Meditation.
+- **1960s**: Hippies flocked to Hindu swamis, particularly after the Beatles" engagement with Maharishi Mahesh Yogi and the popularization of Transcendental Meditation.
 
 - **1970s**: Cult leaders like the Reverend Moon and others drew large followings, some with destructive consequences that highlighted the risks of uncritical adoption of unfamiliar spiritual authorities.
 

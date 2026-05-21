@@ -1,5 +1,5 @@
 ---
-title: Gaia's Garden Methods
+title: Gaia"s Garden Methods
 created: 2026-04-11
 updated: 2026-04-12
 type: concept
@@ -9,7 +9,7 @@ sources: [raw/papers/gaias-garden-toby-hemenway.md]
 
 # Gaia's Garden — Home-Scale Permaculture Methods
 
-Toby Hemenway's "Gaia's Garden" (2001, updated 2009) is the most accessible guide to applying permaculture design at home and garden scale. It translates Mollison and Holmgren's principles into practical methods for suburban and rural yards.
+Toby Hemenway's "Gaia"s Garden" (2001, updated 2009) is the most accessible guide to applying permaculture design at home and garden scale. It translates Mollison and Holmgren"s principles into practical methods for suburban and rural yards.
 
 ## Three Ecological Principles
 
@@ -105,7 +105,7 @@ Hemenway emphasizes that plants grow better in communities than alone:
 
 ## Creating a Food Forest for Small Yards
 
-See [[food-forest-design]] for the full framework. Hemenway's approach:
+See [[food-forest-design]] for the full framework. Hemenway"s approach:
 - Start with canopy fruit trees spaced for mature size
 - Add understory fruit (berries, dwarf trees)
 - Fill with shrubs, herbs, ground covers, root crops, and vines
@@ -122,7 +122,7 @@ See [[food-forest-design]] for the full framework. Hemenway's approach:
 - [[gaia-garden-plant-guilds]] — Detailed guild design from Gaia's Garden
 - [[permaculture-animal-integration]] — Chickens, ducks, and wildlife in the garden
 - [[permaculture-succession]] — Ecological succession and garden assembly
-- [[toby-hemenway]] — Author of "Gaia's Garden," permaculture educator
+- [[toby-hemenway]] — Author of "Gaia"s Garden," permaculture educator
 
 ## Related
 

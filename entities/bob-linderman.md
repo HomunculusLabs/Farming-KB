@@ -21,7 +21,7 @@ Bob Linderman is a mycology researcher recognized by [[elaine-ingham]] as a key 
 - Recognized expert on VAM and mycorrhizal fungi
 - Consulted by Ingham alongside Jim Trappe for mycorrhizal identification questions
 - Expertise covers the full spectrum of mycorrhizal types: VAM, ectomycorrhizal, and ericoid
-- Contributed to the scientific foundation underlying SFI's mycorrhizal assessment protocols
+- Contributed to the scientific foundation underlying SFI"s mycorrhizal assessment protocols
 - Part of the informal network of mycorrhizal experts that informed practical soil biology testing
 
 ## Relevance to Cultivation and Mycology

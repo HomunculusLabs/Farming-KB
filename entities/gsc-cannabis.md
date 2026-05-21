@@ -13,7 +13,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "Mudge, E. et al. 'Cannabis Chemovar Classification.' Cannabis and Cannabinoid Research, 2022."
+  - "Mudge, E. et al. "Cannabis Chemovar Classification.' Cannabis and Cannabinoid Research, 2022."
 ---
 # Girl Scout Cookies (GSC)
 

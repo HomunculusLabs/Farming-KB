@@ -12,7 +12,7 @@ type: concept
 
 Spagyric preparation is an alchemical herbal processing method that aims to
 produce a more complete and potent extract than conventional extraction. When
-applied to cannabis, spagyric techniques seek to capture not only the plant's
+applied to cannabis, spagyric techniques seek to capture not only the plant"s
 volatile oils and resins but also its mineral salts, creating what
 practitioners believe is a holistically superior preparation.
 

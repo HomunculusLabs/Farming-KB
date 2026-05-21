@@ -10,11 +10,11 @@ sources:
 
 ## Mu (Nothingness) Philosophy
 
-The philosophy of Mu -- nothingness, emptiness, the void -- is the deepest philosophical foundation of Masanobu Fukuoka's [[non-discriminating-knowledge-and-critique-of-scientific-reductionism]] and abandon the impulse to control nature, what remains is the reality of nature itself -- whole, complete, and self-sustaining.
+The philosophy of Mu -- nothingness, emptiness, the void -- is the deepest philosophical foundation of Masanobu Fukuoka"s [[non-discriminating-knowledge-and-critique-of-scientific-reductionism]] and abandon the impulse to control nature, what remains is the reality of nature itself -- whole, complete, and self-sustaining.
 
 ## The Moment of Revelation
 
-Fukuoka described the moment when the philosophy of Mu came to him: "I had been grappling with the meaning of life and humanity when one night the truth came to me in a flash. I saw all of a sudden that nature is an astounding thing that cannot be named. In that instant, I understood the principle of 'nothingness,' of Mu."
+Fukuoka described the moment when the philosophy of Mu came to him: "I had been grappling with the meaning of life and humanity when one night the truth came to me in a flash. I saw all of a sudden that nature is an astounding thing that cannot be named. In that instant, I understood the principle of "nothingness,' of Mu."
 
 This revelation was not the end of his journey but the beginning. It took decades of farming practice to fully embody the insight. Each year of observation and experimentation confirmed that nature, when left to itself, produces abundantly without human intervention. His [[comparison-natural-farming-vs-permaculture]] begins with the assumption that nature is perfect.
 

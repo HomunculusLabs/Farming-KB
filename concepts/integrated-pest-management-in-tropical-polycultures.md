@@ -64,7 +64,7 @@ Marigolds often serve to reduce or eliminate nematode populations when interplan
 
 ### Crotolaria as a Trap Crop
 
-*Crotolaria*, a leguminous green manure crop, traps nematodes in its root mycelia. Nematodes are attracted to Crotolaria roots but cannot complete their life cycle there, effectively reducing the population in the surrounding soil. This function is additional to Crotolaria's primary role as a nitrogen-fixing green manure.
+*Crotolaria*, a leguminous green manure crop, traps nematodes in its root mycelia. Nematodes are attracted to Crotolaria roots but cannot complete their life cycle there, effectively reducing the population in the surrounding soil. This function is additional to Crotolaria"s primary role as a nitrogen-fixing green manure.
 
 ### The Role of Soil Humus
 

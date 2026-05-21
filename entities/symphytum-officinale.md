@@ -13,7 +13,6 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Jacke, D. & Toensmeier, E. (2005). Edible Forest Gardens. chelsea-green-publishing."---
----
 
 ## Symphytum officinale
 

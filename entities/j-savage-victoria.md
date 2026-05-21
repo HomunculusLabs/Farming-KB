@@ -28,7 +28,7 @@ J. Savage is an Australian farmer from Victoria who successfully implemented a [
 
 ## Relevance to Cultivation and Permaculture
 
-Savage's system exemplifies several core permaculture principles:
+Savage"s system exemplifies several core permaculture principles:
 
 1. **Multi-species integration**: Rather than single-species grazing, Savage's rotation uses each animal species to prepare the sward or browse for its successor. Each animal selects different forage, controls different weeds, and deposits different manure patterns.
 

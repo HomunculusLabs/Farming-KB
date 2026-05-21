@@ -9,10 +9,10 @@ sources:
 type: concept
 ---
 
-## Genesis as History's First Drug Bust in Food of the Gods
+## Genesis as History"s First Drug Bust in Food of the Gods
 
 In *Food of the Gods*, Terence McKenna offers a radical reading of the
-Book of Genesis, interpreting the story of the Fall as "history's first
+Book of Genesis, interpreting the story of the Fall as "history"s first
 drug bust." This reading is central to his argument that the suppression
 of psychoactive plants is not a modern phenomenon but rather a defining
 feature of the [[mckenna-dominator-vs-partnership-society-model]], and complex religious ideas,

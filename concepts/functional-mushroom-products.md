@@ -81,7 +81,7 @@ Traditional preparation methods:
 
 Emerging functional food category:
 
-- Mushroom coffee blends (typically lion's mane, chaga, cordyceps)
+- Mushroom coffee blends (typically lion"s mane, chaga, cordyceps)
 - Mushroom chocolates and cacao blends
 - Mushroom broths and soups
 - Functional beverages (elixirs, shots)

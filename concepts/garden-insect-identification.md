@@ -9,7 +9,7 @@ sources: [raw/papers/gardening-when-it-counts-steve-solomon.md]
 
 # Garden Insect Identification
 
-Common garden insect pests as described in Steve Solomon's *Gardening When It Counts*, along with identification characteristics and control methods. Solomon emphasizes that the first response to pest problems should be to ask whether the struggling plant is simply not growing fast enough to overcome the problem — often the best cure is fertilizer, not pesticide.
+Common garden insect pests as described in Steve Solomon"s *Gardening When It Counts*, along with identification characteristics and control methods. Solomon emphasizes that the first response to pest problems should be to ask whether the struggling plant is simply not growing fast enough to overcome the problem — often the best cure is fertilizer, not pesticide.
 
 ## Aphids (Aphididae family)
 
@@ -17,7 +17,7 @@ Small, soft-bodied insects that cluster on leaves and suck sap.
 
 - **Damage**: In large numbers they cause leaf curl and stunting. Can weaken or badly stunt a plant. They multiply rapidly but may also exist at low levels without much trouble.
 - **Identification**: Clustered on new growth and undersides of leaves. Often tended by ants which "farm" them for their sweet secretion.
-- **Threshold**: Don't rush to fight them when you see a few. They become a serious concern when they cover about 5 percent of the entire leaf area.
+- **Threshold**: Don"t rush to fight them when you see a few. They become a serious concern when they cover about 5 percent of the entire leaf area.
 - **Control**: Spray off leaves with a hose. Safer's insecticidal soap is effective and non-toxic. Rotenone/pyrethrum combination works but also kills bees and beneficials. Neem spray is a longer-lasting natural remedy.
 
 ## Cabbageworms (Pieris rapae, Trichoplusia ni)
@@ -99,7 +99,7 @@ About 5/8 inch long, dark brown or mottled, with an unpleasant odor.
 
 - **Control**: Solomon mentions wireworms among the numerous soil-dwelling pests controlled by parasitic nematodes, along with onion maggots, carrot weevils, cutworms, and cucumber beetle larvae. See [[leatherjacket-pest-control]].
 
-## Solomon's Pest Management Philosophy
+## Solomon"s Pest Management Philosophy
 
 - **Plant twice what you need**: So pests and diseases can't wipe out your food supply
 - **Don't sow too early**: The biggest single cause of pest trouble

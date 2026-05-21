@@ -27,12 +27,12 @@ their work with LSD and psilocybin. The term was deliberately chosen to
 frame these substances as tools for revealing the contents and potentials of
 consciousness rather than as agents of mental disturbance.
 
-Metzner's use of "psychedelic" reflects its historical importance as the
+Metzner"s use of "psychedelic" reflects its historical importance as the
 term that organized an entire generation of research and cultural
 exploration. The concept of "[[mckenna-consciousness-expansion-and-drug-war]]" that it implies —
 contrastable with the contracted, fixated awareness characteristic of
 addictions and compulsions — became the theoretical foundation for the
-Harvard group's work and for the broader countercultural movement that
+Harvard group"s work and for the broader countercultural movement that
 adopted the term. The psychedelic framing emphasized the positive,
 transformative potential of these experiences and positioned them within a
 narrative of personal and cultural evolution.

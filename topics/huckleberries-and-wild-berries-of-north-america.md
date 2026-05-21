@@ -13,7 +13,6 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - C. K. Evreinoff (2019). "Vaccinium species: guzman-allen-gartz-panaeoloid-fungi-taxonomy-and-distribution." Botanical Review 85(2).---
----
 # Huckleberries and Wild Berries of North America
 
 ## Introduction

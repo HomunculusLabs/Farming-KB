@@ -1,5 +1,5 @@
 ---
-title: "Zone and Sector Analysis in Garden Design (Gaia's Garden)"
+title: "Zone and Sector Analysis in Garden Design (Gaia"s Garden)"
 tags:
   - concept
 ---

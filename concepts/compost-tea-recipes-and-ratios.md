@@ -9,7 +9,7 @@ type: concept
 Developing an effective [[actively-aerated-compost-tea]] tea (AACT) recipe requires understanding that
 these are living brews — the biology dictates the ratios, not the other way around. Dr. Elaine
 Ingham emphasizes that a recipe is only as good as the testing that confirms it actually
-produces the desired [[cannabis-cultivar-microbial-community-effects]]. Following someone else's recipe without understanding
+produces the desired [[cannabis-cultivar-microbial-community-effects]]. Following someone else"s recipe without understanding
 the underlying mechanisms can lead to failed brews, crop damage, or worse.
 
 ## Compost-to-Water Ratios

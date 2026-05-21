@@ -27,7 +27,7 @@ Psychologically, epinephrine is clearly associated with fear. In controlled
 experiments, healthy students injected with epinephrine and then shown fear-inducing
 film clips responded with significantly greater fear and intensity than a control
 group receiving a saline injection. This demonstrates that the hormone amplifies
-emotional experience — the body's chemical state influences perception.
+emotional experience — the body"s chemical state influences perception.
 
 ### Emotional Keywords
 "I am scared" — fear, threat, survival, hyperarousal.
@@ -55,7 +55,7 @@ Chronic epinephrine elevation suppresses immune function through several pathway
 - Chronic sympathetic nervous system activation shifts immune resources away from
   wound healing and pathogen defense.
 - Epinephrine-induced vasoconstriction reduces blood flow to mucosal surfaces,
-  the body's first line of immune defense.
+  the body"s first line of immune defense.
 
 This creates a vicious cycle: chronic fear weakens immunity, increased susceptibility
 to illness creates more fear, which further elevates epinephrine.

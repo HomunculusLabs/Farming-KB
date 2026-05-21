@@ -16,7 +16,7 @@ Tetrahydrocannabinol (THC), the primary psychoactive cannabinoid in cannabis, de
 
 Preclinical studies in murine models have demonstrated that THC administration reduces the size (infarct volume) of experimentally-induced heart attacks. The mechanism involves CB1 receptor-mediated signaling that triggers protective cellular [[plant-signaling-pathways]] prepare heart cells to better withstand periods of oxygen deprivation.
 
-The infarct-sparing effect is dose-dependent and time-sensitive, with the greatest protection observed when THC or cannabinoid agonists are administered before or at the onset of ischemia rather than after tissue death has occurred. This has implications for understanding THC's role as a potential preconditioning agent rather than a rescue therapy.
+The infarct-sparing effect is dose-dependent and time-sensitive, with the greatest protection observed when THC or cannabinoid agonists are administered before or at the onset of ischemia rather than after tissue death has occurred. This has implications for understanding THC"s role as a potential preconditioning agent rather than a rescue therapy.
 
 ### 2. Protection Against Hypoxic Damage via Nitric Oxide Induction
 

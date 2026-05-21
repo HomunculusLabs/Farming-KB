@@ -26,7 +26,7 @@ JADAM identifies several converging threats:
 
 ### The Wife as Central Partner
 
-JADAM emphasizes that the farmer's wife (or life partner) plays a central role. In terms of work done, she replaces a worker costing over $40,000 per year. Specifically, she should become a JADAM pesticide expert who can make natural, cheap, and effective pesticides independently.
+JADAM emphasizes that the farmer"s wife (or life partner) plays a central role. In terms of work done, she replaces a worker costing over $40,000 per year. Specifically, she should become a JADAM pesticide expert who can make natural, cheap, and effective pesticides independently.
 
 ### Devote 8 Full Hours Per Day to Farming
 

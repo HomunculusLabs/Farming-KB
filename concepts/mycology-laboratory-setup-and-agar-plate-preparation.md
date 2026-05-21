@@ -6,7 +6,7 @@ type: concept
 
 ## Mycology Laboratory Setup and Agar Plate Preparation
 
-A milestone in any mushroom grower's development is the construction and maintenance of a sterile culture laboratory capable of producing spawn of many different species for personal use or small-scale commercial production. While hobby growers may prefer ordering spawn from supply companies, growers who consistently cultivate several species may be ready to upgrade to a home laboratory. The primary benefits are cost savings and having a consistent, fresh supply of spawn made in small batches as needed.
+A milestone in any mushroom grower"s development is the construction and maintenance of a sterile culture laboratory capable of producing spawn of many different species for personal use or small-scale commercial production. While hobby growers may prefer ordering spawn from supply companies, growers who consistently cultivate several species may be ready to upgrade to a home laboratory. The primary benefits are cost savings and having a consistent, fresh supply of spawn made in small batches as needed.
 
 ## Setting Up a Laboratory
 
@@ -47,7 +47,7 @@ The following [[oss-oeric-equipment-and-materials-list]] are needed for spore ge
 
 ## Positive Pressure and Gas Exchange
 
-A positive-pressure ventilation unit, while not strictly necessary at first, significantly improves lab conditions. This consists of a small fan fitted with a HEPA filter that pulls clean fresh air into the lab space. The incoming air "inflates" the room (positive pressure), so if any leak exists, clean air pushes out rather than contaminated air coming in. Fresh air is also important for developing spawn, which generates carbon dioxide, and for the operator's safety.
+A positive-pressure ventilation unit, while not strictly necessary at first, significantly improves lab conditions. This consists of a small fan fitted with a HEPA filter that pulls clean fresh air into the lab space. The incoming air "inflates" the room (positive pressure), so if any leak exists, clean air pushes out rather than contaminated air coming in. Fresh air is also important for developing spawn, which generates carbon dioxide, and for the operator"s safety.
 
 Commercial spawn laboratories often have positive-pressure air lock entries to ensure the lab space is never open to the outside. A length of ribbon hanging from the door serves as a visual cue confirming airflow direction is outward from the lab.
 

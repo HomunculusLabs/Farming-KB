@@ -30,7 +30,7 @@ anesthetic dose, making [[fukuoka-textdoc-production-costs-not-coming-down]].
 Frequently there is no recollection of ever having been born, had a
 personality or body, or even known of planet Earth. The experience is
 described as "total orgasm with the universe," simultaneously connected
-to all things. Billions of images and perceptions flow through one's
+to all things. Billions of images and perceptions flow through one"s
 circuits. One is not bound into three dimensions; in the fourth
 dimension of time, one experiences backwards and forwards with the
 current moment as the center of intensity.
@@ -54,7 +54,7 @@ format he desired.
 ## The Return: Alien Rebirth
 
 The return to regular consciousness begins with one perception out of
-each million seeming to be within one's familiar perceptual structure.
+each million seeming to be within one"s familiar perceptual structure.
 These "personal perceptions" increase in frequency. Unlike the return
 from other psychedelics, Turner never found this moment disappointing.
 

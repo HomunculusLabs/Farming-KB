@@ -8,7 +8,7 @@ type: concept
 
 ## The Central Question
 
-The Winter Harvest Handbook by [[eliot-coleman]] addresses what Michael Pollan calls "the big question facing the local food movement": **How do you produce first-rate food all year-round in northern places?** The book provides Coleman's answers, developed through decades of experimentation and commercial production at [[four-season-farm]] in Harborside, Maine.
+The Winter Harvest Handbook by [[eliot-coleman]] addresses what Michael Pollan calls "the big question facing the local food movement": **How do you produce first-rate food all year-round in northern places?** The book provides Coleman"s answers, developed through decades of experimentation and commercial production at [[four-season-farm]] in Harborside, Maine.
 
 ## Core Premise
 

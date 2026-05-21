@@ -20,7 +20,7 @@ Lynn Margulis (1938–2011) was an American evolutionary biologist best known fo
 ## Key Contributions
 
 ### Endosymbiotic Theory (1965)
-Margulis proposed that eukaryotic cells originated through symbiotic unions, where larger cells engulfed free-living bacteria that eventually became organelles — specifically mitochondria (the cell's energy factories) and chloroplasts (the photosynthetic organelles in plants). These organelles retained their own DNA and reproductive mechanisms, evidence of their independent bacterial ancestry. Initially controversial and rejected by the scientific establishment, this hypothesis is now widely accepted as a fundamental mechanism of evolutionary innovation.
+Margulis proposed that eukaryotic cells originated through symbiotic unions, where larger cells engulfed free-living bacteria that eventually became organelles — specifically mitochondria (the cell"s energy factories) and chloroplasts (the photosynthetic organelles in plants). These organelles retained their own DNA and reproductive mechanisms, evidence of their independent bacterial ancestry. Initially controversial and rejected by the scientific establishment, this hypothesis is now widely accepted as a fundamental mechanism of evolutionary innovation.
 
 ### Gaia Hypothesis (1970s, with James Lovelock)
 Margulis co-developed the Gaia Hypothesis, proposing that Earth's biological and physical components interact to form a complex, self-regulating system that maintains conditions suitable for life. This concept has profoundly influenced ecological thinking, environmental science, and permaculture design philosophy by providing a scientific framework for understanding Earth as an integrated living system.

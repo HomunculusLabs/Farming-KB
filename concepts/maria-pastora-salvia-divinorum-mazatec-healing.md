@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-During his expeditions to the Mazatec region of Mexico, Albert Hofmann encountered another sacred psychoactive plant used by indigenous healers: *Salvia divinorum*, known locally as ska María Pastora ("the herb of Mary the Shepherdess"). This concept page describes Hofmann's encounter with Mazatec healing practices and the chemical investigation of this enigmatic plant.
+During his expeditions to the Mazatec region of Mexico, Albert Hofmann encountered another sacred psychoactive plant used by indigenous healers: *Salvia divinorum*, known locally as ska María Pastora ("the herb of Mary the Shepherdess"). This concept page describes Hofmann"s encounter with Mazatec healing practices and the chemical investigation of this enigmatic plant.
 
 ## The Curandera Consuela García
 
@@ -20,7 +20,7 @@ The session took place on bast mats on a stamped mud floor. Since Consuela spoke
 
 ### The Preparation
 
-The curandera prepared a magic potion ceremoniously, after kindling copal incense that "soon filled the whole hut with its aroma." The combination of Catholic saints' images with indigenous ritual elements (copal incense, sacred plants) illustrates the syncretic nature of Mazatec spiritual practice—pre-Columbian traditions maintained under a Catholic surface.
+The curandera prepared a magic potion ceremoniously, after kindling copal incense that "soon filled the whole hut with its aroma." The combination of Catholic saints" images with indigenous ritual elements (copal incense, sacred plants) illustrates the syncretic nature of Mazatec spiritual practice—pre-Columbian traditions maintained under a Catholic surface.
 
 ### Gordon Wasson's Participation
 
@@ -30,17 +30,17 @@ When the curandera asked who wished to drink of the potion, "Gordon announced hi
 
 ### Discovery and Naming
 
-The plant used in the curandera's potion was identified as "a hitherto undescribed species of Salvia, which was named Salvia divinorum by these authors" (Wasson and Hofmann's botanical collaborators). The name means "divine sage," reflecting its sacred status in Mazatec culture.
+The plant used in the curandera"s potion was identified as "a hitherto undescribed species of Salvia, which was named Salvia divinorum by these authors" (Wasson and Hofmann"s botanical collaborators). The name means "divine sage," reflecting its sacred status in Mazatec culture.
 
 ### Ska María Pastora
 
-The Mazatec name, ska María Pastora, means "the herb of Mary the Shepherdess"—again linking the plant's indigenous use to Christian iconography. The Virgin Mary serves as a bridge between indigenous and Catholic spiritual traditions.
+The Mazatec name, ska María Pastora, means "the herb of Mary the Shepherdess"—again linking the plant"s indigenous use to Christian iconography. The Virgin Mary serves as a bridge between indigenous and Catholic spiritual traditions.
 
 ### The Chemical Mystery
 
 "The chemical investigation of the juice of the magic sage in the laboratory in Basel was unsuccessful. The psychoactive principle of this drug seems to be a rather unstable substance, since the juice prepared in Mexico and preserved with alcohol proved in self-experiments to be no longer active."
 
-This failure to identify the active principle of *Salvia divinorum* was a significant frustration for Hofmann. The plant's psychoactive compound—later identified as salvinorin A, a neoclerodane diterpenoid—proved exceptionally difficult to isolate and characterize because of its instability and its presence in very low concentrations in the plant material.
+This failure to identify the active principle of *Salvia divinorum* was a significant frustration for Hofmann. The plant"s psychoactive compound—later identified as salvinorin A, a neoclerodane diterpenoid—proved exceptionally difficult to isolate and characterize because of its instability and its presence in very low concentrations in the plant material.
 
 ### Salvinorin A — A Unique Pharmacology
 

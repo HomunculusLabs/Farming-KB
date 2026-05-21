@@ -38,7 +38,7 @@ shamans as embedded in tradition, he found them to be intellectually
 sophisticated about their practice — "the true phenomenologists of this world"
 who understand plant chemistry but call the energy fields "spirits."
 
-## The Shaman's Social Position
+## The Shaman"s Social Position
 
 Shamans occupy a paradoxical social position. In traditional societies, they are:
 - Not permitted political power, because they are considered sacred

@@ -7,7 +7,7 @@ type: concept
 
 updated: 2026-04-18
 
-Fukuoka's fukuoka-critique-soil-cultivation proliferate
+Fukuoka"s fukuoka-critique-soil-cultivation proliferate
 4. These organisms die and are replaced by others, increasing humus and softening soil
 5. Earthworms appear where there is humus
 6. As earthworms increase, moles begin burrowing through the soil

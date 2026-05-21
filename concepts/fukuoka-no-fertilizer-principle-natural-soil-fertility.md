@@ -4,7 +4,7 @@ source: administrator-microsoft-word-fukuoka-textdoc.md
 type: concept
 ---
 
-## Fukuoka's No-Fertilizer Principle and Natural Soil Fertility
+## Fukuoka"s No-Fertilizer Principle and Natural Soil Fertility
 
 [[four-principles-of-natural-farming]] — **no fertilizer** — challenges one of the most deeply held assumptions of [[cannabis-rhizosphere-microbial-communities]], and the natural cycles of decomposition and mineralization — yields can equal those achieved through heavy fertilization. The soil is not an inert substrate requiring chemical supplementation; it is a living system that feeds plants as a matter of course.
 
@@ -22,7 +22,7 @@ Plants grown with fertilizer are weakened at a fundamental level. This weakness 
 Fertilizers do not behave in the field the way they do in the laboratory. Approximately 30% of the nitrogen in ammonium sulfate is denitrified by soil microbes and escapes into the atmosphere — a fact discovered only after decades of widespread use. Phosphate fertilizers, meanwhile, penetrate no more than two inches into the soil, leaving the vast majority of the root zone untouched.
 
 ### 4. Soil Acidification and Microbial Destruction
-More than 70% of the "big three" fertilizers — ammonium sulfate, super-phosphate, and potassium sulfate — consists of concentrated sulfuric acid. At the time of Fukuoka's writing, roughly 1.8 million tons of these materials were being dumped annually on Japanese farmland. The result is progressive acidification of the soil and the wholesale killing of soil microorganisms — the very organisms that make [[teaming-with-nutrients-micronutrients-and-trace-elements]] that are essential to crop health — elements that a living soil would ordinarily supply in abundance.
+More than 70% of the "big three" fertilizers — ammonium sulfate, super-phosphate, and potassium sulfate — consists of concentrated sulfuric acid. At the time of Fukuoka"s writing, roughly 1.8 million tons of these materials were being dumped annually on Japanese farmland. The result is progressive acidification of the soil and the wholesale killing of soil microorganisms — the very organisms that make [[teaming-with-nutrients-micronutrients-and-trace-elements]] that are essential to crop health — elements that a living soil would ordinarily supply in abundance.
 
 ## Complex Interactions That Science Overlooks
 
@@ -62,7 +62,7 @@ The process of natural soil formation follows a clear progression: wind and snow
 
 ## Fertilizer Was Never Needed
 
-Fukuoka traces the farmer's dependence on fertilizer to a self-created problem. The typical sequence is:
+Fukuoka traces the farmer"s dependence on fertilizer to a self-created problem. The typical sequence is:
 
 1. The farmer clears the forest.
 2. He carries off the logs, branches, and leaves.
@@ -82,7 +82,7 @@ Fukuoka is careful to distinguish his position from a blanket rejection of all s
 
 > "The no-fertilizer principle does not say that fertilizers are worthless, but that there is no need to apply [[cervantes-chemical-fertilizers-guide]]."
 
-Even composting, widely regarded as a cornerstone of organic agriculture, comes under Fukuoka's scrutiny. He argues that the net effect of all the labor involved in preparing compost is to speed up decomposition by at most 10 to 20% — a marginal gain that does not justify the effort:
+Even composting, widely regarded as a cornerstone of organic agriculture, comes under Fukuoka"s scrutiny. He argues that the net effect of all the labor involved in preparing compost is to speed up decomposition by at most 10 to 20% — a marginal gain that does not justify the effort:
 
 > "I firmly believe that, while compost itself is not without value, the composting of organic materials is fundamentally useless."
 

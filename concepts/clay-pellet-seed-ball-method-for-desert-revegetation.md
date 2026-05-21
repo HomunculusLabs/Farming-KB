@@ -14,7 +14,7 @@ tags: [fukuoka, natural-farming, desert-revegetation, seed-balls, clay-pellets, 
 ## Overview
 
 [[cervantes-chemical-fertilizers-guide]], or
-large-scale engineering projects, Fukuoka's approach works with natural processes
+large-scale engineering projects, Fukuoka"s approach works with natural processes
 — embedding seeds in protective clay coatings that preserve them until rainfall
 creates the conditions for germination. The method requires no machinery, no
 irrigation infrastructure, and minimal human labor after the initial scattering

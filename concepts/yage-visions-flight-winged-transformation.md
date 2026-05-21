@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-Claudio Naranjo's experimental research with yage and harmaline revealed that visions of flight and transformation into winged beings are among the most consistently reported experiences, occurring in roughly one-third of subjects. These experiences parallel the shamanic journey and the European witch's flight, providing further evidence for Harner's biochemical reinforcement thesis.
+Claudio Naranjo"s experimental research with yage and harmaline revealed that visions of flight and transformation into winged beings are among the most consistently reported experiences, occurring in roughly one-third of subjects. These experiences parallel the shamanic journey and the European witch's flight, providing further evidence for Harner's biochemical reinforcement thesis.
 
 ## The Spherical Soul
 
@@ -24,15 +24,15 @@ The butterfly metaphor is striking: like the soul, the butterfly is a creature o
 
 ### Recurring Speed
 
-"The speed itself tends to recur in other visions." The sensation of moving at very high speed through space is a consistent element of the yage experience, independent of cultural background. This speed may reflect the brain's processing of visual and kinesthetic information under the influence of harmala alkaloids—the sense of rapid movement through space when the body is actually stationary.
+"The speed itself tends to recur in other visions." The sensation of moving at very high speed through space is a consistent element of the yage experience, independent of cultural background. This speed may reflect the brain"s processing of visual and kinesthetic information under the influence of harmala alkaloids—the sense of rapid movement through space when the body is actually stationary.
 
 ### Suspended in Space
 
-The soul's quality of being "suspended in space, soaring through it at some altitude appears or is implied in about one-third of the subjects' comments or reports." The combination of altitude, speed, and suspension—the feeling of being airborne without any visible means of support—reproduces the subjective experience of flight with remarkable consistency.
+The soul's quality of being "suspended in space, soaring through it at some altitude appears or is implied in about one-third of the subjects" comments or reports." The combination of altitude, speed, and suspension—the feeling of being airborne without any visible means of support—reproduces the subjective experience of flight with remarkable consistency.
 
 ### Numbness and the Absence of Touch
 
-The "lack of tactile sensations" in the soul experience "perhaps has its equivalence in a feeling of numbness which is often reported." The absence of touch—the one sense that requires physical contact with matter—is consistent with the subject's report that the soul "has no sense of touch for the simple reason that it repels matter." The disembodied soul exists in a state of sensory completeness minus physical contact.
+The "lack of tactile sensations" in the soul experience "perhaps has its equivalence in a feeling of numbness which is often reported." The absence of touch—the one sense that requires physical contact with matter—is consistent with the subject"s report that the soul "has no sense of touch for the simple reason that it repels matter." The disembodied soul exists in a state of sensory completeness minus physical contact.
 
 ## Transformation into Winged Beings
 
@@ -44,11 +44,11 @@ A male subject who took "a fairly large amount of harmaline with the addition of
 
 ### The Metaphor of Imprisonment
 
-The subject's description of feeling "as if I had been imprisoned during my entire lifetime" and suddenly discovering "organs that made it possible for me to expand" captures the emotional core of the flight experience. The body is experienced as a prison—a constraint on the soul's natural capacity for freedom and expansion. The wings represent liberation from this constraint.
+The subject"s description of feeling "as if I had been imprisoned during my entire lifetime" and suddenly discovering "organs that made it possible for me to expand" captures the emotional core of the flight experience. The body is experienced as a prison—a constraint on the soul"s natural capacity for freedom and expansion. The wings represent liberation from this constraint.
 
 ### Spontaneous vs. Culturally Directed
 
-The transformation into a winged being occurred "involuntarily"—the subject did not choose to become a bird or angel but found himself undergoing the transformation spontaneously. This involuntary quality distinguishes the yage experience from deliberate visual imagery and suggests that the winged transformation reflects the drug's effect on brain systems that process body schema and spatial orientation, rather than cultural expectation alone.
+The transformation into a winged being occurred "involuntarily"—the subject did not choose to become a bird or angel but found himself undergoing the transformation spontaneously. This involuntary quality distinguishes the yage experience from deliberate visual imagery and suggests that the winged transformation reflects the drug"s effect on brain systems that process body schema and spatial orientation, rather than cultural expectation alone.
 
 ## Death Visions
 

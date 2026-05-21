@@ -13,7 +13,6 @@ date: 2026-05-08
 updated: 2026-05-08
 sources:
   - Jones, D.L. (1998). "Encyclopaedia of Ferns." Timber Press.---
----
 
 ## Overview
 
@@ -23,7 +22,7 @@ The species is native to subtropical and [[fukuoka-natural-farming-in-tropical-r
 
 Discovered as an arsenic hyperaccumulator in 2001 by a research team at the University of Florida, P. vittata has since become a model organism for [[phytoremediation]] research. The discovery opened new avenues for using plants to clean arsenic-contaminated soils and groundwater.
 
-The fern's common name "ladder fern" refers to the regularly spaced pinnae along the rachis, which resemble the rungs of a ladder. The species epithet *vittata* (banded) may reference the stripe-like pattern of the sori on the pinnae undersurface.
+The fern"s common name "ladder fern" refers to the regularly spaced pinnae along the rachis, which resemble the rungs of a ladder. The species epithet *vittata* (banded) may reference the stripe-like pattern of the sori on the pinnae undersurface.
 
 ## Taxonomy and Morphology
 

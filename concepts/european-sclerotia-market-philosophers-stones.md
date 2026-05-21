@@ -8,7 +8,7 @@ topic: "european-sclerotia-market-philosophers-stones-truffles"
 ## Overview
 
 The European market for psilocybin-containing sclerotia, commonly sold under the
-names "philosopher's stones" or "magic truffles," represents a unique commercial
+names "philosopher"s stones" or "magic truffles," represents a unique commercial
 phenomenon in the global trade of psychoactive fungi. Unlike dried mushroom
 fruiting bodies, sclerotia are dense masses of hardened mycelium that form
 underground as survival structures for certain fungal species.
@@ -47,7 +47,7 @@ developed sophisticated branding and product differentiation strategies.
 Products were typically sold under proprietary names that often referenced
 their purported effects or potency:
 
-- **Philosopher's Stones** — the most common brand name, referencing the
+- **Philosopher"s Stones** — the most common brand name, referencing the
   alchemical concept of the lapis philosophorum
 - **Dragon's Dynamite** — marketed as a high-potency variety
 - **Tampanensis** — sold under the species name, emphasizing its natural origin

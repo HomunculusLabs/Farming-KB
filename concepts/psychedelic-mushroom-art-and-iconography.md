@@ -26,17 +26,17 @@ Mesoamerican codices also portray mushrooms. The Vienna Codex (Vindobonensis), a
 
 The most famous claimed example of prehistoric mushroom art comes from rock art on the Tassili plateau of southern Algeria, dating from the Neolithic to the start of the Common Era. One particular image, popularised by Terence McKenna, depicts a squat male figure covered in a psychedelic pattern of lozenges and dots, apparently clutching handfuls of mushrooms that sprout from his body. It has become an icon for the psychedelic mushroom community.
 
-However, the widely circulated image is not a photograph of the original but a drawing made by Kat Harrison during the 1990s, derived from photos in Jean-Dominique Lajoux's book "The Rock Paintings of Tassili." Her representation, informed by her own mushroom experiences, subtly reinforced the shamanistic interpretation. In the original, the objects could be mushrooms or arrows; the psychedelic patterns are less emphatic. Whether the original Neolithic artist(s) intended to depict a bemushroomed shaman "is far from settled."
+However, the widely circulated image is not a photograph of the original but a drawing made by Kat Harrison during the 1990s, derived from photos in Jean-Dominique Lajoux"s book "The Rock Paintings of Tassili." Her representation, informed by her own mushroom experiences, subtly reinforced the shamanistic interpretation. In the original, the objects could be mushrooms or arrows; the psychedelic patterns are less emphatic. Whether the original Neolithic artist(s) intended to depict a bemushroomed shaman "is far from settled."
 
-## Wasson's LIFE Magazine Article (1957)
+## Wasson"s LIFE Magazine Article (1957)
 
-Gordon Wasson's 1957 LIFE magazine article "Seeking the Magic Mushroom" was a watershed moment in psychedelic iconography. The article described Wasson's 1955 velada with Maria Sabina in Huautla de Jimenez, Oaxaca, and featured photographs by Allan Richardson of the mushroom ceremony. The article's dramatic presentation -- complete with images of the "divine mushroom" -- played a major role in kick-starting the psychedelic revolution. Within months, "seekers were knocking on Sabina's door" and Oaxaca was "awash with hippies" on the magic mushroom trail.
+Gordon Wasson's 1957 LIFE magazine article "Seeking the Magic Mushroom" was a watershed moment in psychedelic iconography. The article described Wasson"s 1955 velada with Maria Sabina in Huautla de Jimenez, Oaxaca, and featured photographs by Allan Richardson of the mushroom ceremony. The article's dramatic presentation -- complete with images of the "divine mushroom" -- played a major role in kick-starting the psychedelic revolution. Within months, "seekers were knocking on Sabina"s door" and Oaxaca was "awash with hippies" on the magic mushroom trail.
 
 ## Modern Mushroom Art
 
 Contemporary artists have responded to mushrooms in diverse ways:
 - **Carsten Holler**: Creates giant human-sized fly-agaric installations (Upside Down Mushroom Room, 2000) with mushrooms growing downward from the ceiling.
-- **Alison Gill**: Installed human-sized papier-mache Liberty Caps in London's Jerwood Gallery (Amplifier, 1997) and created Fungal Kingdom Emanations (1997) using Kirlian photography to capture the mushrooms surrounded by electric-blue auras.
+- **Alison Gill**: Installed human-sized papier-mache Liberty Caps in London"s Jerwood Gallery (Amplifier, 1997) and created Fungal Kingdom Emanations (1997) using Kirlian photography to capture the mushrooms surrounded by electric-blue auras.
 - **Vaclav Halek**: Czech composer who claims to hear "eldritch orchestral music" when gazing upon mushrooms, transcribing each species' unique melody into his compositions.
 
 ## The Liberty Cap as Countercultural Badge

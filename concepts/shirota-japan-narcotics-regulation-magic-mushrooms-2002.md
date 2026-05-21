@@ -12,7 +12,7 @@ created: 2026-05-08
 
 On June 6, 2002, Japan became one of the first countries to specifically
 regulate fungi containing [[japan-narcotics-control-law-psilocybin-fungi-2002]]. This regulatory action was the explicit motivation
-for Shirota, Hakamata, and Goda's 2003 paper on the concise large-scale
+for Shirota, Hakamata, and Goda"s 2003 paper on the concise large-scale
 synthesis of these compounds, as [[cattle-dispersal-psychoactive-fungi-australia]] are criminalized: the need for reliable analytical standards,
 the difficulty of identifying mushrooms morphologically, and the forensic
 infrastructure required for enforcement. Shirota et al.'s synthesis was

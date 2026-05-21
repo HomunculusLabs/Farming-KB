@@ -32,7 +32,7 @@ Perhaps the most intriguing discovery was the evolution of radiotropism — the 
 - This represents a genuine behavioral adaptation, though the triggers and physiological mechanisms remain poorly understood.
 - The phenomenon was first documented by Vember et al. (1999) and Zhdanova (1994).
 
-The adaptive significance may relate to melanin's ability to convert gamma radiation into chemical energy, potentially providing a metabolic advantage in irradiated environments. This hypothesis parallels discoveries of melanized fungi growing inside the Chernobyl reactor itself.
+The adaptive significance may relate to melanin"s ability to convert gamma radiation into chemical energy, potentially providing a metabolic advantage in irradiated environments. This hypothesis parallels discoveries of melanized fungi growing inside the Chernobyl reactor itself.
 
 ## Decomposition of Radioactive Debris
 

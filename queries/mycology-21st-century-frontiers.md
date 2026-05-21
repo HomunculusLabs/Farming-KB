@@ -16,7 +16,7 @@ Modern mycology from genomics to conservation, covering the scientific advances,
 
 ## Science Communication and Popularization
 
-- **2000s — Nicholas Money's science communication:**
+- **2000s — Nicholas Money"s science communication:**
   [[nicholas-money]] publishes Mr. Bloomfield's Orchard and other works
   popularizing fungal biology.
   Research on spore ballistics reveals that ballistospores

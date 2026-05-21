@@ -16,7 +16,7 @@ sources:
 
 ## Amanita verna
 
-**Amanita verna** (Bull.) Lam., commonly known as the **fool's mushroom** or **spring
+**Amanita verna** (Bull.) Lam., commonly known as the **fool"s mushroom** or **spring
 [[palmer-poisonous-mushrooms-deadly-species]] in the world. It is a member
 of the Amanita section Phalloideae and contains the same lethal amatoxins as the [[amanita-phalloides]], and
 molecular phylogenetic studies have shown that the two species are very closely related.
@@ -25,7 +25,7 @@ However, it is generally maintained as a distinct species due to its consistentl
 coloration, earlier fruiting season, and subtle but consistent morphological differences. It
 is closely related to the [[amanita-phalloides]], typically appearing
 from late spring to early summer (May through July), which is the origin of both its specific
-epithet and its common name "fool's mushroom" (so called because fools who emerge in spring
+epithet and its common name "fool"s mushroom" (so called because fools who emerge in spring
 seeking early mushrooms are most likely to encounter it).
 
 It is found in deciduous and mixed forests, parks, gardens, and along forest edges, often in

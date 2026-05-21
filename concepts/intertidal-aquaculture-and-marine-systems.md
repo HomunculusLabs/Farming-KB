@@ -46,7 +46,7 @@ Octopus can be cultured in intertidal pond systems through a remarkably simple t
 3. At high tide, octopus emerge to feed on mollusks in the surrounding area
 4. At low tide, they return to their pots
 
-This system takes advantage of the octopus's natural behavior — they apparently swim over intertidal browsing lands looking for suitable habitat. The same pond systems are also productive for growing sponges.
+This system takes advantage of the octopus"s natural behavior — they apparently swim over intertidal browsing lands looking for suitable habitat. The same pond systems are also productive for growing sponges.
 
 ## Intertidal Fish Trap and Scour Hole Systems
 

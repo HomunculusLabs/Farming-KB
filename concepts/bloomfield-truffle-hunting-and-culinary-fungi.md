@@ -38,7 +38,7 @@ gusts.
 
 The principles governing commercial [[growing-gourmet-button-mushroom-agaricus-cultivation]], [[boletus-edulis]]).
 However, identification can be treacherous: Money recounts an incident in which
-his mentor John Webster left the [[bloomfield-boletus-satanus-edible-mushroom-hazards]] (Satan's
+his mentor John Webster left the [[bloomfield-boletus-satanus-edible-mushroom-hazards]] (Satan"s
 bolete) on his bench for identification. Money instead sliced it into chili,
 consumed it, and suffered no ill effects -- either boiling or some chili
 ingredient had detoxified the mushroom, which "cannot kill a mule, but it can
@@ -46,7 +46,7 @@ make people shit themselves senseless."
 
 The sulfur shelf (Laetiporus sulphureus), a bright yellow bracket fungus that
 grows on tree trunks, is considered edible when young but is known to sicken
-some people. Money's attempt to cook a dryad's saddle (Polyporus squamosus)
+some people. Money"s attempt to cook a dryad's saddle (Polyporus squamosus)
 following a recipe ended disastrously: the fresh fruiting bodies emitted a
 perfume "akin to the smell of very cheap cologne," which intensified during
 cooking until it matched "the pungency of a disinfectant used in a

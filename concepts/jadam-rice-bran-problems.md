@@ -26,7 +26,7 @@ The fundamental principle: give plants what is the same as (or similar to) the p
 
 ## From the Soil, You Demand Fruits Yet You Give Peels
 
-JADAM's critique is summarized in a memorable phrase: "From the soil, you demand fruits yet you give peels!" Farming does not become organic by merely putting organic matter into the soil. Organic matter comes in all qualities. The goal should be to provide the complete nutritional balance that crops need, not to simply substitute chemical inputs with organic ones.
+JADAM"s critique is summarized in a memorable phrase: "From the soil, you demand fruits yet you give peels!" Farming does not become organic by merely putting organic matter into the soil. Organic matter comes in all qualities. The goal should be to provide the complete nutritional balance that crops need, not to simply substitute chemical inputs with organic ones.
 
 ## Practical Applications
 

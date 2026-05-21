@@ -8,7 +8,7 @@ topics: [clothing, natural-farming, traditional-culture, japan, permaculture]
 ## Culture of Clothing and Traditional Garb in Natural Farming
 
 [[fukuoka-doi-garment-culture-clothing-natural-farming]] to ecological awareness
-and the farmer's relationship with the land. His European tour wearing traditional
+and the farmer"s relationship with the land. His European tour wearing traditional
 Japanese peasant clothing — geta (wooden sandals), monpe (work pants), and a
 haori-style top — became a vehicle for questioning the assumptions embedded in
 modern dress and its relationship to the soil.

@@ -12,7 +12,7 @@ type: concept
 
 Hyperaccumulator plants are species capable of growing in soil with very high
 concentrations of [[roger-heim-scientific-study-psilocybin]] of hyperaccumulation began in the 1970s with Robert
-Brooks' work on nickel accumulation in New Caledonian plants. Approximately
+Brooks" work on nickel accumulation in New Caledonian plants. Approximately
 700 hyperaccumulator species have been identified across 500 genera and 52
 families as of the mid-2020s.
 

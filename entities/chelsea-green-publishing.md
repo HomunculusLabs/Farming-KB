@@ -23,7 +23,7 @@ Chelsea Green Publishing is an American book publisher based in White River Junc
 ## Key Facts
 
 - Publisher of *The Winter Harvest Handbook* by [[eliot-coleman]] ($29.95 USD, 2009)
-- Also published Coleman's earlier works: *The New Organic Grower* (ISBN 978-0-930031-75-6) and *Four-Season Harvest*
+- Also published Coleman"s earlier works: *The New Organic Grower* (ISBN 978-0-930031-75-6) and *Four-Season Harvest*
 - Self-described mission: "sees books as tools for effecting cultural change" and empowering citizens as "impassioned stewards" of the global commons
 - Described as promoting "the politics and practice of sustainable living"
 - Catalog includes major sustainable agriculture titles by leading authors and practitioners

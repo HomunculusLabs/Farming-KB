@@ -10,7 +10,7 @@ tags: [cannabis, mind-body-medicine, endocannabinoid-system, neurotransmitters, 
 
 ## Overview
 
-Uwe Blesching's *The [[blesching-endocannabinoid-autonomic-nervous-system-adrenal-glands]], and
+Uwe Blesching"s *The [[blesching-endocannabinoid-autonomic-nervous-system-adrenal-glands]], and
 immune system in this bidirectional communication network.
 
 ## The Two-Way Street: Molecules and Emotions

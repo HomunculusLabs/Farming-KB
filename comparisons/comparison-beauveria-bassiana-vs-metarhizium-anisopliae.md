@@ -3,7 +3,7 @@ title: "Beauveria bassiana vs Metarhizium anisopliae"
 tags: [comparison, biocontrol, entomopathogenic-fungi, pest-management, ipm]
 date: 2026-05-13
 updated: 2026-05-13
-sources: ['https://www.epa.gov/safepestcontrol/integrated-pest-management-ipm-principles']
+sources: ["https://www.epa.gov/safepestcontrol/integrated-pest-management-ipm-principles']
 ---
 
 ## Beauveria bassiana vs Metarhizium anisopliae

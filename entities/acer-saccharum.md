@@ -49,7 +49,7 @@ Maple syrup production contributes billions of dollars annually to the economies
 
 The phenological timing of sap flow is highly sensitive to [[dighton-fungal-decomposition-leaf-litter-dynamics]] decomposes relatively slowly, contributing to a thick organic horizon that influences soil chemistry, [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]], and understory composition.
 
-The species' dense canopy casts deep shade that suppresses understory vegetation, creating distinct microhabitats and influencing forest floor plant communities.
+The species" dense canopy casts deep shade that suppresses understory vegetation, creating distinct microhabitats and influencing forest floor plant communities.
 
 Sugar maple decline, a complex condition involving drought stress, insect defoliation, and soil acidification from atmospheric deposition, has been documented across portions of its range since the 1980s.
 

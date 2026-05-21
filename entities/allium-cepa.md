@@ -11,7 +11,6 @@ date: 2026-05-08
 updated: 2026-05-08
 sources:
   - Havey MJ (1995). "Phylogenetic relationships among cultivated onions." American Journal of Botany.---
----
 
 ## Overview
 

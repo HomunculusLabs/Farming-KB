@@ -10,13 +10,13 @@ created: 2026-05-08
 
 ## Overview
 
-Eliot Coleman articulated a foundational principle for biological agriculture: **"Nature makes sense."** If something is not working in the farm system, it is the farmer's fault, not Nature's. This principle reframes [[comparison-pheromone-based-pest-control-vs-beneficial-insect-biocontrol]] — both chemical and organic — as fundamentally misguided:
+Eliot Coleman articulated a foundational principle for biological agriculture: **"Nature makes sense."** If something is not working in the farm system, it is the farmer"s fault, not Nature's. This principle reframes [[comparison-pheromone-based-pest-control-vs-beneficial-insect-biocontrol]] — both chemical and organic — as fundamentally misguided:
 
 > "Bug picking is not the answer. It is just a temporary solution. The same goes for garlic spray, red pepper, herbal concoctions, necromancy, or whatever. Nor, obviously, are DDT, Malathion, Parathion, Tepp, Rotenone, Sevin, Lindane, Pyrethrum, or any of the thousands of unpronounceable horrors in the lexicon of the agricultural chemist."
 
 His reasoning: all of these are **palliatives** — from the Latin *pallium*, a cloak. A palliative is "an action that lessens the pain or masks the symptoms of a problem without curing it." Using a palliative is to cloak or hide the problem.
 
-## The Organic Farmer's Mistake
+## The Organic Farmer"s Mistake
 
 Coleman was unsparing in his [[fukuoka-critique-of-organic-farming]] farmers who rely on natural pesticides:
 
@@ -35,15 +35,15 @@ Under this framework:
 - The presence of pests or disease indicates something is wrong with the growing conditions
 - The solution is to improve conditions, not to kill the messenger
 
-Coleman drew an analogy to chicken pox: "No one would be so simple as to think that scraping off the spots could cure a child's chicken pox." Similarly, removing pests from a plant does not cure the underlying problem.
+Coleman drew an analogy to chicken pox: "No one would be so simple as to think that scraping off the spots could cure a child"s chicken pox." Similarly, removing pests from a plant does not cure the underlying problem.
 
 ## Restating Darwin
 
 Coleman offered a pithy restatement of Darwinian principles:
 
-> "To do so, it helps to restate Darwin more correctly as 'the un-survival of the unfit.'"
+> "To do so, it helps to restate Darwin more correctly as "the un-survival of the unfit.'"
 
-The emphasis shifts from "survival of the fittest" (which implies competition and domination) to "un-survival of the unfit" (which implies that weakness eliminates itself). The farmer's job is to grow fit plants, not to fight on behalf of weak ones.
+The emphasis shifts from "survival of the fittest" (which implies competition and domination) to "un-survival of the unfit" (which implies that weakness eliminates itself). The farmer"s job is to grow fit plants, not to fight on behalf of weak ones.
 
 ## The Diagnostic Questions
 

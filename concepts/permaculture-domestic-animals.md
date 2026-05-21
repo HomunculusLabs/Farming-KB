@@ -13,7 +13,7 @@ Domestic animals in [[permaculture]] are valued not for single-product yields bu
 
 ## The Role of Animals in Permaculture
 
-Animals serve as the traditional recycling strategy for sustainable systems. The old farmer's saying "we will sell nothing from our farm that will not walk or fly off" reflects the principle that animals convert otherwise-unusable resources (thorny shrubs, insect pests, fallen fruit, food scraps) into edible products while returning nutrients to the soil.
+Animals serve as the traditional recycling strategy for sustainable systems. The old farmer"s saying "we will sell nothing from our farm that will not walk or fly off" reflects the principle that animals convert otherwise-unusable resources (thorny shrubs, insect pests, fallen fruit, food scraps) into edible products while returning nutrients to the soil.
 
 Animals occupy different trophic niches:
 - **Herons** eat poisonous toadfish

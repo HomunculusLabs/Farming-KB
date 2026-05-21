@@ -88,7 +88,7 @@ Pull back the mulch in a row. Lay down a line of sand. Sow small seeds. Cover wi
 
 ## First-Year Limitations
 
-- **Root crops don't do well** in the first year (soil below still compacted; too much manure causes forking). Plant most root crops in the second year.
+- **Root crops don"t do well** in the first year (soil below still compacted; too much manure causes forking). Plant most root crops in the second year.
 - **More watering needed** initially, as the rotted [[fungal-hyphae]] and plant layer at the base develop slowly.
 - **Newly planted seedlings** need water initially, as in normal gardening.
 
@@ -111,7 +111,7 @@ No need to rotate plants or "rest the ground." Potatoes are simply placed on top
 - Tuck all food wastes from kitchen under the mulch
 - "Worms are so active that the leaves and peelings disappear overnight"
 - Never bury sawdust or chips; put on top where atmospheric nitrogen breaks down wood
-- Keep mulch loose; don't let it mat
+- Keep mulch loose; don"t let it mat
 - Mix lawn clippings or sawdust with stiff dry material like chips or pine needles
 
 ## Tree Performance

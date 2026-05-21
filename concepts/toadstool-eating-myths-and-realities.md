@@ -18,7 +18,7 @@ experience, and scientific analysis.
 Palmer opened with a fundamental point of terminology that continues to confuse
 the public today. He recounted an encounter on Boston Common where a bystander
 insisted the large fungus he was collecting from the Liberty Tree was "not a
-mushroom" but "just a big toadstool." Palmer's response encapsulated his view:
+mushroom" but "just a big toadstool." Palmer"s response encapsulated his view:
 
 > "Every mushroom is a toadstool, and every toadstool is a mushroom."
 
@@ -38,7 +38,7 @@ Berkeley, Cooke, Smith, and Badham.
 
 Even these authorities presented problems. Their descriptions applied to European
 species, not necessarily American ones. Classification systems were inconsistent
-— generic names varied between leading authorities from Sowerby's era to the
+— generic names varied between leading authorities from Sowerby"s era to the
 present. Most critically, placing a specimen in its proper family did not
 determine its edibility, since "one mushroom may be esculent, and its twin
 brother poisonous."

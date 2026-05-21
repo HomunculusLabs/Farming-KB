@@ -32,7 +32,7 @@ The suslik (*Spermophilus* spp.), also known as the Russian or European ground s
 
 ## Relevance to Cultivation and Mycology
 
-Mollison positions the suslik within a broader guild of burrowing animals (moles, woodchucks, wombats, mice, voles, prairie dogs, rabbits) that collectively function as nature's deep-ploughing system. Their contributions include:
+Mollison positions the suslik within a broader guild of burrowing animals (moles, woodchucks, wombats, mice, voles, prairie dogs, rabbits) that collectively function as nature"s deep-ploughing system. Their contributions include:
 
 1. **Soil aeration and structure**: Deep tunnels create an absorbent, springy soil matrix in meadows. The "deep springy softness of the earth" in natural meadows is directly attributable to undisturbed burrower activity.
 

@@ -40,7 +40,7 @@ the belief in the "[[mckenna-mushroom-teonanacatl-franciscan-theophagy-and-oaxac
 answers to the questions posed -- whether the diseased person will live or die,
 which herbs will effect the cure, who has committed a specific crime, or how a
 distant relative fares.
-The Indians' reverence for the sacred mushrooms is also evident in their belief
+The Indians" reverence for the sacred mushrooms is also evident in their belief
 that they can be eaten only by a "clean" person, meaning ceremonially clean.
 This includes sexual abstinence at least four days before and after ingestion.
 Certain rules must also be observed in gathering the mushrooms; non-observance

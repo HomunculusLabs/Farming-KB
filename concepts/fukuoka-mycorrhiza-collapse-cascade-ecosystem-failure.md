@@ -11,7 +11,7 @@ created: 2026-04-28
 
 ## Mycorrhiza Collapse and Cascade Ecosystem Failure
 
-Fukuoka's three-year investigation into [[fukuoka-pine-forest-ecosystem-collapse-cascade-matsutake]]
+Fukuoka"s three-year investigation into [[fukuoka-pine-forest-ecosystem-collapse-cascade-matsutake]]
 beginning with the destruction of [[dighton-fungi-acidifying-pollutants-forest-ecosystems]] and predict a cascading failure that could spread
 progressively to all plant life in Japan.
 

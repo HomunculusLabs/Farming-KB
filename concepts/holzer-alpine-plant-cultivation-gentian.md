@@ -14,7 +14,7 @@ sources:
 
 ## The Central Lesson: Observe Nature
 
-"All events in nature should be observed closely. This is a wonderful and fascinating activity for anyone who has an interest in nature, because you never cease to learn and profit from it. Nature cannot be 'improved' upon."
+"All events in nature should be observed closely. This is a wonderful and fascinating activity for anyone who has an interest in nature, because you never cease to learn and profit from it. Nature cannot be "improved' upon."
 
 ## Yellow Gentian (Gentiana lutea)
 

@@ -34,7 +34,7 @@ For cultivators working with mycorrhizal systems, BEG provides verified inoculum
 ## Practical Notes
 
 - Contact BEG before shipping live cultures to arrange appropriate permits and handling procedures.
-- Deposit voucher specimens (spores mounted in PVLG and PVLG + Melzer's) alongside live cultures for complete documentation.
+- Deposit voucher specimens (spores mounted in PVLG and PVLG + Melzer"s) alongside live cultures for complete documentation.
 - When species identification is uncertain, BEG staff may assist with verification by comparison to reference accessions.
 
 ## Reading notes

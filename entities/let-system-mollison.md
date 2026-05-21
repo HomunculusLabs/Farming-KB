@@ -8,13 +8,13 @@ type: entity
 
 ## Description
 
-The [[let-system]] (Local Employment Trading System) is a community-based local currency and exchange network described by [[bill-mollison]] in *Permaculture: A Designers' Manual* (1988). It is a form of community money or credit system designed to keep wealth circulating within a local community rather than leaking out to external financial centres, banks, or multinational corporations. The system allows members to trade goods and services using a local unit of account referred to as "green dollars" rather than conventional national currency, thereby decoupling local economic activity from the volatility of national and global financial systems. Mollison presents the LET System as one of the most powerful tools available for building community self-reliance and economic resilience.
+The [[let-system]] (Local Employment Trading System) is a community-based local currency and exchange network described by [[bill-mollison]] in *Permaculture: A Designers" Manual* (1988). It is a form of community money or credit system designed to keep wealth circulating within a local community rather than leaking out to external financial centres, banks, or multinational corporations. The system allows members to trade goods and services using a local unit of account referred to as "green dollars" rather than conventional national currency, thereby decoupling local economic activity from the volatility of national and global financial systems. Mollison presents the LET System as one of the most powerful tools available for building community self-reliance and economic resilience.
 
 ## Classification
 
 - **Category:** Economic system / Community currency
 - **Domain:** [[permaculture-community-design]], local economics
-- **Origin:** Community-based economic innovation; discussed in Mollison's permaculture framework
+- **Origin:** Community-based economic innovation; discussed in Mollison"s permaculture framework
 - **Location:** Community-scale implementation, applicable globally
 - **Related systems:** Community Barter Club, Bendigo Home Builder's Club, time banking
 

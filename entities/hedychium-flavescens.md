@@ -11,7 +11,7 @@ date: 2026-05-08
 updated: 2026-05-08
 sources:
   - Pendry, C.A. (2000). "Hedychium." Flora of Bhutan.
-  - Wagner, W.L., Herbst, D.R. & Sohmer, S.H. (1999). "Manual of the Flowering Plants of Hawai'i."
+  - Wagner, W.L., Herbst, D.R. & Sohmer, S.H. (1999). "Manual of the Flowering Plants of Hawai"i."
 ---
 
 ## Overview

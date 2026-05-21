@@ -9,7 +9,7 @@ tags: [person, british, garden-writer, french-market-gardening, season-extension
 
 ## Description
 
-William Robinson (1838–1935) was a pioneering Irish-born British garden writer who, in **1869**, became the first English-speaking observer to document and enthusiastically promote the Parisian maraîchers' (market gardeners') techniques in print. His book *Parks and Gardens of Paris* introduced the sophistication [[coleman-british-adoption-of-french-intensive-gardening]] vegetable production to an English-speaking audience and urged British growers to adopt these superior methods.
+William Robinson (1838–1935) was a pioneering Irish-born British garden writer who, in **1869**, became the first English-speaking observer to document and enthusiastically promote the Parisian maraîchers" (market gardeners') techniques in print. His book *Parks and Gardens of Paris* introduced the sophistication [[coleman-british-adoption-of-french-intensive-gardening]] vegetable production to an English-speaking audience and urged British growers to adopt these superior methods.
 
 ## Classification
 

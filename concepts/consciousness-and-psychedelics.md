@@ -13,7 +13,7 @@ The relationship between consciousness and psychedelic substances lies at the he
 
 ## The Mutability of Consciousness
 
-Consciousness, whatever it is exactly, is the "stuff" which mediates all science and all reasoning. Consciousness can be understood as the very ground of our being. Powell's central thesis is that consciousness is entirely mutable, and this mutability arises because consciousness is mediated by chemistry. Mutable chemical processes underlie consciousness, meaning our normal ways of thinking are constrained by the chemical hardware (wetware) of the brain.
+Consciousness, whatever it is exactly, is the "stuff" which mediates all science and all reasoning. Consciousness can be understood as the very ground of our being. Powell"s central thesis is that consciousness is entirely mutable, and this mutability arises because consciousness is mediated by chemistry. Mutable chemical processes underlie consciousness, meaning our normal ways of thinking are constrained by the chemical hardware (wetware) of the brain.
 
 The analogy is powerful: if all scientists wore identical spectacles that determined their perceptual view, it would be a breakthrough to analyze the spectacles themselves. Our consciousness is that shared lens through which all science proceeds. The question becomes: can this lens be altered or enhanced?
 
@@ -25,19 +25,19 @@ Historically, altered forms of perception in which an overall view of reality is
 
 ## The Chemistry of Consciousness
 
-Psilocybin bridges the conceptual gap between the physical and the psychological. Chemistry implies chemicals (material things) while altered states of awareness lie in the realm of the intangible mind. Psilocybin demonstrates that substances with close molecular resemblance to brain neurotransmitters elicit predictable and characteristic changes in consciousness. The more we understand psilocybin's modus operandi, the closer we get to divining the actual design of the bridge linking mind to matter.
+Psilocybin bridges the conceptual gap between the physical and the psychological. Chemistry implies chemicals (material things) while altered states of awareness lie in the realm of the intangible mind. Psilocybin demonstrates that substances with close molecular resemblance to brain neurotransmitters elicit predictable and characteristic changes in consciousness. The more we understand psilocybin"s modus operandi, the closer we get to divining the actual design of the bridge linking mind to matter.
 
 ### Serotonin and the Raphe System
 
 Serotonin neurons in the raphe system at the base of the brain have a homeostatic "screening out" function that maintains a balance of consciousness, allowing us to perceive reality in a steady way. The serotonergic raphe system acts like a balancing stick enabling us to walk the tightrope of normal perceptual awareness.
 
-LSD and psilocybin depress the action of serotonin neurons in precisely the raphe system. Their normal firing is inhibitory, meaning it dampens activity in other parts of the brain. Psilocybin's dampening effect on serotonergic neurons facilitates increased neuronal firing in areas like the visual and limbic/emotion systems.
+LSD and psilocybin depress the action of serotonin neurons in precisely the raphe system. Their normal firing is inhibitory, meaning it dampens activity in other parts of the brain. Psilocybin"s dampening effect on serotonergic neurons facilitates increased neuronal firing in areas like the visual and limbic/emotion systems.
 
 ### The 5-HT2 Receptor
 
 The raphe theory is not the whole story. Research revealed that mescaline, which induces the full spectrum of visionary phenomenology, does not significantly affect the raphe system. The common site of action is the 5-HT2 serotonin receptor, found throughout the cortex and in abundance in the locus coeruleus.
 
-The locus coeruleus processes so many sensory inputs that it functions as a "novelty detector" able to influence one's state of arousal. Both psilocybin and mescaline bind to 5-HT2 sites in the locus coeruleus, raising levels of alertness and arousal. Entheogens function by making more information available to the experiencer.
+The locus coeruleus processes so many sensory inputs that it functions as a "novelty detector" able to influence one"s state of arousal. Both psilocybin and mescaline bind to 5-HT2 sites in the locus coeruleus, raising levels of alertness and arousal. Entheogens function by making more information available to the experiencer.
 
 ## Waking Dreams
 

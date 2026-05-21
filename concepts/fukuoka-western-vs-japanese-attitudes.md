@@ -17,7 +17,7 @@ One of the most striking observations in [[fukuoka-road-do-nothing-farming]] -- 
 
 ## The Paradox of Teaching "No Method"
 
-Fukuoka's dilemma illustrates a classic paradox: how do you teach people to stop seeking knowledge when the very act of teaching transmits knowledge? The Westerner who accepts "abandon knowledge" has still learned something. The Japanese who asks for method has still received an answer.
+Fukuoka"s dilemma illustrates a classic paradox: how do you teach people to stop seeking knowledge when the very act of teaching transmits knowledge? The Westerner who accepts "abandon knowledge" has still learned something. The Japanese who asks for method has still received an answer.
 
 Fukuoka resolved this paradox pragmatically: he provided [[metzner-leary-bardo-thodol-and-tao-te-ching-adaptation]] about the unspeakable Tao), and in many other traditions that point toward a reality beyond concepts using conceptual means.
 

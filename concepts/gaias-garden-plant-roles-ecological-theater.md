@@ -1,5 +1,5 @@
 ---
-title: "Gaia's Garden - Plant Roles in the Ecological Theater"
+title: "Gaia"s Garden - Plant Roles in the Ecological Theater"
 created: 2026-04-26
 tags: permaculture, plant-functions, guild-design, ecology, soil-building]
 date: 2026-04-25

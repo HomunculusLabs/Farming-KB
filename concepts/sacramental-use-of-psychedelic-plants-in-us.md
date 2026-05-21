@@ -48,7 +48,7 @@ The US UDV branch has been in federal litigation seeking protection
 from prosecution for religious ayahuasca use, which contains
 Schedule I DMT. At district and appellate levels, the UDV achieved a
 preliminary injunction barring enforcement of drug laws and calling for
-negotiations on preventing diversion for illicit purposes. The DOJ's
+negotiations on preventing diversion for illicit purposes. The DOJ"s
 appeal was accepted for review by the full 10th Circuit Court of Appeals.
 
 ### Santo Daime

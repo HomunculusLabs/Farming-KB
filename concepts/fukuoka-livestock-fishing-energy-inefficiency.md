@@ -6,7 +6,7 @@ type: concept
 
 ## Fukuoka on Livestock and Fishing Energy Inefficiency
 
-[[masanobu-fukuoka]]'s *The One-Straw Revolution* extends its [[fukuoka-natural-livestock-farming]] amplifies this through intensive confinement and processed feed.
+[[masanobu-fukuoka]]"s *The One-Straw Revolution* extends its [[fukuoka-natural-livestock-farming]] amplifies this through intensive confinement and processed feed.
 
 Consider the yellowtail fish farm: it takes roughly ten times the weight in sardines to raise a single yellowtail to marketable size. The sardines themselves could have fed people directly. The math compounds through further steps — a silver fox raised for fur consumes ten times its weight in rabbit meat, and each rabbit in turn consumes ten times its weight in grass. Each layer of [[holzer-natural-animal-husbandry]] multiplies the energy input required per unit of final product.
 
@@ -61,7 +61,7 @@ The "improved" breeds produce more per animal but require proportionally more in
 
 Fukuoka considers it better to raise small goats than dairy cattle, favoring strong native varieties that subsist on roughage:
 
-> "The goat, which is called the poor man's cattle because it takes care of itself."
+> "The goat, which is called the poor man"s cattle because it takes care of itself."
 
 Raising deer, boars, rabbits, chickens, wildfowl, and even edible rodents is even more economical, as these animals require minimal human intervention. His vision of a truly integrated farm includes:
 
@@ -81,7 +81,7 @@ He cites the sardine shortage that emerged when demand for yellowtail feed spike
 
 The industry responds to each problem it creates with a more intensive technological fix, which in turn creates new problems — a pattern identical to the mechanization cycle on land. Each intervention deepens the dependency and widens the destruction.
 
-Fukuoka's prescription is counterintuitive in an age of technological optimization: protecting seas where fish can be caught by hand should take priority over developing superior catching methods. The goal is not to extract more, but to preserve the conditions under which [[fungal-biodiversity-marine-ecosystems-coastal-deep-sea]] regenerate naturally. Once those conditions are lost, no amount of technological intervention can restore them.
+Fukuoka"s prescription is counterintuitive in an age of technological optimization: protecting seas where fish can be caught by hand should take priority over developing superior catching methods. The goal is not to extract more, but to preserve the conditions under which [[fungal-biodiversity-marine-ecosystems-coastal-deep-sea]] regenerate naturally. Once those conditions are lost, no amount of technological intervention can restore them.
 
 ## The Underlying Philosophy
 
@@ -89,7 +89,7 @@ Throughout this analysis runs Fukuoka's consistent message about the relationshi
 
 > "Man ought to know that nature is fragile and easily harmed... once destroyed, nature cannot be restored."
 
-> "The way to enrich man's diet is easy. It does not entail mass growing or gathering. But it does require man to relinquish human knowledge and action."
+> "The way to enrich man"s diet is easy. It does not entail mass growing or gathering. But it does require man to relinquish human knowledge and action."
 
 The path forward, in Fukuoka's view, is not toward greater efficiency through technology but toward greater integration with natural systems — systems that already produce abundance when left to function without interference. The true measure of a food system is not how much it produces, but how little it destroys.
 ## Practical Applications

@@ -1,5 +1,5 @@
 ---
-title: Fukuoka's Desert Revegetation Vision
+title: Fukuoka"s Desert Revegetation Vision
 aliases: [desert greening, green earth movement, Fukuoka deserts]
 tags: [ecology, desertification, revegetation, conservation, climate]
 created: 2026-05-10
@@ -44,7 +44,7 @@ species were appropriate for each location.
 
 ## The Clay Pellet Protocol
 
-Fukuoka's practical method for desert revegetation relied on his clay pellet
+Fukuoka"s practical method for desert revegetation relied on his clay pellet
 seed broadcasting technique adapted for arid environments. The protocol
 involved creating pellets containing a diverse mixture of seeds:
 
@@ -71,7 +71,7 @@ microorganisms could be the spark that restores the deserts."
 
 ## Natural Selection as the Guide
 
-A key insight of Fukuoka's approach was that the initial species mix should be
+A key insight of Fukuoka"s approach was that the initial species mix should be
 diverse and that natural selection should determine which plants survive at
 each location. After scattering the pellets, "a year later, several of the
 plants will survive, giving a clue as to what is suited to the climate and
@@ -116,5 +116,3 @@ Collaborative research networks facilitate knowledge exchange and accelerate inn
 Context-specific implementation requires attention to local ecology, climate patterns, and community needs.
 Integration with existing systems often yields better results than complete replacement strategies.
 Monitoring and adaptive management are essential for long-term success and continuous improvement.
-## Practical Applications
-The principles discussed here have direct applications in agricultural systems, ecological restoration, and sustainable resource management.

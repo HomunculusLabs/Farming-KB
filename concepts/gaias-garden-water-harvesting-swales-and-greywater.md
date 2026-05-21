@@ -1,5 +1,5 @@
 ---
-title: Gaia's Garden Water Harvesting Swales and Greywater
+title: Gaia"s Garden Water Harvesting Swales and Greywater
 created: 2026-04-21
 updated: 2026-04-18
 type: concept
@@ -8,7 +8,7 @@ sources:
   - "raw/papers/gaias-garden-toby-hemenway.md"
 ---
 
-## Gaia's Garden: Water Harvesting, Swales, and Greywater
+## Gaia"s Garden: Water Harvesting, Swales, and Greywater
 
 Chapter 5 of [[ficus-carica]] ean-climate plants are adapted to shifts between dry and wet seasons. They reduce water needs in nearly ehippophae-rhamnoidesunpredictable dry spells. Examples include:
 

@@ -29,7 +29,7 @@ A shallow, wide swale filled with gravel or coarse organic material. Designed fo
 
 A series of small, interconnected swales forming a net-like pattern across a slope. Used in arid and semi-arid regions to capture every possible drop of rainfall. Labor-intensive but extremely effective for desert restoration.
 
-### Berm 'n Basin (Boomerang Swale)
+### Berm "n Basin (Boomerang Swale)
 
 Crescent-shaped swales on gentle slopes, typically used around individual trees or planting areas. The berm (mound) is on the downhill side, and the basin (depression) captures water. Simple to construct with hand tools.
 

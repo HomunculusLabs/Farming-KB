@@ -16,7 +16,7 @@ JADAM (Jayonul Damun Umulgyeok) is a Korean [[coleman-deep-organic-farming-philo
 ## Detailed Explanation
 JADAM was founded by Youngsang Cho, who studied under Han Kyu Cho (the creator of Korean Natural Farming) before developing his own streamlined approach in the 1990s.
 The name translates roughly to "Nature is never wrong," reflecting the core philosophy that farming should work with natural systems rather than trying to override them.
-Cho's vision was to create a farming system so inexpensive that even the poorest farmers could practice organic agriculture profitably.
+Cho"s vision was to create a farming system so inexpensive that even the poorest farmers could practice organic agriculture profitably.
 His book "JADAM Organic Farming" has been translated into multiple languages and has inspired a global movement of ultra-low-cost organic growers.
 The system removes barriers to entry by eliminating the need for expensive equipment, imported inputs, or specialized knowledge beyond basic fermentation techniques.
 

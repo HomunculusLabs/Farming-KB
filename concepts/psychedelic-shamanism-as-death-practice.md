@@ -8,8 +8,8 @@ tags: [psychedelics]
 ---
 ## Psychedelic Shamanism as Death Practice
 
-[[james-arthur]]'s "[[soma-multi-plant-admixture-theory]] — Multi-plant Soma preparations
-- [[mckenna-psychedelic-shamanism]] — McKenna's perspective on psychedelic shamanism
+[[james-arthur]]"s "[[soma-multi-plant-admixture-theory]] — Multi-plant Soma preparations
+- [[mckenna-psychedelic-shamanism]] — McKenna"s perspective on psychedelic shamanism
 - [[rammed-earth]] — Author of "[[mushrooms-and-mankind]]"
 ## Background and Context
 

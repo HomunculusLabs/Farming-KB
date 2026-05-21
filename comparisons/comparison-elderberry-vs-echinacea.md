@@ -3,7 +3,7 @@ title: "Elderberry vs Echinacea"
 tags: [comparison, elderberry, echinacea, medicinal-herbs, immune-support]
 date: 2026-05-13
 updated: 2026-05-13
-sources: ['raw/papers/amanita-muscaria-herb-of-immortality.md']
+sources: ["raw/papers/amanita-muscaria-herb-of-immortality.md']
 ---
 
 ## Elderberry vs Echinacea

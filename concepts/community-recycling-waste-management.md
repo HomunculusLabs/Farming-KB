@@ -6,7 +6,7 @@ type: concept
 
 ## Community Recycling and Waste Management
 
-Community recycling and waste management systems are a foundational element of [[permaculture-design]] at the settlement and bioregional scale. Rather than treating waste as a linear disposal problem, [[permaculture]] reframes it as a circular resource flow — one that can generate revenue, create local employment, and strengthen community self-reliance. [[bill-mollison]]'s treatment of this topic spans practical recycling infrastructure, the economics of co-op recycling industries, political accountability for councils, and the broader evolutionary arc of communities moving toward genuine interdependence.
+Community recycling and waste management systems are a foundational element of [[permaculture-design]] at the settlement and bioregional scale. Rather than treating waste as a linear disposal problem, [[permaculture]] reframes it as a circular resource flow — one that can generate revenue, create local employment, and strengthen community self-reliance. [[bill-mollison]]"s treatment of this topic spans practical recycling infrastructure, the economics of co-op recycling industries, political accountability for councils, and the broader evolutionary arc of communities moving toward genuine interdependence.
 
 ## Mandatory Waste Sorting
 
@@ -45,7 +45,7 @@ The political dimension is explicit. Ratepayers bear a responsibility to elect o
 
 ## Flow-Through vs. Recycling Community Models
 
-A central analytical framework in Mollison's treatment is the contrast between **flow-through community systems** and **[[waste-recycling-community-systems]]**:
+A central analytical framework in Mollison"s treatment is the contrast between **flow-through community systems** and **[[waste-recycling-community-systems]]**:
 
 - **Flow-through systems** import resources (energy, materials, food) from outside the community, use them once, and export them as waste. These systems are inherently unsustainable — they depend on continuous external inputs and generate accumulating waste streams that degrade the local environment over time.
 - **Recycling systems** internalize resource loops. Materials are captured, sorted, and cycled back into productive use within the community. Energy is harvested from multiple sources. Organic waste becomes compost. Water is purified and reused. These systems reduce external dependence and build resilience.
@@ -69,12 +69,12 @@ The timeline is significant: 5 to 7 years of determined effort is sufficient to 
 
 Once a community achieves stability, Mollison calls for deliberate action to prevent runaway affluence and to extend the benefits of self-reliance outward. Two principal strategies are identified:
 
-1. **Handing over superfluous enterprises** to emerging groups, deliberately reducing one's own income to make room for others to build economic capacity.
+1. **Handing over superfluous enterprises** to emerging groups, deliberately reducing one"s own income to make room for others to build economic capacity.
 2. **Extending aid and services** to areas experiencing poverty, natural catastrophe, or medical insufficiency.
 
 Many ethical groups practice **tithing — committing 10% of gross income** to aid and development efforts. Mollison argues that modest material needs — shelter, sufficient food, small luxuries, travel funds, and friendship — are readily achievable, and that beyond these lies the deeper fulfillment of helping others establish their own firm footing. Starting these practices early, even at modest levels, prevents the psychological entrenchment that makes divestment difficult later.
 
-> "The only real security in life is a secure society of interdependent people; thus the only valid 'defence' is aid to others."
+> "The only real security in life is a secure society of interdependent people; thus the only valid "defence' is aid to others."
 
 This principle reframes security from an individual accumulation model to a collective resilience model. A wealthy individual in a failing society is not secure; a modest person in a thriving, mutual-aid network is. The logic is ecological as much as ethical: diversity and interconnection create stability in natural systems, and the same applies to human communities. Mollison extends this logic to its political conclusion: the only valid form of defense is not armament or isolation but the active strengthening of others, because a secure neighbor is the best possible security for oneself.
 
@@ -94,7 +94,7 @@ Mollison cites existing examples from India, where towns and regions along the G
 
 At present, few villages possess the initial sound legal, financial, and social structures to achieve coalition-scale cooperation. Building these foundational structures — governance documents, financial management systems, dispute resolution mechanisms — is itself a prerequisite task for communities aspiring to this level of organization. Without these foundations, even well-intentioned partnerships can falter under the pressures of unequal contribution, misaligned expectations, or unclear decision-making authority.
 
-Mollison also highlights concrete ownership possibilities that demonstrate the breadth of coalition potential: a village could own and operate a boat for coastal trade, trucks or pack animals for overland transport, or lease land in a different bioregion for food production. An arid village could invest in a tropical village's irrigation enterprise; an urban village could co-finance a rural farm. These are not speculative ideas — many villages in India and elsewhere already practice similar arrangements, proving that cross-regional village ownership is both practical and culturally adaptable.
+Mollison also highlights concrete ownership possibilities that demonstrate the breadth of coalition potential: a village could own and operate a boat for coastal trade, trucks or pack animals for overland transport, or lease land in a different bioregion for food production. An arid village could invest in a tropical village"s irrigation enterprise; an urban village could co-finance a rural farm. These are not speculative ideas — many villages in India and elsewhere already practice similar arrangements, proving that cross-regional village ownership is both practical and culturally adaptable.
 
 ## Education and Intergenerational Continuity
 

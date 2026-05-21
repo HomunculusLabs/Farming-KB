@@ -78,7 +78,7 @@ A "flood dose" is a large, single dose intended to produce the full visionary ex
 - Peak: 3–8 hours
 - Acute effects: 12–36 hours
 - Ataxia (loss of motor coordination) is universal and intense — lying down is mandatory
-- Visual experiences often involve reviewing one's life in detail
+- Visual experiences often involve reviewing one"s life in detail
 - Nausea and vomiting are common and expected
 
 **Aftercare:**

@@ -86,7 +86,7 @@ For analytical purposes, this yield is sufficient for HPLC analysis, which requi
 
 ## Strain Origin
 
-The strain used in Bigwood and Beug's study originated from a spore print collected in the Amazon basin near Pucallpa, Peru (Repke et al., 1977). This "Amazonian strain" was maintained as a stock culture on various agar media. The geographic origin is relevant because:
+The strain used in Bigwood and Beug"s study originated from a spore print collected in the Amazon basin near Pucallpa, Peru (Repke et al., 1977). This "Amazonian strain" was maintained as a stock culture on various agar media. The geographic origin is relevant because:
 ## Practical Applications
 The principles discussed here have direct applications in agricultural systems, ecological restoration, and sustainable resource management.
 Practitioners have demonstrated successful implementation across diverse climates and soil conditions.

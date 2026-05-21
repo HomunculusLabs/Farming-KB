@@ -9,7 +9,7 @@ tags: [person, shaman, mazatec, mushroom-healer, huautla, traditional-medicine]
 
 ## Description
 
-Roman Estrada was a Mazatec shaman (curandero) from the town of Huautla de Jiménez in the Sierra Mazateca of Oaxaca, Mexico. He was one of two primary informants — alongside Irene Pineda de Figueroa — whose mushroom-induced shamanic discourses were recorded and analyzed by Henry Munn in his essay "The Mushrooms of Language." In his late fifties at the time of the study, Estrada had been eating the sacred mushrooms for approximately nine years, having begun his shamanic career after a dramatic cure from a traumatic illness. His recorded discourse, characterized by themes of fear and terror, stands in contrast to the female shamaness's themes of freshness and tenderness, representing what Munn called the "emotional poles" of the mushroom experience.
+Roman Estrada was a Mazatec shaman (curandero) from the town of Huautla de Jiménez in the Sierra Mazateca of Oaxaca, Mexico. He was one of two primary informants — alongside Irene Pineda de Figueroa — whose mushroom-induced shamanic discourses were recorded and analyzed by Henry Munn in his essay "The Mushrooms of Language." In his late fifties at the time of the study, Estrada had been eating the sacred mushrooms for approximately nine years, having begun his shamanic career after a dramatic cure from a traumatic illness. His recorded discourse, characterized by themes of fear and terror, stands in contrast to the female shamaness"s themes of freshness and tenderness, representing what Munn called the "emotional poles" of the mushroom experience.
 
 ## Classification
 
@@ -30,13 +30,13 @@ Roman Estrada was a Mazatec shaman (curandero) from the town of Huautla de Jimé
 - Initially resisted the shamanic vocation, wanting only to be cured, but was told by the elder shaman: "it is no longer you who command"
 - His vocation was confirmed when he heard the voice of his father, dead for 43 years, telling him to accept the work
 - Learned the technique of "sucking through space" with a hollow tube of cane — drawing sickness out of patients from a distance without physical contact
-- His shamanic discourse is characterized by themes of fear and terror, contrasting with the medicine woman's themes of freshness and tenderness
+- His shamanic discourse is characterized by themes of fear and terror, contrasting with the medicine woman"s themes of freshness and tenderness
 - Described the Mazatec concept of "fright" (susto) — a traumatic neurosis where the spirit is frightened from the body and must be retrieved
 - The complete text of his discourse spans ninety-two pages in the original recording
 - His niece, Eloina Estrada de Gonzalez, served as translator for the recorded materials
 - His cure involved vividly reliving the operation in his imagination — the mushrooms "cut him open, arranged his insides, and sewed him up again"
 - His case demonstrates the Mazatec belief that conventional medicine cannot truly cure because it is "divorced from all cooperation with the spirits"
-- The old shaman from San Lucas showed him a table with ground tobacco and a cross — signs of the shaman's work — and offered him the vocation
+- The old shaman from San Lucas showed him a table with ground tobacco and a cross — signs of the shaman"s work — and offered him the vocation
 - He described hearing an inner voice that he could not recognize as his own, which the elder shaman interpreted as his dead father's voice
 
 ## Relevance to Cultivation and Mycology
@@ -55,11 +55,11 @@ Estrada's account of his own cure is one of the most detailed first-person descr
 
 ## Psychological Analysis
 
-From a psychological perspective, Roman Estrada's case illustrates several phenomena of interest to clinical researchers. His initial resistance to the shamanic vocation, followed by acquiescence upon hearing his dead father's voice, can be understood as the resolution of an intrapsychic conflict through the activation of the superego under psychedelic conditions. The elder shaman's technique of negating the patient's will in order to arouse it anticipates modern paradoxical intervention strategies in psychotherapy. The visionary reenactment of the surgery that cured his traumatic neurosis parallels modern exposure therapy techniques used in PTSD treatment.
+From a psychological perspective, Roman Estrada"s case illustrates several phenomena of interest to clinical researchers. His initial resistance to the shamanic vocation, followed by acquiescence upon hearing his dead father's voice, can be understood as the resolution of an intrapsychic conflict through the activation of the superego under psychedelic conditions. The elder shaman's technique of negating the patient's will in order to arouse it anticipates modern paradoxical intervention strategies in psychotherapy. The visionary reenactment of the surgery that cured his traumatic neurosis parallels modern exposure therapy techniques used in PTSD treatment.
 
 ## Physical Healing Techniques
 
-In addition to his primary role as speaker and oracle, Roman Estrada employed physical healing techniques including massage and suction. His intoxicated condition was described as giving him "a strength to heal that he exercises by massage and suction." The suction technique involved using a hollow cane tube to draw illness from the patient's body from a distance, without direct physical contact. These physical techniques complemented the primary linguistic therapy and represent the multi-modal approach characteristic of Mazatec traditional medicine.
+In addition to his primary role as speaker and oracle, Roman Estrada employed physical healing techniques including massage and suction. His intoxicated condition was described as giving him "a strength to heal that he exercises by massage and suction." The suction technique involved using a hollow cane tube to draw illness from the patient"s body from a distance, without direct physical contact. These physical techniques complemented the primary linguistic therapy and represent the multi-modal approach characteristic of Mazatec traditional medicine.
 
 ## Relationship to Other Mazatec Shamans
 

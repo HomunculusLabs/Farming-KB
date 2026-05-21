@@ -21,7 +21,7 @@ sources:
 
 # Patterns in Nature
 
-Natural patterns are the templates for permaculture design. Mollison's Designer's Manual devotes Chapter 4 entirely to pattern understanding; Holmgren's Principle 7 ("Design from Patterns to Details") provides the practical framework. See [[permaculture-design-methods]] for how patterns integrate into the design process.
+Natural patterns are the templates for permaculture design. Mollison"s Designer's Manual devotes Chapter 4 entirely to pattern understanding; Holmgren's Principle 7 ("Design from Patterns to Details") provides the practical framework. See [[permaculture-design-methods]] for how patterns integrate into the design process.
 
 ## The General Pattern Model
 
@@ -64,7 +64,7 @@ Cracks in mud, honeycomb, basalt columns, bird bones, leaf veins, thermal wind c
 Algae on ponds, tree clumps in swamps, islands, lichens on rocks.
 
 - Clusters of organisms distributed across a landscape following resource availability
-- Size and spacing of clusters follows order-of-magnitude scaling (Odum's hierarchy)
+- Size and spacing of clusters follows order-of-magnitude scaling (Odum"s hierarchy)
 - **Design application**: Zone placement (clustered by use frequency), tree planting in paddocks (shade clumps for livestock), habitat islands for wildlife corridors
 
 ## Tessellations

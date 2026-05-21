@@ -16,7 +16,7 @@ This five-month season—from October through February—produces a product that
 
 ## Recommended Variety
 
-**'Napoli'** is the most successful variety identified for winter in-ground storage. It produces a small but intensely full-flavored root that holds quality through months of cold soil conditions. The small size is actually an advantage—it allows dense planting and quick digging even in frozen or near-frozen soil.
+**"Napoli'** is the most successful variety identified for winter in-ground storage. It produces a small but intensely full-flavored root that holds quality through months of cold soil conditions. The small size is actually an advantage—it allows dense planting and quick digging even in frozen or near-frozen soil.
 
 For spring carrots (a separate crop sown in winter for May harvest), **'Nelson'** is used. While deliciously sweet as a spring carrot, it cannot match the acclaim of the winter 'Napoli' crop.
 

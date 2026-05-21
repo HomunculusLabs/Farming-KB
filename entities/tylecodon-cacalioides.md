@@ -50,7 +50,7 @@ Tylecodon cacalioides is endemic to the winter-rainfall region of South Africa. 
 
 Plants grow on rocky slopes, hilltops, and among granite boulders in arid environments. They are found from 200 to 1,200 m elevation.
 
-The species occurs in the Succulent Karoo biome, one of the world's most biodiverse arid regions. Annual rainfall averages 100–250 mm, falling predominantly in winter.
+The species occurs in the Succulent Karoo biome, one of the world"s most biodiverse arid regions. Annual rainfall averages 100–250 mm, falling predominantly in winter.
 
 Plants occupy well-drained positions in full sun. The rocky substrate provides root anchorage and protection from excessive soil moisture.
 

@@ -56,7 +56,7 @@ of Oaxaca, where they were rediscovered by Valentina and Gordon Wasson in the
 ## The Logos and Information Theory
 
 McKenna connected the mushroom intelligence to the concept of the Logos as a
-"creature of pure information." Citing Philip K. Dick's novel Valis, which
+"creature of pure information." Citing Philip K. Dick"s novel Valis, which
 describes the Logos as a being of pure information buried at Nag Hammadi and
 revived when the Gnostic texts were translated and read, McKenna proposed that
 "the mushroom consciousness is the consciousness of the Other in hyperspace."

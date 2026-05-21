@@ -9,7 +9,7 @@ tags: [livestock-disease, veterinary, permaculture, agriculture, mycotoxicosis]
 
 ## Description
 
-[[bill-mollison]] in *Permaculture: A Designers' Manual* as one of the intractable illnesses that arises from forced high-production regimes in pastoral agriculture. It is a condition affecting ruminants, particularly cattle and sheep, caused by toxicity from fungal spores (primarily *Pithomyces chartarum*) ingested from pasture. The disease exemplifies the cascading consequences of industrial farming practices that prioritise maximum yield over system health.
+[[bill-mollison]] in *Permaculture: A Designers" Manual* as one of the intractable illnesses that arises from forced high-production regimes in pastoral agriculture. It is a condition affecting ruminants, particularly cattle and sheep, caused by toxicity from fungal spores (primarily *Pithomyces chartarum*) ingested from pasture. The disease exemplifies the cascading consequences of industrial farming practices that prioritise maximum yield over system health.
 
 ## Classification
 

@@ -30,7 +30,7 @@ Basidiomycotina (equivalent to the modern phylum Basidiomycota in current taxono
 
 ## Relevance to Cultivation and Mycology
 
-- Nearly all commercially cultivated mushroom species are basidiomycetes: *Agaricus bisporus* (button mushroom), *Pleurotus* species (oyster mushrooms), *Lentinula edodes* (shiitake), *Ganoderma* species (reishi), *Flammulina velutipes* (enokitake), *Hericium erinaceus* (lion's mane), and many others
+- Nearly all commercially cultivated mushroom species are basidiomycetes: *Agaricus bisporus* (button mushroom), *Pleurotus* species (oyster mushrooms), *Lentinula edodes* (shiitake), *Ganoderma* species (reishi), *Flammulina velutipes* (enokitake), *Hericium erinaceus* (lion"s mane), and many others
 - Understanding basidiomycete biology — particularly the formation and maturation of fruiting bodies (basidiocarps) — is fundamental to mushroom cultivation science
 - The energy cost of fruiting body production means basidiomycetes require substantial substrate colonization and nutrient accumulation before fruiting can be induced — this is the biological basis for the colonization period required before initiating pinning in cultivation
 - White-rot basidiomycetes (which degrade both cellulose and lignin) are the primary decomposers used in wood-based mushroom cultivation substrates

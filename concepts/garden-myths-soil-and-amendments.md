@@ -17,7 +17,7 @@ One of the most widely promoted soil amendments in permaculture and organic gard
 
 ### What the Evidence Shows
 
-Research on compost tea's efficacy is decidedly mixed:
+Research on compost tea"s efficacy is decidedly mixed:
 
 - **Positive results** are inconsistent and often attributed to the nutrient content of the tea rather than its microbial populations
 - **The microbial problem**: Beneficial microorganisms applied to leaf surfaces face harsh conditions (UV radiation, desiccation, temperature extremes) and rarely establish in sufficient numbers to compete with pathogens

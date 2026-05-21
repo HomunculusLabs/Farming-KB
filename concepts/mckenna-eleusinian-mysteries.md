@@ -28,7 +28,7 @@ There is little doubt that at Eleusis something was drunk by each initiate and e
 
 It is an incredible testament to the obtuseness of dominator society scholars that not until 1964 did someone suggest that a hallucinogenic plant must have been involved. The English poet Robert Graves first proposed this in his essay "The Two Births of Dionysus":
 
-> Triptolemus's secret seems therefore concerned with [[allegro-amanita-muscaria-properties-and-pharmacology]]; one that could be baked in sacrificial cakes, shaped like pigs or phalloi, without losing its hallucinogenic powers.
+> Triptolemus"s secret seems therefore concerned with [[allegro-amanita-muscaria-properties-and-pharmacology]]; one that could be baked in sacrificial cakes, shaped like pigs or phalloi, without losing its hallucinogenic powers.
 
 ## The Kykeon Question
 

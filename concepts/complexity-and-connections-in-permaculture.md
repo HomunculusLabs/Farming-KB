@@ -10,7 +10,7 @@ type: concept
 
 ## The Mathematics of Complexity
 
-As Waddington (1977) observed, in systems where elements interact, complexity rises roughly as the **square of the number of elements**. "Two's company, three's a crowd... and five or six is getting to be a shambles!"
+As Waddington (1977) observed, in systems where elements interact, complexity rises roughly as the **square of the number of elements**. "Two"s company, three's a crowd... and five or six is getting to be a shambles!"
 
 This combinatorial explosion means that even modest increases in species diversity can dramatically increase the number of possible functional connections. A chicken, for example, connects to garden waste, insect populations, soil fertility, egg production, weed control, and dozens of other system components simultaneously.
 
@@ -40,7 +40,7 @@ Living elements do not confine their functions to our design concepts — they a
 
 Not all complexity is beneficial. Mollison distinguishes between:
 
-- **Benign complexity** — cooperative organisms working together productively, where each element's outputs become another's inputs
+- **Benign complexity** — cooperative organisms working together productively, where each element"s outputs become another's inputs
 - **Competitive or inharmonious complexity** — introductions or migrations that increase complexity but reduce stability with respect to desirable local yield
 
 The question is always one of **matching needs with products** and assigning proper values to connections. A well-connected system where every output finds a useful input is complex in the best sense.

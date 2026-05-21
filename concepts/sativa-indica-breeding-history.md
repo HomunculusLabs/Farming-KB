@@ -14,7 +14,7 @@ extracted_date: 2026-05-11
 
 ## Sativa-Indica Breeding History and Evolution
 
-## The Rise of Indica and Sativa's Decline
+## The Rise of Indica and Sativa"s Decline
 
 For much of [[cannabis-breeding-basics]] involves the origin of
 the "Trainwreck" generation. According to historical accounts from the late

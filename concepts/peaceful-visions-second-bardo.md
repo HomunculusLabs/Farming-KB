@@ -6,7 +6,7 @@ type: concept
 
 ## Peaceful Visions of the Second Bardo
 
-The Second Bardo of the Tibetan Book of the Dead, as adapted by Leary, Metzner, and Alpert in *The Psychedelic Experience* (1964), presents a series of **Peaceful Visions** that arise after the ego-loss of the First Bardo. These visions represent progressively more structured encounters with the fundamental nature of reality. Each vision corresponds to a Dhyani Buddha, an element, and a specific mode of perception — and each carries both a **positive** (liberating) and **negative** (deluding) interpretation depending on the voyager's preparation and mental set.
+The Second Bardo of the Tibetan Book of the Dead, as adapted by Leary, Metzner, and Alpert in *The Psychedelic Experience* (1964), presents a series of **Peaceful Visions** that arise after the ego-loss of the First Bardo. These visions represent progressively more structured encounters with the fundamental nature of reality. Each vision corresponds to a Dhyani Buddha, an element, and a specific mode of perception — and each carries both a **positive** (liberating) and **negative** (deluding) interpretation depending on the voyager"s preparation and mental set.
 
 The central teaching is that these visions are not hallucinations to be grasped or fled from, but **radiant displays of consciousness itself**. The prepared voyager recognizes them as such and is liberated; the unprepared person freezes them into conceptual traps. The manual functions as a reality-map, orienting the voyager through terrains that the untrained mind cannot navigate.
 
@@ -36,7 +36,7 @@ monotheistic or punitive nature — the glorious light of the seed wisdom can
 produce awe and terror rather than bliss. The person may wish to flee from
 the light and develop a fondness for a dull, lesser illumination symbolizing
 stupidity or ignorance. The instruction is to **surrender to the light**,
-recognizing it as the essence of one's own awareness. Resistance produces
+recognizing it as the essence of one"s own awareness. Resistance produces
 suffering; recognition produces liberation.
 
 ## Vision 2: Internal Flow of Archetypal Processes

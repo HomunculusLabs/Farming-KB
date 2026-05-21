@@ -39,7 +39,7 @@ and elephants -- were as important as pyrotechnic skills in increasing human
 well-being.
 
 The value of a well-bred, well-trained working bullock or horse could be greater
-than that of a human worker. The Australian dingo's relationship to Aboriginal
+than that of a human worker. The Australian dingo"s relationship to Aboriginal
 Australians suggests that animal domestication was a co-evolutionary process of
 mutual benefits, rather than the "capture and tame" model.
 

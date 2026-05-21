@@ -6,7 +6,7 @@ type: concept
 
 ## Mushroom Marketing and Sales
 
-Growing consistently high-quality mushrooms is one skill; finding buyers and marketing them effectively is another. Success in the [[cotter-mushroom-business-marketing]] requires understanding consumer demand, educating your market, and employing practical sales strategies. A popular saying in the agricultural market captures this principle: "Don't sell what you can grow — grow what you can sell."
+Growing consistently high-quality mushrooms is one skill; finding buyers and marketing them effectively is another. Success in the [[cotter-mushroom-business-marketing]] requires understanding consumer demand, educating your market, and employing practical sales strategies. A popular saying in the agricultural market captures this principle: "Don"t sell what you can grow — grow what you can sell."
 
 ## Understanding Your Market
 
@@ -27,7 +27,7 @@ Consumers rely on your consistent staples for regular purchases while being draw
 
 ### The Power of Cooking Demos
 
-The smell of fresh mushrooms, garlic, and onions caramelizing in a pan is one of the most effective customer attractors at farmer's markets. A small portable burner with sautéing mushrooms draws passersby without creating pressure to buy.
+The smell of fresh mushrooms, garlic, and onions caramelizing in a pan is one of the most effective customer attractors at farmer"s markets. A small portable burner with sautéing mushrooms draws passersby without creating pressure to buy.
 
 **Sampling tips:**
 - Cut mushrooms into small pieces and cook briefly
@@ -55,7 +55,7 @@ High in protein: 20 g/100 g (eggs average 13 g/100 g)
 Common mushroom names can significantly affect consumer perception. "[[oyster-mushroom]]" implies salty, slimy seafood to many consumers. Consider alternative common names used in other cultures:
 
 - **"Trumpet"** (Europe) for vase-shaped gilled mushrooms
-- **"Pom-pom"** or **"Waterfall"** for lion's mane (*[[hericium-erinaceus]]*)
+- **"Pom-pom"** or **"Waterfall"** for lion"s mane (*[[hericium-erinaceus]]*)
 
 ### Nutritional Positioning
 

@@ -9,7 +9,7 @@ sources:
 ---
 ## Input-Free Farming Philosophy
 
-The Modern Natural Farming Technology (MNFT) poster promotes an approach to cultivation that minimises or eliminates purchased inputs by relying on foraged, locally available, and self-produced materials. Rooted in Master Cho Han-Kyu's Korean Natural Farming (KNF) and informed by Masanobu Fukuoka's philosophy of working with nature rather than against it, input-free farming treats the grower as part of a regenerative cycle rather than a consumer of agricultural products.
+The Modern Natural Farming Technology (MNFT) poster promotes an approach to cultivation that minimises or eliminates purchased inputs by relying on foraged, locally available, and self-produced materials. Rooted in Master Cho Han-Kyu"s Korean Natural Farming (KNF) and informed by Masanobu Fukuoka's philosophy of working with nature rather than against it, input-free farming treats the grower as part of a regenerative cycle rather than a consumer of agricultural products.
 
 ## Core Principles
 
@@ -31,7 +31,7 @@ The poster repeatedly emphasises that materials for natural farming inputs are e
 - The grower becomes a producer of agricultural inputs, not a consumer
 
 ### Personal Preference is Valid
-The poster explicitly states: "We each have our preference in growing. Grow a way that makes you feel good." This is a departure from rigid recipe-based approaches and reflects the KNF philosophy that the farmer's observation and intuition are more valuable than strict adherence to measurements.
+The poster explicitly states: "We each have our preference in growing. Grow a way that makes you feel good." This is a departure from rigid recipe-based approaches and reflects the KNF philosophy that the farmer"s observation and intuition are more valuable than strict adherence to measurements.
 
 ## Connection to Korean Natural Farming
 

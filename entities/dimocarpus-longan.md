@@ -11,7 +11,6 @@ date: 2026-05-08
 updated: 2026-05-08
 sources:
   - Zheng, G. et al. (2021). "A review of the phytochemistry and pharmacology of Dimocarpus longan." Frontiers in Pharmacology, 12, 689520.---
----
 
 ## Dimocarpus longan
 

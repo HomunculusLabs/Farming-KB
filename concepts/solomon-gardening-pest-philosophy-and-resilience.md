@@ -36,7 +36,7 @@ The lesson is clear: ideal soil conditions produce healthy plants that largely r
 
 ## Accepting Weather-Related Losses
 
-Even with ideal soil and perfect technique, some years the weather will defeat you. Extended cool, humid, damp conditions can trigger blight that blackens entire crops. No amount of intervention can prevent this. Solomon recalls one miserable summer when continuous cool, humid days caused late blight to blacken all of Cascadia's tomato vines. The entire crop from Canada to northern California died. Such events are beyond the gardener's control.
+Even with ideal soil and perfect technique, some years the weather will defeat you. Extended cool, humid, damp conditions can trigger blight that blackens entire crops. No amount of intervention can prevent this. Solomon recalls one miserable summer when continuous cool, humid days caused late blight to blacken all of Cascadia"s tomato vines. The entire crop from Canada to northern California died. Such events are beyond the gardener's control.
 
 Acceptance is not resignation; it is wisdom. A diverse garden that contains crops preferring both hotter and cooler conditions will always produce something, even in a bad year. Growing at least some really hardy vegetables almost certainly guarantees that something edible will survive even the worst weather.
 

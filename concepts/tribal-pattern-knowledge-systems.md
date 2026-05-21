@@ -22,7 +22,7 @@ Polynesians used **pattern [[maps]]** that lacked scale, cartographic details, a
 
 - **Sticks and flexed strips** representing wave interference patterns
 - **Cowrie shells** marking island positions and ocean current interactions
-- **Song cycles** that served as keys to unlock the map's meaning
+- **Song cycles** that served as keys to unlock the map"s meaning
 
 The maps were linked to star sets and ocean currents, encoding navigational information that Western cartography would require extensive instruments and calculations to replicate.
 
@@ -42,7 +42,7 @@ Children of many tribes are taught hundreds of simple chants whose words hide de
 
 ### Nootka Navigation Songs
 
-The Nootka Indians of British Columbia (documented by Anne Cameron in *Daughters of Copper Woman*, 1981) used song navigation: "There was a song for goin' to China, and a song for goin' to Japan, a song for the big island and a song for the smaller one. All she [the navigator] had to know was the song and she knew where she was."
+The Nootka Indians of British Columbia (documented by Anne Cameron in *Daughters of Copper Woman*, 1981) used song navigation: "There was a song for goin" to China, and a song for goin' to Japan, a song for the big island and a song for the smaller one. All she [the navigator] had to know was the song and she knew where she was."
 
 The navigation songs recorded "the streams and creeks of the sea" — ocean currents, headlands and bays, star constellations, and "ceremonies of ecstatic revelation." Song stanzas functioned as highly accurate timers, reproducible at any time, with content recording observations from prior voyages.
 

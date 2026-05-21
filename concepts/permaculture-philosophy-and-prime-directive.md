@@ -8,7 +8,7 @@ type: concept
 
 ## The Prime Directive
 
-The foundational statement of permaculture philosophy is the **Prime Directive**: *The only ethical decision is to take responsibility for our own existence and that of our children.* This is not merely a slogan but a practical imperative that shapes all [[james-lovelock]]'s [[rainbow-serpent]], a creation figure shared by Australian and American Aboriginal peoples. The Serpent wound across the flat earth, its body heaping up mountains and digging troughs for rivers — a metaphor for the patterning forces that shape landscapes. Within the body of the Rainbow Serpent is contained the tree of life, expressing the general pattern of life forms, with roots in earth and crown in rain, sunlight, and wind.
+The foundational statement of permaculture philosophy is the **Prime Directive**: *The only ethical decision is to take responsibility for our own existence and that of our children.* This is not merely a slogan but a practical imperative that shapes all [[james-lovelock]]"s [[rainbow-serpent]], a creation figure shared by Australian and American Aboriginal peoples. The Serpent wound across the flat earth, its body heaping up mountains and digging troughs for rivers — a metaphor for the patterning forces that shape landscapes. Within the body of the Rainbow Serpent is contained the tree of life, expressing the general pattern of life forms, with roots in earth and crown in rain, sunlight, and wind.
 
 This mythological framing serves to connect the abstract design principles discussed later in the book (particularly in the Pattern Understanding chapter) to a deep, culturally rooted understanding of how landscapes are formed and sustained.
 
@@ -29,7 +29,7 @@ This concept of a global nation is not a political entity but a voluntary associ
 
 ## "This is Heaven, Right Here"
 
-The chapter concludes with a story about a young woman who, after a lecture on concepts of afterlife, offered her view: "This is heaven, right here. This is it. Give it all you've got." Mollison writes: "I couldn't better that advice. The heaven, or hell, we live in is of our own making."
+The chapter concludes with a story about a young woman who, after a lecture on concepts of afterlife, offered her view: "This is heaven, right here. This is it. Give it all you"ve got." Mollison writes: "I couldn"t better that advice. The heaven, or hell, we live in is of our own making."
 
 This pragmatic, present-focused ethic — investing fully in the world as it exists rather than deferring to hypothetical futures or afterlives — is a hallmark of the permaculture philosophy.
 

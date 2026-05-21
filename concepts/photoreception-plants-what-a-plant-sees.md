@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-Plants perceive light through specialized photoreceptor proteins, most notably **phytochromes** and **cryptochromes**, which enable them to detect not only the presence of light but its colour, intensity, duration, and direction. This sensory capability underlies critical processes including phototropism (growth toward light), photoperiodism (measurement of day length for flowering), [[phototropism-and-shade-avoidance]], germination, and [[plant-circadian-rhythms]]. [[daniel-chamovitz]]'s "What a Plant Knows" explores these [[chamovitz-gradualist-framework-plant-sensory-capabilities]], drawing parallels between plant and animal photoreception.
+Plants perceive light through specialized photoreceptor proteins, most notably **phytochromes** and **cryptochromes**, which enable them to detect not only the presence of light but its colour, intensity, duration, and direction. This sensory capability underlies critical processes including phototropism (growth toward light), photoperiodism (measurement of day length for flowering), [[phototropism-and-shade-avoidance]], germination, and [[plant-circadian-rhythms]]. [[daniel-chamovitz]]"s "What a Plant Knows" explores these [[chamovitz-gradualist-framework-plant-sensory-capabilities]], drawing parallels between plant and animal photoreception.
 
 ## Human vs. Plant Light Perception
 
@@ -78,7 +78,7 @@ Key question in photoperiodism research: **Do plants measure the length of the d
 ### Phototropins
 
 - Detect **blue light** for phototropic responses (growth toward light).
-- First identified in Darwin's experiments with oat coleoptiles.
+- First identified in Darwin"s experiments with oat coleoptiles.
 
 ## Darwin's Contributions to Plant Photobiology
 

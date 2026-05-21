@@ -11,7 +11,7 @@ sources:
 
 ## Overview
 
-JADAM's approach to replenishing minerals leached from soil is strikingly simple: use seawater. Youngsang Cho argues that since minerals leached from soil over centuries ultimately flow to the sea, seawater contains a near-complete mineral profile matching what crops need. Seawater's mineral composition closely resembles that of amniotic fluid and blood plasma, supporting the biological principle that "both fauna and flora came from the sea."
+JADAM"s approach to replenishing minerals leached from soil is strikingly simple: use seawater. Youngsang Cho argues that since minerals leached from soil over centuries ultimately flow to the sea, seawater contains a near-complete mineral profile matching what crops need. Seawater's mineral composition closely resembles that of amniotic fluid and blood plasma, supporting the biological principle that "both fauna and flora came from the sea."
 
 ## The Leaching Problem
 
@@ -30,7 +30,7 @@ Combined with JMS, [[cervantes-powdery-mildew-prevention-treatment]]. The Korean
 
 ## The Philosophy of Completeness
 
-JADAM's approach mirrors human nutrition: rather than identifying which specific mineral you lack and taking a pill, eat a wholesome diet that restores diversity and balance. Seawater provides the full spectrum of minerals in natural proportions, avoiding the risk of disrupting soil nutrient balance that comes with isolated mineral amendments.
+JADAM"s approach mirrors human nutrition: rather than identifying which specific mineral you lack and taking a pill, eat a wholesome diet that restores diversity and balance. Seawater provides the full spectrum of minerals in natural proportions, avoiding the risk of disrupting soil nutrient balance that comes with isolated mineral amendments.
 
 This is part of JADAM's broader principle: the diversity of soil microorganisms supports the diversity of available nutrients. When different microorganisms with different diets populate the soil, they produce different digestive processes and excretions, creating a rich nutrient environment.
 

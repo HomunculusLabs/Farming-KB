@@ -6,7 +6,7 @@ tags:
 
 ## Overview
 
-Endophytic fungi are microorganisms that live within plant tissues without causing visible disease symptoms. Among the most ecologically significant endophytes are the **clavicipitaceous fungi** that form symbiotic associations with grasses, including many of the world's most important forage and turf grasses. These fungi—particularly species of *Epichloë* (asexual Neotyphodium)—produce a remarkable array of **alkaloid compounds** that protect their host plants from herbivorous insects, grazing mammals, and even other fungi. In exchange, the fungus receives shelter, nutrition, and vertical transmission through the host's seeds. This mutualistic relationship represents one of the most widespread and economically important plant-fungal symbioses on Earth, affecting livestock management, pasture ecology, and the turfgrass industry.
+Endophytic fungi are microorganisms that live within plant tissues without causing visible disease symptoms. Among the most ecologically significant endophytes are the **clavicipitaceous fungi** that form symbiotic associations with grasses, including many of the world"s most important forage and turf grasses. These fungi—particularly species of *Epichloë* (asexual Neotyphodium)—produce a remarkable array of **alkaloid compounds** that protect their host plants from herbivorous insects, grazing mammals, and even other fungi. In exchange, the fungus receives shelter, nutrition, and vertical transmission through the host's seeds. This mutualistic relationship represents one of the most widespread and economically important plant-fungal symbioses on Earth, affecting livestock management, pasture ecology, and the turfgrass industry.
 
 ## The Endophytic Lifestyle
 
@@ -17,7 +17,7 @@ Endophytes differ from pathogens in their relationship with the host: while path
 Endophytic grass fungi employ two distinct transmission strategies:
 
 1. **Vertical transmission**: The fungus grows into the developing seeds of the host grass, ensuring that every seedling inherits the endophyte. This maternal inheritance is highly efficient and maintains the symbiosis across generations without requiring external infection. Virtually 100% of seeds from an infected mother plant carry the fungus.
-2. **Horizontal transmission**: In sexual *Epichloë* species (the "choke" fungi), the fungus eventually erupts from the plant's inflorescence, forming a stroma that envelops the developing seed head—literally "choking" the grass's reproduction. Flies visit the stroma, transfer gametes between fungal individuals, and subsequently disperse fungal spores to uninfected grass plants. This strategy sacrifices the host's current reproductive output but allows the fungus to colonize new hosts.
+2. **Horizontal transmission**: In sexual *Epichloë* species (the "choke" fungi), the fungus eventually erupts from the plant"s inflorescence, forming a stroma that envelops the developing seed head—literally "choking" the grass"s reproduction. Flies visit the stroma, transfer gametes between fungal individuals, and subsequently disperse fungal spores to uninfected grass plants. This strategy sacrifices the host's current reproductive output but allows the fungus to colonize new hosts.
 
 The existence of both strategies within the same genus (*Epichloë*) illustrates a fundamental evolutionary trade-off: vertical transmission guarantees perpetuation but limits genetic diversity, while horizontal transmission promotes genetic recombination but risks the endophyte being lost if the host is not successfully infected.
 

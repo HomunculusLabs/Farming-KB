@@ -21,7 +21,7 @@ An honest [[growing-vegetables-with-less-fertilizer]]** than his
   of Brussels sprouts was devastated by aphids while another alongside
   it remained entirely untouched
 
-## The Seed Trade's Dirty Secrets
+## The Seed Trade"s Dirty Secrets
 
 ### Seed Substitution
 
@@ -34,7 +34,7 @@ to target home-garden trade customers, never commercial accounts.
 ### Variety Degradation
 
 Producing cheap seed is easy: skip eradicating off-types, avoid
-breeding work to improve lines, don't patrol surrounding fields for
+breeding work to improve lines, don"t patrol surrounding fields for
 cross-pollination sources, and don't hand-select plants for seed
 production. Each generation grown this way becomes ever more variable
 and less productive. When degraded stock becomes too obvious, the

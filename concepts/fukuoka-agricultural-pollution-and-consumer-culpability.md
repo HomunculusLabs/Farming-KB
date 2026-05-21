@@ -19,7 +19,7 @@ His proposal was radical in its simplicity: discontinue the use of chemicals tha
 - Colour-accelerating chemicals, artificial sweeteners, preservatives, wax coatings -- five or six chemicals applied between harvest and display
 - All because consumers want food that looks "a little more attractive"
 
-In the wholesale markets of Tokyo, when fruit looks just a little better, a premium of five or ten cents a pound is fetched. When fruit is classed "Small," "Medium," or "Large," the price per pound may double or triple with each increase in size. The consumer's willingness to pay high prices for food produced out of season drives the increased use of artificial growing methods and chemicals.
+In the wholesale markets of Tokyo, when fruit looks just a little better, a premium of five or ten cents a pound is fetched. When fruit is classed "Small," "Medium," or "Large," the price per pound may double or triple with each increase in size. The consumer"s willingness to pay high prices for food produced out of season drives the increased use of artificial growing methods and chemicals.
 
 Fukuoka's critique extends beyond individual choices to the entire system of values that prioritizes appearance over substance, convenience over nutrition, and year-round availability over [[fukuoka-desert-greening-projects]] and [[fukuoka-four-principles-natural-farming]] -- the practical alternative
 - [[fukuoka-critique-green-revolution]]

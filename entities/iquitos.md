@@ -31,7 +31,7 @@ As documented by Dobkin de Rios, Iquitos represents a distinctive form of urban 
 The ayahuasca curing sessions in Iquitos follow a distinctive pattern:
 
 - **Group sessions:** The ayahuasquero and patients partake of the hallucinogenic drink together
-- **Diagnostic trance:** The curer uses the trance state to determine the cause of each patient's illness
+- **Diagnostic trance:** The curer uses the trance state to determine the cause of each patient"s illness
 - **Blame attribution:** Illness is typically ascribed to a specific bewitcher in each case
 - **Therapeutic mechanism:** Dobkin de Rios interprets this as transforming generalized, incapacitating anxiety into solid fear placed on a specific wrongdoer — a psychologically effective reframing
 - **Reinforcement:** The hallucinations and shamanic guidance reinforce the patient's belief in the shaman's power and information

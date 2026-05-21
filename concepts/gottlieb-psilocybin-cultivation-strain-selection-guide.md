@@ -10,7 +10,7 @@ tags: [cultivation, psilocybin]
 
 ## Gottlieb Psilocybin Cultivation Strain Selection Guide
 
-Adam Gottlieb's "The Psilocybin Producer's Guide" (1976) provides detailed
+Adam Gottlieb"s "The Psilocybin Producer"s Guide" (1976) provides detailed
 data on psilocybin-bearing mushroom species, with [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]].
 - Caution: unconfirmed 1960 report of a child fatality; proceed with
   graduated dosing.

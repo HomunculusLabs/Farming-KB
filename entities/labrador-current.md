@@ -16,7 +16,7 @@ The Labrador Current is part of a global family of cold eastern-boundary current
 
 ## References
 
-- Mollison, Bill. *Permaculture: A Designers' Manual*. Chapter 6: Trees and Their Energy Transactions.
+- Mollison, Bill. *Permaculture: A Designers" Manual*. Chapter 6: Trees and Their Energy Transactions.
 - Hachey, H.B. "The Labrador Current." *Bulletin of the Bingham Oceanographic Foundation*.
 
 ## Historical Background

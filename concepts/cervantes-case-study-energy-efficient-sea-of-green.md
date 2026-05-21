@@ -17,7 +17,7 @@ type: concept
 ## Case Study: Energy-Efficient Organic Sea of Green
 
 This case study from [[cannabis-grow-room-setup]].
-They built two benches (16'6" x 4' each), lined walls with white
+They built two benches (16"6" x 4" each), lined walls with white
 laminated wood paneling, and used 100 five-liter [[cervantes-ventilation-fan-carbon-filter-setup]], and two pedestal fans.
 
 The first crop revealed several key problems:

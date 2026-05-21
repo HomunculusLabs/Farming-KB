@@ -30,7 +30,7 @@ Food production in drylands requires careful site selection and intensive local 
 
 - **Broadscale crop needs** demand windbreak protection and water harvesting at a ratio of approximately 20 hectares of runoff catchment to 1 hectare of sown crop. This ratio ensures adequate moisture concentration for reliable crop production.
 
-- **Seek safe dam sites near settlement** in shaded valleys or off streams diverted to drop silt before reaching storage. Dam sites must be carefully assessed for catchment stability and evaporation losses. Shaded valley sites experience significantly lower evaporative losses than exposed locations. Sites should also be evaluated for sediment yield — excessive siltation can halve a dam's effective lifespan within a decade.
+- **Seek safe dam sites near settlement** in shaded valleys or off streams diverted to drop silt before reaching storage. Dam sites must be carefully assessed for catchment stability and evaporation losses. Shaded valley sites experience significantly lower evaporative losses than exposed locations. Sites should also be evaluated for sediment yield — excessive siltation can halve a dam"s effective lifespan within a decade.
 
 - **Store water in sand-filled dams** or gabion-stabilised terraces that reduce evaporation and protect stored water from contamination. Subsurface storage in sand is one of the most effective strategies for minimising evaporative losses in arid climates. Water stored in sand remains cool, clean, and accessible through shallow wells or infiltration galleries.
 

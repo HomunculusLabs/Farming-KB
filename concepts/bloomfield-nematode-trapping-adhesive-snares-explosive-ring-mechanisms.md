@@ -27,7 +27,7 @@ adhesive. When a passing nematode brushes against these branches, the animal bec
 cemented to the tips of the snares. In its attempts to escape, the worm becomes
 stuck on adjacent branches as well. The adhesive is remarkably effective—once
 contact is made, escape becomes nearly impossible. Sometimes the trapped branches
-detach from the mycelium, but the animal's fate remains the same regardless. The
+detach from the mycelium, but the animal"s fate remains the same regardless. The
 adhesive itself is a complex mixture of polysaccharides and glycoproteins that
 cure rapidly upon contact with the nematode cuticle.
 
@@ -47,7 +47,7 @@ three-celled rings sit on the hyphae and remain open until triggered. Nematodes 
 lured to these ring traps by chemical attractants—described as "[[bloomfield-siren-songs-fungal-chemical-communication-reproduction-chapter-7]]"—that
 the fungus secretes into the surrounding soil. As the animal glides through the
 opening of the ring, the trap is triggered: the interior wall of each cell inflates
-rapidly, and the ring constricts around the nematode's body.
+rapidly, and the ring constricts around the nematode"s body.
 
 The force exerted by a constricting ring is extraordinary. A single ring can grip
 a nematode with a pressure of up to 18 atmospheres. This inflation occurs in

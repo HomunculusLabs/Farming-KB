@@ -1,5 +1,5 @@
 ---
-title: fukuoka matsutake natural culture medium microbiological innovation Culture Medium - Fukuoka's Microbiological Innovation
+title: fukuoka matsutake natural culture medium microbiological innovation Culture Medium - Fukuoka"s Microbiological Innovation
 concept_type: scientific_method
 source: "Masanobu Fukuoka, Sowing Seeds in the Desert"
 source_author: "Masanobu Fukuoka"

@@ -16,7 +16,7 @@ Masanobu Fukuoka made two extended trips to America (1979 and 1986) and document
 
 ## The California Landscape: Not Originally Desert
 
-From the air approaching San Francisco, Fukuoka was struck by "single trees standing alone on the bleak, yellow land." The Californian plain was "an endless stretch of dry, yellow land" where "the scenery doesn't change a bit." The grasses covering the plain were amber yellow rather than green, dominated by forage grasses like foxtail and wild barley. Wherever there was green, water was invariably being drawn for irrigation.
+From the air approaching San Francisco, Fukuoka was struck by "single trees standing alone on the bleak, yellow land." The Californian plain was "an endless stretch of dry, yellow land" where "the scenery doesn"t change a bit." The grasses covering the plain were amber yellow rather than green, dominated by forage grasses like foxtail and wild barley. Wherever there was green, water was invariably being drawn for irrigation.
 
 But Fukuoka concluded that California was not originally desert at all. A tribal Indian chief in a redwood forest told him things had gone wrong when the Spaniards arrived and began raising cattle. Fukuoka traced the problem to foxtail seeds brought by Spaniards: the seeds set and mature around June, growing so densely that other plants cannot take hold. The irritating bristled seeds spread by birds and beasts, turning the entire region into parched yellow grassland. Temperature on this ground surface rises to 40 degrees Celsius, creating a scorching desert.
 
@@ -26,7 +26,7 @@ The parent rock for Japan is the same as that for the San Francisco region -- th
 
 "Philosophically, rain falls from below," Fukuoka declared at the California state capitol in Sacramento. If there is vegetation on the ground, water vapor rises, condenses into clouds, and falls back down as rain. Deforestation and desertification create a self-reinforcing cycle: bare ground reflects heat, raising temperatures, preventing cloud formation, reducing rainfall further.
 
-Evidence for this was found in Sacramento itself. Very old houses had stairways entering directly onto the second floor for access when floodwaters didn't recede -- evidence that two or three hundred years ago, the town saw mighty floods. Today it sits in the middle of a desert.
+Evidence for this was found in Sacramento itself. Very old houses had stairways entering directly onto the second floor for access when floodwaters didn"t recede -- evidence that two or three hundred years ago, the town saw mighty floods. Today it sits in the middle of a desert.
 
 ## Deficit Farming
 

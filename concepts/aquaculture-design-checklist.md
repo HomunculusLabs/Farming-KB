@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-Effective aquaculture design requires careful attention to a wide range of biological, physical, and management factors. This page synthesizes Mollison's designer's checklist for aquaculture systems with advanced taro field modifications that demonstrate integrated land-water polyculture principles at their best.
+Effective aquaculture design requires careful attention to a wide range of biological, physical, and management factors. This page synthesizes Mollison"s designer's checklist for aquaculture systems with advanced taro field modifications that demonstrate integrated land-water polyculture principles at their best.
 
 ## Taro-Eel Integration
 

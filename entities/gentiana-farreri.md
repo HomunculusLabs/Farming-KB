@@ -10,7 +10,7 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Grey-Wilson, C. (2014). "Alpine Plants of Europe: A Gardener's Guide." Timber Press.
+  - Grey-Wilson, C. (2014). "Alpine Plants of Europe: A Gardener"s Guide." Timber Press.
 ---
 
 ## Overview

@@ -55,7 +55,7 @@ Lévi-Strauss noted that "the psychoanalyst listens, whereas the shaman speaks" 
 
 ## Pharmacological Context
 
-The mushrooms consumed in the velada are primarily Psilocybe mexicana and related species, which contain the psychoactive compounds psilocybin and psilocin. The typical ceremonial dose involves multiple pairs of mushrooms consumed by the shaman, with smaller doses sometimes given to the patient. The onset of effects occurs within 20-40 minutes, with the peak experience lasting 2-3 hours and the total duration extending to 4-6 hours. The shaman's discourse typically begins after the onset of effects and continues through the peak and into the descending phase.
+The mushrooms consumed in the velada are primarily Psilocybe mexicana and related species, which contain the psychoactive compounds psilocybin and psilocin. The typical ceremonial dose involves multiple pairs of mushrooms consumed by the shaman, with smaller doses sometimes given to the patient. The onset of effects occurs within 20-40 minutes, with the peak experience lasting 2-3 hours and the total duration extending to 4-6 hours. The shaman"s discourse typically begins after the onset of effects and continues through the peak and into the descending phase.
 
 ## The Role of Language
 

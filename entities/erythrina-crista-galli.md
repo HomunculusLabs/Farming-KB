@@ -32,7 +32,7 @@ It belongs to a genus of approximately 130 species, many of which share the char
 - **Genus:** *Erythrina*
 - **Species:** *E. crista-galli*
 
-The species was described by Carl Linnaeus in 1767. The specific epithet *crista-galli* means "cock's comb," referring to the curved shape of the standard petal, which resembles a rooster's crest.
+The species was described by Carl Linnaeus in 1767. The specific epithet *crista-galli* means "cock"s comb," referring to the curved shape of the standard petal, which resembles a rooster's crest.
 
 **Morphological features:**
 

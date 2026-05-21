@@ -21,7 +21,7 @@ The species is notable for its dimorphic fronds: sterile fronds are dark green a
 
 American parsley fern grows in rocky crevices and talus slopes at mid to high elevations. It is highly cold-tolerant and well-adapted to the harsh conditions of alpine and subalpine environments where few other ferns can survive.
 
-The genus Cryptogramma contains approximately 8–10 species distributed across the Northern Hemisphere. C. acrostichoides is the only species native to North America, making it a significant component of the continent's endemic rock-fern flora. The related European C. crispa occupies a similar ecological niche in the Alps and other European mountain ranges.
+The genus Cryptogramma contains approximately 8–10 species distributed across the Northern Hemisphere. C. acrostichoides is the only species native to North America, making it a significant component of the continent"s endemic rock-fern flora. The related European C. crispa occupies a similar ecological niche in the Alps and other European mountain ranges.
 
 ## Taxonomy and Morphology
 

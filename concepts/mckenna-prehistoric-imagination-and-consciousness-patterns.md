@@ -23,7 +23,7 @@ with conceptualization, visualization,
 signification, and association are highly developed in our species. Through the act of speaking vividly, humans enter into a flirtation with the
 domain of the imagination. The ability to associate
 sounds, the small mouth noises of language, with meaningful internal images is fundamentally a synesthetic activity. The most recently evolved areas
-of the human brain, including Broca's area and the
+of the human brain, including Broca"s area and the
 neocortex, are devoted to the control of symbol and language processing.
 
 The conventional conclusion drawn from these neurological facts is that the highly organized neurolinguistic areas of the brain made language and

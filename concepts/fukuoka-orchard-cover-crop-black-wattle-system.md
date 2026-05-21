@@ -1,5 +1,5 @@
 ---
-title: "Fukuoka's fukuoka orchard cover crop black wattle system Crop and Black Wattle System"
+title: "Fukuoka"s fukuoka orchard cover crop black wattle system Crop and Black Wattle System"
 created: 2026-04-28
 tags:
   - natural-farming

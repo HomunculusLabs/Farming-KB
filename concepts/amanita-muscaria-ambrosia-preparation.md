@@ -13,7 +13,7 @@ Ambrosia -- the "elixir of life" -- is a cold-water extraction of dried [[amanit
 
 ## Magic Food (Culinary Use)
 
-The simplest method of consumption described in Wasson's "Soma: Divine Mushroom of Immortality" involves placing dried mushroom into soups and stews, creating what Siberian tribes called "magic food." Crushed or powdered dried Amanita can easily be added to stew, soup, or oatmeal and actually makes the food taste better. This is recommended as the best way for beginners to start using the herb.
+The simplest method of consumption described in Wasson"s "Soma: Divine Mushroom of Immortality" involves placing dried mushroom into soups and stews, creating what Siberian tribes called "magic food." Crushed or powdered dried Amanita can easily be added to stew, soup, or oatmeal and actually makes the food taste better. This is recommended as the best way for beginners to start using the herb.
 
 ## Holy Oil (Transdermal Use)
 

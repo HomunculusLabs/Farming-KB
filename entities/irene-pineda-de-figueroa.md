@@ -9,7 +9,7 @@ tags: [person, shamaness, mazatec, mushroom-healer, huautla, traditional-medicin
 
 ## Description
 
-Irene Pineda de Figueroa was a Mazatec shamaness (curandera) from Huautla de Jiménez in the Sierra Mazateca of Oaxaca, Mexico. She is one of the two principal informants in Henry Munn's essay "The Mushrooms of Language," along with Roman Estrada. Described as a short, stout, elderly woman with a "laughing moon face," dressed in a traditional huipil (embroidered with flowers and birds) with a dark shawl, gray hair drawn into two pigtails, and golden crescent earrings, she served as a medicine woman and oracle for her community. Her recorded mushroom discourse — spanning ninety-two pages in the original — is considered one of the finest examples of shamanic oral poetry in the ethnographic literature.
+Irene Pineda de Figueroa was a Mazatec shamaness (curandera) from Huautla de Jiménez in the Sierra Mazateca of Oaxaca, Mexico. She is one of the two principal informants in Henry Munn"s essay "The Mushrooms of Language," along with Roman Estrada. Described as a short, stout, elderly woman with a "laughing moon face," dressed in a traditional huipil (embroidered with flowers and birds) with a dark shawl, gray hair drawn into two pigtails, and golden crescent earrings, she served as a medicine woman and oracle for her community. Her recorded mushroom discourse — spanning ninety-two pages in the original — is considered one of the finest examples of shamanic oral poetry in the ethnographic literature.
 
 ## Classification
 
@@ -24,7 +24,7 @@ Irene Pineda de Figueroa was a Mazatec shamaness (curandera) from Huautla de Jim
 
 - Discovered her shamanic vocation when she was cured by the mushrooms of a skin eruption (pimples) that broke out across her body after the death of her husband
 - Her shamanic sessions typically lasted approximately four hours, though the subjective experience of time was greatly expanded — feeling like eight hours
-- Characterized by themes of "freshness" and "tenderness" in her discourse, in contrast to the male shaman's themes of "fear" and "terror"
+- Characterized by themes of "freshness" and "tenderness" in her discourse, in contrast to the male shaman"s themes of "fear" and "terror"
 - Her discourse addressed communal concerns: health, children, fertility, agricultural abundance, and the poverty afflicting her people in Huautla
 - Blesses the mushrooms by holding them in the purifying smoke of copal incense before ingestion — a ritual act of sanctification
 - Uses ground-up tobacco rubbed along wrists and forearms as a "tonic for the body" at the start of the ceremony
@@ -41,7 +41,7 @@ Irene Pineda de Figueroa was a Mazatec shamaness (curandera) from Huautla de Jim
 
 ## Relevance to Cultivation and Mycology
 
-Irene Pineda de Figueroa represents the female lineage of Mazatec mushroom healing, a tradition in which women serve as central figures in the ceremonial use of *Psilocybe* species. Her practice demonstrates the integration of mushroom medicine into a comprehensive therapeutic system that addresses physical illness, psychological distress, and social problems simultaneously. The shamaness's role as "speaker for the sick" illustrates the Mazatec understanding that the mushrooms' therapeutic effect operates through language — the inspired discourse of the healer is itself the primary therapeutic intervention.
+Irene Pineda de Figueroa represents the female lineage of Mazatec mushroom healing, a tradition in which women serve as central figures in the ceremonial use of *Psilocybe* species. Her practice demonstrates the integration of mushroom medicine into a comprehensive therapeutic system that addresses physical illness, psychological distress, and social problems simultaneously. The shamaness"s role as "speaker for the sick" illustrates the Mazatec understanding that the mushrooms" therapeutic effect operates through language — the inspired discourse of the healer is itself the primary therapeutic intervention.
 
 ## Cultural Significance
 
@@ -56,11 +56,11 @@ Her discourse, as recorded and translated by Munn, is considered one of the most
 
 ## Therapeutic Methodology
 
-Irene Pineda de Figueroa's therapeutic approach combined pharmacological intervention (the mushrooms) with linguistic performance (her inspired discourse). The Mazatec understanding held that "words themselves are medicine" and that to enunciate and give meaning to events was life-giving in itself. This concept, which Munn connects to the Greek idea of poesis as transformative action, represents a sophisticated understanding of the therapeutic power of language that parallels modern narrative therapy and expressive psychotherapy approaches.
+Irene Pineda de Figueroa"s therapeutic approach combined pharmacological intervention (the mushrooms) with linguistic performance (her inspired discourse). The Mazatec understanding held that "words themselves are medicine" and that to enunciate and give meaning to events was life-giving in itself. This concept, which Munn connects to the Greek idea of poesis as transformative action, represents a sophisticated understanding of the therapeutic power of language that parallels modern narrative therapy and expressive psychotherapy approaches.
 
 ## Connection to Fertility and Agriculture
 
-As a mother and grandmother in an agricultural community, the shamaness's discourse was deeply connected to themes of fertility and growth. Her prayers for crops, children, and abundance reflected the Mazatec understanding that the mushrooms themselves were agents of fertility, growing during the season of torrential rains and producing "an experience of spiritual abundance, of an astonishing, inexhaustible constitution of forms." This identification of the mushrooms with fertility made them a mediation between human beings and the natural world, a concept with deep roots in Mesoamerican agricultural religion.
+As a mother and grandmother in an agricultural community, the shamaness"s discourse was deeply connected to themes of fertility and growth. Her prayers for crops, children, and abundance reflected the Mazatec understanding that the mushrooms themselves were agents of fertility, growing during the season of torrential rains and producing "an experience of spiritual abundance, of an astonishing, inexhaustible constitution of forms." This identification of the mushrooms with fertility made them a mediation between human beings and the natural world, a concept with deep roots in Mesoamerican agricultural religion.
 
 ## Historical Context
 

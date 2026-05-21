@@ -9,7 +9,7 @@ sources: ["papers/sepp-holzer-practical-guide.md"]
 
 Updated: 2026-04-18
 
-Source: [[sepp-holzer]], *Sepp Holzer's Permaculture* (2010)
+Source: [[sepp-holzer]], *Sepp Holzer"s Permaculture* (2010)
 
 Terraces and raised beds are fundamental to the Krameterhof permaculture system, enabling cultivation of steep, previously unproductive slopes and creating diverse microclimates.
 

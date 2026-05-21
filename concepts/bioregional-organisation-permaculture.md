@@ -32,7 +32,7 @@ Tribal maps often defined bioregions effectively through totemic and clan system
 
 ### Intercultural Exchange
 
-Intermarriage, visits, mutual trade and aid, skills exchange, and educational exchange between regions of very different cultures enriches both. This is contrasted with "integration" (described as bureaucratic genocide) promulgated by majority groups who disallow language use and cultural life to minorities. Reciprocal education values both sets of knowledge and world concepts, respecting others' lifestyles.
+Intermarriage, visits, mutual trade and aid, skills exchange, and educational exchange between regions of very different cultures enriches both. This is contrasted with "integration" (described as bureaucratic genocide) promulgated by majority groups who disallow language use and cultural life to minorities. Reciprocal education values both sets of knowledge and world concepts, respecting others" lifestyles.
 
 ## Scale and Structure
 

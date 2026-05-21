@@ -47,7 +47,7 @@ India. Wide range of soils, light frost tolerant. Sap for wine and sugar (40 kg 
 Rattan canes are climbing palms used for furniture, baskets, and woven goods:
 
 - **Calamus spp** — SE Asia, to 6 t/ha. Edible fruit in some species. ~16 economic species in Malay Peninsula.
-- **Daemonorops spp** — SE Asia. Fruit scales yield "dragon's blood" — former dye and Chinese medicine.
+- **Daemonorops spp** — SE Asia. Fruit scales yield "dragon"s blood" — former dye and Chinese medicine.
 - **Ancistrophyllum spp** — West Africa. Furniture and baskets.
 - **Korthalsia spp** — 31 species, furniture and baskets.
 - **Plectocomia spp** — SE Asia, 14 species.

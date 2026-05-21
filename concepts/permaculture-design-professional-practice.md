@@ -6,7 +6,7 @@ type: concept
 
 ## Professional Permaculture Design Practice
 
-Professional [[permaculture-design]] is a structured discipline with its own ethics, business practices, training pathways, and reporting methodology. The designer's function is not to tell people how to garden or build, but to place things in the environment so that multiple functions are served, low energy inputs produce high yields, and stability is achieved.
+Professional [[permaculture-design]] is a structured discipline with its own ethics, business practices, training pathways, and reporting methodology. The designer"s function is not to tell people how to garden or build, but to place things in the environment so that multiple functions are served, low energy inputs produce high yields, and stability is achieved.
 
 ## The Designer's Ethics
 

@@ -6,7 +6,7 @@ type: concept
 
 ## Soil Pollution and Human Nutrition
 
-The integrity of soils and waters is foundational to human health. In [[bill-mollison]]'s *Permaculture: A Designers' Manual*.
+The integrity of soils and waters is foundational to human health. In [[bill-mollison]]"s *Permaculture: A Designers' Manual*.
 
 ## Soil Rehabilitation Timelines
 
@@ -16,7 +16,7 @@ Soil recovery from damage or neglect follows predictable but often lengthy times
 - **Devastated soil landscapes**: Full recovery of badly degraded land requires 5–15 years of active rehabilitation work including cover cropping, mulching, and biological inoculation.
 - **Chemically polluted soils**: Rehabilitation times are significantly longer and in many cases may be effectively impossible within a human lifetime. Persistent organic pollutants and heavy metals do not simply degrade or leach away — they must be managed through land-use change rather than "remediation" in the traditional sense.
 
-These timelines underscore the permaculture principle of protracted and thoughtful observation: understanding a site's pollution history before committing to food-production goals is critical.
+These timelines underscore the permaculture principle of protracted and thoughtful observation: understanding a site"s pollution history before committing to food-production goals is critical.
 
 ## Pollution of Soils and Waters
 

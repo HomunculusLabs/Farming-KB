@@ -42,7 +42,7 @@ strains. Specifically, the Brazilian White:
 
 The Rev draws a direct parallel between Brazilian White Sativa and Durban
 Poison, noting that both share the photoperiod adaptation of their
-approximately 30-degree-south origin. He describes Durban Poison's "magic" as
+approximately 30-degree-south origin. He describes Durban Poison"s "magic" as
 where it is indigenous: in the northern hemisphere it starts flowering outdoors
 in late June and finishes in the second half of September — well before any
 coastal fog or rain. The Brazilian White shares this early-finishing behavior.
@@ -59,7 +59,7 @@ scene as having potency "close to the [[panama-red]], not quite the 6-hour ride
 of Panama Red, but damn outstanding, for sure." This comparison places the
 Brazilian White among the most potent sativas of its era:
 
-- **High duration**: While shorter than Panama Red's legendary six hours,
+- **High duration**: While shorter than Panama Red"s legendary six hours,
   the experience was still exceptionally long-lasting for a cannabis
   variety of any type.
 - **Quality**: The Rev's assessment as "damn outstanding" from someone who

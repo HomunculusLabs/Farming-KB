@@ -10,13 +10,13 @@ type: concept
 
 ## Soil Microorganisms and Natural Fertility — One Gram of Soil
 
-One of the most striking empirical claims in [[masanobu-fukuoka]]'s work is
+One of the most striking empirical claims in [[masanobu-fukuoka]]"s work is
 deceptively simple: "One gram of soil on my farm contains about 100
 million nitrogen-fixing bacteria and other soil-enriching microbes."
 This single observation encapsulates his entire argument about soil
 fertility — that nature already possesses the mechanisms for maintaining
 productive land, and that human intervention through chemical inputs
-disrupts rather than enhances these natural systems. Fukuoka's natural
+disrupts rather than enhances these natural systems. Fukuoka"s natural
 farming is, at its core, a practice of nurturing the invisible microbial
 economy that sustains all terrestrial life.
 
@@ -42,7 +42,7 @@ more efficiently, more sustainably, and at no cost.
 
 ## How Natural Farming Preserves Microbial Life
 
-Fukuoka's method is designed specifically to protect soil microbial
+Fukuoka"s method is designed specifically to protect soil microbial
 communities. The key practices that distinguish his approach:
 
 **No tillage.** Plowing destroys soil structure, disrupts fungal

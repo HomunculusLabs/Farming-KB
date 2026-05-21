@@ -21,7 +21,7 @@ sources:
 
 **Quercus agrifolia** Née, commonly known as coast live oak, is a large evergreen tree native to California and northern Baja California. It is one of the most iconic and ecologically important tree species of the California Floristic Province, dominating coastal woodlands, chaparral margins, and riparian corridors from Mendocino County to the San Pedro Mártir Mountains.
 
-Coast live oak is the most widely distributed of California's live oaks and plays a foundational role in the state's Mediterranean-climate ecosystems. The species provides critical habitat, food, and structural complexity for hundreds of native species.
+Coast live oak is the most widely distributed of California"s live oaks and plays a foundational role in the state's Mediterranean-climate ecosystems. The species provides critical habitat, food, and structural complexity for hundreds of native species.
 
 ## Taxonomy and Morphology
 

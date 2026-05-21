@@ -24,7 +24,7 @@ sources:
 
 # Specialty Mushroom Species Guide
 
-Additional cultivated and notable mushroom species beyond the core five (oyster, shiitake, lion's mane, reishi, wine cap). These species offer unique medicinal properties, ecological roles, or cultivation opportunities for advanced growers.
+Additional cultivated and notable mushroom species beyond the core five (oyster, shiitake, lion"s mane, reishi, wine cap). These species offer unique medicinal properties, ecological roles, or cultivation opportunities for advanced growers.
 
 Related: [[mushroom-species-guide]], [[medicinal-mushroom-guide]], [[mushroom-cultivation-basics]]
 

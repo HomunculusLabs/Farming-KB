@@ -16,7 +16,7 @@ Soma is simultaneously a **god, a plant, and a beverage**. The hymns describe:
 - Intoxicating effects: exhilaration, visionary experience, feelings of immortality
 - A celestial connection — Soma is both the nectar of the gods and the moon
 - Healing properties — called "averter of death" (*amrita*)
-- Ecstatic poetry — the Rigveda's most inspired verses were composed under Soma's influence
+- Ecstatic poetry — the Rigveda"s most inspired verses were composed under Soma's influence
 
 ## R. Gordon Wasson's Amanita Theory
 
@@ -37,7 +37,7 @@ McKenna and others raised serious objections:
 
 3. **Cultural mismatch** — The Vedic Soma ritual involves careful pressing, filtering, and mixing — not the simple eating or brewing of mushrooms.
 
-4. **Wasson's own contradictions** — Even Wasson himself expressed doubts later in life. In his posthumous *Persephone's Quest*, he characterized the fly agaric experience as "stupefying" rather than visionary.
+4. **Wasson"s own contradictions** — Even Wasson himself expressed doubts later in life. In his posthumous *Persephone's Quest*, he characterized the fly agaric experience as "stupefying" rather than visionary.
 
 ## Alternative Candidates
 
@@ -47,13 +47,13 @@ Beta-carboline-rich *Peganum harmala* has been proposed as Soma based on:
 - Presence throughout the Iranian plateau and Central Asia
 - MAO-inhibiting properties that could potentiate other compounds
 - Use in Persian traditional medicine
-- The plant's association with a "red" color in some descriptions
+- The plant"s association with a "red" color in some descriptions
 
 McKenna argued that harmala/harmine alone, while psychoactive at near-toxic doses, cannot account for the full visionary experience described in the Vedas. However, it could have been used *in combination* with DMT-containing plants — essentially a proto-ayahuasca.
 
 ### *Psilocybe* Species
 
-The most compelling alternative, in McKenna's view, is a *Psilocybe* species:
+The most compelling alternative, in McKenna"s view, is a *Psilocybe* species:
 - Produces genuine visionary ecstasy consistent with Vedic descriptions
 - Non-toxic with no physical side effects at active doses
 - Could have grown in the dung of cattle across the Indo-European migration routes
@@ -65,7 +65,7 @@ The most compelling alternative, in McKenna's view, is a *Psilocybe* species:
 The Zoroastrian equivalent of Soma, called **Haoma**, provides additional clues:
 - Haoma was also a pressed plant juice used in ritual
 - Zoroaster (c. 575 BCE) condemned Haoma as "filthy intoxicant" — one of only two references in his Gathas
-- Despite Zoroaster's ban, Haoma returned in the later Avesta "in almost every respect the same as the Vedic Soma"
+- Despite Zoroaster"s ban, Haoma returned in the later Avesta "in almost every respect the same as the Vedic Soma"
 - Zoroaster may have been objecting to the **bull sacrifice** that accompanied the rite — significant if the original religion connected cattle and mushrooms
 - The fire altar replaced the Soma pressing as the center of Zoroastrian worship
 
@@ -86,12 +86,12 @@ Several scholars have proposed that the Eleusinian kykeon was contaminated with 
 - Low doses of ergot alkaloids could produce visionary experiences
 - The "[[ergotized-beer-theory]]" suggests the kykeon was a fermented barley drink containing ergot alkaloids
 
-### Graves's Psilocybin Theory
+### Graves"s Psilocybin Theory
 
 Robert Graves proposed that the kykeon contained **[[amanita-muscaria-legal-alternative-psilocybin-mushrooms-europe]]** growing on the barley. This is consistent with:
 - The visionary quality of the experience
 - The "barley" connection in the recipe
-- The mushroom's ability to grow on grain substrates
+- The mushroom"s ability to grow on grain substrates
 
 ## The Historical Watershed
 
@@ -108,7 +108,7 @@ The Soma question matters beyond academic curiosity because:
 - Its loss illustrates how cultural knowledge can be deliberately or accidentally erased
 - The search for Soma mirrors the modern search for meaning through psychoactive experience
 - The parallels between Soma, Haoma, the Eleusinian kykeon, and ayahuasca suggest a universal human pattern of visionary plant use in religious contexts
-- Recovering this knowledge is central to McKenna's proposed "[[archaic-revival-partnership-vs-dominator-cultures]]"
+- Recovering this knowledge is central to McKenna"s proposed "[[archaic-revival-partnership-vs-dominator-cultures]]"
 ## Further Reading
 Continued research and practical application deepen understanding of this topic.
 Field observations and experimental data continue to inform best practices.

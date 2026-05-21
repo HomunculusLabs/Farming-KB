@@ -19,7 +19,7 @@ Strategies range from planting [[pollinator-gardening|pollinator-friendly flower
 
 Without successful pollination, many vegetables and most fruits simply will not develop.
 Tomatoes, peppers, and beans may self-pollinate with wind or vibration, but crops like squash, cucumbers, melons, apples, and cherries depend heavily on insect visitors.
-A single apple blossom may require 8 to 12 bee visits to set a full-sized fruit, as noted in [[hamilton-fruit-tree-selection-pollination|Hamilton's fruit tree pollination guide]].
+A single apple blossom may require 8 to 12 bee visits to set a full-sized fruit, as noted in [[hamilton-fruit-tree-selection-pollination|Hamilton"s fruit tree pollination guide]].
 Poor pollination shows up as misshapen fruit, low yields, or blossom drop — often mistaken for disease or nutrient problems.
 Understanding the [[pollinator-conservation|pollinator decline]] affecting wild and managed bees makes this knowledge even more urgent for home gardeners.
 

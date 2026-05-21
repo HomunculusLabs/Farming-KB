@@ -9,7 +9,7 @@ sources: [raw/papers/sepp-holzer-practical-guide-to-small-scale-integrative.md]
 
 # Sepp Holzer Method
 
-[[sepp-holzer]]'s approach to farming and gardening centers on working with nature rather than against it. Operating the Krameterhof in Austria at altitudes up to 1,500m, Holzer has developed practical techniques that reject chemical fertilisers, pesticides, and monoculture.
+[[sepp-holzer]]"s approach to farming and gardening centers on working with nature rather than against it. Operating the Krameterhof in Austria at altitudes up to 1,500m, Holzer has developed practical techniques that reject chemical fertilisers, pesticides, and monoculture.
 
 ## Core Principles
 

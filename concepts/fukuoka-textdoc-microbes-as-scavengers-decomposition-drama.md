@@ -16,7 +16,7 @@ type: concept
 ## Overview
 
 [[hamilton-composting-and-organic-matter-management]] as one of
-nature's most magnificent dramas, an infinitely elaborate process that far surpasses
+nature"s most magnificent dramas, an infinitely elaborate process that far surpasses
 any human-designed refuse treatment system. He uses vivid, almost poetic language to
 describe how bacteria, fungi, nematodes, mites, insects, and larger animals work in
 staggered succession to return every organism to the soil. This page explores his
@@ -26,7 +26,7 @@ counterproductive.
 ## The Funeral Metaphor
 
 Fukuoka opens with a Japanese folk saying: when caught loafing, a farmer is told
-"Don't think you can live all by yourself. There are days of darkness too. When you
+"Don"t think you can live all by yourself. There are days of darkness too. When you
 die, you'll need the services of four people." He points out that disposing of a
 corpse requires far more than four pallbearers. Countless microbes and small animals
 in the soil engage in an assembly-line operation of dismantling, decomposition,

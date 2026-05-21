@@ -1,5 +1,5 @@
 ---
-title: Holling's Four-Phase Cycle
+title: Holling"s Four-Phase Cycle
 source: david-holmgren-permaculture-principles-pathways-beyon.md
 type: entity
 ---

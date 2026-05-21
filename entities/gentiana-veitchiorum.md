@@ -15,7 +15,7 @@ sources:
 
 ## Overview
 
-Gentiana veitchiorum, commonly known as Veitch's gentian, is a mat-forming perennial herb in the family Gentianaceae. It produces large, trumpet-shaped deep blue flowers that emerge in late summer through autumn.
+Gentiana veitchiorum, commonly known as Veitch"s gentian, is a mat-forming perennial herb in the family Gentianaceae. It produces large, trumpet-shaped deep blue flowers that emerge in late summer through autumn.
 
 The species is native to high-elevation grasslands and rocky slopes of western China, particularly in Sichuan, Yunnan, and Xizang (Tibet). It is highly prized in alpine and [[query-how-to-protect-plants-from-frost-and-extend-the-growing-season]]. The species experiences intense UV radiation, freezing nights, and a short [[fukuoka-ideal-rice-plant-morphology-compact-growth-high-yield]] and better flowering.
 

@@ -44,7 +44,7 @@ The family fund, held in two to three places and convertible to a variety of cur
 ### Annual Membership Fund
 Invested with interest used to service the registry, newsletter, and pay part or full-time wages to a collator.
 
-### Children's Permanent Fund
+### Children"s Permanent Fund
 All adults (age 17 or over) contribute to this fund, with additional gifts encouraged. Managed with the Common Enterprise Fund for essential child-oriented ventures or education. This is a non-returnable fund. Until age 12, parents can apply for loans; thereafter (until age 17) children can apply themselves, after which they are recognized as adults.
 
 ### Special Venture Funds

@@ -1,5 +1,5 @@
 ---
-title: Huxley's Doors of Perception and the Psilocybin Experiment at Wilflingen
+title: Huxley"s Doors of Perception and the Psilocybin Experiment at Wilflingen
 source: hofmann-a-lsd-my-problem-child.md
 type: concept
 ---
@@ -14,13 +14,13 @@ Albert Hofmann's intellectual engagement with Aldous Huxley's writings on vision
 
 ### The Doors of Perception
 
-Huxley's seminal work, "The Doors of Perception" (1954), argued that the brain functions as a "reducing valve" that filters out the vast majority of reality, admitting only the small portion necessary for survival. Psychoactive substances, in Huxley's view, temporarily disable this filtering mechanism, allowing the full scope of reality to flood into consciousness.
+Huxley's seminal work, "The Doors of Perception" (1954), argued that the brain functions as a "reducing valve" that filters out the vast majority of reality, admitting only the small portion necessary for survival. Psychoactive substances, in Huxley"s view, temporarily disable this filtering mechanism, allowing the full scope of reality to flood into consciousness.
 
-For Huxley, these drugs were "keys capable of opening new doors of perception; chemical keys, in addition to other proven but laborious 'door openers' to the visionary world like meditation, isolation, and fasting, or like certain yoga practices."
+For Huxley, these drugs were "keys capable of opening new doors of perception; chemical keys, in addition to other proven but laborious "door openers' to the visionary world like meditation, isolation, and fasting, or like certain yoga practices."
 
 ### Heaven and Hell
 
-Huxley's companion volume, "Heaven and Hell" (1956), explored the visionary experience in greater depth, examining its role in cultural history, mythology, religion, and artistic creation.
+Huxley"s companion volume, "Heaven and Hell" (1956), explored the visionary experience in greater depth, examining its role in cultural history, mythology, religion, and artistic creation.
 
 ### Democratization of Visionary Experience
 
@@ -30,7 +30,7 @@ Huxley saw the value of hallucinogenic drugs in their capacity to give "people w
 
 ### The Setting
 
-The experiment took place at "the home of the Jüngers, in the former head forester's house of Stauffenberg's Castle in Wilflingen." The participants were:
+The experiment took place at "the home of the Jüngers, in the former head forester"s house of Stauffenberg's Castle in Wilflingen." The participants were:
 - **Ernst Jünger**: German writer and intellectual
 - **Albert Hofmann**: The discoverer of LSD and psilocybin
 - **Professor Heribert Konzett**: Pharmacologist
@@ -38,7 +38,7 @@ The experiment took place at "the home of the Jüngers, in the former head fores
 
 ### The Aztec Precedent
 
-"The old chronicles described how the Aztecs drank chocolatl before they ate teonanácatl." Following this precedent, "Mrs. Liselotte Jünger likewise served us hot chocolate, to set the mood." This detail reflects the participants' respect for indigenous traditions and their belief that the ceremonial framework contributed to the quality of the experience.
+"The old chronicles described how the Aztecs drank chocolatl before they ate teonanácatl." Following this precedent, "Mrs. Liselotte Jünger likewise served us hot chocolate, to set the mood." This detail reflects the participants" respect for indigenous traditions and their belief that the ceremonial framework contributed to the quality of the experience.
 
 ### The Aesthetic Environment
 
@@ -46,11 +46,11 @@ The experiment took place at "the home of the Jüngers, in the former head fores
 
 ## Fundamental Observations on Visionary Experience
 
-Hofmann describes Huxley's two books as containing "fundamental observations on the essence of visionary experience and about the significance of this manner of comprehending the world—in cultural history, in the creation of myths, in the origin of religions, and in the creative process out of which works of art arise."
+Hofmann describes Huxley"s two books as containing "fundamental observations on the essence of visionary experience and about the significance of this manner of comprehending the world—in cultural history, in the creation of myths, in the origin of religions, and in the creative process out of which works of art arise."
 
 ### The Cultural Dimension
 
-Huxley's framework placed the psychedelic experience not as a merely pharmacological phenomenon but as a window into the visionary dimension that underlies human culture. Myths, religions, and works of art could be understood as cultural crystallizations of the same visionary experiences that psychoactive substances produce directly.
+Huxley"s framework placed the psychedelic experience not as a merely pharmacological phenomenon but as a window into the visionary dimension that underlies human culture. Myths, religions, and works of art could be understood as cultural crystallizations of the same visionary experiences that psychoactive substances produce directly.
 
 ### The Creative Process
 
@@ -60,7 +60,7 @@ The connection between visionary experience and artistic creation was particular
 
 ### Personal Significance
 
-"At the time I already knew the earlier work of this great writer and thinker, books that meant much to me, like Point Counter Point, Brave New World, After Many a Summer Dies the Swan." Hofmann's appreciation of Huxley extended beyond his psychedelic writings to his broader literary and philosophical corpus.
+"At the time I already knew the earlier work of this great writer and thinker, books that meant much to me, like Point Counter Point, Brave New World, After Many a Summer Dies the Swan." Hofmann"s appreciation of Huxley extended beyond his psychedelic writings to his broader literary and philosophical corpus.
 
 ### The Correspondence
 

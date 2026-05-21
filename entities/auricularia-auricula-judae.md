@@ -18,7 +18,7 @@ sources:
 ---
  Auricularia auricula-judae
 
-**Wood Ear** · **Jew's Ear** · **Jelly Ear** · **黑木耳** (Mù'ěrguā)
+**Wood Ear** · **Jew"s Ear** · **Jelly Ear** · **黑木耳** (Mù'ěrguā)
 
 ## Taxonomy
 

@@ -6,13 +6,13 @@ tags:
 
 ## Overview
 
-The concept that emotions and biochemical molecules exist in a two-way relationship is central to understanding how mind-body medicine operates at a physiological level. Drawing on Uwe Blesching's synthesis in *The [[fukuoka-creating-natural-farm-site-selection-establishment]] pathways to this emotional-molecular state.
+The concept that emotions and biochemical molecules exist in a two-way relationship is central to understanding how mind-body medicine operates at a physiological level. Drawing on Uwe Blesching"s synthesis in *The [[fukuoka-creating-natural-farm-site-selection-establishment]] pathways to this emotional-molecular state.
 
 **Gamma-Aminobutyric Acid (GABA)** — Emotional keyword: "I am melting." GABA is the primary inhibitory neurotransmitter in the central nervous system, responsible for reducing neuronal excitability throughout the nervous system. The feeling of relaxation, calm, and dissolution of tension associated with GABA activity is what Blesching captures with the phrase "I am melting." The ECS modulates GABAergic transmission, providing another pathway through which cannabinoid signaling influences emotional states characterized by relaxation and reduced anxiety.
 
 **Oxytocin** — Emotional keyword: "I feel for you." Often called the "bonding hormone" or "love hormone," oxytocin is produced in the hypothalamus and released by the posterior pituitary gland. It plays critical roles in social bonding, [[guilt-martyrdom-harbored-anger-as-health-hazards]]**, and **martyrdom**. Unlike other emotions that can serve constructive purposes even when uncomfortable (fear can save a life, anger can drive positive change, hopelessness can give birth to determination), these three emotional patterns produce only constriction without any compensating benefit.
 
-Guilt directs destructive molecular signals inward, creating a state of self-directed aggression that undermines self-worth and health simultaneously. Harbored anger — distinct from appropriately expressed anger — creates chronic stress hormone elevation as the body maintains a perpetual fight-or-flight state with no resolution. Martyrdom generates a state of perpetual self-sacrifice that depletes the body's resources while generating resentment that further compounds the molecular stress burden.
+Guilt directs destructive molecular signals inward, creating a state of self-directed aggression that undermines self-worth and health simultaneously. Harbored anger — distinct from appropriately expressed anger — creates chronic stress hormone elevation as the body maintains a perpetual fight-or-flight state with no resolution. Martyrdom generates a state of perpetual self-sacrifice that depletes the body"s resources while generating resentment that further compounds the molecular stress burden.
 
 These three patterns are contrasted with emotions that, while often categorized as negative, serve adaptive functions: fear can protect from danger, anger can catalyze necessary change, hopelessness can be transformed into determination, worthlessness can produce compassion, and blame can demonstrate what truly matters to a person.
 

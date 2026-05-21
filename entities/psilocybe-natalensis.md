@@ -14,7 +14,7 @@ A psychoactive mushroom species first discovered in January 1994 in Natal Provin
 
 ## Discovery
 
-Discovered during a 1994 mycological survey of South Africa's Natal Province. The finding was significant because it expanded the known distribution of psychoactive Psilocybe species into southern Africa, supporting the hypothesis of ancient mushroom cults on the African continent (see [[psychedelic-mushroom-history]] and [[archaeology-of-psychedelic-mushrooms]]).
+Discovered during a 1994 mycological survey of South Africa"s Natal Province. The finding was significant because it expanded the known distribution of psychoactive Psilocybe species into southern Africa, supporting the hypothesis of ancient mushroom cults on the African continent (see [[psychedelic-mushroom-history]] and [[archaeology-of-psychedelic-mushrooms]]).
 
 ## Identification
 
@@ -39,7 +39,7 @@ The discovery of *P. natalensis* gains significance in the context of the Tassil
 
 Key rock art features:
 - **Anthropomorphic beings with mushroom-shaped heads** at Tin-Tazarift, Tassili District
-- **Dashed lines** connecting the mushroom to the center of the head, representing "a flow of energy, maybe even the mushrooms' influence on the human soul"
+- **Dashed lines** connecting the mushroom to the center of the head, representing "a flow of energy, maybe even the mushrooms" influence on the human soul"
 - **Mushroom-fish mythology**: Some drawings depict mushrooms mythologically linked with fish
 - **Timeline**: 9,000-7,000 years ago, when the Sahara was a "blooming garden" before desertification beginning ~3,500 BCE
 
@@ -49,7 +49,7 @@ The Sahara was populated during this period between Tassili (Southern Algeria), 
 
 Additional African psychoactive fungi include:
 - Bluing *Psilocybe* near Algeria (originally described as *Hypholoma/Psilocybe mairei*)
-- *Panaeolus africanus* and *P. tropicales* (Ola'h)
+- *Panaeolus africanus* and *P. tropicales* (Ola"h)
 - *Psilocybe natalensis* is the most thoroughly documented southern African species
 
 ## Significance

@@ -1,5 +1,5 @@
 ---
-title: "Fukuoka's Soil Management and Observations"
+title: "Fukuoka"s Soil Management and Observations"
 created: 2026-04-20
 updated: 2026-04-20
 type: concept
@@ -8,7 +8,7 @@ sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
-## Fukuoka's Soil Management and Observations
+## Fukuoka"s Soil Management and Observations
 
 **Updated:** 2026-04-18
 

@@ -10,7 +10,7 @@ type: concept
 
 ## What Is This "Lawn Culture"?
 
-Fukuoka's critique of the American lawn is one of his most
+Fukuoka"s critique of the American lawn is one of his most
 incisive observations about the gap between the appearance
 of nature and true nature. The American lawn, he argues,
 represents the ultimate expression of a [[comparison-soil-food-web-vs-bacterial-vs-fungal-soil]] beneath. Lawns are maintained

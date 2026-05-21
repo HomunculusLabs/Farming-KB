@@ -10,7 +10,7 @@ sources:
 
 # Oyster Mushroom (Pleurotus ostreatus)
 
-The most versatile and widely used mushroom for both [[mycoremediation-basics]] and [[mushroom-cultivation-basics]]. From [[paul-stamets]]' *Mycelium Running* (2005).
+The most versatile and widely used mushroom for both [[mycoremediation-basics]] and [[mushroom-cultivation-basics]]. From [[paul-stamets]]" *Mycelium Running* (2005).
 
 ## Taxonomy and Description
 

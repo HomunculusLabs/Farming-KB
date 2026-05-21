@@ -12,7 +12,7 @@ sources:
 
 Updated: 2026-04-18
 
-Source: Sepp Holzer, *Sepp Holzer's Permaculture* (2010)
+Source: Sepp Holzer, *Sepp Holzer"s Permaculture* (2010)
 
 Sepp Holzer considers livestock integral to his permaculture system. Animals are not just producers of high-quality food but also "industrious and pleasant workers" that perform [[savory-stock-density-vs-stocking-rate]] adapted to naturally available food (3-12 pigs per hectare depending on conditions)
 - Paddock rotation system prevents overuse
@@ -21,7 +21,7 @@ Sepp Holzer considers livestock integral to his permaculture system. Animals are
 
 ## Pigs in Permaculture
 
-Pigs are described as "the most versatile and helpful animal" in Holzer's system. They serve multiple functions simultaneously:
+Pigs are described as "the most versatile and helpful animal" in Holzer"s system. They serve multiple functions simultaneously:
 
 ### As Workers
 - Plough and loosen soil by rooting activity -- "living ploughs"

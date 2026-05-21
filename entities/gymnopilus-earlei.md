@@ -18,7 +18,7 @@ sources:
 
 ## Overview
 
-*Gymnopilus earlei* is a large, wood-inhabiting mushroom in the family Cortinariaceae (or Hymenogastraceae under some classifications), notable as one of the psilocybin-containing species within the genus *Gymnopilus*. It is commonly known as "Earle's Gymnopilus" and is found in tropical and subtropical regions of the Americas.
+*Gymnopilus earlei* is a large, wood-inhabiting mushroom in the family Cortinariaceae (or Hymenogastraceae under some classifications), notable as one of the psilocybin-containing species within the genus *Gymnopilus*. It is commonly known as "Earle"s Gymnopilus" and is found in tropical and subtropical regions of the Americas.
 
 The species is one of the larger members of its genus, frequently producing striking orange to reddish-orange fruiting bodies on decaying hardwoods. Like other psilocybian *Gymnopilus* species, it develops characteristic greenish-blue bruising on the stipe and pileus when handled.
 

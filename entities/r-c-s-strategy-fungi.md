@@ -9,7 +9,7 @@ tags: [life-history, strategy, r-selection, K-selection, Grime, fungal-ecology, 
 
 ## Description
 
-The R-C-S strategy is a framework for understanding fungal life history strategies, adapted from Grime's (1977, 1979) plant strategy model. It contrasts with the classical r-K selection concept of Pianka (1970). In the fungal context, R represents ruderal (colonizer) strategists that rapidly exploit new resources, C represents competitive strategists that invest in biomass and functional processes, and S represents stress-tolerant strategists that withstand sustained environmental stress. The model predicts that fungal communities follow successional trajectories from R to C strategists as resources are colonized and exploited.
+The R-C-S strategy is a framework for understanding fungal life history strategies, adapted from Grime"s (1977, 1979) plant strategy model. It contrasts with the classical r-K selection concept of Pianka (1970). In the fungal context, R represents ruderal (colonizer) strategists that rapidly exploit new resources, C represents competitive strategists that invest in biomass and functional processes, and S represents stress-tolerant strategists that withstand sustained environmental stress. The model predicts that fungal communities follow successional trajectories from R to C strategists as resources are colonized and exploited.
 
 ## Classification
 

@@ -1,11 +1,11 @@
 ---
-title: "Fukuoka's Bread-Dough Analogy: How Plowing Destroys Soil Structure"
+title: "Fukuoka"s Bread-Dough Analogy: How Plowing Destroys Soil Structure"
 source: administrator-microsoft-word-fukuoka-textdoc.md
 author: masanobu-fukuoka
 topics: [soil-science, tillage, natural-farming, soil-compaction]
 ---
 
-## Fukuoka's Bread-Dough Analogy: How Plowing Destroys Soil Structure
+## Fukuoka"s Bread-Dough Analogy: How Plowing Destroys Soil Structure
 
 Masanobu Fukuoka developed a vivid analogy to explain why plowing is
 destructive to soil health.

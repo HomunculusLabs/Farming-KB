@@ -13,7 +13,7 @@ tags:
 
 ### Historical Documentation
 
-- First documented by Dutch colonists in the 17th century; Jan van Riebeeck's journals (1662) mention "kougoed"
+- First documented by Dutch colonists in the 17th century; Jan van Riebeeck"s journals (1662) mention "kougoed"
 - The botanist Carl Thunberg documented its use in 1773
 - Louis Leipoldt, a [[serotonin]] reuptake inhibition (SERT) |
 | **Mesembrenone** | 0.3–1.0% | PDE4 inhibition, SERT |

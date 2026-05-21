@@ -4,7 +4,7 @@ created: 2026-04-28
 tags: [query, cannabis, cannabis-genetics, cannabis-strains]
 date: 2026-04-25
 updated: 2026-04-25
-sources: ['raw/papers/s-t-oner-the-rev-cannabis-sativa-volume-3_-the-essential-gu.md']
+sources: ["raw/papers/s-t-oner-the-rev-cannabis-sativa-volume-3_-the-essential-gu.md']
 type: query
 ---
 

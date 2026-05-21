@@ -16,7 +16,7 @@ sources:
 shamanism documents a remarkable trajectory in the early history of LSD: from
 its initial characterization as a "psychotomimetic" agent capable of simulating
 psychosis, through its evaluation as a military and intelligence weapon by the
-superpowers, to its eventual recognition as a catalyst for [[albert-hofmann]]'s accidental discovery of LSD's psychoactive properties in 1943
+superpowers, to its eventual recognition as a catalyst for [[albert-hofmann]]"s accidental discovery of LSD's psychoactive properties in 1943
 at Sandoz Laboratories in Basel, Switzerland, occurred at the height of World
 War II. The first research characterizations of the compound described it using
 two terms: "psychotomimetic" (mimicking psychosis) and "psycholytic" (dissolving
@@ -34,7 +34,7 @@ leaders, for maximum confusion, disorientation or embarrassment."
 The logic of weaponized LSD was straightforward: if a compound could
 temporarily unhinge the mind, it could be used to incapacitate enemy
 personnel, extract information under the influence, or create chaos in
-adversarial organizations. The CIA's MK-ULTRA program, which operated from
+adversarial organizations. The CIA"s MK-ULTRA program, which operated from
 the early 1950s through the mid-1960s, conducted extensive experiments with
 LSD and related compounds, including involuntary administration to unaware
 subjects.

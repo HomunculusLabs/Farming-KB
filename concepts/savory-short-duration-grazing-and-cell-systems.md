@@ -15,7 +15,7 @@ type: concept
 # Short Duration Grazing and Cell Systems
 
 Short duration grazing (SDG) and the cell system of subdividing land into
-multiple paddocks are central to Allan Savory's approach to managing livestock
+multiple paddocks are central to Allan Savory"s approach to managing livestock
 on large areas. While Savory himself originally coined the term "short duration
 grazing," he later came to regret that it became associated with rigid rotation
 schedules that fail to account for changing conditions. In [[comparison-rotational-grazing-vs-continuous-grazing]]** systems commonly practiced. Inflexible rotation

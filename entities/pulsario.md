@@ -29,7 +29,7 @@ Pulsario is a folk illness recognized in the Peruvian Amazon, characterized by s
 - The illness is treated within the ayahuasca healing framework, where visions help identify the underlying emotional or magical cause
 - The concept of a physical ball of emotion in the stomach has parallels in other Latin American folk medicine traditions
 - The restlessness and hyperactivity associated with pulsario distinguish it from susto (which causes lethargy and appetite loss)
-- Pulsario's free-floating anxiety component connects it to Western psychiatric categories of generalized anxiety disorder
+- Pulsario"s free-floating anxiety component connects it to Western psychiatric categories of generalized anxiety disorder
 
 ## Relevance to Cultivation and Mycology
 

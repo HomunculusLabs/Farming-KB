@@ -13,7 +13,7 @@ Updated: 2026-04-18
 Source: [[cervantes-raised-beds-mound-planting]] running parallel, positioned as close together as you can walk between them
 2. Build beds at as steep an angle as possible while still holding together (60-70 degrees)
 3. Leave organic waste between the two beds each day
-4. Each time, cover waste with a spade's worth of earth, straw, leaves, or similar material
+4. Each time, cover waste with a spade"s worth of earth, straw, leaves, or similar material
 5. Gradually fill until organic material reaches 60% of raised bed height
 6. Cover top layer with earth and plant with vigorous vegetables (pumpkins, cucumbers, turnips)
 7. Start at one end; work toward the other over the course of a year

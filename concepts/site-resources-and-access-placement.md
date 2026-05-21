@@ -8,7 +8,7 @@ type: concept
 
 In [[permaculture-design]], the identification of site resources and the strategic placement of access infrastructure form the foundational moves from which all other design decisions flow. [[bill-mollison]] emphasizes that before any planting, building, or earthwork, the designer must systematically catalog every resource on and around the site and then establish access as the very first design act. The quality of these early decisions determines whether a site becomes a thriving, energy-storing system or a source of perpetual expense and conflict.
 
-The designer's own senses are the best compound tool for this initial assessment: judging wind, temperature, evaporation, and slope through direct observation. Experience is the second best tool. Only after these should the designer apply [[maps]], photography, and other instruments.
+The designer"s own senses are the best compound tool for this initial assessment: judging wind, temperature, evaporation, and slope through direct observation. Experience is the second best tool. Only after these should the designer apply [[maps]], photography, and other instruments.
 
 ## Categories of Site Resources
 
@@ -29,7 +29,7 @@ Resources intrinsic to the site fall into several distinct classes:
 A category frequently missed by consultants: resources that lie in the district rather than on the site itself. These include:
 
 - **Market resources**: Demand for products the site could supply, such as soil conditioners, tanks, or [[permaculture]] establishment equipment. The designer should identify unfulfilled district demands. As an example, Mollison notes that if a region is short of tanks, anyone selling them next year could do well—even through simple pamphlet distribution rather than holding inventory.
-- **Waste products**: District wastes that could serve as inputs for the client's systems, creating beneficial cycles between the site and its surrounding community.
+- **Waste products**: District wastes that could serve as inputs for the client"s systems, creating beneficial cycles between the site and its surrounding community.
 - **Unfulfilled demands**: Gaps in the local economy that the client could fill, ideally securing distributor or manufacturing rights rather than merely acting as an agent.
 
 Securing these extrinsic connections, Mollison states, can earn the designer's fee before any design work begins. The designer serves as a resource detective, increasing the number of ways in which the site stores energy and builds soil fertility rather than depleting them. If the client won't cooperate with these strategies, Mollison dryly suggests pointing them toward the agriculture department or forestry commissioner instead—[[bill-mollison]] work on an ethical basis and will not simply instruct a client to cut their forest down.
@@ -58,7 +58,7 @@ The designer must also determine who maintains existing access roads, whether a 
 
 ### Community and Multi-Dwelling Access
 
-When designing for groups or land trusts, the designer must insist that house sites be professionally selected and connected by a single access system. Mollison provides a vivid example: a hippie community bought a long valley with public road access. Every member either headed for the ridge or scattered down into the bush, creating a succession of roads running up and down slope. They should have built on mid-slope positions with a single access road only a third as long and indefinitely sustainable. All those roads began gulling out almost immediately. As Mollison puts it: "You don't have the right to do that to land. Nobody has the right to do that to land."
+When designing for groups or land trusts, the designer must insist that house sites be professionally selected and connected by a single access system. Mollison provides a vivid example: a hippie community bought a long valley with public road access. Every member either headed for the ridge or scattered down into the bush, creating a succession of roads running up and down slope. They should have built on mid-slope positions with a single access road only a third as long and indefinitely sustainable. All those roads began gulling out almost immediately. As Mollison puts it: "You don"t have the right to do that to land. Nobody has the right to do that to land."
 
 ## House Site Selection
 

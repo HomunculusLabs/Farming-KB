@@ -7,24 +7,24 @@ tags: [person, transition-movement, permaculture, community-resilience]
 
 ## Description
 
-Rob Hopkins is the co-founder of the Transition Movement, a global grassroots initiative for building community resilience in response to peak oil, climate change, and economic instability. Hopkins wrote the foreword endorsement for David Holmgren's *Permaculture: Principles & Pathways Beyond Sustainability*, crediting the book as foundational to the Transition approach and describing it as "a work of great genius."
+Rob Hopkins is the co-founder of the Transition Movement, a global grassroots initiative for building community resilience in response to peak oil, climate change, and economic instability. Hopkins wrote the foreword endorsement for David Holmgren"s *Permaculture: Principles & Pathways Beyond Sustainability*, crediting the book as foundational to the Transition approach and describing it as "a work of great genius."
 
 ## Classification
 
 - **Category**: Person / Movement founder / Author
 - **Domain**: Community resilience, permaculture, sustainability
 - **Known for**: Co-founding the Transition Movement (Transition Towns)
-- **Connection**: Endorsed Holmgren's Principles & Pathways
+- **Connection**: Endorsed Holmgren"s Principles & Pathways
 
 ## Key Facts
 
 - Co-founded the Transition Movement, which began in Totnes, Devon, UK in 2006 as "Transition Town Totnes."
-- Described Holmgren's *Permaculture: Principles & Pathways Beyond Sustainability* as "the book which first suggested what a collective response to peak oil and climate change rooted in Permaculture design principles might look like in practice."
+- Described Holmgren"s *Permaculture: Principles & Pathways Beyond Sustainability* as "the book which first suggested what a collective response to peak oil and climate change rooted in Permaculture design principles might look like in practice."
 - Stated the book should be "read slowly, digest it well, discuss it with anyone who will listen" — emphasizing its density and transformative potential.
 - Hopkins characterized engagement with the book as a life-changing experience: "you will thereafter think of your life in two halves: before you read Permaculture: Principles & Pathways and after."
 - Called the work "a work of great genius" without hesitation.
 - The Transition Movement applies permaculture principles at community scale, focusing on energy descent planning, local food systems, and community-scale resilience.
-- Hopkins' endorsement highlights the intellectual lineage from Holmgren's energy descent theory to practical community action.
+- Hopkins" endorsement highlights the intellectual lineage from Holmgren's energy descent theory to practical community action.
 
 ## Relevance to Cultivation and Mycology
 

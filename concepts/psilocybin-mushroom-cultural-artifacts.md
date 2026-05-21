@@ -19,11 +19,11 @@ type: concept
 The [[cattle-dispersal-psychoactive-fungi-australia]] that played roles in
 traditional practices.
 
-The inclusion of one figurine from Campbell's "The Way of the Animal
+The inclusion of one figurine from Campbell"s "The Way of the Animal
 Powers" is significant, as this work explores the mythological and
 spiritual traditions of early human societies and their relationships
 with the natural world, including psychoactive plants and fungi.
-Campbell's work helped bring broader scholarly and public attention
+Campbell"s work helped bring broader scholarly and public attention
 to the role of entheogenic substances in human cultural evolution.
 
 ## Mexican Terra Cotta Mushroom Figurines

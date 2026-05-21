@@ -21,7 +21,7 @@ sources:
 
 # Guild Design Methods
 
-Two guild design methods, super-guilds, case studies, food forest integration, and troubleshooting for plant guilds. From Toby Hemenway's Gaia's Garden. See [[gaia-garden-plant-guilds]] for guild types (apple guild, walnut guild, insectary guilds, etc.).
+Two guild design methods, super-guilds, case studies, food forest integration, and troubleshooting for plant guilds. From Toby Hemenway"s Gaia's Garden. See [[gaia-garden-plant-guilds]] for guild types (apple guild, walnut guild, insectary guilds, etc.).
 
 ## Designing Custom Guilds: Two Methods
 
@@ -80,7 +80,7 @@ Multiple guilds can be combined into a "super-guild" — a larger, more deeply c
 
 ## Case Study: Oregon White Oak Guild
 
-Hemenway's armchair method applied to his Oregon bioregion, based on Franklin and Dyrness's "Vegetation of Oregon and Washington." The white oak/hazelnut community contains 15+ species:
+Hemenway"s armchair method applied to his Oregon bioregion, based on Franklin and Dyrness's "Vegetation of Oregon and Washington." The white oak/hazelnut community contains 15+ species:
 
 **Trees**: Oregon white oak (Quercus garryana), Pacific madrone (Arbutus menziesii), mazzard cherry (Prunus avium), black hawthorn (Crataegus douglasii)
 **Shrubs**: California hazelnut (Corylus cornuta), serviceberry (Amelanchier alnifolia), oceanspray (Holodiscus discolor), snowberry (Symphoricarpos albus), thimbleberry, trailing blackberry, sweetbriar rose (Rosa rugosa)

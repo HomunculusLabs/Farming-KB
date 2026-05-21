@@ -3,7 +3,7 @@ title: "Astragalus vs Ashwagandha"
 tags: [comparison, adaptogens, astragalus, ashwagandha, medicinal-herbs]
 date: 2026-05-13
 updated: 2026-05-13
-sources: ['raw/papers/working-with-agar.md']
+sources: ["raw/papers/working-with-agar.md']
 ---
 
 ## Astragalus vs Ashwagandha

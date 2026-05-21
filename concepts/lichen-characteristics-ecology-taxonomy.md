@@ -36,7 +36,7 @@ This genetic complexity means that the conventional concepts of "organism" and "
 
 ### Habitat and Distribution
 
-Lichens are found in virtually every terrestrial habitat that supports photosynthesis, and some species extend into aquatic habitats. They compete with plants for light, space, and possibly other resources, but they are generally poor competitors. Lichens represent extreme examples of Grime's (1977) stress-tolerator lifestyle strategy, competing on roughly equal terms only with bryophytes.
+Lichens are found in virtually every terrestrial habitat that supports photosynthesis, and some species extend into aquatic habitats. They compete with plants for light, space, and possibly other resources, but they are generally poor competitors. Lichens represent extreme examples of Grime"s (1977) stress-tolerator lifestyle strategy, competing on roughly equal terms only with bryophytes.
 
 ### Factors Affecting Presence and Abundance
 

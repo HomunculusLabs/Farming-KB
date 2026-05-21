@@ -8,7 +8,7 @@ sources:
 
 ## The Logos: Language Beyond Language
 
-McKenna's central thesis is that DMT and [[psilocybin]] "invoke the Logos" — they
+McKenna"s central thesis is that DMT and [[psilocybin]] "invoke the Logos" — they
 activate language centers directly, producing an interior dialogue that conveys
 information from an alien source. This concept draws on several traditions:
 
@@ -17,7 +17,7 @@ information from an alien source. This concept draws on several traditions:
 The Logos concept spans Greek philosophy (Heraclitus: "The Aeon is a child at
 play with colored balls"), Christian theology (the Word as creative principle),
 Kabbalistic mysticism (the primal language described in the Zohar), and
-linguistic anthropology (Robert Graves' "Ursprache" — an original primal
+linguistic anthropology (Robert Graves" "Ursprache" — an original primal
 language in The White Goddess).
 
 ### Glossolalia as Assembly Language
@@ -42,13 +42,13 @@ consensus, creating a systematic blind spot in our understanding of
 ### The Demon Problem
 
 McKenna acknowledged the dangers: "Some [demons] are made of ions, some of
-mind; the ones of ketamine, you'll find, stutter often and are blind." The
+mind; the ones of ketamine, you"ll find, stutter often and are blind." The
 challenge is not hearing voices but ensuring they "are telling the truth" —
 a problem that shamans, magicians, and psychonauts have always confronted.
 
 ## Consciousness as Multi-Dimensional
 
-McKenna's framework implies a model of consciousness as fundamentally
+McKenna"s framework implies a model of consciousness as fundamentally
 multi-dimensional, with ordinary waking awareness representing only one
 mode of operation among many:
 
@@ -76,7 +76,7 @@ present to materialist paradigms.
 
 McKenna acknowledged the exploratory, pre-scientific nature of his work:
 "I call myself an explorer rather than a scientist, because the area that
-I'm looking at contains insufficient data to support even the dream of being
+I"m looking at contains insufficient data to support even the dream of being
 a science." His metaphor of mapping rivers — "we must leave many rivers
 unascended" — honestly acknowledges the limits of phenomenological
 description in the absence of rigorous experimental methodology.

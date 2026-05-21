@@ -52,7 +52,7 @@ The wild form of *H. orientalis* is native to southern Turkey, northwestern Syri
 
 Wild populations grow on rocky hillsides, open scrubland, and stony meadows at elevations of 100–2,000 meters. The species prefers well-drained, calcareous soils in full sun.
 
-Mediterranean climate with cool, moist winters and hot, dry summers is ideal for the species' [[sandy-loam-texture-cannabis-microbiome-assembly]] with moderate fertility and a pH of 6.0–7.5.
+Mediterranean climate with cool, moist winters and hot, dry summers is ideal for the species" [[sandy-loam-texture-cannabis-microbiome-assembly]] with moderate fertility and a pH of 6.0–7.5.
 
 Bulbs are planted in autumn at a depth of 10–15 cm, spaced 10–15 cm apart. For indoor forcing, pre-cooled bulbs are placed in hyacinth glasses filled with water, allowing the basal plate to contact the water surface.
 

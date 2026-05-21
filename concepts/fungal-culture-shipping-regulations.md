@@ -66,7 +66,7 @@ EU Directive 2000/54/EC on the protection of workers from risks related to expos
 
 ## USPS and Freight Carrier Shipping Requirements
 
-Domestic shipment of fungal cultures within the United States is regulated under Title 42 of the Code of Federal Regulations (42 CFR Part 72), which governs the interstate shipment of etiological agents. The United States Postal Service (USPS) accepts packages containing biological materials only when they are properly packaged according to DOT specifications, correctly labeled with the appropriate hazard class markings, and accompanied by complete documentation including a shipper's declaration of dangerous goods.
+Domestic shipment of fungal cultures within the United States is regulated under Title 42 of the Code of Federal Regulations (42 CFR Part 72), which governs the interstate shipment of etiological agents. The United States Postal Service (USPS) accepts packages containing biological materials only when they are properly packaged according to DOT specifications, correctly labeled with the appropriate hazard class markings, and accompanied by complete documentation including a shipper"s declaration of dangerous goods.
 
 The USPS requires that biological specimens be shipped as either Priority Mail or Express Mail services. Packages must not be placed in street collection boxes or regular mail drops — they must be presented in person at a USPS service window or picked up by a postal carrier under a scheduled pickup arrangement.
 

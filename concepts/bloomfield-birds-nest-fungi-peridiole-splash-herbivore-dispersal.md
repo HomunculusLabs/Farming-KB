@@ -15,7 +15,7 @@ date: 2026-05-08
 
 ## Overview
 
-Bird's nest fungi (Nidulariaceae, primarily *Cyathus* species) produce
+Bird"s nest fungi (Nidulariaceae, primarily *Cyathus* species) produce
 tiny [[next-generation-sequencing-hidden-fungal-diversity]] to colonize.
 
 ## Fruiting Body Structure

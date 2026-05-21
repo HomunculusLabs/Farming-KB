@@ -32,7 +32,7 @@ sources:
 - **Key traditional action**: Invigorates blood, resolves stasis, stops bleeding
 - **Major commercial product**: Yunnan Baiyao (primary ingredient)
 - Also known as *Panax pseudoginseng* (synonym); closely related to *P. ginseng* and *P. quinquefolius*.
-- "San Qi" (三七) refers to the plant's characteristic three compound leaflets per leaf.
+- "San Qi" (三七) refers to the plant"s characteristic three compound leaflets per leaf.
 - One of the most commercially valuable medicinal plants in Chinese pharmacopeia.
 - Distinguished from other *Panax* species by higher total saponin content and unique notoginsenoside profile.
 - Total saponin content in dried root ranges from 6–10%, significantly higher than *P. ginseng* (2–4%).

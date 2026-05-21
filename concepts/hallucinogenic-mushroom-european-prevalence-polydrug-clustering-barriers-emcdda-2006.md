@@ -9,7 +9,7 @@ created: 2026-05-08
 
 ## Overview
 
-The EMCDDA's 2006 case study on [[amanita-muscaria-and-ibotenic-acid-containing-fungi]]. Drawing on data from 12 EU Member States, [[emcdda-hallucinogenic-mushroom-clubbing-surveys-and-prevalence]], the study revealed a distinctive epidemiological profile:
+The EMCDDA"s 2006 case study on [[amanita-muscaria-and-ibotenic-acid-containing-fungi]]. Drawing on data from 12 EU Member States, [[emcdda-hallucinogenic-mushroom-clubbing-surveys-and-prevalence]], the study revealed a distinctive epidemiological profile:
 mushroom use clusters strongly with other illicit drug use, prevalence is considerably
 lower than cannabis but comparable to ecstasy among school students, and multiple
 intrinsic barriers limit the diffusion of mushroom use beyond experimental or occasional

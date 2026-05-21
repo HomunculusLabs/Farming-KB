@@ -29,7 +29,7 @@ It governs the return from visionary experience back into embodied, everyday rea
 
 1. The Nirmana-Kaya is the "Body of Incarnation" — wisdom expressed through physical form and action.
 
-2. It corresponds to the historical Buddha's manifestation in human form as a teaching presence.
+2. It corresponds to the historical Buddha"s manifestation in human form as a teaching presence.
 
 3. In [[the-bardo-thodol-as-living-guide]], the Nirmana-Kaya stage is the process of re-entering the cycle of rebirth (Sangsara).
 

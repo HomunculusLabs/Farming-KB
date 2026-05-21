@@ -9,7 +9,7 @@ tags: [concept, intensive-farming, land-use, season-extension, eliot-coleman]
 
 ## Description
 
-The "hidden farm" is a [[holmgren-permaculture-flower-conceptual-framework]] developed by Eliot Coleman to describe the productive potential of land that is currently lying fallow or unused on an existing farm. Whenever a section of land is empty of crops and something could have been growing there, that represents the hidden farm — unrealized productive capacity hidden in plain sight. The concept drives Coleman's approach to intensive, year-round cropping and is the philosophical engine behind his innovations in season extension, mobile greenhouses, quick hoops, [[crop-rotation-and-succession-planting]].
+The "hidden farm" is a [[holmgren-permaculture-flower-conceptual-framework]] developed by Eliot Coleman to describe the productive potential of land that is currently lying fallow or unused on an existing farm. Whenever a section of land is empty of crops and something could have been growing there, that represents the hidden farm — unrealized productive capacity hidden in plain sight. The concept drives Coleman"s approach to intensive, year-round cropping and is the philosophical engine behind his innovations in season extension, mobile greenhouses, quick hoops, [[crop-rotation-and-succession-planting]].
 
 ## Classification
 
@@ -48,7 +48,7 @@ A key insight: rather than leaving fields in green manure or cover crop while wa
 
 ## Quantitative Impact
 
-Coleman reports that focusing on double and triple cropping has achieved **gross yields per acre nearly double** what might be expected from the farm's small acreage. The four-plots, five-moves greenhouse rotation produces from a single 1,000-square-foot greenhouse in one year:
+Coleman reports that focusing on double and triple cropping has achieved **gross yields per acre nearly double** what might be expected from the farm"s small acreage. The four-plots, five-moves greenhouse rotation produces from a single 1,000-square-foot greenhouse in one year:
 
 - 1,000 sq ft of onions and scallions
 - 1,000 sq ft of early carrots and beets
@@ -65,7 +65,7 @@ An interesting consequence: Coleman reports growing "almost no green manures any
 
 ## Philosophical Lineage
 
-The hidden farm concept connects to Henry Dreer's 1896 admonition: "Work the lazy garden. You pay rent for it all winter, do you not? Make it earn dividends every month of the year." It also connects to the Parisian maraîcher tradition of maximizing production from small land areas through intensive management and sophisticated growing techniques.
+The hidden farm concept connects to Henry Dreer"s 1896 admonition: "Work the lazy garden. You pay rent for it all winter, do you not? Make it earn dividends every month of the year." It also connects to the Parisian maraîcher tradition of maximizing production from small land areas through intensive management and sophisticated growing techniques.
 
 ## Key Facts
 

@@ -16,7 +16,7 @@ The [[demeter-and-persephone-the-homeric-hymn-and-eleusinian-foundation-myth]] a
 
 According to the Homeric Hymn to Demeter (lines 473-474), after making fruit spring up from the rich lands, Demeter went to "the kings who deal justice" and showed them her awful mysteries:
 
-1. **Triptolemus**: The most famous of Demeter's initiates
+1. **Triptolemus**: The most famous of Demeter"s initiates
 2. **Diocles**: The horse-driver
 3. **Eumolpus**: The ancestor of the Eumolpidae priestly family
 4. **Celeus**: Leader of the people of Eleusis
@@ -58,7 +58,7 @@ Other priesthoods included:
 
 ## Celeus and the Eleusinian Royal House
 
-Celeus was the king of Eleusis who welcomed the disguised Demeter into his home. His daughters found the goddess at the Maiden's Well and brought her to the palace. His wife Metaneira offered Demeter wine (which she refused, requesting kykeon instead). Their son Demophoon was the child Demeter tried to make immortal by placing in fire.
+Celeus was the king of Eleusis who welcomed the disguised Demeter into his home. His daughters found the goddess at the Maiden"s Well and brought her to the palace. His wife Metaneira offered Demeter wine (which she refused, requesting kykeon instead). Their son Demophoon was the child Demeter tried to make immortal by placing in fire.
 
 The royal house of Eleusis claimed descent from Celeus. While they did not control the priesthoods, their ancestral connection to Demeter gave Eleusis its sacred status.
 

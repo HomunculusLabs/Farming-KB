@@ -11,7 +11,7 @@ sources: [raw/papers/guid-mhtml_file___e___textos__mycology__exotic_.md]
 
 Pruning and defoliation are essential skills for cannabis cultivators seeking to maximize yield, control plant shape, and improve airflow. These techniques range from removing individual leaves to deliberately damaging stem tissue, each with specific purposes and timing requirements. Understanding when and how to cut is as important as knowing what to cut.
 
-See [[arthur-christmas-tree-amanita-muscaria]], with a dominant central cola and progressively smaller branches below. The grower's job is to reshape this natural form into something that better serves the indoor environment.
+See [[arthur-christmas-tree-amanita-muscaria]], with a dominant central cola and progressively smaller branches below. The grower"s job is to reshape this natural form into something that better serves the indoor environment.
 
 ## Topping (Apical Pruning)
 

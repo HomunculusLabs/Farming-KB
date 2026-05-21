@@ -18,7 +18,7 @@ The most striking piece of evidence supporting a southern hemisphere origin is t
 
 The authors concluded that this asymmetric distribution "seems that the neurotropic fungi may have their origin in the southern hemisphere, mainly in South America, based on the high diversity there, and from that region reached the northern parts (North America and Europe)." This interpretation follows established biogeographical principles where areas of highest species diversity often correspond to centers of evolutionary origin.
 
-Mexico holds the highest number of neurotropic fungal species of any country, with 76 total species, of which 44 belong to Psilocybe alone, representing 39% of the world's Psilocybe species. Colombia follows with 22 Psilocybe taxa, and Brazil contributes numerous endemic species. The sheer concentration of species in the neotropics is the foundation of the southern hemisphere origin argument.
+Mexico holds the highest number of neurotropic fungal species of any country, with 76 total species, of which 44 belong to Psilocybe alone, representing 39% of the world"s Psilocybe species. Colombia follows with 22 Psilocybe taxa, and Brazil contributes numerous endemic species. The sheer concentration of species in the neotropics is the foundation of the southern hemisphere origin argument.
 
 ## Habitat Correlation: Subtropical Humid Forests
 
@@ -62,7 +62,7 @@ Endemic species with restricted ranges are particularly numerous in tropical and
 
 Gartz (1996) noted that "the mushrooms occur in abundance wherever mycologists abound," highlighting the significant sampling bias in the known distribution. Several large regions remain essentially unexplored for neurotropic fungi: southeastern Russia, Mongolia, Arabia, Turkey, much of Africa, Korea, Malaysia (except Java and Sumatra), Hawaii, Alaska, Costa Rica, and several US states including Arizona, Colorado, Illinois, Maryland, Vermont, Massachusetts, New Hampshire, and Pennsylvania.
 
-Despite this bias, the diversity gradient remains robust. Even well-explored European regions have only 14 neurotropic Psilocybe species compared to Mexico's 44 taxa, and the USA and Canada combined report only 21 taxa. The fact that new species continue to be described from underexplored tropical and subtropical regions (South Africa, Thailand, New Zealand, Colombia, Puerto Rico) suggests the actual southern hemisphere diversity advantage is even greater than currently documented.
+Despite this bias, the diversity gradient remains robust. Even well-explored European regions have only 14 neurotropic Psilocybe species compared to Mexico"s 44 taxa, and the USA and Canada combined report only 21 taxa. The fact that new species continue to be described from underexplored tropical and subtropical regions (South Africa, Thailand, New Zealand, Colombia, Puerto Rico) suggests the actual southern hemisphere diversity advantage is even greater than currently documented.
 
 The United States distribution pattern illustrates both the bias and the underlying biology. California alone reports 16 or more neurotropic species, while states with similar forest types but fewer resident mycologists report far fewer. Oregon, with its strong mycological community, reports many species, while neighboring states with less mycological activity report few or none. This pattern does not invalidate the southern hemisphere hypothesis but rather suggests that even the well-documented diversity gradient may understate the true magnitude of tropical diversity.
 

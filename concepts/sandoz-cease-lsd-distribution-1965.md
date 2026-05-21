@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-On August 23, 1965, Sandoz Pharmaceuticals issued an internal decision to cease distribution of LSD-25 and other hallucinogenic substances. This decision, documented in a letter by Dr. A. Cerletti, Director of the Pharmaceutical Department, marked the end of the company's pioneering role in psychedelic research and reflected the growing gap between the scientific potential and the social reality of LSD.
+On August 23, 1965, Sandoz Pharmaceuticals issued an internal decision to cease distribution of LSD-25 and other hallucinogenic substances. This decision, documented in a letter by Dr. A. Cerletti, Director of the Pharmaceutical Department, marked the end of the company"s pioneering role in psychedelic research and reflected the growing gap between the scientific potential and the social reality of LSD.
 
 ## The Burden of Responsibility
 
@@ -16,17 +16,17 @@ On August 23, 1965, Sandoz Pharmaceuticals issued an internal decision to cease 
 
 The decision letter begins by noting that "more than twenty years have elapsed since the discovery by Albert Hofmann of LSD-25 in the SANDOZ Laboratories." The "fundamental importance of this discovery may be assessed by its impact on the development of modern psychiatric research"—yet it "placed a heavy burden of responsibility on SANDOZ, the owner of this product."
 
-### The Paradox of LSD's Properties
+### The Paradox of LSD"s Properties
 
 The core dilemma was clear: "Despite the outstanding properties of this compound, or rather because of the very nature of these qualities," the "usual means of practical exploitation could not be envisaged." LSD was a pharmaceutical agent whose most significant effects could not be contained within the framework of conventional medicine.
 
-Unlike ordinary drugs, which have specific, limited effects that can be prescribed and controlled, LSD produced profound alterations of consciousness that were inherently unpredictable, highly dose-sensitive, and dependent on set (the user's psychological state) and setting (the physical and social environment). These qualities made LSD virtually impossible to use as a standard pharmaceutical product.
+Unlike ordinary drugs, which have specific, limited effects that can be prescribed and controlled, LSD produced profound alterations of consciousness that were inherently unpredictable, highly dose-sensitive, and dependent on set (the user"s psychological state) and setting (the physical and social environment). These qualities made LSD virtually impossible to use as a standard pharmaceutical product.
 
 ## The Patent Paradox
 
 "Even though LSD was fully protected by SANDOZ-owned patents since the time of its first synthesis in 1938, the usual means of practical exploitation could not be envisaged."
 
-Sandoz held the patent on LSD but could not control its use. Once the compound entered the illicit market—and by 1965 it was being manufactured and distributed outside any patent framework—Sandoz's legal protection became meaningless. The company owned a substance that had become a cultural phenomenon beyond its control.
+Sandoz held the patent on LSD but could not control its use. Once the compound entered the illicit market—and by 1965 it was being manufactured and distributed outside any patent framework—Sandoz"s legal protection became meaningless. The company owned a substance that had become a cultural phenomenon beyond its control.
 
 ## The Scientific Evidence
 
@@ -40,11 +40,11 @@ By 1965, LSD had moved from the laboratory to the counterculture. The Harvard Ps
 
 ### Regulatory Pressure
 
-Governments around the world were beginning to respond to the spread of LSD with regulatory measures. Sandoz's decision to cease distribution was partly proactive—anticipating and complying with impending restrictions—and partly defensive—protecting the company from liability for the consequences of uncontrolled use.
+Governments around the world were beginning to respond to the spread of LSD with regulatory measures. Sandoz"s decision to cease distribution was partly proactive—anticipating and complying with impending restrictions—and partly defensive—protecting the company from liability for the consequences of uncontrolled use.
 
 ### Media Sensationalism
 
-The popular press had begun reporting on LSD in increasingly sensational terms, emphasizing "bad trips," psychotic breaks, and the drug's association with the counterculture. This media coverage created a public perception of LSD as dangerous and uncontrollable, regardless of the actual risk profile observed in clinical settings.
+The popular press had begun reporting on LSD in increasingly sensational terms, emphasizing "bad trips," psychotic breaks, and the drug"s association with the counterculture. This media coverage created a public perception of LSD as dangerous and uncontrollable, regardless of the actual risk profile observed in clinical settings.
 
 ## The Significance of the Decision
 

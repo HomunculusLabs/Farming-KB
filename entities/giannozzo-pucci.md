@@ -23,7 +23,7 @@ Giannozzo Pucci is an Italian environmentalist cited by [[david-holmgren]] in th
 
 - **The Chianina share farmer example:** Pucci illustrated his point with the example of a share farmer in his seventies who ploughed with rare white Chianina bullocks, appeared to dance while forking hay, and used complex seasonal patterns and natural signs to determine sowing times. This practitioner embodied true tradition — integrated, embodied knowledge that connected observation, timing, skill, and productivity.
 
-- **Loss of embodied knowledge:** Holmgren acknowledged Pucci's point while noting the practical difficulty: today it is hard to find people like that share farmer, let alone learn what they know. The implication is that the shadow of tradition has largely replaced true tradition in most agricultural communities.
+- **Loss of embodied knowledge:** Holmgren acknowledged Pucci"s point while noting the practical difficulty: today it is hard to find people like that share farmer, let alone learn what they know. The implication is that the shadow of tradition has largely replaced true tradition in most agricultural communities.
 
 ## Relevance to Cultivation and Permaculture
 

@@ -28,7 +28,7 @@ which neither partner can thrive without the other. In the association:
 - **The fungal partner** extracts scarce inorganic nutrients (magnesium,
   calcium, phosphorus, [[singh-fungal-metabolism-pahs]]
 - **The hyphal network** vastly extends the effective root surface area,
-  reaching far beyond the plant's own root system
+  reaching far beyond the plant"s own root system
 
 This symbiosis is so widespread that an estimated 90% of all land plant
 species form [[teaming-with-nutrients-micronutrients-and-trace-elements]] from

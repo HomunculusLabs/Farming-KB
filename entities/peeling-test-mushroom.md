@@ -9,7 +9,7 @@ tags: [folk-test, mushroom-identification, myth, safety, amanita]
 
 ## Description
 
-The peeling test is a traditional folk method for distinguishing edible mushrooms from poisonous ones. The test involves attempting to peel the skin of the mushroom cap from the margin (edge) toward the center. According to this folk belief, if the cap skin peels easily, the mushroom is safe to eat. The peeling test was considered "aristocratic" by Palmer, who encountered widespread adherence to it among the upper classes of Boston's Beacon Street and Back Bay neighborhoods.
+The peeling test is a traditional folk method for distinguishing edible mushrooms from poisonous ones. The test involves attempting to peel the skin of the mushroom cap from the margin (edge) toward the center. According to this folk belief, if the cap skin peels easily, the mushroom is safe to eat. The peeling test was considered "aristocratic" by Palmer, who encountered widespread adherence to it among the upper classes of Boston"s Beacon Street and Back Bay neighborhoods.
 
 ## Classification
 
@@ -22,7 +22,7 @@ The peeling test is a traditional folk method for distinguishing edible mushroom
 
 The peeling test asserts that:
 
-1. A safe mushroom's cap will peel from the margin to the center
+1. A safe mushroom"s cap will peel from the margin to the center
 2. If the skin does not peel easily, the mushroom is a poisonous "toadstool"
 3. This test provides a reliable, universal method for distinguishing edible from toxic fungi
 
@@ -40,7 +40,7 @@ Palmer provided detailed reasoning why the peeling test — like all other folk 
 
 - Some perfectly safe species do not peel easily
 - The peeling characteristic varies with age, moisture, and growing conditions
-- A mushroom's peeling behavior says nothing about its toxicity
+- A mushroom"s peeling behavior says nothing about its toxicity
 
 ### No Universal Test Exists
 
@@ -64,7 +64,7 @@ Palmer described a gentleman of the "Somerset Club" who would "secretly, so as n
 
 The passage is poignant — Palmer notes the gentleman "takes his walks no longer under the shadow of the gilded dome, and the porter of the Somerset Club no more opens to him its doors," suggesting the man had since passed away, and Palmer reflects: "If all his errors have only been as innocent, the rest he longed for now blesses his soul!"
 
-## The Boy's Rule and Its Limits
+## The Boy"s Rule and Its Limits
 
 Palmer referenced a boy's rule that "mushrooms have solid stems and toadstools are hollow" — another variant of physical testing. He acknowledged it as directionally useful for certain species but emphasized:
 
@@ -79,7 +79,7 @@ The peeling test represents a category of dangerous folk wisdom that has caused 
 - **Historical mycology**: Shows how misinformation persisted even among educated classes
 - **Science communication**: Demonstrates the challenge of replacing folk beliefs with scientific knowledge
 
-Palmer's conclusion was unequivocal: "No test of this kind, or further, of any kind whatever, is of the least value." The only safe approach is to learn to identify each species individually, as one learns to distinguish friends from enemies by knowing their characteristics.
+Palmer"s conclusion was unequivocal: "No test of this kind, or further, of any kind whatever, is of the least value." The only safe approach is to learn to identify each species individually, as one learns to distinguish friends from enemies by knowing their characteristics.
 
 ## Cross-References
 

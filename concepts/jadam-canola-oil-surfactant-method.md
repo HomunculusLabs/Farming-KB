@@ -14,7 +14,7 @@ Most canola and soybean oils are genetically modified (GMO). In Korea, there is 
 - Continued experimenting with different proportions of water, caustic potash, and oil
 - Finally found the "magic ratio"
 
-The key insight: "Maybe it was somebody's intention to make [soap-making] difficult after all. If people try to make natural soap for themselves but soon are exhausted, then they will resort to buying natural soap."
+The key insight: "Maybe it was somebody"s intention to make [soap-making] difficult after all. If people try to make natural soap for themselves but soon are exhausted, then they will resort to buying natural soap."
 
 ## JWA Recipe (100 L / 26 gal)
 

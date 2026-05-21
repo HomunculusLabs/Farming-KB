@@ -11,7 +11,7 @@ Dr. T. F. Wood was a physician from [[north-carolina-mycodiversity]] who contrib
 
 ## Key Contribution
 
-Dr. Wood's clinical experience confirmed that alkaloids from the Solanaceae (nightshade family) could serve as antidotes to mushroom poisoning:
+Dr. Wood"s clinical experience confirmed that alkaloids from the Solanaceae (nightshade family) could serve as antidotes to mushroom poisoning:
 
 - **Daturine**: The active alkaloid from [[datura-stramonium]] (jimsonweed/thorn apple), successfully administered to counteract Amanita poisoning symptoms
 - **Hyoscyamine**: The active alkaloid from [[hyoscyamus-niger]] (henbane), also used with success

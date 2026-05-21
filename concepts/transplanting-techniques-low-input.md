@@ -16,7 +16,7 @@ Updated: 2026-04-18
 
 ## Direct-Seeding vs. Transplanting
 
-Solomon's general preference is for direct-seeding because:
+Solomon"s general preference is for direct-seeding because:
 
 - Direct-seeded plants develop undisturbed root systems from the start.
 - Transplanting destroys the taproot and converts the plant into more of a surface feeder.

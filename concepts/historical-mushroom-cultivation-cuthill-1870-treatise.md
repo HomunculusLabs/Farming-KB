@@ -4,7 +4,7 @@ source: james-cuthill-a-treatise-on-the-cultivation-of-the-mushroom.md
 type: concept
 ---
 
-## Historical Mushroom Cultivation — Cuthill's 1870 Treatise Methods
+## Historical Mushroom Cultivation — Cuthill"s 1870 Treatise Methods
 
 ## Overview
 
@@ -24,7 +24,7 @@ Cuthill emphasizes self-sufficiency: the farmer should save their own spawn from
 
 ### The Speed Argument
 
-"I can assure him, mushrooms grow faster than pigs! And the mushrooms do not eat anything; they only want a little attention." Cuthill's humor underscores a serious point: mushrooms require less investment (both capital and labor) than livestock.
+"I can assure him, mushrooms grow faster than pigs! And the mushrooms do not eat anything; they only want a little attention." Cuthill"s humor underscores a serious point: mushrooms require less investment (both capital and labor) than livestock.
 
 ## Manure Preparation
 
@@ -36,7 +36,7 @@ Droppings collected along highways should be "deposited in a heap during summer,
 
 "They will heat a little, but the harder they are pressed, the less they will heat. Over-heating must be guarded against: if the watch or trial stick which is inserted into them gets too hot for the hand to bear, the heat is too great, and will destroy the spawn."
 
-The "trial stick" method is a simple but effective temperature monitoring technique. The farmer inserts a stick into the manure pile and checks it by hand; if it's too hot to hold, the pile is too hot for spawn survival.
+The "trial stick" method is a simple but effective temperature monitoring technique. The farmer inserts a stick into the manure pile and checks it by hand; if it"s too hot to hold, the pile is too hot for spawn survival.
 
 ### The Ammonia Principle
 
@@ -48,13 +48,13 @@ Cuthill understood, empirically if not chemically, that compacting fresh manure 
 
 ### Brick Spawn
 
-"One thing I do protest against, namely, measuring spawn by the bushel. If I buy bricks of spawn for 4d. or 6d. each, I then know what I'm about. A London brick is seven inches square, and two thick, like a small paving tile."
+"One thing I do protest against, namely, measuring spawn by the bushel. If I buy bricks of spawn for 4d. or 6d. each, I then know what I"m about. A London brick is seven inches square, and two thick, like a small paving tile."
 
 [[falconer-victorian-mushroom-spawn-making-brick-flake-production]] was sold in brick form—cakes of manure inoculated with mushroom mycelium. Cuthill advocates for buying by the brick rather than by volume, ensuring consistent quality and quantity.
 
 ### Mill Track Spawn
 
-"Those who are fortunate enough to get Mill Track spawn will find it the best of all. This spawn requires no heating beyond summer heat to make it, and no other material than sandy mould and pure droppings; it is mixed and made by the horse's feet."
+"Those who are fortunate enough to get Mill Track spawn will find it the best of all. This spawn requires no heating beyond summer heat to make it, and no other material than sandy mould and pure droppings; it is mixed and made by the horse"s feet."
 
 Mill Track spawn was a naturally occurring spawn that formed in the packed earth of horse-mill tracks—where horses walked in circles grinding grain. The continuous trampling of fresh droppings into sandy soil created ideal conditions for natural spawn formation.
 
@@ -64,7 +64,7 @@ Mill Track spawn was a naturally occurring spawn that formed in the packed earth
 
 "I care not how the dung is for the under part of the bed, provided there are about six inches of cropping, and unheated dung for the surface."
 
-Cuthill's bed design uses two distinct layers: a lower layer of fermenting manure that provides heat, and a surface layer of cooler, unheated manure where the mushrooms actually fruit.
+Cuthill"s bed design uses two distinct layers: a lower layer of fermenting manure that provides heat, and a surface layer of cooler, unheated manure where the mushrooms actually fruit.
 
 ## The Flagstone Anomaly
 

@@ -21,7 +21,7 @@ Key stages of a typical 24-hour brew:
 
 ## Washing Biofilm
 
-Biofilm buildup on brewing equipment surfaces is a persistent issue. Biofilm harbors both beneficial and potentially harmful organisms, and if left unchecked, it can contaminate subsequent brews. Equipment should be cleaned thoroughly between brews using non-toxic cleaning methods. Mechanical scrubbing combined with citric acid or hydrogen peroxide solutions helps remove biofilm without leaving residues harmful to the next brew's biology.
+Biofilm buildup on brewing equipment surfaces is a persistent issue. Biofilm harbors both beneficial and potentially harmful organisms, and if left unchecked, it can contaminate subsequent brews. Equipment should be cleaned thoroughly between brews using non-toxic cleaning methods. Mechanical scrubbing combined with citric acid or hydrogen peroxide solutions helps remove biofilm without leaving residues harmful to the next brew"s biology.
 
 ## Compost Tea Making Fundamentals
 

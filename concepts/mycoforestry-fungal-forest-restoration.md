@@ -43,7 +43,7 @@ Arbuscular mycorrhizal fungi, while less visible, are arguably more widespread g
 
 The matsutake mushroom (*[[ectomycorrhizal-associations]] with several pine species, including *Pinus densiflora* (Japanese red pine) and related species across East Asia, North America, and Europe. The health of matsutake populations is intimately tied to forest health: matsutake thrives in forests with well-drained soils, moderate disturbance, and diverse understory vegetation.
 
-Over-management of forests — through excessive thinning, replacement of native pines with commercial species, or suppression of natural disturbance regimes — can devastate matsutake habitat. The decline of matsutake harvests in Japan over the past century mirrors the broader degradation of Japan's pine forests, illustrating how fungal conservation and forest conservation are inseparable concerns.
+Over-management of forests — through excessive thinning, replacement of native pines with commercial species, or suppression of natural disturbance regimes — can devastate matsutake habitat. The decline of matsutake harvests in Japan over the past century mirrors the broader degradation of Japan"s pine forests, illustrating how fungal conservation and forest conservation are inseparable concerns.
 
 ### Mycorrhizal Decline and Pine Wilt Disease
 

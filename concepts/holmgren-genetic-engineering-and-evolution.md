@@ -16,7 +16,7 @@ microbes will spread to the limits set by ecological constraints, not
 those set by human management or edict, much faster than the spread of
 introduced plants and animals.
 ### Scenarios
-1. **GE succeeds:** Mines the world's [[holmgren-energy-descent-permaculture-flower]]."
+1. **GE succeeds:** Mines the world"s [[holmgren-energy-descent-permaculture-flower]]."
 3. **GE absorbed:** Genetic promiscuity may mean
    [[fungal-ecology-forest-floor]].
 In New Zealand (no native rodents), flightless wrens evolved to fill
@@ -32,7 +32,7 @@ as bestowing gifts of abundance.
 ## The McDonaldisation Debate
 The extensive extinction of specialised species and replacement by
 hardy generalists has led many biologists to conclude we are witnessing
-the "McDonaldisation of the world's biota." While the evidence is
+the "McDonaldisation of the world"s biota." While the evidence is
 
 ## Practical Applications
 

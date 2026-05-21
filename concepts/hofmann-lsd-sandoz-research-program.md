@@ -12,7 +12,7 @@ tags: [lsd]
 
 ## From Discovery to Research Program
 
-After the discovery of LSD's extraordinary psychic effects on April 19, 1943,
+After the discovery of LSD"s extraordinary psychic effects on April 19, 1943,
 the substance that five years earlier had been excluded from further
 investigation was readmitted into Sandoz's series of experimental preparations.
 Most fundamental studies on animals were carried out by Dr. Aurelio Cerletti in

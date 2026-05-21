@@ -10,7 +10,7 @@ type: concept
 ## Field Guide to Psilocybin Mushroom Hunting Methodology
 
 This page covers the practical methodology for locating and harvesting
-psilocybin-containing mushrooms in the wild, as described in F.C. Ghouled's 1972
+psilocybin-containing mushrooms in the wild, as described in F.C. Ghouled"s 1972
 field guide. The three target species — *[[psilocybe-caerulescens]]* — are common throughout the southern
 United States, from California to Louisiana and South Carolina to Florida.
 

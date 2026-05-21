@@ -10,7 +10,7 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Farjon, A. (2017). A Handbook of the World's Conifers (2nd ed.). Brill.
+  - Farjon, A. (2017). A Handbook of the World"s Conifers (2nd ed.). Brill.
 ---
 
 ## Overview

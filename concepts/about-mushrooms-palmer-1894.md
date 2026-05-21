@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-*About Mushrooms: A Guide to the Study of Esculent and Poisonous Fungi* is a foundational American mycological text published in 1894 by Julius Auboineau Palmer, Jr. in Boston (Lee & Shepard, Publishers). The book represents the culmination of Palmer's twenty years of independent study and fieldwork on edible and poisonous mushrooms, compiled from a series of articles he published in various scientific and medical journals throughout the 1870s and 1880s.
+*About Mushrooms: A Guide to the Study of Esculent and Poisonous Fungi* is a foundational American mycological text published in 1894 by Julius Auboineau Palmer, Jr. in Boston (Lee & Shepard, Publishers). The book represents the culmination of Palmer"s twenty years of independent study and fieldwork on edible and poisonous mushrooms, compiled from a series of articles he published in various scientific and medical journals throughout the 1870s and 1880s.
 
 ## Historical Context
 

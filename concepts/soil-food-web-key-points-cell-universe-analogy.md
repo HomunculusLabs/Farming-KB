@@ -9,7 +9,7 @@ tags: [soil-food-web, plant-nutrition, cell-biology, organic-gardening, philosop
 
 ## Overview
 
-The conclusion of "Teaming with Nutrients" distills the book's core principles into actionable guidelines for organic gardeners and presents a philosophical meditation on the parallels between plant cell biology and the structure of the universe. This page captures both the practical summary and the broader perspective on why understanding plant nutrition at the cellular level transforms how we think about gardening.
+The conclusion of "Teaming with Nutrients" distills the book"s core principles into actionable guidelines for organic gardeners and presents a philosophical meditation on the parallels between plant cell biology and the structure of the universe. This page captures both the practical summary and the broader perspective on why understanding plant nutrition at the cellular level transforms how we think about gardening.
 
 ## Core Principles of Natural Fertilization
 
@@ -87,7 +87,7 @@ The author's epilogue presents a provocative analogy between plant cell biology 
 
 ### The Cell Theory of Life
 
-The author proposes a "cell theory of life": that organisms on Earth may all be parts of one large cell, which itself is part of a larger universe of cells — a concept reminiscent of Dr. Seuss's *Horton Hears a Who*. This perspective suggests:
+The author proposes a "cell theory of life": that organisms on Earth may all be parts of one large cell, which itself is part of a larger universe of cells — a concept reminiscent of Dr. Seuss"s *Horton Hears a Who*. This perspective suggests:
 
 - Every action in the world affects the larger cellular system
 - Nutrient cycling mirrors how cells process and recycle materials

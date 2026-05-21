@@ -17,7 +17,7 @@ demand. The farmer maximises financial gain by offering unique products.
 - Disasters bring in money, so select few profit from imbalance
 - It is one big cycle of wrongdoing, one bad decision informing the next
 
-## Holzer's Political Vision
+## Holzer"s Political Vision
 
 ### Laws Must Serve Life
 

@@ -24,7 +24,7 @@ Ragged robin has declined significantly across much of its European range due to
 
 The plant is valued in wildlife gardening for its nectar-rich flowers that attract long-tongued bees and butterflies. It serves as an important nectar source in traditional hay meadow ecosystems.
 
-The genus name *Lychnis* derives from the Greek *lychnos* (lamp), referring to the bright flowers. The specific epithet *flos-cuculi* means "flower of the cuckoo," reflecting its coincidence of blooming with the cuckoo's arrival in spring.
+The genus name *Lychnis* derives from the Greek *lychnos* (lamp), referring to the bright flowers. The specific epithet *flos-cuculi* means "flower of the cuckoo," reflecting its coincidence of blooming with the cuckoo"s arrival in spring.
 
 ## Taxonomy and Morphology
 

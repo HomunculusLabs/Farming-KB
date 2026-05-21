@@ -17,7 +17,7 @@ forms of intelligence and information that do not conform to sanctioned instrume
 
 ## The Italian Restaurant Fallacy
 
-McKenna characterized the search for [[electromagnetic-spectrum-plant-light-perception]] and a specific product of one species' industrial
+McKenna characterized the search for [[electromagnetic-spectrum-plant-light-perception]] and a specific product of one species" industrial
 history. The expectation that extraterrestrials would use radio is, for McKenna, no more
 rational than expecting them to share human culinary preferences.
 
@@ -47,7 +47,7 @@ the signals come through unconventional channels and in unconventional formats.
 
 ## Recognizing Alien Intelligence
 
-The question of recognition is central to McKenna's argument. Even if an alien intelligence
+The question of recognition is central to McKenna"s argument. Even if an alien intelligence
 were to make contact, he suggested, it might not be recognizable as such. Life evolves under
 "so many different regimens of chemistry, temperature, and pressure, that searching for an
 extraterrestrial who will sit down and have a conversation with you is doomed to failure."
@@ -56,8 +56,8 @@ The galaxy, according to the information McKenna reports receiving in psychedeli
 communication methods bear no resemblance to human expectations.
 
 This argument has a precursor in the work of Stanislaw Lem, particularly his fictional
-"His Master's Voice," which explored the epistemological difficulties of interpreting a
-potential extraterrestrial signal. McKenna's contribution was to insist that the signals
+"His Master"s Voice," which explored the epistemological difficulties of interpreting a
+potential extraterrestrial signal. McKenna"s contribution was to insist that the signals
 are already here, arriving through human consciousness itself rather than through radio
 telescopes.
 

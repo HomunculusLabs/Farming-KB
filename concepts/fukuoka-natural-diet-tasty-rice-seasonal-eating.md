@@ -4,9 +4,9 @@ source: administrator-microsoft-word-fukuoka-textdoc.md
 type: concept
 ---
 
-## Fukuoka's Natural Diet Philosophy, Tasty Rice Critique, and Seasonal Eating
+## Fukuoka"s Natural Diet Philosophy, Tasty Rice Critique, and Seasonal Eating
 
-[[masanobu-fukuoka]]'s philosophy of natural diet extends his [[fukuoka-africa-agricultural-failure-deficit-farming-analysis]] lies not in technique but in humanity's fundamental misunderstanding of what diet represents. For Fukuoka, restoring a natural diet is inseparable from restoring [[beneficial-indigenous-microorganisms-natural-farming]] — both require abandoning [[fukuoka-nature-dissection-subjectivity-non-discriminating-knowledge]] — categorizing them as sweet, sour, bitter, hot, or tasty — feeding selectively according to impulse and fancy, producing what Fukuoka calls an "unbalanced and deficient diet." The tongue becomes the master rather than the body's deeper wisdom. This creates a self-reinforcing spiral of dissatisfaction:
+[[masanobu-fukuoka]]'s philosophy of natural diet extends his [[fukuoka-africa-agricultural-failure-deficit-farming-analysis]] lies not in technique but in humanity's fundamental misunderstanding of what diet represents. For Fukuoka, restoring a natural diet is inseparable from restoring [[beneficial-indigenous-microorganisms-natural-farming]] — both require abandoning [[fukuoka-nature-dissection-subjectivity-non-discriminating-knowledge]] — categorizing them as sweet, sour, bitter, hot, or tasty — feeding selectively according to impulse and fancy, producing what Fukuoka calls an "unbalanced and deficient diet." The tongue becomes the master rather than the body"s deeper wisdom. This creates a self-reinforcing spiral of dissatisfaction:
 
 > "Once man eats something sweet, food that he had felt until then to be sweet loses its appeal. Once he samples epicurean food, plainer fare becomes unacceptable."
 
@@ -22,13 +22,13 @@ Science, rather than correcting this loss, has deepened it. By breaking food int
 
 ## The Tasty Rice Critique
 
-### Post-War Japan's Rice Obsession
+### Post-War Japan"s Rice Obsession
 
 Following WWII, Japan experienced rice surpluses. Rather than addressing this through sensible distribution or dietary diversification, the market created an obsession with rice quality defined purely by taste. Consumers demanded "good-tasting" rice; politicians and traders pressured farmers to switch from "bad-tasting" to "tasty" varieties. The entire agricultural system was reshaped around a commercial fantasy of perfect flavor.
 
 Fukuoka saw this movement as revealing something fundamental about human delusion:
 
-> "This debate over 'good-tasting' rice alone gives a clear view of the world of fantasy in which man lives."
+> "This debate over "good-tasting' rice alone gives a clear view of the world of fantasy in which man lives."
 
 ### The Instability of Rice Quality
 
@@ -36,7 +36,7 @@ The central error is the assumption that "tasty rice" is an objective, stable qu
 
 > "No rice would win unanimous praise by a panel of samplers."
 
-The taste differences between varieties are not fixed properties. They shift depending on growing conditions: "The minor differences in taste between varieties are always subject to reversal" depending on land, method, and weather. Fukuoka estimates the reliability of maintaining a variety's inherent properties: "The chances of a rice being produced that retains the inherent properties of that variety are less than one in several hundred."
+The taste differences between varieties are not fixed properties. They shift depending on growing conditions: "The minor differences in taste between varieties are always subject to reversal" depending on land, method, and weather. Fukuoka estimates the reliability of maintaining a variety"s inherent properties: "The chances of a rice being produced that retains the inherent properties of that variety are less than one in several hundred."
 
 ### Processing and Cooking Destroy Variety Integrity
 
@@ -88,7 +88,7 @@ These traditions did not arise from [[fukuoka-critique-western-dietetics-nutriti
 
 ### Spring — The Seven Herbs and New Growth
 
-Spring brings the first tender growth after winter's dormancy. The traditional Japanese seven herbs of spring are: Japanese parsley, shepherd's purse, cudweed, chickweed, bee nettle, wild turnip, and wild radish. These bitter, vital greens cleanse the body and prepare it for the year's activity. Alongside the herbs, spring offers shellfish, bracken, osmund, cherry and persimmon and peach leaves, and bamboo shoots paired with rockfish.
+Spring brings the first tender growth after winter"s dormancy. The traditional Japanese seven herbs of spring are: Japanese parsley, shepherd's purse, cudweed, chickweed, bee nettle, wild turnip, and wild radish. These bitter, vital greens cleanse the body and prepare it for the year's activity. Alongside the herbs, spring offers shellfish, bracken, osmund, cherry and persimmon and peach leaves, and bamboo shoots paired with rockfish.
 
 ### Summer — Cooling Abundance
 

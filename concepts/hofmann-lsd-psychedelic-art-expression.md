@@ -39,7 +39,7 @@ expression rooted in unconscious mental processes.
 
 The artistic significance of LSD derives partly from its capacity to
 induce synesthesia, the blending of sensory modalities. In Werner A.
-Stoll's first psychiatric self-experiment, he described how "random
+Stoll"s first psychiatric self-experiment, he described how "random
 noises, and also noises intentionally produced by the supervisor,
 provoked simultaneous changes in the optical impressions." Every sound
 

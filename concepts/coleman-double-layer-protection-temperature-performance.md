@@ -7,7 +7,7 @@ created: 2026-05-11
 
 ## Double-Layer Protection and Temperature Performance
 
-The core innovation of [[eliot-coleman]]'s winter-harvest system is the use of two layers of protection — an outer greenhouse structure and an inner lightweight row-cover fabric suspended over the crops — to create a dramatically warmer [[cannabis-growing-environment-setup]] without any supplemental heat.
+The core innovation of [[eliot-coleman]]"s winter-harvest system is the use of two layers of protection — an outer greenhouse structure and an inner lightweight row-cover fabric suspended over the crops — to create a dramatically warmer [[cannabis-growing-environment-setup]] without any supplemental heat.
 This [[coleman-soil-heat-mass-passive-thermal-storage]] protection system is what makes cold-house winter production possible in Zone 5 Maine,
 where outdoor temperatures regularly drop to -10°F (-23°C) or lower.
 Understanding the temperature performance of each layer,
@@ -24,7 +24,7 @@ even though the outdoor environment may be Zone 5.
 
 This "zone shifting" is not exact — it varies with solar radiation,
 wind speed,  cloud cover,
-and other factors — but it provides a useful rule of thumb for understanding the system's capabilities.
+and other factors — but it provides a useful rule of thumb for understanding the system"s capabilities.
 A grower in Zone 4 could expect Zone 6 conditions,
 and a Zone 6 grower would enjoy Zone 8 conditions,
 expanding the range of winter crops accordingly.

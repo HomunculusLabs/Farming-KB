@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-The introduction of [[lsd]] into psychiatric research in the late 1940s and 1950s opened two major lines of investigation: its use as an adjunct to psychotherapy and its use as an experimental model for psychosis. This concept page examines both applications, the researchers who pioneered them, and the evolving understanding of LSD's relationship to mental illness.
+The introduction of [[lsd]] into psychiatric research in the late 1940s and 1950s opened two major lines of investigation: its use as an adjunct to psychotherapy and its use as an experimental model for psychosis. This concept page examines both applications, the researchers who pioneered them, and the evolving understanding of LSD"s relationship to mental illness.
 
 ## LSD in Psychotherapy
 
@@ -23,7 +23,7 @@ Hofmann credits several researchers who "deserve to be named in the front rank" 
 **United States:**
 - **A. K. Busch and W. C. Johnson**: Early clinical investigators
 - **S. Cohen and B. Eisner**: Pioneers of psychedelic therapy
-- **H. A. Abramson**: Conducted extensive research on LSD's effects
+- **H. A. Abramson**: Conducted extensive research on LSD"s effects
 - **H. Osmond and A. Hoffer**: Canadian researchers who coined the term "psychedelic" and developed the "psychotomimetic" model; worked with Abram Hoffer on the adrenochrome hypothesis of schizophrenia
 
 **England:**
@@ -38,7 +38,7 @@ Hofmann credits several researchers who "deserve to be named in the front rank" 
 ### Therapeutic Mechanisms
 
 The therapeutic value of LSD in psychotherapy was attributed to several mechanisms:
-- **Lowering of psychological defenses**: LSD appeared to reduce the ego's resistance to confronting painful or repressed material
+- **Lowering of psychological defenses**: LSD appeared to reduce the ego"s resistance to confronting painful or repressed material
 - **Enhanced access to unconscious content**: Patients reported vivid recall of forgotten memories, childhood experiences, and traumatic events
 - **Emotional intensification**: Feelings associated with recovered memories were experienced with unusual vividness and immediacy
 - **Cognitive flexibility**: New perspectives on longstanding problems became available during the LSD state
@@ -47,7 +47,7 @@ The therapeutic value of LSD in psychotherapy was attributed to several mechanis
 
 ### Early Enthusiasm
 
-"In the early days of LSD research, it was often claimed that LSD inebriation has something to do with a type of 'model psychosis.'" The reasoning was straightforward: if LSD could produce states that resembled schizophrenia and other psychoses, then studying the LSD experience might reveal the biochemical basis of mental illness.
+"In the early days of LSD research, it was often claimed that LSD inebriation has something to do with a type of "model psychosis.'" The reasoning was straightforward: if LSD could produce states that resembled schizophrenia and other psychoses, then studying the LSD experience might reveal the biochemical basis of mental illness.
 
 ### The Theory of Endogenous Psychotoxins
 

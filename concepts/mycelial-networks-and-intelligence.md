@@ -10,7 +10,7 @@ sources:
 ---
 ## Mycelial Networks and Intelligence
 
-Paul Stamets proposes that mycelium functions as a biological Internet -- a sentient, responsive cellular membrane that connects ecosystems and shares information. His concept of "mycelium as Nature's Internet" draws parallels between the architecture of fungal networks and both neural networks and computer information systems.
+Paul Stamets proposes that mycelium functions as a biological Internet -- a sentient, responsive cellular membrane that connects ecosystems and shares information. His concept of "mycelium as Nature"s Internet" draws parallels between the architecture of fungal networks and both neural networks and computer information systems.
 
 ## The Mycelial Net
 

@@ -69,7 +69,7 @@ planting as one of many interaction types within a richer community.
 
 ## Functional Roles Within a Guild
 
-Toby Hemenway, in his influential book *Gaia's Garden*, identified seven
+Toby Hemenway, in his influential book *Gaia"s Garden*, identified seven
 key roles that should be filled in any well-designed guild. These roles
 represent the ecological services that a healthy plant community provides
 for itself, services that conventional agriculture replaces with external

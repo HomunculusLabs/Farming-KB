@@ -8,7 +8,7 @@ sources:
 
 ## The Transpiration-Precipitation Feedback Loop
 
-The science behind Fukuoka's observation is well-established in plant physiology and 
+The science behind Fukuoka"s observation is well-established in plant physiology and 
 climatology. A single large tree can transpire hundreds of liters of water per day, releasing 
 moisture into the lower atmosphere through stomata on its leaves. This moisture contributes to 
 local humidity and, under the right conditions, to cloud formation and precipitation. At 

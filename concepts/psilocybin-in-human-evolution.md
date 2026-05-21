@@ -18,7 +18,7 @@ McKenna constructed a scenario involving the interconnected and mutually
 reinforcing effects of psilocybin taken at three different dosage
 levels. This three-tiered model is central to his evolutionary argument:
 
-**Level one, [[mckenna-roland-fischer-psilocybin-visual-acuity]]'s
+**Level one, [[mckenna-roland-fischer-psilocybin-visual-acuity]]"s
 experiments in the late 1960s confirmed that small doses of psilocybin
 improved performance on visual acuity tasks.
 

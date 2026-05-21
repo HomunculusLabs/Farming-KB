@@ -1,5 +1,5 @@
 ---
-title: "Cannabis and Gastrointestinal Disorders: IBS, Crohn's, and Colitis"
+title: "Cannabis and Gastrointestinal Disorders: IBS, Crohn"s, and Colitis"
 created: 2026-04-26
 tags: [gastrointestinal, ibs, crohns-disease, ulcerative-colitis, gut-brain-axis]
 date: 2026-04-25
@@ -7,7 +7,7 @@ updated: 2026-04-25
 sources:
 type: concept
 ---
-# Cannabis and Gastrointestinal Disorders: IBS, Crohn's, and Colitis
+# Cannabis and Gastrointestinal Disorders: IBS, Crohn"s, and Colitis
 
 The gastrointestinal (GI) tract contains the highest density of cannabinoid
 receptors in the body -- even surpassing the brain. In "The [[anandamide-aea]])

@@ -11,11 +11,11 @@ tags: [toxic]
 
 ## Overview
 
-In *The [[andrew-weil]] develops a comprehensive theory of consciousness that reinterprets intoxication not as a disruption of normal function but as one expression of the nervous system's inherent capacity to generate diverse states of awareness. This theory stands in direct opposition to the dominant pharmacological model, which treats drugs as external agents that "cause" altered states by imposing themselves on an otherwise stable nervous system.
+In *The [[andrew-weil]] develops a comprehensive theory of consciousness that reinterprets intoxication not as a disruption of normal function but as one expression of the nervous system"s inherent capacity to generate diverse states of awareness. This theory stands in direct opposition to the dominant pharmacological model, which treats drugs as external agents that "cause" altered states by imposing themselves on an otherwise stable nervous system.
 
 ## The Active Nervous System
 
-The central insight of Weil's consciousness theory is that the nervous system is not merely a passive receiver of sensory input. Instead, it is an active generator of experience — it produces consciousness rather than simply transmitting it. This means that the brain has intrinsic mechanisms for shifting between different states, independent of external chemical intervention.
+The central insight of Weil"s consciousness theory is that the nervous system is not merely a passive receiver of sensory input. Instead, it is an active generator of experience — it produces consciousness rather than simply transmitting it. This means that the brain has intrinsic mechanisms for shifting between different states, independent of external chemical intervention.
 
 Weil argues that ordinary waking consciousness is a constructed state — the product of the nervous system actively filtering, organizing, and limiting experience. At any given moment, the brain is receiving far more sensory input than it processes, and it has access to far more internal states than it ordinarily expresses. Ordinary consciousness is a selection from a much larger field of possible experiences. Drugs do not so much "add" something new as they disrupt these ordinary filtering mechanisms, allowing experiences that are normally suppressed to come through. In this model, the drug is not the cause of the altered state but rather the trigger that allows an inherent capacity of the nervous system to express itself.
 
@@ -33,7 +33,7 @@ The radio analogy also helps explain why different people have such different ex
 
 Weil proposes a hierarchy of methods for altering consciousness, ranging from internal to external:
 
-**Internal methods** (working directly with the nervous system's own mechanisms):
+**Internal methods** (working directly with the nervous system"s own mechanisms):
 - Meditation and contemplative practices
 - Controlled breathing (pranayama, [[lsd-set-and-setting-framework]] and setting.
 3. **The effects of drugs are not all-or-nothing** — they exist on a dose-response curve that is continuous, not categorical.

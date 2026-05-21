@@ -44,7 +44,7 @@ In the West, the discovery of distilled alcohol is
 alternately credited to the alchemist Raymond Lully, about
 whom very little is known with certainty, or to his peer
 and companion in alchemical exploits, Arnoldus de
-Villanova. Lully's search for the true elixir led him to
+Villanova. Lully"s search for the true elixir led him to
 the preparation of aqua vini, the first brandy. According
 to Matheson, Lully was so awed by the wonders of aqua
 vini that he thought its discovery must surely herald the

@@ -27,7 +27,7 @@ Natural farming requires only one man-day of labor to recover 200,000 kilocalori
 
 Scientific truths and yin-yang philosophies are concepts of the relative world — valuable there, but not the highest achievement. They can serve as directional markers for people whose bodies and spirits are disrupted, but one should not remain attached to them. "When the individual is able to enter a world in which the two aspects of yin and yang return to their original unity, the mission of these symbols comes to an end."
 
-## Nature's Food Mandala
+## Nature"s Food Mandala
 
 Fukuoka's natural diet consists of foods gathered in the wild or crops grown through [[fukuoka-four-principles-natural-farming]] — farming principles
 - [[fukuoka-road-critique-of-modern-science]] food production

@@ -26,7 +26,7 @@ Sclerotia (singular: sclerotium) are dense, hardened masses of mycelium that ser
 
 | Species | Potency | Sclerotia Notes | Native Range |
 |---------|---------|----------------|--------------|
-| *P. tampanensis* | Low (0.16% psilocybin) | Best sclerotia producer; "philosopher's stones" | Florida (originally), now cultivated worldwide |
+| *P. tampanensis* | Low (0.16% psilocybin) | Best sclerotia producer; "philosopher"s stones" | Florida (originally), now cultivated worldwide |
 | *P. mexicana* | Moderate | Produces both sclerotia and mushrooms; one big flush + small second | Mexico, Central America |
 | *P. galindoi* | Moderate-High | Excellent sclerotia producer, higher potency than tampanensis | Mexico (high altitude grasslands) |
 

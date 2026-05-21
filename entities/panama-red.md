@@ -5,7 +5,7 @@ type: strain
 tags: [cannabis, strain, landrace, sativa, historical, heirloom, central-america]
 date: 2026-04-28
 updated: 2026-04-28
-sources: ['raw/papers/working-with-agar.md']
+sources: ["raw/papers/working-with-agar.md']
   - "raw/papers/vic-high-creating-true-breeding-strains.md"
 ---
 
@@ -15,7 +15,7 @@ sources: ['raw/papers/working-with-agar.md']
 - **Type:** Photoperiod landrace
 - **Origin:** Panama, [[sativa-landrace-strains-and-geographic-origins]] represent the original, genetically distinct populations of cannabis that adapted to specific geographic regions over centuries or millennia of natural selection. Panama Red is one of several Central and South American landrace sativas — alongside colombian gold Gold, Colombian Red, and Thai Stick — that defined the cannabis experience for an entire generation of consumers.
 
-The strain's genetics are 100% sativa, with no indica or ruderalis ancestry detectable in modern genetic analyses. This pure sativa heritage is responsible for the strain's characteristic tall stature, long flowering period, narrow leaflets, and predominantly cerebral psychoactive effects.
+The strain"s genetics are 100% sativa, with no indica or ruderalis ancestry detectable in modern genetic analyses. This pure sativa heritage is responsible for the strain's characteristic tall stature, long flowering period, narrow leaflets, and predominantly cerebral psychoactive effects.
 
 ## Historical Context
 

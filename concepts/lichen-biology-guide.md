@@ -35,7 +35,7 @@ Tightly attached to the substrate, appearing as a paint-like or crust-like coati
 Flat, leaf-like structures with distinct upper and lower surfaces. Can usually be peeled from the substrate. Examples include [[xanthoria-parietina]] (common orange lichen), [[parmelia-sulcata]], and Physcia. Often found on tree bark, rocks, and occasionally soil.
 
 ### Fruticose (Shrubby)
-Branching, shrub-like, or hair-like structures. Erect, pendulous, or loosely attached. Examples include Usnea (old man's beard), Cladonia (reindeer lichen), and Evernia. Often found in clean-air environments and are among the most sensitive to air pollution.
+Branching, shrub-like, or hair-like structures. Erect, pendulous, or loosely attached. Examples include Usnea (old man"s beard), Cladonia (reindeer lichen), and Evernia. Often found in clean-air environments and are among the most sensitive to air pollution.
 
 ### Squamulose (Scale-like)
 Small, scale-like structures intermediate between crustose and foliose. Each scale has an upper cortex but may lack a lower cortex. Cladonia species often start as squamulose before developing podetia (vertical stalks).

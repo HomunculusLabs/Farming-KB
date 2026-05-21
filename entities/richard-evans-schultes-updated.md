@@ -29,7 +29,7 @@ Richard Evans Schultes (1915-2001) was a Harvard ethnobotanist widely regarded a
 ## Key Contributions
 
 - Pioneered the study of psychoactive plants in their cultural contexts across Amazonia, identifying numerous species used by Indigenous peoples
-- Documented ayahuasca (Banisteriopsis caapi) use among Amazonian tribes; Richard Spruce's 1851 discovery was confirmed and expanded
+- Documented ayahuasca (Banisteriopsis caapi) use among Amazonian tribes; Richard Spruce"s 1851 discovery was confirmed and expanded
 - Identified Virola species as the source of potent hallucinogenic snuffs used in the northwest Amazon (1954)
 - Studied the use of yopo (Anadenanthera peregrina) snuff in the Orinoco basin
 - Research on ololiuqui (Rivea corymbosa) and tlitliltzin (Ipomoea violacea) morning glory seeds

@@ -42,7 +42,7 @@ what [[shamanic-ecstasy-and-healing]] what later became institutional
 religion. He argues that shamanism at its fullest is not simply religion but a dynamic connection
 into the totality of life on the planet. The late, decadent phase of shamanism is characterized
 by elaborate rituals, ordeals, and reliance on pathological personalities. Where these phenomena
-are central, shamanism is, in McKenna's view, well on its way to becoming simply "religion."
+are central, shamanism is, in McKenna"s view, well on its way to becoming simply "religion."
 
 This position put McKenna at odds with Mircea Eliade, who considered what he called "narcotic"
 

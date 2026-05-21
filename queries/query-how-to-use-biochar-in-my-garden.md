@@ -4,7 +4,7 @@ created: 2026-04-28
 tags: [query, biochar, soil-amendment, carbon-sequestration, soil-health]
 date: 2026-04-25
 updated: 2026-04-25
-sources: ['raw/papers/unknown-biodiversity-fungi-soil-fungal-communities|biodiversity-of-fungi.md']
+sources: ["raw/papers/unknown-biodiversity-fungi-soil-fungal-communities|biodiversity-of-fungi.md']
 type: query
 ---
 

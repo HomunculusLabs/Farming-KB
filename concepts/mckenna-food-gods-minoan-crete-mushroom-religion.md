@@ -26,7 +26,7 @@ type: concept
 
 ## Overview
 
-Minoan Crete occupies a pivotal position in Terence McKenna's grand narrative of human cultural evolution. For three millennia, while the [[mckenna-food-gods-ergot-kykeon-eleusinian|Eleusis]].
+Minoan Crete occupies a pivotal position in Terence McKenna"s grand narrative of human cultural evolution. For three millennia, while the [[mckenna-food-gods-ergot-kykeon-eleusinian|Eleusis]].
 
 ## The Fall of Catal Huyuk
 

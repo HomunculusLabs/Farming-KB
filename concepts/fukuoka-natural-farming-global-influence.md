@@ -10,7 +10,7 @@ sources:
 
 ## Natural Farming Global Influence
 
-The publication of Masanobu Fukuoka's "The One [[fukuoka-the-one-straw-revolution-final-chapter]] resonated with people who sensed that something was fundamentally wrong with modern civilization's relationship to nature. The book offered not just farming techniques but a complete worldview in which human beings could live in harmony with the earth.
+The publication of Masanobu Fukuoka"s "The One [[fukuoka-the-one-straw-revolution-final-chapter]] resonated with people who sensed that something was fundamentally wrong with modern civilization"s relationship to nature. The book offered not just farming techniques but a complete worldview in which human beings could live in harmony with the earth.
 
 ## Visitors to the Farm
 

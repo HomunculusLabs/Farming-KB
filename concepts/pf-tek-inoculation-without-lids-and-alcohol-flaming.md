@@ -63,7 +63,7 @@ PF specifically recommends alcohol flame over butane cigarette lighters because 
 
 ### What Happens to Spores During Flaming
 
-A practical concern is whether flaming the needle kills spores inside the syringe. PF addressed this directly: "There might be a few 'pops' of boiling water spurt out of the needle, but the spores within the syringe are safe." The brief exposure at the needle tip does not transfer enough heat through the metal to affect spores in the syringe body.
+A practical concern is whether flaming the needle kills spores inside the syringe. PF addressed this directly: "There might be a few "pops' of boiling water spurt out of the needle, but the spores within the syringe are safe." The brief exposure at the needle tip does not transfer enough heat through the metal to affect spores in the syringe body.
 
 ### Storage After Use
 

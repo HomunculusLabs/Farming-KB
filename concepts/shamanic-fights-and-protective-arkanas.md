@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-Shamanic fights (*peleas de brujos* or *shitanería*) form a central category of visionary experience in [[chullachaki-and-soul-recovery-in-amazonian-shamanism]], the boundary between healing and sorcery is not absolute but relational: the same knowledge, spirit allies, and techniques can be used for either purpose depending on the practitioner's intent. A *banco* (master of the three realms) may cure, but an evil banco "usually does harm." This duality is embedded in the very structure of [[query-how-do-plants-defend-themselves-chemically]].
+Shamanic fights (*peleas de brujos* or *shitanería*) form a central category of visionary experience in [[chullachaki-and-soul-recovery-in-amazonian-shamanism]], the boundary between healing and sorcery is not absolute but relational: the same knowledge, spirit allies, and techniques can be used for either purpose depending on the practitioner"s intent. A *banco* (master of the three realms) may cure, but an evil banco "usually does harm." This duality is embedded in the very structure of [[query-how-do-plants-defend-themselves-chemically]].
 - **Huaira-umas (forgetful minds)**: Snakes that cast spells driving victims crazy and making them forget their defensive knowledge.
 - **Sepultura tonduri**: A "very sad and frightening icaro" sung by sorcerers to kill their enemies, literally meaning "grave funeral." It summons the Sachamama (mother of the forest) to swallow the victim, with the motelo-mama (tortoise) serving as the funeral table, mushrooms as candles, and fireflies as their flames.
 
@@ -35,7 +35,7 @@ This battle between a Shetebo sorcerer and a Shipibo healer illustrates the full
 5. **Allpa-raya**: A land ray that stings and can fly in pursuit
 6. **Ishkay-huahua-supay**: A two-headed creature that confuses enemies by producing weeping sounds from multiple locations
 7. **Mocagua**: A pot-shaped vessel in which the healer flies at great speeds
-8. **Black tibes**: Water-diving birds that attack the sorcerer's eyes
+8. **Black tibes**: Water-diving birds that attack the sorcerer"s eyes
 9. **Guacamayo-machaco**: A snake with a woman's breasts and human arms that throws poisoned daggers
 10. **Sapo-machaco**: A snake-toad with rapid biting and deadly poison
 

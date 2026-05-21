@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-Soil pollution from agricultural chemicals, industrial waste, and urban contamination represents one of the most persistent and difficult environmental challenges of the modern era. [[permaculture]]: A Designers' Manual* draws on real-world cases from Australian agriculture to illustrate both the severity of contamination and the limited strategies available for remediation.
+Soil pollution from agricultural chemicals, industrial waste, and urban contamination represents one of the most persistent and difficult environmental challenges of the modern era. [[permaculture]]: A Designers" Manual* draws on real-world cases from Australian agriculture to illustrate both the severity of contamination and the limited strategies available for remediation.
 
 ## Sources of Agricultural Soil Pollution
 

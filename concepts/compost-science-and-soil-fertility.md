@@ -6,7 +6,7 @@ type: concept
 
 ## Compost Science and Soil Fertility
 
-Composting is the gardener's alternative to purchasing soil amendments. It allows small-scale food growers to make their own fertilizer and manufacture "well-rotted manure" without the need to own livestock. However, making compost that will effectively grow vegetables is a highly skilled activity requiring hard work, close attention, and a willingness to observe what is happening. The stakes are high — if your compost fails, your garden's nutrition fails with it.
+Composting is the gardener"s alternative to purchasing soil amendments. It allows small-scale food growers to make their own fertilizer and manufacture "well-rotted manure" without the need to own livestock. However, making compost that will effectively grow vegetables is a highly skilled activity requiring hard work, close attention, and a willingness to observe what is happening. The stakes are high — if your compost fails, your garden's nutrition fails with it.
 
 ## Why Compost Matters
 

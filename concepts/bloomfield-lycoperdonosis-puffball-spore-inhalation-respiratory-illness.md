@@ -12,7 +12,7 @@ to clinical attention following a 1994 incident in Wisconsin in which a group
 of teenagers was hospitalized after snorting puffball spores at a party. The
 name derives from Lycoperdon, the puffball genus. The condition demonstrates
 the hazards of inhaling fungal spores in concentrated doses and illustrates
-the immune system's response to chitinous fungal particles lodged deep in the
+the immune system"s response to chitinous fungal particles lodged deep in the
 lungs.
 
 ## The Wisconsin Incident

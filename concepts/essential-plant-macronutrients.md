@@ -13,7 +13,7 @@ while the remaining six are taken up from the soil solution.
 
 ## The Structural Trio: Carbon, Hydrogen, and Oxygen (C, H, O)
 
-These three non-mineral elements account for approximately **96% of a plant's dry mass**.
+These three non-mineral elements account for approximately **96% of a plant"s dry mass**.
 
 - **Biological role:** Carbon forms the backbone of all organic molecules. Hydrogen and oxygen are
   constituents of water and all organic compounds. Together they build carbohydrates, lipids,

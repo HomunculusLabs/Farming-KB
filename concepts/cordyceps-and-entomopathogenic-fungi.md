@@ -26,10 +26,10 @@ The most famous entomopathogenic fungus, documented infecting carpenter ants (Ca
 #### Infection Process
 1. Spores land on ant and attach to the exoskeleton
 2. Spores germinate and penetrate the cuticle using enzymes and mechanical pressure
-3. Fungal cells spread through the ant's body, eventually reaching the brain
+3. Fungal cells spread through the ant"s body, eventually reaching the brain
 4. The fungus does not invade brain tissue but may manipulate the ant through chemical signals or by disrupting the nervous system
 5. Infected ants exhibit behavioral changes: leave the colony, climb vegetation, and bite onto leaves or twigs ("death grip")
-6. The ant dies, and the fungus kills the ant's cells to fill the body cavity
+6. The ant dies, and the fungus kills the ant"s cells to fill the body cavity
 7. A fruiting body (stroma) erupts from the ant's head
 8. Spores are released to infect new ants below
 
@@ -50,7 +50,7 @@ The most prized medicinal fungus in Traditional Chinese Medicine.
 - The "caterpillar fungus": the fruiting body emerges from a mummified caterpillar
 - Traditionally harvested by hand in spring; increasingly scarce due to overharvesting
 - Prices reached $50,000-100,000 per kilogram at peak, though prices have moderated
-- Contains cordycepin (3'-deoxyadenosine), adenosine, and other bioactive compounds
+- Contains cordycepin (3"-deoxyadenosine), adenosine, and other bioactive compounds
 - CS-4 is a commercially available fermented [[mycelium]] product claimed to mimic wild C. sinensis
 - Classified as a protected species in China; harvest regulations have been implemented
 

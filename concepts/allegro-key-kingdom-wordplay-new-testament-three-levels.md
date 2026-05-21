@@ -14,23 +14,23 @@ Foremost among the literary devices used was word-play or punning, already well-
 
 This conception of language meant that homophones carried genuine theological weight. A word that sounded like another word was not merely coincidental; it was a sign that the two concepts were interconnected at the deepest level of reality. The sacred writer exploited this principle systematically, embedding Aramaic [[allegro-plants-and-drugs-in-the-ancient-world]].
 
-## Belshazzar's Writing — MENE TEKEL PARSIN
+## Belshazzar"s Writing — MENE TEKEL PARSIN
 
 The mysterious writing on the wall in Daniel 5 — *MENE TEKEL PARSIN* — receives a mushroom-cult decoding in Allegro's framework:
 
 - **MENE**: An invocation, linking to *Meni*, the Sumerian fate demon (*NAM-TAR*), "the Counter" or apportioner of destiny.
-- **TEKEL**: The bolt-fungus, sharing the *t-q-l* root with *tiqlä'* (shekel), the coin-weight of the cult.
+- **TEKEL**: The bolt-fungus, sharing the *t-q-l* root with *tiqlä"* (shekel), the coin-weight of the cult.
 - **PARSIN**: From Sumerian *BAR-SIL*, meaning "womb" — the volva of the mushroom.
 
-The device used so often in the New Testament of following a genuine name for the sacred fungus with a false translation — readable by initiates as the true mushroom name — was an established part of mushroom mythology long before the writer of Mark's gospel. The Daniel story thus demonstrates that this literary technique has deep roots in Near Eastern tradition.
+The device used so often in the New Testament of following a genuine name for the sacred fungus with a false translation — readable by initiates as the true mushroom name — was an established part of mushroom mythology long before the writer of Mark"s gospel. The Daniel story thus demonstrates that this literary technique has deep roots in Near Eastern tradition.
 
 ## Peter as Mushroom — Keys of the Kingdom
 
 In Matthew 16:18–19, Jesus says to Peter: "You are Peter (*Petros*), and upon this rock (*petra*) I will build my church… I will give you the keys of the kingdom of heaven." Allegro reads this as a mushroom-identity passage operating across multiple name-equivalences:
 
-- **Peter**: From Aramaic *piträ'*, meaning "mushroom."
-- **Bar-jonah**: Interpreted via *Paeonia*, "capsule of fecundity" or "womb" — the mushroom's reproductive vessel.
-- **Satan**: When Jesus calls Peter "Satan" (Matt 16:23), the name relates to *stanion* / *setania* (onion / mushroom), reinforcing the [[sumerian-mushroom-nomenclature]] name, *MASh-BA(LA)-GANTALA*, read as "thou art the permitter (releaser) of the kingdom." The sole prerogative of "binding" and "loosing" lay with God — and the deity was present in the mushroom. The keys entrusted to Peter are thus the mushroom's power to open the gates of the Kingdom.
+- **Peter**: From Aramaic *piträ"*, meaning "mushroom."
+- **Bar-jonah**: Interpreted via *Paeonia*, "capsule of fecundity" or "womb" — the mushroom"s reproductive vessel.
+- **Satan**: When Jesus calls Peter "Satan" (Matt 16:23), the name relates to *stanion* / *setania* (onion / mushroom), reinforcing the [[sumerian-mushroom-nomenclature]] name, *MASh-BA(LA)-GANTALA*, read as "thou art the permitter (releaser) of the kingdom." The sole prerogative of "binding" and "loosing" lay with God — and the deity was present in the mushroom. The keys entrusted to Peter are thus the mushroom"s power to open the gates of the Kingdom.
 
 ## Three Levels of New Testament Understanding
 
@@ -42,9 +42,9 @@ This is the story of Jesus as it appears in the Greek text — homiletic teachin
 
 ### 2. The Semitic Word-Play Level
 
-Beneath the Greek lies a stratum of Aramaic puns and homophones — the *tiqlä'* (bolt/mushroom/shekel) complex, the *khardelä'* / *'ardilä'* (mustard/mushroom) interchange, and the *TAB-BA-RI* (kingdom) word-play. These puns are accessible only to bilingual readers who recognize that the Greek words mask Semitic sounds with entirely different meanings.
+Beneath the Greek lies a stratum of Aramaic puns and homophones — the *tiqlä"* (bolt/mushroom/shekel) complex, the *khardelä'* / *'ardilä'* (mustard/mushroom) interchange, and the *TAB-BA-RI* (kingdom) word-play. These puns are accessible only to bilingual readers who recognize that the Greek words mask Semitic sounds with entirely different meanings.
 
-The mustard seed parable illustrates this principle perfectly. The Aramaic *khardelä'* ("mustard") is phonetically close to *'ardilä'* ("mushroom"). As Allegro notes: "They could have saved themselves the trouble since the reference… is simply a play on the Semitic." The elaborate botanical metaphor about the smallest seed growing into the greatest of shrubs was unnecessary for those who caught the pun — the "mustard" was already the mushroom.
+The mustard seed parable illustrates this principle perfectly. The Aramaic *khardelä'* ("mustard") is phonetically close to *"ardilä'* ("mushroom"). As Allegro notes: "They could have saved themselves the trouble since the reference… is simply a play on the Semitic." The elaborate botanical metaphor about the smallest seed growing into the greatest of shrubs was unnecessary for those who caught the pun — the "mustard" was already the mushroom.
 
 ### 3. The Mushroom Cult Philosophy Level
 

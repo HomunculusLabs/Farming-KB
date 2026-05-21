@@ -13,7 +13,7 @@ tags: [farming, rice, barley, no-till, direct-seeding, natural-farming, fukuoka]
 
 ## Influence on Modern No-Till Agriculture
 
-Fukuoka's no-till rice and grain system has influenced agricultural movements worldwide. Larry Korn, who lived and worked on Fukuoka's farm for two years, noted that many researchers in mainstream [[fungi-around-the-world-species-distribution]]. While the specific techniques (clover varieties, timing, crop selection) require local adaptation, the underlying principles — no tillage, permanent ground cover, surface seeding, and straw mulch — have proven broadly applicable.
+Fukuoka"s no-till rice and grain system has influenced agricultural movements worldwide. Larry Korn, who lived and worked on Fukuoka's farm for two years, noted that many researchers in mainstream [[fungi-around-the-world-species-distribution]]. While the specific techniques (clover varieties, timing, crop selection) require local adaptation, the underlying principles — no tillage, permanent ground cover, surface seeding, and straw mulch — have proven broadly applicable.
 
 ## Challenges for Adopters
 
@@ -23,9 +23,9 @@ Fukuoka also warned that the system cannot be partially adopted. Mixing natural 
 
 ## The Natural Balance of Insects
 
-One of the most striking aspects of Fukuoka's rice fields was the abundance of insect life. While conventional flooded rice fields appeared sterile — "neat and tidy, straight rows of rice grown in flooded fields with no weeds and no insects of any kind" — Fukuoka's fields teemed with life. Larry Korn described the scene: "Insects were flying about everywhere; the field was not flooded, but dry."
+One of the most striking aspects of Fukuoka"s rice fields was the abundance of insect life. While conventional flooded rice fields appeared sterile — "neat and tidy, straight rows of rice grown in flooded fields with no weeds and no insects of any kind" — Fukuoka"s fields teemed with life. Larry Korn described the scene: "Insects were flying about everywhere; the field was not flooded, but dry."
 
-Fukuoka understood that this insect diversity was not a problem but a solution. An agricultural expert from the Kochi Prefecture Testing Centre visited to investigate why rice leafhoppers were scarce in Fukuoka's unsprayed fields. He discovered that while harmful insects were few, their natural predators were far more numerous than in the chemically sprayed fields. The fields were being maintained "by means of a natural balance established among the various insect communities."
+Fukuoka understood that this insect diversity was not a problem but a solution. An agricultural expert from the Kochi Prefecture Testing Centre visited to investigate why rice leafhoppers were scarce in Fukuoka"s unsprayed fields. He discovered that while harmful insects were few, their natural predators were far more numerous than in the chemically sprayed fields. The fields were being maintained "by means of a natural balance established among the various insect communities."
 
 This observation has profound implications for pest management. When pesticides are applied, both pests and predators are killed, but pests typically recover faster due to their shorter life cycles and higher reproductive rates. The result is a pesticide treadmill: each application creates conditions that favor the next pest outbreak, requiring ever more spraying. Fukuoka's approach, by maintaining the full insect community, achieved pest control through [[solomon-root-exudates-and-allelopathy]].
 

@@ -4,7 +4,7 @@ source: allegro-j-the-sacred-mushroomcross.md
 type: concept
 ---
 
-## The Paean, Halleluia, the Lord's Prayer, and Abracadabra as Mushroom Codes
+## The Paean, Halleluia, the Lord"s Prayer, and Abracadabra as Mushroom Codes
 
 John M. Allegro argues that many of the most familiar invocations and prayers in the
 Christian tradition—including the Bacchic paean cry, Halleluia, the Lord's Prayer, and the
@@ -34,11 +34,11 @@ presented in Mark 15:34 as a quotation from Psalm 22:1. Allegro shows that the H
 Psalm 22 is nowhere rendered by "Eloi, Eloi, lama," and that "sabachthani" is a strange
 Aramaic form without clear precedent. He argues that the phrase is actually a clever
 approximation to the [[sumerian-mushroom-nomenclature]] name LI_4PSh_BA(LA)3_ANTA—the Aesculapius
-component of Dioscorides' incantation. The full incantatory phrase reconstructs as
+component of Dioscorides" incantation. The full incantatory phrase reconstructs as
 E_LA_IA, E_LA_UIA, LI-MASh-BA(LA)G-ANTA.
 
 The name "Elijah" is formed from the same linguistic elements as Elohini and eleleu,
-and Allegro reads its appearance in the bystanders' remark—"Behold, he is calling
+and Allegro reads its appearance in the bystanders" remark—"Behold, he is calling
 Elijah"—as a deliberate clue planted by the cryptographers to signal that the utterance
 on the cross is an incantation, not a prayer of dereliction. The evangelist has thus
 embedded within the passion narrative a pointer to the mushroom vocabulary, accessible
@@ -50,7 +50,7 @@ the divine names Elohini and Eloi.
 The exhortation "Awake, sleeper, and rise from the dead" (Eph 5:14) operates as
 word-play on the Sumerian AN_BAR(AB-BA)_NA-IM-A-AN, meaning "canopy of sky stretched
 out above"—a mushroom epithet describing the opened umbel. The component NA-IM-A-AN
-embeds the Adonis name Na'iman, linking the passage to fertility-cult mythology.
+embeds the Adonis name Na"iman, linking the passage to fertility-cult mythology.
 Allegro notes that shortened forms of this compound yielded both the Hebrew tribal name
 "Ephraim" and the patriarchal name "Abraham" through different dialectal developments.
 The element AN-BAR/AB-BA, meaning "heaven-stretch," functions as a sheltering canopy
@@ -61,13 +61,13 @@ earth like a canopy unfurled above the ground.
 
 ## "Abba, Father" (Romans 8:16; Galatians 4:6; Mark 14:36)
 
-The doubling of Aramaic 'abbā' with Greek "father" in Romans 8:16, Galatians 4:6, and
+The doubling of Aramaic "abbā' with Greek "father" in Romans 8:16, Galatians 4:6, and
 Mark 14:36 has long puzzled commentators, since translating the common Aramaic word is
 redundant. Allegro concludes the duplication must be incantatory rather than explanatory.
 He reads it as a play on the Sumerian I3_BA_TAB_BA_RI, with the consonants b/p and t
 transposed in the transmission. In the Epistles the expression appears in passages
 concerned with the Spirit witnessing within the believer; in the Gospels it is placed in
-Jesus' mouth during the Agony in the Garden, locating the mushroom incantation at a
+Jesus" mouth during the Agony in the Garden, locating the mushroom incantation at a
 moment of ritual preparation. The redundancy that bothers scholars is, on Allegro's
 reading, the whole point: the repeated syllable is the operative part of the charm.
 
@@ -75,12 +75,12 @@ reading, the whole point: the repeated syllable is the operative part of the cha
 
 The opening address of the Lord's Prayer—"Our father who art in heaven"—corresponds to
 the fuller mushroom title AB_BA_T_BA_PJ_GI. Allegro argues that the cryptographers teased
-this Sumerian string into Aramaic as 'abbi' debareqi'a' ("my father who art in heaven"),
+this Sumerian string into Aramaic as "abbi' debareqi'a' ("my father who art in heaven"),
 producing a phrase that sounds like conventional Jewish prayer while encoding the
 complete fungal name. He identifies this as the original form of "abracadabra," attested
 by Q. Serenus Sammonicus, a Gnostic physician of the second to third century CE.
 
-Sammonicus' instructions for using abracadabra reinforce its cultic character: the word
+Sammonicus" instructions for using abracadabra reinforce its cultic character: the word
 was to be stitched in diminishing cross form on parchment, worn as an amulet in the
 bosom for nine days, and then thrown backwards before sunrise into a stream flowing
 eastward—a [[duggar-mushroom-harvest-and-post-harvest]] offering.

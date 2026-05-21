@@ -12,7 +12,7 @@ sources:
 
 **Source:** The [[cannabis-for-mental-health]] implications are significant for tinnitus patients. The psychological impact of tinnitus -- anxiety, depression, sleep disruption, and reduced quality of life -- is often more debilitating than the tinnitus itself. By addressing these secondary effects, CBD may substantially improve tinnitus-related quality of life even if it does not directly reduce the perceived sound.
 
-The endocannabinoid anandamide modulates sensory gating mechanisms that filter irrelevant sensory input. Dysfunction in sensory gating may contribute to the brain's inability to "tune out" the tinnitus signal, and restoring balanced endocannabinoid tone through CBD may improve this filtering capacity.
+The endocannabinoid anandamide modulates sensory gating mechanisms that filter irrelevant sensory input. Dysfunction in sensory gating may contribute to the brain"s inability to "tune out" the tinnitus signal, and restoring balanced endocannabinoid tone through CBD may improve this filtering capacity.
 
 ## Clinical Evidence
 

@@ -1,6 +1,6 @@
 ---
 title: Fungal Radionuclide Accumulation
-source: 'john-dighton-fungi-in-ecosystem-processes.md'
+source: "john-dighton-fungi-in-ecosystem-processes.md'
 type: concept
 ---
 
@@ -29,7 +29,7 @@ Fungi play a remarkably significant role in the cycling and bioaccumulation of r
 - **Potassium analogue substitution**: ¹³⁷Cs exploits potassium transport channels in fungal hyphae. Ectomycorrhizal fungi with extensive mycelial networks can access cesium from soil horizons beyond the reach of plant roots alone.
 - **Hyphal translocation**: Mycelial networks redistribute radionuclides within soil profiles, potentially moving ¹³⁷Cs from deeper mineral soil layers into the organic horizon where fruiting bodies form.
 - **Selective bioaccumulation**: Some fungal species actively concentrate cesium in their tissues at ratios of 10:1 to 1000:1 (fungus:soil), a process termed the "aggregation factor" or "concentration ratio."
-- **Host-mediated effects**: Clint and Dighton's work on radiocaesium uptake by mycorrhizal heather (*[[calluna-vulgaris]]*) showed that the mycorrhizal association significantly altered cesium dynamics compared to non-mycorrhizal plants.
+- **Host-mediated effects**: Clint and Dighton"s work on radiocaesium uptake by mycorrhizal heather (*[[calluna-vulgaris]]*) showed that the mycorrhizal association significantly altered cesium dynamics compared to non-mycorrhizal plants.
 
 ### Arbuscular Mycorrhizal Involvement
 

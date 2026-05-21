@@ -9,7 +9,7 @@ tags: [illness, concept, mazatec, shamanism, trauma, traditional-medicine, spiri
 
 ## Description
 
-Susto, known among the Mazatec Indians as "fright," is a culture-bound syndrome recognized across Latin American indigenous and folk medical traditions. In the Mazatec understanding, susto is a traumatic neurosis in which a frightening event causes the spirit (soul) to separate from the body, leaving the person alienated, depressed, and physically unwell. The mushrooms are considered the primary medicine for this condition, and the shaman's task is to locate the wandering spirit and reintegrate it with the sufferer's personality.
+Susto, known among the Mazatec Indians as "fright," is a culture-bound syndrome recognized across Latin American indigenous and folk medical traditions. In the Mazatec understanding, susto is a traumatic neurosis in which a frightening event causes the spirit (soul) to separate from the body, leaving the person alienated, depressed, and physically unwell. The mushrooms are considered the primary medicine for this condition, and the shaman"s task is to locate the wandering spirit and reintegrate it with the sufferer's personality.
 
 ## Classification
 
@@ -27,15 +27,15 @@ Susto, known among the Mazatec Indians as "fright," is a culture-bound syndrome 
 - The spirit may be appropriated by supernatural forces in the landscape — spirits of rivers, wells, grottos, and abysses
 - The shaman must "look for the extravagated spirit, find it, bring it back, and reintegrate the personality of the sick one"
 - If necessary, the shaman pays the powers that have taken the spirit by burying cacao beans wrapped in bark cloth at the divined place of fright
-- Roman Estrada's case demonstrates a classic susto: his spirit fled after a traumatic hospital operation under ether anesthesia
+- Roman Estrada"s case demonstrates a classic susto: his spirit fled after a traumatic hospital operation under ether anesthesia
 - The mushrooms "show" the shaman the location and nature of the fright, enabling targeted intervention
 - The condition manifests as apathy, depression, loss of will to live, and unresponsiveness — despite absence of physical pathology
 - Conventional medicine is considered ineffective against susto because it cannot address the spiritual dimension of the illness
-- The treatment involves the shaman entering an altered state to track the patient's spirit through visionary space
+- The treatment involves the shaman entering an altered state to track the patient"s spirit through visionary space
 
 ## Relevance to Cultivation and Mycology
 
-The susto concept is central to understanding why the Mazatec use psilocybin mushrooms therapeutically. The mushrooms are understood as medicines specifically suited to spiritual illness — conditions where the problem is not physiological but existential. The psychedelic experience allows the shaman to "see" the source of the fright and guide the patient through a reliving and integration of the traumatic event. Roman Estrada's documented cure demonstrates this process: under the influence of mushrooms, he vividly relived his operation, "exorcised" the trauma through visionary reenactment, and recovered his will to live. This therapeutic model — using psychedelics to facilitate the processing and integration of traumatic memories — has been independently validated by modern clinical research on psychedelics for PTSD.
+The susto concept is central to understanding why the Mazatec use psilocybin mushrooms therapeutically. The mushrooms are understood as medicines specifically suited to spiritual illness — conditions where the problem is not physiological but existential. The psychedelic experience allows the shaman to "see" the source of the fright and guide the patient through a reliving and integration of the traumatic event. Roman Estrada"s documented cure demonstrates this process: under the influence of mushrooms, he vividly relived his operation, "exorcised" the trauma through visionary reenactment, and recovered his will to live. This therapeutic model — using psychedelics to facilitate the processing and integration of traumatic memories — has been independently validated by modern clinical research on psychedelics for PTSD.
 
 ## Cross-Cultural Parallels
 

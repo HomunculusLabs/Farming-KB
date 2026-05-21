@@ -13,7 +13,7 @@ mycologists to systematically study and write about the fungi of the United
 States. His book, *About Mushrooms: A Guide to the Study of Esculent and
 Poisonous Fungi*, first published in the 1870s, was one of the earliest
 American works dedicated to making fungal identification accessible to a
-general audience. Palmer's introduction reveals a mind both scientifically
+general audience. Palmer"s introduction reveals a mind both scientifically
 rigorous and deeply appreciative of the natural world.
 
 ## Acknowledgments and Intellectual Debts
@@ -126,9 +126,9 @@ to pursue the subject further. It included:
 
 - **Berkeley's "Outlines of British Fungology"** (1860) — the standard
   English-language work on fungal classification.
-- **Fries's "Systema Mycologicum"** (1821–1832) — the foundational work of
+- **Fries"s "Systema Mycologicum"** (1821–1832) — the foundational work of
   modern fungal taxonomy.
-- **Tulasne's "Selecta Fungorum Carpologia"** (1861–1865) — an advanced
+- **Tulasne"s "Selecta Fungorum Carpologia"** (1861–1865) — an advanced
   treatise on fungal spore structure and development.
 - **Curtis's published descriptions** of [[growing-gourmet-north-american-reishi-species]] fungi — scattered in
   botanical journals but essential for American students.

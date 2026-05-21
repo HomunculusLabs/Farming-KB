@@ -20,7 +20,7 @@ described from central and southern Africa. It is notable for its
 specialized habitat on hippopotamus and elephant dung, from which it
 may be spreading globally through the distribution of "zoo-doo" as
 garden fertilizer. It contains psilocybin and psilocin in variable
-amounts according to Ola'h (1969). The specific epithet "africanus"
+amounts according to Ola"h (1969). The specific epithet "africanus"
 denotes its continent of origin.
 
 ## Key Details
@@ -42,7 +42,7 @@ denotes its continent of origin.
   seasons. Reported from central Africa to southern Sudan. Probably
   more widely distributed. Found on elephant dung at Seattle Zoo.
 - **Chemistry:** Contains psilocybin and psilocin in irregular amounts
-  (Ola'h 1969). Exact potency data limited.
+  (Ola"h 1969). Exact potency data limited.
 - **Comparison:** Similar to Panaeolus antillarum (= P. phalaenarum)
   but with smaller spores. Distinguished by its habitat preference for
   large herbivore dung.

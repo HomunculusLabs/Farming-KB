@@ -8,17 +8,17 @@ type: concept
 
 ## Overview
 
-In John M. Allegro's philological analysis of the New Testament, John the Baptist is understood as a literary epithet for the red-capped Amanita muscaria mushroom. His entire Gospel narrative — from his desert diet to his dramatic execution — is read as a web of multilingual word-play built upon the mushroom's physical features and its Sumerian, Semitic, Greek, and Latin names. The story of his death at the hands of Herod and Herodias is, in this reading, a "whole story woven from names of [[carob-ceratonia-siliqua-mediterranean-leguminous-tree]]*), known as **"St John's Bread"**, reinforces the connection. The carob is not a desert plant and would be an odd staple for a wilderness ascetic, but it shares a mushroom-related name in Akkadian, further binding John's diet to fungal nomenclature.
+In John M. Allegro"s philological analysis of the New Testament, John the Baptist is understood as a literary epithet for the red-capped Amanita muscaria mushroom. His entire Gospel narrative — from his desert diet to his dramatic execution — is read as a web of multilingual word-play built upon the mushroom's physical features and its Sumerian, Semitic, Greek, and Latin names. The story of his death at the hands of Herod and Herodias is, in this reading, a "whole story woven from names of [[carob-ceratonia-siliqua-mediterranean-leguminous-tree]]*), known as **"St John"s Bread"**, reinforces the connection. The carob is not a desert plant and would be an odd staple for a wilderness ascetic, but it shares a mushroom-related name in Akkadian, further binding John"s diet to fungal nomenclature.
 
 ## Death of John the Baptist (Mark 6:16–28)
 
 Allegro considers the execution of John the Baptist the most densely mushroom-encoded passage in the New Testament, calling it a story in which "real-life characters featured because their names lent themselves to mushroom punning."
 
-### The Platter: Tabbala' = Tabula = TAB-BA-LI
+### The Platter: Tabbala" = Tabula = TAB-BA-LI
 
 The central image of the story — John's head served on a platter — is a triple pun:
 
-1. **Tabbala'** (Aramaic) — "the Dyer" = "the Baptist" (John's title)
+1. **Tabbala'** (Aramaic) — "the Dyer" = "the Baptist" (John"s title)
 2. **Tabula** (Latin) — "platter" or "flat dish"
 3. **TAB-BA-LI** (Sumerian) — a mushroom name stem
 
@@ -26,16 +26,16 @@ All three words sound nearly identical and converge on the same visual: a mushro
 
 ### Herod, Herodias, and the Daughter
 
-- **Herod** is a play on the Semitic **'Ardila**, a word for "mushroom."
-- **Herodias' daughter** — her name means "the little heron," a bird that appears in ancient [[allegro-colour-and-consistency-of-the-amanita-muscaria]]'s appearance under the influence of the mushroom's own hallucinogenic properties:
+- **Herod** is a play on the Semitic **"Ardila**, a word for "mushroom."
+- **Herodias" daughter** — her name means "the little heron," a bird that appears in ancient [[allegro-colour-and-consistency-of-the-amanita-muscaria]]"s appearance under the influence of the mushroom's own hallucinogenic properties:
 
 > "One like a son of man… his head and his hair were white as white wool, white as snow; his eyes were like a flame of fire; his face was like the sun shining in full strength."
 
-The **white flecking** on the mushroom's otherwise brilliant red cap is described as "white as white wool, white as snow" set against a fiery red ground. The "eyes like flame of fire" echo the burning, visionary quality of the mushroom experience. The "face like the sun shining in full strength" reflects the hallucinatory effect of the drug, which makes perceived objects appear larger, brighter, and overwhelmingly luminous.
+The **white flecking** on the mushroom"s otherwise brilliant red cap is described as "white as white wool, white as snow" set against a fiery red ground. The "eyes like flame of fire" echo the burning, visionary quality of the mushroom experience. The "face like the sun shining in full strength" reflects the hallucinatory effect of the drug, which makes perceived objects appear larger, brighter, and overwhelmingly luminous.
 
 ## Red and White Colour Symbolism
 
-The Amanita muscaria's distinctive red-and-white colouring is the single most important visual feature underlying its sacred status and its encoding in biblical text.
+The Amanita muscaria"s distinctive red-and-white colouring is the single most important visual feature underlying its sacred status and its encoding in biblical text.
 
 ### The Attractive Red Canopy and White Flecks
 
@@ -43,7 +43,7 @@ The mushroom's **deep red canopy** is the first feature to attract attention in 
 
 ### The Panther and Amanita pantherina
 
-Pliny the Elder describes the panther as bearing "sinual spots like eyes on a light ground" — a pattern that closely matches the markings of the Amanita muscaria. The related species **Amanita pantherina** is directly named after the panther for this reason. The panther thus became an animal symbol for the [[allegro-cross-and-mushroom-symbolism]]. The historical Annas's role in the trial is, on this reading, a secondary concern; his presence is driven by the word-play.
+Pliny the Elder describes the panther as bearing "sinual spots like eyes on a light ground" — a pattern that closely matches the markings of the Amanita muscaria. The related species **Amanita pantherina** is directly named after the panther for this reason. The panther thus became an animal symbol for the [[allegro-cross-and-mushroom-symbolism]]. The historical Annas"s role in the trial is, on this reading, a secondary concern; his presence is driven by the word-play.
 
 ### Bdellium: White Spots on a Ground
 

@@ -45,7 +45,7 @@ Mollison specifically cites the New Alchemy Institute as a model for productive 
 - **Small-scale viability**: Proved that 10 square metre systems could be commercially productive
 
 ### Influence on Permaculture
-The NAI approach directly informed Mollison's recommendations for:
+The NAI approach directly informed Mollison"s recommendations for:
 - Pond placement in front of reflective surfaces
 - Integration of fish production with greenhouse heating
 - Use of fish waste water for terrestrial plant irrigation
@@ -53,7 +53,7 @@ The NAI approach directly informed Mollison's recommendations for:
 
 ### Legacy
 - Research was continued by Ocean Arks International and the Living Technologies group
-- John Todd's "Living Machines" evolved from NAI's bioshelter research
+- John Todd's "Living Machines" evolved from NAI"s bioshelter research
 - The institute's publications remain influential in [[permaculture-design]] education
 
 ## Design Applications

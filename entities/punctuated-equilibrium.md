@@ -15,7 +15,7 @@ Punctuated Equilibrium is a theory in evolutionary biology proposing that specie
 - **Category:** Concept / Scientific Theory
 - **Domain:** Evolutionary biology, systems ecology, permaculture design philosophy
 - **Proposed by:** Niles Eldredge and Stephen Jay Gould (1972)
-- **Related Theories:** Catastrophism, Chaos Theory, pulsing ecosystem model, Holling's Adaptive Cycle
+- **Related Theories:** Catastrophism, Chaos Theory, pulsing ecosystem model, Holling"s Adaptive Cycle
 
 ## Key Principles
 
@@ -26,7 +26,7 @@ Most species show little net evolutionary change for most of their geological hi
 When evolutionary change does occur, it tends to be rapid in geological terms, concentrated in brief speciation events rather than spread evenly over time. These punctuation events may be triggered by environmental disruption, geographic isolation, or other factors that release species from their stable attractors.
 
 ### Speciation
-New species typically arise in small, geographically isolated populations at the periphery of a species' range, rather than across the entire population simultaneously. This allopatric speciation model helps explain the sudden appearance of new forms in the fossil record.
+New species typically arise in small, geographically isolated populations at the periphery of a species" range, rather than across the entire population simultaneously. This allopatric speciation model helps explain the sudden appearance of new forms in the fossil record.
 
 ## Key Facts
 
@@ -42,7 +42,7 @@ New species typically arise in small, geographically isolated populations at the
 
 - **Design timing:** Understanding that change comes in bursts rather than gradual increments helps permaculture designers recognise and prepare for windows of opportunity when rapid transformation is possible and appropriate.
 
-- **Resilience and rigidity:** The long periods of stasis in biological evolution parallel the vulnerability that develops in mature ecosystems (the conservation phase of Holling's cycle) before a disturbance triggers rapid reorganisation.
+- **Resilience and rigidity:** The long periods of stasis in biological evolution parallel the vulnerability that develops in mature ecosystems (the conservation phase of Holling"s cycle) before a disturbance triggers rapid reorganisation.
 
 - **Energy descent context:** Holmgren uses the theory to argue that the current planetary situation — with its unprecedented scale of human impact — may be stimulating evolutionary jumps and the emergence of new species, even as it drives others to extinction.
 

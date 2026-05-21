@@ -1,5 +1,5 @@
 ---
-title: Cannabis and ALS (Lou Gehrig's Disease) Research
+title: Cannabis and ALS (Lou Gehrig"s Disease) Research
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
@@ -7,7 +7,7 @@ tags: [cannabis, cultivation]
 sources:
   - "raw/papers/uwe-blesching-the-cannabis-health-index.md"
 ---
-## Cannabis and ALS (Lou Gehrig's Disease) Research
+## Cannabis and ALS (Lou Gehrig"s Disease) Research
 
 **Source:** Uwe Blesching, The [[blesching-cannabis-spinal-cord-injuries]]. ~2 in 100,000 die of ALS in US. Most die within 3-5 years of onset. Mind remains mostly unaffected while body descends into total paralysis. Primary cause of death: respiratory failure.
 
@@ -55,7 +55,7 @@ sources:
 
 ## Mind-Body Perspective
 
-Clinical depression is NOT inevitable in ALS. Lou Gehrig expressed only gratitude; Stephen Hawking: "I'm not afraid of death, but I'm in no hurry to die." The widening rift between diminishing body and fully functioning mind ("locked-in syndrome") may offer insight into its message.
+Clinical depression is NOT inevitable in ALS. Lou Gehrig expressed only gratitude; Stephen Hawking: "I"m not afraid of death, but I'm in no hurry to die." The widening rift between diminishing body and fully functioning mind ("locked-in syndrome") may offer insight into its message.
 
 Aggravating factors: Gulf War service, environmental toxins. Consider: gratitude, long-term projects, passion for life.
 

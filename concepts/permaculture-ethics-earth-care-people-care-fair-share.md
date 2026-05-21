@@ -10,7 +10,7 @@ type: concept
 
 Permaculture rests on three foundational ethics that emerge not from arbitrary moral codes, but from the practical recognition that human survival depends on the health of all natural systems. [[mycorrhizal-fungi]] on tree roots) create healthy, resilient communities. This biological lesson translates into a social ethic — a resolve to cooperate and take support roles in society, fostering interdependence that values individual contributions rather than opposition or competition.
 
-The ethic matures as understanding deepens. Initially, helping family and friends is recognized as assisting one's own survival. Over time, this expands into seeing all humankind as family and all life as allied associations. The boundary between "people care" and "species care" dissolves entirely, since all life shares common origins. All living things are, in Mollison's framing, "our family."
+The ethic matures as understanding deepens. Initially, helping family and friends is recognized as assisting one"s own survival. Over time, this expands into seeing all humankind as family and all life as allied associations. The boundary between "people care" and "species care" dissolves entirely, since all life shares common origins. All living things are, in Mollison"s framing, "our family."
 
 ### Fair Share: The Law of Return
 
@@ -35,7 +35,7 @@ Beyond the home garden, Mollison articulates a specific set of ethical directive
 
 These four directives form the bridge between personal garden-scale ethics and global environmental responsibility. [[gaia-hypothesis]] — the idea that Earth behaves not as a material assembly but as a self-regulating living system that actively maintains conditions for its own support. This scientific framework strengthens the ethical argument: if Earth is a self-regulating system, then maltreating, overloading, or deflecting natural processes provokes reactions with potentially catastrophic long-term consequences. The ethic becomes not sentiment but survival intelligence.
 
-Chief Seattle's 1854 statement, quoted by Mollison, captures this understanding: "Man did not weave the web of life, he is merely a strand in it. Whatever he does to the web, he does to himself."
+Chief Seattle"s 1854 statement, quoted by Mollison, captures this understanding: "Man did not weave the web of life, he is merely a strand in it. Whatever he does to the web, he does to himself."
 
 ## Two Responsibilities
 

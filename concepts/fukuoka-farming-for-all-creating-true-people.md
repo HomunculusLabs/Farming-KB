@@ -12,19 +12,19 @@ The "medical experiment" was the continuing application of technological and eco
 
 ## Creating True People
 
-At the center of Fukuoka's philosophy is the concept of the "true person" — a human being who lives in harmony with nature, not through effort or technique, but through surrender and non-action. This stands in direct opposition to the entire thrust of modern civilization:
+At the center of Fukuoka"s philosophy is the concept of the "true person" — a human being who lives in harmony with nature, not through effort or technique, but through surrender and non-action. This stands in direct opposition to the entire thrust of modern civilization:
 
-> "False materialistic culture and agriculture begin and end by 'doing.' But the way of true man begins and ends by 'doing nothing.'"
+> "False materialistic culture and agriculture begin and end by "doing.' But the way of true man begins and ends by 'doing nothing.'"
 
-This is perhaps Fukuoka's most radical proposition. The dominant paradigm of both agriculture and culture is one of intervention, manipulation, and ceaseless activity. More inputs, more technology, more control. Fukuoka insisted that this entire orientation is fundamentally false — that authentic human life proceeds in the opposite direction, through the discipline of non-interference and receptive awareness.
+This is perhaps Fukuoka"s most radical proposition. The dominant paradigm of both agriculture and culture is one of intervention, manipulation, and ceaseless activity. More inputs, more technology, more control. Fukuoka insisted that this entire orientation is fundamentally false — that authentic human life proceeds in the opposite direction, through the discipline of non-interference and receptive awareness.
 
 This path is inward rather than outward:
 
 > "The road of true man is an inner road. It cannot be followed by advancing outward."
 
-The modern world's relentless expansion — of technology, of markets, of human ambition — is movement in precisely the wrong direction. The journey toward authentic humanity requires not more outward achievement but deeper inward surrender:
+The modern world"s relentless expansion — of technology, of markets, of human ambition — is movement in precisely the wrong direction. The journey toward authentic humanity requires not more outward achievement but deeper inward surrender:
 
-> "The path of a 'do-nothing' nature where all one does is to plunge into the bosom of nature, shedding body and mind, this is the road that true man must walk."
+> "The path of a "do-nothing' nature where all one does is to plunge into the bosom of nature, shedding body and mind, this is the road that true man must walk."
 
 "Shedding body and mind" echoes Zen Buddhist language for the dissolution of the ego-boundaries that separate self from world. For Fukuoka, this was not mystical abstraction but the concrete experience of the farmer who works with nature rather than against it — who observes rather than imposes, who trusts natural processes rather than forcing outcomes.
 
@@ -38,19 +38,19 @@ The "methodless road of the farmer" is extraordinary precisely because it refuse
 
 The simplicity of farming — [[fukuoka-sowing-seed-ball-desert-revegetation]], tending soil, gathering harvest — conceals its grandeur, which lies in the fact that it is the one human activity that places a person in direct, dependent relationship with the source of all life. Fukuoka understood this source in both ecological and spiritual terms:
 
-> "Man's true joy and delight was natural ecstasy. This exists only in nature and vanishes away from the earth."
+> "Man"s true joy and delight was natural ecstasy. This exists only in nature and vanishes away from the earth."
 
 > "The earth is the garden of God, and the sky is where He sits."
 
 For Fukuoka, farming was ultimately an act of worship — not ritual worship, but the worship of grateful participation in divine creation:
 
-> "The farmer who, chewing well the grain harvested from the Lord's garden, raises his face to the heavens in gratitude, lives the best and most perfect life possible."
+> "The farmer who, chewing well the grain harvested from the Lord"s garden, raises his face to the heavens in gratitude, lives the best and most perfect life possible."
 
 The simple act of eating grain one has grown, with full awareness and gratitude, is for Fukuoka the summit of human existence. Not because it is dramatic or extraordinary, but because it is complete — it unites body, spirit, earth, and sky in a single act of thanksgiving.
 
 ## Farming for All Program
 
-Fukuoka's "Farming for All" was his proposal for the structural transformation of human society. It was not a policy prescription but a spiritual and ecological vision:
+Fukuoka"s "Farming for All" was his proposal for the structural transformation of human society. It was not a policy prescription but a spiritual and ecological vision:
 
 > "My vision of a world of farmers is founded on the responsibility of all people to return to the garden of God to farm and their right to look up at the blue skies and be blessed with joy."
 
@@ -58,7 +58,7 @@ Two key words here: **responsibility** and **right**. All people have a responsi
 
 Fukuoka was careful to distinguish his vision from mere primitivism:
 
-> "This would be more than just a return to primitive society. It would be a way of life in which one constantly reaffirms the source of life ('life' being another name for God)."
+> "This would be more than just a return to primitive society. It would be a way of life in which one constantly reaffirms the source of life ("life' being another name for God)."
 
 The return to farming he envisioned was not a regression to pre-technological conditions but a conscious, spiritual reorientation — a collective decision to place human life in direct relationship with the source of all life. This is, in his view, the only direction that leads toward renewal rather than collapse:
 
@@ -68,7 +68,7 @@ The return to farming he envisioned was not a regression to pre-technological co
 
 ## The Road Back to Farming — Loving Nature
 
-Fukuoka understood that the primary obstacles to returning to the land were not economic or logistical but psychological and spiritual. He diagnosed the [[fukuoka-pine-rot-root-cause]] of humanity's crisis with characteristic directness:
+Fukuoka understood that the primary obstacles to returning to the land were not economic or logistical but psychological and spiritual. He diagnosed the [[fukuoka-pine-rot-root-cause]] of humanity"s crisis with characteristic directness:
 
 > "The foremost cause for the discord and contradictions of human society is that everyone in the towns and cities act independently and in their own interest without seeing things clearly."
 

@@ -54,7 +54,7 @@ Mollison identifies specific environments where soils are naturally conserved or
 
 - **Uncut forests** — The forest canopy and understorey [[soil-ph]], cycle minerals, create soil structure through aggregation, and significantly reduce erosion risk.
 - [[succession-planting]], green manures, composting, and erosion control.
-- Rehabilitation requires patience and consistent application of [[permaculture-principles]], but the results demonstrate nature's inherent resilience when given the right conditions.
+- Rehabilitation requires patience and consistent application of [[permaculture-principles]], but the results demonstrate nature"s inherent resilience when given the right conditions.
 
 ## The Soil-Plant-Animal Health Triangle
 

@@ -46,7 +46,7 @@ The outer layer alone provides approximately one and a half zones of protectionâ
 
 ### Inner Layer: Row Cover on Wire Wickets
 
-The inner layer is the key to the system's efficiency:
+The inner layer is the key to the system"s efficiency:
 
 - **Material**: Floating row cover (spun-bonded polypropylene or polyester fabric), typically 0.5 to 1.25 oz/sq yd weight
 - **Support**: Flat-topped wire wickets (hoops) holding the fabric about 12 inches above the soil surface

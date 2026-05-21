@@ -16,7 +16,7 @@ One of the most practical questions facing any serious food gardener is: how muc
 
 The most instructive historical model is the British allotment system during and after World War II (approximately 1930–1950). With national survival at stake, the UK government mandated that every local council provide allotment plots to any resident who requested one. By law, each plot had to be at least **300 square yards (2,700 square feet or about 250 square meters)**.
 
-During the war, Britain's farmland was devoted to essential cereals and potatoes, making most vegetables scarce. The allotment gardens filled this gap. Vegetables including potatoes made up perhaps half of a family's total caloric intake during those years — supplemented by bread, whatever meat and cheese could be obtained, and milk for children.
+During the war, Britain"s farmland was devoted to essential cereals and potatoes, making most vegetables scarce. The allotment gardens filled this gap. Vegetables including potatoes made up perhaps half of a family's total caloric intake during those years — supplemented by bread, whatever meat and cheese could be obtained, and milk for children.
 
 Key observations from the British experience:
 

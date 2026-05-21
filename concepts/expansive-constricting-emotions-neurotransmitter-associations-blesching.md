@@ -9,7 +9,7 @@ tags: [neuroscience, emotions, neurotransmitters, endocannabinoid, psychology, m
 
 ## Overview
 
-[[uwe-blesching]]'s *The [[cannabis-health-index]]* (2015) presents a model categorizing
+[[uwe-blesching]]"s *The [[cannabis-health-index]]* (2015) presents a model categorizing
 emotions and their associated neurochemicals into two broad groups: expansive
 emotions (linked to healing, openness, and well-being) and constricting emotions
 (linked to stress, defense, and contraction). This framework bridges the gap
@@ -40,13 +40,13 @@ spectrum.
 
 ### Endogenous Opioids — "It Feels So Good When the Pain Stops"
 Endorphins and enkephalins produce analgesia and euphoria. Their release is
-associated with exercise ("runner's high"), social bonding, laughter, and
+associated with exercise ("runner"s high"), social bonding, laughter, and
 positive social interactions. The opioid system interacts extensively with
 the endocannabinoid system through receptor heterodimerization and shared
 downstream signaling pathways.
 
 ### GABA — "I Am Melting"
-Gamma-aminobutyric acid is the brain's primary inhibitory neurotransmitter,
+Gamma-aminobutyric acid is the brain"s primary inhibitory neurotransmitter,
 counterbalancing the excitatory effects of glutamate. GABAergic transmission
 produces feelings of calm, relaxation, and reduced anxiety. Many anxiolytic
 drugs (benzodiazepines) work by enhancing GABA signaling. Cannabis-derived
@@ -85,7 +85,7 @@ its pursuit becomes driven or anxious rather than naturally rewarding.
 Norepinephrine mediates alertness, vigilance, and focused attention. In the
 constricting context, chronic norepinephrine elevation produces hypervigilance,
 anxiety, and the inability to relax. The endocannabinoid system modulates
-norepinephrine release in the locus coeruleus, the brain's primary
+norepinephrine release in the locus coeruleus, the brain"s primary
 norepinenergic center.
 
 ### Cortisol — "I Am Stressed"
@@ -97,7 +97,7 @@ endocannabinoid system—CB1 receptor activation can reduce HPA axis activity
 and cortisol release.
 
 ### Glutamate — "I Am Excited"
-The brain's primary excitatory neurotransmitter, essential for cognition and
+The brain"s primary excitatory neurotransmitter, essential for cognition and
 neural communication. However, excessive glutamate release (excitotoxicity)
 damages neurons and is implicated in stroke, neurodegenerative diseases, and
 seizures. The endocannabinoid system serves as a retrograde inhibitor of

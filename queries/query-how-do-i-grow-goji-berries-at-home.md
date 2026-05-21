@@ -1,5 +1,5 @@
 ---
-title: 'How Do I Grow Goji Berries at Home?'
+title: "How Do I Grow Goji Berries at Home?'
 tags: [goji, berry, growing-guide, beginner, permaculture, superfruit, container, garden]
 created: 2026-04-28
 updated: 2026-04-28

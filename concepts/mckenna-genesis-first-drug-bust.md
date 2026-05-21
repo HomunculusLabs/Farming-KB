@@ -16,7 +16,7 @@ type: concept
 ## Overview
 
 In *Food of the Gods*, Terence McKenna interprets the Book of Genesis as an
-allegorical account of humanity's expulsion from a psychedelic mushroom-using
+allegorical account of humanity"s expulsion from a psychedelic mushroom-using
 [[tree-of-knowledge-and-forbidden-fruit-theory]] of the Tree of Knowledge, a
 substance McKenna identifies as the psilocybin-containing mushroom *Stropharia
 cubensis*. This reading transforms the Genesis narrative from a story of
@@ -32,7 +32,7 @@ McKenna reads this as a description of the attainment of self-reflective
 consciousness, catalyzed by the [[mckenna-dominator-culture-and-suppression-of-ecstasy]]
 is encoded in the biblical narrative as the "fall" of humanity.
 
-The story of Genesis is, in McKenna's framing, the story of a woman who is
+The story of Genesis is, in McKenna"s framing, the story of a woman who is
 mistress of the magical plants. She eats and shares the fruits of the Tree of
 Life or the Tree of Knowledge, fruits which are "pleasing to the eye and
 pleasing to contemplate." Note that "the eyes of both of them were opened and

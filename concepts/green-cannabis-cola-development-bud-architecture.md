@@ -16,7 +16,7 @@ type: concept
 # Cola Development and Bud Architecture
 
 The cola is the large central bud cluster at the top of a cannabis plant,
-and understanding how colas develop and how the plant's bud architecture
+and understanding how colas develop and how the plant"s bud architecture
 is organized is essential for maximizing yield.  methods, which concentrate on making this part grow really big.
 
 ### Mid-Section

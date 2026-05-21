@@ -34,7 +34,7 @@ definitively identify the target compounds.
 Shirota identified a specific practical problem: "It is difficult to
 isolate 1 and 2 [psilocin and psilocybin] from the mushroom on a gram
 scale for use as pure standard compounds because 1 easily decomposes
-and 2 has a high polarity." Psilocin's chemical instability and
+and 2 has a high polarity." Psilocin"s chemical instability and
 psilocybin's high polarity make isolation from natural sources
 impractical at the scale needed for forensic laboratories.
 

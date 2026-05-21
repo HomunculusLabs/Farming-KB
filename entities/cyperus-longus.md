@@ -13,7 +13,7 @@ sources:
   - comparison-essential-oils-vs-neem-oil-vs-insecticidal-soap, though commercial cultivation has largely ceased.
 ---
 
-The common name "galingale" is derived from the Arabic "khalanj", reflecting the species' introduction to medieval Europe through Islamic botanical and pharmacological traditions. The name has been applied to several aromatic Cyperus species across different cultures.
+The common name "galingale" is derived from the Arabic "khalanj", reflecting the species" introduction to medieval Europe through Islamic botanical and pharmacological traditions. The name has been applied to several aromatic Cyperus species across different cultures.
 
 Sweet galingale forms dense clonal stands in shallow water and damp margins.
 

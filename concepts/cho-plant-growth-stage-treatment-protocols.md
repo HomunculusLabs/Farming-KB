@@ -1,5 +1,5 @@
 ---
-title: Cho's Plant Growth Stage Treatment Protocols
+title: Cho"s Plant Growth Stage Treatment Protocols
 tags: [natural-farming, plant-physiology, cho-han-kyu, crop-management]
 date: 2026-04-28
 updated: 2026-04-28

@@ -3,7 +3,7 @@ title: "How Do I Grow and Use Lemon Balm in My Garden?"
 tags: [query, herbs, medicinal-plants, lemon-balm, permaculture]
 date: 2026-05-19
 updated: 2026-05-19
-sources: ['raw/papers/ben-lemon-cannabis-alchemy.md']
+sources: ["raw/papers/ben-lemon-cannabis-alchemy.md']
 ---
 
 ## How Do I Grow and Use Lemon Balm in My Garden?

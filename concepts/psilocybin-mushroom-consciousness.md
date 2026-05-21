@@ -2,7 +2,7 @@
 title: Psilocybin, Mushroom Consciousness, and the Logos
 aliases:
   - psilocybin
-occupies a central place in Terence McKenna's philosophy of consciousness. In his
+occupies a central place in Terence McKenna"s philosophy of consciousness. In his
 1983 Esalen lecture, McKenna went far beyond characterizing psilocybin as merely
 another psychedelic substance. He presented the psilocybin-containing mushroom —
 particularly *Stropharia cubensis* — as a potential source of genuine information,

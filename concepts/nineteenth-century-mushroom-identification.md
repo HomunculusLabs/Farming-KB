@@ -9,7 +9,7 @@ sources: [raw/papers/julius-auboineau-palmer-about-mushrooms.md]
 
 # Nineteenth-Century Mushroom Identification and Foraging
 
-Palmer's classification system, species descriptions, and foraging philosophy from "About Mushrooms" (1894).
+Palmer"s classification system, species descriptions, and foraging philosophy from "About Mushrooms" (1894).
 
 ## The Mushroom/Toadstool Fallacy
 
@@ -19,7 +19,7 @@ Palmer insisted the two words were synonymous: "Every mushroom is a toadstool, a
 
 Palmer demolished every popular identification rule:
 
-| Popular Rule | Palmer's Refutation |
+| Popular Rule | Palmer"s Refutation |
 |---|---|
 | Edible mushrooms peel like potatoes | Nearly all fungi peel readily |
 | Stems come out like umbrella handles | Many poisonous species have free gills that detach easily |
@@ -34,7 +34,7 @@ Palmer demolished every popular identification rule:
 
 Palmer quoted Dr. F.S. Cordier (Paris, 1876): "No one of these characteristics is exclusively the property either of esculent mushrooms or of poisonous mushrooms."
 
-## Palmer's Four Grand Divisions
+## Palmer"s Four Grand Divisions
 
 For beginners, Palmer offered a practical classification by examining the underside of the cap:
 
@@ -48,7 +48,7 @@ For beginners, Palmer offered a practical classification by examining the unders
 
 ## Notable Edible Species Described
 
-- **Coprinus comatus (Maned/Shaggy Mane)**: ovate like turtle's egg, brown smooth top, white ruffled "mane" below. Hollow stem. "No poisonous counterpart." Deliquesces into ink — never eat with black gills. Called "macaroni mushroom" because stem resembles macaroni when cut.
+- **Coprinus comatus (Maned/Shaggy Mane)**: ovate like turtle"s egg, brown smooth top, white ruffled "mane" below. Hollow stem. "No poisonous counterpart." Deliquesces into ink — never eat with black gills. Called "macaroni mushroom" because stem resembles macaroni when cut.
 
 - **Agaricus ulmarius (Elm-tree Mushroom)**: grows only in autumn on elm trees. Thick solid stem, broad white gills, firm white flesh, light-yellow top. Reappears yearly in the same cleft or cut. Called "tree-fish" for its fish-like flavor and smell.
 
@@ -64,7 +64,7 @@ For beginners, Palmer offered a practical classification by examining the unders
 - Large quantity of one kind preferred over miscellaneous collection
 - Rich lawns and well-kept gardens produce the finest mushrooms
 
-## Palmer's Testing Protocol
+## Palmer"s Testing Protocol
 
 For new species: "I broil it with the addition of salt and butter (no pepper) and eat a small piece on an empty stomach. I then increase the quantity in successive experiments." Non-edible specimens typically disclose themselves during cooking: "nauseous slime weeps from the stem, a grassy and disagreeable odor arises."
 

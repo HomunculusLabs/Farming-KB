@@ -4,7 +4,7 @@ created: 2026-04-28
 tags: [fermentation, beverages, probiotics, comparison]
 date: 2026-04-28
 updated: 2026-04-28
-sources: ['raw/papers/working-with-agar.md']
+sources: ["raw/papers/working-with-agar.md']
 type: comparison
 ---
 

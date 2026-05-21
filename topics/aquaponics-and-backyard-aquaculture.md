@@ -69,7 +69,7 @@ protozoa, and in many systems, earthworms. These organisms [[aquaponics]] for co
 
 - Rakocy, James E., et al. "Aquaponics: Integrating Fish and Plant Culture."
   Aquaculture Production Systems, Wiley-Blackwell, 2012.
-- Mollison, Bill. Permaculture: A Designers' Manual. Tagari Publications,
+- Mollison, Bill. Permaculture: A Designers" Manual. Tagari Publications,
   1988.
 - Holzer, Sepp. Sepp Holzer's Permaculture. Chelsea Green Publishing, 2004.
 - Hemenway, Toby. Gaia's Garden: A Guide to Home-Scale Permaculture, 2nd

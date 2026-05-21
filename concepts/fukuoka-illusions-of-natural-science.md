@@ -1,5 +1,5 @@
 ---
-title: Fukuoka's fukuoka-critique-of-scientific-agriculture Agriculture and the fukuoka illusions of natural science Science
+title: Fukuoka"s fukuoka-critique-of-scientific-agriculture Agriculture and the fukuoka illusions of natural science Science
 source: administrator-microsoft-word-fukuoka-textdoc.md
 author: Masanobu Fukuoka
 topics: lowenfels-nutrients-soil-chemistry-ph-cec, pest population, crop genetics — and attempts to optimize it independently of all others is, in Fukuoka's view, engaged in a futile exercise. The farmer who understands the whole field as a single living process will achieve better results than the scientist who understands every chemical component of the soil but nothing about the field as a whole.
@@ -9,7 +9,7 @@ topics: lowenfels-nutrients-soil-chemistry-ph-cec, pest population, crop genetic
 
 Fukuoka insists that **man is not in a position to know nature**. This is not a humble acknowledgment of incomplete understanding but a radical epistemological claim: the human mind, by its very structure, is incapable of grasping nature as it truly is. Every attempt to know nature is already an act of separation — the knower stands apart from the known, and in that very act of standing apart, nature is transformed into something other than itself.
 
-He employs the **frog-in-the-well analogy** to illustrate this limitation. The world known to a frog at the bottom of a well is not the entire world, yet the frog has no way of knowing what lies beyond its limited horizon. The frog's knowledge is complete within its frame but fundamentally incomplete as a picture of reality. Similarly, "Man's nature" — the nature that human beings perceive, measure, and study — is only that nature which they have grasped with their own hands and filtered through their own subjectivity. It is an artifact of perception, not reality itself.
+He employs the **frog-in-the-well analogy** to illustrate this limitation. The world known to a frog at the bottom of a well is not the entire world, yet the frog has no way of knowing what lies beyond its limited horizon. The frog's knowledge is complete within its frame but fundamentally incomplete as a picture of reality. Similarly, "Man"s nature" — the nature that human beings perceive, measure, and study — is only that nature which they have grasped with their own hands and filtered through their own subjectivity. It is an artifact of perception, not reality itself.
 
 The implications of this claim are profound. If man cannot know natu [[query-how-do-parasitoid-wasps-control-pest-populations]] aches — the very organisms that naturally regulate pest populations.
 

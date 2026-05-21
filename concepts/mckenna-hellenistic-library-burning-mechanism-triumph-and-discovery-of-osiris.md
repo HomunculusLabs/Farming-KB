@@ -5,7 +5,7 @@ author: terence-mckenna
 topics: [history, eschatology, entheogens, western-civilization, suppression]
 ---
 
-## Hellenistic Library Burning, Mechanism's Triumph, and the Discovery of the Body of Osiris
+## Hellenistic Library Burning, Mechanism"s Triumph, and the Discovery of the Body of Osiris
 
 ## The Ignorance Tradition and Cultural Destruction
 
@@ -43,7 +43,7 @@ villages until Valentina and [[fukuoka-textdoc-three-stage-collapse-knowledge-de
 
 ## Eros, Christus, and the Rivalry of Sacred Substances
 
-McKenna's identification of the mushroom with both Osiris and Eros draws on the ancient Egyptian
+McKenna"s identification of the mushroom with both Osiris and Eros draws on the ancient Egyptian
 mythological complex in which Osiris is dismembered and scattered, with his phallus consumed by a fish
 (and in some versions replaced by a carved substitute). The "condensed body of Eros" found in Mexico
 suggests that the same archetypal force that the Egyptians knew as Osiris/Eros and the Christians knew
@@ -53,7 +53,7 @@ more embodied, and more threatening to the institutional monopoly on the sacred.
 The rivalry between Christian theophagy (the Eucharist) and mushroom theophagy (*teonanácatl*) is not
 merely historical but structural. Both involve the consumption of a substance understood to be divine,
 but the mushroom version operates through direct psychoactive effect rather than through symbolic
-[[transubstantiation]]. The Franciscans' horror at *teonanácatl* was thus not mere cultural chauvinism but
+[[transubstantiation]]. The Franciscans" horror at *teonanácatl* was thus not mere cultural chauvinism but
 reflects a genuine recognition that this rival practice threatened to undermine the theological
 framework within which their own sacramental system operated.
 
@@ -64,7 +64,7 @@ systems and built a mechanistic civilization in their place, then "unleashed" th
 discovering it in the New World. The Wasson expeditions of the 1950s represent the moment when the
 suppressed knowledge began to re-enter Western consciousness through the medium of scientific
 documentation and personal experimentation. This "unleashing" is both accidental — the result of
-ethnographic curiosity — and, in McKenna's eschatological framework, inevitable: the mushroom
+ethnographic curiosity — and, in McKenna"s eschatological framework, inevitable: the mushroom
 consciousness could not be permanently suppressed because it represents a fundamental dimension of
 human cognitive potential.
 

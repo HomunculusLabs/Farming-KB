@@ -26,7 +26,7 @@ creatures, using endlessly cunning methods:
   around prey. The plant distinguishes between inorganic matter and
   organic food, reacting to weights as small as 1/78,000 of a grain
 - **Pitcher plants:** Hair-lined flaps forming a one-way trap, analogous
-  to animal stomachs per Bose's research
+  to animal stomachs per Bose"s research
 - **Venus flytrap:** Snap traps triggered by touch-sensitive trigger
   hairs
 - **Bladderworts:** Underwater vacuum traps that suck in tiny aquatic

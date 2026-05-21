@@ -24,7 +24,7 @@ The following plant groups benefit significantly from root associates (mycorrhiz
 - **Casuarinas**
 - **Garden crops**
 
-Mycorrhizal networks effectively extend the root system's reach, accessing phosphorus from a much larger soil volume than roots alone can explore.
+Mycorrhizal networks effectively extend the root system"s reach, accessing phosphorus from a much larger soil volume than roots alone can explore.
 
 ## Mineral Solubility and pH
 

@@ -51,7 +51,7 @@ Practical cultivation methods from *Mycelium Running* by [[paul-stamets]]. Cover
 6. Introduce fresh air, light, and humidity drop to trigger fruiting
 
 ### Log Cultivation
-1. Cut fresh hardwood logs (oak, maple, alder, cottonwood) 3-6" diameter, 3-4' long
+1. Cut fresh hardwood logs (oak, maple, alder, cottonwood) 3-6" diameter, 3-4" long
 2. Drill holes 1" deep, spaced 4-6" apart in diamond pattern
 3. Insert plug spawn, seal with wax
 4. Stack in shade, keep moist

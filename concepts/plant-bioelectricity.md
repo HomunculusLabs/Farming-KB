@@ -10,7 +10,7 @@ type: concept
 
 ## Plant Bioelectricity
 
-Plants generate, conduct, and respond to [[tompkins-cleve-backster-primary-perception]]'s
+Plants generate, conduct, and respond to [[tompkins-cleve-backster-primary-perception]]"s
 1966 observation that his dracaena plant produced galvanometer patterns
 similar to human emotional responses. The fundamental premise is that all
 living matter generates and responds to electrical phenomena. Bose

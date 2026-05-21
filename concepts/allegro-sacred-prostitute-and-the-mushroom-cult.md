@@ -12,11 +12,11 @@ sources:
 
 Allegro reveals that the cultic prostitute (hierodule) of the ancient world served not merely as a sexual partner in fertility rites but primarily as a practitioner of vegetative magic — specifically, in the harvesting and seduction of the [[allegro-amanita-muscaria-properties-and-pharmacology]] is involved.
 
-The Bible speaks of male cult prostitutes, called otherwise "dogs." It is more likely these were sodomites than that they served female worshippers. One Sumerian term for "chanter-priest" is GALA, elsewhere meaning "womb," with a semantic equivalent "penis-anus." Their prime purpose may have been providing or extracting semen for cultic purposes, particularly for the priest's anointing as a symbolic phallus — a "christ."
+The Bible speaks of male cult prostitutes, called otherwise "dogs." It is more likely these were sodomites than that they served female worshippers. One Sumerian term for "chanter-priest" is GALA, elsewhere meaning "womb," with a semantic equivalent "penis-anus." Their prime purpose may have been providing or extracting semen for cultic purposes, particularly for the priest"s anointing as a symbolic phallus — a "christ."
 
 ## Seduction of the Mushroom
 
-Bearing in mind the phallic form of the sacred mushroom, the cult prostitute's task was to "seduce" the little "penis" from the ground by sexual wiles. Josephus tells us that to stop the Mandrake "shrinking away from the touch" and to make it "stand still," one was required to pour upon it the menses and urine of a woman. Where the cult prostitute was herself present, this was probably achieved directly, by exposing her genitals to that part of the ground where the mushroom lay dormant.
+Bearing in mind the phallic form of the sacred mushroom, the cult prostitute"s task was to "seduce" the little "penis" from the ground by sexual wiles. Josephus tells us that to stop the Mandrake "shrinking away from the touch" and to make it "stand still," one was required to pour upon it the menses and urine of a woman. Where the cult prostitute was herself present, this was probably achieved directly, by exposing her genitals to that part of the ground where the mushroom lay dormant.
 
 Self-exposure of a menstruating woman for vegetative purposes is elsewhere recorded. Pliny says that to protect crops from vermin, menstruants "walked around the cornfield naked," and the vermin fell to the ground. This was discovered in Cappadocia owing to a plague of Spanish fly.
 

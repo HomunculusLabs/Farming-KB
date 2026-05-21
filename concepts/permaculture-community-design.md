@@ -20,7 +20,7 @@ sources:
 
 # Permaculture Community Design
 
-Practical framework for designing and organizing permaculture communities, from William Ozier Williams' PDC course. Covers governance, communication, and social structures alongside physical design. See [[permaculture-design-methods]] for the technical design process and [[permaculture-design]] for zone/sector basics.
+Practical framework for designing and organizing permaculture communities, from William Ozier Williams" PDC course. Covers governance, communication, and social structures alongside physical design. See [[permaculture-design-methods]] for the technical design process and [[permaculture-design]] for zone/sector basics.
 
 ## The Ten-Step Community Building Process
 
@@ -34,7 +34,7 @@ The community organization mandala is a circular diagram where each "lobe" repre
 
 - Each lobe represents a function (food production, housing, governance, education, etc.)
 - Each lobe is empowered with a mission, function, and purpose
-- A willing Steward oversees each lobe's implementation
+- A willing Steward oversees each lobe"s implementation
 - Lobes operate semi-autonomously but coordinate through a central council
 - The mandala pattern scales: each community sends representatives to a Local Community Council; local councils form Watershed Councils; watershed councils form Bio-Regional Councils; bioregional councils form Continental Councils
 
@@ -81,7 +81,7 @@ Once the organizational structure is in place, the Steward Council answers: What
 
 ### 7. Create the Permaculture Design
 
-Apply the standard [[permaculture-design-methods]] to the community's physical space.
+Apply the standard [[permaculture-design-methods]] to the community"s physical space.
 
 ### 8. Plan Programs and Events
 

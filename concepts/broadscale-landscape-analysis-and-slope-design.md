@@ -23,7 +23,7 @@ Mollison identifies four fundamental landscape zones in a typical humid-to-cool 
 - **Function**: Groundwater pumps that prevent salted water from rising to the surface downslope
 - **Critical importance**: Trees on these slopes are essential to prevent salination of lower agricultural soils
 - **Management priority**: Absolute protection from clearing; re-afforestation with useful forage and fuel trees
-- **Mollison's recommendation**: "A moratorium on all clearing or grazing of slopes of 18° or more should be an international concern, of as much long-term importance as a moratorium on arms"
+- **Mollison"s recommendation**: "A moratorium on all clearing or grazing of slopes of 18° or more should be an international concern, of as much long-term importance as a moratorium on arms"
 
 ### Zone C: Gentle Foothills and Lower Slopes
 - **Function**: Most viable agricultural area; supports structures, [[permaculture-domestic-animals]], and implements
@@ -39,7 +39,7 @@ Mollison identifies four fundamental landscape zones in a typical humid-to-cool 
 
 ## The Keypoint System
 
-Building on P.A. Yeomans' Keyline concepts, Mollison describes using high slopes as watershed and diversion catchment drains as "spouting" with dams as "tanks." Water is conserved at keypoints for frugal use in fields and buildings, passed with nutrients to low dams, and released as clean water from the site.
+Building on P.A. Yeomans" Keyline concepts, Mollison describes using high slopes as watershed and diversion catchment drains as "spouting" with dams as "tanks." Water is conserved at keypoints for frugal use in fields and buildings, passed with nutrients to low dams, and released as clean water from the site.
 
 ## Settlement Location Principles
 
@@ -119,6 +119,6 @@ Mollison identifies four components of total yield in permaculture:
 
 ## How Much Land?
 
-"The answer is, 'As much as you can control.' Any more and you lose self-sufficiency, let alone the ability to produce an excess." Mollison cites the example of 45,000 people existing healthily on 8,000 hectares in China, while in Australia a single person goes broke on the same area.
+"The answer is, "As much as you can control.' Any more and you lose self-sufficiency, let alone the ability to produce an excess." Mollison cites the example of 45,000 people existing healthily on 8,000 hectares in China, while in Australia a single person goes broke on the same area.
 
-"If you see a farm where the doorstep leads to weeds, then the weeds will go to the boundary; it is already out of control. Anybody, farmer or suburbanite, that has not planted a garden at the back doorstep hasn't started a permaculture."
+"If you see a farm where the doorstep leads to weeds, then the weeds will go to the boundary; it is already out of control. Anybody, farmer or suburbanite, that has not planted a garden at the back doorstep hasn"t started a permaculture."

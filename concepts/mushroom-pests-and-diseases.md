@@ -33,10 +33,10 @@ Molds are the most common contaminants in mushroom cultivation. They compete for
 The most damaging competitor mold. Parasitizes mushrooms directly. Encouraged by acid conditions, wet casings, undecomposed woody tissue, and potting soil in casing. Control: raise pH of surrounding area, lower humidity, careful picking, remove diseased mushrooms, improve air exchange (3–5 exchanges/hour at 85–92% humidity). Mites spread Trichoderma spores — control mite populations. See [[mushroom-contamination-identification]] for treatment.
 
 ### Penicillium (Bluish Green Mold)
-Common on grain spawn, compost, and casing soil. Humans are the most frequent carriers. Isolated outbreaks contained by improving hygiene and air filtration. Penicillium discovery led to Alexander Fleming's penicillin.
+Common on grain spawn, compost, and casing soil. Humans are the most frequent carriers. Isolated outbreaks contained by improving hygiene and air filtration. Penicillium discovery led to Alexander Fleming"s penicillin.
 
 ### Aspergillus (Green/Yellow/Black Mold)
-Multiple species. A. fumigatus causes "Worker's Lung Disease" — spent compost is the most frequent source. A. niger (black mold) is commercially cultured for citric acid production. Control: respiratory protection when handling contaminated material, proper pasteurization, remove spent substrate promptly.
+Multiple species. A. fumigatus causes "Worker"s Lung Disease" — spent compost is the most frequent source. A. niger (black mold) is commercially cultured for citric acid production. Control: respiratory protection when handling contaminated material, proper pasteurization, remove spent substrate promptly.
 
 ### Dactylium (Cobweb Mold)
 Fast-growing, grayish cobweb-like mycelium enveloping mushrooms. Grows through casing layer. Control: cover with salt or baking soda (highly alkaline substances stop growth). Spores killed at 115–122°F for 30 minutes. Related Dactylaria species trap nematodes in hyphal loops.

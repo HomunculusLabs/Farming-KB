@@ -33,7 +33,7 @@ A wadi (Arabic: وادي) is a dry riverbed, valley, or watercourse that contain
 
 ## Relevance to Cultivation and Permaculture
 
-- **Water harvesting**: Mollison's dryland reforestation strategy involves grading wide hollows on contour from "outwash (wadi) runnels," intercepting water before it concentrates in destructive floods.
+- **Water harvesting**: Mollison"s dryland reforestation strategy involves grading wide hollows on contour from "outwash (wadi) runnels," intercepting water before it concentrates in destructive floods.
 - **[[tree-establishment-in-deserts]].
 - **Historical lesson**: Many wadi-based agricultural civilisations collapsed when sediment loads from upstream erosion silted their canals and fields — Mollison cites this pattern in discussing desertification.
 - **Contour interception**: The strategy of intercepting wadi flow at intervals with swales and spreading structures converts destructive channelised flow into productive dispersed infiltration.

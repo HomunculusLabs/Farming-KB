@@ -39,7 +39,7 @@ The production of vermicastings involves a remarkable digestive process:
 4. **Gizzard grinding:** Food moves to the gizzard, an extremely strong muscle partially filled with sand and small rock particles that serve as "teeth" — grinding food into fine particles
 5. **Calcium carbonate addition:** Just before the intestine, food is mixed with liquid calcium carbonate
 6. **Bacterial digestion:** Worms lack enzymes to digest organic matter themselves; intestinal bacteria break down the ground-up organic material
-7. **Nutrient absorption:** Bacterial byproducts (nutrients) are absorbed into the worm's bloodstream
+7. **Nutrient absorption:** Bacterial byproducts (nutrients) are absorbed into the worm"s bloodstream
 8. **Elimination:** Undigested material is excreted as vermicastings — nutrient-rich fecal pellets
 
 ## Mechanism of Nutrient Enhancement

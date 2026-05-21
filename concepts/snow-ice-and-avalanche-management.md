@@ -6,7 +6,7 @@ type: concept
 
 ## Snow, Ice, and Avalanche Management
 
-In cold-climate [[permaculture-design]], snow and ice are not merely hazards to endure — they are resources to be managed, harvested, and strategically deployed. Understanding the physical properties of frozen water enables designers to protect infrastructure, store precipitation for dry-season use, concentrate solar energy, and safeguard human settlements from [[avalanche-phenomenon]] risk. This page synthesizes the key principles from [[bill-mollison]]'s treatment of ice management, snow physics, and avalanche dynamics.
+In cold-climate [[permaculture-design]], snow and ice are not merely hazards to endure — they are resources to be managed, harvested, and strategically deployed. Understanding the physical properties of frozen water enables designers to protect infrastructure, store precipitation for dry-season use, concentrate solar energy, and safeguard human settlements from [[avalanche-phenomenon]] risk. This page synthesizes the key principles from [[bill-mollison]]"s treatment of ice management, snow physics, and avalanche dynamics.
 
 ## Ice Management
 

@@ -1,5 +1,5 @@
 ---
-title: Master Cho's FPJ (bionutrients-lab-fermented-plant-juice-fpj) Guide
+title: Master Cho"s FPJ (bionutrients-lab-fermented-plant-juice-fpj) Guide
 created: 2026-04-26
 updated: 2026-04-24
 sources:

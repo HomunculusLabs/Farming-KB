@@ -6,7 +6,7 @@ type: entity
 
 ## Description
 
-**Spiral patterns** are among the most fundamental geometric forms in nature, appearing across all scales from molecular DNA double-helices to galactic structures. In Mollison's pattern understanding framework, spirals arise as a consequence of flow deformation over surfaces and are classified as either dynamic (revolving) or static (fixed). Natural spirals manifest in plant phyllotaxis, mollusc shells, weather systems, water flow, DNA, and planetary orbits. The spiral is presented as one of the primary pattern templates available to [[overbeck-jet]], D'Arcy Thompson
+**Spiral patterns** are among the most fundamental geometric forms in nature, appearing across all scales from molecular DNA double-helices to galactic structures. In Mollison"s pattern understanding framework, spirals arise as a consequence of flow deformation over surfaces and are classified as either dynamic (revolving) or static (fixed). Natural spirals manifest in plant phyllotaxis, mollusc shells, weather systems, water flow, DNA, and planetary orbits. The spiral is presented as one of the primary pattern templates available to [[overbeck-jet]], D'Arcy Thompson
 
 ## Key Facts
 

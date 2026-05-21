@@ -20,7 +20,7 @@ Zone two is visited perhaps every few days rather than daily. It contains elemen
 - **Espalier and trained forms**: For elderly clients or those with limited space, espalier trees growing up house walls provide accessible harvest with incidental labor. "While the actual labor per apple is high, the time may be incidental to other activities, such as enjoying the garden, watching over infant grandchildren playing in a sandbox, or simply pinched going out to the mail box and back."
 
 ### The Forest Edge Production Principle
-Mollison's commentary on forest-edge apple trees reveals a key permaculture insight: total production of the entire design matters more than individual yield per tree. A tree at the north edge of a forest produces less per tree than an open-field commercial specimen, but because it occupies no dedicated space — it is a component of forest or shelterbelt that has its own yield and justification — "the yield per unit area is infinite because we have taken up no extra space. Any number divided by zero is infinity."
+Mollison"s commentary on forest-edge apple trees reveals a key permaculture insight: total production of the entire design matters more than individual yield per tree. A tree at the north edge of a forest produces less per tree than an open-field commercial specimen, but because it occupies no dedicated space — it is a component of forest or shelterbelt that has its own yield and justification — "the yield per unit area is infinite because we have taken up no extra space. Any number divided by zero is infinity."
 
 This mathematical framing makes the point dramatically: if a tree produces any apples at all while occupying zero additional land area (because it lives at the edge of an existing forest), its yield per acre is mathematically infinite. The practical implication is that designers should look for edge positions where productive species can be added without displacing other functions.
 
@@ -55,7 +55,7 @@ The British devised a system of high farming with a seven-year rotation: pasture
 
 ## Client-Specific Zone Adjustments
 
-Zone boundaries are fluid and client-driven. The designer must understand "what he thinks is basic, and what he can handle." If a client's primary interest is deer rearing, zone three shifts inward because the client doesn't need extensive crop areas — "you shift zone three inwards, because the client doesn't want much of" the outer zones. A client focused on self-sufficiency food production may expand zone two orchards at the expense of zone three pasture. There may be clients who want to rear deer as their main activity, and others who want extensive vegetable gardens.
+Zone boundaries are fluid and client-driven. The designer must understand "what he thinks is basic, and what he can handle." If a client"s primary interest is deer rearing, zone three shifts inward because the client doesn't need extensive crop areas — "you shift zone three inwards, because the client doesn"t want much of" the outer zones. A client focused on self-sufficiency food production may expand zone two orchards at the expense of zone three pasture. There may be clients who want to rear deer as their main activity, and others who want extensive vegetable gardens.
 
 ## Adaptive Zone Placement
 
@@ -69,7 +69,7 @@ For clients more interested in income from the land than food self-sufficiency, 
 On established properties, zones may be poorly arranged. The most impactful intervention is often around the dwelling: "Spend a day crawling under the foundations and poking about, and leave his farm alone, because his house is costing him much more than his farm." Energy efficiency losses from poor house siting dwarf the inefficiencies of most farm layouts. Sixty per cent of energy efficiency is lost just by being exposed to wind and weather. The "most difficult retrofit job is often right around dwellings and buildings, where most of the energy is burned."
 
 ## The Priority List
-After pointing out resources and adjusting the client's expectations, the designer should look at the client's list of priorities. "After you have pointed out resources, people might want to abandon some of these choices in favor of some new enterprise." The zone layout then accommodates these revised priorities, with each zone sized according to the client's actual interests and capacity for management.
+After pointing out resources and adjusting the client"s expectations, the designer should look at the client's list of priorities. "After you have pointed out resources, people might want to abandon some of these choices in favor of some new enterprise." The zone layout then accommodates these revised priorities, with each zone sized according to the client's actual interests and capacity for management.
 
 ## See Also
 

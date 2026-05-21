@@ -16,7 +16,7 @@ Source: The [[actively-aerated-compost-tea-aact-brewing]] Tea, Dr. [[compost]] s
 
 ## pH Is a Symptom, Not a Cause
 
-Ingham's core position: pH is a CONSEQUENCE of the biology in the soil, not the other way around.
+Ingham"s core position: pH is a CONSEQUENCE of the biology in the soil, not the other way around.
 
 - A good soil foodweb buffers pH, bringing it back into the right range rapidly
 - In tea or in soil, the right ratio of fungi to bacteria maintains pH correct for the plant

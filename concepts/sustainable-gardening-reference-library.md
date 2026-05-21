@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-A well-curated reference library is essential for any serious gardener pursuing sustainable, low-input food production. Steve Solomon's *[[gardening-when-it-counts]]* concludes with an extensive bibliography that draws from both historical and contemporary sources on organic farming, soil science, composting, and vegetable cultivation. These references represent decades of accumulated wisdom from researchers, practitioners, and agricultural pioneers.
+A well-curated reference library is essential for any serious gardener pursuing sustainable, low-input food production. Steve Solomon"s *[[gardening-when-it-counts]]* concludes with an extensive bibliography that draws from both historical and contemporary sources on organic farming, soil science, composting, and vegetable cultivation. These references represent decades of accumulated wisdom from researchers, practitioners, and agricultural pioneers.
 
 ## Key Historical Sources
 
@@ -18,7 +18,7 @@ The **Soil and Health Library** (www.soilandhealth.org) is highlighted as a crit
 
 ### Albert Howard and the Organic Movement
 
-Sir **Albert Howard** (referenced at page 207 and 217) is a central figure in the bibliography. Howard's work on composting and soil fertility in India laid the groundwork for the modern organic farming movement. His research demonstrated that healthy soils produce healthy plants resistant to disease and pests — a principle that runs throughout Solomon's approach.
+Sir **Albert Howard** (referenced at page 207 and 217) is a central figure in the bibliography. Howard"s work on composting and soil fertility in India laid the groundwork for the modern organic farming movement. His research demonstrated that healthy soils produce healthy plants resistant to disease and pests — a principle that runs throughout Solomon's approach.
 
 ### Ehrenfried Pfeiffer
 
@@ -57,7 +57,7 @@ A text on bio-dynamic compost preparation is referenced as available through the
 
 Solomon does not recommend all sources uncritically. He specifically notes disagreements with certain authors:
 
-- **Poisson and Poisson's** *Solar Gardening* (1994) introduces interesting structure-based season extenders but Solomon disagrees with their "ill-considered intensive spacing recommendations" and their "derogation of extensive systems as 'non-productive.'"
+- **Poisson and Poisson"s** *Solar Gardening* (1994) introduces interesting structure-based season extenders but Solomon disagrees with their "ill-considered intensive spacing recommendations" and their "derogation of extensive systems as "non-productive.'"
 - Solomon recommends his own *Growing Vegetables West of the Cascades* (5th edition, Sasquatch, 2000) but explicitly states "I do not recommend my first three editions," showing honest assessment of how his own thinking evolved.
 
 ### Nutritional Research

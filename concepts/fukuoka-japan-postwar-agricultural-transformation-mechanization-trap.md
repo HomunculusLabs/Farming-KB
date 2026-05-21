@@ -1,11 +1,11 @@
 ---
-title: "Japan's fukuoka japan postwar agricultural transformation mechanization trap Transformation: The fukuoka-mechanization-trap-and-farmer-alienation"
+title: "Japan"s fukuoka japan postwar agricultural transformation mechanization trap Transformation: The fukuoka-mechanization-trap-and-farmer-alienation"
 source: "masanobu-fukuoka — The Natural Way of Farming: The Theory"
 tags: [japan-agriculture, postwar-mechanization, farm-village-culture, agricultural-collapse, mechanization-trap, fukuoka, farming-population, rural-decline]
 created: 2026-05-08
 ---
 
-## Japan's Postwar Agricultural Transformation: The Mechanization Trap
+## Japan"s Postwar Agricultural Transformation: The Mechanization Trap
 
 ## Overview
 
@@ -23,9 +23,9 @@ Japan experienced "such a sudden and dramatic transformation" following WWII:
 
 ### The Urban-Rural Parasitism
 
-Fukuoka reframes Japan's "economic miracle" as extraction from the countryside:
+Fukuoka reframes Japan"s "economic miracle" as extraction from the countryside:
 
-- The farmer's interpretation differs from the official narrative of "good fortune and wise leadership."
+- The farmer"s interpretation differs from the official narrative of "good fortune and wise leadership."
 - Changes in [[fukuoka-sowing-natural-farming-philosophy]]
 - [[fukuoka-japan-postwar-mechanization-agricultural-transformation]]
 - [[fukuoka-textdoc-japan-postwar-farmer-alienation-mechanization-food-policy]]

@@ -6,7 +6,7 @@ type: concept
 
 ## Sharanahua Visions and Cures
 
-The Sharanahua are closely related neighbors of the Cashinahua in the Upper Amazon, sharing many aspects of Banisteriopsis-based ayahuasca practice while exhibiting distinct cultural patterns in how hallucinogenic experiences are structured, shared, and therapeutically applied. Anthropologist Janet Siskind's research among the Sharanahua provides important insights into the relationship between cultural factors and the content of hallucinatory experiences.
+The Sharanahua are closely related neighbors of the Cashinahua in the Upper Amazon, sharing many aspects of Banisteriopsis-based ayahuasca practice while exhibiting distinct cultural patterns in how hallucinogenic experiences are structured, shared, and therapeutically applied. Anthropologist Janet Siskind"s research among the Sharanahua provides important insights into the relationship between cultural factors and the content of hallucinatory experiences.
 
 ## Shamanism and Priesthood Among the Campa
 
@@ -20,7 +20,7 @@ However, direct revelations—even when restricted to an elite few—are sooner 
 
 ## Consensual Validation and the Structuring of Experience
 
-Siskind's work on the Sharanahua explicitly addresses a problem raised by Carlos Castaneda: the degree to which **consensual validation** operates in structuring the hallucinatory experience. Using the Sharanahua case, Siskind focuses on the communication system employed between shaman and patient while both are under the influence of the Banisteriopsis drink.
+Siskind"s work on the Sharanahua explicitly addresses a problem raised by Carlos Castaneda: the degree to which **consensual validation** operates in structuring the hallucinatory experience. Using the Sharanahua case, Siskind focuses on the communication system employed between shaman and patient while both are under the influence of the Banisteriopsis drink.
 
 ### Cultural Shaping of Hallucinations
 

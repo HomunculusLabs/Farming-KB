@@ -6,7 +6,7 @@ type: concept
 
 ## Fukuoka No Weeding Principle — Weed Ecology and Utility
 
-[[four-principles-of-natural-farming]] — no weeding — challenges one of the most deeply held assumptions of [[fukuoka-critique-modern-agriculture]]. Rather than viewing weeds as enemies to be eradicated, Fukuoka argues that they are essential partners in building and maintaining healthy soil ecosystems. This principle is not merely a technique for reducing labor; it is a fundamental rethinking of humanity's relationship with the plant communities that sustain agriculture.
+[[four-principles-of-natural-farming]] — no weeding — challenges one of the most deeply held assumptions of [[fukuoka-critique-modern-agriculture]]. Rather than viewing weeds as enemies to be eradicated, Fukuoka argues that they are essential partners in building and maintaining healthy soil ecosystems. This principle is not merely a technique for reducing labor; it is a fundamental rethinking of humanity"s relationship with the plant communities that sustain agriculture.
 
 ## Is There Such a Thing as a Weed?
 
@@ -18,13 +18,13 @@ The very concept of a "weed" is a human invention born from agricultural intent.
 
 > "Had man looked squarely at nature and placed his trust in its powers, would he not have raised crops in harmony with other plants?"
 
-Fukuoka traces the antagonism toward weeds to the origin of farming itself. Once a farmer begins selectively caring for and raising a particular crop, all other plants are immediately recast as obstacles. The moment that the farmer started caring for and raising crops, he began to regard other herbs with disgust as weeds. What was once simply a diverse plant community becomes, through the lens of cultivation, a field full of enemies. The farmer's attention narrows to a single species, and everything else is measured against its effect on that species alone.
+Fukuoka traces the antagonism toward weeds to the origin of farming itself. Once a farmer begins selectively caring for and raising a particular crop, all other plants are immediately recast as obstacles. The moment that the farmer started caring for and raising crops, he began to regard other herbs with disgust as weeds. What was once simply a diverse plant community becomes, through the lens of cultivation, a field full of enemies. The farmer"s attention narrows to a single species, and everything else is measured against its effect on that species alone.
 
 Yet [[fungal-melanin-biosynthesis-ecological-functions]] that weeds perform. Weeds are not idle occupiers of space — they are active participants in soil formation and maintenance.
 
-> "The 'no-weeding' principle could also be known as the principle of 'weed utility.'"
+> "The "no-weeding' principle could also be known as the principle of 'weed utility.'"
 
-Every plant that emerges in a given environment arose for a reason. None is useless. Each species contributes in its own way to the development and enrichment of the biosphere. This is not romanticism — it is an ecological observation grounded in millions of years of soil evolution. The earth's fertile soils did not form in barren, plant-free conditions. Without the microorganisms working within the earth and the grasses growing on its surface, the fertile soils that sustain agriculture would never have formed in the first place.
+Every plant that emerges in a given environment arose for a reason. None is useless. Each species contributes in its own way to the development and enrichment of the biosphere. This is not romanticism — it is an ecological observation grounded in millions of years of soil evolution. The earth"s fertile soils did not form in barren, plant-free conditions. Without the microorganisms working within the earth and the grasses growing on its surface, the fertile soils that sustain agriculture would never have formed in the first place.
 
 The soil-building process driven by weeds follows a clear chain of [[fukuoka-nature-no-cause-and-effect]]. Deep grass roots penetrate and loosen compacted soil, breaking up hardpan layers that would otherwise prevent water infiltration. As these roots grow and eventually die, they decompose and add organic humus to the earth. The added humus feeds microbial populations — bacteria, fungi, and actinomycetes — which proliferate and further enrich the soil by breaking down organic matter into plant-available nutrients. Enriched soil absorbs rainwater more effectively, allowing moisture to percolate deep into the ground rather than running off the surface. Air is carried deep into the soil profile along with the water, creating the aerobic conditions that plant roots and beneficial soil organisms require. Earthworms thrive in this loose, organic-rich environment, and in turn they attract moles whose tunneling continues the work of aeration. Each step in this cycle is initiated and sustained by the presence of grasses and weeds.
 
@@ -36,7 +36,7 @@ The no-weeding principle is therefore not merely a labor-saving technique. It is
 
 ## A Cover of Grass Is Beneficial
 
-Fukuoka's own farming practice provides concrete evidence for the weed utility principle. Over decades of experimentation with his citrus orchard on the hillsides of Shikoku, he progressed through a clear evolutionary sequence: from initial grass cover, to deliberate green manure cultivation, and finally to a self-sustaining ground cover of clover and vegetables maintained with no weeding, no tillage, and no fertilizer. Each stage brought him closer to a system that mimics natural plant communities while still producing abundant food. The orchard that began as a conventionally managed grove transformed, over time, into a diverse ecosystem resembling a natural forest edge.
+Fukuoka"s own farming practice provides concrete evidence for the weed utility principle. Over decades of experimentation with his citrus orchard on the hillsides of Shikoku, he progressed through a clear evolutionary sequence: from initial grass cover, to deliberate green manure cultivation, and finally to a self-sustaining ground cover of clover and vegetables maintained with no weeding, no tillage, and no fertilizer. Each stage brought him closer to a system that mimics natural plant communities while still producing abundant food. The orchard that began as a conventionally managed grove transformed, over time, into a diverse ecosystem resembling a natural forest edge.
 
 One of his most practical insights for farmers dealing with persistent weed problems is counterintuitive yet profoundly effective:
 

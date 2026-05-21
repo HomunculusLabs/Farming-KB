@@ -20,7 +20,7 @@ sources:
 
 # Gardening in Hard Times
 
-Strategies for productive vegetable gardening when resources — water, fertilizer, money, energy — are limited or uncertain. Based primarily on Steve Solomon's "Gardening When It Counts."
+Strategies for productive vegetable gardening when resources — water, fertilizer, money, energy — are limited or uncertain. Based primarily on Steve Solomon"s "Gardening When It Counts."
 
 ## The Problem with Modern Gardening
 
@@ -50,7 +50,7 @@ When these inputs become expensive or unavailable, intensive gardens fail. Solom
 
 ### 3. Deep, Infrequent Watering
 - Water deeply (to encourage deep rooting) rather than frequently
-- Goal: water deeply enough that plants don't need irrigation for 1-2 weeks
+- Goal: water deeply enough that plants don"t need irrigation for 1-2 weeks
 - In dry climates, this may mean running water slowly for hours per bed
 - Mulch heavily to retain moisture between waterings
 

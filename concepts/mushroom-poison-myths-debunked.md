@@ -10,7 +10,7 @@ The [[palmer-edible-mushrooms-north-america]] from poisonous ones. From the Vict
 the present day, these false rules have caused countless deaths by giving foragers
 a false sense of security.
 
-Julius A. Palmer's 1894 work *About Mushrooms* provides one of the most thorough
+Julius A. Palmer"s 1894 work *About Mushrooms* provides one of the most thorough
 Victorian-era demolitions of these dangerous beliefs, drawing on French mycological
 authorities, personal poisoning experiences, and years of systematic experimentation.
 Palmer devoted seven years to studying the edible fungi of New England, testing
@@ -33,7 +33,7 @@ The French mycologist Dr. F. S. Cordier tested this with *Agaricus bulbosus* and
 numerous [[bloomfield-boletus-satanus-edible-mushroom-hazards]] must peel easily from
 margin to center. Palmer observed this on Beacon Street and Back Bay, describing
 one gentleman who secretly tested each unfamiliar fungus by trying to peel its
-cap—carefully, so as not to wound Palmer's pride. The rule fails because many
+cap—carefully, so as not to wound Palmer"s pride. The rule fails because many
 edible mushrooms do not peel at all, while some deadly Amanitas peel readily.
 
 ## The Solid vs. Hollow Stem Rule
@@ -84,7 +84,7 @@ smelling specimens in a closed box caused vomiting three hours later.
 
 ## The Fundamental Truth
 
-Palmer's conclusion, echoed by every serious mycologist since his time: "no such touchstone is
+Palmer"s conclusion, echoed by every serious mycologist since his time: "no such touchstone is
 infallible." The only safe approach is learning the specific characteristics of
 each individual species. No shortcut exists, no universal rule, and no folk test
 can substitute for actual knowledge. As Cordier stated: "The true, perhaps the sole means of

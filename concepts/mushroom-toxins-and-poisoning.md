@@ -42,7 +42,7 @@ The most dangerous mushroom toxins, responsible for the majority of fatal mushro
 
 ### Orellanine
 
-**Chemistry:** A bipyridyl compound (3,3',4,4'-tetrahydroxy-2,2'-bipyridine-N,N'-dioxide) that causes progressive kidney damage.
+**Chemistry:** A bipyridyl compound (3,3",4,4'-tetrahydroxy-2,2'-bipyridine-N,N'-dioxide) that causes progressive kidney damage.
 
 **Species:**
 - **Cortinarius orellanus** (fool's webcap): The classic orellanine-containing species from Europe
@@ -112,7 +112,7 @@ The long latency period makes orellanine poisoning particularly insidious, as vi
 
 ### Key Principles
 
-- There is no single reliable rule or test to distinguish edible from poisonous mushrooms (the "old wives' tales" about silver spoons, peeling caps, or animal consumption are unreliable)
+- There is no single reliable rule or test to distinguish edible from poisonous mushrooms (the "old wives" tales" about silver spoons, peeling caps, or animal consumption are unreliable)
 - Positive identification to species level is the only safe approach
 - Multiple features must be considered: cap, gills, stem, ring, volva, spore print color, bruising reactions, habitat, and association
 - When in doubt, do not eat it

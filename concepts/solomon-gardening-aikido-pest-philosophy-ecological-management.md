@@ -1,5 +1,5 @@
 ---
-title: "Solomon's Gardening Aikido: Pest Philosophy and Ecological Management"
+title: "Solomon"s Gardening Aikido: Pest Philosophy and Ecological Management"
 tags:
   - concept
 ---

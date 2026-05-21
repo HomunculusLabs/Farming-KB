@@ -1,5 +1,5 @@
 ---
-title: "Fukuoka's Hotel Analogy: A Model for Understanding Crop Yields"
+title: "Fukuoka"s Hotel Analogy: A Model for Understanding Crop Yields"
 tags:
   - concept
 ---
@@ -17,7 +17,7 @@ and inseparably related to all the others.
 The key observations from this model are:
 
 1. **Yield equals occupancy:** Yield is determined by the size of the building and the
-degree to which each room is full — like a hotel's occupancy rate.
+degree to which each room is full — like a hotel"s occupancy rate.
 2. **Natural yield as the ceiling:** The upper limit of yield is set by the natural
 environment, represented by the rock foundation and building site. The limit was fixed
 when the frame was erected. This maximum yield may be called the "natural yield" — the
@@ -52,7 +52,7 @@ Using the same variety the following year might not produce the same results. Th
 of all factors on final yield can hinge on something as seemingly random as how a typhoon
 blows — turning bad conditions into good ones.
 
-Last year's crop failure might have resulted from excessive fertilizer leading to lush
+Last year"s crop failure might have resulted from excessive fertilizer leading to lush
 growth and pest damage, but if the next year is windier, the same fertilizer might
 succeed because the wind keeps bugs off the plants. Since we cannot predict what will
 work and what will not, there is no reason for excessive concern about minor improvements.

@@ -13,7 +13,7 @@ type: entity
 - **Domain**: Biology / Biophysics
 - **Category**: Biological timing mechanism
 - **Subcategory**: Chemical oscillation / Reaction-diffusion system
-- **Related concepts**: Winfree's chemical clocks, [[neurospora-crassa]]* is one of the best-studied biological clocks. The spiral aggregation patterns seen in *Dictyostelium* have parallels in mycelial organization, where chemical signals coordinate hyphal growth and branching. For mushroom cultivators, understanding that biological systems are fundamentally rhythmic helps explain why consistent fruiting schedules, periodic fresh air exchanges, and timed temperature cycling are effective techniques. The concept that organisms carry "characteristic time-shape memories" suggests that fungi have evolved specific temporal patterns for fruiting that can be supported or disrupted by cultivation conditions.
+- **Related concepts**: Winfree"s chemical clocks, [[neurospora-crassa]]* is one of the best-studied biological clocks. The spiral aggregation patterns seen in *Dictyostelium* have parallels in mycelial organization, where chemical signals coordinate hyphal growth and branching. For mushroom cultivators, understanding that biological systems are fundamentally rhythmic helps explain why consistent fruiting schedules, periodic fresh air exchanges, and timed temperature cycling are effective techniques. The concept that organisms carry "characteristic time-shape memories" suggests that fungi have evolved specific temporal patterns for fruiting that can be supported or disrupted by cultivation conditions.
 
 ## Biological Clock Mechanisms
 

@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-Following Albert Hofmann's self-experiment with LSD-25 on April 19, 1943, several remarkable properties of the new substance became apparent. This concept page covers the immediate aftermath of the discovery, including LSD's unique pharmacological profile, the reactions of Hofmann's colleagues, and the early recognition of its potential applications in medicine and psychiatry.
+Following Albert Hofmann"s self-experiment with LSD-25 on April 19, 1943, several remarkable properties of the new substance became apparent. This concept page covers the immediate aftermath of the discovery, including LSD's unique pharmacological profile, the reactions of Hofmann's colleagues, and the early recognition of its potential applications in medicine and psychiatry.
 
 ## The No-Hangover Property
 
@@ -16,7 +16,7 @@ Following Albert Hofmann's self-experiment with LSD-25 on April 19, 1943, severa
 
 One of the most surprising aspects of LSD was "its ability to produce such a far-reaching, powerful state of inebriation without leaving a hangover." On the day after his self-experiment, Hofmann felt himself to be "in excellent physical and mental condition."
 
-This was remarkable because virtually all known inebriants—alcohol, opiates, barbiturates—produced characteristic hangover effects: headache, nausea, fatigue, cognitive impairment. LSD's lack of aftereffects suggested that its mechanism of action was fundamentally different from conventional intoxicants.
+This was remarkable because virtually all known inebriants—alcohol, opiates, barbiturates—produced characteristic hangover effects: headache, nausea, fatigue, cognitive impairment. LSD"s lack of aftereffects suggested that its mechanism of action was fundamentally different from conventional intoxicants.
 
 ### Implications
 
@@ -24,11 +24,11 @@ The absence of hangover had important implications for potential medical use: if
 
 ## The "Terrifying, Demonic Aspect"
 
-### Hofmann's Initial Perception
+### Hofmann"s Initial Perception
 
 Hofmann's first LSD experience was overwhelmingly negative—what he later called its "terrifying, demonic aspect." The loss of control, the visual distortions, the sense of being in the grip of an alien force—all of these were experienced as threatening rather than pleasurable.
 
-Given this initial experience, "the last thing I could have expected was that this substance could ever find application as anything approaching a pleasure drug." Hofmann's perception of LSD as fundamentally dangerous and uncontrollable colored his attitude toward the substance for the rest of his life.
+Given this initial experience, "the last thing I could have expected was that this substance could ever find application as anything approaching a pleasure drug." Hofmann"s perception of LSD as fundamentally dangerous and uncontrollable colored his attitude toward the substance for the rest of his life.
 
 ### The Delayed Connection to Visionary Experience
 
@@ -38,7 +38,7 @@ Hofmann "failed to recognize the meaningful connection between LSD inebriation a
 
 ### Incredulous Astonishment
 
-Hofmann's report of his experience was met with "incredulous astonishment." Professor Stoll immediately called to ask: "Are you certain you made no mistake in the weighing? Is the stated dose really correct?" The suggestion was that Hofmann must have taken far more than the 0.25 mg he reported—surely no substance could be active at such a minuscule dose.
+Hofmann"s report of his experience was met with "incredulous astonishment." Professor Stoll immediately called to ask: "Are you certain you made no mistake in the weighing? Is the stated dose really correct?" The suggestion was that Hofmann must have taken far more than the 0.25 mg he reported—surely no substance could be active at such a minuscule dose.
 
 ### Verification
 
@@ -60,7 +60,7 @@ What Hofmann did not anticipate was "that the new substance would also come to b
 
 On the day after his self-experiment, Hofmann wrote a detailed report to Professor Stoll and sent a copy to Professor Rothlin, director of the pharmacological department. This letter is one of the primary documents in the history of psychopharmacology—a firsthand account of the discovery of a new class of psychoactive substances.
 
-The letter's tone is notably restrained and scientific, despite describing an experience that must have been profoundly disorienting. Hofmann's commitment to objective reporting, even in the face of an experience that challenged his understanding of the relationship between chemistry and consciousness, is characteristic of his approach throughout his career.
+The letter"s tone is notably restrained and scientific, despite describing an experience that must have been profoundly disorienting. Hofmann's commitment to objective reporting, even in the face of an experience that challenged his understanding of the relationship between chemistry and consciousness, is characteristic of his approach throughout his career.
 
 ## The Sandoz Response
 

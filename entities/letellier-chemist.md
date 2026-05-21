@@ -30,7 +30,7 @@ Letellier chose the name "Amanitine" based on the genus *Amanita*, which Palmer 
 | Schmiedeberg & Koppe | Muscarine | *Amanita muscaria* |
 | Dr. Boudier | Bulbosine | *Amanita bulbosa* |
 
-Palmer noted that "the effects of the poisons are almost identical" and concluded that Letellier's designation was the best because "it includes the others, and the term will be so used herein."
+Palmer noted that "the effects of the poisons are almost identical" and concluded that Letellier"s designation was the best because "it includes the others, and the term will be so used herein."
 
 ### Probable Multi-Species Isolation
 
@@ -38,7 +38,7 @@ Unlike Schmiedeberg (who worked with *A. muscaria*) and Boudier (who worked with
 
 ## Historical Significance
 
-Letellier's work represents one of the earliest systematic attempts to isolate and name the toxic principle of *Amanita* mushrooms. His choice of a genus-based name rather than a species-specific one showed sound taxonomic judgment that Palmer recognized and endorsed.
+Letellier"s work represents one of the earliest systematic attempts to isolate and name the toxic principle of *Amanita* mushrooms. His choice of a genus-based name rather than a species-specific one showed sound taxonomic judgment that Palmer recognized and endorsed.
 
 The challenge faced by Letellier and his contemporaries was formidable. Palmer described the alkaloid as:
 
@@ -50,7 +50,7 @@ An eminent chemist told Palmer "that he should regret to receive for test purpos
 
 ## Relevance to Cultivation and Mycology
 
-Letellier's contributions are important for:
+Letellier"s contributions are important for:
 
 - **Toxin nomenclature**: Establishing the genus-based naming convention for mushroom toxins
 - **Analytical chemistry**: Pioneering the isolation of fungal alkaloids despite severe technical limitations

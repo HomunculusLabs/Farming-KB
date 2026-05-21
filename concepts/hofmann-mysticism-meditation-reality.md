@@ -7,7 +7,7 @@ tags:
   - meditation
   - consciousness
   - philosophy-of-science
-philosophical framework that guided his life's work. He cites the
+philosophical framework that guided his life"s work. He cites the
 Gospel according to John, Chapter 14, where Jesus promises his
 disciples "another Comforter" and "the Spirit of truth" that "the
 world cannot receive, because it seeth him not, neither knoweth him."

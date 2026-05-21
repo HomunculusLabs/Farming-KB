@@ -32,7 +32,7 @@ Individual mycorrhizal networks can interconnect multiple plants of the same or 
 - Transfer defensive compounds and allelochemicals
 - Facilitate seedling establishment in competitive environments
 
-Suzanne Simard's landmark research on Douglas-fir and paper birch forests demonstrated that carbon moves through CMNs from canopy-dominant trees to understory seedlings, a phenomenon dubbed the "mother tree effect."
+Suzanne Simard"s landmark research on Douglas-fir and paper birch forests demonstrated that carbon moves through CMNs from canopy-dominant trees to understory seedlings, a phenomenon dubbed the "mother tree effect."
 
 ## Agricultural and Permaculture Applications
 

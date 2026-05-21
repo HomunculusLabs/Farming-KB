@@ -1,5 +1,5 @@
 ---
-title: Cosmic Synergism and Psychedelic Combinations - Turner's turner-essential-psychedelics-5-meo-dmt-void-experience Guide
+title: Cosmic Synergism and Psychedelic Combinations - Turner"s turner-essential-psychedelics-5-meo-dmt-void-experience Guide
 created: 2026-04-26
 updated: 2026-04-24
 sources:

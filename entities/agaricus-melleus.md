@@ -54,7 +54,7 @@ raw and cooked consumption. He writes: "Notwithstanding such a warning, it
 continues to be a favorite article of diet to this day. I think it may be noxious
 raw, but that the heat kills the virus."
 
-This historical debate highlights a central theme in Palmer's work: that many
+This historical debate highlights a central theme in Palmer"s work: that many
 supposedly poisonous fungi are merely unpalatable or mildly toxic when raw but
 perfectly safe when properly prepared — a distinction lost in the crude binary
 of "edible" versus "poisonous" that characterized earlier mycological texts.

@@ -15,7 +15,7 @@ the urethra passes through the prostate from the bladder to the tip of the
 penis. The gland produces and stores seminal fluids in which sperm move during
 ejaculation.
 
-Females possess analogous glandular tissue called Skene's glands (periurethral
+Females possess analogous glandular tissue called Skene"s glands (periurethral
 glands) that produce fluid nearly identical to the male version. However, the
 "female prostate" is not usually subject to cancerous proliferation.
 
@@ -32,9 +32,9 @@ symptoms include:
 - Painful urination
 - Pain in the pelvic region
 
-### The "Priest's Disease" Connection
+### The "Priest"s Disease" Connection
 
-Historically, prostate problems were called "priest's disease" due to the
+Historically, prostate problems were called "priest"s disease" due to the
 hypothesis that lack of sexual activity may relate to prostate cancer
 development. A significant eight-year study of nearly 30,000 males confirmed
 this association: increased sexual activity (more than 21 ejaculations per

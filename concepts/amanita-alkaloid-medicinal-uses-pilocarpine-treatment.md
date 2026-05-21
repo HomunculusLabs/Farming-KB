@@ -15,7 +15,7 @@ experimental treatments using [[pilocarpine]] and atropine.
 
 ## Proposed Medicinal Applications
 
-### Cordier's Opium Substitution Hypothesis
+### Cordier"s Opium Substitution Hypothesis
 
 Cordier proposed that the narcotic properties of *[[amanita-phalloides-death-cap]]* might
 serve as a substitute for opium in medical practice. His reasoning was grounded

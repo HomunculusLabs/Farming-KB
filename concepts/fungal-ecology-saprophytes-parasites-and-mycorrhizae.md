@@ -32,7 +32,7 @@ Once primary decomposer mycelium has established and initial breakdown of raw ma
 As organic material is extensively broken down, tertiary decomposers grow. These typically require the most decomposed, nutrient-simple substrates.
 
 ### Cultivation Significance
-"In nature, the three groups are not clearly separated but rather occur in the same location or habitat." Recognition of a mushroom's growth needs in nature can hasten large-scale commercial cultivation.
+"In nature, the three groups are not clearly separated but rather occur in the same location or habitat." Recognition of a mushroom"s growth needs in nature can hasten large-scale commercial cultivation.
 
 ## Parasitic Mushrooms
 
@@ -58,7 +58,7 @@ Mycorrhizal (myco = mushroom, rhizal = roots) mushrooms form symbiotic associati
 - **Tree provides**: Organic material of unknown composition to the fungus
 
 ### Important Mycorrhizal Species
-Many of the world's most prized gourmet mushrooms are mycorrhizal:
+Many of the world"s most prized gourmet mushrooms are mycorrhizal:
 - **Truffles** (Tuber spp.)
 - **Matsutake** ([[tricholoma-matsutake]])
 - **Ceps/Porcini** (Boletus edulis)
@@ -95,10 +95,10 @@ Fungi make "a huge contribution in biotechnology producing wines, beers, spirits
 Medicinal mushrooms belong almost exclusively to the **Basidiomycete** and **Ascomycete** subdivisions. Both undergo sexual reproduction manifesting in large above-ground fruit-bodies.
 
 ### Spore Release Differences
-- **Ascomycetes** ('sac fungi'): Produce sac-shaped capsules (asci) that actively release spores to the atmosphere
+- **Ascomycetes** ("sac fungi'): Produce sac-shaped capsules (asci) that actively release spores to the atmosphere
 - **Basidiomycetes** ('club-fungi'): Produce spores attached to club-shaped structures (basidia)
 
-"Some of the mushrooms are prized by the epicure, others are shunned as amongst the deadliest of poisons but, most important of all, there is the increasing recognition that many contain a Pandora's box of intriguing medicinally important compounds."
+"Some of the mushrooms are prized by the epicure, others are shunned as amongst the deadliest of poisons but, most important of all, there is the increasing recognition that many contain a Pandora"s box of intriguing medicinally important compounds."
 ## Practical Applications
 The principles discussed here have direct applications in agricultural systems, ecological restoration, and sustainable resource management.
 Practitioners have demonstrated successful implementation across diverse climates and soil conditions.

@@ -15,7 +15,7 @@ Fukuoka uses a vivid energy cascade metaphor to illustrate the staggering calori
 
 This energy cascade translates directly into human labor. People have to work ten times as hard to eat beef as grain, and they had better be prepared to work five times as hard if they want to nourish themselves on milk and eggs. The caloric cost of animal-based foods is not merely a matter of preference or taste — it is a fundamental constraint on human energy budgets that no technological improvement can overcome.
 
-Farming with the labor of animals therefore helps satisfy certain cravings and desires, but increases man's labor many times over. Although this form of agriculture appears to benefit man, it actually puts him in the service of his livestock. The supposed master becomes the servant of his animals.
+Farming with the labor of animals therefore helps satisfy certain cravings and desires, but increases man"s labor many times over. Although this form of agriculture appears to benefit man, it actually puts him in the service of his livestock. The supposed master becomes the servant of his animals.
 
 This labor penalty is invisible in modern economies because the work is distributed across supply chains, processing facilities, feed manufacturers, and transportation networks. The consumer at the supermarket sees only the final price, not the accumulated human toil that produced it.
 

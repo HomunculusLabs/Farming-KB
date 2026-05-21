@@ -19,7 +19,7 @@ regional average. Peanuts and tobacco produced nearly 50% more than
 normal. Even the Bharata-Natyam dance, performed without musical
 accompaniment, accelerated flowering by up to a fortnight.
 
-## Dorothy Retallack's Controlled Experiments
+## Dorothy Retallack"s Controlled Experiments
 
 Dorothy Retallack, a professional organist who enrolled at Temple Buell
 College, conducted the most rigorous Western experiments on music and

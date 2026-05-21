@@ -30,7 +30,7 @@ The first task in species description is obtaining healthy, fresh spores with al
 A minimum of 75 spores should be mounted, divided as follows:
 - One-third mounted whole
 - One-third mounted and broken in [[pvlg]] (polyvinyl-alcohol–lactic acid–glycerol) and water
-- One-third mounted and broken in PVLG + Melzer's reagent (1:1 v/v)
+- One-third mounted and broken in PVLG + Melzer"s reagent (1:1 v/v)
 
 Slide preparation guidelines:
 - No more than 5–10 spores per coverslip for spores exceeding 200 μm in diameter

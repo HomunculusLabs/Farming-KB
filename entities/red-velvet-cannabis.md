@@ -55,7 +55,7 @@ Red Velvet is a visually stunning strain that commands attention in any jar:
 
 ## Terpene Profile
 
-- **[[myrcene]]** (dominant) — Musky, herbal, relaxing; responsible for the strain's sedative body effects.
+- **[[myrcene]]** (dominant) — Musky, herbal, relaxing; responsible for the strain"s sedative body effects.
 - **[[limonene]]** — Citrus brightness, mood elevation, stress relief.
 - **Caryophyllene** — Peppery spice, anti-inflammatory, adds depth to the flavor.
 - **Linalool** — Floral, lavender notes; contributes to calming, anxiolytic effects.

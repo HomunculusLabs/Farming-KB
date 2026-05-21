@@ -42,7 +42,7 @@ Kava is believed to be a domesticated derivative of *Piper wichmannii* (sometime
 
 ### Mechanism of Action
 
-Kavalactones modulate several neurotransmitter systems simultaneously, which explains kava's unique pharmacological profile:
+Kavalactones modulate several neurotransmitter systems simultaneously, which explains kava"s unique pharmacological profile:
 
 1. **GABA_A receptor modulation**: [[kavain]] enhances GABAergic neurotransmission without the sedation, tolerance, or addiction associated with benzodiazepines. This is the primary mechanism for anxiolysis.
 

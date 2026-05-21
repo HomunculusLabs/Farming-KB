@@ -21,7 +21,7 @@ The site-based approach to [[permaculture-design]] has several advantages:
 
 A Permaculture-designed garden (Zones 1 and 2) functions as a human rural settlement cell. There is a limit to efficient garden size before a jump to a more complex production system is required. Successful gardens do not keep expanding — they provide a surplus of plant stock and knowledge that help establish new gardens.
 
-The dwelling and household are analogous to the cell nucleus, providing control, management, and information for reproduction. Households "reproduce" when children leave home and establish their own. There is an upper limit beyond which household size doesn't work well — ironically, Western nuclear families are too small to be efficient in food production and preparation. The traditional extended family of five to fifteen members was large enough to efficiently support many self-reliance functions.
+The dwelling and household are analogous to the cell nucleus, providing control, management, and information for reproduction. Households "reproduce" when children leave home and establish their own. There is an upper limit beyond which household size doesn"t work well — ironically, Western nuclear families are too small to be efficient in food production and preparation. The traditional extended family of five to fifteen members was large enough to efficiently support many self-reliance functions.
 
 ## The Five Permaculture Zones
 

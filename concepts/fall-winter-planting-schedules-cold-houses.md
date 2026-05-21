@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-Successful winter harvesting depends on precise planting schedules that account for decreasing day length, declining temperatures, and the specific requirements of each protected growing environment. [[eliot-coleman]]'s [[four-season-farm]] system uses four distinct planting sites for fall and winter production: outdoor fields (harvested until early November), early greenhouses, later greenhouses, and a dedicated [[cool-greenhouse]]. Each site has its own planting window, determined by when protection becomes available and how cold the environment gets.
+Successful winter harvesting depends on precise planting schedules that account for decreasing day length, declining temperatures, and the specific requirements of each protected growing environment. [[eliot-coleman]]"s [[four-season-farm]] system uses four distinct planting sites for fall and winter production: outdoor fields (harvested until early November), early greenhouses, later greenhouses, and a dedicated [[cool-greenhouse]]. Each site has its own planting window, determined by when protection becomes available and how cold the environment gets.
 
 ## The Four Planting Sites
 

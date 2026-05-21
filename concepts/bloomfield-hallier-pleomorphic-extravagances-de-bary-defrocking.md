@@ -7,7 +7,7 @@ topics: [mycology, history-of-science, pleomorphy, taxonomy, scientific-controve
 
 ## Ernst Hallier and the Pleomorphic Extravagances
 
-The Tulasne brothers' discovery that a single fungus could produce
+The Tulasne brothers" discovery that a single fungus could produce
 radically different [[spore]] types across its life cycle was one of the
 great revolutions in mycology. But every revolution attracts its
 radicals, and the concept of pleomorphy was no exception. The story of
@@ -96,7 +96,7 @@ the evidence against them.
 
 ### The Perils of Overextension
 
-Hallier's story illustrates a common pattern in science: a genuine
+Hallier"s story illustrates a common pattern in science: a genuine
 discovery is generalized beyond its domain of validity. The Tulasne
 brothers had shown that some fungi are pleomorphic; Hallier assumed
 that all microorganisms were phases of a single protean entity. The

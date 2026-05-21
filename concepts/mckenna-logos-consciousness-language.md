@@ -11,7 +11,7 @@ sources: [raw/papers/mckenna_t-tryptamines_consciousness.md]
 
 ## Overview
 
-Terence McKenna's concept of the Logos represents the central philosophical thread of his 1983 Esalen lecture on tryptamine hallucinogens. Drawing on the Greek philosophical tradition (Heraclitus, Philo Judaeus), the Kabbalistic Zohar, Robert Graves's *The White Goddess*, and his own experiential data, McKenna argues that tryptamine compounds provide direct access to an alien intelligence that operates through language at the quantum foundation of consciousness. This intelligence — the Logos — is not a metaphor but a phenomenological reality accessible through the tryptamine experience, and its implications for understanding human consciousness, cultural evolution, and the nature of reality are profound.
+Terence McKenna"s concept of the Logos represents the central philosophical thread of his 1983 Esalen lecture on tryptamine hallucinogens. Drawing on the Greek philosophical tradition (Heraclitus, Philo Judaeus), the Kabbalistic Zohar, Robert Graves's *The White Goddess*, and his own experiential data, McKenna argues that tryptamine compounds provide direct access to an alien intelligence that operates through language at the quantum foundation of consciousness. This intelligence — the Logos — is not a metaphor but a phenomenological reality accessible through the tryptamine experience, and its implications for understanding human consciousness, cultural evolution, and the nature of reality are profound.
 
 ## The Logos in Philosophical Tradition
 
@@ -28,16 +28,16 @@ The concept of the Logos has a rich history across multiple philosophical and re
 - **Gospel of John**: "In the beginning was the Logos, and the Logos was with God, and the Logos was God." The identification of the Logos with Christ transformed the concept into a specifically theological framework.
 - **Kabbalah (Zohar)**: Describes a primal "Ursprache" — a primordial language that precedes and structures creation itself. McKenna connects this to the [[quantum-mechanics-fundamentals]]:
 
-- "Consciousness is somehow able to collapse the state vector and thereby cause the stuff of being to undergo what Alfred North Whitehead called 'the formality of actually occurring'"
+- "Consciousness is somehow able to collapse the state vector and thereby cause the stuff of being to undergo what Alfred North Whitehead called "the formality of actually occurring'"
 - He positions consciousness as central to reality rather than peripheral: "Everything should be constellated outward from the perceiving self. That is the primary datum."
 - This represents a challenge to five centuries of scientific decentralization — "We have moved ourselves out toward the edge of the galaxy, when the fact is that the most richly organized material in the universe is the human cerebral cortex"
 
-### Bell's non-locality
+### Bell"s non-locality
 
 McKenna invokes Bell's theorem (demonstrating quantum entanglement and non-locality) as a possible mechanism for the mushroom's claimed extraterrestrial communication:
 
-- "I couldn't figure out whether the mushroom is the alien or the mushroom is some kind of technological artifact allowing me to hear the alien when the alien is actually light-years away, using some kind of Bell non-locality principle to communicate"
-- While he acknowledges that "I am troubled by how freely Bell's non-locality theorem is tossed around," he maintains that the phenomenological data of the tryptamine experience demands some form of non-local explanation
+- "I couldn"t figure out whether the mushroom is the alien or the mushroom is some kind of technological artifact allowing me to hear the alien when the alien is actually light-years away, using some kind of Bell non-locality principle to communicate"
+- While he acknowledges that "I am troubled by how freely Bell"s non-locality theorem is tossed around," he maintains that the phenomenological data of the tryptamine experience demands some form of non-local explanation
 
 ## The Archaic Revival and Cultural Evolution
 

@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-Mazatec shamanic healing, as practiced by medicine women (*curanderas*) in the [[sierra-mazateca]] of Oaxaca, Mexico, integrates chemical medicine, spiritual diagnosis, physical manipulation, and inspired speech into a unified therapeutic system. The medicine woman's role encompasses that of physician, psychologist, priest, oral poet, and community counselor. This concept page details the specific healing practices, methods, and therapeutic philosophy of Mazatec medicine women based on ethnographic documentation of Mrs. [[irene-pineda-de-figueroa]]'s mushroom ceremonies.
+Mazatec shamanic healing, as practiced by medicine women (*curanderas*) in the [[sierra-mazateca]] of Oaxaca, Mexico, integrates chemical medicine, spiritual diagnosis, physical manipulation, and inspired speech into a unified therapeutic system. The medicine woman"s role encompasses that of physician, psychologist, priest, oral poet, and community counselor. This concept page details the specific healing practices, methods, and therapeutic philosophy of Mazatec medicine women based on ethnographic documentation of Mrs. [[irene-pineda-de-figueroa]]'s mushroom ceremonies.
 
 ## The Medicine Woman's Toolkit
 
@@ -24,7 +24,7 @@ Ground tobacco (*Nicotiana rustica*), known locally as San Pedro, is applied ext
 
 ### Massage and Suction
 
-Beyond verbal healing, the shaman works directly on the patient's body. The intoxicated condition of intense, vibrant energy gives the shaman a strength that he exercises through massage and suction. Suction is performed through a hollow tube of cane—sometimes at a distance, the shaman claims to be able to "draw the sickness out of you by suction from space."
+Beyond verbal healing, the shaman works directly on the patient"s body. The intoxicated condition of intense, vibrant energy gives the shaman a strength that he exercises through massage and suction. Suction is performed through a hollow tube of cane—sometimes at a distance, the shaman claims to be able to "draw the sickness out of you by suction from space."
 
 ### Copal Incense
 
@@ -41,9 +41,9 @@ The session unfolds through several phases:
 1. **Preparation**: Mushrooms are blessed in copal smoke, tobacco is applied, the candle is extinguished
 2. **Onset**: A waiting period in darkness while the mushrooms take effect
 3. **Enlightenment and enlivenment**: The medicine woman begins to speak, chant, pray, and sing
-4. **Diagnostic journey**: The shaman's consciousness "roams throughout existential space" searching for the origin of illness
+4. **Diagnostic journey**: The shaman"s consciousness "roams throughout existential space" searching for the origin of illness
 5. **Therapeutic invocation**: Prayers for healing, purification, and well-being
-6. **Integration**: The shaman addresses the patient's reintegration into everyday life
+6. **Integration**: The shaman addresses the patient"s reintegration into everyday life
 7. **Return**: As the intoxication ebbs, the discourse turns to safe return to normal consciousness
 
 ### Duration and Timing
@@ -61,7 +61,7 @@ The primary diagnostic tool is the mushroom-induced visionary state. The medicin
 
 ### The Tracking Method
 
-Diagnosis follows the metaphor of tracking: "Let us go searching for the path, the tracks of her feet, the tracks of her nails. From the right side to the left side, let us look." The shaman systematically examines the patient's condition "from the head to the feet," looking for the signs of sickness the way a hunter reads tracks on the ground.
+Diagnosis follows the metaphor of tracking: "Let us go searching for the path, the tracks of her feet, the tracks of her nails. From the right side to the left side, let us look." The shaman systematically examines the patient"s condition "from the head to the feet," looking for the signs of sickness the way a hunter reads tracks on the ground.
 
 ### Etiological Categories
 
@@ -86,7 +86,7 @@ The Mazatecs attribute a wide range of cures to the mushrooms:
 - **Depression**: The mushrooms "awaken a catharsis of the spirit"
 - **Existential crisis**: They provide "a vision of their existential way"
 
-The medicine woman whose practices are documented discovered her own vocation when she was cured of a post-bereavement skin affliction by the mushrooms after her husband's death.
+The medicine woman whose practices are documented discovered her own vocation when she was cured of a post-bereavement skin affliction by the mushrooms after her husband"s death.
 
 ## The Psychological Dimension
 
@@ -100,7 +100,7 @@ The mushrooms are most effective for psychosomatic complaints because they simul
 
 ### The Physiological Quality of the Experience
 
-Munn notes a "very definite physiological quality about the mushroom experience" that leads the Indians to describe a kind of visceral introspection—the mushrooms "teach one the workings of the organism." It is as if the body's systems were projected into vision: "the heart, the liver, lungs, genitals, and stomach." This somatic awareness may contribute to the mushrooms' effectiveness for diagnosing and treating physical ailments.
+Munn notes a "very definite physiological quality about the mushroom experience" that leads the Indians to describe a kind of visceral introspection—the mushrooms "teach one the workings of the organism." It is as if the body"s systems were projected into vision: "the heart, the liver, lungs, genitals, and stomach." This somatic awareness may contribute to the mushrooms" effectiveness for diagnosing and treating physical ailments.
 
 ## The Shaman-Patient Relationship
 

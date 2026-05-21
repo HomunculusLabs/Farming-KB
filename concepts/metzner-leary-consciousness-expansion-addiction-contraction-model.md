@@ -34,7 +34,7 @@ awareness characterized by:
 ## Addiction as Consciousness Contraction
 
 Leary and [[mckenna-food-gods-designer-states-of-consciousness]]
-contraction. The addict's awareness becomes progressively narrowed to focus on
+contraction. The addict"s awareness becomes progressively narrowed to focus on
 obtaining and using the substance, while other aspects of life recede from
 awareness.
 

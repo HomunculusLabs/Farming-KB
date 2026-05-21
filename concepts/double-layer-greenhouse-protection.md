@@ -19,7 +19,7 @@ Each layer of protection effectively moves the growing environment approximately
 
 ## The Leap Forward
 
-Coleman's breakthrough came in the winter of 1980. Having used simple cold frames for years, he constructed an unheated greenhouse in the traditional Dutch style — a structural frame of 2×4s covered with Dutch light glass panels — and planted it with winter crops. He then erected cold frames inside over the crops. The result was transformative: the plants experienced the equivalent of a Zone 8 climate, with the added benefit of a snow-shedding roof overhead.
+Coleman"s breakthrough came in the winter of 1980. Having used simple cold frames for years, he constructed an unheated greenhouse in the traditional Dutch style — a structural frame of 2×4s covered with Dutch light glass panels — and planted it with winter crops. He then erected cold frames inside over the crops. The result was transformative: the plants experienced the equivalent of a Zone 8 climate, with the added benefit of a snow-shedding roof overhead.
 
 This moment of simplicity — merely adding a second layer — helped crystallize the overall concept: the goal was to protect hardy plants, not to fight winter.
 

@@ -19,7 +19,7 @@ making it central to the field of geomycology.
 Oxalic acid is a simple dicarboxylic acid (HOOC-COOH) with two pKa values
 (pKa1 = 1.25, pKa2 = 4.14). At environmental pH values, it exists primarily
 as the oxalate dianion (C2O4²⁻), which is an excellent metal chelator. This
-chelating ability is the basis for oxalate's role in mineral dissolution.
+chelating ability is the basis for oxalate"s role in mineral dissolution.
 
 Oxalic acid is produced by fungi through several metabolic pathways:
 

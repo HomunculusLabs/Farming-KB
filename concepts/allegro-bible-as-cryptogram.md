@@ -10,7 +10,7 @@ sources:
 
 ## The Bible as Cryptogram — Encoding Methods
 
-Allegro's most radical claim is that the entire Bible — both Old and New Testaments — is a deliberate cryptogram, a text written in code to preserve the [[dead-sea-scrolls-entheogenic-reading]].
+Allegro"s most radical claim is that the entire Bible — both Old and New Testaments — is a deliberate cryptogram, a text written in code to preserve the [[dead-sea-scrolls-entheogenic-reading]].
 
 ## The Nature of the Cryptogram
 

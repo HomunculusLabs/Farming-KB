@@ -1,5 +1,5 @@
 ---
-title: "Solomon's Wide-Spacing Versus wide-row-spacing-intensive-gardening-comparison Debate"
+title: "Solomon"s Wide-Spacing Versus wide-row-spacing-intensive-gardening-comparison Debate"
 tags:
   - gardening
   - agriculture

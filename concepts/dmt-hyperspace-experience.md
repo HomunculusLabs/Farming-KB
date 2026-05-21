@@ -4,7 +4,7 @@ tags:
   - concept
 ---
 
-## From Terence McKenna's "Tryptamine Hallucinogens and Consciousness"
+## From Terence McKenna"s "Tryptamine Hallucinogens and Consciousness"
 
 ## Onset and Phenomenology
 

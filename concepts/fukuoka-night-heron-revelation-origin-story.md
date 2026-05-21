@@ -35,7 +35,7 @@ revolution could begin."
 
 ## Philosophical Significance
 
-The night heron revelation established the core paradox of Fukuoka's life: that true understanding
+The night heron revelation established the core paradox of Fukuoka"s life: that true understanding
 begins with recognizing that humanity knows nothing. This was not nihilism but a gateway to
 [[fukuoka-critique-soil-cultivation|scientific agriculture]].
 

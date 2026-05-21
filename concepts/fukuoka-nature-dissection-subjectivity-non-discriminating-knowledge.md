@@ -10,10 +10,10 @@ type: concept
 and that the discriminating intellect traps humanity in a maze of [[fukuoka-scalpel-beautiful-woman-science-nature]] and reveal a bloody mass of tissue." The scientific method strips away
 the form, the beauty, the wholeness — and presents the remains as truth. The living unity that was nature has been replaced by a catalogue of components.
 
-[[bloomfield-environmental-pollution-overcollection-impact-fungi]]. Each technological "advance" deepens the fracture between humanity and the living world. What is called progress is, in Fukuoka's view, the steady dismantling of the conditions that make life possible.
+[[bloomfield-environmental-pollution-overcollection-impact-fungi]]. Each technological "advance" deepens the fracture between humanity and the living world. What is called progress is, in Fukuoka"s view, the steady dismantling of the conditions that make life possible.
 
 Fukuoka's example of children encountering mud is particularly illuminating. A country child jumps in and plays, experiencing mud as part of the living world. A city child, trained in the habits
-of discriminating knowledge, fears "germs." The mother's knowledge — "dirt is filthy" — is, in Fukuoka's terms, more ignorant than ignorance itself, because it replaces direct experience with a
+of discriminating knowledge, fears "germs." The mother"s knowledge — "dirt is filthy" — is, in Fukuoka"s terms, more ignorant than ignorance itself, because it replaces direct experience with a
 fragmentary, fear-based abstraction that severs the child from reality.
 
 In truth, each gram of soil contains hundreds of millions of microorganisms. Harmful bacteria are killed by other bacteria, which are in turn killed by yet others. The soil under the sun is

@@ -7,7 +7,7 @@ type: concept
 ## Winter Produce Marketing and Economics
 
 Principles and practices for successfully marketing and pricing winter-harvested
-vegetables, drawn from [[eliot-coleman]]'s experience with [[four-season-farm]] in Maine.
+vegetables, drawn from [[eliot-coleman]]"s experience with [[four-season-farm]] in Maine.
 Covers differentiation strategy, packaging design, pricing philosophy, biological
 quality advantages, and financial benchmarks for small-scale [[coleman-french-historical-winter-vegetable-production]]
 operations.

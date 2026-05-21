@@ -70,7 +70,7 @@ level. The method remains one of the most powerful tools available to
 
 5. **Holistic Assessment**: Unlike simple slope-and-soil methods, land systems
    incorporate ecosystem relationships and landscape evolution, making them more
-   aligned with permaculture's integrated systems thinking
+   aligned with permaculture"s integrated systems thinking
 
 6. **Property Selection**: Land systems maps enable prospective land buyers to
    understand the diversity and capability of land within any bioregion, leading

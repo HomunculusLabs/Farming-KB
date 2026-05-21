@@ -12,9 +12,9 @@ JADAM Wetting Agent (JWA) is the cornerstone of the JADAM natural pesticide syst
 
 ## The Simplicity Principle
 
-### Einstein's Rule
+### Einstein"s Rule
 
-"Albert Einstein said, 'If you can't explain it simply, you don't understand it well enough.' I realized that the closer you get to the truth, the simpler it becomes."
+"Albert Einstein said, "If you can't explain it simply, you don't understand it well enough.' I realized that the closer you get to the truth, the simpler it becomes."
 
 Cho applies this principle to pesticide formulation: the effective system must be simple enough for any farmer to use without specialized knowledge.
 
@@ -22,7 +22,7 @@ Cho applies this principle to pesticide formulation: the effective system must b
 
 "There are over 400 types of chemical pesticide for sale in Korea; they are all specified for each pest and disease. How can a single farmer make 400 different kinds of pesticides?"
 
-The conventional approach—different products for different pests—creates an impossible knowledge burden for farmers. JADAM's system uses a small number of versatile formulations that handle most pest situations.
+The conventional approach—different products for different pests—creates an impossible knowledge burden for farmers. JADAM"s system uses a small number of versatile formulations that handle most pest situations.
 
 ## JWA Chemistry
 
@@ -50,7 +50,7 @@ The reaction between the oil and potassium hydroxide produces potassium salts of
 
 ### Natural vs. Synthetic Surfactants
 
-"99.9% of natural soap were shown to biodegrade in just 5 days." JADAM's plant-based surfactants biodegrade rapidly, unlike synthetic surfactants that "when released to the environment, cut off sunlight and block oxygen, killing many creatures in water."
+"99.9% of natural soap were shown to biodegrade in just 5 days." JADAM"s plant-based surfactants biodegrade rapidly, unlike synthetic surfactants that "when released to the environment, cut off sunlight and block oxygen, killing many creatures in water."
 
 ### Health Concerns
 
@@ -82,7 +82,7 @@ Synthetic surfactants "accumulate in the human body; cause cancer, asthma, atopy
 
 ### Multi-Purpose Use
 
-"You can use JWA as detergent, dishwashing liquid, shampoo, bath soap, and other cleaning purposes." JWA's versatility extends beyond agriculture to household cleaning.
+"You can use JWA as detergent, dishwashing liquid, shampoo, bath soap, and other cleaning purposes." JWA"s versatility extends beyond agriculture to household cleaning.
 
 ### No Expiry Date
 
@@ -90,7 +90,7 @@ Synthetic surfactants "accumulate in the human body; cause cancer, asthma, atopy
 
 ## The Right Perspective
 
-### Cho's Philosophy of Perspective
+### Cho"s Philosophy of Perspective
 
 "What is your perspective; what do you value and disregard; on what grounds do you make judgements; from what angle are you looking at the issue? This is absolutely crucial."
 

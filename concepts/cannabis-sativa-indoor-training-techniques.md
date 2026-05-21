@@ -47,7 +47,7 @@ Being only sativa-dominant (not pure sativa), Critical Haze is more bushy and ma
 ### Dawgtown Daze
 At over 90% sativa, this strain demands serious height management. Multiple training techniques may be needed simultaneously — LST combined with ScrOG, and potentially one topping event. The plant has significant stretch and should not be placed too close to lights at any point.
 
-### Doobie's Malawi
+### Doobie"s Malawi
 The Malawi landrace genetics produce wide-spreading growth that benefits from containment through LST. The indica influence from the SuperSkunk parent reduces height compared to pure Malawi but the plant still requires management. Resistant to mold, which is advantageous for dense ScrOG canopies.
 
 ### Dragon's Teeth

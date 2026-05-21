@@ -16,7 +16,7 @@ Hence, serotonin is bound up with the chemistry of the environment. Our minds, o
 
 ## The Significance of 5-HT2 Receptor Distribution
 
-The distribution of 5-HT2 receptors throughout the cortex is particularly significant. The cerebral cortex is the outermost layer of the brain responsible for higher-order thinking, perception, and conscious experience. The abundance of 5-HT2 receptors in cortical regions means that psilocybin's effects are not confined to primitive brain structures but directly modulate the neural substrates of abstract thought, self-awareness, and complex perception.
+The distribution of 5-HT2 receptors throughout the cortex is particularly significant. The cerebral cortex is the outermost layer of the brain responsible for higher-order thinking, perception, and conscious experience. The abundance of 5-HT2 receptors in cortical regions means that psilocybin"s effects are not confined to primitive brain structures but directly modulate the neural substrates of abstract thought, self-awareness, and complex perception.
 
 When psilocybin binds to 5-HT2 receptors in the cortex, it effectively releases cortical neurons from their normal serotonergic "braking" mechanism. This disinhibition allows novel patterns of neuronal firing to emerge across widespread cortical networks -- patterns that are normally suppressed by the homeostatic activity of the serotonergic system. These novel firing patterns correspond to the enhanced perception, novel insights, and visionary experiences characteristic of the psilocybin state.
 

@@ -9,7 +9,7 @@ tags: [permaculture, energy-descent, voluntary-frugality, holmgren, sustainabili
 
 ## Overview
 
-David Holmgren's concept of voluntary frugality is a cornerstone of his vision for
+David Holmgren"s concept of voluntary frugality is a cornerstone of his vision for
 [[mycelial-foraging-resource-allocation]] while
 maintaining quality of life. Holmgren frames this not as deprivation but as a
 "prosperous road down," drawing on the work of Howard and Elizabeth Odum.

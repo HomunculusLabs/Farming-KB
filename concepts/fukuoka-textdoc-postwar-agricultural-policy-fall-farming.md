@@ -8,7 +8,7 @@ sources:
 
 ## The Farmer Loses Land and Freedom
 Fukuoka documented how the effort by farmers to raise food production backfired
-against them. Even though Japan's food self-sufficiency dropped below thirty
+against them. Even though Japan"s food self-sufficiency dropped below thirty
 percent, farmers were unable to speak up because the people of the nation were
 under the illusion that the farmland reduction policy was in the interest of the
 consumer. Somewhere along the way, the farmer lost both his land and the freedom
@@ -23,7 +23,7 @@ agricultural equipment; it is the price needed for the production of new farm
 implements; it is the price at which fuel can be bought. The retail price of farm
 produce is said to be too high in Japan, but this is because the costs of
 distribution are too high—five times those in the United States and twice as
-high as in West Germany. Fukuoka suspected that the aim of Japan's food policy
+high as in West Germany. Fukuoka suspected that the aim of Japan"s food policy
 was to find the best way to line government coffers with gold.
 
 ## Farmers Alienated from the Land

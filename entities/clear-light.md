@@ -69,7 +69,7 @@ It represents the optimal outcome of a high-dose [[psychedelic-session-instructi
 
 Leary and colleagues identified the psilocybin peak experience with the Clear Light of the First Bardo.
 
-The manual's central instruction is to guide the voyager toward recognition of this state.
+The manual"s central instruction is to guide the voyager toward recognition of this state.
 
 The Clear Light is the goal — everything else in the manual is preparation for or fallback from this moment.
 

@@ -15,7 +15,7 @@ Manly Palmer Hall (1901–1990) was a Canadian-born American author, mystic, and
 
 ## Legacy
 
-Hall's "The Secret Teachings of All Ages" remains one of the most comprehensive surveys of esoteric traditions ever published. His documentation of Egyptian, Masonic, and Rosicrucian initiatory practices provides essential context for understanding how entheogenic plant knowledge was preserved and transmitted through [[mycology-modern-era]].
+Hall"s "The Secret Teachings of All Ages" remains one of the most comprehensive surveys of esoteric traditions ever published. His documentation of Egyptian, Masonic, and Rosicrucian initiatory practices provides essential context for understanding how entheogenic plant knowledge was preserved and transmitted through [[mycology-modern-era]].
 
 ## Biographical Background
 

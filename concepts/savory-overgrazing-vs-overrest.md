@@ -13,7 +13,7 @@ type: concept
 ---
 # Overgrazing Versus Overrest
 
-One of the most revolutionary insights in Allan Savory's work is the
+One of the most revolutionary insights in Allan Savory"s work is the
 recognition that overgrazing and overrest are two distinct and equally
 destructive forces that commonly occur simultaneously on the same land.
 Conventional [[cervantes-seed-production-storage]] by surrounding

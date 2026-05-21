@@ -11,7 +11,7 @@ sources:
 
 # Andrew Weil
 
-Andrew Weil, MD (b. 1942) is an American physician, author, and leading figure in integrative medicine. He wrote the forewords to both *Mycelium Running* (2005) and *Psilocybin Mushrooms of the World* (1996) by [[paul-stamets]], lending medical credibility to Stamets' work on fungal ecology and medicinal mushrooms.
+Andrew Weil, MD (b. 1942) is an American physician, author, and leading figure in integrative medicine. He wrote the forewords to both *Mycelium Running* (2005) and *Psilocybin Mushrooms of the World* (1996) by [[paul-stamets]], lending medical credibility to Stamets" work on fungal ecology and medicinal mushrooms.
 
 ## Early Career and Psychedelic Research
 
@@ -19,11 +19,11 @@ Weil's early medical career included research on psychoactive substances. As a H
 
 ## Foreword to Mycelium Running (2005)
 
-Weil's foreword to *Mycelium Running* articulates several key positions on fungal medicine:
+Weil"s foreword to *Mycelium Running* articulates several key positions on fungal medicine:
 
-**On the medical potential of fungi:** "When we first met, I was questioning why Western medicine had never looked to mushrooms as sources of new therapeutic agents, given their prominence in the traditional pharmacopeias of China, Japan, and Korea." He endorsed Stamets' "Big Idea" that fungi from old-growth forests may be sources of new medicines active against a range of germs, including HIV/AIDS and the causative agents of smallpox and anthrax — potential bioterrorist threats.
+**On the medical potential of fungi:** "When we first met, I was questioning why Western medicine had never looked to mushrooms as sources of new therapeutic agents, given their prominence in the traditional pharmacopeias of China, Japan, and Korea." He endorsed Stamets" "Big Idea" that fungi from old-growth forests may be sources of new medicines active against a range of germs, including HIV/AIDS and the causative agents of smallpox and anthrax — potential bioterrorist threats.
 
-**On mycoremediation:** Weil endorsed Stamets' concept that "mycelium can be selected and trained to break down toxic waste, reducing it to harmless metabolites" and the broader [[mycorestoration-overview]] strategy of using fungi to filter water, help trees grow, and control insect pests through completely nontoxic means.
+**On mycoremediation:** Weil endorsed Stamets" concept that "mycelium can be selected and trained to break down toxic waste, reducing it to harmless metabolites" and the broader [[mycorestoration-overview]] strategy of using fungi to filter water, help trees grow, and control insect pests through completely nontoxic means.
 
 **On the ecological importance of fungi:** "Trees and other green plants could not grow and reach maturity without symbiotic associations with mushrooms, at least with mycelium, the network of fungal threads in soil that act as interfaces between plant roots and nutrients." He noted that "mushrooms — ignored by many, reviled by some — may turn out to be important keys to both human health and planetary health."
 
@@ -31,13 +31,13 @@ Weil's foreword to *Mycelium Running* articulates several key positions on funga
 
 ## Foreword to Psilocybin Mushrooms of the World (1996)
 
-Weil's foreword to Stamets' psilocybin field guide is particularly notable for its personal perspective:
+Weil"s foreword to Stamets' psilocybin field guide is particularly notable for its personal perspective:
 
 **Personal experience with psilocybin:** Weil described finding mushrooms everywhere while hiking the North Cascades as a young man: "They lined the trails, bordered high alpine lakes, and dotted pristine meadows. Their shapes, colors, and textures fired the imagination, demanding recognition." He recounted making "mushroom smoothies: yogurt, bananas, and mushrooms" and advising a curious friend: "Try thirty to fifty mushrooms."
 
-**Medical establishment critique:** Weil was sharply critical of the medical establishment's attitude toward psilocybin mushrooms, noting that emergency room doctors routinely pumped stomachs of patients who had consumed psilocybin mushrooms: "One doctor told me he does so to 'teach them a lesson.'" He described how anti-mushroom rhetoric from medical authorities gave license to persecution of mushroom hunters: "The notion that you could be prosecuted for mushroom picking was of course totally absurd."
+**Medical establishment critique:** Weil was sharply critical of the medical establishment"s attitude toward psilocybin mushrooms, noting that emergency room doctors routinely pumped stomachs of patients who had consumed psilocybin mushrooms: "One doctor told me he does so to "teach them a lesson.'" He described how anti-mushroom rhetoric from medical authorities gave license to persecution of mushroom hunters: "The notion that you could be prosecuted for mushroom picking was of course totally absurd."
 
-**On psilocybin's significance:** "Psilocybin mushrooms are an illustration of the interconnectedness of all life and consciousness in ways that are more wonderful than we suppose." He framed psilocybin mushrooms as sacred and significant: "The mushroom will be your teacher."
+**On psilocybin"s significance:** "Psilocybin mushrooms are an illustration of the interconnectedness of all life and consciousness in ways that are more wonderful than we suppose." He framed psilocybin mushrooms as sacred and significant: "The mushroom will be your teacher."
 
 ## Integrative Medicine
 

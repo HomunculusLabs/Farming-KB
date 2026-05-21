@@ -1,5 +1,5 @@
 ---
-title: Ingold's Spore Dispersal Research
+title: Ingold"s Spore Dispersal Research
 aliases: [Ingold's jewels, spore discharge, Buller's drop, fungal ballistics]
 tags: [mycology, spore-biology, fungal-reproduction, history-of-science]
 created: 2026-05-10

@@ -8,7 +8,7 @@ type: entity
 
 ## Description
 
-Stewart Brand (born 1938) is an American writer, environmentalist, and counterculture entrepreneur. David Holmgren cites Brand's book *How Buildings Learn: What Happens After They're Built* (1994) as providing "a key concept for working out how to combine durable and renewable approaches to making buildings both enduring and adaptable."
+Stewart Brand (born 1938) is an American writer, environmentalist, and counterculture entrepreneur. David Holmgren cites Brand"s book *How Buildings Learn: What Happens After They're Built* (1994) as providing "a key concept for working out how to combine durable and renewable approaches to making buildings both enduring and adaptable."
 
 ## Background and Classification
 
@@ -22,10 +22,10 @@ Stewart Brand (born 1938) is an American writer, environmentalist, and countercu
 
 - Created and edited the *Whole Earth Catalog* (1968–1972), providing tools and ideas for the counterculture and back-to-the-land movements
 - *How Buildings Learn* argues buildings evolve over time through adaptation and modification
-- Proposed the "Six S's" framework for understanding building layers
+- Proposed the "Six S"s" framework for understanding building layers
 - Founded The Long Now Foundation to promote long-term thinking
 
-## The Six S's of Buildings
+## The Six S"s of Buildings
 
 1. **Site** — geographical setting; most permanent
 2. **Structure** — foundation and load-bearing elements
@@ -39,7 +39,7 @@ Key insight: not embedding ephemeral aspects into permanent structure maintains 
 ## Relevance to Permaculture and Cultivation
 
 - **Durability vs. renewability:** The Six S's resolve the tension between building to last and building to be renewable
-- **Garden structures:** Trellises, hutches are "stuff" — build renewably, don't over-engineer
+- **Garden structures:** Trellises, hutches are "stuff" — build renewably, don"t over-engineer
 - **Farm infrastructure:** Fences, water systems are "structure" — warrant durable investment
 - **Flexibility principle:** Supports Principle 12 (Creatively Use and Respond to Change)
 - **Entropy management:** Helps allocate maintenance effort where it has most value

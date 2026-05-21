@@ -9,7 +9,7 @@ tags: [community, land-access, permaculture, cooperative, livelihood, trust]
 
 ## Description
 
-Commonwork is a land-use system described by [[bill-mollison]] in *Permaculture: A Designer's
+Commonwork is a land-use system described by [[bill-mollison]] in *Permaculture: A Designer"s
 Manual* in which a trust, tribe, or individual farmer allows multiple land uses by multiple
 self-employed people on a single property. The system is akin to the African "mahisa" or
 livestock loan system of Botswana. In a commonwork, the land is closely assessed for its
@@ -113,7 +113,7 @@ Mollison lists specific enterprises suitable for a commonwork:
   substrate becomes compost for orchards and crop areas -- creating closed-loop cycles
   between enterprises
 - **Spawn Production:** A dedicated micro-enterprise can produce mushroom spawn for the
-  commonwork's own use and for regional sale
+  commonwork"s own use and for regional sale
 - **[[integrated-pest-management]]:** Poultry and duck enterprises provide pest control for
   crop areas while also producing manure for composting
 - **Forest Mushroom Systems:** Structural and fuel forestry areas can double as mushroom

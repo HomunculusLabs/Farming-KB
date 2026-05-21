@@ -13,7 +13,7 @@ Modern [[coleman-winter-greens-nutritional-quality-cold-sweetening]].
 ## The Pre-1870 Selection Process
 
 For thousands of years, each family raised seed for its own unique varieties,
-selected over generations to suit the family's needs, tastes, and local soil
+selected over generations to suit the family"s needs, tastes, and local soil
 conditions. The [[soil-fertility-and-vegetable-nutritional-quality]] of each variety was different. Before
 modern medicine and sanitation, children faced high mortality from childhood
 diseases. Some families lost most of their children before age seven; others
@@ -78,7 +78,7 @@ that some varieties sold as "hybrid" may actually behave as OP — possibly
 because the economic incentive to mislabel (hybrid seed can cost 20+ times
 more than OP seed) tempts unethical producers.
 
-## Seed Saving: When It Works and When It Doesn't
+## Seed Saving: When It Works and When It Doesn"t
 
 ### Self-Pollinated Species
 Tomatoes, lettuce, peppers, eggplant, beans, and peas are primarily

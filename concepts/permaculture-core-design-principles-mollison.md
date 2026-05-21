@@ -12,7 +12,7 @@ Bill Mollison distilled several foundational design principles from the observat
 
 We can assist rather than impede natural elements, forces, pressures, processes, agencies, and evolutions. In natural successions, grasses slowly give way to shrubs, which eventually give way to trees. Designers can actively assist this natural succession not by slashing out weeds and pioneers, but by using them to provide microclimate, nutrients, and wind protection for the exotic or native species they want to establish.
 
-Masanobu Fukuoka expressed this principle vividly: "If we throw nature out the window, she comes back in the door with a pitchfork." A classic example is pesticide application: spraying for pest infestations destroys both pests and the predators that feed on them. The following year, an explosion of pests occurs because no predators remain to control them. Consequently, spraying increases, putting things further out of balance. All the pests are never killed, and the survivors breed more resistant progeny—nature's pitchfork.
+Masanobu Fukuoka expressed this principle vividly: "If we throw nature out the window, she comes back in the door with a pitchfork." A classic example is pesticide application: spraying for pest infestations destroys both pests and the predators that feed on them. The following year, an explosion of pests occurs because no predators remain to control them. Consequently, spraying increases, putting things further out of balance. All the pests are never killed, and the survivors breed more resistant progeny—nature"s pitchfork.
 
 **Design applications:**
 - Use pioneer species to prepare sites for climax species rather than fighting succession
@@ -51,7 +51,7 @@ This principle guards against over-engineering and unnecessary complexity. It en
 
 The only limit on the number of uses of a resource possible within a system is in the limit of the information and the imagination of the designer. If you think you have fully planted an area, almost any other innovative designer can see ways to add a vine, a fungus, a beneficial insect, or a yield potential that has been ignored.
 
-Gahan Gilfedder at the Garden of Eden in Australia found an unsuspected market for cherimoya seed, required by nurseries as seed stock for grafting. This made a resource from a "waste" product derived from damaged fruit. The limiting factor is not the physical capacity of the land but the designer's knowledge, creativity, and willingness to observe.
+Gahan Gilfedder at the Garden of Eden in Australia found an unsuspected market for cherimoya seed, required by nurseries as seed stock for grafting. This made a resource from a "waste" product derived from damaged fruit. The limiting factor is not the physical capacity of the land but the designer"s knowledge, creativity, and willingness to observe.
 
 **Design applications:**
 - Vertical stacking: grow crops at multiple canopy levels simultaneously

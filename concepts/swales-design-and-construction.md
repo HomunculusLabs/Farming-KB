@@ -85,9 +85,9 @@ The distance between swales (the run-off or mulch-planted surface between them) 
 
 | Rainfall | Swale Width (Base) | Interswale Distance | Ratio |
 |---|---|---|---|
-| > 127 cm (50") | 1–2 m (4–6') | 3–18 m (12–60') | 3:1 |
-| ~ 75 cm (30") | 1–2 m (4–6') | 6–12 m (20–40') | 6:1 |
-| ~ 25 cm (10") | 1–2 m (4–6') | 18–36 m (60–120') | 18:1 |
+| > 127 cm (50") | 1–2 m (4–6") | 3–18 m (12–60') | 3:1 |
+| ~ 75 cm (30") | 1–2 m (4–6") | 6–12 m (20–40') | 6:1 |
+| ~ 25 cm (10") | 1–2 m (4–6") | 18–36 m (60–120') | 18:1 |
 | < 25 cm (10") | 1–2 m (4–6') | 18–60 m (60–200') | up to 20:1 |
 
 As a general rule, the interswale distance ranges from **3 to 20 times** the average swale width, depending on rainfall. In humid areas, the interswale is fully planted with hardy or mulch-producing species. In very dry areas, it may be fairly bare, existing mainly to direct water into swales.

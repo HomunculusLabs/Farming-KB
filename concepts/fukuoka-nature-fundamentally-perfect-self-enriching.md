@@ -8,7 +8,7 @@ tags:
 
 ## Overview
 
-Masanobu Fukuoka's philosophical foundation rests on the assertion that nature is fundamentally perfect—that it is replete with the greatest possible wealth, both spiritually and materially. This is not a romantic idealization but an observation derived from decades of farming without intervention. Nature moves constantly from perfection to perfection, and any appearance of imperfection or decline is the result of human disruption, not an inherent property of nature itself. This concept distinguishes [[natural-way-of-farming-guide]] of Farming*. Here, nature is not merely a farming context but a metaphysical reality—an expression of divine perfection that humans can either participate in or disrupt.
+Masanobu Fukuoka"s philosophical foundation rests on the assertion that nature is fundamentally perfect—that it is replete with the greatest possible wealth, both spiritually and materially. This is not a romantic idealization but an observation derived from decades of farming without intervention. Nature moves constantly from perfection to perfection, and any appearance of imperfection or decline is the result of human disruption, not an inherent property of nature itself. This concept distinguishes [[natural-way-of-farming-guide]] of Farming*. Here, nature is not merely a farming context but a metaphysical reality—an expression of divine perfection that humans can either participate in or disrupt.
 
 ## The Perfection of Nature
 
@@ -24,7 +24,7 @@ Viewed scientifically, relatively, myopically, nature may appear to move from si
 
 Fukuoka did not reject observation of change in nature—he himself was amazed to find, when he took the perspective of natural farming, that the insects in his fields create new varieties of rice. He observed the acacia tree enriching the soil each year, providing almost infinite pollen for honey bees, and scattering an incredibly large number of seeds that appear wasteful but provide nourishment for insects and birds. This can be seen as evidence that nature moves of its own accord in the direction of thriving abundance.
 
-But this abundance is not "progress" from imperfection—it is the expression of nature's inherent perfection. The scientist who interprets this as evolution from simple to complex is like a person watching a dancer and concluding that the dancer is trying to get somewhere. The dance is the point, not the destination. Nature's flourishing is its nature, not its goal.
+But this abundance is not "progress" from imperfection—it is the expression of nature"s inherent perfection. The scientist who interprets this as evolution from simple to complex is like a person watching a dancer and concluding that the dancer is trying to get somewhere. The dance is the point, not the destination. Nature's flourishing is its nature, not its goal.
 
 ## The Soul of Nature Does Not Seek Decay
 

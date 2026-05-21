@@ -13,7 +13,7 @@ The foundational texts and key references of permaculture span ecology, design, 
 ### Permaculture One (1978)
 **Bill Mollison & David Holmgren.** The original formulation of the permaculture concept, outlining its initial applications. Published by Corgi and subsequently translated into five languages. This slim volume introduced the core idea of designing permanent agricultural systems modeled on natural ecosystems.
 
-### Permaculture: A Designers' Manual (1988)
+### Permaculture: A Designers" Manual (1988)
 **Bill Mollison.** Mollison's most complete work on the concepts and design systems of permaculture, with extensive graphical interpretation by permaculture designer Andrew Jeeves. Widely used as the definitive text for permaculture teaching worldwide. This comprehensive manual covers everything from climate and soil to design methods and urban applications.
 
 ### Melliodora: Hepburn Permaculture Gardens (1996)
@@ -50,7 +50,7 @@ A CD collection of articles on diverse subjects related to permaculture, illustr
 ## Agriculture and Land Management
 
 ### The One Straw Revolution (1978)
-**Masanobu Fukuoka.** The classic book about agriculture and philosophy from Japan's foremost exponent of "natural farming," published the same year as *Permaculture One*. Fukuoka's approach of do-nothing farming parallels permaculture's emphasis on working with natural processes.
+**Masanobu Fukuoka.** The classic book about agriculture and philosophy from Japan's foremost exponent of "natural farming," published the same year as *Permaculture One*. Fukuoka"s approach of do-nothing farming parallels permaculture's emphasis on working with natural processes.
 
 ### Holistic Resource Management (1988)
 **Allan Savory.** The conceptual text behind an agricultural training system and network of pastoral farmers using ecological principles to maintain and improve pastoral ecosystems. Savory's work on planned grazing has been influential in permaculture design for broadacre landscapes.

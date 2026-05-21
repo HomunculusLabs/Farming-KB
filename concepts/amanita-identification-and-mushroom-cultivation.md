@@ -6,7 +6,7 @@ type: concept
 
 ## Amanita Identification and Mushroom Cultivation
 
-## The Amanita Family: Nature's Most Dangerous Mushrooms
+## The Amanita Family: Nature"s Most Dangerous Mushrooms
 
 The **Amanita** genus represents the single most deadly family of mushrooms found in North America and Europe. According to Palmer's observations spanning years of study around Boston and reports from physicians across the northeastern United States, nearly all fatal cases of mushroom poisoning could be attributed to members of this sub-genus. He personally identified ten distinct varieties of Amanita growing in the vicinity of Boston alone, underscoring how widespread and common these deadly fungi are in the American landscape.
 
@@ -38,7 +38,7 @@ But given that people will eat mushrooms without properly knowing them regardles
 
 The poison contained in Amanitas is described by Palmer as a **subtle alkaloid** that cannot be detected by smell or taste, yet is "surer than arsenic in its fatal consequences to human life." This invisible, tasteless, odorless nature of the toxin is what makes Amanita poisoning so insidious — the mushrooms can look, smell, and taste perfectly fine, even appealing. There is no sensory warning whatsoever. A person who has consumed a deadly Amanita typically feels perfectly well for several hours after the meal, creating a false sense of security before the onset of severe and often irreversible symptoms.
 
-At the time of Palmer's writing, physicians were described as "absolutely powerless to save life" in cases of Amanita poisoning, with the sole exception of the hypodermic injection of **atropia** (atropine) or some other alkaloid from the nightshade family — a treatment Palmer characterizes as still in its infancy and of uncertain efficacy. This therapeutic helplessness made prevention through education the only real defense against Amanita poisoning, and gave urgency to Palmer's campaign for public mycological literacy.
+At the time of Palmer"s writing, physicians were described as "absolutely powerless to save life" in cases of Amanita poisoning, with the sole exception of the hypodermic injection of **atropia** (atropine) or some other alkaloid from the nightshade family — a treatment Palmer characterizes as still in its infancy and of uncertain efficacy. This therapeutic helplessness made prevention through education the only real defense against Amanita poisoning, and gave urgency to Palmer"s campaign for public mycological literacy.
 
 ## Mushroom Cultivation: Challenges and Methods
 
@@ -84,7 +84,7 @@ Despite this seemingly straightforward process, many gardeners found mushroom cu
 
 Supplying adequate moisture proved to be the most difficult problem [[contamination-prevention-in-mushroom-cultivation]]. Watering the ground directly is described as "worse than useless" — it compacts the soil and disturbs the mycelium. The moisture must come from beneath, like natural dew, or from the surrounding atmosphere. For this reason, Palmer advised that mushroom beds should have nothing between them and mother earth — no concrete floors, no tile, no barriers to the natural upward movement of moisture from the soil.
 
-The ideal atmosphere mimics the humid conditions of "dog-days" (the hottest, most humid part of summer). This can be achieved unintentionally through daily watering of other plants in a greenhouse — the water evaporates under the sun's rays through glass or artificial heat, charging the air with moisture. But Palmer advocates a more deliberate approach: the proper use of **steam**.
+The ideal atmosphere mimics the humid conditions of "dog-days" (the hottest, most humid part of summer). This can be achieved unintentionally through daily watering of other plants in a greenhouse — the water evaporates under the sun"s rays through glass or artificial heat, charging the air with moisture. But Palmer advocates a more deliberate approach: the proper use of **steam**.
 
 In hot-houses, the space under the benches can be utilized for mushroom beds, with vents made in steam-pipes. When opened, the steam collects over the earth and condenses on the soil, keeping it moist and warm simultaneously — precisely the conditions that the mushroom mycelium requires for vigorous growth and abundant fruiting.
 
@@ -96,7 +96,7 @@ Perhaps the most profound mystery Palmer addresses is that of **cryptogamy** —
 
 The very name "cryptogamy" (from Greek: hidden marriage) acknowledges our ignorance of how these organisms reproduce and propagate. While the reproduction of flowering plants was well understood — seeds, pollen, flowers, and fruit were all visible and studyable — the fungi kept their secrets concealed beneath the soil and within microscopic structures that defied the best efforts of 19th-century science.
 
-When a mature mushroom cap is placed gills-down on a piece of blue paper, it deposits a fine spore print — white, brown, purple, rosy, or black depending on the species. Yet even the most learned mycologist, shown only this spore print, can determine only which of five grand divisions of fungi (numbering seven hundred members total) the mushroom belonged to. The spores contain no visible embryo or germ of the future plant, even under the most powerful microscope available in Palmer's time.
+When a mature mushroom cap is placed gills-down on a piece of blue paper, it deposits a fine spore print — white, brown, purple, rosy, or black depending on the species. Yet even the most learned mycologist, shown only this spore print, can determine only which of five grand divisions of fungi (numbering seven hundred members total) the mushroom belonged to. The spores contain no visible embryo or germ of the future plant, even under the most powerful microscope available in Palmer"s time.
 
 The spawn itself appears to be merely a collection of oblong cells united at their ends, with the stalk and whole plant being but a mass of these cells extended into interlaced chains. Under the microscope, the mycelium reveals itself as a network of branching filaments — hyphae — that spread through the substrate like roots through soil, absorbing nutrients and water.
 

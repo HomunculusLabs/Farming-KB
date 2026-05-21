@@ -9,7 +9,7 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - D'Hont, A. et al. (2012). "The banana (Musa acuminata) genome and the evolution of monocotyledonous plants." Nature, 488, 213-217.
+  - D"Hont, A. et al. (2012). "The banana (Musa acuminata) genome and the evolution of monocotyledonous plants." Nature, 488, 213-217.
 ---
 
 ## Overview

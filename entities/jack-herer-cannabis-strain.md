@@ -37,7 +37,7 @@ Jack Herer is a three-way cross of prestigious genetics:
 
 ### Minor Cannabinoids
 
-- **THCV:** Present in trace amounts, contributing to the strain's energetic and appetite-suppressing qualities in some phenotypes
+- **THCV:** Present in trace amounts, contributing to the strain"s energetic and appetite-suppressing qualities in some phenotypes
 - **CBG:** Low levels, typically < 0.5%
 - **CBC:** Trace amounts
 

@@ -11,7 +11,6 @@ date: 2026-05-08
 updated: 2026-05-08
 sources:
   - Kato, M. (1987). "A phylogenetic classification of Ophioglossaceae." Botanical Magazine Tokyo 100: 3–14.---
----
 
 ## Overview
 

@@ -7,7 +7,7 @@ tags: [concept, taxonomy, mycology, botany, reproduction]
 
 ## Description
 
-**Cryptogam** (from Greek *kryptos* = hidden, *gamos* = marriage) is a historical taxonomic classification referring to plants and plant-like organisms whose reproductive mechanisms are concealed or not readily observable. Palmer highlights this term as emblematic of the scientific community's limited understanding of fungal reproduction, noting that "the very name 'cryptogamy' shows our ignorance; aptly chosen it is; the secret marriages of these beings and the means of their reproduction are well concealed."
+**Cryptogam** (from Greek *kryptos* = hidden, *gamos* = marriage) is a historical taxonomic classification referring to plants and plant-like organisms whose reproductive mechanisms are concealed or not readily observable. Palmer highlights this term as emblematic of the scientific community"s limited understanding of fungal reproduction, noting that "the very name "cryptogamy' shows our ignorance; aptly chosen it is; the secret marriages of these beings and the means of their reproduction are well concealed."
 
 ## Classification Context
 
@@ -25,7 +25,7 @@ Palmer uses the concept of cryptogamy to frame several fundamental mysteries of 
 
 ### Spores vs. Seeds
 
-Fungal spores differ fundamentally from plant seeds in containing "no trace of an embryo." Despite their abundance — a single mushroom cap can produce millions of spores visible as "dust so fine that the surface of the paper will appear like the delicate shading of an artist's pencil" — planting spores provides "no assurance of producing a single mushroom."
+Fungal spores differ fundamentally from plant seeds in containing "no trace of an embryo." Despite their abundance — a single mushroom cap can produce millions of spores visible as "dust so fine that the surface of the paper will appear like the delicate shading of an artist"s pencil" — planting spores provides "no assurance of producing a single mushroom."
 
 ### The Propagation Problem
 

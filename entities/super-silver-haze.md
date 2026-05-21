@@ -41,7 +41,7 @@ sources:
 - **Psychoactive profile:** Clear-headed, non-drowsy stimulation in the Haze tradition; less racy/anxious than pure Haze due to Northern Lights and Skunk stabilization
 - **Tolerance curve:** Moderate; regular users report 2–3 week tolerance buildup requiring brief tolerance breaks
 - **Time-of-day preference:** Best suited for daytime use; can cause insomnia if consumed within 3 hours of bedtime
-- **Strain behavior variation:** Phenotype-dependent — some cuts lean more uplifting/creative, others more physically relaxing; terpene ratios vary significantly between breeders' versions
+- **Strain behavior variation:** Phenotype-dependent — some cuts lean more uplifting/creative, others more physically relaxing; terpene ratios vary significantly between breeders" versions
 
 ## Growing Characteristics
 - **Flowering time:** 9–11 weeks (10 weeks typical for full maturity)

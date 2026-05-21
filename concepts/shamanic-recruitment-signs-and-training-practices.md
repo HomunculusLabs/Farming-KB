@@ -57,7 +57,7 @@ coherent theology.
 
 ## The Shaman as Phenomenologist
 
-One of McKenna's most distinctive contributions to the understanding of
+One of McKenna"s most distinctive contributions to the understanding of
 shamanism is his characterization of shamans as "the true phenomenologists
 of this world." By this he means that shamans are engaged in systematic,
 first-person investigation of consciousness and reality using the tools of

@@ -12,7 +12,7 @@ created: 2026-05-08
 
 Masanobu Fukuoka developed a detailed morphological model of the ideal rice plant based on decades of observation. Rather than breaking down the plant in the laboratory and analyzing individual components, Fukuoka chose to "look at the rice plant from afar" — observing whole plants in their natural growing conditions to identify the form that produces the [[fukuoka-energy-analysis-rice-production-natural-vs-mechanized]] into a number of constituent elements, conduct research on how to make improvements in each, then reassemble the elements once they have been improved."
 
-He compared this to "carrying a single lantern to guide one's way through a pitch-dark night" — narrow, directionless progress. The problem was that [[fukuoka-clover-cover-cropping-soil-ecology]] naturally produced the ideal rice plant form without any breeding, selection, or human intervention. This was powerful evidence that the ideal form emerges from the right growing conditions, not from genetic manipulation.
+He compared this to "carrying a single lantern to guide one"s way through a pitch-dark night" — narrow, directionless progress. The problem was that [[fukuoka-clover-cover-cropping-soil-ecology]] naturally produced the ideal rice plant form without any breeding, selection, or human intervention. This was powerful evidence that the ideal form emerges from the right growing conditions, not from genetic manipulation.
 
 ## The Ideal Form Characteristics
 

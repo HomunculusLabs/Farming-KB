@@ -1,5 +1,5 @@
 ---
-title: Fukuoka's fukuoka-aerial-seeding-clay-pellets-desert-revegetation-technique Travels and Projects
+title: Fukuoka"s fukuoka-aerial-seeding-clay-pellets-desert-revegetation-technique Travels and Projects
 created: 2026-04-24
 updated: 2026-04-25
 type: concept
@@ -7,7 +7,7 @@ tags: [desert, revegetation, ecology, farming, fukuoka, california, global]
 sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
-## Fukuoka's Desert Revegetation Travels and Projects
+## Fukuoka"s Desert Revegetation Travels and Projects
 
 In [[fungi-around-the-world-species-distribution]] and his conviction that [[soil-food-web-nutrient-cycling]] argument: the biological "tilling" performed by plant roots and small animals works the soil more deeply than any machine. "When left alone, the soil deepens and enriches naturally." Mechanical tilling "only kills it."
 
@@ -19,11 +19,11 @@ His core conviction: "the natural way of farming that I have practiced now for m
 
 ## Aerial Seed Sowing
 
-Fukuoka's ultimate vision for desert revegetation was aerial seed sowing. He wanted to "run tests on methods of scattering drought-hardy clover seeds over arid lands by airplane." In his [[fukuoka-road-back-to-nature-overview]] — the book containing these accounts
+Fukuoka"s ultimate vision for desert revegetation was aerial seed sowing. He wanted to "run tests on methods of scattering drought-hardy clover seeds over arid lands by airplane." In his [[fukuoka-road-back-to-nature-overview]] — the book containing these accounts
 
 ## The Spaniards Brought Bad Grasses
 
-Fukuoka traced California's desertification to a specific historical event. He visited a redwood forest that had been preserved for two hundred years as a national park. "Outside the forest, just ten minutes away by car, the land is parched desert. But here, we have the complete reverse — a thick, lush forest." An Indian chief told him "that things had gotten screwed up when the Spaniards arrived and began raising cattle."
+Fukuoka traced California"s desertification to a specific historical event. He visited a redwood forest that had been preserved for two hundred years as a national park. "Outside the forest, just ten minutes away by car, the land is parched desert. But here, we have the complete reverse — a thick, lush forest." An Indian chief told him "that things had gotten screwed up when the Spaniards arrived and began raising cattle."
 
 After investigation, Fukuoka concluded that "the pasture grasses the Spaniards had brought over with them contained foxtail seeds, and it was this that dominates the vegetation throughout California." The foxtail "grows to such a great density that other plants are unable to take well in the same ground. That is why the fields and hills in California have all turned yellow." The heat reflected from the yellow ground "raises it to forty degrees (104°F). Such a rise in temperature turns the place into a scorching desert."
 
@@ -37,7 +37,7 @@ At the Zen Center on the San Francisco coast, founded by Shunryu Suzuki Roshi, F
 
 ## The Global Desert Crisis
 
-Fukuoka connected California's plight to a worldwide pattern. In Korea, China's Great Wall region, and the Silk Road, "trees are so far gone that no trees remain standing." In Brazil, "Japanese trading companies began to cut down the Amazonian rain forests" and "forests have given way to desert." The dense forests of Thailand and Southeast Asia "have been razed, leaving behind a barren land." The "global decline in vegetation has advanced to such a degree that tree-planting campaigns are clearly not enough."
+Fukuoka connected California"s plight to a worldwide pattern. In Korea, China's Great Wall region, and the Silk Road, "trees are so far gone that no trees remain standing." In Brazil, "Japanese trading companies began to cut down the Amazonian rain forests" and "forests have given way to desert." The dense forests of Thailand and Southeast Asia "have been razed, leaving behind a barren land." The "global decline in vegetation has advanced to such a degree that tree-planting campaigns are clearly not enough."
 
 ## Related Concepts
 

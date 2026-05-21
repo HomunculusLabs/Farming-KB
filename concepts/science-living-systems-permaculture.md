@@ -17,7 +17,7 @@ Living things respond to strict control (either by removal of stimuli or by cons
 
 ## Scientists Who Know vs. Those Who Act
 
-Mollison identifies a critical split: scientists who "know" and observe don't usually apply their knowledge in the world. Those who "act" often don't know or observe. This has resulted in several tragic conditions where productive natural ecosystems have been destroyed to create unproductive cultivated systems, breaking every sane environmental principle in the process.
+Mollison identifies a critical split: scientists who "know" and observe don"t usually apply their knowledge in the world. Those who "act" often don't know or observe. This has resulted in several tragic conditions where productive natural ecosystems have been destroyed to create unproductive cultivated systems, breaking every sane environmental principle in the process.
 
 Energy-efficient animals (deer, kangaroo, fish) have been displaced by inefficient [[query-what-are-dynamic-accumulator-plants-and-how-do-i-use-them]]s Alternative
 

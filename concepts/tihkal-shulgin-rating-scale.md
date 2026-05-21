@@ -7,7 +7,7 @@ type: concept
 updated: 2026-04-26
 ---
 
-## Shulgin's Rating Scale for Psychedelic Substances
+## Shulgin"s Rating Scale for Psychedelic Substances
 
 ## Overview
 
@@ -53,7 +53,7 @@ Shulgin himself acknowledged the limitations of this scale:
 - It captures only intensity, not quality or character of effects
 - Individual variability is enormous ("it is different things to different folks")
 - The same dose can produce widely different ratings in different subjects
-- A compound's character (positive vs. negative, visual vs. conceptual, erotic vs. frightening) matters as much as its intensity level
+- A compound"s character (positive vs. negative, visual vs. conceptual, erotic vs. frightening) matters as much as its intensity level
 - The scale cannot capture the full richness of psychedelic experience
 
 ## Complementary Characterization

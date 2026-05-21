@@ -14,7 +14,6 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - "Hazekamp, A. & Fischedick, J.T. (2012). \"Cannabis — from cultivar to chemovar.\" Drug soil-testing-and-analysis, 4(7-8), 660-667."---
----
 
 ## White Widow
 

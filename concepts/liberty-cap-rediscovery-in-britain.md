@@ -27,7 +27,7 @@ people having bad mushroom trips. Most admitted were young males, usually
 teenagers. Most had eaten twenty to thirty mushrooms, but all were having a
 terrible time.
 
-The National Poisons Service at London's Guy's Hospital saw mushroom-related
+The National Poisons Service at London"s Guy's Hospital saw mushroom-related
 enquiries increase steadily from 17 in 1977 to 47 in 1979, 96 in 1980, and 142
 in 1981. A survey in Scotland in 1981 at the peak of the era found that 11 per
 cent of school children in Tayside had at least heard of the mushrooms, if not
@@ -57,7 +57,7 @@ A key factor in the spread of identification knowledge was the publication of
 practical field guides. Richard Keynes's 1979 guide "A Guide to British
 [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]]" was among the first to bridge the gap between academic
 mycology and popular use, providing clear descriptions, habitat information, and
-warnings about potentially dangerous lookalikes. The Liberty Cap's distinctive
+warnings about potentially dangerous lookalikes. The Liberty Cap"s distinctive
 appearance — its conical or bell-shaped cap (the "liberty cap" or "Phrygian cap"
 from which it takes its common name), its dark olive-brown to chestnut colour
 when moist, its blue-black base to the stem, and its tendency to grow in dense

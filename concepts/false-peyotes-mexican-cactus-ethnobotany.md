@@ -25,7 +25,7 @@ Known as "hikuli sunami" to the Tarahumare, Ariocarpus fissuratus is reputed to 
 
 Ariocarpus fissuratus is a geophytic cactus, with much of its body buried below the soil surface. Only the flattened, triangular tubercles protrude above ground, making it extremely difficult to locate in its natural habitat. This subterranean growth habit may contribute to its reputation as a hidden, powerful plant whose effects are slow but profound. The species is found in the Chihuahuan Desert of northern Mexico and southern Texas, where it grows on limestone plains and rocky hillsides. It is sometimes called the "living rock cactus" due to its remarkable resemblance to the surrounding stones, a camouflage that has likely protected it from over-collection by all but the most knowledgeable harvesters.
 
-The Tarahumare's belief that sunami can summon supernatural protection against thieves reflects a worldview in which sacred plants are understood as sentient beings with their own agency and powers. This animistic understanding of plant consciousness is widespread among indigenous cultures of the Americas and stands in contrast to the Western scientific framework that views plants as passive chemical factories.
+The Tarahumare"s belief that sunami can summon supernatural protection against thieves reflects a worldview in which sacred plants are understood as sentient beings with their own agency and powers. This animistic understanding of plant consciousness is widespread among indigenous cultures of the Americas and stands in contrast to the Western scientific framework that views plants as passive chemical factories.
 
 ## Hikuli Walula Saeliami — The Unidentified Sacred Cactus
 

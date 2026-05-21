@@ -36,7 +36,7 @@ Less than one percent of ego-transcendent experiences end in sainthood or psycho
 
 ## Determinants of Re-Entry Level
 
-According to the Bardo Thodol, the level one is destined for is determined by one's **karma** — the accumulated residue of past thoughts, actions, and game-involvements. During the Third Bardo, premonitory signs and visions of the different levels appear, with the one for which one is heading appearing most clearly. For example, the voyager may feel full of godlike power (asuras), stirred by primitive impulses (animals), experience all-pervasive frustration (pretas), or shudder at self-created tortures (hell).
+According to the Bardo Thodol, the level one is destined for is determined by one"s **karma** — the accumulated residue of past thoughts, actions, and game-involvements. During the Third Bardo, premonitory signs and visions of the different levels appear, with the one for which one is heading appearing most clearly. For example, the voyager may feel full of godlike power (asuras), stirred by primitive impulses (animals), experience all-pervasive frustration (pretas), or shudder at self-created tortures (hell).
 
 The chances of making a favorable re-entry are increased if the process is allowed to take its natural course without effort or struggle. One should avoid pursuing or fleeing any of the visions, but meditate calmly on the knowledge that all levels exist within the Buddha-nature — the unified field of consciousness.
 

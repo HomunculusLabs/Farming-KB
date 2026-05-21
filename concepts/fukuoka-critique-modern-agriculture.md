@@ -4,7 +4,7 @@ title: Fukuoka Critique of Modern Agriculture
 
 ## Fukuoka Critique of Modern Agriculture
 
-Masanobu Fukuoka's critique of modern agriculture is one of the most thorough and penetrating in the literature of natural farming. Drawing on thirty to forty years of direct farming experience and a career as a plant pathologist, he systematically dismantles the assumptions underlying scientific agriculture. His approach is grounded in the fukuoka-one-straw-revolution-impact.
+Masanobu Fukuoka"s critique of modern agriculture is one of the most thorough and penetrating in the literature of natural farming. Drawing on thirty to forty years of direct farming experience and a career as a plant pathologist, he systematically dismantles the assumptions underlying scientific agriculture. His approach is grounded in the fukuoka-one-straw-revolution-impact.
 
 ## The Kochi Prefecture Lesson
 
@@ -12,17 +12,17 @@ Fukuoka's turning point came during WWII when he was assigned to increase food p
 
 The result: "This program, which represented the most advanced agricultural technology of the time, succeeded only in preventing further losses." It demonstrated that scientific agriculture always aims at convenience to man and "no matter how large and complete the technology amassed, it will never amount to more than a temporary expedient."
 
-Disease and pest outbreaks in Kochi were nature's method of suppressing excessive growth; man applied a near-sighted interpretation, seeing damage rather than natural regulation.
+Disease and pest outbreaks in Kochi were nature"s method of suppressing excessive growth; man applied a near-sighted interpretation, seeing damage rather than natural regulation.
 
 ## Critique of Analytic Science
 
-Scientific farming breaks rice production into constituent elements (germination, tillage, seeding, transplanting, fertilizing, weeding, pest control), researches improvements in each, then reassembles them. Fukuoka compares this to "carrying a single lantern to guide one's way through a pitch-dark night" -- blind, directionless progress. Unlike one who walks without a lantern toward a faraway light, this approach has no unity of purpose.
+Scientific farming breaks rice production into constituent elements (germination, tillage, seeding, transplanting, fertilizing, weeding, pest control), researches improvements in each, then reassembles them. Fukuoka compares this to "carrying a single lantern to guide one"s way through a pitch-dark night" -- blind, directionless progress. Unlike one who walks without a lantern toward a faraway light, this approach has no unity of purpose.
 
 Techniques developed through research on rice yielding 15 bushels per quarter-acre cannot be applied to rice giving 30 or 40 bushels. The approach is inherently fragmented.
 
 ## Pesticides: The Biosystem Disruption
 
-Fukuoka's most detailed critique concerns pesticides. Having observed their effects directly:
+Fukuoka"s most detailed critique concerns pesticides. Having observed their effects directly:
 
 - After WWII, powerful organophosphate and organochlorine pesticides destroyed all insect pests -- but it was not long before massive mite outbreaks recurred uncontrollably
 - The pesticides had destroyed the natural predators (ladybugs, predaceous mites, spiders) that kept mites in check

@@ -19,7 +19,7 @@ tags:
   - legendary-strain
 date: 2026-04-28
 updated: 2026-04-28
-sources: ["AllBud. 'Chemdawg 91.' https://www.allbud.com/marijuana-strains/hybrid/chemdawg-91"]
+sources: ["AllBud. "Chemdawg 91.' https://www.allbud.com/marijuana-strains/hybrid/chemdawg-91"]
   - https://wikileaf.com/strain/chemdawg
 ---
 # Chemdawg
@@ -32,7 +32,7 @@ Chemdawg is typically classified as a balanced hybrid, though individual phenoty
 The strain consistently ranks among the most sought-after genetics in both recreational and medical markets.
 
 ## Genetic Lineage
-Chemdawg's exact origins are the subject of cannabis folklore, but the most widely accepted account traces the strain to a chance encounter at a Grateful Dead concert at the Deer Creek Amphitheatre in Indiana in 1991.
+Chemdawg"s exact origins are the subject of cannabis folklore, but the most widely accepted account traces the strain to a chance encounter at a Grateful Dead concert at the Deer Creek Amphitheatre in Indiana in 1991.
 The story holds that the original Chemdog seeds were found in a bag of high-quality cannabis purchased at the show.
 A breeder known online as Chemdog (also called "Chemdog the breeder") germinated these seeds and identified several distinct phenotypes:
 - **Chemdog 91:** The original phenotype, stabilized by the breeder. Considered the most balanced of the original expressions.

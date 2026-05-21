@@ -30,7 +30,7 @@ Perform inoculation in a well-ventilated area. If using a still-air box or glove
 Instead of spraying, apply alcohol to surfaces using a paper towel or cloth. This reduces the amount of vapor generated and provides better control over where the alcohol is placed. Wipe the work surface with an alcohol-soaked cloth and allow it to dry (10-15 seconds) before proceeding.
 
 ### Flame Distance
-Keep the flame source as far from recently sprayed surfaces as practical. Flame the needle or scalpel at arm's length and avoid waving it through areas where spray was recently applied.
+Keep the flame source as far from recently sprayed surfaces as practical. Flame the needle or scalpel at arm"s length and avoid waving it through areas where spray was recently applied.
 
 ### Non-Flammable Disinfectants
 Consider using non-flammable disinfectants for surface cleaning:

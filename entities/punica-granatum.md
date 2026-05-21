@@ -11,7 +11,6 @@ date: 2026-05-08
 updated: 2026-05-08
 sources:
   - Jurenka, J. (2008). "cannabis-root-rot-prevention-and-treatment of Inflammation blesching-cannabis-apoptosis-and-cancer-cell-death." Journal of Ethnopharmacology 109(2): 177-206.---
----
 
 ## Overview
 

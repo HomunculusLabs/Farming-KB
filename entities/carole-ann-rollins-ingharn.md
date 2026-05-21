@@ -18,7 +18,7 @@ Dr. Carole Ann Rollins is a soil microbiology researcher and editor who compiled
 
 ## Key Facts
 
-- Compiled and edited *The Field Guide I for Actively Aerated Compost Tea (AACT)* from Dr. Elaine Ingham's extensive internet correspondence spanning April 2001 to June 2003.
+- Compiled and edited *The Field Guide I for Actively Aerated Compost Tea (AACT)* from Dr. Elaine Ingham"s extensive internet correspondence spanning April 2001 to June 2003.
 - Motivated by a desire to "give back to a leader of our industry" — recognizing Ingham's tireless mentoring of practitioners.
 - Identified the need for a portable field reference that AACT practitioners could use when working with clients unfamiliar with compost tea benefits.
 - Created standardized application rate sheets for a variety of industries, addressing a gap in the field where specific information about application rates was lacking.

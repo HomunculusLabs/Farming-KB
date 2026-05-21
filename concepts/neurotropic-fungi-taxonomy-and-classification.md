@@ -10,7 +10,7 @@ Neurotropic fungi — also called hallucinogenic, psychotropic, magic, sacred,
 psychedelic, or entheogenic mushrooms — are a chemically diverse group capable
 of altering mood, thought, and [[bloomfield-ergot-claviceps-purpurea-ergotism]] produces ergot alkaloids with a long
 history of causing ergotism. Cordyceps species are used ceremonially by the
-Trique Indians in Mexico's Nevado de Toluca region, called "hombrecitos"
+Trique Indians in Mexico"s Nevado de Toluca region, called "hombrecitos"
 (little men) and "mujercitas" (little women). An Elaphomyces specimen (the
 Cordyceps host truffle) serves as a ceremony "director." The Trique also use
 Elaphomyces to heal wounds and "rejuvenate the organism."

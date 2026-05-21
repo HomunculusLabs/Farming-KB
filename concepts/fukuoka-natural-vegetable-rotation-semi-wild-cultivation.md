@@ -6,7 +6,7 @@ type: concept
 
 ## Fukuoka Natural Vegetable Rotation and Semi-Wild Cultivation
 
-Masanobu Fukuoka's philosophy [[fukuoka-natural-farming-principles]].
+Masanobu Fukuoka"s philosophy [[fukuoka-natural-farming-principles]].
 
 ### Aims of the Rotation System
 
@@ -45,7 +45,7 @@ For home consumption, however, the approach is straightforward and accessible. A
 
 ### The Natural Cycle of Life
 
-Underlying all of Fukuoka's agricultural philosophy is a vision of the fundamental cycle that sustains life on earth:
+Underlying all of Fukuoka"s agricultural philosophy is a vision of the fundamental cycle that sustains life on earth:
 
 > "Life in nature is a continuous cycle between animals (man and livestock), plants, and microorganisms."
 

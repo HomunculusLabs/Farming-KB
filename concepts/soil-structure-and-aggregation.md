@@ -75,7 +75,7 @@ To put this in human terms: if a bacterium were the size of a marble, an earthwo
 
 ## Cation Exchange Capacity (CEC)
 
-Soil's ability to hold and supply nutrients is governed by a property called **[[cation-exchange-capacity]] (CEC)**. CEC is a direct consequence of the same negative charges on clay and humus that drive aggregation.
+Soil"s ability to hold and supply nutrients is governed by a property called **[[cation-exchange-capacity]] (CEC)**. CEC is a direct consequence of the same negative charges on clay and humus that drive aggregation.
 
 ### How CEC Works
 

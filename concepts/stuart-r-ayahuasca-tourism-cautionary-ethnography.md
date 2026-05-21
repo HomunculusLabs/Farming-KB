@@ -9,7 +9,7 @@ sources: [raw/papers/stuart-r-ayahuasca-tourism.md]
 
 ## Ayahuasca Tourism in Peru — Stuart R. Cautionary Ethnography
 
-R. Stuart's 2002 article "Ayahuasca Tourism: A Cautionary Tale," published in MAPS (volume XII, number 2), is a firsthand ethnographic account of ayahuasca tourism in the Ucayali region of Peru. Written from the perspective of a researcher visiting during a cactus identification project supported by a grant from Bob Wallace to MAPS, the article provides a grounded, skeptical view of the commercialization of indigenous spiritual practice and offers practical advice for prospective ayahuasca tourists.
+R. Stuart"s 2002 article "Ayahuasca Tourism: A Cautionary Tale," published in MAPS (volume XII, number 2), is a firsthand ethnographic account of ayahuasca tourism in the Ucayali region of Peru. Written from the perspective of a researcher visiting during a cactus identification project supported by a grant from Bob Wallace to MAPS, the article provides a grounded, skeptical view of the commercialization of indigenous spiritual practice and offers practical advice for prospective ayahuasca tourists.
 
 ## Historical Context of Western Spiritual Tourism
 
@@ -21,7 +21,7 @@ Stuart frames ayahuasca tourism within the broader history of [[ayahuasca-touris
 
 Other destinations mentioned include Brazilian [[ayahuasqueros-amazonian-shamans]] he encountered, offering a rare unfiltered look at the range of practitioner quality:
 
-**"B" (Yarina)** — An elderly shaman whose son directed the family's religious practice and gave workshops in the United States. Stuart lived in B's ceremonial hut for a week and discovered that B was "a frequent liar, a shoplifter" who "soon asks for money or gifts at every opportunity." Despite this, B's nightly ceremonies attracted up to a couple dozen visitors.
+**"B" (Yarina)** — An elderly shaman whose son directed the family"s religious practice and gave workshops in the United States. Stuart lived in B's ceremonial hut for a week and discovered that B was "a frequent liar, a shoplifter" who "soon asks for money or gifts at every opportunity." Despite this, B"s nightly ceremonies attracted up to a couple dozen visitors.
 
 **B's nephew** — An enterprising young shaman earning a couple hundred dollars per month from tourists while his neighbors lived in extreme poverty. He charged $30 per tourist ceremony versus the local rate of $2.
 

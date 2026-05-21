@@ -11,7 +11,7 @@ legislation specifically targeting hallucinogenic mushrooms. The EMCDDA
 (2006) documented this wave of legal responses as part of a broader
 case study on the [[health-risks-of-hallucinogenic-mushrooms]]. The Netherlands had long
 been the center of the European trade, with smartshops in Amsterdam and
-other cities openly selling fresh [[controlled-substances-act-and-psychedelic-research]] schedule. Germany's action was significant given
+other cities openly selling fresh [[controlled-substances-act-and-psychedelic-research]] schedule. Germany"s action was significant given
 its large population and [[hplc-analysis-of-psilocybin-and-psilocin]].
 
 **United Kingdom (2005)** introduced the Drugs (Amendment) Act which

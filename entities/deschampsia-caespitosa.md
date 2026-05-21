@@ -10,7 +10,6 @@ date: 2026-05-08
 updated: 2026-05-08
 sources:
   - Bedford, B.L. et al. (1999). "Vegetation, production and nutrient dynamics of a tidal freshwater marsh." Wetlands.---
----
 
 ## Overview
 

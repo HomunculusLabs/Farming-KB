@@ -11,7 +11,7 @@ created: 2026-05-10
 
 The [[sterile-spore-print-collection-glass-jar-technique]] print collection, offering a
 practical and reusable approach to harvesting and storing [[flammability-hazard-alcohol-lysol-flame-sterilization-mycology]])
-- Breathing mask or clean handkerchief (to prevent the grower's breath from
+- Breathing mask or clean handkerchief (to prevent the grower"s breath from
   contaminating the spore solution)
 
 The breathing mask is specifically noted by Jarrold as being "not for your safety"

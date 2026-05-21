@@ -14,7 +14,7 @@ Turkestan mint (Lagochilus inebrians) is a little-known but culturally significa
 
 Lagochilus inebrians is a small shrub native to the dry steppes of Turkestan, a region encompassing parts of modern-day Uzbekistan, Turkmenistan, Tajikistan, Kazakhstan, and Kyrgyzstan. The plant belongs to the mint family, Lamiaceae (also called Labiatae), and is one of approximately 34 species in the genus Lagochilus. These species are native from central Asia to Iran and Afghanistan.
 
-The specific epithet inebrians means "intoxicating" in Latin, directly referencing the plant's psychoactive properties. This name was assigned by European botanists who learned of the plant's use from travelers and ethnographers, and it accurately reflects the traditional Central Asian understanding of the plant's effects.
+The specific epithet inebrians means "intoxicating" in Latin, directly referencing the plant"s psychoactive properties. This name was assigned by European botanists who learned of the plant's use from travelers and ethnographers, and it accurately reflects the traditional Central Asian understanding of the plant's effects.
 
 ## Traditional Preparation and Use
 

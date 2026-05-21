@@ -8,9 +8,9 @@ type: concept
 
 ## The False Dichotomy
 
-One of Palmer's most persistent and passionately argued themes was the meaninglessness of the popular distinction between "mushrooms" and "toadstools." The two words, he wrote, "comprise the sum of popular knowledge of a large part of God's creation; that department known as the fungi."
+One of Palmer"s most persistent and passionately argued themes was the meaninglessness of the popular distinction between "mushrooms" and "toadstools." The two words, he wrote, "comprise the sum of popular knowledge of a large part of God"s creation; that department known as the fungi."
 
-Persons who knew the common [[classification-of-cultivated-mushroom-species]] grouped everything else under the general name of toadstool. This, Palmer argued, was "just as near correct as it would be to call the russets 'apples,' and, knowing no other variety, to style them all 'crabs.'"
+Persons who knew the common [[classification-of-cultivated-mushroom-species]] grouped everything else under the general name of toadstool. This, Palmer argued, was "just as near correct as it would be to call the russets "apples,' and, knowing no other variety, to style them all 'crabs.'"
 
 In his published articles spanning multiple years, Palmer declared that the words **mushroom**, **toadstool**, and **fungus** were synonymous and interchangeable. Every mushroom is a toadstool and every toadstool is a mushroom. The popular distinction had no scientific basis whatsoever — it merely reflected the fact that cooks and gardeners knew one cultivable species and called everything else by a pejorative name born of ignorance and fear.
 
@@ -43,9 +43,9 @@ Old manure heaps, Palmer noted, will sometimes generate their own spawn at the b
 
 Palmer provided one of the most vivid and memorable descriptions of fungal mycelium in 19th-century American natural history writing. He recalled witnessing the banks opposite the Brunswick Hotel in Boston being sodded and leveled to their present grade.
 
-As the workman's pick broke up the soil, a white substance ran through every piece — "starting with large branches, it divided and sub-divided like the veins on the back of the hand." The smell was very strong, quickly noticed on the opposite side of the street.
+As the workman"s pick broke up the soil, a white substance ran through every piece — "starting with large branches, it divided and sub-divided like the veins on the back of the hand." The smell was very strong, quickly noticed on the opposite side of the street.
 
-This "subterranean white vine," which had the appearance of an extensive root system, was nothing but the hidden vegetative part of the **[[coprinus-comatus]]** (shaggy mane) — a mushroom freely eaten in Palmer's time, though merely twenty years earlier it had been thought poisonous. The common name for this white thread-like substance is **spawn**.
+This "subterranean white vine," which had the appearance of an extensive root system, was nothing but the hidden vegetative part of the **[[coprinus-comatus]]** (shaggy mane) — a mushroom freely eaten in Palmer"s time, though merely twenty years earlier it had been thought poisonous. The common name for this white thread-like substance is **spawn**.
 
 Palmer explained the analogy clearly: just as a cutting of grape-vine placed in favorable conditions will shoot up, put forth branches, and bear fruit, a part of this fungal vine transplanted to suitable conditions will continue to ramify and in time produce mushrooms above ground.
 
@@ -91,7 +91,7 @@ The apparent overnight appearance is an illusion — the organism has been devel
 
 Palmer painted a vivid picture of the hidden fungal world beneath every footstep on a country walk. "The whole earth beneath your feet is alive with vegetation to a great depth."
 
-This vegetation — the vast network of mycelial threads belonging to the thousand varieties of mushroom spawn — was "just as real, and the various vines" were "just as distinct as the hop-vine and the woodbine, the ivy and the virgin's-bower that twine their tendrils above your head."
+This vegetation — the vast network of mycelial threads belonging to the thousand varieties of mushroom spawn — was "just as real, and the various vines" were "just as distinct as the hop-vine and the woodbine, the ivy and the virgin"s-bower that twine their tendrils above your head."
 
 The diversity and complexity of the underground fungal ecosystem matched or exceeded that of the visible plant world above. Just where grew a peculiar kind of toadstool one year, there, next year, and for successive harvests, the same plant would be found. There was no more mystery about its appearance than in the growth of the chestnut on the tree that shaded it.
 
@@ -101,13 +101,13 @@ Palmer drew a powerful analogy to the diamond merchant to explain the kind of pe
 
 No test, no crucible needed. "His sense of discrimination is disciplined, and yours is not." Ask the jeweler to explain his secret, and he cannot — "it has been acquired by years of practice, and may be yours; but only through the same path he trod."
 
-This faculty of cultivated perception, Palmer argued, applies even more strongly to fungi than to higher plants. "Any person can tell at a glance the difference between an oak and a pine, but I have had men of apparent good sense empty a basket containing half a dozen kinds of fungi on my office table and ask, 'There, are those good to eat or poisonous?'"
+This faculty of cultivated perception, Palmer argued, applies even more strongly to fungi than to higher plants. "Any person can tell at a glance the difference between an oak and a pine, but I have had men of apparent good sense empty a basket containing half a dozen kinds of fungi on my office table and ask, "There, are those good to eat or poisonous?'"
 
 Those fungi included plants "as diverse in character and appearance as the pine from the red cedar." Once attention is called to these differences, however, few observers are so dull as to remain ignorant.
 
 ## The Fundamental Principle of Identification
 
-Palmer's core teaching was that exactly what is done with one variety of fungus must be the rule with all others: one must impress upon the senses of sight, touch, taste, and smell the distinctive traits of each species individually.
+Palmer"s core teaching was that exactly what is done with one variety of fungus must be the rule with all others: one must impress upon the senses of sight, touch, taste, and smell the distinctive traits of each species individually.
 
 "Then that specific member of a great family can be eaten or must be rejected wherever and whenever found." There is no more liability to mistake "than in the attempt to distinguish pears from quinces or hyacinth bulbs from onions."
 

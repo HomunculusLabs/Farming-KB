@@ -112,7 +112,7 @@ Environmental conditions (temperature, humidity, light, fresh air exchange) must
 **Developed in Japan and China over 1000 years ago.** Still used by small growers in Asia for local markets.
 
 #### Procedure
-1. Cut logs (~3' long × 6-8" diameter) in winter/early spring
+1. Cut logs (~3" long × 6-8" diameter) in winter/early spring
 2. Use fast-growing deciduous species (alder, poplar, oak, cottonwood) with thick bark
 3. Inoculate with spores or mycelial plugs inserted into drilled holes
 4. Stack in piles with mild to heavy soaking

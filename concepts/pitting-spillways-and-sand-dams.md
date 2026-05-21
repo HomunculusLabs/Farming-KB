@@ -34,7 +34,7 @@ By cutting a quarter-section slice off a set of disc blades, long pits are creat
 
 Pelleted desert shrub seed combined with a light fertiliser dressing creates conditions for permanent soil stability around settlements. Various pitting machines exist, but pits can also be hand-dug for smaller areas.
 
-### Cordon's Recommendations
+### Cordon"s Recommendations
 
 Cordon (1975), working in semi-arid hills, recorded average annual runoff of 20%, with up to 80% in eroded and compacted soils. For slopes exceeding 2%, he recommends:
 

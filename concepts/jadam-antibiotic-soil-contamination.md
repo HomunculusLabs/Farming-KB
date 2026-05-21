@@ -12,7 +12,7 @@ sources:
 JADAM identifies the contamination of soil by antibiotics from [[growing-root-vegetables-guide]] (potatoes, carrots, radish) that come into direct contact with soil were far more vulnerable to antibiotic contamination
 - The implications extend beyond soil health to food safety and consumer health
 
-## JADAM's Position
+## JADAM"s Position
 
 JADAM's core message on this issue:
 - "Any form of farming should be judged based on its ability to sustain production"

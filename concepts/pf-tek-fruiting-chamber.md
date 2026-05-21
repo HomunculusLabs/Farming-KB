@@ -22,7 +22,7 @@ sources:
 
 # PF TEK Fruiting Chamber
 
-The Dual Chambered Terrarium is Psylocybe Fanaticus's original fruiting chamber design for the PF TEK. It uses a standard 10-gallon aquarium with a Plexiglas spray shield partition to create molecularized humidity -- fine mist that bathes the fungus without direct water contact. See [[pf-tek-guide]] for the complete substrate and inoculation method.
+The Dual Chambered Terrarium is Psylocybe Fanaticus"s original fruiting chamber design for the PF TEK. It uses a standard 10-gallon aquarium with a Plexiglas spray shield partition to create molecularized humidity -- fine mist that bathes the fungus without direct water contact. See [[pf-tek-guide]] for the complete substrate and inoculation method.
 
 ## Why a Dual Chamber?
 
@@ -91,7 +91,7 @@ Each time the terrarium is sprayed, ventilate the fungus:
 
 - **Do NOT directly heat the terrarium** -- any direct heating works against humidification and adds drying influence
 - No heating cables, heat pads, or blankets
-- Don't shine light directly down into the terrarium
+- Don"t shine light directly down into the terrarium
 - Keep any plant grow light a safe distance away
 - **Ideal range**: 65-85 degrees Fahrenheit
 - Fungi grow well at 60 degrees F (slowly)

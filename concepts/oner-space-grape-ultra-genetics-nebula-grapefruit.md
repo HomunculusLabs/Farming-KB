@@ -1,6 +1,6 @@
 ---
 title: "Space Grape — Ultra Genetics"
-source: "S.T. Oner, The Rev - Cannabis Sativa Volume 3: The Essential Guide to the World's Finest Marijuana Strains"
+source: "S.T. Oner, The Rev - Cannabis Sativa Volume 3: The Essential Guide to the World"s Finest Marijuana Strains"
 source_type: book
 topics:
   - cannabis-strain
@@ -15,7 +15,7 @@ topics:
 
 ## Overview
 
-Space Grape is a sativa-dominant hybrid bred by the UK's Ultra Genetics, combining
+Space Grape is a sativa-dominant hybrid bred by the UK"s Ultra Genetics, combining
 Nebula with a Grapefruit indica father to create a strain [[dts-multi-line-sativa-hybrid-cheeze-mk-ultra-diesel-haze]] cereb [[what-a-plant-knows-photoperiodism-flowering-time-measurement]] me of approximately 70 days, Space Grape is a relatively accessible
 sativa [[dikaryon-formation-mushroom-strain-genetics]] delivers a clear, soaring high with a delicious fruity berry flavor profile,
 making it an excellent daytime smoke for social or creative use.
@@ -29,7 +29,7 @@ making it an excellent daytime smoke for social or creative use.
   and berry flavor profile. Grapefruit is known for its citrus-cannabis [[cannabis-terpenes-and-the-entourage-effect]] enes and
   compact growth characteristics.
 
-This cross represents Ultra Genetics' strategy of combining their favorite fast-
+This cross represents Ultra Genetics" strategy of combining their favorite fast-
 flowering sativa with a flavorful indica to create "something really special." The
 result is a plant that is greater than the sum of its parts — retaining sativa
 effects while gaining a terpene complexity that pure sativas rarely achieve.
@@ -66,7 +66,7 @@ at all experience levels:
   well to regular feeding schedules.
 - **Climate adaptability:** Performs well both indoors and outdoors. Not particularly
   sensitive to temperature fluctuations.
-- **Difficulty:** Low. Space Grape "doesn't require anything special to grow to its
+- **Difficulty:** Low. Space Grape "doesn"t require anything special to grow to its
   potential," making it an ideal strain for less experienced cultivators.
 
 The combination of manageable height, above-average yield, and low maintenance
@@ -75,7 +75,7 @@ in the Oner guide for home growers with limited space.
 
 ## Aroma and Flavor
 
-Space Grape's flavor profile is one of its strongest attributes. The dominant notes
+Space Grape"s flavor profile is one of its strongest attributes. The dominant notes
 are fruity and berry-forward, with a sweetness that has a slight tang on the finish.
 The Grapefruit parent's influence is immediately apparent — bright citrus and grapefruit
 rind notes complement the deeper berry flavors. The smoke is notably smooth, making

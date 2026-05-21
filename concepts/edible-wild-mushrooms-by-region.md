@@ -16,7 +16,7 @@ Edible wild mushroom species vary significantly by region in North America. This
 ### Spring (April-June)
 - **Morels (Morchella americana, M. esculentoides)**: Peak in May; under dead elms, ash, tulip poplar, and old apple trees; black morels appear first, followed by yellow and half-free morels
 - **[[oyster-mushrooms]] ([[pleurotus-ostreatus]])**: On dead hardwood; available spring through fall
-- **Dryad's saddle (Cerioporus squamosus)**: May on dead elm; only young specimens are edible; can be tough
+- **Dryad"s saddle (Cerioporus squamosus)**: May on dead elm; only young specimens are edible; can be tough
 - **Pheasant back ([[polyporus-umbellatus]])**: Spring on dead maple and oak
 
 ### Summer (June-August)

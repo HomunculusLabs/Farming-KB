@@ -19,7 +19,7 @@ Source: [[fukuoka-textdoc-production-costs-not-coming-down]]**: Labour (approxim
 
 ### Biopriming
 
-Many microorganisms have been investigated for their ability to form beneficial associations with plants, promoting growth and increasing pest and disease resistance based on priming ("biopriming") of plant resistance mechanisms. Biopriming refers to the pre-treatment of plants with beneficial microorganisms that primes the plant's immune system for faster and stronger defense responses upon subsequent pathogen attack.
+Many microorganisms have been investigated for their ability to form beneficial associations with plants, promoting growth and increasing pest and disease resistance based on priming ("biopriming") of plant resistance mechanisms. Biopriming refers to the pre-treatment of plants with beneficial microorganisms that primes the plant"s immune system for faster and stronger defense responses upon subsequent pathogen attack.
 
 ### Mycorrhizosphere
 

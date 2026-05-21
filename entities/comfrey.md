@@ -30,7 +30,7 @@ Comfrey (*Symphytum* spp.) is a genus of perennial flowering plants in the famil
 
 Mollison lists comfrey as a special mulch plant for tropical areas, grown specifically to provide nitrogen, phosphorus, and potassium:
 
-- **Dynamic accumulator**: Comfrey's deep roots access minerals unavailable to shallow-rooted crops, making it an ideal "nutrient pump" in permaculture designs. When leaves are cut and used as mulch, these minerals become available to surrounding plants.
+- **Dynamic accumulator**: Comfrey"s deep roots access minerals unavailable to shallow-rooted crops, making it an ideal "nutrient pump" in permaculture designs. When leaves are cut and used as mulch, these minerals become available to surrounding plants.
 - **Liquid fertilizer**: Leaves can be steeped in water for 2–4 weeks to produce a potent liquid plant feed rich in potassium and nitrogen, particularly beneficial for fruiting crops like tomatoes.
 - **Compost activator**: High nitrogen content accelerates decomposition in compost piles, functioning as a "hot" compost ingredient.
 - **Weed barrier**: Dense growth habit and large leaves shade out weeds, making comfrey effective as a living border or weed-suppressing ground cover around garden beds.

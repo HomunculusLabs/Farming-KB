@@ -30,7 +30,7 @@ A. caroliniana is one of seven recognized *Azolla* species and is distinguished 
 
 Kingdom: Plantae — Division: Polypodiopsida — Class: Polypodiopsida — Order: Salviniales — Family: Salviniaceae — Genus: Azolla — Species: A. caroliniana Willd.
 
-The genus name *Azolla* derives from Greek *azo* ("to dry") and *ollyo* ("to kill"), referring to the plant's tendency to desiccate and die when removed from water. The specific epithet *caroliniana* references the Carolinas region of eastern North America where the species was first documented.
+The genus name *Azolla* derives from Greek *azo* ("to dry") and *ollyo* ("to kill"), referring to the plant"s tendency to desiccate and die when removed from water. The specific epithet *caroliniana* references the Carolinas region of eastern North America where the species was first documented.
 
 A. caroliniana is a small fern measuring 1–2.5 cm across individual fronds. The plant consists of overlapping bilobed fronds arranged in a mosaic pattern, creating a mat-like floating colony.
 

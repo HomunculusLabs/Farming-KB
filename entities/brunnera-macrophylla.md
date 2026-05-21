@@ -23,7 +23,7 @@ Brunnera macrophylla is often described as having flowers that resemble forget-m
 
 The plant typically reaches 30–45 cm in height and spreads slowly by rhizomes to form clumps 45–60 cm across. It is long-lived and trouble-free in suitable conditions, making it a reliable ground-cover plant for shaded areas.
 
-The species received the Royal Horticultural Society's Award of Garden Merit, reflecting its outstanding garden performance. It is frequently recommended in shade-garden design literature as one of the top five perennials for dry shade.
+The species received the Royal Horticultural Society"s Award of Garden Merit, reflecting its outstanding garden performance. It is frequently recommended in shade-garden design literature as one of the top five perennials for dry shade.
 
 ## Taxonomy and Morphology
 

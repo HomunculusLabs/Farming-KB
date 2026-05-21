@@ -31,7 +31,7 @@ sources:
 
 # First-Time Grower Common Mistakes
 
-The 20 most common mistakes split between mushroom cultivation and cannabis cultivation. Learn from others' failures before making your own. See [[mushroom-contamination-identification]] and [[cannabis-pest-management]] for detailed fixes.
+The 20 most common mistakes split between mushroom cultivation and cannabis cultivation. Learn from others" failures before making your own. See [[mushroom-contamination-identification]] and [[cannabis-pest-management]] for detailed fixes.
 
 ---
 

@@ -69,7 +69,7 @@ The result is a mixed hedgerow serving wildlife, domestic forage, and food produ
 
 ## Cross-Slope Ridges as Long-Term Assets
 
-The cross-slope ridges established during hedgerow construction become long-term soil and water traps that accumulate mulch for later system evolutions. This is a feature of the [[mollison-specialist-tropical-crops-forest-products]] Materials Centre on Moloka'i, where their uses and long-term evolution into terraces of undoubted stability can be observed.
+The cross-slope ridges established during hedgerow construction become long-term soil and water traps that accumulate mulch for later system evolutions. This is a feature of the [[mollison-specialist-tropical-crops-forest-products]] Materials Centre on Moloka"i, where their uses and long-term evolution into terraces of undoubted stability can be observed.
 
 ### Road Integration
 Roads should be provided with concrete or stone fill on the downhill side ("X") of the mounds. Permanent roads can be constructed after the terraces are formed, using the accumulated stability of the ridge system.

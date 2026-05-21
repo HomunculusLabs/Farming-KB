@@ -38,7 +38,7 @@ Instrument-based measurement is a key technique for mapping microclimatic variat
 
 A systematic approach involves placing thermometers at consistent heights (e.g., 1.2 m above ground level for standard meteorological comparison) and recording data over multiple days to capture the influence of different weather patterns. Clear, calm nights with light winds produce the most informative readings for frost mapping, as these conditions maximise the temperature differences between microclimatic zones. Overcast or windy nights tend to equalise temperatures across a site and are less useful for differentiation.
 
-Mapping the results onto a topographic base map produces a microclimate overlay that directly informs the placement of sensitive design elements. Colour-coded isotherms connecting points of equal minimum temperature create a visual portrait of the site's thermal landscape, making it immediately apparent where the warmest and coldest zones are located.
+Mapping the results onto a topographic base map produces a microclimate overlay that directly informs the placement of sensitive design elements. Colour-coded isotherms connecting points of equal minimum temperature create a visual portrait of the site"s thermal landscape, making it immediately apparent where the warmest and coldest zones are located.
 
 ## Frost Protection with Trees
 

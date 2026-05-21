@@ -13,7 +13,7 @@ building into compact urban spaces.
 
 ## The Greensboro Model
 
-Charlie Headington's homestead in Greensboro, North Carolina (population
+Charlie Headington"s homestead in Greensboro, North Carolina (population
 200,000) demonstrates what is possible on a standard city lot with an 80-year-
 old house. The project began in spring 1992 when the front lawn was covered
 with newspapers, six pickup loads of leaf mulch, and straw, replacing an

@@ -1,5 +1,5 @@
 ---
-title: McKenna's Amazon Ayahuasca Encounter with Dona Catalina
+title: McKenna"s Amazon Ayahuasca Encounter with Dona Catalina
 source: Food of the Gods - terence-mckenna-ethnobotany-and-psychedelic-plant-intelligence
 tags: [mckenna, ayahuasca, amazon, shamanism, dona-catalina, visionary, colombia, putumayo]
 created: 2026-05-11
@@ -23,7 +23,7 @@ with what he calls "naked Platonic beauty" and "the Epiphany" herself.
 
 ## The River Journey
 
-The journey to meet Dona Catalina is arduous. McKenna's account begins with a
+The journey to meet Dona Catalina is arduous. McKenna"s account begins with a
 chance encounter in a "river town bar" with a boatman willing to take him to see
 "the miracleworking ayahuasca witch of local legend." What had seemed "like a
 great chance for a story" in the bar becomes something far more serious as the
@@ -61,15 +61,15 @@ itself, one of the most quoted passages in his work:
 The liquid is described as "black" and "slow-flowing," with "the sheen of motor
 oil." The taste profile is complex and contradictory — warm and salty, chalky
 and bittersweet — refusing easy categorization. The simile "tasted like the blood
-of some old, old thing" captures the essence of McKenna's experience: this is
+of some old, old thing" captures the essence of McKenna"s experience: this is
 not a recreational beverage but a communion with something ancient, organic, and
 alive. The repetition of "old" emphasizes the temporal depth — this is a
 substance with roots in deep time.
 
 ## The Onset: Courage Failing
 
-As the brew takes effect, McKenna's composure dissolves. He notes that "both
-Dona Catalina and the guide's mocking eyes had slowly gone cold and mantislike."
+As the brew takes effect, McKenna"s composure dissolves. He notes that "both
+Dona Catalina and the guide"s mocking eyes had slowly gone cold and mantislike."
 The atmosphere shifts from merely uncomfortable to genuinely threatening. "A wave
 of insect sound sweeping up the river seemed to splatter the darkness with shards
 of sharp-edged light." His lips go numb.
@@ -107,7 +107,7 @@ In their intoxicated and ecstatic state, the song "seems more like a tropical
 reef fish or an animated silk scarf of many colors than a vocal performance."
 
 This synesthetic description — hearing as seeing, song as visual object — is
-characteristic of the ayahuasca experience and represents McKenna's firsthand
+characteristic of the ayahuasca experience and represents McKenna"s firsthand
 confirmation of the shamanic principle that "language, ideas, and meaning have
 greater power than [[fukuoka-nature-no-cause-and-effect]]." The icaro is not merely music but "a visible
 manifestation of power, enfolding us and making us secure." The song itself
@@ -115,7 +115,7 @@ becomes the healing — language made visible and tangible.
 
 ## Authentic Practice vs. Marketplace Charlatans
 
-The Dona Catalina encounter serves McKenna's broader argument about the
+The Dona Catalina encounter serves McKenna"s broader argument about the
 difference between authentic [[metzner-metaphysical-realms-nonordinary-reality-shamanic-cosmology]]." The encounter
 with Dona Catalina is offered as evidence — not proof in the scientific sense,
 but the testimony of direct experience.

@@ -37,7 +37,7 @@ availability of water and minerals to plants.
 The concept of the soil food web was formalized and popularized by Dr. Elaine
 Ingham, a soil microbiologist whose research and teaching have profoundly
 influenced the fields of sustainable agriculture, composting, and ecological
-restoration. Ingham's model describes the soil as a functioning ecosystem in
+restoration. Ingham"s model describes the soil as a functioning ecosystem in
 which organisms at different trophic levels interact through predation,
 competition, and symbiosis to create the conditions that plants need to thrive.
 Rather than viewing soil as an inert substrate that holds plants upright and

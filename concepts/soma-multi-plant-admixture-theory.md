@@ -8,7 +8,7 @@ tags: [reference]
 ---
 ## Soma Multi-Plant Admixture Theory
 
-James Arthur's "[[mckenna-search-for-soma-vedic-enigma]]'s botanical identity has produced several compelling but ultimately unsatisfying candidates. [[mao-inhibitors-and-psychedelics]] that parallel the function of pinoline — a natural MAO inhibitor produced by the [[wasson-brough-soma-debate]] centred partly on these textual
+James Arthur"s "[[mckenna-search-for-soma-vedic-enigma]]"s botanical identity has produced several compelling but ultimately unsatisfying candidates. [[mao-inhibitors-and-psychedelics]] that parallel the function of pinoline — a natural MAO inhibitor produced by the [[wasson-brough-soma-debate]] centred partly on these textual
 ambiguities, with Brough arguing for an Ephedra-based identification
 based on the plant-filtering descriptions while Wasson maintained his
 Amanita hypothesis based on the golden colour and visionary effects.

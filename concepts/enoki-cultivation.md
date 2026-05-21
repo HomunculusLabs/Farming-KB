@@ -17,7 +17,7 @@ title: "Enoki Cultivation"
 
 ## Overview
 
-Enoki (Flammulina velutipes), also known as Enokitake, is one of the most commercially important cultivated mushrooms worldwide. Its wild form looks entirely different from the cultivated product: in nature it produces a normal cap-and-stem mushroom with a velvety, brown stem, but commercial cultivation produces the distinctive long-stemmed, white, needle-like clusters familiar from Asian cuisine. This transformation is achieved through controlled cultivation conditions that exploit the mushroom's natural response to low light and high CO2.
+Enoki (Flammulina velutipes), also known as Enokitake, is one of the most commercially important cultivated mushrooms worldwide. Its wild form looks entirely different from the cultivated product: in nature it produces a normal cap-and-stem mushroom with a velvety, brown stem, but commercial cultivation produces the distinctive long-stemmed, white, needle-like clusters familiar from Asian cuisine. This transformation is achieved through controlled cultivation conditions that exploit the mushroom"s natural response to low light and high CO2.
 
 ## Species Description
 

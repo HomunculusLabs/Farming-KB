@@ -36,7 +36,7 @@ for human health, and using JADAM [[maintaining-organic-matter-in-vegetable-gard
 soil is barren, just putting in microorganisms will not secure the nutrients
 needed for plant growth. Certain elements must be present:
 - **[[ectomycorrhizal-enzyme-activity-organic-nutrients]]:** Carbon (C), hydrogen (H), oxygen (O) from
-  photosynthesis. These comprise 96% of a plant's dried mass.
+  photosynthesis. These comprise 96% of a plant"s dried mass.
 - **Inorganic nutrients:** Nitrogen (N), potassium (K), calcium (Ca),
   phosphorus (P), magnesium (Mg), boron (B), sulfur (S) comprising 3.5%.
 - **[[soil-micronutrients-sulphur-potassium-calcium-trace-elements]]:** Iron (Fe), manganese (Mn), molybdenum (Mo), copper (Cu),
@@ -55,7 +55,7 @@ breaks down rock sediments below leaf mold layers in forests.
 of "the good and the bad are one" means finding balance rather than tilting
 toward either extreme. Putting in nutritionally unbalanced food (like skin
 fertilizers from rice bran or perilla pulp) disrupts nutrient balance.
-There are two types of balance in JADAM's "underground optimization":
+There are two types of balance in JADAM"s "underground optimization":
 1. **Balance of microorganisms:** Wide variety and abundance of
    microorganisms.
 2. **Balance of fertilization:** Fertilizer should be balanced in its nutrients
@@ -74,7 +74,7 @@ even frequent rain cannot wash them away, making soil resistant to erosion.
 - Use sun-dried sea salt (not purified salt) for full mineral spectrum.
 ## The Essential Elements Debate
 JADAM challenges the claim that only eighteen elements are required for plant
-growth. This conclusion was reached by "today's" [[fukuoka-critique-agricultural-science-laws-liebig]], which
+growth. This conclusion was reached by "today"s" [[fukuoka-critique-agricultural-science-laws-liebig]], which
 is always advancing. For humans, the number of essential minerals was sixty
 ten years ago and is now over seventy. As science progresses, more essential
 plant nutrients will be discovered. This is why JADAM advocates providing a

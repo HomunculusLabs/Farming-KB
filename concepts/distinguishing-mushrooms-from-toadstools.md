@@ -41,7 +41,7 @@ Palmer emphasized that mycology cannot be learned systematically the way other s
 
 Every one of the roughly one thousand species of good-sized fungi must be identified separately. There is no shortcut, no universal rule, and no substitute for direct familiarity with each species.
 
-## Palmer's Method of Testing Mushrooms
+## Palmer"s Method of Testing Mushrooms
 
 Palmer described a careful, graduated method for testing unknown mushrooms:
 

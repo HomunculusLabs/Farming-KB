@@ -31,7 +31,7 @@ sources:
 Bankeraceae, notorious for its visually striking appearance — young
 fruiting bodies exude bright red fluid droplets from their pore
 surfaces that resemble blood, earning it the common names "bleeding
-tooth fungus," "devil's tooth," and "red-juice tooth." Despite its
+tooth fungus," "devil"s tooth," and "red-juice tooth." Despite its
 gore-like appearance, H. peckii is not a parasite or pathogen; it is
 an ectomycorrhizal mutualist associated with coniferous trees. The
 species has attracted significant research interest for its production

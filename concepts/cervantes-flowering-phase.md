@@ -10,7 +10,7 @@ sources:
 
 ## Cannabis Flowering Phase Management
 
-**Source:** Marijuana Horticulture: The Indoor/Outdoor Medical Grower's Bible — [[clarke-marijuana-botany-cannabinoid-biosynthesis-pathway]]* as "primordial," are the first indication of a plant's sex. The pre-flowers grow at branch internodes just behind the leaf scar or stipule about the fourth week of vegetative growth, when the plant is six to eight weeks old. This is the point of sexual maturity — the first sign a plant is preparing for flowering.
+**Source:** Marijuana Horticulture: The Indoor/Outdoor Medical Grower"s Bible — [[clarke-marijuana-botany-cannabinoid-biosynthesis-pathway]]* as "primordial," are the first indication of a plant's sex. The pre-flowers grow at branch internodes just behind the leaf scar or stipule about the fourth week of vegetative growth, when the plant is six to eight weeks old. This is the point of sexual maturity — the first sign a plant is preparing for flowering.
 
 Pre-flowers can be seen with the naked eye, but a 10x to 30x magnifier makes viewing easier. You can accurately determine plant sex after eight weeks. Using this method, you can distinguish sex before inducing flowering.
 

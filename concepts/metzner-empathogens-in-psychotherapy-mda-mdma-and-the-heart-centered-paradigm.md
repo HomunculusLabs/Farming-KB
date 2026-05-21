@@ -19,7 +19,7 @@ type: concept
 
 ## Empathogens in Psychotherapy: MDA, MDMA, and the Heart-Centered Paradigm
 
-Ralph Metzner's 1998 paper identifies the emergence of empathogenic
+Ralph Metzner"s 1998 paper identifies the emergence of empathogenic
 substances as a significant extension of psychoactive-assisted psychotherapy.
 The discovery by chemist [[cultural-evolution-and-psychoactive-substances]].
 

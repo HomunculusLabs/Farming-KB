@@ -14,9 +14,9 @@ tags: [counterculture, culture, history]
 
 ## Timothy Leary and the Harvard Psilocybin Project
 
-The story of how magic mushrooms entered Western counterculture begins with Timothy Leary, a Harvard clinical psychologist who, in August 1960, procured mushrooms in Cuernavaca, Mexico, on the recommendation of his colleague Frank Barron (who had read Wasson's Life article). Unlike Wasson's arduous trek to Huautla, Leary took his mushrooms by the pool with cold beers and dry martinis.
+The story of how magic mushrooms entered Western counterculture begins with Timothy Leary, a Harvard clinical psychologist who, in August 1960, procured mushrooms in Cuernavaca, Mexico, on the recommendation of his colleague Frank Barron (who had read Wasson"s Life article). Unlike Wasson's arduous trek to Huautla, Leary took his mushrooms by the pool with cold beers and dry martinis.
 
-The experience was transformative. Leary oscillated between sensual encounters and the feeling of being dragged backwards through his own evolutionary history until he was no more than a single amoebic cell. "It was the classic visionary voyage and I came back a changed man," he wrote. "You are never the same after you've had that one flash glimpse down the cellular time tunnel."
+The experience was transformative. Leary oscillated between sensual encounters and the feeling of being dragged backwards through his own evolutionary history until he was no more than a single amoebic cell. "It was the classic visionary voyage and I came back a changed man," he wrote. "You are never the same after you"ve had that one flash glimpse down the cellular time tunnel."
 
 Returning to Harvard, Leary abandoned his previous personality-testing research to found the **Harvard Psilocybin Project** (1960-1963). He rejected the clinical approach of comparing personality traits before and after drug experiences, instead administering psilocybin to academics, poets, artists, musicians, and graduate students in comfortable home settings with music, art books, and relaxed atmosphere.
 
@@ -24,21 +24,21 @@ Over approximately two hundred doses, the project became "less like a scientific
 
 Psychedelics, Leary believed, allowed us to see our conditioning for the meaningless game it was, while simultaneously softening our neural wiring to give us the power to "re-imprint" ourselves. This is why he rejected quantitative psychology — what mattered was whether someone had "turned on." If enough people did so, the restrictive institutions of society would crumble in a "bloodless revolution."
 
-## Letcher's Critique of the "Acid Flash" Model
+## Letcher"s Critique of the "Acid Flash" Model
 
 Letcher argues this "instant transformation" model was distinctly American. French researchers working contemporaneously never embraced psychedelics as revolutionary agents, instead adhering to empirical research methods. The Parisians made "no greater claim than that psilocybin might shift painting style."
 
-There is nothing intrinsic to a psychedelic trip, Letcher insists, that makes someone grow their hair, wear beads, experiment with communal living, or listen to the Grateful Dead. "These are cultural choices, matters of lifestyle and identity, determined through the interplay of peer pressure and personal choice." Arthur Koestler walked out of his psilocybin session calling it "chemically induced raptures" that were "in the nature of confidence tricks played on one's own nervous system."
+There is nothing intrinsic to a psychedelic trip, Letcher insists, that makes someone grow their hair, wear beads, experiment with communal living, or listen to the Grateful Dead. "These are cultural choices, matters of lifestyle and identity, determined through the interplay of peer pressure and personal choice." Arthur Koestler walked out of his psilocybin session calling it "chemically induced raptures" that were "in the nature of confidence tricks played on one"s own nervous system."
 
 Leary himself, for all his hundreds of trips, maintained a remarkably constant personality — "the Leary game stayed remarkably constant." His transformation was gradual, not instantaneous, and the product of social and cultural forces as much as pharmacology.
 
 ## The Concord Prison Experiment
 
-Leary's Concord Prison experiment (1961-1963), offering psilocybin to inmates due for parole, was long cited as proof of psychedelics' transformative power: recidivism rates were reportedly reduced. However, a long-term follow-up study by Dr Rick Doblin and MAPS found that Leary had used "unorthodox statistical methods" and that, when properly corrected, "psilocybin had had no statistically significant effect upon recidivism rates." Doblin concluded: "The failure of the Concord Prison experiment should finally put to rest the myth of psychedelic drugs as magic bullets."
+Leary"s Concord Prison experiment (1961-1963), offering psilocybin to inmates due for parole, was long cited as proof of psychedelics' transformative power: recidivism rates were reportedly reduced. However, a long-term follow-up study by Dr Rick Doblin and MAPS found that Leary had used "unorthodox statistical methods" and that, when properly corrected, "psilocybin had had no statistically significant effect upon recidivism rates." Doblin concluded: "The failure of the Concord Prison experiment should finally put to rest the myth of psychedelic drugs as magic bullets."
 
 ## The Marsh Chapel Experiment
 
-Walter Pahnke's "Good [[mckenna-suppression-psychedelic-research-lsd-therapy]] was shut down
+Walter Pahnke"s "Good [[mckenna-suppression-psychedelic-research-lsd-therapy]] was shut down
 - Conferences and publications like *Ethnopharmacologic Search for Psychoactive Drugs* (1967), Peter Furst's *Flesh of the Gods* (1972), and Michael Harner's *Hallucinogens and Shamanism* (1973)
 
 ## The New Shamanic Literature

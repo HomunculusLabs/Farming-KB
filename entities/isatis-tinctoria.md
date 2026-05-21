@@ -9,7 +9,7 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Oberthür, C. et al. (2004). "Detoxification of benzoxazinoids: the plant's own weapons." Phytochemistry, 65(12), 1731-1737.
+  - Oberthür, C. et al. (2004). "Detoxification of benzoxazinoids: the plant"s own weapons." Phytochemistry, 65(12), 1731-1737.
 ---
 
 Isatis tinctoria, commonly known as woad, is a biennial or short-lived perennial herb in the family Brassicaceae. It was historically one of the most important dye plants in Europe, producing the blue pigment indigo before the introduction of tropical indigo from Indigofera species.
@@ -34,7 +34,7 @@ The dye is extracted from the leaves, which contain the glucosinolate precursor 
 
 Fresh leaves yield more dye than dried material, as the glucosinolate degrades during drying. Optimal dye extraction requires processing within hours of harvest.
 
-Harvesting occurred two to three times per [[arbuscular-mycorrhizal-spore-extraction-methods]] using controlled fermentation have improved woad's dye yield. Contemporary practitioners report indigo yields of 1.5 to 2% with optimized processing.
+Harvesting occurred two to three times per [[arbuscular-mycorrhizal-spore-extraction-methods]] using controlled fermentation have improved woad"s dye yield. Contemporary practitioners report indigo yields of 1.5 to 2% with optimized processing.
 
 ## Bioactive Compounds and Pharmacology
 

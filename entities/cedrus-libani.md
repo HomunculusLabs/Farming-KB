@@ -12,7 +12,6 @@ date: 2026-05-08
 updated: 2026-05-08
 sources:
   - Barbero, M. et al. (1981). "Sur la taxinomie des cèdres." Annales des Sciences Forestières 38(4).---
----
 
 ## Cedrus libani
 

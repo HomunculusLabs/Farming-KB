@@ -17,7 +17,6 @@ updated: 2026-04-28
 sources:
  (neurotropic-fungi-taxonomic-classification, Kew)
   - Perry, L.M. (1980). Medicinal Plants of East and Southeast Asia. MIT Press.---
----
 # Tabernaemontana divaricata (Pinwheel Flower)
 
 ## Overview
@@ -41,7 +40,7 @@ sources:
 
 - *Ervatamia divaricata* (L.) Burkhill — common synonym in older botanical literature
 - *Tabernaemontana coronaria* (Willd.) — synonym in some classifications
-- **'Flore Pleno'** — double-flowered cultivar, most commonly grown ornamental form
+- **"Flore Pleno'** — double-flowered cultivar, most commonly grown ornamental form
 - **'Dwarf'** — compact cultivar reaching 0.5–1 m, popular in [[guzman-allen-gartz-neurotropic-fungi-hawaii-pacific-islands]], and parts of Africa and the Americas. In its native range, it grows in moist deciduous and semi-evergreen forests, along stream banks, and in disturbed areas at low to medium elevations (0–800 m). It thrives in well-drained, fertile soils with full sun to partial shade and is tolerant of a range of soil types including clay and limestone. The plant naturalizes readily in tropical gardens and can become somewhat weedy in favorable conditions, spreading through [[seed-dispersal-ecology-and-mechanisms]] and root suckering. In Florida and Hawaii, it has escaped cultivation and is occasionally found in disturbed habitats.
 
 ## Traditional Medicinal Use

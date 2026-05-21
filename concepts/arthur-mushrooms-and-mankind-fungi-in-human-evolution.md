@@ -10,7 +10,7 @@ tags: [fungi, mushroom-cultivation, mushrooms]
 
 ## Fungi in Human Evolution: Mushrooms and Mankind
 
-James Arthur's "Mushrooms and Mankind: A Brief Introduction to Ethnomycology" presents the thesis that psychoactive mushrooms -- particularly **[[comparison-fruiting-body-vs-mycelium-extracts-medicinal-mushrooms]] grows from underground mycelium attached to tree roots, making it literally the "fruit of the tree." Arthur connects this to the [[allegro-the-sacred-mushroom-amanita-identification]] and the Cross") arguing that biblical Manna means "mushroom," noting the botanical description fits: small, round, appearing after dew, breeding worms and stinking if left in the sun.
+James Arthur"s "Mushrooms and Mankind: A Brief Introduction to Ethnomycology" presents the thesis that psychoactive mushrooms -- particularly **[[comparison-fruiting-body-vs-mycelium-extracts-medicinal-mushrooms]] grows from underground mycelium attached to tree roots, making it literally the "fruit of the tree." Arthur connects this to the [[allegro-the-sacred-mushroom-amanita-identification]] and the Cross") arguing that biblical Manna means "mushroom," noting the botanical description fits: small, round, appearing after dew, breeding worms and stinking if left in the sun.
 
 ## The Hidden Sacrament Across Religions
 

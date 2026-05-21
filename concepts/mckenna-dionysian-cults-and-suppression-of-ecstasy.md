@@ -30,7 +30,7 @@ Dionysus was said to have been born from the thigh of Zeus after the death of hi
 
 ## The Roman Suppression
 
-In 186 B.C., the Roman Senate, alarmed by what it saw as the subversive activities of the Bacchanalia (the Roman version of the Dionysian mysteries), passed the Senatus consultum de Bacchanalibus — a law that effectively outlawed the cult. Livy's account of the suppression reveals the characteristic dominator fear of ecstatic religion:
+In 186 B.C., the Roman Senate, alarmed by what it saw as the subversive activities of the Bacchanalia (the Roman version of the Dionysian mysteries), passed the Senatus consultum de Bacchanalibus — a law that effectively outlawed the cult. Livy"s account of the suppression reveals the characteristic dominator fear of ecstatic religion:
 
 > "The evil spread from Etruria like a disease... The participants, after they had plenty to drink, threw off all restraint... There were more crimes committed by them than by all the other criminals put together."
 

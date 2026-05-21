@@ -26,7 +26,7 @@ The Agaricini are a taxonomic grouping of fungi referring to gilled mushrooms --
 - This group "defies generalization" regarding edibility -- unlike puff-balls (generally safe when young and white inside) and Boleti (generally safe if mild-tasting), the Agaricini include both the most prized edible species and the most deadly poisonous ones.
 - Among the Agaricini, Palmer highlighted the *Amanita* genus as containing the most dangerous species, while the *Russula* genus was noted as relatively safe to test by taste, since noxious species have an unmistakably acrid, biting fluid.
 - The mushroom of commerce (*[[agaricus-campestris]]* in its wild form, *[[agaricus-arvensis]]* as the cultivated horse-mushroom) belongs to this group.
-- Of approximately 1,000 known species of "good-sized fungi" (in Palmer's era), the Agaricini constituted the largest class by far.
+- Of approximately 1,000 known species of "good-sized fungi" (in Palmer"s era), the Agaricini constituted the largest class by far.
 
 ## Identification Methodology
 
@@ -69,7 +69,7 @@ The Agaricini/Agaricales remain the most economically important group of fungi:
 - **Commercial cultivation:** The global mushroom industry is dominated by Agaricini -- *[[agaricus-bisporus-cultivation-biology]]* (button/cremini/portobello), *Pleurotus* species (oyster mushrooms), and *Lentinula edodes* (shiitake) are all members.
 - **[[magic-mushroom-forensic-identification-challenges-shirota]]:** The Agaricini require the most careful species-level identification because the group contains both delectable edibles and lethal toxic species, sometimes within the same genus.
 - **Taxonomic framework:** Understanding gill structure remains one of the first steps in mushroom identification. Gill attachment, spacing, and color are key diagnostic features used in all modern field guides.
-- **Safety education:** Palmer's warning that this group "cannot be safely used except on the recognition of each species" remains valid and is a cornerstone of modern foraging safety education.
+- **Safety education:** Palmer"s warning that this group "cannot be safely used except on the recognition of each species" remains valid and is a cornerstone of modern foraging safety education.
 - **Nutritional value:** Palmer noted that mushrooms occupy "a place between animal and vegetable food, approximating to the former more than to the latter" -- an observation that aligns with modern [[fukuoka-textdoc-fallacy-infinite-nutritional-analysis]] showing relatively high protein content in many Agaricini.
 ## Historical Context
 

@@ -1,5 +1,5 @@
 ---
-title: Early LSD psilocybin-clinical-research-history in Hofmann's LSD: My Problem Child
+title: Early LSD psilocybin-clinical-research-history in Hofmann"s LSD: My Problem Child
 created: 2026-04-26
 updated: 2026-04-24
 sources:
@@ -12,7 +12,7 @@ tags: [lsd]
 
 ## Key Therapeutic Mechanisms
 
-LSD's therapeutic value derived from properties diametrically opposed to tranquilizers: whereas tranquilizers covered up problems, LSD made them "more exposed and more intensely experienced," leading to clearer recognition and greater susceptibility to treatment. Specific mechanisms included:
+LSD"s therapeutic value derived from properties diametrically opposed to tranquilizers: whereas tranquilizers covered up problems, LSD made them "more exposed and more intensely experienced," leading to clearer recognition and greater susceptibility to treatment. Specific mechanisms included:
 
 - **[[dmt-containing-plants-united-states-halpern]]**: A. K. Busch, W. C. Johnson, S. Cohen, B. Eisner, H. A. Abramson, H. Osmond, A. Hoffer
 - **England**: R. A. Sandison

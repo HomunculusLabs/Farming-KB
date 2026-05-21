@@ -15,7 +15,7 @@ Harlequin is a sativa-dominant hybrid cannabis strain distinguished by its unusu
 
 - **Colombian Gold (1970s cut)**: A legendary South American sativa landrace that was widely available in the United States during the 1970s. Colombian Gold contributed golden-hued buds, sweet citrus and earthy flavors, and the foundational sativa structure. The specific 1970s cut used in Harlequin is considered a prized heirloom that predates much of the hybridization that occurred in subsequent decades.
 - **Thai**: Southeast Asian landrace sativa genetics that contribute potency, the characteristic cerebral energy, and complex spicy, tropical terpene notes. Thai genetics have been foundational to many celebrated strains including Haze and Trainwreck.
-- **Swiss Sativa**: European-bred sativa genetics that add structural hardiness and adaptability to varied growing conditions. The Swiss component may contribute to the strain's surprisingly robust growth for a sativa-dominant plant.
+- **Swiss Sativa**: European-bred sativa genetics that add structural hardiness and adaptability to varied growing conditions. The Swiss component may contribute to the strain"s surprisingly robust growth for a sativa-dominant plant.
 - **Nepalese**: Himalayan sativa landrace genetics that provide resin production, hash-making potential, and an earthy, incense-like quality to the aroma profile. Nepalese varieties have long been valued in hash-producing regions for their generous trichome coverage.
 
 The combination of these four distinct sativa lineages from four different continents creates a genetic profile of extraordinary breadth. Each parent contributes unique terpene and cannabinoid characteristics while maintaining the sativa-dominant growth pattern and effect profile.
@@ -48,7 +48,7 @@ The density of the resin-heavy buds means that Harlequin requires an extended dr
 
 ## Aroma and Flavor Profile
 
-Harlequin's flavor is shaped by its extraordinary [[cannabis-for-inflammatory-conditions]] including arthritis and autoimmune disorders.
+Harlequin"s flavor is shaped by its extraordinary [[cannabis-for-inflammatory-conditions]] including arthritis and autoimmune disorders.
 - **[[cannabis-for-nausea-and-appetite-stimulation]]**: The mild THC content stimulates appetite while the CBD helps manage nausea, making it suitable for patients undergoing chemotherapy or dealing with appetite-suppressing conditions.
 - **Daytime functionality**: Perhaps most importantly, the low THC content allows patients to use Harlequin during the day without impairment, making it one of the most versatile medical strains available.
 

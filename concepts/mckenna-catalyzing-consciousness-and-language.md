@@ -21,7 +21,7 @@ Human language may have originated as a form of synesthesia — the crossing of 
 
 This synesthetic experience may have provided the foundation for the development of language. If early hominids under the influence of psilocybin experienced their vocalizations as having visual qualities — shapes, colors, textures — this could have created a natural bridge between the vocal-auditory channel and the visual-spatial channel, facilitating the development of symbolic reference.
 
-Contemporary neuroscience has confirmed that synesthesia is a real neurological phenomenon, and research using fMRI imaging has shown that psilocybin does indeed increase cross-modal connectivity in the brain — the kind of cross-talk between sensory systems that would be necessary for a synesthetic foundation of language to emerge. While this does not prove McKenna's hypothesis, it demonstrates that the neurobiological mechanisms he proposed are plausible.
+Contemporary neuroscience has confirmed that synesthesia is a real neurological phenomenon, and research using fMRI imaging has shown that psilocybin does indeed increase cross-modal connectivity in the brain — the kind of cross-talk between sensory systems that would be necessary for a synesthetic foundation of language to emerge. While this does not prove McKenna"s hypothesis, it demonstrates that the neurobiological mechanisms he proposed are plausible.
 
 ## The Flash of Recognition
 
@@ -43,11 +43,11 @@ The interaction between psilocybin use and neocortical development may have crea
 
 ## The Linguistic Fossil Record
 
-The hypothesis that psilocybin played a role in the emergence of language is supported by [[allegro-linguistic-evidence]]. Many of the world's languages contain words for psychoactive plants and their effects that appear to be very ancient — "soma," "haoma," "teonanacatl," "kava." The persistence of these words across millennia and across unrelated language families suggests a deep and ancient connection between psychoactive plants and human linguistic capacity.
+The hypothesis that psilocybin played a role in the emergence of language is supported by [[allegro-linguistic-evidence]]. Many of the world"s languages contain words for psychoactive plants and their effects that appear to be very ancient — "soma," "haoma," "teonanacatl," "kava." The persistence of these words across millennia and across unrelated language families suggests a deep and ancient connection between psychoactive plants and human linguistic capacity.
 
 ## The Stoned Ape Hypothesis in Detail
 
-McKenna's "stoned ape" hypothesis, fully articulated in his 1992 book *Food of the Gods*, proposes that *[[mckenna-suppression-psychedelic-research-lsd-therapy]] re-emerges from decades of suppression.
+McKenna"s "stoned ape" hypothesis, fully articulated in his 1992 book *Food of the Gods*, proposes that *[[mckenna-suppression-psychedelic-research-lsd-therapy]] re-emerges from decades of suppression.
 
 The distinction between McKenna's hypothesis and mainstream evolutionary accounts is partly a matter of emphasis rather than outright contradiction. No serious researcher denies that diet — including psychoactive compounds — has shaped human evolution. The controversy centers on whether specific psychoactive compounds played a *causal* role in the emergence of uniquely human capacities like language and self-reflection, or merely provided occasional supplementary advantages within a broader adaptive landscape driven by social complexity, tool use, and environmental pressures.
 

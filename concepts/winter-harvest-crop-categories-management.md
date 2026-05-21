@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-The Winter Harvest Handbook organizes its crop production system around a carefully categorized selection of cold-hardy vegetables, each managed through specific planting schedules, greenhouse environments, and harvesting protocols. The book's extensive indexing reveals the depth and interconnection of the system's components — from individual crop varieties to structural design, soil management, and pest control. Understanding these categories and their management is essential for anyone implementing a successful year-round harvest program.
+The Winter Harvest Handbook organizes its crop production system around a carefully categorized selection of cold-hardy vegetables, each managed through specific planting schedules, greenhouse environments, and harvesting protocols. The book"s extensive indexing reveals the depth and interconnection of the system's components — from individual crop varieties to structural design, soil management, and pest control. Understanding these categories and their management is essential for anyone implementing a successful year-round harvest program.
 
 ## The Winter Crop Portfolio
 

@@ -3,7 +3,7 @@ title: "Panax Ginseng vs Siberian Ginseng (Eleutherococcus)"
 tags: [comparison, adaptogens, ginseng, medicinal-herbs, araliaceae]
 date: 2026-05-09
 updated: 2026-05-09
-sources: ['raw/papers/working-with-agar.md']
+sources: ["raw/papers/working-with-agar.md']
 ---
 
 ## Panax Ginseng vs Siberian Ginseng (Eleutherococcus)

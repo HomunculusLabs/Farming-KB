@@ -11,7 +11,7 @@ Because meat is the food staple in America, agriculture is dominated by livestoc
 farming. Fukuoka observed that grazing had destroyed the ecology of natural
 grasses, devastating the land. He watched this process unfolding with his own
 eyes and could hardly believe what he saw. Land that has lost its fertility
-becomes barren of nature's strength, which accounts for the development of a
+becomes barren of nature"s strength, which accounts for the development of a
 modern agriculture totally reliant on petroleum energy.
 
 Fukuoka's observation connected the American experience to a global pattern: the
@@ -27,7 +27,7 @@ Large operations require mechanization with machinery of increasing size. Fukuok
 called this machinery "big iron" and noted that it breaks down the structure of
 the soil, setting up a negative cycle. Agriculture that ignores the forces of
 nature and relies solely on the human intellect and human effort is ultimately
-unprofitable. It was inevitable, in Fukuoka's view, that crops produced with the
+unprofitable. It was inevitable, in Fukuoka"s view, that crops produced with the
 help of petroleum would be transformed into a strategic commodity for securing
 cheap oil.
 

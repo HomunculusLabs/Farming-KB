@@ -9,7 +9,7 @@ sources:
 ---
 ## Fukuoka Mandarin Orange and Citrus Orchard
 
-Masanobu Fukuoka's citrus orchard on the hillside above his farm in Ehime Prefecture, Shikoku, stands as one of the most compelling demonstrations of [[fukuoka-natural-orchard-development]] because:
+Masanobu Fukuoka"s citrus orchard on the hillside above his farm in Ehime Prefecture, Shikoku, stands as one of the most compelling demonstrations of [[fukuoka-natural-orchard-development]] because:
 
 - A balanced ecosystem supports natural predators (spiders, [[query-how-do-i-design-habitat-for-beneficial-insects]] organisms
 
@@ -23,7 +23,7 @@ The result: "After a few years of not spraying, the trees were stronger and less
 
 ## The Critique of Modern Citrus Farming
 
-Fukuoka was particularly critical of Ehime Prefecture's approach to mandarin orange cultivation:
+Fukuoka was particularly critical of Ehime Prefecture"s approach to mandarin orange cultivation:
 
 - Government programs promoted chemical spraying, heavy pruning, and synthetic fertilizers
 - Farmers removed all ground cover, exposing soil to erosion

@@ -9,7 +9,7 @@ categories: [people, science, ecology]
 
 ## Description
 
-James Ephraim Lovelock (1919–2022) was an English independent scientist, environmentalist, and futurist best known for proposing the Gaia hypothesis, which posits that the Earth functions as a self-regulating, self-constructed, and reactive system that creates and preserves the conditions necessary for life. His work is cited prominently in [[bill-mollison]]'s *Permaculture: A Designers' Manual* (1988) as a philosophical foundation linking scientific understanding with indigenous belief systems about the living Earth.
+James Ephraim Lovelock (1919–2022) was an English independent scientist, environmentalist, and futurist best known for proposing the Gaia hypothesis, which posits that the Earth functions as a self-regulating, self-constructed, and reactive system that creates and preserves the conditions necessary for life. His work is cited prominently in [[bill-mollison]]"s *Permaculture: A Designers' Manual* (1988) as a philosophical foundation linking scientific understanding with indigenous belief systems about the living Earth.
 
 ## Classification
 

@@ -49,7 +49,7 @@ Today, natives throughout [[metzner-peyote-ceremonies-native-american-church-and
 ### Trichocereus Cacti (Most Readily Available)
 - Found in many large nurseries, especially cacti/succulent specialists
 - Look for nurseries that mark cacti with botanical names
-- Don't ask for [[gottlieb-psychoactive-cacti-san-pedro-and-peruvian-torch]] by name
+- Don"t ask for [[gottlieb-psychoactive-cacti-san-pedro-and-peruvian-torch]] by name
 - Legal for ornamental purposes only (illegal to ingest, extract, or sell for psychoactive purposes)
 - Each plant may produce one or more highs worth per year
 - Most varieties are difficult to tell apart (check library books/lexicons before shopping)

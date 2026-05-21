@@ -7,7 +7,7 @@ tags: [species, mushroom, amanita, north-america]
 
 ## Description
 
-Amanita wellsii is a visually striking mushroom species in the genus Amanita, noted for its stunning appearance. It is documented in Andrus Voitk's *Common Mushrooms of Newfoundland and Labrador* (2007) as a species found in Newfoundland that is rarely covered in standard North American field guides.
+Amanita wellsii is a visually striking mushroom species in the genus Amanita, noted for its stunning appearance. It is documented in Andrus Voitk"s *Common Mushrooms of Newfoundland and Labrador* (2007) as a species found in Newfoundland that is rarely covered in standard North American field guides.
 
 ## Classification
 

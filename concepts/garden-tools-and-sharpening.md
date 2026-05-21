@@ -54,7 +54,7 @@ Solomon distinguishes three main digging tools:
   material (soil, [[compost]], gravel). Less effective for breaking undisturbed ground
   because the curved blade spreads force rather than concentrating it.
 
-The key insight: a **spade is the gardener's primary ground-breaking tool**, not a
+The key insight: a **spade is the gardener"s primary ground-breaking tool**, not a
 shovel. Reserve shovels for moving already-loosened material.
 
 ## Handle Length Considerations
@@ -111,7 +111,7 @@ material cleanly without clogging.
    Lift the file on the return stroke to avoid dulling its teeth.
 
 4. **Maintain a consistent angle throughout every stroke.** Varying the angle produces
-   a rounded "rolled edge" that won't cut cleanly. Keep wrists steady and let the
+   a rounded "rolled edge" that won"t cut cleanly. Keep wrists steady and let the
    file do the work.
 
 5. **Create a clean chisel-like bevel** on one face of the blade. You should feel a

@@ -21,7 +21,7 @@ sources:
 
 # Bionutrients Guide
 
-Bionutrients are fermented plant and animal extracts used in Philippine/Asian natural farming as foliar sprays, soil drenches, and animal feed supplements. Developed by Gil Carandang (Herbana Farms, Laguna) based on Dr. Han Kyu Cho's KNF principles, they differ from standard KNF preparations in their use of locally available tropical materials, simpler fermentation methods, and focus on self-reliant farmer-made inputs. See [[knf-preparations]] for Cho's original Korean formulations.
+Bionutrients are fermented plant and animal extracts used in Philippine/Asian natural farming as foliar sprays, soil drenches, and animal feed supplements. Developed by Gil Carandang (Herbana Farms, Laguna) based on Dr. Han Kyu Cho"s KNF principles, they differ from standard KNF preparations in their use of locally available tropical materials, simpler fermentation methods, and focus on self-reliant farmer-made inputs. See [[knf-preparations]] for Cho's original Korean formulations.
 
 ## Core Principle: Fermentation Over Extraction
 
@@ -66,7 +66,7 @@ Fish scraps fermented as a high-nitrogen source. The higher the protein of sourc
 
 ## Calcium Phosphate (CA)
 
-Critical for the "changeover period" (vegetative to reproductive transition). Based on Yasushi Inoue's Nutrioperiodism theory (1930s): plants need specific nutrients at specific developmental stages. Calcium phosphate is the key input for the transition — the plant's "morning sickness" phase.
+Critical for the "changeover period" (vegetative to reproductive transition). Based on Yasushi Inoue"s Nutrioperiodism theory (1930s): plants need specific nutrients at specific developmental stages. Calcium phosphate is the key input for the transition — the plant's "morning sickness" phase.
 
 **Method**:
 1. Roast eggshells until good ashes form
@@ -74,7 +74,7 @@ Critical for the "changeover period" (vegetative to reproductive transition). Ba
 3. Let sit 2 weeks until eggshells break down from acetic acid
 4. Dilute 1:20, spray/water during changeover period
 
-**Note**: Soybean stem ash is also excellent for calcium phosphate. See [[water-soluble-calcium-wca]] and [[water-soluble-calcium-phosphate-wcp]] for KNF's brown rice vinegar-based methods.
+**Note**: Soybean stem ash is also excellent for calcium phosphate. See [[water-soluble-calcium-wca]] and [[water-soluble-calcium-phosphate-wcp]] for KNF"s brown rice vinegar-based methods.
 
 ## Oriental Herbal Nutrient (OHN) — Natural Antibiotic
 

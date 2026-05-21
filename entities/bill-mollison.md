@@ -41,7 +41,7 @@ Bruce Charles "Bill" Mollison (1928–2016) was an Australian researcher, author
 ## Major Works
 
 - **"Permaculture One"** (1978, with David Holmgren) — The first permaculture book, outlining the core concept.
-- **"Permaculture: A Designer's Manual"** (1988) — The definitive reference text for permaculture design. Covers climate zones, water management, soils, aquaculture, and design methodology. Considered the "bible" of permaculture.
+- **"Permaculture: A Designer"s Manual"** (1988) — The definitive reference text for permaculture design. Covers climate zones, water management, soils, aquaculture, and design methodology. Considered the "bible" of permaculture.
 - **"Introduction to Permaculture"** (1991, with Reny Mia Slay) — Accessible overview and practical guide.
 
 ## Recognition

@@ -26,11 +26,11 @@ As man works to correct his unbalanced diet through science, "he studies and ana
 
 ## The Illusion of Tastiness
 
-"Tastiness exists in the minds of people who believe something to taste good. The absence of delicacies does not prevent the feeling of 'deliciousness' from arising. People who do not consume delicacies may not experience ecstasy at the dinner table as often, but this does not mean they are unhappy. Quite the contrary."
+"Tastiness exists in the minds of people who believe something to taste good. The absence of delicacies does not prevent the feeling of "deliciousness' from arising. People who do not consume delicacies may not experience ecstasy at the dinner table as often, but this does not mean they are unhappy. Quite the contrary."
 
 ## The Food Industry and Instant Food
 
-Fukuoka traces the food industry's trajectory from fresh food to processed products: "canned foods, bottled foods, frozen and dried foods, instant dinners packed in polyester bags" -- all with additives "for tickling the palate."
+Fukuoka traces the food industry"s trajectory from fresh food to processed products: "canned foods, bottled foods, frozen and dried foods, instant dinners packed in polyester bags" -- all with additives "for tickling the palate."
 
 "Food today is thought of less as something that supports life than as something to please the human palate and titillate the senses." The dream of a "complete food tablet" is "utter nonsense."
 
@@ -38,7 +38,7 @@ Fukuoka traces the food industry's trajectory from fresh food to processed produ
 
 A true complete food "must, in addition to containing every one of the components in the roots, leaves, and fruits of vegetation growing on the earth, in the flesh of all birds and beasts, fish and shellfish, and in all grains, must also have added to it some as yet unknown ingredients." It would require "incredibly huge expenditures of capital" and produce something "horrendously expensive, and far from being as compact as a pill, would probably be extremely bulky."
 
-The person forced to eat such food would complain: "How much easier, cheaper, and tastier it used to be to eat raw food grown in the garden under the sun. I'd rather die than have to go on packing my guts with such strange, foul-smelling food as this."
+The person forced to eat such food would complain: "How much easier, cheaper, and tastier it used to be to eat raw food grown in the garden under the sun. I"d rather die than have to go on packing my guts with such strange, foul-smelling food as this."
 
 ## Connection to Natural Farming
 

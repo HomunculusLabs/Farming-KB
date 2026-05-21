@@ -31,7 +31,7 @@ Research had revealed that the weevil blight was not a direct infestation but fo
 
 Fukuoka traced the chain of causation as far as science could take it:
 
-- Nematodes feed on a fungus within the tree's trunk
+- Nematodes feed on a fungus within the tree"s trunk
 - Why did this fungus begin to multiply so prolifically?
 - Did the fungus multiply after the nematode appeared, or did the nematode appear because the fungus was present?
 - Furthermore, there is another microbe about which very little is known, which always accompanies the fungus
@@ -43,7 +43,7 @@ This infinite regress of causes and effects leads nowhere. Each answer raises ne
 
 ## The Danger of Unknowing Intervention
 
-Fukuoka's warning was stark: "People cannot know what the true cause of the [[natural-farming-philosophy]]
+Fukuoka"s warning was stark: "People cannot know what the true cause of the [[natural-farming-philosophy]]
 
 The pine weevil case is not an isolated example but a manifestation of a fundamental principle:
 

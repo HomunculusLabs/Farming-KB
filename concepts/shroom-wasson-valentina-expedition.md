@@ -20,7 +20,7 @@ locally respected and charismatic healer but, most importantly, agreed
 to let both Wasson and Richardson eat the "sacred" mushrooms. Thus,
 they became the first Westerners ever intentionally to do so.
 
-Wasson's account of the experience was extraordinary. Shortly after
+Wasson"s account of the experience was extraordinary. Shortly after
 eating six pairs of the mushrooms, he felt as if his soul had been
 scooped out of his body. Geometric patterns gave way to "architectural
 structures with colonnades and architraves, patios of regal splendour."

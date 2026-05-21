@@ -10,7 +10,7 @@ Plant stacking (vertical diversity) and the synergistic interactions between pla
 
 ## The Stacking of Plants
 
-Mollison quotes Williams' evocative description of Mediterranean multi-tier agriculture:
+Mollison quotes Williams" evocative description of Mediterranean multi-tier agriculture:
 
 > "The long serpentine trunks of the palm tree rise above every village and about every field... It is the first line of defence against the sun in the open fields, and in its shade grows the olive tree. Under the olive, the fig grows, and under the fig, the pomegranate and vine, then the grain and vegetables."
 
@@ -50,9 +50,9 @@ Neil Douglas gardens on a droughted Victorian foothill where trees are placed to
 
 ### Plant Defense Guilds
 
-Drawing from Atsatt and O'Dowd's "plant defense guilds" research (Science, 1976), Mollison identifies three categories:
+Drawing from Atsatt and O"Dowd's "plant defense guilds" research (Science, 1976), Mollison identifies three categories:
 
-**1. Plants that breed predators for other plants' pests**
+**1. Plants that breed predators for other plants" pests**
 - Phacelia in orchards reduces Prospatella pest incidence
 - Sorghum or lucerne interplanted with cotton
 - Umbelliferae (dill, fennel) with brassicas (cabbage, cauliflower)
@@ -75,7 +75,7 @@ Drawing from Atsatt and O'Dowd's "plant defense guilds" research (Science, 1976)
 
 ### Dispersal vs. Monoculture
 
-"Plants scattered amongst others appear scattered to pests, but (once pests breed on them) the 'scattered' plants, surrounded as they are by other and insectary species, appear to the predator as concentrated food sources." Dispersal of plants among varied species "leads to far less pest infestation in all cases studied."
+"Plants scattered amongst others appear scattered to pests, but (once pests breed on them) the "scattered' plants, surrounded as they are by other and insectary species, appear to the predator as concentrated food sources." Dispersal of plants among varied species "leads to far less pest infestation in all cases studied."
 
 ### Root and Gaseous Interactions
 
@@ -98,7 +98,7 @@ Drawing from Atsatt and O'Dowd's "plant defense guilds" research (Science, 1976)
 Animals provide ten categories of useful function:
 
 1. **Producers**: Meat, fibres, eggs, down from materials of little direct use to man
-2. **Manure providers**: High quality manures from man's wastes
+2. **Manure providers**: High quality manures from man"s wastes
 3. **Pollinators and foragers**: Collecting dispersed materials across the permaculture
 4. **Heat sources**: Body heat for greenhouses and barns
 5. **Gas producers**: CO₂ and methane for enclosed systems

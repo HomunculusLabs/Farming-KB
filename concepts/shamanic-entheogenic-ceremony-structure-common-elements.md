@@ -23,7 +23,7 @@ unnecessary.
 
 ### 2. Essential Role of Singing
 
-"Singing, or the shaman's singing, is invariably considered
+"Singing, or the shaman"s singing, is invariably considered
 essential to the success of the healing or divinatory process."
 The singing typical in entheogenic rituals "usually has a fairly
 rapid beat, similar to the rhythmic pulse in shamanic drumming
@@ -32,7 +32,7 @@ chanting, like the drum pulse, seems to give support for moving
 through the flow of visions, and minimizes the likelihood of
 getting stuck in frightening or seductive experiences."
 
-The shaman's songs serve multiple functions simultaneously:
+The shaman"s songs serve multiple functions simultaneously:
 they establish and maintain the ceremonial space; they guide the
 trajectory of the experience; they provide a rhythmic anchor that
 prevents the participant from becoming lost in difficult content;

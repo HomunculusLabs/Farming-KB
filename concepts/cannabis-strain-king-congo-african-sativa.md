@@ -11,7 +11,7 @@ created: 2026-05-09
 
 ## Overview
 
-King Congo is a pure F1 sativa strain bred by Spain's Tropical Seeds Company, combining Ciskei P3 and Congo Point Noire genetics. The strain represents the kind of challenging pure sativa work that Tropical Seeds specializes in — taking landrace African genetics and making them accessible to a wider range of growers. King Congo is notable for being one of the rare pure [[comparison-cavendish-vs-east-african-highland-bananas]] sativa from the Pointe-Noire region of the Republic of the Congo. This landrace contributes the strain's tall growth structure, energetic effects, and African sativa character.
+King Congo is a pure F1 sativa strain bred by Spain"s Tropical Seeds Company, combining Ciskei P3 and Congo Point Noire genetics. The strain represents the kind of challenging pure sativa work that Tropical Seeds specializes in — taking landrace African genetics and making them accessible to a wider range of growers. King Congo is notable for being one of the rare pure [[comparison-cavendish-vs-east-african-highland-bananas]] sativa from the Pointe-Noire region of the Republic of the Congo. This landrace contributes the strain's tall growth structure, energetic effects, and African sativa character.
 - **Ciskei P4 F1** — A [[biodiversity-fungal-genetic-diversity]].
 
 ### F1 Hybrid Status

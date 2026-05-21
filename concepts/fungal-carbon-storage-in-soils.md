@@ -85,7 +85,7 @@ Under elevated CO₂, tallgrass prairie showed increased soil C and N stocks, wi
 The assumption that [[plantation-forestry-carbon-dynamics]] creates carbon sinks may be incorrect for exotic tree species:
 
 - Radiata pine plantations in Ecuador showed greater carbon loss from soil than photosynthetic gain, with 30% loss of former paramo grassland soil carbon during the first 20 years of rotation.
-- Only three dominant ectomycorrhizal species (*Suillus luteus*, *[[thelephora-terrestris]]*, *Rhizopogon vulgaris*) were found, compared to ~100 species in the tree's natural range.
+- Only three dominant ectomycorrhizal species (*Suillus luteus*, *[[thelephora-terrestris]]*, *Rhizopogon vulgaris*) were found, compared to ~100 species in the tree"s natural range.
 - Prolific fruiting (1,200 kg dry weight ha⁻¹ yr⁻¹) contributed to respiratory carbon loss as these fungi metabolized organic forms of nutrients and non-host carbon.
 
 ## Land-Use Change and Soil Carbon

@@ -1,6 +1,6 @@
 ---
 title: "The bloomfield taxonomic authority debate lloyd underwood atkinson Debate: Curtis Gates Lloyd, George Atkinson, and Lucien Underwood"
-source: "Mr. Bloomfield's Orchard - Nicholas P. Money (2002)"
+source: "Mr. Bloomfield"s Orchard - Nicholas P. Money (2002)"
 source_id: "bloomfield-taxonomic-authority-debate-lloyd-underwood-atkinson"
 topics: ["mycology", "history-of-science", "taxonomy", "lloyd-library", "nomenclature"]
 created: 2026-05-09
@@ -8,7 +8,7 @@ created: 2026-05-09
 
 ## The Broader Context of Taxonomic Fraud in Mycology
 
-Atkinson's case was not isolated. Lloyd used McGinty as a vehicle to expose what he saw as a systemic problem: mycologists erecting new species and genera from inadequate material, often based on single degraded specimens. The Dictybole affair exemplified the pattern — a new genus created from a decomposing individual of an already-known species, preserved in alcohol, whose distorted appearance was taken for a unique morphology.
+Atkinson"s case was not isolated. Lloyd used McGinty as a vehicle to expose what he saw as a systemic problem: mycologists erecting new species and genera from inadequate material, often based on single degraded specimens. The Dictybole affair exemplified the pattern — a new genus created from a decomposing individual of an already-known species, preserved in alcohol, whose distorted appearance was taken for a unique morphology.
 
 The stakes were high. Each new species or genus name added to the literature created a taxonomic burden that subsequent mycologists would have to sort through. Duplicate names, synonyms, and misidentified type specimens cluttered the already-daunting task of cataloging [[amanita-muscaria]]* (L.) Lam. tells the reader that Linnaeus first described this species under a different name, and Lamarck later transferred it to the genus *Amanita*. This chain of attribution allows any mycologist to trace the original description, examine the type specimen (if it exists), and determine whether a putatively new species has already been named.
 
@@ -44,7 +44,7 @@ The epitaph was simultaneously an attack on narcissism and a railing against the
 
 ### The Dictybole Affair
 
-The most infamous episode in Lloyd's campaign involved **George Atkinson**, a Cornell mycologist. The disagreement stemmed from Atkinson's published description of a rare phallic mushroom collected in Texas. Atkinson's drawing showed a stout, hairy-tipped shaft decorated with a loose net drooping from its head. He erected a new genus, **Dictybole**, to encompass his specimen.
+The most infamous episode in Lloyd"s campaign involved **George Atkinson**, a Cornell mycologist. The disagreement stemmed from Atkinson's published description of a rare phallic mushroom collected in Texas. Atkinson's drawing showed a stout, hairy-tipped shaft decorated with a loose net drooping from its head. He erected a new genus, **Dictybole**, to encompass his specimen.
 
 According to Lloyd, the drawing was based on a **single decomposing specimen** of a well-known mushroom, *Simblum periphragmoides* (now *Lysurus periphragmoides*), that had been pickled in alcohol. This species, originally described by the Reverend Miles Berkeley seventy years earlier, is a phallic mushroom topped with a cage. When it begins to disintegrate, the cage collapses and can hang from the tip: **Dictybole is Simblum in death**. An eagerness for publications had led Atkinson perilously close to scientific fraud.
 

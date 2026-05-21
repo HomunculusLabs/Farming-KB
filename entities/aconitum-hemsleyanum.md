@@ -16,7 +16,7 @@ sources:
 
 ## Overview
 
-*Aconitum hemsleyanum* E. Pritz. ex Diels, commonly known as Hemsley's monkshood or climbing aconite, is a twining perennial herb in the family Ranunculaceae. It is native to montane forests of central and western China.
+*Aconitum hemsleyanum* E. Pritz. ex Diels, commonly known as Hemsley"s monkshood or climbing aconite, is a twining perennial herb in the family Ranunculaceae. It is native to montane forests of central and western China.
 
 The species is distinguished from most other monkshoods by its climbing habit, with slender stems that twine through shrubs and over low vegetation. It can reach 1–3 meters in height with support.
 

@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-The Jivaro Indians are a group of indigenous peoples inhabiting the montaña (tropical forest) region of the upper Amazon basin in southeastern Ecuador. Among the most prominent subgroups are the Shuar, Achuar, Huambisa, and Aguaruna. They are best known to the outside world for their former practice of head-shrinking (tsantsa), but their rich shamanic tradition — centered on the visionary brew called *natemd* — is arguably the most important and pervasive institution in their culture. Michael J. Harner's landmark chapter "The Sound of Rushing Water" (published in *[[hallucinogens-and-shamanism]]*, 1973) remains the primary [[mazatec-mushroom-ceremony-roman-estrada-ethnographic-account]] of this tradition.
+The Jivaro Indians are a group of indigenous peoples inhabiting the montaña (tropical forest) region of the upper Amazon basin in southeastern Ecuador. Among the most prominent subgroups are the Shuar, Achuar, Huambisa, and Aguaruna. They are best known to the outside world for their former practice of head-shrinking (tsantsa), but their rich shamanic tradition — centered on the visionary brew called *natemd* — is arguably the most important and pervasive institution in their culture. Michael J. Harner"s landmark chapter "The Sound of Rushing Water" (published in *[[hallucinogens-and-shamanism]]*, 1973) remains the primary [[mazatec-mushroom-ceremony-roman-estrada-ethnographic-account]] of this tradition.
 
 ## The Jivaro Worldview: Waking Life as Illusion
 
@@ -16,7 +16,7 @@ Central to Jivaro cosmology is the belief that ordinary waking life is essential
 
 This is not a philosophical abstraction for the Jivaro but a deeply practical conviction. Because they attribute most illness and non-violent death to witchcraft — specifically to the hostile actions of shamans using invisible spirit darts — understanding and accessing the supernatural world is a matter of survival. The only way to see through the illusion and perceive the true reality is through the use of *natemd*, the sacred hallucinogenic drink.
 
-Under the influence of *natemd*, the curtain is lifted. The shaman sees the supernatural landscape as it truly is: populated by spirit beings, animated by the movements of *tsentsak*, and governed by forces that are ordinarily invisible. What appears in everyday life as a mysterious illness is revealed in the visionary state as a clearly visible spirit dart lodged in the patient's body. What seems like bad luck is understood as the deliberate action of an enemy shaman. This epistemological framework gives *natemd* its central importance — it is not a recreational or purely ritual substance but an essential diagnostic and operational technology for perceiving and interacting with the true reality.
+Under the influence of *natemd*, the curtain is lifted. The shaman sees the supernatural landscape as it truly is: populated by spirit beings, animated by the movements of *tsentsak*, and governed by forces that are ordinarily invisible. What appears in everyday life as a mysterious illness is revealed in the visionary state as a clearly visible spirit dart lodged in the patient"s body. What seems like bad luck is understood as the deliberate action of an enemy shaman. This epistemological framework gives *natemd* its central importance — it is not a recreational or purely ritual substance but an essential diagnostic and operational technology for perceiving and interacting with the true reality.
 
 ## Natemd: The Sacred Brew
 
@@ -70,7 +70,7 @@ In their hostile function, *tsentsak* are the instruments of witchcraft. A bewit
 
 ### Tsentsak as Shields
 
-Conversely, a shaman's own collection of *tsentsak* forms a protective supernatural shield around his body. These spirit helpers patrol the shaman's perimeter, intercepting and neutralizing hostile *tsentsak* sent by rival shamans. A shaman's defensive power is directly proportional to the number and potency of the *tsentsak* in his possession. Thus, shamans are constantly seeking to acquire more spirit darts while guarding against the loss of their existing ones. The loss of one's *tsentsak* — whether through supernatural combat, theft, or accidental misplacement — represents a catastrophic diminishment of power, leaving the shaman vulnerable to both witchcraft and ordinary illness.
+Conversely, a shaman"s own collection of *tsentsak* forms a protective supernatural shield around his body. These spirit helpers patrol the shaman's perimeter, intercepting and neutralizing hostile *tsentsak* sent by rival shamans. A shaman's defensive power is directly proportional to the number and potency of the *tsentsak* in his possession. Thus, shamans are constantly seeking to acquire more spirit darts while guarding against the loss of their existing ones. The loss of one's *tsentsak* — whether through supernatural combat, theft, or accidental misplacement — represents a catastrophic diminishment of power, leaving the shaman vulnerable to both witchcraft and ordinary illness.
 
 ## The Transfer of Tsentsak: Master to Apprentice
 

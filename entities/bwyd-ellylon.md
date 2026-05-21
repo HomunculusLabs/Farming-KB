@@ -18,7 +18,7 @@ The Bwyd Ellylon legend is significant in mycological history because it provide
 Several factors support the identification with *P. semilanceata*:
 
 1. **Geographic distribution**: *P. semilanceata* grows abundantly across Wales during autumn
-2. **Psychoactive effects**: The legend's description of fairy celebrations and spirit world contact parallels the hallucinogenic effects of psilocybin
+2. **Psychoactive effects**: The legend"s description of fairy celebrations and spirit world contact parallels the hallucinogenic effects of psilocybin
 3. **Cultural context**: The fairy mythology may encode genuine historical knowledge of [[global-ethnography-psychoactive-mushroom-use]] in a pre-Christian cultural framework
 
 ## Classification

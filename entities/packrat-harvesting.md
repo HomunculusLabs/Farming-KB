@@ -39,7 +39,7 @@ Packrat harvesting is an innovative, biologically-based crop collection techniqu
 
 ## Parallel Technique: Squirrel Harvesting
 
-Mollison draws a direct parallel with [[bill-mackently]]'s grey squirrel harvesting method for hickory nuts and acorns:
+Mollison draws a direct parallel with [[bill-mackently]]"s grey squirrel harvesting method for hickory nuts and acorns:
 
 - Grey squirrels collect and store nuts in buried pipes provided by the harvester
 - Mackently takes approximately 85% of the harvest, leaving 15% for the squirrels

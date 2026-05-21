@@ -40,7 +40,7 @@ Also called spring-lock channels or poly-lock channels. Metal tracks mounted on 
 A blend of sturdier greens intended for cooking rather than raw salad. Typically includes chard, kale, Asian greens, and other greens that benefit from brief cooking. Braising mix complements salad mix in a diversified winter harvest operation.
 
 ### Salad Mix / Mesclun (pp. 50, 75–78, 84–85, 86, 88, 161)
-The primary winter harvest product — a blend of tender leafy greens cut at baby stage and sold fresh. Coleman's salad mix may include lettuce, arugula, mizuna, tatsoi, claytonia, mâche, endive, frisée, beet greens, mustard greens, and more. [[cut-and-come-again]] harvesting allows multiple harvests from a single planting.
+The primary winter harvest product — a blend of tender leafy greens cut at baby stage and sold fresh. Coleman"s salad mix may include lettuce, arugula, mizuna, tatsoi, claytonia, mâche, endive, frisée, beet greens, mustard greens, and more. [[cut-and-come-again]] harvesting allows multiple harvests from a single planting.
 
 ### Cut-and-Come-Again Crops (pp. 3, 50, 85)
 Crops harvested by cutting above the growing point so the plant regrows for subsequent harvests. This method is central to winter production economics — a single sowing can yield 3–5 harvests over several months.

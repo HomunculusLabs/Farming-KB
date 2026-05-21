@@ -16,7 +16,7 @@ Aldous Leonard Huxley was an English writer, philosopher, and prominent intellec
 
 Born on July 26, 1894, into the prominent Huxley family—his grandfather was Thomas Henry Huxley, the famed biologist and advocate for Darwinism—Aldous was immersed in scientific and intellectual discourse from an early age. He studied at Eton College and Balliol College, Oxford, where he was deeply influenced by the literary and philosophical currents of his time.
 
-Huxley's early works established him as a sharp social satirist. Novels such as *Crome Yellow* (1921), *Antic Hay* (1923), and *Those Barren Leaves* (1925) critiqued the intellectual and moral complacency of England's post-Victorian upper classes. *Point Counter Point* (1928) showcased his ability to weave complex ideas about science, art, and philosophy into fiction.
+Huxley"s early works established him as a sharp social satirist. Novels such as *Crome Yellow* (1921), *Antic Hay* (1923), and *Those Barren Leaves* (1925) critiqued the intellectual and moral complacency of England's post-Victorian upper classes. *Point Counter Point* (1928) showcased his ability to weave complex ideas about science, art, and philosophy into fiction.
 
 *Brave New World* (1932) remains his most celebrated work, depicting a future society where human beings are biologically engineered, socially conditioned, and kept docile through the drug soma. The novel's prescient treatment of reproductive technology, psychological manipulation, and pharmaceutical control has ensured its continuing relevance.
 
@@ -26,7 +26,7 @@ In 1953, at the age of 58, Huxley participated in a mescaline session supervised
 
 In this work, Huxley argued that the human brain normally acts as a reducing valve, filtering the vast majority of perceptual input to ensure practical survival. Mescaline, he proposed, temporarily inhibited this filtering mechanism, allowing consciousness to access "Mind at Large"—a state of unfiltered awareness in which the world revealed its inherent luminosity and significance. Ordinary objects appeared extraordinary; colors were experienced with unprecedented intensity; and the boundaries between self and world seemed to dissolve.
 
-The essay's title was drawn from William Blake's *The Marriage of Heaven and Hell*: "If the doors of perception were cleansed everything would appear to man as it is, infinite." This Blakean reference encapsulated Huxley's conviction that psychedelic experience was not a distortion of reality but a revelation of its true nature.
+The essay"s title was drawn from William Blake's *The Marriage of Heaven and Hell*: "If the doors of perception were cleansed everything would appear to man as it is, infinite." This Blakean reference encapsulated Huxley's conviction that psychedelic experience was not a distortion of reality but a revelation of its true nature.
 
 ## *Heaven and Hell* and the Philosophy of Transcendence
 

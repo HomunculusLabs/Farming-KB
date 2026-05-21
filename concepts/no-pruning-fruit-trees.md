@@ -13,7 +13,7 @@ sources: [raw/papers/masanobu-fukuoka-the-road-back-to-nature.md, raw/papers/mas
 
 ## The Core Argument
 
-Fukuoka argued that a fruit tree grows best in its natural habit: "The branches do not tangle, sunlight falls on every leaf, and the tree bears fully each year, not only in alternate years." Pruning is an intervention that disrupts the tree's natural form and creates dependency on continued human management.
+Fukuoka argued that a fruit tree grows best in its natural habit: "The branches do not tangle, sunlight falls on every leaf, and the tree bears fully each year, not only in alternate years." Pruning is an intervention that disrupts the tree"s natural form and creates dependency on continued human management.
 
 In "The Natural Way of Farming," Fukuoka devoted an entire chapter to "The Argument Against Pruning," addressing:
 - No basic method: There is no fundamental theory behind pruning -- different approaches contradict each other
@@ -32,13 +32,13 @@ During his travels in Europe described in "The Road Back to Nature," Fukuoka obs
 
 **Grape vines**: Grown on wire trellises as in Japan, but "the vines are not heavily pruned and sometimes they are even trained on one or two stems without using trellises at all."
 
-## Thomas's Farm (Holland)
+## Thomas"s Farm (Holland)
 
 Fukuoka visited a follower named Thomas who operated a 75-acre natural farm called "Yakuso." One third consisted of enormous apple and pear trees that "had not been improperly pruned" -- Fukuoka showed Thomas how they could be "restored to a natural form within two to three years." The wheat and barley were successfully grown in a cover of clover.
 
 ## Restoring Trees to Natural Form
 
-For trees that have already been subjected to pruning, Fukuoka's approach was gradual correction over 2-3 years, guiding the tree back toward its natural shape. Trees that had "not fallen prey to bad pruning" were easiest to restore. The process involves selectively allowing certain branches to develop while letting the tree's natural growth habit reassert itself.
+For trees that have already been subjected to pruning, Fukuoka"s approach was gradual correction over 2-3 years, guiding the tree back toward its natural shape. Trees that had "not fallen prey to bad pruning" were easiest to restore. The process involves selectively allowing certain branches to develop while letting the tree's natural growth habit reassert itself.
 
 ## Related
 

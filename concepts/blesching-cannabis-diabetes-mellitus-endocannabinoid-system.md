@@ -10,7 +10,7 @@ tags: [cannabis, diabetes, endocannabinoid, CBD, THC, insulin, neuropathy, metab
 ## Endocannabinoid System Connections to Metabolic Disease
 
 Diabetes mellitus derives its name from the Greek word for "honey," reflecting
-ancient physicians' observation that diabetic patients produced sweet-tasting
+ancient physicians" observation that diabetic patients produced sweet-tasting
 urine. The word "diabetes" translates as "fountain," describing the frequent
 urination characteristic of the disease. Today, diabetes represents one of the
 most significant public health challenges of the twenty-first century, with the

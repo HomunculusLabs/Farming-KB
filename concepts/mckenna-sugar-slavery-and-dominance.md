@@ -20,7 +20,7 @@ The scale of this economic transformation is difficult to overstate. By the 18th
 
 ## Sugar as Drug
 
-McKenna's classification of sugar as a "drug" is central to his argument. From a pharmacological perspective, sugar triggers dopamine release in the brain's reward circuits, producing a brief euphoria followed by a crash that demands more. This cycle of craving and consumption is, McKenna argued, functionally identical to the cycles seen with addictive drugs like [[eleusinian-mysteries-history-and-structure]], Western civilization would have developed very differently — and probably much worse.
+McKenna"s classification of sugar as a "drug" is central to his argument. From a pharmacological perspective, sugar triggers dopamine release in the brain's reward circuits, producing a brief euphoria followed by a crash that demands more. This cycle of craving and consumption is, McKenna argued, functionally identical to the cycles seen with addictive drugs like [[eleusinian-mysteries-history-and-structure]], Western civilization would have developed very differently — and probably much worse.
 
 This asymmetry has been confirmed by modern research. A large-scale epidemiological study published in the Journal of Psychopharmacology (2015) found no significant association between lifetime psychedelic use and violent behavior, while alcohol consumption is consistently linked to aggression, domestic violence, and homicide worldwide. McKenna used this contrast to argue that the legal distinction between alcohol and psychedelics reflects not evidence-based public health policy but the dominator culture's systematic preference for consciousness-contracting over consciousness-expanding substances.
 

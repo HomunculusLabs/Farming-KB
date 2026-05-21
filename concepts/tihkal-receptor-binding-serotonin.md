@@ -16,11 +16,11 @@ Serotonin (5-hydroxytryptamine, 5-HT) is described in TIHKAL as "THE neurotransm
 Serotonin is the immediate precursor to melatonin in the brain and is an essential factor in [[mckenna-tryptamine-endogenous-dmt-pineal-gland-theory]]
 - "Quite effective in binding to serotonin sites in human platelets"
 - Suggested role: balanced interplay with melatonin in manipulating serotonin levels may explain the **sleep/dream state**
-- "The carbolines just might play an endogenous role in creating dreams, our 'asleep' visual tripping"
+- "The carbolines just might play an endogenous role in creating dreams, our "asleep' visual tripping"
 
 ### Harman and Derivatives
 - Beta-carboline derivatives found in plants, animals, and human tissues
-- Some bind to benzodiazepine receptors but are "totally without any affinity for [[turner-harmala-alkaloids-preparation-and-dosage]]) are potent [[cannabinoid-receptors-cb1-cb2]], the text repeatedly discusses compounds' serotonin agonist/antagonist properties. The key insight from TIHKAL is that **serotonin receptor binding does not simply correlate with psychedelic potency** -- the relationship is far more complex, involving receptor subtype specificity, efficacy (agonist vs. partial agonist vs. antagonist), functional selectivity, and downstream [[mckenna-suppression-psychedelic-research-lsd-therapy]].
+- Some bind to benzodiazepine receptors but are "totally without any affinity for [[turner-harmala-alkaloids-preparation-and-dosage]]) are potent [[cannabinoid-receptors-cb1-cb2]], the text repeatedly discusses compounds" serotonin agonist/antagonist properties. The key insight from TIHKAL is that **serotonin receptor binding does not simply correlate with psychedelic potency** -- the relationship is far more complex, involving receptor subtype specificity, efficacy (agonist vs. partial agonist vs. antagonist), functional selectivity, and downstream [[mckenna-suppression-psychedelic-research-lsd-therapy]].
 
 ## Shulgin's Hope
 

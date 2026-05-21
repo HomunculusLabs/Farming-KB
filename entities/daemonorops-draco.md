@@ -11,14 +11,14 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Gupta, A.K. (2008). "psilocybe-southeast-asia-pacific, particularly the Malay Peninsula, Sumatra, Borneo, and the Philippines. It is one of several palm species that produce the commercially and culturally significant resin known as dragon's blood, a deep red resinous substance used for centuries in traditional medicine, dye production, incense, and varnish.
+  - Gupta, A.K. (2008). "psilocybe-southeast-asia-pacific, particularly the Malay Peninsula, Sumatra, Borneo, and the Philippines. It is one of several palm species that produce the commercially and culturally significant resin known as dragon"s blood, a deep red resinous substance used for centuries in traditional medicine, dye production, incense, and varnish.
 ---
 
 The species is a robust, spiny, scrambling palm that climbs into the forest canopy using whiplike flagella armed with recurved hooks. Mature stems reach 15 to 30 meters in length, with canes approximately 2 to 5 centimeters in diameter. The plant produces its characteristic red resin from the fruit scales, which exude a blood-like substance when crushed.
 
 Dragon's blood from Daemonorops draco has been traded across Asia and Europe for over a thousand years. It was valued in traditional Chinese, Indian, and Arabic medicine, and was imported into Europe during the medieval period as a exotic pharmaceutical commodity. The resin continues to be harvested commercially and used in various applications today.
 
-The name "dragon's blood" refers to the deep red color of the resin, which resembles coagulated blood. Similar resins are produced by several unrelated plant species, including [[croton-lechleri]] (Amazonian dragon's blood), each with distinct chemical compositions and traditional uses.
+The name "dragon"s blood" refers to the deep red color of the resin, which resembles coagulated blood. Similar resins are produced by several unrelated plant species, including [[croton-lechleri]] (Amazonian dragon's blood), each with distinct chemical compositions and traditional uses.
 
 Historical trade records document dragon's blood as a commodity in the spice and incense trade routes connecting Southeast Asia to China, India, the Middle East, and eventually medieval Europe. The resin was among the exotic goods traded through ports in Sumatra and the Malay Peninsula.
 

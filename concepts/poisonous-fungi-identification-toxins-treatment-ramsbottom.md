@@ -6,7 +6,7 @@ type: concept
 
 ## Poisonous Fungi — Identification, Toxins, and Treatment
 
-[[john-ramsbottom]]'s 1945 monograph *Poisonous Fungi* (King Penguin Books) remains one of the most thorough accounts of [[identifying-poisonous-mushrooms]] in the British Isles. Ramsbottom, Keeper of Botany at the British Museum ([[stropharia-cubensis-identification-and-natural-history]]), compiled detailed clinical data, toxicological research, and identification guidance that corrected many persistent myths about [[amanita-toxins-and-mushroom-poisoning]].
+[[john-ramsbottom]]"s 1945 monograph *Poisonous Fungi* (King Penguin Books) remains one of the most thorough accounts of [[identifying-poisonous-mushrooms]] in the British Isles. Ramsbottom, Keeper of Botany at the British Museum ([[stropharia-cubensis-identification-and-natural-history]]), compiled detailed clinical data, toxicological research, and identification guidance that corrected many persistent myths about [[amanita-toxins-and-mushroom-poisoning]].
 
 ## Classification of Poisonous Fungi
 
@@ -38,7 +38,7 @@ Ramsbottom systematically refutes every popular rule-of-thumb test:
 1. **"Poisonous fungi are brightly coloured"** — Colour has no significance. A. phalloides is olive-green or yellowish; A. verna and A. virosa are pure white
 2. **"Edible fungi peel"** — Both the Field Mushroom AND the Death Cap peel. This misconception caused deaths at Ipswich in 1944
 3. **"Silver spoon turns black"** — Silver is blackened by sulphides; no fungus affects it. Connected to ancient belief that fungi absorb poisons from nearby objects
-4. **"Animals won't eat poisonous fungi"** — Rabbits are immune to A. phalloides; slugs thrive on deadly Amanita species
+4. **"Animals won"t eat poisonous fungi"** — Rabbits are immune to A. phalloides; slugs thrive on deadly Amanita species
 5. **"Poisonous fungi grow in woods, edible in fields"** — No correlation
 6. **"Bruising or colour change indicates poison"** — Boletus species turn vivid blue; some Russulas redden — all are species-specific, not safety-related
 7. **"Foul smell indicates poison"** — None of the British poisonous species has an unpleasant smell. The deadly Amanitas are odourless
@@ -61,7 +61,7 @@ Ramsbottom systematically refutes every popular rule-of-thumb test:
 - Glucoside that attacks red blood corpuscles
 - First substance isolated from A. phalloides
 - Readily destroyed by heat and digestive juices
-- Not the primary toxic agent (symptoms don't match haemolysis)
+- Not the primary toxic agent (symptoms don"t match haemolysis)
 
 ### Muscarine
 - Present in A. muscaria in small amounts
@@ -80,7 +80,7 @@ Ramsbottom systematically refutes every popular rule-of-thumb test:
 
 - **Euripides** (480–406 BC) records fatal mushroom poisoning at Icarus
 - **Claudius** poisoned by wife Agrippina with A. caesarea laced with poison
-- **Nero** called mushrooms "the food of the gods" (referencing Claudius's deification)
+- **Nero** called mushrooms "the food of the gods" (referencing Claudius"s deification)
 - **F. Gerard** (1851, Jardin des Plantes, Paris) demonstrated that A. phalloides can be rendered innocuous by maceration in water with vinegar and salt for two hours, then boiling — he was reportedly the victim of his own experiments
 - **Fabre** described 30 years in Serignan without a single case of mushroom poisoning; local custom of blanching toadstools before cooking
 

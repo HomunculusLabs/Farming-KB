@@ -14,7 +14,7 @@ sources:
 
 ## Overview
 
-Bidens pilosa is an annual herbaceous plant in the family Asteraceae, commonly known as hairy beggar-ticks, Spanish needle, or cobbler's pegs. It is native to the Americas but has become one of the most widespread cosmopolitan weeds in tropical and subtropical regions worldwide.
+Bidens pilosa is an annual herbaceous plant in the family Asteraceae, commonly known as hairy beggar-ticks, Spanish needle, or cobbler"s pegs. It is native to the Americas but has become one of the most widespread cosmopolitan weeds in tropical and subtropical regions worldwide.
 
 The species is recognized for its distinctive barbed seeds that readily attach to animal fur and human clothing, facilitating rapid dispersal. In many traditional medicine systems, particularly across Africa, Asia, and [[blesching-cannabis-bacterial-infections]].
 

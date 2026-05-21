@@ -22,7 +22,7 @@ sources:
 
 # Sacred Sacrament and Mushroom Rites
 
-The comparative analysis of sacramental mushroom use across religious traditions, centering on the "sacred meal" — a ritual consumption of psychoactive mushrooms as the "body of God." [[james-arthur]] and others argue that virtually every world religion's central sacrament originally involved entheogenic mushrooms, later replaced by symbolic substitutes (bread, wine, wafers).
+The comparative analysis of sacramental mushroom use across religious traditions, centering on the "sacred meal" — a ritual consumption of psychoactive mushrooms as the "body of God." [[james-arthur]] and others argue that virtually every world religion"s central sacrament originally involved entheogenic mushrooms, later replaced by symbolic substitutes (bread, wine, wafers).
 
 ## The Universal Pattern
 
@@ -45,12 +45,12 @@ This Egyptian text, noted by [[john-allegro]] in "The Sacred Mushroom and the Cr
 - The goal: joining minds with the universal mind and spiritual flight to the stars/heavens
 - Similar to the Egyptian pyramid initiation (sarcophagus + sensory deprivation)
 - Mithra was born from a stone (the mushroom in button/egg stage), entwined with the serpent
-- The "Mithraic Stargate" artifact shows astrological symbols around a circular gate — the portal through which the initiate's spirit traveled
+- The "Mithraic Stargate" artifact shows astrological symbols around a circular gate — the portal through which the initiate"s spirit traveled
 
 ### Mithraic-Christian Parallels
 - Mithra = Sol Invictus (Roman) = Ra (Egyptian) = Surya (Indian) — all sun gods
 - Hundreds of similarities between Horus, Mithra, Krishna, and Jesus
-- The "alpha and omega" — the beginning and end — the mushroom's lifecycle from spore (egg/ash) to full growth to dissolution and return
+- The "alpha and omega" — the beginning and end — the mushroom"s lifecycle from spore (egg/ash) to full growth to dissolution and return
 
 ## Christianity and the Eucharist
 
@@ -105,7 +105,7 @@ Arthur proposes this may be an alchemical recipe for the true Soma — a multi-p
 - Vasouki (giant Naga serpent) wrapped around the holy mountain Mandera
 - Vishnu (as the tortoise) steadies the mountain at the base
 - The churning produces Amrita (Soma) — the elixir of immortality
-- The temple's pine-forest architecture encodes this mushroom-pine relationship in stone
+- The temple"s pine-forest architecture encodes this mushroom-pine relationship in stone
 
 ### Rudra the Red God
 - The Hindu red god of the forest — possibly the red mushroom itself
@@ -129,7 +129,7 @@ Arthur proposes this may be an alchemical recipe for the true Soma — a multi-p
 
 Arthur argues that shamanism — the indigenous practice of achieving death-and-rebirth experiences through plant entheogens — is the cornerstone of all religions:
 - Every religion contains the ascension-beyond-death mythology in the context of plant entheogens
-- The hero's journey toward immortality is fundamentally a shamanic quest
+- The hero"s journey toward immortality is fundamentally a shamanic quest
 - The core shamanic practice: the journey into death experience, deep psychological introspection through plant-induced states, in preparation for actual death
 - Religion, as practiced today, has "completely lost the natural indigenous freedom it professes to impart"
 

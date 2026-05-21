@@ -15,7 +15,7 @@ No other country comes close in terms of documented species richness for psilocy
 
 ### Total Neurotropic Species Count
 
-Mexico's documented neurotropic fungal flora includes 76 species distributed across multiple genera. This count encompasses all four groups of neurotropic fungi: psilocybin-containing species, ibotenic acid-containing Amanita species, ergot fungi, and sacred fungi used in indigenous ceremonies. The Mexican neurotropic mycoflora is by far the richest of any country on Earth.
+Mexico"s documented neurotropic fungal flora includes 76 species distributed across multiple genera. This count encompasses all four groups of neurotropic fungi: psilocybin-containing species, ibotenic acid-containing Amanita species, ergot fungi, and sacred fungi used in indigenous ceremonies. The Mexican neurotropic mycoflora is by far the richest of any country on Earth.
 
 ### Dominance of Psilocybe
 

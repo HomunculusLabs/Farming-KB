@@ -43,7 +43,7 @@ Scutellaria lateriflora is a perennial herbaceous plant in the mint family (Lami
 
 ### Thomsonian and Eclectic Medicine
 
-American skullcap was a central nervine remedy in 19th-century American botanical medicine. Samuel Thomson (1769–1843) popularized its use as a nerve tonic and antispasmodic. The Eclectic physicians, particularly John King and John Uri Lloyd, extensively documented its clinical applications in *King's American Dispensatory* (1898), where it was described as "one of the best nervine and antispasmodic vegetables."
+American skullcap was a central nervine remedy in 19th-century American botanical medicine. Samuel Thomson (1769–1843) popularized its use as a nerve tonic and antispasmodic. The Eclectic physicians, particularly John King and John Uri Lloyd, extensively documented its clinical applications in *King"s American Dispensatory* (1898), where it was described as "one of the best nervine and antispasmodic vegetables."
 
 Eclectic physicians used skullcap for:
 

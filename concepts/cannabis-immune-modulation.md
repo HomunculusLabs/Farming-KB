@@ -15,7 +15,7 @@ The [[blesching-cannabis-health-index-autoimmune-conditions]] (Blesching) presen
 
 ## The Immune System and the ECS
 
-The immune system is the body's defense network, comprising white blood cells (natural killer cells, T-cells, B-cells), lymph nodes, the spleen, and a complex signaling system of cytokines and antibodies. The ECS connects directly to this network: CB2 receptors are found primarily on immune cells throughout the body, including T-cells, B-cells, macrophages, and dendritic cells. When CB2 receptors are activated by cannabinoids, they produce anti-inflammatory and immunosuppressive effects that regulate immune cell migration, activation, and cytokine release.
+The immune system is the body"s defense network, comprising white blood cells (natural killer cells, T-cells, B-cells), lymph nodes, the spleen, and a complex signaling system of cytokines and antibodies. The ECS connects directly to this network: CB2 receptors are found primarily on immune cells throughout the body, including T-cells, B-cells, macrophages, and dendritic cells. When CB2 receptors are activated by cannabinoids, they produce anti-inflammatory and immunosuppressive effects that regulate immune cell migration, activation, and cytokine release.
 
 Researchers from Boston (2006) acknowledged that "habitual cannabis use has been shown to [positively] affect the human immune system, and recent advances in endocannabinoid research provide a basis for understanding these immunomodulatory effects. Cell-based experiments, or in vivo animal testing, suggest that regulation of the endocannabinoid circuitry can impact almost every major function associated with the immune system." This is a remarkable statement -- it suggests the ECS can influence virtually every aspect of immune function.
 
@@ -29,7 +29,7 @@ Cytokines are cell-signaling protein molecules that direct immune responses. The
 - **TNF-alpha**: A master inflammatory mediator involved in arthritis, IBD, psoriasis, and [[cbd-therapeutic-effects]] in autoimmune and [[cannabis-autoimmune-conditions]] involve TH1 dominance (overactive cellular immune response). Cannabinoids shift the TH1/TH2 balance toward TH2, reducing the cell-mediated autoimmune attack on tissues
 - **Autoreactive T-cells**: CB2 [[blesching-cannabis-rheumatoid-arthritis]]**: Regulation of endocannabinoid circuitry impacts immune function; Sativex suppressed disease activity in clinical trials
 - **[[cannabis-for-leukemia-and-lymphoma]] are cancers of the immune system itself (involving white blood cells and lymph nodes). Cannabinoids show immunomodulatory effects relevant to cancer:
-- Anandamide inhibits cancer cell movement and may prevent metastasis without negative effects on the patient's immune system
+- Anandamide inhibits cancer cell movement and may prevent metastasis without negative effects on the patient"s immune system
 - CB2 activation may support anti-tumor immune responses while modulating excessive inflammation
 - CBD-induced apoptosis in leukemia via regulation of p22phox and Nox4
 

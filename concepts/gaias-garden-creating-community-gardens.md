@@ -27,7 +27,7 @@ Polycultures are dynamic, self-organizing plant communities composed of several 
 - Fast-growing radishes cast shade that protects slow-germinating parsnips
 - Scented dill and calendula confuse pest insects searching for specific crops
 
-## Ianto Evans's Polyculture
+## Ianto Evans"s Polyculture
 
 A seven-variety temperate polyculture developed by Welsh inventor Ianto Evans that provides months of continuous food from a single sowing:
 

@@ -1,5 +1,5 @@
 ---
-title: Fukuoka's Natural Farming
+title: Fukuoka"s Natural Farming
 created: 2026-04-10
 updated: 2026-04-12
 type: concept
@@ -34,7 +34,7 @@ Masanobu Fukuoka (1913-2008) was a Japanese farmer and philosopher who developed
 
 Born in 1913 in Iyo, Ehime Prefecture, Japan. Trained as a plant pathologist and microbiologist at Gifu Prefecture Agricultural College, he worked at the Yokohama Customs Office's Plant Inspection Division inspecting imported plants for disease. At age 25, during a bout of severe illness, he experienced a spiritual awakening: "Humanity knows nothing at all." He left his scientific career and returned to his family farm on Shikoku island.
 
-He spent 30 years developing his "do-nothing" method, wiping out two separate citrus orchards (initially 2 acres of mandarin trees, then 400 more) by abandoning conventional care too abruptly. Each failure taught him what the "natural pattern" actually was. His neighbor's chemically-farmed rice paddies (farmed for 1,500+ years) were "laid waste by the exploitive farming practices of a single generation," while his own fields yielded ~22 bushels per quarter-acre matching conventional yields. Researchers from every prefecture in Japan visited but few adopted the method -- each specialist could only see through their own narrow lens.
+He spent 30 years developing his "do-nothing" method, wiping out two separate citrus orchards (initially 2 acres of mandarin trees, then 400 more) by abandoning conventional care too abruptly. Each failure taught him what the "natural pattern" actually was. His neighbor"s chemically-farmed rice paddies (farmed for 1,500+ years) were "laid waste by the exploitive farming practices of a single generation," while his own fields yielded ~22 bushels per quarter-acre matching conventional yields. Researchers from every prefecture in Japan visited but few adopted the method -- each specialist could only see through their own narrow lens.
 
 His books (*The One-Straw Revolution*, *The Natural Way of Farming*, *The Road Back to Nature*) became classics of sustainable agriculture, translated into 25+ languages. Fukuoka saw his method as arising from "the unmoving and unchanging centre of agricultural development" -- neither a step forward nor a return to the past, but a convergence toward Mu (nothingness).
 
@@ -49,7 +49,7 @@ Plowing disturbs the soil ecosystem -- earthworms, mycorrhizal fungi, and benefi
 Chemical fertilizers disrupt the natural nutrient cycling between plants, soil organisms, and organic matter. When you add soluble nitrogen, plants become dependent on external inputs and stop forming relationships with soil microbes. Fukuoka used only [[cover-cropping-guide]] with legumes (clover, vetch) and returned all plant residues to the field. Soil fertility comes from the living soil food web -- bacteria, fungi, earthworms, and decomposition of organic matter. This aligns closely with [[cannabis-living-soil-guide]] philosophy.
 
 ### 3. No Pesticides or Herbicides
-Chemical pesticides kill beneficial insects and soil life along with target pests. Fukuoka's approach was to build balanced ecosystems where pests are controlled by natural predators. He used:
+Chemical pesticides kill beneficial insects and soil life along with target pests. Fukuoka"s approach was to build balanced ecosystems where pests are controlled by natural predators. He used:
 - **Duck-rice farming**: Ducks eat insects and weeds in rice paddies while fertilizing the water
 - **Diverse plantings**: Mixed crops resist pest outbreaks better than monocultures
 - **Healthy soil**: Plants grown in living soil are more pest-resistant
@@ -64,7 +64,7 @@ Fukuoka did not fight weeds. He managed them:
 - Weeds are seen as soil indicators and soil builders, not enemies
 - When weeds appear, the question is not "how do I kill them?" but "what is the soil telling me?"
 
-## Fukuoka's Rice and Winter Grain Method
+## Fukuoka"s Rice and Winter Grain Method
 
 Fukuoka's signature system produced rice in summer and winter grains (barley, rye) on the same field year-round, yielding ~22 bushels (1,300 lbs) each of rice and barley per quarter-acre -- matching conventional yields at a fraction of the cost. He called this the "clover revolution."
 
@@ -86,7 +86,7 @@ Fukuoka's signature system produced rice in summer and winter grains (barley, ry
 
 ## The "Do-Nothing" Philosophy
 
-Fukuoka's approach is often misunderstood as laziness. It is actually the opposite -- it requires deep observation, understanding of natural processes, and patience. The principle is:
+Fukuoka"s approach is often misunderstood as laziness. It is actually the opposite -- it requires deep observation, understanding of natural processes, and patience. The principle is:
 
 > "The best farming is no farming at all. The ideal farmer is one who does not have to be present."
 
@@ -94,7 +94,7 @@ This does not mean abandoning the land. It means designing systems so that natur
 
 ### The Night Heron Revelation
 
-Fukuoka's transformation came at dawn on May 15th. Collapsing against a tree overlooking Yokohama harbor after a night of wandering, near death from pneumonia and existential crisis, he watched the morning mist vanish. A night heron appeared, gave a sharp cry, and flew away. In an instant: "In this world there is nothing at all." All concepts dissolved. He felt "true nature" revealed. He resigned from the Yokohama Customs Bureau the next day and returned to farm.
+Fukuoka"s transformation came at dawn on May 15th. Collapsing against a tree overlooking Yokohama harbor after a night of wandering, near death from pneumonia and existential crisis, he watched the morning mist vanish. A night heron appeared, gave a sharp cry, and flew away. In an instant: "In this world there is nothing at all." All concepts dissolved. He felt "true nature" revealed. He resigned from the Yokohama Customs Bureau the next day and returned to farm.
 
 ### "Humanity Does Not Know Nature"
 
@@ -106,7 +106,7 @@ He described watching a quarter-acre field become covered in millions of spider 
 
 ### Mu (Emptiness) Philosophy
 
-Fukuoka's method arises from Mu -- the recognition that human knowledge is inherently insufficient. "The path I have followed does not lie within the realm of relativity." It is neither progressive nor retrograde, but exists at an unchanging center. He warned against both exploitation and "return-to-nature" movements that are merely reactive: "If people merely become caught up in reacting, moving to the left or to the right, the result is only more activity."
+Fukuoka"s method arises from Mu -- the recognition that human knowledge is inherently insufficient. "The path I have followed does not lie within the realm of relativity." It is neither progressive nor retrograde, but exists at an unchanging center. He warned against both exploitation and "return-to-nature" movements that are merely reactive: "If people merely become caught up in reacting, moving to the left or to the right, the result is only more activity."
 
 See [[fukuoka-philosophy-in-practice]] for the deeper philosophical exploration and [[one-straw-revolution-guide]] for the complete book deep dive.
 

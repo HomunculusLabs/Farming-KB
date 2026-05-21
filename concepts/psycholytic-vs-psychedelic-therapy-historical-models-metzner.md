@@ -48,7 +48,7 @@ Germany (Hanscarl Leuner), and the United Kingdom (Ronald Sandison).
 
 The psychedelic model developed simultaneously with the psycholytic approach in
 Anglo-American contexts. The term "psychedelic" was coined in a 1956 letter
-exchange between English psychiatrist Humphrey Osmond and [[timothy-leary]], Frank Barron, and [[leary-harvard-psilocybin-project]] in 1960. Leary's work shifted toward exploring psychedelic
+exchange between English psychiatrist Humphrey Osmond and [[timothy-leary]], Frank Barron, and [[leary-harvard-psilocybin-project]] in 1960. Leary"s work shifted toward exploring psychedelic
 experiences for "normals" — graduate students, artists, musicians — in a
 supportive setting. The concept of "[[mckenna-consciousness-expansion-and-drug-war]]" emerged as a
 contrast to contracted, fixated awareness characteristic of addictions.

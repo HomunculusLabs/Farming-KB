@@ -38,8 +38,8 @@ TIHKAL entry #40. A potent, orally active psychedelic tryptamine with the N-meth
 
 ### Smoked Experiences
 
-- **12 mg, smoked**: "Powerful, tremendous rush, but all along maintaining body-ego awareness, unlike 5-MeO-DMT where the world appears to utterly dissolve. Not too much visual, but lots of disorientation. Early on there was a lot of emotional lability, laughing, crying, 'Oh God' kinds of outbursts."
-- **20 mg, smoked**: "Within less than a minute after I lay down, with my eyes closed, my visual field was filled with brilliant geometric patterned lines of different colors that were slowly moving. I became extremely disoriented from my normal sense of being a person in a body. Similar to the overwhelming feeling of 5-MeO-DMT in quality and the peak phase lasted less than 30 minutes. Then intense waves returned every 5 to 15 minutes, with imagery heavily laden with emotional content. After two hours I was joined by my wife... I remember asking her who she was and she replied, 'Your wife.' This was very powerful to me since it seemed to be the best combination of mother, lover and friend."
+- **12 mg, smoked**: "Powerful, tremendous rush, but all along maintaining body-ego awareness, unlike 5-MeO-DMT where the world appears to utterly dissolve. Not too much visual, but lots of disorientation. Early on there was a lot of emotional lability, laughing, crying, "Oh God' kinds of outbursts."
+- **20 mg, smoked**: "Within less than a minute after I lay down, with my eyes closed, my visual field was filled with brilliant geometric patterned lines of different colors that were slowly moving. I became extremely disoriented from my normal sense of being a person in a body. Similar to the overwhelming feeling of 5-MeO-DMT in quality and the peak phase lasted less than 30 minutes. Then intense waves returned every 5 to 15 minutes, with imagery heavily laden with emotional content. After two hours I was joined by my wife... I remember asking her who she was and she replied, "Your wife.' This was very powerful to me since it seemed to be the best combination of mother, lover and friend."
 
 ## Synthesis Notes
 

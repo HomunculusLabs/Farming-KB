@@ -24,7 +24,7 @@ Hallucinogenic mushrooms are known by many names across Europe:
 
 ### Smartshop Product Labels
 At the end of the 1990s, new labels appeared reflecting commercialization:
-- **'Philosopher's stone'**: Sclerotia of [[psilocybe-mexicana]]
+- **"Philosopher's stone'**: Sclerotia of [[psilocybe-mexicana]]
 - **'Herbal highs'**: General label for natural psychoactive products
 - **'Herbal xtc'**: Marketing alongside synthetic alternatives
 - **Teonanacatl**: Aztec name meaning "divine flesh" or "flesh of god"
@@ -43,7 +43,7 @@ A Google/AltaVista search for mushroom retailers found:
 2. **Dried mushrooms**: Preserved for later use
 3. **Growkits**: Home cultivation supplies
 4. **Spore prints**: For cultivation
-5. **Sclerotia** ("philosopher's stone"): Underground masses of mycelium
+5. **Sclerotia** ("philosopher"s stone"): Underground masses of mycelium
 6. **Extracts**: Concentrated preparations
 
 ### Administration Methods
@@ -105,7 +105,7 @@ Many drug laws were written to control "plants" from which narcotic substances c
 
 | Date | Country | Legal Change |
 |------|---------|-------------|
-| **Mar 2005** | Germany | Changed definition from 'plant' to 'organism' to include mushrooms |
+| **Mar 2005** | Germany | Changed definition from "plant' to 'organism' to include mushrooms |
 | **May 2005** | Estonia | Clarified cultivation of hallucinogenic mushrooms as an offence |
 | **July 2005** | UK | Added "Fungus (of any kind) which contains psilocin" as controlled substance — no longer limited to "treated or prepared" forms |
 | **Feb 2006** | Ireland | Criminalised possession or sale of psilocin-containing fungi (exempt if growing uncultivated) |

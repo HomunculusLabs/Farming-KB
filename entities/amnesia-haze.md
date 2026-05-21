@@ -24,7 +24,7 @@ THC content generally ranges from 20-25%, placing it among the more potent moder
 
 ## Lineage
 
-Amnesia Haze's genetic background reflects Southeast Asian and Jamaican landrace heritage refined through European breeding. The most widely accepted lineage traces to a cross between Southeast Asian sativa landraces and Jamaican Lambsbread.
+Amnesia Haze"s genetic background reflects Southeast Asian and Jamaican landrace heritage refined through European breeding. The most widely accepted lineage traces to a cross between Southeast Asian sativa landraces and Jamaican Lambsbread.
 
 The Southeast Asian parent contributes the strain's tall stature, long flowering time, and potent uplifting effects. Jamaican genetics add citrus aroma notes and additional sativa-dominant characteristics that enhance the cerebral profile.
 

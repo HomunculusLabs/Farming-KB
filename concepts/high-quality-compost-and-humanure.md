@@ -8,7 +8,7 @@ type: concept
 
 Making the highest-quality compost is an aspiration that most home gardeners cannot realistically achieve. The requirements — large quantities of the freshest, most potent manure processed before any nitrate losses occur — demand a scale of livestock operation and waste management that puts it beyond the reach of most homesteaders. However, for those interested in maximum self-sufficiency, understanding what it takes and what alternatives exist is valuable.
 
-## Why Most Gardeners Can't Make High-Quality Compost
+## Why Most Gardeners Can"t Make High-Quality Compost
 
 ### The Freshness Requirement
 
@@ -71,7 +71,7 @@ For someone with extra land who is interested in maximum self-sufficiency, a com
 - Once established, keep it vigorous by running chickens on it (with grain supplementation)
 - May also be the ideal place for sheet-composting humanure
 
-See Lawrence Hills' *Comfrey: A Hundred Tons an Acre of Stock Feed or Compost for Farm, Garden or Smallholding* for detailed guidance on establishing and managing a comfrey patch.
+See Lawrence Hills" *Comfrey: A Hundred Tons an Acre of Stock Feed or Compost for Farm, Garden or Smallholding* for detailed guidance on establishing and managing a comfrey patch.
 
 ## The Closed-System Reality Check
 
@@ -101,7 +101,7 @@ Someone with extra land could grow a deeply rooting, aggressively growing plant 
 - Used to make effective fertigation tea
 - Sheet-composted with humanure
 
-A well-established comfrey patch can produce enormous quantities of biomass — Lawrence Hills' book title references "a hundred tons an acre."
+A well-established comfrey patch can produce enormous quantities of biomass — Lawrence Hills" book title references "a hundred tons an acre."
 
 ## See Also
 

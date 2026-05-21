@@ -22,7 +22,7 @@ The broth is strained and measured, then poured into an Erlenmeyer flask or wide
 
 [[sterilization]] requires a pressure cooker rated for 12–15 PSI. Lower PSI means longer cook times and lower maximum sterilization temperature. Pressure cookers with metal-to-metal seals are superior to those with rubber gaskets, but gasketed models are adequate for skill development before investing in professional-grade equipment. The cooker must be tall enough to accommodate the agar flask.
 
-The cooker is filled with water per manufacturer's directions, and the flask is placed upright in the inner pan. If tipping is a risk, the flask can be stabilized in a wire basket or metal bowl with aluminum foil wads. The flask's open top is plugged with cotton or polyester fill, covered with aluminum foil, and compressed tightly.
+The cooker is filled with water per manufacturer"s directions, and the flask is placed upright in the inner pan. If tipping is a risk, the flask can be stabilized in a wire basket or metal bowl with aluminum foil wads. The flask's open top is plugged with cotton or polyester fill, covered with aluminum foil, and compressed tightly.
 
 When the cooker reaches 15 PSI, a timer is started for 20 minutes, then heat is turned off. The cooker must not be opened until internal pressure drops above 0 PSI but below 2–3 PSI. Opening below 0 PSI creates a vacuum that sucks contaminated air into the cooker, requiring resterilization. Opening well above 0 PSI causes the agar to boil out of the flask, wasting supplies. Ideally, the cooker is opened in a clean room or in front of the [[laminar-flow-hood]].
 
@@ -63,7 +63,7 @@ Different ecotypes of the same species can vary significantly in their enzymatic
 
 Adding a mushroom's preferred fruiting substrate to the agar creates an enrichment medium or substrate agar, helping picky fungi or hard-to-clone specimens "feel at home." Dried and powdered samples of growing substrates—finely ground sawdust, screened wheat straw powder (sieved to the smallest particle obtainable)—are kept in jars for on-demand use. Adding a tablespoon of appropriate substrate powder to the agar formula helps cultures adapt and express needed enzymes.
 
-Substrate agar plates also serve as experimental mini-trials to test whether a strain can grow on an unusual substrate (e.g., shiitakes on wheat straw). Pollutants can be added instead of substrate to gauge a fungus's bioremediation potential. Alternating media across successive lab expansions keeps mycelial enzyme production strong.
+Substrate agar plates also serve as experimental mini-trials to test whether a strain can grow on an unusual substrate (e.g., shiitakes on wheat straw). Pollutants can be added instead of substrate to gauge a fungus"s bioremediation potential. Alternating media across successive lab expansions keeps mycelial enzyme production strong.
 
 ## Split Gallery Plates
 

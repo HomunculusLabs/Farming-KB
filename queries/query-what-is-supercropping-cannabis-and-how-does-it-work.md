@@ -3,7 +3,7 @@ title: "What Is Supercropping Cannabis and How Does It Work?"
 tags: [query, cannabis, training, hst, yield]
 date: 2026-05-10
 updated: 2026-05-10
-sources: ['~/wiki/raw/papers/greg-green-the-cannabis-grow-bible.md']
+sources: ["~/wiki/raw/papers/greg-green-the-cannabis-grow-bible.md']
 ---
 
 ## What Is Supercropping Cannabis and How Does It Work?

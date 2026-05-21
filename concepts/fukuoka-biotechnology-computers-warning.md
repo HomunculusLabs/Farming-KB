@@ -15,9 +15,9 @@ In the closing section of his [[fukuoka-textdoc-natural-order-food-chain-unity]]
 
 ## Genetic Engineering Dangers
 
-Fukuoka's concerns about biotechnology extend to genetic engineering:
+Fukuoka"s concerns about biotechnology extend to genetic engineering:
 
-- Scientists "who haven't the slightest idea of the true meaning and purpose of human life are busy devising ways to program life"
+- Scientists "who haven"t the slightest idea of the true meaning and purpose of human life are busy devising ways to program life"
 - New forms of life "created with computerized data and genetic engineering will become a source of human calamity"
 - No matter how superb the living things created by life scientists, "these are created with efficiency foremost in mind"
 - Scientists "cannot possibly create perfect organisms that go beyond the vast and infinite standpoint of God"
@@ -40,16 +40,16 @@ In a separate section, Fukuoka addresses the lifting of the ban on recombinant D
 - Even in Japan, "the ban has been lifted on recombinant DNA experiments on all plants and animals, with the exception of the great apes and man"
 - "It is the start of a dread age, but no one has raised a voice of dissent"
 - "This, most assuredly, is the seed of a new tragedy for the human race"
-- "Unnatural organisms are inevitably transgressors of God's laws"
+- "Unnatural organisms are inevitably transgressors of God"s laws"
 
-## Fukuoka's Test Tube Baby Critique
+## Fukuoka"s Test Tube Baby Critique
 
 Fukuoka extends his warning to human genetic manipulation:
 
 - "Although we may succeed in creating artificial man, we will not be able to predict the future of these creations of ours"
 - The artificial person must carry "throughout his entire life the realization of being man-made"
 - "He will live a tragic existence who has been robbed from the moment of conception of the true freedom enjoyed by a child of nature"
-- "The distinction between being born naturally and being born unnaturally appears to be very minor, so should something bad come of it, man and the physician will shrug and say, 'But all I did was lend a hand'"
+- "The distinction between being born naturally and being born unnaturally appears to be very minor, so should something bad come of it, man and the physician will shrug and say, "But all I did was lend a hand'"
 - "The thin line that separates the genes of a Nobel prize winner from those of a madman" makes genetic selection inherently dangerous
 
 ## Specific Criticisms of Biotechnology

@@ -44,7 +44,7 @@ This index covers plants from the letter M through R as catalogued in *Permacult
 
 ### Oils and Wax
 - **Oil** — pages 33, 40, 60, 68, 81, 83, 87, 90, 92, 98, 99, 100, 101, 102, 103, 104, 105, 107, 108, 117, 125. Plant oil sources include: olive (60), walnut (32-33), macadamia (31), jojoba wax (45), neem oil (87), and numerous palms (98-108).
-- **Oil palm** (*Elaeis guineensis*) — page 102. Tropical palm producing the world's most widely traded vegetable oil.
+- **Oil palm** (*Elaeis guineensis*) — page 102. Tropical palm producing the world"s most widely traded vegetable oil.
 
 ### Old Man Saltbush
 - **Old man saltbush** (*Atriplex nummularia*) — pages 128, 134. Australian halophyte shrub for livestock fodder on saline land; drought and salt tolerant; erosion control.

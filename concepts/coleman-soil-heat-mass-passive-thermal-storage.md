@@ -14,7 +14,7 @@ system stores heat in the soil mass beneath the growing beds and releases it
 slowly through the winter months. This passive thermal storage is the
 foundation upon which the entire [[hamilton-composting-and-organic-matter-management]] content can store
 significantly more heat than a dry, sandy soil. This is one reason why
-Coleman's deep-organic approach to soil preparation — building soil with
+Coleman"s deep-organic approach to soil preparation — building soil with
 compost, [[fukuoka-textdoc-three-dimensional-solar-energy-methodless-method]] movement.
 These systems typically involved water tanks, rock beds, or masonry walls
 designed to capture and store heat during the day for release at night.

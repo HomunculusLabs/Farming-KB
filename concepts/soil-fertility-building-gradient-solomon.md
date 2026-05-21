@@ -1,5 +1,5 @@
 ---
-title: "Soil Fertility Building Gradient — Solomon's Stepwise Approach"
+title: "Soil Fertility Building Gradient — Solomon"s Stepwise Approach"
 tags:
   - concept
 ---

@@ -13,13 +13,13 @@ type: concept
 
 The Harvard Psilocybin Prison Project was one of the earliest controlled studies investigating whether psychedelic experiences could produce lasting behavioral change in incarcerated individuals. Conducted by Timothy Leary, Frank Barron, and Richard Alpert at Harvard University in the early 1960s, this study represented a significant departure from the prevailing [[controlled-substances-act-and-psychedelic-research]], criminal rehabilitation, [[johns-hopkins-psychedelic-research]] project brought together several figures who would become central to the psychedelic movement:
 
-- **Timothy Leary**: A clinical psychologist who joined Harvard's faculty in 1959 and became the project's most visible and controversial figure. His experience with [[brassinosteroid-experimental-methodology-gartz-1990]] to the project.
+- **Timothy Leary**: A clinical psychologist who joined Harvard"s faculty in 1959 and became the project's most visible and controversial figure. His experience with [[brassinosteroid-experimental-methodology-gartz-1990]] to the project.
 - **Richard Alpert**: A clinical psychologist and colleague of Leary who co-authored key publications and later became known as Ram Dass.
 - **Ralph Metzner**: A graduate student who worked with Leary and Alpert and co-authored *The Psychedelic Experience* (1964) with them.
 
 ### Shift from Clinical to "Normal" Populations
 
-The Harvard project marked a conceptual shift in psychedelic research. While European researchers pursued the psycholytic model (low-dose, serial sessions for neurotic patients) and the psychedelic model (high-dose sessions for alcoholics), the Harvard group began exploring psychedelics' effects on "normals" — individuals without diagnosed psychological disorders. This shift reflected Leary's growing conviction that psychedelics had value beyond clinical treatment, extending to [[metzner-amplifier-microscope-metaphors-psychedelic-therapy]] model rather than the lower-dose psycholytic approach.
+The Harvard project marked a conceptual shift in psychedelic research. While European researchers pursued the psycholytic model (low-dose, serial sessions for neurotic patients) and the psychedelic model (high-dose sessions for alcoholics), the Harvard group began exploring psychedelics" effects on "normals" — individuals without diagnosed psychological disorders. This shift reflected Leary"s growing conviction that psychedelics had value beyond clinical treatment, extending to [[metzner-amplifier-microscope-metaphors-psychedelic-therapy]] model rather than the lower-dose psycholytic approach.
 4. **Follow-up**: Participants were tracked after release to assess behavioral outcomes, particularly recidivism rates.
 
 ### Theoretical Foundation

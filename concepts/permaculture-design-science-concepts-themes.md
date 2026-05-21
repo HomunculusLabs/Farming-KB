@@ -11,7 +11,7 @@ type: concept
 Permaculture opens its [[holmgren-permaculture-flower-conceptual-framework]] with a provocative assertion from [[arthur-koestler]]** (1967): Living organisms are open systems that maintain complex forms through continuous exchanges of energy and material with their environment, constantly building more complex substances, forms of energy, and patterns of information
 - **[[permaculture-design]] thinking: the difference between **open** and **closed** systems.
 
-**Closed systems** (as in classical thermodynamics) operate in confinement where reactions can be reversed — the expansion and compression of gas in a cylinder, for example. Energy accounting is straightforward; the system's behavior is predictable.
+**Closed systems** (as in classical thermodynamics) operate in confinement where reactions can be reversed — the expansion and compression of gas in a cylinder, for example. Energy accounting is straightforward; the system"s behavior is predictable.
 
 **Open systems** (as in living organisms and ecosystems) gain or lose energy irreversibly. Both the system and its environment are changed by the interaction. This irreversibility means that:
 - The system evolves over time
@@ -25,7 +25,7 @@ This distinction has profound implications for design. Permaculture designers wo
 
 Mollison draws heavily on [[james-lovelock]]'s [[gaia-hypothesis]]: the biosphere behaves not as a material assembly but as a thought process — a self-regulating system that created the conditions required for its own support and systematically builds toward increasing complexity, diversity, and stability.
 
-The practical implication for designers is that the Earth reacts to maltreatment. If natural systems and processes are overloaded, deformed, or deflected, there will be a reaction — and this reaction may have long-term consequences. The design directive is clear: "Don't do anything unless you've thought out all its consequences and advantages."
+The practical implication for designers is that the Earth reacts to maltreatment. If natural systems and processes are overloaded, deformed, or deflected, there will be a reaction — and this reaction may have long-term consequences. The design directive is clear: "Don"t do anything unless you've thought out all its consequences and advantages."
 
 ## Myth, Taboo, and the Loss of Nature-Based Guidance
 
@@ -49,7 +49,7 @@ Mollison offers a sophisticated critique of the application of scientific method
 
 Rigorous scientific method requires rigorous control of variables, which presumes either knowing all variables before starting (impossible in complex living systems) or being able to control variables without creating disorder (also impossible when the variables include living organisms that respond to control by dysfunction).
 
-Mollison extends this critique with a telling observation: scientists who "know" and observe don't usually apply their knowledge in the world, while those who "act" often don't know or observe. This has resulted in productive natural ecosystems being destroyed to create unproductive cultivated systems, energy-efficient animals (deer, kangaroo, fish) being displaced by inefficient ones (sheep, cattle), and widespread agricultural systems that need great energy inputs while destroying basic resources and denying future yields.
+Mollison extends this critique with a telling observation: scientists who "know" and observe don"t usually apply their knowledge in the world, while those who "act" often don"t know or observe. This has resulted in productive natural ecosystems being destroyed to create unproductive cultivated systems, energy-efficient animals (deer, kangaroo, fish) being displaced by inefficient ones (sheep, cattle), and widespread agricultural systems that need great energy inputs while destroying basic resources and denying future yields.
 
 ## Approaches That Work in Design
 
@@ -58,7 +58,7 @@ Despite his critique of rigid scientific method, Mollison identifies ten approac
 1. **Improving tools** — inventing or refining tools for specific jobs
 2. **Collecting large observation sets** — sorting phenomena by likeness/unlikeness to reveal common characteristics and suggest design strategies by analogy
 3. **Insight** — the "Aha!" response, probably the endpoint of extensive observation
-4. **Trials** — empirical "give it a try" approach that eliminates what doesn't work
+4. **Trials** — empirical "give it a try" approach that eliminates what doesn"t work
 5. **Guessing** — best guesses based on trials already known to work
 6. **Observing unique events** — taking note of unexpected phenomena (as with penicillin)
 7. **Accident** — trials set up for one purpose that work in an unpredicted way

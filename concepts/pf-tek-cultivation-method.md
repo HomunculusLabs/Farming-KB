@@ -21,7 +21,7 @@ The PF TEK is fundamentally a **brown rice cultivation method** with a critical 
 5. **Incubation**: Colonized jars are incubated at room temperature
 6. **Fruiting**: Colonized cakes are placed in a humidity-controlled terrarium
 
-The entire process requires minimal specialized equipment and can be completed in a standard kitchen. This accessibility was the PF TEK's key innovation — it democratized mushroom cultivation, which had previously required laboratory-grade equipment and mycological expertise.
+The entire process requires minimal specialized equipment and can be completed in a standard kitchen. This accessibility was the PF TEK"s key innovation — it democratized mushroom cultivation, which had previously required laboratory-grade equipment and mycological expertise.
 
 ## Historical Significance
 
@@ -82,7 +82,7 @@ Professional cultivators typically clone mushroom tissue and grow from that clon
 ### PF Spore Mass Inoculation
 The PF TEK uses **mass spore inoculation** directly to the fruiting substrate. This approach:
 - Introduces the complete genotype through multispore germination
-- Maintains full genetic diversity — the "power of the spore's reproductive ability"
+- Maintains full genetic diversity — the "power of the spore"s reproductive ability"
 - Avoids senescence entirely, as each grow starts from fresh spores
 - Provides a "never ending succession of fungus"
 - Is simpler and requires less skill than tissue culture
@@ -126,7 +126,7 @@ The PF TEK follows a predictable timeline:
 
 ## Cultural Impact
 
-The PF TEK's influence extends beyond mycology into broader cultural domains:
+The PF TEK"s influence extends beyond mycology into broader cultural domains:
 
 - **Democratization of knowledge**: The TEK represented an early example of specialized knowledge being freely available
 - **Internet culture**: One of the first "how-to" guides to achieve viral spread on the early Internet

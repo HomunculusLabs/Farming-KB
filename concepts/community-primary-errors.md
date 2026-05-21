@@ -6,7 +6,7 @@ type: concept
 
 ## Community Primary Errors
 
-In *[[permaculture]]: A Designers' Manual*, [[bill-mollison]] identifies a set of recurring
+In *[[permaculture]]: A Designers" Manual*, [[bill-mollison]] identifies a set of recurring
 pitfalls that cause [[holmgren-community-design-and-intentional-communities]] to fail or to spend more time mired in
 conflict than engaged in productive work. These errors are not merely theoretical —
 they are drawn from decades of observed community experiments worldwide. Understanding
@@ -28,7 +28,7 @@ shelter, or restoring land is instead consumed by endless debate.
 
 The dissenter need not even be malicious — a well-meaning member who simply cannot
 accept a decision can stall the group indefinitely. Over time, other members lose
-patience and leave in frustration, weakening the community's social fabric. Mollison
+patience and leave in frustration, weakening the community"s social fabric. Mollison
 advises tiered decision-making: reserve consensus for truly consequential choices and
 use delegated authority or majority vote for routine matters.
 

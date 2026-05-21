@@ -11,7 +11,6 @@ date: 2026-05-08
 updated: 2026-05-08
 sources:
   - Barnes, B.V. & Wagner, W.H. (2004). "Michigan Trees." University of Michigan Press.---
----
 
 ## Overview
 

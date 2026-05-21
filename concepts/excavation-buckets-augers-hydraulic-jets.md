@@ -6,7 +6,7 @@ type: concept
 
 ## Excavation Equipment — Buckets, Augers, and [[holzer-water-power-hydraulic-ram|hydraulic-conductivity|Hydraulic]] Jets
 
-Beyond the primary blade machines, a range of specialized excavation [[excavation-tools-and-drilling-methods|tools]] extends the earthworker's capacity for precise shaping, deep excavation, and work in challenging terrain. Each tool type addresses specific conditions that blade machines cannot handle effectively.
+Beyond the primary blade machines, a range of specialized excavation [[excavation-tools-and-drilling-methods|tools]] extends the earthworker"s capacity for precise shaping, deep excavation, and work in challenging terrain. Each tool type addresses specific conditions that blade machines cannot handle effectively.
 
 ## Bucket Machines
 

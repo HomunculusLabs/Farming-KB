@@ -15,7 +15,7 @@ sources:
 
 Initiates at Eleusis swore a solemn oath never to reveal what they had witnessed in the [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]]). The velada ceremony was conducted at night, in private homes, with only trusted participants. The mushrooms were referred to by codenames, never by their true identity.
 
-When Wasson's 1957 Life article broke this secrecy, the consequences were devastating: "the dissemination of Wasson's article in Life led to an invasion of the region by hippies and other drug users, which ultimately destroyed the sacred context of the ritual."
+When Wasson"s 1957 Life article broke this secrecy, the consequences were devastating: "the dissemination of Wasson"s article in Life led to an invasion of the region by hippies and other drug users, which ultimately destroyed the sacred context of the ritual."
 
 ## Why Secrecy?
 

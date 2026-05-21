@@ -12,7 +12,7 @@ sources: none
 
 ## Fukuoka Breitenbush Natural Garden
 
-The Breitenbush natural garden in Oregon provides one of the most compelling demonstrations of Fukuoka's natural [[comparison-living-mulch-vs-cover-crops]] ground cover
+The Breitenbush natural garden in Oregon provides one of the most compelling demonstrations of Fukuoka"s natural [[comparison-living-mulch-vs-cover-crops]] ground cover
 - The number of weeds was not as large as it had appeared from a distance
 - All kinds of vegetables were growing to respectable sizes, demonstrating natural viability
 
@@ -24,7 +24,7 @@ This three-year timeline aligns with Fukuoka's broader observation that natural 
 
 The garden had varied growing conditions: dry spots and wet spots, areas of poor soil and shady spots. Not all seeds that fell germinated. Only seeds that fell in the right time and place germinated. Fukuoka called this the "survival test."
 
-"There is nothing wrong with this seemingly disordered state in which those seeds which are doomed to perish do so, and only the survivors thrive. But nature eventually shows us in this way where each plant will grow best. All one has to do is look and follow nature's example."
+"There is nothing wrong with this seemingly disordered state in which those seeds which are doomed to perish do so, and only the survivors thrive. But nature eventually shows us in this way where each plant will grow best. All one has to do is look and follow nature"s example."
 
 This concept connects directly to Fukuoka's [[holmgren-ecological-succession-and-pulsing]] to take its course.
 

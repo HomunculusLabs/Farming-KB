@@ -4,7 +4,7 @@ tags:
   - concept
 ---
 
-Sterilization is the single most critical step in the PF TEK [[antimicrobial-compounds-mushroom-mycelium]] but also for a wide range of competing microorganisms including bacteria, yeast, and molds. Without thorough sterilization, these contaminants will outcompete the mushroom mycelium, rendering the entire batch useless. The PF TEK's accessibility and success rate are largely attributable to its effective but low-cost approach to sterilization.
+Sterilization is the single most critical step in the PF TEK [[antimicrobial-compounds-mushroom-mycelium]] but also for a wide range of competing microorganisms including bacteria, yeast, and molds. Without thorough sterilization, these contaminants will outcompete the mushroom mycelium, rendering the entire batch useless. The PF TEK"s accessibility and success rate are largely attributable to its effective but low-cost approach to sterilization.
 
 ## The Contamination Challenge
 

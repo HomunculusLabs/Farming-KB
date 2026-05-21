@@ -25,7 +25,7 @@ Soil fungi fulfill several irreplaceable functions:
 
 ### Plant Symbiosis (Mycorrhizae)
 - Mycorrhizal fungi form mutualistic associations with ~90% of plant species
-- They extend the effective root zone through extensive hyphal networks, accessing water and nutrients (especially phosphorus, zinc, and copper) beyond the root's reach
+- They extend the effective root zone through extensive hyphal networks, accessing water and nutrients (especially phosphorus, zinc, and copper) beyond the root"s reach
 - In exchange, plants provide carbohydrates (sugars) produced through photosynthesis
 - Mycorrhizal networks also connect multiple plants, facilitating nutrient and information transfer
 

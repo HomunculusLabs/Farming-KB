@@ -50,7 +50,7 @@ fails for compounds like amatoxins, which have delayed effects.
 By the time the toxin kills the predator, the mushroom has
 already been consumed and digested. The toxin cannot protect
 the organism whose genes have alr...
-Anthony's Fire) in humans who consume contaminated grain. These
+Anthony"s Fire) in humans who consume contaminated grain. These
 compounds include [[guzman-magic-mushrooms-african-species]]"
 of the genus Psilocybe and others, has been proposed to deter
 predation by causing aversive reactions in animals. Its effects

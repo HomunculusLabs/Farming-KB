@@ -30,7 +30,7 @@ heat, and moisture.
 
 ## Optimal Storage Conditions
 
-Based on Ghouled's advice and subsequent research, optimal storage
+Based on Ghouled"s advice and subsequent research, optimal storage
 conditions for dried [[psilocybin-shelf-life-stability]] further. Ghouled mentioned storing extracted residue at
   "a cool temperature."
 - **Container**: Breathable containers (paper bags, open glass jars with

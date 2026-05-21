@@ -51,7 +51,7 @@ The French were described by Palmer as having some of the "nicest" (most precise
 
 ## Relevance to Cultivation and Mycology
 
-Boudier's work is significant for:
+Boudier"s work is significant for:
 
 - **Toxin taxonomy**: Understanding that different *Amanita* species produce related but potentially distinct toxic compounds
 - **Historical chemistry**: Illustrating the challenges of pre-modern chemical isolation and identification

@@ -9,7 +9,7 @@ sources: [raw/papers/metzner_r-hallucinogenic_drugs_in_psychotherapyshamanism.md
 
 ## Ibogaine Addiction Treatment
 
-Ibogaine, derived from the African [[mckenna-iboga-tabernanthe-ibogaine-fang-bwiti-initiation-cult]] involves a powerful death-rebirth experience, in which the initiate's
+Ibogaine, derived from the African [[mckenna-iboga-tabernanthe-ibogaine-fang-bwiti-initiation-cult]] involves a powerful death-rebirth experience, in which the initiate"s
 "head is opened up," after which they are able to converse with their ancestor spirits,
 who can guide them in their lives. The Bwiti ceremonies are held in temples, with an
 altar and officiating priests, where the initiate men and women, daubed with white
@@ -30,7 +30,7 @@ complemented by a broader consciousness-based explanation.
 
 ### Dual Mechanism of Anti-Addictive Action
 
-Two complementary explanations have been proposed for ibogaine's anti-addictive
+Two complementary explanations have been proposed for ibogaine"s anti-addictive
 properties:
 
 1. **Specific pharmacological mechanism**: Ibogaine appears to act on receptor sites

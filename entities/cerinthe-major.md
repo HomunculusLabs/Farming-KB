@@ -10,7 +10,7 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Mabberley, D.J. (2017). "Mabberley's Plant Book." 4th ed. Cambridge University Press.
+  - Mabberley, D.J. (2017). "Mabberley"s Plant Book." 4th ed. Cambridge University Press.
 ---
 
 ## Overview

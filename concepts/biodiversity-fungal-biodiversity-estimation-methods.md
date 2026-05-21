@@ -35,7 +35,7 @@ more a diversity estimate should be revised upward. The jackknife is
 particularly useful because it provides a relatively straightforward
 calculation from standard inventory data.
 
-## Chao's Estimators
+## Chao"s Estimators
 
 Chao's second estimator, known as "Chao 2," is one of the simplest and
 most reliable richness estimators when the number of samples is small.

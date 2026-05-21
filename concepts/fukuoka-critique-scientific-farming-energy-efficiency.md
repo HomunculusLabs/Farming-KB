@@ -4,7 +4,7 @@ source: administrator-microsoft-word-fukuoka-textdoc.md
 type: concept
 ---
 
-## Fukuoka's Critique of Scientific Farming and Energy Efficiency
+## Fukuoka"s Critique of Scientific Farming and Energy Efficiency
 
 Masanobu Fukuoka's *The One-Straw Revolution* presents a radical critique of modern scientific farming, arguing that humanity's departure from natural agricultural methods has produced an unsustainable, energy-wasteful system that degrades both the land and the spirit. His [[four-principles-of-natural-farming]]:
 
@@ -14,7 +14,7 @@ Masanobu Fukuoka's *The One-Straw Revolution* presents a radical critique of mod
 - **Small-scale mechanization** doubles the energy input again.
 - **Large-scale mechanization** doubles it yet again.
 
-The result is a **geometric progression** of energy consumption — each technological "advance" multiplies the energy required, leading directly to today's spectacularly energy-intensive agriculture. What appears as progress is, in Fukuoka's view, a march toward collapse.
+The result is a **geometric progression** of energy consumption — each technological "advance" multiplies the energy required, leading directly to today"s spectacularly energy-intensive agriculture. What appears as progress is, in Fukuoka's view, a march toward collapse.
 
 ## Critique of Mechanization
 
@@ -26,7 +26,7 @@ Mechanization is perhaps the clearest example of scientific farming's self-defea
 
 ## Critique of "High-Yield" Claims
 
-One of Fukuoka's most provocative arguments is that scientific farming yields are actually **smaller than nature's full potential**. The so-called achievements of high-yield agriculture are illusory:
+One of Fukuoka"s most provocative arguments is that scientific farming yields are actually **smaller than nature's full potential**. The so-called achievements of high-yield agriculture are illusory:
 
 - High-yield practices **merely restore productivity** after man has hamstrung nature through plowing, chemical application, and monoculture.
 - Man **creates adverse conditions** through his interventions, then rejoices at "conquering" nature when he partially corrects the damage he caused.

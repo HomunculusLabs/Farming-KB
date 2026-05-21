@@ -4,7 +4,7 @@ created: 2026-04-28
 tags: [comparison, planting-strategy, permaculture, organic-gardening, soil-health]
 date: 2026-04-25
 updated: 2026-04-25
-sources: ['raw/papers/what-a-plant-knows-daniel-chamovitz.md']
+sources: ["raw/papers/what-a-plant-knows-daniel-chamovitz.md']
 type: comparison
 ---
 ## Companion Planting vs Monoculture

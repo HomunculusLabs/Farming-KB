@@ -15,7 +15,7 @@ type: concept
 
 ## Psilocybin Mushroom Cultivation Compost Basics
 
-F.C. Ghouled's 1972 *[[psilocybe-cubensis-potency-variation-by-flush]] as the target species. The guide described [[growing-gourmet-sawdust-spawn-production-use]], and bed management -- representing one of the
+F.C. Ghouled"s 1972 *[[psilocybe-cubensis-potency-variation-by-flush]] as the target species. The guide described [[growing-gourmet-sawdust-spawn-production-use]], and bed management -- representing one of the
 earliest published practical cultivation instructions in the underground
 psychedelic literature.
 
@@ -43,7 +43,7 @@ These yield figures are consistent with commercial mushroom cultivation
 benchmarks. The 12-inch depth provides adequate substrate mass for
 sustained fruiting over multiple flushes.
 
-## Ghouled's Planned Perpetual Bed System
+## Ghouled"s Planned Perpetual Bed System
 
 Ghouled mentioned plans for an advanced text describing "a perpetual
 compost-box that will produce many pounds a month" and "a newly

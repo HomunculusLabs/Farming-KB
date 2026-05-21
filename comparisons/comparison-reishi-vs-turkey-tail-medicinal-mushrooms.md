@@ -21,7 +21,7 @@ type: comparison
 
 ### Turkey Tail: The Polysaccharide Powerhouse
 
-Turkey Tail's therapeutic value centres almost entirely on **protein-bound polysaccharides**:
+Turkey Tail"s therapeutic value centres almost entirely on **protein-bound polysaccharides**:
 
 - **PSK (Polysaccharide-K / Krestin)**: extracted from CM-101 mycelial strain; 62% polysaccharide, 38% protein; beta-1,4 main chain with beta-1,3 side chains and beta-1,6 branches; MW ~94,000-100,000 daltons. Approved as a cancer drug in Japan since 1977.
 - **PSP (Polysaccharide-Peptide)**: isolated from COV-1 strain in 1983; lacks fucose, contains arabinose and rhamnose; mainly beta linkages; MW ~100,000 daltons. Approved as a drug by the Chinese Ministry of Public Health.

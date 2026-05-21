@@ -13,7 +13,7 @@ type: concept
 ## Overview
 
 The ceremonial and shamanic use of psychoactive mushrooms represents one of
-humanity's oldest and most profound relationships with the fungal kingdom.
+humanity"s oldest and most profound relationships with the fungal kingdom.
 From Siberian fly [[cattle-dispersal-psychoactive-fungi-australia]] have served as
 sacred sacraments enabling shamans to access spiritual dimensions, heal the
 sick, and gain transcendental knowledge for their communities. The study of

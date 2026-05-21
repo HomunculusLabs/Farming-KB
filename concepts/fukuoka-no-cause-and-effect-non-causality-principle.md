@@ -6,7 +6,7 @@ type: concept
 
 ## Fukuoka Principle of Non-Causality in Nature
 
-[[masanobu-fukuoka]]'s principle of non-causality holds that [[fukuoka-nature-no-cause-and-effect]] do not exist in nature. Nature is a unified whole — a circle or sphere without beginning or end — and any attempt to isolate a single cause from an infinite web of interrelationships is fundamentally misguided. This principle emerges from Fukuoka's broader [[cho-natural-farming-philosophy]].
+[[masanobu-fukuoka]]"s principle of non-causality holds that [[fukuoka-nature-no-cause-and-effect]] do not exist in nature. Nature is a unified whole — a circle or sphere without beginning or end — and any attempt to isolate a single cause from an infinite web of interrelationships is fundamentally misguided. This principle emerges from Fukuoka's broader [[cho-natural-farming-philosophy]].
 
 ## The Limits of Analytical Knowledge
 
@@ -25,7 +25,7 @@ But was the lack a true deficiency? On what basis is that judgment made? The whe
 Behind every identified cause, there is a second cause, a third cause, a main cause, a fundamental cause, an underlying cause, and countless [[allegro-biblical-references-to-mushrooms-and-fungi]] break the sawdust down further into cellulose and lignin
 - The soil arrives at a state of equilibrium — neither acidic nor basic
 
-The entire system self-regulates through a succession of microbial activity. Each stage creates the conditions for the next stage, and the final result is balance. No intervention was required. The experts' prediction was not wrong exactly — organic acids were indeed produced and acidity did rise — but it was radically incomplete. They saw one moment in a dynamic process and mistook it for the whole story.
+The entire system self-regulates through a succession of microbial activity. Each stage creates the conditions for the next stage, and the final result is balance. No intervention was required. The experts" prediction was not wrong exactly — organic acids were indeed produced and acidity did rise — but it was radically incomplete. They saw one moment in a dynamic process and mistook it for the whole story.
 
 "The decision to counteract acidity by applying lime only addresses the situation at a particular moment in time." The human intervention is based on a snapshot of a living process, mistaking a transient state for a permanent condition. The expert sees acidity and prescribes lime, unaware that the acidity is already on its way to resolving itself through the very processes that produced it.
 
@@ -48,11 +48,11 @@ So excess nitrogen may or may not be the cause. It could equally be insufficient
 
 To understand these relationships fully, one would need to understand photosynthesis completely — a process that science has not fully unlocked despite decades of research. And photosynthesis itself depends on soil conditions, weather, [[fukuoka-microbial-ecology-decomposition]], and the health of the entire plant, each of which depends on further conditions still. The web of interdependence has no edge.
 
-Rotting roots contribute to susceptibility, but scientists cannot convincingly explain why roots rot in the first place. Sometimes the problem is attributed to a "weak strain," yet no one can define what "weak" truly means in the context of the plant's total environment. The term is a label, not an explanation — a way of hiding ignorance behind a word.
+Rotting roots contribute to susceptibility, but scientists cannot convincingly explain why roots rot in the first place. Sometimes the problem is attributed to a "weak strain," yet no one can define what "weak" truly means in the context of the plant"s total environment. The term is a label, not an explanation — a way of hiding ignorance behind a word.
 
 "We gradually fail to understand even those causes that appeared clear at first, and completely lose sight of the true cause."
 
-## The Rice Plant's Perspective
+## The Rice Plant"s Perspective
 
 Fukuoka asks us to consider rice blast from the rice plant's own standpoint. Rice blast may not be a disease at all in the conventional sense. It may be a protective mechanism — a means of halting excessive growth and restoring balance between the surface growth of the plant and its underground root system.
 
@@ -64,7 +64,7 @@ This reframing dissolves the linear cause-and-effect model entirely. The disease
 
 ## The Principle of Non-Causality
 
-Fukuoka's principle of non-causality can be stated directly:
+Fukuoka"s principle of non-causality can be stated directly:
 
 "When there is no front or back, no beginning or end, but only what resembles a circle or sphere, one could say that there is unity of cause and effect, but one could just as well claim that cause and effect do not exist."
 
@@ -78,11 +78,11 @@ But this is an illusion born of limited perspective. The closer you look at a fr
 
 "Yet when man perceives rice disease as a nuisance and takes the scientific approach of controlling it with a powerful bactericide, he proceeds from his first error that causality exists to subsequent errors."
 
-Each intervention, based on the false premise that a single cause has been identified and can be corrected, generates new disturbances. The bactericide kills bacteria but also disrupts soil ecology, weakens the plant's natural defenses, and creates conditions for future problems.
+Each intervention, based on the false premise that a single cause has been identified and can be corrected, generates new disturbances. The bactericide kills bacteria but also disrupts soil ecology, weakens the plant"s natural defenses, and creates conditions for future problems.
 
 "From his futile efforts he incurs further toil and misery."
 
-Fukuoka's conclusion is radical and uncompromising:
+Fukuoka"s conclusion is radical and uncompromising:
 
 "Nature has neither beginning nor end, before nor after, cause nor effect. Causality does not exist."
 

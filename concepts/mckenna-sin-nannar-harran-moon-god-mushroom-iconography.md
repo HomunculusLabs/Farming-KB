@@ -14,16 +14,16 @@ In *Food of the Gods*, [[allegro-cross-and-mushroom-symbolism]] that McKenna tra
 
 McKenna argues that the mushroom itself is fundamentally androgynous — capable of taking either masculine or feminine projection depending on the predisposition of the culture encountering it:
 
-- **Feminine associations**: The mushroom has a lustrous, silvery appearance in certain forms; its overnight appearance implies nocturnal activity under the moon's dominion; the Goddess association in Saharan Africa and at Çatal Hüyük is strongly lunar
+- **Feminine associations**: The mushroom has a lustrous, silvery appearance in certain forms; its overnight appearance implies nocturnal activity under the moon"s dominion; the Goddess association in Saharan Africa and at Çatal Hüyük is strongly lunar
 - **Masculine associations**: The mushroom is solar in color (golden to caramel), phallic in appearance, and imparts great energy; it is traditionally thought of as "the child of lightning"
 
 The mushroom "is most correctly seen as an androgynous shape-shifting deity, which can take various forms depending on the predisposition of the culture encountering it." For the Indo-Europeans, it took on a masculine quality; in Saharan Africa and at Çatal Hüyük, a lunar and feminine quality.
 
 ## Ishtar and the Feminine Principle
 
-Sin/Nannar's daughter Ishtar eventually "overshadowed all the other female deities, as did her counterpart Isis in Egypt." This progression — from a mushroom-associated male moon god to a supreme goddess figure — may reflect the cultural transition from early mushroom-using partnership societies to later goddess-worshiping civilizations. If Sin was originally a mushroom god, the absorption of his divine attributes into the figure of Ishtar may represent the assimilation of mushroom-related religious concepts into the broader Goddess religion.
+Sin/Nannar"s daughter Ishtar eventually "overshadowed all the other female deities, as did her counterpart Isis in Egypt." This progression — from a mushroom-associated male moon god to a supreme goddess figure — may reflect the cultural transition from early mushroom-using partnership societies to later goddess-worshiping civilizations. If Sin was originally a mushroom god, the absorption of his divine attributes into the figure of Ishtar may represent the assimilation of mushroom-related religious concepts into the broader Goddess religion.
 
-The fact that Sin is the "father, or source, of the Goddess" is particularly suggestive in McKenna's framework. If the mushroom was the original source of religious experience in the partnership societies, then the mushroom god as the father of the Goddess would be an accurate genealogy — the [[pf-tek-mushroom-growth-timeline]]
+The fact that Sin is the "father, or source, of the Goddess" is particularly suggestive in McKenna"s framework. If the mushroom was the original source of religious experience in the partnership societies, then the mushroom god as the father of the Goddess would be an accurate genealogy — the [[pf-tek-mushroom-growth-timeline]]
 - Partnership societies that practiced cattle herding were the primary contexts for sustained mushroom use
 - The sacred status of cattle in multiple cultures (Vedic India, ancient Egypt, Minoan Crete) may derive from their role as the substrate for the [[allegro-star-of-the-morning-venus-and-the-sacred-mushroom]] that grew in the cattle's dung — the original source of the deity's numinous power.
 

@@ -21,7 +21,7 @@ The species is the most widely cultivated member of its genus and is valued for 
 
 ## Taxonomy and Morphology
 
-**Byblis liniflora** was first described by the German botanist Robert Brown in 1810. The genus name *Byblis* refers to the figure from Greek mythology who was transformed into a spring fountain, alluding to the plant's glistening mucilage-covered surface. The specific epithet *liniflora* means "flax-flowered," describing the delicate, flax-like appearance of the flowers.
+**Byblis liniflora** was first described by the German botanist Robert Brown in 1810. The genus name *Byblis* refers to the figure from Greek mythology who was transformed into a spring fountain, alluding to the plant"s glistening mucilage-covered surface. The specific epithet *liniflora* means "flax-flowered," describing the delicate, flax-like appearance of the flowers.
 
 The family Byblidaceae contains a single genus with approximately eight recognized species. Molecular phylogenetic studies have placed Byblidaceae within the order Lamiales, making it only distantly related to other carnivorous plant families such as Droseraceae and Nepenthaceae.
 

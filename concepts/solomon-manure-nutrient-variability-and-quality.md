@@ -24,7 +24,7 @@ It is nearly impossible to know how much bedding material (straw, sawdust, wood 
 ### 3. Storage and Handling
 - **Fresh vs. composted**: Fresh manure contains readily [[complete-organic-fertilizer-cof-recipe-solomon]] provides known, consistent amounts of nitrogen, phosphorus, potassium, calcium, magnesium, and trace minerals.
 
-3. **Apply minimum effective amounts of manure**: Use only enough to supply the soil ecology's requirement for organic matter. Excessive manure can unbalance soil minerals.
+3. **Apply minimum effective amounts of manure**: Use only enough to supply the soil ecology"s requirement for organic matter. Excessive manure can unbalance soil minerals.
 
 4. **Never rely solely on manure for fertility**: Even the best manure may not provide complete nutrition, particularly trace minerals.
 

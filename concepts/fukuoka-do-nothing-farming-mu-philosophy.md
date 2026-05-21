@@ -1,18 +1,18 @@
 ---
-title: "Fukuoka's Do-Nothing Philosophy and the Way of Mu"
+title: "Fukuoka"s Do-Nothing Philosophy and the Way of Mu"
 tags:
   - concept
 ---
 
 ## Overview
 
-The [[masanobu-fukuoka]]'s [[fukuoka-textdoc-village-philosophy-disappearance]]. "We have fallen from a true way of life
+The [[masanobu-fukuoka]]"s [[fukuoka-textdoc-village-philosophy-disappearance]]. "We have fallen from a true way of life
 to one that is false. People rush about in a frenzy to shorten time and widen
 space, and in so doing lose both."
 
 ## Man Cannot Know Nature
 
-Fukuoka's philosophy rests on a fundamental epistemological claim: man cannot
+Fukuoka"s philosophy rests on a fundamental epistemological claim: man cannot
 know nature. Man prides himself on being the only creature on earth with the
 ability to think. He claims to know himself and the natural world, and believes
 he can use nature as he pleases. But nature cannot be explained or expanded

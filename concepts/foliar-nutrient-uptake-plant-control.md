@@ -10,7 +10,7 @@ type: concept
 
 One of the most important principles in biological agriculture is that **the plant should be in control of its own nutrition**, not the grower. When a healthy set of organisms is restored to the system, plants regain their natural ability to regulate nutrient uptake through mechanisms that have evolved over millions of years.
 
-## The Plant's Natural Regulation Mechanism
+## The Plant"s Natural Regulation Mechanism
 
 ### How Foliar Uptake Works
 

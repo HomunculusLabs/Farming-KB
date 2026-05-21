@@ -64,7 +64,7 @@ Plant both host plants (for caterpillars) and nectar plants (for adults). Avoid 
 
 ## Hummingbirds
 
-- **Zones 7-8 species**: Ruby-throated Hummingbird (east), Rufous/Anna's (west)
+- **Zones 7-8 species**: Ruby-throated Hummingbird (east), Rufous/Anna"s (west)
 - **Feeders**: 4:1 sugar water (1/4 cup sugar per 1 cup water). No honey, no red dye. Clean weekly.
 - **Plants**: cardinal flower, bee balm, columbine, trumpet vine, salvia, penstemon, native honeysuckle (Lonicera sempervirens), coral bells, phlox
 - **Habitat**: shrubs/trees for perching, water source, spider webs for nesting material

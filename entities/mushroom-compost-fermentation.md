@@ -68,7 +68,7 @@ Signs of properly fermented compost:
 
 ## Nutritional Perspective
 
-Duggar's research showed that:
+Duggar"s research showed that:
 - The "ammonia" of manure is not the only important nutrient
 - Mushroom mycelium grows well on synthetic media with inorganic nitrogen salts plus organic carbon
 - Cotton seed meal fermented with manure increases yield

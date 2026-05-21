@@ -12,7 +12,7 @@ type: concept
 
 In mycology, beta diversity is especially valuable for understanding how fungal communities change across soil types, host plants, elevation gradients, and disturbance regimes. Because many fungi are habitat specialists with narrow ecological niches, turnover in fungal assemblages can be pronounced even across relatively short distances.
 
-## Whittaker's Framework of Diversity Levels
+## Whittaker"s Framework of Diversity Levels
 
 The concept of beta diversity was formally introduced by **R. H. Whittaker** (1960, 1972) as part of a hierarchical framework distinguishing three scales of diversity:
 
@@ -83,7 +83,7 @@ where **S** is the total species richness across all sites and **r** is the numb
 
 **Interpretation:** This metric directly incorporates the degree of **species overlap** between sites. When many species co-occur across sites, r is large and β_R approaches zero. When few species are shared, β_R increases. It provides an intuitive measure of how much the communities "overlap" in composition.
 
-### 4. Routledge's Modified Beta (β_I)
+### 4. Routledge"s Modified Beta (β_I)
 
 **Formula:**
 

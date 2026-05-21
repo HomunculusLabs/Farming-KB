@@ -12,7 +12,7 @@ The history of life on Earth reveals a fundamental pattern: vast periods of stab
 
 ### Long Stable Periods
 
-The history of life on Earth includes vast periods of tens of millions of years when all the Earth's land masses were worn down, shallow seas covered most of the Earth's surface, and the climate was almost uniformly mild and moderately wet. Biodiversity was low and ecosystems changed little over vast areas and millions of years.
+The history of life on Earth includes vast periods of tens of millions of years when all the Earth"s land masses were worn down, shallow seas covered most of the Earth's surface, and the climate was almost uniformly mild and moderately wet. Biodiversity was low and ecosystems changed little over vast areas and millions of years.
 
 ### The Quaternary: An Age of Change
 

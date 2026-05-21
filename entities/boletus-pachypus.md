@@ -9,7 +9,7 @@ tags: [fungi, basidiomycota, agaricomycetes, boletales, boletaceae, boletus, edi
 
 ## Description
 
-Boletus pachypus is a bolete mushroom characterized by its exceptionally thick, stout stem (the name deriving from Greek "pachy" meaning thick, and "pus" meaning foot). The species was known to 19th-century mycologists as a distinctive bolete with robust morphology and a powerful, nutty flavor and aroma. Palmer noted that the aroma was potent enough to transfer to other foods stored nearby without direct contact — a remarkable demonstration of the species' volatile aromatic compounds.
+Boletus pachypus is a bolete mushroom characterized by its exceptionally thick, stout stem (the name deriving from Greek "pachy" meaning thick, and "pus" meaning foot). The species was known to 19th-century mycologists as a distinctive bolete with robust morphology and a powerful, nutty flavor and aroma. Palmer noted that the aroma was potent enough to transfer to other foods stored nearby without direct contact — a remarkable demonstration of the species" volatile aromatic compounds.
 
 ## Classification
 

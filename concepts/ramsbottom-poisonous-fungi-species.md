@@ -21,7 +21,7 @@ sources:
 
 # Ramsbottom Poisonous Fungi Species
 
-Complete species descriptions from [[john-ramsbottom]]'s 1945 "Poisonous Fungi" with colour plates by Rose Ellenby. All measurements in inches. See [[mushroom-poisoning-guide]] for modern toxicological summaries.
+Complete species descriptions from [[john-ramsbottom]]"s 1945 "Poisonous Fungi" with colour plates by Rose Ellenby. All measurements in inches. See [[mushroom-poisoning-guide]] for modern toxicological summaries.
 
 ## AMANITA PHALLOIDES -- Death Cap
 
@@ -39,7 +39,7 @@ Complete species descriptions from [[john-ramsbottom]]'s 1945 "Poisonous Fungi" 
 
 **Key toxins**: [[amanita]]-toxin (heat-resistant, causes liver degeneration), [[phalloidin]] (polypeptide, destroyed by heat), [[phallin]] (glucoside, attacks red blood cells, destroyed by heat/digestion -- NOT the active poison).
 
-## AMANITA VERNA -- Fools' Mushroom
+## AMANITA VERNA -- Fools" Mushroom
 
 **Cap**: 3" wide. Usually entirely white, though centre may be slightly ochraceous. Closely resembles A. phalloides.
 

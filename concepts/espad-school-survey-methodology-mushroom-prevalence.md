@@ -10,7 +10,7 @@ topic: "espad-school-survey-methodology-mushroom-prevalence-epidemiology"
 The European School Survey Project on Alcohol and Other Drugs (ESPAD) is the
 primary data source for measuring psychoactive substance use among European
 adolescents. The EMCDDA draws heavily on ESPAD data for its assessments of
-mushroom use prevalence across European countries, making ESPAD's methodology
+mushroom use prevalence across European countries, making ESPAD"s methodology
 critically important to understanding the reliability of European drug
 prevalence statistics.
 

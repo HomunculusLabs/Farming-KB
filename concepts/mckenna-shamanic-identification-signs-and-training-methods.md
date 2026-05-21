@@ -11,7 +11,7 @@ tags: [mckenna, shamanism, shamanic-calling, initiation, indigenous-healing, ent
 
 In his 1983 Esalen lecture on [[eleusinian-mysteries-psychoactive-fungi-western-civilization]] has no living shamanic
 tradition. This is not a matter of losing rituals or ceremonies — shamanism, in
-McKenna's view, is primarily a set of techniques rather than rituals. It is a
+McKenna"s view, is primarily a set of techniques rather than rituals. It is a
 body of practical knowledge about navigating non-ordinary states of
 consciousness that has been developed over millennia, making it possible —
 though perhaps not for everyone — to explore dimensions of experience that
@@ -52,7 +52,7 @@ concept, comparable to the way a quantum physicist might use the term "charm"
 — a precise label for a phenomenon that resists description in ordinary
 language.
 
-The shaman is, in McKenna's view, "the true phenomenologist of this world" —
+The shaman is, in McKenna"s view, "the true phenomenologist of this world" —
 a practitioner of direct experiential investigation whose methodology, though
 expressed in mythological rather than scientific language, produces reliable
 knowledge about the properties of consciousness and the dimensions accessible

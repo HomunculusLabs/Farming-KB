@@ -10,7 +10,7 @@ type: concept
 
 ## Weapons for Defense: The Philosophy of Peace
 
-Fukuoka's observations on weapons and defense emerge from
+Fukuoka"s observations on weapons and defense emerge from
 his [[allegro-death-and-resurrection-in-the-mushroom-cult]] fields.
 
 In Japan, such a tree would soon set farmers quarreling.

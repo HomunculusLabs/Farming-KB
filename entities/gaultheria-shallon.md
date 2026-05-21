@@ -11,7 +11,6 @@ date: 2026-05-08
 updated: 2026-05-08
 sources:
   - Minore, D. (1972). "The huckleberries-and-wild-berries-of-north-america the Pacific Northwest." USDA Forest Service General Technical Report PNW.---
----
 
 ## Overview
 

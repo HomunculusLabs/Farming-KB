@@ -18,7 +18,7 @@ Barry Commoner (1917–2012) was an American biologist, environmental scientist,
 
 ### Organic Farming Comparison Study (1977)
 
-In *The Winter Harvest Handbook*, [[eliot-coleman]] cites a landmark 1977 study from Barry Commoner's group at Washington University in Saint Louis. This study conducted side-by-side paired comparisons between Midwestern organic farmers and their chemical-using neighbors, demonstrating that organic farmers were "just as successful" as conventional operators. Coleman describes this as "the first major eye-opener of the world to come" and notes the establishment's shock at the results.
+In *The Winter Harvest Handbook*, [[eliot-coleman]] cites a landmark 1977 study from Barry Commoner"s group at Washington University in Saint Louis. This study conducted side-by-side paired comparisons between Midwestern organic farmers and their chemical-using neighbors, demonstrating that organic farmers were "just as successful" as conventional operators. Coleman describes this as "the first major eye-opener of the world to come" and notes the establishment"s shock at the results.
 
 ### The Closing Circle (1971)
 

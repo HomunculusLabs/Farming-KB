@@ -6,7 +6,7 @@ type: concept
 
 ## Third Bardo Re-Entry and Liberation
 
-The Third Bardo, as described in *The [[leary-psychedelic-experience-bardo-mapping]]* (based on the *Tibetan Book of the Dead*), is the stage of [[psychedelic-consciousness-expansion]] where the voyager struggles to return to ego-based reality after the dissolution experienced in the earlier bardos. This phase is characterized by confusion, disorientation, and a series of visions that test the voyager's capacity for recognition and liberation. The instructions in this phase are among the most critical in the manual, as they address the final moments before re-entry into ordinary consciousness.
+The Third Bardo, as described in *The [[leary-psychedelic-experience-bardo-mapping]]* (based on the *Tibetan Book of the Dead*), is the stage of [[psychedelic-consciousness-expansion]] where the voyager struggles to return to ego-based reality after the dissolution experienced in the earlier bardos. This phase is characterized by confusion, disorientation, and a series of visions that test the voyager"s capacity for recognition and liberation. The instructions in this phase are among the most critical in the manual, as they address the final moments before re-entry into ordinary consciousness.
 
 ## Signs of the Third Bardo
 
@@ -16,7 +16,7 @@ The voyager entering the Third Bardo may experience several characteristic pheno
 - **Confusion and bewilderment**: Questions about sanity arise. Familiar people, places, and relatives appear "as in a dream" or "through a glass darkly."
 - **Feelings of oppression**: Sensations of being squeezed between rocks or imprisoned in a cage may arise, signaling attempts to force a return to the ego.
 - **Dull gray light**: A murky, gray suffusion of all objects is another hallmark sign.
-- **Fish-out-of-water misery**: An intense sense of having been cast out of one's element, akin to a fish on red-hot embers.
+- **Fish-out-of-water misery**: An intense sense of having been cast out of one"s element, akin to a fish on red-hot embers.
 
 The key instruction throughout these experiences is to refrain from holding onto thoughts, to allow the mind to rest in its unmodified state, and to meditate on the oneness of all energy. Struggling to explain or analyze the experience is explicitly counseled against.
 
@@ -36,7 +36,7 @@ The text states: "Wherever the air pervades, consciousness pervades. Wherever co
 
 ## The All-Determining Influence of Thought
 
-In the Third Bardo, the voyager's mind has no focus or integrating force. It is light and continuously moving. Because of this state, any thought that occurs — positive or negative — wields enormous power. The voyager is described as "extremely suggestible."
+In the Third Bardo, the voyager"s mind has no focus or integrating force. It is light and continuously moving. Because of this state, any thought that occurs — positive or negative — wields enormous power. The voyager is described as "extremely suggestible."
 
 This section introduces the critical teaching that mood swings of great intensity will occur, "like the stretching and relaxing of a catapult," all determined by karma. The instructions are unequivocal:
 
@@ -80,7 +80,7 @@ The voyager is instructed to tranquilly meditate on their protective figure, und
 
 ### Second Method: Meditation on Good Games
 
-In this method, the voyager must form a single, firm resolve. Looking into a mirror, they will not see their usual self — a sign of being in the Third Bardo. The teaching emphasizes that "whatever you desire will come to pass" and warns against indecision: "If you give way to indecision for even a second, you will have to suffer misery for a long, long time." The instruction is to persevere with "good games" — one's highest aspirations and spiritual purposes.
+In this method, the voyager must form a single, firm resolve. Looking into a mirror, they will not see their usual self — a sign of being in the Third Bardo. The teaching emphasizes that "whatever you desire will come to pass" and warns against indecision: "If you give way to indecision for even a second, you will have to suffer misery for a long, long time." The instruction is to persevere with "good games" — one"s highest aspirations and spiritual purposes.
 
 ### Third Method: Meditation on Illusion
 
@@ -111,7 +111,7 @@ The progression through the Third Bardo follows a recognizable pattern: confusio
 
 ## Relationship to the Original Tibetan Buddhist Context
 
-Leary's *The Psychedelic Experience* adapts the *Tibetan Book of the Dead* (Bardo Thodol) for use in guided [[bardo-instruction-texts-psychedelic-sessions]]. In the original Buddhist context, the Third Bardo (Sidpa Bardo) refers to the period between [[shamanism-death-and-rebirth]], during which the consciousness wanders through various realms driven by karma before being drawn toward rebirth. Leary and his collaborators — Ralph Metzner and Richard Alpert — translated this framework into a model for understanding the stages of a psychedelic experience, with "re-entry" replacing "rebirth."
+Leary"s *The Psychedelic Experience* adapts the *Tibetan Book of the Dead* (Bardo Thodol) for use in guided [[bardo-instruction-texts-psychedelic-sessions]]. In the original Buddhist context, the Third Bardo (Sidpa Bardo) refers to the period between [[shamanism-death-and-rebirth]], during which the consciousness wanders through various realms driven by karma before being drawn toward rebirth. Leary and his collaborators — Ralph Metzner and Richard Alpert — translated this framework into a model for understanding the stages of a psychedelic experience, with "re-entry" replacing "rebirth."
 
 The instructions preserve the essential structure of the Tibetan original while adapting the language and context for [[shamanic-vs-western-psychedelic-healing]] voyagers. The four methods of preventing re-entry, for instance, correspond directly to traditional Tibetan Buddhist meditation practices for achieving liberation from the cycle of rebirth.
 

@@ -78,7 +78,7 @@ patterns show roughly 10% fish (about 6.1 kg per person per year) versus 90% red
 meat (about 60.1 kg). However, this ratio is shifting as aquaculture systems
 mature and demonstrate their capacity for efficient [[fungal-single-cell-protein-production]].
 
-Regional "people's markets" serve as distribution hubs for organic growers,
+Regional "people"s markets" serve as distribution hubs for organic growers,
 including those producing live fish. These markets provide direct producer-to-
 consumer access, keeping fish alive until purchase and ensuring freshness that
 commercial supply chains cannot match.

@@ -22,11 +22,11 @@ and the shaft begins to wilt.
 
 The type species, commonly called the common stinkhorn, grows up to 6 inches
 tall with a white shaft and green-black gleba. It has been recorded since
-Pliny the Elder's Natural History (1st century AD) and was pictured by John
+Pliny the Elder"s Natural History (1st century AD) and was pictured by John
 Gerard in his 17th-century herbal with the description: "Fungus virilis penis
 arecti forma, which wee English call Pricke Mushrum, taken from his forme."
 
-Charles Darwin's daughter Etty so despised stinkhorns that she mounted an
+Charles Darwin"s daughter Etty so despised stinkhorns that she mounted an
 "antifungal jihad," destroying specimens with gloves and a pointed stick to
 protect her female servants from their corrupting influence.
 

@@ -9,7 +9,7 @@ sources: [raw/papers/field-guide-to-the-psilocybin-mushroom.md]
 
 ## Silicon in Plant Nutrition — Beneficial Element
 
-[[silicon]] (Si) is the second most abundant element in Earth's crust, yet its role
+[[silicon]] (Si) is the second most abundant element in Earth"s crust, yet its role
 in plant nutrition was long overlooked. Unlike the 17 essential mineral nutrients
 required by all plants, silicon is classified as a **beneficial element**: it is
 not strictly necessary for completing the life cycle of every species, but it

@@ -25,7 +25,7 @@ Mycoforestry applies fungal principles to forest management and restoration:
 - Creating fungal networks that support forest health and resilience
 - Transforming forest "wastes" into valuable resources
 
-**Stamets' Techniques:**
+**Stamets" Techniques:**
 - Chipping woody debris and inoculating with fungi
 - Using spore-oil mixture for chain saws and wood chippers to spread fungi during forest management operations
 - Creating "myceliated wood chips" that increase soil depth and [[antimicrobial-compounds-mushroom-mycelium]] is the grand demolecularizer of plant fibers (lignin and cellulose), creating soil as an end consequence. My goal is to make use of fungi's appetite for wood chips to increase soil depth so that the soil has a greater [[fungal-competition-survival-contaminated-soils]]:

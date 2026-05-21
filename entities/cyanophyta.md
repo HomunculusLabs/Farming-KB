@@ -9,7 +9,7 @@ tags: [bacteria, cyanobacteria, nitrogen-fixation, photosynthesis, soil-microbio
 
 ## Description
 
-**Cyanophyta** (cyanobacteria, formerly called blue-green algae) is a phylum of photosynthetic bacteria that are among the most ancient and ecologically important organisms on Earth. Cyanobacteria are prokaryotes (not true algae) that were responsible for oxygenating Earth's atmosphere during the Great Oxidation Event approximately 2.4 billion years ago. In soil ecosystems, cyanobacteria are crucial primary producers and include many species capable of nitrogen fixation. They are key components of biological soil crusts in arid and semi-arid regions worldwide.
+**Cyanophyta** (cyanobacteria, formerly called blue-green algae) is a phylum of photosynthetic bacteria that are among the most ancient and ecologically important organisms on Earth. Cyanobacteria are prokaryotes (not true algae) that were responsible for oxygenating Earth"s atmosphere during the Great Oxidation Event approximately 2.4 billion years ago. In soil ecosystems, cyanobacteria are crucial primary producers and include many species capable of nitrogen fixation. They are key components of biological soil crusts in arid and semi-arid regions worldwide.
 
 ## Classification
 

@@ -1,5 +1,5 @@
 ---
-title: "Fukuoka's Principle of Non-Causality: Beyond Cause and Effect in Nature"
+title: "Fukuoka"s Principle of Non-Causality: Beyond Cause and Effect in Nature"
 tags:
   - concept
 ---
@@ -19,7 +19,7 @@ and lignin, and the soil arrived at a point of equilibrium.
 
 ## Rice Blast Disease: A Case Study
 
-Fukuoka's most extended analysis of non-causality examined rice blast
+Fukuoka"s most extended analysis of non-causality examined rice blast
 disease, one of the most common and destructive diseases of rice in
 Japan. The scientific view was straightforward: rice blast bacteria
 infiltrate the plant, causing disease; therefore, applying bactericides

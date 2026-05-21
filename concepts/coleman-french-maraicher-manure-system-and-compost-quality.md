@@ -11,7 +11,7 @@ sources:
 ## French Maraîcher Manure System and Compost Quality
 
 The 19th-century Parisian maraîchers (market gardeners) built the
-world's most productive [[water-harvesting-techniques-comparison]].
+world"s most productive [[water-harvesting-techniques-comparison]].
 
 ## Manure as Heat Engine
 
@@ -36,7 +36,7 @@ remarkable consensus given the variety of fertility sources available.
 
 The horse manure and straw mixture provided both carbon (from straw
 bedding) and nitrogen (from urine and manure), creating ideal
-conditions for thermophilic [[cervantes-chemical-fertilizers-guide]] don't do all that one
+conditions for thermophilic [[cervantes-chemical-fertilizers-guide]] don"t do all that one
 wants; they stimulate the plant and produce quantity, but to the
 detriment of quality."
 

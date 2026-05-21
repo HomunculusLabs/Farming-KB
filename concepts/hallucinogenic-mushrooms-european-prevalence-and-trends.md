@@ -7,7 +7,7 @@ tags:
 ## Overview
 
 The use of [[emcdda-brand-names-user-terms-smartshop-marketing]], internet sales,
-and a broader "return to nature" trend in drug preferences. The EMCDDA's 2006
+and a broader "return to nature" trend in drug preferences. The EMCDDA"s 2006
 thematic paper documented this emerging trend, finding that while overall prevalence
 remained considerably lower than cannabis, hallucinogenic mushrooms had achieved
 lifetime use rates among young people comparable to ecstasy in several European

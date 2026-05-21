@@ -1,5 +1,5 @@
 ---
-title: "Fukuoka's Argument on Soil Microbe–Fertilizer Complexity"
+title: "Fukuoka"s Argument on Soil Microbe–Fertilizer Complexity"
 aliases:
   - fertilizer recklessness argument
 related_concepts:

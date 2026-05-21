@@ -10,7 +10,7 @@ tags:
 date: 2026-05-11
 updated: 2026-05-11
 sources:
-  - Williamson G (2000). "The Richtersveld: South Africa's Hidden Treasure." Succulent Plant Studies 12: 88-103.
+  - Williamson G (2000). "The Richtersveld: South Africa"s Hidden Treasure." Succulent Plant Studies 12: 88-103.
 ---
 
 ## Overview

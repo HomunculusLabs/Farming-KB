@@ -43,9 +43,9 @@ documents in American [[mycology]].
   alike.
 - Reports included habitat descriptions, seasonal data, and distribution records across New York
   State and the northeastern [[dmt-containing-plants-united-states-halpern]].
-- Palmer relied on Peck's nomenclature for species like Boletus sub-tomentosus ("the olive-red
-  Boletus of Mr. Peck's catalogue").
-- Planned (as of Palmer's 1894 writing) to publish an illustrated work on American fungi, which
+- Palmer relied on Peck"s nomenclature for species like Boletus sub-tomentosus ("the olive-red
+  Boletus of Mr. Peck"s catalogue").
+- Planned (as of Palmer"s 1894 writing) to publish an illustrated work on American fungi, which
   Palmer enthusiastically anticipated.
 
 ## Relevance to Cultivation and Mycology

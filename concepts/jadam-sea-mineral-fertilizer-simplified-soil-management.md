@@ -20,9 +20,9 @@ Mineral leaching—the gradual loss of soluble minerals from soil through rainfa
 
 ### The Global View
 
-"Let us look at this problem of leaching from a 'global' view. Then it is easier to find out where the minerals taken out of my soil have eventually gone: the sea."
+"Let us look at this problem of leaching from a "global' view. Then it is easier to find out where the minerals taken out of my soil have eventually gone: the sea."
 
-JADAM's insight is elegantly simple: the minerals that leach from soils ultimately accumulate in the ocean. Therefore, sea water contains—approximately—the mineral profile that depleted soils need.
+JADAM"s insight is elegantly simple: the minerals that leach from soils ultimately accumulate in the ocean. Therefore, sea water contains—approximately—the mineral profile that depleted soils need.
 
 ### The Amniotic Fluid Connection
 
@@ -40,13 +40,13 @@ Sea water contains not only the major nutrients (Mg, Ca, K, P) essential for cro
 
 ### Leaf Mold Over Microbes
 
-"The more educated a farmer is, the more s/he thinks soil management is difficult. JADAM thinks differently. Choose leaf mold. Don't choose microbes. Use all. Good and bad are one. Do as nature does."
+"The more educated a farmer is, the more s/he thinks soil management is difficult. JADAM thinks differently. Choose leaf mold. Don"t choose microbes. Use all. Good and bad are one. Do as nature does."
 
 JADAM argues that soil management has been over-complicated by agricultural science. The solution is not to identify and culture specific beneficial microorganisms but to create conditions that favor the entire soil community—including organisms conventionally labeled "harmful."
 
 ### One Door Opens Ten
 
-"JADAM's method is easy because here, opening one door automatically opens ten other doors." The simplicity of the approach—leaf mold, microorganism solution, [[cover-crops]]—creates cascading benefits that address multiple soil problems simultaneously.
+"JADAM"s method is easy because here, opening one door automatically opens ten other doors." The simplicity of the approach—leaf mold, microorganism solution, [[cover-crops]]—creates cascading benefits that address multiple soil problems simultaneously.
 
 ## pH Management
 

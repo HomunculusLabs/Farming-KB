@@ -19,7 +19,7 @@ summary: >
 created: 2026-05-11
 ---
 
-## Fukuoka's Critique of Organic Farming as Self-Defeating
+## Fukuoka"s Critique of Organic Farming as Self-Defeating
 
 ## Overview
 
@@ -31,7 +31,7 @@ remains complicit in the paradigm of human control over nature.
 
 ## Core Argument: Intervention Is the Problem
 
-Fukuoka's central claim is that the distinction between chemical and organic
+Fukuoka"s central claim is that the distinction between chemical and organic
 agriculture is superficial. Both operate from the same assumption — that nature
 requires human management to produce food. Whether the farmer spreads synthetic
 fertilizer or composted manure, the act of spreading anything represents a
@@ -45,7 +45,7 @@ Fukuoka draws a sharp distinction between two frequently conflated approaches:
 
 - **Natural farming (do-nothing):** Allowing natural systems to function
   without human management. Seeds are broadcast, crops grow alongside weeds,
-  and the farmer's role is minimal. Nature is the primary agricultural agent.
+  and the farmer"s role is minimal. Nature is the primary agricultural agent.
 
 - **Organic farming (do-something-different):** Replacing synthetic inputs
   with organic ones — compost instead of chemical fertilizer, biological pest
@@ -124,7 +124,7 @@ those techniques unnecessary. The techniques become just another set of inputs.
 
 ## Relevance to Modern Movements
 
-Fukuoka's critique remains relevant to permaculture and [[biochar]].
+Fukuoka"s critique remains relevant to permaculture and [[biochar]].
 While sharing his ecological commitments, many practitioners fall into the same
 patterns — elaborate composting, intensive soil management, complex planting
 schemes requiring ongoing intervention. The most thoughtful elements of

@@ -4,7 +4,7 @@ tags: [entomology, shellac, lac-insect, natural-resin, kerria-lacca, sustainable
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "Tandon, P.L. (1995). 'Biology and Ecology of Lac Insects.' Annual Review of Entomology."
+  - "Tandon, P.L. (1995). "Biology and Ecology of Lac Insects.' Annual Review of Entomology."
 ---
 
 ## Lac Insect and Shellac — Natural Resin Production

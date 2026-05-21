@@ -22,7 +22,7 @@ An ethical vegetable-garden seed business is one that:
 3. **Conducts variety trials** to evaluate performance before adding varieties to the catalog
 4. **Sources seeds adapted to the climatic zone** being served by the catalog
 
-These four criteria form the foundation for evaluating any seed company's integrity.
+These four criteria form the foundation for evaluating any seed company"s integrity.
 
 ## The Germination Standard
 

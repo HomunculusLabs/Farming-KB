@@ -15,7 +15,7 @@ type: concept
 Stinkhorn fungi and their relatives in the gasteromycete group represent some of
 the most bizarre and flamboyant organisms in the fungal kingdom. Members of the
 Basidiomycota — the same phylum that includes common [[adaptive-anemotropism-spore-dispersal-optimization-mushroom-evolution]]. The
-group encompasses phallic fungi, cage fungi, puffballs, earth-stars, and bird's
+group encompasses phallic fungi, cage fungi, puffballs, earth-stars, and bird"s
 nest fungi, collectively representing what [[bloomfield-stinkhorns-phallus-impudicus-osmotic-fruiting]]*, the shameless penis. Its
 life cycle begins underground as a white egg, somewhat larger than a golf ball,
 attached to the soil by a branched umbilical cord of mycelium. Inside the egg,
@@ -63,7 +63,7 @@ arms at their tips and dangles a reeking lantern inside the resulting vault.
 The Maori people of New Zealand accorded the cage fungus *Ileodictyon* nine
 different names and barbecued its eggs. The detached cage, blown about on
 surrounding grass, was called "the feces of ghosts or of the stars." The
-resemblance between the cage structure and [[buckminster-fuller]]'s geodesic
+resemblance between the cage structure and [[buckminster-fuller]]"s geodesic
 domes reflects the strength offered by lightweight polyhedral geometry —
 valuable for fungi that must conserve [[stinkhorns-and-cage-fungi]] fungi. Weakening tissue
 along four or five tracks running the length of the receptacle would cause the
@@ -108,7 +108,7 @@ precisely adapted machines for ensuring reproductive success.
 Stinkhorns have been impossible to ignore throughout history. Pliny the Elder
 featured them in his *[[stropharia-cubensis-identification-and-natural-history]]* (first century AD). John Gerard's
 seventeenth-century herbal pictured them as "Pricke Mushrum, taken from his
-forme." Charles Darwin's daughter Etty so despised stinkhorns that she mounted
+forme." Charles Darwin"s daughter Etty so despised stinkhorns that she mounted
 an "antifungal jihad" with gloves and a pointed stick, burning specimens in
 secret to protect the purity of thought among her female servants.
 

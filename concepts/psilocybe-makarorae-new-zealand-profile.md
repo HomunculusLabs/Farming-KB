@@ -21,7 +21,7 @@ Guzmán et al. (1998) noted that P. makarorae from New Zealand is closely
 related to species from Thailand, which are also members of Section Mexicanae.
 This relationship supports the hypothesis of long-distance dispersal or ancient
 Gondwanan [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]] of the World, confirming
-  the species' status as a recognized psychoactive mushroom
+  the species" status as a recognized psychoactive mushroom
 
 The species name "makarorae" derives from the Makarora region of New Zealand's
 South Island, indicating the type locality where the species was first collected

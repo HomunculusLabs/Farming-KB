@@ -63,7 +63,7 @@ Snakeheads are highly invasive when introduced outside their native range. Their
 
 ## Sources
 
-- [[bill-mollison]], *Permaculture: A Designers' Manual*, Chapter 13
+- [[bill-mollison]], *Permaculture: A Designers" Manual*, Chapter 13
 - General aquaculture references
 
 ## Air-Breathing Adaptation

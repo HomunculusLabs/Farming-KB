@@ -63,7 +63,7 @@ Mescaline (3,4,5-trimethoxyphenethylamine) is a phenethylamine alkaloid. Effecti
 
 ## Grafting for Accelerated Growth
 
-Peyote's slow growth rate makes grafting attractive. Pereskiopsis spathulata or P. bleo are ideal rootstocks, providing 10x or more growth acceleration.
+Peyote"s slow growth rate makes grafting attractive. Pereskiopsis spathulata or P. bleo are ideal rootstocks, providing 10x or more growth acceleration.
 
 1. Cut the top off a Pereskiopsis rootstock at a clean angle
 2. Cut the scion (peyote button or Trichocereus tip) to match

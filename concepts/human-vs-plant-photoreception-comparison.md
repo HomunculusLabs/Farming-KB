@@ -30,10 +30,10 @@ space.
 ## Plant Photoreception
 
 Plants detect light through a completely different system of photoreceptor proteins that are
-not concentrated in a single organ but distributed throughout the plant's tissues. Plant
+not concentrated in a single organ but distributed throughout the plant"s tissues. Plant
 photoreception serves different purposes than human vision — not image formation but
 [[canary-grass-phototropism-model-organism]] in the 1880s
-demonstrated that the "eyes" for phototropism are located at the tip of the plant's shoot,
+demonstrated that the "eyes" for phototropism are located at the tip of the plant"s shoot,
 which detects light direction and sends a signal to the stem to bend accordingly.
 
 - **Phytochromes**: These remarkable photoreceptors respond to red and far-red light and serve

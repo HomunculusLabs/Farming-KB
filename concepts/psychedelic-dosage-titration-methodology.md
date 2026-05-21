@@ -15,7 +15,7 @@ sources:
 
 ## Overview
 
-Dosage titration — the systematic process of determining a drug's active dose range through incremental testing — is a cornerstone of the Shulgin methodology documented throughout [[harm-reduction-guide]] because the active dose of a novel compound cannot be predicted with certainty from its chemical structure alone. Even closely related analogs can differ dramatically in potency, as Shulgin demonstrated repeatedly throughout his research program.
+Dosage titration — the systematic process of determining a drug"s active dose range through incremental testing — is a cornerstone of the Shulgin methodology documented throughout [[harm-reduction-guide]] because the active dose of a novel compound cannot be predicted with certainty from its chemical structure alone. Even closely related analogs can differ dramatically in potency, as Shulgin demonstrated repeatedly throughout his research program.
 
 ## The Titration Process
 

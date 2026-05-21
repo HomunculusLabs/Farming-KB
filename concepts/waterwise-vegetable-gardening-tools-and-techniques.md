@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-Water-efficient vegetable gardening encompasses a comprehensive set of practices, tools, and strategies aimed at maximizing crop production while minimizing water consumption. Steve Solomon's *[[gardening-when-it-counts]]* and *Waterwise Vegetables* emphasize that thoughtful garden design, appropriate tool selection, and disciplined watering schedules can dramatically reduce water use without sacrificing yield. This is especially critical in regions prone to drought or where municipal water supplies are limited.
+Water-efficient vegetable gardening encompasses a comprehensive set of practices, tools, and strategies aimed at maximizing crop production while minimizing water consumption. Steve Solomon"s *[[gardening-when-it-counts]]* and *Waterwise Vegetables* emphasize that thoughtful garden design, appropriate tool selection, and disciplined watering schedules can dramatically reduce water use without sacrificing yield. This is especially critical in regions prone to drought or where municipal water supplies are limited.
 
 ## Core Watering Strategies
 

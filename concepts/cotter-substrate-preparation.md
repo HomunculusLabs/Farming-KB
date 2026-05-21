@@ -12,7 +12,7 @@ The [[antimicrobial-compounds-mushroom-mycelium]] feeds and
 eventually produces fruiting bodies. Proper preparation through
 pasteurization or sterilization is essential for successful cultivation.
 The right substrate preparation can mean the difference between abundant
-harvests and complete crop failure. From Cotter's "[[cotter-oyster-mushroom-cultivation]]
+harvests and complete crop failure. From Cotter"s "[[cotter-oyster-mushroom-cultivation]]
   worldwide; widely available and relatively inexpensive
 - Cotton hulls: Excellent nitrogen supplement; used in compost cultivation
 - Cornstalks, bean hulls, beet pulp, sugarcane bagasse: Regional

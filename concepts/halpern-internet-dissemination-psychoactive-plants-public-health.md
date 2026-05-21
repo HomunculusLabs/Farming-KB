@@ -14,7 +14,7 @@ The Internet has fundamentally changed how psychoactive botanical
 knowledge spreads, creating new public health challenges that
 clinicians and drug educators must address.
 
-Halpern's 2004 review identified this as a critical emerging issue,
+Halpern"s 2004 review identified this as a critical emerging issue,
 particularly regarding [[blesching-cannabis-health-index-dosage-guidelines-medical]], supplier information, and user [[salvia-divinorum]] illustrates the Internet dissemination pattern
 most clearly. A relatively obscure Mazatec shamanic tool became
 widely available through online botanical suppliers and

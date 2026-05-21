@@ -9,9 +9,9 @@ sources:
 ---
 ## Fukuoka Do-Nothing Farming and Spiritual Life
 
-Book V of *The One-Straw Revolution* explores the spiritual dimension of Fukuoka's philosophy -- the paradox of advocating "do-nothing" farming while recognising the hard physical work it actually requires, and his [[natural-farming-philosophy]] in miniature -- a community living close to nature, growing [[fukuoka-night-heron-revelation-origin-story]] cried sharply and flew away. In that instant: "All my doubts and the gloomy mist of my confusion vanished. Everything I had held in firm conviction was swept away with the wind. 'In this world there is nothing at all.'"
+Book V of *The One-Straw Revolution* explores the spiritual dimension of Fukuoka"s philosophy -- the paradox of advocating "do-nothing" farming while recognising the hard physical work it actually requires, and his [[natural-farming-philosophy]] in miniature -- a community living close to nature, growing [[fukuoka-night-heron-revelation-origin-story]] cried sharply and flew away. In that instant: "All my doubts and the gloomy mist of my confusion vanished. Everything I had held in firm conviction was swept away with the wind. "In this world there is nothing at all.'"
 
-The next day he resigned from his job, wandered Japan for a time, and eventually returned to his father's farm to put his realization into practice. This experience, which he calls understanding "nothing," became the foundation of everything that followed.
+The next day he resigned from his job, wandered Japan for a time, and eventually returned to his father"s farm to put his realization into practice. This experience, which he calls understanding "nothing," became the foundation of everything that followed.
 
 ## Discriminating vs. Non-Discriminating Knowledge
 
@@ -29,7 +29,7 @@ He illustrates this with a story about children: "People think they understand t
 
 ## Who Is the Fool?
 
-Fukuoka tells the story of children choosing their leader: not the clever one who tricks others out of snacks, but the one "who laughs happily by the side of the road." He uses Aesop's fable of the frogs: when they asked God for a king, first they got a log (good), then they asked for a greater king and got a crane that ate them all.
+Fukuoka tells the story of children choosing their leader: not the clever one who tricks others out of snacks, but the one "who laughs happily by the side of the road." He uses Aesop"s fable of the frogs: when they asked God for a king, first they got a log (good), then they asked for a greater king and got a crane that ate them all.
 
 His prescription for leadership: "A dumb log" -- someone like daruma-san, the weighted toy that always sits back up when pushed over. "Knowing that you should keep your hands and feet folded, he scowls silently at the people who want to stick theirs out."
 
@@ -37,11 +37,11 @@ The title of the chapter says it all: "Foolishness Comes Out Looking Smart." Fuk
 
 ## Against Development
 
-"Why do you have to develop? If economic growth rises from 5% to 10%, is happiness going to double? What's wrong with a growth rate of 0%? Isn't this a rather stable kind of economics? Could there be anything better than living simply and taking it easy?"
+"Why do you have to develop? If economic growth rises from 5% to 10%, is happiness going to double? What"s wrong with a growth rate of 0%? Isn't this a rather stable kind of economics? Could there be anything better than living simply and taking it easy?"
 
-Fukuoka's critique: "The more people do, the more society develops, and the more problems arise. The increasing desolation of nature, the exhaustion of resources, the uneasiness and disintegration of the human spirit, all have been brought about by humanity's trying to accomplish something."
+Fukuoka"s critique: "The more people do, the more society develops, and the more problems arise. The increasing desolation of nature, the exhaustion of resources, the uneasiness and disintegration of the human spirit, all have been brought about by humanity"s trying to accomplish something."
 
-He connects this directly to farming: "These thirty years have taught me that farmers would have been better off doing almost nothing at all." The farmer became too busy when people began to investigate the world and decided it would be "good" to do this or that. All of Fukuoka's research went in the opposite direction: "How about not doing this? How about not doing that?"
+He connects this directly to farming: "These thirty years have taught me that farmers would have been better off doing almost nothing at all." The farmer became too busy when people began to investigate the world and decided it would be "good" to do this or that. All of Fukuoka"s research went in the opposite direction: "How about not doing this? How about not doing that?"
 
 ## On Life and Death
 

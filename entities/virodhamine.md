@@ -32,7 +32,7 @@ agonist profile of other endocannabinoids.
 - **Classification:** Endocannabinoid (O-linked ethanolamide)
 - **Molecular weight:** 347.5 g/mol
 - **Structure:** Arachidonic acid linked to ethanolamine via an
-  oxygen atom (ester bond), as opposed to anandamide's nitrogen
+  oxygen atom (ester bond), as opposed to anandamide"s nitrogen
   linkage (amide bond)
 - **Name origin:** "Virodha" is a Sanskrit word meaning
   "opposition" or "hindrance," reflecting its antagonist properties

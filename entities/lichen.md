@@ -45,7 +45,7 @@ Lichens are composite organisms arising from a mutualistic symbiotic association
 - *Cladonia* — reindeer lichens (*C. rangiferina*, *C. stellaris*), dominant in boreal ecosystems; critical winter forage
 - *Xanthoria* — pollution-tolerant, bright orange pioneer species on rocks and nutrient-enriched surfaces
 - *Parmelia* — foliose lichens common on tree bark and rocks in temperate regions
-- *Usnea* — fruticose "old man's beard" lichens with antibiotic properties (usnic acid)
+- *Usnea* — fruticose "old man"s beard" lichens with antibiotic properties (usnic acid)
 - *Lobaria* — nitrogen-fixing cyanolichens of old-growth forests; indicators of forest continuity
 - *Umbilicaria* — rock tripe, edible in emergencies; historically important survival food
 - *Peltigera* — dog lichens; large foliose cyanolichens, important nitrogen fixers

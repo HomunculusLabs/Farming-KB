@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-The partial veil (also called the annular veil or velum partiale) in *[[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]]* and other agaric mushrooms may serve a previously underappreciated function: protecting the uppermost and unexpanded portion of the stipe from wind and light during the early phases of directed growth, prior to the final reorientation of the cap for spore release. This hypothesis, proposed by Badham (1982) in the context of tropism research, connects the veil's physical presence to the mushroom's two-phase growth strategy.
+The partial veil (also called the annular veil or velum partiale) in *[[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]]* and other agaric mushrooms may serve a previously underappreciated function: protecting the uppermost and unexpanded portion of the stipe from wind and light during the early phases of directed growth, prior to the final reorientation of the cap for spore release. This hypothesis, proposed by Badham (1982) in the context of tropism research, connects the veil"s physical presence to the mushroom's two-phase growth strategy.
 
 ## The Two-Phase Growth Model
 

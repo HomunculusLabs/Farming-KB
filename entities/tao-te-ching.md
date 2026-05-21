@@ -25,7 +25,7 @@ The Tao Te Ching (Chinese: 道德經, "The Book of the Way and Virtue") is a fou
 - Leary also lists Lao Tse as one of the ideal contemplative figures for maintaining non-game ecstasy during psychedelic experiences
 
 ## Role in the Psychedelic Context
-Jung treated the Tao Te Ching as a "great Rorschach inkblot" — a projective text whose interpretation reveals the reader's own consciousness level. In the psychedelic context, this quality makes it an ideal preparatory text: its paradoxical, non-dualistic language resonates differently during expanded consciousness states. The Taoist concept of wu-wei (non-action) is essentially the same principle Leary advocates throughout the psychedelic experience: relax, don't control, float with the current, accept whatever arises.
+Jung treated the Tao Te Ching as a "great Rorschach inkblot" — a projective text whose interpretation reveals the reader"s own consciousness level. In the psychedelic context, this quality makes it an ideal preparatory text: its paradoxical, non-dualistic language resonates differently during expanded consciousness states. The Taoist concept of wu-wei (non-action) is essentially the same principle Leary advocates throughout the psychedelic experience: relax, don't control, float with the current, accept whatever arises.
 
 ## Relevance to Cultivation and Mycology
 The Tao Te Ching's emphasis on natural process and non-interference has philosophical parallels with organic cultivation methods. The principle of working with natural processes rather than against them informs [[sustainable-mushroom-cultivation]]. In psychedelic session preparation, the Tao Te Ching provides accessible language for the difficult concept of "letting go" during challenging experiences.

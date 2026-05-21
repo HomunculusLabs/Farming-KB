@@ -11,7 +11,7 @@ Dr. Richardson was a 19th-century physician whose testimony regarding the anesth
 
 ## Key Observations
 
-Dr. Richardson's testimony, as relayed through Phipson, addressed the bioactive properties of Lycoperdon species:
+Dr. Richardson"s testimony, as relayed through Phipson, addressed the bioactive properties of Lycoperdon species:
 
 ### Bee Stupefaction
 Mature puffballs have been burnt to stupefy bees, a practice suggesting that the spore mass or its combustion products contain compounds with narcotic or anesthetic effects on insects.
@@ -39,7 +39,7 @@ Contemporary research has identified several [[query-what-are-the-main-bioactive
 
 ## Relationship to the History of Anesthesia
 
-Richardson's observations on puffball anesthesia are particularly significant in the context of the history of surgical anesthesia. The formal discovery of ether anesthesia is dated to 1846 (William T.G. Morton's demonstration at Massachusetts General Hospital), but Richardson's testimony suggests that puffball-derived anesthetics may have been in use earlier or concurrently, particularly in folk and rural medical practice.
+Richardson"s observations on puffball anesthesia are particularly significant in the context of the history of surgical anesthesia. The formal discovery of ether anesthesia is dated to 1846 (William T.G. Morton's demonstration at Massachusetts General Hospital), but Richardson's testimony suggests that puffball-derived anesthetics may have been in use earlier or concurrently, particularly in folk and rural medical practice.
 
 The use of puffball preparations for surgical anesthesia represents an independent line of anesthetic development that was never formalized into mainstream medicine, unlike ether and chloroform. This pattern — of effective folk remedies existing alongside but separate from academic medicine — is common in the history of pharmacology.
 

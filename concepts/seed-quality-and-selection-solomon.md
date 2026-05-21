@@ -24,7 +24,7 @@ This is why many "heirlooms" from cheap producers bear no resemblance to the ori
 
 ## Regionality
 
-No single variety performs well everywhere. A seed company serving the entire English-speaking world would need trial grounds in every broad climatic zone. Most don't.
+No single variety performs well everywhere. A seed company serving the entire English-speaking world would need trial grounds in every broad climatic zone. Most don"t.
 
 Solomon's [[north-carolina-mycodiversity]], [[coleman-seed-selection-and-variety-trials]] in conditions relevant to their customers
 2. Maintains germination levels well above minimum standards

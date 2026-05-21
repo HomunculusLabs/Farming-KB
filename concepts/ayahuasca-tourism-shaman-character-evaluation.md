@@ -8,7 +8,7 @@ topics: [ayahuasca, tourism, shamanism, peru, ethics, safety]
 
 ## Overview
 
-[[ayahuasquero-practitioner-profiles-ethics-ucayali-region]] revealed that evaluating a shaman's character is one of the most difficult and consequential tasks facing ayahuasca tourists. The article documents encounters with multiple practitioners demonstrating a wide range of personal integrity, from honorable community healers to opportunistic hustlers preying on foreign visitors.
+[[ayahuasquero-practitioner-profiles-ethics-ucayali-region]] revealed that evaluating a shaman"s character is one of the most difficult and consequential tasks facing ayahuasca tourists. The article documents encounters with multiple practitioners demonstrating a wide range of personal integrity, from honorable community healers to opportunistic hustlers preying on foreign visitors.
 
 ## The Problem of Finding a "Good" Ayahuasquero
 
@@ -18,12 +18,12 @@ Despite these character flaws, B continued to host ceremonies for both Peruvians
 
 ### The Visiting Training Shamans
 
-Two ayahuasqueros visited B's group for a two-week training period:
+Two ayahuasqueros visited B"s group for a two-week training period:
 
 - One was described as "a sweet and wonderful guy" with genuine healing intent
 - His partner, however, "always hustled me for spare change"
 - This pairing demonstrates that even within training relationships, character varies dramatically
-- The contrast suggests that ethical conduct is individual rather than institutional in [[ayahuasca-ceremonial-economics-price-disparity-peru]] raises ethical questions about cultural extraction and whether traditional spiritual practices are being commodified for Western consumption. The income differential also creates social tensions within communities where one family's ayahuasca tourism income can dwarf their neighbors' entire livelihoods.
+- The contrast suggests that ethical conduct is individual rather than institutional in [[ayahuasca-ceremonial-economics-price-disparity-peru]] raises ethical questions about cultural extraction and whether traditional spiritual practices are being commodified for Western consumption. The income differential also creates social tensions within communities where one family"s ayahuasca tourism income can dwarf their neighbors' entire livelihoods.
 
 ### "E" — The Honorable Practitioner (San Francisco)
 

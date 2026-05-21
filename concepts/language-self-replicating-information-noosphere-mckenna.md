@@ -27,7 +27,7 @@ informational entity with properties analogous to biological life:
 - **Mutation and evolution**: Languages change, diversify, and
   evolve over time, developing new forms and capabilities
 - **Coding and templating**: Language encodes information in symbolic
-  form, analogous to DNA's encoding of biological information
+  form, analogous to DNA"s encoding of biological information
 - **Testing and re-testing**: Ideas encoded in language are
   continuously tested against reality through human action and
   experience
@@ -74,7 +74,7 @@ biosphere is the planetary environment of life.
 
 ## Language Moving Through Us
 
-A striking aspect of McKenna's thesis is the reversal of the usual
+A striking aspect of McKenna"s thesis is the reversal of the usual
 assumption about language. Rather than humans possessing language,
 McKenna suggested that language possesses humans:
 

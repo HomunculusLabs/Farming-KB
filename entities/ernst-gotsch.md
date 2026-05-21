@@ -16,7 +16,6 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Fonseca M.L. (2020). "comparison-hugelkultur-vs-syntropic-agriculture as a Regenerative Strategy for Degraded Pastures in the Brazilian Atlantic Forest." Agroforestry Systems, 94(4), 1485-1497.---
----
 
 ## Ernst Götsch
 

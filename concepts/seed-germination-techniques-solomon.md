@@ -39,7 +39,7 @@ Two factors most affect field germination:
 
 ## Compost Cover Improvement
 
-Instead of covering seeds with the bed's regular soil, fill the furrow with fine compost:
+Instead of covering seeds with the bed"s regular soil, fill the furrow with fine compost:
 - Compost holds far more moisture than even clay
 - Compost almost never forms a crust that blocks emergence
 - Compost presents no obstacle to the emerging shoot

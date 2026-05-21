@@ -37,7 +37,7 @@ sources: ["Shulgin - PIHKAL"]
 > conversations at one point during the plateau and had to ask what I
 > was talking about. I tested my visual field on a painting and with
 > sufficient concentration I could get the center part to wiggle a
-> little. I didn't try to observe anything with my eyes closed. I feel
+> little. I didn"t try to observe anything with my eyes closed. I feel
 > that there was something physical about the eyes. In the evening,
 > after-images were quite intense, and the next day my eyes seemed tired
 > or bothered. What can I say? The material was pleasant and I

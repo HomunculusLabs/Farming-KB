@@ -26,7 +26,7 @@ broccoli, and oyster plant.
 
 ## Remarkable Reports from Users
 
-When Cox's Electroculture Corporation began selling the product in
+When Cox"s Electroculture Corporation began selling the product in
 ten-pound cans in 1970, users reported not only much larger yields but
 far better flavor in their vegetables. This corroborated earlier
 reports from Lemstrom's experiments with strawberries and Sir Oliver

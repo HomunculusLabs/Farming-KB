@@ -28,7 +28,7 @@ by malevolent [[metzner-spirit-beings-multiple-realities-entheogens]].
 ### Nature
 
 Muka dau is conceived as a spiritual substance that literally
-resides within the shaman's body. It is received from spirit
+resides within the shaman"s body. It is received from spirit
 familiars during the shaman's initiation and training process.
 The exact mechanism of transfer from spirit to shaman is not
 fully documented in the ethnographic record.
@@ -60,7 +60,7 @@ two specialist types:
   received from spirit familiars. Consulted only when herbal
   treatment fails.
 
-The two systems are complementary: the shaman's muka dau may
+The two systems are complementary: the shaman"s muka dau may
 need to be cleared from the patient by the herbalist's sweet
 medicine after the supernatural causative agent has been
 neutralized.

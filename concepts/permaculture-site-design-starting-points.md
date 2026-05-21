@@ -12,7 +12,7 @@ The greatest difficulty in any [[permaculture-design]] is determining where to s
 
 ### Step One: Property Boundaries
 
-On a large property, boundaries may need to be flown. [[maps]] and photography are useful for records and orientation but are no substitute for walking the land. The most important tool is the designer's own body — senses for judging wind, temperature, evaporation, and slope. Observation is the best tool; experience is the second best.
+On a large property, boundaries may need to be flown. [[maps]] and photography are useful for records and orientation but are no substitute for walking the land. The most important tool is the designer"s own body — senses for judging wind, temperature, evaporation, and slope. Observation is the best tool; experience is the second best.
 
 ### Step Two: Experience the Site
 

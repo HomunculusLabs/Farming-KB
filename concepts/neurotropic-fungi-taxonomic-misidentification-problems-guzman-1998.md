@@ -21,7 +21,7 @@ morphologically. The true *P. pseudobullacea* was excluded from the list of
 neurotropic fungi.
 
 Similarly, Høiland (1978) reported psilocybin in *P. atrobrunnea*, but
-Guzmán determined that Høiland's fungus was probably a different species with
+Guzmán determined that Høiland"s fungus was probably a different species with
 similar appearance, such as *P. coprinifacies* or *P. mairei*, since *P.
 atrobrunnea* is not a neurotropic fungus.
 

@@ -11,7 +11,7 @@ sources: [raw/papers/shulgin-a-pihkal.md]
 
 ## Overview
 
-The concepts of "set" (the user's mindset, expectations, and psychological state) and "setting" (the physical and social environment) are fundamental to understanding psychedelic experience. While these concepts were most explicitly articulated by Timothy Leary and others in the 1960s, they are implicitly woven throughout Shulgin's PIHKAL documentation.
+The concepts of "set" (the user"s mindset, expectations, and psychological state) and "setting" (the physical and social environment) are fundamental to understanding psychedelic experience. While these concepts were most explicitly articulated by Timothy Leary and others in the 1960s, they are implicitly woven throughout Shulgin"s PIHKAL documentation.
 
 ## Set: Internal Factors
 

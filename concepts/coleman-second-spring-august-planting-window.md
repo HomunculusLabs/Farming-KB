@@ -1,5 +1,5 @@
 ---
-title: "The Second Spring: Coleman's August-to-October Planting Window for Winter Crops"
+title: "The Second Spring: Coleman"s August-to-October Planting Window for Winter Crops"
 tags:
   - concept
 ---
@@ -10,7 +10,7 @@ Eliot Coleman coined the term "second spring" to describe the period from
 August 1 through late October when winter-harvest crops are established at
 Four Season Farm. This planting window is the foundation of the entire
 [[coleman-persephone-months-winter-day-length]]" — the period when day length drops below
-ten hours and plant growth effectively ceases. In Coleman's Zone 5 Maine
+ten hours and plant growth effectively ceases. In Coleman"s Zone 5 Maine
 location, the Persephone months run from approximately November 10 through
 February 1. Plants must be nearly mature by November 10 if they are to
 provide harvest through the winter.

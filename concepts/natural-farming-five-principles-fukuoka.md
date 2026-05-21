@@ -21,7 +21,7 @@ Japan, consistently achieving yields comparable to or exceeding those of
 conventional [[cannabis-chemical-fertilizers]] have only been considered indispensable for the last fifty
 years or so. While the ancient practice of using manure and compost can speed
 crop growth, it also depletes the land from which the organic material is taken.
-In Fukuoka's view, soil enriches itself year in and year out without any human
+In Fukuoka"s view, soil enriches itself year in and year out without any human
 intervention. One gram of soil on his farm contains approximately 100 million
 nitrogen-fixing bacteria and other soil-enriching microbes.
 

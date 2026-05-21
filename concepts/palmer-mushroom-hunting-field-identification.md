@@ -9,10 +9,10 @@ related: [palmer-edible-mushrooms-north-america, palmer-poisonous-mushrooms-dead
 type: concept
 updated: 2026-04-26
 ---
-## Mushroom Hunting and Field Identification Techniques Palmer's *About Mushrooms* (1894) is one of the earliest American works offering practical guidance for identifying wild mushrooms. Written over twenty years of personal foraging experience in New England, it presents a field classification system designed for amateurs rather than trained botanists. ## Palmer's Four Grand Divisions Palmer proposed an original classification of fleshy fungi into four groups based on the spore-bearing surface found under the cap. He advised beginners to examine any toadstool by inverting it and observing one of four structures: 1. **[[psilocybin-mushroom-identification]], like distinguishing art or produce, requires cultivated perception rather than any magic test:
+## Mushroom Hunting and Field Identification Techniques Palmer"s *About Mushrooms* (1894) is one of the earliest American works offering practical guidance for identifying wild mushrooms. Written over twenty years of personal foraging experience in New England, it presents a field classification system designed for amateurs rather than trained botanists. ## Palmer's Four Grand Divisions Palmer proposed an original classification of fleshy fungi into four groups based on the spore-bearing surface found under the cap. He advised beginners to examine any toadstool by inverting it and observing one of four structures: 1. **[[psilocybin-mushroom-identification]], like distinguishing art or produce, requires cultivated perception rather than any magic test:
 
 - "No one should attempt to gather mushrooms who has not the power to fix in his mind the exact characteristics of any specimen."
-- He compared the skill to a jeweler detecting imitation gems, or a child learning kitchen-lore at the mother's apron-string.
+- He compared the skill to a jeweler detecting imitation gems, or a child learning kitchen-lore at the mother"s apron-string.
 - The "intuition of woman" was, in his experience, particularly valuable in this study.
 - Children could be readily taught to discriminate between good and bad fungi, and he described a ten-year-old girl who was his "most promising scholar."
 
@@ -35,7 +35,7 @@ Palmer devoted considerable space to refuting widely-circulated identification r
 
 His conclusion: "No test of any kind, in form, shape, color, basis of growth, or experimental action, will distinguish healthful from harmful fungi." Each species must be learned individually.
 
-## Palmer's Testing Method
+## Palmer"s Testing Method
 
 For experienced foragers testing a new species, Palmer described a gradual approach: identify the mushroom so as never to confuse it with its nearest neighbor, then broil a small piece with salt and butter (no pepper) and eat it on an empty stomach. Increase the quantity in successive experiments. The non-edible fungus typically "discloses its character over the charcoal" through nauseous slime, grassy odor, or an instinctive aversion to a second bite.
 
@@ -57,7 +57,7 @@ Palmer calls puff-balls "the safest mushrooms for the beginner" and provides the
 - All white puff-balls may be safely used if cooked at once -- they change very rapidly after gathering
 - "There is no poisonous fungus resembling them" -- the enclosed spore structure is unique among common fungi
 
-## Palmer's Personal Experience with Poisoning
+## Palmer"s Personal Experience with Poisoning
 
 Palmer did not write as a detached theorist. He recounts his own illness from eating a favorite Boletus, the *sud-tomentosus* (olive-red Boletus), noting that he was "perfectly sure of the culprit, because the very specimens by which I was made ill were plucked from the matrix from whence I had eaten some bushels of the plant." This personal experience reinforced his cautionary message: conditions of growth and individual specimen variation can make an ordinarily edible species dangerous.
 

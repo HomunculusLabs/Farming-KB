@@ -21,7 +21,7 @@ type: query
 
 ## How Do Phytohormones Regulate Plant Growth and Stress Responses?
 
-Phytohormones are the chemical messengers that coordinate every aspect of a plant's life — from the first cell division in a germinating seed to the final stages of fruit ripening and leaf senescence. Unlike animals, plants lack a nervous system and a circulatory system, so they rely entirely on these small molecules to sense their environment and respond appropriately. This guide explains how phytohormones regulate growth and stress responses, with practical takeaways for organic growers.
+Phytohormones are the chemical messengers that coordinate every aspect of a plant"s life — from the first cell division in a germinating seed to the final stages of fruit ripening and leaf senescence. Unlike animals, plants lack a nervous system and a circulatory system, so they rely entirely on these small molecules to sense their environment and respond appropriately. This guide explains how phytohormones regulate growth and stress responses, with practical takeaways for organic growers.
 
 ## The Five Classical Hormones and phytohormones and plant growth regulation
 

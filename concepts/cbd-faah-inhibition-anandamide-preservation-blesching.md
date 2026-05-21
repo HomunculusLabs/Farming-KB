@@ -8,7 +8,7 @@ tags: [cbd, anandamide, faah, endocannabinoid, inhibition, neuroprotection, anti
 
 ## Overview
 
-One of the most significant pharmacological discoveries about cannabidiol (CBD) is its ability to inhibit fatty acid amide hydrolase (FAAH), the enzyme responsible for breaking down anandamide — the body's endogenous "bliss molecule." Rather than directly activating [[blesching-cannabis-appetite-regulation-ghrelin-leptin]]
+One of the most significant pharmacological discoveries about cannabidiol (CBD) is its ability to inhibit fatty acid amide hydrolase (FAAH), the enzyme responsible for breaking down anandamide — the body"s endogenous "bliss molecule." Rather than directly activating [[blesching-cannabis-appetite-regulation-ghrelin-leptin]]
 - Anti-inflammatory immune modulation
 - Potential anti-cancer activity through apoptosis induction
 - Involvement in memory formation and extinction

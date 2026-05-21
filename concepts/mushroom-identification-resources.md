@@ -57,7 +57,7 @@ Growing on wood, soil, dung, leaf litter, or grass. Tree associations (mycorrhiz
 |---|---|---|
 | Paddy straw mushroom | Death cap (Amanita phalloides) | Volva at base, white gills |
 | Honey mushroom (Armillaria) | Galerina marginata | Galerina has rusty-brown spore print, ring |
-| Chanterelle | Jack-o'-lantern (Omphalotus) | True chanterelles have forked ridges, not true gills |
+| Chanterelle | Jack-o"-lantern (Omphalotus) | True chanterelles have forked ridges, not true gills |
 | Morel | False morel (Gyromitra) | True morels are hollow; false morels have chambered caps |
 | King bolete | Satan's bolete | Satan's bolete has red pore surface and blue bruising |
 
@@ -112,7 +112,7 @@ Ramsbottom provides the most thorough early ethnographic account of A. muscaria 
 - **Spore size/shape:** Measured in micrometers (um). Length, width, and Q ratio (length/width). Shape categories: elliptical, spherical, amygdaliform, fusiform.
 - **Spore ornamentation:** Smooth, warty, ridged, reticulate. Requires oil immersion at 1000x magnification.
 - **Basidia:** Number of sterigmata (2 or 4), presence/absence of clamp connections at hyphal septa.
-- **Chemical tests:** Melzer's reagent (amyloid/iodine reaction), KOH (color changes on cap surface or flesh).
+- **Chemical tests:** Melzer"s reagent (amyloid/iodine reaction), KOH (color changes on cap surface or flesh).
 
 ## DNA Barcoding
 
@@ -125,7 +125,7 @@ Ramsbottom provides the most thorough early ethnographic account of A. muscaria 
 - **North America:** "Mushrooms Demystified" (David Arora), "National Audubon Society Field Guide to North American Mushrooms," "Mushrooms of the Northeastern United States and Eastern Canada"
 - **Europe:** "Mushrooms" (Roger Phillips), "The Mushrooms and Toadstools of Great Britain and Europe"
 - **Australia/New Zealand:** "A Field Guide to Australian Fungi" (Bruce Fuhrer), "Magic Mushrooms of Australia & New Zealand" ([[john-allen]])
-- **Mexico/Central America:** Guzman's monograph of Psilocybe, "Field Guide to the Mushrooms of Mexico"
+- **Mexico/Central America:** Guzman"s monograph of Psilocybe, "Field Guide to the Mushrooms of Mexico"
 - **General reference:** "Mushrooms of the World" (Benjamin, 1995) as referenced in Mr. Bloomfield's Orchard
 
 ## Safety Principles

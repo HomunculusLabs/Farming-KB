@@ -16,7 +16,7 @@ updated: 2026-04-26
 
 ## Insects and Diseases of Winter Crops
 
-Eliot Coleman's philosophy on insect pests and plant diseases is
+Eliot Coleman"s philosophy on insect pests and plant diseases is
 fundamentally nonconfrontational. This chapter lays out a
 comprehensive framework for understanding pests not as enemies to
 be destroyed but as symptoms indicating that growing conditions

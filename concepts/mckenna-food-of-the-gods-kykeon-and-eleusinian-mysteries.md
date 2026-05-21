@@ -14,11 +14,11 @@ In [[dionysian-cults]] to Eleusis itself. The Dionysian theme entered Greece fro
 
 The Dionysian and [[emcdda-hallucinogenic-mushrooms-emerging-trend-europe]], and my guess is that the priesthood at Eleusis had discovered an alternative hallucinogenic mushroom easier to handle than the [[ergot-fungus]] that infects edible grains.
 
-Several lines of evidence support this theory. Grain was centrally important to the cult; the festival was a harvest celebration. Ergot produces powerful alkaloids capable of causing hallucination, triggering labor, and vasoconstriction. The purple traditionally associated with Demeter's robe may signify the distinctive purple color of ergot sclerotia, the asexual resting stage in the organism's life cycle.
+Several lines of evidence support this theory. Grain was centrally important to the cult; the festival was a harvest celebration. Ergot produces powerful alkaloids capable of causing hallucination, triggering labor, and vasoconstriction. The purple traditionally associated with Demeter"s robe may signify the distinctive purple color of ergot sclerotia, the asexual resting stage in the organism's life cycle.
 
 In 1900, Sir Arthur Evans excavated vessels adorned with ears of barley in relief near the palace of Knossos, suggesting that "a kind of beer had preceded wine on Crete." Kerenyi believed that the small size of these vessels indicated they were used for a special kind of barley drink -- "the visionary sacrament of the Eleusinian mysteries" -- in rites "allegedly performed without secrecy at Knossos."
 
-Wasson and Hofmann argued eloquently for the symbolic resonance of their theory: "Clearly ergot of barley is the likely psychotropic ingredient in the Eleusinian potion. Its seeming symbiotic relationship to the barley signified an appropriate expropriation and transmutation of the Dionysian spirit to which the grain, Demeter's daughter, was lost in the nuptial embrace with earth."
+Wasson and Hofmann argued eloquently for the symbolic resonance of their theory: "Clearly ergot of barley is the likely psychotropic ingredient in the Eleusinian potion. Its seeming symbiotic relationship to the barley signified an appropriate expropriation and transmutation of the Dionysian spirit to which the grain, Demeter"s daughter, was lost in the nuptial embrace with earth."
 
 ## The Alcibiades Scandal
 

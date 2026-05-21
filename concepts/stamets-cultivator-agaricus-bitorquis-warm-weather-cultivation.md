@@ -1,5 +1,5 @@
 ---
-title: "stamets cultivator agaricus bitorquis warm weather cultivation (Rodman's Agaricus) Cultivation"
+title: "stamets cultivator agaricus bitorquis warm weather cultivation (Rodman"s Agaricus) Cultivation"
 created: 2026-04-28
 tags:
   - mushroom-cultivation
@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-## Agaricus bitorquis (Rodman's Agaricus) Cultivation
+## Agaricus bitorquis (Rodman"s Agaricus) Cultivation
 
 ## Overview and Taxonomy
 

@@ -41,11 +41,11 @@ farmer invests thousands in equipment, fuel, and extra labour to meet this artif
 
 Fukuoka asked: "If you ask how important it is for human beings to have this fruit a month earlier, the truth is that it is not
 important at all, and money is not the only price paid for such indulgence." The same dynamic applies to hothouse vegetables. The
-eggplants shipped in winter have no vitamins and the cucumbers no flavour because certain of the sun's rays cannot penetrate the
+eggplants shipped in winter have no vitamins and the cucumbers no flavour because certain of the sun"s rays cannot penetrate the
 vinyl and glass enclosures. The technician's response is not to question whether people need winter eggplants but to research
 artificial lighting systems, devoting entire careers to producing a hothouse eggplant with vitamins. Naturally, since such great
 efforts have gone into producing this eggplant, and the vegetable is said to be high in nutritional value, it is tagged at an even
-higher price and sells well. "If it is profitable, and if you can sell it, there can't be anything wrong with it."
+higher price and sells well. "If it is profitable, and if you can sell it, there can"t be anything wrong with it."
 
 ## The Freshness Paradox
 

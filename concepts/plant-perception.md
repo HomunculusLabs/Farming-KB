@@ -27,11 +27,11 @@ Plants perceive their environment through sophisticated sensory systems that det
 
 ### Photoreception (Chamovitz / Darwin)
 
-Plants don't see images, but they detect light in ways humans cannot:
+Plants don"t see images, but they detect light in ways humans cannot:
 
 - **Blue light** (400-500nm): Detected at the shoot tip for phototropism (bending toward light). Darwin and his son proved in 1880 that the shoot tip "sees" light and signals the stem to bend toward it.
 - **Red light** (600-700nm): Detected by phytochrome in the leaves to measure day/night length. Red light "wakes up" the plant.
-- **Far-red light** (700-750nm): The last light at dusk. Far-red "turns off" the plant's active state. A few seconds of far-red cancels the flowering-inducing effect of red light.
+- **Far-red light** (700-750nm): The last light at dusk. Far-red "turns off" the plant"s active state. A few seconds of far-red cancels the flowering-inducing effect of red light.
 - **UV light** (<400nm): Detected for protective responses, including increased trichome production in cannabis.
 
 ### Phytochrome — The Light Switch
@@ -46,7 +46,7 @@ Phytochrome is a photoreceptor protein that acts as a molecular switch:
 
 Plants measure the length of continuous darkness, not the length of the day:
 - A flash of red light in the middle of the night can prevent short-day plants from flowering
-- A flash of far-red immediately after cancels the red light's effect
+- A flash of far-red immediately after cancels the red light"s effect
 - The last thing the plant sees at the end of the day (far-red) determines its state for the night
 
 **Practical application for cannabis**: Cannabis is a short-day plant. It flowers when the dark period exceeds ~12 hours. Any light leak (even brief) during the dark period can reset the phytochrome clock and delay or disrupt flowering.

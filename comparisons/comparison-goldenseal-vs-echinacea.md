@@ -3,7 +3,7 @@ title: "Goldenseal vs Echinacea"
 tags: [comparison, goldenseal, echinacea, medicinal-herbs, herbal-medicine]
 date: 2026-05-15
 updated: 2026-05-15
-sources: ['papers/a-golden-guide-to-hallucinogenic-plants.md']
+sources: ["papers/a-golden-guide-to-hallucinogenic-plants.md']
 ---
 
 ## Goldenseal vs Echinacea

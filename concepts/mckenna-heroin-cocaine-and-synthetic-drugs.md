@@ -23,7 +23,7 @@ Immediately after his shot the heroin addict is cheerful, almost ebullient. This
 
 For millennia the peoples of the montane rain forests of South America have held cultural values promoting the ritual and religious use of the stimulant/food coca. Locals will immediately tell you: "Coca no es un droga, es comida" — Coca is not a drug, it is food. The self-administered doses contain a significant percentage of daily vitamin and mineral requirements. Coca is also a powerful appetite suppressant, crucial in the protein-poor Amazonian environment.
 
-To the ancient Inca culture of Peru, coca was a goddess — Mama Coca, a New World echo of Graves's white goddess Leucothea. In 1859 cocaine was isolated for the first time. Sigmund Freud was among the early researchers, hailing coca as a possible cure for morphinism — a pattern that would repeat endlessly.
+To the ancient Inca culture of Peru, coca was a goddess — Mama Coca, a New World echo of Graves"s white goddess Leucothea. In 1859 cocaine was isolated for the first time. Sigmund Freud was among the early researchers, hailing coca as a possible cure for morphinism — a pattern that would repeat endlessly.
 
 ## Cocaine and Modern Empire
 

@@ -33,7 +33,7 @@ Instead, consciousness is fundamental and universal; the brain merely restricts 
 
 ## Language as Petrified Awareness
 
-A crucial extension of Huxley's argument concerns the role of language.
+A crucial extension of Huxley"s argument concerns the role of language.
 
 He argued that human beings invented and elaborated symbol systems — languages — to formulate and express the contents of their reduced awareness.
 

@@ -20,7 +20,7 @@ The most fundamental principle is orienting the long axis of streets **east-west
 
 ### Dense, Clustered Housing
 
-Close-packed dwellings with common or close-spaced walls create a "colony of swallows' nests" appearance characteristic of traditional arid settlements. Benefits include:
+Close-packed dwellings with common or close-spaced walls create a "colony of swallows" nests" appearance characteristic of traditional arid settlements. Benefits include:
 
 - Mutual shading between buildings
 - Cool air pools in shaded narrow streets and courtyards

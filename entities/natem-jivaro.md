@@ -41,7 +41,7 @@ The combination of β-carboline MAOIs with DMT enables oral activity of DMT, whi
 - Approximately **1 in 4 Jivaro men** is a shaman, a proportion directly attributed to the availability and power of natem.
 - The Jivaro take natem **individually** (unlike the communal Cashinahua/Sharanahua practice), preferring to use it to cope supernaturally with enemies.
 - Under natem, shamans can perceive **tsentsak** (spirit helpers/darts) — the invisible forces believed to cause illness and death.
-- The drink enables shamans to see the true cause of illness (e.g., a poisonous serpent sent by an enemy shaman) within a patient's body.
+- The drink enables shamans to see the true cause of illness (e.g., a poisonous serpent sent by an enemy shaman) within a patient"s body.
 
 ## Experiential Effects
 

@@ -4,7 +4,7 @@ source: allegro-j-the-sacred-mushroomcross.md
 type: concept
 ---
 
-## Morning Star, Venus, Dew, Manna, and St Elmo's Fire
+## Morning Star, Venus, Dew, Manna, and St Elmo"s Fire
 
 In [[allegro-star-of-the-morning-venus-and-the-sacred-mushroom]]. The celestial body, its moisture, and the fungus it was thought to engender
 formed an interconnected symbolic system linking heaven and earth, semen and soil, divinity and
@@ -21,11 +21,11 @@ This resonates with one of the most important messianic prophecies in the Hebrew
 **"A star shall come forth out of Jacob"** (Numbers 24:17). Its political power was demonstrated
 when the leader of the Second Jewish Revolt in the 2nd century CE — Simon bar Kokhba — adopted
 the title **"Son of the Star"** (*Bar Kokhba*), explicitly claiming fulfillment of the Balaam
-prophecy. For Allegro, the title's mushroomic substratum reveals that the "star" was not merely an
+prophecy. For Allegro, the title"s mushroomic substratum reveals that the "star" was not merely an
 astral symbol but the phallic fungus that sprang from the earth at dawn, emerging from its volval
 sheath in an event seen as both celestial descent and terrestrial birth.
 
-## Isaiah's Oracle on the Fallen Star
+## Isaiah"s Oracle on the Fallen Star
 
 Isaiah 14:12-15 contains one of the most famous "fallen star" passages in biblical literature:
 
@@ -36,7 +36,7 @@ dome-capped organism that appears to fall from the sky and rise from the earth �
 symbol for any figure of ambiguous celestial-terrestrial origin. The name **Babylon** itself,
 Allegro suggests, is cognate with **Boubalion**, a fungus name attached to the Squirting Cucumber
 (*Ecballium elaterium*), deriving from Sumerian **GU-BAR**, "top of the head; glans penis." The
-Squirting Cucumber's explosive seed discharge mirrors the mushroom's [[spore]]-release, both understood
+Squirting Cucumber"s explosive seed discharge mirrors the mushroom's [[spore]]-release, both understood
 as celestial semen.
 
 Pliny records a "Babylonian thorn bush" said to grow on the "Long Walls at Athens." Allegro
@@ -54,14 +54,14 @@ appearance) and **Vesper** (the evening appearance). It was also called **Juno, 
 **Mother of the Gods** across various traditions.
 
 Ancient names for "star" reveal that luminaries were pictured as **penes in the sky**. The light
-they shed was understood as the "glow" of the glans' fiery crown — a brilliant, moist-tipped
+they shed was understood as the "glow" of the glans" fiery crown — a brilliant, moist-tipped
 radiance descending upon the sleeping earth. Female names like Venus and Juno refer to this same
 generative power from the receptive angle: the star was imagined as "slipping, dripping with the
 semen of the terrestrial womb."
 
 The sun eventually burns away the dew drops. Until then, they remain as dew — what Pliny calls
 the **"most powerful conceptual fluid of Nature,"** the mediating substance between celestial fire
-and earthly fertility. The dew was the visible evidence of the star's nocturnal visitation, proof
+and earthly fertility. The dew was the visible evidence of the star"s nocturnal visitation, proof
 that heaven had consorted with earth.
 
 ## Dew as Seminal Fluid
@@ -71,7 +71,7 @@ writes that Venus "scatters a genital dew with which it fills the conceptive org
 and stimulates those of all animals." The identification of dew with semen pervades classical and
 Near Eastern thought, forming the basis of fertility rituals across the Mediterranean world.
 
-Pearls were believed to be "born" within shells by dew's influence: "The source and
+Pearls were believed to be "born" within shells by dew"s influence: "The source and
 breeding-ground of pearls are shells… they gap open… filled with dewy pregnancy." Pliny further
 notes that **"pearls have more connexion with the sky than with the sea,"** confirming their
 celestial-semenal origin rather than any merely aquatic explanation.
@@ -97,7 +97,7 @@ specifically, with the Morning and Evening Star as a pair. Their primary mytholo
 as saviours of sailors caught in storms — twin lights appearing at the masthead when all seemed
 lost.
 
-What the ancients described as the Dioscouroi's protective radiance corresponds to **atmospheric
+What the ancients described as the Dioscouroi"s protective radiance corresponds to **atmospheric
 electrical discharges** — the phenomenon now known as **St Elmo's fire**. These luminous plasma
 discharges appear on pointed objects during thunderstorms, creating an eerie blue-violet glow.
 During World War II, Allied airmen encountering these discharges dubbed them **"gremlins"** — modern
@@ -111,7 +111,7 @@ them as gods for aid at sea."**
 
 The Homeric Hymns invoke them directly: **"Bright-eyed Muses, tell of the Tyndaridae, the Sons
 of Zeus"** — saviours of men in the darkest storms, appearing as twin lights above the masts of
-endangered vessels. Their mushroomic connection lies in the sacred fungus's presumed ability to
+endangered vessels. Their mushroomic connection lies in the sacred fungus"s presumed ability to
 control atmospheric phenomena.
 
 ## Mushroom as Bridge Between Worlds

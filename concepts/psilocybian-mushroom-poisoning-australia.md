@@ -20,7 +20,7 @@ Ancient or historic evidence of cerebral mycetisms induced by the accidental
 ingestion of [[psychedelic-mushroom-set-and-setting]]), and two additional patients
 were also probably affected by psilocybian intoxication.
 
-Stocks's paper presented two notable case histories:
+Stocks"s paper presented two notable case histories:
 
 **Case 1 (Female):** "After 30 minutes of ingestion, a dark cloud passing
 across her eyes, then a green cloud. Her tongue felt thick and she complained
@@ -30,7 +30,7 @@ patient described her experience as distinctly unpleasant."
 
 **Case 2 (Male):** "After 5 minutes of ingestion, the patient reported that
 he felt a tingling in both of his temples, and a general feeling of
-strangeness. His TV set 'changed color' and the images on the screen became
+strangeness. His TV set "changed color' and the images on the screen became
 brighter and steel-blue. Vision later became blurred, and objects seemed
 either too large or too small, and appeared alternately to advance and recede
 from him. Later, sharp images of dragons appeared in a brilliantly-colored

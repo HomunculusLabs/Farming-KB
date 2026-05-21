@@ -10,7 +10,7 @@ type: concept
 
 ## Energy Efficiency and Caloric Accounting in Agriculture
 
-Fukuoka's analysis of energy flows through agricultural systems reveals that
+Fukuoka"s analysis of energy flows through agricultural systems reveals that
 modern farming is not merely less efficient than [[fukuoka-critique-modern-agriculture]] is not toward abundance but toward collapse.
 
 ## Natural Farming Energy Balance

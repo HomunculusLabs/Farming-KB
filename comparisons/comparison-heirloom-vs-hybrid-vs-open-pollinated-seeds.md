@@ -22,7 +22,7 @@ sources:
 
 | Feature | Open-Pollinated (OP) | Heirloom | F1 Hybrid |
 |---|---|---|---|
-| Seed saving | True-to-type | True-to-type | Unstable — won't breed true |
+| Seed saving | True-to-type | True-to-type | Unstable — won"t breed true |
 | [[biodiversity-fungal-genetic-diversity]] | High | High | Narrow (two inbred parents) |
 | Uniformity | Moderate | Moderate | Very high |
 | Vigor | Standard | Standard | Hybrid vigor (heterosis) |
@@ -129,7 +129,7 @@ Most experienced growers use both. Hybrid varieties for crops where disease resi
 
 **"Hybrids are GMOs."** False. F1 hybrids are created through conventional crossing. Genetically modified organisms (GMOs) involve direct manipulation of DNA in a laboratory. These are entirely different [[cervantes-backcross-breeding-methods]].
 
-**"You can't save any seed from hybrids."** Technically you can — the seeds will grow, but the results are unpredictable. F2 populations sometimes produce interesting new varieties worth selecting from.
+**"You can"t save any seed from hybrids."** Technically you can — the seeds will grow, but the results are unpredictable. F2 populations sometimes produce interesting new varieties worth selecting from.
 
 **"Heirlooms are always organic."** Heirloom refers to variety age and pollination type, not growing method. Heirloom seeds can be produced with or without synthetic chemicals.
 

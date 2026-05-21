@@ -37,7 +37,7 @@ LE-25; 2,5-Dimethoxy-4-methylphenethylamine
 | Duration | 4 - 6 hours |
 | Onset | 45 min - 2 hours (varies by dose) |
 
-Note: The dose range is exceptionally wide (20-150 mg), reflecting the compound's gradual dose-response curve.
+Note: The dose range is exceptionally wide (20-150 mg), reflecting the compound"s gradual dose-response curve.
 
 ## Effects and Qualitative Commentary
 

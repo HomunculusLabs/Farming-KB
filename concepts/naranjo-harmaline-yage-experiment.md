@@ -9,11 +9,11 @@ sources:
 ---
 ## Naranjo Harmaline Yage Experiment
 
-Claudio Naranjo's study "Psychological Aspects of the [[yage-cross-cultural-experience]].
+Claudio Naranjo"s study "Psychological Aspects of the [[yage-cross-cultural-experience]].
 
 ### Soul Flight and the Disembodied Self
 
-The experience of the soul separating from the body was reported with striking explicitness. One 25-year-old woman described her soul as "a sphere of some 7 cm. in diameter, pure energy, and it rotates on itself at such enormous speed that it would be the same if it didn't. It can displace itself in any direction at the speed it wishes."
+The experience of the soul separating from the body was reported with striking explicitness. One 25-year-old woman described her soul as "a sphere of some 7 cm. in diameter, pure energy, and it rotates on itself at such enormous speed that it would be the same if it didn"t. It can displace itself in any direction at the speed it wishes."
 
 A 21-year-old journalist described a progressive dissociation: "I was realizing that my body and my mind were such autonomous forces that if they had ever converged in me it seemed pure chance. What during my entire lifetime I had sensed like mingled confusion now appeared to be divided in three precise domains: outside lay the world; closer, as a boundary, stood my organism; inside, at last, was I."
 
@@ -23,7 +23,7 @@ Eight of thirty-five subjects experienced visions or feelings of their own death
 
 Ten subjects reported experiences related to flying. One subject who took harmaline with mescaline described: "The first thing I did, involuntarily, was lift my hand. It seemed to lose weight, it rose... And then I felt that it was no longer a hand but the tip of a wing. I was turning into a winged being. I then stretched my wings and felt extreme freedom and expansion."
 
-Some subjects described visions viewed from above, from great altitude, without explicitly identifying the experience as flying. One reported: "I was flying over a city that I didn't recognize... From a great height, like a bird."
+Some subjects described visions viewed from above, from great altitude, without explicitly identifying the experience as flying. One reported: "I was flying over a city that I didn"t recognize... From a great height, like a bird."
 
 ### Predatory Animals
 
@@ -45,7 +45,7 @@ Naranjo noted that the mythico-religious element "is more pervasive in the exper
 
 ## Comparison with Indigenous Experiences
 
-Naranjo noted striking parallels between the experimental subjects' experiences and those reported by indigenous [[beta-carboline-chemistry]]
+Naranjo noted striking parallels between the experimental subjects" experiences and those reported by indigenous [[beta-carboline-chemistry]]
 banisteriopsis caapi
 [[shamanic-use-of-psychedelics]]
 [[mckenna-suppression-psychedelic-research-lsd-therapy]] community alongside figures like stanislav grof and [[mescaline-derivatives-pihkal]] and [[psychedelic-consciousness-models]].

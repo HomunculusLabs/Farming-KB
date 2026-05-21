@@ -16,7 +16,7 @@ completed in 1977 and opened to the public in 1977 (officially inaugurated Janua
 design, in which the structural system, mechanical services, circulation elements,
 and colour-coded functional systems are all located on the exterior of the building.
 
-The building houses the Musée National d'Art Moderne (the largest museum for modern
+The building houses the Musée National d"Art Moderne (the largest museum for modern
 art in Europe), a vast public library, and a centre for music and acoustic research.
 It has become one of Paris's most visited cultural attractions and is considered a
 landmark of high-tech architecture.
@@ -25,7 +25,7 @@ In Holmgren's permaculture text, the Pompidou Centre is cited by [[stewart-brand
 *How Buildings Learn* as a "maintenance nightmare" — an object lesson in how
 architectural design decisions can create enormous ongoing maintenance burdens. The
 building is contrasted with the Eiffel Tower, whose exposed iron structure has
-weathered the elements far more successfully than the Centre's brightly painted
+weathered the elements far more successfully than the Centre"s brightly painted
 external ducts and pipes.
 
 ## Classification
@@ -56,7 +56,7 @@ external ducts and pipes.
 - [[stewart-brand-holmgren]], in *How Buildings Learn*, identifies it as a "maintenance
   nightmare" — its exposed services require constant attention and are far less
   durable than the exposed iron structure of the Eiffel Tower.
-- Brand's lesson: "The Eiffel Tower's lasting message to architecture is: exposed
+- Brand"s lesson: "The Eiffel Tower"s lasting message to architecture is: exposed
   structure can be gorgeous. Pompidou's lasting message: never expose services."
 - The building underwent a major three-year renovation (1997-2000) that cost
   approximately 88 million euros, largely to address the maintenance issues

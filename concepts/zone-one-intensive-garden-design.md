@@ -9,7 +9,7 @@ type: concept
 Zone one in [[permaculture]] is the area of most intensive human interaction — the garden
 immediately surrounding the home. It receives the highest frequency of visits, the most
 careful management, and the greatest investment of mulch, [[compost]], and labor. Bill
-Mollison's design course presents zone one as a fully integrated system of intensive
+Mollison"s design course presents zone one as a fully integrated system of intensive
 annual gardens, protective barriers, small-scale water features, and carefully selected
 plant placements that maximize yield while minimizing effort.
 

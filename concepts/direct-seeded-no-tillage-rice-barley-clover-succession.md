@@ -11,7 +11,7 @@ sources:
 
 ## Direct-Seeded No-Tillage Rice-Barley Clover Succession
 
-The direct-seeded, no-tillage, [[fukuoka-clover-cover-cropping-soil-ecology]] is Masanobu Fukuoka's signature [[fukuoka-rice-and-barley-natural-farming]] or wheat in clover." The system works because it cooperates with natural processes rather than attempting to override them. Human effort is unnecessary because nature, not man, grows the rice and wheat. The farmer's role is reduced to [[fukuoka-textdoc-matter-spirit-unity-food]]
+The direct-seeded, no-tillage, [[fukuoka-clover-cover-cropping-soil-ecology]] is Masanobu Fukuoka"s signature [[fukuoka-rice-and-barley-natural-farming]] or wheat in clover." The system works because it cooperates with natural processes rather than attempting to override them. Human effort is unnecessary because nature, not man, grows the rice and wheat. The farmer's role is reduced to [[fukuoka-textdoc-matter-spirit-unity-food]]
 - [[query-how-do-i-use-cover-crops-to-improve-soil-health]]
 ## Practical Applications
 

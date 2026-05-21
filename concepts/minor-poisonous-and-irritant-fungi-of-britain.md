@@ -94,7 +94,7 @@ The genus *Russula* much resembles *Lactarius* but exudes no milk when the britt
 | **Taste** | At first agreeable meal-like, but not lasting |
 | **Habitat** | Grassy places in autumn, especially deciduous woods |
 
-The genus *Entoloma* has pink spores and typically sinuate gills. *Entoloma lividum* often causes violent sickness and diarrhoea, and occasional death. Around Dijon it is known as *le grand empoisonneur de la Côte d'Or* — "the great poisoner of the Côte d'Or." Its initially pleasant meal-like smell and taste are deceptive, making it one of the more dangerous species for inexperienced collectors.
+The genus *Entoloma* has pink spores and typically sinuate gills. *Entoloma lividum* often causes violent sickness and diarrhoea, and occasional death. Around Dijon it is known as *le grand empoisonneur de la Côte d"Or* — "the great poisoner of the Côte d"Or." Its initially pleasant meal-like smell and taste are deceptive, making it one of the more dangerous species for inexperienced collectors.
 
 ## Hebeloma Crustuliniforme — Crustlike Hebeloma
 
@@ -108,7 +108,7 @@ The genus *Entoloma* has pink spores and typically sinuate gills. *Entoloma livi
 | **Taste** | Radish |
 | **Habitat** | Often in rings in grassy woods; autumn |
 
-The genus *Hebeloma* has brown spores and typically sinuate gills. The species name *crustuliniforme* refers to its habit of growing in rings suggesting "a row of rolls coming from a baker's oven." It is very indigestible, and the persistent radish taste after cooking makes it objectionable. The exudation of liquid droplets from gill edges is a distinctive character.
+The genus *Hebeloma* has brown spores and typically sinuate gills. The species name *crustuliniforme* refers to its habit of growing in rings suggesting "a row of rolls coming from a baker"s oven." It is very indigestible, and the persistent radish taste after cooking makes it objectionable. The exudation of liquid droplets from gill edges is a distinctive character.
 
 ## Volvaria Gloiocephala — Sticky Volvaria
 

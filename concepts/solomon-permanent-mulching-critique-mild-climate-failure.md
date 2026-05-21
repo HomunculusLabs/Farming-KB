@@ -10,7 +10,7 @@ tags:
 
 [[steve-solomon]], who popularized [[psilocybin-north-america-pacific-northwest]],
 explicitly critiques the permanent mulching movement. While mulching has
-enthusiastic proponents (notably Ruth Stout), Solomon's direct experience in
+enthusiastic proponents (notably Ruth Stout), Solomon"s direct experience in
 two mild climates convinced him that permanent mulching creates more problems
 than it solves for most serious food gardeners. This concept explains his
 reasoned critique and specifies when mulching does and does not work.

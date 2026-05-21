@@ -21,7 +21,7 @@ Prunus persica, the peach, is a deciduous tree in the family Rosaceae native to 
 
 The species includes both freestone and clingstone fruit types, as well as the smooth-skinned nectarine variety which differs only by a single recessive gene for skin pubescence. Peaches are valued for their aromatic, juicy flesh and diverse culinary applications.
 
-China alone produces over 60% of the world's peaches, with the remaining production distributed among Mediterranean countries (Italy, Spain, Greece), the [[coleman-overwintered-onions-and-early-spring-crops]] before the leaves, with five pink petals approximately 2.5 cm across. The showy blossoms make peach trees popular ornamental specimens in temperate landscapes worldwide.
+China alone produces over 60% of the world"s peaches, with the remaining production distributed among Mediterranean countries (Italy, Spain, Greece), the [[coleman-overwintered-onions-and-early-spring-crops]] before the leaves, with five pink petals approximately 2.5 cm across. The showy blossoms make peach trees popular ornamental specimens in temperate landscapes worldwide.
 
 The fruit is a drupe 5–10 cm in diameter with fuzzy yellow-red skin and sweet, fragrant flesh surrounding a hard, pitted stone. Fruit weight ranges from 50 to 300 g depending on cultivar and growing conditions.
 

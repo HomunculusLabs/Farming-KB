@@ -8,7 +8,7 @@ type: concept
 
 ## Planting Schedules for Fall and Winter Harvesting
 
-Eliot Coleman's [[winter-harvest-system]] depends on precise succession planting across four distinct growing environments. Each site offers progressively more protection, extending the harvest season deeper into winter.
+Eliot Coleman"s [[winter-harvest-system]] depends on precise succession planting across four distinct growing environments. Each site offers progressively more protection, extending the harvest season deeper into winter.
 
 ### The Four-Site Planting System
 
@@ -50,7 +50,7 @@ Coleman provides an annotated bibliography of foundational texts on intensive ve
 
 - **Bailey, L. H. (1897). *The Forcing Book*.** A classic [[liberty-hyde-bailey]] text. The bulk of the information on greenhouse forcing remains valuable today.
 
-- **Dreer, Henry A. (1896). *Dreer's Vegetables Under Glass*.** Written by a skilled practitioner with broad travel experience. Noted for its clear, concise information and easy writing style.
+- **Dreer, Henry A. (1896). *Dreer"s Vegetables Under Glass*.** Written by a skilled practitioner with broad travel experience. Noted for its clear, concise information and easy writing style.
 
 - **Henderson, Peter (1907). *Gardening for Profit*.** First published in 1867 — "the classic of classics" of American market gardening. Inspired generations to take up commercial vegetable production.
 
@@ -62,7 +62,7 @@ Coleman provides an annotated bibliography of foundational texts on intensive ve
 
 - **Newsome, T. (1908). *Gold Producing Soil*.** An enthusiastic and reasonably complete presentation of the French system applied to English soils.
 
-- **Nussey, Helen, and Olive Cockerell (1909). *A French Garden in England*.** A realistic first-year account by two young women graduates of Lady Warwick's Gardening School — valuable for its honest reporting of successes and failures.
+- **Nussey, Helen, and Olive Cockerell (1909). *A French Garden in England*.** A realistic first-year account by two young women graduates of Lady Warwick"s Gardening School — valuable for its honest reporting of successes and failures.
 
 - **Robinson, William (1883). *The Parks and Gardens of Paris*.** Available online via Google Books. Robinson was the first to bring French growers' successes to English attention.
 

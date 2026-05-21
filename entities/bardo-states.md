@@ -33,7 +33,7 @@ The Bardo States are the intermediate states of consciousness described in the T
 ### Second Bardo: Chonyid Bardo — The Period of Hallucinations
 - **Tibetan name:** Chonyid Bardo (ཆོས་ཉིད་བར་དོ) — "The Bardo of Experiencing of Reality"
 - **Characteristics:** Intense hallucinatory experiences when ego-loss is not maintained. "The flow of consciousness, microscopically clear and intense, is interrupted by fleeting attempts to rationalize and interpret."
-- **Seven Vision Types (per Leary's adaptation):**
+- **Seven Vision Types (per Leary"s adaptation):**
   1. **The Source:** God/Creator vision — undifferentiated creative energy.
   2. **Internal Flow of Archetypal Processes:** Cellular and sub-cellular imagery, evolutionary visions, biological life-flow.
   3. **Fire-Flow of Internal Unity:** Emotional experience of merging with all life, pulsating love, circulatory visions.
@@ -41,21 +41,21 @@ The Bardo States are the intermediate states of consciousness described in the T
   5. **Vibratory Waves of External Unity:** Emotional union with the external world, sense of one-ness with all energy.
   6. **"The Retinal Circus":** Kaleidoscopic, chaotic, ever-changing imagery — "complete interchangeability of the senses."
   7. **"The Magic Theatre":** Dramatic visions of archetypal figures, heroes, demigods, deities from world mythology.
-- **Peaceful and Wrathful Deities:** Each vision has positive (peaceful) and negative (wrathful) expressions depending on the voyager's reaction.
+- **Peaceful and Wrathful Deities:** Each vision has positive (peaceful) and negative (wrathful) expressions depending on the voyager"s reaction.
 - **Key instruction:** "Passive integration with all that occurs around you. If you try to impose your will, use your mind, rationalize, seek explanations, you will get caught in hallucinatory whirlpools."
 - **Panic remedy:** Physical contact with another person — "the brotherhood of breath."
 
 ### Third Bardo: Sidpa Bardo — The Period of Re-Entry
 - **Tibetan name:** Sidpa Bardo (སྲིད་པ་བར་དོ) — "The Bardo of Seeking Rebirth"
 - **Characteristics:** Consciousness returns toward ordinary reality. The subject struggles to make sense of the experience and re-establish ego identity.
-- **Jung's description:** "The dead man must desperately resist the dictates of reason... and give up the supremacy of egohood." The Sidpa state involves "the archetypes, the karmic images which appear first in their terrifying form."
+- **Jung"s description:** "The dead man must desperately resist the dictates of reason... and give up the supremacy of egohood." The Sidpa state involves "the archetypes, the karmic images which appear first in their terrifying form."
 - **Key phenomena:** Identity confusion ("Who am I now? Am I dead or not dead?"), attempts to regain control, emergence of personality games.
 - **Leary frames this as "rebirth"** — the return to ordinary consciousness with the option of returning as a transformed person or falling back into old patterns.
 
-### Jung's Analysis of Bardo States
-Carl Jung saw the transition from Sidpa to Chonyid as "a dangerous reversal of the aims and intentions of the conscious mind" — a sacrifice of ego stability. He connected the process to Freud's insight that "the ego was 'the true seat of anxiety.'" Jung noted that the Chonyid state is "equivalent to a deliberately induced psychosis" but emphasized it reveals the archetypes and karmic images of the collective unconscious.
+### Jung"s Analysis of Bardo States
+Carl Jung saw the transition from Sidpa to Chonyid as "a dangerous reversal of the aims and intentions of the conscious mind" — a sacrifice of ego stability. He connected the process to Freud"s insight that "the ego was "the true seat of anxiety.'" Jung noted that the Chonyid state is "equivalent to a deliberately induced psychosis" but emphasized it reveals the archetypes and karmic images of the collective unconscious.
 
-### Lama Govinda's Interpretation
+### Lama Govinda"s Interpretation
 Lama Govinda emphasized the esoteric meaning: the Bardo Thodol is not a book of the dead but a book of the living — a guide for how to lose the ego and expand consciousness during life. The death imagery was an "exoteric facade adopted to fit the prejudices of the Bonist tradition in Tibet."
 
 ## Relevance to Cultivation and Mycology

@@ -27,7 +27,7 @@ This is done by adding lime. The effect is slow — do not expect dramatic chang
 
 ### Types of Lime
 
-1. **Slaked lime (calcium oxide):** Most readily available; sometimes sold as "garden lime." Lasts longer than builder's lime.
+1. **Slaked lime (calcium oxide):** Most readily available; sometimes sold as "garden lime." Lasts longer than builder"s lime.
 2. **Hydrated lime (builder's lime):** Works perfectly well but must be replaced at least annually.
 3. **Ground limestone ([[dolomite]] lime):** Best type to use. More expensive but lasts several years in the soil and contains magnesium.
 4. **Calcified seaweed:** Contains several plant foods as well as lime; lasts 2-3 years; reasonably priced. (Note: harvesting natural coral is now illegal; replaced by a similar seaweed-based material.)

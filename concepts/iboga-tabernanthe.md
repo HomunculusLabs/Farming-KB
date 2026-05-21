@@ -33,7 +33,7 @@ Ibogaine is a complex tryptamine derivative with multiple receptor interactions:
 - **Sigma-2 receptor modulator** — neuroprotective and anti-addictive properties
 - **hERG potassium channel blockade** — responsible for cardiac risk (QT prolongation)
 
-The most notable property is ibogaine's ability to significantly reduce or eliminate opioid withdrawal symptoms, sometimes after a single dose. This effect is thought to involve both the metabolite **noribogaine** (which has a longer half-life) and a "resetting" of neuroadapted reward pathways.
+The most notable property is ibogaine"s ability to significantly reduce or eliminate opioid withdrawal symptoms, sometimes after a single dose. This effect is thought to involve both the metabolite **noribogaine** (which has a longer half-life) and a "resetting" of neuroadapted reward pathways.
 
 ### Metabolism
 
@@ -50,7 +50,7 @@ The Bwiti tradition, practiced primarily by the Fang, Mitsogo, and Punu peoples 
 
 - Initiation ceremonies ( can last days and involve large doses
 - Participants consume scraped root bark in a ritual context with music, drumming, and chanting
-- The experience is described as a journey to the ancestral realm, confrontation with one's mortality, and rebirth
+- The experience is described as a journey to the ancestral realm, confrontation with one"s mortality, and rebirth
 - Bwiti practitioners consider iboga a sacrament — not a drug — and attribute to it the power to heal, reveal truth, and connect the living with ancestors
 
 ### Cultural Context

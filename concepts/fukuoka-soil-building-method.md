@@ -26,7 +26,7 @@ sources:
 
 # Fukuoka Soil Building Method
 
-[[masanobu-fukuoka]]'s approach to soil fertility is radically simple: **return all organic matter to the field, grow [[green-manure-crops]], and let living organisms build soil**. Over 25-40 years on his farm, he transformed hard, barren red clay into rich, dark, humus-filled earth without plowing, chemical fertilizers, or prepared [[compost]].
+[[masanobu-fukuoka]]"s approach to soil fertility is radically simple: **return all organic matter to the field, grow [[green-manure-crops]], and let living organisms build soil**. Over 25-40 years on his farm, he transformed hard, barren red clay into rich, dark, humus-filled earth without plowing, chemical fertilizers, or prepared [[compost]].
 
 ## The Starting Point: Barren Red Clay
 
@@ -36,7 +36,7 @@ Fukuoka's orchard land in Ehime Prefecture, Shikoku:
 - Common regional condition: "A good deal of the land around here was like that"
 - The challenge: "rather than growing citrus and vegetables up here, I have been helping to restore the fertility of the soil"
 
-## What Didn't Work
+## What Didn"t Work
 
 ### Trenching and Burying Organic Matter
 
@@ -56,7 +56,7 @@ Post-war technique encouraged by agricultural extension. Same result: temporary 
 
 ## What Works: The Three-Layer Soil Building System
 
-Fukuoka's system addresses soil at three depths simultaneously:
+Fukuoka"s system addresses soil at three depths simultaneously:
 
 ### Layer 1: Surface (0-4 inches) — Straw and Clover
 
@@ -71,10 +71,10 @@ Fukuoka's system addresses soil at three depths simultaneously:
 
 **Why uncut straw matters**: Agricultural scientists insisted straw must be burned (disease prevention) or chopped and plowed under. Fukuoka broadcast it whole:
 - "Rice straw works well as a mulch for winter grain, and the straw of winter grain works best for the rice"
-- Cross-species mulching prevents disease transmission (rice diseases don't infect barley)
+- Cross-species mulching prevents disease transmission (rice diseases don"t infect barley)
 - "This is only possible with strong, healthy grain" — another reason to avoid chemical-dependent varieties
 
-**Why no composting**: "There is no need to prepare compost. I will not say that you do not need compost — only that there is no need to work hard making it." Conventional composting: chop straw, add water and lime, turn pile repeatedly, haul to field. Fukuoka's method: scatter straw and let it decompose in place.
+**Why no composting**: "There is no need to prepare compost. I will not say that you do not need compost — only that there is no need to work hard making it." Conventional composting: chop straw, add water and lime, turn pile repeatedly, haul to field. Fukuoka"s method: scatter straw and let it decompose in place.
 
 **Quantity**: ALL straw and hulls from the harvest. "If all the farmers in Japan got together and started to put all the straw back on their fields, the result would be an enormous amount of compost returned to the earth."
 
@@ -129,7 +129,7 @@ This succession is *desirable*: "When one stops to think about it, the soil tend
 
 ### Vegetables as Weed Replacement
 
-Fukuoka's innovation: "By sowing vegetable seeds of the same family as the weeds growing in the orchard, vegetable plants can eventually be made to replace the weeds."
+Fukuoka"s innovation: "By sowing vegetable seeds of the same family as the weeds growing in the orchard, vegetable plants can eventually be made to replace the weeds."
 
 - **Fall**: Scatter cruciferous vegetables among orchard weeds
 - **Spring**: Solanaceous vegetables

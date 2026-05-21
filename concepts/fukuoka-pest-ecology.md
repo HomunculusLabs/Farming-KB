@@ -11,7 +11,7 @@ sources:
 
 ## Insect Pests Do Not Exist
 
-Fukuoka's most provocative assertion: "A thousand plant diseases exist in nature, yet in truth there are none." The concept of a "pest" is a human invention. Natural farming "admits to the existence neither of insect pests nor of [[integrated-pest-management]] approaches, while more ecological than blanket spraying, still operate within the paradigm of seeing pests as enemies to be managed.
+Fukuoka"s most provocative assertion: "A thousand plant diseases exist in nature, yet in truth there are none." The concept of a "pest" is a human invention. Natural farming "admits to the existence neither of insect pests nor of [[integrated-pest-management]] approaches, while more ecological than blanket spraying, still operate within the paradigm of seeing pests as enemies to be managed.
 
 ## The Trap of Biological Control
 
@@ -27,7 +27,7 @@ Pheromones, sterilization, biological pesticides — all are "an action as cruel
 
 ## The Loquat/Botrytis Case Study
 
-Fukuoka's village was noted for its Karakawa loquats. When loquat flower corollas began rotting, the village blamed cold weather, but Fukuoka identified botrytis fungus spores on the damaged blooms. After an initial spraying program brought the disease under control, Fukuoka asked the deeper question: why had the outbreak occurred in the first place?
+Fukuoka"s village was noted for its Karakawa loquats. When loquat flower corollas began rotting, the village blamed cold weather, but Fukuoka identified botrytis fungus spores on the damaged blooms. After an initial spraying program brought the disease under control, Fukuoka asked the deeper question: why had the outbreak occurred in the first place?
 
 His theory: the sudden postwar spraying of new pesticides to [[fukuoka-textdoc-botrytis-outbreak-pesticide-microbial-mutation]]. Interplanting of citrus in loquat groves, the transition to mulching and sod cultivation (which Fukuoka himself had encouraged), and the discontinuation of Bordeaux mixture all contributed. The fungus forms sclerotia about the size of a poppy seed containing eight genetically distinct spores — a lifecycle capable of producing "frightening" numbers of new variants.
 
@@ -41,7 +41,7 @@ Fukuoka believed that "much more is to be feared from bacteria, fungi, and virus
 
 ## The Pine Rot Cascade
 
-Fukuoka's investigation of pine rot across Japan revealed a chain reaction: soil acidification kills matsutake mushrooms (symbionts on pine roots), parasitic molds attack weakened trees, and nematodes follow. The nematode, identified by science as the "cause," was actually a late-stage opportunist.
+Fukuoka"s investigation of pine rot across Japan revealed a chain reaction: soil acidification kills matsutake mushrooms (symbionts on pine roots), parasitic molds attack weakened trees, and nematodes follow. The nematode, identified by science as the "cause," was actually a late-stage opportunist.
 
 This case study demonstrates that pest outbreaks are ecosystem-level failures, not simple pathogen problems. See [[insectary-plants-for-pest-control]].
 

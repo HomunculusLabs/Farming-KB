@@ -9,7 +9,7 @@ tags:
 Sterilization is the single most critical factor in successful home mushroom
 cultivation. No matter how carefully you prepare your substrate or select your
 strain, contamination will ruin the effort if aseptic technique is not rigorously
-maintained throughout every stage of the process. D.H. Jarrold's "Indoor Mushroom
+maintained throughout every stage of the process. D.H. Jarrold"s "Indoor Mushroom
 Growing Technique for the Boil-A-Bag" places sterilization and hygiene at the
 foundation of the entire method, treating them as non-negotiable prerequisites.
 

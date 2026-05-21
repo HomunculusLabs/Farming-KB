@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-The concept of **doctrinal compliance** bridges the gap between magical healing practices and modern Western psychotherapy. First articulated by Ehrenwald (1966), doctrinal compliance describes the phenomenon in which patients unconsciously conform to their therapist's theoretical framework, producing experiences that validate the practitioner's beliefs and methods. This concept is particularly illuminating when applied to ayahuasca healing in the Peruvian Amazon, where the interplay between healer authority, patient expectations, and culturally structured hallucinogenic experiences creates a therapeutic system that operates through mechanisms strikingly parallel to those identified in clinical psychotherapy.
+The concept of **doctrinal compliance** bridges the gap between magical healing practices and modern Western psychotherapy. First articulated by Ehrenwald (1966), doctrinal compliance describes the phenomenon in which patients unconsciously conform to their therapist"s theoretical framework, producing experiences that validate the practitioner's beliefs and methods. This concept is particularly illuminating when applied to ayahuasca healing in the Peruvian Amazon, where the interplay between healer authority, patient expectations, and culturally structured hallucinogenic experiences creates a therapeutic system that operates through mechanisms strikingly parallel to those identified in clinical psychotherapy.
 
 ## Doctrinal Compliance Defined
 
@@ -61,7 +61,7 @@ The healer functions as a **creative source** who interprets the symbols appeari
 A crucial element of doctrinal compliance in ayahuasca healing is the **preparatory exorcistic period** that precedes drug administration. Good healers may spend up to **two weeks** exorcising "evil" before allowing certain patients to take ayahuasca. This period serves multiple functions:
 
 1. **Establishing expectations**: Patients learn what they are supposed to experience, see, and feel during the session
-2. **Building trust**: The extended preparatory contact demonstrates the healer's commitment and builds confidence in their abilities
+2. **Building trust**: The extended preparatory contact demonstrates the healer"s commitment and builds confidence in their abilities
 3. **Managing doubt**: Patients who might be skeptical ("doubting Thomases") are gradually brought into alignment with the magical worldview through repeated exposure
 4. **Sensory preparation**: The use of narcotic-like tobacco (possibly *Nicotiana tabacum*) during preparation may provide a mild altered-state experience that serves as a bridge to the more intense ayahuasca experience
 
@@ -77,7 +77,7 @@ For the latter group, the healer must work harder to establish the magical frame
 
 ### Cultural Expectations and Vision Content
 
-Patients' expectations — learned either in childhood or reinforced during preparatory sessions — create a powerful filter through which hallucinogenic experience is interpreted:
+Patients" expectations — learned either in childhood or reinforced during preparatory sessions — create a powerful filter through which hallucinogenic experience is interpreted:
 
 - They **expect** to be visited by a boa constrictor or other snake
 - They **believe** in the curative prediction of success that accompanies such an apparition's appearance
@@ -104,7 +104,7 @@ Dobkin de Rios argues that ayahuasca healing **cannot be reduced to a placebo ef
 
 1. **Not used for verbal insight**: Unlike some forms of psychotherapy, ayahuasca is not employed to gain verbal insight or work through psychodynamic material for long-range cures
 2. **Diagnostic function**: The drug serves primarily to identify the cause of magical illness, not to treat it directly
-3. **Specific attribution**: Healing requires identifying a specific agent (a person who caused harm), not merely believing in the treatment's efficacy
+3. **Specific attribution**: Healing requires identifying a specific agent (a person who caused harm), not merely believing in the treatment"s efficacy
 4. **Anxiety transformation**: The drug transforms generalized, immobilizing anxiety into specific fear attributed to a particular evil-doer
 
 ### The Anxiety Transformation Model

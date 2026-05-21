@@ -10,9 +10,9 @@ sources:
 
 # Permaculture Principle 7 — Design from Patterns to Details
 
-The seventh of David Holmgren's twelve permaculture design principles. By stepping back and observing the patterns in nature and society, we can design solutions that work at multiple scales. The details are then filled in once the overall pattern is established.
+The seventh of David Holmgren"s twelve permaculture design principles. By stepping back and observing the patterns in nature and society, we can design solutions that work at multiple scales. The details are then filled in once the overall pattern is established.
 
-> "Can't see the forest for the trees: By stepping back, we can observe patterns in nature and society. These can form the backbone of our designs, with the details filled in as we go." — David Holmgren
+> "Can"t see the forest for the trees: By stepping back, we can observe patterns in nature and society. These can form the backbone of our designs, with the details filled in as we go." — David Holmgren
 
 ## Core Concept
 
@@ -22,7 +22,7 @@ Holmgren emphasizes that patterns in nature occur at multiple scales simultaneou
 
 ## Pattern Language
 
-Holmgren draws on Christopher Alexander's concept of a pattern language — a set of recurring design solutions that can be combined in flexible ways. In permaculture, patterns from nature provide a vocabulary for design:
+Holmgren draws on Christopher Alexander"s concept of a pattern language — a set of recurring design solutions that can be combined in flexible ways. In permaculture, patterns from nature provide a vocabulary for design:
 
 - **Branching**: For paths, waterways, and road systems — efficient collection or distribution
 - **Spirals**: For herb gardens and herb spirals, compacting linear space into efficient coils

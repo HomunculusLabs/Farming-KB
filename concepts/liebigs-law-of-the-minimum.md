@@ -1,5 +1,5 @@
 ---
-title: Liebig's Law of the Minimum
+title: Liebig"s Law of the Minimum
 source: lowenfels-jeff-teaming-with-nutrients_-the-organic-garden.md
 type: concept
 ---
@@ -16,7 +16,7 @@ The barrel analogy is particularly powerful because it shows that growth does no
 
 ## Justus von Liebig and the Mineral Theory of Plant Nutrition
 
-Justus von Liebig (1803–1873) made transformative contributions to agricultural chemistry. Before his work, many believed that plants obtained their sustenance from humus (decomposed organic matter) in the soil — the so-called "humus theory" of plant nutrition popularized by Thaer. Von Liebig's **Mineral Theory of Plant Nutrition**, published around 1840, proposed that plants absorb inorganic minerals and salts from the soil, and that carbon comes from the air through photosynthesis. This was a revolutionary insight that redirected agricultural science toward understanding mineral nutrition.
+Justus von Liebig (1803–1873) made transformative contributions to agricultural chemistry. Before his work, many believed that plants obtained their sustenance from humus (decomposed organic matter) in the soil — the so-called "humus theory" of plant nutrition popularized by Thaer. Von Liebig"s **Mineral Theory of Plant Nutrition**, published around 1840, proposed that plants absorb inorganic minerals and salts from the soil, and that carbon comes from the air through photosynthesis. This was a revolutionary insight that redirected agricultural science toward understanding mineral nutrition.
 
 Von Liebig's work laid the groundwork for modern fertilizer science and helped establish the importance of balanced mineral nutrition. His laboratory in Giessen, Germany, became a center for agricultural chemistry research, training a generation of scientists who spread his ideas across Europe and North America. His principles continue to influence how gardeners, farmers, and agronomists think about soil fertility to this day.
 
@@ -67,7 +67,7 @@ While Tull's specific theories about how plants absorb nutrients were not entire
 
 ## Modern Implications for Gardeners
 
-Understanding Liebig's Law of the Minimum transforms how gardeners approach soil management:
+Understanding Liebig"s Law of the Minimum transforms how gardeners approach soil management:
 
 1. **Test before fertilizing**: Soil testing reveals which nutrients are actually limiting, preventing wasteful or harmful over-application of nutrients that are already sufficient.
 
@@ -79,7 +79,7 @@ Understanding Liebig's Law of the Minimum transforms how gardeners approach soil
 
 5. **Biological activity unlocks nutrients**: Soil microbes and mycorrhizal fungi can access nutrients that are physically present in the soil but chemically unavailable to plants. They effectively raise the "shortest stave" by solubilizing phosphorus, chelating iron, and mineralizing organic nitrogen.
 
-6. **Address non-nutrient limiting factors**: Liebig's principle extends beyond mineral nutrients. Water, light, temperature, soil structure, and soil biology can all be limiting factors. A gardener who provides perfect nutrition but allows soil to become compacted may find that physical root restriction becomes the new minimum.
+6. **Address non-nutrient limiting factors**: Liebig"s principle extends beyond mineral nutrients. Water, light, temperature, soil structure, and soil biology can all be limiting factors. A gardener who provides perfect nutrition but allows soil to become compacted may find that physical root restriction becomes the new minimum.
 
 ## Limitations of the Law
 
@@ -89,7 +89,7 @@ While Liebig's Law of the Minimum remains a powerful conceptual tool, it has imp
 
 - **Multiple limitations can coexist**: The original law assumes a single limiting factor, but in practice, several nutrients or conditions may be simultaneously limiting. The "most limiting" factor may shift as conditions change throughout the growing season.
 
-- **Non-nutrient factors are equally limiting**: Temperature, moisture, light, soil aeration, pH, and soil structure can all independently limit growth regardless of nutrient supply. The modern concept of "Liebig's Law" has been broadened to include these factors.
+- **Non-nutrient factors are equally limiting**: Temperature, moisture, light, soil aeration, pH, and soil structure can all independently limit growth regardless of nutrient supply. The modern concept of "Liebig"s Law" has been broadened to include these factors.
 
 - **Growth vs. yield**: The law was originally formulated in terms of biomass growth, but in agriculture, the goal is often harvestable yield or nutritional quality — outcomes that may be limited by different factors than vegetative growth.
 

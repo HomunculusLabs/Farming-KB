@@ -16,7 +16,7 @@ Once man began to think he grew rice, scientific discrimination arose. This
 created a rift between rice and the land, leading to a profound loss of unity
 with nature.
 
-Rice was reduced from a mere foodstuff, and the farmer's work was reclassified
+Rice was reduced from a mere foodstuff, and the farmer"s work was reclassified
 as economically inefficient and unscientific.
 
 As Fukuoka wrote: "More than just the staff of life, the rice grown on Japanese
@@ -65,7 +65,7 @@ on imports, and farmers were effectively encouraged to abandon wheat
 cultivation.
 
 "It was neither money nor labor that supported the arduous practice of double
-cropping... It was pride." That pride has now been eroded, and Japan's calorie
+cropping... It was pride." That pride has now been eroded, and Japan"s calorie
 self-sufficiency has dropped below forty percent, raising serious questions
 about the nation's food security.
 

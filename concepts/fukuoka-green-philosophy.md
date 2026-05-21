@@ -10,7 +10,7 @@ created: 2026-05-09
 
 ## Overview
 
-Masanobu Fukuoka's "green philosophy" is not merely an agricultural method but a
+Masanobu Fukuoka"s "green philosophy" is not merely an agricultural method but a
 comprehensive worldview that challenges the foundations of Western scientific
 thought and industrial civilization. "The Natural Way of Farming: The Theory and
 Practice of Green Philosophy" presents nature as a holistic, indivisible biosystem

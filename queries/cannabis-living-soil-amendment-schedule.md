@@ -70,7 +70,7 @@ A synthesized week-by-week schedule combining [[knf-preparations]], [[nutritive-
 
 - Switch light to 12/12. Shift spectrum toward red-heavy over 3-5 days
 - Ensure complete darkness during off period \u2014 light leaks cause hermaphroditism
-- This is the start of Cho's **changeover period** \u2014 the most critical nutrient transition
+- This is the start of Cho"s **changeover period** \u2014 the most critical nutrient transition
 
 ## Flower Weeks 1-2 (Stretch + Changeover)
 

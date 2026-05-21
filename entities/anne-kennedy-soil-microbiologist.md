@@ -7,7 +7,7 @@ tags: [researcher, soil-ecology, weed-science, microbiology]
 
 ## Description
 
-Anne Kennedy is a soil microbiologist whose research focuses on dormant weed seed decay mediated by soil microorganisms. Dr. Elaine Ingham identifies Kennedy's work as one of the few significant scientific contributions on the mechanism by which soil biology affects weed populations.
+Anne Kennedy is a soil microbiologist whose research focuses on dormant weed seed decay mediated by soil microorganisms. Dr. Elaine Ingham identifies Kennedy"s work as one of the few significant scientific contributions on the mechanism by which soil biology affects weed populations.
 
 ## Classification
 

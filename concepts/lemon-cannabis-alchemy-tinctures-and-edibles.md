@@ -10,7 +10,7 @@ tags: [cannabis, medicine-making]
 
 ## Lemon Cannabis Alchemy - Tinctures and Edibles
 
-Ben Lemon's "Cannabis Alchemy" primarily focuses on [[mushroom-polysaccharide-extraction-chemistry]], the sections on [[cannabis-thc-acetate-preparation]] is specifically noted to have a thirty-minute delay.
+Ben Lemon"s "Cannabis Alchemy" primarily focuses on [[mushroom-polysaccharide-extraction-chemistry]], the sections on [[cannabis-thc-acetate-preparation]] is specifically noted to have a thirty-minute delay.
 - **Potency multiplication**: The chemical refinement processes (isomerization, acetylation) that increase oil potency apply equally to all [[mushroom-spawn]] for producing nearly pure THC, which would yield the most potent possible capsules and tinctures. [[shirota-4-hydroxyindole-acetyl-protection-psilocin-synthesis-starting-material]] allows for dose standardization when preparing capsules or tinctures.
 - **Lettuce opium extract**: The book notes that a high-quality extract of dried, pulverized lettuce can be produced using the same apparatus and methods (ISO-2 or Isomerizer with isopropyl alcohol). After solvent removal, the "lettuce opium" residue may be smoked in the same manners as hash oil, suggesting that the consumption methods described have broader applicability beyond cannabis.
 
@@ -117,5 +117,3 @@ Collaborative research networks facilitate knowledge exchange and accelerate inn
 Context-specific implementation requires attention to local ecology, climate patterns, and community needs.
 Integration with existing systems often yields better results than complete replacement strategies.
 Monitoring and adaptive management are essential for long-term success and continuous improvement.
-## Practical Applications
-The principles discussed here have direct applications in agricultural systems, ecological restoration, and sustainable resource management.

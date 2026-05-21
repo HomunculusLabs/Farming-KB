@@ -22,7 +22,7 @@ danger signals. Even the Field Mushroom (Psalliota campestris) and the
 Horse Mushroom (Psalliota arvensis) show slight colour changes: the
 flesh of the first becoming slightly reddish, that of the second
 yellowish, when cut.
-## Boletus Satanas — Devil's Bolete
+## Boletus Satanas — Devil"s Bolete
 Boletus satanas is among the most handsome of European boletes, with a
 dirty white or greyish cap often tinged with olive, and a stem that is
 yellow above and below with a bright red middle covered in a close

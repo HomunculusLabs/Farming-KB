@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-[[claudio-naranjo]]'s experimental research documented recurring visions of large felines (tigers, panthers, jaguars), reptiles (snakes, crocodiles, lizards), dragons, and prehistoric creatures among subjects under the influence of yage and harmaline. These visions closely parallel the animal spirits encountered by indigenous [[ayahuasqueros-amazonian-shamans]], providing further evidence for the biochemical basis of cross-cultural shamanic imagery.
+[[claudio-naranjo]]"s experimental research documented recurring visions of large felines (tigers, panthers, jaguars), reptiles (snakes, crocodiles, lizards), dragons, and prehistoric creatures among subjects under the influence of yage and harmaline. These visions closely parallel the animal spirits encountered by indigenous [[ayahuasqueros-amazonian-shamans]], providing further evidence for the biochemical basis of cross-cultural shamanic imagery.
 
 ## Feline Visions
 
@@ -18,17 +18,17 @@ Among Naranjo's Chilean subjects, felines appeared with remarkable frequency. On
 
 "At first, many tiger faces. Panthers and all kinds of cats. Black and yellow. Then the tiger. The largest and strongest of all. I know (for I read his thought) that I must follow him."
 
-The tiger is experienced not merely as a visual image but as a being with thoughts and intentions that the subject can "read." This telepathic quality—the ability to perceive the animal's mind—is a consistent feature of animal visions in both experimental and indigenous contexts.
+The tiger is experienced not merely as a visual image but as a being with thoughts and intentions that the subject can "read." This telepathic quality—the ability to perceive the animal"s mind—is a consistent feature of animal visions in both experimental and indigenous contexts.
 
 ### The Plateau and the Abyss
 
-The subject follows the tiger to a plateau's edge, beyond which lies brightness she cannot penetrate. Above the luminescence, "a statue of the Virgin with the child in her arms" ascends into the sky. This synthesis of indigenous animal-spirit imagery with Christian iconography demonstrates how the yage experience integrates the subject's cultural background with the drug's inherent visionary content.
+The subject follows the tiger to a plateau's edge, beyond which lies brightness she cannot penetrate. Above the luminescence, "a statue of the Virgin with the child in her arms" ascends into the sky. This synthesis of indigenous animal-spirit imagery with Christian iconography demonstrates how the yage experience integrates the subject"s cultural background with the drug's inherent visionary content.
 
-At a later stage, the subject descends into the abyss, which is Hell: "round and in it is fluid fire, or fluid gold. People swim in it." The tiger guides her: "The tiger wants me to go there. I don't know how to descend. I grasp the tiger's tail and he jumps. Because of his musculature the jump is graceful and slow. The tiger swims in the liquid fire as I sit on his back."
+At a later stage, the subject descends into the abyss, which is Hell: "round and in it is fluid fire, or fluid gold. People swim in it." The tiger guides her: "The tiger wants me to go there. I don"t know how to descend. I grasp the tiger's tail and he jumps. Because of his musculature the jump is graceful and slow. The tiger swims in the liquid fire as I sit on his back."
 
 ### The Devouring
 
-The vision takes a darker turn: "I then suddenly see my tiger is eating up a woman. But no. It is not the tiger. It is an animal with a crocodile's head and the body of a fatter, larger animal with four feet." This metamorphosis—from trusted guide to devouring predator—reflects the ambivalent nature of the psychedelic experience, in which the same entity can be both protector and threat.
+The vision takes a darker turn: "I then suddenly see my tiger is eating up a woman. But no. It is not the tiger. It is an animal with a crocodile"s head and the body of a fatter, larger animal with four feet." This metamorphosis—from trusted guide to devouring predator—reflects the ambivalent nature of the psychedelic experience, in which the same entity can be both protector and threat.
 
 ## Reptilian Visions
 
@@ -60,7 +60,7 @@ The "prehistoric pond" vision, with its "primitive forms of life," represents th
 
 ### Indigenous Feline Spirits
 
-The prominence of feline visions in Naranjo's Chilean subjects mirrors the centrality of jaguar spirits [[chullachaki-and-soul-recovery-in-amazonian-shamanism]]. Among the Amahuaca, the jaguar yoshi is the most important spirit connected with both healing and witchcraft. Among the Jivaro, the jaguar appears in diagnostic visions. The consistency of feline imagery across cultures and settings supports the biochemical reinforcement thesis.
+The prominence of feline visions in Naranjo"s Chilean subjects mirrors the centrality of jaguar spirits [[chullachaki-and-soul-recovery-in-amazonian-shamanism]]. Among the Amahuaca, the jaguar yoshi is the most important spirit connected with both healing and witchcraft. Among the Jivaro, the jaguar appears in diagnostic visions. The consistency of feline imagery across cultures and settings supports the biochemical reinforcement thesis.
 
 ### Dragons
 

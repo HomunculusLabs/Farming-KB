@@ -19,7 +19,7 @@ The result is grain that has been pre-digested by fungal enzymes. When koji is m
 
 ## The Science: Amylase Enzymes
 
-Amylase enzymes are the key to koji's function. There are two main types relevant to fermentation:
+Amylase enzymes are the key to koji"s function. There are two main types relevant to fermentation:
 
 ### Alpha-Amylase
 

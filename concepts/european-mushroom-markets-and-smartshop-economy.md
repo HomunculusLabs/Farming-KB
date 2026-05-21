@@ -24,7 +24,7 @@ turnover, making them the flagship product of the Dutch smartshop industry.
 
 ### Paddo Cabs
 
-A distinctive feature of the Dutch market was the 'paddo cab' delivery
+A distinctive feature of the Dutch market was the "paddo cab' delivery
 service. These specialized vehicles transported mushrooms directly to
 customers, demonstrating the commercial sophistication the mushroom market
 achieved in the Netherlands.
@@ -44,7 +44,7 @@ The commercial mushroom market developed its own vocabulary and branding:
 - **Zauberpilze** (German, meaning "magic mushrooms")
 - **Mushies** (English colloquial)
 - **Boomers** (English slang)
-- **Philosopher's stone** (marketing term for sclerotia/truffles)
+- **Philosopher"s stone** (marketing term for sclerotia/truffles)
 - **Teonanacatl** (from Nahuatl, used in ethnobotanical marketing)
 
 These terms reflect both local linguistic traditions and cross-cultural

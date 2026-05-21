@@ -1,11 +1,11 @@
 ---
-title: "Fukuoka's Inductive vs Deductive Reasoning in Agricultural Research"
+title: "Fukuoka"s Inductive vs Deductive Reasoning in Agricultural Research"
 tags:
   - concept
 ---
 
 ## Source
-*[[fukuoka-illusions-scientific-farming-centrifugal-centripetal-model]]'s reliance on inductive
+*[[fukuoka-illusions-scientific-farming-centrifugal-centripetal-model]]"s reliance on inductive
 experimentation can only prevent crop losses while true deductive — and ultimately
 intuitive — reasoning is required for genuine yield improvements. He likened the two
 methods to two climbers ascending a rock face, where induction checks footing while

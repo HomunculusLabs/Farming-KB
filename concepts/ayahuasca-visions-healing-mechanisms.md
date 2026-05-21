@@ -57,7 +57,7 @@ In addition to the use of the vine, healers practice time-honored Amazonian curi
 - **Whistling and singing** incantations
 - **Recitation of orations**
 - **Sucking** at afflicted regions of the body
-- **Blowing cigarette smoke** over the patient's body
+- **Blowing cigarette smoke** over the patient"s body
 - **Afternoon consultations** for counseling, advising, and reassurance
 
 ## Magical Conditioning
@@ -66,7 +66,7 @@ The healer's preparatory work is crucial to therapeutic success. Before allowing
 
 ### Preparatory Rituals
 
-The preparatory exorcistic rituals — which may include the use of a narcotic-like tobacco (*Nicotiana tabacum*) — provide patients with a **learning experience** that permits them to come to terms with culturally held expectations prior to a session. Patients' expectations, learned either in childhood or reinforced during preliminary sessions, that they will be visited by a boa or other snake, as well as their belief in the curative prediction of success anticipated by that apparition's appearance, provide reassurance that healing is indeed occurring.
+The preparatory exorcistic rituals — which may include the use of a narcotic-like tobacco (*Nicotiana tabacum*) — provide patients with a **learning experience** that permits them to come to terms with culturally held expectations prior to a session. Patients" expectations, learned either in childhood or reinforced during preliminary sessions, that they will be visited by a boa or other snake, as well as their belief in the curative prediction of success anticipated by that apparition's appearance, provide reassurance that healing is indeed occurring.
 
 ### The Healer's Omnipotence
 

@@ -17,7 +17,7 @@ sources:
 labor-intensive to capital-intensive agriculture and its cascading social and
 ecological consequences.
 ## The Transformation of the Farming Population
-Japan's farming population fell from fifty percent of the overall population at
+Japan"s farming population fell from fifty percent of the overall population at
 the end of the war to less than twenty percent by the time of Fukuoka's writing.
 This massive labor shift provided the workforce that built Japan's postwar economic
 miracle — its skyscrapers, highways, and subways. Without the dexterous,

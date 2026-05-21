@@ -17,7 +17,7 @@ Fukuoka reveals for the first time the foundational experience of his life: "I r
 
 ## Touching the Great Spirit
 
-In Africa, Fukuoka argues that "the ancient 'Great Spirit' must be revived and a spiritual culture developed" alongside practical revegetation efforts. Without this spiritual dimension, even successful farming is incomplete. "The first step in achieving this is the establishment of domestic life, and the quickest and most effective means of doing so is through natural farming."
+In Africa, Fukuoka argues that "the ancient "Great Spirit' must be revived and a spiritual culture developed" alongside practical revegetation efforts. Without this spiritual dimension, even successful farming is incomplete. "The first step in achieving this is the establishment of domestic life, and the quickest and most effective means of doing so is through natural farming."
 
 ## The Wandering God
 
@@ -37,13 +37,13 @@ The spiritual path requires abandonment of the ego. "One must abandon oneself ea
 
 ## The Confession: Turning Away from God
 
-Fukuoka's most intimate passage reveals the personal cost of his revelation. "On that day in my far-off youth when I knew God — from that day forth, I should have followed His divine will. But at the time, I was just a stupid, good-for-nothing youth hopelessly corrupted by the secular world. Overwhelmed with awe and amazement at the indescribably glorious sight of God, I shirked my duty." He confesses to having "turned my back upon Him and began to walk the road back to my own egoistic self," choosing "the road of a dilettante farmer tilling a lost paradise" instead of the path God had shown him.
+Fukuoka"s most intimate passage reveals the personal cost of his revelation. "On that day in my far-off youth when I knew God — from that day forth, I should have followed His divine will. But at the time, I was just a stupid, good-for-nothing youth hopelessly corrupted by the secular world. Overwhelmed with awe and amazement at the indescribably glorious sight of God, I shirked my duty." He confesses to having "turned my back upon Him and began to walk the road back to my own egoistic self," choosing "the road of a dilettante farmer tilling a lost paradise" instead of the path God had shown him.
 
 For decades he lived in anguish: "Impatient with my own daily imbecility, I yearned after a God I was unable to forget no matter how hard I tried." He admits that "over the course of these decades, I have not lived even a single day at peace." This raw confession gives his spiritual teaching an authority that comes not from triumph but from failure and repentance.
 
 ## The Poem: Eden and the Road Back
 
-Fukuoka's poetry distills his spiritual vision:
+Fukuoka"s poetry distills his spiritual vision:
 
 > Look how beautiful, the flowers of the earth!
 > This is the land where live the gods;
@@ -62,7 +62,7 @@ The poem connects the Eden of his orchard to the broader human condition — par
 
 ## The Great Spirit
 
-Fukuoka's understanding of the divine draws on both Eastern and indigenous traditions. "Nature is an astounding reality. One must constantly keep in mind that coming into contact with true nature can be an overwhelming experience. This is, after all, a world of inspiration that can justly be called the 'Great Spirit.'" This framing connects his farming practice to the spiritual traditions of indigenous peoples worldwide, suggesting that all genuine nature-based cultures share a common recognition of the sacred.
+Fukuoka's understanding of the divine draws on both Eastern and indigenous traditions. "Nature is an astounding reality. One must constantly keep in mind that coming into contact with true nature can be an overwhelming experience. This is, after all, a world of inspiration that can justly be called the "Great Spirit.'" This framing connects his farming practice to the spiritual traditions of indigenous peoples worldwide, suggesting that all genuine nature-based cultures share a common recognition of the sacred.
 
 ## Nature Does Not Destroy Itself
 

@@ -6,7 +6,7 @@ type: concept
 
 ## Emergence in Complex Systems
 
-Emergence is a key concept from systems theory describing how self-organisation within complex systems results in activity, structures, and behaviors that clearly arise from within the system but have the effect of either transforming it or producing something completely new. It is analogous to the Reorganisation phase of Holling's model of ecosystem succession, or the creation of new species in biological evolution.
+Emergence is a key concept from systems theory describing how self-organisation within complex systems results in activity, structures, and behaviors that clearly arise from within the system but have the effect of either transforming it or producing something completely new. It is analogous to the Reorganisation phase of Holling"s model of ecosystem succession, or the creation of new species in biological evolution.
 
 ## Understanding Emergence
 
@@ -28,7 +28,7 @@ As evidence mounts for the climax and rapid energy descent, the particular and l
 
 Even the grand assumption of Permaculture that the future of descending energy is inevitable may be mistaken. There is the possibility that some combination of computer networks, human culture, and biotechnology will create a runaway world of accelerating energetic and informational growth (at least for another few hundred years).
 
-It is clear that new evolutionary jumps emerge out of the chaos of high-energy systems, but these will not necessarily lead to human salvation. In any case, the forces at work are clearly beyond human control, so the practical response is to create a world that reflects human values and ethics within the constraints of nature's laws.
+It is clear that new evolutionary jumps emerge out of the chaos of high-energy systems, but these will not necessarily lead to human salvation. In any case, the forces at work are clearly beyond human control, so the practical response is to create a world that reflects human values and ethics within the constraints of nature"s laws.
 
 ## Genetic Engineering as Emergent Evolution
 

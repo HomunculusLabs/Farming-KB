@@ -9,7 +9,7 @@ topics: [psychotherapy, lsd, history, psycholytic, psychedelic, consciousness-ex
 
 ## Psychotomimetic Origins and Military Interest
 
-When LSD's "fantastically potent mind-altering qualities" were first discovered at Sandoz
+When LSD"s "fantastically potent mind-altering qualities" were first discovered at Sandoz
 laboratories during World War II, the compound was initially characterized as "psychotomimetic"
 — a substance that mimics psychosis — and "psycholytic," meaning "psyche-dissolving." The
 prospect of temporarily unhinging the mind from its normal parameters intrigued a small number
@@ -46,7 +46,7 @@ the Hollywood film, arts, and media community. This work brought considerable pu
 notoriety to psychedelics, as creative professionals reported transformative experiences that
 influenced their artistic output and personal lives.
 
-Janiger's research was particularly notable for its naturalistic approach — rather than
+Janiger"s research was particularly notable for its naturalistic approach — rather than
 conducting sessions in clinical settings with therapeutic goals, he observed the effects of
 LSD on creative individuals in relatively unstructured but supportive environments. This work
 documented the range of experiences available through psychedelics beyond the clinical context,

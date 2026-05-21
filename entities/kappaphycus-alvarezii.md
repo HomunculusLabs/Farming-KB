@@ -11,13 +11,12 @@ date: 2026-05-08
 updated: 2026-05-08
 sources:
   - Valderrama, D. et al. (2013). "Social and economic dimensions of carrageenan seaweed-farming-and-marine-aquaculture." FAO Fisheries Technical Paper, 580.---
----
 
 ## Kappaphycus alvarezii
 
 ## Overview
 
-**Kappaphycus alvarezii** (commonly known as cottonii, elkhorn sea moss, or gusô) is a commercially important red macroalga in the family Solieriaceae. It is the world's primary source of kappa-carrageenan, a hydrocolloid widely used in food processing.
+**Kappaphycus alvarezii** (commonly known as cottonii, elkhorn sea moss, or gusô) is a commercially important red macroalga in the family Solieriaceae. It is the world"s primary source of kappa-carrageenan, a hydrocolloid widely used in food processing.
 
 The species is native to the Indo-Pacific region, with origins traced to the Philippines and Indonesia. Global aquaculture production exceeds 15 million tonnes fresh weight annually, making it one of the most cultivated seaweeds worldwide.
 

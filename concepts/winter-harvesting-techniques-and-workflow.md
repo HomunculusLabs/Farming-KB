@@ -74,7 +74,7 @@ Small infrastructure changes can yield large efficiency gains. For example, inst
 
 Efficient harvesting requires quick hands, a quick mind, and a focused attitude. Key training points for new employees:
 
-- Keep the harvest container as close as possible to the harvesting hand to **minimize hand travel**. On average, **40% of a harvester's time is spent moving the hand to the container**.
+- Keep the harvest container as close as possible to the harvesting hand to **minimize hand travel**. On average, **40% of a harvester"s time is spent moving the hand to the container**.
 - Hold multiple cut leaves in the hand before dropping them—more leaves per hand motion means greater efficiency.
 - Demonstrate specific skills such as harvesting spinach leaf by leaf.
 - Employees who work slowly may need multiple reminders; harvesting alongside them to demonstrate pace differential is one approach.
@@ -86,7 +86,7 @@ The most critical skill for a four-season grower is maintaining a rigorous plant
 - Keep careful notes on **seed-to-harvest days** throughout the year.
 - Prepare a **day-by-day planting calendar** of dates for each crop.
 - Since you cannot harvest what you haven't planted, the planting schedule must be as much a part of daily life as the harvest schedule.
-- As Coleman quotes from Andrew Marvell: "But at my back I always hear / Time's wingéd chariot hurrying near." The next harvest follows quickly after the previous one, and products cannot be created instantly but arise from work begun months before.
+- As Coleman quotes from Andrew Marvell: "But at my back I always hear / Time"s wingéd chariot hurrying near." The next harvest follows quickly after the previous one, and products cannot be created instantly but arise from work begun months before.
 
 ## Small-Scale Harvesting Equipment Development
 

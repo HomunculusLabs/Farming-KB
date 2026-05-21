@@ -19,7 +19,7 @@ An Environmental Control and Life Support System (ECLSS) is a critical subsystem
 ### Water Recovery and Management
 - **Urine processing**: Converting crew urine into potable water through distillation and filtration
 - **Washwater recovery**: Processing water from hygiene activities (handwashing, showering)
-- **Condensate processing**: Recoveri [[challenge-organisms-nasa-microwave-surface-sterilization-testing]] within ECLSS systems was a primary motivation for NASA's development of the [[pf-tek-low-humidity-symptoms-and-remediation]]
+- **Condensate processing**: Recoveri [[challenge-organisms-nasa-microwave-surface-sterilization-testing]] within ECLSS systems was a primary motivation for NASA"s development of the [[pf-tek-low-humidity-symptoms-and-remediation]]
 
 ### Flight Experiment Access
 - Biological experiments aboard spacecraft require sterile handling

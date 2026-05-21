@@ -73,7 +73,7 @@ Understanding whether a pathogen is biotrophic, necrotrophic, or hemibiotrophic 
 
 Among the 13 completed fungal genomes as of 2006 are several important pathogens:
 
-- ***Saccharomyces cerevisiae***: Baker's yeast — the reference fungal genome and model eukaryote.
+- ***Saccharomyces cerevisiae***: Baker"s yeast — the reference fungal genome and model eukaryote.
 - ***Schizosaccharomyces pombe***: Fission yeast — another key model organism.
 - ***Magnaporthe grisea***: Rice blast fungus — one of the most important fungal plant pathogens globally.
 - ***Ustilago maydis***: Corn smut fungus — model for biotrophic plant-pathogen interactions.

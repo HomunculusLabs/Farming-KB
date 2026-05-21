@@ -2,7 +2,7 @@
 title: "Anemone Hepatica"
 type: entity
 tags: []
-sources: ['raw/papers/unknown-mushrooms-fungi-from-around-the-world.md']
+sources: ["raw/papers/unknown-mushrooms-fungi-from-around-the-world.md']
 ---
 
 The common name "liverleaf" refers to the three-lobed leaves, which resemble the shape of a human liver. In the medieval Doctrine of Signatures, this resemblance suggested the plant could treat liver ailments.

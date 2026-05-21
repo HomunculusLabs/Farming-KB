@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-The development of conservative strategies for preserving dryland species and the responsible human use and management of arid lands is arguably the world's most pressing problem in landscape management. Arid areas face compounding stresses: natural background fluctuations of rainfall due to earth-moon orbital cycles and solar radiation variance are now amplified by deforestation, soil erosion, and the consequent salting of waters and soils caused by human activity. All desert areas are extending, many dryland areas are being created, and antecedent plant and animal species are being driven to extinction.
+The development of conservative strategies for preserving dryland species and the responsible human use and management of arid lands is arguably the world"s most pressing problem in landscape management. Arid areas face compounding stresses: natural background fluctuations of rainfall due to earth-moon orbital cycles and solar radiation variance are now amplified by deforestation, soil erosion, and the consequent salting of waters and soils caused by human activity. All desert areas are extending, many dryland areas are being created, and antecedent plant and animal species are being driven to extinction.
 
 ## Desert Vegetation: Adaptation vs. Evasion
 

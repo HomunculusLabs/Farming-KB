@@ -6,7 +6,7 @@ topics: [permaculture, design, patterns, zones, sectors, holmgren]
 
 ## Design from Patterns to Details
 
-## Permaculture Design Principle #7 — "Can't See the Wood for the Trees"
+## Permaculture Design Principle #7 — "Can"t See the Wood for the Trees"
 
 [[mollison-lawn-reform-and-alternatives-in-permaculture-design]], we must first understand the
 broad patterns — of landscape, climate, culture, and energy flow — before filling

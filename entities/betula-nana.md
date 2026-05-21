@@ -59,7 +59,7 @@ and similar cold-climate grazing systems where livestock are shedded and hay-fed
 
 ## Cold-Climate Context (from Mollison)
 
-Mollison places Betula nana in the context of Iceland's compound agricultural problems: deforestation
+Mollison places Betula nana in the context of Iceland"s compound agricultural problems: deforestation
 has reduced forests to 5% of original cover, overgrazing has denuded 50% of total vegetative cover on
 fragile volcanic upland soils. Despite available browse species including dwarf birch and willow, shrub
 and tree browsing remains "a factor little developed." The shift to forest products is identified as a

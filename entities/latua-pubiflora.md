@@ -34,7 +34,7 @@ Latua pubiflora is a branched evergreen shrub with woody stems that grows to app
 
 The green leaves are lanceolate, with a continuous margin tapered at the petiole, measuring 4 to 5 inches (12 to 15 cm) long. The leaves are arranged alternately along the stems and have a slightly rough surface texture. The flowers are white, occasionally with rose speckles, and bell-shaped (up to 7 mm long), hanging in clusters from the tips of the branches. The fruit is a black berry containing numerous tiny seeds.
 
-The plant's distinctive vanilla-scented wood and attractive flowers make it a striking species in its native habitat, though its extreme rarity means few people have encountered it in the wild.
+The plant"s distinctive vanilla-scented wood and attractive flowers make it a striking species in its native habitat, though its extreme rarity means few people have encountered it in the wild.
 
 ## Distribution
 

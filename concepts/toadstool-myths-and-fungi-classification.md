@@ -8,7 +8,7 @@ type: concept
 
 ## Mushroom vs. Toadstool: There Is No Difference
 
-One of Palmer's most fundamental points was the popular conflation of "mushroom" and "toadstool" as distinct categories. He recounts an incident on Boston Common where he was detaching a large fungus from the famous Liberty Tree. A bystander warned him it was not a mushroom but a toadstool. Palmer's response, which he urged readers to remember: "Every mushroom is a toadstool, and every toadstool is a mushroom."
+One of Palmer"s most fundamental points was the popular conflation of "mushroom" and "toadstool" as distinct categories. He recounts an incident on Boston Common where he was detaching a large fungus from the famous Liberty Tree. A bystander warned him it was not a mushroom but a toadstool. Palmer"s response, which he urged readers to remember: "Every mushroom is a toadstool, and every toadstool is a mushroom."
 
 The analogy was clear: calling one fungus a "mushroom" and all others "toadstools" was as imprecise as calling a beet a "vegetable" and every other garden plant merely a "plant." Both terms refer to the same group of organisms — the fleshy, macroscopic fungi. The distinction implied by common language (mushroom = edible, toadstool = poisonous) has no scientific basis.
 
@@ -46,7 +46,7 @@ Palmer systematically dismantled the identification rules commonly found in news
 **Reality**: "A whole family (Russulae) have equal gills." The entire [[russula-genus]] features equal-length gills, and many species are edible.
 
 ### Myth: Mushrooms that run into a dark, watery liquid are dangerous
-**Reality**: This is a characteristic of certain melzer's-reaction-positive species and is not a toxicity indicator.
+**Reality**: This is a characteristic of certain melzer"s-reaction-positive species and is not a toxicity indicator.
 
 ### Myth: Mushrooms that taste bitter or burn the mouth are poisonous
 **Reality**: "The honey-colored mushroom (*[[agaricus-melleus]]*) is very acrid raw, as are also others, equally harmless when cooked." Acridity in some species is destroyed by heat.
@@ -67,7 +67,7 @@ Palmer systematically dismantled the identification rules commonly found in news
 
 Palmer drew a powerful analogy to art appreciation. How does an expert like Mr. Jarves distinguish a painting by Leonardo da Vinci from one by Guido Reni? The knowledge cannot be fully communicated in words — it requires direct experience and trained perception. Similarly, "from essays on the early painters, you draw conclusions which enable you to distinguish at sight the works of two artists."
 
-In kitchen-lore, children learn to distinguish foods "with its earliest lessons at the mother's apron-string." Palmer argued that [[dna-barcoding-fungal-identification]] could only be advanced through two means: "first, exact [[fukuoka-textdoc-nature-must-not-be-dissected-limits-scientific-analysis]]; second, the circulation of arbitrary, traditional information" — essentially, [[palmer-mushroom-cooking-and-personal-experience]] guided by expert knowledge.
+In kitchen-lore, children learn to distinguish foods "with its earliest lessons at the mother"s apron-string." Palmer argued that [[dna-barcoding-fungal-identification]] could only be advanced through two means: "first, exact [[fukuoka-textdoc-nature-must-not-be-dissected-limits-scientific-analysis]]; second, the circulation of arbitrary, traditional information" — essentially, [[palmer-mushroom-cooking-and-personal-experience]] guided by expert knowledge.
 
 ## The Four Grand Divisions of Fungi
 

@@ -6,7 +6,7 @@ type: concept
 
 ## Garden Hoe Techniques and Weeding
 
-The garden hoe is the single most important weeding tool. A sharp hoe used with proper technique can clear 2,000 square feet (200 sq m) of growing beds and paths in about one concentrated hour — a task that would take many hours of painful hand-pulling with dull fingers. Mastering hoe technique transforms weeding from the gardener's most dreaded chore into quick, satisfying work.
+The garden hoe is the single most important weeding tool. A sharp hoe used with proper technique can clear 2,000 square feet (200 sq m) of growing beds and paths in about one concentrated hour — a task that would take many hours of painful hand-pulling with dull fingers. Mastering hoe technique transforms weeding from the gardener"s most dreaded chore into quick, satisfying work.
 
 ## The Standard Garden Hoe
 

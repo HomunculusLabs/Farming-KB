@@ -1,5 +1,5 @@
 ---
-title: "Fukuoka's Principle of Non-Causality in Agriculture"
+title: "Fukuoka"s Principle of Non-Causality in Agriculture"
 created: 2026-04-28
 tags:
 

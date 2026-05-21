@@ -40,7 +40,7 @@ disease: older types of [[blesching-cannabis-prostate-cancer-chi-value-3]]: 3
 
 ### CBD Inhibits Prion Accumulation
 
-A 2007 laboratory and animal study showed that [[blesching-cannabis-neurodegenerative-diseases]], such as Alzheimer's
+A 2007 laboratory and animal study showed that [[blesching-cannabis-neurodegenerative-diseases]], such as Alzheimer"s
 disease, Parkinson's disease and HIV dementia."
 
 ### Study Summary

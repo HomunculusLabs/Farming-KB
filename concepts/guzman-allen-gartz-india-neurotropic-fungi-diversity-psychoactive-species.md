@@ -10,7 +10,7 @@ tags: [neurotropic-fungi, india, mycology, distribution, psilocybin, biodiversit
 
 ## Overview
 
-India represents one of the most species-rich regions for [[neurotropic-fungi]] in Asia, as documented in Guzmán, Allen & Gartz's (2000) worldwide survey. The subcontinent's diverse climates — from tropical to alpine Himalayan — support a remarkably wide range of psychoactive fungal genera, including Amanita, Claviceps, Copelandia, Gymnopilus, Hypholoma, Inocybe, Panaeolina, Panaeolus, Psilocybe, and others.
+India represents one of the most species-rich regions for [[neurotropic-fungi]] in Asia, as documented in Guzmán, Allen & Gartz"s (2000) worldwide survey. The subcontinent's diverse climates — from tropical to alpine Himalayan — support a remarkably wide range of psychoactive fungal genera, including Amanita, Claviceps, Copelandia, Gymnopilus, Hypholoma, Inocybe, Panaeolina, Panaeolus, Psilocybe, and others.
 
 ## Species Inventory
 
@@ -41,13 +41,13 @@ Two Hypholoma species were described from Indian collections:
 - **Inocybe corydalina** — Sathe & Sasangam (1977). Most Inocybe species are difficult to identify in the field and some contain dangerous toxins alongside potential psychoactive compounds.
 
 ### Panaeolina Species
-- **Panaeolina foenisecii** — Natarajan & Raman (1983). The cosmopolitan "haymaker's mushroom," subject of long-standing psilocybin controversy.
+- **Panaeolina foenisecii** — Natarajan & Raman (1983). The cosmopolitan "haymaker"s mushroom," subject of long-standing psilocybin controversy.
 - **Panaeolina microsperma** — Natarajan & Raman (1983)
 
 ### Panaeolus Species
 India has a particularly rich Panaeolus fauna:
 - **Panaeolus africanus** — Natarajan & Raman (1983)
-- **Panaeolus ater** — Ola'h (1968, 1969, 1970)
+- **Panaeolus ater** — Ola"h (1968, 1969, 1970)
 - **Panaeolus papilionaceus** — Bhide et al. (1987)
 - **Panaeolus sphinctrinus** — Ola'h (1969), Natarajan & Raman (1983)
 - **Panaeolus subbalteatus** — Ola'h (1969), Natarajan & Raman (1983)

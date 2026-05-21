@@ -6,7 +6,7 @@ type: concept
 
 ## Earthworms and Difficult Soils
 
-## Earthworms: Nature's Plough
+## Earthworms: Nature"s Plough
 
 [[calcrete-caliche]] is a hard, mainly level subsurface concretion about 0.5-1.0 m below a granular or sandy topsoil. It is typical of coral islands (calcium triphosphate) and the downwind areas of desert borders. Key characteristics and management:
 

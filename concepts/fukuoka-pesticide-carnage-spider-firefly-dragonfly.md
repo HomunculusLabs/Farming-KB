@@ -65,7 +65,7 @@ field produces roughly 250 heads of grain per square yard, or about 33
 bushels per quarter-acre, without any pesticide application whatsoever.
 
 The presence of spiders, frogs, locusts, and dragonflies is not a sign of
-pest problems but of ecological health. These organisms are the farmers'
+pest problems but of ecological health. These organisms are the farmers"
 true allies, performing pest control more effectively and efficiently than
 any chemical spray.
 

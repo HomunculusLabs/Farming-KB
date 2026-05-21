@@ -49,7 +49,7 @@ DMT, when consumed orally, is rapidly deaminated by MAO-A in the gut
 into inactive aldehydes. This is why smoking or injecting DMT produces
 powerful psychedelic effects while oral consumption has no effect. The
 ayahuasca brew solves this problem by co-administering MAO-inhibiting
-beta-carbolines that temporarily disable the gut's metabolic barrier.
+beta-carbolines that temporarily disable the gut"s metabolic barrier.
 
 ## Pharmacokinetics of the Combination
 
@@ -83,7 +83,7 @@ McKenna argued that this discovery could not have been accidental.
 He proposed that the indigenous peoples of the Amazon arrived at this
 knowledge through systematic experimentation guided by the plants
 themselves — that the visionary experiences produced by the plants
-provided cognitive access to information about other plants' properties.
+provided cognitive access to information about other plants" properties.
 This "plant teacher" hypothesis, while not susceptible to conventional
 scientific verification, remains the most parsimonious explanation for
 a pharmacological discovery of this complexity.

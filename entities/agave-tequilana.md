@@ -33,7 +33,7 @@ Soil preference is for shallow, calcareous, iron-rich volcanic soils (Regosols a
 
 Fructans from A. tequilana display prebiotic effects, promoting growth of Bifidobacterium and Lactobacillus species in human fecal cultures. Commercial inulin extraction is a growing secondary industry.
 
-Phenolic compounds in the leaves include flavonoids (luteolin, apigenin derivatives) and phenolic acids. These contribute to the plant's antioxidant capacity and may play a role in pathogen defense.
+Phenolic compounds in the leaves include flavonoids (luteolin, apigenin derivatives) and phenolic acids. These contribute to the plant"s antioxidant capacity and may play a role in pathogen defense.
 
 The distilled spirit retains volatile terpenes and esters from the piña, including ethyl acetate, isoamyl alcohol, and β-damascenone, which define tequila's sensory profile.
 

@@ -17,7 +17,7 @@ JADAM soil management centers on eliminating the compacted soil layer (plow pan)
 ### Other Cover Crops
 - **Sudan grass:** Annual summer crop, good as [[jadam-nutritional-balance-fertilizer]] for crops
 
-## Nature's Three Rules for Fertilizer
+## Nature"s Three Rules for Fertilizer
 
 Nature applies fertilizer in three ways:
 1. **Fresh** -- leaves fall on soil surface, not pre-composted

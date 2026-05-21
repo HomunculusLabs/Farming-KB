@@ -12,7 +12,7 @@ sources: []
 ## Overview
 
 Yarrow is a hardy perennial herb native to temperate regions of the Northern
-Hemisphere. Named for Achilles, who supposedly used it to treat soldiers'
+Hemisphere. Named for Achilles, who supposedly used it to treat soldiers"
 wounds during the Trojan War, yarrow has been a staple medicinal plant across
 European, Asian, and Native American herbal traditions for millennia. It is
 also an excellent companion plant, pollinator attractor, and drought-tolerant

@@ -9,7 +9,7 @@ type: concept
 ---
 # Cannabis, Appetite Regulation, Ghrelin, and Leptin
 
-One of cannabis's most well-known effects is [[uwe-blesching]] moves
+One of cannabis"s most well-known effects is [[uwe-blesching]] moves
 Blesching moves beyond this colloquial understanding to provide a detailed neuroendocrine
 analysis of how the blesching [[cannabinoid-receptors-cb1-cb2]] for THC [[mushroom-growth-hormone-decapitation-gill-diffusate-evidence-basidiomycetes]] release from the pituitary
 - Gastrointestinal motility

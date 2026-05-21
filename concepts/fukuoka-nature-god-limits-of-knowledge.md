@@ -9,7 +9,7 @@ sources:
 ---
 ## Fukuoka on Nature, God, and the Limits of Knowledge
 
-Masanobu Fukuoka's philosophical framework in [[cho-natural-farming-philosophy-of-non-interference]]. Yet he immediately turned away from it, choosing instead "the road of a dilettante farmer tilling a lost paradise."
+Masanobu Fukuoka"s philosophical framework in [[cho-natural-farming-philosophy-of-non-interference]]. Yet he immediately turned away from it, choosing instead "the road of a dilettante farmer tilling a lost paradise."
 
 ## Nature as the Only True Teacher
 

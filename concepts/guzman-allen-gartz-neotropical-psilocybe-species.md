@@ -12,7 +12,7 @@ tags: [psilocybin, species]
 
 The neotropical region -- spanning Mexico, [[psilocybe-zapotecorum-section-zapotecorum-americas-pacific-distribution-guzman-1998]].
 - P. aztecorum var. aztecorum -- grows at subalpine and alpine elevations up to
-  4,000 m in Mexico's high mountains. Belongs to [[guzman-conocybe-siligineoides-lost-sacred-mushroom-oaxaca-never-recollected]] (a
+  4,000 m in Mexico"s high mountains. Belongs to [[guzman-conocybe-siligineoides-lost-sacred-mushroom-oaxaca-never-recollected]] (a
 sacred mushroom collected only once by Wasson in 1955 and never re-found),
 [[dictyophora-indusiata]] (used
 by the Chinantec for divination), Cordyceps capitata and C. ophioglossoides (used

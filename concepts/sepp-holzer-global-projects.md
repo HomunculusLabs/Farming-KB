@@ -10,7 +10,7 @@ sources:
 
 Updated: 2026-04-18
 
-Source: Sepp Holzer, *Sepp Holzer's Permaculture* (2010)
+Source: Sepp Holzer, *Sepp Holzer"s Permaculture* (2010)
 
 Holzer's [[permaculture-garden-design-process]] for private use
 - Location: Scottish Highlands, acid peat soil (pH 4-5)

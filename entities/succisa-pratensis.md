@@ -15,7 +15,7 @@ sources:
 
 ## Overview
 
-**Succisa pratensis** Moench, commonly known as devil's-bit scabious, is a perennial herbaceous plant in the family Caprifoliaceae. It is native to Europe and western Asia, occurring widely in damp meadows, marshes, and heathland margins.
+**Succisa pratensis** Moench, commonly known as devil"s-bit scabious, is a perennial herbaceous plant in the family Caprifoliaceae. It is native to Europe and western Asia, occurring widely in damp meadows, marshes, and heathland margins.
 
 The species is one of the most important late-season nectar sources for butterflies and bees in European grasslands. Its pincushion-like flower heads, typically deep violet-blue, bloom from July to October.
 
@@ -25,7 +25,7 @@ Devil's-bit scabious is the primary larval food plant for the marsh fritillary b
 
 *Succisa pratensis* was described by Friedrich Kasimir Medikus (as Moench) in 1794. The genus name *Succisa* derives from Latin *succisus*, meaning "cut off below," referring to the abruptly truncated rootstock.
 
-The common name "devil's-bit" originates from the folk belief that the devil, envious of the plant's medicinal virtues, bit off the lower portion of the root. The rootstock ends abruptly, as if severed.
+The common name "devil"s-bit" originates from the folk belief that the devil, envious of the plant's medicinal virtues, bit off the lower portion of the root. The rootstock ends abruptly, as if severed.
 
 Plants grow 30–70 cm tall from a short, black, abruptly truncated rootstock. Stems are slender, erect, and usually unbranched or sparingly branched above.
 

@@ -9,7 +9,7 @@ type: entity
 Osiris is one of the most important deities in the ancient Egyptian pantheon,
 serving as the god of the underworld, death, resurrection, and vegetation. In
 ethnomycological analysis, Osiris represents an anthropomorphized form of the
-*[[amanita-muscaria]]* mushroom, with his mythology encoding the mushroom's life
+*[[amanita-muscaria]]* mushroom, with his mythology encoding the mushroom"s life
 cycle, ecological relationships, and entheogenic properties. His death and
 resurrection narrative parallels the mushroom's growth, decay, and regeneration.
 
@@ -48,7 +48,7 @@ parallels:
 
 ### The Evergreen and Rebirth
 
-After Osiris's death, Isis discovered that an evergreen cedar tree had grown
+After Osiris"s death, Isis discovered that an evergreen cedar tree had grown
 overnight from a dead stump — understood as a sign of Osiris's rebirth and
 immortality. This connects to:
 
@@ -71,7 +71,7 @@ This timing corresponds to:
 
 ### Death and Resurrection Cycle
 
-Osiris's death, dismemberment, reassembly, and resurrection directly parallel
+Osiris"s death, dismemberment, reassembly, and resurrection directly parallel
 the mushroom's life cycle:
 
 1. **Death:** The mushroom appears to die (rot, dissolve into spores)
@@ -89,7 +89,7 @@ ethnomycological analysis:
 - The Djed pillar symbolizes the mushroom's stalk rising from the earth
 - Its association with Osiris's backbone connects to the mushroom's central
   stem supporting the cap
-- The annual "Raising of the Djed" ceremony paralleled the mushroom's
+- The annual "Raising of the Djed" ceremony paralleled the mushroom"s
   re-emergence from the ground
 - The pillar form mirrors the mushroom's erect fruiting body pushing through
   the soil surface
@@ -100,7 +100,7 @@ ethnomycological analysis:
 
 Isis is the goddess-wife of Osiris who reassembles his body and conceives Horus
 after his death. She represents the "virgin birth" motif that parallels the
-mushroom's seedless (spore-based, invisible to ancient eyes) reproduction. The
+mushroom"s seedless (spore-based, invisible to ancient eyes) reproduction. The
 Isis-Osiris-Horus trinity prefigures the Christian Holy Family and the Hindu
 divine families, all sharing entheogenic symbolic elements.
 
@@ -125,7 +125,7 @@ representation of the goddess/son mythology, which appears worldwide:
 
 ## Influence on Later Religions
 
-Osiris's mythology was directly borrowed by later traditions:
+Osiris"s mythology was directly borrowed by later traditions:
 
 - **Christianity:** Death and resurrection (3 days), December 25th birth,
   virgin mother, divine son, last judgment

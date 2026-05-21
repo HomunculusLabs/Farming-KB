@@ -6,7 +6,7 @@ type: concept
 
 ## Complete Organic Fertilizer (COF) Formula
 
-The Complete Organic Fertilizer (COF) is Steve Solomon's signature recipe for a balanced, slow-release organic fertilizer blend that provides all essential plant nutrients. Detailed in *Gardening When It Counts*, COF is designed to produce highly nutritious vegetables while maintaining soil health. Unlike chemical fertilizers that provide only NPK and some secondary nutrients, COF delivers a complete spectrum of minerals and trace elements.
+The Complete Organic Fertilizer (COF) is Steve Solomon"s signature recipe for a balanced, slow-release organic fertilizer blend that provides all essential plant nutrients. Detailed in *Gardening When It Counts*, COF is designed to produce highly nutritious vegetables while maintaining soil health. Unlike chemical fertilizers that provide only NPK and some secondary nutrients, COF delivers a complete spectrum of minerals and trace elements.
 
 ## Why Complete Organic Fertilizer?
 
@@ -35,7 +35,7 @@ Choose **one** of the following nitrogen sources:
 Add the following lime components:
 
 - 1/2 part ordinary agricultural lime (best finely ground)
-- 1/2 part gypsum (if you don't use gypsum, double the quantity of agricultural lime)
+- 1/2 part gypsum (if you don"t use gypsum, double the quantity of agricultural lime)
 - 1/2 part dolomite lime
 
 ### Phosphorus Source

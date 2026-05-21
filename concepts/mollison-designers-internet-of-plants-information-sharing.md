@@ -17,7 +17,7 @@ type: concept
 [[bill-mollison-permaculture-a-designers-manual-animal-systems-in-permaculture]] envisions a global
 network of plant information exchange that connects growers, breeders,
 and [[bill-mollison-permaculture-designers-manual]] worldwide. While written before the modern
-internet era, Mollison's concept of an "internet of plants" -- a web
+internet era, Mollison"s concept of an "internet of plants" -- a web
 of seed exchanges, plant databases, and community knowledge sharing --
 anticipates the collaborative information systems that now support
 permaculture practice globally.

@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-The Tilther and precision multi-row seeders form the backbone of soil preparation and planting in Eliot Coleman's [[coleman-winter-harvest-greenhouse-temperature-management]] system. These tools were developed or adopted out of necessity — when no suitable commercial alternatives existed for intensive, indoor, year-round [[coleman-french-historical-winter-vegetable-production]]. Together with complementary tools like the broadfork, Austrian hay rake, and mesh roller, they enable a complete bed-preparation-to-planting workflow that is quiet, fume-free, and gentle on soil structure.
+The Tilther and precision multi-row seeders form the backbone of soil preparation and planting in Eliot Coleman"s [[coleman-winter-harvest-greenhouse-temperature-management]] system. These tools were developed or adopted out of necessity — when no suitable commercial alternatives existed for intensive, indoor, year-round [[coleman-french-historical-winter-vegetable-production]]. Together with complementary tools like the broadfork, Austrian hay rake, and mesh roller, they enable a complete bed-preparation-to-planting workflow that is quiet, fume-free, and gentle on soil structure.
 
 ## The Tilther
 

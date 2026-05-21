@@ -87,15 +87,15 @@ organisms emerging.
 may have triggered the emergence of ecospecies and mutants." Chemicals with
 mutagenic properties may be actively generating novel organisms.
 
-"Some scientists are concerned about the chances of a 'retaliation' by insects,
+"Some scientists are concerned about the chances of a "retaliation' by insects,
 but I believe that much more is to be feared from bacteria, fungi, and
-viruses." The microbial world's capacity for rapid mutation makes it a far
+viruses." The microbial world"s capacity for rapid mutation makes it a far
 greater threat than [[duggar-mushroom-insect-pests-and-fungal-diseases]].
 
 His concerns were validated by radiation breeding experiments. While scientists
 focused on radiation-induced crop improvements, "I felt far greater concern over
 the microbial mutants and spores that could reasonably be expected to arise in
-such an irradiated field." "Monsters belong to the world of comics, but don't
+such an irradiated field." "Monsters belong to the world of comics, but don"t
 they already exist in the microbial world?"
 
 ## Cascade of Ecological Disruption

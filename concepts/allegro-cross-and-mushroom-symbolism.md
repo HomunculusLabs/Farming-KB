@@ -10,7 +10,7 @@ sources:
 
 ## The Cross and Mushroom Symbolism
 
-The central thesis of Allegro's book — encapsulated in its title — is that the Christian cross symbol derives from the mushroom. This page explores his detailed argument for the cross-mushroom connection across multiple cultures and periods.
+The central thesis of Allegro"s book — encapsulated in its title — is that the Christian cross symbol derives from the mushroom. This page explores his detailed argument for the cross-mushroom connection across multiple cultures and periods.
 
 ## The Cross as Mushroom Section
 
@@ -24,7 +24,7 @@ The swastika, one of the most widespread ancient symbols, derives, Allegro argue
 
 The Greek word for the swastika, gammadion (from gamma, the Greek letter Γ), is connected to the Sumerian word for "mushroom." The four gammas arranged in a cross create the swastika pattern — four mushroom profiles radiating from a central point.
 
-## The Chi-Rho: Constantine's Mushroom Vision
+## The Chi-Rho: Constantine"s Mushroom Vision
 
 The Chi-Rho (☧), the monogram of Christ that became the standard Christian symbol after Constantine's vision, combines two Greek letters — Chi (X) and Rho (P). Allegro reads this as a mushroom symbol: the Chi represents the cross-section (stem and gills), and the Rho represents the mushroom's profile (the loop of the P is the cap, the vertical line is the stem).
 
@@ -32,9 +32,9 @@ Constantine's famous vision — "In this sign conquer" (In hoc signo vinces) —
 
 ## The Crucifixion as Mushroom Drying
 
-The crucifixion of Jesus is not merely symbolized by the cross — it describes the mushroom's processing. Allegro reconstructs the likely method of Amanita preparation: the caps were strung on crossed sticks and dried in the sun. The mushroom "spread its arms" on the cross-like drying rack, just as Jesus was spread on the cross.
+The crucifixion of Jesus is not merely symbolized by the cross — it describes the mushroom"s processing. Allegro reconstructs the likely method of Amanita preparation: the caps were strung on crossed sticks and dried in the sun. The mushroom "spread its arms" on the cross-like drying rack, just as Jesus was spread on the cross.
 
-The spear wound in Jesus' side (John 19:34), from which blood and water flow, parallels the mushroom's stem when cut — it exudes a milky fluid (the "water") tinged with the red of the cap (the "blood"). The vinegar offered to Jesus (Matt 27:34) may preserve a memory of the acidic liquid used in [[allegro-death-and-resurrection-in-the-mushroom-cult]] mythology as mushroom-derived remains one of the most contested aspects of [[allegro-philological-methodology]]
+The spear wound in Jesus" side (John 19:34), from which blood and water flow, parallels the mushroom's stem when cut — it exudes a milky fluid (the "water") tinged with the red of the cap (the "blood"). The vinegar offered to Jesus (Matt 27:34) may preserve a memory of the acidic liquid used in [[allegro-death-and-resurrection-in-the-mushroom-cult]] mythology as mushroom-derived remains one of the most contested aspects of [[allegro-philological-methodology]]
 - [[sacred-mushroom-and-the-cross]], which proposed that the major religions of the [[psychedelic-therapy-current-research]], has renewed interest in the historical relationship between psychoactive substances and religious experience. While Allegro's specific claims about Sumerian and Hebrew philology remain controversial, his broader argument that psychoactive plants played a significant role in the development of human religious consciousness has found new support from researchers investigating the neuroscience of mystical experience and the anthropology of shamanism.
 ## Practical Considerations
 

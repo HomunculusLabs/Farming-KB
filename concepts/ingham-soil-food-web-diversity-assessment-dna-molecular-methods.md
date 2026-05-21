@@ -9,7 +9,7 @@ created: 2026-05-08
 
 ## Overview
 
-Assessing microbial diversity in soil, compost, and  is critical for understanding , , . Dr. 's  Inc. (SFI) developed a multi-tiered approach progressing from morphological microscopy toward molecular DNA-based methods. Understanding both approaches and their limitations is essential for  leman-greenhouse-soil-management.
+Assessing microbial diversity in soil, compost, and  is critical for understanding , , . Dr. "s  Inc. (SFI) developed a multi-tiered approach progressing from morphological microscopy toward molecular DNA-based methods. Understanding both approaches and their limitations is essential for  leman-greenhouse-soil-management.
 
 ## Why Diversity Matters
 
@@ -22,7 +22,7 @@ Good, healthy soil and compost contain approximately **25,000 unique DNA strands
 
 ## Morphological Assessment via Direct Microscopy
 
-The foundation of SFI's approach examines organisms in their living state without culturing.
+The foundation of SFI"s approach examines organisms in their living state without culturing.
 
 ### Bacterial Morphotyping
 

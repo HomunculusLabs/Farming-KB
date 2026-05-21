@@ -36,7 +36,7 @@ The Pitjantjatjara people of Australia sing over sand patterns and can "sing" st
 
 ### The Nootka Song Navigation
 
-Anne Cameron (Daughters of Copper Woman, 1981) documented song navigation among the Nootka Indians of British Columbia: "There was a song for goin' to China, and a song for goin' to Japan, a song for the big island and a song for the smaller one. All she [the navigator] had to know was the song and she knew where she was."
+Anne Cameron (Daughters of Copper Woman, 1981) documented song navigation among the Nootka Indians of British Columbia: "There was a song for goin" to China, and a song for goin' to Japan, a song for the big island and a song for the smaller one. All she [the navigator] had to know was the song and she knew where she was."
 
 The navigation songs recorded ocean currents, headlands, bays, star constellations, and "ceremonies of ecstatic revelation." Steerswomen used the accurate rhythm of song duration to time both current speed and boat speed through the water. Song stanzas functioned as highly accurate timers, reproducible at any time, while song content served as a record of observations from prior voyages.
 

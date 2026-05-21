@@ -25,7 +25,7 @@ tags:
   - agaricales
   - neotropical-fungi
   - fungal-systematics
-sources: ['raw/papers/working-with-agar.md']
+sources: ["raw/papers/working-with-agar.md']
 ---
 
 Rolf Singer (June 23, 1906 – January 18, 1994) was a German-born mycologist widely regarded as the most prolific fungal taxonomist of the 20th century and the preeminent authority on the order Agaricales (gilled mushrooms). Over a career spanning six decades across six countries, Singer described approximately 2,500 new taxa and authored roughly 450 scientific publications. His four-edition monograph *The Agaricales in Modern Taxonomy* (1949–1986) served as the standard classification reference for agaric fungi for decades and provided the morphological framework upon which modern molecular phylogenetics was built.
@@ -72,7 +72,7 @@ Singer's work encompassed all major groups of [[cattle-dispersal-psychoactive-fu
 
 ## Eponymous Taxa
 
-Several genera and numerous species honor Singer's contributions to [[mycology]]:
+Several genera and numerous species honor Singer"s contributions to [[mycology]]:
 
 - **Genus *Singeromyces*** — a genus of boletes named in his honor
 - **Genus *Singerocybe*** — described within his taxonomic framework

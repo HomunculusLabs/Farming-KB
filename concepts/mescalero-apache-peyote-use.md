@@ -20,7 +20,7 @@ The adoption and subsequent rejection of peyote by the Mescalero Apache represen
 
 The Mescalero case provides a crucial corrective to the romanticization of indigenous psychedelic use that pervades much of the popular and scholarly literature. While the harmonious communal use of peyote in the [[metzner-psycholytic-psychedelic-therapy-models]] have increasingly recognized the importance of set, setting, and group dynamics in determining therapeutic outcomes. The Mescalero case illustrates these principles dramatically: the introduction of peyote into a cultural context characterized by repressed aggression, competitive shamanic rivalries, and specific child-rearing practices produced outcomes diametrically opposed to those observed in more culturally supportive settings.
 
-The Mescalero's conceptualization of peyote as intrinsically evil — a unique classification among their spirit powers — offers a powerful case study in how societies make sense of challenging psychoactive experiences. This framework of understanding has parallels in Western cautionary narratives about psychedelics and deserves careful comparative analysis.
+The Mescalero"s conceptualization of peyote as intrinsically evil — a unique classification among their spirit powers — offers a powerful case study in how societies make sense of challenging psychoactive experiences. This framework of understanding has parallels in Western cautionary narratives about psychedelics and deserves careful comparative analysis.
 
 ## References and Further Reading
 

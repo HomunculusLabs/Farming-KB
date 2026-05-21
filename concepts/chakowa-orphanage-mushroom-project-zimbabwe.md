@@ -6,7 +6,7 @@ type: concept
 tags: [mushroom-cultivation, zimbabwe, poverty-alleviation, case-study, orphanage, hiv-aids, participatory-training, developing-countries]
 sources: [raw/papers/unknown-oyster-mushroom-cultivation.md]
 ---
-## Chakowa Orphanage Mushroom Project — Zimbabwe Case Study The Chakowa Orphanage Group in Zimbabwe's lowveld region demonstrates how [[accessible-mushroom-cultivation-for-disabilities]] can address protein malnutrition and
+## Chakowa Orphanage Mushroom Project — Zimbabwe Case Study The Chakowa Orphanage Group in Zimbabwe"s lowveld region demonstrates how [[accessible-mushroom-cultivation-for-disabilities]] can address protein malnutrition and
 economic vulnerability simultaneously.
 
 ## Background and Context

@@ -9,14 +9,14 @@ sources:
 ---
 ## Legume Nitrogen Dynamics
 
-Legumes -- members of the bean and pea family (Fabaceae) -- gather nitrogen gas from the air through symbiotic bacteria (rhizobia) housed in root nodules. This makes them nature's primary on-farm nitrogen source. However, understanding exactly *how* legumes use and distribute that nitrogen is critical to using them effectively.
+Legumes -- members of the bean and pea family (Fabaceae) -- gather nitrogen gas from the air through symbiotic bacteria (rhizobia) housed in root nodules. This makes them nature"s primary on-farm nitrogen source. However, understanding exactly *how* legumes use and distribute that nitrogen is critical to using them effectively.
 
 ## The Life of a Legume's Nitrogen
 
 During the growing season, nitrogen fixed by root nodules is banked in a "savings account" distributed across the entire plant -- stems and leaves. The distribution shifts dramatically at flowering:
 
 **Pre-flowering:**
-- Up to 60% of a legume's total nitrogen resides in the leaves
+- Up to 60% of a legume"s total nitrogen resides in the leaves
 - Only about half of this nitrogen comes from root nodules; the rest comes from soil
 - This is the peak window for nitrogen availability to other plants
 
@@ -28,7 +28,7 @@ During the growing season, nitrogen fixed by root nodules is banked in a "saving
 
 ## The "Beans Feed Corn" Myth
 
-Many gardening books recommend interplanting corn and beans so that the nitrogen-loving corn benefits from the bean's fixation. This is largely a myth:
+Many gardening books recommend interplanting corn and beans so that the nitrogen-loving corn benefits from the bean"s fixation. This is largely a myth:
 
 - Very little nitrogen gathered by a bean plant is shared with companion corn in the current season
 - The nitrogen accumulated by the bean's roots goes primarily to its seeds

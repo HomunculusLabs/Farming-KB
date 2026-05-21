@@ -77,7 +77,7 @@ The beta-carboline alkaloids in B. inebrians represent a sophisticated pharmacol
 
 ## Conservation Concerns
 
-As demand for ayahuasca increases globally, wild populations of all Banisteriopsis species face pressure from overharvesting. Cultivation of B. inebrians and related species is essential for sustainable supply. The species' specific ecological requirements and population status require further research.
+As demand for ayahuasca increases globally, wild populations of all Banisteriopsis species face pressure from overharvesting. Cultivation of B. inebrians and related species is essential for sustainable supply. The species" specific ecological requirements and population status require further research.
 
 ## References
 

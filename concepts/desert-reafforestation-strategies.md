@@ -6,7 +6,7 @@ type: concept
 
 ## Desert Reafforestation Strategies
 
-A comprehensive set of permaculture techniques for reclaiming and rehabilitating arid and desertified landscapes, drawing on global case studies from China, the Middle East, Australia, and the Americas. [[bill-mollison]]'s approach treats desertification not as an irreversible catastrophe but as a condition addressable through systematic, ecologically informed intervention.
+A comprehensive set of permaculture techniques for reclaiming and rehabilitating arid and desertified landscapes, drawing on global case studies from China, the Middle East, Australia, and the Americas. [[bill-mollison]]"s approach treats desertification not as an irreversible catastrophe but as a condition addressable through systematic, ecologically informed intervention.
 
 ## The Three Broadscale Attack Systems
 
@@ -58,7 +58,7 @@ Aquaculture in desert contexts benefits from high solar radiation driving rapid 
 
 In conventional agriculture and land management, "rampancy" — the aggressive, uncontrolled spreading of a plant species — is typically viewed negatively. Mollison challenges this assumption in the context of desert rehabilitation, arguing that **plant rampancy is actively desirable** when trying to establish vegetation on denuded desert landscapes. A plant that spreads aggressively, colonizes poor soils, fixes nitrogen, and outcompetes bare ground is exactly what a degraded desert needs. The goal is to get *any* vegetation established as a first step; concerns about species dominance, invasiveness, or botanical purity are luxuries that apply only after the landscape has been stabilized.
 
-This reframing is fundamental to Mollison's philosophy. He distinguishes between rampancy in a *stable, productive landscape* (where it may indeed be problematic) and rampancy in a *degraded landscape* (where it is the primary mechanism of ecological recovery). The same species can be beneficial in one context and problematic in another.
+This reframing is fundamental to Mollison"s philosophy. He distinguishes between rampancy in a *stable, productive landscape* (where it may indeed be problematic) and rampancy in a *degraded landscape* (where it is the primary mechanism of ecological recovery). The same species can be beneficial in one context and problematic in another.
 
 ## Frost Line Microclimates on Desert Hillsides
 

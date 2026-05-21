@@ -10,7 +10,7 @@ sources: ["raw/papers/john-dighton-fungi-in-ecosystem-processes.md"]
 
 ## Coprinus atramentarius
 
-*Coprinus atramentarius*, commonly known as the common ink cap or tippler's bane, is a basidiomycete mushroom in the family *Coprinaceae*. It is one of the most widely distributed ink cap species and is infamous for containing coprine, a toxic compound that causes severe adverse reactions when consumed with alcohol. Despite its toxicity in combination with alcohol, the species is not inherently poisonous and is eaten in some cultures—though this practice is universally discouraged due to the risk of the coprine-alcohol interaction.
+*Coprinus atramentarius*, commonly known as the common ink cap or tippler"s bane, is a basidiomycete mushroom in the family *Coprinaceae*. It is one of the most widely distributed ink cap species and is infamous for containing coprine, a toxic compound that causes severe adverse reactions when consumed with alcohol. Despite its toxicity in combination with alcohol, the species is not inherently poisonous and is eaten in some cultures—though this practice is universally discouraged due to the risk of the coprine-alcohol interaction.
 
 ## Morphology and Identification
 

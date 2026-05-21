@@ -53,7 +53,7 @@ The combination shovel merges the functions of both. Its blade is:
 - Narrow enough to press into compacted earth without excessive effort (like a spade)
 - Curved enough to lift and move soil effectively (like a shovel)
 
-Solomon's strong preference is for the combination shovel because it handles both cutting into soil and moving it. The one task it's less suited for is moving loose material over considerable distances, where a dedicated shovel's broader blade is more efficient.
+Solomon"s strong preference is for the combination shovel because it handles both cutting into soil and moving it. The one task it's less suited for is moving loose material over considerable distances, where a dedicated shovel's broader blade is more efficient.
 
 ### Spading Fork
 
@@ -70,7 +70,7 @@ Spading forks are designed for naturally loose (sandy) soils. They work effectiv
 
 When selecting shovels, spades, and hoes, Solomon recommends:
 
-1. **[[emcdda-brand-names-user-terms-smartshop-marketing]] used by tradespeople** — professionals can't afford tools that break
+1. **[[emcdda-brand-names-user-terms-smartshop-marketing]] used by tradespeople** — professionals can"t afford tools that break
 2. **Solid handle attachment** — loose handles mean a short tool life
 3. **Light and well-balanced, yet strong** — heavy tools are fatiguing
 4. **Rolled-over blade top** (on shovels and spades) — allows pressing with your foot without pain

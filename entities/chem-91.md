@@ -2,7 +2,7 @@
 title: "Chem 91"
 type: entity
 tags: []
-sources: ['papers/savory-holistic-resource-management.md']
+sources: ["papers/savory-holistic-resource-management.md']
 ---
 
 It emerged from the legendary Chemdawg phenotype lineage that surfaced in the early 1990s at a [[thc-content-factors-cultivation-freshness-storage-degradation-blesching]] regularly testing between 22–28%.

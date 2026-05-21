@@ -10,7 +10,7 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Chinese Pharmacopoeia Commission (2020). "Pharmacopoeia of the People's Republic of China." Vol. 1. China Medical Science Press.
+  - Chinese Pharmacopoeia Commission (2020). "Pharmacopoeia of the People"s Republic of China." Vol. 1. China Medical Science Press.
 ---
 
 ## Overview

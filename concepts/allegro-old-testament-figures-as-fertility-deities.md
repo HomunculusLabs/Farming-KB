@@ -10,9 +10,9 @@ sources:
 
 ## Old Testament Figures as Fertility Deities
 
-Allegro extends his cryptographic analysis to the major figures of the Old Testament, arguing that patriarchs, prophets, and heroes are not historical persons but personifications of the [[african-mushroom-cult-history]] from Sumer westward. The covenant of circumcision (Gen 17:9-14) is a literalized version of the mushroom's phallic significance — the cutting of the foreskin mirrors the mushroom's emergence from its volva.
+Allegro extends his cryptographic analysis to the major figures of the Old Testament, arguing that patriarchs, prophets, and heroes are not historical persons but personifications of the [[african-mushroom-cult-history]] from Sumer westward. The covenant of circumcision (Gen 17:9-14) is a literalized version of the mushroom"s phallic significance — the cutting of the foreskin mirrors the mushroom's emergence from its volva.
 
-The near-sacrifice of Isaac (Gen 22) encodes the mushroom cult's understanding of death and rebirth. Isaac is bound on an "altar" (the drying rack), a "ram" (the mushroom itself) is substituted, and the story ends with a promise of blessing — the mushroom's gift of fertility restored.
+The near-sacrifice of Isaac (Gen 22) encodes the mushroom cult's understanding of death and rebirth. Isaac is bound on an "altar" (the drying rack), a "ram" (the mushroom itself) is substituted, and the story ends with a promise of blessing — the mushroom"s gift of fertility restored.
 
 ## Isaac: The Laughing Mushroom
 

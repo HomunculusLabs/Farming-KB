@@ -38,7 +38,7 @@ Through breeding, specific traits can be targeted:
 
 ### Purpose
 
-Determining the **genotype** (not just the visible phenotype) of a plant is critical for breeding programs. A plant's phenotype can be observed directly, but its genotype is "hidden" — you cannot determine from appearance alone whether a plant showing a dominant trait is homozygous dominant (BB) or heterozygous (Bb).
+Determining the **genotype** (not just the visible phenotype) of a plant is critical for breeding programs. A plant"s phenotype can be observed directly, but its genotype is "hidden" — you cannot determine from appearance alone whether a plant showing a dominant trait is homozygous dominant (BB) or heterozygous (Bb).
 
 ### Method
 

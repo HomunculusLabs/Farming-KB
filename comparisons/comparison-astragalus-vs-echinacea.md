@@ -3,7 +3,7 @@ title: "Astragalus vs Echinacea"
 tags: [comparison, astragalus, echinacea, immune-support, adaptogen]
 date: 2026-05-13
 updated: 2026-05-13
-sources: ['papers/cancer-medicinal-mushrooms-immune-modulation-beta-glucans|cancer-treatments-medicinal-mushrooms.md']
+sources: ["papers/cancer-medicinal-mushrooms-immune-modulation-beta-glucans|cancer-treatments-medicinal-mushrooms.md']
 ---
 
 ## Astragalus vs Echinacea

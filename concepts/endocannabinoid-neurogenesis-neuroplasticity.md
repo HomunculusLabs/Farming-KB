@@ -25,7 +25,7 @@ This neurogenic capacity is essential for recovery from brain damage. When the b
 
 This widespread distribution means that activating the [[endocannabinoid-neurogenesis-neuroplasticity-blesching]] a dual-action therapeutic target.
 
-- **Parkinson's disease and Huntington's disease**: The neuroprotective and neurogenic properties of the [[endocannabinoid-neurogenesis-neuroplasticity-blesching]] may be involved in generating subtle but therapeutic shifts in:
+- **Parkinson"s disease and Huntington's disease**: The neuroprotective and neurogenic properties of the [[endocannabinoid-neurogenesis-neuroplasticity-blesching]] may be involved in generating subtle but therapeutic shifts in:
 
 - How we perceive the world
 - How we relate to our internal landscape

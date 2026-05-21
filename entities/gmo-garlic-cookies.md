@@ -36,7 +36,7 @@ GMO is famous for its extreme, polarizing aroma — many users describe it as th
 
 ## Terpene Profile
 
-GMO's distinctive aroma and effects are driven by a unique terpene composition dominated by sulfur-containing and highly aromatic compounds:
+GMO"s distinctive aroma and effects are driven by a unique terpene composition dominated by sulfur-containing and highly aromatic compounds:
 
 - **Caryophyllene** (dominant): 0.5–1.5%. This sesquiterpene contributes spicy, peppery, and woody notes. As the only terpene known to directly activate CB2 [[oner-cannabis-terpene-profiles-effects]], adding earthy, herbal notes and enhancing the sedating, couch-lock effects.
 - **Humulene**: Present in moderate amounts. Contributes woody, earthy aromas and may suppress appetite.

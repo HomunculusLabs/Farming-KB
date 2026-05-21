@@ -9,7 +9,7 @@ tags: [permaculture, succession, blackberry, apple, cattle, ecological-design]
 
 ## Description
 
-A self-organizing [[ecological-succession]] pattern described by [[bill-mollison]] in which blackberry brambles, apple trees, and cattle interact to produce a productive, low-maintenance orchard system. The pattern begins with a pig pen and blackberry clump, progresses through apple tree establishment, and culminates in cattle-managed blackberry suppression with massive apple production. Mollison cites Geoff Wallace's deliberate application of this system.
+A self-organizing [[ecological-succession]] pattern described by [[bill-mollison]] in which blackberry brambles, apple trees, and cattle interact to produce a productive, low-maintenance orchard system. The pattern begins with a pig pen and blackberry clump, progresses through apple tree establishment, and culminates in cattle-managed blackberry suppression with massive apple production. Mollison cites Geoff Wallace"s deliberate application of this system.
 
 ## Classification
 

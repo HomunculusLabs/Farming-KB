@@ -14,7 +14,7 @@ In the later chapters of "LSD — My Problem Child," [[albert-hofmann]] moves be
 
 ### Public Misunderstanding
 
-Hofmann recounts accidentally overhearing a conversation on a railway journey in which "a man complained about me, finding it disgraceful that I had spoken on the LSD problem in an interview published in the newspaper. In his opinion, I ought to denounce LSD as primarily the devil's work and should publicly admit my guilt in the matter."
+Hofmann recounts accidentally overhearing a conversation on a railway journey in which "a man complained about me, finding it disgraceful that I had spoken on the LSD problem in an interview published in the newspaper. In his opinion, I ought to denounce LSD as primarily the devil"s work and should publicly admit my guilt in the matter."
 
 This encounter illustrates the polarization of public discourse around LSD. For the critic, the only acceptable position was total condemnation—the complexity of the substance and its potential benefits were irrelevant. Hofmann, as the discoverer, was expected to bear moral responsibility for every negative consequence of LSD use, regardless of the context.
 
@@ -28,9 +28,9 @@ This selection bias in public perception—the visibility of failures and the in
 
 ### A Tragic Visit
 
-"A visit by one young American girl stands out in my memory as an example of the tragic effects of LSD." During his lunch hour, Hofmann received an unexpected visitor: "a very beautiful young woman, blond, with large blue eyes, wearing a long hippie dress, headband, and sandals. 'I am Joan, I come from New York—you are Dr. Hofmann.'"
+"A visit by one young American girl stands out in my memory as an example of the tragic effects of LSD." During his lunch hour, Hofmann received an unexpected visitor: "a very beautiful young woman, blond, with large blue eyes, wearing a long hippie dress, headband, and sandals. "I am Joan, I come from New York—you are Dr. Hofmann.'"
 
-Joan's story represents the human cost of irresponsible LSD use. She had come to Europe seeking the source of the substance that had transformed her life—and, in some accounts, damaged it. Her visit to Hofmann was a pilgrimage to the discoverer of a substance that had become central to her identity and her suffering.
+Joan"s story represents the human cost of irresponsible LSD use. She had come to Europe seeking the source of the substance that had transformed her life—and, in some accounts, damaged it. Her visit to Hofmann was a pilgrimage to the discoverer of a substance that had become central to her identity and her suffering.
 
 ### The Gap Between Discovery and Consequence
 
@@ -46,7 +46,7 @@ Joan's visit crystallized the dilemma that haunted Hofmann: he had discovered a 
 
 "Sensations of alienation, of loneliness, and of menace arise. It is these sensations that impress themselves on everyday consciousness in Western industrial society; they also take the upper hand everywhere that technological civilization extends itself, and they largely determine the production of modern art and literature."
 
-Hofmann's analysis connects the psychological malaise of modernity—the alienation, anxiety, and meaninglessness described by existentialist philosophers—to the physical separation from the natural world that industrial civilization requires.
+Hofmann"s analysis connects the psychological malaise of modernity—the alienation, anxiety, and meaninglessness described by existentialist philosophers—to the physical separation from the natural world that industrial civilization requires.
 
 ### Nature as Comprehensive Reality
 
@@ -62,7 +62,7 @@ This passage reveals Hofmann as a philosophical naturalist—one who believes th
 
 ### LSD as Antidote to Alienation
 
-Implicit in Hofmann's reflections is the suggestion that LSD and related substances may serve as antidotes to the alienation produced by technological civilization. By dissolving the cleft between self and world, the psychedelic experience can restore the sense of comprehensive reality that modern life has obscured.
+Implicit in Hofmann"s reflections is the suggestion that LSD and related substances may serve as antidotes to the alienation produced by technological civilization. By dissolving the cleft between self and world, the psychedelic experience can restore the sense of comprehensive reality that modern life has obscured.
 
 ### The Responsibility of the Discoverer
 

@@ -16,7 +16,7 @@ type: concept
 
 ## Overview
 
-The body's temperature changes constantly. Clothing, exertion and exercise,
+The body"s temperature changes constantly. Clothing, exertion and exercise,
 environmental conditions, and hormonal changes (such as during female menopause)
 can all affect body temperature. A normal body temperature is about 37 degrees
 Celsius (98.5 degrees Fahrenheit); mild fever is between 99 and 101 degrees

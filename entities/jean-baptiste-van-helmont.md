@@ -14,13 +14,13 @@ type: entity
 
 Jean Baptiste van Helmont was a Flemish chemist, physiologist, and physician who conducted one of the most famous experiments in the [[history-of-plant-science]]—the **willow tree experiment**—in an effort to determine what plants actually use for food. Born in Brussels in 1580, van Helmont was a pioneer of early chemistry (sometimes called "iatrochemistry") who sought to understand natural phenomena through controlled experimentation rather than relying solely on ancient texts and philosophical speculation.
 
-Van Helmont's most celebrated experiment was elegantly simple in concept. He planted a willow tree cutting weighing approximately 5 pounds in a pot containing 200 pounds of carefully dried and weighed soil. He watered the tree exclusively with rainwater (or distilled water) for five years, taking care to prevent any other material from entering the pot. At the end of the experiment, the willow tree had grown to weigh approximately 169 pounds—while the soil had lost only about 2 ounces in weight.
+Van Helmont"s most celebrated experiment was elegantly simple in concept. He planted a willow tree cutting weighing approximately 5 pounds in a pot containing 200 pounds of carefully dried and weighed soil. He watered the tree exclusively with rainwater (or distilled water) for five years, taking care to prevent any other material from entering the pot. At the end of the experiment, the willow tree had grown to weigh approximately 169 pounds—while the soil had lost only about 2 ounces in weight.
 
 Van Helmont concluded that the tree's enormous increase in mass must have come from the water alone, since the soil's weight was virtually unchanged. He therefore argued that plants do not derive their substance from soil but from water. This conclusion was incorrect—the tree's mass came primarily from carbon dioxide absorbed from the atmosphere through photosynthesis—but the experiment itself was groundbreaking in its methodology.
 
 The critical flaw in van Helmont's reasoning was his ignorance of atmospheric gases as a source of plant carbon. The concept of photosynthesis—whereby plants use sunlight to convert carbon dioxide and water into sugars and oxygen—would not be understood for another two centuries. Carbon dioxide was unknown as a distinct substance in van Helmont's time (though he did discover the existence of "gas sylvestre," an early term for carbon dioxide, without connecting it to plant growth).
 
-Despite its flawed conclusion, van Helmont's experiment was revolutionary because it applied **quantitative, controlled methodology** to a biological question. By weighing the soil before and after, he introduced the principle of mass balance to plant science. His work directly challenged the prevailing Aristotelian view that plants "eat" soil and inaugurated a centuries-long scientific debate about the true sources of plant nutrition.
+Despite its flawed conclusion, van Helmont"s experiment was revolutionary because it applied **quantitative, controlled methodology** to a biological question. By weighing the soil before and after, he introduced the principle of mass balance to plant science. His work directly challenged the prevailing Aristotelian view that plants "eat" soil and inaugurated a centuries-long scientific debate about the true sources of plant nutrition.
 
 ## Classification
 
@@ -45,7 +45,7 @@ Despite its flawed conclusion, van Helmont's experiment was revolutionary becaus
 
 ## The Willow Experiment: Detailed Account
 
-Van Helmont's experiment deserves close examination as one of the earliest examples of quantitative biological science:
+Van Helmont"s experiment deserves close examination as one of the earliest examples of quantitative biological science:
 
 ### Experimental Design
 - **Starting materials:** A willow cutting weighing approximately 5 pounds (some sources say 5 lbs, others give slightly different values) and 200 pounds of carefully dried and weighed soil.
@@ -62,7 +62,7 @@ Van Helmont's experiment deserves close examination as one of the earliest examp
 Since the soil lost negligible mass while the tree gained 164 pounds, van Helmont reasoned that all the new plant material must have been derived from the water he applied. He stated that "all earthy material of plants is produced from the element of water alone."
 
 ### What He Missed
-- **Atmospheric carbon dioxide** provided the vast majority of the tree's new carbon mass. Willows, like all plants, perform photosynthesis — combining CO₂ from air with H₂O to produce carbohydrates.
+- **Atmospheric carbon dioxide** provided the vast majority of the tree"s new carbon mass. Willows, like all plants, perform photosynthesis — combining CO₂ from air with H₂O to produce carbohydrates.
 - **Sunlight** provided the energy driving this conversion, but energy was not yet understood as a measurable input in van Helmont's era.
 - **Mineral nutrients** from the 2 ounces of lost soil would have provided essential elements (nitrogen, phosphorus, potassium, calcium, etc.) needed for the tree's metabolic functions, though these contributed only a tiny fraction of total mass.
 
@@ -84,7 +84,7 @@ Van Helmont's influence extended far beyond the willow experiment itself:
 - **Discovered carbon dioxide:** He identified "gas sylvestre" (the gas produced by burning charcoal, fermenting wine, and acid dissolving limestone) — what we now call carbon dioxide. Ironically, he identified the very gas that plants use to build their bodies without connecting it to plant growth.
 - **Challenged Aristotelian science:** His quantitative approach directly challenged the prevailing reliance on ancient philosophical texts for understanding nature.
 - **Inspired later researchers:** His experiment directly inspired later investigators including Stephen Hales (who studied plant transpiration) and ultimately Jan Ingenhousz and Julius von Sachs, who established photosynthesis.
-- **Bridge to modern understanding:** The trajectory from van Helmont's experiment → understanding water as a nutrient → discovering CO₂ as the carbon source → understanding photosynthesis represents one of the most important threads in the history of biology.
+- **Bridge to modern understanding:** The trajectory from van Helmont"s experiment → understanding water as a nutrient → discovering CO₂ as the carbon source → understanding photosynthesis represents one of the most important threads in the history of biology.
 
 ## Relevance to Cultivation
 

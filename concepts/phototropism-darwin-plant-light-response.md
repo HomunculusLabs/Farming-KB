@@ -5,7 +5,7 @@ tags: []
 sources: [raw/papers/unknown-biodiversity-of-fungi.md]
 ---
 
-## Darwin's Experiments
+## Darwin"s Experiments
 
 Charles Darwin, best known for *On the Origin of Species* (1859), spent the
 following twenty years investigating plant movement. In his final book, *The
@@ -34,7 +34,7 @@ tip, not at the bending region. They tested five conditions:
 4. **Tip covered with transparent (glass) cap**: Seedling bent normally —
    light reached the tip through the glass
 5. **Middle section covered with opaque tube**: Seedling bent normally — the
-   bending region didn't need to "see" the light
+   bending region didn"t need to "see" the light
 
 This elegantly simple experiment proved that phototropism results from light
 hitting the shoot tip, which then transfers information to the midsection to

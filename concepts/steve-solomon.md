@@ -12,7 +12,7 @@ Steve Solomon is an American vegetable gardening author, seed company founder, a
 
 Solomon began growing a large vegetable garden in the San Fernando Valley, California, in 1973. During his early years he explored various homesteading pursuits, including raising chickens, rabbits, and fattening a steer. He attempted market gardening using biodynamic French intensive methods but failed, an experience that shaped his later pragmatic approach to vegetable gardening. These early failures convinced him that conventional intensive gardening methods were often impractical for home gardeners seeking genuine food self-sufficiency.
 
-In 1978, Solomon relocated to a five-acre homestead in Oregon, west of the Cascade Range. This move proved pivotal: the climate west of the Cascades — characterized by cool, wet winters and dry summers — required gardening techniques quite different from those suited to California or the eastern United States. Solomon's experience adapting to this specific growing region became the foundation for his most influential work.
+In 1978, Solomon relocated to a five-acre homestead in Oregon, west of the Cascade Range. This move proved pivotal: the climate west of the Cascades — characterized by cool, wet winters and dry summers — required gardening techniques quite different from those suited to California or the eastern United States. Solomon"s experience adapting to this specific growing region became the foundation for his most influential work.
 
 ## Territorial Seed Company
 

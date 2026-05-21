@@ -46,7 +46,7 @@ Crassula capitella is widely distributed across southern Africa. It occurs from 
 
 The species grows in a variety of rocky habitats including hillside outcrops, gravelly flats, and cliff bases. It prefers well-drained, mineral-rich soils with minimal organic content.
 
-Plants are found at elevations ranging from sea level to 1,800 m. This wide altitudinal range reflects the species' adaptability to different temperature and moisture regimes.
+Plants are found at elevations ranging from sea level to 1,800 m. This wide altitudinal range reflects the species" adaptability to different temperature and moisture regimes.
 
 Rainfall across its range varies from 200 mm to over 800 mm annually. The species tolerates both winter and summer rainfall patterns, contributing to its broad distribution.
 

@@ -9,7 +9,7 @@ tags: [species, vegetable, soil-rehabilitation, deep-rooting, green-manure, cove
 
 ## Description
 
-The daikon radish is a large, deep-rooted radish variety of Asian origin widely used in permaculture and [[bill-mollison]] repeatedly references Masanobu Fukuoka's practice of casting daikon radish seed as a biological alternative to mechanical soil preparation, alongside tree legume seed, comfrey, lucerne, and *Acacia* species. The daikon's massive taproot penetrates compacted soils, creating channels for air, water, and subsequent root growth.
+The daikon radish is a large, deep-rooted radish variety of Asian origin widely used in permaculture and [[bill-mollison]] repeatedly references Masanobu Fukuoka"s practice of casting daikon radish seed as a biological alternative to mechanical soil preparation, alongside tree legume seed, comfrey, lucerne, and *Acacia* species. The daikon's massive taproot penetrates compacted soils, creating channels for air, water, and subsequent root growth.
 
 ## Classification
 

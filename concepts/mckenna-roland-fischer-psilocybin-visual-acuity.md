@@ -31,7 +31,7 @@ adaptive advantages on early hominids who included them in their diet.
 
 ## The Experimental Findings
 
-Fischer's methodology involved administering small amounts of psilocybin to graduate students
+Fischer"s methodology involved administering small amounts of psilocybin to graduate students
 and then measuring their ability to detect the moment when previously parallel lines became
 skewed. This task requires edge detection, a fundamental component of visual perception that
 is critical for activities such as tracking movement across a landscape, identifying camouflaged
@@ -45,7 +45,7 @@ patterns in complex visual environments would confer a direct survival advantage
 describes this effect as the equivalent of "chemical binoculars," a pharmacological
 enhancement of a sensory capacity that is critical for hunting and gathering success.
 
-## Fischer's Provocative Conclusion
+## Fischer"s Provocative Conclusion
 
 When McKenna discussed these findings with Fischer directly, Fischer offered a striking
 summary of their implications: "You see what is conclusively proven here is that under

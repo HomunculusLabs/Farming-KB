@@ -1,5 +1,5 @@
 ---
-title: McKenna's Habit-Obsession-Addiction Spectrum and Cultural Formation
+title: McKenna"s Habit-Obsession-Addiction Spectrum and Cultural Formation
 source: Food of the Gods - Terence McKenna
 tags: [mckenna, psychedelics, addiction, culture, habit, society, consciousness, archaic-revival]
 created: 2026-05-11
@@ -42,7 +42,7 @@ addiction. In the [[coleman-louis-savier-twentieth-century-maraicher]] replaced 
 With this reframing, the role of free will was "finally reduced to the vanishing
 point" — after all, we are not responsible for diseases we inherit or develop.
 
-This shift is significant for McKenna's argument because it reveals how the
+This shift is significant for McKenna"s argument because it reveals how the
 culture systematically externalizes responsibility for drug use, removing it from
 the domain of conscious choice and cultural values where it properly belongs.
 

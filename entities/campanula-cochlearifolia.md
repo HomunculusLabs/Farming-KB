@@ -5,7 +5,7 @@ type: entity
 category: species
 family: Campanulaceae
 common_names:
-  - fairy's thimble
+  - fairy"s thimble
   - dwarf bellflower
 date: 2026-05-10
 updated: 2026-05-10
@@ -19,7 +19,7 @@ sources:
 
 Campanula cochlearifolia Lam. is a diminutive alpine bellflower native to the mountains of central and southern Europe. It is one of the smallest members of the genus, forming low mats of tiny, rounded leaves studded with delicate nodding blue flowers.
 
-The common name "fairy's thimble" evokes the tiny bell-shaped flowers, each only 1–1.5 cm long, that appear to be miniature thimbles. The species blooms prolifically from June to August, often covering the foliage with a carpet of sky-blue.
+The common name "fairy"s thimble" evokes the tiny bell-shaped flowers, each only 1–1.5 cm long, that appear to be miniature thimbles. The species blooms prolifically from June to August, often covering the foliage with a carpet of sky-blue.
 
 It is a classic alpine plant, growing at high elevations in limestone areas of the Alps, Pyrenees, and Carpathians. In rock gardens, it is prized for its compact habit and willingness to flower in tiny crevices.
 

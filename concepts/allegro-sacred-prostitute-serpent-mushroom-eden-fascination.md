@@ -6,21 +6,21 @@ type: concept
 
 ## Sacred Prostitute, Serpent-Mushroom Connection, and the Garden of Eden
 
-## The Sacred Prostitute's Vegetative Function
+## The Sacred Prostitute"s Vegetative Function
 
-The cultic prostitute (qedēshāh) in [[allegro-amanita-muscaria-properties-and-pharmacology]] — "or the sun and moon." Josephus' description of Essene defecation practices mirrors this scrupulousness: they dug a trench, wrapped their mantle around them, and squatted — "that they may not offend the rays of the deity."
+The cultic prostitute (qedēshāh) in [[allegro-amanita-muscaria-properties-and-pharmacology]] — "or the sun and moon." Josephus" description of Essene defecation practices mirrors this scrupulousness: they dug a trench, wrapped their mantle around them, and squatted — "that they may not offend the rays of the deity."
 
 Magical protection accompanied the harvest: drawing circles with a sword and sprinkling flour served as atonement to the earth. Pliny records that those who gathered Asclepios (the sacred fungus) considered it "a pious duty to fill in the hole with various cereals as an atonement to the earth." This principle of balance — that taking the fruits of the earth requires compensation, and that only the god can atone for himself — forms the basis of the Christian doctrines of Incarnation and Atonement.
 
 ## Cista Mystica and the Serpent-Mushroom Connection
 
-Ezekiel's kesātöt, translated "magic bands," correspond to the Greek kistē and Latin cista — the basket central to Dionysiac cult. The cista mystica is always depicted as a basket with a snake emerging from it, famously kicked open by Pan on sarcophagi. The Serpent-Maenads of Euripides' Bacchae handled living serpents in their rites; the snake was the emblem of Sabazios (Sabadius), identified with Dionysus.
+Ezekiel"s kesātöt, translated "magic bands," correspond to the Greek kistē and Latin cista — the basket central to Dionysiac cult. The cista mystica is always depicted as a basket with a snake emerging from it, famously kicked open by Pan on sarcophagi. The Serpent-Maenads of Euripides" Bacchae handled living serpents in their rites; the snake was the emblem of Sabazios (Sabadius), identified with Dionysus.
 
 Pliny provides the botanical link: "If the hole of a serpent has been near the mushroom... its kinship to poisons makes it capable of absorbing the venom." Both serpent and mushroom emerge from holes in the ground like an erect penis, and both bear fiery poison in their heads. This morphological and toxicological correspondence made them natural symbolic twins.
 
-The Garden of Eden narrative preserves the mushroom-serpent mythology: a cunning reptile prevails upon Eve to eat from a tree whose fruit "made them as gods, knowing good and evil" (Gen 3:4). Eden, in Allegro's reading, is mushroom-based mythology through and through. The 13th-century [[entheogenic-mushroom-species]].
+The Garden of Eden narrative preserves the mushroom-serpent mythology: a cunning reptile prevails upon Eve to eat from a tree whose fruit "made them as gods, knowing good and evil" (Gen 3:4). Eden, in Allegro"s reading, is mushroom-based mythology through and through. The 13th-century [[entheogenic-mushroom-species]].
 
-The Essenes declared that "none of the sex keeps her plighted troth to one man." Teiresias, the blind seer who had experienced life as both sexes, declared: "of the ten parts of coitus, a man enjoys one only; but a woman's senses enjoy all ten to the full." The Church's deep-seated distrust of women and its centuries-long persecution of witches stems directly from this ancient fear of female sexual power — the power to fascinate, to arouse, and to draw the divine phallus from the earth.
+The Essenes declared that "none of the sex keeps her plighted troth to one man." Teiresias, the blind seer who had experienced life as both sexes, declared: "of the ten parts of coitus, a man enjoys one only; but a woman"s senses enjoy all ten to the full." The Church's deep-seated distrust of women and its centuries-long persecution of witches stems directly from this ancient fear of female sexual power — the power to fascinate, to arouse, and to draw the divine phallus from the earth.
 
 ## Lamentation
 

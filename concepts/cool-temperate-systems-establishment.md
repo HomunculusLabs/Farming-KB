@@ -35,7 +35,7 @@ Avocado trees in hard frost areas thrive when planted within clumps of tagasaste
 
 ### Forage Production
 - **Banks Peninsula, New Zealand:** Planted at 1-meter spacing within rows and 2 meters between rows, tagasaste provides summer forage from coppice and short-period browsing by sheep. Grasses thrive between the rows.
-- **Canterbury Plain, New Zealand:** Tagasaste is drilled with turnip for future sheep forage. Seedling trees establish successfully through the brassica crop at Matthew Carpenter's property.
+- **Canterbury Plain, New Zealand:** Tagasaste is drilled with turnip for future sheep forage. Seedling trees establish successfully through the brassica crop at Matthew Carpenter"s property.
 
 ### Mulch Production
 Tagasaste yields up to 7 meters of mulch trimmings per annum at Jim and Miriam Tyler's farm, providing abundant organic material for soil building and weed suppression.
@@ -46,7 +46,7 @@ Tagasaste yields up to 7 meters of mulch trimmings per annum at Jim and Miriam T
 Willow coppice near Christchurch, New Zealand, serves multiple functions:
 - Basketry material and medicinals
 - "Stickwood" for radiant (mass) heaters
-- Active charcoal filters and artist's charcoal
+- Active charcoal filters and artist"s charcoal
 - "Willow water" (fresh chips soaked in water) provides gibberellic acid for promoting root growth in cuttings
 
 ### Matsudana Willow

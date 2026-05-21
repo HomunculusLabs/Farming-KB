@@ -41,15 +41,15 @@ Intention is distinguished sharply from wishful thinking. Whereas wishful
 thinking is "broad, nebulous, and abstract," intention is "focused, clear,
 and direct" supported by "unwavering commitment." Blesching draws on
 placebo, nocebo, and quantum research to suggest that conscious intention
-can activate the body's capacity for self-healing.
+can activate the body"s capacity for self-healing.
 
 Patients begin with foundational statements: "I want to heal," "I want to
-heal, even if I don't know how," or "I want to discover what is blocking
+heal, even if I don"t know how," or "I want to discover what is blocking
 my healing." Alternatively, they formulate a specific question relevant to
 their symptoms using disease-specific "Powerful Questions" from the CHI
 A–Z index.
 
-The scientific basis rests on the endocannabinoid system's demonstrated
+The scientific basis rests on the endocannabinoid system"s demonstrated
 roles in neurogenesis, neuroplasticity, and frame-of-mind modulation.
 Consciously directing attention through intention while the ECS is
 pharmacologically activated creates conditions where new neural pathways

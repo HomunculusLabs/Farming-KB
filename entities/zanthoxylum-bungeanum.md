@@ -25,7 +25,7 @@ China produces over 100,000 tonnes of dried Sichuan peppercorn annually, with Si
 
 ## Cultivation
 
-Sichuan peppercorn is cultivated primarily in China's Sichuan basin and surrounding provinces, with Hanyuan County in Sichuan recognized as the geographic origin of premium huajiao. Commercial orchards are typically established from seedlings or vegetative cuttings.
+Sichuan peppercorn is cultivated primarily in China"s Sichuan basin and surrounding provinces, with Hanyuan County in Sichuan recognized as the geographic origin of premium huajiao. Commercial orchards are typically established from seedlings or vegetative cuttings.
 
 Trees begin bearing fruit 3–4 years after planting, with full production reached at 8–10 years. Yields average 1–3 kg of dried pericarp per tree annually, with managed orchards producing 2,000–4,000 kg per hectare.
 

@@ -9,7 +9,7 @@ tags: [markets, legality, policy, trends, psilocybin, smartshops]
 
 ## Overview
 
-The market for [[magic-mushroom-smartshop-retail-europe]], internet commerce, and shifting legal frameworks. The EMCDDA's 2006 case study identified this as an "[[spore-print]] s. Smartshops served as both point-of-sale and informational hubs, distributing advice on dosage, effects, and harm reduction alongside their products.
+The market for [[magic-mushroom-smartshop-retail-europe]], internet commerce, and shifting legal frameworks. The EMCDDA"s 2006 case study identified this as an "[[spore-print]] s. Smartshops served as both point-of-sale and informational hubs, distributing advice on dosage, effects, and harm reduction alongside their products.
 
 ### Internet Shops
 

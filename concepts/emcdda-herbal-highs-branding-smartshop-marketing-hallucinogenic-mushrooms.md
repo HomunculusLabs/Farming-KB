@@ -25,7 +25,7 @@ predominantly natural products, with magic mushrooms constituting an estimated
 drug paraphernalia), grow shops (for [[dark-incubation-sclerotia-production-psilocybe-mexicana-tampanensis]]
 sold by many smartshops. This name deliberately evoked alchemical and mystical
 associations, transforming a biological product into a symbol of transcendence
-and hidden knowledge. The marketing of sclerotia as "philosopher's stone" was
+and hidden knowledge. The marketing of sclerotia as "philosopher"s stone" was
 so successful that it became one of the most recognizable product names in the
 European smartshop market.
 

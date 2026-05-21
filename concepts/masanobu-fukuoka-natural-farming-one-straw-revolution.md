@@ -1,5 +1,5 @@
 ---
-title: Masanobu Fukuoka's Natural Farming — The One-Straw Revolution
+title: Masanobu Fukuoka"s Natural Farming — The One-Straw Revolution
 source: masanobu-fukuoka-fukuoka.md
 type: concept
 ---
@@ -14,7 +14,7 @@ Fukuoka was a plant pathologist at the Yokohama Customs Bureau, working under [[
 
 > "In this world there is nothing at all... Humanity knows nothing at all. There is no intrinsic value in anything, and every action is a futile, meaningless effort."
 
-He resigned the next day, wandered Japan for several years, then returned to his father's citrus farm on Iyo, Ehime Prefecture in 1938 to put his philosophy into practice. His first attempt at "natural farming" — simply abandoning the orchard — resulted in two acres of mandarin orange trees withering from insect attack and tangled branches. He learned that **abandonment is not natural farming** — it took 30 years of refinement to reach true simplicity.
+He resigned the next day, wandered Japan for several years, then returned to his father"s citrus farm on Iyo, Ehime Prefecture in 1938 to put his philosophy into practice. His first attempt at "natural farming" — simply abandoning the orchard — resulted in two acres of mandarin orange trees withering from insect attack and tangled branches. He learned that **abandonment is not natural farming** — it took 30 years of refinement to reach true simplicity.
 
 ## The Four Principles
 
@@ -43,7 +43,7 @@ Disease and insect imbalance became problems only because of unnatural practices
 
 ## The Annual Cycle
 
-Fukuoka's rice/winter-grain succession method:
+Fukuoka"s rice/winter-grain succession method:
 
 | Time | Action |
 |------|--------|
@@ -80,7 +80,7 @@ Alternatively: soak seeds, mix with moist clay by kneading, push through chicken
 Straw is "fundamental to my method" — connected with fertility, germination, weed control, sparrow deterrence, and water management. Key points:
 
 - **Spread uncut**, tossed randomly (not neatly arranged like garden mulch)
-- **Cross-species mulching:** Rice straw for winter grain; winter grain straw for rice. This prevents disease transmission (rice diseases won't infect winter grain, and straw decomposes before rice sprouts the following spring)
+- **Cross-species mulching:** Rice straw for winter grain; winter grain straw for rice. This prevents disease transmission (rice diseases won"t infect winter grain, and straw decomposes before rice sprouts the following spring)
 - Fresh rice straw is safe for other grains; fresh straw of one winter grain species should not be used for other winter grain species (disease risk)
 - **All straw and hulls** from threshing should be returned to the field
 - Surface soil enriched to >4 inches of humus over 20+ years of returning all straw
@@ -91,7 +91,7 @@ Fukuoka's fields support a balanced ecosystem: dragonflies, moths, honeybees, in
 
 **Spider phenomenon:** Occasionally, after rice harvest, fields become completely covered with spider webs "as though with silk." Several spiders per square inch, millions in a quarter acre. After 1–2 days, strands break off and young spiders sail away on the wind "like dandelion fluff." This natural drama is destroyed instantly by any chemical application — even harmless wood ash caused all spider webs to disintegrate and spiders to disappear.
 
-**Pest control insight:** The Kochi Prefecture insect specialist found that while harmful insects were few in Fukuoka's fields, their [[fukuoka-fruit-tree-disease-pest-control-natural-predators]] were far more numerous than in sprayed fields. The fields were maintained by natural balance among insect communities. Different predators dominate in different years (spiders one year, toads another, frogs another). [[fukuoka-specialized-research-inductive-deductive-methods]] cannot grasp these complex interrelationships.
+**Pest control insight:** The Kochi Prefecture insect specialist found that while harmful insects were few in Fukuoka"s fields, their [[fukuoka-fruit-tree-disease-pest-control-natural-predators]] were far more numerous than in sprayed fields. The fields were maintained by natural balance among insect communities. Different predators dominate in different years (spiders one year, toads another, frogs another). [[fukuoka-specialized-research-inductive-deductive-methods]] cannot grasp these complex interrelationships.
 
 ## Rice Paddy Water Management
 
@@ -108,8 +108,8 @@ This differs from conventional paddy rice, which maintains standing water throug
 Fukuoka identifies several barriers:
 
 1. **Overspecialization** — researchers see only their specialty (insect specialist sees only insects; nutrition specialist sees only plant vigor)
-2. **Compromise** — "experts" always suggest mixing natural and scientific methods ("Wouldn't it be more convenient to harvest by machine?"), missing the fundamental point
-3. **Institutional inertia** — testing stations say "it's too early" and want years of research before approval
+2. **Compromise** — "experts" always suggest mixing natural and scientific methods ("Wouldn"t it be more convenient to harvest by machine?"), missing the fundamental point
+3. **Institutional inertia** — testing stations say "it"s too early" and want years of research before approval
 4. **Misunderstanding** — some see it as primitive, others as the pinnacle of achievement; few grasp that it "arises from the unmoving and unchanging centre of [[fukuoka-critique-agricultural-development]]"
 
 ## Applicability to Other Regions

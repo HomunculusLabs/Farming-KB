@@ -11,7 +11,6 @@ date: 2026-05-09
 updated: 2026-05-09
 sources:
   - Moran, R.C. (2004). "A stropharia-cubensis-identification-and-natural-history of Ferns." Timber Press.---
----
 
 ## Overview
 

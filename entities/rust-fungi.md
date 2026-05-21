@@ -86,6 +86,6 @@ Understanding rust fungi is critical for several reasons:
 
 ## References and Further Reading
 
-- Lowenfels, J. & Lewis, W. (2010). *Teaming with Microbes: The Organic Gardener's Guide to [[the-soil-food-web]]*. Timber Press.
+- Lowenfels, J. & Lewis, W. (2010). *Teaming with Microbes: The Organic Gardener"s Guide to [[the-soil-food-web]]*. Timber Press.
 - Dean, R. et al. (2012). "The Top 10 plant-pathogenic fungi in molecular plant pathology." *Molecular Plant Pathology* 13(4): 414-430.
 - Singh, R.P. et al. (2011). "The emergence of Ug99 races of the stem rust fungus is a threat to world wheat production." *Annual Review of Phytopathology* 49: 465-481.

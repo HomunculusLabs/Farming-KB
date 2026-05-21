@@ -22,7 +22,7 @@ From "The Natural Way of Farming" by Masanobu Fukuoka, Chapter 3 of "The [[liebi
 
 **Relativity:** Factors that determine crop yield are associated with other factors, and all change constantly in relation to each other. No particular amount of seed, fertilizer, or sowing period is decisive under all conditions.
 
-**Law of Minimum (Liebig's Law):** The yield of a crop is determined by the one element, of all those making up the yield, in shortest supply. The amount of water the barrel holds is determined by that nutrient in shortest supply.
+**Law of Minimum (Liebig"s Law):** The yield of a crop is determined by the one element, of all those making up the yield, in shortest supply. The amount of water the barrel holds is determined by that nutrient in shortest supply.
 
 These laws have been enormously influential in shaping how agricultural scientists think about soil, fertility, and crop management. Liebig's Law, in particular, gave rise to the NPK paradigm that dominates conventional agriculture to this day.
 
@@ -48,7 +48,7 @@ If we had to give this fundamental law a name, we could call it the "Dharmic Law
 
 The different laws of agricultural science are merely scattered images, as seen through the prisms of time and circumstance, of this fundamental law that all things return to one.
 
-This dharmic understanding has practical implications for farming. If nature is already whole and self-regulating, then the farmer's task is not to impose order from outside but to align with the order that already exists.
+This dharmic understanding has practical implications for farming. If nature is already whole and self-regulating, then the farmer"s task is not to impose order from outside but to align with the order that already exists.
 
 Every intervention -- every application of fertilizer, every tillage pass, every spray -- is an attempt to improve on a system that is already perfect. The improvement is illusory; the disturbance is real.
 

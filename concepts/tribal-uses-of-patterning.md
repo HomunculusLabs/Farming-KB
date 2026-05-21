@@ -41,7 +41,7 @@ Children in many tribes are taught hundreds of simple chants whose words hide de
 
 ### Nootka Navigation Songs
 
-Anne Cameron (*Daughters of Copper Woman*, 1981) documents the **song navigation** of the Nootka Indians of British Columbia: "There was a song for goin' to China, and a song for goin' to Japan, a song for the big island and a song for the smaller one. All she [the navigator] had to know was the song and she knew where she was."
+Anne Cameron (*Daughters of Copper Woman*, 1981) documents the **song navigation** of the Nootka Indians of British Columbia: "There was a song for goin" to China, and a song for goin' to Japan, a song for the big island and a song for the smaller one. All she [the navigator] had to know was the song and she knew where she was."
 
 The navigation songs recorded "the streams and creeks of the sea" — ocean currents, headlands, bays, star constellations, and ceremonies of ecstatic revelation. Steerswomen used the accurate rhythm of song duration to time both current speed and boat speed. Song stanzas functioned as highly accurate, reproducible timers over long periods, while the song content served as a record of observations from prior voyages.
 
@@ -61,7 +61,7 @@ Some tribal practitioners could even induce fibrillation in heart nerves — a p
 
 Perhaps the most striking example of pattern encoding is the **[[anasazi-spiral]]** petroglyph, inscribed on a rock surface near the top of a mesa in the desert country of the southwestern USA. The apparently simple spiral form has 19 intercepts on its "horizon" line. Three carefully balanced and shaped rock slabs serve as gnomons that cast moon-shadows or direct vertical daggers of sunlight to the points of the spiral.
 
-The 19 intersection points mark where the shadow of the moon is cast by a gnomon on the spiral, indicating the **lunar elevation or 19-year (actually 18.6-year) Metonic cycle** caused by the sway of the Earth's axis. Thus, one simple spiral simultaneously records:
+The 19 intersection points mark where the shadow of the moon is cast by a gnomon on the spiral, indicating the **lunar elevation or 19-year (actually 18.6-year) Metonic cycle** caused by the sway of the Earth"s axis. Thus, one simple spiral simultaneously records:
 
 - **Lunar cycles** for ceremony timing
 - **Solar cycles** (equinoxes and solstices) for planting regulation

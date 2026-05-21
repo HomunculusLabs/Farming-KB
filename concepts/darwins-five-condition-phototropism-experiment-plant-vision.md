@@ -1,5 +1,5 @@
 ---
-title: Darwin's Five-Condition Phototropism Experiment and Plant Vision
+title: Darwin"s Five-Condition Phototropism Experiment and Plant Vision
 created: 2026-05-11
 source: grahamholmes-what-a-plant-knowsindd.md
 tags: [darwin, phototropism, phototropism, plant-vision, canary-grass, seedling-tip, light-perception]
@@ -40,7 +40,7 @@ eye-to-brain-to-muscle pathway in animals, albeit without any neural tissue.
 
 ## Contrast with Photoperiodic Perception
 
-An important contrast that emerges from comparing Darwin's phototropism work with later
+An important contrast that emerges from comparing Darwin"s phototropism work with later
 [[blue-light-phototropism-red-light-photoperiodism-dual-plant-vision-system|parallel vision systems]] use different photoreceptors (phototropin vs. phytochrome), different
 wavelengths (blue vs. red/far-red), and different signaling architectures, yet both
 demonstrate sophisticated light sensing that Chamovitz argues deserves the label "vision."

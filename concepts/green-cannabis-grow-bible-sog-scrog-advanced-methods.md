@@ -15,7 +15,7 @@ type: concept
 
 ## SOG, ScrOG, and Advanced Indoor Grow Methods
 
-Chapter 8 of Greg Green's [[cannabis-advanced-refinement-fractional-distillation]] that maximize yield by concentrating on top cola
+Chapter 8 of Greg Green"s [[cannabis-advanced-refinement-fractional-distillation]] that maximize yield by concentrating on top cola
 production. The three most common methods are SOG ([[cannabis-screen-of-green-scrog-guide]]), and Cabinet Growing.
 
 ## The Principle Behind Advanced Methods

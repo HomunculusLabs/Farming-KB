@@ -1,6 +1,6 @@
 ---
 title: "Rain Falls from the Ground, Not the Sky"
-subtitle: "Fukuoka's Vegetation-Rainfall masanobu-fukuoka"
+subtitle: "Fukuoka"s Vegetation-Rainfall masanobu-fukuoka"
 sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
   - "The Road Back to Nature"

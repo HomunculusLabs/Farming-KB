@@ -42,7 +42,7 @@ In windbreak forests near coasts, **small openings of 6–9 m (20–30 feet)** p
 
 ### Traditional Hawaiian Stone Fences
 
-A remarkable historical example exists on the flat peninsula of Kalaupapa on Moloka'i, Hawai'i. Across the entire peninsula, Hawaiians had built tiny stone fences of 25–50 cm (10–20 inches) high and only 4.5–5 m (15–18 feet) apart, behind which they grew a basic sweet-potato crop, and in which grew tough fern for mulch. Just to windward, strong trade winds bring so much salt spray ashore that it crystallizes out in pinkish ponds — still gathered today as "Hawaiian salt."
+A remarkable historical example exists on the flat peninsula of Kalaupapa on Moloka"i, Hawai'i. Across the entire peninsula, Hawaiians had built tiny stone fences of 25–50 cm (10–20 inches) high and only 4.5–5 m (15–18 feet) apart, behind which they grew a basic sweet-potato crop, and in which grew tough fern for mulch. Just to windward, strong trade winds bring so much salt spray ashore that it crystallizes out in pinkish ponds — still gathered today as "Hawaiian salt."
 
 ## Benefits of Shelterbelts
 

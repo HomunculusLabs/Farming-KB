@@ -10,7 +10,7 @@ sources:
 
 # Mycopesticides — Fungi as Natural Insect Control
 
-Using [[entomopathogenic-fungi]] to control insect pests — from termites and carpenter ants to fire ants, flies, and agricultural pests. Pioneered by [[paul-stamets]]' discovery of pre-sporulating [[mycelium]] as an insect attractant. From *Mycelium Running* (2005).
+Using [[entomopathogenic-fungi]] to control insect pests — from termites and carpenter ants to fire ants, flies, and agricultural pests. Pioneered by [[paul-stamets]]" discovery of pre-sporulating [[mycelium]] as an insect attractant. From *Mycelium Running* (2005).
 
 ## The Discovery: Pre-Sporulating Mycelium as a Trojan Horse
 

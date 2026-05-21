@@ -10,7 +10,7 @@ created: 2026-05-08
 
 ## Overview
 
-The Stropharia Cubensis Hypothesis is Terence McKenna's speculative proposal that
+The Stropharia Cubensis Hypothesis is Terence McKenna"s speculative proposal that
 the psilocybin-containing mushroom *Psilocybe cubensis* (referred to by McKenna
 as *Stropharia cubensis*) is an extraterrestrial organism that arrived on Earth
 via interstellar spore dispersal and established a symbiotic relationship with
@@ -50,7 +50,7 @@ early in human history by associating itself with domesticated cattle and throug
 them with human nomads. "Like the plants men and women grew and the animals they
 husbanded, the mushroom was able to inculcate itself into the human family, so
 that where human genes went these other genes would be carried." This symbiotic
-strategy mirrors the mushroom's broader ecological strategy of forming
+strategy mirrors the mushroom"s broader ecological strategy of forming
 [[dighton-mycorrhizal-networks-carbon-transfer]] — vast underground connections between organisms.
 
 ## The Mushroom as Information Technology

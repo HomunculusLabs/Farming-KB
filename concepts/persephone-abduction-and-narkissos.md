@@ -13,7 +13,7 @@ sources:
 
 ## Nysa as Psychedelic Location
 
-Nysa was not a fixed geographical location but "the name for wherever was enacted that same nuptial encounter involving the passion of Dionysus' birth and death." It was intrinsically associated with psychoactive plant use. Plato records a rationalized version of maiden-abduction myths in which the companion of the seized maiden is named Pharmacia — literally "the use of drugs."
+Nysa was not a fixed geographical location but "the name for wherever was enacted that same nuptial encounter involving the passion of Dionysus" birth and death." It was intrinsically associated with psychoactive plant use. Plato records a rationalized version of maiden-abduction myths in which the companion of the seized maiden is named Pharmacia — literally "the use of drugs."
 
 ## The Abduction as Drug Experience
 
@@ -23,7 +23,7 @@ Ruck noted that the initiates at Eleusis experienced "fear and a trembling in th
 
 ## Parallel with the Sacred Marriage
 
-Persephone's abduction was "prototypic of that first nuptial between the realms, the primal experience of death." The dionysus-vegetative-consort-and-mushroom-symbolism, where the god's presence is associated with the sudden, miraculous appearance of psychoactive organisms.
+Persephone"s abduction was "prototypic of that first nuptial between the realms, the primal experience of death." The dionysus-vegetative-consort-and-mushroom-symbolism, where the god"s presence is associated with the sudden, miraculous appearance of psychoactive organisms.
 
 ## The Hecatonkephalos and Mushroom Morphology
 

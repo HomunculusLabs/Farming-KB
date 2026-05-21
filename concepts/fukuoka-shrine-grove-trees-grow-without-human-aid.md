@@ -18,7 +18,7 @@ The process of ecological unraveling does not stop with tree death. When pines d
 bamboo grass rise up. Mice feed on the abundant bamboo grass berries and multiply. The mice then
 attack the cedar saplings, so man applies a rodenticide. But as the mice vanish, weasels and
 snakes that fed on them decline. To protect the weasels, man then begins raising mice to restore
-the rodent population. "Isn't this the stuff of crazed dreams?" Fukuoka asks. Each intervention
+the rodent population. "Isn"t this the stuff of crazed dreams?" Fukuoka asks. Each intervention
 creates a new problem that demands another intervention, producing an endless spiral of human
 effort chasing problems that nature never had. The scientist who develops a rodenticide does so
 "without understanding why mice nourished in the first place." He simply decides that killing
@@ -32,7 +32,7 @@ nothing is done to them. No species is selected or excluded. No soil is amended 
 pest is targeted or controlled. The result is a stable, self-renewing forest community that has
 persisted for generations — in many cases for centuries — without any human management
 whatsoever. Fukuoka connects this to his observation that "nature maintained a great harmony
-without such notions, and brought forth the grasses and trees without the 'helping' hand of man."
+without such notions, and brought forth the grasses and trees without the "helping' hand of man."
 The grove demonstrates what happens when the principle of "doing nothing" is applied to forestry:
 nature's own processes, left undisturbed, produce results that human science cannot match in
 either productivity or resilience.

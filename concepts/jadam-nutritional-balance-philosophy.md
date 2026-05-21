@@ -11,7 +11,7 @@ sources:
 
 ## Overview
 
-JADAM's approach to soil fertility and fertilizer management is radically simpler than conventional [[cervantes-fertilizer-application-strain-feeding]], and design separate fertilizer programs for each growth stage (high-N for vegetative growth, high-P for flowering, high-K for fruit enlargement, high-Ca for maturing).
+JADAM"s approach to soil fertility and fertilizer management is radically simpler than conventional [[cervantes-fertilizer-application-strain-feeding]], and design separate fertilizer programs for each growth stage (high-N for vegetative growth, high-P for flowering, high-K for fruit enlargement, high-Ca for maturing).
 
 JADAM argues this method:
 - Is nearly impossible for farmers to practice correctly
@@ -48,7 +48,7 @@ Add food waste JLF, urine/feces JLF, or fish JLF when growth appears weak.
 
 ## The Nutrient Loop
 
-Without human harvesting, a crop could grow on the same soil for generations without external inputs. The nutrient loop is naturally closed -- organic matter from fallen leaves and dead grass suffices for the crop's needs. Harvesting removes nutrients from this loop, so the farmer must return what was taken.
+Without human harvesting, a crop could grow on the same soil for generations without external inputs. The nutrient loop is naturally closed -- organic matter from fallen leaves and dead grass suffices for the crop"s needs. Harvesting removes nutrients from this loop, so the farmer must return what was taken.
 
 ## The Plant Tissue Optimum
 
@@ -56,7 +56,7 @@ The optimum levels of elements in plant tissue (by Epstein 1972, 1990):
 - Macronutrients: N (1.5%), K (1.0%), Ca (0.5%), Mg (0.2%), P (0.2%), S (0.1%)
 - Micronutrients: Cl (100ppm), Fe (100ppm), B (20ppm), Mn (50ppm), Na (10ppm), Zn (20ppm), Cu (6ppm), Ni (0.1ppm), Mo (0.1ppm)
 
-It is nearly impossible to adjust individual element quantities to achieve this balance. "Don't bother trying to do the impossible" -- use crop residues and wild grass instead.
+It is nearly impossible to adjust individual element quantities to achieve this balance. "Don"t bother trying to do the impossible" -- use crop residues and wild grass instead.
 
 ## Why Traditional Farming Worked
 

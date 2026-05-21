@@ -15,7 +15,7 @@ Natural farming appears "fragile and vulnerable" but is actually potent — "it 
 
 Scientific farming is characterized by **divergence and expansion**:
 
-- **Objective**: [[natural-farming-methods-comparison]] themselves caused. Fukuoka writes: "Man creates adverse conditions, then rejoices later at his 'conquest' of nature." The farmer weakens the soil with plows and chemicals, then marvels at the tools needed to repair the damage he created.
+- **Objective**: [[natural-farming-methods-comparison]] themselves caused. Fukuoka writes: "Man creates adverse conditions, then rejoices later at his "conquest' of nature." The farmer weakens the soil with plows and chemicals, then marvels at the tools needed to repair the damage he created.
 
 ## The Energy Paradox
 
@@ -24,7 +24,7 @@ Fukuoka provides compelling caloric accounting to support the centrifugal-centri
 ### Natural Farming Energy Budget
 - **Output**: 130 pounds of rice per man-day = 200,000 kcal
 - **Input**: Zero outside materials
-- **Ratio**: ~100x the farmer's daily intake of 2,000 kcal
+- **Ratio**: ~100x the farmer"s daily intake of 2,000 kcal
 - **Labor**: One person working a quarter-acre
 
 ### Traditional Farming (with draft animals)
@@ -59,7 +59,7 @@ The centrifugal model also explains food quality decline:
 Fukuoka grounds the centripetal-centrifugal distinction in Buddhist philosophy:
 
 - **Mu (nothingness)**: Natural farming originates in the philosophy of Mu and returns to a "do-nothing" nature.
-- **Bodhidharma's unmoving way**: The methodless method that is potent because it does not fight.
+- **Bodhidharma"s unmoving way**: The methodless method that is potent because it does not fight.
 - **The "do-nothing" movement**: Natural farming is one branch of a broader spiritual movement to halt the expansion of human knowledge and effort, to converge, simplify, and reduce.
 - **Beyond agriculture**: "Natural farming is more than just a revolution in agricultural techniques. It is the practical foundation of a spiritual movement, of a revolution to change the way man lives."
 

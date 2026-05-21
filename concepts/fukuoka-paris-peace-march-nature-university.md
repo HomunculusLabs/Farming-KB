@@ -19,7 +19,7 @@ Fukuoka was invited to speak at the evening gathering in a large renovated wareh
 
 ## The Roots of Peace and War
 
-Fukuoka's philosophy of peace connects directly to his [[fukuoka-food-strategic-weapon-critique]], you may earn the hatred of the entire world."
+Fukuoka"s philosophy of peace connects directly to his [[fukuoka-food-strategic-weapon-critique]], you may earn the hatred of the entire world."
 
 ## The International Nature University
 

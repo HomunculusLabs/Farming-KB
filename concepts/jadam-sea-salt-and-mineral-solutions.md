@@ -30,7 +30,7 @@ If phyllite is not available, other rock powders can be used. The key is to use 
 
 ## The Core Technology
 
-JADAM's most important soil management instruction: "Apply JADAM [[jadam-liquid-fertilizer-nutritional-perspective]]: add sea salt up to certain concentration to supplement minerals
+JADAM"s most important soil management instruction: "Apply JADAM [[jadam-liquid-fertilizer-nutritional-perspective]]: add sea salt up to certain concentration to supplement minerals
 
 ## Practical Applications
 

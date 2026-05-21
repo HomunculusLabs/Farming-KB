@@ -36,11 +36,11 @@ Published by Guidance Publications, PO Box 15667, New Orleans, Louisiana 70175. 
 
 ## Historical Context
 
-Written during the early period of psychedelic mushroom interest in America, before modern comprehensive field guides existed. As noted in [[psychedelic-mushroom-history]], the 1960s and 1970s saw a "rash of poorly researched guidebooks" emerging as demand for identification information outpaced reliable mycological knowledge. Ghouled's guide, alongside Enos's "A Key to the American Psilocybin Mushroom" (1970), represented early attempts to fill this gap — though both were later criticized for being "gleaned from the literature rather than from knowledgeable experience." The situation improved markedly when [[r-gordon-wasson]], [[gaston-guzman]], and later [[paul-stamets]] taught people the key techniques of mushroom identification.
+Written during the early period of psychedelic mushroom interest in America, before modern comprehensive field guides existed. As noted in [[psychedelic-mushroom-history]], the 1960s and 1970s saw a "rash of poorly researched guidebooks" emerging as demand for identification information outpaced reliable mycological knowledge. Ghouled"s guide, alongside Enos's "A Key to the American Psilocybin Mushroom" (1970), represented early attempts to fill this gap — though both were later criticized for being "gleaned from the literature rather than from knowledgeable experience." The situation improved markedly when [[r-gordon-wasson]], [[gaston-guzman]], and later [[paul-stamets]] taught people the key techniques of mushroom identification.
 
 ## Cautionary Notes
 
-The guide included a caution section noting that possession of psilocybin mushrooms was a felony in Louisiana and advising readers to consult their state's Bureau of Dangerous Drugs. It also warned that the "old guise of a mycology student will no longer serve" as cover for foraging expeditions.
+The guide included a caution section noting that possession of psilocybin mushrooms was a felony in Louisiana and advising readers to consult their state"s Bureau of Dangerous Drugs. It also warned that the "old guise of a mycology student will no longer serve" as cover for foraging expeditions.
 
 This topic continues to evolve as new research and practical applications emerge.
 

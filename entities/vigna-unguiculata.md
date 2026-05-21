@@ -38,7 +38,7 @@ The species includes several recognized subspecies and cultivar groups. The most
 
 ## Ecological Role
 
-Cowpea's primary ecological contribution is [[dighton-fungal-drought-tolerance-plant-water-relations]] make it valuable as a cover crop [[comparison-beneficial-insects-guide-vs-integrated-pest-management]], including pollinators and predatory wasps that help [[human-fungal-diseases-mycoses-overview]] include cowpea anthracnose (*Colletotrichum lindemuthianum*), ashy stem blight (*Macrophomina phaseolina*), and cercospora leaf spot (*Pseudocercospora cruenta*). Bacterial blight caused by *Xanthomonas axonopodis* pv. *vignicola* can cause severe defoliation under humid conditions.
+Cowpea"s primary ecological contribution is [[dighton-fungal-drought-tolerance-plant-water-relations]] make it valuable as a cover crop [[comparison-beneficial-insects-guide-vs-integrated-pest-management]], including pollinators and predatory wasps that help [[human-fungal-diseases-mycoses-overview]] include cowpea anthracnose (*Colletotrichum lindemuthianum*), ashy stem blight (*Macrophomina phaseolina*), and cercospora leaf spot (*Pseudocercospora cruenta*). Bacterial blight caused by *Xanthomonas axonopodis* pv. *vignicola* can cause severe defoliation under humid conditions.
 
 [[fukuoka-textdoc-biological-control-fallacy-pheromone-critique]] agents, and judicious pesticide application are widely recommended. Several cowpea cultivars with moderate to high resistance to key pests and diseases have been released by IITA and national breeding programs.
 

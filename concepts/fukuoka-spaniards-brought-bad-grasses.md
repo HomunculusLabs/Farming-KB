@@ -16,12 +16,12 @@ Even the cattle did not graze in green pastures as one might expect. The green g
 
 ## Foxtail Invasion and Ecological Collapse
 
-Fukuoka's key discovery came during a visit to a redwood forest about twenty minutes inland from the California coast. This was a virgin forest with trees two or three hundred years old, some measuring twenty or twenty-five feet in circumference. During the last ice age, a few spots in California were spared from the glaciers, creating "glacier forests" where gargantuan trees, some two thousand years old and 400 feet high, still stand today.
+Fukuoka"s key discovery came during a visit to a redwood forest about twenty minutes inland from the California coast. This was a virgin forest with trees two or three hundred years old, some measuring twenty or twenty-five feet in circumference. During the last ice age, a few spots in California were spared from the glaciers, creating "glacier forests" where gargantuan trees, some two thousand years old and 400 feet high, still stand today.
 
 An elderly tribal Indian chief served as guardian of the forest. When Fukuoka asked what California had been like long ago, the chief replied that things had "gotten screwed up when the Spaniards arrived and began raising cattle."
 
 After investigating and consulting experts, Fukuoka concluded that the pasture grasses the Spaniards had brought contained [[shipibo-san-francisco-ceremonial-center-ucayali]]
-- Hokkaido shares parent rock with southern Canada; Siberia with Alaska; [[halpern-sacramental-peyote-and-native-american-church]] trees around to speak of. Even the cryptomeria and cypress trees on university campuses did not originally grow there. San Francisco, Berkeley, and Los Angeles were, in Fukuoka's view, "artificial islands in the middle of a desert."
+- Hokkaido shares parent rock with southern Canada; Siberia with Alaska; [[halpern-sacramental-peyote-and-native-american-church]] trees around to speak of. Even the cryptomeria and cypress trees on university campuses did not originally grow there. San Francisco, Berkeley, and Los Angeles were, in Fukuoka"s view, "artificial islands in the middle of a desert."
 
 ## The Rain Falls from Below
 

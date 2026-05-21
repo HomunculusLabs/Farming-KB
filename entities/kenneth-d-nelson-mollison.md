@@ -9,7 +9,7 @@ tags: [people, engineering, dam-construction, water-management, author]
 
 ## Description
 
-Kenneth D. Nelson is an Australian civil engineer and author of what Mollison calls "a small classic" on small dam and earth tank construction. His comprehensive 1985 technical manual covers catchment treatments, run-off calculations, soils, construction methods, outlet systems, volume and cost estimates, and detailed engineering drawings for dam adjunct structures. Nelson's work serves as the primary engineering reference for permaculture water storage design.
+Kenneth D. Nelson is an Australian civil engineer and author of what Mollison calls "a small classic" on small dam and earth tank construction. His comprehensive 1985 technical manual covers catchment treatments, run-off calculations, soils, construction methods, outlet systems, volume and cost estimates, and detailed engineering drawings for dam adjunct structures. Nelson"s work serves as the primary engineering reference for permaculture water storage design.
 
 ## Classification
 
@@ -21,7 +21,7 @@ Kenneth D. Nelson is an Australian civil engineer and author of what Mollison ca
 ## Key Facts
 
 - Published his comprehensive dam-building manual in 1985
-- Mollison considers his text indispensable: "there is no substitute" for Nelson's manual for "the serious small dam and earth tank builder"
+- Mollison considers his text indispensable: "there is no substitute" for Nelson"s manual for "the serious small dam and earth tank builder"
 - His work covers the complete engineering lifecycle: from catchment assessment through construction to outlet design and cost estimation
 - Focuses primarily on valley dams (barrier or embankment dams), which Mollison notes is the typical engineering approach
 - Provides detailed technical drawings for most dam adjunct structures

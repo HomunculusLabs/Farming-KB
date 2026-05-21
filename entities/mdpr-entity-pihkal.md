@@ -37,7 +37,7 @@ value. A number of reports in the 150 to 200 milligram area suggested
 that something was taking place in the periphery even without any
 clear central effects. The term "body window" was used occasionally
 by experimenters, an outgrowth of the term "window" that was used (at
-that time, the mid-1970's) to describe the mental [[landscape-effects-of-altitude-and-valley-climates]] [[lsd]] dosage which followed it. The putting of a drug
+that time, the mid-1970"s) to describe the mental [[landscape-effects-of-altitude-and-valley-climates]] [[lsd]] dosage which followed it. The putting of a drug
 
 on top of an inactive drug is the "primer" concept. It turned out
 that MDPR was an extraordinary primer to some following psychedelic,
@@ -46,7 +46,7 @@ an active drug, usually during the latter part of its effectiveness
 is, as previously stated, called "piggy-backing." A third drug-drug
 interaction has also been studied; the simultaneous administration of
 two active drugs, to study synergism. There may be an enhancement, or
-an inhibition, of one with [[powell-the-other-and-sentient-presence]]. Let's now re-enter the
+an inhibition, of one with [[powell-the-other-and-sentient-presence]]. Let"s now re-enter the
 subsection "Qualitative Comments" again, with this primer concept in
 mind.
 

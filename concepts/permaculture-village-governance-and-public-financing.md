@@ -105,7 +105,7 @@ Charges by the school, community centre, and health services can offset costs on
 
 ## Optimal Combination
 
-The most resilient financing model combines multiple revenue streams: a tithe on cooperative profits for fairness, charges for specific services to cover direct costs, local currency backed by real community assets for development funding, and social forestry for long-term income generation. This diversified approach ensures that no single revenue failure can cripple the village's public service capacity.
+The most resilient financing model combines multiple revenue streams: a tithe on cooperative profits for fairness, charges for specific services to cover direct costs, local currency backed by real community assets for development funding, and social forestry for long-term income generation. This diversified approach ensures that no single revenue failure can cripple the village"s public service capacity.
 
 ## Village Size and Governance
 
@@ -121,4 +121,4 @@ Alliances of 200-500 household-size hamlets can form viable manufacturing or tra
 
 The **Mondragon Cooperatives** of Spain initially grew to 3,000-5,000 members but later deliberately reduced to cooperatives of 300-500 to preserve individual identity. Nevertheless, a group of such small cooperatives can manufacture any vehicle or machine if each produces a part — demonstrating that economic capacity does not require social scale.
 
-The **neighborhood factor** — knowledge of each other's names — is identified as a primary survival factor. During the 1967 Hobart fires, casualties in "anonymous" commuter suburbs were many times higher than in neighborhoods where people knew and cared for others. This finding underscores the permaculture emphasis on human-scale settlement.
+The **neighborhood factor** — knowledge of each other"s names — is identified as a primary survival factor. During the 1967 Hobart fires, casualties in "anonymous" commuter suburbs were many times higher than in neighborhoods where people knew and cared for others. This finding underscores the permaculture emphasis on human-scale settlement.

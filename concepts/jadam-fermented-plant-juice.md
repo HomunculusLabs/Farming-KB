@@ -14,7 +14,7 @@ JADAM liquid fertilizer (JLF) is a simple, ultra-low-cost liquid fertilizer made
 
 ## Core Principle: The Nutritional Perspective
 
-JADAM's approach to liquid fertilizer is radically simple: "Things similar to my crops are good food for my crops." The best fertilizer for tomatoes is made from tomatoes. Use crop residues and wild grass -- these materials already contain the perfect balance of N, P, K, Ca, Mg, B and other nutrients your crops need.
+JADAM"s approach to liquid fertilizer is radically simple: "Things similar to my crops are good food for my crops." The best fertilizer for tomatoes is made from tomatoes. Use crop residues and wild grass -- these materials already contain the perfect balance of N, P, K, Ca, Mg, B and other nutrients your crops need.
 
 This stands in contrast to the expert approach of analyzing and adjusting each nutrient separately, which is complicated and nearly impossible for farmers to practice.
 

@@ -13,7 +13,7 @@ sources: [raw/papers/bill-mollison-permaculture-two-practical-design-for-to.md]
 
 ## The Three Broad Climatic Regions
 
-1. **Temperate and sub-tropical areas** of winter rain and hot summers -- the area most considered in Mollison's work
+1. **Temperate and sub-tropical areas** of winter rain and hot summers -- the area most considered in Mollison"s work
 2. **Tropical humid areas** of summer rain
 3. **Arid lands** -- where rain is irregular, coming as flash floods or sudden downpours
 

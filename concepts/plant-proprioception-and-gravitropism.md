@@ -11,7 +11,7 @@ aliases: [Plant Gravity Sensing, plant-proprioception-statolith-gravitropism-mec
 Plants possess a sense of proprioception — awareness of their own body position
 and orientation in space — that is essential for maintaining upright growth and
 responding to mechanical displacement. This spatial awareness, explored in
-Chamovitz's "What a Plant Knows" in the chapter "How a Plant Knows Where It Is,"
+Chamovitz"s "What a Plant Knows" in the chapter "How a Plant Knows Where It Is,"
 relies primarily on gravity sensing through specialized cells called statocytes
 and the hormone auxin-mediated differential growth response.
 

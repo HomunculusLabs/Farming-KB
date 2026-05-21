@@ -6,7 +6,7 @@ tags:
 
 created: 2026-05-08
 source: mr-bloomfields-orchard---the-mysterious-world-of-mushrooms-molds-and-mycologists.md
-tags: [indoor-mold, stachybotrys, building-science, indoor-air-quality, nicholas-money documented this phenomenon in Mr. Bloomfield's Orchard, noting that the horror of black mold begins not with the fungus itself but with the building practices that invite it in. The Cleveland infant hemorrhage incidents of 1993-1994 brought this crisis to public attention, but the underlying cause — the evolution of home construction — remains insufficiently addressed.
+tags: [indoor-mold, stachybotrys, building-science, indoor-air-quality, nicholas-money documented this phenomenon in Mr. Bloomfield"s Orchard, noting that the horror of black mold begins not with the fungus itself but with the building practices that invite it in. The Cleveland infant hemorrhage incidents of 1993-1994 brought this crisis to public attention, but the underlying cause — the evolution of home construction — remains insufficiently addressed.
 
 ## The Evolution of the Mold-Friendly Home
 
@@ -36,7 +36,7 @@ None of these genera generate the same potent trichothecenes as Stachybotrys, bu
 
 ### The Black Mold Panic
 
-The public panic associated with the appearance of black mold is often exaggerated. Susan Kaminskyj, a biologist at the University of Saskatchewan, receives frequent calls from terrified Canadians who have discovered streaks of black mold on their wallpaper. Her measured response: "If this mold didn't kill you yesterday, it's unlikely that you'll die today." This logic is sound — the real danger comes from chronic exposure over months or years, not from a single encounter.
+The public panic associated with the appearance of black mold is often exaggerated. Susan Kaminskyj, a biologist at the University of Saskatchewan, receives frequent calls from terrified Canadians who have discovered streaks of black mold on their wallpaper. Her measured response: "If this mold didn"t kill you yesterday, it's unlikely that you'll die today." This logic is sound — the real danger comes from chronic exposure over months or years, not from a single encounter.
 
 ## How Moisture Creates the Problem
 

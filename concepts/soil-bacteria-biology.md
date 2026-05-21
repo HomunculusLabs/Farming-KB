@@ -7,7 +7,7 @@ tags: [bacteria, soil-biology, decomposition, biofilms, microbial-ecology]
 
 ## Soil Bacteria Biology
 
-Bacteria are the most numerous organisms in soil and among the earth's primary decomposers. Understanding their biology, feeding strategies, and ecological roles is essential for anyone working with soil food webs.
+Bacteria are the most numerous organisms in soil and among the earth"s primary decomposers. Understanding their biology, feeding strategies, and ecological roles is essential for anyone working with soil food webs.
 
 ## Overview
 
@@ -92,7 +92,7 @@ Bacterial slime, or **biofilm**, is a complex matrix of sugars, proteins, and ex
 
 ### pH Buffering
 
-Biofilms are slightly alkaline, which directly influences pH in the rhizosphere—the zone of soil immediately surrounding plant roots. This alkalinity buffers [[soil-ph]], keeping it relatively constant in the biofilm's vicinity.
+Biofilms are slightly alkaline, which directly influences pH in the rhizosphere—the zone of soil immediately surrounding plant roots. This alkalinity buffers [[soil-ph]], keeping it relatively constant in the biofilm"s vicinity.
 
 ### Desiccation Protection
 

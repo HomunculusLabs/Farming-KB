@@ -62,7 +62,7 @@ Squash bugs (Anasa tristis) attack cucurbits, causing wilting and plant death. T
 **Trap Crops:**
 - **Blue Hubbard squash**: The most effective squash bug trap crop. Research from Oklahoma State University showed Blue Hubbard attracted significantly more squash bugs than zucchini, yellow squash, or pumpkins. Plant 1 Blue Hubbard per 2-3 main crop plants.
 - **Naked-seeded pumpkin**: Also attractive to squash bugs. Less commercially available but effective.
-- **Turk's Turban squash**: Attracts squash bugs and vine borers.
+- **Turk"s Turban squash**: Attracts squash bugs and vine borers.
 
 **Management:**
 - Plant Blue Hubbard 2-3 weeks before the main crop

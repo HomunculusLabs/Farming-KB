@@ -23,7 +23,7 @@ Mushrooms offer several advantages over traditional crops for space cultivation:
 
 ### Gas Exchange
 
-Half of Earth's oxygen comes from phytoplankton and algae in oceans and surface waters, not land plants. In a space vessel, oxygen must be generated artificially. Flat-panel cultivation units using phytoplankton and algae are being researched at the **Institute of Space Systems in Stuttgart, Germany**, with the goal of creating systems that support human life while scrubbing carbon dioxide from mushroom cultivation chambers.
+Half of Earth"s oxygen comes from phytoplankton and algae in oceans and surface waters, not land plants. In a space vessel, oxygen must be generated artificially. Flat-panel cultivation units using phytoplankton and algae are being researched at the **Institute of Space Systems in Stuttgart, Germany**, with the goal of creating systems that support human life while scrubbing carbon dioxide from mushroom cultivation chambers.
 
 ### Ethylene Accumulation
 

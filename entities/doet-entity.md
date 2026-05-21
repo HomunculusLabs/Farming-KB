@@ -9,7 +9,7 @@ sources:
 ---
 ## DOET
 
-DOET (2,5-Dimethoxy-4-ethylamphetamine) is a psychedelic amphetamine and one of Shulgin's "Classic Ladies."
+DOET (2,5-Dimethoxy-4-ethylamphetamine) is a psychedelic amphetamine and one of Shulgin"s "Classic Ladies."
 
 It carries the additional name HECATE, placing it among the select group of compounds that Shulgin honored with mythological names.
 

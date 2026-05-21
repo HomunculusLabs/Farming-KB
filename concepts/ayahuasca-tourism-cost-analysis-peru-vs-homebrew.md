@@ -9,14 +9,14 @@ sources: [raw/papers/stuart-r-ayahuasca-tourism.md]
 
 ## Ayahuasca Tourism Cost Analysis — Peru vs Homebrew
 
-R. Stuart's 2002 ethnographic account of [[ayahuasca-tourism-shamanic-tourism-economics]]. The cost of participating in [[ayahuasca-diy-home-brewing-as-tourism-alternative]], with implications for accessibility, equity, and the nature of the experience.
+R. Stuart"s 2002 ethnographic account of [[ayahuasca-tourism-shamanic-tourism-economics]]. The cost of participating in [[ayahuasca-diy-home-brewing-as-tourism-alternative]], with implications for accessibility, equity, and the nature of the experience.
 
 ## Ceremony Pricing in Peru
 
 Stuart documented specific prices charged by [[shipibo-san-francisco-ceremonial-center-ucayali]] | ~$10/ceremony | ~$2/ceremony | 5:1 |
 | "B" | Yarina | Variable (plus gifts) | Unknown | Unknown |
 
-The 15:1 price ratio for B's nephew represents the more extreme end of tourist pricing, while "E's" 5:1 ratio reflects a more moderate approach. These ratios are consistent with broader patterns of [[ayahuasca-diy-home-brewing-ethnobotanical-supplier-guide]] using ingredients from ethnobotanical suppliers — has a dramatically different cost structure:
+The 15:1 price ratio for B"s nephew represents the more extreme end of tourist pricing, while "E"s" 5:1 ratio reflects a more moderate approach. These ratios are consistent with broader patterns of [[ayahuasca-diy-home-brewing-ethnobotanical-supplier-guide]] using ingredients from ethnobotanical suppliers — has a dramatically different cost structure:
 
 **Ingredients (per ceremony):**
 - Banisteriopsis caapi (ayahuasca vine): $15-40 for 50-100g

@@ -16,7 +16,7 @@ title: "Permaculture Small And Slow Solutions"
 
 # Permaculture Small and Slow Solutions
 
-"Use small and slow solutions" is Holmgren's ninth permaculture principle, articulated in "Permaculture: Principles and Pathways Beyond Sustainability." It advocates for systems and interventions that are appropriately scaled, incremental, and responsive to feedback, rather than large, rapid, and irreversible changes.
+"Use small and slow solutions" is Holmgren"s ninth permaculture principle, articulated in "Permaculture: Principles and Pathways Beyond Sustainability." It advocates for systems and interventions that are appropriately scaled, incremental, and responsive to feedback, rather than large, rapid, and irreversible changes.
 
 ## The Principle
 
@@ -40,7 +40,7 @@ Systems composed of many small, distributed elements are more resilient than lar
 
 ### Lower Risk
 
-Small changes can be reversed or modified if they don't work as expected. Large interventions -- clearing a forest, building a dam, restructuring an economy -- carry enormous risk because they are difficult or impossible to undo.
+Small changes can be reversed or modified if they don"t work as expected. Large interventions -- clearing a forest, building a dam, restructuring an economy -- carry enormous risk because they are difficult or impossible to undo.
 
 ### Learning and Adaptation
 

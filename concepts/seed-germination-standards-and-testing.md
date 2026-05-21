@@ -15,7 +15,7 @@ A seed lot that germinates at 95% in the lab will produce vastly better field re
 ### The Three Levels of Germination Quality
 
 1. **USDA Minimum Standard Germination**: The legal floor — the lowest acceptable germination percentage. Seed below this may not be sold unless plainly marked "BELOW STANDARD."
-2. **Quality company minimum**: Companies like Johnny's [[johnnys-selected-seeds]] set internal standards 5-15 percentage points above USDA minimums
+2. **Quality company minimum**: Companies like Johnny"s [[johnnys-selected-seeds]] set internal standards 5-15 percentage points above USDA minimums
 3. **Commercial quality**: What farmers and market gardeners demand — the highest standard
 
 ### Germination Standards by Crop (Selected Examples)

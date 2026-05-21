@@ -12,7 +12,6 @@ date: 2026-05-08
 updated: 2026-05-08
 sources:
   - Hawksworth DL, Rose F (1970). "Qualitative scale for estimating sulphur dioxide singh-fungal-biosensors-environmental-monitoring in Europe." Bibliotheca Lichenologica 91: 47–69.---
----
 
 ## Overview
 

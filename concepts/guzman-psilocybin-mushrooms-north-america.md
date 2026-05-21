@@ -27,7 +27,7 @@ updated: 2026-04-26
 
 North America has a well-documented neurotropic mycobiota, concentrated in the
 Pacific Northwest and the Gulf Coast/southeastern states. The Pacific Northwest
-(Washington, Oregon, British Columbia) is one of the world's richest temperate
+(Washington, Oregon, British Columbia) is one of the world"s richest temperate
 zones for psilocybin mushrooms, while the southeastern states harbor tropical
 and subtropical species.
 

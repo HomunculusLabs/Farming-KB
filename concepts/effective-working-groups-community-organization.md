@@ -6,7 +6,7 @@ type: concept
 
 ## Effective Working Groups and Community Organization
 
-A core insight from [[permaculture-design]] is that human social systems are as subject to [[aact-brewer-design-principles-aeration-systems-ingham]] as landscapes. [[bill-mollison]] argues that most failures in community cooperation stem not from a lack of will, but from the failure to adopt sensible legal, administrative, and social mechanisms that enable cooperation. This concept page synthesizes Mollison's guidance on structuring groups for effectiveness, drawing on decades of study of [[holmgren-community-design-and-intentional-communities]].
+A core insight from [[permaculture-design]] is that human social systems are as subject to [[aact-brewer-design-principles-aeration-systems-ingham]] as landscapes. [[bill-mollison]] argues that most failures in community cooperation stem not from a lack of will, but from the failure to adopt sensible legal, administrative, and social mechanisms that enable cooperation. This concept page synthesizes Mollison"s guidance on structuring groups for effectiveness, drawing on decades of study of [[holmgren-community-design-and-intentional-communities]].
 
 ## Portfolio of Occupations
 
@@ -59,12 +59,12 @@ Dissenters face no impediment — they are free to set up their own parallel sys
 
 ## Abolishing Consensus Decision-Making
 
-One of Mollison's most provocative positions is that **group consensus on all decisions** is a primary error — a "tyranny of the dissenter." His framework distinguishes sharply between:
+One of Mollison"s most provocative positions is that **group consensus on all decisions** is a primary error — a "tyranny of the dissenter." His framework distinguishes sharply between:
 
 - **Initial ethical and value consensus:** Agreed upon once, during the planning phase, and clearly articulated
 - **Everyday operational decisions:** Made by small autonomous groups without requiring broader consensus
 
-Once functions are assigned or chosen, no group meetings for business are necessary. Each subgroup is small enough to reach fast agreements and stay aware of each member's work. All group meetings can therefore be social, convivial, and focused on information exchange — replacing frustrating "group decision" meetings with pleasant gatherings people actually look forward to.
+Once functions are assigned or chosen, no group meetings for business are necessary. Each subgroup is small enough to reach fast agreements and stay aware of each member"s work. All group meetings can therefore be social, convivial, and focused on information exchange — replacing frustrating "group decision" meetings with pleasant gatherings people actually look forward to.
 
 ## Work-Netting
 

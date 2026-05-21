@@ -7,7 +7,7 @@ sources:
 
 ## Overview
 
-Y Griega is a high-THC sativa-dominant hybrid from Spain's Medical Seeds Company, a breeder
+Y Griega is a high-THC sativa-dominant hybrid from Spain"s Medical Seeds Company, a breeder
 that, while perhaps less internationally recognized than Dutch or American seedbanks, produces
 strains of exceptional quality. The strain's name comes from the former Spanish word for the
 letter "Y" (before the Real Academia Española officially changed it to "ye"), giving this
@@ -35,7 +35,7 @@ dedicated flowering space.
 
 ## Height Management
 
-Controlling Y Griega's height is the primary cultivation challenge. The breeder provides
+Controlling Y Griega"s height is the primary cultivation challenge. The breeder provides
 specific guidance:
 
 1. **Force flowering early** — trigger 12/12 when the plant is at half the desired final

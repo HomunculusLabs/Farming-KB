@@ -24,7 +24,7 @@ About 20 adults can support 1 adult providing a food supply, meaning that 5 to 7
 - **Baked goods**: Artisanal baking for village consumption and visitor sales
 - **Village market**: A venue for selling surplus to visitors and locals from outside the village
 
-All surplus production can be sold through the village market or cooperative store, creating income from the village's productive capacity.
+All surplus production can be sold through the village market or cooperative store, creating income from the village"s productive capacity.
 
 ### Energy Enterprises (2-5 families)
 

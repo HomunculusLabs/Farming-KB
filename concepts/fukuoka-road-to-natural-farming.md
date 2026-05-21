@@ -10,7 +10,7 @@ sources:
 
 ## The Road to Natural Farming
 
-Masanobu Fukuoka's journey to natural farming was not a sudden revelation but a gradual awakening over many years. His [[fukuoka-citrus-orchard-establishment-bare-hillside]] on a hillside, and he set out to farm using no chemicals, no tillage, and no pruning.
+Masanobu Fukuoka"s journey to natural farming was not a sudden revelation but a gradual awakening over many years. His [[fukuoka-citrus-orchard-establishment-bare-hillside]] on a hillside, and he set out to farm using no chemicals, no tillage, and no pruning.
 
 The local farmers thought he was crazy. Agricultural experts told him his methods would fail. For the first few years, they were partly right. The trees, accustomed to [[ergot-of-barley-and-wheat-alkaloid-composition]]. The key technique was scattering rice straw on unplowed fields after the rice harvest. The straw decomposed in place, maintaining soil structure and fertility without any need for plowing.
 
@@ -34,9 +34,9 @@ When there is no uphill wood available for use as a preserve, one can always dev
 
 Even though people may agree that the natural way of farming is legitimate, they seem to think that it takes extraordinary resolve to exercise the principle of "doing nothing." Most farmers cannot bring themselves to stop intervening.
 
-The habits of action are deeply ingrained, and the fear of losing control is powerful. Fukuoka's answer was that the natural farmer does not "do nothing" in the sense of being passive or lazy. Rather, he works with nature rather than against it.
+The habits of action are deeply ingrained, and the fear of losing control is powerful. Fukuoka"s answer was that the natural farmer does not "do nothing" in the sense of being passive or lazy. Rather, he works with nature rather than against it.
 
-The effort is directed not at controlling nature but at understanding it, at removing the obstacles that human activity has placed in nature's way. The usual way to develop a method is to ask "How about trying this?" -- this only makes the farmer busier. Fukuoka's way was to ask "How about not doing this?"
+The effort is directed not at controlling nature but at understanding it, at removing the obstacles that human activity has placed in nature"s way. The usual way to develop a method is to ask "How about trying this?" -- this only makes the farmer busier. Fukuoka"s way was to ask "How about not doing this?"
 
 ## A First Step Toward Restoration
 

@@ -1,6 +1,6 @@
 ---
 title: Bloomfield Buller Lloyd Rivalry Experimental Mycoological Odd Couple
-source: "Mr. Bloomfield's Orchard"
+source: "Mr. Bloomfield"s Orchard"
 source_author: "nicholas-money"
 topics: ["mycology", "history of science", "bloomfield-history-of-mycology-pioneers features no more fascinating contrast than Arthur Henry
 Reginald Buller and Curtis Gates Lloyd — the laboratory experimentalist and the
@@ -35,7 +35,7 @@ Buller was appointed the first professor of botany at the University of Manitoba
 and proved to be a superb teacher. He treated every lecture as a word-perfect
 performance, leavening botanical details with humor and genuine interest in his
 audience. Students nicknamed him "Uncle Regie" and many adored him. On Saturday
-mornings, he would walk to the farmers' market, stand on a wooden crate, and
+mornings, he would walk to the farmers" market, stand on a wooden crate, and
 lecture to crowds about cereal crops and the [[duggar-mushroom-insect-pests-and-fungal-diseases]] that afflicted
 them. In England he would have been ignored. In Winnipeg he was a star.
 
@@ -74,7 +74,7 @@ with very keen eyesight and painstaking microscopic patience.
 
 ## Curtis Gates Lloyd: The Self-Taught Taxonomist
 
-Curtis Gates Lloyd was Buller's polar opposite in nearly every respect. A
+Curtis Gates Lloyd was Buller"s polar opposite in nearly every respect. A
 pharmacist in Cincinnati, Ohio, he funded his mycological obsession through his
 business and built one of the largest private fungal herbaria in the world. His
 *Mycological Notes* (1898–1925) became one of the field's most important

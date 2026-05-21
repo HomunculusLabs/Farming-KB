@@ -1,5 +1,5 @@
 ---
-title: Liebig's Law of Minimum
+title: Liebig"s Law of Minimum
 created: 2026-04-28
 tags:
   - science

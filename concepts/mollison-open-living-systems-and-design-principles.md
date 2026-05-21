@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-Bill Mollison's *Permaculture: A Designers' Manual* frames the design challenge within the context of open living systems — complex, self-organizing biological systems that differ fundamentally from the closed thermodynamic systems studied in classical physics. The distinction between closed and open systems is central to understanding why conventional [[savory-holistic-resource-management-animal-impact]] often fails and why permaculture design offers an alternative path grounded in ecological reality.
+Bill Mollison"s *Permaculture: A Designers' Manual* frames the design challenge within the context of open living systems — complex, self-organizing biological systems that differ fundamentally from the closed thermodynamic systems studied in classical physics. The distinction between closed and open systems is central to understanding why conventional [[savory-holistic-resource-management-animal-impact]] often fails and why permaculture design offers an alternative path grounded in ecological reality.
 
 ## Entropy and Living Systems
 
@@ -28,7 +28,7 @@ Life systems constantly organize and create complex storages from diffuse energy
 
 While leaving manure on a field achieves productive use of one function, routing it through this cascade achieves multiple yields from a single "waste" resource — the essence of permaculture design thinking. Each step produces a useful yield while the "waste" of one process becomes the input for the next.
 
-## Birch's Six Principles of Natural Systems
+## Birch"s Six Principles of Natural Systems
 
 Mollison cites six principles articulated by Birch that underpin natural system behavior and inform permaculture design:
 
@@ -52,7 +52,7 @@ From these natural system principles, Mollison distills several practical design
 
 Natural successions proceed from grasses to shrubs to trees over time. Rather than slashing out pioneer species (weeds), use them to provide microclimate, nutrients, and wind protection for the desired exotic or native species being established. The pioneers create the conditions that later successional species need to thrive. We actively assist natural succession rather than fighting it.
 
-[[masanobu-fukuoka]]'s wisdom captures this principle perfectly: "If we throw nature out the window, she comes back in the door with a pitchfork." Spraying for pest infestations destroys both pests and their predators. The following year brings a pest explosion because no predators remain to control them. Heavier spraying puts things further out of balance. The surviving pests breed more resistant progeny — nature's pitchfork returning with increasing force.
+[[masanobu-fukuoka]]'s wisdom captures this principle perfectly: "If we throw nature out the window, she comes back in the door with a pitchfork." Spraying for pest infestations destroys both pests and their predators. The following year brings a pest explosion because no predators remain to control them. Heavier spraying puts things further out of balance. The surviving pests breed more resistant progeny — nature"s pitchfork returning with increasing force.
 
 ### 2. The Problem Is the Solution
 

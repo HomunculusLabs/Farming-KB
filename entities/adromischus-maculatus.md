@@ -23,7 +23,7 @@ The species has a long history in cultivation, having been grown in European col
 
 Plants are compact and well-suited to container culture. They produce small, tubular flowers on tall, slender inflorescences in summer.
 
-The species has received the Royal Horticultural Society's Award of Garden Merit in the United Kingdom. This recognition reflects its reliability and ornamental value in cultivation.
+The species has received the Royal Horticultural Society"s Award of Garden Merit in the United Kingdom. This recognition reflects its reliability and ornamental value in cultivation.
 
 In its native South Africa, the plant is sometimes called "splaaiplakkie" (spreading flat-leaf) in Afrikaans, referring to the flattened, spreading leaf arrangement.
 

@@ -7,7 +7,7 @@ tags: [geological-event, paleontology, extinction, fungi]
 
 ## Description
 
-The Permian-Triassic extinction event (also called the "Great Dying") was the greatest mass extinction in Earth's history, occurring approximately 252 million years ago at the end of the Permian period. Approximately 90% of all living species became extinct. As with the later K-T extinction, fungi dominated the post-extinction landscape, preparing the way for new ecosystems — this time inherited by the dinosaurs.
+The Permian-Triassic extinction event (also called the "Great Dying") was the greatest mass extinction in Earth"s history, occurring approximately 252 million years ago at the end of the Permian period. Approximately 90% of all living species became extinct. As with the later K-T extinction, fungi dominated the post-extinction landscape, preparing the way for new ecosystems — this time inherited by the dinosaurs.
 
 ## Classification
 
@@ -28,7 +28,7 @@ The Permian-Triassic extinction event (also called the "Great Dying") was the gr
 
 ## Relevance to Cultivation and Mycology
 
-The Permian extinction demonstrates that fungal dominance after catastrophic events is not unique to the K-T boundary but is a repeatable ecological pattern. This reinforces the concept that fungi are Earth's primary ecosystem recovery agents — they [[query-can-fungi-break-down-plastic-pollution]] dead biomass, rebuild soil, and create conditions for new plant life to establish. For mycologists, this dual-extinction evidence strengthens the argument for investing in fungal biotechnology as a tool for [[bioremediation-ecosystem-restoration]] and [[mollison-designers-climate-change-adaptation-strategies]]. The fact that fungi performed this role successfully during the worst extinction in history suggests extraordinary resilience in cultivation systems.
+The Permian extinction demonstrates that fungal dominance after catastrophic events is not unique to the K-T boundary but is a repeatable ecological pattern. This reinforces the concept that fungi are Earth"s primary ecosystem recovery agents — they [[query-can-fungi-break-down-plastic-pollution]] dead biomass, rebuild soil, and create conditions for new plant life to establish. For mycologists, this dual-extinction evidence strengthens the argument for investing in fungal biotechnology as a tool for [[bioremediation-ecosystem-restoration]] and [[mollison-designers-climate-change-adaptation-strategies]]. The fact that fungi performed this role successfully during the worst extinction in history suggests extraordinary resilience in cultivation systems.
 
 ## References
 

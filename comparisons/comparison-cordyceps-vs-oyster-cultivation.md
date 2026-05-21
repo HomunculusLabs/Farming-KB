@@ -18,7 +18,7 @@ make it one of the most challenging species to grow commercially.
 Despite their differences, both offer compelling reasons for cultivation.
 Oysters provide reliable, high-volume food production from waste streams.
 Cordyceps commands premium prices for its medicinal compounds, especially
-cordycepin (3'-deoxyadenosine), which has attracted significant research
+cordycepin (3"-deoxyadenosine), which has attracted significant research
 attention for anti-cancer [[ashwagandha-cultivation-uses-and-adaptogenic-properties]].
 ## Cordyceps Cultivation
 

@@ -14,7 +14,7 @@ tags: [cannabis]
 
 The immune system, described by Blesching as "the police department of the
 body," is extremely sophisticated and capable of distinguishing between the
-body's own cells and foreign agents. It produces antibodies and sensitized
+body"s own cells and foreign agents. It produces antibodies and sensitized
 cells (virus-fighting white blood cells), manages inflammatory cytokine
 production, and coordinates healing responses across the entire body.
 

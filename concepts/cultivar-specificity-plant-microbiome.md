@@ -12,7 +12,7 @@ Cultivar-specificity refers to the phenomenon where different genetic varieties 
 
 ### Host Genotype as a Community Structuring Factor
 
-The plant's genetic identity influences its microbiome through several mechanisms:
+The plant"s genetic identity influences its microbiome through several mechanisms:
 
 - **Root exudate profiles**: Different cultivars produce distinct blends of sugars, amino acids, organic acids, phenolics, [[plant-defense-chemistry-and-secondary-metabolites]] that selectively feed or inhibit different microbial taxa
 - **Root architecture**: Differences in root branching patterns, root hair density, and tissue chemistry create distinct microhabitats

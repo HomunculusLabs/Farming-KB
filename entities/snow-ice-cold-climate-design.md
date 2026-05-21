@@ -20,7 +20,7 @@ Snow and ice are not merely challenges to be overcome in cold climate design —
 
 ### Snow as a Heating Device
 
-Snow's high albedo (reflectivity) makes it an effective [[fao-solar-heating-pasteurization-mushroom-cultivation]] amplifier:
+Snow"s high albedo (reflectivity) makes it an effective [[fao-solar-heating-pasteurization-mushroom-cultivation]] amplifier:
 
 - Fresh dry snow reflects close to 100% of incoming light
 - Muddy slush reflects about 20%

@@ -14,7 +14,7 @@ He is credited with discovering the use of [[psilocybin-mushrooms]] in [[guzman-
 
 His 1957 *Life* magazine article "Seeking the Magic Mushroom" introduced psilocybin to the Western world.
 
-Wasson's work is listed as recommended reading in *The [[leary-psychedelic-experience-bardo-mapping]]*.
+Wasson"s work is listed as recommended reading in *The [[leary-psychedelic-experience-bardo-mapping]]*.
 
 ## Classification
 
@@ -66,7 +66,7 @@ He later proposed the controversial theory that the Vedic soma was a mushroom (*
 
 His work *The Wondrous Mushroom* (1980) continued his ethnomycological investigations.
 
-Wasson's discoveries inspired a generation of researchers including Timothy Leary.
+Wasson"s discoveries inspired a generation of researchers including Timothy Leary.
 
 ## Relevance to Psychedelic Studies
 

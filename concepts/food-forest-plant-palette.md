@@ -25,7 +25,7 @@ sources:
 
 Comprehensive plant palette tables, case studies, and practical tips for [[food-forest]] design. See [[food-forest-design]] for design process, layers overview, and guild design.
 
-## Case Study: Jerome Osentowski's Central Rocky Mountain Permaculture Institute
+## Case Study: Jerome Osentowski"s Central Rocky Mountain Permaculture Institute
 
 At 7,200 feet elevation in Basalt, Colorado, Jerome Osentowski created one of North America's most impressive food forests in a harsh mountain climate. Key design elements:
 

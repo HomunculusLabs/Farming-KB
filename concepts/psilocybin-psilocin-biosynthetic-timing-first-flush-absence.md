@@ -10,7 +10,7 @@ created: 2026-05-09
 
 ## Overview
 
-Bigwood and Beug's 1982 study in the *Journal of Ethnopharmacology* revealed a striking pattern in the alkaloid profile of cultivated *[[emcdda-hallucinogenic-mushrooms-emerging-trend-europe]]. Their [[psilocin-emergence-in-later-flushes]].
+Bigwood and Beug"s 1982 study in the *Journal of Ethnopharmacology* revealed a striking pattern in the alkaloid profile of cultivated *[[emcdda-hallucinogenic-mushrooms-emerging-trend-europe]]. Their [[psilocin-emergence-in-later-flushes]].
 
 ### Psilocin: Delayed Emergence
 

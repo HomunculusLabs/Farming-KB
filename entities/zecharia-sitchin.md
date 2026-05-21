@@ -14,7 +14,7 @@ Zecharia Sitchin (1920–2010) was an Azerbaijani-born American author and resea
 - The "eating of the fruit" was originally a **glorious story** about the hope and potential of humanity
 - Ea (the consciousness-expanding god) gave humanity access to expanded awareness
 - The Biblical version **flipped the narrative 180 degrees** — from triumph to fall, from hope to condemnation
-- What was originally about humanity's awakening became the doctrine of original sin and fall-from-grace
+- What was originally about humanity"s awakening became the doctrine of original sin and fall-from-grace
 
 ## Ethnomycological Significance
 
@@ -28,11 +28,11 @@ In Sitchin's interpretation combined with the ethnomycological framework:
 
 ### The Mesopotamian Connection
 
-The cuneiform tablets represent the **oldest known written records** of the mushroom-religion connection, predating the Biblical texts by millennia. The source text emphasizes that reading the original texts (in Cuneiform, in one's native language) while being a partaker of "the heavenly gift" (the mushroom) would reveal an "incredible thing indeed."
+The cuneiform tablets represent the **oldest known written records** of the mushroom-religion connection, predating the Biblical texts by millennia. The source text emphasizes that reading the original texts (in Cuneiform, in one"s native language) while being a partaker of "the heavenly gift" (the mushroom) would reveal an "incredible thing indeed."
 
 ## Scholarly Reception
 
-Sitchin's work is **widely rejected by mainstream academia**:
+Sitchin"s work is **widely rejected by mainstream academia**:
 
 - **Sumerologists and Assyriologists** criticize his translations as inaccurate and his interpretations as unsupported by the texts
 - **Archaeologists** note the lack of physical evidence for his claims

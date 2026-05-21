@@ -23,11 +23,11 @@ Bulbosine is the name given by Dr. Boudier to the toxic alkaloid he extracted fr
 ## Key Facts
 
 - Derived specifically from *Amanita bulbosa*, unlike the broader extractions by other researchers
-- Boudier believed the alkaloid's properties differed from muscarine and amanitine enough to justify a separate designation
+- Boudier believed the alkaloid"s properties differed from muscarine and amanitine enough to justify a separate designation
 - The effects of bulbosine, muscarine, and amanitine are described as "almost identical" in their poisoning symptoms
 - All three names likely refer to the same or closely related toxic alkaloids from *Amanita* species
 - The term Muscarine (Schmiedeberg/Koppe) became the most widely adopted because it was inclusive of the other designations
-- Palmer adopted the term Amanitine in his own writing because Letellier's extraction from multiple species made it the broadest designation
+- Palmer adopted the term Amanitine in his own writing because Letellier"s extraction from multiple species made it the broadest designation
 - The poison acts on the system through absorption, not through direct contact with digestive organs
 - Produces symptoms resembling Asiatic cholera in fatal cases, consistent with other Amanita alkaloids
 - The alkaloid has no taste, smell, or other indication of its presence

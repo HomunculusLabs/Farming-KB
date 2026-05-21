@@ -12,13 +12,13 @@ tags:
 type: concept
 ---
 
-What primitive man understood implicitly, modern science has been unable to reconstruct through analysis: that a food eaten in its natural state, in its proper season, from the soil of one's own region, is already complete. Nothing need be added, and nothing should be taken away. The irony is that science, in trying to improve upon nature's design, has only made the diet more impoverished.
+What primitive man understood implicitly, modern science has been unable to reconstruct through analysis: that a food eaten in its natural state, in its proper season, from the soil of one"s own region, is already complete. Nothing need be added, and nothing should be taken away. The irony is that science, in trying to improve upon nature's design, has only made the diet more impoverished.
 
 ## The Dietetics Delusion
 
 In contrast with the simple Eastern diet of [[fukuoka-critique-western-dietetics-nutritional-science]] teaches that health cannot be maintained unless one has a balanced diet with a full complement of nutrients: starch, fat, protein, vitamins, minerals, and so on.
 
-It is no surprise then that some mothers stuff "nutritious food" into their children's mouths, regardless of whether it tastes good or not. Because dietetics is built upon careful scientific reasoning and calculation, the general tendency is to accept its pronouncements at face value. But this carries with it the potential for disaster.
+It is no surprise then that some mothers stuff "nutritious food" into their children"s mouths, regardless of whether it tastes good or not. Because dietetics is built upon careful scientific reasoning and calculation, the general tendency is to accept its pronouncements at face value. But this carries with it the potential for disaster.
 
 First of all, dietetics lacks any awareness of man as a living, breathing creature. Menus leave the impression that one is merely supplying energy to mechanical humans cut off from the source of life. There is no evidence of any attempt to approach closer to a natural existence, to conform to natural cycles.
 

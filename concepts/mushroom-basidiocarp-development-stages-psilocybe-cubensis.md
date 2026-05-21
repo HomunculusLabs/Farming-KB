@@ -38,7 +38,7 @@ At Stage 4, the pileus becomes more or less plane (flat), representing full expa
 
 ## Tropic Responses by Developmental Stage
 
-The relationship between developmental stage and tropic responsiveness is a central finding of Badham's work:
+The relationship between developmental stage and tropic responsiveness is a central finding of Badham"s work:
 
 - **Stages 1-2:** Primary stipe elongation oriented toward the direction of greatest evaporative demand (anemotropism). This response occurs in both light and darkness, in fertile and sterile basidiocarps, and regardless of initial stipe orientation relative to wind.
 

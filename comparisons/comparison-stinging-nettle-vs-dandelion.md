@@ -3,7 +3,7 @@ title: Comparison Stinging Nettle Vs Dandelion
 tags: [comparison, medicinal-herbs, foraging, dynamic-accumulators, edible-weeds]
 date: 2026-05-10
 updated: 2026-05-10
-sources: ['raw/papers/unknown-biodiversity-fungi-soil-fungal-communities|biodiversity-of-fungi.md']
+sources: ["raw/papers/unknown-biodiversity-fungi-soil-fungal-communities|biodiversity-of-fungi.md']
 ---
 
 ## Stinging Nettle vs Dandelion
@@ -24,7 +24,7 @@ long-term soil regeneration.
 
 Dandelion is a perennial herb in the Asteraceae family, instantly recognizable
 by its bright yellow composite flowers and deeply toothed leaves (the name
-derives from the French *dent-de-lion*, "lion's tooth"). Native to Europe and
+derives from the French *dent-de-lion*, "lion"s tooth"). Native to Europe and
 Asia but naturalized on every continent, dandelion thrives in disturbed soils,
 lawns, meadows, and roadsides. Every part of the plant is edible, from the
 flowers (used for wine and fritters) to the leaves (salad greens and pesto)

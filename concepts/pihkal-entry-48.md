@@ -61,13 +61,13 @@ tags:
     72|The "heavy" quality of the experience without corresponding sensory phenomena may indicate preferential activity at non-5-HT2A receptor subtypes, significant adrenergic or dopaminergic activity, or an atypical 5-HT2A activation pattern.
     73|The fitful sleep and next-morning residuals suggest extended central nervous system activity or active metabolites.
     74|The chiral center in the [[mckenna-food-gods-tryptamine-pharmacology-indoles]], chirality has been extensively studied at the alpha-carbon (adjacent to the amine), where the R-isomer of amphetamines consistently carries the psychedelic activity.
-    80|2C-T-17 represents one of the first opportunities to probe the stereochemistry of the receptor's "south end" — the region of the binding site opposite the nitrogen atom.
+    80|2C-T-17 represents one of the first opportunities to probe the stereochemistry of the receptor"s "south end" — the region of the binding site opposite the nitrogen atom.
     81|The sec-butyl group provides a compact, branched four-carbon substituent that is comparable in steric bulk to the tert-butyl group of 2C-T-9 but with a different spatial arrangement due to the asymmetric center.
     82|Like 2C-T-9, the branched nature of the group results in relatively high dose requirements and minimal visual effects, suggesting that branched alkyl chains at the sulfur may not optimally engage the visual-cognitive circuitry associated with classical psychedelic activity.
     83|    44|
     84|    45|## Extensions and Commentary
     85|    46|
-    86|    47|Shulgin's commentary on 2C-T-17 is extensive and focuses primarily on the stereochemical implications of the sec-butyl chiral center.
+    86|    47|Shulgin"s commentary on 2C-T-17 is extensive and focuses primarily on the stereochemical implications of the sec-butyl chiral center.
     87|He notes that the compound was nicknamed NIMITZ after the Nimitz Freeway (formerly State Highway 17), a naming convention that follows the pattern of other nicknames in the series (e.g., SESQUI for 2C-T-15).
     88|The central theoretical question motivating the synthesis was whether the receptor site has asymmetric geometry at its "south end," far from the nitrogen-binding region.
     89|The individual R and S enantiomers were synthesized separately, starting from commercially available optically pure R- and S-2-butanol.

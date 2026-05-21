@@ -6,7 +6,7 @@ type: concept
 
 ## Growing Cucurbits — Squash, Melons, and Cucumbers
 
-Cucurbits are so similar that if you have known one, you know them all. The easiest to start with is squash, because it is the most vigorous, most tolerant of careless planting, and most tolerant of heavy soils. Understanding the cucurbit family's unique sensitivities — especially to cold and wet conditions — is the key to reliable production.
+Cucurbits are so similar that if you have known one, you know them all. The easiest to start with is squash, because it is the most vigorous, most tolerant of careless planting, and most tolerant of heavy soils. Understanding the cucurbit family"s unique sensitivities — especially to cold and wet conditions — is the key to reliable production.
 
 ## The Cold Sensitivity Rule
 

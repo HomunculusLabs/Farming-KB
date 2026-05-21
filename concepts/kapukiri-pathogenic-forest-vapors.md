@@ -16,7 +16,7 @@ Different tree species produce distinct varieties of kapukiri, each with charact
 
 ### Puka-lupuna Kapukiri (Cavanillesia sp.)
 
-The puka-lupuna (red lupuna) produces a kapukiri that causes the patient's head to feel as though it is growing larger, accompanied by a smarting sensation across the entire body. The illness most commonly localizes in the stomach. Particularly dangerous is its effect on pregnant women: if exposed, the newborn appears rachitic (suffering from bone malformation due to vitamin D or [[pablo-amaringo]] specifically cured a woman suffering from this form of kapukiri using the *icaro del kapukiri* and the leaves of the very tree that caused her illness — an example of the shamanic principle that the cure is often found in proximity to the cause.
+The puka-lupuna (red lupuna) produces a kapukiri that causes the patient"s head to feel as though it is growing larger, accompanied by a smarting sensation across the entire body. The illness most commonly localizes in the stomach. Particularly dangerous is its effect on pregnant women: if exposed, the newborn appears rachitic (suffering from bone malformation due to vitamin D or [[pablo-amaringo]] specifically cured a woman suffering from this form of kapukiri using the *icaro del kapukiri* and the leaves of the very tree that caused her illness — an example of the shamanic principle that the cure is often found in proximity to the cause.
 
 ### Huairacaspi Kapukiri (Carpotroche grandiflora)
 
@@ -35,7 +35,7 @@ The following actions are strictly forbidden near kapukiri-producing trees:
 - Playing with or casually cutting their leaves
 - Harvesting them for lumber without proper respect or ritual
 
-The logic underlying these prohibitions is ecological and spiritual: the trees generate substances that invisible beings use as nourishment. If a human contaminates the tree (through bodily waste), the tree emits harmful substances that poison those very beings. The tree's defensive response — releasing kapukiri — is thus a protective mechanism for the unseen ecology that depends on it.
+The logic underlying these prohibitions is ecological and spiritual: the trees generate substances that invisible beings use as nourishment. If a human contaminates the tree (through bodily waste), the tree emits harmful substances that poison those very beings. The tree"s defensive response — releasing kapukiri — is thus a protective mechanism for the unseen ecology that depends on it.
 
 ## The Shamanic Cure
 

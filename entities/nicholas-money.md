@@ -9,13 +9,13 @@ sources: [raw/papers/unknown-mr-bloomfields-orchard-mysterious-world-of-mushroom
 
 # Nicholas P. Money
 
-Mycologist and science writer, author of "Mr. Bloomfield's Orchard: The Mysterious World of Mushrooms, Molds, and Mycologists" (2002, Oxford University Press). Professor of botany at Miami University (Ohio). Known for making fungal biology accessible through engaging, witty prose that blends scientific rigor with literary flair.
+Mycologist and science writer, author of "Mr. Bloomfield"s Orchard: The Mysterious World of Mushrooms, Molds, and Mycologists" (2002, Oxford University Press). Professor of botany at Miami University (Ohio). Known for making fungal biology accessible through engaging, witty prose that blends scientific rigor with literary flair.
 
 ## Biography
 
 Money studied at Bristol University, where his "first and most inspiring guide to mycology was Mike Madelin." His doctoral mentor at Exeter was John Webster. His book is dedicated to [[ingold-cecil-t]] ("For Terence Ingold and his jewels"). He describes the book as "a personal reflection on the subject of mycology" written for a general audience with some scientific education, aiming to deepen appreciation of fungi among biologist peers.
 
-## Mr. Bloomfield's Orchard (2002)
+## Mr. Bloomfield"s Orchard (2002)
 
 Money's most influential popular work traces the history of mycology through its greatest practitioners. The book's 10 chapters cover:
 
@@ -33,7 +33,7 @@ The book opens with a quote from M.C. Cooke's *British Fungi* (1871): "It is ind
 
 ## Scientific Research
 
-- **Spore discharge mechanics**: Money's research confirmed [[buller-ahr]]'s hypothesis that surface tension drives the ballistospore catapult mechanism, 70+ years after Buller proposed it
+- **Spore discharge mechanics**: Money"s research confirmed [[buller-ahr]]'s hypothesis that surface tension drives the ballistospore catapult mechanism, 70+ years after Buller proposed it
 - **Appressorium physics**: Studied the mechanical forces exerted by fungal appressoria during plant infection
 - **Rice blast research**: Investigated *Magnaporthe grisea* infection mechanics
 - **Fungal biology popularization**: Multiple books making fungi accessible to general audiences

@@ -3,7 +3,7 @@ title: Fungal Ecology and Symbiosis
 aliases: [mycorrhizae, fungal decomposers, fungal parasites, endophytes]
 tags: [mycology, ecology, symbiosis, decomposition, soil-biology]
 created: 2026-05-10
-source: Nicholas P. Money - Mr. Bloomfield's Orchard
+source: Nicholas P. Money - Mr. Bloomfield"s Orchard
 ---
 
 ## Fungal Ecology and Symbiosis

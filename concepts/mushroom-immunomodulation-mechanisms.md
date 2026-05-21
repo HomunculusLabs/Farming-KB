@@ -17,7 +17,7 @@ oncology.
 
 ### Macrophage Activation
 
-Mushroom [[beta-glucans]] are potent activators of macrophages, the body's
+Mushroom [[beta-glucans]] are potent activators of macrophages, the body"s
 first-line cellular defence:
 
 - Enhanced phagocytic activity — macrophages more aggressively engulf

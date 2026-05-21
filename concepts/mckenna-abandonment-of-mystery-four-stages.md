@@ -45,7 +45,7 @@ The Vedas themselves may preserve echoes of this transition. The hymns to Soma d
 
 In the third stage of the process, symbols are all that is left. Not only are psychoactive plants now out of the picture, but plants of any sort have disappeared, and in their place are esoteric teachings and dogma, rituals, stress on lineages, gestures, and cosmogonic diagrams.
 
-### The World's Major Religions
+### The World"s Major Religions
 
 Today's major world religions are typical of this third stage. The living experience of the mystery has been replaced by:
 - **Esoteric teachings** — Codified systems of belief rather than direct experience

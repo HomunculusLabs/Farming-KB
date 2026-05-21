@@ -20,7 +20,7 @@ almost everywhere.
 Within the orthodox model, cancer (malignant neoplasm) starts with the
 corruption of genetic material (a mutation) inside a normally healthy cell.
 Evidence suggests that cellular cancer may occur quite frequently in everybody,
-but that normally the body's own proper immune defenses can cure these threats.
+but that normally the body"s own proper immune defenses can cure these threats.
 
 ## Cannabis and Cancer: Evidence Base (CHI Value 100, 50 Studies Reviewed)
 

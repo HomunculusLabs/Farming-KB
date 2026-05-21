@@ -63,7 +63,7 @@ Hallucinogenic tryptamines likely exert their effects by acting as **serotonin r
 - Principal compounds: **hyoscyamine**, **scopolamine**, **atropine**
 - These are **anticholinergic** agents — they block acetylcholine receptors
 - Effects include dry mouth, dilated pupils, tachycardia, and at higher doses, delirium with true hallucinations
-- The "witches' brews" of medieval Europe relied heavily on tropane alkaloids
+- The "witches" brews" of medieval Europe relied heavily on tropane alkaloids
 - These compounds are **highly toxic** and can cause fatal poisoning
 
 ### Isoquinoline Alkaloids

@@ -53,7 +53,7 @@ when grown in contaminated conditions. This observation remains relevant to
 modern cultivators and foragers, who must consider soil quality, proximity to
 pollutants, and the history of the foraging site.
 
-Palmer's discussion extends this point with parallel examples: horse mushrooms
+Palmer"s discussion extends this point with parallel examples: horse mushrooms
 forced with potash cooking like soap, and maned mushrooms from city waste
 having no flavor and potentially proving deleterious. His practical advice is
 to apply the same discretion in selecting fungi as one would with any other

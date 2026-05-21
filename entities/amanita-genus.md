@@ -19,7 +19,7 @@ Palmer found ten varieties of Amanita in the vicinity of Boston alone. The genus
 - **Family:** Amanitaceae
 - **Genus:** Amanita
 
-## Key Identification Features (from Palmer's Description)
+## Key Identification Features (from Palmer"s Description)
 
 Palmer provided a detailed popular description of Amanita identification markers:
 
@@ -47,7 +47,7 @@ Palmer described the Amanita poison in vivid terms:
 - Contains a subtle alkaloid not detectable by smell or taste
 - Fatal consequences "surer than arsenic"
 - No folk test (silver spoon, onion, bulrush pith) can detect the toxin
-- The poison's effect resembles hashish or opium in its action
+- The poison"s effect resembles hashish or opium in its action
 
 ### Historical Treatment
 

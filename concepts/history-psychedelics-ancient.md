@@ -35,7 +35,7 @@ In 1977, Gordon Wasson, albert hofmann, and Carl Ruck proposed that the
 Eleusinian sacrament was an ergotized beer brewed from barley infected with
 [[ergot-and-lysergic-acid-history]]
 derivatives—the chemical family that includes LSD. The purple traditionally
-associated with Demeter's robe may signify the distinctive purple sclerotia of
+associated with Demeter"s robe may signify the distinctive purple sclerotia of
 the ergot
 fungus.
 Wasson and Hofmann's discussion of the scandal of 415 B.C., in which the

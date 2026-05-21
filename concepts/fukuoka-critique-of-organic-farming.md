@@ -6,13 +6,13 @@ tags: [fukuoka, organic-farming, critique, scientific-agriculture, compost, gree
 created: 2026-05-11
 ---
 
-## Fukuoka's Critique of Organic Farming
+## Fukuoka"s Critique of Organic Farming
 
 One of [[masanobu-fukuoka]]'s most controversial positions was his rejection of organic farming as a meaningful alternative to conventional agriculture. While organic farming is widely celebrated as an environmentally friendly approach, Fukuoka argued it was "just another type of scientific farming" — fundamentally no different from chemical agriculture in its reliance on human intervention and its misunderstanding of natural processes. This critique, articulated in *The Natural Way of Farming*, challenges the assumptions underlying both conventional and alternative agriculture.
 
 ## Organic Farming as Scientific Agriculture
 
-Fukuoka's core objection was that organic farming, like its conventional counterpart, treats nature as something that must be actively managed through human knowledge and effort. The specific inputs may differ — compost instead of chemical fertilizer, biological pest controls instead of synthetic pesticides — but the underlying paradigm is identical: nature is insufficient on its own and requires human supplementation.
+Fukuoka"s core objection was that organic farming, like its conventional counterpart, treats nature as something that must be actively managed through human knowledge and effort. The specific inputs may differ — compost instead of chemical fertilizer, biological pest controls instead of synthetic pesticides — but the underlying paradigm is identical: nature is insufficient on its own and requires human supplementation.
 
 He wrote: "Even organic farming, which everyone is making such a big fuss over lately, is just another type of scientific farming. A lot of trouble is taken to move organic materials first here then there, to process and treat. But any gains to be had from all this activity are local and temporal gains. In fact, when examined from a broader perspective, many such efforts to protect the natural ecology are actually destructive."
 
@@ -24,7 +24,7 @@ Fukuoka was particularly critical of composting, which is often considered the c
 
 "The ancient practice of using manure and compost does help speed crop growth, but this also depletes the land from which the organic material in the compost is taken."
 
-This is an early articulation of what modern ecologists would call **nutrient off-site effects**. Even closed-loop composting systems lose nutrients through volatilization, leaching, and the metabolic costs of decomposition. In Fukuoka's view, the only truly sustainable approach is to let plants return their own organic matter directly to the soil where they grew — which is exactly what his straw-mulch system achieves without any transportation or processing.
+This is an early articulation of what modern ecologists would call **nutrient off-site effects**. Even closed-loop composting systems lose nutrients through volatilization, leaching, and the metabolic costs of decomposition. In Fukuoka"s view, the only truly sustainable approach is to let plants return their own organic matter directly to the soil where they grew — which is exactly what his straw-mulch system achieves without any transportation or processing.
 
 The energy accounting of composting is particularly damning when examined at scale. Transporting organic matter, turning compost piles, and spreading the finished product all require labor and often fossil fuels. The net energy return may be positive for a single farm, but when the full supply chain is considered — including the energy embedded in the tools, vehicles, and infrastructure used — the picture becomes much less favorable.
 
@@ -45,7 +45,7 @@ This cascade effect is visible in the history of agriculture itself: early tilla
 
 Fukuoka argued that both conventional and organic farmers suffer from the same illusion: that they understand enough about natural systems to manage them beneficially. He cited the fragmentation of scientific knowledge as evidence that this understanding is illusory.
 
-Scientists studying plant diseases don't study the soil microorganisms that may be causing them. Soil scientists don't study the insect ecology that affects nutrient cycling. Entomologists don't study the plant physiology that influences insect feeding behavior. Each specialist sees only a fragment of the whole, and the recommendations that emerge from this fragmented understanding inevitably create unforeseen consequences in the parts of the system no one is studying.
+Scientists studying plant diseases don"t study the soil microorganisms that may be causing them. Soil scientists don't study the insect ecology that affects nutrient cycling. Entomologists don't study the plant physiology that influences insect feeding behavior. Each specialist sees only a fragment of the whole, and the recommendations that emerge from this fragmented understanding inevitably create unforeseen consequences in the parts of the system no one is studying.
 
 ## What Natural Farming Offers Instead
 
@@ -74,7 +74,7 @@ His insistence was not that every farmer must immediately adopt natural farming,
 
 ## Nuances and Limitations of the Critique
 
-Fukuoka's critique of organic farming should not be read as an endorsement of conventional agriculture — he was equally critical of chemical-based systems. Rather, his position was that both approaches share the same fundamental error of trying to manage nature through human knowledge.
+Fukuoka"s critique of organic farming should not be read as an endorsement of conventional agriculture — he was equally critical of chemical-based systems. Rather, his position was that both approaches share the same fundamental error of trying to manage nature through human knowledge.
 
 However, some qualifications are worth noting:
 

@@ -31,11 +31,11 @@ Each qualitative comment follows a consistent format:
 
 - **Sensory modality descriptions**: Visual, auditory, tactile, emotional, cognitive effects
 
-This format allows readers to reconstruct the temporal arc of each experience and compare effects across different dosages and compounds. The [[psilocybin-clinical-trial-landscape-2020-2025]] methodology, where aggregated subjective reports are used to characterize drug effects across populations. The difference is that PiHKAL's reporters were typically experienced with multiple psychoactive compounds, providing a more nuanced comparative framework than naive subjects could offer.
+This format allows readers to reconstruct the temporal arc of each experience and compare effects across different dosages and compounds. The [[psilocybin-clinical-trial-landscape-2020-2025]] methodology, where aggregated subjective reports are used to characterize drug effects across populations. The difference is that PiHKAL"s reporters were typically experienced with multiple psychoactive compounds, providing a more nuanced comparative framework than naive subjects could offer.
 
 ## The Overdose Reports
 
-Shulgin included overdose reports as a deliberate safety measure. For 2C-B, he described a 64 mg experience ("propelled into something not of my choosing") and a 100 mg accidental overdose ("I had simply picked up the wrong vial"). These reports demonstrate the compounds' safety margin — even at 4-8x the normal dose, the subjects recovered without lasting harm.
+Shulgin included overdose reports as a deliberate safety measure. For 2C-B, he described a 64 mg experience ("propelled into something not of my choosing") and a 100 mg accidental overdose ("I had simply picked up the wrong vial"). These reports demonstrate the compounds" safety margin — even at 4-8x the normal dose, the subjects recovered without lasting harm.
 
 These overdose reports serve multiple functions within the [[tihkal-shulgin-rating-scale]] (+/- through ++++) provides a quantitative framework that the qualitative comments illuminate with experiential detail. Comments often implicitly reference the scale: "I was a distinct +1 in 35 minutes and a +2 by the end of the hour."
 

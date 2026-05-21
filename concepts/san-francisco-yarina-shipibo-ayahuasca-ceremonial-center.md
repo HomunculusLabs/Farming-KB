@@ -11,7 +11,7 @@ the accessibility of the Pucallpa area.
 
 ## The Ceremonial Landscape
 
-San Francisco's formal designation as a "ceremonial center" reflects the
+San Francisco"s formal designation as a "ceremonial center" reflects the
 density of ayahuasca practitioners within the community. The author R. Stuart,
 who visited in November 2001, observed that the town has a well-established
 infrastructure for hosting both Peruvian and foreign visitors seeking ayahuasca
@@ -22,11 +22,11 @@ economic life.
 The distinction between community ceremony and tourist ceremony is significant.
 Shamans in San Francisco conduct regular private services for their own family
 members — the author heard [[metzner-amazonian-ayahuasca-ceremonies-icaros-and-healing-methods]]
-attracted up to a couple dozen visitors. During the observation period, B's
+attracted up to a couple dozen visitors. During the observation period, B"s
 son — who served as director of the family religious practice — was away in the
 United States giving workshops, leaving B in charge of the ceremonies. The
 author characterized B as "a frequent liar, a shoplifter" who "soon asks for
-money or gifts at every opportunity." Despite these character flaws, B's
+money or gifts at every opportunity." Despite these character flaws, B"s
 ceremonial space was functional and attracted a steady stream of participants.
 
 **"E" — The Honorable Practitioner of San Francisco**
@@ -45,7 +45,7 @@ declined by the author after he "swindled me on the price of a tobacco pipe."
 This illustrates the range of business ethics encountered by visitors, where
 commercial opportunism sometimes overshadowed spiritual practice.
 
-**B's Nephew — The Entrepreneur**
+**B"s Nephew — The Entrepreneur**
 B's nephew was described as "an enterprising shaman" who earned "a couple
 hundred dollars per month catering to tourists." This income was dramatically
 higher than his neighbors, who "can not even afford a thirty cent taxi ride."
@@ -53,7 +53,7 @@ He charged thirty dollars to give ayahuasca to a tourist, while the going rate
 for a Peruvian was about two dollars — a fifteen-fold [[stuart-r-ayahuasca-tourism-cautionary-ethnography]].
 
 **The Visiting Training Pair**
-Two other ayahuasqueros were visiting B's group for a two-week training period
+Two other ayahuasqueros were visiting B"s group for a two-week training period
 during the observation. One was described as "a sweet and wonderful guy" while
 his partner "always hustled me for spare change," again illustrating the
 spectrum of character found among practitioners.

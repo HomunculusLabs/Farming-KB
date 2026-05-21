@@ -75,7 +75,7 @@ Antibus and Linkins (1992) showed that liming reduced acid phosphatase activity 
 
 ## Nitrogen Saturation and Nutrient Imbalance
 
-Chronic nitrogen addition can induce secondary nutrient limitations following Liebig's "Law of the Minimum":
+Chronic nitrogen addition can induce secondary nutrient limitations following Liebig"s "Law of the Minimum":
 
 - Harrison et al. (1995): K and P became increasingly limiting for Sitka spruce growth with increased N addition
 - Arnebrant (1994): Ammonium sulfate and [[plant-available-nitrogen-ammonium-nitrate]] at 1–4 mg g⁻¹ peat significantly reduced mycelial growth of *Paxillus involutus* and *[[suillus-bovinus]]*
@@ -104,7 +104,7 @@ The plant community shifted toward nitrogen-tolerant species, and while total fu
 
 ## Conservation Implications
 
-Arnolds' observations of species loss under nitrogen pollution led to the development of "red data" lists for fungal species conservation (Arnolds, 1989b, 1997). The United Kingdom subsequently adopted inclusion of fungi and nonvascular plants in conservation lists (Watling, 1999). This represents growing recognition that fungal biodiversity is threatened by anthropogenic influences and requires active conservation measures.
+Arnolds" observations of species loss under nitrogen pollution led to the development of "red data" lists for fungal species conservation (Arnolds, 1989b, 1997). The United Kingdom subsequently adopted inclusion of fungi and nonvascular plants in conservation lists (Watling, 1999). This represents growing recognition that fungal biodiversity is threatened by anthropogenic influences and requires active conservation measures.
 
 ## Methodological Considerations
 

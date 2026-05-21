@@ -18,7 +18,7 @@ The r–K selection theory, originally proposed by Pianka (1970), places organis
 
 ## The R–C–S Triangle
 
-Grime's (1977, 1979) **CSR model** is generally considered more useful for understanding fungal ecology because it accommodates three distinct ecological roles arranged as the apices of a triangle:
+Grime"s (1977, 1979) **CSR model** is generally considered more useful for understanding fungal ecology because it accommodates three distinct ecological roles arranged as the apices of a triangle:
 
 ### R-Strategists (Ruderals)
 Similar to r-selected organisms, ruderal fungi are quick to colonize newly available resources. They invest little energy in biomass or enzymatic function and rely on rapid growth to outcompete other species. However, they are readily displaced by fungi that produce secondary metabolites for defense. In decomposition sequences, R-strategists typically dominate early stages of leaf litter colonization.

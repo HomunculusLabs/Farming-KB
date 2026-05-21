@@ -12,13 +12,13 @@ sources:
 
 ## The Nature-Based Fertility Approach
 
-JADAM's approach to soil fertility fundamentally rejects the modern paradigm of buying expensive fertilizers and instead looks to nature for answers. In forests, soil becomes richer every year without any external inputs. Leaves fall in autumn, accumulate on the soil surface, and decompose over winter — a process that has created some of the most fertile soils on Earth over millions of years. JADAM distills this natural process into three simple rules: fertilizers should be (1) fresh, (2) applied to the soil surface, and (3) applied in autumn.
+JADAM"s approach to soil fertility fundamentally rejects the modern paradigm of buying expensive fertilizers and instead looks to nature for answers. In forests, soil becomes richer every year without any external inputs. Leaves fall in autumn, accumulate on the soil surface, and decompose over winter — a process that has created some of the most fertile soils on Earth over millions of years. JADAM distills this natural process into three simple rules: fertilizers should be (1) fresh, (2) applied to the soil surface, and (3) applied in autumn.
 
 This directly contradicts modern agricultural science, which recommends that fertilizer should be "fully fermented" and applied "deep into the soil" in "spring." JADAM argues that the modern approach was not developed for the benefit of farmers but rather creates dependency on expensive inputs and machinery. Traditional farmers did not need compost bins, C/N ratio calculations, or turning — they simply scattered organic matter on fields in autumn and let nature do the work.
 
 ## The Leaf Mold Foundation
 
-Leaf mold is the cornerstone of JADAM's soil fertility system. Found abundantly under piles of decomposing leaves in forests and fields, leaf mold is described as "black gold" — a dark, crumbly soil teeming with diverse microorganisms that have adapted to the local environment over hundreds of years. These indigenous microbes are the most effective workers for local farms because they are already adapted to regional conditions.
+Leaf mold is the cornerstone of JADAM"s soil fertility system. Found abundantly under piles of decomposing leaves in forests and fields, leaf mold is described as "black gold" — a dark, crumbly soil teeming with diverse microorganisms that have adapted to the local environment over hundreds of years. These indigenous microbes are the most effective workers for local farms because they are already adapted to regional conditions.
 
 For areas without access to natural leaf mold, JADAM teaches a simple method to create it artificially: find clean, unpolluted soil, cover it thickly with cut grass, keep it moist, and wait. As [[savory-supplemental-feeding-and-winter-management]]. The fundamental principle is the "nutritional perspective": the best fertilizer for any crop is made from that crop itself. Tomato leaves and stems make the best tomato fertilizer; grape residues make the best grape fertilizer. This is because crop residues contain the exact balance of N, P, K, Ca, Mg, B, and other nutrients that the crop needs.
 
@@ -31,7 +31,7 @@ To make JLF:
 
 ## Sea Water for Mineral Replenishment
 
-Minerals leach from soil over decades and centuries of rainfall. JADAM's solution is to bring these minerals back from the sea. Sea water contains 83 identified elements in proportions remarkably similar to plant fluid and human blood plasma. Diluted 30-100 times with fresh water, sea water provides comprehensive mineral supplementation. JADAM recommends 20 liters of sea water per 0.1 hectare, applied 3-4 times per month mixed with JMS.
+Minerals leach from soil over decades and centuries of rainfall. JADAM"s solution is to bring these minerals back from the sea. Sea water contains 83 identified elements in proportions remarkably similar to plant fluid and human blood plasma. Diluted 30-100 times with fresh water, sea water provides comprehensive mineral supplementation. JADAM recommends 20 liters of sea water per 0.1 hectare, applied 3-4 times per month mixed with JMS.
 
 ## Phyllite Solution
 

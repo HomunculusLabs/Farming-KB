@@ -6,7 +6,7 @@ type: concept
 
 ## Relational Databases in Fungal Systematics
 
-Relational databases have become indispensable tools for managing the complex data associated with fungal biodiversity research. Modern database software greatly increases the ease with which applications can be developed by end users. When fields are delimited carefully, applications can be developed that meet the researcher's specific needs while producing data that are generally useful and easily transferable to the wider community involved in biodiversity-related studies.
+Relational databases have become indispensable tools for managing the complex data associated with fungal biodiversity research. Modern database software greatly increases the ease with which applications can be developed by end users. When fields are delimited carefully, applications can be developed that meet the researcher"s specific needs while producing data that are generally useful and easily transferable to the wider community involved in biodiversity-related studies.
 
 ## Table Design Principles
 

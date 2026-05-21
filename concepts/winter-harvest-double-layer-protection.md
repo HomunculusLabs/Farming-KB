@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-The double-layer protection system is the foundational innovation behind Eliot Coleman's [[winter-harvest-method-overview]]. By adding a second layer of covering inside an unheated greenhouse, growers can create a microclimate equivalent to moving approximately 1,500 miles to the south (three USDA hardiness zones), enabling the production of fresh salad greens and root vegetables throughout winter even in cold climates like coastal Maine.
+The double-layer protection system is the foundational innovation behind Eliot Coleman"s [[winter-harvest-method-overview]]. By adding a second layer of covering inside an unheated greenhouse, growers can create a microclimate equivalent to moving approximately 1,500 miles to the south (three USDA hardiness zones), enabling the production of fresh salad greens and root vegetables throughout winter even in cold climates like coastal Maine.
 
 ## The Concept: Extending the Harvest Season
 
@@ -37,7 +37,7 @@ The effectiveness of the double-layer system increases progressively as [[jadam-
 - At 25°F (-4°C) outside: approximately 6-7°F (3.5°C) of freeze protection inside
 - At -15°F (-26°C) outside: approximately 30-35°F (16-19°C) of freeze protection inside
 
-This means the protective blanket of two layers becomes dramatically more effective precisely when it matters most — just below the point at which tender crops would be damaged. European growers along the 44th parallel in France and Italy confirmed that unheated greenhouses with inner tunnels provide 6-7°F of freeze protection, consistent with Coleman's records.
+This means the protective blanket of two layers becomes dramatically more effective precisely when it matters most — just below the point at which tender crops would be damaged. European growers along the 44th parallel in France and Italy confirmed that unheated greenhouses with inner tunnels provide 6-7°F of freeze protection, consistent with Coleman"s records.
 
 ## Diurnal Soil Warming
 

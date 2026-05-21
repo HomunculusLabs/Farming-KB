@@ -1,12 +1,12 @@
 ---
-title: "Coleman's Backwards Farm: Winter-Only Production and Summer Fallow"
+title: "Coleman"s Backwards Farm: Winter-Only Production and Summer Fallow"
 tags:
   - concept
 ---
 
 ## Overview
 
-One of the most unconventional experiments in Eliot Coleman's development
+One of the most unconventional experiments in Eliot Coleman"s development
 of the [[dry-gardening-unirrigated-vegetable-production-solomon]]. The experiment
 revealed both the possibilities and the limitations of winter-only farming.
 

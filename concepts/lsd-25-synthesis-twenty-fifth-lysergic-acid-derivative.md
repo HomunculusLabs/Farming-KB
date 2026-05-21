@@ -14,7 +14,7 @@ In 1938, Albert Hofmann synthesized the twenty-fifth compound in his systematic 
 
 ### Modification of the Amide Radical
 
-Hofmann's research program involved systematic variation of the amino alcohol (amide) radical attached to the lysergic acid nucleus. His first success had come from replacing the propanolamine in natural ergobasine with butanolamine, producing Methergine. This demonstrated that relatively minor modifications to the amide group could significantly alter pharmacological properties.
+Hofmann"s research program involved systematic variation of the amino alcohol (amide) radical attached to the lysergic acid nucleus. His first success had come from replacing the propanolamine in natural ergobasine with butanolamine, producing Methergine. This demonstrated that relatively minor modifications to the amide group could significantly alter pharmacological properties.
 
 The lysergic acid molecule consists of a tetracyclic core (the lysergic acid nucleus) with a carboxamide group at position 8. By varying the substituents on the amide nitrogen, Hofmann created a library of compounds with different pharmacological profiles:
 
@@ -62,7 +62,7 @@ The pharmacological report essentially said: mildly interesting, but not a prior
 
 ### The Significance of the Number
 
-The designation "LSD-25" is sometimes misunderstood as indicating the compound's potency or importance. In fact, it simply means it was the twenty-fifth compound in Hofmann's lysergic acid derivative series. Many of the previous twenty-four compounds had also shown interesting but not decisive pharmacological properties. The number was purely ordinal, not evaluative.
+The designation "LSD-25" is sometimes misunderstood as indicating the compound"s potency or importance. In fact, it simply means it was the twenty-fifth compound in Hofmann's lysergic acid derivative series. Many of the previous twenty-four compounds had also shown interesting but not decisive pharmacological properties. The number was purely ordinal, not evaluative.
 
 ## The Five-Year Hiatus (1938-1943)
 
@@ -74,7 +74,7 @@ LSD-25 sat on the shelf, a minor entry in Hofmann's laboratory notebooks, while 
 
 ### The Peculiar Presentiment
 
-In 1943, Hofmann experienced what he later described as a "peculiar presentiment" about LSD-25. He could not articulate why, but he felt compelled to resynthesize the compound and conduct further investigations. This intuitive decision—one of the most consequential hunches in the history of science—led to the discovery of LSD's extraordinary psychoactive properties on April 16, 1943.
+In 1943, Hofmann experienced what he later described as a "peculiar presentiment" about LSD-25. He could not articulate why, but he felt compelled to resynthesize the compound and conduct further investigations. This intuitive decision—one of the most consequential hunches in the history of science—led to the discovery of LSD"s extraordinary psychoactive properties on April 16, 1943.
 
 ## The Potency Question
 

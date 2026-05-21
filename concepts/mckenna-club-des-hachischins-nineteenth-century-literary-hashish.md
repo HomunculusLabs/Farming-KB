@@ -20,7 +20,7 @@ with sugar, pistachios, nutmeg, and other aromatics. Consumed orally rather
 than smoked, this preparation delivered the intense visionary effects that
 nineteenth-century hashish eaters sought.
 
-Moreau was a serious medical investigator. His *Du Hachisch et de l'Aliénation
+Moreau was a serious medical investigator. His *Du Hachisch et de l"Aliénation
 Mentale* (*Hashish and Mental Illness*, 1845) was the first systematic study of
 cannabis's effects on the human mind. His detailed accounts "sparked interest
 in both medical and literary circles" and "set off a wave of experimentation."
@@ -30,13 +30,13 @@ research.
 
 ## Literary Modernism and the Artificial Paradise
 
-The club's explorations profoundly influenced French literature. Baudelaire's
+The club"s explorations profoundly influenced French literature. Baudelaire's
 *Les Paradis Artificiels* (1860), with its sections on hashish and opium, drew
 directly on club experiences. Gautier's prose poems, Nerval's visionary
 narratives, and the exoticism permeating Dumas's fiction all bear traces of
 hashish-inflected perception.
 
-McKenna situated these literary productions within what he called "the sirens'
+McKenna situated these literary productions within what he called "the sirens"
 song of the unconscious, silent." The members were using hashish to access
 dimensions of experience beyond ordinary consciousness. Their writings about
 synesthesias, temporal distortions, and revelations of hidden connections
@@ -48,7 +48,7 @@ men produced.
 ## Romanticism, Orientomania, and the Drug Milieu
 
 The Club des Hachischins did not emerge in isolation. McKenna identified
-several converging currents: Romanticism, with its attention to nature's
+several converging currents: Romanticism, with its attention to nature"s
 "dramatic moods" and sensitivity critics found "feminine," bore "all the signs
 of an incipient partnership revival." Orientomania provided the exotic frame
 for understanding hashish. The "upper-class craze for opium and laudanum" had

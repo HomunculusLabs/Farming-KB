@@ -38,7 +38,7 @@ JWA is combined with other JADAM inputs to create specific pesticide formulation
 
 ## Importance in the JADAM System
 
-Hankyu Cho, Youngsang's father and founder of Natural Farming, predicted that "the making of wetting agent (surfactant) and pesticide at home with organically permitted substances will be a global sensation." Without JWA, the JADAM system of ultra-low-cost pesticide production would not be possible, as commercial wetting agents are expensive and often contain ingredients not permitted under organic standards. By developing an effective organic wetting agent that any farmer can make, JADAM removed one of the major cost barriers to organic pest management.
+Hankyu Cho, Youngsang"s father and founder of Natural Farming, predicted that "the making of wetting agent (surfactant) and pesticide at home with organically permitted substances will be a global sensation." Without JWA, the JADAM system of ultra-low-cost pesticide production would not be possible, as commercial wetting agents are expensive and often contain ingredients not permitted under organic standards. By developing an effective organic wetting agent that any farmer can make, JADAM removed one of the major cost barriers to organic pest management.
 
 ## Relevance to Cultivation and Mycology
 

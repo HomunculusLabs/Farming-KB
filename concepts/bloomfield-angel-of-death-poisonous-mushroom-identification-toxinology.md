@@ -24,7 +24,7 @@ and suburban areas where these trees are planted as ornamentals.
 
 The destroying angel, Amanita virosa, is an equally deadly relative.
 Pure white throughout, it is sometimes confused with edible species like
-the meadow mushroom or horse mushroom. The fool's mushroom, Amanita verna,
+the meadow mushroom or horse mushroom. The fool"s mushroom, Amanita verna,
 completes the trio of white Amanitas that have caused countless deaths.
 
 ## Amatoxin Mechanism of Action
@@ -116,5 +116,3 @@ Collaborative research networks facilitate knowledge exchange and accelerate inn
 Context-specific implementation requires attention to local ecology, climate patterns, and community needs.
 Integration with existing systems often yields better results than complete replacement strategies.
 Monitoring and adaptive management are essential for long-term success and continuous improvement.
-## Practical Applications
-The principles discussed here have direct applications in agricultural systems, ecological restoration, and sustainable resource management.

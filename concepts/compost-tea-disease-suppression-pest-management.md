@@ -103,12 +103,12 @@ Some beneficial organisms produce natural compounds that inhibit pathogens:
 
 ### 5. Induced Systemic Resistance
 
-Beneficial organisms can trigger the plant's own immune responses:
+Beneficial organisms can trigger the plant"s own immune responses:
 
 - Presence of beneficial microbes on roots or leaves primes the plant's defense systems
 - The plant becomes more resistant to a broad range of pathogens
 - This is analogous to an immune system "vaccination" effect
-- The plant's own biochemical defenses are upregulated
+- The plant"s own biochemical defenses are upregulated
 
 ### 6. Nutrient Cycling and Plant Health
 
@@ -121,7 +121,7 @@ Perhaps the most fundamental mechanism:
 
 ## Important Terminology: Avoiding "Pesticide" Language
 
-When describing compost tea's disease-reducing effects, specific language is important for regulatory reasons:
+When describing compost tea"s disease-reducing effects, specific language is important for regulatory reasons:
 
 - **Do NOT use the word "pesticide"** or claim that compost tea "controls" diseases
 - Instead describe the effects as **competitive interactions**, **food web restoration**, and **biological protection**
@@ -139,7 +139,7 @@ The competitive interactions between beneficial organisms and pathogens are comp
 
 ## Historical Context
 
-Dr. Elaine Ingham's work emerged from the recognition that conventional [[mycorrhizal-agricultural-practices]] have devastated soil biology:
+Dr. Elaine Ingham"s work emerged from the recognition that conventional [[mycorrhizal-agricultural-practices]] have devastated soil biology:
 
 > "Our soils are under attack, and we are the enemy attacking them. We have killed the beneficial organisms almost everywhere — along roadsides, in agricultural fields, and even in national parks. Fumigated fields have only disease and pest organisms growing in them."
 

@@ -34,7 +34,7 @@ ago.
 
 ## The Spanish Suppression
 
-Spanish opposition to the Aztecs' mushroom worship was intense.
+Spanish opposition to the Aztecs" mushroom worship was intense.
 Although the conquerors attacked the religious use of all
 hallucinogens including peyote, ololiuqui, and toloache,
 teonanacatl was the target of special wrath. The Spanish saw

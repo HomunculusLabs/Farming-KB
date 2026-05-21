@@ -44,13 +44,13 @@ DMT is a tryptamine (indole family). The active metabolite of psilocybin, psiloc
 DMT-containing plants are combined with Banisteriopsis caapi (containing MAO-inhibiting harmala alkaloids) in brews called ayahuasca or yage. The MAO inhibition allows DMT to be orally active. How indigenous Amazonians discovered this specific combination — among thousands of plant species — is a matter of wonder. Shamans claim the "plant spirits" told them which plants to use.
 
 ### Snuff Traditions
-Yopo (Anadenanthera peregrina) and Epena (Virola theiodora) are blown into the nostrils using elaborate snuffing tubes. Some devices allow two people to simultaneously blow snuff into each other's nostrils before losing consciousness.
+Yopo (Anadenanthera peregrina) and Epena (Virola theiodora) are blown into the nostrils using elaborate snuffing tubes. Some devices allow two people to simultaneously blow snuff into each other"s nostrils before losing consciousness.
 
 ### Modern Discovery
 - DMT first synthesized in 1931 by Richard Manske
 - Identified in ayahuasca in 1957 by Hochstein and Paradies
-- Popularized in the underground psychedelic scene in the 1960s; called "the businessman's lunch trip"
-- Rick Strassman's clinical DMT research (1990-1995) at University of New Mexico documented effects in human volunteers
+- Popularized in the underground psychedelic scene in the 1960s; called "the businessman"s lunch trip"
+- Rick Strassman"s clinical DMT research (1990-1995) at University of New Mexico documented effects in human volunteers
 
 ## Administration
 
@@ -87,7 +87,7 @@ Yopo (Anadenanthera peregrina) and Epena (Virola theiodora) are blown into the n
 
 ### Intensity Rating: 9-10 (Turner scale)
 
-The DMT experience is an order of magnitude more intense than traditional psychedelics (LSD, psilocybin, mescaline). Key characteristics from Turner's Essential Psychedelics Guide:
+The DMT experience is an order of magnitude more intense than traditional psychedelics (LSD, psilocybin, mescaline). Key characteristics from Turner"s Essential Psychedelics Guide:
 
 - **Breakthrough**: On a full dose, the user is propelled to a high as intense as the peak of a 1000+ mcg LSD trip within 60 seconds
 - **Reality replacement**: Conventional reality is completely replaced. Users frequently feel out of body, with no recollection of having a body, personality, or even knowledge of planet Earth

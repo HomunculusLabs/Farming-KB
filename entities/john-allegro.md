@@ -38,14 +38,14 @@ Christianity, Judaism, and other Near Eastern religions were fertility cults who
 Allegro used Sumerian philology (the oldest written language, c. 3500 BC) to trace mushroom-related terminology through Greek, Hebrew, and other Near Eastern languages. He argued that Sumerian provides a linguistic bridge between Indo-European and Semitic language families, and that religious terminology preserves the oldest meanings due to liturgical conservatism.
 
 ### Key Arguments
-- The mushroom's phallic shape and manner of growth (born from a volva/"egg" without visible seed) made it a natural symbol of the fertility god
-- Its hallucinogenic properties were understood as "God's sperm" granting brief divine omniscience
-- Many biblical stories are vegetation myths — coded references to mushroom characteristics (Jonah's shade plant, Jotham's parable of the trees)
+- The mushroom"s phallic shape and manner of growth (born from a volva/"egg" without visible seed) made it a natural symbol of the fertility god
+- Its hallucinogenic properties were understood as "God"s sperm" granting brief divine omniscience
+- Many biblical stories are vegetation myths — coded references to mushroom characteristics (Jonah"s shade plant, Jotham's parable of the trees)
 - Secret mushroom names were encoded in proper names (Jesus, Mary, Joseph, Christ) through phonetic disguise
 - The fertility cult worldview: sky = divine penis (rain/semen), earth = womb, mushroom = "son of God" manifest on earth
 
 ### Errors and Corrections (per pirated edition)
-- Did not understand Amanita's growth cycle, effects, and "bitterness" accurately
+- Did not understand Amanita"s growth cycle, effects, and "bitterness" accurately
 - Overlooked references to A. pantherina and Psilocybe cubensis
 - Wrongfully classified Rue as an abortifacient, not recognizing Acacia and Rue as an ayahuasca analogue
 - Wrongfully assumed mushrooms (rather than institutional religion) were the cause of shamanic protest against suppression

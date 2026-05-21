@@ -19,7 +19,7 @@ Fish maintain growth by eating approximately **1% of their body weight daily**. 
 These common invertebrates are easily cultivated from food waste and organic materials:
 
 ### Cockroach Culture
-Scatter food waste or flour, cover with leaves, and seed with cockroaches. Add leaves and starches periodically. In tropical areas, cockroach and millipede populations build rapidly. [[dano-gorsich]] on Moloka'i, Hawaii, developed a successful **cockroach mulch heap** using Hibiscus leaves. When the pile is half-turned every few days, cockroaches become accessible to ducks, whose manure then stimulates plankton growth in adjacent ponds.
+Scatter food waste or flour, cover with leaves, and seed with cockroaches. Add leaves and starches periodically. In tropical areas, cockroach and millipede populations build rapidly. [[dano-gorsich]] on Moloka"i, Hawaii, developed a successful **cockroach mulch heap** using Hibiscus leaves. When the pile is half-turned every few days, cockroaches become accessible to ducks, whose manure then stimulates plankton growth in adjacent ponds.
 
 ### Sowbug (Woodlouse) Culture
 A "sandwich" mound of boards, paper, leaves, and organic material breeds sowbugs and houses earwigs. These can be sieved and shaken out, or the mound demolished and rebuilt with ducks or chickens present to capture the invertebrates. Zostera (eel grass) serves as an excellent base material for sowbug colonies.

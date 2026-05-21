@@ -9,9 +9,9 @@ sources:
 ---
 ## Fukuoka Food as Strategic Weapon and the Seed War
 
-In "The Road Back to Nature," Fukuoka delivers a sharp critique of how food has become a tool of geopolitical power, particularly focusing on America's use of food exports as leverage over other nations and the emerging "seed war" in rice genetics.
+In "The Road Back to Nature," Fukuoka delivers a sharp critique of how food has become a tool of geopolitical power, particularly focusing on America"s use of food exports as leverage over other nations and the emerging "seed war" in rice genetics.
 
-## America's Food Strategy
+## America"s Food Strategy
 
 Fukuoka observed that America, while appearing powerful and affluent, is actually a country in great danger. Depending on how it uses the food it produces, such a large food-producing nation is capable of either saving the world or throwing it into chaos.
 

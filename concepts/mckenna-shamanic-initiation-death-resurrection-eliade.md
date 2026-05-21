@@ -7,7 +7,7 @@ created: 2026-05-11
 
 ## Shamanic Initiation: Death, Resurrection, and Transformation
 
-## Eliade's Framework: Archaic Techniques of Ecstasy
+## Eliade"s Framework: Archaic Techniques of Ecstasy
 
 [[terence-mckenna]] draws heavily on [[mckenna-food-gods-shamanism-techniques-of-ecstasy-mircea-eliade]]'s seminal work *Shamanism: Archaic
 Techniques of Ecstasy* to establish the universal structure of shamanic initiation.
@@ -25,7 +25,7 @@ science has systematically ignored.
 
 ## Transformation from Profane to Sacred
 
-Eliade's analysis, as presented by McKenna, establishes that the neophyte
+Eliade"s analysis, as presented by McKenna, establishes that the neophyte
 shaman undergoes a symbolic [[allegro-death-and-resurrection-in-the-mushroom-cult]] "which is understood as a
 radical transformation into a superhuman condition." McKenna quotes *The
 [[tryptamine-hypercontinuum-and-invisible-landscape]]*: "In short, the shaman is transformed from a profane into a
@@ -33,7 +33,7 @@ sacred state of being."
 
 Eliade used the word "profane" deliberately to create "a clear split between
 the notion of the profane world of ordinary experience and the sacred world
-which is 'Wholly Other.'" This transformation is not incremental but total —
+which is "Wholly Other.'" This transformation is not incremental but total —
 the shaman crosses an ontological threshold that cannot be uncrossed.
 
 The consequences of this transformation are permanent and far-reaching:
@@ -49,7 +49,7 @@ a sick man, or a madman; he is a sick man who has healed himself, who is cured,
 and who must shamanize in order to remain cured."
 
 This formulation establishes the shaman as fundamentally different from the
-patient. The shaman's power derives from having undergone and survived the
+patient. The shaman"s power derives from having undergone and survived the
 initiatory crisis. The healing is not merely personal but professional — having
 effected his own cure "through this mystical transmutation," the shaman "is now
 invested with the power of the sacred, and hence can cure others as well."
@@ -59,7 +59,7 @@ invested with the power of the sacred, and hence can cure others as well."
 McKenna draws a critical distinction between shamanic and modern medical practice:
 "Usually, if drugs are used, the shaman, not the patient, will take the drug."
 This reverses the Western pharmaceutical model entirely. The plants used by the
-shaman "are not intended to stimulate the immune system or the body's other
+shaman "are not intended to stimulate the immune system or the body"s other
 natural defenses against disease." Rather, they allow the healer "to journey into
 an invisible realm in which the causality of the ordinary world is replaced with
 the rationale of natural magic."

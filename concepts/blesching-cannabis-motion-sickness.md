@@ -58,7 +58,7 @@ Researchers Grace and Graham wrote: "Nausea and vomiting occurred when an
 individual was thinking of something which he wished had never happened." The
 part of human physiology responsible for motion-induced nausea and vomiting is
 involuntary, possibly indicative of fear as a response to mismatching
-experiences beyond one's control. NASA's "vomit comet" parabolic flights show
+experiences beyond one"s control. NASA's "vomit comet" parabolic flights show
 roughly two-thirds of participants experience nausea or vomiting, with
 researchers blaming anxiety or anticipation of unknown sensations.
 

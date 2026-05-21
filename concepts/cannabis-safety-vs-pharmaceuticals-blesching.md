@@ -8,7 +8,7 @@ tags: [cannabis-safety, pharmaceutical-comparison, fda, mortality, harm-reductio
 
 ## Overview
 
-Uwe Blesching's *The [[blesching-cannabis-safety-adverse-effects-evidence]] in
+Uwe Blesching"s *The [[blesching-cannabis-safety-adverse-effects-evidence]] in
 the context of broader pharmaceutical risk, arguing that the plant's
 safety profile is dramatically more favorable than commonly prescribed
 alternatives. Drawing on FDA data, CDC mortality statistics, and his

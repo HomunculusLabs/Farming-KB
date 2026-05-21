@@ -6,13 +6,13 @@ tags:
 
 ## Overview
 
-Natural farming, often called "do-nothing agriculture," is the philosophical and practical system developed by Japanese farmer and philosopher Masanobu Fukuoka (1913–2008). Articulated most fully in *The Road Back to Nature* (1987) and his earlier *The One-Straw Revolution* (1978), natural farming is both a critique of modern [[microwave-sterilization-versus-conventional-methods-comparison]] while requiring no plowing, no [[non-discriminating-knowledge-and-critique-of-scientific-reductionism]]. For Fukuoka, modern agriculture's obsession with understanding and controlling every variable — from soil chemistry to plant genetics — represented a profound misunderstanding of nature's inherent wisdom and self-organizing capacity.
+Natural farming, often called "do-nothing agriculture," is the philosophical and practical system developed by Japanese farmer and philosopher Masanobu Fukuoka (1913–2008). Articulated most fully in *The Road Back to Nature* (1987) and his earlier *The One-Straw Revolution* (1978), natural farming is both a critique of modern [[microwave-sterilization-versus-conventional-methods-comparison]] while requiring no plowing, no [[non-discriminating-knowledge-and-critique-of-scientific-reductionism]]. For Fukuoka, modern agriculture"s obsession with understanding and controlling every variable — from soil chemistry to plant genetics — represented a profound misunderstanding of nature's inherent wisdom and self-organizing capacity.
 
-Central to Fukuoka's philosophy is the conviction that "all one has to do is to live." This deceptively simple statement encapsulates his belief that human flourishing is not achieved through the conquest and manipulation of nature but through alignment with natural processes. Agriculture, in his view, should not be an act of imposing human will upon the land but of participating in the land's own processes of growth, decay, and regeneration.
+Central to Fukuoka's philosophy is the conviction that "all one has to do is to live." This deceptively simple statement encapsulates his belief that human flourishing is not achieved through the conquest and manipulation of nature but through alignment with natural processes. Agriculture, in his view, should not be an act of imposing human will upon the land but of participating in the land"s own processes of growth, decay, and regeneration.
 
 ### The Concept of "Mu" (Nothingness)
 
-The concept of *mu* — nothingness, emptiness, or "do-nothing" — is central to Fukuoka's farming philosophy. Drawing on Buddhist and Taoist traditions, Fukuoka applied *mu* to agriculture as the practice of non-interference: allowing natural processes to unfold without human manipulation. This is not passive neglect but an active discipline of restraint and attentiveness. The farmer who practices *mu* observes nature constantly, intervenes only when absolutely necessary, and trusts that the natural system possesses an intelligence and order that human planning cannot improve upon.
+The concept of *mu* — nothingness, emptiness, or "do-nothing" — is central to Fukuoka"s farming philosophy. Drawing on Buddhist and Taoist traditions, Fukuoka applied *mu* to agriculture as the practice of non-interference: allowing natural processes to unfold without human manipulation. This is not passive neglect but an active discipline of restraint and attentiveness. The farmer who practices *mu* observes nature constantly, intervenes only when absolutely necessary, and trusts that the natural system possesses an intelligence and order that human planning cannot improve upon.
 
 ### The Paradoxes of Scientific Farming
 
@@ -21,7 +21,7 @@ Fukuoka argued that modern [[knf-leaf-mold-humus]], necessitating more fertilize
 - Hybrid seeds increase productivity but reduce genetic diversity, making crops more vulnerable to diseases
 - Irrigation enables farming in arid regions but causes salinization and waterlogging that eventually reduce productivity
 
-In Fukuoka's analysis, this cycle is not a series of unfortunate side effects but a structural feature of an approach that treats nature as a machine to be optimized rather than a living system to be understood on its own terms. The "do-nothing" approach is not laziness or neglect but a disciplined refusal to initiate this destructive cycle. Each intervention narrows the system's ability to self-regulate, making it progressively more dependent on external management.
+In Fukuoka's analysis, this cycle is not a series of unfortunate side effects but a structural feature of an approach that treats nature as a machine to be optimized rather than a living system to be understood on its own terms. The "do-nothing" approach is not laziness or neglect but a disciplined refusal to initiate this destructive cycle. Each intervention narrows the system"s ability to self-regulate, making it progressively more dependent on external management.
 
 ### Critique of Reductionist Science
 

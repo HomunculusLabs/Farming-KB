@@ -7,14 +7,14 @@ tags:
 ## Overview
 
 One of the most persistent misconceptions about fungi is that mushrooms appear
-unpredictably, springing up overnight in random locations. Julius A. Palmer's
+unpredictably, springing up overnight in random locations. Julius A. Palmer"s
 1894 *About Mushrooms* provides detailed field observations from seven years of
 monitoring New England [[evaporative-demand-hypothesis-mushroom-growth]] proverbial for a
 superficiality which by the fungi, at least, is undeserved."
 
 ## Perennial Return to Fixed Locations
 
-Palmer's most striking observation was the fidelity of [[jeavons-climate-adaptation-growing-seasons]], establishing that the mushroom's
+Palmer"s most striking observation was the fidelity of [[jeavons-climate-adaptation-growing-seasons]], establishing that the mushroom's
 underground life was "just as real" as the visible portion, and that the various
 varieties of [[query-what-is-the-ideal-temperature-range-for-growing-cannabis]], moisture requirements, and timing. The elm-tree
 mushroom (*Agaricus ulmarius*) appears in autumn on living elm trees; the fairy
@@ -36,7 +36,7 @@ from another" when their underground networks are interwoven? Each species
 maintains its chemical identity even in intimate contact with neighbors—a
 phenomenon that speaks to the specificity of [[query-how-to-protect-plants-from-frost-and-extend-the-growing-season]] ended, Palmer reflected on the life cycle beneath the soil:
 "The life principle only sleeps, with all that we call mortal, beneath the soil.
-The gift of immortality is held by them in common with all of God's handiwork.
+The gift of immortality is held by them in common with all of God"s handiwork.
 Year by year they have gone on, renewing their fragile forms; yes, and they will
 do so, year by year, after the hand that now describes their traits shall lie
 powerless beneath their feet."

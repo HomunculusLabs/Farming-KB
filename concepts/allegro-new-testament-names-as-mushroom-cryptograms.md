@@ -13,18 +13,18 @@ sources:
 Allegro systematically decodes the names of New [[emcdda-hallucinogenic-mushroom-emerging-trend-analysis]] from the mound.
 
 ### Thomas (Didymus)
-Thomas means "twin" in Aramaic; Didymus is the Greek equivalent. The "twin" motif connects to the mushroom's hermaphroditic nature — it is simultaneously phallus and vulva, stem and cap, sperm and womb. Thomas the doubter, who needed to touch Jesus' wounds (John 20:24-29), personifies the initiate's need for direct experience of the mushroom.
+Thomas means "twin" in Aramaic; Didymus is the Greek equivalent. The "twin" motif connects to the mushroom"s hermaphroditic nature — it is simultaneously phallus and vulva, stem and cap, sperm and womb. Thomas the doubter, who needed to touch Jesus' wounds (John 20:24-29), personifies the initiate's need for direct experience of the mushroom.
 
 ### Matthew (Levi)
-Matthew (Greek Matthaios) connects to the Hebrew mattan ("gift"). The mushroom is the "gift" of the god — the divine substance given to humanity. Levi, his alternate name, connects to the Sumerian word for "joined, attached" — the mushroom's gills attached to the stem.
+Matthew (Greek Matthaios) connects to the Hebrew mattan ("gift"). The mushroom is the "gift" of the god — the divine substance given to humanity. Levi, his alternate name, connects to the Sumerian word for "joined, attached" — the mushroom"s gills attached to the stem.
 
 ## Characters in the Passion Narrative
 
 ### Lazarus
-The name Lazarus (Hebrew Eleazar, "God has helped") encodes a Sumerian mushroom name. The story of Lazarus raised from the dead (John 11) describes the dried mushroom's apparent "resurrection" when reconstituted in liquid. The four days in the tomb (John 11:39) correspond to the mushroom's drying time.
+The name Lazarus (Hebrew Eleazar, "God has helped") encodes a Sumerian mushroom name. The story of Lazarus raised from the dead (John 11) describes the dried mushroom"s apparent "resurrection" when reconstituted in liquid. The four days in the tomb (John 11:39) correspond to the mushroom"s drying time.
 
 ### Barabbas
-Barabbas (Aramaic Bar-Abbas, "son of the father") is the exact Aramaic equivalent of the mushroom phrase AB-BA-T-BA-RI. The crowd's choice of Barabbas over Jesus (Matt 27:15-26) is a word-play: both names encode the same mushroom, and the "choice" between them is a cryptographic device, not a historical event.
+Barabbas (Aramaic Bar-Abbas, "son of the father") is the exact Aramaic equivalent of the mushroom phrase AB-BA-T-BA-RI. The crowd"s choice of Barabbas over Jesus (Matt 27:15-26) is a word-play: both names encode the same mushroom, and the "choice" between them is a cryptographic device, not a historical event.
 
 ### Nicodemus
 Nicodemus, who came to Jesus "by night" (John 3:1-21), has a name that connects to the Greek nikos ("victory") and demos ("people") on the surface, but encodes a Sumerian mushroom name related to the "victory" of the fungus over death. The nocturnal visit reflects the [[allegro-death-and-resurrection-in-the-mushroom-cult]] mythology as mushroom-derived remains one of the most contested aspects of [[sacred-mushroom-and-the-cross]]

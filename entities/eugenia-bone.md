@@ -10,17 +10,17 @@ sources:
 
 # Eugenia Bone
 
-American food and science writer known for "Mycophilia: Revelations from the Weird World of Mushrooms" (2011) and her work bridging culinary mycology and popular science. A distinct author from [[nicholas-money]], who wrote "Mr. Bloomfield's Orchard."
+American food and science writer known for "Mycophilia: Revelations from the Weird World of Mushrooms" (2011) and her work bridging culinary mycology and popular science. A distinct author from [[nicholas-money]], who wrote "Mr. Bloomfield"s Orchard."
 
 ## Major Works
 
-- **"Mycophilia: Revelations from the Weird World of Mushrooms" (2011)** — A popular science exploration of mushroom biology, foraging culture, the commercial mushroom industry, and the scientific study of fungi. The book examines the subculture of mushroom hunters, the biology of [[fungal-ecology]], and the growing recognition of fungi's ecological importance.
-- **"At Mesa's Edge" (2001)** — A memoir about life and cooking in southwestern Colorado.
+- **"Mycophilia: Revelations from the Weird World of Mushrooms" (2011)** — A popular science exploration of mushroom biology, foraging culture, the commercial mushroom industry, and the scientific study of fungi. The book examines the subculture of mushroom hunters, the biology of [[fungal-ecology]], and the growing recognition of fungi"s ecological importance.
+- **"At Mesa"s Edge" (2001)** — A memoir about life and cooking in southwestern Colorado.
 - **"Italian Food, American Style" (1999)** — A cookbook exploring Italian-American culinary traditions.
 
 ## Contribution to Mycological Awareness
 
-Bone's "Mycophilia" arrived at a moment of growing public interest in fungi, helped along by the work of [[paul-stamets]] and other mycological popularizers. Her approach differs from purely scientific or culinary writing by combining field mycology with personal narrative, food writing, and ecological reporting. She covers topics ranging from mushroom cultivation and foraging safety to the role of [[mycorrhizal-fungi]] in forest ecosystems and the emerging science of [[mycoremediation-basics]].
+Bone"s "Mycophilia" arrived at a moment of growing public interest in fungi, helped along by the work of [[paul-stamets]] and other mycological popularizers. Her approach differs from purely scientific or culinary writing by combining field mycology with personal narrative, food writing, and ecological reporting. She covers topics ranging from mushroom cultivation and foraging safety to the role of [[mycorrhizal-fungi]] in forest ecosystems and the emerging science of [[mycoremediation-basics]].
 
 ## Topics Covered in Mycophilia
 

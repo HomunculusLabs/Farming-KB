@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-Sepp Holzer's approach to irrigation contradicts many conventional practices. Based on decades of observation at the Krameterhof, he advocates for night watering, minimal irrigation of established crops, and understanding plant wilting as a natural protective mechanism rather than a distress signal.
+Sepp Holzer"s approach to irrigation contradicts many conventional practices. Based on decades of observation at the Krameterhof, he advocates for night watering, minimal irrigation of established crops, and understanding plant wilting as a natural protective mechanism rather than a distress signal.
 
 ## Night Watering
 
@@ -28,7 +28,7 @@ Watering at night rather than during the day ensures that water infiltrates the 
 
 "Do not panic when the plants wilt a little during the day, it is part of their protection mechanism to stop water from evaporating."
 
-Wilting is the plant's natural response to water stress: by reducing the surface area of leaves, the plant minimizes water loss through transpiration. This is an adaptation, not a crisis.
+Wilting is the plant"s natural response to water stress: by reducing the surface area of leaves, the plant minimizes water loss through transpiration. This is an adaptation, not a crisis.
 
 ### The Counterproductive Watering Response
 
@@ -44,7 +44,7 @@ Watering a wilted plant during the heat of the day is counterproductive for seve
 
 "Do not water grain, it is unnecessary, unless the region is extremely hot and dry."
 
-Holzer challenges the common assumption that grain crops need supplemental irrigation. In most climates, grain's deep root system is sufficient to access soil moisture without irrigation.
+Holzer challenges the common assumption that grain crops need supplemental irrigation. In most climates, grain"s deep root system is sufficient to access soil moisture without irrigation.
 
 ### Undersowing with Clover
 

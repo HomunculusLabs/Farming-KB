@@ -12,7 +12,7 @@ tags: [psilocybin]
 
 In "The Psilocybin Solution," Simon G. Powell develops a comprehensive theory that consciousness is a form of information, specifically a pattern of information embodied within the flowing electrochemical state of the brain. This informational model of mind is derived from examining the effects of [[mckenna-consciousness-expansion-and-drug-war]] is a form of information.
 
-The evidence for this comes from multiple directions. [[psychedelic-mushroom-set-and-setting]] called the "[[psychedelic-integration]] become permanent features of one's worldview.
+The evidence for this comes from multiple directions. [[psychedelic-mushroom-set-and-setting]] called the "[[psychedelic-integration]] become permanent features of one"s worldview.
 
 ## Information Theory and Psychedelic States
 

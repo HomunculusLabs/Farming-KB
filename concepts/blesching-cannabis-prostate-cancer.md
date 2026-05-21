@@ -20,7 +20,7 @@ The prostate gland is part of the male reproductive system, located at the
 outlet of the urinary bladder. About the size of a walnut in its healthy state,
 the urethra leads through the prostate. The gland produces and stores seminal
 fluids in which sperm move during ejaculation. Females have analogous tissue
-called Skene's glands that produce similar fluid.
+called Skene"s glands that produce similar fluid.
 
 Prostate cancer is one of the most common cancers in elderly males, generally
 very slow-growing. Many patients never have particular symptoms, but prostate

@@ -15,7 +15,7 @@ sources:
 
 Despite the lack of documented provenance, Golden Teacher has become one of the most widely distributed and commercially available *P. cubensis* strains in the world.
 It is sold by virtually every major spore vendor and cultivation supply company, and its genetics have been propagated through countless generations of both amateur and commercial cultivators.
-The strain's ubiquity has led to significant genetic drift, and the "Golden Teacher" label today likely encompasses a range of related but genetically distinct lines that share the general morphological and cultivation characteristics originally associated with the name.
+The strain"s ubiquity has led to significant genetic drift, and the "Golden Teacher" label today likely encompasses a range of related but genetically distinct lines that share the general morphological and cultivation characteristics originally associated with the name.
 
 ## Morphology
 

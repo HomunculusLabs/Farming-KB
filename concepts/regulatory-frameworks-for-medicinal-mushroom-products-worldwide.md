@@ -57,7 +57,7 @@ The German Commission E is "an independent division of the German Federal Health
 - Multi-disciplinary: physicians, pharmacists, pharmacologists, toxicologists, pharmaceutical industry representatives, and lawyers
 
 ### Doctrine of Reasonable Certainty
-"Evaluations on efficacy are based on a doctrine of reasonable certainty which contrasts with the American FDA's insistence on a doctrine of absolute proof."
+"Evaluations on efficacy are based on a doctrine of reasonable certainty which contrasts with the American FDA"s insistence on a doctrine of absolute proof."
 
 ### Future Direction
 "It is anticipated that in the future mushroom-derived dietary supplements will be subjected to this level of research on estimation of safety and efficacy."
@@ -74,7 +74,7 @@ The German Commission E is "an independent division of the German Federal Health
 - Claims have "the nuance of preserving or promoting health" rather than treating disease
 
 ### Regulatory Advantage
-Japan's FOSHU system provides a middle ground between pharmaceutical drugs and ordinary foods, allowing health claims with clinical evidence but without the full burden of drug approval.
+Japan"s FOSHU system provides a middle ground between pharmaceutical drugs and ordinary foods, allowing health claims with clinical evidence but without the full burden of drug approval.
 
 ## The US Situation
 
@@ -82,7 +82,7 @@ Japan's FOSHU system provides a middle ground between pharmaceutical drugs and o
 Mushroom products are primarily regulated as **dietary supplements** under the Dietary Supplement Health and Education Act (DSHEA) of 1994. This is the most permissive regulatory framework for mushroom therapeutics.
 
 ### FDA Approach
-"The FDA relies on information passively submitted to it from drug manufacturers" — a passive approach compared to the German Commission E's proactive evaluation system.
+"The FDA relies on information passively submitted to it from drug manufacturers" — a passive approach compared to the German Commission E"s proactive evaluation system.
 
 ### Limited Claims
 Dietary supplements cannot claim to treat, cure, or prevent disease. Only "structure/function" claims are permitted.

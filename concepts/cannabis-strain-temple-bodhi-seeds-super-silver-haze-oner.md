@@ -1,5 +1,5 @@
 ---
-title: Temple (Bodhi Seeds) — Super Silver Haze × William's Wonder
+title: Temple (Bodhi Seeds) — Super Silver Haze × William"s Wonder
 source: Cannabis Sativa Vol 3
 tags:
   - cannabis-strain
@@ -42,9 +42,9 @@ Vol 3, indica growers can "breathe a sigh of relief" when working with Temple,
 as it does not stretch uncontrollably during the flowering phase. The plants
 produce thin, pale green, heavily serrated leaves that unmistakably announce
 their sativa heritage — leaves that, in the words of the source text,
-practically scream "I'M A SATIVA."
+practically scream "I"M A SATIVA."
 
-One of Temple's most surprising attributes is its flowering speed. While many
+One of Temple"s most surprising attributes is its flowering speed. While many
 haze-dominant strains require 12 weeks or longer to finish, Temple completes
 its flowering cycle in just 9 to 10 weeks. This relatively fast finish makes
 it considerably more practical for commercial and home growers alike, reducing
@@ -54,7 +54,7 @@ vulnerability, nutrient depletion, and space constraints.
 The colas produced by Temple are genuinely massive. Cannabis Sativa Vol 3
 describes them as buds that "could make The Shard feel inadequate," a
 reference to the iconic London skyscraper. This prodigious bud production is
-consistent with Bodhi Seeds' reputation for breeding strains that deliver
+consistent with Bodhi Seeds" reputation for breeding strains that deliver
 exceptionally large flowers. The buds are dense, coated in resin, and carry
 the complex terpene profile inherited from the Super Silver Haze parent.
 
@@ -94,7 +94,7 @@ haze-dominant genetics. The flavor profile is layered and enjoyable, with the
 citrus notes most prominent on the inhale and the earthy, spicy haze qualities
 emerging on the exhale. The effects are uplifting and celebratory in nature.
 Cannabis Sativa Vol 3 captures this quality memorably, describing a scene where
-"everyone [is] smiling like at the Mad Hatter's tea party." The high is
+"everyone [is] smiling like at the Mad Hatter"s tea party." The high is
 predominantly cerebral, promoting happiness, sociability, and a general sense
 of well-being, though the William's Wonder influence provides enough body
 relaxation to keep the experience grounded.

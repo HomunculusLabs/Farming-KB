@@ -38,7 +38,7 @@ Osmond first corresponded with Aldous Huxley in 1953 after the author read about
 
 Huxley subsequently described the experience in his 1954 essay *The Doors of Perception*, writing that the drug had revealed "the is-ness of things" and that the brain acted as a "reducing valve" on consciousness. The two men became close friends and lifelong correspondents. Their letters, later published, reveal a rich intellectual exchange about consciousness, mysticism, psychology, and the nature of reality.
 
-Huxley asked Osmond to be his guide on his deathbed; on 22 November 1963 (the same day President John F. Kennedy was assassinated), Osmond administered LSD to Huxley as the author lay dying of throat cancer, fulfilling Huxley's wish to depart with an expanded consciousness. This event has become one of the most iconic moments in the history of psychedelic culture.
+Huxley asked Osmond to be his guide on his deathbed; on 22 November 1963 (the same day President John F. Kennedy was assassinated), Osmond administered LSD to Huxley as the author lay dying of throat cancer, fulfilling Huxley"s wish to depart with an expanded consciousness. This event has become one of the most iconic moments in the history of psychedelic culture.
 
 ## Model Psychosis Research
 

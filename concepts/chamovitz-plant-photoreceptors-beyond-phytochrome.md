@@ -13,7 +13,7 @@ While phytochrome is the most famous plant photoreceptor, plants possess a sophi
 
 Cryptochromes serve two fundamental roles in plants:
 
-1. **Circadian clock entrainment** — Plants, like animals, have internal 24-hour biological clocks. Cryptochromes help synchronize this clock to the external light/dark cycle. Without cryptochromes, the plant's clock drifts, leading to mistimed physiological processes.
+1. **Circadian clock entrainment** — Plants, like animals, have internal 24-hour biological clocks. Cryptochromes help synchronize this clock to the external light/dark cycle. Without cryptochromes, the plant"s clock drifts, leading to mistimed physiological processes.
 
 2. **De-etiolation** — When a seedling emerges from soil into light, it must rapidly transition from skotomorphogenic (dark-growth) to photomorphogenic (light-growth) development. Cryptochromes help inhibit stem elongation, promote chlorophyll synthesis, and open cotyledons.
 

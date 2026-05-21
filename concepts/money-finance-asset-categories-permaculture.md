@@ -6,7 +6,7 @@ type: concept
 
 ## Money, Finance, and Asset Categories in Permaculture
 
-[[bill-mollison]]'s treatment of money and finance in [[permaculture]] is fundamentally a critique of how modern societies confuse financial abstraction with real wealth, paired with a practical framework for understanding and organizing assets within bioregional economies. His analysis moves from the anthropological origins of exchange systems through the pathology of fiat currency to a categorized model of asset types that can guide community [[homestead-financial-planning]].
+[[bill-mollison]]"s treatment of money and finance in [[permaculture]] is fundamentally a critique of how modern societies confuse financial abstraction with real wealth, paired with a practical framework for understanding and organizing assets within bioregional economies. His analysis moves from the anthropological origins of exchange systems through the pathology of fiat currency to a categorized model of asset types that can guide community [[homestead-financial-planning]].
 
 ## From Social to Fiscal Accounting
 
@@ -16,9 +16,9 @@ Only in highly mobile societies does abstract money begin to replace **fair deal
 
 ## The Fading Faith in Fiscal Systems
 
-Mollison observes that faith in the fiscal system — which he calls "an essential delusion if money is to maintain any barter value" — is fading as nation states and giant corporations fail to meet their debts, repudiating obligations or entering voluntary liquidation. In every case, the cost falls back on ordinary people. Large banks not only lose depositors' money but make depositors pay for the loss. Large companies receive public subsidies that "would make millionaires of paupers." The fiscal system, in Mollison's view, systematically transfers wealth from the productive to the parasitic.
+Mollison observes that faith in the fiscal system — which he calls "an essential delusion if money is to maintain any barter value" — is fading as nation states and giant corporations fail to meet their debts, repudiating obligations or entering voluntary liquidation. In every case, the cost falls back on ordinary people. Large banks not only lose depositors" money but make depositors pay for the loss. Large companies receive public subsidies that "would make millionaires of paupers." The fiscal system, in Mollison"s view, systematically transfers wealth from the productive to the parasitic.
 
-Fiscal societies give a false impression of security that collapses roughly every 40 years when inflation — driven by greed — renders currency valueless. But Mollison extends this analysis to its ecological conclusion: the final "inflation" is the collapse of the environmental system itself. No amount of gold or diamonds can soften the blows that nature delivers, and in the final accounting, "a cabbage can be worth a king's castle (or more) if it saves your life." For the preceding 40 years, money has been made through the destruction of real wealth — soils and forests — and the debts are now being called in by nature herself.
+Fiscal societies give a false impression of security that collapses roughly every 40 years when inflation — driven by greed — renders currency valueless. But Mollison extends this analysis to its ecological conclusion: the final "inflation" is the collapse of the environmental system itself. No amount of gold or diamonds can soften the blows that nature delivers, and in the final accounting, "a cabbage can be worth a king"s castle (or more) if it saves your life." For the preceding 40 years, money has been made through the destruction of real wealth — soils and forests — and the debts are now being called in by nature herself.
 
 ## Money as Transport, Not Resource
 
@@ -48,7 +48,7 @@ The **trees, wildlife, fish, invertebrates, mammals, and domestic livestock** of
 
 ### 5. Conservative Assets
 
-**Insulation, dams, money recycling systems, good storage areas, and strategic forests** that guard against erosion or [[desertification]]. These conserve resources for future use and are essential to sustainable systems. Conservative assets do not generate new wealth but prevent the loss of existing wealth — they are the community's insurance against crisis and depletion.
+**Insulation, dams, money recycling systems, good storage areas, and strategic forests** that guard against erosion or [[desertification]]. These conserve resources for future use and are essential to sustainable systems. Conservative assets do not generate new wealth but prevent the loss of existing wealth — they are the community"s insurance against crisis and depletion.
 
 ## The Law of Return: Users Pay
 

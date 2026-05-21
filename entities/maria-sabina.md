@@ -5,7 +5,7 @@ type: person
 tags: [mazatec, curandera, mushroom-ceremony, entheogen, oaxaca]
 date: 2026-04-28
 updated: 2026-04-28
-sources: ['raw/papers/working-with-agar.md']
+sources: ["raw/papers/working-with-agar.md']
 ---
 
 ## María Sabina
@@ -14,7 +14,7 @@ sources: ['raw/papers/working-with-agar.md']
 
 ## Aftermath and Impact
 
-The publication of Wasson's article had profound and ultimately devastating consequences for María Sabina and her community:
+The publication of Wasson"s article had profound and ultimately devastating consequences for María Sabina and her community:
 
 - **Cultural disruption:** Huautla de Jiménez was flooded with counterculture visitors — hippies, seekers, researchers, and tourists — seeking mushroom experiences. The influx overwhelmed the small village and disrupted the traditional context in which the ceremonies were embedded.
 - **Commercial exploitation:** Some local practitioners began charging foreigners for ceremonies, transforming what had been a sacred communal practice into a commercial commodity.

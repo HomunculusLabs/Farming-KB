@@ -19,7 +19,7 @@ The species has significant ecological importance in maintaining the unique pine
 
 ### Notable Varieties
 
-Two botanical varieties are recognized. *Pinus rigida* var. *rigida* is the typical form found across most of the species' range. *Pinus rigida* var. *serotina* (O.K. & J.H. Schott) Hoopes, sometimes called pond pine variety, occurs in the southeastern coastal plain and has more strongly serotinous cones.
+Two botanical varieties are recognized. *Pinus rigida* var. *rigida* is the typical form found across most of the species" range. *Pinus rigida* var. *serotina* (O.K. & J.H. Schott) Hoopes, sometimes called pond pine variety, occurs in the southeastern coastal plain and has more strongly serotinous cones.
 
 Intermediate forms between the two varieties exist in the zone of overlap from New Jersey to Virginia. Some authorities treat the southern populations as a distinct species, *Pinus serotina*, but molecular evidence supports varietal status.
 

@@ -14,11 +14,11 @@ sources:
 
 Fukuoka lays bare everything about his past because he dearly wishes to atone for his errors and make the fullest possible use of the few remaining years he has left on this earth. At the same time he wants to search for a way to preserve the light of [[fukuoka-mu-economics-and-value-of-nothing-essay]] is so important. Mu is not a state that can be achieved and then maintained; it is a continuous practice of letting go. Each time the farmer reaches for a tool, each time the intellect suggests a "better" way, there is an opportunity to practice non-attachment. Natural farming is, in this sense, a spiritual discipline disguised as an agricultural method.
 
-Fukuoka's confession that he "turned around and bolted from reality" upon seeing paradise is a deeply human moment. He is admitting that even he -- the man to whom natural farming was revealed -- was not equal to the task of living in full harmony with that revelation. This honesty makes his work more credible, not less. If even the originator of natural farming struggles with it, then the rest of us can be forgiven our difficulties.
+Fukuoka"s confession that he "turned around and bolted from reality" upon seeing paradise is a deeply human moment. He is admitting that even he -- the man to whom natural farming was revealed -- was not equal to the task of living in full harmony with that revelation. This honesty makes his work more credible, not less. If even the originator of natural farming struggles with it, then the rest of us can be forgiven our difficulties.
 
 ## The Urgency of Preservation
 
-Fukuoka's warning that natural farming "may vanish as just one transient farming technique" has proven prescient. In the decades since he wrote these words, natural farming has indeed been absorbed into the broader organic and sustainable agriculture movements, often stripped of its philosophical and spiritual dimensions. The techniques survive; the light dims.
+Fukuoka"s warning that natural farming "may vanish as just one transient farming technique" has proven prescient. In the decades since he wrote these words, natural farming has indeed been absorbed into the broader organic and sustainable agriculture movements, often stripped of its philosophical and spiritual dimensions. The techniques survive; the light dims.
 
 This is why [[fukuoka-nature-transcends-human-knowledge]]
 

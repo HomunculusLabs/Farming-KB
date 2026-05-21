@@ -9,7 +9,7 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Erhardt, W. et al. (2008). "The Royal Horticultural Society Gardeners' Encyclopedia of Plants and Flowers." Dorling Kindersley.
+  - Erhardt, W. et al. (2008). "The Royal Horticultural Society Gardeners" Encyclopedia of Plants and Flowers." Dorling Kindersley.
 ---
 
 ## Overview
@@ -20,7 +20,7 @@ All parts of the plant contain protoanemonin, a toxic irritant compound characte
 
 The species is among the earliest spring-blooming wildflowers in its range, often flowering while snow still covers adjacent ground. This phenological strategy maximizes pollinator access before competition from other species intensifies.
 
-In horticulture, marsh marigold is valued for bog gardens and water feature margins. Cultivated varieties include the double-flowered form 'Flore Pleno' and the white-flowered Caltha palustris var. alba.
+In horticulture, marsh marigold is valued for bog gardens and water feature margins. Cultivated varieties include the double-flowered form "Flore Pleno' and the white-flowered Caltha palustris var. alba.
 
 ## Taxonomy
 

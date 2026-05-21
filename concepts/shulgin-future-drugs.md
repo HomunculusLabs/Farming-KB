@@ -59,7 +59,7 @@ Shulgin identified the fundamental problem of drug scheduling:
 ## Nomenclature Problem
 
 Shulgin critiqued the terminology itself:
-- "Hallucinogen" -- a misnomer; most of these compounds don't produce true hallucinations
+- "Hallucinogen" -- a misnomer; most of these compounds don"t produce true hallucinations
 - "Psychotomimetic" -- too broad; restricted to research settings
 - "Psychedelic" -- connotation of approval; absent from scientific literature
 - "Psychodysleptic" -- European usage; also artificial

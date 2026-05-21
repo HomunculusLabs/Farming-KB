@@ -13,7 +13,7 @@ type: comparison
 
 ## Top-Bar Hive vs Warre Hive
 
-Both the **top-bar hive (TBH)** and the **Warre hive** (also called the "People's Hive") are horizontal or vertically-stacked alternatives to the conventional Langstroth hive. They share a philosophy of **[[fukuoka-textdoc-sawdust-wood-chips-orchard-soil-acidification-experiment]]) sits above the top bars, providing moisture absorption and insulation
+Both the **top-bar hive (TBH)** and the **Warre hive** (also called the "People"s Hive") are horizontal or vertically-stacked alternatives to the conventional Langstroth hive. They share a philosophy of **[[fukuoka-textdoc-sawdust-wood-chips-orchard-soil-acidification-experiment]]) sits above the top bars, providing moisture absorption and insulation
 - **Roof:** Sloped or peaked roof provides weather protection
 - **Entrance:** Small entrance slot near the bottom of the lowest box
 

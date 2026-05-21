@@ -1,5 +1,5 @@
 ---
-title: "Fukuoka's Critique of Petrochemical Food Synthesis"
+title: "Fukuoka"s Critique of Petrochemical Food Synthesis"
 type: concept
 tags:
   - food-synthesis

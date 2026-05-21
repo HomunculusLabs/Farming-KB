@@ -8,7 +8,7 @@ type: concept
 
 ## Energy as the Central Concern of Design
 
-In permaculture, energy flow is the central concern of design. Energies enter a system, and either remain within it or escape. The permaculture designer's fundamental task is to prevent energy leaving before the basic needs of the whole system are satisfied, so that growth, reproduction, and maintenance continue in the living components. Every design decision is ultimately an energy decision — about where energy comes from, how it moves through the system, how much is captured and stored, and how much is lost.
+In permaculture, energy flow is the central concern of design. Energies enter a system, and either remain within it or escape. The permaculture designer"s fundamental task is to prevent energy leaving before the basic needs of the whole system are satisfied, so that growth, reproduction, and maintenance continue in the living components. Every design decision is ultimately an energy decision — about where energy comes from, how it moves through the system, how much is captured and stored, and how much is lost.
 
 ## The Laws of Thermodynamics Applied to Living Systems
 
@@ -16,7 +16,7 @@ In permaculture, energy flow is the central concern of design. Energies enter a 
 
 As restated by Mollison drawing on Watt (1968), the basic law of thermodynamics states: "All energy entering an organism, population, or ecosystem can be accounted for as energy which is stored or leaves. Energy can be transferred from one form to another, but it cannot disappear, or be destroyed, or created. No energy conversion system is ever completely efficient."
 
-This law establishes the accounting framework for design. Every input of energy must show up somewhere — either as stored biomass, as useful work performed, or as waste heat and dissipated energy. Nothing disappears. The designer's task is to ensure that energy inputs are captured, converted, and stored as effectively as possible before they degrade to unusable forms.
+This law establishes the accounting framework for design. Every input of energy must show up somewhere — either as stored biomass, as useful work performed, or as waste heat and dissipated energy. Nothing disappears. The designer"s task is to ensure that energy inputs are captured, converted, and stored as effectively as possible before they degrade to unusable forms.
 
 ### The Second Law: Entropy and the Degradation of Energy
 
@@ -30,7 +30,7 @@ As stated by Asimov (1970): "The total energy of the universe is constant and th
 
 Ambient and useful energy storages are progressively degraded into less useful forms until they are no longer of any use to the system. This is the universal direction of energy flow, and it is irreversible.
 
-## The Designer's Central Question
+## The Designer"s Central Question
 
 Given these thermodynamic realities, the question for the permaculture designer becomes: **"How can I best use energy before it passes from my site or system?"**
 

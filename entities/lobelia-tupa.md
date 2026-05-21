@@ -16,7 +16,7 @@ sources:
 
 ## Lobelia tupa
 
-**Lobelia tupa** L., commonly known as **Tabaco del Diablo** ("Devil's Tobacco"), is a large herbaceous plant in the family Campanulaceae native to [[oner-sativa-medical-applications]]. The psychoactive and toxic effects of L. tupa are attributed to these piperidine alkaloids. Lobeline was once used in commercial smoking cessation preparations before being largely replaced by nicotine replacement therapies.
+**Lobelia tupa** L., commonly known as **Tabaco del Diablo** ("Devil"s Tobacco"), is a large herbaceous plant in the family Campanulaceae native to [[oner-sativa-medical-applications]]. The psychoactive and toxic effects of L. tupa are attributed to these piperidine alkaloids. Lobeline was once used in commercial smoking cessation preparations before being largely replaced by nicotine replacement therapies.
 
 ## Pharmacology
 

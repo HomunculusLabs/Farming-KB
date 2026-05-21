@@ -19,11 +19,11 @@ Joan Gussow is a nutritionist and author recognized for her critical analysis of
 ## Key Contributions
 
 ### "Value Added, Nutritionally Degraded"
-Gussow's most cited contribution in the context of deep-organic farming is her incisive description of processed organic foods. This phrase captures the paradox of the industrial organic movement:
+Gussow"s most cited contribution in the context of deep-organic farming is her incisive description of processed organic foods. This phrase captures the paradox of the industrial organic movement:
 
 - Foods are marketed as "organic" and sold at premium prices (value added)
 - Yet processing strips away nutritional content and adds unnecessary ingredients (nutritionally degraded)
-- This critique parallels Coleman's distinction between shallow and [[deep-organic-farming]]
+- This critique parallels Coleman"s distinction between shallow and [[deep-organic-farming]]
 
 ### Food Systems Analysis
 Gussow's work encompasses broader themes:

@@ -31,7 +31,7 @@ Mollison specifically identifies buckthorn plantain (*Plantago coronopus*) along
 
 ## Diagnostic Value
 
-In Mollison's dryland salinity assessment framework, the appearance of *Plantago coronopus* indicates:
+In Mollison"s dryland salinity assessment framework, the appearance of *Plantago coronopus* indicates:
 
 - **Rising water tables** from upslope deforestation and increased infiltration
 - **Salt mobilization** through the soil profile

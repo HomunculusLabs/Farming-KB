@@ -16,7 +16,7 @@ delirium and delusion-producing [[mckenna-witch-ointments-tropane-alkaloids-flyi
 and hyoscyamine. When these preparations were applied to the skin, they
 produced states of extraordinary derangement and delusion, including
 sensations of flight, transformation, and contact with supernatural
-beings. Hans Baldung's artistic treatments of witches leave no doubt
+beings. Hans Baldung"s artistic treatments of witches leave no doubt
 about the terror the medieval mind projected onto the image of
 intoxicated women. The plants involved included thorn apple (Datura),
 [[belladonna-atropa-belladonna-ethnobotany]]), and monkshood (Aconitum), all
@@ -38,7 +38,7 @@ his assigned function as the mighty enemy and seducer of Christendom.
 
 ## The Suppressed Natural Explanation
 
-McKenna argues that the role of plants in witches' experiences was "not
+McKenna argues that the role of plants in witches" experiences was "not
 only under-emphasized, but entirely suppressed." If the natural
 explanation had prevailed, "the Devil would then have been left with
 only a very modest significance, or none at all. If he was assigned
@@ -52,7 +52,7 @@ natural causation.
 
 ## Broader Pattern of Suppression
 
-McKenna frames the Inquisition's suppression of plant knowledge as part
+McKenna frames the Inquisition"s suppression of plant knowledge as part
 of a larger pattern of "suppression of the feminine and of knowledge of
 the natural world" that has been "the hallmark of the intervening
 centuries." This pattern extends from the destruction of the Eleusinian

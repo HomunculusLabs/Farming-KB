@@ -18,7 +18,7 @@ Mycovermicomposting is an integrated cultivation technique that combines [[acces
 
 ## Key Facts
 
-- Spent mushroom substrate is already fully colonized with mycelium, which is a worm's preferred natural food source
+- Spent mushroom substrate is already fully colonized with mycelium, which is a worm"s preferred natural food source
 - Sweet-smelling metabolites in spent medium attract worms from afar, drawing them into the substrate to breed and feed
 - Red wigglers (*Eisenia fetida*) are the preferred species because they are vertical migrators, penetrating every cubic inch of the substrate
 - Common earthworms are less effective because they compost horizontally at the soil surface in a thin layer

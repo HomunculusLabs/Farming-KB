@@ -27,7 +27,7 @@ Best planted in fall or early winter. Remove any suckers before planting. Add tw
 
 ### Maintenance
 - **Feeding:** Apply one handful of rock potash per square yard/meter in early spring. A browning of leaf margins indicates potash deficiency -- spray with liquid kelp and feed with rock potash
-- **Pruning:** First three winters: prune main branches to leave half the season's growth. Cut sideshoots to 3in (7cm). Remove dead, diseased, or overcrowded branches. After three years: prune in summer immediately after harvesting. Reduce all sideshoots to five leaves
+- **Pruning:** First three winters: prune main branches to leave half the season"s growth. Cut sideshoots to 3in (7cm). Remove dead, diseased, or overcrowded branches. After three years: prune in summer immediately after harvesting. Reduce all sideshoots to five leaves
 - **Protection:** Cover with netting when in bud. Cover flowers with fleece or netting if hard frost threatens
 
 ### Harvesting

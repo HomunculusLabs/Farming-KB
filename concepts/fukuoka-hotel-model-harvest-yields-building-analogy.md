@@ -4,7 +4,7 @@ source: administrator-microsoft-word-fukuoka-textdoc.md
 type: concept
 ---
 
-## Fukuoka's Hotel/Building Model of Crop Harvest Yields
+## Fukuoka"s Hotel/Building Model of Crop Harvest Yields
 
 [[fukuoka-critique-agricultural-science-laws-liebig]] and reveal
 the superiority [[fukuoka-mahayana-and-hinayana-natural-farming]]—a more restrained approach
@@ -50,7 +50,7 @@ to raise yields is to enlarge the building itself"—and only nature can.
 
 **5. Outdoing nature is building on sand.** Attempting to exceed natural
 yields is like adding an annex on a foundation of sand rather than rock.
-It is inherently unstable and doesn't really benefit man.
+It is inherently unstable and doesn"t really benefit man.
 
 **6. All rooms are interconnected.** One cannot make selective improvements
 in isolation. Half-baked improvements are "no more effective than renovating
@@ -74,7 +74,7 @@ community—might contribute more than a dozen managed inputs.
 
 "In the final analysis, one cannot predict which element or factor will help
 or hurt the yield. This can only be determined by hindsight—after the
-harvest is in." Effects can hinge on how a typhoon blows; last year's
+harvest is in." Effects can hinge on how a typhoon blows; last year"s
 failure might be this year's success.
 
 ### The Futility of Micromanagement
@@ -82,7 +82,7 @@ failure might be this year's success.
 "Just as the manager of our hotel will never succeed if all he pays attention
 to is whether the lights are on or off, careful attention to tiny,
 insignificant details will never get the farmer off to a good start."
-Scientific farming's obsession with granular control misses the larger
+Scientific farming"s obsession with granular control misses the larger
 picture entirely.
 
 "The only positive way to increase yields is to increase the capacity of the

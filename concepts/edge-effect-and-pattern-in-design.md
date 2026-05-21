@@ -10,7 +10,7 @@ type: concept
 
 **Edge** is the interface or boundary between unlike systems. It is one of the most productive and dynamic zones in any ecological or designed system. Classic examples include the boundary between water and air, soil and water, forest and grassland, frost and non-frost zones, and the margin where desert meets arable land. Wherever two different media or ecological communities meet, an edge is formed, and it is at this interface that some of the most important phenomena in nature occur.
 
-Edges are not limited to large-scale landscape boundaries. They exist at every scale — from the microscopic boundary between soil particles of different composition, to the margin of a single leaf where light and shadow meet, to the vast transition zone where a continent's climate shifts from temperate to tropical. The principles that govern [[edge-effect]] operate consistently across all of these scales, making edge a truly universal concept in design.
+Edges are not limited to large-scale landscape boundaries. They exist at every scale — from the microscopic boundary between soil particles of different composition, to the margin of a single leaf where light and shadow meet, to the vast transition zone where a continent"s climate shifts from temperate to tropical. The principles that govern [[edge-effect]] operate consistently across all of these scales, making edge a truly universal concept in design.
 
 ## Characteristics of Edge
 
@@ -18,7 +18,7 @@ At any edge, several phenomena occur simultaneously. **Energy flux increases** �
 
 **Species diversity rises sharply** at edges, because organisms adapted to each adjoining system can coexist and interact. A forest edge, for instance, supports both shade-tolerant forest species and sun-loving open-field species, plus a suite of specialized edge-dwelling organisms that depend on the transition zone itself. This concentration of species creates more complex food webs, more niche opportunities, and more ecological stability than either adjoining system could support independently.
 
-**Productivity increases** as well. The edge is where "everything pauses" in Mollison's phrase — materials, organisms, and energies accumulate and exchange at a rate far exceeding what happens in the homogeneous interior of either adjoining system. Nutrients, seeds, water, and organic matter tend to collect at edges, creating zones of concentrated fertility and biological activity that far exceed the productive capacity of either adjacent zone on its own.
+**Productivity increases** as well. The edge is where "everything pauses" in Mollison"s phrase — materials, organisms, and energies accumulate and exchange at a rate far exceeding what happens in the homogeneous interior of either adjoining system. Nutrients, seeds, water, and organic matter tend to collect at edges, creating zones of concentrated fertility and biological activity that far exceed the productive capacity of either adjacent zone on its own.
 
 ## The Problem of Discarded Edge Data in Agriculture
 
@@ -66,7 +66,7 @@ Chemical gradients form along equipotential surfaces, creating distinct soil che
 
 Within the harmonics of a designed edge system, **spin effects** arise in discrete clumps. As materials and organisms concentrate at edge zones, they create localized vortices of energy and nutrient flow. These spin effects are self-reinforcing: the more activity concentrates at a point, the more it attracts further activity, creating positive feedback loops that amplify productivity.
 
-Spin effects are particularly important in clump-type plantings, where individual plants or groups of plants create their own micro-edges and micro-gradients. A well-designed clump planting doesn't just benefit from its external edges with the surrounding landscape; it also generates internal spin effects that enhance productivity within the clump itself.
+Spin effects are particularly important in clump-type plantings, where individual plants or groups of plants create their own micro-edges and micro-gradients. A well-designed clump planting doesn"t just benefit from its external edges with the surrounding landscape; it also generates internal spin effects that enhance productivity within the clump itself.
 
 These internal dynamics are why seemingly random or irregular plantings often outperform neat, evenly spaced arrangements. The irregularity creates more internal edge and more varied microconditions, which in turn generate more spin effects and more localized accumulation of resources. Recognizing and supporting spin effects allows designers to identify and nurture emergent productivity hotspots within their systems.
 

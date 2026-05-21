@@ -1,5 +1,5 @@
 ---
-title: "Interstellar Spore Percolation Theory: McKenna's Panspermia Hypothesis for Stropharia Cubensis"
+title: "Interstellar Spore Percolation Theory: McKenna"s Panspermia Hypothesis for Stropharia Cubensis"
 tags:
   - concept
 ---

@@ -6,7 +6,7 @@ type: concept
 
 ## Parasol Mushroom Cultivation
 
-The parasol mushroom (*[[macrolepiota-procera]]*) is one of the world's most recognizable wild mushrooms and a prized edible in Europe and Russia. As the tallest and most regal of the gilled mushrooms, it commands attention in any landscape. The parasol is an interface species, preferring to grow where different environments meet — the edges of grassy fields, tree drip lines, and transitions between meadows and woodland. This ecological preference is key to understanding its [[mushroom-cultivation-requirements-food-water-gas-exchange-and-light]], as it depends heavily on [[microwave-interaction-with-microbial-cells]] communities for successful fruiting.
+The parasol mushroom (*[[macrolepiota-procera]]*) is one of the world"s most recognizable wild mushrooms and a prized edible in Europe and Russia. As the tallest and most regal of the gilled mushrooms, it commands attention in any landscape. The parasol is an interface species, preferring to grow where different environments meet — the edges of grassy fields, tree drip lines, and transitions between meadows and woodland. This ecological preference is key to understanding its [[mushroom-cultivation-requirements-food-water-gas-exchange-and-light]], as it depends heavily on [[microwave-interaction-with-microbial-cells]] communities for successful fruiting.
 
 ## Ecology and Natural History
 

@@ -10,7 +10,7 @@ type: concept
 
 ## Leucaena Alley Cropping Systems
 
-Alley cropping with [[bill-mollison]]'s [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]] that
+Alley cropping with [[bill-mollison]]"s [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]] that
 has been widely adopted throughout the tropics and subtropics. It is often
 called "ipil-ipil" in [[soil-temperature-plant-growth-rate-doubling-rule]], reaching 15 to 20 feet in the first year
 - Deep taproot system that accesses subsoil nutrients and moisture

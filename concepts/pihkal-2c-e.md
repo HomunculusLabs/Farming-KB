@@ -27,12 +27,12 @@ rewarding in terms of philosophical insight and personal growth.
 
 2C-E is not for the inexperienced. Its combination of intense visuals,
 significant body load, and profound cognitive effects makes it one of the most
-demanding substances in Shulgin's catalog. Experienced users often describe it
+demanding substances in Shulgin"s catalog. Experienced users often describe it
 as the most "psychedelic" of all 2C compounds.
 
 ## Chemical Structure and Classification
 
-2C-E's IUPAC name is 2-(4-ethyl-2,5-dimethoxyphenyl)ethan-1-amine. It
+2C-E"s IUPAC name is 2-(4-ethyl-2,5-dimethoxyphenyl)ethan-1-amine. It
 features the characteristic 2,5-dimethoxyphenethylamine backbone with an
 ethyl group at the 4-position replacing the halogen found in 2C-B or 2C-I.
 The ethyl substituent is more lipophilic than halogens, influencing receptor
@@ -56,7 +56,7 @@ potential for profound psychedelic experiences and the challenging nature of
 those experiences. He noted that 2C-E was not for casual use and required
 both experience and preparation.
 
-He appreciated 2C-E's capacity for producing genuine philosophical insight
+He appreciated 2C-E"s capacity for producing genuine philosophical insight
 and personal growth, describing experiences as "thought-provoking" and
 noting states comparable to high-dose LSD or [[serotonin]] 5-HT2A receptor agonist with high
 

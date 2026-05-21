@@ -8,13 +8,13 @@ type: concept
 
 ## Overview
 
-Shamanism represents humanity's oldest and most indigenous form of natural spirituality, rooted in the direct experiential exploration of consciousness through entheogenic plants. At its core, shamanic practice centers on the journey into the death experience — a deep psychological introspection and judgment through plant-induced states, undertaken in preparation for physical death. The practice is fundamentally about conquering death spiritually so that when the physical body dies, the spirit "wakes," having already rehearsed the transition through guided visionary experience.
+Shamanism represents humanity"s oldest and most indigenous form of natural spirituality, rooted in the direct experiential exploration of consciousness through entheogenic plants. At its core, shamanic practice centers on the journey into the death experience — a deep psychological introspection and judgment through plant-induced states, undertaken in preparation for physical death. The practice is fundamentally about conquering death spiritually so that when the physical body dies, the spirit "wakes," having already rehearsed the transition through guided visionary experience.
 
 ## Historical Origins
 
 Before organized religion, before written language, early humans who encountered consciousness-expanding plants became aware of something beyond normal physical reality. This realization developed a new contemplation of death and a desire for individual immortality. World mythologies universally contain claims of beings ascending beyond death into a spiritual dimension, attainable through a quest for an elixir — and this cosmopolitan pattern across ancient documents points to a common historical source: the indigenous natural practice of shamanism.
 
-[[shamanism-death-and-rebirth]] experience. Despite shamanism's rejection of patriarchal religious structures, it is paradoxically the foundational source from which all major religions ultimately derive their myths, rituals, and symbolism.
+[[shamanism-death-and-rebirth]] experience. Despite shamanism"s rejection of patriarchal religious structures, it is paradoxically the foundational source from which all major religions ultimately derive their myths, rituals, and symbolism.
 
 ## The Core Practice: Journey into Death
 
@@ -22,7 +22,7 @@ The shamanic death-rebirth experience involves several key elements:
 
 - **Induction of a death-like trance** through the consumption of entheogenic substances
 - **Complete psychological introspection and self-judgment**, where every event of one's life surfaces into consciousness
-- **Experience of heaven and hell**, and all points between — the "hell" being primarily the recognition and rejection of deceptions embedded in one's cosmological belief system through years of societal conditioning
+- **Experience of heaven and hell**, and all points between — the "hell" being primarily the recognition and rejection of deceptions embedded in one"s cosmological belief system through years of societal conditioning
 - **Confrontation with culturally embedded beliefs** that contradict one's naturally experienced indigenous spiritual nature
 - **Stripping away of belief systems** in conflict with the individual seeker's natural spiritual makeup
 

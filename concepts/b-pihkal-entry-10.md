@@ -19,7 +19,7 @@ activity.
 
 ## The Alkoxy Homologue Series
 
-B illustrates the chemical adage "there's ethyl and propyl, but
+B illustrates the chemical adage "there"s ethyl and propyl, but
 butyl is futile" as applied to the 4-position alkoxy homologues
 of mescaline. Shulgin notes that the 5-, 6-, and 7-carbon chain
 analogues would be:

@@ -32,7 +32,7 @@ Its melting point is approximately 148-150°C. The compound is relatively stable
 
 ## Pharmacology
 
-Kavain's primary mechanism involves modulation of voltage-gated sodium and calcium channels. It binds to these channels in a state-dependent manner, producing membrane-stabilizing effects that contribute to its anxiolytic profile.
+Kavain"s primary mechanism involves modulation of voltage-gated sodium and calcium channels. It binds to these channels in a state-dependent manner, producing membrane-stabilizing effects that contribute to its anxiolytic profile.
 
 The compound also enhances GABA-A receptor activity through a non-benzodiazepine binding site. This GABAergic potentiation occurs without the tolerance, dependence, or severe withdrawal associated with classical benzodiazepine anxiolytics.
 

@@ -14,7 +14,7 @@ that keeps plants alive — and how you can work with it.
 
 ## What Are Chemical Defenses and Why Do Plants Need Them?
 
-Plants are sessile — they can't run from herbivores, pathogens, or stress.
+Plants are sessile — they can"t run from herbivores, pathogens, or stress.
 Instead, they evolved **[[caffeine]] (coffee), solanine (nightshade leaves).
 - **Terpenes** — Volatile oils behind strong aromas. Mint, lavender, and
   rosemary produce terpenes that repel insects. Pyrethrins from chrysanthemums

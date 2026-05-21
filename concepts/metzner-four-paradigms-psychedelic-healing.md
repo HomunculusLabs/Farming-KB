@@ -19,7 +19,7 @@ in healing and the expansion of consciousness. Published in the
 *Journal of Psychoactive Drugs* (1998), this framework contrasts
 Western psychotherapy with indigenous shamanic practices, syncretic
 folk religious ceremonies, and hybrid therapeutic-shamanic rituals.
-Metzner's analysis reveals profound differences in worldview while
+Metzner"s analysis reveals profound differences in worldview while
 identifying common threads in humanity's relationship with
 consciousness-altering substances.
 
@@ -45,7 +45,7 @@ The fourth paradigm represents a blending of indigenous shamanic and
 Western psychotherapeutic approaches. These hybrid rituals incorporate
 features of both traditions and are of particular interest to
 practitioners seeking to bridge traditional knowledge with modern
-psychological understanding. Metzner's own work with the Green Earth
+psychological understanding. Metzner"s own work with the Green Earth
 Foundation reflects this integrative approach.
 
 ## Two Critical Differences in Worldview

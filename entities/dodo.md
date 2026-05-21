@@ -7,7 +7,7 @@ tags: [bird, extinction, island-ecology, biodiversity]
 
 ## Description
 
-The dodo (*Raphus cucullatus*) was a flightless bird endemic to the island of Mauritius in the Indian Ocean. It became extinct around 1662, less than 80 years after first being recorded by Dutch sailors. Mollison references the dodo alongside Darwin's finches as an example of unique island species that evolved in isolation — where empty niches allowed radical species differentiation — but were ultimately vulnerable due to lack of evolutionary pressure from predators or competitors.
+The dodo (*Raphus cucullatus*) was a flightless bird endemic to the island of Mauritius in the Indian Ocean. It became extinct around 1662, less than 80 years after first being recorded by Dutch sailors. Mollison references the dodo alongside Darwin"s finches as an example of unique island species that evolved in isolation — where empty niches allowed radical species differentiation — but were ultimately vulnerable due to lack of evolutionary pressure from predators or competitors.
 
 ## Classification
 
@@ -35,7 +35,7 @@ The dodo (*Raphus cucullatus*) was a flightless bird endemic to the island of Ma
 
 ## Relevance to Cultivation and Mycology
 
-- The dodo's story illustrates the vulnerability of isolated, specialized species — a principle that applies to cultivated fungal strains
+- The dodo"s story illustrates the vulnerability of isolated, specialized species — a principle that applies to cultivated fungal strains
 - Island biogeography lessons from dodo extinction inform biosecurity practices in [[permaculture]]: A Designers' Manual*, alongside Darwin's finches, as an example of how "only when many niches are empty is a species able to differentiate and survive without competition."
 
 ## Overview and Definition

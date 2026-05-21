@@ -20,7 +20,7 @@ The "fruiting cups" lesson is a cornerstone of elementary mycology education. St
 
 ### Entomopathogenic Fungi Awareness
 
-Even young students can learn about [[entomopathogenic-fungi]]—fungi that parasitize insects. The concept that certain fungi can colonize an insect's body, thread through its tissues, and even influence its behavior (effectively "steering" it like a remote control car) captivates students and introduces the idea that fungi play complex ecological roles beyond decomposition. This lesson connects to broader discussions about pest management and ecological balance.
+Even young students can learn about [[entomopathogenic-fungi]]—fungi that parasitize insects. The concept that certain fungi can colonize an insect"s body, thread through its tissues, and even influence its behavior (effectively "steering" it like a remote control car) captivates students and introduces the idea that fungi play complex ecological roles beyond decomposition. This lesson connects to broader discussions about pest management and ecological balance.
 
 ### Mushroom Prints and Art
 
@@ -86,7 +86,7 @@ The scientific community needs in-depth studies of plant-mycorrhizal relationshi
 
 ### Bacterial-Fungal Interactions
 
-Contact with bacteria can stimulate fungi to release metabolites that encourage or limit bacterial growth through fungal signaling pathways. Students create behavioral galleries—petri plates subplated with two or more species separated by space—to study interactions between bacteria and fungi, such as penicillin's effect on *Streptococcus* or *Staphylococcus*. Isolates produced by fungi in response to bacterial contact are analyzed for their specific functions and mechanisms, providing insight into natural antibiotic production.
+Contact with bacteria can stimulate fungi to release metabolites that encourage or limit bacterial growth through fungal signaling pathways. Students create behavioral galleries—petri plates subplated with two or more species separated by space—to study interactions between bacteria and fungi, such as penicillin"s effect on *Streptococcus* or *Staphylococcus*. Isolates produced by fungi in response to bacterial contact are analyzed for their specific functions and mechanisms, providing insight into natural antibiotic production.
 
 ### Screening Fungi for Mycoremediation
 

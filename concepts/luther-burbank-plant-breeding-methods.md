@@ -8,7 +8,7 @@ sources: [tompkins-secret-life-of-plants.md]
 type: concept
 ---
 
-## Luther Burbank's Plant Breeding [[fukuoka-american-agriculture-fields-of-death]].
+## Luther Burbank"s Plant Breeding [[fukuoka-american-agriculture-fields-of-death]].
 
 ## Overview
 
@@ -20,12 +20,12 @@ of envelopes. His art, he told De Vries, was "a matter of concentration
 and the rapid elimination of non-essentials." His laboratory? "I keep it
 in my head."
 
-Burbank's 1901 speech to the [[short-day-and-long-day-plant-classification]] of dried, shriveled plant mummies whose souls had fled. We
+Burbank"s 1901 speech to the [[short-day-and-long-day-plant-classification]] of dried, shriveled plant mummies whose souls had fled. We
 have learned that they are as plastic in our hands as clay in the hands of
 the potter." De Vries, accepting Burbank as a [[clay-seed-pellet-production-method-concrete-mixer]] was key: working with thousands of [[fukuoka-natural-farming-philosophy-road-back-to-nature]]
 
 Born in rural Massachusetts in 1849, Burbank was deeply influenced by
-Thoreau, Humboldt, Agassiz, and especially Darwin's The Variation of
+Thoreau, Humboldt, Agassiz, and especially Darwin"s The Variation of
 Animals and Plants Under Domestication. Darwin's theme that organisms
 vary when removed from natural conditions became Burbank's blueprint.
 
@@ -36,7 +36,7 @@ $150 and christened the "Burbank," it dominates the U.S. potato market
 to this day. Three days later, following his terse advice to "raise enough
 money to go to California," Burbank was on a cross-continental train.
 
-In Santa Rosa, Darwin's work on cross-fertilization struck Burbank as
+In Santa Rosa, Darwin"s work on cross-fertilization struck Burbank as
 "both a blueprint and a command." His first major feat came in 1882 when
 a banker asked for 20,000 prune trees in eight months, a feat everyone
 said was impossible. Burbank realized almonds, a member of the genus
@@ -47,7 +47,7 @@ production was one key to extracting secrets from nature.
 
 ## The Selection Instinct
 
-Burbank's pomological revolution produced new prunes and plums, the
+Burbank"s pomological revolution produced new prunes and plums, the
 Burbank July Elberta peach, a bush-type chestnut bearing in six months,
 a white blackberry, and quinces so superior most nurseries stocked no
 other. He could race through thousands of cross-pollinations while

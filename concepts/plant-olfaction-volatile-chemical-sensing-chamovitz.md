@@ -23,7 +23,7 @@ Ethylene (C₂H₄) is the most well-characterized volatile signal in plant biol
 
 ### The Banana Experiment
 
-One of the most illustrative demonstrations of plant ethylene detection involves the familiar kitchen observation that placing a ripe banana in a paper bag with an unripe avocado will cause the avocado to ripen. This everyday phenomenon is a direct demonstration of plant olfaction: the ripe banana produces ethylene gas, which diffuses through the air in the bag, is detected by receptor proteins in the avocado's cells, and triggers the avocado's ripening program. The avocado "smells" the ethylene and responds accordingly.
+One of the most illustrative demonstrations of plant ethylene detection involves the familiar kitchen observation that placing a ripe banana in a paper bag with an unripe avocado will cause the avocado to ripen. This everyday phenomenon is a direct demonstration of plant olfaction: the ripe banana produces ethylene gas, which diffuses through the air in the bag, is detected by receptor proteins in the avocado"s cells, and triggers the avocado's ripening program. The avocado "smells" the ethylene and responds accordingly.
 
 ### Ethylene Receptor Biology
 

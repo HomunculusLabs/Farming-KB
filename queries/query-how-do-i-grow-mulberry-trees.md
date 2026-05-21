@@ -56,7 +56,7 @@ Three species dominate cultivation, each with distinct strengths:
 - **Grafting** — Whip-and-tongue or cleft graft in late winter onto seedling rootstock. Used commercially to clone superior cultivars.
 - **Seed** — Stratify seeds in moist sand at 34–40°F for 60–90 days. Germination is erratic; fruit quality is variable — not recommended for named cultivars. Seed-grown trees may take 5–10 years to fruit.
 
-**Tip:** For home growers, hardwood cuttings are the clear winner — they're free, fast, and reliable.
+**Tip:** For home growers, hardwood cuttings are the clear winner — they"re free, fast, and reliable.
 
 ## How Do I Prune a Mulberry Tree?
 

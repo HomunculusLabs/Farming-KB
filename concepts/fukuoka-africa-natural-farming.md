@@ -11,7 +11,7 @@ sources:
 
 ## Overview
 
-Fukuoka's 1985 visit to Somalia at the invitation of the Japanese branch of the Voluntary Service for African Relief (JVC) provided firsthand experience of desertification in Africa and led to practical natural farming initiatives. The visit resulted in a United Nations project and sharpened Fukuoka's analysis of why Africa's deserts are expanding. The dream of revegetating the deserts and turning them into lands rich in food with natural farming began seven years earlier when he first flew in an airplane and was astounded to see the American deserts from the air.
+Fukuoka"s 1985 visit to Somalia at the invitation of the Japanese branch of the Voluntary Service for African Relief (JVC) provided firsthand experience of desertification in Africa and led to practical natural farming initiatives. The visit resulted in a United Nations project and sharpened Fukuoka's analysis of why Africa's deserts are expanding. The dream of revegetating the deserts and turning them into lands rich in food with natural farming began seven years earlier when he first flew in an airplane and was astounded to see the American deserts from the air.
 
 ## The Somalia Visit
 
@@ -25,7 +25,7 @@ A proposal he made was accepted at the United Nations, which started up a garden
 
 Fukuoka was especially happy to note that, wherever he looked from the air, he could see stream and river beds. In general, he noticed that there was at least one live spring within any field of view. What this meant was that, surprising as it seemed, there was a good deal of ground water even in the savanna.
 
-He later learned with surprise that two great rivers, each at least a thousand kilometers long, flow around and through a desert that purportedly has less than 300 millimeters of annual precipitation. What is more, the desert was right at the banks of these rivers. "This desert sand contains clay. If there is clay, then there is hope. I told the young people of Somalia, 'This earth is young. The land must be awakened from its slumber with natural farming.'"
+He later learned with surprise that two great rivers, each at least a thousand kilometers long, flow around and through a desert that purportedly has less than 300 millimeters of annual precipitation. What is more, the desert was right at the banks of these rivers. "This desert sand contains clay. If there is clay, then there is hope. I told the young people of Somalia, "This earth is young. The land must be awakened from its slumber with natural farming.'"
 
 ## Internal and External Causes of Desertification
 
@@ -49,7 +49,7 @@ Fukuoka identified both internal and external causes:
 
 ## The Refugee Diet
 
-In the region that Fukuoka visited, hundreds of thousands of refugees from Ethiopia were living in temporary huts. These could hardly qualify even as huts, appearing to be little more than bird's nests made of thorny branches propped up against one another. The refugees poked fun at themselves by calling their housing "covered with dried leaves or a single, battered rag."
+In the region that Fukuoka visited, hundreds of thousands of refugees from Ethiopia were living in temporary huts. These could hardly qualify even as huts, appearing to be little more than bird"s nests made of thorny branches propped up against one another. The refugees poked fun at themselves by calling their housing "covered with dried leaves or a single, battered rag."
 
 The food in the camps consisted entirely of wheat from the U.S., [[fukuoka-seed-ball-technique]] -- the method for aerial seed scattering
 - [[desertification]] -- the broader problem of desert expansion

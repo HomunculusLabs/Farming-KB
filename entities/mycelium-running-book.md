@@ -7,7 +7,7 @@ tags: [book, mycology, paul-stamets, cultivation, remediation]
 
 ## Description
 
-*Mycelium Running: How Mushrooms Can Help Save the World* is a landmark book by Paul Stamets published by Ten Speed Press in 2005. The book's sensational subtitle captures its thesis — that mycelial networks are essential components of Earth's ecosystems and that cooperating with them offers hope for human survival. It covers mycoforestry, mycofiltration, mycoremediation, and practical mushroom cultivation techniques for ecological restoration.
+*Mycelium Running: How Mushrooms Can Help Save the World* is a landmark book by Paul Stamets published by Ten Speed Press in 2005. The book"s sensational subtitle captures its thesis — that mycelial networks are essential components of Earth's ecosystems and that cooperating with them offers hope for human survival. It covers mycoforestry, mycofiltration, mycoremediation, and practical mushroom cultivation techniques for ecological restoration.
 
 ## Classification
 
@@ -26,8 +26,8 @@ tags: [book, mycology, paul-stamets, cultivation, remediation]
 - Stamets describes mycelium as "the grand demolecularizer of plant fibers (lignin and cellulose), creating soil as an end consequence."
 - Covers mycofiltration: using myceliated wood chips in roadside ditches to reduce erosion and silt flow.
 - Covers mycoremediation: using fungi to clean up environmental contamination.
-- Advocates using wood chips as "valuable ecological currency that should be reinvested into the forest's ecobank to enhance sustainability."
-- Referenced extensively in Ron Spinosa's "Fungi and Sustainability" article as foundational to understanding fungi's role in sustainability.
+- Advocates using wood chips as "valuable ecological currency that should be reinvested into the forest"s ecobank to enhance sustainability."
+- Referenced extensively in Ron Spinosa"s "Fungi and Sustainability" article as foundational to understanding fungi"s role in sustainability.
 
 ## Relevance to Cultivation and Mycology
 

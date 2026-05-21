@@ -26,7 +26,7 @@ Fukuoka provided a striking analysis of the land required to produce different t
 
 - Beef can feed 1 person
 
-The shift from grain-based to meat-based diets effectively reduces the earth's carrying capacity by a factor of sixty. This is not merely inefficient but catastrophic when applied to a growing global population.
+The shift from grain-based to meat-based diets effectively reduces the earth"s carrying capacity by a factor of sixty. This is not merely inefficient but catastrophic when applied to a growing global population.
 
 This analysis is central to Fukuoka's [[comparison-natural-farming-vs-permaculture]]," Fukuoka wrote. "Nature is the one that raises and grows. Man follows nature; all he needs to know is with what and in what manner cattle live."
 

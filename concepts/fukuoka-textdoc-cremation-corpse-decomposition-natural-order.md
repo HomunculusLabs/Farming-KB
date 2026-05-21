@@ -9,7 +9,7 @@ topics: [natural-farming, ecology, death, decomposition, microbiology]
 
 ## Overview
 
-In *The Natural Way of Farming*, [[fukuoka-illusions-scientific-farming-centrifugal-centripetal-model]]: the belief that human methods are superior to nature's own processes. Through a detailed meditation on microbial decomposition, Fukuoka reveals that nature's system for recycling organic matter is infinitely more sophisticated than any human-engineered alternative.
+In *The Natural Way of Farming*, [[fukuoka-illusions-scientific-farming-centrifugal-centripetal-model]]: the belief that human methods are superior to nature"s own processes. Through a detailed meditation on microbial decomposition, Fukuoka reveals that nature's system for recycling organic matter is infinitely more sophisticated than any human-engineered alternative.
 
 ## The Four Pallbearers and the Assembly Line of Decay
 
@@ -22,7 +22,7 @@ The stages of [[trichoderma]] fungi destroy pathogens and begin decomposing tiss
 7. **Anaerobic final stage** — parasitism and cannibalism among aerobic bacteria, gradual replacement by anaerobic bacteria
 8. **Lactic acid fermentat lactic acid bacteria bacteria complete the process, at which point all trace of the original material disappears
 
-Fukuoka notes that a person's "ultimate form may be that of a microbial cell" and that the last to offer incense to the departed soul are probably lactic acid bacteria — "a person vanishes as a sweet, acrid aroma through lactic fermentation."
+Fukuoka notes that a person"s "ultimate form may be that of a microbial cell" and that the last to offer incense to the departed soul are probably lactic acid bacteria — "a person vanishes as a sweet, acrid aroma through lactic fermentation."
 
 ## The Superiority of Natural Disposal Over Human Methods
 
@@ -36,21 +36,21 @@ Fukuoka challenges the assumption that cremation is fast, convenient, and hygien
 - Antipollution treatment of stack gases adds further environmental cost
 - **Simple burial or open burial** (leaving the corpse exposed to the elements) may seem primitive but are "the most sensible and complete ways to dispose of a corpse"
 
-### Industrial Waste Processing as Child's Play
+### Industrial Waste Processing as Child"s Play
 
 Fukuoka compares human refuse processing plants unfavorably to nature's methods:
 
-> "Designs for the most advanced refuse processing plants are child's play compared with the infinitely elaborate methods of treating garbage used by nature."
+> "Designs for the most advanced refuse processing plants are child"s play compared with the infinitely elaborate methods of treating garbage used by nature."
 
 He points out that human society struggles to treat kitchen garbage, while nature operates on a totally different scale. A single bacterium like *Escherichia coli* could, under ideal conditions of unchecked multiplication, leave a mass of progeny equivalent to the total mass of all living organisms on Earth within two to three days. This demonstrates both the reproductive power and the equally powerful destructive/disposal capacity that nature maintains in equilibrium.
 
 ## Microbial Scavenging and the Clean Earth
 
-Thanks to the microbes that dispose of the remains of animals and plants, "the earth's surface is always clean and beautiful." Fukuoka poses a thought experiment: if animal carcasses simply remained without decomposing, the world would become intolerable within a couple of days. The rapid and perfect decomposition carried out by nature is described as "no greater drama in our entire world."
+Thanks to the microbes that dispose of the remains of animals and plants, "the earth"s surface is always clean and beautiful." Fukuoka poses a thought experiment: if animal carcasses simply remained without decomposing, the world would become intolerable within a couple of days. The rapid and perfect decomposition carried out by nature is described as "no greater drama in our entire world."
 
 ### The Self-Governing Mechanism
 
-The central mystery Fukuoka identifies is nature's self-regulating mechanism:
+The central mystery Fukuoka identifies is nature"s self-regulating mechanism:
 
 > "What can the mechanism be by which all the organisms of the world propagate in just measure — becoming neither too numerous nor too scarce?"
 

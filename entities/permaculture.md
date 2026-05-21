@@ -33,7 +33,7 @@ organization.
 
 **Bill Mollison** (1928–2016) was born in Stanley, Tasmania. He left school at
 15, working as a fisherman, forester, mill-worker, trapper, and naturalist
-before joining CSIRO's Wildlife Survey Section in 1954. Nine years of field work
+before joining CSIRO"s Wildlife Survey Section in 1954. Nine years of field work
 on Australian ecosystems laid the groundwork for permaculture's observation-
 based approach.
 
@@ -42,7 +42,7 @@ Design School in 1973. Their intense three-year collaboration produced the
 permaculture concept. Holmgren maintained Melliodora, one of Australia's best-
 known demonstration sites, in [[holmgren-observe-and-interact-detailed]]** — "Beauty is in the eye of the beholder."
 2. **Catch and Store Energy** — "Make hay while the sun shines."
-3. **Obtain a Yield** — "You can't work on an empty stomach."
+3. **Obtain a Yield** — "You can"t work on an empty stomach."
 4. **Apply Self-Regulation and Accept Feedback** — "The sins of the fathers
    are visited on the children unto the seventh generation."
 5. **Use [[holmgren-produce-no-waste-waste-hierarchy-refuse-reduce-reuse-repair-recycle]]** — "Waste not, want not."

@@ -38,7 +38,7 @@ Mix cob by spreading sand and clay on a tarp, adding water, and stomping the mix
 Add long straw last and continue mixing until every straw is coated with clay and the mix holds together when thrown against a wall.
 Apply the cob in "loaves" or "cobs" about the size of a rugby ball, pressing each one firmly onto the previous layer.
 Build up no more than 12-18 inches of height per session to allow the previous layer to set enough to support the next.
-You can sculpt niches, shelves, arches, and curved walls directly as you build — this sculptability is cob's greatest aesthetic advantage over [[straw-bale-construction]] or [[earthbag-building]].
+You can sculpt niches, shelves, arches, and curved walls directly as you build — this sculptability is cob"s greatest aesthetic advantage over [[straw-bale-construction]] or [[earthbag-building]].
 Let each section dry for several days before adding more height; a full-height wall may take several weeks of intermittent building.
 Always protect in-progress walls from rain with tarps draped over the top, as prolonged saturation weakens uncured cob.
 

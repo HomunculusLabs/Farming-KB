@@ -25,7 +25,7 @@ viewer is not thinking; he is being thought.
 ## The Hidden Persuader and Fascist Potential
 
 Following the lead of media critics like Wilson Bryan Key and the
-tradition begun by Vance Packard's *The Hidden Persuaders*, McKenna
+tradition begun by Vance Packard"s *The Hidden Persuaders*, McKenna
 warned that television's true function is not entertainment or
 information but the engineering of consent. Advertising, news framing,
 and narrative conventions all operate below the threshold of conscious

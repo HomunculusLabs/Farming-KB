@@ -9,11 +9,11 @@ sources: [raw/papers/shulgin-a-pihkal.md]
 
 # Phenethylamine Synthesis Safety
 
-## Shulgin's Cautionary Framework
+## Shulgin"s Cautionary Framework
 
 PIHKAL includes explicit and repeated warnings about the dangers of unauthorized synthesis. Shulgin's cautionary note, appearing in the book, states: "No one who is lacking legal authorization should attempt the synthesis of any of the compounds described in these files, with the intent to give them to man. To do so is to risk legal action which might lead to the tragic ruination of a life."
 
-He further warned that self-experimentation without knowledge of a drug's action is "acting irresponsibly and immorally, whether or not he is doing so within the bounds of the law."
+He further warned that self-experimentation without knowledge of a drug"s action is "acting irresponsibly and immorally, whether or not he is doing so within the bounds of the law."
 
 ## Chemical Hazards in Phenethylamine Synthesis
 
@@ -62,7 +62,7 @@ Based on the procedures described in PIHKAL, a properly equipped laboratory woul
 
 ## Legal Framework
 
-The legal status of phenethylamine synthesis has evolved significantly since PIHKAL's publication:
+The legal status of phenethylamine synthesis has evolved significantly since PIHKAL"s publication:
 
 - Many PIHKAL compounds are now Schedule I in the United States and internationally
 - The Federal Analog Act in the US can apply to unscheduled compounds that are "substantially similar" to scheduled substances

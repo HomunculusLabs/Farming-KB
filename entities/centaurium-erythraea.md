@@ -45,7 +45,7 @@ Centaurium erythraea has been introduced to [[dighton-fungal-responses-climate-c
 
 ## Bioactive Compounds
 
-The primary bioactive constituents of Centaurium erythraea are secoiridoid glycosides, particularly swertiamarin, gentiopicroside, and sweroside. These bitter-tasting compounds are responsible for the plant's characteristic bitter flavor.
+The primary bioactive constituents of Centaurium erythraea are secoiridoid glycosides, particularly swertiamarin, gentiopicroside, and sweroside. These bitter-tasting compounds are responsible for the plant"s characteristic bitter flavor.
 
 Swertiamarin is the dominant secoiridoid glycoside, typically comprising 1 to 3 percent of the [[apigenin]], [[query-how-to-read-cannabis-trichomes-for-the-perfect-harvest-time]] is during full flowering, when secoiridoid glycoside content reaches its peak.
 

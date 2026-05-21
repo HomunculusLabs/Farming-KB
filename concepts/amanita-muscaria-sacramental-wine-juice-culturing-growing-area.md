@@ -9,7 +9,7 @@ type: concept
 ## The Sacramental Wine Concept
 
 The sacramental wine of the [[amanita-muscaria]] tradition is a unique beverage —
-alcohol-free, sulfite-free, and alive with the mushroom's mycelium. Unlike
+alcohol-free, sulfite-free, and alive with the mushroom"s mycelium. Unlike
 conventional wine produced through yeast fermentation, this sacramental wine is
 created by culturing **Amanita muscaria mycelium directly in pasteurized fruit
 juice**. The mushroom organism grows throughout the juice, extracting nutrients

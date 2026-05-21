@@ -20,7 +20,7 @@ growths emitting their own radiations.
 Abrams asked his houseboy Ivor to step onto the lecture platform, strip
 to the waist, and face west. As he tapped the boy above the navel, a
 student held a specimen of cancerous tissue in light contact with
-Ivor's forehead. The class was amazed to hear the resonant note change
+Ivor"s forehead. The class was amazed to hear the resonant note change
 to dullness each time the specimen was placed on the forehead. When a
 tuberculous specimen was substituted, the same effect appeared at a
 different abdominal location.
@@ -49,7 +49,7 @@ He then placed the malarial material in the container together with
 quinine wrapped in tissue paper. The percussion which had indicated
 malaria gave a resonant sound. Abrams suggested that radiations from
 quinine molecules exactly canceled those from malarial molecules, that
-quinine's effect was due to "an unsuspected electrical law." Mercury
+quinine"s effect was due to "an unsuspected electrical law." Mercury
 against syphilis behaved similarly.
 
 ## The Oscilloclast

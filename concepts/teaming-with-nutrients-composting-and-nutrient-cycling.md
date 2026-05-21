@@ -31,7 +31,7 @@ Earthworm castings concentrate nutrients dramatically compared to source soil: 1
 The soil food web is the engine of nutrient cycling. Bacteria and fungi break down organic matter; protozoa and nematodes consume bacteria, releasing plant-available ammonium; mycorrhizal fungi deliver phosphorus, copper, zinc, and nitrogen to roots; and all contribute to soil structure through their physical activities and metabolic byproducts. This interconnected web of life is why [[teaming-with-nutrients-organic-fertilizer-types-and-sources]]
 - [[growing-beans-peas-legume-guide]]
 
-The interplay between these cycles -- nitrogen fixation, phosphorus weathering, potassium release, and organic matter decomposition -- creates a dynamic system that healthy soils maintain in balance. The gardener's role is to feed this system through organic inputs and minimize exports.
+The interplay between these cycles -- nitrogen fixation, phosphorus weathering, potassium release, and organic matter decomposition -- creates a dynamic system that healthy soils maintain in balance. The gardener"s role is to feed this system through organic inputs and minimize exports.
 
 ## Compost Tea and Biological Inoculants
 

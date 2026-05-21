@@ -11,7 +11,7 @@ sources: [raw/papers/shulgin-a-pihkal.md]
 
 ## Overview
 
-Across the 179 compounds documented in PIHKAL Book II, Shulgin's qualitative comments reveal recurring themes in the subjective experience of phenethylamines. While each compound has its unique character, common patterns emerge that reflect the underlying pharmacology and the shared phenethylamine structure.
+Across the 179 compounds documented in PIHKAL Book II, Shulgin"s qualitative comments reveal recurring themes in the subjective experience of phenethylamines. While each compound has its unique character, common patterns emerge that reflect the underlying pharmacology and the shared phenethylamine structure.
 
 ## Visual Effects
 

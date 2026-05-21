@@ -39,7 +39,7 @@ a parallel experience with Amanita specimens in 1870s Boston: merely smelling
 Amanitas in a closed box on his desk produced vomiting and stomach oppression
 three hours later, with livid eye discoloration lasting through the following day.
 
-The similarity between Palmer's Amanita experience and Guzmán's Psilocybe
+The similarity between Palmer"s Amanita experience and Guzmán's Psilocybe
 experience—both involving passive exposure to fungal volatiles in enclosed
 spaces—suggests that fungal alkaloid volatility may be a general phenomenon across
 multiple genera, not limited to the psilocybin-containing species.

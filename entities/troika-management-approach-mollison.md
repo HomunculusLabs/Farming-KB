@@ -8,7 +8,7 @@ type: entity
 
 ## Description
 
-The Troika Management Approach is a decentralised organisational governance model described by [[bill-mollison]] in *Permaculture: A Designers' Manual*, Chapter 14.10, as a practical alternative to conventional board-based, consensus-based, or hierarchical decision-making. Named after the Russian word for a three-horse sleigh team where no single horse dominates, the approach assigns each area of activity to a small autonomous team of one to three people who manage independently without group meetings, votes, or consensus processes. The system eliminates the time-wasting, frustrating, and divisive dynamics of large-group decision-making that Mollison identified as the primary cause of community failure.
+The Troika Management Approach is a decentralised organisational governance model described by [[bill-mollison]] in *Permaculture: A Designers" Manual*, Chapter 14.10, as a practical alternative to conventional board-based, consensus-based, or hierarchical decision-making. Named after the Russian word for a three-horse sleigh team where no single horse dominates, the approach assigns each area of activity to a small autonomous team of one to three people who manage independently without group meetings, votes, or consensus processes. The system eliminates the time-wasting, frustrating, and divisive dynamics of large-group decision-making that Mollison identified as the primary cause of community failure.
 
 ## Classification
 

@@ -42,7 +42,7 @@ The soil food web converts organic matter and rock minerals into plant-available
 ### The Predator-Prey Engine (Ingham)
 
 1. **Bacteria and fungi** decompose organic matter, immobilizing N, P, S in biomass (C:N bacteria ~5:1, fungi ~15:1)
-2. **Protozoa** eat 10,000+ bacteria/day — excrete excess N as ammonium (NH₄⁺) since their C:N (~10:1) exceeds bacteria's. Fastest cycling pathway.
+2. **Protozoa** eat 10,000+ bacteria/day — excrete excess N as ammonium (NH₄⁺) since their C:N (~10:1) exceeds bacteria"s. Fastest cycling pathway.
 3. **Bacterial-feeding nematodes** graze bacteria, release N through larger soil volumes
 4. **Fungal-feeding nematodes** release N, P from fungal biomass — critical in fungal-dominated soils
 5. **Predatory nematodes** eat other nematodes (including root-feeders) — top-down biocontrol (need 2+ species)

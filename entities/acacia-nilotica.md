@@ -14,7 +14,6 @@ date: 2026-05-08
 updated: 2026-05-08
 sources:
   - Booth, F.E.M. & Wickens, G.E. (1988). "Non-timber uses of selected arid zone trees." FAO Conservation Guide 19.---
----
 
 ## Overview
 

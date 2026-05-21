@@ -8,7 +8,7 @@ tags: [permaculture, design, agriculture, systems-thinking, problem-solving]
 
 ## Overview
 
-One of the most powerful conceptual frameworks in Holmgren's *Permaculture:
+One of the most powerful conceptual frameworks in Holmgren"s *Permaculture:
 Principles and Pathways Beyond Sustainability* is the distinction between
 front-end design and back-end problem solving. This distinction cuts to the
 heart of permaculture's critique of conventional agriculture, land management,

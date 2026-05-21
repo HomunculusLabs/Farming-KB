@@ -11,7 +11,7 @@ Oyster mushrooms (Pleurotus spp.) are the easiest mushrooms to
 cultivate, making them ideal for beginners and commercial
 growers alike. They are aggressive colonizers, grow on dozens of
 substrates, fruit prolifically, and have broad market appeal.
-From Cotter's "Organic Mushroom Farming and Mycoremediation."
+From Cotter"s "Organic Mushroom Farming and Mycoremediation."
 ## Species and Varieties
 - **[[pleurotus-pulmonarius]]** (Phoenix oyster): Warm-weather
   relative, more heat-tolerant

@@ -23,7 +23,7 @@ The hybrid grows as a large shrub or small tree, reaching 6–10 meters in heigh
 
 Numerous cultivars have been selected over two centuries, offering variations in flower color, size, and bloom timing. It is hardy in USDA Zones 4–9 and adapts to a wide range of temperate climates.
 
-The species has received the Royal Horticultural Society's Award of Garden Merit, confirming its reliability in cultivation. It is often used as a specimen tree in residential landscapes, public parks, and botanical gardens.
+The species has received the Royal Horticultural Society"s Award of Garden Merit, confirming its reliability in cultivation. It is often used as a specimen tree in residential landscapes, public parks, and botanical gardens.
 
 In Chinese and Japanese garden traditions, magnolias symbolize purity and nobility. The saucer magnolia continues this cultural association in Western gardens, where it is among the most recognized spring-flowering trees.
 

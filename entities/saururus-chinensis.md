@@ -14,7 +14,7 @@ sources:
 
 ## Overview
 
-**Saururus chinensis** is a perennial herbaceous plant in the family Saururaceae, native to East and [[saururus-cernuus]], the American lizard's tail, but can be distinguished by its larger size, white bracts subtending the inflorescence, and more robust growth habit.
+**Saururus chinensis** is a perennial herbaceous plant in the family Saururaceae, native to East and [[saururus-cernuus]], the American lizard"s tail, but can be distinguished by its larger size, white bracts subtending the inflorescence, and more robust growth habit.
 
 Saururus chinensis typically grows 30 to 80 centimeters tall in its native habitat. It produces erect stems from a creeping rhizome system that forms dense colonies in wetland areas.
 

@@ -11,7 +11,7 @@ created: 2026-05-08
 
 [[psilocybin]], and other tryptamines, as well as on the reports of indigenous shamans and independent Western researchers.
 
-The hypercontinuum is perhaps McKenna's most radical ontological claim: that there exist dimensions of reality accessible through chemistry that are as real and as informationally rich as the physical world.
+The hypercontinuum is perhaps McKenna"s most radical ontological claim: that there exist dimensions of reality accessible through chemistry that are as real and as informationally rich as the physical world.
 
 The invisible landscape is not a single place but a continuum—a range of spaces accessible through different doses, [[lsd-set-and-setting-framework]] configurations, and types of tryptamine compound.
 
@@ -69,7 +69,7 @@ The implication is that the universe contains vastly more information than is ac
 
 ## The Invisible Landscape Metaphor
 
-McKenna's phrase "the invisible landscape" captures the paradox of the hypercontinuum: it is present and real but invisible to ordinary modes of perception.
+McKenna"s phrase "the invisible landscape" captures the paradox of the hypercontinuum: it is present and real but invisible to ordinary modes of perception.
 
 The metaphor draws on the physics analogy of electromagnetic radiation: just as there are wavelengths of light invisible to the human eye but detectable by instruments, there may be dimensions of reality invisible to ordinary consciousness but accessible through chemistry.
 

@@ -23,7 +23,7 @@ This means the practical threshold for [[coleman-fall-bed-preparation-early-outd
 - **Clear or black plastic mulch** in the field to trap solar heat
 - **Exposure of bare earth** to direct sun, which naturally raises soil temperature
 
-A simple thermometer inserted 2.5 cm (1 inch) into the soil is sufficient to measure soil temperature, or a dedicated soil thermometer can be purchased. For specific crops, reference tabulations such as those found in Maynard and Lorenz (*Knott's Handbook for Vegetable Growers*, 1980, Wiley, N.Y.) provide precise germination temperature ranges.
+A simple thermometer inserted 2.5 cm (1 inch) into the soil is sufficient to measure soil temperature, or a dedicated soil thermometer can be purchased. For specific crops, reference tabulations such as those found in Maynard and Lorenz (*Knott"s Handbook for Vegetable Growers*, 1980, Wiley, N.Y.) provide precise germination temperature ranges.
 
 ## Light and Germination
 

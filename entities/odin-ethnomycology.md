@@ -7,7 +7,7 @@ tags: [deity, norse-mythology, ethnomycology, mushroom-symbolism, shamanism]
 
 ## Description
 
-Odin (Old Norse: Óðinn), also known as Wotan in Continental Germanic tradition, is the Allfather of the Norse pantheon — god of wisdom, poetry, death, divination, magic, and the runic alphabet. In ethnomycological analysis, Odin embodies the shamanic archetype of the spiritual seeker who gains transcendent knowledge, and his mythology encodes numerous parallels to [[allegro-amanita-muscaria-properties-and-pharmacology]] mushrooms to grow at those exact points. This is another variant of the lightning-mushroom creation myth (shared with Thor's hammer), encoding the ecological observation that mushrooms appear after storms.
+Odin (Old Norse: Óðinn), also known as Wotan in Continental Germanic tradition, is the Allfather of the Norse pantheon — god of wisdom, poetry, death, divination, magic, and the runic alphabet. In ethnomycological analysis, Odin embodies the shamanic archetype of the spiritual seeker who gains transcendent knowledge, and his mythology encodes numerous parallels to [[allegro-amanita-muscaria-properties-and-pharmacology]] mushrooms to grow at those exact points. This is another variant of the lightning-mushroom creation myth (shared with Thor"s hammer), encoding the ecological observation that mushrooms appear after storms.
 
 ### The World Tree (Yggdrasil)
 

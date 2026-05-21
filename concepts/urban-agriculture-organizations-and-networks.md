@@ -14,7 +14,7 @@ The global urban agriculture movement has spawned a vast network of organization
 
 **City Farmer** (Vancouver, BC, Canada) — Office of Urban Agriculture, produces publications on urban home [[composting]] (rodent-resistant bins), gardening with disabilities, school garden guidelines for teaching children about nutrition, and maintains a color urban gardens poster.
 
-**American Community Gardening Association (ACGA)** — Based in Philadelphia, ACGA's Community Greening Review publication connects volunteers and professionals who "promote gardening and greening in urban, suburban, and rural America."
+**American Community Gardening Association (ACGA)** — Based in Philadelphia, ACGA"s Community Greening Review publication connects volunteers and professionals who "promote gardening and greening in urban, suburban, and rural America."
 
 **Urban Harvest** (Houston, TX) — Occupies the former Dow School building, focused on "building healthy communities through gardens."
 
@@ -62,7 +62,7 @@ The global urban agriculture movement has spawned a vast network of organization
 
 **Arboricultural Association** — Publishes the *Arboricultural Journal* and *Journal of Urban Forestry*.
 
-**Henry George Foundation** (London) — Promotes land value taxation philosophy as a solution to land allocation challenges, maintaining a library and publishing research on the application of Henry George's economics to contemporary problems.
+**Henry George Foundation** (London) — Promotes land value taxation philosophy as a solution to land allocation challenges, maintaining a library and publishing research on the application of Henry George"s economics to contemporary problems.
 
 **[[permaculture-community-design]] Action — Worknet** (Ontario, Canada) — A selective listing of permaculture-related organizations.
 

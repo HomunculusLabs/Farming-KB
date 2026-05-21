@@ -8,7 +8,7 @@ type: entity
 
 ## Description
 
-Calcium phosphate is a critical bionutrient in [[yasushi-inoue]], calcium phosphate is the essential nutrient that must be supplied during this critical transition period to ensure high-quality flower and fruit production. Natural farmers refer to the changeover period as the plant's "morning sickness," where additional nutrition is urgently needed.
+Calcium phosphate is a critical bionutrient in [[yasushi-inoue]], calcium phosphate is the essential nutrient that must be supplied during this critical transition period to ensure high-quality flower and fruit production. Natural farmers refer to the changeover period as the plant"s "morning sickness," where additional nutrition is urgently needed.
 
 ## Classification
 

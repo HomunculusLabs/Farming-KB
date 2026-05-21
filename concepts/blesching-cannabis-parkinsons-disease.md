@@ -1,5 +1,5 @@
 ---
-title: Cannabis and Parkinson's Disease
+title: Cannabis and Parkinson"s Disease
 created: 2026-04-26
 tags: [cannabis, parkinsons, neurodegenerative, cbd, endocannabinoid]
 date: 2026-04-25

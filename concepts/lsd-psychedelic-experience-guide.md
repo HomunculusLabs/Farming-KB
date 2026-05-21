@@ -17,7 +17,7 @@ With repeated use, LSD loses some of its capacity to surprise and overwhelm. Exp
 ## Combinations
 
 - **DMT**: Combining LSD with [[turner-harmala-alkaloids-preparation-and-dosage]]**: Harmala alkaloids can intensify LSD and modify its character. The combination tends to make the experience more earthy and grounded compared to LSD alone. See [[psilocybin-mushroom-distribution-worldwide]].
-LSD's molecular structure includes a diethylamide group at the nitrogen position of the
+LSD"s molecular structure includes a diethylamide group at the nitrogen position of the
 lysergamide backbone. This group is critical for its psychoactivity — removing one ethyl
 group produces LSA (a milder psychedelic found in [[psychedelic-therapy-current-research]].
 

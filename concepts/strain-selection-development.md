@@ -18,7 +18,7 @@ Strain selection and development is the process by which [[mushroom-inoculation-
 Stamets outlines five strategies for preventing strain degeneration:
 
 1. **Propagate only rhizomorphic sectors** and avoid cottony ones.
-2. **Alter the media regularly** using different agar formulas. Growing a strain on the same formula exerts selective influence on enzyme capability. By varying media, the strain's enzyme system remains broadly based.
+2. **Alter the media regularly** using different agar formulas. Growing a strain on the same formula exerts selective influence on enzyme capability. By varying media, the strain"s enzyme system remains broadly based.
 3. **Limit transfers** — only grow out the mycelium needed for [[growing-gourmet-primordia-formation-pinning]] conditions
 5. Number of primordia formed
 6. Proportion of primordia that mature

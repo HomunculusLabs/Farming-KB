@@ -10,15 +10,15 @@ tags: [plants, shamanism]
 
 ## Cross-Cultural Patterns in Shamanic Plant Use
 
-The culminating section of Harner's volume (Part IV: "[[harner-american-indian-peyote-rituals]] yage (ayahuasca/Banisteriopsis) experiences across numerous tribes spanning from the Choco of western Colombia to the Tacana of eastern Bolivia, and identifies five recurring patterns:
+The culminating section of Harner"s volume (Part IV: "[[harner-american-indian-peyote-rituals]] yage (ayahuasca/Banisteriopsis) experiences across numerous tribes spanning from the Choco of western Colombia to the Tacana of eastern Bolivia, and identifies five recurring patterns:
 
 ### 1. The Soul Separates and Makes a Trip, Often with the Sensation of Flight
 
-This is the most consistently reported experience across all Banisteriopsis-using cultures. The Jivaro literally call it a "trip." The Conibo-Shipibo describe the soul leaving as a bird; the Tukano feel a violent wind pulling them along the Milky Way; the Siona shaman goes to heaven and returns; the Campa sick person thinks he is flying through the air; Villavicencio's Zaparo informants experienced "a sensation of being lifted into the air and beginning an aerial journey."
+This is the most consistently reported experience across all Banisteriopsis-using cultures. The Jivaro literally call it a "trip." The Conibo-Shipibo describe the soul leaving as a bird; the Tukano feel a violent wind pulling them along the Milky Way; the Siona shaman goes to heaven and returns; the Campa sick person thinks he is flying through the air; Villavicencio"s Zaparo informants experienced "a sensation of being lifted into the air and beginning an aerial journey."
 
 ### 2. Visions of Snakes and Jaguars
 
-The most commonly reported apparitions are poisonous snakes (especially anacondas) and jaguars or other large felines. This pattern is documented across virtually every Banisteriopsis-using group: Jivaro (pairs of giant anacondas and jaguars), Amahuaca (jaguar spirit teaching apprentices), Tukano/Desana (nightmare of jaguars' jaws, snakes coiling around extremities), Siona (novices see serpents, tigers), Piro (great boa constrictor), Ikito (jaguars and great serpents), Yekuana (shamans mimic jaguar roars), and Tacana (jaguars and serpents of supernaturally great size).
+The most commonly reported apparitions are poisonous snakes (especially anacondas) and jaguars or other large felines. This pattern is documented across virtually every Banisteriopsis-using group: Jivaro (pairs of giant anacondas and jaguars), Amahuaca (jaguar spirit teaching apprentices), Tukano/Desana (nightmare of jaguars" jaws, snakes coiling around extremities), Siona (novices see serpents, tigers), Piro (great boa constrictor), Ikito (jaguars and great serpents), Yekuana (shamans mimic jaguar roars), and Tacana (jaguars and serpents of supernaturally great size).
 
 ### 3. Contact with Demons and/or Deities
 
@@ -26,7 +26,7 @@ A sense of firsthand contact with the supernatural becomes "almost routine" with
 
 ### 4. Clairvoyance of Distant Places
 
-Shamans and laypersons report seeing distant persons, unfamiliar villages, towns, and "cities of the whites" whose reality is unquestioned. The Conibo-Shipibo travel underground in supernatural boats to see "cities of the demons" said to be underground but visible "because the sunlight passes through the earth." Roessner reports Ucayali Indians proposing "Let's see cities!" during group sessions, subsequently asking white men about "those strange things (aparatos) which run so swiftly along the street"--they had seen automobiles they were not acquainted with.
+Shamans and laypersons report seeing distant persons, unfamiliar villages, towns, and "cities of the whites" whose reality is unquestioned. The Conibo-Shipibo travel underground in supernatural boats to see "cities of the demons" said to be underground but visible "because the sunlight passes through the earth." Roessner reports Ucayali Indians proposing "Let"s see cities!" during group sessions, subsequently asking white men about "those strange things (aparatos) which run so swiftly along the street"--they had seen automobiles they were not acquainted with.
 
 ### 5. Divination of Crimes and Witchcraft
 
@@ -34,7 +34,7 @@ The sensation of seeing the enactment of recent unsolved crimes--homicide, theft
 
 ### Additional Common Experiences
 
-Other regularly reported experiences include auditory hallucinations, visions of geometric designs, auras, one's own death, combats between demons or zoomorphic forms, very bright colors, and the constant changing of shapes as scenes dissolve into one another. Both Jivaro and Conibo-Shipibo Indians who had seen motion pictures told Harner that the ayahuasca experiences were comparable to viewing films.
+Other regularly reported experiences include auditory hallucinations, visions of geometric designs, auras, one"s own death, combats between demons or zoomorphic forms, very bright colors, and the constant changing of shapes as scenes dissolve into one another. Both Jivaro and Conibo-Shipibo Indians who had seen motion pictures told Harner that the ayahuasca experiences were comparable to viewing films.
 
 ## Naranjo's Cross-Cultural Verification
 
@@ -54,13 +54,13 @@ Harner offers two speculative explanations for the cross-cultural convergence on
 
 1. **Psychoanalytic**: Predatory animals may represent "oral aggressive phenomena brought to consciousness in some individuals as aggression under the influence of the drug."
 
-2. **Evolutionary**: Given that "the chief predators on man's small primate ancestors included large felines, crocodiles, serpents, and birds of prey," there may exist "genetically-based fear cues or images which have been biochemically stimulated by the yage alkaloids and which might once have had a positive adaptive value in terms of natural selection."
+2. **Evolutionary**: Given that "the chief predators on man"s small primate ancestors included large felines, crocodiles, serpents, and birds of prey," there may exist "genetically-based fear cues or images which have been biochemically stimulated by the yage alkaloids and which might once have had a positive adaptive value in terms of natural selection."
 
 Harner acknowledges that "serious consideration of any explanatory hypotheses must await the collection of better data derived from rigorous comparative, experimental, and cross-cultural research."
 
 ## The European Witchcraft Parallel
 
-The volume's argument is strengthened by the inclusion of European data. Harner's chapter on witchcraft demonstrates that identical experiences--soul flight, contact with supernatural beings, metamorphosis into animals--were produced by completely different plant families (solanaceous rather than beta-carboline/tryptamine) on a different continent. If the same experiential patterns emerge from unrelated plants in unrelated cultures, the case for a biological substrate is strengthened.
+The volume"s argument is strengthened by the inclusion of European data. Harner's chapter on witchcraft demonstrates that identical experiences--soul flight, contact with supernatural beings, metamorphosis into animals--were produced by completely different plant families (solanaceous rather than beta-carboline/tryptamine) on a different continent. If the same experiential patterns emerge from unrelated plants in unrelated cultures, the case for a biological substrate is strengthened.
 
 ## The Independent Reinvention of the "Trip"
 

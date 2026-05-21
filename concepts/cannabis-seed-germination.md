@@ -60,7 +60,7 @@ Pre-soaking seeds before germination:
 2. Seeds that float initially may sink after a few hours — viable seeds usually sink
 3. Soak for 12-24 hours maximum; prolonged soaking can drown the seed
 4. Remove seeds that have cracked open and plant immediately
-5. Seeds that haven't cracked after 24 hours can be moved to the paper towel method
+5. Seeds that haven"t cracked after 24 hours can be moved to the paper towel method
 
 ### Starter Cubes
 

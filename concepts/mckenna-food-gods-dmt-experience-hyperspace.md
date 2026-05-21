@@ -24,7 +24,7 @@ The hallucinogenic indoles, unstudied and legally suppressed, are here presented
 
 Increased [[leary-psychedelic-experience-bardo-mapping]] does not simply hold out the possibility of a world of sane people living in balance with the earth and one another. It also promises high adventure, engagement with something completely unexpected — a nearby alien universe teeming with life and beauty.
 
-"Don't ask where; at the present moment we can only say, not here and not there. We have still to admit our ignorance concerning the nature of mind and how precisely the world comes to be and what it is. For more than several millennia our dream has been to understand these matters, and we are defeated. Defeated unless we remember the other possibility — the possibility of the wholly Other."
+"Don"t ask where; at the present moment we can only say, not here and not there. We have still to admit our ignorance concerning the nature of mind and how precisely the world comes to be and what it is. For more than several millennia our dream has been to understand these matters, and we are defeated. Defeated unless we remember the other possibility — the possibility of the wholly Other."
 
 Some misguided souls scan the heavens for friendly flying saucers that will intervene in profane history and carry us to paradise; others preach redemption at the feet of various rishis, roshis, geysheys, and gurus. Searchers are better advised to look to the work of the botanists, anthropologists, and chemists who have located, identified, and characterized the shamanic hallucinogens.
 

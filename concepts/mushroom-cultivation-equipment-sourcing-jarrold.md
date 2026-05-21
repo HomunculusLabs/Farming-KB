@@ -13,7 +13,7 @@ created: 2026-05-09
 The Jarrold boil-a-bag [[boil-a-bag-mushroom-cultivation-method]] requires a specific set of
 [[antimicrobial-compounds-mushroom-mycelium]] growth
 and fruiting. This page catalogs the complete equipment list with sourcing
-information and practical notes from D.H. Jarrold's guide.
+information and practical notes from D.H. Jarrold"s guide.
 
 ## Primary Containers: Boil-a-Bags
 

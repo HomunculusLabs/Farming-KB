@@ -26,7 +26,7 @@ Natem is prepared by boiling fragments of the ayahuasca vine (Banisteriopsis caa
 Natem occupies a central role in virtually every aspect of Jivaro shamanic practice:
 
 - **Supernatural perception:** Shamans drink natem to perceive the "true" supernatural reality that is invisible in ordinary consciousness
-- **Tsentsak revelation:** Under natem's influence, magical darts (tsentsak) reveal their true nature as spirit helpers — giant butterflies, jaguars, monkeys, and other zoomorphic forms with distinct names
+- **Tsentsak revelation:** Under natem"s influence, magical darts (tsentsak) reveal their true nature as spirit helpers — giant butterflies, jaguars, monkeys, and other zoomorphic forms with distinct names
 - **Medical diagnosis:** Curing shamans use natem to "see into the body of the patient as though it were glass," identifying intruding objects with clarity sufficient to determine whether the sickness can be cured
 - **Bewitching:** Bewitching shamans drink natem before secretly approaching victims to launch magical darts
 - **Spiritual combat:** Shamans use natem to perceive and battle enemy spirit helpers (pasuk, wakani birds) sent by bewitchers
@@ -48,7 +48,7 @@ Natem is often combined with green tobacco juice and piripiri extract in shamani
 
 ## Pharmacological Significance
 
-The brew's psychoactivity results from the interaction between beta-carboline MAO inhibitors (harmine, harmaline) from the Banisteriopsis vine and N,N-dimethyltryptamine (DMT) from admixture plants such as [[psychotria-viridis]]. The beta-carbolines render DMT orally active by inhibiting its breakdown by monoamine oxidase enzymes in the gut.
+The brew"s psychoactivity results from the interaction between beta-carboline MAO inhibitors (harmine, harmaline) from the Banisteriopsis vine and N,N-dimethyltryptamine (DMT) from admixture plants such as [[psychotria-viridis]]. The beta-carbolines render DMT orally active by inhibiting its breakdown by monoamine oxidase enzymes in the gut.
 
 ## Relevance to Cultivation and Mycology
 

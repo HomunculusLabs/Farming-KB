@@ -17,9 +17,9 @@ fourth-dimensionally, coded as light and as evolving surfaces."
 ## Etymology and Philosophical Background
 
 ### Entelechy in Aristotle and Leibniz
-The term "entelechy" derives from Aristotle's philosophy (Greek: entelecheia,
+The term "entelechy" derives from Aristotle"s philosophy (Greek: entelecheia,
 from enteles, "complete, full"). In Aristotelian metaphysics, entelechy refers
-to the condition in which a thing's potentiality has been fully actualized—it
+to the condition in which a thing"s potentiality has been fully actualized—it
 is the realization of potential, the "being-at-an-end" of a process. For
 Aristotle, the soul (psyche) of a living being is its entelechy: the organizing
 principle that causes the body to develop, maintain itself, and function as the
@@ -27,19 +27,19 @@ kind of thing it is. Leibniz later adopted the term to describe the monad—the
 fundamental, irreducible unit of reality that contains within itself the
 principle of its own activity and development.
 
-### McKenna's "Radio" Modification
+### McKenna"s "Radio" Modification
 By adding "radio" to "entelechy," McKenna transforms the Aristotelian-Leibnizian
 concept into something specifically modern and technological. A radio is a
 device that receives and transmits electromagnetic signals—it is an interface
 between invisible fields of information and the audible world. If the entelechy
-is the soul's organizing principle, then the "radio entelechy" is the soul
+is the soul"s organizing principle, then the "radio entelechy" is the soul
 conceived as a transceiver: something that receives signals from dimensions
 beyond the body and transmits information back. The "ripping" is the moment when
 the transceiver is violently retuned from the frequency of ordinary reality to
 the frequency of the tryptamine dimension.
 
 ### The Organic Matrix
-The "organic matrix" in McKenna's formulation refers to the biological body—the
+The "organic matrix" in McKenna"s formulation refers to the biological body—the
 physical substrate of human existence composed of carbon-based molecules,
 cellular structures, and neural networks. The metaphor implies that
 consciousness (the radio entelechy) is in some sense embedded within or

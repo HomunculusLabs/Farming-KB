@@ -14,7 +14,7 @@ After the seven peaceful deities of the Second Bardo, the Tibetan [[bardo-thodol
 
 The wrathful visions are preceded by Vision 7, "The Magic Theatre" — the final peaceful vision. The Magic Theatre presents the voyager with a panoply of mythical superhuman figures: demons, goddesses, celestial warriors, giants, angels, Bodhisattvas, dwarfs, crusaders, elves, devils, saints, sorcerers, the Wise Old Man, the Divine Child, the Trickster, the Shapeshifter, the tamer of monsters, the mother of gods, the witch, the moon king, and the wanderer. These represent the highest reaches of human knowledge manifested as archetypal forms.
 
-The danger at this stage is that the voyager becomes frightened by or unduly attracted to these powerful figures. The forces they represent may be more intense than the voyager was prepared for. Inability or unwillingness to recognize them as products of one's own mind leads to escape into animalistic pursuits — involvement in power, lust, wealth, and descent into Third Bardo rebirth struggles.
+The danger at this stage is that the voyager becomes frightened by or unduly attracted to these powerful figures. The forces they represent may be more intense than the voyager was prepared for. Inability or unwillingness to recognize them as products of one"s own mind leads to escape into animalistic pursuits — involvement in power, lust, wealth, and descent into Third Bardo rebirth struggles.
 
 ## The Nature of Wrathful Visions
 
@@ -24,11 +24,11 @@ The wrathful deities are described as "blood-drinking," angry, or "terrifying." 
 This cross-cultural adaptation is significant: the Tibetans understood that the outer form of the wrathful visions is culturally determined, while their psychological function remains constant. Where Tibetans saw demons and beasts of prey, a mid-20th-century Westerner might see the dehumanizing machinery of technological civilization.
 
 ### Peaceful and Wrathful as Two Aspects of Enlightenment
-Lama Govinda's interpretation, quoted in the manual, provides the key insight:
+Lama Govinda"s interpretation, quoted in the manual, provides the key insight:
 
-> "The peaceful forms of Dhyani-Buddhas represent the highest ideal of Buddhahood in its completed, final, static condition of ultimate attainment or perfection, seen retrospectively as it were, as a state of complete rest and harmony. The Herukas, on the other hand, which are described as 'blood-drinking,' angry or 'terrifying' deities — are merely the **dynamic aspect of enlightenment**, the process of becoming a Buddha, of attaining illumination."
+> "The peaceful forms of Dhyani-Buddhas represent the highest ideal of Buddhahood in its completed, final, static condition of ultimate attainment or perfection, seen retrospectively as it were, as a state of complete rest and harmony. The Herukas, on the other hand, which are described as "blood-drinking,' angry or 'terrifying' deities — are merely the **dynamic aspect of enlightenment**, the process of becoming a Buddha, of attaining illumination."
 
-The wrathful deities symbolize "the act of breaking through towards the unthinkable, the intellectually 'Unattainable.'" They represent the leap over the chasm between intellectual surface consciousness and intuitive supra-personal depth-consciousness.
+The wrathful deities symbolize "the act of breaking through towards the unthinkable, the intellectually "Unattainable.'" They represent the leap over the chasm between intellectual surface consciousness and intuitive supra-personal depth-consciousness.
 
 ### Chakra Assignment
 The Tibetans assign the wrathful visions primarily to the **Brain chakra** (intellectual center), in contrast to the peaceful deities (Heart chakra) and the Knowledge-Holding deities (Throat chakra). This is crucial: the wrathful visions are regarded as primarily **intellectual products** — the reactions of the mind to the process of consciousness-expansion.
@@ -52,7 +52,7 @@ The manual makes a striking observation about psychologists, philosophers, and p
 "Those who believe in these doctrines — even though they may seem to be unrefined, irregular in performance of duties, inelegant in habits, and perhaps even unable to practice the doctrine successfully — let no one doubt them or be disrespectful towards them, but pay reverence to their mystic faith. That alone will enable them to attain liberation. Elegance and efficiency of devotional practice are not necessary — just acquaintance with and trust in these teachings."
 
 ### Well-Prepared Persons
-"Well-prepared persons need not experience Second Bardo hell visions at all. Right from the beginning they can pass into paradisiacal states led by heroes, heroines, angels and super-spirits. 'They will merge into rainbow radiance; there will be sun-showers, sweet scent of incense in the air, music in the skies, radiances.'"
+"Well-prepared persons need not experience Second Bardo hell visions at all. Right from the beginning they can pass into paradisiacal states led by heroes, heroines, angels and super-spirits. "They will merge into rainbow radiance; there will be sun-showers, sweet scent of incense in the air, music in the skies, radiances.'"
 
 ## Liberation Through Hearing
 
@@ -85,7 +85,7 @@ The wrathful visions framework offers several important psychological insights:
 
 1. **The intellect as the final barrier**: The assignment of wrathful visions to the Brain chakra suggests that intellectual conceptualization is the last defense of the ego against transcendence. Rational analysis, categorization, and the attempt to "figure out" the experience all become forms of resistance.
 
-2. **Cultural shaping of terror**: The observation that Westerners experience technological nightmares rather than mythological demons reveals that the content of psychedelic terror reflects the dominant anxieties of one's culture and era.
+2. **Cultural shaping of terror**: The observation that Westerners experience technological nightmares rather than mythological demons reveals that the content of psychedelic terror reflects the dominant anxieties of one"s culture and era.
 
 3. **Fear as the enemy of liberation**: The consistent teaching is that fear — not the visions themselves — is what traps consciousness. The visions are neutral; it is the emotional reaction of terror that creates suffering and prevents recognition.
 

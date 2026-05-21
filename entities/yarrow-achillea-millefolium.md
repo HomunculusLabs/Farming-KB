@@ -1,5 +1,5 @@
 ---
-title: 'Yarrow (Achillea millefolium)'
+title: "Yarrow (Achillea millefolium)'
 type: species
 tags:
   - herbal-plant
@@ -28,7 +28,7 @@ Yarrow is native to temperate regions of Europe, Asia (particularly Siberia and 
 
 ### Greek and European Tradition
 
-According to the Iliad, Achilles used yarrow to staunch the wounds of his soldiers during the Trojan War, giving rise to its scientific name and the folk name "soldier's woundwort." In medieval Europe, yarrow was one of the most important herbs in the Anglo-Saxon herbal tradition and was included in the "Nine Herbs Charm." It was commonly used to stop bleeding from cuts and nosebleeds, reduce fever, and treat gastrointestinal complaints. Nicholas Culpeper recommended it for piles, kidney stones, and menstrual irregularities.
+According to the Iliad, Achilles used yarrow to staunch the wounds of his soldiers during the Trojan War, giving rise to its scientific name and the folk name "soldier"s woundwort." In medieval Europe, yarrow was one of the most important herbs in the Anglo-Saxon herbal tradition and was included in the "Nine Herbs Charm." It was commonly used to stop bleeding from cuts and nosebleeds, reduce fever, and treat gastrointestinal complaints. Nicholas Culpeper recommended it for piles, kidney stones, and menstrual irregularities.
 
 ### Chinese Medicine
 

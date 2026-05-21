@@ -1,7 +1,7 @@
 ---
 title: "Salvia Divinorum and Salvinorin a"
 ---
-subtitle: "The ethnobotany, pharmacology, and cultural history of diviner's sage"
+subtitle: "The ethnobotany, pharmacology, and cultural history of diviner"s sage"
 tags: [salvia, salvinorin, ethnobotany, psychedelics, mazatec, pharmacology]
 date: 2026-04-28
 updated: 2026-04-28

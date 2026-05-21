@@ -9,7 +9,7 @@ tags: [mythology, deity, mesoamerica, aztec, toltec, mushroom-cult, oaxaca, feat
 
 ## Description
 
-Quetzalcoatl (Nahuatl: "Feathered Serpent") is a major deity of Mesoamerican mythology, worshiped by the Aztec, Toltec, and other Nahua peoples of central Mexico. One of the most important and complex figures in the Mesoamerican pantheon, Quetzalcoatl is associated with wind, the morning star (Venus), creation, learning, writing, and fertility. In the context of Harner's *Hallucinogens and Shamanism*, Quetzalcoatl is referenced in Henry Munn's essay "The Mushrooms of Language" as a figure whose legend was syncretically transformed by the Mazatec Indians of Oaxaca into a Christianized origin myth for their sacred hallucinogenic mushrooms. According to Munn, the Mazatecs say that Christ once walked through their mountains — "a transformation of the legend of Quetzalcoatl" — and where his blood fell, the holy mushrooms grew.
+Quetzalcoatl (Nahuatl: "Feathered Serpent") is a major deity of Mesoamerican mythology, worshiped by the Aztec, Toltec, and other Nahua peoples of central Mexico. One of the most important and complex figures in the Mesoamerican pantheon, Quetzalcoatl is associated with wind, the morning star (Venus), creation, learning, writing, and fertility. In the context of Harner"s *Hallucinogens and Shamanism*, Quetzalcoatl is referenced in Henry Munn's essay "The Mushrooms of Language" as a figure whose legend was syncretically transformed by the Mazatec Indians of Oaxaca into a Christianized origin myth for their sacred hallucinogenic mushrooms. According to Munn, the Mazatecs say that Christ once walked through their mountains — "a transformation of the legend of Quetzalcoatl" — and where his blood fell, the holy mushrooms grew.
 
 ## Classification
 
@@ -25,7 +25,7 @@ Quetzalcoatl (Nahuatl: "Feathered Serpent") is a major deity of Mesoamerican myt
 The earliest representations of a feathered serpent deity appear at Teotihuacan in the Valley of Mexico, most notably on the Temple of the Feathered Serpent (Temple of the Plumed Serpent), constructed c. 150–200 CE. The deity was already associated with creation, fertility, and political authority at this early date.
 
 ### Classic Period (200–900 CE)
-The feathered serpent motif spread throughout Mesoamerica during the Classic period, appearing in Maya art as *Kukulkan* (Yucatec Maya) and *Q'uq'umatz* (K'iche' Maya). The deity was adopted and adapted by multiple cultures, maintaining core associations with wind, rain, and creative power.
+The feathered serpent motif spread throughout Mesoamerica during the Classic period, appearing in Maya art as *Kukulkan* (Yucatec Maya) and *Q"uq'umatz* (K'iche' Maya). The deity was adopted and adapted by multiple cultures, maintaining core associations with wind, rain, and creative power.
 
 ### Post-Classic Period (900–1521 CE)
 The historical figure of Topiltzin Quetzalcoatl — a Toltec ruler-priest at Tula (Tollan), probably ruling in the 10th century CE — became conflated with the deity. According to legend, Topiltzin Quetzalcoatl was driven from Tula by the rival deity Tezcatlipoca and journeyed eastward, either to return across the sea or to immolate himself and become the morning star (Venus). This narrative of exile and promised return played a fateful role during the Spanish Conquest, as some Aztec interpretations initially identified Hernán Cortés with the returning Quetzalcoatl.
@@ -35,7 +35,7 @@ The historical figure of Topiltzin Quetzalcoatl — a Toltec ruler-priest at Tul
 In the Mazatec syncretic mythology documented by Henry Munn, the Quetzalcoatl legend has been merged with Christian imagery through the process of religious syncretism that followed the Spanish Conquest:
 
 - **Christ replaces/merges with Quetzalcoatl**: The Mazatecs say that "Christ once walked" through their mountains in the Sierra Mazateca — described by Munn as "a transformation of the legend of Quetzalcoatl."
-- **Blood origin of the mushrooms**: From where Christ's blood dropped onto the earth, the sacred psilocybin mushrooms grew — "the awakeners of the spirit, the food of the luminous one."
+- **Blood origin of the mushrooms**: From where Christ"s blood dropped onto the earth, the sacred psilocybin mushrooms grew — "the awakeners of the spirit, the food of the luminous one."
 - **Eucharistic parallel**: The mushrooms are called "the Blood of Christ" and "the Flesh of God," paralleling the Catholic Eucharist while being rooted in pre-Columbian mushroom veneration. The Mazatecs do not call them "mushrooms" in sacred contexts — they call them "prayer," "well-being," "wisdom," "the holy ones."
 - **Goddess of Birth**: The patroness of the mushroom experience is the Virgin of the Nativity — the Goddess of Birth, the Goddess of Creation — who may have pre-Columbian antecedents in fertility deities associated with Quetzalcoatl.
 

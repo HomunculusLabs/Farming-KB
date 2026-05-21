@@ -11,7 +11,7 @@ type: concept
 Among the [[jivaro]] peoples of the upper Amazon, shamanic curing is the primary means
 of treating illness. Disease is understood not in biomedical terms but as the result
 of hostile sorcery — specifically, the injection of a supernatural projectile
-(*[[tsentsak]]*, or "darts") into the victim's body by an enemy shaman. The curer's task
+(*[[tsentsak]]*, or "darts") into the victim"s body by an enemy shaman. The curer's task
 is to extract this invisible intruding object and restore the patient to health, all
 while navigating extraordinary personal danger.
 
@@ -32,7 +32,7 @@ Before beginning the actual extraction, the shaman undergoes rigorous preparatio
    the [[ayahuasca]] vine. Natem serves as what Harner calls "the chemical door to
    the otherwise invisible world of the Jivaro shaman."
 2. **Drinking tobacco juice** — a powerful emetic and purgative that also
-   activates the shaman's supernatural defenses.
+   activates the shaman"s supernatural defenses.
 3. **Drinking piripiri** — a cultivated sedge (*Cyperus articulatus*) believed
    to confer specific magical powers.
 4. **Whistling the curing song tune** — establishing the sacred sonic framework
@@ -59,7 +59,7 @@ profession carries such profound weight in Jivaro society.
 After capturing the intruding dart, the shaman "vomits" the caught tsentsak out
 of his mouth, displaying it to the patient and family as **proof** of the cure.
 Laypeople believe the material object shown is the actual projectile extracted
-from the patient's body. In reality, the shaman is displaying his own tsentsak
+from the patient"s body. In reality, the shaman is displaying his own tsentsak
 that caught the supernatural essence — but the distinction is lost on the
 non-shamanic audience.
 
@@ -96,13 +96,13 @@ wakani bird, destroying the source of the affliction.
 
 After extraction, the shaman performs thorough cleansing: **blowing all over the
 house** to remove the lingering supernatural "atmosphere," and **sucking out
-remaining "dirtiness"** (*pahuri*) from the patient's body and surroundings. This
+remaining "dirtiness"** (*pahuri*) from the patient"s body and surroundings. This
 residual contamination, if untreated, could cause further illness.
 
 ## Identifying the Bewitcher
 
 A critical social dimension is the shaman's ability to **"see" who bewitched the
-patient** under natem. The family demands to know the sorcerer's identity, and
+patient** under natem. The family demands to know the sorcerer"s identity, and
 considerable pressure is placed on the shaman to name someone, as the family
 needs a target for outrage and potential retaliation. The identification can have
 serious political consequences within the community.
@@ -128,7 +128,7 @@ adversaries — thins his protective armor and increases vulnerability.
 To replenish his supply, a shaman may create a supernatural **rainbow "bridge"**
 extending to another shaman. Along this bridge he shoots a tsentsak to **surprise
 the target**, and in the moment of confusion, sucks back a quantity of the
-target's darts. This aggressive technique blurs the line between healer and
+target"s darts. This aggressive technique blurs the line between healer and
 bewitcher.
 
 ## Loss of Tsentsak and Illness

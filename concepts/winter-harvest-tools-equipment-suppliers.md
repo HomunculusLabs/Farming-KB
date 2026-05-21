@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-Successful winter harvesting requires specialized tools for planting, cultivating, harvesting, and protecting crops in cold weather. [[eliot-coleman]]'s operation relies on a carefully selected set of hand tools and equipment, each chosen for efficiency in the intensive, small-scale farming environment. This page catalogs the essential tools and their suppliers.
+Successful winter harvesting requires specialized tools for planting, cultivating, harvesting, and protecting crops in cold weather. [[eliot-coleman]]"s operation relies on a carefully selected set of hand tools and equipment, each chosen for efficiency in the intensive, small-scale farming environment. This page catalogs the essential tools and their suppliers.
 
 ## Essential Hand Tools
 
@@ -70,7 +70,7 @@ The 45-inch-long, 4,000-pound-rated ground anchors used to secure mobile greenho
 
 ## Quick-Hoop Equipment
 
-A conduit bender designed specifically for bending metal conduit (EMT) into quick-hoop shapes was in development at the time of Coleman's writing. Quick hoops are a low-cost alternative to full greenhouses, consisting of metal conduit bent into hoops and covered with row cover fabric or plastic.
+A conduit bender designed specifically for bending metal conduit (EMT) into quick-hoop shapes was in development at the time of Coleman"s writing. Quick hoops are a low-cost alternative to full greenhouses, consisting of metal conduit bent into hoops and covered with row cover fabric or plastic.
 
 ## Key Supplier Summary
 

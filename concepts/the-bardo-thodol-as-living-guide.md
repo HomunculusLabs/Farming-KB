@@ -6,7 +6,7 @@ type: concept
 
 ## Overview
 
-A central thesis of Leary's *The [[leary-psychedelic-experience-bardo-mapping]]* is that the *[[bardo-thodol]]* ([[jung-and-the-tibetan-book-of-the-dead]] the Dead) has been fundamentally mischaracterized by Western scholarship. Rather than a funerary text for the dead, it is a practical manual for the living — a guide to consciousness expansion, ego transcendence, and spiritual liberation. This reinterpretation, drawing heavily on [[lama-anagarika-govinda]]'s commentary, reframes the entire text as an ancient technology of consciousness that finds its modern counterpart in psychedelic experience.
+A central thesis of Leary"s *The [[leary-psychedelic-experience-bardo-mapping]]* is that the *[[bardo-thodol]]* ([[jung-and-the-tibetan-book-of-the-dead]] the Dead) has been fundamentally mischaracterized by Western scholarship. Rather than a funerary text for the dead, it is a practical manual for the living — a guide to consciousness expansion, ego transcendence, and spiritual liberation. This reinterpretation, drawing heavily on [[lama-anagarika-govinda]]'s commentary, reframes the entire text as an ancient technology of consciousness that finds its modern counterpart in psychedelic experience.
 
 ## The Exoteric Facade: Death as Metaphor
 
@@ -25,7 +25,7 @@ This is framed not as metaphor but as a neurological reality — the potential t
 [[lama-govinda]] explains that the dead or dying person is addressed in the *Bardo Thodol* for three specific reasons:
 
 1. **Memento mori practice**: The earnest practitioner should regard every moment of life as if it were the last — maintaining continuous awareness of impermanence
-2. **Deathbed reminder**: When a follower is actually dying, they should be reminded of the experiences at the time of initiation, or of the words (mantra) of the guru, especially if the dying one's mind lacks alertness during critical moments
+2. **Deathbed reminder**: When a follower is actually dying, they should be reminded of the experiences at the time of initiation, or of the words (mantra) of the guru, especially if the dying one"s mind lacks alertness during critical moments
 3. **Support for the living**: Those still incarnate should surround the dying person with "loving and helpful thoughts" during the first stages of the after-death state, without allowing emotional attachment to interfere or give rise to morbid mental depression
 
 The text further notes that the *Bardo Thodol* may serve primarily "to help those who have been left behind to adopt the right attitude towards the dead and towards the fact of death" — a function as much psychotherapeutic for the bereaved as instructional for the departing.
@@ -57,7 +57,7 @@ This reciprocity — manual without experience is empty, experience without manu
 
 The text places psychedelic suppression in a long [[ghouled-field-guide-historical-context]]: "every middle-eastern and European administrator (with the exception of certain periods in Greece and Persia) has, during the last three thousand years, rushed to pass laws against any emerging transcendental process, the pre-mortum-death-rebirth session, its adepts, and any new method of consciousness-expansion."
 
-Western psychiatry's classification of the ego-loss experience as schizophrenia and its pronouncement of [[psychedelic-substances-comparison]] as "psychosis-producing and dangerous" is framed as the latest iteration of this pattern. The attitude — "if you can't label it, and if it is beyond current notions of space-time and personality, then it is not open for investigation" — is identified as the fundamental obstacle.
+Western psychiatry"s classification of the ego-loss experience as schizophrenia and its pronouncement of [[psychedelic-substances-comparison]] as "psychosis-producing and dangerous" is framed as the latest iteration of this pattern. The attitude — "if you can"t label it, and if it is beyond current notions of space-time and personality, then it is not open for investigation" — is identified as the fundamental obstacle.
 
 ## The Seal of Secrecy and Its Breaking
 
@@ -67,7 +67,7 @@ The lama articulates the yogic framework: practitioners "are able to bring the s
 
 ## The Danger of Unprepared Opening
 
-The text contains an important warning about unprepared access to expanded consciousness: "If, through some trick of nature, the gates of an individual's subconsciousness were suddenly to spring open, the unprepared mind would be overwhelmed and crushed." This is why "the gates of the subconscious are guarded, by all initiates, and hidden behind the veil of mysteries and symbols."
+The text contains an important warning about unprepared access to expanded consciousness: "If, through some trick of nature, the gates of an individual"s subconsciousness were suddenly to spring open, the unprepared mind would be overwhelmed and crushed." This is why "the gates of the subconscious are guarded, by all initiates, and hidden behind the veil of mysteries and symbols."
 
 This principle justifies both the elaborate preparation described in the manual and the careful, gradual approach to consciousness expansion that the text advocates. It also explains why institutional antagonism to psychedelics, while misguided in its specific conclusions, reflects a genuine intuitive recognition of the disruptive power of unprepared ego-loss.
 
@@ -76,7 +76,7 @@ This principle justifies both the elaborate preparation described in the manual 
 The reinterpretation of the *Bardo Thodol* as a living guide has several practical implications:
 
 1. **Preparation is essential**: The text must be studied before the experience, not merely read during it
-2. **The guide's role is critical**: An experienced person who can read the instructions without imposing personal games is necessary, especially for novices
+2. **The guide"s role is critical**: An experienced person who can read the instructions without imposing personal games is necessary, especially for novices
 3. **Setting matters**: The text repeatedly emphasizes the importance of surroundings, companions, and emotional climate
 4. **Integration is the goal**: The purpose is not the experience itself but making "the consciousness-expansion experience endure in subsequent daily life"
 5. **The experience is repeatable**: Unlike physical death, ego-loss in the psychedelic context is temporary and can be revisited with increasing mastery

@@ -8,7 +8,7 @@ type: entity
 
 Smut fungi are a group of pathogenic basidiomycete fungi that primarily infect the flowers and reproductive structures of cereal grains and other grasses. They are among the most economically significant plant pathogens worldwide, causing substantial crop losses in wheat, barley, oats, corn, and other cereals. The name "smut" refers to the dark, sooty masses of teliospores that these fungi produce in place of normal grain kernels, giving infected plants a charred or burned appearance.
 
-In *[[teaming-with-microbes-actinomycetes]]*, Lowenfels and Lewis mention smut fungi as an example of the many pathogenic fungi that impact agricultural and horticultural crops. While the book's primary focus is on beneficial soil fungi and [[the-soil-food-web]], smut fungi serve as a reminder that not all fungi are beneficial — pathogenic species represent a significant counterbalance to the decomposers and symbionts that gardeners seek to encourage.
+In *[[teaming-with-microbes-actinomycetes]]*, Lowenfels and Lewis mention smut fungi as an example of the many pathogenic fungi that impact agricultural and horticultural crops. While the book"s primary focus is on beneficial soil fungi and [[the-soil-food-web]], smut fungi serve as a reminder that not all fungi are beneficial — pathogenic species represent a significant counterbalance to the decomposers and symbionts that gardeners seek to encourage.
 
 ## Taxonomy
 

@@ -20,7 +20,7 @@ The species is one of the most distinctive Echeveria, recognized by its powdery 
 
 Despite its popularity in cultivation, Echeveria lilacina is relatively slow-growing compared to other Echeveria species. This slow growth, combined with its dramatic appearance, contributes to its premium pricing in the horticultural trade.
 
-The species has received the Royal Horticultural Society's Award of Garden Merit in the United Kingdom. This recognition confirms its reliability as a garden plant in suitable climates.
+The species has received the Royal Horticultural Society"s Award of Garden Merit in the United Kingdom. This recognition confirms its reliability as a garden plant in suitable climates.
 
 In the Japanese succulent market, Echeveria lilacina is known as "Gosuto Ekubeeria" (Ghost Echeveria) and commands premium prices for specimens with dense, unblemished farina. Japanese breeders have produced several selected forms with enhanced coloration.
 

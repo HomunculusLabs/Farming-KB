@@ -13,7 +13,7 @@ type: concept
 ## Introduction
 
 The concept of entheogens as epistemological tools forms the central
-thesis of Simon G. Powell's "The [[metzner-entheogenic-terminology-psychedelic-hallucinogenic-entheogenic|psychedelic]] state often brings a
+thesis of Simon G. Powell"s "The [[metzner-entheogenic-terminology-psychedelic-hallucinogenic-entheogenic|psychedelic]] state often brings a
    holistic, gestalt perception of reality that contrasts with the
    piecemeal analytical approach of conventional science.
 

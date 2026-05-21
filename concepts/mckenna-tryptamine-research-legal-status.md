@@ -1,5 +1,5 @@
 ---
-title: "mckenna-baconian-exploration-tryptamine-research-methodology and Legal Status - McKenna's Analysis"
+title: "mckenna-baconian-exploration-tryptamine-research-methodology and Legal Status - McKenna"s Analysis"
 created: 2026-04-26
 updated: "2026-04-24"
 sources:
@@ -10,7 +10,7 @@ tags: [tryptamine]
 
 ## Tryptamine Research and Legal Status
 
-McKenna addresses the scientific, cultural, and legal barriers to tryptamine research in "[[mckenna-archaic-revival-four-part-structure-paradise-paradise-lost-hell-regained]], 1992). His analysis situates the suppression of tryptamine research within a broader pattern of what he calls Western civilization's alienation from shamanic knowledge and non-ordinary states of consciousness. The essay was delivered at the Lilly/Goswami Conference on Consciousness and Quantum Physics at Esalen Institute, placing McKenna's [[mckenna-quantum-mechanical-correlates-hallucinogenesis]] discussions of consciousness.
+McKenna addresses the scientific, cultural, and legal barriers to tryptamine research in "[[mckenna-archaic-revival-four-part-structure-paradise-paradise-lost-hell-regained]], 1992). His analysis situates the suppression of tryptamine research within a broader pattern of what he calls Western civilization"s alienation from shamanic knowledge and non-ordinary states of consciousness. The essay was delivered at the Lilly/Goswami Conference on Consciousness and Quantum Physics at Esalen Institute, placing McKenna's [[mckenna-quantum-mechanical-correlates-hallucinogenesis]] discussions of consciousness.
 
 ## Legal Conflation of Distinct Compounds
 

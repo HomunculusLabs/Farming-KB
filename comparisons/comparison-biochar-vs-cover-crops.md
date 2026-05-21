@@ -3,7 +3,7 @@ title: "cover-crops"
 tags: [comparison, soil-amendments, soil-health, regenerative-agriculture]
 date: 2026-04-25
 updated: 2026-04-25
-sources: ['raw/papers/unknown-biodiversity-fungi-soil-fungal-communities|biodiversity-of-fungi.md']
+sources: ["raw/papers/unknown-biodiversity-fungi-soil-fungal-communities|biodiversity-of-fungi.md']
 ---
 
 ## Biochar vs cover crop quick references

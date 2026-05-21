@@ -10,7 +10,7 @@ Water is the driving force of all nature. In any organism, 99 molecules in 100 a
 
 ## The Global Water Crisis
 
-Very little of the world's total water reserves are available for human needs. Many areas — particularly drylands, over-developed cities, and regions surrounded by polluting industry — face absolute shortages of usable water. By the mid-1980s, water prices in many cities equaled or exceeded those of refined petroleum. Water is now transported by sea on a global scale as a commodity.
+Very little of the world"s total water reserves are available for human needs. Many areas — particularly drylands, over-developed cities, and regions surrounded by polluting industry — face absolute shortages of usable water. By the mid-1980s, water prices in many cities equaled or exceeded those of refined petroleum. Water is now transported by sea on a global scale as a commodity.
 
 The primary selection factor when choosing cropland should always be an adequate, well-distributed, and reliable rainfall of at least 80 cm (31 inches) per year. Equally important is the ability of the land to hold water in dams with clay or clay-loam storages. All other factors — soil type, market potential, access, and forested areas — are secondary to water availability.
 

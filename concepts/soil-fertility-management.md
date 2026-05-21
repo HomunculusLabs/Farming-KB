@@ -21,11 +21,11 @@ sources:
 
 # Soil Fertility Management
 
-[[steve-solomon]]'s "[[gardening-when-it-counts]]" provides a comprehensive framework for managing soil fertility, especially for low-input homestead gardeners who cannot afford or choose not to use synthetic fertilizers. The core thesis: you must understand the actual mineral needs of your crops and provide them systematically from organic or mineral sources.
+[[steve-solomon]]"s "[[gardening-when-it-counts]]" provides a comprehensive framework for managing soil fertility, especially for low-input homestead gardeners who cannot afford or choose not to use synthetic fertilizers. The core thesis: you must understand the actual mineral needs of your crops and provide them systematically from organic or mineral sources.
 
 ## The Complete Organic Fertilizer (COF)
 
-Solomon's signature contribution is a balanced, custom organic fertilizer recipe designed to provide complete NPK plus essential trace minerals. It is far more effective than applying single-nutrient amendments like manure or compost alone.
+Solomon"s signature contribution is a balanced, custom organic fertilizer recipe designed to provide complete NPK plus essential trace minerals. It is far more effective than applying single-nutrient amendments like manure or compost alone.
 
 ### Standard COF Recipe (for initial ground preparation)
 

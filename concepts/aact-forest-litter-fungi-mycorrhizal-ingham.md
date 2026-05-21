@@ -11,7 +11,7 @@ created: 2026-05-09
 
 ## Overview
 
-Forest soils contain complex fungal communities that can serve as inoculum sources for compost tea and soil restoration projects. Dr. Elaine Ingham's field guide addresses the use of forest litter fungi, mycorrhizal fungi, and actinobacteria in compost tea systems, providing guidance on when and how to incorporate these organisms into AACT programs.
+Forest soils contain complex fungal communities that can serve as inoculum sources for compost tea and soil restoration projects. Dr. Elaine Ingham"s field guide addresses the use of forest litter fungi, mycorrhizal fungi, and actinobacteria in compost tea systems, providing guidance on when and how to incorporate these organisms into AACT programs.
 
 ## The "O" Horizon — Forest Litter Layer
 

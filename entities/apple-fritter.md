@@ -14,7 +14,6 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Weedmaps. "Apple Fritter: Strain Review." Weedmaps.com, 2025.---
----
 
 ## Apple Fritter
 

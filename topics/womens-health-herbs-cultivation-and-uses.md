@@ -1,5 +1,5 @@
 ---
-title: Women's Health Herbs — Cultivation and Uses
+title: Women"s Health Herbs — Cultivation and Uses
 created: 2026-05-19
 updated: 2026-05-19
 type: topic
@@ -28,7 +28,7 @@ Native American healers used black cohosh for menstrual and menopausal complaint
 
 The term "emmenagogue" describes herbs that stimulate menstrual blood flow. This category is recognized across Western herbalism, TCM, and Ayurveda alike.
 
-European folk traditions relied on raspberry leaf, yarrow, and motherwort for women's reproductive care. These traditions were passed through generations of midwives and herbalists.
+European folk traditions relied on raspberry leaf, yarrow, and motherwort for women"s reproductive care. These traditions were passed through generations of midwives and herbalists.
 
 The suppression of herbal medicine during the rise of pharmaceuticals in the twentieth century disrupted much of this knowledge. A revival since the 1970s has brought many traditional herbs back into mainstream awareness.
 

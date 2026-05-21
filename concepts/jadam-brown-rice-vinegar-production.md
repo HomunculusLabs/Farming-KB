@@ -14,7 +14,7 @@ tags: [jadam, vinegar]
 Brown rice vinegar (BRV) is a prominent input in Cho Glossary where it serves as a solvent for extracting
 plant nutrients and as a pest control agent. JADAM, while sharing
 Korean origins with KNF, takes a fundamentally different position on
-vinegar use in agriculture. This page documents JADAM's critique and
+vinegar use in agriculture. This page documents JADAM"s critique and
 its alternative approaches.
 
 ## The Zero-Input Contradiction

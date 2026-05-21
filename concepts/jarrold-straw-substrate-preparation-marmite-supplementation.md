@@ -23,7 +23,7 @@ source:
 - **High carbon content**: The cellulose and hemicellulose in straw [[straw-substrate-yeast-extract-enrichment-jarrold]] allows good air penetration, essential for mycelial respiration
 - **Selective pasteurisation**: Boiling straw kills most competitors while leaving heat-tolerant beneficial organisms
 
-Oyster mushrooms are particularly well-suited to straw substrates because they are aggressive colonisers that can outcompete residual contaminants on properly pasteurised straw. Other species like lion's mane (Hericium erinaceus) and shiitake (Lentinula edodes) may require more nutrient-rich or woody substrates.
+Oyster mushrooms are particularly well-suited to straw substrates because they are aggressive colonisers that can outcompete residual contaminants on properly pasteurised straw. Other species like lion"s mane (Hericium erinaceus) and shiitake (Lentinula edodes) may require more nutrient-rich or woody substrates.
 
 ## Straw Preparation Steps
 

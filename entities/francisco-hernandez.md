@@ -6,7 +6,7 @@ type: entity
 
 ## Overview
 
-Dr. Francisco Hernández (1514–1587) was a Spanish physician and naturalist who served as the personal physician to King Philip II of Spain. In 1651 (published posthumously from earlier fieldwork), he reported on three types of psychoactive mushrooms worshipped by Mexican natives, providing one of the earliest European documentations of [[teonanacatl]]. His detailed descriptions of the mushrooms' effects constitute invaluable evidence that the Aztec mushroom cult was a real and significant practice, not merely a Spanish misinterpretation of other substances.
+Dr. Francisco Hernández (1514–1587) was a Spanish physician and naturalist who served as the personal physician to King Philip II of Spain. In 1651 (published posthumously from earlier fieldwork), he reported on three types of psychoactive mushrooms worshipped by Mexican natives, providing one of the earliest European documentations of [[teonanacatl]]. His detailed descriptions of the mushrooms" effects constitute invaluable evidence that the Aztec mushroom cult was a real and significant practice, not merely a Spanish misinterpretation of other substances.
 
 ## Classification
 
@@ -29,7 +29,7 @@ Hernández's report, based on his fieldwork studying Central American Indian [[h
 
 ### Significance of the Report
 
-Hernández's documentation is significant for several reasons:
+Hernández"s documentation is significant for several reasons:
 
 - **Three distinct types**: His description of three different mushroom types with different effects suggests that indigenous people were discriminating between multiple [[psilocybin]] species, each with different potency and effect profiles
 - **Social context**: The reference to princes and banquets indicates that mushroom use was not merely a peasant practice but was integrated into elite ceremonial culture
@@ -45,7 +45,7 @@ His work on teonanacatl was part of a broader effort to catalog the medicinal an
 
 ## Relationship to the Teonanacatl Debate
 
-Hernández's 1651 report was one of the key historical documents cited during the rediscovery of the Mexican mushroom cult in the 20th century. Along with Sahagún's *Florentine Codex* and Reko's correspondence, Hernández's descriptions helped establish that:
+Hernández"s 1651 report was one of the key historical documents cited during the rediscovery of the Mexican mushroom cult in the 20th century. Along with Sahagún's *Florentine Codex* and Reko's correspondence, Hernández's descriptions helped establish that:
 
 1. The mushrooms described by the Spanish were real organisms, not misidentified peyotl buttons (as William Safford claimed in 1915)
 2. Multiple species were used with different effects

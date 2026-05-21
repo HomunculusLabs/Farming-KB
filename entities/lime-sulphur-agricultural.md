@@ -9,7 +9,7 @@ tags: [pesticide, fungicide, lime-sulphur, vineyard, detrimental, soil-biology]
 
 ## Description
 
-Lime sulphur (calcium polysulfide) is a traditional agricultural fungicide and insecticide made by boiling calcium hydroxide (lime) with elemental sulfur. Elaine Ingham's field guide addresses lime sulphur as a chemical that is biologically detrimental to beneficial soil organisms, with significant implications for biological farming and compost tea programs.
+Lime sulphur (calcium polysulfide) is a traditional agricultural fungicide and insecticide made by boiling calcium hydroxide (lime) with elemental sulfur. Elaine Ingham"s field guide addresses lime sulphur as a chemical that is biologically detrimental to beneficial soil organisms, with significant implications for biological farming and compost tea programs.
 
 ## Classification
 

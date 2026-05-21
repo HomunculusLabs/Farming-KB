@@ -30,7 +30,7 @@ the multi-layered palm-olive-fig-pomegranate-vine-grain [[permaculture]] system 
 
 ### Key Quote
 "The long serpentine trunks of the palm tree rise above every village and about
-every field. The fibrous palm has entered almost every facet of the peoples'
+every field. The fibrous palm has entered almost every facet of the peoples"
 lives. It is the first line of defence against the sun in the open fields, and
 in its shade grows the olive tree. Under the olive, the fig grows, and under
 the fig, the pomegranate and vine, then the grain and vegetables."

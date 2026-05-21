@@ -10,7 +10,7 @@ tags:
 
 ## Overview
 
-**Observe and Interact** is the first of [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]] principles, articulated in *Permaculture: Principles & Pathways [[comparison-sepp-holzer-vs-permaculture-design]] work**. Every other principle in Holmgren's framework rests on the capacity to see clearly and respond appropriately to the systems we inhabit.
+**Observe and Interact** is the first of [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]] principles, articulated in *Permaculture: Principles & Pathways [[comparison-sepp-holzer-vs-permaculture-design]] work**. Every other principle in Holmgren"s framework rests on the capacity to see clearly and respond appropriately to the systems we inhabit.
 
 Without observation, design becomes projection — imposing assumptions onto landscapes rather than reading what they actually need. Without interaction, observation remains passive — accumulating insight without ever testing it against reality.
 
@@ -47,9 +47,9 @@ The discipline of sitting still and paying attention may be the single most impo
 
 Holmgren frames observation and interaction within a broader **design thinking revolution**. He argues that design should be considered a **universal skill alongside literacy and numeracy** — a capacity every person needs to navigate an increasingly complex and uncertain world.
 
-He draws on Victor Papanek's definition of design as **"the conscious and intuitive effort to impose meaningful order"**, emphasising that design is not the exclusive domain of professionals but an innate human activity that can be cultivated and refined through practice.
+He draws on Victor Papanek"s definition of design as **"the conscious and intuitive effort to impose meaningful order"**, emphasising that design is not the exclusive domain of professionals but an innate human activity that can be cultivated and refined through practice.
 
-Design thinking, in Holmgren's framing, is the bridge between observation and action — the process by which raw sensory data is organised into patterns, tested against principles, and expressed as interventions.
+Design thinking, in Holmgren"s framing, is the bridge between observation and action — the process by which raw sensory data is organised into patterns, tested against principles, and expressed as interventions.
 
 Just as literacy allows us to work with language and numeracy with quantity, design literacy allows us to work with systems, relationships, and change. Teaching design thinking broadly would transform how societies approach everything from agriculture to urban planning to organisational management.
 
@@ -71,7 +71,7 @@ These guidelines function as heuristics rather than rigid rules. They support th
 
 Holmgren connects the principle of minimal intervention to the philosophy of **Masanobu Fukuoka**, the Japanese farmer and philosopher whose "do-nothing" approach to agriculture (*[[clay-pellet-seed-balls]], avoiding ploughing, and allowing weeds to coexist with crops is not laziness but the outcome of decades of **attentive observation** — learning what the land wants to do and removing obstacles rather than imposing will.
 
-Fukuoka's famous declaration that he had come to the conclusion that "there was nothing at all" in his farming represents not nihilism but the radical fruit of sustained observation: when you watch long enough, you realise that nature already knows what to do.
+Fukuoka"s famous declaration that he had come to the conclusion that "there was nothing at all" in his farming represents not nihilism but the radical fruit of sustained observation: when you watch long enough, you realise that nature already knows what to do.
 
 His work is a powerful demonstration that the principle of observe and interact can yield results that rival or exceed conventional agriculture in productivity while restoring ecological health.
 

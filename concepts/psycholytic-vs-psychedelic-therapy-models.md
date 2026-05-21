@@ -29,7 +29,7 @@ The term "psycholytic" literally means "mind-loosening" and refers to the use of
 
 In this model, LSD is typically administered in doses ranging from 25 to 200 micrograms, repeated at weekly or biweekly intervals over a course of ten to thirty sessions.
 
-The low dose is intended to produce a state of heightened emotional responsiveness and reduced defensiveness without overwhelming the patient's ego.
+The low dose is intended to produce a state of heightened emotional responsiveness and reduced defensiveness without overwhelming the patient"s ego.
 
 The therapeutic process resembles conventional psychoanalysis: the patient explores memories, emotions, and fantasies with the guidance of a therapist, but the hallucinogen facilitates access to material that would otherwise be repressed.
 
@@ -67,7 +67,7 @@ The psychedelic model aims at a more radical transformation: the dissolution of 
 
 It is particularly suited to the treatment of alcoholism, terminal illness anxiety, and existential crisis, where a profound shift in perspective can produce rapid and lasting improvement.
 
-Both models have been applied to a wide range of conditions, and the choice between them depends more on the clinician's theoretical orientation than on any clear evidence of superiority for specific conditions.
+Both models have been applied to a wide range of conditions, and the choice between them depends more on the clinician"s theoretical orientation than on any clear evidence of superiority for specific conditions.
 
 ## Practical Applications
 

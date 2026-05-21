@@ -36,7 +36,7 @@ At maturity, when spore production begins, a second tropism emerges:
 
 ## Key Evidence: The Sporeless Mutant Experiment
 
-The most compelling evidence for the sporulation-geotropism link comes from Badham's study of a sterile mutant strain of *P. cubensis*:
+The most compelling evidence for the sporulation-geotropism link comes from Badham"s study of a sterile mutant strain of *P. cubensis*:
 
 | Condition | Fertile Strain | Sterile (Sporeless) Mutant |
 |-----------|---------------|---------------------------|

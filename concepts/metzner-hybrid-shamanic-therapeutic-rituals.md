@@ -8,7 +8,7 @@ tags: [shamanism, psychotherapy, psychedelics, healing, ritual, metzner]
 
 ## Overview
 
-Ralph Metzner's 1998 review identified what he called "hybrid [[cultural-evolution-and-psychoactive-substances]] in healing. These rituals represent a deliberate blending of indigenous shamanic practices with Western psychotherapeutic approaches, incorporating features of both traditions while differing fundamentally from either in their underlying assumptions about reality.
+Ralph Metzner"s 1998 review identified what he called "hybrid [[cultural-evolution-and-psychoactive-substances]] in healing. These rituals represent a deliberate blending of indigenous shamanic practices with Western psychotherapeutic approaches, incorporating features of both traditions while differing fundamentally from either in their underlying assumptions about reality.
 
 ## Four Paradigms of Psychoactive Use
 

@@ -3,9 +3,9 @@ title: Amanita Muscaria Seers Milk Preparation Ancient and Modern Methods
 source: amanita-muscaria-herb-of-immortality.md
 type: concept
 ---
-## Why "Seer's Milk"
+## Why "Seer"s Milk"
 
-The term "Seer's Milk" reflects the preparation's association with visionary and divinatory practice across cultures and millennia.
+The term "Seer"s Milk" reflects the preparation's association with visionary and divinatory practice across cultures and millennia.
 
 ### Visionary States
 

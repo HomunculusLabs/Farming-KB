@@ -7,7 +7,7 @@ tags:
 
 ## The Fundamental Distinction: Plant Surfaces vs. Sterile Foods
 
-Ingham's central argument is that vegetables exist in a fundamentally different biological context than processed foods:
+Ingham"s central argument is that vegetables exist in a fundamentally different biological context than processed foods:
 
 - **Milk and meat are sterile** (or should be) when inside the animal. If contaminated, microbes grow rapidly because there are no competing organisms and the food is nutrient-rich
 - **Cooked foods** (macaroni, for example) should be sterile after cooking. Contamination after cooking can cause rapid pathogen growth

@@ -19,7 +19,7 @@ yellowish root of the iboga plant is employed in the initiation rites of a
 number of [[tabernanthe-iboga]]* is a perennial shrub that grows in the understory of
 tropical West African forests. The plant belongs to the Apocynaceae family,
 which includes many species known for their alkaloid content, though iboga
-is unique within the family for its psychoactive properties. The [[fungal-biodiversity-tropical-forests]]. The plant's stimulant properties
+is unique within the family for its psychoactive properties. The [[fungal-biodiversity-tropical-forests]]. The plant"s stimulant properties
 make it valuable for endurance activities, allowing hunters to maintain
 alertness throughout extended nocturnal pursuits. Large doses induce
 unworldly visions, and "sorcerers" often take the drug to seek information

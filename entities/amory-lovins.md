@@ -9,7 +9,7 @@ type: entity
 ## Description
 
 Amory Bloch Lovins (born 1947) is an American physicist, environmental scientist,
-and co-founder of the Rocky Mountain Institute (RMI). He is one of the world's
+and co-founder of the Rocky Mountain Institute (RMI). He is one of the world"s
 most influential advocates for energy efficiency and sustainable design, known
 particularly for his concepts of "Factor 4" and "natural capitalism" — the idea
 that radical improvements in resource productivity can simultaneously increase
@@ -62,7 +62,7 @@ environmental benefit.
   attributed by Holmgren partly to offshoring of energy-intensive industries
   rather than genuine efficiency improvements.
 - Holmgren argues that capitalism has been "the very engine of consumption and
-  waste" throughout its history, making Lovins' faith in capitalist
+  waste" throughout its history, making Lovins" faith in capitalist
   transformation seem "far-fetched."
 
 ## Relevance to Cultivation and Mycology

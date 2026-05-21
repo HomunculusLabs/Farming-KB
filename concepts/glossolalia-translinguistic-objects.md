@@ -32,11 +32,11 @@ Translinguistic objects produce intense cognitive dissonance as the primate
 brain tries to process them through existing frameworks:
 
 - The brain tries to "pour language over it and it sheds it like water off a
-  duck's back"
+  duck"s back"
 - Repeated failure produces a feedback loop of "wow" or "flutter"
 - Accumulating dissonance causes wonder, astonishment, and awe "at the brink
   of terror"
-- The entities warn: "Don't get a loop of wonder going that quenches your
+- The entities warn: "Don"t get a loop of wonder going that quenches your
   ability to understand"
 
 ## Psychedelic vs. Classical Glossolalia

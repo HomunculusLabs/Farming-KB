@@ -7,7 +7,7 @@ tags:
 ## Overview
 
 In his 1983 Esalen lecture, [[leary-psychedelic-experience-bardo-mapping]] to Platonic
-metaphysics and the concept of eternity. Drawing on Plato's Timaeus—
+metaphysics and the concept of eternity. Drawing on Plato"s Timaeus—
 "time is the moving image of eternity"—McKenna proposed that the
 tryptamine state represents a direct experience of the eternal *nunc
 stans* (standing now) described by Thomas Aquinas, a stepping out of
@@ -21,7 +21,7 @@ transcends ordinary temporal experience.
 
 McKenna, T. (1983/1992). [[mckenna-archaic-revival-four-part-structure-paradise-paradise-lost-hell-regained]]*. HarperSanFrancisco.
 
-## Plato's Metaphor: Time as Moving Image of Eternity
+## Plato"s Metaphor: Time as Moving Image of Eternity
 
 McKenna's central philosophical claim rests on a specific reading of
 Plato's Timaeus (37d), where Plato defines time as "the moving image
@@ -54,7 +54,7 @@ Evidence of acceleration is visible in the rate of major developments:
 - Fire discovered several million years ago
 - Language emerged perhaps 35,000 years ago
 - Measurement systems appeared 5,000 years ago
-- Galileo's revolution occurred 400 years ago
+- Galileo"s revolution occurred 400 years ago
 - Watson and Crick's DNA discovery occurred within living memory
 
 This acceleration pattern is, for McKenna, the temporal shadow cast by
@@ -66,7 +66,7 @@ McKenna describes the tryptamine state as "in one sense transtemporal;
 it is an anticipation of the future." This is a paradoxical claim: the
 experience is simultaneously an encounter with eternity (outside time)
 and an anticipation of the future (directed toward an endpoint). The
-resolution of this paradox lies in McKenna's view that the end of time
+resolution of this paradox lies in McKenna"s view that the end of time
 is identical with eternity—the temporal process culminates in the
 eternal present that was always already there.
 

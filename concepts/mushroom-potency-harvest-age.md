@@ -13,7 +13,7 @@ The relationship between [[psilocin]] per mushroom is fixed early in development
    weight.
 
 2. **Alkaloid accumulation**: Psilocybin and psilocin continue to
-   be synthesized throughout the mushroom's growth cycle, so
+   be synthesized throughout the mushroom"s growth cycle, so
    larger mushrooms contain more total alkaloids.
 
 The evidence largely supports the first view — that early-harvest

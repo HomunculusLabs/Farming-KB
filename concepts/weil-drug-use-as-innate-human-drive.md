@@ -11,7 +11,7 @@ tags: [reference]
 
 ## The Central Argument
 
-In *The Natural Mind* (1972), Andrew Weil advances the thesis that the desire to alter consciousness is an innate biological drive, comparable in fundamental importance to hunger, thirst, sleep, and sexual desire. This was a deliberately provocative framing in an era when drug use was understood almost exclusively through lenses of psychopathology, criminality, or countercultural rebellion. Weil's argument cut across all three of these frameworks, offering a fourth lens: biology.
+In *The Natural Mind* (1972), Andrew Weil advances the thesis that the desire to alter consciousness is an innate biological drive, comparable in fundamental importance to hunger, thirst, sleep, and sexual desire. This was a deliberately provocative framing in an era when drug use was understood almost exclusively through lenses of psychopathology, criminality, or countercultural rebellion. Weil"s argument cut across all three of these frameworks, offering a fourth lens: biology.
 
 ## Evidence from Ethnography
 

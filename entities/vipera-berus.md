@@ -12,7 +12,6 @@ date: 2026-05-09
 updated: 2026-05-09
 sources:
   - The Reptile Database. "Vipera berus (Linnaeus, 1758)." https://reptile-database.reptarium.cz/species?genus=Vipera&species=berus---
----
 
 ## Vipera berus
 

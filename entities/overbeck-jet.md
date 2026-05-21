@@ -6,7 +6,7 @@ type: entity
 
 ## Description
 
-The **Overbeck jet** is a [[computational-fluid-dynamics]] phenomenon — a simple involuted mushroom shape formed when a fluid, gas, or smoke stream is injected into another medium. Described by D'Arcy Thompson (1942), the Overbeck jet is characterized as the "simple half-form" of a basic flow model that occurs commonly in nature. The pattern appears whenever one medium pushes into another: mushrooms expanding from the earth, rivers flooding into the sea, muddy water entering the ocean, jellyfish pulsing through water, and jet streams at altitude pushing into different air masses.
+The **Overbeck jet** is a [[computational-fluid-dynamics]] phenomenon — a simple involuted mushroom shape formed when a fluid, gas, or smoke stream is injected into another medium. Described by D"Arcy Thompson (1942), the Overbeck jet is characterized as the "simple half-form" of a basic flow model that occurs commonly in nature. The pattern appears whenever one medium pushes into another: mushrooms expanding from the earth, rivers flooding into the sea, muddy water entering the ocean, jellyfish pulsing through water, and jet streams at altitude pushing into different air masses.
 
 ## Classification
 

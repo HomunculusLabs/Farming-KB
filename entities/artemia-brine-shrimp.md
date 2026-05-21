@@ -48,7 +48,7 @@ Mollison specifically mentions Artemia mixtures as a beneficial food source for 
 
 ### Permaculture Integration
 - Small-scale Artemia culture can be established in shallow saline ponds or tanks
-- The cysts' ability to be stored dry makes them an excellent backup food source
+- The cysts" ability to be stored dry makes them an excellent backup food source
 - Can be integrated into sequential pond systems where saline ponds feed into fish production ponds
 - Fits the permaculture principle of producing food at multiple trophic levels
 

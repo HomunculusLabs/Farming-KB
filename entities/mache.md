@@ -9,12 +9,12 @@ tags: [crop, cold-hardy, winter-vegetable, salad-green, valerianaceae]
 
 ## Description
 
-Mâche, also known as **corn salad** or **lamb's lettuce**, is a small, tender, cold-hardy salad green in the family Valerianaceae. It is one of the signature crops of the [[winter-harvest-system]], valued for its exceptional cold tolerance, nutty flavor, and ability to thrive during the coldest months when most other salad crops cannot. [[eliot-coleman]] lists mâche among the "novel" cold-hardy vegetables alongside claytonia and minutina, and it is one of the most reliable winter performers at [[four-season-farm]].
+Mâche, also known as **corn salad** or **lamb"s lettuce**, is a small, tender, cold-hardy salad green in the family Valerianaceae. It is one of the signature crops of the [[winter-harvest-system]], valued for its exceptional cold tolerance, nutty flavor, and ability to thrive during the coldest months when most other salad crops cannot. [[eliot-coleman]] lists mâche among the "novel" cold-hardy vegetables alongside claytonia and minutina, and it is one of the most reliable winter performers at [[four-season-farm]].
 
 ## Classification
 
 - **Scientific Name:** *Valerianella locusta*
-- **Common Names:** Mâche, corn salad, lamb's lettuce, field salad, nut lettuce
+- **Common Names:** Mâche, corn salad, lamb"s lettuce, field salad, nut lettuce
 - **Family:** Valerianaceae (now Caprifoliaceae in some classifications)
 - **Type:** Annual/cool-season salad green
 - **Edible Part:** Rosette of small, spoon-shaped leaves

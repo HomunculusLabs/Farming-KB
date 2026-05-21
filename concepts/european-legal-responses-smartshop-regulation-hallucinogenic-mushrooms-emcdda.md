@@ -18,7 +18,7 @@ The Dutch smartshop system developed a sophisticated self-regulatory framework, 
 Despite these measures, concerns about increasing reports of adverse incidents — including several high-profile cases involving foreign tourists — led the Dutch government to ban the sale of psilocybin-containing mushrooms in 2007. The ban was part of a broader tightening of drug policy in the Netherlands during this period.
 
 ### United Kingdom: Evolving Definitions
-The UK's approach to mushroom legislation evolved through several stages, reflecting the difficulty of fitting fungi into existing drug control frameworks:
+The UK"s approach to mushroom legislation evolved through several stages, reflecting the difficulty of fitting fungi into existing drug control frameworks:
 
 1. **Initial position**: Under the Misuse of Drugs Act 1971, the UK initially controlled mushrooms only when they had been "treated or prepared" — meaning dried, cooked, or otherwise processed. Fresh mushrooms were technically legal.
 

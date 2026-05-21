@@ -19,7 +19,7 @@ He identified several factors that make amateur mushroom eating especially peril
 - **No antidote to fungus poison has ever been discovered** — once the toxin is ingested, physicians are largely powerless to intervene
 - **Fatal doses can be remarkably small** — in one case Palmer documented, no more than two tablespoonfuls of mushroom stew were eaten at the table, yet three people died
 
-Palmer's position was nuanced. He was not an alarmist who believed all wild mushrooms were dangerous. He personally had tested perhaps a hundred varieties on his own stomach, including some long considered poisonous, and had never been deceived. But he recognized that the consequences of a single mistake were so severe — "sure death" — that no one should presume to eat mushrooms without devoting sufficient time to study.
+Palmer"s position was nuanced. He was not an alarmist who believed all wild mushrooms were dangerous. He personally had tested perhaps a hundred varieties on his own stomach, including some long considered poisonous, and had never been deceived. But he recognized that the consequences of a single mistake were so severe — "sure death" — that no one should presume to eat mushrooms without devoting sufficient time to study.
 
 ## The Fairy-Ring Champignon Hazard
 
@@ -35,7 +35,7 @@ This example powerfully illustrates why general knowledge and even explicit warn
 
 Rather than relying solely on his own testimony, Palmer quoted extensively from **Dr. F.S. Cordier**, a member of many French scientific societies, whose illustrated work published in Paris in 1876 was described as "by far the most complete work on the subject in the world."
 
-Cordier's analysis, illustrated by chromo-lithographs of the highest quality, systematically demolished every proposed universal test for distinguishing poisonous from [[palmer-edible-mushrooms-north-america]]. His catalogue of false rules included the widespread belief that one should mistrust species exhibiting any of the following characteristics:
+Cordier"s analysis, illustrated by chromo-lithographs of the highest quality, systematically demolished every proposed universal test for distinguishing poisonous from [[palmer-edible-mushrooms-north-america]]. His catalogue of false rules included the widespread belief that one should mistrust species exhibiting any of the following characteristics:
 
 - Species growing in shady woods, dark and humid places, caverns, and subterranean vaults
 - Fungi with flesh that is soft and watery rather than firm and substantial
@@ -61,7 +61,7 @@ His conclusion was categorical and unambiguous:
 
 To accept such traits as adequate means of distinguishing edible from poisonous mushrooms would be, on the one hand, to reject perfectly safe esculent varieties as noxious species, and on the other hand, to mistake "species preeminently poisonous" for harmless food.
 
-Cordier went further, declaring that assigning general practical traits to distinguish poisonous mushrooms in a way obvious to everybody appeared to him "impossible." The French mycologist's authoritative voice lent tremendous weight to Palmer's own arguments, demonstrating that the problem was recognized by the foremost European experts as well as American students.
+Cordier went further, declaring that assigning general practical traits to distinguish poisonous mushrooms in a way obvious to everybody appeared to him "impossible." The French mycologist"s authoritative voice lent tremendous weight to Palmer's own arguments, demonstrating that the problem was recognized by the foremost European experts as well as American students.
 
 ## The Silver Spoon Myth
 
@@ -83,7 +83,7 @@ While discarding spoiled mushrooms based on the silver test does no harm, the fa
 
 The naturalist **Necker** had advanced the idea that a white onion cooked with mushrooms would turn bluish or brown if the mushrooms were poisonous, while remaining white if harmless. Similarly, some authorities claimed that the pith of the bulrush would blacken under the same conditions with poisonous species.
 
-Cordier dismissed both tests in a single devastating sentence: "Unfortunately these assertions are not confirmed by experience." Palmer's own position was equally definitive — no kitchen test of any kind could substitute for species-specific knowledge.
+Cordier dismissed both tests in a single devastating sentence: "Unfortunately these assertions are not confirmed by experience." Palmer"s own position was equally definitive — no kitchen test of any kind could substitute for species-specific knowledge.
 
 ## The Amanita Family: The Primary Killer
 
@@ -97,7 +97,7 @@ The only potentially effective treatment Palmer mentioned was the **hypodermic i
 
 ## Species-Specific Knowledge: The Only Safe Approach
 
-Cordier's ultimate conclusion, which Palmer fully endorsed, was unequivocal and remains the foundation of mycological safety to this day:
+Cordier"s ultimate conclusion, which Palmer fully endorsed, was unequivocal and remains the foundation of mycological safety to this day:
 
 > "The true, perhaps the sole means of avoiding mistakes, when we wish to use mushrooms as food, is to learn to know the characteristics which are peculiar to each species by itself, or, in other terms, to have in the memory or under the eye the exact description of the species and to attain this in all the ages and under all the forms that they can assume."
 
@@ -105,7 +105,7 @@ There is no shortcut. No universal test, no folk remedy, no simple rule of color
 
 Palmer expressed frustration that despite such authoritative testimony from both sides of the Atlantic, the public would continue to ask how to "tell a mushroom from a toadstool," and that unqualified individuals would continue to volunteer answers that trained students declared impossible.
 
-## Charles James Sprague's Additional Caution
+## Charles James Sprague"s Additional Caution
 
 Palmer added the testimony of his colleague **[[charles-james-sprague]]**, a Boston mycologist of rare attainments, who never allowed any fungi to be eaten in his house except the common cultivated mushroom.
 

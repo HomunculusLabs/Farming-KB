@@ -11,7 +11,7 @@ Lynda Taylor is a cofounder of [[designing-sustainable-communities]]/ZERI-New Me
 (SCZ-NM) and initiator of the New Mexico native fungal culture bank
 project. Her work focuses on collecting, maintaining, and testing native
 fungi for their ability to grow on locally available woody substrates as
-part of forest restoration efforts. She is featured in [[ron-spinosa]]'s
+part of forest restoration efforts. She is featured in [[ron-spinosa]]"s
 article on [[fungi-and-sustainability]] published in Fungi Magazine.
 
 ## Classification

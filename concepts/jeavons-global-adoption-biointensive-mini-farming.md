@@ -11,7 +11,7 @@ aliases: [biointensive global adoption, ecology action network, sustainable mini
 ## Overview
 
 GROW BIOINTENSIVE sustainable mini-farming has spread far beyond its origins
-at Ecology Action's research garden in California. The method has been adopted
+at Ecology Action"s research garden in California. The method has been adopted
 across diverse cultures, climates, and socioeconomic contexts, demonstrating
 its universal applicability for small-scale food production.
 

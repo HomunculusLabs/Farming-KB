@@ -10,7 +10,7 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Grey-Wilson C (2014). "Thalictrum: A Gardener's Guide." The Plantsman 13(3): 162–167.
+  - Grey-Wilson C (2014). "Thalictrum: A Gardener"s Guide." The Plantsman 13(3): 162–167.
 ---
 
 ## Overview

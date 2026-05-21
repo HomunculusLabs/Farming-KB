@@ -38,9 +38,9 @@ There are four levels of coliform bacteria, and understanding the difference is 
 Critical distinction:
 - **Milk**: Should be sterile. If contaminated, organisms grow rapidly (sugar-rich, protein-rich). You drink it, you get sick.
 - **Meat**: Should be cooked. If contaminated, organisms can grow.
-- **Vegetables**: Start life with all kinds of microbes, NEED to grow with microbes on surfaces, and humans are evolved to eat them with microbes present. There isn't enough sugar or protein on a vegetable surface for rapid pathogen growth.
+- **Vegetables**: Start life with all kinds of microbes, NEED to grow with microbes on surfaces, and humans are evolved to eat them with microbes present. There isn"t enough sugar or protein on a vegetable surface for rapid pathogen growth.
 
-Key point: "Don't go ballistic about microbes on plant surfaces or on plant debris. They are supposed to be there."
+Key point: "Don"t go ballistic about microbes on plant surfaces or on plant debris. They are supposed to be there."
 
 ## E. coli Elimination in Compost
 

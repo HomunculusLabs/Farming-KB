@@ -34,7 +34,7 @@ occurring in real time over roughly thirty seconds.
 
 At the culmination of the onset sequence, the experiencer arrives in a space that McKenna
 describes as defying ordinary description. It has "a feeling of being underground, or somehow
-insulated and domed." He draws on James Joyce's [[mckenna-dmt-experience-and-hyperspace]]. The notion that ultimate reality is
+insulated and domed." He draws on James Joyce"s [[mckenna-dmt-experience-and-hyperspace]]. The notion that ultimate reality is
 characterized by play rather than solemnity subverts both scientific and religious
 expectations about the nature of transcendent experience.
 

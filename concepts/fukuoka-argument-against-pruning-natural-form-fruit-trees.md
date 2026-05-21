@@ -4,7 +4,7 @@ source: administrator-microsoft-word-fukuoka-textdoc.md
 type: concept
 ---
 
-## Fukuoka's Argument Against Pruning and the Natural Form of Fruit Trees
+## Fukuoka"s Argument Against Pruning and the Natural Form of Fruit Trees
 
 [[cannabis-vegetative-growth-stage]] tends to
 produce little fruit, while heavy bearing causes growth to decline.
@@ -13,7 +13,7 @@ As Fukuoka acknowledged, "This certainly seems to justify the development of int
 and complicated [[fukuoka-natural-fruit-tree-pest-control]] or given any thought as to what a
 [[natural-fruit-tree-form-and-non-pruning]] is."
 
-## Phyllotaxy — Nature's Order
+## Phyllotaxy — Nature"s Order
 
 Fukuoka turned to natural forests for his evidence. There, "The trunks of these trees
 never branch or twist as long as they are not cut or harmed." He observed that "No
@@ -50,7 +50,7 @@ with one trunk develops instead into a complex tree with several leaders."
 
 ## Pruning Creates Need for More Pruning
 
-Fukuoka's central insight about pruning can be stated plainly: "Pruning only creates a
+Fukuoka"s central insight about pruning can be stated plainly: "Pruning only creates a
 need for more pruning." He described how casually growers approach this irreversible
 act: "People will stand in front of a citrus tree and, saying that these branches here
 are growing so closely that they are shutting off sunlight, casually make a few quick
@@ -106,7 +106,7 @@ Fukuoka identified five key advantages of allowing fruit trees to grow in their
 natural central leader form:
 
 1. **Maximum growth and sunlight exposure yield maximum production.** An unnatural
-   form "reduces the tree's natural powers and commits the grower to unending labors."
+   form "reduces the tree"s natural powers and commits the grower to unending labors."
 
 2. **An erect central trunk produces little entanglement.** As a result, "pruning
    gradually decreases" and only "minimum care needed" remains.

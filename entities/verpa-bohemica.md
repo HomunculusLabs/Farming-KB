@@ -2,7 +2,7 @@
 title: "Verpa Bohemica"
 type: entity
 tags: []
-sources: ['raw/papers/working-with-agar.md']
+sources: ["raw/papers/working-with-agar.md']
 ---
 
 It is one of the earliest spring-fruiting [[ascomycota]]

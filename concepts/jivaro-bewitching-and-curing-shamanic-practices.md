@@ -18,8 +18,8 @@ The bewitching ritual is conducted with careful secrecy. The shaman prepares by 
 
 When the victim emerges, the shaman throws the tsentsak at them. The outcome depends on the strength of the dart and the force with which it is thrown:
 
-- **Full penetration**: The tsentsak passes completely through the victim's body, causing death within days to weeks. In this case, "there is nothing for a curing shaman to suck out."
-- **Embedding**: More commonly, the magical dart lodges within the victim's body, causing illness of varying severity. This is theoretically curable through shamanic extraction.
+- **Full penetration**: The tsentsak passes completely through the victim"s body, causing death within days to weeks. In this case, "there is nothing for a curing shaman to suck out."
+- **Embedding**: More commonly, the magical dart lodges within the victim"s body, causing illness of varying severity. This is theoretically curable through shamanic extraction.
 
 If the intended victim does not appear, the shaman may bewitch any family member who emerges — typically a wife or child. The bewitcher takes great care to conceal his actions, as the victim must not become aware of the supernatural attack lest they immediately seek the protection of a curing shaman.
 
@@ -31,7 +31,7 @@ A bewitching shaman can deploy several categories of supernatural allies:
 
 The pasuk remains near the victim after the initial bewitchment, positioned to shoot additional tsentsak into the patient if a curing shaman manages to extract the original dart. This makes the pasuk a persistent threat that must be neutralized before a cure can be completed.
 
-**Wakani Birds**: Supernatural birds that any shaman can summon. The shaman blows on the wakani birds and sends them to the victim's house, where they fly around the person repeatedly, causing fear, fever, and ultimately insanity leading to death. The bewitcher can also position a wakani bird near the victim's dwelling as a resupply mechanism: when a curing shaman extracts a tsentsak, the bewitcher sends additional darts to the bird, which fires them from its beak into the patient. This creates a situation where the curer can never permanently rid the patient of magical darts.
+**Wakani Birds**: Supernatural birds that any shaman can summon. The shaman blows on the wakani birds and sends them to the victim"s house, where they fly around the person repeatedly, causing fear, fever, and ultimately insanity leading to death. The bewitcher can also position a wakani bird near the victim's dwelling as a resupply mechanism: when a curing shaman extracts a tsentsak, the bewitcher sends additional darts to the bird, which fires them from its beak into the patient. This creates a situation where the curer can never permanently rid the patient of magical darts.
 
 **Anamuk (Supernatural Animals)**: Shamans can use tsentsak to create dangerous animals that attack victims. Specific examples include:
 
@@ -54,7 +54,7 @@ The ceremony follows a precise protocol:
 1. The shaman whistles the tune of the curing song to alert his tsentsak
 2. After approximately fifteen minutes, he begins singing
 3. When ready to extract, he regurgitates two of his own tsentsak into his mouth — one positioned in the front and one in the rear of his throat
-4. These two darts must be identical to the one he has identified in the patient's body
+4. These two darts must be identical to the one he has identified in the patient"s body
 5. The front tsentsak is intended to catch the supernatural essence of the extracted dart
 6. The rear tsentsak blocks the throat as a safety measure, preventing the hostile supernatural essence from entering the shaman's body if the first dart fails to capture it
 
@@ -62,7 +62,7 @@ If both defensive tsentsak were to fail, the hostile essence would pass into the
 
 ### The Social Performance of Curing
 
-An important dimension of Jivaro curing is its performative aspect. The non-shaman participants believe that the material object displayed by the shaman is the actual projectile that was causing the illness. The shaman does not disabuse them of this belief. He is not considered to be lying, because he sincerely believes that the important component — the supernatural essence — has indeed been removed from the patient's body. However, explaining to laypeople that he already had the objects in his mouth would undermine the evidentiary basis of the cure and make it impossible to convince the family that payment is owed.
+An important dimension of Jivaro curing is its performative aspect. The non-shaman participants believe that the material object displayed by the shaman is the actual projectile that was causing the illness. The shaman does not disabuse them of this belief. He is not considered to be lying, because he sincerely believes that the important component — the supernatural essence — has indeed been removed from the patient"s body. However, explaining to laypeople that he already had the objects in his mouth would undermine the evidentiary basis of the cure and make it impossible to convince the family that payment is owed.
 
 The ability to suck successfully depends on the quantity and strength of the shaman's own tsentsak. Under natem, these darts manifest as zoomorphic spirit helpers — hovering over the shaman, perching on his shoulders, protruding from his skin — and actively assist in the extraction process.
 
@@ -78,7 +78,7 @@ The curing process becomes more complex when the bewitcher has deployed spirit h
 
 ## Identifying the Bewitcher
 
-While curing under natem's influence, the shaman typically "sees" the person who bewitched his patient and can usually identify them — unless the sorcerer lives far away or belongs to another tribe. The patient's family demands to know the identity of the bewitcher, particularly if the patient dies. This creates intense pressure on the curing shaman to name a specific individual, which can itself become a source of social conflict and accusation.
+While curing under natem"s influence, the shaman typically "sees" the person who bewitched his patient and can usually identify them — unless the sorcerer lives far away or belongs to another tribe. The patient"s family demands to know the identity of the bewitcher, particularly if the patient dies. This creates intense pressure on the curing shaman to name a specific individual, which can itself become a source of social conflict and accusation.
 
 ## Tsentsak Economy and Recycling
 

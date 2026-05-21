@@ -16,7 +16,7 @@ type: concept
 
 ## [[psilocybe-semilanceata]]*** (liberty caps): the most common wild
   European [[psilocybe-tampanensis-entity]]***: these form
-  sclerotia and are known as "truffles" or "philosopher's stone"
+  sclerotia and are known as "truffles" or "philosopher"s stone"
 
 Sclerotia are hardened masses of mycelium which are more resistant to
 adverse environmental conditions (dryness, cold, heat, excessive

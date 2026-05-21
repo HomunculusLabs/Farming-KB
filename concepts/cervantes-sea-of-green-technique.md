@@ -23,7 +23,7 @@ The fundamental principle behind SOG is simple: rather than growing a few large 
 
 Cervantes defines SOG as "a method of growing tightly spaced cloned plantlets where the clones are flowered almost immediately after rooting for a small yield per plant, but no wasted space." This approach transforms indoor growing from a plant-centric model to a canopy-centric model where the entire light footprint is utilized from edge to edge.
 
-The technique works because cannabis plants, when flowered small, still produce a proportionally large central cola relative to their overall size. By eliminating the lower branches that would otherwise receive inadequate light in a dense planting, SOG directs all of the plant's energy into a single productive bud column.
+The technique works because cannabis plants, when flowered small, still produce a proportionally large central cola relative to their overall size. By eliminating the lower branches that would otherwise receive inadequate light in a dense planting, SOG directs all of the plant"s energy into a single productive bud column.
 
 ## Strain Selection
 
@@ -65,7 +65,7 @@ In large SOG operations, plants can be harvested on a rotating schedule where a 
 - **Reduced electricity cost per gram**: More grams per watt of light translates directly to lower production costs per harvest.
 - **Perpetual harvest potential**: Staggered planting creates continuous harvests rather than discrete crop cycles with downtime between them.
 
-Cervantes' case study showed SOG efficiency improving from 0.02 ounces per watt in the first crop to 0.05 ounces per watt by the second crop, a remarkable 137 percent improvement in power efficiency as growers refined their technique and optimized every aspect of the system.
+Cervantes" case study showed SOG efficiency improving from 0.02 ounces per watt in the first crop to 0.05 ounces per watt by the second crop, a remarkable 137 percent improvement in power efficiency as growers refined their technique and optimized every aspect of the system.
 
 ## Disadvantages and Challenges
 

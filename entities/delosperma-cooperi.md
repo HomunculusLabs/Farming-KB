@@ -14,7 +14,7 @@ sources:
 
 ## Overview
 
-Delosperma cooperi, commonly known as hardy ice plant or Cooper's ice plant, is a low-growing, mat-forming succulent perennial native to the highlands of eastern South Africa.
+Delosperma cooperi, commonly known as hardy ice plant or Cooper"s ice plant, is a low-growing, mat-forming succulent perennial native to the highlands of eastern South Africa.
 
 It is renowned for its vivid magenta-pink, daisy-like flowers that blanket the foliage from late spring through fall. The blooms open in full sun and close at night or on cloudy days.
 

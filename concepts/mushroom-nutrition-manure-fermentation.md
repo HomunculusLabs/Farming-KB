@@ -15,7 +15,7 @@ sources:
 
 ## Mushroom Nutrition and Manure Fermentation
 
-Benjamin Minge Duggar's research on mushroom nutrition, published in 1905, revealed fundamental insights about why fermented manure is essential for cultivation — not because fermentation chemically improves the substrate, but because it creates the biological conditions that allow mushroom mycelium to compete with other microorganisms.
+Benjamin Minge Duggar"s research on mushroom nutrition, published in 1905, revealed fundamental insights about why fermented manure is essential for cultivation — not because fermentation chemically improves the substrate, but because it creates the biological conditions that allow mushroom mycelium to compete with other microorganisms.
 
 ## Fermentation as a Biological Requirement
 

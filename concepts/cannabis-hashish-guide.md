@@ -15,7 +15,7 @@ Hashish (hash) is a concentrated cannabis product made by separating and collect
 
 ## What Is Hashish?
 
-Hashish is essentially compressed cannabis resin. The trichomes — tiny, crystal-like glandular hairs on cannabis flowers and leaves — contain the plant's active compounds (THC, CBD, terpenes, and other cannabinoids). Hashish is created by separating these trichomes from plant material and pressing them into a cohesive form. Different [[marijuana-strain-guide-sativa|sativa]] and [[marijuana-strain-guide-indica|indica]] strains produce hashish with varying characteristics.
+Hashish is essentially compressed cannabis resin. The trichomes — tiny, crystal-like glandular hairs on cannabis flowers and leaves — contain the plant"s active compounds (THC, CBD, terpenes, and other cannabinoids). Hashish is created by separating these trichomes from plant material and pressing them into a cohesive form. Different [[marijuana-strain-guide-sativa|sativa]] and [[marijuana-strain-guide-indica|indica]] strains produce hashish with varying characteristics.
 
 ### Trichome Types and Quality
 

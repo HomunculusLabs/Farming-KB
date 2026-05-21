@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-A persistent theme in JADAM's teaching is the critique of unnecessary complexity in [[coleman-deep-organic-farming]]. Cho argues that the organic movement has been co-opted by equipment manufacturers and input suppliers who profit from making farming seem more complicated than it needs to be. This concept page examines JADAM's anti-complexity philosophy and its practical implications.
+A persistent theme in JADAM"s teaching is the critique of unnecessary complexity in [[coleman-deep-organic-farming]]. Cho argues that the organic movement has been co-opted by equipment manufacturers and input suppliers who profit from making farming seem more complicated than it needs to be. This concept page examines JADAM's anti-complexity philosophy and its practical implications.
 
 ## The Complexity Trap
 
@@ -24,9 +24,9 @@ Cho describes a familiar pattern in organic farming education:
 
 ### The Rubber Container Dismissal
 
-"All the rubber containers that you had at home have become useless because they cannot 'keep the temperature even.' Farmers are driven to a situation where they think they cannot make fertilizer without expensive machines."
+"All the rubber containers that you had at home have become useless because they cannot "keep the temperature even.' Farmers are driven to a situation where they think they cannot make fertilizer without expensive machines."
 
-The dismissal of simple, accessible methods in favor of expensive equipment serves the interests of manufacturers rather than farmers. JADAM's mission is to demonstrate that effective organic farming can be practiced with the simplest possible tools.
+The dismissal of simple, accessible methods in favor of expensive equipment serves the interests of manufacturers rather than farmers. JADAM"s mission is to demonstrate that effective organic farming can be practiced with the simplest possible tools.
 
 ## Anaerobic Fermentation
 
@@ -66,13 +66,13 @@ JADAM distinguishes between industrial-scale composting, which requires aeration
 
 ### Adam Smith on Science
 
-"As Adam Smith put it: 'Science is the great antidote to the poison of enthusiasm and superstition.'" JADAM positions itself as a scientific, evidence-based approach that cuts through the marketing hype and superstition that surround organic farming inputs.
+"As Adam Smith put it: "Science is the great antidote to the poison of enthusiasm and superstition.'" JADAM positions itself as a scientific, evidence-based approach that cuts through the marketing hype and superstition that surround organic farming inputs.
 
 ### Zero-Input Purity
 
 "Some zero-input advocates from Japan use vinegar [[insectary-plants-for-pest-control]]. That is literally not zero-input. Applying vinegar is same as providing foliar fertilizer."
 
-JADAM maintains intellectual rigor by rejecting claims that don't withstand scrutiny. The "zero-input" label should mean what it says.
+JADAM maintains intellectual rigor by rejecting claims that don"t withstand scrutiny. The "zero-input" label should mean what it says.
 
 ## Integration with Broader Systems
 

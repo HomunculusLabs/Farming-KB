@@ -21,7 +21,7 @@ type: concept
 
 ## Overview
 
-The second of Fukuoka's four [[fukuoka-direct-observation-method]] of [[comparison-grafting-vs-budding-fruit-trees]] entirely through human forces
+The second of Fukuoka"s four [[fukuoka-direct-observation-method]] of [[comparison-grafting-vs-budding-fruit-trees]] entirely through human forces
 
 The poor farmer has taken the long way around. He has destroyed the living soil ecosystem and then tried to replace it with chemical inputs. Fukuoka asks: if nature is not dead, if it lives and grows, then why not direct these vast hidden forces to the growth of fruit trees?
 

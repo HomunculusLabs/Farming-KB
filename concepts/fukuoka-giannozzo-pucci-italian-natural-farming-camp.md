@@ -19,7 +19,7 @@ of Tuscany.
 
 ## The Setting
 
-Giannozzo's place was a decrepit, two-hundred-year-old stone house in
+Giannozzo"s place was a decrepit, two-hundred-year-old stone house in
 the middle of a combination olive orchard and vineyard. The surrounding
 hills and peaks were crowded with cypress trees like those in a Van
 Gogh painting. Fukuoka spent a week experiencing camp life surrounded
@@ -58,7 +58,7 @@ Fukuoka was tempted to believe it.
 
 ## The Cypress Trees
 
-When told that the cypress trees, which appear so often in Van Gogh's
+When told that the cypress trees, which appear so often in Van Gogh"s
 paintings, are used for mourning the souls of the dead, Fukuoka
 responded: "In my eyes, they are lamenting the decline and ruin of
 the Italian mountains." This observation connected to his broader

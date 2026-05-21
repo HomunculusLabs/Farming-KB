@@ -1,5 +1,5 @@
 ---
-title: McKenna's Stoned Ape Hypothesis
+title: McKenna"s Stoned Ape Hypothesis
 source: mckenna_t-food_of_the_gods.md
 tags: [evolution, consciousness, psychedelics, anthropology, mycology]
 created: 2026-05-08

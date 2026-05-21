@@ -6,7 +6,7 @@ type: entity
 
 ## Description
 
-Eichornia (commonly spelled Eichhornia), or water hyacinth, is a free-floating aquatic perennial plant native to the Amazon basin but now widespread across tropical and subtropical waterways worldwide. In permaculture systems, despite being one of the world's most invasive aquatic weeds, water hyacinth is strategically harvested and used as a valuable mulch and nutrient source for tropical gardens.
+Eichornia (commonly spelled Eichhornia), or water hyacinth, is a free-floating aquatic perennial plant native to the Amazon basin but now widespread across tropical and subtropical waterways worldwide. In permaculture systems, despite being one of the world"s most invasive aquatic weeds, water hyacinth is strategically harvested and used as a valuable mulch and nutrient source for tropical gardens.
 
 ## Classification
 

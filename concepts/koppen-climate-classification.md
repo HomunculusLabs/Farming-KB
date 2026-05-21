@@ -6,7 +6,7 @@ type: concept
 
 ## Köppen Climate Classification and Global Atmospheric Circulation
 
-The **Köppen climate classification** is the most widely used system for categorizing the world's climates based on temperature and [[desert-precipitation-patterns-and-opportunistic-ecology]]. Developed by Wladimir Köppen, it provides a foundational framework for understanding global climate zones — essential for [[water-management]] strategies, building design, and settlement planning. Different crops and trees thrive only within specific climate envelopes, precipitation patterns dictate storage requirements, and thermal performance of structures depends on zone characteristics.
+The **Köppen climate classification** is the most widely used system for categorizing the world"s climates based on temperature and [[desert-precipitation-patterns-and-opportunistic-ecology]]. Developed by Wladimir Köppen, it provides a foundational framework for understanding global climate zones — essential for [[water-management]] strategies, building design, and settlement planning. Different crops and trees thrive only within specific climate envelopes, precipitation patterns dictate storage requirements, and thermal performance of structures depends on zone characteristics.
 
 ## Holdridge Life Zone Matrix
 
@@ -70,7 +70,7 @@ The cold, dense, dry polar air sweeping off the ice-caps and the hot rising air 
 
 ## Oceanic-Atmospheric Coupling
 
-A key insight from modern climatology — emphasized throughout Mollison's treatment — is that **oceanic circulation drives the air masses**, not the other way around. The temperature differential between polar ice-caps and the equatorial calms creates the primary engine for global atmospheric circulation, but it is the oceans that store and transport the vast majority of thermal energy. Understanding this coupling is essential for [[bill-mollison]] because ocean current changes (such as El Niño events) can dramatically alter regional precipitation and temperature patterns regardless of the prevailing Köppen classification.
+A key insight from modern climatology — emphasized throughout Mollison"s treatment — is that **oceanic circulation drives the air masses**, not the other way around. The temperature differential between polar ice-caps and the equatorial calms creates the primary engine for global atmospheric circulation, but it is the oceans that store and transport the vast majority of thermal energy. Understanding this coupling is essential for [[bill-mollison]] because ocean current changes (such as El Niño events) can dramatically alter regional precipitation and temperature patterns regardless of the prevailing Köppen classification.
 
 The four or more large fronts that are continuous with the polar spiral system drive cloud formations up to 10° south or north latitude, mostly along the western margins of South America, Africa, and the south Atlantic. These persistent cloud bands are the primary mechanism by which oceanic thermal energy is transferred to the atmosphere and ultimately delivered as precipitation to continental interiors.
 

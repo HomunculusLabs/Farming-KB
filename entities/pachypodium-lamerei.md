@@ -10,7 +10,6 @@ date: 2026-05-10
 updated: 2026-05-10
 sources:
   - Royal Horticultural Society. Pachypodium lamerei RHS Plant Finder record.---
----
 
 ## Overview
 

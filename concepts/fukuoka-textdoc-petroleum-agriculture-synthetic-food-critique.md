@@ -24,7 +24,7 @@ This transformation means that the farmer tries to make money with synthetic che
 
 ## The Energy Input-Output Problem
 
-Fukuoka's critique predates the widespread energy analysis of agriculture, but his observation is essentially the same as the later net energy deduction studies: modern agriculture consumes more energy in inputs than it produces in food calories. The petroleum used to manufacture and transport fertilizers, pesticides, and to power machinery represents an enormous hidden cost that is never accounted for in the price of food.
+Fukuoka"s critique predates the widespread energy analysis of agriculture, but his observation is essentially the same as the later net energy deduction studies: modern agriculture consumes more energy in inputs than it produces in food calories. The petroleum used to manufacture and transport fertilizers, pesticides, and to power machinery represents an enormous hidden cost that is never accounted for in the price of food.
 
 When food is grown with natural methods, the energy input is primarily solar — captured by plants through photosynthesis and cycled through biological processes. When food is grown industrially, the energy subsidy from fossil fuels can exceed the caloric value of the food produced. This is fundamentally unsustainable and represents a thermodynamic absurdity.
 
@@ -44,13 +44,13 @@ Fukuoka's concept of "tasty rice" was not about gourmet preferences but about a 
 Each intervention in the natural system creates the need for further interventions:
 
 1. Plowing compacts soil and destroys soil structure, requiring more plowing
-2. Chemical fertilizers kill soil microorganisms, reducing the soil's ability to process organic matter, requiring more fertilizer
+2. Chemical fertilizers kill soil microorganisms, reducing the soil"s ability to process organic matter, requiring more fertilizer
 3. Pesticides kill both pests and their natural predators, creating pest outbreaks that require more pesticides
 4. Weedicides select for resistant weeds, necessitating stronger herbicides
 
 This spiral cannot be escaped by developing "better" technologies within the same paradigm. The only escape is to step outside the paradigm entirely — to stop intervening and allow natural processes to reassert themselves.
 
-Fukuoka noted that scientists are always saying "let's try this, let's try that." Agriculture becomes swept up in all of this fiddling around; new methods requiring additional expenditures and effort by farmers are constantly introduced, along with new pesticides and fertilizers. The addition of new technology only makes the system more complex and diversified, generating ever-increasing expense and labor.
+Fukuoka noted that scientists are always saying "let"s try this, let's try that." Agriculture becomes swept up in all of this fiddling around; new methods requiring additional expenditures and effort by farmers are constantly introduced, along with new pesticides and fertilizers. The addition of new technology only makes the system more complex and diversified, generating ever-increasing expense and labor.
 
 ## The Centrifugal vs. Centripetal Model
 
@@ -68,7 +68,7 @@ Fukuoka demonstrated that a quarter-acre (about 1,000 square meters) farmed with
 
 This is achieved with no plowing, no chemical fertilizer, no compost preparation, no pesticides, and essentially no weeding. The labor of one or two people is sufficient. The method — "direct-seeded, no-tillage, winter grain/rice succession in a clover cover" — requires only sowing seed and spreading straw.
 
-The contrast with petroleum-dependent agriculture is stark. Fukuoka's method uses no oil inputs whatsoever, yet achieves yields comparable to or better than industrial methods on the same land. His goal was to eventually take in 33 bushels per quarter-acre through refinement of the natural method.
+The contrast with petroleum-dependent agriculture is stark. Fukuoka"s method uses no oil inputs whatsoever, yet achieves yields comparable to or better than industrial methods on the same land. His goal was to eventually take in 33 bushels per quarter-acre through refinement of the natural method.
 
 ## Consumer Complicity and Market Dynamics
 

@@ -1,6 +1,6 @@
 ---
 title: Bloomfield Hyphal Proton Pump Nutrient Uptake Electrical Biology
-source: "Mr. Bloomfield's Orchard - nicholas-money-mycologist"
+source: "Mr. Bloomfield"s Orchard - nicholas-money-mycologist"
 topics: [mycology, fungal-physiology, membrane-biology, proton-pumps, nutrient-uptake]
 ---
 
@@ -8,7 +8,7 @@ topics: [mycology, fungal-physiology, membrane-biology, proton-pumps, nutrient-u
 
 ## The Hypha as a Microscopic Battery
 
-One of the most remarkable yet underappreciated features of fungal biology is the electrical activity that powers nutrient uptake. Every living hypha maintains a voltage difference across its plasma membrane—a phenomenon that effectively turns each filamentous cell into a microscopic battery. This electrical biology, detailed extensively in [[nicholas-money]]'s *Mr. Bloomfield's Orchard*, is fundamental to understanding how fungi feed, grow, and interact with their environments.
+One of the most remarkable yet underappreciated features of fungal biology is the electrical activity that powers nutrient uptake. Every living hypha maintains a voltage difference across its plasma membrane—a phenomenon that effectively turns each filamentous cell into a microscopic battery. This electrical biology, detailed extensively in [[nicholas-money]]"s *Mr. Bloomfield's Orchard*, is fundamental to understanding how fungi feed, grow, and interact with their environments.
 
 ## Membrane Transport: The Foundation of Fungal Nutrition
 
@@ -49,7 +49,7 @@ The results of such electrophysiological studies have revealed that:
 
 The accumulation of dissolved substances inside the hypha has an important physical consequence. Water moves across the semi-permeable plasma membrane by osmosis—flowing from regions of low solute concentration (outside) to high solute concentration (inside). This water influx creates **turgor pressure**—hydrostatic pressure within the hyphal cell that presses the cytoplasm against the cell wall.
 
-Turgor pressure in fungal hyphae ranges from one to ten atmospheres, depending on species and conditions. For reference, a car tire is pressurized to about 2 atmospheres. The cell wall resists this pressure and prevents the cell from bursting, much like a tire's sidewall contains the compressed air within.
+Turgor pressure in fungal hyphae ranges from one to ten atmospheres, depending on species and conditions. For reference, a car tire is pressurized to about 2 atmospheres. The cell wall resists this pressure and prevents the cell from bursting, much like a tire"s sidewall contains the compressed air within.
 
 ## The Turgor Pressure Debate
 

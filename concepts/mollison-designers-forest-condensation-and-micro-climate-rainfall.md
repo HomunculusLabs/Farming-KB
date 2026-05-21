@@ -16,7 +16,7 @@ type: concept
 
 One of the most significant yet underappreciated functions of
 forests is their ability to generate water through condensation and
-fog drip. In *Permaculture: A Designers' Manual*, [[canopy-layer-design-food-forests]], will ensure more
+fog drip. In *Permaculture: A Designers" Manual*, [[canopy-layer-design-food-forests]], will ensure more
 condensation from sea air than will a level and relatively closed
 canopy. This [[mollison-tree-biomass-and-forest-as-living-entity]].
 

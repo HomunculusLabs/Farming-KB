@@ -9,7 +9,7 @@ tags: [soil, microorganism, leaf-mold, forest-floor, jadam, fertility, biology]
 
 ## Description
 
-In the JADAM organic farming system, leaf mold (forest floor decomposing organic matter) is the foundational model for ideal soil and the primary source of beneficial microorganisms. Youngsang Cho's core principle of soil management is to "make your soil like leaf mold" — replicating the conditions found on the forest floor where diverse communities of fungi, bacteria, actinomycetes, and other organisms create optimal growing conditions naturally. Leaf mold serves as the inoculant for JADAM Microorganism Solution (JMS) and as the philosophical template for the entire JADAM approach to soil health.
+In the JADAM organic farming system, leaf mold (forest floor decomposing organic matter) is the foundational model for ideal soil and the primary source of beneficial microorganisms. Youngsang Cho"s core principle of soil management is to "make your soil like leaf mold" — replicating the conditions found on the forest floor where diverse communities of fungi, bacteria, actinomycetes, and other organisms create optimal growing conditions naturally. Leaf mold serves as the inoculant for JADAM Microorganism Solution (JMS) and as the philosophical template for the entire JADAM approach to soil health.
 
 ## Classification
 
@@ -31,7 +31,7 @@ In the JADAM organic farming system, leaf mold (forest floor decomposing organic
 
 ## The Leaf Mold Principle
 
-Youngsang Cho's observation that the forest floor — where leaf mold accumulates and decomposes — represents the ideal model for agricultural soil is the foundation of JADAM soil management. In the forest, leaves fall and are decomposed by a succession of microorganisms, creating a rich, well-structured growing medium without any human intervention. The JADAM approach seeks to replicate this natural process on the farm by introducing leaf mold microorganisms (via JMS), adding organic matter, avoiding soil disturbance that disrupts microbial communities, and maintaining conditions that favor beneficial fungal and bacterial growth.
+Youngsang Cho"s observation that the forest floor — where leaf mold accumulates and decomposes — represents the ideal model for agricultural soil is the foundation of JADAM soil management. In the forest, leaves fall and are decomposed by a succession of microorganisms, creating a rich, well-structured growing medium without any human intervention. The JADAM approach seeks to replicate this natural process on the farm by introducing leaf mold microorganisms (via JMS), adding organic matter, avoiding soil disturbance that disrupts microbial communities, and maintaining conditions that favor beneficial fungal and bacterial growth.
 
 ## JADAM Microorganism Solution (JMS)
 

@@ -8,7 +8,7 @@ sources:
  - "raw/papers/sepp-holzer-practical-guide.md"
 ---
 ## Green Manure Crops
-From "Sepp Holzer's Permaculture" by Sepp Holzer.
+From "Sepp Holzer"s Permaculture" by Sepp Holzer.
 ## Principles of Green Manure
 I use green manure crops on any area of land that needs to be improved or lies
 fallow. This could be on slopes, embankments or new plots of land. The crops that

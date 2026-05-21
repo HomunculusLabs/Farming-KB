@@ -41,7 +41,7 @@ Mycelium acts as a **biological hydraulic system**:
 ### Enzymatic Arsenal
 | Enzyme | Produces | Key Function |
 |--------|----------|-------------|
-| Lignin peroxidase | White rot fungi | Breaks lignin's aromatic rings |
+| Lignin peroxidase | White rot fungi | Breaks lignin"s aromatic rings |
 | Manganese peroxidase | White rot fungi | Mineralizes wood; breaks H-C bonds |
 | Laccase | White rot fungi | General oxidase; degrades phenols, dyes |
 | Cellulase | Most fungi | Breaks down cellulose |

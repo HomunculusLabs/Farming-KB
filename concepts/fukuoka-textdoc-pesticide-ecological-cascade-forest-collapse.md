@@ -25,7 +25,7 @@ The beetles are vectors for pinewood nematodes, microscopic parasitic worms that
 
 ### Step 6: Botrytis Fungi and Matsutake Disappearance
 
-The nematodes feed on parasitic Botrytis fungi in the trunks of the pine trees. The beneficial matsutake fungus, which lives symbiotically on the roots of red pines, has died off as a result of an increase in the harmful Botrytis fungus in the soil. The matsutake was a key part of the forest's [[bloomfield-amphibian-decline-fungal-disease-climate-interactions]], thickets of bamboo grass rise up in the cleared areas. This fast-growing ground cover further prevents forest regeneration by outcompeting native tree seedlings and creating conditions favorable to its own spread.
+The nematodes feed on parasitic Botrytis fungi in the trunks of the pine trees. The beneficial matsutake fungus, which lives symbiotically on the roots of red pines, has died off as a result of an increase in the harmful Botrytis fungus in the soil. The matsutake was a key part of the forest"s [[bloomfield-amphibian-decline-fungal-disease-climate-interactions]], thickets of bamboo grass rise up in the cleared areas. This fast-growing ground cover further prevents forest regeneration by outcompeting native tree seedlings and creating conditions favorable to its own spread.
 
 ### Step 9: Mouse Population Explosion
 

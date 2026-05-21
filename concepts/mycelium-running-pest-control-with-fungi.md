@@ -15,7 +15,7 @@ mycopesticides-entomopathogenic-fungi began
 when his 1910 farmhouse, built in an old-growth forest clearing, was
 under attack by carpenter ants (Camponotus modoc). Wood-digesting fungi
 from an adjacent artist conk ([[metarhizium-anisopliae]], a [[presporulating-mycelium-trojan-horse-mycopesticides]] on sterilized rice and
-placed it near the ants' foraging paths.
+placed it near the ants" foraging paths.
 
 The result was extraordinary: carpenter ants actively picked up the
 kernels of myceliated rice and carried them back to their nest,

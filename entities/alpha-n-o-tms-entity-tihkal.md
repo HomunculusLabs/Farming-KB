@@ -49,7 +49,7 @@ The fact that alpha,N,O-TMS is much less active than its unmethylated counterpar
 
 Shulgin uses this compound as a case study against relying on structure-activity relationship (SAR) predictions. He argues that the SAR approach is fundamentally flawed because predictions are rarely tested. New compounds are synthesized or evaluated, but the predicted activities are not systematically compared with actual results. Instead, new data is simply fed back into the SAR model to produce "more valid" coefficients without ever challenging the predictive power of the model.
 
-Shulgin's stated motto, "make 'em and taste 'em," reflects his skepticism toward theoretical prediction and his preference for empirical testing.
+Shulgin"s stated motto, "make "em and taste 'em," reflects his skepticism toward theoretical prediction and his preference for empirical testing.
 
 As a challenge to SAR practitioners, Shulgin proposes predicting the potency of alpha,N,N,O-tetramethylserotonin, a compound that has not been synthesized but which carries a second N-methyl group (closer to DMT at the nitrogen, potentially more potent) combined with the structural features of alpha-methylation. This compound would directly test competing hypotheses about how N-methylation affects tryptamine activity.
 
@@ -71,7 +71,7 @@ The proposed but unsynthesized compound alpha,N,N,O-tetramethylserotonin would p
 
 alpha,N,O-TMS holds the distinction of being the final numbered entry (#55) in the main chemical section of TIHKAL. Shulgin chose to close the main body of the work with this compound because it provides a compelling case study for his broader philosophical points about drug discovery and the limitations of theoretical pharmacology.
 
-The entry's extensions and commentary section serves as a meditation on the nature of scientific prediction and the value of empirical exploration. Shulgin's closing remark, "Good luck," is addressed both to the SAR practitioners he challenges and to the broader community of psychopharmacology researchers.
+The entry"s extensions and commentary section serves as a meditation on the nature of scientific prediction and the value of empirical exploration. Shulgin's closing remark, "Good luck," is addressed both to the SAR practitioners he challenges and to the broader community of psychopharmacology researchers.
 
 ## Toxicity and Safety
 

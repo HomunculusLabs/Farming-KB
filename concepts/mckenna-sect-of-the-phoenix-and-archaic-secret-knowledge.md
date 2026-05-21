@@ -39,7 +39,7 @@ widely separated cultures, from the Amazon to Siberia to Mesoamerica, suggests a
 common origin for these practices. Until recently, [[mckenna-stropharia-cubensis-extraterrestrial-hypothesis-spore-dispersal]] is not known to be in archaic shamanic use
 anywhere in the world. DMT is used in the Amazon by cultures McKenna describes as "quite
 primitive, usually nomadic hunter-gatherers." The full potential of [[dmt-self-transforming-machine-elves-mckenna]] elves, the translinguistic information complexes, the hyperspatial
-topologies, are essentially absent from the iconographic traditions of the world's major
+topologies, are essentially absent from the iconographic traditions of the world"s major
 religions and art. While he found similarities between his LSD experiences and Mahayana
 Buddhist iconography, the DMT-specific visual vocabulary appeared nowhere in the art he
 studied, not in Hindu iconography, not in Buddhist thankas, not in any other visual tradition.
@@ -48,14 +48,14 @@ This absence may be explained by the "black hole effect" of DMT: the experience 
 profoundly alien that it has not been successfully translated into visual or verbal culture.
 The Secret remains secret not because it is deliberately hidden but because it resists
 expression in conventional media. Language, as McKenna notes, sheds off the experience "like
-water off a duck's back." This communicative resistance may be the most important property of
+water off a duck"s back." This communicative resistance may be the most important property of
 the tryptamine experience: it exists in a domain fundamentally incommensurable with ordinary
 modes of description.
 
 ## Philip K. Dick and the Hibernation of the Logos
 
 The closest parallel McKenna finds to the tryptamine experience in literature is in Philip K.
-Dick's novel *Valis*, which discusses the "long hibernation of the Logos." Dick imagined the
+Dick"s novel *Valis*, which discusses the "long hibernation of the Logos." Dick imagined the
 
 ## Overview
 

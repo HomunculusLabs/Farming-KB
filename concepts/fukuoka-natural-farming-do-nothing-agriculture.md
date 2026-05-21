@@ -1,11 +1,11 @@
 ---
-title: "Do-Nothing Farming: Masanobu Fukuoka's Natural Agriculture"
+title: "Do-Nothing Farming: Masanobu Fukuoka"s Natural Agriculture"
 source: The Road Back to Nature (Fukuoka, 1987)
 tags: [natural-farming, agriculture, philosophy, ecology, permaculture]
 created: 2026-05-11
 ---
 
-## Do-Nothing Farming: Fukuoka's Natural Agriculture
+## Do-Nothing Farming: Fukuoka"s Natural Agriculture
 
 ## Overview
 
@@ -17,7 +17,7 @@ The term "do-nothing" is deliberately provocative. Fukuoka does not advocate lit
 
 ## The Origin of the Idea
 
-Fukuoka was a youth when he happened upon the idea of do-nothing farming. He knew that such a way existed, but had no idea at first how to carry it out in practice. He didn't know the methods. For thirty years since then he farmed in search of those methods, eventually coming to have some idea of what these are. During the war, he worked at an agricultural [[four-principles-of-natural-farming]] in the back of his head. After the war, he was free at last to become a farmer and wasted no time putting his ideas into practice.
+Fukuoka was a youth when he happened upon the idea of do-nothing farming. He knew that such a way existed, but had no idea at first how to carry it out in practice. He didn"t know the methods. For thirty years since then he farmed in search of those methods, eventually coming to have some idea of what these are. During the war, he worked at an agricultural [[four-principles-of-natural-farming]] in the back of his head. After the war, he was free at last to become a farmer and wasted no time putting his ideas into practice.
 
 ## The Four Principles
 
@@ -51,7 +51,7 @@ At its deepest level, do-nothing farming is grounded in epistemological humility
 
 This does not mean farming is effortless. Fukuoka spent decades learning precise timing, the right combinations of ground cover, and the subtle ecological cues that allow nature to do its work.
 
-> "Merely leaving one's fields alone is not nature. While walking the fine line between nature and the laissez-faire approach, I have striven to this day to learn what the true form of nature is."
+> "Merely leaving one"s fields alone is not nature. While walking the fine line between nature and the laissez-faire approach, I have striven to this day to learn what the true form of nature is."
 
 Nature, seen superficially, is forgiving and generous — that is why do-nothing farming is possible. But the deeper one pursues scientific study of nature, the more one realizes it to be a vastly intricate entity beyond fragmentary human comprehension.
 
@@ -59,7 +59,7 @@ Nature, seen superficially, is forgiving and generous — that is why do-nothing
 
 Fukuoka argued that scientific research on agriculture is fundamentally misguided because it fragments what should be understood as a whole. A plant pathologist examines a leaf spot; an entomologist looks at an insect; a fertilizer specialist studies soil chemistry; a plant husbandry expert handles cultivation. Everything is broken into discrete domains and studied in isolation.
 
-> "One bit of knowledge creates two new queries in our minds. Solving these gives rise to yet new questions... To say 'I understand' is to not understand. At the universities, 'I understand' means nothing more than to have broken what we are examining down and wandered into the obscure darkness of ignorance."
+> "One bit of knowledge creates two new queries in our minds. Solving these gives rise to yet new questions... To say "I understand' is to not understand. At the universities, 'I understand' means nothing more than to have broken what we are examining down and wandered into the obscure darkness of ignorance."
 
 The result is that [[fukuoka-natural-foods-movement-america]]. In Europe, farmers in
 Italy, Holland, and Austria were experimenting with his methods.

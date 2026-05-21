@@ -11,7 +11,7 @@ sources:
 
 ## Overview
 
-Fukuoka's signature [[cervantes-chemical-fertilizers-guide]], no [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]], weed suppression, soil protection, moisture retention, and erosion prevention. Fukuoka called this approach "the clover revolution in rice and barley cropping" to voice opposition to chemical-based [[comparison-natural-farming-vs-permaculture]] depends on how well shallow, evenly sown seeds germinate." After the soil recovers its natural structure, transition to full no-tillage.
+Fukuoka"s signature [[cervantes-chemical-fertilizers-guide]], no [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]], weed suppression, soil protection, moisture retention, and erosion prevention. Fukuoka called this approach "the clover revolution in rice and barley cropping" to voice opposition to chemical-based [[comparison-natural-farming-vs-permaculture]] depends on how well shallow, evenly sown seeds germinate." After the soil recovers its natural structure, transition to full no-tillage.
 
 ## Single Cropping Variant
 

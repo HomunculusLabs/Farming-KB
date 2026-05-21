@@ -26,7 +26,7 @@ Bonism (or Bon) is the traditional pre-Buddhist religion of Tibet. According to 
 
 ## Relevance to Cultivation and Mycology
 
-The Bonist shamanic tradition that underlies the Bardo Thodol shares features with indigenous mushroom-using cultures worldwide, including death-and-rebirth symbolism, spirit journeying, and the use of ritual frameworks for navigating altered states. The fact that Leary's psychedelic guide drew on a text with deep shamanic roots is not coincidental — both traditions address the same fundamental human experiences of ego dissolution and expanded consciousness that are produced by [[psilocybin-mushrooms]]. Understanding the Bonist roots of the psychedelic framework connects [[modern-mushroom-festival-culture]] use to ancient [[jivaro-bewitching-and-curing-shamanic-practices]].
+The Bonist shamanic tradition that underlies the Bardo Thodol shares features with indigenous mushroom-using cultures worldwide, including death-and-rebirth symbolism, spirit journeying, and the use of ritual frameworks for navigating altered states. The fact that Leary"s psychedelic guide drew on a text with deep shamanic roots is not coincidental — both traditions address the same fundamental human experiences of ego dissolution and expanded consciousness that are produced by [[psilocybin-mushrooms]]. Understanding the Bonist roots of the psychedelic framework connects [[modern-mushroom-festival-culture]] use to ancient [[jivaro-bewitching-and-curing-shamanic-practices]].
 
 ## Historical Context
 

@@ -1,5 +1,5 @@
 ---
-title: Darwin's Finches (Geospizinae)
+title: Darwin"s Finches (Geospizinae)
 source: bill-mollison-permaculture-a-designers-manual.md
 type: entity
 tags: [bird, evolution, island-ecology, biodiversity]

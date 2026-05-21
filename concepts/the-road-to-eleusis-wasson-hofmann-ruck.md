@@ -14,7 +14,7 @@ sources:
 [[mazatec-mushroom-culture-and-velada]]
 [[mazatec-mushrooms-of-language]]. His recognition of phenomenological parallels between the [[hofmann-lsd-psychiatric-research]].
 
-Hofmann's self-experiment with ergonovine, conducted at age 70, demonstrated both the personal commitment of the authors and the ongoing relevance of the chemical investigation. Subsequent research has identified additional potential sources of psychoactive ergot alkaloids, and the question of the kykeon's composition remains an active area of scholarly investigation.
+Hofmann"s self-experiment with ergonovine, conducted at age 70, demonstrated both the personal commitment of the authors and the ongoing relevance of the chemical investigation. Subsequent research has identified additional potential sources of psychoactive ergot alkaloids, and the question of the kykeon's composition remains an active area of scholarly investigation.
 
 ## References and Further Reading
 

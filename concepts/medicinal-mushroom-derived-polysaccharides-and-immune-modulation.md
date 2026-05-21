@@ -11,7 +11,7 @@ Mushroom-derived polysaccharides represent a class of immunomodulatory compounds
 ## The Polysaccharide Class
 
 ### Definition
-Mushroom-derived polysaccharides are complex carbohydrate polymers isolated from fungal fruiting bodies, mycelial cultures, or fermentation broths. They are considered **[[medicinal-mushrooms-biological-response-modifiers]] modifiers (BRMs)**—substances that can modulate the host's biological response to disease.
+Mushroom-derived polysaccharides are complex carbohydrate polymers isolated from fungal fruiting bodies, mycelial cultures, or fermentation broths. They are considered **[[medicinal-mushrooms-biological-response-modifiers]] modifiers (BRMs)**—substances that can modulate the host"s biological response to disease.
 
 ### Two Major Categories
 1. **Pure glucans**: Mostly non-cytotoxic; work primarily through immune modulation
@@ -42,7 +42,7 @@ Mushroom-derived polysaccharides are complex carbohydrate polymers isolated from
 - **T-cells**: Enhanced cell-mediated cytotoxicity (CD8+ cytotoxic T-cells and CD4+ helper T-cells)
 
 ### Multi-Cytokine Induction
-"These compounds can be considered as multi-cytokine inducers able to induce gene expression of various immunomodulatory cytokines and cytokine receptors." This means they don't just stimulate one pathway but trigger a coordinated immune response across multiple systems.
+"These compounds can be considered as multi-cytokine inducers able to induce gene expression of various immunomodulatory cytokines and cytokine receptors." This means they don"t just stimulate one pathway but trigger a coordinated immune response across multiple systems.
 
 ## Major Clinical Compounds
 
@@ -130,7 +130,7 @@ The primary clinical role of mushroom polysaccharides is as **adjuncts** to conv
 - **After treatment**: Support immune recovery, prevent recurrence
 
 ### Not Direct Cytotoxic Agents
-"Mushroom glucans are mostly non-cytotoxic"—they don't directly kill cancer cells. Instead, they activate the body's own immune defenses. This makes them fundamentally different from conventional chemotherapy.
+"Mushroom glucans are mostly non-cytotoxic"—they don"t directly kill cancer cells. Instead, they activate the body's own immune defenses. This makes them fundamentally different from conventional chemotherapy.
 
 ## Diagnostic Matching
 

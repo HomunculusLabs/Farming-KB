@@ -55,7 +55,7 @@ In East Africa, C. polyzona fruiting bodies are used in traditional medicine to 
 
 In parts of India and Southeast Asia, it is used similarly for wound healing and as a general antimicrobial remedy. Documentation of traditional uses is primarily from ethnobotanical surveys rather than formal pharmacopoeias.
 
-The species is among a group of "tiger's milk" mushrooms referenced in some African traditional healing contexts, though this common name is applied to several different polypore genera.
+The species is among a group of "tiger"s milk" mushrooms referenced in some African traditional healing contexts, though this common name is applied to several different polypore genera.
 
 ## Cultivation
 

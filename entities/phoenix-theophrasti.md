@@ -12,7 +12,6 @@ date: 2026-05-09
 updated: 2026-05-09
 sources:
   - Greuter, W. (1967). "Flora der Insel Kythira." Botanische Jahrbücher 87: 1-140.---
----
 
 ## Phoenix theophrasti
 

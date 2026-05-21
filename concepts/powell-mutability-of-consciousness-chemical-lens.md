@@ -18,7 +18,7 @@ type: concept
 
 ## Overview
 
-Simon G. Powell's *The [[archaeology-of-psychedelic-mushrooms]] warrant serious scientific and philosophical
+Simon G. Powell"s *The [[archaeology-of-psychedelic-mushrooms]] warrant serious scientific and philosophical
 investigation. The central thesis is that consciousness itself is mediated
 by chemistry, meaning that the "normal" waking state is merely one
 configuration of mind among many possible configurations, each producing

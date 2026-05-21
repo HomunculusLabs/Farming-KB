@@ -9,14 +9,14 @@ created: 2026-05-08
 
 ## Overview
 
-In *The Road Back to Nature*,  describes how control over seeds has become a tool of geopolitical power, documenting what he calls the "seed war" — the competition between nations and corporations to control the genetic foundation of the world's food supply. Drawing from his personal experience developing high- kuoka-insects-create-new-rice-varieties that were caught up in US-Japan seed politics, Fukuoka provides a farmer's perspective on agricultural geopolitics that anticipates modern concerns about seed patents, corporate consolidation, and .
+In *The Road Back to Nature*,  describes how control over seeds has become a tool of geopolitical power, documenting what he calls the "seed war" — the competition between nations and corporations to control the genetic foundation of the world"s food supply. Drawing from his personal experience developing high- kuoka-insects-create-new-rice-varieties that were caught up in US-Japan seed politics, Fukuoka provides a farmer's perspective on agricultural geopolitics that anticipates modern concerns about seed patents, corporate consolidation, and .
 
 ## Food as Strategic Weapon
 
 Fukuoka states plainly: "Today, this food is used as a strategic weapon." His argument rests on several observations:
 
 - **American food policy**: The  uses food exports and seed technology as instruments of geopolitical influence.
-- **Oil company control**: "Control over America's seeds today lies squarely in the hands of five [[fukuoka-textdoc-postwar-japanese-agricultural-mechanization-collapse]] institutions:
+- **Oil company control**: "Control over America"s seeds today lies squarely in the hands of five [[fukuoka-textdoc-postwar-japanese-agricultural-mechanization-collapse]] institutions:
 
 - **1981**: William Davis, counsel for agricultural affairs at the American Embassy in Japan, visited the Agricultural Ministry to explore selling rice seed to Japan.
 - **1982**: Richard Samuelson, president of Ring Around Products (a major US seed maker), visited Japan to develop partnerships for hybrid F1 rice seed production and sale.
@@ -29,7 +29,7 @@ The "Shinjo incident" referenced by officials is key to understanding the geopol
 Professor Shoichi Shinjo of Ryukyu University was the first to demonstrate the potential for [[what-natural-farming-method-should-i-use]]:
 
 - "With the rice we have today, one cannot grow natural rice."
-- "Today's rice has been bred and improved so much by man that I find it weak and totally unsatisfactory."
+- "Today"s rice has been bred and improved so much by man that I find it weak and totally unsatisfactory."
 - Modern varieties have been selected for performance under chemical-intensive conditions.
 - They are dependent on the very inputs (fertilizers, pesticides, irrigation) that [[fukuoka-food-strategic-weapon-seed-war-geopolitics]]
 - [[fukuoka-food-strategy-rice-seed-weapon-seed-war-food-ecosystem]]

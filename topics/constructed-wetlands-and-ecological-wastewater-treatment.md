@@ -1,7 +1,7 @@
 ---
 title: comparison-constructed-wetlands-vs-bioswales and Ecological mollison-designers-wastewater-treatment-wetlands
 ---
-subtitle: Engineering nature's kidneys to purify water, recycle nutrients, and
+subtitle: Engineering nature"s kidneys to purify water, recycle nutrients, and
   restore the hydrological cycle
 tags:
   - constructed-wetlands
@@ -78,7 +78,7 @@ design rather than waste management.
 To understand constructed wetlands, one must first understand the ecosystems
 they emulate. Natural wetlands — marshes, swamps, bogs, and fens — are among
 the most productive and ecologically valuable landscapes on Earth. They have
-been called "nature's kidneys" for their remarkable ability to filter,
+been called "nature"s kidneys" for their remarkable ability to filter,
 absorb, and transform pollutants from water that passes through them. A
 single acre of wetland can store over a million gallons of floodwater and
 remove significant loads of nitrogen, phosphorus, and sediment from

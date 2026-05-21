@@ -10,12 +10,12 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - CABI (2026). "Cynoglossum officinale (hound's tongue)." Invasive Species Compendium.
+  - CABI (2026). "Cynoglossum officinale (hound"s tongue)." Invasive Species Compendium.
 ---
 
 ## Overview
 
-Cynoglossum officinale, known as common hound's tongue, is a biennial or short-lived perennial herb in the family Boraginaceae. Native to Europe and western Asia, it is notable for its medicinal history and its status as an invasive weed in [[childrens-herbal-medicine]] for centuries despite containing toxic pyrrolizidine alkaloids.
+Cynoglossum officinale, known as common hound"s tongue, is a biennial or short-lived perennial herb in the family Boraginaceae. Native to Europe and western Asia, it is notable for its medicinal history and its status as an invasive weed in [[childrens-herbal-medicine]] for centuries despite containing toxic pyrrolizidine alkaloids.
 
 It has also acquired the folk names "gypsy flower," "dog bur," and "woolmat" in different European regions. The strong, unpleasant smell of the crushed leaves is sometimes compared to mouse urine.
 
@@ -39,7 +39,7 @@ The species prefers dry, well-drained calcareous soils but tolerates a broad pH 
 
 Introduced to [[dmt-containing-plants-united-states-halpern]] and southern Canada. It is listed as a noxious weed in several states including Washington, Colorado, and Montana.
 
-Invasive populations establish readily on overgrazed rangelands, logged areas, and along trails. The plant's toxic properties reduce palatability to livestock, giving it a competitive advantage on grazed land.
+Invasive populations establish readily on overgrazed rangelands, logged areas, and along trails. The plant"s toxic properties reduce palatability to livestock, giving it a competitive advantage on grazed land.
 
 The species is classified as a Category B noxious weed in several western US states. Control efforts focus on biological agents including the root-feeding weevil Mogulones cruciger.
 

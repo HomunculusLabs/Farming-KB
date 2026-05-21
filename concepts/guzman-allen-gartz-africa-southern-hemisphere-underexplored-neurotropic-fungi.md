@@ -17,7 +17,7 @@ The worldwide [[biogeography-austral-hemisphere-fungi]]**: 59 species documented
   forested regions.
 
 ### Why So Few Records?
-Several factors contribute to Africa's underrepresentation:
+Several factors contribute to Africa"s underrepresentation:
 
 - **Scarce mycological exploration**: Most [[guzman-chlorophyllum-molybdites-toxic-edible-paradox-yoruba-divinatory-use]] was reported as hallucinogenic based on
   Yoruba common names ("eat and hear voices from heaven"), but

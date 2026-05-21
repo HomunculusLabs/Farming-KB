@@ -29,7 +29,7 @@ hallucinogenic effects.
 
 ## Mexico
 
-Mexico represents without doubt the world's richest area in diversity
+Mexico represents without doubt the world"s richest area in diversity
 and use of hallucinogens in aboriginal societies. The Peyote cactus
 is the most important sacred hallucinogen, though other cactus species
 serve as minor hallucinogens. Of almost equal importance are mushrooms,

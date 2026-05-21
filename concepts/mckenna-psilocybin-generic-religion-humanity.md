@@ -27,7 +27,7 @@ McKenna builds his case through the identification of mushroom-related motifs ac
 
 ### The Vedic Soma Cult
 
-The Rig Veda's nearly 120 hymns to Soma constitute "the earliest scriptural writings" of the Indo-European peoples. Soma is described as "the pillar of the World," a plant whose consumption grants visions, immortality, and divine knowledge. The ecstatic language of the Soma hymns — "great exciters of exhilaration," "swift as thought," "all-pervading" — is consistent with [[mckenna-dissolution-of-the-dominator-culture]]'s rejection of the mushroom religion. Yet Haoma survived even Zoroaster's ban, remaining "the central liturgical act of Zoroastrianism ever since that religion developed liturgical worship."
+The Rig Veda"s nearly 120 hymns to Soma constitute "the earliest scriptural writings" of the Indo-European peoples. Soma is described as "the pillar of the World," a plant whose consumption grants visions, immortality, and divine knowledge. The ecstatic language of the Soma hymns — "great exciters of exhilaration," "swift as thought," "all-pervading" — is consistent with [[mckenna-dissolution-of-the-dominator-culture]]"s rejection of the mushroom religion. Yet Haoma survived even Zoroaster's ban, remaining "the central liturgical act of Zoroastrianism ever since that religion developed liturgical worship."
 
 ### The Eleusinian Mysteries
 

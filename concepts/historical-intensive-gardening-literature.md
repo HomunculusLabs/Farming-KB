@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-The study of historical intensive gardening literature provides essential context for modern winter-harvest and year-round vegetable production. Many foundational techniques used today — including [[coleman-protected-cultivation]], intensive soil management, and [[succession-planting]] — were developed and refined by 19th and early 20th century European growers, particularly the French *maraîchers* (market gardeners) of Paris. [[eliot-coleman]]'s [[eliot-coleman-and-the-winter-harvest-handbook]] draws extensively on this body of work, providing an annotated reading list that serves as both a scholarly resource and a practical guide for growers seeking to deepen their understanding of these time-tested methods.
+The study of historical intensive gardening literature provides essential context for modern winter-harvest and year-round vegetable production. Many foundational techniques used today — including [[coleman-protected-cultivation]], intensive soil management, and [[succession-planting]] — were developed and refined by 19th and early 20th century European growers, particularly the French *maraîchers* (market gardeners) of Paris. [[eliot-coleman]]"s [[eliot-coleman-and-the-winter-harvest-handbook]] draws extensively on this body of work, providing an annotated reading list that serves as both a scholarly resource and a practical guide for growers seeking to deepen their understanding of these time-tested methods.
 
 ## The French Intensive Tradition
 
@@ -25,7 +25,7 @@ The [[parisian-market-gardening]] system (*la culture maraîchère*) that develo
   A practical manual from a working French grower, providing firsthand documentation of the techniques and systems used in Parisian market gardens.
 
 - **Curé, J. — *Ma pratique de la culture maraîchère ordinaire et forcée***
-  Another practitioner's manual documenting both ordinary and forced (protected) [[cannabis-sativa-indoor-cultivation-techniques]].
+  Another practitioner"s manual documenting both ordinary and forced (protected) [[cannabis-sativa-indoor-cultivation-techniques]].
 
 - **Moreau, J.G., and Daverne, J.J. — *Manual pratique de la culture maraîchère de Paris***
   A comprehensive practical manual covering the full scope of Parisian market gardening practice.
@@ -66,13 +66,13 @@ British growers and writers recognized the value of French intensive methods and
 
 First published in 1867, this is described as "the classic of classics" — the first American book devoted to market gardening. It inspired generations of growers to try commercial vegetable production and remains a valuable information source more than a century later.
 
-### Dreer, Henry A. — *Dreer's Vegetables Under Glass* (Philadelphia: Henry A. Dreer, 1896)
+### Dreer, Henry A. — *Dreer"s Vegetables Under Glass* (Philadelphia: Henry A. Dreer, 1896)
 
 Dreer was an obviously skilled practitioner who had traveled extensively and could comment knowledgeably on the techniques of other growers. His easy writing style and clear, concise information make this "a real gem" among historical greenhouse gardening references.
 
 ### Bailey, L.H. — *The Forcing Book* (New York: The Macmillan Company, 1897)
 
-A classic from [[liberty-hyde-bailey]], one of America's most important horticultural writers. The bulk of his information on protected cultivation remains just as valuable today as when it was first published.
+A classic from [[liberty-hyde-bailey]], one of America"s most important horticultural writers. The bulk of his information on protected cultivation remains just as valuable today as when it was first published.
 
 ### Nisley, Charles H. — *Starting Early Vegetable and Flowering Plants Under Glass* (New York: Orange Judd, 1929)
 
@@ -82,7 +82,7 @@ A very professional book covering plants, horticultural techniques, and the cons
 
 ### Kropotkin, Peter — *Fields, Factories and Workshops* (New York: G.P. Putnam's Sons, 1901)
 
-Prince Peter Kropotkin was a perceptive observer of the agricultural realities of his time. This small volume has been described in *The Ecologist* as "one of the canonical texts of the ecological tradition." Kropotkin's work provides important philosophical grounding for small-scale, intensive food production as a viable alternative to industrial agriculture.
+Prince Peter Kropotkin was a perceptive observer of the agricultural realities of his time. This small volume has been described in *The Ecologist* as "one of the canonical texts of the ecological tradition." Kropotkin"s work provides important philosophical grounding for small-scale, intensive food production as a viable alternative to industrial agriculture.
 
 ## Modern Technical References
 
@@ -97,7 +97,7 @@ The annotated bibliography also includes modern technical works essential for wi
   Translating as "Vegetables Under Covers," this professional technical manual for French growers covers every possible vegetable and every imaginable combination of high tunnels, low tunnels, reflective covers, floating covers, and heated and unheated greenhouses. Written for more [[fukuoka-natural-farming-temperate-climates]] than Maine, but no less valuable for its comprehensive coverage.
 
 - **Lawrence, William J.C. — *Science and the Glasshouse* (Edinburgh: Oliver and Boyd, 1948)**
-  Lawrence is noted as a favorite old-time greenhouse writer because he was tireless in trying to pin down what worked, what didn't, and why. His experiments are engaging to read and his conclusions have great practical value. His earlier work, *Seed and Potting Composts* (1939), served as an indispensable guide for formulating potting mixes.
+  Lawrence is noted as a favorite old-time greenhouse writer because he was tireless in trying to pin down what worked, what didn"t, and why. His experiments are engaging to read and his conclusions have great practical value. His earlier work, *Seed and Potting Composts* (1939), served as an indispensable guide for formulating potting mixes.
 
 - **Artiss, Percy — *Market Gardening* (London: W. H. & L. Collingridge Limited, 1948)**
   A little-known book by a competent grower who was "almost organic without saying so." His insistence that "the soil must be biologically healthy" aligns with modern organic principles, and he provides thorough coverage of every aspect of field and greenhouse cultivation.
@@ -107,7 +107,7 @@ The annotated bibliography also includes modern technical works essential for wi
 
 ### Grower Guide Series (Grower Books, London)
 
-A series of small professional volumes from England's leading growers' magazine, covering specific crops in detail:
+A series of small professional volumes from England"s leading growers' magazine, covering specific crops in detail:
 
 - *Blocks for Transplants* (Grower Guide No. 10, 1980)
 - *Cucumbers* (Grower Guide No. 15, 1983)

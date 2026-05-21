@@ -1,6 +1,6 @@
 ---
 title: Mushroom Biology and Life Cycle
-source: MushWorld, Mushroom Growers' Handbook 1: comparison-reishi-vs-oyster-mushroom-cultivation (2004)
+source: MushWorld, Mushroom Growers" Handbook 1: comparison-reishi-vs-oyster-mushroom-cultivation (2004)
 tags: [mushroom, cultivation, fungi, biology, life-cycle, mycology]
 created: 2026-05-11
 ---

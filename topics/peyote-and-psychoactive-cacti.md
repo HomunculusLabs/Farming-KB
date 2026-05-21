@@ -49,7 +49,7 @@ Effective doses range from 200–500 mg. Threshold effects begin around 100 mg, 
 
 Mescaline was first synthesized in the laboratory by Ernst Späth in 1919. This made it the first psychedelic to be both isolated from nature and produced synthetically.
 
-It is significantly less potent than synthetic analogues. 2C-B is active at 15–20 mg. But mescaline's long ceremonial history gives it unique cultural context among psychedelic compounds.
+It is significantly less potent than synthetic analogues. 2C-B is active at 15–20 mg. But mescaline"s long ceremonial history gives it unique cultural context among psychedelic compounds.
 
 ## The Full Alkaloid Profile — Beyond Mescaline
 

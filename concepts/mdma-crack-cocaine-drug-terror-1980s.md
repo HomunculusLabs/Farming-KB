@@ -46,7 +46,7 @@ not be translated into therapeutic practice.
 
 ## An Interrupted Symbiosis
 
-McKenna's broader argument was that an interrupted psychophysical
+McKenna"s broader argument was that an interrupted psychophysical
 symbiosis between humans and visionary plants is the unrecognized
 cause of the alienation of modernity.
 A worldwide attitude of fear toward drugs is fostered and manipulated

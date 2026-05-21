@@ -40,7 +40,7 @@ Within the visible spectrum, different wavelengths correspond to different colou
 - **Red light** has the longest wavelength in the visible range, around 620–700 nanometres
 - **Green, yellow, and orange** fall between blue and red in order of increasing wavelength
 
-The rainbow's colour pattern is not arbitrary — it is always oriented in the same direction, from short waves (blue/violet) through to long waves (red). This ordering reflects the underlying physics of wavelength and is consistent every time light is dispersed into its component colours, whether by a prism, a raindrop, or any other refractive medium.
+The rainbow"s colour pattern is not arbitrary — it is always oriented in the same direction, from short waves (blue/violet) through to long waves (red). This ordering reflects the underlying physics of wavelength and is consistent every time light is dispersed into its component colours, whether by a prism, a raindrop, or any other refractive medium.
 
 ## Human Photoreception
 
@@ -70,7 +70,7 @@ Each of these capabilities relies on specialised photoreceptor proteins that abs
 
 ## The Photoreceptor Antenna Analogy
 
-Chamovitz's comparison between photoreceptors and radio antennas is a central pedagogical device that runs throughout the book. Just as a radio antenna is physically tuned to the wavelength of the signal it is designed to receive, photoreceptor proteins are molecularly tuned to absorb specific wavelengths of electromagnetic radiation. A blue-light photoreceptor absorbs short wavelengths; a red-light photoreceptor absorbs long wavelengths. Plants possess multiple types of photoreceptors — cryptochromes for blue/UV light, phototropins for directional blue-light sensing, phytochromes for red and far-red light, and others — each tuned to a different part of the spectrum.
+Chamovitz"s comparison between photoreceptors and radio antennas is a central pedagogical device that runs throughout the book. Just as a radio antenna is physically tuned to the wavelength of the signal it is designed to receive, photoreceptor proteins are molecularly tuned to absorb specific wavelengths of electromagnetic radiation. A blue-light photoreceptor absorbs short wavelengths; a red-light photoreceptor absorbs long wavelengths. Plants possess multiple types of photoreceptors — cryptochromes for blue/UV light, phototropins for directional blue-light sensing, phytochromes for red and far-red light, and others — each tuned to a different part of the spectrum.
 
 This diversity of photoreceptors gives plants a multi-spectral view of their environment that far exceeds human visual capacity. While humans rely on just three types of cone photoreceptor (plus rod cells for low light), plants deploy an entire family of light-sensing proteins, each feeding information into different signalling cascades. The result is not "vision" in any anthropomorphic sense, but a genuinely perceptual system that extracts detailed, multi-dimensional information from the electromagnetic environment.
 
@@ -94,7 +94,7 @@ Chamovitz draws an important distinction between merely detecting light and actu
 
 Understanding the electromagnetic spectrum in this way reframes plant biology entirely. Plants are not passive organisms responding only to visible light. They are active, multi-spectral sensors continuously monitoring UV, visible, and infrared radiation to make sophisticated decisions about growth, defence, and reproduction.
 
-Chamovitz's treatment of the spectrum underscores a broader theme of the book: the sensory world of plants is richer and more complex than human perception alone would suggest, and much of what plants "know" about their environment is mediated through their extraordinary ability to read the electromagnetic spectrum. Recognising this capacity challenges the common assumption that plants are unfeeling, unperceiving organisms and opens the door to a more nuanced appreciation of plant intelligence and sensory ecology.
+Chamovitz"s treatment of the spectrum underscores a broader theme of the book: the sensory world of plants is richer and more complex than human perception alone would suggest, and much of what plants "know" about their environment is mediated through their extraordinary ability to read the electromagnetic spectrum. Recognising this capacity challenges the common assumption that plants are unfeeling, unperceiving organisms and opens the door to a more nuanced appreciation of plant intelligence and sensory ecology.
 
 ## See Also
 

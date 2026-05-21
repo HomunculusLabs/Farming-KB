@@ -23,7 +23,7 @@ bag, dried, and pressed into hash.
 
 ## Strain Suitability for Ice Water Hash
 
-Oner's strain reviews identify several characteristics that make strains particularly
+Oner"s strain reviews identify several characteristics that make strains particularly
 good candidates for water extraction:
 
 ### High Trichome Density
@@ -34,7 +34,7 @@ The most critical factor is abundant [[cannabis-glandular-trichome-types-resin-p
 - **Harlequin**: "Bred specifically to produce some high-grade hash and oils"
 - **Jack 47**: "Phenomenal amount of resin production" with "layers of velvet"
   textured flowers ideal for extraction
-- **Psycho Killer [[bubba-kush]]**: Buds "so resinous that you'd be a fool not to make
+- **Psycho Killer [[bubba-kush]]**: Buds "so resinous that you"d be a fool not to make
   hash from them"
 - **Nepalese Temple**: Produces "finer hash" indicating quality trichome separation
 
@@ -46,7 +46,7 @@ The physical nature of the resin affects how well it separates in water:
   abundant, accessible trichome heads
 - Plants where the resin is so thick "you can barely tell there are any buds there
   and it looks like someone just threw a bag of sugar at a tree" (Green Haven
-  Genetics' strain) are ideal candidates
+  Genetics" strain) are ideal candidates
 - Sticky, Velcro-like resin catches on tools and fingers, indicating trichome heads
   that separate readily
 

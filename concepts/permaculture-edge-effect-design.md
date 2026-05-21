@@ -23,7 +23,7 @@ The edge effect is one of the most powerful concepts in permaculture design. Bot
 
 An edge is the boundary or interface between two different systems, habitats, or conditions -- forest and meadow, land and water, sun and shade, warm and cool. At these interfaces, species from both systems coexist, plus unique species adapted to the edge conditions itself. This overlap creates greater biodiversity and ecological activity than either system alone.
 
-Mollison describes edge as "that steel-strong film, the surface between the water and the air; it's that zone around a soil particle to which water bonds with such fantastic force. It's the shoreline between land and water. It is the interface between forest and grassland."
+Mollison describes edge as "that steel-strong film, the surface between the water and the air; it"s that zone around a soil particle to which water bonds with such fantastic force. It's the shoreline between land and water. It is the interface between forest and grassland."
 
 ## Why Edge Matters
 

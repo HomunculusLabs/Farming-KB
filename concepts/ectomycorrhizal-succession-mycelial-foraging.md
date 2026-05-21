@@ -18,7 +18,7 @@ Fleming et al. (1986) first proposed the concept of mycorrhizal succession based
 
 ### Linking Succession to Nutrient Resource Changes
 
-Dighton and Mason (1985) and Last et al. (1987) linked mycorrhizal succession to changes in the nutrient resources available in the forest floor. The general pattern agrees with Read's (1991a) framework:
+Dighton and Mason (1985) and Last et al. (1987) linked mycorrhizal succession to changes in the nutrient resources available in the forest floor. The general pattern agrees with Read"s (1991a) framework:
 
 - **Early-stage forests**: High-quality litter inputs with low C:N ratios favor ECM fungi adapted for inorganic nutrient uptake
 - **Late-stage/mature forests**: Accumulation of recalcitrant materials favors ECM fungi with greater enzyme competency for organic nutrient access

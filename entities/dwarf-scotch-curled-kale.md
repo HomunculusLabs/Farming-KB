@@ -7,7 +7,7 @@ tags: [cultivar, kale, brassica, winter-harvest, scottish-heirloom]
 
 ## Description
 
-'Dwarf Scotch Curled' is a traditional kale cultivar (*[[brassica-oleracea]]* var. *sabellica*) noted for its deeply frilled, finely curled blue-green leaves and compact growth habit. In Eliot Coleman's winter production system, it is valued for producing exceptionally sweet inner leaves during the coldest months under inner row-cover protection.
+"Dwarf Scotch Curled' is a traditional kale cultivar (*[[brassica-oleracea]]* var. *sabellica*) noted for its deeply frilled, finely curled blue-green leaves and compact growth habit. In Eliot Coleman's winter production system, it is valued for producing exceptionally sweet inner leaves during the coldest months under inner row-cover protection.
 
 ## Classification
 

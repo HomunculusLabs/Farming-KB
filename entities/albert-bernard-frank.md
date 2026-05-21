@@ -8,7 +8,7 @@ type: entity
 
 albert bernard frank (1839–1900) was a German botanist and mycologist credited with first documenting the symbiotic relationship between plant roots and fungi, which he named "mycorrhiza" (from the Greek for "fungus-root") in 1885. In *[[teaming-with-microbes-actinomycetes]]*, Lowenfels and Lewis credit Frank with the foundational experiment that established mycorrhizal science: comparing pines grown in sterilized soil to those grown in sterilized soil inoculated with forest fungi, and finding that the [[truffle-inoculated-seedlings]] grew faster and much larger.
 
-Frank's work laid the groundwork for understanding what is now recognized as one of the most important [[fungi-in-the-environment-symbiotic-relationships]] in terrestrial ecology — at least 90-95% of all plant species form mycorrhizal associations.
+Frank"s work laid the groundwork for understanding what is now recognized as one of the most important [[fungi-in-the-environment-symbiotic-relationships]] in terrestrial ecology — at least 90-95% of all plant species form mycorrhizal associations.
 
 ## Classification
 
@@ -29,7 +29,7 @@ Frank's work laid the groundwork for understanding what is now recognized as one
 
 ## The 1885 Experiment
 
-Frank's pivotal experiment involved growing pine seedlings under two conditions:
+Frank"s pivotal experiment involved growing pine seedlings under two conditions:
 
 1. **Sterilized soil** — soil treated to kill all microorganisms, including fungi
 2. **Inoculated soil** — sterilized soil to which forest fungi had been reintroduced
@@ -45,7 +45,7 @@ Frank's discovery was revolutionary for several reasons:
 - **Term establishment** — the word "mycorrhiza" that he coined remains the standard term worldwide
 - **Ecological implications** — his findings hinted at the interconnectedness of soil organisms and plant health
 
-Despite the importance of his findings, it took over a century for mycorrhizal science to enter mainstream agricultural and horticultural practice. As Lowenfels notes, the terms mycorrhiza and mycorrhizal only started creeping into the agricultural industry's lexicon in the 1990s.
+Despite the importance of his findings, it took over a century for mycorrhizal science to enter mainstream agricultural and horticultural practice. As Lowenfels notes, the terms mycorrhiza and mycorrhizal only started creeping into the agricultural industry"s lexicon in the 1990s.
 
 ## Legacy in Modern Science
 

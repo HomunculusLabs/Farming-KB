@@ -78,7 +78,7 @@ Several features recur across shamanic psychedelic traditions:
 2. **Structured ceremony**: Use occurs within ritual frameworks involving preparation, specific protocols, and post-experience integration.
 3. **Guided experience**: An experienced practitioner (shaman, curandero, healer) guides the session through songs, prayers, or other techniques.
 4. **Spirit intermediary**: The plant is understood not as a drug but as an active intelligence or spirit that communicates with the practitioner.
-5. **Community context**: The experience typically serves not just the individual but the community's wellbeing.
+5. **Community context**: The experience typically serves not just the individual but the community"s wellbeing.
 6. **Dietary and behavioral preparation**: Practitioners typically observe dietary restrictions, sexual abstinence, and other preparations before ceremonies.
 7. **Song/music as technology**: Icaros (magical curing songs), chants, and drumming are understood as active technologies for shaping the visionary experience.
 

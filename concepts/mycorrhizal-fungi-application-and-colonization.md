@@ -104,7 +104,7 @@ Glomalin is a sticky substance produced by many soil organisms — not just vesi
 
 - Many bacteria produce glues that hold themselves to soil particles
 - VAM fungi also produce these compounds
-- R.C. Foster's work in Australia ("The Ultrastructure of the Rhizosphere") documented these sticky materials long before they were named glomalin
+- R.C. Foster"s work in Australia ("The Ultrastructure of the Rhizosphere") documented these sticky materials long before they were named glomalin
 
 ### Significance
 

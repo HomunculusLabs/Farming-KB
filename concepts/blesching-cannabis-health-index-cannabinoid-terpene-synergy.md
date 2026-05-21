@@ -10,10 +10,10 @@ tags: [cannabis]
 
 ## Cannabinoid-Terpene Synergy
 
-How cannabinoids, terpenes, and spice-based compounds work together synergistically, from Blesching's "The [[cannabis-terpene-entourage-effect-profiles]], (E)-beta-caryophyllene as a food-based cannabinoid, [[cbd-therapeutic-effects]]. The whole plant produces greater efficacy than isolated compounds:
+How cannabinoids, terpenes, and spice-based compounds work together synergistically, from Blesching"s "The [[cannabis-terpene-entourage-effect-profiles]], (E)-beta-caryophyllene as a food-based cannabinoid, [[cbd-therapeutic-effects]]. The whole plant produces greater efficacy than isolated compounds:
 
 - All types of cannabinoids (endogenous, plant-based, synthetic) plus non-cannabinoid plant constituents show anti-inflammatory action
-- THC and CBD work together: CBD tames THC's psychoactive effects while amplifying its [[cannabis-for-cachexia-and-appetite-stimulation]]
+- THC and CBD work together: CBD tames THC"s psychoactive effects while amplifying its [[cannabis-for-cachexia-and-appetite-stimulation]]
 
 ### CBD (Cannabidiol)
 - Non-psychoactive; higher affinity for CB2 receptors

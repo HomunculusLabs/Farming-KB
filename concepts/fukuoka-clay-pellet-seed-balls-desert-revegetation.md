@@ -1,5 +1,5 @@
 ---
-title: "Fukuoka's Clay Pellet Seed Balls for Desert Revegetation"
+title: "Fukuoka"s Clay Pellet Seed Balls for Desert Revegetation"
 tags:
   - concept
 ---
@@ -23,7 +23,7 @@ Science rarely looks to microorganisms for an understanding of large causal
 relationships. True, the perishing of vegetation may have triggered a drought,
 but the plants may have died as a result of the action of some microorganism.
 Botanists are not to be bothered with microorganisms as these lie outside their
-field of interest. "We've gathered together such a diverse collection of
+field of interest. "We"ve gathered together such a diverse collection of
 specialists that we've lost sight of both the starting line and the finish
 line."
 

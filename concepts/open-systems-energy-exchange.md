@@ -17,7 +17,7 @@ The [[biogas-digester]] where anaerobic organisms convert it to methane, usable 
 
 This cascade illustrates a core permaculture strategy: rather than achieving a single function from any resource, design pathways that yield a variety of resources from each input.
 
-## Birch's Six Principles of Natural Systems
+## Birch"s Six Principles of Natural Systems
 
 Paul Birch articulated six principles that govern the behavior of natural systems, each carrying important design implications:
 

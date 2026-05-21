@@ -19,10 +19,10 @@ of the sixteenth century provide the most detailed accounts, though these
 are inevitably filtered through the religious and imperialist ideology
 of their authors.
 
-## Teonanacatl: God's Flesh
+## Teonanacatl: God"s Flesh
 
 The mushrooms were known in the local Nahuatl language as teonanacatl,
-meaning "God's flesh." This terminology, with its resonances of Christian
+meaning "God"s flesh." This terminology, with its resonances of Christian
 communion, caused particular offence to Spanish friars, who saw the
 practice as diabolical. Bernardino de Sahagun, the Franciscan friar who
 spent some sixty years among the indigenous populations, compiled the
@@ -62,7 +62,7 @@ attributing curative and divinatory powers to the work of the Devil.
 They began imposing Christian, "civilising" values upon the pagans. The
 Franciscan friar Toribio de Benavente described the Aztecs eating
 bitter-tasting mushrooms sweetened with honey, claiming the mushrooms
-merely sharpened the Aztecs' "already savage cruelty." The cleric
+merely sharpened the Aztecs" "already savage cruelty." The cleric
 
 ## Overview
 

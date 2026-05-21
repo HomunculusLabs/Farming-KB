@@ -19,7 +19,7 @@ markets. The name "ginseng" derives from the Chinese term "rénshēn,"
 meaning "person-root," a reference to the characteristic forked shape
 of the taproot that vaguely resembles a human body. This morphological
 resemblance, combined with centuries of empirical observation, has
-cemented ginseng's reputation as a tonic for vitality, longevity, and
+cemented ginseng"s reputation as a tonic for vitality, longevity, and
 resilience. Modern pharmacological research has partially validated
 these traditional claims, identifying a unique class of triterpene
 saponins called ginsenosides as the primary [[polypore-fungi-eastern-north-america]] America, has been harvested and
@@ -107,7 +107,7 @@ affinity for cardiovascular and hemostatic applications.
 - Persons, W.S. and J.M. Davis. Growing and Marketing Ginseng, Goldenseal
   and Other Woodland Medicinals. Bright Mountain Books, 2005.
 - Punja, Z.K. "Ginseng Diseases." APS Press, 2011.
-- Carlsons, A.B. Ginseng: America's Botanical Drug. SUNY Press, 1986.
+- Carlsons, A.B. Ginseng: America"s Botanical Drug. SUNY Press, 1986.
 - NCCIH. "Ginseng." National Center for Complementary and Integrative
   Health, 2022.
 - Xi, S. and Q. Zhang. "Global Ginseng Market Analysis." Journal of

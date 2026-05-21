@@ -48,11 +48,11 @@ The method originated with Alan Chadwick, who developed the biointensive approac
 
 ## International Impact
 
-The method has been adopted in numerous countries worldwide. By 1980, the Shri A.M.M. Murugappa Chettier Research Centre in India reported successful use. A biointensive project was established in China following the Third International Conference on Small-Scale and Intensive Food Production. U.S. Secretary of Agriculture Bob Bergland noted in 1981 that Ecology Action's work was "10 years ahead of its time."
+The method has been adopted in numerous countries worldwide. By 1980, the Shri A.M.M. Murugappa Chettier Research Centre in India reported successful use. A biointensive project was established in China following the Third International Conference on Small-Scale and Intensive Food Production. U.S. Secretary of Agriculture Bob Bergland noted in 1981 that Ecology Action"s work was "10 years ahead of its time."
 
 ## Sustainability Claims
 
-When properly used, GROW BIOINTENSIVE claims to build soil up to 60 times faster than natural processes. University of California soil science tests showed an "unexpected accelerated rate of humified carbon buildup, a process that normally takes hundreds of years." The method's emphasis on closed-loop nutrient cycling means that external inputs are minimized, and soil fertility increases over time rather than depleting.
+When properly used, GROW BIOINTENSIVE claims to build soil up to 60 times faster than natural processes. University of California soil science tests showed an "unexpected accelerated rate of humified carbon buildup, a process that normally takes hundreds of years." The method"s emphasis on closed-loop nutrient cycling means that external inputs are minimized, and soil fertility increases over time rather than depleting.
 
 ## Relevance to Cultivation
 

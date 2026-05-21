@@ -11,7 +11,6 @@ updated: 2026-05-08
 sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
   - PROTA (Plant Resources of Tropical Africa). "Trichosanthes cucumerina L." Record 7873.---
----
 
 ## Overview
 

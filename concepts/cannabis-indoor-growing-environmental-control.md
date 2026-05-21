@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-Indoor cannabis cultivation requires precise control of environmental variables including soil conditions, pH, nutrients, air quality, humidity, and temperature. [[greg-green]]'s "The Cannabis Grow Bible" provides comprehensive guidance on managing these parameters across the vegetative and flowering stages. This concept page summarizes the core environmental control principles for indoor cannabis cultivation.
+Indoor cannabis cultivation requires precise control of environmental variables including soil conditions, pH, nutrients, air quality, humidity, and temperature. [[greg-green]]"s "The Cannabis Grow Bible" provides comprehensive guidance on managing these parameters across the vegetative and flowering stages. This concept page summarizes the core environmental control principles for indoor cannabis cultivation.
 
 ## Soil Control
 

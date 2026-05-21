@@ -12,12 +12,12 @@ created: 2026-04-28
 [[fukuoka-critique-western-dietetics-nutritional-science]] and
 Eastern yin-yang dietary systems.
 
-## Nature's Food Mandala
+## Nature"s Food Mandala
 
 Fukuoka drew two mandala diagrams. The first arranged foods in groups according to what people can most
 easily obtain. The second showed foods as available during the various months of the year. Together
 they demonstrated that the sources of food on earth are nearly limitless. If people acquire food
-through "no-mind," even without knowledge of yin-yang theory, they can attain a perfect [[disappearance-natural-diet]] lies right at one's feet. The mandala serves as a temporary guide, but Fukuoka says:
+through "no-mind," even without knowledge of yin-yang theory, they can attain a perfect [[disappearance-natural-diet]] lies right at one"s feet. The mandala serves as a temporary guide, but Fukuoka says:
 "You can throw that away too after you have seen it once." The prime consideration is for a person to
 develop the sensitivity to allow the body to choose food by itself.
 

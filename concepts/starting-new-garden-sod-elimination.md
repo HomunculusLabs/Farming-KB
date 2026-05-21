@@ -26,7 +26,7 @@ In warmer climates (Deep South, most of California, Australia), the task can be 
 2. Cradle the ball in your palm and press firmly on it with your thumb.
 3. **Breaks apart and crumbles** → soil is ready to work.
 4. **Plastic, thumb makes a dent** → too wet — wait for drying.
-5. **Won't form a ball** → either no clay (can work anytime) or too dry.
+5. **Won"t form a ball** → either no clay (can work anytime) or too dry.
 
 **Consequences of working soil at the wrong moisture:**
 - **Too wet:** Forms rock-hard clods that persist all season; seeds won't germinate well; roots can't penetrate.

@@ -60,7 +60,7 @@ leaf sensors provide several advantages:
    or damaged, other leaves continue monitoring light conditions
 
 2. **Averaging**: Multiple sensors reduce noise from brief light
-   fluctuations (clouds, passing animals) that shouldn't trigger
+   fluctuations (clouds, passing animals) that shouldn"t trigger
    a [[mollison-designers-day-length-and-flowering-response]]
 
 3. **Canopy integration**: Leaves at different positions in the

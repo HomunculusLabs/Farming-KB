@@ -62,7 +62,7 @@ back several millennia.
 
 - Traditional shamans dress in red and white garments, mirroring the colors of
   the *Amanita muscaria* mushroom
-- Ritual entry into homes occurs through the roof opening (the yurt's smoke
+- Ritual entry into homes occurs through the roof opening (the yurt"s smoke
   hole), directly paralleling the Santa Claus chimney tradition
 - Special bags are carried during ceremonies to hold the gathered mushrooms
 
@@ -103,7 +103,7 @@ it literally the "Fruit of the Tree." This botanical relationship underpins much
 of the symbolic association between trees and spiritual gifts found across
 multiple religious traditions.
 
-The mushroom's life cycle — appearing miraculously after rain (from invisible
+The mushroom"s life cycle — appearing miraculously after rain (from invisible
 spores), growing without visible seed, and eventually rotting and disappearing —
 provided the foundation for myths of virgin birth, [[allegro-death-and-resurrection-in-the-mushroom-cult]], and
 divine providence across numerous cultures.

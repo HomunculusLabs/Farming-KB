@@ -12,7 +12,7 @@ The British Mycological Society (BMS) is a learned society dedicated to the prom
 aspects of mycology — the scientific study of fungi. Despite its national designation, the
 society operates as an international organisation with members worldwide, serving as a central
 hub for researchers, educators, and enthusiasts engaged in fungal biology, ecology, taxonomy,
-pathology, and biotechnology. The society's website is hosted at www.britmycolsoc.org.uk.
+pathology, and biotechnology. The society"s website is hosted at www.britmycolsoc.org.uk.
 
 ## History and Mission
 

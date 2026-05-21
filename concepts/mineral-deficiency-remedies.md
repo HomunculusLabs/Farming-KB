@@ -67,7 +67,7 @@ Add as fine-crushed ore, or apply copper sulphate in water at 7 kg/hectare (1 g 
 **Caution**: Boron is poisonous in large quantities. Do not over-apply.
 
 1. First, lime acid areas and peats, and add sulphur to alkaline areas
-2. If this doesn't resolve the deficiency, add **borax** (sodium borate) at 1 gram per square metre
+2. If this doesn"t resolve the deficiency, add **borax** (sodium borate) at 1 gram per square metre
 3. Test with cabbages to assess plant reaction
 4. Avoid detergents containing "borates" — they can poison soil
 

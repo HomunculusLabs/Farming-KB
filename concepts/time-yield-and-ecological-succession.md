@@ -12,7 +12,7 @@ Time is one of the most critical resources in any ecological system, yet it is t
 
 ## Complexity and Standing Crop
 
-### Carlander's Finding on Species Diversity
+### Carlander"s Finding on Species Diversity
 
 Research by [[permaculture]] philosophy. Natural systems already produce abundantly — they produce food, fiber, fuel, medicine, habitat, clean water, and stable climate as an integrated whole. The "economic" systems that replace them typically produce only one commodity while degrading or destroying all other yields. Mollison argues that we should be managing for total system yield, not for the simplified monetary output that conventional economics privileges.
 
@@ -22,7 +22,7 @@ Research by [[permaculture]] philosophy. Natural systems already produce abundan
 
 Permaculture grounds economics in **energy return, not monetary return**. Money is a poor measure of real wealth because it can be manipulated, inflated, and decoupled from physical reality. Energy, by contrast, obeys thermodynamic laws that cannot be legislated away. A system that returns more energy than it consumes is viable; one that does not will inevitably fail.
 
-Mollison's dictum is clear and uncompromising: **"Any system which wastes energy must fail."** This applies to agriculture, architecture, industry, and society alike. Every bit of energy wasted on unnecessary transport, on chemical inputs that destroy [[soil-life]], on monocultures that require constant [[beneficial-insects-and-biological-pest-control]], is energy that the system cannot use for its own maintenance and growth. The measure of a good design is not its profitability in dollars but its efficiency in energy terms.
+Mollison"s dictum is clear and uncompromising: **"Any system which wastes energy must fail."** This applies to agriculture, architecture, industry, and society alike. Every bit of energy wasted on unnecessary transport, on chemical inputs that destroy [[soil-life]], on monocultures that require constant [[beneficial-insects-and-biological-pest-control]], is energy that the system cannot use for its own maintenance and growth. The measure of a good design is not its profitability in dollars but its efficiency in energy terms.
 
 ## Succession and the Accumulation of Species
 
@@ -34,7 +34,7 @@ Hedgerows follow the same trajectory. What begins as a simple planted windbreak 
 
 ### Dominants and Hyper-Predators
 
-As systems mature, they tend to be increasingly dominated by large, long-lived organisms — canopy trees in forests, apex predators in grasslands, large fish in lakes. These dominants and **hyper-predators represent end [[holmgren-built-environment-household-energy-storage]]**: they are the system's way of locking accumulated energy into stable, long-lived forms. While they are essential to the system's integrity, their dominance can also slow energy flow, as more and more of the system's productivity is tied up in their maintenance rather than in the rapid cycling that characterizes younger, more dynamic communities.
+As systems mature, they tend to be increasingly dominated by large, long-lived organisms — canopy trees in forests, apex predators in grasslands, large fish in lakes. These dominants and **hyper-predators represent end [[holmgren-built-environment-household-energy-storage]]**: they are the system"s way of locking accumulated energy into stable, long-lived forms. While they are essential to the system's integrity, their dominance can also slow energy flow, as more and more of the system's productivity is tied up in their maintenance rather than in the rapid cycling that characterizes younger, more dynamic communities.
 
 ## Disturbance and Renewal
 
@@ -72,7 +72,7 @@ Time, like any resource, can be over-supplied or under-supplied relative to syst
 
 When **too little time** is available — when systems are constantly disturbed, when succession is never allowed to proceed, when organisms are harvested before they can reproduce — the system operates below peak yield. It never reaches the productivity that comes with maturity and complexity.
 
-The designer's task is to find the balance: to allow enough time for systems to develop complexity and accumulate biomass, while introducing enough disturbance to maintain energy flow and prevent stagnation.
+The designer"s task is to find the balance: to allow enough time for systems to develop complexity and accumulate biomass, while introducing enough disturbance to maintain energy flow and prevent stagnation.
 
 ## Age, Disease, and Insurance
 

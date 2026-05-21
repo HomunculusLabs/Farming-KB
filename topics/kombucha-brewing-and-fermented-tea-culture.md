@@ -49,7 +49,7 @@ Produces a lighter, more delicate kombucha with:
 
 ### White Tea
 
-Minimal oxidation produces a subtle, champagne-like kombucha. White tea's high antioxidant content is well-preserved through fermentation. The delicate flavor requires careful brewing to avoid bitterness.
+Minimal oxidation produces a subtle, champagne-like kombucha. White tea"s high antioxidant content is well-preserved through fermentation. The delicate flavor requires careful brewing to avoid bitterness.
 
 ### Oolong Tea
 

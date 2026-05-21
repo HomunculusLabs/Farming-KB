@@ -4,7 +4,7 @@ created: 2026-04-16
 updated: 2026-04-16
 type: concept
 tags: [mycology, fungi]
-sources: ['raw/papers/geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-env.md']
+sources: ["raw/papers/geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-env.md']
 ---
 ## Fungi in Stressful Environments
 ## Overview

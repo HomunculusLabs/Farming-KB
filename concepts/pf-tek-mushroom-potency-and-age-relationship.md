@@ -30,7 +30,7 @@ One of the most important and counterintuitive findings in [[cannabis-yield-opti
 
 "It has been scientifically proven that the small immature specimens are significantly more potent than the larger mature specimens." This is not a matter of subjective perception but a measurable difference in [[abort-harvesting-alkaloid-concentration-pf-tek]] per unit of dried weight.
 
-As a mushroom matures and its cap expands "like an umbrella," the mushroom's size increases substantially, but "by weight the potency will decrease." The total alkaloid content may increase slightly with size, but the concentration (mg of psilocybin/psilocin per gram of dried material) decreases significantly.
+As a mushroom matures and its cap expands "like an umbrella," the mushroom"s size increases substantially, but "by weight the potency will decrease." The total alkaloid content may increase slightly with size, but the concentration (mg of psilocybin/psilocin per gram of dried material) decreases significantly.
 
 ### Visual Indicators of Maturity
 
@@ -75,7 +75,7 @@ While individual aborts are tiny, "several cakes will produce quite a pile of th
 
 ### Conditions for Maximum Potency
 
-Gartz's findings establish that achieving this potency level "entirely depends" on four factors:
+Gartz"s findings establish that achieving this potency level "entirely depends" on four factors:
 
 1. **Substrate**: Brown rice as the [[spore-production-geotropic-sensitivity-coupling-basidiomycete-badham-1982]] begins)
 4. **Harvesting and preservation**: Cool [[mushroom-desiccant-drying-methods]], or consumption fresh

@@ -1,5 +1,5 @@
 ---
-title: "Fukuoka's Complete fukuoka-creating-natural-farm-site-selection-establishment: fukuoka-textdoc-clover-decline-and-weed-succession-orchard as a Guide to cover-crop-selection-guide"
+title: "Fukuoka"s Complete fukuoka-creating-natural-farm-site-selection-establishment: fukuoka-textdoc-clover-decline-and-weed-succession-orchard as a Guide to cover-crop-selection-guide"
 source: masanobu-fukuoka-the-natural-way-of-farming-the-theory
 topics: natural-farming, weed-ecology, crop-selection, succession, intercropping, polyculture
 ---

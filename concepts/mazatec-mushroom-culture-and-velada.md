@@ -19,7 +19,7 @@ as "saints" or "saint children" (santitos).
 
 If a curandero proves worthy, the saint children will impart information or
 speak through the healer in improvised, poetic chants that are believed to
-possess genuine healing power. The mushroom's "voice" reveals the cause and cure
+possess genuine healing power. The mushroom"s "voice" reveals the cause and cure
 of illnesses and can indicate the location of lost or stolen property.
 
 ## The Velada Ceremony

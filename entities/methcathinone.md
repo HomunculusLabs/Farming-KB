@@ -10,7 +10,7 @@ Methcathinone (2-(methylamino)-1-phenylpropan-1-one) is a synthetic stimulant be
 
 In the Soviet Union and later Russia, methcathinone became widely known by the street name "ephedrone." It was prepared illicitly from readily available ephedrine or pseudoephedrine through a simple oxidation process using potassium permanganate. The drug gained notoriety for its high abuse potential and the severe neurological damage observed in long-term users, particularly a debilitating Parkinsonian syndrome. This neurotoxic profile distinguished it from other stimulants of the era and made it a subject of particular concern among public health officials.
 
-Epidemiological data from the former Soviet Union suggest that methcathinone use peaked in the late 1980s and early 1990s before declining in the face of legal restrictions. However, sporadic outbreaks of use have continued to be documented, and the compound's simple synthesis ensures it remains a recurring concern.
+Epidemiological data from the former Soviet Union suggest that methcathinone use peaked in the late 1980s and early 1990s before declining in the face of legal restrictions. However, sporadic outbreaks of use have continued to be documented, and the compound"s simple synthesis ensures it remains a recurring concern.
 
 The [[controlled-substances-act-and-psychedelic-research]] in 1993. The drug was encountered relatively rarely in Western markets compared to other cathinones, but its pharmacological profile established the template for understanding the entire cathinone class. Its effects and risks closely mirror those of methamphetamine, making it a textbook example of beta-ketone stimulant pharmacology.
 

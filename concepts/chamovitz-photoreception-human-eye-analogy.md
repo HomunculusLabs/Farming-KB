@@ -42,7 +42,7 @@ person could differentiate between night and day, inside and outside.
 would enable new levels of function." Now imagine further enhancing
 this ability so the person can discern color — blue above and green
 below. "This fundamental change — from total blindness to seeing colour
-— is definitely 'vision' for this person."
+— is definitely "vision' for this person."
 
 By this standard, plants clearly possess vision. They can detect light,
 discriminate between colors, determine direction, measure duration, and
@@ -60,7 +60,7 @@ Plants perceive light across a broader spectrum than humans:
 Plants use this information in remarkably specific ways:
 
 - They know if you come near them or stand over them
-- They can tell if you're wearing blue or red
+- They can tell if you"re wearing blue or red
 - They know if you've painted your house or moved their pots
 - They detect if another plant has grown over them, blocking light
 - They know how long the lights have been on

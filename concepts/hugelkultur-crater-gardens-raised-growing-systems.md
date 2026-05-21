@@ -40,7 +40,7 @@ Crater gardens are sunken growing areas—essentially the inverse of hugelkultur
 
 ### The Microclimate Effect
 
-"It creates a moist and warm climate, ideal for heat-loving and sensitive plants." The crater's shape provides:
+"It creates a moist and warm climate, ideal for heat-loving and sensitive plants." The crater"s shape provides:
 - **Wind protection**: The banks shield the growing area from wind
 - **Heat trapping**: Sun-warmed air collects in the depression
 - **Moisture retention**: The sunken position brings plants closer to groundwater
@@ -88,7 +88,7 @@ When old vegetable varieties are grown in natural, diverse conditions, they ofte
 
 ### The Selection Process
 
-"I help it by always choosing the plants with the best yield and taste." Holzer's role is that of a guide rather than a creator: he provides the conditions for diversity to express itself and then selects the best outcomes.
+"I help it by always choosing the plants with the best yield and taste." Holzer"s role is that of a guide rather than a creator: he provides the conditions for diversity to express itself and then selects the best outcomes.
 
 ### Stabilization
 
@@ -96,7 +96,7 @@ When old vegetable varieties are grown in natural, diverse conditions, they ofte
 
 ### Naming and Ownership
 
-"I have now developed my own variety and I could even give it a name." The development of named varieties connects Holzer's work to the long tradition of farmer-breeding that produced the original regional crop varieties.
+"I have now developed my own variety and I could even give it a name." The development of named varieties connects Holzer"s work to the long tradition of farmer-breeding that produced the original regional crop varieties.
 
 ### Marketing Challenges
 

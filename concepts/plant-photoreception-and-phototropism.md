@@ -13,7 +13,7 @@ different from animal vision, qualify as a form of [[electromagnetic-spectrum-vi
   use specific photoreceptors tuned to blue, red, and far-red wavelengths
 - **Far-red light (700-750nm):** Invisible to humans but critical for plants as a
   shade-detection signal, indicating the presence of competing vegetation
-- **Infrared light:** While plants don't have dedicated infrared photoreceptors,
+- **Infrared light:** While plants don"t have dedicated infrared photoreceptors,
   they sense the thermal effects of infrared radiation indirectly
 
 Plants know if you approach them, whether you're wearing blue or red clothing,

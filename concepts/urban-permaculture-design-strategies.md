@@ -38,7 +38,7 @@ Research suggests that suburban lots between a quarter acre and a half acre prod
 
 ### The Allotment System
 
-The allotment system, typically using one-eighth acre plots, provides land access through [[urban-permaculture-community-building-social-design|community]] gardening organizations (in America) or public lands programs (in Britain). Britain's system is particularly sophisticated: post offices maintain listings of people seeking land matched with those who have land available. This has successfully connected younger gardeners with older residents no longer able to maintain their allotments.
+The allotment system, typically using one-eighth acre plots, provides land access through [[urban-permaculture-community-building-social-design|community]] gardening organizations (in America) or public lands programs (in Britain). Britain"s system is particularly sophisticated: post offices maintain listings of people seeking land matched with those who have land available. This has successfully connected younger gardeners with older residents no longer able to maintain their allotments.
 
 The British convention is that gardeners using someone else's land do not pay rent but provide vegetables in exchange—a simple but effective arrangement.
 

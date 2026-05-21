@@ -26,7 +26,7 @@ counter-agenda. Once the various parties attempting to gain control of
 the situation recognized this, they were able to agree on one thing:
 that LSD be stopped.
 
-## The CIA's Role in the Psychedelic Underground
+## The CIA"s Role in the Psychedelic Underground
 
 How and by whom LSD was suppressed is a story well told by Jay Stevens
 in Storming Heaven and Martin Lee and Bruce Shlain in Acid Dreams.

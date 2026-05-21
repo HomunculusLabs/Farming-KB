@@ -15,7 +15,7 @@ Diabetes mellitus is one of the major public-health concerns of the twenty-first
 
 Ancient physicians used the Greek word diabetes, meaning "fountain," due to their observation of frequent urination in diabetic patients. Mellitus derives from the Greek word for "honey," reflecting the sweet-tasting urine. Diabetes is a disease related to the pancreas, a small gland behind the stomach that produces hormones such as insulin and glucagon as well as digestive enzymes.
 
-Orthodox medicine categorizes diabetes into three types. Type I diabetes (formerly "juvenile diabetes") occurs when the pancreas stops producing insulin. Type II diabetes (adult-onset) is the most common form, where the pancreas either does not produce enough insulin or the body's cells are insensitive to it. Gestational diabetes occurs during some pregnancies and usually self-corrects after delivery.
+Orthodox medicine categorizes diabetes into three types. Type I diabetes (formerly "juvenile diabetes") occurs when the pancreas stops producing insulin. Type II diabetes (adult-onset) is the most common form, where the pancreas either does not produce enough insulin or the body"s cells are insensitive to it. Gestational diabetes occurs during some pregnancies and usually self-corrects after delivery.
 
 ## Insulin and Leptin Resistance
 

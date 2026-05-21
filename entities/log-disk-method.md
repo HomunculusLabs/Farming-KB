@@ -54,7 +54,7 @@ The log disk method is faster to colonize and fruit compared to the wafering met
 
 ## Relevance to Cultivation and Mycology
 
-The log disk method demonstrates how a small amount of cardboard spawn can be leveraged into a large-scale inoculation operation through systematic expansion. It provides a middle ground between low-tech cardboard cultivation and laboratory-based [[spawn-production]], requiring only basic tools (a chainsaw) and colonized cardboard. The method's emphasis on maintaining "mother" cultures for expansion while fruiting downstream rounds mirrors agricultural practices of keeping seed stock separate from harvest stock.
+The log disk method demonstrates how a small amount of cardboard spawn can be leveraged into a large-scale inoculation operation through systematic expansion. It provides a middle ground between low-tech cardboard cultivation and laboratory-based [[spawn-production]], requiring only basic tools (a chainsaw) and colonized cardboard. The method"s emphasis on maintaining "mother" cultures for expansion while fruiting downstream rounds mirrors agricultural practices of keeping seed stock separate from harvest stock.
 
 ## See Also
 

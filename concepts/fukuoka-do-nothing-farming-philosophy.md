@@ -9,7 +9,7 @@ sources:
 ---
 ## Fukuoka Do-Nothing Farming Philosophy
 
-The concept of "doing nothing" is the philosophical and practical core of Masanobu Fukuoka's [[hamilton-composting-and-organic-matter-management]] to the field eliminate the need
+The concept of "doing nothing" is the philosophical and practical core of Masanobu Fukuoka"s [[hamilton-composting-and-organic-matter-management]] to the field eliminate the need
 3. **No pesticides** -- the natural balance of the ecosystem provides [[comparison-natural-farming-vs-permaculture]] as efficiency:
 
 - "I walk always the shortest road"
@@ -21,10 +21,10 @@ The concept of "doing nothing" is the philosophical and practical core of Masano
 
 Fukuoka explicitly connects do-nothing farming to Eastern spiritual traditions:
 
-- Lao Tzu's principle: "It is enough to live a natural, 'do-nothing' life"
+- Lao Tzu"s principle: "It is enough to live a natural, "do-nothing' life"
 - The Eastern concept of nothingness (Mu) is the closest philosophical framework to true nature
-- Westerners who hear "do-nothing" respond: "No amount of thought is going to help me know whether 'do-nothing' nature is good or bad. That's why I've got to try it first and see"
-- Japanese people, by contrast, reject it without trying: "That looks duller than city life, so I've given up the thought of trying it"
+- Westerners who hear "do-nothing" respond: "No amount of thought is going to help me know whether "do-nothing' nature is good or bad. That's why I've got to try it first and see"
+- Japanese people, by contrast, reject it without trying: "That looks duller than city life, so I"ve given up the thought of trying it"
 
 ## Science as Obstacle
 

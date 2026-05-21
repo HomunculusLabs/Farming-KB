@@ -11,7 +11,7 @@ sources:
 
 ## Magic Mushroom Cultivation History — From McKenna to PF Tek
 
-The history of magic mushroom cultivation is a story of underground innovation, from the McKenna brothers' 1976 guide to the PF Tek that revolutionized home growing.
+The history of magic mushroom cultivation is a story of underground innovation, from the McKenna brothers" 1976 guide to the PF Tek that revolutionized home growing.
 
 ## The McKenna Brothers (1976)
 
@@ -27,7 +27,7 @@ The brothers estimated there were tens of thousands of people worldwide followin
 
 The cultivation guide was a direct product of [[sclerotia-maturation-timeline-psilocybe-tampanensis-mexicana]]. His involvement in cultivation brought him to the attention of multiple government agencies before his murder in 1981.
 
-Pollock's story illustrates the dangers that surrounded even semi-legitimate [[gottlieb-psilocybin-cultivation-bulk-substrate-preparation]] remains his most culturally influential contribution. His techniques for sterile cultivation procedures are still used by both amateur and professional mycologists.
+Pollock"s story illustrates the dangers that surrounded even semi-legitimate [[gottlieb-psilocybin-cultivation-bulk-substrate-preparation]] remains his most culturally influential contribution. His techniques for sterile cultivation procedures are still used by both amateur and professional mycologists.
 
 ## The PF Tek Revolution
 

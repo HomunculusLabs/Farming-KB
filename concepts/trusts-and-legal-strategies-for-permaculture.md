@@ -24,7 +24,7 @@ Trusts can also self-fund via non-profit businesses to become foundations, fully
 
 Legally, a trust body consists of two fundamental elements:
 
-1. **A Trustee**: The legal entity that holds and administers the trust's assets
+1. **A Trustee**: The legal entity that holds and administers the trust"s assets
 2. **A Trust Deed**: The registered document that defines the purposes, powers, and limitations of the trust
 
 The trust deed is registered with the public company registrar and must clearly define:

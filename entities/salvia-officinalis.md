@@ -35,7 +35,7 @@ Dried sage leaves are widely used as a seasoning for poultry, pork, sausage, and
 The genus Salvia contains over 900 species, making it the largest genus in the Lamiaceae.
 S. officinalis is the type species of the genus, first formally described by Carl Linnaeus in 1753.
 Several cultivars have been developed for ornamental and culinary use.
-Notable varieties include 'Tricolor' (variegated leaves with white, pink, and green), 'Purpurea' (purple-tinged leaves), and 'Berggarten' (broad, rounded leaves).
+Notable varieties include "Tricolor' (variegated leaves with white, pink, and green), 'Purpurea' (purple-tinged leaves), and 'Berggarten' (broad, rounded leaves).
 'Extrakta' is a cultivar selected for exceptionally high [[query-how-to-read-cannabis-trichomes-for-the-perfect-harvest-time]], and geographic origin.
 European Pharmacopoeia standards require minimum 15 mL/kg essential oil content for dried sage leaves.
 

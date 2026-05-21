@@ -1,9 +1,9 @@
 ---
 title: Pure Africa - pure africa kenyan landrace sativa strain Sativa
 concept_type: strain_profile
-source: "S.T. Oner, The Rev's Cannabis Sativa Volume 3: The Essential Guide to the World's Finest Sativa Strains"
+source: "S.T. Oner, The Rev"s Cannabis Sativa Volume 3: The Essential Guide to the World's Finest Sativa Strains"
 source_author: "S.T. Oner"
-source_path: "/Users/t3rpz/Documents/Ebooks/Calibre/S.T. Oner - The Rev's Cannabis Sativa Volume 3 - The Essential Guide to the World's Finest Sativa Strains (Green Candy Press, 2014)/S.T. Oner - The Rev's Cannabis Sativa Volume 3 - The Essential Guide to the World's Finest Sativa Strains (Green Candy Press, 2014).epub"
+source_path: "/Users/t3rpz/Documents/Ebooks/Calibre/S.T. Oner - The Rev"s Cannabis Sativa Volume 3 - The Essential Guide to the World's Finest Sativa Strains (Green Candy Press, 2014)/S.T. Oner - The Rev's Cannabis Sativa Volume 3 - The Essential Guide to the World's Finest Sativa Strains (Green Candy Press, 2014).epub"
 extracted: "2025-05-08"
 type: paper
 format: epub

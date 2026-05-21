@@ -12,7 +12,7 @@ sources:
 
 ## The Diversity-Over-Disinfection Approach
 
-JADAM's pest control philosophy represents a fundamental paradigm shift: instead of trying to kill specific pests and pathogens, the focus is on maximizing the population and diversity of soil and foliar microorganisms so that no single pest or disease organism can gain dominance. This "shift from disinfection to diversity" is the core principle underlying all of JADAM's pest [[forest-management-strategies]].
+JADAM"s pest control philosophy represents a fundamental paradigm shift: instead of trying to kill specific pests and pathogens, the focus is on maximizing the population and diversity of soil and foliar microorganisms so that no single pest or disease organism can gain dominance. This "shift from disinfection to diversity" is the core principle underlying all of JADAM"s pest [[forest-management-strategies]].
 
 Modern agriculture has relied on increasingly toxic [[comparison-parasitoid-wasps-vs-chemical-pesticides]], yet pest damage continues to rise. Pathogens are building resistance to chemicals, and the chemical approach creates a vicious cycle: pesticides kill beneficial organisms along with targets, weakening the crop's natural defenses and creating conditions that invite new pest problems, which require more pesticides. JADAM breaks this cycle entirely.
 
@@ -30,7 +30,7 @@ JADAM frames pest problems as symptoms of underlying crop weakness rather than e
 
 ## JADAM Wetting Agent (JWA)
 
-JWA is arguably JADAM's most important invention for pest control. Without a proper surfactant, any pesticide — natural or chemical — cannot effectively coat and penetrate pest bodies or plant surfaces. JWA is made from simple ingredients:
+JWA is arguably JADAM"s most important invention for pest control. Without a proper surfactant, any pesticide — natural or chemical — cannot effectively coat and penetrate pest bodies or plant surfaces. JWA is made from simple ingredients:
 
 - Canola oil (or sunflower, olive, grapeseed oil)
 - Caustic potash (potassium hydroxide)

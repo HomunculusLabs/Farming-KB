@@ -8,7 +8,7 @@ updated: 2026-04-28
 sources:
   - "https://www.mycobank.org/"
 ---
- Omphalotus olearius (Jack-o'-Lantern Mushroom)
+ Omphalotus olearius (Jack-o"-Lantern Mushroom)
 ## Overview / Summary
 Omphalotus olearius, commonly known as the jack-o'-lantern mushroom, is a poisonous
 basidiomycete fungus in the family Omphalotaceae.

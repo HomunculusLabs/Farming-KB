@@ -11,7 +11,7 @@ sources: [raw/papers/mckenna_t-tryptamines_consciousness.md]
 
 ## Overview
 
-The DMT (N,N-dimethyltryptamine) experience is distinguished from other psychedelic states by its extraordinary speed of onset, overwhelming intensity, and consistent phenomenological features that users across cultures and eras have described in remarkably similar terms. Terence McKenna's 1983 Esalen lecture provides one of the most detailed first-person accounts of the DMT state, describing a consistent encounter with what he calls "hyperspace" — a dimension characterized by self-transforming geometric forms, alien entities, translinguistic objects, and an interior dialogue he identifies with the Logos.
+The DMT (N,N-dimethyltryptamine) experience is distinguished from other psychedelic states by its extraordinary speed of onset, overwhelming intensity, and consistent phenomenological features that users across cultures and eras have described in remarkably similar terms. Terence McKenna"s 1983 Esalen lecture provides one of the most detailed first-person accounts of the DMT state, describing a consistent encounter with what he calls "hyperspace" — a dimension characterized by self-transforming geometric forms, alien entities, translinguistic objects, and an interior dialogue he identifies with the Logos.
 
 ## Onset and Transition
 
@@ -19,28 +19,28 @@ The DMT experience when smoked or vaporized is notable for its extreme speed:
 
 1. **15-30 seconds**: A sound described as "ripping cellophane" or "crumpling plastic film" is heard, accompanied by an ascending tone. McKenna suggests this may represent the "radio entelechy ripping out of the organic matrix."
 2. **30-60 seconds**: The normal hallucinogenic modality appears — shifting geometric surfaces of migrating, colored forms. All available serotonin receptor sites are being occupied simultaneously.
-3. **60-90 seconds**: A mode shift occurs. One arrives in what McKenna calls "a place that defies description, a space that has a feeling of being underground, or somehow insulated and domed." He references Joyce's coinage "the merry go raum" (from German *raum*, space) — the room is going around, and one feels like a child who has come out somewhere in eternity.
+3. **60-90 seconds**: A mode shift occurs. One arrives in what McKenna calls "a place that defies description, a space that has a feeling of being underground, or somehow insulated and domed." He references Joyce"s coinage "the merry go raum" (from German *raum*, space) — the room is going around, and one feels like a child who has come out somewhere in eternity.
 
-The experience consistently reminds McKenna of Heraclitus's twenty-fourth fragment: "The Aeon is a child at play with colored balls."
+The experience consistently reminds McKenna of Heraclitus"s twenty-fourth fragment: "The Aeon is a child at play with colored balls."
 
 ## The Hyperspace Environment
 
-McKenna's descriptions of the DMT space include several recurring features:
+McKenna"s descriptions of the DMT space include several recurring features:
 
 ### Visual Characteristics
 
 - **Three-dimensional, evolving surfaces**: Information is presented as if deployed four-dimensionally, coded as light and evolving surfaces — not static images but continuously transforming topological spaces
-- **Self-transforming [[mckenna-cognitive-dissonance-translinguistic-object]] in the human mind, which tries to pour language over them; they "shed it like water off a duck's back"
+- **Self-transforming [[mckenna-cognitive-dissonance-translinguistic-object]] in the human mind, which tries to pour language over them; they "shed it like water off a duck"s back"
 - Produce a state of wonder, astonishment, and "awe at the brink of terror"
 
-McKenna describes this as encountering a "language of alien meaning that is conveying alien information that cannot be Englished." The beings advise: "Don't get a loop of wonder going that quenches your ability to understand. Try not to be so amazed. Try to focus and look at what we're doing."
+McKenna describes this as encountering a "language of alien meaning that is conveying alien information that cannot be Englished." The beings advise: "Don"t get a loop of wonder going that quenches your ability to understand. Try not to be so amazed. Try to focus and look at what we're doing."
 
 ### Glossolalia and Language
 
 DMT can trigger glossolalia (speaking in tongues), but McKenna distinguishes it from the classical religious phenomenon:
 
 - Unlike classical glossolalia (where practitioners afterward ask "Did I do it?"), the DMT-induced version is a "brain state that allows the expression of the assembly language that lies behind language"
-- It may be related to Robert Graves's concept of a primal language in *The White Goddess*
+- It may be related to Robert Graves"s concept of a primal language in *The White Goddess*
 - Or the Kabbalistic concept of the primal "Ursprache" described in the Zohar
 - McKenna describes it as a "primal language that comes out of oneself"
 
@@ -48,7 +48,7 @@ DMT can trigger glossolalia (speaking in tongues), but McKenna distinguishes it 
 
 McKenna argues that the fear sometimes inspired by DMT is not a side effect but a mark of [[psilocybin-default-mode-network-ego-dissolution]] activity, and increased entropy — patterns consistent with the phenomenological reports of expanded awareness and novel information processing
 - The Imperial College London research group has mapped the dose-response curve of DMT and confirmed the existence of a "breakthrough" threshold above which the experience qualitatively transforms
-- Research at Johns Hopkins and other centers is exploring DMT's potential therapeutic applications
+- Research at Johns Hopkins and other centers is exploring DMT"s potential therapeutic applications
 
 ## Related Concepts
 

@@ -14,7 +14,7 @@ tags:
 ## The Importance of Landrace Preservation
 
 [[landrace-sativa-varieties]] from around the
-world. The Rev's work highlights diverse landrace populations from the Congo,
+world. The Rev"s work highlights diverse landrace populations from the Congo,
 Swaziland, Malawi, Oaxacan Mexico, Colombia, Central and South America,
 Thailand, Vietnam, and India. Each carries a distinct genetic signature shaped
 by its particular environment, [[cannabis-strain-south-indian-landrace-autofem-oner]] indian landrace autofem oner variety within

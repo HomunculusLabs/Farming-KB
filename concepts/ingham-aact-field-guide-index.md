@@ -14,7 +14,7 @@ Updated: 2026-04-18
 
 Source: ~/wiki/raw/papers/elaine-ingham-phd_-the-field-guide-i-for-actively-aerated-com.md (16,296 lines)
 
-This index tracks all wiki pages created from Elaine Ingham's comprehensive guide to actively aerated compost tea (AACT). The source covers brewing methodology, ingredient selection, equipment design, water quality management, pathogen safety, and application protocols. It is one of the most detailed practical references on compost tea available and serves as a primary source for the wiki's [[ingham-anaerobic-organisms-role-soil]]. This distinction is central to her work and to the [[aact-brewing-ingredients-ingham]] - Foods by function (bacterial, fungal, micronutrient), compost ratios, sample recipe
+This index tracks all wiki pages created from Elaine Ingham"s comprehensive guide to actively aerated compost tea (AACT). The source covers brewing methodology, ingredient selection, equipment design, water quality management, pathogen safety, and application protocols. It is one of the most detailed practical references on compost tea available and serves as a primary source for the wiki's [[ingham-anaerobic-organisms-role-soil]]. This distinction is central to her work and to the [[aact-brewing-ingredients-ingham]] - Foods by function (bacterial, fungal, micronutrient), compost ratios, sample recipe
 
 - [[aact-ph-water-quality-ingham]] - pH as symptom, organism pH ranges, adjusting water pH, chemical vs biological paradigm
 

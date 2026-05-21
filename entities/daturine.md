@@ -46,7 +46,7 @@ The antidotal action of daturine operates through several interconnected mechani
 
 ## Historical Treatment Protocol
 
-In Palmer's era, the recommended approach to Amanita poisoning involved several steps:
+In Palmer"s era, the recommended approach to Amanita poisoning involved several steps:
 1. **Subcutaneous injection of atropine** (or daturine/belladonna preparations) as the primary treatment
 2. **Avoidance of emetics and cathartics** -- considered "worse than useless" for Amanitine poisoning because they may accelerate absorption
 3. **Enemata of warm water** with soap, possibly mixed with oil of sweet almonds or oil of olives to relieve tenesmus
@@ -56,7 +56,7 @@ In Palmer's era, the recommended approach to Amanita poisoning involved several 
 ## Case Evidence
 
 Palmer documented several treatment observations relevant to daturine and its analogues:
-- A consulting physician suggested belladonna (source of atropine/daturine) after observing the patient's symptoms and comparing them with known belladonna effects
+- A consulting physician suggested belladonna (source of atropine/daturine) after observing the patient"s symptoms and comparing them with known belladonna effects
 - The patient seemed to improve under belladonna/atropine treatment, though it was administered late (fourth day) and the case still ended fatally
 - The treatment prolonged life by twelve hours, suggesting some therapeutic effect
 - A dog poisoned with Amanitine and given vinegar as "antidote" had all symptoms "fearfully aggravated" -- demonstrating the danger of incorrect treatment

@@ -37,7 +37,7 @@ psychoactive properties remains open and actively investigated.
 ## The Pineal Gland and DMT
 
 The [[serotonin-psilocybin-structural-relationship-hallucinogenic-mechanism]] between DMT, serotonin, and melatonin
-- The pineal's known capacity to regulate [[mckenna-food-gods-designer-states-of-consciousness]], including near-death experiences,
+- The pineal"s known capacity to regulate [[mckenna-food-gods-designer-states-of-consciousness]], including near-death experiences,
 mystical states, and the dying process itself. This "spirit molecule"
 hypothesis, while speculative, connected the biochemical evidence of
 endogenous DMT with phenomenological reports from both psychedelic research

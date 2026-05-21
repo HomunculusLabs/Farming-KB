@@ -38,7 +38,7 @@ Dolomite also makes phosphates more available by neutralising
 acidic conditions that lock up phosphorus.
 
 However, dolomite carries a significant risk: over-application leads
-to magnesium accumulation. Albrecht's research showed that excess
+to magnesium accumulation. Albrecht"s research showed that excess
 magnesium relative to calcium tightens soil structure, reduces
 aeration, and impairs root growth. Solomon warns against using
 dolomite exclusively year after year. If soil feels sticky or tight

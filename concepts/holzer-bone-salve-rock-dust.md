@@ -29,7 +29,7 @@ A traditional farm remedy made from animal bones, historically prepared by trave
 
 ## Browsing Protection Salve
 
-Holzer's homemade remedy for protecting young fruit trees from deer, hares, and other browsing animals:
+Holzer"s homemade remedy for protecting young fruit trees from deer, hares, and other browsing animals:
 
 ### Ingredients
 - Bone salve (intense, long-lasting odour)

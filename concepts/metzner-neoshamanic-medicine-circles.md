@@ -11,7 +11,7 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Metzner, R. (Ed.) (1999). Ayahuasca: Human Consciousness and the Spirits of Nature. New York: Thunder's Mouth Press.
+  - Metzner, R. (Ed.) (1999). Ayahuasca: Human Consciousness and the Spirits of Nature. New York: Thunder"s Mouth Press.
 ---
 
 ## Neoshamanic Medicine Circles — Hybrid Therapeutic Rituals

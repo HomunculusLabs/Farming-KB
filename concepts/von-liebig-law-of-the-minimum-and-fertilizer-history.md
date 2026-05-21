@@ -10,7 +10,7 @@ sources:
 
 ## Von Liebig Law of the Minimum and Fertilizer History
 
-## Von Liebig's Law of the Minimum
+## Von Liebig"s Law of the Minimum
 
 Von Liebig's Law of the Minimum states that if one nutrient doesn't reach the minimum required by a plant, growth will be limited by that nutrient regardless of how abundant all other nutrients may be. This principle underlies much of modern fertilizer thinking, though Liebig himself later came to regret its narrow application.
 

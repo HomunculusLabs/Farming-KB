@@ -45,7 +45,7 @@ closely resembles the original hybrid, though not as perfectly uniform or
 vigorous. This lack of uniformity and vigor is the inherent nature of OP
 varieties.
 
-### Solomon's Carrot Conversion Experience
+### Solomon"s Carrot Conversion Experience
 
 Solomon attempted to create an OP from an overwintered hybrid carrot with
 unusual traits. The first spring, the flowers produced not a single viable

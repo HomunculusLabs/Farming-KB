@@ -11,7 +11,7 @@ type: concept
 Yields can be understood in multiple dimensions:
 
 ### Product Yield
-The sum of primary and derived products available from, or surplus to, the system. Some products are intrinsic (precede design), while others are created by design. Product yield includes food, fibre, fuel, fodder, fertiliser, and pharmaceuticals—the "five F's" of permaculture production.
+The sum of primary and derived products available from, or surplus to, the system. Some products are intrinsic (precede design), while others are created by design. Product yield includes food, fibre, fuel, fodder, fertiliser, and pharmaceuticals—the "five F"s" of permaculture production.
 
 ### Energy Yield
 The sum of conserved, stored, and generated energy surplus to the system, both intrinsic and created by design. Energy yield includes stored water, biomass, soil humus, thermal mass, and captured solar energy.

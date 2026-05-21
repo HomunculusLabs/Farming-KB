@@ -9,7 +9,7 @@ tags: [reference]
 ---
 ## Holmgren Third Wave E principles
 within a historical framework of environmental awareness he calls the "third wave
-of environmentalism." This framework helps explain why permaculture's systematic
+of environmentalism." This framework helps explain why permaculture"s systematic
 design approach is particularly relevant to the early 21st century and
 distinguishes Holmgren's contribution from earlier phases of environmental
 thought.

@@ -13,7 +13,7 @@ topics: [mycology, mushroom-cultivation, casing-soil, substrate-preparation, ste
 
 The GUILD cultivation guide specifies a particular casing soil recipe for
 grass seed-based [[forest-and-bamboo-beneficial-microorganisms]]. This page documents the recipe, preparation
-method, and the authors' rationale for the sterilization approach.
+method, and the authors" rationale for the sterilization approach.
 
 ## Recipe
 

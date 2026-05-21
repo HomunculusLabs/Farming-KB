@@ -6,7 +6,7 @@ type: concept
 
 ## The Winter Harvest Handbook
 
-*The Winter Harvest Handbook: Year-Round [[coleman-french-historical-winter-vegetable-production]] Using Deep-Organic Techniques and Unheated Greenhouses* by Eliot Coleman, published by [[chelsea-green-publishing]] (2009), is the definitive guide to growing and selling fresh organic vegetables through the winter in cold climates using unheated or minimally heated movable plastic greenhouses. The book represents the culmination of Coleman's decades of experimentation at [[four-season-farm]] in Harborside, Maine.
+*The Winter Harvest Handbook: Year-Round [[coleman-french-historical-winter-vegetable-production]] Using Deep-Organic Techniques and Unheated Greenhouses* by Eliot Coleman, published by [[chelsea-green-publishing]] (2009), is the definitive guide to growing and selling fresh organic vegetables through the winter in cold climates using unheated or minimally heated movable plastic greenhouses. The book represents the culmination of Coleman"s decades of experimentation at [[four-season-farm]] in Harborside, Maine.
 
 ## Book Overview
 
@@ -70,7 +70,7 @@ Strategies for selling winter-harvested produce:
 
 ### The Mobile Greenhouse System
 
-Perhaps the book's most important contribution is the detailed description of mobile greenhouses that move on rail tracks to cover different sections of the field. This innovation solves several problems simultaneously:
+Perhaps the book"s most important contribution is the detailed description of mobile greenhouses that move on rail tracks to cover different sections of the field. This innovation solves several problems simultaneously:
 
 - **Soil health** — Each year the greenhouse covers fresh ground, preventing the soil degradation common in permanent greenhouses
 - **Crop rotation** — Allows integration of greenhouse crops into the field rotation plan
@@ -79,14 +79,14 @@ Perhaps the book's most important contribution is the detailed description of mo
 
 ### Daylight-Based Scheduling
 
-Rather than focusing solely on temperature, Coleman's system centers on **day length** as the primary factor governing plant growth in winter. The "Persephone period" (approximately November 10 to February 10 at his Maine latitude) is the time when days are shorter than 10 hours and plant growth essentially stops. The scheduling system ensures that crops reach harvestable size before this period begins, so they can be harvested throughout winter even though they aren't actively growing.
+Rather than focusing solely on temperature, Coleman's system centers on **day length** as the primary factor governing plant growth in winter. The "Persephone period" (approximately November 10 to February 10 at his Maine latitude) is the time when days are shorter than 10 hours and plant growth essentially stops. The scheduling system ensures that crops reach harvestable size before this period begins, so they can be harvested throughout winter even though they aren"t actively growing.
 
 ### The Nutritional Quality Argument
 
 Coleman makes a compelling case that winter-harvested vegetables are nutritionally superior:
 
 - Cold temperatures increase sugar content in many crops (the "sweet winter" effect)
-- Anthocyanin levels rise in cold-stressed crops like Bull's Blood beet leaves
+- Anthocyanin levels rise in cold-stressed crops like Bull"s Blood beet leaves
 - Freshly harvested winter greens are more nutritious than produce shipped long distances
 - The organic growing methods enhance mineral content and flavor
 

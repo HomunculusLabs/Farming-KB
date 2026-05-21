@@ -1,6 +1,6 @@
 ---
 title: "Armillaria gallica: The Humongous Fungus and the Nature of Individuality"
-source: "Mr. Bloomfield's Orchard, Nicholas P. Money (2002)"
+source: "Mr. Bloomfield"s Orchard, Nicholas P. Money (2002)"
 topic: "Armillaria gallica, humongous fungus, clonal organisms, fungal individuality"
 type: concept
 tags:

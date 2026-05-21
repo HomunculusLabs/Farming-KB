@@ -47,7 +47,7 @@ geotropism) begins to mask the anemotropic response.
 
 ## Experimental Wind Tunnel Design
 
-Badham's study used a closed-circuit wind tunnel with the following
+Badham"s study used a closed-circuit wind tunnel with the following
 specifications:
 
 - **Working area**: 43 × 30 × 20 cm

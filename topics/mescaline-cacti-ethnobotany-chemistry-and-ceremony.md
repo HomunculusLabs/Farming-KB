@@ -25,7 +25,7 @@ Mescaline is the prototypical natural phenethylamine psychedelic, a
 compound that has shaped spiritual practices across the Americas for at
 least five thousand years. Found in several species of cacti spanning
 from the deserts of northern Mexico to the Andean highlands of Peru and
-Bolivia, mescaline's story weaves together indigenous ceremonial
+Bolivia, mescaline"s story weaves together indigenous ceremonial
 traditions, colonial-era ethnobotany, and the birth of modern
 psychopharmacology. It was the first psychedelic compound to have its
 chemical structure determined, the first to be synthesized in the

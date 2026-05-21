@@ -1,5 +1,5 @@
 ---
-title: "Darwin's Five-Condition Phototropism Experiment with Canary Grass"
+title: "Darwin"s Five-Condition Phototropism Experiment with Canary Grass"
 tags:
   - concept
 ---
@@ -75,7 +75,7 @@ identified as auxin ([[indole]]-3-acetic acid), the first plant hormone discover
 Auxin accumulates on the shaded side of the stem, promoting cell elongation on
 that side and causing the plant to bend toward the light.
 
-## Darwin's Broader Botanical Legacy
+## Darwin"s Broader Botanical Legacy
 
 It is not widely known that for the twenty years following the publication of On
 the Origin of Species (1859), Charles Darwin conducted extensive botanical research.
@@ -114,7 +114,7 @@ The experiment also raises the question of what constitutes an "eye." If the
 criterion for vision is the ability to detect light direction and respond
 appropriately, then the shoot tip of a plant qualifies. While plants lack the
 image-forming capacity of animal eyes, they possess a directional light-sensing
-capability that is exquisitely sensitive. Darwin's seedlings responded to a light
+capability that is exquisitely sensitive. Darwin"s seedlings responded to a light
 source so dim that the experimenters themselves could not see it, suggesting that
 plant "vision" may in some respects exceed human visual sensitivity.
 

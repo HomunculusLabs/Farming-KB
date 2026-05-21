@@ -8,9 +8,9 @@ type: concept
 
 ## Energy Cycles in the Rice Paddy
 
-In Fukuoka's natural farming, the rice paddy functions as a complex, self-sustaining energy cycle. [[fukuoka-critique-agricultural-science-laws-liebig]] to isolate single variables. In his view, focusing narrowly on photosynthetic efficiency misses the forest for the trees:
+In Fukuoka"s natural farming, the rice paddy functions as a complex, self-sustaining energy cycle. [[fukuoka-critique-agricultural-science-laws-liebig]] to isolate single variables. In his view, focusing narrowly on photosynthetic efficiency misses the forest for the trees:
 
-> "How foolish to focus only on solar energy apart from the rest of nature and think that merely by examining the amount of starch synthesis in the leaves of rice plants, one can gauge utilization of the sun's energy."
+> "How foolish to focus only on solar energy apart from the rest of nature and think that merely by examining the amount of starch synthesis in the leaves of rice plants, one can gauge utilization of the sun"s energy."
 
 The paddy, understood holistically, is far more than a site of starch production. It is a living system in which every organism plays a role in capturing, transforming, and passing along the energy that arrives as sunlight.
 
@@ -22,17 +22,17 @@ Conventional agriculture measures energy utilization by the calories stored in t
 
 Energy quality encompasses nutritional density, disease resistance, ecological resilience, and the capacity of the soil to sustain productivity over time. A crop grown in a living soil ecosystem, fed by natural cycles, produces food of fundamentally different character than one grown with synthetic inputs, even if the caloric yield appears similar.
 
-> "There is a world of difference between whether we look only at the amount of energy received by the rice plant or take a three-dimensional view of its quantitative and qualitative utilization of energy from the sun's rays."
+> "There is a world of difference between whether we look only at the amount of energy received by the rice plant or take a three-dimensional view of its quantitative and qualitative utilization of energy from the sun"s rays."
 
 Fukuoka described how the scientist who attempts to maximize yields by eradicating weeds sets in motion a chain of destruction. Herbicides eliminate not only weeds but the entire soil bio-community that depends on them. The imbalance weakens the rice, making it diseased and susceptible to concentrated attack by pests. The three-dimensional energy system collapses into a fragile, one-dimensional monoculture dependent on ever-increasing chemical intervention.
 
 ## Meaning and Limits of High Yields
 
-For Fukuoka, high yields are a natural outcome when a crop is permitted to absorb and store as much of nature's energy as possible within a healthy, balanced ecosystem. But the pursuit of yield through human manipulation misses the deeper purpose of farming:
+For Fukuoka, high yields are a natural outcome when a crop is permitted to absorb and store as much of nature"s energy as possible within a healthy, balanced ecosystem. But the pursuit of yield through human manipulation misses the deeper purpose of farming:
 
-> "High yields rely on the absorption and storage of as much of nature's energy as possible by the crop."
+> "High yields rely on the absorption and storage of as much of nature"s energy as possible by the crop."
 
-The farmer's proper role is not extraction but stewardship:
+The farmer"s proper role is not extraction but stewardship:
 
 > "The proper role of the natural farmer is not to utilize the animals and plants of nature so much as to help invigorate the ecosystem."
 

@@ -8,7 +8,7 @@ type: entity
 
 ## Description
 
-Ganoderma oregonense is a reishi species native to the [[psilocybin-north-america-pacific-northwest]] region [[huckleberries-and-wild-berries-of-north-america]]. It is one of several species in the Ganoderma genus commonly referred to as reishi, the group of lacquered polypore mushrooms highly valued for their [[amanita-muscaria-medicinal-properties-heart-anxiety-dreams]]. Like other members of the genus, it is a wood-decomposing fungus that produces distinctive antler-like fruitbodies and lacquered, shelf-like conks. The species is part of the broader reishi complex documented for cultivation in [[tradd-cotter]]'s [[organic-mushroom-farming-and-mycoremediation-overview]] reference.
+Ganoderma oregonense is a reishi species native to the [[psilocybin-north-america-pacific-northwest]] region [[huckleberries-and-wild-berries-of-north-america]]. It is one of several species in the Ganoderma genus commonly referred to as reishi, the group of lacquered polypore mushrooms highly valued for their [[amanita-muscaria-medicinal-properties-heart-anxiety-dreams]]. Like other members of the genus, it is a wood-decomposing fungus that produces distinctive antler-like fruitbodies and lacquered, shelf-like conks. The species is part of the broader reishi complex documented for cultivation in [[tradd-cotter]]"s [[organic-mushroom-farming-and-mycoremediation-overview]] reference.
 
 ## Classification
 

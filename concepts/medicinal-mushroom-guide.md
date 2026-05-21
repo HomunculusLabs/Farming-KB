@@ -32,7 +32,7 @@ Related: [[mushroom-species-guide]], [[herbal-medicine]], [[fungal-ecology]]
 - **PSK (Polysaccharide-K)**: Protein-bound polysaccharide from turkey tail (Trametes versicolor). Approved anticancer drug in Japan since 1977. Brand name Krestin.
 - **PSP (Polysaccharide-Peptide)**: From Trametes versicolor. Similar to PSK but with different protein binding. Approved in China.
 - **Ganoderic acids**: Triterpenoids from [[reishi-cultivation|reishi]] (Ganoderma lucidum). Anti-inflammatory, hepatoprotective, anticancer via apoptosis induction.
-- **Hericenones and erinacines**: Compounds from lion's mane (Hericium erinaceus). Stimulate NGF (nerve growth factor) synthesis. Erinacines in mycelium; hericenones in fruiting body.
+- **Hericenones and erinacines**: Compounds from lion"s mane (Hericium erinaceus). Stimulate NGF (nerve growth factor) synthesis. Erinacines in mycelium; hericenones in fruiting body.
 - **Cordycepin (3'-deoxyadenosine)**: Nucleoside analog from Cordyceps militaris. Anti-proliferative, immunomodulatory, anti-inflammatory.
 - **Ergothioneine**: Amino acid antioxidant found in all mushrooms. Protects against oxidative stress. High concentrations in shiitake, oyster, porcini.
 
@@ -58,7 +58,7 @@ Related: [[mushroom-species-guide]], [[herbal-medicine]], [[fungal-ecology]]
 - **Sourcing**: Widely available as supplements. Look for beta-glucan content (15-45%) and PSK/PSP standardization. "Host Defense" and "Fungi Perfecti" are well-known brands (Stamets).
 - **Cautions**: Generally very safe. May cause darkened stools. The fungal-immune interaction is complex -- consult oncologist before combining with immunotherapy.
 
-### Lion's Mane (Hericium erinaceus)
+### Lion"s Mane (Hericium erinaceus)
 
 - **Active compounds**: Hericenones (fruiting body), erinacines (mycelium), beta-glucans, phenolic compounds
 - **Health benefits**: Neuroprotective -- stimulates NGF and BDNF synthesis. Improves cognitive function and memory (human RCTs show improvement in mild cognitive impairment). Reduces anxiety and depression. Promotes nerve regeneration (peripheral nerve injury models). Anti-inflammatory. Potential for Alzheimer's and Parkinson's disease prevention

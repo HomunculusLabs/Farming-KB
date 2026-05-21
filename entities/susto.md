@@ -7,7 +7,7 @@ tags: [folk-illness, anthropology, peru, amazon, healing]
 
 ## Description
 
-Susto (from Spanish "fright" or "soul-loss") is a folk illness recognized throughout Peru and Latin America, characterized by profound alteration of metabolism or nervous disorder following a traumatic emotional event. It is one of the most frequently treated conditions by Peruvian folk healers, including ayahuasqueros in the Amazon region. The illness is caused by the loss of the sick person's soul, which departs the body following a terrifying experience.
+Susto (from Spanish "fright" or "soul-loss") is a folk illness recognized throughout Peru and Latin America, characterized by profound alteration of metabolism or nervous disorder following a traumatic emotional event. It is one of the most frequently treated conditions by Peruvian folk healers, including ayahuasqueros in the Amazon region. The illness is caused by the loss of the sick person"s soul, which departs the body following a terrifying experience.
 
 ## Classification
 

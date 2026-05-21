@@ -20,7 +20,7 @@ Gressent wrote for the Parisian maraichers (market gardeners) during the peak of
 Writing as early as 1870, Gressent made observations that anticipate modern organic farming principles by nearly a century:
 
 On chemical fertilizers:
-> "For vegetable growing chemical fertilizers don't do all that one wants; they stimulate the plant and produce quantity, but to the detriment of quality."
+> "For vegetable growing chemical fertilizers don"t do all that one wants; they stimulate the plant and produce quantity, but to the detriment of quality."
 
 On pest management:
 > "In principle, insect pests only attack weak, sickly plant specimens lacking proper nutrition."
@@ -32,7 +32,7 @@ These observations from practical experience established principles that would n
 
 ### Practical Instruction
 
-Gressent's *Le potager moderne* provided detailed guidance on:
+Gressent"s *Le potager moderne* provided detailed guidance on:
 - Hotbed construction and management using decomposing horse manure
 - Glass cloche techniques for individual plant protection
 - Intensive succession planting schedules

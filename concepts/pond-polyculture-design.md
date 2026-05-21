@@ -21,7 +21,7 @@ The polyculture model uses a sequence of specialized ponds flowing one to anothe
 3. **Shrimp ponds**: Support invertebrates that trout feed on
 4. **Trout pond**: The terminal harvesting pond, receiving enriched water carrying shrimp on migration
 
-The key insight is that trout in the harvest pond can't swim up through the trickle connections (which pass through small grilles), so they receive food from upstream without being able to access or deplete the source organisms.
+The key insight is that trout in the harvest pond can"t swim up through the trickle connections (which pass through small grilles), so they receive food from upstream without being able to access or deplete the source organisms.
 
 ### pH Differentiation
 

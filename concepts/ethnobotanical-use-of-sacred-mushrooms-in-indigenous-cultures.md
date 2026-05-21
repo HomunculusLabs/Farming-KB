@@ -18,7 +18,7 @@ The use [[mexican-indigenous-nomenclature-sacred-mushrooms]] languages, reflecti
 
 ### The Wasson-Heim Era (1953–1960)
 
-The partnership between **R. Gordon Wasson** (a banker and amateur mycologist) and **Roger Heim** (a professional mycologist at the Muséum National d'Histoire Naturelle in Paris) transformed the field:
+The partnership between **R. Gordon Wasson** (a banker and amateur mycologist) and **Roger Heim** (a professional mycologist at the Muséum National d"Histoire Naturelle in Paris) transformed the field:
 
 - **Wasson and Wasson (1957)** published *"Mushrooms, Russia and History"*, drawing parallels between Siberian *Amanita muscaria* use and Mexican psilocybian mushroom ceremonies.
 - **Heim and Wasson (1958)** published *"Les Champignons Hallucinogènes du Mexique"*, providing the first comprehensive mycological identification of species used in Mazatec ceremonies.

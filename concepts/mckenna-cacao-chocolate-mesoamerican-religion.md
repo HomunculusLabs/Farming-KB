@@ -28,7 +28,7 @@ drank his chocolate unsweetened in a cold water infusion, consuming it from
 golden goblets that were used only once and then discarded. Reports suggest he
 drank as many as fifty cups per day.
 
-A particularly significant detail in McKenna's account is that a mixture of
+A particularly significant detail in McKenna"s account is that a mixture of
 ground chocolate and psilocybin-containing mushrooms was served to guests at
 the coronation feast of Montezuma II in 1502. If accurate, this represents a
 rare documented instance of the deliberate combination of a mild stimulant with

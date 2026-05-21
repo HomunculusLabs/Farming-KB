@@ -22,7 +22,6 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Watling, R. et al. (1982). "The Genus Armillaria." Royal Botanic Garden Edinburgh.---
----
 
 ## Armillaria tabescens
 

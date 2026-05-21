@@ -19,7 +19,7 @@ sources:
 ## Introduction
 
 **Polyporus umbellatus** Fries, commonly known as Zhu Ling (Chinese for "Hog
-Tuber"), Chorei-maitake (Japanese for "Wild Boar's Dung Maitake"),
+Tuber"), Chorei-maitake (Japanese for "Wild Boar"s Dung Maitake"),
 Tsuchi-maitake (Japanese for "Earth Maitake"), Umbrella Polypore, or Chinese
 Sclerotium, is a distinctive polypore mushroom that forms underground
 sclerotia. It is one of the "Three Treasures" of Chinese medicinal fungi

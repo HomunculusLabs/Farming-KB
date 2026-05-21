@@ -1,5 +1,5 @@
 ---
-title: Fukuoka's Discovery of Volunteer Rice Shoots and Perennial Rice Exploration
+title: Fukuoka"s Discovery of Volunteer Rice Shoots and Perennial Rice Exploration
 source: administrator-microsoft-word-fukuoka-textdoc.md
 extracted: 2026-05-09
 type: concept

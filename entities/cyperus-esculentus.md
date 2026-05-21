@@ -9,7 +9,6 @@ date: 2026-05-08
 updated: 2026-05-08
 sources:
   - Sánchez-Zapata, E. et al. (2012). "Tigernut (Cyperus esculentus) commercialization." Trends in Food Science & Technology, 25(2), 121-130.---
----
 
 ## Overview
 

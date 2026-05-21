@@ -38,7 +38,7 @@ Psilocybe stuntzii is remarkably adaptable:
 - Football fields
 - Garden beds
 
-The species' ability to colonize bark mulch is particularly notable, as this is a relatively uncommon substrate for psychoactive mushrooms. This adaptability may explain its rapid spread across the Pacific Northwest after initial introduction.
+The species" ability to colonize bark mulch is particularly notable, as this is a relatively uncommon substrate for psychoactive mushrooms. This adaptability may explain its rapid spread across the Pacific Northwest after initial introduction.
 
 ### Fruiting Season
 

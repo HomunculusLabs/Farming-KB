@@ -24,7 +24,7 @@ sources:
 
 # Psilocybin Fruiting Chambers and Stages
 
-Fruiting stage management, growing chamber construction, casing materials, and drying/storage for psilocybin mushrooms, based on Gottlieb's Psilocybin Producer's Guide (1976), the Magic Mushroom Grower's Guide, and Badham's experimental studies on light initiation and tropisms.
+Fruiting stage management, growing chamber construction, casing materials, and drying/storage for psilocybin mushrooms, based on Gottlieb"s Psilocybin Producer's Guide (1976), the Magic Mushroom Grower's Guide, and Badham's experimental studies on light initiation and tropisms.
 
 Related: [[psilocybin-mushroom-cultivation]], [[mushroom-indoor-cultivation]], [[pf-tek-guide]], [[mushroom-substrates]]
 
@@ -55,7 +55,7 @@ Three distinct stages of carpophore development, each with specific environmenta
 
 ## Light Requirements for Fruiting (Badham, 1980)
 
-E. R. Badham's experimental work (Mycologia, 1980) established the precise light requirements for basidiocarp initiation in P. cubensis:
+E. R. Badham"s experimental work (Mycologia, 1980) established the precise light requirements for basidiocarp initiation in P. cubensis:
 
 ### Key Findings
 - **Light is mandatory** for fruitbody initiation — initials form only when cultures are illuminated

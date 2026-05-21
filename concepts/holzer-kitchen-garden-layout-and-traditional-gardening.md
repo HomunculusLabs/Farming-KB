@@ -23,7 +23,7 @@ The areas around the fence and in the garden (sunny, shady, dry or wet soils) we
 
 A cold frame consists of a simple wooden box covered with a window or clear sheeting. In spring, a 30-cm-thick layer of straw and dung is placed at the bottom, covered with garden soil. The dung warms up through decomposition, functioning like underfloor heating for the bed. The glass or sheeting cover creates a greenhouse effect.
 
-Location should be sheltered from wind and as sunny as possible to make best use of spring sun. Plants must be hardened off before planting out by gradually increasing the periods the cover is removed. Hardening off begins around Saint Joseph's Day (19th March). As soon as plants are large enough and overnight frosts are over, they are planted out in the garden.
+Location should be sheltered from wind and as sunny as possible to make best use of spring sun. Plants must be hardened off before planting out by gradually increasing the periods the cover is removed. Hardening off begins around Saint Joseph"s Day (19th March). As soon as plants are large enough and overnight frosts are over, they are planted out in the garden.
 
 Dry branches pushed into the soil serve as climbing supports for peas and beans.
 

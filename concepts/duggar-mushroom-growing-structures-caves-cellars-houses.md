@@ -15,7 +15,7 @@ region: "United States, England, California"
 
 ## Overview
 
-B.M. Duggar's *Mushroom Growing* (1915) describes several types of structures
+B.M. Duggar"s *Mushroom Growing* (1915) describes several types of structures
 and environments suitable [[blesching-cannabis-fever-temperature-regulation]] a central
 concern across all facility types.
 

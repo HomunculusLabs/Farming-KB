@@ -1,5 +1,5 @@
 ---
-title: Gangamma's Mandala Garden
+title: Gangamma"s Mandala Garden
 source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---

@@ -9,7 +9,7 @@ tags: [culture, harvesting, permaculture, water]
 
 ## Water Harvesting and Management in Permaculture
 
-Water is the central organising element in Mollison's permaculture
+Water is the central organising element in Mollison"s permaculture
 design. Pamphlet XI ("[[ingham-soil-foodweb-trophic-levels-protozoa-nematodes]]:
 
 - **Plants:** Watercress, cattails, wild rice, duckweed, diatoms,

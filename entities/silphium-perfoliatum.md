@@ -28,7 +28,7 @@ Cup plant is native to the central and eastern United States and southern Ontari
 
 The species occupies mesic to wet prairies, riverbottom forests, savannas, and roadside ditches. It prefers rich, moist soils with high [[mycelium-running-mushroom-antimicrobial-properties-species-chart]]. [[childrens-herbal-medicine]], though it never achieved the commercial prominence of other prairie medicinal plants.
 
-The water-collecting leaf cups were sometimes used as emergency drinking water sources by travelers on the prairie. This practical use contributed to several of the species' common names, including "cup plant" and "Indian cup."
+The water-collecting leaf cups were sometimes used as emergency drinking water sources by travelers on the prairie. This practical use contributed to several of the species" common names, including "cup plant" and "Indian cup."
 
 The Ponca tribe used a decoction of the root for treating general debility and as a remedy for rheumatic complaints. The Omaha applied the dried resin to wounds as a protective dressing, taking advantage of its adhesive and potentially antiseptic properties.
 

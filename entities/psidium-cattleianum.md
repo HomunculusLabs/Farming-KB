@@ -11,7 +11,6 @@ date: 2026-05-09
 updated: 2026-05-09
 sources:
   - GBIF Secretariat (2023). "Psidium cattleianum Sabine." GBIF Backbone Taxonomy.---
----
 
 ## Overview
 

@@ -21,7 +21,7 @@ Tragopogon pratensis, commonly known as meadow salsify or goatsbeard, is a bienn
 
 The species is valued as both an edible wild plant and a traditional [[fukuoka-western-root-vegetable-deficiency]] in Europe.
 
-The genus name Tragopogon derives from Greek *tragos* (goat) and *pogon* (beard), referring to the large, feathery seed head that resembles a goat's beard.
+The genus name Tragopogon derives from Greek *tragos* (goat) and *pogon* (beard), referring to the large, feathery seed head that resembles a goat"s beard.
 
 ## Taxonomy and Morphology
 

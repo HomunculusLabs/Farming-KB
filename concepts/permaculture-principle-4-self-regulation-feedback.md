@@ -19,13 +19,13 @@ This principle deals with self-regulatory aspects of [[permaculture-design]] tha
 
 Organisms and individuals adapt to negative feedback from large-scale systems by developing **self-regulation** to pre-empt and avoid harsher consequences of external negative feedback.
 
-### Modern Society's Feedback Failure
+### Modern Society"s Feedback Failure
 
-Modern society takes for granted enormous dependence on large-scale remote systems while expecting freedom without consequences. "Our whole society is like a teenager who wants to have it all, have it now, without consequences." John Lennon's "Instant Karma" suggests consequences arrive faster than we think.
+Modern society takes for granted enormous dependence on large-scale remote systems while expecting freedom without consequences. "Our whole society is like a teenager who wants to have it all, have it now, without consequences." John Lennon"s "Instant Karma" suggests consequences arrive faster than we think.
 
 ## The Gaia Hypothesis
 
-The [[gaia-hypothesis]] of Earth as a self-regulating system, analogous to a living organism, makes the whole Earth the suitable image for this principle. Evidence of Earth's remarkable homeostasis over hundreds of millions of years highlights it as the archetypical self-regulating whole system.
+The [[gaia-hypothesis]] of Earth as a self-regulating system, analogous to a living organism, makes the whole Earth the suitable image for this principle. Evidence of Earth"s remarkable homeostasis over hundreds of millions of years highlights it as the archetypical self-regulating whole system.
 
 ## Nurture and Control in Nature
 

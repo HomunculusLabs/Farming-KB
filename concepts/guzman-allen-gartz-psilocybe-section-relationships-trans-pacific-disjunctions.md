@@ -29,7 +29,7 @@ to ancient [[dark-incubation-sclerotia-production-psilocybe-mexicana-tampanensis
 - **[[psilocybe-argentipes]] and P. subcaerulipes from Japan
   represent the eastern Asian component of this relationship.
 
-This North American-East Asian connection corresponds to Hongo's (1978) fourth
+This North American-East Asian connection corresponds to Hongo"s (1978) fourth
 distribution type — "North American and Eastern Asiatic species" — one of nine
 [[chiric-caspi-brunfelsia-south-american-hallucinogen]] and Mesoamerican species of
 these fungal groups are closely related to species from Southeastern Asia

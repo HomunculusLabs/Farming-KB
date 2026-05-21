@@ -16,7 +16,7 @@ Kapukiri is a pathogenic substance described in [[ayahuasca-pharmacology-and-cul
 
 - Kapukiri arises from the decomposition of leaves from specific powerful trees in the Amazonian forest
 - Multiple distinct types exist, each associated with a different source tree and producing unique symptom profiles
-- The condition is most often acquired in the chacra (garden plot) when a person is exposed to the trees' emissions
+- The condition is most often acquired in the chacra (garden plot) when a person is exposed to the trees" emissions
 - Pablo Amaringo encountered kapukiri illness in 1971 when treating a woman with a swollen instep who had been ill for four months
 - **Puka-lupuna** (red lupuna, *Cavanillesia* sp.) kapukiri: causes the head to feel enlarged, a smarting sensation across the entire body, illness localized in the stomach; in pregnant women, can cause the newborn to appear rachitic
 - **Ajosquiro** (*Gallizia corazema*) kapukiri: produces extreme nervousness and fear, with the sensation of a worm biting the body

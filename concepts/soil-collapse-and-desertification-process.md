@@ -34,7 +34,7 @@ streamflows decline, often signalling that soil collapse is well advanced.
 As collapse progresses, the subsoil becomes cemented, sealing the soil off from its
 parent rock below. This creates a perched water table — water trapped above the
 impermeable layer rather than draining through the profile. The cemented subsoil
-blocks both downward water movement and upward root penetration, killing the soil's
+blocks both downward water movement and upward root penetration, killing the soil"s
 biological function and its ability to support deep-rooted perennial vegetation.
 
 ## Healthy Soil Structure

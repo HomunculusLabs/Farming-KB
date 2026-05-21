@@ -13,7 +13,7 @@ sources: []
 
 ## What Are Trichomes?
 
-Trichomes are epidermal outgrowths — hair-like projections on the surface of cannabis flowers, leaves, and stems. The word comes from Greek "trichoma" meaning "growth of hair." In cannabis, glandular trichomes are the tiny mushroom-shaped or bulbous structures that produce and store the plant's psychoactive and aromatic compounds.
+Trichomes are epidermal outgrowths — hair-like projections on the surface of cannabis flowers, leaves, and stems. The word comes from Greek "trichoma" meaning "growth of hair." In cannabis, glandular trichomes are the tiny mushroom-shaped or bulbous structures that produce and store the plant"s psychoactive and aromatic compounds.
 
 Functions in nature:
 - Chemical defense against herbivores (bitter, intoxicating resin deters grazing)

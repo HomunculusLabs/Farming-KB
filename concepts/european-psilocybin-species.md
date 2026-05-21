@@ -25,7 +25,7 @@ sources:
 
 # European Psilocybin Species
 
-Beyond the well-known [[psilocybe-semilanceata]], Europe hosts several additional psilocybin-containing genera that are less recognized but scientifically significant. Data primarily from [[jochen-gartz]]'s field research and chemical analyses (1980s-1990s). See also [[mushroom-species-guide]] and [[fungal-biodiversity]].
+Beyond the well-known [[psilocybe-semilanceata]], Europe hosts several additional psilocybin-containing genera that are less recognized but scientifically significant. Data primarily from [[jochen-gartz]]"s field research and chemical analyses (1980s-1990s). See also [[mushroom-species-guide]] and [[fungal-biodiversity]].
 
 ## Inocybe aeruginascens
 

@@ -34,7 +34,7 @@ The 15:1 dynamic range is relatively narrow compared to modern HPLC systems, whi
 
 ### 10% Repeatability
 
-The ±10% repeatability (relative standard deviation) is adequate for the study's purpose of comparing flush-to-flush variation, which showed differences ranging from 0 to 2.9 mg/g for psilocin and 3.2 to 13.3 mg/g for psilocybin — far exceeding the analytical uncertainty. However, the 10% RSD means:
+The ±10% repeatability (relative standard deviation) is adequate for the study"s purpose of comparing flush-to-flush variation, which showed differences ranging from 0 to 2.9 mg/g for psilocin and 3.2 to 13.3 mg/g for psilocybin — far exceeding the analytical uncertainty. However, the 10% RSD means:
 
 - A sample measuring 5.0 mg/g could actually range from 4.5 to 5.5 mg/g
 - Small differences between adjacent flushes may not be statistically significant

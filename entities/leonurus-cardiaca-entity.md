@@ -14,7 +14,6 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Kuchta M, Pokluda R, Kubinova R, et al. (2016). "aact-tannins-terpenes-phenolic-compounds-wood-composting-ingham from Leonurus cardiaca." Natural Product Communications, 11(2), 187-190.---
----
 
 ## Leonurus cardiaca
 
@@ -22,7 +21,7 @@ sources:
 plant in the family Lamiaceae. Native to Eurasia, it has become naturalized
 across [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] worldwide and is valued both as a traditional medicinal
 herb and as a functional plant in permaculture systems. The genus name
-*Leonurus* derives from the Greek for "lion's tail," referring to the shape of
+*Leonurus* derives from the Greek for "lion"s tail," referring to the shape of
 the calyx lobes, while *cardiaca* reflects its historical use as a
 cardiotonic remedy.
 

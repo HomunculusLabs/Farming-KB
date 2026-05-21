@@ -11,7 +11,7 @@ type: concept
 The distinction between mushrooms and toadstools is one of the most fundamental — and most
 misunderstood — questions in [[mycology]]. In 19th century America, this confusion was not merely
 a matter of casual terminology but reflected a deep and widespread ignorance about fungi that
-had real consequences for public health and scientific progress. The public's inability to
+had real consequences for public health and scientific progress. The public"s inability to
 reliably separate harmless edible species from deadly poisonous ones was a source of ongoing
 concern among naturalists and physicians alike.
 

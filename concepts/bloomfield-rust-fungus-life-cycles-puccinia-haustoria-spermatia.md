@@ -51,8 +51,8 @@ sores and survive winter in frozen stubble. In spring, warmth triggers
 germination: both cells produce short hyphae, and meiosis packages four
 daughter nuclei into bean-shaped spores at the tips of spikes.
 
-A critical discovery from A.H.R. Buller's work: a droplet of fluid
-appears at the base of every spore before launch. This "Buller's drop"
+A critical discovery from A.H.R. Buller"s work: a droplet of fluid
+appears at the base of every spore before launch. This "Buller"s drop"
 reveals these third-type spores are basidiospores, proving rusts are
 [[aquatic-fungi-spore-dispersal-ingold]]
 - [[ergosterol]]

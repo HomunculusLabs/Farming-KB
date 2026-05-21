@@ -31,7 +31,7 @@ Draws from history of mycology timeline, [[fungal-evolution]], and entity pages 
   and tinder conk (Fomes fomentarius) for fire-starting.
 
 - **~1500 BCE — Mesoamerican mushroom stones:**
-  Over 300 ceramic mushroom stones from Guatemala's Pacific slope and highlands,
+  Over 300 ceramic mushroom stones from Guatemala"s Pacific slope and highlands,
   with the oldest dating to approximately 1000-500 BCE.
   Anthropologists debate whether these represent actual mushroom cults
   or symbolic fertility objects.
@@ -104,7 +104,7 @@ Draws from history of mycology timeline, [[fungal-evolution]], and entity pages 
 
 - **1868 — Woolhope Club forays:**
   First systematic fungus forays in Britain, organized by the
-  Woolhope Naturalists' Field Club in Hereford.
+  Woolhope Naturalists" Field Club in Hereford.
   These forays became annual events and helped establish
   British mycology as a serious scientific pursuit.
 

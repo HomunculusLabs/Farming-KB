@@ -23,7 +23,7 @@ In 1936, Weitlaner obtained specimens of teonanacatl in Oaxaca, Mexico. This was
 
 ### Guiding the Wassons (1953)
 
-When R. Gordon and Valentina Wasson learned of the mushroom cult in central Mexico in 1953, it was Weitlaner who guided them to the mountainous village of Huautla de Jiménez in Oaxaca. This guidance was essential — without Weitlaner's knowledge of the region and its indigenous communities, the Wassons would likely never have located the source of the mushroom ceremonies.
+When R. Gordon and Valentina Wasson learned of the mushroom cult in central Mexico in 1953, it was Weitlaner who guided them to the mountainous village of Huautla de Jiménez in Oaxaca. This guidance was essential — without Weitlaner"s knowledge of the region and its indigenous communities, the Wassons would likely never have located the source of the mushroom ceremonies.
 
 ### Facilitating the First White Attendance at a Mushroom Ceremony (1938)
 

@@ -17,7 +17,7 @@ rediscovery were:
   the topic to worldwide public attention.
 
 Guzmán (1990a, 1990b) divided the development of Mexican mycology into
-two periods: before Wasson, Heim, and Singer's studies (1954-1958) and
+two periods: before Wasson, Heim, and Singer"s studies (1954-1958) and
 after. The neurotropic fungi studies were so influential that they
 stimulated interest in studying all fungi in the country.
 

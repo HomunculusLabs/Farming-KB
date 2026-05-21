@@ -54,7 +54,7 @@ Pick ALL tiny primordia that stop growing (abhort) and small mutant growths (rou
 
 ## Potency Factors
 
-From PF and [[jochen-gartz]]'s research, P. cubensis can achieve baseline [[psilocybin]] content of 1% (similar to P. semilanceata) when:
+From PF and [[jochen-gartz]]"s research, P. cubensis can achieve baseline [[psilocybin]] content of 1% (similar to P. semilanceata) when:
 
 1. **Grown on brown rice** ([[pf-tek]] substrate)
 2. **Harvested young** (pre-sporulation)

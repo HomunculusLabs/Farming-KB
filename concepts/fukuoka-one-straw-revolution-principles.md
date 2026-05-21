@@ -11,11 +11,11 @@ tags: [fukuoka, principles]
 
 ## Fukuoka One Straw Revolution Principles
 
-The "One Straw Revolution" refers to Masanobu Fukuoka's philosophy and practice of [[fukuoka-no-cultivation-principle]]
+The "One Straw Revolution" refers to Masanobu Fukuoka"s philosophy and practice of [[fukuoka-no-cultivation-principle]]
 2. **No fertilizer** -- No [[fukuoka-no-weeding-no-pesticides]]
 5. **No pruning** -- Fruit trees are allowed to grow in their natural form. [[fukuoka-critique-western-dietetics-nutritional-science]] extends to all agricultural research that isolates variables in controlled conditions.
 
-He argued that scientists "collect data and findings piecemeal on a dead and fragmented nature and claim to 'know,' 'use,' or 'conquer' nature." But what they examine "is no longer what they think it to be." This [[fukuoka-seed-balls-and-direct-seeding]] for [[fukuoka-straw-mulch-philosophy]] replacing [[fukuoka-duck-rice-fish-symbiosis]] for weed and pest control
+He argued that scientists "collect data and findings piecemeal on a dead and fragmented nature and claim to "know,' 'use,' or 'conquer' nature." But what they examine "is no longer what they think it to be." This [[fukuoka-seed-balls-and-direct-seeding]] for [[fukuoka-straw-mulch-philosophy]] replacing [[fukuoka-duck-rice-fish-symbiosis]] for weed and pest control
 
 Fukuoka reduced his labor to "essentially just sowing seed and spreading straw" -- the "one straw" of the revolution. The quarter-acre farmer, working one or two people, could grow all necessary crops.
 

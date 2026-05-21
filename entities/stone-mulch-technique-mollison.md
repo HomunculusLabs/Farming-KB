@@ -33,7 +33,7 @@ Stone mulching is a desert horticultural practice where rocks and stones are pla
 
 ## Relevance to Cultivation and Permaculture
 
-Stone mulching is a core technique in Mollison's arid landscape strategies:
+Stone mulching is a core technique in Mollison"s arid landscape strategies:
 
 1. **Zero-cost water harvesting**: Requires only labor to collect and place stones; no manufactured materials needed. Critical for remote desert settlements with no supply lines.
 

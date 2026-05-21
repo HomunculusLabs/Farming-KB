@@ -9,7 +9,7 @@ topics: [winter-harvest, cold-sweetening, vegetable-quality, frost-tolerance, ca
 
 ## Overview
 
-One of the most remarkable qualities of winter-harvested vegetables is their enhanced sweetness and flavor compared to their summer-grown counterparts. Eliot Coleman's Winter Harvest Handbook documents this phenomenon extensively, noting that cold-hardy vegetables reach a "higher level of perfection without the heat stress of summer." The cold-sweetening effect is a well-documented physiological response in many plant species and represents one of the key quality advantages of winter [[plant-cell-membrane-transport-proteins]] move sugars to areas where they provide the most protection
+One of the most remarkable qualities of winter-harvested vegetables is their enhanced sweetness and flavor compared to their summer-grown counterparts. Eliot Coleman"s Winter Harvest Handbook documents this phenomenon extensively, noting that cold-hardy vegetables reach a "higher level of perfection without the heat stress of summer." The cold-sweetening effect is a well-documented physiological response in many plant species and represents one of the key quality advantages of winter [[plant-cell-membrane-transport-proteins]] move sugars to areas where they provide the most protection
 - Some species also increase proline and other cryoprotective amino acids
 
 These metabolic changes are triggered by cold temperature [[coleman-chicory-family-winter-greens-endive-escarole-radicchio]]** (endive, escarole, radicchio): Bitter compounds are tempered
@@ -23,7 +23,7 @@ Coleman notes that it is not just sustained cold but the repeated cycle of freez
 - At night, temperatures drop below freezing
 - Each freeze-thaw cycle stimulates additional sugar conversion
 - The effect is cumulative — the more cycles a vegetable experiences, the sweeter it becomes
-- This is why Coleman's double-layer protection system (greenhouse + inner row cover) is so effective: it creates moderate freeze-thaw cycles rather than the extreme freezes of open field conditions
+- This is why Coleman"s double-layer protection system (greenhouse + inner row cover) is so effective: it creates moderate freeze-thaw cycles rather than the extreme freezes of open field conditions
 
 The key insight is that complete protection from all freezing is not desirable. Moderate freezing triggers the sweetening response. The goal is to prevent damaging freezes while allowing the beneficial mild freezes to occur.
 

@@ -6,7 +6,7 @@ type: concept
 
 ## The Transition from Chemical to Biological Gardening
 
-## The Typical Suburban Gardener's Routine
+## The Typical Suburban Gardener"s Routine
 
 Most home gardeners follow a remarkably similar seasonal routine that revolves around synthetic chemicals. In *Teaming with Microbes*, Lowenfels and Lewis describe their own previous practices — practices shared by tens of millions of gardeners:
 
@@ -25,7 +25,7 @@ Most home gardeners follow a remarkably similar seasonal routine that revolves a
 **End of season:**
 - Rototill garden beds again
 
-This cycle creates complete dependency on chemical inputs while progressively degrading the soil's biological capacity to support plant health naturally.
+This cycle creates complete dependency on chemical inputs while progressively degrading the soil"s biological capacity to support plant health naturally.
 
 ## The Illusion of Environmental Responsibility
 
@@ -42,7 +42,7 @@ While these practices are positive, they are insufficient to counteract the dama
 
 ## The Central Myth: "Nitrogen Is Nitrogen"
 
-The most pervasive misconception in gardening is that plants cannot distinguish between nitrogen from an organic source and nitrogen from a synthetic source. This belief — that "it's all nitrogen to them" — justifies the continued use of chemical fertilizers.
+The most pervasive misconception in gardening is that plants cannot distinguish between nitrogen from an organic source and nitrogen from a synthetic source. This belief — that "it"s all nitrogen to them" — justifies the continued use of chemical fertilizers.
 
 The reality is more nuanced:
 - The nitrogen *ion* (ammonium NH₄⁺ or nitrate NO₃⁻) is indeed chemically identical regardless of source
@@ -57,7 +57,7 @@ The transformation from chemical to biological gardening often begins with a sin
 
 **Image 1:** A root-eating nematode trapped and killed by a single looped fungal hypha (strand). This raised questions: How did the fungus kill the nematode? What attracted the blind nematode to the fungal rings? How do the trapping rings work?
 
-**Image 2:** A similar nematode freely entering a tomato root, with no [[fungal-hyphae]] present to defend it. This raised the critical question: Why wasn't this nematode attacked?
+**Image 2:** A similar nematode freely entering a tomato root, with no [[fungal-hyphae]] present to defend it. This raised the critical question: Why wasn"t this nematode attacked?
 
 Through Dr. Elaine Ingham's research, they learned:
 - The fungus in the first image was actively protecting the plant's roots

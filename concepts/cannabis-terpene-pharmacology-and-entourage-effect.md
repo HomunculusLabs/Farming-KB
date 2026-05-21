@@ -24,7 +24,7 @@ Myrcene (β-myrcene) is typically the most abundant terpene in cannabis, compris
 
 ### β-Caryophyllene
 
-β-Caryophyllene (BCP) is a sesquiterpene with a spicy, peppery aroma found in [[blesching-cannabis-multiple-sclerosis]] and Parkinson's disease.
+β-Caryophyllene (BCP) is a sesquiterpene with a spicy, peppery aroma found in [[blesching-cannabis-multiple-sclerosis]] and Parkinson"s disease.
 
 ### Linalool
 

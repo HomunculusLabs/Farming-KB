@@ -5,7 +5,7 @@ type: species
 tags: [psilocybin-mushroom, agaricales, hymenogastraceae, japan, asia]
 date: 2026-04-28
 updated: 2026-04-28
-sources: ['raw/papers/working-with-agar.md']
+sources: ["raw/papers/working-with-agar.md']
 ---
 
 ## Psilocybe venenata

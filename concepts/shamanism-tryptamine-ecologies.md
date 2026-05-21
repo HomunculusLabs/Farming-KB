@@ -10,7 +10,7 @@ indigenous-knowledge, ecopsychology]
 
 ## Overview
 
-Terence McKenna's "Tryptamine [[leary-psychedelic-experience-bardo-mapping]] within the broader context of shamanic practice
+Terence McKenna"s "Tryptamine [[leary-psychedelic-experience-bardo-mapping]] within the broader context of shamanic practice
 and
 human-plant ecological relationships. He argues that shamanism is
 primarily a
@@ -39,7 +39,7 @@ Amazonian DMT traditions thus represent a distinct cultural and
 pharmacological lineage from the Mesoamerican psilocybin traditions.
 
 The secrecy surrounding these traditions has both preserved and isolated
-them. McKenna describes indigenous informants who said, "Let's take our
+them. McKenna describes indigenous informants who said, "Let"s take our
 machetes and hike out here half a mile and get some vine and boil it up
 and we will show you what we can show you" — a direct, experiential
 approach contrasting sharply with theoretical or textual knowledge.

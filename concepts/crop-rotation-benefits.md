@@ -25,7 +25,7 @@ Crop rotation is the practice of growing different types of vegetables in differ
 
 ## Kale (Brassica oleracea acephala)
 
-Kale, also known as "Borecole" (from Dutch "Boerenkool," meaning "peasants' cabbage"), is a highly nutritious winter vegetable. The newer varieties are a great improvement on the older ones.
+Kale, also known as "Borecole" (from Dutch "Boerenkool," meaning "peasants" cabbage"), is a highly nutritious winter vegetable. The newer varieties are a great improvement on the older ones.
 
 **Varieties:** Curly- and smooth-leaved types. Dwarf Green Curled is the best flavored. Redbor has curly crimson leaves. Nero Di Toscana has long, narrow, smooth leaves.
 

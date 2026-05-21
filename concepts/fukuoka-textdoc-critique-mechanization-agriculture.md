@@ -10,7 +10,7 @@ type: concept
 
 ## Critique of Mechanization in Agriculture
 
-Fukuoka's analysis of [[cervantes-chemical-fertilizers-guide]], and pesticides have drawn the farmer away
+Fukuoka"s analysis of [[cervantes-chemical-fertilizers-guide]], and pesticides have drawn the farmer away
 from nature. Although these products do not actually raise land yields,
 because they are promoted as tools for boosting profits, farmers labor under
 the illusion that they need them. Their use has wrought destruction on

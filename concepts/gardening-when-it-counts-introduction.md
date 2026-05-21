@@ -10,7 +10,7 @@ type: concept
 
 *[[gardening-when-it-counts]]: [[growing-food-in-hard-times]]* by Steve Solomon is a comprehensive guide to vegetable gardening written from the perspective of someone who has spent decades growing food through both lean and prosperous times. Published in 2005 by New Society Publishers as part of their "Books for Wiser Living from Mother Earth News" series, the book advocates for practical, low-input gardening methods that produce real calories and nutrition rather than mere horticultural entertainment.
 
-## The Author's Background
+## The Author"s Background
 
 Steve Solomon has been growing the majority of his household's food for decades, 12 months per year. By the time of writing, he was 63 years old and had retired to Tasmania — a temperate South Pacific island with a climate similar to Oregon's. His experience spans both the lean years of the 1970s (high inflation and unemployment) and the fat years of the 1980s through the early 2000s. Crucially, he continued gardening through both, suggesting that food self-reliance is not merely an economic necessity but a way of life.
 
@@ -42,7 +42,7 @@ Good economic times returned in the 1980s and continued through the first half o
 
 ### The Implication
 
-Solomon's implicit argument is that gardening skills should be maintained during good times so they are available when needed. A gardener who only starts during a crisis faces a steep learning curve at precisely the worst moment. The book is addressed to "Mr. and Ms. Everybody Else" — people who rely on conventional wisdom for gardening guidance, which Solomon suggests is often wrong.
+Solomon"s implicit argument is that gardening skills should be maintained during good times so they are available when needed. A gardener who only starts during a crisis faces a steep learning curve at precisely the worst moment. The book is addressed to "Mr. and Ms. Everybody Else" — people who rely on conventional wisdom for gardening guidance, which Solomon suggests is often wrong.
 
 ## Book Structure
 
@@ -88,9 +88,9 @@ Throughout, Solomon emphasizes producing **real food** — staple calories and e
 
 ## Publication Context
 
-The book was published by New Society Publishers, whose mission is to "publish books that contribute in fundamental ways to building an ecologically sustainable and just society." It was printed on 100% post-consumer recycled paper, processed chlorine-free, from ancient-forest-free sources — reflecting the publisher's commitment to minimizing environmental impact.
+The book was published by New Society Publishers, whose mission is to "publish books that contribute in fundamental ways to building an ecologically sustainable and just society." It was printed on 100% post-consumer recycled paper, processed chlorine-free, from ancient-forest-free sources — reflecting the publisher"s commitment to minimizing environmental impact.
 
-The collaboration with Mother Earth News — "North America's Original Guide to Living Wisely" for over 30 years — places the book within a tradition of practical self-reliance literature aimed at people with "a passion for self-reliance and a desire to live in harmony with nature."
+The collaboration with Mother Earth News — "North America"s Original Guide to Living Wisely" for over 30 years — places the book within a tradition of practical self-reliance literature aimed at people with "a passion for self-reliance and a desire to live in harmony with nature."
 
 ## See Also
 

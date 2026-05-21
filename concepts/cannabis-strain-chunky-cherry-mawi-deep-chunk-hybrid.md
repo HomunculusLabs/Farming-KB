@@ -12,7 +12,7 @@ created: 2026-05-10
 > southern [[seed-pelleting]] (The Rev), USA        |
 | **Genetics**     | cannabis strain chunky cherry mawi deep chunk hybrid × [[cannabis-breeding-basics]] and author of *True Living Organics*. His
 breeding philosophy centres on [[cannabis-strain-wild-thailand-ko-chang-landrace]]
-genetics, renowned for extreme yields ("like it's a million feet tall")
+genetics, renowned for extreme yields ("like it"s a million feet tall")
 despite compact, short stature. It produces dense, resinous buds rich
 in trichomes — a hallmark of its hashplant heritage. As a largely
 landrace-derived indica, Deep Chunk passes on consistent, predictable
@@ -20,7 +20,7 @@ traits to offspring. In this cross it tames the towering African
 sativa, compressing the flowering window to 50–60 days and lending
 the buds their characteristic density and fat calyxes.
 
-### [[malawi-gold-entity]], one of Africa's most
+### [[malawi-gold-entity]], one of Africa"s most
 legendary landrace sativas. These [[cannabis-terpene-profiles]], though pure forms can require 14+ weeks to
 flower. The Rev describes the Cherry Malawi parents as "among the
 dankest sativas from southern Africa," making them a prized — if
@@ -28,7 +28,7 @@ challenging — genetic resource for modern breeders.
 
 ## Plant Morphology & Cultivation
 
-The split heritage is visible in the plant's phenotype:
+The split heritage is visible in the plant"s phenotype:
 
 - **Leaves** are pale yellow and thin — a clear nod to the sativa
   influence.

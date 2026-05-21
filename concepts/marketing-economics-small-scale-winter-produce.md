@@ -22,7 +22,7 @@ Packaging plays a central role in establishing brand identity and customer loyal
 
 The approach taken at [[four-season-farm]] exemplifies purposeful packaging:
 
-- **Construction**: 12 × 16 × 8-inch wooden boxes handmade from native Maine cedar, cut on the farm and milled at a neighbor's saw mill.
+- **Construction**: 12 × 16 × 8-inch wooden boxes handmade from native Maine cedar, cut on the farm and milled at a neighbor"s saw mill.
 - **Motivation**: Learning that 25% of the volume in the average landfill was food-packaging waste drove the decision to create permanent, reusable containers.
 - **Branding**: Boxes are sanded smooth, coated with food-grade finish, and branded with a hot iron bearing the "Seasonal Salads" trademark on the end boards.
 - **Sizing rationale**: Dimensions were determined by measuring produce coolers in stores and the cargo area of the family Subaru. The boxes needed to fit efficiently in both spaces.
@@ -34,7 +34,7 @@ Boxes are lined with a sheet of pure cellophane that folds over the top and is s
 
 ## Setting Prices
 
-When Four Season Farm first brought commercial winter-harvest crops to market in October 1995, the wholesale price was set at **$2 per pound higher** than the prevailing price for California organic salad mixes that week. The strategy was rooted in confidence in the product's superior quality.
+When Four Season Farm first brought commercial winter-harvest crops to market in October 1995, the wholesale price was set at **$2 per pound higher** than the prevailing price for California organic salad mixes that week. The strategy was rooted in confidence in the product"s superior quality.
 
 ### The Market Test
 

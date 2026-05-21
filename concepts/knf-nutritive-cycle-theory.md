@@ -11,7 +11,7 @@ sources:
 
 ## Overview
 
-The Nutritive Cycle Theory is a foundational concept in Korean [[knf-input-application-timing]], ensuring that every [[knf-preparations]] to the plant's physiological needs at each point in time, maximizing both yield and plant health.
+The Nutritive Cycle Theory is a foundational concept in Korean [[knf-input-application-timing]], ensuring that every [[knf-preparations]] to the plant"s physiological needs at each point in time, maximizing both yield and plant health.
 
 ## Nutrient Requirements by Stage
 

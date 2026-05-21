@@ -10,7 +10,7 @@ type: concept
 differentially to plant nutrition, stress tolerance, [[fungal-rhizosphere-and-ecosystem-resilience]]. The interactions
 between mycorrhizal communities and their edaphic (soil) environment are shaped by soil chemistry,
 moisture regimes, disturbance history, and biotic interactions including faunal grazing. This
-concept page synthesizes key findings from Dighton's *Fungi in Ecosystem Processes* on how
+concept page synthesizes key findings from Dighton"s *Fungi in Ecosystem Processes* on how
 mycorrhizal biodiversity translates into functional diversity and environmental adaptation.
 
 ## ECM Species Diversity and Differential Function

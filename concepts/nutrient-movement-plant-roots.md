@@ -6,7 +6,7 @@ type: concept
 
 ## Nutrient Movement to Plant Roots
 
-Plants cannot simply wait for nutrients to arrive — they must actively acquire mineral ions from the soil solution and solid particles. Three primary physical mechanisms transport nutrients to root surfaces, while a fourth — biological partnership — dramatically expands a plant's effective reach. Once nutrients arrive at the root, cellular transport systems move them across membranes and into the plant's vascular system.
+Plants cannot simply wait for nutrients to arrive — they must actively acquire mineral ions from the soil solution and solid particles. Three primary physical mechanisms transport nutrients to root surfaces, while a fourth — biological partnership — dramatically expands a plant"s effective reach. Once nutrients arrive at the root, cellular transport systems move them across membranes and into the plant's vascular system.
 
 ## The Three Physical Mechanisms
 
@@ -53,7 +53,7 @@ Certain plants form symbiotic relationships with nitrogen-fixing bacteria that c
 
 ### Mycorrhizal Fungi — The Root Extension System
 
-An estimated 90–96% of all plant species form mycorrhizal associations. These symbiotic fungi effectively extend the plant's root system by orders of magnitude:
+An estimated 90–96% of all plant species form mycorrhizal associations. These symbiotic fungi effectively extend the plant"s root system by orders of magnitude:
 
 - **[[arbuscular-mycorrhizal-fungi]] (AMF)** penetrate root cortical cells and form tree-like structures (arbuscules) for nutrient exchange. They send vast hyphal networks out into the soil, accessing pores and soil aggregates that roots cannot reach.
 - **[[ectomycorrhizal-fungi]]** form a sheath around root tips and extend hyphae into the soil, important for many trees (pine, oak, beech).

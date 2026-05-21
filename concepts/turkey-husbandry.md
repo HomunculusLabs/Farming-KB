@@ -57,7 +57,7 @@ faster but cannot breed naturally.
 - Poults are more fragile than chicks. Temperature: start at 95-100°F for
   first week, reduce 5°F per week until feathered (6-8 weeks).
 - Use red heat lamps (white light causes cannibalism in poults).
-- Poults often starve because they don't find feed and water easily. Place
+- Poults often starve because they don"t find feed and water easily. Place
   marbles in waterers and scatter feed on paper towels for the first few
   days.
 - Add poultry vitamins/electrolytes to water for the first week.

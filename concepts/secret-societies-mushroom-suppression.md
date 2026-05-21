@@ -12,7 +12,7 @@ The knowledge of entheogenic mushrooms has been guarded, suppressed, and weaponi
 
 The creation of Christianity itself is described as a fundamentally political act. **Emperor Constantine of Rome** understood that governmental control becomes much easier and more effective when that government can also assume "divine" authority. Christianity is characterized as the product of a governmental council that:
 
-- Acquired and examined as many of the world's religious doctrines as possible
+- Acquired and examined as many of the world"s religious doctrines as possible
 - Created a **"One World Religion"** (Catholic — "one from all")
 - Took ideas from Egyptology, Mithraism, Hinduism, Buddhism, the Torah, and many others
 - Picked desired elements, altered them, discarded unwanted parts

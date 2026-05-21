@@ -1,5 +1,5 @@
 ---
-title: "Cannabis and Alzheimer's Disease"
+title: "Cannabis and Alzheimer"s Disease"
 created: 2026-04-26
 tags:
   - cannabis

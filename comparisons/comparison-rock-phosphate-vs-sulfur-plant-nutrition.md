@@ -3,7 +3,7 @@ title: "Rock Phosphate vs Sulfur Plant Nutrition"
 tags: [comparison, soil-amendment, phosphorus, sulfur, mineral-nutrition]
 date: 2026-05-13
 updated: 2026-05-13
-sources: ['raw/papers/unknown-biodiversity-fungi-soil-fungal-communities|biodiversity-of-fungi.md']
+sources: ["raw/papers/unknown-biodiversity-fungi-soil-fungal-communities|biodiversity-of-fungi.md']
 ---
 
 ## Rock Phosphate vs Sulfur Plant Nutrition

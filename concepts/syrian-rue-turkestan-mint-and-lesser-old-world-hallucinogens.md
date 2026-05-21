@@ -18,7 +18,7 @@ Beyond the well-known fly agaric, cannabis, and [[lycanthropy-solanaceous-halluc
 - The extraordinary esteem in which Asian peoples hold the plant may indicate former religious use as a hallucinogen
 - Purposeful visionary use has not yet been established through literature or field work
 - Widely used in folk medicine across its range for numerous ailments
-- The plant's MAO-inhibiting properties make it a key ingredient in [[schultes-ayahuasca-analogs-dmt-plants]] when combined with DMT-containing plants
+- The plant"s MAO-inhibiting properties make it a key ingredient in [[schultes-ayahuasca-analogs-dmt-plants]] when combined with DMT-containing plants
 - Commonly burned as incense or brewed as a tea in Middle Eastern and Central Asian traditions
 - Syrian rue represents the pharmacological bridge between Old World and [[mckenna-food-gods-new-world-hallucinogen-clustering-americas-psychedelic-continent]] traditions
 - Harmine was first isolated in 1847 and was one of the earliest plant alkaloids to be chemically characterized

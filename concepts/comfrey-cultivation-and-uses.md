@@ -13,7 +13,6 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Hill, Andrew. "Comfrey: A Review of Its Biological and Chemical Properties." Journal of Botany, 2015.---
----
 
 ## Overview
 

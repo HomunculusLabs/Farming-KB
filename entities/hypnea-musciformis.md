@@ -11,7 +11,6 @@ date: 2026-05-08
 updated: 2026-05-08
 sources:
   - "Hypnea musciformis." AlgaeBase. https://www.algaebase.org/---
----
 
 ## Overview
 

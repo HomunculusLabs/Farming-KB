@@ -1,6 +1,6 @@
 ---
 title: Nicholas P Money Mycologist
-aliases: [Money mycologist, Mr Bloomfield's Orchard author, fungal biology]
+aliases: [Money mycologist, Mr Bloomfield"s Orchard author, fungal biology]
 source: Mr. Bloomfield's Orchard (Nicholas P. Money)
 created: 2026-05-10
 tags: [biography, mycology, science, fungi, author]
@@ -27,7 +27,7 @@ fungi." Published by Oxford University Press, the book weaves together
 scientific exposition with autobiographical elements and biographical
 sketches of prominent mycologists.
 
-The book's ten chapters cover a wide range of mycological topics:
+The book"s ten chapters cover a wide range of mycological topics:
 1. **Offensive Phalli and Frigid Caps** — [[fungal-mycelial-networks-nutrient-translocation]].
 4. **Metamorphosis** — Fungal life cycles and developmental biology.
 5. **The Odd Couple** — Fungal symbioses, including mycorrhizae and
@@ -39,7 +39,7 @@ The book's ten chapters cover a wide range of mycological topics:
 
 ### Title Significance
 
-The title "Mr. Bloomfield's Orchard" refers to a specific place that
+The title "Mr. Bloomfield"s Orchard" refers to a specific place that
 serves as a framing device for the book's exploration of fungal biology.
 Money uses the orchard setting — with its hidden fungal networks, visible
 fruiting bodies, and [[coleman-louis-savier-twentieth-century-maraicher]]. Ingold was known for

@@ -39,7 +39,7 @@ beyond site-scale design to landscape and regional planning.
 - Recognised that body corporate title in shopping centres provided economies
   of scale for small businesses through shared marketing, accounting, and
   bargaining services with large chain stores
-- His work directly influenced Holmgren's thinking on how modern legal land
+- His work directly influenced Holmgren"s thinking on how modern legal land
   tenure mechanisms could be repurposed for permaculture-scale rural design
 
 ## Relevance to Cultivation and Permaculture

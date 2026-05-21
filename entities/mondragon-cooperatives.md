@@ -13,7 +13,7 @@ Basque region of Spain, founded in 1956. They represent one of the most successf
 examples of [[cooperative-enterprise-and-formal-economy]] in the world, and are frequently cited in
 permaculture literature as a model for community economic organisation. Bill
 Mollison references Mondragon extensively in the village design chapter of
-*Permaculture: A Designers' Manual* as a proven template for self-reliant
+*Permaculture: A Designers" Manual* as a proven template for self-reliant
 community economics.
 
 ## Classification

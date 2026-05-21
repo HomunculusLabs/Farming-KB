@@ -6,7 +6,7 @@ type: concept
 
 ## Cloud Seeding and Orographic Precipitation
 
-Regional [[bill-mollison]]'s Permaculture: A Designers' Manual treats these as interdependent techniques—seeding without ground storage wastes water, and orographic effects without atmospheric moisture yield little benefit. Together, they form a powerful approach to rehydrating degraded landscapes.
+Regional [[bill-mollison]]"s Permaculture: A Designers' Manual treats these as interdependent techniques—seeding without ground storage wastes water, and orographic effects without atmospheric moisture yield little benefit. Together, they form a powerful approach to rehydrating degraded landscapes.
 
 ## Cloud Seeding Methods and Effectiveness
 

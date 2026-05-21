@@ -8,7 +8,7 @@ sources: ["papers/elaine-ingham-phd_-the-field-guide-i-for-actively-aerated-com.
 ---
 ## Ingham — Cover Crops and Soil Biology
 
-Elaine Ingham's approach to cover crops emphasizes their role as living biological management tools that feed specific soil organism groups, maintain soil structure, and prevent the loss of soil fertility during fallow periods.
+Elaine Ingham"s approach to cover crops emphasizes their role as living biological management tools that feed specific soil organism groups, maintain soil structure, and prevent the loss of soil fertility during fallow periods.
 
 ## Cover Crops as Biological Food Sources
 

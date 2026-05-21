@@ -30,7 +30,7 @@ Ketamine is soluble in water and commonly formulated as a hydrochloride salt. It
 - Developed as a safer alternative to phencyclidine (PCP), which produced severe psychosis in humans
 - FDA-approved as an anesthetic in 1970 (Ketalar brand)
 - Widely used in veterinary medicine and human surgery, especially in emergency and battlefield settings
-- Known for its "dissociative" properties — produces a sense of detachment from one's body and environment
+- Known for its "dissociative" properties — produces a sense of detachment from one"s body and environment
 - Popular as a recreational drug in club and rave scenes (sometimes called "Special K")
 - 2006: first clinical study showing rapid antidepressant effects of a single subanesthetic ketamine dose
 - 2019: FDA approves esketamine (Spravato) nasal spray for treatment-resistant depression

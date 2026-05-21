@@ -23,7 +23,7 @@ sources:
 | Strong | 2.5-3.0 |
 | Heavy | 3.0+ |
 
-Shulgin's published range: 1.5-3.0 mg. The "R" isomer is the more active enantiomer; the "S" isomer requires approximately 3-4x the dose for comparable effects.
+Shulgin"s published range: 1.5-3.0 mg. The "R" isomer is the more active enantiomer; the "S" isomer requires approximately 3-4x the dose for comparable effects.
 
 ## Duration
 
@@ -57,7 +57,7 @@ DOI was synthesized from 2,5-dimethoxyamphetamine (2,5-DMA) via a phthalimide pr
 - Emotional range from euphoria to anxiety depending on dose and set
 - At higher doses, fantasy takeover with difficulty distinguishing real from imagined
 
-## Shulgin's Qualitative Comments
+## Shulgin"s Qualitative Comments
 
 At 0.6 mg, a nice spacey light-headedness for a few hours with time moving slowly. A generic sadness emerged, reminiscing about earlier pleasures. Mood became present-day and healthy by about the seventh hour.
 

@@ -1,5 +1,5 @@
 ---
-title: McKenna's Food of the Gods Thesis
+title: McKenna"s Food of the Gods Thesis
 created: 2026-04-13
 updated: 2026-04-13
 type: concept
@@ -53,7 +53,7 @@ McKenna drew extensively on his personal experiences with shamanic plant use, pa
 
 > "Shamanic healers insist on the existence of an intelligent Other somewhere in a dimension nearby. The existence of an ecology of souls or a disincarnate intelligence is not something that science can be expected to grapple with and emerge with its own premises intact."
 
-He argued that Western science's dismissal of shamanic experience as mere intoxication reflected intellectual blindness to genuine phenomena: "the world of shamanism, of allies, shape-shifting, and magical attack are far more real than the constructs of science can ever be, because these spirit ancestors and their other world can be seen and felt, they can be known, in the nonordinary reality."
+He argued that Western science"s dismissal of shamanic experience as mere intoxication reflected intellectual blindness to genuine phenomena: "the world of shamanism, of allies, shape-shifting, and magical attack are far more real than the constructs of science can ever be, because these spirit ancestors and their other world can be seen and felt, they can be known, in the nonordinary reality."
 
 ## The Gastronomic and Cultural Connection
 
@@ -61,7 +61,7 @@ McKenna emphasized the fundamental connection between food, consciousness, and c
 
 ## Criticism
 
-McKenna's thesis has been criticized as:
+McKenna"s thesis has been criticized as:
 
 - Speculative and lacking rigorous archaeological or anthropological evidence for many of its strongest claims
 - Romanticizing pre-agricultural societies
@@ -70,7 +70,7 @@ McKenna's thesis has been criticized as:
 
 ## Legacy
 
-Despite these criticisms, McKenna's work has been enormously influential in popularizing the idea that psychoactive plants deserve serious consideration in understanding human cultural evolution. His concept of the "Archaic Revival" has resonated with movements toward ecological consciousness, indigenous rights, and psychedelic renaissance.
+Despite these criticisms, McKenna"s work has been enormously influential in popularizing the idea that psychoactive plants deserve serious consideration in understanding human cultural evolution. His concept of the "Archaic Revival" has resonated with movements toward ecological consciousness, indigenous rights, and psychedelic renaissance.
 
 ## Related Topics
 

@@ -24,7 +24,7 @@ stressed. After all, the Church had no interest in a Devil who is such a
 diminished figure that he must rely on mere herbs to work his wiles. The
 Devil must be a worthy foe of the Christos, and hence nearly coequal.
 
-We must assume that the role of mind-altering plants in some witches'
+We must assume that the role of mind-altering plants in some witches"
 flights was not only under-emphasized but entirely suppressed for a
 reason. If this had not been done, then a natural explanation for such
 phenomena would have suggested itself. Physicians, philosophers, and
@@ -70,7 +70,7 @@ their sabbaths.
 This pharmacological explanation was recognized by some medieval and
 early modern thinkers, but it was dangerous to articulate. Those who
 suggested natural explanations for witchcraft risked being accused of
-witchcraft themselves or of atheism for denying the Devil's power.
+witchcraft themselves or of atheism for denying the Devil"s power.
 
 ## Ergotism and the Salem Witch Trials
 

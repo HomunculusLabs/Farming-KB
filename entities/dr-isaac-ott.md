@@ -11,7 +11,7 @@ Dr. [[isaac-ott]] was a 19th-century American physiologist and pharmacologist wh
 
 ## Key Experiments
 
-Dr. Ott's most cited experiment, conducted on frogs, demonstrated the atropine-muscarine antagonism:
+Dr. Ott"s most cited experiment, conducted on frogs, demonstrated the atropine-muscarine antagonism:
 
 1. **Baseline**: Frog (sternum removed) — heart beating at 36 beats per minute
 2. **Muscarine administration**: 0.0005 grain muscarine injected subcutaneously at 3:58 PM

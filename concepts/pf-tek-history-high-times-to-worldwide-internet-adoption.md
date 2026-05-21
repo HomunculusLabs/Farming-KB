@@ -14,7 +14,7 @@ of modern amateur cultivation practice.
 ## Origins and the High Times Advertisement
 
 In September 1991, Psylocybe Fanaticus introduced the PF magic mushroom
-growing and culture kit in High Times Magazine's classified section
+growing and culture kit in High Times Magazine"s classified section
 under the heading "Magic Mushrooms." The initial offering was a kit
 containing prepared jars with PF substrate, syringes, and instructions.
 The formula of the PF substrate was not revealed in this first version.
@@ -30,7 +30,7 @@ The technique copies nature by employing mass [[pf-tek-maximum-fruiting-substrat
 of cloning mushroom tissue. This preserves the complete genotype and
 prevents senescence (mutating and ceased fruiting) that plagues
 tissue-culture-based cultivation. The spores ensure a never-ending
-succession of fungus with all the power of the spore's reproductive
+succession of fungus with all the power of the spore"s reproductive
 ability intact.
 
 ## Mail-Order Distribution Model
@@ -38,7 +38,7 @@ ability intact.
 PF operated from a P.O. Box in Seattle, Washington (98122), maintaining
 what he described as complete operational discretion. No customer or
 mailing lists were kept. All mailers were discreetly addressed to "PF"
-rather than "Psylocybe Fanaticus." As soon as an order letter's address
+rather than "Psylocybe Fanaticus." As soon as an order letter"s address
 was copied onto a mailer, the original letter was discarded.
 
 The catalog offered two products: the PF TEK booklet (second edition,

@@ -39,7 +39,7 @@ traveler and psychiatrist who provided a form of jellied Algerian hashish called
 dawamesc. Moreau was a serious researcher who believed that the study of
 [[hallucinogenic-mushroom-acute-psychological-effects-and-bad-trips]] of cannabis.
 
-Moreau's central thesis was that hashish intoxication mimicked certain forms of
+Moreau"s central thesis was that hashish intoxication mimicked certain forms of
 mental illness and that by studying these artificially induced states, one could
 gain insight into the nature of psychosis. This approach, while crude by modern
 standards, represented a significant advance over the purely moralistic

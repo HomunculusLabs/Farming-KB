@@ -17,7 +17,7 @@ plants alter their growth patterns in response to mechanical stimulation. The te
 1973. The most common manifestation is compact, stocky growth: plants exposed to regular wind or touch develop
 shorter, thicker stems with smaller leaves compared to sheltered individuals of the same species and genotype. (see [[comparison-silicon-vs-calcium-in-plant-defense-and-structural-support]] and less in reproductive output, at least in the short term.
 
-## Darwin's Root Cap Experiments
+## Darwin"s Root Cap Experiments
 
 Charles Darwin, together with his son Francis, conducted pioneering experiments on plant touch sensitivity described
 in *The [[arabidopsis-thaliana]]* by Janet Braam and Ronald Davis in 1990. When Arabidopsis plants were touched,

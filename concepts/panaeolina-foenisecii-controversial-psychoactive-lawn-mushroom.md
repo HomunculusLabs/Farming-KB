@@ -11,7 +11,7 @@ tags: [neurotropic-fungi, panaeolina, taxonomy, chemical-analysis, controversial
 
 ## Overview
 
-Panaeolina foenisecii (syn. Psilocybe foenisecii), commonly known as the "haymaker's mushroom" or "brown mottlegill," is one of the most widespread and controversial fungi in the neurotropic fungi literature. It is a cosmopolitan species found in grasslands and prairies across much of the world, yet its status as a psychoactive mushroom has been debated for decades. Multiple independent [[guzman-allen-gartz-neurotropic-fungi-caribbean-central-america]] and Caribbean**: Surprisingly, there are no reports from this region, despite its prevalence in both North and South America.
+Panaeolina foenisecii (syn. Psilocybe foenisecii), commonly known as the "haymaker"s mushroom" or "brown mottlegill," is one of the most widespread and controversial fungi in the neurotropic fungi literature. It is a cosmopolitan species found in grasslands and prairies across much of the world, yet its status as a psychoactive mushroom has been debated for decades. Multiple independent [[guzman-allen-gartz-neurotropic-fungi-caribbean-central-america]] and Caribbean**: Surprisingly, there are no reports from this region, despite its prevalence in both North and South America.
 - **Africa**: Records are sparse despite the continent's high [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]].
 
 ## The Chemical Controversy

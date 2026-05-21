@@ -8,7 +8,7 @@ tags: [aphids, pest-management, integrated-pest-management, biological-control, 
 
 ## Overview
 
-Steve Solomon's *Gardening When It Counts* approaches aphid management
+Steve Solomon"s *Gardening When It Counts* approaches aphid management
 with characteristic pragmatism: healthy plants resist most aphid damage,
 tolerance of minor damage is rational, and intervention should be
 proportionate to actual harm rather than triggered by the mere sight of

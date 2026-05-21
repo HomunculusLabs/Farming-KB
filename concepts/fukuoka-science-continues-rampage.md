@@ -10,13 +10,13 @@ sources:
 
 ## Science Continues Its Rampage
 
-One of Masanobu Fukuoka's most provocative and far-reaching critiques was his assessment of modern science itself -- not merely its applications in agriculture, but its fundamental assumptions and trajectory. He saw science as a "rampage" that was leading humanity toward catastrophe.
+One of Masanobu Fukuoka"s most provocative and far-reaching critiques was his assessment of modern science itself -- not merely its applications in agriculture, but its fundamental assumptions and trajectory. He saw science as a "rampage" that was leading humanity toward catastrophe.
 
 ## The Pit of Knowledge
 
 Fukuoka used a powerful metaphor to describe the progress of scientific knowledge: digging a pit. "It is as if man is digging and enlarging an underground pit. All that we have to do is look at the rice growing here under the sun. But scientists examine it under the microscope; they take it back to their dark laboratories and study it there."
 
-As the pit of knowledge grows deeper, the circle of light within it grows larger, but the darkness surrounding it grows proportionally larger as well. "One bit of knowledge creates two new queries in our minds. Solving these gives rise to yet new questions. To say 'I understand' is to not understand."
+As the pit of knowledge grows deeper, the circle of light within it grows larger, but the darkness surrounding it grows proportionally larger as well. "One bit of knowledge creates two new queries in our minds. Solving these gives rise to yet new questions. To say "I understand' is to not understand."
 
 ## Universities as Factories of Doubt
 
@@ -32,7 +32,7 @@ Fukuoka devoted particular attention to dismantling the supposed laws upon which
 
 ## The Way Forward
 
-Fukuoka did not advocate the abandonment of all science and technology. He advocated a fundamental change in our relationship to knowledge: a recognition that human knowledge is limited, that nature's wisdom is greater than our own, and that the path forward lies not in more knowledge but in less.
+Fukuoka did not advocate the abandonment of all science and technology. He advocated a fundamental change in our relationship to knowledge: a recognition that human knowledge is limited, that nature"s wisdom is greater than our own, and that the path forward lies not in more knowledge but in less.
 
 "Mankind has developed through the human intellect and now through that same faculty is in the process of collapsing. Yet, even at this juncture, we continue to seek salvation through the intellect. Can you not see that the only road to such salvation is by discarding the intellect?"
 
@@ -61,7 +61,7 @@ The scene opens with Fukuoka struck by "the unexpected splendour of the branches
 
 ## The Moon and Basho
 
-"The scientists who rejoiced when rocks were brought back from the moon have less grasp of the moon than the children who sing out, 'How old are you, Mr. Moon?' Basho could apprehend the wonder of nature by watching the reflection of the full moon in the tranquillity of a pond. All the scientists did when they went off into space and stomped around in their space boots was to tarnish a bit of the moon's splendour for millions of lovers and children on the earth."
+"The scientists who rejoiced when rocks were brought back from the moon have less grasp of the moon than the children who sing out, "How old are you, Mr. Moon?' Basho could apprehend the wonder of nature by watching the reflection of the full moon in the tranquillity of a pond. All the scientists did when they went off into space and stomped around in their space boots was to tarnish a bit of the moon's splendour for millions of lovers and children on the earth."
 
 ## Technology Creates Need
 

@@ -49,7 +49,7 @@ with, regardless of scale or price.
 
 Coleman packs for delivery in distinctive 12-by-16-by-8-inch wooden
 boxes, handmade from native Maine cedar trees cut on the farm and
-milled at a neighbor's sawmill. The reusable box idea came from
+milled at a neighbor"s sawmill. The reusable box idea came from
 reading that 25 percent of the volume in the average landfill was
 food-packaging waste. Since all sales are to local markets, it was
 easy to avoid contributing to that waste stream.
@@ -57,7 +57,7 @@ easy to avoid contributing to that waste stream.
 The boxes are sanded smooth and coated with a food-grade finish.
 The trademark "Seasonal Salads" is burned into the end boards with
 a branding iron. These boxes look attractive in produce coolers,
-catch the customer's eye, establish brand loyalty, and help sell
+catch the customer"s eye, establish brand loyalty, and help sell
 whatever they contain. The box dimensions were determined by
 measuring both produce coolers in stores and the cargo space of the
 delivery vehicle.

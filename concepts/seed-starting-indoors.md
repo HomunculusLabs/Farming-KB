@@ -9,7 +9,7 @@ sources: [raw/papers/gardening-when-it-counts-steve-solomon.md]
 
 # Seed Starting Indoors
 
-How to raise your own vegetable transplants indoors, from [[steve-solomon]]'s *[[gardening-when-it-counts]]*. Solomon prefers direct seeding for most crops but acknowledges that raising your own seedlings is essential for tomatoes, peppers, eggplant, and other heat-loving crops in shorter-season areas.
+How to raise your own vegetable transplants indoors, from [[steve-solomon]]"s *[[gardening-when-it-counts]]*. Solomon prefers direct seeding for most crops but acknowledges that raising your own seedlings is essential for tomatoes, peppers, eggplant, and other heat-loving crops in shorter-season areas.
 
 ## Why Raise Your Own
 

@@ -33,7 +33,7 @@ Patterned systems exist in two or more dimensions, and each pattern type has a c
 
 ### Lobulation in Low-Energy Environments
 
-When kinetic forces do not act strongly — as in flat, sheltered desert environments — lobulation and latticing still occur as freeze-thaw or swell-shrink patterns, as they do in ice floes on quiet ponds or in the hexagonal patterns of stones on tundra. Lobulation differs in origin and mode of expression from kinetic-energy flow systems. Mollison describes lobulated forms as "a response of nature, or life, to a world that threatens 'no difference.'"
+When kinetic forces do not act strongly — as in flat, sheltered desert environments — lobulation and latticing still occur as freeze-thaw or swell-shrink patterns, as they do in ice floes on quiet ponds or in the hexagonal patterns of stones on tundra. Lobulation differs in origin and mode of expression from kinetic-energy flow systems. Mollison describes lobulated forms as "a response of nature, or life, to a world that threatens "no difference.'"
 
 ### Kinetic to Chemical Transitions
 

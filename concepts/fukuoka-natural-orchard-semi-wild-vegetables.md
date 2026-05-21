@@ -1,5 +1,5 @@
 ---
-title: Fukuoka's Natural Orchard and Semi-Wild Vegetable Methods
+title: Fukuoka"s Natural Orchard and Semi-Wild Vegetable Methods
 source: masanobu-fukuoka-fukuoka.md
 type: concept
 ---
@@ -29,7 +29,7 @@ Trees allowed to follow their natural form from the beginning bear fruit every y
 
 ### The Morishima Acacia Ecosystem
 The acacia creates a self-regulating pest control system:
-- Aphids feed on the acacia's year-round new buds → multiply rapidly
+- Aphids feed on the acacia"s year-round new buds → multiply rapidly
 - Ladybirds feed on aphids → multiply rapidly
 - When aphids are consumed, ladybirds climb down to citrus trees and feed on mites, arrowhead scales, and cottony-cushion scales
 
@@ -46,7 +46,7 @@ Fukuoka grows vegetables among weeds and clover in the spaces between citrus tre
 - **Best conditions:** Wait for rain likely to last several days; cut a swath in weed cover, scatter seeds, lay cut weeds back over as mulch
 
 ### Key Techniques
-- **Scatter, don't row-plant:** Beetles and insects walk in straight lines; chickens spot cleared patches and scratch. Random scattering avoids both threats
+- **Scatter, don"t row-plant:** Beetles and insects walk in straight lines; chickens spot cleared patches and scratch. Random scattering avoids both threats
 - **Clay pellets** for hard-to-germinate species (spinach, carrots) — soak seeds 1–2 days, wrap in clay
 - **Sow thickly** for competitive species: radish, turnips, leafy greens will outcompete weeds
 - **Self-seeding perennials:** Garlic, Japanese pearl onions, Chinese leeks come up year after year once established
@@ -72,13 +72,13 @@ This result was checked as an "experimental discrepancy" and discarded. Only hal
 
 ## Natural vs Chemical Food Quality
 
-Fukuoka's observations on food quality:
+Fukuoka"s observations on food quality:
 
 - **Eggs:** Caged leghorn yolks are soft, watery, pale yellow. Free-range mountain chicken yolks are firm, resilient, bright orange — "a real egg, just like in the old days"
 - **Vegetables:** Semi-wild vegetables have a distinctly richer, more subtle flavor than chemically grown ones — they receive a more balanced diet of nutrients from diverse weed communities
 - **Shriveling is preservation:** Fruit/vegetables in slightly shriveled state have lowest respiration and energy consumption — like a person meditating. Maintaining mere appearance of freshness (sprinkling water) actually accelerates deterioration of flavor and nutrition
 - **Food and medicine are one:** Wild vegetables and edible herbs are both nutritious and medicinal. Chemically grown vegetables may be eaten as food but cannot serve as medicine
-- **The seven herbs of spring** (watercress, shepherd's purse, wild turnip, cottonweed, chickweed, wild radish, bee nettle) calm the spirit. Shepherd's purse is best for calming restless feelings and curing children's tantrums
+- **The seven herbs of spring** (watercress, shepherd"s purse, wild turnip, cottonweed, chickweed, wild radish, bee nettle) calm the spirit. Shepherd's purse is best for calming restless feelings and curing children's tantrums
 
 ## Economics of Natural Food
 
@@ -93,10 +93,10 @@ Fukuoka's economic analysis:
 ## Critique of Modern Agriculture and Research
 
 - **Specialization blindness:** Each researcher sees only one factor; none grasp the whole
-- **Research serves itself:** Professor Tsuno studies plant metabolism, writes books, gets doctorates — but explicitly leaves applications to Fukuoka, saying "I'm going to stick to research"
+- **Research serves itself:** Professor Tsuno studies plant metabolism, writes books, gets doctorates — but explicitly leaves applications to Fukuoka, saying "I"m going to stick to research"
 - **The Green Revolution** depends on weak "improved" varieties that require 8–10 chemical applications per season, burning soil clean of microorganisms and making crops dependent on external nutrients
 - **Pollution compounds:** Solutions to pollution create second- and third-generation problems more difficult than the original. The proposed solution to Inland Sea red tide (pumping Pacific water through a pipe across Shikoku) would require nuclear power plants, uranium processing, massive concrete — each step creating new pollution
-- **Technology serves commerce, not farmers:** A manufacturer rejected Fukuoka's simple seeding tool ($3.50 value) saying "If we made a gadget like that, the farmers might start thinking they didn't need the tractors we sell for thousands of dollars"
+- **Technology serves commerce, not farmers:** A manufacturer rejected Fukuoka"s simple seeding tool ($3.50 value) saying "If we made a gadget like that, the farmers might start thinking they didn"t need the tractors we sell for thousands of dollars"
 
 ## See Also
 - [[natural-farming]]

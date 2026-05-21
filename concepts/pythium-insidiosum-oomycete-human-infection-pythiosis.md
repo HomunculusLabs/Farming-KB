@@ -1,6 +1,6 @@
 ---
 title: Pythium insidiosum and Pythiosis
-source: Mr. Bloomfield's Orchard (Money, 2002)
+source: Mr. Bloomfield"s Orchard (Money, 2002)
 tags: ergosterol in their cell membranes,
 rendering standard antifungal drugs that target ergosterol synthesis
 entirely ineffective against pythiosis.

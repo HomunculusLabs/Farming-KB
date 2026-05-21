@@ -16,13 +16,13 @@ If his pupils take pleasure in describing the sensations, Vogel asks them to tak
 
 ## The Mechanistic Approach Fails
 
-Adults are much less successful than children, which leads Vogel to surmise that many scientists will not be able to repeat his or Backster's experiments. "If they approach the experimentation in a mechanistic way, and don't enter into mutual communication with their plants and treat them as friends, they will fail."
+Adults are much less successful than children, which leads Vogel to surmise that many scientists will not be able to repeat his or Backster"s experiments. "If they approach the experimentation in a mechanistic way, and don"t enter into mutual communication with their plants and treat them as friends, they will fail."
 
 "Hundreds of laboratory workers [[yage-common-themes-south-american-indians]] "were keenly aware of these faculties. When in need, they would go into the woods. With their arms extended, they would place their backs to a pine tree in order to replenish themselves with its power."
 
 ## Key Quotes
 
-- "The plant's response is, in my opinion, not that of an intelligence in plant form, but that the plant becomes an extension of oneself."
+- "The plant"s response is, in my opinion, not that of an intelligence in plant form, but that the plant becomes an extension of oneself."
 - "Through such sharing, a person and a plant become one. This oneness is what makes possible a mutual sensitivity allowing plant and man not only to intercommunicate, but to record these communications."
 - "It seemed to me to be describable only as pure consciousness." -- Debbie Sapp
 

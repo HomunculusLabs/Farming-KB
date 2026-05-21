@@ -20,7 +20,7 @@ The main valley carries the primary water flow, fed by many smaller creeks enter
 
 Individual raindrops, wherever they fall, follow paths that cross contours at approximately right angles — because the perpendicular path represents the shortest drop between two contour lines. Water takes the shortest path across the landscape from where it falls to where it reaches the river line. Once in the river valley, it flows rapidly to the sea.
 
-This means that most rainfall runs off the landscape quickly, with minimal opportunity for infiltration, storage, or biological use. The permaculture designer's task is to intercept this water at the highest practical point and redirect it through as many productive uses as possible before allowing it to leave the system.
+This means that most rainfall runs off the landscape quickly, with minimal opportunity for infiltration, storage, or biological use. The permaculture designer"s task is to intercept this water at the highest practical point and redirect it through as many productive uses as possible before allowing it to leave the system.
 
 ## Locating the Keypoint
 
@@ -81,7 +81,7 @@ In the lower valleys, additional dams can be constructed, each slightly lower th
 
 ## The Roof-and-Tank Model
 
-Mollison's central metaphor for this system is powerful in its simplicity: having found the keypoint, "we can now treat the whole landscape as if it were a roof and a tank."
+Mollison"s central metaphor for this system is powerful in its simplicity: having found the keypoint, "we can now treat the whole landscape as if it were a roof and a tank."
 
 - **The roof** is the hillside above the keypoint, collecting rainfall
 - **The gutter** is the keyline, intercepting and redirecting the collected water

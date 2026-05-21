@@ -9,7 +9,7 @@ tags: [root-crop, staple-food, permaculture, tropical-agriculture, starch]
 
 ## Description
 
-Arrowroot is a tropical starchy root crop mentioned by [[permaculture]]: A Designers' Manual* as one of the reliable subsistence crops that hold constant value. Mollison includes it alongside potato and taro as an example of crops worth prioritizing over high-input, market-driven varieties because they provide food security across diverse conditions.
+Arrowroot is a tropical starchy root crop mentioned by [[permaculture]]: A Designers" Manual* as one of the reliable subsistence crops that hold constant value. Mollison includes it alongside potato and taro as an example of crops worth prioritizing over high-input, market-driven varieties because they provide food security across diverse conditions.
 
 ## Classification
 
@@ -22,7 +22,7 @@ Arrowroot is a tropical starchy root crop mentioned by [[permaculture]]: A Desig
 ## Key Facts
 
 - Mollison identifies arrowroot as a fail-safe crop that produces reliably in most conditions — wet or dry, cold or hot — making it ideal for diverse permaculture systems.
-- The name "arrowroot" may derive from the plant's historical use in treating arrow wounds, or from the Arawak word *aru-aru* meaning "meal of meals."
+- The name "arrowroot" may derive from the plant"s historical use in treating arrow wounds, or from the Arawak word *aru-aru* meaning "meal of meals."
 - The rhizomes produce a highly digestible, easily extracted starch that is used as a thickener and as a weaning food for infants.
 - Arrowroot starch is notable for being easily digested and is traditionally used for convalescents and people with digestive disorders.
 - The plant grows 1-1.5 meters tall with large, flat leaves and produces small white flowers.

@@ -20,7 +20,7 @@ sources:
 
 ## Introduction
 
-Caffeine (1,3,7-trimethylxanthine) is the world's most widely consumed psychoactive substance, produced as a [[tea-cultivation-and-camellia-sinensis-processing]]* (tea), *Coffea* spp. (coffee), *Ilex paraguariensis* (yerba mate), *Ilex guayusa* (guayusa), and *Ilex vomitoria* (yaupon) — each evolved caffeine biosynthesis independently through convergent evolution. This page focuses on the underappreciated caffeine plants beyond coffee and standard tea, with detailed cultivation guidance for temperate and subtropical growers.
+Caffeine (1,3,7-trimethylxanthine) is the world"s most widely consumed psychoactive substance, produced as a [[tea-cultivation-and-camellia-sinensis-processing]]* (tea), *Coffea* spp. (coffee), *Ilex paraguariensis* (yerba mate), *Ilex guayusa* (guayusa), and *Ilex vomitoria* (yaupon) — each evolved caffeine biosynthesis independently through convergent evolution. This page focuses on the underappreciated caffeine plants beyond coffee and standard tea, with detailed cultivation guidance for temperate and subtropical growers.
 
 ## Caffeine Biosynthesis and Plant Evolution
 

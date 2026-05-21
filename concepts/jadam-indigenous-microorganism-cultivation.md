@@ -14,7 +14,7 @@ A cornerstone of the JADAM system is the cultivation of indigenous microorganism
 
 ### Local Adaptation
 
-JADAM's approach to microorganism management is fundamentally local: the beneficial microorganisms best suited to a particular farm are already present in that farm's soil. The task is not to import exotic strains but to create conditions that favor the indigenous beneficial populations.
+JADAM"s approach to microorganism management is fundamentally local: the beneficial microorganisms best suited to a particular farm are already present in that farm's soil. The task is not to import exotic strains but to create conditions that favor the indigenous beneficial populations.
 
 ### Grass as Microorganism Habitat
 
@@ -32,7 +32,7 @@ The technique is elegantly simple: find an area of healthy grass, collect the so
 
 "Water is an absolute need for plants but too much will drown them. Anything that is good will turn bad if not applied in the appropriate amount."
 
-JADAM's approach to soil biology is guided by the principle of balance, not maximization. The goal is not the highest possible microorganism count but a balanced community in which no single population dominates.
+JADAM"s approach to soil biology is guided by the principle of balance, not maximization. The goal is not the highest possible microorganism count but a balanced community in which no single population dominates.
 
 ### The Non-Dualistic View
 

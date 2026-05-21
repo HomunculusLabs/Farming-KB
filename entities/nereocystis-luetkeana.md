@@ -62,7 +62,7 @@ Sea urchins are the primary herbivores of N. luetkeana. When urchin populations 
 
 Outplanting of cultured juvenile sporophytes onto artificial substrates and natural reef surfaces has been successful in Washington and British Columbia. Survival rates of 30–60% have been reported for seeded rope deployments.
 
-Commercial cultivation for food and alginate has been explored but is not practiced at scale. The species' annual [[comparison-fish-aminos-vs-kelp-meal]] derived from N. luetkeana provides micronutrients, [[query-how-do-fungi-improve-soil-structure]] and water retention.
+Commercial cultivation for food and alginate has been explored but is not practiced at scale. The species" annual [[comparison-fish-aminos-vs-kelp-meal]] derived from N. luetkeana provides micronutrients, [[query-how-do-fungi-improve-soil-structure]] and water retention.
 
 ## Threats and Conservation
 

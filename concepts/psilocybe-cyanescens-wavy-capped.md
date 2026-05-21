@@ -19,7 +19,7 @@ type: concept
 - *[[psilocybe-mairei]]* Singer
 - *[[psilocybe-bohemica]]* Sebek
 
-Guzmán's geographic division of this complex was found to be inaccurate — specimens from North Africa (treated as *P. mairei*), England and Holland (*P. cyanescens*), and Serbia/Bohemia (*P. serbica*) likely all belong to a single widely distributed species. The species appears to cover a vast area with morphological variation along climate and terrain gradients, as expected for a "young" species that is still expanding into new locations.
+Guzmán"s geographic division of this complex was found to be inaccurate — specimens from North Africa (treated as *P. mairei*), England and Holland (*P. cyanescens*), and Serbia/Bohemia (*P. serbica*) likely all belong to a single widely distributed species. The species appears to cover a vast area with morphological variation along climate and terrain gradients, as expected for a "young" species that is still expanding into new locations.
 
 The [[growing-gourmet-pleurotus-sajor-caju-taxonomic-confusion]] persists because original descriptions were based on isolated collections compared only with dried [[herbarium-specimens-fungal-collections]], without DNA analysis or cross-breeding experiments with single-spore mycelia.
 
@@ -84,7 +84,7 @@ Unlike *P. semilanceata*, which is a grassland/pasture species, *P. cyanescens* 
 - **Season:** Fall, typically October–November
 - **Growth habit:** Gregarious, often in dense clusters on woody debris
 
-The association with wood chips and garden mulch explains much of the species' recent expansion — the modern practice of using bark and wood chip mulch in landscaping has created extensive new habitat for this species in urban and suburban areas throughout Europe and North America.
+The association with wood chips and garden mulch explains much of the species" recent expansion — the modern practice of using bark and wood chip mulch in landscaping has created extensive new habitat for this species in urban and suburban areas throughout Europe and North America.
 
 ## Possible Introduction
 

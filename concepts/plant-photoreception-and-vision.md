@@ -11,7 +11,7 @@ aliases: [Plant Vision, How Plants See Light, Plant Photoreceptors]
 Plants perceive light through a sophisticated array of photoreceptor proteins that
 detect intensity, direction, color, and duration of illumination. While plants lack
 eyes and brains, their ability to monitor the visual environment is remarkably
-comprehensive — they detect the full [[daniel-chamovitz]]'s "What a Plant Knows" explores this sensory
+comprehensive — they detect the full [[daniel-chamovitz]]"s "What a Plant Knows" explores this sensory
 world in depth.
 
 ## What Does It Mean for a Plant to "See"?

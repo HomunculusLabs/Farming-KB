@@ -14,7 +14,7 @@ Not all seed companies are equal. An ethical vegetable-garden seed business has 
 
 An ethical seed company will:
 
-1. **Conduct variety trials**: Grow out the varieties they sell under conditions similar to their customers' gardens, evaluating performance, uniformity, maturity timing, flavor, and disease resistance
+1. **Conduct variety trials**: Grow out the varieties they sell under conditions similar to their customers" gardens, evaluating performance, uniformity, maturity timing, flavor, and disease resistance
 2. **Test germination regularly**: Maintain in-house germination testing (even if uncertified) and test seed lots at least twice a year
 3. **Serve both gardeners and commercial growers**: Selling to farmers and market gardeners creates accountability — commercial customers demand and verify quality
 4. **Adapt varieties to the region**: Trial grounds should be located in roughly the same climatic zone as the customers they serve
@@ -23,7 +23,7 @@ An ethical seed company will:
 
 - **Trials** reveal what catalogs cannot — actual performance, flavor, storage potential, and disease resistance
 - **Germination testing** ensures the seed sold will actually perform
-- **Commercial accountability** prevents the "sweepings" problem — farmers won't accept inferior seed
+- **Commercial accountability** prevents the "sweepings" problem — farmers won"t accept inferior seed
 - **Regional adaptation** ensures varieties will actually mature and produce in the customer's climate
 
 ### The Economics of Quality

@@ -30,7 +30,7 @@ aerobic compost.
 
 - *Ampelomyces* actively parasitizes powdery mildew fungi (order Erysiphales),
   penetrating their hyphae and conidiophores, and producing spores inside the
-  host's structures.
+  host"s structures.
 - The more powdery mildew is present, the more *Ampelomyces* proliferates — it
   increases in proportion to its host's abundance, making it a self-regulating
   biocontrol agent.

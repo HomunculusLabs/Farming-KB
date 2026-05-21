@@ -16,7 +16,7 @@ D.M. Turner describes [[psilocybin-mushrooms-as-alien-symbiotes]] possibly an "e
 
 There are dozens of species of mushrooms containing the psychoactive alkaloids psilocybin/psilocin in active amounts. 99% of psilocybin mushrooms on the underground market are Psilocybe cubensis (also called [[emcdda-hallucinogenic-mushroom-amanita-muscaria-emerging-alternative]] use may be much older than 3,000 years. He proposes that mushroom spores arriving from outer space may have been some of the earliest forms of life on Earth. Studies at the University of Leiden determined that certain mushroom spores could survive up to 45 million years in interstellar transit (Nature, Aug 1985).
 
-R. Gordon Wasson's quest for mushroom knowledge began in 1927, after experiencing the cultural divide between Western mycophobia and other cultures' mycophilia. In 1955, Wasson participated in a mushroom ceremony guided by a 65-year-old shamaness in Mexico, possibly becoming the first white man to eat psilocybin mushrooms in hundreds of years.
+R. Gordon Wasson"s quest for mushroom knowledge began in 1927, after experiencing the cultural divide between Western mycophobia and other cultures' mycophilia. In 1955, Wasson participated in a mushroom ceremony guided by a 65-year-old shamaness in Mexico, possibly becoming the first white man to eat psilocybin mushrooms in hundreds of years.
 
 ## Dosage (Psilocybe cubensis, dried weight)
 

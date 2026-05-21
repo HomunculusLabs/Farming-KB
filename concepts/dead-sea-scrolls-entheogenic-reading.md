@@ -30,8 +30,8 @@ effects and side-effects of the sacred drug, not moral categories.
 **Astrological charts**: An astrological chart recovered from the Dead Sea caves
 describes the physical and spiritual characteristics of people born under
 different zodiac signs. Allegro connected this to the combined arts of medicine
-and astrology, which he argued were inseparable in [[mckenna-sect-of-the-phoenix-and-archaic-secret-knowledge]]**: The Essenes' secret knowledge, preserved under
-"tremendous oaths" by initiates, was, in Allegro's reading, knowledge of the
+and astrology, which he argued were inseparable in [[mckenna-sect-of-the-phoenix-and-archaic-secret-knowledge]]**: The Essenes" secret knowledge, preserved under
+"tremendous oaths" by initiates, was, in Allegro"s reading, knowledge of the
 sacred mushroom and its preparation. The names of healing "angels" were
 invocations of the powers contained in the drugs.
 

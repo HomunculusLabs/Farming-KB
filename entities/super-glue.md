@@ -17,7 +17,7 @@ created: 2026-04-28
 
 Super Glue is an indica-dominant hybrid cannabis strain created by crossing GG4 (formerly [[cannabis-resin-production-and-quality-traits-clarke]] sedative effects of its famous parent.
 
-The strain is named for its extraordinary trichome density, which gives buds a sticky, glue-like texture that clings to fingers and scissors. This naming convention follows GG Strains' tradition of adhesive-themed nomenclature, which also includes GG4 and related glue-themed crosses.
+The strain is named for its extraordinary trichome density, which gives buds a sticky, glue-like texture that clings to fingers and scissors. This naming convention follows GG Strains" tradition of adhesive-themed nomenclature, which also includes GG4 and related glue-themed crosses.
 
 Since its release in the mid-2010s, Super Glue has won multiple awards including first place in the 2016 Seattle Hempfest. It is widely regarded as one of the most potent indica-dominant strains in the commercial market, with THC content consistently testing between 25 and 31 percent.
 

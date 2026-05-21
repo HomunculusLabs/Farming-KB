@@ -25,7 +25,7 @@ Vomiting (the purge) is a central and expected part of the ayahuasca experience.
 - Spiritual cleansing: releasing negative energies and spiritual impurities
 - Diagnostic function: the vegetalista examines what is purged to identify the nature of the illness
 
-The purge is considered a form of medicine in itself. Amaringo's visions frequently show both vegetalistas and patients in the act of purging, depicted without shame -- it is a necessary and sacred act.
+The purge is considered a form of medicine in itself. Amaringo"s visions frequently show both vegetalistas and patients in the act of purging, depicted without shame -- it is a necessary and sacred act.
 
 ## La Dieta (The Diet)
 

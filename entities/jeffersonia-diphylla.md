@@ -17,7 +17,7 @@ sources:
 
 **Jeffersonia diphylla** (L.) Pers., commonly known as twinleaf, is a herbaceous perennial plant in the family Berberidaceae. It is native to [[bolete-fungi-appalachian-region]] and the Ohio River Valley.
 
-The species is named in honor of Thomas Jefferson by Benjamin Smith Barton, reflecting Jefferson's interests in botany and natural history. The specific epithet *diphylla* means "two-leaved," referring to the distinctive bilobed leaf that appears to be split into two halves.
+The species is named in honor of Thomas Jefferson by Benjamin Smith Barton, reflecting Jefferson"s interests in botany and natural history. The specific epithet *diphylla* means "two-leaved," referring to the distinctive bilobed leaf that appears to be split into two halves.
 
 Twinleaf is valued for its early spring flowers — large, white, eight-petaled blooms that appear briefly in April — and for its medicinal root, which contains berberine and other alkaloids. It is a close relative of the Asian *Jeffersonia dubia*.
 

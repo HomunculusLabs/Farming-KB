@@ -30,7 +30,7 @@ Mushrooms are classified into three main ecological groups based on how they obt
 
 ### 1. Saprophytes
 
-[[growing-gourmet-saprophytic-mushrooms-decomposers]] feed on **dead plants and animals**. They are nature's primary recyclers, breaking down complex organic matter such as fallen trees, dead leaves, [[fungi-in-composting-and-agricultural-waste-conversion]], returning nutrients to the soil for future plant growth. A well-known example is **[[cancer-medicinal-mushrooms-pleurotus-ostreatus]]** (Hed Nangrom, the oyster mushroom), which commonly grows on decaying wood and straw. These mushrooms are the most commonly cultivated species because they can be grown on a wide variety of inexpensive organic substrates, making them accessible to small-scale and home growers.
+[[growing-gourmet-saprophytic-mushrooms-decomposers]] feed on **dead plants and animals**. They are nature"s primary recyclers, breaking down complex organic matter such as fallen trees, dead leaves, [[fungi-in-composting-and-agricultural-waste-conversion]], returning nutrients to the soil for future plant growth. A well-known example is **[[cancer-medicinal-mushrooms-pleurotus-ostreatus]]** (Hed Nangrom, the oyster mushroom), which commonly grows on decaying wood and straw. These mushrooms are the most commonly cultivated species because they can be grown on a wide variety of inexpensive organic substrates, making them accessible to small-scale and home growers.
 
 ### 2. Parasites
 

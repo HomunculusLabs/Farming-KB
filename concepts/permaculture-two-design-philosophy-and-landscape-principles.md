@@ -6,19 +6,19 @@ type: concept
 
 ## Permaculture Two Design Philosophy and Landscape Principles
 
-*Permaculture Two: Practical Design and Further Theory in Permanent Agriculture* (1979) is [[bill-mollison]]'s second book, written with greater leisure than the hurried *Permaculture One*. It shifts emphasis from the theoretical foundations of permanent agriculture toward practical design methodology—"how to design, rather than designing your site."
+*Permaculture Two: Practical Design and Further Theory in Permanent Agriculture* (1979) is [[bill-mollison]]"s second book, written with greater leisure than the hurried *Permaculture One*. It shifts emphasis from the theoretical foundations of permanent agriculture toward practical design methodology—"how to design, rather than designing your site."
 
 ## Core Definition
 
-Mollison's distinguishing claim for permaculture is that it is "primarily a *consciously designed* agricultural system—a system that combines landscape design with perennial plants and animals to make a safe and sustainable resource for town and country." It is "truly [[appropriate-technology]] giving high yields for low energy inputs, and using only human skill and intellect to achieve a stable resource of great complexity and stability."
+Mollison"s distinguishing claim for permaculture is that it is "primarily a *consciously designed* agricultural system—a system that combines landscape design with perennial plants and animals to make a safe and sustainable resource for town and country." It is "truly [[appropriate-technology]] giving high yields for low energy inputs, and using only human skill and intellect to achieve a stable resource of great complexity and stability."
 
 The book is explicitly about design, "not gardening or livestock per se but as elements in a system intended to serve man, and the ends of good ecology."
 
 ## The Underlying Philosophy
 
-Mollison credits [[masanobu-fukuoka]]'s *The One Straw Revolution* as the best statement of permaculture's basic philosophy. In summary:
+Mollison credits [[masanobu-fukuoka]]"s *The One Straw Revolution* as the best statement of permaculture's basic philosophy. In summary:
 
-1. **Work with nature, not against it**: The contrast is drawn between the Aboriginal, who "takes only what is given freely, and takes it with due reverence," and the ploughman, who "would cut open his mother's breast to obtain milk."
+1. **Work with nature, not against it**: The contrast is drawn between the Aboriginal, who "takes only what is given freely, and takes it with due reverence," and the ploughman, who "would cut open his mother"s breast to obtain milk."
 2. **Protracted and thoughtful observation rather than protracted and thoughtless labor**: Design replaces drudgery.
 3. **Look at plants and animals in all their functions**: No area is treated as a single-product system.
 
@@ -36,11 +36,11 @@ Mollison presents compelling evidence that natural systems outperform agricultur
 
 - **African meat production**: When land was cleared, fenced, ploughed, sown with pasture, and stocked with exotic cattle, meat protein production fell to **1/160th** of its natural level
 - **Australian carrying capacity**: A single grazier on land that once supported 200 to 300 Aboriginal people represents a catastrophic decline in productivity
-- **Central American dooryard gardens**: Andersen's description of Honduran gardens reveals intensely productive polycultures where "it is no longer clear where orchard, field, house and garden have their boundaries, where annuals and perennials belong, or indeed where cultivation gives way to naturally-evolved systems"
+- **Central American dooryard gardens**: Andersen"s description of Honduran gardens reveals intensely productive polycultures where "it is no longer clear where orchard, field, house and garden have their boundaries, where annuals and perennials belong, or indeed where cultivation gives way to naturally-evolved systems"
 
 ## The Dooryard Garden Model
 
-Andersen's description of Central American gardens serves as a practical model:
+Andersen"s description of Central American gardens serves as a practical model:
 
 ### Structure
 - Compact garden-orchards of several hundred square feet surrounding houses
@@ -62,7 +62,7 @@ Mollison personifies "Monoculture Man" as "a pompous figure I often imagine to e
 
 ## Design in Landscape
 
-The book's design methodology covers several critical areas:
+The book"s design methodology covers several critical areas:
 
 ### Zone and Sector Ground Planning
 - **Zones**: Elements placed according to frequency of human visitation (Zone 0 = house, Zone 1 = intensive garden, expanding outward to Zone 5 = wilderness)

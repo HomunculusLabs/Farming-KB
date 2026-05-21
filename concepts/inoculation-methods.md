@@ -54,7 +54,7 @@ The salt limits bacterial growth without stifling spore germination. This is a m
 - Remove mushroom, incubate cardboard in a sealed container in a cool, dark place
 - After 1 week, look for island colonies of germinating spores
 - Transfer mother colony to a sheet 4x larger for expansion
-- Repeat every 2-3 months; cardboard's wood-based glues boost mycelial growth
+- Repeat every 2-3 months; cardboard"s wood-based glues boost mycelial growth
 
 ### Spores on Straw (Cold Incubation)
 - Immerse 1g spores in 1 liter water; spread over 10 lbs moist untreated straw
@@ -117,7 +117,7 @@ Stamets recommends creating "mother patches" from laboratory spawn:
 
 ## Cardboard Spawn (Mycelial Footprints)
 
-One of Stamets' most elegant methods:
+One of Stamets" most elegant methods:
 1. Flatten 2 corrugated cardboard boxes; tear to expose corrugations
 2. Soak until saturated; place exposed-corragation side against mycelium
 3. Scrape away top layer of wood chips if mycelium is buried; expose it to cardboard

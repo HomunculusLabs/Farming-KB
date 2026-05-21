@@ -1,6 +1,6 @@
 ---
 title: Satori Strain Profile (Mandala Seeds)
-source: S.T. Oner, Cannabis Sativa Volume 3: The Essential Guide to the World's Finest Marijuana Strains
+source: S.T. Oner, Cannabis Sativa Volume 3: The Essential Guide to the World"s Finest Marijuana Strains
 source_path: raw/papers/s-t-oner-the-rev-cannabis-sativa-volume-3_-the-essential-gu.md
 extracted: 2026-05-10
 type: concept
@@ -35,7 +35,7 @@ Satori's genetic background is built around two key components:
 ## Appearance
 
 - **Bud structure**: Dense, resin-coated flowers with a slim, elegant profile
-- **Trichome coverage**: Described as "ridiculously resinous" — the level of resin production is the strain's most striking visual feature
+- **Trichome coverage**: Described as "ridiculously resinous" — the level of resin production is the strain"s most striking visual feature
 - **Coloration**: Green with the heavy crystalline coating typical of high-resin Nepalese-influenced strains
 - **Overall impression**: A premium-quality plant that signals its potency through its extraordinary resin coverage
 

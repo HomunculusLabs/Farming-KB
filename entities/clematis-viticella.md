@@ -17,7 +17,7 @@ sources:
 
 Clematis viticella is a deciduous climbing vine in the family Ranunculaceae, native to southern Europe and western Asia. It is one of the most historically significant species in Clematis breeding, serving as a parent of the widely grown Viticella Group cultivars.
 
-The species is prized for its profuse summer-to-autumn blooming habit and exceptional resistance to Clematis wilt (caused by Calophoma clematidina). Common names include Italian leather flower, virgin's bower, and vine clematis.
+The species is prized for its profuse summer-to-autumn blooming habit and exceptional resistance to Clematis wilt (caused by Calophoma clematidina). Common names include Italian leather flower, virgin"s bower, and vine clematis.
 
 Flowers are typically nodding, bell-shaped to semi-open, measuring 4–7 cm across in shades of violet-purple, blue-purple, or occasionally reddish-purple. The species gained renewed horticultural importance after the Victorian-era Clematis wilt epidemics that devastated large-flowered hybrids. It has been cultivated in European gardens since at least the 16th century and was known to the herbalist John Gerard by 1597.
 
@@ -53,7 +53,7 @@ Soil pH preference ranges from mildly acidic (pH 6.0) to alkaline (pH 8.0), with
 
 Clematis viticella is among the most garden-worthy Clematis species, valued for reliability and disease resistance. It prefers a position with full sun to partial shade and moist but well-drained soil enriched with [[coleman-overwintered-onions-and-early-spring-crops]] before new growth begins.
 
-The species flowers on the current year's growth, meaning it blooms reliably even after severe pruning or winter dieback. Hard pruning encourages vigorous new shoots and prevents the tangled mass of dead stems that accumulates without maintenance.
+The species flowers on the current year"s growth, meaning it blooms reliably even after severe pruning or winter dieback. Hard pruning encourages vigorous new shoots and prevents the tangled mass of dead stems that accumulates without maintenance.
 
 Propagation is typically by softwood cuttings taken in late spring or early summer. Cuttings root readily in approximately 3–4 weeks under mist with bottom heat at 18–21°C.
 

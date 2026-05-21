@@ -18,7 +18,7 @@ The social power, respect, reverence, and authority held by these pharmacopoeia-
 
 ## The Concept of Entheogens
 
-The word **entheogen** is derived from Greek: *en* (in) + *theo* (God) + *gen* (generation) — meaning "the generation of God within." For the experiencer, it signifies "the realization of God within one's own consciousness." This term has largely replaced older, more loaded words like "psychedelic" or "hallucinogen" among serious researchers, as it better captures the spiritual context in which these substances have traditionally been used.
+The word **entheogen** is derived from Greek: *en* (in) + *theo* (God) + *gen* (generation) — meaning "the generation of God within." For the experiencer, it signifies "the realization of God within one"s own consciousness." This term has largely replaced older, more loaded words like "psychedelic" or "hallucinogen" among serious researchers, as it better captures the spiritual context in which these substances have traditionally been used.
 
 Entheogens are fundamentally spiritual in nature. Their sacramental use has only recently been stigmatized, largely due to the conflation of all [[ethnobotanical-use-of-sacred-mushrooms-in-indigenous-cultures]] — under blanket prohibition policies.
 
@@ -27,7 +27,7 @@ Entheogens are fundamentally spiritual in nature. Their sacramental use has only
 The history of entheogen prohibition is deeply intertwined with political power. Several key events and patterns illustrate this:
 
 - **The Catholic Inquisition and Witch Hunts**: An estimated eight million people were tried as "witches" and murdered, with their land and properties seized — done in the name of God by church-government authorities, continuing into the 19th century
-- **Colonization of the Americas**: An estimated twenty million indigenous Central Americans were exterminated, nearly driving the Aztec, Inca, and Mayan peoples to extinction, with similar fates befalling [[cervantes-war-on-drugs-statistics]]**: Modern prohibition represents, in the author's view, propaganda serving corrupt and oppressive monetary interests that erodes constitutional rights while failing to distinguish between genuinely dangerous substances and traditional entheogens
+- **Colonization of the Americas**: An estimated twenty million indigenous Central Americans were exterminated, nearly driving the Aztec, Inca, and Mayan peoples to extinction, with similar fates befalling [[cervantes-war-on-drugs-statistics]]**: Modern prohibition represents, in the author"s view, propaganda serving corrupt and oppressive monetary interests that erodes constitutional rights while failing to distinguish between genuinely dangerous substances and traditional entheogens
 
 The underlying agenda across these historical events is identified as the repression of knowledge about entheogenic plants — knowledge that, if preserved, would allow individuals to directly access and understand the nature of spirituality through the traditional means provided by nature, bypassing institutional religious authority.
 

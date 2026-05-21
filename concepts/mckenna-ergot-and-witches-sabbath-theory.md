@@ -1,5 +1,5 @@
 ---
-title: McKenna on Ergot and the Witches' Sabbath Theory
+title: McKenna on Ergot and the Witches" Sabbath Theory
 created: 2026-04-26
 updated: 2026-04-23
 sources:
@@ -8,7 +8,7 @@ type: concept
 tags: [reference]
 ---
 
-## McKenna on Ergot and the Witches' Sabbath Theory
+## McKenna on Ergot and the Witches" Sabbath Theory
 
 In [[bloomfield-ergot-claviceps-purpurea-ergotism]]) in
 Western history: as the likely visionary catalyst of the [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]] constituted the mystery deserves careful reconsideration.
@@ -19,7 +19,7 @@ losing its hallucinogenic powers. Recipes in classical sources for the ritual
 Eleusinian beverage contained ingredients whose first letters could be
 arranged to spell "mushroom" in an ogham-like cipher.
 
-## The Witches' Sabbath and Plant Suppression
+## The Witches" Sabbath and Plant Suppression
 
 McKenna connects psychoactive plants more broadly to the medieval witch
 hysteria. The late medieval Church that conducted the great witch burnings

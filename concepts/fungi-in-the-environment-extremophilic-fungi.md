@@ -26,7 +26,7 @@ Fungi are well suited as agents of survival in extreme environments because they
 [[rock-inhabiting-oligotrophic-extremophilic-fungi]] represent a specialized group of extremophiles. Black meristematic or [[comparison-lichen-symbiosis-vs-mycorrhizal-symbiosis]] with algae and/or cyanobacteria provides carbon and surface protection
 - Fungal exopolymer production provides an interconnected microenvironment within the network
 
-Diverse [[fungal-biodiversity-deep-subsurface-caves]]**: Rock substrates buried several kilometres below the Earth's surface
+Diverse [[fungal-biodiversity-deep-subsurface-caves]]**: Rock substrates buried several kilometres below the Earth"s surface
 - **Chernobyl "Shelter"**: Melanized strains of *Alternaria*, *Cladosporium* and *Aureobasidium* survive and colonize highly radioactive concrete
 
 ## Acidic and Alkaline Environments

@@ -18,7 +18,7 @@ This page covers the history of LSD — its discovery, development, cultural imp
 ## Discovery by Albert Hofmann
 
 ### The Context
-In the 1930s, Swiss pharmaceutical company Sandoz was researching ergot alkaloids — compounds derived from the ergot fungus (Claviceps purpurea) that grows on rye. Arthur Stoll, head of Sandoz's pharmaceutical-chemical department, had isolated ergotamine in 1918. His protégé, Albert Hofmann, was tasked with synthesizing derivatives of lysergic acid.
+In the 1930s, Swiss pharmaceutical company Sandoz was researching ergot alkaloids — compounds derived from the ergot fungus (Claviceps purpurea) that grows on rye. Arthur Stoll, head of Sandoz"s pharmaceutical-chemical department, had isolated ergotamine in 1918. His protégé, Albert Hofmann, was tasked with synthesizing derivatives of lysergic acid.
 
 ### LSD-25
 On November 16, 1938, Hofmann synthesized the 25th compound in his lysergic acid amide series: lysergic acid diethylamide, or LSD-25. Initial pharmacological testing showed mild effects on uterine contractions in animals, and the compound was shelved as not particularly interesting.
@@ -28,7 +28,7 @@ On April 16, 1943, Hofmann decided to re-examine LSD-25. While resynthesizing it
 
 "An uninterrupted stream of fantastic pictures, extraordinary shapes with intense, kaleidoscopic play of colors."
 
-Three days later, on April 19, 1943, Hofmann deliberately ingested 250 micrograms (intended as a threshold dose — later understood to be a moderately strong dose) and rode his bicycle home as the effects intensified. This date became known as "Bicycle Day" and is celebrated as the discovery of LSD's psychoactive properties.
+Three days later, on April 19, 1943, Hofmann deliberately ingested 250 micrograms (intended as a threshold dose — later understood to be a moderately strong dose) and rode his bicycle home as the effects intensified. This date became known as "Bicycle Day" and is celebrated as the discovery of LSD"s psychoactive properties.
 
 ## Sandoz Research Era (1943–1966)
 
@@ -40,7 +40,7 @@ Between 1950 and 1966, over 1,000 clinical papers on LSD were published. Researc
 
 - **Psychotherapy**: LSD was used as an adjunct to psychoanalysis, particularly for alcoholism. A meta-analysis of six trials found a single dose of LSD produced significant improvement in alcoholism rates compared to controls.
 - **Psychosis research**: LSD was studied as a "psychotomimetic" — a drug that temporarily produces psychosis-like states
-- **Creativity**: Studies explored LSD's effects on creative problem-solving
+- **Creativity**: Studies explored LSD"s effects on creative problem-solving
 - **Pain management**: Research on LSD for terminal cancer patients, reducing anxiety about death
 - **Consciousness**: Early consciousness research and mystical experience studies
 
@@ -48,7 +48,7 @@ Between 1950 and 1966, over 1,000 clinical papers on LSD were published. Researc
 - **Humphry Osmond**: Coined the term "psychedelic" (mind-manifesting), researched LSD for alcoholism in Canada
 - **Stanislav Grof**: Developed LSD psychotherapy methods in Czechoslovakia, later became a leading transpersonal psychologist
 - **Aldous Huxley**: Wrote "The Doors of Perception" (1954) about his mescaline experiences; advocated for psychedelic research
-- **Myron Stolaroff**: Researched LSD's potential for creativity enhancement
+- **Myron Stolaroff**: Researched LSD"s potential for creativity enhancement
 - **Timothy Leary**: Harvard professor who began researching psilocybin and LSD, later became the most prominent advocate of psychedelic use
 
 ## CIA MK-Ultra and Project Artichoke
@@ -73,10 +73,10 @@ MK-Ultra was exposed in 1975 by the Church Committee (Senate Select Committee on
 Timothy Leary and Richard Alpert were fired from Harvard in 1963 for distributing LSD to students. Leary founded the League for Spiritual Discovery and became the face of the psychedelic movement, coining the phrase "Turn on, tune in, drop out."
 
 ### Kesey and the Merry Pranksters
-Ken Kesey (author of "One Flew Over the Cuckoo's Nest") and the Merry Pranksters conducted cross-country "Acid Tests" — large, chaotic parties where LSD was distributed freely, accompanied by light shows and music. These events were foundational to the emerging counterculture.
+Ken Kesey (author of "One Flew Over the Cuckoo"s Nest") and the Merry Pranksters conducted cross-country "Acid Tests" — large, chaotic parties where LSD was distributed freely, accompanied by light shows and music. These events were foundational to the emerging counterculture.
 
 ### The Summer of Love (1967)
-LSD became central to the 1967 Summer of Love in San Francisco's Haight-Ashbury district. The Grateful Dead, Jefferson Airplane, and other bands provided soundtracks for mass psychedelic experiences.
+LSD became central to the 1967 Summer of Love in San Francisco"s Haight-Ashbury district. The Grateful Dead, Jefferson Airplane, and other bands provided soundtracks for mass psychedelic experiences.
 
 ### Backlash
 Public concern about LSD increased dramatically:

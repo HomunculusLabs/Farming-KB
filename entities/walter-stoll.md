@@ -10,7 +10,7 @@ sources: ["raw/papers/hofmann-a-lsd-my-problem-child.md"]
 
 ## Walter Stoll
 
-**Walter Robert Stoll** (1910–1996) was a Swiss psychiatrist and the son of Arthur Stoll, a close colleague and collaborator of Albert Hofmann at Sandoz Pharmaceuticals. Walter Stoll played a pivotal role in the early clinical investigation of **LSD** as a therapeutic agent, conducting the first systematic psychiatric studies of the compound's effects on human patients.
+**Walter Robert Stoll** (1910–1996) was a Swiss psychiatrist and the son of Arthur Stoll, a close colleague and collaborator of Albert Hofmann at Sandoz Pharmaceuticals. Walter Stoll played a pivotal role in the early clinical investigation of **LSD** as a therapeutic agent, conducting the first systematic psychiatric studies of the compound"s effects on human patients.
 
 ## Background and Career
 
@@ -25,7 +25,7 @@ Stoll studied two groups of subjects:
 1. **Healthy volunteers** (including himself and colleagues), who received LSD and reported their experiences
 2. **Psychiatric patients**, who received LSD as an adjunct to psychotherapy
 
-The patients in Stoll's study suffered from various conditions including depression, obsessive-compulsive neurosis, and schizophrenia. Stoll observed that a single LSD session could produce profound emotional release and catharsis in some patients, with lasting improvements in their conditions. He noted that patients often re-experienced traumatic memories and childhood events with intense emotional clarity, a phenomenon that would later be termed **abreaction**.
+The patients in Stoll"s study suffered from various conditions including depression, obsessive-compulsive neurosis, and schizophrenia. Stoll observed that a single LSD session could produce profound emotional release and catharsis in some patients, with lasting improvements in their conditions. He noted that patients often re-experienced traumatic memories and childhood events with intense emotional clarity, a phenomenon that would later be termed **abreaction**.
 
 Stoll's findings were cautiously optimistic. He recognized both the therapeutic potential and the risks of LSD, and he advocated for careful, controlled clinical use under medical supervision.
 

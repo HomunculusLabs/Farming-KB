@@ -37,7 +37,7 @@ A biological mosquito larvicide technique using garlic (Allium sativum) bulbs cr
 
 ## Source Reference
 
-Bill Mollison, *Permaculture Design Course Pamphlet IX — [[urban-permaculture-techniques]]*, page 5. Mollison states: "That kills the larva. Just float off your garlic oils. It's about 100% kill. The garlic doesn't kill tadpoles."
+Bill Mollison, *Permaculture Design Course Pamphlet IX — [[urban-permaculture-techniques]]*, page 5. Mollison states: "That kills the larva. Just float off your garlic oils. It"s about 100% kill. The garlic doesn't kill tadpoles."
 
 ## Detailed Analysis
 

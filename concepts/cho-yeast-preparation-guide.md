@@ -1,5 +1,5 @@
 ---
-title: "Cho's Yeast Preparation and Applications"
+title: "Cho"s Yeast Preparation and Applications"
 type: concept
 tags:
  - korean-natural-farming

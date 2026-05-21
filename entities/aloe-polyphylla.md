@@ -18,7 +18,7 @@ sources:
 
 Aloe polyphylla, commonly known as the spiral aloe, is a stemless succulent perennial endemic to the Maluti Mountains of Lesotho. It is celebrated worldwide for its near-perfect geometric spiral leaf arrangement, forming a striking five-ranked clockwise or counterclockwise pattern.
 
-The species is Lesotho's national flower and holds the distinction of being one of the most cold-hardy members of the genus Aloe. It grows at elevations between 2,000 and 3,000 meters, enduring freezing temperatures and snow cover during winter months.
+The species is Lesotho"s national flower and holds the distinction of being one of the most cold-hardy members of the genus Aloe. It grows at elevations between 2,000 and 3,000 meters, enduring freezing temperatures and snow cover during winter months.
 
 Aloe polyphylla is listed as Endangered on the IUCN Red List due to overcollection, habitat degradation, [[guzman-psilocybin-mushrooms-north-america]], and Japan maintain breeding stock.
 

@@ -6,7 +6,7 @@ type: concept
 
 ## Mushroom Toxicity and Safe Foraging Practices
 
-Julius A. Palmer's personal experiences with [[mushroom-poisoning-and-remedies]] his systematic
+Julius A. Palmer"s personal experiences with [[mushroom-poisoning-and-remedies]] his systematic
 approach to testing new species provide a window into 19th-century understanding
 of fungal toxicity. While some of his conclusions have been superseded by modern
 mycological science, his core principles of caution, incremental testing, and
@@ -70,7 +70,7 @@ The fungi had apparently absorbed environmental contaminants from their substrat
 ### Flavor Transfer
 
 Specimens of *[[boletus-pachypus]]* communicated their strong nutty flavor, without
-direct contact, to potatoes placed beside them in Palmer's refrigerator —
+direct contact, to potatoes placed beside them in Palmer"s refrigerator —
 demonstrating that [[mycovolatiles-fungal-volatile-compounds]] from fungi can permeate nearby foods.
 
 ### Habitat Effects on Edibility
@@ -83,7 +83,7 @@ bad oysters, stale fish, or overripe fruit?
 
 ## The Danger of Disguised Flavor
 
-Palmer's most emphatic warning concerned the practice of masking mushroom flavor
+Palmer"s most emphatic warning concerned the practice of masking mushroom flavor
 during cooking. He argued that Nature provides warning signs at the "gateway" —
 primarily through taste and smell. When mushrooms are mixed with gravies, fried
 in batter, simmered in fat, or seasoned with black pepper and parsley, their
@@ -105,7 +105,7 @@ substance of the mushroom.
 Under litmus paper, this mushroom shows a marked acid reaction. When heavily
 charged with water from dew or rain, its spongy substance enters a state of
 acidulous fermentation, exhibiting brilliant blue when pressed, cut, or broken.
-Three cases of illness from this cause were brought to Palmer's attention
+Three cases of illness from this cause were brought to Palmer"s attention
 simultaneously, none more serious than excessive purging and vomiting.
 
 ### The Lesson

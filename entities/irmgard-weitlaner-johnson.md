@@ -27,7 +27,7 @@ Irmgard Weitlaner Johnson was an Austrian-Mexican anthropologist and expert on I
 - Joined the 1962 expedition and participated in the two-day Land Rover journey from Mexico City to the Sierra Mazateca
 - Participated in the mushroom ceremony with Maria Sabina at Huautla de Jimenez, receiving one psilocybin pill
 - Experienced "a euphoric condition of inebriation" influenced by the mystical atmosphere during the ceremony
-- Her family's multi-generational involvement in the study of Mexican magic mushrooms spans from her father's initial rediscovery work through the 1962 expedition
+- Her family"s multi-generational involvement in the study of Mexican magic mushrooms spans from her father's initial rediscovery work through the 1962 expedition
 
 ## Family Legacy
 

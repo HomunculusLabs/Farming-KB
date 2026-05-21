@@ -17,14 +17,14 @@ psilocybin functions as a paradigm-shifting agent capable of dissolving
 entrenched conceptual frameworks and opening new avenues for understanding
 consciousness and reality.
 
-## Wasson's Discovery and Its Impact
+## Wasson"s Discovery and Its Impact
 
 Wasson's 1957 Life magazine article about his experiences with psilocybin
 [[ethnobotanical-use-of-sacred-mushrooms-in-mexico]] "shines out like some otherworldly beacon signalling the
 awesome visionary power latent within" the mushroom. Powell notes that this
-single publication was instrumental in attracting the West's attention to
+single publication was instrumental in attracting the West"s attention to
 visionary fungi. The article marked the moment when the "secret of the
-mushroom was openly exposed, dramatically symbolising the West's bypassing
+mushroom was openly exposed, dramatically symbolising the West"s bypassing
 of the indigenous shamanic tradition." Wasson himself later expressed
 abject remorse at publicising the sacred ceremonies.
 

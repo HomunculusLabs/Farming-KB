@@ -13,7 +13,7 @@ tags: [reference]
 
 ## The Missing Rope
 
-Thor Heyerdahl's classic adventure story "The Ra Expeditions" has a
+Thor Heyerdahl"s classic adventure story "The Ra Expeditions" has a
 lesson for agriculture. Heyerdahl wanted to prove that ancient Egyptian
 sailors could have reached the New World in traditional boats made of
 bundled papyrus stalks. He and his crew studied fresco paintings, three

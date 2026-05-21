@@ -9,7 +9,7 @@ tags: [people, science, thermodynamics, science-fiction]
 
 ## Description
 
-Isaac Asimov (1920–1992) was a Russian-American author, biochemist, and one of the most prolific and influential science writers of the 20th century. Mollison quotes Asimov's restatement of the [[permaculture-design]] must work within — energy cannot be created from nothing, and all energy transformations produce waste heat (entropy), making efficient energy capture and storage essential.
+Isaac Asimov (1920–1992) was a Russian-American author, biochemist, and one of the most prolific and influential science writers of the 20th century. Mollison quotes Asimov"s restatement of the [[permaculture-design]] must work within — energy cannot be created from nothing, and all energy transformations produce waste heat (entropy), making efficient energy capture and storage essential.
 
 ## Classification
 

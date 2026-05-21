@@ -24,7 +24,7 @@ For twenty-two or twenty-three years preceding these results, Fukuoka had not ti
 - No weeding by mechanical means
 - No transplanting of seedlings (direct seeding)
 
-This represents the purest expression of Fukuoka's natural farming method applied to rice production.
+This represents the purest expression of Fukuoka"s natural farming method applied to rice production.
 
 ## Yield Results
 
@@ -46,7 +46,7 @@ This observation connects dietary quality with physical capability, suggesting t
 
 Fukuoka drew a direct line between his results and the economic interests that oppose natural farming:
 
-> "What happens if you don't have to plow, if you don't have any need for tillers and tractors, if you don't have to spread chemical fertilizers and pesticides? The key sectors of Japan's chemical industry will all collapse. No wonder then that no one is willing to believe such a method of farming is possible."
+> "What happens if you don"t have to plow, if you don't have any need for tillers and tractors, if you don't have to spread chemical fertilizers and pesticides? The key sectors of Japan's chemical industry will all collapse. No wonder then that no one is willing to believe such a method of farming is possible."
 
 He identified a structural conflict of interest: agricultural research institutions, chemical companies, and equipment manufacturers all have economic incentives to promote methods that require their products. Natural farming, which requires none of these inputs, threatens the foundation of these industries.
 
@@ -54,7 +54,7 @@ He identified a structural conflict of interest: agricultural research instituti
 
 Fukuoka extended his critique to the entire system of agricultural research:
 
-> "Look at those university agricultural testing centers everywhere and what they're studying. All that new technology is only hurting the farmer. The labor-saving methods being developed by armies of researchers are squeezing the farmer tighter and tighter."
+> "Look at those university agricultural testing centers everywhere and what they"re studying. All that new technology is only hurting the farmer. The labor-saving methods being developed by armies of researchers are squeezing the farmer tighter and tighter."
 
 He described the situation as a "golden age of farmer-less farming" — a period where technology designed to help farmers was actually driving them off the land:
 

@@ -23,7 +23,7 @@ The rhizosphere is the narrow zone of soil immediately surrounding plant roots, 
 - As root tips grow, cells are sloughed off into the rhizosphere, providing additional organic matter for microbial consumption.
 - Nutrient cycling reaches its peak efficiency in the rhizosphere: protozoa and nematodes consume bacteria and fungi for carbon, excreting excess nitrogen and other nutrients as waste in plant-available forms directly where roots can absorb them.
 - A teaspoon of rhizosphere soil can contain over a billion bacteria, several yards of fungal hyphae, several thousand protozoa, and a few dozen nematodes.
-- The rhizosphere functions analogously to perspiration in humans — exudates are the plant's way of "sweating" carbon compounds to recruit a beneficial microbiome.
+- The rhizosphere functions analogously to perspiration in humans — exudates are the plant"s way of "sweating" carbon compounds to recruit a beneficial microbiome.
 - Plants can control the composition of their rhizosphere community by varying the types of exudates they produce across different stages of the growing season.
 
 ## Relevance to Cultivation and Mycology

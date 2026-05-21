@@ -1,5 +1,5 @@
 ---
-title: The decentralizing-bender-perceiving-self-primary-datum-mckenna as Primary Datum in McKenna's Philosophy of Consciousness
+title: The decentralizing-bender-perceiving-self-primary-datum-mckenna as Primary Datum in McKenna"s Philosophy of Consciousness
 created: 2026-05-08
 updated: 2026-05-08
 type: concept
@@ -21,14 +21,14 @@ reality. Drawing on Alfred North Whitehead's process philosophy and the
 [[decentralizing-bender-perceiving-self-primary-datum-mckenna]]." The progressive removal of
 humanity from the center of reality — the Copernican revolution in astronomy,
 the Darwinian revolution in biology, the Freudian revolution in psychology
-— had, in McKenna's view, produced a culture alienated from its own
+— had, in McKenna"s view, produced a culture alienated from its own
 experience. "We have moved ourselves out toward the edge of the galaxy," he
 observed, "when the fact is that the most richly organized material in the
 universe is the human cerebral cortex, and the densest and richest experience
 in the universe is the experience you are having right now."
 
 This formulation is deliberately provocative. McKenna was not denying the
-astronomical facts of Earth's position in the cosmos or the biological facts
+astronomical facts of Earth"s position in the cosmos or the biological facts
 of human evolution. He was questioning the metaphysical inference that these
 facts diminish the significance of consciousness. The decentralization
 project, as he understood it, had confused epistemological humility with
@@ -51,7 +51,7 @@ The implication is that the study of consciousness should be central to
 any comprehensive understanding of reality, not peripheral to it. Physics,
 which studies the simplest and most fundamental interactions of matter,
 has historically been accorded the highest epistemic status in the
-sciences. McKenna's position inverts this hierarchy: the most significant
+sciences. McKenna"s position inverts this hierarchy: the most significant
 phenomenon in the universe is not the behavior of elementary particles or
 the expansion of spacetime but the experience of the perceiving self, which
 is the most complex and richly organized phenomenon known to exist.
@@ -59,7 +59,7 @@ is the most complex and richly organized phenomenon known to exist.
 ## Constellating Outward from the Self
 
 The principle that "everything should be constellated outward from the
-perceiving self" is McKenna's methodological and metaphysical alternative to
+perceiving self" is McKenna"s methodological and metaphysical alternative to
 the objectivism [[dmt-black-hole-effect-and-ineffability-of-tryptamine-experience]]
 provided empirical evidence for its validity. The phenomenological content
 of the DMT and psilocybin states — the encounter with hyperdimensional

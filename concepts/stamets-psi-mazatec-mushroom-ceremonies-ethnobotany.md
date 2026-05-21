@@ -13,7 +13,7 @@ type: concept
 
 ## Overview
 
-The ceremonial use of [[roger-heim]], and R. [[eleusinian-mysteries-minoan-mushroom-cults]] are remnants of an [[cap-versus-stem-alkaloid-distribution-in-psilocybin-mushrooms]] "teonanacatl," meaning "god's
+The ceremonial use of [[roger-heim]], and R. [[eleusinian-mysteries-minoan-mushroom-cults]] are remnants of an [[cap-versus-stem-alkaloid-distribution-in-psilocybin-mushrooms]] "teonanacatl," meaning "god"s
 flesh," reflecting the sacred status these mushrooms held in their
 culture. In the sixteenth century, Bernardino de Sahagun, a Franciscan
 friar accompanying Hernando Cortes, documented the ritualistic use of

@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-The practical appendix to *The [[leary-psychedelic-experience-bardo-mapping]]* (Section III: "Some Technical Comments About [[bardo-instruction-texts-psychedelic-sessions]]") provides an operational framework for conducting psychedelic sessions. Drawing from Leary, Metzner, and Alpert's [[hofmann-leary-case-and-harvard-research]], it covers drug dosages, preparatory practices, environmental design, the guide role, and group composition — grounded in the Tibetan [[bardo-thodol]] model.
+The practical appendix to *The [[leary-psychedelic-experience-bardo-mapping]]* (Section III: "Some Technical Comments About [[bardo-instruction-texts-psychedelic-sessions]]") provides an operational framework for conducting psychedelic sessions. Drawing from Leary, Metzner, and Alpert"s [[hofmann-leary-case-and-harvard-research]], it covers drug dosages, preparatory practices, environmental design, the guide role, and group composition — grounded in the Tibetan [[bardo-thodol]] model.
 
 ## Planning a Session
 
@@ -50,7 +50,7 @@ Taken orally on empty stomach: LSD and psilocybin onset ~20–30 min; mescaline 
 - **Euphoric induction**: Methedrine prior to session.
 - **Staggered administration**: Initial 200 μg LSD, then 200 μg "booster" once familiar with effects.
 - **Anti-nauseants**: Marezine, Bonamine, Dramamine, or Tigan (nausea is usually a mental symptom indicating fear, but can be physiological with morning-glory seeds and peyote).
-- **Breaking repetitive loops**: 50 mg DMT or 25 mg Dexedrine/Methedrine (with subject's consent).
+- **Breaking repetitive loops**: 50 mg DMT or 25 mg Dexedrine/Methedrine (with subject"s consent).
 - **Emergency antidote**: Thorazine (100–200 mg IM) terminates effects — should not be used simply from fear; Third Bardo sections should be read first.
 
 ## Preparation: Set and Setting
@@ -73,7 +73,7 @@ Expectations about the session itself that can shape or trap the experience:
 
 - **Medical**: imposing a medical model, interpreting sensations as sickness/health, placing the guide in a doctor-role — especially problematic if the guide also does this.
 - **Rebellion**: doing something "far out" or vaguely naughty — a naive set.
-- **Intellectual**: dangerous for novices. "Turn your mind off" is the best advice; intellectual exercises reserved for the session's last stage.
+- **Intellectual**: dangerous for novices. "Turn your mind off" is the best advice; intellectual exercises reserved for the session"s last stage.
 - **Religious**: float with the stream; postpone theological interpretations until later.
 - **Recreational/aesthetic**: natural and valid, but can become Third Bardo ego games preventing pure ego-loss.
 - **Planned**: the manual prepares for a [[mystical-experience]] per the Tibetan model, while acknowledging [[the-bardo-thodol-as-living-guide]] is itself a human artifact.
@@ -110,7 +110,7 @@ The guide should have **considerable experience** in psychedelic sessions and gu
 
 ### Routine: One Guide "Up," One Sober
 
-Maintaining alert quietism for hours is difficult for most Westerners. The routine: **one trained guide** takes a low dose with subjects (providing intimacy and cosmic companionship), while **one staff member** remains sober in "ground control" handling practical matters. Large doses are not recommended for guides during new-subject sessions — the subject's intense hallucinatory games can pull the guide out of the First Bardo void.
+Maintaining alert quietism for hours is difficult for most Westerners. The routine: **one trained guide** takes a low dose with subjects (providing intimacy and cosmic companionship), while **one staff member** remains sober in "ground control" handling practical matters. Large doses are not recommended for guides during new-subject sessions — the subject"s intense hallucinatory games can pull the guide out of the First Bardo void.
 
 ### The Guide as Liberator
 

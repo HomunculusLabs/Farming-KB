@@ -17,7 +17,7 @@ The highest prevalence estimates among young adults aged 15 to 24 years are foun
 
 - **Netherlands**: As the epicenter of legal mushroom retail through smartshops from the late 1990s until the ban in 2007, the Netherlands naturally showed high prevalence. The legal retail infrastructure, including professional packaging and marketing, normalized mushroom use among young Dutch people.
 
-- **United Kingdom**: The UK had one of Europe's most extensive dance music and club cultures, with significant overlap between ecstasy use and mushroom use. The availability of mushrooms through both online retailers and natural foraging in the British countryside contributed to elevated prevalence.
+- **United Kingdom**: The UK had one of Europe"s most extensive dance music and club cultures, with significant overlap between ecstasy use and mushroom use. The availability of mushrooms through both online retailers and natural foraging in the British countryside contributed to elevated prevalence.
 
 ## School Student Prevalence
 

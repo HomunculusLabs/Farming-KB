@@ -34,7 +34,7 @@ A compelling demonstration of edge expansion involves the box-thorn clump. Initi
 
 ## Agricultural Science and the Bias Against Edge
 
-Conventional agricultural science has historically **discarded edge data** from experimental plots and field trials. Researchers bias their methodology toward measuring the higher, more uniform production found in the interior of monocultural plots. The variable yields and mixed-species interactions characteristic of edges are treated as noise or experimental error rather than as valuable data. This methodological bias has led to agricultural systems that systematically ignore one of nature's most productive principles.
+Conventional agricultural science has historically **discarded edge data** from experimental plots and field trials. Researchers bias their methodology toward measuring the higher, more uniform production found in the interior of monocultural plots. The variable yields and mixed-species interactions characteristic of edges are treated as noise or experimental error rather than as valuable data. This methodological bias has led to agricultural systems that systematically ignore one of nature"s most productive principles.
 
 ## Beneficent vs. Non-Beneficent Edges
 

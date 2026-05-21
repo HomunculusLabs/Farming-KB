@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-[[sepp-holzer]] extends his critique of industrial agriculture to the global scale, examining the vulnerability of oil-dependent food systems, the failure of conventional reforestation practices, and the connection between monoculture forestry and catastrophic wildfires. This concept page examines Holzer's analysis of systemic problems in global land management.
+[[sepp-holzer]] extends his critique of industrial agriculture to the global scale, examining the vulnerability of oil-dependent food systems, the failure of conventional reforestation practices, and the connection between monoculture forestry and catastrophic wildfires. This concept page examines Holzer"s analysis of systemic problems in global land management.
 
 ## Oil Dependency and Food Security
 
@@ -20,11 +20,11 @@ Holzer recounts a consultation in Russia where he observed the paradox of vast a
 
 "They do not mind, because they live off the oil, but what will happen when the oil runs out? This dependency will lead to disaster."
 
-Holzer identifies oil dependency as the fundamental vulnerability of modern food systems. When agriculture relies on fossil fuels for fertilizers, pesticides, mechanization, and transportation, any disruption to oil supply threatens food security. The solution, in Holzer's view, is decentralized, self-sufficient food production based on natural [[water-management]] and biodiversity.
+Holzer identifies oil dependency as the fundamental vulnerability of modern food systems. When agriculture relies on fossil fuels for fertilizers, pesticides, mechanization, and transportation, any disruption to oil supply threatens food security. The solution, in Holzer"s view, is decentralized, self-sufficient food production based on natural [[water-management]] and biodiversity.
 
 ### The Imperative to Change
 
-"Now is the time for people to rethink and change, not only in Russia, but worldwide." Holzer's call to action is framed as urgent: the window for transition from oil-dependent to self-sufficient food systems is closing.
+"Now is the time for people to rethink and change, not only in Russia, but worldwide." Holzer"s call to action is framed as urgent: the window for transition from oil-dependent to self-sufficient food systems is closing.
 
 ## Reforestation Failures
 
@@ -32,7 +32,7 @@ Holzer identifies oil dependency as the fundamental vulnerability of modern food
 
 "To do so big earth movers drove into the mountains and built terraces on to which the trees are planted in straight rows. These trees are not mixed with other trees, shrubs and herbs as is necessary."
 
-Holzer's critique targets the conventional approach to reforestation: mechanical terracing, monoculture planting, and the destruction of existing biomass. This approach, while visually impressive, creates forests that are ecologically impoverished and highly vulnerable to fire, disease, and drought.
+Holzer"s critique targets the conventional approach to reforestation: mechanical terracing, monoculture planting, and the destruction of existing biomass. This approach, while visually impressive, creates forests that are ecologically impoverished and highly vulnerable to fire, disease, and drought.
 
 ### Burning Biomass
 
@@ -42,7 +42,7 @@ The practice of burning cleared vegetation—intended to reduce fire risk—actu
 
 ### The Wrong Question
 
-"Nobody even asks why the forest dries out to such a degree that it would catch fire in the first place." Holzer's insistence on addressing root causes recurs here: the question is not how to prevent fire in a dry forest but why the forest is dry.
+"Nobody even asks why the forest dries out to such a degree that it would catch fire in the first place." Holzer"s insistence on addressing root causes recurs here: the question is not how to prevent fire in a dry forest but why the forest is dry.
 
 ### The Protection Function of Existing Trees
 
@@ -56,13 +56,13 @@ The practice of burning cleared vegetation—intended to reduce fire risk—actu
 
 ### The Coimbra Fire
 
-"In 2009, a forest fire even reached the inner city of Coimbra, one of Portugal's great university cities. The pictures looked like showing a war zone."
+"In 2009, a forest fire even reached the inner city of Coimbra, one of Portugal"s great university cities. The pictures looked like showing a war zone."
 
 The Coimbra fire illustrates the escalating consequences of failed forest management. When wildfires reach urban areas, the human cost becomes impossible to ignore.
 
 ### The Scientific Failure
 
-"One would think that when a large university is damaged by a forest fire, the scientists would start investigating why." Holzer expresses frustration with the scientific establishment's failure to investigate the root causes of the wildfire crisis, preferring to study symptoms rather than causes.
+"One would think that when a large university is damaged by a forest fire, the scientists would start investigating why." Holzer expresses frustration with the scientific establishment"s failure to investigate the root causes of the wildfire crisis, preferring to study symptoms rather than causes.
 
 ## Mixed Seed Reforestation
 
@@ -78,7 +78,7 @@ Rather than mechanical planting, Holzer prefers to work with natural regeneratio
 
 ### The Anastasia Connection
 
-Holzer references Vladimir Megré's "Anastasia" books, which envision a return to rural living and natural land management. While Holzer does not fully endorse Megré's philosophy, he shares the vision of human settlement patterns that work with rather than against natural processes.
+Holzer references Vladimir Megré's "Anastasia" books, which envision a return to rural living and natural land management. While Holzer does not fully endorse Megré"s philosophy, he shares the vision of human settlement patterns that work with rather than against natural processes.
 
 ### Decentralization
 

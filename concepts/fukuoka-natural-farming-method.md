@@ -30,7 +30,7 @@ Fukuoka called his approach "do-nothing" farming. The field has not been plowed 
 The essential method is "direct-seeded, no-tillage, winter grain/rice succession in a clover cover":
 
 1. **Early October**: Broadcast clover among the rice; winter grain (rye/barley) follows mid-month
-2. **Early November**: Harvest rice; sow next year's rice seed and spread straw
+2. **Early November**: Harvest rice; sow next year"s rice seed and spread straw
 3. **Mid-November to mid-December**: Broadcast [[clay-ball-seed-pellets|clay pellets]] containing rice seed among young grain plants
 4. **May**: Harvest winter grain, spread straw
 5. **June-July**: Leave unirrigated (rainwater sufficient)
@@ -40,7 +40,7 @@ The essential method is "direct-seeded, no-tillage, winter grain/rice succession
 
 Fukuoka argued that even organic farming is "just another type of scientific farming" -- moving organic materials from place to place, processing and treating them. The gains are local and temporal; from a broader perspective, many efforts to protect the natural ecology are actually destructive.
 
-He further argued that "there is no cause and effect in nature" -- the endless chain of interwoven events and factors is beyond man's powers of comprehension. The only effective approach to restoring barren land is to leave things largely up to nature.
+He further argued that "there is no cause and effect in nature" -- the endless chain of interwoven events and factors is beyond man"s powers of comprehension. The only effective approach to restoring barren land is to leave things largely up to nature.
 
 ## Revegetating Deserts
 

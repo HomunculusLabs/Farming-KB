@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-The potency of psilocybin-containing mushrooms is not static — it changes dramatically throughout the mushroom's life cycle and is influenced by substrate, harvest timing, [[oss-oeric-drying-and-preservation-methods]]. Understanding these factors is essential for maximizing the quality of harvested specimens. Additionally, techniques exist for extracting and concentrating the active alkaloids into a more compact and dose-controllable form.
+The potency of psilocybin-containing mushrooms is not static — it changes dramatically throughout the mushroom"s life cycle and is influenced by substrate, harvest timing, [[oss-oeric-drying-and-preservation-methods]]. Understanding these factors is essential for maximizing the quality of harvested specimens. Additionally, techniques exist for extracting and concentrating the active alkaloids into a more compact and dose-controllable form.
 
 ## Potency Through the Life Cycle
 

@@ -24,7 +24,7 @@ sources:
 
 # John H. Halpern
 
-Psychiatrist and researcher at Harvard Medical School and McLean Hospital's Biological Psychiatry Laboratory. Specialist in hallucinogen pharmacology and the religious use of psychoactive plants in the United States. Published in Pharmacology & Therapeutics and the Journal of Psychoactive Drugs.
+Psychiatrist and researcher at Harvard Medical School and McLean Hospital"s Biological Psychiatry Laboratory. Specialist in hallucinogen pharmacology and the religious use of psychoactive plants in the United States. Published in Pharmacology & Therapeutics and the Journal of Psychoactive Drugs.
 
 ## Research Focus
 

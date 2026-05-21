@@ -7,7 +7,7 @@ tags: [person, anthropologist, ayahuasca, urban-shamanism, peru]
 
 ## Description
 
-Marlene Dobkin de Rios is an American anthropologist and ethnopharmacologist known for her pioneering research on [[ayahuasca]] use in urban settings in Peru. A contributor to [[michael-harner]]'s 1973 edited volume *[[hallucinogens-and-shamanism]]*, Dobkin de Rios documented the practice of ayahuasca curing in an urban slum environment, providing one of the first detailed accounts of how traditional hallucinogenic plant practices adapt to modernizing and urbanizing contexts. She also authored one of the first book-length treatments of hallucinogens from an anthropological perspective (1972).
+Marlene Dobkin de Rios is an American anthropologist and ethnopharmacologist known for her pioneering research on [[ayahuasca]] use in urban settings in Peru. A contributor to [[michael-harner]]"s 1973 edited volume *[[hallucinogens-and-shamanism]]*, Dobkin de Rios documented the practice of ayahuasca curing in an urban slum environment, providing one of the first detailed accounts of how traditional hallucinogenic plant practices adapt to modernizing and urbanizing contexts. She also authored one of the first book-length treatments of hallucinogens from an anthropological perspective (1972).
 
 ## Classification
 
@@ -19,10 +19,10 @@ Marlene Dobkin de Rios is an American anthropologist and ethnopharmacologist kno
 ## Key Facts
 
 - Dobkin de Rios contributed Chapter 6 to Harner's volume: "Curing with Ayahuasca in an Urban Slum," documenting how traditional *Banisteriopsis*-based healing practices persist and adapt in urbanizing Peruvian communities.
-- Her 1972 book, published around the time of Harner's volume, was one of the first emphasizing an anthropological perspective on hallucinogenic plant use, cited by Harner alongside Peter Furst's 1972 work.
+- Her 1972 book, published around the time of Harner"s volume, was one of the first emphasizing an anthropological perspective on hallucinogenic plant use, cited by Harner alongside Peter Furst's 1972 work.
 - Dobkin de Rios's research fills a critical gap in the literature: while most anthropological accounts focused on indigenous use of ayahuasca in remote tribal settings, her work documented the practice in urban environments where indigenous, mestizo, and modern cultural elements interact.
 - Her chapter in Harner's volume represents one of the earliest academic treatments of what would later be called "[[ayahuasca-tourism]]" and the globalization of hallucinogenic plant practices, though from the perspective of urban Peruvian communities rather than foreign seekers.
-- Harner specifically cites her work as one of only two recently published books (alongside Furst, 1972) that emphasize an anthropological perspective on hallucinogenic plant use at the time of his volume's completion.
+- Harner specifically cites her work as one of only two recently published books (alongside Furst, 1972) that emphasize an anthropological perspective on hallucinogenic plant use at the time of his volume"s completion.
 
 ## Relevance to Cultivation and Mycology
 

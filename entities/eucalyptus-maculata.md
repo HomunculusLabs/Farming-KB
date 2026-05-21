@@ -25,7 +25,7 @@ Spotted gum is native to the east coast of Australia, a region dominated by summ
 
 ## Key Facts
 
-- **Exceptional climate adaptability:** One of the most significant findings from Holmgren's revegetation research is that spotted gum performs successfully well outside its natural climatic range. It has proven to be one of the most vigorous and valuable farm timber trees in parts of southern Australia that are dominated by winter rainfall — the opposite seasonal pattern to its native east coast habitat.
+- **Exceptional climate adaptability:** One of the most significant findings from Holmgren"s revegetation research is that spotted gum performs successfully well outside its natural climatic range. It has proven to be one of the most vigorous and valuable farm timber trees in parts of southern Australia that are dominated by winter rainfall — the opposite seasonal pattern to its native east coast habitat.
 - **Timber value:** Spotted gum produces high-quality hardwood timber prized for its strength, durability, and attractive appearance. The timber is used in construction, flooring, tool handles, and engineering applications.
 - **Revegetation success:** The species has demonstrated that planting species from dissimilar climates can yield surprising and valuable results, challenging the conventional wisdom of only planting locally sourced species.
 

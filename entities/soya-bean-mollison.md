@@ -9,7 +9,7 @@ tags: [legume, grain, industrial-agriculture, permaculture, monoculture, defores
 
 ## Description
 
-The soya bean is discussed by [[permaculture]]: A Designers' Manual* not as a crop to celebrate, but as a cautionary example of industrial agricultural dysfunction. Mollison critiques the soya bean's role in global deforestation, monoculture expansion, and corporate food control, while acknowledging its nutritional significance in vegetarian diets.
+The soya bean is discussed by [[permaculture]]: A Designers" Manual* not as a crop to celebrate, but as a cautionary example of industrial agricultural dysfunction. Mollison critiques the soya bean's role in global deforestation, monoculture expansion, and corporate food control, while acknowledging its nutritional significance in vegetarian diets.
 
 ## Classification
 

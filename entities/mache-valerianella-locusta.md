@@ -7,7 +7,7 @@ tags: [species, vegetable, cold-hardy, winter-crop, valerianaceae, salad-green]
 
 ## Overview
 
-Mache (Valerianella locusta), also known as corn salad, lamb's lettuce, or field salad, is a small, cold-hardy annual leaf vegetable in the family Caprifoliaceae (formerly Valerianaceae). It is one of the standout winter crops in Eliot Coleman's [[cold-house-unheated-greenhouse]] system at [[four-season-farm]], valued for its exceptional cold tolerance, nutty flavor, and ability to thrive during the shortest days of winter. Along with claytonia and minutina, mache is classified as one of the "novel" cold-hardy crops that Coleman introduced to American [[coleman-french-historical-winter-vegetable-production]].
+Mache (Valerianella locusta), also known as corn salad, lamb"s lettuce, or field salad, is a small, cold-hardy annual leaf vegetable in the family Caprifoliaceae (formerly Valerianaceae). It is one of the standout winter crops in Eliot Coleman's [[cold-house-unheated-greenhouse]] system at [[four-season-farm]], valued for its exceptional cold tolerance, nutty flavor, and ability to thrive during the shortest days of winter. Along with claytonia and minutina, mache is classified as one of the "novel" cold-hardy crops that Coleman introduced to American [[coleman-french-historical-winter-vegetable-production]].
 
 ## Classification
 
@@ -20,7 +20,7 @@ Mache (Valerianella locusta), also known as corn salad, lamb's lettuce, or field
 
 ## Description
 
-Mache forms small, compact rosettes of tender, spoon-shaped dark green leaves. The plants are low-growing, typically 2-4 inches tall, making them well-suited to production under the low floating row covers used in Coleman's winter system (supported at 12 inches above soil). The leaves have a distinctive nutty, slightly sweet flavor that improves markedly in cool temperatures. Heat stress degrades both flavor and texture.
+Mache forms small, compact rosettes of tender, spoon-shaped dark green leaves. The plants are low-growing, typically 2-4 inches tall, making them well-suited to production under the low floating row covers used in Coleman"s winter system (supported at 12 inches above soil). The leaves have a distinctive nutty, slightly sweet flavor that improves markedly in cool temperatures. Heat stress degrades both flavor and texture.
 
 ## Cold Hardiness
 

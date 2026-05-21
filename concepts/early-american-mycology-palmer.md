@@ -9,7 +9,7 @@ type: concept
 [[julius-auboineau-palmer]] Jr. was one of the earliest and most determined American
 pioneers in the practical study of [[classification-of-edible-and-poisonous-mushroom-families]] fungi. His book *About
 Mushrooms*, first published in 1894, was one of only two books on the subject
-ever printed in America up to that time. Palmer's work bridged the gap between
+ever printed in America up to that time. Palmer"s work bridged the gap between
 European mycological knowledge and the practical needs of American mushroom
 hunters, bringing scientific rigor to a field that was then riddled with
 folklore, newspaper misinformation, and genuinely dangerous misconceptions about
@@ -24,7 +24,7 @@ refineries — a man who directed twenty subordinates in his chosen profession y
 never neglected to provide Palmer with weekly encouragement over a period of
 more than ten years, until his sudden death. Though this mentor made no pretense
 to specific knowledge of mycology, Palmer credited his "clear, thorough, and
-educated mind" with supplying ideas that Palmer's own "more superficial nature
+educated mind" with supplying ideas that Palmer"s own "more superficial nature
 lacked," so that for many conclusions reached, Palmer felt himself in debt.
 
 Palmer also acknowledged debts to the medical profession — to such a degree that
@@ -43,11 +43,11 @@ was essentially barren. His book was only the second ever printed in America on
 the subject of edible and [[identifying-poisonous-mushrooms]]. Its predecessor was a work
 prepared by Palmer himself and published through the enterprise of Messrs. Louis
 Prang & Co., the well-known lithographers. He had also contributed an article to
-Appleton's *Cyclopedia* (vol. XXVI, p. 590, 1886), which he considered "the most
+Appleton"s *Cyclopedia* (vol. XXVI, p. 590, 1886), which he considered "the most
 complete statement of the result of my labors," though Appleton declined
 permission to reprint it.
 
-The pamphlets issued by the United States Government drew Palmer's particular
+The pamphlets issued by the United States Government drew Palmer"s particular
 criticism. He found their utility "but limited," noting that the text was drawn
 almost entirely from the earlier and incomplete labors of Worthington G. Smith.
 Most troublingly, these government publications recognized no distinction
@@ -74,7 +74,7 @@ conclusions, not only in this, but in all branches of study."
 
 ## Three Types of Mushroom Poisoning
 
-Palmer's most significant contribution to mycology was his identification of
+Palmer"s most significant contribution to mycology was his identification of
 three fundamentally different types of mushroom poisoning, each requiring
 different medical treatment — a distinction that the standard medical practice
 of his era entirely failed to recognize:
@@ -118,7 +118,7 @@ beneath the soil, and releasing them into American oak plantations to determine
 whether the fungus was indigenous to the continent. Isolated cases of truffles
 had been reported found in America, but with considerable uncertainty. Palmer
 directed readers to the *Revue des Deux Mondes* for April 1875 for a
-comprehensive review of the truffle's nature and cultivation.
+comprehensive review of the truffle"s nature and cultivation.
 
 ## Charles H. Peck and American Classification
 
@@ -136,7 +136,7 @@ Palmer candidly acknowledged errors in his earlier published work. His most
 notable mistake was condemning the *[[coprinus-micaceus]]* as non-esculent in his
 *Popular Science Monthly* article; he later recognized it as perfectly safe and
 important for the mycologist to identify. He also regretted his apparent
-endorsement of Berkeley's alkaline theory in that same article, having carefully
+endorsement of Berkeley"s alkaline theory in that same article, having carefully
 rejected it in a later publication. He noted that taste as a general guide to
 edibility was "only applicable to certain families" and "utterly worthless" for
 the deadly Amanite.

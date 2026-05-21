@@ -10,7 +10,7 @@ sources:
 
 ## Sericulture Nature vs Science
 
-Masanobu Fukuoka's analysis of sericulture (silkworm cultivation) illustrates his broader [[hamilton-composting-and-organic-matter-management]] to the soil. They were part of the farm ecosystem, not isolated from it.
+Masanobu Fukuoka"s analysis of sericulture (silkworm cultivation) illustrates his broader [[hamilton-composting-and-organic-matter-management]] to the soil. They were part of the farm ecosystem, not isolated from it.
 
 Traditional sericulture was embedded within a way of life Fukuoka described as self-sufficient and independent. Farmers of old were "creatures of nature, and being close to God (nature incarnate), experienced the daily joy and pride of tending the gardens of God."
 

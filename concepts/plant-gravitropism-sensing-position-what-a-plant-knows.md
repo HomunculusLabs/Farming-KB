@@ -10,7 +10,7 @@ tags:
 
 The primary gravity sensors in plants are specialized organelles called **statoliths** — dense, starch-filled amyloplasts that act as microscopic lead weights inside gravity-sensing cells. Because of their high density relative to the surrounding cytoplasm, statoliths sediment to the lowest point of the cell within minutes of a change in orientation. This sedimentation is the physical signal that tells the plant which direction gravity is pulling.
 
-The physics is straightforward: amyloplasts are roughly 1.7 times denser than the cytoplasm, giving them enough mass to overcome the resistance of the cytoskeletal network and settle under gravitational force. In a typical statocyte, this sedimentation covers a distance of only 10–20 micrometers — less than the width of a human hair — but this tiny movement is enough to trigger a complete reorientation of the plant's growth axis.
+The physics is straightforward: amyloplasts are roughly 1.7 times denser than the cytoplasm, giving them enough mass to overcome the resistance of the cytoskeletal network and settle under gravitational force. In a typical statocyte, this sedimentation covers a distance of only 10–20 micrometers — less than the width of a human hair — but this tiny movement is enough to trigger a complete reorientation of the plant"s growth axis.
 
 Mutant plants that cannot synthesize starch (and therefore lack functional statoliths) show significantly impaired [[plant-tissue-systems-meristematic-ground-vascular-and-dermal|tissue]] contains statocytes that detect gravity and direct upward growth. The endodermis also contains the Casparian strip, a suberin-based barrier that may play a role in auxin regulation during the gravitropic response.
 

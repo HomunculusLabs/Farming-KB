@@ -22,7 +22,7 @@ The EMCDDA recorded the most widely used terms for hallucinogenic mushrooms
 across European languages and user communities:
 
 **English terms**: magic mushrooms, mush, mushies, boomers, psilocybes, cubes,
-liberty caps, caps, philosopher's stone, sacred mushrooms, teonanacatl, Mexican
+liberty caps, caps, philosopher"s stone, sacred mushrooms, teonanacatl, Mexican
 mushrooms, and moon children. These terms range from descriptive (liberty caps
 referring to the shape of P. semilanceata) to culturally specific (teonanacatl
 being the Aztec name meaning "divine flesh" or "flesh of god") to slang (boomers,
@@ -49,7 +49,7 @@ hallucinogenic mushrooms, primarily in the Netherlands and the UK. This
 commercialization introduced new product names and marketing strategies that
 reflected the evolving demographics of mushroom consumers.
 
-### The "Philosopher's Stone" Brand
+### The "Philosopher"s Stone" Brand
 
 One of the most notable marketing innovations was the branding of Psilocybe
 [[cotter-mushroom-products-and-value-added-applications]] with the broader trend toward organic and herbal

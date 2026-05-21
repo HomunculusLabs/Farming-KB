@@ -21,7 +21,7 @@ Chenrazee (Tibetan name for Avalokiteshvara, also known as Chenrezig) is the Bod
 - The Dalai Lama is considered an emanation of Chenrazee
 - Name means "He who looks with an unwinking eye" — ceaseless compassion for all beings
 - Associated with the mantra "Om Mani Padme Hum"
-- Appears alongside Amitabbha in the Bardo Thodol's Fifth Day vision
+- Appears alongside Amitabbha in the Bardo Thodol"s Fifth Day vision
 - Accompanied by the "Glorious Gentle-voiced One" and female incarnates of "song" and "light"
 - Represents the quality of mercy that arises during the Fire-Flow vision of internal unity
 

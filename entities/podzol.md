@@ -9,7 +9,7 @@ tags: [soil-science, soil-type, geology, maine, soil-amendment]
 
 ## Description
 
-Podzol (also spelled podsól) is a highly leached, acidic soil type characterized by a pale ash-gray eluviation horizon (E horizon) overlying a darker illuviation horizon where organic matter, iron, and aluminum have accumulated. The name derives from the Russian *pod zola* meaning "under ash." On Eliot Coleman's [[four-season-farm]] in Harborside, Maine, the native soil is a sandy acid podzol with a pH of 4.3 — among the most challenging agricultural starting points imaginable.
+Podzol (also spelled podsól) is a highly leached, acidic soil type characterized by a pale ash-gray eluviation horizon (E horizon) overlying a darker illuviation horizon where organic matter, iron, and aluminum have accumulated. The name derives from the Russian *pod zola* meaning "under ash." On Eliot Coleman"s [[four-season-farm]] in Harborside, Maine, the native soil is a sandy acid podzol with a pH of 4.3 — among the most challenging agricultural starting points imaginable.
 
 ## Classification
 
@@ -41,7 +41,7 @@ The characteristic soil profile from top to bottom:
 
 Podzolic soils present significant obstacles to crop production:
 
-- **Extreme acidity** (pH 4.3 at Coleman's farm) — most crops require pH 6.0–7.0
+- **Extreme acidity** (pH 4.3 at Coleman"s farm) — most crops require pH 6.0–7.0
 - **Low nutrient availability** — essential minerals are leached away
 - **Low [[cation-exchange-capacity]]** — poor nutrient retention
 - **Sandy texture** — rapid drainage, low water-holding capacity
@@ -59,7 +59,7 @@ Coleman describes converting podzol into productive market-garden soil as creati
 - USDA classification: Spodosol
 - Characterized by pale ashy E horizon over dark B horizon
 - Forms under coniferous forests in cool, humid climates
-- Coleman's farm soil: pH 4.3, sandy, acid podzol
+- Coleman"s farm soil: pH 4.3, sandy, acid podzol
 - Requires significant amendment for agriculture
 - Common in New England, Scandinavia, northern Europe, and Russia
 

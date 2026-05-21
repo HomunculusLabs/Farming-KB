@@ -16,7 +16,7 @@ The distinction between shallow and deep organic farming is fundamental. Shallow
 
 Deep-organic farmers, by contrast, focus on quality as their primary goal. They raise chickens on grass pasture where sunshine and green forage produce eggs with deep orange yolks and superior flavor. They maintain dairy herds on pasture where cows eat grass as they were evolutionarily designed to, producing raw milk richer in key nutrients. They grow varieties selected for taste and nutritional value rather than transportability or uniform appearance.
 
-Coleman notes that the organic companies bought out by industrial food giants are precisely those whose quality is so low that informed consumers wouldn't want their products regardless of the label. Small, committed, deep-organic family farms represent the fastest growing segment in U.S. agriculture, in part because they are too focused on quality to attract acquisition interest.
+Coleman notes that the organic companies bought out by industrial food giants are precisely those whose quality is so low that informed consumers wouldn"t want their products regardless of the label. Small, committed, deep-organic family farms represent the fastest growing segment in U.S. agriculture, in part because they are too focused on quality to attract acquisition interest.
 
 ## The Right Question: Nutrition, Not Just "Organic"
 
@@ -25,7 +25,7 @@ A central tenet of deep-organic philosophy is reframing the question from "is it
 Achieving this requires:
 
 - **Variety selection** for taste and nutritional value (factors that are closely related)
-- **Growing conditions** aimed at optimizing the plant's physiological potential
+- **Growing conditions** aimed at optimizing the plant"s physiological potential
 - **Soil management** focused on delivering every mineral in balance, with attention to trace elements, soil aeration, and exceptional compost
 
 The parallel is clear: just as organic farming demonstrated that it is best for soil health to not have the soil food supply manipulated by industry, it follows that it is best for human health to not have human food treated the same way.
@@ -37,7 +37,7 @@ Coleman advocates for food that is not merely organic but "real." Real food is f
 - Whole grain breads and crackers made fresh daily
 - Wheat, oat, and rye berries for customers to grind into fresh flour
 - Raw milk and butter from local grass-fed herds
-- Fresh-squeezed juices into customers' own containers
+- Fresh-squeezed juices into customers" own containers
 - Local, range-fed meat, poultry, and eggs
 - Fresh year-round fruits and vegetables from nearby fields and greenhouses
 - Only traditional processed foods: cheese, yogurt, sauerkraut, pickles, dried tomatoes, wine, and beer
@@ -47,7 +47,7 @@ Such a store would eliminate middlemen, energy-intensive shipping, and the need 
 
 ## The Relationship with Nature
 
-A recurring theme in deep-organic philosophy is that humans mistakenly consider nature imperfect and try to improve it, when in fact the human relationship with nature is what needs improving. Biotechnology companies advertise "Think what's possible"—assuming they can remake the parts of nature they don't understand. Coleman argues that if they understood those systems, they would realize they don't need remaking.
+A recurring theme in deep-organic philosophy is that humans mistakenly consider nature imperfect and try to improve it, when in fact the human relationship with nature is what needs improving. Biotechnology companies advertise "Think what"s possible"—assuming they can remake the parts of nature they don't understand. Coleman argues that if they understood those systems, they would realize they don't need remaking.
 
 The approach is to operate more intelligently within natural rules rather than trying to change them. This means managing natural processes with the greatest possible skill to produce food containing everything nature designed it to contain.
 

@@ -41,7 +41,7 @@ Distinguish appropriation from appreciation:
 - Compensate: When possible, direct resources back to source communities
 - Learn: Study the cultural context, not just the techniques
 - Defer: Recognize that indigenous voices should lead discussions about their own traditions
-- Don't claim: Avoid presenting borrowed practices as original or claiming indigenous identity
+- Don"t claim: Avoid presenting borrowed practices as original or claiming indigenous identity
 
 ## Sustainability of Wild Harvesting
 

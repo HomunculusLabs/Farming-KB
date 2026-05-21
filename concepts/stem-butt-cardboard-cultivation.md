@@ -10,7 +10,7 @@ sources:
 
 # Stem Butt and Cardboard Cultivation
 
-Low-tech methods for expanding mycelium without laboratory equipment. From [[paul-stamets]]' *Mycelium Running* (2005). See also [[inoculation-methods]] and [[mycelium-running-techniques]].
+Low-tech methods for expanding mycelium without laboratory equipment. From [[paul-stamets]]" *Mycelium Running* (2005). See also [[inoculation-methods]] and [[mycelium-running-techniques]].
 
 ## Stem Butt Revolution
 

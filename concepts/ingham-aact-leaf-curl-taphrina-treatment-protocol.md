@@ -45,7 +45,7 @@ The fall spray serves multiple purposes:
 
 1. **Surface colonization** — beneficial organisms establish on leaf surfaces and bark before winter
 2. **Decomposition of infected debris** — organisms break down infected fallen leaves, destroying overwintering Taphrina spores
-3. **Bark protection** — fungal and [[microwave-sterilization-versus-conventional-methods-comparison]], it just isn't possible."
+3. **Bark protection** — fungal and [[microwave-sterilization-versus-conventional-methods-comparison]], it just isn"t possible."
 
 ### Why Single Sprays Fail
 

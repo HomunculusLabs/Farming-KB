@@ -20,7 +20,7 @@ The species typically grows 2–6 meters tall with long, upright, flexible rods 
 
 The species exhibits remarkable phenotypic plasticity, adapting its growth form to environmental conditions. In open, sunny sites it forms a dense multi-stemmed shrub; in competitive woodland edges it produces taller, fewer stems.
 
-Several cultivars have been selected for bioenergy production, including 'Tora', 'Jorr', and 'Gudrun'. These varieties differ in growth rate, disease resistance, stem yield, and susceptibility to leaf rust (*Melampsora* spp.).
+Several cultivars have been selected for bioenergy production, including "Tora', 'Jorr', and 'Gudrun'. These varieties differ in growth rate, disease resistance, stem yield, and susceptibility to leaf rust (*Melampsora* spp.).
 
 Beyond its traditional craft uses, osier willow has gained attention for phytoremediation of contaminated soils, [[dighton-fungal-drought-tolerance-plant-water-relations]] once established and effective soil binding.
 

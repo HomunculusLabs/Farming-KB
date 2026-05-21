@@ -6,7 +6,7 @@ type: concept
 
 ## Permaculture Pattern Recognition in Design
 
-Pattern recognition is one of the foundational skills in [[permaculture-design]]. It is the ability to see recurring forms, processes, and relationships across natural systems, human cultures, and design disciplines — and to apply those observations to create regenerative landscapes. [[bill-mollison]] emphasized that the designer who can read [[patterns-in-nature]] can replicate their efficiency and resilience in built environments. This page explores how pattern recognition operates in permaculture thought and practice, drawing extensively from Mollison's [[mollison-permaculture-design-course-curriculum]].
+Pattern recognition is one of the foundational skills in [[permaculture-design]]. It is the ability to see recurring forms, processes, and relationships across natural systems, human cultures, and design disciplines — and to apply those observations to create regenerative landscapes. [[bill-mollison]] emphasized that the designer who can read [[patterns-in-nature]] can replicate their efficiency and resilience in built environments. This page explores how pattern recognition operates in permaculture thought and practice, drawing extensively from Mollison"s [[mollison-permaculture-design-course-curriculum]].
 
 ## The Origin of Patterns: From Void to Form
 

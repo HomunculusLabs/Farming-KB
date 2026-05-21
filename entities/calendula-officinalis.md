@@ -34,7 +34,7 @@ Calendula officinalis, commonly known as pot marigold, is an annual or short-liv
 | Species | C. officinalis |
 | Authority | L. (Linnaeus, 1753) |
 
-The genus name *Calendula* derives from Latin *calendae* (first day of each month), referring to the plant's tendency to bloom nearly year-round in mild climates. The specific epithet *officinalis* indicates its long-standing inclusion in official pharmacopoeias. "Pot marigold" distinguishes it from *Tagetes* (French and African marigolds), which it resembles superficially but to which it is not closely related.
+The genus name *Calendula* derives from Latin *calendae* (first day of each month), referring to the plant"s tendency to bloom nearly year-round in mild climates. The specific epithet *officinalis* indicates its long-standing inclusion in official pharmacopoeias. "Pot marigold" distinguishes it from *Tagetes* (French and African marigolds), which it resembles superficially but to which it is not closely related.
 
 ## Description
 

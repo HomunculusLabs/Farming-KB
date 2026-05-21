@@ -1,12 +1,12 @@
 ---
-title: "Coleman's Double-Layer Protection: Unheated Greenhouse Over Row Cover"
+title: "Coleman"s Double-Layer Protection: Unheated Greenhouse Over Row Cover"
 tags:
   - concept
 ---
 
 ## Overview
 
-Coleman's unheated "cold houses" achieve remarkable winter temperature moderation through passive solar design alone — no heating system, no water or stone thermal mass, no buried perimeter insulation, no fans or pumps. The system works by combining the greenhouse's inherent solar collection with a second internal layer of floating row cover, using the soil itself as the heat-storage medium. This double-layer protection is the technical foundation of the entire winter-harvest concept.
+Coleman"s unheated "cold houses" achieve remarkable winter temperature moderation through passive solar design alone — no heating system, no water or stone thermal mass, no buried perimeter insulation, no fans or pumps. The system works by combining the greenhouse"s inherent solar collection with a second internal layer of floating row cover, using the soil itself as the heat-storage medium. This double-layer protection is the technical foundation of the entire winter-harvest concept.
 
 ## The Two-Layer System
 

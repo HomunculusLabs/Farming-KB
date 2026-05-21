@@ -23,7 +23,7 @@ type: concept
 
 ## Overview
 
-[[comparison-central-leader-vs-open-center-fruit-tree-training]] type rather than the wineglass or open-centered forms advocated by horticultural science, was rejected by both specialists and farmers. The search illustrates the fundamental conflict between [[fukuoka-critique-scientific-agriculture-civilization]]'s reliance on human knowledge and intervention.
+[[comparison-central-leader-vs-open-center-fruit-tree-training]] type rather than the wineglass or open-centered forms advocated by horticultural science, was rejected by both specialists and farmers. The search illustrates the fundamental conflict between [[fukuoka-critique-scientific-agriculture-civilization]]"s reliance on human knowledge and intervention.
 
 ## The Problem of "Natural" Forms in Textbooks
 

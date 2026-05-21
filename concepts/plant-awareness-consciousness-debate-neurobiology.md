@@ -7,7 +7,7 @@ tags:
 ## Overview
 
 Do plants know anything? Do they possess awareness, intelligence, or even consciousness? These questions have moved
-from philosophical speculation to active scientific controversy. Daniel Chamovitz's epilogue, "The Aware Plant," in
+from philosophical speculation to active scientific controversy. Daniel Chamovitz"s epilogue, "The Aware Plant," in
 *What a Plant Knows*, frames this debate by drawing a careful line between sophisticated [[dosage-unpredictability-psilocybin-subjective-experience]]**: Having an inner mental life, a sense of what it is like to be — phenomenal
   consciousness or "qualia." There is no scientific evidence that plants possess this.
 - **Cognitive awareness**: The ability to form internal representations, make flexible choices, and exhibit
@@ -35,7 +35,7 @@ intelligence. His argument, articulated in a seminal 2003 paper, rests on severa
 
 ## The Mimosa pudica Learning Experiments
 
-Monica Gagliano's 2014 experiments with *Mimosa pudica* have become a focal point. Gagliano repeatedly dropped
+Monica Gagliano"s 2014 experiments with *Mimosa pudica* have become a focal point. Gagliano repeatedly dropped
 Mimosa plants onto foam from a fixed height. The plants initially folded their leaves, but after 5–6 drops stopped —
 appearing to habituate to the harmless stimulus.
 

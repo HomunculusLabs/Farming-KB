@@ -24,7 +24,7 @@ Peter Oei is a Dutch mycologist and mushroom cultivation expert, author of *Manu
 
 ## Substrate Science and Wood Selection
 
-Oei's work provides detailed guidance on selecting substrate materials, emphasizing that hardwoods are generally more useful than softwoods for mushroom cultivation. Recommended hardwoods include alders, birches, hornbeams, chestnuts, chinkapins, beeches, ashes, larches, sweetgums, tanoaks, cottonwoods, willows, ironwoods, walnuts, and elms. He notes that fast-growing, rapidly decomposing hardwoods are generally best because they have greater ratios of starch-enriched sapwood to heartwood, which encourages rapid initial growth and full colonization.
+Oei"s work provides detailed guidance on selecting substrate materials, emphasizing that hardwoods are generally more useful than softwoods for mushroom cultivation. Recommended hardwoods include alders, birches, hornbeams, chestnuts, chinkapins, beeches, ashes, larches, sweetgums, tanoaks, cottonwoods, willows, ironwoods, walnuts, and elms. He notes that fast-growing, rapidly decomposing hardwoods are generally best because they have greater ratios of starch-enriched sapwood to heartwood, which encourages rapid initial growth and full colonization.
 
 Oei identified the "substrate matrix concept" — mixing smaller and larger particles to create an ideal habitat for mycelium. Smaller particles stimulate quick growth ("leap-off"), while larger particles encourage formation of thick, cord-like rhizomorphs that forcibly penetrate substrate. A 50:50 mixture (by volume) of sawdust and chips of varying particle sizes provides optimal structure.
 

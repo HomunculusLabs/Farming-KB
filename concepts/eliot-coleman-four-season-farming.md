@@ -21,7 +21,7 @@ Coleman brings nearly 40 years of experience across all aspects [[fukuoka-critiq
 
 ### Leadership Roles
 
-Coleman served for two years as **Executive Director of the International Federation of Organic Agriculture Movements (IFOAM)**, placing him at the center of the global organic farming movement. He also served as an advisor to the **U.S. Department of Agriculture** during their landmark 1979–80 study, *Report and Recommendations on Organic Farming*, which represented a turning point in the USDA's engagement with organic methods.
+Coleman served for two years as **Executive Director of the International Federation of Organic Agriculture Movements (IFOAM)**, placing him at the center of the global organic farming movement. He also served as an advisor to the **U.S. Department of Agriculture** during their landmark 1979–80 study, *Report and Recommendations on Organic Farming*, which represented a turning point in the USDA"s engagement with organic methods.
 
 ### European Study Tours
 
@@ -40,7 +40,7 @@ The farm's coastal Maine location is significant — it represents a challenging
 
 ### The New Organic Grower (1995, revised edition)
 
-This is Coleman's foundational work, described as providing "indispensable background information on soil-fertility management and cultural techniques for both field and greenhouse vegetable growers." It covers the core principles of organic growing that underpin all of Coleman's subsequent work. The [[winter-harvest-handbook-guide]] complements and updates the winter-specific chapters in this earlier book.
+This is Coleman's foundational work, described as providing "indispensable background information on soil-fertility management and cultural techniques for both field and greenhouse vegetable growers." It covers the core principles of organic growing that underpin all of Coleman"s subsequent work. The [[winter-harvest-handbook-guide]] complements and updates the winter-specific chapters in this earlier book.
 
 ### Four-Season Harvest
 
@@ -83,7 +83,7 @@ Coleman distinguishes between "shallow" organic farming (simply substituting org
 
 ### The Scientific Approach
 
-Coleman is notable for his commitment to experimentation and evidence-based practice. He credits William J.C. Lawrence as his favorite historical greenhouse writer specifically because Lawrence was "so tireless in trying to pin down what did work, what didn't, and why." This scientific mindset permeates all of Coleman's work.
+Coleman is notable for his commitment to experimentation and evidence-based practice. He credits William J.C. Lawrence as his favorite historical greenhouse writer specifically because Lawrence was "so tireless in trying to pin down what did work, what didn"t, and why." This scientific mindset permeates all of Coleman"s work.
 
 ## Cultural and Intellectual Influences
 
@@ -92,7 +92,7 @@ Coleman's writing reflects unusually broad intellectual interests for a farming 
 - **Classical mythology** — The [[persephone-and-demeter-in-the-mysteries]] myths serve as metaphors for the seasonal cycle and the possibility of bringing growth back from the underworld of winter
 - **Pagan agricultural calendar** — References to Celtic festivals (Imbolc, Beltane, Lughnasadh, Samhain) and the equinoxes/solstices connect the farming calendar to ancient traditions
 - **Poetry** — Quotes from Andrew Marvell ("To His Coy Mistress") and William Blake appear alongside technical discussions
-- **Ecological philosophy** — Aldo Leopold's *A Sand County Almanac* and Barry Commoner's work on ecological systems inform the environmental perspective
+- **Ecological philosophy** — Aldo Leopold"s *A Sand County Almanac* and Barry Commoner's work on ecological systems inform the environmental perspective
 - **Social philosophy** — References to Kropotkin, Gandhi, and Howard Zinn reflect a broader vision of agriculture's role in society
 
 ## Recognition and Impact
@@ -100,9 +100,9 @@ Coleman's writing reflects unusually broad intellectual interests for a farming 
 Coleman's work has received recognition from diverse quarters:
 
 - **Michael Pollan**, author of *The Omnivore's Dilemma* and *In Defense of Food*, called The Winter Harvest Handbook "an indispensable contribution" to the local food movement
-- **Martha Stewart** praised Coleman's methods for producing "tasty, nutritious produce with a minimum pone of fossil fuels"
+- **Martha Stewart** praised Coleman"s methods for producing "tasty, nutritious produce with a minimum pone of fossil fuels"
 - **Dan Barber**, chef of Blue Hill and Blue Hill Stone Barns, described Coleman as "a Renaissance man for a new generation" who helps people "dig, weed, eat, think, and live more fully"
-- **Josh Viertel**, President of Slow Food USA, stated that "Eliot Coleman knows more about this [year-round local food production] than anyone I've met"
+- **Josh Viertel**, President of Slow Food USA, stated that "Eliot Coleman knows more about this [year-round local food production] than anyone I"ve met"
 
 ## Tool Design and Consultancy
 

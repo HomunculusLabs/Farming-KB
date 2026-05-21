@@ -14,7 +14,7 @@ Anandamide (N-arachidonoylethanolamine, abbreviated AEA) is an endogenous cannab
 
 The discovery of anandamide in the early 1990s was a landmark event in neuroscience and pharmacology that followed directly from research into the mechanism of action of THC, the primary psychoactive component of cannabis. When scientists discovered that the brain contains specific [[beta-glucan-receptor-binding]] profile is:
 
-- **CB1 receptor**: Anandamide binds as a partial agonist at CB1 receptors, producing a subset of the effects associated with THC (which is also a CB1 partial agonist). The effects include mood elevation, pain relief, and cognitive modulation, though anandamide's effects are generally milder and shorter-lasting than THC's due to rapid [[cannabis-for-anxiety-disorders]] and post-traumatic stress disorder (PTSD).
+- **CB1 receptor**: Anandamide binds as a partial agonist at CB1 receptors, producing a subset of the effects associated with THC (which is also a CB1 partial agonist). The effects include mood elevation, pain relief, and cognitive modulation, though anandamide"s effects are generally milder and shorter-lasting than THC's due to rapid [[cannabis-for-anxiety-disorders]] and post-traumatic stress disorder (PTSD).
 - **Schizophrenia**: Anandamide levels may be elevated in acute schizophrenia, and the molecule may play a compensatory role in mitigating psychotic symptoms. Some researchers have proposed that enhancing anandamide signaling could be therapeutic in schizophrenia.
 
 ### Neurological Effects
@@ -35,7 +35,7 @@ The rapid degradation of anandamide by FAAH is the primary reason for its short 
 
 Several factors influence anandamide levels in the body:
 
-- **Exercise**: Aerobic exercise ("runner's high") is associated with elevated anandamide levels, which may contribute to the mood-enhancing effects of physical activity
+- **Exercise**: Aerobic exercise ("runner"s high") is associated with elevated anandamide levels, which may contribute to the mood-enhancing effects of physical activity
 - **Diet**: Omega-3 and omega-6 fatty acid intake influences the availability of arachidonic acid precursors for anandamide synthesis
 - **Stress**: Acute stress can alter anandamide levels, with the direction of change depending on the type, duration, and intensity of the stressor
 - **Genetics**: Genetic variations in FAAH (particularly the FAAH C385A polymorphism) affect anandamide degradation rates and have been linked to differences in pain sensitivity, anxiety, and risk for substance use disorders
@@ -47,7 +47,7 @@ Several factors influence anandamide levels in the body:
 Anandamide does not act in isolation within the endocannabinoid system. Its effects are modulated by other signaling molecules that together produce what has been termed an "entourage effect" at the endogenous level:
 
 - **2-AG**: The other major endocannabinoid often acts in concert with anandamide, and the two can have complementary or competing effects at the same receptors
-- **Palmitoylethanolamide (PEA)**: A related lipid that does not directly activate cannabinoid receptors but enhances anandamide's effects by inhibiting its degradation, functioning as an "entourage molecule"
+- **Palmitoylethanolamide (PEA)**: A related lipid that does not directly activate cannabinoid receptors but enhances anandamide"s effects by inhibiting its degradation, functioning as an "entourage molecule"
 - **Oleoylethanolamide (OEA)**: Another related lipid that may modulate anandamide signaling and contributes to satiety and lipid metabolism
 
 These entourage interactions mean that anandamide's physiological effects depend not only on its own concentration but also on the balance of related signaling molecules in the local environment.

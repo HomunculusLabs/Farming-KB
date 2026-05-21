@@ -14,7 +14,7 @@ Section Zapotecorum is one of the most important taxonomic sections within
 the genus Psilocybe, named after the type species [[psilocybe-zapotecorum]].
 This section contains species of significant ethnopharmacological importance,
 including several used ceremonially by indigenous Mesoamerican peoples. The
-section's biogeographical distribution provides key evidence for understanding
+section"s biogeographical distribution provides key evidence for understanding
 the evolutionary history and dispersal patterns of neurotropic fungi.
 
 ## Taxonomic Definition and Characteristics

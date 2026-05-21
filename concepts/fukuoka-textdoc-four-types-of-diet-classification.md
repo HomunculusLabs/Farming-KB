@@ -1,5 +1,5 @@
 ---
-title: Four Types of Diet in Fukuoka's Natural Philosophy
+title: Four Types of Diet in Fukuoka"s Natural Philosophy
 created: 2026-04-28
 tags: [natural-farming, fukuoka, diet, nutrition, food-philosophy, natural-diet, spiritual-health]
 date: 2026-04-28
@@ -22,13 +22,13 @@ type: concept
 Fukuoka identifies several fundamental problems with this approach:
 
 - **No awareness of man as a living creature**: Nutritional science treats the body as a mechanical system, designing menus that supply energy to "mechanical humans cut off from the source of life."
-- **Denial of man's spiritual nature**: Dietetics cannot fully explain man in organic, mechanical, and physiological terms. He is an animal whose body and life undergo great physical and mental vicissitudes, and whose food is linked directly and indirectly with human emotion.
+- **Denial of man"s spiritual nature**: Dietetics cannot fully explain man in organic, mechanical, and physiological terms. He is an animal whose body and life undergo great physical and mental vicissitudes, and whose food is linked directly and indirectly with human emotion.
 - **Narrow temporal and spatial framework**: No matter how many ingredients the scientist assembles, this will never approach a complete diet. "The whole is greater than the parts."
 - **Ignores seasonality**: The scientific approach demands year-round availability of all food groups, requiring mass production and long-term storage of out-of-season foods that are inherently less nutritious and flavorful.
 
 Fukuoka uses the four-group scoring method of the Kagawa Nutrition College as an example. While appearing sensible, this system requires a year-round supply of high-grade meat, eggs, milk, bread, and vegetables, necessitating greenhouse production of [[fukuoka-western-eastern-philosophy-agriculture]], it places restrictions on foods, aiming for centripetal convergence. This is what is normally referred to as a "[[non-discriminating-knowledge-and-critique-of-scientific-reductionism]].
 - **Still based on human judgment**: The practitioner is still choosing and rejecting foods based on criteria, even if the criteria are spiritual rather than nutritional.
-- **The map is not the territory**: Even correct principles about yin and yang cannot capture the full reality of nature's dietary wisdom.
+- **The map is not the territory**: Even correct principles about yin and yang cannot capture the full reality of nature"s dietary wisdom.
 
 ### Type 4: The Non-Discriminating Diet (Ideal Natural Diet)
 

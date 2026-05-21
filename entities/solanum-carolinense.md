@@ -1,7 +1,7 @@
 ---
 title: "Solanum Carolinense"
 tags: [wiki]
-sources: ['raw/papers/working-with-agar.md']
+sources: ["raw/papers/working-with-agar.md']
 ---
 
 The plant is notable for its sharp spines, yellow berries, and high toxicity due to solanine glycoalkaloids. All parts of the plant are poisonous to livestock and humans if ingested.

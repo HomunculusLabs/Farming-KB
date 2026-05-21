@@ -68,7 +68,7 @@ Plants are not always restricted to a single mycorrhizal type. Several species e
 
 - **Lodge and Wentworth (1990):** ECM fungi can **displace AM associations** on *Populus* and *Salix* as soil moisture increases, indicating that environmental conditions—particularly water availability—mediate which mycorrhizal type dominates on a given host.
 - **Rhododendron** species support **both ericoid and ECM symbioses** simultaneously (Largent et al. 1980; Dighton and Coleman 1992; J.E. Smith et al. 1995). This dual colonization is unusual: Rhododendron may serve as an ecological "bridge" species connecting ericoid and [[symbiotic-fungi-ectomycorrhizal-networks-overview]] within the same community.
-- ***Pseudotsuga menziesii***, typically considered an obligate ECM host, can develop **AM associations with *Glomus intraradices*** when grown alongside the grass *Calamagrostis rubescens* (J.E. Smith et al. 1998). The neighboring C3 grass appears to facilitate AM colonization of the normally ECM-dominant conifer, suggesting that plant neighbors can alter each other's mycorrhizal colonization profiles.
+- ***Pseudotsuga menziesii***, typically considered an obligate ECM host, can develop **AM associations with *Glomus intraradices*** when grown alongside the grass *Calamagrostis rubescens* (J.E. Smith et al. 1998). The neighboring C3 grass appears to facilitate AM colonization of the normally ECM-dominant conifer, suggesting that plant neighbors can alter each other"s mycorrhizal colonization profiles.
 
 ## Ecological Significance
 

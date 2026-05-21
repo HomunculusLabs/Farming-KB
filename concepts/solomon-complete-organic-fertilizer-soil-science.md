@@ -6,7 +6,7 @@ tags: [fertilizer, organic, soil-science, NPK, trace-minerals, solomon, COF]
 created: 2026-05-11
 ---
 
-## Solomon's Complete Organic Fertilizer — Soil Science
+## Solomon"s Complete Organic Fertilizer — Soil Science
 
 The Complete Organic Fertilizer (COF) is [[steve-solomon]]'s signature contribution
 to home gardening. Rather than a simple recipe, COF embodies a philosophy of

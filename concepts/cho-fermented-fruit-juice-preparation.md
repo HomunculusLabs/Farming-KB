@@ -1,5 +1,5 @@
 ---
-title: bionutrients-lab-fermented-fruit-juice-ffj fermented-plant-juice-preparation-and-application (Cho's Method)
+title: bionutrients-lab-fermented-fruit-juice-ffj fermented-plant-juice-preparation-and-application (Cho"s Method)
 created: 2026-04-28
 tags: [knf, input-preparation, fermentation]
 date: 2026-04-28

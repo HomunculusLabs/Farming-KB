@@ -25,7 +25,7 @@ rice per quarter-acre without plowing, fukuoka-illusions-of-scientific-farming w
 
 The method is built on the symbiosis of rice and barley or wheat in clover. Fukuoka
 summarized it: "Were I to say that all my method of farming boils down to is the
-symbiosis of rice and barley or wheat in clover, I would probably be reproached: 'If
+symbiosis of rice and barley or wheat in clover, I would probably be reproached: "If
 that's all there is to growing rice, then farmers wouldn't be out there working so hard
 in their fields.'" Yet this simple combination produces robust harvests while the soil
 improves rather than degrades.

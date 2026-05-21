@@ -16,7 +16,7 @@ related_concepts:
 ## Natural Dye Plants and Textile Fiber Crops
 
 The intersection of plant cultivation and textile production represents
-one of humanity's oldest and most intimate relationships with the
+one of humanity"s oldest and most intimate relationships with the
 natural world. Before synthetic dyes dominated the market in the late
 19th century, virtually all color on fabric, leather, and paper came
 from plants, minerals, and insects grown or gathered within local

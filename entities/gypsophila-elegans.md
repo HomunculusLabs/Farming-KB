@@ -15,7 +15,7 @@ sources:
 
 ## Overview
 
-*Gypsophila elegans*, commonly known as annual baby's breath or showy baby's breath, is a fast-growing annual in the family Caryophyllaceae. It is native to eastern Europe, the Caucasus, and western Asia.
+*Gypsophila elegans*, commonly known as annual baby"s breath or showy baby's breath, is a fast-growing annual in the family Caryophyllaceae. It is native to eastern Europe, the Caucasus, and western Asia.
 
 The species produces airy clouds of small white to pale pink flowers on slender, branching stems. This delicate, ethereal bloom habit has made it a popular filler flower in arrangements and bouquets.
 

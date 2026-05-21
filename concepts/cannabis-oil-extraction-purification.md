@@ -33,7 +33,7 @@ The colander is set on top of the pot (now containing the alcohol/cannabis-oil s
 
 A small collection pan replaces the spent cannabis in the colander. The apparatus is reassembled and returned to the water bath. As the solvent/oil solution boils, pure solvent condenses and drips into the collection pan while oil remains in the stainless steel pot. Collected solvent is essentially pure and can be saved for future extractions.
 
-After solvent removal, the pot is kept in boiling water to eliminate all traces. For toxic solvents or those containing water: add water to the oil and evaporate in an oil bath ([[cottonseed-oil]] works) at approximately 220°F. When the water is gone, all solvent traces have been removed (all mentioned solvents evaporate below water's boiling point).
+After solvent removal, the pot is kept in boiling water to eliminate all traces. For toxic solvents or those containing water: add water to the oil and evaporate in an oil bath ([[cottonseed-oil]] works) at approximately 220°F. When the water is gone, all solvent traces have been removed (all mentioned solvents evaporate below water"s boiling point).
 
 ## Purification by Liquid-Liquid Extraction
 

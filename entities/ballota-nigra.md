@@ -29,7 +29,7 @@ The species has a long history of use in European folk medicine as a remedy for 
 - Genus: Ballota
 - Species: Ballota nigra L.
 
-Ballota nigra was first described by Linnaeus in 1753. The genus name derives from the Greek "ballote" (to reject or disgust), referring to the plant's bitter taste and disagreeable aroma when crushed.
+Ballota nigra was first described by Linnaeus in 1753. The genus name derives from the Greek "ballote" (to reject or disgust), referring to the plant"s bitter taste and disagreeable aroma when crushed.
 
 Plants grow 30–80 cm tall with an erect, branched stem that is square in cross-section and densely covered with whitish, woolly hairs. The overall appearance is bushy and greyish-green due to the dense pubescence.
 

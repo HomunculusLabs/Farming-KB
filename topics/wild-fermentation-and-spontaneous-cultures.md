@@ -21,7 +21,7 @@ Wild yeasts are critical in beverage fermentations and also play important roles
 - ***Torulaspora delbrueckii***: A non-*Saccharomyces* yeast increasingly prized in natural winemaking for its aromatic contributions (fruity, floral notes) and ability to reduce volatile acidity. More ethanol-tolerant than most non-*Saccharomyces* yeasts — can persist into mid-fermentation.
 - ***Metschnikowia pulcherrima***: A pigmented yeast (produces red colonies) found on fruit skins. Notable for producing pulcherrimin, a red pigment that binds iron and may inhibit competing microorganisms — a form of microbial competition.
 - ***Saccharomyces paradoxus*** and ***S. uvarum***: Wild relatives of *S. cerevisiae*. *S. uvarum* (formerly *S. bayanus*) is cold-adapted and contributes to fermentation in cooler climates — important in traditional cider and some European wine regions.
-- ***Brettanomyces (Dekkera)***: Perhaps the most controversial wild yeast genus. Despised in commercial winemaking (where it's considered a spoilage organism) but celebrated in certain styles — Belgian lambic, gueuze, farmhouse ales, some natural wines — for its distinctive "funky" aromas (barnyard, horse blanket, Band-Aid, tropical fruit, clove). *Brettanomyces bruxellensis* is the most commonly encountered species. It produces volatile phenols (4-ethylphenol, 4-ethylguaiacol) from hydroxycinnamic acid precursors present in the fruit or grain.
+- ***Brettanomyces (Dekkera)***: Perhaps the most controversial wild yeast genus. Despised in commercial winemaking (where it"s considered a spoilage organism) but celebrated in certain styles — Belgian lambic, gueuze, farmhouse ales, some natural wines — for its distinctive "funky" aromas (barnyard, horse blanket, Band-Aid, tropical fruit, clove). *Brettanomyces bruxellensis* is the most commonly encountered species. It produces volatile phenols (4-ethylphenol, 4-ethylguaiacol) from hydroxycinnamic acid precursors present in the fruit or grain.
 - ***Zygosaccharomyces***: Osmotolerant yeasts that can ferment in high-sugar, high-salt environments. *Z. bailii* is notorious as a spoilage organism in packaged foods (it can grow in acidic, preserved products) but plays roles in some traditional fermentations.
 
 As fermentation proceeds and ethanol concentration rises, alcohol-tolerant *Saccharomyces* species eventually dominate, completing sugar conversion to ethanol and CO₂. But in many traditional processes, the non-*Saccharomyces* yeasts are never fully displaced, and their metabolic products — esters, higher alcohols, volatile phenols, glycerol, and acetaldehyde — define the character of the final beverage.
@@ -41,7 +41,7 @@ In food fermentations (sourdough, [[guzman-allen-gartz-neurotropic-fungi-central
 
 ### Grain Fermentation
 
-Wild fermentation of grains produces some of humanity's most important staple foods and beverages.
+Wild fermentation of grains produces some of humanity"s most important staple foods and beverages.
 
 **Beverages:**
 - **Beer (traditional/spontaneous)**: Before the isolation of pure yeast strains in the late 19th century, all beer was spontaneously fermented. Belgian lambic and gueuze maintain this tradition — wort is cooled in a shallow "coolship" overnight, exposed to the air of the Senne Valley, where wild yeast and bacteria inoculate it. Fermentation proceeds in wooden barrels for 1–3 years.
@@ -51,7 +51,7 @@ Wild fermentation of grains produces some of humanity's most important staple fo
 - **Tari/Ara** (Bhutan/Himalayas): Fermented rice or millet beverages.
 
 **Foods:**
-- **Sourdough bread**: Flour and water are mixed and left to ferment, capturing wild yeasts and LAB from the grain, the air, and the baker's hands. The LAB produce lactic and acetic acid, contributing sourness and extending shelf life. Yeasts — primarily *Kazachstania exigua*, *Wickerhamomyces anomalus*, and *Saccharomyces exiguus* in addition to *S. cerevisiae* — produce carbon dioxide for leavening.
+- **Sourdough bread**: Flour and water are mixed and left to ferment, capturing wild yeasts and LAB from the grain, the air, and the baker"s hands. The LAB produce lactic and acetic acid, contributing sourness and extending shelf life. Yeasts — primarily *Kazachstania exigua*, *Wickerhamomyces anomalus*, and *Saccharomyces exiguus* in addition to *S. cerevisiae* — produce carbon dioxide for leavening.
 - **Injera** (Ethiopia/Eritrea): A spongy flatbread made from teff flour, fermented for 2–3 days with wild LAB and yeasts.
 - **Idli and dosa** (South India): Rice and black lentil (urad dal) batters are fermented overnight with wild *Leuconostoc* and *Streptococcus* species.
 - **Kisra** (Sudan): A thin sorghum flatbread made from fermented sorghum batter.

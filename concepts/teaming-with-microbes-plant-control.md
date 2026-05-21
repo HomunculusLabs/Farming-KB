@@ -10,7 +10,7 @@ sources:
 
 ## Teaming with Microbes — Plants Control the Soil Food Web
 
-In *Teaming with Microbes*, one of the book's most revolutionary claims is that plants are in control of the [[savory-growing-season-and-non-growing-season-management]], populations of [[bloomfield-ascospore-extreme-resilience-electron-microscope-survival]], it looks like "jelly or jam"
+In *Teaming with Microbes*, one of the book"s most revolutionary claims is that plants are in control of the [[savory-growing-season-and-non-growing-season-management]], populations of [[bloomfield-ascospore-extreme-resilience-electron-microscope-survival]], it looks like "jelly or jam"
 - All nutrient production through the food web takes place right where roots can absorb it
 
 ## The Microbial Loop
@@ -24,7 +24,7 @@ The process works as a cycle:
 
 Lowenfels and Lewis use a vivid analogy:
 - "Soil bacteria and fungi are like small bags of fertilizer, retaining nitrogen and other nutrients"
-- "Soil protozoa and nematodes act as 'fertilizer spreaders' by releasing the nutrients locked up in the bacteria and fungi"
+- "Soil protozoa and nematodes act as "fertilizer spreaders' by releasing the nutrients locked up in the bacteria and fungi"
 - This production of plant nutrients takes place right in the rhizosphere
 
 ## Plant Defense

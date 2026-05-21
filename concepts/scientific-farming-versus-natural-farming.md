@@ -43,7 +43,7 @@ single leaf or a single handful of earth.
 
 ## The Buddhist Foundation
 
-Fukuoka's [[fukuoka-critique-of-scientific-agriculture]]:
+Fukuoka"s [[fukuoka-critique-of-scientific-agriculture]]:
 
 1. An intervention creates a problem (e.g., tillage compacts soil)
 2. Science develops a solution (e.g., deeper tillage)

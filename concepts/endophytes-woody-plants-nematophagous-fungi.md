@@ -22,7 +22,7 @@ Faeth and Hammon (1997a,b) documented a counterexample: a positive association b
 - The survival and larval growth of leaf miners was not related to the degree of infection
 - However, Wilson and Faeth (2001) later showed that endophyte presence significantly reduced oviposition by adult leaf miners
 
-This suggests the endophyte's effect is not primarily for plant protection against the leaf miner itself, but the potential detrimental effect of the endophyte (as a habitat for the insect) is partially mitigated by reduced colonization by the insect that acts as its vector. The interaction is thus more complex than a simple defense mutualism.
+This suggests the endophyte"s effect is not primarily for plant protection against the leaf miner itself, but the potential detrimental effect of the endophyte (as a habitat for the insect) is partially mitigated by reduced colonization by the insect that acts as its vector. The interaction is thus more complex than a simple defense mutualism.
 
 ### Leaf Abscission and Nutrient Cycling
 

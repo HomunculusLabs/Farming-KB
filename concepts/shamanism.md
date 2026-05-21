@@ -11,7 +11,7 @@ type: concept
 ## Shamanism
 
 Shamanism is an ancient spiritual and healing practice found in indigenous
-cultures worldwide. Characterized by the practitioner's ability to enter
+cultures worldwide. Characterized by the practitioner"s ability to enter
 altered [[metzner-spirit-beings-multiple-realities-entheogens]],
   animal guides, ancestors, and deities to gain knowledge, power, or
   assistance in healing.

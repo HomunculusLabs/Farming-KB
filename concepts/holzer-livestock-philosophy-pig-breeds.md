@@ -22,7 +22,7 @@ sources:
 Old domestic breeds are:
 - Significantly hardier
 - More intelligent and adaptable
-- Natural instincts are good enough that they don't "fall over their own feet"
+- Natural instincts are good enough that they don"t "fall over their own feet"
 - Produce is of far higher quality
 - Can be kept under near-natural conditions
 - Represent significant cultural heritage that must be preserved

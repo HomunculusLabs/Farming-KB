@@ -51,7 +51,7 @@ The order **Leotiales** includes several genera with mycoparasitic members, many
 - **Arthrobotrys** and **Dactylella** — anamorphic genera producing trapping structures for nematodes but also capable of mycoparasitism, particularly against soil-borne fungal pathogens. Their dual predatory and mycoparasitic capabilities make them key regulators of soil micro-food webs.
 - **Helicogonium** — a genus of minute, inconspicuous ascomycetes that grow as obligate mycoparasites on other discomycete fruit bodies in the field. Species are often overlooked due to their cryptic nature and require careful [[fungal-microscopic-examination-mounting-media-techniques]] for detection.
 - **Unguiculariopsis** — another genus of tiny, host-specific mycoparasites found on fungal fruit bodies, particularly on **Helotiales** and related taxa. Their small apothecia may be mistaken for host reproductive structures.
-- **Llimoniella** and **Rhymbocarpus** — genera of mycoparasitic discomycetes that colonize the apothecia of other ascomycetes, forming their own fruiting structures directly on host tissue. They effectively hijack the host's reproductive effort.
+- **Llimoniella** and **Rhymbocarpus** — genera of mycoparasitic discomycetes that colonize the apothecia of other ascomycetes, forming their own fruiting structures directly on host tissue. They effectively hijack the host"s reproductive effort.
 - **Skyttea** — a genus of inoperculate discomycetes that parasitize lichens and non-lichenized fungi, adding to the diversity of mycoparasites in the **Leotiales** and blurring the line between lichenicolous and mycoparasitic lifestyles.
 
 ### Chaetothyriales
@@ -98,7 +98,7 @@ The **Hypocreales** represents the most diverse and economically significant ord
 
 #### Hypomyces: Mycoparasites of Macromycetes
 
-The genus **Hypomyces** is one of the most recognizable groups of mycoparasitic fungi, specializing as hyperparasites on the fruit bodies of larger fungi (macromycetes). **Hypomyces** species often dramatically alter the appearance of their hosts, transforming gilled mushrooms, boletes, polypores, and other basidiomycetes into brightly colored, sterile masses covered with the parasite's perithecia.
+The genus **Hypomyces** is one of the most recognizable groups of mycoparasitic fungi, specializing as hyperparasites on the fruit bodies of larger fungi (macromycetes). **Hypomyces** species often dramatically alter the appearance of their hosts, transforming gilled mushrooms, boletes, polypores, and other basidiomycetes into brightly colored, sterile masses covered with the parasite"s perithecia.
 
 **Key features of Hypomyces:**
 

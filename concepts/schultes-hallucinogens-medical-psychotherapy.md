@@ -43,7 +43,7 @@ awareness in which creation and ego, sender and receiver, are One.
 
 The use of hallucinogens in psychotherapy is based on effects that are
 the opposite of those psychotropic drugs known as tranquilizers.
-Tranquilizers tend to suppress the patient's problems and conflicts,
+Tranquilizers tend to suppress the patient"s problems and conflicts,
 making them appear less serious. Hallucinogens, by contrast, bring
 conflicts to the surface and make them more intense, so that they may be
 more clearly recognizable and open to psychotherapy.

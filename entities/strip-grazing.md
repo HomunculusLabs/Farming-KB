@@ -30,7 +30,7 @@ Strip grazing is an intensive rotational grazing technique that uses permanent o
 
 ## Relevance to Cultivation and Permaculture
 
-Strip grazing is positioned within Mollison's spectrum of grassland management strategies ranging from natural wild systems (lightest management) through to fixed stocking (heaviest). Strip grazing falls on the intensive end:
+Strip grazing is positioned within Mollison"s spectrum of grassland management strategies ranging from natural wild systems (lightest management) through to fixed stocking (heaviest). Strip grazing falls on the intensive end:
 
 1. **Controlled defoliation**: By restricting animals to small strips, grazing pressure is concentrated enough to prevent selective avoidance of less palatable species. This maintains a more balanced sward composition.
 

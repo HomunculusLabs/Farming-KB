@@ -25,7 +25,7 @@ can all grow successfully among weeds and grasses.
 
 ### Nature Is in Perfect Balance
 
-Fukuoka's core insight on insects is: "Nature, left alone, is in perfect
+Fukuoka"s core insight on insects is: "Nature, left alone, is in perfect
 balance. Harmful insects and plant diseases are always present, but do not occur
 in nature to an extent which requires the use of poisonous chemicals." Disease
 and insect imbalance became problems only after unnatural practices like ploughing

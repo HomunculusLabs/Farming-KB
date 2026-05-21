@@ -24,7 +24,7 @@ the complete absence of visible fruiting bodies.
 ## Volatile Compounds as Insect Attractants
 
 One of the most commercially significant applications of fungal
-VOCs is in biological pest control. Stamets' research demonstrated
+VOCs is in biological pest control. Stamets" research demonstrated
 that certain [[fukuoka-textdoc-production-costs-not-coming-down]]
 - Species-specific attractant production was observed: Metarhizium
   strains from one insect species' colony did not attract other
@@ -42,7 +42,7 @@ could potentially be monitored as a real-time indicator of
 ecosystem health, with changes in VOC profiles signaling shifts in
 soil chemistry, the presence of pollutants, or the status of
 decomposition processes. This concept aligns with the broader
-vision of mycelium as "Nature's Internet" -- a sentient biological
+vision of mycelium as "Nature"s Internet" -- a sentient biological
 network capable of sensing and responding to environmental changes.
 
 ## Related

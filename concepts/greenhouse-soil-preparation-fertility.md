@@ -12,7 +12,7 @@ Successful winter harvest greenhouse production depends fundamentally on creatin
 
 ## Creating Anthropogenic Soil from Poor Land
 
-The foundation of this soil system began with some of the most challenging raw material imaginable. The original farmland in coastal Maine was covered in spruce and fir forest, with a sandy acid podzol soil at pH 4.3 and glacial stones scattered throughout. A podzol is a soil scientist's term for the heavily leached, nutrient-poor soils typical of coniferous forest regions — characterized by a dark organic surface layer overlying a bleached, silica-rich horizon with little available fertility.
+The foundation of this soil system began with some of the most challenging raw material imaginable. The original farmland in coastal Maine was covered in spruce and fir forest, with a sandy acid podzol soil at pH 4.3 and glacial stones scattered throughout. A podzol is a soil scientist"s term for the heavily leached, nutrient-poor soils typical of coniferous forest regions — characterized by a dark organic surface layer overlying a bleached, silica-rich horizon with little available fertility.
 
 Through decades of effort, enough stones were removed and sufficient fertility was created to transform approximately one and one-half acres of this material into productive market-garden loam. When asked about soil type, Coleman describes it as "anthropogenic" — soil made by human beings. This concept of intentionally creating soil from unpromising raw material draws direct kinship with the historical Parisian maraîchers described by Kropotkin, who similarly "made the soil themselves." The lesson is clear: poor land is not a permanent barrier to intensive production, provided the grower is willing to invest in soil building as a foundational, long-term practice.
 
@@ -20,7 +20,7 @@ Through decades of effort, enough stones were removed and sufficient fertility w
 
 When serious greenhouse growing began, the goal was to create the most ideal soil possible — a medium approaching potting-soil quality but retaining the critical advantages of being connected to the living earth. These advantages include dependable moisture supply from deeper soil layers, access for earthworms and other soil organisms, increased rooting depth, and the biological buffering capacity that comes from being part of a larger soil ecosystem.
 
-The preparation process starts with spreading a 2-inch layer of peat moss over the existing soil surface, along with sufficient ground limestone to neutralize the peat's natural acidity. This is then tilled in to full tiller-tine depth. Peat moss contributes relatively little immediately available plant food, but it provides abundant slow-to-decompose fibrous organic matter that dramatically improves soil structure. Good structure — meaning optimal aeration and biological activity — is the most critical quality for greenhouse soil, where the semi-artificial growing environment makes soil health even more important than in open fields.
+The preparation process starts with spreading a 2-inch layer of peat moss over the existing soil surface, along with sufficient ground limestone to neutralize the peat"s natural acidity. This is then tilled in to full tiller-tine depth. Peat moss contributes relatively little immediately available plant food, but it provides abundant slow-to-decompose fibrous organic matter that dramatically improves soil structure. Good structure — meaning optimal aeration and biological activity — is the most critical quality for greenhouse soil, where the semi-artificial growing environment makes soil health even more important than in open fields.
 
 The limestone serves the dual purpose of raising the pH toward the neutral range preferred by most vegetable crops and supplying calcium, which is essential for cell wall integrity and disease resistance. The exact amount of limestone needed depends on the starting soil pH and the buffering capacity of the native soil, so a soil test is valuable before application.
 
@@ -64,7 +64,7 @@ The Tilther was designed specifically to solve this problem. It is an electric t
 
 ### Mechanical Design
 
-The Tilther uses a side-mounted gearbox arrangement modeled on tractor tillers, which eliminates the untilled center strip that rear-gearbox designs create. Power comes from a cordless drill that sits on top of the housing, driving a shaft connected by a chain to the tine shaft below. A rope around the drill's trigger is pulled from the handlebars for control. The result is a simple, quiet, fume-free tool ideally suited to the greenhouse environment where air quality and noise matter.
+The Tilther uses a side-mounted gearbox arrangement modeled on tractor tillers, which eliminates the untilled center strip that rear-gearbox designs create. Power comes from a cordless drill that sits on top of the housing, driving a shaft connected by a chain to the tine shaft below. A rope around the drill"s trigger is pulled from the handlebars for control. The result is a simple, quiet, fume-free tool ideally suited to the greenhouse environment where air quality and noise matter.
 
 The cordless drill power source also means the Tilther shares batteries with other common farm tools, reducing the need for specialized charging equipment and making it a practical addition to any small-scale operation.
 

@@ -1,5 +1,5 @@
 ---
-title: Cannabis for Crohn's Disease and blesching-cannabis-inflammatory-bowel-disease Disease
+title: Cannabis for Crohn"s Disease and blesching-cannabis-inflammatory-bowel-disease Disease
 created: 2026-04-16
 updated: 2026-04-16
 type: concept
@@ -7,7 +7,7 @@ tags: [cannabis, cultivation]
 sources:
   - "raw/papers/the-modern-farm-why-cannabis-grown-with-lab-might-produce.md"
 ---
-## Cannabis for Crohn's Disease and Inflammatory Bowel Disease
+## Cannabis for Crohn"s Disease and Inflammatory Bowel Disease
 
 Inflammatory bowel disease (IBD) primarily affects the gastrointestinal tract and is associated with chronic inflammation. Ulcerative colitis is a form of IBD that can affect other body parts. Crohn's disease, another form of IBD, is an autoimmune disorder affecting the GI tract. [[cannabis-cannabinoid-receptor-pharmacology]] relevant to anti-inflammatory action
 

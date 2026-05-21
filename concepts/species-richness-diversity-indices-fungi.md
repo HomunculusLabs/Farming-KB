@@ -8,7 +8,7 @@ type: concept
 
 Quantifying fungal biodiversity requires robust statistical frameworks that account for sampling effort, species abundance distributions, and the inherent challenges of detecting cryptic or rare taxa. This page covers the major approaches to measuring and comparing species richness and diversity in fungal communities.
 
-## Collector's Curves and Species-Effort Relationships
+## Collector"s Curves and Species-Effort Relationships
 
 As sampling effort increases, the cumulative number of species recorded initially rises steeply, then gradually approaches an asymptote. This relationship — the collector's curve — is fundamental to estimating true richness and assessing sampling completeness.
 
@@ -68,7 +68,7 @@ The ratio d = Nₘₐₓ / N, where Nₘₐₓ is the number of individuals in t
 
 Hill numbers provide a unified framework that relates common diversity indices to a single parameter q (the "order") controlling sensitivity to rare species:
 
-- **N₁** = e^H' (the exponential of Shannon's index) — weights all species by their frequency
+- **N₁** = e^H" (the exponential of Shannon's index) — weights all species by their frequency
 - **N₂** = 1/D (the reciprocal of Simpson's index) — disproportionately weights common species
 
 Higher q values give more weight to abundant species. Hill numbers are in units of "effective number of species," making them intuitively interpretable.

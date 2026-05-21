@@ -15,7 +15,7 @@ sources:
 
 ## Overview
 
-Carl Ruck's analysis of [Demeter's iconography and mythology revealed that the goddess's relationship with [ergot ([[mckenna-eleusinian-mystery-and-psychedelic-sacrament]] as the ritualized resolution of this tension.
+Carl Ruck"s analysis of [Demeter's iconography and mythology revealed that the goddess's relationship with [ergot ([[mckenna-eleusinian-mystery-and-psychedelic-sacrament]] as the ritualized resolution of this tension.
 
 ## Demeter's Refusal of Wine
 
@@ -23,11 +23,11 @@ When Demeter arrived at Eleusis and was offered wine by Metaneira, she refused i
 
 ## The Rarian Plain
 
-The [Rarian plain, adjacent to Eleusis, was where Triptolemus's sacred barley was grown and threshed. The barley's "potential as the foodstuff for mankind depended upon keeping at bay the encroachment of the reddening corruption that would draw it back to its worthless avatar, the rust-infested weed." Yet it was precisely this "corruption" — ergot — that provided the visionary experience. The paradox of Demeter was that she was simultaneously the goddess of nourishing grain and its psychoactive fungal partner.
+The [Rarian plain, adjacent to Eleusis, was where Triptolemus"s sacred barley was grown and threshed. The barley's "potential as the foodstuff for mankind depended upon keeping at bay the encroachment of the reddening corruption that would draw it back to its worthless avatar, the rust-infested weed." Yet it was precisely this "corruption" — ergot — that provided the visionary experience. The paradox of Demeter was that she was simultaneously the goddess of nourishing grain and its psychoactive fungal partner.
 
 ## The Profanation Evidence
 
-A papyrus fragment from Eupolis's comedy "The Demes" (shortly after the scandal of 415 BC) confirmed that the profanation involved drinking the sacred kykeon: an informant describes finding someone who "had obviously been drinking the potion since he had barley groats on his moustache." The comedian may even pun on "crumbs of barley" as "purples of barley" — directly linking the kykeon to purple ergot.
+A papyrus fragment from Eupolis"s comedy "The Demes" (shortly after the scandal of 415 BC) confirmed that the profanation involved drinking the sacred kykeon: an informant describes finding someone who "had obviously been drinking the potion since he had barley groats on his moustache." The comedian may even pun on "crumbs of barley" as "purples of barley" — directly linking the kykeon to purple ergot.
 
 ## The Ergot Lifecycle and Eleusinian Paradox
 

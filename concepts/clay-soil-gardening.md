@@ -31,7 +31,7 @@ Determining when [[clay-soil]] is at the right moisture for working is critical.
 2. Cradle the ball in your palm and press firmly on it with your thumb
 3. **If the ball breaks apart easily and crumbles**, the soil is at the right moisture to work
 4. **If the ball is pliable and your thumb merely dents it**, the soil is too wet — wait
-5. **If the soil won't form a ball at all**, it either contains no clay (and won't form clods regardless) or is too dry
+5. **If the soil won"t form a ball at all**, it either contains no clay (and won't form clods regardless) or is too dry
 
 This test is essential for anyone working clay soil. Ignoring it leads to ruined soil structure that takes months or years to recover.
 
@@ -40,7 +40,7 @@ This test is essential for anyone working clay soil. Ignoring it leads to ruined
 Clay soils behave chemically like discharged lead-acid batteries — they have the capacity to absorb enormous quantities of plant nutrients. Until they reach a "full charge," they tend to withhold nitrogen and other nutrients from plant roots. This means:
 
 - **New clay gardens need higher fertilizer rates** — Solomon recommends applying about 1½ times the usual amount of COF for the first few years
-- **Nutrients are not wasted** — they are stored in the clay's exchange sites and gradually become available
+- **Nutrients are not wasted** — they are stored in the clay"s exchange sites and gradually become available
 - **Over time, less fertilizer is needed** as the clay's nutrient-holding capacity is satisfied
 
 This nutrient-holding capacity is actually one of clay's advantages once the soil is improved. A well-charged clay soil retains fertility far better than sandy soil, which leaches nutrients rapidly.
@@ -78,7 +78,7 @@ Solomon's recommended approach when finances allow: simply import a thick layer 
 - The imported loam becomes the topsoil; the clay becomes the subsoil
 - Digging becomes easy and can be done early in spring even when wet
 - Far less compost is needed annually (2–3 cubic yards vs. 20–25 cubic yards to "build up" clay)
-- Vegetables achieve the highest possible nutritional quality because the soil hasn't been overloaded with organic matter
+- Vegetables achieve the highest possible nutritional quality because the soil hasn"t been overloaded with organic matter
 - No more being on the "compost treadmill" of annual massive applications
 
 **Preparation tip**: Before spreading the topsoil, Solomon recommends lightly liming, manuring, and rototilling the clay surface first. This accelerates the improvement of the subsoil by several years, as worms eventually transport humus into the clay and leaching moves nutrients downward.
@@ -91,7 +91,7 @@ Once clay soil has been amended (by any method), special ongoing care is needed:
 
 - **Never dig when wet**: This is the single most important rule. Use the ready-to-till test every time
 - **Surface application of amendments**: After the first year, apply compost or manure to the surface and work it in with a rake rather than deep digging, to avoid re-compacting the clay
-- **Extra COF**: Apply about 1½ times the usual COF rate for the first few years while the clay's nutrient-holding capacity charges up
+- **Extra COF**: Apply about 1½ times the usual COF rate for the first few years while the clay"s nutrient-holding capacity charges up
 - **Realistic expectations**: Accept that some crops (deep root vegetables, celery) will always underperform compared to lighter soils
 
 ## Plow Pan Issues
@@ -101,7 +101,7 @@ A critical concern for gardens located on former farmland: clay soils (and indee
 - Forms an effective barrier to root penetration
 - Restricts crop root systems to the top 7 inches of soil
 - May persist for half a century even after plowing stops
-- Is made worse by rototilling, which creates its own shallower compacted layer (a "tiller pan") at the bottom of the tines' reach
+- Is made worse by rototilling, which creates its own shallower compacted layer (a "tiller pan") at the bottom of the tines" reach
 
 **The only remedy**: Dig through the plow pan with a shovel or spading fork. This is laborious but necessary for deep-rooted vegetables to reach their full potential. Solomon references Edward Faulkner's *Plowman's Folly* for a thorough critique of plow-induced soil compaction.
 

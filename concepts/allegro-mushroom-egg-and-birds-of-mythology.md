@@ -10,7 +10,7 @@ sources:
 
 ## Mushroom Egg and Birds of Mythology
 
-Allegro demonstrates that a vast web of bird mythology in the ancient world — doves, pigeons, swans, storks, pelicans, and others — derives from the resemblance between the mushroom's volva (egg) and canopy (nest) and the physical characteristics and behaviours of these creatures.
+Allegro demonstrates that a vast web of bird mythology in the ancient world — doves, pigeons, swans, storks, pelicans, and others — derives from the resemblance between the mushroom"s volva (egg) and canopy (nest) and the physical characteristics and behaviours of these creatures.
 
 ## The Volva as Cosmic Egg
 
@@ -20,7 +20,7 @@ The mushroom's volva — the membrane surrounding the young fungus that remains 
 
 The dove appears everywhere in ancient religious iconography and mythology as a fertility symbol. The Semitic word for the bird, yonah, derives from a Sumerian original meaning "penis of the storm," the same root behind the divine name Jonah. The connection with the [[fukuoka-natural-fertility-cycle]] symbol. The word "cock" as sexual slang preserves the ancient association. In mushroom mythology the rooster heralded the dawn — the time when the dew (heavenly semen) covered the earth and the mushroom seeker had to complete his harvest before sunrise.
 
-## Jonah's Sunshade: The Qiqayon
+## Jonah"s Sunshade: The Qiqayon
 
 The Hebrew qiqayon — the "plant" that God caused to grow over Jonah as a shade, which then withered when a worm attacked it (Jonah 4:6-7) — is traceable to Sumerian "pod of fertility." The plant's sudden appearance overnight and equally rapid destruction mirror exactly the life-cycle of the [[allegro-death-and-resurrection-in-the-mushroom-cult]] mythology as mushroom-derived remains one of the most contested aspects of [[allegro-key-of-the-kingdom-and-peter-as-mushroom]]
 - [[allegro-star-of-the-morning-venus-and-the-sacred-mushroom]]

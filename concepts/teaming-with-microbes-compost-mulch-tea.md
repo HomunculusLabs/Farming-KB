@@ -14,7 +14,7 @@ In *Teaming with Microbes*, Lowenfels and Lewis present three tools as the pract
 
 ## The Simple Formula
 
-"It's simple. Compost, mulch, and compost tea are the soil food web gardener's tools." The approach involves:
+"It"s simple. Compost, mulch, and compost tea are the soil food web gardener's tools." The approach involves:
 1. Applying the proper kind of compost
 2. Mulching the right way, with the right kinds of [[compost-tea-aact]], [[compost-tea-guide]], [[teaming-with-microbes-overview]], [[chamovitz-circadian-rhythm-internal-clock-plants]]
 

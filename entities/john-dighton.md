@@ -14,7 +14,7 @@ John Dighton is an American mycologist and ecologist at the Institute of Marine 
 
 ## Background
 
-Dighton's path to mycology was unconventional. As an undergraduate, he could not decide between zoology and botany, so he chose ecology "in its broadest sense." His interest in fungi began during doctoral research, particularly through university-wide lectures by [[ingold-cecil-t]] at the University of London. His position at the Institute of Terrestrial Ecology at Merlewood, UK, brought him into contact with ectomycorrhizal, decomposition, and nutrient cycling research in temperate and subtropical forest ecosystems. He credits animated discussions with Alan Rayner as particularly influential.
+Dighton"s path to mycology was unconventional. As an undergraduate, he could not decide between zoology and botany, so he chose ecology "in its broadest sense." His interest in fungi began during doctoral research, particularly through university-wide lectures by [[ingold-cecil-t]] at the University of London. His position at the Institute of Terrestrial Ecology at Merlewood, UK, brought him into contact with ectomycorrhizal, decomposition, and nutrient cycling research in temperate and subtropical forest ecosystems. He credits animated discussions with Alan Rayner as particularly influential.
 
 ## Key Research Contributions
 

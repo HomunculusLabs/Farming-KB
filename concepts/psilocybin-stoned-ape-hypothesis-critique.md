@@ -20,7 +20,7 @@ Many have therefore argued that the Goddess-worshipping peoples who inhabited Ta
 
 ## The Gaian Perspective
 
-Terence McKenna, today's leading advocate for the shamanic use of psychedelic plants and fungi, argues that natural psilocybin is a far more visionary substance than synthetic LSD. McKenna holds a more contemporary organic view that links the mushroom with the natural homeostatic systems of Gaia. In this view, psilocybin is not merely a random chemical but a functional component of the Earth's biosphere -- an agent of the planetary system designed (or evolved) to interact with and enhance the consciousness of its most complex inhabitants.
+Terence McKenna, today"s leading advocate for the shamanic use of psychedelic plants and fungi, argues that natural psilocybin is a far more visionary substance than synthetic LSD. McKenna holds a more contemporary organic view that links the mushroom with the natural homeostatic systems of Gaia. In this view, psilocybin is not merely a random chemical but a functional component of the Earth's biosphere -- an agent of the planetary system designed (or evolved) to interact with and enhance the consciousness of its most complex inhabitants.
 
 Powell is broadly sympathetic to this Gaian perspective, consistently emphasising the naturalness of psilocybin and its role as a legitimate product of the environment. However, he maintains a more measured position regarding the specific evolutionary claims of the stoned ape hypothesis.
 
@@ -28,11 +28,11 @@ Powell is broadly sympathetic to this Gaian perspective, consistently emphasisin
 
 While acknowledging the plausibility of prehistorical psilocybin use and its potential influence on human development, Powell frames the question more carefully:
 
-"Whether or not these speculations about mushrooms are correct is not the main issue. The main issue is the conceptual paradigm which sees a naturally occurring psychedelic agent of some kind lying at the heart of humanity's sacred traditions."
+"Whether or not these speculations about mushrooms are correct is not the main issue. The main issue is the conceptual paradigm which sees a naturally occurring psychedelic agent of some kind lying at the heart of humanity"s sacred traditions."
 
 This distinction is important. Powell separates the well-supported claim that psilocybin has played a role in human religious and cultural traditions from the more speculative claim that it was a primary driver of human evolution. The former is supported by extensive ethnographic, historical, and archaeological evidence; the latter remains speculative.
 
-## McKenna's Alien Probe Speculation
+## McKenna"s Alien Probe Speculation
 
 McKenna has also entertained more radical versions of the hypothesis. In True Hallucinations, he speculates that alien probes might have once visited our planet in the distant past and injected "seeded genes" into the prevailing ecology. These "seeded genes" are the DNA portions of plants which code for the tryptamine alkaloids such as psilocybin and DMT. These alien genes would then be carried along in the terrestrial flow of evolutionary events until they are encountered by a species open to the information which they broadcast from the probes.
 
@@ -47,7 +47,7 @@ McKenna himself has on other occasions conceded that the alien is merely the Oth
 
 ## The Main Issue: Paradigm Not Proof
 
-Powell's most significant contribution to the debate is his insistence that the stoned ape hypothesis is ultimately about a conceptual paradigm rather than a specific historical proof. The question is not whether psilocybin definitively caused this or that specific evolutionary development, but whether the paradigm that sees consciousness as chemically mutable and potentially enhanced by natural agents is valid.
+Powell"s most significant contribution to the debate is his insistence that the stoned ape hypothesis is ultimately about a conceptual paradigm rather than a specific historical proof. The question is not whether psilocybin definitively caused this or that specific evolutionary development, but whether the paradigm that sees consciousness as chemically mutable and potentially enhanced by natural agents is valid.
 
 On this question, the evidence is compelling. Psilocybin can and does alter consciousness in profound ways. It can induce experiences indistinguishable from classical [[serotonin]], the neurotransmitter that psilocybin mimics, has emerged as a key neurotransmitter because it can be produced from raw materials available in food. The various compounds employed by brains in order to process information have evolved over millions of years and they are determined by the chemicals available in the environment.
 

@@ -23,7 +23,7 @@ sources:
 
 The 2005 Norwegian Reitox national report described a distinctive subculture characterized by organic lifestyles and woodland parties, within which [[emcdda-hallucinogenic-mushrooms-emerging-trend-europe]]. Notably, this community was considered peculiar and unattractive by younger age groups (under 25), which was assessed as limiting the potential for the drug use patterns associated with this milieu to diffuse more widely into mainstream youth culture.
 
-The Norwegian report, produced as part of the EMCDDA Early Warning System (EWS) reporting framework, was one of the responses collected from 13 EU member states plus Norway between July and October 2005 for the E-POD (European Perspectives on Drugs) [[emcdda-eu-legislative-timeline-hallucinogenic-mushrooms-2001-2006]]. Norway's contribution was particularly notable for its description of a user milieu that differed fundamentally from the club and dance music-based patterns documented in most other participating countries.
+The Norwegian report, produced as part of the EMCDDA Early Warning System (EWS) reporting framework, was one of the responses collected from 13 EU member states plus Norway between July and October 2005 for the E-POD (European Perspectives on Drugs) [[emcdda-eu-legislative-timeline-hallucinogenic-mushrooms-2001-2006]]. Norway"s contribution was particularly notable for its description of a user milieu that differed fundamentally from the club and dance music-based patterns documented in most other participating countries.
 
 ## Demographic Profile
 
@@ -43,7 +43,7 @@ The Norwegian report specifically noted that this milieu was viewed as peculiar 
 Several factors likely contributed to the limited appeal of this milieu to younger Norwegians:
 
 - **Age gap**: The 25 to 40 year old demographic created a generational divide that made the lifestyle less aspirational for teenagers and young adults seeking identity formation through peer group participation
-- **Economic disadvantage**: The group's lower socioeconomic status may have been perceived negatively rather than as an authentic lifestyle choice, reducing its attractiveness as a subcultural identity
+- **Economic disadvantage**: The group"s lower socioeconomic status may have been perceived negatively rather than as an authentic lifestyle choice, reducing its attractiveness as a subcultural identity
 - **Geographic isolation**: Woodland parties in remote locations lacked the visibility and social currency of urban club and party scenes where drug trends typically emerge and diffuse
 - **Cultural specificity**: The organic lifestyle orientation may have been perceived as niche or extreme rather than mainstream, limiting its appeal to the broader youth population
 

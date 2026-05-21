@@ -1,5 +1,5 @@
 ---
-title: Leary's leary third bardo re entry Re-Entry Model
+title: Leary"s leary third bardo re entry Re-Entry Model
 created: 2026-04-23
 updated: 2026-04-23
 type: concept
@@ -24,13 +24,13 @@ The first recognition point is "the feeling of supernormal perception and perfor
 
 ### Panic and Persecution Visions
 
-Experiences of panic, torture, and persecution distinguished from Second Bardo wrathful visions by their involvement of "the person's own skin-encapsulated ego." Mind-controlling figures and demons appear — "Where Tibetans saw demons and beasts of prey, a Westerner may see impersonal machinery grinding, or depersonalizing and controlling devices of different futuristic varieties." The person may plead for antidotes or tranquillizers, or see themselves falling down "deep, terrifying precipices."
+Experiences of panic, torture, and persecution distinguished from Second Bardo wrathful visions by their involvement of "the person"s own skin-encapsulated ego." Mind-controlling figures and demons appear — "Where Tibetans saw demons and beasts of prey, a Westerner may see impersonal machinery grinding, or depersonalizing and controlling devices of different futuristic varieties." The person may plead for antidotes or tranquillizers, or see themselves falling down "deep, terrifying precipices."
 
 These symbolize the "evil passions which, like narcotic drugs, enslave and bind mankind to existence in game-networks": anger, lust, stupidity, pride or egoism, jealousy, and control-power.
 
 ### Restless Wandering
 
-A third sign involves "restless, unhappy wandering which may be purely mental or may involve actual physical movement." The person feels "driven by winds (winds of karma) or shunted around mechanically." There may be a desperate desire to phone family, doctor, or friends to "pull you out of the state." The manual urges resisting this impulse: "One should not try to involve others in one's hallucinatory world."
+A third sign involves "restless, unhappy wandering which may be purely mental or may involve actual physical movement." The person feels "driven by winds (winds of karma) or shunted around mechanically." There may be a desperate desire to phone family, doctor, or friends to "pull you out of the state." The manual urges resisting this impulse: "One should not try to involve others in one"s hallucinatory world."
 
 ### Feelings of Stupidity
 
@@ -60,7 +60,7 @@ Less than one percent of ego-transcendent experiences end in either sainthood or
 
 ## The Influence of Thought
 
-A critical section of the Third Bardo addresses how thoughts during re-entry determine the level of return. Attachment to material possessions, old games, or jealousy toward others enjoying one's former role will "affect the psychological balance in such a way that even if destined to return at a higher level, you will actually re-enter on a lower level."
+A critical section of the Third Bardo addresses how thoughts during re-entry determine the level of return. Attachment to material possessions, old games, or jealousy toward others enjoying one"s former role will "affect the psychological balance in such a way that even if destined to return at a higher level, you will actually re-enter on a lower level."
 
 The manual instructs: "abandon weakness and attachment to them; cast them away wholly; renounce them from your heart." When observing improper behavior in others during the session, the voyager should think: "What? How can the words of a Buddha be inappropriate? It is like the reflection of blemishes on my own face which I see in a mirror; my own thoughts must be impure."
 

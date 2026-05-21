@@ -7,7 +7,7 @@ topics: [endocannabinoid-system, stress-management, mind-body-medicine, cortisol
 ## Conscious Intervention for Stress Hormone Reduction
 
 The endocannabinoid system (ECS) serves as a critical bridge between conscious
-mental states and the body's physiological [[blesching-ten-strategies-reduce-fear-anxiety-stress-hormones]]
+mental states and the body"s physiological [[blesching-ten-strategies-reduce-fear-anxiety-stress-hormones]]
 such as cortisol and adrenaline through conscious intervention techniques.
 
 ## The Bidirectional Emotion-Molecule Feedback Loop

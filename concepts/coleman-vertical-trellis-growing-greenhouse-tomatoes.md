@@ -23,7 +23,7 @@ tags:
 
 ## Overview
 
-Eliot Coleman's vertical trellis system is a space-efficient, high-yielding method for
+Eliot Coleman"s vertical trellis system is a space-efficient, high-yielding method for
 growing tomatoes, cucumbers, peppers, and eggplants in unheated greenhouses. The core
 principle involves training plants onto vertical supports using string trellises and
 pruning them to single or double stems, then extending the productive life of

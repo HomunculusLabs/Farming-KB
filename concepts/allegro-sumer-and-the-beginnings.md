@@ -10,7 +10,7 @@ sources:
 
 ## Sumer and the Beginnings — Origins of the Mushroom Cult
 
-Allegro traces the mushroom cult back to the very beginnings of civilization in Sumer (southern Mesopotamia, c. 4000 BC), where he argues the [[allegro-fertility-philosophy-of-the-ancient-near-east]] East. The [[dead-sea-scrolls-entheogenic-reading]], were in Allegro's view the last major guardians of this tradition. Their library included texts that can only be properly understood as mushroom cryptograms. When Christianity became the state religion of Rome, the mushroom origins were deliberately suppressed, and the "literal" interpretations that we now consider orthodox were established.
+Allegro traces the mushroom cult back to the very beginnings of civilization in Sumer (southern Mesopotamia, c. 4000 BC), where he argues the [[allegro-fertility-philosophy-of-the-ancient-near-east]] East. The [[dead-sea-scrolls-entheogenic-reading]], were in Allegro"s view the last major guardians of this tradition. Their library included texts that can only be properly understood as mushroom cryptograms. When Christianity became the state religion of Rome, the mushroom origins were deliberately suppressed, and the "literal" interpretations that we now consider orthodox were established.
 
 ## Evidence from Plant Names
 

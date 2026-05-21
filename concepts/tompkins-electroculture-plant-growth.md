@@ -17,7 +17,7 @@ Lemstrom reported his success in 1902, showing that plants growing
 under electrical stimulation not only produced more abundantly but in
 some cases were sweeter and more nutritious.
 
-Lemstrom's method involved suspending wires above crop fields to
+Lemstrom"s method involved suspending wires above crop fields to
 collect atmospheric electricity and conduct it into the soil through
 grounded poles. During storms, when atmospheric electrical activity was
 intense, the polarity of the earth was reversed. Lemstrom found that

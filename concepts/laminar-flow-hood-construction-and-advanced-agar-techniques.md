@@ -46,7 +46,7 @@ Although the goal of lab work is to recreate a perfect growing environment, it i
 
 Drying and powdering samples of various growing substrates provides a library of materials to add to agar plates as needed. Adding a tablespoon of finely ground sawdust or screened wheat straw powder (sieved to the smallest particle obtainable) from a fruiting formula to agar helps cultures adapt and express the enzymes needed for [[arbuscule-isolation-metabolic-activity-assays]]. Substrate agar plates also serve as experimental mini-trials -- testing whether a particular mycelium strain can grow on an unusual substrate, such as shiitakes on wheat straw.
 
-Alternatively, samples of pesticides or other pollutants can be added to agar plates to gauge a fungus's ability to break down contaminants. Alternating media through successive culture transfers keeps the mycelium's enzyme production strong, providing valuable information about substrate preferences and capabilities.
+Alternatively, samples of pesticides or other pollutants can be added to agar plates to gauge a fungus"s ability to break down contaminants. Alternating media through successive culture transfers keeps the mycelium's enzyme production strong, providing valuable information about substrate preferences and capabilities.
 
 ## Split Gallery Plates
 

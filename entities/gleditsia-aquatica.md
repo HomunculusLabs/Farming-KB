@@ -20,7 +20,7 @@ Water locust typically reaches heights of 9–15 meters, with a spreading crown 
 
 **Classification:** Plantae → Tracheophyta → Magnoliopsida → Fabales → Fabaceae → Caesalpinioideae → Gleditsia → G. aquatica Marshall
 
-The species was first described by Humphry Marshall in 1785. The specific epithet *aquatica* refers to the tree's association with wet, riparian habitats.
+The species was first described by Humphry Marshall in 1785. The specific epithet *aquatica* refers to the tree"s association with wet, riparian habitats.
 
 Water locust is one of approximately 14 species in the genus *Gleditsia*, which has a disjunct distribution across [[guzman-psilocybin-mushrooms-south-america]], and eastern Asia. The genus is characterized by bipinnate leaves and often formidable thorns.
 

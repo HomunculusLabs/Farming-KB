@@ -37,17 +37,17 @@ The market offered multiple "varieties" of *P. cubensis*, each named for their p
 
 ### Amazonian Variety
 - Named for the Amazon basin region
-- Reflects the species' natural distribution in tropical lowland South America
+- Reflects the species" natural distribution in tropical lowland South America
 - Associated with potentially higher potency in user lore, though scientific data on strain-specific potency variation is limited
 
-## Sclerotia-Producing Species: "Philosopher's Stones" and "Magic Truffles"
+## Sclerotia-Producing Species: "Philosopher"s Stones" and "Magic Truffles"
 
 Two additional species were marketed in sclerotial form rather than as whole mushrooms:
 
 ### Psilocybe mexicana
 - One of the original sacred mushrooms documented by Wasson and Heim
 - Forms sclerotia — hardened masses of mycelium more resistant to adverse environmental conditions (dryness, cold, heat, excessive moisture)
-- Sold commercially as "magic truffles" or "philosopher's stones"
+- Sold commercially as "magic truffles" or "philosopher"s stones"
 - The type species of Section Mexicanae
 
 ### Psilocybe tampanensis
@@ -67,7 +67,7 @@ Two additional species were marketed in sclerotial form rather than as whole mus
 Users typically consumed mushrooms by:
 - Chopping fresh or dried mushrooms and eating them directly
 - Brewing mushrooms into a tea (a common method to reduce nausea associated with raw fungal tissue)
-- The taste was generally described as unpleasant, contributing to the tea method's popularity
+- The taste was generally described as unpleasant, contributing to the tea method"s popularity
 
 ## Brand Names and Marketing
 
@@ -75,7 +75,7 @@ The EMCDDA documented various brand names and marketing terms used in the Europe
 
 ## Wild European Species (Not Marketed)
 
-Several [[hallucinogenic-mushroom-market-in-europe]]'s growth in the late 1990s and early 2000s. Users perceived mushrooms as "natural" products in contrast to synthetic drugs like ecstasy or LSD. This perception was actively cultivated by smartshop marketing, which positioned mushrooms alongside herbal supplements, vitamins, and other "natural" health products. The internet accelerated this trend by providing cultivation information, product reviews, and a sense of community around natural psychoactives.
+Several [[hallucinogenic-mushroom-market-in-europe]]"s growth in the late 1990s and early 2000s. Users perceived mushrooms as "natural" products in contrast to synthetic drugs like ecstasy or LSD. This perception was actively cultivated by smartshop marketing, which positioned mushrooms alongside herbal supplements, vitamins, and other "natural" health products. The internet accelerated this trend by providing cultivation information, product reviews, and a sense of community around natural psychoactives.
 
 However, user accounts suggested that the actual mushroom experience did not always align with the positive marketing narrative. Negative effects including nausea, panic attacks, and lack of sociable (entactogenic) effects contributed to limited repeat use, creating a natural ceiling on market growth despite the favorable cultural positioning.
 ## Practical Cultivation Notes

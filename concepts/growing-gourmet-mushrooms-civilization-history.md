@@ -14,7 +14,7 @@ type: concept
 ---
 # Mushrooms in Civilization and History
 
-Humanity's use of mushrooms extends back to Paleolithic times.
+Humanity"s use of mushrooms extends back to Paleolithic times.
 Few people, even anthropologists, comprehend how influential
 mushrooms have been in affecting the course of human evolution.
 Mushrooms have played pivotal roles in ancient Greece, India,
@@ -30,7 +30,7 @@ artist's intent is clear. Mushrooms with electrified auras
 are depicted outlining a dancing shaman. The spiritual
 interpretation of this image transcends time and is obvious.
 The word "bemushroomed" has evolved to reflect the devout
-mushroom lover's state of mind.
+mushroom lover"s state of mind.
 
 In the spring of 1991, hikers in the Italian Alps came
 across the well-preserved remains of a man who died over

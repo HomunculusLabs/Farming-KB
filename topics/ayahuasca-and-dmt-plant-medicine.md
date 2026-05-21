@@ -1,7 +1,7 @@
 ---
 title: Ayahuasca and DMT Plant Medicine
 ---
-subtitle: Botany, Chemistry, Indigenous Traditions, and Modern Research on the Amazon's Master Plant
+subtitle: Botany, Chemistry, Indigenous Traditions, and Modern Research on the Amazon"s Master Plant
 created: 2026-05-20
 updated: 2026-05-20
 related_concepts:
@@ -109,7 +109,7 @@ Harmaline (3,4-dihydroharmine) is both an MAO-A inhibitor and a tremorogenic
 compound at higher concentrations, contributing to the physical intensity and
 purgative effects. Tetrahydroharmine (THH) is a weak MAO inhibitor but a potent
 serotonin reuptake inhibitor, potentially prolonging serotonergic effects and
-contributing to the brew's characteristic duration.
+contributing to the brew"s characteristic duration.
 
 An average 100 mL dose of ayahuasca contains approximately 24 mg of DMT,
 107 mg of tetrahydroharmine, 20 mg of harmaline, and 170 mg of harmine —

@@ -1,5 +1,5 @@
 ---
-title: Fukuoka's Natural Garden and Backyard Food Production
+title: Fukuoka"s Natural Garden and Backyard Food Production
 source: "The Road Back to Nature — Masanobu Fukuoka (1987)"
 ---
 source_chapter: Chapter 6
@@ -16,7 +16,7 @@ topics:
   - lawn-critique
   - self-sustaining-gardens
 summary: >
-  Fukuoka's vision for transforming suburban backyards into productive,
+  Fukuoka"s vision for transforming suburban backyards into productive,
   self-maintaining food gardens by abandoning lawn culture and letting
   vegetables, fruit trees, and flowers grow in natural succession
   without cultivation, fertilizer, or pesticides.
@@ -40,7 +40,7 @@ manicured lawn. He asked: "What is this lawn culture?" Lawns consume
 enormous quantities of water, fertilizer, herbicides, and fossil fuel,
 yet produce nothing edible. Ecologically, a lawn is barren — a
 monoculture supporting almost no insect or bird life. Fukuoka saw lawn
-culture as a symptom of humanity's alienation from nature: people pour
+culture as a symptom of humanity"s alienation from nature: people pour
 resources into a sterile green carpet while the soil dies beneath it.
 He urged replacing lawns with food-producing plantings far more
 beautiful in their wildness and far more generous in their yields.

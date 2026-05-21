@@ -13,7 +13,7 @@ type: concept
 The nightshade family (Solanaceae) contributed several of the most
 important ingredients to the hallucinogenic brews and ointments of
 medieval European witchcraft. Belladonna, henbane, mandrake, and datura
-formed the core pharmacopoeia of the so-called witches' brews, all
+formed the core pharmacopoeia of the so-called witches" brews, all
 sharing a common chemistry of [[weil-the-natural-mind-altered-states-normalcy]] of
 consciousness.
 
@@ -38,7 +38,7 @@ Himalayas.
 
 ## Henbane (Hyoscyamus niger)
 
-Henbane was often included in the witches' brews and other toxic
+Henbane was often included in the witches" brews and other toxic
 preparations of medieval Europe to cause visual hallucinations and the
 sensation of flight. An annual or biennial native to Europe, it has long
 been valued in medicine as a sedative and anodyne to induce sleep. The

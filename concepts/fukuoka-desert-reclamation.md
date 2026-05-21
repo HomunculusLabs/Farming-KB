@@ -31,7 +31,7 @@ In his later years, [[masanobu-fukuoka]] applied [[natural-farming-principles]] 
 - Broadcast seed balls at rate of ~1000 per hectare
 - Time for rainy season or when dew is sufficient
 - No irrigation, no fertilizer, no ongoing maintenance needed
-- Monitor but don't intervene
+- Monitor but don"t intervene
 
 ## The Philosophy
 

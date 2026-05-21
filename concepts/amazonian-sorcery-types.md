@@ -24,7 +24,7 @@ The vision of the three powers establishes the fundamental tripartite structure 
 
 ## Extraterrestrial Beings in Shamanic Cosmology
 
-Amaringo's visions consistently include extraterrestrial beings and spacecraft. Beings arrive from Antares, Andromeda, Saturn, Venus, Ganymede, and the Pleiades. These are not random additions but integral parts of the cosmology — extraterrestrials bring specialized knowledge, serve as allies or adversaries, and interact with human shamans on equal or superior terms. The Inca priest received direct contact with beings from Andromeda whose vision was "very much superior to ours" and who gave specialized knowledge to the Tahuantinsuyo shamans.
+Amaringo"s visions consistently include extraterrestrial beings and spacecraft. Beings arrive from Antares, Andromeda, Saturn, Venus, Ganymede, and the Pleiades. These are not random additions but integral parts of the cosmology — extraterrestrials bring specialized knowledge, serve as allies or adversaries, and interact with human shamans on equal or superior terms. The Inca priest received direct contact with beings from Andromeda whose vision was "very much superior to ours" and who gave specialized knowledge to the Tahuantinsuyo shamans.
 
 ## Overview
 

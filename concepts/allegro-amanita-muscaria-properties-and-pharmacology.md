@@ -1,5 +1,5 @@
 ---
-title: "amanita-muscaria Properties and Pharmacology in Allegro's Framework"
+title: "amanita-muscaria Properties and Pharmacology in Allegro"s Framework"
 created: 2026-04-26
 updated: "2026-04-23"
 sources:
@@ -9,7 +9,7 @@ type: concept
 tags: amanita-muscaria, pharmacology]
 ---
 
-## Amanita Muscaria Properties and Pharmacology in Allegro's Framework
+## Amanita Muscaria Properties and Pharmacology in Allegro"s Framework
 
 John Marco Allegro's "The [[amanita-muscaria-cultural-history]] lore across cultures.
 

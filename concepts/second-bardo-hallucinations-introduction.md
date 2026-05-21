@@ -10,7 +10,7 @@ type: concept
 
 The [[chonyid-bardo]], or Second Bardo, is the period of hallucinations that begins
 when both the Primary and Secondary [[clear-light]] of the First Bardo have been
-lost. In Leary's adaptation, this stage is described as a realm of "karmic
+lost. In Leary"s adaptation, this stage is described as a realm of "karmic
 illusions" and "intense hallucinatory mixtures of game reality" — a vivid,
 uncontrolled flow of visionary experience in which the ego has not fully
 reasserted itself but liberation from self has also slipped away.
@@ -18,7 +18,7 @@ reasserted itself but liberation from self has also slipped away.
 ## The Secondary Clear Light
 
 Before the Second Bardo fully begins, there is a second chance at liberation.
-Unlike the Primary Clear Light's initial burst of content-free unity, the
+Unlike the Primary Clear Light"s initial burst of content-free unity, the
 Secondary Clear Light involves a distinctive flashing between two states:
 
 - **Pure ego-less unity** — transcendence returns, but in diminished form.
@@ -71,7 +71,7 @@ Recognize that your brain is producing the visions. They do not exist. Nothing
 exists except as your consciousness gives it life. All deities and demons, all
 heavens and hells are internal productions. Recognition of this truth gives
 liberation. There is no reality behind any phenomenon of the ego-loss state
-save the illusions stored in one's own mind.
+save the illusions stored in one"s own mind.
 
 ## Passive Integration: The Central Instruction
 
@@ -89,7 +89,7 @@ contact with another person**. The guide instructs the person to put their head
 on the guide's lap or chest, place their face next to the guide's, and
 concentrate on the movement and sound of breath — breathing deeply, feeling
 the air rush in and the sighing release. Leary calls this "the oldest form of
-living communication; the brotherhood of breath." The guide's hand on the
+living communication; the brotherhood of breath." The guide"s hand on the
 forehead may add to relaxation. This tender huddling is natural — human beings
 have gathered together during long, dark, confused nights for hundreds of
 thousands of years.

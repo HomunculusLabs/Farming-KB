@@ -12,7 +12,7 @@ Among the [[jivaro]] people of the Ecuadorian Amazon, the *[[tsentsak]]* — mag
 
 The path to shamanhood begins with the transfer of tsentsak from an established shaman to a novice. The donor shaman cuts a piece from one of his own magical darts with a machete and gives it to the novice to swallow. Upon taking it into his stomach, the recipient experiences intense pain and must remain on his bed for ten days, drinking natem every evening.
 
-The Jivaro believe that tsentsak can be kept indefinitely in the stomach and regurgitated at will. During the transfer period, the donor shaman periodically blows and rubs all over the novice's body, apparently to increase the power of the transfer.
+The Jivaro believe that tsentsak can be kept indefinitely in the stomach and regurgitated at will. During the transfer period, the donor shaman periodically blows and rubs all over the novice"s body, apparently to increase the power of the transfer.
 
 ## The Critical Choice: Bewitcher or Curer
 
@@ -41,7 +41,7 @@ Bewitching is directed at specific, known individuals — typically neighbors or
 
 The procedure follows a precise sequence:
 
-1. The shaman drinks *natem* and secretly approaches the victim's house
+1. The shaman drinks *natem* and secretly approaches the victim"s house
 2. Just out of sight in the forest, he drinks green tobacco juice, enabling him to regurgitate a tsentsak
 3. He throws the magical dart at his victim as they exit the house
 4. A strong, well-aimed tsentsak may pass entirely through the body, causing death within days to weeks
@@ -59,7 +59,7 @@ The pasuk can remain near the victim after the bewitcher departs, disguised as a
 
 ### Wakani Birds
 
-*Wakani* ("soul" or "spirit") birds are supernatural servants available to any shaman. The shaman blows on them and sends them to the victim's house, where they fly around the person repeatedly, causing fear, fever, insanity, and eventually death.
+*Wakani* ("soul" or "spirit") birds are supernatural servants available to any shaman. The shaman blows on them and sends them to the victim"s house, where they fly around the person repeatedly, causing fear, fever, insanity, and eventually death.
 
 The wakani bird also serves as a resupply mechanism: the bewitcher can send it to perch near the victim's house, then continually send new tsentsak for the bird to throw from its beak. This makes it effectively impossible for a curing shaman to permanently rid the patient of magical darts.
 
@@ -83,7 +83,7 @@ Shamans gradually weaken over time and must repeatedly purchase tsentsak. The de
 
 ## Tsentsak Economy and Social Relations
 
-The tsentsak system creates a complex economy among Jivaro shamans. Since magical darts can be purchased, gifted, and forcibly recovered, they function as both spiritual capital and social currency. The transfer of tsentsak creates an enduring bond between donor and recipient — the donor's character (bewitcher or curer) shapes the novice's tendencies, and the recipient's initial supply comes entirely from another shaman's stock.
+The tsentsak system creates a complex economy among Jivaro shamans. Since magical darts can be purchased, gifted, and forcibly recovered, they function as both spiritual capital and social currency. The transfer of tsentsak creates an enduring bond between donor and recipient — the donor"s character (bewitcher or curer) shapes the novice's tendencies, and the recipient's initial supply comes entirely from another shaman's stock.
 
 This economy means that power is never truly self-generated. A shaman's strength is always dependent on his ability to acquire tsentsak from others, creating networks of obligation and competition. The constant need to replenish supplies ensures that shamans remain embedded in a web of social and economic relationships with their peers.
 
@@ -91,11 +91,11 @@ This economy means that power is never truly self-generated. A shaman's strength
 
 Central to the entire tsentsak system is *natem* — the Banisteriopsis-based hallucinogenic brew. Without natem, the supernatural aspects of tsentsak remain invisible. Under its influence, ordinary objects transform into spirit helpers, the pasuk's iron armor becomes visible, and the rainbow bridge between shamans can be perceived. Natem functions as what Harner calls "the chemical door to the otherwise invisible world of the Jivaro shaman."
 
-The shaman's dependence on natem is absolute. It is required not only for bewitching and curing operations but also for diagnosing the location of intruding darts, seeing spirit helpers, communicating with the supernatural realm, and maintaining the protective relationship with his own tsentsak. Without regular natem consumption, a shaman loses his connection to the supernatural reality that defines his power.
+The shaman"s dependence on natem is absolute. It is required not only for bewitching and curing operations but also for diagnosing the location of intruding darts, seeing spirit helpers, communicating with the supernatural realm, and maintaining the protective relationship with his own tsentsak. Without regular natem consumption, a shaman loses his connection to the supernatural reality that defines his power.
 
 ## Tobacco Juice as a Supportive Enabler
 
-While natem opens the door to the supernatural world, tobacco juice (*[[nicotiana-rustica]]*) serves as the shaman's constant companion. Green tobacco juice is consumed throughout the day and night to keep tsentsak "fed" and alert. Although not truly hallucinogenic, tobacco juice produces a narcotized state that is believed necessary to maintain one's magical darts in a state of readiness to repel enemy attacks.
+While natem opens the door to the supernatural world, tobacco juice (*[[nicotiana-rustica]]*) serves as the shaman's constant companion. Green tobacco juice is consumed throughout the day and night to keep tsentsak "fed" and alert. Although not truly hallucinogenic, tobacco juice produces a narcotized state that is believed necessary to maintain one"s magical darts in a state of readiness to repel enemy attacks.
 
 A shaman does not dare go for a walk without carrying green tobacco leaves. The juice enables regurgitation of tsentsak for both offensive (bewitching) and defensive purposes. In conjunction with natem and piripiri, tobacco juice forms a triad of [[cultural-evolution-and-psychoactive-substances]] essential to the Jivaro shaman's pharmacopoeia.
 
@@ -115,7 +115,7 @@ This hierarchy reflects a fundamental Jivaro cosmological principle: the superna
 
 Within Jivaro culture, bewitching is not categorically condemned but is governed by social norms. Bewitching is carried out against specific, known individuals to avenge particular offenses against one's family or friends. This targeted, retaliatory framework distinguishes shamanic bewitching from random or gratuitous violence and embeds it within the Jivaro system of justice and social regulation.
 
-However, the urge to bewitch is described as arriving with compulsive force — "with a strength and frequency similar to that of hunger." This characterization suggests that the Jivaro recognize bewitching as a potentially addictive or overwhelming drive that must be actively resisted by those who choose the curing path. The initial choice to swallow or cast the first tsentsak thus takes on the character of a moral decision that defines the shaman's entire career.
+However, the urge to bewitch is described as arriving with compulsive force — "with a strength and frequency similar to that of hunger." This characterization suggests that the Jivaro recognize bewitching as a potentially addictive or overwhelming drive that must be actively resisted by those who choose the curing path. The initial choice to swallow or cast the first tsentsak thus takes on the character of a moral decision that defines the shaman"s entire career.
 
 ## Tsentsak and the Jivaro Worldview
 

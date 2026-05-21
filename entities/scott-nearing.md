@@ -8,7 +8,7 @@ tags: [person, historical, organic-farming, homesteading]
 ## Scott Nearing
 
 ## Description
-Scott Nearing (1883–1983) was an American economist, educator, and homesteader who, with his wife Helen Nearing, pioneered the modern back-to-the-land movement. Their 1954 book *Living the Good Life* documented their self-sufficient homesteading practice in Vermont and later Maine, inspiring generations of organic farmers including Eliot Coleman. In the mid-1960s, Coleman visited Scott and Helen Nearing, became friends with them, and in 1968 they sold him the back part of their Harborside, Maine farm at the same price they had paid twenty years earlier — a transformative act of generosity that enabled Coleman's farming career.
+Scott Nearing (1883–1983) was an American economist, educator, and homesteader who, with his wife Helen Nearing, pioneered the modern back-to-the-land movement. Their 1954 book *Living the Good Life* documented their self-sufficient homesteading practice in Vermont and later Maine, inspiring generations of organic farmers including Eliot Coleman. In the mid-1960s, Coleman visited Scott and Helen Nearing, became friends with them, and in 1968 they sold him the back part of their Harborside, Maine farm at the same price they had paid twenty years earlier — a transformative act of generosity that enabled Coleman"s farming career.
 
 ## Classification
 - **Category**: Historical figure / Homesteader / Author / Economist
@@ -37,13 +37,13 @@ Scott Nearing (1883–1983) was an American economist, educator, and homesteader
 - Practiced organic gardening methods before the term "organic" was widely used
 - Emphasized living in harmony with natural systems
 - Their approach was both practical (how to build, grow, preserve) and philosophical (why to live simply)
-- Scott Nearing's background as an economist informed his systematic approach to self-sufficiency
+- Scott Nearing"s background as an economist informed his systematic approach to self-sufficiency
 
 ### Connection to Coleman's Development
 - The Nearings' generosity in selling affordable land made Coleman's farming career possible
 - The challenging soil conditions (sandy acid podzol, pH 4.3, rocky) forced Coleman to develop soil-building expertise
 - Coleman eventually transformed 1.5 acres of this poor land into "really decent loam" — what he calls "anthropogenic" (human-made) soil
-- The connection to Kropotkin's observation that Parisian growers "make the soil themselves" is drawn by Coleman
+- The connection to Kropotkin"s observation that Parisian growers "make the soil themselves" is drawn by Coleman
 
 ## Relevance to Cultivation and Mycology
 

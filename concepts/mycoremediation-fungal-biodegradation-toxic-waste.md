@@ -9,7 +9,7 @@ created: 2026-05-11
 
 ## Overview
 
-Mycoremediation is the use of fungi to degrade, sequester, or otherwise neutralize environmental contaminants. Paul Stamets coined the term and pioneered much of the applied research, demonstrating that selected mushroom species can break down [[staycare-fungal-degradation-of-polycyclic-aromatic-hydrocarbons]] (PAHs), polychlorinated biphenyls (PCBs), chemical warfare agents, and even some heavy metals. The concept represents one of the four pillars of Stamets' broader "mycorestoration" framework, alongside mycofiltration, mycoforestry, and mycopesticides.
+Mycoremediation is the use of fungi to degrade, sequester, or otherwise neutralize environmental contaminants. Paul Stamets coined the term and pioneered much of the applied research, demonstrating that selected mushroom species can break down [[staycare-fungal-degradation-of-polycyclic-aromatic-hydrocarbons]] (PAHs), polychlorinated biphenyls (PCBs), chemical warfare agents, and even some heavy metals. The concept represents one of the four pillars of Stamets" broader "mycorestoration" framework, alongside mycofiltration, mycoforestry, and mycopesticides.
 
 The mechanism relies on the unique enzyme systems of white-rot fungi, which evolved to decompose lignin — one of the most recalcitrant organic polymers in nature. Because lignin and many anthropogenic pollutants share similar chemical structures (complex aromatic rings), the same enzymes that break down wood can also dismantle a wide range of toxic compounds. This makes certain mushroom species extraordinarily effective biological remediation agents.
 

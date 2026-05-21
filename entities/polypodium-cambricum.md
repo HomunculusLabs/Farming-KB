@@ -10,7 +10,7 @@ tags:
 date: 2026-05-11
 updated: 2026-05-11
 sources:
-  - Ricci, R. (2006). "The Plantfinder's Guide to Ferns." Timber Press.
+  - Ricci, R. (2006). "The Plantfinder"s Guide to Ferns." Timber Press.
 ---
 
 ## Polypodium cambricum
@@ -69,7 +69,7 @@ The species grows as an epiphyte, lithophyte, or terrestrial plant, showing rema
 
 Spore propagation produces variable offspring, while division of the creeping rhizome yields uniform clones.
 
-Numerous cultivars have been selected for frond division, including 'Cambricum' (the original crested form), 'Richard Kayse', and 'Whilharris'.
+Numerous cultivars have been selected for frond division, including "Cambricum' (the original crested form), 'Richard Kayse', and 'Whilharris'.
 
 The fern is low-maintenance in cultivation, requiring only well-drained alkaline soil and shade to partial shade.
 

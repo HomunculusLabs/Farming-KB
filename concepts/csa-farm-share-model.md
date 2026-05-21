@@ -13,7 +13,7 @@ Community Supported Agriculture (CSA) connects farmers directly with consumers t
 
 ## How CSAs Work
 
-1. Farmer plans the season's production based on expected membership
+1. Farmer plans the season"s production based on expected membership
 2. Members sign up and pay before the season begins (typically November-March)
 3. Farmer grows, harvests, and packs boxes weekly
 4. Members pick up boxes at designated locations (farm, delivery sites, farmers market)

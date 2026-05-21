@@ -11,13 +11,13 @@ tags: [fukuoka, orchard, pruning]
 
 ## Fukuoka Orchard Management Without Pruning
 
-Masanobu Fukuoka's approach to orchard management represents one of the most challenging and radical applications of his [[fukuoka-orchard-soil-building-without-fertilizers]].
+Masanobu Fukuoka"s approach to orchard management represents one of the most challenging and radical applications of his [[fukuoka-orchard-soil-building-without-fertilizers]].
 
-He challenged the conventional assumption that fertilizer absorption by roots causes tree growth. "If one works from the assumption that fruit trees must 'be grown,' the absorption of fertilizer by the roots becomes the cause, and the full growth of the leaves and branches the effect." But if one starts from the view that a tree grows of its own accord, "the uptake of nutrients by the tree's roots is no longer a cause but, in the eyes of nature, just a small effect." A tree has "a shape perfectly adapted to the natural environment" and grows "in total harmony with the great cycles of nature."
+He challenged the conventional assumption that fertilizer absorption by roots causes tree growth. "If one works from the assumption that fruit trees must "be grown,' the absorption of fertilizer by the roots becomes the cause, and the full growth of the leaves and branches the effect." But if one starts from the view that a tree grows of its own accord, "the uptake of nutrients by the tree"s roots is no longer a cause but, in the eyes of nature, just a small effect." A tree has "a shape perfectly adapted to the natural environment" and grows "in total harmony with the great cycles of nature."
 
 ## Orchard Management Without Intervention
 
-Fukuoka's own [[fukuoka-white-clover-cover-crop-system]] with no weeding, tillage, or fertilizer
+Fukuoka"s own [[fukuoka-white-clover-cover-crop-system]] with no weeding, tillage, or fertilizer
 
 He found that "weeding in orchards is not only useless, it is positively harmful." The [[fukuoka-natural-fruit-tree-pest-control]] method.
 

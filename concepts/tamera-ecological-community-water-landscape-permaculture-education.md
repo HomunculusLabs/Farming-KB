@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-The Tamera ecological community in Portugal serves as a living demonstration of [[sepp-holzer]]'s [[permaculture-principles]]. This concept page examines the community's water landscape restoration project, its educational mission, and the broader model of ecological restoration through community engagement.
+The Tamera ecological community in Portugal serves as a living demonstration of [[sepp-holzer]]"s [[permaculture-principles]]. This concept page examines the community's water landscape restoration project, its educational mission, and the broader model of ecological restoration through community engagement.
 
 ## The Tamera Water Landscape
 
@@ -28,7 +28,7 @@ The scale of the transformation is dramatic: from a dry, degraded landscape to a
 
 ### The Global Campus
 
-"Tamera's Ecology Team promotes Sepp Holzer's work and wants farmers, engineers and laymen alike to learn that our land can be healed."
+"Tamera"s Ecology Team promotes Sepp Holzer's work and wants farmers, engineers and laymen alike to learn that our land can be healed."
 
 The community sees its water landscape not only as a practical restoration project but as an educational resource. Through open days, tours, workshops, and seminars, Tamera disseminates the knowledge and techniques of Holzer permaculture to a wide audience.
 
@@ -40,9 +40,9 @@ The open days serve multiple purposes: educating the public, building community 
 
 ### Institute for Holzer Permaculture
 
-"We would like to develop an institute for Holzer's Permaculture at Tamera as great interest in land and the work has been continuously expressed."
+"We would like to develop an institute for Holzer"s Permaculture at Tamera as great interest in land and the work has been continuously expressed."
 
-The proposed institute would formalize Tamera's educational role, providing structured training in water landscape design, construction, and management. The vision is to create a permanent center for the dissemination of Holzer's methods.
+The proposed institute would formalize Tamera"s educational role, providing structured training in water landscape design, construction, and management. The vision is to create a permanent center for the dissemination of Holzer's methods.
 
 ## Community Engagement
 
@@ -50,21 +50,21 @@ The proposed institute would formalize Tamera's educational role, providing stru
 
 "Together, with engaged conservationists, specialists and willing people we can do it! We wish to create an alliance to restore the land and stop desertification. A green land. May we succeed!"
 
-The language of alliance and collective action reflects Tamera's understanding that ecological restoration is not a technical problem requiring expert intervention but a social movement requiring broad participation.
+The language of alliance and collective action reflects Tamera"s understanding that ecological restoration is not a technical problem requiring expert intervention but a social movement requiring broad participation.
 
 ### International Reach
 
-"I have also taught people from the favelas in Sao Paulo and the slums in Kenya to utilise rubbish tips to grow vegetables, for example." Holzer's educational work extends beyond European farming communities to urban and peri-urban contexts in the Global South, where the need for sustainable food production is most acute.
+"I have also taught people from the favelas in Sao Paulo and the slums in Kenya to utilise rubbish tips to grow vegetables, for example." Holzer"s educational work extends beyond European farming communities to urban and peri-urban contexts in the Global South, where the need for sustainable food production is most acute.
 
 ### Valuable Knowledge
 
-"This is valuable knowledge." The simplicity and accessibility of Holzer's methods—working with natural processes rather than against them, using local materials rather than imported inputs—makes them particularly suited to contexts where resources are limited.
+"This is valuable knowledge." The simplicity and accessibility of Holzer"s methods—working with natural processes rather than against them, using local materials rather than imported inputs—makes them particularly suited to contexts where resources are limited.
 
 ## Valdepajares de Tajo — Holzer's Ocean
 
 ### The Largest Lake
 
-"The biggest lake is 700m long × 400m wide × 10m deep. They call it Holzer's ocean." The scale of the Valdepajares project demonstrates that Holzer's natural construction methods can produce water features of substantial size without conventional engineering materials.
+"The biggest lake is 700m long × 400m wide × 10m deep. They call it Holzer"s ocean." The scale of the Valdepajares project demonstrates that Holzer"s natural construction methods can produce water features of substantial size without conventional engineering materials.
 
 ### Circular Arrangement
 

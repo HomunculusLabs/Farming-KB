@@ -7,7 +7,7 @@ tags:
 ## Overview
 In his 1983 Esalen lecture on [[terence-mckenna]] elaborated the hypothesis that [[gadd-mycelial-network-dynamics]] strategy when in contact with planetary surfaces,
 and a spore-dispersion strategy as a means of radiating throughout the galaxy.
-Central to this hypothesis is the mushroom's association with domesticated cattle
+Central to this hypothesis is the mushroom"s association with domesticated cattle
 and, through them, with human nomadic populations—establishing a deep symbiotic
 relationship that has carried the mushroom's genetic material alongside human
 genes across continents and millennia.
@@ -43,7 +43,7 @@ particularly cattle. The [[mckenna-mushroom-teonanacatl-franciscan-theophagy-and
 systematically suppressed these practices, pushing the old religion into the
 mountains of Oaxaca, where it survived in only a few villages until Valentina
 and [[mckenna-stropharia-cubensis-extraterrestrial-hypothesis-spore-dispersal]]: "It may
-instead be what I've recently come to suspect—that the human soul is so
+instead be what I"ve recently come to suspect—that the human soul is so
 alienated from us in our present culture that we treat it as an extraterrestrial.
 To us the most alien thing in the cosmos is the human soul." This
 interpretation suggests that what appears to be contact with an alien

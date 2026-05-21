@@ -23,7 +23,7 @@ Scholarly objections to the entheogenic theory have included the following:
 
 The nature of the evidence is circumstantial. No ancient text explicitly states that the kykeon was psychoactive. The theory relies on inference from suggestive but inconclusive passages.
 
-Ergot of barley, while theoretically capable of producing psychoactive effects, would be unpredictable in its potency and could be dangerous. The ergotism that caused "St. Anthony's Fire" in medieval Europe demonstrated the toxic potential of ergot contamination.
+Ergot of barley, while theoretically capable of producing psychoactive effects, would be unpredictable in its potency and could be dangerous. The ergotism that caused "St. Anthony"s Fire" in medieval Europe demonstrated the toxic potential of ergot contamination.
 
 The Mysteries functioned successfully for nearly two thousand years. It seems unlikely that a preparation as variable and potentially dangerous as ergot-infused barley could have been used reliably over such a long period.
 
@@ -31,7 +31,7 @@ The ancient Greeks had access to other known psychoactive plants (notably wine) 
 
 ## The Eupolis Fragment
 
-One of the strongest pieces of evidence supporting the theory is the papyrus fragment from Eupolis's comedy "The Demes." The fragment, brought to Ruck's attention during the research for the book, preserves a portion of a scene in which an informer explains to a judge how he had come upon someone who had obviously been drinking the potion since he had barley groats on his moustache.
+One of the strongest pieces of evidence supporting the theory is the papyrus fragment from Eupolis"s comedy "The Demes." The fragment, brought to Ruck"s attention during the research for the book, preserves a portion of a scene in which an informer explains to a judge how he had come upon someone who had obviously been drinking the potion since he had barley groats on his moustache.
 
 The accused had bribed the informer to say it was simply porridge and not the potion he had drunk. By a possible pun, the comedian may even indicate that the incriminating "crumbs of barley" were "purples of barley" — a reference to the purple color of ergot sclerotia.
 

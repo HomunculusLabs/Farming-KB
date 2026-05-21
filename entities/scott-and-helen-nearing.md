@@ -9,7 +9,7 @@ tags: [people, homesteading, organic-farming, mentors, history]
 
 ## Description
 
-Scott Nearing (1883 to 1983) and Helen Knothe Nearing (1904 to 1995) were American homesteaders, writers, and pioneers of the back-to-the-land movement. They are best known for their book *Living the Good Life* (1954), which inspired generations of people to pursue self-sufficient, sustainable living. They were the primary mentors and early benefactors of Eliot Coleman, selling him the land that became [[four-season-farm]] in Harborside, Maine, at the original purchase price from twenty years earlier, an act of extraordinary generosity that enabled Coleman's entire career in organic farming.
+Scott Nearing (1883 to 1983) and Helen Knothe Nearing (1904 to 1995) were American homesteaders, writers, and pioneers of the back-to-the-land movement. They are best known for their book *Living the Good Life* (1954), which inspired generations of people to pursue self-sufficient, sustainable living. They were the primary mentors and early benefactors of Eliot Coleman, selling him the land that became [[four-season-farm]] in Harborside, Maine, at the original purchase price from twenty years earlier, an act of extraordinary generosity that enabled Coleman"s entire career in organic farming.
 
 ## Classification
 

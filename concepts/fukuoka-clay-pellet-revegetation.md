@@ -1,5 +1,5 @@
 ---
-title: Fukuoka's Clay Pellet Revegetation Method
+title: Fukuoka"s Clay Pellet Revegetation Method
 source: administrator-microsoft-word-fukuoka-textdoc.md
 tags: [agriculture, natural-farming, revegetation, desert-greening, ecology]
 created: 2026-05-09
@@ -32,7 +32,7 @@ The pellets combine several categories of seeds:
 
 ## The Role of Soil Microorganisms
 
-Central to Fukuoka's approach is the role of soil biology. One gram of soil from his farm contained approximately 100 million nitrogen-fixing bacteria and other soil-enriching microbes. He believed that soil containing seeds and these microorganisms "could be the spark that restores the deserts."
+Central to Fukuoka"s approach is the role of soil biology. One gram of soil from his farm contained approximately 100 million nitrogen-fixing bacteria and other soil-enriching microbes. He believed that soil containing seeds and these microorganisms "could be the spark that restores the deserts."
 
 Science, he noted, rarely looks to microorganisms for understanding large causal relationships. The perishing of vegetation may have triggered a drought, but the plants may have died as a result of microorganism action. This interdependence means that revegetation cannot succeed by planting seeds alone—the entire microbial ecosystem must be restored simultaneously.
 

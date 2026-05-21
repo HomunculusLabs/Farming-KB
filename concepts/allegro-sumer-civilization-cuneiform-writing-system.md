@@ -22,7 +22,7 @@ Organized labor on a vast scale made possible public works of extraordinary ambi
 
 ## The Theocratic State and the Temple
 
-The Sumerian worldview was fundamentally theocratic. For the land was the god's, without whose procreative power all life would cease. The king was his bailiff, governing in the name of the deity and stewarding divine property on behalf of the city's patron god.
+The Sumerian worldview was fundamentally theocratic. For the land was the god"s, without whose procreative power all life would cease. The king was his bailiff, governing in the name of the deity and stewarding divine property on behalf of the city's patron god.
 
 This conception of divine ownership shaped every institution of Sumerian society. Land tenure, taxation, legal procedure, and the calendar itself all derived their authority from the god's ultimate ownership of the soil and its productivity. The entire apparatus of government was understood as an extension of divine will, administered through human agents who held their authority on temporary lease from the gods.
 
@@ -58,7 +58,7 @@ The shape of these early tablets was distinctive. It was the shape of the flat l
 
 This seemingly incidental detail reveals the deep mycological awareness that permeated early Mesopotamian culture and connected the act of writing itself to the natural [[fukuoka-world-of-the-bushman]] alluvial plain. The medium of writing carried symbolic meaning of its own.
 
-These early rounded tablets were later regularized into rectangular forms that fit comfortably in the scribe's hand, allowing more text to be inscribed on each surface. The evolution of the tablet's physical form paralleled the evolution of the script itself — from organic and pictorial toward regularized and abstract.
+These early rounded tablets were later regularized into rectangular forms that fit comfortably in the scribe"s hand, allowing more text to be inscribed on each surface. The evolution of the tablet's physical form paralleled the evolution of the script itself — from organic and pictorial toward regularized and abstract.
 
 The medium shaped the message, and the demands of efficiency gradually overtook the aesthetic impulse toward faithful representation. What began as art became technology.
 
@@ -100,7 +100,7 @@ For instance, KUR carries the core idea of "conquer" and BA the idea of "give," 
 
 This gives the language a quality of transparency — the core meaning of a word is always visible within its compounded forms. Unlike the hidden etymologies of English, where centuries of sound change have obscured the relationships between related words, Sumerian preserves its structural logic on the surface.
 
-Unlike English, where strong verbs show internal vowel change (give/gave, run/ran), Sumerian keeps the radical element unchanged. Grammatical variation is expressed by adding particles around the root rather than by altering the root itself. This conservative morphology is one of the language's most important features for comparative philology, as it preserves the original form of idea-words across thousands of years of textual transmission.
+Unlike English, where strong verbs show internal vowel change (give/gave, run/ran), Sumerian keeps the radical element unchanged. Grammatical variation is expressed by adding particles around the root rather than by altering the root itself. This conservative morphology is one of the language"s most important features for comparative philology, as it preserves the original form of idea-words across thousands of years of textual transmission.
 
 Sumerian exhibits systematic phonetic correspondences that recur across related words and aid in tracing connections between seemingly unrelated terms:
 

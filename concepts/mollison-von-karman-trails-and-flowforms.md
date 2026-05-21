@@ -9,7 +9,7 @@ and aerodynamic structures.
 ## The Overbeck Jet Model
 
 The simple involuted mushroom form, called an "Overbeck jet" by
-D'Arcy Thompson, is also shown in its "apple core" model form. While
+D"Arcy Thompson, is also shown in its "apple core" model form. While
 we can produce these patterns by jetting smoke, fluid, gases, or oils
 into other media, they occur as a part of the natural streaming of
 fluids and gases past fixed objects such as posts in streams, islands

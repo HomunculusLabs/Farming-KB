@@ -31,8 +31,8 @@ The Chicxulub impact was a massive meteorite strike that occurred approximately 
 - After the impact, fungi thrived on the enormous quantities of dead plant material, becoming the dominant terrestrial life form during the post-impact recovery period.
 - The fungal layer was followed by an orderly succession of returning plant life, demonstrating that fungal decomposition of dead biomass prepared the substrate for ecosystem recovery.
 - A parallel pattern of fungal dominance was also observed following the earlier Permian extinction (~252 million years ago), when an impact site was discovered beneath Antarctic ice (Gorder, 2006).
-- The Permian extinction was the greatest in Earth's history, killing 90% of all living species, after which fungi again dominated before a succession of new life forms emerged.
-- The popular press headlined Vajda and McLaughlin's discovery as "A World Ruled by Fungi" (Terra Daily, 2004), bringing public attention to fungi's ecological importance.
+- The Permian extinction was the greatest in Earth"s history, killing 90% of all living species, after which fungi again dominated before a succession of new life forms emerged.
+- The popular press headlined Vajda and McLaughlin's discovery as "A World Ruled by Fungi" (Terra Daily, 2004), bringing public attention to fungi"s ecological importance.
 
 ## Relevance to Cultivation and Mycology
 

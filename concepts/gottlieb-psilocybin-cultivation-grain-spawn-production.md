@@ -10,7 +10,7 @@ tags: [cultivation, grain-spawn, psilocybin]
 
 ## Gottlieb Psilocybin Cultivation Grain Spawn Production
 
-Gottlieb's "The Psilocybin Producer's Guide" (1976) describes a liquid
+Gottlieb"s "The Psilocybin Producer"s Guide" (1976) describes a liquid
 broth-based cultivation system rather than traditional grain spawn. The
 guide uses quart mason jars filled with Potato Dextrose Yeast (PDY) broth
 as the [[agar-culture-media]] to combat senescence.

@@ -10,7 +10,7 @@ sources:
 
 ## Cannabis Strain Selection and Genetics
 
-**Source:** Marijuana Horticulture: The Indoor/Outdoor Medical Grower's Bible — Jorge Cervantes
+**Source:** Marijuana Horticulture: The Indoor/Outdoor Medical Grower"s Bible — Jorge Cervantes
 
 ## Taxonomic Classification
 

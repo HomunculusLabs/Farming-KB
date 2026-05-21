@@ -11,7 +11,7 @@ tags: [economics, community, permaculture, loans, regional-economy, revolving-fu
 
 S.H.A.R.E. (Self Help Association for a Regional Economy) is a local nonprofit corporation
 designed to encourage and finance small businesses producing necessary goods and services
-for their community. Documented by [[bill-mollison]] in *Permaculture: A Designer's Manual*,
+for their community. Documented by [[bill-mollison]] in *Permaculture: A Designer"s Manual*,
 it operates as a revolving loan fund that channels community savings into local enterprise
 creation. Originally established in the Berkshire area of Massachusetts, USA, S.H.A.R.E.
 exemplifies the [[permaculture-principle-apply-self-regulation]] of keeping wealth circulating within a bioregion.

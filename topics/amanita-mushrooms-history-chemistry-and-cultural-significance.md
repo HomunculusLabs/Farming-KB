@@ -27,7 +27,7 @@ related_concepts:
 
 ## The Iconic Fly Agaric
 
-*Amanita muscaria*, the fly agaric, is arguably the most recognizable mushroom on Earth. Its bright scarlet cap dotted with white warts has become the universal symbol for all fungi, appearing everywhere from children's books to video games.
+*Amanita muscaria*, the fly agaric, is arguably the most recognizable mushroom on Earth. Its bright scarlet cap dotted with white warts has become the universal symbol for all fungi, appearing everywhere from children"s books to video games.
 
 Yet behind this familiar image lies one of the most culturally significant organisms in human history. The fly agaric sits at the intersection of mycology, ethnobotany, pharmacology, and religious studies.
 
@@ -101,7 +101,7 @@ The conversion of ibotenic acid to muscimol through decarboxylation is the bioch
 
 Drying or heating converts this compound to muscimol, which is both more psychoactive and less toxic. Siberian peoples always dried the mushroom before consumption — a practice with sound biochemical reasoning.
 
-Muscimol's action at the GABA-A receptor is the same mechanism targeted by benzodiazepine drugs such as diazepam (Valium) and alprazolam (Xanax). This explains the mushroom's consistently reported calming effects.
+Muscimol"s action at the GABA-A receptor is the same mechanism targeted by benzodiazepine drugs such as diazepam (Valium) and alprazolam (Xanax). This explains the mushroom's consistently reported calming effects.
 
 Cycloserine, an antimicrobial tuberculostatic agent, exhibits a similar carbon backbone to muscimol, suggesting broader pharmaceutical relevance for this compound class.
 
@@ -113,7 +113,7 @@ The two major chemicals in *A. muscaria* are closely related to known antibiotic
 
 The preparation of *Amanita muscaria* transforms it from a nausea-inducing mushroom into a safely psychoactive substance. The key transformation is decarboxylation — converting ibotenic acid to muscimol.
 
-Drying at low heat (100–120°F) until completely dry "radically changes the mushroom's chemistry," producing an aromatic, sweet-tasting form. Siberian peoples traditionally strung mushrooms on cords near a fire.
+Drying at low heat (100–120°F) until completely dry "radically changes the mushroom"s chemistry," producing an aromatic, sweet-tasting form. Siberian peoples traditionally strung mushrooms on cords near a fire.
 
 Boiling is another effective method, simmering the mushroom in water to extract compounds while facilitating decarboxylation. The dried mushroom stores indefinitely and reconstitutes when needed.
 

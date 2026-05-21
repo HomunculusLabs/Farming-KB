@@ -31,7 +31,7 @@ The bluing reaction results from enzymatic oxidation of psilocin (not psilocybin
 3. **Psilocin** is then oxidized by air (and accelerated by cytochrome oxidases and laccases in mushroom tissue)
 4. Oxidation produces **blue-colored chinone-like compounds** that are unstable
 
-This explains why some species with high psilocybin but low psilocin don't blue strongly — the enzymatic dephosphorylation step may be slow. Conversely, [[psilocybe-bohemica]] displays an exceptionally strong bluing reaction despite low psilocin levels, because the enzyme that removes the phosphate group acts very quickly in that species.
+This explains why some species with high psilocybin but low psilocin don"t blue strongly — the enzymatic dephosphorylation step may be slow. Conversely, [[psilocybe-bohemica]] displays an exceptionally strong bluing reaction despite low psilocin levels, because the enzyme that removes the phosphate group acts very quickly in that species.
 
 ## Species-Specific Bluing Patterns
 
@@ -65,7 +65,7 @@ Metol (p-methylaminophenol), a photographic developer, causes purple coloration 
 - Many other gilled mushrooms react to metol regardless of alkaloid content
 - The reaction was propagated as a field identification tool but is "all but useless" in practice
 
-## Melzer's Reagent: Also Non-Specific
+## Melzer"s Reagent: Also Non-Specific
 
 Melzer's Reagent (iodine-potassium iodide in chloral hydrate) was proposed for identifying Psilocybe species but proved equally worthless — it does not specifically indicate psilocybin presence.
 

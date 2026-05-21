@@ -26,7 +26,7 @@ The strain is renowned for its distinctive chocolate and coffee aroma profile, c
 
 Chocolope is approximately 95% sativa and 5% indica. The maternal line is Chocolate Thai, a pure Thai landrace known for its dark, resinous flowers and cocoa-like flavor. The paternal line is Cannalope Haze, contributing Haze genetics and a slightly shorter flowering time.
 
-Chocolate Thai itself was prized in the 1980s but had nearly disappeared from cultivation by the late 1990s due to its extremely long flowering period (14+ weeks) and low yield. Dutch Passion's [[oner-southeast-asian-sativa-heritage-thai-vietnamese-cambodian]] genetics.
+Chocolate Thai itself was prized in the 1980s but had nearly disappeared from cultivation by the late 1990s due to its extremely long flowering period (14+ weeks) and low yield. Dutch Passion"s [[oner-southeast-asian-sativa-heritage-thai-vietnamese-cambodian]] genetics.
 
 ## Aroma and Flavor
 

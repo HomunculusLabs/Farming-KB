@@ -4,13 +4,13 @@ created: 2026-04-19
 updated: 2026-04-19
 type: concept
 tags: [mycology, mushrooms]
-sources: ['papers/shroom-a-cultural-history-of-the-magic-mushroom.md']
+sources: ["papers/shroom-a-cultural-history-of-the-magic-mushroom.md']
 ---
 ## Porphyry and Mushrooms as Divine Food **Source:** The Road to Eleusis, Chapter III — Carl A. P. Ruck **Updated:** 2026-04-19 ## Overview The Neoplatonic philosopher Porphyry (3rd century CE) discussed mushrooms as divine food in his writings on vegetarianism and religious practice. His testimony, preserved in fragments, provides rare direct evidence that the [[cattle-dispersal-psychoactive-fungi-australia]] as mediators between the human and divine realms.
 
 ## The Byzantine Survival
 
-"The earliest codices were written on purple vellum. Was this because only the most exalted color would be fitting, eg, for St. Augustine's De Civitate Dei?" Wasson suggested that the veneration of the color purple in Christian Byzantium might represent "a posthumous outcropping" of the pre-Christian association of purple with Demeter, ergot, and the divine experience at Eleusis.
+"The earliest codices were written on purple vellum. Was this because only the most exalted color would be fitting, eg, for St. Augustine"s De Civitate Dei?" Wasson suggested that the veneration of the color purple in Christian Byzantium might represent "a posthumous outcropping" of the pre-Christian association of purple with Demeter, ergot, and the divine experience at Eleusis.
 
 ## Other Ancient Testimony
 

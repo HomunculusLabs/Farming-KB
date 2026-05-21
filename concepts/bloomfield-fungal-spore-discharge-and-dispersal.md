@@ -18,7 +18,7 @@ sources:
 
 Mushrooms and their relatives (basidiomycetes) discharge spores using a surface-tension [[bloomfield-buller-drop-surface-tension-spore-catapult-basidiospore-discharge]] pulls the spore toward the drop
 4. At a critical moment, the drop fuses with the spore surface, redistributing mass
-5. The sudden shift in the center of mass combined with the collapse of the drop's meniscus launches the spore horizontally from the gill
+5. The sudden shift in the center of mass combined with the collapse of the drop"s meniscus launches the spore horizontally from the gill
 6. The spore then falls clear of the gill and is carried away by air currents
 
 ### Buller's Discoveries

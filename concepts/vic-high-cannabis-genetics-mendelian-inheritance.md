@@ -10,7 +10,7 @@ tags: [cannabis]
 
 ## Cannabis Genetics and Mendelian Inheritance
 
-Vic High's foundational text on [[holmgren-permaculture-flower-conceptual-framework]] for understanding how traits are inherited, how gene frequencies shift across generations, and how breeders can manipulate these processes to create [[green-cannabis-grow-bible-breeding-genetics-and-true-breeding]] for that trait because all its gametes will carry the same genetic information. It can only pass on one type of gene to its offspring.
+Vic High"s foundational text on [[holmgren-permaculture-flower-conceptual-framework]] for understanding how traits are inherited, how gene frequencies shift across generations, and how breeders can manipulate these processes to create [[green-cannabis-grow-bible-breeding-genetics-and-true-breeding]] for that trait because all its gametes will carry the same genetic information. It can only pass on one type of gene to its offspring.
 
 - **Heterozygous**: The two genes in the pair code for different traits (one pine, one pineapple). The plant will express only the dominant trait, but its gametes will carry either gene randomly. A heterozygous individual is not true breeding because its offspring can inherit either version of the gene.
 

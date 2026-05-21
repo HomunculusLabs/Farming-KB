@@ -16,7 +16,7 @@ The fundamental principle is that water used for one purpose (hand-washing, bath
 
 ## Handbasin-to-Toilet Diversion
 
-One of the simplest and most effective [[water-conservation]] measures is diverting handbasin outflow into the toilet flush tank. In Australia, toilets moulded with integrated handbasins are commercially available (referenced in Mollison's Figure 7.31). The principle is straightforward: the water used for washing hands is about equal in volume to that needed for flushing, so no additional clean water is consumed for toilet flushing.
+One of the simplest and most effective [[water-conservation]] measures is diverting handbasin outflow into the toilet flush tank. In Australia, toilets moulded with integrated handbasins are commercially available (referenced in Mollison"s Figure 7.31). The principle is straightforward: the water used for washing hands is about equal in volume to that needed for flushing, so no additional clean water is consumed for toilet flushing.
 
 The holding tank can contain several flushes' worth of water, with any excess draining to the toilet. It is essential to pair this system with low-flush toilet bowls, as conventional bowls flush incompletely with reduced water volumes, leading to the buildup of heavy pathogenic bacteria populations. When standard toilet bowls receive insufficient water, the reduced flow fails to clear the bowl completely, creating stagnant residues that harbour and concentrate pathogenic organisms — the opposite of the intended cleanliness.
 
@@ -89,7 +89,7 @@ In arid or environmentally delicate areas, additional measures may be necessary:
 
 ## The Core Philosophy: Water Safe for All Life
 
-Mollison stresses a fundamental principle: the only water safe for humans is also safe for other living things. For millennia, humans existed on water supplies containing healthy plants and fish. The modern approach of adding 30-40 chemical treatments to water supplies represents what Mollison calls "the end point of the technological fix: pollution is 'fixed' by further pollution." True water management is not about treatment but about prevention — preventing polluting activities at source and designing systems where water quality degrades gracefully through cascading productive uses.
+Mollison stresses a fundamental principle: the only water safe for humans is also safe for other living things. For millennia, humans existed on water supplies containing healthy plants and fish. The modern approach of adding 30-40 chemical treatments to water supplies represents what Mollison calls "the end point of the technological fix: pollution is "fixed' by further pollution." True water management is not about treatment but about prevention — preventing polluting activities at source and designing systems where water quality degrades gracefully through cascading productive uses.
 
 ## Common Contaminants in Drinking Water
 

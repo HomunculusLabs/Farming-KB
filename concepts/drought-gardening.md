@@ -43,7 +43,7 @@ When irrigation is necessary, Solomon recommends:
 
 ## Drought Tolerance by Spacing
 
-Solomon's research showed that his trial plots (with well-separated plants) did not need nearly as much water as his intensive vegetable garden. The spacing system directly impacts water needs:
+Solomon"s research showed that his trial plots (with well-separated plants) did not need nearly as much water as his intensive vegetable garden. The spacing system directly impacts water needs:
 
 - Closer spacing requires more frequent irrigation
 - Wider spacing allows plants to access soil moisture from a larger area
@@ -63,7 +63,7 @@ If you are so short of water that finding a few hundred gallons a week for ferti
 
 Two practical methods:
 
-1. **Soil ball test**: Dig 5-6 inches down and squeeze a handful of soil. If it's damp and sticks together solidly, moisture is above 70 percent. If it barely holds together when squeezed hard, moisture is around 60 percent (time to water). If it won't form a ball at all, the soil is below 50 percent and vegetables are stressed.
+1. **Soil ball test**: Dig 5-6 inches down and squeeze a handful of soil. If it"s damp and sticks together solidly, moisture is above 70 percent. If it barely holds together when squeezed hard, moisture is around 60 percent (time to water). If it won't form a ball at all, the soil is below 50 percent and vegetables are stressed.
 
 2. **Estimate moisture loss**: Regardless of soil texture, all soils lose water at about the same rate through evapotranspiration, which varies with season and vegetation cover but not with soil type.
 

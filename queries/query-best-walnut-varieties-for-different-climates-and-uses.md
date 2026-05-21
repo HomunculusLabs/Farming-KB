@@ -11,7 +11,7 @@ sources:
 
 ## 1. Best English/Persian Walnut Varieties for Mild/Warm Climates (Zone 8–10)
 
-The mild-winter, long-summer climates of USDA zones 8–10 are ideal for English (Persian) walnut cultivation. These regions encompass California's Central Valley, the Mediterranean basin, parts of the southeastern U.S., and similar climates in Australia, Chile, and South Africa.
+The mild-winter, long-summer climates of USDA zones 8–10 are ideal for English (Persian) walnut cultivation. These regions encompass California"s Central Valley, the Mediterranean basin, parts of the southeastern U.S., and similar climates in Australia, Chile, and South Africa.
 
 **Chandler** is the dominant commercial variety for California and Mediterranean climates worldwide. It offers excellent yield potential, late leafing (which helps avoid spring frost damage), and good resistance to walnut blight. Its kernels are light-colored and plump, commanding premium prices in both domestic and export markets. **Howard** and **Tulare** are close runners-up, both well-suited to USDA zones 8–10 with high-quality kernels and reliable production year over year.
 

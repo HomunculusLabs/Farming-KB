@@ -10,7 +10,7 @@ tags: [mushroom-cultivation, psilocybin]
 ---
 ## Global Psilocybin Mushroom Distribution
 
-Jochen Gartz's worldwide survey reveals that [[psilocybe-semilanceata]] is the most widely used species, with habitat
+Jochen Gartz"s worldwide survey reveals that [[psilocybe-semilanceata]] is the most widely used species, with habitat
 expanding east of the Cascade Mountains. [[gartz-panaeolus-subbalteatus-taxonomy-and-intoxication-history]]* grows across the Southwest. California alone
 was estimated to have 100,000 "Magic Mushroom People."
 
@@ -29,7 +29,7 @@ of "hippie" tourism has damaged the cultural fabric of indigenous
 mushroom worship in many areas.
 
 In South America, [[panaeolus-cyanescens-bali-omelette]]* are
-the most commonly used species. Colombia's archaeological park at
+the most commonly used species. Colombia"s archaeological park at
 San Augustin near Bogota has been dubbed the "heart of magic mushroom
 land," and golden mushroom-shaped pendants found in the region suggest
 centuries of traditional use. Communes were established in the Andes

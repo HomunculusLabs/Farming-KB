@@ -17,7 +17,7 @@ type: concept
 
 As cannabis growers experiment with soil types and mixing, many begin
 exploring alternative growing mediums such as rockwool or clay pebbles.
-These are mostly artificial grow mediums designed to contain the plant's
+These are mostly artificial grow mediums designed to contain the plant"s
 mineral needs while allowing air to reach the roots to promote good
 growth. Greg Green's "The Cannabis Grow Bible" covers rockwool and other
 hydroponic media as the foundation of soilless cultivation systems.

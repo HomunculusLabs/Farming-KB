@@ -8,7 +8,7 @@ type: entity
 
 ## Description
 
-Thor Heyerdahl (1914-2002) was a Norwegian ethnographer and adventurer best known for his Kon-Tiki and Ra Expeditions. Coleman uses Heyerdahl's Ra Expeditions as a metaphor for organic farming: just as Heyerdahl's team failed by omitting a single seemingly unnecessary rope depicted in ancient Egyptian frescoes, chemical agriculture fails by omitting the "rope" of soil organic matter that traditional farming systems always included.
+Thor Heyerdahl (1914-2002) was a Norwegian ethnographer and adventurer best known for his Kon-Tiki and Ra Expeditions. Coleman uses Heyerdahl"s Ra Expeditions as a metaphor for organic farming: just as Heyerdahl's team failed by omitting a single seemingly unnecessary rope depicted in ancient Egyptian frescoes, chemical agriculture fails by omitting the "rope" of soil organic matter that traditional farming systems always included.
 
 ## Classification
 
@@ -26,7 +26,7 @@ Thor Heyerdahl (1914-2002) was a Norwegian ethnographer and adventurer best know
 
 ## Relevance to Cultivation
 
-Coleman draws a direct parallel between the omitted rope and the omission of soil organic matter in chemical agriculture. Just as Heyerdahl's team dismissed traditional knowledge encoded in ancient art -- leading to catastrophic failure -- modern agriculture dismissed centuries of [[composting]], green manuring, and crop rotation wisdom, leading to soil degradation and nutritional decline. The lesson for cultivators: respect traditional knowledge systems and understand their functional purpose before discarding them in favor of reductionist approaches.
+Coleman draws a direct parallel between the omitted rope and the omission of soil organic matter in chemical agriculture. Just as Heyerdahl"s team dismissed traditional knowledge encoded in ancient art -- leading to catastrophic failure -- modern agriculture dismissed centuries of [[composting]], green manuring, and crop rotation wisdom, leading to soil degradation and nutritional decline. The lesson for cultivators: respect traditional knowledge systems and understand their functional purpose before discarding them in favor of reductionist approaches.
 
 ## Source Context
 

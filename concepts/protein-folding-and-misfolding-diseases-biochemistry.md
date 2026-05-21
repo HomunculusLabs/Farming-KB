@@ -17,7 +17,7 @@ Proteins adopt a four-level structural hierarchy that determines their biologica
 - **Tertiary structure**: The full three-dimensional arrangement of a single polypeptide chain, stabilized by hydrophobic collapse, disulfide bonds, hydrogen bonds, ionic interactions, and van der Waals forces. The hydrophobic effect is the dominant driving force.
 - **Quaternary structure**: The spatial arrangement of multiple polypeptide subunits (e.g., hemoglobin alpha2-beta2, immunoglobulins). Subunit interfaces rely on complementary surface chemistry and can exhibit cooperativity.
 
-## Anfinsen's Dogma and the Thermodynamic Hypothesis
+## Anfinsen"s Dogma and the Thermodynamic Hypothesis
 
 Christian Anfinsen's experiments with ribonuclease A (1972 Nobel Prize) demonstrated that the native structure of a protein is determined solely by its amino acid sequence under physiological conditions — the thermodynamic hypothesis. Denatured RNase A spontaneously refolded to full enzymatic activity, proving the native conformation is the global free-energy minimum. This principle underpins the "one sequence, one structure" paradigm, though exceptions exist for intrinsically disordered proteins (IDPs), kinetic traps, and proteins requiring co-translational or chaperone-assisted folding.
 

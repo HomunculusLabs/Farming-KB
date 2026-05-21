@@ -20,7 +20,7 @@ encompassing [[coprophilous-habitat-negative-geotropism-spore-dispersal-adaptati
   diageotropism.
 
 - **Phototropism (Heliotropism):** Leaves and stems orient toward light
-  sources, driven by differential [[jagadis-chandra-bose-plant-research]]'s most celebrated invention was the
+  sources, driven by differential [[jagadis-chandra-bose-plant-research]]"s most celebrated invention was the
 crescograph, unveiled at a meeting sponsored by the governor of Bengal
 after eight years of development. Through the use of two levers, this
 instrument produced a ten-thousand-fold magnification of movement, far
@@ -43,8 +43,8 @@ could detect growth rate variations as minimal as 1/1500 millionths of
 an inch per second.
 
 Scientific American, commenting on the agricultural significance of
-Bose's findings, wrote: "What is the tale of Aladdin and his wonderful
-lamp compared to the possibilities of Dr. Bose's Crescograph? In less
+Bose"s findings, wrote: "What is the tale of Aladdin and his wonderful
+lamp compared to the possibilities of Dr. Bose"s Crescograph? In less
 than a quarter of an hour the action of fertilizers, food, electric
 currents and various stimulants can be fully determined."
 

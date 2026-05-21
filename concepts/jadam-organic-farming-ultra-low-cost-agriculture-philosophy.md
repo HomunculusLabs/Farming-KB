@@ -14,7 +14,7 @@ JADAM (Jayondul Agri-Method) is a Korean organic farming system developed by You
 
 ### Background
 
-Youngsang Cho (born 1965) graduated from Aju University in chemistry and completed a master's degree in horticulture at Chungnam University. After military service with the 706 Special Forces, he began [[eliot-coleman-deep-organic-farming-and-winter-harvest]] raising animals in 1991 in Asan, Chungnam province.
+Youngsang Cho (born 1965) graduated from Aju University in chemistry and completed a master"s degree in horticulture at Chungnam University. After military service with the 706 Special Forces, he began [[eliot-coleman-deep-organic-farming-and-winter-harvest]] raising animals in 1991 in Asan, Chungnam province.
 
 ### System Development
 
@@ -26,13 +26,13 @@ He established "[[jadam-organic-farming]]" and the "[[jadam-natural-pesticide-in
 
 "JADAM has been at the forefront to reverse the tide of our times, where farming is being taken over by the input manufacturers and their agents. We want to bring farming back to the farmers."
 
-JADAM's central critique is that modern agriculture has been captured by input manufacturers—companies that sell fertilizers, pesticides, seeds, and other products that farmers could produce themselves. The result is a farming system that serves the interests of manufacturers rather than farmers.
+JADAM"s central critique is that modern agriculture has been captured by input manufacturers—companies that sell fertilizers, pesticides, seeds, and other products that farmers could produce themselves. The result is a farming system that serves the interests of manufacturers rather than farmers.
 
 ### Not More Expensive but Cheaper
 
 "People might think this is a romantic dream of idealists. But the big secret is that this path is not more expensive, difficult or impossible but actually cheaper, easier and more effective than conventional agriculture."
 
-This claim is JADAM's most radical proposition: that organic farming is not a premium, higher-cost alternative to conventional agriculture but a genuinely lower-cost system. The savings come from eliminating purchased inputs entirely.
+This claim is JADAM"s most radical proposition: that organic farming is not a premium, higher-cost alternative to conventional agriculture but a genuinely lower-cost system. The savings come from eliminating purchased inputs entirely.
 
 ### The Three Benefits
 
@@ -74,7 +74,7 @@ JADAM is not limited to small-scale or subsistence farming. The system is design
 
 ### Proven by Thousands of Farms
 
-"JADAM system has been proven by thousands of farms across the country. If it didn't work, JADAM would have perished but instead JADAM has thrived for nearly thirty years."
+"JADAM system has been proven by thousands of farms across the country. If it didn"t work, JADAM would have perished but instead JADAM has thrived for nearly thirty years."
 
 ## The Problem with High-Cost Organic
 
@@ -90,17 +90,17 @@ The fundamental problem is structural: whether inputs are chemical or organic, t
 
 ## Historical Context
 
-### Korea's Agricultural Transformation
+### Korea"s Agricultural Transformation
 
-The foreword by Hankyu Cho describes how "Chemical agriculture introduced half a century ago devastated Korea's traditional method of farming. Chemical pesticides and fertilizers began to contaminate our beautiful land and waters."
+The foreword by Hankyu Cho describes how "Chemical agriculture introduced half a century ago devastated Korea"s traditional method of farming. Chemical pesticides and fertilizers began to contaminate our beautiful land and waters."
 
 ### The Factory Farming Parallel
 
-"Factory farming of animals that was introduced as the 'modern' took away animals from the bosoms of the farmers and threw them into hellish living conditions." The parallel between plant and animal agriculture is explicit: both have been captured by industrial systems that prioritize profit over welfare.
+"Factory farming of animals that was introduced as the "modern' took away animals from the bosoms of the farmers and threw them into hellish living conditions." The parallel between plant and animal agriculture is explicit: both have been captured by industrial systems that prioritize profit over welfare.
 
 ### Traditional Self-Sufficiency
 
-"Traditionally, all farming households had cows, pigs or chickens where the feed was completely self-sufficient. Animals were treated as farmers' friends and family." JADAM seeks to restore this self-sufficiency—not as nostalgia but as a more efficient and resilient production system.
+"Traditionally, all farming households had cows, pigs or chickens where the feed was completely self-sufficient. Animals were treated as farmers" friends and family." JADAM seeks to restore this self-sufficiency—not as nostalgia but as a more efficient and resilient production system.
 
 ## See Also
 

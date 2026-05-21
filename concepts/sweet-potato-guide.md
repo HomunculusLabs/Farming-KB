@@ -23,7 +23,7 @@ Sweet potatoes ([[ipomoea-batatas]]) are a warm-climate perennial grown as an an
 | Flesh Color | Flavor Profile | Varieties |
 |-------------|---------------|-----------|
 | Orange | Sweet, moist, classic "yam" flavor | Beauregard, Covington, Jewel, Georgia Jet |
-| White | Drier, milder, chestnut-like | O'Henry, Nancy Hall, Hayman |
+| White | Drier, milder, chestnut-like | O"Henry, Nancy Hall, Hayman |
 | Purple | Dense, mildly sweet, antioxidant-rich | Stokes Purple, Okinawan, Purple Passion |
 | Red | Sweet, rich, moist | Centennial, Red Jewel |
 

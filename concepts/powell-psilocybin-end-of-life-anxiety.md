@@ -12,7 +12,7 @@ updated: 2026-04-26
 ## Psilocybin and End-of-Life Anxiety
 
 While *The [[cannabis-and-anxiety-research]]
-(which accelerated after the book's publication), Powell extensively addresses the existential
+(which accelerated after the book"s publication), Powell extensively addresses the existential
 dimensions of death, mortality, and the transcendental perspective that psilocybin can provide —
 themes directly relevant to understanding why psilocybin has shown promise in alleviating
 death-related anxiety.
@@ -34,13 +34,13 @@ main thing about it was a sense of timelessness."
 
 This sense of timelessness and connection to something vast is precisely the kind of mystical
 experience that modern [[hofmann-lsd-clinical-research-early-studies]] has identified as the key mediator of reduced death
-anxiety in terminal patients. The experience shifts one's relationship from "I am a body that
+anxiety in terminal patients. The experience shifts one"s relationship from "I am a body that
 will die" to "I am part of an eternal process." The temporal boundaries that define mortality
 become permeable or dissolve entirely.
 
 ## The Transcendental Other and Cosmic Perspective
 
-Powell's central thesis about the "transcendental Other" — the felt presence of an intelligent,
+Powell"s central thesis about the "transcendental Other" — the felt presence of an intelligent,
 communicating entity encountered during the psilocybin state — bears directly on end-of-life
 concerns. When individuals experience what Reverend K.B. described as "a completely unquestioned
 certainty that there is an environment bigger than I am conscious of," the existential ground
@@ -50,7 +50,7 @@ from a theoretical proposition to an experiential one."
 Powell argues that these are not mere fantasies but represent access to deep realms of the
 psyche that reveal hitherto unknown creative potential. Even the most sceptical must concede
 that psilocybin taps deep realms of the unconscious or imagination that reveal extraordinary
-creative capacity — and that this capacity includes the ability to reconceive one's relationship
+creative capacity — and that this capacity includes the ability to reconceive one"s relationship
 to death and finitude.
 
 ## The Visionary State Beyond Mortality

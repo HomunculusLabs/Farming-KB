@@ -6,7 +6,7 @@ type: concept
 
 ## Fukuoka Mu Economics and Natural Economy
 
-[[masanobu-fukuoka]]'s concept of **Mu economics** is a radical reconception of economic life rooted in the philosophy [[query-how-do-clay-seed-balls-work-for-natural-farming]] to be understood on its own terms:
+[[masanobu-fukuoka]]"s concept of **Mu economics** is a radical reconception of economic life rooted in the philosophy [[query-how-do-clay-seed-balls-work-for-natural-farming]] to be understood on its own terms:
 
 > "For this to happen, it is necessary that a new system of economics founded on Mu be developed."
 
@@ -24,7 +24,7 @@ By "Mu government," Fukuoka envisions governance that does not interfere with na
 
 ## Prices Do Not Exist in Nature
 
-Central to Fukuoka's economic thought is the observation that prices are a human invention with no basis in the natural world. The natural farmer, working without purchased inputs and without calculating the value of his own labor, operates outside the price system entirely:
+Central to Fukuoka"s economic thought is the observation that prices are a human invention with no basis in the natural world. The natural farmer, working without purchased inputs and without calculating the value of his own labor, operates outside the price system entirely:
 
 > "When I say that crops do not need to be priced, I mean that whether they have prices or not make no difference to the farmer who dedicates himself [[cannabis-chemical-fertilizers]], pesticides, or herbicides. He does not purchase machinery or fuel. He does not hire labor at market rates. His household labor is part of his way of life, not a cost to be reckoned:
 
@@ -36,11 +36,11 @@ If this principle were adopted universally, the consequences would be transforma
 
 Without production costs to justify differential pricing, without artificial scarcity created by market manipulation, food would lose its character as a traded commodity. It would become what it has always been in essence — a gift of the earth, shared freely among those who cultivate it and those who eat it.
 
-Fukuoka's language on this point is uncompromising:
+Fukuoka"s language on this point is uncompromising:
 
 > "Prices are a man-made device; they do not exist in nature. Nature was free, non-discriminating, and fair to begin with. Nothing has less to do with the crops of nature than money."
 
-The introduction of money into the relationship between humans and their food is, in Fukuoka's view, a corruption. It transforms sustenance into speculation, turns the farmer into a businessman, and reduces the consumer to a market participant.
+The introduction of money into the relationship between humans and their food is, in Fukuoka"s view, a corruption. It transforms sustenance into speculation, turns the farmer into a businessman, and reduces the consumer to a market participant.
 
 ## Critique of Global Food Trade
 
@@ -48,11 +48,11 @@ Fukuoka's economic vision leads directly to a sharp critique of the global food 
 
 The price differentials between nations are, in Fukuoka's view, artifacts of the monetary economy with no relationship to the actual value of the food:
 
-> "The price of Japanese rice, the price of Thai rice, and the farmer's price for rice should all be the same."
+> "The price of Japanese rice, the price of Thai rice, and the farmer"s price for rice should all be the same."
 
 Rice is rice. Its value as food does not change with the flag under which it is grown. The price differences that drive international trade — created by subsidies, tariffs, labor costs, currency fluctuations, and speculative markets — are distortions imposed upon a reality that knows no such distinctions.
 
-The global food trade also imposes aesthetic and [[aact-compost-quality-standards-ingham]] that are fundamentally at odds with nature's diversity:
+The global food trade also imposes aesthetic and [[aact-compost-quality-standards-ingham]] that are fundamentally at odds with nature"s diversity:
 
 > "No one should find fault with the shape of a cucumber or the size of a fruit. Bitter cucumbers and sour fruit too each have their proper worth."
 
@@ -68,7 +68,7 @@ His prescription was simple and radical:
 
 > "People of each land need only eat food grown close at hand and be contented."
 
-Local food systems, in Fukuoka's view, are not a lifestyle choice or an environmental preference — they are the [[fukuoka-natural-order-microbes-scavengers-man-heretic]]. The global food trade is a symptom of a deeper disorder:
+Local food systems, in Fukuoka"s view, are not a lifestyle choice or an environmental preference — they are the [[fukuoka-natural-order-microbes-scavengers-man-heretic]]. The global food trade is a symptom of a deeper disorder:
 
 > "What has occurred is that a money-crazed economy has bred senseless competition in food production and thrown dietary habits into chaos."
 
@@ -80,7 +80,7 @@ Fukuoka was not proposing the total abolition of all exchange. He recognized tha
 
 > "In a nation where everyone tends small farms, circumstances might require that there be some consignment farming, sharecropping on a contractual basis, mutually cooperative cultivation, and even some trading of farm goods grown by natural farming, although this would be limited to the occasional exchange of surplus products on a small scale in open-air markets."
 
-The key elements of this vision are instructive. Exchange is limited to *surplus* — what remains after the farmer's own needs are met. It is *small-scale* — not the movement of container ships across oceans but the meeting of neighbors in a marketplace. It is *occasional* — a supplement to self-sufficiency, not its replacement. And it takes place in *open-air markets* — direct, personal, transparent, without intermediaries.
+The key elements of this vision are instructive. Exchange is limited to *surplus* — what remains after the farmer"s own needs are met. It is *small-scale* — not the movement of container ships across oceans but the meeting of neighbors in a marketplace. It is *occasional* — a supplement to self-sufficiency, not its replacement. And it takes place in *open-air markets* — direct, personal, transparent, without intermediaries.
 
 This is an economy of proximity and relationship, not distance and abstraction. The farmer knows the people who eat his food. The eater knows the farmer who grows it. Value is negotiated face to face, in the context of mutual need and mutual respect.
 
@@ -104,7 +104,7 @@ Every one of these measures operates within the monetary economy that created th
 
 The real solution lies not in policy but in consciousness:
 
-> "Everything depends on whether people are able to return to the viewpoint that 'all is unnecessary,' that one must 'act without acting.'"
+> "Everything depends on whether people are able to return to the viewpoint that "all is unnecessary,' that one must 'act without acting.'"
 
 This is the Daoist concept of *wu wei* — action without striving, effort without contrivance — which Fukuoka found deeply compatible with his own understanding of Mu. The farmer who acts without acting does not impose his will upon the land; he cooperates with its processes, and in doing so, achieves results that the striving farmer cannot match.
 
@@ -116,7 +116,7 @@ The difficulty is not logistical but spiritual. It requires letting go of deeply
 
 ## The Vision
 
-Despite the severity of his critique, Fukuoka's vision is ultimately hopeful. He did not believe that restoring a natural economy required vast social upheaval or the abandonment of modern life. It required only a change of heart:
+Despite the severity of his critique, Fukuoka"s vision is ultimately hopeful. He did not believe that restoring a natural economy required vast social upheaval or the abandonment of modern life. It required only a change of heart:
 
 > "If people have a change of heart, they will not need vast green fields to achieve this rebirth; it will be enough for them to work small fields."
 

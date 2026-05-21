@@ -29,7 +29,7 @@ that the magic mushroom trade was born.
 
 ## Opening of the First Smart Shop
 
-A young man named Dirk van den Huerk opened Holland's very first smart shop,
+A young man named Dirk van den Huerk opened Holland"s very first smart shop,
 called Dreams, in Amsterdam in 1993. A disillusioned IT worker, drugs
 charity worker, and Rave enthusiast, van den Huerk envisioned a shop that
 would sell a mixture of vitamins and minerals along with legal synthetic

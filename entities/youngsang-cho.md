@@ -16,7 +16,7 @@ Youngsang Cho (born 1965) is a South Korean farmer and the founder of JADAM (Jay
 
 - Born 1965 in Hwaseong, Gyeonggi province, Korea
 - Graduated from Suwon Highschool and Aju University (chemistry)
-- Completed master's degree in horticulture at Chungnam University
+- Completed master"s degree in horticulture at Chungnam University
 - Completed military service at the 706 Special Forces
 - Started organic farming and raised animals himself from 1991 in Asan, Chungnam province
 - Established "JADAM Organic Farming" and began promoting through books and website (www.jadam.kr)

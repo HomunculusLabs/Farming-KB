@@ -83,7 +83,7 @@ Rotation is the most important long-term strategy. The key is to rotate between 
 
 Certain [[cover-crops]] suppress nematode populations through natural chemical compounds or by acting as poor hosts that stimulate nematode eggs to hatch without providing food.
 
-- **French marigolds (Tagetes patula)**: Release alpha-terthienyl from their roots, which is toxic to root-knot nematodes. Plant densely as a [[cover-crop]] for one full growing season. Varieties with the highest nematicidal effect: 'Nemagone', 'Petite Harmony', 'Tangerine'. See details below.
+- **French marigolds (Tagetes patula)**: Release alpha-terthienyl from their roots, which is toxic to root-knot nematodes. Plant densely as a [[cover-crop]] for one full growing season. Varieties with the highest nematicidal effect: "Nemagone', 'Petite Harmony', 'Tangerine'. See details below.
 - **Cereal rye**: Poor host for root-knot nematodes. The rye residues contain allelopathic compounds that suppress nematode populations after incorporation.
 - **Sorghum-sudangrass**: Roots release a natural nematicide (sorgoleone). Incorporate the [[green-manure]] at peak growth for maximum effect.
 - **Mustard**: Biofumigant glucosinolates suppress nematodes. See [[green-manure-crops]] for biofumigation protocol.

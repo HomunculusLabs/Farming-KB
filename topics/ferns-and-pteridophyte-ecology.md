@@ -33,7 +33,7 @@ The Carboniferous period (359–299 Ma) was the golden age of ferns and fern-lik
 
 ### Mesozoic Radiation and the Rise of Angiosperms
 
-During the Mesozoic era, ferns underwent massive diversification. The Osmundales (royal ferns) appeared in the Permian and survive today as a relict order with only a handful of genera. The breakup of Pangaea during the Jurassic and Cretaceous created new ecological niches that ferns colonized aggressively. When flowering plants began their explosive radiation in the mid-Cretaceous (~100 Ma), many fern lineages diversified in response — some as understory specialists beneath angiosperm canopies, others as epiphytes in the increasingly complex tropical forests. Today's dominant fern order, Polypodiales, radiated primarily during the Cretaceous and now accounts for over 80% of all living fern species.
+During the Mesozoic era, ferns underwent massive diversification. The Osmundales (royal ferns) appeared in the Permian and survive today as a relict order with only a handful of genera. The breakup of Pangaea during the Jurassic and Cretaceous created new ecological niches that ferns colonized aggressively. When flowering plants began their explosive radiation in the mid-Cretaceous (~100 Ma), many fern lineages diversified in response — some as understory specialists beneath angiosperm canopies, others as epiphytes in the increasingly complex tropical forests. Today"s dominant fern order, Polypodiales, radiated primarily during the Cretaceous and now accounts for over 80% of all living fern species.
 
 ## Fern Biology and Morphology
 

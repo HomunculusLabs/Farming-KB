@@ -30,9 +30,9 @@ Modern molecular taxonomy has placed this species in the Boletus edulis species 
 - The flesh is white, firm, and does not change color when cut or bruised.
 - It is mycorrhizal with deciduous trees, particularly oaks (Quercus) and beech (Fagus), fruiting from early summer through autumn.
 
-## Palmer's Account
+## Palmer"s Account
 
-Julius A. Palmer recorded a notable encounter with B. aestivalis in his 1877 writings. He described finding "a large number of a most delicious species of boletus (Boletus aestivalis) impregnated so strongly with the odor of decayed fish as to be unfit for food." This observation illustrated Palmer's broader point that even choice edible species can become unpalatable or potentially harmful when contaminated by their [[cannabis-growing-environment-setup]].
+Julius A. Palmer recorded a notable encounter with B. aestivalis in his 1877 writings. He described finding "a large number of a most delicious species of boletus (Boletus aestivalis) impregnated so strongly with the odor of decayed fish as to be unfit for food." This observation illustrated Palmer"s broader point that even choice edible species can become unpalatable or potentially harmful when contaminated by their [[cannabis-growing-environment-setup]].
 
 Palmer used this example alongside others — such as the maned mushroom ([[coprinus-comatus]]) losing flavor when grown on dust-heaps — to demonstrate that the quality and safety of any mushroom depends on its growing conditions as much as its species identity.
 

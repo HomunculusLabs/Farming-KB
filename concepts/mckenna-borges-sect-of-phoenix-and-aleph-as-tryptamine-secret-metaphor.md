@@ -1,5 +1,5 @@
 ---
-title: Borges' Sect of the Phoenix and the Aleph as Tryptamine Secret Metaphors
+title: Borges" Sect of the Phoenix and the Aleph as Tryptamine Secret Metaphors
 source: mckenna_t-tryptamines_consciousness.md
 topic: literary analysis, entheogenic philosophy, Borges
 tags:
@@ -25,15 +25,15 @@ tags:
 
 [[mckenna-tryptamine-hallucinogens-and-consciousness]] and Consciousness," using the stories to frame what he calls the "black hole effect" that surrounds DMT — a phenomenon whereby the more precisely one tries to articulate the experience, the less others are able to understand.
 
-Borges' stories function as what McKenna might call "[[entheogenic-knowledge-secret-societies]]: it is everywhere, it is ancient, it is transmitted only through direct participation, and it is perpetually endangered by those who do not possess it. The Aleph describes the phenomenological topology of the DMT state: a singularity of information in which all perspectives, all moments, and all realities are simultaneously present. Taken together, they provide what may be the most precise literary map of the tryptamine territory ever constructed by a writer who may never have encountered the substances themselves.
+Borges" stories function as what McKenna might call "[[entheogenic-knowledge-secret-societies]]: it is everywhere, it is ancient, it is transmitted only through direct participation, and it is perpetually endangered by those who do not possess it. The Aleph describes the phenomenological topology of the DMT state: a singularity of information in which all perspectives, all moments, and all realities are simultaneously present. Taken together, they provide what may be the most precise literary map of the tryptamine territory ever constructed by a writer who may never have encountered the substances themselves.
 
 ## The Sect of the Phoenix
 
-Borges' "The Sect of the Phoenix" describes a secret society that exists within every human group, across all cultures and [[fukuoka-nature-god-limits-of-knowledge]]. Borges was familiar with the Kabbalah, with the writings of Arthur Schopenhauer, and with the tradition of esoteric knowledge that includes the [[mckenna-primal-ursprache-kabbalistic-zohar-and-white-goddess-glossolalia]].
+Borges" "The Sect of the Phoenix" describes a secret society that exists within every human group, across all cultures and [[fukuoka-nature-god-limits-of-knowledge]]. Borges was familiar with the Kabbalah, with the writings of Arthur Schopenhauer, and with the tradition of esoteric knowledge that includes the [[mckenna-primal-ursprache-kabbalistic-zohar-and-white-goddess-glossolalia]].
 
-Borges' description of the Aleph experience bears striking resemblance to accounts of the DMT flash. The narrator reports seeing simultaneous, overlapping realities: "I saw the teeming sea; I saw daybreak and nighttime; I saw the multitudes of America; I saw a silvery cobweb in the center of a black pyramid." This cascading, layering quality of vision — the simultaneous perception of incommensurable scales and perspectives — mirrors McKenna's description of DMT hallucinations as "information being presented three-dimensionally and deployed fourth-dimensionally, coded as light and as evolving surfaces." Both the Aleph and the DMT state impose an impossible cognitive load: the witness is overwhelmed by totality and can retain only fragments of what was perceived.
+Borges" description of the Aleph experience bears striking resemblance to accounts of the DMT flash. The narrator reports seeing simultaneous, overlapping realities: "I saw the teeming sea; I saw daybreak and nighttime; I saw the multitudes of America; I saw a silvery cobweb in the center of a black pyramid." This cascading, layering quality of vision — the simultaneous perception of incommensurable scales and perspectives — mirrors McKenna"s description of DMT hallucinations as "information being presented three-dimensionally and deployed fourth-dimensionally, coded as light and as evolving surfaces." Both the Aleph and the DMT state impose an impossible cognitive load: the witness is overwhelmed by totality and can retain only fragments of what was perceived.
 
-## McKenna's Synthesis
+## McKenna"s Synthesis
 
 McKenna reads these two stories together as a unified metaphor for the tryptamine experience. The connection works on multiple levels. The literary structure of both stories — their brevity, their withholding of definitive answers, their circling around an unnamed central reality — mirrors the epistemological structure of the DMT experience itself. Just as Borges' narrator cannot fully describe either the Secret or the Aleph, the tryptamine voyager cannot fully communicate what they have encountered. The parallel is not merely analogical; McKenna suggests it may be structural, reflecting something fundamental about the relationship between language, consciousness, and the reality that the tryptamines reveal.
 
@@ -45,7 +45,7 @@ The Secret of the Phoenix is the experience of entering hyperspace through trypt
 - **Trivial in execution**: Smoking DMT or eating mushrooms requires no elaborate technology — the act itself is simple and momentary, requiring no description once performed
 - **Impossible to communicate**: Like the Secret, the experience resists language; the more one tries to describe it, the less comprehensible it becomes to the uninitiated. McKenna calls this the [[dmt-machine-elves]]"
 - **Furtive and clandestine**: Because of legal prohibition and social stigma, the practice is necessarily hidden, conducted in private spaces with trusted companions
-- **Transmitted personally**: Knowledge of the experience passes only through direct participation, never through secondhand description, mirroring the sect's oral transmission of the Secret
+- **Transmitted personally**: Knowledge of the experience passes only through direct participation, never through secondhand description, mirroring the sect"s oral transmission of the Secret
 
 ### The Aleph as Hyperspace
 

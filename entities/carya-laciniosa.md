@@ -2,7 +2,7 @@
 title: "Carya Laciniosa"
 type: entity
 tags: []
-sources: ['raw/papers/working-with-agar.md']
+sources: ["raw/papers/working-with-agar.md']
 ---
 
 The specific gravity of shellbark hickory wood ranges from 0.60–0.72, with an average Janka hardness of approximately 1450 pounds-force. These values place it among the top tier of North American woods for applications requiring resistance to impact and abrasion.

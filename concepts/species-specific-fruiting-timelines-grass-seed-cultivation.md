@@ -26,7 +26,7 @@ Based on the grass seed cultivation guide, pinhead (primordia) appearance ranges
 | Maturation to harvest | 5–7 days | From pinhead to harvestable mushroom |
 | **Total (inoculation to harvest)** | **19–38 days** | Strain-dependent |
 
-**Strain variation within *P. cubensis*** is significant. The Ecuador strain is specifically noted as an "easy fruiting strain" that does not require cold shock treatment. Other strains may have longer or more variable timelines. The guide's 6–15 day pinhead initiation window primarily reflects strain differences within this species.
+**Strain variation within *P. cubensis*** is significant. The Ecuador strain is specifically noted as an "easy fruiting strain" that does not require cold shock treatment. Other strains may have longer or more variable timelines. The guide"s 6–15 day pinhead initiation window primarily reflects strain differences within this species.
 
 ### *Psilocybe mexicana*
 

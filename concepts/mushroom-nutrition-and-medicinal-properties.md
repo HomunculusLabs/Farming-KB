@@ -87,7 +87,7 @@ The tenet of Hippocrates (c. 400 B.C.)—"Let food be your medicine and medicine
 ## The Western Awakening
 
 ### US Market Growth
-"Several of the [[medicinal-mushrooms-and-cancer-chemoprevention]] their concentrates are becoming particularly popular in the US—the movement began with a drive towards 'healthy food' in the 60s-70s; now it is towards 'healthy medicine.'"
+"Several of the [[medicinal-mushrooms-and-cancer-chemoprevention]] their concentrates are becoming particularly popular in the US—the movement began with a drive towards "healthy food' in the 60s-70s; now it is towards 'healthy medicine.'"
 
 ### Consumer Motivation
 "People are interested in the medicinal mushrooms because they appear to have been used with considerable effect for hundreds of years in the Orient while many modern widely used pharmaceuticals while offering undoubted health benefits can also in some cases have serious side-effects."

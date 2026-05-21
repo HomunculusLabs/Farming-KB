@@ -14,7 +14,7 @@ tags: [psychedelics, ethnobotany, mckenna, opium, colonialism, psychopharmacolog
 [[terence-mckenna]] traces how opium shaped the colonial era through the Opium Wars
 while catalyzing the birth of modern psychopharmacology. The transition from
 alchemical to scientific understandings of [[mckenna-club-des-hachischins-and-nineteenth-century-literary-hashish]], and the
-isolation of morphine—marks a critical [[fukuoka-textdoc-post-season-cultivation-kochi-turning-point]] in humanity's relationship
+isolation of morphine—marks a critical [[fukuoka-textdoc-post-season-cultivation-kochi-turning-point]] in humanity"s relationship
 with plant medicines. McKenna frames the British opium trade as a pattern of
 exploitation cycles linking [[mckenna-sugar-slavery-and-dominance]], tea capitalism, and cocaine trafficking.
 
@@ -33,7 +33,7 @@ standardized, far more dangerous drug preparations.
 Opium has been in physicians' armamentarium since at least 1600 B.C. The
 Sumerians called it *hul gil*, "the plant of joy." An Egyptian medical treatise
 prescribed opium for crying children—a practice persisting millennia, with
-Victorian nannies dosing infants with Godfrey's Cordial to keep them quiet.
+Victorian nannies dosing infants with Godfrey"s Cordial to keep them quiet.
 
 For most of its history opium was dissolved into wine or rolled into pellets. The
 Greeks consecrated the poppy to Nyx (night), Morpheus (dreams), and Thanatos
@@ -51,15 +51,15 @@ all other heroic remedies." His tincture of opium in alcohol became the standard
 delivery vehicle for four centuries. His follower van Helmont became "Doctor
 Opiatus"—the first "croaker" or junk doctor. This progression from sacred plant
 through alchemical extraction to scientific pharmacology represents the full arc
-of humanity's changing relationship with [[cultural-evolution-and-psychoactive-substances]].
+of humanity"s changing relationship with [[cultural-evolution-and-psychoactive-substances]].
 
 ## De Quincey, Coleridge, and Literary Opium
 
 Coleridge and De Quincey established the "joys and horrors" style making De
-Quincey's *Confessions of an English Opium-Eater* (1821) a template for all
-subsequent drug literature. Coleridge's "Kubla Khan," composed under opium's
+Quincey"s *Confessions of an English Opium-Eater* (1821) a template for all
+subsequent drug literature. Coleridge's "Kubla Khan," composed under opium"s
 influence, remains a Romantic cornerstone. Laudanum served as infant colic cure,
-"women's tonic," dysentery treatment, and creative stimulant. McKenna notes that
+"women"s tonic," dysentery treatment, and creative stimulant. McKenna notes that
 compared to modern [[mdma-crack-cocaine-drug-terror-1980s]], the addictions of Coleridge and De Quincey
 "appear almost minor"—yet they established patterns [[mckenna-de-quincey-birth-of-drug-literature]] that persist.
 
@@ -74,13 +74,13 @@ Tours provided jellied Algerian dawamesc.
 
 The opium-hashish relation was synergistic. Opium had millennia of Western use;
 cannabis arrived later, largely through interest in [[glossolalia-and-altered-states]] kindled by
-opium. Marco Polo's account of the hashishin and their "artificial paradise"
+opium. Marco Polo"s account of the hashishin and their "artificial paradise"
 around 1290 gave cannabis its blackened reputation and fascination simultaneously.
 
 ## The Boston Tea Party and the Pivot to Opium
 
 McKenna traces a direct line from the American Revolution to the Opium Wars.
-Lord North's government ruined the tea trade and lost England her American
+Lord North"s government ruined the tea trade and lost England her American
 colonies. On December 16, 1773, radicals destroyed His Majesty's tea ships—"the
 salty tea of revolution was brewed that night." By the early 1800s, the
 ## Practical Applications

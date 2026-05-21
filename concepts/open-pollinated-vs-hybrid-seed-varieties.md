@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-Understanding the distinction between open-pollinated (OP) and hybrid seed varieties is fundamental to Solomon's approach in *[[gardening-when-it-counts]]*. The choice between these two types of seed has profound implications for nutritional quality, cost, self-reliance, genetic diversity, and long-term food security. Solomon advocates strongly for open-pollinated varieties in most garden situations, while acknowledging that hybrids have specific legitimate uses.
+Understanding the distinction between open-pollinated (OP) and hybrid seed varieties is fundamental to Solomon"s approach in *[[gardening-when-it-counts]]*. The choice between these two types of seed has profound implications for nutritional quality, cost, self-reliance, genetic diversity, and long-term food security. Solomon advocates strongly for open-pollinated varieties in most garden situations, while acknowledging that hybrids have specific legitimate uses.
 
 ## Open-Pollinated Varieties (OPs)
 
@@ -23,7 +23,7 @@ Open-pollinated varieties are populations of plants that have been stabilized th
 
 ### History and Decline
 
-Before the mid-20th century, virtually all vegetable varieties were open-pollinated. The development of hybrid seed technology in the 1930s and its aggressive commercialization after World War II led to a dramatic displacement of OP varieties. Luther Burbank's work in the late 19th and early 20th century represents the height of OP breeding, producing hundreds of varieties through careful selection.
+Before the mid-20th century, virtually all vegetable varieties were open-pollinated. The development of hybrid seed technology in the 1930s and its aggressive commercialization after World War II led to a dramatic displacement of OP varieties. Luther Burbank"s work in the late 19th and early 20th century represents the height of OP breeding, producing hundreds of varieties through careful selection.
 
 By the 2000s, many traditional OP varieties had been lost as seed companies discontinued them in favor of more profitable hybrids. The seed companies that maintained OP varieties became relatively few, with catalogs like Southern Exposure Seed Exchange (SESE), [[territorial-seed-company]], and Johnny's Selected Seeds serving as important repositories.
 
@@ -40,7 +40,7 @@ The article "Vegetables Without Vitamins" (Life Extension Magazine, 2001) is cit
 
 ### Seed Saving
 
-The ability to save seed from OP varieties is central to Solomon's vision of self-reliant gardening. Seed saving offers:
+The ability to save seed from OP varieties is central to Solomon"s vision of self-reliant gardening. Seed saving offers:
 
 - **Cost elimination**: No need to purchase seed annually
 - **Varietal preservation**: Maintaining unique varieties that may be discontinued by commercial sources

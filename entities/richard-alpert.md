@@ -22,7 +22,7 @@ After Michael Hollingshead introduced LSD to the Harvard circle — delivered in
 
 ## Dismissal from Harvard
 
-Albert Hofmann noted that Harvard's dean did not approve of the continuation of the research project by Leary and Alpert. Shortly after, both were discharged from Harvard's teaching staff because "the experiments, at first conducted in an academic milieu, had lost their scientific character. The experiments had turned into LSD parties" (Hofmann, *LSD: My Problem Child*). Sandoz, which had initially offered psilocybin to the project, canceled their offer upon learning of the university's disapproval.
+Albert Hofmann noted that Harvard"s dean did not approve of the continuation of the research project by Leary and Alpert. Shortly after, both were discharged from Harvard's teaching staff because "the experiments, at first conducted in an academic milieu, had lost their scientific character. The experiments had turned into LSD parties" (Hofmann, *LSD: My Problem Child*). Sandoz, which had initially offered psilocybin to the project, canceled their offer upon learning of the university's disapproval.
 
 ## Post-Harvard Work
 

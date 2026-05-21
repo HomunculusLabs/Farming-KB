@@ -25,7 +25,7 @@ sources:
 ---
 # Cortinarius rubellus
 
-**Cortinarius rubellus**, the deadly webcap or fools' webcap, is a basidiomycete
+**Cortinarius rubellus**, the deadly webcap or fools" webcap, is a basidiomycete
 fungus in the family Cortinariaceae. It is one of the most [[european-mushroom-poisoning-history]] in Scandinavia
 and Central Europe.
 

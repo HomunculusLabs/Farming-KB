@@ -49,11 +49,11 @@ Analysis across 11 EU Member States demonstrates that school students aged 15 to
 
 ## Cultivated Versus Wild Mushrooms
 
-Hallucinogenic mushrooms grow wild in much of Europe, yet it appears that most recreationally used mushrooms are cultivated rather than picked wild. Mushrooms are sold both as fresh and dried products and for home cultivation using mushroom prints, spore bags, and growkits. The most common wild European species is [[dark-incubation-sclerotia-production-psilocybe-mexicana-tampanensis]] and P. tampanensis form sclerotia and are sold as "truffles" or the "philosopher's stone." These products are widely available through Dutch smartshops and online retailers.
+Hallucinogenic mushrooms grow wild in much of Europe, yet it appears that most recreationally used mushrooms are cultivated rather than picked wild. Mushrooms are sold both as fresh and dried products and for home cultivation using mushroom prints, spore bags, and growkits. The most common wild European species is [[dark-incubation-sclerotia-production-psilocybe-mexicana-tampanensis]] and P. tampanensis form sclerotia and are sold as "truffles" or the "philosopher"s stone." These products are widely available through Dutch smartshops and online retailers.
 
 ### Brand Names and Marketing
 
-Hallucinogenic mushrooms have been sold under labels like "Herbal highs" following the late-1990s trend toward organic and herbal products. The term "philosopher's stone" describes sclerotia of P. mexicana sold by many smartshops. Brand names and user terms sometimes reflect changing market strategies, with products marketed alongside herbal ecstasy and Salvia divinorum.
+Hallucinogenic mushrooms have been sold under labels like "Herbal highs" following the late-1990s trend toward organic and herbal products. The term "philosopher"s stone" describes sclerotia of P. mexicana sold by many smartshops. Brand names and user terms sometimes reflect changing market strategies, with products marketed alongside herbal ecstasy and Salvia divinorum.
 
 ## Barriers to Sustained Use
 

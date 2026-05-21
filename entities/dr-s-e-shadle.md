@@ -27,7 +27,7 @@ Dr. Shadle documented the following key findings:
 
 ## Treatment Protocol
 
-Dr. Shadle's treatment was primarily symptomatic and included:
+Dr. Shadle"s treatment was primarily symptomatic and included:
 
 1. **Emetics and purgatives** to clear undigested toadstool particles from the GI tract
 2. **Cracked ice** for intense thirst and burning sensation in mouth, throat, and stomach

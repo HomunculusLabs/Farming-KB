@@ -19,7 +19,7 @@ In *P. cubensis*, the dominant tropic response changes as the mushroom matures t
 - **Stage 3** (open hemispherical pileus, maturity/sporulation): Negative geotropism fully expressed; pileus recurves upward with lamellae facing downward
 - **Stage 4** (plane pileus, late maturity): Negative geotropism maintained; spore release continues
 
-The transition from wind-directed to gravity-directed growth is one of the most important developmental events in the mushroom's life cycle, because it ensures that the gills (lamellae) are positioned vertically for optimal gravitational spore release. When the pileus recurves upward at Stage 2, the lamellae face downward, allowing spores to fall freely from the basidia under gravity.
+The transition from wind-directed to gravity-directed growth is one of the most important developmental events in the mushroom"s life cycle, because it ensures that the gills (lamellae) are positioned vertically for optimal gravitational spore release. When the pileus recurves upward at Stage 2, the lamellae face downward, allowing spores to fall freely from the basidia under gravity.
 
 ## Evidence Linking Geotropism to Spore Production
 

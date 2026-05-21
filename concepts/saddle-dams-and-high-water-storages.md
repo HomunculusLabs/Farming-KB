@@ -44,7 +44,7 @@ Contour dams are **shallow dams with very large surface areas**, constructed alo
 - They flood flat or gently sloping land, capturing large volumes of water per dollar spent.
 - They are well-suited to broadacre and farm-scale applications.
 
-Mollison's key principle for dam economy: **"The flatter the floor that you flood, the more water you get for dollars spent."** A shallow dam across a broad flat area stores vastly more water than a deep, narrow dam in a steep valley for the same construction cost.
+Mollison"s key principle for dam economy: **"The flatter the floor that you flood, the more water you get for dollars spent."** A shallow dam across a broad flat area stores vastly more water than a deep, narrow dam in a steep valley for the same construction cost.
 
 ### Water Table Recharge
 

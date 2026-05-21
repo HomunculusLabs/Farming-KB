@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-Perennial grasslands — including veldt, prairie, meadow, steppe, herbal ley, pasture, and heathlands — are a defining feature of mesothermal (moderate-temperature) climates. They occupy approximately **24% of the Earth's surface**. Many grasslands are treeless areas established during periods of icecap retreat that have never developed into forests, even though both soils and [[bill-mollison-permaculture-a-designers-manual-climatic-factors-in-design]] would permit forest establishment. Others are actively maintained by fire — whether natural (lightning strikes) or managed (human-set) — against forest invasion.
+Perennial grasslands — including veldt, prairie, meadow, steppe, herbal ley, pasture, and heathlands — are a defining feature of mesothermal (moderate-temperature) climates. They occupy approximately **24% of the Earth"s surface**. Many grasslands are treeless areas established during periods of icecap retreat that have never developed into forests, even though both soils and [[bill-mollison-permaculture-a-designers-manual-climatic-factors-in-design]] would permit forest establishment. Others are actively maintained by fire — whether natural (lightning strikes) or managed (human-set) — against forest invasion.
 
 ## Grassland Classification
 
@@ -47,7 +47,7 @@ Grasses achieve rapid regeneration because their growth points (buds) develop cl
 
 Yield to people or cattle is not the most important factor in system sustainability. Trees shelter, provide nutrients to, and supply off-season or complementary yields when grasses are affected by drought or cold. The [[permaculture]] principle is to **balance system components** so that both trees and grasses serve the stability of the whole. A balanced system maintains its yield over time, whereas unchecked demands run the system down to a desertified endpoint of low total yield.
 
-Mollison articulates this principle: "We should always think of 'yield' as complexed by the length of time that yield can be maintained." Grasses offer only a small part of what they have for human use, while forests make most of themselves visible and available — sometimes at their peril.
+Mollison articulates this principle: "We should always think of "yield' as complexed by the length of time that yield can be maintained." Grasses offer only a small part of what they have for human use, while forests make most of themselves visible and available — sometimes at their peril.
 
 ## Ecological Position
 
@@ -61,7 +61,7 @@ Grasses and herbs can retreat to the buffered atmosphere of the topsoil to escap
 
 ## The Role of Fire
 
-Of all Earth's great plant systems, grasslands are most favoured by human use of fire and plough. Pre-industrial peoples sent fire across dry grasses to kill or invade the forest edge. Many plains were created this way — from the edges of water and deserts to the hills and valleys of humid, fire-resistant forests.
+Of all Earth"s great plant systems, grasslands are most favoured by human use of fire and plough. Pre-industrial peoples sent fire across dry grasses to kill or invade the forest edge. Many plains were created this way — from the edges of water and deserts to the hills and valleys of humid, fire-resistant forests.
 
 Maori, Inca, and aboriginal African and Australian peoples all explored by fire and destroyed forests in the process. Behind the fire front, adapted trees (with fire-resistant bark, foliage, buried buds, and hard seed) advance to reoccupy the land. Many plains have a dark, wet rainforest edge poleward and a savannah forest of fire-dependent species following from the direction of hot winds.
 

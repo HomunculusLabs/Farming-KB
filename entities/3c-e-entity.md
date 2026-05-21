@@ -25,7 +25,7 @@ sources:
 - Body awareness and physical sensations prominent
 - For most subjects, a little too heavy on the body
 
-## Shulgin's Qualitative Comments
+## Shulgin"s Qualitative Comments
 
 At 40 mg, the experience developed into a "strange and indefinable something" — unworldly, with an undertone of unreality reminiscent of high doses of LSD. The subject was very much in control but noted an eerie state of awareness that existed in a narrow window between sensory overload and sensory deprivation. By the 8th hour the subject was sober, with no residue except slight teeth clenching, and was "pretty much disbelieving the whole thing."
 

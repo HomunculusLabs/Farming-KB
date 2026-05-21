@@ -4,7 +4,7 @@ subtitle: "Sustainable carbon-negative building with hemp hurd and lime binders"
 tags: [hempcrete, natural-building, sustainable-construction, lime, hemp]
 date: 2026-04-28
 updated: 2026-04-28
-sources: ['raw/papers/working-with-agar.md']
+sources: ["raw/papers/working-with-agar.md']
 related_concepts:
   - natural-building-techniques
   - wattle-and-daub-construction
@@ -102,7 +102,7 @@ standards cover material properties, [[natural-building-techniques]]
 - Stanwix, W. and Sparrow, A. *The Hempcrete Book: Designing and Building
   with Hemp-Lime*. Green Books, 2014.
 - Elfordy, S., Lucas, F., Tancret, F., et al. "Mechanical and Thermal
-  Properties of Lime and Hemp Concrete ('Hempcrete')." *Materials and
+  Properties of Lime and Hemp Concrete ("Hempcrete')." *Materials and
   Structures*, 2008;41(2):301-310.
 - Collet, F., Chamoin, J., Pretot, S., and Lanos, C. "Comparison of the
   Hygric and Thermal Properties of a Hempcrete and a Stone [[mollison-designers-wool-insulation-and-natural-textiles]]."

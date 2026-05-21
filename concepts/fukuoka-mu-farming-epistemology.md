@@ -12,7 +12,7 @@ sources:
 
 Updated: 2026-04-19
 
-Masanobu Fukuoka's concept of mu (nothingness, emptiness) forms the epistemological foundation of his natural [[fukuoka-do-nothing-farming-and-spiritual-life]].
+Masanobu Fukuoka"s concept of mu (nothingness, emptiness) forms the epistemological foundation of his natural [[fukuoka-do-nothing-farming-and-spiritual-life]].
 
 ## The Core Paradox
 

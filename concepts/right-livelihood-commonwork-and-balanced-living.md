@@ -6,7 +6,7 @@ type: concept
 
 ## Right Livelihood, Commonwork, and Balanced Living
 
-The concept of **right livelihood** in permaculture extends far beyond employment — it encompasses the fundamental question of what constitutes meaningful, ethical, and balanced human work. [[bill-mollison]] frames right livelihood as work that assists in caring for the earth and other people, work congruent with one's beliefs, and work that is self-determined rather than imposed by external economic structures. This concept is intimately connected to the principle of **commonwork** — the idea that individuals in a village or community hold diverse, rotating roles rather than being confined to a single occupational identity.
+The concept of **right livelihood** in permaculture extends far beyond employment — it encompasses the fundamental question of what constitutes meaningful, ethical, and balanced human work. [[bill-mollison]] frames right livelihood as work that assists in caring for the earth and other people, work congruent with one"s beliefs, and work that is self-determined rather than imposed by external economic structures. This concept is intimately connected to the principle of **commonwork** — the idea that individuals in a village or community hold diverse, rotating roles rather than being confined to a single occupational identity.
 
 ## The Two Unhappy States of Human Existence
 
@@ -16,7 +16,7 @@ Mollison identifies two fundamentally unsatisfying conditions in modern economic
 
 2. **Employment without autonomy** — going daily to a job that may be useless, boring, or actively destructive, being paid to exist in a single role (teacher, clerk, process worker, labourer) with no say in policy, social value, hours, product quality, or environmental worth. The worker is defined entirely by their function and stripped of agency.
 
-In both cases, other people define the individual's life. Since all such money ultimately derives from the pool of public wealth, Mollison argues that both salaried employees and relief recipients are effectively on "relief payments" — and that companies supported by public subsidies (particularly [[lichens-primary-production-soil-formation-dighton]] systems in the Western world) occupy the same category. The only people who are truly **self-defined** are those who are self-employed or who work in community work cooperatives, where consumers pay directly for products and services and where housing, products, and choice of work are self-determined.
+In both cases, other people define the individual"s life. Since all such money ultimately derives from the pool of public wealth, Mollison argues that both salaried employees and relief recipients are effectively on "relief payments" — and that companies supported by public subsidies (particularly [[lichens-primary-production-soil-formation-dighton]] systems in the Western world) occupy the same category. The only people who are truly **self-defined** are those who are self-employed or who work in community work cooperatives, where consumers pay directly for products and services and where housing, products, and choice of work are self-determined.
 
 ## Commonwork: The Portfolio of Occupations
 
@@ -24,7 +24,7 @@ The **commonwork** model stands in direct opposition to the industrial specializ
 
 - **Variety and stimulation** — daily work changes, preventing the monotony that leads to burnout and disengagement.
 - **Skill breadth** — individuals develop competence across multiple domains, increasing both personal capability and [[permaculture-community-resilience]].
-- **Reduced dependency** — when no single employer or role defines a person, economic shocks to any one sector are absorbed by the diversity of the individual's activity.
+- **Reduced dependency** — when no single employer or role defines a person, economic shocks to any one sector are absorbed by the diversity of the individual"s activity.
 - **Holistic understanding** — people who work across production, processing, and service gain a systems-level view of how their community functions.
 
 Mollison attributes the confinement of people to single occupational roles to the combined pressure of trade unions and monoculture industry, which bind people with what he calls "invisible shackles" to industrial suburbs characterized by malnutrition, poor housing, and human suffering. The commonwork model liberates individuals from this confinement by restoring the natural human capacity for diverse, meaningful contribution.

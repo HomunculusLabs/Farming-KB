@@ -11,7 +11,7 @@ created: 2026-05-11
 
 ## Chemical Identity
 
-2C-I is compound #33 in PiHKAL, the common name for 2,5-dimethoxy-4-iodophenethylamine hydrochloride. It is a member of the 2C family of [[serotonin-psilocybin-structural-relationship-hallucinogenic-mechanism]] between 2C-I and 2C-B is chemically elegant: both are halogen-substituted at the identical 4-position, with iodine directly below bromine in the periodic table. This periodic relationship makes them "truly analogous" in Shulgin's words, and the frequent comparisons between the two compounds in user reports stem from this structural suggestion.
+2C-I is compound #33 in PiHKAL, the common name for 2,5-dimethoxy-4-iodophenethylamine hydrochloride. It is a member of the 2C family of [[serotonin-psilocybin-structural-relationship-hallucinogenic-mechanism]] between 2C-I and 2C-B is chemically elegant: both are halogen-substituted at the identical 4-position, with iodine directly below bromine in the periodic table. This periodic relationship makes them "truly analogous" in Shulgin"s words, and the frequent comparisons between the two compounds in user reports stem from this structural suggestion.
 
 ## Dosage and Duration
 

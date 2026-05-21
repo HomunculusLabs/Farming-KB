@@ -13,7 +13,7 @@ topics:
 
 ## Overview
 
-[[steve-solomon]]'s *Gardening When It Counts* includes a detailed "gardener's textbook of sprinkler irrigation." While dry gardening is ideal, most gardeners [[coleman-winter-greens-variety-selection]], soil preparation, and [[water-management]].
+[[steve-solomon]]"s *Gardening When It Counts* includes a detailed "gardener"s textbook of sprinkler irrigation." While dry gardening is ideal, most gardeners [[coleman-winter-greens-variety-selection]], soil preparation, and [[water-management]].
 
 ## Four Spacing Systems and Their Water Needs
 

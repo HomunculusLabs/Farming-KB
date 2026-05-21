@@ -10,7 +10,7 @@ The Jivaro Indians of the Ecuadorian Amazon maintain one of the most vividly doc
 
 ## The Jivaro Worldview: Ordinary Life as Illusion
 
-The Jivaro believe that witchcraft is the cause of the vast majority of illnesses and non-violent deaths. Ordinary reality is considered misleading and false; the "real" world is supernatural, accessible only under the influence of natem. This perspective goes further than similar distinctions in other cultures (such as Castaneda's "ordinary" vs. "non-ordinary" reality)—the Jivaro believe there is fundamentally only one reality, and it is the supernatural one.
+The Jivaro believe that witchcraft is the cause of the vast majority of illnesses and non-violent deaths. Ordinary reality is considered misleading and false; the "real" world is supernatural, accessible only under the influence of natem. This perspective goes further than similar distinctions in other cultures (such as Castaneda"s "ordinary" vs. "non-ordinary" reality)—the Jivaro believe there is fundamentally only one reality, and it is the supernatural one.
 
 This worldview creates a particularly strong demand for specialists who can cross into the supernatural world at will to deal with the forces that influence and determine the events of waking life.
 
@@ -33,7 +33,7 @@ Any adult who desires to become a shaman simply presents a gift to a practicing 
 
 The Jivaro recognize two categories of shamanic practitioners:
 
-1. **Bewitching shamans** (*uwishin*) — who use their supernatural powers to cause illness and death by sending spirit helpers into victims' bodies
+1. **Bewitching shamans** (*uwishin*) — who use their supernatural powers to cause illness and death by sending spirit helpers into victims" bodies
 2. **Curing shamans** — who suck spirits sent by enemy shamans from the bodies of tribesmen suffering from witchcraft-induced illness
 
 Both types use natem to enter the supernatural world.
@@ -45,7 +45,7 @@ The central concept in Jivaro shamanism is the **tsentsak** — spirit helpers, 
 - To non-shamans, tsentsak are normally **invisible**
 - Even shamans can perceive them **only under the influence of natem**
 - They form **shields** that protect their shaman masters from attacks by other shamans
-- Shamans **send** tsentsak into victims' bodies to make them ill or kill them
+- Shamans **send** tsentsak into victims" bodies to make them ill or kill them
 - Shamans **extract** tsentsak sent by enemy shamans from patients' bodies during [[jivaro-shamanic-curing-rituals]]
 
 ### Transfer of Tsentsak
@@ -54,7 +54,7 @@ To give a novice tsentsak, the practicing shaman regurgitates what appears to th
 
 ## The Shamanic Journey: "The Sound of Rushing Water"
 
-The following account, drawn from Harner's ethnographic description, illustrates the Jivaro shaman's experience:
+The following account, drawn from Harner"s ethnographic description, illustrates the Jivaro shaman's experience:
 
 > He had drunk, and now he softly sang. Gradually, faint lines and forms began to appear in the darkness, and the shrill music of the tsentsak, the spirit helpers, arose around him. The power of the drink fed them. He called, and they came. First, *pangi*, the anaconda, coiled about his head, transmuted into a crown of gold. Then *wampang*, the giant butterfly, hovered above his shoulder and sang to him with its wings. Snakes, spiders, birds and bats danced in the air above him. On his arms appeared a thousand eyes as his demon helpers emerged to search the night for enemies.
 
@@ -64,7 +64,7 @@ The **sound of rushing water** is the characteristic auditory experience that si
 
 With the power of Tsungi, the shaman can see into a patient's body. The stomach becomes "transparent like a shallow mountain stream," revealing the coiling form of a *makanchi* (poisonous serpent) or other intrusive spirit object that an enemy shaman has sent—the real cause of the illness.
 
-## Harner's Personal Experience
+## Harner"s Personal Experience
 
 In 1961, Harner drank the Banisteriopsis brew during fieldwork with another Upper Amazon tribe. For several hours, he found himself "in a world literally beyond my wildest dreams." He reported encountering bird-headed people and dragon-like creatures who explained they were the true gods of this world. He enlisted spirit helpers in attempting to fly through the far reaches of the Galaxy. This experience led him to realize that anthropologists had "profoundly underestimated the importance of the drug in affecting native ideology" and prompted his return to the Jivaro in 1964 to focus specifically on the drug's role.
 

@@ -11,7 +11,6 @@ date: 2026-05-08
 updated: 2026-05-08
 sources:
   - Raigón, M.D. et al. (2008). "The aact-tannins-terpenes-phenolic-compounds-wood-composting-ingham of eggplant." Journal of Agricultural and Food Chemistry.---
----
 
 ## Solanum melongena
 

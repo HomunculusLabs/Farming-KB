@@ -26,7 +26,7 @@ COF is far more economical and effective per dollar than purchasing bulk manure,
 
 ## The Full Amendment Level
 
-At the top of the gradient, gardeners apply both **generous amounts of compost or manure** (up to double the minimum recommendations) **plus COF**. This is Solomon's own approach in his garden. The combination provides abundant organic matter for soil structure and microbial life, plus complete mineral nutrition. The key caution is: **never apply more than double the recommended amount of organic matter**, as excessive organic matter can unbalance soil minerals even when COF is also used.
+At the top of the gradient, gardeners apply both **generous amounts of compost or manure** (up to double the minimum recommendations) **plus COF**. This is Solomon"s own approach in his garden. The combination provides abundant organic matter for soil structure and microbial life, plus complete mineral nutrition. The key caution is: **never apply more than double the recommended amount of organic matter**, as excessive organic matter can unbalance soil minerals even when COF is also used.
 
 ## Soil Fertility Summary Table
 

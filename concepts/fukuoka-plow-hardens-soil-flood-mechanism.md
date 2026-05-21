@@ -79,7 +79,7 @@ machinery to work.
 
 ## Comparison with Natural Soil Structure
 
-In undisturbed soil — forests, grasslands, and Fukuoka's own unplowed
+In undisturbed soil — forests, grasslands, and Fukuoka"s own unplowed
 fields — soil structure is maintained by biological processes rather than
 mechanical force. Plant roots penetrate the soil, creating channels as
 they grow and leave behind organic deposits when they die. Soil animals

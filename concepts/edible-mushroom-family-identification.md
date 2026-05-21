@@ -49,7 +49,7 @@ appearance makes confusion with other species virtually impossible.
 
 ### Physical Description
 
-When fit for food, the maned mushroom is shaped like a turtle's egg — ovate but
+When fit for food, the maned mushroom is shaped like a turtle"s egg — ovate but
 alike at each end. The top is brown and smooth, but toward the earth the outer
 skin ruffles up, creating a white mane or fringe of concentric layers. The stem
 is hollow, and when cut appears like macaroni as it cooks. A ring around the

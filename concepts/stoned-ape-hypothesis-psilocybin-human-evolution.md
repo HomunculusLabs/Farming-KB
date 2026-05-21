@@ -14,7 +14,7 @@ type: concept
 ## Overview
 
 [[neurotropic-fungi-chemical-compounds]] in the early human diet directly influenced the rapid
-reorganization of the brain's information-processing capacities. While
+reorganization of the brain"s information-processing capacities. While
 controversial and not widely accepted in mainstream anthropology, the
 hypothesis raises provocative questions about the intersection of diet,
 neurochemistry, and human evolution.
@@ -39,7 +39,7 @@ to the modern average of approximately 1350 grams.
 
 ## The Psilocybin Connection
 
-McKenna's hypothesis centers on *[[amanita-muscaria-legal-alternative-psilocybin-mushrooms-europe]]
+McKenna"s hypothesis centers on *[[amanita-muscaria-legal-alternative-psilocybin-mushrooms-europe]]
 may have predated the domestication of cattle by a million years or more.
 
 McKenna argues that the union of cultural and biological points of view in

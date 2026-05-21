@@ -7,7 +7,7 @@ tags: [folklore, hungary, psychoactive-mushrooms, history, europe]
 
 ## Description
 
-Bolond Gomba is the Hungarian name for a [[gartz-conocybe-cyanopus-rare-psychoactive-mushroom]] species, translating to "fool's mushroom." It was documented in Hungary by the great physician and botanist **[[carolus-clusius]]** (1526–1609), also known as Charles de l'Écluse. The mushroom was known under the German name "Narrenschwamm" ("fool's mushroom") and was used in rural areas of Hungary, where it was processed into **love potions** by wise men known as "javas asszony" (wise women or herbalists).
+Bolond Gomba is the Hungarian name for a [[gartz-conocybe-cyanopus-rare-psychoactive-mushroom]] species, translating to "fool"s mushroom." It was documented in Hungary by the great physician and botanist **[[carolus-clusius]]** (1526–1609), also known as Charles de l"Écluse. The mushroom was known under the German name "Narrenschwamm" ("fool"s mushroom") and was used in rural areas of Hungary, where it was processed into **love potions** by wise men known as "javas asszony" (wise women or herbalists).
 
 ## Historical Context
 
@@ -32,7 +32,7 @@ Both species are known to grow in the Carpathian Basin and surrounding areas.
 
 - **Category**: Historical psychoactive mushroom / Folklore entity
 - **Region**: Hungary, Slovakia, Central Europe
-- **Common names**: Bolond Gomba (Hungarian), Narrenschwamm (German), "Fool's Mushroom"
+- **Common names**: Bolond Gomba (Hungarian), Narrenschwamm (German), "Fool"s Mushroom"
 - **Earliest documentation**: Late 16th century by Clusius
 
 ## Relevance to Cultivation and Mycology
@@ -41,19 +41,19 @@ The bolond gomba provides evidence of continuous European knowledge [[historical
 
 ## Key Facts
 
-- Hungarian name for "fool's mushroom"
+- Hungarian name for "fool"s mushroom"
 - First documented by Clusius in the 16th century
 - Used in love potions prepared by "javas asszony" (wise women)
 - Also known in Germany as "Narrenschwamm"
 - Referenced by Polish poet Vaclav Potocki (1625–1699)
-- Mentioned in John Parkinson's *Theatricum Botanicum* (1640)
+- Mentioned in John Parkinson"s *Theatricum Botanicum* (1640)
 - Most likely *[[psilocybe-semilanceata]]* or *Psilocybe bohemica*
 
 ## Connection to Other Historical Terms
 
 The bolond gomba is part of a continuum of European folk names for psychoactive mushrooms that includes:
 
-- "Fool's mushroom" — a common designation across multiple European languages
+- "Fool"s mushroom" — a common designation across multiple European languages
 - "Mexican mushroom of insanity" — 1930s terminology
 - "Mexican magic mushrooms" — 1950s terminology
 - "[[emcdda-barriers-to-hallucinogenic-mushroom-trend-diffusion]]" — later scientific terminology

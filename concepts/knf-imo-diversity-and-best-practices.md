@@ -11,7 +11,7 @@ type: concept
 ## KNF IMO Diversity and Best Practices
 
 [[query-jadam-vs-korean-natural-farming]]
-Farming's approach to soil health. Dr. Cho established specific
+Farming"s approach to soil health. Dr. Cho established specific
 principles for collecting, maintaining, and applying IMOs that
 maximize microbial diversity and ensure sustained soil fertility.
 This guide covers the best practices and diversity principles from

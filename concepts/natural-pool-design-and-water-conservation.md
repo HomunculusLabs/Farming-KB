@@ -49,7 +49,7 @@ Natural pools can be recycled by photovoltaic pumps, eliminating the need for gr
 
 ## Water Conservation on Property
 
-### Designer's Checklist
+### Designer"s Checklist
 
 On any property, the permaculture designer should:
 

@@ -20,7 +20,7 @@ type: concept
 
 ## Non-Action as the Ultimate Goal
 
-The ultimate goal of natural farming is "doing nothing," a state where human knowledge and effort have been reduced to zero. This does not mean laziness or neglect. Rather, it means creating conditions where nature itself performs all the functions that man has attempted to replicate through technology and labor. The farmer's role shifts from active manipulation to passive facilitation.
+The ultimate goal of natural farming is "doing nothing," a state where human knowledge and effort have been reduced to zero. This does not mean laziness or neglect. Rather, it means creating conditions where nature itself performs all the functions that man has attempted to replicate through technology and labor. The farmer"s role shifts from active manipulation to passive facilitation.
 
 Fukuoka's forty years of farming demonstrated this principle progressively. He reduced his labor to essentially just sowing seed and spreading straw. Human effort became unnecessary because nature, not man, grows the rice and wheat. His goal was to eventually bring this labor down to zero.
 
@@ -38,7 +38,7 @@ The movement demands that man look back over everything he has done and rid hims
 
 ## Farming as Spiritual Practice
 
-Natural farming is described as a Buddhist way of farming that originates in the philosophy of Mu (nothingness) and returns to a "do-nothing" nature. The young people who came to live in Fukuoka's orchard carried with them the hope of someday resolving the great problems of the world that cannot be solved by science and reason.
+Natural farming is described as a Buddhist way of farming that originates in the philosophy of Mu (nothingness) and returns to a "do-nothing" nature. The young people who came to live in Fukuoka"s orchard carried with them the hope of someday resolving the great problems of the world that cannot be solved by science and reason.
 
 ### The Unmoving Way
 Natural farming is characterized as the "methodless method of nature, the unmoving way of Bodhidharma." Although appearing fragile and vulnerable, it is potent for it brings victory unfought. It is a Buddhist way of farming that is boundless and yielding, and leaves the soil, the plants, and the insects to themselves.
@@ -58,7 +58,7 @@ People have fallen from a true way of life to one that is false. They rush about
 
 ## The Path of Renunciation
 
-Fukuoka's prescription is radical: all begins by relinquishing human knowledge. This does not mean returning to primitive conditions but rather returning to a state where nature's full powers are allowed to operate. The path is described as one of stripping away the layers of human knowledge and action from nature one by one, allowing true nature to emerge of its own accord.
+Fukuoka"s prescription is radical: all begins by relinquishing human knowledge. This does not mean returning to primitive conditions but rather returning to a state where nature's full powers are allowed to operate. The path is described as one of stripping away the layers of human knowledge and action from nature one by one, allowing true nature to emerge of its own accord.
 
 ### Starting from Nothing
 The starting point of natural farming is also its destination, and the journey in-between. To start from Mu and return to Mu, that is natural farming. The productivity of natural farming, which has no notion of time or space, may be quantifiable or unquantifiable; it makes no difference. Natural farming merely provides harvests that follow a fixed, unchanging orbit with the cycles of nature.

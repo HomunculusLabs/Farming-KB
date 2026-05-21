@@ -33,9 +33,9 @@ sources:
 
 ### Critique of Human Knowledge
 
-Fukuoka's central philosophical thesis: "The more people study, the more they depart from nature." He traces the fall of agriculture to the human assumption that nature can be improved through knowledge. Scientific agriculture, he argues, creates problems that it then claims to solve, generating an endless spiral of intervention.
+Fukuoka"s central philosophical thesis: "The more people study, the more they depart from nature." He traces the fall of agriculture to the human assumption that nature can be improved through knowledge. Scientific agriculture, he argues, creates problems that it then claims to solve, generating an endless spiral of intervention.
 
-**Natural farming vs. natural science**: Natural farming works with nature's processes as a unified whole; scientific agriculture dissects nature into isolated factors (NPK, pH, individual pests), treats symptoms, and creates new imbalances.
+**Natural farming vs. natural science**: Natural farming works with nature"s processes as a unified whole; scientific agriculture dissects nature into isolated factors (NPK, pH, individual pests), treats symptoms, and creates new imbalances.
 
 ### The Four Principles (Expanded)
 
@@ -68,7 +68,7 @@ Fukuoka connects agricultural destruction to philosophical materialism: "Modern 
 
 ### The Basic Pattern: Direct-Seeding No-Tillage Rice/Barley Cropping
 
-This is Fukuoka's core innovation — the "clover revolution." A complete annual cycle on level, unplowed fields:
+This is Fukuoka"s core innovation — the "clover revolution." A complete annual cycle on level, unplowed fields:
 
 #### Fall Operations (October-November)
 
@@ -104,7 +104,7 @@ Purpose: Protect overwintering seed from rodents, birds, and rot. Pellets crumbl
 
 #### Water Management
 
-Fukuoka's approach contrasts sharply with conventional flooded rice:
+Fukuoka"s approach contrasts sharply with conventional flooded rice:
 
 - **First half of season**: Essentially no irrigation. Soil stays moist under straw and green manure. Conditions similar to upland rice cultivation.
 - **Heading stage**: Intermittent irrigation, water passed briefly every 7-10 days
@@ -125,7 +125,7 @@ Essential infrastructure, dug once and used for many years:
 
 - Rice: 22-27.5 bushels per quarter acre (conventional: 25-30 bushels)
 - Barley: ~22 bushels per quarter acre
-- Straw-to-grain ratio: 1:1 in Fukuoka's fields (vs. 2:1 in conventional)
+- Straw-to-grain ratio: 1:1 in Fukuoka"s fields (vs. 2:1 in conventional)
 - Labor: 1-2 people, a few days per crop (vs. months of intensive labor)
 - "The seeding and harvesting so closely follow the natural pattern that it could be considered a natural process rather than an agricultural technique."
 

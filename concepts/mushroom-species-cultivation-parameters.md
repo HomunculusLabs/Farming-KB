@@ -10,7 +10,7 @@ sources:
 
 # Mushroom Species Cultivation Parameters
 
-Detailed cultivation tables for gourmet, medicinal, and ecologically important mushroom species. Based on [[paul-stamets]]' *Mycelium Running* (2005) species chapters. See also [[mushroom-species-guide]], [[specialty-mushroom-species]], [[mushroom-cultivation-basics]], and [[mushroom-substrates]].
+Detailed cultivation tables for gourmet, medicinal, and ecologically important mushroom species. Based on [[paul-stamets]]" *Mycelium Running* (2005) species chapters. See also [[mushroom-species-guide]], [[specialty-mushroom-species]], [[mushroom-cultivation-basics]], and [[mushroom-substrates]].
 
 ## Primary Cultivation Species
 

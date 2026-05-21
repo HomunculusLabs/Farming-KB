@@ -8,7 +8,7 @@ sources:
   - "raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md"
 ---
 
-## Lion's Mane Indoor Cultivation
+## Lion"s Mane Indoor Cultivation
 
 Lion's Mane (Hericium erinaceus) is one of the few mushrooms that, when cooked, imparts the flavor of lobster. Producing a mane of cascading white spines, this mushroom can be grown on sterilized sawdust/bran or via the traditional log method first established for Shiitake. Indoor cultivation offers the most rapid and productive results, though the species requires greater attention to the details of mycelial development than most other [[psilocybin-north-america-pacific-northwest]], Europe, China and Japan; most abundant in the southern regions of the United States
 - Natural habitat: On dying or dead oak, walnut, beech, maple, sycamore and other broad-leaf trees, found most frequently on logs or stumps
@@ -35,7 +35,7 @@ The mycelium is whitish, forming triangular zones of collected rhizomorphs radia
 
 ## Fruiting Through Punctured Bags
 
-Lion's Mane grows aggressively on hardwood sawdust enriched with bran. Incubation proceeds for two weeks, after which primordia occur spontaneously. Since fruitings off vertical faces of the plastic bags are more desirable than top fruitings, it is essential that holes be punched into the sides of the bags directly after colonization. If primordia form unabated within the confines of the sealed bag, the number and quality of spines are adversely affected. Under these conditions, the spines elongate, are loosely arranged, and when fully developed the mass of the harvested mushroom is greatly reduced.
+Lion"s Mane grows aggressively on hardwood sawdust enriched with bran. Incubation proceeds for two weeks, after which primordia occur spontaneously. Since fruitings off vertical faces of the plastic bags are more desirable than top fruitings, it is essential that holes be punched into the sides of the bags directly after colonization. If primordia form unabated within the confines of the sealed bag, the number and quality of spines are adversely affected. Under these conditions, the spines elongate, are loosely arranged, and when fully developed the mass of the harvested mushroom is greatly reduced.
 
 If inducing mushrooms to form through minute holes in plastic, the fruitbody snaps off with no need for further cleaning. Picking mushrooms in this fashion makes for some of the fastest harvesting in [[growing-gourmet-bacterial-blotch-disease-management]] that quickly spreads to other mature parts. By reducing humidity several hours before harvest to the 60-70% range, the mushroom loses sufficient water and tends not to bruise so readily.
 

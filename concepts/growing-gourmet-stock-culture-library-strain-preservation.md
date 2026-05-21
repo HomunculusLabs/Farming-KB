@@ -20,7 +20,7 @@ One culture in a standard 100 x 15 mm petri dish can inoculate 50-100 test tube 
 Culture banks in Asia commonly preserve cultures in straight test tubes whose ends are stuffed with hydrophobic cotton or gauze. The gauze is sometimes covered with plastic film and secured tightly with a rubber band. This method provides adequate gas exchange while preventing contamination.
 
 ### Modern Alternatives
-Other libraries offer cultures in test tubes fitted with a press-on plastic lid especially designed for gas exchange. The need for gas exchange is minimal — provided the culture's growth is slowed down by timely placement into cold storage.
+Other libraries offer cultures in test tubes fitted with a press-on plastic lid especially designed for gas exchange. The need for gas exchange is minimal — provided the culture"s growth is slowed down by timely placement into cold storage.
 
 ### Shelf Life by Storage Temperature
 - **Room temperature**: Maximum life of 6-12 months

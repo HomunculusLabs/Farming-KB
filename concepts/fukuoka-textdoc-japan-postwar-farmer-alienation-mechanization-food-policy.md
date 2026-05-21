@@ -8,7 +8,7 @@ updated: 2026-05-11
 type: concept
 ---
 
-## Japan's Postwar Farmer Alienation Through Mechanization and Food Policy
+## Japan"s Postwar Farmer Alienation Through Mechanization and Food Policy
 
 [[masanobu-fukuoka]] provides a scathing farmer's-eye analysis of Japan's
 [[fukuoka-japan-postwar-agricultural-transformation-mechanization-trap]], arguing that the celebrated economic
@@ -35,7 +35,7 @@ the farming population led to the adoption of new agricultural methods.
 As farming became less labor-intensive through mechanization, surplus
 manpower poured out of the countryside into the towns and cities. But far
 from being a blessing, this prosperity made things harder on the farmer.
-In Fukuoka's formulation, he "tightened the noose about his own neck."
+In Fukuoka"s formulation, he "tightened the noose about his own neck."
 
 ## The Transport-Tiller as Turning Point
 
@@ -43,7 +43,7 @@ The arrival of the motorized transport-tiller marked a major turning
 point in [[fukuoka-breakdown-japanese-agriculture]]. This was rapidly followed by three-wheeled
 vehicles and trucks. Before long, ropeways, monorails, and paved roads
 stretched to the furthest corners of the village, completely altering the
-farmer's notions of time and space. The pace and scale of agricultural
+farmer"s notions of time and space. The pace and scale of agricultural
 life were fundamentally transformed.
 
 With this wave of change from labor-intensive to capital-intensive

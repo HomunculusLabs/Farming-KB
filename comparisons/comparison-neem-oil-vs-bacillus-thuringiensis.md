@@ -3,7 +3,7 @@ title: "Neem Oil vs cervantes-bacillus-thuringiensis-bt-control"
 tags: [comparison, pest-control, organic-agriculture, biocontrol, ipm]
 date: 2026-05-08
 updated: 2026-05-08
-sources: ['https://www.epa.gov/safepestcontrol/integrated-pest-management-ipm-principles']
+sources: ["https://www.epa.gov/safepestcontrol/integrated-pest-management-ipm-principles']
 ---
 
 ## Neem Oil vs Bacillus Thuringiensis

@@ -18,7 +18,7 @@ complexity and subjects of intense scientific investigation.
 
 The infection begins when fungal spores land on an insect host. The
 fungus pierces the chitinous exoskeleton and grows inside the
-hemocoel (body cavity), consuming the host's tissues from within.
+hemocoel (body cavity), consuming the host"s tissues from within.
 Once established, symptoms become dramatically visible. Infected ants
 engage in hopeless grooming behavior and move with an erratic gait,
 their legs twitching uncontrollably.
@@ -38,7 +38,7 @@ vegetation, colonial insects like ants remove themselves from their
 nests, limiting the opportunity for an epidemic. This self-removal
 may serve the colony since sterile worker ants share genetic
 identity with hundreds of thousands of sisters. Alternatively, the
-fungus may be directly manipulating the insect's brain chemistry
+fungus may be directly manipulating the insect"s brain chemistry
 to induce the climbing response, placing itself in an ideal position
 for wind dispersal of spores from the elevated corpse.
 

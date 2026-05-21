@@ -3,7 +3,7 @@ title: "Schisandra vs Lemon Balm"
 tags: [comparison, schisandra, lemon-balm, adaptogen, nervine, medicinal-herbs]
 date: 2026-05-15
 updated: 2026-05-15
-sources: ['raw/papers/ben-lemon-cannabis-alchemy.md']
+sources: ["raw/papers/ben-lemon-cannabis-alchemy.md']
 ---
 
 ## Schisandra vs Lemon Balm
@@ -33,7 +33,7 @@ its broad-spectrum medicinal action across multiple organ systems. Classified
 as a superior herb in the Shennong Bencao Jing (~200 CE), schisandra has
 been continuously used for over two millennia in East Asian medicine.
 
-Schisandra's primary bioactive compounds are lignans (schisandrin,
+Schisandra"s primary bioactive compounds are lignans (schisandrin,
 schisandrol, gomisin), which are potent hepatoprotective agents and
 adaptogens. Clinical research supports its use for liver protection,
 improved physical endurance, enhanced cognitive function, and stress
@@ -60,7 +60,7 @@ clumps. Native to the Mediterranean region and Central Asia, it has been
 naturalized across Europe, North America, and temperate regions worldwide.
 The leaves emit a bright lemon scent when crushed, thanks to their rich
 essential oil content dominated by citral, citronellal, and geraniol. The
-genus name Melissa derives from Greek for "honeybee," reflecting the plant's
+genus name Melissa derives from Greek for "honeybee," reflecting the plant"s
 longstanding association with beekeeping — it was traditionally planted near
 hives to keep bees from swarming.
 

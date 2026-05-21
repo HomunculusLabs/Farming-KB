@@ -14,7 +14,7 @@ sources:
 
 ## Overview
 
-Triodanis perfoliata, commonly known as clasping Venus's-looking-glass or clasping bellflower, is a winter annual herb in the family Campanulaceae. It is native to North and South America, where it is widespread in disturbed, open habitats.
+Triodanis perfoliata, commonly known as clasping Venus"s-looking-glass or clasping bellflower, is a winter annual herb in the family Campanulaceae. It is native to North and South America, where it is widespread in disturbed, open habitats.
 
 The species is named for its distinctive sessile leaves that clasp (perfoliate) the stem, appearing as though the stem passes directly through the leaf blade. This feature makes it immediately recognizable in the field.
 
@@ -24,7 +24,7 @@ Triodanis perfoliata is one of the most common and widely distributed Campanulac
 
 The species was originally described by Linnaeus as Campanula perfoliata in 1753. It was later transferred to the genus Specularia and finally to Triodanis by the American botanist Julius Nieufland in 1914.
 
-The common name "Venus's-looking-glass" refers to the shiny, mirror-like seeds of some related European species in the tribe Campanuleae.
+The common name "Venus"s-looking-glass" refers to the shiny, mirror-like seeds of some related European species in the tribe Campanuleae.
 
 ## Taxonomy and Morphology
 

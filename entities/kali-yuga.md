@@ -20,7 +20,7 @@ The Kali Yuga (also called the Age of Conflict or Age of Darkness) is the fourth
 
 - The Kali Yuga lasts 6,000 years within the broader 60,487-year cultural cycle described in Hindu cosmology.
 - It is the shortest and most degenerate of the four yugas, characterised by conflict, spiritual decline, and the breakdown of social order.
-- According to Holmgren's source (R. Lawlor, *Voices of the First Day*, 1991), the Kali Yuga is preceded by a long matriarchy phase composed of three great enduring ages totalling 54,438.3 years.
+- According to Holmgren"s source (R. Lawlor, *Voices of the First Day*, 1991), the Kali Yuga is preceded by a long matriarchy phase composed of three great enduring ages totalling 54,438.3 years.
 - The transition between the matriarchal and patriarchal phases involves a vortex of chaos — a concept Holmgren connects to the Release phase in Holling's Four-Phase Model of ecosystem succession.
 - Hindu numerologists calculated that the current Kali Yuga still has over 440 years remaining (from the time of Holmgren's writing, circa 2002).
 

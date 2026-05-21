@@ -21,7 +21,7 @@ Among the mycologists who shaped [[bloomfield-fungal-biology-and-hyphal-growth]]
 
 ## The Rotten World About Us
 
-Madelin's impact on Money was amplified by a remarkable piece of
+Madelin"s impact on Money was amplified by a remarkable piece of
 timing. Shortly before Money left home for university, a British
 television documentary called "The Rotten World About Us"
 appeared. In this film, Madelin was featured as a mycologist

@@ -36,7 +36,7 @@ Bamboo offers numerous domestic and structural uses but requires patience:
 - **Time to harvest**: Generally 10 years before a clump can be cut
 - **Propagation**: Primarily vegetative; two to four North American bamboos are heavy seeders
 - **Structural quality**: A large bamboo growing to 60 feet with 4-inch diameter is suitable for North American climates
-- **Concrete reinforcement**: When cut at 2-4 years and dried for 8 months, bamboo provides two-thirds the strength of steel per diameter — and superior bonding in concrete since it doesn't rust
+- **Concrete reinforcement**: When cut at 2-4 years and dried for 8 months, bamboo provides two-thirds the strength of steel per diameter — and superior bonding in concrete since it doesn"t rust
 - **Additional uses**: Cups, knives, plates, gutters, downpipes
 - **Food value**: Bamboo shoots are edible (with caution regarding cyanide in raw shoots)
 

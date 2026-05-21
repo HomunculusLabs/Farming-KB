@@ -36,7 +36,7 @@ darkness**. This was demonstrated through night-break experiments:
   flower by a brief light flash during an otherwise long night
 
 This worked even when the light interruption lasted only a few
-seconds — the duration of light didn't matter, only its presence
+seconds — the duration of light didn"t matter, only its presence
 during the critical dark period.
 
 ## How Night-Break Technology Works

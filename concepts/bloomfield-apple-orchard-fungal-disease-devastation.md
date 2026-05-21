@@ -1,6 +1,6 @@
 ---
 title: Apple Orchard Fungal Disease Devastation
-source: "Mr. Bloomfield's Orchard - Nicholas P. Money"
+source: "Mr. Bloomfield"s Orchard - Nicholas P. Money"
 source_file: mr-bloomfields-orchard---the-mysterious-world-of-mushrooms-molds-and-mycologists.md
 extracted: 2026-04-11
 type: concept

@@ -2,7 +2,7 @@
 title: Bjerkandera Adusta
 type: entity
 tags: [species]
-sources: ['raw/papers/working-with-agar.md']
+sources: ["raw/papers/working-with-agar.md']
 ---
 
 ## Bjerkandera adusta

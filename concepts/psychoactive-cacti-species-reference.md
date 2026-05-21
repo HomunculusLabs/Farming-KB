@@ -9,7 +9,7 @@ sources: [raw/papers/gottlieb-a-peyote-and-other-psychoactive-cacti.md]
 
 # Psychoactive Cacti Species Reference
 
-Comprehensive reference to psychoactive cacti species, their alkaloid profiles, identification, and traditional use. Based on Adam Gottlieb's 1977 guide.
+Comprehensive reference to psychoactive cacti species, their alkaloid profiles, identification, and traditional use. Based on Adam Gottlieb"s 1977 guide.
 
 ## Major Psychoactive Cacti
 
@@ -63,7 +63,7 @@ Comprehensive reference to psychoactive cacti species, their alkaloid profiles, 
 - Huichol name means "False Peyote"; believed to cause madness if consumed
 - Contains: Hordenine, N-methyltryamine (~0.02%), traces of N-methyl-3,4-dimethoxy-B-phenethylamine
 - Alkaloid amounts insufficient for psychopharmacological response
-- Contains flavone retusin (3,3',4',7-tetramethoxy-5-hydroxyflavone)
+- Contains flavone retusin (3,3",4',7-tetramethoxy-5-hydroxyflavone)
 
 ### Sunami (Ariocarpus fissuratus)
 - Also known as "living rock" or "dry whiskey"

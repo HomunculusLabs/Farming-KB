@@ -14,7 +14,7 @@ The ethnographic study of [[mescalero-apache]] [[shamanism]] and peyote use was 
 
 ### The Nature of Power
 
-In aboriginal Apache cosmology, the world is permeated by supernatural power (*biyáti* or *bijii*) that carries no intrinsic attribute of good or evil. The sole criterion of significance is potency — power's virtue resides entirely in its efficacy. This is a radically amoral ontology: power is neither benevolent nor malevolent in itself. Its moral character is determined exclusively by how it is wielded by the person who possesses it.
+In aboriginal Apache cosmology, the world is permeated by supernatural power (*biyáti* or *bijii*) that carries no intrinsic attribute of good or evil. The sole criterion of significance is potency — power"s virtue resides entirely in its efficacy. This is a radically amoral ontology: power is neither benevolent nor malevolent in itself. Its moral character is determined exclusively by how it is wielded by the person who possesses it.
 
 ### Acquisition of Power
 
@@ -22,7 +22,7 @@ Power approaches individuals through a medium — a plant, animal, or natural ph
 
 ### Multiple Powers and Witchcraft
 
-An individual might own any number of powers, each with its own associated rituals, songs, and instructions. The relationship between a person and their power is personal and idiosyncratic — there is no standardized body of shamanic knowledge, no canon of practice that all practitioners share. However, if a person uses power for purposes not oriented toward the common good, that person is classified as a witch. The boundary between shaman and witch is thus not a matter of the power itself but of its application. This creates a social landscape saturated with suspicion: shamans who save lives through curing ceremonies are themselves believed to incur a cost, sacrificing their own or a loved one's life in exchange. Jealousies, enmities, and mutual suspicion abound among practitioners.
+An individual might own any number of powers, each with its own associated rituals, songs, and instructions. The relationship between a person and their power is personal and idiosyncratic — there is no standardized body of shamanic knowledge, no canon of practice that all practitioners share. However, if a person uses power for purposes not oriented toward the common good, that person is classified as a witch. The boundary between shaman and witch is thus not a matter of the power itself but of its application. This creates a social landscape saturated with suspicion: shamans who save lives through curing ceremonies are themselves believed to incur a cost, sacrificing their own or a loved one"s life in exchange. Jealousies, enmities, and mutual suspicion abound among practitioners.
 
 Each shaman possesses private instructions and individually owned rites. There has never been a chief shaman among the Mescalero — the shamanistic system is fundamentally individualistic and decentralized, with no institutional hierarchy to mediate conflicts or standardize practice. This decentralization means that each practitioner operates in relative isolation, competing for clients and prestige without any overarching authority to resolve disputes or authenticate claims to power.
 
@@ -38,7 +38,7 @@ The peyote camp leader directed the ceremony, but the nature of peyote itself �
 
 The core theoretical insight of the Boyer, Boyer, and Basehart analysis is the identification of a fundamental incongruity between two modes of Apache religious experience:
 
-- **Ordinary shamanistic ceremonies**: A single shaman serves as the principal actor. Religious ecstasy — the direct experience of supernatural power — is his exclusive prerogative. The shaman's uniqueness and special status are central to the ceremony's meaning and efficacy.
+- **Ordinary shamanistic ceremonies**: A single shaman serves as the principal actor. Religious ecstasy — the direct experience of supernatural power — is his exclusive prerogative. The shaman"s uniqueness and special status are central to the ceremony's meaning and efficacy.
 
 - **Peyote rites**: The psychoactive effects of peyote are shared by all participants. The shaman's uniqueness disappears; every person present undergoes the experience of power. The shaman is no longer the sole intermediary with the supernatural.
 
@@ -52,7 +52,7 @@ Peyote power is unique among the Mescalero in being uniformly considered bad. Th
 
 ### The Process of Abandonment
 
-During the 1959–60 study period, there were 13 accredited shamans and 15 pseudoshamans on the reservation. Of these, only one shaman — referred to as "Ancient One" — had ever participated in the peyote camp. This near-total disaffiliation underscores the completeness of peyote's delegitimization. The pseudoshamans who continued to use peyote were believed to have suffered "turning back" of the power, a concept denoting the reversal or punitive reversal of supernatural power against its user. Specific instances were cited: one pseudoshaman lost a leg, another had relatives killed. These outcomes were interpreted as confirming peyote's uniformly evil nature, reinforcing the community's collective decision to abandon peyote ceremonies entirely. The abandonment was thus not a response to external prohibition but to internally generated conclusions about peyote's inherent malevolence, arrived at through the accumulation of perceived evidence of its harmful effects.
+During the 1959–60 study period, there were 13 accredited shamans and 15 pseudoshamans on the reservation. Of these, only one shaman — referred to as "Ancient One" — had ever participated in the peyote camp. This near-total disaffiliation underscores the completeness of peyote"s delegitimization. The pseudoshamans who continued to use peyote were believed to have suffered "turning back" of the power, a concept denoting the reversal or punitive reversal of supernatural power against its user. Specific instances were cited: one pseudoshaman lost a leg, another had relatives killed. These outcomes were interpreted as confirming peyote's uniformly evil nature, reinforcing the community's collective decision to abandon peyote ceremonies entirely. The abandonment was thus not a response to external prohibition but to internally generated conclusions about peyote's inherent malevolence, arrived at through the accumulation of perceived evidence of its harmful effects.
 
 ## Apache Personality Structure
 

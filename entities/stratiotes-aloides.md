@@ -41,7 +41,7 @@ Water soldier has become an invasive species in parts [[constructed-wetland-desi
 
 **Authority:** Linnaeus (1753)
 
-Stratiotes is a monotypic genus, meaning it contains only this single species. The genus name derives from the Greek word "stratiotes" meaning soldier, referring to the plant's armored, sword-like leaf appearance.
+Stratiotes is a monotypic genus, meaning it contains only this single species. The genus name derives from the Greek word "stratiotes" meaning soldier, referring to the plant"s armored, sword-like leaf appearance.
 
 The species epithet "aloides" means "aloe-like," referencing the resemblance of the leaf rosette to terrestrial Aloe species. Common names include water soldier, water aloe, and crab's claw in various [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]]. Male flowers are more commonly observed than female flowers, and successful [[dighton-fungal-biomass-production-aquatic-ecosystems]]. Floating rosettes create microhabitats for invertebrates, amphibian larvae, and small fish seeking refuge from predators.
 

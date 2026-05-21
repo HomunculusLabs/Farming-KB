@@ -4,7 +4,7 @@ tags: [dragon-fruit, pitaya, tropical-fruit, cactus, cultivation, permaculture]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "Royal Horticultural Society (RHS). 'Hylocereus (Dragon Fruit).' rhs.org.uk."
+  - "Royal Horticultural Society (RHS). "Hylocereus (Dragon Fruit).' rhs.org.uk."
 ---
 
 ## Dragon Fruit (Pitaya) Cultivation and Variety Guide

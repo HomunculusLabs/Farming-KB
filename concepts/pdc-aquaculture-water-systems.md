@@ -24,9 +24,9 @@ means the pond is over-manured; visible at five feet means it needs more.
 ## Pond Polyculture
 ### The Trophic Ladder
 "We want careful adjustment of maybe 20 species of plants and small
-animals low on the trophic ladder." Small forage ponds at different pH's
+animals low on the trophic ladder." Small forage ponds at different pH"s
 trickle into the main pond: "What is [[coleman-soil-heat-storage-diurnal-freeze-thaw-cycle]]
-5. "The more you play with water, the more fascinating things you'll see."
+5. "The more you play with water, the more fascinating things you"ll see."
 ## Large Dams
 "Large dams such as the Aswan or any of those dams are mostly negative."
 They trap silt, reduce fertility, increase disease, change fisheries.

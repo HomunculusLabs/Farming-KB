@@ -40,7 +40,7 @@ steric and electronic properties compared to linear alkyl chains.
 The synthesis of 2C-T-9 employs a notably different first step compared to
 other 2C-T compounds. Rather than starting from 2,5-dimethoxythiophenol, the
 synthesis begins with hydroquinone dimethyl ether (p-dimethoxybenzene), which
-is lithiated using butyllithium and N,N,N',N'-tetramethylethylenediamine in
+is lithiated using butyllithium and N,N,N",N'-tetramethylethylenediamine in
 [[petroleum-ether]] under helium atmosphere. The aryl lithium intermediate reacts
 with di-(tert)-butyl disulfide to install the tert-butylthio group, yielding
 2,5-dimethoxyphenyl tert-butyl sulfide as a white mobile liquid. This

@@ -1,5 +1,5 @@
 ---
-title: Allegro's End of a Road and Personal Motivation
+title: Allegro"s End of a Road and Personal Motivation
 created: 2026-04-16
 updated: 2026-04-16
 type: concept
@@ -7,7 +7,7 @@ tags: [history, allegro]
 sources:
   - "raw/papers/allegro-j-the-sacred-mushroomcross.md"
 ---
-## Allegro's End of a Road and Personal Motivation
+## Allegro"s End of a Road and Personal Motivation
 
 The question of what motivated [[john-allegro]] to write
 [The [[allegro-old-testament-figures-as-fertility-deities]] Studies at Manchester University
@@ -35,7 +35,7 @@ was the incarnation of God, bringing with him the New Covenant that represented
 a sudden and decisive rupture with the Old.
 
 These worries eventually proved unfounded: the Scrolls did not form a missing
-link as such. But the Church's demands for caution [frustrated Allegro, who responded by
+link as such. But the Church"s demands for caution [frustrated Allegro, who responded by
 publishing his own popular book, The Dead Sea Scrolls (1956), against the
 wishes of his colleagues.
 

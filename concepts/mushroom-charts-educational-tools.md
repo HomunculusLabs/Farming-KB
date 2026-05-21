@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-Julius Auboineau Palmer's mushroom charts, published by L. Prang and Company of Boston,
+Julius Auboineau Palmer"s mushroom charts, published by L. Prang and Company of Boston,
 represent a landmark in American mycological education. Issued as twelve colored
 lithographic plates, they were the first illustrated guides produced in the United States
 specifically to help ordinary people — those with no botanical training — distinguish
@@ -19,7 +19,7 @@ of the late nineteenth and early twentieth centuries.
 
 L. Prang and Company, the esteemed Boston lithography firm founded by [[louis-prang]] (often
 called the "father of the American Christmas card"), was the natural publisher for such
-an ambitious visual project. Prang's firm was renowned for its chromolithographic work,
+an ambitious visual project. Prang"s firm was renowned for its chromolithographic work,
 producing vivid, botanically faithful color plates that could be distributed widely at
 relatively affordable cost. The partnership between Palmer's mycological knowledge and
 Prang's technical expertise in color printing made the charts both scientifically useful
@@ -131,7 +131,7 @@ Palmer's mushroom charts occupy an important place in the history of [[early-ame
 ## Palmer's Poetic Vision
 
 Palmer closed his discussion of the charts with a poetic reflection, describing mushrooms
-as **"commas in sweet nature's book"** — small, easily overlooked punctuation marks that
+as **"commas in sweet nature"s book"** — small, easily overlooked punctuation marks that
 give structure and meaning to the larger text of the natural world. This metaphor captures
 both the humility and the ambition of Palmer's educational project: understanding
 mushrooms is essential to reading the book of nature correctly.

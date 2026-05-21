@@ -1,5 +1,5 @@
 ---
-title: Mycorestoration Overview — Stamets' Four-Branch Framework
+title: Mycorestoration Overview — Stamets" Four-Branch Framework
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -72,7 +72,7 @@ Stamets frames mycorestoration as urgently needed:
 
 ### Move It or Lose It
 
-Stamets' motto for cultivators: "Mycelium consumes its preferred habitat resources and then strategizes for transporting itself to new niches. Unless the mycelium is recharged with basic nutrients, it will move on as it transforms debris fields into soil."
+Stamets" motto for cultivators: "Mycelium consumes its preferred habitat resources and then strategizes for transporting itself to new niches. Unless the mycelium is recharged with basic nutrients, it will move on as it transforms debris fields into soil."
 
 A mycelium grower is "a mycelial herdsman" — success is temporary, requiring constant attention to keep the mycelium nourished and expanding.
 
@@ -80,7 +80,7 @@ A mycelium grower is "a mycelial herdsman" — success is temporary, requiring c
 
 ### Mushrooms Predestine Biological Communities
 
-Research by Tornberg, Baatli, and Olsson (2003) supports Stamets' hypothesis that:
+Research by Tornberg, Baatli, and Olsson (2003) supports Stamets" hypothesis that:
 - Most saprophytic fungi predestine and steer subsequent biological communities
 - Mushrooms select for specific bacterial communities through their antibiotic secretions
 - These bacterial communities influence all other organisms in the food web, particularly plants

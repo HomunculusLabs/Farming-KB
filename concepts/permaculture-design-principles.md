@@ -6,7 +6,7 @@ type: concept
 
 ## Permaculture Design Principles
 
-[[bill-mollison]]'s 1981 [[permaculture-design]] Course laid out a set of foundational principles, laws, axioms, and directives governing the design of sustainable systems. These emerged from the study of natural ecosystems and represent a shift from passive ecological observation to active, purposeful design. This page covers the core principles relating to energy, resources, diversity, yield, and the nature of order itself.
+[[bill-mollison]]"s 1981 [[permaculture-design]] Course laid out a set of foundational principles, laws, axioms, and directives governing the design of sustainable systems. These emerged from the study of natural ecosystems and represent a shift from passive ecological observation to active, purposeful design. This page covers the core principles relating to energy, resources, diversity, yield, and the nature of order itself.
 
 ## Framework: Laws, Principles, Axioms, and Directives
 
@@ -24,7 +24,7 @@ This framework acknowledges that [[permaculture]] draws from both [[fukuoka-fall
 
 ### The Energy Flow Model
 
-Permaculture design operates within the context of Earth's energy budget, which receives a fairly constant input from the sun (a renewable but finite source). The designer's work occurs between the **source** (energy input) and the **sink** (where energy is lost or dissipated).
+Permaculture design operates within the context of Earth"s energy budget, which receives a fairly constant input from the sun (a renewable but finite source). The designer's work occurs between the **source** (energy input) and the **sink** (where energy is lost or dissipated).
 
 The core design principle is: **the more useful storages we can create between source and sink, the better the design.** The skill of the designer lies in building complexity into energy flow — directing energy through multiple productive uses before it escapes the system.
 
@@ -105,7 +105,7 @@ He characterized the straight-row American farm and the manicured British garden
 
 > "Creativity is seldom tidy."
 
-The tolerance for disorder is, in Mollison's view, one of the few healthy signs in life. A healthy system has messiness, edge effects, and apparent randomness that actually represents high functional complexity. The permaculture designer must be able to see and work with this complexity rather than impose geometric tidiness.
+The tolerance for disorder is, in Mollison"s view, one of the few healthy signs in life. A healthy system has messiness, edge effects, and apparent randomness that actually represents high functional complexity. The permaculture designer must be able to see and work with this complexity rather than impose geometric tidiness.
 
 ## Yield: Redefining Productivity
 

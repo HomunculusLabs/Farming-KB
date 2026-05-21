@@ -12,7 +12,7 @@ Contamination is the single most common cause of failure in amateur mushroom cul
 
 ### What Is Contamination?
 
-In the context of mushroom cultivation, "contamination" refers to the growth of any organism other than the desired [[antimicrobial-compounds-mushroom-mycelium]] on the substrate. Since [[mycoremediation-mushroom-cultivation-contaminated-substrates]] cannot be salvaged. Once a contaminant organism is established in a substrate jar, it cannot be removed without destroying the jar's contents. This is because contaminants spread through the same substrate that the mushroom mycelium colonizes, and there is no way to selectively eliminate the contaminant without killing the desired mycelium. Prevention is therefore far more important than treatment.
+In the context of mushroom cultivation, "contamination" refers to the growth of any organism other than the desired [[antimicrobial-compounds-mushroom-mycelium]] on the substrate. Since [[mycoremediation-mushroom-cultivation-contaminated-substrates]] cannot be salvaged. Once a contaminant organism is established in a substrate jar, it cannot be removed without destroying the jar"s contents. This is because contaminants spread through the same substrate that the mushroom mycelium colonizes, and there is no way to selectively eliminate the contaminant without killing the desired mycelium. Prevention is therefore far more important than treatment.
 
 ## Common Contaminants
 

@@ -9,12 +9,12 @@ tags:
 In *Food of the Gods*, [[eleusinian-mysteries]].
 
 **Hell**: The modern period of synthetic drugs, global drug cartels, government
-hypocrisy, and the "[[mckenna-dominator-culture-and-suppression-of-ecstasy]]'s most
+hypocrisy, and the "[[mckenna-dominator-culture-and-suppression-of-ecstasy]]"s most
 extreme expression of its fear of altered consciousness. This section covers opium,
 tobacco, heroin, cocaine, and what McKenna provocatively called "the electronic drug"
 of television.
 
-**[[mckenna-modest-proposal-drug-policy-reform]] to encompass the dominator culture's
+**[[mckenna-modest-proposal-drug-policy-reform]] to encompass the dominator culture"s
 suppression of the feminine, the foreign, and all forms of transcendent experience.
 McKenna argued that "the terror the ego feels in contemplating the dissolution of
 boundaries between self and world not only lies behind the suppression of [[partnership-vs-dominator-culture-models]]

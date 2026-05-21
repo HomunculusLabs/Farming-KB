@@ -35,7 +35,7 @@ Pulvini function as hydraulic joints: upon stimulation, cells on one side rapidl
 turgor pressure through potassium ion (K⁺) efflux and water movement, while opposite
 cells maintain rigidity, causing the structure to fold.
 
-The electrical signal travels through the plant's phloem at speeds up to several cm/s
+The electrical signal travels through the plant"s phloem at speeds up to several cm/s
 — far slower than animal nerve impulses but impressive without neurons. The signal
 propagates over considerable distances, causing leaflets well beyond the contact point
 to fold in a visible wave.

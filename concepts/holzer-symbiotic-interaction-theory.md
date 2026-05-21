@@ -10,7 +10,7 @@ type: concept
 
 ## Holzer Symbiotic Interaction Theory - Plant Communication and Exchange
 
-Holzer's concept of symbiotic interaction describes how plants in a diverse
+Holzer"s concept of symbiotic interaction describes how plants in a diverse
 community communicate, share resources, and support each other through
 underground fungal networks. This understanding forms the scientific
 foundation for his polyculture approach and explains why monocultures are

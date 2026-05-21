@@ -20,7 +20,7 @@ early 1960s with Ralph Metzner and [[ayahuasca-pharmacology-and-cultural-context
 - **Motivation**: The deeper psychological drives that lead a person to
   seek a psychedelic experience — curiosity, therapeutic need, spiritual
   seeking, or social bonding.
-- **Emotional state**: The person's mood and emotional condition at the
+- **Emotional state**: The person"s mood and emotional condition at the
   time of ingestion, including unresolved anxieties, traumas, or joys.
 - **Personality structure**: Long-standing psychological patterns, defenses,
   and cognitive styles that shape how experiences are processed.

@@ -31,7 +31,7 @@ Farmers markets are the primary sales channel for homestead-scale producers. The
 
 ### Common Requirements
 - Business license (county or city level)
-- Sales tax permit / seller's permit
+- Sales tax permit / seller"s permit
 - Cottage food license (for processed foods: baked goods, jams, dried herbs)
 - Weights and measures certification (if selling by weight)
 - Health department permit (for some products -- varies by state)
@@ -121,7 +121,7 @@ Check your state's cottage food law for specifics -- see homestead tax planning 
 ### Pricing Tips
 - Price per unit (each) for larger items, per pound for smaller
 - Bundle deals: "3 for $10" moves more volume
-- Early bird specials: discount last-week's produce at market open
+- Early bird specials: discount last-week"s produce at market open
 - Honor system: some vendors use self-serve for packaged goods
 
 ## Customer Relationships

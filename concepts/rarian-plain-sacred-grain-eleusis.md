@@ -9,17 +9,17 @@ sources:
 ---
 ## Rarian Plain — Sacred Grain of Eleusis
 
-**Source:** The [[eleusinian-hierophantic-families-eumolpidae-kerykes]]. Its proximity to the sanctuary was likely the very reason Eleusis was chosen as Demeter's temple site.
+**Source:** The [[eleusinian-hierophantic-families-eumolpidae-kerykes]]. Its proximity to the sanctuary was likely the very reason Eleusis was chosen as Demeter"s temple site.
 
 ## Geographic Significance
 
-"The famous Rarian plain was adjacent to Eleusis. Indeed this may well have led to the choice of Eleusis for Demeter's temple, and for the growth of the sacred grain." The plain was part of the broader Thriasian plain, the agricultural heartland of western Attica.
+"The famous Rarian plain was adjacent to Eleusis. Indeed this may well have led to the choice of Eleusis for Demeter"s temple, and for the growth of the sacred grain." The plain was part of the broader Thriasian plain, the agricultural heartland of western Attica.
 
 The Thriasian plain extended across much of the Eleusinian territory, providing the grain surplus that made Eleusis economically significant. The Rarian section of this plain — the portion immediately adjacent to the sanctuary — was set apart from ordinary agriculture and dedicated exclusively to the Mysteries. This separation of sacred and profane agricultural land parallels the careful distinction maintained throughout the Eleusinian ritual between the ordinary world and the realm of the sacred.
 
 ## Sacred Barley Cultivation
 
-Triptolemus's "sacred barley, solemnly grown in the Rarian plain and threshed on his floor, was the principle ingredient in the potion drunk by the initiates in preparation for the culminating vision." The cultivation, harvesting, and processing of this barley was a carefully guarded ritual procedure managed by the [[claviceps-purpurea-chemistry-and-water-soluble-ergot-alkaloids]] ([[ololiuhqui-morning-glory-ergot-alkaloid-connection]].
+Triptolemus"s "sacred barley, solemnly grown in the Rarian plain and threshed on his floor, was the principle ingredient in the potion drunk by the initiates in preparation for the culminating vision." The cultivation, harvesting, and processing of this barley was a carefully guarded ritual procedure managed by the [[claviceps-purpurea-chemistry-and-water-soluble-ergot-alkaloids]] ([[ololiuhqui-morning-glory-ergot-alkaloid-connection]].
 
 ## The Pelanos
 

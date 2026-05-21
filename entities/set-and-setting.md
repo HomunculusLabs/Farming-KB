@@ -29,13 +29,13 @@ created: 2026-05-07
 
 ### Harvard Psilocybin Project (1960–1962)
 
-The concept emerged from the Harvard Psilocybin Project, where Leary, Alpert, and Metzner administered psilocybin to hundreds of volunteers — including prisoners, graduate students, divinity students, and artists. They observed that identical doses produced dramatically different experiences depending on the participant's mindset and surrounding conditions, leading them to formalize "set and setting" as a fundamental principle.
+The concept emerged from the Harvard Psilocybin Project, where Leary, Alpert, and Metzner administered psilocybin to hundreds of volunteers — including prisoners, graduate students, divinity students, and artists. They observed that identical doses produced dramatically different experiences depending on the participant"s mindset and surrounding conditions, leading them to formalize "set and setting" as a fundamental principle.
 
 Their 1964 book *The [[sacred-mushroom-use-mexico-teonanacatl-indigenous-traditions]]**: [[mazatec-people]] mushroom rituals**: Conducted in darkness by a *curandera* with ritual prayers
 - **[[metzner-set-and-setting-hypothesis-origins-and-extensions]]:
 
 - A 2016 meta-analysis found therapeutic alliance and preparation quality were stronger outcome predictors than dose
-- [[default-mode-network-and-ego-dissolution]] response to psychedelics is modulated by the participant's psychological state
+- [[default-mode-network-and-ego-dissolution]] response to psychedelics is modulated by the participant"s psychological state
 - Imperial College London trials found "acute experience quality" predicted 6-month outcomes better than baseline severity
 
 ## Harm Reduction Framework

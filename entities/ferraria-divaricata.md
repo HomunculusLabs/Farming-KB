@@ -19,7 +19,7 @@ Ferraria divaricata is a cormous perennial in the family Iridaceae, native to th
 
 It is commonly known as the spreading spider iris, referring to the intricately branched, star-shaped flowers that resemble spider legs. The blooms display a complex pattern of frilled edges and contrasting color markings.
 
-The intricate flowers are among the most complex in the iris family, combining frilled tepal margins with dramatic color patterns that have fascinated botanists since the species' early description.
+The intricate flowers are among the most complex in the iris family, combining frilled tepal margins with dramatic color patterns that have fascinated botanists since the species" early description.
 
 The genus Ferraria comprises approximately 14 species, all endemic to sub-Saharan Africa. Ferraria divaricata is one of the more widely distributed members of the genus, occurring across several vegetation types.
 

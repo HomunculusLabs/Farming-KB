@@ -18,7 +18,7 @@ lectures drew students from across disciplines and ignited lasting
 interest in the fungal kingdom.
 
 [[john-dighton]], author of *Fungi in Ecosystem Processes*, credits
-Ingold's lectures at the University of London as the formative
+Ingold"s lectures at the University of London as the formative
 inspiration that set him on the path toward a career in mycology.
 Ingold's ability to communicate the beauty and ecological significance
 of fungi left an indelible mark on generations of scientists.

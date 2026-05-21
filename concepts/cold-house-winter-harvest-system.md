@@ -33,7 +33,7 @@ refine sowing dates from year to year.
 
 The third and most innovative component is the double-layer protection system. The
 outer layer is a standard unheated hoop house (gothic-arch, pipe-frame, plastic-
-covered). Coleman's commercial houses are 30 feet wide and 96 feet long, aligned on
+covered). Coleman"s commercial houses are 30 feet wide and 96 feet long, aligned on
 an east-west axis. The inner layer is floating row cover material (spunbonded
 polyester) supported by flat-topped wire wickets at approximately 12 inches above the
 soil surface, spaced every 4 feet along the length of 30-inch-wide growing beds.

@@ -37,7 +37,7 @@ The UK Treasury had been collecting approximately £175,000 per year in sales ta
 
 ### Ireland (February 2006)
 
-Ireland's legislation criminalised possession or sale of "fungus of any kind or description, which contains psilocin or an ester of psilocin." The law included an exemption for mushrooms "growing uncultivated," reflecting the challenge of criminalising naturally occurring organisms. The change was reportedly prompted by increasingly commonplace sales and the death of a young man after consuming [[psilocybe-semilanceata]], [[cervantes-grow-room-security-law-enforcement]].
+Ireland"s legislation criminalised possession or sale of "fungus of any kind or description, which contains psilocin or an ester of psilocin." The law included an exemption for mushrooms "growing uncultivated," reflecting the challenge of criminalising naturally occurring organisms. The change was reportedly prompted by increasingly commonplace sales and the death of a young man after consuming [[psilocybe-semilanceata]], [[cervantes-grow-room-security-law-enforcement]].
 
 ## Enforcement and Seizures
 

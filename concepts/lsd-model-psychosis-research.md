@@ -17,7 +17,7 @@ When [[albert-hofmann]] first described the effects of LSD to his colleagues at 
 
 This idea was not entirely new. The concept of using pharmacological agents to produce "model psychoses" had been explored since the late [[mckenna-club-des-hachischins-and-nineteenth-century-literary-hashish]], with various substances proposed as candidates. But none had proven satisfactory until LSD, which produced the most convincing and comprehensive simulation of psychotic states yet observed.
 
-## W. A. Stoll's Pioneering Studies
+## W. A. Stoll"s Pioneering Studies
 
 The first systematic investigation of LSD's model psychosis potential was conducted by W. A. Stoll, son of Professor Arthur Stoll and a psychiatrist at the Zurich University Psychiatric Clinic. His 1947 paper on LSD was the first scientific publication on the new substance and established the framework for all subsequent model psychosis research.
 

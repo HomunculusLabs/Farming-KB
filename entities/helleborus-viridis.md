@@ -17,7 +17,7 @@ sources:
 
 Helleborus viridis, the green hellebore, is a herbaceous perennial in the family Ranunculaceae native to western and central Europe. It is one of the more subtle species in the genus, producing nodding, cup-shaped green flowers in late winter [[helleborus-orientalis]] (Lenten rose) by its pure green flowers and more compact habit. Green hellebores are valued for their early bloom time and shade tolerance.
 
-Helleborus viridis has a long history in European folk medicine and folklore, associated with both healing and toxicity. The genus name derives from the Greek words "elein" (to injure) and "bora" (food), referencing the plant's poisonous nature.
+Helleborus viridis has a long history in European folk medicine and folklore, associated with both healing and toxicity. The genus name derives from the Greek words "elein" (to injure) and "bora" (food), referencing the plant"s poisonous nature.
 
 The species is less commonly grown in gardens than H. orientalis hybrids but is appreciated by collectors for its species purity and naturalistic appearance. It naturalizes readily in woodland settings.
 

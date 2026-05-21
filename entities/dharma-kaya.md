@@ -63,7 +63,7 @@ The Dharma-Kaya is not a deity to be worshipped but a state to be realized throu
 
 ## Relation to Other Entities
 
-- **Sambhoga-Kaya**: The second body, reflecting Dharma-Kaya's wisdom in five [[dhyani-buddhas]].
+- **Sambhoga-Kaya**: The second body, reflecting Dharma-Kaya"s wisdom in five [[dhyani-buddhas]].
 - **Nirmana-Kaya**: The third body, the practical incarnate expression.
 - **Adi-Kaya**: Synonymous with Dharma-Kaya — primordial consciousness itself.
 - **Clear Light**: The experiential manifestation of Dharma-Kaya in the First Bardo.

@@ -27,7 +27,7 @@ From Chapter 3 of *Mycelium Running* by [[paul-stamets]]. Understanding where mu
 
 Most mushrooms are mycorrhizal — they form symbiotic partnerships with tree roots. These species are extremely difficult to cultivate because they require living plants as partners. Approximately 90% of all land plants have mycorrhizal associates. Mycorrhizal mushrooms include prized edibles like chanterelles, matsutake, porcini, and truffles. See [[mycorrhizal-networks]] for details.
 
-## Saprophytic Mushrooms — The Cultivator's Friends
+## Saprophytic Mushrooms — The Cultivator"s Friends
 
 Saprophytic mushrooms decompose dead organic matter. These are the species that can be cultivated. Key natural habitats include:
 

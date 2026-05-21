@@ -8,7 +8,7 @@ type: concept
 
 Most home gardeners follow a remarkably similar routine: each spring, they apply water-soluble, high-nitrogen fertilizer to their lawns, spray broadleaf herbicides on weeds, and rototill their garden beds until the soil resembles finely ground coffee. Throughout the season, they continue applying chemical fertilizers, and when pests or diseases appear, they respond with insecticides and fungicides. This cycle, repeated for decades across millions of gardens, represents what might be called the **chemical gardening paradigm**.
 
-## The Typical Chemical Gardener's Routine
+## The Typical Chemical Gardener"s Routine
 
 The authors of "Teaming with Microbes" describe themselves as formerly "typical suburban gardeners" who followed this exact pattern:
 
@@ -23,7 +23,7 @@ Many gardeners simultaneously believed they were being environmentally responsib
 
 ## The Core Misconception: "Nitrogen Is Nitrogen"
 
-The central belief underpinning chemical gardening is that plants cannot distinguish between nitrogen from an organic source (like composted manure) and nitrogen from a synthetic source (like a bag of blue powder mixed with water). According to this view, NPK is NPK—it's all the same to the plant.
+The central belief underpinning chemical gardening is that plants cannot distinguish between nitrogen from an organic source (like composted manure) and nitrogen from a synthetic source (like a bag of blue powder mixed with water). According to this view, NPK is NPK—it"s all the same to the plant.
 
 This belief is **partially true but fundamentally misleading**. It's true that plants absorb nitrogen primarily as nitrate (NO₃⁻) or ammonium (NH₄⁺) ions regardless of the original source. However, the **pathway** by which nitrogen reaches the plant, and the **side effects** of that pathway, differ dramatically between organic and synthetic approaches.
 

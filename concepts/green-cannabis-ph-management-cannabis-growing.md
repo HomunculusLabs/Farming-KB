@@ -16,7 +16,7 @@ type: concept
 # pH Management for Cannabis Growing
 
 pH is one of the three main factors to consider when evaluating growing
-medium for cannabis (along with nutrients and structure). Greg Green's
+medium for cannabis (along with nutrients and structure). Greg Green"s
 "The Cannabis [[ph-and-nutrient-availability-garden-soils]] and overall plant health. pH problems
 can cause [[substrate-ph-management]] for detailed pH management guidance.
 

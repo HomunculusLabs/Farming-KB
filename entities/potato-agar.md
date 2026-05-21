@@ -15,7 +15,7 @@ Potato agar is a simple, inexpensive agar growth medium used in [[accessible-mus
 - **Category:** Growth medium
 - **Field:** Mycology / Tissue culture
 - **Type:** Basic agar formula
-- **Alternatives:** [[malt-extract-agar]], dog food agar, cornmeal agar, tomato juice agar, brewer's malt agar
+- **Alternatives:** [[malt-extract-agar]], dog food agar, cornmeal agar, tomato juice agar, brewer"s malt agar
 
 ## Key Facts
 

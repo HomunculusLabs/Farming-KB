@@ -13,7 +13,7 @@ The story of ergot and lysergic acid ([[eleusinian-mysteries-history-and-structu
 
 ## Ergotism: The Plague of the Middle Ages
 
-Ergot's history is not only sacred—it is also horrific. Two clinical types of ergotism have been documented:
+Ergot"s history is not only sacred—it is also horrific. Two clinical types of ergotism have been documented:
 
 - **Gangrenous ergotism (St. Anthony's Fire):** Begins with tingling in fingers, vomiting, and diarrhea, followed by dry gangrene of limbs and their eventual separation from the body.
 - **Convulsive ergotism:** Similar onset but followed by painful spasms of limb muscles culminating in epileptic-like convulsions. Many patients become delirious.

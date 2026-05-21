@@ -40,7 +40,7 @@ of the 1960s, and the ongoing effort to understand consciousness itself.
 
 ## The Ergot Connection
 
-LSD's story begins not in a laboratory but in grain fields across
+LSD"s story begins not in a laboratory but in grain fields across
 Europe, where the parasitic fungus [[lysergic-acid-amide-containing-plants-halpern]] derivatives, first synthesized on
 November 16, 1938. Initial pharmacological testing showed mild uterine
 contraction effects but nothing extraordinary, and the compound was set

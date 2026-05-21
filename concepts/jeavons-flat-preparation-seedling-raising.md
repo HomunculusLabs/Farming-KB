@@ -21,7 +21,7 @@ The standard flat size is 3 inches deep by 14 inches wide by 23 inches long. For
 
 The depth is critical. An overly shallow flat allows the seedling roots to touch the bottom too soon. When this occurs, the plants believe they have reached their growth limit and enter a state of "premature senility" — they begin to flower and fruit even though they are only transplanting size. This has been observed with broccoli (heads the size of a fingernail) and dwarf marigolds.
 
-If plants must remain in a container for more than 4 to 6 weeks, use a half-sized flat that is 6 inches deep. The flat's length and width are not as critical, but they should not become too large or the flat will be hard to carry.
+If plants must remain in a container for more than 4 to 6 weeks, use a half-sized flat that is 6 inches deep. The flat"s length and width are not as critical, but they should not become too large or the flat will be hard to carry.
 
 ## Flat Soil Mix
 

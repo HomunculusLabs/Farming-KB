@@ -20,7 +20,7 @@ Mycorrhizae (literally "fungus-root") are symbiotic associations where fungal hy
 
 ### Ectomycorrhizal (ECM)
 - Fungus forms a sheath (mantle) around the root tip
-- Hyphae extend between root cells but don't penetrate them
+- Hyphae extend between root cells but don"t penetrate them
 - Associated with trees: pine, oak, birch, Douglas fir, spruce, hemlock
 - Mushroom partners: boletus, chanterelle, matsutake, amanita, lactarius, russula
 - Networks visible as white/cream threads around root tips
@@ -53,7 +53,7 @@ A single mycorrhizal network can:
 - Share carbon between trees of different species
 - Create a "common mycorrhizal network" (CMN) linking an entire forest
 
-The network's effective root surface area is 10-1,000x larger than the plants' own roots alone.
+The network"s effective root surface area is 10-1,000x larger than the plants' own roots alone.
 
 ## Mother Trees and Forest Intelligence
 

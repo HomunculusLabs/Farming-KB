@@ -23,7 +23,7 @@ An FDA report compared marijuana to seventeen common FDA-approved pharmaceutical
 
 ### Lethal Dose Calculations
 
-Blesching cites two laboratory estimates of cannabis's lethal dose:
+Blesching cites two laboratory estimates of cannabis"s lethal dose:
 
 - **1973 study:** Median lethal oral dose of THC in rats was 800-1,900 mg/kg, extrapolating to approximately **200 grams of herb per kilogram of body weight** in humans. A 70 kg (154 lb) person would need to consume roughly **14 kg (31 lbs)** of cannabis to approach a fatal dose.
 - **2004 study:** Even more conservative, estimating that **628 kg of cannabis would need to be smoked in 15 minutes** to induce a lethal effect — a physical impossibility.

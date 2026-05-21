@@ -9,7 +9,7 @@ The concepts of memory and spatial awareness in plants challenge fundamental
 assumptions about what it means to be a sentient organism. Plants lack brains,
 neurons, and nervous systems, yet they demonstrate both the ability to
 remember past experiences and to maintain an internal representation of their
-body's orientation in space. These capabilities, documented extensively in
+body"s orientation in space. These capabilities, documented extensively in
 [[brassinosteroid-physiological-mechanisms-cell-elongation-division]] that are fundamentally different from animal
 cognition but achieve functionally similar outcomes in terms of adaptive
 behavior.

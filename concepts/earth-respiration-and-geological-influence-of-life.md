@@ -18,7 +18,7 @@ It is possible — and observable — in Iran, Greece, North Africa, the USA, Me
 
 Mollison describes this process poignantly: poor goatherds wander where lake-forests once stood and forest deities were worshipped. Religions of resignation and fanaticism follow those of the nature gods, and human-built temples replace trees and tree spirits. This cultural and spiritual transition parallels and reflects the physical degradation of the landscape.
 
-If the destruction persists, the ultimate outcome is a moon-landscape — a surface stripped of soil, vegetation, and the biological processes that create and maintain the thin living layer that makes complex life possible on Earth's surface.
+If the destruction persists, the ultimate outcome is a moon-landscape — a surface stripped of soil, vegetation, and the biological processes that create and maintain the thin living layer that makes complex life possible on Earth"s surface.
 
 ## Life as an Erosion Moderator
 

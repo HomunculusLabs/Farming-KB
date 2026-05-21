@@ -13,7 +13,7 @@ sources:
 
 ## Munn and the Mazatec Mushroom Oracular Cure
 
-[[henry-munn]]'s essay "The [[mazatec-mushrooms-of-language]]" appears in [[psilocybin-mushroom-biology-chemistry]] for details on the pharmacology and [[maria-sabina]]-mazatec-mushroom-curandera and [[three-pillars-mushroom-cultivation-spawn-substrate-environment]].
+[[henry-munn]]"s essay "The [[mazatec-mushrooms-of-language]]" appears in [[psilocybin-mushroom-biology-chemistry]] for details on the pharmacology and [[maria-sabina]]-mazatec-mushroom-curandera and [[three-pillars-mushroom-cultivation-spawn-substrate-environment]].
 
 ## The Shaman as Speaker
 
@@ -25,7 +25,7 @@ Everyone is enjoined to keep silent and listen while the shaman speaks for each 
 
 The shaman speaks, chants, and sings the truth — described as "oral poets of their people, doctors of the word."
 
-The Mazatecs say "the mushrooms speak" — if you ask a shaman where imagery comes from: "I didn't say it, the mushrooms did."
+The Mazatecs say "the mushrooms speak" — if you ask a shaman where imagery comes from: "I didn"t say it, the mushrooms did."
 
 Mushrooms liberate not only perceptual spontaneity but linguistic spontaneity.
 
@@ -53,7 +53,7 @@ The mushrooms are the awakeners of the spirit, the food of the luminous one.
 
 ## Words as Medicine — The Poesis of Healing
 
-Munn draws on Lévi-Strauss's observation: "The psychoanalyst listens, whereas the shaman speaks."
+Munn draws on Lévi-Strauss"s observation: "The psychoanalyst listens, whereas the shaman speaks."
 
 The shaman provides the sick person with a language for unexpressed and otherwise inexpressible psychic states.
 
@@ -81,7 +81,7 @@ The shaman also works over the sick through massage and suction, their intoxicat
 
 ## The Participant Observer Dilemma
 
-Munn's essay illustrates the eternal dilemma of the participant observer.
+Munn"s essay illustrates the eternal dilemma of the participant observer.
 
 For hallucinogenic experiences, the dilemma is compounded: two cultural worlds plus "ordinary" and "non-ordinary" realities.
 

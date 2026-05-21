@@ -6,7 +6,7 @@ type: concept
 
 ## Overview
 
-The Second Bardo ([[chonyid-bardo]]) — "The Period of Hallucinations" — begins when both the Primary and Secondary [[clear-light]] states have been lost. In this phase, consciousness enters a realm of "karmic illusions or intense hallucinatory mixtures of game reality." The *[[bardo-thodol]]* and Leary's psychedelic adaptation both emphasize that this is the phase where preparation and the ability to maintain passive awareness become critical for a constructive experience.
+The Second Bardo ([[chonyid-bardo]]) — "The Period of Hallucinations" — begins when both the Primary and Secondary [[clear-light]] states have been lost. In this phase, consciousness enters a realm of "karmic illusions or intense hallucinatory mixtures of game reality." The *[[bardo-thodol]]* and Leary"s psychedelic adaptation both emphasize that this is the phase where preparation and the ability to maintain passive awareness become critical for a constructive experience.
 
 ## The Core Dynamic: Passive Integration vs. Ego Control
 
@@ -19,11 +19,11 @@ The experienced person maintains recognition that all perceptions come from with
 
 ## The Ocean Metaphor
 
-The text offers a powerful metaphor for the relationship between conceptual mind and visionary experience: "On the endless watery turbulence of the Pacific Ocean bobs a tiny open mouth shouting (between saline mouthfuls), 'Order! System! Explain all this!'" The cortex contains file-cards for billions of images from the history of the person, the race, and all living forms — any of which, "at the rate of a hundred million per second," can flood into awareness.
+The text offers a powerful metaphor for the relationship between conceptual mind and visionary experience: "On the endless watery turbulence of the Pacific Ocean bobs a tiny open mouth shouting (between saline mouthfuls), "Order! System! Explain all this!'" The cortex contains file-cards for billions of images from the history of the person, the race, and all living forms — any of which, "at the rate of a hundred million per second," can flood into awareness.
 
 ## Emergency Contact Protocol
 
-For those unable to maintain passive awareness, the text prescribes a specific emergency protocol: **physical contact with another person**. The voyager should go to the guide or another participant, put their head on the other's lap or chest, and concentrate on the movement and sound of breathing. This is described as "the oldest form of living communication; the brotherhood of breath." The guide's hand on the forehead may add to relaxation.
+For those unable to maintain passive awareness, the text prescribes a specific emergency protocol: **physical contact with another person**. The voyager should go to the guide or another participant, put their head on the other"s lap or chest, and concentrate on the movement and sound of breathing. This is described as "the oldest form of living communication; the brotherhood of breath." The guide"s hand on the forehead may add to relaxation.
 
 The text anticipates that contact may be misunderstood and provoke sexual hallucinations, so helping contact should be made explicit by prearrangement. The tender huddling together of participants is framed as natural — "human beings and, for that matter, most all mobile terrestrial creatures have been huddling together during long, dark confused nights for several hundred thousand years."
 
@@ -51,13 +51,13 @@ When the undifferentiated light is lost, "luminous waves of differentiated forms
 - **[[lsd-dark-experiment-visual-phenomena-psychological-effects]]**: Endless flow of colored forms, microbiological shapes, cellular acrobatics, capillary whirling — pure sensations of cellular and sub-cellular processes
 - **Auditory phenomena**: Internal sounds described as clicking, thudding, clashing, soughing, ringing, tapping, moaning, and shrill whistles — "raw, molecular, dancing units of energy"
 
-The *Bardo Thodol* contains a remarkable discussion connecting these internal sounds to Tibetan sacred music. Lamas employ seven sorts of musical instruments (drums, cymbals, conch shells, bells, timbrels, clarionets, trumpets, and human thighbone trumpets) because they are "the counterparts of the natural sounds which one's own body is heard producing when the fingers are put in the ears to shut out external sounds."
+The *Bardo Thodol* contains a remarkable discussion connecting these internal sounds to Tibetan sacred music. Lamas employ seven sorts of musical instruments (drums, cymbals, conch shells, bells, timbrels, clarionets, trumpets, and human thighbone trumpets) because they are "the counterparts of the natural sounds which one"s own body is heard producing when the fingers are put in the ears to shut out external sounds."
 
 ### Traps in Vision 2
 
 Three primary traps can derail the experience:
 
-1. **Labeling trap**: Converting the life flow into a "cosmic ink-blot test" — verbalizing each form ("Now I see a peacock's tail. Now Muslim knights in colored armor") dulls the light and stops the flow
+1. **Labeling trap**: Converting the life flow into a "cosmic ink-blot test" — verbalizing each form ("Now I see a peacock"s tail. Now Muslim knights in colored armor") dulls the light and stops the flow
 2. **Sexual interpretation trap**: Imposing personal sexual game models on the dancing, playful flow of life forms — this leads to slipping down into the Third Bardo
 3. **Physical symptom trap**: Interpreting new somatic sensations as symptoms of illness. The text emphasizes that for widely-used psychedelics, "such bodily effects are virtually never the direct effect of the drug" — all physical symptoms are created by the mind as the ego fights to maintain control
 
@@ -81,17 +81,17 @@ Several techniques can restore the biological flow:
 - Close eyes, lie on stomach, let the body sink through the floor
 - Feel the hard edges soften and start moving in the bloodstream
 - Let breathing rhythm become tide flow
-- Close physical contact with another — "Your blood begins to flow into the other's body. His breathing pours into your lungs."
+- Close physical contact with another — "Your blood begins to flow into the other"s body. His breathing pours into your lungs."
 
 ## Vision 4: Wave-Vibration Structure of External Forms
 
 With eyes open, the subject experiences "super-reality" — direct sensation of wave phenomena. Objects are no longer seen as solid but as "patterns of light waves." Sound is heard not as "music" or "meaningful sound" but as "acoustic waves." The revelation: "all sensation and perception are based on wave vibrations" — the world is a "cosmic television show" with no more substantiality than images on a picture tube.
 
-The text connects this to the Peaceful Deity Akshobhya and [[lama-govinda]]'s description of Mirror-like Wisdom: "things are freed from their 'thingness,' their isolation, without being deprived of their form" — the creative principle of mind is recognized as the active side of the universal Store Consciousness (*alaya-vijnana*), with forms arising and passing away "like the waves on the surface of the ocean."
+The text connects this to the Peaceful Deity Akshobhya and [[lama-govinda]]"s description of Mirror-like Wisdom: "things are freed from their "thingness,' their isolation, without being deprived of their form" — the creative principle of mind is recognized as the active side of the universal Store Consciousness (*alaya-vijnana*), with forms arising and passing away "like the waves on the surface of the ocean."
 
 ### The Maya Revelation
 
-The negative aspect occurs when the subject senses their "world" fragmenting into waves: "He,' 'me,' 'I' are dissolving!" The Maya nature of phenomena creates panic — "Where is the solid base? Every thing, every concept, every form upon which one rests one's mind collapses into electrical vibrations lacking solidity." The face of a loved one becomes "a dancing mosaic of impulses on one's cortex."
+The negative aspect occurs when the subject senses their "world" fragmenting into waves: "He," 'me,' 'I' are dissolving!" The Maya nature of phenomena creates panic — "Where is the solid base? Every thing, every concept, every form upon which one rests one"s mind collapses into electrical vibrations lacking solidity." The face of a loved one becomes "a dancing mosaic of impulses on one"s cortex."
 
 ### Musical Revelations
 
@@ -101,7 +101,7 @@ The most dramatic auditory phenomena occur with music: any note can be sensed as
 
 The emotional counterpart to Vision 4, this state produces a sense that "there is only one network of energy in the universe and that all things and all sentient beings are momentary manifestations of the single pattern." Superficial differences of role, caste, status, sex, species, form, power, size, beauty "disappear before the ecstatic union of all in one."
 
-The body is experienced as "a cluster of vibrations sending and receiving energy — a phase of the dance of energy which has been going on for millennia." Communication becomes unnecessary since "complete communion exists." A person can sense another's feeling directly, "as if they were his own."
+The body is experienced as "a cluster of vibrations sending and receiving energy — a phase of the dance of energy which has been going on for millennia." Communication becomes unnecessary since "complete communion exists." A person can sense another"s feeling directly, "as if they were his own."
 
 ### The Plastic Doll Phenomenon
 
@@ -119,8 +119,8 @@ The positive experience is one of "ecstatic freedom of consciousness" and "explo
 
 ## Vision 7: The Magic Theatre
 
-The most dramatic phase, where the play of forms becomes "the play of heroic figures, superhuman spirits and demigods." This corresponds to the *Bardo Thodol*'s vision of the five "Knowledge-Holding Deities," symbolizing "the highest level of individual or humanly conceivable knowledge, as attained in the consciousness of great Yogis, inspired thinkers or similar heroes of the spirit."
+The most dramatic phase, where the play of forms becomes "the play of heroic figures, superhuman spirits and demigods." This corresponds to the *Bardo Thodol*"s vision of the five "Knowledge-Holding Deities," symbolizing "the highest level of individual or humanly conceivable knowledge, as attained in the consciousness of great Yogis, inspired thinkers or similar heroes of the spirit."
 
-Archetypal figures appear in forms drawn from the voyager's cultural background — Greek, Egyptian, Nordic, Celtic, Aztec, Persian, Indian, Chinese mythology. The shapes differ but the source is the same: "concrete embodiments of aspects of the person's own psyche." The faces of other voyagers may transform into these figures — a young boy, baby, child-god, heroic stature, wise old man, woman, animal, goddess, sea-mother.
+Archetypal figures appear in forms drawn from the voyager"s cultural background — Greek, Egyptian, Nordic, Celtic, Aztec, Persian, Indian, Chinese mythology. The shapes differ but the source is the same: "concrete embodiments of aspects of the person"s own psyche." The faces of other voyagers may transform into these figures — a young boy, baby, child-god, heroic stature, wise old man, woman, animal, goddess, sea-mother.
 
 This vision represents "an illuminating voyage into the areas where the personal consciousness merges with the supra-individual" — the last step before the "breaking-through towards the universal consciousness."

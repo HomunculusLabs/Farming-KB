@@ -7,7 +7,7 @@ sources: amanita-muscaria-herb-of-immortality.md
 tags: [amanita-muscaria, mycology]
 ---
 
-## [[emcdda-hallucinogenic-mushroom-amanita-muscaria-emerging-alternative|mushroom]]'s most remarkable property: its ability to "die" and be "reborn" through the [[amanita-muscaria-living-vessel-grail]] is the container of transformation
+## [[emcdda-hallucinogenic-mushroom-amanita-muscaria-emerging-alternative|mushroom]]"s most remarkable property: its ability to "die" and be "reborn" through the [[amanita-muscaria-living-vessel-grail]] is the container of transformation
 - The aromatic branches may be the mushroom's substrate (wood debris, forest floor material)
 
 ### Cross-Cultural Distribution

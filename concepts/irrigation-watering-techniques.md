@@ -9,7 +9,7 @@ sources: [raw/papers/gardening-when-it-counts-steve-solomon.md]
 
 # Irrigation and Watering Techniques
 
-Sprinkler irrigation and fertigation methods from [[steve-solomon]]'s *[[gardening-when-it-counts]]*. Solomon provides a scientific framework for efficient garden irrigation.
+Sprinkler irrigation and fertigation methods from [[steve-solomon]]"s *[[gardening-when-it-counts]]*. Solomon provides a scientific framework for efficient garden irrigation.
 
 ## The Science of Soil Moisture
 
@@ -42,7 +42,7 @@ Consumer-grade "lawn and garden" sprinklers are not rated for application rate l
 2. Put one near the sprinkler, one at the outer limit of reach, and a couple in between
 3. Run the sprinkler for exactly 20 or 30 minutes
 4. Measure the depth of water in each container, average those amounts
-5. Calculate the sprinkler's application rate per hour
+5. Calculate the sprinkler"s application rate per hour
 
 ### Typical Application Rates
 

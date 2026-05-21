@@ -10,7 +10,7 @@ type: concept
 
 Fungal mycelia can be analyzed as spatial networks using graph theory, providing quantitative tools to characterize their architecture, transport efficiency, and resilience. Cord-forming basidiomycetes such as *[[phanerochaete-velutina]]* produce interconnected networks of linear organs (cords) that forage for and translocate resources across soil and wood substrates. By translating these physical structures into abstract graph representations, researchers can apply well-established network metrics to compare fungal [[mycelial-cord-network-topology-graph-theory-bebber]] with both random and model networks, revealing how fungal growth strategies balance exploration with exploitation.
 
-This approach, documented extensively in Gadd et al.'s *Fungi in the Environment* (Chapter 1), draws on techniques from spatial graph theory and complex network science to provide a rigorous, quantitative framework for understanding mycelial foraging and nutrient dynamics.
+This approach, documented extensively in Gadd et al."s *Fungi in the Environment* (Chapter 1), draws on techniques from spatial graph theory and complex network science to provide a rigorous, quantitative framework for understanding mycelial foraging and nutrient dynamics.
 
 ## From Mycelium to Graph
 

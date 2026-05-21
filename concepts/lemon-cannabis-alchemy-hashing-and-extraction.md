@@ -10,7 +10,7 @@ tags: [cannabis]
 
 ## Lemon Cannabis Alchemy - Hashing and Extraction
 
-Ben Lemon's "Cannabis Alchemy" provides detailed methods for extracting, purifying, and refining cannabis oils, along with techniques for producing hashish from [[cannabis-solvent-extraction]] through increasingly refined processes including isomerization, acetylation, and charcoal filtration to produce oils of extraordinary potency.
+Ben Lemon"s "Cannabis Alchemy" provides detailed methods for extracting, purifying, and refining cannabis oils, along with techniques for producing hashish from [[cannabis-solvent-extraction]] through increasingly refined processes including isomerization, acetylation, and charcoal filtration to produce oils of extraordinary potency.
 
 ## Overview of the Extraction Process
 
@@ -34,7 +34,7 @@ After refluxing, the oil-bearing solvent remaining in the expended cannabis mate
 
 ### Step 5: Solvent Removal
 
-The solvent is distilled off by replacing the expended cannabis with a collection pan in the colander. The solvent/oil solution boils; fumes condense on the ice-cooled lid and drip into the collection pan. Collected solvent is essentially pure and can be saved for future extractions. After solvent removal, the pot is kept in boiling water to remove all traces. For toxic or water-containing solvents, water is added and evaporated in an oil bath at approximately 220F; when water is gone, all solvent traces have been removed since all solvents evaporate below water's boiling point.
+The solvent is distilled off by replacing the expended cannabis with a collection pan in the colander. The solvent/oil solution boils; fumes condense on the ice-cooled lid and drip into the collection pan. Collected solvent is essentially pure and can be saved for future extractions. After solvent removal, the pot is kept in boiling water to remove all traces. For toxic or water-containing solvents, water is added and evaporated in an oil bath at approximately 220F; when water is gone, all solvent traces have been removed since all solvents evaporate below water"s boiling point.
 
 ### Step 6: Purification
 

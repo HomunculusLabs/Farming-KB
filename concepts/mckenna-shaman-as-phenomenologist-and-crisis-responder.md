@@ -30,11 +30,11 @@ McKenna describes shamans as "the true phenomenologists of this world." This is 
 
 In the Western philosophical tradition, phenomenology is the study of structures of experience and consciousness. The phenomenologist brackets assumptions about the external world and focuses on describing experience as it presents itself.
 
-The shaman, in McKenna's account, does something analogous: they enter altered [[weil-cultural-attitudes-toward-altered-states]] of consciousness — powerful but potentially destabilizing
+The shaman, in McKenna"s account, does something analogous: they enter altered [[weil-cultural-attitudes-toward-altered-states]] of consciousness — powerful but potentially destabilizing
 
-"Shamans are peripheral to society's goings on in ordinary social life in every sense of the word."
+"Shamans are peripheral to society"s goings on in ordinary social life in every sense of the word."
 
-## Crisis Response as the Shaman's Function
+## Crisis Response as the Shaman"s Function
 
 The shaman's role is fundamentally oriented toward crisis. This is not a casual or ceremonial function but an urgent, practical one.
 

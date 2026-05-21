@@ -9,7 +9,7 @@ tags: [ecological-concept, food-web, energy-flow, permaculture, systems-theory]
 
 ## Description
 
-The trophic pyramid mollison is an ecological concept critically examined by [[permaculture]]: A Designers' Manual*. While acknowledging its usefulness as a conceptual model, Mollison argues that the pyramid oversimplifies natural systems and that real-world food relationships are better understood as complex, cyclic food webs rather than linear hierarchies.
+The trophic pyramid mollison is an ecological concept critically examined by [[permaculture]]: A Designers" Manual*. While acknowledging its usefulness as a conceptual model, Mollison argues that the pyramid oversimplifies natural systems and that real-world food relationships are better understood as complex, cyclic food webs rather than linear hierarchies.
 
 ## Classification
 
@@ -26,10 +26,10 @@ The trophic pyramid mollison is an ecological concept critically examined by [[p
   3. **Maturity changes the equation**: Mature organisms become "constant recyclers" rather than growers. Old fish/carp recycle food without growing. This is why permaculture harvests young, growing organisms.
   4. **Food chains are not simple**: Most species are omnivorous; even cows ingest insects with grass. People eat at multiple trophic levels simultaneously.
 
-## Mollison's Critique in Detail
+## Mollison"s Critique in Detail
 
-- The real system "resembles less of a one-way staircase (the pyramid) than a series of cyclic events; less of a ziggurat and more like a spider's web."
-- The pyramid is sometimes used to argue for universal vegetarianism, which Mollison also critiques — noting that much of Earth's vegetation is inedible to humans and that animals "represent a valid method of storing inedible vegetation as food."
+- The real system "resembles less of a one-way staircase (the pyramid) than a series of cyclic events; less of a ziggurat and more like a spider"s web."
+- The pyramid is sometimes used to argue for universal vegetarianism, which Mollison also critiques — noting that much of Earth"s vegetation is inedible to humans and that animals "represent a valid method of storing inedible vegetation as food."
 - However, the pyramid remains valid for understanding toxin bioaccumulation: "poisons at the base concentrate at the top" — the highest levels of radioactives and DDT are found in mothers' milk.
 
 ## Implications for Permaculture Design

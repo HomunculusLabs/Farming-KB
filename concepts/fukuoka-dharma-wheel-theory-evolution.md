@@ -10,11 +10,11 @@ type: concept
 
 ### The Problem of Superiority and Inferiority
 
-He questioned the basis for classifying species as "higher" or "lower," "strong" or "weak." Determining that the survival of the fittest is nature's providence and that humans are the highest, most evolved species reflects "the strongman logic of human beings" rather than the true state of nature. All living things depend on one another to survive, reproduce, and eventually decompose.
+He questioned the basis for classifying species as "higher" or "lower," "strong" or "weak." Determining that the survival of the fittest is nature"s providence and that humans are the highest, most evolved species reflects "the strongman logic of human beings" rather than the true state of nature. All living things depend on one another to survive, reproduce, and eventually decompose.
 
 ### Fragmentation of Unity
 
-Darwin's theory breaks down Earth's 4.6 billion years into fragments of time and location, then classifies and systematizes organisms based on their differences. Species that were originally "brothers and sisters" became divided in people's thinking by being made into distinctly different things.
+Darwin"s theory breaks down Earth's 4.6 billion years into fragments of time and location, then classifies and systematizes organisms based on their differences. Species that were originally "brothers and sisters" became divided in people"s thinking by being made into distinctly different things.
 
 ### The Linear Time Assumption
 
@@ -26,7 +26,7 @@ Fukuoka used the islands of Japan's Seto Inland Sea to illustrate his theory:
 
 - The many islands have various shapes and different names and appear to be separate
 - But they are all connected at the bottom of the sea — they are really one single "island of Japan"
-- On a larger scale, they are connected to all islands and continents through the earth's crust
+- On a larger scale, they are connected to all islands and continents through the earth"s crust
 - Similarly, animals and plants appear different but are all connected at the base
 
 Whether genes survive, "surfacing like islands floating in the Inland Sea," or sink beneath the water depends on the arrangement of genes and the constant rearrangement of subatomic particles.
@@ -43,7 +43,7 @@ He illustrated this with a river: standing on the bank, water flows in one direc
 
 ## The Rising and Sinking of Genes
 
-Fukuoka's background as a microbiologist informed his genetic theory:
+Fukuoka"s background as a microbiologist informed his genetic theory:
 
 - The fact that DNA structure and genetic code are the same for all living things indicates they are fundamentally related
 - Proteins serve as the liaison between living and nonliving forms
@@ -51,7 +51,7 @@ Fukuoka's background as a microbiologist informed his genetic theory:
 - Only a small portion of possible genetic combinations have successfully come into being; most are lost or dormant
 
 The reason there are so few intermediary forms between species is not that they never existed. Rather, even if they were born, they died in infancy and did not come to human attention. An [[fukuoka-aerial-seeding-clay-pellets-desert-revegetation-technique]] and gave them to messengers to scatter randomly
-2. Some seeds were programmed to become active soon after Earth's birth; others for water, mountains, or deserts
+2. Some seeds were programmed to become active soon after Earth"s birth; others for water, mountains, or deserts
 3. Seeds designed to become human beings were made to come to life during later ages
 4. Millions of seeds were broadcast at one time — microorganisms, plants, and animals all appeared simultaneously
 5. Living things bearing similar genes manifested differently: some became forest trees, others the birds that lived in them

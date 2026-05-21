@@ -26,7 +26,7 @@ There have been massive local outbreaks of leafhoppers on two or three occasions
 
 ## Natural Rice Resistance
 
-Strong, healthy rice plants are more resistant to insect pests. Fukuoka's system produces vigorous plants through:
+Strong, healthy rice plants are more resistant to insect pests. Fukuoka"s system produces vigorous plants through:
 
 - Natural soil fertility rather than chemical forcing
 

@@ -11,7 +11,6 @@ date: 2026-05-09
 updated: 2026-05-09
 sources:
   - Treseder, L.C. (1994). "Magnolias of the World." Royal Botanic Gardens, Kew.---
----
 
 ## Overview
 

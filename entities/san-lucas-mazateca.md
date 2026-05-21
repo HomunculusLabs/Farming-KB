@@ -9,7 +9,7 @@ tags: [places, oaxaca, mexico, mazatec, shamanism, sierra-mazateca, village]
 
 ## Description
 
-San Lucas is a small indigenous village in the Sierra Mazateca mountain range of northeastern Oaxaca, Mexico, in the Mazatec cultural region. In the context of Henry Munn's essay "The Mushrooms of Language" in Harner's *Hallucinogens and Shamanism* (1973), San Lucas is notable as the home of a renowned 105-year-old Mazatec shaman who cured Roman Estrada of a traumatic neurosis using psilocybin mushrooms and subsequently initiated him into the shamanic vocation. The village represents the network of local shamanic expertise that existed among the Mazatec communities of the Sierra — a dispersed system of master healers connected by mountain paths and shared cultural knowledge.
+San Lucas is a small indigenous village in the Sierra Mazateca mountain range of northeastern Oaxaca, Mexico, in the Mazatec cultural region. In the context of Henry Munn"s essay "The Mushrooms of Language" in Harner"s *Hallucinogens and Shamanism* (1973), San Lucas is notable as the home of a renowned 105-year-old Mazatec shaman who cured Roman Estrada of a traumatic neurosis using psilocybin mushrooms and subsequently initiated him into the shamanic vocation. The village represents the network of local shamanic expertise that existed among the Mazatec communities of the Sierra — a dispersed system of master healers connected by mountain paths and shared cultural knowledge.
 
 ## Classification
 
@@ -34,7 +34,7 @@ Until relatively recently, the communities of the Sierra Mazateca were isolated 
 
 ## The Shaman of San Lucas
 
-The village's primary significance in the ethnographic record is as the home of a master shaman described in extraordinary terms:
+The village"s primary significance in the ethnographic record is as the home of a master shaman described in extraordinary terms:
 
 ### Physical Description
 A "short, slight, wizened old man" who was 105 years old at the time he treated Roman Estrada — an age that, whether exact or approximate, indicates a person of exceptional longevity and accumulated knowledge.
@@ -45,13 +45,13 @@ He was "renowned throughout the mountains as a great shaman, a diviner of destin
 ### Healing Methods
 His treatment of Roman Estrada demonstrates a sophisticated understanding of psychosomatic illness and symbolic healing:
 
-1. **Diagnosis**: He recognized that Estrada's physical symptoms (exhaustion, depression, apathy) stemmed from a spiritual crisis — the Mazatec condition of *susto* (fright), in which the spirit departs from the body following a traumatic experience.
+1. **Diagnosis**: He recognized that Estrada"s physical symptoms (exhaustion, depression, apathy) stemmed from a spiritual crisis — the Mazatec condition of *susto* (fright), in which the spirit departs from the body following a traumatic experience.
 2. **Pharmacological intervention**: He administered psilocybin mushrooms, which enabled Estrada to vividly re-experience his traumatic surgery in a controlled, supportive setting.
 3. **Symbolic re-enactment**: Under the mushrooms' influence, Estrada imagined that the mushrooms "cut him open, arranged his insides, and sewed him up again" — a symbolic correction of the surgical trauma that had caused his neurosis.
-4. **Vocational transmission**: He offered to transmit his shamanic knowledge to Estrada, setting up a ritual table with ground tobacco (San Pedro) and a cross as symbols of the shaman's work.
+4. **Vocational transmission**: He offered to transmit his shamanic knowledge to Estrada, setting up a ritual table with ground tobacco (San Pedro) and a cross as symbols of the shaman"s work.
 
 ### The Initiation
-The San Lucas shaman told Estrada: "It is no longer you who command. It is already the middle of the night. I am going to leave you a table with ground tobacco on it and a cross underneath it so that you learn this work." When Estrada refused, the old man responded: "Here you don't give the orders... I am he who is going to say whether you receive this work or not because I am he who is going to give you your diploma in the presence of God." This forceful approach — negating the patient's death-wish to arouse the will to live — proved effective when Estrada heard his dead father's voice commanding him to accept.
+The San Lucas shaman told Estrada: "It is no longer you who command. It is already the middle of the night. I am going to leave you a table with ground tobacco on it and a cross underneath it so that you learn this work." When Estrada refused, the old man responded: "Here you don"t give the orders... I am he who is going to say whether you receive this work or not because I am he who is going to give you your diploma in the presence of God." This forceful approach — negating the patient"s death-wish to arouse the will to live — proved effective when Estrada heard his dead father's voice commanding him to accept.
 
 ## Key Facts
 

@@ -16,7 +16,7 @@ to serve both as educational tools and as elegant dining-room ornaments.
 
 ## Historical Context and Acknowledgments
 
-Palmer's work was made possible through the cooperation of a broad network of supporters. He
+Palmer"s work was made possible through the cooperation of a broad network of supporters. He
 expressed particular gratitude to the Superintendents of Public grounds who permitted him to
 collect specimens, to medical and scientific men who shared their expertise, and to the librarians
 of Horticultural and Natural History Societies who gave him access to their collections. Doctors

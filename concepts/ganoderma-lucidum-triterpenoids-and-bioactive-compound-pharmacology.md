@@ -101,7 +101,7 @@ The bitter taste of Ganoderma is attributed to these triterpenoids and is consid
 ## Pharmacological Significance
 
 ### Multi-Target Approach
-Unlike single-target pharmaceuticals, Ganoderma's triterpenoids affect multiple pathways simultaneously:
+Unlike single-target pharmaceuticals, Ganoderma"s triterpenoids affect multiple pathways simultaneously:
 - **Cardiovascular**: ACE inhibition, cholesterol reduction, platelet aggregation inhibition
 - **Anti-cancer**: Direct cytotoxicity, FPT inhibition, DNA polymerase inhibition
 - **Anti-inflammatory**: 5-lipoxygenase inhibition, PLA2 inhibition, histamine release inhibition

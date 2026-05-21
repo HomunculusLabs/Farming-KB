@@ -43,7 +43,7 @@ Elevation ranges from near sea level in western Ireland to over 2,000 meters in 
 
 The species shows a strong preference for open, unshaded conditions. In the Alps, it colonizes damp limestone ledges, seepage channels, and the margins of snowmelt streams. These microhabitats provide constant moisture while maintaining the low nutrient levels the species requires.
 
-Soil substrates are typically peaty or mineral-rich but nutrient-poor, with pH ranging from 5.0 to 7.0. The presence of a water table within 10 cm of the surface appears to be a key habitat requirement across the species' range.
+Soil substrates are typically peaty or mineral-rich but nutrient-poor, with pH ranging from 5.0 to 7.0. The presence of a water table within 10 cm of the surface appears to be a key habitat requirement across the species" range.
 
 ## Trap Mechanism
 

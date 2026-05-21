@@ -22,7 +22,7 @@ type: concept
 
 In [[hamilton-composting-and-organic-matter-management]], and the biological complexity that gives a natural field its resilience against drought, flood, and pestilence.
 
-Nature does not allocate energy according to the categories of human science. It distributes the sun's bounty across every stratum of the living community — from the canopy to the root zone, from visible plants to invisible fungi. The three-dimensional view recognizes that what appears as "lost" energy to the monoculture farmer is in fact energy invested in the long-term fertility and stability of the entire ecosystem.
+Nature does not allocate energy according to the categories of human science. It distributes the sun"s bounty across every stratum of the living community — from the canopy to the root zone, from visible plants to invisible fungi. The three-dimensional view recognizes that what appears as "lost" energy to the monoculture farmer is in fact energy invested in the long-term fertility and stability of the entire ecosystem.
 
 ## Nature's Finite Power When Objectified
 

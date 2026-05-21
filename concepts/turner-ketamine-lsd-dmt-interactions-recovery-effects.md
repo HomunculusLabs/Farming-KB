@@ -12,7 +12,7 @@ sources:
 
 ## Overview
 
-D.M. Turner's extensive experience combining ketamine with LSD and DMT revealed specific interaction patterns, including diminished effects, extended recovery periods, and strategic timing considerations. These findings are critical for anyone considering multi-substance psychedelic combinations.
+D.M. Turner"s extensive experience combining ketamine with LSD and DMT revealed specific interaction patterns, including diminished effects, extended recovery periods, and strategic timing considerations. These findings are critical for anyone considering multi-substance psychedelic combinations.
 
 Turner's systematic approach to documenting these interactions -- noting dose, timing, sequence, and subjective effects -- provides one of the most detailed first-person accounts of triple-substance psychedelic pharmacology available.
 

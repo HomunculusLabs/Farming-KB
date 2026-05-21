@@ -3,7 +3,7 @@ title: "Oca (oca oxalis tuberosa cultivation and uses) Cultivation and Uses"
 tags: [oca, oxalis, andean-root-crops, perennial-vegetables, tuber-crops, food-plants, polyculture, permaculture]
 date: 2026-05-03
 updated: 2026-05-03
-sources: ['raw/papers/what-a-plant-knows-daniel-chamovitz.md']
+sources: ["raw/papers/what-a-plant-knows-daniel-chamovitz.md']
 ---
 
 ## Introduction

@@ -14,7 +14,7 @@ Any leafy plant needs nitrates to grow. A plant that should grow as rapidly as l
 
 ### Three Requirements for Rapid Growth
 
-1. **Fertility** — but not too much or you'll end up with more top than root
+1. **Fertility** — but not too much or you"ll end up with more top than root
 2. **Loose soil** — especially a top foot (30 cm) that graciously allows the root to push down as fast as it wishes
 3. **Steady moisture supply** — the root can't struggle against too much competition for this resource
 

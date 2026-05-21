@@ -5,7 +5,6 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Østergaard, J. (2016). "Fungal Dyes — Historical Use and Modern Revival." Dyes and Pigments, 134, 247-254.---
----
 
 ## Mushroom Dyes and Fungal Pigments
 
@@ -16,7 +15,7 @@ Mushroom dyes represent one of the most ancient and still one of the least explo
 The use of fungi for dyeing textiles is ancient but poorly documented compared to plant-based dye traditions. Archaeological evidence suggests that fungal pigments were used by indigenous peoples across multiple continents:
 
 - **European traditions**: Alpine communities in Slovenia, Austria, and Italy used species of *Dermocybe* (now reclassified within *Cortinarius*) to dye wool for traditional folk costumes. Records from the 18th and 19th centuries document the use of *Cortinarius sanguineus* to produce brilliant reds and *[[cortinarius-violaceus]]* for purples.
-- **Scandinavian practices**: Finnish and Swedish dyers historically used *[[pisolithus-tinctorius]]* (dyer's puffball) and *Hydnellum suaveolens* to produce golden yellows and olive greens on wool and linen.
+- **Scandinavian practices**: Finnish and Swedish dyers historically used *[[pisolithus-tinctorius]]* (dyer"s puffball) and *Hydnellum suaveolens* to produce golden yellows and olive greens on wool and linen.
 - **Indigenous [[stamets-reishi-ganoderma-lucidum-cultivation]]* (reishi) extracts as components in lacquer and pigment mixtures, and certain *Trametes* species were employed in paper dyeing.
 - **Modern revival**: The systematic study of mushroom dyes began with Miriam Rice in the 1970s, whose pioneering work at the Mendocino Art Center in California established fungal dyeing as a recognized craft. Her books, notably *Mushrooms for Color* (1980), inspired a global community of fungal dyers.
 

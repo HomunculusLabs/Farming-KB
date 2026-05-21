@@ -15,7 +15,7 @@ sources:
 
 ## Overview
 
-**Ricinus communis**, commonly known as the castor bean or [[cannabis-honey-oil-production]], one of the world's most important industrial vegetable oils.
+**Ricinus communis**, commonly known as the castor bean or [[cannabis-honey-oil-production]], one of the world"s most important industrial vegetable oils.
 
 Ricinus communis is notoriously toxic: its seeds contain ricin, a type II ribosome-inactivating protein that is among the most potent naturally occurring toxins known. Ingestion of as few as 1–4 chewed seeds can be fatal to an adult.
 

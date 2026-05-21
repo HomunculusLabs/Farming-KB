@@ -32,7 +32,7 @@ By briefly turning lights on in the middle of the night — a "[[phototropism]] 
 
 This molecular understanding has confirmed what Garner and Allard discovered with their simple shed experiment: plants are exquisitely sensitive timekeepers, using light as their primary reference signal to coordinate their life cycle with the seasons.
 
-## Phytochrome's Dual Role
+## Phytochrome"s Dual Role
 
 It is important to distinguish photoperiodism from the shade-avoidance response, even though both involve phytochrome. In [[phytochrome-red-far-red-ratio-shade-detection-plants]]. This division of labor allows a single class of photoreceptors to simultaneously process information about both the spectral environment and the passage of time.
 

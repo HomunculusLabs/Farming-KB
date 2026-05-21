@@ -10,7 +10,7 @@ sources:
 
 Updated: 2026-04-18
 
-Source: Sepp Holzer, *Sepp Holzer's Permaculture* (2010)
+Source: Sepp Holzer, *Sepp Holzer"s Permaculture* (2010)
 
 Sepp Holzer's approach to soil fertility is founded on the principle that "a healthy soil rich in microorganisms is a fertile soil." Rather than relying on chemical inputs, he works with natural processes to build and maintain soil health.
 

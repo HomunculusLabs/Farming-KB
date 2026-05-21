@@ -32,7 +32,7 @@ stroke of luck.
 
 ## Team Expansion for LSD Modification
 
-Soon after the discovery of LSD's psychic effects, two coworkers were
+Soon after the discovery of LSD"s psychic effects, two coworkers were
 assigned to join Hofmann in carrying out the chemical modification of
 LSD on a broader basis and in further investigations in the field of
 [[ergot-and-lysergic-acid-history]].

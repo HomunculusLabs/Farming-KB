@@ -6,19 +6,19 @@ type: concept
 
 ## Mazatec Shaman as Oracle of Inspired Speech
 
-The Mazatec shaman's primary function during psilocybin mushroom ceremonies is linguistic: to speak, chant, and sing on behalf of those present. The mushrooms are understood not as drugs but as medicines that liberate the fountains of language, transforming the shaman into an oracle whose words carry healing power. This conception of the shaman as a speaker—rather than as a listener or interpreter—distinguishes Mazatec practice from Western psychotherapy and positions language itself as the instrument of cure.
+The Mazatec shaman"s primary function during psilocybin mushroom ceremonies is linguistic: to speak, chant, and sing on behalf of those present. The mushrooms are understood not as drugs but as medicines that liberate the fountains of language, transforming the shaman into an oracle whose words carry healing power. This conception of the shaman as a speaker—rather than as a listener or interpreter—distinguishes Mazatec practice from Western psychotherapy and positions language itself as the instrument of cure.
 
 ## The Mushrooms as Teachers of Language
 
 The Mazatec Indians of the Sierra Mazateca in Oaxaca, Mexico, consume psilocybin mushrooms (*Psilocybe mexicana* and related species) in nocturnal ceremonies conducted in absolute darkness. The mushrooms are eaten in pairs, a couple representing the dual principle of procreation and creation. The Mazatecs believe that eating them in daylight causes madness; the depths of night are recognized as the time most conducive to visionary insight into the mysteries of existence.
 
-Central to the Mazatec understanding is the belief that **the mushrooms speak**. When asked about the source of their imagery, shamans reply: "I didn't say it, the mushrooms did." This is not a naive anthropomorphization. As the ethnographer Henry Munn notes, no mushroom speaks—only man speaks. But the person who consumes these mushrooms, if they are "a man of language," becomes endowed with an inspired capacity to speak. The mushrooms interact with the nervous system and brain to produce an experience grounded in the ontological-existential possibilities of being human, and the linguistic fluency that emerges is extraordinary.
+Central to the Mazatec understanding is the belief that **the mushrooms speak**. When asked about the source of their imagery, shamans reply: "I didn"t say it, the mushrooms did." This is not a naive anthropomorphization. As the ethnographer Henry Munn notes, no mushroom speaks—only man speaks. But the person who consumes these mushrooms, if they are "a man of language," becomes endowed with an inspired capacity to speak. The mushrooms interact with the nervous system and brain to produce an experience grounded in the ontological-existential possibilities of being human, and the linguistic fluency that emerges is extraordinary.
 
 ## Shamanic Authority and the Authoritarian Context
 
 Mazatec mushroom sessions unfold within a paternal and authoritarian family structure. The shaman presides over the ceremony, and rather than being encouraged to express themselves freely, participants are enjoined to keep silent and listen while the shaman speaks for each person present. This contrasts sharply with Western psychedelic therapy, where the patient is encouraged to verbalize their own experience.
 
-An early Spanish chronicler of the New World described the practice: "They pay a sorcerer who eats them [the mushrooms] and tells them what they have taught him. He does so by means of a rhythmic chant in full voice." The shaman's role is to serve as the voice through which the mushroom experience is articulated and made meaningful for the community.
+An early Spanish chronicler of the New World described the practice: "They pay a sorcerer who eats them [the mushrooms] and tells them what they have taught him. He does so by means of a rhythmic chant in full voice." The shaman"s role is to serve as the voice through which the mushroom experience is articulated and made meaningful for the community.
 
 ## The Phenomenology of Inspired Speech
 
@@ -29,13 +29,13 @@ The intoxication produced by psilocybin mushrooms generates a remarkable linguis
 - **Coherent flow**: Unlike surrealist automatic writing, the flow tends to be coherent and rationally structured
 - **Sensation of dictation**: It is as if one were being told what to say
 
-At the end of each phrase, the shaman says *tzo*—"says" in Mazatec—like a rhythmic punctuation. "Says, says, says. It is said. I say. Who says? We say, man says, language says, being and existence say." This verbal tic reveals the shaman's understanding that they are a vehicle for a discourse that originates beyond the individual ego.
+At the end of each phrase, the shaman says *tzo*—"says" in Mazatec—like a rhythmic punctuation. "Says, says, says. It is said. I say. Who says? We say, man says, language says, being and existence say." This verbal tic reveals the shaman"s understanding that they are a vehicle for a discourse that originates beyond the individual ego.
 
 ## Poesis as Medicine
 
 The Mazatec shaman operates with a conception of *poesis* in its original Greek sense: as a sacred action, a making that exceeds the ordinary level of human activity. Words themselves are medicine. To enunciate and give meaning to the events and situations of existence is life-giving in itself. This is not mere symbolism—the shaman genuinely believes that the act of speaking truthfully and beautifully into the spirit world brings about material healing.
 
-Claude Lévi-Strauss's observation about the difference between psychoanalysis and shamanism becomes particularly relevant here: "The psychoanalyst listens, whereas the shaman speaks." In psychoanalysis, the patient puts words into the analyst's mouth through transference. In shamanic incantation, the shaman speaks for the patient, questioning them and putting answers into their mouth that correspond to an interpretation of their condition. The shaman provides the sick person with a language by means of which unexpressed and otherwise inexpressible psychic states can be immediately expressed—and this verbal expression induces the release of physiological healing processes.
+Claude Lévi-Strauss's observation about the difference between psychoanalysis and shamanism becomes particularly relevant here: "The psychoanalyst listens, whereas the shaman speaks." In psychoanalysis, the patient puts words into the analyst"s mouth through transference. In shamanic incantation, the shaman speaks for the patient, questioning them and putting answers into their mouth that correspond to an interpretation of their condition. The shaman provides the sick person with a language by means of which unexpressed and otherwise inexpressible psychic states can be immediately expressed—and this verbal expression induces the release of physiological healing processes.
 
 ## The Mushroom Session as Ritual
 

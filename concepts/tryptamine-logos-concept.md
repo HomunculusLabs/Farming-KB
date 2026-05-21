@@ -11,7 +11,7 @@ sources: [raw/papers/mckenna_t-tryptamines_consciousness.md]
 
 ## Overview
 
-The concept of the "Logos" in [[terence-mckenna]]'s thought refers to a transhuman, hyperdimensional intelligence encountered through [[weil-the-natural-mind-altered-states-normalcy]] are not merely perceptual phenomena but vehicles for the transmission of information.
+The concept of the "Logos" in [[terence-mckenna]]"s thought refers to a transhuman, hyperdimensional intelligence encountered through [[weil-the-natural-mind-altered-states-normalcy]] are not merely perceptual phenomena but vehicles for the transmission of information.
 
 As soon as one discovers this about psilocybin and tryptamines in general, McKenna argues, one must decide whether or not to enter into this dialogue and try to make sense of the incoming signal.
 
@@ -21,25 +21,25 @@ Central to McKenna's concept of the Logos is the phenomenon of the "translinguis
 
 These objects pass, as [[mckenna-cognitive-dissonance-translinguistic-object]] when confronted with information that cannot be translated into our native tongue.
 
-The brain attempts to pour language over the experience and it "sheds it like water off a duck's back." We try again and fail again.
+The brain attempts to pour language over the experience and it "sheds it like water off a duck"s back." We try again and fail again.
 
 This cognitive dissonance produces the "wow" or "flutter" that builds into wonder, astonishment, and awe at the brink of terror.
 
 ## The Logos as Transhuman Intelligence
 
-McKenna's encounter with the Logos in 1966 produced what he calls a "declension of gnosis" — a direct knowing — that proved to him "in a moment that right here and now, one quanta away, there is raging a universe of active intelligence that is transhuman, hyperdimensional, and extremely alien."
+McKenna"s encounter with the Logos in 1966 produced what he calls a "declension of gnosis" — a direct knowing — that proved to him "in a moment that right here and now, one quanta away, there is raging a universe of active intelligence that is transhuman, hyperdimensional, and extremely alien."
 
 He is careful to make no ontological claims about the nature of this intelligence.
 
 He calls it the Logos and "makes no judgments about it," instead engaging it in dialogue: "Well, what are you? Are you some kind of diffuse consciousness that is in the ecosystem of the Earth? Are you a god or an extraterrestrial? Show me what you know."
 
-This interrogatory stance is essential to McKenna's approach. He refuses both the comfortable reduction ("it's just a drug effect") and the comfortable faith ("it's God"). Instead, he maintains the tension of genuine inquiry.
+This interrogatory stance is essential to McKenna"s approach. He refuses both the comfortable reduction ("it"s just a drug effect") and the comfortable faith ("it"s God"). Instead, he maintains the tension of genuine inquiry.
 
 ## The Ursprache — Primal Language
 
 McKenna connects the Logos to the concept of a primal language — an "Ursprache" that lies behind all human languages.
 
-He draws on Robert Graves's The White Goddess, which describes a pre-Indo-European poetic language of tree alphabets and ritual formulae.
+He draws on Robert Graves"s The White Goddess, which describes a pre-Indo-European poetic language of tree alphabets and ritual formulae.
 
 He also references the Kabbalistic tradition of the Zohar, which describes a primal language through which God created and sustains the universe.
 
@@ -49,7 +49,7 @@ This is not classical glossolalia (speaking in tongues as practiced in religious
 
 The DMT-induced phenomenon is a brain state that allows direct expression of this deeper linguistic layer, producing sounds that carry meaning without belonging to any known human language.
 
-The Logos, in Philo Judaeus's formulation, would pass from things heard to things beheld when it became perfect — and this is precisely the transition that McKenna describes in the DMT experience.
+The Logos, in Philo Judaeus"s formulation, would pass from things heard to things beheld when it became perfect — and this is precisely the transition that McKenna describes in the DMT experience.
 
 ## Consciousness and Quantum Mechanics
 

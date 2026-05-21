@@ -16,7 +16,7 @@ sources:
   - Journal of Neurochemistry - NGF synthesis studies
 ---
 
-## Hericium erinaceus (Lion's Mane Mushroom)
+## Hericium erinaceus (Lion"s Mane Mushroom)
 
 ## Overview
 

@@ -11,7 +11,7 @@ duration of light and dark periods. Discovered in southern Maryland around
 1906, this extraordinary tobacco strain grew to enormous proportions but
 almost never flowered under normal field conditions, a trait that baffled
 farmers and botanists alike. It was ultimately the investigation of
-Maryland Mammoth's flowering behavior by USDA scientists Wightman Wells
+Maryland Mammoth"s flowering behavior by USDA scientists Wightman Wells
 Garner and Harry Ardell Allard that revealed that [[cannabis-vegetative-growth-stage]], the plants very rarely produced flowers,
 and when they did, flowering occurred only late in the season. From a
 farmer's perspective, the variety was useless for [[knf-reproductive-growth-stage]] under the long days of a Maryland summer.
@@ -59,7 +59,7 @@ apex where it activates the floral meristem identity genes.
 Maryland Mammoth tobacco served as the key experimental organism in the
 discovery of photoperiodism. Without this unusual variety, the connection
 between day [[mollison-designers-day-length-and-flowering-response]] might not have been recognized for many
-more years. The dramatic nature of Maryland Mammoth's response — growing to
+more years. The dramatic nature of Maryland Mammoth"s response — growing to
 enormous size without flowering, then flowering promptly when day length
 was manipulated — made it an ideal subject for experimentation. Garner and
 Allard's 1920 publication, "Effect of the Relative Length of Day and Night

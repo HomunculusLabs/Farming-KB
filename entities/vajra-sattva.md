@@ -8,7 +8,7 @@ tags: [deity, buddhism, tibetan, bardo, vajrayana]
 ## Vajrasattva
 
 ## Description
-Vajrasattva (Sanskrit: "Diamond Being" or "Thunderbolt Being") is a prominent figure in Vajrayana Buddhism, associated with purification and the integration of the Five Wisdoms. In *The Psychedelic Experience*, Lama Govinda describes the "Inner Way of Vajra-Sattva" as "the combination of the rays of the Wisdoms of the four Dhyani-Buddhas and their absorption within one's own heart — in other words, the recognition that all these radiances are the emanations of one's own mind."
+Vajrasattva (Sanskrit: "Diamond Being" or "Thunderbolt Being") is a prominent figure in Vajrayana Buddhism, associated with purification and the integration of the Five Wisdoms. In *The Psychedelic Experience*, Lama Govinda describes the "Inner Way of Vajra-Sattva" as "the combination of the rays of the Wisdoms of the four Dhyani-Buddhas and their absorption within one"s own heart — in other words, the recognition that all these radiances are the emanations of one's own mind."
 
 ## Classification
 - **Category:** Deity — Bodhisattva / Adi-Buddha
@@ -20,8 +20,8 @@ Vajrasattva (Sanskrit: "Diamond Being" or "Thunderbolt Being") is a prominent fi
 - Associated with purification practices and the hundred-syllable mantra
 - In some traditions, considered the Adi-Buddha (primordial Buddha)
 - Central to Vajrayana purification and empowerment practices
-- Represents the unification of all Five Dhyani Buddha wisdoms into one's own heart
-- The "Inner Way" involves recognizing that all visionary radiances are emanations of one's own mind
+- Represents the unification of all Five Dhyani Buddha wisdoms into one"s own heart
+- The "Inner Way" involves recognizing that all visionary radiances are emanations of one"s own mind
 - Associated with the state of "perfect tranquility and serenity" in which the mind reveals its true universal nature
 
 ## Role in the Psychedelic Bardo Framework

@@ -6,7 +6,7 @@ type: concept
 
 ## Permaculture Site Assessment and Report Writing
 
-The [[permaculture-design]] report is the primary deliverable of a professional design engagement. It documents the designer's analysis, recommendations, and implementation guidance in a structured format that enables the client to proceed with confidence. Equally important is the site assessment process — the designer's ability to see resources that the client has overlooked, which is where the real value of professional design lies.
+The [[permaculture-design]] report is the primary deliverable of a professional design engagement. It documents the designer"s analysis, recommendations, and implementation guidance in a structured format that enables the client to proceed with confidence. Equally important is the site assessment process — the designer's ability to see resources that the client has overlooked, which is where the real value of professional design lies.
 
 ## Report Writing Methodology
 
@@ -113,7 +113,7 @@ Even experienced designers make errors. This checklist should be reviewed freque
 
 1. **Environmentally destructive clients**: Undertaking work for people whose aims harm the environment. Always side with the "super client" — the environment.
 2. **Unexplained recommendations**: Failing to tell clients the reasoning behind each recommendation.
-3. **Overly complex technology**: Recommending technology beyond the client's ability to handle.
+3. **Overly complex technology**: Recommending technology beyond the client"s ability to handle.
 4. **Insufficient management data**: Not providing adequate directions for running the place after establishment.
 5. **Depersonalized reporting**: Writing in a detached tone. Reports should be direct, friendly, and personal.
 6. **Vague language**: Using loose expressions like "fairly large" instead of specific measurements.

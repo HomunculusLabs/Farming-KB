@@ -33,7 +33,7 @@ Blueberries grow at the edge of clearings in pine forests — they are an edge s
 
 ## Edge Harmonics: The Mathematical Discovery
 
-Mollison's key insight came from a conversation with mathematician Dennis McCarthy. While driving through western Australia, Mollison mentioned "edge," and after 20 minutes of silence, McCarthy responded: "Edge harmonics, Mollison." McCarthy had studied edge harmonics mathematically.
+Mollison"s key insight came from a conversation with mathematician Dennis McCarthy. While driving through western Australia, Mollison mentioned "edge," and after 20 minutes of silence, McCarthy responded: "Edge harmonics, Mollison." McCarthy had studied edge harmonics mathematically.
 
 The insight is this: when you take an area and move it in an even harmonic about its edge — though you have not altered the total area — you have enormously increased the edge length. Without taking any cows out of the paddock, you can induce enormous yield at the edge. Without reducing the oxygen surface of the pond, you can give it many times more edge than exists in a simple circle.
 
@@ -46,7 +46,7 @@ The harmonics of the edge decide:
 
 Mollison observed Pitjantjatjara women creating elaborate patterns in pigments on windows and dresses. When he flew over the desert in a light plane, he recognized that these patterns were accurate ecological [[maps]] of the desert — the spacings were precise, and one woman could direct another to a specific stone and salt pan at a distance she had never visited.
 
-These patterns represent the desert's own edge harmonics — the way the land itself organizes its interfaces between different ecological zones. The women's patterns describe aspects of [[dryland-strategies-and-desert-ecology]] in terms of story and myth. In Pitjantjatjara culture, celebration, way, and pattern are indistinguishable — a totality.
+These patterns represent the desert"s own edge harmonics — the way the land itself organizes its interfaces between different ecological zones. The women's patterns describe aspects of [[dryland-strategies-and-desert-ecology]] in terms of story and myth. In Pitjantjatjara culture, celebration, way, and pattern are indistinguishable — a totality.
 
 ## Practical Application: The Box-Thorn Clump
 

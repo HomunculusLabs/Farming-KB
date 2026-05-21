@@ -1,5 +1,5 @@
 ---
-title: Allegro's Main Thesis - Christianity and allegro-amanita-muscaria-properties-and-pharmacology
+title: Allegro"s Main Thesis - Christianity and allegro-amanita-muscaria-properties-and-pharmacology
 created: 2026-04-26
 updated: 2026-04-24
 type: concept
@@ -8,7 +8,7 @@ sources:
   - "raw/papers/allegro-j-the-sacred-mushroomcross.md"
 ---
 
-## Allegro's Main Thesis: Christianity and Amanita muscaria
+## Allegro"s Main Thesis: Christianity and Amanita muscaria
 
 John Marco Allegro (1923-1988) was a British philologist and one of the original
 one of the original international team entrusted with editing and publishing the [[allegro-sumerian-akkadian-vocabulary]], the oldest written language known,
@@ -35,7 +35,7 @@ identified three levels of meaning:
 The names of Jesus himself, Peter, John, James, and other New Testament
 characters were, according to Allegro, all plays on mushroom epithets. "Jesus"
 (Hebrew *Yehoshua*) derives from Sumerian *IA-U-ShUShA*, meaning "semen which
-saves, restores, heals." "Peter" is a play on the Semitic *pitrā'*, meaning
+saves, restores, heals." "Peter" is a play on the Semitic *pitrā"*, meaning
 "mushroom." See [[amanita-muscaria-chemistry-and-pharmacology]]. He overlooked some references to *A. pantherina* and *P.
 cubensis*, and wrongfully classified Rue as an "abortifacient," not recognizing
 Acacia and Rue as an entheogen-culture|Ayahuasca analogue. He also

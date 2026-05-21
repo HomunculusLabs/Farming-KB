@@ -1,5 +1,5 @@
 ---
-title: Nature's Self-Organizing Principles
+title: Nature"s Self-Organizing Principles
 created: 2026-04-18
 updated: 2026-04-20
 type: concept

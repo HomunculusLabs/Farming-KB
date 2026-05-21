@@ -23,7 +23,7 @@ Andrija Puharich (1918–1995), born Henry Karel Puharich, was an American medic
 
 1. **Sacred [[egyptian-mushroom-symbolism]] to later religious traditions, particularly through associations with Mithra (the lion-headed god) and the initiation rituals conducted in the Great Pyramid.
 
-5. **Key to Understanding**: Despite controversy over his methods, Puharich's research proved important to understanding Egyptian theology and the role of entheogenic substances in ancient religious practice.
+5. **Key to Understanding**: Despite controversy over his methods, Puharich"s research proved important to understanding Egyptian theology and the role of entheogenic substances in ancient religious practice.
 
 ## Relevance to Cultivation and Mycology
 

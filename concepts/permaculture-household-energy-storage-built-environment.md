@@ -96,7 +96,7 @@ A special case of using non-renewable resources to improve long-term soil produc
 - Most modern fertility attempts are short-term (crop feeding, not soil feeding)
 - If soil mineral balancing principles are better understood, re-mineralization can create permanent improvement
 - Rock minerals are powerful medicine — easily overused or misused
-- Permaculturalists who ignore mineral balance may design systems that don't provide essential livestock and human health minerals
+- Permaculturalists who ignore mineral balance may design systems that don"t provide essential livestock and human health minerals
 
 ### Soil Testing Methods at Melliodora
 

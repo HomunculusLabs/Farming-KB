@@ -8,7 +8,7 @@ type: entity
 
 ## Description
 
-A highly effective, bait-free vole trapping system developed on Eliot Coleman's farm that exploits vole behavior -- specifically their tendency to dart into small dark holes -- rather than relying on food bait. The method uses simple wooden box traps placed at ground level with mouse-sized entrance holes, capitalizing on natural vole behavior patterns.
+A highly effective, bait-free vole trapping system developed on Eliot Coleman"s farm that exploits vole behavior -- specifically their tendency to dart into small dark holes -- rather than relying on food bait. The method uses simple wooden box traps placed at ground level with mouse-sized entrance holes, capitalizing on natural vole behavior patterns.
 
 ## Classification
 
@@ -28,7 +28,7 @@ A highly effective, bait-free vole trapping system developed on Eliot Coleman's 
 
 ## Design Rationale
 
-Traditional baited trapping requires maintaining attractive baits and suffers from bait avoidance. By removing bait and relying purely on the vole's instinct to investigate dark holes, the system becomes self-sustaining. The "scent feedback loop" -- where captured voles leave scent that attracts more voles -- makes the traps more effective over time rather than less.
+Traditional baited trapping requires maintaining attractive baits and suffers from bait avoidance. By removing bait and relying purely on the vole"s instinct to investigate dark holes, the system becomes self-sustaining. The "scent feedback loop" -- where captured voles leave scent that attracts more voles -- makes the traps more effective over time rather than less.
 
 ## Relevance to Cultivation
 
@@ -45,7 +45,7 @@ Voles can cause significant damage to root crops, young transplants, and direct-
 
 ## Source Context
 
-Described in Eliot Coleman's "The Winter Harvest Handbook" in the pest management section preceding the chapter on Insects and Diseases.
+Described in Eliot Coleman"s "The Winter Harvest Handbook" in the pest management section preceding the chapter on Insects and Diseases.
 
 ## See Also
 

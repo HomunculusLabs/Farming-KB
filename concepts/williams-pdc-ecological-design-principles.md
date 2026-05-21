@@ -18,7 +18,7 @@ the flows and cycles that natural systems depend upon.
 ## Comprehensive Ecosystem Approach
 
 Being a comprehensive ecosystem and habitat, a true ecodesign would
-address all of an inhabitant's needs, guided by permaculture. The
+address all of an inhabitant"s needs, guided by permaculture. The
 design should create a functioning ecology where each element supports
 and is supported by other elements, creating a dynamic stable system
 that becomes more productive and resilient over time, just as natural

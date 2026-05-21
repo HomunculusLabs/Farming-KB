@@ -22,7 +22,7 @@ complex botanical with 111+ cannabinoids and 200-250 additional constituents
 including terpenoids. The whole plant produces greater efficacy than isolated
 compounds through multiple synergistic mechanisms:
 
-- THC and CBD work together: CBD tames THC's psychoactive effects while
+- THC and CBD work together: CBD tames THC"s psychoactive effects while
   amplifying therapeutic properties
 - CBD acts as a "negative allosteric modulator" at CB1, allowing patients to
   access THC's therapeutic powers at higher concentrations

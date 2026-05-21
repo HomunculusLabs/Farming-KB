@@ -9,12 +9,12 @@ topics: [winter-harvest, semi-hibernation, harvest-extension, plant-growth, day-
 
 ## Overview
 
-Eliot Coleman's Winter Harvest Handbook introduces the concept of "semi-hibernating" winter crops — a fundamental [[coleman-soil-heat-mass-passive-thermal-storage]] mass of soil)
+Eliot Coleman"s Winter Harvest Handbook introduces the concept of "semi-hibernating" winter crops — a fundamental [[coleman-soil-heat-mass-passive-thermal-storage]] mass of soil)
 - Plants stop growing but remain alive and harvestable
 - Sowing happens in late summer/early fall; harvesting happens through winter
 - Minimal operating costs; no fossil fuel consumption
 
-Coleman describes the winter crops as "just idling their engines, so to speak, waiting for us to come and harvest them." This semi-hibernation state is the key to the system's low-input economics.
+Coleman describes the winter crops as "just idling their engines, so to speak, waiting for us to come and harvest them." This semi-hibernation state is the key to the system"s low-input economics.
 
 ## The Semi-Hibernation Mechanism
 
@@ -27,7 +27,7 @@ Coleman emphasizes that the goal is to have crops "almost to maturity before the
 
 ## Day Length: The Primary Growth Limiting Factor
 
-Coleman's key insight is that day length, not temperature, is the primary factor limiting winter plant growth:
+Coleman"s key insight is that day length, not temperature, is the primary factor limiting winter plant growth:
 
 - Below 10 hours of daylight (roughly November through February at his latitude), growth essentially stops regardless of temperature
 - This means that heating a greenhouse during the Persephone months has limited benefit for growth

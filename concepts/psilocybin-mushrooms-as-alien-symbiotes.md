@@ -7,7 +7,7 @@ sources:
 type: concept
 tags: [psilocybin]
 ---
-## The Mushroom's Self-Description
+## The Mushroom"s Self-Description
 
 McKenna reported that within the mushroom trance, he was informed that the
 mushroom is an extraterrestrial organism with specific characteristics:
@@ -34,7 +34,7 @@ According to the hypothesis, the mushroom achieved symbiosis with human society
 early by associating with domesticated cattle and, through them, nomadic human
 populations. Like cultivated plants and husbanded animals, the mushroom was
 "inculcated into the human family" so that wherever human genes traveled, the
-mushroom's genes would be carried as well.
+mushroom"s genes would be carried as well.
 
 The classic [[gordon-wasson-comparative-method-ethnomycology]] rediscovered it in the
 1950s.
@@ -45,7 +45,7 @@ McKenna described the mushroom as a "revealed information system" that provides
 answers to questions raised by its own presence. Within the trance, one can
 reportedly access images of cosmological history spanning four and a half billion
 years. The mushroom conveys the sense that the galaxy has been an organized
-society for billions of years, and that humanity's conceptions of organized
+society for billions of years, and that humanity"s conceptions of organized
 intelligence and the dispersion of life are "hopelessly culture-bound."
 
 The mushroom reportedly communicated that:

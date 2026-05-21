@@ -26,7 +26,7 @@ In one of the most informative studies documented in PiHKAL, MDMA was consumed d
 - By day 5: "there were no effects from the drug except for some mydriasis"
 - By day 6: even the mydriasis "appeared to be lost"
 
-This demonstrates rapid and nearly complete tolerance development to MDMA's subjective effects over approximately 5 days of consecutive use.
+This demonstrates rapid and nearly complete tolerance development to MDMA"s subjective effects over approximately 5 days of consecutive use.
 
 ### Tolerance Reversal
 

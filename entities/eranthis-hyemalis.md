@@ -23,7 +23,7 @@ The genus name Eranthis derives from the Greek "er" (spring) and "anthos" (flowe
 
 Eranthis hyemalis is a member of the tribe Caltheae within Ranunculaceae. It is most closely related to the genus Caltha (marsh marigolds) based on molecular evidence.
 
-The species is sometimes called "winter wolf's bane" in older herbals, though this name is now largely disused. It has no relationship to the true wolfsbane ([[eranthis-cilicica]] from Turkey, which has larger flowers and more deeply divided bracts. The two species hybridize readily in cultivation.
+The species is sometimes called "winter wolf"s bane" in older herbals, though this name is now largely disused. It has no relationship to the true wolfsbane ([[eranthis-cilicica]] from Turkey, which has larger flowers and more deeply divided bracts. The two species hybridize readily in cultivation.
 
 ## Morphology
 

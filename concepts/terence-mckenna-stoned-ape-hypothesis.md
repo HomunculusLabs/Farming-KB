@@ -1,5 +1,5 @@
 ---
-title: Terence McKenna's Stoned Ape Hypothesis
+title: Terence McKenna"s Stoned Ape Hypothesis
 created: 2026-04-13
 updated: 2026-04-13
 type: concept
@@ -45,7 +45,7 @@ At high doses, psilocybin produces the "full-blown shamanic ecstasy" -- boundary
 
 ## Language and Synesthesia
 
-McKenna argued that psilocybin's power to stimulate synesthesia -- the experience of seeing sounds, hearing colors -- was crucial to the development of language. Synesthesia breaks down the barriers between sensory modalities, and McKenna proposed that this experience of "seeing" meaning could have catalyzed the emergence of linguistic behavior: "psilocybin can be considered the catalyst to the human development of language."
+McKenna argued that psilocybin"s power to stimulate synesthesia -- the experience of seeing sounds, hearing colors -- was crucial to the development of language. Synesthesia breaks down the barriers between sensory modalities, and McKenna proposed that this experience of "seeing" meaning could have catalyzed the emergence of linguistic behavior: "psilocybin can be considered the catalyst to the human development of language."
 
 ## Addressing the Lamarckian Objection
 

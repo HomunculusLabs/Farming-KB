@@ -37,7 +37,7 @@ near the bag wall rather than in the interior, resulting in less even distributi
 
 ## The Long Needle Method
 
-The long needle method, Jarrold's preferred approach, uses an extended needle that
+The long needle method, Jarrold"s preferred approach, uses an extended needle that
 passes through the filter can from above, reaching deep into the substrate in a
 single injection. Jarrold describes it as "much easier, quicker and more trouble
 free" than the short needle approach.

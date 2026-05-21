@@ -14,7 +14,7 @@ sources: [raw/papers/mycelium-running-stamets.md, raw/papers/unknown-growing-gou
 ## Key Medicinal Compounds
 
 ### Beta-Glucans
-Long-chain polysaccharides found in mushroom cell walls that modulate the immune system. They activate macrophages, natural killer cells, and T-cells, enhancing the body's ability to fight infections and cancer. Beta-glucans are the most studied [[medicinal-mushroom-compounds]] and are the basis for many pharmaceutical preparations.
+Long-chain polysaccharides found in mushroom cell walls that modulate the immune system. They activate macrophages, natural killer cells, and T-cells, enhancing the body"s ability to fight infections and cancer. Beta-glucans are the most studied [[medicinal-mushroom-compounds]] and are the basis for many pharmaceutical preparations.
 
 ### Triterpenes
 Found primarily in [[ganoderma]] (reishi) species. These compounds have anti-inflammatory, antihistamine, and liver-protective properties. They contribute to reishi's bitter taste.

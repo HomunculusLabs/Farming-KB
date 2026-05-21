@@ -19,7 +19,7 @@ Application rates for [[savory-growing-season-and-non-growing-season-management]
 - When pest/disease alerts are issued: **weekly** until the alert stops
 
 ### Reducing Over Time
-"Once the critters are in the soil, from plentiful applications of compost and compost tea, won't they continue forever? Yes, the organisms will continue as long as you have plants in the system, or you add foods to feed them." Disturbance (tilling, pesticides, floods, droughts) may require returning to more frequent applications.
+"Once the critters are in the soil, from plentiful applications of compost and compost tea, won"t they continue forever? Yes, the organisms will continue as long as you have plants in the system, or you add foods to feed them." Disturbance (tilling, pesticides, floods, droughts) may require returning to more frequent applications.
 
 ## Crop-Specific Recommendations
 

@@ -14,7 +14,7 @@ sources:
 
 ## Overview
 
-Crocus tommasinianus Herb., commonly known as Tommasini's crocus or the "tommies," is an early-flowering cormous perennial in the family Iridaceae. Named after the Triestine botanist Muzio Tommasini, it is one of the most reliable and widely naturalized crocus species in temperate gardens.
+Crocus tommasinianus Herb., commonly known as Tommasini"s crocus or the "tommies," is an early-flowering cormous perennial in the family Iridaceae. Named after the Triestine botanist Muzio Tommasini, it is one of the most reliable and widely naturalized crocus species in temperate gardens.
 
 The species produces slender, pale lavender to purple flowers with a distinctive silvery sheen on the outer petals. Flowers open wide in sunlight, revealing bright orange anthers that contrast sharply with the cool-toned perianth.
 

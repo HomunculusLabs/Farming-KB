@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-Low islands — atolls and cays — present some of the most constrained and fragile environments for human habitation. With finite freshwater lenses sitting atop saltwater, limited catchment area, and a [[calcium-phosphate]] soil chemistry that creates an impermeable subsurface layer, these islands demand exceptionally careful design. [[bill-mollison]]'s approach to [[low-island-permaculture]] integrates geology, water physics, traditional Polynesian practices, and innovative [[container-gardening-techniques]] to create productive systems on these marginal lands.
+Low islands — atolls and cays — present some of the most constrained and fragile environments for human habitation. With finite freshwater lenses sitting atop saltwater, limited catchment area, and a [[calcium-phosphate]] soil chemistry that creates an impermeable subsurface layer, these islands demand exceptionally careful design. [[bill-mollison]]"s approach to [[low-island-permaculture]] integrates geology, water physics, traditional Polynesian practices, and innovative [[container-gardening-techniques]] to create productive systems on these marginal lands.
 
 ## Island Classification
 
@@ -69,7 +69,7 @@ It is no good simply removing the platen and replacing it with mulch under sand 
 
 ## The Ring Garden (Circle Garden)
 
-The magical ring garden is Mollison's signature technique for low island [[coleman-french-historical-winter-vegetable-production]]:
+The magical ring garden is Mollison"s signature technique for low island [[coleman-french-historical-winter-vegetable-production]]:
 
 ### Construction
 1. **Break up the platen** and remove it from a circular area

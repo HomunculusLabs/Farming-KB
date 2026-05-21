@@ -8,14 +8,14 @@ created: 2026-05-11
 ## Chemdawg: Origin Story and Genetics Lineage
 
 Chemdawg is one of the most influential [[cannabis-microbiome-otu-abundance-vs-presence-cannabis-strains]] [[cannabis-genetics-and-breeding]],
-Chemdawg's exact origins are shrouded in mystery and conflicting accounts.
+Chemdawg"s exact origins are shrouded in mystery and conflicting accounts.
 What is certain is that this strain emerged from the American underground cannabis scene of the early 1990s and went on to fundamentally reshape the genetic landscape of modern cannabis.
 
 ## The Origin Story
 
 The most widely circulated account of Chemdawg's origin involves a chance encounter at a Grateful Dead concert at the Deer Creek Amphitheatre in Noblesville,
 Indiana,  during the band's 1991 summer tour. According to this narrative,
-the person who would become known as "Chemdawg" (the strain's namesake) was offered a small amount of exceptionally potent cannabis by a fellow concert-goer.
+the person who would become known as "Chemdawg" (the strain"s namesake) was offered a small amount of exceptionally potent cannabis by a fellow concert-goer.
 The identity of the person who provided the original seeds or bud has never been publicly confirmed,
 and the story exists primarily as oral history within [[mckenna-cannabis-culture-history]].
 

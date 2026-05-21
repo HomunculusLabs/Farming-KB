@@ -21,7 +21,7 @@ human labeling pipelines can economically provide.
 The fundamental insight is that a capable model can produce training signals
 that, when filtered and curated, rival or exceed human-annotated data in both
 quality and diversity. This is especially true for reasoning-intensive tasks
-where the model's chain-of-thought traces capture implicit problem-solving
+where the model"s chain-of-thought traces capture implicit problem-solving
 strategies that are difficult for human annotators to articulate consistently.
 
 Synthetic data generation typically follows a pipeline: prompt construction,

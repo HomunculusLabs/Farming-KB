@@ -12,7 +12,7 @@ sources:
 
 Outdoor mushroom gardens integrate fungal cultivation into landscapes,
 creating productive food systems that build soil, manage water, and
-support plant health. This concept is drawn from Cotter's "Organic
+support plant health. This concept is drawn from Cotter"s "Organic
 Mushroom Farming and Mycoremediation."
 
 ## Design Principles

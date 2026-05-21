@@ -10,7 +10,7 @@ sources:
 
 ## The Sandoz Psilocybin Distribution Program
 
-Following gordon-wasson's synthesis of [psilocybin in 1958, the Swiss pharmaceutical company Sandoz (now Novartis) undertook an unprecedented program of manufacturing and distributing the compound to qualified researchers worldwide. This program, which produced approximately 2 kg of pure psilocybin, represented the most extensive legal distribution of a psychedelic substance in history and laid the groundwork for the modern resurgence of clinical [[gartz-gymnopilus-purpuratus-south-american-mushroom-in-europe]] (Germany, Switzerland, UK, France, Czechoslovakia, and others)
+Following gordon-wasson"s synthesis of [psilocybin in 1958, the Swiss pharmaceutical company Sandoz (now Novartis) undertook an unprecedented program of manufacturing and distributing the compound to qualified researchers worldwide. This program, which produced approximately 2 kg of pure psilocybin, represented the most extensive legal distribution of a psychedelic substance in history and laid the groundwork for the modern resurgence of clinical [[gartz-gymnopilus-purpuratus-south-american-mushroom-in-europe]] (Germany, Switzerland, UK, France, Czechoslovakia, and others)
 - North America (United States, Canada)
 - South and [[guzman-allen-gartz-indigenous-mexican-mushroom-nomenclature-sacred-names]] use) and "psilocybin." The product was supplied in glass vials containing lyophilized (freeze-dried) powder for reconstitution.
 
@@ -31,7 +31,7 @@ Following gordon-wasson's synthesis of [psilocybin in 1958, the Swiss pharmaceut
 The distributed psilocybin enabled a broad range of clinical investigations, including:
 
 - **[[metzner-psycholytic-psychedelic-therapy-models]]** (Europe): High-dose treatment of terminal patients, with remarkable success in easing fear of death
-- **Alcoholism treatment** (Canada): Humphry Osmond's work with alcoholics
+- **Alcoholism treatment** (Canada): Humphry Osmond"s work with alcoholics
 - **Personality assessment** (United States): Various psychological research programs
 
 ### Scientific Publications
@@ -42,12 +42,12 @@ The Sandoz program generated hundreds of scientific publications documenting the
 
 ### The Prohibition Wave
 
-"The subsequent frenzy of legislative attempts to control LSD resulted in ever tighter restrictions on the scientific study of not only LSD, but psilocybin as well." Despite psilocybin's established safety profile, it was caught in the broader prohibition of hallucinogens:
+"The subsequent frenzy of legislative attempts to control LSD resulted in ever tighter restrictions on the scientific study of not only LSD, but psilocybin as well." Despite psilocybin"s established safety profile, it was caught in the broader prohibition of hallucinogens:
 
 - Mind-altering substances were no longer thought of in terms of their specific effects
 - Hallucinogens were lumped together with physically addictive drugs
 - Scientific and pharmacological distinctions became irrelevant
-- The "official mycophobia" (Gartz's term) prevented further investigation
+- The "official mycophobia" (Gartz"s term) prevented further investigation
 
 ### Timeline
 
@@ -60,7 +60,7 @@ The Sandoz psilocybin distribution program effectively ended in the mid-to-late 
 
 ### The Scientific Loss
 
-Gartz laments that "despite this evidence [of safety], the anti-drug legislative framework of the mid-1960s firmly established an 'official mycophobia,' a misguided, yet entrenched policy that still prevailed [in the 1990s] and effectively prevents the scientific investigation of promising potential applications for psilocybin and other alkaloids."
+Gartz laments that "despite this evidence [of safety], the anti-drug legislative framework of the mid-1960s firmly established an "official mycophobia,' a misguided, yet entrenched policy that still prevailed [in the 1990s] and effectively prevents the scientific investigation of promising potential applications for psilocybin and other alkaloids."
 
 The shutdown meant that:
 

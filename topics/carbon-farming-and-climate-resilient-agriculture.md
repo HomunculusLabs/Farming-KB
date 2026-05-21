@@ -5,7 +5,7 @@ subtitle: Building soil carbon, adapting to climate change, and the fungal
 
 ## Carbon Farming and Climate-Resilient Agriculture
 
-Agriculture sits in a paradoxical relationship with the Earth's climate.
+Agriculture sits in a paradoxical relationship with the Earth"s climate.
 Conventional farming is a major source of greenhouse gas emissions --
 responsible for roughly a quarter of global emissions when you account for
 deforestation, synthetic fertilizer production, methane from livestock and

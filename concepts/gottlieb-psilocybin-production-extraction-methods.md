@@ -1,5 +1,5 @@
 ---
-title: Gottlieb's Psilocybin Extraction Methods
+title: Gottlieb"s Psilocybin Extraction Methods
 created: 2026-04-26
 updated: 2026-04-24
 sources:
@@ -10,7 +10,7 @@ tags: [psilocybin]
 
 Gottlieb's Psilocybin Extraction Methods
 
-The book "gottlieb psilocybin production extraction methods" by Gottlieb (with a legal update by Richard Glen Boire) provides complete instructions for cultivating psilocybin-bearing mushroom mycelium and extracting the active alkaloids psilocybin and psilocin. The extraction method described uses methanol as the primary solvent and produces a crude alkaloid preparation of approximately 25-50% purity. The book also references PF's [[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]] is described as the most potent and most easily cultivated. Cultivation temperature influences potency: higher temperatures (75 degrees F) cause faster growth but lesser psilocybin content than lower temperatures (70 degrees F). Strain variation and cultivation conditions also affect yield. Each batch of extracted material must be tested to determine proper dosing.
+The book "gottlieb psilocybin production extraction methods" by Gottlieb (with a legal update by Richard Glen Boire) provides complete instructions for cultivating psilocybin-bearing mushroom mycelium and extracting the active alkaloids psilocybin and psilocin. The extraction method described uses methanol as the primary solvent and produces a crude alkaloid preparation of approximately 25-50% purity. The book also references PF"s [[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]] is described as the most potent and most easily cultivated. Cultivation temperature influences potency: higher temperatures (75 degrees F) cause faster growth but lesser psilocybin content than lower temperatures (70 degrees F). Strain variation and cultivation conditions also affect yield. Each batch of extracted material must be tested to determine proper dosing.
 
 Dosage
 

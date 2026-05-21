@@ -31,7 +31,7 @@ The thallus is fruticose, bushy, and densely branched, forming hanging tufts tha
 
 The main axis has a tough, elastic central strand (medullary cord) that is clearly visible when the branch is pulled apart. This elastic cord is a diagnostic character for the genus *Usnea* and distinguishes it from superficially similar genera.
 
-The thallus surface is gray to grayish-green when dry, becoming more green when wet. Papillae and fibrils are abundant on branch surfaces, contributing to the species' characteristic fuzzy appearance.
+The thallus surface is gray to grayish-green when dry, becoming more green when wet. Papillae and fibrils are abundant on branch surfaces, contributing to the species" characteristic fuzzy appearance.
 
 Apothecia are frequent and conspicuous, terminal or lateral on branch tips, 3–10 mm in diameter. They are lecanorine with a concave to convex brown disc and a prominent, densely fibrillose thalline margin.
 

@@ -20,7 +20,7 @@ type: concept
 
 ## Cannabis and the Dreaming Weavers
 
-Cannabis occupies a unique position in McKenna's pharmacological history. Unlike
+Cannabis occupies a unique position in McKenna"s pharmacological history. Unlike
 the vision-inducing hallucinogens of the Archaic partnership paradise, cannabis
 functions as a subtler agent of boundary dissolution, one capable of satisfying
 the innate yearning for Archaic [[coleman-louis-savier-twentieth-century-maraicher]].

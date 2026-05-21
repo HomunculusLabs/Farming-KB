@@ -35,7 +35,7 @@ Long before the development of synthetic pharmaceuticals, human cultures
 [[metzner-shamanic-healing-and-divination-paradigm]], and
 cornerstones of religious practice for thousands of years. The
 relationship between humans and psychoactive plants is one of the
-oldest and most consequential chapters in our species' history, shaping
+oldest and most consequential chapters in our species" history, shaping
 art, religion, medicine, and social organization across every inhabited
 continent.
 

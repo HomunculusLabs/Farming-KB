@@ -6,7 +6,7 @@ type: entity
 
 ## Description
 
-A **keyhole bed** is a garden bed design pattern that uses a lobular or crenellated shape — resembling an old-fashioned keyhole — to maximize the ratio of growing edge to pathway area. The pattern is common in nature and was formalized in permaculture by [[edge-effect]], Gangamma's Mandala, crenellated edge, annidation
+A **keyhole bed** is a garden bed design pattern that uses a lobular or crenellated shape — resembling an old-fashioned keyhole — to maximize the ratio of growing edge to pathway area. The pattern is common in nature and was formalized in permaculture by [[edge-effect]], Gangamma"s Mandala, crenellated edge, annidation
 
 ## Key Facts
 

@@ -56,11 +56,11 @@ The development of good observation skills takes time and a quiet, centered cond
 
 **4. Failure is useful so long as we learn**
 
-The [[holmgren-action-learning-loop]] allows starting wherever we are and proceeding from narrow perspective to broader, more wholistic understanding by incremental adjustment. With complex natural systems, cause and effect are often a loop or web rather than linear chain. Don't assume you were the reason for success — conduct small trials and consider other possible causes.
+The [[holmgren-action-learning-loop]] allows starting wherever we are and proceeding from narrow perspective to broader, more wholistic understanding by incremental adjustment. With complex natural systems, cause and effect are often a loop or web rather than linear chain. Don"t assume you were the reason for success — conduct small trials and consider other possible causes.
 
 **5. Elegant solutions are simple, even invisible**
 
-In science, the simplest answer explaining all facts has more validity than a complex one. In design, enormous complexity often indicates poor design. Really effective systems may work so well we don't notice them — common with free environmental services like air and water purification. "We don't know what we've got till it's gone."
+In science, the simplest answer explaining all facts has more validity than a complex one. In design, enormous complexity often indicates poor design. Really effective systems may work so well we don't notice them — common with free environmental services like air and water purification. "We don"t know what we've got till it's gone."
 
 **6. Make the smallest intervention necessary**
 
@@ -82,9 +82,9 @@ Pests can be viewed as surpluses of nature needing to be used rather than destro
 
 **9. Recognize and break out of design cul-de-sacs**
 
-Proven solutions become entrenched through tradition and institutions. Incremental small improvements are integrated where they don't alter fundamental structure. However, rapid environmental change can make the "optimum solution" a design cul-de-sac with no way forward and no going back — like the frog that fails to leap from slowly heating water.
+Proven solutions become entrenched through tradition and institutions. Incremental small improvements are integrated where they don"t alter fundamental structure. However, rapid environmental change can make the "optimum solution" a design cul-de-sac with no way forward and no going back — like the frog that fails to leap from slowly heating water.
 
-[[amory-lovins]]' concept of "tunnelling through the cost barriers" — making large improvements in efficiency rather than incremental ones — can actually cost less than small adjustments. What is needed is lateral thinking, readiness to abandon the proven, and willingness to take risks.
+[[amory-lovins]]" concept of "tunnelling through the cost barriers" — making large improvements in efficiency rather than incremental ones — can actually cost less than small adjustments. What is needed is lateral thinking, readiness to abandon the proven, and willingness to take risks.
 
 ## Formal Education and Media: Problems and Limitations
 
@@ -111,9 +111,9 @@ The proliferation under free energy supply creates possibilities that could neve
 
 ### Scavenging the Cultural Rubbish Tip
 
-In a low-energy future, most of today's technology and culture will end up in the dustbin — but some aspects may provide critical components. [[permaculture-principles]] help identify useful pieces of modernity and combine them with nature and pre-modern cultures.
+In a low-energy future, most of today"s technology and culture will end up in the dustbin — but some aspects may provide critical components. [[permaculture-principles]] help identify useful pieces of modernity and combine them with nature and pre-modern cultures.
 
-"It is as if we are wandering about a landscape littered with the pieces of many different jigsaw puzzles. Our task is to pick up as many pieces as seem possibly useful, and carry them to a place we don't yet know, where we must construct a new jigsaw puzzle from what we have."
+"It is as if we are wandering about a landscape littered with the pieces of many different jigsaw puzzles. Our task is to pick up as many pieces as seem possibly useful, and carry them to a place we don"t yet know, where we must construct a new jigsaw puzzle from what we have."
 
 ### The Value of Skepticism
 

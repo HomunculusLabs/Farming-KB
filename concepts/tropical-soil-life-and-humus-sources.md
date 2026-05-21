@@ -6,7 +6,7 @@ type: concept
 
 ## Tropical Soil Life and Humus Sources
 
-[[humus]] for building and maintaining tropical soils. Both topics are explored in depth in Chapter 10 of *[[permaculture]]: A Designers' Manual*.
+[[humus]] for building and maintaining tropical soils. Both topics are explored in depth in Chapter 10 of *[[permaculture]]: A Designers" Manual*.
 
 ## Termites and Ants as Ecosystem Engineers
 

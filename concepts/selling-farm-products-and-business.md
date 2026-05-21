@@ -46,7 +46,7 @@ Meat, dairy, eggs (for sale), canned low-acid foods (pressure canned), juices, s
 - Must label with: ingredients, allergens, producer name/address, "Made in a home kitchen"
 - Sales limited to farmers markets, direct to consumer, online within state
 - No interstate sales
-- Some states require food handler's card
+- Some states require food handler"s card
 - **Best resource**: Forrager.com — updated cottage food law comparison by state
 
 See also [[food-preservation-canning]].

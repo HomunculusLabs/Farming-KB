@@ -11,7 +11,7 @@ created: 2026-05-09
 
 ## Overview
 
-Uwe Blesching's *The [[blesching-cannabis-cardiovascular-heart-disease-evidence-review]] are treated in the future.
+Uwe Blesching"s *The [[blesching-cannabis-cardiovascular-heart-disease-evidence-review]] are treated in the future.
 
 ## The Paradox: Risk vs. Protection
 
@@ -36,7 +36,7 @@ The reduction in infarct size is clinically significant because the extent of ca
 
 ### 2. Protection Against Hypoxic Damage via Nitric Oxide
 
-One of the most important mechanisms identified is THC's ability to induce nitric oxide (NO) production, which may protect heart cells against hypoxic damage:
+One of the most important mechanisms identified is THC"s ability to induce nitric oxide (NO) production, which may protect heart cells against hypoxic damage:
 
 - **Hypoxia as direct cause:** Poor perfusion (blood flow) to heart cells is the direct mechanism of damage during a heart attack
 - **NO as preconditioning signal:** Nitric oxide acts as a signaling molecule that "primes" cardiac cells to better withstand periods of low oxygen
@@ -58,7 +58,7 @@ CB1 receptors are found not only in the brain but also in cardiac tissue and the
 THC causes bronchodilation (enlargement/dilation of the airways), which increases air supply to the lungs. While not a direct cardiac mechanism, this is therapeutically relevant to heart disease for several reasons:
 
 - **Improved oxygenation:** Dilated airways improve gas exchange, increasing blood oxygen saturation
-- **Reduced cardiac workload:** When blood oxygen is adequate, the heart doesn't need to work as hard to meet the body's oxygen demands
+- **Reduced cardiac workload:** When blood oxygen is adequate, the heart doesn"t need to work as hard to meet the body's oxygen demands
 - **COPD overlap:** Many heart disease patients also have chronic obstructive pulmonary disease; bronchodilation benefits both conditions simultaneously
 
 ### 5. Weight Gain and Increased Walking Distance in COPD

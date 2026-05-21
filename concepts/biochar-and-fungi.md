@@ -33,7 +33,7 @@ The Amazonian dark earth known as Terra Preta do Indio demonstrates the long-ter
 ## Biochar-Mycorrhizal Synergy
 
 ### Habitat Provision
-Biochar's porous structure provides ideal fungal habitat:
+Biochar"s porous structure provides ideal fungal habitat:
 - Macropores (>50 microns) serve as hyphal highways for mycelial exploration
 - Micropores (<10 microns) protect fungal spores from predation
 - Biochar particles act as refugia during soil disturbance

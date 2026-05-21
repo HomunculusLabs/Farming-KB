@@ -9,7 +9,7 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Duke, J.A. (2017). "Duke's Handbook of Medicinal Plants of Latin America." CRC Press.
+  - Duke, J.A. (2017). "Duke"s Handbook of Medicinal Plants of Latin America." CRC Press.
 ---
 
 ## Solanum nigrum

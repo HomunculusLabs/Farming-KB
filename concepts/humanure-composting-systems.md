@@ -140,9 +140,9 @@ Best practices suggest applying to fruit trees, berry bushes, and ornamental pla
 ## Common Misconceptions
 
 - "It smells" — A properly managed system has no more odor than a regular compost pile
-- "It's illegal everywhere" — Regulations vary widely; many rural areas have no specific prohibition
+- "It"s illegal everywhere" — Regulations vary widely; many rural areas have no specific prohibition
 - "It spreads disease" — Thermophilic composting is a proven pathogen destruction method used in municipal sewage treatment worldwide
-- "It's only for hippies" — Composting toilets are used in national parks, eco-villages, and off-grid homes across the socioeconomic spectrum
+- "It"s only for hippies" — Composting toilets are used in national parks, eco-villages, and off-grid homes across the socioeconomic spectrum
 
 ## Related Topics
 

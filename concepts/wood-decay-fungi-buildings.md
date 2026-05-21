@@ -10,7 +10,7 @@ sources: [raw/papers/forest-gardening-robert-hart.md]
 
 ## Dry Rot Fungi
 
-### *[[dmt-containing-plants-united-states-halpern]]. The species was first described in 1849. Its name derives from *Meruli* (yellow, comparable to a blackbird's beak), *poria* (porous nature of fruiting bodies), and *incrassata* (thickness of fruiting bodies).
+### *[[dmt-containing-plants-united-states-halpern]]. The species was first described in 1849. Its name derives from *Meruli* (yellow, comparable to a blackbird"s beak), *poria* (porous nature of fruiting bodies), and *incrassata* (thickness of fruiting bodies).
 
 The fungus has become a severe problem on the US West Coast in recent decades, largely because [[white-rot-fungi]]
 [[stamets-growing-room-air-circulation-co2-management]], spores collect beneath crusts as a reddish shroud
@@ -20,7 +20,7 @@ The fungus has become a severe problem on the US West Coast in recent decades, l
 ## Historical Impact
 
 ### British Royal Navy
-Dry rot was a celebrity in seventeenth-century Britain when it ravaged the Royal Navy. Samuel Pepys surveyed ships at Chatham Dockyard in the 1680s and found planks "perished to powder." Warships expected to last 25–30 years saw their useful life cut to 12 years, dwindling to "no duration" after Trafalgar in 1805. The 110-gun *Queen Charlotte* deteriorated so swiftly during construction that she had to be rebuilt in 1810 before sailing — at a cost (in today's prices) of approximately US$2.5 billion.
+Dry rot was a celebrity in seventeenth-century Britain when it ravaged the Royal Navy. Samuel Pepys surveyed ships at Chatham Dockyard in the 1680s and found planks "perished to powder." Warships expected to last 25–30 years saw their useful life cut to 12 years, dwindling to "no duration" after Trafalgar in 1805. The 110-gun *Queen Charlotte* deteriorated so swiftly during construction that she had to be rebuilt in 1810 before sailing — at a cost (in today"s prices) of approximately US$2.5 billion.
 
 ### Ships
 The *Mary Rose* (Henry VII's flagship, lost 1545) and the *Royal George* (sunk 1782 with hundreds of crew) were likely lost due to dry-rot-weaken laetiporus sulphureus s sulphureus* (sulphur shelf) also ate oak planks and formed bright yellow brackets inside rotting holds.

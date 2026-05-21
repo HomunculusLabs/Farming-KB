@@ -11,7 +11,7 @@ tags: [permaculture, ethics, holmgren, care-for-earth, care-for-people, fair-sha
 ## Ethics as Design Constraints
 
 Ethics are the moral principles guiding action toward good outcomes and away from
-bad ones. In Holmgren's framework, ethics act as constraints on survival instincts
+bad ones. In Holmgren"s framework, ethics act as constraints on survival instincts
 and self-interest that drive human behavior. They are culturally evolved mechanisms
 for more enlightened self-interest — a more inclusive view of who and what
 constitutes "us" and a longer-term understanding of consequences.
@@ -77,7 +77,7 @@ or territory — as understood by [[ethnobotanical-use-of-sacred-mushrooms-in-in
 This acknowledges individual and collective responsibility for particular natural
 resources about which we have some understanding and power.
 
-[[wendell-berry]]'s critique of planetary stewardship is relevant here: the notion
+[[wendell-berry]]"s critique of planetary stewardship is relevant here: the notion
 of managing the entire planet reflects arrogant disconnection from nature and
 belief in our own power, rather than genuine care.
 

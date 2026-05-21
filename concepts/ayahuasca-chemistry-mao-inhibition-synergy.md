@@ -44,7 +44,7 @@ The ayahuasca vine (*[[banisteriopsis-caapi]]*) provides the MAO-inhibiting
 - **Harmaline** (3,4-dihydroharmine) — MAO-A inhibitor with additional
   CNS activity; tremorogenic at high doses
 - **[[tetrahydroharmine]]** (THH) — weak MAO inhibitor but potent serotonin
-  reuptake inhibitor (SRI); may contribute to the brew's visionary quality
+  reuptake inhibitor (SRI); may contribute to the brew"s visionary quality
 
 ## Biochemical Mechanism
 

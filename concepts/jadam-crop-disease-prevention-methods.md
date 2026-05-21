@@ -9,11 +9,11 @@ sources:
 ---
 ## JADAM Crop Disease Prevention Methods
 
-JADAM's approach to crop disease prevention centers on a fundamental shift: from "disinfection" (killing pathogens) to "diversity" (crowding out pathogens through microbial population and diversity). This philosophy applies to both soil-borne and foliar diseases.
+JADAM"s approach to crop disease prevention centers on a fundamental shift: from "disinfection" (killing pathogens) to "diversity" (crowding out pathogens through microbial population and diversity). This philosophy applies to both soil-borne and foliar diseases.
 
 ## The Core Principle: Diversity Over Disinfection
 
-Disease occurs when a certain virus, bacteria, or pest takes control of the soil or plant surface. JADAM's solution: maximize the population and diversity of microorganisms so no single pathogen can dominate.
+Disease occurs when a certain virus, bacteria, or pest takes control of the soil or plant surface. JADAM"s solution: maximize the population and diversity of microorganisms so no single pathogen can dominate.
 
 The analogy: athlete's foot fungi cannot establish on the foot of someone who walks barefoot, because the foot is already full of diverse microorganisms. The competition prevents disease-causing organisms from becoming prevalent. Apply the same logic to canker and [[ingham-ampelomyces-powdery-mildew-biocontrol-aact]] bacteria are ubiquitous (everywhere in soil)
 - One spore can propagate to 1 billion in 10 hours

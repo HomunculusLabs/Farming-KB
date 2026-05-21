@@ -34,7 +34,7 @@ Data on species diversity of sequestrate fungi are scant, but observations from 
 
 #### Shared Ancestry with Epigeous Fungi
 
-Sequestrate fungi in the Ascomycetes and Basidiomycetes share a common ancestry with or were derived from epigeous, nonsequestrate forms of cup fungi and mushrooms (Trappe 1979; Miller 1983; Thiers 1984; Bruns et al. 1989; O'Donnell et al. 1996). They have evolved along several phylogenetic lines into fungi ranging from mushroomlike to trufflelike.
+Sequestrate fungi in the Ascomycetes and Basidiomycetes share a common ancestry with or were derived from epigeous, nonsequestrate forms of cup fungi and mushrooms (Trappe 1979; Miller 1983; Thiers 1984; Bruns et al. 1989; O"Donnell et al. 1996). They have evolved along several phylogenetic lines into fungi ranging from mushroomlike to trufflelike.
 
 #### Boletales — A Model Evolutionary Series
 

@@ -16,7 +16,7 @@ title: "History Of Mushroom Cultivation"
 
 ## Overview
 
-The cultivation of mushrooms has a rich history spanning thousands of years, from ancient Chinese practices with [[medicinal-mushroom-guide|medicinal fungi]] to the sophisticated commercial operations of today. The development of mushroom cultivation represents one of humanity's oldest and most fascinating relationships with fungi.
+The cultivation of mushrooms has a rich history spanning thousands of years, from ancient Chinese practices with [[medicinal-mushroom-guide|medicinal fungi]] to the sophisticated commercial operations of today. The development of mushroom cultivation represents one of humanity"s oldest and most fascinating relationships with fungi.
 
 ## Ancient China (circa 600 AD and earlier)
 
@@ -60,7 +60,7 @@ The modern history of mushroom cultivation begins in France:
 - **American adoption:** Mushroom cultivation was established in America by the mid-1800s, particularly around New York. The industry was dominated by growers on Long Island between Jamaica and Woodhaven, where several large mushroom cellars were built under barns and greenhouses specifically for cultivation.
 - **William Falconer (1891):** His book "Mushrooms: How to Grow Them" provides a window into late-19th-century cultivation, describing greenhouse bench cultivation, cellar growing, and the use of spent mushroom compost as manure for vegetable crops -- the original circular agriculture.
 
-### Duggar's Era (Early 1900s)
+### Duggar"s Era (Early 1900s)
 
 - **Scientific approach emerges:** Benjamin Minge Duggar's "Mushroom Growing" (published by the USDA) represents the transition from empirical to scientific cultivation, incorporating observations from commercial production with emerging understanding of fungal biology
 - The book discusses cultivation practices in foreign countries, European truffles, African and Asiatic termites, and foreign markets for wild mushrooms -- reflecting a globalizing perspective on fungal resources

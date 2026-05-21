@@ -12,7 +12,6 @@ date: 2026-05-10
 updated: 2026-05-10
 sources:
   - "Brett, R. (1956). \"The dmt-containing-plants-united-states-halpern National Herbarium, 26, 289-376."---
----
 
 ## Zinnia elegans (*Zinnia elegans*)
 

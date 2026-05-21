@@ -88,6 +88,6 @@ Managing *Plasmopara* diseases requires an [[solomon-insects-and-diseases-integr
 
 ## References and Further Reading
 
-- Lowenfels, J. & Lewis, W. (2010). *Teaming with Microbes: The Organic Gardener's Guide to [[the-soil-food-web]]*. Timber Press.
+- Lowenfels, J. & Lewis, W. (2010). *Teaming with Microbes: The Organic Gardener"s Guide to [[the-soil-food-web]]*. Timber Press.
 - Gessler, C. et al. (2011). "*Plasmopara viticola*: the pathogen and its interactions with grapevine." In *Genetics, Genomics and Breeding of Grapes*, Science Publishers.
 - Thines, M. & Kamoun, S. (2010). "Oomycete-plant coevolution: a genomic perspective." In *Oomycete Genetics and Genomics*, Wiley.

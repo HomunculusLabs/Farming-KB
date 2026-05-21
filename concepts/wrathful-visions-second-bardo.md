@@ -31,7 +31,7 @@ Only persons of extremely advanced spiritual development can accomplish complete
 
 ## Characteristic Third Bardo Experiences
 
-The person descends step by step into lower, more constricted states of consciousness. Each step may be preceded by swooning into unconsciousness. Reality seems dull, static, hard, angular, and puppet-like by contrast with earlier phases. Narrow, primitive elements from repressed aspects of personal history take over — powerful impulses made overwhelming by Bardo suggestibility. The more enlightened consciousness of the first two Bardos and the civilized elements of ordinary waking life are shelved in favor of obsessive, incoherent instinctual parts of the voyager's total personality.
+The person descends step by step into lower, more constricted states of consciousness. Each step may be preceded by swooning into unconsciousness. Reality seems dull, static, hard, angular, and puppet-like by contrast with earlier phases. Narrow, primitive elements from repressed aspects of personal history take over — powerful impulses made overwhelming by Bardo suggestibility. The more enlightened consciousness of the first two Bardos and the civilized elements of ordinary waking life are shelved in favor of obsessive, incoherent instinctual parts of the voyager"s total personality.
 
 Key signs include:
 
@@ -39,7 +39,7 @@ Key signs include:
 
 - **Panic, torture, and persecution** — involving the person's own "skin-encapsulated ego"; mind-controlling figures and demons symbolize the evil passions (anger, lust, stupidity, pride, jealousy, control-power) binding mankind to game-networks ([[samsara]]). The person may plead or demand to be brought "out of it" through antidotes and tranquillizers, may see themselves falling down terrifying precipices. One should neither flee the pain nor pursue the pleasure — recognition alone is necessary.
 
-- **Restless, unhappy wandering** — driven by "winds of karma," with desperate desires to phone family, doctors, or friends and appeal to them to pull you out. This should be resisted; the guide and fellow voyagers provide the best assistance. Involving outsiders in one's hallucinatory world will fail since they cannot understand what is happening. Merely to recognize these desires as Third Bardo manifestations is already the first step toward liberation.
+- **Restless, unhappy wandering** — driven by "winds of karma," with desperate desires to phone family, doctors, or friends and appeal to them to pull you out. This should be resisted; the guide and fellow voyagers provide the best assistance. Involving outsiders in one"s hallucinatory world will fail since they cannot understand what is happening. Merely to recognize these desires as Third Bardo manifestations is already the first step toward liberation.
 
 ## Summary
 

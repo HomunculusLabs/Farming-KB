@@ -19,7 +19,7 @@ The I Ching (Chinese: 易經, "Book of Changes") is an ancient Chinese divinatio
 - One of the oldest of the Chinese classic texts, dating back over 3,000 years
 - Consists of 64 hexagrams, each composed of six lines (broken or unbroken)
 - Each hexagram represents a situation or state of change with associated judgments and line texts
-- Jung's foreword introduced the concept of synchronicity to explain the text's apparent effectiveness
+- Jung"s foreword introduced the concept of synchronicity to explain the text's apparent effectiveness
 - Jung argued that the I Ching's divination method worked through "acausal connecting principle" (synchronicity)
 - The text influenced the development of binary mathematics (Leibniz) and information theory
 - Central philosophical concept: everything is in constant flux; change is the only constant

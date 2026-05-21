@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-Steve Solomon's *Gardening When It Counts: [[growing-food-in-hard-times]]* is a practical guide to vegetable gardening designed for periods of economic difficulty, resource scarcity, and self-reliance. Unlike many gardening books that assume abundant resources—plentiful water, expensive inputs, and ideal conditions—Solomon's approach focuses on productive, low-input methods that work when it truly matters. The book emerged from Solomon's decades of experience growing food year-round, including during the economic challenges of the 1970s and through periods of both hardship and prosperity.
+Steve Solomon"s *Gardening When It Counts: [[growing-food-in-hard-times]]* is a practical guide to vegetable gardening designed for periods of economic difficulty, resource scarcity, and self-reliance. Unlike many gardening books that assume abundant resources—plentiful water, expensive inputs, and ideal conditions—Solomon's approach focuses on productive, low-input methods that work when it truly matters. The book emerged from Solomon's decades of experience growing food year-round, including during the economic challenges of the 1970s and through periods of both hardship and prosperity.
 
 ## The Philosophy of Gardening When It Counts
 

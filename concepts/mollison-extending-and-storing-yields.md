@@ -23,7 +23,7 @@ The concentration of yields into one short period is a fiscal strategy, not an e
 Increasing overall system diversity ensures continuous production because different plant parts and species become available at different times throughout the year:
 
 - **Leaf, fruit, seed, and root** are all product yields, each maturing on its own schedule. A diverse system might provide salad greens in spring, berries in summer, fruits in autumn, and root crops in winter — all from the same designed landscape.
-- **Self-storing species** such as tubers, hard seeds, fuelwood, and rhizomes can be cropped on demand, serving as living storage systems that require no processing infrastructure and don't degrade while in the ground. Jerusalem artichokes, yacon, and groundnuts can be harvested whenever needed throughout winter.
+- **Self-storing species** such as tubers, hard seeds, fuelwood, and rhizomes can be cropped on demand, serving as living storage systems that require no processing infrastructure and don"t degrade while in the ground. Jerusalem artichokes, yacon, and groundnuts can be harvested whenever needed throughout winter.
 - **Perennial systems** inherently produce across seasons, unlike annual crops that must be replanted each year. [[perennial-vegetables]], tree fruits, nut trees, and berry bushes provide reliable annual harvests without the seasonal gap that annual cultivation creates.
 
 ### Preservation Techniques

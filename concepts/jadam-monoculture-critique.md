@@ -17,7 +17,7 @@ JADAM challenges one of the most widely accepted principles in agriculture: that
 
 One of the toughest problems farmers face is soil degradation due to repeated monoculture. The conventional explanation holds that when one type of plant is grown on the same land repeatedly, year after year, that plant absorbs from the soil the types of nutrients it needs or prefers. After repeated cultivations, those nutrients are depleted from the soil. Ultimately, monoculture leads to decreased yield and unhealthy crops. The standard solution offered by modern agriculture is to rotate crops.
 
-## JADAM's Challenge
+## JADAM"s Challenge
 
 JADAM has a deep-rooted suspicion about this widely-accepted idea. The challenge begins with a simple question posed to nature: "Do you grow plants in rotation?" The answer, JADAM argues, is unequivocal: "No. I do not farm in rotations. I plant the same species in the same place again and again."
 

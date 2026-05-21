@@ -11,7 +11,7 @@ tags: [buddhism, tibetan-buddhism, archetype, wrathful-deity, second-bardo]
 
 The Herukas are a class of fifty-eight [[wrathful-deities]] in Tibetan Vajrayana Buddhism — "flame-enhaloed, wrathful, blood-drinking" figures that appear during the Second Bardo as the dynamic, terrifying aspect of enlightened awareness. Male and female, they manifest in seven visionary groups following the seven peaceful deities. Despite their fearsome appearance, the Herukas are fundamentally protective and liberating: their recognition constitutes a direct pathway to liberation.
 
-In [[timothy-leary]]'s *The Psychedelic Experience*, the Herukas occupy a central role in the Second Bardo nightmare visions. They emerge when consciousness, having failed to merge with the peaceful visions, confronts its own terror in the form of these blood-drinking, flame-crowned beings. The instruction of the Bardo Thodol is always the same: recognize them as your own thought-forms. "They are old friends. Welcome them."
+In [[timothy-leary]]"s *The Psychedelic Experience*, the Herukas occupy a central role in the Second Bardo nightmare visions. They emerge when consciousness, having failed to merge with the peaceful visions, confronts its own terror in the form of these blood-drinking, flame-crowned beings. The instruction of the Bardo Thodol is always the same: recognize them as your own thought-forms. "They are old friends. Welcome them."
 
 ## Classification in Tibetan Buddhism
 
@@ -34,11 +34,11 @@ The iconography of the Herukas is deliberately shocking and precisely symbolic:
 - **Skull ornaments and bone garlands** — impermanence and transcendence of death
 - **Dancing on corpses** — triumph over ego and ignorance
 
-Lama Govinda explains their deeper function: "The ecstatic figures, heroic and terrifying, express the act of breaking through towards the unthinkable, the intellectually 'Unattainable.' They represent the leap over the chasm, which yawns between an intellectual surface consciousness and the intuitive supra-personal depth-consciousness."
+Lama Govinda explains their deeper function: "The ecstatic figures, heroic and terrifying, express the act of breaking through towards the unthinkable, the intellectually "Unattainable.' They represent the leap over the chasm, which yawns between an intellectual surface consciousness and the intuitive supra-personal depth-consciousness."
 
 ## Relationship to the Dhyani-Buddhas
 
-The Herukas are the dynamic counterpart to the five Dhyani-Buddhas, who represent the static, peaceful aspect of enlightenment — Buddhahood as perfect rest and harmony. Where the Dhyani-Buddhas embody the *result* of enlightenment, the Herukas embody the *process* of becoming: "the process of attaining illumination, as symbolized by the Buddha's struggle with the Hosts of Mara" (Govinda).
+The Herukas are the dynamic counterpart to the five Dhyani-Buddhas, who represent the static, peaceful aspect of enlightenment — Buddhahood as perfect rest and harmony. Where the Dhyani-Buddhas embody the *result* of enlightenment, the Herukas embody the *process* of becoming: "the process of attaining illumination, as symbolized by the Buddha"s struggle with the Hosts of Mara" (Govinda).
 
 | Aspect        | Dhyani-Buddhas          | Herukas                  |
 |---------------|-------------------------|--------------------------|
@@ -58,7 +58,7 @@ The Tibetan system assigns each class of Bardo deities to a specific chakra:
 - **Throat Chakra** — Knowledge-Holding deities (intermediate)
 - **Brain Chakra** — Wrathful Herukas (days 8–14)
 
-The assignment to the Brain chakra is psychologically precise. The wrathful visions represent "the reactions of the mind to the process of consciousness-expansion" and "the attempts of the intellect to maintain its threatened boundaries." The Brain chakra, seat of discursive thought and ego-identification, is where the struggle between ego-loss and ego-clinging plays out most dramatically. The Herukas are the intellect's own defenses turned inside out — the mind fighting itself as it is forced beyond its familiar limits.
+The assignment to the Brain chakra is psychologically precise. The wrathful visions represent "the reactions of the mind to the process of consciousness-expansion" and "the attempts of the intellect to maintain its threatened boundaries." The Brain chakra, seat of discursive thought and ego-identification, is where the struggle between ego-loss and ego-clinging plays out most dramatically. The Herukas are the intellect"s own defenses turned inside out — the mind fighting itself as it is forced beyond its familiar limits.
 
 ## Relevance to Psychedelic Experiences
 

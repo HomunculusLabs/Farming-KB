@@ -14,7 +14,7 @@ tags: [cannabis]
 
 Palliative care focuses on providing relief from the symptoms, pain, and stress
 of serious illness. The goal is to improve quality of life for both the patient
-and the family. Blesching's Cannabis Health Index presents extensive evidence
+and the family. Blesching"s Cannabis Health Index presents extensive evidence
 for cannabis as a multi-symptom palliative agent, particularly in the context
 of cancer, AIDS, and other life-limiting conditions.
 

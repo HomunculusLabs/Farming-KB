@@ -33,7 +33,7 @@ Freudian biography into what Grof would later call "transpersonal"
 realms—experiential territories "completely transcendent of time,
 space and other parameters of our ordinary worldview." The
 transition from psycholytic to transpersonal therapy represented
-a fundamental expansion of the therapeutic model's conception of
+a fundamental expansion of the therapeutic model"s conception of
 the human psyche.
 
 ### Dosage and Method

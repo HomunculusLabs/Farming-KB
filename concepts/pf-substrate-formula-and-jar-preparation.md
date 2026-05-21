@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-The PF substrate formula is the foundation of the PF TEK. It consists of three simple ingredients — **[[brown-rice-powder]]**, **vermiculite**, and **water** — loaded into half-pint canning jars and steam-sterilized. The formula's simplicity and reliability are what make the PF TEK accessible to beginners. Understanding the substrate's composition, preparation, and the critical role of vermiculite is essential for successful cultivation.
+The PF substrate formula is the foundation of the PF TEK. It consists of three simple ingredients — **[[brown-rice-powder]]**, **vermiculite**, and **water** — loaded into half-pint canning jars and steam-sterilized. The formula"s simplicity and reliability are what make the PF TEK accessible to beginners. Understanding the substrate's composition, preparation, and the critical role of vermiculite is essential for successful cultivation.
 
 ## Jar Selection
 
@@ -51,7 +51,7 @@ Vermiculite is described by PF as the "magic ingredient" of the PF TEK. Not all 
 ### Fine vs. Coarse Vermiculite
 
 - **Fine vermiculite**: Particles average around **1 mm** across (some larger, some smaller). Holds **more water** and is **recommended** over the coarser type
-- **Coarse vermiculite**: Particles average around **4–5 mm** across, up to 8 mm. Holds **less water**, which alters the substrate's water-holding capacity
+- **Coarse vermiculite**: Particles average around **4–5 mm** across, up to 8 mm. Holds **less water**, which alters the substrate"s water-holding capacity
 
 To determine [[vermiculite-particle-size-water-retention-calibration-pf-tek]], observe the vermiculite under a photo magnifier next to a millimeter ruler. Stores typically carry one type, and there are regional differences between brands. PF recommends shopping around and trying both types to compare results.
 
@@ -84,7 +84,7 @@ The jar lid is prepared by punching **4 holes** inside the periphery of the rubb
 2. Place the brown rice powder on top of the vermiculite
 3. Slowly add water **directly onto the brown rice powder**, wetting it first
 4. Thoroughly mix all ingredients — the mixture should feel **damp and cohesive**
-5. **Mix each jar's substrate individually** to ensure accurate formula rendering
+5. **Mix each jar"s substrate individually** to ensure accurate formula rendering
 
 ### Step 2: Loading the Jar
 

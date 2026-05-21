@@ -1,5 +1,5 @@
 ---
-title: coleman-deep-organic-farming-philosophy as Destructive Practice — Fukuoka's Critique of coleman-compost-and-organic-fertility-management Inputs
+title: coleman-deep-organic-farming-philosophy as Destructive Practice — Fukuoka"s Critique of coleman-compost-and-organic-fertility-management Inputs
 created: 2026-05-08
 tags:
   - fukuoka

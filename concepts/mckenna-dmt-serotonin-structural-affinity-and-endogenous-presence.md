@@ -28,13 +28,13 @@ McKenna argues that this endogenous presence means the brain is not being invade
 
 ## Pharmacokinetic Contrast: DMT vs. LSD
 
-McKenna draws an important pharmacokinetic distinction between DMT and LSD that supports his argument about the brain's relationship to tryptamines.
+McKenna draws an important pharmacokinetic distinction between DMT and LSD that supports his argument about the brain"s relationship to tryptamines.
 
 DMT has an extraordinarily rapid onset: effects begin approximately fifteen seconds after smoking, with the full mode shift occurring over about thirty seconds. The experience lasts only five minutes.
 
 This rapid onset and short duration indicate that the brain is "absolutely at home with this compound." The speed of the response suggests that DMT is not a foreign substance that the brain struggles to process, but rather a molecule that fits precisely into existing neural architecture.
 
-The brain's existing receptor systems, metabolic pathways, and signal transduction mechanisms are all pre-adapted to handle DMT. There is no learning curve, no adaptation period — the compound simply activates what is already there.
+The brain"s existing receptor systems, metabolic pathways, and signal transduction mechanisms are all pre-adapted to handle DMT. There is no learning curve, no adaptation period — the compound simply activates what is already there.
 
 By contrast, McKenna notes that LSD is retained in the body for some time, implying a less natural relationship between the brain and this synthetic compound. The longer duration and slower clearance of LSD suggest that the brain processes it differently from [[quantum-mechanics-fundamentals]].
 

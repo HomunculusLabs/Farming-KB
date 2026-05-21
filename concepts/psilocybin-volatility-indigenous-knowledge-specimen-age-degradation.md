@@ -12,7 +12,7 @@ One of the most significant yet often overlooked factors in the study [[mycovola
 
 These two Cordyceps species are important to the indigenous peoples of the Nevado de Toluca region in Mexico, where they are used ceremonially together with Psilocybe muliercula, called "hombrecitos" (little men) and "mujercitas" (little women), respectively. They are used in special nocturnal ceremonies, either eaten alone or combined with Psilocybe muliercula. In the center of the ceremony room, a specimen of Elaphomyces (the host genus of Cordyceps) is placed as a "director" of the ceremony, highlighting the sophisticated mycological understanding of these indigenous peoples.
 
-Hofmann's inability to detect active compounds in the market-purchased specimens likely resulted from degradation during prolonged storage, rather than the absence of psychoactive constituents in fresh material. This case illustrates how specimen age and storage conditions can produce misleading negative results in chemical analysis, potentially leading to incorrect conclusions about the pharmacological properties of a species.
+Hofmann"s inability to detect active compounds in the market-purchased specimens likely resulted from degradation during prolonged storage, rather than the absence of psychoactive constituents in fresh material. This case illustrates how specimen age and storage conditions can produce misleading negative results in chemical analysis, potentially leading to incorrect conclusions about the pharmacological properties of a species.
 
 ## Practical Implications
 

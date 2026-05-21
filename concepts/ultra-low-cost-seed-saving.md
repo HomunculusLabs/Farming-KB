@@ -34,7 +34,7 @@ For larger operations where many seedlings need treatment, dig a shallow trench,
 
 ## Seed Selection Principles
 
-JADAM's approach to seed selection follows natural principles rather than commercial breeding standards:
+JADAM"s approach to seed selection follows natural principles rather than commercial breeding standards:
 
 - **Local adaptation**: Seeds saved from plants grown in your specific environment are naturally adapted to local conditions — soil, climate, pest pressure, and day length
 - **Open pollination**: Save seeds from open-pollinated varieties that breed true, not from hybrids that will not produce offspring identical to the parent

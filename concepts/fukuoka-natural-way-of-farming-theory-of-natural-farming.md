@@ -11,7 +11,7 @@ tags: [fukuoka, natural-farming]
 
 ## Fukuoka Natural Way of Farming - Theory of Natural Farming
 
-Masanobu Fukuoka's "The Natural Way of Farming" presents a comprehensive philosophical and practical [[fukuoka-critique-scientific-agriculture-civilization]], proposing instead a method of farming based on non-intervention and harmony with nature. The book extends far beyond agriculture into a fundamental critique of Western epistemology, industrial civilization, and humanity's relationship with the natural world.
+Masanobu Fukuoka"s "The Natural Way of Farming" presents a comprehensive philosophical and practical [[fukuoka-critique-scientific-agriculture-civilization]], proposing instead a method of farming based on non-intervention and harmony with nature. The book extends far beyond agriculture into a fundamental critique of Western epistemology, industrial civilization, and humanity"s relationship with the natural world.
 
 ## Five Principles of Natural Farming
 
@@ -27,7 +27,7 @@ Fukuoka's practice rests on five foundational principles, which he maintained fo
 
 Natural farming originates in the philosophy of "Mu," or nothingness -- the Eastern teaching that all is unnecessary. Fukuoka describes it as a "Buddhist way of farming" that is "methodless," "unmoving," "boundless and yielding," leaving "the soil, the plants, and the insects to themselves."
 
-The core insight is that human knowledge and action are the source of agriculture's problems, not its solutions. "All begins by relinquishing human knowledge." Nature is "neither living nor dead" in the scientific sense; notions of pest versus predator, good versus bad, are distinctions invented by man that are alien to nature.
+The core insight is that human knowledge and action are the source of agriculture"s problems, not its solutions. "All begins by relinquishing human knowledge." Nature is "neither living nor dead" in the scientific sense; notions of pest versus predator, good versus bad, are distinctions invented by man that are alien to nature.
 
 ## Critique of Scientific Agriculture
 
@@ -43,7 +43,7 @@ Key critiques include:
 
 ## Energy Efficiency
 
-Fukuoka provides striking energy calculations. Natural farming produces 130 pounds of rice (200,000 kilocalories) per man-day of labor without outside material inputs -- about 100 times a farmer's daily caloric intake. Traditional farming with draft animals requires 5-10 times more energy input. Light mechanization doubles this again, and large-scale mechanization doubles it yet again. Scientific agriculture thus requires up to 50 times the energy expenditure per unit of food produced compared to natural farming.
+Fukuoka provides striking energy calculations. Natural farming produces 130 pounds of rice (200,000 kilocalories) per man-day of labor without outside material inputs -- about 100 times a farmer"s daily caloric intake. Traditional farming with draft animals requires 5-10 times more energy input. Light mechanization doubles this again, and large-scale mechanization doubles it yet again. Scientific agriculture thus requires up to 50 times the energy expenditure per unit of food produced compared to natural farming.
 
 ## Nature is Unknowable
 

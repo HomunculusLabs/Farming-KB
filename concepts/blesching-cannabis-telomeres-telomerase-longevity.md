@@ -34,7 +34,7 @@ Studies on mice have shown that emotional material from traumatic experiences pr
 
 ## Negative Aging Beliefs as Limiting Factors
 
-The CHI identifies aging cliches as evidence of societal negative programming: phrases like "you cannot teach an old dog new tricks," "dirty old man," and "old wives' tale" reinforce limiting beliefs about aging. Opposing these with positive aging beliefs such as "it is never too late to learn" and "age bestows wisdom" creates a more supportive internal environment for healing.
+The CHI identifies aging cliches as evidence of societal negative programming: phrases like "you cannot teach an old dog new tricks," "dirty old man," and "old wives" tale" reinforce limiting beliefs about aging. Opposing these with positive aging beliefs such as "it is never too late to learn" and "age bestows wisdom" creates a more supportive internal environment for healing.
 
 Corporations exploit and reinforce societal ideals of beauty and youth, elevating the mythical "body perfect." If accepted blindly, these unrealistic archetypes supplant the complex experiences that only age can bestow. Those who believe old age is ugly miss the opportunity to discover new depths of beauty in deeper dimensions of consciousness.
 

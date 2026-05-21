@@ -23,11 +23,11 @@ After Michael Hollingshead brought LSD to Harvard in a mayonnaise jar, Leary "la
 
 ## Dismissal from Harvard
 
-Sandoz initially offered psilocybin to the Harvard project, but after learning that Harvard's dean did not approve of the research, they canceled the offer. Shortly thereafter, Leary and Alpert were discharged from Harvard's teaching staff because "the investigations, at first conducted in an academic milieu, had lost their scientific character. The experiments had turned into LSD parties" (Hofmann).
+Sandoz initially offered psilocybin to the Harvard project, but after learning that Harvard"s dean did not approve of the research, they canceled the offer. Shortly thereafter, Leary and Alpert were discharged from Harvard's teaching staff because "the investigations, at first conducted in an academic milieu, had lost their scientific character. The experiments had turned into LSD parties" (Hofmann).
 
 ## Post-Harvard Organizations
 
-With Alpert and Metzner, Leary founded IFIF (International Federation for Internal Freedom) and then the Castalian Foundation, both aimed at promoting cultural revolution and spiritual enlightenment through mass consumption of LSD. They started publishing the *Psychedelic Review*. Leary's work increasingly focused on the spiritual and religious dimensions of psychedelic experience, stimulated by his associations with Aldous Huxley, Huston Smith, and Alan Watts.
+With Alpert and Metzner, Leary founded IFIF (International Federation for Internal Freedom) and then the Castalian Foundation, both aimed at promoting cultural revolution and spiritual enlightenment through mass consumption of LSD. They started publishing the *Psychedelic Review*. Leary"s work increasingly focused on the spiritual and religious dimensions of psychedelic experience, stimulated by his associations with Aldous Huxley, Huston Smith, and Alan Watts.
 
 ## Key Publications
 

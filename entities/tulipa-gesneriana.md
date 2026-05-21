@@ -15,7 +15,7 @@ sources:
 
 ## Overview
 
-**Tulipa gesneriana**, the garden tulip or didier's tulip, is the most widely cultivated species in the genus *Tulipa*. It serves as the primary genetic base for the vast majority of ornamental tulip cultivars grown worldwide.
+**Tulipa gesneriana**, the garden tulip or didier"s tulip, is the most widely cultivated species in the genus *Tulipa*. It serves as the primary genetic base for the vast majority of ornamental tulip cultivars grown worldwide.
 
 The species is native to the mountains of Central Asia and was introduced to Europe via the Ottoman Empire in the 16th century. Dutch breeders subsequently developed thousands of cultivars from this genetic stock.
 

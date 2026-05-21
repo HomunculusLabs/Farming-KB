@@ -59,7 +59,7 @@ fraction of the diversity he unknowingly passed over.
 The systematic classification of fungi accelerated in the late eighteenth and
 early nineteenth centuries with the work of Christian Hendrik Persoon and Elias
 Magnus Fries, who established the foundation of agaric taxonomy that would
-dominate mycology for 150 years. Fries's *Systema Mycologicum* (1821-1832) was
+dominate mycology for 150 years. Fries"s *Systema Mycologicum* (1821-1832) was
 the single most influential work in the history of fungal classification,
 organizing thousands of species into a hierarchical system based on spore color,
 gill attachment, and other macroscopic and microscopic features. The "Friesian
@@ -67,7 +67,7 @@ system," as it came to be known, was the standard reference for mushroom
 identification until the molecular revolution of the 1990s fundamentally
 overturned many of its conclusions.
 
-Robert Whittaker's five-kingdom system (1969) was a pivotal moment in the
+Robert Whittaker"s five-kingdom system (1969) was a pivotal moment in the
 conceptual status of fungi. By elevating Fungi to kingdom level — equal in rank
 to Plants, Animals, Protists, and Monera — Whittaker formally recognized what
 biochemists and cell biologists had long suspected: fungi are not plants. They

@@ -9,7 +9,7 @@ sources:
 ---
 ## Clay Seed Balls (Tsuchi Dango)
 
-Clay seed balls (tsuchi dango) are one of Masanobu Fukuoka's most distinctive innovations for [[hamilton-composting-and-organic-matter-management]]. Without soil preparation, several problems arise:
+Clay seed balls (tsuchi dango) are one of Masanobu Fukuoka"s most distinctive innovations for [[hamilton-composting-and-organic-matter-management]]. Without soil preparation, several problems arise:
 
 - **Bird predation** -- sparrows follow behind the sower and devour seeds before they germinate. Fukuoka struggled with this for years: "I can remember times when these birds followed right behind me and devoured all the seeds I had sown even before I had a chance to finish planting the other side of the field. I tried scarecrows, nets, and strings of rattling cans, but nothing seemed to work very well."
 - **Small animals** -- moles, crickets, mice, and slugs eat exposed seeds

@@ -13,7 +13,6 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - "Whole Systems Design LLC. (2024). \"About.\" wholesystemsdesign.com."---
----
 
 ## Ben Falk
 

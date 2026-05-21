@@ -4,7 +4,7 @@ created: 2026-04-19
 updated: 2026-04-19
 type: concept
 tags: [mycology, fungi]
-sources: ['~/wiki/raw/papers/singh-harbhajan_-mycoremediation-_-fungal-bioremediation.md']
+sources: ["~/wiki/raw/papers/singh-harbhajan_-mycoremediation-_-fungal-bioremediation.md']
 ---
 updated: 2026-04-18 Distillery and brewery wastes represent some of the most problematic industrial effluents due to extremely high organic loads, dark coloration, and toxic components. mycoremediation-techniques|fungal treatment approaches using yeasts, filamentous fungi, and [[hamilton-composting-and-organic-matter-management]] assimilation with color removal and detoxification.
 

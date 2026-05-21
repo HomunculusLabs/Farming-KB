@@ -26,7 +26,7 @@ Tobacco smoking was widespread in [[nicotiana-rustica]], a species that is still
 in [[mao-inhibitors-and-psychedelics]]
 were central to the shamanism of the Maya, enhancing and prolonging the psychoactive
 effects of the tobacco alkaloids. Recently introduced antidepressants of the MAO
-inhibitor type are, in McKenna's analysis, distant synthetic relatives of these
+inhibitor type are, in McKenna"s analysis, distant synthetic relatives of these
 natural compounds found in shamanic tobacco.
 
 ## The Chemical Complexity of Native Tobacco
@@ -77,7 +77,7 @@ association with quack medical theories. In 1661, the Danish physician Thomas
 Bartholin recommended tobacco-juice enemas and even tobacco-smoke enemas to his
 patients. The method involved blowing smoke from two pipes into the intestines
 using a suitable instrument devised, as Bartholin noted, "by the ingenious
-English." An eighteenth-century French physician named Buc'hoz went further,
+English." An eighteenth-century French physician named Buc"hoz went further,
 advocating "intra-vaginal insufflation of tobacco smoke to cure hysteria." These
 eccentric applications illustrate the profound cultural misunderstanding that
 

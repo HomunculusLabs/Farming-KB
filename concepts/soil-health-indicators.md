@@ -29,7 +29,7 @@ Healthy soil can be assessed through biological, physical, and chemical indicato
 - **The single most visible indicator of soil health.** If earthworms are present, the soil food web is functioning.
 - A healthy garden soil should have 25-30 earthworms per cubic foot
 - Earthworms aerate soil, create macropores for water infiltration, and their castings are rich in plant-available nutrients
-- Worms appear only when there is organic matter to eat and soil chemistry isn't toxic
+- Worms appear only when there is organic matter to eat and soil chemistry isn"t toxic
 - No earthworms = chemical fertilizers, pesticides, or compaction have killed the food web
 
 ### Mycorrhizal Fungi

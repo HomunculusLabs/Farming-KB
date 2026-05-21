@@ -29,7 +29,7 @@ is in fact the organisational pattern used within the Mondragon system. The
 model demonstrates that small-scale units confederated into larger networks can
 achieve industrial capacity without sacrificing community cohesion.
 
-**The Neighbourhood Factor** — Knowledge of each other's names and circumstances
+**The Neighbourhood Factor** — Knowledge of each other"s names and circumstances
 is identified as a primary factor in community survival. This was assessed in
 events such as the 1967 Hobart fires, where casualties in "anonymous" commuter
 suburbs were many times higher than in neighbourhoods where people knew and

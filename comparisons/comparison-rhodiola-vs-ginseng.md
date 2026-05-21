@@ -3,7 +3,7 @@ title: "Rhodiola vs Ginseng"
 tags: [comparison, adaptogens, rhodiola, ginseng, medicinal-herbs]
 date: 2026-05-13
 updated: 2026-05-13
-sources: ['raw/papers/working-with-agar.md']
+sources: ["raw/papers/working-with-agar.md']
 ---
 
 ## Rhodiola vs Ginseng

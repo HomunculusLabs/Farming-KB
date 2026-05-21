@@ -90,7 +90,7 @@ Most tribal art has been burnt, looted, destroyed, and broken by invading system
 
 ### The Challenge to Artists and Educators
 
-The challenge to artists is to study and portray knowledge in a compact, memorable, and transmissible form, to research and recreate surviving art forms that retain their meaning, and to reintegrate art with science and society's functions and needs.
+The challenge to artists is to study and portray knowledge in a compact, memorable, and transmissible form, to research and recreate surviving art forms that retain their meaning, and to reintegrate art with science and society"s functions and needs.
 
 ### Flowform Systems as Applied Art
 

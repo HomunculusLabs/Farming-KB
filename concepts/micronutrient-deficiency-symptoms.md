@@ -12,7 +12,7 @@ sources:
 
 ## Overview
 
-Although plants need micronutrients (trace elements) only in small quantities, Von Liebig's Law of the Minimum applies: even the least-used nutrient, if absent, renders all others useless. Diagnosing deficiencies visually is challenging because symptoms overlap, but mobility patterns provide important clues.
+Although plants need micronutrients (trace elements) only in small quantities, Von Liebig"s Law of the Minimum applies: even the least-used nutrient, if absent, renders all others useless. Diagnosing deficiencies visually is challenging because symptoms overlap, but mobility patterns provide important clues.
 
 ## Mobility as a Diagnostic Tool
 

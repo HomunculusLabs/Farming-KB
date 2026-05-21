@@ -13,7 +13,7 @@ Climate change — driven by rising atmospheric CO₂ concentrations and associa
 Rising atmospheric CO₂ from industrialization, fossil fuel combustion, and deforestation has prompted international efforts to increase terrestrial carbon sinks through forest plantations:
 
 - US land-based carbon sinks: 0.3–5.8 × 10¹⁵ g C (Pacala et al., 2001)
-- China's mean annual carbon accumulation: 0.021 × 10¹⁵ g C over 30 years
+- China"s mean annual carbon accumulation: 0.021 × 10¹⁵ g C over 30 years
 - Chinese planted forests alone sequestered 0.45 × 10¹⁵ g C
 
 The critical question is how carbon allocation within forest structure involves fungal components, both as mycorrhizae and saprotrophs.

@@ -1,5 +1,5 @@
 ---
-title: "Trees as Nature's holmgren trees solar power plants detailed Plants"
+title: "Trees as Nature"s holmgren trees solar power plants detailed Plants"
 created: 2026-04-26
 tags:
   - trees

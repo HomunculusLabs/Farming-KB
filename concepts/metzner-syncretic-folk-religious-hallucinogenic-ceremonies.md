@@ -8,7 +8,7 @@ tags: [shamanism, ceremony, ayahuasca, syncretism, religion, metzner]
 
 ## Overview
 
-Ralph Metzner's 1998 review identified syncretic folk religious ceremonies as the third of four paradigms for the therapeutic or healing use of psychoactive substances. In these ceremonies, the focus is on community bonding, celebratory worship, and the maintenance of cultural and spiritual traditions that blend indigenous plant medicine practices with elements of Christianity, African religions, and other spiritual systems.
+Ralph Metzner"s 1998 review identified syncretic folk religious ceremonies as the third of four paradigms for the therapeutic or healing use of psychoactive substances. In these ceremonies, the focus is on community bonding, celebratory worship, and the maintenance of cultural and spiritual traditions that blend indigenous plant medicine practices with elements of Christianity, African religions, and other spiritual systems.
 
 ## Defining Syncretism
 

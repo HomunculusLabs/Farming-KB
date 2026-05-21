@@ -38,7 +38,7 @@ distractions."
 
 Preparation typically includes sharing intentions among participants,
 meditation, solo time in nature, or expressive arts such as drawing,
-painting, or journal work. This preparation reflects participants'
+painting, or journal work. This preparation reflects participants"
 sophistication in optimizing entheogenic experiences.
 
 ## Post-Ceremony Integration

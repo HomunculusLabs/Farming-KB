@@ -10,21 +10,21 @@ type: concept
 
 ## Hallucinogens in Psychotherapy and Shamanism — Comparative Paradigms
 
-Ralph Metzner's 1998 review article in the Journal of Psychoactive Drugs identifies four distinct paradigms for the use of hallucinogenic drugs and plants in healing and knowledge-seeking practices. While Western psychotherapy and indigenous shamanism may employ similar psychoactive substances, Metzner argues that profound differences exist in their underlying worldviews and assumptions about reality. Understanding these paradigms provides a framework for comparing therapeutic, spiritual, and hybrid approaches to working with altered states of consciousness.
+Ralph Metzner"s 1998 review article in the Journal of Psychoactive Drugs identifies four distinct paradigms for the use of hallucinogenic drugs and plants in healing and knowledge-seeking practices. While Western psychotherapy and indigenous shamanism may employ similar psychoactive substances, Metzner argues that profound differences exist in their underlying worldviews and assumptions about reality. Understanding these paradigms provides a framework for comparing therapeutic, spiritual, and hybrid approaches to working with altered states of consciousness.
 
 ## Terminology
 
 Metzner uses three terms interchangeably, each with distinct etymological implications:
 
 - **Psychedelic**: Coined by Humphrey Osmond and Aldous Huxley, meaning "mind-manifesting." Popularized by Leary and the Harvard group.
-- **Hallucinogenic**: From Latin alucinare, "to wander in one's mind." Metzner argues this deserves rehabilitation — traveling or journeying in inner space are appropriate descriptive metaphors for experiences colloquially called "trips."
+- **Hallucinogenic**: From Latin alucinare, "to wander in one"s mind." Metzner argues this deserves rehabilitation — traveling or journeying in inner space are appropriate descriptive metaphors for experiences colloquially called "trips."
 - **Entheogenic**: Proposed by R. Gordon Wasson and Jonathan Ott, sharing the root of "enthusiasm" and meaning "releasing or expressing the divine within."
 
 ## Paradigm 1: Psychedelic Psychotherapy Within the Standard Western Paradigm
 
 ### Historical Context
 
-When LSD's mind-altering properties were first discovered at Sandoz Laboratories in Switzerland during World War II, they were initially characterized as "psychotomimetic" (mimicking psychosis) and "psycholytic" (dissolving the mind). Military and espionage agencies of both superpowers spent approximately ten years investigating LSD as a potential weapon for causing disorientation in enemy personnel. Ironically, it was LSD's capacity to tap into mystical potentials that ruined its applicability as a weapon — rather than producing predictable submission, it released subjects into "awesome worlds of cosmic consciousness."
+When LSD"s mind-altering properties were first discovered at Sandoz Laboratories in Switzerland during World War II, they were initially characterized as "psychotomimetic" (mimicking psychosis) and "psycholytic" (dissolving the mind). Military and espionage agencies of both superpowers spent approximately ten years investigating LSD as a potential weapon for causing disorientation in enemy personnel. Ironically, it was LSD"s capacity to tap into mystical potentials that ruined its applicability as a weapon — rather than producing predictable submission, it released subjects into "awesome worlds of cosmic consciousness."
 
 ### The Psycholytic Approach
 

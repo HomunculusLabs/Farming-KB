@@ -21,7 +21,7 @@ Shulgin notes that DMMDA-2 is one of the "ten essential amphetamines" since dill
 
 ## Historical Context
 
-At the time DMMDA and DMMDA-2 were synthesized, Shulgin envisioned a thorough study comparable to the TMA series (six possible, six completed) and the MMDA series (six possible, five completed). However, the remarkable and unexpected discovery of dom-entity|DOM's high potency redirected research priorities, and the remaining four possible DMMDA isomers were "left to that famous time, a future rainy day."
+At the time DMMDA and DMMDA-2 were synthesized, Shulgin envisioned a thorough study comparable to the TMA series (six possible, six completed) and the MMDA series (six possible, five completed). However, the remarkable and unexpected discovery of dom-entity|DOM"s high potency redirected research priorities, and the remaining four possible DMMDA isomers were "left to that famous time, a future rainy day."
 
 ## Related Compounds
 

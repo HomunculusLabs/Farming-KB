@@ -23,7 +23,7 @@ temperate forest foragers.
 - **Species:** C. orellanus | **Authority:** Fries (1838)
 - **Synonyms:** Agaricus orellanus (1821), Dermocybe
   orellana (M.M. Moser, 1953)
-- **Common names:** Deadly webcap, fool's webcap, orange
+- **Common names:** Deadly webcap, fool"s webcap, orange
   webcap
 - The epithet "orellanus" refers to the type locality near
   Orléans, France. Some place it in subgenus Leprocybe.

@@ -3,7 +3,7 @@ title: "Valerian vs Ashwagandha"
 tags: [comparison, adaptogenic-herbs, nervines, herbal-medicine, stress-management]
 date: 2026-05-10
 updated: 2026-05-10
-sources: ['raw/papers/working-with-agar.md']
+sources: ["raw/papers/working-with-agar.md']
 ---
 
 ## Valerian vs Ashwagandha
@@ -26,7 +26,7 @@ mechanisms of action, and primary applications.
 Ashwagandha, also known as Indian ginseng or winter cherry, is one of the most
 important herbs in Ayurvedic medicine, where it's classified as a rasayana
 (rejuvenator). The name derives from Sanskrit meaning "smell of horse,"
-reflecting both the root's characteristic aroma and the traditional belief that it
+reflecting both the root"s characteristic aroma and the traditional belief that it
 imparts horse-like vigor. Native to dry regions of India, this adaptogenic herb
 has been used for over 3,000 years to enhance vitality and resilience.
 

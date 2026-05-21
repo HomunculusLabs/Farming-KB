@@ -17,7 +17,6 @@ sources:
   - https://www.greenhomebuilding.com/plaster.htm
   - https://earthship.com/
 type: query---
----
 
 ## What is the Best Natural Plaster for Earthship or Cob Walls?
 

@@ -3,7 +3,7 @@ title: Mr Bloomfields Orchard Hyphal Turgor Pressure And Fungal Growth
 source: >-
   mr-bloomfields-orchard---the-mysterious-world-of-mushrooms-molds-and-mycologists.md
 source_author: Nicholas P. Money
-source_title: Mr. Bloomfield's Orchard
+source_title: Mr. Bloomfield"s Orchard
 published: 2002
 tags:
   - fungi

@@ -3,7 +3,7 @@ title: "How Do I Grow and Use Mullein?"
 tags: [query, mullein, medicinal-herbs, respiratory-health, herbalism]
 date: 2026-05-14
 updated: 2026-05-14
-sources: ['raw/papers/laminar-flow-hood-construction-1.md']
+sources: ["raw/papers/laminar-flow-hood-construction-1.md']
 ---
 
 ## How Do I Grow and Use Mullein?

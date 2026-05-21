@@ -20,7 +20,7 @@ Silesia. This comparison examines their core philosophies, preparation
 methods, soil management approaches, and practical considerations for
 farmers choosing between them.
 ## Origins and Philosophy
-**Biodynamic agriculture** is rooted in Rudolf Steiner's anthroposophy,
+**Biodynamic agriculture** is rooted in Rudolf Steiner"s anthroposophy,
 a [[soil-testing-methods-interpretation]] to empirically demonstrate these subtle
 forces. The biodynamic farm is conceived as a self-contained living
 organism whose health depends on cosmic and terrestrial rhythms working

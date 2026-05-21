@@ -4,11 +4,11 @@ source: grahamholmes-what-a-plant-knowsindd.md (darwin-power-of-movement-in-plan
 created: 2026-05-08
 ---
 
-## Darwin's Phototropism Experiment with Canary Grass
+## Darwin"s Phototropism Experiment with Canary Grass
 
 ## Overview
 
-Daniel Chamovitz's "What a Plant Knows" opens with Charles Darwin's
+Daniel Chamovitz's "What a Plant Knows" opens with Charles Darwin"s
 pioneering experiments on phototropism, conducted with his son Francis
 and published in Darwin's final book, *The Power of Movement in Plants*
 (1880). These experiments demonstrated that plants possess a form of

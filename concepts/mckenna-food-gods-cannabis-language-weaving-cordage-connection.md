@@ -14,7 +14,7 @@ However, McKenna might argue that the universality of this pattern actually supp
 
 ## The Reversal: Narrative as Technology
 
-An alternative reading of the evidence reverses McKenna's causal arrow. Rather than textile production providing the metaphor for narrative, it may be that the human capacity for sequential narrative — understanding events as linked in causal chains — was the cognitive prerequisite for textile production. You cannot plan the weaving of a complex pattern without first being able to hold a sequence of steps in mind and execute them in order. Narrative thinking may have enabled weaving, rather than the other way around.
+An alternative reading of the evidence reverses McKenna"s causal arrow. Rather than textile production providing the metaphor for narrative, it may be that the human capacity for sequential narrative — understanding events as linked in causal chains — was the cognitive prerequisite for textile production. You cannot plan the weaving of a complex pattern without first being able to hold a sequence of steps in mind and execute them in order. Narrative thinking may have enabled weaving, rather than the other way around.
 
 Under this reading, cannabis enhanced an existing cognitive capacity rather than creating a new one. The plant's role was catalytic rather than foundational — it intensified and enriched a cognitive process that was already underway, making the textile-to-narrative metaphor more vivid, more widely used, and more deeply embedded in language. This more modest version of the hypothesis avoids the stronger causal claims while preserving the insight that psychoactive plants interacted with human cognition in historically significant ways.
 

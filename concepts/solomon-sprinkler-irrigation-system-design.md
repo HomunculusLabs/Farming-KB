@@ -1,5 +1,5 @@
 ---
-title: Solomon's Sprinkler Irrigation System Design
+title: Solomon"s Sprinkler Irrigation System Design
 source: gardening-when-it-counts-steve-solomon.md
 author: Steve Solomon
 tags: [irrigation, sprinkler-design, water-management, vegetable-garden, solomon, garden-infrastructure]
@@ -71,7 +71,7 @@ to make moving sprinklers between positions fast and easy.
 
 ### Head-to-Head Coverage
 
-The cardinal rule: each sprinkler's spray should reach the adjacent sprinkler
+The cardinal rule: each sprinkler"s spray should reach the adjacent sprinkler
 head. This ensures uniform overlap and prevents dry spots. Underlap creates
 dry zones; too much overlap wastes water.
 

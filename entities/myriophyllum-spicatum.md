@@ -12,7 +12,6 @@ date: 2026-05-08
 updated: 2026-05-08
 sources:
   - Eiswerth, M.E. et al. (2000). "Economic analysis of watermilfoil control." Journal of Aquatic Plant Management, 38, 49–56.---
----
 
 ## Overview
 

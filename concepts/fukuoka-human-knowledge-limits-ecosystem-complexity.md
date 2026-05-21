@@ -39,7 +39,7 @@ His ultimate point is philosophical: in nature, there is no [[fukuoka-fruit-tree
   dragonfly larvae, tadpoles, and loaches.
 
 Each spraying eliminates the natural checks that would have controlled pest populations,
-creating the very infestations that justify the next spraying. Fukuoka's verdict:
+creating the very infestations that justify the next spraying. Fukuoka"s verdict:
 
 > "Just one look at this slaughter would suffice to show the insanity of blanket pesticide
 > application."

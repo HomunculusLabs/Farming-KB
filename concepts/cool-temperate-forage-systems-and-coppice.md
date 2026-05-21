@@ -55,7 +55,7 @@ A single willow coppice field can produce:
 - **Livestock forage**: Fresh growth is palatable to many species
 - **"Stickwood" for radiant (rocket mass) heaters**: High-density fuel
 - **Active charcoal filters**: Water and air purification
-- **Artist's charcoal**: High-quality drawing material
+- **Artist"s charcoal**: High-quality drawing material
 - **"Willow water"**: Fresh willow chips soaked in water provide gibberellic acid for promoting root growth in cuttings — a natural rooting hormone
 
 ### Pollarding for Propagation

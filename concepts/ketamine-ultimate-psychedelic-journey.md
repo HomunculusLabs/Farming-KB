@@ -45,7 +45,7 @@ Ketamine is used clinically as a "gentle" anesthetic, often given to children an
 - Begins with one perception in a million fitting familiar perceptual structure
 - "Personal perceptions" increase: 1 in 100,000, then 1 in 10,000
 - Return is NOT disappointing (unlike ecstasy comedown)
-- Feels novel: "Wow, I'm coming back, I wonder what life will be like"
+- Feels novel: "Wow, I"m coming back, I wonder what life will be like"
 - Part of mind still running circles around the cosmos while another part reintegrates identity
 - Often experienced as an "alien rebirth"
 - Upon returning to body, DMT-like visuals continue with eyes opened

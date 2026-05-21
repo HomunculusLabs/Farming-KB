@@ -22,7 +22,7 @@ of Oaxaca call this mushroom "Nize," and it is also known by the Spanish name
 "Pajaritos" (little birds). It is one of the species traditionally used by Mazatec
 curanderos in [[coprinus-atrementarius-entity-the-mushroom-cultivator]] as a species of particular
 interest to cultivators due to its remarkable ability to form sclerotia, also known as
-truffles or "philosopher's stones." Sclerotia are dense, hardened masses of mycelium
+truffles or "philosopher"s stones." Sclerotia are dense, hardened masses of mycelium
 that serve as nutrient storage organs, allowing the fungus to survive adverse
 conditions. P. mexicana is noted for its early [[dark-incubation-sclerotia-production-psilocybe-mexicana-tampanensis]] in this species to be the most
 efficient method for the generation of biomass, making it a valuable species for both

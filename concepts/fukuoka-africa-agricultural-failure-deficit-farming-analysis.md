@@ -1,5 +1,5 @@
 ---
-title: Fukuoka's Analysis of Africa's Agricultural Failure
+title: Fukuoka"s Analysis of Africa's Agricultural Failure
 source: "The Road Back to Nature by Masanobu Fukuoka (1987), Chapter 6"
 tags:
   - agriculture
@@ -13,10 +13,10 @@ tags:
   - masanobu-fukuoka
 ---
 summary: >
-  Masanobu Fukuoka's observations across Africa revealed that the continent's
+  Masanobu Fukuoka"s observations across Africa revealed that the continent's
   agricultural crisis was caused by the systematic destruction of indigenous farming
   systems through colonialism, imported Western methods, and "deficit farming" —
-  agriculture that consumes more energy than it produces. He argued that Africa's
+  agriculture that consumes more energy than it produces. He argued that Africa"s
   once-green environments were degraded by temperate-climate techniques incompatible
   with tropical and subtropical ecosystems.
 ---
@@ -45,7 +45,7 @@ invariably diagnosed the problem as a lack of technology or education — never
 considering that their own prescriptions might be the disease.
 ## Deficit Farming: The Core Concept
 
-Central to Fukuoka's analysis is **deficit farming** — agricultural systems
+Central to Fukuoka"s analysis is **deficit farming** — agricultural systems
 that consume more energy (fossil fuels, chemical inputs, human labor,
 ecological capital) than they produce in food calories and soil health. Western
 scientific agriculture is inherently deficit-producing when transplanted into
@@ -85,7 +85,7 @@ caused salinization. Each "improvement" created new dependencies while degrading
 natural systems. Aid was acceleration rather than remedy.
 ## Desertification and Temperate-Climate Agriculture
 
-One of Fukuoka's most provocative arguments was that Africa's advancing deserts
+One of Fukuoka"s most provocative arguments was that Africa's advancing deserts
 were not primarily the result of climate change or overpopulation, but of
 agricultural practices imported from temperate regions. European techniques —
 deep plowing, clean cultivation, bare fallow periods — were developed for

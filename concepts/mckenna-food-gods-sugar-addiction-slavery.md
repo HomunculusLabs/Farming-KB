@@ -10,7 +10,7 @@ type: concept
 
 ## Sugar as Addiction and the Engine of Slavery
 
-## The World's Least Discussed Addiction
+## The World"s Least Discussed Addiction
 
 In *Food of the Gods*, [[spawn-run-and-colonization]].
 
@@ -50,7 +50,7 @@ A further difference must be noted: brutal as it is, the modern drug trade is no
 
 ## The African Slave Trade Begins
 
-In 1443 one of Prince Henry's returning captains brought news of a capture at sea of a crew of black Arabs and Muslims. These men claimed that they were of a proud race and unfit to be bondsmen.
+In 1443 one of Prince Henry"s returning captains brought news of a capture at sea of a crew of black Arabs and Muslims. These men claimed that they were of a proud race and unfit to be bondsmen.
 
 They argued that there were in the hinterland of Africa many "heathen blacks, the children of Ham, who made excellent slaves."
 

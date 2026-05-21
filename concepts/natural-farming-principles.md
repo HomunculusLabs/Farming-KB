@@ -22,7 +22,7 @@ related_concepts:
 ## Natural Farming Principles
 
 Natural farming is an agricultural philosophy developed by Japanese farmer
-and philosopher [[fukuoka-critique-laws-agricultural-science]]'s premise that nature must be controlled
+and philosopher [[fukuoka-critique-laws-agricultural-science]]"s premise that nature must be controlled
 and improved through human intervention. Instead, it proposes that the most
 productive and sustainable approach to growing food is to work within
 natural systems rather than against them.

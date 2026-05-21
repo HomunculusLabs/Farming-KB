@@ -31,7 +31,7 @@ The cultural, artistic, and symbolic significance of mushrooms across human hist
 
 ### Tassili Rock Art (7000-5000 BCE)
 
-The oldest known depictions of mushroom use come from the Sahara Desert — between Tassili (southern Algeria), Acacus (Libya), and Ennedi (Chad). At a time when the Sahara was a "blooming garden," Stone Age artists created images of anthropomorphic beings with mushroom-shaped heads engaged in ecstatic dancing. Dashed lines connecting mushrooms to figures' heads may represent "flow of energy" or the mushrooms' influence on consciousness. Two distinct mushroom shapes appear: one resembling Psilocybe semilanceata (with acute umbo), and larger mushrooms with Amanita or Stropharia-like habitus. Colors include white, ochre shades, and rare blue — possibly representing the bluing reaction.
+The oldest known depictions of mushroom use come from the Sahara Desert — between Tassili (southern Algeria), Acacus (Libya), and Ennedi (Chad). At a time when the Sahara was a "blooming garden," Stone Age artists created images of anthropomorphic beings with mushroom-shaped heads engaged in ecstatic dancing. Dashed lines connecting mushrooms to figures" heads may represent "flow of energy" or the mushrooms" influence on consciousness. Two distinct mushroom shapes appear: one resembling Psilocybe semilanceata (with acute umbo), and larger mushrooms with Amanita or Stropharia-like habitus. Colors include white, ochre shades, and rare blue — possibly representing the bluing reaction.
 
 ### Mesoamerican Mushroom Stones
 
@@ -49,17 +49,17 @@ Circular patterns of mushrooms (often Marasmius oreades or other grassland speci
 
 ### Witchcraft and the Inquisition
 
-Mushrooms were associated with witchcraft in medieval Europe. Baldung Grien's 1514 woodcut "Cooking Witches" reflects practices that "undoubtedly included familiarity with psychotropic mushrooms." The Christian Inquisition's suppression of pagan beliefs likely drove traditional mushroom knowledge underground. In parts of Mexico, mushroom rituals fell into disuse as indigenous practices were suppressed by colonial authorities and later by tourism.
+Mushrooms were associated with witchcraft in medieval Europe. Baldung Grien"s 1514 woodcut "Cooking Witches" reflects practices that "undoubtedly included familiarity with psychotropic mushrooms." The Christian Inquisition"s suppression of pagan beliefs likely drove traditional mushroom knowledge underground. In parts of Mexico, mushroom rituals fell into disuse as indigenous practices were suppressed by colonial authorities and later by tourism.
 
 ### Mushroom as "Little People"
-Amanita muscaria has been associated with gnomes, fairies, and "little people" in European folklore and art. The mushroom's distinctive shape and its appearance in forest settings made it a favorite subject for artists, some of whom encoded deeper symbolic information. [[james-arthur]] notes that mushroom imagery appears throughout religious artwork when "the artist is one of those in the know."
+Amanita muscaria has been associated with gnomes, fairies, and "little people" in European folklore and art. The mushroom"s distinctive shape and its appearance in forest settings made it a favorite subject for artists, some of whom encoded deeper symbolic information. [[james-arthur]] notes that mushroom imagery appears throughout religious artwork when "the artist is one of those in the know."
 
 ### Lightning and Mushroom Growth
 A widespread mythological belief across cultures held that mushrooms grow where lightning strikes. This connection explains:
 - Thor throwing his mushroom-shaped hammer to earth in a flash of lightning
 - The Buddhist Vajra (Dorje) — a thunderbolt-shaped object associated with "lightning-fast enlightenment"
 - The Greek name for fly agaric: "Fly" may refer not to the insect but to the act of spiritual "flying"
-- The mushroom's association with thunder gods across Indo-European cultures
+- The mushroom"s association with thunder gods across Indo-European cultures
 
 ### The Serpent and the Mushroom
 Multiple mythological traditions link serpents and mushrooms:
@@ -88,14 +88,14 @@ The mycorrhizal relationship between mushrooms and trees appears in sacred tradi
 
 ### Alice in Wonderland
 
-Lewis Carroll's "Alice's Adventures in Wonderland" (1865) features the iconic scene of Alice eating a mushroom with a caterpillar, where one side makes her grow and the other shrink. While the connection to psychoactive mushrooms has been widely debated, the Caterpillar's hookah and the mushroom's size-altering properties have made this one of the most enduring mushroom references in literature. Carroll is indexed in Mr. Bloomfield's Orchard alongside other literary mushroom references.
+Lewis Carroll's "Alice"s Adventures in Wonderland" (1865) features the iconic scene of Alice eating a mushroom with a caterpillar, where one side makes her grow and the other shrink. While the connection to psychoactive mushrooms has been widely debated, the Caterpillar"s hookah and the mushroom's size-altering properties have made this one of the most enduring mushroom references in literature. Carroll is indexed in Mr. Bloomfield's Orchard alongside other literary mushroom references.
 
 ## Naming Conventions
 
 ### Why "Magic" Mushrooms?
 
 The term "magic mushrooms" gained popularity in the 1960s counterculture. Earlier names include:
-- **"Fool's mushrooms" / "Joker's mushrooms"** — European colloquial terms reflecting skepticism
+- **"Fool"s mushrooms" / "Joker"s mushrooms"** — European colloquial terms reflecting skepticism
 - **"Divine mushroom"** (teonanacatl) — Nahuatl name used by Aztec peoples
 - **"Mushrooms of pure laughter"** — Mexican colloquial name
 - **"Little boy"** (apipiltzin), **"Mayor"** (atkad), **"That eruptions thing"** (di nize taaya) — Indigenous Mexican names
@@ -109,11 +109,11 @@ British colloquial names for P. semilanceata include "Liberty Cap" (dating to M.
 
 ## Mushrooms in Art and Literature
 
-- **Dante:** Referenced in the index of Mr. Bloomfield's Orchard
+- **Dante:** Referenced in the index of Mr. Bloomfield"s Orchard
 - **Joseph Conrad:** Epigraph for the final chapter of Mr. Bloomfield's Orchard: "And this stillness of life did not in the least resemble a peace" (Heart of Darkness, 1902)
 - **Homer:** Referenced in fungal literature
 - **David Arora:** "Mushrooms Demystified" referenced as the standard modern American field guide
-- **McIlvaine (1900/1902):** "One Thousand American Fungi" — adventurous Edwardian approach to eating wild mushrooms, including Satan's boletes which he found "remarkably fine eating"
+- **McIlvaine (1900/1902):** "One Thousand American Fungi" — adventurous Edwardian approach to eating wild mushrooms, including Satan"s boletes which he found "remarkably fine eating"
 
 ## The Mycophile Subculture
 
@@ -134,7 +134,7 @@ England has traditionally been mycophobic — mushrooms viewed as "poisonous, sl
 - Foraging culture combines culinary interest, naturalist observation, and in some cases, interest in psychoactive species
 - Modern foraging apps and online communities have democratized identification knowledge while also creating risks from misidentification
 
-## Mr. Bloomfield's Orchard
+## Mr. Bloomfield"s Orchard
 
 The title of [[nicholas-money]]'s book refers to an abandoned apple orchard belonging to the village milkman, whose century-old trees formed "a solid canopy, beneath which sickening fruits swelled and decayed." The orchard was consumed by "bitter rot, black rot, blossom end rot, canker, rust, powdery mildew, rubbery wood, and scab." Mushrooms of all colors sprouted under the diseased branches: "a pink-gilled Agaricus, scarlet waxy caps, and masses of ink-caps that bled into the grass." This image captures the essential paradox of fungi — simultaneously agents of destruction and beauty, decay and renewal.
 

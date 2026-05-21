@@ -20,7 +20,7 @@ The system evolved from earlier protected [[coleman-french-historical-winter-veg
 600 hectares — roughly 6% of the land within the city limits of Paris. The street addresses of
 these nineteenth-century gardens are now the addresses of office buildings and apartments.
 
-## The System's Core Principles
+## The System"s Core Principles
 
 ### Intensive Land Use
 

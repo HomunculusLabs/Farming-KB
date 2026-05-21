@@ -11,7 +11,7 @@ tags: [mycology, gasteromycetes, puffball, ethnobotany, mixtec, mexico, neurotro
 
 In 1962, Heim and Wasson reported the use of two puffball species — *[[astraeus-hygrometricus]]* (Pers.) Morg. — the earthstar
 7. *Scleroderma verrucosum* Pers. — a poisonous earthball
-8. *Lycoperdon mixtecorum* (Heim & Wasson's original species, now synonymized under *Vascellum qudenii*)
+8. *Lycoperdon mixtecorum* (Heim & Wasson"s original species, now synonymized under *Vascellum qudenii*)
 9. *[[lycoperdon-perlatum]]* form fairy rings in grasslands and are edible, none possess neurotropic properties. The puffballs reported by Heim and Wasson are common edible species in Mexico, but in the Mixtec zone they are used in a manner suggesting confusion with more traditional neurotropic fungi used for religious or magical purposes.
 
 ## Broader Context: Non-Psilocybian Sacred Fungi

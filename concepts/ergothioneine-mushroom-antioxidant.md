@@ -38,7 +38,7 @@ Mushrooms are by far the richest dietary source of ergothioneine. Content varies
 - Trace amounts in certain beans, oat bran, and garlic
 - Very low levels in some animal tissues (accumulated from diet)
 
-The ergothioneine content of mushrooms is influenced by species, [[blesching-cannabis-rheumatoid-arthritis]], Crohn's disease, and type 1 diabetes, potentially through altered ergothioneine handling.
+The ergothioneine content of mushrooms is influenced by species, [[blesching-cannabis-rheumatoid-arthritis]], Crohn"s disease, and type 1 diabetes, potentially through altered ergothioneine handling.
 - **Blood-brain barrier**: OCTN1 is expressed at the blood-brain barrier, allowing ergothioneine to enter the central nervous system, where it may protect against neurodegenerative processes.
 
 The existence of a dedicated transporter for a compound that humans cannot synthesize has led researchers to propose that ergothioneine may be a "vitamin-like" nutrient — not technically a vitamin because [[cervantes-hydrogen-peroxide-sterilization]], hydroxyl radical, singlet oxygen), RNS (peroxynitrite, nitrogen dioxide), and hypochlorous acid (HOCl) produced by neutrophils. Unlike many antioxidants that can become pro-oxidant under certain conditions, ergothioneine does not exhibit pro-oxidant activity due to its stable thione configuration that prevents the Fenton reaction.

@@ -25,7 +25,7 @@ Psychoactive mushrooms have been used in Mesoamerica for millennia. The Aztecs c
 ## 1915-1938: Early Scholarly Interest
 
 - **1915**: American ethnobotanist William E. Safford first argued that teonanacatl was peyote, not a mushroom, a claim later disproven.
-- **1916**: Jean Bassett Johnson, led by Roberto Weitlaner, became the first outsiders to witness an indigenous mushroom curing ceremony in [[huautla-de-jimenez]], Oaxaca. Johnson reported that a curandero, under the influence of the mushroom, divined the patient's illness.
+- **1916**: Jean Bassett Johnson, led by Roberto Weitlaner, became the first outsiders to witness an indigenous mushroom curing ceremony in [[huautla-de-jimenez]], Oaxaca. Johnson reported that a curandero, under the influence of the mushroom, divined the patient"s illness.
 - **1936**: Blas Pablo Reko published material suggesting teonanacatl was indeed a mushroom. [[richard-evans-schultes]] traveled to Oaxaca and collected specimens of *[[panaeolus-campanulatus]]*, identifying them (incorrectly, as it turned out) as the ceremonial mushroom.
 - **1938**: Schultes published a paper in the *American Anthropologist* identifying teonanacatl as a mushroom and effectively ending the peyote hypothesis.
 
@@ -35,7 +35,7 @@ Psychoactive mushrooms have been used in Mesoamerica for millennia. The Aztecs c
 - **1953**: Wasson's first trip to Mexico with his photographer daughter Masha. Guided by Weitlaner, they traveled to Huautla and witnessed a velada (mushroom vigil) performed by local curandero Aurelio Carreras, though only Carreras consumed mushrooms.
 - **1955**: Wasson's third and most famous trip. On June 29-30, accompanied by photographer Allan Richardson, he participated in a velada led by [[maria-sabina-mazatec-mushroom-ceremony|Maria Sabina]], becoming the first known Westerners to intentionally consume [[psilocybin-mushrooms]]. Wasson consumed six pairs of mushrooms on July 2 and described visions of "brilliant colours, gold and onyx and ebony" and the sensation of approaching "dark gates reaching upward beyond sight."
 - **1957**: Wasson published a photo essay, "Seeking the Magic Mushroom," in *LIFE* magazine, bringing the existence of psychoactive mushrooms to global public attention.
-- **1956**: Roger Heim, Professor of Mycology at the Musee National d'Histoire Naturelle in Paris, accompanied Wasson to Mexico to classify the hallucinogenic mushroom species.
+- **1956**: Roger Heim, Professor of Mycology at the Musee National d"Histoire Naturelle in Paris, accompanied Wasson to Mexico to classify the hallucinogenic mushroom species.
 - **1958**: Albert [[lsd-discovery-and-history|Hofmann]], whom Heim had approached to identify the active ingredients, succeeded in isolating and synthesizing **psilocybin** and **psilocin** from the Mexican mushroom specimens at Sandoz Laboratories in Basel. Sandoz began distributing psilocybin under the brand name Indocybin to researchers worldwide.
 
 ## 1960-1966: Leary, Harvard, and the Counterculture

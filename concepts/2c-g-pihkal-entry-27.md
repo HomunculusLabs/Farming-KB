@@ -16,7 +16,7 @@ tags: [phenethylamine, shulgin]
 2C-G is a unique member of the [[plant-sensory-perception]] (coffee tastes "most strange"). Mental effects reach only a ++ level. Body retains memory of the experience longer than the mind. Sleep is achievable and desirable in the early evening.
 
 ### 32 mg -- "True Psychedelic" / "Insight-Enhancer"
-Described as a "superb material, to be classified as a 'true psychedelic' unless one is publishing, in which case it could be best described as an 'insight-enhancer' and obviously of potential value in psychotherapy (if one would wish to spend 30 hours in a therapy session!)." Notable for its anorexic and non-sexual aspects. The user concludes: "The length of the experience is against its frequent use, of course, which is a pity, since this one is well worth investigating as often as possible."
+Described as a "superb material, to be classified as a "true psychedelic' unless one is publishing, in which case it could be best described as an 'insight-enhancer' and obviously of potential value in psychotherapy (if one would wish to spend 30 hours in a therapy session!)." Notable for its anorexic and non-sexual aspects. The user concludes: "The length of the experience is against its frequent use, of course, which is a pity, since this one is well worth investigating as often as possible."
 
 ### 32 mg -- Indole-Like Onset
 At the very beginning, a "feeling of non-physical heat in the upper back" reminiscent of [[2c-d-pihkal-entry-23]]: 2C-E is more visually intense, more challenging, and shorter-acting. 2C-G is more of a "slow burn" insight enhancer.

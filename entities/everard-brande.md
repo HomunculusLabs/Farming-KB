@@ -7,11 +7,11 @@ tags: [person, history, england, psilocybe-semilanceata, intoxication]
 
 ## Description
 
-Everard Brande was an English gentleman who, in 1799, published the **first documented account of [[psilocybin-mushroom]] intoxication in the scientific literature**. His report, addressed to the editors of *The Medical and Physical Journal* from No. 10 Arlington Street, London (dated November 16, 1799), described a remarkable case of mushroom poisoning involving a family in London's St. James's Green Park.
+Everard Brande was an English gentleman who, in 1799, published the **first documented account of [[psilocybin-mushroom]] intoxication in the scientific literature**. His report, addressed to the editors of *The Medical and Physical Journal* from No. 10 Arlington Street, London (dated November 16, 1799), described a remarkable case of mushroom poisoning involving a family in London"s St. James's Green Park.
 
 ## The 1799 Incident
 
-On October 3, 1799, an impoverished family (identified only as "J.S." and his four children) picked mushrooms in St. James's Green Park and prepared them for a meal in a tinned iron saucepan. The family had eaten mushrooms from the same area previously without incident. Shortly after consuming the mushrooms:
+On October 3, 1799, an impoverished family (identified only as "J.S." and his four children) picked mushrooms in St. James"s Green Park and prepared them for a meal in a tinned iron saucepan. The family had eaten mushrooms from the same area previously without incident. Shortly after consuming the mushrooms:
 
 - **Edward** (eight years old), who ate a large proportion, was attacked with fits of immoderate laughter that could not be restrained by parental threats
 - This was followed by **vertigo** and a great degree of **stupor**

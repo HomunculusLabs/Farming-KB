@@ -31,7 +31,7 @@ not know any seed breeders that use it today.
 ## Ploidy in Cannabis
 
 Cannabis plants are, by nature, diploids with twenty chromosomes. At
-meiosis, each parent's gamete contributes ten chromosomes to the zygote
+meiosis, each parent"s gamete contributes ten chromosomes to the zygote
 they have formed. Cannabis cells may be haploid (have one copy of each
 chromosome set) as in gametes, or diploid (two chromosome sets per
 cell).

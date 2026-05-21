@@ -18,7 +18,7 @@ Most problematic anaerobic organisms in [[compost]] tea are **autotrophs** — m
 
 While these organisms can respire using these alternative electron acceptors, the real problem is not what they breathe but **what they produce** as metabolic byproducts.
 
-## Why Plants Don't Tolerate Anaerobic Conditions
+## Why Plants Don"t Tolerate Anaerobic Conditions
 
 ### It's Not About Oxygen Deprivation
 
@@ -59,7 +59,7 @@ Below this threshold, problems regularly observed include:
 
 The exact cut-off depends on which organisms are present in the soil or compost:
 
-- **Well-composted material** — pathogens have been killed during the [[composting]] process (either by proper thermal composting temperatures or by passage through earthworm guts), so there's less risk even if oxygen dips
+- **Well-composted material** — pathogens have been killed during the [[composting]] process (either by proper thermal composting temperatures or by passage through earthworm guts), so there"s less risk even if oxygen dips
 - **Poorly composted material** — more pathogens survive, and any drop in oxygen gives them an advantage
 
 The statement "it depends" is not useful in practice, but the 5.5–6 mg/L threshold provides a reliable working guideline.
@@ -118,7 +118,7 @@ This underscores the importance of having active soil biology — without the or
 
 ## Antibiotics: Definitions and Misconceptions
 
-### What Is (and Isn't) an Antibiotic?
+### What Is (and Isn"t) an Antibiotic?
 
 From a regulatory and pharmaceutical perspective, an antibiotic has a **specific chemical action on the enzymatic or membrane function** of another organism. This is distinct from general antimicrobial effects.
 

@@ -12,7 +12,7 @@ tags: [cannabis]
 
 ## Overview
 
-Cannabis quality testing encompasses the assessment of potency, purity, flavor, and overall desirability of harvested cannabis and its derivatives. According to Cervantes, [[greg-green-trichomes-and-resin-glands]] (trichomes). Using a 10-30X microscope or jeweler's loupe, growers assess [[african-landrace-sativa-strains]] to reach amber stage; this wastes their unique properties
+Cannabis quality testing encompasses the assessment of potency, purity, flavor, and overall desirability of harvested cannabis and its derivatives. According to Cervantes, [[greg-green-trichomes-and-resin-glands]] (trichomes). Using a 10-30X microscope or jeweler"s loupe, growers assess [[african-landrace-sativa-strains]] to reach amber stage; this wastes their unique properties
 
 ### What to Look For
 

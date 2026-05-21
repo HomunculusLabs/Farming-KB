@@ -1,5 +1,5 @@
 ---
-title: 'Goji Berry vs Aronia Chokeberry Cultivation'
+title: "Goji Berry vs Aronia Chokeberry Cultivation'
 tags: [goji, aronia, chokeberry, superfruit, berry, comparison, cultivation, permaculture, nutrition]
 created: 2026-04-28
 updated: 2026-04-28

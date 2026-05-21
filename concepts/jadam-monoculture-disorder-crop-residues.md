@@ -21,7 +21,7 @@ The conventional solution is crop rotation -- growing different crops in sequenc
 
 ## The Real Cause: Destroying Crop Residues
 
-JADAM's core insight is that monoculture disorder is not caused by growing the same crop repeatedly. It is caused by removing all crop residues (branches, leaves, stems) from the field after harvest. When you take away the entire above-ground portion of a plant year after year and do not return it to the soil, you are systematically mining the soil of nutrients.
+JADAM"s core insight is that monoculture disorder is not caused by growing the same crop repeatedly. It is caused by removing all crop residues (branches, leaves, stems) from the field after harvest. When you take away the entire above-ground portion of a plant year after year and do not return it to the soil, you are systematically mining the soil of nutrients.
 
 In nature, this never happens. When a tree drops its leaves in autumn, those leaves contain all the nutrients the tree pulled from deep in the soil over the past year. The leaves decompose and return those nutrients. This cycle has operated for millions of years, making forests greener and healthier over time.
 
@@ -38,7 +38,7 @@ JADAM's position is revolutionary: crop residues are the perfect fertilizer for 
 
 Experts commonly teach that crop residues should be destroyed because they harbor disease organisms like canker and powdery mildew. JADAM refutes this with a powerful analogy:
 
-- Athlete's foot fungus is everywhere in the environment
+- Athlete"s foot fungus is everywhere in the environment
 - People who walk barefoot never get athlete's foot because their feet are colonized by a diversity of microorganisms
 - When athlete's foot fungi must compete with other microbes, they cannot dominate
 - The same principle applies to crop diseases: increase microbial diversity and no single pathogen can gain dominance

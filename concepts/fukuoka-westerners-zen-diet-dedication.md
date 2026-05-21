@@ -1,5 +1,5 @@
 ---
-title: Westerners' Single-Minded Dedication to Zen and fukuoka-natural-diet-as-foundation
+title: Westerners" Single-Minded Dedication to Zen and fukuoka-natural-diet-as-foundation
 source: masanobu-fukuoka-the-road-back-to-nature.md
 author: Masanobu Fukuoka
 tags: [fukuoka, natural-farming, zen, natural-diet, western-philosophy, japanese-culture, cultural-comparison]
@@ -39,10 +39,10 @@ their physical stature larger.
 
 But Westerners saw things differently. As Fukuoka reports: "All the Japanese have done is to
 travel in thirty or forty years the road that took us a century or two to build. Perhaps they
-have caught up and even passed us. But we don't envy them for it because that road leads
+have caught up and even passed us. But we don"t envy them for it because that road leads
 nowhere."
 
-The Westerners' insight was that the Japanese had merely imitated the surface of Western
+The Westerners" insight was that the Japanese had merely imitated the surface of Western
 civilization without understanding its deeper crisis. The Japanese had gained material wealth
 but lost their simplicity, their traditional wisdom, and their connection to nature.
 
@@ -53,8 +53,8 @@ Westerners who came to Japan to practice Zen meditation. Many young foreigners w
 Fukuoka's farm had first stopped by a Zen temple such as Eihei-ji or practiced zazen
 (sitting meditation) elsewhere.
 
-When asked about their experience, they were able to clearly and unequivocally say: "I don't
-understand." This admission of ignorance was, in Fukuoka's view, a sign of wisdom.
+When asked about their experience, they were able to clearly and unequivocally say: "I don"t
+understand." This admission of ignorance was, in Fukuoka"s view, a sign of wisdom.
 
 The Westerners recognized the vastness of what they did not know and were not ashamed to
 acknowledge it. They continued practicing not because they believed they had achieved
@@ -64,7 +64,7 @@ By contrast, Japanese people who tried zazen would quickly put on a knowing air 
 understand Zen. They would arrive at a point of intellectual satisfaction and stop meditating.
 The Westerners, unable to achieve such easy satisfaction, kept going.
 
-As Fukuoka describes their attitude: "Nothing came of it and I don't understand it all, but
+As Fukuoka describes their attitude: "Nothing came of it and I don"t understand it all, but
 since I do see that I've been traveling the wrong road up until now, I guess that, for better
 or worse, all I can do is to go on meditating."
 

@@ -1,5 +1,5 @@
 ---
-title: "McKenna's Manifesto — Habit, Obsession, and the Drug Dilemma"
+title: "McKenna"s Manifesto — Habit, Obsession, and the Drug Dilemma"
 tags:
   - concept
 ---

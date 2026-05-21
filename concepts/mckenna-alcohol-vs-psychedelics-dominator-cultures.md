@@ -4,7 +4,7 @@ tags:
   - concept
 ---
 
-## McKenna's Alcohol vs. Psychedelics — Dominator and Partnership Societies
+## McKenna"s Alcohol vs. Psychedelics — Dominator and Partnership Societies
 
 ## Overview
 

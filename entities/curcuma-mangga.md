@@ -10,7 +10,6 @@ date: 2026-05-08
 updated: 2026-05-08
 sources:
   - Theilade I, Theilade S. (2013). "Zingiberaceae of arbuscular-mycorrhizal-fungi-in-tropical-forest-restoration Science.---
----
 
 ## Curcuma mangga
 

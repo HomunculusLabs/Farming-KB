@@ -21,7 +21,7 @@ The **money-sucking octopus economy** is [[mycelium-digestive-membrane-informati
 5. **Education** and administrative advising
 6. Control of **financial institutions**
 7. Control of **information**
-8. Control of citizens' **personal computers and registration**
+8. Control of citizens" **personal computers and registration**
 
 Everything is pulled to the center through these eight legs. Although this action is carried out under the name of stimulating the regional economy or maintaining regional culture, the wealth eventually accumulates at the center.
 
@@ -38,7 +38,7 @@ Fukuoka warned this would lead to a predictable end: "The octopus will either be
 
 ## Value Is Condition-Dependent
 
-A key insight underlying Fukuoka's economic critique is that material goods have no intrinsic value. Value appears to exist because people create conditions that make things seem necessary. Change the conditions and the value disappears.
+A key insight underlying Fukuoka"s economic critique is that material goods have no intrinsic value. Value appears to exist because people create conditions that make things seem necessary. Change the conditions and the value disappears.
 
 Examples he cited:
 
@@ -64,7 +64,7 @@ Fukuoka saw capitalism and communism as fundamentally similar despite their appa
 - Freedom and equality cannot coexist completely separate from imprisonment and inequality
 ## The Nomadic Critique of Materialism
 
-The Ethiopian tribesman who rejected Fukuoka's farming ideas captured the essence of this economic critique: "Are you asking me to become a farmer? To be attached to the soil and to accumulate things are the acts of a degraded person." Fukuoka called this nomad's words "a perceptive criticism of modern society."
+The Ethiopian tribesman who rejected Fukuoka"s farming ideas captured the essence of this economic critique: "Are you asking me to become a farmer? To be attached to the soil and to accumulate things are the acts of a degraded person." Fukuoka called this nomad"s words "a perceptive criticism of modern society."
 
 The nomadic critique of materialism underscores that the octopus economy is not an inevitable feature of human society but a specific [[historical-development-of-mushroom-cultivation]].
 

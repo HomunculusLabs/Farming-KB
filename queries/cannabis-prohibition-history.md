@@ -21,7 +21,7 @@ for how prohibition shaped cannabis genetics.
 ## Ancient and Pre-Modern Use
 
 - **~2700 BCE — Emperor Shen Nung (China):**
-  First recorded therapeutic use of cannabis in the Chinese pharmacopeia Pen Ts'ao.
+  First recorded therapeutic use of cannabis in the Chinese pharmacopeia Pen Ts"ao.
   Recommended for rheumatism, gout, malaria, and absent-mindedness.
   Fibers used for rope and cloth.
 

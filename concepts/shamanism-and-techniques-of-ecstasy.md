@@ -40,7 +40,7 @@ McKenna views these plants not as passive tools but as active partners — intel
 
 ## A World Made of Language
 
-One of McKenna's most distinctive contributions to shamanic thought is his concept of a
+One of McKenna"s most distinctive contributions to shamanic thought is his concept of a
 "world made of language." Drawing on both his own experiences with [[tryptamine-logos]] philosophy and information theory.
 
 ## Higher-Dimensional Reality

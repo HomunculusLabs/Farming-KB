@@ -1,5 +1,5 @@
 ---
-title: Cho's Natural fukuoka-do-nothing-farming-philosophy-and-practice of Non-Interference
+title: Cho"s Natural fukuoka-do-nothing-farming-philosophy-and-practice of Non-Interference
 tags: [natural-farming, philosophy, cho-han-kyu, permaculture]
 date: 2026-04-28
 updated: 2026-04-28

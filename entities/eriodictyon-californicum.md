@@ -21,7 +21,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Kobsa, M. (2010). "Eriodictyon: California's Sacred Herb." Economic Botany, 64(1), 18-30.
+  - Kobsa, M. (2010). "Eriodictyon: California"s Sacred Herb." Economic Botany, 64(1), 18-30.
 ---
 
 ## [[psilocybin-north-america-pacific-northwest]], it

@@ -18,7 +18,7 @@ Crops grow on the earth independently of human knowledge and action. They have n
 
 ## The Logical Trap
 
-Scientists begin by analyzing rice and barley plants, identifying nutrients, then applying these as fertilizer. When plants grow as expected, they conclude that fertilizer is what makes crops grow. But if we take as our starting point that a tree grows of its own accord, the uptake of nutrients by the tree's roots is no longer a cause but just a small effect in the eyes of nature.
+Scientists begin by analyzing rice and barley plants, identifying nutrients, then applying these as fertilizer. When plants grow as expected, they conclude that fertilizer is what makes crops grow. But if we take as our starting point that a tree grows of its own accord, the uptake of nutrients by the tree"s roots is no longer a cause but just a small effect in the eyes of nature.
 
 A tree has a shape perfectly adapted to the natural environment. It guards the providence of nature and obeys nature's laws, growing neither too fast nor too slow, but in total harmony with the great cycles of nature.
 

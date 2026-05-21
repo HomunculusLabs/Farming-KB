@@ -9,7 +9,7 @@ tags: [person, historian, religious-studies, shamanism, ecstasy, romanian]
 
 ## Description
 
-Mircea Eliade (1907-1986) was a Romanian historian of religion, fiction writer, philosopher, and professor at the University of Chicago. He is widely regarded as one of the most influential scholars of religion in the twentieth century. His landmark work "Shamanism: Archaic Techniques of Ecstasy" (1964, French original 1951) is cited in the general bibliography of Harner's Hallucinogens and Shamanism as a foundational reference on the phenomenology of shamanic practice worldwide. Eliade's comprehensive survey of shamanic traditions established the academic framework within which the studies in Harner's volume were conducted.
+Mircea Eliade (1907-1986) was a Romanian historian of religion, fiction writer, philosopher, and professor at the University of Chicago. He is widely regarded as one of the most influential scholars of religion in the twentieth century. His landmark work "Shamanism: Archaic Techniques of Ecstasy" (1964, French original 1951) is cited in the general bibliography of Harner"s Hallucinogens and Shamanism as a foundational reference on the phenomenology of shamanic practice worldwide. Eliade's comprehensive survey of shamanic traditions established the academic framework within which the studies in Harner's volume were conducted.
 
 ## Classification
 
@@ -25,14 +25,14 @@ Mircea Eliade (1907-1986) was a Romanian historian of religion, fiction writer, 
 
 - Published "Shamanism: Archaic Techniques of Ecstasy" in French in 1951, English translation in 1964
 - The work remains the most comprehensive comparative study of shamanic traditions ever published
-- Defined shamanism not as a religion but as a technique of ecstasy involving the soul's magical flight to the spirit world
+- Defined shamanism not as a religion but as a technique of ecstasy involving the soul"s magical flight to the spirit world
 - Documented shamanic practices across Siberia, Central Asia, the Americas, Southeast Asia, and Oceania
 - His framework of "archaic techniques of ecstasy" provided the theoretical foundation for subsequent studies of hallucinogenic plant use in shamanic contexts
 - Cited in the Harner volume alongside other foundational works including those by Weston La Barre and R. Gordon Wasson
 - His concept of the shaman as a master of ecstasy and spiritual flight directly informs the analysis of mushroom and ayahuasca visions in the Harner volume
 - Established the distinction between shamanism and other forms of spirit possession and mediumship
-- His work on the axis mundi (world axis) and the cosmic center informed Naranjo's analysis of the "center" theme in yagé visions
-- Eliade's emphasis on the universality of certain shamanic experiences (flight, death and rebirth, cosmic axis) provided the theoretical justification for Naranjo's search for trans-cultural themes
+- His work on the axis mundi (world axis) and the cosmic center informed Naranjo"s analysis of the "center" theme in yagé visions
+- Eliade"s emphasis on the universality of certain shamanic experiences (flight, death and rebirth, cosmic axis) provided the theoretical justification for Naranjo's search for trans-cultural themes
 
 ## Relevance to Cultivation and Mycology
 
@@ -44,7 +44,7 @@ Eliade's approach to shamanism was phenomenological and comparative rather than 
 
 ## Influence on the Harner Volume
 
-The Harner volume is deeply informed by Eliade's framework. Harner's own chapter on European witchcraft and hallucinogens draws on Eliade's concept of shamanic flight. Naranjo's chapter on "The Question of a Trans-Cultural Experience" directly engages with Eliade's thesis about the universality of shamanic themes. The entire volume's approach to hallucinogenic plant use as a cultural and religious phenomenon rather than a pharmacological one owes much to Eliade's foundational work.
+The Harner volume is deeply informed by Eliade's framework. Harner's own chapter on European witchcraft and hallucinogens draws on Eliade's concept of shamanic flight. Naranjo's chapter on "The Question of a Trans-Cultural Experience" directly engages with Eliade"s thesis about the universality of shamanic themes. The entire volume's approach to hallucinogenic plant use as a cultural and religious phenomenon rather than a pharmacological one owes much to Eliade's foundational work.
 
 ## References
 
@@ -53,7 +53,7 @@ The Harner volume is deeply informed by Eliade's framework. Harner's own chapter
 - Naranjo, C. "Yage in an Experimental Setting" and "The Question of a Trans-Cultural Experience" in Harner (1973).
 ## Methodological Contributions
 
-Eliade's comparative method, which involved synthesizing ethnographic data from diverse cultures to identify common patterns in religious experience, provided the methodological model for studies like Naranjo's analysis of trans-cultural themes in yagé visions. The themes that Naranjo identified in his Chilean subjects' visions (flying, serpents, tigers, the center, death and rebirth) are precisely the themes that Eliade had documented across Siberian, Asian, and American shamanic traditions. This convergence between experimental findings and ethnographic precedent provided powerful evidence for the universality of certain experiential patterns, a central claim of Eliade's theoretical framework.
+Eliade"s comparative method, which involved synthesizing ethnographic data from diverse cultures to identify common patterns in religious experience, provided the methodological model for studies like Naranjo's analysis of trans-cultural themes in yagé visions. The themes that Naranjo identified in his Chilean subjects' visions (flying, serpents, tigers, the center, death and rebirth) are precisely the themes that Eliade had documented across Siberian, Asian, and American shamanic traditions. This convergence between experimental findings and ethnographic precedent provided powerful evidence for the universality of certain experiential patterns, a central claim of Eliade's theoretical framework.
 
 ## See Also
 - [[peter-furst]]

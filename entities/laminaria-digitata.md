@@ -12,7 +12,6 @@ date: 2026-05-08
 updated: 2026-05-08
 sources:
   - Marinho-Soriano, E. et al. (2006). "chemical-composition-of-hallucinogens and physiological response of the seaweed." Journal of Applied Phycology, 18(3–5), 415–420.---
----
 
 ## Laminaria digitata
 

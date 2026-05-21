@@ -5,7 +5,7 @@ tags: [plant-biology, photobiology, plant-senses]
 created: 2026-05-09
 ---
 
-## Phototropism — Darwin's Experiments on Plant Light Sensitivity
+## Phototropism — Darwin"s Experiments on Plant Light Sensitivity
 
 In 1880, Charles Darwin and his son Francis published a landmark finding
 in plant biology: they demonstrated that plants possess a form of sight.
@@ -64,7 +64,7 @@ the tip alone was sufficient to eliminate the phototropic response.
 **Condition D — Tip covered with a clear glass cap.** The tip was
 covered with a transparent glass cap. The seedling bent toward the
 light normally. Since the glass allowed light to reach the tip, the
-plant could still detect the light's direction and respond accordingly.
+plant could still detect the light"s direction and respond accordingly.
 
 **Condition E — Middle covered with a lightproof tube.** The midsection
 of the seedling was wrapped in a lightproof tube while the tip was left
@@ -114,7 +114,7 @@ Technical specifications for successful results for phototropism darwin experime
 the underlying principles helps practitioners achieve consistent results.
 Careful observation and documentation support ongoing improvement.
 
-## The Conclusion: The Plant's "Eye" Is at the Tip
+## The Conclusion: The Plant"s "Eye" Is at the Tip
 
 The results were unambiguous. Conditions B and C — where the tip was
 either removed or shielded from light — both eliminated phototropism.

@@ -4,7 +4,7 @@ source: administrator-microsoft-word-fukuoka-textdoc.md
 type: concept
 ---
 
-## Fukuoka's Critique of Specialized Research and Inductive/Deductive Methods
+## Fukuoka"s Critique of Specialized Research and Inductive/Deductive Methods
 
 Masanobu Fukuoka's *The One-Straw Revolution* contains a sustained critique of how modern [[critique-of-scientific-agriculture]]. Liebig's Law of the Minimum states that plant growth is limited by whichever essential nutrient is in shortest supply — visualized as water held in a barrel with staves of unequal height, where the shortest stave determines the water level. But Fukuoka extends the metaphor: a barrel without hoops leaks. The missing hoops represent man's lack of understanding of the interrelatedness between nutrients.
 

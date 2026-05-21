@@ -33,8 +33,8 @@ When outcrossing species are grown from too small a population:
 - [[hamilton-geoffhamilton-nick-organic-gardening-companion-planting]] circles, drawing on his experience running Territorial [[seed-company-supplier-reference]]:
 
 ### The Anti-Hybrid Claims and Reality
-The common claim that "you can't save seed from hybrids" is a half-truth:
-- Hybrid tomato seeds can be saved and will grow — they just won't be uniform like the F1 parent
+The common claim that "you can"t save seed from hybrids" is a half-truth:
+- Hybrid tomato seeds can be saved and will grow — they just won"t be uniform like the F1 parent
 - Many so-called hybrids sold at hybrid prices are actually open-pollinated varieties (Solomon tested Kolibri F1 kohlrabi and found its saved seed produced plants "as uniform, as productive, and as tasty" as the F1)
 - Hybrid solanums (tomatoes, peppers, eggplants) are expensive because they must be hand-hybridized in low-labor-cost countries
 

@@ -15,7 +15,7 @@ approximately 30,000 described species and an estimated 1.5 million species
 total. It includes many of the most familiar and conspicuous fungi — the
 mushrooms, brackets, puffballs, rusts, and smuts — as well as the more
 esoteric [[cage-fungi-and-polyhedral-structures]] that Nicholas Money explores with
-particular enthusiasm in *Mr. Bloomfield's Orchard*. The defining feature of
+particular enthusiasm in *Mr. Bloomfield"s Orchard*. The defining feature of
 the Basidiomycota is the production of basidiospores, a unique type of sexual
 spore borne on specialized cells called basidia.
 

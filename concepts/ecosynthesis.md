@@ -6,7 +6,7 @@ type: concept
 
 ## Ecosynthesis
 
-Ecosynthesis is the process by which new ecosystems evolve from novel combinations of native and exotic species responding to changed environmental conditions. The term describes nature's inherent capacity to weave new ecological tapestries from available biological and physical resources, regardless of their geographic origin. Far from being mere "degradation," ecosynthesis represents a fundamental evolutionary mechanism through which ecosystems adapt to human and other disturbances.
+Ecosynthesis is the process by which new ecosystems evolve from novel combinations of native and exotic species responding to changed environmental conditions. The term describes nature"s inherent capacity to weave new ecological tapestries from available biological and physical resources, regardless of their geographic origin. Far from being mere "degradation," ecosynthesis represents a fundamental evolutionary mechanism through which ecosystems adapt to human and other disturbances.
 
 ## Core Concept
 
@@ -14,7 +14,7 @@ The focus of conservation biology on the ancient co-evolved nature of some ecolo
 
 Key evidence for ecosynthesis includes:
 
-- **Palaeobotanical evidence** shows that many of today's remnant and predominantly natural ecosystems did not survive the fluctuations of ice ages intact in climatic refuges. Instead, they appear to be novel and contingent combinations of species that have come together during the current interglacial (the last 10,000 years)
+- **Palaeobotanical evidence** shows that many of today"s remnant and predominantly natural ecosystems did not survive the fluctuations of ice ages intact in climatic refuges. Instead, they appear to be novel and contingent combinations of species that have come together during the current interglacial (the last 10,000 years)
 - **Australia's fire-prone eucalypt vegetation** is decidedly atypical of other interglacial periods, when rainforest vegetation dominated. The human factor seems the most likely cause of this anomaly
 - **Indigenous land management** has for tens of thousands of years shaped the rapid evolution of ecosystems and landscapes — a relatively new idea in Western science
 - **European cultural management systems** spanning a thousand years or less are now acknowledged as providing some of the greatest reservoirs of biodiversity in Europe
@@ -60,7 +60,7 @@ Research confirmed these observations:
 
 The development of systemic properties in novel combinations of plants and animals is not so much the final outcome of slow bottom-up evolutionary processes. Instead, they are the design rules that guide the cyclical and evolving dance of species towards a new nature.
 
-The ecological holocaust of the Central Victorian goldrush in the late 19th century was the release phase which allowed the piecemeal settlement processes since to lay down the energetic regimes and biological resources for ecosynthesis. This mirrors Holling's Four-Phase Model where the Release phase breaks connectivity, allowing risky and uncertain development of new connections during the Reorganisation phase.
+The ecological holocaust of the Central Victorian goldrush in the late 19th century was the release phase which allowed the piecemeal settlement processes since to lay down the energetic regimes and biological resources for ecosynthesis. This mirrors Holling"s Four-Phase Model where the Release phase breaks connectivity, allowing risky and uncertain development of new connections during the Reorganisation phase.
 
 ## Humanity as Part of Nature
 

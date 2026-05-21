@@ -8,7 +8,7 @@ type: entity
 
 ## Description
 
-Lewis Mumford (1895–1990) was an American historian, sociologist, and philosopher of technology regarded as one of the 20th century's most important public intellectuals on cities, technology, and human settlement. David Holmgren cites Mumford's *The City in History* (1961, Penguin) as providing "the classic overview" of urban development.
+Lewis Mumford (1895–1990) was an American historian, sociologist, and philosopher of technology regarded as one of the 20th century"s most important public intellectuals on cities, technology, and human settlement. David Holmgren cites Mumford's *The City in History* (1961, Penguin) as providing "the classic overview" of urban development.
 
 ## Background and Classification
 

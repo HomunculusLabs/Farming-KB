@@ -1,5 +1,5 @@
 ---
-title: "Fukuoka's Philosophy of Death and the fukuoka death discontinuous continuum philosophy"
+title: "Fukuoka"s Philosophy of Death and the fukuoka death discontinuous continuum philosophy"
 source: masanobu-fukuoka-the-road-back-to-nature
 topics: philosophy, natural-farming, spirituality, life-and-death, zen-buddhism
 ---

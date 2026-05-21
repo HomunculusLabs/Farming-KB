@@ -12,17 +12,17 @@ sources:
 
 ## Overview
 
-Pablo Amaringo's "Ayahuasca Visions" is a landmark work of visionary art that documents the extraordinary visual experiences produced by the Amazonian ayahuasca brew. Amaringo, a former vegetalista (plant-healer) from the Ucayali region of Peru, painted hundreds of detailed visions depicting the spirit world encountered through ayahuasca, providing an unparalleled visual record of Amazonian shamanic cosmology.
+Pablo Amaringo"s "Ayahuasca Visions" is a landmark work of visionary art that documents the extraordinary visual experiences produced by the Amazonian ayahuasca brew. Amaringo, a former vegetalista (plant-healer) from the Ucayali region of Peru, painted hundreds of detailed visions depicting the spirit world encountered through ayahuasca, providing an unparalleled visual record of Amazonian shamanic cosmology.
 
 ## Pablo Amaringo
 
 Pablo Amaringo (1938-2009) was born in the Peruvian Amazon and became a vegetalista -- a practitioner of traditional plant medicine -- before dedicating his life to painting the visions he had received during ayahuasca ceremonies. His paintings are characterised by extraordinary detail, vivid colour, and dense imagery depicting spirits, plant teachers, mythological beings, and cosmic landscapes.
 
-Amaringo's fundamental belief: "Every tree, every plant, has a spirit. People may say that the plant has no mind. I tell them that the plant is alive and conscious. A plant may not talk, but there is a spirit in it that is conscious, that sees everything, which is the soul of the plant, its essence, what makes it alive."
+Amaringo"s fundamental belief: "Every tree, every plant, has a spirit. People may say that the plant has no mind. I tell them that the plant is alive and conscious. A plant may not talk, but there is a spirit in it that is conscious, that sees everything, which is the soul of the plant, its essence, what makes it alive."
 
 ## The Ayahuasca Ceremony
 
-Amaringo's paintings document the complete ayahuasca preparation process:
+Amaringo"s paintings document the complete ayahuasca preparation process:
 - The vegetalista cuts the ayahuasca liana (Banisteriopsis caapi) climbing up a capirona tree
 - He makes offerings of tobacco and matches to the "grandfather" (the ayahuasca spirit)
 - He observes the chicua bird -- its call determines whether the vine should be taken
@@ -34,7 +34,7 @@ The preparation requires strict dietary discipline: no salt, sugar, or bitter fo
 
 ## The Shipibo Tradition
 
-Amaringo's paintings depict Shipibo vegetalistas in trance, overwhelmed by visions in which the walls of their house disappear and they find themselves in a jungle populated by the "mothers of the plants" -- the guardian spirits of each medicinal species. Each plant-teacher has its own spirit:
+Amaringo"s paintings depict Shipibo vegetalistas in trance, overwhelmed by visions in which the walls of their house disappear and they find themselves in a jungle populated by the "mothers of the plants" -- the guardian spirits of each medicinal species. Each plant-teacher has its own spirit:
 - **Remocaspi** (Aspidosperma excelsum): Spirit is a wise old Chinese king with a golden crown
 - **Puka-lupuna** (Cavanillesia hylogeiton): Spirit is a dark woman with cat eyes and a gold chain
 - **Ajosquiro** (Gallizia corazema): Spirit is a small curly-haired man in red

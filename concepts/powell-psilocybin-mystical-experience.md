@@ -11,7 +11,7 @@ updated: 2026-04-26
 
 ## Psilocybin and the Mystical Experience
 
-The mystical experience induced by psilocybin is the central phenomenon in Powell's *The
+The mystical experience induced by psilocybin is the central phenomenon in Powell"s *The
 [[entheogenic-fungi-history]] are key to understanding both mind and reality.
 
 ## The Good Friday Experiment
@@ -117,5 +117,3 @@ Collaborative research networks facilitate knowledge exchange and accelerate inn
 Context-specific implementation requires attention to local ecology, climate patterns, and community needs.
 Integration with existing systems often yields better results than complete replacement strategies.
 Monitoring and adaptive management are essential for long-term success and continuous improvement.
-## Practical Applications
-The principles discussed here have direct applications in agricultural systems, ecological restoration, and sustainable resource management.

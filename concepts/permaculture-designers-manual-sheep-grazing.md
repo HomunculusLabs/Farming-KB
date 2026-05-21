@@ -7,7 +7,7 @@ tags: [permaculture, animal-husbandry, forage, livestock-health]
 sources: [raw/papers/bill-mollison-permaculture-a-designers-manual.md]
 ---
 ## Sheep Grazing
-**Source:** Permaculture: A Designers' Manual, [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]], sheep are managed as part of multi-species
+**Source:** Permaculture: A Designers" Manual, [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]], sheep are managed as part of multi-species
 grazing systems, integrated with orchards, [[comparison-rotational-grazing-vs-continuous-grazing]].
 ## Multi-Species Grazing Sequences
 Informed graziers can make much better use of browse by scheduling

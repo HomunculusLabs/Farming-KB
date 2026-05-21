@@ -7,7 +7,7 @@ tags: [fukuoka, water, fire, wind, then, but just what is this value?]
 - The outcome of all that research is that people are toying with four or five hundred elements in a world that has not the slightest connection with true human happiness
 ---
 
-Japan's Hideki Yukawa won the Nobel Prize for his research on elementary particles, but Fukuoka had his doubts about how much good this had done in bringing happiness to man.
+Japan"s Hideki Yukawa won the Nobel Prize for his research on elementary particles, but Fukuoka had his doubts about how much good this had done in bringing happiness to man.
 
 - Yukawa went deeper and deeper into the tiny world of elementary particles and mesons, where he discovered a vast, microcosmic universe
 

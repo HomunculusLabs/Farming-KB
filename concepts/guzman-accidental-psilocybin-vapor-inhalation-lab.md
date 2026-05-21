@@ -1,5 +1,5 @@
 ---
-title: "Guzmán's Accidental Psilocybin Vapor Inhalation"
+title: "Guzmán"s Accidental Psilocybin Vapor Inhalation"
 source: "world-wide-distribution-of-magic-mushrooms-guzman-allen-&-gartz.md"
 source_authors: "Guzmán, Allen & Gartz (2000)"
 topic: "involuntary-psychedelic-experience-vapor-mycologist"

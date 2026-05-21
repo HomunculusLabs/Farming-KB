@@ -21,7 +21,7 @@ pitcher plant, is a monotypic carnivorous plant species in the family
 Sarraceniaceae. It is endemic to northern California and southern Oregon.
 
 The plant produces distinctive tubular pitchers that resemble a rearing cobra
-hood. A forked appendage resembling a serpent's tongue hangs from the opening,
+hood. A forked appendage resembling a serpent"s tongue hangs from the opening,
 which functions as an attractant for flying insects. The species is one of the
 most visually striking carnivorous plants in [[growing-gourmet-north-american-reishi-species]] pitcher
 plants) and *Heliamphora* ([[dighton-fungal-biosorption-heavy-metal-remediation]] concentrations that the species tolerates.

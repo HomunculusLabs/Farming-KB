@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-In the visionary cosmology of Pablo Amaringo and the Amazonian vegetalismo tradition, the yakuruna are water beings — spirits that inhabit the depths of the great rivers of the Amazon basin. They are among the most significant spiritual entities encountered in ayahuasca visions, appearing as humanoid figures with distinctly aquatic features. The yakuruna dwell beneath the water's surface in a world that mirrors and interpenetrates the physical landscape, complete with golden trees and elaborate dwellings where they rest in hammocks woven from serpents.
+In the visionary cosmology of Pablo Amaringo and the Amazonian vegetalismo tradition, the yakuruna are water beings — spirits that inhabit the depths of the great rivers of the Amazon basin. They are among the most significant spiritual entities encountered in ayahuasca visions, appearing as humanoid figures with distinctly aquatic features. The yakuruna dwell beneath the water"s surface in a world that mirrors and interpenetrates the physical landscape, complete with golden trees and elaborate dwellings where they rest in hammocks woven from serpents.
 
 These are not metaphorical beings. Within the shamanic worldview, the rivers of the Amazon are literally alive with spiritual inhabitants — a hidden ecology that ayahuasca reveals to the initiated. Understanding the yakuruna and their many varieties is considered essential knowledge for any vegetalista who works with water-related ceremonies or who must navigate the spiritual dangers of the aquatic realm.
 
@@ -38,7 +38,7 @@ The yana-sacraruna are among the reasons why [[metzner-amazonian-ayahuasca-cerem
 
 The stakes of this knowledge are literally life and death. A shaman who mistakes a yana-sacraruna for a benevolent spirit and opens themselves to its influence may be spiritually — and sometimes physically — destroyed. Conversely, a shaman who recognizes the danger in time can deploy protective measures and call upon allied spirits for defense. The study of water spirit taxonomy is therefore not an abstract academic exercise but the most practical form of professional training available to the [[cultural-evolution-and-psychoactive-substances]]) and the salamander (a creature of transformation) on her back suggests a connection between her power and the pharmacological dimensions of shamanic practice.
 
-The anguila mama functions as a spiritual vehicle, transporting the shaman through the water realm much as a physical boat might transport them across the river's surface. But where a physical boat moves through water, the anguila mama moves through the spiritual dimension that underlies and permeates the water. The beings she carries on her back — the toad and salamander — are themselves powerful spirit allies, suggesting that the anguila mama serves as a kind of mobile spiritual ecosystem, a living platform for the assembly of shamanic power.
+The anguila mama functions as a spiritual vehicle, transporting the shaman through the water realm much as a physical boat might transport them across the river"s surface. But where a physical boat moves through water, the anguila mama moves through the spiritual dimension that underlies and permeates the water. The beings she carries on her back — the toad and salamander — are themselves powerful spirit allies, suggesting that the anguila mama serves as a kind of mobile spiritual ecosystem, a living platform for the assembly of shamanic power.
 
 ### Atun-Huarmi (Fairies)
 

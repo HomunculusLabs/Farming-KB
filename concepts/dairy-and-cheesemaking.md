@@ -40,7 +40,7 @@ Processing goat milk into cheese, butter, yogurt, and other dairy products on th
 |---|---|---|---|
 | Vat (batch) | 145°F (63°C) | 30 min | Home kitchen, small batches |
 | HTST | 161°F (72°C) | 15 sec | Larger operations |
-| Ultra-pasteurized | 280°F (138°C) | 2 sec | Store-bought only — **won't work for cheese** |
+| Ultra-pasteurized | 280°F (138°C) | 2 sec | Store-bought only — **won"t work for cheese** |
 
 - **Raw milk cheese** is legal for personal use in most US states; selling requires licensing (aged 60+ days)
 - Pasteurize if herd isn't tested CAE/CL/johne's-negative (see [[goat-keeping]])

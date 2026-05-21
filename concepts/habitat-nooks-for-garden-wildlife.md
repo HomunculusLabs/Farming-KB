@@ -24,7 +24,7 @@ Place habitat nooks near:
 
 ## Design Integration
 
-Habitat nooks should be designed to look intentional rather than neglected. Use attractive stone arrangements, neatly stacked logs, and well-designed water features. This prevents the garden from looking messy while still providing excellent habitat. Many experienced ecological gardeners report that they "can't move a rock without uncovering a reptilian home" -- a sign of a successfully integrated wildlife garden.
+Habitat nooks should be designed to look intentional rather than neglected. Use attractive stone arrangements, neatly stacked logs, and well-designed water features. This prevents the garden from looking messy while still providing excellent habitat. Many experienced ecological gardeners report that they "can"t move a rock without uncovering a reptilian home" -- a sign of a successfully integrated wildlife garden.
 
 ## Maintenance
 

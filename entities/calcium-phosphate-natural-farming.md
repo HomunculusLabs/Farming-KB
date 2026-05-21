@@ -7,7 +7,7 @@ tags: [farming, bionutrient, calcium, mineral, flowering, fruiting, natural-farm
 
 ## Description
 
-Calcium phosphate is a bionutrient used in Korean Natural Farming as a **stage-specific supplement** applied during the critical changeover period when plants transition from vegetative growth to flowering and fruiting. Based on the theory of Nutrioperiodism (Yasushi Inoue, 1930s), calcium phosphate addresses the plant's "morning sickness" — the increased nutritional demand during the shift to reproductive growth.
+Calcium phosphate is a bionutrient used in Korean Natural Farming as a **stage-specific supplement** applied during the critical changeover period when plants transition from vegetative growth to flowering and fruiting. Based on the theory of Nutrioperiodism (Yasushi Inoue, 1930s), calcium phosphate addresses the plant"s "morning sickness" — the increased nutritional demand during the shift to reproductive growth.
 
 ## Classification
 
@@ -20,7 +20,7 @@ Calcium phosphate is a bionutrient used in Korean Natural Farming as a **stage-s
 
 - Calcium phosphate is considered critical during the **changeover period** — the transition between vegetative growth and reproductive (flowering/fruiting) stages.
 - The changeover period is described as the stage that most determines the **quality of the final reproductive output** (fruit/flower quality and yield).
-- Natural farmers describe the plant's need at this stage as analogous to **"morning sickness"** — the plant needs additional nutrition to support the emerging reproductive process.
+- Natural farmers describe the plant"s need at this stage as analogous to **"morning sickness"** — the plant needs additional nutrition to support the emerging reproductive process.
 - Applied as a foliar spray or soil drench during the changeover period to improve plant health and productivity.
 - The preparation method transforms common waste materials (eggshells) into a potent, bioavailable calcium phosphate solution.
 

@@ -1,5 +1,5 @@
 ---
-title: Gasteromycetes: Puffballs, Earthstars, and Bird's bloomfield-birds-nest-fungi-peridiole-splash-herbivore-dispersal
+title: Gasteromycetes: Puffballs, Earthstars, and Bird"s bloomfield-birds-nest-fungi-peridiole-splash-herbivore-dispersal
 created: 2026-04-28
 tags: [gasteromycete, puffball, earthstar, birds-nest-fungus, spore-dispersal,
       stinkhorn, sphaerobolus, basidiomycete, fungus-evolution]

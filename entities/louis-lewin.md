@@ -46,7 +46,7 @@ Lewin was one of the first European scientists to conduct serious research on pe
 
 ## Phantastica: Die betäubenden und erregenden Genussmittel (1924)
 
-Lewin's magnum opus, "Phantastica," was published in Berlin in 1924. The book
+Lewin"s magnum opus, "Phantastica," was published in Berlin in 1924. The book
 provided a comprehensive survey of psychoactive substances from around the world,
 organized by his classification system. It covered opium, cannabis, coca, peyote,
 psilocybin mushrooms, ayahuasca, kava, betel nut, and many other substances.
