@@ -127,5 +127,5 @@ The only way to know if your produce is truly nutrient-dense:
 
 ## Related
 
-- [[drip-irrigation-guide]]
+- [[drip-irrigation]]
 - [[food-preservation-canning]]

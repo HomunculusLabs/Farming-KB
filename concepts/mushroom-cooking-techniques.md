@@ -147,4 +147,4 @@ Preservation method that also creates flavor:
 ## See Also
 
 - [[edible-wild-mushrooms-by-region]] -- finding mushrooms to cook with
-- [[mushroom-foraging-safety-guide]] -- ethical harvesting for the kitchen
+- [[mushroom-foraging-safety]] -- ethical harvesting for the kitchen

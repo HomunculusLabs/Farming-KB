@@ -20,7 +20,7 @@ Solomon emphasizes quality over quantity. The basic toolkit includes:
 - **Pitchfork**: For turning compost, moving loose materials, and aerating soil.
 - **Rake**: For leveling beds and collecting debris.
 - **Hand trowel**: For transplanting seedlings and small-scale digging.
-- **Watering can or hose with fan nozzle**: For [[drip-irrigation-guide]].
+- **Watering can or hose with fan nozzle**: For [[drip-irrigation]].
 
 ## The Importance of Sharp Tools
 

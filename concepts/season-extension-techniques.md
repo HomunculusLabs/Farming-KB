@@ -145,6 +145,6 @@ Cloches are individual plant protectors — small covers placed over single plan
 ## Related
 
 - [[beekeeping-basics]]
-- [[drip-irrigation-guide]]
+- [[drip-irrigation]]
 - [[seed-saving-techniques]]
 - [[cold-climate-gardening]]

@@ -138,7 +138,7 @@ Microorganisms have two major functions in farming:
 ## See Also
 
 - [[knf-preparations]] — all KNF inputs overview
-- [[bionutrients-guide]] — Carandang's bionutrient system pairing with BIM
+- [[bionutrients]] — Carandang's bionutrient system pairing with BIM
 - [[soil-food-web-nutrient-cycling]] — what IMO does in the soil
 - [[jadam-methods]] — JADAM's alternative microorganism solution (JMS)
 - [[lactic-acid-bacteria-lab]] — LAB serum recipe (key component of BIM)

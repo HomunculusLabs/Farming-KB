@@ -140,7 +140,7 @@ Mature specimens (with dark brown gills and purple spore deposits) are good for 
 ### Procedure
 ## See Also
 
-- [[pf-tek-guide]] -- Complete PF TEK from substrate to harvest
+- [[pf-tek]] -- Complete PF TEK from substrate to harvest
 - [[pf-tek-fruiting-chamber]] -- Dual chambered terrarium construction
 - [[psilocybin-mushroom-cultivation]] -- Broader cultivation overview
 - [[mushroom-drying-storage]] -- Drying and storage methods

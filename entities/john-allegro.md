@@ -59,7 +59,7 @@ Allegro used Sumerian philology (the oldest written language, c. 3500 BC) to tra
 
 ## Relevance to the Wiki
 
-Allegro's work connects [[entheogen-culture]] to the deep history of Western religion. While his most extreme claims are not widely accepted, his demonstration that mushroom-centered fertility cults were widespread in the ancient Near East supports the plausibility of [[r-gordon-wasson]]'s [[soma-hypothesis]]. His work influenced [[terence-mckenna]] and the broader entheogenic scholarship movement. See [[amanita-muscaria-guide]] for the mushroom itself and [[psychedelic-mushroom-history]] for the broader historical context.
+Allegro's work connects [[entheogen-culture]] to the deep history of Western religion. While his most extreme claims are not widely accepted, his demonstration that mushroom-centered fertility cults were widespread in the ancient Near East supports the plausibility of [[r-gordon-wasson]]'s [[soma-hypothesis]]. His work influenced [[terence-mckenna]] and the broader entheogenic scholarship movement. See [[amanita-muscaria]] for the mushroom itself and [[psychedelic-mushroom-history]] for the broader historical context.
 
 ## Key Concepts and Applications
 

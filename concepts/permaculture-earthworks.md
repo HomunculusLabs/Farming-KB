@@ -147,4 +147,4 @@ Chinampas are an ancient Mesoamerican agricultural technique sometimes called "f
 - [[permaculture-zones-and-sectors]] for placing earthworks in the broader design
 - [[keyline-design]] for detailed keyline theory and practice
 - [[swale-design-construction]] for focused swale construction guidance
-- [[drip-irrigation-guide]] for supplemental irrigation after earthworks
+- [[drip-irrigation]] for supplemental irrigation after earthworks

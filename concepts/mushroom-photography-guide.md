@@ -145,6 +145,6 @@ For documentation and identification purposes:
 - Stem (base to top, any ring or volva)
 ## See Also
 
-- [[mushroom-foraging-safety-guide]] -- ethical practices while photographing in the field
+- [[mushroom-foraging-safety]] -- ethical practices while photographing in the field
 - [[mushroom-festivals-and-events]] -- photography competitions and workshops at events
 - [[edible-wild-mushrooms-by-region]] -- regional subjects for your photography

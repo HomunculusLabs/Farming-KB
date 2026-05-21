@@ -25,7 +25,7 @@ sources:
 
 Practical preparation techniques for Amanita muscaria, drawn primarily from Donald E. Teeter's "Amanita Muscaria: Herb of Immortality" (2007) and Siberian ethnographic records. Proper preparation is critical: raw Amanita contains ibotenic acid (nauseating, agitating) which must be converted to muscimol (sedative, psychoactive) through drying and/or heating.
 
-Related: [[amanita-muscaria-guide]], [[soma-hypothesis]]
+Related: [[amanita-muscaria]], [[soma-hypothesis]]
 
 ## Fundamental Chemistry
 
@@ -93,7 +93,7 @@ Traditional Siberian practice documented among the Koryak and Chukchi peoples. A
 
 ## See Also
 
-- [[amanita-muscaria-guide]] for identification, ecology, and cultural context
+- [[amanita-muscaria]] for identification, ecology, and cultural context
 - [[soma-hypothesis]] for the Vedic connection
 - [[donald-teeter]] for the author and Ambrosia Society
 - [[entheogen-culture]] for broader context

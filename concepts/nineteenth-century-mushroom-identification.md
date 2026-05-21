@@ -72,7 +72,7 @@ For new species: "I broil it with the addition of salt and butter (no pepper) an
 
 Palmer identified the Amanita family as the source of all fatal mushroom poisonings. Three diagnostic marks: (1) white wrapper/volva at stem base, (2) ring/veil around stem, (3) scurfy warts on sticky cap. "The three marks — wrapper, ring, and scurfy top — must exist together." Colors variable: white, drab, golden, red, or greenish. Most common variety has yellow center fading to white.
 
-See also: [[edible-wild-mushrooms-by-region]] | [[mushroom-poisoning-guide]] | [[julius-palmer]] | [[amanita-muscaria-guide]]
+See also: [[edible-wild-mushrooms-by-region]] | [[mushroom-poisoning-guide]] | [[julius-palmer]] | [[amanita-muscaria]]
 
 ## Related
 

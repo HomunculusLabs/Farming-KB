@@ -126,6 +126,6 @@ The fundamental relationship: closer spacing demands more water. Solomon's four 
 ## Related
 
 - [[drought-gardening]] — Gardening with minimal water
-- [[drip-irrigation-guide]] — Watering techniques
+- [[drip-irrigation]] — Watering techniques
 - [[irrigation-systems]] — Sprinkler and fertigation methods
 - [[growing-food-in-hard-times]] — The philosophy of low-input gardening

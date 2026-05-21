@@ -145,6 +145,6 @@ Edible wild mushroom species vary significantly by region in North America. This
 ## Dangerous Look-alikes by Region
 ## See Also
 
-- [[mushroom-foraging-safety-guide]] -- ethical harvesting practices for all regions
+- [[mushroom-foraging-safety]] -- ethical harvesting practices for all regions
 - [[mushroom-cooking-techniques]] -- how to prepare your regional finds
 - [[mushroom-festivals-and-events]] -- forays and events by region

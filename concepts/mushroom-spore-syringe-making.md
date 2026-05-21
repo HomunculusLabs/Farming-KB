@@ -26,7 +26,7 @@ A spore syringe is a suspension of mushroom spores in sterile water, used to ino
 - **Sterile syringes:** 10-12 mL luer-lock syringes (typically 2-4 per print)
 - **Sterile syringe needles:** 18-20 gauge, 1.5 inch
 - **Sterile water:** Distilled water, sterilized by pressure cooking (15 psi, 20 min)
-- **Sterile working environment:** [[laminar-flow-hood-guide|laminar flow hood]] or still-air box (glove box)
+- **Sterile working environment:** [[laminar-flow-hood|laminar flow hood]] or still-air box (glove box)
 - **Alcohol lamp or lighter:** For flame sterilization
 - **Isopropyl alcohol (70%):** For surface sterilization
 - **Small glass jar or vial:** For water reservoir (pre-sterilized)

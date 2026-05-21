@@ -141,7 +141,7 @@ Temperature-tolerant varieties are more forgiving for beginners. In warmer clima
 
 - [[mushroom-drying-storage]]
 - [[mushroom-toxicity-identification-warnings]]
-- [[mushroom-foraging-safety-guide]]
+- [[mushroom-foraging-safety]]
 - [[psilocybe-natalensis]]
 - [[african-psilocybin-mushroom-guide]]
 - [[asian-psilocybin-mushroom-guide]]
