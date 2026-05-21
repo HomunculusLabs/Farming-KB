@@ -146,10 +146,7 @@ Strawberry beds decline in productivity after 3-4 years. Renovation extends thei
 
 - Apply balanced fertilizer at planting and after renovation
 - Side-dress with compost or balanced organic fertilizer in early spring as growth resumes
+See also [[ingham-strawberry-potato-tomato-aact-application-protocols|Ingham Strawberry Potato Tomato Aact Application Protocols]].
+See also [[oner-chupacabra-trainwreck-strawberry-fire-hybrid|Oner Chupacabra Trainwreck Strawberry Fire Hybrid]].
 - Avoid excess nitrogen — promotes vegetative growth at the expense of fruit
 - A light application of phosphorus at planting promotes root development
-## See Also
-
-- [[bruce-banner-strawberry-diesel-ghost-og-hybrid]]
-- [[ingham-strawberry-potato-tomato-aact-application-protocols]]
-- [[strawberry-cough]]

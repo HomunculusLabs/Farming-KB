@@ -146,10 +146,6 @@ Growing herbs indoors extends the harvest year-round, especially for tender pere
 ### Light Requirements
 - Minimum 6 hours of bright, direct light daily
 - South-facing window is ideal in northern hemisphere
+See also [[query-how-do-i-plan-and-plant-a-culinary-herb-garden|Query How Do I Plan And Plant A Culinary Herb Garden]].
 - Supplement with full-spectrum [[led-grow-lights]] if natural light is insufficient
 - Use a timer for 12-14 hours of light per day with supplemental lighting
-## See Also
-
-- [[mollison-designers-herb-spiral-design-construction]]
-- [[calea-zacatechichi-dream-herb-ethnobotany]]
-- [[homestead-herb-business]]

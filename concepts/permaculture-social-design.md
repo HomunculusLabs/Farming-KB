@@ -148,6 +148,3 @@ Cooperatives are enterprises owned and democratically controlled by their member
 1. Assemble a core group with shared values and vision
 2. Develop a clear purpose and business plan
 3. Choose a legal structure (cooperative corporation under state law)
-## See Also
-
-- [[urban-permaculture-community-building-social-design]]

@@ -148,8 +148,3 @@ Ventilation is the most important cold frame management task:
 - **Check seals:** Replace weatherstripping around the lid if you notice gaps where heat escapes
 - **Replace the covering:** Poly film lasts 1-2 seasons; polycarbonate lasts 10+ years; old windows may need re-puttying
 - **Refresh the soil:** Add 1-2 inches of compost each spring before replanting
-## See Also
-
-- [[comparison-season-extension-techniques-vs-cold-frame-gardening]]
-- [[comparison-cold-frame-gardening-vs-greenhouse-growing]]
-- [[comparison-cold-frame-gardening-vs-container-gardening-guide]]

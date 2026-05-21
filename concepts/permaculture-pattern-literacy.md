@@ -12,6 +12,7 @@ tags:
   - landscape-reading
 sources:
   - raw/papers/bill-mollison-permaculture-design-course.md
+title: "Permaculture Pattern Literacy"
 ---
 
 # Permaculture Pattern Literacy

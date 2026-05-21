@@ -1,5 +1,4 @@
 ---
-
 title: Mycorrhizal Crop Studies
 created: 2026-04-12
 updated: 2026-04-12
@@ -147,9 +146,6 @@ Research-validated results of mycorrhizal inoculation on specific crops. Each en
 
 ## Related Pages
 
+See also [[mycorrhizal-crop-rotation-guide|Mycorrhizal Crop Rotation Guide]].
 - [[mycorrhizal-fungi]] — Biological overview
 - [[mycorrhizal-inoculum-production]] — Making your own inoculum
-- [[mycorrhizal-agricultural-practices]] — Managing soils for mycorrhizae
-- [[cannabis-living-soil-guide]] — Cannabis-specific living soil approach
-- [[cannabis-plant-nutrition]] — Cannabis nutrient management
-- [[soil-food-web-nutrient-cycling]] — Soil ecosystem context

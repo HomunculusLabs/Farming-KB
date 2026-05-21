@@ -148,7 +148,3 @@ Drying is the traditional and preferred preservation method for porcini:
 2. Dehydrator: 95-110 F for 8-24 hours until brittle
 3. Oven: lowest setting with door propped open; 95-110 F for 6-12 hours
 4. Slice 1/4 to 1/2 inch thick for even drying
-## See Also
-
-- [[porcini-commercial-market]]
-- [[query-how-do-i-identify-and-forage-porcini-mushrooms]]

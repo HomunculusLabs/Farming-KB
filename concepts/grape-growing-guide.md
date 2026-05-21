@@ -146,10 +146,7 @@ Grapes are susceptible to several fungal diseases, especially in humid climates.
 - Bacterial disease fatal to European (vinifera) grapes
 - Spread by sharpshooter insects
 - Primarily a problem in the southeastern US and California
+See also [[oner-space-grape-ultra-genetics-nebula-grapefruit|Oner Space Grape Ultra Genetics Nebula Grapefruit]].
+See also [[grape-ape|Grape Ape]].
 - No cure; plant resistant varieties in affected areas
 - American and Muscadine grapes are resistant
-## See Also
-
-- [[comparison-grape-vs-hardy-kiwi-for-homestead-trellising]]
-- [[grape-cultivation-and-variety-guide]]
-- [[oner-space-grape-ultra-genetics-nebula-grapefruit]]

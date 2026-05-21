@@ -146,8 +146,7 @@ In the United States, the USDA exempts rabbit processing from federal inspection
 
 Some states have additional requirements. Check local regulations before selling processed rabbit meat. For a more permanent processing setup, see [[home-butcher-shop-setup]].
 
+See also [[mollison-designers-rabbit-housing-and-manure-management|Mollison Designers Rabbit Housing And Manure Management]].
+See also [[rabbit-husbandry-and-breeding-in-permaculture-systems|Rabbit Husbandry And Breeding In Permaculture Systems]].
 ## Waste Utilization
 ## See Also
-
-- [[comparison-quail-husbandry-vs-rabbit-husbandry]]
-- [[rabbit-husbandry-and-breeding-in-permaculture-systems]]

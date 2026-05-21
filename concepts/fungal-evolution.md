@@ -148,8 +148,3 @@ The transition from aquatic to terrestrial life was a pivotal event in fungal ev
 | ~1,500 | Opisthokont ancestor splits from other eukaryotes |
 | ~1,000-1,500 | Fungi diverge from Animalia |
 | ~800-1,000 | Chytrid lineages diversify |
-## See Also
-
-- [[mycelium-running-fungal-evolution-geologic-timescale]]
-- [[fungal-network-resilience-evolution]]
-- [[fungal-speciation-evolution]]

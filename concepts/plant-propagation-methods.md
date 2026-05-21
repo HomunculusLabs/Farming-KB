@@ -148,6 +148,3 @@ Similar to simple layering but the tip of the branch is buried.
 
 **Best for**: blackberries, raspberries, trailing blackberry varieties
 ## See Also
-
-- [[hamilton-vegetative-propagation]]
-- [[cannabis-propagation-techniques]]

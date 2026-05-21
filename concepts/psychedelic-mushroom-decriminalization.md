@@ -148,6 +148,3 @@ The US movement has inspired reform efforts worldwide:
 
 - [[psychedelic-plants-legal-status]] — comprehensive legal status for all entheogens
 - [[psilocybin-extraction-guide]] — preparation methods for psilocybin mushrooms
-## See Also
-
-- [[stoned-ape-hypothesis-mckenna-psychedelic-evolution]]

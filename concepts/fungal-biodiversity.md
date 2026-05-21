@@ -1,5 +1,4 @@
 ---
-
 title: Fungal Biodiversity
 created: 2026-04-11
 updated: 2026-04-12
@@ -149,6 +148,3 @@ DNA-based approaches are revolutionizing fungal biodiversity studies:
 - Molecular phylogenetics has revealed that "fungi" are polyphyletic — their filamentous forms evolved independently multiple times
 - 88 contributing mycologists collaborated on the Biodiversity of Fungi volume
 ## See Also
-
-- [[fungal-biodiversity-grassland]]
-- [[cryptic-species-fungal-biodiversity]]

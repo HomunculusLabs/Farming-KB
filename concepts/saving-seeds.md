@@ -148,6 +148,3 @@ This requires planning a year in advance and dedicated garden space in year two.
 
 ## Seed Libraries and Sharing
 ## See Also
-
-- [[comparison-seed-saving-vs-hybrid-seeds]]
-- [[solomon-seed-saving-guide]]

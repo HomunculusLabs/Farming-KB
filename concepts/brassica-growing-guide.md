@@ -148,7 +148,3 @@ Brassicas are among the most cold-tolerant vegetable families.
 - **Brussels Sprouts**: Hardy to 0-10F; best after several frosts
 - **Collards**: Hardy to 10F; similar to kale
 - **Cabbage**: Hardy to 20F; late varieties can survive to 10F
-## See Also
-
-- [[brassica-gardening-guide]]
-- [[comparison-brassica-vs-nightshade-gardening]]

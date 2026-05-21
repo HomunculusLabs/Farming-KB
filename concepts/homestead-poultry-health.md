@@ -146,10 +146,6 @@ of disease on your homestead.
 - **Marek's Disease:** Hatchery vaccination. Essential. No practical way to
   vaccinate at home after hatch.
 - **Newcastle Disease:** Live vaccine, can be administered in water or by
+See also [[cho-poultry-natural-farming-methods|Cho Poultry Natural Farming Methods]].
   eye drop. Recommended in areas where ND is endemic.
 - **Infectious Bronchitis:** Often combined with ND vaccine. Recommended for
-## See Also
-
-- [[query-how-do-i-design-an-integrated-poultry-system-for-my-homestead]]
-- [[free-range-poultry-management]]
-- [[poultry-forage-days-mollison]]

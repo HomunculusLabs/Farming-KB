@@ -1,5 +1,4 @@
 ---
-
 title: John H. Halpern
 created: 2026-04-11
 updated: 2026-04-12
@@ -42,6 +41,8 @@ Halpern's 2004 paper "Hallucinogens and Dissociative Agents Naturally Growing in
 ## Connection to the Harvard Psychedelic Tradition
 
 Halpern's position at Harvard Medical School and McLean Hospital places him in the institutional lineage of the Harvard Psilocybin Project of the 1960s ([[timothy-leary]], [[ralph-metzner]], Richard Alpert), though his approach is far more conservative and clinically oriented. His research on religious freedom and psychoactive sacraments was cited by [[ralph-metzner]] in discussions of syncretic religious movements using entheogenic plants.
+
+This topic continues to evolve as new research and practical applications emerge.
 
 ## See Also
 

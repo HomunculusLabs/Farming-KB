@@ -148,7 +148,3 @@ Formerly considered part of M. anisopliae, now recognized as a separate species.
 - Insects are attracted to the station, pick up conidia, and spread them to nestmates
 - Used successfully for termites and cockroaches
 - Reduces total amount of inoculum needed
-## See Also
-
-- [[ergot-fungi-claviceps-and-cordyceps-as-neurotropic-organisms]]
-- [[guzman-allen-gartz-sacred-non-psilocybin-fungi-cordyceps-and-claviceps]]

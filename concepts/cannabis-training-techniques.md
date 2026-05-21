@@ -146,9 +146,7 @@ Super cropping is a high-stress technique that involves crushing the inner tissu
 ## Combination Approaches
 
 Experienced growers often combine techniques:
+See also [[green-cannabis-grow-bible-plant-training-pruning-and-yield|Green Cannabis Grow Bible Plant Training Pruning And Yield]].
+See also [[mushroom-training-center-design-equipment|Mushroom Training Center Design Equipment]].
 
 - **ScROG + LST**: Use LST to train branches into the screen
-## See Also
-
-- [[training-cannabis]]
-- [[cannabis-topping-training]]

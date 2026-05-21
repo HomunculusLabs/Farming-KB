@@ -148,7 +148,3 @@ Phosphorus and potassium levels influence flavonoid biosynthesis. Deficiencies c
 Flavonoids are relatively stable compared to terpenes but can degrade with excessive light, heat, or prolonged storage. Proper curing conditions preserve flavonoid content.
 
 ## Extraction and Isolation
-## See Also
-
-- [[blesching-cannabis-terpenoids-and-flavonoids]]
-- [[cannabis-for-mental-health]]

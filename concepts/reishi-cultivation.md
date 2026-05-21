@@ -10,6 +10,7 @@ tags:
   - reishi
 sources:
   - raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md
+title: "Reishi Cultivation"
 ---
 
 # Reishi Cultivation

@@ -148,6 +148,3 @@ Start with 5-8 varieties. Recommended starter mix:
 - CSA additions: herb shares, dried herb boxes
 - Local stores: natural food stores, gift shops, co-ops
 - Herbalists and practitioners: wholesale to acupuncturists, naturopaths
-## See Also
-
-- [[homestead-mushroom-business]]

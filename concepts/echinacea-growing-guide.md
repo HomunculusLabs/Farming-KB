@@ -148,8 +148,3 @@ Aerial parts:
 - Properly stored echinacea retains potency for 1-2 years
 
 ## Yields
-## See Also
-
-- [[comparison-echinacea-vs-calendula]]
-- [[comparison-ashwagandha-vs-echinacea]]
-- [[comparison-echinacea-vs-yarrow]]

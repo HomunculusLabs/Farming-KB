@@ -148,8 +148,3 @@ This mechanism is fundamentally different from classical psychedelics (5-HT2A ag
 ## Safety and Contraindications
 
 ### Contraindications
-## See Also
-
-- [[ketamine-ultimate-psychedelic-journey]]
-- [[ketamine-dissociative-pharmacology]]
-- [[mckenna-taxonomy-hallucinogenic-demons-ions-mind-ketamine-stuttering-blind]]

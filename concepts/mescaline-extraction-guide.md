@@ -148,7 +148,3 @@ Onset: 45–90 minutes. Peak: 2–4 hours. Duration: 8–12 hours.
 - Nausea during onset is common and sometimes severe
 - Cardiovascular effects include increased heart rate and blood pressure
 - Not recommended for people with heart conditions, schizophrenia, or bipolar disorder
-## See Also
-
-- [[peyote-mescaline-cactus-pharmacology]]
-- [[mckenna-lewis-lewin-peyote-and-early-mescaline-research]]

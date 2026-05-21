@@ -146,10 +146,8 @@ Methods to achieve this:
 
 - Jerky should be dry but not brittle
 - Properly dried jerky should bend and crack, not snap
+See also [[aact-brewing-ingredients-molasses-humic-kelp-fish-ingham|Aact Brewing Ingredients Molasses Humic Kelp Fish Ingham]].
+See also [[aact-cn-ratios-brewing-ingredients-microbial-balance-ingham|Aact Cn Ratios Brewing Ingredients Microbial Balance Ingham]].
+See also [[aact-compost-feedstock-paper-wood-chips-worm-thermal-ingham|Aact Compost Feedstock Paper Wood Chips Worm Thermal Ingham]].
 - Any moisture remaining promotes mold growth
 - Test: take a piece, bend it — if it cracks but does not break, it is done
-## See Also
-
-- [[jam-and-jelly-making]]
-- [[cannabis-hashish-making-methods]]
-- [[wine-making-from-grapes]]

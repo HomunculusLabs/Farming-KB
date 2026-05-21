@@ -148,6 +148,3 @@ If you do not have your own dairy animals:
 -  Ask about testing protocols — Somatic cell count, bacteria counts, pathogen testing
 -  Check for certifications — Some states have raw milk certification programs
 -  Ask about the herd — Breed, diet (grass-fed preferred), grazing management, health care practices
-## See Also
-
-- [[fermented-dairy-and-cultured-milk-products]]

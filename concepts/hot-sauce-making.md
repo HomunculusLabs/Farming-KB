@@ -146,9 +146,7 @@ After fermentation (or as part of the quick method), cooking develops the final 
 ### Pineapple Habanero
 
 - Habaneros, fresh pineapple, lime juice, honey, garlic, white vinegar
+See also [[fermented-hot-sauce-guide|Fermented Hot Sauce Guide]].
+See also [[query-how-do-i-make-fermented-hot-sauce-at-home|Query How Do I Make Fermented Hot Sauce At Home]].
 - Tropical, sweet heat
 ## See Also
-
-- [[jam-and-jelly-making]]
-- [[cannabis-hashish-making-methods]]
-- [[wine-making-from-grapes]]

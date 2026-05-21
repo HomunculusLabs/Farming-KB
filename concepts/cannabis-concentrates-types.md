@@ -148,7 +148,3 @@ A highly refined, nearly pure cannabinoid extract that has been stripped of near
 - Nearly tasteless and odorless (terpenes removed)
 - Base ingredient for vape cartridges, edibles, and tinctures
 - Terpenes are often re-added (botanical or cannabis-derived) for flavor
-## See Also
-
-- [[cannabis-concentrates-and-extracts]]
-- [[query-what-are-cannabis-concentrates-and-how-are-they-made]]

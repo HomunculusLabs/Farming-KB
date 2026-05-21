@@ -148,7 +148,3 @@ Outdoor beds fruit in response to natural environmental cues:
 - **Temperature drop**: A shift of 10°F or more, especially after rain
 - **Rainfall**: Heavy rain followed by warm days is the classic trigger
 - **Humidity**: Sustained high humidity (80%+) for several days
-## See Also
-
-- [[cervantes-wind-protection-outdoor-cannabis]]
-- [[cervantes-mulch-outdoor-moisture-conservation]]

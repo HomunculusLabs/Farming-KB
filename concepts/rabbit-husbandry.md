@@ -148,6 +148,3 @@ fertilizer that can be applied directly without [[composting]].
 
 ## Tanning Hides
 ## See Also
-
-- [[comparison-quail-husbandry-vs-rabbit-husbandry]]
-- [[rabbit-husbandry-and-breeding-in-permaculture-systems]]

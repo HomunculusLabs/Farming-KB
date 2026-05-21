@@ -146,9 +146,7 @@ faster but cannot breed naturally.
 - Heritage turkeys breed naturally. Broad-breasted require AI.
 - Turkey breeding season: March-June, triggered by increasing daylength.
 - Toms display (strut, fan tail, gobble) to attract hens.
+See also [[brush-turkey-alectura-lathami-mollison|Brush Turkey Alectura Lathami Mollison]].
+See also [[comparison-chaga-vs-turkey-tail|Comparison Chaga Vs Turkey Tail]].
 - Mating ratio: 1 tom per 8-10 hens.
 - Hens lay 10-15 eggs per clutch, may lay 40-100 per season.
-## See Also
-
-- [[turkey-tail-research-psk]]
-- [[growing-gourmet-turkey-tail-trametes-versicolor-cultivation]]

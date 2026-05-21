@@ -1,5 +1,4 @@
 ---
-
 title: Mushroom Inoculation Methods — Spores, Spawn, and Stem Butts
 created: 2026-04-11
 updated: 2026-04-12
@@ -149,6 +148,3 @@ Perhaps the most underappreciated cultivation method:
 
 ### Making Dowel Spawn from Stem Butts
 ## See Also
-
-- [[short-needle-vs-long-needle-mushroom-inoculation-methods]]
-- [[mushroom-inoculation-techniques-stamets]]

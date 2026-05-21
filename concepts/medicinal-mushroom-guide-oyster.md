@@ -148,8 +148,3 @@ Oyster mushrooms have significant environmental applications:
 - Absorbs and concentrates heavy metals (bioaccumulation).
 - Degrades plastic and synthetic dyes in laboratory settings.
 - Used in greywater filtration systems and ecological restoration.
-## See Also
-
-- [[gourmet-medicinal-mushroom-oyster-cultivation-methods]]
-- [[comparison-pioppino-vs-oyster-cultivation]]
-- [[oyster-growing-house-types]]

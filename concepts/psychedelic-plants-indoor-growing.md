@@ -148,7 +148,3 @@ From cuttings:
 
 ### Care
 - Provide a sturdy trellis or support structure — the vine will climb aggressively
-## See Also
-
-- [[stoned-ape-hypothesis-mckenna-psychedelic-evolution]]
-- [[psychedelic-safety-and-contra-indications]]

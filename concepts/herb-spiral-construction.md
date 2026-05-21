@@ -148,7 +148,3 @@ Moisture-loving herbs that thrive in cooler, wetter conditions:
 
 ### North Side vs. South Side
 ## See Also
-
-- [[mollison-designers-herb-spiral-design-construction]]
-- [[comparison-herb-spiral-vs-keyhole-beds]]
-- [[herb-spiral-design]]

@@ -148,6 +148,3 @@ The most well-documented benefit of AMF colonization:
 - Typical P uptake increase: 30-80% in low-P soils
 
 ### Drought Tolerance
-## See Also
-
-- [[arbuscular-mycorrhizae-pathogen-protection]]

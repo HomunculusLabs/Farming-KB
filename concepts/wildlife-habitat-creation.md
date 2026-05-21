@@ -148,6 +148,3 @@ Invasive plants degrade habitat by outcompeting natives and providing poor food 
 - Multiflora rose: Forms impenetrable thickets. Mow or treat.
 - Garlic mustard: Outcompetes spring wildflowers. Pull by hand before seed set.
 - Oriental bittersweet: Strangles trees. Cut vines and treat stumps.
-## See Also
-
-- [[amphibian-habitat-creation]]

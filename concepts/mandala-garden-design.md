@@ -148,8 +148,3 @@ Divide the mandala into functional zones:
 
 - **Leafy greens:** Plant on the east side (morning sun, afternoon shade)
 - **Fruiting crops (tomatoes, peppers, eggplant):** Plant on the south side (full sun)
-## See Also
-
-- [[comparison-mandala-garden-design-vs-keyhole-garden-design]]
-- [[gangammas-mandala-garden-design]]
-- [[keyhole-garden-mandala-design]]

@@ -148,8 +148,3 @@ Phase 1 (1-6h): dreamlike visions, life review. Phase 2 (6-12h): introspection. 
 | Potency (mg) | 20-60 | 5-20 | 200-500 | 10-30 | 0.2-1mg | 1000-2000+ |
 | MAO substrate | Yes | Yes | No | No (psilocin is) | No | No |
 | Traditional use | Ayahuasca | Bufo/Anadenanthera | Peyote/San Pedro | Mazatec mushrooms | Mazatec Salvia | Bwiti (Gabon) |
-## See Also
-
-- [[stoned-ape-hypothesis-mckenna-psychedelic-evolution]]
-- [[psychedelic-safety-and-contra-indications]]
-- [[mckenna-invention-of-lsd-and-psychedelic-sixties]]

@@ -10,6 +10,7 @@ tags:
   - ecology
 sources:
   - raw/papers/unknown-biodiversity-of-fungi.md
+title: "Fungal Biodiversity Measurement Methods"
 ---
 
 # Fungal Biodiversity Measurement Methods

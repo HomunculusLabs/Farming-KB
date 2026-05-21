@@ -1,5 +1,4 @@
 ---
-
 title: Fermented Mixed Compost (FMC) — IMO-Enriched Compost
 created: 2026-04-11
 updated: 2026-04-12
@@ -149,6 +148,3 @@ From Cho's recipe book — four principles for choosing FMC ingredients:
 3. **Avoid agricultural by-products** (chemically treated residues)
 4. **Microbe food = human food = plant food**: choose high-quality diverse materials
 ## See Also
-
-- [[knf-fermented-mixed-compost]]
-- [[cho-fermented-mixed-compost-methods]]

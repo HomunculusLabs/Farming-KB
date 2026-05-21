@@ -1,5 +1,4 @@
 ---
-
 title: Gardening in Hard Times
 created: 2026-04-11
 updated: 2026-04-13

@@ -148,7 +148,3 @@ Harvest when caps are fully expanded but before the gills darken significantly:
 - Slugs and snails: use beer traps or hand-pick; avoid poisons in food gardens
 - Competing fungi: use fresh substrate and adequate spawn rates
 - No fruiting: insufficient rain/moisture; try a deep soaking
-## See Also
-
-- [[query-how-to-grow-king-stropharia-garden-giant-mushrooms]]
-- [[stamets-king-stropharia-garden-giant-cultivation-stamets]]

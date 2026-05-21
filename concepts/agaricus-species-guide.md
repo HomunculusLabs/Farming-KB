@@ -148,8 +148,3 @@ A woodland-dwelling Agaricus species found in forests and wooded areas across Eu
 
 - Good edible, though less meaty than A. arvensis
 - Almond aroma is pleasant
-## See Also
-
-- [[agaricus-subrufescens]]
-- [[agaricus-melleus]]
-- [[growing-gourmet-button-mushroom-agaricus-cultivation]]

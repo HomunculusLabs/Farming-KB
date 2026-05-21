@@ -148,8 +148,3 @@ Fresh use:
 
 Drying:
 - Slice rhizomes 1/8-1/4 inch thick
-## See Also
-
-- [[comparison-turmeric-vs-ashwagandha]]
-- [[query-how-do-i-grow-and-use-ginger-and-turmeric]]
-- [[turmeric-and-ginger-rhizome-cultivation]]

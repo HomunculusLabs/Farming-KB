@@ -148,7 +148,3 @@ Thinning is essential for properly sized roots. Crowded carrots will be small, t
 - Pull straight up gently; twist slightly if resistant
 - Harvest in the morning for best flavor and crispness
 ## See Also
-
-- [[knf-carrot-enzyme-soil-preparation]]
-- [[elderberry-growing-guide]]
-- [[growing-gourmet-medicinal-polysaccharides-mushroom-compounds]]

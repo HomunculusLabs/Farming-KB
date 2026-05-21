@@ -148,8 +148,3 @@ Functions of secondary metabolites:
 ### Modern Research
 
 - **Antibiotics**: Usnic acid, evernic acid studied for antimicrobial properties
-## See Also
-
-- [[lichens-primary-production]]
-- [[lichens-as-bioindicators]]
-- [[bloomfield-lichens-symbiosis-extreme-survival]]

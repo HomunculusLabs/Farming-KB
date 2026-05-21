@@ -10,6 +10,7 @@ tags:
   - hericium
 sources:
   - raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md
+title: "Lions Mane Cultivation"
 ---
 
 # Lion's Mane Cultivation

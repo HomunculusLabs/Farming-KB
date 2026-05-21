@@ -146,10 +146,8 @@ Required in modern construction for bedrooms, living rooms, and other habitable 
 
 ## Tools for Basic Electrical Work
 
+See also [[fukuoka-textdoc-basic-agriculture-law-japan-food-self-sufficiency-crisis|Fukuoka Textdoc Basic Agriculture Law Japan Food Self Sufficiency Crisis]].
+See also [[basic-plumbing-for-homestead|Basic Plumbing For Homestead]].
+See also [[bloomfield-hyphal-proton-pump-nutrient-uptake-electrical-biology|Bloomfield Hyphal Proton Pump Nutrient Uptake Electrical Biology]].
 - Non-contact voltage tester (essential)
 - Multimeter
-## See Also
-
-- [[basic-plumbing-for-homestead]]
-- [[bloomfield-hyphal-proton-pump-nutrient-uptake-electrical-biology]]
-- [[tompkins-plant-electrical-signals]]

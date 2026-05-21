@@ -148,8 +148,3 @@ Tadelakt is a waterproof lime plaster technique originating from Morocco. It pro
 2. Allow to cure for several days until firm but still slightly damp
 3. Smooth with a wooden or stone trowel, then compress with a hard plastic trowel
 4. Apply black soap diluted in water with a rag
-## See Also
-
-- [[query-what-is-the-best-natural-plaster-for-earthship-or-cob-walls]]
-- [[diatomaceous-earth-and-natural-pest-management]]
-- [[natural-plasters-and-earthen-wall-finishes]]

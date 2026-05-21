@@ -148,7 +148,3 @@ Aflatoxins are difuranocoumarin compounds, with B1 being the most potent and pre
 - **TP53 mutation**: Aflatoxin-DNA adducts cause a characteristic G-to-T transversion mutation in the TP53 tumor suppressor gene (codon 249), which is strongly associated with hepatocellular carcinoma
 - **Immunosuppression**: Aflatoxins suppress cell-mediated immunity and reduce antibody production
 ## See Also
-
-- [[mycotoxins-and-fungal-toxins-in-food-agriculture-and-health]]
-- [[gyromitrin-and-fungal-hydrazine-toxins]]
-- [[fungal-research-compound-reference]]

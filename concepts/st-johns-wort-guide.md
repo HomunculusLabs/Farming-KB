@@ -148,8 +148,3 @@ Optimal harvest timing:
   fingers (it stains)
 
 ## Processing
-## See Also
-
-- [[comparison-arnica-vs-st-johns-wort]]
-- [[comparison-chamomile-vs-st-johns-wort]]
-- [[comparison-valerian-vs-st-johns-wort]]

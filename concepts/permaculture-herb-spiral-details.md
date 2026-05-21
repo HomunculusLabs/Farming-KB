@@ -11,6 +11,7 @@ tags:
   - water-management
 sources:
   - raw/papers/gaias-garden-toby-hemenway.md
+title: "Permaculture Herb Spiral Details"
 ---
 
 # Permaculture Herb Spiral Details

@@ -148,8 +148,3 @@ The safety of fermentation rests on this acid production. Properly fermented foo
 botulinum cannot grow below pH 4.6. Fermented foods also introduce beneficial probiotics, increase vitamin availability
 (particularly B vitamins and vitamin C), and improve mineral absorption from food.
 Three staple ferments anchor a homestead kitchen. Sauerkraut uses shredded cabbage with 2% salt by weight, packed tightly and
-## See Also
-
-- [[solomon-food-preservation-storage]]
-- [[permaculture-food-storage-and-preservation]]
-- [[query-how-does-lacto-fermentation-work-for-food-preservation]]

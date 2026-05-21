@@ -148,8 +148,3 @@ Desiccants absorb residual moisture after initial drying. Essential for long-ter
 - Keep a food-safe desiccant packet inside every storage jar
 - Label with species, harvest date, and drying method
 - Avoid repeated opening and closing of storage containers
-## See Also
-
-- [[oyster-mushroom-post-harvest-storage-canning-drying-pickling]]
-- [[psilocybin-mushroom-drying-and-storage-methods]]
-- [[palmer-mushroom-drying-preservation-methods]]

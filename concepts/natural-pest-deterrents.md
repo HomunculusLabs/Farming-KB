@@ -148,7 +148,3 @@ A soil bacterium that produces proteins toxic to specific insect groups when ing
 
 ### Spinosad
 ## See Also
-
-- [[jeavons-natural-pest-control]]
-- [[fukuoka-natural-pest-balance]]
-- [[fukuoka-natural-fruit-tree-pest-control]]

@@ -148,6 +148,3 @@ Look for matsutake in:
 
 - Tricholoma pardinum (Trivial Angel): poisonous, causes severe GI distress; cap is more silvery-gray with concentric scales
 - [[amanita]] species: some have white spore prints; check for a volva at the base (matsutake does not have a volva)
-## See Also
-
-- [[tricholoma-matsutake]]

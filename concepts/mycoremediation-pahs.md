@@ -148,7 +148,3 @@ Synergistic degradation occurs when fungi and bacteria work together:
 - **Nutrient limitation**: White-rot fungi produce ligninolytic enzymes under nitrogen limitation (C:N ratio > 40)
 - **Oxygen**: Aerobic conditions required; ligninolytic enzymes need H2O2
 - **Surfactants**: Addition of surfactants (Tween 80) can increase PAH bioavailability
-## See Also
-
-- [[mycoremediation-education-projects]]
-- [[mycoremediation-explosive-contaminants]]

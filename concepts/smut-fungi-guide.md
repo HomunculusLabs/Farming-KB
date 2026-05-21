@@ -148,7 +148,3 @@ Most smut fungi follow a similar pattern:
 - Filamentous growth and dimorphism
 - Signal transduction pathways
 - Genome evolution in pathogenic fungi
-## See Also
-
-- [[smut-fungi-grass-cereal-parasites]]
-- [[smut-fungi]]

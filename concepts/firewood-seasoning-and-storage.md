@@ -146,9 +146,7 @@ Once wood is seasoned, store it:
 - **Cord:** 128 cubic feet (4x4x8 feet stacked)
 - **Face cord:** 4x8 feet, one-third the depth of a full cord (about 42 cubic feet)
 - **Rick:** Regional term, usually refers to a face cord
+See also [[mushroom-drying-storage|Mushroom Drying Storage]].
+See also [[growing-gourmet-culture-slant-preservation-cryogenic-storage|Growing Gourmet Culture Slant Preservation Cryogenic Storage]].
 - **Throw:** Loose-piled — about 40% less wood than a stacked cord by volume
 ## See Also
-
-- [[pf-tek-spore-syringe-boiling-sterilization-storage-lifecycle]]
-- [[cannabis-seed-storage-and-viability]]
-- [[water-storage-scarp-wadi-landscapes]]

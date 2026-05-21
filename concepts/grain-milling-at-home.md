@@ -146,8 +146,6 @@ The primary grain for most home millers:
 3. **Longer storage** — Refrigerate for up to 1 month, freeze for up to 3 months
 4. **Do not store fresh flour in sealed containers at room temperature** — The oils in the germ will go rancid
 
+See also [[grain-processing-and-milling-guide|Grain Processing And Milling Guide]].
 ## Grain Storage
 ## See Also
-
-- [[grain-processing-and-milling-guide]]
-- [[no-till-rice-winter-grain-succession]]

@@ -148,8 +148,3 @@ Most psychedelic therapy protocols follow a similar structure:
 
 1. Preparation (1-3 sessions): Building therapeutic alliance, setting intentions, medical screening, explaining the experience
 2. Dosing session (1-3 sessions): Administration in comfortable setting with therapist present, typically 4-8 hours for psilocybin, 6-8 hours for MDMA, eye mask and curated music playlist
-## See Also
-
-- [[mckenna-suppression-psychedelic-research-lsd-therapy]]
-- [[psychedelic-therapy-and-research]]
-- [[metzner-grof-perinatal-matrices-psychedelic-therapy]]

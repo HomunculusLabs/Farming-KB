@@ -145,11 +145,6 @@ Psilocybin has a very high safety profile:
 - The primary risks are psychological (acute anxiety, panic, psychosis in vulnerable individuals) and accidental (misidentification leading to toxic species ingestion)
 - Cardiovascular effects include mild, transient increases in heart rate and blood pressure
 
+See also [[tryptamine-chemistry-and-psychedelic-pharmacology|Tryptamine Chemistry And Psychedelic Pharmacology]].
 See [[psychedelic-mushroom-effects-guide]] for subjective effect descriptions and [[psilocybin-clinical-trials]] for clinical pharmacology data.
 ## See Also
-
-- [[taar1-trace-amine-associated-receptor-psychedelic-pharmacology]]
-- [[tryptamine-chemistry-and-psychedelic-pharmacology]]
-- [[reishi-triterpenoids-pharmacology]]
-- [[ketamine-pharmacology-and-therapy]]
-- [[cervantes-terpenoid-pharmacology-therapeutic-effects]]

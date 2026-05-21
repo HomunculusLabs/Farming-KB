@@ -10,6 +10,7 @@ tags:
   - substrates
 sources:
   - raw/papers/the-mushroom-cultivator-stamets.md
+title: "Mushroom Crop Rotation And Substrate Reuse"
 ---
 
 # Mushroom Crop Rotation and Substrate Reuse

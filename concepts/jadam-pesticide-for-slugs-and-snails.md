@@ -1,5 +1,4 @@
 ---
-
 title: JADAM Pesticide for Slugs and Snails
 created: 2026-04-11
 updated: 2026-04-12

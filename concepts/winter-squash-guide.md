@@ -148,8 +148,3 @@ Curing thickens the skin and heals minor cuts, dramatically improving storage li
 | Kabocha | 4-6 months |
 | Hubbard | 5-6 months |
 | Spaghetti | 2-3 months |
-## See Also
-
-- [[no-till-rice-winter-grain-succession]]
-- [[coleman-succession-planting-winter-harvest]]
-- [[coleman-winter-harvest-philosophy]]

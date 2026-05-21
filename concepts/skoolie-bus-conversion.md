@@ -146,9 +146,7 @@ Build a stud wall framework inside the bus:
 ### Phase 8: Interior Finish (2-4 Weeks)
 
 1. Install wall paneling (tongue-and-groove pine, shiplap, or painted plywood)
+See also [[permaculture-energy-systems-and-conversion-efficiency|Permaculture Energy Systems And Conversion Efficiency]].
+See also [[village-energy-systems-and-conversion-efficiency|Village Energy Systems And Conversion Efficiency]].
 2. Install ceiling (thin plywood or paneling)
 3. Install flooring
-## See Also
-
-- [[psilocybin-metabolism-psilocin-conversion]]
-- [[cervantes-conversion-bulbs-hid-lighting]]

@@ -1,5 +1,4 @@
 ---
-
 title: F.C. Ghouled
 created: 2026-04-11
 updated: 2026-04-12
@@ -42,6 +41,8 @@ Written during the early period of psychedelic mushroom interest in America, bef
 ## Cautionary Notes
 
 The guide included a caution section noting that possession of psilocybin mushrooms was a felony in Louisiana and advising readers to consult their state's Bureau of Dangerous Drugs. It also warned that the "old guise of a mycology student will no longer serve" as cover for foraging expeditions.
+
+This topic continues to evolve as new research and practical applications emerge.
 
 ## See Also
 

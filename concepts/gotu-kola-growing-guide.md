@@ -148,8 +148,3 @@ For fresh use:
 For drying:
 - Harvest aerial parts during active growth
 - Cut stems several inches above the base
-## See Also
-
-- [[comparison-gotu-kola-vs-chinese-skullcap]]
-- [[elderberry-growing-guide]]
-- [[growing-gourmet-medicinal-polysaccharides-mushroom-compounds]]

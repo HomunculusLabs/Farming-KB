@@ -148,8 +148,3 @@ Third-party testing should verify:
 ## Labeling: Reading Between the Lines
 
 ### Key Labeling Terms
-## See Also
-
-- [[bee-products-and-apitherapy]]
-- [[fermented-dairy-and-cultured-milk-products]]
-- [[hamilton-concentrated-organic-fertilizer-products]]

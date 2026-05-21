@@ -148,8 +148,3 @@ Elderflowers:
 - Harvest in early to mid-summer when flower umbels are fully open
 - Pick on a dry morning after dew has dried
 - Use fresh for cordials, fritters, and tea, or dry for later use
-## See Also
-
-- [[comparison-elderberry-vs-valerian]]
-- [[comparison-elderberry-vs-gooseberry-vs-currant]]
-- [[query-how-do-i-grow-elderberry-for-fruit-and-medicine]]

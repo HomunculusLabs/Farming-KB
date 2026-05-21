@@ -148,7 +148,3 @@ Average yield from 250 lb live pig:
 
 ## Health Considerations
 ## See Also
-
-- [[pastured-egg-production]]
-- [[mollison-designers-poultry-forage-design-pastured-systems]]
-- [[growing-gourmet-plug-spawn-production]]

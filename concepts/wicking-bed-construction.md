@@ -148,8 +148,3 @@ The growing medium sits on top of the wicking medium:
 - **Winter:** In freezing climates, drain the reservoir before hard freezes to prevent ice damage
 
 ## Water Efficiency
-## See Also
-
-- [[wicking-bed-materials-construction-variants]]
-- [[comparison-wicking-bed-vs-raised-bed]]
-- [[wicking-bed-water-movement-physics]]

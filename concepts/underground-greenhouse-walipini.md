@@ -148,8 +148,3 @@ Water is the enemy of underground structures. Install drainage before building a
 - **Shade cloth:** 50-70% shade cloth over the glazing reduces heat load
 - **Crop selection:** Switch to heat-loving crops (tomatoes, peppers, cucumbers) or use the walipini as a propagation area
 - **Night ventilation:** Leave vents open at night in summer to release accumulated heat
-## See Also
-
-- [[walipini-underground-greenhouse]]
-- [[comparison-greenhouse-vs-underground-walipini]]
-- [[comparison-walipini-vs-greenhouse]]

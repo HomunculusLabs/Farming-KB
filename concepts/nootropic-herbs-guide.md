@@ -148,7 +148,3 @@ Mediterranean aromatic herb used since ancient times for memory enhancement. The
 - **1,8-cineole (eucalyptol):** Monoterpene ketone. Primary compound responsible for cognitive effects. Crosses blood-brain barrier.
 - **Carnosic acid:** Phenolic diterpene. Potent neuroprotective antioxidant.
 - **Rosmarinic acid:** Polyphenol with antioxidant, anti-inflammatory, and anxiolytic effects.
-## See Also
-
-- [[digestive-herbs-and-bitters]]
-- [[medicinal-herbs-for-livestock]]

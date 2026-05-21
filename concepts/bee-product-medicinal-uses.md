@@ -148,7 +148,3 @@ mandibular glands.
 - **Wound healing** — promotes fibroblast migration and collagen synthesis
 - **Cholesterol** — some evidence for LDL reduction
 ## See Also
-
-- [[query-how-do-i-grow-elderberries-and-what-are-their-medicinal-uses]]
-- [[lemon-balm-cultivation-and-medicinal-uses]]
-- [[calendula-cultivation-and-medicinal-uses]]

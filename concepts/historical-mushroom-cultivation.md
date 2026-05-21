@@ -1,5 +1,4 @@
 ---
-
 title: Historical Mushroom Cultivation
 created: 2026-04-11
 updated: 2026-04-12
@@ -61,6 +60,8 @@ The progression from 17th to 20th century cultivation followed a clear path:
 3. **Sterilization** (early 1900s): Adoption of pasteurization and sterilization to reduce contamination
 4. **Pure culture** (1930s): Sinden's development of grain spawn using pure cultures on sterilized grain
 5. **Modern era** (1970s-present): PF TEK, monotubs, agar isolation, flow hoods, and species diversification
+
+This topic continues to evolve as new research and practical applications emerge.
 
 ## See Also
 

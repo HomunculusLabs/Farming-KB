@@ -146,9 +146,7 @@ Over 4,000 species of native bees in North America. Many are more efficient poll
 - **Plant native species**: Native bees co-evolved with native plants and are most attracted to them
 - **Provide nesting habitat**: Leave some bare ground for ground-nesting bees; provide hollow stems, dead wood, and mason bee houses for cavity nesters
 - **Avoid pesticides**: Even organic pesticides can harm bees. Apply sprays only in the evening when bees are not foraging.
+See also [[beneficial-insects-pollinators|Beneficial Insects Pollinators]].
+See also [[comparison-trap-cropping-vs-beneficial-insects|Comparison Trap Cropping Vs Beneficial Insects]].
 - **Provide water**: A shallow dish with pebbles (bees need landing platforms) provides drinking water
 - See [[insectary-plantings]] for detailed plant lists
-## See Also
-
-- [[comparison-beneficial-insects-guide-vs-integrated-pest-management]]
-- [[query-how-do-i-design-habitat-for-beneficial-insects]]

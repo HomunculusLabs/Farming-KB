@@ -1,5 +1,4 @@
 ---
-
 title: JADAM Herb Solution (JHS) — Boiled Herb Extract Recipes
 created: 2026-04-11
 updated: 2026-04-12

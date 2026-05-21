@@ -11,6 +11,7 @@ tags:
   - resilience
 sources:
   - raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md
+title: "Permaculture Small And Slow Solutions"
 ---
 
 # Permaculture Small and Slow Solutions

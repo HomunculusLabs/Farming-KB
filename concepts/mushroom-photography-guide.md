@@ -146,10 +146,7 @@ For documentation and identification purposes:
 - Cross-section (cut in half vertically)
 - Habitat (surrounding trees, soil type, associated plants)
 - [[spore-print]] (if possible)
+See also [[macrofungal-documentation-photography-spore-prints|Macrofungal Documentation Photography Spore Prints]].
+See also [[tompkins-kirlian-photography-plant-auras|Tompkins Kirlian Photography Plant Auras]].
 
 ### Time-Lapse
-## See Also
-
-- [[enclosed-ecosystem-mushroom-cultivation]]
-- [[community-garden-mushroom-integration]]
-- [[mushroom-composting-and-recycling]]

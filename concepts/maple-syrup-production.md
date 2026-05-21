@@ -148,6 +148,3 @@ All grades are the same quality -- the grade depends on when in the season the s
 
 ## Maple Sugar
 ## See Also
-
-- [[guttation-root-pressure-and-maple-sap-physiology]]
-- [[growing-gourmet-plug-spawn-production]]

@@ -148,7 +148,3 @@ Stamets also found that [[beauveria]] bassiana produces attractants prior to spo
 
 - **1834**: Agustino Bassi noticed Beauveria bassiana spores causing muscardine disease in silkworms — credited with conceiving "germ theory" before Pasteur (1858)
 - **1990s onward**: Multiple patents awarded on entomopathogenic fungi
-## See Also
-
-- [[mycopesticides-fungal-biocontrol]]
-- [[presporulating-mycelium-trojan-horse-mycopesticides]]

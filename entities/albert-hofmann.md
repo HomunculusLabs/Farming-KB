@@ -1,5 +1,4 @@
 ---
-
 title: Albert Hofmann
 created: 2026-04-11
 updated: 2026-04-12
@@ -62,6 +61,8 @@ Hofmann believed that "the spiritual crisis pervading all spheres of Western ind
 ## Legacy
 
 Hofmann's discoveries fundamentally shaped the 20th century's understanding of consciousness, brain chemistry, and the relationship between humans and psychoactive plants. His work enabled the scientific study of serotonin receptors, advanced understanding of mental illness, and launched both the medical and countercultural exploration of psychedelics. See [[psychedelic-compounds-reference]], [[psychedelic-mushroom-history]], and [[entheogen-culture]].
+
+This topic continues to evolve as new research and practical applications emerge.
 
 ## See Also
 

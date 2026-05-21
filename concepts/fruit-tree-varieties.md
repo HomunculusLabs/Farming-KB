@@ -1,5 +1,4 @@
 ---
-
 title: Fruit Tree Varieties, Rootstocks, and Chill Hours
 created: 2026-04-11
 updated: 2026-04-12
@@ -147,8 +146,7 @@ Accumulated hours at 32-45°F during dormancy that trigger budbreak and normal f
 - **Insufficient chill**: Delayed/irregular budbreak, reduced fruit set, poor quality
 - **Zone 7**: Typically 700-1200 chill hours
 - **Zone 8**: Typically 400-900 chill hours
+See also [[sepp-holzer-fruit-tree-varieties|Sepp Holzer Fruit Tree Varieties]].
+See also [[holzer-grafting-fruit-tree-propagation|Holzer Grafting Fruit Tree Propagation]].
 - **Zone 8b/coastal**: Can be as low as 200-400 hours
 ## See Also
-
-- [[sepp-holzer-fruit-tree-varieties]]
-- [[fruit-tree-pruning]]

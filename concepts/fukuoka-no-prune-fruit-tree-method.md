@@ -1,5 +1,4 @@
 ---
-
 title: Fukuoka No-Prune Fruit Tree Method
 created: 2026-04-12
 updated: 2026-04-12
@@ -148,7 +147,3 @@ Fukuoka provides a resistance guide (from Natural Way of Farming):
 - Post-WWII: organophosphate spraying killed vedalia ladybugs → severe outbreaks
 - In Fukuoka's unsprayed orchard: "almost no damage"
 ## See Also
-
-- [[shock-method-fruit-tree]]
-- [[fukuoka-fruit-tree-disease-pest-control-natural-predators]]
-- [[fukuoka-textdoc-fruit-tree-pest-disease-management]]

@@ -146,8 +146,7 @@ A WISP installs a small directional antenna on your roof or a tower, aimed at th
 
 DSL delivers internet over existing copper telephone lines. Availability is declining as carriers abandon copper infrastructure.
 
+See also [[emcdda-hallucinogenic-mushroom-internet-shop-market-snapshot-2006|Emcdda Hallucinogenic Mushroom Internet Shop Market Snapshot 2006]].
+See also [[mycelium-as-natures-internet|Mycelium As Natures Internet]].
 ### Specifications
 ## See Also
-
-- [[query-what-are-the-best-heating-options-for-an-off-grid-homestead]]
-- [[halpern-internet-dissemination-psychoactive-plants-public-health]]

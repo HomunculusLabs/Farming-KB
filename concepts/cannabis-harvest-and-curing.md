@@ -148,6 +148,3 @@ After curing, proper storage preserves quality for months to years.
 - **Humidity**: Maintain 58-62% RH using 2-way humidity packs (Boveda 58% or 62%)
 - **Avoid**: Plastic bags (static damages trichomes), refrigerators (condensation), freezers (trichomes become brittle and break off)
 - **Vacuum sealing**: Acceptable for long-term storage if buds are properly cured first
-## See Also
-
-- [[comparison-cannabis-drying-and-curing-vs-flushing-before-harvest]]

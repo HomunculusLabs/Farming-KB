@@ -148,8 +148,3 @@ Harmala alkaloids must NEVER be combined with:
 - SNRIs (venlafaxine, duloxetine)
 - Tricyclic antidepressants
 - Tramadol, dextromethorphan
-## See Also
-
-- [[turner-harmala-alkaloids-preparation-and-dosage]]
-- [[tihkal-harmala-alkaloids]]
-- [[harmala-alkaloids-and-ayahuasca-preparation]]

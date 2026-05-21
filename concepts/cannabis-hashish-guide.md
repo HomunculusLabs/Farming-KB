@@ -146,8 +146,6 @@ Made from fresh frozen cannabis (harvested and immediately frozen rather than dr
 - Preserves the plant's full terpene profile
 - Higher quality and more complex flavor than hash from dried material
 - Considered the premium tier of solventless concentrates
+See also [[hashish-preparation-and-cannabis-products|Hashish Preparation And Cannabis Products]].
 
 ## Storage and Consumption
-## See Also
-
-- [[cannabis-hashish-making-methods]]

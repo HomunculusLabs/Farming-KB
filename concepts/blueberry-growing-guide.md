@@ -148,7 +148,3 @@ Birds are the primary pest of blueberries — they can strip a bush in a single 
 - Mature plants (3+ years): Apply 1/4 to 1/2 cup of ammonium sulfate per plant in early spring, split into 2 applications (early spring and late spring)
 - Stop fertilizing by mid-summer to allow new growth to harden before winter
 ## See Also
-
-- [[blue-city-diesel-west-coast-blueberry-nyc-diesel-hybrid-oner]]
-- [[blueberry-cultivation-and-variety-guide]]
-- [[blueberry-cannabis]]

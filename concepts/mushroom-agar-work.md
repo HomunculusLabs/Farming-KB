@@ -148,7 +148,3 @@ Agar slants are test tubes partially filled with solidified agar, stored at cool
 4. While still liquid, lay tubes at an angle so the agar solidifies as a diagonal surface (a "slant").
 5. Inoculate with a small wedge of mycelium.
 6. Once colonized, seal with a cap or parafilm and store at 35-45F (2-7C).
-## See Also
-
-- [[agar-work-guide]]
-- [[query-what-is-dry-farming-and-how-does-it-work]]

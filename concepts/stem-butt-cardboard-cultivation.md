@@ -148,7 +148,3 @@ The exponential power of mycelial expansion:
 
 - [[inoculation-methods]] for comprehensive inoculation coverage
 - [[bunker-spawn-method]] for scaling up production
-- [[mushroom-cultivation-basics]] for general cultivation principles
-- [[outdoor-mushroom-bed]] for bed preparation
-- [[mushroom-spore-printing-and-storage]] for spore collection
-- [[mycelium-running-techniques]] for additional methods

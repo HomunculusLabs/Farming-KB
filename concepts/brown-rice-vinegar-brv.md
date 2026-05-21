@@ -1,5 +1,4 @@
 ---
-
 title: Brown Rice Vinegar (BRV) — Natural Acetic Acid
 created: 2026-04-11
 updated: 2026-04-12

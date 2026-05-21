@@ -147,7 +147,3 @@ Cultivating cannabis in remote, hidden locations. Use autoflowering strains for 
 ### Organic Pest Control
 
 Neem oil, insecticidal soap, diatomaceous earth, Bt, beneficial insect releases (ladybugs, lacewings, predatory mites), and companion planting.
-
-## Greenhouse and Light Deprivation
-
-Greenhouses extend the season with protection from rain, wind, and temperature extremes. Light deprivation (light dep) uses blackout covers to create 12-hour dark periods, triggering flowering 4-6 weeks earlier and enabling multiple harvests per season.

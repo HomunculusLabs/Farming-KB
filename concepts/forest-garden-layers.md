@@ -148,8 +148,3 @@ A guild is a group of plants (and sometimes animals) that work together synergis
 ## Integration with Permaculture Zones
 
 - Zone 1-2: intensive food forest with highest-value fruits, herbs, and vegetables
-## See Also
-
-- [[query-what-are-the-seven-layers-of-a-forest-garden]]
-- [[forest-garden-seven-layers]]
-- [[pdc-food-forest-layers-and-succession]]

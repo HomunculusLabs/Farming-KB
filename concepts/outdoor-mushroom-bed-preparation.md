@@ -11,6 +11,7 @@ tags:
   - wine-cap
 sources:
   - raw/papers/the-mushroom-cultivator-stamets.md
+title: "Outdoor Mushroom Bed Preparation"
 ---
 
 # Outdoor Mushroom Bed Preparation

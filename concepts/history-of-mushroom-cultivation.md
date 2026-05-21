@@ -9,6 +9,7 @@ tags:
   - agriculture
 sources:
   - raw/papers/the-mushroom-cultivator-stamets.md
+title: "History Of Mushroom Cultivation"
 ---
 
 # History of Mushroom Cultivation

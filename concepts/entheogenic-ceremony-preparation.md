@@ -148,8 +148,3 @@ Red flags in facilitators:
 ## Choosing a Ceremony
 
 Evaluation criteria for potential ceremony experiences:
-## See Also
-
-- [[entheogenic-ceremony]]
-- [[shamanic-entheogenic-ceremony-structure-common-elements]]
-- [[virola-snuff-amazon-preparation-and-ceremony]]

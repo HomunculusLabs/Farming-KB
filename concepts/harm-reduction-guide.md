@@ -148,7 +148,3 @@ Be honest with medical professionals about what substances were taken. Most juri
 
 ## Resources
 ## See Also
-
-- [[adverse-effects-and-harm-reduction-psilocybin]]
-- [[psilocybin-mushroom-dose-effects-and-harm-reduction]]
-- [[psychedelic-safety-and-harm-reduction]]

@@ -12,6 +12,7 @@ tags:
   - holmgren
 sources:
   - raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md
+title: "Permaculture Energy Descent Planning"
 ---
 
 # Permaculture Energy Descent Planning

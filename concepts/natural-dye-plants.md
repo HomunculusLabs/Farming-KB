@@ -148,7 +148,3 @@ For delicate pigments (some flowers, berries):
 
 ### Fermentation Extraction
 ## See Also
-
-- [[jeavons-natural-pest-control]]
-- [[natural-farming-fpj-preparation]]
-- [[natural-farming-guide-seed-saving-and-heirloom-varieties]]

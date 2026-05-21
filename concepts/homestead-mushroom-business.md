@@ -148,7 +148,3 @@ Check your state's Department of Agriculture for specific requirements. Some sta
 - Farmers markets: see [[farmers-market-selling-guide]]
 - Restaurants: chefs seek local mushrooms, approach directly
 - CSAs: add mushroom share or include in vegetable boxes
-## See Also
-
-- [[homestead-herb-business]]
-- [[mushroom-business-and-small-farm-economics]]

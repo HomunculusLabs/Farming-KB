@@ -148,8 +148,3 @@ Balanced view of current evidence:
 - Date all preparations
 
 ### Tracking
-## See Also
-
-- [[psychedelic-microdosing]]
-- [[microdosing-theory-and-practice]]
-- [[elderberry-growing-guide]]

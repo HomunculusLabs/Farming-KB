@@ -148,7 +148,3 @@ Cucumber beetles are the primary pest of cucumbers and can devastate plantings.
 - Most damaging: they transmit bacterial wilt (Erwinia tracheiphila)
 - Bacterial wilt causes vines to wilt suddenly and die — no cure once infected
 ## See Also
-
-- [[hamilton-cucumber-growing-organic]]
-- [[elderberry-growing-guide]]
-- [[growing-gourmet-medicinal-polysaccharides-mushroom-compounds]]

@@ -146,8 +146,6 @@ Not all bat species are equally affected:
 - **Resistant**: Some European bat species coexist with Pd; research into resistance mechanisms ongoing
 
 ### What You Can Do
+See also [[fungal-conservation-strategies|Fungal Conservation Strategies]].
 - Install bat houses to provide alternative summer roosting habitat
 - Avoid disturbing hibernating bats in caves and mines (decontaminate gear between sites)
-## See Also
-
-- [[fungal-species-rarity-assessment-conservation-challenges]]

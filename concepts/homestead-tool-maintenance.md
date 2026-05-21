@@ -146,9 +146,7 @@ Wooden handles require periodic oiling to prevent drying, cracking, and splinter
 
 - Natural, food-safe finish
 - Penetrates deeply, water-resistant
+See also [[solomon-wheelbarrow-selection-garden-tool-care-maintenance|Solomon Wheelbarrow Selection Garden Tool Care Maintenance]].
+See also [[savory-technology-as-management-tool|Savory Technology As Management Tool]].
 - More expensive than linseed oil
 - Reapply annually
-## See Also
-
-- [[solomon-wheelbarrow-selection-garden-tool-care-maintenance]]
-- [[pond-maintenance-fertilisers-and-shelter]]

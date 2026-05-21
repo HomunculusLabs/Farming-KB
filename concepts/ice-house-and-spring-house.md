@@ -146,9 +146,7 @@ chill food stored in the structure.
 
 **Other uses:**
 - Cool storage for beverages
+See also [[equatorial-house-design-essentials|Equatorial House Design Essentials]].
+See also [[mushroom-house-fumigation-and-sanitation-procedures|Mushroom House Fumigation And Sanitation Procedures]].
 - Milk cooling before processing
 - Fermentation temperature control
-## See Also
-
-- [[coleman-spring-transition]]
-- [[fukuoka-spring-orchard-bloom-and-aesthetic-philosophy]]

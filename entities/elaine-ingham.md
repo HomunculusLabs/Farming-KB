@@ -1,5 +1,4 @@
 ---
-
 title: Elaine Ingham
 created: 2026-04-11
 updated: 2026-04-12
@@ -56,6 +55,8 @@ Elaine Ingham (born 1951) is an American soil microbiologist, researcher, and ed
 ## Legacy
 
 Ingham's work is foundational to the [[regenerative-agriculture-history]] movement. Her soil food web framework underpins the rationale for [[no-till-gardening-method]], [[compost-tea-aact]], [[vermicomposting]], and [[mycorrhizal-fungi]] management. She has trained thousands of soil consultants and compost tea brewers worldwide.
+
+This topic continues to evolve as new research and practical applications emerge.
 
 ## See Also
 

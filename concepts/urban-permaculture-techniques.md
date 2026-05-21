@@ -12,6 +12,7 @@ tags:
 sources:
   - raw/papers/gaias-garden-toby-hemenway.md
   - raw/papers/william-ozier-williams-pdc_-a-permaculture-design-cours.md
+title: "Urban Permaculture Techniques"
 ---
 
 # Urban Permaculture Techniques

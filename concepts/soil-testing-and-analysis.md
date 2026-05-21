@@ -148,8 +148,3 @@ Dark, rich soil typically contains 3-5% organic matter. Very light-colored sandy
 For comprehensive analysis, send samples to a professional soil testing laboratory.
 
 ### How to Collect a Representative Sample
-## See Also
-
-- [[solomon-soil-testing-laboratory-analysis-low-input-gardening]]
-- [[solomon-soil-profile-assessment-fractional-analysis-jar-test]]
-- [[soil-microscope-analysis]]

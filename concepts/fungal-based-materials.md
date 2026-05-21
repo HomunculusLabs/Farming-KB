@@ -147,9 +147,3 @@ Carbon-negative or neutral (sequesters CO₂ during growth), uses agricultural w
 ## Future Directions
 
 3D printing with mycelium, genetic engineering for optimized properties, hybrid materials, smart materials responsive to stimuli, localized distributed manufacturing using local waste substrates.
-
-## See Also
-
-- [[mycoremediation-techniques]] — environmental applications of fungal biology
-- [[medicinal-mushroom-guide]] — bioactive compounds from the same organisms
-- [[functional-mushroom-products]] — mushroom-derived products for health applications

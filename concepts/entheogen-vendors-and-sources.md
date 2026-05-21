@@ -148,6 +148,3 @@ For those performing plant extractions (see [[dmt-extraction-guide]] and [[mesca
 - Many of these plants are sacred to indigenous communities
 - Commercial exploitation of traditional medicines raises ethical questions
 - Consider supporting indigenous communities and conservation efforts
-## See Also
-
-- [[entheogen-bwiti-iboga-initiation-fang-society]]

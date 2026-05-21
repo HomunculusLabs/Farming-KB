@@ -148,7 +148,3 @@ After washing, biodiesel contains suspended water droplets:
 Glycerin makes up about 20% of the reaction volume and has several uses:
 
 - **Soap making** — Glycerin-rich soap from biodiesel production is excellent quality. See [[soap-making-guide]]
-## See Also
-
-- [[growing-gourmet-plug-spawn-production]]
-- [[snail-farming-heliciculture-and-edible-escargot-production]]

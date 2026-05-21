@@ -146,10 +146,6 @@ The most dangerous chanterelle look-alike:
 ### Timing
 
 - After sustained rain (2+ inches over several days)
+See also [[chanterelle-species-eastern-us|Chanterelle Species Eastern Us]].
 - 2-7 days after significant rainfall
 - Morning foraging is best (mushrooms are fresh before insects and heat)
-## See Also
-
-- [[growing-gourmet-chanterelle-truffle-cultivation-challenges]]
-- [[query-how-do-i-identify-and-forage-chanterelle-mushrooms]]
-- [[comparison-morel-vs-chanterelle]]

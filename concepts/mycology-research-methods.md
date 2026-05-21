@@ -148,8 +148,3 @@ Provides high-resolution surface detail:
 - **Sequence quality control**: Trimmomatic, FastQC for NGS data
 - **OTU/ASV clustering**: DADA2, UNOISE for denoising and clustering amplicon sequences into exact sequence variants
 - **Taxonomic assignment**: BLAST against UNITE database (fungal ITS), GenBank. QIIME2 pipeline for community analysis
-## See Also
-
-- [[environmental-mycology-research-scope]]
-- [[research-institutions-environmental-mycology]]
-- [[international-mycology-research-network]]

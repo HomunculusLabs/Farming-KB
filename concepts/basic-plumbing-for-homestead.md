@@ -146,10 +146,8 @@ Rigid plastic piping for drainage and (CPVC only) hot water supply.
 ### Dripping Faucets
 
 - Compression faucets: Replace the rubber seat and washer
+See also [[basic-electrical-for-homestead|Basic Electrical For Homestead]].
+See also [[fukuoka-textdoc-basic-agriculture-law-japan-food-self-sufficiency-crisis|Fukuoka Textdoc Basic Agriculture Law Japan Food Self Sufficiency Crisis]].
+See also [[comparison-grape-vs-hardy-kiwi-for-homestead-trellising|Comparison Grape Vs Hardy Kiwi For Homestead Trellising]].
 - Cartridge faucets: Replace the entire cartridge
 - Ceramic disk faucets: Replace the ceramic cartridge
-## See Also
-
-- [[basic-electrical-for-homestead]]
-- [[homestead-permaculture-design]]
-- [[homestead-workshop-tools]]

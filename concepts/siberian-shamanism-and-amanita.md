@@ -1,5 +1,4 @@
 ---
-
 title: Siberian Shamanism and Amanita Muscaria
 created: 2026-04-11
 updated: 2026-04-12

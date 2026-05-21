@@ -148,8 +148,3 @@ Note: underground LSD potency is notoriously unreliable. Testing with an Ehrlich
 ### Contraindications
 
 - Personal or family history of schizophrenia or psychotic disorders
-## See Also
-
-- [[cannabis-as-medicine-clinical-reference]]
-- [[permaculture-plant-species-reference]]
-- [[mdma-reference]]

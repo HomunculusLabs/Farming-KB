@@ -148,7 +148,3 @@ Succession planting is the practice of staggering plantings of the same crop at 
 ### Planning
 
 - Know your first and last frost dates.
-## See Also
-
-- [[greenhouse-gardening-and-season-extension]]
-- [[comparison-season-extension-techniques-vs-cold-frame-gardening]]

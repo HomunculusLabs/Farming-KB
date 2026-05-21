@@ -148,8 +148,3 @@ Coprophilous fungi have evolved remarkable dispersal strategies:
 ## Biogeography
 
 Most coprophilous fungi are thought to be cosmopolitan, distributed worldwide alongside their herbivore hosts. However, some tropical species have restricted ranges. The composition of dung fungal communities varies with:
-## See Also
-
-- [[coprophilous-fungi-succession]]
-- [[coprophilous-fungi-biodiversity-indicators]]
-- [[coprophilous-fungi-taxonomic-groups-distribution]]

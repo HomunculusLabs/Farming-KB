@@ -148,6 +148,3 @@ Six EU member states tightened mushroom legislation in response to increasing pr
 ### Japan
 
 - Psilocybin is controlled under the Narcotics and Psychotropics Control Law
-## See Also
-
-- [[oyster-mushroom-substrate-materials-worldwide-survey-comparison]]

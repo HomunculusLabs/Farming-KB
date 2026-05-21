@@ -148,6 +148,3 @@ The space beneath and between fruit trees can be productive if designed carefull
 ### Ring Mulching
 - Maintain a mulched ring 3-4 feet in radius around each tree trunk
 - Keep mulch 3-4 inches away from the trunk (prevents bark rot)
-## See Also
-
-- [[comparison-food-forest-design-vs-backyard-orchard-design]]

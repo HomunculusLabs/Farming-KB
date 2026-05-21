@@ -148,8 +148,3 @@ Ethical facilitation requires:
 - Trauma-informed training
 - Accountability structures (oversight, peer review)
 - Transparency about facilitator's training, experience, and limitations
-## See Also
-
-- [[cannabis-as-medicine-clinical-reference]]
-- [[query-what-is-ergot-and-how-has-it-shaped-history-medicine-and-agriculture]]
-- [[magical-illness-peruvian-amazon-folk-medicine]]

@@ -146,9 +146,8 @@ A comprehensive list of plant species tolerant of alkaline soils, sourced from p
 - **Colophospermum mopane** (mopane)
 - **Cornus mas** (Cornelian cherry) — deciduous tree with edible fruit
 - **Oryzopsis miliacea** (smilo, millet grass)
+See also [[alkaline-soil-tolerant-plants-permaculture|Alkaline Soil Tolerant Plants Permaculture]].
+See also [[acid-and-alkaline-soil-management|Acid And Alkaline Soil Management]].
+See also [[plants-tolerant-of-alkaline-soils|Plants Tolerant Of Alkaline Soils]].
 - **Ribes spp**
 - **Sambucus spp** (elder) — edible fruits, flowers, roots
-
-## Notes
-
-Most palms are also fire tolerant and useful in bee forage systems — see [[palm-tree-uses]] for detailed palm species listings. For soil pH management strategies, see [[soil-testing]] and related [[compost-building-guide]] pages. Many of these species also appear in permaculture design contexts — see [[sepp-holzer-method]] and [[cold-climate-gardening]].

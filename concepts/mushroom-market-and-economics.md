@@ -10,6 +10,7 @@ tags:
   - business
 sources:
   - raw/papers/the-mushroom-cultivator-stamets.md
+title: "Mushroom Market And Economics"
 ---
 
 # Mushroom Market and Economics

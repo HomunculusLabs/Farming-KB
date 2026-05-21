@@ -148,6 +148,3 @@ Performed during the active growing season when trees are in full leaf.
 - In cold climates, may be grown as "knockout" figs — grown in containers and stored in a garage or shed over winter.
 
 ## Disease Prevention Through Pruning
-## See Also
-
-- [[natural-fruit-tree-form-and-non-pruning]]

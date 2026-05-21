@@ -148,7 +148,3 @@ Meshima cultivation is challenging and less developed than other medicinal mushr
 
 ## Safety Considerations
 ## See Also
-
-- [[phellinus-linteus-meshima-cancer-research]]
-- [[query-what-are-the-best-medicinal-herbs-to-grow-for-a-first-aid-garden]]
-- [[comparison-reishi-vs-chaga-medicinal-mushrooms]]

@@ -148,8 +148,3 @@ Mycodegradation uses fungal enzymes to break down (degrade) complex organic cont
 [[spent-mushroom-substrate]] is the residual material (compost, straw, sawdust) remaining after commercial mushroom cultivation. While not mycoremediation per se, SMS has remediation applications:
 
 ### Applications
-## See Also
-
-- [[mycoremediation-education-projects]]
-- [[mycoremediation-explosive-contaminants]]
-- [[mycoremediation-mushroom-cultivation-contaminated-substrates]]

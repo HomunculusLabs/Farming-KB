@@ -148,7 +148,3 @@ DMT is primarily a serotonin (5-HT) receptor agonist:
 ### Physical Safety
 
 - DMT has very low toxicity; no known lethal dose in humans
-## See Also
-
-- [[cannabis-as-medicine-clinical-reference]]
-- [[permaculture-plant-species-reference]]

@@ -12,6 +12,7 @@ tags:
 sources:
   - raw/papers/gaias-garden-toby-hemenway.md
   - raw/papers/a-selection-permaculture-plants.md
+title: "Permaculture Dynamic Accumulator Plants"
 ---
 
 # Permaculture Dynamic Accumulator Plants

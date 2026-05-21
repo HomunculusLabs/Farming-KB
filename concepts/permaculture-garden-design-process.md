@@ -11,6 +11,7 @@ tags:
   - planning
 sources:
   - raw/papers/gaias-garden-toby-hemenway.md
+title: "Permaculture Garden Design Process"
 ---
 
 # Permaculture Garden Design Process

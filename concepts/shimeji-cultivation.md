@@ -148,6 +148,3 @@ Shimeji has one of the best shelf lives among cultivated mushrooms:
 - Brown variety: color darkens slightly but quality maintained
 - White variety: may yellow if stored too warm
 - Freezing: not recommended (texture degrades significantly)
-## See Also
-
-- [[hypsizygus-elm-oyster-and-shimeji-cultivation]]

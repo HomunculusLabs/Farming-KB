@@ -13,6 +13,7 @@ tags:
   - vegetation
 sources:
   - raw/papers/william-ozier-williams-pdc_-a-permaculture-design-cours.md
+title: "Permaculture Site Assessment Checklist"
 ---
 
 # Permaculture Site Assessment Checklist
@@ -147,7 +148,3 @@ Create lists of existing on-site resources:
 ## Ecological Design Checklist
 
 Williams recommends evaluating the design against these criteria:
-## See Also
-
-- [[permaculture-site-assessment-report-writing]]
-- [[permaculture-site-resource-assessment]]

@@ -148,7 +148,3 @@ Drying beans are left on the plant until fully mature and dry, then shelled and 
 - Winnow to separate chaff (pour between bowls in a light breeze)
 - Spread beans on screens to dry further for 1-2 weeks
 - Beans are dry enough for storage when a thumbnail cannot dent them
-## See Also
-
-- [[moth-bean]]
-- [[comparison-cowpea-vs-mung-bean]]

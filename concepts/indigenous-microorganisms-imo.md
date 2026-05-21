@@ -1,5 +1,4 @@
 ---
-
 title: Indigenous Microorganisms (IMO) — Collection and Cultivation
 created: 2026-04-10
 updated: 2026-04-12
@@ -148,7 +147,3 @@ Microorganisms have two major functions in farming:
 
 ## IMO Diversity Principles
 ## See Also
-
-- [[query-how-do-i-use-beneficial-indigenous-microorganisms]]
-- [[indigenous-microorganisms]]
-- [[beneficial-indigenous-microorganisms]]

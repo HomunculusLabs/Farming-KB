@@ -148,7 +148,3 @@ This is critical -- do not skip or rush.
 - Larger cracks: mix a small batch of clay slip (clay + water) and push it into the crack
 - Major cracking: usually caused by insufficient curing or wrong clay-to-sand ratio
 - Structural cracks: may need to rebuild the affected section
-## See Also
-
-- [[comparison-solar-cooking-vs-cob-oven]]
-- [[comparison-cob-oven-vs-rocket-stove]]

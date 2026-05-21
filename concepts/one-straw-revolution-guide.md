@@ -1,5 +1,4 @@
 ---
-
 title: The One-Straw Revolution — Book Guide
 created: 2026-04-12
 updated: 2026-04-12
@@ -149,7 +148,3 @@ Young people from cities, researchers, students, poets, wanderers gathered at th
 
 "The ultimate goal of farming is not the growing of crops, but the cultivation and perfection of human beings."
 ## See Also
-
-- [[fukuoka-road-one-straw-revolution-continuation]]
-- [[fukuoka-one-straw-revolution-impact]]
-- [[fukuoka-one-straw-revolution-principles]]

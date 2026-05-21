@@ -148,6 +148,3 @@ The cold sensitivity is a significant challenge for distribution. Refrigeration 
 - Protein: 2.5-3.5g per 100g fresh (relatively high for a vegetable)
 - Good source of B vitamins (niacin, thiamin, riboflavin)
 - Contains vitamin C (unusual for mushrooms)
-## See Also
-
-- [[bloomfield-mushroom-foraging-immigrant-poisonings-paddy-straw-confusion]]

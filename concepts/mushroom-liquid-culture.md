@@ -148,8 +148,3 @@ Once the LC is fully colonized (cloudy white with visible mycelial masses):
 ## Contamination in Liquid Culture
 
 LC contamination can be difficult to detect visually:
-## See Also
-
-- [[comparison-spore-syringe-vs-liquid-culture]]
-- [[stamets-cultivator-liquid-culture-propagation-methods]]
-- [[query-spore-syringes-vs-liquid-culture]]

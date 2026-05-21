@@ -148,7 +148,3 @@ sources: []
 - Popular accounts (including Simand's "Finding the Mother Tree") have been criticized for over-stating the cooperation narrative
 
 ## See Also
-
-- [[fungi-in-climate-change]] -- climate impacts on mycorrhizal networks
-- [[biochar-and-fungi]] -- supporting mycorrhizal networks with biochar amendments
-- [[endophytic-fungi-in-agriculture]] -- related plant-fungal symbiotic relationships

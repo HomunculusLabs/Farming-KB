@@ -148,7 +148,3 @@ Proposed anti-addictive mechanisms:
 
 No one should receive ibogaine without comprehensive medical screening:
 - 12-lead ECG to measure QT interval (QTc <440 ms men, <450 ms women)
-## See Also
-
-- [[ibogaine]]
-- [[mckenna-iboga-tabernanthe-ibogaine-fang-bwiti-initiation-cult]]

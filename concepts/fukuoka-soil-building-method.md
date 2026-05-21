@@ -1,5 +1,4 @@
 ---
-
 title: Fukuoka Soil Building Method
 created: 2026-04-12
 updated: 2026-04-12
@@ -149,7 +148,3 @@ Fukuoka compares 30 years of natural farming with conventional methods:
 | Physical structure | Improving, porous | Depends on tillage |
 | Tree lifespan | 2-3x longer | Declining |
 ## See Also
-
-- [[fukuoka-textdoc-soil-building-as-multigenerational-legacy]]
-- [[fukuoka-textdoc-citrus-orchard-soil-building-without-fertilizer]]
-- [[fukuoka-soil-building-approach]]

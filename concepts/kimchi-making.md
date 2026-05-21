@@ -148,8 +148,3 @@ Refrigeration at any point slows fermentation dramatically. Kimchi keeps in the 
 
 - Too salty — rinse cabbage more thoroughly during brining, or reduce brining time
 - Too watery — cabbage was not drained long enough, or not packed tightly enough
-## See Also
-
-- [[query-how-do-i-make-kimchi-with-lacto-fermentation]]
-- [[comparison-kimchi-vs-kefir]]
-- [[jam-and-jelly-making]]

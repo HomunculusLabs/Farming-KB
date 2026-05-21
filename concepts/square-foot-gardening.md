@@ -148,6 +148,3 @@ The key to maximizing SFG productivity is replanting each square as soon as it's
 ## Related Concepts
 
 - [[raised-bed-gardening]] for bed construction and soil preparation
-- [[companion-planting-reference]] for pairing crops in adjacent squares
-- [[seed-starting-reference]] for producing transplants
-- [[hugelkultur]] for an alternative intensive growing method

@@ -146,9 +146,6 @@ Skipping venting is one of the most dangerous errors in pressure canning. It can
 As an extra safety margin, the USDA recommends boiling all home-canned vegetables and meats for 10 minutes before tasting. This destroys any botulinum toxin that might be present:
 
 1. Open the jar
+See also [[query-how-do-i-use-pressure-canning-to-safely-preserve-food-at-home|Query How Do I Use Pressure Canning To Safely Preserve Food At Home]].
 2. Transfer contents to a saucepan
 3. Bring to a rolling boil
-## See Also
-
-- [[query-how-do-i-use-pressure-canning-to-safely-preserve-food-at-home]]
-- [[pressure-canning-food-preservation]]

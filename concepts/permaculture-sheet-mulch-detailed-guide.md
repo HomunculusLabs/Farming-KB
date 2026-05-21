@@ -11,6 +11,7 @@ tags:
   - organic-matter
 sources:
   - raw/papers/gaias-garden-toby-hemenway.md
+title: "Permaculture Sheet Mulch Detailed Guide"
 ---
 
 # Permaculture Sheet Mulch Detailed Guide

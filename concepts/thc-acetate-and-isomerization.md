@@ -1,5 +1,4 @@
 ---
-
 title: THC Acetate and Isomerization
 created: 2026-04-12
 updated: 2026-04-12

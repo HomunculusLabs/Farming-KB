@@ -148,7 +148,3 @@ Infusing finished vinegar with herbs, fruits, and spices creates versatile flavo
 - Mint vinegar: fresh mint leaves
 - Vanilla vinegar: 1 split vanilla bean
 ## See Also
-
-- [[jam-and-jelly-making]]
-- [[cannabis-hashish-making-methods]]
-- [[wine-making-from-grapes]]

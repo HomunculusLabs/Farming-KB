@@ -146,10 +146,6 @@ For medicinal use:
 - Harvest aerial parts in early to mid-bloom for maximum rosmarinic acid
   content
 - Cut the top 6-8 inches of the plant
+See also [[lemon-balm-melissa-officinalis|Lemon Balm Melissa Officinalis]].
 
 ## Drying and Storage
-## See Also
-
-- [[comparison-echinacea-vs-lemon-balm]]
-- [[comparison-lemon-balm-vs-passionflower]]
-- [[comparison-elderberry-vs-lemon-balm]]

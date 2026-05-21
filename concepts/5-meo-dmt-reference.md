@@ -148,7 +148,3 @@ See also [[dmt-reference]] for the related compound N,N-DMT and [[ayahuasca-phar
 ## Safety
 
 ### Physical Safety
-## See Also
-
-- [[cannabis-as-medicine-clinical-reference]]
-- [[permaculture-plant-species-reference]]

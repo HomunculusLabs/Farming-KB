@@ -146,9 +146,6 @@ Root vegetable storage depends on three variables: temperature, humidity, and ve
 - Temperature: 32-35F
 - Humidity: 90-95%
 - Darkness: Important
+See also [[root-cellaring-and-crop-storage|Root Cellaring And Crop Storage]].
 - Ventilation: Good
 ## See Also
-
-- [[root-cellaring-and-crop-storage]]
-- [[solomon-root-cellaring-and-crop-storage]]
-- [[root-crop-harvest-and-storage]]

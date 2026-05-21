@@ -148,6 +148,3 @@ Insurance protects homestead businesses from financial catastrophe. As a farm or
 | Umbrella policy | $200-500 | Recommended |
 
 Insurance costs should be factored into [[homestead-scale-assessment]] and are a legitimate deduction for [[homestead-financial-planning]].
-## See Also
-
-- [[homestead-permaculture-design]]

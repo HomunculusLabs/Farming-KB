@@ -148,8 +148,3 @@ Mycetozoans are found worldwide in terrestrial habitats. Despite their name ("an
 - Myxomycetes: collect fruiting bodies from natural substrata; store in boxes with glued substrata
 - Preserve as dried specimens or permanent slide mounts
 - Photograph in situ when possible
-## See Also
-
-- [[mycetozoans-slime-molds]]
-- [[permaculture-design-principles]]
-- [[composting-systems]]

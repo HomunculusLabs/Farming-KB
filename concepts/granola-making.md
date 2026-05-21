@@ -146,10 +146,8 @@ Add after baking to prevent burning and drying out.
 - Coconut Almond: coconut oil, coconut flakes, almonds, coconut extract
 - Chocolate Peanut: cocoa powder, peanuts, chocolate chips (added after cooling)
 - Apple Pie: dried apples, cinnamon, nutmeg, a pinch of allspice
+See also [[aact-brewing-ingredients-molasses-humic-kelp-fish-ingham|Aact Brewing Ingredients Molasses Humic Kelp Fish Ingham]].
+See also [[aact-cn-ratios-brewing-ingredients-microbial-balance-ingham|Aact Cn Ratios Brewing Ingredients Microbial Balance Ingham]].
+See also [[aact-compost-feedstock-paper-wood-chips-worm-thermal-ingham|Aact Compost Feedstock Paper Wood Chips Worm Thermal Ingham]].
 - Ginger Molasses: molasses, crystallized ginger, cinnamon, cloves
 - Honey Walnut: honey, butter, walnuts, a pinch of sea salt flakes on top
-## See Also
-
-- [[jam-and-jelly-making]]
-- [[cannabis-hashish-making-methods]]
-- [[wine-making-from-grapes]]

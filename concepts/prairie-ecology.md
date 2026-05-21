@@ -148,6 +148,3 @@ Prairie birds are among the most rapidly declining bird groups in North America:
 - Bobolink: Nests in tall grass; neotropical migrant
 - Eastern meadowlark: Territory requires 6+ acres of grassland
 - Grasshopper sparrow: Specialist of dry, open prairie
-## See Also
-
-- [[prairie-dog-ecology]]

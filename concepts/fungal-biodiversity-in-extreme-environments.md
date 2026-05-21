@@ -9,6 +9,7 @@ tags:
   - ecology
 sources:
   - raw/papers/unknown-biodiversity-of-fungi.md
+title: "Fungal Biodiversity In Extreme Environments"
 ---
 
 # Fungal Biodiversity in Extreme Environments

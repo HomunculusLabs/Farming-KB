@@ -148,8 +148,3 @@ Harvesting method:
 - Dry on screens at 95-105 degrees F with good air circulation
 - Roots are fully dry when they snap with no flexible center (5-14 days
   depending on thickness)
-## See Also
-
-- [[comparison-schisandra-vs-ashwagandha-vs-rhodiola-adaptogenic-cultivation]]
-- [[comparison-stinging-nettle-vs-ashwagandha]]
-- [[comparison-ginseng-vs-ashwagandha]]

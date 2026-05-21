@@ -9,6 +9,7 @@ tags:
   - tissue-culture
 sources:
   - raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md
+title: "Mushroom Agar Media Recipes"
 ---
 
 # Mushroom Agar Media Recipes

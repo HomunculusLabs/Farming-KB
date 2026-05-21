@@ -12,6 +12,7 @@ tags:
   - mollison
 sources:
   - raw/papers/william-ozier-williams-pdc_-a-permaculture-design-cours.md
+title: "Permaculture Edge Effect Design"
 ---
 
 # Permaculture Edge Effect Design

@@ -148,8 +148,3 @@ Clinical trials expand to include psilocybin for depression (COMPASS, Usona), DM
 |-----------|-------------|-----|
 | Albert Hofmann | LSD and psilocybin discovery | 1940s-2000s |
 | Humphry Osmond | Alcoholism treatment, coined "psychedelic" | 1950s |
-## See Also
-
-- [[mckenna-suppression-psychedelic-research-lsd-therapy]]
-- [[johns-hopkins-psychedelic-research]]
-- [[psychedelic-therapy-and-research]]

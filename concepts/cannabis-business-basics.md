@@ -146,8 +146,6 @@ Most states require seed-to-sale tracking systems that monitor cannabis from cul
 
 ## Startup Costs
 
+See also [[mushroom-business-startup-guide|Mushroom Business Startup Guide]].
 | Business Type | Typical Total |
 |---------------|---------------|
-## See Also
-
-- [[cannabis-for-mental-health]]

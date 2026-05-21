@@ -148,8 +148,3 @@ Sweet potatoes are more forgiving about soil than many crops, but certain condit
 - Cure damaged or cut tubers separately (use them first).
 
 ## Curing
-## See Also
-
-- [[sweet-potato-hawaiian-mollison]]
-- [[comparison-cassava-vs-taro-vs-sweet-potato-vs-yam]]
-- [[solomon-sweet-potato-cultivation-guide]]

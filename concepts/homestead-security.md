@@ -146,10 +146,8 @@ Isolation is the homesteader's greatest vulnerability. A connected community is 
 - Engrave equipment with your driver's license number
 - Photograph serial numbers and store records off-site
 - Chain and lock equipment in sheds when not in use
+See also [[cervantes-grow-room-security-law-enforcement|Cervantes Grow Room Security Law Enforcement]].
+See also [[aact-soil-food-web-twelve-step-balancing-protocol|Aact Soil Food Web Twelve Step Balancing Protocol]].
+See also [[acid-house-rave-culture-and-second-mushroom-boom|Acid House Rave Culture And Second Mushroom Boom]].
 
 ### Firearm Safety and Self-Defense
-## See Also
-
-- [[cervantes-grow-room-security-law-enforcement]]
-- [[homestead-permaculture-design]]
-- [[homestead-workshop-tools]]

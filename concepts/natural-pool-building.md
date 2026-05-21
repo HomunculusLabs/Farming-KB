@@ -148,8 +148,3 @@ Plants are the primary filtration mechanism. Select for:
 - Solution: Brush walls gently; this is part of the biological process
 
 ### Mosquitoes
-## See Also
-
-- [[mollison-designers-lime-and-cement-natural-building]]
-- [[natural-building-techniques]]
-- [[natural-building]]

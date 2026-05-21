@@ -146,10 +146,6 @@ If any element is out of balance, the jam will not set properly.
 - Jam is too stiff: too much pectin or overcooking. Thin with water or fruit juice and re-can.
 - Jam is too dark: overcooking or excessive sugar. Use lower heat and shorter cooking time.
 - Fruit floats to top: fruit was not cooked long enough before canning; mixture was not stirred after filling jars. Turn jars occasionally during cooling.
+See also [[query-how-do-i-make-jam-and-jelly-at-home|Query How Do I Make Jam And Jelly At Home]].
 - Mold on surface: indicates improper seal or insufficient processing; discard the entire jar (mold can produce [[mycotoxins]] below the surface).
 - Crystallization: too much sugar or sugar not fully dissolved. Ensure sugar is fully dissolved during cooking.
-## See Also
-
-- [[query-how-do-i-make-jam-and-jelly-at-home]]
-- [[tremellales-mycoparasitic-jelly-fungi]]
-- [[cannabis-hashish-making-methods]]

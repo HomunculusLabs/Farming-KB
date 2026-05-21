@@ -146,9 +146,7 @@ Topical dosing is less precise than other methods. General guidelines:
 - **Medium potency**: 1/2 ounce (14g) cannabis per 1 cup oil
 - **Strong potency**: 1 ounce (28g) cannabis per 1 cup oil
 
+See also [[cannabis-autoflower-guide|Cannabis Autoflower Guide]].
+See also [[cannabis-cloning-guide|Cannabis Cloning Guide]].
 Start with a small amount and apply more as needed. Effects are typically felt within 15-30 minutes and last 2-4 hours. For chronic conditions, consistent daily application is more effective than sporadic heavy use.
 ## See Also
-
-- [[cannabis-for-mental-health]]
-- [[cannabis-endophytes-and-terroir]]
-- [[cannabis-polyploidy-colchicine-treatment-clarke]]

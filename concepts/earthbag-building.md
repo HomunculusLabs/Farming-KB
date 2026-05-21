@@ -146,9 +146,6 @@ Earthbag walls must be plastered to protect the bags from UV degradation.
 - Roof options: Flat roofs require beams; domes solve this but complicate code approval
 - Interior space: Thick walls reduce interior floor area
 - Moisture sensitivity: Earth walls must be protected from prolonged moisture exposure
+See also [[earthbag-construction-and-superadobe-building|Earthbag Construction And Superadobe Building]].
 - Bag degradation: Polypropylene eventually degrades — plaster is essential for longevity
 ## See Also
-
-- [[earthbag-construction-and-superadobe-building]]
-- [[natfarm-earthbag-construction-method]]
-- [[how-do-i-choose-between-straw-bale-and-earthbag-construction]]

@@ -146,10 +146,6 @@ Root cellaring uses natural cool temperatures and high humidity to store certain
 
 ## Quick Reference: Method Selection
 
+See also [[pressure-canning-food-preservation|Pressure Canning Food Preservation]].
 | Food | Best Method(s) |
 |------|---------------|
-## See Also
-
-- [[pressure-canning-food-preservation]]
-- [[query-how-does-lacto-fermentation-work-for-food-preservation]]
-- [[food-preservation-and-storage-methods]]

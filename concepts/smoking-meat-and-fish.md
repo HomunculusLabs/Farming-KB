@@ -146,10 +146,6 @@ Cold smoking is riskier because food spends extended time in the danger zone:
 - After smoking, products should lose 20-25% of original weight through moisture loss
 - Cold-smoked fish: 2-3 weeks refrigerated, 3-6 months frozen
 - Cold-smoked meats: 1-2 weeks refrigerated, 4-6 months frozen
+See also [[faires-meat-processing-curing-and-smoking|Faires Meat Processing Curing And Smoking]].
 
 ### Hot Smoking Safety
-## See Also
-
-- [[faires-meat-processing-curing-and-smoking]]
-- [[query-how-to-make-fish-hydrolysate-fertilizer]]
-- [[fish-pond-stock-management-and-construction]]

@@ -146,8 +146,6 @@ CBD does not produce psychoactive effects at any reasonable dose:
 - Use cannabutter in place of regular butter in any cookie recipe
 - Standard batch of 24 cookies with 1 cup cannabutter at ~125 mg THC per cup = ~5 mg THC per cookie
 
+See also [[lemon-cannabis-alchemy-tinctures-and-edibles|Lemon Cannabis Alchemy Tinctures And Edibles]].
 ### Cannabis-Infused Gummies
 ## See Also
-
-- [[comparison-cannabis-decarboxylation-chemistry-vs-edibles-guide]]
-- [[lemon-cannabis-alchemy-tinctures-and-edibles]]

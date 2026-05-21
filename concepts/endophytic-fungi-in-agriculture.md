@@ -148,6 +148,3 @@ One of the most studied agricultural endophytes:
 ### Vegetables
 - Tomato: Endophytes reduce Fusarium wilt, improve fruit quality
 - Pepper: Enhanced resistance to Phytophthora and aphids
-## See Also
-
-- [[endophytic-fungi-hidden-symbionts-within-plants]]

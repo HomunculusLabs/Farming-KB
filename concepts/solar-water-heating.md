@@ -146,10 +146,7 @@ In climates with freezing temperatures, freeze protection is essential:
   requires a double-walled heat exchanger for potable water safety
 - **Recirculation** — pump runs briefly to circulate warm tank water
   through the collector during freezing conditions (wastes some heat)
+See also [[mollison-designers-solar-water-heating-systems|Mollison Designers Solar Water Heating Systems]].
+See also [[comparison-biomass-compost-greenhouse-heating-systems-vs-solar-cooking-methods|Comparison Biomass Compost Greenhouse Heating Systems Vs Solar Cooking Methods]].
 
 ## Maintenance
-## See Also
-
-- [[mollison-designers-solar-water-heating-systems]]
-- [[mollison-designers-passive-solar-heating-building-design]]
-- [[mollison-designers-home-energy-conservation-and-solar-heating]]

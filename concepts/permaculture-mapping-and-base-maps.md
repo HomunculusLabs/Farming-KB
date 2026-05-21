@@ -12,6 +12,7 @@ tags:
   - cartography
 sources:
   - raw/papers/william-ozier-williams-pdc_-a-permaculture-design-cours.md
+title: "Permaculture Mapping And Base Maps"
 ---
 
 # Permaculture Mapping and Base Maps
@@ -147,7 +148,3 @@ Modern permaculture designers increasingly use digital tools:
 - **Google Earth/Google Maps**: Free imagery, measurement tools, and export capabilities
 - **GIS software (QGIS)**: Professional-grade mapping with multiple data layers
 - **CAD software**: Precise drafting for detailed designs
-- **Drawing apps**: SketchUp, Illustrator, or similar for attractive presentation maps
-## See Also
-
-- [[permaculture-beginners-guide-observation-and-mapping]]

@@ -148,8 +148,3 @@ Adequate ventilation is critical — high tunnels can overheat rapidly on sunny 
 ### Winter
 
 - In mild climates (zone 7+): Grow hardy greens (spinach, kale, mache, [[claytonia]]) with row cover inside the tunnel
-## See Also
-
-- [[query-what-is-the-difference-between-a-high-tunnel-and-a-hoop-house]]
-- [[growing-gourmet-shade-house-hoop-house-structures]]
-- [[fire-resistant-house-design-and-siting]]

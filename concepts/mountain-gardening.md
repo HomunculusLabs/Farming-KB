@@ -148,8 +148,3 @@ Mountain soils are typically shallow, rocky, and low in organic matter:
 - Plant [[green-manure-cover-crops]] during short off-seasons (hairy vetch, field peas, oats, winter rye)
 - Mulch heavily to retain moisture and build organic matter
 - Add [[biochar]] to improve nutrient retention in sandy mountain soils
-## See Also
-
-- [[inselbergs-and-fold-mountain-water-systems]]
-- [[mountain-and-valley-climates]]
-- [[fukuoka-textdoc-mountain-wood-preserve-revegetation-method]]

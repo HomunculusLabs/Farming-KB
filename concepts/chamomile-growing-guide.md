@@ -148,8 +148,3 @@ Chamomile is an excellent companion plant:
 - Said to improve the flavor and growth of nearby herbs and vegetables
 - Attracts beneficial insects including hoverflies and wasps
 - Its anti-fungal properties may help prevent damping off in nearby seedlings
-## See Also
-
-- [[comparison-chamomile-vs-passionflower]]
-- [[comparison-chamomile-vs-st-johns-wort]]
-- [[comparison-chamomile-vs-dandelion]]

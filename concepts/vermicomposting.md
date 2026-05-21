@@ -148,6 +148,3 @@ Worm casting tea is made by steeping finished vermicast in aerated water:
 See [[compost-tea-brewing]] for detailed brewing guidance.
 
 ## Troubleshooting
-## See Also
-
-- [[natural-farming-guide-vermicomposting-and-worm-based-soil-building]]

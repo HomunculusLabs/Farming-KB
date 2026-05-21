@@ -148,7 +148,3 @@ aware of:
 - Rhododendron/azalea — grayanotoxin in nectar ("mad honey")
 - Mountain laurel (Kalmia latifolia) — toxic nectar
 - Yellow jessamine (Gelsemium sempervirens) — toxic nectar and pollen
-
-For honey production from specific forage, see [[honey-varieties-guide]].
-For seasonal management aligned with forage availability, see
-[[beekeeping-seasonal-calendar]].

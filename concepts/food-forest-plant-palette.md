@@ -1,5 +1,4 @@
 ---
-
 title: Food Forest Plant Palette
 created: 2026-04-12
 updated: 2026-04-12
@@ -149,6 +148,3 @@ Douglas Bullock's forest garden is a mature 15-year-old food forest:
 
 - [[food-forest-design]] — Design process and overview
 - [[gaia-garden-plant-guilds]] — Guild design
-- [[permaculture-plant-catalog]] — Plants by function
-- [[dynamic-accumulators]] — Nutrient accumulator list
-- [[bamboo-growing-guide]]

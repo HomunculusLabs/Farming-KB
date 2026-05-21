@@ -146,10 +146,6 @@ Greywater regulations vary enormously by jurisdiction:
 - System must be entirely subsurface (no surface pooling or spray)
 - Minimum setback distances from property lines, wells, and surface water
 - No kitchen grease water without additional treatment
+See also [[greywater-systems-and-domestic-water-conservation|Greywater Systems And Domestic Water Conservation]].
 - System must not create a nuisance (odor, breeding mosquitoes)
 - Professional design may be required for systems above a certain volume
-## See Also
-
-- [[comparison-composting-toilets-vs-greywater-systems-detailed]]
-- [[greywater-systems-and-domestic-water-conservation]]
-- [[greywater-recycling-drylands]]

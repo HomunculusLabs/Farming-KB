@@ -148,7 +148,3 @@ Hypersensitivity pneumonitis (HP), also called extrinsic allergic alveolitis, is
 ### Avoidance
 
 - **Indoor moisture control**: Fix leaks, improve ventilation, maintain humidity below 50%, use dehumidifiers
-## See Also
-
-- [[fungal-nutrient-translocation-mycelial-networks]]
-- [[mushroom-dyes-and-fungal-pigments]]

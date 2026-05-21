@@ -148,8 +148,3 @@ Peppers are moderate feeders — not as heavy as tomatoes or corn.
 - **Smoking and drying**: Chipotle (smoked jalapeño), smoked cayenne for spice blends.
 
 ## Related
-## See Also
-
-- [[comparison-tomato-vs-pepper-growing]]
-- [[tomato-pepper-eggplant-growing-guide]]
-- [[knf-soap-water-and-hot-pepper]]

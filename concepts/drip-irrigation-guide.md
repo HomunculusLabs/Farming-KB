@@ -148,6 +148,3 @@ Fertigation delivers soluble fertilizers through the drip system, providing nutr
 
 ### Fertigation Schedule
 ## See Also
-
-- [[comparison-drip-irrigation-vs-rainwater-harvesting]]
-- [[cervantes-drip-irrigation-systems]]

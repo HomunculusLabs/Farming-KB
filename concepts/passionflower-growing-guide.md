@@ -148,8 +148,3 @@ Passionflower is an excellent pollinator plant:
 ## Harvesting
 
 Harvest aerial parts (leaves, stems, and flowers) during peak bloom on dry
-## See Also
-
-- [[query-how-do-i-grow-and-use-passionflower-in-my-garden]]
-- [[comparison-passionflower-vs-tulsi]]
-- [[comparison-chamomile-vs-passionflower]]

@@ -12,6 +12,7 @@ tags:
   - water-management
 sources:
   - raw/papers/gaias-garden-toby-hemenway.md
+title: "Permaculture Pond And Water Garden"
 ---
 
 # Permaculture Pond and Water Garden
@@ -147,7 +148,3 @@ Stock approximately 1 inch of fish per square foot of surface area in an unfilte
 
 - Remove excess algae by hand or with barley straw
 - Thin plants as needed to prevent the pond from becoming choked
-- Top up water during dry periods
-## See Also
-
-- [[mollison-designers-community-garden-design-urban-permaculture]]

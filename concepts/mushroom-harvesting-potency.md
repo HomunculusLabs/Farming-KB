@@ -1,5 +1,4 @@
 ---
-
 title: Mushroom Harvesting and Potency
 created: 2026-04-12
 updated: 2026-04-12
@@ -149,7 +148,3 @@ Mature specimens (with dark brown gills and purple spore deposits) are good for 
 7. **Leave 2 days** in draft-free area away from direct sunlight
 8. **Remove cap** with minimal air disturbance; let jar dehumidify a few days with loose lid
 ## See Also
-
-- [[pf-tek-primordia-abort-harvesting-potency-by-age]]
-- [[mushroom-potency-harvesting-and-desiccation-pf-tek]]
-- [[mushroom-potency-harvesting-drying]]

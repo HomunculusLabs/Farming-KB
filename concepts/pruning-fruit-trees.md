@@ -146,8 +146,7 @@ Espalier is the practice of training trees to grow flat against a wall, fence, o
 
 - **Winter pruning (February-March)**: Primary structural pruning. Tree is dormant; branch structure is visible.
 - **Summer pruning (June-August)**: Remove water sprouts, thin crowded areas, improve light. Less vigorous regrowth from summer cuts.
+See also [[comparison-pruning-fruit-trees-vs-grafting-fruit-trees|Comparison Pruning Fruit Trees Vs Grafting Fruit Trees]].
+See also [[fukuoka-argument-against-pruning-natural-form-fruit-trees|Fukuoka Argument Against Pruning Natural Form Fruit Trees]].
 - Best pruned during dormancy; summer pruning is supplemental.
 ## See Also
-
-- [[fukuoka-argument-against-pruning-natural-form-fruit-trees]]
-- [[no-pruning-fruit-trees]]

@@ -9,6 +9,7 @@ tags:
   - botany
 sources:
   - raw/papers/lowenfels-jeff-teaming-with-nutrients_-the-organic-garden.md
+title: "Plant Macronutrient Functions"
 ---
 
 # Plant Macronutrient Functions
@@ -146,8 +147,3 @@ Very abundant on Earth. Weathers from many minerals, most familiarly dolomite (C
 - Reduced growth
 
 ### Soil Behavior
-
-Released from organic material by microbial activity and weathered from gypsum rock. Historically, [[acid-rain]] provided significant sulfur; stricter air pollution regulations have dramatically reduced atmospheric sulfur deposition, making sulfur deficiencies more common.
-## See Also
-
-- [[plant-macronutrient-functions-nitrogen-phosphorus-potassium]]

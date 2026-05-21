@@ -10,6 +10,7 @@ tags:
   - king-oyster
 sources:
   - raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md
+title: "King Oyster Cultivation"
 ---
 
 # King Oyster Cultivation

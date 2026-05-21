@@ -148,7 +148,3 @@ Pastured eggs vs. conventional:
 - Net profit: $2,000-5,000/year for 50-hen flock
 - Labor: 15-30 minutes/day feeding, watering, collecting
 - Most profitable at direct-sale price points ($6+/dozen)
-## See Also
-
-- [[pastured-pork-production]]
-- [[mollison-designers-poultry-forage-design-pastured-systems]]

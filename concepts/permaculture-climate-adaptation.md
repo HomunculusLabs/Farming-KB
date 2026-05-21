@@ -148,6 +148,3 @@ The single most effective climate adaptation strategy is biodiversity. Diverse s
 
 - Species diversity — many types of plants, animals, and microorganisms
 - Functional diversity — many ways of meeting each need (food, water, fertility)
-## See Also
-
-- [[permaculture-designers-manual-cold-climate-greenhouse]]

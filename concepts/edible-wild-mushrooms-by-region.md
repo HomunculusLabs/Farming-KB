@@ -148,8 +148,3 @@ Edible wild mushroom species vary significantly by region in North America. This
 - **Death cap (Amanita phalloides)**: West Coast, expanding eastward; looks like edible [[paddy-straw-mushroom]]
 - **Destroying angel (A. virosa, A. bisporigera)**: White mushroom in the button stage resembles meadow mushroom and puffballs
 - Always check for: white gills, volva (cup at base), ring on stem, growing from volva in soil
-## See Also
-
-- [[query-what-are-the-most-common-edible-wild-mushrooms-for-beginners]]
-- [[query-how-do-i-identify-the-most-common-edible-wild-mushrooms]]
-- [[edible-wild-mushrooms-foraging-guide]]

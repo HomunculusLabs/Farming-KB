@@ -148,6 +148,3 @@ For fresh ginger:
 - Simply dig around the plant and cut off desired pieces; the plant will
   continue growing
 ## See Also
-
-- [[ginger-garlic-extract]]
-- [[query-how-do-i-grow-and-use-ginger-and-turmeric]]

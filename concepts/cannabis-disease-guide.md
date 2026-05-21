@@ -148,7 +148,3 @@ Damping off is a condition affecting seedlings and young clones, caused by sever
 ### Identification
 
 - Seedling stems become thin and water-soaked at the base
-## See Also
-
-- [[cannabis-pest-disease-troubleshooting]]
-- [[blesching-cannabis-inflammatory-bowel-disease]]

@@ -148,6 +148,3 @@ Cycling is the process of establishing the bacterial colonies that convert fish 
 | Ammonia (NH3) | 0 ppm | >0.25 ppm (toxic) |
 | Nitrite (NO2-) | 0 ppm | >0.25 ppm (toxic) |
 | Nitrate (NO3-) | 20-80 ppm | >150 ppm (stress) |
-## See Also
-
-- [[query-how-does-aquaponics-work]]

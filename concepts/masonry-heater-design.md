@@ -146,9 +146,7 @@ Masonry heaters are sized by the square footage they need to heat:
 8. Chimney connection: Transition to chimney flue
 9. Facing: Apply stone, tile, or plaster to the exterior
 10. Curing: Build small, cool fires for the first week to dry the mortar gradually
+See also [[comparison-charcoal-production-for-cooking-vs-masonry-heater-design|Comparison Charcoal Production For Cooking Vs Masonry Heater Design]].
+See also [[comparison-masonry-heater-design-vs-solar-cooking-methods|Comparison Masonry Heater Design Vs Solar Cooking Methods]].
 
 ### Safety Clearances
-## See Also
-
-- [[comparison-masonry-heater-design-vs-solar-cooking-methods]]
-- [[comparison-charcoal-production-for-cooking-vs-masonry-heater-design]]

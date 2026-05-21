@@ -148,8 +148,3 @@ Caused by Pneumocystis jirovecii (formerly P. carinii), now classified as a fung
 - **Alternatives**: Atovaquone, clindamycin-primaquine, pentamidine, caspofungin
 
 ### Endemic Mycoses
-## See Also
-
-- [[mr-bloomfields-orchard-dermatophytes-and-human-fungal-infections]]
-- [[bloomfield-fungal-pathogens-human-opportunistic-infections]]
-- [[blesching-cannabis-fungal-infections-candida]]

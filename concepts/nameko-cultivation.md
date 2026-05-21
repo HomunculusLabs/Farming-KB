@@ -10,6 +10,7 @@ tags:
   - nameko
 sources:
   - raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md
+title: "Nameko Cultivation"
 ---
 
 # Nameko Cultivation

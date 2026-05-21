@@ -148,8 +148,3 @@ Root vegetable from the high Andes of Peru, cultivated at altitudes above 3,500 
 ### Key Compounds
 - **Macaenes and macamides:** Unique fatty acid amides. Believed responsible for many of maca's effects, particularly on sexual function and mood.
 - **Glucosinolates:** Sulfur-containing compounds (also found in cruciferous vegetables).
-## See Also
-
-- [[adaptogenic-herbs-overview]]
-- [[query-what-are-adaptogenic-herbs-and-how-do-they-work]]
-- [[adaptogenic-herbs-cultivation-and-uses]]

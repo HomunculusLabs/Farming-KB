@@ -13,6 +13,7 @@ tags:
 sources:
   - raw/papers/gaias-garden-toby-hemenway.md
   - raw/papers/a-selection-permaculture-plants.md
+title: "Permaculture Multi Purpose Plants"
 ---
 
 # Permaculture Multi-Purpose Plants

@@ -148,6 +148,3 @@ Most common health effect of indoor mold exposure. Symptoms include:
 
 ### Asthma Exacerbation
 Mold spores and fragments can trigger asthma attacks. Sensitization to specific mold species (Alternaria, Cladosporium, Aspergillus) is a risk factor for severe asthma.
-## See Also
-
-- [[amanita-species-ecology-identification-mycohhizal]]

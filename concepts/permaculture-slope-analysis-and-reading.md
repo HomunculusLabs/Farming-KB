@@ -12,6 +12,7 @@ tags:
   - mollison
 sources:
   - raw/papers/william-ozier-williams-pdc_-a-permaculture-design-cours.md
+title: "Permaculture Slope Analysis And Reading"
 ---
 
 # Permaculture Slope Analysis and Reading
@@ -136,7 +137,6 @@ Mollison distinguishes between two landform profiles:
 ## Related Concepts
 
 - [[keyline-design]]
-- [[permaculture-earthworks]]
 - [[permaculture-earthworks]]
 - [[swale-construction-guide]]
 - [[permaculture-water-harvesting]]

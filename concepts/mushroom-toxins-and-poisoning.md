@@ -9,6 +9,7 @@ tags:
   - poisoning
 sources:
   - raw/papers/mr-bloomfields-orchard---the-mysterious-world-of-mushrooms-molds-and-mycologists.md
+title: "Mushroom Toxins And Poisoning"
 ---
 
 # Mushroom Toxins and Poisoning

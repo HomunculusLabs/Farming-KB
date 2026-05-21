@@ -148,6 +148,3 @@ Bad spawn (do not use):
 Strategic shaking dramatically speeds spawn colonization:
 
 1. **No shake after inoculation**: Allow the inoculation point to establish (3-5 days).
-## See Also
-
-- [[mushroom-spawn-making-history-and-pure-culture-revolution]]

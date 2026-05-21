@@ -9,6 +9,7 @@ tags:
   - botany
 sources:
   - raw/papers/lowenfels-jeff-teaming-with-nutrients_-the-organic-garden.md
+title: "Plant Nutrient Mobility In Soil"
 ---
 
 # Plant Nutrient Mobility in Soil

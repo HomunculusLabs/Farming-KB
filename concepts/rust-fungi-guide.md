@@ -148,7 +148,3 @@ Missing one or more spore stages, often producing only telia and basidia.
 - International rust surveillance networks monitor pathogen evolution
 - Molecular tools (PCR, genome sequencing) track virulence shifts
 - Weather-based forecasting models predict disease risk
-## See Also
-
-- [[rust-fungi-life-cycle]]
-- [[bloomfield-heteroecious-rust-fungi-life-cycles-gymnosporangium]]

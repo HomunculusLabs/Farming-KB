@@ -10,6 +10,7 @@ tags:
   - soil-food-web
 sources:
   - raw/papers/mr-bloomfields-orchard---the-mysterious-world-of-mushrooms-molds-and-mycologists.md
+title: "Fungi In Garden Ecosystems"
 ---
 
 # Fungi in Garden Ecosystems

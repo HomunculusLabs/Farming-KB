@@ -148,7 +148,3 @@ Mycofiltration uses fungal mycelium to filter and treat contaminated water. Dens
 - Regulatory acceptance for municipal water treatment is still developing
 
 ## See Also
-
-- [[mycoremediation-of-heavy-metals]] -- detailed coverage of fungal metal biosorption
-- [[mycoremediation-of-oil-spills]] -- fungal degradation of petroleum hydrocarbons
-- [[biochar-and-fungi]] -- biochar-fungal combinations for water treatment

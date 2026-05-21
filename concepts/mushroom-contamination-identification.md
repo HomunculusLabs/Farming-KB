@@ -148,8 +148,3 @@ Agar is the best diagnostic tool because all contaminants are visible against th
 - **Surface patches**: Green, blue, or colored growth = mold contamination.
 - **Cobweb**: Gray, fast-growing, cobweb-like growth = cobweb mold.
 - **Slimy areas**: Bacterial contamination.
-## See Also
-
-- [[contamination-identification-prevention]]
-- [[contamination-identification-prevention-mushroom-cultivation]]
-- [[mushroom-contamination-identification-and-troubleshooting]]

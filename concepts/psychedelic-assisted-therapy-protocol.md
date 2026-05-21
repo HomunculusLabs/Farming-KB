@@ -148,7 +148,3 @@ The dosing session room is carefully prepared:
 ### Number and Structure
 
 Integration typically consists of 1-3 sessions, each lasting 60-90 minutes, scheduled in the days and weeks following the dosing session.
-## See Also
-
-- [[mckenna-suppression-psychedelic-research-lsd-therapy]]
-- [[metzner-grof-perinatal-matrices-psychedelic-therapy]]

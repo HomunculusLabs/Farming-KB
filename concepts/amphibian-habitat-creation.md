@@ -148,6 +148,3 @@ Creating a range of hydroperiods supports the greatest amphibian diversity. Temp
 | Soft rush ([[juncus-effusus]]) | Emergent | Egg attachment; cover |
 | Cattail ([[typha-latifolia]]) | Emergent | Cover; but can be aggressive—contain with barriers |
 | Swamp milkweed (Asclepias incarnata) | Marginal | Pollinator plant; cover |
-## See Also
-
-- [[bird-habitat-creation]]

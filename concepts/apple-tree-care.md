@@ -148,7 +148,3 @@ Thinning excess fruit is essential for quality apples and tree health.
 ### Organic Spray Schedule
 - **Dormant season**: Horticultural oil (smother overwintering pests and eggs)
 - **Green tip**: Sulfur (scab prevention)
-## See Also
-
-- [[comparison-apple-tree-care-vs-apple-guild-design]]
-- [[query-how-do-i-design-an-apple-tree-guild]]

@@ -10,6 +10,7 @@ tags:
   - enoki
 sources:
   - raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md
+title: "Enoki Cultivation"
 ---
 
 # Enoki Cultivation

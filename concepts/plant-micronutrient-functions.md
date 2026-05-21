@@ -10,6 +10,7 @@ tags:
   - micronutrients
 sources:
   - raw/papers/lowenfels-jeff-teaming-with-nutrients_-the-organic-garden.md
+title: "Plant Micronutrient Functions"
 ---
 
 # Plant Micronutrient Functions
@@ -147,7 +148,3 @@ More commonly a concern than deficiency. Excess chlorine causes yellowing of lea
 
 - Chlorosis in older leaves (molybdenum is mobile)
 - "Whiptail" -- leaf curling caused by nitrate buildup when molybdenum is insufficient for nitrogen processing
-## See Also
-
-- [[plant-macronutrient-functions-nitrogen-phosphorus-potassium]]
-- [[jeavons-compost-functions-soil-building]]

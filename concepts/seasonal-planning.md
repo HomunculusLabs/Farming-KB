@@ -1,5 +1,4 @@
 ---
-
 title: Seasonal Planning — USDA Zone 7-8
 created: 2026-04-11
 updated: 2026-04-12

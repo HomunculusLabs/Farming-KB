@@ -148,8 +148,3 @@ P. tuber-regium is cultivated in parts of Africa and Asia, though less widely th
 - **Fruiting:** Fruiting bodies form from sclerotia when conditions are favorable (warm, humid, with light).
 - **Sclerotium yield:** Can produce 100-400g sclerotia per kg of substrate.
 - The ability to produce both sclerotia and fruiting bodies from the same culture is unique among cultivated Pleurotus species.
-## See Also
-
-- [[comparison-enoki-vs-king-stropharia-cultivation]]
-- [[growing-gourmet-king-stropharia-cultivation]]
-- [[query-how-to-grow-king-stropharia-garden-giant-mushrooms]]

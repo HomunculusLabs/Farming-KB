@@ -146,9 +146,8 @@ and nitrate. Use a state-certified laboratory.
   quality, inspect all fittings and seals
 - **After major storms** — clean gutters and screens of debris
 
+See also [[comparison-xeriscaping-guide-vs-rainwater-harvesting-systems|Comparison Xeriscaping Guide Vs Rainwater Harvesting Systems]].
+See also [[mollison-designers-rainwater-harvesting-swale-systems|Mollison Designers Rainwater Harvesting Swale Systems]].
+See also [[solomon-rainwater-harvesting-for-gardens|Solomon Rainwater Harvesting For Gardens]].
 ## Off-Grid Integration
 ## See Also
-
-- [[comparison-xeriscaping-guide-vs-rainwater-harvesting-systems]]
-- [[mollison-designers-rainwater-harvesting-swale-systems]]
-- [[urban-permaculture-rainwater-harvesting-graywater]]

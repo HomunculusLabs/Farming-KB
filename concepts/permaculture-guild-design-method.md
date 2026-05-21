@@ -11,6 +11,7 @@ tags:
   - ecological-design
 sources:
   - raw/papers/gaias-garden-toby-hemenway.md
+title: "Permaculture Guild Design Method"
 ---
 
 # Permaculture Guild Design Method

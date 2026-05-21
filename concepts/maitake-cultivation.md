@@ -10,6 +10,7 @@ tags:
   - grifola
 sources:
   - raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md
+title: "Maitake Cultivation"
 ---
 
 # Maitake Cultivation

@@ -148,8 +148,3 @@ Cob is vulnerable to water damage. Protect your walls:
 - Splashback from roof drips is a major problem — use gravel, pavers, or a concrete apron
 
 ### Wall Finish
-## See Also
-
-- [[natural-pool-building]]
-- [[comparison-bamboo-construction-vs-cob-building]]
-- [[building-with-natural-materials]]

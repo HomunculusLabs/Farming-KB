@@ -146,9 +146,7 @@ A 200W solar array with 100Ah LiFePO4 battery handles this budget comfortably in
 
 Essential for off-grid van living. See [[off-grid-waste-management|waste management]] for detailed comparison.
 
+See also [[agaricus-campestris-biology-and-life-cycle|Agaricus Campestris Biology And Life Cycle]].
+See also [[rust-fungi-biodiversity-life-cycles|Rust Fungi Biodiversity Life Cycles]].
 **Popular Options:**
 - Nature's Head: Most proven, urine diverter, 12V vent fan
-## See Also
-
-- [[off-grid-energy-and-homestead-infrastructure]]
-- [[cotter-off-grid-mushroom-cultivation]]

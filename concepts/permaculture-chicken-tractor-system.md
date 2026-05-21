@@ -11,6 +11,7 @@ tags:
   - mobile-housing
 sources:
   - raw/papers/gaias-garden-toby-hemenway.md
+title: "Permaculture Chicken Tractor System"
 ---
 
 # Permaculture Chicken Tractor System

@@ -148,7 +148,3 @@ Converting [[mushroom-extract]] into purified psilocybin crystals:
 - A sitter is recommended, especially at higher doses
 - Screen for SSRIs or other serotonergic medications (serotonin syndrome risk)
 - Avoid if personal or family history of psychosis or schizophrenia
-## See Also
-
-- [[psilocybin-methyl-alcohol-extraction-technique]]
-- [[psilocybin-alcohol-extraction]]

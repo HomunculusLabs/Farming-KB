@@ -1,5 +1,4 @@
 ---
-
 title: Straw Cultivation Methods — Pasteurization and Low-Tech Techniques
 created: 2026-04-11
 updated: 2026-04-12

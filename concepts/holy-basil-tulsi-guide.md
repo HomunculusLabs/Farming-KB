@@ -148,8 +148,3 @@ For fresh tea:
 
 For dried tea:
 1. Harvest leafy stems before flowering for the best flavor
-## See Also
-
-- [[query-how-to-grow-tulsi-holy-basil-medicinal-garden]]
-- [[query-how-to-grow-and-use-basil-in-your-garden]]
-- [[comparison-mullein-vs-tulsi]]

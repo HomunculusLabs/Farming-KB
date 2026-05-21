@@ -148,8 +148,3 @@ Traditional fermentation methods rely on wild yeasts rather than commercial cult
 - **Thrush**: Oral infection — white patches on tongue and mouth
 - **Vaginal yeast infection**: Common, affects ~75% of women at least once
 - **Systemic candidiasis**: Life-threatening in immunocompromised patients. Mortality rate 30-50%
-## See Also
-
-- [[yeast-biology-ecology-and-fermentation]]
-- yeast biology
-- [[microwave-sterilizable-access-port-nasa-space-biology]]

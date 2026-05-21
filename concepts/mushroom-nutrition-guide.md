@@ -148,7 +148,3 @@ Mushrooms are particularly notable as a source of selenium, providing amounts co
 | Species | Calories | Protein (g) | Fiber (g) | Fat (g) | Beta-Glucans (g) |
 |---------|----------|-------------|-----------|---------|-------------------|
 | Shiitake (dried) | 296 | 9.6 | 11.0 | 0.9 | 5-8 |
-## See Also
-
-- [[stinging-nettle-cultivation-foraging-nutrition-and-uses]]
-- [[cannabis-plant-nutrition]]

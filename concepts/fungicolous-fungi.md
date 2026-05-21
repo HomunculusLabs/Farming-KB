@@ -148,8 +148,3 @@ The term "fungicolous" encompasses all fungi that grow on or within other fungi.
 - Collect diseased or abnormal fungal fruiting bodies
 - Observe fungal specimens for overgrowth, discoloration, or deformity caused by parasites
 - Isolate fungicolous fungi from surface-sterilized fungal tissue
-## See Also
-
-- [[fungicolous-mycophilic-fungi-biodiversity-mycoparasitism]]
-- [[fungicolous-fungi-on-sporocarps]]
-- [[hypocreales-fungicolous-fungi]]

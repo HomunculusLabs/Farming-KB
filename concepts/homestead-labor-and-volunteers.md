@@ -146,8 +146,6 @@ As a homestead grows beyond what one or two people can manage, labor becomes a c
 ### State Requirements
 - State minimum wage may exceed federal ($7.25/hour) -- most states are $12-16/hour
 - State workers comp requirements vary
+See also [[fukuoka-textdoc-energy-efficiency-agricultural-labor|Fukuoka Textdoc Energy Efficiency Agricultural Labor]].
 - State unemployment insurance: required for most employers
 - State-mandated breaks and meal periods
-## See Also
-
-- [[fukuoka-textdoc-postwar-farm-labor-appropriated-urban-prosperity]]

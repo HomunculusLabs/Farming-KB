@@ -148,7 +148,3 @@ See [[fungal-sexual-reproduction]] for deeper coverage of mating type genetics.
 ### DNA Barcoding
 
 - ITS (Internal Transcribed Spacer) region is the standard barcode for fungi
-## See Also
-
-- [[green-cannabis-grow-bible-strain-selection-genetics]]
-- [[oner-chemdawg-lineage-genetics-strain-profile]]

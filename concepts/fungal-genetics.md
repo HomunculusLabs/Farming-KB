@@ -148,7 +148,3 @@ CRISPR-Cas9 genome editing has revolutionized fungal genetics since ~2015:
 - **DNA methylation**: Variable across fungal groups. Heavy in some basidiomycetes; minimal in S. cerevisiae (no detectable methylation)
 - **Repeat-Induced Point Mutation (RIP)**: A fungal-specific genome defense in Neurospora and related genera. Duplicates DNA sequences are mutated by C-to-T transitions during the sexual cycle, silencing transposons and duplicated genes
 - **Histone modifications**: H3K9 methylation, H3K27 methylation regulate gene expression
-## See Also
-
-- [[fungal-genetics-and-mushroom-strain-improvement]]
-- [[gadd-fungal-mlst-population-genetics]]

@@ -13,6 +13,7 @@ tags:
 sources:
   - raw/papers/a-selection-permaculture-plants.md
   - raw/papers/gaias-garden-toby-hemenway.md
+title: "Permaculture Nitrogen Fixing Trees"
 ---
 
 # Permaculture Nitrogen-Fixing Trees

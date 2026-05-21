@@ -148,8 +148,3 @@ Organic fixes:
 
 ### Iron (Fe) Deficiency
 Immobile nutrient. Severe interveinal chlorosis on new leaves (youngest most affected), leaves may turn almost white while veins stay green, growth severely stunted. Common in alkaline soils (pH >7.0). In cannabis: new leaves turn pale yellow/white at high pH.
-## See Also
-
-- [[cannabis-nutrient-deficiency-guide]]
-- [[greg-green-npk-and-nutrient-deficiency]]
-- [[cervantes-secondary-nutrient-deficiency]]

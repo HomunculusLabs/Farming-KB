@@ -148,6 +148,3 @@ The simplest and cheapest vertical support system, ideal for lightweight climber
 
 ### Advantages
 - Extremely low cost (jute twine is biodegradable)
-## See Also
-
-- [[comparison-vertical-gardening-vs-container-gardening]]

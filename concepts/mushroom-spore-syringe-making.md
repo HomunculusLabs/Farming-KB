@@ -9,6 +9,7 @@ tags:
   - sterile-technique
 sources:
   - raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md
+title: "Mushroom Spore Syringe Making"
 ---
 
 # Mushroom Spore Syringe Making

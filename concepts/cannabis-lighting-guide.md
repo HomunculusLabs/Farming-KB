@@ -148,7 +148,3 @@ Use a PAR meter if available to measure PPFD at the canopy level. If you don't h
 - **Reflective walls**: Use mylar (95% reflectivity) or flat white paint to maximize light utilization.
 - **Light movers**: Rail systems that move lights back and forth can improve coverage in larger areas.
 - **Defoliation and training**: See [[cannabis-topping-training]] for techniques to create an even canopy that maximizes light absorption.
-## See Also
-
-- [[cannabis-grow-lighting-hid-systems]]
-- [[green-cannabis-lighting-guide]]

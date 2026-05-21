@@ -146,10 +146,6 @@ Prevention:
 ## Nutrient Solution for Aeroponics
 
 Aeroponics requires clean, well-filtered nutrient solutions:
+See also [[comparison-aeroponics-guide-vs-cannabis-hydroponic-systems|Comparison Aeroponics Guide Vs Cannabis Hydroponic Systems]].
 - Always use RO or distilled water
 - Filter nutrients through a 50-micron filter before adding to the reservoir
-## See Also
-
-- [[comparison-aeroponics-guide-vs-cannabis-hydroponic-systems]]
-- [[aeroponics-cannabis]]
-- [[comparison-aeroponics-vs-aquaponics]]

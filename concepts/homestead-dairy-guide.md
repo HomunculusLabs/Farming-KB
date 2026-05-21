@@ -146,10 +146,6 @@ Aged cheeses require a cheese press, aging space, and more patience but produce 
 Goat milk butter is white (goats convert all beta-carotene to vitamin A, unlike cows) and delicious.
 
 1. Let fresh milk sit undisturbed in the refrigerator for 24-48 hours. Cream rises to the top.
+See also [[home-cheesemaking-and-dairy-fermentation|Home Cheesemaking And Dairy Fermentation]].
 2. Skim the cream layer with a ladle (goat milk cream is lighter and more dispersed than cow cream -- a cream separator helps)
 3. Chill cream to 50-55F
-## See Also
-
-- [[homestead-dairy-equipment]]
-- [[fermented-dairy-and-cultured-milk-products]]
-- [[home-cheesemaking-and-dairy-fermentation]]

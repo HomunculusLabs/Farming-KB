@@ -148,7 +148,3 @@ A timber frame provides the structure; the enclosure system provides the walls. 
 - **Boring machine or brace and bit:** Drilling peg holes and mortises
 - **Hand plane (jack and smoothing):** Flattening and finishing surfaces
 - **Drawknife and spokeshave:** Shaping curved elements
-## See Also
-
-- [[comparison-reciprocal-roof-vs-timber-frame]]
-- [[comparison-timber-frame-vs-rammed-earth]]

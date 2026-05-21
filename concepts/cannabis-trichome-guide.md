@@ -148,6 +148,3 @@ Living soil systems with diverse microbiology tend to produce more complex terpe
 
 ## Post-Harvest Trichome Preservation
 ## See Also
-
-- [[cannabis-trichome-development-cannabinoid-biosynthesis-sites]]
-- [[cannabis-glandular-trichome-types-resin-production-clarke]]

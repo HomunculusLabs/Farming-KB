@@ -148,8 +148,3 @@ Tinctures can be flavored with:
 - Alcohol tinctures: shelf stable at room temperature for 1-2 years
 - Glycerin tinctures: 6-12 months at room temperature
 - MCT oil tinctures: 3-6 months; do not refrigerate
-## See Also
-
-- [[cervantes-cannabis-tinctures]]
-- [[blesching-cannabis-tinctures-infused-oils-topical-preparations]]
-- [[query-how-to-make-cannabis-tinctures-at-home]]

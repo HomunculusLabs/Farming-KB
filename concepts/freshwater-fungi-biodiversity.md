@@ -148,7 +148,3 @@ Anamorphic fungi that produce conidia in freshwater habitats. Include the Ingold
 - Single-spore isolation on agar media
 
 **Hyphomycetes**:
-## See Also
-
-- [[biodiversity-fungi-freshwater-aquatic-habitats]]
-- [[biodiversity-of-fungi-freshwater-survey-collection-methods]]

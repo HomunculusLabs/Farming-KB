@@ -148,7 +148,3 @@ Maintain a 2-3 inch layer of straw or leaf mulch on top:
 
 - Cut at the base with a knife or twist gently
 - Do not pull — this damages the mycelial network
-## See Also
-
-- [[wine-making-from-grapes]]
-- [[comparison-beer-vs-wine-making]]

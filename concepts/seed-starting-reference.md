@@ -148,8 +148,3 @@ Transplants grown indoors must be gradually acclimated to outdoor conditions ove
 - Can partially recover by burying stem up to first leaves when transplanting (tomatoes).
 
 ## Timing: When to Start Seeds
-## See Also
-
-- [[faires-seed-starting-transplanting-guide]]
-- [[comparison-cannabis-cloning-vs-seed-starting-indoors]]
-- [[seed-starting-indoors]]

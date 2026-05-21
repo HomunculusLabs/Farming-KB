@@ -1,5 +1,4 @@
 ---
-
 title: Log Cultivation Methods — Growing Mushrooms on Logs and Stumps
 created: 2026-04-11
 updated: 2026-04-13
@@ -149,6 +148,3 @@ Bunker spawn is wood chip-filled burlap bags inoculated with mycelium:
 
 ### Applications
 ## See Also
-
-- [[shiitake-cultivation-log-method]]
-- [[shiitake-log-vs-sawdust-cultivation]]

@@ -148,7 +148,3 @@ Psilocybin degrades through oxidation, exposure to UV light, and heat:
 
 ### Expected Shelf Life
 ## See Also
-
-- [[water-harvesting-and-conservation-in-permaculture]]
-- [[mushroom-potency-harvesting-drying]]
-- [[faires-permaculture-water-harvesting]]

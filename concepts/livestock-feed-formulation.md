@@ -148,7 +148,3 @@ feeds, and practical formulation for homestead-scale operations.
   and immune health (anecdotal evidence).
 - **[[diatomaceous-earth]]:** For parasite control (limited evidence, widely
   used).
-## See Also
-
-- [[query-how-do-i-grow-fodder-crops-and-trees-for-livestock-feed]]
-- [[cut-and-feed-system]]

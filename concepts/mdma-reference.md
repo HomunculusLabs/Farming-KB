@@ -148,7 +148,3 @@ This is the most advanced clinical application:
 - Serotonin syndrome: risk when combined with other serotonergic drugs (SSRIs, MAOIs, tramadol). Can be fatal
 - Cardiovascular events: dangerous for those with cardiovascular conditions
 ## See Also
-
-- [[turner-ecstasy-mdma-heart-opening-psychedelic]]
-- [[metzner-empathogens-in-psychotherapy-mda-mdma-and-the-heart-centered-paradigm]]
-- [[mdma-qualitative-effects-phenomenology]]

@@ -148,7 +148,3 @@ Truffle-hunting dogs are essential for finding ripe truffles underground. While 
 
 ## Foraging Safety
 ## See Also
-
-- [[truffle-evolution-and-hypogeous-fungi]]
-- [[asian-truffle-species]]
-- [[stamets-truffle-orchard-failure-lessons-perigord-cultivation]]
