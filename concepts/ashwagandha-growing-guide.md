@@ -11,7 +11,7 @@ sources: []
 
 ## Overview
 
-Ashwagandha, also known as ashwagandha, winter cherry, or Indian ginseng,
+[[ashwagandha]], also known as ashwagandha, winter cherry, or Indian ginseng,
 is one of the most important herbs in Ayurvedic medicine. The name
 "Ashwagandha" comes from Sanskrit, meaning "smell of a horse," referring
 to both the distinctive odor of the fresh root and the traditional belief
@@ -21,8 +21,8 @@ shrub increasingly cultivated in temperate regions as a summer annual.
 
 ## Botanical Profile
 
-- Scientific name: Withania somnifera
-- Family: Solanaceae (nightshade family)
+- Scientific name: [[withania-somnifera]]
+- Family: [[solanaceae]] (nightshade family)
 - Hardiness: USDA zones 8-11 (grown as annual in cooler zones)
 - Lifecycle: Tender perennial, grown as annual in most climates
 - Height: 2-3 feet, spreading 2-3 feet
@@ -81,7 +81,7 @@ Ashwagandha thrives in sandy, well-drained soil with low to moderate
 fertility. It actually performs poorly in rich, heavy, or waterlogged soils.
 A sandy loam with a pH of 6.5-7.5 is ideal. Prepare beds by loosening soil
 to a depth of 12-18 inches and removing rocks. Minimal organic amendments
-are needed -- a light application of compost is sufficient. Excessive
+are needed -- a light application of [[compost]] is sufficient. Excessive
 nitrogen produces lush foliage at the expense of root development.
 
 ### Propagation
@@ -111,7 +111,7 @@ is the standard method.
 - Plant at the same depth as in the seedling container
 - Water well after planting; keep moist until established
 - Mulch with sand or gravel to reflect heat and maintain dry soil conditions
-  (ashwagandha does not want organic mulch against its stem)
+  (ashwagandha does not want [[organic-mulch]] against its stem)
 
 ### Care and Maintenance
 - Water to establish, then reduce irrigation; ashwagandha prefers to dry

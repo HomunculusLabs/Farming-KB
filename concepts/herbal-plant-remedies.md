@@ -9,7 +9,7 @@ sources: [raw/papers/sepp-holzer-practical-guide-to-small-scale-integrative.md]
 
 # Herbal Plant Remedies
 
-Simple traditional herbal remedies that can be made by people with small gardens without great difficulty, as described by Sepp Holzer. These were once found in almost every "home pharmacy." As the potency of medicinal plants can vary from place to place, recipes should be adapted — with experience, the correct strength can easily be determined.
+Simple traditional herbal remedies that can be made by people with small gardens without great difficulty, as described by [[sepp-holzer]]. These were once found in almost every "home pharmacy." As the potency of medicinal plants can vary from place to place, recipes should be adapted — with experience, the correct strength can easily be determined.
 
 ## Calendula Salve (Calendula officinalis)
 
@@ -65,8 +65,8 @@ A traditional tea used by farmers to help manage blood sugar levels.
 ### Recipe
 
 1. Combine equal amounts of:
-   - Chicory root (Cichorium intybus)
-   - Dandelion root
+   - Chicory root ([[cichorium-intybus]])
+   - [[dandelion]] root
    - Stinging nettles
    - French lilac (goat's rue)
    - Bilberry leaves
@@ -124,6 +124,6 @@ Mentioned by Holzer as a well-established remedy. Sage nutrient content is great
 
 ## Related
 
-- [[sepp-holzer-method]] — Holzer's broader permaculture philosophy and techniques
+- [[sepp-holzer-method]] — Holzer's broader [[permaculture]] philosophy and techniques
 - [[alkaline-soil-plants]] — many medicinal herbs tolerate alkaline conditions
 - [[soil-food-web-nutrient-cycling]] — healthy soil grows more potent medicinal plants

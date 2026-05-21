@@ -24,7 +24,7 @@ The most versatile homestead grain. Used for bread flour, pastry flour, flatbrea
 - Spacing: 1-2 inches between plants in rows 6-8 inches apart.
 
 ### Oats (Avena sativa)
-Excellent for human food (oatmeal, granola, flour) and animal feed. Good cover crop option.
+Excellent for human food (oatmeal, granola, flour) and animal feed. Good [[cover-crop]] option.
 
 - Spring oats: plant as soon as soil can be worked in spring.
 - Winter oats: less cold-hardy than winter wheat -- only viable in mild climates (zone 7+).
@@ -39,7 +39,7 @@ Used for flour, malting (beer and whiskey), soups, and animal feed. One of the e
 - Winter barley: plant in fall, harvest in early summer. Zone 6 and warmer.
 - Hulled vs hull-less: hull-less (naked) barley is much easier to process for food. Hulled barley requires pearling or dehulling.
 - Yield: 50-80 bushels per acre (1 bushel = 48 pounds).
-- Two-row vs six-row: two-row has larger kernels and is preferred for malting. Six-row has higher protein and enzyme content.
+- Two-row vs six-row: two-row has larger kernels and is preferred for malting. Six-row has higher protein and [[enzyme]] content.
 
 ### Corn / Maize (Zea mays)
 The highest-yielding grain crop. Used for cornmeal, polenta, hominy, popcorn, and animal feed.
@@ -56,7 +56,7 @@ The highest-yielding grain crop. Used for cornmeal, polenta, hominy, popcorn, an
 Grains are relatively undemanding but respond well to good soil preparation:
 
 - Test soil and amend based on results. Grains need adequate phosphorus and potassium.
-- Incorporate compost or well-rotted manure before planting (30-50 tons per acre equivalent for small plots).
+- Incorporate [[compost]] or well-rotted manure before planting (30-50 tons per acre equivalent for small plots).
 - Grains benefit from a firm seedbed -- roll or tamp after planting for good seed-to-soil contact.
 - Ideal pH: 6.0-7.0 for most grains.
 - Avoid nitrogen-heavy amendments at planting time -- can cause lodging (falling over). Side-dress nitrogen in spring for winter grains.
@@ -67,7 +67,7 @@ Grains are relatively undemanding but respond well to good soil preparation:
 Scatter seed evenly by hand or with a broadcast spreader. Rake or lightly till to cover seed 1-2 inches deep. Requires 20-30% more seed than drilled methods. Good for small plots and cover cropping.
 
 ### Row Method (Drilled)
-Use a grain drill, Earthway seeder, or create furrows with a hoe. Plant 1-2 inches deep in rows 6-8 inches apart. More efficient seed use and easier weed management. Recommended for dedicated grain plots.
+Use a grain drill, [[earthway-seeder]], or create furrows with a hoe. Plant 1-2 inches deep in rows 6-8 inches apart. More efficient seed use and easier weed management. Recommended for dedicated grain plots.
 
 ### Seeding Rates (per 1,000 square feet)
 - Wheat: 1-2 pounds
@@ -92,7 +92,7 @@ Grain is ready to harvest when:
 - For corn: husks are dry and papery
 
 ### Hand Harvesting
-- Wheat, oats, barley: cut with a sickle, scythe, or shears. Bundle into sheaves (stook) and dry standing for 1-2 weeks.
+- Wheat, oats, barley: cut with a sickle, [[scythe]], or shears. Bundle into sheaves (stook) and dry standing for 1-2 weeks.
 - Corn: pick ears when kernels are hard and dry. Husk and dry further on screens.
 
 ### Threshing

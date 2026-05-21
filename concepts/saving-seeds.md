@@ -9,7 +9,7 @@ sources: []
 
 # Saving Seeds
 
-[[permaculture-seed-saving-and-selection|Seed saving]] is one of the most empowering homesteading skills. It reduces costs, preserves genetic diversity, and develops plant varieties uniquely adapted to your local conditions. Over generations, saved seeds become more resilient and productive on your specific land.
+[[permaculture-seed-saving-and-selection|Seed saving]] is one of the most empowering [[homesteading]] skills. It reduces costs, preserves genetic diversity, and develops plant varieties uniquely adapted to your local conditions. Over generations, saved seeds become more resilient and productive on your specific land.
 
 ## Why Save Seeds
 
@@ -113,7 +113,7 @@ Proper storage is critical for maintaining viability:
 
 - Seeds must be completely dry before storage (below 8% moisture for most seeds)
 - Store in airtight containers: glass jars with tight lids, metal tins, or moisture-proof bags
-- Add a desiccant packet (silica gel) to each container
+- Add a [[desiccant]] packet (silica gel) to each container
 - Store in a cool, dark, dry location
 - Ideal storage temperature: 35-50F
 - For long-term storage (5+ years): freeze in airtight containers with desiccant

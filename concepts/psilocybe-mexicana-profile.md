@@ -12,7 +12,7 @@ sources:
 
 ## Overview
 
-Psilocybe mexicana is the original species that launched the modern psychedelic era. Identified by Roger Heim and studied by Albert Hofmann, it was the species consumed by R. Gordon Wasson and Maria Sabina during the veladas described in Wasson's famous 1957 LIFE article. Its Nahuatl name is "teonanacatl" -- "flesh of the gods."
+[[psilocybe-mexicana]] is the original species that launched the modern psychedelic era. Identified by [[roger-heim]] and studied by [[albert-hofmann]], it was the species consumed by R. [[gordon-wasson]] and [[maria-sabina]] during the veladas described in Wasson's famous 1957 LIFE article. Its Nahuatl name is "teonanacatl" -- "flesh of the gods."
 
 ## Taxonomy
 
@@ -27,7 +27,7 @@ Psilocybe mexicana is the original species that launched the modern psychedelic 
 - **Stem**: 40-120 mm long by 1-3 mm thick, equal to narrowing towards base. Smooth, hollow. Straw yellow to brownish, darkening with age or injury.
 - **Veil**: Thinly fibrillose, whitish, leaving fibrillose remnants on upper stem.
 - **Flesh**: Reddish brown, bruising bluish where injured.
-- **Spore print**: Dark purplish brown to blackish purple brown.
+- **[[spore-print]]**: Dark purplish brown to blackish purple brown.
 - **Spores**: 8-9.9 (12) x 5.5-7.7 (8) micrometers, ellipsoid to subellipsoid.
 
 ## Potency
@@ -74,7 +74,7 @@ Interdisciplinary approaches have proven particularly valuable in advancing our 
 Applied work with psilocybe mexicana profile spans multiple contexts and scales, from small-scale operations to industrial applications.
 Successful implementation requires attention to site-specific conditions and adaptive management strategies.
 Practitioners benefit from integrating both empirical observations and systematic monitoring.
-Economic viability often depends on careful resource allocation and appropriate technology selection.
+Economic viability often depends on careful resource allocation and [[appropriate-technology]] selection.
 
 ## Future Directions
 

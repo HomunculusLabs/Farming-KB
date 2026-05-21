@@ -13,7 +13,7 @@ Winter gardening extends the growing season into the cold months using protectiv
 
 ## Cold Frames
 
-A cold frame is a bottomless box with a transparent lid (glass, polycarbonate, or plastic) that sits directly on the soil. It captures solar energy and creates a microclimate 10-20°F warmer than the outside temperature.
+A [[cold-frame]] is a bottomless box with a transparent lid (glass, polycarbonate, or plastic) that sits directly on the soil. It captures solar energy and creates a microclimate 10-20°F warmer than the outside temperature.
 
 ### Design and Construction
 
@@ -32,8 +32,8 @@ A cold frame is a bottomless box with a transparent lid (glass, polycarbonate, o
 
 ### Crops for Cold Frames
 
-- **Hardy**: Spinach, kale, mache (corn salad), claytonia, miner's lettuce, parsley, scallions
-- **Moderate**: Lettuce, arugula, radishes, beets, carrots, Asian greens (bok choy, tatsoi, mizuna)
+- **Hardy**: Spinach, kale, mache (corn salad), [[claytonia]], miner's lettuce, parsley, scallions
+- **Moderate**: Lettuce, [[arugula]], radishes, beets, carrots, Asian greens (bok choy, [[tatsoi]], [[mizuna]])
 - **Overwintering**: Garlic, shallots, onion sets planted in fall for spring harvest
 
 ## Row Covers
@@ -63,7 +63,7 @@ Row covers are lightweight, spun-bonded polyester or polypropylene fabrics drape
 - Row covers are most effective for low-growing crops (greens, root vegetables, strawberries)
 - Combined with mulch, row covers can provide significant winter protection
 - Row covers also exclude insect pests — useful for flea beetles on brassicas and cabbage maggots on root crops
-- See [[insectary-plantings]] and [[trap-cropping]] for integrated pest management
+- See [[insectary-plantings]] and [[trap-cropping]] for [[integrated-pest-management]]
 
 ## Low Tunnels
 
@@ -113,7 +113,7 @@ Some crops survive winter in the ground with minimal protection and are harveste
 
 ## Winter Mulching
 
-Mulch is the simplest winter protection. A deep layer of organic mulch insulates the soil and protects plant roots and crowns from freeze-thaw cycles.
+Mulch is the simplest winter protection. A deep layer of [[organic-mulch]] insulates the soil and protects plant roots and crowns from freeze-thaw cycles.
 
 ### Mulch Materials and Depths
 

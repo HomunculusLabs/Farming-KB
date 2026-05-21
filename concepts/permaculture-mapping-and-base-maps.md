@@ -16,7 +16,7 @@ sources:
 
 # Permaculture Mapping and Base Maps
 
-Mapping is the foundational design tool in permaculture. William Ozier Williams provides detailed guidance on creating and using base maps in his PDC, describing the base map as the starting point from which all analysis and design decisions flow.
+Mapping is the foundational design tool in [[permaculture]]. [[william-ozier-williams]] provides detailed guidance on creating and using base maps in his PDC, describing the base map as the starting point from which all analysis and design decisions flow.
 
 ## What Is a Base Map?
 
@@ -130,7 +130,7 @@ After mapping contours, chart surface water flow:
 - Observe the site during and after rain
 - Map where water flows, pools, and exits the property
 - Note infiltration rates in different areas
-- This data is essential for designing [[swale-construction-guide|swales]], [[permaculture-pond-and-water-garden|ponds]], and other water management features
+- This data is essential for designing [[swale-construction-guide|swales]], [[permaculture-pond-and-water-garden|ponds]], and other [[water-management]] features
 
 ## Scale Considerations
 

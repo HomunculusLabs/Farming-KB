@@ -11,7 +11,7 @@ sources:
 
 # KNF Indigenous Microorganism Culture (IMO)
 
-Indigenous Microorganisms (IMOs) are locally-sourced microorganisms cultured and multiplied for use in soil conditioning, compost making, and plant health. In Natural Farming, IMOs are the primary tool for building fertile, healthy soil.
+[[indigenous-microorganisms]] (IMOs) are locally-sourced microorganisms cultured and multiplied for use in soil conditioning, [[compost]] making, and plant health. In [[natural-farming]], IMOs are the primary tool for building fertile, healthy soil.
 
 ## Why Indigenous Microorganisms
 
@@ -48,7 +48,7 @@ Dr. Cho advocates collecting microorganisms from different areas (sunny, shaded,
 1. Fill wooden box 3/4 with steamed rice
 2. After paddy harvest, place box face-down on rice stumps
 3. Cover with wire net and plastic sheet
-4. In about 1 week, mostly anaerobic microorganisms collected (Bacillus licheniformis, Bacillus subtilis)
+4. In about 1 week, mostly anaerobic microorganisms collected (Bacillus licheniformis, [[bacillus-subtilis]])
 
 ### IMO-2: Expansion with Sugar
 
@@ -80,7 +80,7 @@ Mix IMO-1 with jaggery/brown sugar in 1:1 ratio by weight. Example: 1 kg jaggery
 2. **Maintain diversity** -- collect from all four directions, different environments, high mountains
 3. **Use the "tough guys"** -- samples from harsh environments contain resilient microorganisms
 4. **Apply to field 2-3 hours before sunset** to protect from UV radiation
-5. **Apply in small lumps** (not smashed) for rapid aggregated soil structure formation
+5. **Apply in small lumps** (not smashed) for rapid aggregated [[soil-structure-formation]]
 
 ## See Also
 

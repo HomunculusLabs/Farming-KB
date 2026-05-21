@@ -9,7 +9,7 @@ sources: []
 
 # Composting Toilet Systems
 
-Composting toilets treat human waste on-site through aerobic decomposition,
+[[composting-toilets]] treat human waste on-site through aerobic [[decomposition]],
 converting it into a safe, nutrient-rich soil amendment. They eliminate the
 need for conventional septic systems, reduce water consumption, and are a
 key component of off-grid sanitation infrastructure. This guide covers
@@ -17,7 +17,7 @@ system types, design, maintenance, and legal considerations.
 
 ## Why Composting Toilets
 
-- **Water conservation** — eliminates 20-30% of indoor water use (toilet
+- **[[water-conservation]]** — eliminates 20-30% of indoor water use (toilet
   flushing)
 - **Off-grid viability** — no water, septic, or sewer connection required
 - **Nutrient recovery** — returns nitrogen, phosphorus, and potassium to
@@ -31,7 +31,7 @@ system types, design, maintenance, and legal considerations.
 
 ### Self-Contained Units
 
-The toilet and composting chamber are a single unit installed directly in
+The toilet and [[composting]] chamber are a single unit installed directly in
 the bathroom. Waste is processed inside the unit.
 
 **Design:**
@@ -88,14 +88,14 @@ processed separately, dramatically improving composting efficiency.
 **How it works:**
 - The toilet bowl has two compartments: urine drains forward to a collection
   pipe or container; feces drop into a composting chamber behind
-- Bulking material (sawdust, peat moss, coconut coir) is added after each
+- Bulking material (sawdust, [[peat-moss]], coconut coir) is added after each
   feces deposit to cover and provide carbon
 - Urine is either diverted to a leach field, diluted for direct soil
   application (1:5-1:10 with water), or collected in a tank
 - Feces decompose aerobically in the composting chamber over 6-12 months
 
 **Advantages:**
-- Faster, cleaner composting — no excess liquid in the compost pile
+- Faster, cleaner composting — no excess liquid in the [[compost]] pile
 - Minimal odor when managed properly
 - Urine (diluted) is an excellent nitrogen fertilizer
 - Low cost — DIY versions can be built for $100-500

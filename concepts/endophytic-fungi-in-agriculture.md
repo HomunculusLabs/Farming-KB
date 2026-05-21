@@ -9,14 +9,14 @@ sources: []
 
 ## Overview
 
-Endophytic fungi live inside plant tissues without causing disease symptoms. These symbiotic relationships, found in virtually all plant species studied, can confer drought tolerance, pest resistance, disease resistance, and enhanced nutrient uptake to host plants. Agricultural research is increasingly focused on harnessing endophytes as alternatives to chemical inputs.
+[[endophytic-fungi]] live inside plant tissues without causing disease symptoms. These symbiotic relationships, found in virtually all plant species studied, can confer drought tolerance, pest resistance, disease resistance, and enhanced nutrient uptake to host plants. Agricultural research is increasingly focused on harnessing endophytes as alternatives to chemical inputs.
 
 ## Types of Endophytic Fungi
 
 ### Clavicipitaceous Endophytes (Class 1)
 - Primarily infect grasses (Poaceae family)
 - Systemic infections transmitted through seeds (vertical transmission)
-- Include genera Epichloe, Neotyphodium, and Balansia
+- Include genera [[epichloe]], [[neotyphodium]], and [[balansia]]
 - Can produce alkaloid toxins that deter herbivores
 - Some cause livestock toxicity (ergot alkaloids, lolines, peramine)
 
@@ -57,7 +57,7 @@ Endophytic fungi live inside plant tissues without causing disease symptoms. The
 - Regulation of stomatal conductance
 - Maintenance of membrane stability under water stress
 - Production of antioxidants that reduce drought-induced oxidative damage
-- Dark septate endophytes particularly effective for drought tolerance
+- [[dark-septate-endophytes]] particularly effective for drought tolerance
 
 ### Nutrient Enhancement
 - Biological nitrogen fixation by some endophytic species
@@ -118,10 +118,10 @@ One of the most studied agricultural endophytes:
 - Cost-effective for large-scale agriculture
 
 ### Seed Soaking
-- Seeds immersed in endophyte suspension (liquid culture or spore suspension)
+- Seeds immersed in endophyte suspension ([[liquid-culture]] or spore suspension)
 - Simple and inexpensive
 - Shorter shelf life than coating
-- Effective for Piriformospora indica and Serendipita indica
+- Effective for [[piriformospora-indica]] and Serendipita indica
 
 ### Soil Drench
 - Liquid endophyte suspension applied to soil around seedlings

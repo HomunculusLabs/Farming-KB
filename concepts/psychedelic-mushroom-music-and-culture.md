@@ -17,7 +17,7 @@ Magic mushrooms played a vital supporting role in the psychedelic revolution of 
 ## The 1960s Psychedelic Revolution
 
 When psychedelia went mainstream during the mid-1960s, magic mushrooms were swept up in the movement. Key cultural moments included:
-- **Timothy Leary** first tried mushrooms in August 1960 in Cuernavaca, Mexico, after reading Wasson's LIFE article through his colleague Frank Barron. Within five years he had become the "Acid guru" -- though his journey began with psilocybin mushrooms.
+- **[[timothy-leary]]** first tried mushrooms in August 1960 in Cuernavaca, Mexico, after reading Wasson's LIFE article through his colleague Frank Barron. Within five years he had become the "Acid guru" -- though his journey began with [[psilocybin-mushrooms]].
 - **San Francisco and Haight-Ashbury**: The epicenter of 1960s counterculture with its love-ins, be-ins, and the Grateful Dead.
 - **British scene**: London's "happenings," the "Fourteen Hour Technicolor Dream," clubs like UFO and Middle Earth, underground papers Oz and International Times.
 - **Mexico's La Onda**: An urban counterculture modeled upon the American hippie movement, with many hippies traveling to Huautla.
@@ -75,7 +75,7 @@ Longitudinal studies provide increasingly robust data for evidence-based decisio
 Applied work with psychedelic mushroom music and culture spans multiple contexts and scales, from small-scale operations to industrial applications.
 Successful implementation requires attention to site-specific conditions and adaptive management strategies.
 Practitioners benefit from integrating both empirical observations and systematic monitoring protocols.
-Economic viability often depends on careful resource allocation and appropriate technology selection.
+Economic viability often depends on careful resource allocation and [[appropriate-technology]] selection.
 Safety considerations and regulatory compliance are essential components of responsible practice.
 
 ## Future Directions

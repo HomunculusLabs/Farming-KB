@@ -79,7 +79,7 @@ effective and economical than treatment.
 ### External Parasites
 - **Northern Fowl Mite:** Most common external parasite. Small dark mites
   on feathers around vent. Causes anemia, reduced egg production.
-  Treatment: permethrin dust, diatomaceous earth, poultry sprays.
+  Treatment: permethrin dust, [[diatomaceous-earth]], poultry sprays.
 - **Scaly Leg Mite:** Burrows under leg scales. Raised, crusty scales.
   Treatment: petroleum jelly or vegetable oil on legs (suffocates mites).
   Repeat every 3 days for 2-3 weeks.
@@ -95,7 +95,7 @@ effective and economical than treatment.
 - **Roundworms (Ascaridia galli):** Most common. Intestinal worms causing
   weight loss, diarrhea, reduced production. Treat with fenbendazole
   (SafeGuard) or ivermectin.
-- **Tapeworms:** Require intermediate hosts (earthworms, beetles). Segments
+- **Tapeworms:** Require intermediate hosts ([[earthworms]], beetles). Segments
   visible in droppings. Treat with praziquantel.
 - **Capillaria (Threadworms):** Small, hard to see. Causes diarrhea and
   weight loss. Treat with fenbendazole.

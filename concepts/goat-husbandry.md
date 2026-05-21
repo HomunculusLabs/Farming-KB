@@ -43,7 +43,7 @@ make them both rewarding and occasionally challenging to keep.
 Goats detest rain and wind. Dry shelter is non-negotiable.
 
 - Minimum 15-20 sq ft per goat indoors, plus 30+ sq ft outdoor per animal.
-- Bed with deep straw or wood shavings; clean weekly, add carbon to compost.
+- Bed with deep straw or wood shavings; clean weekly, add carbon to [[compost]].
 - Ventilation is critical — ammonia buildup causes respiratory illness. Avoid
   drafts at animal level but allow air exchange at the roofline.
 - Provide sturdy, level sleeping platforms. Goats prefer to be off the ground.
@@ -106,7 +106,7 @@ plants over grass.
 - Use sharp hoof shears. Trim to the level of the frog.
 
 ### Vaccinations
-- CD&T (Clostridium perfringens types C & D + tetanus) — core vaccine.
+- CD&T ([[clostridium]] perfringens types C & D + tetanus) — core vaccine.
   Give to does 4 weeks pre-kidding, kids at 6-8 weeks with booster at 10-12
   weeks.
 - Consider caseous lymphadenitis (CL) and pneumonia vaccines based on local

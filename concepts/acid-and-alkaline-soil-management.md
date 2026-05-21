@@ -29,7 +29,7 @@ This is done by adding lime. The effect is slow — do not expect dramatic chang
 
 1. **Slaked lime (calcium oxide):** Most readily available; sometimes sold as "garden lime." Lasts longer than builder's lime.
 2. **Hydrated lime (builder's lime):** Works perfectly well but must be replaced at least annually.
-3. **Ground limestone (Dolomite lime):** Best type to use. More expensive but lasts several years in the soil and contains magnesium.
+3. **Ground limestone ([[dolomite]] lime):** Best type to use. More expensive but lasts several years in the soil and contains magnesium.
 4. **Calcified seaweed:** Contains several plant foods as well as lime; lasts 2-3 years; reasonably priced. (Note: harvesting natural coral is now illegal; replaced by a similar seaweed-based material.)
 
 ### How Much Lime to Apply
@@ -58,7 +58,7 @@ Adding lime to heavy clay soils helps bind particles together through a process 
 This is more difficult than raising pH. Few garden soils are so limy they will not grow vegetables at all.
 
 ### For Vegetable Gardens
-- Liberal doses of compost and manure will usually lower pH sufficiently
+- Liberal doses of [[compost]] and manure will usually lower pH sufficiently
 - For very chalky soil: use the deep-bed system (see [[garden-bed-preparation]]) to raise the growing area, preventing surrounding alkaline water from draining in
 - Treat beds with heavy annual applications of organic matter (manure/compost dug in) and regular mulches
 
@@ -75,6 +75,6 @@ The only option is growing them in pots or building a raised bed (ideally of rai
 
 - [[trace-elements-in-soil]] — how excessive lime locks up trace elements
 - [[clubroot-disease-management]] — lime helps control clubroot
-- [[soil-conditioners-guide]] — organic materials that help modify soil pH
+- [[soil-conditioners-guide]] — organic materials that help modify [[soil-ph]]
 Further research into acid and alkaline soil management continues to reveal new applications and ecological relationships.
 Understanding the fundamental principles behind acid and alkaline soil management provides a foundation for both practical application and continued scientific inquiry.

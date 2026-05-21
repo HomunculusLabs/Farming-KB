@@ -67,12 +67,12 @@ The cornerstone of pastured egg production is the mobile coop -- a shelter that 
 ## Breed Selection
 
 ### Top Pasture Breeds
-- Rhode Island Red: hardy, good layers (250-300 eggs/year), brown eggs
+- [[rhode-island-red]]: hardy, good layers (250-300 eggs/year), brown eggs
 - Sussex: excellent foragers, calm, 250+ eggs/year, dual purpose
 - Plymouth Rock (Barred Rock): cold-hardy, good layers, friendly, 200-280 eggs/year
 - Wyandotte: cold-hardy, beautiful, 200-250 eggs/year, good foragers
 - Orpington: docile, cold-hardy, good mothers, 200-280 eggs/year
-- Australorp: record layers, calm, heat-tolerant, 250-300 eggs/year
+- [[australorp]]: record layers, calm, heat-tolerant, 250-300 eggs/year
 - Easter Egger (Ameraucana crosses): blue/green eggs (marketing advantage), 200-250/year
 - Heritage breeds: slower laying but better foragers and longer productive life
 
@@ -86,7 +86,7 @@ The cornerstone of pastured egg production is the mobile coop -- a shelter that 
 ### Yolk Color
 - Deep orange yolks indicate high xanthophyll intake (grass, forage, bugs)
 - Pale yellow yolks = confinement diet, corn-heavy
-- Supplement with alfalfa meal, kale, marigold petals for color
+- Supplement with [[alfalfa-meal]], kale, marigold petals for color
 - Pastured eggs naturally achieve deep color without supplements
 
 ### Nutritional Differences

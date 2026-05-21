@@ -13,17 +13,17 @@ sources:
 
 ## Overview
 
-The question of whether psychoactive mushrooms -- specifically Amanita muscaria -- were the identity of Soma, the sacred substance of Vedic religion, is one of the most contested debates in the history of entheogenic scholarship. The debate involves multiple scholars, spans decades, and raises fundamental questions about the role of psychoactive plants in ancient religion.
+The question of whether psychoactive mushrooms -- specifically [[amanita-muscaria]] -- were the identity of Soma, the sacred substance of Vedic religion, is one of the most contested debates in the history of entheogenic scholarship. The debate involves multiple scholars, spans decades, and raises fundamental questions about the role of psychoactive plants in ancient religion.
 
 ## Wasson's Soma Theory
 
-R. Gordon Wasson proposed that Soma, the divine substance praised in the Rig Veda (composed c. 1500 BCE), was the fly-agaric mushroom, Amanita muscaria. He argued that the botanical descriptions in the Vedic hymns matched the mushroom's characteristics: it is described as growing in the mountains, being without leaves or blossoms, having a red appearance, and being pressed or filtered to produce a golden-yellow liquid.
+R. [[gordon-wasson]] proposed that Soma, the divine substance praised in the [[rig-veda]] (composed c. 1500 BCE), was the fly-agaric mushroom, [[amanita]] muscaria. He argued that the botanical descriptions in the Vedic hymns matched the mushroom's characteristics: it is described as growing in the mountains, being without leaves or blossoms, having a red appearance, and being pressed or filtered to produce a golden-yellow liquid.
 
 Wasson's theory was first published in his 1968 book "Soma: Divine Mushroom of Immortality." He drew on the work of earlier scholars, fieldwork among Siberian peoples who used Amanita muscaria ritually, and extensive linguistic analysis of Vedic Sanskrit. Wasson also believed that the knowledge of the sacred mushroom spread from India back to the West, influencing Greek, Celtic, and ultimately Christian religious practices.
 
 ## Allegro's Extended Thesis
 
-John Allegro, a Dead Sea Scrolls scholar, extended the mushroom hypothesis far beyond Wasson's comparatively cautious claims. In "The Sacred Mushroom and the Cross" (1970), Allegro argued that Judaism and Christianity were themselves fertility cults centered on the worship of the Amanita muscaria mushroom. He claimed to find encoded mushroom references throughout the Bible, the Dead Sea Scrolls, and other ancient Near Eastern texts through comparative philology.
+[[john-allegro]], a Dead Sea Scrolls scholar, extended the mushroom hypothesis far beyond Wasson's comparatively cautious claims. In "The [[sacred-mushroom-and-the-cross]]" (1970), Allegro argued that Judaism and Christianity were themselves fertility cults centered on the worship of the Amanita muscaria mushroom. He claimed to find encoded mushroom references throughout the Bible, the Dead Sea Scrolls, and other ancient Near Eastern texts through comparative philology.
 
 Allegro identified the mushroom as "the key to heaven -- the sacred mushroom" and argued that "the fungus recognized today as the Amanita muscaria, or Fly-Agaric" was the original object of worship. He traced what he saw as a continuous tradition from ancient Sumerian religion through the cult of Soma in India (which he dated to "some 3,500" years ago) into early Christianity.
 
@@ -73,7 +73,7 @@ Longitudinal studies provide increasingly robust data for evidence-based decisio
 Applied work with soma and the sacred mushroom debate spans multiple contexts and scales, from small-scale operations to industrial applications.
 Successful implementation requires attention to site-specific conditions and adaptive management strategies.
 Practitioners benefit from integrating both empirical observations and systematic monitoring protocols.
-Economic viability often depends on careful resource allocation and appropriate technology selection.
+Economic viability often depends on careful resource allocation and [[appropriate-technology]] selection.
 Safety considerations and regulatory compliance are essential components of responsible practice.
 
 ## Future Directions

@@ -7,7 +7,7 @@ tags: [cannabis, potency, indoor, flowering, biology, chemistry, plant-growth, m
 sources: []
 ---
 # Cannabis Terpene Profile
-Terpenes are aromatic organic compounds found in many plants, including cannabis. They are responsible for the distinctive smells, flavors, and many of the nuanced effects associated with different cannabis strains. The entourage effect — the theory that cannabinoids and terpenes work synergistically — makes terpene knowledge essential for both cultivators and consumers.
+[[terpenes]] are aromatic organic compounds found in many plants, including cannabis. They are responsible for the distinctive smells, flavors, and many of the nuanced effects associated with different cannabis strains. The entourage effect — the theory that cannabinoids and terpenes work synergistically — makes terpene knowledge essential for both cultivators and consumers.
 ## What Are Terpenes?
 
 Terpenes (or terpenoids when modified) are a large class of volatile aromatic hydrocarbons produced by plants. They serve various ecological functions:
@@ -18,7 +18,7 @@ Terpenes (or terpenoids when modified) are a large class of volatile aromatic hy
 - Antimicrobial and antifungal properties
 - Communication between plants (airborne signaling)
 
-In cannabis, terpenes are synthesized in the same glandular trichomes that produce cannabinoids. The terpene profile of a given plant is determined primarily by genetics but is also influenced by growing conditions, harvest timing, and post-harvest handling.
+In cannabis, terpenes are synthesized in the same glandular [[trichomes]] that produce cannabinoids. The terpene profile of a given plant is determined primarily by genetics but is also influenced by growing conditions, harvest timing, and post-harvest handling.
 
 ## Major Cannabis Terpenes
 
@@ -28,7 +28,7 @@ The most abundant terpene in most cannabis varieties, typically comprising 50% o
 
 - Aroma: earthy, musky, herbal, slightly fruity (mango, clove)
 - Effects: sedative, relaxing, muscle relaxant. Enhances THC absorption across the blood-brain barrier
-- Strain associations: indicas and indica-dominant hybrids tend to be myrcene-dominant
+- Strain associations: indicas and indica-dominant hybrids tend to be [[myrcene]]-dominant
 - Also found in: mango, hops, lemongrass, thyme, bay leaf
 - Boiling point: 332°F (167°C)
 - Notes: Myrcene content above 0.5% is generally considered sedative. Mango contains high myrcene — the folk wisdom of eating mango before consuming cannabis has some biochemical basis
@@ -42,11 +42,11 @@ The second most common cannabis terpene, immediately recognizable by its citrus 
 - Strain associations: sativa-dominant strains, "sour" and "lemon" named varieties
 - Also found in: citrus rinds, juniper, peppermint, rosemary
 - Boiling point: 349°F (176°C)
-- Notes: Limonene has been studied for anti-depressant and anti-anxiety effects. It also enhances absorption of other terpenes and compounds through cell membranes
+- Notes: [[limonene]] has been studied for anti-depressant and anti-anxiety effects. It also enhances absorption of other terpenes and compounds through cell membranes
 
 ### Pinene (Alpha and Beta)
 
-Pinene comes in two forms: alpha-pinene (pine needle scent) and beta-pinene (slightly sweeter, more herbal). Together they are among the most common terpenes in nature.
+[[pinene]] comes in two forms: alpha-pinene (pine needle scent) and beta-pinene (slightly sweeter, more herbal). Together they are among the most common terpenes in nature.
 
 - Aroma: pine, fir, earthy, woody, slightly spicy
 - Effects: alertness, memory retention, focus. Counters THC-induced short-term memory impairment
@@ -64,7 +64,7 @@ A floral terpene with well-documented calming and sedative properties.
 - Strain associations: relaxing indicas, lavender-scented strains
 - Also found in: lavender, birch bark, coriander, rosewood
 - Boiling point: 388°F (198°C)
-- Notes: Linalool is the primary terpene responsible for lavender's well-known calming effects. It has been studied for anti-convulsant, anti-depressant, and anti-anxiety properties
+- Notes: [[linalool]] is the primary terpene responsible for lavender's well-known calming effects. It has been studied for anti-convulsant, anti-depressant, and anti-anxiety properties
 
 ### Beta-Caryophyllene
 
@@ -79,7 +79,7 @@ Unique among terpenes because it also acts as a dietary cannabinoid — it direc
 
 ### Humulene
 
-An earthy, woody terpene also prominent in hops (Humulus lupulus).
+An earthy, woody terpene also prominent in hops ([[humulus-lupulus]]).
 
 - Aroma: earthy, woody, spicy, slightly herbal (hops, coriander)
 - Effects: appetite suppressant, anti-inflammatory, pain relief

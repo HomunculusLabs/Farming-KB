@@ -22,11 +22,11 @@ Methods of humidification include:
 - Evaporative cooling pads ("swamp cooler" principle)
 
 ### Fresh Air Exchange (FAE)
-Carbon dioxide levels directly affect mushroom formation. High CO2 during spawn running promotes mycelial growth; low CO2 triggers fruiting. Air changes per hour: 4-6 for Agaricus brunnescens, 2-3 for Psilocybe cubensis.
+Carbon dioxide levels directly affect mushroom formation. High CO2 during spawn running promotes mycelial growth; low CO2 triggers fruiting. Air changes per hour: 4-6 for [[agaricus-brunnescens]], 2-3 for [[psilocybe-cubensis]].
 
 Fan sizing formula: X = (4 air exchanges/hour * Y cubic feet free air space) / 60 minutes. For an 8x8x15 ft room with 800 cu ft free air space: X = 53.3 CFM.
 
-The air-to-bed ratio (cubic feet free air space / square feet cropping surface) should be approximately 5:1 for compost-based growing, or as low as 4:1 for thin grain layers.
+The air-to-bed ratio (cubic feet free air space / square feet cropping surface) should be approximately 5:1 for [[compost]]-based growing, or as low as 4:1 for thin grain layers.
 
 ### Temperature
 Each species has specific temperature requirements for fruiting. Temperature affects metabolic rate, CO2 production, and moisture loss. Heating can be dry (hot water coils, baseboard electric) or live steam. Cooling is best achieved through fresh air exchange, taking advantage of cooler night temperatures.
@@ -70,7 +70,7 @@ Interdisciplinary approaches have proven particularly valuable in advancing our 
 Applied work with mushroom cultivation fruiting chambers spans multiple contexts and scales, from small-scale operations to industrial applications.
 Successful implementation requires attention to site-specific conditions and adaptive management strategies.
 Practitioners benefit from integrating both empirical observations and systematic monitoring.
-Economic viability often depends on careful resource allocation and appropriate technology selection.
+Economic viability often depends on careful resource allocation and [[appropriate-technology]] selection.
 
 ## Future Directions
 

@@ -33,16 +33,16 @@ sources:
 
 # Fungal Research Compound Reference
 
-Research summary of psilocybin-related fungal biology compiled from published papers. See [[mushroom-growing-reference]] for cultivation applications and [[psychedelic-compounds-reference]] for pharmacology.
+Research summary of [[psilocybin]]-related fungal biology compiled from published papers. See [[mushroom-growing-reference]] for cultivation applications and [[psychedelic-compounds-reference]] for pharmacology.
 
 ## Metabolic Pathway of Psilocybin Biosynthesis
 
 Psilocybin is produced via the Shikimate pathway in fungal cytosol:
 
 1. **Shikimate pathway**: Phosphoenolpyruvate + eryrose-4-P -> chorismate (via 7 enzymatic steps)
-2. **Tryptophan branch**: Chorismate -> anthranilate -> tryptophan (via 6 steps)
-3. **Decarboxylation**: Tryptophan -> tryptamine (via tryptophan decarboxylase — this step is self-regulated)
-4. **Hydroxylation + methylation**: Tryptamine -> psilocin -> psilocybin (exact intermediates still unclear; baeocystin and norbaeocystin are produced as phosphorylated intermediates)
+2. **[[tryptophan]] branch**: Chorismate -> anthranilate -> tryptophan (via 6 steps)
+3. **[[decarboxylation]]**: Tryptophan -> [[tryptamine]] (via [[tryptophan-decarboxylase]] — this step is self-regulated)
+4. **Hydroxylation + methylation**: Tryptamine -> [[psilocin]] -> psilocybin (exact intermediates still unclear; baeocystin and norbaeocystin are produced as phosphorylated intermediates)
 
 ### Tryptophan Decarboxylase Inhibition
 
@@ -94,7 +94,7 @@ Key findings: Psilocin absent in first 1-2 flushes, peaks at flush 4. Psilocybin
 
 ## P. azurescens Alkaloid Profile (Gartz 1995)
 
-Highest known alkaloid concentrations of any psilocybin mushroom:
+Highest known alkaloid concentrations of any [[psilocybin-mushroom]]:
 
 | Sample | Psilocybin (%) | Psilocin (%) | Baeocystin (%) |
 |--------|---------------|-------------|----------------|

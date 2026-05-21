@@ -16,14 +16,14 @@ Blueberries are long-lived perennial shrubs that produce delicious, antioxidant-
 Blueberries require acidic soil with a pH of 4.5-5.5. This is their most critical growing requirement and the most common reason for failure.
 
 ### Testing and Targeting pH
-- Test soil pH before planting — most garden soils are too alkaline (pH 6.0-7.5)
+- Test [[soil-ph]] before planting — most garden soils are too alkaline (pH 6.0-7.5)
 - Target pH 4.5-5.0 for optimal growth and nutrient uptake
-- At higher pH, blueberries develop iron chlorosis (yellowing leaves with green veins) and fail to thrive
+- At higher pH, blueberries develop iron [[chlorosis]] (yellowing leaves with green veins) and fail to thrive
 - Test annually — pH tends to drift upward over time
 
 ### Lowering Soil pH
 - **Elemental sulfur**: Most effective; 1-2 lbs per 100 sq ft in sandy soil, 5-6 lbs in clay. Apply 3-6 months before planting
-- **Peat moss**: Mix 2-4 inches into planting hole; naturally acidic (pH 3.5-4.5)
+- **[[peat-moss]]**: Mix 2-4 inches into planting hole; naturally acidic (pH 3.5-4.5)
 - **Pine needles and bark**: Acidic mulch that slowly lowers pH
 - **Ferrous sulfate**: Lowers pH and adds iron — useful for correcting chlorosis
 - Avoid aluminum sulfate (toxic buildup) and lime/ash near blueberries

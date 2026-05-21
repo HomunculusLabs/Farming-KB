@@ -9,11 +9,11 @@ sources: []
 
 # Cob Building Basics Detailed
 
-Cob is a natural building material made from subsoil, sand, straw, and water. Mixed by foot on a tarp and applied in thick layers by hand, cob creates monolithic walls that are sculptural, incredibly durable, and made from materials found on most homestead sites. Cob buildings have survived for hundreds of years in England, Yemen, and other regions with wet climates.
+Cob is a [[natural-building]] material made from subsoil, sand, straw, and water. Mixed by foot on a tarp and applied in thick layers by hand, cob creates monolithic walls that are sculptural, incredibly durable, and made from materials found on most homestead sites. Cob buildings have survived for hundreds of years in England, Yemen, and other regions with wet climates.
 
 ## What Is Cob
 
-Cob (from Old English "cumb" meaning lump or mass) is an ancient building technique where a wet mixture of earth, sand, and straw is sculpted into walls. Unlike adobe (formed into bricks and dried) or rammed earth (compacted in forms), cob is built up in layers while wet, creating a continuous monolithic structure with no mortar joints.
+Cob (from Old English "cumb" meaning lump or mass) is an ancient building technique where a wet mixture of earth, sand, and straw is sculpted into walls. Unlike adobe (formed into bricks and dried) or [[rammed-earth]] (compacted in forms), cob is built up in layers while wet, creating a continuous monolithic structure with no mortar joints.
 
 ## Cob Mix Ratio
 
@@ -52,7 +52,7 @@ The ideal cob mix contains approximately:
 
 1. Spread a tarp on flat ground
 2. Spread a layer of sand (2-3 buckets)
-3. Spread a layer of clay soil (2-3 buckets) on top
+3. Spread a layer of [[clay-soil]] (2-3 buckets) on top
 4. Fold tarp edges over and stomp with bare feet
 5. Add water gradually while stomping
 6. When ingredients are combined, spread flat

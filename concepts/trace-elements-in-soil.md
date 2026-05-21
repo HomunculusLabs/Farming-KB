@@ -11,7 +11,7 @@ sources: [raw/papers/hamilton-geoffhamilton-nick_-organic-gardening.md]
 
 ## Overview
 
-Trace elements are called so because they are needed in very small quantities, yet they are vital to plant growth. Six are considered of major importance: iron, zinc, copper, manganese, boron, and molybdenum. In a properly managed organic garden, deficiencies are extremely rare because all trace elements are present in manure, compost, and other bulky organic matter.
+Trace elements are called so because they are needed in very small quantities, yet they are vital to plant growth. Six are considered of major importance: iron, zinc, copper, manganese, boron, and molybdenum. In a properly managed organic garden, deficiencies are extremely rare because all trace elements are present in manure, [[compost]], and other bulky organic matter.
 
 ## The Alkalinity Problem
 
@@ -26,7 +26,7 @@ The primary cause of trace element deficiency is not absence of the element but 
 - **Treatment:** Spray with liquid kelp, then apply kelp meal and/or manure to the soil
 
 ### Zinc and Copper
-- **Role:** Both are enzyme activators; deficiency of either produces the same symptoms
+- **Role:** Both are [[enzyme]] activators; deficiency of either produces the same symptoms
 - **Deficiency symptoms:** Younger leaves are mottled yellow; citrus trees develop "little leaf"
 - **Treatment:** Apply kelp meal, well-rotted manure, or compost
 
@@ -60,7 +60,7 @@ The best treatment for trace-element deficiencies is to prevent them from occurr
 
 - [[kelp-meal-fertilizer]] — primary organic source of trace elements (60-70 elements)
 - [[homemade-liquid-fertilizer]] — liquid kelp for foliar treatment of deficiencies
-- [[acid-and-alkaline-soil-management]] — managing soil pH to prevent trace element lockup
+- [[acid-and-alkaline-soil-management]] — managing [[soil-ph]] to prevent trace element lockup
 ## Historical Context
 
 The study and practice of trace elements in soil has evolved significantly over time, incorporating both traditional knowledge and modern scientific understanding.

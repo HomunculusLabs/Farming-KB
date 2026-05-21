@@ -39,7 +39,7 @@ Crossbreeding: Berkshire x Duroc or Tamworth x Berkshire crosses combine fast gr
 Pigs are omnivores and will consume a wide variety of forage:
 
 ### Permanent Pasture Species
-- White clover, red clover, alfalfa (high protein)
+- White clover, [[red-clover]], alfalfa (high protein)
 - Orchardgrass, ryegrass, fescue
 - Chicory (deep-rooted, drought-tolerant, high mineral content)
 - Plantain (broadleaf, palatable, mineral-rich)
@@ -49,7 +49,7 @@ Pigs are omnivores and will consume a wide variety of forage:
 - Cowpeas and soybeans for summer protein
 - Turnips and radishes for fall/winter root crops
 - Field peas (spring planting)
-- Sorghum-sudangrass for summer bulk
+- Sorghum-[[sudangrass]] for summer bulk
 
 ### Supplemental Forage
 - Pumpkins and squash: excellent fall feed, pigs eat entire fruit
@@ -98,7 +98,7 @@ Ideal slaughter weight: 240-280 lbs live (175-200 lbs hanging weight).
 - Shelter: simple 3-sided hoop house or A-frame, 8x10 ft minimum per 3-4 pigs
 - Water: nipple waterers or heavy rubber tubs (they'll tip lightweight ones)
 - Wallows: pigs need access to mud in summer for cooling and sun protection
-- Winter: deep bedding (straw, hay) in shelter -- pigs will compost it themselves
+- Winter: deep bedding (straw, hay) in shelter -- pigs will [[compost]] it themselves
 
 ## Pasture Rotation
 
@@ -143,7 +143,7 @@ Average yield from 250 lb live pig:
 ### Profitability
 - Net profit per pig (retail): $200-600
 - Selling live: $50-150 profit (thin margins)
-- Key is direct marketing -- see farmers market selling guide
+- Key is direct marketing -- see [[farmers-market-selling-guide]]
 - Annual production of 6-10 pigs can generate $2,000-6,000 net income
 
 ## Health Considerations

@@ -24,7 +24,7 @@ sources:
 
 # Lactic Acid Bacteria (LAB) — KNF Preparation
 
-LAB is a core KNF input collected from the local environment via rice wash and multiplied through milk fermentation. LAB are conditionally anaerobic, heat-resistant, and function as strong sterilizers. They improve soil ventilation, solubilize phosphates, accelerate root growth, and enhance initial plant establishment. See also lactic acid bacteria lab for cannabis-specific LABS research.
+LAB is a core KNF input collected from the local environment via rice wash and multiplied through milk fermentation. LAB are conditionally anaerobic, heat-resistant, and function as strong sterilizers. They improve soil ventilation, solubilize phosphates, accelerate root growth, and enhance initial plant establishment. See also [[lactic-acid-bacteria]] lab for cannabis-specific LABS research.
 
 ## What LAB Does
 
@@ -33,7 +33,7 @@ LAB is a core KNF input collected from the local environment via rice wash and m
 - Accelerates root growth during transplanting
 - Enhances initial growth of seedlings
 - Increases solubility of fertilizers
-- Neutralizes ammonia gas from immature compost
+- Neutralizes ammonia gas from immature [[compost]]
 - Adjusts plant fluids during rainy season, increasing disease tolerance
 - Extends storage life of fruiting vegetables
 - When over-applied, decreases fruit sweetness and makes leaves/fruits overly large

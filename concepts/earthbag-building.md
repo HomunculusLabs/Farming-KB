@@ -9,7 +9,7 @@ sources: []
 
 # Earthbag Building
 
-Earthbag construction uses polypropylene sandbags filled with subsoil to build walls, domes, and vaults. Developed by architect Nader Khalili in the 1990s, this technique is extremely affordable, requires minimal tools, and produces structures that are resistant to earthquakes, floods, hurricanes, and fire. Earthbag building is one of the most accessible natural building methods for homesteaders.
+[[earthbag-construction]] uses polypropylene sandbags filled with subsoil to build walls, domes, and vaults. Developed by architect Nader Khalili in the 1990s, this technique is extremely affordable, requires minimal tools, and produces structures that are resistant to earthquakes, floods, hurricanes, and fire. Earthbag building is one of the most accessible [[natural-building]] methods for homesteaders.
 
 ## Core Advantages
 

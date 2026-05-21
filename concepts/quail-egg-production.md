@@ -54,7 +54,7 @@ Light drives quail egg production. Coturnix quail require 14-16 hours of light p
 -  **Natural light** — Adequate during spring and summer at most latitudes. Production drops in fall as day length decreases.
 -  **Supplemental light** — Use a timer to ensure 16 hours of total light per day year-round. A 7-15 watt LED bulb per cage unit is sufficient. Light intensity of 20-30 lux at bird level is adequate.
 -  **Light placement** — Above and slightly forward of the cage. Avoid glare.
--  **Lighting schedule** — Set the timer so supplemental light comes on in the early morning (before dawn) rather than extending evening light. This matches the birds' natural circadian rhythm.
+-  **Lighting schedule** — Set the timer so supplemental light comes on in the early morning (before dawn) rather than extending evening light. This matches the birds' natural [[circadian-rhythm]].
 -  **Dark period** — Never provide continuous light. Quail need 8 hours of darkness for rest and reproductive hormone cycling.
 
 ## Feeding
@@ -134,7 +134,7 @@ Maintain 1 male per 3-5 females for fertile eggs. Remove excess males to reduce 
 - **Coccidiosis** — Most common quail disease. Prevent with clean, dry conditions and avoid overcrowding. Medicated feed (amprolium) is available for prevention.
 - **Ulcerative enteritis** — Bacterial infection causing sudden mortality. Maintain clean waterers and feeders.
 - **Cannibalism** — Triggered by overcrowding, bright light, nutritional deficiency, or boredom. Reduce light intensity, provide hiding spots, and ensure adequate protein and space.
-- **External parasites** — Mites and lice. Treat with diatomaceous earth in dust baths or permethrin spray on housing (not on birds).
+- **External parasites** — Mites and lice. Treat with [[diatomaceous-earth]] in dust baths or permethrin spray on housing (not on birds).
 - **Biosecurity** — Keep wild birds away from the quail area. Quarantine new birds for 2 weeks before introducing to the flock.
 
 Quail production pairs well with [[chickshaw-and-poultry-tractors|poultry tractor]] systems — quail can be housed in mobile units for limited foraging, or their manure can be composted for garden use. Processing facilities for [[rabbit-processing-guide|other small livestock]] can sometimes be adapted for quail meat production as well.

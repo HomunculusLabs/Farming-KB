@@ -13,7 +13,7 @@ sources: []
 
 Chamomile is one of the most ancient and widely used medicinal herbs, prized
 for its calming, anti-inflammatory, and digestive properties. Two species are
-primarily cultivated: German chamomile (Matricaria chamomilla, syn. M.
+primarily cultivated: German chamomile ([[matricaria-chamomilla]], syn. M.
 recutita) and Roman chamomile (Chamaemelum nobile). While they share many
 medicinal qualities, they differ significantly in growth habit, cultivation
 requirements, and ideal uses.
@@ -36,7 +36,7 @@ requirements, and ideal uses.
 ## Medicinal Uses
 
 Both species contain similar active compounds: chamazulene (anti-inflammatory),
-apigenin (sedative, anxiolytic), bisabolol (anti-inflammatory, anti-microbial),
+[[apigenin]] (sedative, anxiolytic), [[bisabolol]] (anti-inflammatory, anti-microbial),
 and flavonoids.
 
 Primary applications:
@@ -139,7 +139,7 @@ For both species:
   media and avoid overwatering.
 - Aphids: Occasionally appear on flower buds; spray with water or insecticidal
   soap.
-- Powdery mildew: Improve air circulation around plants.
+- [[powdery-mildew]]: Improve air circulation around plants.
 - Leggy growth: Indicates too much shade or excessive nitrogen.
 
 ## Companion Planting

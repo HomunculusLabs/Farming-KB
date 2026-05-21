@@ -9,7 +9,7 @@ sources: [raw/papers/symbiotic-fungi.md]
 
 # Mycorrhizal Networks (Common Mycelial Network)
 
-The "Wood Wide Web" — mycorrhizal networks connect individual plants into an underground network through shared fungal hyphae. Through these networks, plants can transfer carbon, nutrients, water, and chemical signals between individuals, including between different species. This is one of the most significant ecological discoveries of recent decades.
+The "[[wood-wide-web]]" — [[mycorrhizal-networks]] connect individual plants into an underground network through shared [[fungal-hyphae]]. Through these networks, plants can transfer carbon, nutrients, water, and chemical signals between individuals, including between different species. This is one of the most significant ecological discoveries of recent decades.
 
 ## How Networks Form
 
@@ -30,7 +30,7 @@ The "Wood Wide Web" — mycorrhizal networks connect individual plants into an u
 ### Carbon Transfer
 - Carbon moves from larger, sun-exposed plants to shaded seedlings
 - "Nurse trees" transfer carbon to understory seedlings
-- Mother trees preferentially feed their own offspring (kin recognition demonstrated in Douglas fir)
+- Mother trees preferentially feed their own offspring (kin recognition demonstrated in [[douglas-fir]])
 - Carbon can flow both directions depending on source-sink relationships
 
 ### Nutrient Transfer
@@ -74,12 +74,12 @@ The "Wood Wide Web" — mycorrhizal networks connect individual plants into an u
 
 ### Physical Disturbance
 - Tilling severs hyphal connections (network destroyed in minutes)
-- Soil compaction crushes hyphae
+- [[soil-compaction]] crushes hyphae
 - Excavation removes network entirely
 - Recovery takes months to years
 
 ### Chemical
-- Fungicides directly kill mycorrhizal fungi
+- Fungicides directly kill [[mycorrhizal-fungi]]
 - High P fertilizer reduces plant dependency on AMF (networks shrink)
 - Herbicides may indirectly affect networks by removing host plants
 

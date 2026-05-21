@@ -11,7 +11,7 @@ sources: []
 
 ## Overview
 
-Coastal gardening presents unique challenges including salt spray, persistent wind, sandy nutrient-poor soils, and occasional flooding from storm surge and tides. Successful coastal gardens work with these conditions by selecting salt-tolerant species, creating windbreaks, building soil rapidly, and designing for storm resilience. Coastal gardening connects to [[pollinator-conservation|conservation]] of dune and shoreline ecosystems and [[soil-erosion-control]] on vulnerable coastal land.
+Coastal gardening presents unique challenges including salt spray, persistent wind, sandy nutrient-poor soils, and occasional flooding from storm surge and tides. Successful coastal gardens work with these conditions by selecting salt-tolerant species, creating windbreaks, [[building-soil]] rapidly, and designing for storm resilience. Coastal gardening connects to [[pollinator-conservation|conservation]] of dune and shoreline ecosystems and [[soil-erosion-control]] on vulnerable coastal land.
 
 ## Coastal Challenges
 
@@ -38,7 +38,7 @@ Coastal winds are stronger and more persistent than inland:
 Coastal soils are predominantly sandy:
 
 - **Rapid drainage**: Water moves through sand quickly; irrigation must be frequent
-- **Low nutrient retention**: Sand holds little cation exchange capacity; nutrients leach rapidly
+- **Low nutrient retention**: Sand holds little [[cation-exchange-capacity]]; nutrients leach rapidly
 - **Low organic matter**: Decomposition is rapid and sand dilutes organic inputs
 - **Low water-holding capacity**: Sandy soil holds only 0.5-1 inch of water per foot of depth
 - **pH variability**: Coastal sands range from acidic (under pine) to alkaline (shell deposits)
@@ -73,7 +73,7 @@ Salt-tolerant plants employ several strategies:
 ### Windbreak Design
 Strategic windbreaks are essential for coastal gardens:
 
-- **First row (seaward)**: Dense, salt-tolerant evergreens (Juniperus virginiana, Pinus rigida) planted 10-15 feet apart
+- **First row (seaward)**: Dense, salt-tolerant evergreens ([[juniperus-virginiana]], [[pinus-rigida]]) planted 10-15 feet apart
 - **Second row**: Deciduous trees and large shrubs for additional filtering
 - **Third row**: Smaller shrubs and perennials that benefit from wind reduction
 - **Permeability**: Ideal windbreak is 40-60% permeable; solid barriers create damaging turbulence downwind
@@ -86,9 +86,9 @@ Salt-tolerant species for coastal windbreaks:
 - **Pitch pine (Pinus rigida)**: Native to coastal plain; salt and wind tolerant
 - **Bayberry (Morella pensylvanica)**: Salt-tolerant shrub; fixes nitrogen via associated bacteria
 - **Beach plum (Prunus maritima)**: Salt-tolerant fruiting shrub; produces edible plums
-- **Russian olive (Elaeagnus angustifolia)**: Very salt-tolerant; nitrogen fixer (invasive in some areas—check locally)
+- **Russian olive ([[elaeagnus-angustifolia]])**: Very salt-tolerant; nitrogen fixer (invasive in some areas—check locally)
 - **Seagrape (Coccoloba uvifera)**: Tropical/subtropical; excellent coastal windbreak
-- **Coco plum (Chrysobalanus icaco)**: Tropical; salt-tolerant evergreen hedge
+- **Coco plum ([[chrysobalanus-icaco]])**: Tropical; salt-tolerant evergreen hedge
 
 ### Structural Wind Protection
 - **Fences and walls**: Wooden slat fences (50% permeability) or masonry walls on windward side
@@ -143,7 +143,7 @@ Most vegetables are salt-sensitive, but a few tolerate mild salt spray:
 Sandy coastal soils need constant organic matter additions:
 
 - **Compost**: Apply 2-4 inches annually; mix into top 6 inches of soil
-- **Green manure cover crops**: Plant in fallow areas; crimson clover, winter rye, field peas
+- **[[green-manure-cover-crops]]**: Plant in fallow areas; crimson clover, winter rye, field peas
 - **Mulch**: Maintain 3-4 inch layer of organic mulch at all times
 - **Biochar**: Incorporate to improve nutrient retention in sand
 - **Sheet composting**: Layer organic materials directly on garden beds and let them decompose in place

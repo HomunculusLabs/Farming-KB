@@ -9,7 +9,7 @@ sources: []
 
 # Mescaline Reference
 
-Mescaline is a naturally occurring protoalkaloid and psychedelic compound found in several species of cacti. It is one of the oldest known psychoactive substances, with evidence of ceremonial use spanning over 5,000 years in the Americas. Mescaline produces profound alterations in consciousness, visual hallucinations, and altered perception of time and space.
+[[mescaline]] is a naturally occurring protoalkaloid and psychedelic compound found in several species of cacti. It is one of the oldest known psychoactive substances, with evidence of ceremonial use spanning over 5,000 years in the Americas. Mescaline produces profound alterations in consciousness, visual hallucinations, and altered perception of time and space.
 
 ## Chemistry
 
@@ -20,7 +20,7 @@ Mescaline is a naturally occurring protoalkaloid and psychedelic compound found 
 - Structure: phenethylamine backbone with three methoxy groups at positions 3, 4, and 5 on the phenyl ring
 - Classification: phenethylamine, specifically a substituted phenethylamine
 
-Mescaline belongs to the phenethylamine class, distinguishing it from the tryptamine psychedelics (psilocybin, DMT, LSD). The three methoxy groups are responsible for its psychedelic activity. The 4-position methoxy group is essential — removing it eliminates psychedelic effects. Mescaline is structurally related to other ring-substituted phenethylamines like 2C-B, 2C-I, and DOM.
+Mescaline belongs to the phenethylamine class, distinguishing it from the [[tryptamine]] psychedelics ([[psilocybin]], DMT, LSD). The three methoxy groups are responsible for its psychedelic activity. The 4-position methoxy group is essential — removing it eliminates psychedelic effects. Mescaline is structurally related to other ring-substituted phenethylamines like 2C-B, 2C-I, and DOM.
 
 The compound is a white crystalline solid at room temperature. It is soluble in water and alcohol. Freebase mescaline is an oily liquid; it is almost always encountered as a salt (hydrochloride or sulfate).
 
@@ -32,8 +32,8 @@ The compound is a white crystalline solid at room temperature. It is soluble in 
 - Contains approximately 0.4-6% mescaline by dry weight (varies by population)
 - Slow-growing: takes 5-15 years to reach maturity from seed
 - Traditional use: Huichol, Tarahumara, and other indigenous cultures in northern Mexico
-- Ceremonial context: peyote is considered a sacred medicine and teacher plant
-- Legal status in the US: legal for members of the Native American Church (NAC) for religious use; Schedule I otherwise
+- Ceremonial context: [[peyote]] is considered a sacred medicine and teacher plant
+- Legal status in the US: legal for members of the [[native-american-church]] (NAC) for religious use; Schedule I otherwise
 - Conservation concern: wild peyote populations are declining due to overharvesting, habitat loss, and slow growth rates
 
 ### San Pedro (Echinopsis pachanoi, syn. Trichocereus pachanoi)
@@ -57,7 +57,7 @@ The compound is a white crystalline solid at room temperature. It is soluble in 
 
 ### Other Species
 
-- Peruvian Torch (Echinopsis peruviana): 0.3-2.4% mescaline
+- Peruvian Torch ([[echinopsis-peruviana]]): 0.3-2.4% mescaline
 - Echinopsis scopulicola: variable mescaline content
 - Various Trichocereus/Echinopsis hybrids: mescaline content varies widely
 - Doñana cactus (Corryocactus brevistylus): reported to contain mescaline but less studied
@@ -106,7 +106,7 @@ More advanced extraction isolates mescaline as a crystalline salt:
 4. Salt out mescaline hydrochloride by bubbling HCl gas or adding hydrochloric acid
 5. Filter, wash, and dry the resulting mescaline HCl crystals
 
-This method produces a purified product but involves hazardous chemicals and requires lab technique. See [[fungal-spore-print-guide]] or [[sclerotia-cultivation]] for safer extraction approaches appropriate for a homesteading context.
+This method produces a purified product but involves hazardous chemicals and requires lab technique. See [[fungal-spore-print-guide]] or [[sclerotia-cultivation]] for safer extraction approaches appropriate for a [[homesteading]] context.
 
 ## Effects
 

@@ -12,7 +12,7 @@ sources:
 
 ## Overview
 
-Liquid fertiliser is made by steeping plants (often considered weeds) in water until they ferment, producing a nutrient-rich liquid that fertilises, strengthens plants, and naturally prevents disease and pests. Sepp Holzer notes that when he was young, every farmer understood how to prepare liquid fertiliser. With the appearance of chemical fertilisers and synthetic pesticides, this knowledge has died out in many places.
+Liquid fertiliser is made by steeping plants (often considered weeds) in water until they ferment, producing a nutrient-rich liquid that fertilises, strengthens plants, and naturally prevents disease and pests. [[sepp-holzer]] notes that when he was young, every farmer understood how to prepare liquid fertiliser. With the appearance of chemical fertilisers and synthetic pesticides, this knowledge has died out in many places.
 
 ## Plant Feed vs Liquid Fertiliser
 
@@ -25,11 +25,11 @@ Almost all locally growing plants are suitable. Select plants containing certain
 
 ### Holzer's Preferred Mixture
 
-- **Nettles** (*Urtica dioica*, *Urtica urens*) -- provides nitrogen; strengthens plants; effective against aphids (the smell and burning effect of the nettle's poison deters them). Good for vigorous vegetables like courgettes, cucumbers, and cabbage. Do not use on low-nutrient plants like peas and beans (risk of overfertilising).
-- **Comfrey** (*Symphytum officinale*, *Symphytum x uplandicum*) -- provides potash
-- **Tansy** (*Tanacetum vulgare*)
-- **Horsetail** (*Equisetum arvense*)
-- **Wormwood** (*Artemisia absinthium*) -- particularly effective against aphids, scale insects, and red spider mites. Increase the amount of wormwood until desired effect is achieved.
+- **Nettles** (*[[urtica-dioica]]*, *Urtica urens*) -- provides nitrogen; strengthens plants; effective against aphids (the smell and burning effect of the nettle's poison deters them). Good for vigorous vegetables like courgettes, cucumbers, and cabbage. Do not use on low-nutrient plants like peas and beans (risk of overfertilising).
+- **Comfrey** (*[[symphytum-officinale]]*, *Symphytum x uplandicum*) -- provides potash
+- **Tansy** (*[[tanacetum-vulgare]]*)
+- **Horsetail** (*[[equisetum-arvense]]*)
+- **Wormwood** (*[[artemisia-absinthium]]*) -- particularly effective against aphids, scale insects, and red spider mites. Increase the amount of wormwood until desired effect is achieved.
 
 ## Method
 
@@ -71,7 +71,7 @@ Interdisciplinary approaches have proven particularly valuable in advancing our 
 Applied work with liquid fertilizer from weeds spans multiple contexts and scales, from small-scale operations to industrial applications.
 Successful implementation requires attention to site-specific conditions and adaptive management strategies.
 Practitioners benefit from integrating both empirical observations and systematic monitoring.
-Economic viability often depends on careful resource allocation and appropriate technology selection.
+Economic viability often depends on careful resource allocation and [[appropriate-technology]] selection.
 
 ## Future Directions
 

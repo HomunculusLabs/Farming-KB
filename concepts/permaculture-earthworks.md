@@ -9,7 +9,7 @@ sources: []
 
 # Permaculture Earthworks
 
-Earthworks are the physical reshaping of land to manage water, control erosion, create growing space, and passively irrigate landscapes. In permaculture design, earthworks are typically the first major physical intervention on a site because they establish the water infrastructure that everything else depends on. Well-designed earthworks can transform degraded land into productive, resilient systems.
+Earthworks are the physical reshaping of land to manage water, control erosion, create growing space, and passively irrigate landscapes. In [[permaculture-design]], earthworks are typically the first major physical intervention on a site because they establish the water infrastructure that everything else depends on. Well-designed earthworks can transform degraded land into productive, resilient systems.
 
 ## Swales
 
@@ -38,7 +38,7 @@ Swales are shallow, level ditches excavated along the contour of a slope. Water 
 - Creates a moist microclimate on the berm for establishing trees
 - Can passively irrigate downhill plantings for weeks after a single rain event
 
-Swales integrate closely with [[keyline-design]] for whole-property water management.
+Swales integrate closely with [[keyline-design]] for whole-property [[water-management]].
 
 ## Ponds
 
@@ -56,7 +56,7 @@ Ponds serve as multi-functional water storage: irrigation reservoir, wildlife ha
 - Excavated ponds: dug into the ground, lined with clay or geomembrane if needed
 - Embankment ponds: dam across a valley or drainage
 - Duck ponds: shallow edges for waterfowl, integrated with [[duck-keeping]] systems
-- Chinampas-style: interconnected canal and island systems for intensive production
+- [[chinampas]]-style: interconnected canal and island systems for intensive production
 
 ### Design Features
 
@@ -144,7 +144,7 @@ Chinampas are an ancient Mesoamerican agricultural technique sometimes called "f
 
 - Small-scale chinampas can be built in ponds or marshy areas
 - The principle applies to any integrated land-water production system
-- Aquaponics draws heavily on chinampa concepts of coupling fish and plant production
+- [[aquaponics]] draws heavily on [[chinampa]] concepts of coupling fish and plant production
 
 ## General Principles for All Earthworks
 ## See Also

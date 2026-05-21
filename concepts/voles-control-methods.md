@@ -16,7 +16,7 @@ sources:
 
 # Vole Control Methods
 
-Voles are among the most damaging garden pests, capable of destroying root crops, fruit trees, and garden beds through their tunneling and feeding. Sepp Holzer addresses vole control as part of his integrated approach to working with nature rather than declaring war on individual species.
+Voles are among the most damaging garden pests, capable of destroying root crops, fruit trees, and garden beds through their tunneling and feeding. [[sepp-holzer]] addresses vole control as part of his integrated approach to working with nature rather than declaring war on individual species.
 
 ## Encouraging Natural Predators
 
@@ -77,7 +77,7 @@ Interdisciplinary approaches have proven particularly valuable in advancing our 
 Applied work with voles control methods spans multiple contexts and scales, from small-scale operations to industrial applications.
 Successful implementation requires attention to site-specific conditions and adaptive management strategies.
 Practitioners benefit from integrating both empirical observations and systematic monitoring.
-Economic viability often depends on careful resource allocation and appropriate technology selection.
+Economic viability often depends on careful resource allocation and [[appropriate-technology]] selection.
 
 ## Future Directions
 

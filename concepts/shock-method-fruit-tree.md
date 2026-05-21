@@ -9,7 +9,7 @@ sources: [raw/papers/sepp-holzer-practical-guide-to-small-scale-integrative.md]
 
 # Shock Method for Fruit Tree Establishment
 
-Sepp Holzer's "shock method" is an emergency technique that allows badly rooted trees without root balls to be replanted even when they are already fully in leaf, in flower, or bearing fruit. It originated from a childhood experience.
+[[sepp-holzer]]'s "shock method" is an emergency technique that allows badly rooted trees without root balls to be replanted even when they are already fully in leaf, in flower, or bearing fruit. It originated from a childhood experience.
 
 ## Origin Story
 
@@ -60,7 +60,7 @@ Longitudinal studies provide increasingly robust data for evidence-based decisio
 Applied work with shock method fruit tree spans multiple contexts and scales, from small-scale operations to industrial applications.
 Successful implementation requires attention to site-specific conditions and adaptive management strategies.
 Practitioners benefit from integrating both empirical observations and systematic monitoring protocols.
-Economic viability often depends on careful resource allocation and appropriate technology selection.
+Economic viability often depends on careful resource allocation and [[appropriate-technology]] selection.
 Safety considerations and regulatory compliance are essential components of responsible practice.
 ## Additional Considerations
 

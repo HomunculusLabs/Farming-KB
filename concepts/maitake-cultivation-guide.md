@@ -9,7 +9,7 @@ sources: [raw/papers/unknown-a-practical-guide-to-synthetic-log-cultiva.md]
 
 # Maitake Cultivation Guide
 
-Grifola frondosa (maitake / hen of the woods) is a prized edible and medicinal mushroom of temperate climates. It is highly aerobic, forms enormous fruiting clusters, and requires more attention to detail than oyster or shiitake. This guide is based on Alice W. Chen's 1999 practical guide for synthetic-log cultivation.
+[[grifola-frondosa]] (maitake / hen of the woods) is a prized edible and medicinal mushroom of temperate climates. It is highly aerobic, forms enormous fruiting clusters, and requires more attention to detail than oyster or shiitake. This guide is based on Alice W. Chen's 1999 practical guide for synthetic-log cultivation.
 
 ## Key Characteristics
 
@@ -37,9 +37,9 @@ The basal ingredient is hardwood sawdust (fine + coarse, 3:1 ratio) for good air
 | Ingredient | Dry Weight |
 |---|---|
 | Hardwood sawdust (fine + coarse, 3:1) | 75% |
-| Wheat bran (coarse, not refined) | 23% |
+| [[wheat-bran]] (coarse, not refined) | 23% |
 | Sucrose | 1% |
-| Lime (CaCO3) or gypsum (CaSO4) | 1% |
+| Lime (CaCO3) or [[gypsum]] (CaSO4) | 1% |
 | Moisture content | 60-63% |
 | pH | 5.5-6.5 |
 
@@ -69,9 +69,9 @@ Wheat bran provides thiamine (vitamin B1), essential for fruiting body formation
 
 ## Types of Spawn
 
-1. Liquid spawn -- labor-saving with special inoculator; industrial scale via submerged fermentation
-2. Grain spawn -- millet, rye, wheat, sorghum, milo
-3. Sawdust spawn -- supplemented sawdust-bran substrates
+1. [[liquid-spawn]] -- labor-saving with special inoculator; industrial scale via submerged fermentation
+2. [[grain-spawn]] -- millet, rye, wheat, sorghum, milo
+3. [[sawdust-spawn]] -- supplemented sawdust-bran substrates
 4. Wooden stick (skewer) spawn -- easy to manipulate
 
 ## Growth Parameter Management
@@ -84,7 +84,7 @@ Wheat bran provides thiamine (vitamin B1), essential for fruiting body formation
 | Primordia init. | 18-22C (22-25C used) | 80-90% | 200 lux | Ventilate 5-6x/day | 15-20 days |
 | Fruiting dev. | 15-20C | 90-95% | 200-500 lux | High O2, open bag top | 14-21 days |
 
-Yield: 150-300 g/bag; 300-500 g/bag with soil casing. Production ~3 months.
+Yield: 150-300 g/bag; 300-500 g/bag with [[soil-casing]]. Production ~3 months.
 
 ### Japan Practice (Huang, 1997)
 

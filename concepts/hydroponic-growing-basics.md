@@ -114,7 +114,7 @@ How it works:
 - A pump delivers nutrient solution through tubing to drip emitters at each plant site
 - Emitters can be metered (controlled flow rate) or non-metered
 - Excess solution either drains back to the reservoir (recirculating) or runs off (drain-to-waste)
-- Plants grow in containers of inert medium (coco coir, perlite, hydroton)
+- Plants grow in containers of inert medium (coco coir, [[perlite]], hydroton)
 
 Recirculating drip:
 - Solution drains back to reservoir and is reused

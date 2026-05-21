@@ -17,7 +17,7 @@ sources:
 
 # Permaculture Site Assessment Checklist
 
-A thorough site assessment is the foundation of any permaculture design. William Ozier Williams presents a systematic approach in his PDC, emphasizing that the designer must analyze the site comprehensively before making any design decisions. This checklist consolidates the key elements to assess.
+A thorough site assessment is the foundation of any [[permaculture-design]]. [[william-ozier-williams]] presents a systematic approach in his PDC, emphasizing that the designer must analyze the site comprehensively before making any design decisions. This checklist consolidates the key elements to assess.
 
 ## Broad Scale Context
 
@@ -36,7 +36,7 @@ Before analyzing the specific site, understand its place in the larger landscape
 
 Every design serves a client (even if that is yourself):
 
-- **Permaculture understanding**: How much does the client know?
+- **[[permaculture]] understanding**: How much does the client know?
 - **Health needs**: Any particular dietary requirements, physical limitations?
 - **Lifestyle goals**: What does daily life in the design look like?
 - **Budget and timeline**: Financial constraints and phasing preferences
@@ -130,7 +130,7 @@ Research the historical patterns of the site:
 - **Utilities**: Water, electricity, gas, internet
 - **Fencing**: Condition, materials, purpose
 - **Structures**: Sheds, greenhouses, barns, animal housing
-- **Waste systems**: Septic, greywater, composting
+- **Waste systems**: Septic, greywater, [[composting]]
 
 ## Inventories
 

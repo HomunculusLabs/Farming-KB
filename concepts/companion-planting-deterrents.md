@@ -11,7 +11,7 @@ sources: [raw/papers/hamilton-geoffhamilton-nick_-organic-gardening.md]
 
 ## Overview
 
-Companion planting is a technique based on the theory that plants have specific likes and dislikes concerning their close companions in the garden and will do better if planted in proximity to the correct plant. By planting particular species together, you can reduce weeds, attract pest predators, or deter specific pests.
+[[companion-planting]] is a technique based on the theory that plants have specific likes and dislikes concerning their close companions in the garden and will do better if planted in proximity to the correct plant. By planting particular species together, you can reduce weeds, attract pest predators, or deter specific pests.
 
 ## Evidence Base
 
@@ -19,11 +19,11 @@ Many companion planting recommendations are based on folklore, but some have bee
 
 ### Supported by Evidence
 
-**French Marigolds (Tagetes) and Cabbage White Butterfly:** The cabbage white butterfly is attracted to its host plant by smell and can be fooled by planting highly aromatic French marigolds between rows of cabbages. Scientifically controlled trials confirm a reduction in attack.
+**French Marigolds ([[tagetes]]) and Cabbage White Butterfly:** The cabbage white butterfly is attracted to its host plant by smell and can be fooled by planting highly aromatic French marigolds between rows of cabbages. Scientifically controlled trials confirm a reduction in attack.
 
 **French Marigolds and Eelworm/Nematode Control:** French marigolds secrete a substance from their roots that reduces eelworm (soil pest) attack on potatoes. Scientific research has confirmed this root secretion mechanism. Many gardeners also report similar results.
 
-**French Marigolds and Couch Grass:** Said to help kill weeds, particularly couch grass (Agropyron repens), though not yet confirmed by the author's testing.
+**French Marigolds and Couch Grass:** Said to help kill weeds, particularly couch grass ([[agropyron]] repens), though not yet confirmed by the author's testing.
 
 **Marigolds (Tagetes and Calendula) to Reduce Aphids:** Marigolds planted near tomatoes or roses greatly reduce aphid attack. The mechanism is indirect — marigolds attract hoverflies whose larvae devour greenfly by the thousand.
 
@@ -47,7 +47,7 @@ Hoverflies are the most valuable pest predators in the garden. They exist in dif
 - Marigolds (Tagetes and Calendula)
 - Poppies (Papaver sp.)
 - Nasturtiums (Tropaeolum)
-- Phacelia (Phacelia tanacetifolia)
+- Phacelia ([[phacelia-tanacetifolia]])
 
 ## Encouraging Other Pest Predators
 
@@ -61,7 +61,7 @@ Beyond pest deterrence, French marigolds are reported to help suppress certain w
 
 ## Related
 
-- [[green-manure-crops-detailed]] — Phacelia as a green manure that also attracts hoverflies
+- [[green-manure-crops-detailed]] — Phacelia as a [[green-manure]] that also attracts hoverflies
 - [[clubroot-disease-management]] — disease management for brassicas
 - [[leatherjacket-pest-control]] — direct pest control methods for soil pests
 ## Historical Context

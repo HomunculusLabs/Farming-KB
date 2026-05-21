@@ -27,7 +27,7 @@ Plants grow in floating rafts on the surface of a deep water channel (8-12 inche
 
 Grow beds filled with gravel or expanded clay (hydroton) that flood with fish water and drain back on a timer (typically 15 min flood / 45 min drain cycle). The most common home/hobby system.
 
-**Advantages**: Excellent biofiltration, supports a wide range of plants, serves as both grow bed and biofilter, good for beginners, supports earthworms (vermiaquaponics).
+**Advantages**: Excellent biofiltration, supports a wide range of plants, serves as both grow bed and biofilter, good for beginners, supports [[earthworms]] (vermiaquaponics).
 
 **Disadvantages**: Heavier than other systems, media can clog over time, requires bell siphon or timer, limited scalability compared to DWC.
 
@@ -69,7 +69,7 @@ The workhorse of warm-water aquaponics. Fast-growing, hardy, tolerant of poor wa
 Native North American fish suitable for cold-climate aquaponics.
 
 - **Temperature range**: 65-80F
-- **Growth rate**: Slower than tilapia; 12-18 months to harvest
+- **Growth rate**: Slower than [[tilapia]]; 12-18 months to harvest
 - **Advantages**: Legal everywhere, tolerate cold water, good table fish
 
 ### Trout
@@ -99,7 +99,7 @@ Hardy bottom-feeders suitable for warm-water systems.
 
 ### High-Value Aquaponics Crops
 
-- **Leafy greens**: Lettuce (best performer), kale, Swiss chard, watercress, arugula — fast turnover, high demand
+- **Leafy greens**: Lettuce (best performer), kale, Swiss chard, watercress, [[arugula]] — fast turnover, high demand
 - **Herbs**: Basil (exceptional in aquaponics), mint, cilantro, parsley, dill — premium pricing
 - **Fruiting vegetables**: Tomatoes, peppers, cucumbers, eggplant — need more nutrients and stronger light
 - **Other**: Strawberries, edible flowers, microgreens
@@ -118,8 +118,8 @@ Cycling is the process of establishing the bacterial colonies that convert fish 
 ### The Nitrogen Cycle
 
 1. Fish excrete ammonia (NH3/NH4+) through gills and waste
-2. Nitrosomonas bacteria convert ammonia to nitrite (NO2-) — highly toxic to fish
-3. Nitrobacter/Nitrospira bacteria convert nitrite to nitrate (NO3-) — relatively harmless and excellent plant fertilizer
+2. [[nitrosomonas]] bacteria convert ammonia to nitrite (NO2-) — highly toxic to fish
+3. [[nitrobacter]]/Nitrospira bacteria convert nitrite to nitrate (NO3-) — relatively harmless and excellent plant fertilizer
 4. Plants absorb nitrate, cleaning the water for fish
 
 ### Cycling Methods

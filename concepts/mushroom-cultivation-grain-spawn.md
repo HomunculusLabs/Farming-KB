@@ -9,11 +9,11 @@ sources: [raw/papers/the-mushroom-cultivator-stamets.md]
 
 # Mushroom Cultivation - Grain Spawn
 
-Grain spawn is the primary inoculum used in mushroom cultivation, consisting of cereal grain fully colonized by mushroom mycelium. Each individual kernel becomes a point from which mycelium can spread, making grain spawn the most efficient medium for expanding mycelial mass.
+[[grain-spawn]] is the primary inoculum used in mushroom cultivation, consisting of cereal grain fully colonized by mushroom [[mycelium]]. Each individual kernel becomes a point from which mycelium can spread, making grain spawn the most efficient medium for expanding mycelial mass.
 
 ## History
 
-During the 1800s, Agaricus growers obtained spawn by gathering concentrations of mycelium from natural habitats ("virgin spawn"), supplemented with horse manure. With the advent of pure culture techniques, propagation by spore germination or tissue cloning completely superseded virgin spawn. In 1932, Dr. James Sinden patented a new spawn-making process using cereal grain as the mycelial carrier, setting the standard for modern spawn production.
+During the 1800s, [[agaricus]] growers obtained spawn by gathering concentrations of mycelium from natural habitats ("virgin spawn"), supplemented with horse manure. With the advent of pure culture techniques, propagation by spore germination or tissue cloning completely superseded virgin spawn. In 1932, Dr. James Sinden patented a new spawn-making process using cereal grain as the mycelial carrier, setting the standard for modern [[spawn-production]].
 
 ## Cereal Grains for Spawn
 
@@ -33,14 +33,14 @@ During the 1800s, Agaricus growers obtained spawn by gathering concentrations of
 
 The optimum moisture content for grain spawn is 49-54%. Commercial rye grain is approximately 11% water by mass. To determine precise moisture: weigh a 100-gram sample, dry in an oven (250 F for 3 hours), subtract the new weight. The resultant figure is the percentage of moisture naturally bound within the grain.
 
-Excessive water favors bacterial growth, causes kernels to explode during sterilization, and makes colonized grain difficult to break apart. Balanced moisture content ensures spawn breaks easily into individual mycelium-covered kernels.
+Excessive water favors bacterial growth, causes kernels to explode during [[sterilization]], and makes colonized grain difficult to break apart. Balanced moisture content ensures spawn breaks easily into individual mycelium-covered kernels.
 
 ## Spawn Formulas
 
 For **quart jars**: 1 cup rye grain + 2/3 to 3/4 cup water
 For **1/2 gallon jars**: 3 cups rye grain + 1 3/4 cups water
 
-Chalk (CaCO3) and gypsum (CaSO4) can be added at 1-3 parts per 100 parts grain (dry weight), ratio 1:4 chalk to gypsum. When using calcium buffers, add 10% more water.
+Chalk (CaCO3) and [[gypsum]] (CaSO4) can be added at 1-3 parts per 100 parts grain (dry weight), ratio 1:4 chalk to gypsum. When using calcium buffers, add 10% more water.
 
 ## Sterilization
 

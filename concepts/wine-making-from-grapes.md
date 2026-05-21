@@ -105,7 +105,7 @@ Before fermentation, test and adjust the grape juice (must):
 ### Step 6: Finishing
 - Cold stabilization: chill wine to near freezing for 2-4 weeks. Causes tartrate crystals to precipitate (prevents crystals in the bottle).
 - Degassing: stir vigorously or use a vacuum pump to remove dissolved CO2
-- Clarification: most wines clear naturally with time. If needed, use fining agents (bentonite for proteins, sparkolloid for general clarification)
+- Clarification: most wines clear naturally with time. If needed, use fining agents ([[bentonite]] for proteins, sparkolloid for general clarification)
 - Final adjustments: taste and adjust acid, sweetness (backsweeten after stabilizing), or tannin to preference
 
 ### Step 7: Bottling

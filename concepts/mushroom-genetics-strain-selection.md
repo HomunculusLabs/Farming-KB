@@ -9,7 +9,7 @@ sources: []
 
 # Mushroom Genetics and Strain Selection
 
-Understanding fungal genetics is essential for selecting productive, stable cultures and maintaining genetic quality over generations. Unlike plants, fungi have unique reproductive strategies — including heterokaryosis and clamp connections — that shape how traits are inherited and expressed.
+Understanding [[fungal-genetics]] is essential for selecting productive, stable cultures and maintaining genetic quality over generations. Unlike plants, fungi have unique reproductive strategies — including heterokaryosis and clamp connections — that shape how traits are inherited and expressed.
 
 ## Fungal Genetics Fundamentals
 
@@ -20,7 +20,7 @@ Most basidiomycete fungi (the club fungi that produce mushrooms) are dikaryotic 
 - Each cell contains **two genetically distinct nuclei** (n + n)
 - These nuclei pair up and divide synchronously (conjugate division)
 - The dikaryotic state is maintained by **clamp connections** — small hook-like bridges on septa that ensure each new cell receives one nucleus of each type
-- Fruiting (mushroom formation) only occurs from dikaryotic mycelium
+- Fruiting (mushroom formation) only occurs from dikaryotic [[mycelium]]
 - At the basidium (spore-producing cell), the two nuclei finally fuse (karyogamy), undergo meiosis, and produce haploid spores
 
 ### Monokaryon vs. Dikaryon
@@ -51,14 +51,14 @@ See [[fungal-sexual-reproduction]] for deeper coverage of mating type genetics.
 ### Homothallism
 
 - Self-fertile: a single spore can produce a fertile dikaryon
-- Agaricus bisporus is predominantly homothallic (secondary homothallism) — most spores contain two compatible nuclei
+- [[agaricus-bisporus]] is predominantly homothallic (secondary homothallism) — most spores contain two compatible nuclei
 - Simpler breeding but less genetic diversity
 
 ## Strain Isolation
 
 ### From Spores (Multispore)
 
-- Spore print or spore syringe contains thousands of haploid spores
+- [[spore-print]] or [[spore-syringe]] contains thousands of haploid spores
 - When inoculated onto agar or grain, spores germinate into many monokaryons that pair randomly
 - Result: a patchwork of many different dikaryotic strains
 - **Pros**: Maximum genetic diversity; potential for novel traits; inexpensive
@@ -111,7 +111,7 @@ See [[fungal-sexual-reproduction]] for deeper coverage of mating type genetics.
 |--------|--------|-----------------|
 | Golden Teacher | Unknown (1990s) | Reliable, moderate potency, classic appearance |
 | B+ | Unknown | Large fruits, beginner-friendly, tolerates varied conditions |
-| Penis Envy | Terence McKenna | Very potent, dense, distinctive shape, slow colonizer |
+| Penis Envy | [[terence-mckenna]] | Very potent, dense, distinctive shape, slow colonizer |
 | Cambodian | Angkor Wat | Fast colonizer, moderate-high potency |
 | Ecuador | Ecuadorian highlands | Large, classic appearance, consistent |
 | Thai | Koh Samui | Fast, moderate potency, prolific |
@@ -122,7 +122,7 @@ See [[fungal-sexual-reproduction]] for deeper coverage of mating type genetics.
 
 - **Colonization speed**: Faster colonization means less time for contamination
 - **Rhizomorphic growth**: Rope-like, organized mycelium correlates with vigorous fruiting
-- **Yield**: Total biological efficiency (fresh weight of mushrooms / dry weight of substrate)
+- **Yield**: Total [[biological-efficiency]] (fresh weight of mushrooms / dry weight of substrate)
 - **Potency**: For active species, alkaloid content varies significantly between strains
 - **Environmental tolerance**: Some strains handle temperature or humidity fluctuations better
 - **Appearance**: Cap shape, color, stem thickness — aesthetic preference

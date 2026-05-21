@@ -21,7 +21,7 @@ Yeast is not a taxonomic group but a growth form. Any fungus that exists predomi
 - **Budding reproduction**: Daughter cell emerges as a small bud from the parent cell surface
 - **Facultative anaerobes**: Most yeasts can ferment sugars in the absence of oxygen (fermentation) and respire in its presence
 - **Rapid growth**: Doubling time of 90-120 minutes under ideal conditions
-- **Robust**: Tolerate a wide range of pH (2.5-8.5), temperature (0-45°C), osmotic pressure, and ethanol concentration
+- **Robust**: Tolerate a wide range of pH (2.5-8.5), temperature (0-45°C), osmotic pressure, and [[ethanol]] concentration
 
 ## Saccharomyces cerevisiae: The Model Yeast
 
@@ -29,7 +29,7 @@ Yeast is not a taxonomic group but a growth form. Any fungus that exists predomi
 
 S. cerevisiae (baker's yeast / brewer's yeast) is the most studied and most important yeast species:
 
-- **Phylum**: Ascomycota
+- **Phylum**: [[ascomycota]]
 - **Genome**: 12.1 Mb, ~6,275 genes on 16 chromosomes
 - **First eukaryotic genome fully sequenced** (1996) — landmark achievement
 - **Haploid or diploid**: Can exist in both states, unlike most fungi which are predominantly haploid
@@ -61,7 +61,7 @@ Yeast fermentation is the metabolic process by which yeast converts sugars into 
 - **Glycolysis**: Glucose is broken down to pyruvate, producing 2 ATP and 2 NADH
 - **Fermentation**: Pyruvate is decarboxylated to acetaldehyde (releasing CO2), then reduced to ethanol (regenerating NAD+)
 - **Products per molecule of glucose**: 2 ethanol + 2 CO2 + 2 ATP
-- **Byproducts**: Glycerol, acetic acid, succinic acid, fusel alcohols (higher alcohols), esters, aldehydes — these contribute to flavor and aroma in fermented foods
+- **Byproducts**: [[glycerol]], acetic acid, succinic acid, fusel alcohols (higher alcohols), esters, aldehydes — these contribute to flavor and aroma in fermented foods
 
 ### Crabtree Effect
 
@@ -85,7 +85,7 @@ S. cerevisiae exhibits the Crabtree effect — in the presence of excess glucose
 |-------|-------------------|------|
 | Saccharomyces | Crabtree-positive, robust fermentation | Beer, wine, bread, bioethanol |
 | Candida | Opportunistic pathogen, dimorphic | Medical significance, C. albicans infections |
-| Pichia (Komagataella) | Methylotrophic — uses methanol | Recombinant protein production (Pichia pastoris) |
+| Pichia (Komagataella) | Methylotrophic — uses [[methanol]] | Recombinant protein production (Pichia pastoris) |
 | Kluyveromyces | Ferments lactose | Dairy fermentation, kefir |
 | Schizosaccharomyces | Fission yeast, divides by splitting | Research model (S. pombe), African millet beer |
 | Brettanomyces (Dekkera) | Produces acetic acid, "funky" flavors | Belgian lambic beers, wine spoilage |
@@ -109,7 +109,7 @@ Traditional fermentation methods rely on wild yeasts rather than commercial cult
 
 - **Lambic beer**: Fermented by wild yeasts and bacteria (Brettanomyces, Pediococcus) in the Senne Valley, Belgium. No added yeast — relies on airborne microflora
 - **Natural wine**: Fermented by indigenous grape yeasts (Hanseniaspora, Candida, then Saccharomyces)
-- **Sourdough bread**: Maintained by wild yeast (often Kazachstania exigua, Pichia kudriavzevii) and Lactobacillus bacteria in a starter culture
+- **Sourdough bread**: Maintained by wild yeast (often Kazachstania exigua, Pichia kudriavzevii) and [[lactobacillus]] bacteria in a starter culture
 - **Wild fermentation**: Sandor Katz's philosophy — "wild fermentation" as a broader cultural practice
 
 ## Industrial Uses of Yeast
@@ -120,13 +120,13 @@ Traditional fermentation methods rely on wild yeasts rather than commercial cult
 - **Beer**: Ale yeasts (S. cerevisiae, top-fermenting) vs. lager yeasts (S. pastorianus, bottom-fermenting, a hybrid of S. cerevisiae and S. eubayanus)
 - **Wine**: Multiple Saccharomyces strains available. Different strains produce different ester profiles, affecting flavor
 - **Distilled spirits**: Yeast strains optimized for high ethanol tolerance and fast fermentation (rum, whiskey, vodka)
-- **Cheese**: Debaryomyces hansenii contributes to rind development on many cheeses
+- **Cheese**: [[debaryomyces-hansenii]] contributes to rind development on many cheeses
 - **Soy sauce and miso**: Zygosaccharomyces rouxii is the primary yeast in soy sauce fermentation
 
 ### Biotechnology
 
 - **Recombinant protein production**: Pichia pastoris (Komagataella phaffii) produces human insulin, hepatitis B vaccine, and many other pharmaceuticals
-- **Bioethanol**: S. cerevisiae engineered for higher ethanol tolerance and cellulose degradation for second-generation biofuels
+- **Bioethanol**: S. cerevisiae engineered for higher ethanol tolerance and [[cellulose]] degradation for second-generation biofuels
 - **Single-cell protein**: Yeast biomass as a protein source for animal feed and human nutrition
 - **Bioremediation**: Some yeasts can accumulate heavy metals (Candida, Rhodotorula)
 

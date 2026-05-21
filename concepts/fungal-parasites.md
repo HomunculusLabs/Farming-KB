@@ -17,7 +17,7 @@ Fungal parasitism spans the full spectrum of host organisms:
 
 - **Plants**: The largest group of fungal pathogens. Over 10,000 species of fungi cause plant diseases
 - **Humans**: ~300 species known to infect humans; a handful cause the majority of disease
-- **Insects**: Entomopathogenic fungi are natural insect regulators and emerging biocontrol agents
+- **Insects**: [[entomopathogenic-fungi]] are natural insect regulators and emerging biocontrol agents
 - **Other fungi**: Mycoparasites (fungi that parasitize other fungi) are important in biological control
 - **Animals**: Amphibians, reptiles, fish, and mammals are all susceptible to fungal infections
 
@@ -27,18 +27,18 @@ Fungal parasitism spans the full spectrum of host organisms:
 
 **Biotrophs**: Require living host tissue. Cannot be cultured on artificial media. Extract nutrients from living cells without killing them immediately.
 - Powdery mildews (Erysiphe, Blumeria): Obligate biotrophs. White powdery growth on leaf surfaces
-- Rust fungi (Puccinia, Melampsora): Obligate biotrophs with complex life cycles requiring two host species. Produce multiple spore types (urediniospores, teliospores, basidiospores, pycniospores, aeciospores)
-- Downy mildews (Plasmopara, Peronospora): Oomycetes (not true fungi but traditionally studied with them). Cause grape downy mildew, potato late blight
+- [[rust-fungi]] (Puccinia, Melampsora): Obligate biotrophs with complex life cycles requiring two host species. Produce multiple spore types (urediniospores, teliospores, basidiospores, pycniospores, aeciospores)
+- Downy mildews (Plasmopara, Peronospora): Oomycetes (not true fungi but traditionally studied with them). Cause grape [[downy-mildew]], potato [[late-blight]]
 
 **Necrotrophs**: Kill host tissue first, then feed on dead cells. Often produce phytotoxins.
-- Botrytis cinerea (gray mold): Causes gray fuzzy rot on fruits, vegetables, and flowers. One of the most widespread plant pathogens
-- Sclerotinia sclerotiorum (white mold): Major pathogen of soybeans, canola, and many vegetables
+- [[botrytis-cinerea]] (gray mold): Causes gray fuzzy rot on fruits, vegetables, and flowers. One of the most widespread plant pathogens
+- [[sclerotinia-sclerotiorum]] (white mold): Major pathogen of soybeans, canola, and many vegetables
 - Alternaria species: Cause leaf spots on many crops. Produce host-specific toxins
 - Fusarium species: Cause wilts, rots, and head blight. Some produce mycotoxins (fumonisins, trichothecenes)
 
 **Hemibiotrophs**: Start as biotrophs, then switch to necrotrophic phase.
 - Magnaporthe oryzae (rice blast): Most important disease of rice worldwide. Infects through a specialized appressorium that generates enormous turgor pressure to penetrate the leaf cuticle
-- Phytophthora infestans (potato late blight): Oomycete. Caused the Irish Potato Famine (1845-1852). Still a major global threat to potato and tomato production
+- [[phytophthora-infestans]] (potato late blight): Oomycete. Caused the Irish Potato Famine (1845-1852). Still a major global threat to potato and tomato production
 - Colletotrichum species (anthracnose): Important fruit and foliar pathogen
 
 ### Impact on Agriculture

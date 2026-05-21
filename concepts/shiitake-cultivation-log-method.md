@@ -9,7 +9,7 @@ sources: [raw/papers/mycelium-running-stamets.md, raw/papers/the-mushroom-cultiv
 
 # Shiitake Cultivation - Log Method
 
-Shiitake (Lentinula edodes) has been cultivated on hardwood logs for centuries in Asia. The log method remains one of the most reliable and low-maintenance approaches to growing this prized mushroom.
+Shiitake ([[lentinula-edodes]]) has been cultivated on hardwood logs for centuries in Asia. The log method remains one of the most reliable and low-maintenance approaches to growing this prized mushroom.
 
 ## Selecting Logs
 
@@ -24,7 +24,7 @@ Hardwood logs are essential. Oak (especially white oak) is the traditional and p
 
 ### Using Sawdust Spawn
 1. Drill holes 1 inch deep, spaced 6 inches apart in a diamond pattern around the log
-2. Fill each hole with sawdust spawn
+2. Fill each hole with [[sawdust-spawn]]
 3. Seal with melted wax (cheese wax, beeswax, or specialized sealing wax)
 4. Waxing prevents desiccation and protects against contaminants
 
@@ -39,7 +39,7 @@ After inoculation, logs enter an incubation period of 6-18 months:
 
 - **Stacking method**: Stack logs in a shaded, moist location. The "crib" or "log cabin" stacking method promotes good air circulation
 - **Moisture management**: Logs should be kept at 35-45% moisture content. In dry periods, water or mist the logs periodically
-- **Location**: Shade is essential -- under trees, behind buildings, or under shade cloth. Full sun will dry and kill the mycelium
+- **Location**: Shade is essential -- under trees, behind buildings, or under shade cloth. Full sun will dry and kill the [[mycelium]]
 - **Temperature**: 50-80 F is acceptable; 60-75 F is ideal for mycelial growth
 - **Ground contact**: Some growers rest logs on bare earth; others elevate on bricks or wire to prevent contamination from soil organisms
 
@@ -61,7 +61,7 @@ A typical log produces mushrooms for 2-6 years, yielding approximately 1/4 to 1 
 - Low startup cost (logs are free or cheap; minimal equipment needed)
 - Low maintenance after inoculation
 - Produces high-quality, thick-capped mushrooms preferred by chefs
-- No sterilization required (wax sealing prevents contamination)
+- No [[sterilization]] required (wax sealing prevents contamination)
 - Logs can be integrated into garden landscapes
 
 ## See Also

@@ -27,7 +27,7 @@ The most widely known and collected chanterelle:
 - Stem: solid, tapers downward, same color as cap
 - Flesh: firm, white to pale yellow
 - Odor: distinctive — fruity, apricot-like
-- Spore print: pale yellow to cream
+- [[spore-print]]: pale yellow to cream
 - Habitat: mixed forests, primarily with oak, beech, birch, spruce, and Douglas-fir
 - Season: June through October (varies by region)
 - Distribution: widespread across North America, Europe, and Asia
@@ -69,7 +69,7 @@ The most widely known and collected chanterelle:
 
 ## Mycorrhizal Ecology
 
-All chanterelle species form ectomycorrhizal associations with trees:
+All chanterelle species form [[ectomycorrhizal-associations]] with trees:
 
 - They form a sheath around fine root tips of compatible host trees
 - Exchange soil minerals and water for photosynthetic sugars

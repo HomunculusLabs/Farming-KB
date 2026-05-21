@@ -9,7 +9,7 @@ sources: []
 
 ## Overview
 
-Agar work is the practice of growing mushroom mycelium on nutrient agar in petri dishes. It is the foundation of advanced mushroom cultivation, enabling spore germination, contamination identification, strain isolation, and long-term culture storage. Working with agar transforms cultivation from a gamble with multi-spore genetics into a precise, repeatable process. Every serious cultivator eventually adopts agar work as a core skill.
+Agar work is the practice of growing mushroom [[mycelium]] on nutrient agar in petri dishes. It is the foundation of advanced mushroom cultivation, enabling spore germination, [[contamination-identification]], strain isolation, and long-term culture storage. Working with agar transforms cultivation from a gamble with multi-spore genetics into a precise, repeatable process. Every serious cultivator eventually adopts agar work as a core skill.
 
 ## What is Agar?
 
@@ -70,8 +70,8 @@ Good for recovering stressed or slow-growing cultures.
 
 - Prepared agar solution (still hot/liquid)
 - Sterile petri dishes (pre-sterilized plastic or glass)
-- Still air box (SAB) or laminar flow hood
-- Isopropyl alcohol (70%)
+- Still air box (SAB) or [[laminar-flow-hood]]
+- [[isopropyl-alcohol]] (70%)
 
 ### Process
 
@@ -94,7 +94,7 @@ Good for recovering stressed or slow-growing cultures.
 
 ### Spore Inoculation
 
-Drop 0.1-0.5 cc of spore solution onto the agar surface. A single drop from a spore syringe contains thousands of spores. Multiple germination points will appear over 3-7 days.
+Drop 0.1-0.5 cc of spore solution onto the agar surface. A single drop from a [[spore-syringe]] contains thousands of spores. Multiple germination points will appear over 3-7 days.
 
 ### Agar Wedge Transfer
 
@@ -133,7 +133,7 @@ Strain isolation is the process of selecting and separating individual genetic s
 
 - **Rhizomorphic growth**: Rope-like, organized growth indicates strong genetics. Cottony (tomentose) growth is weaker and less organized.
 - **Speed**: Faster-growing sectors are generally more vigorous.
-- **Sectoring**: Avoid sectors that continue to show multiple growth patterns — these are not yet isolated.
+- **[[sectoring]]**: Avoid sectors that continue to show multiple growth patterns — these are not yet isolated.
 - **Cleanliness**: Select sectors that are clearly separated from any contamination.
 
 ## Long-Term Storage: Agar Slants

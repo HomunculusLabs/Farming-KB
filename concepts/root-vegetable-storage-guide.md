@@ -74,14 +74,14 @@ Root vegetable storage depends on three variables: temperature, humidity, and ve
 4. Not reliable in all climates — ground must not freeze deeply
 
 **In a root cellar:**
-1. Pack in crates with damp sand or peat moss
+1. Pack in crates with damp sand or [[peat-moss]]
 2. Keep humid and cold
 3. Storage life: 4-6 months
 
 ### Common Problems
 - **Bitterness** — Caused by warm storage temperatures
 - **Rubbery texture** — Caused by low humidity
-- **White root hairs** — Carrots trying to grow; sign of too-warm storage
+- **White [[root-hairs]]** — Carrots trying to grow; sign of too-warm storage
 - **Rot** — Spread from damaged carrots; remove immediately
 
 ## Beet Storage (Beta vulgaris)

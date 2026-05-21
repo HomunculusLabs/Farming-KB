@@ -46,7 +46,7 @@ Reciprocal roofs are especially well-suited to roundwood (unmilled, whole logs o
 
 ### Selecting Roundwood
 
-- **Species:** Locust, oak, larch, Douglas fir, and sweet chestnut are naturally rot resistant. Pine and spruce work but need more protection.
+- **Species:** Locust, oak, larch, [[douglas-fir]], and sweet chestnut are naturally rot resistant. Pine and spruce work but need more protection.
 - **Diameter:** 4-8 inches at the butt end for most small to medium structures
 - **Length:** Determined by the building radius plus overhang
 - **Straightness:** Rafters should be reasonably straight; slight curves add character but must be accounted for
@@ -115,7 +115,7 @@ The reciprocal roof's round or polygonal shape and often organic geometry pair b
 
 ### Layer Assembly (top to bottom)
 
-1. **Growing medium:** 3-6 inches of lightweight soil mix (compost, sand, lightweight aggregate)
+1. **Growing medium:** 3-6 inches of lightweight soil mix ([[compost]], sand, lightweight aggregate)
 2. **Root barrier:** Pond liner or heavy-duty polyethylene
 3. **Drainage layer:** Gravel or drainage mat
 4. **Filter fabric:** Prevents soil from clogging drainage

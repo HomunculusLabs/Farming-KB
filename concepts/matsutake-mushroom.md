@@ -25,12 +25,12 @@ Matsutake (Tricholoma matsutake, "pine mushroom") is an ectomycorrhizal mushroom
 - Stem: thick, solid, white with a prominent skirt-like ring
 - Flesh: white, firm, dense
 - Odor: unmistakable — spicy, cinnamon-pine, described as "a cross between dirty socks and the Redwood forest" by Western foragers; revered in Japan as complex and intoxicating
-- Spore print: white
-- Mycorrhizal partner: primarily Japanese red pine (Pinus densiflora), also other Pinus species
+- [[spore-print]]: white
+- Mycorrhizal partner: primarily Japanese red pine ([[pinus-densiflora]]), also other Pinus species
 
 ## Ecology and Mycorrhizal Biology
 
-Matsutake is an obligate ectomycorrhizal fungus — it cannot complete its life cycle without a living host tree. The mycelium forms a sheath around fine root tips of compatible pine species, exchanging minerals and water for photosynthetic sugars from the tree.
+Matsutake is an obligate ectomycorrhizal fungus — it cannot complete its life cycle without a living host tree. The [[mycelium]] forms a sheath around fine root tips of compatible pine species, exchanging minerals and water for photosynthetic sugars from the tree.
 
 ### The "Shiro"
 
@@ -65,9 +65,9 @@ Matsutake requires a living host tree to complete its life cycle. Unlike saprotr
 The shiro ecosystem involves interactions with:
 
 - Specific soil chemistry (pH, mineral composition)
-- Competing mycorrhizal fungi
+- Competing [[mycorrhizal-fungi]]
 - Specific bacterial communities
-- Soil microarthropods
+- Soil [[microarthropods]]
 - Root exudate chemistry of host trees
 
 Reproducing these conditions artificially has proven intractable.
@@ -147,7 +147,7 @@ Look for matsutake in:
 ### Dangerous Look-alikes
 
 - Tricholoma pardinum (Trivial Angel): poisonous, causes severe GI distress; cap is more silvery-gray with concentric scales
-- Amanita species: some have white spore prints; check for a volva at the base (matsutake does not have a volva)
+- [[amanita]] species: some have white spore prints; check for a volva at the base (matsutake does not have a volva)
 ## See Also
 
 - [[tricholoma-matsutake]]

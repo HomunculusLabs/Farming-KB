@@ -52,7 +52,7 @@ In cold climates, seed of cold-area crops is stratified by refrigeration -- the 
 
 ## Seed Sources and Networks
 
-Seed sources are numerous and are listed in most organic farming or permaculture publications. Perennials and trees providing staple food have largely usurped seed patenting, making tree crop propagation a natural escape from corporate control.
+Seed sources are numerous and are listed in most organic farming or [[permaculture]] publications. Perennials and trees providing staple food have largely usurped seed patenting, making tree crop propagation a natural escape from corporate control.
 
 It is particularly important for small farmers to grow and share seed, as seed outlets are bought up by the agro-chemical industry, and seeds are altered to suit corporate purposes rather than local food production.
 
@@ -68,7 +68,7 @@ Seed saving is integral to Zone 1 -- the home garden. Seedling trays, mother pla
 - [[permaculture-currency-and-economics]] -- community seed exchange as economic strategy
 ## Historical Context
 
-The study and practice of permaculture seed saving and selection has evolved significantly over time, incorporating both traditional knowledge and modern scientific understanding.
+The study and practice of permaculture [[seed-saving-and-selection]] has evolved significantly over time, incorporating both traditional knowledge and modern scientific understanding.
 Early practitioners developed foundational techniques that continue to inform current approaches.
 
 ## Current Research

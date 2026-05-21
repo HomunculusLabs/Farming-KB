@@ -12,7 +12,7 @@ sources:
 
 ## Overview
 
-Fukuoka recommends releasing ducklings onto rice paddies as a natural alternative to chemical fertilisers and manual weeding. From the standpoint of natural farming, releasing ten ducklings per quarter-acre onto the field when the rice seedlings have become established is preferable and much easier than applying manure.
+Fukuoka recommends releasing ducklings onto rice paddies as a natural alternative to chemical fertilisers and manual weeding. From the standpoint of [[natural-farming]], releasing ten ducklings per quarter-acre onto the field when the rice seedlings have become established is preferable and much easier than applying manure.
 
 ## What Ducks Do
 
@@ -36,12 +36,12 @@ In Fukuoka's idealised vision of livestock farming, great numbers of ducks and m
 
 ## Comparison with Manure Application
 
-As an alternative to the duck method, Fukuoka describes spreading 450-900 pounds of dried chicken manure before or after returning barley straw to the field. Fresh manure should not be used as it can harm rice seedlings. A small amount (200-450 pounds) may be added early during the heading stage. However, the duck approach is simpler and integrates multiple functions simultaneously.
+As an alternative to the duck method, Fukuoka describes spreading 450-900 pounds of dried [[chicken-manure]] before or after returning barley straw to the field. Fresh manure should not be used as it can harm rice seedlings. A small amount (200-450 pounds) may be added early during the heading stage. However, the duck approach is simpler and integrates multiple functions simultaneously.
 
 ## Related
 
 - [[white-clover-ground-cover]] -- clover as the other key element in Fukuoka's rice system
-- [[holzer-livestock-integration]] -- Sepp Holzer's approach to livestock integration
+- [[holzer-livestock-integration]] -- [[sepp-holzer]]'s approach to livestock integration
 - [[slugs-and-snails-organic-control]] -- ducks as biological pest control
 ## Historical Context
 
@@ -70,7 +70,7 @@ Longitudinal studies provide increasingly robust data for evidence-based decisio
 Applied work with duck rice paddy spans multiple contexts and scales, from small-scale operations to industrial applications.
 Successful implementation requires attention to site-specific conditions and adaptive management strategies.
 Practitioners benefit from integrating both empirical observations and systematic monitoring protocols.
-Economic viability often depends on careful resource allocation and appropriate technology selection.
+Economic viability often depends on careful resource allocation and [[appropriate-technology]] selection.
 Safety considerations and regulatory compliance are essential components of responsible practice.
 
 ## Future Directions

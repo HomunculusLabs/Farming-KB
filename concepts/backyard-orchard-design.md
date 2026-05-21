@@ -37,8 +37,8 @@ A backyard orchard brings tree fruit production to the home landscape. Even smal
 ### Water Access
 - Ensure irrigation reaches all trees
 - Group trees with similar water needs
-- Avoid planting near the drip line of large shade trees that compete for water
-- Plan for drip irrigation lines during layout — easier to install before planting
+- Avoid planting near the [[drip-line]] of large shade trees that compete for water
+- Plan for [[drip-irrigation]] lines during layout — easier to install before planting
 
 ## Spacing
 
@@ -133,7 +133,7 @@ The space beneath and between fruit trees can be productive if designed carefull
 
 ### What to Plant Under Trees
 - **Spring bulbs**: Daffodils, crocus, allium — bloom before trees leaf out, suppress weeds, deter rodents
-- **Comfrey**: Deep-rooted dynamic accumulator; chop and drop for mulch. Plant at the drip line, not near the trunk
+- **[[comfrey]]**: Deep-rooted dynamic accumulator; [[chop-and-drop]] for mulch. Plant at the drip line, not near the trunk
 - **Nitrogen-fixing ground covers**: White clover, crimson clover
 - **Herbs**: Chives, garlic, chamomile — deter pests, attract pollinators
 - **Berry bushes**: Currants, gooseberries tolerate partial shade

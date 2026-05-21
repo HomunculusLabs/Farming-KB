@@ -9,7 +9,7 @@ sources: []
 
 # Smut Fungi Guide
 
-Smut fungi (order Ustilaginales, phylum [[basidiomycete-phylum-guide|Basidiomycota]]) are plant pathogenic fungi characterized by the production of dark, sooty masses of teliospores that replace plant tissues, particularly reproductive structures. While less visually dramatic than rust fungi, smuts cause significant economic losses in cereal crops worldwide. The name "smut" refers to the soot-like appearance of the spore masses.
+Smut fungi (order Ustilaginales, phylum [[basidiomycete-phylum-guide|Basidiomycota]]) are plant pathogenic fungi characterized by the production of dark, sooty masses of teliospores that replace plant tissues, particularly reproductive structures. While less visually dramatic than [[rust-fungi]], smuts cause significant economic losses in cereal crops worldwide. The name "smut" refers to the soot-like appearance of the spore masses.
 
 ## Defining Characteristics
 
@@ -29,7 +29,7 @@ The largest genus of smut fungi. "Covering smuts" destroy the entire grain/kerne
 
 #### Ustilago maydis (Corn Smut / Huitlacoche)
 - One of the most economically important smut fungi
-- Infects maize (Zea mays) and its wild relative teosinte
+- Infects maize ([[zea-mays]]) and its wild relative teosinte
 - Systemic infection: enters through young tissue, grows throughout the plant
 - Produces tumor-like galls on any above-ground plant part (leaves, stems, ears, tassels)
 - Galls are filled with dark teliospores; young galls are edible (huitlacoche)
@@ -129,7 +129,7 @@ Most smut fungi follow a similar pattern:
 
 ### Biological Control
 - Some bacterial and fungal antagonists show promise against smut fungi
-- Bacillus subtilis and Trichoderma species have been investigated
+- [[bacillus-subtilis]] and [[trichoderma]] species have been investigated
 - Not yet widely adopted commercially
 
 ## Economic Impact
@@ -142,7 +142,7 @@ Most smut fungi follow a similar pattern:
 
 ## Smut Fungi as Model Organisms
 
-Ustilago maydis has become an important model system for studying:
+[[ustilago-maydis]] has become an important model system for studying:
 - Plant-microbe interactions and fungal pathogenicity
 - Mating type and sex determination in fungi
 - Filamentous growth and dimorphism

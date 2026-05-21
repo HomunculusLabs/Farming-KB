@@ -25,11 +25,11 @@ sources:
 
 # Vegetable Garden Guide
 
-Comprehensive reference for home vegetable gardening based on Purdue University Extension guidelines (Lerner & Dana, HO-32-W). Covers planning, soil preparation, planting, care, and harvest.
+Comprehensive reference for [[home-vegetable-gardening]] based on Purdue University Extension guidelines (Lerner & Dana, HO-32-W). Covers planning, soil preparation, planting, care, and harvest.
 
 ## Site Selection
 
-Vegetables grow best in open, level areas with loose, rich, well-drained soil. Minimum 6 hours direct sunlight daily. Improve poor soils by mixing in 2-3 inches of topsoil, peat moss, strawy manure, compost, or leaves plus fertilizer. Avoid heavy clays, sandy soils, and shady spots.
+Vegetables grow best in open, level areas with loose, rich, well-drained soil. Minimum 6 hours direct sunlight daily. Improve poor soils by mixing in 2-3 inches of topsoil, [[peat-moss]], strawy manure, [[compost]], or leaves plus fertilizer. Avoid heavy clays, sandy soils, and shady spots.
 
 **Juglone warning**: Walnut trees produce juglone, toxic to many plants (especially tomatoes). Keep a minimum 50 feet between walnut trees and sensitive plants — roots remain active for years after tree removal.
 
@@ -74,7 +74,7 @@ Vegetables grow best in open, level areas with loose, rich, well-drained soil. M
 
 ## Fertilization
 
-The fertilization program covers four steps: establishing basic fertility via soil test, annual NPK maintenance, high-phosphorus starter solution for transplants, and crop-specific nitrogen side-dressing. Soil pH adjustment (sulfur or limestone) and organic matter management (peat moss, compost, manures, green manures) are also covered. See [[vegetable-garden-fertilization]] for the complete program including rates and timing tables.
+The fertilization program covers four steps: establishing basic fertility via soil test, annual NPK maintenance, high-phosphorus starter solution for transplants, and crop-specific nitrogen side-dressing. [[soil-ph]] adjustment (sulfur or limestone) and organic matter management (peat moss, compost, manures, green manures) are also covered. See [[vegetable-garden-fertilization]] for the complete program including rates and timing tables.
 
 ## Planting Technique
 
@@ -84,7 +84,7 @@ The fertilization program covers four steps: establishing basic fertility via so
 - Most common error: planting too deep
 - Mark rows with cord between stakes
 - Moistening furrow before laying seed helps germination
-- Light mulch (chopped straw, grass clippings, compost, vermiculite) prevents crusting
+- Light mulch (chopped straw, grass clippings, compost, [[vermiculite]]) prevents crusting
 
 ### Transplanting
 - Buy sturdy, green transplants of known cultivars
@@ -113,11 +113,11 @@ If you can crumble a soil ball with your fingers, it is ready to plant. If it cl
 - Deeper cultivation brings weed seeds to surface and damages plant roots
 - Use wheel hoe for large plots
 - Hand-pull weeds close to plants while small
-- 2-4 inches organic mulch controls most weeds
+- 2-4 inches [[organic-mulch]] controls most weeds
 
 ### Mulching
 
-**Black plastic**: Increases soil temperature; ideal for warm-season crops (tomatoes, eggplants, peppers, vine crops). Apply before planting.
+**Black plastic**: Increases [[soil-temperature]]; ideal for warm-season crops (tomatoes, eggplants, peppers, vine crops). Apply before planting.
 
 **Organic mulches** (straw, corn cobs, bark chips, sawdust, compost): Keep soil cooler; ideal for moderating summer heat. Apply in late May/early June after soil warms. Use 4 inches for coarse material, 2 inches for fine material (grass clippings).
 

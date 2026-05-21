@@ -9,7 +9,7 @@ sources: []
 
 # Homestead Dairy Guide
 
-Keeping dairy goats on the homestead provides a reliable supply of fresh milk, cheese, butter, yogurt, and cream. Goats are smaller, more manageable, and require less land and feed than dairy cows, making them the ideal dairy animal for small-scale homesteading.
+Keeping dairy goats on the homestead provides a reliable supply of fresh milk, cheese, butter, yogurt, and cream. Goats are smaller, more manageable, and require less land and feed than dairy cows, making them the ideal dairy animal for small-scale [[homesteading]].
 
 ## Choosing a Dairy Goat Breed
 
@@ -48,7 +48,7 @@ LaMancha: 1-2 gallons/day, 3.5-4% butterfat, 125-150 lbs. Extremely docile, easy
 - Dry, draft-free shelter with good ventilation
 - Minimum 15-20 square feet per goat indoors
 - Access to outdoor space: 200+ square feet per goat minimum
-- Bedding: straw, wood shavings, or deep bedding (composting pack)
+- Bedding: straw, wood shavings, or deep bedding ([[composting]] pack)
 - Secure fencing: 4-5 foot woven wire fencing with electric offset. Goats are escape artists.
 - Separate kidding area if breeding
 

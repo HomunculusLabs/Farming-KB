@@ -9,15 +9,15 @@ sources: []
 
 ## Overview
 
-Yield optimization in mushroom cultivation is the practice of maximizing the dry weight of harvested mushrooms per unit of substrate and effort. While individual grows vary, systematic attention to genetics, substrate preparation, environmental conditions, and harvesting technique can consistently produce above-average results. This page covers the key factors that influence yield and practical strategies for improvement.
+Yield optimization in mushroom cultivation is the practice of maximizing the dry weight of harvested mushrooms per unit of substrate and effort. While individual grows vary, systematic attention to genetics, [[substrate-preparation]], environmental conditions, and harvesting technique can consistently produce above-average results. This page covers the key factors that influence yield and practical strategies for improvement.
 
 ## Understanding Biological Efficiency
 
-Biological efficiency (BE) is the standard metric for mushroom cultivation yield:
+[[biological-efficiency]] (BE) is the standard metric for mushroom cultivation yield:
 
 BE = (dry weight of mushrooms / dry weight of substrate) x 100
 
-For Psilocybe cubensis:
+For [[psilocybe-cubensis]]:
 - Average BE: 75-100%
 - Good BE: 100-150%
 - Excellent BE: 150-200%+
@@ -50,7 +50,7 @@ The only way to confirm yield potential is to fruit the isolate. Maintain a mast
 
 ### Spawn Quality
 
-- Use only fully colonized, contamination-free grain spawn.
+- Use only fully colonized, contamination-free [[grain-spawn]].
 - Shaking at 20-30% colonization speeds full colonization and improves grain distribution.
 - Do not use spawn that smells sour, looks wet/slimy, or has uncolonized patches.
 
@@ -70,10 +70,10 @@ The only way to confirm yield potential is to fruit the isolate. Maintain a mast
 
 Adding 5-10% nitrogen-rich supplements can increase yield by 20-50%:
 
-- **Wheat bran**: Most popular supplement. Add 5-10% by volume. Requires proper pasteurization.
+- **[[wheat-bran]]**: Most popular supplement. Add 5-10% by volume. Requires proper pasteurization.
 - **Coffee grounds**: 5-10% by volume. Can be added to bucket tek.
-- **Soy hulls**: Excellent supplement, especially for oyster mushrooms. Less commonly used for cubensis.
-- **Blood meal**: 2-5% by volume. Very high nitrogen.
+- **Soy hulls**: Excellent supplement, especially for [[oyster-mushrooms]]. Less commonly used for cubensis.
+- **[[blood-meal]]**: 2-5% by volume. Very high nitrogen.
 
 Critical: Supplemented substrates MUST be properly pasteurized (140-170F for 60-120 minutes). The bucket tek is insufficient for supplemented substrates because the added nutrition is highly susceptible to contamination.
 

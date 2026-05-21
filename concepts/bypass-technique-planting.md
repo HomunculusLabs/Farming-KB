@@ -12,7 +12,7 @@ sources:
 
 ## What It Is
 
-The bypass technique is a vertical permaculture method where climbing plants grow from one balcony to the next, creating a communal garden that spans an entire block of flats. Each storey can be overseen and harvested by the people living there.
+The bypass technique is a vertical [[permaculture]] method where climbing plants grow from one balcony to the next, creating a communal garden that spans an entire block of flats. Each storey can be overseen and harvested by the people living there.
 
 ## How It Works
 
@@ -72,7 +72,7 @@ Longitudinal studies provide increasingly robust data for evidence-based decisio
 Applied work with bypass technique planting spans multiple contexts and scales, from small-scale operations to industrial applications.
 Successful implementation requires attention to site-specific conditions and adaptive management strategies.
 Practitioners benefit from integrating both empirical observations and systematic monitoring protocols.
-Economic viability often depends on careful resource allocation and appropriate technology selection.
+Economic viability often depends on careful resource allocation and [[appropriate-technology]] selection.
 Safety considerations and regulatory compliance are essential components of responsible practice.
 
 ## Future Directions

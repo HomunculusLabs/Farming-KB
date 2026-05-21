@@ -13,7 +13,7 @@ Food preservation is the practice of treating and storing food so it remains saf
 
 ## Water Bath Canning
 
-Water bath canning (boiling water canning) processes jars of high-acid foods in boiling water (212°F / 100°C). The high acidity (pH below 4.6) prevents the growth of Clostridium botulinum — the organism that causes botulism.
+Water bath canning (boiling water canning) processes jars of high-acid foods in boiling water (212°F / 100°C). The high acidity (pH below 4.6) prevents the growth of [[clostridium]] botulinum — the organism that causes botulism.
 
 ### Suitable Foods
 
@@ -81,7 +81,7 @@ Pressure canning is the ONLY safe method for canning low-acid foods (pH above 4.
 Fermentation preserves food through the action of beneficial bacteria and yeasts. It is one of the oldest preservation methods and produces probiotic-rich foods with enhanced nutritional value.
 
 ### Lacto-Fermentation
-Uses lactic acid bacteria (LAB) to produce acid, which preserves the food.
+Uses [[lactic-acid-bacteria]] (LAB) to produce acid, which preserves the food.
 
 **Common fermented foods**: Sauerkraut, kimchi, pickles, kombucha, kefir, yogurt.
 

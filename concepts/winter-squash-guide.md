@@ -9,7 +9,7 @@ sources: []
 
 # Winter Squash Guide
 
-Winter squash (Cucurbita species) are warm-season vining crops harvested at maturity when the rind is hard and the seeds are fully formed. Unlike summer squash, winter squash store for months and are a staple homesteading crop for winter food security. This guide covers varieties, growing, curing, and storage.
+Winter squash (Cucurbita species) are warm-season vining crops harvested at maturity when the rind is hard and the seeds are fully formed. Unlike summer squash, winter squash store for months and are a staple [[homesteading]] crop for winter food security. This guide covers varieties, growing, curing, and storage.
 
 ## Popular Varieties
 
@@ -62,7 +62,7 @@ Winter squash (Cucurbita species) are warm-season vining crops harvested at matu
 
 ### Soil
 - Well-drained, fertile soil, pH 6.0-6.8.
-- Work 3-4 inches of compost into the bed before planting.
+- Work 3-4 inches of [[compost]] into the bed before planting.
 - Squash are heavy feeders — rich soil is essential for good production.
 - Avoid fresh manure — increases risk of disease.
 
@@ -84,7 +84,7 @@ Winter squash (Cucurbita species) are warm-season vining crops harvested at matu
 ### Watering
 - 1-2 inches per week.
 - Critical during flowering and fruit development.
-- Drip irrigation ideal; avoid wetting foliage (powdery mildew).
+- [[drip-irrigation]] ideal; avoid wetting foliage ([[powdery-mildew]]).
 - Mulch heavily to conserve moisture.
 
 ### Fertilizing
@@ -98,7 +98,7 @@ Winter squash (Cucurbita species) are warm-season vining crops harvested at matu
 |------|--------|---------|
 | Squash bugs | Suck sap, wilt and kill plants | Hand-pick eggs (bronze clusters under leaves), neem oil, row covers early |
 | Squash vine borer | Larvae bore into stem, wilt plant | Row covers until flowering, slit stem and remove larva, Bt, wrap stem bases with foil |
-| Cucumber beetles | Strip leaves, spread bacterial wilt | Row covers, kaolin clay, beneficial insects |
+| Cucumber beetles | Strip leaves, spread bacterial wilt | Row covers, [[kaolin]] clay, beneficial insects |
 | Powdery mildew | White coating on leaves, reduces yield | Good airflow, neem oil, potassium bicarbonate spray, resistant varieties |
 
 ### Pollination
@@ -127,8 +127,8 @@ Winter squash (Cucurbita species) are warm-season vining crops harvested at matu
 
 Curing thickens the skin and heals minor cuts, dramatically improving storage life.
 
-- **Cucurbita moschata and C. maxima** (butternut, kabocha, hubbard): Cure 10-20 days at 75-85°F, 60-75% humidity. These benefit most from curing.
-- **Cucurbita pepo** (acorn, spaghetti, delicata): Cure 7-10 days at 75-80°F. These have thinner skins and benefit less from curing — some gardeners skip it for acorn squash.
+- **[[cucurbita-moschata]] and C. maxima** (butternut, kabocha, hubbard): Cure 10-20 days at 75-85°F, 60-75% humidity. These benefit most from curing.
+- **[[cucurbita-pepo]]** (acorn, spaghetti, delicata): Cure 7-10 days at 75-80°F. These have thinner skins and benefit less from curing — some gardeners skip it for acorn squash.
 - Place in a single layer, not touching, in a warm dry place.
 - Ensure good airflow.
 

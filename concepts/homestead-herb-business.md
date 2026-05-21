@@ -30,7 +30,7 @@ A homestead herb business transforms homegrown herbs into value-added products: 
 - Lemon balm: calming, easy to grow, perennial
 - Calendula: skin healing, salves, infused oils, annual
 - Peppermint: digestive, tea, tincture
-- Yarrow: wound healing, fever reduction, perennial
+- [[yarrow]]: wound healing, fever reduction, perennial
 - Holy basil (tulsi): adaptogen, growing popularity
 - Valerian: sleep aid, root harvest, perennial
 - Elderberry: syrup, immune support, shrub
@@ -144,7 +144,7 @@ Start with 5-8 varieties. Recommended starter mix:
 ## Sales Channels
 
 - Farmers markets: see [[farmers-market-selling-guide]] for booth and display guidance
-- Online: Etsy, Shopify, see online homestead sales
+- Online: Etsy, Shopify, see [[online-homestead-sales]]
 - CSA additions: herb shares, dried herb boxes
 - Local stores: natural food stores, gift shops, co-ops
 - Herbalists and practitioners: wholesale to acupuncturists, naturopaths

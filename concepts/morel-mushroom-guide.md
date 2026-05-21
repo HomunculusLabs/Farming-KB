@@ -19,7 +19,7 @@ The Morchella genus was significantly revised in 2012 using molecular phylogenet
 
 ### Yellow Morels (Morchella esculenta clade)
 
-- **Morchella esculenta**: Classic yellow morel of eastern North America and Europe
+- **[[morchella-esculenta]]**: Classic yellow morel of eastern North America and Europe
 - **Morchella americana**: Common yellow morel of North America
 - Cap color: Yellow to tan to brownish
 - Pits and ridges irregularly arranged
@@ -28,9 +28,9 @@ The Morchella genus was significantly revised in 2012 using molecular phylogenet
 
 ### Black Morels (Morchella elata clade)
 
-- **Morchella elata**: Black morel of Europe and western North America
+- **[[morchella-elata]]**: Black morel of Europe and western North America
 - **Morchella sextelata**: Western North America
-- **Morchella importuna**: Urban/western landscapes
+- **[[morchella-importuna]]**: Urban/western landscapes
 - Cap color: Dark gray to black when young, becoming tan with age
 - Pits and ridges more vertically arranged than yellow morels
 - Habitat: Conifer forests (especially fire-affected areas), disturbed ground
@@ -55,7 +55,7 @@ Many black morel species are "pyrophilous" — they fruit prolifically in the fi
 
 1. **Trigger**: Fire kills trees, releasing nutrients and creating bare mineral soil
 2. **Chemical signals**: Combustion products (furfural, certain phenolic compounds) may stimulate fruiting
-3. **Soil chemistry**: Post-fire soil pH increases, nutrient availability changes
+3. **Soil chemistry**: Post-fire [[soil-ph]] increases, [[nutrient-availability]] changes
 4. **Competition reduction**: Fire eliminates competing vegetation and fungi
 5. **Timing**: Peak fruiting typically occurs in the first spring after a summer fire (6-10 months)
 
@@ -68,7 +68,7 @@ Wildfire areas attract commercial morel pickers who follow fires across the west
 ### When
 
 - Spring: March in southern latitudes, May-June in northern latitudes
-- Key indicator: soil temperature reaching 50-55F at 4-inch depth
+- Key indicator: [[soil-temperature]] reaching 50-55F at 4-inch depth
 - "Morel season" lasts 2-4 weeks in any given location
 - South-facing slopes fruit first, north-facing slopes later
 - Low elevations before high elevations

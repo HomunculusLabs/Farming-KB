@@ -9,7 +9,7 @@ sources: []
 
 ## Overview
 
-Fungal biopesticides use pathogenic fungi to control insect pests, plant diseases, and weeds as alternatives to synthetic chemical pesticides. Entomopathogenic fungi infect and kill insects, while antagonistic fungi suppress plant pathogens through competition, antibiosis, or parasitism. These biological control agents are central to [[integrated-pest-management|integrated pest management]] (IPM) and organic farming systems.
+Fungal biopesticides use pathogenic fungi to control insect pests, plant diseases, and weeds as alternatives to synthetic chemical pesticides. [[entomopathogenic-fungi]] infect and kill insects, while antagonistic fungi suppress plant pathogens through competition, antibiosis, or parasitism. These biological control agents are central to [[integrated-pest-management|integrated pest management]] (IPM) and organic farming systems.
 
 ## Entomopathogenic Fungi -- Insect Control
 
@@ -52,7 +52,7 @@ Applications:
 
 ### Lecanicillium spp. (formerly Verticillium)
 - **L. lecanii**: Specialized for soft-bodied insects (aphids, whiteflies, scale insects)
-- Also effective against some fungal plant pathogens (rusts, powdery mildew)
+- Also effective against some fungal plant pathogens (rusts, [[powdery-mildew]])
 - Particularly suited to greenhouse environments with high humidity
 - Commercial product "Mycotal" used in greenhouse vegetable production
 
@@ -63,7 +63,7 @@ The infection process follows distinct stages:
 1. **Attachment**: Conidia adhere to insect cuticle using hydrophobic interactions
 2. **Germination**: Spores germinate when conditions are favorable (moisture, temperature 20-30C)
 3. **Penetration**: Germ tubes produce appressoria; enzymes (proteases, lipases, chitinases) degrade cuticle
-4. **Colonization**: Fungal hyphae proliferate in hemocoel (insect body cavity)
+4. **Colonization**: [[fungal-hyphae]] proliferate in hemocoel (insect body cavity)
 5. **Death**: Toxin production, nutrient depletion, and physical disruption kill the host in 3-10 days
 6. **Sporulation**: Under humid conditions, fungus emerges from cadaver and produces new conidia
 
@@ -91,7 +91,7 @@ Mechanisms of action:
 - Used as soil drench and seed treatment
 
 ### Coniothyrium minitans
-- Specific mycoparasite of Sclerotinia sclerotiorum and S. minor
+- Specific mycoparasite of [[sclerotinia-sclerotiorum]] and S. minor
 - Parasitizes and destroys sclerotia (survival structures) in soil
 - Breaks disease cycle for Sclerotinia stem rot, white mold
 - Commercial product "Contans"
@@ -104,13 +104,13 @@ Mechanisms of action:
 - Specific to target weed; no effect on crops
 
 ### Puccinia spp. (Rust Fungi)
-- Several rust fungi investigated as bioherbicides
+- Several [[rust-fungi]] investigated as bioherbicides
 - Puccinia jaceae for diffuse knapweed control
 - Puccinia carduorum for musk thistle control
 - Require specific environmental conditions (moisture, temperature) for infection
 
 ### Other Mycoherbicides
-- **Chondrostereum purpureum**: Controls stump sprouting in forest management
+- **[[chondrostereum-purpureum]]**: Controls stump sprouting in forest management
 - **Phytophthora palmivora**: Commercial product "Devine" for stranglervine control
 - **Myrothecium verrucaria**: Under investigation for kudzu control
 
@@ -124,7 +124,7 @@ Mechanisms of action:
 - Baits: Conidia mixed with attractants for social insects (termites, ants)
 
 ### Major Commercial Products
-- **Metarhizium-based**: Met52 (Novozymes), BioBlast (EcoScience), Green Guard (Becker Underwood)
+- **[[metarhizium]]-based**: Met52 (Novozymes), BioBlast (EcoScience), Green Guard (Becker Underwood)
 - **Beauveria-based**: BotaniGard (BioWorks), Mycotrol (Laverlam), Naturalis (Intrachem)
 - **Trichoderma-based**: T-22 (BioWorks), RootShield (BioWorks), Remedier)
 - **Lecanicillium-based**: Mycotal (Biobest), Vertalec (Koppert)

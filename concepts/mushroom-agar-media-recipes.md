@@ -15,13 +15,13 @@ sources:
 
 ## Overview
 
-Agar media are gelatinous, nutrient-rich substrates used for culturing mushroom mycelium in the laboratory. They serve essential functions in mushroom cultivation: isolating pure strains from spores or tissue, expanding mycelium for [[mushroom-cultivation-grain-spawn|grain spawn]] production, and maintaining [[mushroom-genetics-strain-selection|strain collections]]. Different formulations suit different purposes and species preferences.
+Agar media are gelatinous, nutrient-rich substrates used for culturing mushroom [[mycelium]] in the laboratory. They serve essential functions in mushroom cultivation: isolating pure strains from spores or tissue, expanding mycelium for [[mushroom-cultivation-grain-spawn|grain spawn]] production, and maintaining [[mushroom-genetics-strain-selection|strain collections]]. Different formulations suit different purposes and species preferences.
 
 ## Basic Principles
 
 All agar media share these components:
 
-- **Agar:** A gelling agent derived from red algae (Gelidium or Gracilaria species), typically used at 1.5-2.0% concentration (15-20 g per liter). Provides a solid but moist surface for mycelial growth
+- **Agar:** A gelling agent derived from red algae ([[gelidium]] or [[gracilaria]] species), typically used at 1.5-2.0% concentration (15-20 g per liter). Provides a solid but moist surface for mycelial growth
 - **Nutrient source:** Provides carbohydrates, nitrogen, minerals, and vitamins for fungal growth
 - **Water:** Distilled or deionized; typically 1 liter per recipe
 - **pH adjustment:** Most mushroom mycelium prefers slightly acidic conditions (pH 5.0-6.5)
@@ -65,7 +65,7 @@ An excellent all-purpose medium, often preferred over PDA for its consistency an
 
 ### Dog Food Agar (DFA)
 
-A versatile, nutrient-rich medium popularized by Paul Stamets for its ability to support a wide range of fungal species. Uses commercially available canned dog food as the nutrient base.
+A versatile, nutrient-rich medium popularized by [[paul-stamets]] for its ability to support a wide range of fungal species. Uses commercially available canned dog food as the nutrient base.
 
 **Ingredients:**
 - 1 can (approximately 400 g) meat-based canned dog food (avoid fish-based varieties)
@@ -80,7 +80,7 @@ A versatile, nutrient-rich medium popularized by Paul Stamets for its ability to
 5. Return liquid to 1 liter volume
 6. Add agar, stir until dissolved
 7. Adjust pH to 5.6-6.0
-8. Dispense and sterilize at 15 psi for 30 minutes (the organic content requires slightly longer sterilization)
+8. Dispense and sterilize at 15 psi for 30 minutes (the organic content requires slightly longer [[sterilization]])
 
 ### Dextrose Yeast Extract Agar (DYEA)
 
@@ -110,7 +110,7 @@ For isolating fungi from contaminated samples:
 
 - Prepare PDA or MEA as described
 - After autoclaving and cooling to 50-55°C (warm but not hot enough to denature antibiotics), add:
-  - 50 mg streptomycin per liter, OR
+  - 50 mg [[streptomycin]] per liter, OR
   - 30 mg chloramphenicol per liter, OR
   - 25 mg penicillin + 50 mg streptomycin per liter
 
@@ -146,5 +146,5 @@ A richer medium for fastidious species:
 ## Pouring Plates
 
 1. Allow sterilized media to cool to approximately 50-55°C (comfortable to touch but still liquid)
-2. Pour 20-25 mL into each sterile Petri dish inside a laminar flow hood
+2. Pour 20-25 mL into each sterile Petri dish inside a [[laminar-flow-hood]]
 3. Cover immediately and allow to solidify (15-30 minutes)

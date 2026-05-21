@@ -21,7 +21,7 @@ The relationship between cannabis and anxiety is complex and dose-dependent. Low
 ### High Doses (15mg+ THC)
 - Can trigger panic attacks, paranoia, and increased anxiety
 - Overstimulation of CB1 in the amygdala
-- The "bad trip" phenomenon in susceptible individuals
+- The "[[bad-trip]]" phenomenon in susceptible individuals
 
 ### CBD (any dose)
 - Consistently anxiolytic across dose ranges
@@ -58,8 +58,8 @@ The relationship between cannabis and anxiety is complex and dose-dependent. Low
 1. **Start with CBD-only products** — no risk of anxiety increase
 2. **If THC is needed**, use very low doses (1-2.5mg) with CBD in 1:1 or higher CBD ratio
 3. **Avoid high-THC strains** if anxiety is the primary condition
-4. **Strain selection**: High-linalool, high-caryophyllene strains (e.g., ACDC, Harlequin, Cannatonic)
-5. **Terpenes matter**: Linalool (anxiolytic), limonene (mood elevation), myrcene (sedation)
+4. **Strain selection**: High-[[linalool]], high-caryophyllene strains (e.g., ACDC, Harlequin, Cannatonic)
+5. **[[terpenes]] matter**: Linalool (anxiolytic), [[limonene]] (mood elevation), [[myrcene]] (sedation)
 
 ## Contraindications
 - Personal or family history of psychosis

@@ -35,7 +35,7 @@ feed inputs.
   digestibility. Excellent for lactating dairy animals, growing livestock,
   and horses in work. Can cause bloat if fed as the sole forage to cattle
   and sheep.
-- **Clover hay (red/white):** 12-18% protein. Good quality, but red clover
+- **Clover hay (red/white):** 12-18% protein. Good quality, but [[red-clover]]
   can cause reproductive issues in sheep (phytoestrogens). White clover is
   lower-yielding but excellent quality.
 - **Birdsfoot Trefoil:** 12-16% protein. Non-bloating legume. Tolerates

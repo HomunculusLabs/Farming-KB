@@ -52,11 +52,11 @@ For sites that fail conventional percolation tests:
 
 ## Composting Toilets
 
-Composting toilets treat human waste through aerobic decomposition, converting it into compost without water. They are the most practical off-grid toilet solution.
+[[composting-toilets]] treat human waste through aerobic [[decomposition]], converting it into [[compost]] without water. They are the most practical off-grid toilet solution.
 
 ### Self-Contained Units
 
-All components in one unit — toilet and composting chamber together.
+All components in one unit — toilet and [[composting]] chamber together.
 
 **Popular models:**
 - **Nature's Head**: Most widely used, urine-diverting, 12V vent fan, handles 1-2 people full-time
@@ -74,7 +74,7 @@ All components in one unit — toilet and composting chamber together.
 **Cons:**
 - Small capacity — must empty solids every 2-4 weeks (full-time use)
 - Urine must be emptied every 2-3 days
-- Requires bulking agent (coconut coir, peat moss, sawdust)
+- Requires bulking agent (coconut coir, [[peat-moss]], sawdust)
 - Initial cost: $900-2,000
 
 ### Centralized/Remote Systems
@@ -108,7 +108,7 @@ The Humanure system, developed by Joseph Jenkins, is a DIY composting toilet app
 3. When the bucket is full, empty it into an outdoor compost bin
 4. The compost bin is managed like any other compost pile, maintaining proper carbon-nitrogen balance
 5. After 1-2 years of composting, the material is safe to use on ornamental plants (not food crops)
-6. NEVER use fresh compost on food crops — complete thermophilic composting is essential for pathogen kill
+6. NEVER use fresh compost on food crops — complete [[thermophilic-composting]] is essential for pathogen kill
 
 ### Compost Bin Design
 
@@ -126,7 +126,7 @@ The Humanure system, developed by Joseph Jenkins, is a DIY composting toilet app
 - Let finished compost age for 6-12 months before use
 - Use only on ornamental plants, fruit trees, or buried in food gardens
 - Hand washing is essential after handling
-- Local regulations vary — some prohibit humanure composting
+- Local regulations vary — some prohibit [[humanure-composting]]
 
 ## Greywater Systems
 

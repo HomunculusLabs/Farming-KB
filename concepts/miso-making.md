@@ -9,13 +9,13 @@ sources: []
 
 ## What Is Miso
 
-Miso is a traditional Japanese fermented soybean paste. It is one of the most complex and time-intensive ferments in the culinary world, requiring months to years of aging to develop its characteristic deep umami flavor. Miso serves as the base for soups, marinades, glazes, dressings, and pickling brines.
+Miso is a traditional Japanese fermented [[soybean]] paste. It is one of the most complex and time-intensive ferments in the culinary world, requiring months to years of aging to develop its characteristic deep umami flavor. Miso serves as the base for soups, marinades, glazes, dressings, and pickling brines.
 
-The essential components are: cooked soybeans, koji (rice or barley inoculated with Aspergillus oryzae), salt, and time.
+The essential components are: cooked soybeans, koji (rice or barley inoculated with [[aspergillus-oryzae]]), salt, and time.
 
 ## Koji Preparation
 
-Koji is the foundational ingredient in miso making. It is steamed rice or barley inoculated with Aspergillus oryzae, a filamentous fungus that produces enzymes (amylase and protease) that break down starches into sugars and proteins into amino acids.
+Koji is the foundational ingredient in miso making. It is steamed rice or barley inoculated with [[aspergillus]] oryzae, a filamentous fungus that produces enzymes (amylase and protease) that break down starches into sugars and proteins into amino acids.
 
 ### Making Koji from Scratch
 
@@ -28,7 +28,7 @@ Koji is the foundational ingredient in miso making. It is steamed rice or barley
 7. Monitor temperature — the koji will generate its own heat as the mold grows
 8. After 12-18 hours, stir the grain to redistribute heat and moisture
 9. Continue incubating for 36-48 hours total
-10. Koji is ready when the grain is covered in white, fragrant mycelium with a sweet aroma
+10. Koji is ready when the grain is covered in white, fragrant [[mycelium]] with a sweet aroma
 
 ### Buying Koji
 
@@ -124,5 +124,5 @@ Salt serves two critical roles: inhibiting unwanted bacteria and controlling the
 ## See Also
 
 - [[tempeh-making]] — another soybean fermentation using different fungi
-- [[natto-making]] — fermented soybeans using Bacillus subtilis
+- [[natto-making]] — fermented soybeans using [[bacillus-subtilis]]
 - [[vinegar-making]] — another traditional fermentation process

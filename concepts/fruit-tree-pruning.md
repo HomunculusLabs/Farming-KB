@@ -15,7 +15,7 @@ Pruning is the selective removal of branches, shoots, and roots to shape fruit t
 
 - **Improve fruit quality**: More light and air reach the fruiting wood, producing larger, sweeter, better-colored fruit.
 - **Increase yield**: Proper pruning balances vegetative growth with fruit production.
-- **Disease prevention**: Open canopy improves airflow, reducing fungal diseases (apple scab, brown rot, powdery mildew).
+- **Disease prevention**: Open canopy improves airflow, reducing fungal diseases (apple scab, [[brown-rot]], [[powdery-mildew]]).
 - **Manage tree size**: Keep trees accessible for pruning, spraying, thinning, and harvesting.
 - **Remove dead/diseased wood**: Prevent the spread of pathogens and structural weakness.
 - **Renew bearing wood**: Fruit trees produce best on young wood. Pruning stimulates new growth.

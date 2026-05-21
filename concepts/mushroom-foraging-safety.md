@@ -9,31 +9,31 @@ sources: [raw/papers/mycelium-running-stamets.md, raw/papers/the-mushroom-cultiv
 
 # Mushroom Foraging Safety
 
-Mushroom foraging is rewarding but carries genuine risks. Several mushroom species contain lethal [[mushroom-toxins-and-poisoning|toxin]]s, and many edible species have deadly lookalikes. Proper identification skills are essential before consuming any wild mushroom.
+Mushroom foraging is rewarding but carries genuine risks. Several mushroom species contain lethal [[mushroom-toxins-and-poisoning|toxin]] s, and many edible species have deadly lookalikes. Proper identification skills are essential before consuming any wild mushroom.
 
 ## The Golden Rules
 
 1. **Never eat a mushroom unless you are 100% certain of its identification.** If in doubt, throw it out.
 2. **Learn from experts.** Join a local mycological society, take guided walks, and study with experienced foragers.
-3. **Identify the mushroom, not just match pictures.** Consider habitat, season, substrate, cap features, gill structure, stem characteristics, spore print color, and bruising reactions.
+3. **Identify the mushroom, not just match pictures.** Consider habitat, season, substrate, cap features, gill structure, stem characteristics, [[spore-print]] color, and bruising reactions.
 4. **When trying a new edible species for the first time, eat only a small amount and wait 24 hours.** Some people have individual sensitivities.
 5. **Keep a voucher specimen** of every mushroom you eat, in case identification needs to be confirmed later.
 
 ## Deadly Species
 
 ### Death Cap (Amanita phalloides)
-Responsible for the majority of mushroom fatalities worldwide. Contains amatoxins that destroy the liver and kidneys. Symptoms may not appear for 6-24 hours after ingestion, by which time organ damage may be irreversible. Looks similar to several edible species (paddy straw mushroom, some caesar's mushrooms).
+Responsible for the majority of mushroom fatalities worldwide. Contains amatoxins that destroy the liver and kidneys. Symptoms may not appear for 6-24 hours after ingestion, by which time organ damage may be irreversible. Looks similar to several edible species ([[paddy-straw-mushroom]], some caesar's mushrooms).
 
 ### Destroying Angel (Amanita virosa, A. bisporigera, A. ocreata)
-Pure white, elegant mushrooms in the Amanita genus. Also contain lethal amatoxins. Often confused with edible white mushrooms by beginners.
+Pure white, elegant mushrooms in the [[amanita-genus]]. Also contain lethal amatoxins. Often confused with edible white mushrooms by beginners.
 
 ### Galerina marginata (Deadly Galerina)
-A small brown mushroom that grows on wood -- the same habitat as many edible species including the honey mushroom (Armillaria mellea) and oyster mushrooms. Contains the same lethal amatoxins as Amanita species.
+A small brown mushroom that grows on wood -- the same habitat as many edible species including the honey mushroom ([[armillaria-mellea]]) and [[oyster-mushrooms]]. Contains the same lethal amatoxins as Amanita species.
 
 ### Other Dangerous Species
 - **Cortinarius species**: Some contain orellanine, which causes irreversible kidney failure
 - **Conocybe filaris**: Small lawn mushroom containing amatoxins
-- **Amanita muscaria**: Fly agaric -- rarely fatal but causes severe CNS effects (ibotenic acid, muscimol)
+- **[[amanita-muscaria]]**: Fly agaric -- rarely fatal but causes severe CNS effects (ibotenic acid, muscimol)
 
 ## Deadly Lookalikes
 

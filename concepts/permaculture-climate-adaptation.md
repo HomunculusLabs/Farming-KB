@@ -9,7 +9,7 @@ sources: []
 
 # Permaculture Climate Adaptation
 
-Climate adaptation in permaculture means designing systems that can withstand and even benefit from extreme weather events — drought, flood, heat waves, freezes, storms, and unpredictable seasonal patterns. Rather than fighting climate conditions with inputs and infrastructure, permaculture works with natural patterns to build inherent resilience into the landscape.
+Climate adaptation in [[permaculture]] means designing systems that can withstand and even benefit from extreme weather events — drought, flood, heat waves, freezes, storms, and unpredictable seasonal patterns. Rather than fighting climate conditions with inputs and infrastructure, permaculture works with natural patterns to build inherent resilience into the landscape.
 
 ## Designing for Drought
 
@@ -19,7 +19,7 @@ Drought is one of the most common and challenging climate stresses. Permaculture
 - Swales on contour to infiltrate rainfall (see [[water-management]])
 - Ponds and dams for surface water storage
 - Rain tanks and cisterns for roof catchment
-- Soil improvement to increase water-holding capacity (organic matter, biochar)
+- Soil improvement to increase water-holding capacity (organic matter, [[biochar]])
 - Deep mulching to reduce evaporation
 
 ### Plant Strategies
@@ -31,9 +31,9 @@ Drought is one of the most common and challenging climate stresses. Permaculture
 
 ### Soil Strategies
 - Increase organic matter content (each 1% increase holds approximately 20,000 gallons more water per acre)
-- Biochar amendment increases water retention and nutrient availability
-- Minimize tillage to preserve soil structure and mycorrhizal networks
-- Cover crops to protect soil from drying winds and sun
+- Biochar amendment increases water retention and [[nutrient-availability]]
+- Minimize tillage to preserve soil structure and [[mycorrhizal-networks]]
+- [[cover-crops]] to protect soil from drying winds and sun
 - Rock mulches can reduce evaporation while slowly releasing minerals
 
 ### Management
@@ -44,7 +44,7 @@ Drought is one of the most common and challenging climate stresses. Permaculture
 
 ## Designing for Flood
 
-Excessive water can be as damaging as too little. Permaculture design distributes, slows, and safely channels floodwater.
+Excessive water can be as damaging as too little. [[permaculture-design]] distributes, slows, and safely channels floodwater.
 
 ### Earthworks for Flood Management
 - Swales spread water across the landscape instead of concentrating it
@@ -90,7 +90,7 @@ Rising temperatures and more frequent heat waves stress plants, animals, and peo
 - Feed during cooler parts of the day
 
 ### Building Design
-- Passive solar design — orient buildings to minimize heat gain in summer
+- [[passive-solar-design]] — orient buildings to minimize heat gain in summer
 - Thermal mass for temperature stabilization
 - Natural ventilation (cross-ventilation, stack effect)
 - Green roofs and living walls for insulation

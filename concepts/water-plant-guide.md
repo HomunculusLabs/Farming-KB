@@ -24,12 +24,12 @@ A reasonable balance can be established by introducing water from an established
 ## Floating-Leaved Plants
 
 ### Azolla spp (Family: Azollaceae)
-Small, perennial, free-floating fern hosting a microscopic alga (*Anabaena azolla*) in its leaves. The alga fixes atmospheric nitrogen and makes it available as ammonia. Laboratory research has found the alga can also produce hydrogen from water -- promising for solar energy storage. Used extensively in Vietnam as a rice paddy companion. Valuable food for pigs, poultry, and waterfowl. Controls mosquitoes and weeds by covering the water surface. Good nitrogen-rich mulch when dried, with water-holding properties similar to peat moss.
+Small, perennial, free-floating fern hosting a microscopic alga (*Anabaena [[azolla]]*) in its leaves. The alga fixes atmospheric nitrogen and makes it available as ammonia. Laboratory research has found the alga can also produce hydrogen from water -- promising for solar energy storage. Used extensively in Vietnam as a rice paddy companion. Valuable food for pigs, poultry, and waterfowl. Controls mosquitoes and weeds by covering the water surface. Good nitrogen-rich mulch when dried, with water-holding properties similar to [[peat-moss]].
 
 ### Duckweed (Family: Lemnaceae)
-Wolffia, Wolffiella, Spirodela, and Lemna -- about 40 known perennial free-floating species, among the most vigorously growing plants on earth (some double every 3 days). Valuable for removing excess nutrients from water. Tests on *Lemna minor* and *L. trisulca* show they concentrate boron, aluminium, manganese, iron, titanium, copper, and cobalt from water.
+Wolffia, Wolffiella, Spirodela, and Lemna -- about 40 known perennial free-floating species, among the most vigorously growing plants on earth (some double every 3 days). Valuable for removing excess nutrients from water. Tests on *[[lemna-minor]]* and *L. trisulca* show they concentrate boron, aluminium, manganese, iron, titanium, copper, and cobalt from water.
 
-**Wolffia arrhiza** (Khai-nam): The smallest flowering plant on earth. 20% protein, 44% carbohydrate, 5% fat, vitamins A, B2, B6, and G. Cultivated in Burma, Laos, and Thailand as a vegetable. Calculated annual yield: 265 tons wet weight or 10.5 tons dry weight/ha/year. Ideal feed for waterfowl and poultry, cattle, and pigs.
+**[[wolffia-arrhiza]]** (Khai-nam): The smallest flowering plant on earth. 20% protein, 44% [[carbohydrate]], 5% fat, vitamins A, B2, B6, and G. Cultivated in Burma, Laos, and Thailand as a vegetable. Calculated annual yield: 265 tons wet weight or 10.5 tons dry weight/ha/year. Ideal feed for waterfowl and poultry, cattle, and pigs.
 
 **Spirodela oligorhiza, S. polyrhiza**: Can produce the feed equivalent of 60 ha of soybeans in 1 ha. Protein 37-45%, nitrogen 6-7%, phosphorus 1.4-3%, potassium 1.5-3%, calcium 1%, fat 4-6%, metabolisable energy 1958 cal/kg.
 
@@ -77,7 +77,7 @@ Interdisciplinary approaches have proven particularly valuable in advancing our 
 Applied work with water plant guide spans multiple contexts and scales, from small-scale operations to industrial applications.
 Successful implementation requires attention to site-specific conditions and adaptive management strategies.
 Practitioners benefit from integrating both empirical observations and systematic monitoring.
-Economic viability often depends on careful resource allocation and appropriate technology selection.
+Economic viability often depends on careful resource allocation and [[appropriate-technology]] selection.
 
 ## Future Directions
 

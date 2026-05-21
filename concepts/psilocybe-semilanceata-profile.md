@@ -12,12 +12,12 @@ sources:
 
 ## Overview
 
-Psilocybe semilanceata, the liberty cap, is the classic and most widely known psychoactive mushroom of Europe. It may be the most common psychoactive Psilocybe mushroom in the world. The first documented case of psilocybin intoxication occurred with this species in London's St. James's Green Park in 1799.
+[[psilocybe-semilanceata]], the liberty cap, is the classic and most widely known psychoactive mushroom of Europe. It may be the most common psychoactive Psilocybe mushroom in the world. The first documented case of [[psilocybin]] intoxication occurred with this species in London's St. James's Green Park in 1799.
 
 ## Taxonomy
 
 - **Species**: Psilocybe semilanceata (Fr.) Kumm. / (Fr.) Quel.
-- **Synonyms**: Agaricus semilanceatus Fr., Coprinarius semilanceatus Fr., Panaeolus semilanceatus (Fr.) Lge.
+- **Synonyms**: [[agaricus]] semilanceatus Fr., Coprinarius semilanceatus Fr., Panaeolus semilanceatus (Fr.) Lge.
 - **Common names**: Liberty cap
 
 ## Macroscopic Features
@@ -26,7 +26,7 @@ Psilocybe semilanceata, the liberty cap, is the classic and most widely known ps
 - **Gills**: Olive brown to blackish purple brown, crowded, edges often remaining white. Attachment adnexed to roughly linear.
 - **Stem**: 6-12 cm long, 1.25-2 mm thick, very slender and always twisted. Yellowish or whitish; areas under pressure develop bluish-green stains. Cortinate fibrils appear at center like remnants of a veil.
 - **Flesh**: Pale yellow in cap, ocher brown in stem. Odorless, mild flavor.
-- **Spore print**: Blackish purple brown.
+- **[[spore-print]]**: Blackish purple brown.
 - **Spores**: 12-16 x 6-8 micrometers, elongated to elliptical.
 
 ## Potency
@@ -45,7 +45,7 @@ Psilocybe semilanceata, the liberty cap, is the classic and most widely known ps
 
 ## Historical Significance
 
-The 1799 intoxication of a London family, documented by E. Brande and J. Sowerby, is the earliest known case of psilocybin mushroom intoxication. Symptoms included dilated pupils, spontaneous laughter, delirium, and visual disturbances. M.C. Cooke (c. 1900) later noted that only the blue-bruising variety caused symptoms.
+The 1799 intoxication of a London family, documented by E. Brande and J. Sowerby, is the earliest known case of [[psilocybin-mushroom]] intoxication. Symptoms included dilated pupils, spontaneous laughter, delirium, and visual disturbances. M.C. Cooke (c. 1900) later noted that only the blue-bruising variety caused symptoms.
 
 ## Distinguishing Features
 
@@ -77,7 +77,7 @@ Interdisciplinary approaches have proven particularly valuable in advancing our 
 Applied work with psilocybe semilanceata profile spans multiple contexts and scales, from small-scale operations to industrial applications.
 Successful implementation requires attention to site-specific conditions and adaptive management strategies.
 Practitioners benefit from integrating both empirical observations and systematic monitoring.
-Economic viability often depends on careful resource allocation and appropriate technology selection.
+Economic viability often depends on careful resource allocation and [[appropriate-technology]] selection.
 
 ## Future Directions
 

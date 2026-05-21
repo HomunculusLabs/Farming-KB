@@ -45,7 +45,7 @@ Training establishes the permanent structure of the grapevine — the framework 
 - Creates a vertical curtain of foliage
 - Excellent light exposure and air circulation
 - Requires more maintenance but produces premium fruit quality
-- Best for Vitis vinifera and quality wine production
+- Best for [[vitis-vinifera]] and quality wine production
 
 ### Geneva Double Curtain (GDC)
 - Two parallel wires at 5-6 feet, separated by 4 feet

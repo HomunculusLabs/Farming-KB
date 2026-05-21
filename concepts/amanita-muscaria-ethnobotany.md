@@ -18,15 +18,15 @@ sources:
 
 # Amanita Muscaria Ethnobotany
 
-The ethnobotanical history of the fly-agaric mushroom (*Amanita muscaria*), from Siberian shamanism to its role in psychedelic theories about ancient religion.
+The ethnobotanical history of the fly-agaric mushroom (*[[amanita-muscaria]]*), from [[siberian-shamanism]] to its role in psychedelic theories about ancient religion.
 
 ## The Mushroom
 
 *Amanita muscaria* (fly-agaric) is one of the most recognizable organisms on Earth -- a large, bright red mushroom with white spots. It is mycorrhizal, growing in symbiotic association with the roots of trees, primarily birch, pine, and fir. It is found throughout the temperate and boreal regions of the Northern Hemisphere.
 
-Unlike the psilocybin mushrooms, *A. muscaria* does not contain tryptamine alkaloids. Its primary active compounds are:
+Unlike the [[psilocybin-mushrooms]], *A. muscaria* does not contain tryptamine alkaloids. Its primary active compounds are:
 
-- **Ibotenic acid**: A glutamate receptor agonist that is present in the fresh mushroom. It is responsible for many of the less desirable effects (nausea, confusion, agitation).
+- **[[ibotenic-acid]]**: A glutamate receptor agonist that is present in the fresh mushroom. It is responsible for many of the less desirable effects (nausea, confusion, agitation).
 - **Muscimol**: The primary psychoactive compound, formed by the decarboxylation of ibotenic acid. Muscimol is a GABA-A receptor agonist, producing sedative, dissociative, and hallucinogenic effects qualitatively different from psilocybin or LSD.
 - **Muscarine**: Present in very small amounts and not responsible for the mushroom's psychoactive effects (contrary to historical assumptions).
 
@@ -67,10 +67,10 @@ A distinctive feature of Siberian *A. muscaria* use is the practice of drinking 
 
 ## Wasson's Soma Hypothesis
 
-Gordon Wasson proposed in *Soma: Divine Mushroom of Immortality* (1968) that the Vedic Soma was *Amanita muscaria*. This hypothesis, while influential in popular culture, has been challenged:
+[[gordon-wasson]] proposed in *Soma: Divine Mushroom of Immortality* (1968) that the Vedic Soma was *Amanita muscaria*. This hypothesis, while influential in popular culture, has been challenged:
 
-- The Rig Veda descriptions are too poetically distorted to be botanically definitive.
-- Alternative candidates (Syrian rue, ephedra, various mushrooms) have been proposed by other scholars.
+- The [[rig-veda]] descriptions are too poetically distorted to be botanically definitive.
+- Alternative candidates ([[syrian-rue]], ephedra, various mushrooms) have been proposed by other scholars.
 - The lack of any indigenous *Amanita muscaria* tradition in India itself is problematic.
 - Wasson's argument that the Soma cult spread from India to Siberia (or vice versa) is circular.
 

@@ -28,7 +28,7 @@ Bamboo is one of the fastest-growing and most versatile building materials on Ea
 - Thick walls, large diameter (4-6 inches)
 - Exceptional strength and durability
 - Native to Central and South America
-- Used in Colombia's modern bamboo construction industry
+- Used in Colombia's modern [[bamboo-construction]] industry
 
 ### Phyllostachys edulis (Moso Bamboo)
 - The most commercially important bamboo species

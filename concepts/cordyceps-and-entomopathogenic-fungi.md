@@ -9,7 +9,7 @@ sources: []
 
 # Cordyceps and Entomopathogenic Fungi
 
-Entomopathogenic fungi are fungi that infect and kill insects and other arthropods. Among these, the genus Cordyceps and its relatives (Ophiocordyceps) are the most famous, known for their dramatic manipulation of host behavior. These fungi are important natural regulators of insect populations, sources of medicinal compounds, and emerging tools in biological pest control.
+[[entomopathogenic-fungi]] are fungi that infect and kill insects and other arthropods. Among these, the genus Cordyceps and its relatives (Ophiocordyceps) are the most famous, known for their dramatic manipulation of host behavior. These fungi are important natural regulators of insect populations, sources of medicinal compounds, and emerging tools in biological pest control.
 
 ## Cordyceps and Ophiocordyceps
 
@@ -40,7 +40,7 @@ The most famous entomopathogenic fungus, documented infecting carpenter ants (Ca
 - Some ants recognize infected individuals and carry them away from the colony
 
 ### Cordyceps militaris
-A bright orange-red species that parasitizes pupae of Lepidoptera (butterflies and moths). Commercially cultivated and increasingly used as a source of cordycepin and other bioactive compounds. Easier to cultivate than the famous C. sinensis.
+A bright orange-red species that parasitizes pupae of Lepidoptera (butterflies and moths). Commercially cultivated and increasingly used as a source of [[cordycepin]] and other bioactive compounds. Easier to cultivate than the famous C. sinensis.
 
 ### Ophiocordyceps sinensis (Cordyceps sinensis / Yartsa Gunbu)
 The most prized medicinal fungus in Traditional Chinese Medicine.
@@ -51,7 +51,7 @@ The most prized medicinal fungus in Traditional Chinese Medicine.
 - Traditionally harvested by hand in spring; increasingly scarce due to overharvesting
 - Prices reached $50,000-100,000 per kilogram at peak, though prices have moderated
 - Contains cordycepin (3'-deoxyadenosine), adenosine, and other bioactive compounds
-- CS-4 is a commercially available fermented mycelium product claimed to mimic wild C. sinensis
+- CS-4 is a commercially available fermented [[mycelium]] product claimed to mimic wild C. sinensis
 - Classified as a protected species in China; harvest regulations have been implemented
 
 ## Beauveria

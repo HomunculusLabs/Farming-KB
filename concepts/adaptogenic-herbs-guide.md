@@ -16,7 +16,7 @@ Adaptogens are a class of herbs and mushrooms that help the body resist physiolo
 2. Have a normalizing effect (bring homeostasis regardless of direction of imbalance).
 3. Be safe and non-toxic with minimal side effects.
 
-This guide covers five primary adaptogenic herbs: ashwagandha, rhodiola, holy basil, eleuthero, and maca.
+This guide covers five primary adaptogenic herbs: [[ashwagandha]], rhodiola, holy basil, eleuthero, and maca.
 
 ## Ashwagandha (Withania somnifera)
 
@@ -43,7 +43,7 @@ Ayurvedic rasayana (rejuvenative) herb used for over 3,000 years. One of the mos
 - Take with food. Consistent use for 6-8 weeks for full effects.
 
 ### Contraindications
-- Pregnancy (uterine stimulant). Autoimmune conditions. Hyperthyroidism. Nightshade allergy (Solanaceae family). May enhance effects of sedatives and thyroid medications.
+- Pregnancy (uterine stimulant). Autoimmune conditions. Hyperthyroidism. Nightshade allergy ([[solanaceae]] family). May enhance effects of sedatives and thyroid medications.
 
 ---
 
@@ -60,7 +60,7 @@ Arctic/alpine herb used in Scandinavian, Russian, and traditional Chinese medici
 
 ### Mechanisms
 - Modulates cortisol and stress hormone release.
-- Enhances neurotransmitter activity (serotonin, dopamine, norepinephrine).
+- Enhances neurotransmitter activity ([[serotonin]], dopamine, norepinephrine).
 - Activates AMPK pathway (cellular energy sensor), mimicking exercise effects.
 - Increases cellular ATP production and oxygen utilization.
 - Anti-fatigue: reduces perceived exertion and mental fatigue.
@@ -83,10 +83,10 @@ Arctic/alpine herb used in Scandinavian, Russian, and traditional Chinese medici
 Sacred herb in Hinduism known as Tulsi in India. Used in Ayurvedic medicine for thousands of years as a rasayana. Called "the incomparable one" and "elixir of life." Three main varieties: Rama (green), Krishna (purple), and Vana (wild forest type). All have adaptogenic properties, with some variation in potency.
 
 ### Key Compounds
-- **Eugenol:** Phenolic compound (also found in cloves). Anti-inflammatory, analgesic, antioxidant.
-- **Ursolic acid:** Triterpenoid with anti-inflammatory, anti-tumor, and hepatoprotective effects.
+- **[[eugenol]]:** Phenolic compound (also found in cloves). Anti-inflammatory, analgesic, antioxidant.
+- **[[ursolic-acid]]:** Triterpenoid with anti-inflammatory, anti-tumor, and hepatoprotective effects.
 - **Ocimumosides:** Unique glycosides with anti-stress activity.
-- **Linalool:** Monoterpene alcohol with anxiolytic and calming effects.
+- **[[linalool]]:** Monoterpene alcohol with anxiolytic and calming effects.
 - **Rosmarinic acid:** Polyphenol with antioxidant and anti-inflammatory activity.
 - **Apigenin:** Flavonoid with anxiolytic and mild sedative effects.
 
@@ -113,7 +113,7 @@ Sacred herb in Hinduism known as Tulsi in India. Used in Ayurvedic medicine for 
 ## Eleuthero (Eleutherococcus senticosus)
 
 ### Overview
-Also known as Siberian ginseng (though not a true Panax ginseng). Woody shrub native to Siberia, northeastern China, Korea, and Japan. The most extensively studied adaptogen in the Soviet research program. Used by Soviet athletes, cosmonauts, and military personnel for performance enhancement.
+Also known as Siberian ginseng (though not a true [[panax-ginseng]]). Woody shrub native to Siberia, northeastern China, Korea, and Japan. The most extensively studied adaptogen in the Soviet research program. Used by Soviet athletes, cosmonauts, and military personnel for performance enhancement.
 
 ### Key Compounds
 - **Eleutherosides:** Glycosides designated B through E and others. Eleutheroside B (syringin) and eleutheroside E (syringaresinol diglucoside) are the primary markers.

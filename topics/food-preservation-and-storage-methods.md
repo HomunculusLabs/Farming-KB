@@ -25,7 +25,7 @@ the full range of crops and storage durations needed through the year.
 ## Why Food Preservation Matters for Self-Sufficiency
 
 Growing food is only half the equation for food self-sufficiency. Without reliable preservation, a productive garden's harvest
-spoils within days or weeks. Steve Solomon emphasizes that if the goal is producing nearly all family calories, the storage
+spoils within days or weeks. [[steve-solomon]] emphasizes that if the goal is producing nearly all family calories, the storage
 strategy becomes as important as the growing strategy.
 Preserved food reduces grocery dependence, insulates against supply disruptions, and captures peak nutritional quality at harvest
 time. For small farms, preservation extends the income-earning period beyond harvest season and opens distant markets that fresh
@@ -105,7 +105,7 @@ during long-term storage.
 
 ## Water Bath Canning — High-Acid Foods
 
-Water bath canning processes jars of high-acid foods (pH below 4.6) in boiling water at 212°F. The acidity prevents Clostridium
+Water bath canning processes jars of high-acid foods (pH below 4.6) in boiling water at 212°F. The acidity prevents [[clostridium]]
 botulinum growth, making this method safe for fruits, jams, jellies, pickles, relishes, and acidified tomatoes. It is simpler and
 more accessible than pressure canning.
 The process follows strict steps: prepare jars in hot soapy water, fill with food following a tested recipe, maintain proper
@@ -142,7 +142,7 @@ gauge needs replacement before the canner is safe to use.
 ## Fermentation — Living Preservation
 
 Fermentation is the oldest and most nutritious preservation method. Unlike heat-based canning that destroys nutrients,
-fermentation preserves and enhances nutritional value. Lactic acid bacteria convert sugars into lactic acid, dropping pH below 4.6
+fermentation preserves and enhances nutritional value. [[lactic-acid-bacteria]] convert sugars into lactic acid, dropping pH below 4.6
 and creating an environment where pathogens cannot survive.
 The safety of fermentation rests on this acid production. Properly fermented foods are inherently safe from botulism because C.
 botulinum cannot grow below pH 4.6. Fermented foods also introduce beneficial probiotics, increase vitamin availability

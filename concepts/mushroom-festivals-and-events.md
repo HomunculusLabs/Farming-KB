@@ -43,9 +43,9 @@ Mushroom festivals, forays, and mycological events bring together amateur and pr
 ## European Events
 
 ### Fungus Fair (United Kingdom)
-- British Mycological Society (BMS) autumn forays since 1896
+- [[british-mycological-society]] (BMS) autumn forays since 1896
 - Multiple regional forays throughout the UK mushroom season (September-November)
-- Strong tradition of amateur mycology in the UK
+- Strong tradition of amateur [[mycology]] in the UK
 - Annual exhibition and foray at Kew Gardens
 - Record-keeping contributes to national fungal distribution databases
 
@@ -73,7 +73,7 @@ Mushroom festivals, forays, and mycological events bring together amateur and pr
 ### Identification Workshops
 - Hands-on practice with fresh specimens
 - Microscopic identification techniques
-- Spore print analysis
+- [[spore-print]] analysis
 - Key-based identification practice
 - Often paired with forays for fresh specimen collection
 
@@ -112,7 +112,7 @@ Mushroom festivals, forays, and mycological events bring together amateur and pr
 - Local clubs host regular forays, meetings, and workshops
 - Membership benefits: newsletters, foray access, identification help
 - Many clubs maintain regional species databases and checklists
-- Volunteer citizen science programs for fungal biodiversity monitoring
+- Volunteer citizen science programs for [[fungal-biodiversity]] monitoring
 
 ### Joining a Club
 - Most clubs welcome beginners
@@ -134,7 +134,7 @@ Mushroom festivals, forays, and mycological events bring together amateur and pr
 - Foray data contributes to conservation assessments
 - Rare species records inform habitat protection decisions
 - Events promote sustainable foraging practices (see [[mushroom-foraging-safety-guide]])
-- Public education about fungal ecology and forest health
+- Public education about [[fungal-ecology]] and forest health
 - Advocacy for forest conservation and mycological research funding
 
 ### Cultural Traditions

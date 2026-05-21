@@ -9,7 +9,7 @@ sources: [raw/papers/mycelium-running-stamets.md]
 
 # Mycoforestry and Forest Restoration
 
-Mycoforestry is the use of fungi to restore and sustain forest ecosystems. It encompasses the practice of inoculating seedlings with mycorrhizal fungi, deploying saprophytic fungi for decomposition and soil creation, and using fungal networks to establish nutrient cycling in damaged landscapes.
+Mycoforestry is the use of fungi to restore and sustain forest ecosystems. It encompasses the practice of inoculating seedlings with [[mycorrhizal-fungi]], deploying [[saprophytic-fungi]] for decomposition and soil creation, and using fungal networks to establish nutrient cycling in damaged landscapes.
 
 ## The Mycelial Network
 
@@ -17,11 +17,11 @@ In old-growth forests, mycelial networks form a "mycelial mat" -- a vast undergr
 
 ## Mycorrhizal Inoculation
 
-Mycorrhizal fungi form symbiotic associations with plant roots, extending the root system's reach and enabling the plant to access nutrients and water that would otherwise be unavailable. Mycorrhizal inoculation of seedlings involves:
+Mycorrhizal fungi form symbiotic associations with plant roots, extending the root system's reach and enabling the plant to access nutrients and water that would otherwise be unavailable. [[mycorrhizal-inoculation]] of seedlings involves:
 
 1. Applying mycorrhizal inoculum (such as MycoGrow) to seedling roots at planting time
 2. Ensuring the inoculum contacts the root zone directly
-3. Planting seedlings in sites where native mycorrhizal networks have been disrupted
+3. Planting seedlings in sites where native [[mycorrhizal-networks]] have been disrupted
 
 Benefits of mycorrhizal inoculation:
 - Increased nutrient uptake (phosphorus, nitrogen, micronutrients)
@@ -34,7 +34,7 @@ Benefits of mycorrhizal inoculation:
 A demonstrated mycoforestry technique for reclaiming damaged roads and disturbed sites:
 
 1. Wood chips are placed along road scar surfaces
-2. Chips are inoculated with oyster mushroom (Pleurotus ostreatus) mycelium as a keystone species
+2. Chips are inoculated with [[oyster-mushroom]] ([[pleurotus-ostreatus]]) mycelium as a keystone species
 3. Straw is spread over inoculated wood chips
 4. Non-seeding wheat or native grass seed, mixed with mycorrhizal inoculum, is broadcast
 5. Rainfall activates growth; seeds sprout within a week

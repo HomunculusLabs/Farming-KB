@@ -15,7 +15,7 @@ sources:
 
 ## Overview
 
-Macronutrients are the mineral elements that plants require in relatively large quantities for growth, development, and reproduction. The primary macronutrients -- nitrogen (N), phosphorus (P), and potassium (K) -- form the basis of the N-P-K fertilizer system that has dominated agriculture since Justus von Liebig's work in the mid-1800s. Secondary macronutrients include calcium (Ca), magnesium (Mg), and sulfur (S).
+Macronutrients are the mineral elements that plants require in relatively large quantities for growth, development, and reproduction. The primary macronutrients -- nitrogen (N), phosphorus (P), and potassium (K) -- form the basis of the N-P-K fertilizer system that has dominated agriculture since [[justus-von-liebig]]'s work in the mid-1800s. Secondary macronutrients include calcium (Ca), magnesium (Mg), and sulfur (S).
 
 ## Nitrogen (N)
 
@@ -24,14 +24,14 @@ Macronutrients are the mineral elements that plants require in relatively large 
 Nitrogen is arguably the most critical nutrient for plant growth. It serves as:
 
 - **Backbone of amino acids:** The structural building blocks of proteins, one of the four kinds of molecules that make up life. Without nitrogen, there are no proteins.
-- **Essential for enzymes:** All cellular activities require enzyme catalysis, and all enzymes are proteins. Nothing happens on a cellular level without nitrogen-based enzymes.
+- **Essential for enzymes:** All cellular activities require [[enzyme]] catalysis, and all enzymes are proteins. Nothing happens on a cellular level without nitrogen-based enzymes.
 - **Component of nucleotides:** The building blocks of DNA and RNA. Much of a plant's cellular activity is devoted to ensuring an adequate supply of nitrogen-based enzymes.
 - **Part of chlorophyll:** The chlorophyll molecule (C55H72MgN4O5) contains four nitrogen atoms. Without them, there is no photosynthesis, which is why nitrogen deficiency causes yellowing (loss of the green chlorophyll pigment).
 - **Cell membrane function:** Proteins serve as channels, carriers, and motors for nutrient and water transport across cell membranes.
 
 ### Deficiency Symptoms
 
-- General yellowing (chlorosis), appearing first in older leaves (nitrogen is mobile in plants -- the plant robs nitrogen from older cells to support new growth)
+- General yellowing ([[chlorosis]]), appearing first in older leaves (nitrogen is mobile in plants -- the plant robs nitrogen from older cells to support new growth)
 - Stunted growth
 - Reduced leaf size
 
@@ -43,7 +43,7 @@ Nitrogen is arguably the most critical nutrient for plant growth. It serves as:
 
 ### Soil Cycling
 
-Atmospheric nitrogen (N2) is 78% of the atmosphere but unavailable to plants due to extremely strong triple covalent bonds. [[nitrogen-cycle-in-soil|Nitrogen fixation]] by [[arbuscular-mycorrhizal-fungi|mycorrhizal fungi]] and nitrogen-fixing bacteria (Rhizobia, Azotobacter, Frankia) makes atmospheric nitrogen available. Today the Haber-Bosch process provides over half a billion tons of artificial nitrogen fertilizers annually, requiring 5% of the world's natural gas production.
+Atmospheric nitrogen (N2) is 78% of the atmosphere but unavailable to plants due to extremely strong triple covalent bonds. [[nitrogen-cycle-in-soil|Nitrogen fixation]] by [[arbuscular-mycorrhizal-fungi|mycorrhizal fungi]] and nitrogen-fixing bacteria ([[rhizobia]], Azotobacter, Frankia) makes atmospheric nitrogen available. Today the Haber-Bosch process provides over half a billion tons of artificial nitrogen fertilizers annually, requiring 5% of the world's natural gas production.
 
 ## Phosphorus (P)
 
@@ -64,7 +64,7 @@ Atmospheric nitrogen (N2) is 78% of the atmosphere but unavailable to plants due
 
 ### Soil Behavior
 
-Phosphorus comes from weathering of apatite rock. In soil, it is so tightly adsorbed to clay particles and organic matter that 1 acre might have only 1 pound dissolved and available to plants. This immobility means tremendous amounts are applied (22+ million tons per year globally). Approximately 95% of plants associate with mycorrhizal fungi, which provide phosphorus to plants in exchange for carbon from root exudates.
+Phosphorus comes from weathering of apatite rock. In soil, it is so tightly adsorbed to clay particles and organic matter that 1 acre might have only 1 pound dissolved and available to plants. This immobility means tremendous amounts are applied (22+ million tons per year globally). Approximately 95% of plants associate with [[mycorrhizal-fungi]], which provide phosphorus to plants in exchange for carbon from [[root-exudates]].
 
 ### Peak Phosphorus Concern
 
@@ -147,7 +147,7 @@ Very abundant on Earth. Weathers from many minerals, most familiarly dolomite (C
 
 ### Soil Behavior
 
-Released from organic material by microbial activity and weathered from gypsum rock. Historically, acid rain provided significant sulfur; stricter air pollution regulations have dramatically reduced atmospheric sulfur deposition, making sulfur deficiencies more common.
+Released from organic material by microbial activity and weathered from gypsum rock. Historically, [[acid-rain]] provided significant sulfur; stricter air pollution regulations have dramatically reduced atmospheric sulfur deposition, making sulfur deficiencies more common.
 ## See Also
 
 - [[plant-macronutrient-functions-nitrogen-phosphorus-potassium]]

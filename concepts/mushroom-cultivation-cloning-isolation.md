@@ -31,7 +31,7 @@ Tissue cultures must be taken within a day or two of picking, after which a heal
 2. Tear (do not cut) the mushroom stem to expose clean internal tissue
 3. Remove a small piece of inner tissue from the cap or stem
 4. Transfer to agar media under sterile conditions
-5. Mycelium grows out from the tissue fragment in 3-7 days
+5. [[mycelium]] grows out from the tissue fragment in 3-7 days
 
 Tearing rather than cutting exposes sterile internal tissue without dragging surface contaminants through the specimen.
 
@@ -76,7 +76,7 @@ Interdisciplinary approaches have proven particularly valuable in advancing our 
 Applied work with mushroom cultivation cloning isolation spans multiple contexts and scales, from small-scale operations to industrial applications.
 Successful implementation requires attention to site-specific conditions and adaptive management strategies.
 Practitioners benefit from integrating both empirical observations and systematic monitoring.
-Economic viability often depends on careful resource allocation and appropriate technology selection.
+Economic viability often depends on careful resource allocation and [[appropriate-technology]] selection.
 
 ## Future Directions
 

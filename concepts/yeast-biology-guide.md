@@ -9,7 +9,7 @@ sources: []
 
 # Yeast Biology Guide
 
-Yeasts are single-celled fungi that reproduce primarily by budding (blastoconidia). While many fungal groups include yeast forms, the term "yeast" most commonly refers to members of [[ascomycete-phylum-guide|Ascomycota]], particularly Saccharomyces cerevisiae. Yeasts are among the oldest domesticated organisms, with evidence of yeast use in fermentation dating back over 9,000 years.
+Yeasts are single-celled fungi that reproduce primarily by budding (blastoconidia). While many fungal groups include yeast forms, the term "yeast" most commonly refers to members of [[ascomycete-phylum-guide|Ascomycota]], particularly [[saccharomyces-cerevisiae]]. Yeasts are among the oldest domesticated organisms, with evidence of yeast use in fermentation dating back over 9,000 years.
 
 ## What is a Yeast?
 
@@ -18,7 +18,7 @@ Yeasts are defined by their growth form rather than strict taxonomy:
 - Reproduce asexually by budding or, less commonly, by fission
 - Some species can form pseudohyphae (chains of elongated cells) under stress
 - Typically round to ovoid cells, 3-40 micrometers in diameter
-- Over 1,500 yeast species described, spanning Ascomycota and Basidiomycota
+- Over 1,500 yeast species described, spanning [[ascomycota]] and [[basidiomycota]]
 
 ## Saccharomyces cerevisiae (Baker's/Brewer's Yeast)
 
@@ -43,7 +43,7 @@ S. cerevisiae was likely first domesticated for brewing beer in ancient Mesopota
 ## Fermentation Biology
 
 ### Alcoholic Fermentation
-Yeasts convert sugars to ethanol and CO2 through glycolysis followed by fermentation:
+Yeasts convert sugars to [[ethanol]] and CO2 through glycolysis followed by fermentation:
 
 1. Glucose is broken down to pyruvate via glycolysis (net: 2 ATP, 2 NADH)
 2. Pyruvate is decarboxylated to acetaldehyde (releasing CO2)
@@ -75,7 +75,7 @@ Wild yeasts are present on fruit skins, in soil, and in the environment. Importa
 - Hanseniaspora/Kloeckera: common on grapes, produces acetic acid and ethyl acetate. Usually dies off as alcohol rises. Contributes to early fermentation complexity.
 - Torulaspora delbrueckii: used in specialty fermentations; produces fruity esters, reduces volatile acidity. Growing in popularity for wine and cider.
 - Pichia: common contaminant, forms a film on fermenting surfaces. Can produce ethyl acetate and other off-flavors.
-- Candida: diverse genus; C. milleri is important in sourdough alongside Lactobacillus.
+- Candida: diverse genus; C. milleri is important in sourdough alongside [[lactobacillus]].
 - Wickerhamomyces anomalus (Pichia anomala): produces killer toxins effective against spoilage yeasts; researched as biocontrol agent.
 
 ### Spontaneous Fermentation
@@ -85,7 +85,7 @@ Relies on wild yeasts present on fruit, in the winery/brewery, or in the environ
 - Traditional cider making
 
 ### Sourdough Yeasts
-Sourdough is a symbiotic culture of wild yeasts and lactic acid bacteria (LAB). The dominant yeast is typically Kazachstania exigua (formerly Saccharomyces exiguus) or Candida milleri, which coexists with Lactobacillus sanfranciscensis. These yeasts are acid-tolerant, allowing them to thrive in the sourdough environment alongside LAB.
+Sourdough is a symbiotic culture of wild yeasts and [[lactic-acid-bacteria]] (LAB). The dominant yeast is typically Kazachstania exigua (formerly Saccharomyces exiguus) or Candida milleri, which coexists with Lactobacillus sanfranciscensis. These yeasts are acid-tolerant, allowing them to thrive in the sourdough environment alongside LAB.
 
 ## Brewing Applications
 

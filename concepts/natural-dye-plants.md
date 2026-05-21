@@ -17,7 +17,7 @@ Natural dye molecules (pigments) bind to fiber through chemical bonds. The bond 
 
 ### Fiber Types and Affinity
 
-- **Cellulose fibers** (cotton, linen, hemp, ramie): Poor affinity for natural dyes. Require mordanting for any lasting color.
+- **[[cellulose]] fibers** (cotton, linen, hemp, ramie): Poor affinity for natural dyes. Require mordanting for any lasting color.
 - **Protein fibers** (wool, silk, alpaca, mohair): High affinity for natural dyes. Take color readily, often with just alum mordant.
 
 ## Mordants
@@ -60,13 +60,13 @@ Some dyers use aluminum acetate (5-8% WOF) as a single-step cellulose mordant wi
 | Plant | Part Used | Color Notes |
 |-------|-----------|-------------|
 | Weld (Reseda luteola) | Whole plant (flowering) | Brilliant, lightfast yellow — one of the best |
-| Marigold (Tagetes spp.) | Flower heads | Golden yellow to orange |
+| Marigold ([[tagetes]] spp.) | Flower heads | Golden yellow to orange |
 | Dyer's chamomile (Anthemis tinctoria) | Flowers | Clear bright yellow |
 | Goldenrod (Solidago spp.) | Flowering tops | Yellow, varies by species |
 | Onion skin | Outer papery skins | Gold to orange-yellow |
 | Queen Anne's lace | Flowers | Pale yellow |
-| Turmeric (Curcuma longa) | Root powder | Intense yellow, poor lightfastness |
-| Dandelion | Flowers | Pale to medium yellow |
+| Turmeric ([[curcuma-longa]]) | Root powder | Intense yellow, poor lightfastness |
+| [[dandelion]] | Flowers | Pale to medium yellow |
 
 ### Red / Orange / Pink
 
@@ -85,9 +85,9 @@ Some dyers use aluminum acetate (5-8% WOF) as a single-step cellulose mordant wi
 | Plant | Part Used | Color Notes |
 |-------|-----------|-------------|
 | Indigo (Indigofera tinctoria) | Leaves | True blue — requires reduction vat |
-| Woad (Isatis tinctoria) | Leaves | Blue — European indigo alternative |
+| Woad ([[isatis-tinctoria]]) | Leaves | Blue — European indigo alternative |
 | Japanese indigo (Persicaria tinctoria) | Leaves | Blue — easier to grow in temperate climates |
-| Logwood (Haematoxylum campechianum) | Heartwood | Blue-purple to black (needs mordant) |
+| Logwood ([[haematoxylum-campechianum]]) | Heartwood | Blue-purple to black (needs mordant) |
 
 ### Green
 
@@ -100,7 +100,7 @@ True green is rare in nature. Achieve by:
 
 | Plant | Part Used | Color Notes |
 |-------|-----------|-------------|
-| Black walnut (Juglans nigra) | Hulls | Rich dark brown — no mordant needed |
+| Black walnut ([[juglans-nigra]]) | Hulls | Rich dark brown — no mordant needed |
 | Oak bark | Bark | Tan to brown |
 | Cutch (Acacia catechu) | Heartwood | Brown — excellent lightfastness |
 | Acorns | Caps/kernels | Tan to brown with iron |

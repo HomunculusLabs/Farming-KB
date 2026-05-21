@@ -9,7 +9,7 @@ sources: [raw/papers/bill-mollison-permaculture-a-designers-manual.md]
 
 # Permaculture Waste Management
 
-Waste is a central concept in permaculture. Mollison defines the problem clearly: if we produce a "waste" output from any system, we have not yet completed the design. Benefits and wastes must both be returned or recycled to keep any system going. The accumulation of unused benefits predicts collapse at production level.
+Waste is a central concept in [[permaculture]]. Mollison defines the problem clearly: if we produce a "waste" output from any system, we have not yet completed the design. Benefits and wastes must both be returned or recycled to keep any system going. The accumulation of unused benefits predicts collapse at production level.
 
 ## Core Principle: No Waste in Nature
 
@@ -17,7 +17,7 @@ In natural systems, the output of one process is the input to another. Mollison 
 
 - **Every waste is a resource** misplaced. Manure, sewage, and organic refuse all contain nutrients that should return to soil.
 - **Reduction of waste** is itself a design goal. Small, intensive systems that recycle internally need fewer external inputs.
-- **Waste routing through multiple uses** before final return to soil. For example: manure can first feed biogas production, then the residue goes to compost, then to garden soil.
+- **Waste routing through multiple uses** before final return to soil. For example: manure can first feed biogas production, then the residue goes to [[compost]], then to garden soil.
 
 ## Sewage Treatment Using Natural Processes
 
@@ -44,7 +44,7 @@ Biogas (methane + carbon dioxide + ammonia) from anaerobic digestion is a useful
 ### Septic Tank Enhancements
 
 For existing septic systems, effluent can flow through:
-- Reed beds and aquatic plant systems
+- Reed beds and [[aquatic-plant-systems]]
 - Leach fields planted to useful species
 - Aquatic crop systems for biogas feedstock
 
@@ -75,7 +75,7 @@ Greywater from kitchens, bathrooms, and laundries can be routed through:
 - Reed bed treatment systems
 - Direct irrigation of fruit trees and ornamental plantings
 
-The reduction of water used in sewage systems is itself a design goal -- dry toilets, composting systems, and greywater reuse all reduce the volume requiring treatment.
+The reduction of water used in sewage systems is itself a design goal -- dry toilets, [[composting-systems]], and greywater reuse all reduce the volume requiring treatment.
 
 ## Industrial Waste
 
@@ -86,4 +86,4 @@ Mollison is sharply critical of systems that produce wastes as pollutants to the
 - [[permaculture-zone-0-house-design]] -- waste recycling at the household level
 - [[permaculture-settlement-design]] -- community-scale waste systems
 -  -- worm-based waste processing
-- [[composting-methods-comparison]] -- composting techniques
+- [[composting-methods-comparison]] -- [[composting]] techniques

@@ -33,7 +33,7 @@ Psychedelic compounds fall into distinct chemical classes:
 - Vaporization: ~160°C | MAO substrate (oral inactive without MAOI)
 
 #### Natural Sources
-- **Psychotria viridis** (chacruna), **Diplopterys cabrerana** (chaliponga), **Mimosa tenuiflora** (jurema), **Acacia species**, **Anadenanthera peregrina** (yopo seeds)
+- **[[psychotria-viridis]]** (chacruna), **Diplopterys cabrerana** (chaliponga), **[[mimosa-tenuiflora]]** (jurema), **Acacia species**, **[[anadenanthera-peregrina]]** (yopo seeds)
 - Endogenous in mammalian brain (trace amounts)
 
 #### Pharmacology
@@ -71,7 +71,7 @@ More "formless" than DMT, intense ego dissolution, "white light"/void experience
 - Formula: C11H17NO3 | MW: 211.26 | 3,4,5-trimethoxyphenethylamine | Water-soluble HCl salt
 
 #### Natural Sources
-- **Lophophora williamsii** (peyote, 1-6% mescaline), **Echinopsis pachanoi** (San Pedro), **E. peruviana** (Peruvian torch), **E. lageniformis** (Bolivian torch)
+- **[[lophophora-williamsii]]** (peyote, 1-6% mescaline), **[[echinopsis-pachanoi]]** (San Pedro), **E. peruviana** (Peruvian torch), **E. lageniformis** (Bolivian torch)
 
 #### Pharmacology
 - **Receptors:** 5-HT2A (primary), 5-HT2C, alpha-1 adrenergic
@@ -89,7 +89,7 @@ Vivid color enhancement, emotional openness, moderate empathogenic qualities, lo
 - Formula: C12H17N2O4P | MW: 284.25 | Prodrug — dephosphorylated to psilocin (4-HO-DMT) in vivo
 
 #### Natural Sources
-- **Psilocybe cubensis**, **P. semilanceata**, **P. azurescens**, **P. cyanescens**, **P. mexicana**, **P. natalensis** — 200+ species worldwide
+- **[[psilocybe-cubensis]]**, **P. semilanceata**, **P. azurescens**, **P. cyanescens**, **P. mexicana**, **P. natalensis** — 200+ species worldwide
 
 #### Pharmacology
 - **Receptors:** 5-HT2A (primary), 5-HT1A, 5-HT2C, 5-HT2B, 5-HT7
@@ -108,7 +108,7 @@ Flowing visual patterns, altered thought patterns, emotional expansion, mystical
 - Insoluble in water; soluble in acetone, ethanol, DMSO
 
 #### Natural Source
-- **Salvia divinorum** — ONLY known natural source. Endemic to Sierra Mazateca, Oaxaca, Mexico.
+- **[[salvia-divinorum]]** — ONLY known natural source. Endemic to Sierra Mazateca, Oaxaca, Mexico.
 
 #### Pharmacology
 - **Receptors:** Kappa-opioid receptor (KOR) agonist — UNIQUE among psychedelics. NOT active at 5-HT2A.

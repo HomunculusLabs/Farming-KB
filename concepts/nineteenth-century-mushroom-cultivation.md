@@ -9,11 +9,11 @@ sources: [raw/papers/julius-auboineau-palmer-about-mushrooms.md]
 
 # Nineteenth-Century Mushroom Cultivation
 
-Julius Auboineau Palmer's practical methods from "About Mushrooms" (1894), supplemented by period cultivation practices documented in his journalism (1877-1894).
+[[julius-auboineau-palmer]]'s practical methods from "About Mushrooms" (1894), supplemented by period cultivation practices documented in his journalism (1877-1894).
 
 ## Historical Context
 
-Palmer was a Boston-based amateur mycologist who studied mushrooms for over seven years. He noted that the common mushroom (Agaricus campestris / A. arvensis) was the only cultivated species: "To this day it is the only species of fungus which is ever propagated artificially. Further, so far as known, it is the only species susceptible of cultivation." This limitation defined the entire 19th-century mushroom industry.
+Palmer was a Boston-based amateur mycologist who studied mushrooms for over seven years. He noted that the common mushroom ([[agaricus-campestris]] / A. arvensis) was the only cultivated species: "To this day it is the only species of fungus which is ever propagated artificially. Further, so far as known, it is the only species susceptible of cultivation." This limitation defined the entire 19th-century mushroom industry.
 
 Cultivated mushrooms commanded $1-2 per pound (astronomical for the era), reflecting the difficulty and uncertainty of production.
 
@@ -21,7 +21,7 @@ Cultivated mushrooms commanded $1-2 per pound (astronomical for the era), reflec
 
 The core of Palmer's cultivation system:
 
-1. **Spawn identification**: "White cellular vine" or mycelium running through manure, dividing "like the veins on the back of the hand." Found at the edge of old mushroom beds. Much commercial spawn was fraudulent — "much that is sold as such containing not a trace of the fungus."
+1. **Spawn identification**: "White cellular vine" or [[mycelium]] running through manure, dividing "like the veins on the back of the hand." Found at the edge of old mushroom beds. Much commercial spawn was fraudulent — "much that is sold as such containing not a trace of the fungus."
 
 2. **Spawn collection**: Rather than buying spawn, Palmer recommended finding it at the base of old mushroom beds. Once started, "you never need want for the means of propagation."
 

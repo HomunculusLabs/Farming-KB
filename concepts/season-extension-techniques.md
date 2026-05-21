@@ -16,12 +16,12 @@ Season extension refers to any technique that allows you to start growing earlie
 - **More harvests**: Start spring crops earlier and fall crops later, potentially adding 2-4 months to your growing season.
 - **Year-round production**: With sufficient protection, cold-hardy crops can be harvested through winter in most climates.
 - **Frost protection**: A single unexpected frost can destroy months of growth. Protection structures prevent this.
-- **Succession planting**: Extended seasons allow more successive plantings of quick-maturing crops.
+- **[[succession-planting]]**: Extended seasons allow more successive plantings of quick-maturing crops.
 - [[seasonal-planning]] covers the calendar approach to planning extended seasons.
 
 ## Cold Frames
 
-A cold frame is a simple, bottomless box with a transparent lid (glass, polycarbonate, or plastic) that sits directly on the soil. It captures solar energy and creates a greenhouse effect.
+A [[cold-frame]] is a simple, bottomless box with a transparent lid (glass, polycarbonate, or plastic) that sits directly on the soil. It captures solar energy and creates a greenhouse effect.
 
 ### Construction
 
@@ -49,7 +49,7 @@ Row covers are lightweight, spun-bonded polyester or polypropylene fabrics drape
 
 ### Types
 
-- **Floating row cover (no support)**: Lightweight (0.5 oz/sq yd) fabric laid directly over crops. Plants push it up as they grow. Provides 2-4°F frost protection.
+- **[[floating-row-cover]] (no support)**: Lightweight (0.5 oz/sq yd) fabric laid directly over crops. Plants push it up as they grow. Provides 2-4°F frost protection.
 - **Supported row cover**: Medium-weight (1.25 oz/sq yd) fabric draped over wire hoops or PVC arches. Provides 4-6°F frost protection.
 - **Heavy row cover**: Thick (1.5-2.0 oz/sq yd) fabric for serious frost protection. Provides 6-8°F protection. Too heavy for floating — must be supported.
 
@@ -75,14 +75,14 @@ Low tunnels are small hoop houses — metal or PVC hoops covered with polyethyle
 
 - **Hoops**: 1/2 inch PVC, #9 wire, or galvanized electrical conduit bent into arches. Space 3-5 feet apart.
 - **Cover**: 6 mil greenhouse plastic (for cold protection) or row cover fabric (for insect protection or light frost).
-- **Anchoring**: Secure plastic by burying edges in soil or using sandbags. For PVC hoops, use pipe clips or wiggle wire channels.
+- **Anchoring**: Secure plastic by burying edges in soil or using sandbags. For PVC hoops, use pipe clips or [[wiggle-wire]] channels.
 
 ### Uses
 
 - Early spring planting of warm-season crops (tomatoes, peppers, melons)
 - Fall extension for warm-season crops
 - Winter growing of cold-hardy crops
-- Overwintering perennial vegetables and herbs
+- Overwintering [[perennial-vegetables]] and herbs
 
 ### Temperature Management
 

@@ -41,7 +41,7 @@ off-grid homestead.
 
 ### Mud Rotary Drilling
 The most common method for modern wells. A rotating drill bit cuts through
-soil and rock while a bentonite mud slurry is pumped down the drill string
+soil and rock while a [[bentonite]] mud slurry is pumped down the drill string
 to carry cuttings to the surface and stabilize the borehole wall.
 
 **Characteristics:**

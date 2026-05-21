@@ -19,13 +19,13 @@ Disclaimer: This page is for informational purposes only. Verify the legality of
 
 ### Ayahuasca Plants
 
-**Banisteriopsis caapi (Ayahuasca Vine)**
+**[[banisteriopsis-caapi]] (Ayahuasca Vine)**
 - Available from many ethnobotanical suppliers as dried vine, powdered vine, or live plants
 - Legally sold as ornamental, botanical specimen, or incense material
 - Not explicitly scheduled in the US or most countries
 - Common sources: specialty ethnobotanical shops, Amazon importers
 
-**Psychotria viridis (Chacruna)**
+**[[psychotria-viridis]] (Chacruna)**
 - Available as dried leaf or live plant
 - Not scheduled in the US
 - Live plants require tropical greenhouse conditions
@@ -37,18 +37,18 @@ Disclaimer: This page is for informational purposes only. Verify the legality of
 
 ### Cactus Sources
 
-**Trichocereus pachanoi (San Pedro)**
+**[[trichocereus-pachanoi]] (San Pedro)**
 - Widely available as live plants from nurseries and online cactus vendors
 - Sold as ornamental landscaping cactus
 - Legal to grow in the US and most countries
 - Common sources: cactus nurseries, Etsy, eBay, specialty succulent shops
 - Cuttings are readily available and easy to root
 
-**Trichocereus peruvianus (Peruvian Torch)**
+**[[trichocereus-peruvianus]] (Peruvian Torch)**
 - Available from the same sources as San Pedro
 - Slightly less common but still widely available
 
-**Lophophora williamsii (Peyote)**
+**[[lophophora-williamsii]] (Peyote)**
 - Significantly harder to obtain legally
 - Conservation status is a major concern — wild populations are threatened
 - Some nurseries sell cultivated specimens, but legality varies
@@ -56,13 +56,13 @@ Disclaimer: This page is for informational purposes only. Verify the legality of
 
 ### Other Entheogenic Plants
 
-**Salvia divinorum**
+**[[salvia-divinorum]]**
 - Available as live plants, cuttings, and dried leaf from many vendors
 - Not federally scheduled in the US (state laws vary)
 - Commonly found on eBay, Etsy, and specialty ethnobotanical shops
 - Cuttings are the most common propagation method (the plant rarely produces viable seeds)
 
-**Peganum harmala (Syrian Rue)**
+**[[peganum-harmala]] (Syrian Rue)**
 - Seeds are widely available — sold as botanical specimens, dye material, and incense
 - Legal in the US and most countries
 - Available from herb shops, ethnobotanical suppliers, and online seed vendors

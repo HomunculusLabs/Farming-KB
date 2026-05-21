@@ -9,7 +9,7 @@ sources: []
 
 ## What Is Kimchi
 
-Kimchi is a traditional Korean fermented vegetable dish, most commonly made with napa cabbage and Korean chili flakes (gochugaru). It is Korea's national dish and a cornerstone of Korean cuisine, with hundreds of regional and seasonal varieties. The fermentation process relies on lactic acid bacteria (LAB) naturally present on the vegetables, which convert sugars into lactic acid, preserving the vegetables and developing complex sour, umami, and spicy flavors.
+Kimchi is a traditional Korean fermented vegetable dish, most commonly made with napa cabbage and Korean chili flakes (gochugaru). It is Korea's national dish and a cornerstone of Korean cuisine, with hundreds of regional and seasonal varieties. The fermentation process relies on [[lactic-acid-bacteria]] (LAB) naturally present on the vegetables, which convert sugars into lactic acid, preserving the vegetables and developing complex sour, umami, and spicy flavors.
 
 Kimchi is a living food — it continues to ferment and evolve in flavor over weeks and months. Fresh kimchi is crisp and mildly tangy, while well-aged kimchi (mugeun-ji) develops deep sourness and is prized for stews and fried rice.
 
@@ -50,7 +50,7 @@ The foundation of the most common kimchi variety (baechu-kimchi).
 - Ginger — 1-2 tablespoons, minced or grated
 - Korean radish (mu) — julienned or matchstick-cut, roughly 1 cup
 - Scallions (green onions) — 4-6, cut into 1-inch pieces
-- Sugar or Asian pear — 1 tablespoon sugar or 1/4 grated Asian pear for sweetness and enzyme activity
+- Sugar or Asian pear — 1 tablespoon sugar or 1/4 grated Asian pear for sweetness and [[enzyme]] activity
 - Water — a small amount to thin the seasoning paste
 
 ## The Brining Process
@@ -137,10 +137,10 @@ Refrigeration at any point slows fermentation dramatically. Kimchi keeps in the 
 
 ## Health Benefits
 
-- Rich source of lactic acid bacteria (Lactobacillus, Leuconostoc, Weissella species)
+- Rich source of lactic acid bacteria ([[lactobacillus]], Leuconostoc, Weissella species)
 - High in vitamins A, B, C, and K
 - Contains dietary fiber from the vegetables
-- Capsaicin from gochugaru has anti-inflammatory properties
+- [[capsaicin]] from gochugaru has anti-inflammatory properties
 - Fermentation increases bioavailability of nutrients
 - Supports gut microbiome health
 

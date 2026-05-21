@@ -9,7 +9,7 @@ sources: []
 
 ## Overview
 
-Common mycorrhizal networks (CMNs), sometimes called "wood wide webs," are underground fungal networks that connect individual plants and trees, enabling resource sharing, chemical signaling, and information transfer between forest organisms. Research has revealed that these networks facilitate cooperative behaviors between trees, including the support of seedlings by mature "mother trees."
+[[common-mycorrhizal-networks]] (CMNs), sometimes called "wood wide webs," are [[underground-fungal-networks]] that connect individual plants and trees, enabling resource sharing, chemical signaling, and information transfer between forest organisms. Research has revealed that these networks facilitate cooperative behaviors between trees, including the support of seedlings by mature "mother trees."
 
 ## Types of Mycorrhizal Networks
 
@@ -24,13 +24,13 @@ Common mycorrhizal networks (CMNs), sometimes called "wood wide webs," are under
 - Formed by Basidiomycota and Ascomycota fungi
 - Associate primarily with temperate and boreal forest trees (pine, oak, spruce, birch, Douglas-fir)
 - Produce extensive, long-range hyphal networks (meters to tens of meters)
-- Form direct hyphal links (hartig net) between tree root tips
+- Form direct hyphal links ([[hartig-net]]) between tree root tips
 - Most research on forest communication involves EM networks
 
 ## Resource Sharing Through Mycorrhizal Networks
 
 ### Carbon Transfer
-- Trees transfer photosynthetic carbon (sugars) through mycorrhizal networks
+- Trees transfer photosynthetic carbon (sugars) through [[mycorrhizal-networks]]
 - Dominant "mother trees" (large, well-lit individuals) supply carbon to shaded seedlings
 - Carbon flows from canopy trees to understory seedlings, especially in low-light conditions
 - Transfer rates: 5-15% of total carbon fixed by donor plants can move through CMNs
@@ -39,11 +39,11 @@ Common mycorrhizal networks (CMNs), sometimes called "wood wide webs," are under
 ### Nutrient Transfer
 - Nitrogen moves from nitrogen-fixing plants to neighboring trees through CMNs
 - Phosphorus transferred from phosphorus-rich microsites to deficient plants
-- Water movement through fungal hyphae supports drought-stressed neighbors
+- Water movement through [[fungal-hyphae]] supports drought-stressed neighbors
 - Nutrient sharing is bidirectional; plants contribute based on supply and demand
 
 ### The "Mother Tree" Concept
-Suzanne Simard's pioneering research at the University of British Columbia:
+[[suzanne-simard]]'s pioneering research at the University of British Columbia:
 - Large, old trees ("hub" or "mother" trees) serve as central nodes in forest networks
 - These trees have the most mycorrhizal connections and transfer the most resources
 - Mother trees preferentially supply their own offspring (kin selection)

@@ -9,7 +9,7 @@ sources: []
 
 # Cannabis Trichome Guide
 
-Trichomes are the tiny, crystal-like glandular structures that cover cannabis flowers and sugar leaves. They are the primary production sites for cannabinoids (THC, CBD, etc.) and terpenes. Understanding trichome types, development stages, and how to assess maturity is essential for optimizing harvest timing and final product quality.
+[[trichomes]] are the tiny, crystal-like glandular structures that cover cannabis flowers and sugar leaves. They are the primary production sites for cannabinoids (THC, CBD, etc.) and [[terpenes]]. Understanding trichome types, development stages, and how to assess maturity is essential for optimizing harvest timing and final product quality.
 
 ## What Are Trichomes?
 

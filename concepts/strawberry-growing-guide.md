@@ -58,7 +58,7 @@ Strawberries are one of the most rewarding fruits for home gardeners — they pr
 
 ### Soil
 - Well-draining, slightly acidic soil, pH 5.5-6.8
-- Rich in organic matter — work in 2-3 inches of compost before planting
+- Rich in organic matter — work in 2-3 inches of [[compost]] before planting
 - Sandy loam is ideal; avoid heavy clay
 - Raised beds are excellent for strawberries (improves drainage, reduces crown rot)
 - Strawberries are shallow-rooted (top 6 inches) — keep the root zone consistently moist

@@ -24,13 +24,13 @@ A mud oven (also called cob oven, earth oven, or clay oven) is a wood-fired baki
 
 | Material | Quantity | Purpose |
 |----------|----------|---------|
-| Clay soil | 150-200 lbs (test for clay content) | Primary building material |
+| [[clay-soil]] | 150-200 lbs (test for clay content) | Primary building material |
 | Sharp sand | 200-300 lbs | Thermal mass, prevents cracking |
 | Straw | 1-2 bales | Fiber reinforcement (tensile strength) |
 | Firebricks | 25-35 (for hearth floor) | Oven floor (cooking surface) |
 | Gravel/crushed rock | 2-3 cubic feet | Insulation base |
 | Empty glass bottles | 20-30 | Insulation layer under floor |
-| Sawdust or perlite | 2-3 cubic feet | Insulation around dome |
+| Sawdust or [[perlite]] | 2-3 cubic feet | Insulation around dome |
 | Newspaper | 1 stack | Mold for the oven dome |
 | Water | 5-10 gallons | Mixing |
 

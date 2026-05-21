@@ -48,7 +48,7 @@ Pollen collection requires careful timing and technique:
 Properly stored pollen remains viable for extended periods:
 
 - Short-term: Store in a cool, dark, dry location
-- Long-term: Mix with flour (1:1 ratio) as a desiccant
+- Long-term: Mix with flour (1:1 ratio) as a [[desiccant]]
 - Optimal storage: Glass vials in the refrigerator (up to 1 month) or freezer (up to 6 months)
 - Avoid moisture exposure — pollen is highly sensitive to humidity
 
@@ -58,7 +58,7 @@ The basic process of crossing two cannabis strains:
 
 ### Select Parent Plants
 
-Choose a male and female with complementary traits. The male contributes 50% of the genetic material (vigor, pest resistance, branching, terpenes). The female contributes the other 50% (bud structure, flowering time, resin production). The male should release pollen 2-3 weeks before the female is fully receptive.
+Choose a male and female with complementary traits. The male contributes 50% of the genetic material (vigor, pest resistance, branching, [[terpenes]]). The female contributes the other 50% (bud structure, flowering time, resin production). The male should release pollen 2-3 weeks before the female is fully receptive.
 
 ### Pollination and Seed Harvest
 

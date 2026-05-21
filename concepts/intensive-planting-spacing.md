@@ -9,11 +9,11 @@ sources: [raw/papers/gardening-when-it-counts-steve-solomon.md]
 
 # Intensive Planting and Spacing
 
-Steve Solomon's analysis of plant spacing systems, from ultra-intensive raised beds to wide-spaced drought gardening. Solomon himself once taught and practiced intensive gardening but came to believe that wider spacing produces better results with far less water and labor.
+[[steve-solomon]]'s analysis of plant spacing systems, from ultra-intensive raised beds to wide-spaced drought gardening. Solomon himself once taught and practiced intensive gardening but came to believe that wider spacing produces better results with far less water and labor.
 
 ## Solomon's Evolution
 
-During the 1970s, John Jeavons was writing about intensive gardening, and Solomon used those methods, wrote books recommending them, and promoted them widely. But by the 1980s, several things became apparent:
+During the 1970s, [[john-jeavons]] was writing about intensive gardening, and Solomon used those methods, wrote books recommending them, and promoted them widely. But by the 1980s, several things became apparent:
 
 - His trial plots with well-separated plants grew just as well as (and sometimes better than) his intensive vegetable garden
 - The labor and water requirements of intensive gardening were enormous
@@ -79,7 +79,7 @@ For gardeners with little water or fertigation. Everything in hills, very far ap
 - Soil must hold moisture to considerable depth
 - Weed competition must be minimal
 - Soil surface must be kept loose or dust-mulched
-- An inch of compost/manure on the surface prevents crust formation
+- An inch of [[compost]]/manure on the surface prevents crust formation
 
 ## The Wisdom of Wide Spacing
 

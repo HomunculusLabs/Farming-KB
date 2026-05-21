@@ -28,7 +28,7 @@ The use of psilocybin and psilocybin-containing mushrooms in clinical and therap
 
 ### Discovery and Early Research
 
-[[albert-hofmann]] isolated psilocybin from Psilocybe mexicana specimens in 1958 at Sandoz Laboratories in Basel, Switzerland. Sandoz began marketing psilocybin under the brand name Indocybin as an investigational drug for psychiatric research. From 1958 to the mid-1960s, over 1000 clinical papers were published on the therapeutic use of psilocybin, LSD, and related compounds.
+[[albert-hofmann]] isolated psilocybin from [[psilocybe-mexicana]] specimens in 1958 at Sandoz Laboratories in Basel, Switzerland. Sandoz began marketing psilocybin under the brand name Indocybin as an investigational drug for psychiatric research. From 1958 to the mid-1960s, over 1000 clinical papers were published on the therapeutic use of psilocybin, LSD, and related compounds.
 
 ### Psycholytic Therapy
 
@@ -42,10 +42,10 @@ The "psycholytic" (mind-loosening) approach was developed primarily in Europe:
 
 ### Psychedelic Therapy
 
-The "psychedelic" (mind-manifesting) approach used higher doses to produce a transformative mystical experience:
+The "psychedelic" (mind-manifesting) approach used higher doses to produce a transformative [[mystical-experience]]:
 
 - **Method:** Single high-dose session (or small number) with extensive preparation and follow-up
-- **Pioneers:** Humphry Osmond, Abram Hoffer (Canada — originally with LSD, later psilocybin), Stanislav Grof (Czechoslovakia/USA)
+- **Pioneers:** [[humphry-osmond]], Abram Hoffer (Canada — originally with LSD, later psilocybin), [[stanislav-grof]] (Czechoslovakia/USA)
 - **Philosophy:** The ego-dissolving experience itself was therapeutic, not the verbal processing
 - **Target conditions:** Alcoholism, terminal illness anxiety, personality disorders, criminal recidivism
 - **Setting:** Carefully controlled clinical environment with eye shades, music, and trained guides
@@ -87,7 +87,7 @@ Gartz preserved documentation of Sandoz's psilocybin preparation:
 
 Research resumed slowly after regulatory barriers were overcome:
 
-- **Johns Hopkins University (Roland Griffiths):** First major study in decades (2006) — demonstrated that psilocybin could produce mystical-type experiences with lasting positive effects in healthy volunteers. Follow-up studies on cancer-related anxiety (2016), depression, addiction, and religious experiences.
+- **Johns Hopkins University ([[roland-griffiths]]):** First major study in decades (2006) — demonstrated that psilocybin could produce mystical-type experiences with lasting positive effects in healthy volunteers. Follow-up studies on cancer-related anxiety (2016), depression, addiction, and religious experiences.
 - **Imperial College London (Robin Carhart-Harris, David Nutt):** Brain imaging studies showing psilocybin's effects on neural connectivity, decreased activity in the Default Mode Network, and therapeutic potential for treatment-resistant depression.
 - **Usona Institute:** Large-scale clinical trials for major depressive disorder.
 - **Compass Pathways:** Phase 2/3 trials of synthetic psilocybin for treatment-resistant depression.
@@ -145,6 +145,6 @@ fMRI studies (primarily from Carhart-Harris at Imperial) reveal:
 Gartz noted that early European researchers documented both remarkable therapeutic successes and significant challenges:
 
 - **Therapeutic window:** Benefits were most pronounced when psilocybin was used as an adjunct to psychotherapy, not as a standalone treatment
-- **Importance of set and setting:** European researchers consistently emphasized that the therapeutic context (relationship with therapist, physical environment, music) was as important as the pharmacological agent
+- **Importance of [[set-and-setting]]:** European researchers consistently emphasized that the therapeutic context (relationship with therapist, physical environment, music) was as important as the pharmacological agent
 - **Long-term follow-up:** The best studies tracked patients for months to years, finding sustained benefits in many cases
 - **Caution with diagnoses:** Schizophrenia-spectrum patients generally did not benefit and could be harmed; careful screening was essential

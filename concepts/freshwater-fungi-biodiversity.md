@@ -25,7 +25,7 @@ Freshwater habitats support a remarkably diverse assemblage of fungi and fungus-
 True fungi and straminipiles characterized by motile zoospores. Dispersed through water via swimming spores.
 
 **Orders found in freshwater**:
-- **Chytridiales**: 4 families, ~80 genera, 500+ species. Most diverse group of aquatic chytrids. Include saprotrophs on pollen, chitin, cellulose, and parasites of algae, invertebrates, and other fungi.
+- **Chytridiales**: 4 families, ~80 genera, 500+ species. Most diverse group of aquatic chytrids. Include saprotrophs on pollen, chitin, [[cellulose]], and parasites of algae, invertebrates, and other fungi.
 - **Blastocladiales**: 5 families, 13 genera. Include Allomyces and Blastocladiella (saprotrophs), Coelomomyces (mosquito parasite), Physoderma (aquatic plant parasite).
 - **Monoblepharidales**: 4 families, 6 genera. All saprotrophic, found on waterlogged wood and plant debris.
 - **Spizellomycetales**: 4 families, 10 genera. Primarily soil inhabitants but found at margins of lentic and lotic habitats.
@@ -37,11 +37,11 @@ True fungi and straminipiles characterized by motile zoospores. Dispersed throug
 - Degrade chitin (exuviae of aquatic insects), cellulose, and keratin
 - Parasitize aquatic insects and invertebrates
 
-**Distribution**: Chytrids are generally considered cosmopolitan. Sparrow found the same species in Hawaiian bogs and northern Michigan bogs. However, Batrachochytrium dendrobatidis (amphibian pathogen) shows evidence of recent intercontinental spread.
+**Distribution**: Chytrids are generally considered cosmopolitan. Sparrow found the same species in Hawaiian bogs and northern Michigan bogs. However, [[batrachochytrium-dendrobatidis]] (amphibian pathogen) shows evidence of recent intercontinental spread.
 
 ### Peronosporomycetes (Formerly Oomycetes)
 
-Now classified in Kingdom Straminipila, not true Fungi, but traditionally studied by mycologists.
+Now classified in [[kingdom-straminipila]], not true Fungi, but traditionally studied by mycologists.
 
 **Classification** (3 subclasses):
 - **Peronosporomycetidae**: Peronosporales, Pythiales (mycelial)
@@ -49,7 +49,7 @@ Now classified in Kingdom Straminipila, not true Fungi, but traditionally studie
 - **Rhipidiomycetidae**: Rhipidiales (nonmycelial, monocentric)
 
 **Key genera**:
-- Saprolegnia, Achlya, Dictyuchus (Saprolegniaceae - "water molds")
+- Saprolegnia, Achlya, [[dictyuchus]] (Saprolegniaceae - "water molds")
 - Pythium (Pythiaceae)
 - Phytophthora, Peronospora, Plasmopara (plant pathogens)
 - Halophytophthora (marine/estuarine)
@@ -57,7 +57,7 @@ Now classified in Kingdom Straminipila, not true Fungi, but traditionally studie
 **Ecological roles**:
 - Major saprotrophs on submerged plant debris, fruits, and dead animals in freshwater
 - Parasites of fish (saprolegniosis), aquatic insects, algae, and nematodes
-- Key plant pathogens: Phytophthora infestans (potato late blight), Pythium (damping-off)
+- Key plant pathogens: [[phytophthora-infestans]] (potato [[late-blight]]), Pythium (damping-off)
 
 **Collection methods**:
 - Baiting with hemp seed halves, snake skin, and fruit in water samples
@@ -100,7 +100,7 @@ Anamorphic fungi that produce conidia in freshwater habitats. Include the Ingold
 
 **Non-sporulating fungi**:
 - Many isolates from freshwater never produce conidia in culture
-- Molecular methods increasingly used to identify these cryptic species
+- Molecular methods increasingly used to identify these [[cryptic-species]]
 
 ## Habitat Types
 

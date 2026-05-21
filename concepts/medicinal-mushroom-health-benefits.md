@@ -9,15 +9,15 @@ sources: [raw/papers/mycelium-running-stamets.md, raw/papers/unknown-growing-gou
 
 # Medicinal Mushroom Health Benefits
 
-Medicinal mushrooms have been used for thousands of years in Traditional Chinese Medicine and are now the subject of intensive biomedical research. Their health benefits derive primarily from polysaccharides (especially beta-glucans), triterpenes, and other bioactive compounds.
+[[medicinal-mushrooms]] have been used for thousands of years in Traditional Chinese Medicine and are now the subject of intensive biomedical research. Their health benefits derive primarily from polysaccharides (especially beta-glucans), triterpenes, and other bioactive compounds.
 
 ## Key Medicinal Compounds
 
 ### Beta-Glucans
-Long-chain polysaccharides found in mushroom cell walls that modulate the immune system. They activate macrophages, natural killer cells, and T-cells, enhancing the body's ability to fight infections and cancer. Beta-glucans are the most studied medicinal mushroom compounds and are the basis for many pharmaceutical preparations.
+Long-chain polysaccharides found in mushroom cell walls that modulate the immune system. They activate macrophages, natural killer cells, and T-cells, enhancing the body's ability to fight infections and cancer. Beta-glucans are the most studied [[medicinal-mushroom-compounds]] and are the basis for many pharmaceutical preparations.
 
 ### Triterpenes
-Found primarily in Ganoderma (reishi) species. These compounds have anti-inflammatory, antihistamine, and liver-protective properties. They contribute to reishi's bitter taste.
+Found primarily in [[ganoderma]] (reishi) species. These compounds have anti-inflammatory, antihistamine, and liver-protective properties. They contribute to reishi's bitter taste.
 
 ## Major Medicinal Species
 
@@ -34,10 +34,10 @@ Known as the "dancing mushroom" in Japan. Contains the D-fraction, a beta-glucan
 A sterile conk that grows on birch trees in cold climates. Extremely high in antioxidants, particularly superoxide dismutase (SOD). Contains betulinic acid (derived from the birch tree) with demonstrated anti-tumor properties. Used traditionally as a tea or extract.
 
 ### Lion's Mane (Hericium erinaceus)
-Unique among medicinal mushrooms for its neuroprotective properties. Contains hericenones and erinacines -- compounds that stimulate nerve growth factor (NGF) synthesis in the brain. Research suggests potential benefits for cognitive function, memory, nerve regeneration, and neurological conditions including Alzheimer's and peripheral neuropathy.
+Unique among medicinal mushrooms for its neuroprotective properties. Contains [[hericenones]] and [[erinacines]] -- compounds that stimulate nerve growth factor (NGF) synthesis in the brain. Research suggests potential benefits for cognitive function, memory, nerve regeneration, and neurological conditions including Alzheimer's and peripheral neuropathy.
 
 ### Agarikon (Fomitopsis officinalis)
-An extremely rare old-growth forest polypore documented in the historical medical literature (Dioscorides, 65 AD). Stamets' research has shown agarikon to have strong antiviral properties, particularly against poxviruses and influenza viruses. It is one of the longest-living mushrooms, found only in old-growth forests of the Pacific Northwest.
+An extremely rare old-growth forest polypore documented in the historical medical literature (Dioscorides, 65 AD). Stamets' research has shown [[agarikon]] to have strong antiviral properties, particularly against poxviruses and influenza viruses. It is one of the longest-living mushrooms, found only in old-growth forests of the Pacific Northwest.
 
 ## Preparation Methods
 
@@ -70,7 +70,7 @@ Interdisciplinary approaches have proven particularly valuable in advancing our 
 Applied work with medicinal mushroom health benefits spans multiple contexts and scales, from small-scale operations to industrial applications.
 Successful implementation requires attention to site-specific conditions and adaptive management strategies.
 Practitioners benefit from integrating both empirical observations and systematic monitoring.
-Economic viability often depends on careful resource allocation and appropriate technology selection.
+Economic viability often depends on careful resource allocation and [[appropriate-technology]] selection.
 
 ## Future Directions
 

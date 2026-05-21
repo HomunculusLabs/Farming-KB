@@ -14,7 +14,7 @@ Cannabis has a well-established role in managing cancer symptoms, and emerging (
 ## Symptom Management (Strong Evidence)
 
 ### Chemotherapy-Induced Nausea and Vomiting (CINV)
-- **Evidence level: Strong** (FDA-approved dronabinol and nabilone exist)
+- **Evidence level: Strong** (FDA-approved [[dronabinol]] and [[nabilone]] exist)
 - THC is the primary antiemetic agent
 - More effective than many conventional antiemetics for delayed nausea
 - CBD enhances antiemetic effects and reduces THC's psychoactive side effects

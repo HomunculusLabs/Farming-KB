@@ -31,7 +31,7 @@ A reliable water system is the foundation of any homestead. The goal is to captu
 - Gravity-feed from elevated tanks (1 ft height = 0.43 PSI)
 - For adequate pressure: tank at least 30 ft above point of use (~13 PSI)
 - 1/2 inch pipe for domestic use, 3/4 inch for irrigation
-- Use drip irrigation or soaker hoses (90% efficient vs 50% for sprinklers)
+- Use [[drip-irrigation]] or soaker hoses (90% efficient vs 50% for sprinklers)
 
 ## Greywater Systems
 
@@ -67,12 +67,12 @@ A reliable water system is the foundation of any homestead. The goal is to captu
 - **Distillation**: Boil and condense — removes everything including minerals
 
 ## Related
-- [[permaculture-water-harvesting]] — for earthworks and swale design
+- [[permaculture-water-harvesting]] — for earthworks and [[swale-design]]
 - [[swale-construction-guide]] — for swale building
 - [[irrigation-watering-techniques]] — for garden irrigation methods
 ## Current Research
 
-Recent studies on homesteading water systems have explored novel approaches and expanded our understanding of underlying mechanisms.
+Recent studies on [[homesteading]] water systems have explored novel approaches and expanded our understanding of underlying mechanisms.
 Researchers continue to investigate optimal parameters and conditions that influence outcomes in this area.
 
 ## Practical Considerations

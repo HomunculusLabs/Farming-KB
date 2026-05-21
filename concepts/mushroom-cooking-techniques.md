@@ -18,7 +18,7 @@ All wild mushrooms should be cooked before eating. Raw mushrooms contain:
 - Chitin in cell walls (indigestible raw)
 - Potential pathogens from the growing environment
 - Heat-sensitive toxins in some species
-- Agaritine in raw Agaricus species (reduced by cooking)
+- [[agaritine]] in raw [[agaricus]] species (reduced by cooking)
 
 Cooking also develops flavor through:
 - Maillard reaction (browning) on high heat
@@ -75,7 +75,7 @@ Best for large, meaty mushrooms:
 For tough or woody species:
 - Cook low and slow in liquid
 - Aromatics, wine, stock, or cream as braising liquid
-- Works well for: hen of the woods, chicken of the woods (young), hedgehogs
+- Works well for: hen of the woods, [[chicken-of-the-woods]] (young), hedgehogs
 - Stewed mushrooms are traditional in Eastern European, Asian, and Mediterranean cuisines
 
 ### Frying

@@ -45,7 +45,7 @@ Lower atmospheric pressure at elevation affects:
 
 - Water boils at lower temperatures (200°F at 6,000 ft vs. 212°F at sea level)
 - Reduced CO2 availability can slightly slow plant growth
-- Transpiration rates increase due to lower humidity and wind
+- [[transpiration]] rates increase due to lower humidity and wind
 - Soil dries faster despite cooler temperatures due to wind and low humidity
 
 ## Frost Protection
@@ -63,7 +63,7 @@ Methods that require no external energy:
 ### Active Frost Protection
 Methods requiring energy or materials:
 
-- **Row covers**: Floating row cover provides 2-6°F of frost protection
+- **Row covers**: [[floating-row-cover]] provides 2-6°F of frost protection
 - **Low tunnels**: PVC or wire hoops covered with row cover or plastic; 4-10°F protection
 - **Wall o' water**: Water-filled plastic tubes around individual plants; 8-16°F protection
 - **Cloches**: Glass or plastic covers for individual plants
@@ -139,15 +139,15 @@ Mountain soils are typically shallow, rocky, and low in organic matter:
 
 - Glacial, alluvial, or residual soils with limited topsoil depth
 - High rock content provides drainage but limits root growth
-- Low organic matter due to slow decomposition in cool temperatures
+- Low organic matter due to slow [[decomposition]] in cool temperatures
 - Often acidic due to conifer influence and high rainfall
 
 ### Building Soil
-- Import compost and organic matter; incorporate 4-6 inches into new beds
+- Import [[compost]] and organic matter; incorporate 4-6 inches into new beds
 - Use raised beds to increase rooting depth above rocky subsoil
-- Plant green manure cover crops during short off-seasons (hairy vetch, field peas, oats, winter rye)
+- Plant [[green-manure-cover-crops]] during short off-seasons (hairy vetch, field peas, oats, winter rye)
 - Mulch heavily to retain moisture and build organic matter
-- Add biochar to improve nutrient retention in sandy mountain soils
+- Add [[biochar]] to improve nutrient retention in sandy mountain soils
 ## See Also
 
 - [[inselbergs-and-fold-mountain-water-systems]]

@@ -9,12 +9,12 @@ sources: []
 
 # Worm Farming for Profit
 
-Vermicomposting -- raising earthworms to process organic waste into nutrient-rich castings -- can become a profitable homestead business. Worm castings (vermicast) are among the finest organic fertilizers available, and the worms themselves have multiple markets.
+[[vermicomposting]] -- raising [[earthworms]] to process organic waste into nutrient-rich castings -- can become a profitable homestead business. Worm castings (vermicast) are among the finest organic fertilizers available, and the worms themselves have multiple markets.
 
 ## Getting Started
 
 ### Worm Species
-- Red Wigglers (Eisenia fetida): the gold standard for vermicomposting. Hardy, prolific breeders, process waste rapidly. Thrive in 55-77F. Can eat half their body weight daily.
+- Red Wigglers ([[eisenia-fetida]]): the gold standard for vermicomposting. Hardy, prolific breeders, process waste rapidly. Thrive in 55-77F. Can eat half their body weight daily.
 - European Nightcrawlers (Eisenia hortensis): larger than red wigglers, good for bait markets. Slightly less prolific but produce excellent castings.
 - African Nightcrawlers (Eudrilus eugeniae): fastest processors but require warmer temperatures (75-90F). Not suitable for outdoor systems in cool climates.
 
@@ -47,7 +47,7 @@ Feed in thin layers (1-2 inches) rather than burying deep. Overfeeding causes an
 10-20 bins or a small flow-through system. Begin processing waste from local businesses (coffee shops, restaurants, produce stands). Start selling castings at farmers markets and online. Expected revenue: $200-800/month.
 
 ### Phase 3: Commercial Scale (18+ months)
-Dedicated worm facility with flow-through systems or windrows. Process waste on contract for municipalities or composting operations. Wholesale castings to garden centers and nurseries. Expected revenue: $1,000-5,000+/month.
+Dedicated worm facility with flow-through systems or windrows. Process waste on contract for municipalities or [[composting]] operations. Wholesale castings to garden centers and nurseries. Expected revenue: $1,000-5,000+/month.
 
 ## Products and Revenue Streams
 

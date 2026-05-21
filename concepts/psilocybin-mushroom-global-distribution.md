@@ -24,14 +24,14 @@ Psilocybin-containing mushrooms are found on every inhabited continent. They bel
 ## North America
 
 ### United States
-- **Pacific Northwest**: Rich in psilocybin species, particularly *Psilocybe cyanescens* ("wavy caps"), *P. azurescens*, and *P. stuntzii*. The coastal dune grasslands of Oregon and Washington support naturalized populations of *P. azurescens*, one of the most potent species known.
-- **Gulf Coast / Southeast**: *Psilocybe cubensis* is common in subtropical Florida, Texas, and along the Gulf Coast, fruiting on bovine dung from spring through fall. *Panaeolus subbalteatus* and *P. cyanescens* also occur.
+- **Pacific Northwest**: Rich in psilocybin species, particularly *[[psilocybe-cyanescens]]* ("wavy caps"), *P. azurescens*, and *P. stuntzii*. The coastal dune grasslands of Oregon and Washington support naturalized populations of *P. azurescens*, one of the most potent species known.
+- **Gulf Coast / Southeast**: *[[psilocybe-cubensis]]* is common in subtropical Florida, Texas, and along the Gulf Coast, fruiting on bovine dung from spring through fall. *[[panaeolus-subbalteatus]]* and *P. cyanescens* also occur.
 - **Southwest**: Scattered species in Arizona and New Mexico, associated with higher elevation grasslands.
-- **Northeast**: *Psilocybe ovoideocystidiata* and *Panaeolus cinctulus* occur in the mid-Atlantic and northeastern states.
+- **Northeast**: *[[psilocybe-ovoideocystidiata]]* and *[[panaeolus-cinctulus]]* occur in the mid-Atlantic and northeastern states.
 
 ### Mexico
 Mexico is the center of diversity for *Psilocybe* and has the highest number of known psychoactive species in the world (approximately 50+). Key species include:
-- *Psilocybe mexicana* (the species first identified by Heim and used by the Mazatec)
+- *[[psilocybe-mexicana]]* (the species first identified by Heim and used by the Mazatec)
 - *P. caerulescens*, *P. zapotecorum*, *P. sanctorum*
 - *P. cubensis* in tropical lowland regions
 
@@ -52,7 +52,7 @@ Species are concentrated in the states of Oaxaca, Puebla, Veracruz, Chiapas, and
 
 ## Europe
 
-- **Psilocybe semilanceata** (liberty cap) is the most widespread European species, found across the British Isles, Scandinavia, Central Europe, and the Mediterranean. It fruits in autumn in pastures and grasslands.
+- **[[psilocybe-semilanceata]]** (liberty cap) is the most widespread European species, found across the British Isles, Scandinavia, Central Europe, and the Mediterranean. It fruits in autumn in pastures and grasslands.
 - **Psilocybe cyanescens** is common in Western Europe, particularly in the Netherlands, Germany, and the UK, where it has naturalized in landscaped wood chip mulch.
 - **Panaeolus cinctulus** occurs widely across Europe in horse pastures and manured fields.
 - Southern European countries (Spain, Italy, Greece) have additional species.

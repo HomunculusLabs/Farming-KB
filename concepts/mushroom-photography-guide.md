@@ -145,7 +145,7 @@ For documentation and identification purposes:
 - Stem (base to top, any ring or volva)
 - Cross-section (cut in half vertically)
 - Habitat (surrounding trees, soil type, associated plants)
-- Spore print (if possible)
+- [[spore-print]] (if possible)
 
 ### Time-Lapse
 ## See Also

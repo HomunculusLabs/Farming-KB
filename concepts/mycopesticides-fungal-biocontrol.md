@@ -9,7 +9,7 @@ sources: [raw/papers/mycelium-running-stamets.md]
 
 # Mycopesticides and Fungal Biocontrol
 
-Mycopesticides are fungi used as biological control agents against insect pests. Entomopathogenic fungi -- fungi that attack and kill insects -- offer an ecologically rational alternative to chemical pesticides, causing negligible collateral damage to non-target organisms.
+[[mycopesticides]] are fungi used as biological control agents against insect pests. [[entomopathogenic-fungi]] -- fungi that attack and kill insects -- offer an ecologically rational alternative to chemical pesticides, causing negligible collateral damage to non-target organisms.
 
 ## The Problem with Chemical Pesticides
 
@@ -20,7 +20,7 @@ Many chemical pesticides, especially organophosphates, harm non-targeted organis
 Thousands of species of fungi attack thousands of insect species. The most studied genera include:
 
 ### Metarhizium (especially M. anisopliae)
-A green mold fungus highly prevalent in soils. Pathogenic to ants, termites, locusts, mosquitoes, and mites. Does not harm mammals, does not cause human allergies, and is limited in colony size. Some species of Cordyceps can sprout from insect carcasses killed by Metarhizium, demonstrating fungal dimorphism.
+A green mold fungus highly prevalent in soils. Pathogenic to ants, termites, locusts, mosquitoes, and mites. Does not harm mammals, does not cause human allergies, and is limited in colony size. Some species of Cordyceps can sprout from insect carcasses killed by [[metarhizium]], demonstrating fungal dimorphism.
 
 ### Beauveria (especially B. bassiana)
 A white mold fungus first observed in 1834 by Agustino Bassi causing muscardine disease in silkworms. This discovery preceded Pasteur's germ theory by decades. Widely used against agricultural and structural pests.
@@ -38,7 +38,7 @@ When insects come into contact with entomopathogenic fungal spores:
 1. Spores attach to the insect exoskeleton
 2. Spores germinate and bore hyphal pegs through the exoskeleton using chitin-dissolving enzymes
 3. Other portals of entry include the respiratory tract, anus, and mouth
-4. Once inside, mycelium forks through internal organs, interfering with metabolism
+4. Once inside, [[mycelium]] forks through internal organs, interfering with metabolism
 5. This causes malaise, necrosis, and death within a few days
 6. The mummified insect becomes a launching platform for further sporulation
 

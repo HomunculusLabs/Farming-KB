@@ -16,7 +16,7 @@ updated: 2026-04-12
 
 # Marine and Estuarine Fungi
 
-Marine habitats support a diverse assemblage of fungi adapted to saline conditions, including obligate marine species, facultative marine species (also found in freshwater or terrestrial habitats), and terrestrial fungi that survive transit through seawater. Marine mycology encompasses fungi from coastal mangroves to deep ocean sediments.
+Marine habitats support a diverse assemblage of fungi adapted to saline conditions, including obligate marine species, facultative marine species (also found in freshwater or terrestrial habitats), and terrestrial fungi that survive transit through seawater. Marine [[mycology]] encompasses fungi from coastal mangroves to deep ocean sediments.
 
 ## Overview
 
@@ -29,7 +29,7 @@ Approximately 1,000+ species of marine fungi have been described, but the true d
 ## Habitats
 
 ### Mangrove Ecosystems
-Mangroves are the most productive habitat for marine fungal diversity. Fungi colonize:
+Mangroves are the most productive habitat for [[marine-fungal-diversity]]. Fungi colonize:
 - **Prop roots and pneumatophores**: Large surface area for fungal colonization
 - **Submerged wood**: Driftwood and woody debris in intertidal zone
 - **Leaves**: Both attached and detrital mangrove leaves
@@ -37,7 +37,7 @@ Mangroves are the most productive habitat for marine fungal diversity. Fungi col
 
 **Mangrove-associated fungal genera**:
 - *Lignincola*, *Halosarpheia*, *Massarina*, *Phaeosphaeria* (Ascomycetes)
-- *Halophytophthora* (Peronosporomycete)
+- *[[halophytophthora]]* (Peronosporomycete)
 - Many species are restricted to specific mangrove tree species
 
 ### Driftwood and Submerged Wood
@@ -64,7 +64,7 @@ Mangroves are the most productive habitat for marine fungal diversity. Fungi col
 - Wood and plant debris sinking from surface provides substrate
 
 ### Coral Reefs and Marine Invertebrates
-- Endophytic fungi in corals, sponges, and algae
+- [[endophytic-fungi]] in corals, sponges, and algae
 - Fungal diseases of corals (e.g., aspergillosis of sea fans)
 - Symbiotic fungi in marine sponges produce bioactive compounds
 - Fungi associated with marine algae (endophytes and parasites)
@@ -74,7 +74,7 @@ Mangroves are the most productive habitat for marine fungal diversity. Fungi col
 ### Ascomycetes (Most Diverse)
 **Key orders**:
 - *Lulworthiales*: Halosphaeriaceae (the largest family of marine Ascomycetes)
-  - *Lulworthia*, *Halosphaeria*, *Ceriosporopsis*, *Remispora*, *Corollospora*, *Naufragella*
+  - *[[lulworthia]]*, *Halosphaeria*, *Ceriosporopsis*, *Remispora*, *Corollospora*, *Naufragella*
 - *Sordariales*: *Savoryella*, *Zopfiella*, *Cumulospora*
 - *Pleosporales*: *Massarina*, *Lophiostoma*, *Phaeosphaeria*, *Leptosphaeria*
 - *Xylariales*: *Xylaria* (some marine species)
@@ -87,7 +87,7 @@ Mangroves are the most productive habitat for marine fungal diversity. Fungi col
 ### Basidiomycetes
 - Fewer species than Ascomycetes in marine habitats
 - Some marine wood-decaying species
-- *Nia vibrissa* on intertidal wood
+- *[[nia-vibrissa]]* on intertidal wood
 - *Digitatispora marina* on submerged wood
 
 ### Chytridiomycetes
@@ -105,7 +105,7 @@ Mangroves are the most productive habitat for marine fungal diversity. Fungi col
 ### Yeasts
 - Marine yeasts found in seawater, sediments, and on marine organisms
 - *Candida*, *Debaryomyces*, *Rhodotorula*, *Sporobolomyces* species
-- *Aureobasidium pullulans* on marine algae and wood
+- *[[aureobasidium-pullulans]]* on marine algae and wood
 - Some produce extracellular polysaccharides
 
 ## Adaptations to Marine Life

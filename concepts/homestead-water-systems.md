@@ -98,7 +98,7 @@ Remove particles using staged filtration:
 ### Mineral Treatment
 
 - Water softeners: Remove calcium and magnesium (hardness) using ion exchange
-- Acid neutralizers: Raise pH of acidic water using calcite media
+- Acid neutralizers: Raise pH of acidic water using [[calcite]] media
 - Iron/manganese filters: Remove staining metals using oxidation and filtration
 
 ## System Design Principles

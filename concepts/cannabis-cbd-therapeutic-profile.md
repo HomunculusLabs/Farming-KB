@@ -20,7 +20,7 @@ Cannabidiol (CBD) is the second most abundant cannabinoid in cannabis and has em
 
 ### Anti-Anxiety
 - Reduces anxiety in social situations, GAD, and PTSD
-- Mechanism: 5-HT1A serotonin receptor activation (similar to buspirone)
+- Mechanism: 5-HT1A [[serotonin]] receptor activation (similar to buspirone)
 - Effective at 15-600mg depending on condition
 
 ### Anti-Inflammatory
@@ -36,7 +36,7 @@ Cannabidiol (CBD) is the second most abundant cannabinoid in cannabis and has em
 ### Anti-Psychotic
 - Reduces psychotic symptoms in schizophrenia (comparable to antipsychotics in some trials)
 - Counteracts THC-induced psychosis and paranoia
-- Mechanism: May increase anandamide levels
+- Mechanism: May increase [[anandamide]] levels
 
 ## CBD Pharmacokinetics
 

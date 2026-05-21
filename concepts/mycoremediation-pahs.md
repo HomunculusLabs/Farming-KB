@@ -42,8 +42,8 @@ Fungi degrade PAHs through two main metabolic routes:
 
 White-rot fungi secrete nonspecific oxidative enzymes that attack PAHs:
 
-- **Lignin peroxidase (LiP)** — one-electron oxidation of aromatic rings, producing aryl cation radicals that react with water to form hydroxylated products
-- **Manganese peroxidase (MnP)** — generates Mn(III)-organic acid chelates that act as diffusible oxidants; degrades PAHs to quinones and ring-fission products
+- **[[lignin-peroxidase]] (LiP)** — one-electron oxidation of aromatic rings, producing aryl cation radicals that react with water to form hydroxylated products
+- **[[manganese-peroxidase]] (MnP)** — generates Mn(III)-organic acid chelates that act as diffusible oxidants; degrades PAHs to quinones and ring-fission products
 - **Laccase** — oxidizes phenolic PAH metabolites; can be enhanced with mediators (ABTS, HBT) to attack non-phenolic PAHs
 - **Key advantage**: These enzymes are extracellular and nonspecific — they do not require the PAH to enter the cell
 
@@ -74,11 +74,11 @@ Many non-ligninolytic fungi metabolize PAHs via cytochrome P450:
 - Among 41 micromycete isolates tested, Penicillium strains from the subgenus Furcatum were most common in highly contaminated soils
 
 ### White-Rot Basidiomycetes
-- **Phanerochaete chrysosporium**: Model organism; mineralizes PAHs under nitrogen-limited conditions
+- **[[phanerochaete-chrysosporium]]**: Model organism; mineralizes PAHs under nitrogen-limited conditions
 - **Trametes versicolor**: Degrades phenanthrene, anthracene, pyrene; high laccase production
-- **Pleurotus ostreatus**: Oyster mushroom; used in oil spill remediation; degrades 3-4 ring PAHs
-- **Bjerkandera adusta**: Produces manganese peroxidase; effective against fluoranthene
-- **Irpex lacteus**: Removed nearly 40% pyrene after 2 weeks; produces lignin and manganese peroxidases
+- **[[pleurotus-ostreatus]]**: [[oyster-mushroom]]; used in oil spill remediation; degrades 3-4 ring PAHs
+- **[[bjerkandera-adusta]]**: Produces manganese peroxidase; effective against fluoranthene
+- **[[irpex-lacteus]]**: Removed nearly 40% pyrene after 2 weeks; produces lignin and manganese peroxidases
 - **Crinipellis stipitaria**: Oxidizes pyrene to quinones and hydroxylated derivatives; mineralizes [14C]pyrene to 14CO2
 
 ### Yeasts

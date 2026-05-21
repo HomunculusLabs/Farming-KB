@@ -9,7 +9,7 @@ sources: []
 
 # Porcini (Boletus) Guide
 
-Porcini (Boletus edulis and related species) are among the most sought-after wild mushrooms in the world. Known as "cepes" in France, "steinpilz" in Germany, "porcini" in Italy, and "king bolete" in North America, these mushrooms have a rich, nutty, meaty flavor that makes them a cornerstone of European cuisine. Like [[chanterelle-guide]] species, porcini are mycorrhizal and cannot be cultivated.
+Porcini ([[boletus-edulis]] and related species) are among the most sought-after wild mushrooms in the world. Known as "cepes" in France, "steinpilz" in Germany, "porcini" in Italy, and "king bolete" in North America, these mushrooms have a rich, nutty, meaty flavor that makes them a cornerstone of European cuisine. Like [[chanterelle-guide]] species, porcini are mycorrhizal and cannot be cultivated.
 
 ## Overview
 
@@ -21,8 +21,8 @@ Molecular research has revealed that what was traditionally considered a single 
 
 - Boletus edulis sensu stricto: Europe (the original porcino)
 - Boletus edulis var. grandedulis: western North America (the "King Bolete")
-- Boletus reticulatus (syn. B. aereus): Europe, "Dark Bolete" or "Bronze Bolete"
-- Boletus pinophilus: Europe, pine-associated, "Pine Bolete"
+- [[boletus-reticulatus]] (syn. B. aereus): Europe, "Dark Bolete" or "Bronze Bolete"
+- [[boletus-pinophilus]]: Europe, pine-associated, "Pine Bolete"
 - Boletus rex-veris: western North America, spring fruiting
 - Boletus variipes: eastern North America, associated with oak
 - Boletus fibrillosus: Pacific Northwest, spruce/hemlock
@@ -39,13 +39,13 @@ All are edible and excellent, with similar culinary qualities. The distinctions 
 - Stem: thick, solid, club-shaped; white with a fine brown network (reticulation) at the top
 - Flesh: white, firm, does not change color when cut
 - Odor: nutty, pleasant, slightly fruity
-- Spore print: olive-brown
+- [[spore-print]]: olive-brown
 - Mycorrhizal partners: spruce, pine, birch, oak, beech, chestnut (varies by species)
 - Season: varies — summer/fall in most regions; spring in some
 
 ## Mycorrhizal Ecology
 
-Porcini form ectomycorrhizal associations with several tree genera:
+Porcini form [[ectomycorrhizal-associations]] with several tree genera:
 
 - Spruce (Picea): most common association in Europe and North America
 - Pine (Pinus): especially B. pinophilus and B. reticulatus
@@ -123,7 +123,7 @@ Several Boletus species stain blue when bruised. Some are edible (after thorough
 
 ### Harvesting
 
-- Cut at the base with a knife (do not pull — damages mycelium)
+- Cut at the base with a knife (do not pull — damages [[mycelium]])
 - Check for insect damage (porcini are notoriously prone to worm infestation)
 - Slice open lengthwise in the field to check for larvae
 - Accept some insect damage — it is normal and does not affect the edible portions

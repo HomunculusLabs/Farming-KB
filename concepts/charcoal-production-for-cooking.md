@@ -9,7 +9,7 @@ sources: []
 
 ## Overview
 
-Charcoal is wood that has been heated in the absence of sufficient oxygen to drive off volatile compounds (water, methane, hydrogen, tar), leaving behind a carbon-rich fuel that burns hotter, cleaner, and more consistently than raw wood. For off-grid and homestead cooking, producing your own charcoal reduces fuel costs, provides a high-quality cooking fuel, and can create biochar as a soil amendment.
+Charcoal is wood that has been heated in the absence of sufficient oxygen to drive off volatile compounds (water, methane, hydrogen, tar), leaving behind a carbon-rich fuel that burns hotter, cleaner, and more consistently than raw wood. For off-grid and homestead cooking, producing your own charcoal reduces fuel costs, provides a high-quality cooking fuel, and can create [[biochar]] as a soil amendment.
 
 ## The Chemistry of Charcoal
 
@@ -141,8 +141,8 @@ Any charcoal production method can produce biochar for soil amendment:
 
 - Quench hot charcoal with water rather than letting it cool slowly (water quenching preserves more micropore structure)
 - Crush charcoal to particle sizes from powder to 1/2 inch
-- Incorporate into compost piles or garden beds at 5-10% by volume
-- Biochar improves soil water retention, cation exchange capacity, and microbial habitat
+- Incorporate into [[compost]] piles or garden beds at 5-10% by volume
+- Biochar improves soil water retention, [[cation-exchange-capacity]], and microbial habitat
 - "Charge" biochar by soaking in compost tea or mixing with compost before soil application
 
 See [[composting-methods-comparison]] for integration with biochar production.

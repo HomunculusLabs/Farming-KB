@@ -9,7 +9,7 @@ sources: []
 
 # Homestead Mushroom Business
 
-Growing and selling mushrooms on a homestead scale offers high returns on low capital investment. Gourmet mushrooms (shiitake, oyster, lion's mane, wine cap) command $8-20/lb retail and can be produced in small spaces using low-tech methods. This guide covers production, pricing, licensing, and scaling.
+Growing and selling mushrooms on a homestead scale offers high returns on low capital investment. Gourmet mushrooms (shiitake, oyster, lion's mane, [[wine-cap]]) command $8-20/lb retail and can be produced in small spaces using low-tech methods. This guide covers production, pricing, licensing, and scaling.
 
 ## Species Selection for Beginners
 
@@ -17,7 +17,7 @@ Growing and selling mushrooms on a homestead scale offers high returns on low ca
 - Fastest to fruit (2-4 weeks from inoculation)
 - Multiple varieties: blue, pink, golden, king, phoenix
 - Grow on straw, coffee grounds, cardboard, hardwood sawdust
-- Yield: 50-100% biological efficiency (1 lb mushrooms per lb dry substrate)
+- Yield: 50-100% [[biological-efficiency]] (1 lb mushrooms per lb dry substrate)
 - Price: $8-12/lb retail
 
 ### Shiitake (Lentinula edodes)
@@ -53,11 +53,11 @@ Setup requirements:
 - Light: ambient room light (no grow lights needed for most)
 - Shelving: wire shelves with space between blocks
 
-Substrate preparation:
-1. Hardwood sawdust + wheat bran (80:20 ratio) + water to 60% moisture
+[[substrate-preparation]]:
+1. Hardwood sawdust + [[wheat-bran]] (80:20 ratio) + water to 60% moisture
 2. Sterilize in pressure cooker or autoclave (15 psi, 90 min for bags)
 3. Cool to room temperature in clean environment
-4. Inoculate with grain spawn (5-10% of substrate weight)
+4. Inoculate with [[grain-spawn]] (5-10% of substrate weight)
 5. Seal bags with filter patch and tape inoculation point
 6. Incubate at 70-75F in dark until fully colonized (2-4 weeks)
 
@@ -75,7 +75,7 @@ Fruiting:
 1. Cut fresh hardwood logs (4-8 inch diameter, 3-4 feet long) in late winter/early spring
 2. Let rest 2-3 weeks (avoid using freshly cut logs)
 3. Drill holes 1 inch deep, spaced 6 inches apart in diamond pattern
-4. Inoculate with shiitake plug spawn or sawdust spawn
+4. Inoculate with shiitake plug spawn or [[sawdust-spawn]]
 5. Seal holes with food-grade wax (cheese wax, beeswax)
 6. Stack logs in shade ("log cabin" or parallel stacking)
 7. Keep moist (water during dry periods); do not let dry out
@@ -135,7 +135,7 @@ Check your state's Department of Agriculture for specific requirements. Some sta
 
 ## Scaling Considerations
 
-- Start with one species (oyster mushrooms recommended)
+- Start with one species ([[oyster-mushrooms]] recommended)
 - Master the process before expanding
 - Add species as confidence grows
 - Automate humidity/ventilation when production exceeds manual capacity

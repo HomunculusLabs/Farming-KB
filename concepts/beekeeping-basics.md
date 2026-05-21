@@ -15,7 +15,7 @@ Beekeeping (apiculture) is the maintenance of honey bee colonies for honey produ
 
 - **Pollination**: Honey bees dramatically increase fruit, vegetable, and seed set in home gardens and orchards. They pollinate apples, pears, berries, squash, cucumbers, melons, and many other crops.
 - **Honey**: A healthy hive produces 30-60 pounds of surplus honey per year in most climates.
-- **Beeswax**: Used for [[candle-making|candle]]s, salves, food wraps, woodworking, and cosmetics.
+- **Beeswax**: Used for [[candle-making|candle]] s, salves, food wraps, woodworking, and cosmetics.
 - **Propolis and pollen**: Valuable bee products with medicinal and nutritional properties.
 - **Ecological benefit**: Supporting pollinators contributes to broader ecosystem health.
 - **Education and connection**: Beekeeping connects you to the natural world and provides a deeper understanding of ecology and seasonal cycles.
@@ -62,7 +62,7 @@ A horizontal hive with no frames. Bees build comb from wooden bars suspended acr
 - **Disadvantages**: Less honey production, comb is fragile and cannot be extracted with a spinner, less standardized equipment.
 
 ### Warre Hive
-A vertical top bar hive. Boxes are added to the bottom (nadiring) rather than the top (supering). Bees build natural comb downward.
+A vertical [[top-bar-hive]]. Boxes are added to the bottom (nadiring) rather than the top (supering). Bees build natural comb downward.
 
 - **Advantages**: Minimal disturbance to bees, natural comb, good for cold climates (bees cluster at the top near warmth).
 - **Disadvantages**: Lower honey production, heavy boxes when full, less common equipment.
@@ -122,7 +122,7 @@ A vertical top bar hive. Boxes are added to the bottom (nadiring) rather than th
 
 ### Fall (September-November)
 - **Harvest honey**: Remove and extract honey supers before temperatures drop. Leave enough honey for winter (60-80 pounds in cold climates, 40-60 pounds in mild climates).
-- **Varroa treatment**: Critical fall treatment to ensure healthy winter bees. Oxalic acid vaporization or glycerin strips are common treatments.
+- **Varroa treatment**: Critical fall treatment to ensure healthy winter bees. [[oxalic-acid]] vaporization or glycerin strips are common treatments.
 - **Feeding**: Feed 2:1 sugar syrup (2 parts sugar : 1 part water) if stores are insufficient. Stop feeding when temperatures drop below 50°F.
 - **Reduce entrance**: Install entrance reducer for winter to prevent mice and cold drafts.
 - **Ventilation**: Ensure upper ventilation to prevent moisture buildup in winter (condensation kills bees faster than cold).

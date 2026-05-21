@@ -11,7 +11,7 @@ sources: []
 
 Hot sauce is a condiment made primarily from chili peppers, vinegar, and salt. It spans cultures worldwide — from Mexican salsa picante to Thai sriracha to Caribbean pepper sauces to American Louisiana-style hot sauces. Home hot sauce making allows complete control over heat level, flavor complexity, ingredients, and fermentation methods.
 
-There are two main approaches to making hot sauce: vinegar-based (quick, no fermentation) and fermented (lactic acid bacteria develop complex flavors over time).
+There are two main approaches to making hot sauce: vinegar-based (quick, no fermentation) and fermented ([[lactic-acid-bacteria]] develop complex flavors over time).
 
 ## Pepper Selection
 

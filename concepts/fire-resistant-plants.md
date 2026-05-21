@@ -18,19 +18,19 @@ Plants with low fire potential are critical for permaculture designs in fire-pro
 - Acacia cyanophylla (Western Wattle)
 - Acacia cyclops (Coastal Wattle)
 - Acacia howittii (Sticky Wattle)
-- Acacia melanoxylon* (Blackwood) -- recovers
+- [[acacia-melanoxylon]]* (Blackwood) -- recovers
 - Acacia pravissima (Ovens Acacia)
 - Acacia saligna (Golden Wreath Wattle)
 
 ### Maples
 - Acer campestre (Common Maple)
-- Acer negundo (Box Elder Maple)
+- [[acer-negundo]] (Box Elder Maple)
 - Acer palmatum (Japanese Maple)
 - Acer pseudoplatanus (Sycamore) -- recovers
-- Acer platanoides (Norway Maple)
+- [[acer-platanoides]] (Norway Maple)
 
 ### Casuarinas (Sheoaks)
-- Casuarina cunninghamiana (River Sheoak) -- recovers
+- [[casuarina-cunninghamiana]] (River Sheoak) -- recovers
 - Casuarina fraserana (Fraser's Sheoak)
 - Casuarina glauca (Swamp Oak) -- recovers
 - Casuarina obesa (Salt Sheoak)
@@ -38,11 +38,11 @@ Plants with low fire potential are critical for permaculture designs in fire-pro
 - Casuarina torulosa (Forest Sheoak)
 
 ### Eucalyptus
-- Eucalyptus maculata (Spotted Gum)
+- [[eucalyptus-maculata]] (Spotted Gum)
 
 ### Oaks
-- Quercus robur (English Oak) -- recovers
-- Quercus suber (Cork Oak)
+- [[quercus-robur]] (English Oak) -- recovers
+- [[quercus-suber]] (Cork Oak)
 - Quercus ilex (Holm Oak)
 - Quercus virginiana (Live Oak)
 - Quercus macrocarpa (Burr Oak)

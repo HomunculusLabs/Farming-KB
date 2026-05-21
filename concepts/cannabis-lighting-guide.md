@@ -34,7 +34,7 @@ Different wavelengths serve different functions:
 - **Blue light (400-500nm)**: Promotes compact, leafy vegetative growth. Essential for strong stems and healthy leaf development.
 - **Green light (500-600nm)**: Less efficiently absorbed but penetrates deeper into the canopy.
 - **Red light (600-700nm)**: Drives flowering, stem elongation, and biomass production. Most efficient for photosynthesis.
-- **Far-red light (700-750nm)**: Influences the phytochrome system, affecting flowering triggers and plant stretching. Some growers use far-red at the end of the light period to accelerate flowering onset (Emerson effect).
+- **Far-red light (700-750nm)**: Influences the [[phytochrome]] system, affecting flowering triggers and plant stretching. Some growers use far-red at the end of the light period to accelerate flowering onset (Emerson effect).
 
 ## Light Fixture Types
 
@@ -114,7 +114,7 @@ Best for seedlings, clones, and very early vegetative growth. Not sufficient for
 - **24 hours on**: Some growers use this for maximum vegetative growth. Most research suggests dark periods are beneficial for root development and metabolic recovery.
 
 ### Flowering Stage: 12/12
-- 12 hours light / 12 hours dark triggers the flowering response in photoperiod cannabis strains.
+- 12 hours light / 12 hours dark triggers the flowering response in [[photoperiod-cannabis]] strains.
 - **Critical**: The dark period must be completely uninterrupted. Even brief light leaks during the dark cycle can cause stress, hermaphroditism, or delayed flowering.
 - Use light-proof timers and seal any light leaks in the grow space.
 

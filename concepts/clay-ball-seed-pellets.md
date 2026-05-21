@@ -9,7 +9,7 @@ sources: [raw/papers/one-straw-revolution-masanobu-fukuoka.md, raw/papers/masano
 
 # Clay Ball Seed Pellets
 
-Clay ball seed pellets (also called clay pellets or seed balls) are a technique developed by Masanobu Fukuoka for direct-seeding without tillage. They protect seeds from birds, mice, and rot while allowing natural germination when conditions are right.
+Clay ball seed pellets (also called clay pellets or seed balls) are a technique developed by [[masanobu-fukuoka]] for direct-seeding without tillage. They protect seeds from birds, mice, and rot while allowing natural germination when conditions are right.
 
 ## Purpose
 
@@ -40,7 +40,7 @@ For rice/winter grain succession:
 - Can also be broadcast in spring
 - Rice seeding rate: 4.5 to 9 pounds per quarter acre
 - Check germination of fall-sown seed toward end of April and broadcast more pellets as needed
-- A thin layer of chicken manure is spread over the field to help decompose the straw
+- A thin layer of [[chicken-manure]] is spread over the field to help decompose the straw
 
 The method also works for other grains and vegetables. Fukuoka sometimes enclosed seeds of other crops in pellets before sowing.
 
@@ -75,7 +75,7 @@ Interdisciplinary approaches have proven particularly valuable in advancing our 
 Applied work with clay ball seed pellets spans multiple contexts and scales, from small-scale operations to industrial applications.
 Successful implementation requires attention to site-specific conditions and adaptive management strategies.
 Practitioners benefit from integrating both empirical observations and systematic monitoring.
-Economic viability often depends on careful resource allocation and appropriate technology selection.
+Economic viability often depends on careful resource allocation and [[appropriate-technology]] selection.
 
 ## Future Directions
 

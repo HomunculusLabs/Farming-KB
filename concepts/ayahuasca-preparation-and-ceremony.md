@@ -18,7 +18,7 @@ sources:
 
 # Ayahuasca Preparation and Ceremony
 
-The Amazonian psychoactive brew ayahuasca: its botanical components, chemical synergy, preparation methods, and ceremonial structure.
+The Amazonian psychoactive brew [[ayahuasca]]: its botanical components, chemical synergy, preparation methods, and ceremonial structure.
 
 ## Overview
 
@@ -30,7 +30,7 @@ Ayahuasca is not a single plant but a combination of at least two:
 
 ### Primary Component: *Banisteriopsis caapi* (Ayahuasca Vine)
 - A large woody vine (*Malpighiaceae* family) that grows throughout the Amazon basin.
-- Contains **beta-carboline alkaloids**: harmine, harmaline, and tetrahydroharmine (THH).
+- Contains **beta-carboline alkaloids**: [[harmine]], [[harmaline]], and [[tetrahydroharmine]] (THH).
 - These alkaloids are **monoamine oxidase inhibitors (MAOIs)**, which block the enzyme MAO in the gut that normally destroys DMT before it can reach the bloodstream.
 - Without *B. caapi*, consuming DMT orally would produce no psychoactive effects.
 - Indigenous peoples consider the vine itself to be the primary teacher and spirit, with the DMT-containing admixture plants as "light" or "vision" additives.
@@ -39,7 +39,7 @@ Ayahuasca is not a single plant but a combination of at least two:
 
 Several plants are combined with *B. caapi* to provide the visionary component:
 
-- ***Psychotria viridis*** (Chacruna): The most common admixture, containing N,N-dimethyltryptamine (DMT) in its leaves. Used throughout the western Amazon.
+- ***[[psychotria-viridis]]*** (Chacruna): The most common admixture, containing N,N-dimethyltryptamine (DMT) in its leaves. Used throughout the western Amazon.
 - ***Diplopterys cabrerana*** (Chaliponga): Another DMT-containing plant, also used as an admixture. Contains both DMT and 5-MeO-DMT.
 - Less commonly, *Psychotria carthaginensis* or other species may be used.
 
@@ -61,7 +61,7 @@ Traditional preparation is a lengthy process:
 3. **Reduction**: The liquid is strained and reduced by continued boiling until a concentrated, dark, viscous brew results.
 4. **The final product**: A bitter, dark brown to black liquid with the consistency of motor oil, described by McKenna as tasting "like the blood of some old, old thing."
 
-Some traditions add additional plants for specific purposes -- tobacco (*Nicotiana rustica*), *Brugmansia* (toe/borrachero), or various medicinal plants.
+Some traditions add additional plants for specific purposes -- tobacco (*[[nicotiana-rustica]]*), *Brugmansia* (toe/borrachero), or various medicinal plants.
 
 ## The Ceremony
 

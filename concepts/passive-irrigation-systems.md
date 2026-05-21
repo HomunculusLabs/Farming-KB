@@ -57,7 +57,7 @@ Wicking beds are self-watering garden beds with a built-in water reservoir below
 2.  **Reservoir** — 15-25 cm deep water-filled space at the bottom
 3.  **Wicking medium** — 10-15 cm layer of coarse gravel, scoria, or sand above the reservoir
 4.  **Geotextile barrier** — Separates wicking medium from growing soil, prevents soil washing into reservoir
-5.  **Growing soil** — 25-35 cm of quality garden soil or compost blend on top
+5.  **Growing soil** — 25-35 cm of quality garden soil or [[compost]] blend on top
 6.  **Overflow pipe** — Exits at the top of the reservoir to prevent waterlogging
 
 ### Watering
@@ -93,7 +93,7 @@ Swales are shallow, level trenches dug along the contour of a slope. They captur
 
 ### Planting
 
-Plant the berm with deep-rooted perennials (fruit trees, berry bushes, comfrey) and the swale bottom with moisture-loving plants (willow, elderberry, rushes). The berm acts as a sponge that releases water slowly to plant roots downslope.
+Plant the berm with deep-rooted perennials (fruit trees, berry bushes, [[comfrey]]) and the swale bottom with moisture-loving plants (willow, elderberry, rushes). The berm acts as a sponge that releases water slowly to plant roots downslope.
 
 ### Benefits
 
@@ -136,4 +136,4 @@ Deep pipes deliver water directly to the root zone of established trees and shru
 
 ## Integration Notes
 
-Passive irrigation systems work best in combination. Use swales for landscape-scale water management, wicking beds for intensive vegetable production, and ollas for targeted plant watering. Connect all systems to [[rainwater-harvesting-systems]] for a gravity-fed, self-sustaining water supply. For more controlled delivery, [[drip-irrigation-guide]] can supplement passive systems during peak demand periods.
+Passive [[irrigation-systems]] work best in combination. Use swales for landscape-scale [[water-management]], wicking beds for intensive vegetable production, and ollas for targeted plant watering. Connect all systems to [[rainwater-harvesting-systems]] for a gravity-fed, self-sustaining water supply. For more controlled delivery, [[drip-irrigation-guide]] can supplement passive systems during peak demand periods.

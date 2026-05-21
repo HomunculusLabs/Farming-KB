@@ -62,7 +62,7 @@ Dehydration is the primary driver of heat illness. Thirst is not a reliable indi
 - For heavy outdoor labor: 16-32 ounces of water per hour
 - Include electrolyte replacements — plain water alone can cause hyponatremia
 - Oral rehydration solution: 1 liter water + 1/2 tsp salt + 6 tsp sugar
-- Avoid alcohol and caffeine — both are diuretics
+- Avoid alcohol and [[caffeine]] — both are diuretics
 - Monitor urine color: pale yellow = well hydrated; dark = dehydrated
 
 ## Vulnerable Populations
@@ -105,7 +105,7 @@ Livestock suffer severely during heat waves because they cannot escape condition
 
 ## Crops and Gardens
 
-- Mulch heavily around all plants to retain moisture and reduce soil temperature
+- Mulch heavily around all plants to retain moisture and reduce [[soil-temperature]]
 - Water deeply in early morning — avoid midday watering
 - Use shade cloth (30-50% block) over sensitive crops
 - Harvest ripe produce promptly — heat causes rapid spoilage

@@ -29,7 +29,7 @@ The craft declined with the introduction of stick framing (dimensional lumber wi
 Choose locally available species when possible:
 
 - **Oak (white, red):** Traditional choice, extremely strong, rot resistant, takes joinery well. Heavy and hard to work with hand tools.
-- **Douglas fir:** Strong, straight-grained, widely available in western North America. Excellent for beams and posts.
+- **[[douglas-fir]]:** Strong, straight-grained, widely available in western North America. Excellent for beams and posts.
 - **Eastern white pine:** Light, easy to work, adequate for smaller structures. Less rot resistant — keep out of ground contact.
 - **Hemlock:** Strong, rot resistant, widely available in eastern North America. Can be brittle in tension.
 - **Cedar (western red, eastern):** Naturally rot resistant, lighter weight. Good for exposed exterior elements.
@@ -134,7 +134,7 @@ A timber frame provides the structure; the enclosure system provides the walls. 
 - **Light straw-clay:** Insulative infill within temporary forms between timbers
 - **Hempcrete:** Pack or spray hemp-lime mix around the frame
 - **Cob:** Build cob walls between the timbers or use cob as an exterior skin
-- **Enclosed timber frame (stick-framed wrap):** Conventional 2x walls built around the outside of the timber frame, insulated with fiberglass, cellulose, or mineral wool
+- **Enclosed timber frame (stick-framed wrap):** Conventional 2x walls built around the outside of the timber frame, insulated with fiberglass, [[cellulose]], or mineral wool
 - **Structural insulated panels (SIPs):** Pre-fabricated foam-core panels attached to the outside of the frame
 
 ## Tools

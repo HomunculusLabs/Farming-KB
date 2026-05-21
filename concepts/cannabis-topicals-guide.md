@@ -79,7 +79,7 @@ Creams are thicker than lotions with a higher oil-to-water ratio.
 
 ### Full-Spectrum vs Isolate
 
-- **Full-spectrum**: Contains CBD, THC, minor cannabinoids, and terpenes. Believed to be more effective due to the entourage effect.
+- **Full-spectrum**: Contains CBD, THC, minor cannabinoids, and [[terpenes]]. Believed to be more effective due to the entourage effect.
 - **Broad-spectrum**: Contains multiple cannabinoids and terpenes but no THC.
 - **Isolate**: Pure CBD or THC only. No entourage effect but no THC concern.
 

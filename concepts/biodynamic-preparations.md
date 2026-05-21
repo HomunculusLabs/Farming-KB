@@ -11,7 +11,7 @@ sources: []
 
 > Note: This page is compiled from general knowledge of biodynamic agriculture, not sourced from a specific file in the wiki's raw/ directory.
 
-Biodynamic preparations are a set of nine specific fermented preparations used in biodynamic agriculture, developed by Rudolf Steiner in his 1924 agricultural lectures. They are intended to enliven the soil, support composting processes, and influence plant growth through subtle biological and energetic mechanisms. Biodynamic farming treats the farm as a self-sustaining organism.
+Biodynamic preparations are a set of nine specific fermented preparations used in biodynamic agriculture, developed by [[rudolf-steiner]] in his 1924 agricultural lectures. They are intended to enliven the soil, support [[composting]] processes, and influence plant growth through subtle biological and energetic mechanisms. Biodynamic farming treats the farm as a self-sustaining organism.
 
 ## Field Sprays (BD 500 and BD 501)
 
@@ -53,7 +53,7 @@ The foundational biodynamic soil preparation.
 
 ## Compost Preparations (BD 502-507)
 
-These six preparations are added to compost piles to guide and enhance the decomposition process. Each uses a specific plant material prepared in a particular animal organ, buried in soil for a period, then extracted and added to the compost heap.
+These six preparations are added to [[compost]] piles to guide and enhance the [[decomposition]] process. Each uses a specific plant material prepared in a particular animal organ, buried in soil for a period, then extracted and added to the compost heap.
 
 ### BD 502 — Yarrow (Achillea millefolium)
 - **Preparation**: Yarrow flowers stuffed into a deer bladder, buried in soil over winter
@@ -126,11 +126,11 @@ Biodynamic practice also involves a planting calendar based on astronomical posi
 
 - Scientific evidence for biodynamic preparations is mixed. Some studies show improved soil biology, compost quality, and crop yields compared to untreated controls. Other studies find no significant difference between biodynamic and standard organic management.
 - The mechanisms are not well understood by conventional science. The use of animal organs, cosmic forces, and homeopathic dilution levels place biodynamics outside mainstream agronomy.
-- Practitioners consistently report improved soil structure, compost quality, and plant vitality. The emphasis on closed-system farming, biodiversity, and soil health aligns with many regenerative agriculture principles.
+- Practitioners consistently report improved soil structure, compost quality, and plant vitality. The emphasis on closed-system farming, biodiversity, and soil health aligns with many [[regenerative-agriculture]] principles.
 
 ## Related
 
 - [[compost-building-guide]] — conventional composting methods to complement biodynamic approaches
-- [[hot-composting-method]] — thermophilic composting for nutrient management
+- [[hot-composting-method]] — [[thermophilic-composting]] for nutrient management
 - [[vermicompost-tea]] — another liquid biological soil amendment
 - [[soil-food-web-nutrient-cycling]] — the soil biology that biodynamic preparations aim to support

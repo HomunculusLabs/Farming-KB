@@ -64,12 +64,12 @@ A well-designed windbreak uses multiple rows with different functions:
 **Row 2**
 - Medium-height evergreen trees
 - Main wind-deflection layer, year-round protection
-- Species: Colorado blue spruce, white spruce, red cedar, Austrian pine, Douglas fir
+- Species: Colorado blue spruce, white spruce, red cedar, Austrian pine, [[douglas-fir]]
 
 **Row 3**
 - Tall deciduous trees
 - Extends windbreak height, provides summer shade, allows winter sun through bare branches
-- Species: Hackberry, green ash, honey locust, cottonwood, hybrid poplar, bur oak
+- Species: Hackberry, green ash, honey locust, [[cottonwood]], hybrid poplar, bur oak
 
 **Row 4 (Leeward side)**
 - Medium evergreen or dense deciduous trees
@@ -104,8 +104,8 @@ A well-designed windbreak uses multiple rows with different functions:
 ### Shrubs
 - Caragana (Siberian pea shrub): Hardy, nitrogen-fixing, edible seeds
 - Dogwood (Cornus spp.): Red stems, wildlife food
-- Lilac (Syringa vulgaris): Fragrant flowers, dense growth
-- Ninebark (Physocarpus opulifolius): Hardy, attractive foliage
+- Lilac ([[syringa-vulgaris]]): Fragrant flowers, dense growth
+- Ninebark ([[physocarpus-opulifolius]]): Hardy, attractive foliage
 - Serviceberry (Amelanchier spp.): Edible berries, multi-season interest
 - Chokecherry (Prunus virginiana): Wildlife food, erosion control
 - Hazelnut (Corylus spp.): Edible nuts, wildlife food
@@ -120,7 +120,7 @@ A well-designed windbreak uses multiple rows with different functions:
 
 ### Site Preparation
 - Begin 1-2 years before planting
-- Control weeds and sod in the planting strip (cultivation, sheet mulching, or herbicide if organic methods are insufficient)
+- Control weeds and sod in the planting strip (cultivation, [[sheet-mulching]], or herbicide if organic methods are insufficient)
 - Test soil and amend if needed (pH correction, phosphorus addition)
 - Mark rows and planting positions
 - Install tree protection (tubes, fencing) before planting if deer or livestock pressure is expected
@@ -130,7 +130,7 @@ A well-designed windbreak uses multiple rows with different functions:
 - **Bareroot planting**: Dig hole wide enough to spread roots without crowding; plant at original soil line (find root collar)
 - **Container planting**: Remove from pot, loosen circling roots, plant at same depth as in container
 - **Water immediately**: Deep watering after planting is critical
-- **Mulch**: 3-4 inches of organic mulch over root zone, keep away from trunk
+- **Mulch**: 3-4 inches of [[organic-mulch]] over root zone, keep away from trunk
 
 ### Early Care (Years 1-3)
 - Water weekly during growing season if rainfall is insufficient (1 inch per week)

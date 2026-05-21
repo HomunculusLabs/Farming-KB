@@ -31,7 +31,7 @@ BTU (British Thermal Unit) values are measured per cord (128 cubic feet) of drie
 **Softwoods (good for kindling and quick fires):**
 | Species | BTU per Cord (million) | Splitting Difficulty | Seasoning Time |
 |---|---|---|---|
-| Douglas Fir | 21.3 | Moderate | 6-12 months |
+| [[douglas-fir]] | 21.3 | Moderate | 6-12 months |
 | Pine (Ponderosa) | 16.2 | Easy | 6 months |
 | Cedar | 12.8 | Easy | 6 months |
 | Spruce | 14.5 | Easy | 6 months |

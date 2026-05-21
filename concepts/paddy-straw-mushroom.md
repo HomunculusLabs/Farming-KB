@@ -13,7 +13,7 @@ The Paddy Straw Mushroom is a tropical and subtropical edible mushroom that is o
 
 ## Overview
 
-Volvariella volvacea is a fast-growing, heat-loving mushroom that has been cultivated for centuries across tropical Asia. It is the third most cultivated mushroom worldwide (after button mushroom and shiitake) by production volume, primarily in China, Vietnam, Thailand, Indonesia, and the Philippines. Its rapid life cycle — from spawning to harvest in as little as 7-10 days — makes it one of the fastest-cropping cultivated mushrooms.
+[[volvariella-volvacea]] is a fast-growing, heat-loving mushroom that has been cultivated for centuries across tropical Asia. It is the third most cultivated mushroom worldwide (after button mushroom and shiitake) by production volume, primarily in China, Vietnam, Thailand, Indonesia, and the Philippines. Its rapid life cycle — from spawning to harvest in as little as 7-10 days — makes it one of the fastest-cropping cultivated mushrooms.
 
 ## Species Profile
 
@@ -24,13 +24,13 @@ Volvariella volvacea is a fast-growing, heat-loving mushroom that has been culti
 - Volva: conspicuous cup-like sac (volva) at the base — critical identification feature
 - Stem: white, central, with the volva at the base
 - Gills: white to pink, free from stem
-- Spore print: pink to salmon
-- Natural habitat: decomposing rice straw, banana leaves, compost heaps
+- [[spore-print]]: pink to salmon
+- Natural habitat: decomposing rice straw, banana leaves, [[compost]] heaps
 - Distribution: tropical and subtropical regions worldwide
 
 ## Critical Identification Warning
 
-Volvariella volvacea has a volva (cup-like structure at the base) and pink spores — features it shares with several deadly Amanita species, particularly Amanita phalloides (Death Cap) and Amanita virosa (Destroying Angel). While cultivated paddy straw mushrooms are safe, wild foraging is strongly discouraged:
+Volvariella volvacea has a volva (cup-like structure at the base) and pink spores — features it shares with several deadly Amanita species, particularly [[amanita-phalloides]] (Death Cap) and [[amanita-virosa]] (Destroying Angel). While cultivated paddy straw mushrooms are safe, wild foraging is strongly discouraged:
 
 - Death Cap also has a volva and white gills when young
 - Mistaken identity is fatal
@@ -102,7 +102,7 @@ Modern commercial production often uses cotton waste mixed with rice straw (70% 
 ### Bag Method (Modern)
 
 1. Fill polyethylene bags with pasteurized substrate
-2. Inoculate with grain spawn at multiple depths
+2. Inoculate with [[grain-spawn]] at multiple depths
 3. Tie bags loosely to allow gas exchange
 4. Incubate at 86-95 F for 5-7 days
 5. Open bags and maintain 85-95% humidity for fruiting
@@ -115,7 +115,7 @@ Modern commercial production often uses cotton waste mixed with rice straw (70% 
 
 ## Yield Expectations
 
-- Biological efficiency: 10-25% (lower than most cultivated mushrooms)
+- [[biological-efficiency]]: 10-25% (lower than most cultivated mushrooms)
 - Traditional bed method: 2-5 kg fresh per 100 kg dry substrate
 - Cotton waste substrate: 5-15 kg fresh per 100 kg dry substrate
 - Multiple flushes possible but first flush dominates (70-80% of yield)

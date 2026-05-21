@@ -19,7 +19,7 @@ consumers choose the right honey for culinary or therapeutic use.
 - **Nectar source** — the primary flower species visited by foraging bees
 - **Terroir** — soil, climate, and regional conditions affect nectar composition
 - **Season** — timing of the nectar flow influences sugar ratios and flavor
-- **Processing** — raw vs. filtered vs. pasteurized changes texture and enzyme content
+- **Processing** — raw vs. filtered vs. pasteurized changes texture and [[enzyme]] content
 
 ## Major Monofloral Honey Types
 
@@ -39,7 +39,7 @@ Popular at farmers markets for its local character.
 
 ### Manuka Honey
 
-Produced in New Zealand and Australia from the nectar of Leptospermum
+Produced in New Zealand and Australia from the nectar of [[leptospermum]]
 scoparium (manuka tree). Dark, earthy, slightly bitter flavor. Unique
 non-peroxide antibacterial activity measured on the Unique Manuka Factor
 (UMF) scale. UMF 10+ is considered therapeutic grade. Used topically for
@@ -50,14 +50,14 @@ wound healing and internally for digestive support. See
 
 Dark brown to nearly black with a robust, malty, molasses-like flavor.
 High in antioxidants and minerals compared to lighter honeys. Produced from
-buckwheat (Fagopyrum esculentum) flowers. Excellent for baking and
+buckwheat ([[fagopyrum-esculentum]]) flowers. Excellent for baking and
 marinades. Known traditionally as a cough remedy — studies support its
 effectiveness for nighttime cough suppression in children.
 
 ### Tupelo Honey
 
 Golden-green hue with a distinctive buttery, floral flavor. Produced from
-the blossoms of the Ogeechee tupelo tree (Nyssa ogeche) in the southeastern
+the blossoms of the Ogeechee tupelo tree ([[nyssa-ogeche]]) in the southeastern
 United States, particularly along the Apalachicola River in Florida.
 Tupelo honey resists crystallization due to its high fructose-to-glucose
 ratio. Short three-week harvest window makes it one of the more expensive
@@ -66,7 +66,7 @@ varieties.
 ### Orange Blossom Honey
 
 Light amber to white with a delicate citrus aroma and flavor. Produced in
-Florida, Texas, and California from Citrus sinensis blossoms. Popular for
+Florida, Texas, and California from [[citrus-sinensis]] blossoms. Popular for
 tea, cheese pairings, and baking. The subtle citrus notes make it a favorite
 for mead making. Available in spring after the citrus bloom.
 
@@ -77,7 +77,7 @@ for mead making. Available in spring after the citrus bloom.
 - **Eucalyptus honey** — medium amber, medicinal herbal flavor, common in
   Australia
 - **Lavender honey** — light with floral herb notes, prized in Provence
-- **Acacia honey** — very pale, stays liquid for years, mild vanilla flavor
+- **[[acacia]] honey** — very pale, stays liquid for years, mild vanilla flavor
 
 ## Harvesting Monofloral Honey
 

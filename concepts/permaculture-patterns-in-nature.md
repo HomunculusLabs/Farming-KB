@@ -15,7 +15,7 @@ sources:
 
 # Permaculture Patterns in Nature
 
-Chapter 4 of the Designers' Manual is devoted to pattern understanding -- the recognition that natural systems express themselves through recurring patterns that can be applied to design. Pattern application is what distinguishes permaculture from other design approaches.
+Chapter 4 of the Designers' Manual is devoted to pattern understanding -- the recognition that natural systems express themselves through recurring patterns that can be applied to design. Pattern application is what distinguishes [[permaculture]] from other design approaches.
 
 ## The Role of Pattern in Design
 
@@ -35,11 +35,11 @@ Spirals are pervasive in nature: shells, galaxies, weather systems, plant growth
 
 ### Waves and Oscillations
 
-Natural systems oscillate in waves: tides, seasons, population cycles, growth curves. The bimodal growth curve of temperate grasslands (with summer and winter deficits) is one example. Understanding wave patterns allows designers to plan for peaks and troughs in productivity, energy, and resource availability.
+Natural systems oscillate in waves: tides, seasons, population cycles, growth curves. The [[bimodal-growth-curve]] of temperate grasslands (with summer and winter deficits) is one example. Understanding wave patterns allows designers to plan for peaks and troughs in productivity, energy, and resource availability.
 
 ### Nets and Matrices
 
-Nets (mesh, web, lattice) appear in spider webs, leaf venation, fungal mycelium, and social networks. Nets are efficient at catching, filtering, and distributing resources. Matrices describe how components are compacted and complexed in relation to each other.
+Nets (mesh, web, lattice) appear in spider webs, leaf venation, fungal [[mycelium]], and social networks. Nets are efficient at catching, filtering, and distributing resources. Matrices describe how components are compacted and complexed in relation to each other.
 
 ### Toroidal (Doughnut) Phenomena
 
@@ -47,7 +47,7 @@ Toroidal flow patterns appear in weather systems, ocean currents, and thermal co
 
 ### Boundaries and Edges
 
-Edges are where two media meet (land/water, forest/field, warm/cold). Boundaries have their own harmonics and geometries. The edge effect -- where diversity and productivity are highest at the interface between two systems -- is a core permaculture principle. Compatible and incompatible borders and components must be understood for effective design.
+Edges are where two media meet (land/water, forest/field, warm/cold). Boundaries have their own harmonics and geometries. The [[edge-effect]] -- where diversity and productivity are highest at the interface between two systems -- is a core permaculture principle. Compatible and incompatible borders and components must be understood for effective design.
 
 ## Flow Over Landscape
 
@@ -67,7 +67,7 @@ The world we live in can be understood as a tessellation of events -- a mosaic o
 
 ## Pattern in Society
 
-Tribal societies have long used patterning in their design of settlements, agriculture, and social organisation. The mnemonics of meaning -- songs, stories, and art -- encode pattern knowledge across generations. The arts are in the service of life when they express natural patterns.
+Tribal societies have long used patterning in their design of settlements, agriculture, and social organisation. The [[mnemonics-of-meaning]] -- songs, stories, and art -- encode pattern knowledge across generations. The arts are in the service of life when they express natural patterns.
 
 ## Designers' Checklist
 

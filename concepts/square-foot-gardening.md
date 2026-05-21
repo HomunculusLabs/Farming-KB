@@ -17,7 +17,7 @@ Square foot gardening (SFG) is an intensive planting method developed by Mel Bar
 2. **One crop per square** — each square contains a single variety.
 3. **Plant by spacing** — number of plants per square depends on mature size.
 4. **Never walk on soil** — access from paths around the bed.
-5. **Mel's Mix soil** — 1/3 compost, 1/3 peat moss/coir, 1/3 vermiculite.
+5. **Mel's Mix soil** — 1/3 [[compost]], 1/3 [[peat-moss]]/coir, 1/3 [[vermiculite]].
 6. **Replant immediately** — when a square is harvested, add compost and replant.
 
 ## Spacing by Plant Size
@@ -57,7 +57,7 @@ Square foot gardening (SFG) is an intensive planting method developed by Mel Bar
 - Radishes (spring)
 - Green onions
 - Parsnips
-- Arugula
+- [[arugula]]
 
 ## Grid Construction
 
@@ -110,7 +110,7 @@ The key to maximizing SFG productivity is replanting each square as soon as it's
 
 ### Spring Planting
 - Cool-tolerant crops first: peas, lettuce, spinach, radishes, carrots, beets, onions.
-- Protect with row cover or cold frame for early starts.
+- Protect with row cover or [[cold-frame]] for early starts.
 
 ### Summer Planting
 - Replace spring crops with warm-season crops: tomatoes, peppers, beans, cucumbers, squash, basil.
@@ -121,7 +121,7 @@ The key to maximizing SFG productivity is replanting each square as soon as it's
 - Use row cover to extend the season into November in most zones.
 
 ### Winter (Mild Climates)
-- Garlic, onions, and cover crops can occupy beds through winter.
+- Garlic, onions, and [[cover-crops]] can occupy beds through winter.
 - Cold frames or hoop tunnels allow year-round growing in zones 6-8.
 
 ## Square Foot Gardening vs. Row Gardening

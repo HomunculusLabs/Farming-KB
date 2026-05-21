@@ -75,7 +75,7 @@ Complete their life cycle in one growing season. Must be replanted each year, th
 - Chamomile (German annual, Roman perennial), lemon balm, peppermint, spearmint, lemon verbena, bee balm, holy basil (tulsi), anise hyssop
 
 ### Medicinal Herbs
-- Echinacea, calendula, yarrow, valerian, holy basil, elderberry, goldenseal
+- Echinacea, calendula, [[yarrow]], valerian, holy basil, elderberry, goldenseal
 - Many have deep traditional use and growing pharmacological evidence
 - Research specific herbs thoroughly before medicinal use
 
@@ -146,7 +146,7 @@ Growing herbs indoors extends the harvest year-round, especially for tender pere
 ### Light Requirements
 - Minimum 6 hours of bright, direct light daily
 - South-facing window is ideal in northern hemisphere
-- Supplement with full-spectrum LED grow lights if natural light is insufficient
+- Supplement with full-spectrum [[led-grow-lights]] if natural light is insufficient
 - Use a timer for 12-14 hours of light per day with supplemental lighting
 ## See Also
 

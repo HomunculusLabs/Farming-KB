@@ -16,9 +16,9 @@ Fungi are increasingly studied for space applications including radiation protec
 ### Growth in Microgravity
 Multiple fungal species have been successfully cultured aboard the ISS:
 - **Aspergillus nidulans**: Grown since the 1990s to study fungal development without sedimentation
-- **Neurospora crassa**: Model organism for circadian rhythm research in space
-- **Saccharomyces cerevisiae**: Studied for DNA repair mechanisms in microgravity
-- **Pleurotus ostreatus**: Tested for edible mushroom production in space
+- **[[neurospora-crassa]]**: Model organism for [[circadian-rhythm]] research in space
+- **[[saccharomyces-cerevisiae]]**: Studied for DNA repair mechanisms in microgravity
+- **[[pleurotus-ostreatus]]**: Tested for edible mushroom production in space
 
 ### Altered Physiology in Space
 Microgravity affects fungal growth and morphology:
@@ -32,7 +32,7 @@ Microgravity affects fungal growth and morphology:
 
 ### Melanized Fungi as Radiation Shields
 A groundbreaking 2020 study from Johns Hopkins University found that melanized fungi can absorb ionizing radiation and convert it to chemical energy (radiotrophic fungi):
-- **Cladosporium sphaerospermum**: Grown aboard ISS for 30 days; reduced radiation levels by approximately 2%
+- **[[cladosporium-sphaerospermum]]**: Grown aboard ISS for 30 days; reduced radiation levels by approximately 2%
 - The fungus uses melanin to convert gamma radiation into chemical energy (radiosynthesis)
 - Layered growth could theoretically provide significant radiation shielding
 - A 21 cm layer estimated to absorb most ionizing radiation in Mars habitat applications
@@ -61,14 +61,14 @@ Mushrooms offer unique advantages for space agriculture:
 
 ### Species Studied for Space Food
 - **Pleurotus ostreatus**: Primary candidate; grows on diverse substrates, good nutrition
-- **Lentinula edodes** (shiitake): Studied for flavor and nutritional value
+- **[[lentinula-edodes]]** (shiitake): Studied for flavor and nutritional value
 - **Agaricus bisporus** (button mushroom): Well-understood cultivation; common food item
 - **Volvariella volvacea** ([[paddy-straw-mushroom|paddy straw mushroom]]): Fast growth; tropical species
 - **Ganoderma lucidum** (reishi): Studied for medicinal and immune-support properties
 
 ### Closed-Loop Life Support Integration
 - Mycelium can decompose astronaut waste (food scraps, paper, human waste products)
-- Spent mushroom substrate can be composted for plant growing media
+- [[spent-mushroom-substrate]] can be composted for plant growing media
 - CO2 produced during fruiting can supplement plant photosynthesis
 - Creates a biological recycling loop within spacecraft life support systems
 

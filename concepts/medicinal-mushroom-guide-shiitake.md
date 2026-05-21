@@ -11,14 +11,14 @@ sources: []
 
 ## Overview
 
-Shiitake is the second most cultivated mushroom worldwide (after button mushroom) and one of the most thoroughly researched medicinal mushrooms. Native to East Asia, it has been cultivated for over 1,000 years, with written records of shiitake cultivation dating to the Song Dynasty in China (10th-13th century).
+Shiitake is the second most cultivated mushroom worldwide (after button mushroom) and one of the most thoroughly researched [[medicinal-mushrooms]]. Native to East Asia, it has been cultivated for over 1,000 years, with written records of shiitake cultivation dating to the Song Dynasty in China (10th-13th century).
 
 The name derives from the Japanese "shii" (the shii tree, Castanopsis cuspidata, on which it commonly grows) and "take" (mushroom). Shiitake uniquely bridges culinary and medicinal traditions — it is both a staple ingredient in East Asian cuisine and a source of important pharmaceutical compounds.
 
 ## Key Compounds
 
-- **Lentinan:** A purified beta-1,3-glucan with 1,6-branches. The primary immunomodulatory compound. Approved as an injectable cancer drug in Japan.
-- **Lentinula edodes mycelium extract (LEM):** Water-soluble extract from the mycelium with immune-stimulating and antiviral properties.
+- **[[lentinan]]:** A purified beta-1,3-glucan with 1,6-branches. The primary immunomodulatory compound. Approved as an injectable cancer drug in Japan.
+- **[[lentinula-edodes]] [[mycelium]] extract (LEM):** Water-soluble extract from the mycelium with immune-stimulating and antiviral properties.
 - **Eritadenine:** A nucleotide derivative responsible for cholesterol-lowering effects.
 - **Lenthionine:** A sulfur-containing cyclic compound responsible for shiitake's distinctive aroma and some antimicrobial activity.
 - **Lentinacin:** Another cholesterol-lowering compound.
@@ -110,7 +110,7 @@ Dried and ground shiitake can be added to food, smoothies, or taken in capsules.
 ## Dosing Guidelines
 
 - **Culinary health maintenance:** 4-10 dried shiitake per day (based on cholesterol studies).
-- **Immune support:** 3-6g dried mushroom powder per day.
+- **Immune support:** 3-6g dried [[mushroom-powder]] per day.
 - **Cholesterol management:** 6-10g dried shiitake daily (equivalent to 4-10 whole dried caps).
 - **Tincture:** 2-4ml dual extract, 2-3 times daily.
 - **Fresh culinary:** 100-200g per week.
@@ -121,7 +121,7 @@ Shiitake is one of the easiest mushrooms to cultivate at home:
 
 ### Log Cultivation (Traditional)
 - Hardwood logs (oak, beech, maple, ironwood), 3-6 inches diameter.
-- Inoculate with plug spawn or sawdust spawn in drilled holes.
+- Inoculate with plug spawn or [[sawdust-spawn]] in drilled holes.
 - Seal with wax. Stack logs in shade.
 - Colonization: 6-18 months depending on log size and conditions.
 - Force fruit by soaking logs in cold water for 24 hours.
@@ -132,7 +132,7 @@ Shiitake is one of the easiest mushrooms to cultivate at home:
 - Sterilize, inoculate, incubate 60-90 days at 72-78°F.
 - Cold shock (55-60°F) for 2-3 days to initiate fruiting.
 - Harvest in 7-14 days after primordia appear.
-- Biological efficiency: 80-120% (high-yielding).
+- [[biological-efficiency]]: 80-120% (high-yielding).
 
 ## Safety Considerations
 

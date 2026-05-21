@@ -41,12 +41,12 @@ The oven is heavy (500-1000+ pounds). A proper foundation prevents settling and 
 ### Permanent Foundation
 1. Pour a concrete pad or lay concrete blocks (CMUs)
 2. Size: 48-60 inches diameter, 4-6 inches thick (concrete pad) or a block platform
-3. Include a 2-inch layer of insulating material on top of the foundation (perlite, pumice, or a dry mix of 1 part cement to 10 parts perlite). This insulates the hearth from the ground.
+3. Include a 2-inch layer of insulating material on top of the foundation ([[perlite]], pumice, or a dry mix of 1 part cement to 10 parts perlite). This insulates the hearth from the ground.
 4. Level carefully in all directions
 
 ## Materials List
 
-- Clay soil (20-50 gallons, depending on oven size)
+- [[clay-soil]] (20-50 gallons, depending on oven size)
 - Sharp sand (40-100 gallons)
 - Straw (1-2 bales)
 - Firebricks for the hearth floor (30-40 standard firebricks, 4.5x9 inches)

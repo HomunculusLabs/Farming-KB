@@ -17,13 +17,13 @@ Fungal pathogens are the most significant cause of crop disease worldwide, respo
 - **Powdery mildews** (Erysiphe, Podosphaera, Uncinula): White powder on leaf surfaces, reduced photosynthesis. Affects grapes, roses, cucurbits, cereals
 - **Downy mildews** (Plasmopara, Peronospora): Yellow patches on leaves, fuzzy growth underneath. Affects grapes, lettuce, onions
 - **Rusts** (Puccinia, Uromyces): Orange/brown pustules on leaves and stems. Obligate biotrophs (require living tissue). Affects wheat, coffee, soybeans, beans
-- **Late blight** (Phytophthora infestans): Water mold (oomycete, not true fungus). Caused Irish Potato Famine. Affects potato and tomato
-- **Botrytis** (Botrytis cinerea): Gray mold. Affects virtually all crops, especially in cool damp conditions. Post-harvest rot
+- **[[late-blight]]** ([[phytophthora-infestans]]): Water mold (oomycete, not true fungus). Caused Irish Potato Famine. Affects potato and tomato
+- **Botrytis** ([[botrytis-cinerea]]): Gray mold. Affects virtually all crops, especially in cool damp conditions. Post-harvest rot
 
 ### Soil-Borne Root and Stem Pathogens
-- **Fusarium wilt** (Fusarium oxysporum): Vascular wilt, blocks water transport. Race-specific strains. Affects tomato, banana (Panama disease), cotton, watermelon
-- **Verticillium wilt** (Verticillium dahliae): Similar to Fusarium wilt but broader host range. Affects potato, tomato, pepper, eggplant
-- **Rhizoctonia** (Rhizoctonia solani): Damping-off of seedlings, stem canker, root rot. Very broad host range. Soil inhabitant (survives as sclerotia)
+- **Fusarium wilt** ([[fusarium-oxysporum]]): Vascular wilt, blocks water transport. Race-specific strains. Affects tomato, banana (Panama disease), cotton, watermelon
+- **Verticillium wilt** ([[verticillium-dahliae]]): Similar to Fusarium wilt but broader host range. Affects potato, tomato, pepper, eggplant
+- **Rhizoctonia** ([[rhizoctonia-solani]]): Damping-off of seedlings, stem canker, root rot. Very broad host range. Soil inhabitant (survives as sclerotia)
 - **Pythium** (Pythium spp.): Damping-off, root rot. Water mold. Favored by waterlogged soils
 - **Phytophthora** (Phytophthora spp.): Root rot, crown rot, fruit rot. Affects avocado, citrus, soybean, oak (sudden oak death)
 

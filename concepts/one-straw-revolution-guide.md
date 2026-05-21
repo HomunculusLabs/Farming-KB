@@ -25,7 +25,7 @@ sources:
 
 # The One-Straw Revolution — Book Guide
 
-*The One-Straw Revolution* (1975, 1978 English) by Masanobu Fukuoka is the foundational text of natural farming. Originally published in Japanese as *Ichi-mugi no Kakumei*, it was translated into 25+ languages and became one of the most influential books on sustainable agriculture. It is part philosophy, part memoir, part farming manual — structured as five "books" told through conversations with visitors at his hilltop orchard.
+*The One-Straw Revolution* (1975, 1978 English) by [[masanobu-fukuoka]] is the foundational text of [[natural-farming]]. Originally published in Japanese as *Ichi-mugi no Kakumei*, it was translated into 25+ languages and became one of the most influential books on sustainable agriculture. It is part philosophy, part memoir, part farming manual — structured as five "books" told through conversations with visitors at his hilltop orchard.
 
 ## Book I: Look At This Grain
 
@@ -37,14 +37,14 @@ Fukuoka opens by showing his fields: rye and barley yielding ~22 bushels (1,300 
 2. **Early November**: Harvest rice, treading on young grain shoots; thresh; scatter rice straw uncut; form clay pellets with rice seed; broadcast before New Year
 3. **Winter**: Clover and barley grow together; rice seed dormant in clay pellets
 4. **Late May**: Harvest winter grain; scatter straw; hold water 7-10 days to weaken clover
-5. **June-July**: No irrigation — soil stays moist under straw and green manure
+5. **June-July**: No irrigation — soil stays moist under straw and [[green-manure]]
 6. **August**: Run water through once weekly without standing
 
 "One or two people can do all the work of growing rice and winter grain in a matter of a few days."
 
 ### The Awakening (Nothing At All)
 
-Fukuoka's transformation at age 25 (May 15th, ~1933). Working as a plant pathologist at Yokohama Customs Bureau under Professor Eiichi Kurosawa (who first isolated gibberellin), he contracted acute pneumonia. After hospital release, he wandered nightly in existential crisis, finally collapsing against a tree overlooking Yokohama harbor at dawn:
+Fukuoka's transformation at age 25 (May 15th, ~1933). Working as a plant pathologist at Yokohama Customs Bureau under Professor [[eiichi-kurosawa]] (who first isolated gibberellin), he contracted acute pneumonia. After hospital release, he wandered nightly in existential crisis, finally collapsing against a tree overlooking Yokohama harbor at dawn:
 
 "In this world there is nothing at all."
 
@@ -66,7 +66,7 @@ Fukuoka walks visitors through his fields: dragonflies, moths, honeybees, spider
 
 1. **NO CULTIVATION** — The earth cultivates itself through plant roots, microorganisms, small animals, and earthworms
 2. **NO CHEMICAL FERTILIZER OR PREPARED COMPOST** — White clover cover, returned straw, a little poultry manure. "If left to itself, the soil maintains its fertility naturally"
-3. **NO WEEDING BY TILLAGE OR HERBICIDES** — Straw mulch, white clover ground cover, temporary flooding
+3. **NO WEEDING BY TILLAGE OR HERBICIDES** — Straw mulch, [[white-clover-ground-cover]], temporary flooding
 4. **NO DEPENDENCE ON CHEMICALS** — "Nature, left alone, is in perfect balance. Harmful insects and plant diseases are always present, but do not occur in nature to an extent which requires poisonous chemicals"
 
 ### Cultivation
@@ -75,11 +75,11 @@ Fukuoka walks visitors through his fields: dragonflies, moths, honeybees, spider
 
 ### Fertilizer
 
-Soil fertility experts: if a field is left to itself, harvest settles at ~9 bushels per quarter acre — "the earth would become neither enriched nor depleted." But if nature is truly left alone, fertility *increases*. A barren mountain with poor red clay soil, planted with pine/cedar and a ground cover of clover and alfalfa, can see the top four inches enriched in less than ten years.
+Soil fertility experts: if a field is left to itself, harvest settles at ~9 bushels per quarter acre — "the earth would become neither enriched nor depleted." But if nature is truly left alone, fertility *increases*. A barren mountain with poor red [[clay-soil]], planted with pine/cedar and a ground cover of clover and alfalfa, can see the top four inches enriched in less than ten years.
 
 ### Ducks for Fertility
 
-For many years Fukuoka used ducks: "Ten ducks will supply all the manure necessary for a quarter acre and will also help to control the weeds." Construction of a national highway made duck passage impossible, so he switched to chicken manure.
+For many years Fukuoka used ducks: "Ten ducks will supply all the manure necessary for a quarter acre and will also help to control the weeds." Construction of a national highway made duck passage impossible, so he switched to [[chicken-manure]].
 
 ### Growing Rice in a Dry Field
 

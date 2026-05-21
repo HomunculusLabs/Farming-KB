@@ -11,7 +11,7 @@ sources: []
 
 ## Overview
 
-Mycorrhizal inoculation involves introducing beneficial mycorrhizal fungi to plant root zones to improve nutrient uptake, disease resistance, and overall plant health. This guide covers commercial products, application methods, effectiveness data, and crop specificity. See [[glomeromycota-arbuscular-mycorrhizae]] for the science behind arbuscular mycorrhizal fungi, and [[fungal-symbiosis-types]] for the broader context of fungal symbiosis.
+[[mycorrhizal-inoculation]] involves introducing beneficial [[mycorrhizal-fungi]] to plant root zones to improve nutrient uptake, disease resistance, and overall plant health. This guide covers commercial products, application methods, effectiveness data, and crop specificity. See [[glomeromycota-arbuscular-mycorrhizae]] for the science behind [[arbuscular-mycorrhizal-fungi]], and [[fungal-symbiosis-types]] for the broader context of [[fungal-symbiosis]].
 
 ## Why Inoculate?
 
@@ -20,8 +20,8 @@ Benefits of mycorrhizal colonization:
 - Enhanced micronutrient uptake (zinc, copper, manganese)
 - Improved drought tolerance through extended hyphal networks
 - Protection against soil-borne pathogens
-- Improved soil structure through glomalin production
-- Enhanced nitrogen fixation when paired with rhizobia
+- Improved soil structure through [[glomalin]] production
+- Enhanced nitrogen fixation when paired with [[rhizobia]]
 
 ## Types of Inoculant
 
@@ -43,7 +43,7 @@ Mixed products containing multiple AMF species are most common. Quality varies s
 - Propagule count (CFU/g)
 - Species diversity (more species = broader compatibility)
 - Viability (proper storage is critical)
-- Carrier material (peat, vermiculite, clay-based)
+- Carrier material (peat, [[vermiculite]], clay-based)
 
 ## Commercial Products
 

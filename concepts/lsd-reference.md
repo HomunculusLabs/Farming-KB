@@ -9,14 +9,14 @@ sources: []
 
 # LSD Reference
 
-LSD (lysergic acid diethylamide) is one of the most potent psychoactive substances known. Discovered by Swiss chemist Albert Hofmann in 1938, it became the defining psychedelic of the 20th century counterculture and remains one of the most extensively studied psychedelics in modern psychiatric research. A single dose measured in micrograms can produce profound alterations in consciousness lasting 8-12 hours.
+LSD ([[lysergic-acid-diethylamide]]) is one of the most potent psychoactive substances known. Discovered by Swiss chemist [[albert-hofmann]] in 1938, it became the defining psychedelic of the 20th century counterculture and remains one of the most extensively studied psychedelics in modern psychiatric research. A single dose measured in micrograms can produce profound alterations in consciousness lasting 8-12 hours.
 
 ## Discovery and History
 
 ### Albert Hofmann and Sandoz
 
 - First synthesized on November 16, 1938, by Albert Hofmann at Sandoz Laboratories in Basel, Switzerland
-- Part of a research program studying ergot alkaloids (derived from the ergot fungus Claviceps purpurea)
+- Part of a research program studying ergot alkaloids (derived from the [[ergot-fungus]] [[claviceps-purpurea]])
 - Initially investigated as a circulatory and respiratory stimulant
 - Psychoactive properties discovered accidentally on April 19, 1943, when Hofmann absorbed a small amount through his skin
 - April 19 is now celebrated as "Bicycle Day" — Hofmann rode home from the lab experiencing the first intentional LSD trip
@@ -53,13 +53,13 @@ LSD (lysergic acid diethylamide) is one of the most potent psychoactive substanc
 - Chemical formula: C20H25N3O
 - Molecular weight: 323.43 g/mol
 - CAS number: 50-37-3
-- Structure: semi-synthetic ergoline derivative — core structure derived from lysergic acid (from ergot fungus)
+- Structure: semi-synthetic ergoline derivative — core structure derived from [[lysergic-acid]] (from ergot fungus)
 - The diethylamide group at position 8 is essential for psychoactivity
 - Potency: active at 20-50 micrograms (one of the most potent drugs known by weight)
 - Physical form: typically encountered as a colorless, odorless liquid or on blotter paper
 
 LSD is an ergoline alkaloid, structurally related to:
-- LSA (lysergic acid amide): naturally occurring in morning glory seeds and Hawaiian baby woodrose
+- LSA ([[lysergic-acid-amide]]): naturally occurring in [[morning-glory-seeds]] and Hawaiian baby woodrose
 - Ergotamine and other ergot alkaloids: used medicinally (migraine treatment)
 - Psilocybin and DMT: tryptamine psychedelics (different class, but LSD has tryptamine-like pharmacology)
 

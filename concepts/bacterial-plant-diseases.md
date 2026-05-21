@@ -23,7 +23,7 @@ Management:
 - Use certified disease-free seed and transplants
 - Rotate out of solanaceous crops for 4-5 years
 - Avoid working in wet fields (bacteria spread in water)
-- Remove and destroy infected plants -- do not compost
+- Remove and destroy infected plants -- do not [[compost]]
 - Solarize soil in hot climates (cover with clear plastic for 6-8 weeks)
 - Resistant varieties available for some crops
 
@@ -58,7 +58,7 @@ Primarily affects members of the Rosaceae family: apples, pears, quince, and rel
 Favored by warm, humid conditions during bloom (65-85F). Spread by rain, insects (especially bees during pollination), and contaminated tools.
 
 Management:
-- Apply streptomycin or copper during bloom (preventive timing is critical)
+- Apply [[streptomycin]] or copper during bloom (preventive timing is critical)
 - Prune infected branches 12 inches below visible canker margin
 - Sterilize pruning tools between every cut with 10% bleach or 70% alcohol
 - Remove infected tissue during dry conditions only
@@ -81,7 +81,7 @@ Management:
 
 - Use certified pathogen-free seed and transplants
 - Practice strict tool sanitation between plants
-- Avoid overhead watering; use drip irrigation
+- Avoid overhead watering; use [[drip-irrigation]]
 - Remove and destroy infected plant material -- never compost diseased tissue
 - Rotate crops by family for 3-5 years
 - Work in fields only when foliage is dry

@@ -18,7 +18,7 @@ sources:
 
 # Psychedelic Plants in Ancient Cultures
 
-The evidence and theories connecting psychoactive plants to ancient religious practices, particularly the Eleusinian Mysteries and the Vedic Soma ceremony.
+The evidence and theories connecting psychoactive plants to ancient religious practices, particularly the [[eleusinian-mysteries]] and the Vedic Soma ceremony.
 
 ## The Eleusinian Mysteries
 
@@ -26,7 +26,7 @@ The Eleusinian Mysteries were the most important religious initiation ceremony o
 
 ### Wasson's Ergot Hypothesis
 
-Gordon Wasson proposed that the kykeon contained an infusion of ergot (*Claviceps purpurea*), the fungus that grows parasitically on rye and other grains. Ergot contains the alkaloids from which Albert Hofmann later derived LSD:
+[[gordon-wasson]] proposed that the kykeon contained an infusion of ergot (*[[claviceps-purpurea]]*), the fungus that grows parasitically on rye and other grains. Ergot contains the alkaloids from which [[albert-hofmann]] later derived LSD:
 
 - Wasson noted the parallel between the Greek word *eleusis* (advent, revealing) and descriptions of the ceremony's effects, which ancient writers described as producing visions of the afterlife and dispelling the fear of death.
 - The kykeon was prepared from barley (a grain susceptible to ergot) and water, consistent with an ergot-based preparation.
@@ -39,7 +39,7 @@ Critics note the difficulty of preparing ergot safely, as many ergot alkaloids a
 
 ## Soma / Haoma
 
-The identity of Soma, the sacred plant of the Vedic hymns (Rig Veda, c. 1500 BCE) and its Iranian counterpart Haoma, has been debated for centuries. Wasson proposed Soma was the fly-agaric mushroom, *Amanita muscaria*, in his 1968 book *Soma: Divine Mushroom of Immortality*.
+The identity of Soma, the sacred plant of the Vedic hymns ([[rig-veda]], c. 1500 BCE) and its Iranian counterpart Haoma, has been debated for centuries. Wasson proposed Soma was the fly-agaric mushroom, *[[amanita-muscaria]]*, in his 1968 book *Soma: Divine Mushroom of Immortality*.
 
 ### Wasson's Amanita Hypothesis
 

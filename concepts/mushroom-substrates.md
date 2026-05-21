@@ -32,15 +32,15 @@ Related: [[mushroom-cultivation-basics]], [[mushroom-sterile-technique-detailed]
 
 ## [[mushroom-cultivation-grain-spawn|Grain Spawn]]
 
-Grain spawn is the universal inoculum for expanding mycelium before introducing it to fruiting substrates.
+[[grain-spawn]] is the universal inoculum for expanding mycelium before introducing it to fruiting substrates.
 
 ### Grain Types
 
-- **Rye (Secale cereale)** — gold standard for spawn. Consistent kernel size, good nutrition, 11% base moisture content. Recommended by Stamets as primary spawn grain.
+- **Rye ([[secale-cereale]])** — gold standard for spawn. Consistent kernel size, good nutrition, 11% base moisture content. Recommended by Stamets as primary spawn grain.
 - **Millet** — smaller kernels provide many more inoculation points per volume. Excellent for species needing thorough colonization. Can dry out faster; monitor moisture carefully.
 - **Wheat** — widely available and affordable. Good alternative to rye. Kernels slightly larger, fewer inoculation points per volume.
 - **Sorghum** — hard, round kernels resist over-cooking. Good for long storage.
-- **Grass seed (Lolium perenne)** — preferred substrate for sclerotia-producing species (*P. tampanensis*, *P. mexicana*). Formula: 110g seed + 180mL water per 720mL jar. Must be fungicide-free (buy from animal feed stores). Different batches vary in water absorption — experiment. Can pre-soak overnight for more uniform hydration. See [[sclerotia-cultivation]] for full method.
+- **Grass seed ([[lolium-perenne]])** — preferred substrate for sclerotia-producing species (*P. tampanensis*, *P. mexicana*). Formula: 110g seed + 180mL water per 720mL jar. Must be fungicide-free (buy from animal feed stores). Different batches vary in water absorption — experiment. Can pre-soak overnight for more uniform hydration. See [[sclerotia-cultivation]] for full method.
 
 ### Moisture Content
 
@@ -87,13 +87,13 @@ The backbone of commercial indoor cultivation for shiitake, lion's mane, reishi,
 
 ### Wood Chips
 
-- Ideal for outdoor beds, wine cap, and natural culture methods.
+- Ideal for outdoor beds, [[wine-cap]], and natural culture methods.
 - Irregular chips 1-3 inches give better results than finely ground material — greater nutrient and water reservoir with substantial surface area for primordia formation.
 - Fresh chips are preferable to aged; sawdust supports rapid initial growth but soon loses vitality.
 
 ### Straw
 
-- Wheat straw is the standard for oyster mushroom cultivation. Pasturized at 160F for 20-30 minutes.
+- Wheat straw is the standard for [[oyster-mushroom-cultivation]]. Pasturized at 160F for 20-30 minutes.
 - Straw can be used whole or chopped; chopped permeates more rapidly.
 - Chopped or whole straw adequate for Stropharia rugoso-annulata; compacted 6-12 inches deep.
 
@@ -104,7 +104,7 @@ Supplements boost nutritional value and accelerate colonization and yields.
 - **Bran (rice or wheat)** — the most common supplement. Added at 10-20% by dry weight to sawdust blocks. For shiitake, sawdust:bran ratio of 4:1 is standard. Rice bran promoted fastest mycelial growth in shiitake trials (Han et al. 1981).
 - **Gypsum (CaSO4)** — added at 1-3% to buffer pH and improve texture. Provides calcium and sulfur. Prevents substrate clumping.
 - **Calcium carbonate (CaCO3)** — pH buffer, typically 0.2% for sawdust blocks.
-- **Other supplements tested**: yeast powder (2%), soybean meal (5%), milk powder (2%), molasses (1.5%) — all increased mycelial growth over rice bran alone in shiitake trials.
+- **Other supplements tested**: yeast powder (2%), [[soybean-meal]] (5%), milk powder (2%), molasses (1.5%) — all increased mycelial growth over rice bran alone in shiitake trials.
 
 ## Pasteurization vs Sterilization
 

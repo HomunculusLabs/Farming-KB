@@ -9,7 +9,7 @@ sources: [raw/papers/the-ultimate-guide-to-natural-farming-and-sustainable-livin
 
 # Cold Climate Gardening
 
-Growing food in cold climates (zones 3-6) requires specific strategies: season extension, cold-hardy varieties, succession planting, and protected cultivation. Drawn from [[nicole-faires]]' comprehensive manual.
+Growing food in cold climates (zones 3-6) requires specific strategies: season extension, cold-hardy varieties, [[succession-planting]], and protected cultivation. Drawn from [[nicole-faires]]' comprehensive manual.
 
 ## Zone 5-6 Growing Season
 
@@ -35,7 +35,7 @@ The key challenge is maximizing production within a short growing season while e
 | Garlic | N/A | Planted fall, harvested summer |
 | Shallots | 0F (-18C) | Mulch and leave in ground |
 | Mache (corn salad) | 5F (-15C) | Excellent winter green |
-| Claytonia | 0F (-18C) | Winter salad green |
+| [[claytonia]] | 0F (-18C) | Winter salad green |
 | Turnips | 10F (-12C) | Mulch, harvest through winter |
 | Cabbage | 20F (-7C) | Late varieties store well |
 | Broccoli | 20F (-7C) | Side shoots after main head |
@@ -103,7 +103,7 @@ See [[greenhouse-design]] for detailed construction.
 - Freestanding: 14x24 feet minimum for efficiency
 - Attached (lean-to): heats house, smaller footprint
 - Unheated: zone 7-8 inside during winter
-- Minimal heat (compost or small heater): zone 8-9
+- Minimal heat ([[compost]] or small heater): zone 8-9
 - Year-round growing possible with proper design
 
 ### Mulching for Winter Protection
@@ -122,7 +122,7 @@ See [[greenhouse-design]] for detailed construction.
 |------|------|--------|
 | Mar 1 (indoors) | Peppers, eggplant, tomatoes | Seed indoors, 8-10 weeks before last frost |
 | Mar 15 (indoors) | Broccoli, cabbage, cauliflower | Seed indoors, 6-8 weeks before last frost |
-| Apr 1 (outdoor, cold frame) | Spinach, lettuce, radishes, peas | Direct sow under cold frame |
+| Apr 1 (outdoor, [[cold-frame]]) | Spinach, lettuce, radishes, peas | Direct sow under cold frame |
 | Apr 15 (outdoor) | Potatoes, onion sets, asparagus crowns | Direct sow/plant |
 | May 1 (outdoor) | Beets, carrots, Swiss chard, lettuce | Direct sow (row cover ready) |
 | May 10-20 | Tomatoes, peppers, eggplant | Transplant after last frost |

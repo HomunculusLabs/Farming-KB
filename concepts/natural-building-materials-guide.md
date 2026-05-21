@@ -9,7 +9,7 @@ sources: []
 
 # Natural Building Materials Guide
 
-Natural building uses locally sourced, minimally processed materials to create shelter. These methods have been used for millennia and are experiencing a revival among homesteaders and permaculture practitioners due to low cost, low embodied energy, and healthy indoor environments.
+[[natural-building]] uses locally sourced, minimally processed materials to create shelter. These methods have been used for millennia and are experiencing a revival among homesteaders and [[permaculture]] practitioners due to low cost, low embodied energy, and healthy indoor environments.
 
 ## Overview of Common Natural Building Materials
 
@@ -24,7 +24,7 @@ Cob is a mixture of clay-rich subsoil, sand, and straw, kneaded with water into 
 
 ### Adobe
 
-Adobe is sun-dried earth bricks made from a mix of clay soil, sand, and often chopped straw or grass fiber. The bricks are cast in molds and dried in the sun before being laid up with mud mortar.
+Adobe is sun-dried earth bricks made from a mix of [[clay-soil]], sand, and often chopped straw or grass fiber. The bricks are cast in molds and dried in the sun before being laid up with mud mortar.
 
 - **Best for:** Walls in arid and semi-arid climates
 - **Climate suitability:** Best in dry climates with low rainfall; needs protection from rain with stucco and good roof overhangs
@@ -33,12 +33,12 @@ Adobe is sun-dried earth bricks made from a mix of clay soil, sand, and often ch
 
 ### Rammed Earth
 
-Rammed earth construction involves dampening a mix of subsoil (with the right clay-to-sand ratio), placing it in forms, and compacting it with mechanical or manual tampers. The result is dense, load-bearing walls with beautiful stratified layers.
+[[rammed-earth]] construction involves dampening a mix of subsoil (with the right clay-to-sand ratio), placing it in forms, and compacting it with mechanical or manual tampers. The result is dense, load-bearing walls with beautiful stratified layers.
 
 - **Best for:** Feature walls, entire structures in dry climates
 - **Climate suitability:** Performs well in climates with significant diurnal temperature swing; needs moisture protection in wet zones
 - **Pros:** Very durable, excellent thermal mass, fire resistant, low maintenance
-- **Cons:** Requires formwork, heavy labor for tamping, soil testing critical
+- **Cons:** Requires formwork, heavy labor for tamping, [[soil-testing]] critical
 
 ### Light Straw-Clay (Light Clay)
 

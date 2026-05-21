@@ -11,7 +11,7 @@ sources: []
 
 ## Overview
 
-Maitake, meaning "dancing mushroom" in Japanese, is a large polypore mushroom that grows at the base of oak trees and other hardwoods in temperate forests of North America, Europe, and Japan. The name reportedly comes from people dancing with joy upon finding it, given its excellent culinary qualities and medicinal value.
+Maitake, meaning "dancing mushroom" in Japanese, is a large [[polypore]] mushroom that grows at the base of oak trees and other hardwoods in temperate forests of North America, Europe, and Japan. The name reportedly comes from people dancing with joy upon finding it, given its excellent culinary qualities and medicinal value.
 
 Also known as "hen of the woods" due to its resemblance to a fluffed hen's feathers, maitake forms large, overlapping clusters of brownish-gray, fan-shaped caps that can weigh up to 50 pounds. It is both a prized edible and a potent medicinal mushroom.
 
@@ -40,7 +40,7 @@ Maitake is considered one of the most potent immune-activating mushrooms, with p
 - The D-fraction has been the subject of significant research, particularly by Dr. Hiroaki Nanba in Japan.
 - Demonstrated anti-tumor activity in animal models across multiple cancer types.
 - Enhances effectiveness of chemotherapy while reducing side effects.
-- Shown to activate immune cells at lower doses than many other medicinal mushrooms.
+- Shown to activate immune cells at lower doses than many other [[medicinal-mushrooms]].
 
 ## Metabolic Health
 
@@ -91,7 +91,7 @@ Commercially available as standardized D-fraction or MD-fraction extracts. These
 
 ## Dosing Guidelines
 
-- **General wellness:** 1-3g dried mushroom powder per day.
+- **General wellness:** 1-3g dried [[mushroom-powder]] per day.
 - **Immune support:** 3-5g dried powder or 500-700mg D-fraction extract daily.
 - **Metabolic support (blood sugar):** 3-5g per day, divided doses.
 - **Tincture:** 2-4ml dual extract, 2-3 times daily.
@@ -102,12 +102,12 @@ Commercially available as standardized D-fraction or MD-fraction extracts. These
 
 Maitake is commercially cultivated but considered one of the more challenging medicinal mushrooms to grow:
 
-- **Substrate:** Hardwood sawdust (oak preferred) supplemented with wheat bran (10-15%).
-- **Spawn:** Typically grain spawn (rye or millet).
+- **Substrate:** Hardwood sawdust (oak preferred) supplemented with [[wheat-bran]] (10-15%).
+- **Spawn:** Typically [[grain-spawn]] (rye or millet).
 - **Colonization:** 30-45 days at 72-78°F (22-26°C), high CO2.
-- **Fruiting initiation:** Requires a cold shock (drop to 55-65°F / 13-18°C) and high humidity (90-95%).
+- **[[fruiting-initiation]]:** Requires a cold shock (drop to 55-65°F / 13-18°C) and high humidity (90-95%).
 - **Fruiting time:** 2-3 weeks after induction.
-- **Yield:** Biological efficiency of 30-50%.
+- **Yield:** [[biological-efficiency]] of 30-50%.
 - Fresh air exchange is critical for proper cluster formation.
 
 Can also be inoculated into outdoor oak stumps or buried logs, fruiting in fall.

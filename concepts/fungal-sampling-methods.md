@@ -15,7 +15,7 @@ updated: 2026-04-12
 
 # Fungal Sampling Methods
 
-Standardized methods for documenting fungal biodiversity across habitats. Fungal diversity assessment requires specialized techniques that differ markedly from plant or animal survey methods because most fungi are microscopic for much of their life cycle, and fruiting is often episodic.
+Standardized methods for documenting [[fungal-biodiversity]] across habitats. Fungal diversity assessment requires specialized techniques that differ markedly from plant or animal survey methods because most fungi are microscopic for much of their life cycle, and fruiting is often episodic.
 
 ## General Principles
 
@@ -119,15 +119,15 @@ Standardized methods for documenting fungal biodiversity across habitats. Fungal
 
 ### Freshwater Fungi (see [[freshwater-fungi-biodiversity]])
 
-Chytrids: bait with chitin, cellulose, keratin, or pollen (in situ mesh bags 1 week-1 month); examine algae, aquatic plants, insect exuviae. Peronosporomycetes: hemp seed/snake skin baiting in water; dilution plating for Pythium. Ascomycetes/hyphomycetes: collect submerged wood and plant debris, stream leaf litter bags, bubble chamber for aquatic spores. See [[freshwater-fungi-biodiversity]] for detailed protocols.
+Chytrids: bait with chitin, [[cellulose]], keratin, or pollen (in situ mesh bags 1 week-1 month); examine algae, aquatic plants, insect exuviae. Peronosporomycetes: hemp seed/snake skin baiting in water; dilution plating for Pythium. Ascomycetes/hyphomycetes: collect submerged wood and plant debris, stream leaf litter bags, bubble chamber for aquatic spores. See [[freshwater-fungi-biodiversity]] for detailed protocols.
 
 ### Endophytic Fungi
 
-**Surface sterilization protocol**:
+**Surface [[sterilization]] protocol**:
 1. Collect healthy-looking leaves/stems
-2. Wash in 70% ethanol (30 sec) - 2.5% sodium hypochlorite (2-5 min) - 70% ethanol (30 sec)
+2. Wash in 70% [[ethanol]] (30 sec) - 2.5% sodium hypochlorite (2-5 min) - 70% ethanol (30 sec)
 3. Rinse in sterile distilled water
-4. Cut into segments, plate on malt extract agar + antibiotics
+4. Cut into segments, plate on [[malt-extract-agar]] + antibiotics
 5. Incubate at room temperature; examine daily for 4-8 weeks
 6. Isolate emerging colonies to pure culture
 

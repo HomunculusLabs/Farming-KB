@@ -16,7 +16,7 @@ updated: 2026-04-12
 
 # Fungicolous Fungi
 
-Fungicolous fungi are fungi that are associated with other fungi — as parasites, hyperparasites, commensals, or saprotrophs on fungal tissue. They represent a fascinating but often overlooked component of fungal biodiversity, with implications for biocontrol, fungal ecology, and plant pathology.
+Fungicolous fungi are fungi that are associated with other fungi — as parasites, hyperparasites, commensals, or saprotrophs on fungal tissue. They represent a fascinating but often overlooked component of [[fungal-biodiversity]], with implications for biocontrol, [[fungal-ecology]], and plant pathology.
 
 ## Overview
 
@@ -28,17 +28,17 @@ The term "fungicolous" encompasses all fungi that grow on or within other fungi.
 - The fungicolous fungus obtains nutrients from a living host fungus
 - Host may or may not be killed
 - Often involves specialized structures: haustoria, penetration pegs, contact cells
-- Examples: *Ampelomyces quisqualis* on powdery mildews, *Piptocephalis* on Mucorales
+- Examples: *[[ampelomyces-quisqualis]]* on powdery mildews, *Piptocephalis* on Mucorales
 
 ### Necrotrophic Mycoparasitism
 - Fungicolous fungus kills host tissue and then feeds on dead material
 - Often produces antibiotics or lytic enzymes
-- Examples: *Trichoderma harzianum* (used in biocontrol), *Gliocladium* species
+- Examples: *[[trichoderma-harzianum]]* (used in biocontrol), *Gliocladium* species
 
 ### Hyperparasitism
 - Parasite of a parasite (e.g., fungus parasitizing a plant pathogenic fungus)
 - Important concept in biological control
-- Examples: *Verticillium lecanii* on rust fungi, *Sphaerellopsis filum* on willow rust
+- Examples: *[[verticillium-lecanii]]* on [[rust-fungi]], *Sphaerellopsis filum* on willow rust
 
 ### Saprotrophic Fungicolous
 - Colonize dead fungal tissue (mushroom carcasses, old stromata)
@@ -130,7 +130,7 @@ The term "fungicolous" encompasses all fungi that grow on or within other fungi.
 - *Trichoderma* species are among the most widely used biocontrol agents, applied to seeds, soil, and plant surfaces
 - *Ampelomyces quisqualis*: Commercialized for control of powdery mildews
 - *Coniothyrium minitans*: Used against Sclerotinia diseases
-- Mycoparasites are key components of integrated pest management
+- Mycoparasites are key components of [[integrated-pest-management]]
 
 ### Mushroom Cultivation
 - Fungicolous fungi are major contaminants in mushroom cultivation

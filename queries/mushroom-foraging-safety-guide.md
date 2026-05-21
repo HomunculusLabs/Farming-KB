@@ -34,12 +34,12 @@ A comprehensive safety reference for wild mushroom foraging. Covers positive ID 
 ## Before You Forage: Golden Rules
 
 1. **Never eat a mushroom you cannot positively identify to species.** No exceptions.
-2. **No single rule works.** Peelability, silver spoon test, cap color, "if animals eat it" — all are myths. Each species must be learned individually (Ramsbottom, 1945).
+2. **No single rule works.** Peelability, [[silver-spoon-test]], cap color, "if animals eat it" — all are myths. Each species must be learned individually (Ramsbottom, 1945).
 3. **When in doubt, throw it out.** No mushroom is worth your life.
 4. **Learn from local experts.** Join a mycological society. Regional knowledge is critical.
-5. **Start with easy species.** Morels, chanterelles, chicken of the woods, oyster mushrooms, lion's mane — all have distinctive features and few dangerous lookalikes.
+5. **Start with easy species.** Morels, chanterelles, [[chicken-of-the-woods]], [[oyster-mushrooms]], lion's mane — all have distinctive features and few dangerous lookalikes.
 6. **Use multiple field guides.** Cross-reference every ID with at least two sources.
-7. **Keep a detailed journal.** Photos, habitat, tree associations, spore print color, date, location.
+7. **Keep a detailed journal.** Photos, habitat, tree associations, [[spore-print]] color, date, location.
 
 ---
 
@@ -72,8 +72,8 @@ Essential for distinguishing many lookalikes. Place cap gills-down on half white
 
 | Spore Print Color | Edible Examples | Dangerous Examples |
 |---|---|---|
-| White | Paddy straw mushroom (Volvariella) | Death Cap (Amanita phalloides), Destroying Angel (A. virosa), many Lepiota |
-| Pink/brown | Field mushroom (Agaricus campestris) | Entoloma species (poisonous) |
+| White | [[paddy-straw-mushroom]] (Volvariella) | Death Cap ([[amanita-phalloides]]), Destroying Angel (A. virosa), many Lepiota |
+| Pink/brown | Field mushroom ([[agaricus-campestris]]) | Entoloma species (poisonous) |
 | Dark brown/chocolate | Psilocybe cubensis | Galerina marginata (DEADLY — same habitat as Psilocybe) |
 | Rust/brown | Some edible Boletus | Cortinarius species (kidney toxin, delayed onset) |
 | Cream/yellow | Chanterelle | Jack-o'-lantern (not deadly but sickening) |

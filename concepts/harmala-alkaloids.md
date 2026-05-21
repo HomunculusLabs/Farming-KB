@@ -11,9 +11,9 @@ sources: []
 
 ## Overview
 
-Harmala alkaloids are a group of beta-carboline compounds found in several plant species, most notably Banisteriopsis caapi (ayahuasca vine) and Peganum harmala (Syrian rue). These compounds are primarily known for their function as reversible inhibitors of monoamine oxidase (MAOI), which is the key pharmacological mechanism that enables the oral activity of DMT in ayahuasca.
+Harmala alkaloids are a group of beta-carboline compounds found in several plant species, most notably [[banisteriopsis-caapi]] ([[ayahuasca]] vine) and [[peganum-harmala]] ([[syrian-rue]]). These compounds are primarily known for their function as reversible inhibitors of monoamine oxidase (MAOI), which is the key pharmacological mechanism that enables the oral activity of DMT in ayahuasca.
 
-The three primary harmala alkaloids are harmine, harmaline, and tetrahydroharmine (THH). Each has distinct pharmacological properties, and their combined action is what makes ayahuasca uniquely effective.
+The three primary harmala alkaloids are [[harmine]], harmaline, and tetrahydroharmine (THH). Each has distinct pharmacological properties, and their combined action is what makes ayahuasca uniquely effective.
 
 ## The Three Primary Alkaloids
 
@@ -65,8 +65,8 @@ The three primary harmala alkaloids are harmine, harmaline, and tetrahydroharmin
 - Seeds are harmala-rich but lack the complex alkaloid profile of B. caapi
 
 ### Other Sources
-- **Passiflora incarnata** (passionflower) — contains trace amounts of harmala alkaloids, mild MAOI activity
-- **Banisteriopsis quitensis** — related to B. caapi, used in some Andean preparations
+- **[[passiflora-incarnata]]** (passionflower) — contains trace amounts of harmala alkaloids, mild MAOI activity
+- **[[banisteriopsis-quitensis]]** — related to B. caapi, used in some Andean preparations
 
 ## MAOI Mechanism
 

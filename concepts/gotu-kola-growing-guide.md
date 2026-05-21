@@ -16,13 +16,13 @@ marshy areas across tropical and subtropical Asia, Africa, and Australia.
 One of the most important herbs in both Ayurvedic medicine (where it is
 called "Brahmi" or "Mandukaparni") and Traditional Chinese Medicine, gotu
 kola has been used for thousands of years as a brain tonic, wound healer,
-and meditation aid. It is often confused with bacopa (Bacopa monnieri),
+and meditation aid. It is often confused with bacopa ([[bacopa-monnieri]]),
 which shares the Ayurvedic name "Brahmi" but is a different plant with
 different properties.
 
 ## Botanical Profile
 
-- Scientific name: Centella asiatica
+- Scientific name: [[centella-asiatica]]
 - Family: Apiaceae (formerly Mackinlayaceae/Umbelliferae)
 - Hardiness: USDA zones 7-11 (tender in zone 7 without protection)
 - Lifecycle: Perennial in tropics/subtropics; grown as annual in cooler zones
@@ -95,12 +95,12 @@ Gotu kola can be grown in bog gardens, at pond edges, in rain gardens,
 or in shallow standing water (1-2 inches). It is excellent for greywater
 areas and constructed wetlands. In containers, use wide, shallow pots
 without drainage holes, kept flooded with 1/2-1 inch of water at all times.
-Greenhouse growing works well in trays or beds with shade cloth (30-50%).
+[[greenhouse-growing]] works well in trays or beds with shade cloth (30-50%).
 
 ### Soil Requirements
 Gotu kola prefers rich, loamy, slightly acidic soil (pH 5.5-7.0). It
 thrives in mucky, organic-rich soils that would kill most other herbs. A
-mix of equal parts garden soil, compost, and peat moss or coconut coir works
+mix of equal parts garden soil, [[compost]], and [[peat-moss]] or coconut coir works
 well for container growing.
 
 ### Propagation

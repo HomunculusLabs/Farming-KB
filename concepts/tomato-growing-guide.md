@@ -9,7 +9,7 @@ sources: []
 
 # Tomato Growing Guide
 
-Tomatoes (Solanum lycopersicum) are the most popular home garden crop. This guide covers the key distinctions between varieties, pruning techniques, support systems, disease management, and harvesting for maximum productivity.
+Tomatoes ([[solanum-lycopersicum]]) are the most popular home garden crop. This guide covers the key distinctions between varieties, pruning techniques, support systems, disease management, and harvesting for maximum productivity.
 
 ## Determinate vs. Indeterminate
 
@@ -36,8 +36,8 @@ Tomatoes (Solanum lycopersicum) are the most popular home garden crop. This guid
 - Nighttime temperatures should be consistently above 50°F.
 - Plant deep: bury stem up to the first set of true leaves — tomatoes root from the stem. Up to 2/3 of the plant can be buried.
 - Space determinates 18-24 inches apart; indeterminates 24-36 inches apart (closer with trellising).
-- Add a handful of bone meal or rock phosphate to each planting hole.
-- Water in well with diluted compost tea or fish emulsion.
+- Add a handful of bone meal or [[rock-phosphate]] to each planting hole.
+- Water in well with diluted [[compost]] tea or [[fish-emulsion]].
 - Install supports (stakes or cages) at planting time — root damage from later installation can set plants back.
 
 ## Pruning Suckers (Indeterminate Only)
@@ -87,7 +87,7 @@ Suckers are the small shoots that grow in the "V" between the main stem and a br
 - **Nitrogen**: Important early for vegetative growth, but excess N after flowering produces lush foliage with few fruits.
 - **Phosphorus**: Critical for flowering and fruit set — add bone meal at planting.
 - **Potassium**: Essential for fruit quality and disease resistance — kelp meal or wood ash.
-- **Calcium**: Prevents blossom end rot — gypsum or crushed eggshells.
+- **Calcium**: Prevents blossom end rot — [[gypsum]] or crushed eggshells.
 - Side-dress with compost or balanced organic fertilizer when first fruits set.
 - Avoid high-nitrogen liquid feeds after flowering begins.
 
@@ -96,7 +96,7 @@ Suckers are the small shoots that grow in the "V" between the main stem and a br
 - Consistent, deep watering is critical — fluctuations cause blossom end rot and fruit cracking.
 - Target 1-2 inches per week from rain and irrigation combined.
 - Water at the base, not overhead — wet foliage promotes blight and other diseases.
-- Drip irrigation is ideal.
+- [[drip-irrigation]] is ideal.
 - Mulch heavily (3-4 inches) to maintain consistent soil moisture.
 
 ## Common Diseases

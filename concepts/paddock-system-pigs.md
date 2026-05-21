@@ -16,7 +16,7 @@ On the Krameterhof, all land is managed as part of a paddock system. All livesto
 
 ## Stocking Rate
 
-Depending on soil conditions and vegetation, Sepp Holzer keeps between three and twelve pigs per hectare in a paddock. The stocking rate should be adapted to fit the amount of food naturally available.
+Depending on soil conditions and vegetation, [[sepp-holzer]] keeps between three and twelve pigs per hectare in a paddock. The stocking rate should be adapted to fit the amount of food naturally available.
 
 ## Key Design Elements
 
@@ -44,7 +44,7 @@ Extra feeding is rarely necessary because there is enough vegetation throughout 
 4. Each grazed paddock is sown with a seed mixture
 5. Once enough time has passed, pigs return to the first paddock
 
-The pigs' digging behaviour is particularly helpful with Jerusalem artichokes: the soil is not only loosened but the tubers are spread. After grazing, conditions for propagation, regeneration, and growth are better than in untilled soil. Paddocks are simultaneously working as arable land in a permaculture system.
+The pigs' digging behaviour is particularly helpful with Jerusalem artichokes: the soil is not only loosened but the tubers are spread. After grazing, conditions for propagation, regeneration, and growth are better than in untilled soil. Paddocks are simultaneously working as arable land in a [[permaculture]] system.
 
 ## Pigs as Helpers
 
@@ -78,7 +78,7 @@ Interdisciplinary approaches have proven particularly valuable in advancing our 
 Applied work with paddock system pigs spans multiple contexts and scales, from small-scale operations to industrial applications.
 Successful implementation requires attention to site-specific conditions and adaptive management strategies.
 Practitioners benefit from integrating both empirical observations and systematic monitoring.
-Economic viability often depends on careful resource allocation and appropriate technology selection.
+Economic viability often depends on careful resource allocation and [[appropriate-technology]] selection.
 
 ## Future Directions
 

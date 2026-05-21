@@ -22,10 +22,10 @@ Beyond its culinary popularity, enoki has a growing body of research supporting 
 ## Key Compounds
 
 - **Proflamin:** A glycoprotein unique to F. velutipes with significant anti-tumor activity. Induces apoptosis in cancer cells.
-- **FVE (Flammulina velutipes lectin):** A lectin with immunomodulatory properties. Activates immune cells and has anti-proliferative effects on cancer cells.
+- **FVE ([[flammulina-velutipes]] lectin):** A lectin with immunomodulatory properties. Activates immune cells and has anti-proliferative effects on cancer cells.
 - **Beta-glucans:** Polysaccharides with immune-stimulating effects, though at lower concentrations than turkey tail or maitake.
 - **Flammutoxin:** A pore-forming cytotoxic protein found in wild enoki. This compound is heat-labile and destroyed by cooking.
-- **Ergothioneine:** A potent antioxidant amino acid found at high concentrations in enoki.
+- **[[ergothioneine]]:** A potent antioxidant amino acid found at high concentrations in enoki.
 - **Trehalose:** A disaccharide sugar with potential neuroprotective properties.
 - **Ribonucleotides:** Guanylic acid contributes to umami flavor.
 
@@ -33,7 +33,7 @@ Beyond its culinary popularity, enoki has a growing body of research supporting 
 
 ### Proflamin
 Proflamin is the most distinctive medicinal compound in enoki:
-- Isolated from the mycelium and fruiting body.
+- Isolated from the [[mycelium]] and fruiting body.
 - Demonstrates anti-tumor activity in animal models, particularly against sarcoma 180 and other transplantable tumors.
 - Mechanism involves induction of cancer cell apoptosis via mitochondrial pathway.
 - Unlike many mushroom polysaccharides, proflamin is a protein, not a carbohydrate.
@@ -47,7 +47,7 @@ Proflamin is the most distinctive medicinal compound in enoki:
 
 ### Beta-Glucans
 - Standard immunomodulatory mechanisms (macrophage activation, NK cell stimulation).
-- Present at lower levels than in dedicated medicinal mushrooms but still contribute to overall immune support.
+- Present at lower levels than in dedicated [[medicinal-mushrooms]] but still contribute to overall immune support.
 
 ## Anti-Tumor Research
 
@@ -114,18 +114,18 @@ Enoki is a staple in East Asian cuisine:
 ## Dosing Guidelines
 
 - **General health:** Include enoki regularly in diet (culinary doses).
-- **Immune support:** 3-5g dried mushroom powder per day.
+- **Immune support:** 3-5g dried [[mushroom-powder]] per day.
 - **Tincture:** 2-3ml dual extract, 2-3 times daily.
 - **Culinary:** 100-200g fresh per week as food.
 
 ## Cultivation
 
 Enoki is commercially cultivated on a massive scale:
-- **Substrate:** Sawdust (broadleaf hardwood) supplemented with rice bran or wheat bran.
+- **Substrate:** Sawdust (broadleaf hardwood) supplemented with rice bran or [[wheat-bran]].
 - **Colonization:** 20-30 days at 68-72°F (20-22°C).
 - **Etiolation phase:** High CO2 (3000-5000 ppm), complete darkness, and cool temperatures (50-60°F / 10-15°C) produce the characteristic long, white stems.
 - **Fruiting time:** 14-20 days from induction to harvest.
-- **Biological efficiency:** 80-120% (high-yielding).
+- **[[biological-efficiency]]:** 80-120% (high-yielding).
 - One of the fastest and most productive cultivated mushrooms.
 
 Wild enoki fruits in late fall through winter, even at temperatures near freezing.

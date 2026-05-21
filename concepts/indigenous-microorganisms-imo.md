@@ -27,7 +27,7 @@ sources:
 
 # Indigenous Microorganisms (IMO)
 
-IMO is the foundation of Korean Natural Farming. It captures and multiplies the native beneficial microorganisms from your local environment and reintroduces them to your soil. These are the microbes already adapted to your climate and ecosystem. As Master Cho states: "In non-chemical agriculture we do not feed the plant. We nurture the soil and the soil nurtures the plant through the IMOs."
+IMO is the foundation of [[korean-natural-farming]]. It captures and multiplies the native beneficial microorganisms from your local environment and reintroduces them to your soil. These are the microbes already adapted to your climate and ecosystem. As [[master-cho]] states: "In non-chemical agriculture we do not feed the plant. We nurture the soil and the soil nurtures the plant through the IMOs."
 
 Microorganisms have two major functions in farming:
 1. Decompose complex organic compounds (dead plants/animals, wastes) into nutrients absorbable by plants
@@ -71,7 +71,7 @@ Microorganisms have two major functions in farming:
 2. Cover with steel wire net (mice/rat protection) and plastic sheet
 3. IMOs gather in ~1 week; mostly anaerobic microbes including:
    - Bacillus licheniformis (breaks down protein, fat, carbohydrates)
-   - Bacillus subtilis (breaks up strong fibers like straw and reeds)
+   - [[bacillus-subtilis]] (breaks up strong fibers like straw and reeds)
 
 **Signs of success**: Rice should have colorful growth — white, gray, yellow, orange, or pink molds. White fuzzy growth (fungi) is ideal. **Black molds indicate you have exceeded the collection days** — discard and try again.
 
@@ -105,7 +105,7 @@ Microorganisms have two major functions in farming:
 
 **Materials**:
 - IMO-2 liquid, diluted 1:1000 with water
-- Rice bran or wheat bran (main carbon carrier)
+- Rice bran or [[wheat-bran]] (main carbon carrier)
 - Paddy straw or leaf mold (covering material)
 - Optional: diluted NF inputs (FPJ, FAA, OHN, LAB at 1:1000) in place of plain water
 
@@ -117,9 +117,9 @@ Microorganisms have two major functions in farming:
 5. Flip straw every 2 days; turn rice bran when temp reaches 40-50C
 6. If temp drops below 40C (too wet) or rises above 70C (nutrient loss), turn immediately
 7. Takes 5-7 days for white spores to cover surface = complete
-11. Finished IMO-3 has a pleasant smell (Absida, Aspergillus, Mucor, Rhizopus) and white colonies
+11. Finished IMO-3 has a pleasant smell (Absida, [[aspergillus]], Mucor, [[rhizopus]]) and white colonies
 
-**Expected microbes**: Aspergillus oryzae, Bacillus subtilis, and many others from the paddy straw.
+**Expected microbes**: [[aspergillus-oryzae]], Bacillus subtilis, and many others from the paddy straw.
 
 **Storage**: Keep in jute/gunny/cloth bags in shaded, cool, ventilated area. Pile containers 3 layers high, shield from sun and rain. Moisture drops to 20-30% (dormancy phase). No need to turn during storage.
 

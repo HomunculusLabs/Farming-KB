@@ -15,7 +15,7 @@ Raw (unpasteurized) milk is milk that has not been heated to kill pathogenic bac
 
 Pasteurization heats milk to 72 C (161 F) for 15 seconds (HTST method) or 63 C (145 F) for 30 minutes (vat method). This process kills pathogenic bacteria but also:
 
-- Destroys beneficial lactobacillus and other probiotic bacteria
+- Destroys beneficial [[lactobacillus]] and other probiotic bacteria
 - Reduces vitamin C content by 10-25%
 - Denatures enzymes including lactase (which helps digest lactose), lipase (which aids fat digestion), and phosphatase (which aids calcium absorption)
 - Alters milk proteins, potentially reducing allergenicity for some people

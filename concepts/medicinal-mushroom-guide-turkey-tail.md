@@ -11,7 +11,7 @@ sources: []
 
 ## Overview
 
-Turkey tail is one of the most common mushrooms on Earth, found on every continent except Antarctica. Named for its colorful concentric zones of brown, tan, white, blue, and orange that resemble a wild turkey's tail feathers. It is a bracket polypore that grows on dead hardwood logs and stumps worldwide.
+Turkey tail is one of the most common mushrooms on Earth, found on every continent except Antarctica. Named for its colorful concentric zones of brown, tan, white, blue, and orange that resemble a wild turkey's tail feathers. It is a bracket [[polypore]] that grows on dead hardwood logs and stumps worldwide.
 
 Turkey tail is the most extensively researched medicinal mushroom for immune support and cancer adjunct therapy. Its polysaccharide derivatives PSK and PSP are approved pharmaceutical drugs in Japan and China respectively, prescribed alongside conventional cancer treatments.
 
@@ -84,7 +84,7 @@ The traditional and most effective method for extracting polysaccharides:
 ### Dual Extraction Tincture
 Captures both water-soluble polysaccharides and alcohol-soluble triterpenes:
 1. Hot water extraction first (60-90 min).
-2. Alcohol maceration of spent material (4-6 weeks in 40-50% ethanol).
+2. Alcohol maceration of spent material (4-6 weeks in 40-50% [[ethanol]]).
 3. Combine extracts.
 
 ### Capsules
@@ -92,7 +92,7 @@ Common supplement form. Look for products with verified beta-glucan content (pre
 
 ## Dosing Guidelines
 
-- **General immune support:** 1-3g dried mushroom powder or extract per day.
+- **General immune support:** 1-3g dried [[mushroom-powder]] or extract per day.
 - **Cancer adjunct (under medical supervision):** 3-6g/day, divided into 2-3 doses.
 - **Tincture:** 2-4ml dual extract, 2-3 times daily.
 - **Tea:** 5-10g dried mushroom per liter of water, simmered 60-90 minutes.
@@ -111,8 +111,8 @@ Turkey tail is one of the easiest mushrooms to identify, but has lookalikes:
 - Flexible and leathery when fresh; becomes tough when dry but can be rehydrated.
 
 ### Lookalikes
-- **False turkey tail (Stereum ostrea):** Similar zonate cap but has a smooth, poreless underside (no pores visible). Generally considered non-toxic but not medicinal.
-- **Trametes hirsuta:** Very similar but less colorful; also medicinal.
+- **False turkey tail ([[stereum-ostrea]]):** Similar zonate cap but has a smooth, poreless underside (no pores visible). Generally considered non-toxic but not medicinal.
+- **[[trametes-hirsuta]]:** Very similar but less colorful; also medicinal.
 
 ### Habitat
 - Dead hardwood (oak, maple, beech, birch).

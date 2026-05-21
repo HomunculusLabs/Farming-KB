@@ -17,12 +17,12 @@ incomparable one" or "the queen of herbs," tulsi has been cultivated for
 over 3,000 years throughout the Indian subcontinent and Southeast Asia.
 There are three primary varieties used medicinally: Krishna tulsi (purple
 leaves), Rama tulsi (green leaves), and Vana tulsi (wild-type, tall and
-camphor-scented). All share adaptogenic, immunomodulating, and stress-
+[[camphor]]-scented). All share adaptogenic, immunomodulating, and stress-
 reducing properties.
 
 ## Botanical Profile
 
-- Scientific name: Ocimum sanctum (syn. O. tenuiflorum)
+- Scientific name: [[ocimum-sanctum]] (syn. O. tenuiflorum)
 - Family: Lamiaceae (mint family)
 - Hardiness: USDA zones 10-11 (grown as annual in all other zones)
 - Lifecycle: Tender perennial, grown as annual in temperate climates
@@ -31,13 +31,13 @@ reducing properties.
 
 Primary varieties:
 - Krishna tulsi (O. sanctum 'Krishna'): Dark purple-green leaves, peppery
-  clove-like flavor, compact bushy habit. Highest eugenol content.
+  clove-like flavor, compact bushy habit. Highest [[eugenol]] content.
 - Rama tulsi (O. sanctum 'Rama'): Green leaves, milder flavor, slightly
   taller than Krishna. Most commonly available variety.
 - Vana tulsi (O. gratissimum): Tall (3-4 feet), bright green leaves, strong
   camphor-like aroma. More frost-tolerant than other varieties.
 
-Note: Tulsi is distinct from culinary sweet basil (Ocimum basilicum), though
+Note: Tulsi is distinct from culinary sweet basil ([[ocimum-basilicum]]), though
 they are in the same genus. Tulsi is more medicinal, more intensely aromatic,
 and has a different flavor profile.
 
@@ -45,7 +45,7 @@ and has a different flavor profile.
 
 Tulsi is classified as an adaptogen in Ayurvedic medicine, helping the body
 adapt to stress and maintain balance. Key active compounds include eugenol,
-caryophyllene, ursolic acid, rosmarinic acid, and linalool.
+caryophyllene, [[ursolic-acid]], rosmarinic acid, and [[linalool]].
 
 Key medicinal applications:
 
@@ -115,7 +115,7 @@ Harden off and move outdoors after last frost.
 
 ### Care and Maintenance
 - Water when the top inch of soil is dry; avoid overwatering
-- Fertilize lightly every 4-6 weeks with compost tea or balanced organic
+- Fertilize lightly every 4-6 weeks with [[compost]] tea or balanced organic
   fertilizer
 - Pinch back growing tips regularly to encourage bushy, compact growth
 - Remove flower buds if you want to maximize leaf production (tulsi

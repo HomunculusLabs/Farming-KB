@@ -9,18 +9,18 @@ sources: [raw/papers/sepp-holzer-practical-guide-to-small-scale-integrative.md]
 
 # Holzer Indicator Plants
 
-Sepp Holzer uses indicator plants to assess soil conditions without laboratory testing. Each plant species signals specific soil properties including nitrogen content, moisture levels, compaction, and pH.
+[[sepp-holzer]] uses indicator plants to assess soil conditions without laboratory testing. Each plant species signals specific soil properties including nitrogen content, moisture levels, compaction, and pH.
 
 ## Soil Condition Indicators
 
 ### Nitrogen Poor Soil
 
 - **Broad-leaved thyme** (Thymus pulegioides)
-- **Sheep's fescue** (Festuca ovina)
+- **Sheep's fescue** ([[festuca-ovina]])
 
 ### Wet Soil
 
-- **Creeping buttercup** (Ranunculus repens)
+- **Creeping buttercup** ([[ranunculus-repens]])
 - **Compact rush** (Juncus conglomeratus)
 
 ### Compacted Soil
@@ -40,19 +40,19 @@ Sepp Holzer uses indicator plants to assess soil conditions without laboratory t
 ### Alkaline Soil
 
 - **Meadow clary** (Salvia pratensis)
-- **Betony** (Stachys officinalis)
+- **Betony** ([[stachys-officinalis]])
 
 ### High Nitrogen Soil
 
 - **Broad-leaved dock** (Rumex obtusifolius)
-- **Stinging nettles** (Urtica dioica)
+- **Stinging nettles** ([[urtica-dioica]])
 - **Orache** (Atriplex patula)
 
-These nitrogen indicators signal overfertilisation or overly intensive pasture management.
+These nitrogen indicators signal overfertilisation or overly intensive [[pasture-management]].
 
 ## Using Indicator Plants
 
-Holzer surveys land by digging test trenches in different areas. Soil can vary greatly within as little as 10-20 metres. The indicator plants present reveal what the soil needs — whether to add green manure, improve drainage, address compaction, or balance pH. The appearance of certain plants is treated as useful information rather than a problem to be eradicated. Understanding why a particular plant thrives in a location guides the corrective action needed.
+Holzer surveys land by digging test trenches in different areas. Soil can vary greatly within as little as 10-20 metres. The indicator plants present reveal what the soil needs — whether to add [[green-manure]], improve drainage, address compaction, or balance pH. The appearance of certain plants is treated as useful information rather than a problem to be eradicated. Understanding why a particular plant thrives in a location guides the corrective action needed.
 
 ## Related
 

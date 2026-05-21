@@ -127,7 +127,7 @@ A successful amphibian pond has multiple depth zones:
 #### Liner vs. Natural Clay
 - **Flexible liner (EPDM rubber)**: 45-mil EPDM is the best option; non-toxic, UV-resistant, 20+ year lifespan
 - **Natural clay**: If site has clay subsoil, compact it to create a natural pond
-- **Bentonite clay**: Applied to sandy soil to create a water-retaining layer
+- **[[bentonite]] clay**: Applied to sandy soil to create a water-retaining layer
 
 ### Hydroperiod
 The seasonal pattern of pond water levels determines which species can breed:
@@ -143,10 +143,10 @@ Creating a range of hydroperiods supports the greatest amphibian diversity. Temp
 ### Plants for Amphibian Ponds
 | Plant | Type | Function |
 |-------|------|----------|
-| Blue flag iris (Iris versicolor) | Emergent | Egg-laying; cover; aesthetic |
-| Pickerelweed (Pontederia cordata) | Emergent | Cover; nectar for pollinators |
-| Soft rush (Juncus effusus) | Emergent | Egg attachment; cover |
-| Cattail (Typha latifolia) | Emergent | Cover; but can be aggressive—contain with barriers |
+| Blue flag iris ([[iris-versicolor]]) | Emergent | Egg-laying; cover; aesthetic |
+| Pickerelweed ([[pontederia-cordata]]) | Emergent | Cover; nectar for pollinators |
+| Soft rush ([[juncus-effusus]]) | Emergent | Egg attachment; cover |
+| Cattail ([[typha-latifolia]]) | Emergent | Cover; but can be aggressive—contain with barriers |
 | Swamp milkweed (Asclepias incarnata) | Marginal | Pollinator plant; cover |
 ## See Also
 

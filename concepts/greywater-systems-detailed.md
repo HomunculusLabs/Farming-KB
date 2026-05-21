@@ -54,7 +54,7 @@ For sites without adequate slope, or when distributing to a larger area, a surge
 
 1. Greywater flows by gravity into a surge tank (30-50 gallons)
 2. A small sump pump activates when the tank fills
-3. Water is pumped through a distribution network to mulch basins or subsurface irrigation lines
+3. Water is pumped through a distribution network to mulch basins or [[subsurface-irrigation]] lines
 4. A float switch prevents overfilling and dry-running
 
 **Key components:**
@@ -119,7 +119,7 @@ Products used in the household directly affect greywater quality:
 - Bleach and chlorine — Kills beneficial soil organisms
 - Sodium-based water softeners — Damages soil structure
 - Petroleum-based surfactants — Slow to break down
-- Enzyme cleaners — May accelerate pipe corrosion
+- [[enzyme]] cleaners — May accelerate pipe corrosion
 - Artificial dyes and fragrances — No agronomic benefit, potential irritation
 
 ## Surge Tank Design

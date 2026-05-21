@@ -23,11 +23,11 @@ sources:
 
 # Mythological Mushroom Symbolism
 
-The symbolic vocabulary through which mushrooms — particularly Amanita muscaria — were encoded in world mythology, religious art, and cultural traditions. [[james-arthur]] catalogs 40+ names and symbols that he argues all refer to the mushroom across cultures, representing different views of the same organism at various stages of its lifecycle.
+The symbolic vocabulary through which mushrooms — particularly [[amanita-muscaria]] — were encoded in world mythology, religious art, and cultural traditions. [[james-arthur]] catalogs 40+ names and symbols that he argues all refer to the mushroom across cultures, representing different views of the same organism at various stages of its lifecycle.
 
 ## The Mushroom Lifecycle as Mythological Template
 
-The Amanita muscaria lifecycle provides a natural template for mythological narratives:
+The [[amanita]] muscaria lifecycle provides a natural template for mythological narratives:
 
 ### Stage 1: The Egg/Button (Infant State)
 - Small, white, round — resembles a stone or egg
@@ -40,7 +40,7 @@ The Amanita muscaria lifecycle provides a natural template for mythological narr
 - Pushing upward from the bulbous base like a snake hatching
 - Shedding the universal veil = shedding skin
 - The serpent in the Garden of Eden — reveals secret knowledge
-- The Feathered Serpent (Quetzalcoatl/Kukulcan) — cosmopolitan symbol
+- The [[feathered-serpent]] ([[quetzalcoatl]]/Kukulcan) — cosmopolitan symbol
 - After full growth and decay, leaves a hole with white spore powder — a "snake's hole" or lair
 
 ### Stage 3: Full Growth (Mushroom Form)
@@ -68,13 +68,13 @@ Arthur catalogs these cross-cultural names/symbols for the mushroom:
 
 ### Food and Drink Names
 - Soma (Hindu plant-god; also Greek for "body")
-- Amrita (Buddhist magical sacrament / elixir of immortality)
+- [[amrita]] (Buddhist magical sacrament / elixir of immortality)
 - Ambrosia (Greek "food of the gods")
 - Haoma (Zoroastrian sacrament)
 - Manna (Hebrew; means "mushroom" per Arthur; two kinds in Bible — John 6-14)
 - Bread of Life / Loaf of Bliss
 - Hidden Manna (Revelation 2:17)
-- Celestial Food / Divine Food / Tchefau (Egyptian Book of the Dead)
+- Celestial Food / Divine Food / [[tchefau]] (Egyptian Book of the Dead)
 - Waters of Life (Ankh = waters and life)
 - Fountain of Living Waters
 
@@ -84,7 +84,7 @@ Arthur catalogs these cross-cultural names/symbols for the mushroom:
 - The Fountain of Youth (Amanita grows under Longleaf Pine in northern Florida in December — Ponce de Leon "likely kicked over" what he sought)
 - The Prima Materia / Philosopher's Stone (alchemical secret substance)
 - The Hammer of Thor (mushroom-shaped; thrown to earth in lightning)
-- The Djed Pillar (Egyptian, shaped like mushroom not cedar)
+- The [[djed-pillar]] (Egyptian, shaped like mushroom not cedar)
 - The Ankh (Egyptian symbol for waters of life)
 - The Cosmic Egg / Easter Egg
 - The Eye of Horus (Djed-Eye)

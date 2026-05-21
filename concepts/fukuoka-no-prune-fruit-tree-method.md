@@ -24,7 +24,7 @@ sources:
 
 # Fukuoka No-Prune Fruit Tree Method
 
-Masanobu Fukuoka's most radical orchard claim: **fruit trees do not need pruning if grown in their natural form from the start**. This runs counter to virtually all commercial fruit growing, which considers pruning the most essential orchard skill. Fukuoka argues that pruning creates the very problems it claims to solve — tangled branches, poor ventilation, alternate bearing — because it forces trees into unnatural shapes that then require constant maintenance.
+[[masanobu-fukuoka]]'s most radical orchard claim: **fruit trees do not need pruning if grown in their natural form from the start**. This runs counter to virtually all commercial fruit growing, which considers pruning the most essential orchard skill. Fukuoka argues that pruning creates the very problems it claims to solve — tangled branches, poor ventilation, alternate bearing — because it forces trees into unnatural shapes that then require constant maintenance.
 
 ## The Natural Form of a Tree
 
@@ -70,7 +70,7 @@ Variation by type:
 The tree must be:
 1. **Started from seed or unpruned nursery stock** — most nursery trees are already pruned or root-damaged, which makes pruning necessary from the start
 2. **Grown with no-till, no-fertilizer, no-spray methods** — these methods create the conditions where natural form can express itself
-3. **Supported by biodiversity** — ground cover, beneficial insect habitat, windbreaks
+3. **Supported by biodiversity** — ground cover, [[beneficial-insect-habitat]], windbreaks
 4. **Given proper spacing** — no competition from neighboring trees
 
 ### Correcting Previously Pruned Trees
@@ -98,7 +98,7 @@ Fukuoka acknowledges that pruning developed for legitimate reasons — but only 
 Fukuoka's key companion tree, planted 5-6 per quarter-acre:
 
 **Benefits**:
-- Nitrogen fixation via rhizobium bacteria (deep soil strata)
+- Nitrogen fixation via [[rhizobium]] bacteria (deep soil strata)
 - Windbreak and shade
 - Flowers attract bees
 - Leaves provide fodder
@@ -107,7 +107,7 @@ Fukuoka's key companion tree, planted 5-6 per quarter-acre:
 - Each felled tree provides ~half-ton organic material
 - Improves 100+ square yards of hard soil per tree in 5-6 years
 
-**Pest control mechanism**: Acacia grows year-round, constantly sending new shoots. Aphids colonize the shoots, supporting a growing ladybug population. After aphids are consumed, ladybugs descend to citrus trees to feed on scales and mites.
+**Pest control mechanism**: [[acacia]] grows year-round, constantly sending new shoots. Aphids colonize the shoots, supporting a growing ladybug population. After aphids are consumed, ladybugs descend to citrus trees to feed on scales and mites.
 
 ### Interplanting Evergreens and Deciduous Trees
 

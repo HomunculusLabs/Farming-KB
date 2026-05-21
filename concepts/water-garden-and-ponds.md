@@ -60,7 +60,7 @@ Water gardens and ponds introduce aquatic ecosystems into the landscape, support
 
 **Submerged Plants (Oxygenators)**
 - Grow entirely underwater, release oxygen, absorb nutrients (reduce algae)
-- Species: Hornwort (Ceratophyllum demersum), anacharis (Egeria densa), water milfoil, cabomba
+- Species: Hornwort ([[ceratophyllum-demersum]]), anacharis (Egeria densa), water milfoil, cabomba
 - Plant in pots on the pond bottom; 1 bunch per 2 square feet of surface area
 - Often free-floating or loosely anchored
 
@@ -79,7 +79,7 @@ Water gardens and ponds introduce aquatic ecosystems into the landscape, support
 
 **Marginal Plants (Bog Plants)**
 - Grow in shallow water at pond edges (0-6 inches of water over the crown)
-- Species: Iris (Iris versicolor, I. pseudacorus), pickerel weed, cattail, arrowhead, cardinal flower, marsh marigold, sweet flag
+- Species: Iris ([[iris-versicolor]], I. pseudacorus), pickerel weed, cattail, arrowhead, cardinal flower, marsh marigold, sweet flag
 - Plant in pots placed on the marginal shelf
 - Soften the transition between water and land
 
@@ -107,7 +107,7 @@ Water gardens and ponds introduce aquatic ecosystems into the landscape, support
 - Can be trained to hand-feed
 - Destructive to plants — protect plant roots with large stones
 
-**Mosquitofish (Gambusia)**
+**Mosquitofish ([[gambusia]])**
 - Small, hardy, voracious mosquito larvae eaters
 - Add to any pond for mosquito control
 - Reproduce rapidly — population self-regulates

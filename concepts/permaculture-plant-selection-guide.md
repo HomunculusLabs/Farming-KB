@@ -11,7 +11,7 @@ sources: [raw/papers/a-selection-permaculture-plants.md]
 
 ## Overview
 
-This guide draws from "Permaculture Plants: A Selection" to provide an introduction to selecting plants for permaculture systems. The book serves as a resource list to help permaculture practitioners reduce time spent searching through volumes of material, allowing more time for planning and planting.
+This guide draws from "[[permaculture]] Plants: A Selection" to provide an introduction to selecting plants for permaculture systems. The book serves as a resource list to help permaculture practitioners reduce time spent searching through volumes of material, allowing more time for planning and planting.
 
 ## The Scope of Permaculture Species
 
@@ -49,7 +49,7 @@ Key techniques:
 
 ## The Conservation Imperative
 
-The book frames permaculture plant selection as fundamentally about **conservation** -- conservation of soil, fossil fuel, human energy, species, and genotypes. The authors argue that species loss exceeds cataloguing, and that growing species in our own systems may be the only chance of saving many plants. Many domesticated fruits are now unknown in the wild.
+The book frames [[permaculture-plant-selection]] as fundamentally about **conservation** -- conservation of soil, fossil fuel, human energy, species, and genotypes. The authors argue that species loss exceeds cataloguing, and that growing species in our own systems may be the only chance of saving many plants. Many domesticated fruits are now unknown in the wild.
 
 ## Related
 
@@ -75,7 +75,7 @@ Interdisciplinary approaches have proven particularly valuable in advancing our 
 Applied work with permaculture plant selection guide spans multiple contexts and scales, from small-scale operations to industrial applications.
 Successful implementation requires attention to site-specific conditions and adaptive management strategies.
 Practitioners benefit from integrating both empirical observations and systematic monitoring.
-Economic viability often depends on careful resource allocation and appropriate technology selection.
+Economic viability often depends on careful resource allocation and [[appropriate-technology]] selection.
 
 ## Future Directions
 

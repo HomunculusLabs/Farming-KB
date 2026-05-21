@@ -9,7 +9,7 @@ sources: []
 
 # Sweet Potato Growing Guide
 
-Sweet potatoes (Ipomoea batatas) are a warm-climate perennial grown as an annual in most of the US. They produce large, calorie-dense tubers that store for months. Unlike regular potatoes (Solanum tuberosum), sweet potatoes are in the morning glory family and have very different growing requirements. This guide covers slips, soil, planting, hilling, curing, and storage.
+Sweet potatoes ([[ipomoea-batatas]]) are a warm-climate perennial grown as an annual in most of the US. They produce large, calorie-dense tubers that store for months. Unlike regular potatoes ([[solanum-tuberosum]]), sweet potatoes are in the morning glory family and have very different growing requirements. This guide covers slips, soil, planting, hilling, curing, and storage.
 
 ## Understanding Sweet Potatoes
 
@@ -69,7 +69,7 @@ Sweet potatoes are more forgiving about soil than many crops, but certain condit
 - **Texture**: Sandy or sandy loam is ideal — heavy clay produces misshapen roots. Raised beds with loose, well-drained soil work well.
 - **pH**: 5.0-6.5 (slightly acidic). Do NOT lime — sweet potatoes are sensitive to high pH.
 - **Fertility**: LOW to moderate nitrogen. Excess nitrogen produces huge vines and small tubers. Sweet potatoes need phosphorus and potassium more than nitrogen.
-- **Organic matter**: Moderate — avoid overly rich soil (too much compost = lush foliage, few tubers). Sandy soil with moderate compost is ideal.
+- **Organic matter**: Moderate — avoid overly rich soil (too much [[compost]] = lush foliage, few tubers). Sandy soil with moderate compost is ideal.
 - **Preparation**: Loosen soil to 12 inches deep. Remove rocks and debris that can cause deformed roots.
 
 ## Planting
@@ -78,7 +78,7 @@ Sweet potatoes are more forgiving about soil than many crops, but certain condit
 - Plant slips AFTER all frost danger has passed and soil has warmed to at least 65°F (70°F is better).
 - Sweet potatoes cannot tolerate any frost.
 - Typical planting: 2-4 weeks after last frost date.
-- Soil temperature can be raised with black plastic mulch.
+- [[soil-temperature]] can be raised with black plastic mulch.
 
 ### How to Plant Slips
 1. Trim slips to 6-8 inches if longer. Remove lower leaves, leaving 2-3 leaves at the tip.
@@ -112,7 +112,7 @@ Sweet potatoes are more forgiving about soil than many crops, but certain condit
 - 1-1.5 inches per week.
 - Critical during the first month (establishment) and during tuber formation (last 6-8 weeks).
 - Reduce watering 3-4 weeks before harvest — this concentrates sugars and cures the skin.
-- Drip irrigation is ideal.
+- [[drip-irrigation]] is ideal.
 - Avoid overhead watering — promotes fungal disease on leaves.
 
 ### Fertilizing

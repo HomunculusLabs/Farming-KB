@@ -9,7 +9,7 @@ sources: []
 
 ## Overview
 
-Cannabis extraction is the process of separating cannabinoids, terpenes, and other desirable compounds from plant material. Extracts and concentrates offer higher potency, alternative consumption methods, and purified cannabinoid profiles. Extraction methods range from simple mechanical techniques to complex chemical processes requiring specialized equipment.
+Cannabis extraction is the process of separating cannabinoids, [[terpenes]], and other desirable compounds from plant material. Extracts and concentrates offer higher potency, alternative consumption methods, and purified cannabinoid profiles. Extraction methods range from simple mechanical techniques to complex chemical processes requiring specialized equipment.
 
 ## Types of Extraction
 
@@ -19,7 +19,7 @@ Solvent-based methods use a chemical solvent to dissolve cannabinoids and terpen
 
 #### Ethanol Extraction
 
-Ethanol (food-grade grain alcohol) is a versatile solvent capable of extracting a full spectrum of cannabinoids and terpenes.
+[[ethanol]] (food-grade grain alcohol) is a versatile solvent capable of extracting a full spectrum of cannabinoids and terpenes.
 
 **Process**:
 1. Plant material is soaked or washed with cold ethanol (cryogenic extraction preserves terpenes)
@@ -141,7 +141,7 @@ Winterization is not typically needed for BHO or CO2 extracts that are processed
 
 ## Decarboxylation
 
-Raw cannabis contains THCA and CBDA (acidic, non-intoxicating forms). Decarboxylation converts these to active THC and CBD through heat:
+Raw cannabis contains THCA and CBDA (acidic, non-intoxicating forms). [[decarboxylation]] converts these to active THC and CBD through heat:
 
 - THCA → THC at approximately 220 F (105 C) over 30-60 minutes
 - CBDA → CBD at similar temperatures

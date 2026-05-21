@@ -9,7 +9,7 @@ sources: [raw/papers/hamilton-geoffhamilton-nick_-organic-gardening.md]
 
 # Cold Frame Construction
 
-A cold frame is a bottomless box with a transparent lid, used to extend the growing season by protecting plants from frost and wind. It acts as a miniature greenhouse, capturing solar heat while allowing light through.
+A [[cold-frame]] is a bottomless box with a transparent lid, used to extend the growing season by protecting plants from frost and wind. It acts as a miniature greenhouse, capturing solar heat while allowing light through.
 
 ## Construction
 
@@ -56,7 +56,7 @@ A cold frame is a bottomless box with a transparent lid, used to extend the grow
 
 ## What to Grow
 - Early spring: lettuce, spinach, radishes, onions, brassicas
-- Autumn extension: lettuce, Asian greens, arugula, carrots, beets
+- Autumn extension: lettuce, Asian greens, [[arugula]], carrots, beets
 - Winter: garlic, shallots, overwintering onions
 
 ## Related

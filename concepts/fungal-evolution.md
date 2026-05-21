@@ -35,7 +35,7 @@ The fungal kingdom is divided into several major phyla, representing deep evolut
 
 1. **Chytridiomycota** (chytrids) — basal lineage, flagellated spores
 2. **Zygomycota** (zygomycetes) — pin molds, bread molds
-3. **Glomeromycota** (arbuscular mycorrhizal fungi)
+3. **Glomeromycota** ([[arbuscular-mycorrhizal-fungi]])
 4. **Ascomycota** (sac fungi) — largest phylum
 5. **Basidiomycota** (club fungi) — mushrooms, rusts, smuts
 6. **Several newly described phyla**: Cryptomycota (Rozellomycota), Blastocladiomycota, Kickxellomycota, Zoopagomycota, Mucoromycota
@@ -45,14 +45,14 @@ The fungal kingdom is divided into several major phyla, representing deep evolut
 - **Key feature**: Flagellated spores (zoospores) with a single posterior flagellum
 - Flagellated spores suggest an aquatic ancestry — the ancestor of all fungi likely lived in water
 - Approximately 1,000 described species; many more estimated
-- Some are major pathogens: Batrachochytrium dendrobatidis causes chytridiomycosis, a devastating amphibian disease responsible for the decline or extinction of over 200 amphibian species
+- Some are major pathogens: [[batrachochytrium-dendrobatidis]] causes chytridiomycosis, a devastating amphibian disease responsible for the decline or extinction of over 200 amphibian species
 - Others are saprotrophs in aquatic and soil environments
 - Some are parasites of algae, other fungi, and invertebrates
 
 ### Zygomycota / Mucoromycota
 
 - **Key feature**: Sexual reproduction via zygospores — large, thick-walled resting spores formed by fusion of gametangia
-- Includes familiar bread molds (Rhizopus stolonifer, Mucor)
+- Includes familiar bread molds ([[rhizopus-stolonifer]], Mucor)
 - Mostly fast-growing, opportunistic saprotrophs
 - Some species cause human infections (mucormycosis, especially in immunocompromised patients)
 - Recent phylogenetic work has split this group into Mucoromycota and Zoopagomycota
@@ -64,7 +64,7 @@ The fungal kingdom is divided into several major phyla, representing deep evolut
 - Among the oldest terrestrial symbioses — fossil evidence from the Ordovician (~460 Ma)
 - Associated with the earliest land plants — likely critical for plant colonization of land
 - All species are obligate symbionts — cannot be grown without a plant host
-- Coenocytic hyphae with multinucleate spores (up to hundreds of nuclei per spore)
+- [[coenocytic-hyphae]] with multinucleate spores (up to hundreds of nuclei per spore)
 - Form vast below-ground networks connecting multiple plants
 - Approximately 300 described species; low diversity but enormous ecological impact
 
@@ -87,11 +87,11 @@ The fungal kingdom is divided into several major phyla, representing deep evolut
 - Includes all typical mushroom-forming fungi
 - Major groups:
   - **Agaricomycotina**: Gilled mushrooms, boletes, polypores, puffballs, corals
-  - **Pucciniomycotina**: Rust fungi (major plant pathogens)
-  - **Ustilaginomycotina**: Smut fungi (plant parasites)
+  - **Pucciniomycotina**: [[rust-fungi]] (major plant pathogens)
+  - **Ustilaginomycotina**: [[smut-fungi]] (plant parasites)
   - **Tremellomycotina**: Jelly fungi and some yeasts
 - Dikaryotic life cycle with clamp connections — a unique feature among fungi
-- Many form ectomycorrhizal associations with trees (Amanita, Boletus, Russula, Laccaria)
+- Many form [[ectomycorrhizal-associations]] with trees (Amanita, Boletus, Russula, Laccaria)
 
 ## Terrestrialization: The Move to Land
 

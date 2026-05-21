@@ -12,13 +12,13 @@ sources:
 
 ## Why Cover Crops
 
-Cover crops are planted specifically to build and hold soil and to smother weeds. Their leaves shield soil from hammering rains and carpet the earth with humus-building litter. Their roots drive deep into soil, loosening earth, drawing up nutrients, and placing organic matter farther down than even the deepest plowing. Many send roots 10 to 15 feet deep.
+[[cover-crops]] are planted specifically to build and hold soil and to smother weeds. Their leaves shield soil from hammering rains and carpet the earth with humus-building litter. Their roots drive deep into soil, loosening earth, drawing up nutrients, and placing organic matter farther down than even the deepest plowing. Many send roots 10 to 15 feet deep.
 
 ## Selection Principles
 
 ### Diversity Is Key
 
-As in so much of ecological gardening, diversity provides the key. Seed a mélange of varieties and record which thrive. Each plant type secretes its own array of sugars and compounds from its roots, attracting a different community of soil organisms. The more species of cover crop planted, the more varied the soil life's diversity, which subdues disease and boosts plant growth.
+As in so much of ecological gardening, diversity provides the key. Seed a mélange of varieties and record which thrive. Each plant type secretes its own array of sugars and compounds from its roots, attracting a different community of soil organisms. The more species of [[cover-crop]] planted, the more varied the [[soil-life]]'s diversity, which subdues disease and boosts plant growth.
 
 ### Annual vs Perennial
 
@@ -46,7 +46,7 @@ Planted late summer or fall; mowed or tilled in spring while flowering and befor
 | Hairy vetch | Yes | 3-6 ft | Hardy to -10°F |
 | Common vetch | Yes | 3-6 ft | Hardy to 0°F |
 | Fava/bell bean | Yes | 3-6 ft | Mix with legumes |
-| Red clover (Kenland) | Yes | 2 ft | Short-lived perennial |
+| [[red-clover]] (Kenland) | Yes | 2 ft | Short-lived perennial |
 | Berseem clover | Yes | 2 ft | Mild winters only |
 | Rye | No | 3-6 ft | Hardy to -10°F |
 | Annual ryegrass | No | 2-4 ft | Many soils |
@@ -72,7 +72,7 @@ Planted spring or summer; tilled or mowed before seed set.
 
 ## Perennial Cover Crops
 
-Excellent for no-till gardens; mowed to generate mulch and compost. Shorter varieties like white Dutch clover can be used as living mulch interplanted with other crops.
+Excellent for no-till gardens; mowed to generate mulch and [[compost]]. Shorter varieties like white Dutch clover can be used as living mulch interplanted with other crops.
 
 | Crop | N-fixer | Height | Notes |
 |------|---------|--------|-------|

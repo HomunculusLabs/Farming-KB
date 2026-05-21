@@ -65,7 +65,7 @@ Large bins where worms work from the top down. Finished castings are harvested f
 - Can dry out in arid climates without regular watering
 - Initial startup takes longer to establish full worm population
 
-**Build Notes:** The bottom grate should have 1/4-inch gaps — large enough for castings to pass but small enough to retain most worms. Bars across the bottom are scraped with a tool to drop finished compost.
+**Build Notes:** The bottom grate should have 1/4-inch gaps — large enough for castings to pass but small enough to retain most worms. Bars across the bottom are scraped with a tool to drop finished [[compost]].
 
 ## Worm Towers
 
@@ -113,13 +113,13 @@ Commercial systems like the Worm Factory or Can-O-Worms use multiple stacked tra
 ## Worm Species
 
 Most homestead bins use one of two species:
-- **Eisenia fetida (Red Wigglers):** Most common, hardy, reproduce quickly, tolerate a wide range of conditions
+- **[[eisenia-fetida]] (Red Wigglers):** Most common, hardy, reproduce quickly, tolerate a wide range of conditions
 - **Eisenia hortensis (European Nightcrawlers):** Larger, prefer cooler temperatures, good for garden beds
 
 ## Related Concepts
 
-- [[vermicomposting]] — Detailed guide on worm composting process and management
-- [[composting-methods-comparison]] — General composting methods including thermophilic composting as an alternative or complement to vermicomposting
+- [[vermicomposting]] — Detailed guide on worm [[composting]] process and management
+- [[composting-methods-comparison]] — General composting methods including [[thermophilic-composting]] as an alternative or complement to vermicomposting
 - [[cannabis-living-soil-guide]] — How worm castings contribute to living soil biology
 
 ## Key Maintenance Tips

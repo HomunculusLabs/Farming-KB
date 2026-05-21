@@ -15,7 +15,7 @@ Echinacea, commonly known as purple coneflower, is one of the most
 commercially important medicinal herbs in North America. Native to the
 prairies and open woodlands of central and eastern North America, echinacea
 has been used by Indigenous peoples for centuries and is now one of the most
-widely used immune-supporting herbs in Western herbal medicine. Three species
+widely used immune-supporting herbs in Western [[herbal-medicine]]. Three species
 are primarily used medicinally: E. purpurea, E. angustifolia, and E. pallida.
 
 ## Species Comparison
@@ -69,7 +69,7 @@ but performs best in moderately fertile, slightly alkaline to neutral soil
 ### Soil Preparation
 Prepare beds by loosening soil to a depth of 12-18 inches. For root harvest
 species (E. angustifolia), deeper soil preparation (18-24 inches) encourages
-the development of large, harvestable taproots. Incorporate compost but avoid
+the development of large, harvestable taproots. Incorporate [[compost]] but avoid
 excessive nitrogen, which promotes foliage at the expense of root development.
 
 ### Propagation
@@ -114,7 +114,7 @@ Echinacea is relatively trouble-free but watch for:
 - Aster yellows: A phytoplasma disease causing green, distorted flowers.
   Remove and destroy infected plants immediately.
 - Japanese beetles: May defoliate plants; handpick or use neem.
-- Powdery mildew: Improve air circulation and avoid overhead watering.
+- [[powdery-mildew]]: Improve air circulation and avoid overhead watering.
 - Root rots: Prevent by ensuring excellent drainage.
 
 ## Harvesting

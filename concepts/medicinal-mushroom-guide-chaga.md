@@ -11,7 +11,7 @@ sources: []
 
 ## Overview
 
-Chaga is a sterile conk (sclerotium) that forms on living birch trees (Betula species) in cold climates across the Northern Hemisphere — Siberia, Canada, Scandinavia, northern United States, and parts of Asia. It is not a typical mushroom fruiting body but rather a dense mass of mycelium that slowly parasitizes the birch tree over 10-15+ years.
+Chaga is a sterile conk (sclerotium) that forms on living birch trees (Betula species) in cold climates across the Northern Hemisphere — Siberia, Canada, Scandinavia, northern United States, and parts of Asia. It is not a typical mushroom fruiting body but rather a dense mass of [[mycelium]] that slowly parasitizes the birch tree over 10-15+ years.
 
 Chaga has been used for centuries in Siberian, Russian, and Scandinavian folk medicine as a general health tonic, digestive aid, and cancer remedy. It is one of the most antioxidant-rich substances found in nature.
 
@@ -20,7 +20,7 @@ Chaga has been used for centuries in Siberian, Russian, and Scandinavian folk me
 - **Betulin and betulinic acid:** Triterpenes derived from the birch tree host. Betulinic acid has demonstrated anti-tumor, anti-inflammatory, and antiviral properties in research.
 - **Melanin:** The dark black exterior of chaga is essentially concentrated melanin, providing potent antioxidant and radioprotective effects.
 - **Beta-glucans (polysaccharides):** Immune-modulating compounds, though at lower concentrations than turkey tail or reishi.
-- **Superoxide dismutase (SOD):** Enzyme with powerful antioxidant activity.
+- **Superoxide dismutase (SOD):** [[enzyme]] with powerful antioxidant activity.
 - **Inotodiol:** Triterpene specific to Inonotus species with anti-inflammatory and anti-tumor activity.
 - **Polyphenols:** Including vanillic acid, syringic acid, and protocatechuic acid.
 
@@ -48,7 +48,7 @@ Chaga is renowned for its exceptional antioxidant profile:
 
 ### Blood Sugar Regulation
 - Reduces blood glucose levels in diabetic animal models.
-- Inhibits alpha-glucosidase enzyme, slowing carbohydrate absorption (similar to some diabetes drugs).
+- Inhibits alpha-glucosidase enzyme, slowing [[carbohydrate]] absorption (similar to some diabetes drugs).
 - Protects pancreatic beta cells from oxidative damage.
 
 ### Skin Health
@@ -74,7 +74,7 @@ The most common preparation. Essential for extracting water-soluble polysacchari
 
 ### Chaga Tincture (Alcohol Extraction)
 Alcohol extracts the triterpenes (betulinic acid, inotodiol) and sterols that water cannot:
-- Macerate chaga powder in 40-50% ethanol for 4-8 weeks.
+- Macerate chaga powder in 40-50% [[ethanol]] for 4-8 weeks.
 - Higher alcohol percentages extract more triterpenes but fewer polysaccharides.
 - Typically combined with water extract for dual extraction.
 
@@ -114,7 +114,7 @@ This is critical — chaga is extremely slow-growing:
 - Take no more than 20-30% of the visible conk. Leave the majority to continue growing and allow the tree to survive.
 - Leave at least 2-3 inches of chaga attached to the tree.
 - Never harvest from the same tree more than once every 3-5 years.
-- Do not harvest the rare sterile conk from trees that also show fruiting bodies (Inonotus obliquus fruiting bodies indicate the tree is dying).
+- Do not harvest the rare sterile conk from trees that also show fruiting bodies ([[inonotus-obliquus]] fruiting bodies indicate the tree is dying).
 
 ## Sustainability Concerns
 

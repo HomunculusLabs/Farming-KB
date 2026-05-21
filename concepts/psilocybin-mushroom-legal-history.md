@@ -15,11 +15,11 @@ sources:
 
 # Psilocybin Mushroom Legal History
 
-The legal status of psilocybin mushrooms has shifted dramatically from unrestricted traditional indigenous use to global prohibition, and now to early movements toward decriminalization and medical legalization.
+The legal status of [[psilocybin-mushrooms]] has shifted dramatically from unrestricted traditional indigenous use to global prohibition, and now to early movements toward decriminalization and medical legalization.
 
 ## Pre-Prohibition Era (Pre-1960s)
 
-Before the 1960s, psilocybin mushrooms were not controlled substances anywhere. Sandoz Laboratories distributed synthetic psilocybin (brand name Indocybin) and LSD (brand name Delysid) free of charge to qualified researchers worldwide for over a decade. The political climate of the late 1950s was permissive enough that scientists openly self-experimented with psychedelics and published their findings in peer-reviewed journals without fear of censure.
+Before the 1960s, [[psilocybin]] mushrooms were not controlled substances anywhere. Sandoz Laboratories distributed synthetic psilocybin (brand name Indocybin) and LSD (brand name Delysid) free of charge to qualified researchers worldwide for over a decade. The political climate of the late 1950s was permissive enough that scientists openly self-experimented with psychedelics and published their findings in peer-reviewed journals without fear of censure.
 
 Indigenous mushroom use in Oaxaca, Mexico was unregulated and had been continuous for centuries.
 
@@ -33,17 +33,17 @@ The transformation of LSD and psilocybin from research tools to "inebriating dru
 
 ## The UK (1968-Present)
 
-- **1968**: The UK Dangerous Drugs Act placed psilocybin and psilocin in Class A, the most restrictive category. Possession of the chemical compounds became a serious criminal offense.
+- **1968**: The UK Dangerous Drugs Act placed psilocybin and [[psilocin]] in Class A, the most restrictive category. Possession of the chemical compounds became a serious criminal offense.
 - **2005**: The Drugs Act 2005 amended UK law to explicitly criminalize the possession and sale of fresh psilocybin mushrooms, closing a loophole where fresh mushrooms had technically been legal (only the dried preparations containing psilocybin having been scheduled).
 
 ## United States (1970-Present)
 
 - **1970**: The Controlled Substances Act placed psilocybin and psilocin in **Schedule I**, defined as having "no currently accepted medical use" and "a high potential for abuse." This made possession, cultivation, and distribution of the mushrooms or their active compounds federal crimes.
-- The scheduling effectively ended clinical psychedelic research in the United States for decades. What research continued shifted to mycology (describing new species), ethnobotany (studying indigenous use in distant cultures), and pharmacology -- disciplines that could proceed without censure.
+- The scheduling effectively ended clinical psychedelic research in the United States for decades. What research continued shifted to [[mycology]] (describing new species), ethnobotany (studying indigenous use in distant cultures), and pharmacology -- disciplines that could proceed without censure.
 
 ## International Scheduling (1971)
 
-- **1971**: The **United Nations Convention on Psychotropic Substances** was adopted in Vienna. Psilocybin and psilocin were placed in **Schedule I** of the Convention, requiring all signatory nations to control them. This was the key instrument of global prohibition, paralleling the earlier 1961 Single Convention on Narcotic Drugs that had addressed cannabis, cocaine, and opioids.
+- **1971**: The **United Nations Convention on Psychotropic Substances** was adopted in Vienna. Psilocybin and psilocin were placed in **Schedule I** of the Convention, requiring all signatory nations to control them. This was the key instrument of global prohibition, paralleling the earlier 1961 Single Convention on Narcotic Drugs that had addressed cannabis, [[cocaine]], and opioids.
 - Most nations enacted domestic laws to comply with the Convention during the 1970s.
 
 ## Global Variation
@@ -76,7 +76,7 @@ A growing movement seeks to reverse prohibition:
 - [[psychedelic-harm-reduction]] for practical guidance under current legal frameworks
 ## Current Research
 
-Recent studies on psilocybin mushroom legal history have explored novel approaches and expanded our understanding of underlying mechanisms.
+Recent studies on [[psilocybin-mushroom]] legal history have explored novel approaches and expanded our understanding of underlying mechanisms.
 Researchers continue to investigate optimal parameters and conditions that influence outcomes in this area.
 
 ## Practical Considerations

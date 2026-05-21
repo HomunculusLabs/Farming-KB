@@ -11,7 +11,7 @@ sources: [raw/papers/hamilton-geoffhamilton-nick_-organic-gardening.md]
 
 ## Overview
 
-Apart from compost and manure, many organic materials can be dug into soil or used as mulch to help improve drainage or water-holding capacity, depending on the soil type. These materials should be looked upon primarily as soil conditioners; although some contain plant nutrients, they are not present in large enough quantities to replace fertilizers.
+Apart from [[compost]] and manure, many organic materials can be dug into soil or used as mulch to help improve drainage or water-holding capacity, depending on the soil type. These materials should be looked upon primarily as soil conditioners; although some contain plant nutrients, they are not present in large enough quantities to replace fertilizers.
 
 ## Conditioner Types
 
@@ -23,7 +23,7 @@ Apart from compost and manure, many organic materials can be dug into soil or us
 - Slightly alkaline (contains ground chalk) — never use on acid-loving plants (rhododendrons, azaleas, heathers)
 - Leave for at least a year before use to leach out chemical insecticides and harbor pests (fungus gnats)
 - After a year: consistency of coarse peat
-- Mushroom growers normally add gypsum, which helps bind clay particles — ideal for heavy clay soils
+- Mushroom growers normally add [[gypsum]], which helps bind clay particles — ideal for heavy clay soils
 - Use sparingly around plants (can badly scorch young shoots)
 
 ### Kelp (Fresh Seaweed)
@@ -49,7 +49,7 @@ Apart from compost and manure, many organic materials can be dug into soil or us
 - If bought directly from brewery: wet, can be dug in fresh or spread as mulch
 - If dry: more of a nitrogen fertilizer
 - Keep fresh hops away from stems and leaves of young plants to avoid scorching
-- Composting not necessary but possible
+- [[composting]] not necessary but possible
 
 ### Wool Shoddy
 
@@ -64,7 +64,7 @@ Apart from compost and manure, many organic materials can be dug into soil or us
 
 - **Nutrient content:** N -- | P -- | K -- | Trace elements: --
 - Normally sold partly composted; contains virtually no nutrients
-- **Best used as mulch only** — digging it in can cause severe nitrogen deficiency (lignin takes a long time to break down, bacteria consume nitrogen in the process)
+- **Best used as mulch only** — digging it in can cause severe nitrogen deficiency ([[lignin]] takes a long time to break down, bacteria consume nitrogen in the process)
 - Very expensive; very hard material in virtually unrotted state
 - Excellent mulch for organic weed control
 - **Coverage:** 2-3in (5-7cm) layer as weed suppressant in ornamental borders

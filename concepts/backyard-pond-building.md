@@ -93,22 +93,22 @@ Natural biological filtration is preferred for backyard ponds:
 
 ### Submerged Oxygenators
 
-- Hornwort (Ceratophyllum demersum) — very effective, no roots needed
+- Hornwort ([[ceratophyllum-demersum]]) — very effective, no roots needed
 - Elodea (Egeria densa) — excellent oxygenator, can be invasive
 - Anacharis (Egeria najas) — easy to grow, good for beginners
 
 ### Floating Plants
 
-- Water hyacinth (Eichhornia crassipes) — excellent nutrient uptake but invasive; contain in ponds that freeze overwinter
-- Water lettuce (Pistia stratiotes) — good shade plant, also invasive in warm climates
+- Water hyacinth ([[eichhornia-crassipes]]) — excellent nutrient uptake but invasive; contain in ponds that freeze overwinter
+- Water lettuce ([[pistia-stratiotes]]) — good shade plant, also invasive in warm climates
 - Duckweed (Lemna spp.) — tiny floating plant, excellent nutrient scrubber, provides fish food
 
 ### Marginal/Bog Plants
 
-- Blue flag iris (Iris versicolor)
-- Pickerelweed (Pontederia cordata)
+- Blue flag iris ([[iris-versicolor]])
+- Pickerelweed ([[pontederia-cordata]])
 - Cattails (Typha spp.) — vigorous spreader, contain with root barriers
-- Sweet flag (Acorus calamus)
+- Sweet flag ([[acorus-calamus]])
 - Water mint (Mentha aquatica)
 
 ### Water Lilies

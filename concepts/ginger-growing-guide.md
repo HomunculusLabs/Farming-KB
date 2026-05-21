@@ -21,7 +21,7 @@ high tunnels with proper management.
 
 ## Botanical Profile
 
-- Scientific name: Zingiber officinale
+- Scientific name: [[zingiber-officinale]]
 - Family: Zingiberaceae
 - Hardiness: USDA zones 9-12 (grown as an annual or container plant elsewhere)
 - Lifecycle: Perennial in tropics; annual in temperate climates
@@ -90,7 +90,7 @@ Ginger thrives in warm, humid, tropical and subtropical conditions:
 ### Soil Preparation
 Ginger requires loose, rich, well-drained soil. Compacted soil produces
 small, deformed rhizomes. Prepare raised beds or mounded rows 6-12 inches
-high. Work in generous amounts of compost, well-rotted manure, or leaf mold.
+high. Work in generous amounts of [[compost]], well-rotted manure, or leaf mold.
 A pH of 5.5-6.5 is ideal. Ensure excellent drainage -- waterlogged soil
 causes rhizome rot.
 
@@ -114,7 +114,7 @@ From rhizomes (primary method):
 
 ### Care
 - Keep soil consistently moist but not waterlogged
-- Fertilize every 4-6 weeks with compost tea, fish emulsion, or balanced
+- Fertilize every 4-6 weeks with compost tea, [[fish-emulsion]], or balanced
   organic fertilizer
 - Foliar feed monthly during active growth
 - Ginger is relatively pest-free; watch for rhizome rot in poorly drained
@@ -124,7 +124,7 @@ From rhizomes (primary method):
 
 ## Greenhouse and Container Growing
 
-For temperate climates, greenhouse or high tunnel production is the most
+For temperate climates, greenhouse or [[high-tunnel]] production is the most
 reliable approach:
 
 - Use large containers (minimum 10-15 gallons) or raised beds
@@ -132,7 +132,7 @@ reliable approach:
 - Maintain temperatures above 60 degrees F at all times
 - Provide 6-8 hours of light; supplemental grow lights help in early spring
 - Move to greenhouse or outdoors after all danger of frost has passed
-- In containers, use a well-draining potting mix with added compost and perlite
+- In containers, use a well-draining potting mix with added compost and [[perlite]]
 - Water regularly; container-grown ginger dries out faster than in-ground
 - Fertilize biweekly with liquid organic fertilizer during active growth
 

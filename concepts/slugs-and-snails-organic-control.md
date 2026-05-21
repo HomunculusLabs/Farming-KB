@@ -12,7 +12,7 @@ sources:
 
 ## The Problem
 
-The non-indigenous Spanish slug (*Arion vulgaris*) breeds on an enormous scale in many regions. Sepp Holzer found up to 15 slugs per square metre on farms and vegetable plots in Southern Styria and Lower Austria. Cattle would no longer graze because the grass was so full of them. In town gardens, slugs crawl up house walls all the way to balconies, forcing removal of espalier trees and climbing plants.
+The non-indigenous Spanish slug (*Arion vulgaris*) breeds on an enormous scale in many regions. [[sepp-holzer]] found up to 15 slugs per square metre on farms and vegetable plots in Southern Styria and Lower Austria. Cattle would no longer graze because the grass was so full of them. In town gardens, slugs crawl up house walls all the way to balconies, forcing removal of espalier trees and climbing plants.
 
 ## Sawdust Barrier Method
 
@@ -52,7 +52,7 @@ This method also demonstrates how improper use of mulch (fresh material, piled t
 ## Related
 
 - [[insect-allies]] -- biological helpers in the garden
-- [[holzer-livestock-integration]] -- pigs as helpers in permaculture systems
+- [[holzer-livestock-integration]] -- pigs as helpers in [[permaculture]] systems
 - [[sheet-mulching]] -- proper mulch technique to avoid creating slug habitat
 ## Historical Context
 
@@ -72,7 +72,7 @@ Interdisciplinary approaches have proven particularly valuable in advancing our 
 Applied work with slugs and snails organic control spans multiple contexts and scales, from small-scale operations to industrial applications.
 Successful implementation requires attention to site-specific conditions and adaptive management strategies.
 Practitioners benefit from integrating both empirical observations and systematic monitoring.
-Economic viability often depends on careful resource allocation and appropriate technology selection.
+Economic viability often depends on careful resource allocation and [[appropriate-technology]] selection.
 
 ## Future Directions
 

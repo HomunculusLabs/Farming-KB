@@ -17,7 +17,7 @@ Wireworms bore into seeds before germination, tunnel into potato tubers and carr
 
 ## Biological Control: Parasitic Nematodes
 
-According to Steve Solomon's research (referencing the work of Blair), certain species of parasitic nematodes effectively attack wireworms in the soil. When large numbers of these microscopic life forms are seeded into the soil surrounding seedlings, they can live for months, breeding and maintaining fairly effective population levels for a while, actively knocking off wireworms as they hatch.
+According to [[steve-solomon]]'s research (referencing the work of Blair), certain species of parasitic nematodes effectively attack wireworms in the soil. When large numbers of these microscopic life forms are seeded into the soil surrounding seedlings, they can live for months, breeding and maintaining fairly effective population levels for a while, actively knocking off wireworms as they hatch.
 
 Parasitic nematodes will also control:
 - Onion maggots
@@ -69,7 +69,7 @@ Interdisciplinary approaches have proven particularly valuable in advancing our 
 Applied work with wireworm control spans multiple contexts and scales, from small-scale operations to industrial applications.
 Successful implementation requires attention to site-specific conditions and adaptive management strategies.
 Practitioners benefit from integrating both empirical observations and systematic monitoring.
-Economic viability often depends on careful resource allocation and appropriate technology selection.
+Economic viability often depends on careful resource allocation and [[appropriate-technology]] selection.
 
 ## Future Directions
 

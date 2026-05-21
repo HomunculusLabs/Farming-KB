@@ -22,7 +22,7 @@ sources:
 
 # Log Cultivation Methods
 
-From Chapter 11 of *Mycelium Running* by [[paul-stamets]]. Growing mushrooms on logs and stumps is the most traditional and long-lasting cultivation method, producing for years or even decades.
+From Chapter 11 of *[[mycelium]] Running* by [[paul-stamets]]. Growing mushrooms on logs and stumps is the most traditional and long-lasting cultivation method, producing for years or even decades.
 
 ## Choosing the Right Wood
 
@@ -35,7 +35,7 @@ The ideal trees are those the mushroom species grows upon naturally. Consult a f
 | Rapidly decomposing (alder, birch, aspen) | 6-12 months | Until bark peels | Fastest returns |
 | Medium density (oak, maple, elm) | 1-2 years | 4-7 years | Best balance |
 | Dense hardwoods (ironwood, hickory) | 2-3 years | 5-10 years | Longest production |
-| Cedar, redwood | 20+ years (aged) | Unknown | Only Hypholoma capnoides known to work |
+| Cedar, redwood | 20+ years (aged) | Unknown | Only [[hypholoma-capnoides]] known to work |
 
 ### Key Principles
 - Oak is the natural host for shiitake, but alder, eucalyptus, and other fast-decomposing hardwoods are readily colonized
@@ -73,13 +73,13 @@ The standard method for homeowners and small-scale growers:
 - Korean equipment can auto-insert and cap in a single pass
 
 ### Wafer Spawn
-- Thin cellulose wafers grown through with mycelium
+- Thin [[cellulose]] wafers grown through with mycelium
 - Inserted into cuts in the log or stump
 - Innovative Japanese method; equipment sized for quick insertion
 
 ### Combination Method
 Using multiple inoculation strategies simultaneously:
-- Spores in chain-saw bar oil + plug/sawdust spawn of matching strain
+- Spores in chain-saw bar oil + plug/[[sawdust-spawn]] of matching strain
 - Overcomes resistance barriers through synergistic complementary inoculations
 - Recommended when single methods fail
 

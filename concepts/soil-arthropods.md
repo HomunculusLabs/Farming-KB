@@ -15,7 +15,7 @@ Soil arthropods are invertebrate animals with jointed legs and exoskeletons that
 
 ### Mites (Acari)
 - The most numerous soil arthropods (100,000+ per square meter in healthy soil)
-- **Oribatid mites**: Slow-moving decomposers that break down tough plant material, fungi, and humus. They are the earthworms of the microscopic world — slow but essential
+- **[[oribatid-mites]]**: Slow-moving decomposers that break down tough plant material, fungi, and humus. They are the [[earthworms]] of the microscopic world — slow but essential
 - **Predatory mites**: Hunt nematodes, springtails, and other small organisms
 - Key role in nutrient cycling and humus formation
 
@@ -23,14 +23,14 @@ Soil arthropods are invertebrate animals with jointed legs and exoskeletons that
 - Small (1-2mm), primitive insects that jump using a forked appendage
 - 10,000-100,000 per square meter in healthy soil
 - Feed on fungi, decaying plant material, and bacteria
-- Important fungal grazers — stimulate fungal growth by pruning mycelium
+- Important fungal grazers — stimulate fungal growth by pruning [[mycelium]]
 - Indicate healthy soil with good organic matter
 
 ### Beetles (Coleoptera)
 - **Ground beetles (Carabidae)**: Predators that hunt slugs, cutworms, root maggots, and other soil pests at night. Essential biological control agents
-- **Rove beetles (Staphylinidae)**: Predators in compost and rich soil
+- **Rove beetles (Staphylinidae)**: Predators in [[compost]] and rich soil
 - **Dung beetles (Scarabaeidae)**: Bury and decompose animal manure, incorporating nutrients into soil
-- Encourage ground beetles with stone mulch, ground cover, and reduced tillage
+- Encourage ground beetles with [[stone-mulch]], ground cover, and reduced tillage
 
 ### Ants (Formicidae)
 - Mix and aerate soil through tunneling (especially in grasslands and forests)
@@ -51,7 +51,7 @@ Soil arthropods are invertebrate animals with jointed legs and exoskeletons that
 ## Ecological Roles
 
 ### Nutrient Cycling
-- Arthropods fragment coarse organic matter, increasing surface area for microbial decomposition
+- Arthropods fragment coarse organic matter, increasing surface area for microbial [[decomposition]]
 - Their gut microbes digest complex compounds (lignin, cellulose)
 - Frass and dead bodies add readily-available nutrients to the soil
 
@@ -62,7 +62,7 @@ Soil arthropods are invertebrate animals with jointed legs and exoskeletons that
 
 ### Pest Control
 - Predatory arthropods (ground beetles, centipedes, predatory mites) are the primary natural control for soil-dwelling pests
-- A healthy soil food web keeps pest populations in check
+- A healthy [[soil-food-web]] keeps pest populations in check
 
 ## How to Encourage Soil Arthropods
 - **Add organic matter**: Mulch, compost, leaf litter provide food and habitat

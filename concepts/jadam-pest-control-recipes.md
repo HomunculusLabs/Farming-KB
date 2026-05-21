@@ -9,7 +9,7 @@ sources: [raw/papers/jadam-organic-farming-ultra-low-cost-agriculture.md]
 
 # JADAM Pest Control Recipes
 
-JADAM pest control relies on simple, on-farm preparations that are inexpensive, non-toxic, and effective. The foundation is the JADAM Wetting Agent (JWA), combined with plant extracts and biological agents.
+JADAM pest control relies on simple, on-farm preparations that are inexpensive, non-toxic, and effective. The foundation is the [[jadam-wetting-agent]] (JWA), combined with plant extracts and biological agents.
 
 ## JADAM Wetting Agent (JWA) — The Foundation
 
@@ -66,9 +66,9 @@ JADAM pest control relies on simple, on-farm preparations that are inexpensive, 
 4. Spray on affected plants
 
 ### Effective Against
-- Powdery mildew
+- [[powdery-mildew]]
 - Rust
-- Downy mildew
+- [[downy-mildew]]
 - Mites
 
 ## JADAM Sea Water (JSW) — Micronutrient Supplement

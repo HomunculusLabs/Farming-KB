@@ -13,11 +13,11 @@ sources: []
 
 Meshima, meaning "women's island" in Japanese, is a bracket fungus that has been used for centuries in traditional medicine across East Asia, particularly in Japan, Korea, and China. It grows as a woody, hoof-shaped conk on mulberry and other hardwood trees. The name originates from a historical account that a woman on a remote island survived what was likely cervical cancer by consuming this mushroom.
 
-Phellinus linteus is considered one of the most powerful anti-inflammatory and anti-tumor mushrooms in traditional Asian medicine, though it is less well-known in the West compared to reishi, shiitake, or turkey tail.
+[[phellinus-linteus]] is considered one of the most powerful anti-inflammatory and anti-tumor mushrooms in traditional Asian medicine, though it is less well-known in the West compared to reishi, shiitake, or turkey tail.
 
 ## Key Compounds
 
-- **Hispidin and hispolon:** Phenolic compounds unique to Phellinus species. Potent antioxidants with significant anti-tumor and anti-inflammatory activity.
+- **Hispidin and [[hispolon]]:** Phenolic compounds unique to Phellinus species. Potent antioxidants with significant anti-tumor and anti-inflammatory activity.
 - **Interferon-gamma (IFN-gamma) inducing polysaccharides:** Unique polysaccharides that specifically promote IFN-gamma production, a critical immune signaling molecule.
 - **Beta-glucans:** 1,3-beta and 1,6-beta-glucans for immune modulation.
 - **Proteoglycans:** Protein-bound polysaccharides with immunomodulatory effects.
@@ -26,7 +26,7 @@ Phellinus linteus is considered one of the most powerful anti-inflammatory and a
 
 ## Anti-Inflammatory Properties
 
-Meshima is one of the most potent anti-inflammatory medicinal mushrooms:
+Meshima is one of the most potent anti-inflammatory [[medicinal-mushrooms]]:
 
 ### Mechanisms
 - Strong inhibition of NF-kB signaling pathway, the master regulator of inflammation.
@@ -76,7 +76,7 @@ Meshima's immune effects are distinctive:
 - Hispidin and related phenolics provide powerful free radical scavenging.
 - Protects against lipid peroxidation and DNA damage.
 - Reduces oxidative stress markers in animal models.
-- Ergothioneine content contributes additional antioxidant protection.
+- [[ergothioneine]] content contributes additional antioxidant protection.
 
 ## Hepatoprotective Effects
 
@@ -99,7 +99,7 @@ Meshima's immune effects are distinctive:
 
 ### Dual Extraction Tincture
 1. Hot water extraction (60-90 min) for polysaccharides.
-2. Alcohol maceration (4-6 weeks in 40-50% ethanol) for hispidin and phenolic compounds.
+2. Alcohol maceration (4-6 weeks in 40-50% [[ethanol]]) for hispidin and phenolic compounds.
 3. Combine extracts.
 
 ### Supplements
@@ -142,9 +142,9 @@ Meshima cultivation is challenging and less developed than other medicinal mushr
 
 - Can be cultivated on hardwood sawdust substrates, though yields are lower than most commercial species.
 - Requires extended incubation periods (3-6 months colonization).
-- Fruiting conditions are not fully optimized for commercial production.
+- [[fruiting-conditions]] are not fully optimized for commercial production.
 - Most commercial meshima is still wild-harvested in Korea and China.
-- Liquid culture and submerged fermentation methods are being developed for mycelium-based products.
+- [[liquid-culture]] and submerged fermentation methods are being developed for mycelium-based products.
 
 ## Safety Considerations
 ## See Also

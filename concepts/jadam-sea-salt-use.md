@@ -14,7 +14,7 @@ Sea water and sea salt are fundamental mineral supplements in the JADAM system. 
 
 ## Why Sea Water
 
-Sea water contains approximately 100 million marine microorganisms per mL. When combined with JADAM microorganism solution (JMS) cultured from leaf mold, you essentially combine all the diversity Earth has to offer: microorganisms from land and from sea. Foliar application of JMS mixed with sea water eliminates powdery mildew.
+Sea water contains approximately 100 million marine microorganisms per mL. When combined with JADAM microorganism solution (JMS) cultured from leaf mold, you essentially combine all the diversity Earth has to offer: microorganisms from land and from sea. Foliar application of JMS mixed with sea water eliminates [[powdery-mildew]].
 
 ## Mineral Replenishment
 

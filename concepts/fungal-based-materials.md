@@ -11,7 +11,7 @@ sources: []
 
 ## Overview
 
-Fungal-based materials use mycelium — the vegetative body of fungi — as a raw material for manufacturing sustainable alternatives to conventional products. Mycelium can be grown on agricultural waste substrates to produce materials with properties comparable to polystyrene foam, leather, wood, and concrete. This emerging field represents a convergence of mycology, materials science, and sustainable design, with applications in packaging, fashion, architecture, and construction.
+Fungal-based materials use [[mycelium]] — the vegetative body of fungi — as a raw material for manufacturing sustainable alternatives to conventional products. Mycelium can be grown on [[agricultural-waste-substrates]] to produce materials with properties comparable to polystyrene foam, leather, wood, and concrete. This emerging field represents a convergence of [[mycology]], materials science, and sustainable design, with applications in packaging, fashion, architecture, and construction.
 
 ## Mycelium as a Manufacturing Material
 
@@ -22,7 +22,7 @@ Mycelium offers several unique advantages as a material:
 - Grows on waste substrates: Agricultural byproducts (straw, sawdust, corn husks, hemp hurds) serve as feedstock
 - Self-assembling: Mycelium naturally binds substrate particles into a coherent solid structure
 - Low energy: Growth occurs at ambient temperatures without synthetic chemical inputs
-- Biodegradable: End-of-life composting returns material to the soil
+- Biodegradable: End-of-life [[composting]] returns material to the soil
 - Customizable: Material properties can be tuned by varying species, substrate, density, and processing
 - Carbon-sequestering: Fungi capture carbon during growth; materials can be carbon-negative
 - Rapid growth: Full colonization of substrate typically takes 3-14 days
@@ -45,7 +45,7 @@ Ecovative, founded by Eben Bayer and Gavin McIntyre in 2007, pioneered commercia
 
 Process:
 1. Agricultural waste substrate (hemp hurds, corn stalks, wood chips) is pasteurized
-2. Mycelium spawn (typically Ganoderma species) is mixed with substrate
+2. Mycelium spawn (typically [[ganoderma]] species) is mixed with substrate
 3. Mixture is placed into molds shaped for the intended product (wine shippers, electronics packaging, custom shapes)
 4. Mycelium grows through the substrate over 3-7 days, binding it into a solid structure
 5. Grown material is removed from mold and heat-treated to stop growth and ensure biological stability

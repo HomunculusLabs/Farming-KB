@@ -23,7 +23,7 @@ sources:
 
 # Cannabis Root Microbiome
 
-The cannabis root microbiome is the community of microorganisms associated with cannabis roots, spanning three compartments: bulk soil (surrounding soil), rhizosphere (soil adhering to roots), and endorhiza (microbes colonized inside root tissue). Research by Winston et al. (2014) provides the foundational characterization of this system and reveals how cannabis assembles its microbial partners through a two-tier selection process.
+The cannabis root microbiome is the community of microorganisms associated with cannabis roots, spanning three compartments: bulk soil (surrounding soil), [[rhizosphere]] (soil adhering to roots), and endorhiza (microbes colonized inside root tissue). Research by Winston et al. (2014) provides the foundational characterization of this system and reveals how cannabis assembles its microbial partners through a two-tier selection process.
 
 ## The Three Compartments
 
@@ -31,7 +31,7 @@ The cannabis root microbiome is the community of microorganisms associated with 
 The general soil environment surrounding the root zone. Microbial communities here are shaped almost entirely by edaphic (soil) factors — not by the plant. This is the "reservoir" from which cannabis recruits its root associates.
 
 ### Rhizosphere
-The thin layer of soil (1-2mm) directly adhering to root surfaces. Root exudates (sugars, amino acids, organic acids) create a nutrient-rich zone that shifts microbial community composition from bulk soil. However, the rhizosphere is still primarily shaped by soil type rather than plant genotype.
+The thin layer of soil (1-2mm) directly adhering to root surfaces. [[root-exudates]] (sugars, amino acids, organic acids) create a nutrient-rich zone that shifts microbial community composition from bulk soil. However, the rhizosphere is still primarily shaped by soil type rather than plant genotype.
 
 ### Endorhiza (Root Interior)
 Microbes that have colonized inside root tissue. This is where cultivar-specificity becomes dominant. The plant's immune system selectively allows certain microbes inside, and different cannabis varieties recruit different endorhiza communities. Endorhiza bacteria provide phytohormones, enzymes for regulating growth and metabolism, and help plants tolerate environmental stressors.
@@ -85,8 +85,8 @@ A consistent set of microbial taxa found inside cannabis roots across cultivars 
 
 | Taxon | Role |
 |-------|------|
-| **Pseudomonas** | PGPR, phosphate solubilization, disease suppression, phytohormone production |
-| **Cellvibrio** | Aerobic cellulolytic bacterium — degrades cellulose, recycles carbon |
+| **[[pseudomonas]]** | PGPR, phosphate solubilization, disease suppression, phytohormone production |
+| **[[cellvibrio]]** | Aerobic cellulolytic bacterium — degrades [[cellulose]], recycles carbon |
 | **Oxalobacteraceae** | Organic acid metabolism, nutrient cycling |
 | **Xanthomonadaceae** | Diverse metabolic capabilities |
 | **Rhizobiales** | Nitrogen fixation potential |
@@ -101,14 +101,14 @@ All prevalent members except Cellvibrio are well-known endophytic bacteria, prim
 
 ### Bookoo Kush
 - High abundance of Methylophilus (13% of endorhiza community)
-- Methylophilus is a methylotrophic bacterium — consumes methanol, a byproduct of plant cell wall metabolism
+- Methylophilus is a methylotrophic bacterium — consumes [[methanol]], a byproduct of plant cell wall metabolism
 
 ### Maui Wowie
 - Prevalence of Sphingomonas wittichii
 - This species can metabolize phenazine-1-carboxylic acid and has been implicated in increased survival in soil environments
 
 ### Sour Diesel and Burmese
-- Methylophilus nearly absent (0.13% in Burmese, 0% in Sour Diesel)
+- Methylophilus nearly absent (0.13% in Burmese, 0% in [[sour-diesel]])
 - Demonstrates that cultivar chemistry selects for different microbial partners
 
 ## Cannabinoid-Microbiome Connection

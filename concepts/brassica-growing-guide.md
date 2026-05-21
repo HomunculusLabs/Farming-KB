@@ -82,7 +82,7 @@ Brassicas are typically started indoors and transplanted, rather than direct-sow
 ### Soil Preparation
 - Rich, fertile soil with plenty of organic matter
 - pH 6.0-7.0
-- Brassicas are heavy feeders — work in 2-3 inches of compost plus balanced organic fertilizer
+- Brassicas are heavy feeders — work in 2-3 inches of [[compost]] plus balanced organic fertilizer
 - Ensure adequate calcium to prevent clubroot
 - Avoid following other brassicas in the same bed (3-4 year rotation minimum)
 
@@ -95,7 +95,7 @@ Brassicas are notorious for attracting pests. Prevention and early intervention 
 - Green caterpillars chew holes in leaves and bore into heads
 - Management:
   - Floating row covers prevent egg-laying (most effective)
-  - Bacillus thuringiensis (Bt) applied to leaves kills caterpillars
+  - [[bacillus-thuringiensis]] (Bt) applied to leaves kills caterpillars
   - Handpick caterpillars in small plantings
   - Companion plant with thyme, dill, or mint (may deter egg-laying)
   - Neem oil or spinosad sprays as secondary options
@@ -122,12 +122,12 @@ Brassicas are notorious for attracting pests. Prevention and early intervention 
 - Tiny jumping beetles that shotgun small holes in leaves
 - Worst on young seedlings
 - Floating row covers on seedlings are the best prevention
-  - kaolin clay (Surround WP) sprayed on leaves as a deterrent
+  - [[kaolin]] clay (Surround WP) sprayed on leaves as a deterrent
   - Plants outgrow damage once established
 
 ### Slugs and Snails
 - Feed on leaves at night; leave slime trails
-- Beer traps, diatomaceous earth, copper tape barriers
+- Beer traps, [[diatomaceous-earth]], copper tape barriers
   - Handpick at night with a flashlight
 
 ### Integrated Pest Management Summary

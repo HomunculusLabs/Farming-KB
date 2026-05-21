@@ -40,7 +40,7 @@ Infect keratinized tissues (skin, hair, nails):
 
 ### Mucocutaneous Mycoses
 
-- **Oral candidiasis (thrush)**: White pseudomembranous plaques on oral mucosa caused by Candida albicans and other Candida species. Common in infants, immunocompromised patients, and those using inhaled corticosteroids
+- **Oral candidiasis (thrush)**: White pseudomembranous plaques on oral mucosa caused by [[candida-albicans]] and other Candida species. Common in infants, immunocompromised patients, and those using inhaled corticosteroids
 - **Vulvovaginal candidiasis**: Vaginal itching, discharge, and irritation; affects ~75% of women at least once. C. albicans causes 80-90% of cases; C. glabrata and C. tropicalis are less common but more resistant to azole treatment
 - **Intertrigo**: Candida infection in skin folds; erythematous, macerated lesions with satellite pustules
 
@@ -87,7 +87,7 @@ Candida species are commensal organisms in the human microbiome (gastrointestina
 
 ### Aspergillosis
 
-Caused primarily by Aspergillus fumigatus (~90% of cases), with A. flavus, A. niger, and A. terreus also pathogenic.
+Caused primarily by [[aspergillus-fumigatus]] (~90% of cases), with A. flavus, A. niger, and A. terreus also pathogenic.
 
 **Clinical presentations**:
 - **Invasive pulmonary aspergillosis (IPA)**: Most common form. Affects immunocompromised patients (neutropenia, transplant recipients, chronic corticosteroid use). Presents with fever, cough, pleuritic chest pain, hemoptysis. CT shows characteristic halo sign or air-crescent sign. Mortality 40-80%
@@ -104,7 +104,7 @@ Caused primarily by Aspergillus fumigatus (~90% of cases), with A. flavus, A. ni
 
 ### Cryptococcosis
 
-Caused by encapsulated yeast Cryptococcus neoformans and C. gattii.
+Caused by encapsulated yeast [[cryptococcus-neoformans]] and C. gattii.
 
 **Risk factors**: HIV/AIDS (CD4 < 100 cells/μL), organ transplantation, corticosteroid use, sarcoidosis. C. gattii can infect immunocompetent individuals.
 
@@ -120,7 +120,7 @@ Caused by encapsulated yeast Cryptococcus neoformans and C. gattii.
 
 ### Mucormycosis
 
-Caused by fungi in the order Mucorales (Rhizopus, Mucor, Lichtheimia, Cunninghamella). Aggressive, rapidly progressive infection.
+Caused by fungi in the order Mucorales ([[rhizopus]], Mucor, Lichtheimia, Cunninghamella). Aggressive, rapidly progressive infection.
 
 **Risk factors**: Diabetic ketoacidosis, neutropenia, iron overload (deferoxamine therapy), transplantation, prolonged corticosteroid use.
 

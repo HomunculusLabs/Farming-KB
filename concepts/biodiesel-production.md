@@ -16,7 +16,7 @@ Biodiesel is a renewable diesel fuel substitute made through transesterification
 Biodiesel production converts triglycerides (the main component of vegetable oils) into fatty acid methyl esters (FAME) — biodiesel — and glycerin as a byproduct.
 
 The reaction:
-- Vegetable oil (triglyceride) + Methanol + Catalyst (sodium hydroxide or potassium hydroxide) = Biodiesel (FAME) + Glycerin
+- Vegetable oil (triglyceride) + [[methanol]] + Catalyst (sodium hydroxide or potassium hydroxide) = Biodiesel (FAME) + Glycerin
 
 For every liter of oil, you need approximately:
 - 200ml methanol (20% by volume)
@@ -54,7 +54,7 @@ Titration determines how much catalyst is needed for your specific batch of oil.
 
 ### Titration Procedure (NaOH method)
 
-1. Dissolve 1 gram of NaOH in 1 liter of distilled water (isopropyl alcohol solution)
+1. Dissolve 1 gram of NaOH in 1 liter of distilled water ([[isopropyl-alcohol]] solution)
 2. In a separate container, mix 1ml of oil with 10ml of isopropyl alcohol
 3. Add the NaOH solution drop by drop to the oil-alcohol mixture while stirring
 4. Count the drops until the solution turns pink and stays pink for 20 seconds

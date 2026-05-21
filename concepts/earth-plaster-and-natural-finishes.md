@@ -9,7 +9,7 @@ sources: []
 
 # Earth Plaster and Natural Finishes
 
-Natural wall finishes protect building surfaces while maintaining breathability. Unlike conventional paint and gypsum plaster, natural finishes allow moisture vapor to pass through walls, preventing trapped moisture that causes mold and decay. This is essential for earth, straw, and timber-based buildings.
+Natural wall finishes protect building surfaces while maintaining breathability. Unlike conventional paint and [[gypsum]] plaster, natural finishes allow moisture vapor to pass through walls, preventing trapped moisture that causes mold and decay. This is essential for earth, straw, and timber-based buildings.
 
 ## Why Natural Finishes Matter
 
@@ -33,7 +33,7 @@ A typical earthen plaster mix by volume:
 - **Clay-rich soil:** 1 part (the binder)
 - **Sand:** 2-3 parts (prevents cracking)
 - **Fiber:** 0.5 part chopped straw, cattail fluff, or horse manure (tensile strength)
-- **Water:** enough to achieve workable consistency (like thick cake batter)
+- **Water:** enough to achieve workable consistency (like thick [[cake-batter]])
 
 ### Application Process
 
@@ -113,7 +113,7 @@ Alis is a traditional earthen finish coat from the American Southwest, used on a
 
 ### Recipe
 
-- **Clay soil (fine):** 1 part
+- **[[clay-soil]] (fine):** 1 part
 - **Fine sand:** 0.5-1 part (optional, for reducing shrinkage)
 - **Water:** enough for a creamy consistency
 - **Additives (choose some):** wheat paste (1/4 cup per gallon), cactus juice (prickly pear pad extract), borax (1/4 cup), linseed oil (1/4 cup), milk (1 cup), or manure (1 cup)

@@ -57,7 +57,7 @@ feeds, and practical formulation for homestead-scale operations.
 - Calcium:Phosphorus ratio should be 2:1 to 1:1 (widening ratios cause
   problems).
 - Selenium is deficient in many soils — supplement critical for sheep and
-  cattle (white muscle disease in young animals).
+  cattle ([[white-muscle-disease]] in young animals).
 - Copper requirements vary by species: sheep are very sensitive to copper
   toxicity; goats and cattle need more.
 - Always provide free-choice loose mineral formulated for the specific
@@ -91,13 +91,13 @@ feeds, and practical formulation for homestead-scale operations.
   high. Good for cattle in warm climates.
 
 ### Protein Supplements
-- **Soybean meal:** The standard protein supplement. 44-48% CP. Excellent
+- **[[soybean-meal]]:** The standard protein supplement. 44-48% CP. Excellent
   amino acid profile for monogastrics. Widely available.
-- **Canola meal:** 36-38% CP. Good alternative to soybean meal.
-- **Cottonseed meal:** 41-44% CP. Good for cattle. Contains gossypol (toxic
+- **Canola meal:** 36-38% CP. Good alternative to [[soybean]] meal.
+- **[[cottonseed-meal]]:** 41-44% CP. Good for cattle. Contains gossypol (toxic
   to monogastrics at high levels).
 - **Distillers grains (DDGS):** 25-30% CP, high energy and fat. Byproduct
-  of ethanol production. Good for cattle.
+  of [[ethanol]] production. Good for cattle.
 - **Linseed (flaxseed) meal:** 34-36% CP. Good for ruminants. Adds omega-3
   fatty acids.
 
@@ -146,7 +146,7 @@ feeds, and practical formulation for homestead-scale operations.
 - **Yeast culture:** Improves fiber digestion in ruminants.
 - **Apple cider vinegar:** 1-2 tbsp/gallon in water. Supports digestion
   and immune health (anecdotal evidence).
-- **Diatomaceous earth:** For parasite control (limited evidence, widely
+- **[[diatomaceous-earth]]:** For parasite control (limited evidence, widely
   used).
 ## See Also
 

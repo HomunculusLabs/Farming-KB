@@ -57,7 +57,7 @@ The layer that bridges the reservoir and soil:
 The growing medium sits on top of the wicking medium:
 
 - **Depth:** Minimum 8-10 inches above the wicking medium. 12 inches is ideal for most vegetables.
-- **Soil mix:** Use a well-draining, nutrient-rich mix. A blend of garden soil, compost, and aeration material (perlite, pumice, coarse sand) works well.
+- **Soil mix:** Use a well-draining, nutrient-rich mix. A blend of garden soil, [[compost]], and aeration material ([[perlite]], pumice, coarse sand) works well.
 - **Do not use pure potting mix:** It's too light and wicks poorly. Include some mineral soil for better capillary action.
 - **Do not use garden soil straight:** It can become compacted and inhibit wicking. Mix with compost and aeration material.
 
@@ -137,7 +137,7 @@ The growing medium sits on top of the wicking medium:
 
 - Space plants as you would in a conventional raised bed
 - Tall plants on the north side (to avoid shading), short plants on the south
-- Consider companion planting for pest management and efficient space use
+- Consider [[companion-planting]] for pest management and efficient space use
 
 ## Maintenance
 

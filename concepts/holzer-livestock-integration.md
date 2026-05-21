@@ -9,7 +9,7 @@ sources: [raw/papers/sepp-holzer-practical-guide-to-small-scale-integrative.md]
 
 # Holzer Livestock Integration
 
-Livestock play a large role in Sepp Holzer's permaculture system. They provide high-quality produce and are also industrious and pleasant workers. Holzer breeds robust, hardy animals suited to the terrain — old domestic breeds as well as wild animals.
+Livestock play a large role in [[sepp-holzer]]'s [[permaculture]] system. They provide high-quality produce and are also industrious and pleasant workers. Holzer breeds robust, hardy animals suited to the terrain — old domestic breeds as well as wild animals.
 
 ## Philosophy
 
@@ -73,7 +73,7 @@ Longitudinal studies provide increasingly robust data for evidence-based decisio
 Applied work with holzer livestock integration spans multiple contexts and scales, from small-scale operations to industrial applications.
 Successful implementation requires attention to site-specific conditions and adaptive management strategies.
 Practitioners benefit from integrating both empirical observations and systematic monitoring protocols.
-Economic viability often depends on careful resource allocation and appropriate technology selection.
+Economic viability often depends on careful resource allocation and [[appropriate-technology]] selection.
 Safety considerations and regulatory compliance are essential components of responsible practice.
 
 ## Future Directions

@@ -9,7 +9,7 @@ sources: [raw/papers/gardening-when-it-counts-steve-solomon.md]
 
 # Irrigation and Watering Techniques
 
-Sprinkler irrigation and fertigation methods from Steve Solomon's *Gardening When It Counts*. Solomon provides a scientific framework for efficient garden irrigation.
+Sprinkler irrigation and fertigation methods from [[steve-solomon]]'s *[[gardening-when-it-counts]]*. Solomon provides a scientific framework for efficient garden irrigation.
 
 ## The Science of Soil Moisture
 
@@ -77,7 +77,7 @@ It is important that the water sinks right in, making a surface wet spot no larg
 ### Drain Hole Sizing
 
 - **Sandy soil** (less clay): Accepts moisture rapidly, water goes deep and not wide. Use a smaller hole. About 2.5 gallons (10 liters) every 10 days.
-- **Clay soil** (20%+ clay): Slower to absorb, moisture spreads broadly from a single drip. Use a slightly larger hole. About 5 gallons (20 liters) every 3 weeks.
+- **[[clay-soil]]** (20%+ clay): Slower to absorb, moisture spreads broadly from a single drip. Use a slightly larger hole. About 5 gallons (20 liters) every 3 weeks.
 
 ### Fertigation Solutions
 
@@ -93,7 +93,7 @@ It is important that the water sinks right in, making a surface wet spot no larg
 
 ### Fertigation Benefits
 
-Fertigation is wise even when plants are getting enough water from rain or other irrigation. William Albrecht explained that much of what appears to be drought damage is actually nutrient deficiency induced by dry surface soil when plant nutrients are located in the plowed surface layer.
+Fertigation is wise even when plants are getting enough water from rain or other irrigation. [[william-albrecht]] explained that much of what appears to be drought damage is actually nutrient deficiency induced by dry surface soil when plant nutrients are located in the plowed surface layer.
 
 Crop scientists noticed it took twice as much water to make a given weight of dry plant material on infertile soil as on highly fertile soil. Fertigation addresses both moisture and nutrition simultaneously.
 
@@ -104,7 +104,7 @@ If facing a serious drought without adequate irrigation:
 1. Thin crops immediately — harvest every second plant in every row. This instantly reduces moisture consumption while providing food, and doubles capillary moisture available to remaining plants.
 2. Hoe thoroughly at least weekly to keep surface soil loose, preventing crusting and evaporation.
 3. Start fertigation if at all possible.
-4. If water is extremely scarce, switch to foliar feeding with kelp tea and fish emulsion.
+4. If water is extremely scarce, switch to [[foliar-feeding]] with kelp tea and [[fish-emulsion]].
 5. Apply a dust mulch or loose organic mulch to the surface.
 
 ## Related

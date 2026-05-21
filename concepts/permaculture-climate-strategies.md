@@ -23,7 +23,7 @@ sources:
 
 # Permaculture Climate-Specific Design Strategies
 
-Climate-specific design from Mollison's Permaculture Two and field implementations. The fundamental principle: "Design must be climate-specific. What works in humid cool temperate fails in arid lands." See [[permaculture-design-methods]] for the design toolkit and [[edge-effect-and-microclimate]] for microclimate creation.
+Climate-specific design from Mollison's [[permaculture]] Two and field implementations. The fundamental principle: "Design must be climate-specific. What works in humid cool temperate fails in arid lands." See [[permaculture-design-methods]] for the design toolkit and [[edge-effect-and-microclimate]] for microclimate creation.
 
 ## Arid Lands Strategies (Mollison, Ch. 5)
 
@@ -38,7 +38,7 @@ Around the house (wiltja/shelter), where organic wastes accumulate and water fro
 
 ### Mulch Species for Arid Zones
 
-Useful shade and mulch trees: mulga (Acacia aneura), tamarisk, desert oaks, casuarinas, cultivated bamboo, Paulownia, Acacia albida, Leucaena.
+Useful shade and mulch trees: mulga ([[acacia]] aneura), tamarisk, desert oaks, casuarinas, cultivated bamboo, Paulownia, [[acacia-albida]], Leucaena.
 
 ### House Climate Modification in Hot Climates
 
@@ -101,7 +101,7 @@ Useful shade and mulch trees: mulga (Acacia aneura), tamarisk, desert oaks, casu
 | Tree lucerne | Poultry forage, hedge | Hardy perennial legume |
 | Honey locust | Pods for forage, poles | Thorny but productive |
 | Black locust | Forage, timber | N-fixer |
-| Comfrey | Mulch, poultry food | Deep taproot |
+| [[comfrey]] | Mulch, poultry food | Deep taproot |
 | Leucaena | Forage, mulch, N-fix | Tropical/subtropical |
 | Lab-lab beans | Greens, ground cover | Poultry forage |
 
@@ -117,11 +117,11 @@ Useful shade and mulch trees: mulga (Acacia aneura), tamarisk, desert oaks, casu
 
 ### Tropical Soil Management
 
-- **Never leave soil bare** — constant cover crops or mulch
+- **Never leave soil bare** — constant [[cover-crops]] or mulch
 - Sheet mulch works but decomposes very quickly; needs constant renewal
-- Green manure crops essential for fertility on depleted tropical soils
+- [[green-manure-crops]] essential for fertility on depleted tropical soils
 - Chickens convert kitchen waste to manure within days in tropical heat
-- Living mulch (Dolichos, kudzu, sweet potato) protects soil between crops
+- Living mulch ([[dolichos]], kudzu, sweet potato) protects soil between crops
 
 ### Sea Coasts (Section 5.3)
 

@@ -9,7 +9,7 @@ sources: []
 
 # Rust Fungi Guide
 
-Rust fungi (order Pucciniales, phylum [[basidiomycete-phylum-guide|Basidiomycota]]) are obligate plant parasites responsible for some of the most devastating crop diseases in agriculture. With over 7,000 species, they are the largest group of plant pathogenic fungi. Rust fungi cannot be cultured artificially and require living host tissue to complete their life cycle.
+[[rust-fungi]] (order Pucciniales, phylum [[basidiomycete-phylum-guide|Basidiomycota]]) are obligate plant parasites responsible for some of the most devastating crop diseases in agriculture. With over 7,000 species, they are the largest group of plant pathogenic fungi. Rust fungi cannot be cultured artificially and require living host tissue to complete their life cycle.
 
 ## Defining Characteristics
 
@@ -65,7 +65,7 @@ Complete their entire life cycle on one host species.
 
 ### Heteroecious (Two Alternating Hosts)
 Require two unrelated host species to complete their life cycle. The hosts are often taxonomically distant.
-- Example: Puccinia graminis (stem rust): barberry (Berberis) and wheat (Triticum)
+- Example: [[puccinia-graminis]] (stem rust): barberry (Berberis) and wheat (Triticum)
 
 ### Macrocylic (All Five Stages)
 Produce all five spore stages.
@@ -99,7 +99,7 @@ Missing one or more spore stages, often producing only telia and basidia.
 - Yield losses typically 10-40%
 
 ### Coffee Leaf Rust (Hemileia vastatrix)
-- Devastating disease of Coffea arabica
+- Devastating disease of [[coffea-arabica]]
 - Caused the collapse of coffee production in Ceylon (Sri Lanka) in the 1870s
 - Currently threatens coffee production throughout Central and South America
 - Favorable conditions: temperatures 18-28 C, high humidity
@@ -112,12 +112,12 @@ Missing one or more spore stages, often producing only telia and basidia.
 - Requires fungicide application for control; resistance breeding ongoing
 
 ### Pine Stem Rusts (Cronartium spp.)
-- Cronartium ribicola: white pine blister rust, alternates between white pines and Ribes (currants/gooseberries)
+- [[cronartium-ribicola]]: white pine blister rust, alternates between white pines and Ribes (currants/gooseberries)
 - Has devastated white pine forests in North America
 - Efforts to develop resistant pine varieties and remove Ribes in pine areas
 
 ### Cedar-Apple Rust (Gymnosporangium juniperi-virginianae)
-- Alternates between eastern red cedar (Juniperus virginiana) and apple/crabapple
+- Alternates between eastern red cedar ([[juniperus-virginiana]]) and apple/crabapple
 - Produces large, gelatinous, orange telial horns on cedar in spring
 - Causes bright orange spots on apple leaves and fruit
 - Control: remove cedar trees near orchards, apply fungicides

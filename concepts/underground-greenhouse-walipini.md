@@ -61,7 +61,7 @@ The angle of the south-facing glazing is the most critical design element:
 
 The north wall is the primary thermal mass surface:
 
-- **Material:** Rammed earth, stone, or concrete block (uninsulated — you want thermal mass, not insulation)
+- **Material:** [[rammed-earth]], stone, or concrete block (uninsulated — you want thermal mass, not insulation)
 - **Color:** Paint white or cover with reflective material to bounce light back into the growing space and onto the plants
 - **Height:** The back wall rises above grade and is covered (opaque — no glazing). It supports the high end of the roof.
 
@@ -124,7 +124,7 @@ Water is the enemy of underground structures. Install drainage before building a
 ### Inside the Walipini
 
 - **Humidity:** Underground greenhouses tend to have high humidity due to evaporation from the earth floor. Provide adequate ventilation to prevent mold and fungal issues.
-- **Watering:** The earth floor can provide some moisture to plant roots from below, but supplemental watering is usually needed. Use drip irrigation or water by hand.
+- **Watering:** The earth floor can provide some moisture to plant roots from below, but supplemental watering is usually needed. Use [[drip-irrigation]] or water by hand.
 - **Condensation:** Condensation will form on the glazing. Direct it to drainage channels so it doesn't drip on plants.
 
 ### Outside Drainage
@@ -137,7 +137,7 @@ Water is the enemy of underground structures. Install drainage before building a
 
 ### Winter Crops
 
-- **Leafy greens:** Spinach, kale, lettuce, chard, Asian greens, arugula, mustard
+- **Leafy greens:** Spinach, kale, lettuce, chard, Asian greens, [[arugula]], mustard
 - **Root crops:** Carrots, beets, radishes, turnips, parsnips
 - **Alliums:** Garlic, onions, leeks, scallions
 - **Herbs:** Parsley, cilantro, chives, mint, rosemary (if warm enough)

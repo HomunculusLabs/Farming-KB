@@ -26,7 +26,7 @@ Leatherjackets are unmistakable in appearance — they are white, fat, and very 
 You will generally find leatherjackets when digging or hoeing. Because of their white color, they are easy to see and squash. This manual action is normally all that is needed to control their numbers.
 
 ### Encourage Natural Predators
-Ground beetles eat leatherjackets. Encourage them by growing ground cover plants, which provide habitat for predatory beetles.
+Ground beetles eat leatherjackets. Encourage them by growing [[ground-cover-plants]], which provide habitat for predatory beetles.
 
 ## Related Pests Found Nearby
 
@@ -71,7 +71,7 @@ Longitudinal studies provide increasingly robust data for evidence-based decisio
 Applied work with leatherjacket pest control spans multiple contexts and scales, from small-scale operations to industrial applications.
 Successful implementation requires attention to site-specific conditions and adaptive management strategies.
 Practitioners benefit from integrating both empirical observations and systematic monitoring protocols.
-Economic viability often depends on careful resource allocation and appropriate technology selection.
+Economic viability often depends on careful resource allocation and [[appropriate-technology]] selection.
 Safety considerations and regulatory compliance are essential components of responsible practice.
 
 ## Future Directions

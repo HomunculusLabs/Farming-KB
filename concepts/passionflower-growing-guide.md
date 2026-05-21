@@ -17,7 +17,7 @@ Central America. Named by Spanish missionaries in the 16th century who saw
 symbols of Christ's passion (crucifixion) in the flower's intricate
 structure, passionflower has been used for centuries by Indigenous peoples
 and European herbalists as a gentle but effective sedative, anxiolytic, and
-pain reliever. Passiflora incarnata is the primary species used medicinally
+pain reliever. [[passiflora-incarnata]] is the primary species used medicinally
 in North American and European herbal practice.
 
 ## Botanical Profile
@@ -37,8 +37,8 @@ its range and regrows vigorously from the root system in spring.
 
 ## Medicinal Uses
 
-Passionflower contains flavonoids (chrysin, apigenin, vitexin, orientin),
-harmala alkaloids (harmine, harmaline in small amounts), and GABA-boosting
+Passionflower contains flavonoids (chrysin, [[apigenin]], vitexin, orientin),
+[[harmala-alkaloids]] ([[harmine]], [[harmaline]] in small amounts), and GABA-boosting
 compounds that produce its calming effects.
 
 Key medicinal applications:
@@ -74,7 +74,7 @@ Safety notes: Passionflower is generally very safe, even for long-term use.
 Mild side effects may include drowsiness, dizziness, or GI upset. Do not
 combine with prescription sedatives, MAO inhibitors, or blood thinners
 without medical supervision. Avoid during pregnancy (theoretically uterine-
-stimulating due to harmane alkaloids, though risk is low). Safe for
+stimulating due to [[harmane]] alkaloids, though risk is low). Safe for
 children at appropriate doses.
 
 ## Vine Cultivation
@@ -125,7 +125,7 @@ From layering:
 ### Care and Maintenance
 - Water regularly during the first growing season
 - Once established, water during dry periods (1 inch per week)
-- Fertilize lightly in spring with compost or balanced organic fertilizer;
+- Fertilize lightly in spring with [[compost]] or balanced organic fertilizer;
   excess nitrogen produces lush foliage with fewer flowers
 - Train vines onto support structure; redirect as needed
 - Prune aggressively in late winter or early spring to control size and

@@ -13,7 +13,7 @@ Before breaking ground on any homestead project, understanding local zoning laws
 
 ## Understanding Zoning
 
-Zoning is local government regulation of land use. Every county and municipality has its own zoning code. Key zoning categories relevant to homesteading:
+Zoning is local government regulation of land use. Every county and municipality has its own zoning code. Key zoning categories relevant to [[homesteading]]:
 
 - **Agricultural (A, AG, AG-1, AG-2)** — most permissive for homesteading. Typically allows livestock, crops, outbuildings, and home businesses with minimal restriction. Setback requirements still apply.
 - **Rural Residential (RR, R-5, R-10)** — allows single-family homes with larger lot sizes. May permit some livestock (usually chickens, sometimes goats) with restrictions on number and sex. Outbuildings often require permits.

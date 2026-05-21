@@ -11,7 +11,7 @@ sources: []
 
 ## Overview
 
-Harm reduction is a set of practical strategies and principles aimed at reducing the negative consequences associated with psychoactive substance use, without necessarily requiring abstinence. In the context of psychedelics and entheogens, harm reduction encompasses drug checking, dosing best practices, set and setting optimization, contraindication screening, and overdose response. These practices can meaningfully reduce risks while respecting individual autonomy.
+Harm reduction is a set of practical strategies and principles aimed at reducing the negative consequences associated with psychoactive substance use, without necessarily requiring abstinence. In the context of psychedelics and entheogens, harm reduction encompasses drug checking, dosing best practices, [[set-and-setting]] optimization, contraindication screening, and overdose response. These practices can meaningfully reduce risks while respecting individual autonomy.
 
 ## Core Principles
 
@@ -27,9 +27,9 @@ Harm reduction is a set of practical strategies and principles aimed at reducing
 
 Reagent testing uses chemical solutions that change color in the presence of specific compound classes. It cannot identify every substance but can detect the presence or absence of expected compounds and flag dangerous adulterants.
 
-Common reagents for psychedelic harm reduction:
+Common reagents for [[psychedelic-harm-reduction]]:
 
-- Ehrlich reagent: Turns purple with indoles (DMT, psilocybin, LSD)
+- Ehrlich reagent: Turns purple with indoles (DMT, [[psilocybin]], LSD)
 - Marquis reagent: Turns black/dark with MDMA; orange/brown with amphetamines
 - Hofmann reagent: Specific to LSD and other lysergamides
 - Mecke reagent: Detects MDMA, MDA, and related compounds
@@ -38,7 +38,7 @@ Common reagents for psychedelic harm reduction:
 
 Procedure: Place a small scraping of material on a ceramic plate or in a test tube. Add 1-2 drops of reagent. Observe color change over 30-60 seconds. Compare against reference charts.
 
-Limitations: Reagent tests cannot detect fentanyl, 25I-NBOMe in trace amounts mixed with LSD, or novel compounds not in the reference database. They are a screening tool, not a guarantee.
+Limitations: Reagent tests cannot detect [[fentanyl]], 25I-NBOMe in trace amounts mixed with LSD, or novel compounds not in the reference database. They are a screening tool, not a guarantee.
 
 ### Fentanyl Test Strips
 
@@ -72,7 +72,7 @@ The single most important harm reduction principle. Begin with a sub-threshold o
 
 - Understand the onset time before considering redosing
 - Many psychedelics have strong tachyphylaxis (tolerance develops within hours)
-- Redosing MDMA is particularly risky for serotonin neurotoxicity
+- Redosing MDMA is particularly risky for [[serotonin]] neurotoxicity
 - Wait at least 1.5-2x the onset time before considering additional doses
 
 ## Set and Setting

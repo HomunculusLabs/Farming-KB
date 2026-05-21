@@ -9,7 +9,7 @@ sources: []
 
 # Ibogaine Reference
 
-Ibogaine is a naturally occurring psychoactive alkaloid found in the root bark of the African shrub Tabernanthe iboga. It is renowned for its capacity to interrupt substance dependence, particularly opioid addiction, often producing a single-treatment interruption of withdrawal symptoms and drug craving. Ibogaine is simultaneously one of the most promising and most dangerous substances in the psychedelic medicine toolkit, with well-documented cardiac risks that require medical screening and monitoring.
+Ibogaine is a naturally occurring psychoactive alkaloid found in the root bark of the African shrub [[tabernanthe-iboga]]. It is renowned for its capacity to interrupt substance dependence, particularly opioid addiction, often producing a single-treatment interruption of withdrawal symptoms and drug craving. Ibogaine is simultaneously one of the most promising and most dangerous substances in the psychedelic medicine toolkit, with well-documented cardiac risks that require medical screening and monitoring.
 
 ## Chemistry
 
@@ -17,16 +17,16 @@ Ibogaine is a naturally occurring psychoactive alkaloid found in the root bark o
 - Chemical formula: C20H26N2O
 - Molecular weight: 310.43 g/mol
 - CAS number: 83-74-9
-- Structure: indole alkaloid with a complex polycyclic structure
+- Structure: [[indole]] alkaloid with a complex polycyclic structure
 - Classification: indole alkaloid, iboga alkaloid family
 - Physical form: white to off-white crystalline powder
-- Solubility: soluble in ethanol, slightly soluble in water
+- Solubility: soluble in [[ethanol]], slightly soluble in water
 - Melting point: approximately 152-153°C
 - Extracted from: Tabernanthe [[iboga-root-bark-preparation|iboga root bark]] (typically 1-6% ibogaine by dry weight)
 
 Ibogaine belongs to the iboga alkaloid family. Tabernanthe iboga root bark contains multiple alkaloids:
 - Ibogaine: primary psychoactive compound (1-6% dry weight)
-- Ibogamine, tabernanthine: related alkaloids
+- [[ibogamine]], [[tabernanthine]]: related alkaloids
 - Noribogaine: active metabolite (may be responsible for anti-addictive effects)
 
 Ibogaine is a chiral molecule — the natural form is a racemic mixture of (+)- and (-)-enantiomers.
@@ -61,7 +61,7 @@ Ibogaine is a chiral molecule — the natural form is a racemic mixture of (+)- 
 
 - NMDA receptor antagonist: contributes to dissociative effects and anti-addictive mechanism
 - Opioid receptor modulation: kappa agonist + mu antagonist/modulator — interrupts opioid dependence by reducing withdrawal (kappa) and resetting receptor sensitivity (mu)
-- Serotonin transporter inhibition + 5-HT2A agonism: contributes to visionary effects
+- [[serotonin]] transporter inhibition + 5-HT2A agonism: contributes to visionary effects
 - Sigma-2 receptor agonism, nicotinic receptor modulation
 - hERG potassium channel blockade: CRITICAL CARDIAC RISK MECHANISM (prolongs QT interval)
 
@@ -124,7 +124,7 @@ Phase 3 — Residual effects (hours 12-72):
 The most remarkable property of ibogaine is its ability to interrupt substance dependence:
 
 - Opioid addiction: ibogaine can eliminate withdrawal symptoms and dramatically reduce craving, often for weeks to months. Some patients report long-term remission
-- Stimulant addiction (cocaine, methamphetamine): reduction in craving and use
+- Stimulant addiction ([[cocaine]], methamphetamine): reduction in craving and use
 - Alcohol dependence: reduced craving and consumption
 - Nicotine: reduced craving (less studied)
 

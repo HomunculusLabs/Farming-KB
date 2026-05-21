@@ -9,7 +9,7 @@ sources: [raw/papers/bill-mollison-permaculture-two-practical-design-for-to.md]
 
 # Permaculture Climate Zones
 
-Bill Mollison identified three broad climatic regions where man lives and gardens, each requiring specific design strategies. From "Permaculture Two: Practical Design for Town and Country in Permanent Agriculture" (1979).
+[[bill-mollison]] identified three broad climatic regions where man lives and gardens, each requiring specific design strategies. From "[[permaculture]] Two: Practical Design for Town and Country in Permanent Agriculture" (1979).
 
 ## The Three Broad Climatic Regions
 
@@ -44,7 +44,7 @@ Perhaps the most pressing problem of the third world. Two approaches:
 ### Key Arid Land Strategies
 - Start from up-stream, up-wind, and from oases -- plants generate moisture downstream, downwind, and locally
 - Run-off from bare or rocky areas increases effective precipitation
-- Modern drip irrigation plus mulch will grow any domestic crop
+- Modern [[drip-irrigation]] plus mulch will grow any domestic crop
 - Sheet mulch is the answer around settlements
 - Scattered leguminous trees (10-12 per ha) greatly assist nutrient recycling and soil stability
 - The "dead centre" of deserts is a myth -- many important crops will grow

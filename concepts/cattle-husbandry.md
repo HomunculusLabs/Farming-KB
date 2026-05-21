@@ -89,7 +89,7 @@ handler safety.
 - Strategic deworming: at turnout on pasture, mid-summer, and before winter.
 - Cooperia and Ostertagia are the most problematic internal parasites in cattle.
 - External parasites: flies (horn flies, face flies), lice, ticks. Use
-  pour-on insecticides, fly tags, or integrated pest management.
+  pour-on insecticides, fly tags, or [[integrated-pest-management]].
 
 ### Common Health Issues
 - Bovine Respiratory Disease (BRD) — stress-related, most common in

@@ -12,7 +12,7 @@ sources:
 
 ## Overview
 
-The legal status of psilocybin-containing mushrooms varies dramatically across the world, ranging from complete prohibition to decriminalization to regulated medical use. This page provides a global overview as of 2026. Laws change frequently; always verify current local regulations.
+The legal status of [[psilocybin]]-containing mushrooms varies dramatically across the world, ranging from complete prohibition to decriminalization to regulated medical use. This page provides a global overview as of 2026. Laws change frequently; always verify current local regulations.
 
 See [[psychedelic-mushroom-history]] for the historical context of prohibition.
 
@@ -20,7 +20,7 @@ See [[psychedelic-mushroom-history]] for the historical context of prohibition.
 
 ### UN Convention on Psychotropic Substances (1971)
 
-- Psilocybin and psilocin are listed in Schedule I (most restrictive)
+- Psilocybin and [[psilocin]] are listed in Schedule I (most restrictive)
 - This convention requires signatory nations to criminalize possession, manufacture, and distribution
 - However, the convention does not specifically name "mushrooms" — only the isolated compounds
 - This legal ambiguity has been exploited in some jurisdictions (e.g., the Netherlands)
@@ -48,9 +48,9 @@ See [[psychedelic-mushroom-history]] for the historical context of prohibition.
 
 ### Mexico
 
-- Psilocybin mushrooms (teonanacatl) are not specifically scheduled in federal law
+- [[psilocybin-mushrooms]] ([[teonanacatl]]) are not specifically scheduled in federal law
 - Sale and commercial distribution are prohibited under general drug laws
-- Traditional indigenous use (Mazatec and other groups) is culturally tolerated
+- Traditional indigenous use ([[mazatec]] and other groups) is culturally tolerated
 - See [[maria-sabina-mazatec-mushroom-ceremony]] for indigenous context
 
 ## Europe
@@ -126,7 +126,7 @@ Six EU member states tightened mushroom legislation in response to increasing pr
 
 **Legal challenges with wild fungi**: Several countries struggled with whether to criminalize landowners where mushrooms grow wild. Solutions included specifying "prepared/treated" mushrooms (UK/Ireland approach), "dried/processed" (Dutch Supreme Court), or "organism" rather than "plant" (Germany). The Italian, Greek, Cypriot, and Lithuanian laws used catch-all terms about "plants from which narcotic substances can be extracted," which technically may not cover fungi.
 
-**Smartshop era**: Prior to the 2005 UK ban, an estimated 300 shops/market stalls sold hallucinogenic mushrooms across the UK with annual turnover around GBP 1 million. In the Netherlands, 120-150 smartshops sold mushrooms (estimated 50% of smartshop turnover). The Dutch fresh mushroom loophole persisted from 2002 until full ban in 2008.
+**Smartshop era**: Prior to the 2005 UK ban, an estimated 300 shops/market stalls sold hallucinogenic mushrooms across the UK with annual turnover around GBP 1 million. In the Netherlands, 120-150 [[smartshops]] sold mushrooms (estimated 50% of smartshop turnover). The Dutch fresh mushroom loophole persisted from 2002 until full ban in 2008.
 
 ## Latin America
 
@@ -134,7 +134,7 @@ Six EU member states tightened mushroom legislation in response to increasing pr
 
 - Psilocybin mushrooms are not specifically scheduled under Brazilian drug law
 - Sale is prohibited but possession and personal use are not criminalized
-- Several religious groups use ayahuasca legally; psilocybin mushrooms are not part of these traditions
+- Several religious groups use [[ayahuasca]] legally; psilocybin mushrooms are not part of these traditions
 - Growing interest in therapeutic applications
 
 ### Costa Rica

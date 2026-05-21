@@ -61,7 +61,7 @@ The simplest and cheapest solar water heater.
 ### Thermosiphon System
 
 A separate collector panel heats water that rises by natural convection
-(natural thermosiphon effect) to an insulated storage tank mounted above
+(natural [[thermosiphon]] effect) to an insulated storage tank mounted above
 the collector.
 
 **How it works:**

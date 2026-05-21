@@ -41,7 +41,7 @@ The traditional view of lichens as "mutualism" (both partners benefit) has been 
 - Loosely attached to substrate by rhizines (root-like structures)
 - Can be peeled or lifted from the surface
 - Often have lobed margins
-- Examples: Xanthoria parietina (common orange wall lichen), Parmelia sulcata, Flavoparmelia caperata
+- Examples: [[xanthoria-parietina]] (common orange wall lichen), [[parmelia-sulcata]], [[flavoparmelia-caperata]]
 - More complex internal structure with distinct cortical, algal, and medullary layers
 
 ### Fruticose (Shrubby)
@@ -72,7 +72,7 @@ The traditional view of lichens as "mutualism" (both partners benefit) has been 
 
 Layers from top to bottom:
 
-1. **Upper cortex**: Dense layer of tightly packed fungal hyphae. Protective, often pigmented. May contain crystals of secondary metabolites
+1. **Upper cortex**: Dense layer of tightly packed [[fungal-hyphae]]. Protective, often pigmented. May contain crystals of secondary metabolites
 2. **Algal/photobiont layer**: The photobiont cells are arranged in a distinct zone just below the upper cortex, where they receive filtered light
 3. **Medulla**: Loosely woven fungal hyphae. Functions in gas exchange, water storage, and structural support. The thickest layer
 4. **Lower cortex**: Dense hyphal layer on the underside (absent in fruticose lichens). May have rhizines for attachment
@@ -90,7 +90,7 @@ Layers from top to bottom:
 
 Lichens are often the first organisms to colonize bare rock, soil, or disturbed surfaces:
 
-- **Rock weathering**: Lichen acids (oxalic acid, usnic acid) slowly dissolve rock minerals, contributing to soil formation over centuries
+- **Rock weathering**: Lichen acids ([[oxalic-acid]], [[usnic-acid]]) slowly dissolve rock minerals, contributing to soil formation over centuries
 - **Nitrogen fixation**: Cyanobacterial lichens convert atmospheric N2 into bioavailable forms, fertilizing the developing ecosystem
 - **Soil stabilization**: Crustose lichens bind soil particles, reducing erosion
 - **Succession**: Lichens create conditions that allow mosses and eventually vascular plants to establish
@@ -142,7 +142,7 @@ Functions of secondary metabolites:
 
 - **Dyes**: Orchil (Roccella) produces purple dye (orcein). Used since ancient Mediterranean civilizations. Cudbear (Ochrolechia) produces red-purple. Historically significant before synthetic dyes
 - **Food**: Umbilicaria (rock tripe) eaten by indigenous peoples and during famines. Iwatake (rock tripe) is a delicacy in Japanese cuisine
-- **Medicine**: Usnic acid used in traditional medicine across cultures. Lobaria pulmonaria used for lung ailments (doctrine of signatures — it resembles lung tissue)
+- **Medicine**: Usnic acid used in traditional medicine across cultures. [[lobaria-pulmonaria]] used for lung ailments (doctrine of signatures — it resembles lung tissue)
 - **Fiber**: Some lichens produce durable fiber (Icelandic "candles" from Cetraria islandica burned as wicks)
 
 ### Modern Research

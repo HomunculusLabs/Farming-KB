@@ -23,7 +23,7 @@ Before selecting species, define the primary and secondary functions of the hedg
 - **Livestock containment**: Thorny, stock-proof species (hawthorn, blackthorn, honey locust)
 - **Foraging**: Edible fruits, nuts, berries, and herbs
 - **Soil stabilization**: Deep-rooted species on slopes and banks
-- **Pollinator habitat**: Succession of blooming species from early spring to late fall
+- **[[pollinator-habitat]]**: Succession of blooming species from early spring to late fall
 
 ### Layout
 
@@ -53,14 +53,14 @@ Edge:      g g g g g g g g       (ground covers, herbs, brambles)
 - Serviceberry (Amelanchier laevis): Edible berries, spring blooms, fall color
 - American plum (Prunus americana): Edible fruit, thorny, wildlife food
 - Hawthorn (Crataegus spp.): Thorny, stock-proof, red berries for birds
-- Redbud (Cercis canadensis): Spring flowers, nitrogen-fixing bacteria in roots
+- Redbud ([[cercis-canadensis]]): Spring flowers, nitrogen-fixing bacteria in roots
 - Crabapple (Malus spp.): Spring blossoms, persistent fruit for winter birds
 
 **Shrubs**
-- Elderberry (Sambucus canadensis): Edible berries, flowers for fritters, wildlife magnet
-- Winterberry (Ilex verticillata): Brilliant red winter berries, bird food
-- Ninebark (Physocarpus opulifolius): Adaptable, attractive bark, pollinator nectar
-- Hazelnut (Corylus americana): Edible nuts, wildlife food
+- Elderberry ([[sambucus-canadensis]]): Edible berries, flowers for fritters, wildlife magnet
+- Winterberry ([[ilex-verticillata]]): Brilliant red winter berries, bird food
+- Ninebark ([[physocarpus-opulifolius]]): Adaptable, attractive bark, pollinator nectar
+- Hazelnut ([[corylus-americana]]): Edible nuts, wildlife food
 - American cranberrybush (Viburnum opulus var. americanum): Berries for birds and jelly
 - Chokeberry (Aronia melanocarpa): Edible, antioxidant-rich berries
 - Spicebush (Lindera benzoin): Spice-scented leaves, swallowtail host plant

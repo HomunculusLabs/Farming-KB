@@ -9,7 +9,7 @@ sources: []
 
 # Homestead Community Building
 
-Homesteading can be isolating, but it does not have to be. Building a network of like-minded neighbors creates resilience, shared resources, skill exchange, and social support that no amount of individual preparation can match. A strong community multiplies the capacity of every member.
+[[homesteading]] can be isolating, but it does not have to be. Building a network of like-minded neighbors creates resilience, shared resources, skill exchange, and social support that no amount of individual preparation can match. A strong community multiplies the capacity of every member.
 
 ## Barter Networks
 
@@ -19,7 +19,7 @@ Barter is the oldest form of exchange and remains highly practical among homeste
 - Produce and preserved foods (eggs, vegetables, fruit, honey, canned goods, cured meats)
 - Skills (carpentry, plumbing, electrical, animal husbandry, butchering)
 - Labor (fence building, garden installation, barn raising, harvest help)
-- Animal products (manure for compost, feathers, hides)
+- Animal products (manure for [[compost]], feathers, hides)
 - Equipment use (tractor time, tiller, pressure washer, wood splitter)
 - Seeds, seedlings, and plant starts
 
@@ -88,13 +88,13 @@ Every homesteader has skills others need. Formal and informal skill sharing buil
 - Food preservation (canning, fermentation, dehydration)
 - Animal husbandry and processing
 - Carpentry and building
-- Permaculture design and [[permaculture-principles]] principles
-- Herbal medicine and plant identification
+- [[permaculture-design]] and [[permaculture-principles]] principles
+- [[herbal-medicine]] and plant identification
 - Beekeeping
 - Welding and metalwork
-- Fruit tree pruning and grafting
+- [[fruit-tree-pruning]] and grafting
 - Seed saving
-- Natural building methods ([[mud-oven]], timber frame)
+- [[natural-building]] methods ([[mud-oven]], timber frame)
 
 ## Buying Clubs
 
@@ -102,7 +102,7 @@ Group purchasing power reduces costs on bulk items. Buying clubs pool orders to 
 
 ### Common Homestead Buying Club Items
 - Animal feed (bulk grain, layer pellets, mineral supplements)
-- Soil amendments (lime, compost, rock phosphate, bulk mulch)
+- Soil amendments (lime, compost, [[rock-phosphate]], bulk mulch)
 - Seeds (bulk seed orders for market growers)
 - Mason jars, lids, and canning supplies
 - Fencing materials (wire, posts, hardware)

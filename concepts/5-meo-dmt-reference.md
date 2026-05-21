@@ -9,9 +9,9 @@ sources: []
 
 # 5-MeO-DMT Reference
 
-5-Methoxy-N,N-dimethyltryptamine (5-MeO-DMT) is a naturally occurring psychedelic tryptamine found in certain plant species and notably in the venom of the Colorado River toad (Incilius alvarius, formerly Bufo alvarius). It produces extremely intense, short-lived psychedelic experiences characterized by ego dissolution, unity consciousness, and profound mystical-type experiences. Often described as more powerful than N,N-DMT, 5-MeO-DMT has gained significant research interest for its therapeutic potential in treating depression, anxiety, and addiction.
+5-Methoxy-N,N-[[dimethyltryptamine]] (5-MeO-DMT) is a naturally occurring psychedelic [[tryptamine]] found in certain plant species and notably in the venom of the Colorado River toad (Incilius alvarius, formerly Bufo alvarius). It produces extremely intense, short-lived psychedelic experiences characterized by ego dissolution, unity consciousness, and profound mystical-type experiences. Often described as more powerful than N,N-DMT, 5-MeO-DMT has gained significant research interest for its therapeutic potential in treating depression, anxiety, and addiction.
 
-See also [[dmt-reference]] for the related compound N,N-DMT and ayahuasca pharmacology.
+See also [[dmt-reference]] for the related compound N,N-DMT and [[ayahuasca-pharmacology]].
 
 ## Chemistry
 
@@ -21,13 +21,13 @@ See also [[dmt-reference]] for the related compound N,N-DMT and ayahuasca pharma
 - **Molecular formula**: C13H18N2O
 - **Molecular weight**: 218.30 g/mol
 - **Class**: Tryptamine (5-methoxy-substituted dimethyltryptamine)
-- **Molecular relation**: N,N-DMT with a methoxy group at the 5-position of the indole ring
+- **Molecular relation**: N,N-DMT with a methoxy group at the 5-position of the [[indole]] ring
 
 ### Natural Sources
 
 **Plant sources**:
-- Anadenanthera peregrina (yopo, cohoba) seeds — also contains bufotenin
-- Anadenanthera colubrina (vilca) seeds
+- [[anadenanthera-peregrina]] (yopo, cohoba) seeds — also contains bufotenin
+- [[anadenanthera-colubrina]] (vilca) seeds
 - Virola species (bark resin) — used in Amazonian snuffs
 - Dictyoloma incanescens (root bark)
 
@@ -66,7 +66,7 @@ See also [[dmt-reference]] for the related compound N,N-DMT and ayahuasca pharma
 | 2-5 mg | Threshold — mild perceptual changes |
 | 5-10 mg | Light — bodily sensations, visual changes, altered thought |
 | 10-20 mg | Moderate — intense psychedelic experience, possible ego dissolution |
-- 20-40 mg | Strong — complete ego dissolution, mystical experience, "the void"
+- 20-40 mg | Strong — complete ego dissolution, [[mystical-experience]], "the void"
 | 40+ mg | Very strong — "whiteout" — complete loss of experiential content, pure consciousness (advanced only, high risk of overwhelm) |
 
 **Note**: Potency varies significantly between sources (synthetic vs. toad venom vs. plant material). Always start with the lowest possible dose and titrate upward. A test dose of 2-3 mg is recommended for new users.

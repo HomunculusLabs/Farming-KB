@@ -23,7 +23,7 @@ Integrating livestock into a farming system creates closed nutrient loops, reduc
 ### Integration Methods
 - **Chicken tractors**: Moveable pens placed over garden beds between crops; chickens scratch, fertilize, and weed the bed in 1-2 weeks
 - **Free-range in orchards**: Chickens forage fallen fruit (reducing pest overwintering), eat codling moth larvae, and fertilize fruit trees
-- **Deep litter system**: Chickens in a coop with deep bedding (straw, leaves) that composts in place; remove finished compost for garden beds
+- **Deep litter system**: Chickens in a coop with deep bedding (straw, leaves) that composts in place; remove finished [[compost]] for garden beds
 - **Winter housing**: Chickens can overwinter in a greenhouse, adding CO2 and heat while producing manure
 
 ### Stocking Density
@@ -52,7 +52,7 @@ Integrating livestock into a farming system creates closed nutrient loops, reduc
 - Clear brush and unwanted vegetation
 - Produce milk (high butterfat), meat, and fiber
 - Excellent foragers on marginal land
-- Manure is a good soil amendment (needs composting before use)
+- Manure is a good soil amendment (needs [[composting]] before use)
 
 ### Integration
 - Rotational grazing on marginal land, brushy areas, and fallow fields
@@ -67,13 +67,13 @@ Integrating livestock into a farming system creates closed nutrient loops, reduc
 - Use multiple species in rotation (chickens follow cattle to break fly parasite cycles)
 
 ## Related
-- [[paddock-system-pigs]] — for pig integration in permaculture
-- [[holzer-livestock-integration]] — for Sepp Holzer's approach
+- [[paddock-system-pigs]] — for pig integration in [[permaculture]]
+- [[holzer-livestock-integration]] — for [[sepp-holzer]]'s approach
 - [[duck-rice-paddy]] — for duck-rice integration
 - [[animal-manure-guide]] — for manure nutrient content and use
 ## Current Research
 
-Recent studies on natural farming livestock integration have explored novel approaches and expanded our understanding of underlying mechanisms.
+Recent studies on [[natural-farming]] livestock integration have explored novel approaches and expanded our understanding of underlying mechanisms.
 Researchers continue to investigate optimal parameters and conditions that influence outcomes in this area.
 
 ## Practical Considerations

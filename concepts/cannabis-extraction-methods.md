@@ -9,7 +9,7 @@ sources: [raw/papers/ben-lemon-cannabis-alchemy.md]
 
 ## Cannabis Extraction Methods
 
-Cannabis extraction concentrates the psychoactive essential oils (cannabinoids and terpenes) from plant material into more potent and refined forms. Methods range from simple mechanical separation to complex chemical processing.
+Cannabis extraction concentrates the psychoactive essential oils (cannabinoids and [[terpenes]]) from plant material into more potent and refined forms. Methods range from simple mechanical separation to complex chemical processing.
 
 ### Mechanical Methods
 
@@ -20,7 +20,7 @@ Cannabis extraction concentrates the psychoactive essential oils (cannabinoids a
 - Simplest and oldest method; produces a powdery concentrate
 - Can be pressed into blocks with heat and pressure
 
-**Hashish (hand-rubbed / charas)**:
+**[[hashish]] (hand-rubbed / [[charas]])**:
 - Living cannabis plants are gently hand-rubbed
 - The resinous trichome material accumulates on the hands and is scraped off
 - Traditional method from India, Nepal, and Morocco
@@ -35,20 +35,20 @@ Cannabis extraction concentrates the psychoactive essential oils (cannabinoids a
 
 ### Solvent Extraction
 
-Ben Lemon's "Cannabis Alchemy" provides a detailed solvent extraction protocol. The process follows these steps:
+[[ben-lemon]]'s "Cannabis Alchemy" provides a detailed solvent extraction protocol. The process follows these steps:
 
 **1. Preparation**: Plant material (marijuana or hashish) is dried and ground to the finest powder possible. Ruptured cell walls allow oil to be extracted more completely.
 
-**2. Reflux extraction**: The powdered material is boiled (refluxed) in solvent. The essential oil — containing THC, related cannabinoids, terpenes, chlorophyll, and flavor/smell compounds — dissolves in the solvent. Refluxing continues 3-4 hours.
+**2. [[reflux-extraction]]**: The powdered material is boiled (refluxed) in solvent. The essential oil — containing THC, related cannabinoids, terpenes, chlorophyll, and flavor/smell compounds — dissolves in the solvent. Refluxing continues 3-4 hours.
 
 **3. Solvent options** (from Lemon's guide):
 
 | Solvent | BP | Potency | Yield | Toxicity | Notes |
 |---------|-----|---------|-------|----------|-------|
-| Methanol | 64°C | High | Low | High (toxic fumes) | Good selectivity; traces hazardous |
+| [[methanol]] | 64°C | High | Low | High (toxic fumes) | Good selectivity; traces hazardous |
 | Isopropyl (70%) | ~82°C | Lower | Higher (2x) | Moderate | Water content extracts tars |
 | Ethanol | 78.5°C | High | Low | Low | Ideal but hard to obtain pure |
-| Petroleum ether | 30-60°C | Highest | Low | Extreme (explosive) | Most selective; use in re-extraction |
+| [[petroleum-ether]] | 30-60°C | Highest | Low | Extreme (explosive) | Most selective; use in re-extraction |
 
 **4. Soxhlet washing**: After reflux, the oil-bearing solvent is drained and clean solvent is refluxed through the spent material to wash out remaining oil.
 

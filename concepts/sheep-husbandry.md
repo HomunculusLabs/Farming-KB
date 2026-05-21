@@ -78,7 +78,7 @@ Wool sheep must be shorn annually, usually in spring before lambing.
 - Minimum 10-15 sq ft per sheep indoors. Sheep tolerate cold well but need
   protection from rain and wind.
 - Three-sided shelters are often sufficient in moderate climates.
-- Bedding: straw or wood shavings, deep-bedded. Clean and add to compost.
+- Bedding: straw or wood shavings, deep-bedded. Clean and add to [[compost]].
 - Lambing jugs (small pens 4x4 to 4x6 ft) for ewes with newborn lambs.
 - Ventilation is critical — ammonia and moisture cause respiratory disease.
 - Sheep prefer to lamb on dry ground. Provide lambing pens with clean bedding.
@@ -144,7 +144,7 @@ Sheep are extremely vulnerable to predation. Protection is essential.
   (FECRT) to determine effective dewormers.
 
 ### Vaccinations
-- CD&T (Clostridium perfringens C & D + tetanus) — core vaccine.
+- CD&T ([[clostridium]] perfringens C & D + tetanus) — core vaccine.
 - Ewes: booster 4-6 weeks pre-lambing to pass immunity to lambs via colostrum.
 - Lambs: first dose at 6-8 weeks, booster at 10-12 weeks.
 

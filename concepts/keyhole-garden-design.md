@@ -9,7 +9,7 @@ sources: []
 
 # Keyhole Garden Design
 
-A keyhole garden is a raised, circular garden bed with a central compost basket and a wedge-shaped notch (the "keyhole") that provides access to the center. Originally developed in Africa for drought-prone regions, keyhole gardens combine composting, water conservation, and intensive vegetable production in a compact, accessible design.
+A keyhole garden is a raised, circular garden bed with a central [[compost]] basket and a wedge-shaped notch (the "keyhole") that provides access to the center. Originally developed in Africa for drought-prone regions, keyhole gardens combine composting, [[water-conservation]], and intensive vegetable production in a compact, accessible design.
 
 ## Origin and Purpose
 
@@ -66,7 +66,7 @@ Key advantages of the keyhole design:
    - Top layer (6-8 inches): A mix of topsoil and finished compost — this is the growing layer
    - Slope the soil slightly from the outer wall toward the central basket so water flows inward
 
-7. **Fill the central basket:** Start filling the basket with kitchen scraps, yard waste, green manure, and other compostable materials. As it decomposes, nutrients and moisture wick outward into the surrounding soil.
+7. **Fill the central basket:** Start filling the basket with kitchen scraps, yard waste, [[green-manure]], and other compostable materials. As it decomposes, nutrients and moisture wick outward into the surrounding soil.
 
 8. **Create the keyhole path:** Lay down gravel, wood chips, or stepping stones in the wedge-shaped notch for a comfortable, non-slip walking surface.
 
@@ -92,7 +92,7 @@ The circular shape creates microclimates:
 
 ### Companion Planting
 
-The keyhole garden's compact space benefits from companion planting:
+The keyhole garden's compact space benefits from [[companion-planting]]:
 
 - **Three sisters:** Corn (center support), beans (nitrogen fixation), squash (ground cover) in adjacent sections
 - **Tomato + basil + marigold:** Classic combination for pest deterrence
@@ -140,7 +140,7 @@ As the compost breaks down, it shrinks. Keep topping it up with fresh materials.
 
 ## Maintenance
 
-- **Mulch:** Apply 2-3 inches of organic mulch to the soil surface to retain moisture and suppress weeds
+- **Mulch:** Apply 2-3 inches of [[organic-mulch]] to the soil surface to retain moisture and suppress weeds
 - **Replenish soil:** Add compost to the top layer annually
 - **Rebuild the wall:** Check stone or block walls annually for settling or displacement
 - **Basket maintenance:** If the wire basket degrades, replace it (every 2-4 years depending on material)
@@ -150,4 +150,4 @@ As the compost breaks down, it shrinks. Keep topping it up with fresh materials.
 - [[wicking-bed-construction]] for another water-efficient raised bed approach
 - [[herb-spiral-construction]] for microclimate-based planting design in a compact space
 - [[garden-bed-designs]] for another circular, intensive garden layout
-- [[herb-spiral-design]] — Herb Spiral Design is a classic permaculture pattern that, like keyhole gardens, maximizes growing space and edge effects.
+- [[herb-spiral-design]] — [[herb-spiral]] Design is a classic permaculture pattern that, like keyhole gardens, maximizes growing space and edge effects.

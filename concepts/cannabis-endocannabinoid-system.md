@@ -9,7 +9,7 @@ sources: [raw/papers/uwe-blesching-the-cannabis-health-index.md]
 
 # Cannabis and the Endocannabinoid System
 
-The endocannabinoid system (ECS) is the biological system that cannabis interacts with to produce its effects. Discovered in the early 1990s, the ECS is involved in regulating pain, mood, appetite, memory, immune function, sleep, and stress responses. Understanding the ECS is essential to understanding why cannabis works as medicine.
+The [[endocannabinoid-system]] (ECS) is the biological system that cannabis interacts with to produce its effects. Discovered in the early 1990s, the ECS is involved in regulating pain, mood, appetite, memory, immune function, sleep, and stress responses. Understanding the ECS is essential to understanding why cannabis works as medicine.
 
 ## Components of the ECS
 
@@ -26,7 +26,7 @@ The endocannabinoid system (ECS) is the biological system that cannabis interact
 - CBD does not bind directly to CB2 but modulates its activity indirectly
 
 ### Endogenous Ligands
-- **Anandamide (AEA)**: The "bliss molecule" — binds CB1, involved in mood, pain, appetite. Named from Sanskrit "ananda" (joy)
+- **[[anandamide]] (AEA)**: The "bliss molecule" — binds CB1, involved in mood, pain, appetite. Named from Sanskrit "ananda" (joy)
 - **2-AG (2-Arachidonoylglycerol)**: The most abundant endocannabinoid — binds both CB1 and CB2, involved in immune function
 
 ### Metabolic Enzymes
@@ -47,7 +47,7 @@ The endocannabinoid system (ECS) is the biological system that cannabis interact
 - Acts as a negative allosteric modulator at CB1 (reduces THC's psychoactive effects)
 - Inhibits FAAH (increases anandamide levels naturally)
 - Activates TRPV1 (vanilloid) receptors — involved in pain and inflammation
-- Activates 5-HT1A serotonin receptors — involved in anxiety and mood
+- Activates 5-HT1A [[serotonin]] receptors — involved in anxiety and mood
 - Anti-inflammatory, anti-anxiety, anti-seizure, neuroprotective
 
 ### Other Cannabinoids

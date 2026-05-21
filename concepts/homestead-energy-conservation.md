@@ -35,7 +35,7 @@ Materials that absorb, store, and slowly release heat:
 - Concrete floors and walls
 - Stone and brick
 - Tile
-- Earthen construction (cob, adobe, rammed earth)
+- Earthen construction (cob, adobe, [[rammed-earth]])
 
 **How it works**: Sun heats thermal mass during the day; mass releases heat slowly at night, moderating indoor temperature swings.
 
@@ -46,7 +46,7 @@ Proper insulation is the single most impactful energy conservation measure.
 | Area | Recommended R-Value | Notes |
 |------|--------------------|-------|
 | Attic/Ceiling | R-49 to R-60 | Most cost-effective area to insulate |
-| Walls | R-23 to R-30 | Closed-cell spray foam or dense-pack cellulose |
+| Walls | R-23 to R-30 | Closed-cell spray foam or dense-pack [[cellulose]] |
 | Floor over crawlspace | R-25 to R-30 | Also seals against moisture and pests |
 | Basement walls | R-15 to R-19 (interior) | Continuous insulation preferred |
 | Rim joists | R-25+ | Major source of air infiltration |
@@ -95,7 +95,7 @@ Refrigerators are the largest single energy consumer on many homesteads:
 Water heating accounts for 15-25% of home energy use:
 
 - **Solar thermal**: Batch heaters or evacuated tube collectors — free hot water for 6-9 months
-- **Wood-fired**: Thermosiphon systems using wood stove heat
+- **Wood-fired**: [[thermosiphon]] systems using wood stove heat
 - **On-demand**: Tankless water heaters only heat water when needed (eliminate standby losses)
 - **Insulate**: Tank blanket and pipe insulation reduce losses 25-40%
 - **Lower temperature**: 120°F is adequate for most uses; 140°F for dishwasher sanitizing
@@ -142,7 +142,7 @@ Water heating accounts for 15-25% of home energy use:
 Saving water saves energy (pumping, heating, treating):
 
 - Low-flow showerheads: 1.5 GPM vs standard 2.5 GPM
-- Dual-flush toilets or composting toilets
+- Dual-flush toilets or [[composting-toilets]]
 - Fix all leaks immediately (a dripping faucet wastes 3000+ gallons/year)
 - Greywater recycling for irrigation (see [[graywater-systems]])
 - Rainwater harvesting reduces well pump energy (see [[rainwater-harvesting-systems]])

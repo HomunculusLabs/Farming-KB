@@ -9,14 +9,14 @@ sources: []
 
 # Mold Identification Guide
 
-Molds are rapidly growing, filamentous fungi that reproduce primarily by producing airborne spores (conidia). They are among the most common organisms encountered in indoor environments and are significant concerns for human health, food safety, and building maintenance. Most indoor molds belong to the phyla Ascomycota and Zygomycota.
+Molds are rapidly growing, filamentous fungi that reproduce primarily by producing airborne spores (conidia). They are among the most common organisms encountered in indoor environments and are significant concerns for human health, food safety, and building maintenance. Most indoor molds belong to the phyla [[ascomycota]] and Zygomycota.
 
 ## Understanding Mold Growth
 
 ### Conditions for Growth
 Mold requires four things to grow:
 1. Moisture: the most critical factor; most molds need water activity (aw) above 0.65
-2. Food source: cellulose (wood, paper, drywall), organic matter, dust
+2. Food source: [[cellulose]] (wood, paper, drywall), organic matter, dust
 3. Temperature: most molds grow between 4-38 C, with optimal range 20-30 C
 4. Oxygen: virtually all molds are aerobic
 
@@ -41,7 +41,7 @@ One of the most important genera in indoor environments and the [[ascomycete-phy
 - A. niger: black spores, common on decaying vegetation, produces ochratoxin in some conditions
 - A. flavus: yellow-green colonies, producer of aflatoxins (potent carcinogens)
 - A. fumigatus: blue-green, thermotolerant (grows at 37 C), major cause of aspergillosis in immunocompromised patients
-- A. versicolor: produces sterigmatocystin (a precursor of aflatoxin), commonly found in water-damaged buildings
+- A. versicolor: produces sterigmatocystin (a precursor of [[aflatoxin]]), commonly found in water-damaged buildings
 - A. clavatus: found on stored grain, produces patulin
 
 #### Identification
@@ -52,7 +52,7 @@ One of the most important genera in indoor environments and the [[ascomycete-phy
 
 ### Penicillium
 
-Closely related to Aspergillus, found in soil, decaying vegetation, and indoor environments.
+Closely related to [[aspergillus]], found in soil, decaying vegetation, and indoor environments.
 
 #### Common Indoor Species
 - P. chrysogenum: the original penicillin producer, very common indoors
@@ -75,7 +75,7 @@ The most notorious indoor mold, often called "toxic black mold" in media.
 - Requires sustained high moisture (water activity above 0.93) to grow
 - Grows slowly compared to other molds (7-12 days to produce spores)
 - Dark brown to black, slimy colonies
-- Produces mycotoxins: satratoxins, roridins, and verrucarins (trichothecenes)
+- Produces [[mycotoxins]]: satratoxins, roridins, and verrucarins (trichothecenes)
 - Spores are sticky, not easily aerosolized unless disturbed
 - Found on cellulose-rich materials: drywall paper, ceiling tiles, cardboard
 

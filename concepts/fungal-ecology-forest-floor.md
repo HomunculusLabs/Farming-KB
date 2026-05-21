@@ -17,12 +17,12 @@ Fungi are non-photosynthetic organisms whose primary ecological role is decompos
 
 1. **Primary colonizers**: Bacteria and sugar fungi attack readily available sugars and simple compounds
 2. **Secondary decomposers**: More specialized fungi break down cellulose and hemicellulose
-3. **Tertiary decomposers**: White rot and brown rot fungi break down lignin, the most recalcitrant component of wood
+3. **Tertiary decomposers**: White rot and [[brown-rot]] fungi break down lignin, the most recalcitrant component of wood
 
 ## Wood Decay Fungi
 
 ### White Rot Fungi
-The most numerous decomposers of wood. Produce enzymes (lignin peroxidase, manganese peroxidase, laccase) that break down lignin, leaving cellulose intact. The wood takes on a white, fibrous appearance. Examples: oyster mushroom (Pleurotus ostreatus), turkey tail (Trametes versicolor), shiitake (Lentinula edodes), reishi (Ganoderma lucidum).
+The most numerous decomposers of wood. Produce enzymes ([[lignin-peroxidase]], [[manganese-peroxidase]], laccase) that break down lignin, leaving cellulose intact. The wood takes on a white, fibrous appearance. Examples: [[oyster-mushroom]] ([[pleurotus-ostreatus]]), turkey tail (Trametes versicolor), shiitake (Lentinula edodes), reishi (Ganoderma lucidum).
 
 ### Brown Rot Fungi
 Only about 7% of mushrooms are brown rot fungi. Their enzymes break down cellulose, leaving behind brownish, cubically cracked lignin. Commonly seen on downed conifers. Examples: sulphur shelf (Laetiporus sulphureus), agarikon (Fomitopsis officinalis), split-gill polypore (Schizophyllum commune).
@@ -33,7 +33,7 @@ Mycorrhizal fungi form symbiotic associations with the roots of most forest tree
 
 - **Ectomycorrhizal**: Form a sheath around root tips; associate with oaks, pines, spruces, firs, birches. The fungal partner extends the root system's effective reach by 10-100x, accessing water and nutrients (especially phosphorus) far beyond the root zone.
 - **Endomycorrhizal (VAM)**: Penetrate root cells; associate with most herbaceous plants and some trees.
-- **The Wood Wide Web**: Mycelial networks connect multiple trees, facilitating nutrient transfer between individuals. A mother tree can send carbon to shaded seedlings through shared mycorrhizal networks.
+- **The [[wood-wide-web]]**: Mycelial networks connect multiple trees, facilitating nutrient transfer between individuals. A mother tree can send carbon to shaded seedlings through shared mycorrhizal networks.
 
 ## Soil Formation
 
@@ -58,7 +58,7 @@ Mushrooms feed a vast array of forest organisms: insects, slugs, deer, squirrels
 - [[mushroom-foraging-safety]]
 ## Historical Context
 
-The study and practice of fungal ecology forest floor has evolved significantly over time, incorporating both traditional knowledge and modern scientific understanding.
+The study and practice of [[fungal-ecology]] forest floor has evolved significantly over time, incorporating both traditional knowledge and modern scientific understanding.
 Early practitioners developed foundational techniques that continue to inform current approaches.
 Historical records document the long-standing relationship between humans and this subject area.
 

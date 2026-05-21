@@ -21,7 +21,7 @@ sources:
 
 # Mushroom Inoculation Methods
 
-From Chapter 9 of *Mycelium Running* by [[paul-stamets]]. This chapter covers the practical methods for starting and expanding mycelium, from the simplest spore techniques to advanced spawn multiplication.
+From Chapter 9 of *[[mycelium]] Running* by [[paul-stamets]]. This chapter covers the practical methods for starting and expanding mycelium, from the simplest spore techniques to advanced spawn multiplication.
 
 ## Spore Collection
 
@@ -60,7 +60,7 @@ The salt limits bacterial growth without stifling spore germination. This is a m
 ### Spores on Straw (Cold Incubation)
 - Immerse 1g spores in 1 liter water; spread over 10 lbs moist untreated straw
 - Place in perforated bag, burlap sack, or wooden crate
-- Store outside at 35-50F in January; oyster mushrooms fruit by late March
+- Store outside at 35-50F in January; [[oyster-mushrooms]] fruit by late March
 - Works because cold temperatures suppress competitors more than the target species
 
 ### Spores on Burlap
@@ -86,8 +86,8 @@ Spawn is mycelium that has been grown on a carrier medium and is used to inocula
 
 | Spawn Type | Carrier | Best For |
 |-----------|---------|----------|
-| Grain spawn | Sterilized rye, millet, wheat | Indoor cultivation, fast expansion |
-| Sawdust spawn | Sterilized hardwood sawdust + bran | Logs, stumps, bulk substrates |
+| [[grain-spawn]] | Sterilized rye, millet, wheat | Indoor cultivation, fast expansion |
+| [[sawdust-spawn]] | Sterilized hardwood sawdust + bran | Logs, stumps, bulk substrates |
 | Plug/dowel spawn | Wooden dowels grooved for mycelium | Logs, stumps, outdoor beds |
 | Wood chip spawn | Fresh hardwood chips | Outdoor beds, bunker spawn |
 | Cardboard sheet spawn | Corrugated cardboard | Outdoor expansion, low-tech |
@@ -104,7 +104,7 @@ Stamets recommends creating "mother patches" from laboratory spawn:
 ### Finding and Identifying Wild Mycelium
 - Look beneath downed logs, in firewood stacks, in leaf/wood chip piles
 - Healthy mycelium grips wood chips firmly — tenacity reflects vigor
-- Scent is key: oyster = anise, Clitocybe odora = sweet, matsutake = pine
+- Scent is key: oyster = anise, [[clitocybe-odora]] = sweet, matsutake = pine
 - Mycelial "lens" or "motherlode" = a large natural concentration usable as mother patch
 
 ### Transplantation Protocol

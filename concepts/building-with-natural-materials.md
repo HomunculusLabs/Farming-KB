@@ -9,7 +9,7 @@ sources: []
 
 # Building with Natural Materials
 
-Natural building uses locally sourced, minimally processed materials to create structures that are healthy, energy-efficient, and low in embodied energy. For the homesteader, natural building reduces costs, eliminates dependency on industrial supply chains, and creates buildings that are uniquely suited to their climate and landscape.
+[[natural-building]] uses locally sourced, minimally processed materials to create structures that are healthy, energy-efficient, and low in embodied energy. For the homesteader, natural building reduces costs, eliminates dependency on industrial supply chains, and creates buildings that are uniquely suited to their climate and landscape.
 
 ## Cob
 
@@ -50,7 +50,7 @@ Cons: Labor intensive, slow building process, vulnerable to prolonged moisture e
 
 ## Straw Bale
 
-Straw bale construction uses baled straw (not hay) as either infill insulation within a structural frame (post-and-beam) or as the structural wall itself (load-bearing, also called Nebraska style).
+[[straw-bale-construction]] uses baled straw (not hay) as either infill insulation within a structural frame (post-and-beam) or as the structural wall itself (load-bearing, also called Nebraska style).
 
 ### Straw vs Hay
 
@@ -79,7 +79,7 @@ Timber frame construction uses large timber posts and beams connected by traditi
 
 - Oak: Traditional, strongest, most rot-resistant. Difficult to work.
 - Pine: Easier to work, lighter, less rot-resistant. Treat or keep dry.
-- Douglas fir: Strong, available in large dimensions in western North America.
+- [[douglas-fir]]: Strong, available in large dimensions in western North America.
 - Locally milled timber reduces cost and transport. A portable sawmill can process trees from the [[woodlot-management]].
 
 ### Joinery
@@ -96,7 +96,7 @@ Earthships are passive solar buildings developed by Michael Reynolds that use re
 
 ### Core Principles
 
-- Thermal mass: Tire walls filled with rammed earth provide massive thermal storage
+- Thermal mass: Tire walls filled with [[rammed-earth]] provide massive thermal storage
 - Passive solar: South-facing glass captures winter sun
 - Natural ventilation: Operable windows and skylights create cross-ventilation
 - Rainwater catchment: Roof water collection for all water needs

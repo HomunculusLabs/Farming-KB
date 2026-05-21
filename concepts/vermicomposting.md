@@ -9,7 +9,7 @@ sources: []
 
 # Vermicomposting
 
-Vermicomposting is the process of using earthworms to decompose organic waste into vermicast (worm castings) — one of the finest soil amendments available. Worm castings are rich in plant-available nutrients, beneficial microorganisms, humic acids, and plant growth hormones. Vermicomposting can be done indoors or outdoors, in small apartments or on large homesteads, making it one of the most accessible composting methods.
+Vermicomposting is the process of using [[earthworms]] to decompose organic waste into vermicast (worm castings) — one of the finest soil amendments available. Worm castings are rich in plant-available nutrients, beneficial microorganisms, humic acids, and plant growth hormones. Vermicomposting can be done indoors or outdoors, in small apartments or on large homesteads, making it one of the most accessible [[composting]] methods.
 
 ## Benefits of Vermicomposting
 
@@ -19,7 +19,7 @@ Vermicomposting is the process of using earthworms to decompose organic waste in
 - **Compact**: Requires very little space compared to traditional composting.
 - **Odor-free when managed properly**: A healthy worm bin smells like earth, not rot.
 - **Waste reduction**: Diverts kitchen scraps from the waste stream.
-- [[composting-systems]] covers traditional thermophilic composting as a complementary approach.
+- [[composting-systems]] covers traditional [[thermophilic-composting]] as a complementary approach.
 
 ## Worm Species
 
@@ -43,7 +43,7 @@ Larger worm that is both a composter and a bait worm.
 ### Perionyx excavatus (Indian Blue Worm)
 Tropical species that processes waste quickly but is sensitive to temperature fluctuations. Not recommended for beginners or cooler climates.
 
-**Recommendation**: Start with Eisenia fetida (red wigglers). They are the most forgiving, widely available, and efficient composters.
+**Recommendation**: Start with [[eisenia-fetida]] (red wigglers). They are the most forgiving, widely available, and efficient composters.
 
 ## Bin Setup
 
@@ -73,7 +73,7 @@ Bedding provides a moist, carbon-rich environment for worms. Materials:
 - Shredded cardboard (no tape, labels, or glossy coatings)
 - Shredded brown paper bags
 - Aged leaves
-- Coconut coir (peat-free alternative to peat moss)
+- Coconut coir (peat-free alternative to [[peat-moss]])
 - Straw or hay (chopped)
 
 **Bedding preparation**: Soak bedding in water, then wring out thoroughly. Bedding should be as moist as a wrung-out sponge — damp but not dripping. Fill the bin 6-8 inches deep with fluffed, moist bedding.

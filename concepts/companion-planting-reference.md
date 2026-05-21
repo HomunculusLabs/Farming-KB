@@ -9,7 +9,7 @@ sources: []
 
 # Companion Planting Reference
 
-Companion planting leverages synergistic relationships between plants to improve growth, repel pests, attract beneficial insects, and maximize space. This reference covers classic combinations, pest-repelling partnerships, and incompatible pairings.
+[[companion-planting]] leverages synergistic relationships between plants to improve growth, repel pests, attract beneficial insects, and maximize space. This reference covers classic combinations, pest-repelling partnerships, and incompatible pairings.
 
 ## Classic Combinations
 
@@ -27,7 +27,7 @@ Companion planting leverages synergistic relationships between plants to improve
 - Space basil 10-12 in from tomato base.
 
 ### Marigolds + Everything
-- French marigolds (Tagetes patula) release compounds that repel root-knot nematodes in soil.
+- French marigolds ([[tagetes]] patula) release compounds that repel root-knot nematodes in soil.
 - Strong scent deters whiteflies, aphids, and cabbage moths.
 - Plant throughout the garden, especially near tomatoes, peppers, and brassicas.
 - Avoid planting marigolds near beans (allelopathic).
@@ -47,7 +47,7 @@ Companion planting leverages synergistic relationships between plants to improve
 | Rosemary | Cabbage moths, bean beetles, carrot flies | Beans, cabbage, carrots |
 | Sage | Cabbage moths, carrot rust flies | Cabbage, carrots, tomatoes |
 | Thyme | Cabbage worms, whiteflies | Brassicas, tomatoes |
-| Yarrow | Aphids, attracts predatory wasps | Near any vegetable bed |
+| [[yarrow]] | Aphids, attracts predatory wasps | Near any vegetable bed |
 
 ## Trap Cropping
 
@@ -69,7 +69,7 @@ Trap crops attract pests away from your main crop:
 | Beans | Beets | Mutual antagonism, reduced growth |
 | Tomatoes | Corn | Tomato fruitworm = corn earworm; share pest |
 | Tomatoes | Fennel | Fennel is allelopathic to tomatoes |
-| Tomatoes | Potatoes | Same pest complex (late blight, Colorado potato beetle) |
+| Tomatoes | Potatoes | Same pest complex ([[late-blight]], Colorado potato beetle) |
 | Tomatoes | Cabbage | Tomatoes stunt cabbage growth |
 | Cabbage | Strawberries | Mutual antagonism |
 | Cabbage | Tomatoes | Growth inhibition |
@@ -107,6 +107,6 @@ These plants attract pollinators and predatory insects that control pest populat
 ## Related Concepts
 
 - [[hugelkultur-guide]] for mound-based polyculture planting
-- [[composting-methods-comparison]] for building soil fertility to support companion systems
+- [[composting-methods-comparison]] for [[building-soil]] fertility to support companion systems
 - [[square-foot-gardening]] for spacing guidance in intensive layouts
 - [[raised-bed-gardening]] for bed construction suited to companion planting

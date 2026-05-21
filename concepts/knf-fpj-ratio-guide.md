@@ -11,7 +11,7 @@ sources:
 
 # KNF FPJ Ratio Guide
 
-Fermented Plant Juice (FPJ) and Fermented Fruit Juice (FFJ) both follow the same fundamental osmotic pressure extraction method. This guide covers the correct ratios by plant material type, sugar ratios, and expected fermentation times.
+[[fermented-plant-juice]] (FPJ) and Fermented Fruit Juice (FFJ) both follow the same fundamental osmotic pressure extraction method. This guide covers the correct ratios by plant material type, sugar ratios, and expected fermentation times.
 
 ## Base Ratio
 
@@ -50,7 +50,7 @@ Choose plant material that matches the growth stage of your target crop:
 ### Fruiting Plants
 
 - Banana peel: use ripe bananas with black spots
-- Papaya: contains high enzyme content
+- Papaya: contains high [[enzyme]] content
 - Mango: good for flowering energy
 - Tomato: rich in lycopene and nutrients
 

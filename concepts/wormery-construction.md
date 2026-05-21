@@ -11,17 +11,17 @@ sources: [raw/papers/hamilton-geoffhamilton-nick_-organic-gardening.md]
 
 ## Overview
 
-A wormery is a managed system for producing [[vermicomposting]] by housing composting worms (typically red worms / nightcrawlers, *Lumbricus terrestris*) in a purpose-built container. Worms dramatically speed up decomposition and produce a superior soil conditioner and fertilizer compared to conventional composting.
+A wormery is a managed system for producing [[vermicomposting]] by housing [[composting]] worms (typically red worms / nightcrawlers, *[[lumbricus-terrestris]]*) in a purpose-built container. Worms dramatically speed up [[decomposition]] and produce a superior soil conditioner and fertilizer compared to conventional composting.
 
 ## How Worms Improve Soil
 
-Worms feed on organic matter and eject it as gel-coated pellets. This crumb structure improves soil drainage and aeration, providing a superior environment for root growth. The pellets convert nutrients into a form readily available to plant roots, released slowly as required, preventing short-term toxicity. The water-holding capacity of soil is also increased considerably.
+Worms feed on organic matter and eject it as gel-coated pellets. This [[crumb-structure]] improves soil drainage and aeration, providing a superior environment for root growth. The pellets convert nutrients into a form readily available to plant roots, released slowly as required, preventing short-term toxicity. The water-holding capacity of soil is also increased considerably.
 
 Worms break organic matter into smaller granules, enabling soil microbes to work on a greater surface area. They produce enzymes that help bacteria work more efficiently, accelerating decomposition overall.
 
 ## Worm Species
 
-The worms needed are commonly known as "nightcrawlers" or "red worms" (*Lumbricus terrestris*). These worms do not live long in ordinary soil but multiply very quickly in manure or compost heaps. If none are found in your compost heap, buy from a fishing tackle shop or specialist supplier.
+The worms needed are commonly known as "nightcrawlers" or "red worms" (*Lumbricus terrestris*). These worms do not live long in ordinary soil but multiply very quickly in manure or [[compost]] heaps. If none are found in your compost heap, buy from a fishing tackle shop or specialist supplier.
 
 ## Building a Wormery (Step by Step)
 
@@ -61,7 +61,7 @@ The worm works upward through layers. Take worm-worked material from the bottom 
 ## Related
 
 - [[compost-container-types]] — other composting container designs
-- [[green-manure-crops-detailed]] — alternative soil improvement through cover crops
+- [[green-manure-crops-detailed]] — alternative soil improvement through [[cover-crops]]
 - [[homemade-liquid-fertilizer]] — liquid feeding for plants
 ## Historical Context
 

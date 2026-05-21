@@ -13,7 +13,7 @@ A mandala garden is a circular garden layout based on repeating geometric patter
 
 ## The Concept
 
-The mandala garden borrows its name and visual inspiration from mandalas — circular, geometric patterns found in Hindu and Buddhist art, as well as in natural forms like flower heads, spider webs, and tree rings. In permaculture, the mandala garden translates these patterns into a functional garden layout.
+The mandala garden borrows its name and visual inspiration from mandalas — circular, geometric patterns found in Hindu and Buddhist art, as well as in natural forms like flower heads, spider webs, and tree rings. In [[permaculture]], the mandala garden translates these patterns into a functional garden layout.
 
 Key principles:
 
@@ -48,7 +48,7 @@ A classic pattern using six-fold symmetry:
 
 - Six circular or crescent-shaped beds arranged around a center
 - Six keyhole paths providing access between the beds
-- Hexagonal or circular center feature (herb spiral, fruit tree, seating area, or water feature)
+- Hexagonal or circular center feature ([[herb-spiral]], fruit tree, seating area, or water feature)
 
 ### Eight-Fold Mandala
 
@@ -70,7 +70,7 @@ Eight beds with eight keyhole paths, creating a more intricate pattern. Each bed
   - An herb spiral (combines two permaculture patterns)
   - A circular seating area
   - A water feature or pond
-  - A compost bin or worm bin
+  - A [[compost]] bin or worm bin
   - A statuary or art piece
 - **Solar orientation:** In the Northern Hemisphere, the south side of the mandala receives the most sun. Plant accordingly — sun-loving crops on the south, shade-tolerant crops on the north.
 - **Wind:** If prevailing wind comes from one direction, use taller plants or a trellis on the windward side as a windbreak for the rest of the garden.
@@ -86,7 +86,7 @@ Eight beds with eight keyhole paths, creating a more intricate pattern. Each bed
 
 ### Sheet Mulching (Lasagna Gardening)
 
-Mandala gardens are often established using sheet mulching to build soil without tilling:
+Mandala gardens are often established using [[sheet-mulching]] to build soil without tilling:
 
 1. **Mark the pattern:** Use string, stakes, lime, or hoses to outline the beds and paths on the ground
 2. **Smother existing vegetation:** Lay down cardboard or newspaper (5-10 sheets thick) over the bed areas. Overlap edges by 6 inches.
@@ -111,7 +111,7 @@ The mandala garden's design lends itself to intensive planting methods:
 
 - As one crop is harvested, immediately replant with a different crop
 - Use a planting calendar to plan continuous harvests throughout the season
-- Fast-growing crops (radishes, lettuce, arugula) fill gaps between slower crops
+- Fast-growing crops (radishes, lettuce, [[arugula]]) fill gaps between slower crops
 
 ### Companion Planting
 

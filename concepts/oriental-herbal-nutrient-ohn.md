@@ -26,7 +26,7 @@ sources:
 
 # Oriental Herbal Nutrient (OHN)
 
-OHN is a medicinal herbal tincture in Korean Natural Farming. It functions as an immune booster for plants, a pest deterrent, and a disease preventative. Made by extracting the active compounds from five traditional medicinal herbs into alcohol, OHN provides plants with natural defense compounds (allicin, gingerol, capsaicin, etc.) that strengthen cell walls and repel pests.
+OHN is a medicinal herbal tincture in [[korean-natural-farming]]. It functions as an immune booster for plants, a pest deterrent, and a disease preventative. Made by extracting the active compounds from five traditional medicinal herbs into alcohol, OHN provides plants with natural defense compounds ([[allicin]], gingerol, [[capsaicin]], etc.) that strengthen cell walls and repel pests.
 
 ## The Five Herbs
 
@@ -35,10 +35,10 @@ Cho's original formulation uses five medicinal herbs, each contributing specific
 | Herb | Active Compounds | Primary Function |
 |------|-----------------|-----------------|
 | Angelica (Angelica gigas/Dong Quai) | Coumarins, angelic acid | Immune system stimulation, disease resistance |
-| Cinnamon (Cinnamomum cassia) | Cinnamaldehyde, eugenol | Antifungal, antibacterial, growth promotion |
+| Cinnamon ([[cinnamomum-cassia]]) | Cinnamaldehyde, [[eugenol]] | Antifungal, antibacterial, growth promotion |
 | Garlic | Allicin, diallyl disulfide | Broad-spectrum antimicrobial, pest repellent |
 | Ginger | Gingerol, shogaol | Antifungal, growth stimulant, digestive aid |
-| Licorice (Glycyrrhiza uralensis) | Glycyrrhizin | Harmonizer, anti-inflammatory, enhances other herbs |
+| Licorice ([[glycyrrhiza-uralensis]]) | Glycyrrhizin | Harmonizer, anti-inflammatory, enhances other herbs |
 
 ### Herb Substitutions
 - Angelica: Can substitute with local medicinal roots (valerian, echinacea)
@@ -109,7 +109,7 @@ Cho's original formulation uses five medicinal herbs, each contributing specific
 
 ## Carandang's Simplified Method
 
-From the IMO/bionutrients paper — a faster approach:
+From the IMO/[[bionutrients]] paper — a faster approach:
 
 1. Mix 1 kg crushed ginger + 1 kg crushed garlic + 1 kg crude sugar/molasses
 2. Add 1 liter beer or local wine (natural yeast source)

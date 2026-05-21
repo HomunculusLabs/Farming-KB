@@ -25,7 +25,7 @@ Proper identification requires training, patience, and ideally expert guidance. 
 
 ### 1. Blue Bruising (Bluing Reaction)
 
-The most characteristic feature of psilocybin mushrooms is the tendency of the flesh to turn blue or blue-green when bruised, cut, or handled. This reaction is caused by the oxidation of psilocin (the active compound) and is the single most useful field indicator.
+The most characteristic feature of [[psilocybin-mushrooms]] is the tendency of the flesh to turn blue or blue-green when bruised, cut, or handled. This reaction is caused by the oxidation of psilocin (the active compound) and is the single most useful field indicator.
 
 - Bluing may appear on the stem, cap, gills, or flesh when damaged.
 - The reaction is not instantaneous; it may take seconds to minutes to develop.
@@ -34,12 +34,12 @@ The most characteristic feature of psilocybin mushrooms is the tendency of the f
 
 ### 2. Spore Print Color
 
-A spore print is essential for identification. Place the cap gills-down on paper (white and dark) for several hours to collect the deposit:
+A [[spore-print]] is essential for identification. Place the cap gills-down on paper (white and dark) for several hours to collect the deposit:
 
 - Most psilocybin mushrooms produce a **purple-brown to dark purple-black** spore print.
-- *Psilocybe cubensis*: Purple-brown to nearly black.
-- *Psilocybe semilanceata*: Dark purple-brown.
-- *Psilocybe cyanescens*: Dark purplish-brown.
+- *[[psilocybe-cubensis]]*: Purple-brown to nearly black.
+- *[[psilocybe-semilanceata]]*: Dark purple-brown.
+- *[[psilocybe-cyanescens]]*: Dark purplish-brown.
 - *Panaeolus cyanescens*: Black.
 
 ### 3. Gill Characteristics
@@ -85,7 +85,7 @@ Most psilocybin mushrooms have a mild, farinaceous (flour-like or mealy) odor. A
 - Grows in similar habitats (wood chips, forest floor, near rotting wood)
 - Has a brown cap and similar gill attachment
 - Spore print is rusty brown (distinguishing from purple-brown psilocybin species)
-- Contains **amatoxins**, the same lethal toxins found in *Amanita phalloides* (death cap). Ingestion can cause liver failure and death.
+- Contains **amatoxins**, the same lethal toxins found in *[[amanita-phalloides]]* (death cap). Ingestion can cause liver failure and death.
 - This is the single most dangerous lookalike.
 
 ### *Inocybe* species

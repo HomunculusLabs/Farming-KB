@@ -18,7 +18,7 @@ Bud rot is the most feared disease in cannabis cultivation. It attacks from the 
 ### Identification
 
 - Bud interior turns brown, gray, or mushy
-- Gray-white webbing (mycelium) visible inside affected buds
+- Gray-white webbing ([[mycelium]]) visible inside affected buds
 - Leaves emerging from bud turn yellow or brown and dry out
 - Musty, damp smell from affected areas
 - In advanced stages, gray spore puff releases when bud is squeezed
@@ -43,14 +43,14 @@ Bud rot is the most feared disease in cannabis cultivation. It attacks from the 
 ### Treatment
 
 - Remove affected buds immediately with sterile scissors — cut at least 1 inch below visible damage
-- Dispose of infected material outside the grow space (do not compost)
+- Dispose of infected material outside the grow space (do not [[compost]])
 - Increase airflow and reduce humidity immediately
 - If more than 10-15% of the plant is affected, consider early harvest
-- Apply preventative biological sprays (Trichoderma, Bacillus subtilis) to remaining plants
+- Apply preventative biological sprays ([[trichoderma]], [[bacillus-subtilis]]) to remaining plants
 
 ## Powdery Mildew (Podosphaera macularis)
 
-A fungal disease that appears as white powdery spots on leaf surfaces. Unlike most fungi, powdery mildew does not require free water to establish — it thrives in moderate humidity with warm days and cool nights.
+A fungal disease that appears as white powdery spots on leaf surfaces. Unlike most fungi, [[powdery-mildew]] does not require free water to establish — it thrives in moderate humidity with warm days and cool nights.
 
 ### Identification
 
@@ -84,7 +84,7 @@ A fungal disease that appears as white powdery spots on leaf surfaces. Unlike mo
 
 ## Root Rot
 
-Root rot encompasses several conditions that destroy the root system, most commonly caused by Pythium, Fusarium, or Phytophthora species. Overwatering and poorly drained media are the primary causes.
+Root rot encompasses several conditions that destroy the root system, most commonly caused by Pythium, Fusarium, or [[phytophthora]] species. Overwatering and poorly drained media are the primary causes.
 
 ### Identification
 
@@ -106,7 +106,7 @@ Root rot encompasses several conditions that destroy the root system, most commo
 
 - Water only when the top inch of medium is dry
 - Ensure pots have adequate drainage holes
-- Use well-aerated media (perlite, pumice, rice hulls)
+- Use well-aerated media ([[perlite]], pumice, rice hulls)
 - Maintain root zone temperature at 65-72 F
 - Use beneficial microbes (Trichoderma, Bacillus, mycorrhizae) to colonize and protect roots
 - In hydroponics, maintain dissolved oxygen above 6 ppm with air stones

@@ -15,7 +15,7 @@ Pellet stoves burn compressed wood pellets — small cylinders of dried, ground 
 
 ### Composition and Standards
 
-Quality wood pellets are made from compressed sawdust and wood shavings with no binders — the natural lignin in wood acts as the binding agent when heated under pressure in the pellet mill.
+Quality wood pellets are made from compressed sawdust and wood shavings with no binders — the natural [[lignin]] in wood acts as the binding agent when heated under pressure in the pellet mill.
 
 Premium pellet standards (PFI in the US, ENplus in Europe):
 - Diameter: 6mm (1/4 inch) standard, 8mm available

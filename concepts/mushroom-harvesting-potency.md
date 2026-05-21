@@ -22,7 +22,7 @@ sources:
 
 # Mushroom Harvesting and Potency
 
-Harvest timing, drying method, and storage dramatically affect the quality and potency of cultivated mushrooms. PF (Psylocybe Fanaticus) and Paul Stamets both provide detailed guidance. This page covers harvest timing for maximum potency, drying and storage methods, spore printing, and spore syringe preparation.
+Harvest timing, drying method, and storage dramatically affect the quality and potency of cultivated mushrooms. PF ([[psylocybe-fanaticus]]) and [[paul-stamets]] both provide detailed guidance. This page covers harvest timing for maximum potency, drying and storage methods, spore printing, and [[spore-syringe-preparation]].
 
 ## When to Harvest: Pre-Sporulation
 
@@ -55,9 +55,9 @@ Pick ALL tiny primordia that stop growing (abhort) and small mutant growths (rou
 
 ## Potency Factors
 
-From PF and Jochen Gartz's research, P. cubensis can achieve baseline psilocybin content of 1% (similar to P. semilanceata) when:
+From PF and [[jochen-gartz]]'s research, P. cubensis can achieve baseline [[psilocybin]] content of 1% (similar to P. semilanceata) when:
 
-1. **Grown on brown rice** (PF TEK substrate)
+1. **Grown on brown rice** ([[pf-tek]] substrate)
 2. **Harvested young** (pre-sporulation)
 3. **Dried properly** (cool desiccation)
 
@@ -70,7 +70,7 @@ From PF and Jochen Gartz's research, P. cubensis can achieve baseline psilocybin
 | 3 grams | Visual waves; air appears liquid with tidal movements |
 | 4 grams | Intense experience, 4-5 hours |
 | 5 grams | Nearly overwhelming, 6 hours |
-| 7+ grams | Not recommended; requires very supportive set and setting |
+| 7+ grams | Not recommended; requires very supportive [[set-and-setting]] |
 
 Note: Individual sensitivity varies enormously. One mycologist needs only 1-2 grams for a full experience; another woman felt nothing at 5 grams.
 

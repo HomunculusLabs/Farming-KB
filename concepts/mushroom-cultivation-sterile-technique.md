@@ -9,7 +9,7 @@ sources: [raw/papers/the-mushroom-cultivator-stamets.md]
 
 # Mushroom Cultivation - Sterile Technique
 
-The air we breathe is a living sea of microscopic organisms. In mushroom culture, eliminating or reducing the movement of these organisms is essential for success. The five primary sources of contamination are: (1) the immediate external environment, (2) the culture medium, (3) the culturing equipment, (4) the cultivator and their clothes, and (5) the mushroom spores or mycelium.
+The air we breathe is a living sea of microscopic organisms. In mushroom culture, eliminating or reducing the movement of these organisms is essential for success. The five primary sources of contamination are: (1) the immediate external environment, (2) the culture medium, (3) the culturing equipment, (4) the cultivator and their clothes, and (5) the mushroom spores or [[mycelium]].
 
 ## Constructing a Sterile Laboratory
 
@@ -44,7 +44,7 @@ Standard agar media formulas:
 
 **PDY (Potato Dextrose Yeast) Agar**: Filtered broth from boiling 300g sliced potatoes in 1L water for 1 hour + 10g dextrose + 2g yeast (optional) + 20g agar.
 
-**MEA (Malt Extract Agar)**: 20g light tan brewer's malt + 2g yeast + 20g agar per liter.
+**MEA ([[malt-extract-agar]])**: 20g light tan brewer's malt + 2g yeast + 20g agar per liter.
 
 **MPG (Malt Peptone Grain) Agar**: 20g tan malt + 5g ground rye grain + 5g peptone + 2g yeast (optional) + 20g agar per liter.
 
@@ -77,7 +77,7 @@ Interdisciplinary approaches have proven particularly valuable in advancing our 
 Applied work with mushroom cultivation sterile technique spans multiple contexts and scales, from small-scale operations to industrial applications.
 Successful implementation requires attention to site-specific conditions and adaptive management strategies.
 Practitioners benefit from integrating both empirical observations and systematic monitoring.
-Economic viability often depends on careful resource allocation and appropriate technology selection.
+Economic viability often depends on careful resource allocation and [[appropriate-technology]] selection.
 
 ## Future Directions
 

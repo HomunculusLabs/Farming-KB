@@ -9,7 +9,7 @@ sources: [raw/papers/uwe-blesching-the-cannabis-health-index.md]
 
 # THC Therapeutic Profile
 
-Delta-9-tetrahydrocannabinol (THC) is the primary psychoactive compound in cannabis and the most studied cannabinoid. It binds directly to CB1 and CB2 receptors, producing a wide range of therapeutic effects alongside its psychoactive properties.
+Delta-9-[[tetrahydrocannabinol]] (THC) is the primary psychoactive compound in cannabis and the most studied cannabinoid. It binds directly to CB1 and CB2 receptors, producing a wide range of therapeutic effects alongside its psychoactive properties.
 
 ## Key Therapeutic Effects
 
@@ -20,7 +20,7 @@ Delta-9-tetrahydrocannabinol (THC) is the primary psychoactive compound in canna
 
 ### Antiemetic (Anti-Nausea/Vomiting)
 - Strongest evidence for chemotherapy-induced nausea
-- FDA-approved synthetic THC (dronabinol, nabilone) exists
+- FDA-approved synthetic THC ([[dronabinol]], [[nabilone]]) exists
 - More effective than many conventional antiemetics for delayed nausea
 
 ### Appetite Stimulant

@@ -24,7 +24,7 @@ sources:
 
 # Compost Tea Guide — Complete AACT Manual
 
-Actively Aerated Compost Tea (AACT) is a water extract of compost, brewed with food resources and actively aerated to multiply beneficial microorganisms. Developed by Dr. Elaine Ingham, AACT delivers the full [[soil-food-web-nutrient-cycling]] — bacteria, fungi, protozoa, and nematodes — to soil and foliage. It is NOT anaerobic tea, leachate, or manure tea. True compost contains no human pathogens; AACT brewed aerobically maintains that safety.
+[[actively-aerated-compost-tea]] (AACT) is a water extract of compost, brewed with food resources and actively aerated to multiply beneficial microorganisms. Developed by Dr. [[elaine-ingham]], AACT delivers the full [[soil-food-web-nutrient-cycling]] — bacteria, fungi, protozoa, and nematodes — to soil and foliage. It is NOT anaerobic tea, leachate, or [[manure-tea]]. True compost contains no human pathogens; AACT brewed aerobically maintains that safety.
 
 ## Equipment
 
@@ -44,18 +44,18 @@ Actively Aerated Compost Tea (AACT) is a water extract of compost, brewed with f
 
 ### Base Compost (1-2 cups per 5 gallons)
 - Must be aerobic — sweet earthy smell, no putrid odor
-- Should contain visible fungal hyphae (white threads)
+- Should contain visible [[fungal-hyphae]] (white threads)
 - Worm castings = excellent bacterial source
 - Forest humus = excellent fungal source
-- Thermal compost = balanced bacteria:fungi depending on feedstocks
+- [[thermal-compost]] = balanced bacteria:fungi depending on feedstocks
 - Test compost via Soil Foodweb lab if possible — know your biology
 
 ### Food Resources (select for desired organism group)
 
 | Food | Feeds | Rate (per 5 gal) |
 |------|-------|-------------------|
-| Unsulfured blackstrap molasses | Bacteria | 1-4 Tbsp |
-| Fish hydrolysate | Bacteria + fungi | 1-2 Tbsp |
+| Unsulfured [[blackstrap-molasses]] | Bacteria | 1-4 Tbsp |
+| [[fish-hydrolysate]] | Bacteria + fungi | 1-2 Tbsp |
 | Kelp meal | Fungi + micronutrients | 1-2 Tbsp |
 | Humic/fulvic acid | Fungi | 1 Tbsp |
 | Oatmeal / cornmeal | Fungi | 1-2 Tbsp |

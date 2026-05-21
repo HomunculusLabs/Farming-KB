@@ -20,7 +20,7 @@ Fungal culture media are formulated substrates used to isolate, cultivate, maint
 ## Principles of Media Formulation
 
 ### Key Considerations
-- **Carbon source**: Mono/disaccharides favor vegetative growth; polysaccharides (cellulose, starch) favor enzyme production
+- **Carbon source**: Mono/disaccharides favor vegetative growth; polysaccharides ([[cellulose]], starch) favor enzyme production
 - **Nitrogen source**: Inorganic (NO3, NH4) or organic (peptone, yeast extract, amino acids)
 - **pH**: Most fungi prefer pH 4-7; some alkalophiles prefer pH 8-10
 - **Water activity (aw)**: High sugar/salt concentrations reduce aw, selecting for osmotolerant/xerophilic species
@@ -46,7 +46,7 @@ Fungal culture media are formulated substrates used to isolate, cultivate, maint
 - **Composition**: Yellow cornmeal 40g, agar 15g, water 1L (boil, simmer 15 min, filter, restore volume)
 - **Use**: Culture of myxomycetes, protostelids, acrasids, and filamentous fungi
 - **Variations**:
-  - CMDA: + glucose 2g, yeast extract 1g (microfungi, coprophilous fungi)
+  - CMDA: + glucose 2g, yeast extract 1g (microfungi, [[coprophilous-fungi]])
   - CM/2: half-strength (myxomycetes)
   - ACMA: alkaline (pH 9.7) for alkalophilic fungi
 
@@ -78,7 +78,7 @@ Fungal culture media are formulated substrates used to isolate, cultivate, maint
 - **Halophilic Media**: Czapek-Dox + NaCl 150-200g/L (rose bengal 60mg/L); incubate in dark at 28°C for 6-8 weeks
 
 ### Thermophilic Fungi
-- **Emerson Yeast Starch Agar (EYSA)**: Yeast extract 4g, K2HPO4 1g, MgSO4 0.5g, soluble starch 15g, agar 20g, tap water 250ml + distilled water 750ml. Add gentamicin 50mg/L and penicillin G 100 units. For thermotolerant and thermophilic fungi.
+- **Emerson Yeast Starch Agar (EYSA)**: Yeast extract 4g, K2HPO4 1g, MgSO4 0.5g, soluble starch 15g, agar 20g, tap water 250ml + distilled water 750ml. Add gentamicin 50mg/L and penicillin G 100 units. For thermotolerant and [[thermophilic-fungi]].
 
 ### Freshwater and Aquatic Fungi
 - **PmTG Agar**: Standard medium for chytrid isolation (peptone, milk, tryptone, glucose, agar)
@@ -89,15 +89,15 @@ Fungal culture media are formulated substrates used to isolate, cultivate, maint
 - **Basal Control Medium (BAM)**: Complex anaerobic medium with mineral solutions, volatile fatty acids, hemin, cellobiose, resazurin, cysteine. Requires anaerobic handling (CO2 atmosphere).
 
 ### Endophytes and Plant-Associated Fungi
-- **Hypomyces Fruiting Agar (HFA)**: Two-part medium (potato infusion + glucose; malt extract + agar). Stimulates perithecia of Hypomyces polyporinus. For fungicolous fungi.
+- **Hypomyces Fruiting Agar (HFA)**: Two-part medium (potato infusion + glucose; malt extract + agar). Stimulates perithecia of Hypomyces polyporinus. For [[fungicolous-fungi]].
 
 ### Entomopathogenic Fungi
-- **Grace's Insect Tissue Culture Medium**: Grace's medium 44.5g/L in distilled water. Add fetal bovine serum (50-100ml/L) and streptomycin (100mg/L) as needed. For fungal parasites of insects and invertebrates.
+- **Grace's Insect Tissue Culture Medium**: Grace's medium 44.5g/L in distilled water. Add fetal bovine serum (50-100ml/L) and streptomycin (100mg/L) as needed. For [[fungal-parasites]] of insects and invertebrates.
 
 ### Clinical and Medical Fungi
 - **Brain-Heart Infusion Agar (BHIA)**: Calf-brain infusion 200g, beef-heart infusion 250g, peptone 10g, glucose 2g, NaCl 5g, agar 15g, water 1L. For clinical samples.
 - **Chocolate Agar**: Casein + peptone medium + 5-10% defibrinated blood heated to 80°C. For clinical fungal cultures.
-- **Caffeic Acid (Phenol Oxidase) Medium**: Tests for Cryptococcus neoformans melanin production.
+- **Caffeic Acid (Phenol Oxidase) Medium**: Tests for [[cryptococcus-neoformans]] melanin production.
 
 ### Cellulolytic Activity
 - **Carboxymethyl Cellulose (CMC) Agar**: CMC 10g, yeast extract 0.5g, (NH4)2SO4 1g, NaNO3 2g, salts, agar 15g, water 1L. Detects cellulolytic activity.

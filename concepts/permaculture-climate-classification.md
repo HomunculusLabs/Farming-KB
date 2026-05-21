@@ -15,7 +15,7 @@ sources:
 
 # Permaculture Climate Classification
 
-Chapter 5 of the Designers' Manual covers climatic factors, providing the framework for all subsequent climate-specific design chapters. Understanding climate zones is the first step in permaculture design, as plants, techniques, and strategies do not split neatly into climatic areas but overlap significantly.
+Chapter 5 of the Designers' Manual covers climatic factors, providing the framework for all subsequent climate-specific design chapters. Understanding climate zones is the first step in [[permaculture-design]], as plants, techniques, and strategies do not split neatly into climatic areas but overlap significantly.
 
 ## Classification of Broad Climatic Zones
 
@@ -27,7 +27,7 @@ The Manual uses the Trewartha (1954) classification system as its primary framew
 
 - **Warm temperate**: Mediterranean, subtropical, and warm continental climates with moderate rainfall and seasonal variation.
 
-- **Cool temperate to cold**: Mesothermal climates with distinct seasons, frost, and snow. Includes humid cool climates and cold continental zones with permafrost.
+- **Cool temperate to cold**: Mesothermal climates with distinct seasons, frost, and snow. Includes humid cool climates and cold continental zones with [[permafrost]].
 
 - **Polar and high alpine**: Extreme cold with permafrost, short growing seasons.
 
@@ -39,7 +39,7 @@ The engines of the atmosphere -- solar radiation, earth rotation, and the distri
 
 ### Precipitation
 
-Rainfall amount, distribution, reliability, and intensity are critical design factors. The Manual distinguishes between areas where precipitation exceeds transpiration and evaporation (enabling dams, wetlands, and swamps as long-term water and wildlife reserves) and deficit areas requiring water conservation strategies.
+Rainfall amount, distribution, reliability, and intensity are critical design factors. The Manual distinguishes between areas where precipitation exceeds [[transpiration]] and evaporation (enabling dams, wetlands, and swamps as long-term water and wildlife reserves) and deficit areas requiring [[water-conservation]] strategies.
 
 ### Radiation
 
@@ -68,7 +68,7 @@ A subtropical site may have severe frosts, cold winds, torrential summer rains, 
 - [[permaculture-zone-and-sector-analysis]] -- Sector analysis for climate factors
 ## Historical Context
 
-The study and practice of permaculture climate classification has evolved significantly over time, incorporating both traditional knowledge and modern scientific understanding.
+The study and practice of [[permaculture]] climate classification has evolved significantly over time, incorporating both traditional knowledge and modern scientific understanding.
 Early practitioners developed foundational techniques that continue to inform current approaches.
 
 ## Current Research

@@ -58,7 +58,7 @@ Thermal mass stores heat from the sun during the day and releases it slowly at n
 - Concrete slab floors: R-value per inch is low, but mass is excellent
 - Stone: Granite, limestone, sandstone
 - Adobe and compressed earth block
-- [[cob-building-basics-detailed|Cob]] walls: Excellent thermal mass in a natural building
+- [[cob-building-basics-detailed|Cob]] walls: Excellent thermal mass in a [[natural-building]]
 - Water: The highest volumetric heat capacity of any common material
 - Earthen plaster over straw bale: Moderate mass
 

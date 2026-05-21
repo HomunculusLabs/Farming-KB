@@ -15,7 +15,7 @@ Fungal genetics encompasses the study of heredity, variation, and gene function 
 
 ### General Features
 
-- **Size**: Fungal genomes range from ~10 Mb (in compact yeasts like Ashbya) to over 1 Gb (in some basidiomycetes)
+- **Size**: Fungal genomes range from ~10 Mb (in compact yeasts like Ashbya) to over 1 Gb (in some [[basidiomycetes]])
 - **Gene count**: Typically 5,000-15,000 protein-coding genes
 - **Gene density**: Higher than in plants and animals — fewer introns, less repetitive DNA
 - **Chromosomes**: Vary from 4-6 in yeasts to 10+ in filamentous fungi. Chromosome number does not correlate with genome size
@@ -25,12 +25,12 @@ Fungal genetics encompasses the study of heredity, variation, and gene function 
 
 | Species | Genome Size | Genes | Chromosomes | Year Sequenced |
 |---------|------------|-------|-------------|---------------|
-| Saccharomyces cerevisiae | 12.1 Mb | ~6,275 | 16 | 1996 |
+| [[saccharomyces-cerevisiae]] | 12.1 Mb | ~6,275 | 16 | 1996 |
 | Schizosaccharomyces pombe | 13.8 Mb | ~4,929 | 3 | 2002 |
 | Aspergillus nidulans | 30.1 Mb | ~11,000 | 8 | 2003 |
-| Neurospora crassa | 40 Mb | ~10,000 | 7 | 2003 |
+| [[neurospora-crassa]] | 40 Mb | ~10,000 | 7 | 2003 |
 | Coprinopsis cinerea | 37.5 Mb | ~13,000 | 13 | 2003 |
-| Schizophyllum commune | 38.5 Mb | ~14,000 | 11 | 2011 |
+| [[schizophyllum-commune]] | 38.5 Mb | ~14,000 | 11 | 2011 |
 
 ## Mating Types and Sexual Genetics
 
@@ -52,7 +52,7 @@ See [[fungal-sexual-reproduction]] for comprehensive coverage of mating systems.
 
 - Two unlinked loci (A and B) with multiple alleles each
 - ~25% inter-fertility among spores from a single fruiting body
-- A locus: regulates nuclear pairing and clamp connection formation
+- A locus: regulates nuclear pairing and [[clamp-connection]] formation
 - B locus: regulates nuclear migration and septal dissolution
 - Example: Schizophyllum commune has hundreds of A and B alleles, creating thousands of possible mating types
 
@@ -94,7 +94,7 @@ The parasexual cycle is significant because:
 Introducing foreign DNA into fungal cells:
 
 - **Protoplast transformation**: Remove cell wall with enzymes, expose naked cells to DNA, regenerate cell wall
-- **Agrobacterium-mediated transformation**: Use Agrobacterium tumefaciens to deliver DNA — works for many fungi including mushrooms
+- **Agrobacterium-mediated transformation**: Use [[agrobacterium-tumefaciens]] to deliver DNA — works for many fungi including mushrooms
 - **Electroporation**: Apply electric pulse to create temporary pores in the cell membrane
 - **Biolistics**: Coat DNA on gold/tungsten particles and shoot into cells with a gene gun
 - **Lithium acetate method**: Standard for S. cerevisiae — makes cells permeable to DNA
@@ -133,7 +133,7 @@ CRISPR-Cas9 genome editing has revolutionized fungal genetics since ~2015:
 | Trichoderma spp. | Established | Improved enzyme cocktails |
 | Neurospora crassa | Established | Model for repeat-induced point mutation (RIP) |
 | Pleurotus spp. (oyster) | Emerging | Early-stage editing for cultivation traits |
-| Agaricus bisporus | Emerging | Challenging due to multinucleate cells |
+| [[agaricus-bisporus]] | Emerging | Challenging due to multinucleate cells |
 | Psilocybe spp. | Nascent | Potential for understanding psilocybin biosynthesis |
 
 ### Challenges in Mushroom-Forming Fungi

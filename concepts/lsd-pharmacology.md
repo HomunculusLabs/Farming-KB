@@ -17,22 +17,22 @@ sources:
 
 # LSD Pharmacology
 
-The pharmacology of lysergic acid diethylamide (LSD): mechanism of action, receptor interactions, potency, pharmacokinetics, and effects.
+The pharmacology of [[lysergic-acid-diethylamide]] (LSD): mechanism of action, receptor interactions, potency, pharmacokinetics, and effects.
 
 ## Chemical Identity
 
-**LSD** (D-lysergic acid diethylamide) is a semi-synthetic ergoline alkaloid derived from lysergic acid, a component of ergot alkaloids produced by the fungus *Claviceps purpurea*. Its molecular formula is C20H25N3O, and it has a molecular weight of 323.4 g/mol.
+**LSD** (D-[[lysergic-acid]] diethylamide) is a semi-synthetic ergoline alkaloid derived from lysergic acid, a component of ergot alkaloids produced by the fungus *[[claviceps-purpurea]]*. Its molecular formula is C20H25N3O, and it has a molecular weight of 323.4 g/mol.
 
-LSD was the twenty-fifth compound in Albert Hofmann's series of lysergic acid derivatives synthesized at Sandoz, hence the original designation LSD-25.
+LSD was the twenty-fifth compound in [[albert-hofmann]]'s series of lysergic acid derivatives synthesized at Sandoz, hence the original designation LSD-25.
 
 ## Mechanism of Action
 
 ### Primary Target: Serotonin 5-HT2A Receptor
 
-LSD acts primarily as a **serotonin receptor agonist**, with its most significant actions at the **5-HT2A receptor subtype**:
+LSD acts primarily as a **[[serotonin]] receptor agonist**, with its most significant actions at the **5-HT2A receptor subtype**:
 
 - LSD binds to 5-HT2A receptors with very high affinity, acting as a partial agonist.
-- This is the same receptor that mediates the effects of psilocybin, DMT, and mescaline -- all "classical psychedelics" share this primary mechanism.
+- This is the same receptor that mediates the effects of [[psilocybin]], DMT, and mescaline -- all "classical psychedelics" share this primary mechanism.
 - 5-HT2A receptors are concentrated in the cerebral cortex, particularly in layer V of the prefrontal cortex, an area critical for integrating sensory information, self-awareness, and executive function.
 - Receptor activation triggers increased glutamate release, which in turn activates AMPA and NMDA receptors, producing cascading effects on neural activity.
 
@@ -71,7 +71,7 @@ LSD is one of the most potent pharmacologically active substances known:
 
 - Total duration: approximately **8-12 hours**.
 - The comedown/aftereffects can extend several additional hours.
-- LSD's long duration compared to psilocybin (4-6 hours) or DMT (15-60 minutes when smoked) is a distinguishing feature and an important factor in set and setting preparation.
+- LSD's long duration compared to psilocybin (4-6 hours) or DMT (15-60 minutes when smoked) is a distinguishing feature and an important factor in [[set-and-setting]] preparation.
 
 ### Metabolism and Elimination
 

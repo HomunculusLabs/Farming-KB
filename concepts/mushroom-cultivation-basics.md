@@ -22,7 +22,7 @@ sources:
 
 # Mushroom Cultivation Basics
 
-Mushroom cultivation is the process of isolating a mushroom species from the wild and growing it under controlled conditions. Unlike plants, mushrooms are the fruiting bodies of mycelium — a vast network of fungal cells that decompose organic matter. All cultivation methods follow the same basic lifecycle: spore → mycelium → primordium → mushroom.
+Mushroom cultivation is the process of isolating a mushroom species from the wild and growing it under controlled conditions. Unlike plants, mushrooms are the fruiting bodies of [[mycelium]] — a vast network of fungal cells that decompose organic matter. All cultivation methods follow the same basic lifecycle: spore → mycelium → primordium → mushroom.
 
 ## The 10 Steps of Mushroom Cultivation (Stamets)
 
@@ -40,7 +40,7 @@ Mushroom cultivation is the process of isolating a mushroom species from the wil
 ## Starting a Culture
 
 ### From Spores (Multispore)
-- Take a spore print: cap gills-down on clean paper, cover with glass, wait hours
+- Take a [[spore-print]]: cap gills-down on clean paper, cover with glass, wait hours
 - Spores from under the partial veil are most contaminant-free
 - Inoculate agar by scraping spores with flame-sterilized scalpel
 - Soak dehydrated spores in sterile water 6-12 hours to improve germination
@@ -89,7 +89,7 @@ Mushroom cultivation is the process of isolating a mushroom species from the wil
 ### Contamination Control Hierarchy
 1. **Bleach spray + hygiene** (basic)
 2. **Glove box** — still-air chamber for transfers
-3. **Laminar flow hood** with HEPA filter (0.1-0.3 micron screening) — professional standard
+3. **[[laminar-flow-hood]]** with [[hepa-filter]] (0.1-0.3 micron screening) — professional standard
 
 ## Grain Spawn
 
@@ -114,11 +114,11 @@ Mushroom cultivation is the process of isolating a mushroom species from the wil
 - **Conifers**: High resin/tannin content makes them less suitable; mix 1:1 with hardwood if used
 - **Standard formula**: 4 parts sawdust + 1 part bran (by volume)
 - **Moisture**: 60% — firm squeeze should yield only a few drops
-- **Optional**: Add gypsum at 5% dry weight for structure/porosity
+- **Optional**: Add [[gypsum]] at 5% dry weight for structure/porosity
 - **Sterilize** bags at 15 psi for 60-90 minutes
 
 ### Straw-Based Substrates
-- **Best for**: Oyster mushrooms (Pleurotus)
+- **Best for**: [[oyster-mushrooms]] ([[pleurotus]])
 - Wheat straw is standard (coarse fiber, widely available)
 - Shred/chop to 1-3 inch pieces
 - **Pasteurize** in hot water (160-170°F for 1-2 hours) — does NOT require full sterilization

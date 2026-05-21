@@ -15,13 +15,13 @@ sources:
 
 # Permaculture Wildlife Corridors
 
-Wildlife conservation is integral to permaculture design. Mollison's Manual treats wildlife habitat not as a separate reserve but as an essential component of productive landscapes, integrated through corridors, refuges, and deliberate design for biodiversity.
+Wildlife conservation is integral to [[permaculture-design]]. Mollison's Manual treats wildlife habitat not as a separate reserve but as an essential component of productive landscapes, integrated through corridors, refuges, and deliberate design for biodiversity.
 
 ## Wildlife in the Permaculture Landscape
 
 ### Water Bodies as Wildlife Reserves
 
-Wherever precipitation exceeds the demands of transpiration and evaporation, small dams, wetlands, and swamps can proliferate. All of these act as long-term water and wildlife reserves in the total landscape. Many Australian farms have become "drought-proof" due to sensible investment in Keyline or similar water conservation systems that simultaneously create wildlife habitat.
+Wherever precipitation exceeds the demands of [[transpiration]] and evaporation, small dams, wetlands, and swamps can proliferate. All of these act as long-term water and wildlife reserves in the total landscape. Many Australian farms have become "drought-proof" due to sensible investment in Keyline or similar [[water-conservation]] systems that simultaneously create wildlife habitat.
 
 ### Boulders as Wildlife Refuges
 
@@ -29,13 +29,13 @@ Boulders serve as coarse mulch, wildlife refuge, and walling/windbreak material 
 
 ### Forest Systems
 
-Multi-strata tree systems provide habitat complexity that supports diverse wildlife. The design of windbreaks, shelterbelts, and forest gardens always includes wildlife habitat as a co-benefit. Pioneer species and wildlife indicator species are noted -- aspen strips, for instance, indicate avalanche history in mountainous terrain.
+Multi-strata tree systems provide habitat complexity that supports diverse wildlife. The design of windbreaks, shelterbelts, and [[forest-gardens]] always includes wildlife habitat as a co-benefit. Pioneer species and wildlife indicator species are noted -- aspen strips, for instance, indicate avalanche history in mountainous terrain.
 
 ## Wildlife Corridors
 
 ### Design Function
 
-Wildlife corridors connect isolated habitat patches across the landscape, allowing genetic exchange and seasonal migration. In permaculture land trust design, wildlife corridors are listed among the primary aims alongside water conservation, developing forest, wetlands, and special species reserves.
+Wildlife corridors connect isolated habitat patches across the landscape, allowing genetic exchange and seasonal migration. In [[permaculture]] land trust design, wildlife corridors are listed among the primary aims alongside water conservation, developing forest, wetlands, and special species reserves.
 
 ### Integration with Productive Systems
 
@@ -72,7 +72,7 @@ Reasons people gift land include:
 - **Zone 4-5**: Large forest reserves, wetlands, and primary wildlife areas
 - **Zone 3**: Integrated orchard and pasture systems with hedgerow corridors
 - **Zone 2**: Garden ponds, bird boxes, insect habitat plantings, small rock piles
-- **Zone 1**: Companion planting for beneficial insects, small water features
+- **Zone 1**: [[companion-planting]] for beneficial insects, small water features
 
 ## Related Concepts
 
