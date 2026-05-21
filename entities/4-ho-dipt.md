@@ -3,7 +3,6 @@ title: "4-HO-DiPT"
 type: chemical
 tags:
 
-
 a synthetic substituted tryptamine with serotonin-receptor-interference-psychedelic-mechanism properties. It is a
 hydroxylated analogue of DiPT, first synthesized and characterized by Alexander
 Shulgin and documented in TIHKAL (Tryptamines I Have Known and Loved).

@@ -3,7 +3,6 @@ title: Mollison Designers Rampant Blackberry Control
 created: 2026-04-26
 tags:
 
-
 most persistent and difficult-to-control weeds in cool temperate
 and Mediterranean climates worldwide. In the permaculture
 approach described by Mollison, blackberry is not merely a weed

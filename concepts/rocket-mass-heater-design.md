@@ -3,7 +3,7 @@ title: Rocket Mass Heater Design
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
-tags: [energy, construction, homesteading, off-[[query-what-are-the-best-heating-options-for-an-off-grid-homestead]], safety, sustainability]
+tags: [energy, construction, homesteading, safety, sustainability]
 sources: []
 ---
 
@@ -26,7 +26,7 @@ The J-tube consists of:
 - **Burn tunnel:** Horizontal connection from the bottom of the feed tube to the base of the heat riser (same diameter as feed tube, 12-18 inches long)
 - **Heat riser:** Vertical chimney above the burn tunnel where secondary combustion occurs. This is the hottest part of the system (typically 6-8 inches diameter, 30-48 inches tall)
 
-The heat riser must be insulated on the outside to maintain extreme internal temperatures. Common insulation: perlite-clay mix, [[vermiculite]], or ceramic fiber blanket.
+The heat riser must be insulated on the outside to maintain extreme internal temperatures. Common insulation: perlite-clay mix, vermiculite, or ceramic fiber blanket.
 
 ### Materials for the J-Tube
 
@@ -37,7 +37,7 @@ The heat riser must be insulated on the outside to maintain extreme internal tem
 
 ## Thermal Mass Bench Design
 
-The bench is where the rocket heater stores and slowly releases heat. It is the defining feature that distinguishes a rocket mass heater from a simple [[rocket-stove]].
+The bench is where the rocket heater stores and slowly releases heat. It is the defining feature that distinguishes a rocket mass heater from a simple rocket-stove.
 
 ### Cob Bench
 
@@ -57,7 +57,7 @@ A cob bench is the most common and accessible approach:
 
 ### Bench Surface
 
-- Smooth cob or earthen plaster finish (see [[earth-plaster-and-natural-finishes]])
+- Smooth cob or earthen plaster finish (see earth-plaster-and-natural-finishes)
 - Stone or tile inlay for durable seating surfaces
 - Wood bench top (with an air gap above the cob) for a cooler sitting surface
 
@@ -94,7 +94,7 @@ A cob bench is the most common and accessible approach:
 
 - Do not oversize — a too-large system overheats the space and wastes wood
 - The bench length determines heat storage capacity, not the J-tube size
-- In very [[jarrold-warm-humid-air-delivery-chamber-cold-climate-mushroom]]s, two smaller RMHs may be better than one large one
+- In very jarrold-warm-humid-air-delivery-chamber-cold-climate-mushrooms, two smaller RMHs may be better than one large one
 
 ## Safety Considerations
 
@@ -135,5 +135,11 @@ A cob bench is the most common and accessible approach:
 
 ## Related Concepts
 
-- [[natural-building-materials-guide]] for cob and earth materials used in bench construction
-- [[earth-plaster-and-natural-finishes]] for finishing the cob bench surface
+- natural-building-materials-guide for cob and earth materials used in bench construction
+- earth-plaster-and-natural-finishes for finishing the cob bench surface
+## See Also
+- [[query-what-is-a-rocket-mass-heater-and-how-does-it-work]]
+- [[comparison-rocket-stove-vs-rocket-mass-heater]]
+- [[comparison-biogas-digester-basics-vs-rocket-stove-design]]
+- [[comparison-charcoal-production-for-cooking-vs-rocket-stove-design]]
+- [[rocket-stove-design]]

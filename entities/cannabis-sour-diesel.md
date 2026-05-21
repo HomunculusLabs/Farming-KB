@@ -1,5 +1,5 @@
 ---
-title: Overview
+title: "Sour Diesel Cannabis Strain"
 tags: []
 type: entitie
 ---

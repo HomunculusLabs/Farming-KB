@@ -5,7 +5,6 @@ updated: 2026-04-25
 type: concept
 tags:
 
-
 style, commercial, and solar) as well as autoclave sterilization for PDA medium and spawn
 production. Each method is accessible to farmers with disabilities with appropriate
 adaptations.

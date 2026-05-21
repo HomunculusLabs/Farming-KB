@@ -3,7 +3,6 @@ title: bloomfield ascospore extreme resilience electron microscope survival Resi
 created: 2026-04-28
 tags:
 
-
 spores have attracted considerable attention from mycologists,
 their capacity to withstand extreme environmental insults is
 equally remarkable and far less widely appreciated. The work of

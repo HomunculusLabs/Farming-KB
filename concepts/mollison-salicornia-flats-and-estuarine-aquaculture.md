@@ -5,7 +5,6 @@ updated: 2026-04-23
 type: concept
 tags:
 
-
 ---
 
 ## Advantages of Tidal Pond Systems

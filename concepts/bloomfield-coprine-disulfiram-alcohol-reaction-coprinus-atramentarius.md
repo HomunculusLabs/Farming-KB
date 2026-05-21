@@ -3,7 +3,6 @@ title: Coprine, Disulfiram, and the bloomfield coprine disulfiram alcohol reacti
 created: 2026-04-28
 tags:
 
-
 gills dissolve from the bottom upward, progressively shorter gills
 continuously expose new surfaces bearing immature spores, allowing
 the mushroom to release spores over an extended period. Coprinus

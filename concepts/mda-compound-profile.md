@@ -3,7 +3,7 @@ title: MDA Compound Profile
 created: 2026-04-13
 updated: 2026-04-13
 type: concept
-tags: [chemistry, [[taar1-trace-amine-associated-receptor-psychedelic-pharmacology]], psychedelics, phenethylamine, amphetamine, dosage, compound-profile, effects, history]
+tags: [chemistry, psychedelics, phenethylamine, amphetamine, dosage, compound-profile, effects, history]
 sources: [raw/papers/shulgin-a-pihkal.md]
 ---
 
@@ -36,7 +36,7 @@ MDA combines psychedelic and empathogenic/entactogenic qualities. Shulgin's repo
 - Enhanced sensory perception
 - Deep introspective potential
 
-At moderate doses (100-120 mg), MDA produces a full-spectrum psychedelic experience with more visual intensity than [[mdma-in-pihkal-context]] but somewhat less emotional warmth. The stimulant component is more pronounced, and the overall experience tends to be more "edgy" or intense.
+At moderate doses (100-120 mg), MDA produces a full-spectrum psychedelic experience with more visual intensity than mdma-in-pihkal-context but somewhat less emotional warmth. The stimulant component is more pronounced, and the overall experience tends to be more "edgy" or intense.
 
 ## History
 
@@ -44,7 +44,7 @@ MDA was first synthesized in 1910 and was used as an appetite suppressant in the
 
 ## Comparison to MDMA
 
-MDA (mda compound profile) and MDMA ([[mdma-in-pihkal-context]]) are closely related — MDMA is the N-methylated version of MDA:
+MDA (mda compound profile) and MDMA (mdma-in-pihkal-context) are closely related — MDMA is the N-methylated version of MDA:
 
 - **Visuals**: MDA produces significantly more visual effects than MDMA
 - **Stimulation**: MDA is more stimulating; MDMA has a gentler stimulant profile
@@ -61,13 +61,13 @@ MDA acts on multiple neurotransmitter systems:
 - **Dopamine**: Releases dopamine (responsible for stimulant effects)
 - **Norepinephrine**: Releases norepinephrine (responsible for cardiovascular effects)
 
-This [[blue-light-phototropism-red-light-photoperiodism-dual-plant-vision-system]] action — serotonin release plus 5-HT2A agonism — distinguishes MDA from purely empathogenic or purely psychedelic compounds. See [[phenethylamine-receptor-pharmacology]].
+This blue-light-phototropism-red-light-photoperiodism-dual-plant-vision-system action — serotonin release plus 5-HT2A agonism — distinguishes MDA from purely empathogenic or purely psychedelic compounds. See phenethylamine-receptor-pharmacology.
 
 ## Synthesis
 
 MDA is typically synthesized from safrole or isosafrole via isomerization, oxidation to MDP2P (3,4-methylenedioxyphenyl-2-propanone), and reductive amination with ammonia or nitroethane/LiAlH4 reduction.
 
-See also: [[mdma-in-pihkal-context]], [[dob-compound-profile]], [[phenethylamine-chemistry-basics]], [[phenethylamine-receptor-pharmacology]]
+See also: mdma-in-pihkal-context, dob-compound-profile, phenethylamine-chemistry-basics, phenethylamine-receptor-pharmacology
 
 ## Practical Applications
 
@@ -80,3 +80,9 @@ Researchers and practitioners collaborate to advance the field.
 
 This topic continues to develop with ongoing research.
 New findings regularly contribute to our understanding.
+## See Also
+- [[doet-compound-profile]]
+- [[ahcc-active-hexose-correlated-compound]]
+- [[aleph-compound-profile]]
+- [[lsd-compound-profile]]
+- [[shulgin-mda-compound-profile]]

@@ -3,7 +3,7 @@ title: Morel Mushroom Guide
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
-tags: [mushrooms, fungi, mycology, foraging, species-profiles, [[fungal-volatile-organic-compounds-vocs-chemistry-ecology]], species, safety, harvesting]
+tags: [mushrooms, fungi, mycology, foraging, species-profiles, species, safety, harvesting]
 sources: []
 ---
 
@@ -11,7 +11,7 @@ sources: []
 
 ## Overview
 
-Morel mushrooms (genus Morchella) are among the most prized wild edible mushrooms in the world. Their distinctive honeycomb-like caps, meaty texture, and rich, earthy flavor make them the target of dedicated foraging expeditions each spring. Morels are also among the most commercially valuable wild mushrooms, with prices ranging from $30 to $80+ per pound fresh. See [[mushroom-cooking-techniques]] for preparation and cooking instructions, and [[emcdda-free-spore-ring-europe-spore-distribution-network]]-print-guide]] for identification aids.
+Morel mushrooms (genus Morchella) are among the most prized wild edible mushrooms in the world. Their distinctive honeycomb-like caps, meaty texture, and rich, earthy flavor make them the target of dedicated foraging expeditions each spring. Morels are also among the most commercially valuable wild mushrooms, with prices ranging from $30 to $80+ per pound fresh. See mushroom-cooking-techniques for preparation and cooking instructions, and emcdda-free-spore-ring-europe-spore-distribution-network-print-guide for identification aids.
 
 ## Species
 
@@ -19,7 +19,7 @@ The Morchella genus was significantly revised in 2012 using molecular phylogenet
 
 ### Yellow Morels (Morchella esculenta clade)
 
-- **Morchella esculenta**: Classic yellow morel of eastern North America and Europe
+- **[[morchella-esculenta]]**: Classic yellow morel of eastern North America and Europe
 - **Morchella americana**: Common yellow morel of North America
 - Cap color: Yellow to tan to brownish
 - Pits and ridges irregularly arranged
@@ -28,9 +28,9 @@ The Morchella genus was significantly revised in 2012 using molecular phylogenet
 
 ### Black Morels (Morchella elata clade)
 
-- **Morchella elata**: Black morel of Europe and western North America
+- **[[morchella-elata]]**: Black morel of Europe and western North America
 - **Morchella sextelata**: Western North America
-- **Morchella importuna**: Urban/western landscapes
+- **[[morchella-importuna]]**: Urban/western landscapes
 - Cap color: Dark gray to black when young, becoming tan with age
 - Pits and ridges more vertically arranged than yellow morels
 - Habitat: Conifer forests (especially fire-affected areas), disturbed ground
@@ -55,7 +55,7 @@ Many black morel species are "pyrophilous" — they fruit prolifically in the fi
 
 1. **Trigger**: Fire kills trees, releasing nutrients and creating bare mineral soil
 2. **Chemical signals**: Combustion products (furfural, certain phenolic compounds) may stimulate fruiting
-3. **Soil chemistry**: Post-fire soil pH increases, nutrient availability changes
+3. **Soil chemistry**: Post-fire [[soil-ph]] increases, [[nutrient-availability]] changes
 4. **Competition reduction**: Fire eliminates competing vegetation and fungi
 5. **Timing**: Peak fruiting typically occurs in the first spring after a summer fire (6-10 months)
 
@@ -68,7 +68,7 @@ Wildfire areas attract commercial morel pickers who follow fires across the west
 ### When
 
 - Spring: March in southern latitudes, May-June in northern latitudes
-- Key indicator: soil temperature reaching 50-55F at 4-inch depth
+- Key indicator: [[soil-temperature]] reaching 50-55F at 4-inch depth
 - "Morel season" lasts 2-4 weeks in any given location
 - South-facing slopes fruit first, north-facing slopes later
 - Low elevations before high elevations
@@ -95,7 +95,7 @@ True morels have these key features:
 
 ### False Morels (Gyromitra and Verpa)
 
-**Gyromitra esculenta** (false morel, beefsteak mushroom):
+**[[gyromitra-esculenta]]** (false morel, beefsteak mushroom):
 - Cap is wrinkled and brain-like, not pitted
 - Cap hangs free from the stem like a skirt (not attached at base)
 - When cut lengthwise, the interior has chambered, cottony filling (not hollow)
@@ -122,7 +122,7 @@ True morels have these key features:
 
 1. Always cut every morel in half lengthwise before cooking to verify it is completely hollow
 2. Never eat raw morels (contain hydrazine-like compounds)
-3. Cook thoroughly — see [[mushroom-cooking-techniques]] for cooking instructions
+3. Cook thoroughly — see mushroom-cooking-techniques for cooking instructions
 4. When trying morels for the first time, eat a small amount and wait 24 hours
 5. Do not consume alcohol with morels (some reports of enhanced toxicity)
 6. Do not eat large quantities — even properly prepared morels can cause GI distress in some people
@@ -144,7 +144,6 @@ Morel cultivation has been pursued for over 100 years with limited commercial su
 - Small-scale commercial cultivation exists in China (using complex outdoor bed systems)
 - Indoor cultivation remains inconsistent and expensive
 ## See Also
-
-- [[mushroom-cooking-techniques]] — Cooking morels safely and deliciously
-- [[fungal-spore-print-guide]] — Spore print technique (morel spore print is cream to pale yellow)
-- [[mushroom-taxonomy-history]] — How DNA sequencing reclassified Morchella species
+- [[morel-ecology-and-life-cycle]]
+- [[psilocybin-mushroom-cultivation-basics]]
+- [[bloomfield-false-morel-gyromitrin-volatile-toxin-cooking-risk]]

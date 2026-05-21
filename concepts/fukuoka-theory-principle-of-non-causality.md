@@ -3,7 +3,6 @@ title: "Fukuoka's Principle of Non-Causality in Agriculture"
 created: 2026-04-28
 tags:
 
-
 ---
 
 - [[fukuoka-orchard-cover-crop-black-wattle-system]] for practical

@@ -15,7 +15,7 @@ tags:
 - processing
 
 sources:
-- raw/papers/jadam-organic-farming-ultra-low-cost-[[jadam-organic-farming-ultra-low-cost-agriculture-philosophy]].md
+- raw/papers/jadam-organic-farming-ultra-low-cost-jadam-organic-farming-ultra-low-cost-agriculture-philosophy.md
 ---
 
 # JADAM Herb Solution (JHS)

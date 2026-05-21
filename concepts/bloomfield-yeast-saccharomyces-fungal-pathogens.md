@@ -3,7 +3,6 @@ title: Bloomfield Yeast Saccharomyces Fungal Pathogens
 created: 2026-04-28
 tags:
 
-
 to human nutrition and biological research, but hundreds of fungi share
 a similar growth form. A packet of freeze-dried yeast costs mere cents
 but contains a marvel that transforms sugar to alcohol and makes bread

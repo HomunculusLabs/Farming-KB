@@ -3,7 +3,6 @@ title: bloomfield sudden oak death phytophthora species diversity Death and Phyt
 created: 2026-04-28
 tags:
 
-
 than fifty species of Phytophthora are recognized, and they
 infect almost every kind of broad-leaved plant. Among the most
 alarming of these is the newly identified species responsible

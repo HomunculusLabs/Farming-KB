@@ -3,7 +3,6 @@ title: "Soil mollison soil formation rates and erosion costs and the Cost of Ero
 created: 2026-04-26
 tags:
 
-
   lost to the atmosphere.
 - Burning vegetation is worse than tillage, producing terpenes,
   creosotes, nitrogen, and dust particles alongside rapid humus loss.

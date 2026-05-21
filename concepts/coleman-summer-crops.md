@@ -4,7 +4,6 @@ created: 2026-04-26
 sources: The coleman coleman coleman-winter-harvest-planting-schedule philosophy coleman-winter-harvest-planting-schedule Handbook, eliot-coleman (2009), Chapter 9
 tags:
 
-
 generating three times more revenue than any other single crop at the
 farm stand. The greenhouse provides essential protection in the cool
 Maine coastal climate, where outdoor tomatoes do not begin ripening

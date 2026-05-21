@@ -15,7 +15,7 @@ tags:
 - fungi
 
 sources:
-  - raw/papers/magic-mushrooms-around-the-world-[[psilocybin-potency-factors-cultivated-wild-mushrooms-gartz]].md
+  - raw/papers/magic-mushrooms-around-the-world-psilocybin-potency-factors-cultivated-wild-mushrooms-gartz.md
 ---
 
 # Psilocybe bohemica

@@ -5,7 +5,7 @@ tags: [pf-tek, mycology, lifecycle, colonization, fruiting, timeline]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - '"raw/papers/fanaticus-pf-tek-psilocybe-fanaticus.md"
+  - "raw/papers/fanaticus-pf-tek-psilocybe-fanaticus.md"
 type: concept
 ---
 

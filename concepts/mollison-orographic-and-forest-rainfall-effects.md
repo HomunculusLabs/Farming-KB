@@ -3,7 +3,6 @@ title: Orographic and mollison orographic and forest rainfall effects Effects
 created: 2026-04-26
 tags:
 
-
 precipitation through several well-documented mechanisms.
 ---
 

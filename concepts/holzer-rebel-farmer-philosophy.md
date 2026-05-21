@@ -3,7 +3,6 @@ title: Holzer Rebel Farmer Philosophy
 created: 2026-04-26
 tags:
 
-
 ---
 
 ## The Farmstead of the Future

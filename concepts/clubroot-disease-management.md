@@ -3,7 +3,7 @@ title: Clubroot Disease Management
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
-tags: [troubleshooting, organic, [[hamilton-geoffhamilton-nick-organic-gardening-organic-gardening-principles]], pathogens, pest-[[hamilton-geoffhamilton-nick-organic-gardening-organic-pest-control]], vegetables]
+tags: [troubleshooting, organic, pathogens, vegetables]
 sources: [raw/papers/hamilton-geoffhamilton-nick_-organic-gardening.md]
 ---
 
@@ -35,10 +35,10 @@ You can get an acceptable crop of cabbage, kale, and Brussels sprouts by:
 Even though the seedlings will still be affected by clubroot when planted out, they will be strong and healthy enough to shrug off the disease.
 
 ### Add Lime
-Adding lime to the soil before planting also seems to help control clubroot. Lime raises [[soil-ph]], and clubroot is less severe in alkaline conditions. See [[acid-and-alkaline-soil-management]] for liming guidelines.
+Adding lime to the soil before planting also seems to help control clubroot. Lime raises soil-ph, and clubroot is less severe in alkaline conditions. See acid-and-alkaline-soil-management for liming guidelines.
 
 ### Avoid Replanting Brassicas
-Since clubroot persists indefinitely in soil, practice long rotations. Mustard (a Brassica) used as [[green-manure-crops]] should also be avoided on infected land.
+Since clubroot persists indefinitely in soil, practice long rotations. Mustard (a Brassica) used as green-manure-crops should also be avoided on infected land.
 
 ## Prevention
 
@@ -50,9 +50,9 @@ Since there is no cure, prevention is critical:
 
 ## Related
 
-- [[acid-and-alkaline-soil-management]] — using lime to raise soil pH
-- [[green-manure-crops]] detailed — avoid mustard (a brassica) on clubroot-infected soil
-- [[companion-planting-deterrents]] — French marigolds for eelworm control (not clubroot-specific)
+- acid-and-alkaline-soil-management — using lime to raise soil pH
+- green-manure-crops detailed — avoid mustard (a brassica) on clubroot-infected soil
+- companion-planting-deterrents — French marigolds for eelworm control (not clubroot-specific)
 
 ## Key Concepts and Applications
 
@@ -82,3 +82,9 @@ Historical practices provide valuable context for modern approaches and innovati
 Comparative studies reveal both commonalities and unique aspects across systems.
 The integration of traditional knowledge with scientific methods has proven effective.
 Environmental factors play a significant role in determining optimal strategies.
+## See Also
+- [[marijuana-horticulture-cervantes-pest-and-disease-management]]
+- [[insect-and-disease-management-philosophy]]
+- [[plant-disease-management-solomon]]
+- [[fukuoka-disease-pest-management]]
+- [[insect-and-disease-management-organic-garden]]

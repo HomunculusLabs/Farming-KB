@@ -3,7 +3,7 @@ title: Trace Elements in Soil
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
-tags: [minerals, trace-elements, soil, nutrients, organic, [[hamilton-geoffhamilton-nick-organic-gardening-organic-gardening-principles]], troubleshooting]
+tags: [minerals, trace-elements, soil, nutrients, organic, troubleshooting]
 sources: [raw/papers/hamilton-geoffhamilton-nick_-organic-gardening.md]
 ---
 
@@ -54,13 +54,13 @@ The best treatment for trace-element deficiencies is to prevent them from occurr
 
 1. **Continued use of bulky organic matter** (manure, compost, green manures) which contains the full range of trace elements
 2. **Annual application of kelp meal fertilizer** as insurance, especially where deficiencies have occurred before
-3. **Careful liming** — avoid excessive lime that locks up trace elements (see [[acid-and-alkaline-soil-management]])
+3. **Careful liming** — avoid excessive lime that locks up trace elements (see acid-and-alkaline-soil-management)
 
 ## Related
 
-- [[kelp-meal-fertilizer]] — primary organic source of trace elements (60-70 elements)
-- [[homemade-liquid-fertilizer]] — liquid kelp for foliar treatment of deficiencies
-- [[acid-and-alkaline-soil-management]] — managing [[soil-ph]] to prevent trace element lockup
+- kelp-meal-fertilizer — primary organic source of trace elements (60-70 elements)
+- homemade-liquid-fertilizer — liquid kelp for foliar treatment of deficiencies
+- acid-and-alkaline-soil-management — managing soil-ph to prevent trace element lockup
 
 ## Key Concepts and Applications
 
@@ -79,6 +79,12 @@ New research tools enable more detailed analysis of complex interactions.
 Educational resources and training programs support broader adoption of best practices.
 Economic analyses suggest favorable returns on investment for implemented projects.
 Cross-disciplinary collaboration has accelerated progress in this developing field.
-Quality [[hamilton-geoffhamilton-nick-organic-gardening-organic-pest-control]] measures ensure consistent and reliable outcomes in practice.
+Quality hamilton-geoffhamilton-nick-organic-gardening-organic-pest-control measures ensure consistent and reliable outcomes in practice.
 Regulatory frameworks continue to evolve alongside growing understanding of the topic.
 The global perspective reveals both shared challenges and region-specific adaptations.
+## See Also
+- [[soil-micronutrients-sulphur-potassium-calcium-trace-elements]]
+- [[soil-trace-elements-and-micronutrients]]
+- [[teaming-with-nutrients-micronutrients-and-trace-elements]]
+- [[trace-elements-heavy-metals-permaculture]]
+- [[trace-water-flash-steam-mechanism-microwave-surface-sterilization-physics]]

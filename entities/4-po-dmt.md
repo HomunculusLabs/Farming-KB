@@ -3,7 +3,6 @@ title: "4-PO-DMT"
 type: chemical
 tags:
 
-
     American Chemical Society, 76(22): 5889-5891.
   - Passie T, Halpern JH, Stichtenoth DO, Emrich HM, Hintzen A (2008).
     "The pharmacology of psilocybin." Addiction Biology, 13(3-4): 263-278.

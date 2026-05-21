@@ -3,7 +3,6 @@ title: "Valley and mollison valley and mountain climate effects Effects in Desig
 created: 2026-04-26
 tags:
 
-
 gardens. Altitude effect alone enables us to grow a wide range of plant
 species on a high island, using the area from ocean to mountain-top. In
 the subtropics, even temperate-area plants can be grown on high islands

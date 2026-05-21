@@ -3,7 +3,7 @@ title: Weed Management Strategies
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
-tags: [pest-control, gardening, agriculture, no-till, living-[[gaias-garden-soil-food-web-living-soil]], regenerative, troubleshooting]
+tags: [pest-control, gardening, agriculture, no-till, living-gaias-garden-soil-food-web-living-soil, regenerative, troubleshooting]
 sources: []
 ---
 

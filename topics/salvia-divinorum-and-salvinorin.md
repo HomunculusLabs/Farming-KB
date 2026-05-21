@@ -78,4 +78,3 @@ The plant's specific epithet "divinorum" translates to "of the seers" or "of the
 - [[mescaline-cacti-ethnobotany-chemistry-and-ceremony]] — mescaline comparison
 - [[tryptamine-chemistry-and-psychedelic-pharmacology]] — tryptamine pharmacology
 - [[psychedelic-phenethylamines-and-pihkal]] — phenethylamine comparison
-

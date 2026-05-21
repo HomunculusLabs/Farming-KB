@@ -5,7 +5,7 @@ updated: 2026-04-12
 type: concept
 tags: [knf, minerals, fertilizer]
 sources:
-  - raw/papers/master-cho-knf-[[master-cho-knf-ohn-oriental-herb-nutrient-recipe]]-book.md
+  - raw/papers/master-cho-knf-master-cho-knf-ohn-oriental-herb-nutrient-recipe-book.md
   - raw/papers/chos-global-natural-farming.md
 ---
 

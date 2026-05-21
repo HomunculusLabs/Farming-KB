@@ -2,7 +2,6 @@
 title: Pac-Man Salad Mixer — Harvest Post-Processing Equipment
 tags:
 
-
 ---
 
 ## Design and Construction

@@ -5,7 +5,6 @@ updated: 2026-04-23
 type: concept
 tags:
 
-
 follows the work of Chakroff and Yeoman. Understanding these categories is
 essential for anyone working with permaculture-dam-design for optimal siting and
 construction.

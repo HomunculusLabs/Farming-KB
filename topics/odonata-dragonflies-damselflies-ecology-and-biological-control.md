@@ -8,12 +8,10 @@ tags:
   - mosquito-control
   - pond-ecology
   - aquatic-insects
-  - [[permaculture]]
   - beneficial-insects
   - wetland-conservation
   - water-quality
   - integrated-pest-management
-  - [[homesteading]]
 date: 2026-05-03
 updated: 2026-05-03
 sources:

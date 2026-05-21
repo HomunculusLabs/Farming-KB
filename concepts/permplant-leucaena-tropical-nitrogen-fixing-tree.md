@@ -3,7 +3,6 @@ title: Permplant Leucaena Tropical Nitrogen Fixing Tree
 created: 2026-04-28
 tags:
 
-
 Mimosaceae. The name derives from the Zapotec word "uaxin" meaning "the
 place where leucaena lives." In their native environments, all species
 are used for fodder, fuel, fence posts, and construction. Leucaena is
