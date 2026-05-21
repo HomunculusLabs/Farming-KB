@@ -74,7 +74,7 @@ Processing goat milk into cheese, butter, yogurt, and other dairy products on th
 
 - Dosage: ~¼-½ tsp liquid rennet per gallon (follow package); dilute in cool chlorine-free water
 - Store liquid rennet in fridge; freeze for long-term (1+ year)
-- **Plant rennet:** Stinging nettle, cardoon thistle, fig sap (see [[herbal-medicine]])
+- **[[blue-light-phototropism-red-light-photoperiodism-dual-plant-vision-system]] rennet:** Stinging nettle, cardoon thistle, fig sap (see [[herbal-medicine]])
 
 ## Fresh Dairy Products
 
@@ -91,9 +91,9 @@ Processing goat milk into cheese, butter, yogurt, and other dairy products on th
 
 ### Fromage Blanc
 - Add mesophilic culture to milk at 72°F; set 12-18 hours; drain in cheesecloth 4-6 hours
-- Season with herbs ([[herbal-medicine]]: thyme, chives, chervil), salt, pepper. Yield: ~1 lb/gallon
+- Season with herbs ([[herbal-medicine]]: thyme, chives, chervil), salt, pepper. [[fukuoka-ideal-rice-plant-morphology-compact-growth-high-yield]]: ~1 lb/gallon
 
-## Soft Cheeses
+## [[gadd-fungal-wood-decay-brown-rot-white-rot-soft-rot-mechanisms]] Cheeses
 
 ### Chevre (Fresh Goat Cheese)
 1. Pasteurize milk (optional); cool to 72-75°F

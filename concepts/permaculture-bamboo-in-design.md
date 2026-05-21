@@ -23,7 +23,7 @@ Bamboo is one of the most versatile multi-function plants in permaculture system
 
 Large bamboo groves placed to the windward side of structures bend to the wind without breaking, protecting houses and gardens from storm damage. Bamboo's flexible culms absorb wind energy far more effectively than rigid structures, making it an ideal windbreak species in hurricane-prone areas.
 
-### Erosion Control and Water Management
+### Erosion Control [[bill-mollison-permaculture-a-designers-manual-aquaculture-and-water-systems]] [[bill-mollison-permaculture-a-designers-manual-soil-and-humus-management]]
 
 Bamboo's dense rhizome network binds soil on steep slopes and waterway banks. Swale systems described in the Manual specify bamboo for trails and craft production alongside swales used as pathways along hillsides. The plant's rapid growth and dense root system make it effective for stabilising earthworks.
 

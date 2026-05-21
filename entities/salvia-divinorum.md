@@ -10,7 +10,7 @@ tags:
   - entheogen
   - lamiaceae
   - medicinal
-sources:
+sources: ["raw/concepts/salvia-divinorum.md"]
   - Valdés LJ, Díaz JL, Paul AG. (1982). "Ethnopharmacology of Ska María Pastora." Journal of Ethnopharmacology 5(3): 287–312.
   - Siebert DJ. (1994). "Salvia salvia-divinorum-and-salvinorin-a A." Journal of Psychoactive Drugs 26(3): 279–281.
   - Roth BL, et al. (2002). "Salvinorin A: a potent naturally occurring nonnitrogenous κ-opioid receptor agonist." PNAS 99(18): 11934–11939.

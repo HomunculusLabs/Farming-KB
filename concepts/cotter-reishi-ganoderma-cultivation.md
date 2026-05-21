@@ -4,7 +4,7 @@ created: 2026-04-28
 tags: [reishi, ganoderma, medicinal-mushrooms, polypore, cultivation]
 date: 2026-04-25
 updated: 2026-04-25
-sources:
+sources: ["raw/concepts/cotter-reishi-ganoderma-cultivation.md"]
   - cotter-organic-mushroom-farming-mycoremediation.md
 type: concept
 ---

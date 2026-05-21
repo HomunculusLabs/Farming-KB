@@ -3,7 +3,7 @@ title: Rocket Mass Heater Design
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
-tags: [energy, construction, homesteading, off-grid, safety, sustainability]
+tags: [energy, construction, homesteading, off-[[query-what-are-the-best-heating-options-for-an-off-grid-homestead]], safety, sustainability]
 sources: []
 ---
 
@@ -94,7 +94,7 @@ A cob bench is the most common and accessible approach:
 
 - Do not oversize — a too-large system overheats the space and wastes wood
 - The bench length determines heat storage capacity, not the J-tube size
-- In very cold climates, two smaller RMHs may be better than one large one
+- In very [[jarrold-warm-humid-air-delivery-chamber-cold-climate-mushroom]]s, two smaller RMHs may be better than one large one
 
 ## Safety Considerations
 

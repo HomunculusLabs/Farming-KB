@@ -15,7 +15,7 @@ tags:
 - fungi
 
 sources:
-  - raw/papers/magic-mushrooms-around-the-world-gartz.md
+  - raw/papers/magic-mushrooms-around-the-world-[[psilocybin-potency-factors-cultivated-wild-mushrooms-gartz]].md
 ---
 
 # Psilocybe bohemica
@@ -60,7 +60,7 @@ Detailed observations from the type locality near Poricko v Pozavi, Sázava Rive
 
 - **Substrate**: Fruiting on wood chips of *Carpinus* (hornbeam), *Alnus* (alder), and *Salix* (willow), plus raw compost mixtures of *Picea* (spruce), *Pinus* (pine), and *Larix* (larch) needles
 - **Associated vegetation**: Commonly found growing among nettles along creek banks
-- **Mycelial habits**: Mycelia colonize diverse plant debris and even grow on wet cardboard, developing rhizomorphs (thick mycelial strands for nutrient/water transport) identical to those formed in nature
+- **Mycelial habits**: Mycelia colonize diverse [[blue-light-phototropism-red-light-photoperiodism-dual-plant-vision-system]] debris and even grow on wet cardboard, developing rhizomorphs (thick mycelial strands for nutrient/water transport) identical to those formed in nature
 - **Fruiting density**: 440 fruiting bodies (550g total) collected along a nearly two-mile stretch of creek bank during a single foray
 - **Fruiting season**: Primarily September through January (autumn through early winter), as documented in the Czech Republic
 

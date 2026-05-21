@@ -93,7 +93,7 @@ G. purpuratus is notable for containing bis-noryangonin, a beta-carboline compou
 
 ### Potency
 
-G. purpuratus is considered moderately potent — less potent than P. cyanescens or P. azurescens but comparable to P. cubensis. The presence of bis-noryangonin may enhance subjective effects despite moderate psilocybin levels.
+G. purpuratus is considered moderately potent — less potent than P. cyanescens or P. azurescens but comparable to P. [[cap-vs-stem-alkaloid-distribution-psilocybe-cubensis]]. The presence of bis-noryangonin may enhance subjective effects despite moderate psilocybin levels.
 
 ## Cultural and Recreational Use
 
@@ -103,7 +103,7 @@ Gartz documented that G. purpuratus was used recreationally in Chile, particular
 
 ### Australian Use
 
-In Australia, G. purpuratus is occasionally used but is less well-known than Psilocybe cubensis ("gold tops") or Panaeolus cyanescens ("blue meanies"). Its wood-inhabiting habit and seasonal autumn fruiting make it less accessible than the dung-inhabiting species that fruit year-round in tropical areas.
+In Australia, G. purpuratus is occasionally used but is less well-known than [[strain-dependent-alkaloid-tissue-distribution-cap-stem-psilocybe-cubensis]] ("gold tops") or Panaeolus cyanescens ("blue meanies"). Its wood-inhabiting habit and seasonal autumn fruiting make it less accessible than the dung-inhabiting species that fruit year-round in tropical areas.
 
 ## Similar Species (Critical for Safety)
 

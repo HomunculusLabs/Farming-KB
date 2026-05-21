@@ -9,7 +9,7 @@ sources: [raw/particles/cancer-treatments-medicinal-mushrooms.md]
 
 ## Inonotus obliquus (Chaga) — Research Summary
 
-Chaga (Inonotus obliquus) is a sterile conk (sclerotium) that grows on birch trees (Betula spp.) in cold climates across the Northern Hemisphere — Siberia, Scandinavia, Canada, and northern parts of the United States and Japan. Unlike other medicinal mushrooms, the commercially used part is not the fruiting body but a dense mass of mycelium and wood that has been infected and transformed by the fungus over years or decades.
+Chaga (Inonotus obliquus) is a sterile conk (sclerotium) that grows on birch trees (Betula spp.) in cold climates across the Northern Hemisphere — Siberia, Scandinavia, Canada, and northern parts of the United States and Japan. Unlike other [[cancer-medicinal-mushrooms-immune-modulation-beta-glucans]], the commercially used part is not the fruiting body but a dense mass of mycelium and wood that has been infected and transformed by the fungus over years or decades.
 
 ### Active Compounds
 
@@ -26,7 +26,7 @@ Chaga (Inonotus obliquus) is a sterile conk (sclerotium) that grows on birch tre
 
 **Beta-glucans**:
 - Water-soluble polysaccharides with immunomodulatory activity
-- Similar but not identical to beta-glucans found in other medicinal mushrooms
+- Similar but not identical to beta-glucans found in other [[cancer-medicinal-mushrooms-submerged-fermentation-production]]
 
 **Superoxide dismutase (SOD)**:
 - Chaga contains a form of SOD, one of the body's most important antioxidant enzymes

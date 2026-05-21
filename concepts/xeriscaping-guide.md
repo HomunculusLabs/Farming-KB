@@ -28,7 +28,7 @@ Xeriscaping is a landscaping approach that minimizes or eliminates supplemental 
 Group plants by water requirements into irrigation zones:
 
 - **Oasis zone** (near house or high-use areas): Higher water use, edible plants, container gardens
-- **Transition zone**: Moderate water use, native ornamentals, fruit trees
+- **Transition zone**: Moderate water use, native ornamentals, fruit [[permaculture-landscape-energy-storage-water-soil-trees-seed]]
 - **Dry zone** (outer areas, slopes, edges): No irrigation after establishment, drought-adapted natives
 
 This approach reduces overall water use by concentrating irrigation where it matters most.
@@ -46,7 +46,7 @@ This approach reduces overall water use by concentrating irrigation where it mat
 Rock gardens combine drought-tolerant plants with stone elements to create attractive, low-water landscapes.
 
 ### Design Elements
-- **Stone selection**: Use local stone for natural appearance; vary sizes from boulders to gravel
+- **Stone selection**: Use local stone for [[fukuoka-fruit-tree-disease-pest-control-natural-predators]] appearance; vary sizes from boulders to gravel
 - **Placement**: Bury large stones 1/3 to 1/2 into the ground for a natural, anchored look
 - **Topography**: Create mounds and swales to direct rainwater to planting areas
 - **Gravel mulch**: 2-3 inches of crushed gravel or river rock around plants suppresses weeds and reflects heat

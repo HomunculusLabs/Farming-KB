@@ -4,7 +4,7 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [storage, preservation, food, homesteading, off-grid, vegetables, sustainability]
-sources: []
+sources: ["raw/concepts/root-vegetable-storage-guide.md"]
 ---
 
 ## Overview

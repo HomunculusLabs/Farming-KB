@@ -42,7 +42,7 @@ Betaphycus gelatinum produces beta-carrageenan, which does not gel but acts as a
 ## Overview
 
 Eucheuma Cottonii represents an important element within sustainable
-design and ecological management systems. Its proper understanding
+[[holmgren-permaculture-front-end-design-vs-back-end-problem-solving]] and ecological management systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.
 
@@ -57,7 +57,7 @@ and management across diverse environmental conditions.
 
 The ecological relationships involving eucheuma extend
 across multiple trophic levels and functional groups.
-Soil biology, water cycles, and energy flows all interact
+Soil biology, [[savory-holistic-resource-management-water-cycle]]s, and energy flows all interact
 with this element in complex and beneficial ways.
 
 ## Practical Applications

@@ -49,7 +49,7 @@ activity in pharmacological studies.
 Stems are glabrous to sparsely hairy, often whitish with a resinous
 coating.
 
-**Leaves:** Alternate, sessile or short-petiolate, oblong to lanceolate,
+**Leaves:** Alternate, sessile or [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]]-petiolate, oblong to lanceolate,
 2–8 cm long, 0.5–2 cm wide. Margins are irregularly toothed.
 Surfaces are green and resinous-sticky.
 
@@ -69,7 +69,7 @@ Flowering July to September.
 ## Overview
 
 Grindelia Squarrosa represents an important element within sustainable
-design and ecological management systems. Its proper understanding
+[[holmgren-permaculture-front-end-design-vs-back-end-problem-solving]] and ecological management systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.
 

@@ -3,7 +3,7 @@ title: Trace Elements in Soil
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
-tags: [minerals, trace-elements, soil, nutrients, organic, gardening, troubleshooting]
+tags: [minerals, trace-elements, soil, nutrients, organic, [[hamilton-geoffhamilton-nick-organic-gardening-organic-gardening-principles]], troubleshooting]
 sources: [raw/papers/hamilton-geoffhamilton-nick_-organic-gardening.md]
 ---
 
@@ -79,6 +79,6 @@ New research tools enable more detailed analysis of complex interactions.
 Educational resources and training programs support broader adoption of best practices.
 Economic analyses suggest favorable returns on investment for implemented projects.
 Cross-disciplinary collaboration has accelerated progress in this developing field.
-Quality control measures ensure consistent and reliable outcomes in practice.
+Quality [[hamilton-geoffhamilton-nick-organic-gardening-organic-pest-control]] measures ensure consistent and reliable outcomes in practice.
 Regulatory frameworks continue to evolve alongside growing understanding of the topic.
 The global perspective reveals both shared challenges and region-specific adaptations.

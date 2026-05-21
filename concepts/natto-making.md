@@ -3,7 +3,7 @@ title: Natto Making
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
-tags: [fermentation, recipe, food, homesteading, microbes, homestead-crafts, preservation, asia, bacteria, nutrients]
+tags: [fermentation, recipe, [[fukuoka-food-strategy-rice-seed-weapon-seed-war-food-ecosystem]], homesteading, microbes, homestead-crafts, preservation, asia, bacteria, nutrients]
 sources: []
 ---
 
@@ -20,7 +20,7 @@ The natto bacterium is a subspecies of Bacillus subtilis, a common soil-dwelling
 - Optimal growth temperature: 100-106F (38-41C)
 - Produces poly-gamma-glutamic acid (gamma-PGA), which creates the sticky, stringy texture
 - Produces nattokinase, an enzyme with fibrinolytic (blood-thinning) properties
-- Produces vitamin K2 (menaquinone-7), important for bone and cardiovascular health
+- Produces vitamin K2 (menaquinone-7), important for bone and cardiovascular [[teaming-with-microbes-no-till-gardening-soil-health]]
 - Aerobic — requires oxygen during fermentation
 
 ## Soybean Selection and Preparation

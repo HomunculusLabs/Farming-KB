@@ -1,5 +1,5 @@
 ---
-title: Cob Oven Construction
+title: Cob Oven [[query-when-should-i-use-slip-form-stone-construction]]
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -99,7 +99,7 @@ Set a wooden form (a piece of 2x6 or similar cut to your desired door opening) i
 1. Mix a final layer of cob (similar to the thermal layer mix) and apply 2-3 inches thick.
 2. This layer protects the insulation from weather and physical damage.
 3. Shape and smooth to your aesthetic preference.
-4. Optional: apply a lime wash (1 part lime to 3 parts water) for weather protection and a white finish.
+4. Optional: apply a lime wash (1 part lime to 3 parts water) for weather protection and a [[gadd-fungal-wood-decay-brown-rot-white-rot-soft-rot-mechanisms]] finish.
 
 ### Step 8: Remove the Sand Form
 1. Let the entire oven dry for several days to a week (longer in humid climates)

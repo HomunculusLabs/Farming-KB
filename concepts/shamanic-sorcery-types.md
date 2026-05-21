@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-Amazonian vegetalismo encompasses not only [[ayahuasca-preparation-pablo-amaringo-ucayali-shamanism]]'s visionary paintings document three primary types of sorcery practiced by evil vegetalistas (brujos or sorcerers), each employing distinct weapons and methods. Healers (curanderos) must be able to identify which type of sorcery has afflicted a patient in order to administer the correct treatment. The diagnostic method involves observing the pattern of lights surrounding the patient during an [[ayahuasca-vision-art-and-Shipibo-tradition]].
+Amazonian vegetalismo encompasses not only [[ayahuasca-preparation-pablo-amaringo-ucayali-shamanism]]'s visionary paintings document three primary types of sorcery practiced by evil vegetalistas (brujos or sorcerers), each employing distinct weapons and methods. Healers (curanderos) must be able to identify which type of sorcery has afflicted a patient in order to administer the correct treatment. The diagnostic method involves observing the pattern of lights surrounding the patient during an [[ayahuasca-vision-art-and-shipibo-tradition]].
 
 ## The Three Types of Sorcerers (Vision 12)
 

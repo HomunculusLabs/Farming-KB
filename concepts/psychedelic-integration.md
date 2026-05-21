@@ -50,7 +50,7 @@ Professional support is especially valuable for processing difficult experiences
 - **Somatic therapy**: Psychedelic experiences often involve strong body sensations; somatic approaches (EMDR, Somatic Experiencing, Hakomi) can help process stored trauma
 - **Internal Family Systems (IFS)**: Maps well onto the "parts" that often emerge during psychedelic experiences
 - **Acceptance and Commitment Therapy (ACT)**: Values-based approach that aligns well with psychedelic insights about meaning and purpose
-- **Group therapy**: Sharing experiences in a facilitated group provides normalization, community, and diverse perspectives
+- **Group therapy**: Sharing experiences in a facilitated group provides normalization, [[watts-self-help-group-and-urban-community-organizing]], and diverse perspectives
 - See [[psychedelic-therapy-current-research]] for clinical frameworks
 
 ### Meditation and Mindfulness
@@ -77,7 +77,7 @@ Contemplative practices provide ongoing tools for working with the mind states a
 - **Time in nature**: Many people report feeling drawn to nature after psychedelic experiences; natural settings provide a calming, integrating context
 - See [[entheogen-culture]] for the role of art in psychedelic traditions
 
-## Set and Setting — Foundation of Good Integration
+## [[set-and-setting-universal-framework-altered-states]] — Foundation of Good Integration
 
 Integration begins before the psychedelic experience:
 

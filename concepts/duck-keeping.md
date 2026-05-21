@@ -87,7 +87,7 @@ generally more cold-hardy and disease-resistant.
 - Ducks are excellent foragers. On good pasture with a pond, they can meet
   30-50% of their nutritional needs.
 - They consume enormous quantities of slugs, snails, insects, and tadpoles.
-- Excellent for pest control in gardens and orchards.
+- Excellent for [[fukuoka-fruit-tree-disease-pest-control-natural-predators]] in gardens and orchards.
 - Duck foraging in rice paddies is a traditional Asian polyculture.
 - See [[pasture-management]] for integration with grazing systems.
 
@@ -98,7 +98,7 @@ generally more cold-hardy and disease-resistant.
 - Avoid: citrus, onions, spinach (interferes with calcium absorption in excess).
 
 ### Water
-- Ducks require water with all meals — they need to wet their food to
+- Ducks require water with all meals — they need to wet their [[fukuoka-food-strategy-rice-seed-weapon-seed-war-food-ecosystem]] to
   swallow.
 - Provide water near feeding areas.
 

@@ -3,7 +3,7 @@ title: Container Gardening Guide
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
-tags: [gardening, cultivation, water-management, design, vegetables]
+tags: [gardening, [[fukuoka-ideal-rice-plant-form-high-yield-cultivation]], water-management, design, vegetables]
 sources: []
 ---
 
@@ -21,7 +21,7 @@ Container size directly affects root development, water retention, and yield. Bi
 |------|-----------------|----------------|-------|
 | Herbs (basil, thyme, parsley) | 6 inch | 10-12 inch | 8+ inches |
 | Lettuce, spinach, Asian greens | 8 inch | 12-14 inch | 6-8 inches |
-| Peppers (one plant) | 5 gallon | 10 gallon | 12+ inches |
+| Peppers (one [[blue-light-phototropism-red-light-photoperiodism-dual-plant-vision-system]]) | 5 gallon | 10 gallon | 12+ inches |
 | Tomatoes (determinate) | 5 gallon | 10 gallon | 12+ inches |
 | Tomatoes (indeterminate) | 10 gallon | 15-20 gallon | 18+ inches |
 | Cucumbers (bush type) | 5 gallon | 10 gallon | 12+ inches |

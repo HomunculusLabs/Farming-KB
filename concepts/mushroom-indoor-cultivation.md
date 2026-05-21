@@ -26,8 +26,8 @@ Controlled-environment mushroom growing using enclosed chambers to manage temper
 
 ## Growing Environments
 
-- **Monotub** -- Modified plastic storage bin with polyfill-filtered holes for FAE; self-contained fruiting chamber. Common for cubensis and oysters. Simple, low-cost, good for beginners
-- **Shotgun Fruiting Chamber (SGFC)** -- Perlite-lined tub with 1/4" holes drilled on all six sides. Passive humidity via evaporation. Best for cake/grain-based grows
+- **Monotub** -- Modified plastic storage bin with polyfill-filtered holes for FAE; self-contained [[simple-plastic-bin-fruiting-chamber-passive-humidity-mushroom-cultivation]]. Common for cubensis and oysters. Simple, low-cost, good for beginners
+- **Shotgun Fruiting Chamber (SGFC)** -- Perlite-lined tub with 1/4" holes drilled on all six sides. [[passive-humidity-fruiting-chamber-stackable-plastic-bin-design]] via evaporation. Best for cake/grain-based grows
 - **Martha Tent / Greenhouse** -- Enclosed plastic greenhouse with humidifier and fan on timers. Scalable, good for multiple substrates. Requires external humidification
 - **Dedicated grow room** -- Climate-controlled room with shelves, HVAC, humidification, CO2 monitoring. Commercial scale. See Stamets Ch. IV for full design specs
 

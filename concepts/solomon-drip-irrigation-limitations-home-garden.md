@@ -10,7 +10,7 @@ tags:
   - sprinkler-systems
 date: 2026-04-28
 updated: 2026-04-28
-sources:
+sources: ["raw/concepts/solomon-drip-irrigation-limitations-home-garden.md"]
   - gardening-when-it-counts-steve-solomon.md
 type: concept
 created: 2026-05-07

@@ -19,15 +19,15 @@ anise, asparagus, beet, balm, borage, chicory, comfrey, cress, daisy, dandelion,
 
 alder, ash, beech, birch, elder, elm, hawthorn, hazel, holly, juniper, lemon, lime, quince, raspberry, senna, walnut (leaves are good buttermilk feed), witch hazel.
 
-## Design Considerations
+## [[mollison-co-action-analysis-and-species-interaction-in-guild-design]] Considerations
 
-These herbs and trees should be integrated into [[bee-forage-plant-system|bee forage systems]], [[zone-sector-analysis-guide|zone layouts]], and pasture designs. Many of these species serve multiple functions -- for example, rosemary, sage, thyme, and lavender provide both medicinal value for livestock and nectar/pollen for bees.
+These herbs and trees should be integrated into [[bee-forage-systems-permaculture-design]], [[zone-sector-analysis-guide|zone layouts]], and pasture designs. Many of these species serve multiple functions -- for example, rosemary, sage, thyme, and lavender provide both medicinal value for livestock and nectar/pollen for bees.
 
 ## Related
 
 - [[bee-forage-plant-system]]
 - [[zone-sector-analysis-guide]]
-- forage systems
+- [[arid-zone-species-selection-and-forage-systems]]
 
 See also: [[herbal-medicine-making]]
 

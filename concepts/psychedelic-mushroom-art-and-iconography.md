@@ -46,7 +46,7 @@ The Liberty Cap's distinctive shape -- resembling both the Phrygian bonnet of Fr
 ## Related Concepts
 
 - [[soma-and-the-sacred-mushroom-debate]] -- scholarly debate about mushrooms in ancient religion
-- [[ayahuasca-vision-art-and-Shipibo-tradition]] -- visionary art from Amazonian traditions
+- [[ayahuasca-vision-art-and-shipibo-tradition]] -- visionary art from Amazonian traditions
 
 ## Key Concepts and Applications
 

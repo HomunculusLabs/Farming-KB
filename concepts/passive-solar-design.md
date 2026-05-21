@@ -57,7 +57,7 @@ Thermal mass stores heat from the sun during the day and releases it slowly at n
 **Materials with high thermal mass:**
 - Concrete slab floors: R-value per inch is low, but mass is excellent
 - Stone: Granite, limestone, sandstone
-- Adobe and compressed earth block
+- Adobe and compressed [[mollison-designers-earth-building-cob-adobe-rammed-earth]] block
 - [[cob-building-basics-detailed|Cob]] walls: Excellent thermal mass in a natural building
 - Water: The highest volumetric heat capacity of any common material
 - Earthen plaster over straw bale: Moderate mass
@@ -97,7 +97,7 @@ Fixed overhangs are calculated to block summer sun while admitting winter sun.
 
 ### 5. Insulation and Air Sealing
 
-Even the best passive solar design fails without proper insulation and air sealing. Heat collected by passive solar must be retained.
+Even [[query-what-are-the-best-heating-options-for-an-off-grid-homestead]] passive solar design fails without proper insulation and air sealing. Heat collected by passive solar must be retained.
 
 **Insulation recommendations by climate:**
 - Walls: R-20 to R-40 (higher in cold climates)

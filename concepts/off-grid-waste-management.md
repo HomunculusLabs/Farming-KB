@@ -39,10 +39,10 @@ Managing human waste and wastewater without municipal sewer systems is a fundame
 - Expensive installation ($5,000-15,000)
 - Requires suitable soil (percolation test required)
 - Uses large amount of land for drain field
-- Not suitable for all soil types (clay, high water table, bedrock)
+- Not suitable for all [[cervantes-outdoor-soil-types-clay-sand-loam]] (clay, high water table, bedrock)
 - Nutrients are lost to groundwater rather than recycled
 
-### Advanced Treatment Systems
+### Advanced [[sand-filtration-and-biological-water-treatment]] Systems
 
 For sites that fail conventional percolation tests:
 - **Aerobic treatment units (ATU)**: Use oxygen and bacteria to break down waste more completely

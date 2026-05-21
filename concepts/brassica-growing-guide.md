@@ -4,7 +4,7 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [vegetables, gardening, cultivation, pest-control, beginner, troubleshooting]
-sources: []
+sources: ["raw/concepts/brassica-growing-guide.md"]
 ---
 
 ## Overview

@@ -41,7 +41,7 @@ The forager's ethic: leave enough for the plant to thrive, for wildlife to eat, 
 Every part is edible. Young leaves (before flowering) are best for salads -- bitter but nutritious (vitamin A, C, K, iron, calcium). Flowers make wine and fritters. Roots can be dried and roasted as a coffee substitute. Common everywhere -- easy first plant for beginners.
 
 ### Stinging Nettle (Urtica dioica)
-Young shoots (under 6 inches) are edible when cooked or blanched (cooking destroys the stinging hairs). One of the most nutritious wild greens available -- high in iron, calcium, protein, and vitamins. Dry for tea or make pesto. Wear gloves when harvesting. Also excellent for making nitrogen-rich fertilizer tea.
+Young shoots (under 6 inches) are edible when cooked or blanched (cooking destroys the stinging hairs). One of [[query-what-are-the-most-nutritious-edible-weeds-in-my-garden-and-how-do-i-use-them]] wild greens available -- high in iron, calcium, protein, and vitamins. Dry for tea or make pesto. Wear gloves when harvesting. Also excellent for making nitrogen-rich fertilizer tea.
 
 ### Garlic Mustard (Alliaria petiolata)
 Young leaves taste like garlicky mustard. Invasive species in North America -- harvesting it is actually beneficial to native ecosystems. Flowers, seeds, and roots are all edible. Best harvested young before the leaves become tough and bitter.
@@ -78,10 +78,10 @@ Large fuzzy leaves used for respiratory tea. Flowers infused in oil make earache
 North America's largest native fruit. Tropical mango-banana flavor. Found in bottomlands and rich woods east of the Mississippi. Short season -- gather quickly when ripe. Related to the custard apple family.
 
 ### Persimmon (Diospyros virginiana)
-Fruits are astringent until fully ripe (soft, wrinkled). Pudding-like texture when ripe. High in vitamin C. Only eat when completely ripe. Female trees produce fruit; male trees are pollinators.
+Fruits are astringent until fully ripe ([[gadd-fungal-wood-decay-brown-rot-white-rot-soft-rot-mechanisms]], wrinkled). Pudding-like texture when ripe. High in vitamin C. Only eat when completely ripe. Female trees produce fruit; male trees are pollinators.
 
 ### Acorns (Quercus species)
-Nutritious staple food after leaching tannins. White oak acorns are sweetest (lowest tannins). Shell, grind, leach in multiple water changes until bitterness is gone. Dry and grind into flour. Can be used for porridge, bread, and pancakes.
+Nutritious staple [[fukuoka-food-strategy-rice-seed-weapon-seed-war-food-ecosystem]] after leaching tannins. White oak acorns are sweetest (lowest tannins). Shell, grind, leach in multiple water changes until bitterness is gone. Dry and grind into flour. Can be used for porridge, bread, and pancakes.
 
 ### Wild Grapes (Vitis riparia and others)
 Smaller and more tart than cultivated grapes. Excellent for jelly, juice, and wine. Identify by the tendrils, heart-shaped leaves, and fruit clusters. Distinguish from poisonous moonseed by the presence of tendrils (moonseed lacks them) and seeds (grape seeds are pear-shaped; moonseed seeds are crescent-shaped).

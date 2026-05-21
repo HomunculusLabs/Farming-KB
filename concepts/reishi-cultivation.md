@@ -9,7 +9,7 @@ tags:
   - medicinal-mushrooms
   - ganoderma
   - reishi
-sources:
+sources: ["raw/concepts/reishi-cultivation-guide.md"]
   - raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md
 ---
 

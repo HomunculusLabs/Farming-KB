@@ -44,7 +44,7 @@ lineage.
 
 ## Morphology
 
-The fruiting body begins as a whitish to pinkish egg 3-6 cm in
+The [[mushroom-life-cycle-spore-to-fruiting-body]] begins as a whitish to pinkish egg 3-6 cm in
 diameter, partially buried in substrate with a smooth leathery
 peridium enclosing a gelatinous core.
 
@@ -65,7 +65,7 @@ Prefers gardens with mulched beds, decomposing [[fukuoka-textdoc-sawdust-wood-ch
 forest edges, and sandy coastal soils. Fruiting occurs autumn through
 early winter in Mediterranean climates.
 
-## Life Cycle
+## [[duggar-mushroom-life-cycle-spore-germination-fruiting]]
 
 The fungus decomposes lignocellulosic material in wood chips and woody
 debris. Fruiting is triggered by sustained moisture at 15-25°C. The

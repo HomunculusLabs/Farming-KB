@@ -22,7 +22,7 @@ The stem butt method uses the bottom portion of harvested mushrooms to generate 
 
 1. **Harvest**: Collect mature mushrooms from wild patches or cultivated beds
 2. **Cut**: Remove the bottom 1-2 inches of the stem (the "butt")
-3. **Plant**: Bury stem butts in moist substrate (wood chips, straw, cardboard)
+3. **Plant**: Bury stem butts in moist substrate ([[stamets-outdoor-wood-chip-bed-mycelium-transplantation]]s, straw, cardboard)
 4. **Incubate**: Keep moist and shaded for several weeks to months
 5. **Expand**: Once colonized, transplant to larger beds or make bunker spawn
 
@@ -82,7 +82,7 @@ A critical timing concept from Stamets:
 
 Practically any fallen tree or piece of wood on the ground for a few months will host mycelium. Look for:
 - Areas where wood chips are held together in clumps (mycelium binds them)
-- Downed logs with white fungal fans on the underside
+- Downed logs with [[gadd-fungal-wood-decay-brown-rot-white-rot-soft-rot-mechanisms]] fungal fans on the underside
 - Piles of aging firewood
 - Leaf and wood chip piles
 

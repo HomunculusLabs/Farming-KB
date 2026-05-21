@@ -9,7 +9,7 @@ sources: []
 
 # Succession Planting
 
-Succession planting is the practice of staggering plantings of the same or different crops throughout the growing season to ensure continuous harvests and maximize garden productivity. Rather than planting everything at once and harvesting all at once, succession planting spreads production across weeks and months.
+Succession planting is the practice of staggering plantings of the same or different crops throughout the [[query-how-do-i-extend-my-growing-season-with-cold-frames-and-season-extension-techniques]] to ensure continuous harvests and maximize garden productivity. Rather than planting everything at once and harvesting all at once, succession planting spreads production across weeks and months.
 
 ## Types of Succession Planting
 
@@ -43,7 +43,7 @@ Planting a new crop immediately after harvesting the previous one in the same sp
 | Peas | Peppers or eggplant | Garlic |
 | Lettuce | Bush beans | Spinach |
 | Radishes | Summer squash | Cover crop |
-| Spinach | Tomatoes | Kale |
+| Spinach | Tomatoes | [[query-how-do-i-grow-cool-season-brassicas-cabbage-broccoli-cauliflower-kale]] |
 | Beets | Sweet corn | Carrots |
 | Onions (sets) | Cucumbers | Broccoli |
 | Potatoes (early) | Green beans | Fall brassicas |

@@ -4,7 +4,7 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [fungi, mushrooms, medicine, health, immunology, mycology, preparation, species-profiles, pharmacology]
-sources: []
+sources: ["raw/concepts/medicinal-mushroom-guide-reishi.md"]
 ---
 
 # Reishi (Ganoderma lucidum)

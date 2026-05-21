@@ -3,7 +3,7 @@ title: Homestead Planning and Zoning
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
-tags: [homesteading, law, design, sustainability, permaculture]
+tags: [homesteading, law, [[holmgren-permaculture-front-end-design-vs-back-end-problem-solving]], sustainability, permaculture]
 sources: []
 ---
 
@@ -45,7 +45,7 @@ Almost any permanent structure requires a building permit. This includes:
 - Driveways that connect to public roads (often requires a culvert permit from the county or DOT)
 - Dams, ponds, or water features
 
-**Unpermitted structures can be required to be removed at your expense, reduce your property value, and complicate future sales.** The permit process exists for safety and liability reasons.
+**Unpermitted structures can be required to be removed at your expense, reduce your property value, and complicate future sales.** The permit [[gaias-garden-many-gardens-garden-design-process]] exists for safety and liability reasons.
 
 Some jurisdictions allow agricultural structures (barns, sheds, greenhouses) without permits if they meet certain criteria (no foundation, no utilities, under a size threshold). Research this carefully — the exemption varies enormously between counties.
 

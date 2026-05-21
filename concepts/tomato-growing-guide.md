@@ -4,7 +4,7 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [cultivation, gardening, vegetables, pruning, pest-control, plant-growth, troubleshooting]
-sources: []
+sources: ["raw/concepts/tomato-growing-guide.md"]
 ---
 
 # Tomato Growing Guide

@@ -72,7 +72,6 @@ millimeters per minute. If appendages were effective at slowing sedimentation, e
 shapes would be anticipated in terrestrial fungi, where the faster rate of descent in
 air places an even greater premium on braking structures. But airborne spores are
 always compact, confirming that appendages add unwelcome mass and speed descent.
-
 ## See Also
 - [[bloomfield-ingoldian-aquatic-fungi-spore-dispersal]]
 - [[ingoldian-aquatic-fungi-and-spore-dispersal]]

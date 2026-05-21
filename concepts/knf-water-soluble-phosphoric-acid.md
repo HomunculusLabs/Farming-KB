@@ -5,7 +5,7 @@ updated: 2026-04-12
 type: concept
 tags: [knf, minerals, fertilizer]
 sources:
-  - raw/papers/master-cho-knf-recipe-book.md
+  - raw/papers/master-cho-knf-[[master-cho-knf-ohn-oriental-herb-nutrient-recipe]]-book.md
   - raw/papers/chos-global-natural-farming.md
 ---
 
@@ -18,7 +18,7 @@ Water Soluble Phosphoric Acid (also called Water Soluble Phosphate or WSP) is ex
 - Critical for flower formation and fruit development
 - Promotes root growth and branching
 - Increases disease resistance
-- Essential for energy transfer (ATP) in plants
+- Essential for energy transfer (ATP) in [[phytochrome-red-far-red-ratio-shade-detection-plants]]
 - Deficiency causes stunted growth, dark green/purplish leaves, poor flowering
 
 ## Materials

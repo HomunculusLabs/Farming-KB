@@ -15,14 +15,14 @@ sources: [raw/papers/masanobu-fukuoka-the-road-back-to-nature.md, raw/papers/mas
 
 Fukuoka argued that a fruit tree grows best in its natural habit: "The branches do not tangle, sunlight falls on every leaf, and the tree bears fully each year, not only in alternate years." Pruning is an intervention that disrupts the tree's natural form and creates dependency on continued human management.
 
-In "The Natural Way of Farming," Fukuoka devoted an entire chapter to "The Argument Against Pruning," addressing:
+In "The [[fukuoka-natural-way-of-farming-theory-of-natural-farming]]," Fukuoka devoted an entire chapter to "The Argument Against Pruning," addressing:
 - No basic method: There is no fundamental theory behind pruning -- different approaches contradict each other
 - Misconceptions about the natural form: What growers call "natural form" is often far from it
 - Whether pruning is really necessary: Trees in nature manage without it
 
 ## Observations from Europe
 
-During his travels in Europe described in "The Road Back to Nature," Fukuoka observed:
+During his travels in Europe described in "The [[fukuoka-natural-farming-philosophy-road-back-to-nature]]," Fukuoka observed:
 
 **In America**: "None of the trees lining the roads in the U.S. are pruned. Not a single branch is broken. The trees are left strictly alone. People in America do not fuss much with the shape of a tree by breaking and cutting off this and that branch."
 

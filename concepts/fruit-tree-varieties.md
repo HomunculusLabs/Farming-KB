@@ -18,7 +18,7 @@ tags:
 sources:
 - raw/a-new-indoor-growing-technique-tech-main-doc-a4-sizeindd.md
 - raw/unknown-nutrient-and-dynamic-accumulators.md
-- raw/william-ozier-williams-pdc_-a-permaculture-design-cours.md
+- raw/william-ozier-williams-pdc_-a-permaculture-[[permaculture-zone-one-zone-two-design]]-cours.md
 - web-research
 ---
 
@@ -33,7 +33,7 @@ Detailed variety recommendations for zone 7-8 homestead orchards, plus rootstock
 #### Apples (700-1000 chill hours for zone 7; 500-800 for zone 8)
 | Variety | Disease Resistance | Pollination | Use | Chill Hours |
 |---------|-------------------|-------------|------|-------------|
-| Liberty | Excellent (scab, cedar rust, fire blight) | Needs pollinizer | Fresh/cider | 800 |
+| Liberty | Excellent (scab, [[ingham-aact-orchard-disease-suppression-verticillium-brown-rot-cedar-rust]], fire blight) | Needs pollinizer | Fresh/cider | 800 |
 | Enterprise | Very good | Needs pollinizer | Fresh/storage | 700 |
 | Freedom | Very good | Needs pollinizer | Fresh/cider | 800 |
 | GoldRush | Excellent scab resistance | Needs pollinizer | Fresh/storage | 700-800 |

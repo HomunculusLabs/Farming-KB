@@ -26,7 +26,7 @@ Three types of trichomes exist on cannabis plants:
 3. **Capitate stalked trichomes:** Largest and most abundant on cannabis flowers. Highest cannabinoid and terpene concentrations. These are the primary target for hashish production.
 
 Trichome maturity affects quality:
-- **Clear trichomes:** Underdeveloped, lower potency
+- **Clear trichomes:** Underdeveloped, lower [[emcdda-psilocybin-mushroom-fresh-dried-product-forms-and-potency-variability-2006]]
 - **Cloudy/milky trichomes:** Peak THC production, optimal harvest for maximum potency
 - **Amber trichomes:** THC degrading to CBN, more sedative effects
 
@@ -65,9 +65,9 @@ Dry sift is one of the simplest and oldest methods of making hash. It uses mecha
 - Press (manual or hydraulic)
 - Parchment paper
 
-## Ice Water Extraction (Bubble Hash)
+## Ice Water [[green-cannabis-grow-bible-hash-making-and-trichome-extraction]] (Bubble Hash)
 
-Ice water extraction (also called bubble hash or ice wax) uses cold water and agitation to separate trichomes. This is widely considered the best method for producing high-quality, solventless hash.
+Ice [[oner-cannabis-water-extraction-ice-water-hash]] (also called bubble hash or ice wax) uses cold water and agitation to separate trichomes. This is widely considered the best method for producing high-quality, solventless hash.
 
 ### Process
 

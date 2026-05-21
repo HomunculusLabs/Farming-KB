@@ -28,7 +28,7 @@ A backyard orchard brings tree fruit production to the home landscape. Even smal
 - Leave space between the orchard and fences or buildings
 
 ### Access and Maintenance
-- Leave 3-4 feet between trees for walking, mowing, and equipment access
+- Leave 3-4 feet between [[query-best-nut-trees-for-a-permaculture-food-forest-by-climate-zone]] walking, mowing, and equipment access
 - Plan paths for wheelbarrow access to all trees
 - Consider future tree size when locating paths and structures
 - Group trees by maintenance needs (spray schedule, pruning timing)
@@ -144,7 +144,7 @@ The space beneath and between fruit trees can be productive if designed carefull
 - Deep-rooted vegetables — they compete with tree roots
 ## See Also
 
-- [[apple-tree-care]] for detailed apple tree management
+- [[apple-tree-care]] for detailed apple tree [[ultra-low-cost-wild-grass-cover-cropping-and-symbiotic-weed-management]]
 - [[stone-fruit-tree-care]] for peach, plum, and cherry care
 - [[food-forest-design]] for integrating orchard trees into a perennial polyculture
 - [[seasonal-gardening-calendar]] for seasonal orchard tasks

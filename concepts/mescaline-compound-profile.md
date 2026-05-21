@@ -11,7 +11,7 @@ sources: [raw/papers/shulgin-a-pihkal.md]
 
 ## Chemical Identity
 
-**Mescaline**: 3,4,5-Trimethoxyphenethylamine. The prototypical natural phenethylamine psychedelic, found in several cactus species including peyote (Lophophora williamsii), San Pedro (Echinopsis pachanoi), and the Peruvian torch (Echinopsis peruviana).
+**Mescaline**: 3,4,5-Trimethoxyphenethylamine. The prototypical natural phenethylamine psychedelic, found in several [[mescaline-peyote-san-pedro-cactus]] species including peyote (Lophophora williamsii), [[gottlieb-psychoactive-cacti-san-pedro-and-peruvian-torch]] (Echinopsis pachanoi), and the Peruvian torch (Echinopsis peruviana).
 
 Molecular formula: C11H17NO3
 

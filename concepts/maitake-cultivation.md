@@ -9,7 +9,7 @@ tags:
   - gourmet-mushrooms
   - medicinal-mushrooms
   - grifola
-sources:
+sources: ["raw/concepts/maitake-cultivation-guide.md"]
   - raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md
 ---
 

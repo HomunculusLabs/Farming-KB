@@ -9,7 +9,7 @@ sources: []
 
 # Permaculture Social Design
 
-Permaculture social design extends ecological design principles to human social structures — governance, economics, legal frameworks, and community organization. The three ethics of earth care, people care, and fair share require not just ecological systems thinking but also social systems thinking. A permaculture farm with an exploitative labor practice, unjust land tenure, or extractive economic model fails the core ethics.
+Permaculture social design extends ecological design principles to human social structures — governance, economics, legal frameworks, and community organization. The three ethics of earth care, people care, and [[holmgren-ethical-principles-care-earth-people-fair-shares]] share require not just ecological systems thinking but also social systems thinking. A permaculture farm with an exploitative labor practice, unjust land tenure, or extractive economic model fails the core ethics.
 
 ## Legal Structures
 
@@ -39,7 +39,7 @@ Choosing the right legal structure affects land access, liability, decision-maki
 - Member-owned and democratically governed
 - Each member has one vote regardless of capital contribution
 - Profits distributed based on use or labor, not investment
-- Aligns closely with permaculture ethics of fair share and people care
+- Aligns closely with [[permaculture-ethics-earth-care-people-care-fair-share]] of fair share and people care
 - Types: producer co-ops, consumer co-ops, worker co-ops, housing co-ops
 
 **Nonprofit Organization**

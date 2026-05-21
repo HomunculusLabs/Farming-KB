@@ -66,7 +66,7 @@ Apart from compost and manure, many organic materials can be dug into soil or us
 - Normally sold partly composted; contains virtually no nutrients
 - **Best used as mulch only** — digging it in can cause severe nitrogen deficiency (lignin takes a long time to break down, bacteria consume nitrogen in the process)
 - Very expensive; very hard material in virtually unrotted state
-- Excellent mulch for organic weed control
+- Excellent mulch for [[hamilton-geoffhamilton-nick-organic-gardening-organic-weed-control]] [[hamilton-geoffhamilton-nick-organic-gardening-organic-pest-control]]
 - **Coverage:** 2-3in (5-7cm) layer as weed suppressant in ornamental borders
 
 ### Green Compost

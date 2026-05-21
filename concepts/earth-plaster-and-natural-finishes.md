@@ -4,7 +4,7 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [construction, homesteading, permaculture, sustainability]
-sources: []
+sources: ["raw/concepts/earth-plaster-and-natural-finishes.md"]
 ---
 
 # Earth Plaster and Natural Finishes

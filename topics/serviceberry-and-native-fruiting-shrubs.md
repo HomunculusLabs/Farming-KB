@@ -3,7 +3,6 @@ title: Serviceberry and Native Fruiting Shrubs
 tags:
 
 
-
 **Planting:** Plant in spring or early fall. Dig a hole twice the root ball width but no deeper than the root flare. Space 6–12 feet apart for hedgerows, 12–20 feet for specimen trees. Water deeply at planting and mulch with 2–3 inches of wood chips or shredded bark, keeping mulch away from the trunk.
 
 **Irrigation:** Provide 1–2 inches of water per week during the first growing season. Once established, serviceberries are moderately drought-tolerant but benefit from supplemental irrigation during fruit development. Drip irrigation is ideal for hedgerow plantings.

@@ -3,7 +3,7 @@ title: Clubroot Disease Management
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
-tags: [troubleshooting, organic, gardening, pathogens, pest-control, vegetables]
+tags: [troubleshooting, organic, [[hamilton-geoffhamilton-nick-organic-gardening-organic-gardening-principles]], pathogens, pest-[[hamilton-geoffhamilton-nick-organic-gardening-organic-pest-control]], vegetables]
 sources: [raw/papers/hamilton-geoffhamilton-nick_-organic-gardening.md]
 ---
 

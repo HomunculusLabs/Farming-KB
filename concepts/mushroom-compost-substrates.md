@@ -19,11 +19,11 @@ sources:
 
 # Mushroom Compost Substrates (Agaricus)
 
-Compost preparation for Agaricus (button mushroom) cultivation from Stamets' Mushroom Cultivator. For grain spawn, wood-based substrates, supplements, and pasteurization, see [[mushroom-substrates]].
+Compost preparation for Agaricus (button mushroom) [[straw-substrate-pasteurization-methods-mushroom-cultivation]] from Stamets' Mushroom Cultivator. For grain spawn, wood-based substrates, supplements, and pasteurization, see [[mushroom-substrates]].
 
 ## Purpose of Composting
 
-The composting process prepares a nutritious medium that promotes mushroom mycelium growth while excluding competitors: (1) creates physically and chemically homogeneous substrate, (2) creates a selective substrate where mushroom mycelium thrives over competitors, (3) concentrates nutrients for mushrooms while exhausting nutrients favored by competitors, (4) removes heat-generating capabilities. Divided into Phase I (outdoor mixing/decomposition) and Phase II (indoor pasteurization/conditioning).
+The composting process prepares a nutritious medium that promotes mushroom mycelium growth while excluding competitors: (1) creates physically and chemically homogeneous substrate, (2) creates a selective substrate where mushroom mycelium thrives over competitors, (3) concentrates nutrients for mushrooms while exhausting nutrients favored by competitors, (4) removes heat-generating capabilities. Divided into Phase I ([[stamets-cultivator-wood-lovers-bed-preparation-outdoor]] mixing/decomposition) and Phase II (indoor pasteurization/conditioning).
 
 ## Compost Formulas (Stamets)
 

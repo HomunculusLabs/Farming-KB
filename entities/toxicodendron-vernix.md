@@ -22,7 +22,7 @@ Unlike most sumacs, which occupy dry upland sites and produce upright reddish fr
 
 Flowers are borne in loose axillary panicles, each flower approximately 3-4 mm in diameter with five greenish-yellow petals. Blooming occurs from May through July, depending on latitude.
 
-The fruit is a white, hairless drupe 3-5 mm in diameter, borne in pendulous racemes. This white fruit color is a critical identification character, as all non-toxic Rhus species in eastern North America produce red, orange, or brown fruit.
+The fruit is a white, hairless drupe 3-5 mm in diameter, borne in pendulous racemes. This white fruit color is a critical identification character, as all non-toxic Rhus species in eastern North America produce red, orange, or [[wood-rot-fungi-white-rot-brown-rot-and-decay-mechanisms]] fruit.
 
 Wood anatomy of Toxicodendron vernix is typical of the Anacardiaceae, with diffuse-porous vessel arrangement and uni- to multiseriate rays. The wood is lightweight and has no commercial timber value.
 
@@ -59,7 +59,7 @@ Poison sumac thickets provide nesting habitat for wetland birds, including proth
 ## Overview
 
 Toxicodendron Vernix represents an important element within sustainable
-design and ecological management systems. Its proper understanding
+[[holmgren-permaculture-front-end-design-vs-back-end-problem-solving]] and ecological management systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.
 

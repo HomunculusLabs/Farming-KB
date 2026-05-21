@@ -17,7 +17,7 @@ A spore syringe is a suspension of mushroom spores in sterile water, loaded into
 Mushroom spores are the microscopic reproductive cells produced by the gills (or pores) of mature fruiting bodies. A single mushroom cap can release millions of spores. When deposited on a growth medium under the right conditions, spores germinate to form haploid mycelium, which eventually mates with compatible hyphae to form dikaryotic mycelium — the actively growing organism that colonizes substrates and produces mushrooms.
 
 Key facts:
-- Psilocybe cubensis spores are approximately 11-17 x 7-12 micrometers.
+- [[psilocybe-cubensis-strain-potency-variability-controlled-conditions-bigwood-beug]] spores are approximately 11-17 x 7-12 micrometers.
 - Spores are extremely durable and can survive for years in cool, dry, dark storage.
 - Spores do NOT contain psilocybin or psilocin — the psychoactive compounds are produced by the mycelium and fruiting body.
 - Each spore contains a unique genetic complement — germinating spores produces a wide range of genetic variation.
@@ -58,7 +58,7 @@ Before you can make a spore syringe, you need a spore print.
 
 ### Process
 
-1. **Sterilize the water**: Boil distilled water for 10 minutes. Draw the hot water into the syringe while still hot (this also sterilizes the syringe barrel). Let the syringe cool to room temperature. Alternatively, sterilize a small jar of water in the pressure cooker for 30 minutes.
+1. **Sterilize the water**: Boil distilled water for 10 minutes. Draw the hot water into the syringe while still hot (this also sterilizes the syringe barrel). Let the syringe cool to room temperature. Alternatively, sterilize a small jar of water in the [[pressure-cooker-sterilization-time-temperature-jar-size-mushroom-substrate]] for 30 minutes.
 2. **Prepare the workspace**: Set up the SAB or flow hood. Wipe all surfaces and tools with 70% alcohol.
 3. **Open the spore print**: Inside the sterile workspace, unfold the foil with the spore print facing up.
 4. **Deposit sterile water**: Using the sterile syringe, carefully squirt a small amount of sterile water (2-3 cc) onto the spore print. Gently scrape the spores with the needle tip to loosen them from the foil.

@@ -13,7 +13,7 @@ sources:
 
 # Michael W. Beug
 
-Michael W. Beug is an American mycologist and chemist at The Evergreen State College (Olympia, Washington), known for his collaborative analytical work with [[jeremy-bigwood]] on psilocybin and psilocin quantification, and for his extensive contributions to mushroom toxicity education and identification.
+Michael W. Beug is an American mycologist and chemist at The Evergreen State College (Olympia, Washington), known for his collaborative analytical work with [[jeremy-bigwood]] on psilocybin and [[hplc-tlc-analysis-psilocybin-psilocin-quantification-bigwood-beug-1982]], and for his extensive contributions to mushroom toxicity education and identification.
 
 ## Key Research
 
@@ -47,7 +47,7 @@ Beug has been a prominent educator on mushroom poisoning and identification safe
 
 ## Analytical Methods
 
-Beug's work employed reversed-phase HPLC calibrated against National Institute on Drug Abuse standards, with TLC confirmation using butanol-acetic acid-water (12:3:5). This methodology became a standard for psychoactive mushroom analysis.
+Beug's work employed reversed-[[reversed-phase-hplc-tlc-confirmation-psilocybin-psilocin-quantification-bigwood-beug]] calibrated against National Institute on Drug Abuse standards, with TLC confirmation using butanol-acetic acid-water (12:3:5). This methodology became a standard for psychoactive mushroom analysis.
 
 ## Related
 

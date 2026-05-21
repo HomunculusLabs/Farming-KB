@@ -2,7 +2,7 @@
 title: Cancer Reishi Cancer Research
 created: 2026-04-26
 updated: 2026-04-24
-sources:
+sources: ["raw/concepts/cancer-reishi-cancer-research.md"]
   - Smith, Rowan and Sullivan (2002). comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive: Their raw-cannabis-thca-non-psychoactive-therapeutic-properties and current medical usage with special emphasis on cancer treatments. University of Strathclyde.
   - Gao, Y.H. and Zhou, S. (2001). The immuno-modulating effects of cancer-medicinal-mushrooms-extraction-bioavailability 3, 223-241.
   - Zhou, S. et al. (2001). A phase I/II study of a Ganoderma lucidum extract in patients with advanced cancers.

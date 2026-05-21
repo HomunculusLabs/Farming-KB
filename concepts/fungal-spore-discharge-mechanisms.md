@@ -4,7 +4,6 @@ created: 2026-04-28
 tags:
 
 
-
 ---
 
 The study of these mechanisms was pioneered by A.H. Reginald Buller,

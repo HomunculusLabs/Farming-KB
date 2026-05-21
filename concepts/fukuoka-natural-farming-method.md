@@ -15,7 +15,7 @@ Masanobu Fukuoka (1913-2008) developed natural farming over fifty years on his f
 
 Fukuoka demonstrated the validity of five major principles:
 
-1. **No tillage** -- The soil is worked by small animals and roots, enriched by green manure plants. Plowing ruins the soil.
+1. **[[direct-seeded-no-tillage-rice-barley-clover-succession]]** -- The soil is worked by small animals and roots, enriched by green manure plants. Plowing ruins the soil.
 2. **No fertilizer** -- Crops depend on the soil itself. Chemical fertilizers and even compost deplete the land from which organic material is taken.
 3. **No pesticides** -- Nature strikes a balance among the thousand diseases that attack plants. Man created the need for labor and toil by identifying these as insect damage.
 4. **No weeding** -- Nature does not arbitrarily call one plant a weed and try to eradicate it. A cover of grass is beneficial.
@@ -25,7 +25,7 @@ Fukuoka demonstrated the validity of five major principles:
 
 Fukuoka called his approach "do-nothing" farming. The field has not been plowed or turned in over thirty years. No chemical fertilizers, prepared compost, pesticides, or other chemicals are applied. Yet yields of close to 22 bushels (1,300 pounds) of winter grain and 22 bushels of rice per quarter-acre are achieved -- matching top yields in Ehime Prefecture.
 
-## The Core Method: Direct-Seeded, No-Tillage Rice/Barley Succession
+## The Core Method: Direct-Seeded, No-[[direct-seeded-no-tillage-rice-barley-succession-in-clover]]/Barley Succession
 
 The essential method is "direct-seeded, no-tillage, winter grain/rice succession in a clover cover":
 

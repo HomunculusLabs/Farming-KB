@@ -14,7 +14,7 @@ sources:
 
 Jeremy Bigwood is an American researcher at The Evergreen State College (Olympia, Washington), known for his collaborative work with [[michael-beug]] on the quantitative analysis of psilocybin and psilocin in mushroom species. He also co-edited *Teonanacatl: Hallucinogenic Mushrooms of North America* (1978) with [[jonathan-ott]], an important early compilation of research on psychoactive fungi.
 
-## Key Research: Bigwood & Beug (1982)
+## Key Research: Bigwood & Beug ([[hplc-tlc-analysis-psilocybin-psilocin-quantification-bigwood-beug-1982]])
 
 ### Variation of Psilocybin and Psilocin Levels with Repeated Flushes
 
@@ -31,7 +31,7 @@ Their earlier study (Beug & Bigwood 1982) surveyed psilocybin and psilocin level
 
 ### Analytical Methods
 
-Used reversed-phase HPLC calibrated against NIDA standards with 10% repeatability from 0.2 to 3 μg total psilocybin or psilocin. Detection limit ~0.01 μg. Results qualitatively confirmed by TLC using butanol-acetic acid-water (12:3:5).
+Used reversed-[[reversed-phase-hplc-tlc-confirmation-psilocybin-psilocin-quantification-bigwood-beug]] calibrated against NIDA standards with 10% repeatability from 0.2 to 3 μg total psilocybin or psilocin. Detection limit ~0.01 μg. Results qualitatively confirmed by TLC using butanol-acetic acid-water (12:3:5).
 
 ## Other Contributions
 

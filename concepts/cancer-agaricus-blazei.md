@@ -2,7 +2,7 @@
 title: cancer-medicinal-mushrooms-agaricus-blazei-polysaccharides Cancer Research
 created: 2026-04-26
 updated: 2026-04-24
-sources:
+sources: ["raw/concepts/cancer-agaricus-blazei.md"]
   - Smith, Rowan and Sullivan (2002). comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive: Their raw-cannabis-thca-non-psychoactive-therapeutic-properties and current medical usage with special emphasis on cancer treatments. University of Strathclyde.
   - Ito, H. et al. (1997). Antitumour effects of a new polysaccharide-protein complex (ATOM) from Agaricus blazei. Bioscience Biotechnology and Biochemistry 61, 1658-1660.
   - Fujimiya, Y. et al. (2000). Peroral effect on tumour progression of soluble beta-(1,6)-glucans from Agaricus blazei. International Journal of cancer-medicinal-mushrooms-extraction-bioavailability 2, 43-49.

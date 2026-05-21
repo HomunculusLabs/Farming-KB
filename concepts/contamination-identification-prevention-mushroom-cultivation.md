@@ -28,8 +28,8 @@ and spraying with 3% [[cultivator-sterile-technique-and-agar-culture]] is the fo
    breathable material. This allows gas exchange while filtering out most
    airborne contaminants. Replace tape if it becomes wet or damaged.
 
-4. **Proper sterilization**: Steam for the full 90 minutes minimum. Use a
-   pressure cooker at 15 PSI for 45-60 minutes for more reliable results.
+4. **Proper sterilization**: [[microwave-surface-sterilization-system-design-nasa-msap-2-45-ghz-trace-water-steam]] for the full 90 minutes minimum. Use a
+   [[pressure-cooker-sterilization-time-temperature-jar-size-mushroom-substrate]] at 15 PSI for 45-60 minutes for more reliable results.
    Ensure jars are not tightly packed in the pot to allow steam circulation.
 
 5. **Moisture control**: Follow substrate ratios precisely. Too much water

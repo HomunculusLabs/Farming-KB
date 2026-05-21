@@ -106,7 +106,7 @@ See [[fungal-sexual-reproduction]] for deeper coverage of mating type genetics.
 
 ## Popular Strains and Selection Criteria
 
-### For Psilocybe cubensis
+### For [[cap-stem-alkaloid-distribution-psilocybe-cubensis-strains-detailed]]
 
 | Strain | Origin | Characteristics |
 |--------|--------|-----------------|
@@ -116,7 +116,7 @@ See [[fungal-sexual-reproduction]] for deeper coverage of mating type genetics.
 | Cambodian | Angkor Wat | Fast colonizer, moderate-high potency |
 | Ecuador | Ecuadorian highlands | Large, classic appearance, consistent |
 | Thai | Koh Samui | Fast, moderate potency, prolific |
-| Albino A+ | Mutation of A+ | Leucistic (white), higher potency than standard A+ |
+| Albino A+ | Mutation of A+ | Leucistic ([[gadd-fungal-wood-decay-brown-rot-white-rot-soft-rot-mechanisms]]), higher potency than standard A+ |
 | PE6 | PE hybrid | Combines PE potency with easier cultivation |
 
 ### Selection Criteria

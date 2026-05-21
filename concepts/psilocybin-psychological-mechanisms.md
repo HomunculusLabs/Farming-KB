@@ -17,7 +17,7 @@ sources:
 
 # Psilocybin Psychological Mechanisms
 
-The neuroscience of how psilocybin produces its psychological effects, including Default Mode Network suppression, serotonin receptor activity, and neuroplasticity.
+The neuroscience of how psilocybin produces its psychological effects, including [[psilocybin-default-mode-network-ego-dissolution]] suppression, serotonin receptor activity, and neuroplasticity.
 
 ## Overview
 
@@ -79,7 +79,7 @@ See [[psilocybin-therapeutic-applications]] for specific clinical applications.
 
 ## Related Topics
 
-- [[psychedelic-mushroom-pharmacology]] for detailed pharmacokinetics
+- [[psychedelic-mushroom-pharmacology]] for detailed [[mckenna-dmt-endogenous-brain-affinity-versus-lsd-pharmacokinetics]]
 - [[psilocybin-therapeutic-applications]] for clinical research
 - [[psychedelic-mushroom-set-and-setting]] for the psychological framework
 - [[psychedelic-integration-practices]] for making use of the experience

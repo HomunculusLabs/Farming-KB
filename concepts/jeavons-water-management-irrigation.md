@@ -1,7 +1,7 @@
 ---
 title: Water Management and Irrigation
 created: 2026-04-26
-sources:
+sources: ["raw/concepts/jeavons-water-management-irrigation.md"]
   - path: raw/papers/jeavons-john-how-to-grow-more-vegetables.md
     title: How to Grow More Vegetables - John Jeavons
     author: John Jeavons

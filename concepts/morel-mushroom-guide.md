@@ -3,7 +3,7 @@ title: Morel Mushroom Guide
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
-tags: [mushrooms, fungi, mycology, foraging, species-profiles, ecology, species, safety, harvesting]
+tags: [mushrooms, fungi, mycology, foraging, species-profiles, [[fungal-volatile-organic-compounds-vocs-chemistry-ecology]], species, safety, harvesting]
 sources: []
 ---
 
@@ -11,7 +11,7 @@ sources: []
 
 ## Overview
 
-Morel mushrooms (genus Morchella) are among the most prized wild edible mushrooms in the world. Their distinctive honeycomb-like caps, meaty texture, and rich, earthy flavor make them the target of dedicated foraging expeditions each spring. Morels are also among the most commercially valuable wild mushrooms, with prices ranging from $30 to $80+ per pound fresh. See [[mushroom-cooking-techniques]] for preparation and cooking instructions, and [[fungal-spore-print-guide]] for identification aids.
+Morel mushrooms (genus Morchella) are among the most prized wild edible mushrooms in the world. Their distinctive honeycomb-like caps, meaty texture, and rich, earthy flavor make them the target of dedicated foraging expeditions each spring. Morels are also among the most commercially valuable wild mushrooms, with prices ranging from $30 to $80+ per pound fresh. See [[mushroom-cooking-techniques]] for preparation and cooking instructions, and [[emcdda-free-spore-ring-europe-spore-distribution-network]]-print-guide]] for identification aids.
 
 ## Species
 

@@ -114,7 +114,7 @@ This interplay suggests that ayahuasca's effectiveness cannot be attributed to e
 - Ehrenwald, Jan. 1966. *The Healing Act*. New York: Jason Aronson.
 
 ## See Also
-- [[ayahuasca-vision-art-and-Shipibo-tradition]]
+- [[ayahuasca-vision-art-and-shipibo-tradition]]
 - [[banisteriopsis-ayahuasca-cross-cultural-vision-patterns]]
 - [[doctrinal-compliance-magical-psychotherapy]]
 - [[ayahuasca]]

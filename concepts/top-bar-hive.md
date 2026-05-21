@@ -3,7 +3,7 @@ title: Top Bar Hive Beekeeping
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
-tags: [homesteading, animal-husbandry, insects, homestead-crafts, design]
+tags: [homesteading, animal-husbandry, insects, homestead-crafts, [[comparison-food-forest-design-vs-backyard-orchard-design]]]
 sources: []
 ---
 
@@ -57,7 +57,7 @@ Top bar hives require careful winter preparation. The follower board is moved in
 |---------|-------------|-----------------|
 | Comb type | Natural, free-built | Foundation-guided |
 | Equipment cost | Low | Moderate to high |
-| Honey yield | Lower (15-30 lbs) | Higher (40-60 lbs) |
+| Honey [[fukuoka-ideal-rice-plant-form-dimensions-high-yield]] | Lower (15-30 lbs) | Higher (40-60 lbs) |
 | Hive weight per box | N/A (horizontal) | 50-80 lbs when full |
 | Inspection style | One bar at a time | Full frame removal |
 | Queen excluder | Not used | Optional |

@@ -4,7 +4,7 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [psychopharmacology, entheogen, ethnobotany, consciousness, pharmacology, safety, preparation, species-profiles]
-sources: []
+sources: ["raw/concepts/salvinorin-reference.md"]
 ---
 
 # Salvinorin A

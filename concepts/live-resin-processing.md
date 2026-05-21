@@ -55,7 +55,7 @@ Live resin is typically produced using butane, propane, or a butane/propane blen
 
 Professional live resin extraction requires significant equipment:
 
-- **Closed-loop extraction system**: A sealed, pressurized system that recycles solvent. Never use open-blasting — it is extremely dangerous and produces inferior results.
+- **Closed-loop extraction [[blue-light-phototropism-red-light-photoperiodism-dual-plant-vision-system]]**: A sealed, pressurized system that recycles solvent. Never use open-blasting — it is extremely dangerous and produces inferior results.
 - **Recovery pump**: Captures and recycles solvent back into the system.
 - **Vacuum oven**: For post-extraction solvent purging.
 - **Deep freezer or cryogenic freezer**: For biomass storage.
@@ -88,7 +88,7 @@ The entire live resin process is designed around terpene preservation. Key strat
 - **Cold extraction**: Running solvent at sub-zero temperatures minimizes terpene loss during the wash.
 - **Short path processing**: Minimizing the distance and time the extract travels reduces terpene evaporation.
 - **Low-temperature purging**: Vacuum ovens set to lower temperatures with deep vacuum remove solvents without volatilizing terpenes.
-- **Terpene separation**: Some processors use fractional distillation or chromatography to separate and recombine terpenes in optimized ratios.
+- **Terpene separation**: Some processors use [[high-volume-cannabis-extraction-and-fractional-distillation]] or chromatography to separate and recombine terpenes in optimized ratios.
 - **Opaque containers**: Store final product in UV-blocking glass to prevent light degradation of terpenes.
 
 ## Product Forms

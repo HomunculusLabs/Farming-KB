@@ -31,7 +31,7 @@ Europe has approximately three-quarters as many documented species as the Pacifi
 
 ### Central and South America
 
-Significant mycoflora including many species yet to be fully documented. P. cubensis is widespread throughout tropical regions. Indigenous mushroom cults exist in various communities.
+Significant mycoflora including many species yet to be fully documented. P. [[cap-vs-stem-alkaloid-distribution-psilocybe-cubensis]] is widespread throughout tropical regions. Indigenous mushroom cults exist in various communities.
 
 ### Asia and Oceania
 

@@ -3,7 +3,7 @@ title: Weed Management Strategies
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
-tags: [pest-control, gardening, agriculture, no-till, living-soil, regenerative, troubleshooting]
+tags: [pest-control, gardening, agriculture, no-till, living-[[gaias-garden-soil-food-web-living-soil]], regenerative, troubleshooting]
 sources: []
 ---
 
@@ -68,7 +68,7 @@ Effective for weeds in rows and pathways. Disturbs only the top inch of soil, mi
 
 ### Flame Weeding
 
-A propane torch is used to briefly flame weeds, killing them by rupturing plant cells. The goal is to heat the weed until it wilts (not to burn it to ash).
+A propane torch is used to briefly flame weeds, killing them by rupturing [[blue-light-phototropism-red-light-photoperiodism-dual-plant-vision-system]] cells. The goal is to heat the weed until it wilts (not to burn it to ash).
 
 - **Best for**: Young annual weeds at the cotyledon or first true-leaf stage (1-2 inches tall). Larger weeds may regrow from the roots.
 - **Technique**: Pass the flame slowly over the weed (1-2 seconds of exposure). The weed will appear wilted after 1-24 hours. Perennial weeds with deep roots will regrow.
@@ -100,7 +100,7 @@ Solarization uses the sun's heat to kill weed seeds, soil-borne pathogens, and n
 
 ### Process
 
-1. **Prepare the soil**: Till or cultivate the area to break up clods and smooth the surface. Remove large debris and rocks.
+1. **Prep[[query-what-are-the-best-ways-to-increase-soil-organic-matter-quickly]] soil**: Till or cultivate the area to break up clods and smooth the surface. Remove large debris and rocks.
 2. **Moisten the soil**: Water thoroughly to a depth of 12 inches. Moist soil conducts heat better than dry soil.
 3. **Cover with clear plastic**: Use UV-stabilized clear polyethylene (1-4 mil thickness). Clear plastic traps more heat than black plastic. Lay plastic flat on the soil surface, burying all edges in a trench to seal.
 4. **Duration**: Leave in place for 4-8 weeks during the hottest part of summer (June-August in most temperate regions). Longer duration = more complete kill.

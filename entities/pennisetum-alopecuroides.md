@@ -38,7 +38,7 @@ It is moderately drought-tolerant once established and can survive periodic floo
 
 ## Cultivation
 
-Fountain grass is propagated primarily by seed and by division of established clumps in early spring.
+Fountain grass is propagated primarily by [[permaculture-landscape-energy-storage-water-soil-trees-seed]] and by division of established clumps in early spring.
 
 Seeds require no cold stratification and germinate readily at temperatures above 20 degrees Celsius.
 
@@ -54,7 +54,7 @@ Fertilizer requirements are low; excessive nitrogen can produce floppy, weak ste
 
 Hardiness ranges from USDA zones 5 to 9, with winter survival depending on snow cover and drainage in the colder portions of its range.
 
-Plants should be cut back to 5 to 10 centimeters above ground in late winter or early spring before new growth resumes.
+Plants should be cut [[holmgren-permaculture-front-end-design-vs-back-end-problem-solving]] to 5 to 10 centimeters above ground in late winter or early spring before new growth resumes.
 
 Named cultivars include Hameln, a compact dwarf form reaching 60 centimeters, and Moudry, valued for its dark flower spikes.
 

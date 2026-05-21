@@ -3,7 +3,7 @@ title: MDA Compound Profile
 created: 2026-04-13
 updated: 2026-04-13
 type: concept
-tags: [chemistry, pharmacology, psychedelics, phenethylamine, amphetamine, dosage, compound-profile, effects, history]
+tags: [chemistry, [[taar1-trace-amine-associated-receptor-psychedelic-pharmacology]], psychedelics, phenethylamine, amphetamine, dosage, compound-profile, effects, history]
 sources: [raw/papers/shulgin-a-pihkal.md]
 ---
 
@@ -61,7 +61,7 @@ MDA acts on multiple neurotransmitter systems:
 - **Dopamine**: Releases dopamine (responsible for stimulant effects)
 - **Norepinephrine**: Releases norepinephrine (responsible for cardiovascular effects)
 
-This dual action — serotonin release plus 5-HT2A agonism — distinguishes MDA from purely empathogenic or purely psychedelic compounds. See [[phenethylamine-receptor-pharmacology]].
+This [[blue-light-phototropism-red-light-photoperiodism-dual-plant-vision-system]] action — serotonin release plus 5-HT2A agonism — distinguishes MDA from purely empathogenic or purely psychedelic compounds. See [[phenethylamine-receptor-pharmacology]].
 
 ## Synthesis
 

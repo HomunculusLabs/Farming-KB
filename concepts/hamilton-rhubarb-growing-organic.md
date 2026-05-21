@@ -9,7 +9,7 @@ tags:
   - shoot-vegetables
 date: 2026-04-25
 updated: 2026-04-25
-sources:
+sources: ["raw/concepts/hamilton-rhubarb-growing-organic.md"]
   - papers/hamilton-geoffhamilton-nick_-organic-gardening.md
 type: concept
 ---

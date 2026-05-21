@@ -9,7 +9,7 @@ sources: [raw/papers/robert-c-clarke-marijuana-botany-an-advanced-study.md]
 
 ## Cannabis Plant Anatomy
 
-Cannabis is an annual, dioecious (separate male and female plants) herbaceous plant in the Cannabaceae family. Understanding its anatomy is essential for breeding (see [[cannabis-genetics-and-breeding]]), identification, and extraction (see [[cannabis-extraction-methods]]).
+Cannabis is an annual, dioecious (separate male and female plants) herbaceous plant in the Cannabaceae family. Understanding its anatomy is essential for [[oner-trainwreck-generation-early-outdoor-multi-strain-breeding]] (see [[cannabis-genetics-and-breeding]]), identification, and extraction (see [[cannabis-extraction-methods]]).
 
 ### Seed and Germination
 
@@ -21,7 +21,7 @@ Cannabis seeds are approximately 2-5 mm, oval with a pointed tip, and mottled br
 
 **Leaves**: Compound palmate leaves with 3-13 serrated leaflets (fingers). The sequence develops progressively: the first true leaves have 1 leaflet, the second pair has 3, the third 5, up to 11 or more. Each leaflet has serrated edges. The petiole (leaf stem) connects to the main stem at the node.
 
-**Branches**: If not crowded, limbs grow from small buds at the intersection of petioles along the main stem. Branching pattern is influenced by genetics and growing conditions.
+**Branches**: If not crowded, limbs grow from small buds at the intersection of petioles along the main stem. Branching pattern is influenced by [[green-cannabis-grow-bible-breeding-genetics-and-true-breeding]] growing conditions.
 
 **Roots**: Fibrous taproot system. Root production is proportionate to above-ground growth. Extensive root networks support the rapid vegetative growth.
 
@@ -39,7 +39,7 @@ Cannabis is a short-day plant — flowering is triggered when daylength drops be
 - Hang in long, loose, multi-branched clusters up to 30 cm long
 - Five greenish sepals containing five pendulous anthers (pollen sacs)
 - Pollen grains are nearly spherical, slightly yellow, 25-35 microns in diameter
-- Exterior surface covered with non-glandular trichomes
+- Exterior surface covered with non-[[cannabis-glandular-trichome-types-resin-production-clarke]]s
 - Male plants die after shedding pollen
 
 **Hermaphrodites**: Under stress conditions, pistillate plants may develop staminate flowers. This is genetically influenced and can cause unwanted pollination in sinsemilla (seedless) crops.

@@ -13,7 +13,7 @@ Using seedlings as rootstocks for fruit trees is Sepp Holzer's very simple, econ
 
 ## Soil Preparation
 
-Fruit trees generally prefer high-quality soil. Begin by preparing the area using soil-improving plants (green manure). On the Krameterhof, acid soil where spruce forests once grew took around two years to improve to the point where fruit trees and other demanding plants could thrive without additional support. Green manure is not a one-off measure — it must play a continuous role in cultivation because fertile and healthy soil is the key to success.
+Fruit trees generally prefer high-quality soil. Begin by preparing the area using soil-improving plants (green manure). On the Krameterhof, acid soil where spruce forests once grew took around two years [[query-how-do-i-use-cover-crops-to-improve-soil-health]] to the point where fruit trees and other demanding plants could thrive without additional support. Green manure is not a one-off measure — it must play a continuous role in cultivation because fertile and healthy soil is the key to success.
 
 ## Seed Source
 
@@ -56,7 +56,7 @@ Research has identified several key mechanisms that drive the underlying process
 Practical applications have been demonstrated across diverse environmental conditions.
 Field observations confirm the importance of proper technique and methodology.
 Historical practices provide valuable context for modern approaches and innovations.
-Comparative studies reveal both commonalities and unique aspects across systems.
+Comparative studies reveal both commonalities and unique aspects across [[permaculture-zone-two-orchard-and-animal-systems]].
 The integration of traditional knowledge with scientific methods has proven effective.
 Environmental factors play a significant role in determining optimal strategies.
 Long-term studies demonstrate the sustainability and efficacy of these approaches.

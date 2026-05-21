@@ -7,7 +7,7 @@ type: concept
 tags:
 - compost
 - homesteading
-- soil
+- [[gaias-garden-soil-food-web-living-soil]]
 - biology
 - regenerative
 - composting
@@ -92,7 +92,7 @@ Laws vary widely by jurisdiction. In the US, no federal regulation — it's stat
 
 - **Permissive states** (few restrictions): Colorado, Oregon, Washington, Vermont, Maine allow composting toilets and humanure with minimal permitting
 - **Restrictive states**: some require NSF/ANSI 41 certified systems or prohibit use on food crops
-- **Building codes**: many jurisdictions accept composting toilets under IRC Appendix Q or as alternative systems via variance
+- **[[comparison-wood-chip-mulch-vs-leaf-mold-vs-composted-manure-soil-building]] codes**: many jurisdictions accept composting toilets under IRC Appendix Q or as alternative systems via variance
 - **International**: Sweden and parts of Scandinavia are permissive; many EU countries require approved systems; Australia has state-level variation
 - **Practical approach**: most rural homesteads operate under the radar with DIY bucket systems. Urban areas face more scrutiny.
 

@@ -2,7 +2,7 @@
 title: "Pf Tek Psilocybe Fanaticus"
 created: 2026-04-26
 updated: 2026-04-24
-sources:
+sources: ["raw/papers/fanaticus-pf-tek-psilocybe-fanaticus.md"]
   - shroom-a-cultural-history-of-the-magic-mushroom.md
 type: concept
 tags: [pf-tek, psilocybin]

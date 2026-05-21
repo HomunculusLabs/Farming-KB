@@ -11,7 +11,7 @@ date: 2026-05-10
 updated: 2026-05-10
 sources:
   - Lakušić D. et al. (2006). "Phylogeny and biogeography of Edraianthus (Campanulaceae)." Molecular Phylogenetics and Evolution 39(2): 361–374.
-  - Steele B.E. (2003). "Edraianthus: Jewels of the Balkans." comparison-honey-bees-vs-native-solitary-bees, though the species is also capable of self-pollination.
+  - Steele B.E. (2003). "Edraianthus: Jewels of the Balkans." comparison-honey-[[comparison-honey-bees-vs-native-solitary-bees]]-vs-native-solitary-bees, though the species is also capable of self-pollination.
 ---
 
 The grass-like leaves are an adaptation to reduce water loss in the exposed, windy habitats the species occupies. This convergent leaf form has evolved independently in many Mediterranean alpine lineages.
@@ -36,7 +36,7 @@ Collection from wild populations for horticultural trade has been reported in Mo
 ## Overview
 
 Edraianthus Graminifolius represents an important element within sustainable
-design and ecological management systems. Its proper understanding
+[[holmgren-permaculture-front-end-design-vs-back-end-problem-solving]] and ecological management systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.
 

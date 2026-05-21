@@ -11,7 +11,7 @@ sources: []
 
 ## Overview
 
-N,N-Dimethyltryptamine (DMT) is a naturally occurring tryptamine compound found in hundreds of plant species and produced endogenously in mammals, including humans. It is one of the most potent psychedelics known — a full visionary experience can be achieved with doses as low as 20–60 mg when vaporized.
+N,N-Dimethyltryptamine (DMT) is a naturally occurring tryptamine compound found in hundreds of [[blue-light-phototropism-red-light-photoperiodism-dual-plant-vision-system]] species and produced endogenously in mammals, including humans. It is one of the most potent psychedelics known — a full visionary experience can be achieved with doses as low as 20–60 mg when vaporized.
 
 This guide covers the extraction of DMT from plant material, primarily Mimosa hostilis root bark (MHRB), which is the most common and efficient source for at-home extraction. DMT is a Schedule I controlled substance in many countries — this information is presented for educational and harm-reduction purposes.
 
@@ -35,7 +35,7 @@ DMT is a tryptamine base — meaning it is not soluble in water but is soluble i
 ### Other Sources
 - **Acacia species** (A. confusa, A. obtusifolia, A. phlebophylla) — Australian and Asian acacias, variable DMT content
 - **Psychotria viridis** — DMT in leaves (0.1–0.6%), used in ayahuasca
-- **Desmanthus illinoensis** — Illinois bundleflower, root bark contains DMT
+- **[[north-american-dmt-containing-plants-phalaris-desmanthus-peganum]] illinoensis** — Illinois bundleflower, root bark contains DMT
 - **Phalaris species** — grasses containing DMT and 5-MeO-DMT, also contain toxic gramine
 
 ## STB (Straight-to-Base) Tek
@@ -70,7 +70,7 @@ The Straight-to-Base method is the simplest and most popular extraction techniqu
 
 ### Step 3: Separate the Naphtha Layer
 1. Use a glass pipette or turkey baster to carefully draw off the top naphtha layer
-2. Transfer to a clean glass jar
+2. [[transcendent-other-and-plant-human-information-transfer]] to a clean glass jar
 3. Leave behind any aqueous layer contamination (dark material)
 
 ### Step 4: Repeat

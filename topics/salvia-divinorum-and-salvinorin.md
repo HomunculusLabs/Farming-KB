@@ -1,150 +1,81 @@
 ---
-title: Salvia Divinorum and Salvinorin
-created: 2026-04-11
-updated: 2026-05-20
-type: topic
-tags: [ethnobotany, psychopharmacology, salvia-divinorum, salvinorin-a, kappa-opioid, mazatec, dissociative, lamiaceae, entheogen, oaxaca, psychedelic-therapy]
-sources:
-  - Halpern JH (2004). Hallucinogens and Dissociative Agents Naturally Growing in the United States. Pharmacology & Therapeutics 102: 131-138.
-  - Roth BL et al. (2002). Salvinorin A: A Potent Naturally Occurring Nonnitrogenous Kappa Opioid Selective Agonist. PNAS 99: 11934-11939.
-  - Siebert DJ (1994). Salvia divinorum and Salvinorin A: New Pharmacologic Findings. Journal of Ethnopharmacology 43: 53-56.
-  - Valdes LJ, Diaz J, Paul A (1983). Ethnopharmacology of Ska Maria Pastora. Journal of Ethnopharmacology 7: 287-312.
-  - Hofmann A. LSD: My Problem Child. Translated by J. Ott.
-  - Schultes RE, Hofmann A. Plants of the Gods: Their Sacred, Healing, and Hallucinogenic Powers.
-  - A Golden Guide to Hallucinogenic Plants.
-related_concepts:
-  - salvia-divinorum
-  - salvia-divinorum-pharmacology
-  - salvia-divinorum-propagation-legal-status
-  - salvinorin-a-kappa-opioid-receptor-pharmacology
-  - salvinorin-a-pharmacology-non-nitrogenous-opioid-agonist
-  - salvinorin-reference
-  - salvinorin-pharmacology
-  - hofmann-salvia-divinorum-discovery
-  - maria-pastora-salvia-divinorum-mazatec-healing
-  - golden-guide-salvia-divinorum-and-diviner-sage
-  - schultes-salvia-divinorum
-  - plants-of-the-gods-salvia-divinorum-diviners-sage
+title: "Salvia Divinorum and Salvinorin"
+sources: []
 ---
 
-# Salvia Divinorum and Salvinorin
+## Risk Profile and Harm Reduction
 
-## Salvia Divinorum and Salvinorin — An Overview
+The risk profile of Salvia divinorum differs significantly from most recreational substances. Salvinorin A has no reinforcing properties, meaning it does not produce dependence or addiction. The dysphobic and disorienting character of the experience naturally discourages repeated use in most individuals who try it.
 
-Salvia divinorum is a psychoactive herb in the mint family (Lamiaceae),
-endemic to a small region of the Sierra Mazateca in Oaxaca, Mexico. It is
-the only known natural source of salvinorin A, a neoclerodane diterpene
-and the most potent naturally occurring psychedelic compound discovered.
+Harm from Salvia divinorum most likely occurs from behavioral risks during intoxication rather than pharmacological toxicity. Falls, collisions with objects, and impaired judgment during the brief but intense experience represent the primary risks.
 
-The Mazatec people have used S. divinorum in divination and healing
-rituals for generations, though the exact antiquity of its use remains
-debated among ethnobotanists. The plant occupies a unique position in
-psychedelic pharmacology because its active compound operates through
-the kappa-opioid receptor system rather than the serotonin pathways
-targeted by virtually all other known hallucinogens.
+The availability of concentrated extracts (20x, 40x, and higher) has substantially altered the risk profile compared to traditional leaf use, as extract potency can vary unpredictably between batches and suppliers.
 
-This article traces the botany, chemistry, pharmacology, traditional
-ceremonial use, modern cultural history, legal status, and therapeutic
-research potential of this remarkable and enigmatic plant.
+Set and setting principles apply as strongly to Salvia divinorum as to any psychedelic substance. A safe environment with a trusted sitter is strongly recommended given the intensity and unpredictability of effects.
 
-## Botanical Identity and Classification
+## Related Species and the Coleus Question
 
-Salvia divinorum belongs to the genus Salvia within the Lamiaceae
-family, which includes over 700 species of sage worldwide. Despite its
-relationship to common sage (Salvia officinalis) and many ornamental
-and culinary Salvia species, S. divinorum is the only known Salvia
-species that produces salvinorin A.
+Researchers have noted that other members of the Lamiaceae family may harbor undiscovered psychoactive compounds. Coleus blumei and related ornamental species have been anecdotally associated with mild psychoactive effects, though scientific evidence remains limited and inconclusive.
 
-The plant is a sprawling perennial herb growing 0.5 to 1.5 meters
-tall. Its stems are characteristically square, a hallmark of the mint
-family, and are hollow and easily rooted from cuttings. The leaves are
-large, reaching up to 30 cm in length, ovate in shape, and covered
-with fine hairs, dark green on the upper surface with a lighter
-underside.
+The possibility of psychoactive properties in common ornamental plants creates interesting regulatory and ethnobotanical questions about the true scope of psychoactive flora worldwide.
 
-Flowers are white with purple calyces, borne in panicles up to 40 cm
-long, but are rarely produced in cultivation. The plant reproduces
-almost exclusively through vegetative means. Seeds are extremely rare
-and frequently non-viable when they do appear.
+The broader question of undiscovered psychoactive plants in the Lamiaceae family highlights how much remains to be learned about plant secondary metabolites and their interactions with human neurochemistry.
 
-Several named cultivar strains exist in the horticultural trade,
-including Blosser, Wasson-Hofmann, Luna, and Appaloosa. These represent
-clonal lineages derived from different original collections, and they
-may vary slightly in leaf morphology and salvinorin A content.
+## Pharmacological Uniqueness
 
-## The Ecological Mystery — A Cultigen Without Wild Origins
+Salvia divinorum occupies a unique position among psychedelics as the only known naturally-occurring kappa-opioid receptor agonist with potent psychoactive properties. Unlike serotonergic psychedelics such as psilocybin or LSD, salvinorin A produces effects through an entirely different neural mechanism.
 
-S. divinorum is not known from any truly wild population. Its native
-range is remarkably restricted to the cloud forest ravines of the
-Sierra Mazateca, and it may in fact be a cultigen — a plant maintained
-entirely through centuries of human cultivation and selection.
+Salvinorin A is notable for being a non-nitrogenous psychoactive compound, structurally distinct from virtually all other known psychedelics which typically contain nitrogen atoms. This terpenoid structure challenges conventional understanding of how psychoactive molecules interact with neural receptors.
 
-The species was described scientifically by Epling and Jativa-M., but
-it has never been found growing outside of human-tended plots. The
-Mazatec cultivate it in hidden forest clearings far from homes and
-roads, reflecting both the sacred and secretive nature of its use.
+The kappa-opioid receptor system targeted by salvinorin A is distinct from the mu-opioid receptors associated with traditional opioids and produces profoundly different effects including dissociation, synesthesia, and alterations in spatial and temporal perception.
 
-This ecological strangeness has led researchers to speculate that S.
-divinorum may be an ancient clone, possibly a hybrid or selected
-variant maintained by indigenous peoples since pre-Columbian times.
-The near-complete absence of sexual reproduction means that virtually
-all cultivated plants worldwide are genetically derived from a very
-small number of original collections.
+## Traditional Mazatec Use
 
-Some ethnobotanists have proposed that S. divinorum may be the
-pipilzintzintli of the ancient Aztecs, a sacred plant mentioned in
-colonial-era chronicles. The Aztec name has been translated as "the
-most noble little prince of plants." However, the identification
-remains uncertain because the historical descriptions are not specific
-enough to confirm botanical identity with certainty.
+The traditional Mazatec use of Salvia divinorum involved chewing fresh leaves in a ritual context, producing a more gradual and controllable experience compared to the rapid onset of smoked extracts that dominate modern recreational use.
 
-## Salvinorin A — Chemistry and Molecular Structure
+Mazatec curanderos (healers) in Oaxaca, Mexico used Salvia divinorum as one of several teacher plants in their therapeutic and divinatory practices, often alongside morning glories and psilocybin mushrooms in a layered approach to healing.
 
-Salvinorin A (C₂₃H₂₈O₈, molecular weight 432.47 g/mol) is a
-trans-neoclerodane diterpene. Its chemical structure is fundamentally
-different from all other known naturally occurring hallucinogens.
+The plant was known by several names in the Mazatec language, including "ska Maria Pastora" (leaves of Mary the Shepherdess), reflecting the syncretic blending of indigenous plant knowledge with Catholic imagery that characterizes much of Mexican ethnobotanical practice.
 
-Most classical psychedelics — including tryptamines (psilocybin, DMT),
-phenethylamines (mescaline), and lysergamides (LSD) — contain at least
-one nitrogen atom in their molecular structure. Salvinorin A contains
-no nitrogen whatsoever. This makes it the first documented naturally
-occurring non-nitrogenous opioid receptor agonist.
+## Legal Status and Regulation
 
-The compound is lipophilic, allowing efficient absorption through the
-oral mucosa when leaves are chewed, and through the lungs when smoked.
-It is relatively unstable at high temperatures, which affects the
-efficiency of smoked administration. The primary active site of
-accumulation in the plant is the leaf tissue, with trace amounts of
-related compounds such as salvinorin B present as minor constituents.
+Legal status varies dramatically by jurisdiction, with some countries and states banning the plant entirely while others maintain no restrictions. This patchwork legal landscape reflects the ongoing scientific debate about appropriate regulation of naturally occurring psychoactive plants.
 
-Salvinorin B is generally considered inactive or minimally active as
-a psychoactive compound, though it has attracted some research interest
-for potential modulating effects on the salvinorin A experience.
+Several countries have classified Salvia divinorum as a controlled substance, while others have no specific legislation addressing it. In the United States, regulation varies at the state level, creating a complex patchwork of legality.
 
-## Kappa-Opioid Receptor Pharmacology
+The regulatory debate is complicated by the plant's unique pharmacological profile, its low abuse potential, and the cultural significance of traditional Mazatec practices that have used the plant safely for generations.
 
-The pharmacological mechanism of salvinorin A sets it apart from every
-other known natural hallucinogen. Roth et al. (2002) demonstrated that
-salvinorin A is a highly potent and selective kappa-opioid receptor
-(KOR) agonist, with an EC50 in the low nanomolar range.
+## Botanical Characteristics
 
-KOR is a G-protein coupled receptor that modulates perception,
-consciousness, interoception, and the body's response to stress and
-pain. KOR activation produces dissociative effects, altered perception
-of reality, and profound changes in sensory processing.
+Salvia divinorum is a perennial herb in the Lamiaceae (mint) family, native to the cloud forests of the Sierra Mazateca in Oaxaca, Mexico. The plant grows to approximately one meter in height with large green leaves and distinctive square stems characteristic of the mint family.
 
-Salvinorin A shows no significant binding to mu-opioid receptors
-(responsible for morphine-like euphoria and addiction) or delta-opioid
-receptors. It also has no appreciable affinity for serotonin 5-HT2A
-receptors, the primary target of classical psychedelics such as LSD,
-psilocybin, and mescaline.
+Unlike many Salvia species, S. divinorum rarely produces viable seeds and is primarily propagated through vegetative cloning. This reproductive strategy has contributed to its limited natural distribution and raises interesting questions about its evolutionary history and possible human-mediated selection.
+
+The plant's specific epithet "divinorum" translates to "of the seers" or "of the diviners," directly referencing its traditional use in divination and healing practices among the Mazatec people.
 
 ## See Also
-
 - [[salvia-divinorum]] — primary species entry
-- [[salvinorin-a-pharmacology-non-nitrogenous-opioid-agonist]] — active compound details
-- [[salvinorin-a-kappa-opioid-receptor-pharmacology]] — receptor pharmacology
-- [[psychedelic-mushrooms-species-and-identification]] — comparative hallucinogen reference
-- [[ayahuasca-and-dmt-plant-medicine]] — another entheogenic plant tradition
-- [[psychedelic-therapy-and-research]] — modern therapeutic research context
+- [[salvinorin-a-pharmacology-non-nitrogenous-opioid-agonist]] — active compound pharmacology
+- [[salvinorin-a-kappa-opioid-receptor-pharmacology]] — receptor pharmacology detail
+- [[salvinorin-reference]] — comprehensive pharmacological reference
+- [[psychedelic-mushrooms-species-and-identification]] — comparative hallucinogen
+- [[ayahuasca-and-dmt-plant-medicine]] — entheogenic plant tradition
+- [[psychedelic-therapy-and-research]] — modern therapeutic research
 - [[entheogenic-plants-and-psychoactive-flora]] — broader ethnobotanical context
+- [[chemistry-of-hallucinogenic-plants]] — hallucinogen chemistry
+- [[datura-as-hallucinogen]] — anticholinergic hallucinogen comparison
+- [[dmt-tryptamine-hallucinogens]] — tryptamine hallucinogens comparison
+- [[consciousness-and-psychedelics]] — consciousness research
+- [[brain-neuroscience-and-psychedelic-mechanism]] — neural mechanisms
+- [[chemical-composition-of-hallucinogens]] — hallucinogen chemistry overview
+- [[controlled-substances-act-and-psychedelic-research]] — regulatory context
+- [[psychedelic-therapy-and-research]] — therapeutic applications
+- [[psilocybe-mexicana]] — another Mexican psychoactive species
+- [[ipomoea-violacea]] — another Mazatec teacher plant
+- [[hallucinogenic-plants-of-the-world]] — global ethnobotanical survey
+- [[anticholinergic-hallucinogenic-plants]] — different hallucinogen class
+- [[lsd-history-pharmacology-and-culture]] — lysergamide comparison
+- [[mescaline-cacti-ethnobotany-chemistry-and-ceremony]] — mescaline comparison
+- [[tryptamine-chemistry-and-psychedelic-pharmacology]] — tryptamine pharmacology
+- [[psychedelic-phenethylamines-and-pihkal]] — phenethylamine comparison
+

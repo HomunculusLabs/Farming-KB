@@ -27,7 +27,7 @@ sources: [raw/papers/shulgin-a-tihkal.md]
 | Oral | 35 mg (inactive) | — |
 | Oral + MAOI | 10-25 mg | extended |
 
-### Experience Characteristics
+### [[dmt-black-hole-effect-and-ineffability-of-tryptamine-experience]] Characteristics
 
 5-MeO-DMT is distinguished from DMT by its rapid onset, overwhelming intensity, and relative absence of visual imagery:
 
@@ -82,7 +82,7 @@ A documented near-fatal reaction occurred at an unknown but very large smoked do
 
 ### Oral Activity with MAOI
 
-Like DMT, 5-MeO-DMT becomes orally active when combined with harmaline or other beta-carboline MAO inhibitors, in the 10-25 mg range. This combination mimics aspects of the [[ayahuasca-pharmacology]] experience but with 5-MeO-DMT's distinctive character.
+Like DMT, 5-MeO-DMT becomes orally active when combined with harmaline or other beta-[[maoi-tryptamine-pharmacodynamic-synergy-beta-carboline-potentiation]] MAO inhibitors, in the 10-25 mg range. This combination mimics aspects of the [[ayahuasca-pharmacology]] experience but with 5-MeO-DMT's distinctive character.
 
 ## See Also
 

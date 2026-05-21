@@ -4,7 +4,7 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [construction, homesteading, sustainability, permaculture, design, engineering]
-sources: []
+sources: ["raw/concepts/cordwood-construction.md"]
 ---
 
 # Cordwood Construction

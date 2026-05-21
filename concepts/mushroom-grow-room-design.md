@@ -9,7 +9,7 @@ sources: []
 
 ## Overview
 
-A dedicated grow room provides controlled environmental conditions for mushroom cultivation at scale. While a single monotub can be managed in a closet or spare room, growers running multiple tubs or bags benefit from a purpose-built space that maintains stable temperature, humidity, and fresh air exchange. Good grow room design reduces daily maintenance, improves consistency, and maximizes yields.
+A dedicated grow room provides controlled environmental conditions for [[simple-plastic-bin-fruiting-chamber-passive-humidity-mushroom-cultivation]] at scale. While a single monotub can be managed in a closet or spare room, growers running multiple tubs or bags benefit from a purpose-built space that maintains stable temperature, humidity, and fresh air exchange. Good grow room design reduces daily maintenance, improves consistency, and maximizes yields.
 
 ## Environmental Parameters
 
@@ -24,7 +24,7 @@ Psilocybe cubensis thrives at 70-78F (21-26C) during both colonization and fruit
 ### Humidity
 
 - **Colonization**: Ambient humidity is fine (40-60%). Jars and tubs maintain their own internal humidity.
-- **Fruiting**: 85-95% relative humidity is required for proper mushroom development. The monotub's internal humidity is maintained by the substrate moisture and evaporation, supplemented by misting.
+- **Fruiting**: 85-95% relative humidity is required for proper mushroom development. The monotub's internal humidity is maintained by the [[pressure-cooker-sterilization-time-temperature-jar-size-mushroom-substrate]] moisture and evaporation, supplemented by misting.
 - **Grow room ambient**: Maintaining 50-60% ambient humidity in the grow room reduces substrate moisture loss and lessens the need for misting.
 
 ### Fresh Air Exchange (FAE)

@@ -9,7 +9,7 @@ sources: [raw/papers/greg-green-the-cannabis-grow-bible.md]
 
 # Cannabis Vegetative Stage Management
 
-The vegetative stage is when cannabis builds its structure — roots, stems, and leaves — before flowering. This stage determines the plant's final size and yield potential. Proper management of light, training, and nutrition during veg is critical.
+The vegetative stage is when cannabis builds its structure — roots, stems, and leaves — before flowering. This stage determines the plant's final size [[green-cannabis-grow-bible-plant-training-pruning-and-yield]] potential. Proper management of light, training, and nutrition during veg is critical.
 
 ## Light Schedule
 - Standard: 18 hours on / 6 hours off (18/6)
@@ -65,7 +65,7 @@ The vegetative stage is when cannabis builds its structure — roots, stems, and
 - Autoflowers: vegetative stage is built-in (2-4 weeks), don't manipulate light schedule
 
 ## Related
-- [[cannabis-grow-room-setup]] — for room and light setup
+- [[green-cannabis-grow-bible-indoor-grow-room-setup]] — for room and light setup
 - [[cannabis-soil-and-nutrients]] — for feeding during veg
 - [[cannabis-grow-room-setup]] — for light specifics
 

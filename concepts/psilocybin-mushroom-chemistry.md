@@ -19,7 +19,7 @@ sources:
 - raw/papers/magic-mushrooms-around-the-world-by-jochen-gartz.md
 - raw/papers/unknown-metabolic-pathway-of-psilocybin-production.md
 - raw/papers/tryptamine-cubensis-gartz.md
-- raw/papers/variation-of-psilocybin-and-psilocin-levels-bigwood-beug-ocr.md
+- raw/papers/variation-of-psilocybin-and-psilocin-levels-bigwood-[[cap-vs-stem-alkaloid-distribution-psilocybe-cubensis-strains-bigwood-beug]]-ocr.md
 - raw/papers/growth-promoting-effect-of-a-brassinosteroid-in-mycelial-cultures-of-the-fungus-psilocybe-cubensis-gartz-adam-vorbrodt.md
 - raw/papers/concise-large-scale-synthesis-of-psilocin-and-psilocybin-shirota-hakamata-goda.md
 ---

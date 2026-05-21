@@ -8,13 +8,13 @@ tags:
 - jadam
 - recipe
 - pesticide
-- pest-control
+- pest-[[jadam-natural-pesticide-ultra-low-cost-pest-control]]
 - water
 - wood-rot
 - plant-systems
 
 sources:
-- raw/papers/jadam-organic-farming-ultra-low-cost-agriculture.md
+- raw/papers/jadam-organic-farming-ultra-low-cost-[[jadam-organic-farming-ultra-low-cost-agriculture-philosophy]].md
 ---
 
 # JADAM Pesticide for Slugs and Snails

@@ -21,7 +21,7 @@ sets) are agronomically important.
 
 In some species, polyploid plants grow bigger, yield more, or
 outperform typical diploid members. Some early reports claimed polyploid
-cannabis was more potent, but this research was described as flimsy
+cannabis was more potent, but this [[vioxx-scandal-evidence-based-medicine-gaps-lessons-cannabis-research-blesching-2015]] was described as flimsy
 and unscientific. No valid experiments have ever shown polyploid
 cannabis to contain more THC-potent resin.
 
@@ -102,7 +102,7 @@ Approaches that work at small scale require careful adaptation for larger implem
 Knowledge transfer and capacity building strengthen community resilience and enable broader adoption of effective practices. Documentation of lessons learned accelerates collective progress.
 ## Environmental Interactions
 
-Understanding environmental feedback mechanisms and system boundaries helps predict outcomes and avoid unintended consequences. Complex interactions require holistic assessment approaches.
+Understanding environmental feedback [[query-what-are-the-different-phytoremediation-mechanisms-and-which-plants-are-best-for-each]] system boundaries helps predict outcomes and avoid unintended consequences. Complex interactions require holistic assessment approaches.
 ## Adaptive Management
 
 Flexible management approaches that incorporate monitoring feedback and enable course correction prove more resilient than rigid plans in dynamic environments.

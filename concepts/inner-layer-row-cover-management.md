@@ -1,6 +1,6 @@
 ---
 title: Inner Layer Row Cover Management
-source: eliot-coleman-winter-harvest-handbook.md
+source: eliot-coleman-winter-harvest-[[eliot-coleman-and-the-winter-harvest-handbook]].md
 type: concept
 ---
 ## Related Concepts
@@ -22,7 +22,7 @@ Comparative studies reveal both commonalities and unique aspects across systems.
 The integration of traditional knowledge with scientific methods has proven effective.
 Environmental factors play a significant role in determining optimal strategies.
 Long-term studies demonstrate the sustainability and efficacy of these approaches.
-Community-based implementations have shown promising results across various regions.
+Community-based implementations have shown promising results across various [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]].
 Advanced practitioners continue to refine and optimize these established methods.
 New research tools enable more detailed analysis of complex interactions.
 Educational resources support broader adoption of best practices in this field.

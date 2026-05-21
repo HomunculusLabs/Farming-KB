@@ -28,7 +28,7 @@ shamanic practices through modern scientific inquiry.
 The earliest period encompasses the use of neurotropic fungi by indigenous
 peoples across multiple continents long before European contact. The most
 well-documented [[entheogenic-folk-religious-ceremonies]].
-  More than 200 common names for [[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]] based on some unidentified materials
+  More than 200 common [[guzman-allen-gartz-indigenous-mexican-mushroom-nomenclature-sacred-names]] for [[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]] based on some unidentified materials
 from Schultes's collections in Mexico. This period reflected the profound
 [[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]]), Panaeolus (as P. sphinctrinus), Cordyceps (two
 species), Claviceps (C. purpurea), and Amanita (A. muscaria). Edible
@@ -55,7 +55,7 @@ Hofmann, and the chemical characterization of many species. The number of
 recognized neurotropic species grew from approximately 20 to over 100
 during this period.
 
-## Period 4: Recreational Use and Cultural Degeneration (1960s)
+## Period 4: [[guzman-allen-gartz-recreational-use-degeneration-underground-neurotropic-fungi-trade]] and Cultural Degeneration (1960s)
 
 The fourth period involved the utilization of neurotropic fungi as
 recreational drugs, accompanied by a degeneration of traditional use,

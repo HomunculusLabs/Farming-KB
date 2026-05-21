@@ -21,7 +21,7 @@ sources:
 
 # Organic Herb Gardening
 
-Growing herbs using organic methods. Herbs are among the most rewarding plants to grow organically -- most are naturally pest-resistant, require minimal feeding, and many attract beneficial insects. See [[geoff-hamilton-organic-techniques]] for the broader organic system and [[companion-planting-reference]] for herb-based companion planting strategies.
+Growing herbs using organic methods. Herbs are among the most rewarding plants to grow organically -- most are naturally pest-resistant, require minimal feeding, and many attract beneficial insects. See [[geoff-hamilton-organic-techniques]] for the broader organic [[blue-light-phototropism-red-light-photoperiodism-dual-plant-vision-system]] and [[companion-planting-reference]] for herb-based companion planting strategies.
 
 ## Herb Classification by Growth Habit
 
@@ -92,7 +92,7 @@ Growing herbs using organic methods. Herbs are among the most rewarding plants t
 
 Herbs are central to organic pest management. See [[companion-planting-reference]] for full details:
 - **Basil** with tomatoes -- repels whitefly, improves flavour
-- **Rosemary, sage, thyme** with brassicas -- deter cabbage white butterfly
+- **Rosemary, sage, thyme** with brassicas -- deter cabbage [[gadd-fungal-wood-decay-brown-rot-white-rot-soft-rot-mechanisms]] butterfly
 - **Mint** near cabbage family -- deters flea beetles and cabbage moths
 - **Dill** with carrots -- attracts predatory wasps that control carrot fly
 - **Borage** -- attracts pollinators and predatory insects; companion for tomatoes, squash, strawberries

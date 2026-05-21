@@ -10,7 +10,7 @@ type: concept
 
 ## Overview
 
-Garden irrigation encompasses a wide range of techniques and technologies, from simple hose-end sprinklers to sophisticated drip systems integrated with fertigation setups. The choice of system depends on garden size, soil type, crop requirements, water availability, and the gardener's commitment to labor efficiency. Solomon emphasizes that understanding the relationship between soil, roots, and water is prerequisite to designing any effective irrigation strategy.
+Garden irrigation encompasses a wide range of techniques and technologies, from simple hose-end sprinklers to sophisticated drip systems integrated with fertigation setups. The choice of [[solomon-fertigation-bucket-drip-water-nutrient-delivery-system]] depends on garden size, soil type, crop requirements, water availability, and the gardener's commitment to labor efficiency. Solomon emphasizes that understanding the relationship between soil, roots, and water is prerequisite to designing any effective irrigation strategy.
 
 ## Moisture Stress in Plants
 
@@ -128,7 +128,7 @@ Raised beds (pp. 57–59) improve drainage in heavy soils but can dry out more q
 
 ### Manure and Moisture
 
-Various manures—chicken (pp. 30, 33, 200, 206–207), horse (pp. 27–29), rabbit (pp. 206–207), and steer (pp. 32, 33, 89)—contribute organic matter to soils, improving water retention. However, fresh manure can be high in soluble salts that may draw moisture away from plant roots if applied excessively. Solomon recommends composted or well-aged manure.
+Various manures—[[solomon-manure-quality-variable-nutrient-content-horse-steer-chicken]] (pp. 30, 33, 200, 206–207), horse (pp. 27–29), rabbit (pp. 206–207), and steer (pp. 32, 33, 89)—contribute organic matter to soils, improving water retention. However, fresh manure can be high in soluble salts that may draw moisture away from plant roots if applied excessively. Solomon recommends composted or well-aged manure.
 
 ## Rainfall and Irrigation Planning
 

@@ -50,9 +50,9 @@ Layer organic materials directly on the soil surface where you want to garden:
 
 This method builds soil in place and eliminates the need to transport and spread compost.
 
-## Black Soldier Fly Larvae (BSFL)
+## [[comparison-black-soldier-fly-larvae-vs-meat-scraps-composting]] (BSFL)
 
-Black soldier fly (Hermetia illucens) larvae are one of the most efficient biological waste processors available. They can convert food waste (including meat and dairy) into high-quality animal feed at remarkable rates.
+[[query-how-do-i-use-black-soldier-flies-for-composting-and-animal-feed]] fly (Hermetia illucens) larvae are one of the most efficient biological waste processors available. They can convert food waste (including meat and dairy) into high-quality animal feed at remarkable rates.
 
 ### BSFL System Design
 - A container with drainage (bucket, bin, or custom unit)

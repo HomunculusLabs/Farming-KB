@@ -8,7 +8,7 @@ tags:
 - gardening
 - indoor
 - equipment
-- plant-growth
+- plant-[[query-how-does-soil-temperature-affect-plant-growth-and-how-can-i-manage-it]]
 - organic
 - lighting
 - design
@@ -91,7 +91,7 @@ Growing under protection using organic methods. Based on Geoff Hamilton's approa
 
 ## Links
 
-- [[geoff-hamilton-organic-techniques]] -- Full organic gardening system
+- [[geoff-hamilton-organic-techniques]] -- Full [[hamilton-geoffhamilton-nick-organic-gardening-soil-types-and-management]] system
 - [[greenhouse-design]] -- Structure design and construction
 - [[seed-starting-reference]] -- Propagation under protection
 - [[seasonal-planning]] -- Monthly task calendar

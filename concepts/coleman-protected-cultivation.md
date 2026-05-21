@@ -1,5 +1,5 @@
 ---
-title: Protected Cultivation — Row Covers and Low Tunnels
+title: Protected Cultivation — [[coleman-double-layer-protection-greenhouse-row-cover]]s and Low Tunnels
 created: 2026-04-26
 tags: [row-covers, low-tunnels, protected-cultivation, coleman
 sources: The Winter Harvest Handbook, Eliot Coleman (2009)
@@ -89,7 +89,7 @@ suggests multiple pathways for further exploration and refinement.
 ## Integration and Implementation
 
 Successful implementation of coleman protected cultivation requires attention to site-specific
-conditions and adaptive management strategies. Integration with complementary
+conditions and adaptive management [[mollison-designers-snow-ice-and-winter-design-strategies]]. Integration with complementary
 practices often enhances overall outcomes. Practitioners recommend starting with
 small-scale trials before scaling up, documenting results systematically to
 inform future decisions and share knowledge with the broader community.

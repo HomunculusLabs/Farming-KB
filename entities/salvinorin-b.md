@@ -10,7 +10,7 @@ tags:
   - psychoactive
 date: 2026-04-28
 updated: 2026-04-28
-sources:
+sources: ["raw/concepts/salvinorin-reference.md"]
   - Valdés, L.J. et al. (2001). "Two new neoclerodane diterpenoids
     from golden-guide-salvia-divinorum-and-diviner-sage." Journal of Natural Products, 64(2),
     245-247.

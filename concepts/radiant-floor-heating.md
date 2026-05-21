@@ -3,7 +3,7 @@ title: Radiant Floor Heating
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
-tags: [energy, construction, homesteading, off-grid, design, engineering]
+tags: [energy, [[query-when-should-i-use-slip-form-stone-construction]], homesteading, off-grid, design, engineering]
 sources: []
 ---
 
@@ -27,7 +27,7 @@ Unlike forced-air systems that heat air and blow it into a room, radiant heating
 
 Circulates heated water through PEX tubing embedded in the floor.
 
-**System Components:**
+**[[blue-light-phototropism-red-light-photoperiodism-dual-plant-vision-system]] Components:**
 - Heat source: boiler, tankless water heater, wood boiler, or solar thermal
 - PEX tubing: Cross-linked polyethylene, embedded in floor (typically 1/2 inch)
 - Manifold: Distributes water to multiple zones

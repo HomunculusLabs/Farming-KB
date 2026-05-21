@@ -52,7 +52,7 @@ Mushroom festivals, forays, and mycological events bring together amateur and pr
 ### Fungi Festivals in France and Italy
 - France: Multiple regional mushroom exhibitions (Champignon fairs)
 - Italy: Feste dei funghi in various regions (Tuscany, Piedmont, Trentino)
-- Often coincide with truffle festivals (Alba White Truffle Festival)
+- Often coincide with truffle festivals (Alba [[gadd-fungal-wood-decay-brown-rot-white-rot-soft-rot-mechanisms]] Truffle Festival)
 - Strong culinary tradition with wild mushroom focus
 
 ### Nordic Mycological Events
@@ -139,7 +139,7 @@ Mushroom festivals, forays, and mycological events bring together amateur and pr
 
 ### Cultural Traditions
 - Mushroom festivals connect people to seasonal rhythms
-- Many traditions tied to specific regional and cultural contexts
+- Many traditions tied to specific regional and [[neurotropic-fungi-japan-east-asia-species-cultural-context]]s
 - Eastern European mushroom foraging traditions maintained through community events
 - Asian mycological societies preserve traditional mushroom knowledge
 - Indigenous mushroom traditions shared at cultural events

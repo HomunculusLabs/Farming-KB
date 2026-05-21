@@ -27,7 +27,7 @@ The active compounds in hallucinogenic plants are "true narcotics" that distort 
 ### Mushrooms
 
 Two broad groups of hallucinogenic mushrooms exist:
-1. **Amanita muscaria and A. pantherina** -- the fly-agarics, containing ibotenic acid and muscimol. See [[amanita-muscaria-chemistry-and-pharmacology]].
+1. **[[bloomfield-fly-agaric-amanita-muscaria-muscimol-ibotenic-acid-hallucinogens]] and A. pantherina** -- the fly-agarics, containing [[amanita-muscaria-pantherina-ibotenic-acid-muscimol-pharmacology]] and muscimol. See [[amanita-muscaria-chemistry-and-pharmacology]].
 2. **Psilocybin-containing species** -- primarily in the genera Psilocybe, Panaeolus, Conocybe, and Gymnopilus. Over 180 species contain psilocybin and/or psilocin. See [[global-psychedelic-mushroom-species-diversity]].
 
 ### Cacti
@@ -39,7 +39,7 @@ Several cactus species contain mescaline and related alkaloids:
 
 ### Vines
 
-- **Ayahuasca** (Banisteriopsis caapi) -- a Amazonian vine containing harmine and harmaline (beta-carboline alkaloids). Combined with DMT-containing plants like chacruna (Psychotria viridis) to produce an orally active brew. See [[ayahuasca-vision-art-and-Shipibo-tradition]].
+- **Ayahuasca** (Banisteriopsis caapi) -- a Amazonian vine containing harmine and harmaline (beta-carboline alkaloids). Combined with DMT-containing plants like chacruna (Psychotria viridis) to produce an orally active brew. See [[ayahuasca-vision-art-and-shipibo-tradition]].
 
 ### Seeds
 

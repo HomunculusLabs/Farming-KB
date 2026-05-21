@@ -4,7 +4,7 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [fungi, mushrooms, cultivation, species, species-profiles, food, foraging, agriculture]
-sources: []
+sources: ["raw/concepts/agaricus-species-guide.md"]
 ---
 
 # Agaricus Species Guide

@@ -68,9 +68,9 @@ No central leader. 3-5 main scaffold branches radiate outward from a short trunk
 - **Pruning**: Remove any shoots growing into the center. Maintain the open vase shape.
 
 ### Espalier
-Trees trained to grow flat against a wall, fence, or wire support in a two-dimensional pattern.
+Trees trained [[query-how-to-grow-pecan-trees-and-manage-a-home-pecan-orchard]] flat against a wall, fence, or wire support in a two-dimensional pattern.
 
-- **Best for**: Apples, pears, figs, stone fruits.
+- **Best for**: Apples, pears, figs, [[query-how-do-i-grow-stone-fruits-like-peaches-plums-and-cherries]].
 - **Structure**: Main branches trained horizontally along wires or a framework. Many formal patterns exist (horizontal cordon, palmette, candelabra).
 - **Advantages**: Extremely space-efficient. Decorative. Good for small gardens and urban spaces.
 - **Pruning**: Requires frequent, meticulous summer and dormant pruning. Labor-intensive.

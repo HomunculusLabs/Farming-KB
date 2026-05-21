@@ -4,7 +4,7 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [construction, sustainability, homesteading, off-grid, permaculture]
-sources: []
+sources: ["raw/concepts/natural-building-materials-guide.md"]
 ---
 
 # Natural Building Materials Guide

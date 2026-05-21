@@ -35,9 +35,9 @@ The "psycholytic" (mind-loosening) approach was developed primarily in Europe:
 
 - **Method:** Low to moderate doses (1-3 tablets of synthetic psilocybin) administered in a series of sessions over weeks or months, accompanied by psychotherapy
 - **Pioneers:** H. Leuner (Germany), S. Kurland (USA, Maryland Psychiatric Research Center), R. Sandison (UK)
-- **Target conditions:** Neuroses, personality disorders, PTSD, alcoholism, depression, anxiety disorders, obsessive-compulsive disorder
+- **Target conditions:** Neuroses, personality disorders, PTSD, [[metzner-lsd-origins-sandoz-psycholytic-osmond-hoffer-alcoholism-and-consciousness-expansion]], depression, anxiety disorders, obsessive-compulsive disorder
 - **Approach:** The psychedelic experience was viewed as a tool to access unconscious material and facilitate psychotherapeutic processing. Sessions were followed by extensive discussion and integration work.
-- **Results:** Many studies reported significant improvement rates, particularly for alcoholism (50%+ abstinence at follow-up) and anxiety related to terminal illness
+- **Results:** Many [[hofmann-lsd-clinical-research-early-studies]] reported significant improvement rates, particularly for alcoholism (50%+ abstinence at follow-up) and anxiety related to terminal illness
 
 ### Psychedelic Therapy
 

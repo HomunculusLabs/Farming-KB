@@ -13,7 +13,7 @@ Mollison approaches grazing and pasture as components of integrated farm systems
 
 ## Principles of Permaculture Pasture
 
-The permaculture approach to pasture differs fundamentally from conventional monoculture grazing:
+The [[bill-mollison-permaculture-a-designers-manual-windbreak-design-and-shelter]]pproach to pasture differs fundamentally from conventional monoculture grazing:
 
 - **Diverse species mixtures** rather than introduced pasture monocultures
 - **Rotational grazing** to prevent overgrazing and allow recovery
@@ -32,7 +32,7 @@ Grasslands can be improved by adding:
 - Deep-rooted herbs (chicory, comfrey, dandelion, dock) accessing subsoil nutrients
 
 ### Environmental Modifications
-- Water storage and soil structure improvement
+- [[mollison-designers-soil-water-storage-in-forest-systems]] and soil structure improvement
 - Irrigation and windbreak establishment
 - Key fertiliser or trace elements added as needed
 - Plant species maintained by slashing or light cultivation

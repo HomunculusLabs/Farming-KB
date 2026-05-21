@@ -27,7 +27,7 @@ Fungal enzymatic systems are the biochemical foundation of [[mycoremediation-tec
 - Also first described in **P. chrysosporium** (Kuwahara et al., 1984; Paszczynski et al., 1985)
 - Heme-containing enzyme that oxidizes Mn(II) to Mn(III), which then acts as a diffusible oxidant
 - Mn(III) chelated by organic acids (oxalate, malonate, malate) diffuses to oxidize phenolic substrates
-- More widely distributed among white-rot fungi than LiP
+- More widely distributed among white-[[singh-white-rot-fungi-lignin-modifying-enzymes-bioremediation]] than LiP
 - Key role in dye decolorization — MnP activity correlates with efficient decolorization of olive mill wastewater and textile dyes
 - Works in conjunction with Mn-independent peroxidase (MIP) in some species
 
@@ -77,6 +77,6 @@ Fungal enzymatic systems are the biochemical foundation of [[mycoremediation-tec
 ## Current Research Directions
 
 Ongoing studies continue to explore new aspects of this topic.
-Recent advances have provided deeper insights into the underlying mechanisms.
+Recent advances have provided deeper insights into the underlying [[gadd-fungal-wood-decay-brown-rot-white-rot-soft-rot-mechanisms]].
 Field applications have demonstrated the practical value of these findings.
 Researchers are actively investigating novel approaches and methodologies.

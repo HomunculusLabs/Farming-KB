@@ -67,7 +67,7 @@ Often wrongly called bamboo, this vigorous perennial has thick underground stems
 ## Key Concepts and Applications
 
 Understanding this subject requires examining multiple interconnected factors.
-Research has identified several key mechanisms that drive the underlying processes.
+Research has identified several key [[wood-rot-fungi-white-rot-brown-rot-and-decay-mechanisms]] that drive the underlying processes.
 Practical applications have been demonstrated across diverse environmental conditions.
 Field observations confirm the importance of proper technique and methodology.
 Historical practices provide valuable context for modern approaches and innovations.

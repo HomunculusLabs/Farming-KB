@@ -18,7 +18,7 @@ tags:
   - legendary-strain
 date: 2026-04-28
 updated: 2026-04-28
-sources:
+sources: ["AllBud. 'Chemdawg 91.' https://www.allbud.com/marijuana-strains/hybrid/chemdawg-91"]
   - https://wikileaf.com/strain/chemdawg
 ---# Chemdawg
 

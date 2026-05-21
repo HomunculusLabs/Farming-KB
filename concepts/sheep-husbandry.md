@@ -52,12 +52,12 @@ pasture.
 - Rotational grazing is essential — move sheep every 1-5 days depending on
   stocking density and season. See [[pasture-management]].
 - Ideal sward height: 3-6 inches. Graze down to 2-3 inches, then rotate.
-- Sheep do well on mixed grass-clover pastures. White clover provides
+- Sheep do well on mixed grass-clover pastures. [[gadd-fungal-wood-decay-brown-rot-white-rot-soft-rot-mechanisms]] clover provides
   nitrogen fixation and high protein.
 - Toxic plants: rhododendron, azalea, bracken fern, hemlock. Less prone to
   browse toxic plants than goats, but still at risk.
 - Stocking rate: 4-6 sheep per acre on good pasture with rotational grazing.
-  Adjust for climate and soil quality.
+  Adjust for [[jarrold-warm-humid-air-delivery-chamber-cold-climate-mushroom]] and soil quality.
 
 ## Shearing
 

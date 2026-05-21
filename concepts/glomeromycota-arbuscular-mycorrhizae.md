@@ -3,7 +3,7 @@ title: Glomeromycota and Arbuscular Mycorrhizae
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
-tags: [mycorrhizae, fungi, mycology, biology, soil, ecology, species-profiles, agriculture, symbiosis, plants]
+tags: [mycorrhizae, [[brassinosteroid-cross-kingdom-growth-regulation-plants-fungi]], mycology, biology, soil, ecology, species-profiles, agriculture, symbiosis, plants]
 sources: []
 ---
 
@@ -89,7 +89,7 @@ The AMF colonization of plant roots follows a well-characterized sequence:
 
 ### Phase 3: Root Entry and Intraradical Colonization
 
-1. Hypha penetrates between epidermal cells (intercellular) or through cells (intracellular)
+1. Hypha penetrates between epidermal [[membrane-transport-of-nutrients-into-plant-cells]] (intercellular) or through cells (intracellular)
 2. Hyphae spread through the root cortex, both intercellularly and intracellularly
 3. The plant maintains a modified plasmamembrane (periarbuscular membrane) around intracellular hyphae
 
@@ -119,7 +119,7 @@ The AMF colonization of plant roots follows a well-characterized sequence:
 
 ### Plant to Fungus (Carbon)
 
-- The plant provides lipids (fatty acids) and carbohydrates to the fungus
+- The plant provides lipids ([[stable-carbon-isotope-signature-fatty-acids-mycorrhizal-carbon-tracking]]) and carbohydrates to the fungus
 - AMF are obligate biotrophs — they depend entirely on plant-derived carbon
 - Lipids are the primary carbon currency (up to 20% of plant-fixed carbon may be transferred to AMF)
 - The plant actively synthesizes fatty acids (palmitic acid) for export to the fungus
