@@ -9,7 +9,7 @@ sources: []
 
 # Top Bar Hive Beekeeping
 
-Top bar hives are a natural beekeeping system that allows bees to build comb freely from suspended wooden bars rather than pre-formed frames. Popularized in the 1960s by the food-forest-design movement and proponents of low-intervention apiculture, top bar hives represent a departure from conventional Langstroth beekeeping.
+Top bar hives are a natural beekeeping system that allows bees to build comb freely from suspended wooden bars rather than pre-formed frames. Popularized in the 1960s by the [[food-forest-design]] movement and proponents of low-intervention apiculture, top bar hives represent a departure from conventional Langstroth beekeeping.
 
 ## Design and Dimensions
 
@@ -31,7 +31,7 @@ Bees in a top bar hive build comb to their own specifications, adjusting cell si
 
 - No plastic foundation or wax-coated wires
 - Drone comb is proportionally larger, supporting mite population monitoring
-- Comb is harvested as cut comb or crushed for candle-making
+- Comb is harvested as cut comb or crushed for [[candle-making]]
 - Bees allocate resources according to colony dynamics rather than frame geometry
 - Old comb is culled naturally during swarm management
 
@@ -57,7 +57,7 @@ Top bar hives require careful winter preparation. The follower board is moved in
 |---------|-------------|-----------------|
 | Comb type | Natural, free-built | Foundation-guided |
 | Equipment cost | Low | Moderate to high |
-| Honey fukuoka-ideal-rice-plant-form-dimensions-high-yield | Lower (15-30 lbs) | Higher (40-60 lbs) |
+| Honey yield | Lower (15-30 lbs) | Higher (40-60 lbs) |
 | Hive weight per box | N/A (horizontal) | 50-80 lbs when full |
 | Inspection style | One bar at a time | Full frame removal |
 | Queen excluder | Not used | Optional |
@@ -83,9 +83,9 @@ Place the hive on a stand 18-24 inches off the ground, facing southeast for earl
 
 ## Related Topics
 
-- candle-making for processing beeswax from crushed comb
-- herbal-salves-and-balms for using beeswax in salve recipes
-- wildlife-habitat-creation for planting bee forage
+- [[candle-making]] for processing beeswax from crushed comb
+- [[herbal-salves-and-balms]] for using beeswax in salve recipes
+- [[wildlife-habitat-creation]] for planting bee forage
 ## See Also
 - [[comparison-top-bar-hive-vs-warre-hive]]
 - [[comparison-beekeeping-basics-vs-top-bar-hive]]
