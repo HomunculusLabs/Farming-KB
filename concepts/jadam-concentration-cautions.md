@@ -9,9 +9,9 @@ tags: [jadam, coleman-deep-organic-farming-philosophy]
 - Start with the lowest recommended concentration and increase gradually
 - Concentration stress can disturb growth and metabolism, directly impacting yield and quality
 - For perennial query-can-fungi-break-down-plastic-pollution JWA, making it ineffective
-- Always use with JWA for [[jadam-concentration-guidelines]]
-- [[pf-tek-ethyl-alcohol-extraction-liqueur-concentration]]
-- [[ultra-low-concentration-brassinosteroid-efficacy-hormetic-dose-response-fungi]]
+- Always use with JWA for jadam-concentration-guidelines
+- pf-tek-ethyl-alcohol-extraction-liqueur-concentration
+- ultra-low-concentration-brassinosteroid-efficacy-hormetic-dose-response-fungi
 ---
 
 ## Overview

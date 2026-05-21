@@ -101,4 +101,3 @@ into broader environmental management frameworks.
 - [[holmgren-permaculture-twelve-design-principles-framework]]
 - [[holmgren-trees-solar-power-plants-detailed]]
 - [[permaculture-principle-2-catch-store-energy]]
-- [[permaculture-principle-2-catch-store-energy]]
